@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2019-01-21"
+last_updated: "2019-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -168,8 +168,6 @@ La ignorancia de las leyes no excusa su cumplimiento, pero los jueces, teniendo 
 ###### Artículo 22.
 
 La capacidad jurídica de las personas físicas se adquiere por el nacimiento y se pierde por la muerte, pero desde el momento que un individuo es concebido, de manera natural o por medio de las técnicas de reproducción asistida, queda bajo la protección de la ley y se le tiene por nacido para los efectos declarados en el presente Código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -377,6 +375,10 @@ Salvo lo que dispongan las leyes sobre imprenta, la exhibición o reproducción 
 
 El Registro Civil, es la institución por medio de la cual, el Estado inscribe y da publicidad a los actos constitutivos o modificativos del estado civil de las personas, por cuya razón, sus asientos e inscripciones hacen prueba plena.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2019)</small>
+
+Para garantizar el Derecho a la Identidad, todos los registros de nacimiento llevados a cabo en las Oficialías del Registro Civil serán gratuitos. El Oficial del Registro Civil expedirá sin costo la primera copia certificada del acta de registro de nacimiento.
+
 En la Entidad, estará a cargo de la Dirección Estatal del Registro Civil y los Oficiales del Registro Civil, autorizar los actos del estado civil de las personas y extender las actas relativas al nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio administrativo y defunción, así como inscribir las ejecutorias de discernimiento de tutela, las de pérdida de la capacidad o limitación de ésta para administrar bienes, la declaración de ausencia, la presunción de muerte y el divorcio judicial.
 
 Para inscribir los actos a que se refiere el párrafo anterior, se utilizarán los formatos que autorice la Dirección Estatal del Registro Civil, los que deben llenarse en forma mecanográfica y mediante los sistemas electrónicos e informáticos que ésta establezca.
@@ -563,7 +565,9 @@ Transcurrido el lapso a que se refieren los párrafos anteriores, se procederá 
 
 El acta de nacimiento deberá contener:
 
-Del registrado: el día, la hora, el lugar de nacimiento, el sexo, el nombre que se le imponga por la persona que lo presente, los dos apellidos que le correspondan, la mención de si se presenta vivo y la impresión de su huella digital.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
+Del registrado: el día, la hora, el lugar de nacimiento, el sexo, el nombre que se le imponga por la persona que lo presente, registrándolo con estricto apego a las formas orales, funcionales y simbólicas de comunicación pertenecientes a las lenguas indígenas; además contendrá los dos apellidos que le correspondan, la mención de si se presenta vivo y la impresión de su huella digital.
 
 De los padres, abuelos y testigos se anotarán los nombres, edades, domicilios y nacionalidad, incluso cuando la presentación se haga por persona distinta, salvo cuando se trate de recién nacidos que sean encontrados abandonados o cuya filiación se desconozca.
 
@@ -583,8 +587,6 @@ En caso de que sólo se presente a registrar uno de los padres y no acredite el 
 
 En las actas de nacimiento, por ningún motivo se pondrán palabras que califiquen en alguna forma a la persona registrada. Al Oficial que incurra en esta situación se le aplicarán las sanciones dispuestas en este ordenamiento legal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 79.
@@ -592,8 +594,6 @@ En las actas de nacimiento, por ningún motivo se pondrán palabras que califiqu
 Los recién nacidos que sean encontrados en situación de desamparo, deberán ser dotados de una acta de nacimiento, con los elementos necesarios para acreditar su personalidad.
 
 Para tal efecto, se procederá de la siguiente manera:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -727,21 +727,15 @@ Si el reconocimiento se hiciere en Oficialía diferente a aquella en donde se le
 
 ### Capítulo Cuarto. De las actas de adopción
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 92.
 
 Dictada la resolución judicial que autorice la adopción, el juez enviará al Director del Registro Civil, copia certificada de la sentencia y del auto en que causa ejecutoria, éste, a su vez, ordenará se levante el acta como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos y se harán las anotaciones en el acta de nacimiento original, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen del adoptado, ni su condición de tal, salvo providencia dictada en juicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 93.
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -1086,8 +1080,6 @@ El matrimonio debe celebrarse ante los funcionarios que establece la ley con las
 ###### Artículo 139.
 
 El matrimonio tiene como fin la creación de una comunidad íntima de vida entre los cónyuges y constituye la forma ideal para la protección de los intereses superiores de la familia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2011)</small>
 
@@ -1458,8 +1450,6 @@ Los bienes que los cónyuges adquieran en común por donación, herencia, legado
 ###### Artículo 198.
 
 Ni el marido podrá cobrar a la mujer ni ésta a aquél, retribución u honorario alguno por los servicios personales que le prestare o por los consejos y asistencia que le diere; pero si uno de los consortes, por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado que produjere.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -1971,8 +1961,6 @@ El parentesco de consanguinidad es el que existe entre personas que descienden d
 
 El parentesco por afinidad es el que surge por el matrimonio, entre un cónyuge y los parientes del otro.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 279.
@@ -2034,8 +2022,6 @@ Faltando los parientes a que se refieren las disposiciones anteriores, tienen la
 ###### Artículo 291.
 
 Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes, dentro del grado mencionado, que fueren incapaces.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2517,8 +2503,6 @@ III. A percibir la porción hereditaria y los alimentos que fije la ley.
 
 ### Capítulo Quinto. De la adopción
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 377.
@@ -2541,15 +2525,11 @@ A criterio y previa motivación del juez se puede dispensar el requisito de la e
 
 Solo se concederá la adopción cuando sea benéfica para la persona que trata de adoptarse, atendiendo al interés superior del menor o incapaz.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 378.
 
 La adopción crea entre los adoptantes y el adoptado, los mismos vínculos jurídicos que ligan a los padres con su hijos biológicos, con todos los efectos legales, al tiempo que extingue parentesco con la familia de origen, salvo para los impedimentos de matrimonio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2557,13 +2537,9 @@ La autoridad judicial que otorgue la adopción, se asegurará de la reserva de l
 
 I. Efectos de impedimentos matrimoniales; o
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 II. Cuando el adoptado lo solicite ejerciendo su derecho imprescriptible de conocer la identidad de sus padres biológicos, siempre y cuando sea mayor de edad; si fuere menor de edad, se requerirá el consentimiento de los adoptantes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2573,65 +2549,41 @@ La adopción internacional es la promovida personalmente por ciudadanos de otro 
 
 La adopción por extranjeros es la promovida y otorgada en los términos de este Código, a los extranjeros que tengan su residencia habitual en territorio nacional.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 El que promueva la adopción internacional deberá acreditar ante el juez, mediante constancia expedida por el Sistema Estatal para el Desarrollo Integral de la Familia, a través del Consejo Técnico de Adopciones, que cumple con los requisitos establecidos por los tratados internacionales suscritos y ratificados por los Estados Unidos Mexicanos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 I. (DEROGADA, P.O. 31 DE MARZO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 II. (DEROGADA, P.O. 31 DE MARZO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 III. (DEROGADA, P.O. 31 DE MARZO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 IV. (DEROGADA, P.O. 31 DE MARZO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 V. (DEROGADA, P.O. 31 DE MARZO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 El juez aprobará la adopción internacional, sólo cuando el adoptante tenga su residencia habitual en un país que también haya suscrito y ratificado los mismos tratados internacionales que los Estados Unidos Mexicanos, en la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 El juez que conozca del asunto, verificará minuciosamente que se cumpla con lo establecido por los tratados internacionales suscritos y ratificados por Estados Unidos Mexicanos, así como lo establecido en el presente Código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 En toda adopción internacional el menor, en tanto no se resuelva sobre la adopción, no podrá ser trasladado al extranjero.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
 En igualdad de circunstancias, se dará preferencia en la adopción a mexicanos sobre extranjeros.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 380.
 
 Los menores o incapaces podrán ser adoptados por cónyuges o concubinos unidos en los términos de este Código, siempre y cuando ambos estén conformes en considerar al adoptado como hijo, aunque sólo uno de ellos cumpla con el requisito de la edad para poder adoptar, quienes tendrán preferencia con relación a aquellas personas solteras que cumplan con los requisitos legales para adoptar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2643,8 +2595,6 @@ Cuando se presente conflicto de leyes entre la legislación del lugar de residen
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 383.
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
@@ -2652,8 +2602,6 @@ El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido defin
 ###### Artículo 384.
 
 El que adopta tendrá, respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2669,19 +2617,13 @@ Para que la adopción pueda tener lugar, deberán consentir en ella, en sus resp
 
 I. Quienes ejercen patria potestad sobre el menor que se trata de adoptar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 Si desean entregarlo en adopción a través de la Procuraduría de la Defensa del Menor y la Familia del Estado, lo entregarán al titular de ésta en los términos previstos por el artículo 439 fracción V de este Código, conforme al procedimiento establecido en el Código de Procedimientos Civiles del Estado de Querétaro, para que dicha autoridad determine, acorde a sus procedimientos administrativos, los adoptantes idóneos a los que se asignará al menor para iniciar el procedimiento judicial de adopción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 Si desean darlo en adopción a un particular, este último deberá contar previamente con el certificado de idoneidad que expida el Consejo Técnico de Adopciones; satisfecho lo anterior, podrá otorgarse el consentimiento mediante comparecencia ante el Juez competente, con la intervención del Ministerio Público adscrito, ya sea como medio preparatorio de juicio o en cualquier etapa del procedimiento de adopción. Ambas autoridades instruirán a quienes otorguen el consentimiento referido sobre los efectos de la adopción, debiendo constar en la comparecencia que es otorgado libremente, sin remuneración, presión o coacción alguna.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2689,35 +2631,23 @@ En todos los casos, la Procuraduría de la Defensa del Menor y la Familia del Es
 
 II. El tutor del que se va a adoptar;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 III. (DEROGADA, P.O. 31 DE MARZO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 IV. El Ministerio Público de la jurisdicción del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor, previo informe de la Procuraduría de la Defensa del Menor y la Familia. Dicho informe deberá rendirse dentro del término de cinco días, contados a partir de la petición hecha por el Ministerio Público; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
 V. Si el menor que se va adoptar tiene más de doce años, también se necesita su consentimiento para la adopción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 En todos los juicios de adopción, el juez familiar escuchará al menor atendiendo a su edad y grado de madurez.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
 La persona que haya acogido al menor o incapaz dentro de los seis meses anteriores a la solicitud de su adopción y lo trate como a un hijo, podrá oponerse a la adopción, debiendo exponer los motivos en que se funde su oposición, los que el juez calificará considerando el interés superior del menor o incapaz. Este derecho de oposición en ningún momento le corresponderá a representante alguno o directivo de casas hogar o instituciones de asistencia privada, así como asociaciones civiles que tengan a un menor puesto a disposición de la Procuraduría de la Defensa del Menor y la Familia del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2739,15 +2669,11 @@ Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando
 
 El juez que apruebe la adopción remitirá copia de las diligencias respectivas, al oficial del Registro Civil del lugar para que se levante el acta correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 391.
 
 Las adopciones serán irrevocables, pero pueden ser anuladas cuando no se haya cumplido con los requisitos establecidos para su otorgamiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2759,8 +2685,6 @@ En las adopciones, los derechos y obligaciones que resultan del parentesco por c
 
 La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 394.
@@ -2769,27 +2693,19 @@ Para obtener el Certificado de Idoneidad expedido por el Consejo Técnico de Ado
 
 Los procedimientos y plazos para la obtención del Certificado serán previstos en el Reglamento del Consejo Técnico de Adopciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 395.
 
 Para determinar la vinculación entre adoptante y adoptado, en los casos en que el proceso de adopción sea realizado a través de la Procuraduría de la Defensa del Menor y la Familia del Estado, el reglamento del Consejo Técnico de Adopciones establecerá los procedimientos, plazos y estudios necesarios para ello, fundándose siempre en el interés superior del menor.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 396.
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 ###### Artículo 397.
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 398.
 
@@ -2861,15 +2777,11 @@ Dentro de la notificación antes señalada, deberán señalarse los datos de ide
 
 IV. Una vez que ambas partes han manifestado se decisión de dar en adopción y de adoptar los embriones, deberán presentarlo por escrito ante el juez de lo familiar que corresponda, dentro de los quince días siguientes para que declare la adopción provisional; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
 V. De lograrse el embarazo de la receptora y el consecuente nacimiento del producto, aquélla deberá notificarlo al juez de lo familiar, mediante jurisdicción voluntaria, dentro de los treinta días siguientes al parto, quien acordará, en un plazo no mayor de quince días, el carácter de adopción con los efectos que para ésta establece el presente Código.
 
 Se exceptúan del procedimiento establecido en este artículo, los casos de las fracciones II y III del artículo 386.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2879,15 +2791,11 @@ En la sentencia judicial que declare la adopción, se impedirá una acción futu
 
 ### Capítulo Primero. De los efectos del ejercicio de la patria potestad, respecto de la persona de los hijos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 406.
 
 La patria potestad es el conjunto de derechos y obligaciones reconocidos por la ley a la madre y al padre en relación a sus hijos, para cuidarlos, protegerlos, educarlos y representarlos legalmente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2898,8 +2806,6 @@ Los hijos menores de edad no emancipados están bajo la patria potestad, mientra
 ###### Artículo 408.
 
 La patria potestad se ejerce sobre la persona y los bienes de los hijos. Su ejercicio queda sujeto a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con las leyes aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2932,8 +2838,6 @@ Cuando los padres del hijo nacido fuera de matrimonio que vivían juntos se sepa
 ###### Artículo 413.
 
 A falta de padres, ejercerán la patria potestad sobre los hijos, los ascendientes a que se refiere este Código, en el orden que determine el juez competente, tomando en cuenta las circunstancias del caso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3155,8 +3059,6 @@ XII. Cuando quien ejerza la patria potestad deje de asistir y convivir en forma 
 
 La patria potestad podrá ser limitada en los casos de divorcio o separación, tomando en cuenta lo que dispone este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 442.
@@ -3182,8 +3084,6 @@ La patria potestad no es renunciable, pero aquellos a quienes corresponde ejerce
 I. Cuando tengan sesenta años cumplidos;
 
 II. Cuando por su mal estado habitual de salud, no pueden atender debidamente a su desempeño; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 III. (DEROGADA, P.O. 31 DE MARZO DE 2011)
 
@@ -3211,8 +3111,6 @@ Si la acción no procede, no podrá volver a intentarse con posterioridad.
 
 La suspensión o pérdida del ejercicio de la patria potestad no afecta la convivencia de los menores con sus progenitores, salvo en los casos en que el menor sea objeto de descuido reiterado, violencia familiar, perversión o abuso sexual por parte de quien ejerza la patria potestad o hayan cometido en contra del menor delito grave o cuando las convivencias representen peligro para el sano desarrollo integral del menor o sean contrarias a su interés superior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 El juez, en todos los juicios de pérdida de patria potestad, deberá valorar y resolver respecto (sic) las convivencias, fundamentando siempre su medida en el interés superior del menor.
@@ -3239,23 +3137,17 @@ Cuando quien tenga decretada judicialmente la custodia provisional o definitiva 
 
 Si alguno de los progenitores detectara que su hijo está siendo manipulado por el otro progenitor, pariente, o por quien tenga una situación similar al parentesco, de tal manera que infundan en la niña, niño o adolescente rechazo, rencor, odio, o desprecio hacía éste, podrá solicitar ante el juez, el cambio de custodia. Para tomar una determinación, el juez, atendiendo a las circunstancias del proceso, resolverá sobre la pertinencia de practicar exámenes psicológicos a ambos padres y a las respectivas parejas de éstos en el caso de que las hubiere, en la institución que considere adecuada, escuchando además al menor y dando la intervención legal correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 448.
 
 Los padres, aunque no tengan la custodia del menor, tienen derecho a convivir con él, salvo que exista alguna de las causas establecidas en el artículo 446 de este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 No podrán impedirse las relaciones personales entre el menor y sus parientes, salvo que exista alguna de las causas previstas en el artículo 446 de este Código, establecida en resolución judicial. En caso de oposición, a petición de cualquiera de ellos, el juez resolverá lo conducente, en atención al interés superior del menor.
 
 Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3267,15 +3159,11 @@ En los juicios de pérdida de patria potestad, en materia de convivencias, el ju
 
 Los jueces, negarán o limitarán las convivencias por falta de ministración de alimentos, pudiendo autorizarlas de manera supervisada únicamente en caso que exista causa justificada para el deudor alimentario solicitante.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR EL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE MARZO DE 2011)</small>
 
 ### Capítulo Quinto
 
 De la custodia y convivencias de los menores puestos a disposición de la Procuraduría de la Defensa del Menor y la Familia del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3505,13 +3393,9 @@ A falta de tutor testamentario y de persona que con arreglo a los artículos ant
 
 El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR EL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MARZO DE 2011)</small>
 
 ### Capítulo Quinto. De la tutela legítima de los menores desamparados y de los acogidos por alguna persona o depositados en instituciones de asistencia pública o privada
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3521,25 +3405,17 @@ La ley coloca a los menores en situación de desamparo bajo la tutela de la pers
 
 Se considera expósito, al menor que es colocado en una situación de desamparo por quienes conforme a la ley estén obligados a su custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a un menor cuyo origen se conoce, se considerará abandonado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
 Se considera como situación de desamparo, la que se produce de un hecho a causa de la imposibilidad, del incumplimiento o inapropiado ejercicio de los deberes de protección establecidos por las leyes para la patria potestad, tutela o custodia de los menores, cuando éstos queden privados de la necesaria asistencia material o moral, ya sea en carácter de expósitos o abandonados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 El acogimiento tiene por objeto la protección inmediata del menor; si éste tiene bienes, el juez decidirá sobre la administración de los mismos, conforme a lo que señala este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE MARZO DE 2011)</small>
 
 En todos los casos, quien haya acogido a un menor, deberá dar aviso de ello al Ministerio Público, dentro de las cuarenta y ocho horas siguientes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3547,15 +3423,11 @@ En todos los casos, quien haya acogido a un menor, deberá dar aviso de ello al 
 
 Los directores de instituciones de asistencia pública o privada legalmente constituidos, donde se reciban menores en situación de desamparo, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos de la institución. En este caso, no es necesario el discernimiento del cargo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 494.
 
 Los responsables de las instituciones de asistencia pública o privada donde se reciban menores que hayan sido objeto de la violencia familiar a que se refiere este ordenamiento, tendrán la custodia de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todos los casos, darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad que no se encuentre señalado como responsable del evento de violencia familiar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -4321,27 +4193,19 @@ II. Fungir como tutor en los casos de ausencia de éste o cuando no se hubiere d
 
 III. En los procedimientos de adopción, en tanto no se autoriza la misma, será representante del menor o incapaz.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 Asimismo, estarán facultados para supervisar el funcionamiento de las adopciones que judicialmente se hayan otorgado en la Entidad, por lo que, en su caso, podrá interponer las acciones legales que resulten cuando aquellas se desempeñen de manera irregular y causen o puedan causar un daño al adoptado.
 
 En el caso de adopciones otorgadas a personas que residan en el extranjero, se podrán auxiliar a través de la vía diplomática o consular mexicana.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
 La Procuraduría de la Defensa del Menor y la Familia del Estado, tendrá la representación legítima del Consejo Técnico de Adopciones ante autoridad judicial, así como personalidad para comparecer en juicio en todos aquéllos asuntos en donde la ley le otorgue legitimación al Consejo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE MARZO DE 2011)</small>
 
 El Ministerio Público, investigará y dará aviso a la autoridad judicial, cuando conozca de acontecimientos que pongan en peligro al menor o a la familia, para que la autoridad actúe conforme a la ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -4819,7 +4683,7 @@ Artículo. 724. Los bienes afectos al patrimonio de la familia son inalienables 
 
 ###### Artículo 725.
 
-Se podrá constituir el patrimonio de la familia con bienes sitos en municipios conurbados o colindantes, escogiendo como domicilio de constitución aquél en el que se ubique la (sic) cada habitación.
+Se podrá constituir el patrimonio de la familia con bienes sitos en municipios conurbados o colindantes, escogiendo como domicilio de constitución aquél en el que se ubique la cada (sic) habitación.
 
 ###### Artículo 726.
 
@@ -5387,19 +5251,13 @@ IV. Por resolución judicial;
 
 V. Por despojo, si la desposesión dura más de un año;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2014)</small>
 
 VI. Por reivindicación del propietario;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2014)</small>
 
 VII. Por expropiación, por causa de utilidad pública; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 20 DE MARZO DE 2014)</small>
 
@@ -5416,8 +5274,6 @@ Se pierde la posesión de los derechos cuando es imposible ejercitarlos o cuando
 ###### Artículo 826.
 
 El propietario de una cosa puede gozar y disponer de ella con las limitaciones y modalidades que fijen las leyes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2014)</small>
 
@@ -5517,9 +5373,11 @@ El derecho de caza y el de apropiarse los productos de está en terrenos públic
 
 En terrenos de propiedad particular no puede ejercitarse el derecho a que se refiere el artículo anterior, ya sea comenzando en él la caza, ya continuando la comenzada en terreno público, sin permiso del dueño. Los campesinos asalariados y los aparceros, gozan del derecho de caza en las fincas donde trabajen, en cuanto se aplique a satisfacer sus necesidades y las de sus familias.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
 ###### Artículo 850.
 
-El ejercicio del derecho de cazar se regirá por los reglamentos administrativos y por las siguientes bases.
+El ejercicio del derecho de cazar se regirá por las leyes aplicables y los reglamentos administrativos correspondientes, además de las siguientes bases.
 
 ###### Artículo 851.
 
@@ -5547,11 +5405,11 @@ La acción para pedir la reparación prescribe a los treinta días, contados des
 
 ###### Artículo 857.
 
-Es lícito a los labradores destruir, en cualquier tiempo, los animales bravíos o cerriles que perjudiquen sus sementeras o plantaciones.
+(DEROGADO, P.O. 14 DE MAYO DE 2019)
 
 ###### Artículo 858.
 
-El mismo derecho se tiene respecto a las aves domésticas en los campos en que hubiere tierras sembradas de cereales u otros frutos pendientes, a los que pudieren perjudicar aquellas aves.
+(DEROGADO, P.O. 14 DE MAYO DE 2019)
 
 ###### Artículo 859.
 
@@ -5563,11 +5421,13 @@ El derecho de pesca en aguas particulares pertenece a los dueños de los predios
 
 ###### Artículo 861.
 
-Es lícito a cualquier persona apropiarse los animales bravíos, conforme a los reglamentos respectivos.
+(DEROGADO, P.O. 14 DE MAYO DE 2019)
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
 
 ###### Artículo 862.
 
-Es lícito a cualquier persona apropiarse los enjambres que no hayan sido encerrados en colmena o cuando la han abandonado.
+Es lícito a cualquier persona apropiarse los enjambres que no hayan sido encerrados en colmena o cuando la han abandonado, respetando en todo momento las disposiciones relativas a la preservación de estas.
 
 ###### Artículo 863.
 
@@ -5575,7 +5435,7 @@ No se entiende que las abejas han abandonado la colmena cuando se han posado en 
 
 ###### Artículo 864.
 
-Los animales feroces que escaparen del encierro en que los tengan sus dueños, podrán ser destruidos o capturados por cualquiera. Pero los dueños pueden recuperarlos si indemnizan los daños y perjuicios que hubieren ocasionado.
+(DEROGADO, P.O. 14 DE MAYO DE 2019)
 
 ###### Artículo 865.
 
@@ -8541,15 +8401,11 @@ Si sólo quedaren descendientes de ulterior grado, la herencia se dividirá por 
 
 Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 1491.
 
 El adoptado hereda como un hijo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1492.
 
@@ -8581,15 +8437,11 @@ Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos parte
 
 Los miembros de cada línea dividirán entre sí, por partes iguales, la porción que les corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 1499.
 
 Los adoptantes, heredarán en los mismos términos establecidos en este Capítulo para el padre y la madre.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1500.
 
@@ -16139,7 +15991,7 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 
 P.O. 19 DE DICIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO, DE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ARCHIVOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO”.]
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO, DE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ARCHIVOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -16201,7 +16053,7 @@ VII. El impuesto sobre diversiones y espectáculos públicos a que se refiere el
 
 VIII. Las obligaciones formales y sustantivas de los contribuyentes del Impuesto Sobre Loterías, Rifas, Sorteos, Concursos y Juegos con Apuestas, previsto por el Capítulo Sexto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se tendrán por cumplidas en su totalidad, por lo que se refiere a los ejercicios 2012, 2013 y 2014, en aquellos casos en los que hubiesen determinado y enterado dicho tributo correspondiente a los citados ejercicios fiscales, aplicando las deducciones a que se refieren los artículos 65, fracciones V y VI y 66, de la mencionada norma hacendaria en vigor a partir del 1º de enero del 2015;
 
-IX. Los derechos previstos en los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del (sic) Querétaro Centro de Congresos y Querétaro Teatro Metropolitano;
+IX. Los derechos previstos en los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del Querétaro Centro de Congresos y Querétaro Teatro Metropolitano;
 
 X. Siempre que se trate de vivienda de interés social o popular, los derechos que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
 
@@ -16246,5 +16098,21 @@ P.O. 21 DE ENERO DE 2019.
 ## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LOS ARTÍCULOS 112 Y 272 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO".]
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 14 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, EN MATERIA DE PROTECCIÓN A LOS ANIMALES”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 14 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA EL ARTÍCULO 48 Y REFORMA EL ARTÍCULO 75 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
