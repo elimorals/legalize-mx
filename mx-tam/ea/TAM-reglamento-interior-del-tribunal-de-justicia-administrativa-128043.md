@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-interior-del-tribunal-de-justicia-administrativa-128
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-03-01"
-last_updated: "2018-03-01"
+last_updated: "2019-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
 
 Reglamento publicado en el Anexo al Número 27 del Periódico Oficial del Estado de Tamaulipas, el jueves 1 de marzo de 2018.
 
@@ -71,15 +71,19 @@ IX. Reglamento de Transparencia: El Reglamento del Tribunal de Justicia Administ
 
 X. Salas del Tribunal: Las Salas Unitarias a que se refiere el artículo 7 de la Ley.
 
-XI. Sistema de Juicio en Línea: Sistema informático establecido por el Tribunal a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento contencioso administrativo que se sustancie ante el Tribunal;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+XI. Sistema de Juicio en Línea: Sistema informático establecido por el Tribunal a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento contencioso administrativo que se sustancie ante el Tribunal a través de internet;
 
 XII. TIC´s: Tecnologías de la Información y Comunicaciones; y
 
 XIII. Tribunal: El Tribunal de Justicia Administrativa del Estado de Tamaulipas.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
 ###### Artículo 3.
 
-Los servidores públicos del Tribunal ajustarán su actividad jurisdiccional y administrativa a la Ley, al Reglamento, al Estatuto, a los Acuerdos que emita el Pleno, a las Condiciones Generales de Trabajo, al Código de Etica del Tribunal y demás disposiciones jurídicas aplicables.
+Los servidores públicos del Tribunal ajustarán su actividad jurisdiccional y administrativa a la Ley, al Reglamento, al Estatuto, a los Acuerdos que emita el Pleno, a las Condiciones Generales de Trabajo, al Código de Ética del Tribunal y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 4.
 
@@ -99,7 +103,9 @@ I. Personal operativo, jurisdiccional, administrativo y de enlace adscritos a la
 
 El Pleno, en su primera sesión del año, determinará el calendario oficial de labores del Tribunal, el cual deberá publicarse en el Periódico Oficial del Estado, quedando facultado para realizar las modificaciones necesarias de conformidad con las necesidades del servicio, debiendo publicarse en el Periódico Oficial del Estado.
 
-Quedan exceptuados del horario establecido en este artículo, los Magistrados de Sala, el Titular del Órgano Interno de Control y el personal que éstos determinen, mediante escrito dirigido al Director de Administración.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
+Quedan exceptuados del horario establecido en este artículo, los Magistrados de Sala, el Titular del Órgano Interno de Control y el personal que éstos determinen, mediante escrito en el que se motive y justifique la causa por la cual se exceptúa, dirigido al Director de Administración.
 
 ###### Artículo 7.
 
@@ -125,63 +131,83 @@ I. El Pleno; y
 
 II. Las Salas Unitarias.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
 ###### Artículo 10.
 
-El Tribunal contará, para el cumplimiento de su actividad jurisdiccional, con los siguientes servidores públicos:
+El Tribunal contará, para el cumplimiento de su actividad, con los siguientes servidores públicos:
 
-I. Magistrados de Sala Unitaria;
+I. Presidente del Tribunal;
 
-II. Secretario General de Acuerdo;
+II. Magistrados de Sala Unitaria;
 
-III. Director Administrativo;
+III. Secretario General de Acuerdos;
 
-IV. Director de informática;
+IV. Secretario Técnico;
 
-V. Titular del Órgano Interno de Control;
+V. Director Administrativo;
 
-VI. Secretarios de Estudio y Cuenta;
+VI. Director de informática;
 
-VII. Secretarios de Acuerdos;
+VII. Titular del Área Coordinadora de Archivo;
 
-VIII. Jefe del Departamento de Gestión Financiera y Recursos Humanos;
+VIII. Secretarios de Estudio y Cuenta;
 
-IX. Jefe del Departamento de Planeación;
+IX. Secretarios de Acuerdos;
 
-X. Jefe del Departamento de Recursos Materiales y Servicios Generales;
+X. Jefe del Departamento de Gestión Financiera y Recursos Humanos;
 
-XI. Jefe del Departamento de Sistemas;
+XI. Jefe del Departamento de Planeación;
 
-XII. Jefe del Departamento de Transparencia y Rendición de Cuentas;
+XII. Jefe del Departamento de Recursos Materiales y Servicios Generales;
 
-XIII. Actuarios;
+XIII. Jefe del Departamento de Sistemas;
 
-XIV. Oficial de Partes;
+XIV. Jefe del Departamento de Internet;
 
-XV. Archivista;
+XV. Jefe del Departamento de Transparencia y Rendición de Cuentas;
 
-XVI. Oficiales Secretarios;
+XVI. Actuarios;
 
-XVII. Auxiliares Administrativos; y
+XVII. Oficial de Partes;
 
-XVIII. El personal eventual que requiera el buen despacho de los asuntos.
+XVIII. Oficial Jurisdiccional;
+
+XIX. Oficial Administrativo;
+
+XX. Oficial de Transparencia;
+
+XXI. Archivista;
+
+XXII. Auxiliar Jurisdiccional;
+
+XXIII. Auxiliar Administrativo;
+
+XXIV. Auxiliar de Transparencia;
+
+XXV. Chofer;
+
+XXVI. Intendentes; y
+
+XXVII. El personal eventual que requiera el buen despacho de los asuntos.
 
 Los servidores públicos a que se refieren las fracciones anteriores serán considerados personal de confianza y para el desempeño de sus funciones contarán con el personal operativo que conforme a las necesidades del servicio se requiera y que figure en el presupuesto autorizado.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
 ###### Artículo 11.
 
-Los servidores públicos referidos en el artículo 10 del presente Reglamento quedarán adscritos de la siguiente manera:
+Los servidores públicos referidos en el artículo 10 del presente Reglamento quedarán adscritos de la siguiente manera, de acuerdo a la disponibilidad de recursos y plazas autorizadas en el Presupuesto de Egresos para este Tribunal:
 
-I. Al Presidente del Tribunal: El Secretario General de Acuerdos, el Secretario Particular, el Director Administrativo, el Director de Informática, el Jefe del Departamento de Transparencia y Rendición de Cuentas, el Oficial de Partes y el Archivista.
+I. Al Presidente del Tribunal: El Secretario General de Acuerdos, el Secretario Técnico, el Director Administrativo, el Director de Informática, el Jefe del Departamento de Transparencia y Rendición de Cuentas, el Titular del Área Coordinadora de Archivo; así como el personal que de todos ellos dependan.
 
-II. A los Magistrados de Salas Unitarias: Un Secretario de Acuerdos, un Secretario de Estudio y Cuenta, Oficiales Secretarios y Auxiliares Administrativos.
+II. A los Magistrados de Salas Unitarias: Un Secretario de Acuerdos, un Secretario de Estudio y Cuenta, un Actuario, Oficiales y Auxiliares Jurisdiccionales.
 
-III. Al Secretario General de Acuerdos: Un Actuario y Oficiales Secretarios.
+III. Al Secretario General de Acuerdos: Un Actuario, el Oficial de Partes y Oficiales y Auxiliares Jurisdiccionales.
 
-IV. Al Director Administrativo: El Jefe del Departamento de Gestión Financiera y Recursos Humanos, el Jefe del Departamento de Planeación, el Jefe del Departamento de Recursos Materiales y Servicios Generales, y Auxiliares administrativos.
+IV. Al Director Administrativo: El Jefe del Departamento de Gestión Financiera y Recursos Humanos, el Jefe del Departamento de Planeación, el Jefe del Departamento de Recursos Materiales y Servicios Generales, Chofer, Auxiliares administrativos e intendentes.
 
-V. Al Director de Informática: El Jefe del Departamento de Sistemas y Auxiliares Administrativos.
-
-VI. Al Titular del Órgano Interno de Control: Auxiliares Administrativos.
+V. Al Director de Informática: El Jefe del Departamento de Sistemas, el Jefe del Departamento de Internet y Auxiliares Administrativos.
 
 ### Capítulo II. Del Funcionamiento del Pleno
 
@@ -189,13 +215,21 @@ VI. Al Titular del Órgano Interno de Control: Auxiliares Administrativos.
 
 Para la atención debida y oportuna de los asuntos a cargo de los Magistrados, actuando en Pleno, se sesionará formalmente cuando menos una vez por semana, en los días que acuerde el Pleno.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2019)</small>
+
+En caso de no existir asuntos a tratar, así lo hará saber el Presidente mediante comunicación oficial.
+
 ###### Artículo 13.
 
 El Magistrado ponente en asuntos jurisdiccionales, deberá informar a la Secretaría General con al menos cuatro días de anticipación, los asuntos que someterá a discusión y en su caso aprobación del Pleno, a afecto de que la Secretaría los incluya en el orden del día de la sesión próxima inmediata, debiendo acompañar a tal comunicación, el expediente respectivo y el proyecto de sentencia o resolución a deliberar.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2019)</small>
+
+Excepcionalmente, por urgencia en el cumplimiento de resolución de amparo, los Magistrados podrán someter a consideración del Pleno la inclusión de dichos proyectos en el orden del día, así como asuntos administrativos de importancia para el Tribunal, para lo cual, una vez justificada la petición, deberá obtener el voto unánime de aprobación de los integrantes del Pleno.
+
 ###### Artículo 14.
 
-Cuando un proyecto de carácter jurisdiccional sometido a consideración del Pleno empate en la votación, éste se diferirá para una próxima sesión.
+(DEROGADO, P.O. 14 DE MAYO DE 2019)
 
 ###### Artículo 15.
 
@@ -219,7 +253,9 @@ II. Dictar las disposiciones normativas de carácter obligatorio y observancia g
 
 III. Instrumentar los actos y trámites necesarios para el cumplimiento y resolución de los asuntos de su competencia;
 
-IV. Instituirse en comité de Compras y Adquisiciones, en términos del artículo 3, numeral 2 de la Ley de Adquisiciones para la Administración Pública del Estado de Tamaulipas y sus Municipios.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+IV. Nombrar al comité de compras y adquisiciones, en términos del artículo 3, numeral 2 de la Ley de Adquisiciones para la Administración Pública del Estado de Tamaulipas y sus Municipios.
 
 Para efectos de lo establecido en el primer párrafo del presente artículo, se entenderá por:
 
@@ -235,9 +271,11 @@ c) Disciplina: la actividad tendente a verificar que los servidores públicos de
 
 El Pleno resolverá sobre el régimen laboral y de seguridad social de los integrantes del Tribunal y llevará a cabo las gestiones necesarias para proveer, en las mejores condiciones de equidad, lo conducente para el retiro de los servidores públicos jurisdiccionales del Tribunal.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
 ###### Artículo 19.
 
-El Pleno tendrá a su cargo la carrera jurisdiccional mediante la aplicación del Estatuto, el cual deberá basarse en principios de eficiencia, capacidad y experiencia que regularán las fases de ingreso, promoción, permanencia y retiro de los servidores públicos señalados en las fracciones XIII a XVII del artículo 10 de este reglamento, procurando la excelencia por medio de la aplicación de los concursos y evaluaciones periódicas que contemple el propio Estatuto.
+El Pleno tendrá a su cargo la carrera jurisdiccional mediante la aplicación del Estatuto, el cual deberá basarse en principios de eficiencia, capacidad y experiencia que regularán las fases de ingreso, promoción, permanencia y retiro de los servidores públicos señalados en las fracciones VIII, IX, XVI, XVII, XVIII, XXI y XXII del artículo 10 de este reglamento, procurando la excelencia por medio de la aplicación de los concursos y evaluaciones periódicas que contemple el propio Estatuto.
 
 ###### Artículo 20.
 
@@ -265,7 +303,9 @@ I. Representar al Tribunal, ante toda clase de autoridades incluyendo las jurisd
 
 II. Conducir la planeación estratégica del Tribunal, de conformidad con los lineamientos que determine el Pleno;
 
-III. Dirigir la política de comunicación social y de relaciones públicas del Tribunal, pudiendo delegar esta función, en cualquiera de los Magistrados de Sala;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+III. Dirigir la política de comunicación social y de relaciones públicas del Tribunal, pudiendo delegar esta función, en cualquiera de los Magistrados de Sala o en el Secretario Técnico;
 
 IV. Designar a servidores públicos del Tribunal para que lo representen en eventos académicos o de cualquier otra naturaleza, vinculados con el conocimiento y divulgación de materias relacionadas con su competencia, en el entendido de que el cumplimiento de esta encomienda por parte de los servidores públicos designados, se entenderá como parte de las labores a su cargo en la residencia del órgano del Tribunal a que esté adscrito, en cuyo caso no requerirá licencia, pudiendo recaer esta responsabilidad, inclusive, en cualquiera de los Magistrados por invitación del Presidente;
 
@@ -285,11 +325,17 @@ X. Comunicar a los integrantes de las Salas los casos de incorporación y de act
 
 XI. Dictar las medidas que exijan el orden, buen funcionamiento y la disciplina en las instalaciones comunes del Tribunal, velar porque se guarde respeto y consideración en las mismas, así como imponer las correcciones disciplinarias que corresponda con sujeción a los acuerdos, normas y lineamientos establecidos por el Pleno;
 
-XII. Las demás que le confieran otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2019)</small>
+
+XII. Requerir a las unidades administrativas y Salas del Tribunal la información y documentación necesarias para la elaboración de informes o reportes internos y externos;
+
+XIII. Las demás que le confieran otras disposiciones jurídicas aplicables.
 
 Para el ejercicio de sus funciones, el Presidente contará con las unidades administrativas y el personal de apoyo especializado establecidos en el presente Reglamento y que figuren en el presupuesto autorizado.
 
-### Capítulo IV. De la Secretaría General de Acuerdos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2019)</small>
+
+### Capítulo IV. De las Secretarías del Tribunal
 
 ###### Artículo 22.
 
@@ -297,7 +343,9 @@ Para el cumplimiento de las funciones conferidas en el artículo 31 de la Ley, c
 
 I. Tramitar la publicación en el Periódico Oficial del Estado cuando así se requiera, de los acuerdos, resoluciones, jurisprudencias, precedentes o tesis aisladas, emitidos por el Pleno;
 
-II. Elaborar el informe estadístico mensual y anual de los juicios promovidos ante el Tribunal;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+II. Elaborar el informe estadístico trimestral y anual de los juicios promovidos ante el Tribunal;
 
 III. Formular los manuales de organización y procedimientos del área a su cargo;
 
@@ -317,9 +365,11 @@ X. Recibir en custodia los expedientes, pruebas, bienes, información confidenci
 
 XI. Elaborar, implementar y cumplir los acuerdos del Pleno, sometiéndolos a la aprobación y en su caso, firma del Presidente;
 
-XII. Elaborar las actas de las versiones taquigráficas de las sesiones del Pleno, en donde conste la aprobación de los textos de las tesis, precedentes o reiteraciones;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
-XIII. Revisar las versiones mecanográficas de las sesiones del Pleno;
+XII. Elaborar las actas de las sesiones de Pleno, en donde conste la aprobación de los textos de las tesis, precedentes o reiteraciones;
+
+XIII. (DEROGADA, P.O. 14 DE MAYO DE 2019)
 
 XIV. Llevar y mantener actualizado el Registro de Peritos del Tribunal;
 
@@ -395,6 +445,36 @@ V. Las demás que le confieran otras disposiciones jurídicas.
 
 En los juicios tramitados a través del Sistema de Juicio en Línea, y siempre que sea procedente, ejercerá las facultades a que se refiere este artículo mediante el citado Sistema.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2019)</small>
+
+###### Artículo 23 Bis.
+
+Corresponde al Secretario Técnico, en el ámbito administrativo:
+
+I. Exponer al pleno sobre los asuntos administrativos enlistados en el orden del día, en las sesiones ordinarias, extraordinarias y privadas, cuando así se le solicite;
+
+II. Auxiliar al Secretario General, en la elaboración de actas administrativas y minutas con los acuerdos administrativos acordados en las sesiones;
+
+III. Dar seguimiento a la implementación de los acuerdos administrativos emitidos por el Pleno, informando al Presidente, sobre el estado que guardan relativo a su cumplimiento;
+
+IV. Dar seguimiento responsable a las actividades de comunicación social del Tribunal, atendiendo las instrucciones del Presidente;
+
+V. Coordinar los eventos de difusión, académicos y de promoción de las actividades del Tribunal;
+
+VI. Adoptar, en el ámbito de su competencia y respecto a las atribuciones encomendadas al área a su cargo, las medidas necesarias para el combate a la corrupción y la transparencia a la información pública gubernamental;
+
+VII. Vigilar la aplicación y cumplimiento de las políticas y lineamientos para la administración de los recursos financieros, materiales y humanos del área y personal a su cargo, que apruebe el Pleno;
+
+VIII. Coadyuvar con los Magistrados integrantes del Pleno, en los asuntos administrativos que deban ser sometidos a su consideración;
+
+IX. Auxiliar al Presidente en la tramitación e implementación de temas administrativos;
+
+X. Dar a conocer los acuerdos y resoluciones administrativas que determine el Pleno;
+
+XI. Coadyuvar en la preparación del informe anual de funcionamiento del Tribunal que el Presidente debe presentar ante el Pleno;
+
+XII. Las demás que le confiera el Presidente o el Pleno.
+
 ### Capítulo V. De los Secretarios de las Salas Unitarias
 
 ###### Artículo 24.
@@ -443,7 +523,9 @@ XX. Dar cuenta al Magistrado Unitario de que procede requerir a la autoridad dem
 
 XXI. Atender a las partes, así como a los autorizados en el juicio para recibir notificaciones, y a los peritos designados;
 
-XXII. Permitir, bajo su más estricta responsabilidad, la consulta de expedientes que se tramitan en la vía tradicional, a las personas autorizadas que sean parte. Los Secretarios de Acuerdos deberán estar presentes durante el tiempo de la consulta, a fin de evitar la pérdida o sustracción de las actuaciones, pruebas o cualesquiera documentos;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+XXII. Permitir, bajo su más estricta responsabilidad, la consulta de expedientes que se tramitan en la vía tradicional, a las personas autorizadas que sean parte. Los Secretarios de Acuerdos deberán estar presentes durante el tiempo de la consulta, a fin de evitar la pérdida o sustracción de las actuaciones, pruebas o cualesquiera documentos, elaborando la razón de consulta correspondiente;
 
 XXIII. Elaborar el proyecto de acuerdo de radicación de las acciones de responsabilidad remitidas por las autoridades competentes en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas;
 
@@ -479,7 +561,9 @@ XXXVIII. Vigilar la aplicación y cumplimiento de las políticas y lineamientos 
 
 XXXIX. Asistir a las sesiones ordinarias y extraordinarias del Pleno y exponer, a petición de sus integrantes, precisiones complementarias a los proyectos de su competencia, que se presenten a consideración del mismo; y
 
-XL. Las demás que señalen el Presidente del Tribunal, el Pleno, el Magistrado de la Sala Unitaria a la cual se encuentra adscrito, la Ley, el reglamento interior del Tribunal y las demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+XL. Las demás que señalen el Pleno, el Magistrado de la Sala Unitaria a la cual se encuentra adscrito, la Ley, el reglamento interior del Tribunal y las demás disposiciones legales aplicables.
 
 ###### Artículo 25.
 
@@ -489,13 +573,21 @@ I. Efectuar las diligencias que le encomiende el Magistrado al que estén adscri
 
 II. Realizar el proyecto de resolución de las acciones de responsabilidad, cuando de su análisis determine que la conducta no está prevista como falta administrativa grave;
 
-III. Formular el proyecto de resolución correspondiente, que incluirá la imposición de las sanciones administrativas que correspondan al servidor público que haya cometido faltas administrativas graves y, en su caso, a los particulares que hayan incurrido en las mismas;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
-IV. Elaborar los proyectos de sentencias definitivas e interlocutorias, y engrosarlas, en su caso, de acuerdo con las instrucciones que reciban del Magistrado de la Sala;
+III. Formular oportunamente el proyecto de resolución correspondiente, que incluirá la imposición de las sanciones administrativas que correspondan al servidor público que haya cometido faltas administrativas graves y, en su caso, a los particulares que hayan incurrido en las mismas;
 
-V. Elaborar los proyectos para el cumplimiento de ejecutorias de amparo concedidos contra las sentencias definitivas;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
-VI. Elaborar los informes previos y justificados;
+IV. Elaborar oportunamente los proyectos de sentencias definitivas e interlocutorias, y engrosarlas, en su caso, de acuerdo con las instrucciones que reciban del Magistrado de la Sala;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+V. Elaborar oportunamente los proyectos para el cumplimiento de ejecutorias de amparo concedidos contra las sentencias definitivas;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+VI. Elaborar oportunamente los informes previos y justificados;
 
 VII. Formular los manuales de organización y procedimientos del área a su cargo;
 
@@ -515,7 +607,13 @@ XIV. Vigilar la aplicación y cumplimiento de las políticas y lineamientos para
 
 XV. Asistir a las sesiones ordinarias y extraordinarias del Pleno y exponer, a petición de sus integrantes, precisiones complementarias a los proyectos de su competencia, que se presenten a consideración del mismo; y
 
-XVI. Las demás que le encomienden el Presidente del Tribunal, el Pleno, el Magistrado de la Sala Unitaria a la cual se encuentra adscrito, esta Ley, el reglamento interior del Tribunal y las demás disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2019)</small>
+
+XVI. Turnar oportunamente al actuario de la Sala de su adscripción las resoluciones y sentencias dictadas por el Magistrado de Sala o por el Pleno, para su debida notificación, en su caso; y
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+XVII. Las demás que le encomienden el Pleno, el Magistrado de la Sala Unitaria a la cual se encuentra adscrito, esta Ley, el reglamento interior del Tribunal y las demás disposiciones legales aplicables.
 
 ### Capítulo VI. De las Salas Unitarias
 
@@ -529,9 +627,11 @@ Se considerará como fecha de publicación, el día en que se incorpore a la pá
 
 Presentada la demanda se turnará aleatoriamente en orden sucesivo de recepción, a la Sala correspondiente.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
 ###### Artículo 28.
 
-En aquellos casos en que los Magistrados de alguna Sala Unitaria, se encuentren impedidos por cualquier causa para conocer de algún juicio, el Pleno determinará los Secretarios de Estudio y Cuenta que deberán conocer del juicio.
+En aquellos casos en que los Magistrados de alguna Sala Unitaria, se encuentren impedidos por cualquier causa para conocer de algún juicio, una vez resuelta la excusa como procedente por el Pleno, éste turnará el expediente para su substanciación y resolución a la Sala que le siga en número.
 
 ###### Artículo 29.
 
@@ -567,7 +667,9 @@ III. Preparar las minutas, acuses y documentación necesaria, así como enviar d
 
 IV. Dar seguimiento a las notificaciones remitidas a la oficina de correos y apremiar, en su caso, el desahogo del servicio;
 
-V. Revisar el contenido de las listas de los asuntos acordados, firmarlas y fijarlas oportunamente en sitio visible de la Sala, además de incorporarlas diariamente en los archivos electrónicos del Tribunal a fin de facilitar su consulta;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+V. Revisar el contenido de las listas de los asuntos acordados, además de incorporarlas diariamente en los archivos electrónicos del Tribunal a fin de facilitar su consulta;
 
 VI. Revisar los acuerdos o resoluciones a notificar e informar al Magistrado de los errores que detecte sobre la forma de notificar ordenada o de los datos relativos a la notificación para que, en su caso, se corrijan;
 
@@ -589,11 +691,17 @@ XIV. Vigilar la aplicación y cumplimiento de las políticas y lineamientos para
 
 XV. Asistir a las sesiones ordinarias y extraordinarias del Pleno y exponer, a petición de sus integrantes, precisiones complementarias o información de su competencia, que se presenten a consideración del mismo; y
 
-XVI. Las demás que le confieran otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2019)</small>
+
+XVI. Hacer entrega, de los acuerdos, sentencias, resoluciones y demás documentos que hubiesen sido notificados por lista, en las oficinas de la Sala, por comparecencia de las partes o de las personas que estén reconocidas en los juicios como autorizados para oírlas y recibirlas, previa identificación; y
+
+XVII. Las demás que le confieran otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2019)</small>
 
 ###### Artículo 31.
 
-Corresponde a los Oficiales Secretarios:
+Corresponde a los Oficiales y Auxiliares Jurisdiccionales:
 
 I. Formular los anteproyectos de acuerdos y resoluciones que les sean encomendados;
 
@@ -629,7 +737,9 @@ XIV. Las demás que les confieran otras disposiciones jurídicas aplicables.
 
 Corresponde al Oficial de Partes:
 
-I. Cuando el particular opte por tramitar el juicio en la vía tradicional, recibir las demandas, oficios, promociones y demás documentos dirigidos a la Sala o Salas a que estén adscritas, asentando de manera legible, en un lugar visible de la primera hoja del documento original y de sus copias, el sello oficial del órgano receptor, contenido en un reloj impresor de la fecha y hora de recepción;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+I. Cuando el particular opte por tramitar el juicio en la vía tradicional, recibir las demandas, oficios, promociones y demás documentos dirigidos a la Sala o Salas a que estén adscritas, asentando de manera legible, en un lugar visible de la primera hoja del documento original y de sus copias, el sello oficial del órgano receptor, mediante dispositivo impresor de la fecha y hora de recepción;
 
 II. Recibir y revisar los anexos presentados junto con la promoción correspondiente, sellar al reverso de su última hoja indicando el número de anexos y copias que se reciben y rubricar en el sello para validar su recepción;
 
@@ -637,23 +747,33 @@ III. Registrar en el Sistema los anexos de la promoción que corresponda y turna
 
 IV. Turnar de inmediato a los Secretarios de Acuerdos promociones y oficios urgentes, recursos de revisión, demandas de amparo, cumplimientos de ejecutoria y requerimientos del Poder Judicial de la Federación, así como las solicitudes de petición de medidas cautelares y suspensión de la ejecución del acto impugnado;
 
-V. Turnar diariamente, en forma electrónica y física, al Secretario General de Acuerdos, a los Secretarios de Acuerdos de Sala Unitaria que correspondan, los documentos recibidos recabando el acuse de recibo respectivo;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
-VI. En caso de fallas en el funcionamiento del reloj utilizado para la recepción de los documentos, levantar un acta administrativa ante la presencia de dos testigos y el Secretario General de Acuerdos que de fe, para hacer constar el hecho, informando al Presidente. En este caso, la recepción de la documentación, se realizará asentando manualmente el sello oficial del órgano receptor y la fecha y hora de recepción;
+V. Turnar diariamente, en forma electrónica y física, al Secretario General de Acuerdos, a los Secretarios de Acuerdos de las Salas Unitarias que correspondan, los documentos recibidos recabando el acuse de recibo respectivo;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+VI. En caso de fallas en el funcionamiento del dispositivo impresor utilizado para la recepción de los documentos, levantar un acta administrativa ante la presencia de dos testigos y el Secretario General de Acuerdos que de fe, para hacer constar el hecho, informando al Presidente. En este caso, la recepción de la documentación, se realizará asentando manualmente el sello oficial del órgano receptor y la fecha y hora de recepción;
 
 VII. Rendir un informe mensual y anual de actividades al Pleno por conducto del Presidente; y
 
 VIII. Las demás que le confieran otras disposiciones jurídicas aplicables y las que le encomie (sic) el Pleno.
 
-Sin perjuicio de lo anterior, le corresponderá vigilar y supervisar que el personal que tenga adscrito cumpla con las obligaciones establecidas en el presente Reglamento para los Oficiales de Partes.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
+Sin perjuicio de lo anterior, le corresponderá vigilar y supervisar que el personal que tenga adscrito cumpla con las obligaciones establecidas en el presente Reglamento para el Oficial de Partes.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
 
 ###### Artículo 33.
 
-Se recibirán promociones en las Oficialías de Partes durante los días que determine el calendario oficial que apruebe el Pleno en acuerdo específico.
+Se recibirán promociones en la Oficialía de Partes durante los días que determine el calendario oficial que apruebe el Pleno en acuerdo específico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2019)</small>
 
 ###### Artículo 34.
 
-Corresponde al Archivista del Tribunal, en el ámbito de su competencia:
+Adicional a las facultades y obligaciones establecidas en la Ley General de Archivos y las disposiciones locales, corresponde al Titular del Área Coordinadora de Archivo, en el ámbito de su competencia:
 
 I. Identificar los expedientes definitivamente concluidos y aquéllos que tengan valor histórico o documental, , conforme a los criterios que al respecto emita el Pleno;
 
@@ -755,9 +875,11 @@ El Sistema de Juicio en Línea es el sistema informático establecido por el Tri
 
 Dicho Sistema se integrará por todos los sistemas informáticos y soluciones digitales de comunicación e información que desarrolle el Tribunal, entre los que se deberán incluir, el Subsistema de Información Estadística.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2019)</small>
+
 ###### Artículo 41.
 
-Los servidores públicos del Tribunal cuyas funciones los vinculen directamente con la operación y aplicación de los Sistemas mencionados en el artículo anterior, deberán cumplir con diligencia, oportunidad y certeza las obligaciones que les impongan los acuerdos, normas, lineamientos y procedimientos que emita el Pleno, conforme a las disposiciones de la Ley Federal de Procedimiento Contencioso Administrativo, y de la Ley.
+Los servidores públicos del Tribunal cuyas funciones los vinculen directamente con la operación y aplicación de los Sistemas mencionados en el artículo anterior, deberán cumplir con diligencia, oportunidad y certeza las obligaciones que les impongan los acuerdos, normas, lineamientos y procedimientos que emita el Pleno, conforme a las disposiciones de la Ley del Procedimiento Contencioso Administrativo del Estado de Tamaulipas, y de la Ley.
 
 La inobservancia de dichas obligaciones será causa de responsabilidad y motivará la aplicación de las sanciones que correspondan.
 
@@ -773,7 +895,9 @@ Para el cumplimiento de sus obligaciones de transparencia y acceso a la informac
 
 I. La Unidad de Transparencia, que será el vínculo entre los solicitantes y las diversas áreas jurisdiccionales y administrativas que integran el Tribunal, a efecto de facilitar el acceso a la información generada en éstas. El Titular de la Unidad de Enlace será nombrado por el Pleno a propuesta del Presidente y tendrá las funciones establecidas en la Ley de Transparencia, el Reglamento de Transparencia y las demás disposiciones jurídicas aplicables;
 
-II. El Comité de Transparencia, como órgano encargado de promover y difundir el ejercicio del derecho de acceso a la información en el Tribunal. Este Comité estará conformado por al menos un Magistrado y demás personal que se designe, siempre en número impar, y tendrá las facultades establecidas en la Ley de Transparencia y el Reglamento de Transparencia; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+II. El Comité de Transparencia, como órgano encargado de promover y difundir el ejercicio del derecho de acceso a la información en el Tribunal. Este Comité será nombrado por el Pleno del tribunal y estará conformado por el personal que se designe, quienes no dependerán jerárquicamente uno de otro, siempre en número impar, y tendrá las facultades establecidas en la Ley de Transparencia y el Reglamento de Transparencia, correspondientes.
 
 ###### Artículo 44.
 
@@ -882,6 +1006,24 @@ VI. Coordinar los programas de servicio social y prácticas profesionales de est
 VII. Proponer, gestionar y difundir servicios asistenciales, culturales, deportivos y sociales para los trabajadores y trabajadoras del Tribunal, con perspectiva de género; y
 
 VIII. Coordinar y verificar la debida integración de los expedientes de los servidores públicos del Tribunal.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2019)</small>
+
+###### Artículo 46 Bis.
+
+Corresponde a la Dirección Administrativa, en materia de Planeación, ejercer las siguientes facultades:
+
+I. Coordinar el proceso de planeación para la formulación y actualización de los documentos de la Misión, Visión, el Plan de Desarrollo Institucional del TJA, y los programas de desarrollo de las unidades administrativas;
+
+II. Convocar a los diversos actores del TJA a las reuniones de planeación institucional;
+
+III. Asesorar, coordinar y/o desarrollar investigaciones, estudios y proyectos relacionados con el análisis de la situación interna y externo del TJA, requeridos para los procesos de planeación y desarrollo institucional;
+
+IV. Planear y desarrollar programas institucionales de actualización en materia de planeación;
+
+V. Integrar la información anual del desempeño institucional que presenta el Magistrado Presidente ante el Congreso del Estado;
+
+VI. Propiciar la realización de ejercicios de evaluación institucional para reconocer el estado de desarrollo del TJA, identificar fortalezas y áreas de oportunidad e identificar los retos de corto, mediano y largo plazos.
 
 ###### Artículo 47.
 
@@ -1015,19 +1157,29 @@ XXIV. Administrar las licencias de programas de cómputo o pólizas de mantenimi
 
 ### Capítulo XIII. De las Licencias y Suplencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2019)</small>
+
 ###### Artículo 50.
 
-Las licencias que se otorguen al personal del Tribunal, se ajustarán a lo siguiente:
+Las licencias o permisos que se otorguen al personal del Tribunal, se ajustarán a lo siguiente:
 
 I. Para ausencias mayores de tres días y hasta treinta días, los Magistrados deberán solicitar al Pleno licencia por escrito debidamente motivada;
 
 II. El Pleno podrá conceder licencias con goce de sueldo, hasta por tres meses, cuando sean solicitadas por el Secretario General de Acuerdos y Secretarios de las Salas, con el propósito de iniciar y concluir los trámites correspondientes a su jubilación;
 
-III. Las licencias a directores, personal jurisdiccional y administrativo, serán concedidas por el Pleno, siempre y cuando no excedan de un plazo improrrogable de diez días hábiles en un año y cuenten con la conformidad del Magistrado Presidente o Magistrado titular de la Sala a la que se encuentren adscritos en términos del presente Reglamento;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
-IV. Las licencias por enfermedad o maternidad al personal del Tribunal, se otorgarán en términos de las leyes aplicables; y
+III. Las licencias a directores, personal jurisdiccional y administrativo, podrán ser concedidas por el Pleno, cuando excedan de un plazo de tres días hábiles y cuenten con la conformidad del Magistrado titular de la Sala a la que se encuentren adscritos en términos del presente Reglamento;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+IV. Las licencias por enfermedad, maternidad o paternidad al personal del Tribunal, se otorgarán en términos de las leyes aplicables;
 
 V. Las resoluciones del Pleno a las peticiones de licencia que reciba, serán notificadas por conducto del Director Administrativo y copia de las mismas se integrarán al expediente del servidor público de que se trate.
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2019)</small>
+
+VI. El Magistrado titular del área de adscripción del servidor público del Tribunal, bajo su más estricta responsabilidad podrá conceder permiso a su personal, con o sin goce de sueldo, hasta por el plazo de dos días hábiles, tratándose de casos cuya justificación acredite el solicitante. En todo caso, el Magistrado deberá informar previamente a la Dirección Administrativa su decisión.
 
 El Pleno determinará, en términos de las disposiciones aplicables, los casos en que las licencias podrán concederse con o sin goce de sueldo.
 
@@ -1080,3 +1232,13 @@ QUINTO. Se ordena la publicación inmediata del presente Reglamento en el Perió
 Así lo acordó el Pleno del Tribunal de Justicia Administrativa del Estado de Tamaulipas, con el voto que por unanimidad emitieron los Magistrados EDGAR URIZA ALANIS, NOÉ SÁENZ SOLIS y ANDRÉS GONZÁLEZ GALVÁN, siendo Presidente el primero de los mencionados; quienes firman ante el Secretario General de Acuerdos Licenciado José Manuel Garza Reyes; quien autoriza y Da Fe.
 
 MAGISTRADO PRESIDENTE.- TITULAR DE LA PRIMERA SALA.- EDGAR URIZA ALANIS.- Rúbrica.- MAGISTRADO.- TITULAR DE LA SEGUNDA SALA.- NOÉ SÁENZ SOLIS.- Rúbrica.- MAGISTRADO.- TITULAR DE LA TERCERA SALA.- ANDRÉS GONZÁLEZ GALVÁN.- Rúbrica.- SECRETARIO GENERAL DE ACUERDOS.- JOSÉ MANUEL GARZA REYES.- Rúbrica.
+
+P.O. 14 DE MAYO DE 2019.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO TJA/PLN/ACU/020/2019 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS; EMITIDO EN SESIÓN PÚBLICA ORDINARIA DEL 02 DE MAYO DE 2019".]
+
+PRIMERO. El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se ordena la publicación inmediata del presente acuerdo modificatorio al Reglamento en el Periódico Oficial del Estado de Tamaulipas. Así como en la página de internet del Tribunal.
