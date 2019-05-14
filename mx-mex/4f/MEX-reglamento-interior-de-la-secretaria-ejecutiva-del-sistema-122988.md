@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-ejecutiva-del-sistema-1229
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-07-31"
-last_updated: "2017-07-31"
+last_updated: "2019-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA EJECUTIVA DEL SISTEMA DE PROTECCION DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA EJECUTIVA DEL SISTEMA DE PROTECCIÓN INTEGRAL DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 14 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA EJECUTIVA DEL SISTEMA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 14 DE MAYO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 31 de julio de 2017.
 
@@ -176,3 +178,13 @@ SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ODENAMIENTO.]</small>
+
+G.G. 14 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA EJECUTIVA DEL SISTEMA DE PROTECCIÓN INTEGRAL DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO.”].
+
+PRIMERO. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría Ejecutiva del Sistema de Protección de Niñas, Niños y Adolescentes del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno", el 31 de julio de 2017.
