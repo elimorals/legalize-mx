@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-instituto-queretano-de-las-mujeres-89335"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-30"
-last_updated: "2013-07-19"
+last_updated: "2019-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL INSTITUTO QUERETANO DE LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Querétaro, el jueves 30 de agosto de 2012.
 
@@ -53,9 +53,9 @@ Son sujetos de los derechos que esta Ley garantiza, las mujeres y los hombres qu
 
 Para los efectos del presente ordenamiento, se entenderá por:
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
 
-Acciones afirmativas, las medidas especiales de carácter temporal, encaminadas a impulsar la equidad para lograr erradicar la violencia y la discriminación contra las mujeres.
+Acciones afirmativas, las medidas específicas de carácter temporal, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres, eliminando las causas de discriminación contra las mujeres, para compensar la distribución desigual de oportunidades y beneficios y erradicar la violencia infligida en su contra y promover sus Derechos Humanos.
 
 Conciliación de vida laboral y familiar, el conjunto de políticas públicas y acciones afirmativas para lograr que las mujeres no enfrenten la disyuntiva entre vida laboral y vida familiar, a través de la flexibilización de la estructura social y el impulso de programas para desarrollar el trabajo desde sus hogares y trabajos por proyectos.
 
@@ -139,11 +139,15 @@ Para el cumplimiento de su objeto, el Instituto tendrá las siguientes atribucio
 
 I. Colaborar en el diseño del Programa Estatal de las Mujeres, en el marco del Plan Estatal de Desarrollo; su coordinación y la evaluación periódica y sistemática del mismo;
 
-II. Elaborar y dar seguimiento, en coordinación con la dependencia gubernamental que corresponda, a las políticas públicas transversales y acciones afirmativas con perspectiva de género en materia de salud, educación, trabajo, incorporación laboral, equidad salarial, autoempleo, conciliación de la vida laboral y la familiar, seguridad, integración familiar, equidad de género, incremento del poder adquisitivo, pobreza, trabajo comunitario, participación y planeación social, desarrollo de capacidades, derechos humanos, participación de la mujer en la toma de decisiones, prevención y atención de la violencia y, en general, todas aquéllas que estén orientadas al desarrollo integral de las condiciones y capacidades sociales, políticas, económicas y culturales de las mujeres en el Estado;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+II. Elaborar y dar seguimiento, en coordinación con la dependencia gubernamental que corresponda, a las políticas públicas transversales y acciones afirmativas con perspectiva de género en materia de salud, embarazo, parto y puerperio, educación, trabajo, incorporación laboral, equidad salarial, autoempleo, conciliación de la vida laboral y la familiar, seguridad, integración familiar, equidad de género, incremento del poder adquisitivo, pobreza, trabajo comunitario, participación y planeación social, desarrollo de capacidades, derechos humanos, participación de la mujer en la toma de decisiones, prevención y atención de la violencia y, en general, todas aquéllas que estén orientadas al desarrollo integral de las condiciones y capacidades sociales, políticas, económicas y culturales de las mujeres en el Estado.
 
 III. Estimular la incorporación de la perspectiva de género en la planeación y elaboración de programas sectoriales o, en su caso, institucionales específicos, así como en las acciones de las dependencias y entidades de la administración pública estatal;
 
-IV. Diseñar, proponer y evaluar, con apoyo de la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado, desde una perspectiva de género, los mecanismos específicos para dar seguimiento a los recursos asignados a las distintas dependencias gubernamentales, destinados a la atención de las mujeres y la equidad de género;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+IV. Brindar a las dependencias del Poder Ejecutivo del Estado el auxilio necesario para la creación de los mecanismos para formular presupuestos públicos con perspectiva de género y dar seguimiento en el ámbito de su competencia, a los recursos destinados a la atención de las mujeres y para la consecución de la igualdad sustantiva;
 
 V. Solicitar a las dependencias y entidades de la administración pública del Estado la información estadística desagregada con perspectiva de género;
 
@@ -151,19 +155,27 @@ VI. Llevar un registro de los programas gubernamentales y no gubernamentales a f
 
 VII. Coadyuvar con las dependencias que correspondan, en la conformación de un sistema de información estadística que genere indicadores para el diseño de las políticas públicas, con el objeto de fomentar la igualdad sustantiva entre mujeres y hombres;
 
-VIII. Promover con las autoridades educativas en el Estado, talleres de prevención de violencia contra las mujeres, así como del empoderamiento femenino;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+VIII. Promover con las autoridades educativas en el Estado, estrategias didácticas para promover la igualdad sustantiva y prevenir la violencia de género;
 
 IX. Promover la designación de responsables de la perspectiva de género en las dependencias de la administración pública;
 
-X. Celebrar con los tres órdenes de gobierno, así como con organismos constitucionales autónomos y de la sociedad civil, convenios de coordinación y colaboración para la promoción y ejecución de acciones afirmativas con perspectiva de género;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
-XI. Concertar acciones afirmativas en los ámbitos gubernamental, social y privado a favor de las mujeres del Estado de Querétaro;
+X. Celebrar con los tres órdenes de gobierno, así como con organismos constitucionales autónomos y de la sociedad civil, convenios de coordinación y colaboración para diseñar, promover y ejecutar acciones afirmativas con perspectiva de género;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+XI. Promover el diseño, implementación y seguimiento de acciones afirmativas en los ámbitos gubernamental, social y privado en favor de las mujeres del Estado de Querétaro;
 
 XII. Impulsar programas de difusión e información que promuevan el reconocimiento social y el desarrollo de capacidades de las mujeres;
 
 XIII. Difundir las disposiciones jurídicas y administrativas vigentes a favor de las mujeres en el Estado, las que existan a nivel nacional y los tratados internacionales firmados y ratificados por México;
 
-XIV. Operar como órgano de consulta, asesoría, capacitación y formación de las dependencias y entidades de la administración pública y de los sectores social y privado, en materia de equidad de género e igualdad de oportunidades;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+XIV. Operar como órgano de consulta, asesoría, capacitación y formación de las dependencias y entidades de la administración pública y de los sectores social y privado, en materia de igualdad sustantiva entre mujeres y hombres, y de acciones afirmativas en favor de la mujer para la promoción de sus derechos;
 
 XV. Promover la elaboración de metodologías, indicadores y estudios de género en colaboración con instituciones públicas, privadas y académicas de reconocido prestigio;
 
@@ -173,23 +185,29 @@ XVI. Integrar, administrar y actualizar permanentemente una biblioteca pública 
 
 XVII. Brindar atención psicológica y orientación legal a mujeres que manifiesten ser receptoras de violencia de género;
 
-XVIII. Establecer vinculación permanente con las autoridades de procuración, administración e impartición de justicia y seguridad pública en el Estado, para proponer medidas de prevención contra cualquier forma de discriminación contra las mujeres;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2013)</small>
+XVIII. Establecer vinculación permanente con las autoridades de procuración, administración e impartición de justicia y seguridad pública en el Estado, para proponer, incentivar y apoyar las medidas de prevención contra cualquier forma de discriminación y violencia contra las mujeres;
 
-XIX. Operar y coordinar el Refugio para Mujeres Víctimas de Violencia y brindar tanto a las víctimas como a sus hijas o hijos menores de edad, los apoyos gratuitos de hospedaje, alimentación, vestido, calzado, asesoría legal, atención psicológica y acceso a servicios médicos y hospitalarios, prestados por instituciones e instancias de salud públicas;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+XIX. Operar y coordinar el Refugio para Mujeres Víctimas de Violencia y brindar tanto a las víctimas como a sus hijas o hijos menores de edad, los apoyos gratuitos de alojamiento, alimentación, vestido, calzado, asesoría legal, atención psicológica y acceso a servicios médicos y hospitalarios, prestados por instituciones e instancias de salud públicas;
 
 XX. Promover que las menores continúen con sus estudios y que las mujeres obtengan capacitación, profesionalización y acceso a fuentes de empleo;
 
-XXI. Gestionar y obtener recursos provenientes de dependencias e instituciones públicas, organizaciones privadas y sociales, organismos regionales e internacionales, para promover la equidad de género y la igualdad de oportunidades;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+XXI. Gestionar y obtener recursos provenientes de dependencias e instituciones públicas, organizaciones privadas y sociales, organismos regionales e internacionales, para promover la igualdad sustantiva entre mujeres y hombres y el diseño e implementación de estrategias y acciones con perspectiva de género;
 
 XXII. Promover la creación de instancias de las mujeres en cada uno de los municipios del Estado;
 
-XXIII. Proponer a la persona titular del Poder Ejecutivo del Estado de Querétaro, proyectos de iniciativas de ley orientadas a la armonización legislativa de la normatividad queretana con las convenciones y demás instrumentos internacionales vigentes en el País, en materia de derechos humanos de las mujeres;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+XXIII. Proponer a la persona titular del Poder Ejecutivo del Estado de Querétaro, proyectos de iniciativas de ley orientadas a la armonización legislativa de la normatividad estatal con las convenciones y demás instrumentos internacionales vigentes en el País, en materia de Derechos Humanos de las mujeres;
 
 XXIV. Establecer vinculación permanente con la Comisión Estatal de Derechos Humanos del Estado de Querétaro, en materia de discriminación hacia las mujeres;
 
-XXV. Formar parte de la representación del Poder Ejecutivo del Estado, en eventos y actividades relacionadas con la equidad de género; y (sic)
+XXV. Formar parte de la representación del Poder Ejecutivo del Estado, en eventos y actividades relacionadas con la equidad de género; y
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2013)</small>
 
@@ -203,13 +221,17 @@ XXVII. Desarrollar, implementar y operar estrategias de sensibilización y capac
 
 XXVIII. Elaborar, proponer, impulsar y ejecutar políticas, programas, instrumentos, mecanismos, metodologías y acciones tendientes a la detección, atención, y protección de las mujeres receptoras de la violencia en el Estado;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
-XXIX. Canalizar a las instancias que correspondan, los casos de violencia que detecte o que le reporten y actuar como coadyuvante en la defensa de los intereses de la mujer ante dichas instancias conforme al marco legal aplicable; y
+XXIX. Canalizar a las instancias que correspondan, los casos de violencia que detecte o que le reporten y actuar como coadyuvante en la defensa de los intereses de la mujer ante dichas instancias conforme al marco legal aplicable;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MAYO DE 2019)</small>
 
-XXX. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglamento Interno del Instituto.
+XXX. Promover la realización de estudios, diagnósticos o instrumentos que permitan visibilizar las brechas de genero existentes para el reconocimiento, goce y ejercicio de los Derechos Humanos de las mujeres en materia de salud reproductiva y materno infantil, promoviendo entre actores estratégicos la compatibilización de la vida laboral, familiar y el empoderamiento económico; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE MAYO DE 2019)</small>
+
+XXXI. Las demás que establezca esta Ley y otros ordenamientos.
 
 ### Capítulo Tercero. De la estructura orgánica y funcionamiento del Instituto
 
@@ -443,8 +465,6 @@ VI. Solicitar anualmente a los Ayuntamientos de los municipios del Estado, la in
 
 ### Capítulo Único. De las responsabilidades y sanciones
 
-### Capítulo Segundo. De la coordinación con los municipios del Estado
-
 ###### Artículo 21.
 
 Los servidores públicos del Instituto son responsables de las acciones u omisiones en que incurran en el desempeño de sus funciones y están sujetos a las disposiciones del Título Cuarto de la Constitución Política del Estado de Querétaro, la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro, el Código Penal para el Estado de Querétaro y demás ordenamientos aplicables.
@@ -520,3 +540,11 @@ P.O. 19 DE JULIO DE 2013.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 14 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LOS ARTÍCULOS 3 Y 7 DE LA LEY DEL INSTITUTO QUERETANO DE LAS MUJERES".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
