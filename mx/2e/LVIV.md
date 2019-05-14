@@ -4,7 +4,7 @@ identifier: "LVIV"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-27"
-last_updated: "2017-06-23"
+last_updated: "2019-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50855&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVIV"
 
 LEY DE VIVIENDA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de junio de 2006.
 
@@ -112,7 +112,13 @@ XII. Política Nacional de Vivienda: el conjunto de disposiciones, criterios, li
 
 XIII. Sistema de Información: el Sistema Nacional de Información e Indicadores de Vivienda, como el conjunto de datos producidos por los sectores público, social y privado, organizados bajo una estructura conceptual predeterminada, que permita mostrar la situación de la vivienda y el mercado habitacional, así como los efectos de las políticas públicas en la materia, y
 
-XIV. Suelo: los terrenos física y legalmente susceptibles de ser destinados predominantemente al uso habitacional conforme a las disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XIV. Suelo: los terrenos física y legalmente susceptibles de ser destinados predominantemente al uso habitacional conforme a las disposiciones aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XV. Secretaría: La Secretaría de Desarrollo Agrario, Territorial y Urbano.
 
 ###### ARTÍCULO 5.
 
@@ -176,9 +182,13 @@ III. Los programas institucionales de las entidades de la Administración Públi
 
 IV. Los programas de la Comisión y de las dependencias y demás entidades de la Administración Pública Federal, y
 
-V. Los programas de las entidades federativas y municipios.
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
 
-Los programas federales a que se refiere este artículo se elaborarán de conformidad con las disposiciones de esta Ley y demás ordenamientos aplicables. En el caso de los programas de las entidades federativas y municipios se observará la legislación local correspondiente.
+V. Los programas de las entidades federativas, municipios y alcaldías.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
+
+Los programas federales a que se refiere este artículo se elaborarán de conformidad con las disposiciones de esta Ley y demás ordenamientos aplicables. En el caso de los programas de las entidades federativas, municipios y alcaldías se observará la legislación local correspondiente.
 
 Los programas, proyectos, estímulos, apoyos, instrumentos económicos, así como las acciones que se lleven a cabo por la aplicación de la presente Ley y demás disposiciones en la materia, en los que se ejerzan recursos de carácter federal, se sujetarán a la disponibilidad que para tal fin se contemple en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente y deberán observar las disposiciones de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, la Ley de Ingresos de la Federación y del Presupuesto de Egresos de la Federación para el ejercicio fiscal de que se trate.
 
@@ -224,9 +234,11 @@ XVIII. Los demás que señale el Plan Nacional de Desarrollo y otros ordenamient
 
 Las dependencias y entidades que participen en la instrumentación de las acciones previstas en este artículo, en el ámbito de sus respectivas competencias, se coordinarán con la Comisión para efectos de su ejecución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 9.
 
-El Programa Nacional de Vivienda será formulado por la Comisión, aprobado por el Presidente de la República mediante decreto y estará sometido a un proceso permanente de control y evaluación, observando lo dispuesto en este ordenamiento y, en lo conducente, en la Ley de Planeación y la Ley General de Desarrollo Social.
+El Programa Nacional de Vivienda será formulado por la Secretaría, aprobado por el Presidente de la República mediante decreto y estará sometido a un proceso permanente de control y evaluación, observando lo dispuesto en este ordenamiento y, en lo conducente, en la Ley de Planeación y la Ley General de Desarrollo Social.
 
 En la formulación del Programa Nacional se considerarán las propuestas de los gobiernos de las entidades federativas y de los municipios, así como de los sectores social y privado.
 
@@ -282,45 +294,145 @@ I. El Consejo;
 
 II. La Comisión Intersecretarial;
 
-III. El Instituto del Fondo Nacional de la Vivienda para los Trabajadores; el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado; el Fideicomiso Fondo Nacional de Habitaciones Populares y la Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
 
-IV. La Comisión, y
+III. La Secretaría;
 
-V. Los gobiernos de las entidades federativas y de los municipios, así como los sectores social y privado, en los términos de los acuerdos y convenios que al efecto se celebren.
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+IV. La Comisión, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores; el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado y la Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, y
+
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+V. Los gobiernos de las entidades federativas, de los municipios y, en su caso, de las alcaldías, así como los sectores social y privado, en los términos de los acuerdos y convenios que al efecto se celebren.
 
 ### CAPÍTULO II. De las competencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 15.
 
-Las atribuciones en materia de vivienda serán ejercidas por el Gobierno Federal, las entidades federativas y los municipios en sus respectivos ámbitos de competencia.
+Las atribuciones en materia de vivienda serán ejercidas por el Gobierno Federal, las entidades federativas, los municipios y las alcaldías en sus respectivos ámbitos de competencia.
+
+> <small>(ADICIONADO, D.O.F. 14 DE MAYO DE 2019)</small>
+
+Las atribuciones que en materia de vivienda tiene el Ejecutivo Federal serán ejercidas por la Secretaría, la Comisión y por las dependencias y entidades de la Administración Pública Federal, según el ámbito de competencia que ésta y otras leyes les confieran.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 16.
 
-Corresponde a la Comisión el fomento, la coordinación, la promoción y la instrumentación de la política y el programa nacional de vivienda del Gobierno Federal, en los términos de la presente Ley, la Ley General de Asentamientos Humanos y demás ordenamientos aplicables.
+Corresponde al Gobierno Federal, por conducto de la Secretaría:
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+I. Formular, ejecutar, conducir, coordinar, evaluar y dar seguimiento a la Política Nacional de Vivienda y el programa nacional en la materia, así como proponer, en su caso, las adecuaciones correspondientes, de conformidad con los objetivos y prioridades que marque el Plan Nacional de Desarrollo;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+II. Realizar las acciones necesarias para que la política y programas de vivienda observen las disposiciones aplicables en materia de desarrollo urbano, el ordenamiento territorial y el desarrollo sustentable;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+III. Coordinar el Sistema Nacional de Vivienda, con la participación que corresponda a los gobiernos de las entidades federativas, a los municipios, alcaldías y a los sectores social y privado;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+IV. Coordinar, concertar y promover programas y acciones de vivienda y suelo con la participación de los sectores público, social y privado;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+V. Promover que las entidades y dependencias de la Administración Pública Federal que realizan acciones de vivienda, conduzcan sus actividades y programas en la materia conforme a las disposiciones de la presente Ley y en congruencia con el Programa Nacional de Vivienda;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+VI. Impulsar la disposición y aprovechamiento de terrenos ejidales o comunales, con la participación que corresponda a las autoridades agrarias y de conformidad con las disposiciones jurídicas aplicables, a efecto de promover el desarrollo habitacional;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+VII. Evaluar y dar seguimiento a la aplicación de fondos federales en favor de estados, municipios y alcaldías, y de los sectores social y privado que se deriven de las acciones e inversiones convenidas, en los términos de las fracciones anteriores;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+VIII. Promover e impulsar las acciones de las diferentes instituciones de los sectores público, social y privado, en sus respectivos ámbitos de competencia, para el desarrollo de la vivienda en los aspectos normativos, tecnológicos, productivos y sociales;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+IX. Expedir normas oficiales mexicanas en materia de vivienda, considerando los procesos de generación, edificación, comercialización y mantenimiento, así como las diversas modalidades productivas, en los términos de la Ley Federal sobre Metrología y Normalización;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+X. Participar en la elaboración, revisión y aprobación de las Normas Mexicanas que correspondan de acuerdo a su competencia y de conformidad a las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XI. Promover y apoyar la constitución y operación de organismos de certificación y normalización, unidades de verificación y laboratorios de prueba a fin de contar con las normas y mecanismos que coadyuven a la habitabilidad, seguridad y calidad de las viviendas y desarrollos habitacionales, de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XII. Fomentar y apoyar medidas que promuevan la calidad de la vivienda;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XIII. Promover, en coordinación con las demás autoridades competentes, que la vivienda cumpla con las normas oficiales mexicanas correspondientes, de conformidad a la ley de la materia;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XIV. Coordinar la operación y funcionamiento del Sistema de Información;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XV. Participar en la definición de los lineamientos de información y estadística en materia de vivienda y suelo, con sujeción a la Ley del Sistema Nacional de Información Estadística y Geográfica, así como integrar y administrar el Sistema de Información;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XVI. Otorgar asesoría a las autoridades de las entidades federativas, municipios y alcaldías que lo soliciten, en la elaboración, ejecución y evaluación de programas de vivienda, así como para la modernización del marco legal en materia de vivienda y suelo;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XVII. Promover los instrumentos y mecanismos que propicien la simplificación y facilitación de los procedimientos y trámites para el desarrollo integrador de proyectos habitacionales en general, y aquellos que le sean encomendados para su ejecución, de conformidad con los acuerdos y convenios que al efecto se celebren;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XVIII. Coordinar las acciones necesarias para el otorgamiento y entrega del Premio Nacional de Vivienda, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XIX. Las demás que le otorguen la presente Ley u otros ordenamientos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 17.
 
-La Comisión promoverá que los gobiernos de las entidades federativas expidan sus respectivas leyes de vivienda, en donde establezcan la responsabilidad y compromiso de los gobiernos estatales y municipales en el ámbito de sus atribuciones para la solución de los problemas habitacionales de sus comunidades. Entre otras tareas y responsabilidades, deberá promoverse que:
+La Secretaría promoverá que los gobiernos de las entidades federativas expidan sus respectivas leyes de vivienda, en donde establezcan la responsabilidad y compromiso de los gobiernos de las entidades federativas, municipales y, en su caso alcaldías, en el ámbito de sus atribuciones para la solución de los problemas habitacionales de sus comunidades. Entre otras tareas y responsabilidades, deberá promoverse que:
 
-A.- Los gobiernos estatales asuman las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 14 DE MAYO DE 2019)</small>
+
+A.- Los gobiernos de las entidades federativas asuman las siguientes atribuciones:
 
 I. Formular y aprobar los programas estatales de vivienda, en congruencia con los lineamientos de la Política Nacional señalados por esta Ley, así como evaluar y vigilar su cumplimiento;
 
 II. Instrumentar mecanismos indicativos de las tendencias del desarrollo urbano y el ordenamiento territorial a mediano y largo plazo, así como realizar la planeación, programación y presupuestación de las acciones de suelo y vivienda de la entidad federativa, otorgando atención preferente a la población en situación de pobreza;
 
-> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
 
-III. Convenir programas y acciones de suelo y vivienda con el Gobierno Federal, con los gobiernos de las entidades federativas y de los municipios; bajo criterios de desarrollo regional, ordenamiento territorial, planeación urbana y vivienda sustentable, procurando el aprovechamiento y explotación racional de los recursos naturales y el respeto al medio ambiente;
+III. Convenir programas y acciones de suelo y vivienda con el Gobierno Federal, con los gobiernos de las entidades federativas y de los municipios y las alcaldías; bajo criterios de desarrollo regional, ordenamiento territorial, planeación urbana y vivienda sustentable, procurando el aprovechamiento y explotación racional de los recursos naturales y el respeto al medio ambiente;
 
-IV. Apoyar a las autoridades municipales que lo soliciten, en la planeación, gestión de recursos, operación de programas y en la ejecución de acciones en materia de suelo y vivienda;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+IV. Apoyar a las autoridades municipales y las alcaldías que lo soliciten, en la planeación, gestión de recursos, operación de programas y en la ejecución de acciones en materia de suelo y vivienda;
 
 V. Promover la participación de los sectores social y privado en la instrumentación de los programas y acciones de suelo y vivienda, de conformidad con lo dispuesto en esta Ley y en los demás ordenamientos legales aplicables, y
 
 VI. Informar a la sociedad sobre las acciones que realicen en materia de suelo y vivienda.
 
-B.- Los municipios asuman las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 14 DE MAYO DE 2019)</small>
 
-I. Formular, aprobar y administrar los programas municipales de suelo y vivienda, de conformidad con los lineamientos de la Política Nacional señalados por esta Ley, en congruencia con el programa estatal correspondiente y demás ordenamientos locales aplicables, así como evaluar y vigilar su cumplimiento;
+B.- Los municipios o las alcaldías asuman las siguientes atribuciones:
+
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+I. Formular, aprobar y administrar los programas municipales y de las alcaldías, de suelo y vivienda, de conformidad con los lineamientos de la Política Nacional señalados por esta Ley, en congruencia con el programa estatal correspondiente y demás ordenamientos locales aplicables, así como evaluar y vigilar su cumplimiento;
 
 II. Instrumentar mecanismos indicativos de las tendencias del desarrollo urbano y el ordenamiento territorial a mediano y largo plazo, así como realizar la planeación, programación y presupuestación de las acciones de suelo y vivienda en su ámbito territorial, otorgando atención preferente a la población en situación de pobreza;
 
@@ -328,77 +440,93 @@ III. Establecer las zonas para el desarrollo habitacional, de conformidad con la
 
 IV. Coordinar, con el gobierno de su entidad federativa, la ejecución y el seguimiento del correspondiente programa estatal de vivienda;
 
-V. Prestar, en términos de las disposiciones jurídicas aplicables, los servicios públicos municipales a los predios en los que se realicen acciones de vivienda derivados de los diferentes programas de vivienda federales, estatales y municipales;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+V. Prestar, en términos de las disposiciones jurídicas aplicables, los servicios públicos en los municipios y en las alcaldías, a los predios en los que se realicen acciones de vivienda derivados de los diferentes programas de vivienda federales, de las entidades federativas, municipales o de alcaldías;
 
 VI. Coordinar acciones con el gobierno de su entidad federativa con la finalidad de recibir apoyo para la planeación, gestión de recursos, operación de programas y ejecución de acciones en materia de suelo y vivienda, y
 
-> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
 
-VII. Coordinar acciones en materia de suelo y vivienda con otros municipios, bajo criterios de desarrollo regional, ordenamiento territorial, planeación urbana y vivienda sustentable, procurando el aprovechamiento y explotación racional de los recursos naturales y el respeto al medio ambiente.
+VII. Coordinar acciones en materia de suelo y vivienda con otros municipios u otras alcaldías, bajo criterios de desarrollo regional, ordenamiento territorial, planeación urbana y vivienda sustentable, procurando el aprovechamiento y explotación racional de los recursos naturales y el respeto al medio ambiente.
 
 ### CAPÍTULO III. De la Comisión Nacional de Vivienda
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 18.
 
-Se crea la Comisión como un organismo descentralizado, de utilidad pública e interés social, no sectorizado, con personalidad jurídica y patrimonio propio. Su domicilio será en la Ciudad de México, Distrito Federal.
+Se crea la Comisión como un organismo descentralizado, de utilidad pública e interés social, con personalidad jurídica y patrimonio propio. Su domicilio será en la Ciudad de México.
 
 La Ley Federal de las Entidades Paraestatales se aplicará a la Comisión en lo que no se oponga esta Ley.
 
-Las atribuciones que en materia de vivienda tiene el Ejecutivo Federal serán ejercidas por la Comisión y por las dependencias y demás entidades de la Administración Pública Federal, según el ámbito de competencia que ésta y otras leyes les confieran.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 14 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 19.
 
 Corresponde a la Comisión:
 
-I. Formular, ejecutar conducir, coordinar, evaluar y dar seguimiento a la Política Nacional de Vivienda y el programa nacional en la materia, así como proponer, en su caso, las adecuaciones correspondientes, de conformidad con los objetivos y prioridades que marque el Plan Nacional de Desarrollo;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
 
-II. Realizar las acciones necesarias para que la política y programas de vivienda observen las disposiciones aplicables en materia de desarrollo urbano, el ordenamiento territorial y el desarrollo sustentable;
+I. Formular y ejecutar su programa institucional, así como las disposiciones y reglas de operación necesarias para llevar a cabo las acciones de vivienda del gobierno federal orientadas a proteger y garantizar el derecho de las personas a disfrutar de una vivienda digna y decorosa, principalmente de la población de menores ingresos o en situación de pobreza;
 
-III. Coordinar el Sistema Nacional de Vivienda, con la participación que corresponda a los gobiernos de las entidades federativas, a los municipios y a los sectores social y privado;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
 
-IV. Coordinar, concertar y promover programas y acciones de vivienda y suelo con la participación de los sectores público, social y privado;
+II. Observar en su programa institucional, y en sus reglas de operación, las disposiciones aplicables en materia de desarrollo urbano, ordenamiento territorial y desarrollo sustentable;
 
-V. Promover que las entidades y dependencias de la Administración Pública Federal que realizan acciones de vivienda, conduzcan sus actividades y programas en la materia conforme a las disposiciones de la presente Ley y en congruencia con el Programa Nacional de Vivienda;
+III. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
-VI. Impulsar la disposición y aprovechamiento de terrenos ejidales o comunales, con la participación que corresponda a las autoridades agrarias y de conformidad con las disposiciones jurídicas aplicables, a efecto de promover el desarrollo habitacional;
+IV. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
+
+V. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
+
+VI. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
 VII. Desarrollar, ejecutar y promover esquemas, mecanismos y programas de financiamiento, subsidio y ahorro previo para la vivienda, en sus diferentes tipos y modalidades, priorizando la atención a la población en situación de pobreza, coordinando su ejecución con las instancias correspondientes;
 
 VIII. Promover y fomentar las acciones que faciliten el acceso a los recursos y al financiamiento público y privado para la construcción y mejoramiento de vivienda de los pueblos y comunidades rurales e indígenas, así como coordinar, concertar y ejecutar los programas que permitan mejorar sus espacios de convivencia;
 
-IX. Evaluar y dar seguimiento a la aplicación de fondos federales en favor de estados y municipios, y de los sectores social y privado que se deriven de las acciones e inversiones convenidas, en los términos de las fracciones anteriores;
+IX. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
-X. Promover e impulsar las acciones de las diferentes instituciones de los sectores público, social y privado, en sus respectivos ámbitos de competencia, para el desarrollo de la vivienda en los aspectos normativos, tecnológicos, productivos y sociales;
+X. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
-XI. Promover la expedición de normas oficiales mexicanas en materia de vivienda, considerando los procesos de generación, edificación, comercialización y mantenimiento, así como las diversas modalidades productivas, en los términos de la Ley Federal sobre Metrología y Normalización;
+XI. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
-XII. Participar en la elaboración, revisión y aprobación de las Normas Mexicanas que correspondan de acuerdo a su competencia y de conformidad a las disposiciones jurídicas aplicables;
+XII. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
-XIII. Promover y apoyar la constitución y operación de organismos de certificación y normalización, unidades de verificación y laboratorios de prueba a fin de contar con las normas y mecanismos que coadyuven a la habitabilidad, seguridad y calidad de las viviendas y desarrollos habitacionales, de conformidad con las disposiciones aplicables;
+XIII. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
-XIV. Fomentar y apoyar medidas que promuevan la calidad de la vivienda;
+XIV. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
-XV. Promover, en coordinación con las demás autoridades competentes, que la vivienda cumpla con las normas oficiales mexicanas correspondientes, de conformidad a la ley de la materia;
+XV. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
-XVI. Coordinar la operación y funcionamiento del Sistema de Información;
+XVI. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
-> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+XVII. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
-XVII. Participar en la definición de los lineamientos de información y estadística en materia de vivienda y suelo, con sujeción a la Ley del Sistema Nacional de Información Estadística y Geográfica, así como integrar y administrar el Sistema de Información;
+XVIII. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
-XVIII. Otorgar asesoría a las autoridades de las entidades federativas y municipios que lo soliciten, en la elaboración, ejecución y evaluación de programas de vivienda, así como para la modernización del marco legal en materia de vivienda y suelo;
+XIX. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
-XIX. Promover los instrumentos y mecanismos que propicien la simplificación y facilitación de los procedimientos y trámites para el desarrollo integrador de proyectos habitacionales en general, y aquellos que le sean encomendados para su ejecución, de conformidad con los acuerdos y convenios que al efecto se celebren;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
 
-XX. Realizar y promover investigaciones y estudios en materia de vivienda, y difundir públicamente sus resultados, así como coordinar las acciones necesarias para el otorgamiento y entrega del Premio Nacional de Vivienda;
+XX. Realizar y promover investigaciones y estudios en materia de vivienda, y difundir públicamente sus resultados;
 
 XXI. Establecer vínculos institucionales, convenios de asistencia técnica e intercambio de información con gobiernos nacionales y organismos nacionales e internacionales, en coordinación con las autoridades competentes;
 
 XXII. Fomentar y apoyar programas y proyectos de formación profesional, actualización y capacitación integral para profesionistas, técnicos y servidores públicos relacionados con la generación de vivienda, así como para autoproductores, autoconstructores y autogestores de vivienda;
 
-XXIII. Promover y apoyar la constitución y operación de organismos de carácter no lucrativo que proporcionen asesoría y acompañamiento a la población de bajos ingresos para desarrollar de mejor manera sus procesos productivos y de gestión del hábitat, y
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
 
-XXIV. Las demás que le otorguen la presente Ley u otros ordenamientos.
+XXIII. Promover y apoyar la constitución y operación de organismos de carácter no lucrativo que proporcionen asesoría y acompañamiento a la población de bajos ingresos para desarrollar de mejor manera sus procesos productivos y de gestión del hábitat;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XXIV. Participar en la elaboración, revisión y aprobación de las Normas Oficiales Mexicanas y en las Normas Mexicanas que correspondan de acuerdo a su competencia y de conformidad a las disposiciones jurídicas aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XXV. Las demás que le otorguen la presente Ley u otros ordenamientos.
 
 ###### ARTÍCULO 20.
 
@@ -414,25 +542,39 @@ Para su operación, administración y funcionamiento, la Comisión contará con 
 
 La Junta de Gobierno de la Comisión estará integrada por:
 
-I. El Titular de la Secretaría de Hacienda y Crédito Público;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
 
-II. El Titular de la Secretaría de Desarrollo Social;
+I. Secretaría de Desarrollo Agrario, Territorial y Urbano, preside la Junta;
 
-III. El Titular de la Secretaría de Energía;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
 
-IV. El Titular de la Secretaría de Economía;
+II. Secretaría de Hacienda y Crédito Público;
 
-V. El Titular de la Secretaría de Comunicaciones y Transportes;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
 
-VI. El Titular de la Secretaría de Medio Ambiente y Recursos Naturales;
+III. Secretaría de Bienestar;
 
-> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
 
-VII. El Titular de la Secretaría de Desarrollo Agrario, Territorial y Urbano, y
+IV. Secretaría de Energía;
+
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+V. Secretaría de Economía;
+
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+VI. Secretaría de Comunicaciones y Transportes;
+
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+VII. Secretaría de Medio Ambiente y Recursos Naturales, y
 
 VIII. El Director General de la Comisión, quien fungirá como Secretario Técnico, que tendrá voz pero no voto;
 
-Cada miembro propietario designará su suplente, quien deberá tener el nivel de subsecretario o su equivalente. A las sesiones de la Junta de Gobierno se podrá invitar con voz pero sin voto a los servidores públicos y especialistas que, por la naturaleza de los asuntos a tratar, acuerde la propia Junta de Gobierno.
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
+
+Los miembros propietarios deberán tener, cuando menos, el nivel de Subsecretario, y cada uno de ellos nombrará un suplente, quien deberá tener nivel de Director General o su equivalente.
 
 ###### ARTÍCULO 23.
 
@@ -484,7 +626,7 @@ III. Proponer a la Junta de Gobierno la designación de los servidores públicos
 
 IV. Celebrar los actos jurídicos, convenios y contratos que sean necesarios para el adecuado ejercicio de las funciones de la Comisión;
 
-V. Coordinar el Consejo;
+V. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
 VI. Proponer a la Junta de Gobierno para su aprobación, el Estatuto Orgánico de la Comisión, así como el Programa Institucional del mismo;
 
@@ -538,19 +680,39 @@ El Consejo se integrará con:
 
 I. El titular del Ejecutivo Federal, quien lo presidirá;
 
-II. El titular de la Comisión, quien fungirá como Coordinador General;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
 
-III. Representantes del Sector Público Federal;
+II. El titular de la Secretaría, quien fungirá como Coordinador General;
 
-IV. Representantes de los organismos estatales de vivienda;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+III. El titular de la Comisión;
+
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+IV. Representantes de los organismos de las entidades federativas de vivienda y del Sector Público Federal;
 
 V. Representantes de los organismos empresariales dedicadas primordialmente a la edificación, promoción y producción de vivienda;
 
-VI. Representantes de entidades de servicio de financiamiento, consultoría y titulación para la adquisición de suelo y vivienda;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
 
-VII. Representantes de instituciones y organizaciones de la sociedad civil y colegios de profesionales, relacionados con la vivienda y los asentamientos humanos, y
+VI. Representantes de entidades de financiamiento, consultoría y titulación para la adquisición de suelo y vivienda;
 
-VIII. Representantes de universidades e instituciones de educación superior, relacionadas con la vivienda y los asentamientos humanos.
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+VII. Representantes de instituciones y organizaciones de la sociedad civil y colegios de profesionistas, relacionados con la vivienda y los asentamientos humanos;
+
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+VIII. Representantes de universidades e instituciones de educación superior, relacionadas con la vivienda y los asentamientos humanos, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+IX. Representantes de instituciones u organismos que apoyan y asesoran la producción social de vivienda.
+
+> <small>(ADICIONADO, D.O.F. 14 DE MAYO DE 2019)</small>
+
+El Consejo definirá, con base en los principios de pluralidad y equidad, la participación mediante invitación respecto a los representantes incluidos en las fracciones V a IX de este artículo.
 
 ###### ARTÍCULO 31.
 
@@ -568,7 +730,9 @@ La Comisión Intersecretarial será la instancia de carácter permanente del Eje
 
 La Comisión Intersecretarial será presidida por el Titular del Ejecutivo Federal, a través del Titular de la Secretaría de Desarrollo Agrario, Territorial y Urbano o por quien éste designe y estará integrada por los titulares de las siguientes secretarías de estado:
 
-I. Desarrollo Social;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+I. De Bienestar;
 
 II. Hacienda y Crédito Público;
 
@@ -594,7 +758,9 @@ XI. Desarrollo Agrario, Territorial y Urbano.
 
 A las sesiones de la Comisión Intersecretarial podrán ser invitados a participar otras dependencias y entidades de la Administración Pública Federal, de acuerdo con los temas de que se trate.
 
-El Presidente de la Comisión Intersecretarial podrá ser suplido en sus ausencias por quien él mismo determine. Los demás integrantes de la Comisión Intersecretarial deberán designar a su respectivo suplente, que será el subsecretario o equivalente que tenga mayor relación con la materia de vivienda.
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
+
+El Presidente de la Comisión Intersecretarial podrá ser suplido en sus ausencias por quien él mismo determine. Los demás integrantes de la Comisión Intersecretarial deberán designar a su respectivo suplente, que será el Subsecretario, Director General, o equivalente que tenga mayor relación con la materia de vivienda.
 
 La Comisión Intersecretarial contará con un Secretario Ejecutivo, que será el Titular de la Comisión.
 
@@ -634,11 +800,15 @@ La Comisión Intersecretarial aprovechará las estructuras administrativas de la
 
 ### CAPÍTULO VI. De la Coordinación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 38.
 
-Para cumplir con el objeto de esta Ley, el Ejecutivo Federal, a través de la Comisión y con la participación que corresponda a las demás dependencias y entidades de la Administración Pública Federal, celebrará convenios y acuerdos en los términos de esta Ley, los cuales tendrán por objeto:
+Para cumplir con el objeto de esta Ley, el Ejecutivo Federal, a través de la Secretaría y con la participación que corresponda a las demás dependencias y entidades de la Administración Pública Federal, celebrará convenios y acuerdos en los términos de esta Ley, los cuales tendrán por objeto:
 
-I. Establecer los mecanismos para garantizar una adecuada distribución de responsabilidades, así como la congruencia y complementariedad entre las políticas, programas y acciones federales de vivienda y suelo, con los de las entidades federativas y municipios;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+I. Establecer los mecanismos para garantizar una adecuada distribución de responsabilidades, así como la congruencia y complementariedad entre las políticas, programas y acciones federales de vivienda y suelo, con los de las entidades federativas, municipios y alcaldías;
 
 II. Aplicar recursos para la ejecución de las acciones previstas en los programas de vivienda;
 
@@ -654,7 +824,9 @@ VII. Promover el desarrollo del mercado secundario y de arrendamiento de viviend
 
 VIII. Brindar asistencia y capacitación a los organismos locales para la programación, instrumentación, ejecución y evaluación de programas de vivienda;
 
-IX. Establecer medidas que fortalezcan la capacidad de gestión de los municipios y precisar las responsabilidades de los involucrados para la formulación y ejecución de programas de vivienda y de suelo;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+IX. Establecer medidas que fortalezcan la capacidad de gestión de los municipios, de las alcaldías; y precisar las responsabilidades de los involucrados para la formulación y ejecución de programas de vivienda y de suelo;
 
 X. Promover la homologación normativa y la simplificación de los trámites administrativos que se requieran para la ejecución de acciones de vivienda, reconociendo los distintos tipos y modalidades de producción habitacional;
 
@@ -674,7 +846,9 @@ XIII. Promover mecanismos de coordinación y planeación que permitan identifica
 
 XIV. La realización de las demás acciones tendientes a cumplir con los fines previstos en esa Ley.
 
-En los convenios y acuerdos que señala este artículo, lo referido al suelo tendrá que observar las disposiciones correspondientes que establece la Ley General de Asentamientos Humanos y demás ordenamientos aplicables.
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
+
+En los convenios y acuerdos que señala este artículo, lo referido al suelo tendrá que observar las disposiciones correspondientes que establece la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 39.
 
@@ -726,11 +900,13 @@ X. Las demás acciones que acuerden las partes para el cumplimiento de esta Ley.
 
 Se crea el Sistema de Información, que tendrá por objeto integrar, generar y difundir la información que se requiera para la adecuada planeación, instrumentación y seguimiento de la Política Nacional de Vivienda, así como para el fortalecimiento de la oferta articulada de vivienda en el país.
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
 
-La Comisión integrará y administrará el Sistema de Información, el cual se sujetará, en lo conducente, a las disposiciones previstas en la Ley del Sistema Nacional de Información Estadística y Geográfica y se conformará con la información que proporcionen las dependencias y entidades de la Administración Pública Federal en aspectos vinculados con la vivienda y el suelo, así como la que permita identificar la evolución y crecimiento del mercado con el objeto de contar con información suficiente para evaluar los efectos de la política habitacional.
+La Secretaría integrará y administrará el Sistema de Información, el cual se sujetará, en lo conducente, a las disposiciones previstas en la Ley del Sistema Nacional de Información Estadística y Geográfica y se conformará con la información que proporcionen las dependencias y entidades de la Administración Pública Federal en aspectos vinculados con la vivienda y el suelo, así como la que permita identificar la evolución y crecimiento del mercado con el objeto de contar con información suficiente para evaluar los efectos de la política habitacional.
 
-La Comisión propondrá al Instituto Nacional de Estadística, Geografía e Informática los indicadores que en materia de vivienda deberán considerarse en el levantamiento de censos nacionales, encuestas de vivienda, económicas y sociodemográficas, y otros conteos.
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
+
+La Secretaría propondrá al Instituto Nacional de Estadística, Geografía e Informática los indicadores que en materia de vivienda deberán considerarse en el levantamiento de censos nacionales, encuestas de vivienda, económicas y sociodemográficas, y otros conteos.
 
 Asimismo, ambas instancias se coordinarán para que dentro de la integración de las cuentas nacionales se desagregue una cuenta específica de vivienda, que se denominará Cuenta Satélite de Vivienda en México, que permita conocer a profundidad el efecto del sector en el contexto global de la economía.
 
@@ -740,9 +916,11 @@ El Sistema de Información contendrá los elementos que permita mantener actuali
 
 Entre otros indicadores de evaluación, deberán considerarse los siguientes: metas por cobertura territorial; beneficiarios por grupos de ingreso en veces el salario mínimo y modalidades de programas, ya sea que se trate de vivienda nueva, sustitución de vivienda, en arrendamiento o del mejoramiento del parque habitacional; evaluación de los productos habitacionales en términos de su ubicación en los centros de población con respecto a las fuentes de empleo, habitabilidad de la vivienda y adaptabilidad a las condiciones culturales, sociales y ambientales de las regiones; y, evaluación de los precios de suelo, de las medidas de control para evitar su especulación y sus efectos en los programas habitacionales.
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 45.
 
-La Comisión diseñará y promoverá mecanismos e instrumentos de acceso a la información que generen las instituciones públicas y privadas en materia de financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional.
+La Secretaría, en coordinación con la Comisión diseñarán y promoverán mecanismos e instrumentos de acceso a la información que generen las instituciones públicas y privadas en materia de financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional.
 
 > <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2014)</small>
 
@@ -754,11 +932,13 @@ Los gobiernos de las entidades federativas y de los municipios, las organizacion
 
 ### CAPÍTULO I. De las Disposiciones Generales para el Financiamiento de la Vivienda
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 47.
 
-Los instrumentos y apoyos en materia de financiamiento para la realización de las acciones de vivienda serán el crédito, los subsidios que para tal efecto destinen el Gobierno Federal y los gobiernos de las entidades federativas y de los municipios, así como el ahorro de los particulares y otras aportaciones de los sectores público, social y privado.
+Los instrumentos y apoyos en materia de financiamiento para la realización de las acciones de vivienda serán el crédito, los subsidios que para tal efecto destinen el Gobierno Federal y los gobiernos de las entidades federativas, los municipios y en su caso las alcaldías, así como el ahorro de los particulares y otras aportaciones de los sectores público, social y privado.
 
-La Comisión fomentará esquemas financieros y programas que combinen recursos provenientes del crédito, ahorro, subsidio y otras aportaciones, para generar opciones que respondan a las necesidades de vivienda de los distintos sectores de la población, preferentemente de los que se encuentren en situación de pobreza y a los productores sociales.
+La Secretaría fomentará esquemas financieros y programas que combinen recursos provenientes del crédito, ahorro, subsidio y otras aportaciones, para generar opciones que respondan a las necesidades de vivienda de los distintos sectores de la población, preferentemente de los que se encuentren en situación de pobreza y a los productores sociales.
 
 ###### ARTÍCULO 48.
 
@@ -804,15 +984,19 @@ Para fortalecer la capacidad de pago de la población en situación de pobreza, 
 
 El Gobierno Federal desarrollará y fomentará instrumentos de seguro y garantía para impulsar el acceso al crédito público y privado a todos los sectores de la población, preferentemente el destinado a la población en situación de pobreza.
 
-Las dependencias y entidades que otorguen créditos para vivienda con recursos fiscales, deberán proporcionar la información de los beneficiarios a la Comisión, quien la remitirá a la Secretaría de Desarrollo Social para su integración en el padrón único de beneficiarios previsto en la Ley General de Desarrollo Social.
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
+
+Las dependencias y entidades que otorguen créditos para vivienda con recursos fiscales, deberán proporcionar la información de los beneficiarios a la Secretaría, quien la remitirá a la Secretaría de Bienestar para su integración en el padrón único de beneficiarios previsto en la Ley General de Desarrollo Social.
 
 ###### ARTÍCULO 56.
 
 Los organismos que financien vivienda para los trabajadores, en cumplimiento a la obligación que consigna el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, se regirán por lo previsto en sus respectivas leyes orgánicas y observarán, en lo conducente, la aplicación de las normas a que se refiere este capítulo.
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 57.
 
-El Instituto del Fondo Nacional de la Vivienda para los Trabajadores; el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado; el Fideicomiso Fondo Nacional de Habitaciones Populares y la Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, deberán emitir reglas de carácter general que permitan canalizar recursos a tasas preferenciales para la población de bajos recursos, así como la movilidad habitacional en viviendas financiadas por ellos, mediante procedimientos para facilitar, en su caso, el arrendamiento o transmisión del uso por cualquier título de dichas viviendas.
+La Comisión; el Instituto del Fondo Nacional de la Vivienda para los Trabajadores; el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado y la Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, deberán emitir reglas de carácter general que permitan canalizar recursos a tasas preferenciales para la población de bajos recursos, así como la movilidad habitacional en viviendas financiadas por ellos, mediante procedimientos para facilitar, en su caso, el arrendamiento o transmisión del uso por cualquier título de dichas viviendas.
 
 ###### ARTÍCULO 58.
 
@@ -862,9 +1046,11 @@ VI. Para distribuir los subsidios entre las entidades federativas, los municipio
 
 Para garantizar la aplicación de los principios de equidad e inclusión social en el acceso a los subsidios, el Gobierno Federal elaborará reglas para su distribución atendiendo lo dispuesto en el artículo 3 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 64.
 
-Las instancias que otorguen subsidios federales en materia de vivienda, deberán proporcionar la información de los beneficiarios a la Comisión, quien la remitirá a la Secretaría de Desarrollo Social para su integración en el padrón único de beneficiarios previsto en la Ley General de Desarrollo Social.
+Las instancias que otorguen subsidios federales en materia de vivienda, deberán proporcionar la información de los beneficiarios a la Secretaría, quien la remitirá a la Secretaría de Bienestar para su integración en el padrón único de beneficiarios previsto en la Ley General de Desarrollo Social.
 
 ## TÍTULO QUINTO. DEL SUELO
 
@@ -878,9 +1064,11 @@ I. Apoyar a los gobiernos de las entidades federativas y municipios, en la gener
 
 II. Fomentar esquemas y programas que contemplen recursos provenientes de crédito, ahorro y subsidio, para la adquisición de suelo.
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 66.
 
-El Gobierno Federal, por conducto de la Comisión y con la participación de las demás dependencias y entidades competentes de la Administración Pública Federal, instrumentará acciones, programas y estímulos que induzcan la colaboración y coordinación con los gobiernos de las entidades federativas y municipios, así como la participación de propietarios y desarrolladores, para generar suelo con servicios, preferentemente para beneficio de la población en situación de pobreza, marginación o vulnerabilidad y de los productores sociales de vivienda, para lo cual celebrará los convenios y acuerdos necesarios.
+El Gobierno Federal, por conducto de la Secretaría y con la participación de las demás dependencias y entidades competentes de la Administración Pública Federal, instrumentará acciones, programas y estímulos que induzcan la colaboración y coordinación con los gobiernos de las entidades federativas y municipios y alcaldías, así como la participación de propietarios y desarrolladores, para generar suelo con servicios, preferentemente para beneficio de la población en situación de pobreza, marginación o vulnerabilidad y de los productores sociales de vivienda, para lo cual celebrará los convenios y acuerdos necesarios.
 
 ###### ARTÍCULO 67.
 
@@ -890,11 +1078,13 @@ La Comisión, con el apoyo de la banca de desarrollo, instrumentará programas d
 
 La adquisición de suelo o la constitución de reservas territoriales destinada a fines habitacionales deberá observar las disposiciones legales en materia de asentamientos humanos, agraria y ambiental aplicables. Esta disposición se aplicará a todo tipo de operaciones inmobiliarias.
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 69.
 
-Los programas apoyados con recursos de las dependencias, entidades u organismos federales, que se destinen a la constitución de reservas territoriales y de aprovechamiento de suelo para su incorporación al desarrollo habitacional, deberán observar los planes y programas de desarrollo urbano vigentes de las entidades federativas y los municipios.
+Los programas apoyados con recursos de las dependencias, entidades u organismos federales, que se destinen a la constitución de reservas territoriales y de aprovechamiento de suelo para su incorporación al desarrollo habitacional, deberán observar los planes y programas de desarrollo urbano vigentes de las entidades federativas, los municipios y alcaldías.
 
-Cuando se trate de suelo de origen ejidal o comunal, la promoción de su incorporación al desarrollo urbano deberá hacerse con la intervención de la Comisión para la Regularización de la Tenencia de la Tierra, en los términos de las disposiciones aplicables.
+Cuando se trate de suelo de origen ejidal o comunal, la promoción de su incorporación al desarrollo urbano deberá hacerse con la intervención del Instituto Nacional del Suelo Sustentable, en los términos de las disposiciones aplicables.
 
 ###### ARTÍCULO 70.
 
@@ -904,29 +1094,33 @@ El Gobierno Federal promoverá e impulsará proyectos inmobiliarios en los que s
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 71.
 
-Con el propósito de ofrecer calidad de vida a los ocupantes de las viviendas, la Comisión promoverá, en coordinación con las autoridades competentes tanto federales como locales, que en el desarrollo de las acciones habitacionales en sus distintas modalidades y en la utilización de recursos y servicios asociados, se considere que las viviendas cuenten con los espacios habitables y espacios auxiliares suficientes en función al número de usuarios, provea de los servicios de agua potable, desalojo de aguas residuales y energía eléctrica que contribuyan a disminuir los vectores de enfermedad, así como garantizar la seguridad estructural y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres, utilizando preferentemente bienes y servicios normalizados.
+Con el propósito de ofrecer calidad de vida a los ocupantes de las viviendas, la Secretaría promoverá, en coordinación con las autoridades competentes tanto federales como locales, que en el desarrollo de las acciones habitacionales en sus distintas modalidades y en la utilización de recursos y servicios asociados, se considere que las viviendas cuenten con los espacios habitables y espacios auxiliares suficientes en función al número de usuarios, provea de los servicios de agua potable, desalojo de aguas residuales y energía eléctrica que contribuyan a disminuir los vectores de enfermedad, así como garantizar la seguridad estructural y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres, utilizando preferentemente bienes y servicios normalizados.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
 
 Asimismo, promoverá el uso de energías renovables mediante las nuevas ecotecnologías aplicables a la vivienda, de acuerdo a las regiones bioclimáticas del país, utilizando equipos y sistemas normalizados en cualquiera de sus modalidades.
 
-> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO DEL ANÁLISIS A LA ADICIÓN DEL SEGUNDO PÁRRAFO DE FECHA 26 DE DICIEMBRE DE 2013 SE ADVIERTE QUE SE RECORRIÓ EN SU ORDEN PARA SER UN NUEVO PÁRRAFO.]</small>
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
 
-Las autoridades del Gobierno Federal, las entidades federativas y los municipios en el ámbito de sus respectivas competencias, verificarán que se dé cumplimiento a lo dispuesto en esta Ley en materia de calidad y sustentabilidad de la vivienda, y a las disposiciones legales y reglamentarias correspondientes.
+Las autoridades del Gobierno Federal, las entidades federativas, los municipios y las alcaldías en el ámbito de sus respectivas competencias, verificarán que se dé cumplimiento a lo dispuesto en esta Ley en materia de calidad y sustentabilidad de la vivienda, y a las disposiciones legales y reglamentarias correspondientes.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 72.
 
-La Comisión, con base en el modelo normativo que al efecto formule, promoverá que las autoridades competentes expidan, apliquen y mantengan en vigor y permanentemente actualizadas disposiciones legales, normas oficiales mexicanas, códigos de procesos de edificación y reglamentos de construcción que contengan los requisitos técnicos que garanticen la seguridad estructural, habitabilidad y sustentabilidad de toda vivienda, y que definan responsabilidades generales, así como por cada etapa del proceso de producción de vivienda.
+La Secretaría, con base en el modelo normativo que al efecto formule, promoverá que las autoridades competentes expidan, apliquen y mantengan en vigor y permanentemente actualizadas disposiciones legales, normas oficiales mexicanas, códigos de procesos de edificación y reglamentos de construcción que contengan los requisitos técnicos que garanticen la seguridad estructural, habitabilidad y sustentabilidad de toda vivienda, y que definan responsabilidades generales, así como por cada etapa del proceso de producción de vivienda.
 
-Aquellas localidades que no cuenten con las disposiciones previstas en el párrafo anterior, tomarán como referente el modelo formulado por la Comisión. Este modelo incluirá requisitos técnicos que garanticen la seguridad estructural, la habitabilidad, la eficiencia y sustentabilidad de la vivienda.
+Aquellas localidades que no cuenten con las disposiciones previstas en el párrafo anterior, tomarán como referente el modelo formulado por la Secretaría. Este modelo incluirá requisitos técnicos que garanticen la seguridad estructural, la habitabilidad, la eficiencia y sustentabilidad de la vivienda.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 73.
 
-Las acciones de suelo y vivienda financiadas con recursos federales, así como las de los organismos que financien vivienda para los trabajadores en cumplimiento a la obligación que consigna el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, deberán observar los lineamientos que en materia de equipamiento, infraestructura y vinculación con el entorno establezca la Secretaría de Desarrollo Social, escuchando la opinión de la Comisión para cada grupo objetivo de la población, a fin de considerar los impactos de las mismas, de conformidad con lo establecido en la Ley General de Asentamientos Humanos y demás disposiciones aplicables.
+Las acciones de suelo y vivienda financiadas con recursos federales, así como las de los organismos que financien vivienda para los trabajadores en cumplimiento a la obligación que consigna el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, deberán observar los lineamientos que en materia de equipamiento, infraestructura y vinculación con el entorno establezca la Secretaría, escuchando la opinión de la Comisión para cada grupo objetivo de la población, a fin de considerar los impactos de las mismas, de conformidad con lo establecido en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano y demás disposiciones aplicables.
 
 ###### ARTÍCULO 74.
 
@@ -936,17 +1130,25 @@ Las acciones de vivienda que se realicen en las entidades federativas y municipi
 
 Con la finalidad de promover una adecuada convivencia social, la administración y mantenimiento de conjuntos habitacionales y en general de la vivienda multifamiliar quedará a cargo o dirección de los usuarios, conforme a las disposiciones aplicables.
 
-La Comisión promoverá que las autoridades locales expidan instrumentos normativos que regulen dichos conjuntos y sus diversos regímenes de propiedad, atendiendo a las distintas regiones, tipos y condiciones culturales y urbanas de la población;
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
 
-La Comisión podrá emitir opiniones, cuando las entidades federativas se lo soliciten, respecto a la implementación de programas y acciones que permitan elevar la calidad de la vivienda y eficientar sus procesos productivos.
+La Secretaría y la Comisión promoverán que las autoridades locales expidan instrumentos normativos que regulen dichos conjuntos y sus diversos regímenes de propiedad, atendiendo a las distintas regiones, tipos y condiciones culturales y urbanas de la población.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
+
+La Secretaría podrá emitir opiniones, cuando las entidades federativas se lo soliciten, respecto a la implementación de programas y acciones que permitan elevar la calidad de la vivienda y eficientar sus procesos productivos.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 76.
 
-La Comisión promoverá que las autoridades de las entidades federativas y los municipios celebren acuerdos y convenios con los sectores social y privado, que tengan por objeto el mejoramiento de las condiciones de convivencia, impulsar la dotación y administración de la infraestructura, los equipamientos y los servicios urbanos necesarios, así como el financiamiento compartido para el adecuado mantenimiento sustentable de las unidades y desarrollos habitacionales.
+La Secretaría y la Comisión promoverán que las autoridades de las entidades federativas, los municipios y las alcaldías celebren acuerdos y convenios con los sectores social y privado, que tengan por objeto el mejoramiento de las condiciones de convivencia, impulsar la dotación y administración de la infraestructura, los equipamientos y los servicios urbanos necesarios, así como el financiamiento compartido para el adecuado mantenimiento sustentable de las unidades y desarrollos habitacionales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 77.
 
-La Comisión fomentará la participación de los sectores público, social y privado en esquemas de financiamiento dirigidos al desarrollo y aplicación de ecotécnicas y de nuevas tecnologías en vivienda y saneamiento, principalmente de bajo costo y alta productividad, que cumplan con parámetros de certificación y cumplan con los principios de una vivienda digna y decorosa.
+La Secretaría y la Comisión fomentarán la participación de los sectores público, social y privado en esquemas de financiamiento dirigidos al desarrollo y aplicación de ecotécnicas y de nuevas tecnologías en vivienda y saneamiento, principalmente de bajo costo y alta productividad, que cumplan con parámetros de certificación y cumplan con los principios de una vivienda digna y decorosa.
 
 Asimismo, promoverá que las tecnologías, sean acordes con los requerimientos sociales, regionales y a las características propias de la población, estableciendo mecanismos de investigación y experimentación tecnológicas.
 
@@ -958,13 +1160,17 @@ El modelo normativo, las normas mexicanas aplicables al diseño arquitectónico 
 
 En este tipo de normas se deberá considerar las condiciones y características de los espacios habitables y auxiliares y seguridad para los diferentes tipos de vivienda y de sus etapas de construcción.
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 79.
 
-La Secretaría de Economía, considerando la opinión de la Comisión, dictará las disposiciones necesarias para regular y orientar la transferencia de tecnología aplicable a la vivienda y establecer por sí o a través de organismos nacionales de normalización las normas mexicanas relativas a la calidad y desempeño de bienes y servicios básicos para la construcción de vivienda.
+La Secretaría de Economía, considerando la opinión de la Secretaría, dictará las disposiciones necesarias para regular y orientar la transferencia de tecnología aplicable a la vivienda y establecer por sí o a través de organismos nacionales de normalización las normas mexicanas relativas a la calidad y desempeño de bienes y servicios básicos para la construcción de vivienda.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 80.
 
-Las dependencias y entidades de la Administración Pública Federal apoyarán de manera prioritaria la aplicación de las normas a que se refiere este capítulo. La Comisión promoverá el reconocimiento público de aquellos agentes que realicen sus acciones bajo los criterios señalados en la presente Ley.
+Las dependencias y entidades de la Administración Pública Federal apoyarán de manera prioritaria la aplicación de las normas a que se refiere este capítulo. La Secretaría promoverá el reconocimiento público de aquellos agentes que realicen sus acciones bajo los criterios señalados en la presente Ley.
 
 > <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
 
@@ -984,9 +1190,11 @@ III. La conformación de paquetes de materiales para las familias en situación 
 
 Asimismo, promoverá la celebración de convenios para el otorgamiento de asesoría y capacitación a los adquirentes de materiales para el uso adecuado de los productos, sobre sistemas constructivos y prototipos arquitectónicos, así como para la obtención de licencias y permisos de construcción necesarios.
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 83.
 
-La Comisión promoverá el uso de materiales y productos que contribuyan a evitar efluentes y emisiones que deterioren el medio ambiente, así como aquellos que propicien ahorro de energía, uso eficiente de agua, un ambiente más confortable y saludable dentro de la vivienda de acuerdo con las características climáticas de la región.
+La Secretaría y la Comisión promoverán el uso de materiales y productos que contribuyan a evitar efluentes y emisiones que deterioren el medio ambiente, así como aquellos que propicien ahorro de energía, uso eficiente de agua, un ambiente más confortable y saludable dentro de la vivienda de acuerdo con las características climáticas de la región. Lo anterior, de conformidad con la normatividad aplicable en la materia.
 
 ###### ARTÍCULO 84.
 
@@ -1070,9 +1278,11 @@ La Ley General de Sociedades Cooperativas se aplicará de manera supletoria en l
 
 ### CAPÍTULO I. De la Denuncia Popular
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 95.
 
-Toda persona podrá denunciar ante la Comisión o ante otras autoridades competentes todo hecho, acto u omisión que produzca o pueda producir daños al ejercicio de los derechos establecidos en esta Ley o contravengan sus disposiciones y de los demás ordenamientos que regulen materias relacionadas con la vivienda.
+Toda persona podrá denunciar ante la Secretaría o ante otras autoridades competentes todo hecho, acto u omisión que produzca o pueda producir daños al ejercicio de los derechos establecidos en esta Ley o contravengan sus disposiciones y de los demás ordenamientos que regulen materias relacionadas con la vivienda.
 
 ###### ARTÍCULO 96.
 
@@ -1141,3 +1351,15 @@ D.O.F. 23 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 81 DE LA LEY DE VIVIENDA”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Fideicomiso Fondo Nacional de Habitaciones Populares continuará cumpliendo con sus fines y objetivos hasta en tanto se lleve a cabo su extinción, conforme a las disposiciones que resulten aplicables; una vez que ello suceda, la Comisión asumirá las atribuciones que se le conceden conforme a lo dispuesto en este Decreto.
+
+Tercero.- En el primer año natural, posterior a la publicación del presente Decreto en el Diario Oficial de la Federación, la Comisión transferirá a la Secretaría el Sistema de Información referido en el artículo 4 de la Ley de Vivienda.
+
+Cuarto.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado para el presente ejercicio fiscal a la Secretaría de Desarrollo Agrario, Territorial y Urbano, y para los ejercicios subsecuentes, se cubrirán con cargo al presupuesto que en su caso apruebe la Cámara de Diputados, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto regularizable del Ramo 15 Desarrollo Agrario, Territorial y Urbano, y en caso de que se realice alguna modificación a la estructura orgánica del citado Ramo, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, los cuales serán cubiertos por el mismo Ramo a costo compensado, por lo que no se autorizarán ampliaciones al presupuesto de la Secretaría de Desarrollo Agrario, Territorial y Urbano, ni de la Comisión Nacional de Vivienda para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
