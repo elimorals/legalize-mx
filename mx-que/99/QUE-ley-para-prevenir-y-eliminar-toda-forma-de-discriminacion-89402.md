@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-prevenir-y-eliminar-toda-forma-de-discriminacion-89402
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-30"
-last_updated: "2012-08-30"
+last_updated: "2019-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA PREVENIR Y ELIMINAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 30 de agosto de 2012.
 
@@ -31,7 +31,9 @@ LIC. JOSÉ EDUARDO CALZADA ROVIROSA, Gobernador Constitucional del Estado de Que
 
 LA QUINCUAGÉSIMA SEXTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, la Quincuagésima Sexta Legislatura del Estado de Querétaro, expide la siguiente:
 
@@ -55,7 +57,9 @@ I. Comisión, la Comisión Estatal de Derechos Humanos;
 
 II. Consejo, el Consejo para Prevenir y Eliminar toda forma de Discriminación en el Estado de Querétaro;
 
-III. Discriminación, toda distinción, exclusión o restricción que, basada en el origen étnico, nacional o regional, género, edad, discapacidad, condición social, económica o de salud, por embarazo, opiniones, preferencias sexuales, estado civil, trabajo desempeñado, costumbres, raza, ideologías, creencias religiosas, migración o cualquier otra condición que dé origen a conductas que atentan contra la dignidad humana o que tengan por objeto anular o menoscabar los derechos y libertades de las personas;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+III. Discriminación, toda distinción, exclusión o restricción que, basada en origen étnico, nacional o regional, género, edad, discapacidad, condición social, económica o de salud, apariencia física, por embarazo, opiniones, preferencias sexuales, estado civil, trabajo desempeñado, por tener tatuajes o modificaciones corporales, costumbres, raza, ideologías, creencias religiosas, migración o cualquier otra condición que dé origen a conductas que atenten contra la dignidad humana o que tengan por objeto anular o menoscabar los derechos y libertades de las personas;
 
 IV. Exclusión, los obstáculos que encuentra determinada persona o personas, para participar plenamente en la vida social, viéndose privadas de una o varias opciones consideradas fundamentales para el desarrollo humano;
 
@@ -69,9 +73,11 @@ VIII. Programa, el Programa Estatal para Prevenir y Eliminar la Discriminación;
 
 IX. Transversalidad, el proceso mediante el cual se instrumentan las políticas, programas y acciones de índole legislativo, ejecutivo, administrativo y reglamentario, desarrollados por las dependencias y entidades de la administración pública, con el propósito común de garantizar la inclusión de la perspectiva de derechos humanos, igualdad y no discriminación, basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
 ###### Artículo 3.
 
-En el Estado de Querétaro queda prohibida toda forma de discriminación motivada por el origen étnico, nacional o regional, género, edad, discapacidad, condición social, económica o de salud, embarazo, opiniones, preferencias sexuales, estado civil, trabajo desempeñado, costumbres, raza, ideologías, creencias religiosas, migración o cualquier otra condición que dé origen a conductas que atentan contra la dignidad humana o que tengan por objeto anular o menoscabar los derechos y libertades de las personas.
+En el Estado de Querétaro queda prohibida toda forma de discriminación motivada por origen étnico, nacional o regional, género, edad, discapacidad, condición social, económica o de salud, apariencia física, embarazo, opiniones, preferencias sexuales, estado civil, trabajo desempeñado, por tener tatuajes o modificaciones corporales, costumbres, raza, ideologías, creencias religiosas, migración o cualquier otra condición que dé origen a conductas que atentan contra la dignidad humana o que tengan por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### Artículo 4.
 
@@ -556,3 +562,13 @@ Lic. Jorge López Portillo Tostado
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS 2 Y 3 DE LA LEY PARA PREVENIR Y ELIMINAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
