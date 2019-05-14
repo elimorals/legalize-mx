@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2019-04-12"
+last_updated: "2019-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2019.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -2014,17 +2014,21 @@ XXI.- Promover la organización de los jornaleros agrícolas y garantizar la pro
 
 XXII.- Los demás que le fijen expresamente las leyes y reglamentos.
 
-> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO. D.O.F. 14 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 41.
 
-A la Secretaría de Desarrollo Agrario, Territorial y Urbano corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Agrario, Territorial y Urbano, corresponde el despacho de los siguientes asuntos:
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
 I.- Elaborar y conducir las políticas de vivienda, ordenamiento territorial, desarrollo agrario y urbano, así como promover y coordinar con las entidades federativas, municipios y en su caso las alcaldías de la Ciudad de México, la elaboración de lineamientos para regular:
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
+
 a) El crecimiento o surgimiento de asentamientos humanos y centros de población;
+
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
 
 b) La regularización de la propiedad agraria y sus diversas figuras que la ley respectiva reconoce en los ejidos, las parcelas, las tierras ejidales y comunales, la pequeña propiedad agrícola, ganadera y forestal, los terrenos baldíos y nacionales, y los terrenos que sean propiedad de asociaciones de usuarios y de otras figuras asociativas con fines productivos;
 
@@ -2040,27 +2044,51 @@ d) Los procesos de planeación de los asentamientos humanos y el desarrollo urba
 
 e) La planeación habitacional y del desarrollo de vivienda, y
 
+> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
+
 f) El aprovechamiento de las ventajas productivas de las diversas regiones del país;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
 II. Aplicar los preceptos agrarios del artículo 27 constitucional, así como las leyes agrarias y sus reglamentos, en lo que no corresponda a otras dependencias, entidades u otras autoridades en la materia;
 
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
 III. Administrar el Registro Agrario Nacional;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
 IV. Conducir los mecanismos de concertación con las organizaciones campesinas;
 
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
 V. Conocer de las cuestiones relativas a límites y deslinde de tierras ejidales y comunales;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
 VI. Resolver las cuestiones relacionadas con los problemas de los núcleos de población ejidal y de bienes comunales, en lo que no corresponda a otras dependencias o entidades, con la participación de las autoridades estatales y municipales;
 
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
 VII. Cooperar con las autoridades competentes a la eficaz realización de los programas de conservación de tierras y aguas en los ejidos y comunidades;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
 VIII. Ejecutar las resoluciones y acuerdos que dicte el Presidente de la República en materia agraria, en términos de la legislación aplicable;
 
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
 IX. Administrar los terrenos baldíos y nacionales y las demasías, así como establecer los planes y programas para su óptimo aprovechamiento;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
 X. Planear y proyectar la adecuada distribución de la población y la ordenación territorial de los centros de población, ciudades y zonas metropolitanas, bajo criterios de desarrollo sustentable, conjuntamente con las dependencias y entidades de la Administración Pública Federal competentes, y coordinar las acciones que el Ejecutivo Federal convenga con los gobiernos de las entidades federativas y municipales para la realización de acciones en esta materia, con la participación de los sectores social y privado;
 
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
 XI. Prever a nivel nacional las necesidades de tierra para desarrollo urbano y vivienda, considerando la disponibilidad de agua determinada por la Secretaría de Medio Ambiente y Recursos Naturales y regular, en coordinación con los gobiernos de las entidades federativas y municipales, los mecanismos para satisfacer dichas necesidades;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
 XII. Elaborar, apoyar y ejecutar programas para satisfacer las necesidades de suelo urbano y el establecimiento de provisiones y reservas territoriales para el adecuado desarrollo de los centros de población, en coordinación con las dependencias y entidades de la Administración Pública Federal correspondientes y los gobiernos de las entidades federativas y municipales, y con la participación de los diversos grupos sociales;
 
@@ -2068,21 +2096,39 @@ XII. Elaborar, apoyar y ejecutar programas para satisfacer las necesidades de su
 
 XII Bis.- Establecer mecanismos para el ejercicio del derecho de preferencia a que se refiere el artículo 84 de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano;
 
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
 XIII. Promover y concertar programas de vivienda y de desarrollo urbano y metropolitano, y apoyar su ejecución, con la participación de los gobiernos de las entidades federativas y municipales, así como de los sectores social y privado, a efecto de que el desarrollo nacional en la materia se oriente hacia una planeación sustentable y de integración;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
 XIV. Fomentar la organización de sociedades cooperativas de vivienda y materiales de construcción, en coordinación con las Secretarías del Trabajo y Previsión Social y de Economía;
 
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
 XV. Planear, diseñar, promover, apoyar y evaluar mecanismos de financiamiento para el desarrollo regional y urbano, así como para la vivienda, con la participación de las dependencias y entidades de la Administración Pública Federal correspondientes, de los gobiernos de las entidades federativas y municipales, de las instituciones de crédito y de los diversos grupos sociales;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
 XVI. Apoyar los programas de modernización de los registros públicos de propiedad;
 
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
 XVII. Facilitar las acciones de coordinación de los entes públicos responsables de la planeación urbana y metropolitana en las entidades federativas y municipios cuando así lo convengan;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
 XVIII. Proyectar y coordinar, con la participación que corresponda a los gobiernos de las entidades federativas y municipales, la planeación regional del desarrollo;
 
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
+
 XIX. Elaborar los programas regionales y especiales que le señale el Ejecutivo Federal, tomando en cuenta las propuestas que para el efecto realicen las dependencias y entidades de la Administración Pública Federal y los gobiernos de las entidades federativas y municipales, así como autorizar las acciones e inversiones convenidas en el marco de lo dispuesto en la fracción que antecede, en coordinación con la Secretaría de Hacienda y Crédito Público;
 
-XX. Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, en coordinación con los gobiernos estatales y municipales y con la participación de los sectores social y privado;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XX. Promover y ejecutar la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, en coordinación con los gobiernos estatales y municipales y con la participación de los sectores social y privado;
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
 XXI. Aportar diagnósticos y estudios al Consejo Nacional de Población en materia de crecimiento demográfico y su impacto en el ámbito territorial;
 
@@ -2109,6 +2155,8 @@ XXVI.- Emitir opinión ante la Secretaría de Hacienda y Crédito Público en lo
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
 XXVII.- Diseñar los programas de modernización de los registros públicos inmobiliarios así como los catastros, a través de la administración de la plataforma nacional de información a que se refiere la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, y
+
+> <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
 XXVIII.- Los demás que le fijen expresamente las leyes y reglamentos.
 
@@ -3387,3 +3435,9 @@ D.O.F. 12 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 43 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 41 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y LA FRACCIÓN IX DEL ARTÍCULO 8 DE LA LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
