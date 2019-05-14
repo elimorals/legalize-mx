@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-servicio-profesional-de-carrera-policial-121364"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-05-12"
-last_updated: "2017-05-12"
+last_updated: "2019-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL, PROFESIONALIZACIÓN Y RÉGIMEN DISCIPLINARIO DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 12 de mayo de 2017.
 
@@ -411,21 +411,41 @@ III. Fungir como oficial de partes del Consejo, habilitado para la recepción de
 
 IV. Integrar y dar seguimiento a los procedimientos disciplinarios policiales, llevando a cabo el registro, en un libro, de cada uno de los asuntos iniciados y presentando al Consejo los proyectos de acuerdo de los asuntos de su competencia;
 
-V. Remitir a la Secretaría de Gobierno del Poder Ejecutivo del Estado, el calendario de sesiones ordinarias del Consejo y los días que deberán ser considerados como inhábiles para dicho órgano colegiado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”;
+V. Remitir a la Secretaría de Gobierno del Poder Ejecutivo del Estado, el calendario de sesiones ordinarias del Consejo y los días que deberán ser considerados como inhábiles para dicho órgano colegiado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga";
 
 VI. Dar cumplimiento a las solicitudes y requerimientos por parte de las autoridades judiciales y administrativas, relacionadas con las atribuciones del Consejo;
 
 VII. Certificar documentos y actuaciones que obren dentro de los expedientes radicados en el Consejo;
 
-VIII. Emitir y fijar en lugar visible de las oficinas de la Secretaría Técnica, una lista de los asuntos que se hayan acordado por el Consejo al siguiente día hábil a la celebración de la sesión correspondiente, y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
-IX. Las demás previstas en las disposiciones reglamentarias y normativas correspondientes, así como las que le instruya el Secretario, en el ámbito de su competencia.
+VIII. Emitir y fijar en lugar visible de las oficinas de la Secretaría Técnica, una lista de los asuntos que se hayan acordado por el Consejo al siguiente día hábil a la celebración de la sesión correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MAYO DE 2019)</small>
+
+IX. Desahogar las etapas procesales y diligencias necesarias para la integración y desahogo de los procedimientos relativos al régimen disciplinario, en los términos establecidos en el presente reglamento y demás disposiciones jurídicas;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2019)</small>
+
+X. Presentar al Consejo los proyectos de resolución de los asuntos de su competencia;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2019)</small>
+
+XI. Someter a consideración del Consejo para su aprobación, los asuntos que se considere conveniente remitir al archivo por falta de elementos para procesar;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2019)</small>
+
+XII. Dar cuenta al Consejo, de aquellos casos en que sea necesario deliberar sobre la procedencia de sujetar al policía a un procedimiento abreviado, en términos de lo establecido por el artículo 172 de este reglamento, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE MAYO DE 2019)</small>
+
+XIII. Las demás previstas en las disposiciones reglamentarias y normativas correspondientes, así como las que le instruya el Secretario, en el ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
 
 ###### Artículo 27.
 
-Las audiencias de los procedimientos disciplinarios policiales celebradas por el Consejo serán públicas, salvo cuando el propio órgano colegiado determine lo contrario.
-
-La información y documentación que obre en los archivos del Consejo será considerada de carácter público; sin embargo, para su consulta, difusión o reserva, deberán observarse las disposiciones legales aplicables en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
+Las audiencias de los procedimientos disciplinarios policiales serán públicas, salvo cuando el propio órgano colegiado determine lo contrario.
 
 Artículo28. El Consejo tendrá las siguientes atribuciones:
 
@@ -457,9 +477,11 @@ XIII. Las demás que establezcan las disposiciones legales aplicables.
 
 ### Capítulo Cuarto. De la Unidad de Asuntos Internos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2019)</small>
+
 ###### Artículo 29.
 
-La Unidad fungirá como órgano de supervisión, investigación y acusación con el fin de prevenir la conducta policial irregular y que sean sancionadas las faltas policiales; la cual estará a cargo de un Titular que tendrá las siguientes atribuciones:
+La Unidad fungirá como órgano de prevención, supervisión, investigación y acusación con el fin de prevenir y sancionar las conductas policiales irregulares y las faltas policiales. La Unidad estará a cargo de un Titular que tendrá las siguientes atribuciones:
 
 I. Llevar un historial de la conducta policial en servicio, en el que se registren los reportes, quejas y denuncias, para efectos estadísticos y de prevención de conductas que afecten la disciplina policial;
 
@@ -499,9 +521,17 @@ XVIII. Denunciar ante la autoridad competente, las conductas del personal operat
 
 XIX. Certificar documentos y actuaciones que obren dentro de los expedientes de investigación;
 
-XX. Autorizar al personal adscrito a la Unidad para llevar a cabo notificaciones, supervisiones, inspecciones, auditorías y comparecer a las audiencias ante el Consejo, y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
-XXI. Las demás previstas en las disposiciones reglamentarias y normativas correspondientes, así como las que le instruya el Secretario, en el ámbito de su competencia.
+XX. Autorizar al personal adscrito a la Unidad para llevar a cabo notificaciones, supervisiones, inspecciones, auditorías y comparecer a las audiencias ante el Consejo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MAYO DE 2019)</small>
+
+XXI. Coordinar el Sistema de Control Policial de la Secretaría de Seguridad Ciudadana conforme a los lineamientos que expida el Secretario para tal efecto, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE MAYO DE 2019)</small>
+
+XXII. Las demás previstas en las disposiciones reglamentarias y normativas correspondientes, así como las que le instruya el Secretario, en el ámbito de su competencia.
 
 ###### Artículo 30.
 
@@ -1043,6 +1073,10 @@ Los resultados obtenidos en concursos por oposición para la obtención de la pr
 
 En el caso de que se habiliten plazas de mayor jerarquía, los requisitos de participación y los parámetros de evaluación, atenderán al perfil registrado en el Catálogo de Puestos y los requerimientos establecidos por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2019)</small>
+
+La Comisión, mediante sesión legalmente constituida, cuando no se reúnan todos los requisitos en los supuestos establecidos en este ordenamiento, resolverá lo relativo a la carrera policial.
+
 #### Sección Décimo Tercera. De los Reconocimientos y Estímulos
 
 ###### Artículo 85.
@@ -1127,13 +1161,19 @@ d) Vejez, por haber llegado a los 60 años de edad y 18 años de servicio polici
 
 La separación del personal por las causas estipuladas en el presente reglamento, se realizará mediante el siguiente procedimiento:
 
-I. El Subsecretario de Policía Estatal deberá presentar denuncia fundada y motivada ante la Unidad, en la cual señale el requisito de permanencia que presuntamente haya sido incumplido por el policía, adjuntando los documentos y demás pruebas que considere pertinentes;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+I. El Director de Policía Estatal deberá presentar denuncia fundada y motivada ante la Unidad, en la cual señale el requisito de permanencia que presuntamente haya sido incumplido por el policía, adjuntando los documentos y demás pruebas que considere pertinentes;
 
 II. La Unidad radicará expediente de investigación y realizará las diligencias necesarias para integrar la investigación;
 
-III. Concluida la investigación, la Unidad remitirá el (sic) Consejo sus conclusiones de acusación o solicitud de archivo y el expediente original;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
-IV. Ante la admisión de la acusación, el Consejo por conducto de su Secretario Técnico, radicará el procedimiento, proveyendo la notificación al policía y lo citará a audiencia inicial, que deberá efectuarse en un plazo no menor a tres días hábiles, para que en la misma manifieste lo que a su interés convenga, ofrezca pruebasy (sic) presente alegatos por sí o por medio de defensor;
+III. Concluida la investigación, la Unidad remitirá al Consejo sus conclusiones de acusación y el expediente original;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+IV. Ante la admisión de la acusación, el Consejo por conducto de su Secretario Técnico, radicará y sustanciará el procedimiento, proveyendo la notificación al policía y lo citará a audiencia inicial, que deberá efectuarse en un plazo no menor a tres días hábiles, para que en la misma manifieste lo que a su interés convenga, ofrezca pruebas y presente alegatos por sí o por medio de defensor;
 
 V. El Consejo podrá suspender temporalmente al policía en los términos señalados en este reglamento;
 
@@ -1405,7 +1445,11 @@ L. Observar las normas de disciplina y orden que establezcan las disposiciones r
 
 LI. Abstenerse de realizar actos, en lo individual o conjuntamente, que vulneren la disciplina de manera tal, que afecte la correcta prestación de su servicio o desconozca la autoridad de sus superiores;
 
-LII. Resguardar y mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos solo en el desempeño del servicio;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+LII. Resguardar y mantener en buen estado el armamento, material, municiones, uniforme, vehículo, radio portátil, sistema de localización de las unidades y demás equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos solo en el desempeño del servicio;
+
+En el caso de pérdida o extravío de equipo de radiocomunicación se deberá solicitar de manera inmediata a la Dirección General del Centro de Información y Análisis para la Seguridad de Querétaro la inhabilitación de la terminal.
 
 LIII. Hacer entrega del armamento, vehículo, municiones y demás equipo policial al terminar su servicio, así como en caso de ser suspendido, separado, removido o causar baja del servicio;
 
@@ -1521,9 +1565,13 @@ VIII. No proporcionar al público su nombre completo, cuando se le solicite;
 
 IX. Ostentar un nombre, grado, categoría o jerarquía que no le corresponda;
 
-X. No atender inmediatamente un reporte del Centro de Control, Comando, Comunicación y Cómputo;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
-XI. No reportar todas las actuaciones policiales o atenciones a la ciudadanía al Centro de Control, Comando, Comunicación y Cómputo;
+X. No atender inmediatamente un reporte del Centro de Información y Análisis para la Seguridad de Querétaro;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+XI. No reportar todas las actuaciones policiales o atenciones a la ciudadanía al Centro de Información y Análisis para la Seguridad de Querétaro;
 
 XII. No contestar o utilizar para actividades distintas a sus funciones, el teléfono, equipo de radiocomunicación o cualquier medio electrónico con los que cuenta la Secretaría;
 
@@ -1617,9 +1665,17 @@ e. Promover o permitir que personas ajenas a la Corporación, realicen actividad
 
 f. Portar el uniforme o parte del mismo para realizar actos que denigren la buena imagen de la Secretaría dentro o fuera de servicio;
 
-g. Asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia, y
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
 
-h. No comparecer injustificadamente, a las diligencias que la Unidad o el Consejo ordenen para la investigación y procedimiento disciplinario de las faltas policiales.
+g. Asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en caso de flagrancia;
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
+h. Abstenerse injustificadamente de comparecer a las diligencias que la Unidad o el Consejo ordenen para la investigación y procedimiento disciplinario de las faltas policiales, y
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2019)</small>
+
+i. No haber realizado de manera inmediata la solicitud de inhabilitación de la terminal del equipo de radiocomunicación extraviado o perdido, al Centro de Información y Análisis para la Seguridad de Querétaro.
 
 IV. Se sancionará con suspensión sin goce de sueldo de 61 a 90 días:
 
@@ -1877,7 +1933,9 @@ I. Recibido el reporte, queja o denuncia, la Unidad se cerciorará de que el pol
 
 II. Si el policía reportado no fuere personal de carrera policial de la Secretaría o perteneciera a otra institución, se turnará en su caso la documentación al Órgano Interno o instancia que corresponda;
 
-III. La Unidad citará a declarar al policía en contra de quien se inició la investigación, notificándole la fecha, lugar y hora de la diligencia, levantando para ello acta circunstanciada de la notificación y turnando copia de la misma al Director, a efecto de que éste instruya y provea lo necesario para su oportuna atención;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+III. La Unidad podrá citar a declarar al policía en contra de quien se inició la investigación, notificándole la fecha, lugar y hora de la diligencia, levantando para ello acta circunstanciada de la notificación y turnando copia de la misma al Director, a efecto de que éste instruya y provea lo necesario para su oportuna atención;
 
 IV. Si el policía sujeto a investigación se negare a recibir la notificación se procederá a levantar razón circunstanciada de este hecho ante dos testigos, sin que se afecte la validez de la notificación. Las notificaciones deberán realizarse con un plazo no menor de tres días hábiles antes de la fecha de la diligencia, ante la imposibilidad de llevar a cabo la misma se señalará nueva fecha;
 
@@ -1913,7 +1971,7 @@ I. Incompetencia, y
 
 II. Falta de elementos para dar inicio al procedimiento.
 
-Tratándose de investigaciones iniciadas por conductas relacionadas con daños a la Hacienda Pública Estatal o por las faltas policiales que ameriten destitución o inhabilitación, el expediente de investigación y sus conclusiones deberán turnarse al Consejo para que autorice el archivo.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 14 DE MAYO DE 2019)</small>
 
 ###### Artículo 139.
 
@@ -2067,25 +2125,33 @@ II. Admitida la acusación presentada por la Unidad, se radicará el procedimien
 
 La inasistencia del policía sujeto a la audiencia inicial no impedirá al Consejo el desahogo de la misma, ni dictar su resolución, salvo que éste ordene citarlo nuevamente por así considerarlo necesario;
 
-III. Abierta la audiencia inicial, el Presidente del Consejo preguntará si existe alguna causa de excusa o recusación para conocer del asunto, y en su caso se proveerá lo conducente. Posteriormente se explicará al policía, el objeto de la diligencia exhortándolo para que proteste conducirse con verdad;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+III. Abierta la audiencia inicial, el Secretario Técnico del Consejo preguntará si existe alguna causa de excusa o recusación para conocer del asunto, y en su caso se proveerá lo conducente. Posteriormente se explicará al policía, el objeto de la diligencia exhortándolo para que proteste conducirse con verdad;
 
 IV. La Unidad expondrá los antecedentes del caso, informará sobre las pruebas recabadas durante la investigación y formulará sus conclusiones, señalando las razones de hecho y de derecho en que se funden;
 
 V. Expresadas las conclusiones del caso, se concederá el uso de la voz al policía acusado para que en forma personal y directa declare lo que a su interés convenga y ofrezca medios de prueba para su defensa; posteriormente, en la misma audiencia, se dará oportunidad a la Unidad de ofrecer medios de prueba;
 
-VI. El Consejo proveerá sobre la admisión o desechamiento de las pruebas ofrecidas, y en su caso, señalará nueva fecha para el desahogo de aquellas que por su naturaleza jurídica así lo ameriten, o bien cuando así lo considere necesario;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
-Serán objeto de prueba los hechos controvertidos, tanto los constitutivos de la falta policial como los que la excluyen; y las circunstancias concernientes a la individualización de la sanción. No lo serán el derecho, los hechos consentidos ni los notorios;
+VI. El Consejo proveerá sobre la admisión o desechamiento de las pruebas ofrecidas, señalando nueva fecha para que el Secretario Técnico del Consejo realice el desahogo de aquellas que por su naturaleza jurídica así lo ameriten;
 
-Se admitirán aquellos medios probatorios obtenidos durante la investigación realizada por la Unidad, además de los ofertados en la audiencia inicial;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
-VII. El Consejo podrá, en cualquier momento de la audiencia inicial, formular cuestionamientos directos relacionados con los hechos motivo del procedimiento disciplinario al personal de la Unidad, al policía acusado y a los terceros; así también ordenar la práctica o ampliación de cualquier diligencia probatoria e incluso permitir durante las audiencias el diálogo entre las partes;
+VII. El Consejo podrá ordenar la práctica o ampliación de cualquier diligencia probatoria.
+
+El Secretario Técnico del Consejo, en cualquier momento de la audiencia inicial, podrá formular cuestionamientos directos relacionados con los hechos motivo del procedimiento disciplinario al personal de la Unidad, al policía acusado y a los terceros, e incluso permitir durante las audiencias el diálogo entre las partes.
 
 VIII. El Consejo podrá proveer todas aquellas medidas que conduzcan al mejor conocimiento de la verdad, al óptimo desahogo del procedimiento disciplinario policial y al justo dictado de las resoluciones;
 
-IX. Si en el desarrollo de la audiencia inicial se advierten elementos que impliquen la configuración de otras causales de responsabilidad administrativa con cargo al policía acusado o de otros servidores públicos o personal operativo, el Consejo a través de su Presidente, ordenará suspender la audiencia y dará vista a la Unidad y/o al Órgano Interno, según sea el caso, para que integre la investigación correspondiente en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
-X. En caso que durante el desahogo de la audiencia inicial y previo a la emisión de la resolución definitiva, el policía sujeto a procedimiento disciplinario policial, admita las acusaciones que se le imputan, el Consejo determinará si procede a dictar la resolución correspondiente de manera inmediata a través del procedimiento abreviado contemplado en el presente reglamento, siempre y cuando se trate de faltas policiales que no sean sancionadas con destitución o inhabilitación;
+IX. Si en el desarrollo de la audiencia inicial se advierten elementos que impliquen la configuración de otras causales de responsabilidad administrativa con cargo al policía acusado o de otros servidores públicos o personal operativo, el Consejo a través de su Presidente o a petición de su Secretario Técnico, podrá ordenar la suspensión de la audiencia y dará vista a la Unidad y/o al Órgano Interno, según sea el caso, para que integre la investigación correspondiente en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+X. En caso que durante el desahogo de la audiencia inicial y previo a la emisión de la resolución definitiva, el policía sujeto a procedimiento disciplinario policial, admita las acusaciones que se le imputan, y las mismas no sean sancionadas con destitución o inhabilitación, se estará a lo dispuesto en el artículo 172 de este Reglamento;
 
 XI. Concluida la etapa de desahogo de pruebas ofrecidas por la Unidad de Asuntos Internos y el policía sujeto a procedimiento disciplinario, quedarán los autos originales a disposición de las partes, por un plazo común de cinco días hábiles, para que presenten alegatos por escrito;
 
@@ -2191,9 +2257,11 @@ Cuando no se señale término para la práctica de alguna diligencia o para el e
 
 #### Sección Séptima. De la Sustanciación del Procedimiento Abreviado
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+
 ###### Artículo 172.
 
-Si en la audiencia inicial el policía acepta la responsabilidad de la falta policial que se le impute y la misma no es sancionada con destitución o inhabilitación, el Consejo deliberará respecto a la procedencia de sujetar al policía a un procedimiento abreviado.
+Si en la audiencia inicial el policía acepta la responsabilidad de la falta policial que se le impute, y la misma no es sancionada con destitución o inhabilitación, el Secretario Técnico suspenderá la audiencia y dará cuenta al Consejo, para que éste determine si procede a dictar la resolución correspondiente de manera inmediata a través del procedimiento abreviado contemplado en el presente reglamento.
 
 ###### Artículo 173.
 
@@ -2312,3 +2380,13 @@ Juan Martín Granados Torres
 Secretario de Gobierno del Poder Ejecutivo del Estado
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE MAYO DE 2019.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL, PROFESIONALIZACIÓN Y RÉGIMEN DISCIPLINARIO DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, “La Sombra de Arteaga”.
+
+Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a esta reforma.
