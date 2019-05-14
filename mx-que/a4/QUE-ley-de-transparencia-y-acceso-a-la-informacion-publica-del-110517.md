@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1105
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2016-05-30"
+last_updated: "2019-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado, el viernes 13 de noviembre de 2015.
 
@@ -1075,9 +1075,17 @@ X. Las contrataciones de servicios personales señalando el nombre del prestador
 
 XI. El informe semestral del ejercicio presupuestal del uso y destino de los recursos financieros de la Legislatura y de los Grupos Parlamentarios;
 
-XII. Los resultados de los estudios o investigaciones de naturaleza económica, política y social que realicen los centros de estudio o investigación legislativa; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
 
-XIII. El padrón de cabilderos, de acuerdo a la normatividad aplicable.
+XII. Los resultados de los estudios o investigaciones de naturaleza económica, política y social que realicen los centros de estudio o investigación legislativa;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2019)</small>
+
+XIII. El padrón de cabilderos, de acuerdo a la normatividad aplicable; y
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2019)</small>
+
+XIV. La transmisión en tiempo real de las sesiones del Pleno de la Legislatura y, en su caso, de las de las comisiones, por conducto de su portal de internet o de las plataformas de las redes sociales con mayor número de usuarios en el País y en el Estado.
 
 ###### Artículo 69.
 
@@ -2290,3 +2298,11 @@ Artículo Séptimo. De acuerdo a la Reforma a la Constitución Política del Est
 Artículo Octavo. Dentro del plazo de 90 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión Estatal de Infraestructura de Querétaro.
 
 En tanto no se expidan las disposiciones reglamentarias de la Ley que crea la Comisión Estatal de Infraestructura de Querétaro, el Consejo de Administración dictará los criterios y lineamientos para su debida observancia.
+
+P.O. 14 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley, en lo que corresponde a la Ley Orgánica del Poder Legislativo, entrará en vigor a partir del día de su aprobación por el Pleno de la Quincuagésima Novena Legislatura del estado de Querétaro, salvo lo dispuesto en el artículo 152 de la Ley Orgánica del Poder Legislativo señalado en la presente ley, el cual entrará en vigor el día 01 de enero de 2020 atendiendo a la suficiencia presupuestal aprobada. Lo relativo en la presente Ley a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
