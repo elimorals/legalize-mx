@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-tribunal-electoral-del-poder-109182"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-07"
-last_updated: "2019-02-05"
+last_updated: "2019-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109182&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-08-03"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2019.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de agosto de 2015.
 
@@ -2419,7 +2419,7 @@ X. Instruir el seguimiento necesario a los procedimientos de ejecución en los q
 
 XI. Mantener actualizado el registro del personal sancionado adscrito al Tribunal Electoral;
 
-XII. Vigilar el registro y dar seguimiento de la presentación de la declaración de situación patrimonial del personal del Tribunal Electoral;
+XII. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
 XIII. Participar en los actos de entrega-recepción del personal de las Salas del Tribunal Electoral;
 
@@ -2437,7 +2437,61 @@ XVII. Proponer las acciones que coadyuven a promover la mejora continua, adminis
 
 XVIII. Proponer, en el ámbito de sus atribuciones, la celebración o actualización de convenios con otros órdenes de Gobierno, en materia de registro de sanciones administrativas y llevar a cabo acciones para promover el intercambio de la información correspondiente, entre otros.
 
-Las ausencias de la persona titular de la Contraloría Interna, serán suplidas en términos de la normativa aplicable.
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XIX. Recibir, así como llevar a cabo el registro y control de las declaraciones de inicio, conclusión y modificación de situación patrimonial y de intereses de todos los servidores públicos del Tribunal Electoral.
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XX. Realizar el registro y seguimiento de la evolución de la situación patrimonial de todos los servidores públicos del Tribunal Electoral.
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XXI. Llevar a cabo la revisión aleatoria de la evolución patrimonial de los servidores públicos a que se refiere el artículo 30 de la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XXII. Recibir, en la modalidad que se establezca para tal efecto, las aclaraciones a la declaración de situación patrimonial y de intereses formuladas por los servidores públicos, en tanto no se haya notificado el inicio de procedimiento de responsabilidad administrativa por alguna irregularidad detectada en las declaraciones presentadas.
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XXIII. Proponer, en materia de declaración de situación patrimonial y de intereses, y en las demás materias en el marco de sus atribuciones, la celebración de bases y convenios de colaboración con las autoridades competentes, en materia financiera, bancaria, seguros, valores y registrales de todo tipo, y las que se requieran.
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XXIV. Solicitar por sí o a través de quien delegue esta facultad, a las autoridades competentes, instituciones bancarias y entidades financieras, cuando lo considere necesario, los datos e información en materia fiscal, o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios que se requieran. Tratándose de información y documentación bancaria, podrá solicitarse a las instituciones financieras por conducto de la Comisión Nacional Bancaria y de Valores, cumpliendo para ello los requisitos legales exigidos.
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XXV. Elaborar el padrón general de los servidores públicos que tienen obligación de presentar declaración patrimonial y de intereses y mantenerlo actualizado mediante la información que le proporcione la Dirección General de Recursos Humanos del Tribunal Electoral.
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XXVI. Hacer del conocimiento de la instancia correspondiente del Tribunal Electoral, cuando con motivo de la verificación de la evolución del patrimonio del sujeto obligado no se justifique la procedencia lícita de un incremento notoriamente desproporcionado de este, en sus bienes o en aquellos sobre los que se conduzca como dueño, durante el tiempo de su empleo, cargo o comisión, así como de la participación que en ese enriquecimiento pudiera tener algún particular.
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XXVII. Emitir un dictamen cuando los servidores públicos no cumplan oportunamente o con su obligación de presentar la declaración de situación patrimonial que corresponda o existan indicios de falta de veracidad, podrá solicitar la aclaración correspondiente, en términos de la fracción XXII y de no justificarse, deberá ser remitido a la instancia correspondiente.
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XXVIII. Administrar la información contenida en las bases de datos y aplicaciones informáticas relativas al registro y control de la información en materia patrimonial.
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XXIX. Proporcionar a la Secretaría Ejecutiva del Sistema Nacional Anticorrupción, la información necesaria para el funcionamiento del sistema de evolución patrimonial, de declaración de intereses y de constancias de presentación de declaración fiscal, que se almacenará en la Plataforma Digital Nacional, conforme a lo previsto en el artículo 27 de la Ley General de Responsabilidades Administrativas, observando las disposiciones en materia de transparencia que correspondan.
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XXX. Expedir los lineamientos y circulares de carácter instrumental para el ejercicio de sus atribuciones.
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XXXI. Presentar denuncias por hechos que las leyes señalen como delitos derivados de la revisión de la situación patrimonial de los servidores públicos del Tribunal Electoral ante las autoridades competentes, conforme a lo establecido en la Ley General de Responsabilidades Administrativas y los Acuerdos Generales que en la materia se expidan; así como instar al área correspondiente a que formule las querellas respectivas en el supuesto de detectar conductas que puedan ser constitutivas de delitos.
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+XXXII. Las demás que le confieran las disposiciones aplicables
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -3944,3 +3998,19 @@ PRIMERO. Las presentes reformas y adiciones entrarán en vigor al día siguiente
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a las presentes reformas y adiciones.
 
 TERCERO. Publíquense las presentes reformas y adiciones en el Diario Oficial de la Federación y la Gaceta de Jurisprudencia y Tesis en Materia Electoral.
+
+D.O.F. 14 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS Y ADICIONES AL ARTÍCULO 182 DEL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su aprobación, debiendo publicarse en el Diario Oficial de la Federación y en la Gaceta de Jurisprudencia y Tesis en Materia Electoral.
+
+SEGUNDO. Con la presente reforma, la Contraloría Interna, tendrá a su cargo la facultad de llevar el registro y seguimiento de la evolución de la situación patrimonial del personal del Tribunal Electoral y para tal efecto serán aplicables, en lo que no se oponga a la reforma de mérito, las disposiciones previstas en el TÍTULO SEGUNDO DE LA RESPONSABILIDAD ADMINISTRATIVA, LA DECLARACIÓN PATRIMONIAL Y DE INTERESES, Y LA ENTREGA RECEPCIÓN, CAPÍTULO SEGUNDO DECLARACIÓN DE SITUACIÓN PATRIMONIAL Y DE INTERESES, del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, publicado en el Diario Oficial de la Federación el 7 de diciembre de 2018, hasta en tanto se emita su normativa interna.
+
+TERCERO. A partir de la entrada en vigor de la presente reforma todos los servidores públicos del Tribunal Electoral del Poder Judicial de la Federación deberá (sic) presentar su declaración de situación patrimonial y de intereses, de inicio, conclusión y modificación, ante la Contraloría Interna del propio Tribunal.
+
+Respecto de los servidores públicos cuya obligación hubiere iniciado antes de la presente reforma y que aún no hayan presentado la declaración que corresponda, deberán hacerlo a la Contraloría Interna del Tribunal Electoral del Poder Judicial de la Federación.
+
+CUARTO. Se instruye a la Secretaría Administrativa del Tribunal Electoral del Poder Judicial de la Federación para que realice todas las gestiones necesarias para proveer los recursos humanos, materiales, tecnológicos y financieros para la implementación de la presente reforma, atendiendo a la disponibilidad presupuestal, debiendo informar a la Comisión de Administración sobre el cumplimiento de esta instrucción.
+
+QUINTO. Para su difusión publíquese en las páginas de Intranet e Internet del Tribunal Electoral del Poder Judicial de la Federación.
