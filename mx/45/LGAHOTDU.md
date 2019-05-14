@@ -4,7 +4,7 @@ identifier: "LGAHOTDU"
 country: "mx"
 rank: "ley_general"
 publication_date: "2016-11-28"
-last_updated: "2016-11-28"
+last_updated: "2019-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117395&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGAHOTDU"
 
 LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2019.
 
 Ley publicada en la Primera Sección al Número 21 del Diario Oficial de la Federación, el lunes 28 de noviembre de 2016.
 
@@ -226,9 +226,11 @@ Las atribuciones en materia de ordenamiento territorial, asentamientos humanos, 
 
 ### Capítulo Segundo. Atribuciones de la Federación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2019)</small>
+
 ###### Artículo 8.
 
-Corresponden a la Federación, a través de la Secretaría, las atribuciones siguientes:
+Corresponden a la federación, a través de la Secretaría las atribuciones siguientes:
 
 I. Formular y conducir la política nacional de asentamientos humanos, así como el ordenamiento territorial, en coordinación con otras dependencias de la Administración Pública Federal;
 
@@ -246,7 +248,9 @@ VII. Elaborar, apoyar y ejecutar programas que tengan por objeto satisfacer las 
 
 VIII. Planear, diseñar, promover y evaluar mecanismos de financiamiento para el Desarrollo Regional, urbano, y rural, con la participación que corresponda a las dependencias y entidades de la Administración Pública Federal, de los gobiernos de las entidades federativas, de los municipios que sean competentes, y las Demarcaciones Territoriales, así como a las instituciones de crédito y de los diversos grupos sociales;
 
-IX. Promover la construcción de obras de infraestructura y equipamiento para el Desarrollo Regional, urbano, y rural, en coordinación con los gobiernos estatales, municipales y las Demarcaciones Territoriales, y con la participación de los sectores social y privado, impulsando el acceso de todos y todas a los servicios, beneficios y prosperidad que ofrecen las ciudades;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2019)</small>
+
+IX. Promover y ejecutar la construcción de obras de infraestructura y equipamiento para el Desarrollo Regional, urbano y rural, en coordinación con los gobiernos estatales, municipales y las Demarcaciones Territoriales, y con la participación de los sectores social y privado, impulsando el acceso de todos y todas a los servicios, beneficios y prosperidad que ofrecen las ciudades;
 
 X. Formular y ejecutar el programa nacional de ordenamiento territorial y desarrollo urbano, así como promover, controlar y evaluar su cumplimiento;
 
@@ -1010,7 +1014,7 @@ I. En las Zonas de Conservación se regulará la mezcla de Usos del suelo y sus 
 
 (NOTA 3: EL 8 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, DÉCIMO QUINTO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 20/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE FEBRERO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-(NOTA 4: EL 8 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, DÉCIMO QUINTO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL14/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE FEBRERO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA 4: EL 8 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, DÉCIMO QUINTO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 14/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE FEBRERO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 (NOTA 5: EL 8 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, DÉCIMO QUINTO Y DÉCIMO NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 21/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE FEBRERO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1735,3 +1739,11 @@ Asimismo, las entidades federativas deberán realizar las previsiones y adecuaci
 Ciudad de México, a 13 de octubre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticinco de noviembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 14 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 41 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y LA FRACCIÓN IX DEL ARTÍCULO 8 DE LA LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
