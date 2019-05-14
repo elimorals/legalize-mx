@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-86551"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-02"
-last_updated: "2018-12-19"
+last_updated: "2019-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
 
 Ley publicada en Periódico Oficial del Estado de Querétaro, el viernes 2 de marzo de 2012.
 
@@ -869,35 +869,29 @@ El servicio social a que se refiere el artículo anterior, no será menor a 6 me
 
 ### Capítulo Único. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
 
 ###### Artículo 65.
 
-La Secretaría de la Juventud promoverá ante la Legislatura del Estado, a través de la Comisión de Juventud y Deporte, la instalación anual de un Parlamento Juvenil, el cual se realizará durante dos días en la última semana del mes de agosto y que tendrá por objeto promover la cultura legislativa entre los jóvenes,
+La Secretaría de la Juventud del Poder Ejecutivo del Estado de Querétaro podrá llevar a cabo las actividades tendientes a organizar, difundir y promover entre los jóvenes la cultura legislativa a través de eventos, congresos, conferencias o parlamentos, mismos que tendrán como finalidad abrir espacios de debate y conocimiento y contribuyan de manera alternativa a mejorar la situación del sector juvenil y de la sociedad.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+Asimismo, con el propósito de incentivar la participación de los jóvenes en la Entidad, el Poder Ejecutivo del Estado, a través de la Secretaría, otorgará el Premio Estatal de la Juventud, reconocimiento que se concederá a aquellos jóvenes que hayan destacado en actividades académicas, artísticas, productivas, de innovación tecnológica, labor social o protección al ambiente. El premio se entregará anualmente, previa convocatoria que al efecto se expida.
 
 ###### Artículo 66.
 
-El Parlamento contará con un Comité Organizador, que será honorífico y se integrará por:
-
-I. El Secretario de la Juventud o en su caso la persona que éste designe; y
-
-II. La Comisión de Juventud y Deporte del Poder Legislativo del Estado de Querétaro o en su caso la persona que éste designe.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 14 DE MAYO DE 2019)
 
 ###### Artículo 67.
 
-La organización, así como el establecimiento de bases y lineamientos para la convocatoria, selección de aspirantes, logística y desarrollo del Parlamento Juvenil, estará a cargo del Comité Organizador en coordinación con la Dirección de Investigación y Estadística de la Legislatura del Estado, estableciendo que cada Parlamento Juvenil tendrá como objetivo tratar una determinada materia, tal como se establezca en el Reglamento que para esos efectos expida el Comité Organizador.
+(DEROGADO, P.O. 14 DE MAYO DE 2019)
 
 ###### Artículo 68.
 
-Podrán participar en el Parlamento, los jóvenes queretanos que cumplan con los requisitos establecidos en las bases y lineamientos de la convocatoria que se emita.
+(DEROGADO, P.O. 14 DE MAYO DE 2019)
 
 ###### Artículo 69.
 
-La Comisión de la Juventud y Deporte de la Legislatura del Estado, otorgará anualmente el Premio Estatal de la Juventud, a aquellos jóvenes que se hayan destacado en alguna actividad tales como académicas, artísticas, productivas, innovación tecnológica, labor social y protección al ambiente; con el propósito de incentivar su labor y la de los demás jóvenes, previa convocatoria que al efecto se expida.
+(DEROGADO, P.O. 14 DE MAYO DE 2019)
 
 > <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
@@ -931,7 +925,7 @@ III. Tres representantes de la sociedad civil organizada vinculados con la orato
 
 El jurado calificador será conformado por la Secretaría de la Juventud en el mes de enero de cada año, determinando a quienes serán representantes de la sociedad civil y que además podrán participar con el mismo carácter en los dos años subsecuentes.
 
-> <small>(ADICIONADO, P.O.11 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 72.
 
@@ -1165,7 +1159,7 @@ Marzo 5%
 
 III. Se cancelan los créditos fiscales por incosteabilidad en el cobro.
 
-Para efectos de esta fracción, se considerán créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2018, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2018, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
 
 Se cancelan los adeudos del Impuesto Sobre Tenencia o Uso de Vehículos, así como los derechos por control vehicular previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2014 y anteriores.
 
@@ -1234,3 +1228,13 @@ c) El testimonio en el que conste la adquisición de negociaciones en operación
 d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes, y
 
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial.
+
+P.O. 14 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO Y DEROGA EL DECRETO QUE CREA EL PARLAMENTO OBRERO DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
