@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2018-07-30"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -731,13 +731,17 @@ bb Bis).- Determinar las acciones necesarias para formarse y capacitarse en mate
 
 cc).- Vigilar y promover el cumplimiento de las obligaciones de Transparencia y Acceso a la Información Pública, conforme a la Ley en la materia;
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
 
-dd).- Implementar políticas públicas de mejora regulatoria para la simplificación de regulaciones, trámites, servicios y demás objetivos que establece la ley en la materia; y
+dd).- Implementar políticas públicas de mejora regulatoria para la simplificación de regulaciones, trámites, servicios y demás objetivos que establece la ley en la materia;
 
-> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
 
-ee).- Proteger de forma integral los Derechos de las Niñas, Niños y Adolescentes.
+ee).- Proteger de forma integral los Derechos de las Niñas, Niños y Adolescentes; y
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+ff).- Ejercer las facultades que le confiere la Ley de Movilidad y Transporte para el Estado de Hidalgo en materia de Movilidad.
 
 II.- Asimismo, podrán:
 
@@ -2153,9 +2157,11 @@ XX.- Dentro del término de ciento ochenta días a que hace referencia la fracci
 
 El Titular de Obras Públicas deberá contar con título profesional y con experiencia mínima de un año.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 118.
 
-Los Ayuntamientos por conducto de su Presidente Municipal o de las Dependencias Municipales de obras públicas o de planeación y urbanismo, ejercerán las funciones relativas a la planeación y urbanización de los centros y zonas destinados a los asentamientos humanos de su jurisdicción, con las atribuciones que les asignen las Leyes Federales y Estatales en la materia y demás disposiciones legales aplicables.
+Los Ayuntamientos por conducto de su Presidente Municipal o de las dependencias municipales de obras públicas, planeación, urbanismo y movilidad, ejercerán las funciones relativas a la planeación, urbanización y movilidad de los centros y zonas destinados a los asentamientos humanos de su jurisdicción, con las atribuciones que les asignen las leyes Federales y Estatales en la materia y demás disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -2174,6 +2180,10 @@ c) Acreditar conocimientos en materia ambiental ecológica.
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ARTÍCULO 118 QUATER.- Las facultades de la Dirección de Ecología y Medio Ambiente, serán las que establezca el reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+ARTÍCULO 118 QUINQUIES.- El responsable del área de atención a la movilidad por parte de los ayuntamientos, además de los requisitos para ocupar cargos públicos dentro de la estructura de los municipios, deberá contar con título profesional en el ramo de Arquitectura Urbana, Ingeniería, Urbanismo o alguna carrera o profesión similar relacionada con la materia y/o contar con experiencia mínima de un año, al momento de su designación.
 
 ###### ARTÍCULO 119.
 
@@ -2241,9 +2251,9 @@ V.- Autorizar las licencias y permisos de funcionamiento y cuidar que se paguen 
 
 VI.- Regular el comercio establecido, así como la autorización de espectáculos públicos en el Municipio.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
 
-ARTÍCULO 121 BIS.- Los servidores públicos municipales que se desempeñen como titulares de la Secretaría General Municipal, la Tesorería Municipal, la Contraloría, la Oficialía del Registro del Estado Familiar, la Unidad de Protección Civil, la Dirección de Ecología y Medio Ambiente, el área de Obras Públicas, el área de Planeación Municipal o su equivalente y la Instancia Municipal para el Desarrollo de las Mujeres, están obligados a participar en el Sistema para la Profesionalización del Servicio Público Municipal que instrumente el Ejecutivo del Estado por conducto de la dependencia o entidad competente y contar con una certificación de competencia laboral expedida por una institución reconocida en el Sistema Nacional de Competencias durante el primer año de su gestión; en caso de incumplir esta disposición serán removidos de su cargo.
+ARTÍCULO 121 BIS.- Los servidores públicos municipales que se desempeñen como titulares de la Secretaría General Municipal, la Tesorería Municipal, la Contraloría, la Oficialía del Registro del Estado Familiar, la Unidad de Protección Civil, la Dirección de Ecología y Medio Ambiente, el área de Obras Públicas, el área de Planeación Municipal o su equivalente, la Instancia Municipal para el Desarrollo de las Mujeres y el responsable Municipal de Movilidad, están obligados a participar en el Sistema para la Profesionalización del Servicio Público Municipal que instrumente el Ejecutivo del Estado por conducto de la dependencia o entidad competente y contar con una certificación de competencia laboral expedida por una institución reconocida en el Sistema Nacional de Competencias durante el primer año de su gestión; en caso de incumplir esta disposición serán removidos de su cargo.
 
 ### CAPÍTULO SÉPTIMO. DE LA POLICÍA PREVENTIVA MUNICIPAL
 
@@ -3363,6 +3373,12 @@ P.O. 23 DE ABRIL DE 2018.
 
 P.O. 30 DE JULIO DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 455 QUE ADICIONA EL PÁRRAFO SEXTO AL ARTÍCULO 49, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 455 QUE ADICIONA EL PÁRRAFO SEXTO AL ARTÍCULO 49, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 183 QUE REFORMA EL INCISO DD) Y EE) DE LA FRACCIÓN I DEL ARTÍCULO 56; ARTÍCULO 118; Y EL 121 BIS; Y SE ADICIONA EL INCISO FF) A LA FRACCIÓN I DEL ARTÍCULO 56; Y EL ARTÍCULO 118 QUINQUIES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor a los 180 días de su publicación en el Periódico Oficial del Estado de Hidalgo.
