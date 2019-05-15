@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2017-10-10"
+last_updated: "2019-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -73,11 +73,21 @@ I. Suministrar a las mascotas agua y alimento suficientes, a efecto de mantenerl
 
 II. Proporcionar a las mascotas un ambiente adecuado para su descanso, movimiento y estancia, de acuerdo a cada tipo de especie;
 
-III. Suministrar a las mascotas, conforme a su especie, atención médica preventiva y, en caso de enfermedad, brindar tratamiento médico expedito avalado por un médico veterinario;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
 
-IV. Permitir a las mascotas la expresión de su comportamiento natural de acuerdo a su especie, y
+III. Suministrar a las mascotas, conforme a su especie, atención médica preventiva y, en caso de enfermedad, brindar la atención médica ordenada por un médico veterinario previa valoración;
 
-V. Brindar a las mascotas un trato y condiciones que procuren su cuidado dependiendo de la especie.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
+
+IV. Permitir a las mascotas la expresión de su comportamiento natural de acuerdo a su especie;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
+
+V. Brindar a las mascotas un trato y condiciones que procuren su cuidado dependiendo de la especie, y
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2019)</small>
+
+VI. Adoptar las medidas necesarias para garantizar el trato digno y con respeto, atendiendo a lo establecido en los Tratados Internacionales, las normas ambientales, y las normas oficiales mexicanas, para evitar dolor, deterioro físico o sufrimiento, durante su posesión o propiedad, así como en el adiestramiento o sacrificio.
 
 > <small>[N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DE DECRETO NO. 0712 PUBLICADO EN EL P.O. DE 10 DE OCTUBRE DE 2017, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO]</small>
 
@@ -1054,5 +1064,13 @@ P.O. 10 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0712.- SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0167.- SE REFORMA EL ARTÍCULO 2º BIS EN SUS FRACCIONES, III, IV, Y V; Y ADICIONA AL MISMO ARTÍCULO 2° BIS LA FRACCIÓN VI, DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
