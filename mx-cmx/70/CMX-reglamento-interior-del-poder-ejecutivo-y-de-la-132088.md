@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2019-02-15"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-01-02"
 ---
 # REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACION PUBLICA DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MAYO DE 2019.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -76,11 +78,19 @@ IV. Nombrar y remover libremente a las personas que ocupen las Direcciones Ejecu
 
 ### CAPÍTULO II. DE LA ADSCRIPCIÓN DE LAS UNIDADES ADMINISTRATIVAS, Y ÓRGANOS DESCONCENTRADOS, A LA JEFATURA DE GOBIERNO Y A SUS DEPENDENCIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2019)</small>
+
 ###### Artículo 6º.
 
-La Jefatura de Gobierno para el estudio, planeación y despacho de los asuntos que le competen contará con Unidades de Asesoría, de Apoyo Técnico, Jurídico, de Coordinación y de Planeación del Desarrollo, se le adscriben las Unidades Administrativas, las Unidades Administrativas de Apoyo Técnico-Operativo y los Órganos Desconcentrados siguientes:
+La Jefatura de Gobierno de la Ciudad de México para el estudio, planeación y despacho de los asuntos que le competen contará con Unidades de Asesoría, de Apoyo Técnico, Jurídico, de Coordinación y de Planeación del Desarrollo, se le adscriben las Unidades Administrativas, las Unidades Administrativas de Apoyo Técnico-Operativo y los Órganos Desconcentrados siguientes:
 
-A) Secretaría Particular de la Jefatura de Gobierno;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE MAYO DE 2019)</small>
+
+A) Secretaría Particular, a la que queda adscrita la:
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
+
+1. Dirección General de Resolución a la Demanda Ciudadana;
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
@@ -98,11 +108,21 @@ D) Coordinación General de Asesores y Asuntos Internacionales, a la que quedan 
 
 2. Dirección Ejecutiva de Representación Institucional.
 
-E) Dirección General de Resolución a la Demanda Ciudadana;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE MAYO DE 2019)</small>
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+E) Comisión para la Reconstrucción de la Ciudad de México, a la que quedan adscritas:
 
-Asimismo, se le adscriben los Órganos Desconcentrados denominados Junta de Asistencia Privada, Agencia Digital de Innovación Pública de la Ciudad de México y Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México (C5). Así como el órgano denominado Comisión para la Reconstrucción de la Ciudad de México.
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
+
+1. Dirección General de Atención a Personas Damnificadas;
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
+
+2. Dirección General Operativa.
+
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2019)</small>
+
+Asimismo, se le adscriben los Órganos Desconcentrados denominados Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México (C5); la Agencia Digital de Innovación Pública de la Ciudad de México; y la Junta de Asistencia Privada.
 
 ###### Artículo 7°.
 
@@ -502,25 +522,45 @@ B) Subsecretaría de Derechos Humanos, a la que quedan adscritas:
 
 2. Dirección Ejecutiva de Promoción y Formación;
 
-C) Coordinación General de Inclusión y Bienestar Social;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE MAYO DE 2019)</small>
 
-D) Dirección General del Instituto para el Envejecimiento Digno;
+C) Coordinación General de Inclusión y Bienestar Social, a la que quedan adscritas;
 
-E) Dirección General del Instituto de Atención a Poblaciones Prioritarias;
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
 
-F) Dirección General de Asuntos Jurídicos;
+1. Dirección General del Instituto para el Envejecimiento Digno; y
 
-G) Dirección General de Participación Ciudadana;
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
 
-H) Dirección General de Acción Barrial y Comunitaria; a la que quedan adscritas:
+2. Dirección General del Instituto de Atención a Poblaciones Prioritarias;
+
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2019)</small>
+
+D) Dirección General de Asuntos Jurídicos;
+
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2019)</small>
+
+E) Dirección General de Participación Ciudadana;
+
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2019)</small>
+
+F) Dirección General de Acción Barrial y Comunitaria; a la que quedan adscritas:
 
 1. Dirección Ejecutiva de Facilitadores Comunitarios; y
 
 2. Dirección Ejecutiva de Mejoramiento Barrial y Comunitario;
 
-K) Dirección General de Política e Innovación Social;
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2019)</small>
 
-X. A la Secretaría del Medio Ambiente:
+G) Dirección General de Política e Innovación Social;
+
+H) (DEROGADO, G.O. 15 DE MAYO DE 2019)
+
+K) (DEROGADO, G.O. 15 DE MAYO DE 2019)
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE MAYO DE 2019)</small>
+
+X. A la Secretaría de (sic) Medio Ambiente:
 
 A) Dirección General de Calidad del Aire;
 
@@ -540,13 +580,17 @@ E) Dirección General de la Comisión de Recursos Naturales y Desarrollo Rural a
 
 1. Dirección Ejecutiva de la Zona Patrimonio Mundial, Natural y Cultural de la Humanidad Xochimilco, Tláhuac y Milpa Alta.
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2019)</small>
 
-F) Dirección General del Sistema de Áreas Naturales Protegidas y Áreas de Valor Ambiental; y
+F) Dirección General del Sistema de Áreas Naturales Protegidas y Áreas de Valor Ambiental;
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2019)</small>
 
-G) Dirección General de Inspección y Vigilancia Ambiental.
+G) Dirección General de Inspección y Vigilancia Ambiental; y
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
+
+H) Dirección Ejecutiva de Asuntos Jurídicos.
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
@@ -728,9 +772,11 @@ VI. Dar instrucciones al capital humano que tengan a su cargo, en relación con 
 
 VII. Informar del seguimiento de los asuntos encomendados, a la persona superior jerárquica y en su caso al responsable del área jurídica que esté directamente adscrito a la persona Titular de la Dependencia; así como a la Dirección General de Servicios Legales, según lo requiera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2019)</small>
+
 ###### Artículo 15.
 
-La persona Titular de la Jefatura de Gobierno tiene las siguientes atribuciones indelegables:
+La persona Titular de la Jefatura de Gobierno de la Ciudad de México tiene las siguientes atribuciones indelegables:
 
 I. Declarar administrativamente la nulidad, caducidad o revocación de las concesiones, salvo lo que establezcan otras disposiciones legales;
 
@@ -1698,6 +1744,8 @@ VI. Las demás atribuciones conferidas por la persona titular de la Secretaría,
 
 #### SECCIÓN I. JEFATURA DE GOBIERNO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2019)</small>
+
 ###### Artículo 36.
 
 La Subsecretaría del Transporte tendrá las siguientes atribuciones:
@@ -1942,7 +1990,7 @@ XVIII. Las demás que les atribuyan expresamente los ordenamientos jurídicos y 
 
 ###### Artículo 42.
 
-Corresponde a la Secretaría Particular de la Jefatura de Gobierno:
+Corresponde a la Secretaría Particular:
 
 I. Organizar las actividades de la agenda, derivada de los compromisos y asuntos oficiales de la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
 
@@ -1971,6 +2019,68 @@ XII. Establecer un vínculo de coordinación entre la persona Titular de la Jefa
 XIII. Dar seguimiento a los acuerdos tomados en las sesiones de Gabinete, presididas por la persona Titular de la Jefatura de Gobierno de la Ciudad de México; y
 
 XIV. Las demás que le señalen las disposiciones jurídicas o administrativas y/o la persona Titular de la Jefatura de Gobierno de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
+
+###### Artículo 42 Bis.
+
+Corresponde al Titular de la Comisión para la Reconstrucción de la Ciudad de México:
+
+I. Coordinar, evaluar, ejecutar y dar seguimiento al Plan Integral para la Reconstrucción y la Ley para la Reconstrucción Integral de la Ciudad de México;
+
+II. Coordinar las estrategias que las Dependencias, Entidades, Órganos Desconcentrados y/o Alcaldías de la Administración Pública de la Ciudad de México, destinan para la Rehabilitación, Demolición, Reconstrucción y Supervisión;
+
+III. Coordinar y dar seguimiento a las acciones y avances del equipo de trabajo conformado por los enlaces de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías involucradas en los procesos de rehabilitación, demolición y reconstrucción;
+
+IV. Nombrar, con cargo honorifico, a los subcomisionados;
+
+V. Dar seguimiento a los trabajos realizados por los cinco subcomisionados, Comité Científico y de Grietas, Mesa Técnica, Mesa Legal, Comité de Transparencia y Consejo Consultivo;
+
+VI. Llevar a cabo las acciones de mando y coordinación para alcanzar los objetivos y metas propuestos en el Plan Integral para la Reconstrucción de la Ciudad de México y en la Ley para la Reconstrucción Integral de la Ciudad de México;
+
+VII. Representar a la Comisión ante las instancias públicas y/o privadas respecto a los temas que conforman el Plan y la Ley, así como verificar el cumplimiento de los acuerdos con las mismas;
+
+VIII. Celebrar, suscribir y expedir los instrumentos y/o actos jurídicos y/o administrativos necesarios para el cumplimiento de las atribuciones de la Comisión;
+
+IX. Gestionar la obtención de recursos o fuentes de financiamiento público y/o privado, para la ejecución de acciones definidas en el Plan Integral para la Reconstrucción de la Ciudad de México y en la Ley para la Reconstrucción Integral de la Ciudad de México;
+
+X. Realizar el seguimiento y evaluación del Plan y la Ley, de acuerdo con los indicadores establecidos, evaluar su ejecución y los resultados obtenidos;
+
+XI. Cumplir las obligaciones que en materia de transparencia, acceso a la información pública y rendición de cuentas y protección de datos personales establece la normatividad de la materia respecto de la Comisión;
+
+XII. Coordinar y dirigir las reuniones periódicas ordinarias y extraordinarias que convoque con motivo de los avances, acciones y/o temas relacionados con la reconstrucción;
+
+XIII. Organizar y coordinar las acciones del proceso de reconstrucción consistentes en: la rehabilitación, demolición y reconstrucción y supervisión de los inmuebles afectados por el sismo;
+
+XIV. Coordinar a las personas enlaces de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías del Gobierno de la Ciudad, que participan en el proceso de reconstrucción;
+
+XV. Implementar los mecanismos y acciones necesarias para que ningún proceso de reconstrucción de inmuebles afectados se suspenda o retrase con motivo de la acreditación de la propiedad;
+
+XVI. Coordinar los trabajos de la mesa legal para resolver de manera conjunta y canalizar a las instancias competentes los casos de incertidumbre jurídica sobre la propiedad y legítima posesión de los inmuebles afectados por el sismo;
+
+XVII. Solicitar informes a la mesa legal para conocer el avance y estado de los asuntos canalizados;
+
+XVIII. Coordinar los trabajos de los subcomisionados, los Comités y el Consejo Consultivo;
+
+XIX. Establecer el mecanismo idóneo para incorporar a las personas damnificadas al Censo Social y Técnico, con la finalidad de que puedan acceder a los beneficios del Plan Integral de Reconstrucción y la Ley para la Reconstrucción Integral de la Ciudad de México a través de la debida planeación; así como realizar un diagnóstico general de los resultados del mismo;
+
+XX. Actualizar o modificar el Plan Integral para la Reconstrucción, conforme las necesidades del proceso de reconstrucción;
+
+XXI. Solicitar los informes necesarios a las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías que participan en la Reconstrucción;
+
+XXII. Coordinar, organizar y administrar el apoyo en renta para las personas damnificadas desplazadas;
+
+XXIII. Realizar acuerdos con las Cámaras, Colegios y/o empresas que intervienen en el proceso de reconstrucción, con la finalidad de fijar precios estables a través de un instrumento o catálogo, para la protección de las personas damnificadas;
+
+XXIV. Implementar mecanismos para organizar a las empresas constructoras por zonas, en beneficio de las personas damnificadas y del proceso de reconstrucción;
+
+XXV. Solicitar los recursos necesarios a través de los mecanismos establecidos en las reglas de operación que apruebe el Fideicomiso, para atender las acciones establecidas en el Plan Integral para la Reconstrucción y en la Ley para la Reconstrucción Integral de la Ciudad de México;
+
+XXVI. Participar en la Secretaría Técnica del Comité del Fideicomiso para la reconstrucción Integral de la Ciudad de México;
+
+XXVII. Recibir informes periódicos de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías que participan en el proceso de reconstrucción; y
+
+XXVIII. Las demás que resulten necesarias para el debido cumplimiento de sus atribuciones conforme a las disposiciones jurídicas y/o administrativas y aquellas que le instruya la persona Titular de la Jefatura de Gobierno.
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
@@ -2332,91 +2442,193 @@ XV. Las demás que le señalen las disposiciones jurídicas y/o administrativas,
 
 Corresponde a la Dirección General de Resolución a la Demanda Ciudadana:
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2019)</small>
 
-I. Establecer políticas y directrices para la atención a la ciudadanía que acude a la Jefatura de Gobierno;
+I. Establecer políticas y directrices para la atención de la demanda ciudadana formulada a la persona Titular de la Jefatura de Gobierno de la Ciudad de México, ya sea que se ingresen en la oficialía de partes de la Jefatura de Gobierno, vía electrónica al correo institucional que se establezca o las recibidas en recorridos de la persona titular de la Jefatura de Gobierno o a través de las audiencias públicas otorgadas por ésta;
 
-II. Coordinar la gestión de las peticiones dirigidas a la persona Titular de la Jefatura de Gobierno de la Ciudad de México, mediante los lineamientos interinstitucionales con Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Ciudad de México;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2019)</small>
 
-III. Establecer las políticas y directrices generales bajo las cuales se desempeñan las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo a su cargo;
+II. Coordinar el registro y la gestión de la demanda ciudadana dirigida a la persona Titular de la Jefatura de Gobierno de la Ciudad de México, mediante el Sistema Único de Atención Ciudadana, una vez establecido por la autoridad competente;
 
-IV. Recibir la demanda ciudadana que se presente a la Jefatura de Gobierno de la Ciudad de México y gestionar los documentos dirigidos a la persona Titular de la Jefatura de Gobierno de la Ciudad de México; así como dirigir y asegurar los mecanismos, y acciones que permitan informar sobre los asuntos relevantes, gestiones y personas atendidas;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2019)</small>
 
-V. Asegurar la presentación de informes conteniendo indicadores sobre personas atendidas personalmente, compromisos públicos, demandas ciudadanas ingresadas con folio para su atención, seguimiento de los asuntos e instancias involucradas;
+III. Establecer las políticas y directrices generales bajo las cuales se desempeñarán las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico Operativo adscritas a la misma;
 
-VI. Determinar los lineamientos institucionales bajo los cuales se deberán recibir y tramitar los documentos dirigidos a la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2019)</small>
 
-VII. Definir los criterios para el diseño y operación de los Sistemas para la recepción, control y seguimiento de las solicitudes ciudadanas;
+IV. Recibir y registrar en el Sistema Único de Atención Ciudadana la demanda que se presente a la persona Titular de la Jefatura de Gobierno de la Ciudad de México por parte de la ciudadanía; dando el seguimiento correspondiente que permita informar sobre los asuntos relevantes, gestiones y personas atendidas;
 
-VIII. Coordinar los lineamientos, estrategias y procedimientos establecidos con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Ciudad de México, para el seguimiento a la demanda ciudadana dirigida a la Jefatura de Gobierno de la Ciudad de México;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2019)</small>
 
-IX. Determinar los lineamientos interinstitucionales bajo los cuáles deberá brindarse la atención personal y establecer los procedimientos para ofrecer un seguimiento, a través de mecanismos procedimentales y de comunicación con las diversas Dependencias, Alcaldías, Órganos Desconcentrados y Entidades del Gobierno de la Ciudad de México, para la atención de la demanda ciudadana que se les turna;
+V. Elaborar y presentar informes respecto del ingreso, captación y canalización de la demanda ciudadanía (sic) dirigida a la persona Titular de la Jefatura de Gobierno, conteniendo indicadores en cada una de sus modalidades de presentación de conformidad con los folios otorgados para control; y en su caso de la atención dada por las Dependencias, Órganos Desconcentrados, Entidades y/o Alcaldías a las que se les haya turnado;
 
-X. Formular las líneas de trabajo interinstitucional con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Ciudad de México, para que se atienda la demanda ciudadana que se les turna;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2019)</small>
 
-XI. Supervisar y someter a consideración de la Consejería Jurídica y de Servicios Legales, convenios y acuerdos para el trabajo interinstitucional y el seguimiento a la demanda ciudadana que sean gestionados ante las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Ciudad de México;
+VI. Determinar los lineamientos institucionales bajo los cuales se deberá recibir y tramitar la demanda ciudadana dirigida a la persona Titular de la Jefatura de Gobierno de la Ciudad de México, los cuales deberán ser acordes con la Ley de Procedimiento Administrativo de la Ciudad de México y demás normatividad jurídica y/o administrativa en la materia;
 
-XII. Coordinar la presentación periódica de los informes de las actividades desarrolladas en las Unidades Administrativas y/o Unidades Administrativas de Apoyo técnico Operativo a su cargo y solicitar, recibir, analizar y evaluar los de las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Ciudad de México, en materia de atención ciudadana;
+VII. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2019)</small>
 
-XIII. Supervisar y evaluar las estrategias, convenios y/o acuerdos establecidos interinstitucionalmente con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, para el seguimiento a los compromisos establecidos por la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+VIII. Emitir los lineamientos que contengan las estrategias y procedimientos para dar el seguimiento y atención a la demanda ciudadana realizada a la persona Titular de la Jefatura de Gobierno y de aquella que haya sido turnada para su atención procedente a las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México;
 
-XIV. Analizar los informes depurados de demandas ciudadanas no atendidas o en trámite, comunicándolo a las Dependencias, Alcaldías, Órganos Desconcentrados y/o Entidades de la Ciudad de México para que se atiendan de acuerdo a lo establecido en el seguimiento a los compromisos de la Jefatura de Gobierno de la Ciudad de México, mediante audiencia pública, recorridos, cédulas de atención ciudadana u otros medios;
+IX. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-XV. Mantener el seguimiento a las demandas ciudadanas y los compromisos adquiridos por la Jefatura de Gobierno de la Ciudad de México, a fin de que se cumpla el funcionamiento de los procedimientos de trabajo con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Ciudad de México;
+X. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-XVI. Instrumentar procedimientos que permitan el adecuado seguimiento a las demandas ciudadanas, comprobando que el seguimiento a la demanda ciudadana corresponda a la petición solicitada;
+XI. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+XII. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-XVII. Coordinar acciones y/o compromisos de colaboración con las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Ciudad de México para la gestión a la demanda ciudadana presentada a la Jefatura de Gobierno de la Ciudad de México;
+XIII. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-XVIII. Diseñar y coordinar acciones conjuntas con los enlaces de las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Ciudad de México, que tienen Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico Operativo de atención ciudadana y/o requieran una comunicación estrecha para mejorar la atención de las demandas presentadas a la Jefatura de Gobierno de la Ciudad de México;
+XIV. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-XIX. Determinar y coordinar acciones de colaboración e intercambio de información a través de la comunicación con las Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico Operativo de atención ciudadana de las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Ciudad de México, para conocer el avance de las gestiones realizadas y el seguimiento a la demanda ciudadana;
+XV. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-XX. Requerir a las instancias competentes las acciones necesarias para mantener actualizados los Sistemas para la Administración Documental, para la Atención Ciudadana y para el seguimiento de las peticiones ciudadanas, de acuerdo con los compromisos de las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Ciudad de México;
+XVI. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-XXI. Recibir y revisar la captura de los documentos catalogados como copias de conocimiento, observando las eventuales inconsistencias existentes en la información;
+XVII. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-XXII. Coordinar el proceso de análisis, clasificación y gestión de la documentación dirigida a la persona Titular de la Jefatura de Gobierno de la Ciudad de México; así como su resguardo en los sistemas administrativos y de información para su control y seguimiento;
+XVIII. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-XXIII. Determinar los lineamientos institucionales bajo los cuales se deberá recibir y gestionar la documentación que ingresa por recepción documental, y evaluar los mecanismos de trabajo operativo que se aplican;
+XIX. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+XX. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-XXIV. Administrar la recepción, codificación, clasificación, cómputo y gestión de las peticiones que presenta la ciudadanía dirigidas a la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+XXI. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+XXII. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-XXV. Planear mecanismos de supervisión y control de la gestión documental canalizada ante las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, de Entidades Federativas o del Gobierno de México;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2019)</small>
 
-XXVI. Establecer mecanismos de evaluación y supervisión del tratamiento administrativo aplicado a los documentos sobresalientes, peticiones ciudadanas, seguimientos, copias de conocimiento y correo certificado recibido; dirigir su canalización y atención, hasta su resguardo en los sistemas de archivos y de información;
+XXIII. Determinar los lineamientos institucionales bajo los cuales se deberá recibir y gestionar la documentación que ingresa por recepción documental, y evaluar los mecanismos de trabajo operativo que se aplican, para atender la demanda ciudadana que se dirija a la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
 
-XXVII. Establecer el procedimiento de elaboración de reportes diarios de la documentación ingresada; así como coordinar la formulación de informes sobre la recepción documental;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2019)</small>
 
-XXVIII. Controlar el acceso a los sistemas de información para el control documental y para la atención ciudadana, y supervisar su operación en dos modalidades: digital y físico;
+XXIV. Administrar la recepción, codificación, clasificación, cómputo y gestión de la demanda ciudadana que se presenta a la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
 
-XXIX. Evaluar el proceso de incorporación física de cada expediente;
+XXV. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-XXX. Ejecutar los procedimientos de trabajo y las acciones necesarias para que la atención a los ciudadanos que acuden a la Jefatura de Gobierno, se otorguen conforme a la particularidad de la Audiencia Ciudadana en caso de ser necesario;
+XXVI. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-XXXI. Asegurar la aplicación de los lineamientos institucionales bajo los cuales se debe brindar la atención personal, estableciendo los procedimientos del trabajo operativo;
+XXVII. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+XXVIII. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-XXXII. Atender las audiencias solicitadas por la ciudadanía, y canalizarlas a las Dependencias, Alcaldías, Órganos Desconcentrados y/o Entidades de la Ciudad de México para el adecuado seguimiento de su problemática;
+XXIX. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-XXXIII. Asesorar directamente o con la participación de las instancias competentes, cuando por la complejidad del asunto lo requiera a personas o grupos ciudadanos para formalizar en términos adecuados y precisos la petición que plantean a la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+XXX. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-XXXIV. Realizar la coordinación necesaria para que los instrumentos de registro de ciudadanos, y de las gestiones derivadas de las audiencias otorgadas cumplan con los requisitos, y elementos necesarios para su gestión e incorporación en los sistemas de control documental, de atención ciudadana y de seguimiento;
+XXXI. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-XXXV. Supervisar la elaboración de informes de las peticiones ciudadanas atendidas periódicamente, así como los informes y actividades adicionales que sean necesarias para un mejor control de aquellas;
+XXXII. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
-XXXVI. Establecer controles de acceso para el correcto registro, procesamiento y turnado de las cédulas de atención en los sistemas de información que se establezcan para tal efecto; y
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2019)</small>
 
-XXXVII. Las demás que le señalen las disposiciones jurídicas o administrativas aplicables y/o le instruya la persona Titular de la Jefatura de Gobierno de la Ciudad de México.
+XXXIII. Asesorar directamente o con la participación de las instancias competentes, cuando por la complejidad del asunto lo requiera a personas o grupos ciudadanos para formalizar en términos adecuados y precisos la demanda ciudadana que plantean a la persona Titular de la Jefatura de Gobierno de la Ciudad de México; y
+
+XXXIV. (DEROGADA, G.O. 15 DE MAYO DE 2019)
+
+XXXV. (DEROGADA, G.O. 15 DE MAYO DE 2019)
+
+XXXVI. (DEROGADA, G.O. 15 DE MAYO DE 2019)
+
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2019)</small>
+
+XXXVII. Las demás que le señalen las disposiciones jurídicas y/o administrativas aplicables y/o aquellas que le instruyan las personas Titulares de la Secretaría Particular y/o Jefatura de Gobierno de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
+
+###### Artículo 49 Bis.
+
+Corresponde a la Dirección General de Atención a Personas Damnificadas:
+
+I. Dirigir, organizar, planificar y coordinar las acciones de atención a personas damnificadas contempladas en el Plan Integral para la Reconstrucción de la Ciudad de México y en la Ley para la Reconstrucción Integral de la Ciudad de México;
+
+II. Atender a las personas damnificadas por el sismo a que se refieren el Plan Integral para la Reconstrucción de la Ciudad de México y la Ley para la Reconstrucción Integral de la Ciudad de México, así como dirigir la ventanilla única de atención a las personas damnificadas;
+
+III. Coordinar acciones, esfuerzos e información para beneficio de las personas damnificadas en el proceso de reconstrucción;
+
+IV. Planear y coordinar la atención de personas damnificadas en las diferentes zonas territoriales en las que se dividió la atención ciudadana;
+
+V. Coordinar e instalar los módulos en las zonas con mayor afectación para brindar orientación y atención;
+
+VI. Coordinar la línea telefónica exclusiva para la atención de las personas damnificadas;
+
+VII. Realizar a través del equipo territorial y de manera conjunta con el equipo técnico, el censo social y técnico de las personas que por alguna razón no hayan sido censadas;
+
+VIII. Dar seguimiento de las solicitudes de atención de las personas damnificadas a través de los canales de comunicación correspondientes;
+
+IX. Organizar las asambleas y/o reuniones informativas en las colonias, barrios, pueblos y/o unidades habitacionales sobre el proceso de reconstrucción;
+
+X. Participar, en coordinación con las Dependencias, Órganos Desconcentrados, Entidades y/o Alcaldías de la Administración Pública de la Ciudad de México, en la programación, organización e implementación de la línea telefónica única de atención a personas damnificadas;
+
+XI. Coordinar con las Dependencias, Órganos Desconcentrados, Entidades y/o Alcaldías, la programación y organización de las jornadas notariales y asesorías legales;
+
+XII. Integrar de manera conjunta con la Dirección General Operativa, el expediente único de las personas damnificadas;
+
+XIII. Participar en la promoción y difusión de las acciones de reconstrucción, acudiendo a instituciones y/u organismos públicos y/o privados, y otros sectores de la sociedad civil;
+
+XIV. Participar en los asuntos tratados y/o los acuerdos tomados en las diferentes reuniones que con motivo de las acciones de reconstrucción se establezcan con las Dependencias, Órganos Desconcentrados, Entidades y/o Alcaldías de gobierno, ciudadanía y/o iniciativa privada;
+
+XV. Proponer y participar en programas de atención de necesidades sociales, en colaboración con sectores y/o grupos organizados de la sociedad;
+
+XVI. Coordinar la intervención, a través de los mecanismos alternativos para la solución de conflictos de personas damnificadas y/o comunidades afectadas;
+
+XVII. Realizar un diagnóstico de la situación legal de los inmuebles afectados;
+
+XVIII. Dar seguimiento a la Mesa Legal permanente, para resolver de manera conjunta los casos de incertidumbre jurídica sobre la propiedad y legítima posesión de los inmuebles afectados por el sismo;
+
+XIX. Implementar las acciones de coordinación y/o colaboración con las Dependencias, Órganos Desconcentrados, Entidades, Alcaldías, sociedad civil y/o academia para atender el estrés postraumático de las personas y familias afectadas por el sismo a que se refieren el Plan Integral para la Reconstrucción de la Ciudad de México y la Ley para la Reconstrucción Integral de la Ciudad de México;
+
+XX. Impulsar acciones comunitarias para la participación en la intervención para el mejoramiento de barrios y/o pueblos afectados por el sismo a que se refieren el Plan Integral para la Reconstrucción de la Ciudad de México y la Ley para la Reconstrucción Integral de la Ciudad de México;
+
+XXI. Coadyuvar en el proceso de atención e información en las zonas en las que habiten personas damnificadas de Pueblos, Barrios Originarios y/o Comunidades Indígenas Residentes;
+
+XXII. Coadyuvar con la Secretaría del Medio Ambiente para la atención de viviendas afectadas (sic) se encuentren en Zonas de Conservación, en Asentamientos Humanos Irregulares o Áreas Protegidas; y
+
+XXIII. Las demás que resulten necesarias para el debido cumplimiento de sus atribuciones conforme a las disposiciones jurídicas y/o administrativas y aquellas que le instruyan las personas Titulares de la Jefatura de Gobierno y/o de la Comisión para la Reconstrucción de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
+
+###### Artículo 49 Ter.
+
+Corresponde a la Dirección General Operativa:
+
+I. Dirigir, organizar, planificar y coordinar las acciones de dictaminación, demolición, rehabilitación, supervisión contempladas en el Plan Integral para la Reconstrucción de la Ciudad de México y en la Ley para la Reconstrucción Integral de la Ciudad de México;
+
+II. Revisar y dar seguimiento a los anteproyectos, proyectos y ejecución de obras;
+
+III. Organizar las acciones para la organización territorial de las empresas en sus distintos ramos, a fin de realizar el proceso de dictaminación, demolición, reconstrucción y/o rehabilitación de viviendas afectadas;
+
+IV. Organizar y supervisar a las empresas inscritas en el padrón del Programa Integral de Reconstrucción, para definir los Cuadrantes de Atención para el proceso de reconstrucción en cumplimiento al Plan Integral para la Reconstrucción de la Ciudad de México y la ley de la materia;
+
+V. Coordinar y participar en el Comité Científico y de Grietas y en la Mesa Técnica;
+
+VI. Dar seguimiento a los trámites y gestión de las constancias de derechos adquiridos y redensificación;
+
+VII. Informar de manera conjunta con la Dirección General de Atención a Personas Damnificadas sobre el proceso de reconstrucción en barrios, colonias, pueblos y/o edificios;
+
+VIII. Integrar de manera conjunta con la Dirección General de Atención a Personas Damnificadas, el expediente único de las personas damnificadas;
+
+IX. Incorporar en la base de datos del Censo Social y Técnico a las personas que por alguna razón no hayan sido censadas;
+
+X. Establecer los canales de comunicación y/o acción con el Instituto para la Seguridad de las Construcciones, la Secretaría de Desarrollo Urbano y Vivienda, la Secretaría de Administración y Finanzas, el Instituto de Vivienda, la Secretaría de Obras y Servicios y otras Dependencias, Órganos Desconcentrados, Entidades y Alcaldías que forman parte de la Administración Pública de la Ciudad de México, para concretar las labores de la Comisión;
+
+XI. Coordinar los trabajos relativos a trámites, análisis, seguimiento y evaluación de las obras que las empresas realicen, manteniendo comunicación permanente con el Instituto para la Seguridad de las Construcciones, la Secretaría de Desarrollo Urbano y Vivienda y la Secretaría de Obras y Servicios, a fin de garantizar la calidad de las obras, su correcta ejecución, pudiendo emitir opiniones sustentadas que avalen las decisiones tomadas por la Comisión para la Reconstrucción de la Ciudad de México, velando siempre por el beneficio de las personas damnificadas;
+
+XII. Llevar a cabo el seguimiento con el Instituto de Vivienda, a fin de seguir atendiendo a las personas damnificadas que solicitaron un crédito a ese instituto para rehabilitar o reconstruir sus inmuebles. Así mismo, se coordinará con el Comité Científico y de Grietas para definir las zonas de riesgo y cuidar que las obras en dichas zonas, cumplan con las medidas de mitigación y convivencia que el Comité defina;
+
+XIII. Coordinar las acciones de seguimiento y evaluación de la información a través del Portal de la Reconstrucción (administrada por la Secretaría de Administración y Finanzas) y del Censo Técnico y Social;
+
+XIV. Coordinar los mecanismos para dar seguimiento al gasto ejercido en proyectos, obras y apoyos a rentas;
+
+XV. Realizar la vinculación interinstitucional y para el cumplimiento de los objetivos planteados en el Plan Integral para la Reconstrucción de la Ciudad de México y la ley de la materia;
+
+XVI. Coadyuvar con la Secretaría del Medio Ambiente para la atención de viviendas afectadas que se encuentren en Zonas de Conservación, en Asentamientos Humanos Irregulares o Áreas Protegidas; y
+
+XXIII. Las demás que resulten necesarias para el debido cumplimiento de sus atribuciones conforme a las disposiciones jurídicas y/o administrativas y aquellas que le instruyan las personas Titulares de la Jefatura de Gobierno y/o de la Comisión para la Reconstrucción de la Ciudad de México.
 
 #### SECCIÓN VI. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
@@ -7622,7 +7834,9 @@ XXI. Suscribir los documentos, contratos, convenios, acuerdos y demás actos jur
 
 XXII. Establecer y operar el sistema de inspección, seguridad y vigilancia de las áreas naturales protegidas, áreas de valor ambiental y de las áreas verdes urbanas de la Ciudad de México;
 
-XXIII. Elaborar, en su caso, los estudios e investigaciones tecnológicas, así como los proyectos ejecutivos correspondientes, dirigidos a promover, operar y dirigir las obras de infraestructura requeridas en las áreas naturales protegidas, áreas de valor ambiental y cualquier otra área o espacio de naturaleza semejante que se encuentren bajo la administración de la Secretaría del Medio Ambiente, para su conservación, preservación, rehabilitación, mejoramiento, desarrollo y funcionamiento;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2019)</small>
+
+XXIII. Elaborar, en su caso, los estudios e investigaciones tecnológicas, así como los proyectos ejecutivos correspondientes, dirigidos a promover, operar, ejecutar y dirigir las obras de infraestructura requeridas en las áreas naturales protegidas, áreas de valor ambiental y cualquier otra área o espacio de naturaleza semejante que se encuentren bajo la administración de la Secretaría del Medio Ambiente, para su conservación, preservación, rehabilitación, mejoramiento, desarrollo y funcionamiento;
 
 XXIV. Realizar estudios de diagnóstico y prospectivos sobre los ecosistemas, atendiendo a su biodiversidad e integralidad, así como proponer estrategias de conservación de la biodiversidad en las áreas naturales protegidas;
 
@@ -7695,6 +7909,38 @@ XXIX. Substanciar y resolver los recursos administrativos que en ejercicio de su
 XXX. Atender y dar seguimiento a las denuncias Ciudadanas de conformidad con la normatividad aplicable en la materia; y
 
 XXXI. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
+
+###### Artículo 191 Bis.
+
+Corresponde a la Dirección Ejecutiva de Asuntos Jurídicos:
+
+I. Dirigir las acciones jurídicas necesarias para la defensa de los intereses de la persona titular de la Secretaría y coordinarse con sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo para tales efectos;
+
+II. Representar ante toda clase de autoridades administrativas o judiciales, locales o federales, los intereses de la persona titular de la Secretaría y coordinarse con sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo, en todos los asuntos en los que ésta sea parte, o cuando tenga interés jurídico o se afecte el patrimonio de la Ciudad de México;
+
+III. Intervenir en los actos administrativos y jurídicos que involucren a la persona titular de la Secretaría, en los diferentes ámbitos normativos, de procesos administrativos y consultivos, con el objeto de atender eficaz y oportunamente los asuntos incoados por las vías contenciosa y administrativa en los que ésta sea parte;
+
+IV. Rendir informes, contestar demandas, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, hacer promociones de trámite y autorizar delegados, en los asuntos en que sea parte la persona titular de la Secretaría y coordinarse con sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo para la rendición de los mismos;
+
+V. Ratificar y actuar como coadyuvante del Ministerio Público en las denuncias de hechos presentadas, por la posible comisión de delitos en aquellos asuntos en los que resulte afectada la Secretaría;
+
+VI. Atender y/o tramitar los recursos inconformidad que sean presentados en contra de las resoluciones emitidas por las Unidades Administrativas adscritas a la Secretaría, en términos de las disposiciones aplicables;
+
+VII. Asesorar a las Unidades Administrativas de la Secretaría para el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas en el ámbito de su competencia;
+
+VIII. Analizar los proyectos de leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas que sean competencia de la Secretaría, a fin de proponer las modificaciones que en su caso, sean necesarios para que éstos se encuentren apegados a las disposiciones jurídicas y administrativas vigentes;
+
+IX. Revisar y emitir opinión jurídica respecto de los convenios, contratos y demás instrumentos jurídicos y administrativos que deban ser suscritos por la persona titular de la Secretaría o los titulares de sus Unidades Administrativas;
+
+X. Difundir las normas jurídicas aplicables en materia ambiental en la Ciudad de México, mediante la permanente actualización de las publicaciones oficiales correspondientes;
+
+XI. Solicitar información y documentos a las Unidades Administrativas y órganos desconcentrados adscritos a la Secretaría, así como a los demás entes de la Administración Pública de la Ciudad de México, cuando sea necesario para atender asuntos de su competencia;
+
+XII. Suscribir los documentos relativos al ejercicio de sus atribuciones o en caso de suplencia temporal en términos de las disposiciones jurídicas aplicables; y
+
+XIII. Las demás conferidas por la persona titular de la Secretaría, así como las que expresamente le atribuyan este Reglamento, y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 #### SECCIÓN XVIII. DE LA SECRETARÍA DE TURISMO
 
@@ -10866,8 +11112,6 @@ DE LAS PERSONAS TITULARES DE LOS PUESTOS DE LÍDER COORDINADOR DE PROYECTOS Y DE
 
 #### SECCIÓN I. ADSCRTO A LA JEFATURA DE GOBIERNO
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
 ### CAPÍTULO I
 
 DE LA CREACIÓN, ESTRUCTURA Y FUNCIONAMIENTO DE LOS ÓRGANOS DESCONCENTRADOS.
@@ -10931,6 +11175,8 @@ XI. Expedir, copias certificadas de los documentos que obren en sus archivos sob
 XII. Las demás que les atribuyan expresamente las disposiciones jurídicas y administrativas y las que les sean conferidas por el órgano colegiado de dirección.
 
 ### CAPÍTULO IV. ÓRGANOS DE APOYO
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 15 DE MAYO DE 2019)</small>
 
 #### SECCIÓN II. ADSCRITO A LA SECRETARÍA DE GOBIERNO
 
@@ -12576,177 +12822,21 @@ XVIII. Las demás que señalen las disposiciones legales aplicables.
 
 ###### Artículo 325.
 
-La Comisión para la Reconstrucción de la Ciudad de México tiene por objeto coordinar, evaluar, ejecutar y dar seguimiento al Plan Integral para la Reconstrucción, a fin de atender a las personas damnificadas por el sismo y llevar a cabo la Reconstrucción de la Ciudad en términos de la Ley para la Reconstrucción Integral de la Ciudad de México.
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+(DEROGADO, G.O. 15 DE MAYO DE 2019)
 
 ###### Artículo 326.
 
-Para el despecho de los asuntos que competen a la Comisión para la Reconstrucción de la Ciudad de México se le adscriben:
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-1. Coordinación General de la Comisión para la Reconstrucción de la Ciudad de México;
-
-2. Dirección General de Atención a Personas Damnificadas; y
-
-3. Dirección General Operativa.
+(DEROGADO, G.O. 15 DE MAYO DE 2019)
 
 ###### Artículo 327.
 
-Corresponde a la Coordinación General de la Comisión para la Reconstrucción de la Ciudad de México:
-
-I. Coordinar, evaluar, ejecutar y dar seguimiento al Plan Integral para la Reconstrucción y la Ley para la Reconstrucción Integral de la Ciudad de México;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-II. Coordinar las estrategias que las Dependencias, Entidades, Órganos Desconcentrados y/o Alcaldías de la Administración Pública de la Ciudad de México, destinan para la Rehabilitación, Demolición, Reconstrucción y Supervisión;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-III. Coordinar y dar seguimiento a las acciones y avances del equipo de trabajo conformado por los enlaces de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías involucradas en los procesos de rehabilitación, demolición y reconstrucción;
-
-IV. Nombrar, con cargo honorifico, a los subcomisionados;
-
-V. Dar seguimiento a los trabajos realizados por los cinco subcomisionados, Comité Científico y de Grietas, Mesa Técnica, Mesa Legal, Comité de Transparencia y Consejo Consultivo;
-
-VI. Llevar a cabo las acciones de mando y coordinación para alcanzar los objetivos y metas propuestos en el Plan Integral para la Reconstrucción de la Ciudad de México y en la Ley para la Reconstrucción Integral de la Ciudad de México;
-
-VII. Representar a la Comisión ante las instancias públicas y/o privadas respecto a los temas que conforman el Plan y la Ley, así como verificar el cumplimiento de los acuerdos con las mismas;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-VIII. Celebrar, suscribir y expedir los instrumentos y/o actos jurídicos y/o administrativos necesarios para el cumplimiento de las atribuciones de la Comisión;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-IX. Gestionar la obtención de recursos o fuentes de financiamiento público y/o privado, para la ejecución de acciones definidas en el Plan Integral para la Reconstrucción de la Ciudad de México y en la Ley para la Reconstrucción Integral de la Ciudad de México;
-
-X. Realizar el seguimiento y evaluación del Plan y la Ley, de acuerdo con los indicadores establecidos, evaluar su ejecución y los resultados obtenidos;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XI. Cumplir las obligaciones que en materia de transparencia, acceso a la información pública y rendición de cuentas y protección de datos personales establece la normatividad de la materia respecto de la Comisión;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XII. Coordinar y dirigir las reuniones periódicas ordinarias y extraordinarias que convoque con motivo de los avances, acciones y/o temas relacionados con la reconstrucción;
-
-XIII. Organizar y coordinar las acciones del proceso de reconstrucción consistentes en: la rehabilitación, demolición y reconstrucción y supervisión de los inmuebles afectados por el sismo;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XIV. Coordinar a las personas enlaces de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías del Gobierno de la Ciudad, que participan en el proceso de reconstrucción;
-
-XV. Implementar los mecanismos y acciones necesarias para que ningún proceso de reconstrucción de inmuebles afectados se suspenda o retrase con motivo de la acreditación de la propiedad;
-
-XVI. Coordinar los trabajos de la mesa legal para resolver de manera conjunta y canalizar a las instancias competentes los casos de incertidumbre jurídica sobre la propiedad y legítima posesión de los inmuebles afectados por el sismo;
-
-XVII. Solicitar informes a la mesa legal para conocer el avance y estado de los asuntos canalizados;
-
-XVIII. Coordinar los trabajos de los subcomisionados, los Comités y el Consejo Consultivo;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XIX. Establecer el mecanismo idóneo para incorporar a las personas damnificadas al Censo Social y Técnico, y puedan acceder a los beneficios del Plan Integral de Reconstrucción y la Ley para la Reconstrucción Integral de la Ciudad de México a través de la debida planeación; así como realizar un diagnóstico general de los resultados del mismo;
-
-XX. Actualizar o modificar el Plan Integral para la Reconstrucción, conforme las necesidades del proceso de reconstrucción;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XXI. Solicitar los informes necesarios a las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías que participan en la Reconstrucción;
-
-XXII. Coordinar, organizar y administrar el apoyo en renta para las personas damnificadas desplazadas;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XXIII. Realizar acuerdos con las Cámaras, Colegios y/o empresas que intervienen en el proceso de reconstrucción, con la finalidad de fijar precios estables a través de un instrumento o catálogo, para la protección de las personas damnificadas;
-
-XXIV. Implementar mecanismos para organizar a las empresas constructoras por zonas, en beneficio de las personas damnificadas y del proceso de reconstrucción;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XXV. Solicitar los recursos necesarios a través de los mecanismos establecidos en las reglas de operación que apruebe el Fideicomiso, para atender las acciones establecidas en el Plan Integral para la Reconstrucción y en la Ley para la Reconstrucción Integral de la Ciudad de México;
-
-XXVI. Participar en la Secretaría Técnica del Comité del Fideicomiso para la reconstrucción Integral de la Ciudad de México;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XXVII. Recibir informes periódicos de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías que participan en el proceso de reconstrucción; y
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XXVIII. Las demás que resulten necesarias para el debido cumplimiento de sus atribuciones conforme a las disposiciones jurídicas y/o administrativas y aquellas que le instruya la persona Titular de la Jefatura de Gobierno.
+(DEROGADO, G.O. 15 DE MAYO DE 2019)
 
 ###### Artículo 328.
 
-Corresponde a la Dirección General de Atención a Personas Damnificadas:
+(DEROGADO, G.O. 15 DE MAYO DE 2019)
 
-I. Dirigir, organizar, planificar y coordinar las acciones de atención a personas damnificadas contempladas en el Plan Integral para la Reconstrucción de la Ciudad de México y en la Ley para la Reconstrucción Integral de la Ciudad de México;
-
-II. Atender a las personas damnificadas por el sismo, así como dirigir la ventanilla única de atención a las personas damnificadas;
-
-III. Coordinar acciones, esfuerzos e información para beneficio de las personas damnificadas en el proceso de reconstrucción;
-
-IV. Planear y coordinar la atención de damnificados en las diferentes zonas territoriales en las que se dividió la atención ciudadana;
-
-V. Coordinar e instalar los módulos en las zonas con mayor afectación para brindar orientación y atención;
-
-VI. Coordinar la línea telefónica exclusiva para la atención de las personas damnificadas;
-
-VII. Realizar a través del equipo territorial y de manera conjunta con el equipo técnico, el censo social y técnico de las personas que por alguna razón no hayan sido censadas;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-VIII. Dar seguimiento de las solicitudes de atención de los damnificados a través de los canales de comunicación correspondientes;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-IX. Organizar las asambleas y/o reuniones informativas en las colonias, barrios, pueblos y/o unidades habitacionales sobre el proceso de reconstrucción;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-X. Participar, en coordinación con las Dependencias, Órganos Desconcentrados, Entidades y/o Alcaldías del gobierno, en la programación, organización e implementación de la línea telefónica única de atención a damnificados;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XI. Coordinar con las Dependencias, Órganos Desconcentrados, Entidades y/o Alcaldías, en la programación y organización de las jornadas notariales y asesorías legales;
-
-XII. Integrar de manera conjunta con la Dirección General de Operaciones, el expediente único de las personas damnificadas;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XIII. Participar en la promoción y difusión de las acciones de reconstrucción, acudiendo a instituciones y/u organismos públicos y/o privados, y otros sectores de la sociedad civil;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XIV. Participar en los asuntos tratados y/o los acuerdos tomados en las diferentes reuniones que con motivo de las acciones de reconstrucción se establezcan con las Dependencias, Órganos Desconcentrados, Entidades y/o Alcaldías de gobierno, ciudadanía y/o iniciativa privada;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XV. Proponer y participar en programas de atención de necesidades sociales, en colaboración con sectores y/o grupos organizados de la sociedad;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XVI. Coordinar la intervención, a través de los mecanismos alternativos para la solución de conflictos de personas damnificadas y/o comunidades afectadas;
-
-XVII. Realizar un diagnóstico de la situación legal de los inmuebles afectados;
-
-XVIII. Dar seguimiento a la Mesa Legal permanente, para resolver de manera conjunta los casos de incertidumbre jurídica sobre la propiedad y legítima posesión de los inmuebles afectados por el sismo;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XIX. Implementar las acciones de coordinación y/o colaboración con las Dependencias, Órganos Desconcentrados, Entidades, Alcaldías, sociedad civil y/o academia para atender el estrés postraumático de las personas y familias afectadas por el sismo;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XX. Impulsar acciones comunitarias para la participación en la intervención para el mejoramiento de barrios y/o pueblos afectados por el sismo;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-XXI. Coadyuvar en el proceso de atención e información en las zonas en las que habiten personas damnificadas de Pueblos, Barrios Originarios y/o Comunidades Indígenas Residentes; y
-
-XXII. Coadyuvar con la Secretaría del Medio Ambiente para la atención de viviendas afectadas (sic) se encuentren en Zonas de Conservación, en Asentamientos Humanos Irregulares o Áreas Protegidas.
+(Artículo 329.- (DEROGADO, G.O. 15 DE MAYO DE 2019)
 
 ###### Artículo 329.
 
@@ -12959,3 +13049,11 @@ SEGUNDO.- El presente Decreto entrará en vigor el día dieciséis de febrero de
 TERCERO.- Las referencias hechas a la Planta de Asfalto en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas, se entenderán referidas a la Planta Productora de Mezclas Asfálticas, quien ejercerá las atribuciones en el nuevo ámbito de su competencia. La Secretaría de Administración y Finanzas de la Ciudad de México, realizará de inmediato todas las gestiones y operaciones conducentes a efecto de que se pueda ejercer el presupuesto asignado por el Decreto por el que se expide el Presupuesto de Egresos de la Ciudad de México para el Ejercicio Fiscal 2019.
 
 CUARTO.- Los recursos humanos, financieros, técnicos y materiales a la Dirección General de la Planta Productora de Mezclas Asfálticas, se transfieren al Órgano Desconcentrado denominado Planta Productora de Mezclas Asfálticas, y con la finalidad de que se realice de manera ordenada y se continúe con el cumplimiento de las obligaciones contraídas que se determinen, continuará operando con los recursos disponibles hasta en tanto se adecue la estructura orgánica. Dicha operación de determinación de obligaciones se dará dentro de un plazo máximo de 60 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+G.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
