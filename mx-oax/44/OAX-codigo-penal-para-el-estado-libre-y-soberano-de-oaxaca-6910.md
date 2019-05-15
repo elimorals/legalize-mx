@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2018-11-10"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,21 +21,13 @@ state: "OAX"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
+LEY DE INGRESOS DEL MUNICIPIO DE SAN MARTÍN TOTOLTEPEC, PUEBLA, PARA EL EJERCICIO FISCAL 2022
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+TEXTO ORIGINAL.
 
-Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
+Ley publicada en la Vigésima Sexta Sección del Número 22 del Periódico Oficial del Estado de Puebla, el jueves 30 de diciembre de 2021.
 
-ELISEO JIMENEZ RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
-
-QUE LA HONORABLE LEGISLATURA DEL ESTADO HA TENIDO A BIEN APROBAR LO SIGUIENTE:
-
-LA QUINCUAGÉSIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA,
-
-DECRETA:
-
-CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
 # LIBRO PRIMERO.
 
@@ -263,53 +255,43 @@ I. Registren ante la Secretaría dichos ingresos en los conceptos correspondient
 
 II. Informen a la Secretaría sobre la obtención y la aplicación de dichos ingresos, para efectos de la integración de los informes trimestrales y la Cuenta Pública.
 
-###### Artículo 21.
+###### ARTÍCULO 21.
 
-En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en la Ley de Ingresos, el Ejecutivo Federal, por conducto de la Secretaría, podrá aplicar las siguientes normas de disciplina presupuestaria:
+Los derechos por expedición de certificaciones, constancias y otros servicios, se causarán y pagarán conforme las cuotas siguientes:
 
-I. La disminución de alguno de los rubros de ingresos aprobados en la Ley de Ingresos, podrá compensarse con el incremento que, en su caso, observen otros rubros de ingresos aprobados en dicha Ley, salvo en el caso en que estos últimos tengan un destino específico por disposición expresa de leyes de carácter fiscal o conforme a éstas se cuente con autorización de la Secretaría para utilizarse en un fin específico, así como tratándose de ingresos propios de las entidades de control directo. En caso de que no pueda realizarse la compensación para mantener la relación de ingresos y gastos aprobados o ésta resulte insuficiente, se procederá en los términos de las siguientes fracciones;
+(NOTA: EL 25 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 9/2022 Y SUS ACUMULADAS 13/2022, 14/2022, 18/2022 Y 22/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+I. POR LA CERTIFICACIÓN DE DATOS O DOCUMENTOS QUE OBREN EN LOS ARCHIVOS MUNICIPALES:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+A) POR CADA HOJA, INCLUYENDO FORMATO. $39.00
 
-II. La disminución de los ingresos del Gobierno Federal, asociada a menores ingresos petroleros, así como a una menor recaudación de impuestos, derechos, productos y aprovechamientos que no tengan fin específico, por debajo de los estimados para la Ley de Ingresos, se podrá compensar con los recursos del Fondo de Estabilización de los Ingresos Presupuestarios en los términos de las reglas de operación que emita la Secretaría. En caso de que, conforme a lo previsto en dichas reglas, se llegue al límite de recursos del Fondo de Estabilización de los Ingresos Presupuestarios sin poder compensar dicha disminución, se procederá a compensar con los recursos de la Reserva del Fondo y a reasignar el gasto correspondiente a la fracción III, inciso a), subincisos i) a iii) del presente artículo, a gasto de inversión en infraestructura, programas de empleo temporal y programas de estímulo que determine el Ejecutivo Federal, el cual deberá reportar en el informe trimestral correspondiente las reasignaciones de gasto realizadas. En caso de que el uso de la Reserva del Fondo no sea suficiente, se procederá con los ajustes a que se refiere la fracción III del presente artículo.
+B) POR EXPEDIENTES DE HASTA 35 HOJAS. $125.50
 
-La disminución en la Recaudación Federal Participable con respecto a lo estimado en la Ley de Ingresos, se podrá compensar con los recursos del Fondo de Estabilización de los Ingresos de las Entidades Federativas de acuerdo con sus respectivas reglas de operación.
+- POR HOJA ADICIONAL. $1.90
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+II. Por la expedición de certificados y constancias oficiales. $39.00
 
-> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+No se pagará la cuota a que se refiere esta fracción por la expedición de certificados de escasos recursos.
 
-III. La disminución de los ingresos distintos a los que se refiere la fracción II de este artículo se compensará, una vez efectuada en su caso la compensación a que se refiere la fracción I, con la reducción de los montos aprobados en los presupuestos de las dependencias, entidades, fondos y programas, conforme a lo siguiente:
+III. Por la prestación de otros servicios:
 
-a) Los ajustes deberán realizarse en el siguiente orden:
+a) Derechos de huellas dactilares. $7.50
 
-i) Los gastos de comunicación social;
+###### ARTÍCULO 22.
 
-ii) El gasto administrativo no vinculado directamente a la atención de la población;
+La consulta de información y documentación que realicen los particulares a las Dependencias de la Administración Pública Municipal o a sus organismos, en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla será gratuita, salvo que para su entrega se requiera su impresión o almacenamiento, en cuyo caso se causarán y pagarán de conformidad con las cuotas siguientes:
 
-iii) El gasto en servicios personales, prioritariamente las erogaciones por concepto de percepciones extraordinarias, y
+(NOTA: EL 25 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 9/2022 Y SUS ACUMULADAS 13/2022, 14/2022, 18/2022 Y 22/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-iv) Los ahorros y economías presupuestarios que se determinen con base en los calendarios de presupuesto autorizados a las dependencias y entidades.
+I. POR LA EXPEDICIÓN DE CERTIFICACIÓN DE DATOS O DOCUMENTOS, POR CADA HOJA. $22.00
 
-En caso de que los ajustes anteriores no sean factibles o suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto siempre y cuando se procure no afectar los programas sociales;
+II. Expedición de hojas simples, a partir de la vigésimo primera, por cada hoja. $0.00
 
-b) En el caso de que la contingencia represente una reducción equivalente de hasta el 3 por ciento de los ingresos por impuestos a que se refiera el calendario de la Ley de Ingresos, el Ejecutivo Federal enviará a la Cámara de Diputados en los siguientes 15 días hábiles a que se haya determinado la disminución de ingresos, un informe que contenga el monto de gasto programable a reducir y la composición de dicha reducción por dependencia y entidad;
+III. Disco compacto. $0.00
 
-c) En el caso de que la contingencia sea de tal magnitud que represente una reducción equivalente a un monto superior al 3 por ciento de los ingresos por impuestos a que se refiera el calendario de la Ley de Ingresos, el Ejecutivo Federal enviará a dicha Cámara en los siguientes 15 días hábiles a que se haya determinado la disminución de ingresos, el monto de gasto a reducir y una propuesta de composición de dicha reducción por dependencia y entidad.
+IV. Memoria USB. $0.00
 
-La Cámara de Diputados, por conducto de la Comisión de Presupuesto y Cuenta Pública, en un plazo de 15 días hábiles a partir de la recepción de la propuesta, analizará la composición de ésta, con el fin de proponer, en su caso, modificaciones a la composición de la misma, en el marco de las disposiciones generales aplicables. El Ejecutivo Federal, con base en la opinión de la Cámara, resolverá lo conducente de acuerdo a las prioridades aprobadas en el presupuesto informando de ello a la misma. En caso de que la Cámara no emita opinión dentro de dicho plazo, procederá la propuesta enviada por el Ejecutivo Federal.
-
-Los Poderes Legislativo y Judicial y los entes autónomos deberán coadyuvar al cumplimiento de las normas de disciplina presupuestaria a que se refiere el presente artículo, a través de ajustes a sus respectivos presupuestos, observando en lo conducente lo dispuesto en la fracción III. Asimismo, deberán reportar los ajustes realizados en los informes trimestrales y la Cuenta Pública.
-
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
-
-###### Artículo 22.
-
-Las entidades deberán comprometer ante la Secretaría sus respectivas metas de balance de operación, primario y financiero, en el primer bimestre de cada ejercicio fiscal.
-
-La Secretaría, la Función Pública y, en su caso, la dependencia coordinadora de sector, llevarán el seguimiento periódico del cumplimiento de dichos compromisos, el cual deberán reportar en los informes trimestrales.
+No causará el pago de las contribuciones a que se refiere este artículo, cuando las solicitudes de información y documentación se realicen por personas con discapacidad. Para estos efectos, el solicitante deberá hacer constar tal circunstancia al momento de formular su petición.
 
 ###### Artículo 23.
 
