@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-y-preservacion-del-ambiente-del-16355"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-08"
-last_updated: "2018-10-10"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE OCTUBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 8 de febrero de 2000.
 
@@ -147,6 +145,10 @@ XII.- Desechos sólidos potencialmente peligrosos: Aquéllos que guardan un esta
 
 XIII.- Deterioro Ambiental: Es la alteración que sufren uno o varios elementos que conforman los ecosistemas, ante la presencia de un elemento ajeno a las características propias de los mismos;
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2019)</small>
+
+XIII Bis.- Electrolinera: Estación de recarga de vehículos eléctricos e híbridos;
+
 XIV.- Especie y poblaciones en riesgo: Aquéllas identificadas como probablemente extintas en el medio silvestre, en peligro de extinción, amenazadas o sujetas a protección especial, con arreglo a las disposiciones legales;
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
@@ -190,6 +192,18 @@ XXIV.- Residuos sólidos no peligrosos: Aquellos que resultan de las actividades
 XXV.- Tratamiento de agua residual: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado; y
 
 XXVI.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2012)
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2019)</small>
+
+XXVII. Vehículo de bajas emisiones que utilicen energías limpias: Vehículo automotor que, por su tecnología, por el uso de combustibles alternativos o por encontrarse provistos de sistemas anticontaminantes reducen sustancialmente las emisiones a la atmósfera;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2019)</small>
+
+XXVIII. Vehículo eléctrico: Vehículo propulsado por uno o más motores eléctricos; y
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2019)</small>
+
+XXIX. Vehículo híbrido: Vehículo que combina un motor de combustión interna y uno o varios motores eléctricos.
 
 ### CAPITULO SEGUNDO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
@@ -1465,7 +1479,19 @@ III.- Formular y aplicar programas de contingencia ambiental, de manera coordina
 
 IV.- Imponer sanciones y medidas por infracciones a esta Ley, reglamentos y bandos de policía y buen gobierno que expidan los Ayuntamientos de acuerdo con esta Ley; y
 
-V.- Ejercer las demás atribuciones que les confiera esta Ley y sus reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2019)</small>
+
+V. Establecer en la administración centralizada, paraestatal y paramunicipal programas de renovación de su parque vehicular de combustión interna por vehículos eléctricos, híbridos o de bajas emisiones que utilicen energías limpias.
+
+El Ejecutivo del Estado y los Ayuntamientos destinarán recursos para sus programas de renovación de parque vehicular bajo en emisiones, atendiendo a su suficiencia presupuestal. Podrán buscar fuentes de recursos alternas para financiar dichos programas;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2019)</small>
+
+VI. Establecer mecanismos de coordinación y financiamiento con la participación de otras dependencias y entidades de la administración pública estatal y municipal, así como con instituciones públicas y privadas, para facilitar a la población el uso de vehículos eléctricos, híbridos o de bajas emisiones que utilicen energías limpias; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 15 DE MAYO DE 2019)</small>
+
+VII. Ejercer las demás atribuciones que les confiere esta Ley y sus reglamentos.
 
 > <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
@@ -1599,9 +1625,17 @@ II.- Autorizar el establecimiento, registro, funcionamiento y control de los cen
 
 III.- Expedir anualmente el Programa Estatal de Verificación Vehicular; y
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2019)</small>
 
-IV.- Las demás que le correspondan de conformidad con este ordenamiento y demás disposiciones aplicables.
+IV. Establecer programas para fomentar e incentivar el uso de vehículos eléctricos, híbridos y de bajas emisiones que utilicen energías limpias;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2019)</small>
+
+V. Promover el establecimiento de electrolineras; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE MAYO DE 2019)</small>
+
+VI. Las demás que le correspondan de conformidad con este ordenamiento y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
@@ -1614,6 +1648,10 @@ I.- Establecer medidas preventivas y correctivas para reducir la emisión de con
 II.- Exigir a los propietarios o poseedores de vehículos automotores, el cumplimiento del programa de verificación vehicular del Estado y, en su caso, retirar de la circulación aquellos vehículos que no lo cumplan; y
 
 III.- Promover el mejoramiento de los sistemas de tránsito y transporte e implementar toda clase de medidas en sus vialidades para disminuir las emisiones contaminantes.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2019)</small>
+
+IV. Establecer programas para fomentar e incentivar el uso de vehículos eléctricos, híbridos y de bajas emisiones que utilicen energías limpias.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
@@ -2506,3 +2544,11 @@ Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como 
 En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
 
 Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 60 EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 113 FRACCIÓN V Y 118 FRACCIÓN IV. SE ADICIONAN LAS FRACCIONES XIII BIS, XXVII, XXVIII Y XXIX AL ARTÍCULO 4; VI Y VII AL ARTÍCULO 113; V Y VI AL ARTÍCULO 118 Y IV AL ARTÍCULO 119, DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. La Secretaría de Medio Ambiente y Ordenamiento Territorial emitirá los lineamientos para fomentar el uso de vehículos eléctricos, híbridos y de bajas emisiones que utilicen energías limpias en un plazo de 180 días contados a partir de la entrada en vigor del presente Decreto.
