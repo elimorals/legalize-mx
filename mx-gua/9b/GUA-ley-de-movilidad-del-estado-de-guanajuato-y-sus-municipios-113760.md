@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-movilidad-del-estado-de-guanajuato-y-sus-municipios-1137
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-18"
-last_updated: "2018-09-24"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de marzo de 2016.
 
@@ -1823,13 +1823,13 @@ Para efectos de la antigüedad, esta se computará conforme al año de fabricaci
 
 La prórroga de la unidad, se otorgará únicamente a los vehículos que ya están dados de alta en el servicio, siempre y cuando aprueben la revista físico mecánica y la verificación vehicular en materia ambiental de conformidad con lo que al respecto establezca la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
 Renovación de parque vehicular
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
 
 ###### Artículo 128.
 
-El Ejecutivo del Estado a través de la unidad administrativa de transporte, y los ayuntamientos, independientemente de los años de vida útil de los vehículos, podrán implementar, mediante disposiciones de carácter general, los programas y campañas de renovación del parque vehicular de los servicios público y especial de transporte atendiendo al orden público, la eficiencia y calidad de los mismos, así como el uso de la tecnología sustentable. Dichas disposiciones deberán publicarse en el Periódico Oficial del Gobierno del Estado.
+El Ejecutivo del Estado a través de la unidad administrativa de transporte, y los ayuntamientos, independientemente de los años de vida útil de los vehículos, deberán implementar los programas y campañas para renovar el parque vehicular de los servicios público y especial de transporte, en los términos de esta Ley y, en su caso, por vehículos eléctricos, híbridos o de bajas emisiones que utilicen energías limpias atendiendo al orden público, la eficiencia y calidad de los mismos, así como el uso de la tecnología sustentable. Dichas disposiciones deberán publicarse en el Periódico Oficial del Gobierno del Estado.
 
 Organización de los concesionarios y permisionarios
 
@@ -3496,3 +3496,11 @@ P.O. 24 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 339, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 4 FRACCIÓN I, Y SE ADICIONA EL ARTÍCULO 8 BIS, DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 62 EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 128 DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS".]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
