@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2018-12-01"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -721,7 +721,9 @@ VII. Para la promoción de los Integrantes se deberán considerar, por lo menos,
 
 VIII. Los Integrantes de las Instituciones de Seguridad Pública y sus derechohabientes gozarán del régimen de estímulos y previsión social que corresponda a sus funciones, conforme a lo previsto en esta Ley.
 
-IX. Los Integrantes podrán ser cambiados de adscripción, con base en las necesidades del servicio.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
+
+IX. Los Integrantes podrán ser cambiados de adscripción, con base en las necesidades del servicio y solo cuando cumplan con los requisitos de ingreso y permanencia que exige el área al que serán adscritos.
 
 X. Tratándose de los Integrantes de las Instituciones Policiales, el cambio de un área operativa a otra de distinta especialidad, sólo podrá ser autorizada en los términos que señala la presente Ley.
 
@@ -789,15 +791,21 @@ a) Para agentes del Ministerio Público, contar con título de licenciatura en d
 
 b) Para peritos, deberán contar con licenciatura. Para ejercer la ciencia o especialidad en alguna profesión regulada por la Ley de Profesiones para el Estado de Chihuahua, deberán contar con el título respectivo, a excepción de los peritos técnicos, quienes deberán acreditar los estudios correspondientes a la enseñanza media superior o equivalente, así como los conocimientos correspondientes a la disciplina sobre la que deba dictaminar cuando de acuerdo con las normas aplicables no necesite título o cédula profesional para su ejercicio.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
 
-c) Para Integrantes de la Agencia Estatal de Investigación y de la División de Inteligencia de la Comisión Estatal de Seguridad, nivel licenciatura, con excepción de los integrantes de la Policía de Seguridad, Custodia y Traslado y de Vigilancia de Audiencias Judiciales, quienes deberán acreditar el nivel de educación media superior.
+c) Para Integrantes de la Agencia Estatal de Investigación y de la División de Inteligencia de la Comisión Estatal de Seguridad, nivel licenciatura.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
 
-d) Para el resto de la Policía, deberán contar con educación media superior.
+d) Para integrantes de la División de Operaciones Rurales, educación básica.
 
-e) (DEROGADO, P.O. 7 DE JUNIO DE 2017)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE MAYO DE 2019)</small>
+
+e) Para el resto de la Policía, deberán contar con educación media superior.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+La Fiscalía General del Estado, por conducto del Instituto Estatal de Seguridad Pública, gestionará y llevará a cabo las acciones necesarias para que las y los integrantes de la División de Operaciones Rurales acrediten grados académicos superiores al que tenían a su ingreso.
 
 IV. En su caso, tener acreditado el Servicio Militar Nacional.
 
@@ -1372,6 +1380,10 @@ II. Ser de notoria buena conducta y no haber sido condenado por sentencia irrevo
 III. Mantener actualizado el Certificado y registro correspondientes.
 
 IV. Cumplir con los programas de formación continua y especializada, así como de actualización y profesionalización que establecen la presente Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+Para el caso de la policía de reacción, de acuerdo a los programas antes referidos o demás instituciones con autorización o reconocimiento de validez oficial, deberán continuar con sus estudios, al menos, hasta el nivel de educación media superior.
 
 V. Aprobar los procesos de evaluación de control de confianza.
 
@@ -2057,9 +2069,9 @@ IV. De Inteligencia, con el objeto de estudiar, detectar y analizar las causas d
 
 V. De Policía Vial, orientada a la prevención y control del tráfico y la seguridad vial.
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
 
-VI. De Fuerza Rural, dotada de medios modernos que le permitan actuar con la celeridad y eficacia necesaria en manifestaciones violentas o conductas que pudieran ser consideradas como delictivas en las diferentes partes de la sierra y otras áreas del interior de la geografía estatal.
+VI. De Fuerza Rural, dotada de medios modernos que le permitan reaccionar con la celeridad y eficacia necesaria en manifestaciones violentas o conductas que pudieran ser consideradas como delictivas en las diferentes partes de la sierra y otras áreas del interior de la geografía estatal.
 
 > <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
 
@@ -3802,3 +3814,9 @@ PRIMERO.- Publíquese en el Periódico Oficial del Estado.
 SEGUNDO.- El presente Decreto entrará en vigor el mismo día que el Decreto No. LXV/EXLEY/0883/2018 XVIII P.E., por el que fue expedida la Ley de Coordinación Fiscal para el Estado de Chihuahua y sus Municipios.
 
 TERCERO.- Háganse las previsiones presupuestales a que haya lugar para el cumplimiento del presente Decreto, particularmente para la constitución del Fondo creado mediante el mismo, siguiendo las formalidades a que haya lugar en los términos aplicables.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0332/2019 II P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
