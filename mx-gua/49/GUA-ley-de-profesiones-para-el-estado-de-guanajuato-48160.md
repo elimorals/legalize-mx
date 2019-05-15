@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-profesiones-para-el-estado-de-guanajuato-48160"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2017-05-19"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PROFESIONES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el martes 20 de diciembre de 2005.
 
@@ -273,15 +273,37 @@ Las autoridades judiciales deberán comunicar oportunamente a la Secretaría, la
 
 ### CAPÍTULO II. DEL TÍTULO PROFESIONAL
 
-#### SECCIÓN PRIMERA. DE LOS PROFESIONISTAS
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2019)</small>
+
+#### SECCIÓN PRIMERA. DE LOS REQUISTOS (SIC)
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
 
 ###### Artículo 9.
 
-Para obtener un título profesional es requisito indispensable cursar y aprobar la educación primaria secundaria y, en su caso, de acuerdo con los planes y programas de estudio, de tipo medio superior y superior en los grados y términos que establece la Ley General de Educación y las disposiciones legales aplicables, así como haber cubierto el servicio profesional en los términos de las leyes aplicables.
+Para obtener título profesional es indispensable acreditar que se han cumplido los requisitos académicos previstos en la Ley General de Educación, la Ley de Educación para el Estado de Guanajuato, y las demás disposiciones legales, así como haber cubierto el servicio social profesional en los términos de las leyes. El servicio social estudiantil será considerado como experiencia profesional.
 
-#### SECCIÓN SEGUNDA. DE LOS USUARIOS DE SERVICIOS PROFESIONALES
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE MAYO DE 2019)</small>
 
-#### SECCIÓN PRIMERA. DE LOS COLEGIOS MUNICIPALES DE PROFESIONISTAS
+#### SECCIÓN SEGUNDA. DEL SERVICIO SOCIAL
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+###### Artículo 9 Bis.
+
+Todos los estudiantes de las profesiones a que se refiere esta Ley, deberán prestar el servicio social en los términos de la Ley de Educación para el Estado de Guanajuato y esta Ley y en su caso dicho servicio deberá relacionarse con el perfil académico del estudiante.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+###### Artículo 9 Ter.
+
+Los planes de preparación o práctica profesional, según la naturaleza de la profesión y de las necesidades sociales que se trate de satisfacer, exigirán a los estudiantes, como requisito previo para otorgarles el título, que presten servicio social estudiantil durante el tiempo no menor de seis meses ni mayor de dos años, que no será menor de cuatrocientas ochenta horas.
+
+Cuando el servicio social estudiantil ocupe completamente las actividades del estudiante se le deberá otorgar una beca suficiente para satisfacer sus necesidades de comida y transporte.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2019)</small>
+
+#### SECCIÓN TERCERA. DE LAS DENOMINACIONES
 
 ###### Artículo 10.
 
@@ -363,7 +385,11 @@ XX. Requerir en cualquier tiempo a los colegios de profesionistas que le comprue
 
 XXI. Autorizar el costo del proceso de certificación profesional o sus refrendos; y
 
-XXII. Las demás que se deriven de esta Ley, de su reglamento y de otras disposiciones jurídicas aplicables, así como aquéllas que le asigne el Gobernador del Estado.
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2019)</small>
+
+XXII. Al concluir con el servicio social estudiantil, se expedirá al interesado un documento que acredite su experiencia profesional por el tiempo que se realizó; y
+
+XXIII. Las demás que se deriven de esta Ley, de su reglamento y de otras disposiciones jurídicas aplicables, así como aquéllas que le asigne el Gobernador del Estado.
 
 El Titular del Poder Ejecutivo podrá convocar a los colegios municipales de profesionistas para implementar programas de asistencia social en beneficio de la colectividad.
 
@@ -411,7 +437,7 @@ El registro de títulos profesionales es de orden público. La Secretaría estab
 
 ### CAPÍTULO VI. DE LOS DERECHOS Y OBLIGACIONES DE LOS PROFESIONISTAS Y USUARIOS DE SERVICIOS PROFESIONALES
 
-#### SECCIÓN SEGUNDA. DE LOS COLEGIOS ESTATALES POR PROFESIÓN
+#### SECCIÓN PRIMERA. DE LOS PROFESIONISTAS
 
 ###### Artículo 18.
 
@@ -459,7 +485,7 @@ X. Exhibir de manera permanente y a la vista del público, en las oficinas, desp
 
 XI. Las demás que se deriven de esta Ley, de su reglamento y de otras disposiciones jurídicas aplicables.
 
-#### SECCIÓN PRIMERA. DE LOS PROFESIONISTAS
+#### SECCIÓN SEGUNDA. DE LOS USUARIOS DE SERVICIOS PROFESIONALES
 
 ###### Artículo 20.
 
@@ -511,7 +537,7 @@ V. La observancia y cumplimiento de los requisitos y procedimientos establecidos
 
 La representatividad tendrá una vigencia de cinco años, la cual podrá ser revocada por la Secretaría cuando el número de integrantes sea inferior al mínimo previsto por esta Ley o el colegio incurra en reiteradas violaciones a la misma.
 
-#### SECCIÓN SEGUNDA. DE LOS COLEGIOS DE PROFESIONISTAS
+#### SECCIÓN PRIMERA. DE LOS COLEGIOS MUNICIPALES DE PROFESIONISTAS
 
 ###### Artículo 25.
 
@@ -592,6 +618,8 @@ Cuando alguna Ley atribuya funciones especiales a asociaciones de profesionistas
 ###### Artículo 30.
 
 El registro otorgado a los colegios municipales de profesionistas es intransferible y no negociable.
+
+#### SECCIÓN SEGUNDA. DE LOS COLEGIOS ESTATALES POR PROFESIÓN
 
 ###### Artículo 31.
 
@@ -925,6 +953,8 @@ La Secretaría, inscribirá en el libro de registro respectivo la anotación de 
 
 ### CAPÍTULO XIII. DE LAS INFRACCIONES
 
+#### SECCIÓN PRIMERA. DE LOS PROFESIONISTAS
+
 ###### Artículo 67.
 
 Se consideran infracciones por parte de los profesionistas:
@@ -952,6 +982,8 @@ X. Incumplir con las demás obligaciones establecidas por esta Ley, su reglament
 ###### Artículo 68.
 
 Toda persona que tenga conocimiento de que otra, dentro del territorio del Estado se ostenta como profesionista y ejerce como tal, sin serlo, debe denunciarlo ante el Ministerio Público o ante la Secretaría.
+
+#### SECCIÓN SEGUNDA. DE LOS COLEGIOS DE PROFESIONISTAS
 
 ###### Artículo 69.
 
@@ -1354,3 +1386,15 @@ P.O. 19 DE MAYO DE 2017.
 Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. A partir del inicio de vigencia del presente Decreto, el Titular del Ejecutivo del Estado realizará las adecuaciones reglamentarias en un término de sesenta días.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 63 EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 9 Y SE ADICIONAN UNA FRACCIÓN XXII AL ARTÍCULO 11 PASANDO LA ACTUAL XXII A SER FRACCIÓN XXIII, Y EL CAPÍTULO II DENOMINADO DEL TÍTULO PROFESIONAL, CON TRES SECCIONES: SECCIÓN PRIMERA DENOMINADA DE LOS REQUISITOS CON EL ARTÍCULO 9, LA SECCIÓN SEGUNDA DENOMINADA DEL SERVICIO SOCIAL CON LOS ARTÍCULOS 9 BIS Y 9 TER Y LA SECCIÓN TERCERA DENOMINADA DE LAS DENOMINACIONES CON EL ARTÍCULO 10 DE LA LEY DE PROFESIONES PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo segundo. La Secretaría de Educación de Guanajuato, a través de la Dirección General de Profesiones, Servicios Escolares e Incorporaciones emitirá los lineamientos con respecto a las acciones que realizará con respecto a los alcances de este Decreto que contendrán mínimamente las actividades realizadas, así como las habilidades y competencias del alumno al finalizar su servicio social estudiantil y deberán expedirse en un término de hasta noventas días contados a partir de la entrada en vigencia.
+
+Artículo tercero. El Ejecutivo del Estado deberá adecuar los reglamentos de las leyes del presente Decreto en un término de ciento ochenta días, contados a partir del inicio de la vigencia.
+
+Artículo cuarto. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, a más tardar ciento ochenta días contados a partir de su entrada en vigencia.
