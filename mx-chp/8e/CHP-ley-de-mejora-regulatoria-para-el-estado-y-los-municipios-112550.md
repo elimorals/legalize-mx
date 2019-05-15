@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-mejora-regulatoria-para-el-estado-y-los-municipios-11255
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2015-12-31"
+last_updated: "2019-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE MEJORA REGULATORIA PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS, PUBLICADA EN EL P.O. DE 15 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEJORA REGULATORIA PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019 (ABROGADO).
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el jueves 31 de diciembre de 2015.
 
@@ -608,3 +610,23 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado Libre y Soberano
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas, a los 17 días del mes de diciembre del año dos mil quince.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 184 LEY DE MEJORA REGULATORIA PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Se abroga la Ley de Mejora Regulatoria para el Estado y los Municipios de Chiapas, publicada mediante Decreto número 041 en el Periódico Oficial número 217, Tercera Sección de fecha 31 de diciembre del año 2015.
+
+Artículo Cuarto.- El Consejo Estatal de Mejora Regulatoria deberá quedar instalado en un plazo que no exceda de 60 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+Artículo Quinto.- En un plazo no mayor a 120 días naturales, contados a partir de la publicación del presente Decreto, la Comisión Estatal, a través del titular de la Secretaría de Economía y del Trabajo, deberá someter a consideración del Titular del Poder Ejecutivo del Estado el Reglamento de la presente Ley para su expedición.
+
+Artículo Sexto.- La Comisión Estatal de Mejora Regulatoria, en un plazo de 120 días naturales posteriores a la entrada en vigor del presente Decreto, expedirá la Estrategia Estatal de Mejora Regulatoria así como los lineamientos a que se refiere la presente Ley.
+
+Artículo Séptimo.- Los procedimientos y demás asuntos que se encuentren en trámite ante la Comisión Estatal de Mejora Regulatoria, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones que les dieron origen, en lo que no se opongan al mismo.
