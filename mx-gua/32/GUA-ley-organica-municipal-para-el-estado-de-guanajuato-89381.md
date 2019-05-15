@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2018-09-18"
+last_updated: "2019-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -1379,9 +1379,17 @@ III. Proponer campañas de difusión en materia de seguridad pública y tránsit
 
 IV. Revisar y opinar sobre los proyectos de reglamentos de su competencia;
 
-V. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2019)</small>
 
-VI. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+V. Revisar y opinar sobre los programas municipales de la seguridad pública y de la prevención social de la violencia y la delincuencia;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2019)</small>
+
+VI. Proponer al Ayuntamiento las dependencias y entidades del gobierno municipal que integraran la Comisión Municipal de la Prevención Social de la Violencia y la Delincuencia. Dicha propuesta será aprobada por mayoría simple de los integrantes del Ayuntamiento;
+
+VII. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
+
+VIII. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -1750,6 +1758,16 @@ El Programa de Gobierno Municipal indicará los programas que deriven del mismo.
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 Para la elaboración del Programa de Gobierno Municipal, el organismo municipal de planeación valorará la inclusión de las acciones previstas en el plan de trabajo señalado (sic) el artículo 33 de la Ley Orgánica Municipal para el Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+Programas municipales de la seguridad pública y de la prevención social de la violencia y la delincuencia
+
+###### Artículo 102
+
+1. Las instituciones policiales de los municipios instrumentarán los programas municipales de la seguridad pública y de la prevención social de la violencia y la delincuencia, elaborados por el organismo municipal de planeación, en colaboración con el Consejo de Planeación de Desarrollo Municipal y los titulares de las unidades administrativas municipales en materia de Desarrollo Social, Educación, Salud Pública, Derechos Humanos, Atención a la Mujer, Juventud y Seguridad Pública, así como cualquier otro funcionario municipal que se considere conveniente.
+
+Una vez elaborados los programas señalados en el párrafo anterior, serán remitidos a la Comisión de Seguridad Pública y Tránsito para que proceda en términos del artículo 83-4 de la presente Ley.
 
 Publicidad
 
@@ -2675,13 +2693,93 @@ Control y evaluación
 
 Tratándose de fideicomisos públicos, para llevar a cabo su control y evaluación, se establecerá en su contrato constitutivo la facultad de la Contraloría Municipal de realizar visitas y auditorías, así como la obligación de permitir la realización de las mismas por parte de los auditores externos que determine el Ayuntamiento, sin perjuicio de las facultades de fiscalización del Congreso del Estado. En la cuenta pública municipal se deberá informar y anexar el resultado de las auditorías practicadas.
 
-### Capítulo V. Del Servicio Civil de Carrera
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MAYO DE 2019)</small>
+
+### CAPÍTULO V. De la Comisión Municipal de la Prevención Social de la Violencia y la Delincuencia
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+Naturaleza de la Comisión
+
+###### Artículo 161
+
+1. La Comisión Municipal de la Prevención Social de la Violencia y la Delincuencia es un órgano colegiado que constituye la instancia que de acuerdo a sus funciones auxilia en el cumplimiento de los objetivos establecidos para la prevención social de la violencia y la delincuencia, y así se dé atención y solución transversal, integral, complementaria y multidisciplinaria de los factores que generan violencia y delincuencia, bajo los principios de la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+Integración de la Comisión
+
+###### Artículo 161
+
+2. La Comisión Municipal de la Prevención Social de la Violencia y la Delincuencia estará integrada al menos de la siguiente forma:
+
+I. El Presidente municipal, quien la presidirá;
+
+II. Por un secretario técnico, que será preferentemente el Secretario del Ayuntamiento;
+
+III. Por el titular de la Institución de Seguridad Pública Municipal y los titulares de las dependencias de la administración pública municipal centralizada y de las entidades paramunicipales, que de acuerdo a sus funciones auxilien en el cumplimiento de los objetivos establecidos para la prevención social de la violencia y la delincuencia;
+
+El Presidente municipal será suplido en sus ausencias por el Secretario del Ayuntamiento; los demás integrantes deberán asistir personalmente.
+
+A las sesiones de la Comisión Municipal de la Prevención Social de la Violencia y la Delincuencia podrán ser invitadas las autoridades, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para prevención de la violencia social y la delincuencia. Dichos invitados tendrán derecho de voz.
+
+La participación de todos los miembros e invitados de la Comisión Municipal de la Prevención Social de la Violencia y la Delincuencia será honorífica, por lo que no recibirán retribución, emolumento o compensación alguna por su desempeño.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+Atribuciones de la Comisión
+
+###### Artículo 161
+
+3. Son atribuciones de la Comisión Municipal de la Prevención Social de la Violencia y la Delincuencia:
+
+I. Emitir su Plan de Trabajo en relación a los programas municipales de la seguridad pública y de la prevención social de la violencia y la delincuencia;
+
+II. Propiciar que el gasto tenga congruencia a la planeación nacional y estatal en materia de la prevención social de la violencia y la delincuencia, así como analizar y, en su caso, proponer al Ayuntamiento la reorientación del mismo para aprovechar objetivamente los recursos en acciones que permitan reducir los factores que generan la violencia o la delincuencia;
+
+III. Participar en el diseño de políticas, programas y acciones en materia de la prevención social de la violencia y la delincuencia y coordinar su ejecución, considerando la participación interinstitucional con enfoque multidisciplinario, propiciando su articulación, homologación y complementación con el Estado;
+
+IV. Analizar la eficacia en las políticas públicas en materia de prevención social de la violencia y la delincuencia en la reducción de los índices delictivos, para determinar continuar con las mismas o proponer su reorientación;
+
+V. Impulsar el establecimiento de esquemas de participación ciudadana y comunitaria, en materia de la prevención social de la violencia y la delincuencia;
+
+VI. Analizar el marco normativo en materia de la prevención social de la violencia y la delincuencia y, en su caso, realizar las propuestas de reforma a los reglamentos municipales;
+
+VII. Generar programas de capacitación en materia de la prevención social de la violencia y la delincuencia en el municipio;
+
+VIII. Propiciar mecanismos de coordinación y colaboración con las instancias en materia de la prevención social de la violencia y la delincuencia.
+
+IX. Integrar un sistema de seguimiento y evaluación de las actividades que se realicen en el marco del programa municipal de la prevención social de la violencia y la delincuencia; y
+
+X. Las demás que se establezcan (sic) otros dispositivos normativos.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+Vigencia del cargo de los integrantes de la Comisión
+
+###### Artículo 161
+
+4. La vigencia en el cargo como miembro de la Comisión Municipal de la Prevención Social de la Violencia y la Delincuencia durará el tiempo que permanezca en el cargo.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+Sesiones de la Comisión
+
+###### Artículo 161
+
+5. La Comisión Municipal de la Prevención Social de la Violencia y la Delincuencia sesionará de manera ordinaria por lo menos una vez cada dos meses y extraordinariamente cuando la importancia del asunto así lo amerite.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+Funcionamiento de la Comisión
+
+###### Artículo 161
+
+6. La organización y funcionamiento de la Comisión Municipal de la Prevención Social de la Violencia y la Delincuencia se regulará a través del reglamento municipal respectivo.
+
+### Capítulo VI. Del Servicio Civil de Carrera
 
 Propósitos del servicio civil de carrera
-
-### Capítulo I. De los Servicios Públicos Municipales
-
-Principios en la prestación de servicios
 
 ###### Artículo 162.
 
@@ -2731,9 +2829,9 @@ En la aplicación del presente capítulo, se atenderá en lo conducente, a lo di
 
 ## Título Séptimo
 
-### Capítulo II. De las Concesiones de Servicios Públicos Municipales
+### Capítulo I. De los Servicios Públicos Municipales
 
-Concesión para la prestación de servicios públicos
+Principios en la prestación de servicios
 
 ###### Artículo 165.
 
@@ -2933,9 +3031,9 @@ Servicio público de transporte
 
 El servicio público de transporte urbano y suburbano en ruta fija, se prestará conforme a lo dispuesto en la ley de la materia.
 
-### Capítulo I. Del Patrimonio Municipal
+### Capítulo II. De las Concesiones de Servicios Públicos Municipales
 
-Patrimonio municipal
+Concesión para la prestación de servicios públicos
 
 ###### Artículo 182.
 
@@ -3179,9 +3277,9 @@ Las resoluciones de extinción de las concesiones de servicios públicos se publ
 
 ## Título Octavo
 
-### Capítulo II. De la Hacienda Pública Municipal
+### Capítulo I. Del Patrimonio Municipal
 
-Hacienda pública municipal
+Patrimonio municipal
 
 ###### Artículo 197.
 
@@ -3197,9 +3295,9 @@ IV. Los demás bienes, derechos y aprovechamientos que señalen otras leyes y or
 
 V. La deuda pública municipal.
 
-### Capítulo III. De los Bienes del Dominio Público y Privado de los Municipios
+### Capítulo II. De la Hacienda Pública Municipal
 
-Características de los bienes del dominio público
+Hacienda pública municipal
 
 ###### Artículo 198.
 
@@ -3207,9 +3305,9 @@ La Hacienda Pública Municipal se constituirá por los rendimientos de los biene
 
 Los recursos que integran la Hacienda Pública Municipal serán ejercidos en forma directa por el Ayuntamiento o por quien éste autorice conforme a la Ley.
 
-### Capítulo IV. De la Concesión para la Explotación, Uso y Aprovechamiento de Bienes Inmuebles del Dominio Público Municipal
+### Capítulo III. De los Bienes del Dominio Público y Privado de los Municipios
 
-Concesión de bienes inmuebles
+Características de los bienes del dominio público
 
 ###### Artículo 199.
 
@@ -3435,9 +3533,9 @@ Supletoriedad en materia patrimonial
 
 Además de lo preceptuado por esta Ley, se aplicará en lo conducente, la Ley del Patrimonio Inmobiliario del Estado y el Código Civil para el Estado de Guanajuato.
 
-### Capítulo V. De las Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios de Bienes Muebles e Inmuebles
+### Capítulo IV. De la Concesión para la Explotación, Uso y Aprovechamiento de Bienes Inmuebles del Dominio Público Municipal
 
-Disposiciones administrativas aplicables
+Concesión de bienes inmuebles
 
 ###### Artículo 222.
 
@@ -3495,9 +3593,9 @@ Aplicación complementaria
 
 En las concesiones de los bienes del dominio público municipal serán aplicables, en lo conducente, las disposiciones del título séptimo, capítulo segundo de esta Ley.
 
-### Capítulo VI. Del Presupuesto Municipal
+### Capítulo V. De las Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios de Bienes Muebles e Inmuebles
 
-Presupuesto de egresos
+Disposiciones administrativas aplicables
 
 ###### Artículo 229.
 
@@ -3537,9 +3635,9 @@ Supletoriedad en materia de contrataciones públicas
 
 En lo no previsto en esta materia, se aplicará supletoriamente la Ley de Contrataciones Públicas para el Estado de Guanajuato.
 
-### Capítulo Único. De La Facultad Reglamentaria
+### Capítulo VI. Del Presupuesto Municipal
 
-Facultad reglamentaria
+Presupuesto de egresos
 
 ###### Artículo 233.
 
@@ -3573,11 +3671,9 @@ Las actividades de programación-presupuestación, ejercicio, control, seguimien
 
 ## Título Noveno
 
-### Capítulo Único. Del Combate a la Corrupción
+### Capítulo Único. De La Facultad Reglamentaria
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2018)</small>
-
-Municipios parte del Sistema Estatal Anticorrupción
+Facultad reglamentaria
 
 ###### Artículo 236.
 
@@ -3663,9 +3759,11 @@ Los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE ENERO DE 2018)</small>
 
-### Capítulo I. De la Justicia Administrativa Municipal
+### Capítulo Único. Del Combate a la Corrupción
 
-Impartición de justicia administrativa
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2018)</small>
+
+Municipios parte del Sistema Estatal Anticorrupción
 
 ###### Artículo 240
 
@@ -3711,13 +3809,13 @@ Declaración Patrimonial y de Conflicto de Intereses y la Constancia de declarac
 
 ## Título Undécimo
 
+### Capítulo I. De la Justicia Administrativa Municipal
+
+Impartición de justicia administrativa
+
 ### Capítulo II. De los Juzgados Administrativos Municipales
 
 Juzgados administrativos municipales
-
-### Capítulo III. De la Procuración de Justicia en Materia Administrativa Municipal
-
-Defensorías de oficio
 
 ###### Artículo 241.
 
@@ -3757,9 +3855,9 @@ Los actos y resoluciones administrativas dictadas por el presidente municipal y 
 
 Las resoluciones de los Juzgados Administrativos Municipales que pongan fin al proceso administrativo podrán ser impugnados (sic) por las partes, mediante el recurso de revisión ante las Salas del Tribunal de Justicia Administrativa.
 
-### Capítulo IV. De las Infracciones y Sanciones
+### Capítulo III. De la Procuración de Justicia en Materia Administrativa Municipal
 
-Sanciones
+Defensorías de oficio
 
 ###### Artículo 244.
 
@@ -3906,6 +4004,10 @@ IV. No haber sido condenado por delito intencional que amerite pena privativa de
 V. Preferentemente haber cursado la especialidad en justicia administrativa, debiendo acreditarlo con la constancia respectiva.
 
 Los actuarios deberán satisfacer los requisitos señalados en las fracciones anteriores, con excepción de la práctica profesional.
+
+### Capítulo IV. De las Infracciones y Sanciones
+
+Sanciones
 
 ###### Artículo 254.
 
@@ -4233,8 +4335,18 @@ Región IV Irapuato
 
 P.O. 18 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 325, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 325, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. Los Ayuntamientos contarán con un periodo de 90 días para adecuar sus reglamentos, en congruencia con el presente Decreto.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 61, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES V Y VI AL ARTÍCULO 83-4 PASANDO LAS ACTUALES FRACCIONES V Y VI A SER VII Y VIII; EL ARTÍCULO 102-1; EL TÍTULO SEXTO CON UN CAPÍTULO V DENOMINADO "DE LA COMISIÓN MUNICIPAL DE LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA" INTEGRADO POR LOS ARTLCULOS 161-1, 161-2, 161-3, 161-4, 161-5 Y 161-6; RECORRIÉNDOSE EL ACTUAL CAPÍTULO V COMO CAPÍTULO VI TODOS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los Ayuntamientos contarán con un periodo de 180 días posteriores a la entrada en vigor del presente Decreto, para adecuar sus reglamentos, en congruencia con el mismo.
+
+Artículo Tercero. Los ayuntamientos contarán con un periodo de 180 días posteriores a la adecuación reglamentaria señalada en el artículo anterior a efecto de constituir la Comisión Municipal de la prevención social de la violencia y la delincuencia.
