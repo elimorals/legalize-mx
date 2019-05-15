@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-rural-sustentable-del-estado-de-oaxaca-87819"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-09"
-last_updated: "2018-11-10"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de abril de 2012.
 
@@ -325,9 +325,11 @@ El Ejecutivo Estatal establecerá las previsiones presupuestarias necesarias par
 
 Se crea el Consejo Estatal de Desarrollo Rural Sustentable, como instancia consultiva del Ejecutivo Estatal, con carácter incluyente y representativo de los intereses de los productores y agentes de la sociedad rural. Para promover en base a una participación, análisis, deliberación, promoción de consensos, acuerdos, seguimiento y evaluación, que coadyuven a favorecer, definir y orientar una mejor política, programas y acciones públicas que impulsen el desarrollo rural sustentable en el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 19.
 
-El Consejo Estatal será presidido por el titular de la Secretaría y operará en los términos que disponga su reglamento interno. Serán miembros permanentes de éste, los representantes de las dependencias federales en el Estado relacionadas con el desarrollo rural sustentable, los representantes de las dependencias y entidades que forman parte de la Comisión Estatal Intersecretarial, los representantes de los Consejos Municipales de Desarrollo Rural Sustentable, los representantes debidamente acreditados de las organizaciones estatales del sector social y privado rural, de las organizaciones agroindustriales de comercialización y por actividad agropecuaria, de los comités de los sistemas producto, instituciones de educación e investigación y organismos no gubernamentales y de las organizaciones de profesionistas legalmente constituidas o prestadores de servicios relacionados con el sector agropecuario y que incidan en materia de desarrollo rural, de acuerdo a los temas a tratar, en los términos de las leyes y las normas reglamentarias vigentes.
+El Consejo Estatal será presidido por el titular de la Secretaría y operará en los términos que disponga su reglamento interno. Serán miembros permanentes de éste, los representantes de las dependencias federales en el Estado relacionadas con el desarrollo rural sustentable, los representantes de las dependencias y entidades que forman parte de la Comisión Estatal Intersecretarial, los representantes de las Comisiones Permanentes de Desarrollo Económico, Industrial, Comercial y Artesanal y Agropecuaria, Forestal, Minería y Pesca, del Honorable Congreso del Estado, los representantes de los Consejos Municipales de Desarrollo Rural Sustentable, los representantes debidamente acreditados de las organizaciones estatales del sector social y privado rural, de las organizaciones agroindustriales de comercialización y por actividad agropecuaria, de los comités de los sistemas producto, instituciones de educación e investigación y organismos no gubernamentales y de las organizaciones de profesionistas legalmente constituidas o prestadores de servicios relacionados con el sector agropecuario y que incidan en materia de desarrollo rural, de acuerdo a los temas a tratar, en los términos de las leyes y las normas reglamentarias vigentes.
 
 La participación del Consejo Estatal, junto con la Comisión Intersecretarial Estatal, consistirá en la emisión de opiniones y la coordinación de las actividades de difusión y promoción, hacia los sectores sociales representados, de los programas, acciones y normas relacionadas con el Programa Estatal Concurrente, así como de los Sistemas contemplados en la presente Ley.
 
@@ -401,7 +403,7 @@ La Comisión Estatal Intersecretarial será presidida por el Titular del Poder E
 
 ###### ARTÍCULO 24.
 
-La Comisión Estatal lntersecretarial propondrá al Ejecutivo Estatal las políticas y criterios para la formulación de planes, programas y acciones de las dependencias y entidades del sector público y evaluará periódicamente, los programas relacionados con el desarrollo rural sustentable del Estado.
+La Comisión Estatal Intersecretarial propondrá al Ejecutivo Estatal las políticas y criterios para la formulación de planes, programas y acciones de las dependencias y entidades del sector público y evaluará periódicamente, los programas relacionados con el desarrollo rural sustentable del Estado.
 
 En su caso, la Comisión Estatal Intersecretarial, someterá a la aprobación del Ejecutivo Estatal nuevos programas de fomento agropecuario y de desarrollo rural sustentable para ser incluidos en el Proyecto de Presupuesto de Egresos del Estado.
 
@@ -415,7 +417,7 @@ La Comisión Estatal Intersecretarial a través de las dependencias y entidades 
 
 ###### ARTÍCULO 27.
 
-La Comisión Estatal lntersecretarial, mediante la concertación con las dependencias y entidades del sector público y con los sectores privado y social, aprovechará las capacidades institucionales de éstos y las propias de las estructuras administrativas que le asigna su reglamento, para integrar los sistemas y servicios especializados y los que considere necesario:
+La Comisión Estatal Intersecretarial, mediante la concertación con las dependencias y entidades del sector público y con los sectores privado y social, aprovechará las capacidades institucionales de éstos y las propias de las estructuras administrativas que le asigna su reglamento, para integrar los sistemas y servicios especializados y los que considere necesario:
 
 I. Sistema estatal de investigación, capacitación, asistencia técnica, y transferencia de tecnología para el Desarrollo Rural Sustentable;
 
@@ -551,7 +553,7 @@ II. El desarrollo de recursos humanos, la asistencia técnica y el fomento a la 
 
 III. La inversión tanto pública como privada para la ampliación y mejoramiento de la infraestructura hidroagrícola, el mejoramiento de los recursos naturales en las cuencas hídricas, el almacenaje, la electrificación, la comunicación y los caminos rurales;
 
-IV. El fomento de la inversión de los productores y demás agentes de la sociedad rural, para la capitalización, actualización tecnológica y reconversión sustentable de las unidades de producción y empresas rurales que permitan su constitución, incrementar su productividad y su mejora continua: (sic)
+IV. El fomento de la inversión de los productores y demás agentes de la sociedad rural, para la capitalización, actualización tecnológica y reconversión sustentable de las unidades de producción y empresas rurales que permitan su constitución, incrementar su productividad y su mejora continua:
 
 V. El fomento de la sanidad vegetal, la salud animal y la inocuidad de los productos;
 
@@ -1690,3 +1692,11 @@ P.O. 10 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1594.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO SUSTENTABLE DEL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 617.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
