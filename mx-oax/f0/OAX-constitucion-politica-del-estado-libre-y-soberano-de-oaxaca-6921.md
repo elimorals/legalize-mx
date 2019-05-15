@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2019-05-04"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "OAX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 SE DEJA SIN EFECTO EL DECRETO 1539, EXPEDIDO CON FECHA 31 DE JULIO DEL AÑO 2018, PUBLICADO EN EL EXTRA DEL PERIÓDICO OFICIAL DEL ESTADO EL 01 DE AGOSTO DEL AÑO 2018, POR EL CUAL FUE APROBADA LA REFORMA A LA FIGURA DE LA JUNTA DE ADMINISTRACIÓN, VIGILANCIA Y DISCIPLINA DEL PODER JUDICIAL. QUEDANDO SUBSISTENTE LA FIGURA DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO, Y EL PROCEDIMIENTO LEGISLATIVO QUE DIO LUGAR AL MISMO A PARTIR DE LA RECEPCIÓN DE LA INICIATIVA EN LA COMISIÓN PERMANENTE DE ESTUDIOS CONSTITUCIONALES, POR LO QUE SE RESTITIUYE EL TEXTO DE LAS DISPOSICIONES REFORMADAS POR EL DECRETO NÚM, 1539 AL DE LA FECHA ANTERIOR AL DE DICHO DECRETO DE REFORMA.]
-
-[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -65,7 +63,7 @@ Las facultades que la Constitución Política de los Estados Unidos Mexicanos no
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
-El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deben hacer, lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohibe y deben hacer, lo que la Ley les ordena.
+El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deben hacer, lo que la Ley les ordena. Los particulares pueden hacer, lo que la Ley no les prohibe y deben hacer, lo que la Ley les ordena.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -189,9 +187,9 @@ No se considerará confiscación la aplicación de bienes de una persona cuando 
 
 I. Será jurisdiccional y autónomo del de materia penal;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE MAYO DE 2019)</small>
 
-II.- Procederá en los casos de delitos de secuestro, robo de vehículos, trata de personas, enriquecimiento ilícito, peculado, cohecho y delitos contra la salud en su modalidad de narco menudeo, respecto de los bienes siguientes:
+II. Procederá en los casos de delitos de secuestro, robo de vehículos, trata de personas, enriquecimiento ilícito, peculado, cohecho, ejercicio ilícito de atribuciones y facultades, abuso de autoridad, coalición de servidores públicos, tráfico de influencias, concusión, intimidación, ejercicio abusivo de funciones y delitos contra la salud en su modalidad de narcomenudeo respecto de los bienes siguientes:
 
 a) Aquellos que sean instrumento, objeto o producto del delito, aún cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió.
 
@@ -2725,9 +2723,9 @@ Para ser Magistrado del Tribunal Superior de Justicia del Estado, se necesita:
 
 I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DE LA PRESENTE FRACCIÓN FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
-II.- Tener treinta y cinco años de edad cumplidos y menos de setenta y cinco;
+II.- Tener cuando menos treinta y cinco años cumplidos el día de su nombramiento;
 
 III.- Poseer el día del nombramiento, con antigüedad mínima de diez años, título y cédula profesionales de licenciado en derecho, expedidas por la autoridad o institución legalmente facultada para ello;
 
@@ -2747,9 +2745,11 @@ Los nombramientos de los Magistrados serán hechos preferentemente, entre aquell
 
 Durante el ejercicio de su encargo no podrán ocupar cargo en partidos políticos ni desempeñar otro empleo, cargo o comisión en el servicio público; excepto la docencia o la investigación académica. Sólo podrán ser removidos de conformidad con lo dispuesto en esta Constitución y las leyes en la materia.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
-Las personas que hayan ocupado el cargo de Magistrado o Juez de Primera Instancia, no podrán, dentro del año siguiente a la fecha de su retiro, actuar como patronos, abogados o representantes, en cualquier proceso ante los órganos del Poder Judicial del Estado.
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
+
+Las personas que hayan ocupado el cargo de Magistrado, Juez de Primera Instancia o Consejero de la Judicatura, no podrán, dentro del año siguiente a la fecha de su retiro, actuar como patronos, abogados o representantes, en cualquier proceso ante los órganos del Poder Judicial del Estado.
 
 > <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -3885,7 +3885,7 @@ Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto
 
 Todos los servidores públicos del Estado y de los Municipios, de sus dependencias, así como las entidades paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
 
-> <small>(REFORMADO [N. DE E., ESTE PÁRRAFO], P.O. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE OCTUBRE DE 2017)</small>
 
 Dicha remuneración será determinada anual y equitativamente en los Presupuestos de Egresos correspondientes, observando en todo momento el principio de austeridad, por lo que el Congreso del Estado vigilará que se cumpla con dicho principio al momento de aprobarlos, bajo las siguientes bases:
 
@@ -5220,3 +5220,9 @@ PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación.
 SEGUNDO.- Publíquese en el periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Con copia certificada del Decreto que se expida, notifíquese al Juzgado Décimo Primero de Distrito en el Estado, para los efectos legales a que haya lugar.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 602.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
