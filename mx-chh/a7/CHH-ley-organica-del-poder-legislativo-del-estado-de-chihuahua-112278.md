@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2019-03-13"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -903,7 +903,9 @@ I.- De Dictamen Legislativo.
 
 II.- De Fiscalización.
 
-III.- Jurisdiccionales.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
+
+III. Jurisdiccional.
 
 IV.- Especiales.
 
@@ -1017,11 +1019,17 @@ Las Comisiones Ordinarias tendrán una Presidencia y una Secretaría, fungiendo 
 
 Se constituirán, a más tardar, en la cuarta sesión posterior a la de instalación de la Legislatura en funciones, con un máximo de cinco integrantes y un mínimo de tres.
 
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+Tratándose de la Comisión Jurisdiccional se constituirá en la misma sesión referida en el párrafo anterior.
+
 ###### ARTÍCULO 98.
 
 Las y los diputados podrán formar parte de hasta cinco Comisiones Ordinarias, pero solamente podrán presidir una.
 
-Para estos efectos, no se computará la pertenencia a Comités y Comisiones especiales o jurisdiccionales.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
+
+Para estos efectos, no se computará la pertenencia a Comités y Comisiones especiales o Jurisdiccional.
 
 ###### ARTÍCULO 99.
 
@@ -1197,17 +1205,25 @@ XII.- Recibir de los Entes Fiscalizables las aclaraciones, información y docume
 
 XIII.- Las demás que establezcan esta Ley, sus reglamentos y demás disposiciones legales aplicables.
 
-### CAPÍTULO IV. DE LAS COMISIONES JURIDICCIONALES (SIC) Y ESPECIALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MAYO DE 2019)</small>
+
+### CAPÍTULO IV. DE LAS COMISIONES ESPECIALES Y LA JURISDICCIONAL
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 115.
 
-Las Comisiones Jurisdiccionales conocerán:
+La Comisión Jurisdiccional se conformará con cinco miembros propietarios y tres suplencias, misma que reflejará la composición plural del Congreso. Las personas suplentes entrarán en funciones según el orden de prelación en que hayan sido designadas.
 
-I.- De las denuncias o acusaciones que se presenten contra servidores públicos que gocen de fuero constitucional.
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
 
-II.- De las denuncias o acusaciones que se presenten contra servidores públicos, de conformidad a lo que establezca la Ley de Responsabilidades de los Servidores Públicos.
+ARTÍCULO 115 bis. La Comisión Jurisdiccional conocerá:
 
-III.- De las solicitudes por parte del Ministerio Público para declarar si ha lugar o no a proceder penalmente en contra de servidores públicos.
+I. De las denuncias o acusaciones que se presenten en contra de las personas servidoras públicas señaladas en el artículo 178, fracción I de la Constitución Política del Estado de Chihuahua.
+
+II. De las solicitudes por parte del Ministerio Público para declarar si ha lugar o no a proceder penalmente en contra de las personas servidoras públicas, que señala el artículo 179 de la Constitución Política del Estado de Chihuahua.
+
+En lo no previsto, expresamente, para esta Comisión, se estará a lo dispuesto por el Título Quinto de esta Ley y la Ley de Juicio Político y Declaración de Procedencia para el Estado de Chihuahua.
 
 ###### ARTÍCULO 116.
 
@@ -2828,3 +2844,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las Comisarías de las entidades paraestatales de la Administración Pública Estatal seguirán desempeñando sus funciones hasta en tanto la Secretaría de la Función Pública del Estado designe a las personas titulares de los Órganos Internos de Control.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXVI/RFLEY/0333/2019 II P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La conformación de la Comisión Jurisdiccional a que se hace referencia en el presente Decreto, se mantendrá, durante la Sexagésima Sexta Legislatura de este H. Congreso, de conformidad a lo dispuesto por el Decreto No. LXVI/ITCYC/0312/2019 II P.O., publicado en el Periódico Oficial del Estado número 22, el día 16 de marzo de 2019.
