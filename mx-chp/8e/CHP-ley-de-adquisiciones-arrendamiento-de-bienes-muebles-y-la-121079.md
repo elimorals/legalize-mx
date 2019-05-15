@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-adquisiciones-arrendamiento-de-bienes-muebles-y-la-12107
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-21"
-last_updated: "2018-03-14"
+last_updated: "2019-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES Y LA CONTRATACION DE SERVICIOS PARA EL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 15 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES Y LA CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019 (ABROGADO).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 21 de diciembre de 2016.
 
@@ -55,7 +57,7 @@ II. El Poder Legislativo del Estado.
 
 III. El Poder Judicial del Estado.
 
-IV. Los Organismos constituidos como Autónomos, cuando los recursos que pretenda (sic) ejercer sean de origen exclusivamente estatal, conforme a los convenios que celebren con el Ejecutivo del Estado.
+IV. Los Organismos constituidos como Autónomos, cuando los recursos que pretenda ejercer sean de origen exclusivamente estatal, conforme a los convenios que celebren con el Ejecutivo del Estado.
 
 Los sujetos obligados descritos en las fracciones de la I a la IV del presente artículo deberán informar al órgano interno competente en términos del artículo 81 de la presente ley.
 
@@ -73,7 +75,7 @@ I. Ley: A la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y Contrataci�
 
 II. Organismos Autónomos: A los organismos creados, mediante ley o decreto, con independencia en sus decisiones y estructura orgánica.
 
-III. Organismos Requirentes: A las Unidades Administrativas integrantes del Poder Ejecutivo, Legislativo, Judicial y Organismos Autónomos de que se trate (sic), que soliciten bienes o servicios.
+III. Organismos Requirentes: A las Unidades Administrativas integrantes del Poder Ejecutivo, Legislativo, Judicial y Organismos Autónomos de que se trate, que soliciten bienes o servicios.
 
 IV. Sector: Al grupo de dependencias y entidades coordinadas por aquella que en cada caso designe el Ejecutivo del Estado, o de conformidad con el acuerdo de sectorización vigente.
 
@@ -257,7 +259,7 @@ Los integrantes de los Comités deberán presentar una declaración bajo protest
 
 ###### Artículo 7°.
 
-Para el caso específico de las adquisiciones, arrendamiento de bienes muebles y contratación de servicios de los Organismos Públicos de la Administración Pública Estatal, relacionados con la materia de seguridad pública, tratándose de la aplicación de recursos federales y de los Fondos de Aportaciones para la Seguridad Pública para los Estados (FASP) y de recursos estatales, habrá un Comité de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios en Materia de Seguridad Pública del Gobierno del Estado, que invariablemente estará integrado por un Titular, quien deberá ser el Secretario Ejecutivo del Sistema Estatal de Seguridad Pública quien lo presidirá, y por los responsables de las áreas técnicas, administrativas, jurídicas y demás que tengan bajo su responsabilidad la ejecución de la materia de Seguridad Pública, así como por aquellos organismos que coadyuven al cumplimiento del objeto de la misma. En la conformación, operación y ejecución del Comité de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios en Materia de Seguridad Pública del Gobierno del Estado, se deberá observar lo estipulado en esta Ley, así como la normatividad aplicable en la materia. Este Comité será el responsable de llevar a cabo el proceso de adjudicación en cualquiera de las modalidades a la (sic) que se refiere la presente Ley, debiendo emitir el fallo correspondiente sobre los asuntos de su competencia que sometan a su consideración las instancias responsables.
+Para el caso específico de las adquisiciones, arrendamiento de bienes muebles y contratación de servicios de los Organismos Públicos de la Administración Pública Estatal, relacionados con la materia de seguridad pública, tratándose de la aplicación de recursos federales y de los Fondos de Aportaciones para la Seguridad Pública para los Estados (FASP) y de recursos estatales, habrá un Comité de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios en Materia de Seguridad Pública del Gobierno del Estado, que invariablemente estará integrado por un Titular, quien deberá ser el Secretario Ejecutivo del Sistema Estatal de Seguridad Pública quien lo presidirá, y por los responsables de las áreas técnicas, administrativas, jurídicas y demás que tengan bajo su responsabilidad la ejecución de la materia de Seguridad Pública, así como por aquellos organismos que coadyuven al cumplimiento del objeto de la misma. En la conformación, operación y ejecución del Comité de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios en Materia de Seguridad Pública del Gobierno del Estado, se deberá observar lo estipulado en esta Ley, así como la normatividad aplicable en la materia. Este Comité será el responsable de llevar a cabo el proceso de adjudicación en cualquiera de las modalidades a la que se refiere la presente Ley, debiendo emitir el fallo correspondiente sobre los asuntos de su competencia que sometan a su consideración las instancias responsables.
 
 ### CAPÍTULO II. DE LAS SESIONES DEL COMITÉ
 
@@ -569,7 +571,7 @@ En ningún caso el Comité o los licitantes podrán suplir o corregir las defici
 
 ###### Artículo 30.
 
-Todo interesado que satisfaga los requisitos de la convocatoria y las bases de la licitación, tendrá derecho a presentar propuestas. Para tal efecto, no se podrán exigir requisitos adicionales a los previstos en la Ley; asimismo, le (sic) proporcionarán a todos los interesados igual acceso a la información relacionada con la licitación, a fin de evitar favorecer a algún participante.
+Todo interesado que satisfaga los requisitos de la convocatoria y las bases de la licitación, tendrá derecho a presentar propuestas. Para tal efecto, no se podrán exigir requisitos adicionales a los previstos en la Ley; asimismo, le proporcionarán a todos los interesados igual acceso a la información relacionada con la licitación, a fin de evitar favorecer a algún participante.
 
 ###### Artículo 31.
 
@@ -867,7 +869,7 @@ II. Cuando ocurran casos fortuitos o de fuerza mayor.
 
 III. A solicitud debidamente fundada y por escrito que formule el proveedor, los Organismos Requirentes podrán autorizar por una sola ocasión, prórroga o espera a fin de que el proveedor subsane el incumplimiento en que haya incurrido.
 
-En caso de ser autorizada la prórroga o espera al proveedor, se elaborará un convenio modificatorio, debiéndose verificar que la fianza (sic) otorgada por institución autorizada que haya presentado el proveedor para garantizar el cumplimiento de las obligaciones.
+En caso de ser autorizada la prórroga o espera al proveedor, se elaborará un convenio modificatorio, debiéndose verificar que la fianza otorgada por institución autorizada que haya presentado el proveedor para garantizar el cumplimiento de las obligaciones.
 
 Cuando no se autorice la prórroga o espera o una vez concluida la misma persista el incumplimiento, se procederá a la rescisión y aplicación de las penas establecidas en los contratos.
 
@@ -939,7 +941,7 @@ En caso de incumplimiento en los pagos a que se refiere el artículo anterior, e
 
 ###### Artículo 62.
 
-Tratándose de pagos en excesos (sic) que haya recibido el proveedor éste deberá reintegrar las cantidades pagadas en demasía, más el monto correspondiente conforme a lo señalado en el párrafo anterior. Dicho monto se calculará sobre las cantidades pagadas en demasía en cada caso y se computará por días naturales desde la fecha de pago, hasta la fecha en que se pongan efectivamente las cantidades a disposición de los Organismos Requirentes.
+Tratándose de pagos en excesos que haya recibido el proveedor éste deberá reintegrar las cantidades pagadas en demasía, más el monto correspondiente conforme a lo señalado en el párrafo anterior. Dicho monto se calculará sobre las cantidades pagadas en demasía en cada caso y se computará por días naturales desde la fecha de pago, hasta la fecha en que se pongan efectivamente las cantidades a disposición de los Organismos Requirentes.
 
 ###### Artículo 63.
 
@@ -987,7 +989,7 @@ Los proveedores cubrirán las cuotas compensatorias a que, conforme a la ley de 
 
 Los Organismos Requirentes estarán obligados a mantener los bienes adquiridos o arrendados en condiciones apropiadas de operación y mantenimiento, así como vigilar que los mismos se destinen al cumplimiento de los programas y acciones previamente determinados.
 
-Para los efectos del párrafo anterior, los Organismos Requirentes en los contratos de adquisiciones, arrendamiento de bienes muebles o prestación de servicios deberán estipular las condiciones que garanticen su correcta operación y funcionamiento y, de ser necesario, la capacitación del personal que operará los equipos, así como el suministro oportuno por parte del proveedor de las piezas, repuestos, refacciones y, en general de los elementos necesarios para mantener en óptimas condiciones de operación permanente los bienes adquiridos o arrendados. Situación que deberá ser establecida de forma obligatoria en las bases que al efecto corresponda (sic).
+Para los efectos del párrafo anterior, los Organismos Requirentes en los contratos de adquisiciones, arrendamiento de bienes muebles o prestación de servicios deberán estipular las condiciones que garanticen su correcta operación y funcionamiento y, de ser necesario, la capacitación del personal que operará los equipos, así como el suministro oportuno por parte del proveedor de las piezas, repuestos, refacciones y, en general de los elementos necesarios para mantener en óptimas condiciones de operación permanente los bienes adquiridos o arrendados. Situación que deberá ser establecida de forma obligatoria en las bases que al efecto corresponda.
 
 ###### Artículo 73.
 
@@ -1348,3 +1350,19 @@ P.O. 14 DE MARZO DE 2018.
 Artículo Primero.- El presente Decreto entrará en vigor al siguiente (sic) de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 179 LEY DE ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se contrapongan al presente.
+
+Artículo Tercero.- Se abroga la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y la Contratación de Servicios para el Estado de Chiapas publicada en el Periódico Oficial No. 271, Tomo III, 2ª Sección, mediante el Decreto 033, de fecha 21 de diciembre de 2016.
+
+Artículo Cuarto.- Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión conforme a las disposiciones de la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y la Contratación de Servicios para el Estado de Chiapas, vigente al momento de su inicio.
+
+Artículo Quinto.- Las disposiciones relativas al Padrón de Proveedores, contempladas en la presente Ley, entrarán en vigor, a partir del 1 de enero de 2020, sin perjuicio de que la integración del mismo inicie a partir de la entrada en vigor del presente Decreto.
+
+Artículo Sexto.- Las disposiciones reglamentarias de la Ley que por el presente Decreto se expide, deberán ser emitidas en un término máximo de 120 días naturales a partir de la entrada en vigor de la misma; en tanto, seguirán siendo aplicables, en lo que resulte, las disposiciones contenidas en el Reglamento de la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios para el Estado de Chiapas, publicado en el periódico oficial No. 183, de fecha 30 de julio de 2003. Las controversias y situaciones no previstas en torno a su aplicación, serán resueltas por la Oficialía.
