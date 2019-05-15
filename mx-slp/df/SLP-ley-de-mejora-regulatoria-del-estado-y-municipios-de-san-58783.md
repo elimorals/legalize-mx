@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-mejora-regulatoria-del-estado-y-municipios-de-san-58783"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-01"
-last_updated: "2015-09-22"
+last_updated: "2019-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 0165 DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 15 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 1 de noviembre de 2007.
 
@@ -904,3 +906,47 @@ P.O. 22 DE SEPTIEMBRE DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0165.- LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Mejora Regulatoria para el Estado y Municipios de San Luis Potosí, publicada en el Periódico Oficial del Estado, el uno de noviembre de dos mil siete.
+
+TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
+
+CUARTO. La Secretaría de Finanzas del Gobierno del Estado deberá realizar las adecuaciones presupuestales necesarias, con el fin de dar cumplimiento a la presente Ley.
+
+QUINTO. Para efectos del cumplimiento del artículo 27 de este ordenamiento, se realizará la propuesta y nombramiento del titular de la Comisión Estatal, dentro de los treinta días naturales siguientes a la entrada en vigor de esta Ley, que permanecerá en su puesto hasta el fin del periodo constitucional de la administración estatal, salvo caso de renuncia o remoción por parte del Poder Ejecutivo del Estado.
+
+SEXTO. El Ejecutivo Estatal expedirá el Reglamento de la presente Ley en un periodo que no exceda de ciento veinte días naturales a partir de la vigencia de la presente Ley. Hasta en tanto se emita dicho Reglamento, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no la contravengan.
+
+SÉPTIMO. El Consejo Estatal deberá estar instalado en un plazo que no exceda de noventa días naturales a la entrada en vigor de esta Ley.
+
+OCTAVO. La Estrategia Estatal deberá ser propuesta al Consejo Estatal dentro de un plazo que no exceda de sesenta días naturales que sigan a la publicación de la Estrategia Nacional, misma que deberá de ser aprobada a más tardar treinta días naturales posteriores a su presentación.
+
+NOVENO. A partir de la entrada en vigor de esta Ley, los municipios contarán con un plazo de un año para adecuar sus reglamentos al contenido de dicha Ley. Los Consejos Municipales, en su caso, deberán instalarse formalmente dentro de un plazo de noventa días naturales siguientes a la entrada en vigor de las adecuaciones correspondientes en su normativa municipal.
+
+DÉCIMO. Las manifestaciones de impacto regulatorio presentadas por las autoridades estatales con anterioridad a la entrada en vigor de la presente Ley, serán concluidas conforme a las disposiciones aplicables vigentes a la fecha de su presentación.
+
+DÉCIMO PRIMERO. Las disposiciones normativas vigentes que no se contrapongan a lo dispuesto por esta Ley, continuarán surtiendo sus efectos.
+
+DÉCIMO SEGUNDO. Lo previsto en el artículo 77 de este Ordenamiento, resultará aplicable a las Regulaciones que se emitan con posteridad a la entrada en vigor de la presente Ley, sin perjuicio de que las Autoridades de Mejora Regulatoria estén en posibilidades de revisar Regulaciones previas.
+
+DÉCIMO TERCERO. La Comisión Estatal publicará el Reglamento Interior de la Comisión Estatal de Mejora Regulatoria para el Estado de San Luis Potosí, dentro del plazo que no exceda a un año contado a partir de la entrada en vigor de la presente Ley, así como los lineamientos para al menos las siguientes herramientas:
+
+1. Programas de Mejora Regulatoria.
+
+2. Agenda Regulatoria.
+
+DÉCIMO CUARTO. Las Regulaciones, lineamientos y acuerdos para que produzcan efectos jurídicos, deberán ser publicadas por los Sujetos Obligados en el Periódico Oficial del Gobierno del Estado “Plan de San Luis.”
+
+DÉCIMO QUINTO. Para el cumplimiento de las obligaciones relativas al Catálogo Nacional, los Sujetos Obligados observarán los plazos estipulados en el artículo Transitorio Sexto de la Ley General de Mejora Regulatoria, consistentes en:
+
+1. Dentro de un año siguiente al inicio del funcionamiento para los Sujetos Obligados de las entidades federativas y los Sujetos Obligados a los que se refiere el Capítulo VI del Título Segundo de la Ley General de Mejora Regulatoria.
+
+2. Dentro de dos años siguientes al inicio del funcionamiento para los Sujetos Obligados del orden municipal.
+
+DÉCIMO SEXTO. A partir de la entrada en vigor de la presente Ley, las menciones en materia de mejora regulatoria, contenidas en cualquier ordenamiento jurídico, respecto a la Secretaría de Desarrollo Económico, se entenderán referidas a la Comisión Estatal.
