@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2018-12-31"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -1461,35 +1461,57 @@ Esta adopción se regirá por lo establecido en los Tratados Internacionales, su
 
 Artículo 214 BIS.- El Estado Libre y Soberano de Hidalgo protegerá a los menores en el plano internacional de los efectos perjudiciales que podría ocasionarle un traslado o una retención ilícita y de aplicar los procedimientos que permitan garantizar la restitución inmediata del menor a un estado en que tenga su residencia habitual, así como, asegurar la protección del derecho de visita; procediendo de acuerdo con lo previsto en los tratados internacionales, suscritos y ratificados por el Estado Mexicano y en lo conducente, por las disposiciones de la Legislación Familiar vigente en el Estado de Hidalgo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MAYO DE 2019)</small>
+
+### CAPÍTULO VIII. DEL RECONOCIMIENTO DE LA IDENTIDAD DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+###### Artículo 214 Ter.
+
+Toda persona tiene derecho al reconocimiento de su identidad de género.
+
+Se entenderá por identidad de género la convicción personal e interna, tal como cada persona se percibe a sí misma, la cual puede corresponder o no, al sexo asignado en el registro primario. En ningún caso será requisito acreditar intervención quirúrgica, terapia, diagnóstico u otro procedimiento para el reconocimiento de la identidad de género.
+
+El reconocimiento respectivo se llevará a cabo en la Dirección del Registro del Estado Familiar del Poder Ejecutivo del Estado, cumpliendo todas las formalidades que exige la normatividad.
+
+Los efectos de esta nueva acta de nacimiento, serán oponibles a terceros desde de su registro.
+
+Los derechos y obligaciones contraídas con anterioridad al reconocimiento de identidad de género y a la expedición de la nueva acta, no se modificarán ni se extinguirán con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familias en todos sus órdenes y grados, los que se mantendrán inmodificables.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+###### Artículo 214 Quater.
+
+Toda persona mayor de edad que requiera el reconocimiento de su identidad de género, podrá presentar solicitud en la Dirección del Registro del Estado Familiar del Poder Ejecutivo del Estado, quien realizará la anotación marginal en el Libro correspondiente, procediendo a reservar el registro primario e inscribiendo el nuevo registro de nacimiento, asentando el nombre elegido y el género adoptado, persistiendo los demás datos asentados.
+
+Los datos contenidos en el registro primario, solo podrán ser proporcionados a solicitud de autoridad judicial.
+
+Una vez cumplido el trámite, se enviarán los oficios con la información, en calidad de reservado, a la Secretaría de Gobernación, Secretaría de Finanzas, Secretaría de Educación Pública, Secretaría de Salud, Secretaría de Relaciones Exteriores, Instituto Nacional Electoral, Tribunal Superior de Justicia de Hidalgo, Procuraduría General de la República y del Estado, Centro Nacional de Información del Sistema Nacional, al Consejo de la Judicatura Federal y demás competentes, para los efectos legales procedentes.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+###### Artículo 214 Quinquies.
+
+Para realizar la solicitud de reconocimiento de la identidad de género, sin menoscabo de los requisitos que señale la reglamentación correspondiente, las personas interesadas deberán presentar:
+
+I.- Solicitud debidamente requisitada;
+
+II.- Copia certificada del acta de nacimiento primigenia, para efecto de que se haga la reserva correspondiente;
+
+III.- Original y copia fotostática de su identificación oficial; y
+
+IV.- Original y copia de su comprobante de domicilio actualizado.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE MARZO DE 2011)</small>
-
-### CAPITULO I. DE LA PATRIA POTESTAD
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ## TITULO OCTAVO. DE LA PATRIA POTESTAD Y DE LAS OBLIGACIONES DE CRIANZA
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO II. DE LAS OBLIGACIONES DE CRIANZA
+### CAPITULO I. DE LA PATRIA POTESTAD
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
-
-Artículo 247 BIS.- Quienes ejercen la patria potestad o la guarda y custodia provisional o definitiva de un menor, independientemente de que vivan o no en el mismo domicilio, deben dar cumplimiento a las siguientes obligaciones de crianza:
-
-I.- Garantizar la seguridad física, psicológica y sexual;
-
-II.- Fomentar hábitos adecuados de alimentación, de higiene personal y de desarrollo físico. Así como impulsar habilidades de desarrollo intelectual y escolares;
-
-III.- Realizar demostraciones afectivas, con respeto y aceptación de éstas por parte del menor, y
-
-IV.- Determinar límites y normas de conducta preservando el interés superior del menor;
-
-V.- Se considerará incumplimiento de las obligaciones de crianza, el que sin justificación y de manera permanente y sistemática, no realicen las actividades señaladas; lo que el Juez valorará en los casos de suspensión de la patria potestad, de la determinación de la guarda y custodia provisional y definitiva, y el régimen de convivencia.
-
-No se considera incumplimiento de estas obligaciones el que cualquiera de los progenitores tenga jornadas laborales extensas.
-
-Quedan exceptuados de esta obligación los que fueron condenados a la pérdida de la Patria Potestad, u otorgaron su consentimiento para que sus hijos fueran dados en adopción.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 215.
 
@@ -1717,11 +1739,29 @@ II.- Cuando por su mal estado de salud, no puedan atender debidamente a su desem
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LAS OBLIGACIONES DE CRIANZA
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
+
+Artículo 247 BIS.- Quienes ejercen la patria potestad o la guarda y custodia provisional o definitiva de un menor, independientemente de que vivan o no en el mismo domicilio, deben dar cumplimiento a las siguientes obligaciones de crianza:
+
+I.- Garantizar la seguridad física, psicológica y sexual;
+
+II.- Fomentar hábitos adecuados de alimentación, de higiene personal y de desarrollo físico. Así como impulsar habilidades de desarrollo intelectual y escolares;
+
+III.- Realizar demostraciones afectivas, con respeto y aceptación de éstas por parte del menor, y
+
+IV.- Determinar límites y normas de conducta preservando el interés superior del menor;
+
+V.- Se considerará incumplimiento de las obligaciones de crianza, el que sin justificación y de manera permanente y sistemática, no realicen las actividades señaladas; lo que el Juez valorará en los casos de suspensión de la patria potestad, de la determinación de la guarda y custodia provisional y definitiva, y el régimen de convivencia.
+
+No se considera incumplimiento de estas obligaciones el que cualquiera de los progenitores tenga jornadas laborales extensas.
+
+Quedan exceptuados de esta obligación los que fueron condenados a la pérdida de la Patria Potestad, u otorgaron su consentimiento para que sus hijos fueran dados en adopción.
 
 ## TITULO NOVENO. DE LA TUTELA
 
-### CAPITULO II. DE LA TUTELA TESTAMENTARIA
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 248.
 
@@ -1791,7 +1831,7 @@ VII. Por ministerio de Ley.
 
 El Juez de oficio bajo pena de incurrir en responsabilidad y el Ministerio Público vigilarán el ejercicio de la tutela, teniendo acceso directo a las funciones del tutor, para cerciorarse del buen funcionamiento del (sic) éste.
 
-### CAPITULO III. DE LA TUTELA LEGITIMA DE LOS MENORES
+### CAPITULO II. DE LA TUTELA TESTAMENTARIA
 
 ###### Artículo 255.
 
@@ -1821,9 +1861,7 @@ Lo dispuesto en el párrafo anterior no regirá cuando el testador haya establec
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo aplicándose a esta tutela lo dispuesto en los Artículos anteriores.
 
-### CAPITULO IV. DE LA TUTELA LEGITIMA DE LOS MAYORES DE EDAD INCAPACITADOS
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+### CAPITULO III. DE LA TUTELA LEGITIMA DE LOS MENORES
 
 ###### Artículo 261.
 
@@ -1849,9 +1887,9 @@ Excepcionalmente, el juez, en resolución motivada, podrá alterar el orden de e
 
 Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que le parezca más apto para el cargo; pero si el menor hubiere cumplido dieciséis años, él hará la elección.
 
-### CAPITULO V. DE LA TUTELA DE LOS MENORES EXPOSITOS O ABANDONADOS, ACOGIDOS O DEPOSITADOS EN INSTITUCIONES DE ASISTENCIA SOCIAL PUBLICA O PRIVADA
+### CAPITULO IV. DE LA TUTELA LEGITIMA DE LOS MAYORES DE EDAD INCAPACITADOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 264.
 
@@ -1875,7 +1913,9 @@ A falta de tutor testamentario y de persona que con arreglo a los Artículos ant
 
 Lo anterior no será aplicable si existe nombramiento de tutela voluntaria.
 
-### CAPITULO VI. DE LA TUTELA DATIVA
+### CAPITULO V. DE LA TUTELA DE LOS MENORES EXPOSITOS O ABANDONADOS, ACOGIDOS O DEPOSITADOS EN INSTITUCIONES DE ASISTENCIA SOCIAL PUBLICA O PRIVADA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 269.
 
@@ -1895,7 +1935,7 @@ Los responsables de las instituciones de asistencia social pública o privada, a
 
 Los responsables de las instituciones de asistencia ya sean públicas o privadas donde se reciban a menores de edad que hayan sido víctimas u ofendidos de delito conforme a las Leyes respectivas, tendrán la custodia de éstos en los términos que prevengan las Leyes y estatutos de las mismas. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento.
 
-### CAPITULO VII. DE LA TUTELA VOLUNTARIA
+### CAPITULO VI. DE LA TUTELA DATIVA
 
 ###### Artículo 272.
 
@@ -1925,7 +1965,7 @@ Si durante el ejercicio de la tutela, se imposibilita al tutor, el Juez Familiar
 
 Desaparecida la imposibilidad señalada en el numeral 283 de este ordenamiento, el tutor volverá a ejercer la tutela.
 
-### CAPITULO VIII. DE LAS PERSONAS INHABILES PARA EL DESEMPEÑO DE LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DEL CARGO
+### CAPITULO VII. DE LA TUTELA VOLUNTARIA
 
 ###### Artículo 279.
 
@@ -1953,7 +1993,7 @@ A falta o incapacidad del tutor designado se estará a las reglas de tutela leg�
 
 Al hacerse la designación de tutor voluntario podrá instruirse sobre el cuidado de su persona, la forma de administrar sus bienes, en su caso el monto de los honorarios del tutor y en general todo lo referente a sus derechos y obligaciones.
 
-### CAPITULO IX. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
+### CAPITULO VIII. DE LAS PERSONAS INHABILES PARA EL DESEMPEÑO DE LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DEL CARGO
 
 ###### Artículo 285.
 
@@ -2031,7 +2071,7 @@ El tutor tomará a su cargo la persona y el patrimonio del incapacitado, supervi
 
 En el ejercicio de la tutela son aplicables las disposiciones sobre la patria potestad, con las reservas establecidas en el Artículo 255, segundo párrafo, de este ordenamiento.
 
-### CAPITULO X. DEL DESEMPEÑO DE LA TUTELA
+### CAPITULO IX. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
 
 ###### Artículo 293.
 
@@ -2101,9 +2141,7 @@ En tanto no se otorgue la garantía por el tutor, administrará previo inventari
 
 El tutor presentará cuenta anual y acreditará la existencia de la garantía.
 
-### CAPITULO XI. DE LAS CUENTAS DE LA TUTELA
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+### CAPITULO X. DEL DESEMPEÑO DE LA TUTELA
 
 ###### Artículo 302.
 
@@ -2265,7 +2303,9 @@ El tutor tiene derecho a una retribución por el desempeño del cargo, que podr�
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
 
-### CAPITULO XII. DE LA EXTINCION DE LA TUTELA
+### CAPITULO XI. DE LAS CUENTAS DE LA TUTELA
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 336.
 
@@ -2327,7 +2367,7 @@ Al asumir el cargo, el tutor que substituye a otro, está obligado a exigir a é
 
 Es nulo todo convenio entre el tutor y el pupilo, ya mayor de edad o emancipado, relativo a la administración de la tutela o a las cuentas.
 
-### CAPITULO XIII. DE LA ENTREGA DE LOS BIENES
+### CAPITULO XII. DE LA EXTINCION DE LA TUTELA
 
 ###### Artículo 351.
 
@@ -2339,7 +2379,7 @@ II.- Porque desaparezca su incapacidad; y
 
 III.- Cuando el que por incapacidad natural sujeto a tutela, entre a la patria potestad por reconocimiento o por adopción.
 
-### CAPITULO UNICO
+### CAPITULO XIII. DE LA ENTREGA DE LOS BIENES
 
 ###### Artículo 352.
 
@@ -2369,7 +2409,7 @@ Si la tutela concluyó durante la minoría de edad, el menor tendrá las accione
 
 ## TITULO DECIMO. DE LOS CONSEJOS DE FAMILIA
 
-### CAPITULO I. DE LA EMANCIPACION
+### CAPITULO UNICO
 
 ###### Artículo 358.
 
@@ -2417,7 +2457,7 @@ Cuando un cónyuge abandone a otro y a sus hijos sin recursos económicos para s
 
 ## TITULO DECIMO PRIMERO. DE LA EMANCIPACION Y DE LA MAYORIA DE EDAD
 
-### CAPITULO II. DE LA MAYORIA DE EDAD
+### CAPITULO I. DE LA EMANCIPACION
 
 ###### Artículo 363.
 
@@ -2431,7 +2471,7 @@ Los padres o tutores pueden emancipar a sus hijos y pupilos que se encuentren en
 
 En relación a los bienes del emancipado, durante su minoría de edad, requerirá ser autorizado por el Juez Familiar, con intervención del Ministerio Público y del Consejo de Familia, para gravar, enajenar o hipotecar bienes raíces; y de un tutor dativo, para negocios judiciales.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO II. DE LA MAYORIA DE EDAD
 
 ###### Artículo 365.
 
@@ -2439,9 +2479,7 @@ La mayoría de edad se adquiere a los dieciocho años cumplidos. El mayor de eda
 
 ## TITULO DECIMO SEGUNDO. DEL PATRIMONIO DE FAMILIA
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 366.
 
@@ -2607,7 +2645,9 @@ Extinguido el patrimonio de familia los bienes que lo formaban vuelven al pleno 
 
 ## TITULO DECIMO TERCERO. DEL REGISTRO DEL ESTADO FAMILIAR
 
-### CAPITULO II. DE LAS ACTAS DE NACIMIENTO
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 392.
 
@@ -2751,7 +2791,7 @@ Cuando se recobre la capacidad legal para administrar o se presente la persona d
 
 El Oficial del Registro del Estado Familiar hará la anotación correspondiente en las actas de nacimiento y de matrimonio en su caso, e insertará los datos esenciales de la resolución judicial que se haya comunicado.
 
-### CAPITULO III. DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS
+### CAPITULO II. DE LAS ACTAS DE NACIMIENTO
 
 ###### Artículo 413.
 
@@ -2829,7 +2869,7 @@ Si al dar aviso de un nacimiento se comunicare también la muerte del recién na
 
 Cuando se trate de parto múltiple, se levantará un acta por cada uno de los nacidos, en la que además de los requisitos que señala el Artículo 417 de esta Ley, se harán constar las particularidades que los distingan y el orden en que ocurrió su nacimiento, según las noticias que proporcionen el médico, el cirujano, la partera o las personas que hayan asistido al parto y, además se imprimirán las huellas digitales de los presentados. El Oficial del Registro del Estado Familiar relacionará las actas.
 
-### CAPITULO IV. DE LAS ACTAS DE TUTELA
+### CAPITULO III. DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS
 
 ###### Artículo 425.
 
@@ -2863,7 +2903,7 @@ Si después de haber sido registrado el nacimiento de un hijo, se hiciere su rec
 
 Si el reconocimiento se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento, el Oficial del Registro del Estado Familiar que autorice el acta, remitirá copia certificada de ésta al oficial que haya registrado el nacimiento y a la Dirección del Registro del Estado Familiar, para que se haga la anotación en el acta respectiva.
 
-### CAPITULO V. DE LAS ACTAS DE EMANCIPACION
+### CAPITULO IV. DE LAS ACTAS DE TUTELA
 
 ###### Artículo 432.
 
@@ -2895,13 +2935,13 @@ V.- La garantía dada por el tutor, expresando el nombre, apellido y demás gene
 
 VI.- Los datos del procedimiento judicial.
 
-### CAPITULO VI. DE LAS ACTAS DE MATRIMONIO
+### CAPITULO V. DE LAS ACTAS DE EMANCIPACION
 
 ###### Artículo 436.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
-### CAPITULO VII. DE LAS ACTAS DE DIVORCIO
+### CAPITULO VI. DE LAS ACTAS DE MATRIMONIO
 
 ###### Artículo 437.
 
@@ -2939,7 +2979,7 @@ Se levantará luego el acta de matrimonio que contendrá los requisitos del Art�
 
 El Oficial del Registro del Estado Familiar, que sin motivo justificado retarde la celebración de un matrimonio, será castigado con una multa de hasta treinta veces la Unidad de Medida y Actualización vigente, y en caso de reincidencia con la destitución de su cargo.
 
-### CAPITULO VIII. DE LAS ACTAS DE DEFUNCION
+### CAPITULO VII. DE LAS ACTAS DE DIVORCIO
 
 ###### Artículo 445.
 
@@ -2953,7 +2993,7 @@ El acta de divorcio contendrá los nombres, apellidos, edad, domicilio y naciona
 
 Extendida el acta, mandará anotarse en la de matrimonio de los divorciados y la copia de la sentencia mencionada en el Artículo anterior, se archivará con el mismo número del acta.
 
-### CAPITULO IX. DE LA NULIFICACION, REPOSICION, CONVALIDACION, RECTIFICACION Y TESTADURA DE LAS ACTAS DEL REGISTRO DEL ESTADO FAMILIAR
+### CAPITULO VIII. DE LAS ACTAS DE DEFUNCION
 
 ###### Artículo 448.
 
@@ -3029,7 +3069,7 @@ En todos los casos de muerte violenta en los establecimientos de reclusión, no 
 
 En los registros de nacimiento y matrimonio se hará referencia al Acta de defunción, expresándose los folios en que consta ésta.
 
-### CAPITULO X. DE LAS CORRECCIONES DE LAS ACTAS
+### CAPITULO IX. DE LA NULIFICACION, REPOSICION, CONVALIDACION, RECTIFICACION Y TESTADURA DE LAS ACTAS DEL REGISTRO DEL ESTADO FAMILIAR
 
 ###### Artículo 462.
 
@@ -3084,6 +3124,8 @@ Para que proceda la reposición de actas ante la Autoridad Judicial, es necesari
 ###### Artículo 473.
 
 La sentencia que cause ejecutoria se comunicará al Oficial del Registro del Estado Familiar, y éste hará una referencia de ella en el acta impugnada, sea que el fallo conceda o niegue la rectificación, nulificación, reposición o convalidación.
+
+### CAPITULO X. DE LAS CORRECCIONES DE LAS ACTAS
 
 ###### Artículo 474.
 
@@ -3222,3 +3264,13 @@ P.O. 31 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2 QUE REFORMA EL ARTÍCULO 397, DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 185 QUE ADICIONA UN CAPÍTULO VIII DEL RECONOCIMIENTO DE LA IDENTIDAD DE GÉNERO AL TITULO SÉPTIMO, CON LOS ARTÍCULOS 214 TER Y 214 QUATER A LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+TERCERO. El titular del Poder Ejecutivo del Estado, tendrá hasta 180 días hábiles a la entrada en vigor del presente Decreto, para realizar las implementaciones y adecuaciones correspondientes al Reglamento Administrativo de las Actas del Registro del Estado Familiar para el cumplimiento del mismo.
