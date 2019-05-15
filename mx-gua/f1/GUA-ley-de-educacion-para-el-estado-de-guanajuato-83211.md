@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-83211"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-07"
-last_updated: "2018-09-18"
+last_updated: "2019-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 7 de octubre de 2011.
 
@@ -699,7 +699,9 @@ Prestación del servicio social
 
 En la entidad, el servicio social se prestará en los términos de esta Ley y de las disposiciones reglamentarias correspondientes.
 
-Es objeto del servicio social, permitir a los beneficiados directamente por los servicios educativos, consolidar su formación académica, llevando a la práctica sus conocimientos adquiridos sobre ciencia, técnica y cultura, tomando conciencia de la realidad internacional, nacional y de la entidad, en un ámbito de solidaridad, reciprocidad y trabajo comunitario.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
+
+Es objeto del servicio social, permitir a los beneficiados directamente por los servicios educativos, consolidar su formación académica, llevando a la práctica sus conocimientos adquiridos sobre ciencia, técnica y cultura, tomando conciencia de la realidad internacional, nacional y de la entidad, en un ámbito de solidaridad, reciprocidad y trabajo comunitario. Tratándose del servicio social de educación tipo superior además deberá ser considerado como experiencia profesional, por el tiempo que éste se haya realizado.
 
 Obligatoriedad del servicio social
 
@@ -714,6 +716,10 @@ Requisito para obtener el título o grado
 ###### Artículo 49.
 
 La prestación del servicio social será requisito indispensable para la obtención del título o grado académico, en los términos de las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+El servicio social de educación tipo superior será considerado como experiencia profesional, para tal efecto se expedirá al interesado un documento que acredite la misma por el tiempo que se haya prestado de conformidad con la Ley de Profesiones para el Estado de Guanajuato.
 
 Para el caso de especialidades, maestrías o doctorados, la implementación y duración del servicio social será potestativa para las instituciones educativas que impartan estos niveles.
 
@@ -833,7 +839,7 @@ Obligaciones de los educandos
 
 Los educandos deberán cumplir con la normatividad que regula su acceso, tránsito, permanencia, promoción y egreso del Sistema Educativo Estatal.
 
-Formación Integral de los educandos
+Formación integral de los educandos
 
 ###### Artículo 56.
 
@@ -1109,7 +1115,7 @@ VI. Estatal.
 
 Dichos consejos, deberán aprobar y dar seguimiento a los proyectos educativos correspondientes, así como realizar las acciones pertinentes que permitan su cumplimiento.
 
-Aprobación de planes y programas de estudios a instituciones públicas diversas a la Secretaría
+Aprobación de planes y programas de estudios a instituciones públicas diversas a la Secretaria
 
 ###### Artículo 72.
 
@@ -1261,7 +1267,7 @@ XXX. Revalidar y otorgar la equivalencia de los estudios en la entidad de confor
 
 XXXI. Promover y vigilar en las instituciones educativas la realización de actos cívicos y en general, de todos aquellos que impulsen el sentido nacional de los educandos, especialmente para el conocimiento y aprecio de los símbolos patrios;
 
-XXXII. Establecer programas de desarrollo humano, actualización y asesoría para el personal en funciones, orientados a mejorar los servicios y la calidad educativa.
+XXXII. Establecer programas de desarrollo humano, actualización y asesoría para el personal en funciones, orientados a mejorar los servicios y la calidad educativa;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -1823,7 +1829,7 @@ IV. Difusión de la cultura.
 
 Para el cumplimiento de lo anterior, las universidades e instituciones de educación superior, atenderán a los principios establecidos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, respetando la libertad de cátedra y de investigación, el libre examen y la discusión de las ideas.
 
-Impulso a la Investigación
+Impulso a la investigación
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
@@ -2391,7 +2397,7 @@ XVII. Expulsar o negarse a prestar el servicio educativo a personas con discapac
 
 XVIII. Incumplir cualquier precepto de la presente Ley, de la Ley General de Educación, ley General del Servicio Profesional Docente, Ley del Instituto Nacional para la Evaluación de la Educación y de las disposiciones expedidas con fundamento en ellas.
 
-Sustanciación de las Infracciones
+Sustanciación de las infracciones
 
 ###### Artículo 160.
 
@@ -2413,7 +2419,7 @@ III. Revocación de la autorización o retiro del reconocimiento de validez ofic
 
 La imposición de las sanciones establecidas en las fracciones II y III no excluye la posibilidad de que sea impuesta alguna multa.
 
-Infracciones específicas a particulares
+Infracciones especificas a particulares
 
 ###### Artículo 162.
 
@@ -2683,7 +2689,7 @@ Para todos los efectos legales correspondientes, la Secretaría de Innovación, 
 
 Constitución del Sistema
 
-Artículo Sexto. El Ejecutivo del Estado, deberá constituir el Sistema de Innovación del Estado de Guanajuato, en un término de noventa días, contados a partir de del (sic) inicio de vigencia del presente Decreto.
+Artículo Sexto. El Ejecutivo del Estado, deberá constituir el Sistema de Innovación del Estado de Guanajuato, en un término de noventa días, contados a partir de (sic) del inicio de vigencia del presente Decreto.
 
 Resolución de asuntos en trámite
 
@@ -2751,4 +2757,16 @@ P.O. 18 DE SEPTIEMBRE DE 2018.
 
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
 
-Artículo Segundo. El Ejecutivo del Estado, a través de la Secretaría de Educación, deberán, (sic) establecerá los mecanismos necesarios para la aplicación del presente decreto, dentro de los seis meses posteriores a su entrada en vigencia.
+Artículo Segundo. El Ejecutivo del Estado, a través de la Secretaría de Educación, deberán, establecerá (sic) los mecanismos necesarios para la aplicación del presente decreto, dentro de los seis meses posteriores a su entrada en vigencia.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 63 EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 9 Y SE ADICIONAN UNA FRACCIÓN XXII AL ARTÍCULO 11 PASANDO LA ACTUAL XXII A SER FRACCIÓN XXIII, Y EL CAPÍTULO II DENOMINADO DEL TÍTULO PROFESIONAL, CON TRES SECCIONES: SECCIÓN PRIMERA DENOMINADA DE LOS REQUISITOS CON EL ARTÍCULO 9, LA SECCIÓN SEGUNDA DENOMINADA DEL SERVICIO SOCIAL CON LOS ARTÍCULOS 9 BIS Y 9 TER Y LA SECCIÓN TERCERA DENOMINADA DE LAS DENOMINACIONES CON EL ARTÍCULO 10 DE LA LEY DE PROFESIONES PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo segundo. La Secretaría de Educación de Guanajuato, a través de la Dirección General de Profesiones, Servicios Escolares e Incorporaciones emitirá los lineamientos con respecto a las acciones que realizará con respecto a los alcances de este Decreto que contendrán mínimamente las actividades realizadas, así como las habilidades y competencias del alumno al finalizar su servicio social estudiantil y deberán expedirse en un término de hasta noventas (sic) días contados a partir de la entrada en vigencia.
+
+Artículo tercero. El Ejecutivo del Estado deberá adecuar los reglamentos de las leyes del presente Decreto en un término de ciento ochenta días, contados a partir del inicio de la vigencia.
+
+Artículo cuarto. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, a más tardar ciento ochenta días contados a partir de su entrada en vigencia.
