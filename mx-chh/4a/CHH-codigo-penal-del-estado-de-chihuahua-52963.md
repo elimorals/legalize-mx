@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2018-07-21"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -5167,7 +5167,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 28 DE OCTUBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFCOD/0388/2017 I P.O., POR MEDIO DEL CUAL SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFCOD/0388/2017 I P.O., POR MEDIO DEL CUAL SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -5175,7 +5175,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTÍCULO SEGUNDO.
 
-El Poder Ejecutivo del Estado de Chihuahua, a través de la Fiscalía General del Estado, en el ámbito de su competencia y capacidades, de acuerdo al Resolutivo 18 de la Sentencia emitida por la Corte Interamericana de Derechos Humanos en el caso González y Otras (“Campo Algodonero”) Vs. México, verificará la estandarización de sus protocolos para la investigación del Feminicidio.
+El Poder Ejecutivo del Estado de Chihuahua, a través de la Fiscalía General del Estado, en el ámbito de su competencia y capacidades, de acuerdo al Resolutivo 18 de la Sentencia emitida por la Corte Interamericana de Derechos Humanos en el caso González y Otras ("Campo Algodonero") Vs. México, verificará la estandarización de sus protocolos para la investigación del Feminicidio.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+El Poder Ejecutivo del Estado de Chihuahua, a través de la Fiscalía General del Estado, contará con plazo de 180 días naturales contados a partir de la publicación del presente Decreto, para crear y publicar un Protocolo de Actuación en la Investigación del Delito de Homicidio de Mujeres por Razones de Género, en armonía con el Modelo de Protocolo Latinoamericano de Investigación de las Muertes Violentas de Mujeres por Razones de Género (femicidio/feminicidio).
 
 P.O. 30 DE DICIEMBRE DE 2017.
 
@@ -5326,3 +5330,11 @@ A la entrada en vigor del presente Decreto, todos los asuntos en trámite, inclu
 ###### ARTÍCULO CUARTO.
 
 A la entrada en vigor del presente Decreto, los recursos humanos, materiales y financieros asignados a la Fiscalía Especializada en Investigación de Violaciones a Derechos Humanos, pasarán a formar parte de la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada; sin perjuicio de los ajustes administrativos que de conformidad a la legislación aplicable, realice la Fiscalía General del Estado.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFDEC/0322/2019 II P.O., POR MEDIO DEL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. LXV/RFCOD/0388/2017 I P.O."]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
