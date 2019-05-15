@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2018-11-10"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -514,6 +514,12 @@ Las declaraciones de nacimiento se harán presentando a la niña o niño ante el
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 La Dirección del Registro civil, para garantizar el derecho a la identidad, realizará de manera gratuita el registro de nacimiento de niñas y niños dentro de los ciento ochenta días de ocurrido. Los oficiales del Registro Civil tendrán la obligación de expedir sin costo las dos primeras copias certificadas del acta de nacimiento.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+###### Artículo 66 Bis.
+
+La vigencia de las actas de nacimiento y las copias certificadas de las mismas que expida el registro civil y se encuentren en buen estado, sin tachaduras, borraduras o enmiendas y legibles, no estarán sujetos a plazo de caducidad alguna y los datos asentados en ellas se presumirán actualizados, salvo prueba en contrario.
 
 > <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
 
@@ -16646,3 +16652,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 614.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO: Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación.
