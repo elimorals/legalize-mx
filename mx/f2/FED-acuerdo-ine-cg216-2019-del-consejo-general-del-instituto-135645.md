@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg216-2019-del-consejo-general-del-instituto-135645
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-04-29"
-last_updated: "2019-04-29"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135645&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-04-12"
 
 EXTRACTO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LAS MODIFICACIONES A LA BOLETA Y LOS FORMATOS DE LA DIVERSA DOCUMENTACIÓN ELECTORAL, CON MOTIVO DEL REGISTRO DE LAS CANDIDATURAS PRESENTADAS POR LOS PARTIDOS POLÍTICOS, COALICIONES Y CANDIDATURAS COMUNES, PARA EL PROCESO ELECTORAL LOCAL EXTRAORDINARIO 2019 EN EL ESTADO DE PUEBLA.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MAYO DE 2019.
 
 Extracto publicado en la Primera Sección al Número 21 del Diario Oficial de la Federación, el lunes 29 de abril de 2019.
 
@@ -51,9 +51,19 @@ ACUERDOS
 
 PRIMERO. Con motivo de la aprobación del registro de las candidaturas para la elección de la Gubernatura en el estado de Puebla, presentadas por el partido político Revolucionario Institucional; la candidatura común integrada por los partidos políticos Acción Nacional, de la Revolución Democrática y Movimiento Ciudadano; y la coalición “Juntos Haremos Historia en Puebla” conformada por los partidos políticos del Trabajo, Verde Ecologista de México y Morena; se aprueban las modificaciones de la boleta y de los formatos de la diversa documentación electoral, que se encuentra en el Anexo único de este Acuerdo.
 
-SEGUNDO. Con motivo de la aprobación del registro de las candidaturas para la elección del Ayuntamiento de Ahuazotepec, presentadas por los partidos políticos Revolucionario Institucional, Pacto Social de Integración y Nueva Alianza Puebla; la candidatura común integrada por los partidos políticos Acción Nacional y Compromiso por Puebla; y la coalición “Juntos Haremos Historia en Puebla” conformada por los partidos políticos del Trabajo, Verde Ecologista de México y Morena; se aprueban las modificaciones de la boleta y de los formatos de la diversa documentación electoral, que se encuentra en el Anexo único de este Acuerdo.
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2019)</small>
 
-TERCERO. Con motivo de la aprobación del registro de las candidaturas para la elección de los Ayuntamientos de Cañada de Morelos y Ocoyucan, respectivamente, presentada por el partido político Revolucionario Institucional; la candidatura común integrada por los partidos políticos Acción Nacional, de la Revolución Democrática, Movimiento Ciudadano y Compromiso por Puebla; y la coalición “Juntos Haremos Historia en Puebla” conformada por los partidos políticos del Trabajo, Verde Ecologista de México, Morena y Encuentro Social; se aprueban las modificaciones de la boleta y de los formatos de la diversa documentación electoral, que se encuentra en el Anexo único de este Acuerdo.
+SEGUNDO. Con motivo de la aprobación del registro de las candidaturas para la elección del Ayuntamiento de Ahuazotepec, presentadas por los partidos políticos Revolucionario Institucional, Pacto Social de Integración y Nueva Alianza Puebla; la candidatura común integrada por los partidos políticos Acción Nacional y Compromiso por Puebla; y la coalición “Juntos Haremos Historia en Puebla” conformada por los partidos políticos del Trabajo, Verde Ecologista de México, Encuentro Social y Morena; se aprueban las modificaciones del modelo de la boleta y los formatos de la diversa documentación electoral, que se encuentra en el Anexo único de este Acuerdo.
+
+TERCERO. Con motivo de la aprobación del registro de las candidaturas para la elección de los Ayuntamientos de Cañada de Morelos y Ocoyucan, respectivamente, presentada por el partido político Revolucionario Institucional; la candidatura común integrada por los partidos políticos Acción Nacional, de la Revolución Democrática, Movimiento Ciudadano y Compromiso por Puebla; y la coalición "Juntos Haremos Historia en Puebla" conformada por los partidos políticos del Trabajo, Verde Ecologista de México, Morena y Encuentro Social; se aprueban las modificaciones de la boleta y de los formatos de la diversa documentación electoral, que se encuentra en el Anexo único de este Acuerdo.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2019)</small>
+
+Con motivo de la aprobación del registro de las candidaturas para la elección del Ayuntamiento de Ocoyucan, se aprueba segundo escenario de las modificaciones a los formatos de la diversa documentación electoral, en la que se considera a los partidos políticos Acción Nacional y Revolucionario Institucional; la candidatura común integrada por los partidos políticos de la Revolución Democrática, Movimiento Ciudadano y Compromiso por Puebla; y la coalición "Juntos Haremos Historia en Puebla" conformada por los partidos políticos del Trabajo, Verde Ecologista de México, Morena y Encuentro Social; que se encuentra en el Anexo único de este Acuerdo.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2019)</small>
+
+Para tal efecto, este Consejo General autoriza a la Dirección Ejecutiva de Organización Electoral a efecto de que adopte la determinación correspondiente con base en la resolución jurisdiccional que quede firme, o el cumplimiento del plazo legal para que la documentación electoral obre en el Consejo Distrital, y se informe a la Comisión Temporal para el Seguimiento de los Procesos Electorales Locales 2018-2019, para que a su vez lo haga de conocimiento de este Consejo General.
 
 CUARTO. Con motivo de la aprobación del registro de las candidaturas para la elección del Ayuntamiento de Mazapiltepec de Juárez, presentadas por los partidos políticos del Trabajo, Verde Ecologista de México, Movimiento Ciudadano, Pacto Social de Integración, Morena y Encuentro Social; y de la candidatura común integrada por los partidos Revolucionario Institucional y Compromiso por Puebla; se aprueban las modificaciones de la boleta y de los formatos de la diversa documentación electoral, que se encuentra en el Anexo único de este Acuerdo.
 
@@ -68,3 +78,45 @@ https://www.ine.mx/sesion-extraordinaria-del-consejo-general-10-abril-2019/
 Página DOF: www.dof.gob.mx/2019/INE/Extracto_CGex201904_10_ap_11.pdf
 
 Ciudad de México, 12 de abril de 2019.- La Encargada del despacho de la Dirección Ejecutiva de Organización Electoral, María del Carmen Colín Martínez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE MAYO DE 2019.
+
+> <small>[N. DE E. EL "EXTRACTO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICA EL MODELO DE LA BOLETA Y LOS FORMATOS DE LA DIVERSA DOCUMENTACIÓN ELECTORAL CORRESPONDIENTE A LA ELECCIÓN EXTRAORDINARIA DEL AYUNTAMIENTO DE AHUAZOTEPEC EN EL ESTADO DE PUEBLA" CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL PUNTO SEGUNDO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO. Se aprueban las modificaciones al modelo de la boleta y de los formatos de la diversa documentación electoral para la elección del Ayuntamiento de Ahuazotepec, para el Proceso Electoral Local Extraordinario 2019 en el Estado de Puebla, mismos que se encuentran en el Anexo 1 que forma parte integrante de este Acuerdo.
+
+(…)
+
+El Acuerdo podrá consultarse de manera íntegra en la siguiente dirección electrónica:
+
+Página INE:
+
+https://www.ine.mx/segunda-sesion-extraordinaria-del-consejo-general-26-abril-2019/
+
+Página DOF:
+
+www.dof.gob.mx/2019/INE/CG2ex201904_26_ap_2.pdf
+
+D.O.F. 15 DE MAYO DE 2019.
+
+> <small>[N. DE E. EL "EXTRACTO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA AGREGAR EL SEGUNDO ESCENARIO DE LOS FORMATOS DE LA DIVERSA DOCUMENTACIÓN ELECTORAL CORRESPONDIENTE A LA ELECCIÓN EXTRAORDINARIA DEL AYUNTAMIENTO DE OCOYOUCAN EN EL ESTADO DE PUEBLA" CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL PUNTO SEGUNDO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO. Se aprueban los formatos de la diversa documentación electoral del segundo escenario para la elección del Ayuntamiento Ocoyucan, para el Proceso Electoral Local Extraordinario 2019 en el Estado de Puebla, mismos que se encuentran en el Anexo 1 que forma parte integrante de este Acuerdo.
+
+(...)
+
+El Acuerdo podrá consultarse de manera íntegra en la siguiente dirección electrónica:
+
+Página INE:
+
+https://www.ine.mx/sesion-extraordinaria-del-consejo-general-02-mayo-2019/
+
+Página DOF:
+
+www.dof.gob.mx/2019/INE/CGex201905_02_ap_2.pdf
