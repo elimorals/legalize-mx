@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-y-apoyo-a-migrantes-y-sus-familias-para-11577
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-23"
-last_updated: "2016-07-23"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN Y APOYO A MIGRANTES PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de julio de 2016.
 
@@ -97,7 +97,9 @@ II.- Ente Público.- Los Órganos Constitucionales Autónomos, las dependencias 
 
 III.- Ley.- Ley de Protección y Apoyo a Migrantes para el Estado de Chihuahua.
 
-IV.- Migrantes.- Las personas de nacionalidad mexicana o extranjera que pretenden internarse a los Estados Unidos de América por el territorio del Estado, o que, habiéndose internado son regresados por el mismo territorio estatal.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
+
+IV.- Migrante.- Persona que llega o transita de un País, Estado o Municipio a otro, diferente al de su lugar de origen, para establecerse en él, temporal o definitivamente, por razones de carácter político, social, religioso, económico, ambiental o cultural, entre otros.
 
 V.- Municipios fronterizos.- Aquellos municipios del Estado, cuyo territorio colinda geográficamente con los Estados Unidos de América.
 
@@ -239,7 +241,13 @@ II.- Organizar y promover, ante las instancias competentes, la realización de e
 
 III.- Promover la suscripción de convenios con organizaciones de la sociedad civil, dependencias y entidades de las administraciones públicas federal, estatal y municipal, para la formulación y ejecución de programas y acciones orientados a atender en torma (sic) coordinada a los migrantes.
 
-IV.- Las demás que les confieran las disposiciones jurídicas aplicables en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2019)</small>
+
+IV.- Proporcionar, a través de las dependencias que integran el Consejo, la información sobre los derechos que como migrantes les corresponden, trámites y servicios, así como la ubicación de hospitales y albergues.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE MAYO DE 2019)</small>
+
+V.- Las demás que les confieran las disposiciones jurídicas aplicables en la materia.
 
 ###### Artículo 21.
 
@@ -302,3 +310,13 @@ LIC. CÉSAR HORACIO DUARTE JÁQUEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. MARIO TREVIZO SALAZAR
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0321/2019 II P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y APOYO A MIGRANTES PARA EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
