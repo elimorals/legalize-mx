@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2018-11-10"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3885,15 +3885,13 @@ V. Violencia sexual.- A toda acción u omisión que amenaza, pone en riesgo, les
 
 VI. Violencia contra los derechos reproductivos: A toda acción u omisión que limite o vulnere el derecho de las personas a decidir libre, responsable y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, servicios obstétricos de emergencia y servicios de interrupción legal y segura del embarazo en casos de violación.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
 
-405.- A quien cometa el delito de violencia familiar se le impondrá de uno a seis años de prisión, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por la legislación en la materia; además, se sujetará a tratamiento especializado que para personas agresoras de violencia familiar establece la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
+405.- A quien cometa el delito de violencia familiar se le impondrá de tres a nueve años de prisión, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por la legislación en la materia; además se sujetará a tratamiento especializado que para personas agresoras de violencia familiar establece la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2018)</small>
+La pena señalada en el párrafo anterior, se aumentará hasta en una mitad de su mínimo y su máximo; en los casos en que la violencia se ejerza en contra de personas adultas mayores, persona con discapacidad, mujeres en estado de gravidez o durante tres meses posteriores al parto.
 
-La pena señalada en el párrafo anterior, se aumentará hasta en una mitad de su mínimo y su máximo, en los casos en que la violencia se ejerza en contra de personas adultas mayores, personas con discapacidad o mujeres en estado de gravidez.
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+En el supuesto de que, se ejerza la violencia física a que se refiere la fracción I del artículo 404 Bis de este Código, la pena será de 5 a 10 años de prisión.
 
 En ningún caso se entenderá como tratamiento o rehabilitación, la violencia hacia persona alguna con trastorno mental, ni como forma de educación o formación hacia los menores de edad.
 
@@ -4796,3 +4794,9 @@ P.O. 10 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1630.- MEDIANTE EL CUAL SE DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 610.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
