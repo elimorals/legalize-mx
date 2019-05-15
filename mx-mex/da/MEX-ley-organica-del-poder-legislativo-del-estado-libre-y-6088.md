@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2019-02-01"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 1 DE FEBRERO DE 2019]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE MAYO DE 2019.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1047,7 +1045,9 @@ XXXIV. Transparencia, Acceso a la Información Pública, Protección de Datos Pe
 
 XXXV. Comisión de Familia y Desarrollo Humano.
 
-La Asamblea podrá determinar la creación de otras comisiones legislativas, así como fijar el número de sus integrantes, de acuerdo con las necesidades institucionales de la Legislatura.
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 15 DE MAYO DE 2019)</small>
+
+La Asamblea podrá determinar la creación de otras comisiones legislativas, así como fijar el número de sus integrantes, de acuerdo con las necesidades institucionales de la Legislatura. En la asignación de presidencias de las comisiones legislativas y comités, se procurará la paridad de género, de tal manera que los Grupos Parlamentarios no pierdan su representación plural y proporcional en ellas.
 
 > <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
@@ -2208,3 +2208,15 @@ G.G. 21 DE DICIEMBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO. Las iniciativas o asuntos que han sido turnados a las Comisiones y Comités Legislativos antes de la entrada en vigor del presente Decreto, y que no han sido dictaminadas, podrán estar sujetas a lo señalado en la presente reforma.
+
+G.G. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 52.- POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en la Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan a este Decreto.
+
+CUARTO.- El Poder Legislativo del Estado Libre y Soberano de México deberá expedir en un plazo no mayor a 60 días hábiles después de la entrada en vigor del presente Decreto, las adecuaciones al Reglamento del Poder Legislativo del Estado Libre y Soberano de México.
