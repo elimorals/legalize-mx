@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2018-11-14"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -1025,13 +1025,13 @@ En ausencia del Presidente, en cualquiera de las sesiones, uno de los miembros d
 
 Cuando la ausencia del Presidente sea definitiva, el titular del Ejecutivo Estatal designará de entre los Miembros Titulares, a quien deba sustituirlo para que concluya el periodo respectivo. Ante la ausencia definitiva de cualquiera de los Miembros Titulares, el titular del Ejecutivo Estatal, designará a quien deba sustituirlo para que concluya el periodo respectivo.
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 44-A.
 
 El Ejecutivo Estatal expedirá las normas reglamentarias necesarias para la integración y funcionamiento de la Comisión. Asimismo, proporcionará anualmente el presupuesto para su funcionamiento.
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 44-B.
 
@@ -1377,7 +1377,17 @@ VI.- Promover certámenes, concursos o competiciones de naturaleza cultural depo
 
 VII.- Las demás que dispongan otras leyes u ordenamientos aplicables.
 
-Los Juegos Tradicionales, los Autóctonos y la Charrería serán considerados como parte del patrimonio cultural deportivo del país y del Estado. La administración pública estatal y municipal, en el ámbito de sus respectivas competencias, deberán preservarlos, apoyarlos, promoverlos, fomentarlos y estimularlos, celebrando convenios de coordinación y colaboración entre sí y con las Asociaciones Deportivas Estatales y Municipales correspondientes.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
+
+La Charrería será considerada como parte del patrimonio cultural deportivo del país y del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+Asimismo, serán considerados como parte del patrimonio cultural deportivo los Juegos Tradicionales y los Autóctonos.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+La administración pública estatal y municipal, en el ámbito de sus respectivas competencias, deberán preservarlos, apoyarlos, promoverlos, fomentarlos y estimularlos, celebrando convenios de coordinación y colaboración entre sí y con las Asociaciones Deportivas Estatales y Municipales correspondientes.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -2420,3 +2430,9 @@ P.O. 14 DE NOVIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVI/RFLEY/0324/2019 II P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 70-A, TERCER PÁRRAFO Y SE LE ADICIONA UN CUARTO Y QUINTO PÁRRAFOS, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
