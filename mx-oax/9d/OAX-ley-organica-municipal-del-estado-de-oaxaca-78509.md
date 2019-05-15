@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2019-04-20"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -537,7 +537,9 @@ XLIII.- Constituir y actualizar el registro de población municipal conforme a l
 
 XLIV.- Establecer un sistema de estímulos y reconocimientos al mérito de los servidores públicos municipales y de sus habitantes, en base en la disposición respectiva del Ayuntamiento;
 
-XLV.- Fomentar las actividades culturales, deportivas y recreativas;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
+
+XLV.- Instituir una dirección que se encargue de impulsar, fomentar y mantener las actividades culturales, deportivas y recreativas, en los niños, jóvenes, adultos;
 
 XLVI.- Fomentar y fortalecer los valores históricos cívicos del pueblo, así como el respeto y aprecio a los símbolos patrios;
 
@@ -693,13 +695,17 @@ LXXXII.- Remitir al Órgano Superior de Fiscalización del Estado de Oaxaca, en 
 
 LXXXIII.- Hacer del conocimiento por escrito al Órgano Superior de Fiscalización del Estado de Oaxaca, los casos de incumplimiento a los contratos a que hace referencia la fracción LXXVII de éste ordenamiento legal o de las irregularidades que se llegaran a presentar con motivo del trabajo realizado por el asesor contratado;
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
 
-LXXXIV.- Hacer pública la información del padrón a que hace referencia la fracción anterior, dando a conocer a los asesores que mejor han cumplido con las obligaciones contraídas con los municipios, así como de aquellos que no han observado un adecuado cumplimiento, y;
+LXXXIV.- Hacer pública la información del padrón a que hace referencia la fracción anterior, dando a conocer a los asesores que mejor han cumplido con las obligaciones contraídas con los municipios, así como de aquellos que no han observado un adecuado cumplimiento;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2019)</small>
 
-LXXXV.- Las demás que les señalen las leyes y reglamentos municipales.
+LXXXV.- Impulsar acciones y programas en favor de niñas, niños, personas con discapacidad, mujeres y personas adultas mayores, así como llevar a cabo campañas de sensibilización sobre los efectos de la violencia hacia estos grupos y cultura de la denuncia de la población para fomentar el respeto hacia los mismos, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE MAYO DE 2019)</small>
+
+LXXXVI.- Las demás que les señalen las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
@@ -1021,7 +1027,9 @@ IX.- La violencia política ejercida por razón de género, decretada por un ór
 
 Compete exclusivamente al Congreso del Estado declarar la suspensión o desaparición de un Ayuntamiento, así como la suspensión o revocación del mandato de uno o más de sus integrantes.
 
-La solicitud para estos casos deberá presentarse ante la Oficialía Mayor del Congreso del Estado. Podrá ser formulada por el titular del ejecutivo del Estado, por los legisladores locales, por los integrantes del ayuntamiento respectivo o por los ciudadanos vecinos del municipio.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
+
+La solicitud para estos casos deberá presentarse ante la Secretaría de Servicios Parlamentarios del Congreso del Estado. Podrá ser formulada por el Titular del Ejecutivo del Estado, por los legisladores locales, por los integrantes del ayuntamiento respectivo o por los ciudadanos vecinos del municipio.
 
 ###### ARTÍCULO 63.
 
@@ -1039,9 +1047,11 @@ V.- Las pruebas que sirven de base a la petición y anunciar aquéllas que requi
 
 VI.- A la solicitud deberán acompañarse para efectos de emplazamiento copias simples de cada uno de los documentos exhibidos.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 64.
 
-El Oficial Mayor dará cuenta al Pleno del congreso del Estado o en su caso a la Diputación Permanente de la solicitud y anexos presentados, para que se turne a la Comisión Permanente de Gobernación. Esta Comisión estará a cargo de la instrucción del caso, en su actuación deberá cuidar que se cumplan las formalidades del procedimiento y se respete la garantía de audiencia.
+El Titular de la Secretaría de Servicios Parlamentarios dará cuenta al Pleno del Congreso del Estado o en su caso a la Diputación Permanente de la solicitud y anexos presentados, para que se turne a la Comisión Permanente de Gobernación. Esta Comisión estará a cargo de la instrucción del caso, en su actuación deberá cuidar que se cumplan las formalidades del procedimiento y se respete la garantía de audiencia.
 
 ###### ARTÍCULO 65.
 
@@ -3310,3 +3320,15 @@ P.O. 20 DE ABRIL DE 2019.
 PRRIMERO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 620.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 621.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
