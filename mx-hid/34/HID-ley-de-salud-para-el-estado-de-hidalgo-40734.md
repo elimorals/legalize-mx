@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2018-06-25"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -75,7 +75,9 @@ En los términos de la Ley General de Salud y de la presente Ley, corresponde a 
 
 A.- EN MATERIA DE SALUBRIDAD GENERAL:
 
-I.- La atención médica, preferentemente en beneficio de grupos vulnerables;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
+
+I.- La atención médica de calidad, preferentemente en beneficio de grupos en situación de vulnerabilidad;
 
 II.- La atención materno infantil;
 
@@ -211,11 +213,17 @@ a).- La salud materno-infantil y planificación familiar y/o salud sexual y repr
 
 b).- La promoción y conservación de la salud física;
 
-c).- La medicina preventiva y
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
 
-d).- La vigilancia epidemiológica;
+c).- La medicina preventiva;
 
-e).- Los servicios de atención médica y asistencia social; y
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
+
+d).- La vigilancia epidemiológica; y
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
+
+e).- Los servicios de atención médica de calidad y asistencia social.
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
@@ -318,6 +326,10 @@ Es competencia del Gobierno del Estado a través de la Secretaría de Salud:
 A.- En materia de salubridad general:
 
 I.- En el ámbito de su jurisdicción y en coordinación con el Ejecutivo Federal, organizar, administrar, operar y evaluar los servicios de salud a que se refiere el apartado A del Artículo 3º de esta Ley;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2019)</small>
+
+I.- Bis.- Garantizar la atención primaria de la salud con personal médico de calidad, preferentemente en beneficio de grupos en situación de vulnerabilidad.
 
 II.- Ejercer la vigilancia y control de la sanidad en los límites con otras Entidades Federativas;
 
@@ -446,6 +458,10 @@ Para el ejercicio de actividades técnicas y auxiliares que requieran conocimien
 A solicitud, la Dirección de Profesiones, proporcionará a las autoridades sanitarias estatales la relación de títulos, cedulas profesionales y demás documentos que los acrediten en el área de la salud, así como la información complementaria que sea necesaria. En el caso en que exista convenio entre el Gobierno del Estado y el Ejecutivo Federal en materia de registro profesional y expedición de cédulas profesionales, el Gobierno del Estado cuidará que se proporcione la información a que se refiere este párrafo.
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este capítulo, deberán exhibir a la vista del público y de manera permanente copia legible del título profesional, diploma, certificado o grado académico según sea el caso, así como de la correspondiente cédula. Iguales menciones deberán considerarse en los documentos, receta médica y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+Artículo 12 ter. Para garantizar el derecho a la protección de la salud en condiciones de equidad, no discriminación y respeto a la dignidad humana, las autoridades sanitarias estatales promoverán la especialización del personal médico a través de las Universidades e instituciones de educación superior para la formación de recursos humanos en atención primaria de la salud.
 
 ###### Artículo 13.
 
@@ -2020,3 +2036,9 @@ P.O. 25 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL APARTADO A DEL ARTÍCULO 3 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 182.- QUE REFORMA LA FRACCIÓN I DEL APARTADO A Y LOS INCISOS C), D) Y E) DE LA FRACCIÓN VI DEL APARTADO B DEL ARTÍCULO 3; Y SE ADICIONA LA FRACCIÓN I BIS AL APARTADO A DEL ARTÍCULO 5 Y EL ARTÍCULO 12 TER DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO.”]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Estado de Hidalgo.
