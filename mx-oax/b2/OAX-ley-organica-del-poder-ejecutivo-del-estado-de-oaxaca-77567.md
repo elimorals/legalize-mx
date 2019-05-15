@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2019-04-27"
+last_updated: "2019-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -67,11 +67,11 @@ II. La Administración Pública Paraestatal: Integrada por Organismos Descentral
 
 III. Los Órganos Auxiliares realizan una función diferenciada, específica y de responsabilidad directa; como Unidades Responsables, les son aplicables los sistemas de organización, comunicación, coordinación, planeación, programación, control y evaluación de actividades contemplados en esta Ley Orgánica y en específico, los reglamentos, lineamientos y demás normatividad que expidan las instancias normativas, y la que por la naturaleza de sus actividades y materia de su competencia, les sea impuesta por los diversos ordenamientos normativos.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 4.
 
-Para los efectos de esta Ley, se denominará como servidores públicos a los funcionarios y empleados, y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones y de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+Para los efectos de esta Ley, se denominará como servidores públicos a los funcionarios y empleados, y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones y de acuerdo a la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -240,6 +240,10 @@ Todos serán nombrados con base en los principios de idoneidad, honorabilidad, e
 ###### ARTÍCULO 22.
 
 Los nombramientos de los Secretarios de Despacho, llevados a cabo por el Gobernador del Estado, deberán ser remitidos inmediatamente al Honorable Congreso del Estado para su conocimiento.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
+
+Los nombramientos a que hace referencia el párrafo anterior habrán de establecerse bajo el principio de paridad de género propiciando que haya igual número de hombres y mujeres, cumpliendo con los requisitos previstos en el artículo 21 de la presente Ley.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -1329,7 +1333,9 @@ XXXII. Coordinar las condiciones que permitan la inversión privada en obras y/o
 
 XXXIII. Fijar los lineamientos que deba seguir la Administración Pública Estatal en la elaboración de la documentación necesaria para la formulación de informes de avances de gestión financiera e integrar dicha información, en coordinación con la Jefatura de la Gubernatura;
 
-XXXIV. Aclarar las observaciones que le finque el Congreso Local por conducto de la Auditoría Superior del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
+
+XXXIV. Aclarar las observaciones que le finque el Congreso Local por conducto del Órgano Superior de Fiscalización del Estado de Oaxaca;
 
 XXXV. Elaborar los estados financieros e integrar la Cuenta Pública y someterla a consideración del Gobernador del Estado, para la presentación correspondiente ante el Honorable Congreso Local;
 
@@ -1945,7 +1951,9 @@ VIII. Evaluar, supervisar, verificar, física y financieramente, el avance e inf
 
 IX. Revisar y auditar la ejecución física y financiera de los programas de inversión y obra pública, que se realicen en el Estado con recursos propios, provenientes de convenios con la federación o de otra índole;
 
-X. Establecer coordinación con la Auditoría Superior del Estado de Oaxaca, para el cumplimiento de sus respectivas responsabilidades;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
+
+X. Establecer coordinación con el Órgano Superior de Fiscalización del Estado de Oaxaca, para el cumplimiento de sus respectivas responsabilidades;
 
 XI. Supervisar que los proveedores de bienes y servicios, y contratistas, cumplan lo estipulado en los contratos que celebren con las Dependencias y Entidades de la Administración Pública Estatal;
 
@@ -1953,7 +1961,9 @@ XII. Participar en las licitaciones públicas convocadas para seleccionar a los 
 
 XIII. Participar en la formulación de las normas de contabilidad y de control en materia de programación, presupuestación, administración de personal, recursos materiales y financieros que elaboren las Dependencias y Entidades correspondientes;
 
-XIV. Recibir y registrar las declaraciones patrimoniales, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
+
+XIV. Recibir y registrar las declaraciones patrimoniales, en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
 
 XV. Reglamentar y participar en el procedimiento de Entrega-Recepción de las oficinas de las Dependencias y Entidades de la Administración Pública del Poder Ejecutivo, en los términos de las disposiciones legales, aplicando en su caso, las responsabilidades en que incurran los funcionarios e imponer la sanción correspondiente;
 
@@ -1965,7 +1975,9 @@ XVIII. Establecer las bases generales para la realización de auditorías en las
 
 XIX. Inspeccionar y vigilar que se efectúe, en los términos establecidos por la normatividad de la materia correspondiente, la aplicación de subsidios, aportaciones o transferencias de fondos que el Gobierno del Estado otorgue a favor de municipios, entidades, instituciones públicas o particulares;
 
-XX. Dar seguimiento a los resultados de las revisiones, inspecciones, fiscalizaciones y auditorías practicadas en las Dependencias y Entidades, por parte de la Auditoría Superior del Estado de Oaxaca o por parte de la federación a fin de asegurar que se solventen las observaciones;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
+
+XX. Dar seguimiento a los resultados de las revisiones, inspecciones, fiscalizaciones y auditorías practicadas en las Dependencias y Entidades, por parte del Órgano Superior de Fiscalización del Estado de Oaxaca o por parte de la federación a fin de asegurar que se solventen las observaciones;
 
 XXI. Evaluar, dar seguimiento e intervenir en los procesos de conciliación en materia de obra pública y emitir observaciones vinculatorias, así como, vigilar que las obras públicas se realicen de acuerdo a la planeación, programación, presupuesto y especificaciones convenidas, directamente, o a través de los órganos de control interno o contralorías internas, en su caso, de las Dependencias y Entidades de la Administración Pública del Poder Ejecutivo, a fin de supervisar desde la contratación, autorización y anticipo de pago de estimaciones, hasta su finiquito y entrega, sin demérito de la responsabilidad de dependencias, secretarías de despacho, entidades, órganos auxiliares y desconcentrados encargados de la ejecución de la obra;
 
@@ -1997,9 +2009,9 @@ XXXII. Dirigir y coordinar la instalación de delegaciones ante las Dependencias
 
 XXXIII. Integrar a través de su Titular el Comité Coordinador del Sistema Estatal de Combate a la Corrupción, formar parte del Sistema Nacional de Fiscalización, informando periódicamente al Titular del Ejecutivo las acciones implementadas, y cumplir con todas las obligaciones que le impongan la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal de Combate a la Corrupción; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
 
-XXXIV. Las demás que en el ámbito de su competencia le confiera directamente el Titular del Ejecutivo del Estado, su Reglamento Interno, la Ley de Responsabilidades Administrativas para el Estado y Municipios de Oaxaca, y demás disposiciones normativas aplicables.
+XXXIV: Las demás que en el ámbito de su competencia le confiera directamente el Titular del Ejecutivo del Estado, su Reglamento Interno, la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; y demás disposiciones normativas aplicables.
 
 ARTÍCULO 47 BIS. (DEROGADO, P.O. 28 DE ENERO DE 2017)
 
@@ -2199,9 +2211,9 @@ XII. Participar en el ámbito de su competencia con la Secretaría de Finanzas, 
 
 XIII. Asistir a los Ayuntamientos, particularmente de aquellos con baja capacidad administrativa, en la formulación de los Planes Municipales en coordinación con la Secretaría de Finanzas, quien atenderá lo referido a la planeación financiera y presupuestal, con el fin de que cumplan con elementos mínimos de planeación y de alineamiento con el Plan Estatal de Desarrollo, los Planes Regionales y programas micro regionales;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
 
-XIV. Suscribir convenios de colaboración para coordinar la capacitación integral de los municipios, con las secretarías de Finanzas, General de Gobierno, y la Contraloría y Transparencia Gubernamental, así como, con la Auditoría Superior del Estado, y demás instituciones públicas y privadas, relacionadas con la materia;
+XIV. Suscribir convenios de colaboración para coordinar la capacitación integral de los municipios, con las Secretarías de Finanzas, General de Gobierno, y la Contraloría y Transparencia Gubernamental, así como con el Órgano Superior de Fiscalización del Estado de Oaxaca, y demás instituciones públicas y privadas, relacionadas con la materia;
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -2711,11 +2723,13 @@ En las Dependencias y Entidades de la Administración Publica Estatal, la direcc
 
 Serán representantes del sector público estatal en los organismos de participación ciudadana, aquellos que determine el Gobernador del Estado.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 72.
 
-Los representantes de los sectores privado y social que integren este tipo de organismos, lo harán en forma honorífica, y en tal virtud, no podrán ser considerados como servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, y en ningún caso intervendrán en asuntos de materia política y electoral.
+Los representantes de los sectores privado y social que integren este tipo de organismos, lo harán en forma honorífica, y en tal virtud, no podrán ser considerados como servidores públicos en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, y en ningún caso intervendrán en asuntos de materia política y electoral.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
 
 Para los efectos del presente Título y su correspondiente Capítulo, podrá aplicarse en lo que corresponda y de manera supletoria la Ley del Consejo Consultivo del Estado, así como el Capítulo Séptimo de los Consejos Consultivos Ciudadanos, de la Ley de Participación Ciudadana para el Estado de Oaxaca en lo que corresponda y la Ley Reglamentaria del Apartado C, fracción VI, del Artículo 25 Constitucional, que expida en su momento el Congreso del Estado.
 
@@ -3287,7 +3301,7 @@ TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, q
 
 P.O. 27 DE ABRIL DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 632.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 632.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
@@ -3304,3 +3318,17 @@ SEXTO. El Titular de la Secretaría de Pueblos Indígenas y Afromexicano, deber�
 SÉPTIMO. El Titular del Poder Ejecutivo, expedirá el Reglamento Interno de la Secretaría de Pueblos Indígenas y Afromexicano, en un plazo no mayor a treinta días contados a partir de la entrada en vigor del presente Decreto.
 
 OCTAVO. Se derogan todas las disposiciones de igual o menos jerarquía que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 612.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 613.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al 01 de Diciembre de 2022.
