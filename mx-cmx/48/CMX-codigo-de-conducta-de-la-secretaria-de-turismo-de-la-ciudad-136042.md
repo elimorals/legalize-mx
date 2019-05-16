@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-de-la-secretaria-de-turismo-de-la-ciudad-136
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-08"
-last_updated: "2019-05-08"
+last_updated: "2019-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136042&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2019-05-03"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE TURISMO DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE TURISMO DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 16 DE MAYO DE 2019.]</small>
 
 Código publicado en el No. 86 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 8 de mayo de 2019.
 
@@ -204,7 +204,9 @@ Abstenerse de emprender cualquier acción que pueda poner en riesgo el medio amb
 
 Abstenerse de bloquear las zonas de seguridad y equipos de emergencia.
 
-Permitir el acceso a comerciantes o a cualquier persona ajena a la institución.
+> <small>(F. DE E., G.O. 16 DE MAYO DE 2019)</small>
+
+Abstenerse de permitir el acceso a comerciantes o a cualquier persona ajena a la institución.
 
 8. Prevención del conflicto de interés.
 
@@ -222,7 +224,9 @@ Presentar mi manifestación de No conflicto de Intereses cundo (sic) intervenga 
 
 No aceptar regalos o estímulos de cualquier tipo que pretendan influir en mis decisiones como persona servidora pública, ya que no está permitido por la ley, por los valores y principio del Código de Ética y de este Código de Conducta.
 
-Anteponer los intereses particulares al interés público y al cumplimiento de la misión de la Secretaría.
+> <small>(F. DE E., G.O. 16 DE MAYO DE 2019)</small>
+
+No anteponer los intereses particulares al interés público y al cumplimiento de la misión de la Secretaría.
 
 ## TRANSITORIOS
 
@@ -233,3 +237,11 @@ Segundo.- El presente Aviso entrará en vigor el día su publicación en la Gace
 En la Ciudad de México a los tres días del mes de mayo de dos mil diecinueve.
 
 (Firma)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 16 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DE LA “NOTA ACLARATORIA AL AVISO POR EL CUAL SE DA A CONOCER EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE TURISMO DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, DEL DÍA 8 DE MAYO DE 2019, BIS”.]
+
+Único.- Publíquese en la Gaceta Oficial de la Ciudad de México.
