@@ -4,7 +4,7 @@ identifier: "SON-ley-estatal-de-responsabilidades-del-estado-de-sonora-122668"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2017-08-10"
+last_updated: "2019-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY ESTATAL DE RESPONSABILIDADES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DE 10 DE AGOSTO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE MAYO DE 2019.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el martes 18 de julio de 2017.
 
@@ -1495,7 +1493,7 @@ V.- Las que sean necesarias para evitar un daño irreparable a la Hacienda Públ
 
 ###### Artículo 165.
 
-El otorgamiento de medidas cautelares se tramitará de manera incidental. El escrito en el que se soliciten se deberá señalar las pruebas cuyo ocultamiento o destrucción se pretende impedir; los efectos perjudiciales que produce la presunta falta administrativa; los actos que obstaculizan el adecuado desarrollo del procedimiento de responsabilidad administrativa; o bien, el daño irreparable a la Hacienda Pública Federal, Estatal o Municipal, o bien, al patrimonio de los entes públicos, expresando los motivos por los cuales se solicitan las medidas cautelares y donde se justifique su pertinencia. En cualquier caso, se deberá indicar el nombre y domicilios (sic) de quienes serán afectados con las medidas cautelares, para que, en su caso, se les dé vista del incidente respectivo.
+El otorgamiento de medidas cautelares se tramitará de manera incidental. El escrito en el que se soliciten se deberá señalar las pruebas cuyo ocultamiento o destrucción se pretende impedir; los efectos perjudiciales que produce la presunta falta administrativa; los actos que obstaculizan el adecuado desarrollo del procedimiento de responsabilidad administrativa; o bien, el daño irreparable a la Hacienda Pública Federal, Estatal o Municipal, o bien, al patrimonio de los entes públicos, expresando los motivos por los cuales se solicitan las medidas cautelares y donde se justifique su pertinencia. En cualquier caso, se deberá indicar el nombre y domicilios de quienes serán afectados con las medidas cautelares, para que, en su caso, se les dé vista del incidente respectivo.
 
 ###### Artículo 166.
 
@@ -2459,6 +2457,10 @@ A la fecha de entrada en vigor de la Ley Estatal de Responsabilidades, todas las
 
 Artículo Segundo.- Los Entes Públicos, la Secretaría, el Tribunal y los organismos constitucionalmente autónomos, deberán realizar las adecuaciones administrativas dentro de su normatividad y reglamentación correspondientes de conformidad con lo previsto en el presente Decreto, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto. Dentro del mismo plazo la Secretaría de la Contraloría General del Estado deberá designar a los Titulares de las Coordinaciones encargadas de la Investigación y Sustanciación de las faltas administrativas a las que se refiere esta Ley, quienes deberán contar con título de Licenciatura en Derecho, con una antigüedad mínima de cinco años al momento de su designación.
 
+> <small>(ADICIONADO, B.O. 16 DE MAYO DE 2019)</small>
+
+Los municipios del Estado, cuya población sea menor a cien mil habitantes, tendrán hasta el día 01 de enero de 2020, para realizar las adecuaciones administrativas dentro de su normatividad y reglamentación, así como, para llevar a cabo la designación de los titulares de las Áreas encargadas de la Investigación y Sustanciación de las faltas administrativas a las que se refiere la presente Ley.
+
 Artículo Tercero.- Los protocolos, los lineamientos y el Código de Etica establecidos en esta Ley deberán ser emitidos por las autoridades competentes en un plazo de 180 días naturales contado a partir de la entrada en vigor de la presente Ley.
 
 Artículo Cuarto.- El cumplimiento de las obligaciones previstas en la Ley Estatal de Responsabilidades, una vez que ésta entre en vigor, serán exigibles, en lo que resulte aplicable, hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción, de conformidad con la ley de la materia, emita los lineamientos, criterios y demás resoluciones conducentes de su competencia.
@@ -2476,3 +2478,13 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los catorce días del mes de julio del año dos mil diecisiete.- SUFRAGIO EFECTIVO, NO REELECCIÓN. GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 16 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 29, QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE RESPONSABILIDADES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
