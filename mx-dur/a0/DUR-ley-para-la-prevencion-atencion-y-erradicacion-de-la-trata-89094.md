@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-prevencion-atencion-y-erradicacion-de-la-trata-8909
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-15"
-last_updated: "2014-12-25"
+last_updated: "2019-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE LA TRATA DE PERSONAS EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 15 de julio de 2012.
 
@@ -33,7 +33,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fechas 10 de octubre y 18 de abril del 2011, se presentaron a esta H. LXV Legislatura del Estado dos iniciativas: la primera, por los CC. Diputados Jorge Alejandro Salum del Palacio, Aleonso Palacio Jáquez, Gina Gerardina Campuzano González, Judith Irene Murguía Corral y José Antonio Ochoa Rodríguez, integrantes del Grupo Parlamentario del Partido Acción Nacional, que contiene LEY PARA COMBATIR Y PREVENIR LA TRATA DE PERSONAS PARA EL ESTADO DE DURANGO; y la segunda, por el Diputado, Alfredo Héctor Ordaz Hernández, integrante del Grupo Parlamentario del Partido Revolucionario Institucional, mediante la cual propone la expedición de la LEY PARA LA PREVENCIÓN DE LA TRATA DE PERSONAS EN EL ESTADO DE DURANGO; mismas que fueron turnadas a la Comisión de Derechos Humanos integrada por los CC. Diputados: Felipe de Jesús Garza González, José Antonio Ochoa Rodríguez, Jaime Rivas Loaiza, Karla Alejandra Zamora García y Elia María Morelos Favela; Presidente, Secretario y Vocales respectivamente los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S.
+C O N S I D E R A N D O S
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXV Legislatura del Estado, expide el siguiente:
 
@@ -44,8 +46,6 @@ LA SEXAGÉSIMA QUINTA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBE
 ###### ARTÍCULO ÚNICO.
 
 Se expide la Ley para la Prevención, Atención y Erradicación de la Trata de Personas en el Estado de Durango, para quedar en los siguientes términos:
-
-> <small>N. DE E. EL DECRETO NÚMERO 307, EXPEDIDO POR LA SEXAGÉSIMA SEXTA LEGISLATURA, PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE LA TRATA DE PERSONAS EN EL ESTADO DE DURANGO
 
@@ -315,7 +315,11 @@ IV. Fomentar la participación ciudadana y la solidaridad, a fin de reducir los 
 
 V. Promover la cultura de la denuncia como un factor indispensable en la lucha contra el crimen organizado, la impunidad y la aceptación social del delito; y
 
-VI. Las demás que considere necesarias para la prevención del delito de trata de personas.
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2019)</small>
+
+VI. Implementar en conjunto con las autoridades educativas en el Estado un programa de prevención en materia de trata de personas dirigido especialmente a padres de familia, a fin de que conozcan sus manifestaciones y alcances y refuercen así la prevención y vigilancia al interior de sus hogares;
+
+VII. Las demás que considere necesarias para la prevención del delito de trata de personas.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
@@ -611,13 +615,13 @@ PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación 
 
 SEGUNDO. El organismo Interinstitucional al que se refiere la presente ley, deberá integrarse e iniciar su funcionamiento dentro de los noventa días naturales siguientes a la publicación de esta Ley. Una vez instalado expedirá su Reglamento Interior dentro de los quince días posteriores.
 
-TERCERO.- En tanto se modifican las leyes estatales relacionadas con el presente decreto, es obligación de las autoridades estatales y municipales, coordinarse con las autoridades federales, en los términos que establece la Ley General para prevenir, sancionar y erradicar los delitos en materia de trata de personas y para la protección y asistencia de las victimas de estos delitos, proveyendo su exacto y debido cumplimiento.
+TERCERO. En tanto se modifican las leyes estatales relacionadas con el presente decreto, es obligación de las autoridades estatales y municipales, coordinarse con las autoridades federales, en los términos que establece la Ley General para prevenir, sancionar y erradicar los delitos en materia de trata de personas y para la protección y asistencia de las victimas de estos delitos, proveyendo su exacto y debido cumplimiento.
 
 El Ciudadano Gobernador Constitucional del Estado, sancionará, promulgará y dispondrá se publique, circule y observe.
 
 Dado en el Salón de Sesiones del Honorable Congreso del Estado, en Victoria de Durango, Dgo., a los (14) catorce días del mes de junio del año (2012) dos mil doce.
 
-DIP. EMILIANO FERNÁNDEZ CAMARGO
+DIP. EMILIANO HERNÁNDEZ CAMARGO
 
 PRESIDENTE.
 
@@ -639,7 +643,7 @@ C.P. JORGE HERRERA CALDERA
 
 EL SECRETARIO GENERAL DE GOBIERNO
 
-PROFR. JAIME FERNÁNDEZ SARACHO
+PROFR. JAIME FERNANDEZ SARACHO
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
@@ -648,3 +652,11 @@ P.O. 25 DE DICIEMBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan las contenidas en el presente Decreto.
+
+P.O. 16 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 84.- QUE CONTIENE REFORMAS A LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE LA TRATA DE PERSONAS EN EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
