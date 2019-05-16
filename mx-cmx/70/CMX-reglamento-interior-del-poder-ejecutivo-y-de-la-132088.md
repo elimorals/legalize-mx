@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2019-05-15"
+last_updated: "2019-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2019-01-02"
 ---
 # REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACION PUBLICA DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MAYO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 16 DE MAYO DE 2019.]</small>
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -123,6 +123,8 @@ E) Comisión para la Reconstrucción de la Ciudad de México, a la que quedan ad
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2019)</small>
 
 Asimismo, se le adscriben los Órganos Desconcentrados denominados Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México (C5); la Agencia Digital de Innovación Pública de la Ciudad de México; y la Junta de Asistencia Privada.
+
+> <small>(F. DE E., G.O. 16 DE MAYO DE 2019)</small>
 
 ###### Artículo 7°.
 
@@ -522,41 +524,47 @@ B) Subsecretaría de Derechos Humanos, a la que quedan adscritas:
 
 2. Dirección Ejecutiva de Promoción y Formación;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE MAYO DE 2019)</small>
+(REFORMADO, G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
 
-C) Coordinación General de Inclusión y Bienestar Social, a la que quedan adscritas;
+C) Coordinación General de Inclusión y Bienestar Social, a la que quedan adscritas:
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
+(ADICIONADO, G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
 
-1. Dirección General del Instituto para el Envejecimiento Digno; y
+1. Dirección General de Instituto para el Envejecimiento Digno; y
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
+(ADICIONADO, G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
 
 2. Dirección General del Instituto de Atención a Poblaciones Prioritarias;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2019)</small>
+> <small>(F. DE E., G.O. 16 DE MAYO DE 2019)</small>
+
+3. Dirección General de Acción Barrial y Comunitaria; a la que a su vez quedan adscritas:
+
+> <small>(F. DE E., G.O. 16 DE MAYO DE 2019)</small>
+
+3.1 Dirección Ejecutiva de Facilitadores Comunitarios; y
+
+> <small>(F. DE E., G.O. 16 DE MAYO DE 2019)</small>
+
+3.2 Dirección Ejecutiva de Mejoramiento Barrial y Comunitario;
+
+(REFORMADO [N. DE E. REUBICADO], G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
 
 D) Dirección General de Asuntos Jurídicos;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2019)</small>
+(REFORMADO [N. DE E. REUBICADO], G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
 
 E) Dirección General de Participación Ciudadana;
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2019)</small>
+(REFORMADO [N. DE E. REUBICADO], G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
 
-F) Dirección General de Acción Barrial y Comunitaria; a la que quedan adscritas:
+F) Dirección General de Política e Innovación Social;
 
-1. Dirección Ejecutiva de Facilitadores Comunitarios; y
+G) (DEROGADO, G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
 
-2. Dirección Ejecutiva de Mejoramiento Barrial y Comunitario;
+H) (DEROGADO, G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2019)</small>
-
-G) Dirección General de Política e Innovación Social;
-
-H) (DEROGADO, G.O. 15 DE MAYO DE 2019)
-
-K) (DEROGADO, G.O. 15 DE MAYO DE 2019)
+I) (DEROGADO, G.O. 15 DE MAYO DE 2019) (F. DE E., G.O. 16 DE MAYO DE 2019)
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE MAYO DE 2019)</small>
 
@@ -13057,3 +13065,9 @@ G.O. 15 DE MAYO DE 2019.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 16 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DE LA “FE DE ERRATAS AL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN EL NÚMERO 91 DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, DE FECHA 15 DE MAYO DE 2019”.]
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
