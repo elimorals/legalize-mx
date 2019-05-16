@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-catastro-para-el-estado-de-durango-16744"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-06-18"
-last_updated: "2009-12-20"
+last_updated: "2019-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE CATASTRO PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 18 de junio de 2000.
 
@@ -499,17 +499,29 @@ Los Notarios Públicos o funcionarios que actúen con fe pública en el otorgami
 
 ###### ARTÍCULO 34.
 
-Las autoridades u organismos que intervengan en la modificación de las características de la propiedad raíz o de un bien inmueble en particular, deberán manifestarlo a la autoridad catastral correspondiente, dentro de un plazo de quince días hábiles contados a partir de que se produzca la modificación.
+(DEROGADO, P.O. 16 DE MAYO DE 2019)
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 35.
 
-Las autoridades que intervengan en la autorización de edificaciones, fraccionamientos, fusiones, subdivisiones y relotificaciones de terrenos, están obligadas a informar todo lo relativo a dichas autorizaciones a las autoridades catastrales, dentro de un plazo de quince días hábiles contados a partir de la autorización correspondiente.
+Las autoridades y organismos que intervengan en la modificación de las características de un inmueble, o en la autorización de edificaciones, fraccionamientos, fusiones, subdivisiones y relotificaciones de terrenos, están obligadas a informar a las autoridades catastrales todo lo relativo a dichas autorizaciones, dentro de un plazo de diez días hábiles contados a partir de la autorización correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 36.
 
-Las manifestaciones a que se refiere el artículo 32 de la presente Ley, se harán en las formas que al respecto autorice la autoridad catastral, expresándose todos los datos que caractericen al bien inmueble y anexando los documentos y planos respectivos.
+Las manifestaciones a que se refiere el artículo 32 de la presente Ley, se harán en las formas que al respecto autorice la autoridad catastral, consignándose todos los datos que caractericen al bien inmueble y anexando los documentos y planos respectivos.
 
 Los planos a que se refiere el párrafo anterior, deberán contener los datos topográficos y dibujarse a las escalas y con las características que la autoridad catastral determine.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2019)</small>
+
+La autoridad catastral contará con un término de 5 días hábiles, para dar respuesta a las manifestaciones procedentes de los Municipios con los que no se tiene Convenio de Colaboración Administrativa en Materia Catastral.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2019)</small>
+
+Y en el caso de que se cuente con el Convenio citado en el párrafo anterior, el término de respuesta será de 15 días hábiles.
 
 ###### ARTÍCULO 37.
 
@@ -680,3 +692,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y que se opongan al presente decreto.
+
+P.O. 16 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 90.- QUE CONTIENE REFORMA A LA LEY GENERAL DE CATASTRO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. -El presente decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango
+
+SEGUNDO.- Los Ayuntamientos deberán elaborar las reformas derivadas del presente Decreto, a sus respectivos Reglamentos de Catastro, en un plazo que no excederá de noventa días contados a partir del inicio de su vigencia.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
