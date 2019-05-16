@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2018-12-24"
+last_updated: "2019-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE MAYO DE 2019.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 24 DE DICIEMBRE DE 2018.
 
@@ -5700,9 +5700,15 @@ I. Altere o destruya los aparatos de control, sellos o marcas oficiales colocado
 
 II. Altere o destruya las máquinas registradoras de operación de caja en las oficinas recaudadoras, o al que tenga en su poder marbetes o precintos sin haberlos adquirido legalmente o los enajene, sin estar autorizado para ello.
 
-> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 16 DE MAYO DE 2019)</small>
 
-III. Expida, adquiera o enajene comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.
+III. Adquiera comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.
+
+> <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2019)</small>
+
+###### Artículo 113 Bis.
+
+Se impondrá sanción de tres a seis años de prisión, al que expida o enajene comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -9457,3 +9463,11 @@ Segundo. Los procedimientos iniciados con anterioridad a la entrada en vigor del
 D.O.F. 24 DE DICIEMBRE DE 2018.
 
 > <small>[N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACIÓN A LA RESOLUCIÓN DE MISCELÁNEA FISCAL, VÉASE EL ANEXO 5 PUBLICADO EN EL D.O.F. DE 24 DE DICIEMBRE DE 2018, PRIMERA SECCIÓN DENOMINADO “ANEXOS 1-A, 5, 8, 11 Y 27 DE LA QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, PUBLICADA EL 21 DE DICIEMBRE DE 2018”.]</small>
+
+D.O.F. 16 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 113 Y SE ADICIONA UN ARTÍCULO 113 BIS DEL CÓDIGO FISCAL DE LA FEDERACIÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
