@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-para-la-atencion-y-81465"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-05-27"
-last_updated: "2018-11-30"
+last_updated: "2019-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81465&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,13 @@ issue_date: "2011-04-14"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO PARA LA ATENCION Y PREVENCION DE LAS ADICCIONES EN LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE SEPTIEMBRE DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
+> <small>[N. DE E. LAS REFORMAS APROBADAS MODIFICARON DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL TEXTO DEL ESTATUTO DEL 30 DE NOVIEMBRE DE 2018, Y SI BIEN DIVERSOS ARTÍCULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN LA GACETA OFICIAL DEL 17 DE MAYO DE 2019.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA ATENCIÓN Y PREVENCIÓN DE LAS ADICCIONES EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE MAYO DE 2019.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el viernes 27 de mayo de 2011.
 
@@ -30,33 +34,27 @@ La doctora Marcela López Cabrera, Directora General del Instituto para la Atenc
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA ATENCIÓN Y PREVENCIÓN DE LAS ADICCIONES EN LA CIUDAD DE MÉXICO
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 1.
 
 El presente ordenamiento tiene por finalidad establecer la organización, las atribuciones y el funcionamiento del Instituto para la Atención y Prevención de las Adicciones en la Ciudad de México, como un organismo descentralizado de la Administración Pública de la Ciudad de México, con personalidad jurídica y patrimonio propio, dotado de autonomía presupuestal, técnica, operativa y administrativa, el cual tiene como objeto, como instancia rectora, la atención integral del consumo de sustancias psicoactivas en el territorio que comprende la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 2.
 
 Comprenden el objeto del Instituto para la Atención y Prevención de las Adicciones en la Ciudad de México:
 
-I. Reducir el uso, el abuso y la dependencia de sustancias psicoactivas, mediante el desarrollo de políticas públicas y programas sociales, a través del diseño de proyectos de investigación, prevención, tratamiento, formación, rehabilitación e integración comunitaria, impulsando la participación de los sectores público, social y privado, y
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
+I. Reducir el uso, el abuso y la dependencia de sustancias psicoactivas, mediante el desarrollo de programas sociales, a través del diseño de proyectos de prevención, tratamiento, formación, rehabilitación e integración comunitaria, impulsando la participación de los sectores público, social y privado, y
 
 II. Las demás acciones que contempla el artículo 64 de la propia Ley para la Atención Integral del Consumo de Sustancias Psicoactivas de la Ciudad de México.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 3.
 
@@ -66,33 +64,23 @@ I. Adicción o Dependencia: Estado psicofísico causado por la interacción de u
 
 II. Administración Pública: Dependencias, Entidades y Órganos Político-Administrativos que conforman la Administración Pública de la Ciudad de México;
 
-III. Centros de Atención de Adicciones: Espacios de carácter público, privado o social, fijos o móviles, cualquiera que sea su denominación, que proporcionen servicios para la atención específica de personas con consumo perjudicial o adicción a sustancias psicoactivas, y que, en cualquier caso, operan bajo un modelo de atención profesional, de ayuda mutua o mixto;
+III. Centros de Atención de Adicciones: Establecimientos de carácter público, privado o social, fijos o móviles, residenciales o ambulatorios, cualquiera que sea su denominación, que proporcionan servicios para la atención específica de personas con consumo perjudicial o adicción a sustancias psicoactivas, que operan bajo un modelo de atención profesional, de ayuda mutua o mixto y sujetos, en todo caso, a la verificación y regulación por parte del Instituto;
 
-IV. Centros de Atención Integral del Consumo de Sustancias Psicoactivas: Instituciones públicas dedicadas a la provisión de servicios de atención integral a personas con consumo de sustancias psicoactivas y a la población en general, que estarán coordinadas por la rectoría del Instituto;
+IV. Centro de Atención Integral del Consumo de Sustancias Psicoactivas: Instituciones públicas dedicadas a la provisión de servicios de atención integral a personas con consumo de sustancias psicoactivas y a la población en general en materia de prevención, que estarán coordinadas, supervisadas y bajo la rectoría del Instituto;
 
-V. Clausura: Acto administrativo a través del cual la autoridad como consecuencia del incumplimiento de la normatividad aplicable, ordena la interrupción de las actividades del Centro de Atención de Adicciones, pudiendo ser de carácter temporal o permanente, parcial o total;
+V. Dirección General: A la persona titular de la Dirección General del Instituto para la Atención y Prevención de las Adicciones en la Ciudad de México;
 
-VI. Dirección General: a la persona titular de la Dirección General del Instituto para la Atención y Prevención de las Adicciones en la Ciudad de México;
+VI. Gobierno: Al Gobierno de la Ciudad de México;
 
-VII. Gobierno: El Gobierno de la Ciudad de México;
+VII. Instituto: Al Instituto para la Atención y Prevención de las Adicciones en la Ciudad de México;
 
-VIII. Instituto: al Instituto para la Atención y Prevención de las Adicciones en la Ciudad de México;
+VIII. Ley: Ley para la Atención Integral del Consumo de Sustancias Psicoactivas de la Ciudad de México;
 
-IX. Ley: Ley para la Atención Integral del Consumo de Sustancias Psicoactivas de la Ciudad de México;
+IX. Programa General: Programa General para la Atención Integral del Consumo de Sustancias Psicoactivas de la Ciudad de México, y
 
-X. Medida de Seguridad: Acción implementada por la autoridad administrativa con la finalidad de eliminar o prevenir el riesgo detectado, cuya temporalidad subsistirá hasta en tanto desaparezca el peligro;
+X. Verificación Administrativa: Procedimiento administrativo para revisar o comprobar el cumplimiento de las disposiciones legales y reglamentarias a cargo de un visitado y que se sujeta a las formalidades y procedimientos establecidos en la Ley de Procedimiento Administrativo de la Ciudad de México y el Reglamento de Verificación Administrativa del Distrito Federal.
 
-XI. Monitoreo: La actuación de carácter administrativo que consiste en vigilar, supervisar y observar de manera general el funcionamiento y operación de los Centros de Atención de Adicciones;
-
-XII. Programa General: El programa General para la Atención Integral del Consumo de Sustancias Psicoactivas de la Ciudad de México;
-
-XIII. Supervisión: Diligencia administrativa para corroborar el cumplimiento de las medidas de seguridad;
-
-XIV. Suspensión Temporal de Actividades: Medida emergente implementada durante el procedimiento administrativo, derivada del incumplimiento a la presente ley y a la normatividad aplicable; y
-
-XV. Visita de Verificación: Diligencia de carácter administrativo que ordena la autoridad competente con el objeto de comprobar el cumplimiento de las disposiciones legales y reglamentarias respecto de las actividades reguladas que se realicen en los Centros de Atención de las Adicciones.
-
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 4.
 
@@ -100,101 +88,87 @@ Para el estudio, planeación y despacho de los asuntos que le competen al Instit
 
 ÓRGANOS DE GOBIERNO Y ADMINISTRACIÓN:
 
-Consejo Directivo
+Consejo Directivo.
 
-Dirección General
+Dirección General.
 
 UNIDADES ADMINISTRATIVAS:
 
-Dirección de Investigación y Evaluación
+Dirección de Monitoreo, Seguimiento e Indicadores.
 
-Dirección de Capacitación y Formación
+Dirección de Profesionalización y Desarrollo Interinstitucional.
 
-Dirección de Prevención y Promoción
+Dirección de Difusión para la Prevención de Adicciones.
 
-Dirección de Tratamiento e Integración Social
+Dirección de Prototipos de Atención e Inclusión Comunitaria.
 
-Dirección de Políticas Públicas
+Dirección de Verificación y Cumplimiento Normativo de Centros de Atención de Adicciones.
 
-Dirección de Supervisión y Regulación de Centros de Atención de Adicciones (CAA´s)
+Coordinación de Administración y Finanzas.
 
-Dirección de Administración
-
-Coordinación de Comunicación y Difusión
-
-Coordinación de Asuntos Jurídicos y Derechos Humanos
+Subdirección de Asuntos Litigiosos.
 
 ÓRGANOS DE VIGILANCIA Y CONTROL:
 
 Comisario Público Propietario y un Suplente.
 
-Contraloría Interna.
+Órgano Interno de Control.
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 5.
 
-Para el cumplimiento de su objeto y en apoyo a la Dirección General en el desarrollo de sus responsabilidades, el Instituto contará con Directores de Área, Subdirectores, Coordinadores, Jefes de Unidad Departamental, Líderes Coordinadores de Proyecto, Enlaces Administrativos y demás personal que sea requerido para la más eficaz atención de los asuntos de su competencia.
+Para el cumplimiento de su objeto y en apoyo a la Dirección General en el desarrollo de sus responsabilidades, el Instituto contará con Directores de Área, Subdirectores, Jefes de Unidad Departamental, Líderes Coordinadores de Proyecto, Enlaces Administrativos y demás personal que sea requerido para la más eficaz atención de los asuntos de su competencia.
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 6.
 
 Las actividades de las unidades administrativas del Instituto se regirán por los principios de actuación establecidos en la Ley, en forma programada y de conformidad a las políticas, estrategias y prioridades de la planeación nacional, así como del Programa General de Desarrollo del Gobierno de la Ciudad de México, del Programa General para la Atención Integral del Consumo de Sustancias Psicoactivas de la Ciudad de México y a los programas institucionales que le correspondan, siendo estas en materia de:
 
-I. Investigación;
+I. Monitoreo, Seguimiento e Indicadores;
 
-II. Evaluación;
+II. Profesionalización, así como procesos formativos y capacitación;
 
-III. Formación y Capacitación
+III. Difusión para la Prevención de Adicciones;
 
-IV. Prevención;
+IV. Prototipos de Atención e Inclusión Comunitaria; y,
 
-V. Tratamiento;
+V. Verificación y Cumplimiento Normativo de Centros de Atención de Adicciones.
 
-VI. Integración Comunitaria;
-
-VII. Políticas Públicas;
-
-VIII. Propuestas de Mejora del Marco Regulatorio, y
-
-IX. Verificación y Regulación de Centros de Atención de Adicciones.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ### CAPÍTULO II. DE LOS TRABAJADORES DEL INSTITUTO
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 7.
 
 Los trabajadores del Instituto se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del Artículo 123 Constitucional.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 8.
 
 En el desempeño de las funciones de su cargo, comisiones que le sean asignadas y en la administración de los recursos económicos y materiales asignados, los trabajadores atenderán los principios de legalidad, imparcialidad, transparencia y racionalidad.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 9.
 
-La responsabilidad de los servidores públicos adscritos al Instituto, se regulará por la Ley de Responsabilidades Administrativas de la Ciudad de México, en los términos del Título Sexto, Capítulo II del Régimen de Responsabilidades de la Constitución Política de la Ciudad de México y demás disposiciones legales aplicables.
+La responsabilidad de los servidores públicos adscritos al Instituto, se regulará por la Ley Federal de Responsabilidades de los Servidores Públicos, en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ### CAPÍTULO III. DEL CONSEJO DIRECTIVO
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 10.
 
 El Consejo Directivo es el órgano colectivo de gobierno del Instituto que, en cumplimiento del Programa Anual de Trabajo, fijará las políticas de actuación y administración que le permitan alcanzar una gestión eficaz, productiva y eficiente.
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 11.
 
@@ -206,31 +180,31 @@ II. Secretaría de Salud, que fungirá como suplente de la Presidencia;
 
 III. Secretaría de Gobierno;
 
-IV. Secretaría de Desarrollo Social;
+IV. Secretaria de Inclusión y Bienestar Social;
 
 V. Secretaría de Educación;
 
 VI. Secretaría de Cultura;
 
-VII. Secretaría de Seguridad Pública, y
+VII. Secretaría de Seguridad Ciudadana; y,
 
 VIII. Procuraduría General de Justicia.
 
 Los titulares serán los encargados de asistir a las reuniones del Consejo Directivo, pudiendo designar un suplente que no podrá tener nivel inferior al de Director General.
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 12.
 
 El Consejo Directivo celebrará sesiones ordinarias trimestralmente, sin que puedan ser menos de cuatro veces al año, pudiendo celebrar sesiones extraordinarias cuando la Presidencia del Consejo lo estime necesario, a propuesta de algún Consejero Titular, o bien a petición de la Dirección General del Instituto.
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 13.
 
 Para la celebración de las sesiones del Consejo Directivo, el Secretario Técnico hará llegar a los miembros que lo integran, la convocatoria, el orden del día y el apoyo documental de los asuntos a tratar, con una anticipación no menor a cinco días hábiles cuando se trate de sesiones ordinarias y de tres días hábiles cuando se trate de sesiones extraordinarias.
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 14.
 
@@ -238,7 +212,7 @@ El Consejo Directivo sesionará válidamente con la asistencia de por lo menos l
 
 A las sesiones del Consejo Directivo asistirá con derecho a voz pero sin voto, el o la titular de la Dirección General del Instituto como invitado permanente, así como el Comisario Público o Comisaria Pública.
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 15.
 
@@ -258,19 +232,15 @@ VI. El establecimiento de un sistema interno de rendición de cuentas transparen
 
 VII. Las propuestas de nombramiento o remoción que le formule la Dirección General respecto de los titulares de las siguientes unidades administrativas:
 
-Investigación y Evaluación
+Monitoreo, Seguimiento e Indicadores;
 
-Capacitación y Formación
+Profesionalización y Desarrollo Interinstitucional;
 
-Prevención y Promoción
+Difusión para la Prevención de Adicciones;
 
-Tratamiento e Integración Social
+Prototipos de Atención e Inclusión Comunitaria; y,
 
-Políticas Públicas
-
-Supervisión y Regulación de Centros de Atención de Adicciones (CAA´s)
-
-Administración
+Verificación y Cumplimiento Normativo de Centros de Atención de Adicciones.
 
 VIII. Los tabuladores para el pago de los servidores públicos del Instituto, así como la normatividad y la política de remuneración del personal y determinar las políticas y lineamientos administrativos respecto a la contratación de servicios profesionales;
 
@@ -280,33 +250,31 @@ X. La estructura básica de la organización del Instituto y las modificaciones 
 
 XI. Los proyectos de gastos de inversión a los que se someterá el Instituto, de acuerdo con la disponibilidad presupuestal y vigilar la correcta aplicación de los recursos asignados;
 
-XII. El Programa General, y
+XII. El Programa General; y,
 
 XIII. Las demás que le atribuye el presente Estatuto y las normas aplicables.
 
 Asimismo, le corresponde cuidar la congruencia global de las funciones paraestatales del Instituto con el Sistema de Planeación de la Ciudad de México y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 16.
 
-La persona titular de la Dirección General será designada por el Jefe del Gobierno de la Ciudad de México, a propuesta en terna que formule el Consejo Directivo, la cual deberá cumplir con los requisitos establecidos en el artículo 70 de la Ley.
+La persona titular de la Dirección General será designada por la Jefa de Gobierno de la Ciudad de México, a propuesta en terna que formule el Consejo Directivo, la cual deberá cumplir con los requisitos establecidos en el artículo 70 de la Ley.
 
 La persona titular de la Dirección General durará en su cargo cuatro años, pudiendo ser nombrada para un período adicional.
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 17.
 
 La Dirección General se auxiliará en el ejercicio de sus atribuciones, de las unidades administrativas establecidas en el Artículo 4 del presente Estatuto y de las demás que requiera para su operación.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 18.
 
@@ -326,9 +294,9 @@ VI. Observar la correcta aplicación de las disposiciones emanadas del Consejo D
 
 VII. Instrumentar y ejecutar los acuerdos que emita el Consejo Directivo;
 
-VIII. Elaborar el Programa General, que deberá incluir acciones tendientes a la prevención, tratamiento, rehabilitación e integración comunitaria de las personas con problemas de uso, abuso o dependencia de sustancias psicoactivas;
+VIII. Elaborar el Programa General, que deberá incluir acciones tendientes a la difusión de la prevención, formación, rehabilitación e integración comunitaria de las personas con problemas de uso, abuso o dependencia de sustancias psicoactivas
 
-IX. Evaluar de forma periódica y esquemática los objetivos, estrategias y líneas de acción prioritarias que se deriven del Programa General y emitir orientaciones para su ejecución y mejora de sus resultados;
+IX. Evaluar de forma periódica y esquemática los objetivos, estrategias y líneas de acción prioritarias que se deriven del Programa General;
 
 X. Formular los programas institucionales de corto, mediano y largo plazo, así como los presupuestos del Instituto y presentarlos para la aprobación del Consejo Directivo;
 
@@ -348,19 +316,15 @@ XVII. Diseñar y aplicar indicadores para evaluar el desempeño del personal y e
 
 XVIII. Proponer ante el Consejo Directivo para su aprobación, el nombramiento, o en su caso, remoción de los titulares de las siguientes unidades administrativas:
 
-Investigación y Evaluación
+Monitoreo, Seguimiento e Indicadores;
 
-Capacitación y Formación
+Profesionalización y Desarrollo Interinstitucional;
 
-Prevención y Promoción
+Difusión para la Prevención de Adicciones;
 
-Tratamiento e Integración Social
+Prototipos de Atención e Inclusión Comunitaria; y,
 
-Políticas Públicas
-
-Supervisión y Regulación de Centros de Atención de Adicciones (CAA´s)
-
-Administración
+Verificación y Cumplimiento Normativo de Centros de Atención de Adicciones.
 
 Asimismo, nombrar y remover al resto del personal, con estricto apego a la normatividad aplicable;
 
@@ -368,7 +332,7 @@ XIX. Mantener colaboración y coordinación con Dependencias, Órganos y demás 
 
 XX. Establecer, con apoyo de las unidades administrativas, mecanismos de seguimiento para la aplicación de la Ley en todas las instituciones y organismos gubernamentales y no gubernamentales que brinden servicios en la materia o tengan actividades afines;
 
-XXI. Vigilar que la atención integral del consumo de sustancias psicoactivas en el Ciudad de México sea con apego a la normatividad vigente y emitir recomendaciones de mejora;
+XXI. Vigilar que la atención integral del consumo de sustancias psicoactivas en la Ciudad de México sea con apego a la normatividad vigente;
 
 XXII. Convocar, coordinar, organizar y promover con organismos públicos, privados y sociales la realización de acciones encaminadas a la integración y desarrollo del Programa General y los objetivos, estrategias y líneas de acción prioritarias, para el fortalecimiento de acciones encaminadas a abatir los problemas de salud pública relacionados y derivados del consumo de sustancias psicoactivas, apoyándose en una red interinstitucional que permita darle al Instituto un carácter rector;
 
@@ -376,41 +340,35 @@ XXIII. Promover la participación, en el ámbito de su competencia, de las Depen
 
 XXIV. Requerir a la Administración Pública de la Ciudad de México y a las instituciones privadas que proporcionen la información y documentación necesaria para el ejercicio de las atribuciones del Instituto, especialmente la información epidemiológica y para la identificación de zonas de riesgo a fin de alimentar el Observatorio Especializado en Sustancias Psicoactivas;
 
-XXV. Emitir lineamientos y criterios para el desarrollo de las acciones en materia de atención integral del consumo de sustancias psicoactivas que lleven a cabo los sectores público, social y privado;
+XXV. Emitir certificaciones a instituciones públicas y privadas que adopten medidas de prevención y tratamiento para el consumo de sustancias psicoactivas;
 
-XXVI. Expedir de manera conjunta con la Dirección de Supervisión y Regulación de CAA´s la constancia de Registro que acredite el legal funcionamiento de los Centros de Atención de Adicciones, siempre que cumplan con los criterios básicos de la normatividad vigente que les resulte aplicable;
+XXVI. Asesorar y formular opiniones en materia de consumo de sustancias psicoactivas a la Secretaría de Salud de la Ciudad de México, cuando sea requerido;
 
-XXVII. Expedir de manera conjunta con la federación, la constancia de Reconocimiento que acredite el cumplimiento de los estándares de calidad establecidos en la Ley y la normativa aplicable;
+XXVII. Actuar como órgano de coordinación, consulta técnica y normativa en materia de consumo de sustancias psicoactivas ante las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías de la Administración Pública;
 
-XXVIII. Asesorar y formular opiniones en materia de consumo de sustancias psicoactivas a la Secretaría de Salud de la Ciudad de México, cuando sea requerido;
+XXVIII. Establecer relaciones de intercambio con organismos similares, nacionales e internacionales;
 
-XXIX. Actuar como órgano de coordinación, consulta técnica y normativa en materia de consumo de sustancias psicoactivas ante las dependencias, órganos desconcentrados, entidades y alcaldías de la Administración Pública;
+XXIX. Presentar anualmente un informe de rendición de cuentas ante la sociedad y un informe de las actividades del Instituto al Consejo Directivo y al Congreso de la Ciudad de México así como los informes específicos que le sean solicitados al Instituto;
 
-XXX. Establecer relaciones de intercambio con organismos similares, nacionales e internacionales;
+XXX. Suscribir acuerdos, convenios, contratos y demás instrumentos de colaboración en los que el Instituto tenga interés jurídico, de conformidad con los lineamientos que al efecto emita el Consejo Directivo;
 
-XXXI. Presentar anualmente un informe de rendición de cuentas ante la sociedad y un informe de las actividades del Instituto al Consejo Directivo y al Congreso de la Ciudad de México, así como los informes específicos que le sean solicitados al Instituto;
+XXXI. Ejercer las facultades de dominio, administración, pleitos y cobranzas de conformidad con las disposiciones legales o reglamentarias aplicables, así como emitir, avalar o negociar títulos de crédito;
 
-XXXII. Suscribir acuerdos, convenios, contratos y demás instrumentos de colaboración o en los que el Instituto tenga interés jurídico, de conformidad con los lineamientos que al efecto emita el Consejo Directivo;
+XXXII. Formular querellas y otorgar perdón legal, así como ejercitar o desistirse de acciones judiciales, inclusive del juicio de amparo;
 
-XXXIII. Ejercer las facultades de dominio, administración, pleitos y cobranzas de conformidad con las disposiciones legales o reglamentarias aplicables, así como emitir, avalar o negociar títulos de crédito;
+XXXIII. Conocer, substanciar y resolver los recursos de inconformidad que se presenten en el ámbito de su competencia;
 
-XXXIV. Formular querellas y otorgar perdón legal, así como ejercitar o desistirse de acciones judiciales, inclusive del juicio de amparo;
+XXXIV. Emitir copias certificadas de los documentos que integran los expedientes del Instituto; y,
 
-XXXV. Conocer, substanciar y resolver los recursos de inconformidad que se presenten en el ámbito de su competencia;
+XXXV. Las demás que le otorgue el presente Estatuto y el Consejo Directivo.
 
-XXXVI. Emitir copias certificadas de los documentos que integran los expedientes del Instituto;
-
-XXXVII. Supervisar la operación de la Unidad de Transparencia del Instituto; realizar, en coordinación con las unidades administrativas, las acciones conducentes para que el Instituto cumpla con la normatividad aplicable en materia de transparencia, protección de datos personales y rendición de cuentas; y
-
-XXXVIII. Las demás que le otorgue el presente Estatuto y el Consejo Directivo.
-
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 19.
 
 La Dirección General podrá delegar sus facultades, sin que se exima de la responsabilidad, con excepción de aquellas que por disposición legal, expresa o por determinación del Consejo Directivo le correspondan exclusivamente.
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 20.
 
@@ -442,11 +400,11 @@ El Consejo Directivo determinará la forma y términos en que participarán en e
 
 Se invitará a la Comisión de Derechos Humanos de la Ciudad de México y a la Universidad Autónoma de la Ciudad de México como observadores del Consejo Consultivo.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ### CAPÍTULO V. UNIDADES ADMINISTRATIVAS
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 21.
 
@@ -466,10 +424,6 @@ VI. Organizar, dirigir, supervisar, coordinar y evaluar los programas aprobados 
 
 VII. Promover con organismos públicos, privados y sociales la realización de acciones encaminadas al cumplimiento de los Programas del Instituto para abatir los problemas de salud pública relacionados y derivados del consumo de sustancias psicoactivas;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
-
 VIII. Fomentar, en el ámbito de su respectiva competencia, la participación de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades que integran la Administración Pública de la Ciudad de México; así como organismos no gubernamentales y organizaciones sociales, para el desarrollo de las acciones establecidas en la ley en materia de prevención, tratamiento e integración comunitaria;
 
 IX. Acordar con la Dirección General del Instituto las resoluciones de los asuntos de su competencia y formular los informes y dictámenes que le sean solicitados, así como ordenar y vigilar que los acuerdos se cumplan;
@@ -478,299 +432,231 @@ X. Coordinar, supervisar y evaluar la actuación del personal adscrito a su áre
 
 XI. Atender los asuntos relacionados con el personal adscrito al área de su responsabilidad, de conformidad a las disposiciones aplicables;
 
-XII. Proporcionar la información y la cooperación técnica que les sea requerida por las demás unidades del Instituto y por las dependencias del Gobierno de la Ciudad de México, que tengan relación o vinculación directa con las funciones del organismo;
+XII. Proporcionar la información y la cooperación técnica que les sea requerida por las demás Unidades Administrativas del Instituto y por las Dependencias del Gobierno de la Ciudad de México, que tengan relación o vinculación directa con las funciones del organismo;
 
-XIII. Coadyuvar en el fomento a la participación de instituciones privadas, fundaciones, organismos patronales, asociaciones y cámaras en el Fideicomiso Asimilado a Público para la Atención Integral de las Adicciones en el Distrito Federal;
+XIII. Coadyuvar en el fomento a la participación de instituciones privadas, fundaciones, organismos patronales, asociaciones y cámaras en el Fideicomiso Asimilado a Público para la Atención Integral de las Adicciones en la Ciudad de México;
 
 XIV. Emitir opinión, a solicitud de la Dirección General, para la certificación de instituciones públicas y privadas que adopten medidas de prevención y tratamiento para el consumo de sustancias psicoactivas;
 
 XV. Asesorar y formular opiniones en materia de consumo de sustancias psicoactivas, cuando les sea requerido;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
+XVI. Colaborar, a solicitud de la Dirección General, cuando el Instituto funcione como órgano de coordinación, consulta técnica y normativa en materia de consumo de sustancias psicoactivas ante las dependencias, órganos desconcentrados, entidades y Alcaldías de la Administración Pública;
 
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-XVI. Colaborar, a solicitud de la Dirección General, cuando el Instituto funcione como órgano de coordinación, consulta técnica y normativa en materia de consumo de sustancias psicoactivas ante las dependencias, órganos desconcentrados, entidades y alcaldías de la Administración Pública;
-
-XVII. Establecer relaciones de intercambio con organismos similares, nacionales e internacionales, y
+XVII. Establecer relaciones de intercambio con organismos similares, nacionales e internacionales; y,
 
 XVIII. Certificar copias de los documentos originales, así como el cotejo de los documentos que sean exhibidos dentro de los trámites que se realicen y que obran en los archivos del área a su cargo.
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 22.
 
-La Dirección de Investigación y Evaluación tendrá entre sus atribuciones:
+La Dirección de Monitoreo, Seguimiento e Indicadores tendrá entre sus atribuciones:
 
-I. Llevar a cabo investigación científica en materia de consumo de sustancias psicoactivas, así como promover la realización de estudios científicos en la materia;
+I. Elaborar los indicadores de proceso, impacto, resultados y satisfacción que permitan evaluar los programas, acciones, proyectos y actividades que emprenda el Instituto;
 
-II. Evaluar los programas y modelos de intervención relativos a la prevención, detección, diagnóstico, tratamiento, rehabilitación e integración comunitaria que realicen los sectores público, social y privado en materia de consumo de sustancias psicoactivas, a fin de determinar si se encuentran sustentados en un modelo integral y evidencia científica;
+II. Monitorear y dar seguimiento a los datos de los programas, acciones, proyectos, actividades y medidas relativas a la prevención, diagnóstico, tratamiento, rehabilitación e integración comunitaria que realicen los sectores público y privado en materia de consumo, abuso y dependencia de sustancias psicoactivas, a fin de determinar si se encuentran sustentados en un modelo integral; mediante indicadores de proceso, impacto, satisfacción y resultados;
 
-III. Brindar la asesoría que requieran personas e instituciones públicas, sociales y privadas; así como participar, en su caso como órgano consultivo y propositivo en el estudio, formulación y aplicación de medidas públicas dentro del ámbito de su competencia;
+III. Evaluar, en coordinación con las unidades administrativas, los programas, acciones, proyectos y actividades del Instituto, mediante indicadores de gestión y de proceso;
 
-IV. Diseñar una red integral, resolutiva y coordinada de información en adicciones y establecer acciones de colaboración interinstitucional y sectorial de los diferentes niveles de gobierno para su conformación y operación;
+IV. Establecer un sistema de información que permita determinar indicadores de gestión y de proceso de los programas, acciones, proyectos y actividades del Instituto;
 
-V. Interpretar los resultados de las bases de datos que en materia de adicciones generen el Instituto y los sectores público, social y privado para alimentar el Observatorio Especializado en Sustancias Psicoactivas;
+V. Monitorear, dar seguimiento, procesar y evaluar las bases de datos que en materia de adicciones genere el Instituto y los sectores público, social y privado;
 
-VI. Administrar un centro de documentación digital en materia de consumo de sustancias psicoactivas;
+VI. Contribuir a la implementación, seguimiento y evaluación de las políticas públicas en materia de adicciones que se desarrollen en el ámbito local;
 
-VII. Promover y realizar reuniones de intercambio de información de carácter social y científico con entidades nacionales e internacionales;
+VII. Establecer continuamente acciones de intercambio y divulgación en materia de investigación y evaluación de las políticas públicas de tratamientos y prevención de las adicciones para generar vínculos con dependencias públicas y privadas;
 
-VIII. Enviar la información epidemiológica sobre el consumo de sustancias psicoactivas para alimentar el Observatorio Especializado en Sustancias Psicoactivas;
+VIII. Difundir a través del Observatorio Especializado en Sustancias Psicoactivas, información estadística sobre el consumo, dependencia, abuso, consecuencia y factores de riesgo del uso de sustancias psicoactivas;
 
-IX. Proporcionar información que sea resultado de investigaciones científicas que requieran las diferentes áreas del Instituto para la toma de decisiones;
+IX. Llevar a cabo investigación cualitativa y cuantitativa en materia de consumo, abuso, dependencia, prevención y tratamiento de adicciones;
 
-X. Apoyar a las áreas administrativas en el diseño de protocolos e instrumentos de investigación y evaluación; y
+X. Colaborar en la elaboración y seguimiento del Programa General;
 
-XI. Las demás que le sean aplicables en los términos de la propia Ley.
+XI. Proponer modificaciones al marco normativo de la Ciudad de México para evitar y reducir el consumo y uso indebido de sustancias psicoactivas, así como para mejorar el desarrollo de las actividades encomendadas al Instituto; y,
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+XII. Las demás que le sean aplicables en los términos de la propia Ley y las que les encomiende la Dirección General.
+
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 23.
 
-La Dirección de Capacitación y Formación tendrá entre sus atribuciones:
-
-I. Proponer los lineamientos y criterios para la capacitación y formación en materia de atención integral del consumo de sustancias psicoactivas y temas relacionados;
-
-II. Diseñar, desarrollar y evaluar programas de capacitación y formación para la atención integral de las adicciones;
-
-III. Diseñar programas de capacitación constante y especializada en materia de detección, tratamiento, rehabilitación e integración comunitaria, orientada al personal de los juzgados de adolescentes en conflicto con la ley;
-
-IV. Desarrollar programas de formación de capacitadores en materias de prevención y detección temprana del consumo de sustancias psicoactivas, para su actuación en las diferentes colonias, barrios, unidades habitacionales y pueblos de la Ciudad de México;
-
-V. Desarrollar programas de capacitación técnica y profesional, en las modalidades presencial y a distancia, para el personal que atiende a personas con uso, abuso y dependencia de sustancias psicoactivas, prioritariamente dirigidos al personal de salud, educación, desarrollo social, impartición de justicia, organizaciones de la sociedad civil, responsables de Centros de Atención de Adicciones, asociaciones civiles y sociedad participativa;
-
-VI. Fomentar la formación de profesionales en temas de consumo de sustancias psicoactivas con instituciones educativas, públicas y privadas;
-
-VII. Organizar y fomentar la realización de congresos, seminarios y paneles que favorezcan el intercambio de conocimientos en materia de consumo de sustancias psicoactivas, y
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(ADICIONADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-VII BIS. Acreditar conjuntamente con la Dirección General a las instituciones y organizaciones de los sectores público, social y privado que cumplan con las normas técnicas, lineamientos y criterios emitidos por el Instituto en materia de capacitación y formación para la atención integral del consumo de sustancias psicoactivas en la Ciudad de México; y
-
-VIII. Las demás que le sean aplicables en los términos de la propia Ley.
-
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
-
-###### ARTÍCULO 24.
-
-La Dirección de Prevención y Promoción tendrá entre sus atribuciones:
-
-I. Promover y regular los servicios de prevención del consumo de sustancias psicoactivas en la Ciudad de México, en los términos que establece el presente Estatuto;
-
-II. Emitir los criterios técnicos y lineamientos para la realización de campañas y programas que incluyan estrategias adecuadas de promoción a la salud en materia de consumo de sustancias psicoactivas, que difundan entre grupos vulnerables los riesgos de la salud secundarios al uso, abuso y dependencia de sustancias psicoactivas, a fin de prevenir su consumo;
-
-III. Coordinar la ejecución de las acciones institucionales de la Administración Pública de la Ciudad de México en materia de prevención del consumo de sustancias psicoactivas en la Ciudad de México, fomentando la colaboración de las figuras de representación ciudadana establecidas en la legislación en la materia, así como cualquier otro mecanismo de participación comunitaria;
-
-IV. Impulsar campañas y programas de prevención, prioritariamente en espacios escolares, culturales, deportivos y en todo espacio público;
-
-V. Llevar a cabo campañas de prevención que definan estrategias dirigidas a comunidades específicas, que incluyan entre otras, jornadas en espacios públicos, conferencias, talleres y módulos de orientación;
-
-VI. Sumar esfuerzos y recursos con organizaciones civiles y privadas para promover y fomentar programas de prevención y atención a grupos de alto riesgo y en condición de vulnerabilidad;
-
-VII. Promover el uso de espacios públicos para desarrollar programas preventivos para la población que sea más vulnerable al consumo de sustancias psicoactivas;
-
-VIII. Fomentar la integración social de niños, niñas, adolescentes y jóvenes, que se encuentren en situación de riesgo, para prevenir y protegerlos de la violencia, el delito, el consumo de sustancias psicoactivas, garantizar el ejercicio pleno de sus derechos, así como generar una mejor convivencia del ámbito familiar y social;
-
-IX. Promover el desarrollo de la creatividad, capacidades, habilidades y conocimientos de niños, niñas, adolescentes y jóvenes para la búsqueda de soluciones a problemas comunes;
-
-X. Estimular la formación de redes juveniles que promuevan el desarrollo y ejercicio de los derechos de las y los jóvenes;
-
-XI. Conformar la red de instituciones públicas y privadas para conformar una alianza para la prevención de las adicciones en la Ciudad de México, como un mecanismo de coordinación y cooperación interinstitucional que permita el intercambio de experiencias, identificar mecanismos de colaboración y corresponsabilidad institucional;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-XII. Integrar y actualizar, en coordinación con las dependencias, órganos desconcentrados, entidades y alcaldías de la Administración Pública de la Ciudad de México, el registro de zonas de alto riesgo de adicciones y realizar actividades de detección temprana del consumo de sustancias psicoactivas en los ámbitos familiar, escolar, laboral y comunitario, para la implementación de acciones específicas;
-
-XIII. Prevenir comportamientos que detonen riesgo y proteger a niños, niñas, adolescentes y jóvenes de las zonas de mayor incidencia delictiva de la Ciudad de México;
-
-XIV. Impulsar la actividad cultural y el trabajo desarrollado por artistas, promotores culturales, grupos de vecinos y colectivos comunitarios, en zonas de alta marginalidad de la Ciudad de México como estrategia de prevención del consumo de sustancias psicoactivas;
-
-XV. Fomentar programas de uso del tiempo libre y actividades de esparcimiento, culturales y deportivas;
-
-XVI. Promover la detección del abuso o dependencia de sustancias psicoactivas en el ámbito educativo, laboral y social, así como fomentar que se otorguen facilidades para la obtención del diagnóstico médico;
-
-XVII. Coordinarse permanentemente con la Administración Pública de la Ciudad de México, así como con instituciones educativas, organizaciones juveniles, deportivas, culturales y gremiales de los sectores social y privado, para la identificación de zonas y grupos que presenten problemas de uso, abuso y dependencia de sustancias psicoactivas y la realización de acciones preventivas;
-
-XVIII. Implementar acciones en materia de prevención de las adicciones y promoción de la Salud utilizando las nuevas tecnologías de información y comunicación;
-
-XIX. Elaborar publicaciones en materia de prevención de las adicciones y promoción de la salud en los términos que determine el Consejo Directivo, y
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(ADICIONADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-XIX BIS. Acreditar conjuntamente con la Dirección General a las instituciones y organizaciones de los sectores público, social y privado que cumplan con las normas técnicas, lineamientos y criterios que regulen la prestación de servicios en materia de prevención del consumo de sustancias psicoactivas; y
-
-XX. Las demás que le sean aplicables en los términos de la propia Ley.
-
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
-
-###### ARTÍCULO 25.
-
-La Dirección de Tratamiento e Integración Social tendrá entre sus atribuciones:
-
-I. Establecer las bases, lineamientos, objetivos, modalidades, métodos y estrategias que llevarán a cabo los Centros de Atención de Adicciones y los centros de atención integral del consumo de sustancias psicoactivas que presten sus servicios en las materias de tratamiento y rehabilitación del consumo de sustancias psicoactivas en la Ciudad de México;
-
-II. Emitir los lineamientos para la elaboración de los manuales técnico-administrativos de los Centros de Atención de Adicciones, supervisar y evaluar su implementación para mejorar los servicios;
-
-III. Coadyuvar en el proceso de Registro y Reconocimiento de los Centros de Atención de Adicciones, mediante asesoría, apoyo en la implementación, supervisión, y validación de aspectos técnicos y metodológicos en materia de tratamiento, rehabilitación e integración comunitaria;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(ADICIONADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-III BIS. Acreditar conjuntamente con la Dirección General a las instituciones y organizaciones de los sectores público, social y privado que cumplan con las normas técnicas, lineamientos y criterios que regulen la prestación de servicios en materia de tratamiento e integración social;
-
-IV. Impulsar, asesorar y vigilar los programas, estrategias y acciones generales de tratamiento e integración comunitaria en los Centros de Atención de Adicciones, a fin de aplicar las mejores prácticas;
-
-V. Emitir lineamientos para que los Centros de Atención de Adicciones implementen terapias o actividades que favorezcan la participación familiar en los programas de tratamiento;
-
-VI. Dar seguimiento a los programas, estrategias y acciones que realicen los Centros de Atención de Adicciones, para evaluar los resultados obtenidos, opinar sobre el cumplimiento de los objetivos para los que fueron creados y emitir recomendaciones;
-
-VII. Implementar y operar el sistema de registro de información que aporte datos clínicos y epidemiológicos, para la generación de reportes sobre el consumo de sustancias psicoactivas, tratamiento e integración comunitaria de quienes acuden a tratamiento, que permitan mejorar los programas y sustentar políticas públicas;
-
-VIII. Diseñar mecanismos para que los Centros de Atención de Adicciones integren un reporte trimestral de sus actividades para ser entregado a la Dirección de Tratamiento e Integración Social en el formato que defina ésta última;
-
-IX. Establecer criterios básicos para la homologación de los servicios de tratamiento en instituciones públicas y privadas;
-
-X. Integrar una red de Centros de Atención de Adicciones con el objetivo de aplicar los criterios básicos de homologación de los servicios de tratamiento y promover la educación continua de los responsables para elevar la calidad de los servicios que prestan;
-
-XI. Proponer a la Dirección General las reglas de operación de un programa para otorgar subsidios en materia de tratamiento e integración comunitaria a los Centros de Atención de Adicciones. Una vez aprobadas las reglas de operación por la Dirección General y por el Consejo Directivo, publicar la convocatoria y los resultados de la misma;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-XII. Emitir los lineamientos para la construcción y operación de los Centros de Atención Integral del Consumo de Sustancias Psicoactivas a cargo de las Alcaldías, que incluyan las posibles cuotas de recuperación por los servicios prestados, tomando en cuenta la condición socioeconómica de las personas que los reciban; así como promover, supervisar y evaluar su implementación a través de los enlaces de las alcaldías;
-
-XIII. Promover y fomentar la implementación de terapias grupales de ayuda mutua, así como con orientación psicodinámica, coordinadas por personal capacitado en la materia;
-
-XIV. Fomentar la participación y promover la celebración de convenios con instituciones públicas y privadas para la capacitación para el trabajo y el incremento de la oferta laboral para las personas usuarias de los servicios de tratamiento, con la finalidad de lograr su reinserción en el ámbito laboral;
-
-XV. Promover el diagnóstico y tratamiento del abuso o dependencia de sustancias psicoactivas en los centros de trabajo e instituciones educativas, así como fomentar que se otorguen facilidades para que las personas en tratamiento asistan y concluyan el mismo;
-
-XVI. Determinar, en colaboración con la Consejería Jurídica y de Servicios Legales de la Ciudad de México, el Programa de Tratamiento del consumo de sustancias psicoactivas orientado a las personas que hayan cometido una infracción administrativa con motivo del uso, abuso o dependencia a alguna sustancia psicoactiva;
-
-XVII. Generar, analizar y consolidar información relacionada con problemas de adicción, particularmente la vinculada con la comisión de infracciones administrativas y delitos, para alimentar el Observatorio Especializado en Sustancias Psicoactivas;
-
-XVIII. Integrar los expedientes electrónicos de personas usuarias de los servicios, que permita dar seguimiento a los procedimientos realizados y corregir desviaciones detectadas, así como para alimentar el Observatorio Especializado en Sustancias Psicoactivas;
-
-XIX. Coadyuvar en la elaboración y aplicación de los programas de tratamiento y reintegración social de los adolescentes en conflicto con la ley con problemas de abuso o dependencia de sustancias psicoactivas;
-
-XX. Promover la implementación de los principios básicos de la justicia terapéutica y realizar acciones de seguimiento del tratamiento y rehabilitación de las personas en conflicto con la Ley, de grupos de riesgo y vulnerables;
-
-XXI. Coadyuvar con las diferentes instituciones de procuración e impartición de justicia, en la canalización a tratamiento de las personas en conflicto con la ley que consuman sustancias psicoactivas, cuando así proceda;
-
-XXII. Fomentar en instituciones públicas y privadas acciones contra el tabaquismo y la implementación de espacios 100% libres de humo de tabaco en la Ciudad de México;
-
-XXIII. Fomentar el intercambio de experiencias e implementación de modelos de atención basada en las mejores prácticas y evidencia científica, y
-
-XXIV. Las demás que le sean aplicables en los términos de la propia Ley.
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-###### ARTÍCULO 26.
-
-La Dirección de Políticas Públicas tendrá entre sus atribuciones:
+La Dirección de Profesionalización y Desarrollo Interinstitucional tendrá entre sus atribuciones:
 
 I. Colaborar en la elaboración y seguimiento del Programa General;
 
-II. Recabar información de las dependencias, entidades y órganos político administrativos que conforman la Administración Pública de la Ciudad de México, para la toma de decisiones y definición de política pública en materia de consumo de sustancias psicoactivas;
+II. Proponer, coordinar y consolidar los lineamientos y criterios para la formación, así como la capacitación en materia de prevención y atención integral del consumo de sustancias psicoactivas;
 
-III. Coordinar los procesos de planeación institucional atendiendo las políticas y normas aplicables;
+III. Planear, programar y evaluar líneas de acción para oferta educativa en materia de atención integral del consumo de sustancias psicoactivas, que conlleven procesos formativos y capacitación tanto en modalidad presencial como en educación virtual para profesionales de la salud, personas servidoras públicas en ámbito escolar, personal técnico y responsables de centros de atención en adicciones;
 
-IV. Proponer los lineamientos y políticas para la elaboración del Programa Anual de Trabajo y asegurar su congruencia con el Programa General, el o los Programas Sectoriales, el Programa Institucional y con el Programa Operativo Anual;
+IV. Planear, programar y dar seguimiento a los programas de formación, así como de capacitación para personas servidoras públicas en ámbito comunitario, promotores comunitarios, asociaciones civiles y sociedad en general que desarrollen actividades en materia de prevención y detección temprana del consumo de sustancias psicoactivas, y que ello fortalezca su actuar en las diferentes colonias, barrios, unidades habitacionales y pueblos de la Ciudad de México;
 
-V. Evaluar, en coordinación con las unidades administrativas, los programas y proyectos del Instituto, mediante indicadores de gestión y de proceso;
+V. Proponer, programar y evaluar la oferta de formación y capacitación, orientada a personas servidoras públicas que atiendan a población adolescente en conflicto con la ley;
 
-VI. Establecer y mantener un sistema de información que permita determinar indicadores de gestión y de proceso de los programas y proyectos del Instituto;
+VI. Impulsar la profesionalización de personas relacionadas en temas de consumo de sustancias psicoactivas a través de la vinculación interinstitucional y sectorial con instituciones educativas, tanto públicas como privadas;
 
-VII. Integrar y proponer los informes que el Instituto deba presentar a la Jefatura de Gobierno, al Congreso de la Ciudad de México y a las instancias competentes;
+VII. Organizar y fomentar la realización de congresos, foros, seminarios, paneles y otras estrategias afines que favorezcan el intercambio de conocimientos en materia de consumo de sustancias psicoactivas;
 
-VIII. Coordinar y dar seguimiento a las actividades del Consejo Consultivo del Instituto;
+VIII. Proponer modificaciones al marco normativo de la Ciudad de México para evitar y reducir el consumo y uso indebido de sustancias psicoactivas, así como para mejorar el desarrollo de las actividades encomendadas al Instituto; y,
 
-IX. Coadyuvar en el desarrollo de los trabajos del Consejo Interdependencial y en sus acuerdos;
+IX. Las demás que le sean aplicables en los términos de la propia Ley y las que les encomiende la Dirección General.
 
-X. Diseñar y proponer políticas públicas orientadas a la prevención, tratamiento, rehabilitación e integración comunitaria como parte de la atención integral del consumo de sustancias psicoactivas;
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
-XI. Contribuir a la implementación, seguimiento y evaluación de las políticas públicas en materia de adicciones que se desarrollen en el ámbito local;
+###### ARTÍCULO 24.
 
-XII. Emitir los lineamientos de aplicación obligatoria para la organización y funcionamiento de los Consejos para la Atención Integral del Consumo de Sustancias Psicoactivas de las Alcaldías, así como brindarles apoyo, asesoría y seguimiento para el cumplimiento de sus objetivos;
+La Dirección de Difusión para la Prevención de Adicciones tendrá entre sus atribuciones:
 
-XIII. Promover que en el diseño de los Programas Sociales se apliquen acciones encaminadas a la terapia ocupacional y a la formación de habilidades para el trabajo que induzcan al empleo y al autoempleo de las personas usuarias de los Centros de Atención Integral del Consumo de Sustancias Psicoactivas y de los Centros de Atención de Adicciones; así como solicitar informes de dichas acciones para su difusión y diseño de políticas públicas;
+I. Difundir mediante redes sociales y página web institucional, los servicios de prevención del consumo de sustancias psicoactivas en la Ciudad de México, en los términos que establece el presente Estatuto;
 
-XIV. Promover la vinculación con el sector público, social y privado para conjuntar recursos, experiencias, conocimientos y desarrollar acciones y programas para la atención integral de las adicciones, a través de convenios de colaboración;
+II. Difundir mediante redes sociales y página web institucional, los criterios técnicos y lineamientos para la realización de campañas y programas de promoción a la salud en materia de consumo de sustancias psicoactivas que se difundan entre los grupos de atención prioritaria, los riesgos en la salud por el uso, abuso y dependencia de sustancias psicoactivas, a fin de prevenir su consumo;
 
-XV. Proponer modificaciones al marco normativo de la Ciudad de México para evitar y reducir el consumo y uso indebido de sustancias psicoactivas, así como para mejorar el desarrollo de las actividades encomendadas al Instituto;
+III. Participar y colaborar en la ejecución de las acciones institucionales de la Administración Pública en materia de prevención del consumo de sustancias psicoactivas en la Ciudad de México, fomentando la contribución de las figuras de representación ciudadana establecidas en la legislación en la materia, así como cualquier otro mecanismo de participación comunitaria;
 
-XVI. Realizar investigaciones acerca del marco normativo y de políticas públicas en materia de adicciones en el ámbito local, nacional e internacional;
+IV. Impulsar y difundir mediante redes sociales y página web institucional las campañas y programas de prevención, como lo son Puntos de Innovación, Libertad, Arte, Educación y Saberes (PILARES) de la Ciudad de México; y demás espacios escolares, culturales, deportivos y cualquier otro espacio público que se requiera;
 
-XVII. Implementar y ejecutar programas de vinculación con instituciones públicas, privadas y sociales;
+V. Contribuir a las bases de política pública en materia de atención integral del consumo de sustancias psicoactivas en la Ciudad de México, a partir de un enfoque preventivo que contempla un tratamiento seleccionado y diferenciado que considera factores biológicos, individuales, sociales, comunitarios, de edad y de cualquier componente bio-psico-socio-cultural que conforma a un individuo, desde una perspectiva empática, respetuosa, incluyente, de ayuda mutua, con perspectiva de género y como eje rector el respeto a los Derechos Humanos;
 
-XVIII. Proponer los lineamientos para la instalación y funcionamiento del comité de normalización en materia de prevención y del comité de normalización en materia de tratamiento e integración comunitaria;
+VI. Colaborar con el sector privado y social con la finalidad de ejecutar programas de prevención, de tratamiento y ayuda mutua que considere las necesidades de los grupos de atención prioritaria;
 
-XIX. Proponer a la Dirección General recomendaciones de mejora dirigidas a las instituciones que lleven a cabo acciones en materia de atención integral al consumo de sustancias psicoactivas en la Ciudad de México; y
+VII. Promover y difundir programas preventivos y de tratamiento, dirigidos a grupos de población de atención prioritaria como lo son, niñas y niños, adolescentes, jóvenes, mujeres, personas con discapacidad, personas adultas mayores, población indígena, población LGBTTTI, por ser grupos que por sus características requieren de un mayor apoyo y cuidado, pues pueden presentar situaciones de indefensión, dependencia, desigualdad o discriminación, y por ende, pueden vivir condiciones que por su naturaleza crean frustración, ideas de desamparo e injusticia social;
 
-XX. Las demás que le sean aplicables en los términos de la propia ley.
+VIII. Impulsar la integración social de niños, niñas, adolescentes y jóvenes, que se encuentren en situación de riesgo de uso, consumo y prevención de sustancias psicoactivas, mediante pláticas de auto cuidado, informando sobre las sustancias existentes, los efectos en el organismo, las consecuencias familiares, sociales, cognoscitivas, emocionales, jurídicas y cualquier otra secuela que ponga en peligro la integridad de dichas poblaciones;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
+IX. Promover pláticas informativas para los padres, madres y/o tutores de familia, mostrándoles empática y claramente opciones de ejercer nuevas formas de maternidad y paternidad alejadas de la violencia, la indiferencia y la imposición, fomentando la relación filial a contextos actuales, reales y consientes, basados en información científica, psicológica y social, con la finalidad de fortalecer relaciones familiares más sanas, amables, amorosas y respetuosas, como un ambiente de protección ante el consumo de sustancias psicoactivas en niños, niñas, adolescentes y jóvenes;
 
-> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2018)</small>
+X. Promover y difundir en niños, niñas, adolescentes y jóvenes la creatividad, el conocimiento y el autoconocimiento como herramientas para adquirir destrezas de vida, mediante el entrenamiento en habilidades sociales y comunicativas que les permita detectar conductas y situaciones de riesgo, así como el manejo de las emociones y autoestima; además de incidir en sus condiciones formativas favoreciendo el mejoramiento de sus capacidades y ampliando las posibilidades de acción ante situaciones de riesgo y de adaptación asertiva, facilitando de esta forma la expansión de estilos de vida responsable, promoción de la salud y la prevención de consumo de sustancias psicoactivas;
 
-###### Artículo 27.
+XI. Mediante redes sociales estimular la participación y formación de redes juveniles que promuevan la información, ayuda mutua, el desarrollo y ejercicio de los derechos de las personas jóvenes en la Ciudad de México;
 
-La Dirección de Supervisión y Regulación de Centros de Atención de Adicciones (CAA´s) tendrá entre sus atribuciones:
+XII. Proponer y participar en jornadas informativas orientadas a la prevención y detección oportuna del consumo de sustancias psicoactivas, que las Alcaldías y Dependencias del Gobierno de la Ciudad de México deberán implementar, disponiendo para ello del diez por ciento del presupuesto de estas, en comunicación social;
 
-I. Instrumentar y sustanciar los procedimientos de verificación administrativa, así como llevar a cabo las actividades de monitoreo y supervisión, con la finalidad de que los Centros de Atención de Adicciones cumplan con la normatividad aplicable;
+XIII. Informar a grupos de atención prioritaria de la Ciudad de México, sobre los factores de riesgo del consumo y dependencia de sustancias psicoactivas, con la finalidad de prevenir, evitar y/o retrasar su inicio de consumo de estas sustancias;
 
-II. Sustanciar el procedimiento administrativo de Registro y Revalidación de Registro;
+XIV. Impulsar y difundir en redes sociales la participación de grupos de atención prioritaria, en los PILARES de la Ciudad de México, mediante programas de uso del tiempo libre, actividades de esparcimiento, culturales y deportivas como estrategia de atención, prevención y tratamiento del consumo de sustancias psicoactivas;
 
-III. Sustanciar el procedimiento administrativo de Reconocimiento y Refrendo del Reconocimiento de manera conjunta con la Federación a los Centros de Atención de Adicciones;
+XV. Generar y difundir acciones en materia de Prevención de las Adicciones y Promoción de la Salud utilizando las nuevas tecnologías de información y comunicación;
 
-IV. Instrumentar el procedimiento de revocación de oficio del registro y/o reconocimiento en caso de incumplimiento de la normatividad aplicable, derivado del monitoreo o visita de verificación;
+XVI. Difundir en las jornadas prevención y mediante redes sociales las publicaciones en materia de Prevención de las Adicciones y Promoción de la Salud en los términos que determine el Consejo Directivo;
 
-V. Llevar a cabo un padrón de los Centros de Atención de Adicciones que brinden sus servicios en la Ciudad de México, actualizándolo y difundiéndolo mediante medios electrónicos;
+XVII. Integrar los insumos de cada una de las Unidades Administrativas del Instituto para la elaboración de los informes en materia de difusión, que el Instituto deba presentar a la Jefatura de Gobierno;
 
-VI. Aplicar las sanciones que resulten aplicables como resultado de las visitas de verificación, supervisión o monitoreo que se realicen a los Centros de Atención de Adicciones, así como la colocación y retiro de sellos de clausura o de suspensión temporal cuando sea procedente;
+XVIII. Verificar que las políticas públicas del Instituto estén orientadas a la prevención, tratamiento, rehabilitación y ayuda mutua como parte de la atención integral del consumo de sustancias psicoactivas;
 
-VII. Dictar, implementar y dar seguimiento al cumplimiento de las medidas de seguridad y/o clausuras impuestas a los Centros de Atención de Adicciones a través de acciones de monitoreo;
+XIX. Conminar a las Alcaldías de la Ciudad de México a la instalación de los Consejos para la Atención Integral del Consumo de Sustancias Psicoactivas y difundir los lineamientos de aplicación obligatoria para la organización y funcionamiento de los mismos, así como su seguimiento para el cumplimiento de sus objetivos;
 
-VIII. Proporcionar asesoría a los Centros de Atención de Adicciones para que cumplan con la normatividad aplicable en su funcionamiento y para la obtención del Registro, Revalidación de Registro, Reconocimiento y Refrendo del mismo; así como para los Centros de nueva creación;
+XX. Analizar y difundir para prevenir y reducir el uso y consumo de sustancias psicoactivas, y mejorar las actividades del Instituto, las reformas al marco normativo de la Ciudad de México y los elementos que coadyuven en la prevención y tratamiento de dichas sustancias;
 
-IX. Dictar las medidas de apremio conforme a la normatividad aplicable;
+XXI. Proponer modificaciones al marco normativo de la Ciudad de México para evitar y reducir el consumo y uso indebido de sustancias psicoactivas, así como para mejorar el desarrollo de las actividades encomendadas al Instituto; y,
 
-X. Operar el sistema de información sobre los Centros de Atención de Adicciones;
+XXII. Las demás que le sean aplicables en los términos de la propia Ley y las que les encomiende la Dirección General.
 
-XI. Coadyuvar en el seguimiento de los programas, estrategias y acciones que realicen los Centros de Atención de Adicciones, para evaluar los resultados obtenidos y opinar sobre el cumplimiento de los objetivos para los que fueron creados y emitir recomendaciones;
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
-XII. Coordinarse con las autoridades sanitarias, o de otras dependencias cuando así lo requieran, locales y federales, en la vigilancia y control de los Centros de Atención de Adicciones; y
+###### ARTÍCULO 25.
 
-XIII. Las demás que le sean aplicables en los términos de la propia Ley.
+La Dirección de Prototipos de Atención e Inclusión Comunitaria tendrá entre sus atribuciones:
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+I. Determinar, dictaminar y autorizar los prototipos de atención y los programas de tratamiento e inclusión comunitaria que aplicarán los centros de atención de adicciones y los centros de atención integral del consumo de sustancias psicoactivas que presten sus servicios en la materia de tratamiento y rehabilitación en la Ciudad de México;
 
-###### ARTÍCULO 28.
+II. Emitir los lineamientos para la elaboración de: los manuales técnico-administrativos, los reglamentos, los códigos de ética y los modelos de tratamiento, de los Centros de Atención de Adicciones, así como de supervisar y evaluar su implementación para mejorar los servicios que se ofertan a los usuarios;
 
-La Dirección de Administración tendrá entre sus atribuciones:
+III. Apoyar en el proceso de Registro y Reconocimiento de los Centros de Atención de Adicciones, mediante la determinación de la modalidad de atención, así como la dictaminación del marco teórico que sustenta el programa de tratamiento, para optimizar los servicios de rehabilitación que se ofertan a las personas usuarias;
+
+IV. Establecer y mantener un sistema de información que permita determinar indicadores de gestión y de desempeño aplicable a los Centros de Atención de las Adicciones que reflejen los resultados alcanzados, con el objeto de retroalimentar a todo el sistema de atención, para proponer de manera particular áreas de oportunidad de cada uno de los centros, para eficientar y mejorar los programas de tratamiento y de inclusión comunitaria;
+
+V. Establecer foros y mesas de trabajo en las que participen los centros de atención a las adicciones con el objeto de intercambiar experiencias, con el fin de establecer y operar estrategias encaminadas a fortalecer los programas de tratamiento e inclusión comunitaria;
+
+VI. Implementar y operar el sistema de registro de información que aporte datos para la generación de reportes sobre el consumo de sustancias psicoactivas, tratamiento e integración comunitaria de quienes acuden a tratamiento, que permitan mejorar los programas de prevención y tratamiento de las adicciones;
+
+VII. Diseñar mecanismos a través de medios electrónicos para facilitar que los Centros de Atención de Adicciones aporten la información necesaria para alimentar las bases de datos que se requieren para identificar con mayor precisión la naturaleza y posibles alcances de las adicciones en la Ciudad de México, con el objeto de optimizar las estrategias a utilizar para minimizar sus efectos;
+
+VIII. Diseñar y proponer políticas públicas en materia de prototipos de atención y modelos de tratamiento como parte de la atención integral del consumo de las sustancias psicoactivas;
+
+IX. Proponer modificaciones al marco normativo de la Ciudad de México para garantizar el acceso a los centros de atención de las adicciones de todos aquellos usuarios de sustancias psicoactivas que tienen la necesidad de someterse a un programa de tratamiento;
+
+X. Integrar una red de Centros de Atención de Adicciones con el objetivo de aplicar los criterios básicos de homologación de los prototipos de atención y fomentar la capacitación y preparación curricular de los responsables para elevar el nivel y la calidad de los servicios que se otorgan;
+
+XI. Proponer a la Dirección General las reglas de operación para la instrumentación y operación de acciones sociales y acciones institucionales para otorgar apoyos en materia de tratamiento de las adicciones e integración comunitaria. Una vez aprobadas las reglas de operación por la Dirección General y por el Consejo Directivo, publicar la convocatoria, los resultados de ésta y supervisar la aplicación y comprobación de los recursos de conformidad con la normatividad vigente;
+
+XII. Emitir los lineamientos para la construcción y operación de los Centros de Atención Integral del Consumo de Sustancias Psicoactivas a cargo de las Alcaldías, garantizando que los prototipos de atención y los programas de tratamiento que se emplean en dichos centros están de acuerdo a los lineamientos rectores emitidos por el Instituto para la Prevención y Atención de las Adicciones de la Ciudad de México;
+
+XIII. Diseñar y fomentar estrategias de apoyo institucional con las diferentes instancias expertas en el manejo de terapias grupales de ayuda mutua, con el objeto de abarcar una cobertura territorial mucho más amplia, en la red de atención a los usuarios de sustancias psicoactivas;
+
+XIV. Implementar y ejecutar programas de vinculación con instituciones públicas y privadas para formalizar convenios de colaboración encaminados a dotar de habilidades y oficios a los usuarios de sustancias psicoactivas, con el objeto de facilitar su reinserción laboral;
+
+XV. Determinar, en colaboración con la Consejería Jurídica y de Servicios Legales de la Ciudad de México, el Programa de Tratamiento del consumo de sustancias psicoactivas orientado a las personas que hayan cometido una infracción administrativa con motivo del uso, abuso o dependencia de alguna sustancia psicoactiva;
+
+XVI. Generar, analizar y consolidar información relacionada con problemas de adicción, particularmente la vinculada con la comisión de infracciones administrativas y delitos, para alimentar el Observatorio Especializado en Sustancias Psicoactivas;
+
+XVII. Coadyuvar en la elaboración y aplicación de los programas de tratamiento y reintegración social de los adolescentes en conflicto con la Ley con problemas de abuso o dependencia de sustancias psicoactivas;
+
+XVIII. Promover la implementación de los principios básicos de la justicia terapéutica y realizar acciones de seguimiento del tratamiento y rehabilitación de las personas en conflicto con la Ley, de grupos de riesgo y vulnerables;
+
+XIX. Coadyuvar con las diferentes instituciones de procuración e impartición de justicia, en la canalización a tratamiento de las personas en conflicto con la Ley que consuman sustancias psicoactivas, cuando así proceda;
+
+XX. Desarrollar un modelo de intervención con las familias encaminado a incluir a los miembros del primer círculo de los usuarios de sustancias psicoactivas en su proceso de recuperación, con el objeto de generar un clima familiar que favorezca el proceso de rehabilitación y coadyuve de manera significativa a disminuir el riesgo de las posibles recaídas;
+
+XXI. Fomentar en instituciones públicas y privadas acciones contra el tabaquismo y la implementación de espacios 100% libres de humo de tabaco en la Ciudad de México;
+
+XXII. Proponer modificaciones al marco normativo de la Ciudad de México para evitar y reducir el consumo y uso indebido de sustancias psicoactivas, así como para mejorar el desarrollo de las actividades encomendadas al Instituto; y,
+
+XXIII. Las demás que le sean aplicables en los términos de la propia Ley y las que les encomiende la Dirección General.
+
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
+
+###### ARTÍCULO 26.
+
+La Dirección de Verificación y Cumplimiento Normativo de Centros de Atención de Adicciones tendrá entre sus atribuciones:
+
+I. Instrumentar y sustanciar los procedimientos administrativos de verificación a los Centros de Atención de Adicciones para supervisar que cumplen con la normatividad aplicable;
+
+II. Sustanciar los procedimientos administrativos de Registro y Reconocimiento de los Centros de Atención de Adicciones;
+
+III. Llevar a cabo el procedimiento de revocación de oficio del registro y proponer a la autoridad competente, la revocación del reconocimiento, en caso del incumplimiento de la normatividad aplicable, derivado del monitoreo o visita de verificación a los Centros de Atención de Adicciones;
+
+IV. Implementar y actualizar el padrón de los Centros de Atención de Adicciones;
+
+V. Verificar el cumplimiento de las medidas de seguridad o cautelares determinadas a los Centros de Atención de Adicciones a través de visitas;
+
+VI. Administrar el sistema de información sobre los Centros de Atención de Adicciones;
+
+VII. Coordinarse con las autoridades locales o federales competentes cuando así lo requiera para la vigilancia y control de los Centros de Atención de Adicciones;
+
+VIII. Coordinar con la Subdirección de Verificación y Cumplimiento Normativo de Centros de Atención de Adicciones las visitas de verificación a los Centros;
+
+IX. Coordinar con las Unidades Administrativas que integran el Instituto, las acciones necesarias para atender de manera integral la prevención de las adicciones y coadyuvar en la canalización de las personas a los Centros de Atención de Adicciones correspondientes;
+
+X. Proponer a las Unidades Administrativas del Instituto las acciones o medidas que se adviertan convenientes para atender necesidades de su competencia en los sitios en que se detecten;
+
+XI. Formular las denuncias necesarias ante las instancias competentes en caso de la detección de irregularidades o violaciones a derechos que ameriten su intervención;
+
+XII. Coadyuvar en las propuestas para los cambios operativos y a la normatividad aplicable, a fin de obtener el mejoramiento de los establecimientos especializados e instituciones de tratamiento de las adicciones;
+
+XIII. Disponer a la suspensión de actividades de aquellos establecimientos de tratamiento que incumplan las disposiciones aplicables, cuando dicho incumplimiento genere riesgo o peligro para los usuarios o exista una violación flagrante a los Derechos Humanos;
+
+XIV. Orientar y asesorar a los representantes de los Centros de Atención de Adicciones, a fin de que solventen las irregularidades detectadas durante las visitas de verificación o para su debida validación y registro;
+
+XV. Proponer modificaciones al marco normativo de la Ciudad de México para evitar y reducir el consumo y uso indebido de sustancias psicoactivas, así como para mejorar el desarrollo de las actividades encomendadas al Instituto; y,
+
+XVI. Las demás que le sean aplicables en los términos de la propia Ley y las que les encomiende la Dirección General.
+
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
+
+###### ARTÍCULO 27.
+
+La Coordinación de Administración y Finanzas tendrá entre sus atribuciones:
 
 I. Coordinar la formulación e integración del Programa Operativo Anual del Instituto;
 
 II. Vigilar el estricto cumplimiento del pago de impuestos locales y federales, así como de las obligaciones fiscales del Instituto;
 
-III. Vigilar y controlar el cumplimiento de las disposiciones normativas que, en materia de captación y aplicación de recursos federales, locales y propios, emita el Gobierno de la Ciudad de México;
+III. Vigilar y controlar el cumplimiento de las disposiciones normativas que, en materia de capacitación y aplicación de recursos federales, locales y propios, que emita el Gobierno de la Ciudad de México;
 
 IV. Establecer los mecanismos de operación, control, evaluación y supervisión del ejercicio presupuestal y del registro contable, así como elaborar los estados financieros e integrar la cuenta pública del Instituto;
 
-V. Establecer los mecanismos de operación, control, evaluación y supervisión del ejercicio presupuestal y del registro contable, así como elaborar los estados financieros e integrar la cuenta pública del Fideicomiso Asimilado a Público para la Atención Integral de las Adicciones en el Distrito Federal;
+V. Establecer los mecanismos de operación, control, evaluación y supervisión del ejercicio presupuestal y del registro contable; así como elaborar los estados financieros e integrar la cuenta pública del Fideicomiso Asimilado a Público para la Atención Integral de las Adicciones en la Ciudad de México;
 
-VI. Realizar la evaluación socioeconómica de los programas y proyectos de inversión que pretenda ejecutar el Instituto y solicitar su inclusión en la Cartera de Programas y Proyectos de Inversión de la Secretaría de Finanzas del Gobierno de la Ciudad de México;
+VI. Realizar la evaluación económica de los programas y proyectos de inversión que pretenda ejecutar el Instituto y solicitar su inclusión en la Cartera de Programas y Proyectos de Inversión de la Secretaría de Administración y Finanzas del Gobierno de la Ciudad de México;
 
 VII. Establecer políticas y procedimientos para dar un estricto cumplimiento al programa de racionalidad y austeridad presupuestal;
 
@@ -778,151 +664,97 @@ VIII. Planear, organizar, dirigir y evaluar la administración de recursos human
 
 IX. Coordinar la elaboración de los Manuales Administrativos y vigilar su aplicación y cumplimiento;
 
-X. Coordinar los sistemas de remuneraciones de servicios personales y de administración de recursos humanos, así como evaluar el desempeño y conducir las relaciones laborales del Instituto, con estricto apego a las leyes, reglamentos y demás disposiciones aplicables en materia laboral;
+X. Coordinar los sistemas de remuneraciones de servicios personales y de administración de recurso (sic) humanos, así como evaluar el desempeño y conducir las relaciones laborales del Instituto, con estricto apego a las leyes, reglamentos y demás disposiciones aplicables en materia laboral;
 
-XI. Coordinar la elaboración de los perfiles de puesto y autorizarlos para la contratación del personal;
+XI. Coordinar la elaboración de los perfiles de puesto y validarlos para la contratación de personal;
 
 XII. Diseñar el programa de capacitación al personal del Instituto, someterlo a consideración de la Dirección General y vigilar su cumplimiento, una vez autorizado por el Consejo Directivo;
 
-XIII. Elaborar las actas administrativas que se levanten a los trabajadores, por violación a las disposiciones jurídicas laborales aplicables y someterlas a consideración de la Coordinación de Asuntos Jurídicos y Derechos Humanos y, en su caso, a la Contraloría Interna;
+XIII. Elaborar las actas administrativas que se levanten a los trabajadores, por violación a las disposiciones jurídicas laborales aplicables y someterlas a consideración de la Subdirección de Asuntos Litigiosos y, en su caso, al Órgano Interno de Control;
 
 XIV. Establecer, coordinar, aplicar y evaluar el Programa Interno de Protección Civil;
 
-XV. Elaborar e implementar el programa, las políticas y los procedimientos relacionados con las tecnologías de la información y de comunicación, de conformidad con la normatividad aplicable en la materia, a fin de lograr mayor eficacia en las actividades del Instituto.
+XV. Elaborar e implementar el programa, las políticas y los procedimientos relacionados con las tecnologías de la información y de comunicación, de conformidad con la normatividad aplicable en la materia, a fin de lograr mayor eficacia en las actividades del Instituto;
 
-XVI. Coordinar el Programa de mantenimiento y soporte de tecnologías de información y de comunicaciones del Instituto, de acuerdo con la normatividad y políticas de seguridad aplicables, para procurar su óptimo funcionamiento.
+XVI. Coordinar el Programa de mantenimiento y soporte de tecnologías de información y de comunicaciones del Instituto, de acuerdo con la normatividad y políticas de seguridad aplicables, para procurar si (sic) óptimo funcionamiento;
 
-XVII. Operar el Observatorio Especializado en Sustancias Psicoactivas, así como publicar y proporcionar información estadística e información de publicaciones científicas realizadas por el Instituto u otras instituciones;
+XVII. Coordinar la ejecución del programa anual de adquisiciones de bienes y servicios necesarios para el desarrollo de las actividades del Instituto; así como cumplir y vigilar el cumplimiento de las disposiciones que en materia de adquisiciones, almacenes y servicios generales emita el Gobierno de la Ciudad de México;
 
-XVIII. Integrar y procesar la información que en materia de adicciones genere el Instituto, así como la información enviada por los sectores público, social y privado, reportando los resultados obtenidos a la Dirección de Investigación y Evaluación para su análisis e interpretación, con la finalidad de alimentar el Observatorio Especializado en Sustancias Psicoactivas;
+XVIII. Establecer, vigilar y reforzar los sistemas y procedimientos relacionados con el control y manejo de los bienes de consumo e instrumentales;
 
-XIX. Integrar una base de datos sobre los diversos servicios que se prestan relacionados con la atención integral del consumo de sustancias psicoactivas;
+XIX. Coordinar la ejecución del programa de conservación y mantenimiento de los bienes e inmuebles al servicio del Instituto, atendiendo la normatividad que en dicha materia emita el Gobierno de la Ciudad de México;
 
-XX. Coordinar la ejecución del programa anual de adquisiciones de bienes y servicios necesarios para el desarrollo de las actividades del Instituto; así como cumplir y vigilar el cumplimiento de las disposiciones que en materia de adquisiciones, almacenes y servicios generales emita el Gobierno de la Ciudad de México;
+XX. Dar seguimiento y solventar las observaciones que los diferentes órganos fiscalizadores de control que (sic) lleven a cabo a esa Unidad;
 
-XXI. Establecer, vigilar y reforzar los sistemas y procedimientos relacionados con el control y manejo de los bienes de consumo e instrumentales;
+XXI. Proponer modificaciones al marco normativo de la Ciudad de México para evitar y reducir el consumo y uso indebido de sustancias psicoactivas, así como para mejorar el desarrollo de las actividades encomendadas al Instituto; y,
 
-XXII. Coordinar la ejecución del programa de conservación y mantenimiento de los bienes muebles e inmuebles al servicio del Instituto, atendiendo la normatividad que en dicha materia emita el Gobierno de la Ciudad de México;
+XXII. Las demás que le sean aplicables en los términos de la propia Ley y las que les encomiende la Dirección General.
 
-XXIII. Coordinar la elaboración e integración de los informes administrativos que soliciten las autoridades competentes, en el tiempo y forma requeridos;
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
-XXIV. Dar seguimiento y solventar las observaciones de los diferentes órganos fiscalizadores de control, y
+###### ARTÍCULO 28.
 
-XXV. Las demás que le sean aplicables en los términos de la propia Ley.
+La Subdirección de Asuntos Litigiosos tendrá entre sus atribuciones:
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+I. Supervisar que la asesoría jurídica que se otorgue a la Dirección General y a los servidores públicos del Instituto, se preste en forma pronta y eficiente;
+
+II. Dirigir, determinar y supervisar las acciones legales que procedan en los juicios o asuntos jurídicos en los que sea parte el Instituto, su Director General y los demás servidores públicos con motivo del ejercicio de sus funciones y atribuciones;
+
+III. Representar legalmente al Instituto; así como a la Dirección General e intervenir en cualquier tipo de juicio relacionado al mismo;
+
+IV. Dirigir y supervisar que los asuntos jurídicos del Instituto se atiendan con calidad, eficiencia y eficacia conforme a la normatividad jurídica correspondiente;
+
+V. Analizar y supervisar que los informes previos y justificados en materia de amparo deban (sic) rendir en apego a la normatividad, así como los escritos de demanda o contestación, según proceda, en las controversias constitucionales; promover y desistirse en su caso, de los juicios de amparo y, en general, todas las promociones que a dichos juicios se refieran;
+
+VI. Autorizar que las denuncias de hechos y querellas, por lo (sic) delitos cometidos en agravio del Instituto, se presenten en tiempo y forma, otorgando el perdón cuando así lo autorice la Ley;
+
+VII. Supervisar que los requerimientos e informes que se deban rendir ante la autoridad judicial y administrativa, cumplan con la normatividad;
+
+VIII. Dirigir los escritos en los que se promuevan los recursos, demandas, contestaciones y promociones de términos en los procedimientos contenciosos, administrativos, judiciales y del trabajo en los que sea parte el Instituto;
+
+IX. Emitir opiniones de carácter legal y criterios de interpretación y aplicación de las normas jurídicas y reglamentarias que regulen la actividad y funcionamiento del Instituto;
+
+X. Actuar como enlace en asuntos jurídicos en las áreas correspondientes de las Dependencias, Entidades y Órganos Políticos-Administrativos de la Administración Pública en la Ciudad de México o de la Administración Pública Federal;
+
+XI. Dirigir la asesoría en la elaboración de los contratos, convenios o cualquier instrumento jurídico que pretenda suscribir el Director General y los titulares de las Unidades Administrativas y sustantivas del Instituto, y en su caso, emitir la opinión jurídica que corresponda;
+
+XII. Asegurar que los Convenios, Contratos o Instrumentos Jurídicos que celebre el Instituto, cumplan debidamente con los requisitos y formalidades señalados en las disposiciones legales aplicables;
+
+XIII. Analizar los proyectos e iniciativas de leyes o decretos y en general cualquier ordenamiento legal relativo a las facultades y atribuciones del propio Instituto;
+
+XIV. Representar a la Dirección General ante la Comisión de Derechos Humanos para el desahogo de alguna diligencia;
+
+XV. Asesorar a la Dirección General y a las unidades administrativas para que cumplan con las recomendaciones emitidas por los Órganos Defensores de Derechos Humanos en el desempeño de sus funciones como servidor público;
+
+XVI. Supervisar la operación de la Unidad de Transparencia del Instituto; realizar, en coordinación con las unidades administrativas, las acciones conducentes para que el Instituto cumpla con la normatividad aplicable en materia de transparencia, protección de datos personales y rendición de cuentas;
+
+XVII. Proponer modificaciones al marco normativo de la Ciudad de México para evitar y reducir el consumo y uso indebido de sustancias psicoactivas, así como para mejorar el desarrollo de las actividades encomendadas al Instituto;
+
+XVIII. Las demás que le encomiende la Dirección General y le correspondan de acuerdo con las disposiciones aplicables; y,
+
+XIX. Las demás que le sean aplicables en los términos de la propia Ley.
+
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ### CAPÍTULO VI. DE LOS ÓRGANOS DE VIGILANCIA Y CONTROL
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 29.
 
-La Coordinación de Comunicación y Difusión tendrá dentro de sus atribuciones:
+El Titular del Órgano Interno de Control del Instituto, será nombrado y removido por el Secretario de la Contraloría General de la Ciudad de México y tendrá a su cargo las actividades relativas al control y evaluación de la gestión pública del Instituto.
 
-I. Elaborar y someter a consideración de la Dirección General el Programa de Comunicación Social, que deberá contener las políticas, estrategias y líneas de acción en materia de comunicación social y educativa, atendiendo los lineamientos que para tal efecto emita el Gobierno de la Ciudad de México;
-
-II. Coordinar y supervisar el cumplimiento del Programa Anual de Trabajo de Comunicación y Difusión;
-
-III. Diseñar y desarrollar campañas y materiales de difusión y promoción, para la prevención, reducción y atención integral del consumo de sustancias psicoactivas;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-IV. Diseñar las campañas orientadas a la prevención y detección oportuna del consumo de sustancias psicoactivas, que las Alcaldías y Dependencias del Gobierno de la Ciudad de México deberán implementar, disponiendo para ello del diez por ciento de su presupuesto en comunicación social;
-
-V. Coordinar las estrategias de comunicación y fortalecimiento de la imagen pública del Instituto;
-
-VI. Conducir la relación con los medios de comunicación, nacionales e internacionales, informarles sobre las actividades institucionales y facilitarles la cobertura periodística de las mismas;
-
-VII. Elaborar boletines de prensa, comunicados, pronunciamientos, entre otros, relacionados con las actividades del Instituto y atender las solicitudes de información de los representantes de los medios de comunicación;
-
-VIII. Promover, organizar y coordinar las entrevistas, conferencias y reportajes relacionados con las actividades del Instituto;
-
-IX. Coordinar y difundir la síntesis informativa para mantener informado al personal del Instituto sobre los temas de interés y dar seguimiento de la información reproducida en los medios de comunicación relativa al Instituto, así como aclarar con oportunidad cualquier imprecisión difundida;
-
-X. Publicar en el portal web y redes sociales del Instituto la información generada por las unidades administrativas del Instituto, así como la generada por la Coordinación de Comunicación y Difusión;
-
-XI. Proponer programas y proyectos que promuevan el mejoramiento de la imagen pública del Instituto;
-
-XII. Difundir y actualizar entre el personal del Instituto el Manual de Imagen Institucional y asesorar a las diferentes unidades administrativas en el uso y aplicación de los diversos elementos que se relacionen con la identidad del Instituto;
-
-XIII. Definir criterios, políticas y lineamientos para la adecuada difusión de información del Instituto en los diferentes medios de comunicación y vigilar su cumplimiento;
-
-XIV. Establecer acuerdos de coordinación y colaboración con instituciones públicas y privadas, a efecto de generar espacios de difusión para los temas relacionados con las actividades del Instituto;
-
-XV. Coordinar la producción de materiales audiovisuales y multimedia para su difusión masiva;
-
-XVI. Promover acciones tendientes a fortalecer la cultura de la no discriminación y no criminalización de los consumidores de sustancias psicoactivas;
-
-XVII. Revisar y otorgar el visto bueno a los materiales informativos que elabore cualquiera de las unidades administrativas y que contengan la imagen y logotipos del Instituto, previo a su impresión y difusión; así como al correcto uso de la imagen y logotipo del Instituto que se incluya en materiales que elaboren otras instituciones;
-
-XVIII. Coordinar y dar seguimiento al Grupo Revisor de Contenidos, y
-
-XIX. Las demás que le sean asignadas por la Dirección General.
-
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 30.
 
-La Coordinación de Asuntos Jurídicos y Derechos Humanos tendrá entre sus atribuciones:
+Son atribuciones del Órgano Interno de Control del Instituto las siguientes:
 
-I. Otorgar asesoría jurídica a la Dirección General y a las unidades administrativas con las que cuenta el Instituto, actuando como área de consulta especializada, en los casos en que así lo soliciten;
-
-II. Atender, dirigir y supervisar los asuntos jurídicos de la Dirección General y de los servidores públicos del Instituto, cuando sean parte en juicios derivados del cumplimiento de sus funciones, en los casos que así lo soliciten;
-
-III. Comparecer y representar legalmente al Instituto, así como a la Dirección General, de conformidad con los poderes que le sean otorgados, en los casos derivados del cumplimiento de sus funciones y atribuciones;
-
-IV. Establecer, a solicitud de las unidades administrativas, los criterios jurídicos de interpretación y aplicación de las disposiciones legales reglamentarias y administrativas;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-V. Formular y presentar ante el Ministerio Público de la Procuraduría General de Justicia de la Ciudad de México, las denuncias de hechos, y querellas por los delitos cometidos en agravio del Instituto; otorgar el perdón o desistirse de acción intentada; en los casos en que proceda, coadyuvar con el Ministerio Público, así como darles seguimiento ante las instancias correspondientes;
-
-VI. Elaborar y proponer los informes previos y justificados que en materia de amparo se deban rendir, así como los escritos de demanda o contestación; promover y desistirse, en su caso, de los juicios de amparo cuando el Instituto tenga el carácter de quejoso o intervenir como tercero perjudicado en los juicios de amparo y, en general, formular todas las promociones que a dichos juicios se refieran;
-
-VII. Suscribir y desahogar los requerimientos e informes que se deban rendir ante la autoridad judicial y administrativa, recursos, demandas y promociones de término en procedimientos contenciosos administrativos y judiciales, así como desistirse y absolver posiciones;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-VIII. Intervenir en todos los juicios donde el Instituto sea parte, hasta su terminación, de conformidad a los poderes otorgados, incluyendo la elaboración de contestación de demandas, formulación y absolución de posiciones, desistimientos o allanamientos y, en general todas aquellas promociones y acciones en defensa de los intereses de este Instituto;
-
-IX. Asesorar a la Dirección General, a las unidades administrativas y a los servidores públicos que laboran en el Instituto, en la elaboración de los informes que soliciten las Comisiones de Derechos Humanos relacionados con las quejas o denuncias sobre violación de derechos humanos y el adecuado cumplimiento de sus recomendaciones; así como de las resoluciones pronunciadas por otras autoridades;
-
-X. Difundir los requisitos, lineamientos y normatividad aplicable a los que deben sujetarse los contratos, convenios, acuerdos, bases y demás instrumentos jurídicos y administrativos que suscriba o en los que participe el Instituto; revisar y emitir opinión jurídica de los mismos, previo a su formalización;
-
-XI. Asesorar jurídicamente a los Comités u Órganos Colegiados que se instalen en el Instituto, cuando así lo determine las disposiciones aplicables, y
-
-XII. Las demás que le encomiende la Dirección General y le correspondan de acuerdo con las disposiciones legales aplicables.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 16 DE NOVIEMBRE DE 2016)</small>
-
-###### ARTÍCULO 31.
-
-El Titular del Órgano Interno de Control del Instituto, será nombrado y removido por la persona titular de la Secretaria de la Contraloría General de la Ciudad de México y tendrá a su cargo las actividades relativas al control y evaluación de la gestión pública del Instituto.
-
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
-
-###### ARTÍCULO 32.
-
-Son atribuciones del Contralor Interno del Instituto las siguientes:
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-I. Proponer a la Secretaría de la Contraloría General, para su aprobación el programa de control interno para cada ejercicio presupuestal, manteniendo un seguimiento sistemático de su ejecución;
+I. Proponer a la Contraloría General, para su aprobación el Programa Anual de Auditoria (PAA) y el Programa Anual de Control Interno (PACI) para cada ejercicio presupuestal, manteniendo un seguimiento sistemático de su ejecución;
 
 II. Programar, ordenar y ejecutar auditorías, investigaciones, inspecciones, revisiones y visitas a cada una de las unidades administrativas del Instituto; a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes;
 
-III. Ejecutar verificaciones, revisiones, inspecciones, visitas e intervenir en todos los procesos administrativos en las materias relativas a información, estadística, organización, procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, fondos, valores, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones y trasferencias federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación, adquisición y baja de bienes muebles, almacenes e inventarios, activos, pasivos y demás previstos en el marco normativo, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables;
+III. Ejecutar verificaciones, revisiones, inspecciones, visitas e intervenir en todos los procesos administrativos en las materias relativas a información, estadística, organización, procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, fondos, valores, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones y trasferencias (sic) federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación, adquisición y baja de bienes muebles, almacenes e inventarios, activos, pasivos y demás previstos en el marco normativo, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables;
 
 IV. Formular y emitir observaciones y recomendaciones preventivas y correctivas que se deriven de las auditorías ordinarias y extraordinarias; en cuanto a revisiones, verificaciones, visitas e inspecciones, emitir propuestas de mejora; dar seguimiento sistemático a las mismas; determinar su solventación;
 
@@ -930,43 +762,23 @@ V. Participar en los diferentes Cuerpos Colegiados instalados en la Entidad, seg
 
 VI. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo de la práctica de auditorías, verificaciones, revisiones, inspecciones y visitas, procedimientos administrativos disciplinarios, y demás de las que tenga acceso con motivo del desarrollo de sus actividades;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
+VII. Atender los requerimientos que le formule la Contraloría General derivados de las funciones que tiene encomendadas;
 
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-VII. Atender los requerimientos que le formule la Secretaría de la Contraloría General derivados de las funciones que tiene encomendadas;
-
-VIII. Requerir a los servidores públicos, así como a las diferentes unidades del Instituto, proveedores, contratistas y prestadores de servicio del Instituto, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenaciones y todos los que tengan alguna participación en los procedimientos previstos en el marco jurídico de la Ciudad de México, la información y documentación necesaria para el desempeño de sus funciones;
+VIII. Requerir a los servidores públicos, así como a las diferentes Unidades Administrativas del Instituto, proveedores, contratistas y prestadores de servicio del Instituto, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenaciones y todos los que tengan alguna participación en los procedimientos previstos en el marco jurídico de la Ciudad de México, la información y documentación necesaria para el desempeño de sus funciones;
 
 IX. Intervenir en la entrega, recepción de cargos que realicen los titulares y servidores públicos del Instituto, a fin de vigilar que se cumpla la normatividad aplicable y en caso de incumplimiento, determinar las responsabilidades y sanciones administrativas correspondientes;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-X. Investigar, substanciar y resolver procedimientos de responsabilidad administrativa sobre faltas administrativas no graves respecto de servidores públicos adscritos orgánica o funcionalmente, o bien que ejerzan o administren recursos en el Instituto;
+X. Conocer, investigar, iniciar, desahogar y resolver procedimientos administrativos disciplinarios sobre actos u omisiones respecto de servidores públicos adscritos orgánica o funcionalmente, o bien que ejerzan o administren recursos en el Instituto;
 
 XI. Conocer, sustanciar y resolver los recursos de revocación que se promuevan en contra de resoluciones que impongan sanciones administrativas a los servidores públicos;
 
 XII. Acordar, en su caso, la suspensión temporal de los servidores públicos cuando a su juicio resulte conveniente para el desarrollo de las investigaciones respectivas;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
+XIII. Verificar que el Instituto dé cumplimientos (sic) a las observaciones y recomendaciones realizadas por cualquier Órgano Externo de Fiscalización, así como de la Contaduría Mayor de Hacienda del Congreso de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-XIII. Verificar que el Instituto dé cumplimientos a las observaciones y recomendaciones realizadas por cualquier Órgano Externo de Fiscalización, así como de la Contaduría Mayor de Hacienda del Congreso de la Ciudad de México;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-XIV. Verificar la aplicación de los indicadores de gestión establecidos por la Secretaría de la Contraloría General a efecto de evaluar el desempeño y resultados de la Entidad;
+XIV. Verificar la aplicación de los indicadores de gestión establecidos por la Contraloría General a efecto de evaluar el desempeño y resultados de la Entidad;
 
 XV. Conocer, desahogar y resolver los procedimientos de aclaración, así como los procedimientos de conciliación, conforme a la Ley de Obras Públicas del Distrito Federal;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 XVI. Recibir, analizar, tramitar y resolver las solicitudes de afirmativa ficta, debiendo requerir o consultar directamente el expediente correspondiente y en su caso imponiendo las medidas de apremio en términos de la Ley de Procedimiento Administrativo de la Ciudad de México;
 
@@ -986,31 +798,25 @@ XXIII. Vigilar que el Instituto cumpla con las disposiciones jurídicas y admini
 
 XXIV. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en asuntos que se encuentren relacionados con las facultades que tiene encomendadas;
 
-XXV. Vigilar que el Instituto observe las disposiciones jurídicas y administrativas que se implementen para evitar la generación de daños en los bienes o derechos de los particulares por actividad administrativa irregular de la Administración Pública de la Ciudad de México, y
+XXV. Vigilar que el Instituto observe las disposiciones jurídicas y administrativas que se implementen para evitar la generación de daños en los bienes o derechos de los particulares por actividad administrativa irregular de la Administración Pública de la Ciudad de México; y,
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
+XXVI. Las demás que le instruya el Titular de la Contraloría General de la Ciudad de México; el Titular de la Dirección de Contralorías Internas en Entidades, las que expresamente le atribuyan el Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
-XXVI. Las demás que le instruya la persona titular de la Secretaría de la Contraloría General de la Ciudad de México; el Titular de la Dirección de Contralorías Internas en Entidades, las que expresamente le atribuyan el Reglamento Interior de la Administración Pública del Distrito Federal y las que le otorguen otros ordenamientos jurídicos o administrativos.
+###### ARTÍCULO 31.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
+El Comisario Público es el órgano de vigilancia del Instituto y la designación de su titular estará a cargo del Contralor General de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
-###### ARTÍCULO 33.
-
-El Comisario público es el órgano de vigilancia del Instituto y la designación de su titular estará a cargo del Secretario (a) de la Contraloría General de la Ciudad de México.
-
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
-
-###### ARTÍCULO 34.
+###### ARTÍCULO 32.
 
 Son atribuciones del Comisario Público:
 
 I. Evaluar el desempeño general y por funciones del Instituto;
 
-II. Verificar los ingresos y el ejercicio de gasto corriente e inversión.
+II. Verificar los ingresos y el ejercicio de gasto corriente e inversión;
 
 III. Vigilar el cumplimiento de las disposiciones legales y reglamentarias aplicables a la administración del Instituto;
 
@@ -1028,49 +834,39 @@ IX. Verificar la integración legal del Consejo Directivo del Instituto así com
 
 X. Solicitar la inclusión en el orden del día de los asuntos que considere oportuno tratar en las sesiones del Consejo Directivo;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
+XI. Rendir anualmente, al Consejo Directivo y a la Contraloría General, un informe sobre los estados financieros con base en el dictamen de auditores externos;
 
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-XI. Rendir anualmente, al Consejo Directivo y a la Secretaría de la Contraloría General, un informe sobre los estados financieros con base en el dictamen de auditores externos;
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
-
-> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2018)</small>
-
-XII. Como órgano de vigilancia del Instituto, estará integrado por un Comisario Público propietario y un suplente que el afecto designe la persona titular de la Secretaría de la Contraloría General de la Ciudad de México. Su función es tomar las medidas pertinentes a fin de que las funciones del Instituto se realicen de manera articulada, congruente y eficaz; y
+XII. Como órgano de vigilancia del Instituto, estará integrado por un Comisario Público propietario y un suplente que al afecto designe el Contralor General de la Ciudad de México. Su función es tomar las medidas pertinentes a fin de que las funciones del Instituto se realicen de manera articulada, congruente y eficaz; y,
 
 XIII. Las demás que le atribuyan el presente Estatuto y demás ordenamientos aplicables.
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
-### CAPÍTULO VII. DE LAS MODIFICACIONES AL ESTATUTO ORGÁNICO
+###### ARTÍCULO 33.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo]</small>
+En ausencia temporal de la Dirección General, los asuntos de su competencia serán atendidos por el titular que designe para ese caso y, ante la imposibilidad de designar a alguien, sus asuntos serán atendidos por el titular de la Coordinación de Administración y Finanzas.
 
-> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
-###### ARTÍCULO 37.
-
-Será facultad exclusiva del Consejo Directivo aprobar las modificaciones al presente Estatuto, conforme a lo dispuesto en la fracción I del Artículo 69 de Ley para la Atención Integral del Consumo de Sustancias Psicoactivas de la Ciudad de México.
-
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
-
-###### ARTÍCULO 38.
-
-La iniciativa de modificaciones al Estatuto Orgánico del Instituto será facultad del Presidente del Consejo Directivo, de la Dirección General y cuando menos dos miembros del Consejo Directivo en propuesta conjunta, quienes presentarán proyectos para su análisis y en su caso, aprobación del Consejo Directivo.
-
-###### ARTÍCULO 35.
-
-En ausencia temporal de la Dirección General, los asuntos de su competencia serán atendidos por el titular que designe para ese caso y, ante la imposibilidad de designar a alguien, sus asuntos serán atendidos por el titular de la Dirección de Administración.
-
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
-
-###### ARTÍCULO 36.
+###### ARTÍCULO 34.
 
 Las ausencias temporales de los titulares de las unidades administrativas, serán cubiertas por los funcionarios de la jerarquía inmediata inferior que al efecto designen, informando a la Dirección General.
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
+
+### CAPÍTULO VII. DE LAS MODIFICACIONES AL ESTATUTO ORGÁNICO
+
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
+
+###### ARTÍCULO 35.
+
+Será facultad exclusiva del Consejo Directivo aprobar las modificaciones al presente Estatuto, conforme a lo dispuesto en la fracción I del Artículo 69 de Ley para la Atención Integral del Consumo de Sustancias Psicoactivas de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
+
+###### ARTÍCULO 36.
+
+La iniciativa de modificaciones al Estatuto Orgánico del Instituto será facultad del Presidente del Consejo Directivo, de la Dirección General y cuando menos dos miembros del Consejo Directivo en propuesta conjunta, quienes presentarán proyectos para su análisis y en su caso, aprobación del Consejo Directivo.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -1123,3 +919,19 @@ https://www.iapa.cdmx.gob.mx/dependencia/marco-normativo
 PRIMERO.- Las presentes modificaciones al Estatuto Orgánico del Instituto para la Atención y Prevención de las Adicciones en la Ciudad de México entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 17 DE MAYO DE 2019.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+AVISO POR EL CUAL SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA ATENCIÓN Y PREVENCIÓN DE LAS ADICCIONES.
+
+https://www.iapa.cdmx.gob.mx/storage/app/uploads/public/5cd/314/bab/5cd314babe872256465815.pdf
+
+## ARTÍCULOS TRANSITORIOS
+
+PRIMERO.- Las presentes modificaciones al Estatuto Orgánico del Instituto para la Atención y Prevención de las Adicciones en la Ciudad de México entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Los asuntos que se encuentren pendientes al entrar en vigor este Estatuto Orgánico que conforme al mismo deban transferirse de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquellas a las que se haya atribuido la competencia correspondiente.
+
+TERCERO.- La persona responsable de la liga electrónica es la Lic. Diana Hernández Ordoñez, teléfono 5532522328 y 46313035 extensión 1206.
