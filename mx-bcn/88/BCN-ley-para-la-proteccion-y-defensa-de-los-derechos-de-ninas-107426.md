@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-10742
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2018-03-09"
+last_updated: "2019-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2019.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -1037,6 +1037,10 @@ Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños
 
 Las autorizaciones a que se refiere esta ley deberán ser otorgadas por quienes ejerzan la patria potestad o tutela, en los mismos términos y con las mismas formalidades.
 
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2019)</small>
+
+Aunado a lo anterior, deberán tomar las medidas necesarias para prevenir, atender y proteger la exposición de las niñas, niños y adolescentes, a los medios de comunicación y uso de sistemas de información cuyo contenido sea violento o impropio para su edad, y este afecte su desarrollo integral.
+
 ###### Artículo 94.
 
 En el ámbito de sus respectivas competencias, se debe dar cumplimiento a las obligaciones siguientes:
@@ -1411,7 +1415,7 @@ VI. Dar seguimiento a cada una de las acciones del plan de restitución de derec
 
 La tutela pública será la ejercida por el Sistema, por conducto de la Procuraduría de Protección sobre niñas, niños y adolescentes expósitos o abandonados, hasta en tanto no se resuelva su situación jurídica por la autoridad jurisdiccional competente. El ejercicio de la tutela quedará sujeto, en cuanto a la guarda, educación y protección de las niñas, niños y adolescentes, a las modalidades que le impriman las resoluciones que se dicten de acuerdo con la presente Ley y el Código Civil.
 
-###### Articulo 115.
+###### Artículo 115.
 
 La Procuraduría de Protección llevará a cabo el registro de las adopciones que se promuevan ante los juzgados en el Estado, con el objeto de conservar la información correspondiente a los orígenes de la niña, niño o adolescente adoptado, incluyendo la identidad de sus progenitores, su historia médica y de su familia. Además, conservará los datos de identificación del proceso, incluyendo la autoridad jurisdiccional que autorizó la adopción, así como la información correspondiente de los padres adoptivos.
 
@@ -1782,3 +1786,9 @@ P.O. 9 DE MARZO DE 2018.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Deberán emitirse las disposiciones normativas correspondientes en un término no mayor al de 180 días naturales, contados a partir de la fecha en que entre en vigor el presente Decreto.
+
+P.O. 17 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 333 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 93 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente después al de su publicación en el Periódico Oficial del Estado.
