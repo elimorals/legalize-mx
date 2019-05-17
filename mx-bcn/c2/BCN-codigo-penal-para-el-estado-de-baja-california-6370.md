@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2019-02-22"
+last_updated: "2019-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1596,6 +1596,12 @@ Lesiones en riña.- Si las lesiones fueren inferidas en riña, se disminuirán h
 Lesiones agravadas por razón del parentesco.- Al que dolosamente lesione a su ascendiente o descendiente consanguíneo en línea recta, a su hermano, cónyuge, concubino, concubina, adoptante o adoptado, con conocimiento de ese parentesco o relación, se le impondrá hasta una mitad más de la pena que corresponda a la lesión inferida.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE OCTUBRE DE 1999)</small>
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2019)</small>
+
+###### Artículo 142 Bis.
+
+Lesiones agravadas por razón de género.- Al que dolosamente lesione a una o varias mujeres por razones de género contempladas en las fracciones I a la VII del artículo 129 de este Código, se le impondrá hasta una mitad más de la pena que corresponda a la lesión inferida.
 
 ###### Artículo 143.
 
@@ -5940,3 +5946,9 @@ P.O. 22 DE FEBRERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 318 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 320 BIS AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico Oficial del Estado de Baja California.
+
+P.O. 17 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 332 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 142 BIS AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor a los 30 días siguientes de su publicación en el Periódico Oficial del Estado de Baja California.
