@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2018-11-17"
+last_updated: "2019-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -107,13 +107,17 @@ XI. A ser indemnizada, en forma equitativa, y conforme a las bases y procedimien
 
 La obligación del Estado y de los Municipios de resarcir los daños y perjuicios será directa;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
 
-XII. A un medio ambiente social que le permita vivir en paz y en armonía con todos los demás seres humanos; y
+XII. A un medio ambiente social que le permita vivir en paz y en armonía con todos los demás seres humanos;
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
 
-XIII. A acceder a un transporte público de calidad, digno y eficiente el Estado proveerá lo necesario para garantizar dicho acceso.
+XIII. A acceder a un transporte público de calidad, digno y eficiente el Estado proveerá lo necesario para garantizar dicho acceso; y
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2019)</small>
+
+XIV. Al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. La Ley establecerá la forma, términos y condiciones en que se ejercerá este derecho.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -196,6 +200,10 @@ Todos los ciudadanos tienen el derecho y la libertad de participar en la direcci
 Este derecho incluye el de votar y ser votado en elecciones periódicas y auténticas, mediante sufragio universal, igual y secreto, que garantice la libre expresión de la voluntad de los electores, así como el de tener acceso, en condiciones generales de igualdad, a las funciones públicas en el Estado, siempre que se reúnan los requisitos que establezcan esta Constitución y las leyes de la materia.
 
 La participación de los ciudadanos en la formación, ejecución, evaluación y control de la gestión pública es un medio necesario para lograr su pleno desarrollo, tanto individual como colectivo. Es obligación del Estado y deber de la sociedad promover la generación de condiciones favorables para su ejercicio.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2019)</small>
+
+Los ciudadanos tienen derecho a solicitar la revocación del mandato del Gobernador Constitucional del Estado y sus resultados serán obligatorios, en la forma y términos que señala la Ley.
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -393,7 +401,9 @@ Artículo 18
 
 Son ciudadanos del Estado de Colima los varones y las mujeres mexicanos que hayan cumplido dieciocho años de edad, tengan un modo honesto de vivir y establezcan su domicilio en su territorio.
 
-Además de las prerrogativas y obligaciones que les señala la Constitución Federal, los ciudadanos del Estado de Colima tendrán el derecho de iniciativa popular, así como de participar en los procesos de referéndum y plebiscito, en la forma y términos que señalen esta Constitución y la ley respectiva.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+Además de las prerrogativas y obligaciones que les señala la Constitución Federal, los ciudadanos del Estado de Colima tendrán el derecho de iniciativa popular, así como de participar en los procesos de referéndum, plebiscito y revocación de mandato, en la forma y términos que señalen esta Constitución y la Ley respectiva.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -583,11 +593,17 @@ No podrá el Congreso abrir sus sesiones sin la concurrencia de la mayoría de s
 
 Fuera de los periodos que señala el párrafo segundo, el Congreso celebrará sesiones o periodos extraordinarios sólo cuando sea convocado al efecto por la Comisión Permanente, debiendo ocuparse en ellos únicamente de los asuntos materia de la convocatoria.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
 
 Artículo 31
 
-En la apertura de sesiones ordinarias del primer periodo de cada año de ejercicio del Congreso, el Gobernador del Estado presentará un informe por escrito, en el que manifieste el estado general que guarde la Administración Pública de la Entidad y el cumplimiento del Plan Estatal de Desarrollo.
+En sesión solemne del 1° de octubre, con motivo de la apertura de sesiones ordinarias del primer periodo de cada año de ejercicio del Congreso, a la que asistirán el Presidente del Supremo Tribunal de Justicia y los integrantes de la Legislatura, en la sede del Poder Legislativo, el Gobernador del Estado presentará un informe por escrito, en el que manifieste el estado general que guarda la administración pública de la entidad y el cumplimiento del Plan Estatal de Desarrollo.
+
+En dicha sesión solemne hará uso de la palabra un Diputado por cada uno de los grupos parlamentarios y diputados únicos con representación en el Congreso para emitir sus posicionamientos respecto del informe que entrega el titular del Ejecutivo, en los términos de Ley.
+
+Concluidas las intervenciones de los legisladores, el Gobernador del Estado deberá hacer uso de la palabra para expresar un mensaje con respecto al informe que entrega al Congreso.
+
+Enseguida, el Presidente de la Mesa Directiva emitirá un mensaje respecto del informe del Ejecutivo y al término de éste declarará concluida la Sesión.
 
 Posteriormente, el Congreso realizará el análisis del informe, acordará solicitar al Ejecutivo del Estado la ampliación de la información por escrito y citará a comparecer a los Secretarios de la Administración Pública, al Consejero Jurídico y al Fiscal General del Estado para el mismo propósito.
 
@@ -627,27 +643,37 @@ VII. Legislar en materia educativa en los términos del artículo 3° de la Cons
 
 VIII. Expedir leyes electorales conforme a la presente Constitución;
 
-IX. Expedir leyes para preservar y restaurar el equilibrio ecológico y proteger el ambiente.
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2019)</small>
 
-Dichas leyes establecerán la concurrencia de los gobiernos del Estado y de los municipios, en el ámbito de sus respectivas competencias, conforme a la Constitución Federal y la ley general reglamentaria correspondiente;
+IX. Legislar en materia de participación ciudadana y democracia directa;
 
-X. Expedir leyes relativas al servicio de agua potable y saneamiento, así como para su cuidado, preservación, extracción sustentable y tratamiento, a fin de fomentar entre la población una cultura del uso y aprovechamiento racional del mismo;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
 
-XI. Expedir leyes para regular las relaciones de trabajo entre el gobierno del Estado, los municipios, los organismos descentralizados y sus trabajadores, ajustándose a las bases del artículo 123, Apartado B, de la Constitución Federal;
+X. Expedir Leyes para preservar y restaurar el equilibrio ecológico y proteger el ambiente.
 
-XII. Expedir la ley que instituya el Tribunal de Justicia Administrativa del Estado;
+Dichas Leyes establecerán la concurrencia de los gobiernos del Estado y de los municipios, en el ámbito de sus respectivas competencias, conforme a la Constitución Federal y la Ley general reglamentaria correspondiente;
+
+XI. Expedir leyes relativas al servicio de agua potable y saneamiento, así como para su cuidado, preservación, extracción sustentable y tratamiento, a fin de fomentar entre la población una cultura del uso y aprovechamiento racional del mismo;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+XII. Expedir Leyes para regular las relaciones de trabajo entre el gobierno del Estado, los municipios, los organismos descentralizados y sus trabajadores, ajustándose a las bases del artículo 123, Apartado B, de la Constitución Federal;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+XIII. Expedir la Ley que instituya el Tribunal de Justicia Administrativa del Estado;
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-XIII. Expedir la Ley que establezca las bases de coordinación del Sistema Estatal Anticorrupción, así como la Ley que distribuya competencias para establecer las responsabilidades administrativas de los servidores públicos del Estado y los municipios, sus obligaciones, las sanciones aplicables por los actos u omisiones en que incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación;
+XIV. Expedir la Ley que establezca las bases de coordinación del Sistema Estatal Anticorrupción, así como la Ley que distribuya competencias para establecer las responsabilidades administrativas de los servidores públicos del Estado y los municipios, sus obligaciones, las sanciones aplicables por los actos u omisiones en que incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
 
-XIV. Expedir la Ley que establezca la creación, estructura y funcionamiento del Centro de Conciliación Laboral del Estado de Colima; y
+XV. Expedir la Ley que establezca los principios, bases y reglas en materia de pensiones de los servidores públicos del Estado y los municipios, así como fijar la organización y funcionamiento del organismo público rector en la materia dotado de facultades exclusivas para el otorgamiento de las pensiones que correspondan; y
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-XV. Expedir todas las Leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, las enunciadas en los artículos siguientes, y todas las demás que le concedan la Constitución Federal y la Constitución del Estado.
+XVI. Expedir todas las Leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, las enunciadas en los artículos siguientes, y todas las demás que le concedan la Constitución Federal y la Constitución del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -939,6 +965,10 @@ Artículo 52
 
 El Gobernador será elegido popular y directamente y entrará en ejercicio de sus funciones el día primero de noviembre del año de su elección; durará en su encargo seis años y no podrá volver a ser electo.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2019)</small>
+
+El Gobernador podrá ser removido de su cargo a través del procedimiento de revocación de mandato, en los términos de esta Constitución y Leyes aplicables, independientemente de las responsabilidades en las que pudiera haber incurrido durante su encargo.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 Artículo 53
@@ -970,6 +1000,10 @@ Si la falta es absoluta y tiene lugar dentro de los dos primeros años del perio
 Cuando la falta absoluta ocurra en los cuatro últimos años del periodo constitucional, el Congreso nombrará un Gobernador sustituto que desempeñe el cargo hasta que termine dicho periodo.
 
 Llegado el caso previsto en la fracción V del artículo 76 de la Constitución Federal, el Gobernador provisional convocará a elecciones extraordinarias dentro de un término que no excederá de quince días, y el electo tomará posesión de su cargo inmediatamente que se haga la declaratoria respectiva.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2019)</small>
+
+El Gobernador deberá informar al Congreso del Estado de sus ausencias del territorio estatal con motivo del ejercicio de su función, cuando éstas sean mayores a dos días, señalando el motivo de la ausencia y los gastos que se generen.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -1095,9 +1129,17 @@ IV. Ocupar la propiedad de persona alguna, ni perturbarla en la posesión, uso o
 
 V. Intervenir en las elecciones para que recaigan en determinada persona, ya sea por sí o por medio de otras autoridades o agentes, siendo este motivo de nulidad de la elección y causa de responsabilidad;
 
-VI. Mezclarse en los asuntos judiciales ni disponer, durante el juicio, de las cosas que en él se versen o de las personas que estén bajo la acción de la justicia; y
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
 
-VII. Ausentarse del territorio del Estado por más de treinta días sin licencia del Congreso.
+VI. Mezclarse en los asuntos judiciales ni disponer, durante el juicio, de las cosas que en él se versen o de las personas que estén bajo la acción de la justicia;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+VII. Ausentarse del territorio del Estado por más de treinta días sin licencia del Congreso; y
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2019)</small>
+
+VIII. Negarse a entregar la administración pública estatal dentro de un plazo improrrogable de treinta días naturales, cuando hubiese sido removido del cargo, por revocación de mandato.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -1363,7 +1405,9 @@ C. El Tribunal Electoral del Estado tendrá competencia para:
 
 I. Realizar el cómputo final de la elección del Gobernador del Estado, una vez resueltas, en su caso, las impugnaciones que se hayan interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo respecto del candidato que haya obtenido el mayor número de votos;
 
-II. Substanciar y resolver en forma definitiva y firme, en los términos de esta Constitución y el código o la ley respectivos, las impugnaciones que se susciten en materia electoral, de elección de autoridades auxiliares municipales, de referéndum y plebiscito;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+II. Substanciar y resolver en forma definitiva y firme, en los términos de esta Constitución y el Código o la Ley respectivos, las impugnaciones que se susciten en materia electoral, de elección de autoridades auxiliares municipales, de referéndum, plebiscito y revocación de mandato.
 
 III. Dirimir los conflictos o diferencias laborales entre el Tribunal y sus servidores, así como entre el Instituto Electoral del Estado y los suyos;
 
@@ -1561,7 +1605,9 @@ En materia electoral la interposición de los medios de impugnación no producir
 
 Los cómputos efectuados por los órganos electorales, las determinaciones sobre la declaración de validez, el otorgamiento de las constancias de mayoría y la asignación de diputados o regidores por el principio de representación proporcional, podrán ser impugnadas ante el Tribunal Electoral del Estado, en los términos que señale la ley.
 
-Las conductas delictuosas, las faltas en materia electoral, así como todo acto u omisión que atente contra la legalidad de los procesos democráticos de plebiscito y de referéndum, serán causa de responsabilidad. Las leyes respectivas determinarán las sanciones correspondientes.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+Las conductas delictuosas, las faltas en materia electoral, así como todo acto u omisión que atente contra la legalidad de los procesos democráticos de plebiscito, de referéndum y revocación de mandato serán causa de responsabilidad. Las Leyes respectivas determinarán las sanciones correspondientes.
 
 Las autoridades electorales y los partidos políticos combatirán la violencia política en contra de las mujeres. La ley sancionará todo tipo de violencia política contra las mujeres.
 
@@ -1657,7 +1703,9 @@ El Instituto realizará el cómputo de cada elección; otorgará constancias de 
 
 El Instituto podrá convenir con el Instituto Nacional Electoral que éste se haga cargo de la organización de los procesos electorales locales.
 
-El Instituto tendrá a su cargo, además, la realización del plebiscito y referéndum, en los términos de la ley respectiva.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+El Instituto tendrá a su cargo, además, la realización del plebiscito, referéndum y consulta para la revocación de mandato, en los términos de la Ley respectiva.
 
 La fiscalización de las finanzas de los partidos políticos estará a cargo de una comisión de consejeros electorales. La ley regulará la integración y funcionamiento de dicha comisión, así como las bases de coordinación con el Instituto Nacional Electoral en la materia, así como los procedimientos para la aplicación de sanciones por el incumplimiento de las disposiciones legales de la materia.
 
@@ -3440,6 +3488,14 @@ P.O. 17 DE NOVIEMBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor en la misma fecha que lo hagan las reformas y adiciones a la Ley Federal del Trabajo que derivan del Decreto por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de justicia laboral publicada en el Diario Oficial de la Federación el día 24 de febrero de 2017.
 
 SEGUNDO. El servicio público de conciliación laboral que proporcione el Centro de Conciliación Laboral del Estado de Colima y el inicio de los trámites de los procedimientos laborales conforme a las disposiciones del presente Decreto entrarán en funciones en los mismos plazos y términos que prevean las reformas y adiciones a la Ley Federal del Trabajo referidas en el artículo transitorio anterior.
+
+P.O. 18 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 70 POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 2° FRACCIONES XII Y XIII, 18 PÁRRAFO SEGUNDO, 31, 59 FRACCIONES VI Y VII, 78 APARTADO C FRACCIÓN II, 86 PÁRRAFO SÉPTIMO Y 89 PÁRRAFO DÉCIMO TERCERO; ASÍ COMO ADICIONAR LA FRACCIÓN XIV AL ARTÍCULO 2°, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 7°, FRACCIÓN IX AL ARTÍCULO 33, HACIÉNDOSE EL CORRIMIENTO RESPECTIVO DE LAS FRACCIONES SUBSECUENTES, UN SEGUNDO PÁRRAFO AL ARTÍCULO 52, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 55 Y LA FRACCIÓN VIII AL ARTÍCULO 59, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Congreso del Estado deberá adecuar la legislación secundaria a más tardar dentro de los siguientes 120 días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
 ###### ARTÍCULO ÚNICO.
 
