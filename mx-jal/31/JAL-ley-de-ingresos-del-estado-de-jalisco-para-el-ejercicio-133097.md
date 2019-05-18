@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-133097"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-22"
-last_updated: "2019-02-01"
+last_updated: "2019-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2019
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el sábado 22 de diciembre de 2018.
 
@@ -3145,7 +3145,9 @@ Si la operación de reestructura o refinanciamiento implica la afectación de in
 
 En ambos casos el beneficio obtenido deberá acreditarse ante la Secretaría de Hacienda Pública del Estado mediante la reducción de tasa y/o comisiones y/o liberación de flujos o garantías y/o disminución del porcentaje de ingresos afectos al servicio de los créditos.
 
-C. Los Ayuntamientos que determinen ejercer la presente autorización con el fin de financiar obras u acciones de inversión pública productivas, podrán celebrar una o más operaciones de crédito hasta por el monto autorizado, sin que exceda el periodo de la administración municipal, y en cumplimiento con el artículo 117, fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, autorizándose la afectación como fuente de pago o garantía de dichas operaciones un límite de hasta el 35% (treinta y cinco por ciento) de las participaciones en ingresos federales que le correspondan del Fondo General de Participaciones más el 35% (treinta y cinco por ciento) del Fondo de Fomento Municipal, lo anterior, sin perjuicio de la obligación de atender las razones financieras que para el adecuado equilibrio presupuestal de los Municipios la Secretaría de Hacienda del Estado determine para el programa.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+C. Los Ayuntamientos que determinen ejercer la presente autorización con el fin de financiar obras u acciones de inversión pública productivas, podrán celebrar una o más operaciones de crédito hasta por el monto autorizado, y con un plazo de pago de hasta 20 (veinte) años, autorizándose la afectación como fuente de pago o garantía de dichas operaciones un límite de hasta el 35% (treinta y cinco por ciento) de las participaciones en ingresos federales que le correspondan del Fondo General de Participaciones, más el 35% (treinta y cinco por ciento) del Fondo de Fomento Municipal, lo anterior, sin perjuicio de la obligación de atender las razones financieras que para el adecuado equilibrio presupuestal de los Municipios la Secretaría de Hacienda del Estado determine para el programa.
 
 El mecanismo de fuente de pago o garantía podrá ser el Fideicomiso Maestro Municipal, constituido por el Estado de Jalisco con en número F/3087 y, en dicho caso, el Gobierno del Estado podrá asumir la obligación de subrogarse en dicho financiamiento para el caso de vencimiento anticipado.
 
@@ -3370,3 +3372,9 @@ Social” (En materia de captación Secretaría de la
 de recursos) Hacienda Pública
 
 DÉCIMO SEGUNDO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.
+
+P.O. 18 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27281/LXII/19 QUE REFORMA EL ARTÍCULO 49, INCISO C) DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2019".]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
