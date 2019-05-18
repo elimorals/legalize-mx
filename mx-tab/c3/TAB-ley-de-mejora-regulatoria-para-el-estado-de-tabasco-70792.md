@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-mejora-regulatoria-para-el-estado-de-tabasco-70792"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-24"
-last_updated: "2017-07-05"
+last_updated: "2019-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE MEJORA REGULATORIA PARA EL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE TABASCO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 18 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 24 de octubre de 2009.
 
@@ -580,3 +582,27 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 18 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE MEJORA REGULATORIA PARA EL ESTADO DE TABASCO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga la Ley de Mejora Regulatoria para el Estado de Tabasco, publicada en el Periódico Oficial del Estado número 7005, Suplemento "H" del 24 de octubre de 2009, así como la demás normatividad que se oponga a la presente Ley.
+
+TERCERO. El Poder Ejecutivo del Estado y los municipios darán cumplimiento a las obligaciones establecidas en la presente Ley con cargo a sus respectivos presupuestos.
+
+Los Poderes Legislativo y Judicial, así como los órganos autónomos y los organismos con jurisdicción contenciosa que no formen parte del Poder Judicial, deberán adecuar sus presupuestos para dar cumplimiento con lo señalado en el Título Segundo, Capítulo V de la presente Ley.
+
+CUARTO. El Consejo Estatal de Mejora Regulatoria deberá quedar instalado en un plazo que no exceda de noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+QUINTO. A partir de la entrada en vigor de la presente Ley, los municipios contarán con un plazo de 180 días naturales para adecuar su normatividad al contenido de esta Ley.
+
+Los Consejos Municipales de Mejora Regulatoria deberán instalarse formalmente dentro de un plazo de noventa días naturales siguientes a la entrada en vigor de las adecuaciones normativas correspondientes.
+
+Las Autoridades Municipales de Mejora Regulatoria, deberán ser creadas en un plazo que no excederá de 120 días naturales posteriores a la entrada en vigor de la presente Ley.
+
+SEXTO. En un plazo que no deberá exceder de ciento ochenta días naturales a la entrada en vigor del presente Decreto, el titular del Poder Ejecutivo del Estado, expedirá el Reglamento de la presente Ley, mismo que deberá contener las herramientas para la implementación y consolidación de la política de mejora regulatoria en el Estado.
+
+En dicho Reglamento, se establecerán los tiempos en los (sic) entrarán en vigor las herramientas para la implementación de la política de Mejora Regulatoria.
