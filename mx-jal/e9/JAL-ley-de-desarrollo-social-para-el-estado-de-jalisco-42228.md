@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-social-para-el-estado-de-jalisco-42228"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2019-04-09"
+last_updated: "2019-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2004.
 
@@ -85,7 +85,9 @@ Para los efectos previstos en esta ley, se aplicará en forma supletoria:
 
 I. La Ley General de Desarrollo Social;
 
-II. La Ley de Planeación para el Estado de Jalisco y sus Municipios;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+II. La Ley de Planeación Participativa para el Estado de Jalisco y sus Municipios;
 
 III. El Código de Asistencia Social del Estado de Jalisco;
 
@@ -97,7 +99,9 @@ VI. Legislación general y estatal de los derechos de niñas, niños y adolescen
 
 VII. Ley Estatal para la Igualdad entre Mujeres y Hombres;
 
-VIII. Ley para el Desarrollo Integral del Adulto Mayor;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+VIII. Ley para el Desarrollo Integral del Adulto Mayor del Estado de Jalisco;
 
 IX. Legislación para la inclusión y desarrollo integral de las personas con discapacidad;
 
@@ -133,7 +137,9 @@ IX. Programa de desarrollo social: Es la intervención pública directa que, med
 
 X. Reglas de operación: Son las normas, lineamientos y mecanismos, establecidos por las secretarías, que rigen a cada uno de los programas de desarrollo social, mediante los cuales se organizan sus distintas etapas o fases de instrumentación en el corto plazo; así como su difusión, y que resumen la planificación anual de los medios, acciones y metas, así como los indicadores correspondientes, para avanzar en el cumplimiento de los objetivos estratégicos de dichos programas; y
 
-XI. Secretaría: La Secretaría de Desarrollo e Integración Social del Gobierno del Estado de Jalisco.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+XI. Secretaría: La Secretaría del Sistema de Asistencia Social del Gobierno del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -275,9 +281,9 @@ I. Coordinar el Sistema de Desarrollo Social del Estado;
 
 II. Operar y coordinar los trabajos del Consejo y de la Comisión;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
 
-III. Formular y ejecutar el programa sectorial de desarrollo e integración social como parte del Plan Estatal de Desarrollo y cumpliendo con las disposiciones que esta ley señala;
+III. Formular y ejecutar el programa sectorial de desarrollo e integración social como parte del Plan Estatal de Desarrollo y Gobernanza y cumpliendo con las disposiciones que esta ley señala;
 
 IV. Participar en el Sistema Nacional de Desarrollo Social, en los términos que señala la Ley General de Desarrollo Social;
 
@@ -289,7 +295,9 @@ VII. Convenir acciones y programas sociales con el Gobierno Federal y los Munici
 
 VIII. Fomentar la organización y participación ciudadana y familiar en los programas de desarrollo social;
 
-IX. Ejercer fondos y recursos federales descentralizados o convenidos en materia de desarrollo social, en los términos de las leyes respectivas; así como informar a la Secretaría de Desarrollo Social del Gobierno Federal sobre el avance y los resultados generados con los mismos;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+IX. Ejercer fondos y recursos federales descentralizados o convenidos en materia de desarrollo social, en los términos de las leyes respectivas; así como informar a la Secretaría de Bienestar del Gobierno Federal sobre el avance y los resultados generados con los mismos;
 
 X. Informar a la sociedad sobre las acciones en torno al desarrollo social;
 
@@ -385,9 +393,11 @@ VI. Asegurar y fomentar la participación ciudadana en la planeación, instrumen
 
 La Política Municipal de Desarrollo Social tendrá los mismos objetivos que se señalan en el artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2019)</small>
+
 ###### Artículo 18.
 
-El Gobierno del Estado y los Municipios deberán convenir acciones y destinar recursos para la ejecución de programas de desarrollo social en las áreas o regiones que sean declarados Zonas de Atención Prioritaria por la Cámara de Diputados del Congreso de la Unión, contando siempre con la intervención que, en su caso, corresponda a la Secretaría de Desarrollo Social del Gobierno Federal.
+El Gobierno del Estado y los Municipios deberán convenir acciones y destinar recursos para la ejecución de programas de desarrollo social en las áreas o regiones que sean declarados Zonas de Atención Prioritaria por la Cámara de Diputados del Congreso de la Unión, contando siempre con la intervención que, en su caso, corresponda a la Secretaría de Bienestar del Gobierno Federal.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -401,17 +411,19 @@ La Secretaría promoverá la suscripción de convenios de coordinación con los 
 
 La planeación es el proceso por el cual se fijarán los objetivos, estrategias, metas, indicadores y evaluaciones mediante las cuales se llevará el adecuado funcionamiento de la Política Estatal de Desarrollo Social.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
 
 ###### Artículo 20.
 
-La planeación del desarrollo social en el Estado, estará a cargo del Poder Ejecutivo del Estado a través de la (sic) Comité de Planeación para el Desarrollo del Estado de Jalisco, y de la Secretaría y deberá estar en concordancia con la Política Nacional de Desarrollo Social y, de conformidad con las disposiciones contenidas en la Ley de Planeación para el Estado de Jalisco y sus Municipios y se establecerá dentro del Plan Estatal de Desarrollo.
+La planeación del desarrollo social en el Estado, estará a cargo del Poder Ejecutivo del Estado a través del Consejo de Participación y Planeación para el Desarrollo del Estado de Jalisco, y de la Secretaría y deberá estar en concordancia con la Política Nacional de Desarrollo Social y, de conformidad con las disposiciones contenidas en la Ley de Planeación Participativa para el Estado de Jalisco y sus Municipios y se establecerá dentro del Plan Estatal de Desarrollo y Gobernanza.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
 
 ###### Artículo 21.
 
-En el caso de los Municipios, la planeación del desarrollo social estará a cargo del ayuntamiento y de los respectivos Comités de Planeación para el Desarrollo Municipal, y en congruencia con los términos de la Ley de Planeación para el Estado de Jalisco y sus Municipios.
+En el caso de los Municipios, la planeación del desarrollo social estará a cargo del ayuntamiento y de los respectivos Consejos de Participación y Planeación para el Desarrollo Municipal, y en congruencia con los términos de la Ley de Planeación Participativa para el Estado de Jalisco y sus Municipios.
 
-Los Planes de Desarrollo, estatal y municipales, deberán contemplar la Planeación del Desarrollo Social.
+Los Planes de Desarrollo y Gobernanza, estatal y municipales, deberán contemplar la Planeación del Desarrollo Social.
 
 ###### Artículo 22.
 
@@ -421,19 +433,19 @@ La planeación se concretará a través del Programa Estatal de Desarrollo Socia
 
 En la planeación del Desarrollo Social Estatal y Municipal, deberán tomarse en cuenta los datos e indicadores que se contengan en el Sistema de Investigación e Información para el Desarrollo Social.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2019)</small>
 
 ###### Artículo 23.
 
-Dentro del Plan Estatal de Desarrollo y los planes municipales de desarrollo existirá un apartado para el programa sectorial de desarrollo e integración social que contendrá lo siguiente:
+Dentro del Plan Estatal de Desarrollo y Gobernanza, así como de los planes municipales de desarrollo y gobernanza existirá un apartado para el programa sectorial de desarrollo e integración social que contendrá lo siguiente:
 
 I. El diagnóstico del desarrollo social y de la situación económica así como de los índices de pobreza en el Estado o en el municipio, considerando factores de sexo, edad y entorno socioeconómico;
 
 II. Los programas de desarrollo social que se tiene planeado implementar;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
 
-III. Las matrices de indicadores de resultados, en las cuales se especificará el nombre del programa, su contribución a los fines del Plan Estatal de Desarrollo y a los Planes Sectoriales, los componentes que harán posible cumplir con el propósito del programa, las actividades, así como los indicadores, supuestos de cada uno de ellos y los recursos asignados para el ejercicio respectivo;
+III. Las matrices de indicadores de resultados, en las cuales se especificará el nombre del programa, su contribución a los fines del Plan Estatal de Desarrollo y Gobernanza, así como a los Planes Sectoriales, los componentes que harán posible cumplir con el propósito del programa, las actividades, así como los indicadores, supuestos de cada uno de ellos y los recursos asignados para el ejercicio respectivo;
 
 IV. Los esquemas de atención para los grupos sociales en situación de vulnerabilidad;
 
@@ -455,7 +467,9 @@ La creación de programas de desarrollo social en la entidad, así como el redis
 
 La integración del diagnóstico y la justificación, así como otros elementos técnicos que se consideren necesarios, deberán regirse por los lineamientos que para tal efecto emita la Secretaría.
 
-Para efectos de la expedición de los lineamientos previstos en este artículo, la Secretaría se coordinará con la Secretaría de Planeación, Administración y Finanzas.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+Para efectos de la expedición de los lineamientos previstos en este artículo, la Secretaría se coordinará con la Secretaría de Planeación y Participación Ciudadana.
 
 ###### Artículo 24.
 
@@ -723,13 +737,13 @@ La Secretaría coordinará al Sistema Estatal de Desarrollo Social.
 
 El Consejo es un órgano consultivo del Gobierno del Estado, de participación ciudadana y que coadyuvará en la planeación participativa de la Política Estatal de Desarrollo Social, será permanente y estará integrado por los siguientes miembros:
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
 
-I. El Secretario de Desarrollo e Integración Social quien lo presidirá;
+I. El Secretario del Sistema de Asistencia Social quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
 
-II. Un Secretario Técnico designado por el Secretario de Desarrollo e Integración Social;
+II. Un Secretario Técnico designado por el Secretario del Sistema de Asistencia Social;
 
 III. Dos consejeros ciudadanos que participen en organizaciones sociales, civiles y asistenciales que realicen actividades relacionadas con el desarrollo social;
 
@@ -809,45 +823,57 @@ I. El titular de la Secretaría quién tendrá a cargo la coordinación ejecutiv
 
 II. Por los titulares de las siguientes Secretarías de Estado y dependencias:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MAYO DE 2019)</small>
+
 a) Educación;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MAYO DE 2019)</small>
 
 b) Salud;
 
-c) Trabajo;
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
 
-d) Desarrollo Rural;
+c) Trabajo y Previsión Social;
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+d) Agricultura y Desarrollo Rural;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MAYO DE 2019)</small>
 
 e) Desarrollo Económico;
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MAYO DE 2019)</small>
 
 f) Medio Ambiente y Desarrollo Territorial;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MAYO DE 2019)</small>
+
 g) Cultura;
 
-h) Sistema Estatal para el Desarrollo Integral de la Familia;
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+h) Igualdad Sustantiva entre Mujeres y Hombres;
 
-i) Secretaría de Planeación, Administración y Finanzas;
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+i) Hacienda Pública;
 
-j) Instituto Jalisciense de las Mujeres;
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+j) Planeación y Participación Ciudadana;
 
-k) Instituto Jalisciense de la Juventud;
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+k) Administración;
 
-l) Instituto Jalisciense de Asistencia Social;
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+l) Sistema Estatal para el Desarrollo Integral de la Familia; y
 
-m) Instituto Jalisciense del Adulto Mayor;
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+m) Comisión Estatal Indígena.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
@@ -859,7 +885,9 @@ n) Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad; 
 
 III. Tres presidentes municipales de distintas regiones del Estado, elegidos por el titular del Poder Ejecutivo del Estado.
 
-Podrá (sic) participar como invitados el delegado de la Secretaría de Desarrollo Social del Gobierno Federal en el Estado y las demás personas que se considere necesario.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+Podrán participar como invitados un representante de la Secretaría de Bienestar del Gobierno Federal y las demás personas que se considere necesario.
 
 ###### Artículo 50.
 
@@ -995,33 +1023,47 @@ VI. Estudios e investigaciones sobre el desarrollo social en el Estado.
 
 La información contenida en el Sistema Estatal de Información para el Desarrollo Social será pública, de fácil acceso para su consulta y análisis, y deberá ser sistematizada.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
 
 ###### Artículo 60.
 
-La Secretaría atenderá las mediciones de la evaluación de la pobreza y el desarrollo social en el Estado, que al efecto realice la Secretaría de Planeación, Administración y Finanzas con la finalidad de implementar políticas sociales con nuevos conceptos de sustentabilidad y equidad.
+La Secretaría atenderá las mediciones de la evaluación de la pobreza y el desarrollo social en el Estado, que al efecto realice la Secretaría de Planeación y Participación Ciudadana, con la finalidad de implementar políticas sociales con nuevos conceptos de sustentabilidad y equidad.
 
 ### Capítulo II. De la Evaluación
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2019)</small>
 
 ###### Artículo 61.
 
-Corresponde a la Secretaría de Planeación, Administración y Finanzas, emitir lineamientos respecto a la elaboración, seguimiento y evaluación de las matrices de indicadores para resultados y sus indicadores, para normar la ejecución de las acciones específicas de seguimiento y evaluación de la Política Estatal de Desarrollo Social, de las políticas públicas y de los programas de desarrollo social, en coordinación con los integrantes de la Comisión.
+Corresponde a la Secretaría de Planeación y Participación Ciudadana, emitir lineamientos respecto a la elaboración, seguimiento y evaluación de las matrices de indicadores para resultados y sus indicadores, para normar la ejecución de las acciones específicas de seguimiento y evaluación de la Política Estatal de Desarrollo Social, de las políticas públicas y de los programas de desarrollo social, en coordinación con los integrantes de la Comisión.
 
-Para el cumplimiento de este artículo las funciones de monitoreo y evaluación se regirán de conformidad a lo previsto por la Ley General de Desarrollo Social, esta Ley y la Ley de Planeación del Estado de Jalisco y sus Municipios.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+Para el cumplimiento de este artículo las funciones de monitoreo y evaluación se regirán de conformidad a lo previsto por la Ley General de Desarrollo Social, esta Ley y la Ley de Planeación Participativa para el Estado de Jalisco y sus Municipios.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 La evaluación de la Política Estatal, de las políticas públicas y de los programas de desarrollo social será anual, y se observará lo siguiente:
 
-I. La Secretaría de Planeación, Administración y Finanzas, en coordinación con la Secretaría, deberá presentar ante la Comisión una propuesta de los programas de desarrollo social a evaluarse durante el siguiente ejercicio anual; misma que deberá contemplar nombres de los programas, tipo de evaluación a realizar conforme a los Lineamientos Generales de Monitoreo y Evaluación, y dependencia o entidad que será responsable de coordinar y financiar la realización de cada evaluación;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+I. La Secretaría de Planeación y Participación Ciudadana, en coordinación con la Secretaría, deberá presentar ante la Comisión una propuesta de los programas de desarrollo social a evaluarse durante el siguiente ejercicio anual; misma que deberá contemplar nombres de los programas, tipo de evaluación a realizar conforme a los Lineamientos Generales de Monitoreo y Evaluación, y dependencia o entidad que será responsable de coordinar y financiar la realización de cada evaluación;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 II. La Comisión podrá emitir sugerencias y recomendaciones al Programa Anual de Evaluación del ejercicio anual que corresponda;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 III. Una vez concluidas las evaluaciones, las dependencias y entidades deberán presentar los resultados ante la Comisión, así como las agendas de los aspectos susceptibles de mejora que de esos resultados deriven;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 IV. Los resultados de la evaluación y el seguimiento a la agenda de los aspectos susceptibles de mejora derivados de ejercicios de evaluación, deberán estar disponibles públicamente en los sitios oficiales de internet de las dependencias y entidades evaluadas.
 
 Dichas publicaciones deberán incluir los datos del responsable de la ejecución del programa evaluado y del evaluador, así como el costo, el objetivo, la metodología y las recomendaciones derivadas de la evaluación; y
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 V. Las dependencias y entidades que cuenten con agenda de aspectos susceptibles de mejora derivadas de evaluaciones, deberán informar ante la Comisión los avances en su cumplimiento al menos una vez al año.
 
@@ -1035,9 +1077,11 @@ Los Lineamientos Generales de Monitoreo y Evaluación previstos en este capítul
 
 ### Capitulo Único. De las sanciones
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
 ###### Artículo 63.
 
-El incumplimiento de las disposiciones establecidas en el presente ordenamiento, serán sancionadas de conformidad a lo establecido por la Constitución Política del Estado de Jalisco, la Ley de Responsabilidades de los Servidores Públicos y la Ley de Servidores Públicos del Estado de Jalisco; independientemente de las responsabilidades políticas, civiles o penales a que haya lugar.
+El incumplimiento de las disposiciones establecidas en el presente ordenamiento, serán sancionadas de conformidad a lo establecido por la Constitución Política del Estado de Jalisco, la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios; independientemente de las responsabilidades políticas, civiles o penales a que haya lugar.
 
 T R A N S I T O R I O S
 
@@ -1144,3 +1188,9 @@ SEXTO. Las reformas en materia de revocación de mandato entrarán en vigor una 
 Una vez entrando en vigor el mecanismo de revocación de mandato, su regulación se ajustará en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos.
 
 SÉPTIMO. El Consejo deberá expedir su reglamento interno dentro de los 90 días hábiles siguientes a su instalación.
+
+P.O. 18 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27276/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
