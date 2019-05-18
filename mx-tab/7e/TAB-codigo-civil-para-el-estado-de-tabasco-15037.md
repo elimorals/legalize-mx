@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2017-07-05"
+last_updated: "2019-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE TABASCO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2019 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -2179,7 +2181,7 @@ XII.- La negativa injustificada a cumplir la obligación alimentaria respecto al
 
 XIII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>[N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.]</small>
 
 > <small>(REFORMADA, P.O. 3 DE MAYO DE 2003)</small>
 
@@ -2275,9 +2277,9 @@ VI.- Dictar las medidas conducentes para que los cónyuges no se causen perjuici
 
 VII.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 281.
 
@@ -2291,13 +2293,13 @@ I.- Si la causa de divorcio estuviere comprendida en las fracciones I, II, III, 
 
 II.- Si la causa de divorcio estuviere comprendida en las fracciones IX, XIII, XVI y XVII del artículo 272, los hijos quedarán bajo la patria potestad del cónyuge inocente, pero a la muerte de éste, el culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables se les suspenderán en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entre tanto, los hijos quedarán bajo la patria potestad del ascendiente o ascendientes que correspondan y, si no hay quién la ejerza, se les nombrará tutor;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
 
 En los casos que el Juez estime pertinentes, dictará las medidas de seguridad, seguimiento y terapias necesarias, para evitar y corregir los actos que dañen la integridad física, psíquica y moral de los afectados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
 
@@ -2953,7 +2955,7 @@ Si ambos padres se hubieren casado, en el acta de reconocimiento que haga uno de
 
 Reconocimiento del padre
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
 
@@ -3735,7 +3737,9 @@ Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los
 
 Deberes de quienes ejercen la patria potestad.
 
-Las personas que tienen al hijo bajo su patria potestad deben educarlo convenientemente y tienen la facultad de corregirlo y castigarlo mesuradamente; esto es, sin atentar contra su integridad física y estabilidad emocional.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2019)</small>
+
+Las personas que ejerzan la patria potestad, guardia y custodia, tutela o que tengan bajo su cuidado y vigilancia a niñas, niños y adolescentes, tienen la obligación de educarlos convenientemente, sin ejercer violencia física, psicológica o de cualquier tipo, quedando prohibido el uso del castigo corporal o cualquier otra medida de corrección disciplinaria que atente contra la dignidad humana, observando en todo momento el interés superior del niño.
 
 Las autoridades, en caso contrario, auxiliarán a los titulares de la patria potestad en el ejercicio de ésta y de las demás facultades que les concede la ley, haciendo uso de amonestaciones y correctivos que les presten el apoyo suficiente.
 
@@ -15875,7 +15879,7 @@ Obligación de reparar los daños y perjuicios
 
 El autor de un hecho ilícito debe reparar los daños y perjuicios que con tal hecho cause a otra persona, a menos que demuestre que el daño o el perjuicio se produjo como consecuencia de culpa o negligencia inexcusable de la víctima. Esta responsabilidad puede ser a cargo de una persona que no sea la autora del hecho ilícito, en los casos en que así lo disponga la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2003)</small>
 
@@ -25683,7 +25687,7 @@ LIC. VICTOR MANUEL BARCELO RODRIGUEZ
 
 SECRETARIO DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 3 DE MAYO DE 2003.
 
@@ -25830,6 +25834,14 @@ QUINTO. Los contratos y convenios de cualquier naturaleza, vigentes a la fecha d
 SEXTO. Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 18 DE MAYO DE 2019.
+
+[N. DE E TRANSITORIOS DEL DECRETO 088 POR EL QUE “SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 429 DEL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 ###### ARTICULO PRIMERO.
 
