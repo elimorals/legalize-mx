@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-atencion-a-victimas-del-estado-de-jalisco-99255"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-27"
-last_updated: "2017-12-28"
+last_updated: "2019-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "JAL"
 ---
 # LEY DE ATENCION A VICTIMAS DEL ESTADO DE JALISCO
 
-LEY DE ATENCIÓN A VICTIMAS DEL ESTADO DE JALISCO
+LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 27 de febrero de 2014.
 
-Al margen un sello que dice: Secretaría General de Gobierno. Gobierno del Estado de Jalisco, Estados Unidos Mexicanos.
+Al margen un sello que dice: Secretaría General de Gobierno. Gobierno del Estado de Jalisco. Estados Unidos Mexicanos.
 
 Jorge Aristóteles Sandoval Díaz, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto
 
@@ -39,7 +39,7 @@ SE EXPIDE LA LEY DE ATENCIÓN A VICTIMAS DEL ESTADO DE JALISCO
 
 ###### ARTÍCULO ÚNICO.
 
-Se expide la Ley de Atención a Víctimas del Estado de Jalisco, para quedar como sigue:
+Se expide la Ley de Atención a Victimas del Estado de Jalisco, para quedar como sigue:
 
 LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO
 
@@ -257,7 +257,7 @@ VI. A solicitar y a recibir ayuda, asistencia y atención en forma oportuna, rá
 
 VII. A la verdad, a la justicia y a la reparación integral a través de recursos y procedimientos accesibles, apropiados, suficientes, rápidos y eficaces;
 
-VIII. A la protección del Estado, incluido el bienestar físico y psicológico y la seguridad del entorno con respeto a la dignidad y privacidad de la víctima, con independencia de que se encuentren dentro un (sic) procedimiento penal o de cualquier otra índole. Lo anterior incluye el derecho a la protección de su intimidad contra injerencias ilegítimas, así como derecho a contar con medidas de protección eficaces cuando su vida o integridad personal o libertad personal sean amenazadas o se hallen en riesgo en razón de su condición de víctima y/o del ejercicio de sus derechos;
+VIII. A la protección del Estado, incluido el bienestar físico y psicológico y la seguridad del entorno con respeto a la dignidad y privacidad de la víctima, con independencia de que se encuentren dentro (sic) un procedimiento penal o de cualquier otra índole. Lo anterior incluye el derecho a la protección de su intimidad contra injerencias ilegítimas, así como derecho a contar con medidas de protección eficaces cuando su vida o integridad personal o libertad personal sean amenazadas o se hallen en riesgo en razón de su condición de víctima y/o del ejercicio de sus derechos;
 
 IX. A solicitar y a recibir información clara, precisa y accesible sobre las rutas y los medios de acceso a los procedimientos, mecanismos y medidas que se establecen en la presente Ley;
 
@@ -927,9 +927,13 @@ La Comisión Ejecutiva Estatal se integrará por los representantes de las sigui
 
 I. Secretaría General de Gobierno;
 
-II. Secretaría de Planeación, Administración y Finanzas;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
 
-III. Secretaría de Desarrollo e Integración Social;
+II. Secretaría de Planeación y Participación Ciudadana;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+III. Secretaría del Sistema de Asistencia Social;
 
 IV. Secretaría de Salud; y
 
@@ -1661,7 +1665,9 @@ TERCERO. Dentro de los sesenta días siguientes a la entrada en vigor de la pres
 
 CUARTO. Se faculta a la Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado, para que lleve a cabo las adecuaciones administrativas y presupuestales para el cumplimiento del decreto.
 
-SALÓN DE SESIONES DEL CONGRESO DEL ESTADO GUADALAJARA, JALISCO, 26 DE FEBRERO DE 2014
+SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
+
+GUADALAJARA, JALISCO, 26 DE FEBRERO DE 2014
 
 Diputado Presidente
 
@@ -1742,3 +1748,9 @@ P.O. 28 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26721/LXI/17 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4, 5, 6, 7, 8, 31, 64 Y 82, TODOS DE LA LEY DE ATENCIÓN A VÍCTIMAS; LOS ARTÍCULOS 599 Y 601 DEL CÓDIGO CIVIL, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
 
 PRIMERO. El presente decreto entrará en vigor el día primero de enero del año 2018, previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27278/LXII/19 QUE REFORMA EL ARTÍCULO 62, FRACCIONES II Y III DE LA LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
