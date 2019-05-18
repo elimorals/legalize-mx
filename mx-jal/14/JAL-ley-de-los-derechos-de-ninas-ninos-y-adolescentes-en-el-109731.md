@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2019-02-01"
+last_updated: "2019-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -295,9 +295,15 @@ Las autoridades, en el ámbito de su respectiva competencia, coadyuvarán y se c
 
 En caso de que las autoridades tengan conocimiento de cualquier niña, niño o adolescente habitante de Jalisco que sea sustraído, trasladado o retenido de manera ilícita en cualquier parte del territorio estatal, del país o en el extranjero, se coordinarán con las autoridades competentes del ámbito federal, estatal o municipal, conforme a los principios de inmediatez y mínimas formalidades y demás disposiciones aplicables, para su localización e inmediata restitución.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
 ###### Artículo 25.
 
-El Sistema Estatal DIF, los Sistemas Municipales DIF y demás autoridades organizarán la convivencia asistida o supervisada ordenada por autoridad jurisdiccional, para lo cual emitirá los protocolos de atención que ofrezcan condiciones profesionales, dignas y seguras para garantizar el ejercicio de los vínculos afectivos de la relación paterna filial; podrán suscribir convenios con el Sistema Municipal DIF.
+El Sistema Estatal DIF, los sistemas municipales DIF y demás autoridades organizarán la convivencia asistida o supervisada ordenada por autoridad jurisdiccional, para lo cual emitirá los protocolos de atención que ofrezcan condiciones profesionales, dignas y seguras para garantizar el ejercicio de los vínculos afectivos de la relación paterno filial.
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes promoverá la instalación de Centros de Convivencia Familiar en los municipios del Estado, y supervisará todo lugar destinado a esta convivencia a efecto de que los mismos tengan los elementos humanos, técnicos y materiales necesarios para su correcto funcionamiento.
+
+Lo (sic) municipios que decidan instalar Centros de Convivencia Familiar podrán firmar convenios de colaboración o coordinación con la Procuraduría de Protección de Niñas, Niños y Adolescentes para la capacitación, asesoría y apoyo humano y material.
 
 ###### Artículo 26.
 
@@ -1752,3 +1758,9 @@ Social" Secretaría de la Hacienda Pública
 recursos)
 
 DÉCIMO SEGUNDO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.
+
+P.O. 18 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27282/LXII/19 QUE REFORMA EL ARTÍCULO 25 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
