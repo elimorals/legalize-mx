@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-jalisciense-de-ciencias-forenses-120
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-07"
-last_updated: "2015-11-12"
+last_updated: "2019-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESUS MARIO RIVAS SOUZA -- ANTES LEY ORGANICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES --
 
-LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES
+LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
 
 Ley publicada en la Sección Segunda, del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -35,27 +35,31 @@ DECRETO
 
 NÚMERO 17152. EL CONGRESO DEL ESTADO DECRETA:
 
-LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MAYO DE 2019)</small>
+
+LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA
 
 ### Capítulo I. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
 
 ###### Artículo 1°.
 
-La presente ley es de orden público y tiene por objeto establecer y organizar al Instituto Jalisciense de Ciencias Forenses, que propicie la práctica y emisión de dictámenes e informes periciales con los avances de la ciencia y la técnica, de carácter imparcial y con autonomía técnica y científica de las autoridades a las que auxilian.
+La presente ley es de orden público y tiene por objeto establecer y organizar al Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, que propicie la práctica y emisión de dictámenes e informes periciales con los avances de la ciencia y la técnica, de carácter imparcial y con autonomía técnica y científica de las autoridades a las que auxilian.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
 
 ###### Artículo 2º.
 
-Se establece el organismo público descentralizado con personalidad jurídica y patrimonio propios (sic) que se denomina Instituto Jalisciense de Ciencias Forenses con domicilio en el estado de Jalisco.
+Se establece el organismo público descentralizado con personalidad jurídica y patrimonio propios (sic) que se denomina Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza. El cual tendrá su domicilio en el Estado de Jalisco.
 
 ###### Artículo 3º.
 
 Para los efectos de esta ley, se deberá de entender por:
 
-I. Instituto: Instituto Jalisciense de Ciencias Forenses; y
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+I. Instituto: Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza;
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -732,3 +736,11 @@ Segundo. La Junta de Gobierno del Instituto Jalisciense de Ciencias Forenses deb
 Tercero. El Instituto Jalisciense de Ciencias Forenses deberá instituir el Registro Estatal de Peritos y Consultores Técnicos, dentro de los noventa días hábiles siguientes a la entrada en vigor del presente decreto.
 
 Cuarto. El Instituto Jalisciense de Ciencias Forenses, deberá proponer al titular del Ejecutivo del Estado, para su aprobación y publicación en el periódico oficial El Estado de Jalisco, las normas, lineamientos, criterios técnicos y científicos, así como los reglamentos y requisitos de certificación de competencias profesionales de los peritos oficiales, autorizados y particulares, así como las normas técnicas y requisitos aplicables para la acreditación y certificación de las diversas áreas especializadas de las ciencias forenses que opere el Instituto, dentro de los ciento veinte días posteriores a la entrada en vigor del presente decreto.
+
+P.O. 18 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27279/LXII/19 QUE REFORMA EL NOMBRE DE LA LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, ASÍ COMO LOS ARTÍCULOS 1, 2 Y 3 DE DICHO ORDENAMIENTO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Se conformará una Comisión Especial integrada por la autora de la iniciativa, la Presidenta de la Comisión de Estudios Legislativos y Reglamentos y un integrante de cada Grupo Parlamentario para que en conjunto con las autoridades correspondientes se celebre un acto solemne en el cual se lleve a cabo la develación de las letras del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, donde las autoridades del mismo lo señalen.
