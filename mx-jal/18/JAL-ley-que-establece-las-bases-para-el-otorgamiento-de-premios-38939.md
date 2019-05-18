@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-establece-las-bases-para-el-otorgamiento-de-premios-389
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-27"
-last_updated: "2017-04-08"
+last_updated: "2019-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 27 de diciembre de 2003.
 
@@ -109,7 +109,9 @@ IV. Secretaría de Planeación, Administración y Finanzas;
 
 V. Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-VI. Congreso del Estado de Jalisco, a través de la presidencia de la Comisión Legislativa de Cultura;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+VI. Congreso del Estado de Jalisco, a través de la presidencia de la Comisión Legislativa de Educación, Cultura y Deporte;
 
 VII. Universidad de Guadalajara;
 
@@ -472,5 +474,11 @@ P.O. 16 DE MARZO DE 2017.
 P.O. 8 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26312/LXI/17 QUE REFORMA EL ARTÍCULO 19 DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27275/LXII/19 QUE REFORMA EL ARTÍCULO 9, FRACCIÓN VI DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
