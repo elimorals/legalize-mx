@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-regula-los-centros-de-atencion-infantil-en-el-99842"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-25"
-last_updated: "2017-03-04"
+last_updated: "2019-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el 25 de marzo de 2014.
 
@@ -301,13 +301,19 @@ El Consejo se integrará con los titulares de las siguientes dependencias y enti
 
 I. La Secretaría de Salud Jalisco, quien lo presidirá;
 
-II. La Fiscalía General;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
 
-III. La Secretaría de Desarrollo e Integración Social;
+II. La Fiscalía Estatal;
+
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+III. La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres;
 
 IV. La Secretaría de Educación;
 
-V. El Poder Legislativo, a través del Presidente de la Comisión de Higiene y Salud Pública;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+
+V. El Poder Legislativo, a través del Presidente de la Comisión de Higiene, Salud Pública y Prevención de las Adicciones;
 
 VI. La Unidad Estatal de Protección Civil y Bomberos;
 
@@ -812,5 +818,11 @@ P.O. 11 DE OCTUBRE DE 2016.
 P.O. 4 DE MARZO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26279/LXI/17 QUE REFORMA EL ARTÍCULO 52 DE LA LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27274/LXII/19 QUE REFORMA EL ARTÍCULO 18 DE LA LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
