@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2019-04-09"
+last_updated: "2019-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -1761,9 +1761,11 @@ VI. Duración; y
 
 VII. Prevenciones para que el Municipio recupere la función o el servicio público municipal en el menor tiempo posible.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2019)</small>
+
 ###### Artículo 100.
 
-En caso de conflictos derivados de los convenios celebrados por los municipios con el Estado o entre ellos mismos, debe resolver el Tribunal de lo Administrativo del Poder Judicial del Estado de Jalisco, conforme a lo dispuesto por el artículo 65 de la Constitución Política del Estado de Jalisco y las leyes de la materia.
+En caso de conflictos derivados de los convenios celebrados por los municipios con el Estado o entre ellos mismos, debe resolver el Tribunal de Justicia Administrativa del Estado de Jalisco, conforme a lo dispuesto por el artículo 65 de la Constitución Política del Estado de Jalisco y las leyes de la materia.
 
 En todo caso, para asegurar la continuidad de los servicios y de las funciones públicas mientras se resuelve el conflicto, éstos se deben seguir prestando de forma ininterrumpida, con la mayor regularidad y eficacia y conforme a los convenios celebrados.
 
@@ -2792,3 +2794,9 @@ SEXTO. Las reformas en materia de revocación de mandato entrarán en vigor una 
 Una vez entrando en vigor el mecanismo de revocación de mandato, su regulación se ajustará en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos.
 
 SÉPTIMO. El Consejo deberá expedir su reglamento interno dentro de los 90 días hábiles siguientes a su instalación.
+
+P.O. 18 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27273/LXII/19 QUE REFORMA EL ARTÍCULO 100 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco"
