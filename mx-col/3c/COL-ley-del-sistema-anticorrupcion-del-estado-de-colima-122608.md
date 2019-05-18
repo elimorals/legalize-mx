@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-anticorrupcion-del-estado-de-colima-122608"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-15"
-last_updated: "2017-07-15"
+last_updated: "2019-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 15 de julio de 2017.
 
@@ -357,11 +357,15 @@ Método de selección de los integrantes del Comité de Participación Ciudadana
 
 1. Los integrantes del Comité de Participación Ciudadana serán nombrados conforme al siguiente procedimiento:
 
-I. El Congreso del Estado constituirá una Comisión de selección, integrada por nueve ciudadanos colimenses, por un periodo de tres años, de la siguiente manera:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE MAYO DE 2019)</small>
+
+I. El Congreso del Estado constituirá una Comisión de selección, integrada por once ciudadanos colimenses, por un periodo de tres años, de la siguiente manera:
 
 a) Convocará a las instituciones de educación superior y de investigación del Estado, para proponer candidatos a fin de integrar la Comisión de selección, debiendo enviar los documentos que acrediten el perfil solicitado en la convocatoria, en un plazo no mayor a quince días, para seleccionar a cinco miembros, basándose en los elementos decisorios que se hayan plasmado en la convocatoria, valorando que cuenten con trayectoria destacada en materia de fiscalización, de rendición de cuentas o combate a la corrupción; y
 
-b) Convocará a organizaciones de la sociedad civil especializadas en materia de fiscalización, de rendición de cuentas o combate a la corrupción, para seleccionar a cuatro miembros, en los mismos términos del inciso anterior.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+
+b) Convocará a organizaciones de la sociedad civil especializadas en materia de fiscalización, de rendición de cuentas o combate a la corrupción, para seleccionar a seis miembros, en los mismos términos del inciso anterior.
 
 El cargo de miembro de la Comisión de selección será honorario. Quienes funjan como miembros no podrán ser designados como integrantes del Comité de Participación Ciudadana por un periodo de seis años contados a partir de la disolución de la Comisión de selección; y
 
@@ -942,3 +946,15 @@ JOSÉ IGNACIO PERALTA SÁNCHEZ. Rúbrica.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARNOLDO OCHOA GONZÁLEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 66 POR EL QUE SE REFORMA EL INCISO B), DE LA FRACCIÓN I, DEL NUMERAL 1, DEL ARTÍCULO 18, DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá designar a los dos nuevos integrantes de la Comisión de Selección, por lo que, una vez publicado el presente Decreto, deberá turnarse copia del mismo a la Comisión o Comisiones Legislativas que corresponda, para efectos del trámite correspondiente.
+
+TERCERO.- Las dos personas que resulten electas para integrar la Comisión de Selección por virtud de lo dispuesto en el presente Decreto, lo serán por el periodo que le resta a la actual integración de la Comisión, el cual inició el 12 de octubre de 2017 y concluye el 12 de octubre de 2020.
