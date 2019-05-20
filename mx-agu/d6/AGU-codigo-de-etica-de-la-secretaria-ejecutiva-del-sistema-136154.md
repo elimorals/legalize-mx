@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-de-la-secretaria-ejecutiva-del-sistema-136154"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-13"
-last_updated: "2019-05-13"
+last_updated: "2019-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DE LA SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION DE AGUASCALIENTES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE MAYO DE 2019 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE ÉTICA DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 20 DE MAYO DE 2019.]</small>
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de mayo de 2019.
 
@@ -549,6 +549,8 @@ Aguascalientes, Ags., a 8 de mayo de 2019
 
 A t e n t a m e n t e
 
-CP. Susana Joceline Vera Delgadillo
+> <small>(F. DE E., P. O. 20 DE MAYO DE 2019)</small>
+
+CP. Susana Joseline Vera Delgadillo
 
 Titular de la Unidad Auditora del Órgano Interno de Control de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción.
