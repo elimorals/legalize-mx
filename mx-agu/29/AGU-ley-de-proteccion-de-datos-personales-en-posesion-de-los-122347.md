@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-de-datos-personales-en-posesion-de-los-122347
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-03"
-last_updated: "2017-07-03"
+last_updated: "2019-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2019.
 
 Ley publicada en la Primera Sección al Número 27 del Periódico Oficial del Estado de Aguascalientes, el lunes 3 de julio de 2017.
 
@@ -171,7 +171,7 @@ V.- Los registros públicos conforme a las disposiciones que les resulten aplica
 
 ###### Artículo 9°.
 
-La aplicación e interpretación de la presente Ley se realizará conforme a lo dispuesto en la Constitución Politica de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado mexicano sea parte, así como la Ley General, la Constitución Política del Estado de Aguascalientes, la Ley de Transparencia y las resoluciones, sentencias, determinaciones, decisiones, criterios y opiniones vinculantes, entre otras, que emitan los órganos nacionales e internacionales especializados en la materia, privilegiando en todo momento el derecho a la privacidad, la protección de datos personales y a las personas la protección más amplia.
+La aplicación e interpretación de la presente Ley se realizará conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado mexicano sea parte, así como la Ley General, la Constitución Política del Estado de Aguascalientes, la Ley de Transparencia y las resoluciones, sentencias, determinaciones, decisiones, criterios y opiniones vinculantes, entre otras, que emitan los órganos nacionales e internacionales especializados en la materia, privilegiando en todo momento el derecho a la privacidad, la protección de datos personales y a las personas la protección más amplia.
 
 ###### Artículo 10.
 
@@ -1265,7 +1265,7 @@ El titular deberá acompañar a su escrito los siguientes documentos:
 
 I.- Los documentos que acrediten su identidad, y la personalidad de su representante, en su caso;
 
-II.- La copia de la solicitud a través de la cual ejerció sus derechos ARCO y que fue presentada ante el responsable y los documentos anexos a la misma, con su correspondiente acuse de recepción;
+II.- (DEROGADA, P.O. 20 DE MAYO DE 2019)
 
 III.- En su caso, la copia de la respuesta del responsable que se impugna y de la notificación correspondiente; y
 
@@ -1395,9 +1395,11 @@ VIII.- La presuncional legal y humana.
 
 El ITEA podrá allegarse de los medios de prueba que considere necesarios, sin más limitación que las establecidas en la normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2019)</small>
+
 ###### Artículo 129.
 
-El ITEA resolverá el recurso de revisión en un plazo que no podrá exceder de veinte días, el cual podrá ampliarse hasta por otros veinte días por una sola vez y empezará a contarse a partir de que se decrete el cierre de instrucción.
+El ITEA resolverá el recurso de revisión en un plazo que no podrá exceder de cuarenta días a partir de que el recurso fue admitido, el cual podrá ampliarse hasta por otros veinte días por una sola vez.
 
 En caso de que el ITEA amplíe el plazo para emitir la resolución correspondiente, deberá emitir un acuerdo donde funde y motive las circunstancias de la ampliación.
 
@@ -1683,9 +1685,11 @@ Para tal efecto, el ITEA deberá considerar los elementos ofrecidos por el titul
 
 El procedimiento de verificación deberá tener una duración máxima de cincuenta días.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2019)</small>
+
 ###### Artículo 157.
 
-Una vez transcurrido el plazo señalado en el Artículo anterior, el ITEA deberá emitir la resolución que legalmente proceda, debidamente fundada y motivada, y notificarla al responsable verificado y al denunciante.
+El ITEA deberá emitir, dentro del plazo señalado en el artículo anterior, la resolución que legalmente proceda, debidamente fundada y motivada, y notificarla al responsable verificado y al denunciante.
 
 En la resolución el ITEA podrá ordenar medidas correctivas para que el responsable las acate en la forma, términos y plazos fijados para tal efecto, así como señalar las medidas de apremio para asegurar el cumplimiento de ésta.
 
@@ -1968,3 +1972,13 @@ María del Carmen Mayela Macías Alvarado,
 DIPUTADA SEGUNDA SECRETARIA.
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 30 de junio de 2017.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Francisco Javier Luévano Núñez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 157.-ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 129 Y 157; ASÍ COMO DE (SIC) DEROGA LA FRACCIÓN II DEL ARTÍCULO 118, DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
