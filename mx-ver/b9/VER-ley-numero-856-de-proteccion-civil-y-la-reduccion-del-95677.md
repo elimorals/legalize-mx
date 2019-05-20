@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-856-de-proteccion-civil-y-la-reduccion-del-95677"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-01"
-last_updated: "2018-09-11"
+last_updated: "2019-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 856 DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2019.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 1 de agosto de 2013.
 
@@ -525,9 +525,13 @@ XXXII. Desarrollar mecanismos para que la instancia rectora de la comunicación 
 
 XXXIII. Definir la regionalización de los Cuerpos de Bomberos de la entidad, además de otorgar un visto bueno a la creación de los mismos;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 22 DE FEBRERO DE 2018)</small>
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2019)</small>
 
-XXXIV. Las demás que señalen la presente Ley, su Reglamento y otras disposiciones legales.
+XXXIV. Coadyuvar, en sus programas de Protección Civil, con los diferentes órdenes de Gobierno para llevar a cabo la elaboración y actualización de protocolos de actuación, términos de referencia o normatividad, para la atención de niñas, niños y adolescentes, personas con discapacidad y personas adultas mayores en situaciones de emergencia, desastre o disturbio que se presenten en el estado; y
+
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2019)</small>
+
+XXXV. Las demás que señalen la presente ley, su Reglamento y otras disposiciones legales.
 
 ###### Artículo 30.
 
@@ -1508,3 +1512,13 @@ G.O. 11 DE SEPTIEMBRE DE 2018.
 Artículo primero. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 240 POR EL QUE SE ADICIONA UNA FRACCIÓN XXXIV, RECORRIÉNENDOSE (SIC) LA ACTUAL PARA SER LA XXXV DEL ARTÍCULO 29 DE LA LEY DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Se concede un plazo de noventa días, a partir de la entrada en vigor de este Decreto, para que el Ejecutivo realice las adecuaciones al Reglamento de la Ley de Protección Civil y la Reducción del Riesgo de Desastres para el Estado de Veracruz de Ignacio de la Llave.
