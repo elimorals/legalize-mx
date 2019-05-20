@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-de-metrobus-organismo-publico-80539"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-04-04"
-last_updated: "2011-04-04"
+last_updated: "2019-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80539&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-03-01"
 ---
 # ESTATUTO ORGANICO DE"METROBUS" ORGANISMO PUBLICO DESCENTRALIZADO
 
-ESTATUTO ORGANICO DE "METROBUS" ORGANISMO PUBLICO DESCENTRALIZADO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGÁNICO DE "METROBÚS" ORGANISMO PÚBLICO DESCENTRALIZADO, PUBLICADO EN LA G.O. DE 20 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
 
-TEXTO ORIGAL.
+ESTATUTO ORGÁNICO DE "METROBÚS" ORGANISMO PÚBLICO DESCENTRALIZADO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2019 (DEROGADO).
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el lunes 4 de abril de 2011.
 
@@ -1083,3 +1085,15 @@ En México, Distrito Federal, 01 de marzo de 2011
 ING. GUILLERMO CALDERÓN AGUILERA
 
 DIRECTOR GENERAL DE METROBÚS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 20 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE "METROBÚS" ORGANISMO PÚBLICO DESCENTRALIZADO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Estatuto entrara en vigor al día hábil siguiente a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se deroga el Estatuto Orgánico de "Metrobús" publicado en la Gaceta Oficial del Distrito Federal del 04 de abril de 2011.
