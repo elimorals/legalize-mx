@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-comision-mixta-de-escalafon-del-poder-29802"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-04-07"
-last_updated: "2005-08-08"
+last_updated: "2019-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO DE LA COMISION MIXTA DE ESCALAFON DEL PODER EJECUTIVO Y ORGANISMOS DESCENTRALIZADOS
 
-REGLAMENTO DE LA COMISION MIXTA DE ESCALAFON DEL PODER EJECUTIVO Y ORGANISMOS DESCENTRALIZADOS
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO DE LA COMISIÓN MIXTA DE ESCALAFÓN DEL PODER EJECUTIVO Y ORGANISMOS DESCENTRALIZADOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, PUBLICADO EN EL P.O. DE 20 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+REGLAMENTO DE LA COMISIÓN MIXTA DE ESCALAFÓN DEL PODER EJECUTIVO Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2019 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de abril de 2003.
 
@@ -588,3 +590,15 @@ PRIMERO.- El presente Decreto, entrará en vigor, el día siguiente de su public
 SEGUNDO.- La Comisión dentro de un plazo de 30 días a partir de la entrada en vigor de las presentes Reformas, deberá adecuar el Manual de Integración y Funcionamiento.
 
 TERCERO.- La Comisión tendrá un plazo de 30 días a partir de la entrada en vigor del presente Decreto, para efectuar el depósito de las Reformas al Reglamento de la Comisión Mixta de Escalafón del Poder Ejecutivo y Organismos Descentralizados, ante el H. Tribunal de Conciliación y Arbitraje del Estado de Hidalgo.
+
+P.O. 20 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA COMISIÓN MIXTA DE ESCALAFÓN DEL PODER EJECUTIVO Y ORGANISMOS DESCENTRALIZADOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+PRIMERO.- El presente Reglamento, entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- La Comisión dentro de los 60 días siguientes a la entrada en vigor del presente Reglamento, deberá actualizar el Manual de Integración y Funcionamiento.
+
+TERCERO.- Los casos no previstos en este Reglamento serán resueltos por la Comisión.
+
+CUARTO.- Se abroga el Reglamento de la Comisión Mixta de Escalafón del Poder Ejecutivo y Organismos Descentralizados, de fecha 07 de abril de 2003 y su modificatorio de fecha 08 de agosto de 2005, expedidos y publicados en el Periódico Oficial del Estado de Hidalgo.
