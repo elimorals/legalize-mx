@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-culturales-de-los-habitantes-y-125426"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-22"
-last_updated: "2018-01-22"
+last_updated: "2019-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125426&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-01-08"
 
 LEY DE LOS DERECHOS CULTURALES DE LOS HABITANTES Y VISITANTES DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2019.
 
 Ley publicada en el Número 245 de la Gaceta Oficial de la Ciudad de México, el lunes 22 de enero de 2018.
 
@@ -134,6 +134,10 @@ I.- La persona titular de la Jefatura de Gobierno de la Ciudad de México; y
 
 II.- La persona titular de la Secretaría de Cultura del Gobierno de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2019)</small>
+
+III. Las personas titulares de las Alcaldías de la Ciudad de México.
+
 ###### ARTÍCULO 6.
 
 Todas las dependencias y entidades de la Administración Pública del Gobierno de la Ciudad y los órganos jurisdiccionales en el ámbito de su competencia están obligadas a procurar el pleno ejercicio de los derechos culturales, así como las personas u organismos que ejerzan funciones vinculadas a la autoridad.
@@ -228,95 +232,79 @@ Los pueblos y barrios originarios, así como los productores culturales populare
 
 La persona titular de la Jefatura de Gobierno de la Ciudad de México dotará de los recursos presupuestales necesarios para el desarrollo de esta ley en término de lo estipulado en el capítulo II, artículo 19, fracción IV de la Ley de Fomento Cultural del Distrito Federal.
 
-### CAPÍTULO II. DE LOS RECURSOS JURISDICCIONALES Y NO JURISDICCIONALES PARA LA EXIGIBILIDAD DE LOS DERECHOS CULTURALES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 20 DE MAYO DE 2019)</small>
+
+### CAPÍTULO II. DE LOS MEDIOS DE DEFENSA PARA LA EXIGIBILIDAD DE LOS DERECHOS CULTURALES
+
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 13.
 
-Toda persona, grupo o comunidad cultural tiene legitimidad para ejercerlos (sic) recursos que se enuncian, con el objeto de demandar el cese de cualquier trasgresión a sus derechos culturales, exigir su plena vigencia y el resarcimiento del daño causado:
+Toda persona, grupo o comunidad tiene el derecho de demandar el cese de cualquier trasgresión a sus derechos culturales, exigir su plena vigencia y el resarcimiento del daño causado a través de la interposición de la acción de protección efectiva de derechos ante las y los jueces de tutela de derechos humanos, de conformidad con el artículo 36, apartado B, numeral 3 de la Constitución local y las demás disposiciones legales aplicables, así como mediante la presentación de queja ante la Comisión, conforme a la legislación de la materia.
 
-a) Recurso de queja ante el Instituto, mismo que la recibirá, substanciará y resolverá;
-
-b) Recurso de queja ante la Comisión; y
-
-c) En el caso de la queja ante la Secretaría, este deberá apegarse al procedimiento establecido en esta Ley.
+En caso de así requerirlo, se podrá solicitar al Instituto acompañamiento y orientación para la presentación de dichos medios de defensa.
 
 ###### ARTÍCULO 14.
 
-La Secretaría a través del Instituto tendrá a su cargo la puntual observancia de los derechos culturales. Esta dependencia está facultada para conocer y resolver por la vía administrativa las quejas por trasgresión de los derechos culturales.
+(DEROGADO, G.O. 20 DE MAYO DE 2019)
 
 ###### ARTÍCULO 15.
 
-Toda persona, grupo o comunidad cultural podrá presentar el recurso de queja debidamente fundado y motivada (sic) ante el Instituto, por presunta trasgresión a sus derechos culturales.
+(DEROGADO, G.O. 20 DE MAYO DE 2019)
 
 ###### ARTÍCULO 16.
 
-La substanciación de los recursos de queja se desahogarán y resolverán conforme a las siguientes bases:
-
-a) Ser presentada por escrito en las instalaciones del Instituto, o enviarse por correo postal o cualquier otro medio, por correo electrónico en el portal que para esos efectos habrá de abrir el Instituto.
-
-En casos de extrema urgencia, se admitirán las quejas no escritas que se formulen por otro medio de comunicación como la vía telefónica.
-
-El recurso de queja deberá mencionar los datos mínimos de identificación, número telefónico y dirección electrónica si cuenta con ellos.
-
-Cuando se trate de menores de edad o de personas que no puedan escribir, podrán presentar su queja de manera oral o en su caso deberá ir acompañado de su representante;
-
-b) Dirigir el escrito o queja al Instituto y solicitar expresamente la intervención de este órgano de la Secretaría;
-
-c) Estar firmada o presentar la huella digital del quejoso o interesado. En tal circunstancia, si al momento de presentarla el quejoso no se identifica, no firma su escrito de queja o imprime su huella digital, el escrito de queja deberá ser ratificado dentro de los tres días a los que fue presentado; así mismo quedará prohibida la admisión de quejas anónimas;
-
-d) La queja deberá contener los datos mínimos de identificación, como son: nombre(s), apellidos, domicilio y, de ser posible, un número telefónico en el que se pueda localizar a la persona individual o colectiva a la cual le han sido o se le estén trasgrediendo sus derechos culturales o, en su caso, se deberán proporcionar los datos de la persona que presenta la queja como representante o a título individual;
-
-e) Contar con una narración de los hechos que se consideran violatorios a los derechos culturales, estableciendo el nombre de la autoridad presuntamente responsable;
-
-f) Entregarse, de ser posible, acompañada de todos los elementos con que la persona cuente para comprobar la trasgresión a sus derechos culturales; y
-
-g) Los servicios que el Instituto proporciona en esta materia son gratuitos; para solicitarlos no será necesaria la ayuda de un perito legal; al instituto le asiste la suplencia de la queja correspondiente.
-
-Tratándose de la protección de los derechos culturales, la Secretaría pondrá a la disposición del público todos los medios de comunicación que estén a su alcance; en el caso de los pueblos indígenas u originarios, podrán presentar su queja en su propio idioma.
+(DEROGADO, G.O. 20 DE MAYO DE 2019)
 
 ###### ARTÍCULO 17.
 
-El Instituto, una vez recibida la queja, señalará fecha y hora para desahogar una audiencia y pedirá un informe circunstanciado a la autoridad responsable.
-
-En la audiencia, el Instituto le hará saber al quejoso y a la autoridad responsable las opciones probables para solucionar la queja. Si elige cualquiera de ellas, levantará el acta respectiva o en su caso con el convenio o la medida conducente para resolver la queja;
+(DEROGADO, G.O. 20 DE MAYO DE 2019)
 
 ###### ARTÍCULO 18.
 
-Los interesados, tendrán un plazo de 15 días hábiles a partir de la notificación correspondiente, para manifestar al Instituto lo que a su derecho convenga, así como presentar las pruebas y alegatos que estimen pertinentes.
+(DEROGADO, G.O. 20 DE MAYO DE 2019)
 
 ###### ARTÍCULO 19.
 
-Una vez dictada la resolución de la Secretaría, a través del Instituto, los interesados seguirán el procedimiento y los recursos establecidos en la Ley General de Responsabilidades Administrativas, así como lo que establezca la Ley local que regule la materia en la Ciudad de México.
+(DEROGADO, G.O. 20 DE MAYO DE 2019)
 
 ###### ARTÍCULO 20.
 
-Para todo lo no previsto en el procedimiento por esta Ley, se aplicará supletoriamente aparte de la Ley General de Responsabilidades Administrativas, La Ley que regula la materia en la Ciudad de México, los instrumentos legales en esta misma Ley.
-
-En caso contrario, el Instituto emitirá una resolución fundada y motivada a la autoridad responsable para solucionar el conflicto.
-
-El Instituto, deberá emitir su resolución en un plazo no mayor a 45días (sic) hábiles a partir de la recepción de la queja y del cumplimiento íntegro de los requisitos por parte del quejoso, según lo establece el procedimiento contenido en esta Ley.
+(DEROGADO, G.O. 20 DE MAYO DE 2019)
 
 ###### ARTÍCULO 21.
 
-Para el caso del procedimiento establecido, a falta de disposición expresa en esta Ley, se aplicará supletoriamente, la Ley de Procedimiento Administrativo de la Ciudad de México.
+(DEROGADO, G.O. 20 DE MAYO DE 2019)
 
-### CAPÍTULO III. DEL ÓRGANO ENCARGADO DE LA PROTECCIÓN DE LOS DERECHOS CULTURALES EN LA CIUDAD DE MEXICO
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 20 DE MAYO DE 2019)</small>
+
+### CAPÍTULO III. DEL ÓRGANO ENCARGADO DE LA PROMOCIÓN, DIFUSIÓN E INVESTIGACIÓN DE LOS DERECHOS CULTURALES EN LA CIUDAD DE MÉXICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 22.
 
-Se crea el órgano desconcentrado denominado Instituto de los Derechos Culturales de la Ciudad de México, dependiente de la Secretaria; dotado de autonomía presupuestaria, funcional y de operación.
+Se crea el órgano desconcentrado denominado Instituto de los Derechos Culturales de la Ciudad de México, dependiente de la Secretaría, dotado de autonomía de gestión y de función.
 
 El Instituto, teniendo su domicilio en la Ciudad de México, podrá establecer en coordinación con los gobiernos de las demarcaciones territoriales de la Ciudad, las instalaciones culturales y oficinas de atención que estime necesarias para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, G.O. 20 DE MAYO DE 2019)</small>
+
+ARTÍCULO 22 BIS.- El Instituto tendrá a su cargo la puntual observancia de los derechos culturales, y estará facultado para su promoción, difusión, respeto, protección y garantía.
 
 ###### ARTÍCULO 23.
 
 El Instituto, tendrá entre otras, las siguientes atribuciones:
 
-I.- Ser el órgano encargado de atender y resolver las quejas que por motivo de trasgresión de los derechos culturales presente cualquier persona individual o colectiva ante la Secretaría, mediante el procedimiento establecido en esta Ley;
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2019)</small>
+
+I.- Ser el órgano encargado del acompañamiento, cuando así se le solicite, durante el proceso del recurso de queja, que por motivo de transgresión de los derechos culturales presente cualquier persona, grupo o comunidad cultural;
 
 II.- Llevar a cabo proyectos de investigación académica en materia de derechos culturales ya sea directamente o a través de convenios con universidades o centros de investigación;
 
-III.- Proponer a la Secretaría, normas reglamentarias y operativas para la mayor eficacia en la protección de los derechos culturales en la Ciudad de México;
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2019)</small>
+
+III.- Proponer a la Secretaría, normas reglamentarias y operativas para la mayor eficacia en la promoción, difusión e investigación de los derechos culturales en la Ciudad de México;
 
 IV.- Elaborar y proponer a la Secretaría, para su aprobación, el Programa de Protección de los Derechos Culturales de la Ciudad de México, atendiendo a los lineamientos, criterios y disposiciones de consulta en materia de planeación establecidos en la Ley de Planeación, el cual deberá actualizarse anualmente;y (sic)
 
@@ -328,21 +316,11 @@ Se declara de interés público y social la investigación, protección y promoc
 
 ###### ARTÍCULO 24.
 
-El Instituto ante la trasgresión sistemática de los derechos culturales, podrá dictar las medidas cautelares que estime oportunas de cumplimiento obligatorio; la falta de observancia de estas medidas dará lugar a las sanciones que esta misma ley dispone.
+(DEROGADO, G.O. 20 DE MAYO DE 2019)
 
 ###### ARTÍCULO 25.
 
-En la resolución, interpretación, protección y aplicación de los derechos culturales de casos presentados al Instituto por trasgresión de los derechos culturales, éste se regirá por los siguientes criterios:
-
-I.- El marco legal e institucional se determina por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política de la Ciudad de México, la Declaración Universal de los Derechos Humanos, el Pacto Internacional de Derechos Civiles y Políticos, el Pacto Internacional de Derechos Económicos, Sociales y Culturales, la Convención Interamericana de Derechos Humanos, y los demás instrumentos internacionales suscritos y ratificados por el Estado mexicano;
-
-II.- Sin perjuicio del precedente judicial federal o local y su obligatoriedad, se tomará en cuenta la doctrina de los órganos locales, nacionales, e internacionales especializados en la materia;
-
-III.- Prevalecerá la aplicación especial de esta ley, sin perjuicio de que en lo no previsto en la misma se aplique supletoriamente lo establecido en otras disposiciones legales, favoreciendo en todo momento el respeto a los derechos culturales;
-
-IV.- Si las normas en la materia tienen diversas interpretaciones prevalecerá aquella que tutele con mayor eficacia los derechos culturales; y
-
-V.- Si resulta algún conflicto entre métodos de interpretación prevalecerá aquél que desarrolle los principios del Estado humanista, social y democrático que postula la Constitución Política de la Ciudad de México.
+(DEROGADO, G.O. 20 DE MAYO DE 2019)
 
 ###### ARTÍCULO 26.
 
@@ -370,19 +348,25 @@ X.- La Ley Orgánica de la Administración Pública de la Ciudad de México; y
 
 XI.- Las demás disposiciones legales aplicables relacionadas con las materias que regula esta ley y en última instancia se aplicarán los Principios Generales de Derecho.
 
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 27.
 
-El Instituto establecerá criterios generales de interpretación de las normas en la materia únicamente para el ámbito administrativo, para que las dependencias, entidades públicas y los particulares apliquen con certeza el principio de la interpretación más favorable a la protección de los derechos culturales.
+El Instituto promoverá que en la actuación de las autoridades administrativas del Gobierno de la Ciudad de México se apliquen los criterios generales de interpretación y principios de los derechos culturales.
+
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 28.
 
-El Instituto estará a cargo de una persona titular de la Dirección General.
+Para ser titular de este Instituto deberá contar (sic) conocimientos en el ámbito de los derechos culturales, ya sea mediante la producción de obra escrita en la materia, desempeño académico en materia cultural o con méritos y experiencia reconocidos en el ámbito de la cultura y en la defensa de los derechos culturales.
 
-Para ser la o el titular de la Dirección General del Instituto de los Derechos Culturales de la Ciudad de México, se requiere ser conocedor del tema de los derechos culturales, mediante producción de obra escrita en la materia, desempeño en la docencia en materia cultural o con méritos y experiencia reconocidos en el ámbito de la cultura.
+Su nombramiento y remoción, serán atribuciones de la persona titular de la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 29.
 
-Son facultades y obligaciones de la persona titular de la Dirección General del Instituto:
+Son facultades y obligaciones de la persona titular del Instituto:
 
 I.- Representar legalmente al Instituto;
 
@@ -420,9 +404,11 @@ I.- Conocer y opinar respecto al programa anual del Instituto, así como recomen
 
 II.- Estudiar los planes y programas de trabajo necesarios para el cumplimiento de los objetivos del Instituto que les presente la persona titular de la Secretaría, con el objeto de opinar y hacer sugerencias sobre el mismo;
 
-III.- Brindar asesoría y apoyo a la Dirección General para llevar a cabo proyectos y programas que eleven la calidad de los servicios culturales;
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2019)</small>
 
-IV.- Coadyuvar con el diseño de mecanismos financieros para dotar de recursos económicos al Instituto; y
+III.- Brindar asesoría y apoyo a la persona titular del Instituto en la formulación y ejecución de proyectos y programas que eleven la calidad de los servicios culturales;
+
+IV.- (DEROGADA, G.O. 20 DE MAYO DE 2019)
 
 V.- Las demás que se le asignen.
 
@@ -436,27 +422,33 @@ Las relaciones laborales entre el Instituto y su personal se regirán por las Co
 
 El patrimonio del Instituto estará constituido:
 
-I.- Con los bienes muebles e inmuebles que le asigne el Gobierno de la Ciudad a través de la Secretaría;
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2019)</small>
 
-II.- Con los recursos presupuestales que anualmente le asigne el Gobierno de la Ciudad, a través de la Secretaría;
+I.- Los bienes muebles e inmuebles que le asigne la Secretaría;
 
-III.- Con las aportaciones, donaciones y legados en dinero o en especie que reciba de personas físicas y morales por cualquier concepto;
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2019)</small>
 
-IV.- Con los derechos, productos, aprovechamientos y rendimientos que obtenga de la realización de sus actividades y por la prestación de servicios públicos a su cargo; y
+II.- Los recursos presupuestales que anualmente le asigne el Gobierno de la Ciudad, a través de la Secretaría.
 
-V.- En general, los frutos o productos de cualquier clase que obtenga de sus bienes y servicios, así como los subsidios, aportaciones, donativos o productos financieros que por cualquier título legal reciba.
+III.- (DEROGADA, G.O. 20 DE MAYO DE 2019)
+
+IV.- (DEROGADA, G.O. 20 DE MAYO DE 2019)
+
+V.- (DEROGADA, G.O. 20 DE MAYO DE 2019)
 
 ###### ARTÍCULO 34.
 
-El Instituto gozará de los beneficios fiscales, que las leyes correspondientes concedan a organismos de naturaleza similar.
+(DEROGADO, G.O. 20 DE MAYO DE 2019)
 
 ## TITULO CUARTO. DE LA POLITICA PUBLICA DEL GOBIERNO DE LA CIUDAD SOBRE LOS DERECHOS CULTURALES
 
 ### CAPÍTULO ÚNICO. DE LA RECTORIA DE LA POLITICA PUBLICA EN MATERIA DE DERECHOS CULTURALES Y LOS FINES DE LA MISMA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 35.
 
-El Gobierno de la Ciudad a través de la Secretaría, tendrá a su cargo la rectoría de la política pública en la protección, respeto, investigación, promoción y difusión de los derechos culturales.
+El Gobierno de la Ciudad a través de la Secretaría, tendrá a su cargo la rectoría de la política pública en el respeto, investigación, promoción y difusión de los derechos culturales.
 
 Las políticas culturales tendrán como finalidad:
 
@@ -534,15 +526,7 @@ IV.- La trasgresión sistemática de los derechos culturales.
 
 ###### ARTÍCULO 42.
 
-Los aspectos referidos en el artículo anterior, quedarán demostrados mediante estudios de impacto cultural, mismos que deberán aportarse como elementos de prueba que acompañe la queja o recurso legal que interponga el quejoso simultánea o posteriormente de acuerdo a los plazos y procedimiento correspondiente; dichos estudios deberán ser avalados por peritos especialistas de centros de investigación o colegios de profesionistas de las disciplinas sociales relacionadas con el tema de los derechos culturales.
-
-Si derivado de la valoración del Instituto o la autoridad competente, se considera que además de la trasgresión de alguno de los derechos culturales existe la probable comisión de una conducta delictiva, éste órgano presentará la denuncia correspondiente ante la autoridad judicial.
-
-I.- A quien viole cualquiera de los derechos culturales individuales o colectivos a los que hace referencia esta Ley, estará obligado a reparar el daño al quejoso;
-
-II.- A quien valiéndose de su cargo o función transgreda alguno de los derechos culturales a los que se refiere la presente Ley, estará obligado a reparar el daño, en los términos que disponga la Ley General de Responsabilidades Administrativas y la Ley que específicamente regule esta materia en la Ciudad de México; y
-
-III.- Tratándose de conductas que atenten contra bienes declarados como patrimonio cultural de la Ciudad de México, en cualquiera de sus expresiones comunitaria, de pueblos y barrios originarios, tangible o intangible, etc., se impondrá la reparación del daño, independientemente de la sanción que establezca la legislación especial o en su caso, el Código Penal de la Ciudad de México.
+(DEROGADO, G.O. 20 DE MAYO DE 2019)
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -563,3 +547,15 @@ SÉPTIMO.- Todo lo referente a los Pueblos y Barrios Originarios de la Ciudad de
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de diciembre del año dos mil diecisiete.- POR LA MESA DIRECTIVA.- DIP. ADRIÁN RUBALCAVA SUÁREZ, PRESIDENTE.- DIP. REBECA PERALTA LEÓN, SECRETARIA.- DIP. EVA ELOISA LESCAS HERNÁNDEZ, SECRETARIA. (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los dieciocho días del mes de enero del año dos mil dieciocho.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE CULTURA, EDUARDO VÁZQUEZ MARTÍN.- FIRMA.- EL SECRETARIO DE FINANZAS, EDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 20 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS CULTURALES DE LOS HABITANTES Y VISITANTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión, en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El Gobierno de la Ciudad de México de conformidad con el principio de progresividad de los derechos, realizará las provisiones presupuestales necesarias para fortalecer las capacidades técnicas y financieras del Instituto a fin de favorecer el respeto, promoción, protección y garantía de los derechos culturales de las personas que habitan y visitan la Ciudad de México, así como la defensa de los mismos a través de los mecanismos de exigibilidad y justiciabilidad previstos por la normatividad aplicable. El Congreso de la Ciudad de México garantizará, para cada año fiscal correspondiente, proveer los recursos necesarios para el cumplimiento del presente Decreto.
