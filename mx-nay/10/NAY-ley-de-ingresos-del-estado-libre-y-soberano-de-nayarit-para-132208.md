@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ingresos-del-estado-libre-y-soberano-de-nayarit-para-132
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-22"
-last_updated: "2019-02-26"
+last_updated: "2019-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT PARA EL EJERCICIO FISCAL DE 2019
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2019.
 
 Ley publicada en la Sección Octava del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2018.
 
@@ -50,6 +50,10 @@ LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT PARA EL EJERCICIO FISCAL 
 Los ingresos que la Hacienda Pública del Estado percibirá durante el ejercicio fiscal del primero de enero al treinta y uno de diciembre del año dos mil diecinueve, serán los que se obtengan por los conceptos y cantidades estimadas que a continuación se enumeran de conformidad con el Clasificador por Rubros de Ingresos:
 
 > <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN OCTAVA DEL P.O. DE 22 DE DICIEMBRE DE 2018, PÁGINAS DE LA 2 A LA 6.]</small>
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2019)</small>
+
+Los ingresos que la Hacienda Pública del Estado percibirá durante el ejercicio fiscal del 2019 antes listados podrán incrementarse con motivo de la celebración de empréstitos hasta por la cantidad de $364,705,081.00 (Trescientos Sesenta y Cuatro Millones Setecientos Cinco Mil Ochenta y Un Pesos 00/100 Moneda Nacional), conforme a lo dispuesto por el artículo 65 de la presente Ley.
 
 ## TÍTULO SEGUNDO. IMPUESTOS
 
@@ -655,9 +659,17 @@ Lo que con carácter extraordinario obtenga el Estado por este concepto.
 
 ## TÍTULO NOVENO. DE LOS EMPRÉSTITOS
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 65.
 
-Son los préstamos obtenidos por el Estado en la persecución de sus fines sociales.
+Son las operaciones constitutivas de un pasivo, directo o contingente a cargo del Estado, a que se refiere la Ley de Deuda Pública del Estado de Nayarit.
+
+Durante el presente ejercicio fiscal para el año 2019, los importes que resulten de la celebración de dichas operaciones podrán ascender a un monto máximo de $364,705,081.00 (Trescientos Sesenta y Cuatro Millones Setecientos Cinco Mil Ochenta y Un Pesos 00/100 Moneda Nacional). Dichos recursos:
+
+I. Se considerarán para todos los efectos legales como ingresos adicionales a los previstos en el artículo 1 de la presente Ley, y
+
+II. Deberán ser destinados a inversión pública productiva, y deberán contratarse de conformidad con la Ley de Deuda Pública del Estado de Nayarit; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y la demás legislación que resulte aplicable; y, en todo caso, sujetándose a lo dispuesto por el artículo 117 fracción VIII de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## TRANSITORIOS
 
@@ -691,6 +703,14 @@ Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Const
 
 P.O. 26 DE FEBRERO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT; PARA EL EJERCICIO FISCAL 2019”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LA LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT; PARA EL EJERCICIO FISCAL 2019".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 20 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA LA LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, PARA EL EJERCICIO FISCAL 2019".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas del marco jurídico estatal de igual o menor jerarquía en lo que se opongan al contenido de este Decreto.
