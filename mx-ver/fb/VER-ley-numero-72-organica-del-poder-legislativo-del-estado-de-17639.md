@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2018-11-29"
+last_updated: "2019-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -395,7 +395,13 @@ Este presupuesto considerará igualmente las partidas necesarias para el desarro
 
 Si al 31 de diciembre no se ha aprobado el presupuesto de egresos para el año siguiente, el gasto público a ejercer en dicho período se limitará a cubrir las partidas correspondientes a las remuneraciones de los servidores públicos y al gasto corriente de los servicios de salud, educación, seguridad pública, procuración e impartición de justicia, funcionamiento del Poder Legislativo, así como para los organismos autónomos de Estado, para lo cual se ejercerá en cada mes una doceava parte del último presupuesto aprobado, en tanto se aprueba el nuevo;
 
-XXIX. Revisar las Cuentas Públicas del Gobierno del Estado y de los Ayuntamientos con el apoyo del Órgano de Fiscalización Superior del Estado;
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2019)</small>
+
+XXIX. Revisar las Cuentas Públicas de los entes fiscalizables del año anterior, con el objeto de evaluar los resultados de su gestión financiera, comprobar si se ha ajustado a los criterios señalados por el presupuesto y verificar el cumplimiento de los objetivos contenidos en los programas.
+
+La Revisión de las Cuentas Públicas la realizará el Congreso, con el apoyo del Órgano de Fiscalización Superior del Estado, de conformidad con lo establecido en las leyes aplicables. Si del examen que éste realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha autoridad sólo podrá emitir las recomendaciones para la mejora en el desempeño de éstos, en los términos de la ley.
+
+Los entes fiscalizables deberán presentar las Cuentas Públicas del año anterior al Congreso del Estado, a más tardar el día treinta de abril. Sólo se podrá ampliar el plazo de presentación de la Cuenta Pública del Gobierno del Estado, hasta por treinta días naturales, mediante solicitud del Gobernador y con autorización del Congreso, pudiendo, en su caso, comparecer el Secretario de Despacho correspondiente.
 
 > <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2015)</small>
 
@@ -1868,3 +1874,11 @@ G.O. 29 DE NOVIEMBRE DE 2018.
 PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 241 QUE REFORMA LA FRACCIÓN XXIX DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
