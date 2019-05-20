@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-movilidad-de-la-ciudad-de-mexico-antes-ley-de-101763"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-14"
-last_updated: "2018-04-05"
+last_updated: "2019-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101763&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2014-07-08"
 
 LEY DE MOVILIDAD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 20 DE MAYO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 14 de julio de 2014.
 
@@ -2438,13 +2438,15 @@ La Secretaría determinará y autorizará los espacios exclusivos de estacionami
 
 Los lineamientos técnicos de diseño vial y señalamiento para delimitar estos espacios se establecerán en los manuales correspondientes.
 
-> <small>(ADICIONADO, G.O. 9 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 2019)</small>
 
 ###### Artículo 209.
 
-La Administración Pública podrá implementar sistemas de control, supervisión y cobro de estacionamiento de vehículos en la vía pública, ya sea en forma directa o a través de terceros especializados a quienes se les otorgue un permiso o concesión.
+La Administración Pública podrá implementar sistemas de control, supervisión y cobro de estacionamiento de vehículos en la vía pública, ya sea en forma directa o a través de terceros especializados a quienes se les otorgue un permiso o concesión; en ambos casos, se deberá contratar un seguro para responder por los daños o la pérdida total o parcial que pudieran sufrir los vehículos automotores de las personas que hayan pagado el derecho correspondiente por el uso de la vía pública.
 
-La operación de los sistemas de cobro de estacionamiento en vía pública estará a cargo de la Secretaría de Movilidad, en coordinación con la Oficialía Mayor, así como a través de terceros, de acuerdo a las disposiciones que señale el reglamento correspondiente.
+La operación de los sistemas de cobro de estacionamiento en vía pública estará a cargo de la Secretaría de Movilidad, en coordinación con la Secretaría de Administración y Finanzas, así como a través de terceros, de acuerdo a las disposiciones que señale el reglamento correspondiente.
+
+Las disposiciones a que se refiere el párrafo anterior deberán contemplar, por lo menos, que dentro de los equipos, dispositivos, aplicaciones electrónicas, infraestructura o cualquier otro elemento de los sistemas de control, supervisión y cobro de estacionamiento de vehículos en la vía pública se incluyan cámaras de vigilancia que estén vinculadas al Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México.
 
 ###### Artículo 210.
 
@@ -3045,3 +3047,15 @@ Primero.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su may
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 108 BIS A LA LEY DEL RÉGIMEN PATRIMONIAL Y DEL SERVICIO PÚBLICO Y SE REFORMA EL ARTÍCULO 209 DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL”.]
+
+Primero. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. La Jefatura de Gobierno contará con un plazo de hasta 60 días naturales contados a partir de la entrada en vigor del presente Decreto para adecuar el Reglamento, los Lineamientos y demás disposiciones de carácter administrativo en materia de sistemas de control, supervisión y cobro de estacionamiento de vehículos en la vía pública, previendo en dichos instrumentos las sanciones que derivadas del incumplimiento de lo dispuesto por este Decreto correspondan.
+
+Cuarto. La Administración Pública de la Ciudad de México y los terceros autorizados para implementar sistemas de control, supervisión y cobro de estacionamiento de vehículos en la vía pública tendrán hasta 120 días naturales para realizar las acciones y adecuaciones pertinentes a fin de dar cumplimiento a lo previsto en el presente Decreto.
