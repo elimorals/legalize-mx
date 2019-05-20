@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-de-la-administracion-publica-del-estado-de-1266
 country: "mx"
 rank: "codigo"
 publication_date: "2018-02-19"
-last_updated: "2018-02-19"
+last_updated: "2019-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 20 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2019 (ABROGADO).
 
 Código publicado en la Primera Sección al Número 8 del Periódico Oficial de Aguascalientes, el lunes 19 de febrero de 2018.
 
@@ -162,3 +164,21 @@ SECRETARIO GENERAL DE GOBIERNO.
 C.P. Martha Cecilia Márquez Alvarado,
 
 CONTRALORA DEL ESTADO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE CONTIENE EL CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Acuerdo, se abroga el Acuerdo publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, Tomo LXXXI, Número 8, de fecha 19 de febrero de 2018.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto aquellas disposiciones que se opongan a lo previsto en el presente Acuerdo.
