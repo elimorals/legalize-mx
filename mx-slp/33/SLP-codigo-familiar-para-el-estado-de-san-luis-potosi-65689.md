@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2019-03-21"
+last_updated: "2019-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2019.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -143,9 +143,11 @@ En la atención y resolución de los conflictos familiares, la autoridad adminis
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 15.
 
-El matrimonio es la unión legal entre un hombre y una mujer, libremente contraída, con igualdad de derechos, deberes y obligaciones, que hacen vida en común, con la finalidad de proporcionarse ayuda mutua, fidelidad y perpetuar la especie, formando una familia.
+El matrimonio es la unión legal entre dos personas, libremente contraída, basada en el respeto, con igualdad de derechos, deberes y obligaciones, que hacen vida en común, con la finalidad de proporcionarse ayuda mutua, formando una familia.
 
 ###### ARTICULO 16.
 
@@ -781,9 +783,11 @@ La y el cónyuge aunque vivan separados se les tendrá por unidos para todos los
 
 ### Capítulo Unico
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 105.
 
-El concubinato es la unión de hecho de un hombre con una mujer, libres de impedimentos de parentesco entre sí y vínculo matrimonial, a través de la cohabitación doméstica, la unión sexual, el respeto y protección recíproca, con el propósito tácito de integrar una familia con o sin descendencia.
+El concubinato es la unión de hecho entre dos personas, libres de impedimentos de parentesco entre sí y vínculo matrimonial, a través de la cohabitación doméstica, la unión sexual, el respeto y protección recíproca, con el propósito tácito de integrar una familia con o sin descendencia.
 
 Si una misma persona establece varias uniones del tipo antes descrito, en ninguna se reputará concubinato.
 
@@ -983,9 +987,11 @@ La ley reconoce como parentescos los de consanguinidad, afinidad y civil.
 
 El parentesco de consanguinidad existe entre personas que descienden de un mismo progenitor.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 133.
 
-El parentesco de afinidad se contrae por el matrimonio entre el hombre y los parientes de la mujer, y entre la mujer y los parientes del hombre.
+El parentesco de afinidad se contrae por el matrimonio, entre el cónyuge y los parientes del otro cónyuge, respectivamente.
 
 ###### ARTICULO 134.
 
@@ -3580,6 +3586,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 21 DE MARZO DE 2019.
 
 [TRANSITORIOS DEL "DECRETO 0137.- SE REFORMA EL ARTÍCULO 92 Y ADICIONA AL ARTÍCULO 11 EL PÁRRAFO SEGUNDO, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0168.- SE REFORMAN LOS ARTÍCULOS 15, 105, Y 133 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
