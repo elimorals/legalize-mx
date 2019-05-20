@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-regimen-patrimonial-y-del-servicio-publico-9230"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-20"
-last_updated: "2019-02-19"
+last_updated: "2019-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9230&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1996-12-10"
 
 LEY DEL RÉGIMEN PATRIMONIAL Y DEL SERVICIO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 20 DE MAYO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 20 de diciembre de 1996.
 
@@ -1282,6 +1282,12 @@ II. Croquis de la ubicación del predio y, en su caso, delimitación del espacio
 
 III. Uso y destino del inmueble solicitado.
 
+> <small>(ADICIONADO, G.O. 20 DE MAYO DE 2019)</small>
+
+###### Artículo 108 Bis.
+
+En las concesiones o permisos administrativos temporales revocables, que se otorguen para instalar y operar sistemas de control y supervisión de estacionamiento de vehículos automotores en la vía pública de la Ciudad de México, en las zonas de parquímetros, se establecerá que los concesionarios o permisionarios deberán instalar cámaras de vigilancia, las cuales deberán estar vinculadas al Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México; y además deberán contratar un seguro para responder los daños y perjuicios, o la pérdida parcial o total, que pudieran sufrir los vehículos automotores de los conductores que hayan pagado el derecho correspondiente, por el uso de la vía pública.
+
 ### CAPÍTULO IV. DE LA EXTINCIÓN DE LOS PERMISOS
 
 ###### Artículo 109.
@@ -1595,3 +1601,15 @@ G.O. 19 DE FEBRERO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor a los 18 meses, contados a partir de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. La Jefa de Gobierno y los Titulares de las Alcaldías, en el ámbito de sus competencias, deberán a partir de la vigencia del presente Decreto, iniciar acciones para adecuar la infraestructura en cumplimiento a lo que establecen las NOM-11-ener-2006 y NOM-21-ENER/SCFI-2008.
+
+G.O. 20 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 108 BIS A LA LEY DEL RÉGIMEN PATRIMONIAL Y DEL SERVICIO PÚBLICO Y SE REFORMA EL ARTÍCULO 209 DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL”.]
+
+Primero. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. La Jefatura de Gobierno contará con un plazo de hasta 60 días naturales contados a partir de la entrada en vigor del presente Decreto para adecuar el Reglamento, los Lineamientos y demás disposiciones de carácter administrativo en materia de sistemas de control, supervisión y cobro de estacionamiento de vehículos en la vía pública, previendo en dichos instrumentos las sanciones que derivadas del incumplimiento de lo dispuesto por este Decreto correspondan.
+
+Cuarto. La Administración Pública de la Ciudad de México y los terceros autorizados para implementar sistemas de control, supervisión y cobro de estacionamiento de vehículos en la vía pública tendrán hasta 120 días naturales para realizar las acciones y adecuaciones pertinentes a fin de dar cumplimiento a lo previsto en el presente Decreto.
