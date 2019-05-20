@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-integracion-al-desarrollo-de-las-personas-con-76524
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-10"
-last_updated: "2019-03-25"
+last_updated: "2019-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76524&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-09-09"
 
 LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 10 de septiembre de 2010.
 
@@ -316,9 +316,9 @@ Son derechos de las personas con discapacidad de manera enunciativa y no limitat
 
 I.- El derecho de preferencia: Al uso de los lugares destinados a las personas con discapacidad en transportes y sitios públicos, el cual significa que los lugares pueden ser utilizados por otras personas en tanto no haya una persona con discapacidad que lo requiera. Dichos lugares deberán estar señalizados con el logotipo de discapacidad, con base en lo dispuesto por esta Ley, acompañado de la leyenda "USO PREFERENTE".
 
-> <small>(REFORMADA, G.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2019)</small>
 
-II.- El derecho de uso exclusivo: A los lugares y servicios que son de uso único y exclusivo para personas con discapacidad, los cuales en ningún momento pueden ser utilizados por otras personas, como es el caso de los cajones de estacionamiento, los baños públicos, entre otros. Dichos lugares deberán estar señalados con el símbolo de discapacidad correspondiente, con base en lo dispuesto por esta Ley.
+II.- El derecho de uso exclusivo: A los lugares y servicios que son de uso único y exclusivo para personas con discapacidad, los cuales en ningún momento pueden ser utilizados por otras personas, como es el caso de los cajones de estacionamiento, los baños públicos, el transporte público de pasajeros en las modalidades de masivo y colectivo, entre otros. Dichos lugares deberán estar señalados con el símbolo de discapacidad correspondiente, con base en lo dispuesto por esta Ley.
 
 III.- El derecho de libre tránsito: Que constituye el derecho de transitar y circular por todos los lugares públicos, sin que se obstruyan los accesos específicos para su circulación como rampas, puertas, elevadores, entre otros. Dichos lugares deberán estar señalizados con el logotipo de discapacidad, con base en lo dispuesto por esta Ley.
 
@@ -1443,3 +1443,11 @@ G.O. 25 DE MARZO DE 2019.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 9, FRACCIÓN II DE LA LEY PARA LA INTEGRACIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
