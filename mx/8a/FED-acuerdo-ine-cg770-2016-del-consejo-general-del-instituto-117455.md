@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg770-2016-del-consejo-general-del-instituto-117455
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-12-01"
-last_updated: "2016-12-01"
+last_updated: "2019-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117455&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-10-24"
 ---
 # ACUERDO INE/CG770/2016 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS "LINEAMIENTOS PARA EL DESARROLLO DEL SISTEMA DEL VOTO ELECTRONICO POR INTERNET PARA MEXICANOS RESIDENTES EN EL EXTRANJERO", A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS QUE ESTABLECEN LAS CARACTERÍSTICAS GENERALES QUE DEBE CUMPLIR EL SISTEMA DEL VOTO ELECTRÓNICO POR INTERNET PARA LAS Y LOS MEXICANOS RESIDENTES EN EL EXTRANJERO DEL INSTITUTO NACIONAL ELECTORAL, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA, PUBLICADO EN EL D.O.F. DE 20 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS “LINEAMIENTOS PARA EL DESARROLLO DEL SISTEMA DEL VOTO ELECTRÓNICO POR INTERNET PARA MEXICANOS RESIDENTES EN EL EXTRANJERO”, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2019 (ABROGADO).
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 1 de diciembre de 2016.
 
@@ -72,3 +74,23 @@ El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbric
 El anexo puede ser consultado en la siguiente dirección electrónica:
 
 http://www.ine.mx/archivos2/portal/historico/contenido/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CG-acuerdos/2016/10_Octubre/CGex201610-24-2/CGex-2-201610-24-ap-unico-a1.pdf
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 20 DE MAYO DE 2019.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS QUE ESTABLECEN LAS CARACTERÍSTICAS GENERALES QUE DEBE CUMPLIR EL SISTEMA DEL VOTO ELECTRÓNICO POR INTERNET PARA LAS Y LOS MEXICANOS RESIDENTES EN EL EXTRANJERO DEL INSTITUTO NACIONAL ELECTORAL, A PROPUESTA DE LA JUNTA GENERAL EJECUTIVA”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se abroga el Acuerdo INE/CG770/2016, así como los Lineamientos para el desarrollo del Sistema del Voto Electrónico por Internet para Mexicanos Residentes en el Extranjero, que forman parte integral del mismo.
+
+SEGUNDO. Se aprueban los Lineamientos que establecen las características generales que debe cumplir el Sistema del Voto Electrónico por Internet para las y los Mexicanos Residentes en el Extranjero del Instituto Nacional Electoral, a propuesta de la Junta General Ejecutiva, conforme al Anexo que forma parte integral del presente Acuerdo.
+
+TERCERO. Se instruye a la Secretaría Ejecutiva, la Dirección Ejecutiva del Registro Federal de Electores y la Unidad Técnica de Servicios de Informática, sometan a consideración de los órganos competentes, los instrumentos jurídicos o análisis que se requieran para la instrumentación del Voto Electrónico por Internet para las y los Mexicanos Residentes en el Extranjero.
+
+CUARTO. Se instruye a la Junta General Ejecutiva adopte las medidas administrativas necesarias para proveer de los recursos que permitan dar cumplimiento a lo aprobado en el presente Acuerdo.
+
+QUINTO. El presente Acuerdo y los Lineamientos que establecen las características generales que debe cumplir el Sistema del Voto Electrónico por Internet para las y los Mexicanos Residentes en el Extranjero del Instituto Nacional Electoral, a propuesta de la Junta General Ejecutiva, los cuales acompañan al presente como Anexo y forman parte integral del mismo, entrarán en vigor a partir del día siguiente a su aprobación por este Consejo General.
+
+SEXTO. Se instruye a la Secretaría Ejecutiva a efecto de que haga de conocimiento el presente Acuerdo y su Anexo, a las Direcciones Ejecutivas y Unidades Técnicas del Instituto Nacional Electoral, así como a los Organismos Públicos Locales.
+
+SÉPTIMO. Publíquese el presente Acuerdo y su respectivo Anexo en la Gaceta Electoral, en el Portal de Internet del Instituto Nacional Electoral y en el Diario Oficial de la Federación.
