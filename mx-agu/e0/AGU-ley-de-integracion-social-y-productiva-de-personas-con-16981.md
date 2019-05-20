@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-integracion-social-y-productiva-de-personas-con-16981"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2019-03-25"
+last_updated: "2019-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD
+LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN LA PRIMERA SECCIÓN DEL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de febrero de 2000.
 
@@ -39,57 +39,97 @@ El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedi
 
 La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del pueblo, decreta:
 
-LEY DE INTEGRACION SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MAYO DE 2019)</small>
+
+LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE AGUASCALIENTES
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 1°.
 
-La presente Ley es de orden público y de interés social, su objeto es establecer las bases que permitan la plena inclusión de las personas con discapacidad, conforme al artículo 1º de la Constitución Política de los Estados Unidos Mexicanos, con el propósito de asegurar el pleno ejercicio de los derechos humanos y libertades fundamentales, dentro del marco de respeto, igualdad y equiparación de oportunidades, eliminando las barreras sociales para la incorporación de este grupo a las diferentes actividades de carácter social, cultural, laboral, educativas y deportivas.
+La presente Ley es de orden público, de interés social y de observancia general en el Estado de Aguascalientes, su objeto es establecer las bases que permitan la plena inclusión de las personas con discapacidad, conforme al artículo 1º de la Constitución Política de los Estados Unidos Mexicanos, con el propósito de asegurar el pleno ejercicio de los derechos humanos y libertades fundamentales, dentro del marco de respeto, igualdad y equiparación de oportunidades, eliminando las barreras físicas y sociales para la inclusión social de este grupo a las diferentes actividades de carácter social, cultural, laboral, de salud, educativas y deportivas.
 
-###### ARTICULO 2º.
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2019)</small>
 
-El Ejecutivo del Estado, en coordinación con los ayuntamientos de los Municipios en los términos que establece la Ley del Sistema Estatal de Asistencia Social organizará, operará, supervisará y evaluará la prestación de los servicios básicos de salud a personas con discapacidad, que proporcionen las Dependencias y Entidades de la Administración Pública Estatal y por personas físicas o morales de los sectores social y privado, a personas con discapacidad.
+Esta Ley ordena el establecimiento de políticas públicas necesarias para el ejercicio de los derechos humanos de las personas con discapacidad.
 
-Para lo cual el Ejecutivo del Estado, a través del Sistema para el Desarrollo Integral de la Familia tendrá las siguientes atribuciones:
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
 
-a).- Procurar asistencia técnica y financiera a instituciones y organismos públicos cuyos objetivos sean afines a los de la presente Ley.
+###### ARTICULO 2°.
 
-b).- Desarrollar en forma coordinada con los Municipios programas de apoyo financiero y social; y
+Se entiende por persona con discapacidad, aquella con alguna limitación física, mental, intelectual o sensorial, congénita o adquirida, prolongada o permanente, que implique desventajas para su integración social, familiar, escolar, laboral, deportiva y política.
 
-c).- Fomentar la participación así como apoyar la actividad de las organizaciones privadas que orienten sus acciones a favor de las personas con discapacidad, a través de apoyos técnicos, humanos, laborales y de servicios.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2019)</small>
 
-###### ARTICULO 3º.
+###### ARTICULO 3°.
 
-Para los efectos de esta Ley se entiende por persona con discapacidad, aquella persona con algún impedimento físico o requerimiento especial, por padecer una alteración funcional prolongada o permanente, física o mental, que implique desventajas considerables para su integración familiar, escolar, socia, laboral, deportiva y política.
+Se promoverá el ejercicio de los derechos humanos de las personas con discapacidad dentro del marco de respeto, igualdad y equiparación de oportunidades, eliminando las barreras físicas y sociales para la inclusión social de estas personas a las diferentes actividades de carácter social, familiar, cultural, laboral, educativo y deportivo, conforme con ajustes razonables bajo un diseño universal de los productos, entornos, programas y servicios.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2019)</small>
+
+Todas las personas deben contribuir en la medida de sus capacidades y posibilidades a la plena inclusión de las personas con discapacidad en las actividades, en todos sus ámbitos.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 20 DE MAYO DE 2019)</small>
+
+Para la efectiva aplicación de la presente Ley se considerarán siempre los siguientes criterios de acciones afirmativas para la discapacidad:
+
+I.- Comunicación: son los lenguajes, la visualización de textos, el Braille, la lengua de señas mexicana, la comunicación táctil, los macro tipos, los dispositivos multimedia de fácil acceso, así como el lenguaje escrito, los sistemas auditivos, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
+
+II.- Ajustes razonables: son las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales; y
+
+III.- Diseño universal: es el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas con discapacidad, a fin de lograr la accesibilidad en todos sus ámbitos en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. No excluye las ayudas técnicas para grupos particulares de personas con discapacidad, cuando se necesiten.
+
+IV.- Asistencia social: es el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 4°.
 
-Las dependencias estatales y municipales dentro de sus planes, proyectos y programas que lleven a cabo, deberán incluir de manera expresa el apoyo a las personas con discapacidad.
+Las dependencias, entidades paraestatales y órganos desconcentrados de la Administración Pública Estatal, organismos constitucionales autónomos, Poder Legislativo, Poder Judicial y los Ayuntamientos del Estado de Aguascalientes, deberán contemplar en todos sus reglamentos, lineamientos, programas, planes, proyectos y acciones la inclusión de las personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 Las políticas públicas deberán contemplar la discapacidad como eje transversal, siendo éstas reflejadas en las líneas de acción de las dependencias y entidades de la administración pública Estatal y Municipal, en cualquier ámbito de actuación pública, tomando en cuenta las necesidades, los derechos y las demandas de las personas con discapacidad en todo el Estado.
 
-Las dependencias de la administración pública Estatal y Municipales en el ámbito de su competencia, impulsarán el derecho a la igualdad de oportunidades de las personas con discapacidad, a través del establecimiento de medidas contra la discriminación, acciones afirmativas positivas que permitan la integración social de las personas con discapacidad.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
 
-Las acciones afirmativas positivas consisten en apoyos de carácter específico destinados a prevenir o compensar las desventajas o dificultades que tienen las personas con discapacidad en la incorporación y participación plena en los ámbitos de la vida social, cultural, económica y política.
+Todas las autoridades en el ámbito de su competencia, impulsarán el derecho a la igualdad de oportunidades de las personas con discapacidad, a través del establecimiento de medidas contra la discriminación, acciones afirmativas positivas que permitan la integración social de las personas con discapacidad.
 
-Las personas con discapacidad gozarán de todos los derechos que establece la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales sin distinción de origen étnico, nacionalidad, género, edad, condición social, económica o de salud, religión, opinión, estado civil, preferencias sexuales, embarazo, lengua, situación migratoria o cualquier otra característica propia de la condición humana o que atente contra su dignidad y que tenga por objeto anular o menoscabar los derechos y libertades de las personas. Las medidas contra la discriminación tienen como finalidad prevenir o corregir que una persona con discapacidad sea tratada de manera directa o indirecta menos favorable que otra que no lo sea, en una situación comparable.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
 
-Las medidas contra la discriminación consisten en la prohibición de conductas que tengan por objeto o consecuencia atentar contra la dignidad de una persona, crear un entorno intimidatorio, incomunicado, hostil, degradante u ofensivo, debido a la discapacidad que ésta posee.
+Las acciones afirmativas positivas consisten en apoyos de carácter específico destinados a prevenir o compensar las desventajas o dificultades que tienen las personas con discapacidad en la incorporación y participación plena en los ámbitos de la vida social, cultural, económica y política, mediante la implementación de medidas pertinentes para realizar ajustes razonables.
 
-###### ARTICULO 5º.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
 
-Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia del Estado, promover la interrelación sistemática de acciones en favor de las personas con discapacidad que lleven a cabo las instituciones públicas; además de operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de invalidez y participar en programas de educación especial y asistencia social a este sector de la población.
+Las personas con discapacidad gozarán de todos los derechos que reconoce la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales y la Constitución Política del Estado de Aguascalientes, sin distinción de origen étnico, nacionalidad, sexo, edad, condición social, económica o de salud, religión, opinión, estado civil, preferencias sexuales, embarazo, lengua, situación migratoria o cualquier otra característica propia de la condición humana o cualquier otra distinción que atente contra su dignidad y que tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
+
+Las medidas contra la discriminación tienen como finalidad prevenir o corregir el que una persona con discapacidad sea restringida injustamente del ejercicio de un derecho, de manera directa o indirecta, y consisten en la prohibición de conductas que tengan por objeto o consecuencia atentar contra la dignidad de una persona, crear un entorno intimidatorio, incomunicado, hostil, degradante u ofensivo, debido a la discapacidad que ésta posee.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2019)</small>
+
+###### ARTICULO 5°.
+
+El Poder Ejecutivo del Estado, en colaboración con los Ayuntamientos del Estado en el ámbito de sus respectivas competencias, organizará, operará, supervisará y evaluará la prestación de los servicios básicos de salud a personas con discapacidad que proporcionen las Dependencias y Entidades de la Administración Pública Estatal y las personas morales de los sectores público y privado, de conformidad con la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 20 DE MAYO DE 2019)</small>
+
+Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia, promover la interrelación sistemática de acciones en favor de las personas con discapacidad que lleven a cabo las instituciones públicas; además de operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de discapacidad y participar en programas de educación especial y asistencia social a este sector de la población. Para lo cual tendrá las siguientes atribuciones:
+
+I.- Promover asistencia técnica y financiera a instituciones y organismos públicos cuyos objetivos sean afines a los de la presente Ley.
+
+II.- Desarrollar en forma coordinada con los Municipios programas de apoyo financiero y social; y
+
+III.- Fomentar la participación ciudadana, así como apoyar la actividad de las organizaciones de la sociedad civil que orienten sus acciones a favor de las personas con discapacidad, a través de apoyos financieros, técnicos, humanos, labórales y de servicios.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 20 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 6°.
 
-El Ejecutivo del Estado, a través del Instituto de Servicios de Salud, auxiliado por el Sistema para el Desarrollo Integral de la Familia, y de la Secretaría de Desarrollo Social, promoverá, ejecutará, y coordinará con la Federación y los Municipios, convenios de colaboración, para que las Instituciones Públicas de Salud y Asistencia Social implementen programas de prevención de discapacidades, que tienda a la orientación, planeación familiar, consejo genético, atención perinatal, detección y diagnóstico precoz, asistencia pediátrica, en etapa de lactante, preescolar y escolar; asimismo en la higiene y la seguridad en el trabajo y en el tráfico vial, así como acciones para evitar barreras arquitectónicas y todo aquello que en su momento se considere necesario para alcanzar el objetivo de esta ley.
+El Ejecutivo del Estado, a través del Instituto de Servicios de Salud, auxiliado por el Sistema para el Desarrollo Integral de la Familia, y de la Secretaría de Desarrollo Social, promoverá, ejecutará, y coordinará con la Federación y los Municipios, convenios de colaboración, para que las Instituciones Públicas de Salud y Asistencia Social implementen programas de prevención de discapacidades, que tienda (sic) a la orientación, planeación familiar, consejo genético, atención perinatal, detección y diagnóstico precoz, asistencia pediátrica, en etapa de lactante, preescolar y escolar; asimismo en la higiene y la seguridad en el trabajo y en el tráfico vial, así como acciones para evitar barreras arquitectónicas y todo aquello que en su momento se considere necesario para alcanzar el objetivo de esta ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2019)</small>
 
@@ -147,9 +187,9 @@ e).- Un representante del Instituto Cultural de Aguascalientes;
 
 f).- Un representante del Instituto de Servicios de Salud del Estado de Aguascalientes;
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
 
-g).- Un representante de la Secretaría de Bienestar y Desarrollo Social del Estado;
+g).- Un representante de la Secretaría de Desarrollo Social del Estado;
 
 h).- Un representante de la Secretaría de Desarrollo Económico;
 
@@ -193,9 +233,11 @@ El Comité Coordinador de Integración Social y Productiva de las Personas con D
 
 El cargo de los integrantes del Comité Coordinador de integración Social y Productiva de las Personas con Discapacidad es de naturaleza honorífica, por lo cual no recibirán remuneración adicional alguna por los servicios que presten.
 
-###### ARTICULO 9º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2019)</small>
 
-El Comité Coordinador sesionará cuando menos una vez al mes, y sus integrantes durarán en su cargo tres años, pudiendo ser ratificados por un período más por los responsables del área respectiva.
+###### ARTICULO 9°.
+
+El Comité Coordinador deberá sesionar de forma ordinaria una vez cada tres meses, y de forma extraordinaria todas las veces que sean necesarias.
 
 El Comité Coordinador podrá sesionar con la asistencia de la mitad más uno de sus integrantes; y las decisiones sólo tendrán validez cuando sean tomadas por la mayoría de los asistentes a la sesión, en caso de empate, el Gobernador del Estado o su representante tendrá voto de calidad.
 
@@ -269,19 +311,25 @@ XII. Formular propuestas a las autoridades a fin de salvaguardar los derechos de
 
 El Comité Técnico de Integración social y Productiva para Personas con Discapacidad deberá rendir informe de sus actividades trimestralmente ante el Comité Coordinador de Integración Social y Productiva para Personas con Discapacidad.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 13.
 
-Las personas morales que se constituyan legalmente con el objeto de atender a las personas con discapacidad, deberán de acreditarse ante el Comité Técnico de Integración Social y Productiva para Personas con Discapacidad, a fin de dar cumplimiento a lo establecido en el Artículo 2 y 11 de esta Ley dentro de un término de 30 días hábiles a partir de la fecha de su protocolización.
+Las personas morales que se constituyan legalmente con el objeto de atender a las personas con discapacidad, podrán acreditarse en cualquier momento, ante el Comité Técnico de Integración Social y Productiva para Personas con Discapacidad.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 14.
 
-Los padres o tutores podrán agruparse para velar por los intereses de personas con discapacidad que tengan a su cargo y que no puedan integrarse a la vida social y productiva debido a la naturaleza de su discapacidad. Asimismo se podrán agrupar para buscar el apoyo y servicios que éstos requieran ante las instituciones públicas o privadas y conforme a lo que establece la Ley de Asistencia Social para el Estado de Aguascalientes.
+Los padres o tutores podrán agruparse para velar por los intereses de personas con discapacidad que tengan a su cargo y que no puedan integrarse a la vida social y productiva debido a la naturaleza de su discapacidad. Asimismo se podrán agrupar para buscar el apoyo y servicios que éstos requieran ante las instituciones públicas o privadas y conforme a lo que establece la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar para el Estado de Aguascalientes.
 
 ### CAPITULO II. Valoración de la Discapacidad
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 15.
 
-Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia de Aguascalientes, la creación de la Comisión de Valoración de las personas con discapacidad integrada por: un Presidente, un Secretario y Profesionales de la rama de medicina, psicología, trabajo social, educación, cultura, deporte y productividad, que deberán ser Vocales en un número no menor de cinco ni mayor de siete, procurando incluirse mayoritariamente a profesionales con discapacidad.
+Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia de Aguascalientes, la creación de la Comisión de Valoración de las personas con discapacidad integrada por: un Presidente, un Secretario y Profesionales de la rama de medicina, psicología, fisioterapia, trabajo social, educación, cultura, deporte y productividad, que deberán ser Vocales en un número no menor de cinco ni mayor de siete, procurando incluirse mayoritariamente a profesionales con discapacidad.
 
 ###### ARTICULO 16.
 
@@ -325,31 +373,21 @@ V.- Educación especial;
 
 VI.- Incorporación laboral;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 VII.- Creación de bolsas de trabajo para personas con discapacidad;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
-
-VIII.- Incorporación y entrenamiento físico especializado;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+VIII.- Incorporación y entrenamiento físico especializado, así como entrenamiento en deportes adaptados;
 
 > <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 IX.- Asesorar a las personas con discapacidad agredidas física, emocional o sexualmente, tratadas con negligencia, que no cuenten con una familia o se encuentren en estado de abandono, tengan acceso a los medios que les permitan ejercer su autonomía y desarrollar una vida digna;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 X.- Asesorar sobre la construcción en vivienda, de la estructura y servicios adecuados para personas con discapacidad; y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
@@ -457,11 +495,13 @@ El apoyo y orientación psicológicos tendrán en cuenta las características in
 
 De conformidad con el Plan Nacional de Educación, el Poder Ejecutivo del Estado a través del Instituto de Educación de Aguascalientes, deberá vigilar que todas aquellas personas con discapacidad, a quienes les resulte imposible la integración en el sistema educativo ordinario, se incorporen al sistema educativo especial.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 En el sistema educativo ordinario, tanto público como privado en todos sus niveles, el Instituto de Educación de Aguascalientes, deberá brindar trato digno y garantizar que las instalaciones cuenten con las especificaciones técnicas de accesibilidad y seguridad para las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2019)</small>
+
+Las instituciones educativas en el Estado, procurarán y fomentarán la formación de sus docentes con valores e ideales de inclusión de las personas con discapacidad.
 
 ###### ARTICULO 37.
 
@@ -609,31 +649,27 @@ El Ejecutivo del Estado, a través del Sistema Estatal para el Desarrollo Integr
 
 ### CAPITULO XI. Movilidad y Barreras Arquitectónicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 62.
 
-Son derechos que esta Ley reconoce y protege en favor de las personas con algún grado de discapacidad los siguientes:
+Son derechos en materia de urbanismo y movilidad, que esta Ley reconoce y protege en favor de las personas con algún grado de discapacidad los siguientes:
 
-I.- Desplazarse libremente en los espacios públicos;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+I.- Desplazarse libremente en los espacios públicos, en los términos que garantice la legislación en la materia;
 
 > <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 II.- Disfrutar de los servicios públicos en igualdad de circunstancias que cualquier otro ciudadano;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 III.- Tener acceso y facilidades de desplazamiento en los espacios laborales, comerciales, oficiales, recreativos y de transporte, mediante la construcción de las especificaciones arquitectónicas de diseño y mecánicas de los medios de transporte apropiadas;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 IV. Contar con espacios físicos donde se realicen, practiquen o presenten actividades deportivas y culturales, con las especificaciones técnicas para garantizar la accesibilidad y la seguridad de las personas con discapacidad que participen como espectadores, deportistas o artistas; y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
@@ -643,25 +679,35 @@ V. Tener acceso a equipo especializado para diferentes tipos de discapacidad en 
 
 Las autoridades competentes deberán vigilar que en los sitos que sean asignados exclusivamente para el uso de personas con discapacidad, sean señalados y anunciados debidamente los servicios que se ofrezcan para comodidad de las personas con discapacidad.
 
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2019)</small>
+
+La Secretaría de Finanzas del Poder Ejecutivo del Estado en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia proporcionarán los elementos necesarios para la identificación de los vehículos que transporten a personas con discapacidad, de tal forma, (sic) puedan acceder a un trato preferencial y ocupar los sitos (sic) asignados para ellos.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 64.
 
-Para efecto de los artículos anteriores, las Administraciones Públicas Estatal y Municipales establecerán las normas urbanísticas y arquitectónicas básicas a que deben ajustarse los proyectos públicos y dispondrá sobre la adaptación de las construcciones ya existentes. Fomentarán la instalación de teléfonos públicos especiales para uso de personas con discapacidad auditiva.
+Para efecto de los artículos anteriores, la Administración Pública Estatal y las Municipales establecerán los criterios urbanísticos, arquitectónicos básicos y de diseño universal de productos y servicios a que deben ajustarse razonablemente los proyectos públicos, y dispondrá sobre la adaptación de las construcciones ya existentes.
 
 ###### ARTICULO 65.
 
 En los vehículos de transporte colectivo, los cuatro primeros asientos, serán para uso prioritario de personas con discapacidad, por lo que deberán estar diseñadas para tal fin y estar claramente especificados por medio de señalamientos.
 
-Los concesionarios podrán realizar convenios con las diversas Instituciones públicas y privadas para establecer beneficios en los vehículos de transporte para personas con discapacidad.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+Los concesionarios podrán realizar convenios con las diversas Instituciones públicas y privadas para establecer servicios gratuitos y otros beneficios en los vehículos de transporte para personas con discapacidad.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
 
-Esta disposición será aplicable en los vehículos con capacidad para más de diez pasajeros y su aplicación corresponderá coordinadamente con la Secretaría de Bienestar y Desarrollo Social del Estado y la Dirección General de Seguridad Pública y Vialidad del Estado.
+Esta disposición será aplicable en los vehículos con capacidad para más de diez pasajeros y su aplicación corresponderá coordinadamente con la Secretaría de Desarrollo Social del Estado y la Dirección General de Seguridad Pública y Vialidad del Estado.
 
-El Ejecutivo del Estado promoverá que los autobuses de transporte urbano estén adaptados para el ascenso y descenso de personas con discapacidad. Estos vehículos transitarán por las rutas de mayor circulación, con base en el estudio realizado por las autoridades competentes y a la demanda de la población.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
 
-El Ejecutivo del Estado brindará estímulos a aquellos concesionarios que adapten los vehículos en beneficio de las personas con discapacidad.
+El Ejecutivo del Estado buscará que gradualmente hasta lograr una integración total, los autobuses de transporte urbano estén adaptados para el ascenso y descenso de personas con discapacidad. Estos vehículos transitarán por las rutas de mayor circulación, con base en el estudio realizado por las autoridades competentes y a la demanda de la población.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
+
+El Ejecutivo del Estado brindará estímulos a aquellos concesionarios que adapten completamente con ajustes razonables y diseños universales los vehículos en beneficio de las personas con discapacidad.
 
 ###### ARTICULO 66.
 
@@ -689,8 +735,6 @@ El incumplimiento a las disposiciones contenidas en esta Ley, será motivo para 
 
 I.- Amonestación;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 II.- Multa de diez hasta mil veces la unidad de medida y actualización vigente en la Entidad a la fecha en que ocurra el incumplimiento;
@@ -699,15 +743,21 @@ III.- Arresto hasta por treinta y seis horas;
 
 IV.- Clausura parcial o total, temporal o definitiva de las fuentes o actividades o de las obras públicas que contravengan las disposiciones de esta Ley;
 
-V.- Aseguramiento de objetos con los cuales se cause perjuicio a las personas tuteladas por esta Ley; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
 
-VI.- Tratándose de Servidores Públicos, la sanción será desde la amonestación hasta la destitución del cargo, de conformidad con lo que establece la Ley de Responsabilidades de Servidores Públicos del Estado.
+V.- Aseguramiento de objetos con los cuales se cause perjuicio a las personas tuteladas por esta Ley;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+VI.- Trabajo en favor de la comunidad realizado preferentemente en un área destinada a personas con discapacidad; y
 
-En el caso de que se imponga las sanciones contempladas en las fracciones I, II y III de este artículo, el infractor deberá asistir a un curso sobre Derechos Humanos, que contemple temas sobre la cultura de la dignidad y respeto de las personas con discapacidad, con el objeto de sensibilizar y concientizar, a fin de eliminar las costumbres y estereotipos que afectan a las personas con discapacidad. Dicho curso será impartido por el personal especializado de la Comisión Estatal de Derechos Humanos.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE MAYO DE 2019)</small>
+
+VII.- Tratándose de Servidores Públicos, la sanción será desde la amonestación hasta la destitución del cargo, de conformidad con lo que establece la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
+
+En el caso de que se impongan las sanciones contempladas en este artículo, el infractor deberá asistir a un curso de Derechos Humanos, que contemple temas sobre la cultura de la dignidad y respeto de las personas con discapacidad, con el objeto de sensibilizar y concientizar, a fin de eliminar las costumbres y estereotipos que les afectan. Dicho curso será impartido por el personal especializado de la Comisión Estatal de Derechos Humanos.
 
 ###### ARTICULO 69.
 
@@ -860,3 +910,11 @@ P.O. 25 DE MARZO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 155.- ARTÍCULO ÚNICO.- SE REFORMAN LA DENOMINACIÓN DE LA LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD, PARA PASAR A SER “LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE AGUASCALIENTES”, LOS ARTÍCULOS 1°, 2°, 3°, 4°, 5°, 6°, 8°, 9°, 13, 14, 15, 19, 62, 64, 65 Y 68; SE ADICIONAN LOS ARTÍCULOS 1°, 3°, 5°, 36, 63 Y 68, TODOS DE LA LEY DE INTEGRACIÓN (SIC) Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
