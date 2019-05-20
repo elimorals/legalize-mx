@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-fiscalia-general-del-estado-de-108763"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-06-22"
-last_updated: "2018-09-03"
+last_updated: "2019-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2019.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
@@ -57,7 +57,9 @@ II. Los tribunales del Estado, además, aplicarán y atenderán a la presente Le
 
 III. En el Estado de Aguascalientes, la Institución del Ministerio Público, para el ejercicio de sus atribuciones se estructura en la Fiscalía General, como un órgano autónomo, con personalidad jurídica y patrimonio propio, conforme al artículo 59, de la Constitución Local;
 
-IV. La presente Ley deberá aplicarse e interpretarse en armonía con sus principios rectores, conforme a las garantías individuales, a las normas constitucionales relativas a la función ministerial. En materia de procedimiento penal se interpretará en conjunción con el Código de Procedimientos Penales para el Estado de Aguascalientes y el Código Nacional; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
+
+IV. La presente Ley deberá aplicarse e interpretarse en armonía con sus principios rectores, conforme a las garantías individuales, a las normas constitucionales relativas a la función ministerial. En materia de procedimiento penal se interpretará en conjunción con el Código Nacional; y
 
 V. Para el despacho de los asuntos que competen al Ministerio Público, la actuación de la Fiscalía General, se regirá por los principios de Legalidad, Certeza, Honradez, Lealtad, Objetividad, Imparcialidad, Profesionalismo, Transparencia, Eficacia, Eficiencia y respeto a los Derechos Humanos.
 
@@ -83,17 +85,33 @@ B.- Son principios rectores de la Fiscalía General en el ejercicio de sus funci
 
 I. Eficiencia. Consiste en cumplir con la misión encomendada a la institución del Ministerio Público, a través del ejercicio pronto y expedito de las atribuciones legales que le corresponden;
 
-II. Honradez. Consiste en la realización recta en propósitos y acciones de las facultades conferidas legalmente a los servidores públicos de la institución del Ministerio Público;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MAYO DE 2019)</small>
 
-III. Imparcialidad. Consiste en el deber que tienen de ser ajenos o extraños a los intereses de las partes en controversia y de dirigir y resolver el juicio sin favorecer indebidamente a ninguna de ellas;
+II.- Eficacia. Es la capacidad de un sistema para obtener resultados, sin importar los recursos que se deban invertir;
 
-IV. Legalidad. El Ministerio Público realizará sus actos con estricta sujeción a la Ley y los tratados internacionales suscritos por los Estados Unidos Mexicanos en los términos que establece la Constitución Federal;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
 
-V. Objetividad. Consiste en que los servidores públicos de la Fiscalía General, en el ejercicio de sus funciones, deberán aplicar los criterios para velar por la correcta aplicación de la Ley;
+III. Honradez. Consiste en la realización recta en propósitos y acciones de las facultades conferidas legalmente a los servidores públicos de la institución del Ministerio Público;
 
-VI. Profesionalismo: Consiste en la actuación responsable, mediante el empleo de los medios que la Ley otorga a los servidores públicos de la institución del Ministerio Público en el desempeño de sus funciones; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
 
-VII. Respeto a los derechos humanos. Corresponde a los servidores públicos del área de procuración de justicia, la protección de los derechos fundamentales de las personas que por cualquier circunstancia se ven involucradas en la actividad del Ministerio Público.
+IV. Imparcialidad. Consiste en el deber que tienen de ser ajenos o extraños a los intereses de las partes en controversia y de dirigir y resolver el juicio sin favorecer indebidamente a ninguna de ellas;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
+
+V. Legalidad. El Ministerio Público realizará sus actos con estricta sujeción a la Ley y los tratados internacionales suscritos por los Estados Unidos Mexicanos en los términos que establece la Constitución Federal;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
+
+VI. Objetividad. Consiste en que los servidores públicos de la Fiscalía General, en el ejercicio de sus funciones, deberán aplicar los criterios para velar por la correcta aplicación de la Ley;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
+
+VII. Profesionalismo. Consiste en la actuación responsable, mediante el empleo de los medios que la Ley otorga a los servidores públicos de la institución del Ministerio Público en el desempeño de sus funciones; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE MAYO DE 2019)</small>
+
+VIII. Respeto a los derechos humanos. Corresponde a los servidores públicos del área de procuración de justicia, la protección de los derechos fundamentales de las personas que por cualquier circunstancia se ven involucradas en la actividad del Ministerio Público.
 
 ## TÍTULO II. DEL FISCAL GENERAL
 
@@ -143,7 +161,9 @@ XIV. Investigar las detenciones arbitrarias y otros abusos que se cometan, adopt
 
 XV. Realizar por sí o con la colaboración de universidades, organismos públicos o privados, dependencias municipales, estatales o federales, los estudios necesarios para diseñar, implementar y evaluar la política dirigida a afrontar la criminalidad en el Estado;
 
-XVI. Vigilar, por sí o por medio de los servidores públicos designados para el efecto, el cumplimiento de las obligaciones de los servidores públicos subalternos y en su caso, imponer las sanciones por faltas administrativas en que incurran aquellos en el desempeño de su cometido, en los términos que prevé esta Ley, la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y los demás ordenamientos jurídicos aplicables;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
+
+XVI. Vigilar, por sí o por medio de los servidores públicos designados para el efecto, el cumplimiento de las obligaciones de los servidores públicos subalternos y en su caso, imponer las sanciones por faltas administrativas en que incurran aquellos en el desempeño de su cometido, en los términos que prevé esta Ley, la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y los demás ordenamientos jurídicos aplicables;
 
 XVII. Resolver los casos de duda que se susciten con motivo de la interpretación o aplicación de la normatividad interna, así como los casos de conflicto de competencia o sobre cualquier materia que le correspondan;
 
@@ -163,13 +183,23 @@ XXIV. Promover e implementar la modernización y aplicación de tecnologías de 
 
 XXV. Solicitar a la autoridad judicial competente, la intervención de las comunicaciones privadas, en los términos que previene la Constitución federal y demás ordenamientos legales;
 
-XXVI. Establecerá la Unidad de Enlace de acceso a la información pública en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
+
+XXVI.- Establecerá la Unidad de Enlace de acceso a la información pública en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios;
 
 XXVII. Adscribir a los Agentes del Ministerio Público, Peritos, Policías Ministeriales y demás servidores públicos a las diversas unidades y órganos de la misma de conformidad con esta ley;
 
-XXVIII. Ejercer la coordinación estatal para la búsqueda de personas desaparecidas en términos de los protocolos y normatividad aplicable; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
 
-XXIX. Las demás que, con tal carácter, le señalen éste y otros ordenamientos jurídicos.
+XXVIII. Ejercer la coordinación estatal para la búsqueda de personas desaparecidas en términos de los protocolos y normatividad aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE MAYO DE 2019)</small>
+
+XXIX. Vigilar que los servidores públicos a su cargo de acuerdo al ámbito de sus atribuciones proporcionen u ordenen la atención psicológica y servicios victimológicos que requiera (sic) las personas que tengan el carácter de víctimas u ofendidos en los términos establecidos en la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes; ello además de garantizar los derechos previstos en el Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE MAYO DE 2019)</small>
+
+XXX. Las demás que, con tal carácter, le señalen éste y otros ordenamientos jurídicos.
 
 El Fiscal General ejercerá las facultades previstas en este artículo por sí o por conducto de los Vice Fiscales que determine.
 
@@ -427,9 +457,11 @@ VII. No estar suspendido o haber sido destituido o inhabilitado por resolución 
 
 ### CAPÍTULO I. Atribuciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 15.
 
-El Ministerio Público tendrá las atribuciones y obligaciones que le señalen la Constitución Federal, la Constitución Local, el Código Penal y de Procedimientos Penales para el Estado de Aguascalientes, el Código Nacional, la presente Ley y otros ordenamientos jurídicos.
+El Ministerio Público tendrá las atribuciones y obligaciones que le señalen la Constitución Federal, la Constitución Local, el Código Nacional, la presente Ley y otros ordenamientos jurídicos.
 
 En particular tendrá las siguientes atribuciones:
 
@@ -507,9 +539,13 @@ XXXIII. Aportar las pruebas y promover todo lo conducente para el completo escla
 
 XXXIV. Garantizar la protección de las víctimas, ofendidos, testigos, y en general, de todos los sujetos que intervengan en el proceso;
 
-XXXV. Formular conclusiones acusatorias cuando sean procedentes, en los términos que establezca el Código Penal del Estado de Aguascalientes, el Código de Procedimientos Penales para el Estado de Aguascalientes y el Código Nacional, así como desahogar las vistas que se le formulen y solicitar las sanciones y medidas de seguridad que correspondan según el caso;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
 
-XXXVI. Desistirse de la acción penal en ejercicio de los criterios de oportunidad establecidos en esta Ley y el Código Nacional. El desistimiento por esta causa dará lugar, en su caso, al sobreseimiento en los términos establecidos en el Código Penal del Estado de Aguascalientes, el Código de Procedimientos Penales para el Estado de Aguascalientes y el Código Nacional para el Estado de Aguascalientes;
+XXXV. Formular conclusiones acusatorias cuando sean procedentes, en los términos que establezca el Código Penal del Estado de Aguascalientes, y el Código Nacional, así como desahogar las vistas que se le formulen y solicitar las sanciones y medidas de seguridad que correspondan según el caso;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
+
+XXXVI. Desistirse de la acción penal en ejercicio de los criterios de oportunidad establecidos en esta Ley y el Código Nacional. El desistimiento por esta causa dará lugar, en su caso, al sobreseimiento en los términos establecidos en el Código Penal del Estado de Aguascalientes, y el Código Nacional para el Estado de Aguascalientes;
 
 XXXVII. Interponer los recursos que la Ley establece y expresar los agravios correspondientes, así como promover y dar seguimiento a los incidentes que la misma admite;
 
@@ -531,7 +567,9 @@ XLV. Intervenir en representación de la sociedad en el procedimiento de ejecuci
 
 XLVI. Formular la imputación y solicitar la vinculación a proceso ante el Juez o Tribunal competente en los términos de la normatividad procesal aplicable;
 
-XLVII. Proporcionar atención a las víctimas y a los ofendidos;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
+
+XLVII. Proporcionar la atención psicológica y los servicios victimológicos que requieran la Víctima y los ofendidos;
 
 XLVIII. Realizar estudios y programas de prevención del delito en el ámbito de su competencia y coadyuvar con organismos sociales, educativos o de seguridad pública en la difusión e implementación de estrategias para la prevención de la criminalidad en general;
 
@@ -651,9 +689,11 @@ Al servidor público que indebidamente quebrante la reserva de las actuaciones o
 
 ### CAPÍTULO VI. En Materia de Telecomunicaciones y Radiodifusión
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 21.
 
-Cuando en la integración de una carpeta de investigación relativa al delito de amenazas o cualesquiera de los delitos graves previstos por el Código Penal del Estado de Aguascalientes, el Código de Procedimientos Penales para el Estado de Aguascalientes y el Código Nacional, se considere necesaria la solicitud de datos conservados de concesionarios de redes públicas de telecomunicaciones, el Ministerio Público lo solicitará por escrito al Fiscal General, quien hará la petición respectiva en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
+Cuando en la integración de una carpeta de investigación relativa al delito de amenazas o cualesquiera de los delitos graves previstos por el Código Penal del Estado de Aguascalientes, y el Código Nacional, se considere necesaria la solicitud de datos conservados de concesionarios de redes públicas de telecomunicaciones, el Ministerio Público lo solicitará por escrito al Fiscal General, quien hará la petición respectiva en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 
 ### CAPÍTULO VII. En Materia de Intervención de Comunicaciones
 
@@ -687,7 +727,9 @@ Ningún imputado podrá ser retenido por el Ministerio Público por más de cuar
 
 Desde el momento en que tenga a su disposición al imputado, el Ministerio Público le hará saber los motivos de su detención, así como su derecho a guardar silencio y demás prerrogativas que en su favor consagra el artículo 20, de la Constitución Federal.
 
-En las declaraciones de los imputados se dará estricto cumplimiento a lo dispuesto por el Código Penal del Estado de Aguascalientes, el Código de Procedimientos Penales para el Estado de Aguascalientes y el Código Nacional. Para tales efectos, el acta que se levante con motivo de la declaración, contendrá la reproducción más fiel posible de las manifestaciones del imputado, incluyendo la consulta con su defensor sobre la actitud a asumir.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
+
+En las declaraciones de los imputados se dará estricto cumplimiento a lo dispuesto por el Código Penal del Estado de Aguascalientes, y el Código Nacional. Para tales efectos, el acta que se levante con motivo de la declaración, contendrá la reproducción más fiel posible de las manifestaciones del imputado, incluyendo la consulta con su defensor sobre la actitud a asumir.
 
 ###### ARTÍCULO 26.
 
@@ -897,9 +939,13 @@ X. Incumplir con los requisitos de permanencia previstos en la Ley;
 
 XI. El incumplimiento de las obligaciones previstas en los artículos 44, 45 y 46, de esta Ley;
 
-XII. La dilación en las investigaciones. Se considera que existe dilación en las investigaciones cuando, injustificadamente, dejen de realizarse diligencias tendentes a la acreditación del cuerpo del delito y la probable responsabilidad, por un periodo igual o superior a treinta y cinco días hábiles. Se sancionará la conducta descrita en la presente fracción conforme a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes; y
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
 
-XIII. Las demás que establezcan otras disposiciones aplicables, en particular las previstas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+XII. La dilación en las investigaciones. Se considera que existe dilación en las investigaciones cuando, injustificadamente, dejen de realizarse diligencias tendentes a la acreditación del cuerpo del delito y la probable responsabilidad, por un periodo igual o superior a treinta y cinco días hábiles. Se sancionará la conducta descrita en la presente fracción conforme a las disposiciones de la Ley de Responsabilidades Administrativas para el Estado de Aguascalientes; y
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
+
+XIII. Las demás que establezcan otras disposiciones aplicables, en particular las previstas por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 ### CAPÍTULO II. Obligaciones
 
@@ -927,7 +973,9 @@ IX. Participar en operativos de coordinación con otras instituciones de segurid
 
 X. Obedecer las órdenes de los superiores jerárquicos, siempre y cuando sean conforme a derecho, y cumplir con todas sus obligaciones legales;
 
-XI. Preservar el secreto de los asuntos que por razón del desempeño de su función conozcan. Podrá negar, de manera fundada y motivada, la expedición de copias cuando ello ponga en peligro las investigaciones que se realicen. El titular del Ministerio Público fijará, mediante acuerdo, los datos e información que sean reservados conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
+
+XI. Preservar el secreto de los asuntos que por razón del desempeño de su función conozcan. Podrá negar, de manera fundada y motivada, la expedición de copias cuando ello ponga en peligro las investigaciones que se realicen. El titular del Ministerio Público fijará, mediante acuerdo, los datos e información que sean reservados conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios.
 
 XII. Abstenerse en el desempeño de sus funciones de auxiliarse por personas no autorizadas por las disposiciones aplicables;
 
@@ -1061,9 +1109,11 @@ En cualquier caso, comunicarán los resultados de sus intervenciones al Minister
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 53.
 
-Para el óptimo ejercicio de la acción penal, el Ministerio Público podrá considerar criterios de oportunidad, de acuerdo a lo establecido en el Código de Procedimientos Penales para el Estado de Aguascalientes y en el Código Nacional.
+Para el óptimo ejercicio de la acción penal, el Ministerio Público podrá considerar criterios de oportunidad, de acuerdo a lo establecido en el Código Nacional.
 
 ## TÍTULO XII. JUSTICIA ALTERNATIVA
 
@@ -1105,7 +1155,9 @@ Los mediadores y conciliadores oficiales estarán sujetos a la responsabilidad a
 
 En la investigación y persecución de hechos punibles en los cuales intervenga como imputado una persona que tenga entre doce años cumplidos y menos de dieciocho años de edad, se deberá de atender a lo siguiente:
 
-I. Investigar los hechos punibles así previstos por las figuras típicas establecidas en el Código Penal del Estado de Aguascalientes, el Código de Procedimientos Penales para el Estado de Aguascalientes y el Código Nacional con el objeto de comprobar el cuerpo del delito, determinado en la figura típica correspondiente y el establecimiento de la probable responsabilidad;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
+
+I. Investigar los hechos punibles así previstos por las figuras típicas establecidas en el Código Penal del Estado de Aguascalientes, y el Código Nacional con el objeto de comprobar el cuerpo del delito, determinado en la figura típica correspondiente y el establecimiento de la probable responsabilidad;
 
 II. Perseguir a los autores, participes o cómplices de los hechos punibles, cuando los probables responsables sean mayores de 12 años y menores de 18 años de edad;
 
@@ -1235,7 +1287,9 @@ IX. Acordar con el Fiscal General, los asuntos relevantes detectados en las visi
 
 X. Implementar los mecanismos necesarios para realizar una eficaz supervisión respecto de las actuaciones de los servidores públicos en el ejercicio de sus funciones;
 
-XI. Iniciar el procedimiento de oficio o a petición de parte, respecto de la responsabilidad administrativa de algún servidor público de la Fiscalía General, para lo cual deberá de observar lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
+
+XI. Iniciar el procedimiento de oficio o a petición de parte, respecto de la responsabilidad administrativa de algún servidor público de la Fiscalía General, para lo cual deberá de observar lo establecido en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 XII. Podrá iniciar de oficio, cuando con motivo de una visita practicada por el Visitador o los visitadores adscritos, resultare alguna causal de responsabilidad;
 
@@ -1431,7 +1485,7 @@ Los resultados de los procesos de evaluación y los expedientes que se formen co
 
 Las solicitudes de reincorporación al Servicio Profesional de Carrera de la Fiscalía General se analizarán y en su caso, concederán con arreglo a lo que establezca esta ley, su Reglamento y demás disposiciones, siempre que el motivo de la baja haya sido por causas distintas al incumplimiento a los requisitos de permanencia o al seguimiento de un procedimiento de responsabilidad administrativa o penal, local o federal.
 
-Terminación (sic)
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE MAYO DE 2019)</small>
 
 ### CAPÍTULO IV. Terminación y Separación del Servicio Profesional
 
@@ -1465,7 +1519,9 @@ IV. Contra la resolución emitida no procederá recurso alguno;
 
 La Dirección de Visitaduría podrá allegarse en todo momento de los elementos probatorios y realizar las diligencias que estime necesarios para emitir la determinación que corresponda; y
 
-V. En lo no previsto y en lo que no se oponga, el procedimiento para la separación del Servicio de Carrera ministerial y pericial por el incumplimiento de los requisitos de ingreso y permanencia, se sujetará a lo dispuesto para el procedimiento de responsabilidad administrativa procedente contemplado en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
+
+V. En lo no previsto y en lo que no se oponga, el procedimiento para la separación del Servicio de Carrera ministerial y pericial por el incumplimiento de los requisitos de ingreso y permanencia, se sujetará a lo dispuesto para el procedimiento de responsabilidad administrativa procedente contemplado en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 ###### ARTÍCULO 79.
 
@@ -1601,9 +1657,11 @@ VIII. Las demás materias que se establezcan en las disposiciones legales aplica
 
 ### CAPÍTULO I. De las Sanciones
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 89.
 
-Las sanciones por incurrir en las causas de responsabilidad a que se refiere el Artículo 43, de esta Ley, serán las establecidas en la Ley de Responsabilidad de los Servidores Públicos del Estado de Aguascalientes.
+Las sanciones por incurrir en las causas de responsabilidad a que se refiere el Artículo 43, de esta Ley, serán las establecidas en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 ###### ARTÍCULO 90.
 
@@ -1665,7 +1723,9 @@ IV. Ratificada la queja, la Dirección de Visitaduría realizará la evaluación
 
 V. Para dichos efectos, la Dirección de Visitaduría podrá solicitar los informes o la documentación que estime necesaria y realizará las visitas que correspondan. Los resultados de la visita, los informes y los documentos serán integrados al acta de evaluación técnico-jurídica;
 
-VI. Concluida la evaluación técnico-jurídica, la Dirección de Visitaduría concluirá fundada y motivadamente, si existe una probable causa de remoción del servidor público. Iniciará de oficio el procedimiento administrativo de responsabilidad, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, y solicitará la remoción del servidor público;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2019)</small>
+
+VI. Concluida la evaluación técnico-jurídica, la Dirección de Visitaduría concluirá fundada y motivadamente, si existe una probable causa de remoción del servidor público. Iniciará de oficio el procedimiento administrativo de responsabilidad, en los términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, y solicitará la remoción del servidor público;
 
 VII. La Dirección de Visitaduría enviará una copia de la denuncia administrativa y sus anexos al servidor público, para que en un término de quince días hábiles formule un informe sobre los hechos y rinda las pruebas correspondientes. El informe deberá referirse a todos y cada uno de los hechos comprendidos en la denuncia o queja, afirmándolos, negándolos, expresando los que ignore por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán confesados los hechos de la denuncia o queja sobre los cuales el denunciado no suscitare explícitamente controversia, salvo prueba en contrario;
 
@@ -1683,17 +1743,23 @@ La Dirección de Visitaduría informará al Consejo de Profesionalización sobre
 
 La cancelación del certificado deberá registrarse en los términos que establece la Ley General del Sistema Nacional de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 97.
 
-Los servidores públicos de la Fiscalía General están sujetos al régimen de responsabilidades a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+Los servidores públicos de la Fiscalía General están sujetos al régimen de responsabilidades a que se refiere (sic) Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 98.
 
-La Dirección de Visitaduría promoverá las acciones necesarias para fincar las responsabilidades administrativas que resulten; aplicará las reglas y los procedimientos administrativos correspondientes; y contará con las facultades y atribuciones que establezca la presente Ley, el Reglamento de la misma, las señaladas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y demás disposiciones aplicables.
+La Dirección de Visitaduría promoverá las acciones necesarias para fincar las responsabilidades administrativas que resulten; aplicará las reglas y los procedimientos administrativos correspondientes; y contará con las facultades y atribuciones que establezca la presente Ley, el Reglamento de la misma, las señaladas en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 99.
 
-Se podrán imponer a los servidores públicos de la Fiscalía General, por las faltas en que incurran en el desempeño de su empleo, cargo o comisión, las sanciones disciplinarias previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, mediante el procedimiento que en ella se establece.
+Se podrán imponer a los servidores públicos de la Fiscalía General, por las faltas en que incurran en el desempeño de su empleo, cargo o comisión, las sanciones disciplinarias previstas en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, mediante el procedimiento que en ella se establece.
 
 En los casos en que la Dirección de Visitaduría determine las sanciones de destitución o inhabilitación, se entenderá que conllevan la cancelación de la certificación a que se refiere el artículo 21, de la Constitución Federal. La cancelación de la certificación deberá registrarse en los términos la Ley General del Sistema Nacional de Seguridad Pública.
 
@@ -1814,3 +1880,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Fiscalía General del Estado de Aguascalientes contará con 90 días naturales para la elaboración del Formato de Atención a Víctimas u Ofendidos del Delito y su entrada en operación.
+
+P.O. 20 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 156.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 1°, 3°, 15, 21, 25, 43, 44, 53, 56, 61, 78, 89, 95, 97, 98 Y 99; ASÍ MISMO SE ADICIONAN LOS ARTÍCULOS 1°, 3° Y SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 76; DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
