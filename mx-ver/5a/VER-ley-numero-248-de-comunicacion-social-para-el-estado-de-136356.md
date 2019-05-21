@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-248-de-comunicacion-social-para-el-estado-de-136356"
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-17"
-last_updated: "2019-05-17"
+last_updated: "2019-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "VER"
 
 (NOTA: EL 12 DE ENERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2019, DECLARÓ LA INVALIDEZ DE LA LEY NUMERO 248 DE COMUNICACION SOCIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA GACETA OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DIECISIETE DE MAYO DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 13 DE ENERO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MAYO DE 2019 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY NÚMERO 248 DE COMUNICACIÓN SOCIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE 21 DE MAYO DE 2019.]</small>
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 17 de mayo de 2019.
 
@@ -435,7 +435,9 @@ Sexto. El Decreto del Presupuesto de Egresos del Gobierno del Estado a partir de
 
 Séptimo. Se derogan las disposiciones que se opongan a lo dispuesto en la presente ley.
 
-Dada en el salón de sesiones de la LXV Legislatura del Honorable Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, a los dieciséis días del mes de marzo del año dos mil diecinueve.
+> <small>(F. DE E., G.O. 21 DE MAYO DE 2019)</small>
+
+Dada en el salón de sesiones de la LXV Legislatura del Honorable Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, a los dieciséis días del mes de mayo del año dos mil diecinueve.
 
 José Manuel Pozos Castro
 
