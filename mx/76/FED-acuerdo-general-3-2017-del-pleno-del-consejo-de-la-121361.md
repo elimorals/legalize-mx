@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2017-del-pleno-del-consejo-de-la-121361"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-05-15"
-last_updated: "2018-08-14"
+last_updated: "2019-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2017-05-08"
 
 ACUERDO GENERAL 3/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO NACIONAL DE JUSTICIA ESPECIALIZADO EN CONTROL DE TÉCNICAS DE INVESTIGACIÓN, ARRAIGO E INTERVENCIÓN DE COMUNICACIONES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2019.
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 15 de mayo de 2017.
 
@@ -199,29 +199,37 @@ Durante los dos meses que conforma el periodo respectivo, solamente dos jueces d
 
 ### CAPÍTULO SEGUNDO. DE LA COMPETENCIA DE LOS JUECES DE CONTROL
 
-> <small>(REFORMADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 20/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO POR EL ACUERDO GENERAL 5/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE MAYO DE 2019)</small>
 
 ###### Artículo 14.
 
-Los Jueces de control serán competentes en toda la República, desde el inicio de la etapa de investigación inicial, durante la misma y hasta antes de que con motivo de ella el imputado quede a disposición del juez de Control del Centro de Justicia Penal Federal correspondiente para que se le formule la imputación, para conocer y resolver de las solicitudes presentadas por el Ministerio Público de la Federación siguientes:
+Los Jueces de control serán competentes en toda la República, desde el inicio de la etapa de investigación inicial, durante la misma y hasta antes de que se judicialice el asunto, para conocer y resolver de las solicitudes presentadas por el Ministerio Público de la Federación siguientes:
 
 I. Arraigo tratándose de la investigación de delitos de delincuencia organizada; y cateo e intervención de comunicaciones privadas y de correspondencia, en el caso de dicho delito y de operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis del Código Penal Federal;
 
-II. Requerimiento a los concesionarios de telecomunicaciones, autorizados o proveedores de servicios de aplicaciones y contenidos, de localización geográfica en tiempo real o entrega de datos conservados, en términos del artículo 303 del Código Nacional de Procedimientos Penales, tratándose de la investigación de delitos de delincuencia organizada; y operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis del Código Penal Federal; y
+II. Requerimiento a los concesionarios de telecomunicaciones, autorizados o proveedores de servicios de aplicaciones y contenidos, de localización geográfica en tiempo real o entrega de datos conservados, en términos del artículo 303 del Código Nacional de Procedimientos Penales, tratándose de la investigación de delitos de delincuencia organizada; y operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis del Código Penal Federal;
 
-III. Las solicitudes presentadas por el Ministerio Público de la Federación en la etapa de averiguación previa, siguientes:
+III. Requerimiento a las Instituciones de Crédito o a la Comisión Nacional Bancaria y de Valores, de información relativa al secreto bancario o financiero, tratándose de la investigación de delitos de delincuencia organizada y de operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis del Código Penal Federal;
+
+IV. El aseguramiento de activos financieros, tales como cuentas y demás valores que se encuentren dentro del sistema financiero, tratándose de la investigación de delitos de delincuencia organizada; y operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis del Código Penal Federal; y
+
+V. Las solicitudes presentadas por el Ministerio Público de la Federación en la etapa de averiguación previa, siguientes:
 
 a) Cateo;
 
-b) Arraigo; e
+b) Arraigo;
 
-c) Intervención de comunicaciones.
+c) Intervención de comunicaciones;
 
-También conocerán de la ratificación de la orden de la localización geográfica en tiempo real o la entrega de los datos conservados a los concesionarios de telecomunicaciones, los autorizados o proveedores de servicios de aplicaciones y contenidos, dada por el titular del Ministerio Público de la Federación o el servidor público en quien se delegue la facultad; de conformidad con el artículo 303 del Código Nacional de Procedimientos Penales.
+d) Aseguramiento de activos financieros, tales como cuentas y demás valores que se encuentren dentro del sistema financiero, tratándose de la investigación de delitos de delincuencia organizada; y operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis del Código Penal Federal; y
 
-Adicionalmente serán competentes para conocer de las solicitudes las solicitudes (sic) de intervención de comunicaciones privadas que hagan los titulares del Ministerio Público de las entidades federativas, en términos de lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, independientemente de que se trate del sistema acusatorio o mixto.
+e) Requerimiento a las Instituciones de Crédito o a la Comisión Nacional Bancaria y de Valores, de información relativa al secreto bancario o financiero, tratándose de la investigación de delitos de delincuencia organizada y de operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis del Código Penal Federal.
 
-En el supuesto a que se refiere la fracción III de este artículo los Jueces de control no actuarán habilitados como jueces de Distrito especializados en el sistema penal acusatorio, sino como jueces de Distrito con competencia para conocer de estos asuntos.
+También conocerán de la ratificación de la orden de la localización geográfica en tiempo real o la entrega de los datos conservados a los concesionarios de telecomunicaciones, los autorizados o proveedores de servicios de aplicaciones y contenidos, dada por el titular del Ministerio Público de la Federación o el servidor público en quien se delegue la facultad; de conformidad con el artículo 303 del Código Nacional de Procedimientos Penales, hasta antes de que se judicialice el asunto.
+
+Adicionalmente serán competentes para conocer, de las solicitudes de intervención de comunicaciones privadas, solicitudes de entrega de datos conservados, orden de localización geográfica en tiempo real, ratificación de la orden de localización geográfica en tiempo real y ratificación de la entrega de datos que hagan los titulares del Ministerio Público de las entidades federativas desde el inicio de la etapa de investigación inicial, durante la misma y hasta antes de que se judicialice el asunto, en términos de lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, independientemente de que se trate del sistema acusatorio o mixto.
+
+En el supuesto a que se refiere la fracción V de este artículo, los Jueces de control no actuarán habilitados como jueces de Distrito especializados en el sistema penal acusatorio, sino como jueces de Distrito con competencia para conocer de estos asuntos.
 
 ###### Artículo 15.
 
@@ -261,9 +269,9 @@ En el expediente que se forme para el trámite del pedimento de que se trate, se
 
 Tan pronto como se emita la resolución que conceda o niegue lo solicitado, deberá expedirse el documento escrito de la misma; y, en el caso de que la solicitud se haya presentado por los medios electrónicos respectivos, se incorporará al sistema electrónico con la finalidad de que, además del juez de Control que la dictó, sólo esté disponible para el personal autorizado por las autoridades solicitantes, quienes podrán obtener copia electrónica para realizar la impresión correspondiente.
 
-> <small>(REFORMADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 20/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO POR EL ACUERDO GENERAL 5/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE MAYO DE 2019)</small>
 
-En los supuestos que sea procedente, para todos los efectos legales a que haya lugar, la primera consulta que el solicitante haga de ese archivo electrónico deberá ser registrada automáticamente por el sistema, con lo que se tendrá por hecha la notificación de conformidad con el artículo 89 del Código Nacional de Procedimientos Penales o con el artículo 111 del Código Federal de Procedimientos Penales, según sea el caso.
+Para todos los efectos legales a que haya lugar, la notificación realizada por medios electrónicos surtirá efecto el mismo día a aquel en que por sistema se confirme que se recibió el archivo electrónico correspondiente.
 
 ###### Artículo 20.
 
@@ -760,3 +768,11 @@ CUADRAGÉSIMO. Las firmas electrónicas que hayan sido expedidas con anteriorida
 CUADRAGÉSIMO PRIMERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo (sic) resulten competentes, llevarán a cabo las acciones para que los Jueces de Control que se integran al Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones inicien funciones en la fecha prevista en este Acuerdo.
 
 CUADRAGÉSIMO SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 21 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 5/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 14 Y 19 DEL DIVERSO 3/2017, POR EL QUE SE CREA EL CENTRO NACIONAL DE JUSTICIA ESPECIALIZADO EN CONTROL DE TÉCNICAS DE INVESTIGACIÓN, ARRAIGO E INTERVENCIÓN DE COMUNICACIONES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
