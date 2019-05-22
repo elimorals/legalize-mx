@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-fiscalia-general-del-estado-de-morelos-12959
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-11"
-last_updated: "2018-08-30"
+last_updated: "2019-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE NOVIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Morelos, el miércoles 11 de julio de 2018.
 
@@ -79,55 +81,61 @@ VIII. Fiscalía General, a la Fiscalía General del Estado de Morelos;
 
 IX. Fiscal General, a la persona Titular de la Fiscalía General y Jefe del Ministerio Público;
 
-X. Fiscalía Anticorrupción, a la Fiscalía Especializada en Combate a la Corrupción del Estado de Morelos;
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2019)</small>
 
-XI. Fiscal Anticorrupción, a la persona Titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Morelos;
+X. Fiscal en retiro, a la persona que haya dejado de ser Fiscal General, habiendo sido nombrada de acuerdo a lo establecido en el artículo 79-B de la Constitución local. Para efectos de ser sujeto a portar arma oficial, se considerará personal operativo honorario de acuerdo a lo que establece el inciso c), apartado B, del artículo 29 de la Ley Federal de Armas de Fuego y Explosivos, el artículo 125 de la Ley General del Sistema Nacional de Seguridad Pública y la demás normativa aplicable;
 
-XII. Fiscalía Antisecuestro, a la Fiscalía Especializada en Combate al Secuestro y Extorsión;
+XI. Fiscalía Anticorrupción, a la Fiscalía Especializada en Combate a la Corrupción del Estado de Morelos;
 
-XIII. Fiscalía en Desaparición de Personas, a la Fiscalía Especializada en Desaparición Forzada de Personas;
+XII. Fiscal Anticorrupción, a la persona Titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Morelos;
 
-XIV. Instituto de Procuración de Justicia, al Instituto de Procuración de Justicia, Escuela de Investigación;
+XIII. Fiscalía Antisecuestro, a la Fiscalía Especializada en Combate al Secuestro y Extorsión;
 
-XV. Institución de Procuración de Justicia, al área del Estado que integra al Ministerio Público, los servicios periciales y demás auxiliares de aquél, es decir, a la Fiscalía General;
+XIV. Fiscalía en Desaparición de Personas, a la Fiscalía Especializada en Desaparición Forzada de Personas;
 
-XVI. Instituciones de Seguridad Pública, a las instituciones policiales, de procuración de justicia, del sistema penitenciario y de las unidades encargadas de la seguridad pública a nivel estatal, municipal, así como a los encargados de su capacitación, formación y profesionalización durante el desarrollo del servicio de carrera;
+XV. Instituto de Procuración de Justicia, al Instituto de Procuración de Justicia, Escuela de Investigación;
 
-XVII. Instituciones policiales, a los elementos de la policía preventiva estatal, con sus grupos de investigación, y municipal, de la policía ministerial, a los elementos de vigilancia y custodia de los establecimientos penitenciarios, así como a los encargados de la seguridad durante los procesos judiciales y la vigilancia del cumplimiento de las medidas cautelares, tanto de adolescentes como de adultos, bomberos y de rescate; y, en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal;
+XVI. Institución de Procuración de Justicia, al área del Estado que integra al Ministerio Público, los servicios periciales y demás auxiliares de aquél, es decir, a la Fiscalía General;
 
-XVIII. Ley, a la Ley Orgánica para la Fiscalía General del Estado de Morelos;
+XVII. Instituciones de Seguridad Pública, a las instituciones policiales, de procuración de justicia, del sistema penitenciario y de las unidades encargadas de la seguridad pública a nivel estatal, municipal, así como a los encargados de su capacitación, formación y profesionalización durante el desarrollo del servicio de carrera;
 
-XIX. Ley General, a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
+XVIII. Instituciones policiales, a los elementos de la policía preventiva estatal, con sus grupos de investigación, y municipal, de la policía ministerial, a los elementos de vigilancia y custodia de los establecimientos penitenciarios, así como a los encargados de la seguridad durante los procesos judiciales y la vigilancia del cumplimiento de las medidas cautelares, tanto de adolescentes como de adultos, bomberos y de rescate; y, en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal;
 
-XX. Ley General en Materia de Desaparición de Personas, a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+XIX. Ley, a la Ley Orgánica para la Fiscalía General del Estado de Morelos;
 
-XXI. Ministerio Público, a la Institución del Ministerio Público, única e indivisible;
+XX. Ley General, a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXII. Oficial, al Oficial del Registro Civil del Municipio que corresponda;
+XXI. Ley General en Materia de Desaparición de Personas, a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
 
-XXIII. Periódico Oficial, al Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos;
+XXII. Ministerio Público, a la Institución del Ministerio Público, única e indivisible;
 
-XXIV. Placa Identificativa, a la placa de material anticorrosivo que contiene la mayor cantidad de datos posibles de la Ficha Identificativa;
+XXIII. Oficial, al Oficial del Registro Civil del Municipio que corresponda;
 
-XXV. Protocolo, al Protocolo para el Tratamiento e Identificación Forense, expedido por la Procuraduría General de la República;
+XXIV. Periódico Oficial, al Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos;
 
-XXVI. Policía de Investigación Criminal, al cuerpo de Policía que auxilia al Ministerio Público en las funciones de investigación y persecución de los delitos, en términos de la Constitución Federal;
+XXV. Placa Identificativa, a la placa de material anticorrosivo que contiene la mayor cantidad de datos posibles de la Ficha Identificativa;
 
-XXVII. Registro, al Registro de Datos de los cadáveres no identificados relacionados con una carpeta de investigación;
+XXVI. Protocolo, al Protocolo para el Tratamiento e Identificación Forense, expedido por la Procuraduría General de la República;
 
-XXVIII. Reglamento, al Reglamento de la Ley;
+XXVII. Policía de Investigación Criminal, al cuerpo de Policía que auxilia al Ministerio Público en las funciones de investigación y persecución de los delitos, en términos de la Constitución Federal;
 
-XXIX. Servicio de Carrera, al Servicio de Carrera de la Fiscalía General para los Agentes del Ministerio Público, Oficiales Auxiliares del Ministerio Público, Peritos y Agentes de la Policía de Investigación Criminal que les estén adscritos, y
+XXVIII. Registro, al Registro de Datos de los cadáveres no identificados relacionados con una carpeta de investigación;
 
-XXX. Servicios Periciales, al cuerpo de personas con conocimientos y experiencia en las diferentes profesiones, ciencias, técnicas, artes u oficios, que mediante la emisión de opiniones y dictámenes auxilian al Ministerio Público en su función.
+XXIX. Reglamento, al Reglamento de la Ley;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+
+XXX. Servicio de Carrera, al Servicio de Carrera de la Fiscalía General para los Agentes del Ministerio Público, Oficiales Auxiliares del Ministerio Público, Peritos y Agentes de la Policía de Investigación Criminal que les estén adscritos; y,
+
+XXXI. Servicios Periciales, al cuerpo de personas con conocimientos y experiencia en las diferentes profesiones, ciencias, técnicas, artes u oficios, que mediante la emisión de opiniones y dictámenes auxilian al Ministerio Público en su función.
 
 ###### Artículo 3.
 
 La Fiscalía General es un órgano constitucional autónomo cuya función primordial es la persecución de los delitos como una de las necesidades torales tanto del Estado como de la sociedad en general; su autonomía constitucional consiste en lo siguiente:
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-I. Autonomía financiera, por la que contará con un presupuesto equivalente al siete por ciento de los ingresos de libre disposición del Presupuesto de Egresos del Estado, entendiendo como tales a los señalados en el artículo 2, fracción XIX de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; y sin que pueda ser menor en términos reales al determinado en el presupuesto de egresos del año anterior en términos del artículo 79-A de la Constitución Local. Del equivalente total que resulte, corresponde el cinco por ciento a la Fiscalía Anticorrupción;
+I. Autonomía Financiera, por la que contará con un presupuesto que no podrá ser menor en términos reales, al que le haya correspondido en el Presupuesto de Egresos del Gobierno del Estado del año inmediato anterior, de conformidad con lo establecido en el artículo 79-A de la Constitución local. Del equivalente total que resulte, corresponde el cinco por ciento a la Fiscalía Anticorrupción;
 
 II. Independencia en su estructura orgánica y la determinación de niveles, categorías y salarios, conforme al tabulador que para tal efecto se publique en el Periódico Oficial "Tierra y Libertad", y
 
@@ -579,7 +587,7 @@ VII. Coordinación General de la Policía de Investigación Criminal;
 
 VIII. Direcciones Generales;
 
-IX. Procuraduría de Protección de Niñas, Niños y Adolescentes y la Familia;
+IX. (DEROGADA, P.O. 22 DE MAYO DE 2019)
 
 X. Unidad de Representación Social;
 
@@ -1043,7 +1051,7 @@ DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA
 
 ###### Artículo 70.
 
-La Procuraduría de Protección de Niñas, Niños y Adolescentes y la Familia contará con las atribuciones previstas en la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Morelos, la Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia Familiar en el Estado de Morelos, así como las que le conceda el Reglamento de la presente Ley y demás normativa aplicable.
+(DEROGADO, P.O. 22 DE MAYO DE 2019)
 
 ## TÍTULO SEGUNDO. DEL SERVICIO DE CARRERA
 
@@ -1347,15 +1355,17 @@ Cuando la autoridad jurisdiccional resolviere que la separación del cargo o rem
 
 #### SECCIÓN QUINTA. DE LAS PRERROGATIVAS POR SERVICIOS PRESTADOS
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
+
 ###### Artículo 99.
 
 Los servidores públicos de la Fiscalía General y de la Fiscalía Anticorrupción, podrán excusarse y ser recusados en los asuntos que intervengan, cuando ocurra una o más de las causas que motivan las excusas en los términos del Código Nacional de Procedimientos Penales. La excusa y la recusación deberán ser calificadas en definitiva por el Fiscal General y su trámite se definirá en el Reglamento respectivo.
 
 ###### Artículo 100.
 
-Los Fiscales General, Anticorrupción y Antisecuestro, con el fin de salvaguardar su integridad física y la de sus familias, a partir de que dejen el cargo por cualquier motivo, contarán con el mismo dispositivo de seguridad que tuvieron asignado durante el ejercicio de sus funciones, por el mismo tiempo de su desempeño, percibiendo también el equivalente al cincuenta por ciento de su último salario neto, en forma vitalicia.
+Los Fiscales General, Anticorrupción y Antisecuestro, con el fin de salvaguardar su integridad física y la de sus familias, a partir de que dejen el cargo por cualquier motivo, contarán con el mismo dispositivo de seguridad que tuvieron asignado durante el ejercicio de sus funciones, por el mismo tiempo que desempeñaron sus respectivos cargos; transcurrido dicho plazo, este irá disminuyendo o será retirado definitivamente, en razón de lo que acuerde el Fiscal General, de acuerdo a las circunstancias personales y de riesgo de cada ex funcionario.
 
-Lo anterior sin perjuicio de sus derechos jubilatorios y pensionarios adquiridos.
+El Fiscal en Retiro tiene el derecho de portación de arma oficial de forma vitalicia, siempre y cuando cumpla con las formalidades que establecen las leyes aplicables.
 
 ###### Artículo 101.
 
@@ -1823,11 +1833,13 @@ IV. Recibir y analizar el proyecto de iniciativa de reformas, adiciones y cualqu
 
 V. Las demás que se requieran para el eficaz cumplimiento de su función garante de la autonomía de la Fiscalía General.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2019, PÁGINA 18.]</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
+
 ###### Artículo 151.
 
 La Comisión de Reformas se regirá por su propio Reglamento.
-
-La presente Ley no podrá ser objeto de reforma, adición, derogación o abrogación, sin que medie participación de la Comisión de Reformas a que se refiere este Título, a través de la persona que funga (sic) como enlace con el Poder Legislativo para tales efectos, designada por el Fiscal General.
 
 DISPOSICIONES TRANSITORIAS
 
@@ -1926,3 +1938,35 @@ La garantía de cumplimiento a las obligaciones que se contraen con la incorpora
 Se autoriza al Poder Ejecutivo del Estado de Morelos a pagar directamente las cuotas y aportaciones que se generen por la incorporación voluntaria de la Fiscalía General del Estado de Morelos, al régimen obligatorio del Instituto Mexicano del Seguro Social, exclusivamente en el caso que la citada Fiscalía no cubra de manera oportuna las cuotas correspondientes.
 
 Se autoriza a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que los pagos que realice y que correspondan a la Fiscalía General del Estado de Morelos, los pueda descontar de las cantidades próximas a ministrar en las transferencias presupuestales que correspondan al mencionado órgano, lo que deberá formalizarse en el instrumento que se celebre entre el Instituto Mexicano del Seguro Social y la citada Fiscalía.
+
+P.O. 22 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOSCIENTOS CUARENTA Y DOS POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; DE LA LEY DE ASISTENCIA SOCIAL Y CORRESPONDENCIA CIUDADANA PARA EL ESTADO DE MORELOS; DE LA LEY DE DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS; DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA FAMILIAR EN EL ESTADO DE MORELOS; LA LEY DE DESARROLLO, PROTECCIÓN Y ATENCIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS; LEY DE VÍCTIMAS DEL ESTADO DE MORELOS; LEY ESTATAL PARA LA CONVIVENCIA Y SEGURIDAD DE LA COMUNIDAD ESCOLAR; LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS, Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Una vez publicado el presente Decreto, dentro de los noventa días siguientes, contados a partir del inicio de vigencia, se deberán realizar las adecuaciones que se requieran a las Leyes y Reglamentos correspondientes para su armonización y, dentro del mismo término, la Fiscalía General deberá realizar las modificaciones necesarias a su Reglamento Interior.
+
+CUARTA. En mérito de lo anterior se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+QUINTA. De haber finalizado la entrega - recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial "Tierra y Libertad" 5611, los bienes muebles e inmuebles propiedad de la Fiscalía General del Estado de Morelos, que se han venido ocupando y administrando hasta ahora por la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y por la Dirección de Centros de Asistencia Social, así como por sus albergues o centros de asistencia social, deberán ser devueltos al Gobierno del Estado o del Sistema Estatal para el Desarrollo Integral de la Familia por virtud de este acto legislativo, y pasan a formar parte del patrimonio de estos últimos desde el momento de su entrada en vigor; para lo cual la Fiscalía General, deberá realizar, gestionar, emitir o celebrar todos los actos jurídicos y administrativos idóneos que resulten necesarios al efecto, conforme a la normativa aplicable.
+
+De forma complementaria, la Fiscalía General del Estado, debe realizar los actos jurídicos y administrativos, necesarios e idóneos, para lograr que los recursos humanos, materiales y financieros que ha ocupado y proyectado para el funcionamiento de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y los centros de asistencia social; se trasmitan al Gobierno del Estado o del Sistema Estatal para el Desarrollo Integral de la Familia, en virtud de esta reforma.
+
+SEXTA. Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y la Dirección de Centros de Asistencia Social, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora adscritas al Sistema Estatal para el Desarrollo Integral de la Familia, por virtud del presente Decreto.
+
+SÉPTIMA. Los asuntos que se encuentren en trámite o en proceso, incluidos los de adopciones, a cargo de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia o la Dirección de Centros de Asistencia Social, continuarán tramitándose por esta, hasta su conclusión y en los términos que establezca la normativa aplicable, sin que el cambio de su adscripción al Sistema Estatal para el Desarrollo Integral de la Familia pueda modificar o alterar su curso y resultado.
+
+OCTAVA. La Fiscalía General del Estado de Morelos y el Sistema Estatal para el Desarrollo Integral de la Familia, al realizar actuaciones para materializar el traslado de funciones y unidades a que se refiere el presente instrumento jurídico en caso de que se hubiere realizado la entrega - recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial "Tierra y Libertad" 5611, deberán velar por la seguridad, vida e integridad de las personas que se encuentren bajo su custodia en alguno de los albergues y centros de asistencia social que se encuentran a cargo de la Fiscalía.
+
+La Fiscalía General del Estado y el Sistema Estatal para el Desarrollo Integral de la Familia, una vez que entre en vigor el presente instrumento legislativo, deberán prestarse todas las facilidades para el traslado de los Albergues y Centros de Asistencia Social que hasta la presente reforma se encontraban a cargo de dicho Sistema.
+
+NOVENA. El personal de la Fiscalía General adscrito a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y la Dirección de Centros de Asistencia Social, que pase a formar parte del Sistema Estatal para el Desarrollo Integral de la Familia, en ninguna forma podrá resultar afectado en sus derechos; debiéndose tomar las acciones necesarias para ello. Si al momento de la entrada en vigor del presente Decreto se ha llevado a cabo la sustitución patronal ordenada en la disposición transitoria QUINTA del Decreto número tres mil cuatrocientos cuarenta y siete, publicado en el Periódico Oficial "Tierra y Libertad" 5628 en fecha 30 de agosto de 2018.
+
+DÉCIMA. En un plazo no mayor de 90 días hábiles, contados a partir de la vigencia del presente Decreto, el Titular del Poder Ejecutivo Estatal deberá realizar o emitir las adecuaciones reglamentarias que se estimen pertinentes conforme lo previsto en el presente Decreto.
+
+DÉCIMA PRIMERA. En un plazo no mayor de 90 días hábiles, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados.
+
+DÉCIMA SEGUNDA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto, en caso de que se hubiere realizado la entrega - recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial "Tierra y Libertad" 5611.
