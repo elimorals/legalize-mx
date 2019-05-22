@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2019-05-10"
+last_updated: "2019-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -689,13 +689,19 @@ LI. Denunciar ante el Ministerio Público los hechos considerados como delitos;
 
 LII. Promover la investigación y el desarrollo de tecnologías que permitan prevenir, controlar y abatir la contaminación generada por el uso de productos plásticos; así como del poliestireno expandido. Fomentando el reciclaje y el reúso de los mismos, además deberá promover la participación de todos los sectores de la sociedad mediante la difusión de información y promoción de actividades de cultura, educación y capacitación ambientales sobre el manejo integral de residuos sólidos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-LIII. Prevenir, controlar y abatir la contaminación generada por el uso de popotes y bolsas de uso único de material polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial; y
+LIII. Prevenir, controlar y abatir la contaminación generada por el uso de popotes y bolsas de uso único de material polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE ENERO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2019)</small>
 
-LIV. Las demás atribuciones que le otorguen la presente Ley y otros ordenamientos aplicables en la materia.
+LIV. Convenir con los Municipios y la Secretaría de Salud para generar, actualizar y difundir, conforme a los ordenamientos aplicables, una base de datos de los prestadores de servicios funerarios de cremación que operan en el Estado, la cual se integrará al Sistema Estatal de Información Ambiental y de Recursos Naturales. Dichos convenios deberán contener las bases mínimas que garanticen el intercambio de información y la periodicidad para que esta sea vigente.
+
+En materia de protección al ambiente de las emisiones que se generen por estos servicios la Secretaría establecerá la reglamentación que señale los requisitos y sanciones que correspondan; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE MAYO DE 2019)</small>
+
+LV. Las demás atribuciones que le otorguen la presente Ley y otros ordenamientos aplicables en la materia.
 
 ###### Artículo 9.
 
@@ -3986,3 +3992,13 @@ Primero.- El presente Decreto entrará en vigor el día siguiente de su publicac
 Segundo.- Todos los establecimientos señalados en el Artículo 168 Bis de la Ley Ambiental del Estado de Nuevo León, tendrán un plazo de 365 días naturales, contados a partir de la entrada en vigor de la presente reforma, para hacer efectiva (sic) dichas prohibiciones.
 
 Tercero.- El Ejecutivo del Estado, deberá realizar las modificaciones necesarias a sus reglamentos y a las normas jurídicas que correspondan, dentro de un plazo de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 22 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 122. SE ADICIONA LA FRACCIÓN XXI BIS AL ARTÍCULO 9o DE LA LEY ESTATAL DE SALUD; Y SE REFORMA POR MODIFICACIÓN LAS FRACCIONES LIII Y LIV Y POR ADICIÓN LA FRACCIÓN LV DEL ARTÍCULO 8 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Las Secretarías tendrán un plazo de 90 días naturales para la adecuación de sus Reglamentos y demás disposiciones normativas en razón de lo reformado por el presente Decreto.
+
+Tercero.- Las acciones que realicen las dependencias de la Administración Pública del Estado para dar cumplimiento al presente Decreto, deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
