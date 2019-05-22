@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-proteccion-e-integracion-de-las-personas-7525
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-09"
-last_updated: "2019-04-10"
+last_updated: "2019-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE DESARROLLO, PROTECCION E INTEGRACION DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE NOVIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de junio de 2010.
 
@@ -34,6 +36,8 @@ Que el Congreso del Estado se ha servido enviarme para su promulgación lo sigui
 La Quincuagésima Primera Legislatura del Congreso del Estado Libre y Soberano de Morelos, en ejercicio de las facultades que le otorga el artículo 40, fracción II, de la Constitución Política Local, y,
 
 I.- DEL PROCESO LEGISLATIVO.
+
+[...]
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -535,53 +539,65 @@ X. Fomentar entre toda la población una cultura de la vejez, de respeto, apreci
 
 Corresponde al Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, en materia de adultos mayores:
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-I. Desarrollar los lineamientos, mecanismos e instrumentos para la organización y funcionamiento de las instituciones de atención a las personas adultas mayores, como casas de día programas de esparcimiento y apoyos varios, para su desarrollo integral;
+I. Desarrollar los lineamientos, mecanismos e instrumentos para la organización y funcionamiento de las instituciones de atención a las personas adultas mayores, como lo son albergues, casas de día programas de esparcimiento y apoyos varios, para su desarrollo integral;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE MAYO DE 2019)</small>
 
 II. Otorgar servicios de calidad y calidez a las personas adultas mayores, brindándoles una atención especializada en su salud física, mental, emocional y espiritual, ayudándoles a vivir con mayor dignidad, que les permita vivir con entusiasmo y alegría;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-III. Brindar alojamiento a las personas adultas mayores que por eventualidad hayan sido afectados por una contingencia o siniestro y se encuentren desprotegidos, otorgándoles un trato digno con calidad y respeto;
+III. Brindar alojamiento a las personas adultas mayores que por eventualidad hayan sido afectados por una contingencia o siniestro y se encuentren desprotegidos. otorgándoles un trato digno con calidad y respeto;
 
-IV. Brindar espacios y servicios de asistencia social con atención integral a las personas adultas mayores que se valgan física y mentalmente por sí mismos; activos y funcionales. Promoviendo la cultura de una vejez digna, activa, productiva y ocupativa;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2019)</small>
 
-V. Impulsar acciones que promuevan la calidad de vida en las personas adultas mayores en un marco de integración y participación social y familiar, fomentando la creación de espacios autogestivos en los municipios con la finalidad de satisfacer sus necesidades de una manera integral y participativa;
+IV. Fomentar la Participación de las personas adultas mayores en Congresos y Encuentros convocados por los DIF Nacionales, Estatales y Municipales, motivándolos a mantener un estilo de vida saludable a través del deporte, la cultura y la educación; proyectar a la sociedad una imagen positiva del proceso de envejecimiento y de la vejez misma y capacitación sobre el auto cuidado, así como a cuidadores primarios;
 
-VI. Promover la participación y el desarrollo humano a través de la recreación, el esparcimiento y la educación no formal, para contribuir al bienestar y elevar la calidad de vida de las personas adultas mayores del Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE MAYO DE 2019)</small>
 
-VII. Implementar acciones para garantizar la cobertura en materia alimentaria para las personas adultas mayores, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados;
+V. Brindar espacios y servicios de asistencia social con atención integral a las personas adultas mayores que se valgan física y mentalmente por sí mismos; activos y funcionales. Promoviendo la cultura de una vejez digna, activa, productiva y ocupativa;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-VIII. Canalizar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y, en general, cualquier acto que perjudique a las personas adultas mayores;
+VI. Impulsar acciones que promuevan la calidad de vida en las personas adultas mayores, en un marco de integración y participación social y familiar, fomentando la creación de espacios autogestivos en los municipios con la finalidad de satisfacer sus necesidades de una manera integral y participativa;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE MAYO DE 2019)</small>
+
+VII. Promover la participación y el desarrollo humano a través de la recreación, el esparcimiento y la educación no formal, para contribuir al bienestar y elevar la calidad de vida de las personas adultas mayores del Estado;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+
+VIII. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y, en general, cualquier acto que perjudique a las personas adultas mayores;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE MAYO DE 2019)</small>
 
 IX. Implementar acciones para garantizar la cobertura en materia alimentaria para las personas adultas mayores, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados;
 
-X. (DEROGADA, P.O. 30 DE AGOSTO DE 2018)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+X. Coadyuvar con Fiscalía General del Estado, en la atención y tratamiento de las personas adultas mayores víctimas de cualquier delito;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE MAYO DE 2019)</small>
 
 XI. Impulsar y promover el reconocimiento y ejercicio de los derechos de las personas adultas mayores;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-XII. Promover, mediante la vía conciliatoria, la solución a la problemática familiar; y
+XII. Promover, mediante la vía conciliatoria, la solución a la problemática familiar; y,
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>[N. DE E. VÉASE LA LITERALIDAD DEL P.O. DE 22 DE MAYO DE 2019, PÁGINA 22]</small>
 
-XIII. Las demás que le confieran otros ordenamientos jurídicos.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE AGOSTO DE 2018)</small>
+XIII. Las demás que le confieran otros ordenamientos jurídicos. La finalidad de estos programas es mantener la integridad y autosuficiencia de las personas adultas mayores y retrasar su deterioro, garantizando su seguridad, autosuficiencia y subsistencia para una vida digna o bien, proporcionar los cuidados paliativos necesarios para un buen morir.
 
-La finalidad de estos programas es mantener la integridad y autosuficiencia de las personas adultas mayores y retrasar su deterioro, garantizando su seguridad, autosuficiencia y subsistencia para una vida digna o bien, proporcionar los cuidados paliativos necesarios para un buen morir.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2019)</small>
 
 ###### Artículo 28.
 
-(DEROGADO, P.O. 30 DE AGOSTO DE 2018)
+El Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, llevará un registro y vigilará el funcionamiento de las instituciones públicas y privadas que otorguen asistencia social a las personas adultas mayores, haciendo del conocimiento a las autoridades competentes sobre las irregularidades advertidas, a efecto de que se impongan las sanciones correspondientes.
 
 ###### Artículo 29.
 
@@ -651,7 +667,7 @@ VI. La Creación de mecanismos de autoempleo mediante capacitación y financiami
 
 ### CAPÍTULO III. DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS, ADOLESCENTESY (SIC) LA FAMILIA DEL ESTADO DE MORELOS
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
 
 ###### Artículo 34.
 
@@ -665,7 +681,7 @@ III.- Que sean proporcionados en forma gratuita los servicios de asistencia jur�
 
 IV.- La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a las personas adultas mayores;
 
-V.- Que sean puestos a disposición del Ministerio Público o de cualquier órgano jurisdiccional, lo (sic) elementos a su alcance en la protección de sus derechos, derivados de los procedimientos o procesos que afecten o puedan afectar a las personas adultas mayores;
+V.- Que sean puestos a disposición del Ministerio Público o de cualquier Órgano Jurisdiccional, lo elementos a su alcance en la protección de sus derechos, derivados de los procedimientos o procesos que afecten o puedan afectar a las personas adultas mayores;
 
 VI.- La comparecencia ante las autoridades o instituciones competentes;
 
@@ -679,9 +695,9 @@ X.- Que sean gestionadas ante las autoridades del Registro Civil, el registro ex
 
 XI.- Que sean llevados a cabo los censos estadísticos de los casos y asuntos que sobre las personas adultas mayores conozca; y ejecutará los programas de orientación y difusión de los derechos del mismo;
 
-XII.- Llevará un registro y vigilará el funcionamiento de las instituciones públicas y privadas que otorguen asistencia social a las personas adultas mayores, haciendo del conocimiento a la Secretaría de Salud sobre las irregularidades advertidas, a efecto de que ésta imponga las sanciones reglamentarias que para tal efecto se señalen, y
+XII.- Que sean impuestas previo procedimiento y derecho de audiencia del sancionado las sanciones administrativas que este ordenamiento establece; y,
 
-XIII.- Las demás que le confieran otros ordenamientos.
+XIII.- Las demás que le confiera la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia y otros ordenamientos.
 
 ## TÍTULO SEXTO. DEL CONSEJO ESTATAL PARA LA INTEGRACIÓN, ASISTENCIA, PROMOCIÓN Y DEFENSA DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
@@ -901,11 +917,13 @@ Concluido el período de recepción de pruebas o el término indicado en el art�
 
 Como medida de protección, razonadamente, se podrá separar preventivamente a la persona adulta mayor de su hogar, cuando a criterio de la Procuraduría existan motivos fundados que hagan presumir un peligro inmediato e inminente a su salud o seguridad.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
 
 ###### Artículo 61.
 
-Para los efectos del artículo anterior, la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia podrá tener la custodia de los adultos mayores en los establecimientos de asistencia social que brinden este servicio, hasta en tanto se resuelva la situación que originó la ejecución de esta medida.
+Para los efectos del artículo anterior, el Sistema para el Desarrollo integral de la Familia, podrá tener la custodia de los adultos mayores en los establecimientos de asistencia social que brinden este servicio, hasta en tanto se resuelva la situación que originó la ejecución de esta medida.
+
+Si el caso lo amerita, dará inmediata vista al Ministerio Público, para su intervención legal.
 
 ## TRANSITORIOS
 
@@ -1060,3 +1078,35 @@ SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deb
 SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
 
 OCTAVO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOSCIENTOS CUARENTA Y DOS.- POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; DE LA LEY DE ASISTENCIA SOCIAL Y CORRESPONDENCIA CIUDADANA PARA EL ESTADO DE MORELOS; DE LA LEY DE DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS; DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA FAMILIAR EN EL ESTADO DE MORELOS; LA LEY DE DESARROLLO, PROTECCIÓN Y ATENCIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS; LEY DE VÍCTIMAS DEL ESTADO DE MORELOS; LEY ESTATAL PARA LA CONVIVENCIA Y SEGURIDAD DE LA COMUNIDAD ESCOLAR; LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS, Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Una vez publicado el presente Decreto, dentro de los noventa días siguientes, contados a partir del inicio de vigencia, se deberán realizar las adecuaciones que se requieran a las Leyes y Reglamentos correspondientes para su armonización y, dentro del mismo término, la Fiscalía General deberá realizar las modificaciones necesarias a su Reglamento Interior.
+
+CUARTA. En mérito de lo anterior se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+QUINTA. De haber finalizado la entrega – recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial “Tierra y Libertad” 5611, los bienes muebles e inmuebles propiedad de la Fiscalía General del Estado de Morelos, que se han venido ocupando y administrando hasta ahora por la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y por la Dirección de Centros de Asistencia Social, así como por sus albergues o centros de asistencia social, deberán ser devueltos al Gobierno del Estado o del Sistema Estatal para el Desarrollo Integral de la Familia por virtud de este acto legislativo, y pasan a formar parte del patrimonio de estos últimos desde el momento de su entrada en vigor; para lo cual la Fiscalía General, deberá realizar, gestionar, emitir o celebrar todos los actos jurídicos y administrativos idóneos que resulten necesarios al efecto, conforme a la normativa aplicable.
+
+De forma complementaria, la Fiscalía General del Estado, debe realizar los actos jurídicos y administrativos, necesarios e idóneos, para lograr que los recursos humanos, materiales y financieros que ha ocupado y proyectado para el funcionamiento de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y los centros de asistencia social; se trasmitan al Gobierno del Estado o del Sistema Estatal para el Desarrollo Integral de la Familia, en virtud de esta reforma.
+
+SEXTA. Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y la Dirección de Centros de Asistencia Social, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora adscritas al Sistema Estatal para el Desarrollo Integral de la Familia, por virtud del presente Decreto.
+
+SÉPTIMA. Los asuntos que se encuentren en trámite o en proceso, incluidos los de adopciones, a cargo de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia o la Dirección de Centros de Asistencia Social, continuarán tramitándose por esta, hasta su conclusión y en los términos que establezca la normativa aplicable, sin que el cambio de su adscripción al Sistema Estatal para el Desarrollo Integral de la Familia pueda modificar o alterar su curso y resultado.
+
+OCTAVA. La Fiscalía General del Estado de Morelos y el Sistema Estatal para el Desarrollo Integral de la Familia, al realizar actuaciones para materializar el traslado de funciones y unidades a que se refiere el presente instrumento jurídico en caso de que se hubiere realizado la entrega – recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial “Tierra y Libertad” 5611, deberán velar por la seguridad, vida e integridad de las personas que se encuentren bajo su custodia en alguno de los albergues y centros de asistencia social que se encuentran a cargo de la Fiscalía.
+
+La Fiscalía General del Estado y el Sistema Estatal para el Desarrollo Integral de la Familia, una vez que entre en vigor el presente instrumento legislativo, deberán prestarse todas las facilidades para el traslado de los Albergues y Centros de Asistencia Social que hasta la presente reforma se encontraban a cargo de dicho Sistema.
+
+NOVENA. El personal de la Fiscalía General adscrito a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y la Dirección de Centros de Asistencia Social, que pase a formar parte del Sistema Estatal para el Desarrollo Integral de la Familia, en ninguna forma podrá resultar afectado en sus derechos; debiéndose tomar las acciones necesarias para ello. Si al momento de la entrada en vigor del presente Decreto se ha llevado a cabo la sustitución patronal ordenada en la disposición transitoria QUINTA del Decreto número tres mil cuatrocientos cuarenta y siete, publicado en el Periódico Oficial “Tierra y Libertad” 5628 en fecha 30 de agosto de 2018.
+
+DÉCIMA. En un plazo no mayor de 90 días hábiles, contados a partir de la vigencia del presente Decreto, el Titular del Poder Ejecutivo Estatal deberá realizar o emitir las adecuaciones reglamentarias que se estimen pertinentes conforme lo previsto en el presente Decreto.
+
+DÉCIMA PRIMERA. En un plazo no mayor de 90 días hábiles, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados.
+
+DÉCIMA SEGUNDA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto, en caso de que se hubiere realizado la entrega – recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial “Tierra y Libertad” 5611.
