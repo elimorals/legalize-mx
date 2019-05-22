@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-salud-del-estado-de-nuevo-leon-7631"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2019-05-13"
+last_updated: "2019-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -330,6 +330,10 @@ XX.- VIGILAR EN EL ÁMBITO DE SU COMPETENCIA, EL DEBIDO CUMPLIMIENTO DE LA LEY G
 > <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
 XXI.- GARANTIZAR LA PRESTACIÓN DE LOS SERVICIOS DE SALUD, CONFORME A LAS NECESIDADES DE SALUD DE LA POBLACIÓN DEL ESTADO, EN NIVEL DE ATENCIÓN REQUERIDA DE MANERA PERMANENTE Y CONSTANTE DURANTE TODO EL AÑO;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2019)</small>
+
+XXI BIS.- EN MATERIA DE SERVICIOS FUNERARIOS DE CREMACIÓN, VIGILAR EN EL ÁMBITO DE SU COMPETENCIA EL DEBIDO CUMPLIMIENTO DE LA LEY GENERAL DE SALUD, DE LAS NORMAS OFICIALES MEXICANAS; Y COORDINARSE CON LA SECRETARÍA DE DESARROLLO SUSTENTABLE PARA LA GENERACIÓN DE LA BASE DE DATOS DE LOS PRESTADORES DE SERVICIOS YA SEÑALADOS; ADEMÁS DE EMITIR EL REGLAMENTO CORRESPONDIENTE SOBRE LAS REGULACIONES SANITARIAS NECESARIAS;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MARZO DE 2019)</small>
 
@@ -2426,3 +2430,13 @@ P.O. 13 DE MAYO DE 2019.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Las acciones que realicen las dependencias de la Administración Pública del Estado y de los municipios para dar cumplimiento al presente Decreto, deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
+
+P.O. 22 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 122. SE ADICIONA LA FRACCIÓN XXI BIS AL ARTÍCULO 9º DE LA LEY ESTATAL DE SALUD; Y SE REFORMA POR MODIFICACIÓN LAS FRACCIONES LIII Y LIV Y POR ADICIÓN LA FRACCIÓN LV DEL ARTÍCULO 8 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Las Secretarías tendrán un plazo de 90 días naturales para la adecuación de sus Reglamentos y demás disposiciones normativas en razón de lo reformado por el presente Decreto.
+
+Tercero.- Las acciones que realicen las dependencias de la Administración Pública del Estado para dar cumplimiento al presente Decreto, deberán ajustarse en todo momento a lo señalado en los articulos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
