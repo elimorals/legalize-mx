@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2018-08-30"
+last_updated: "2019-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE NOVIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -2905,9 +2907,9 @@ II.- Que el adoptante sea persona de buenas costumbres, y disfrute de buena salu
 
 III.- Su identidad, antecedentes familiares, entorno social y motivos para adoptar, y
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-IV.- Que acepta expresamente, que la Fiscalía General del Estado, a través de la Procuraduría de la Defensa del Menor y la Familia, realice el seguimiento del otorgado en adopción, por el plazo establecido en el Reglamento para Adopción de Menores.
+IV.- Que acepta expresamente, que el Sistema para el Desarrollo Integral de la Familia en Morelos, a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, realice el seguimiento del otorgado en adopción, por el plazo establecido en el Reglamento para Adopción de Menores.
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2007)</small>
 
@@ -2963,11 +2965,13 @@ II.- La patria potestad se ejercerá en los términos y por las personas señala
 
 III.- El adoptado se integrará a la familia de los adoptantes, adquiriendo; lazos de parentesco con todos los parientes de éstos, como si hubiera filiación consanguínea; correlativamente se extinguirá toda relación de parentesco con sus padres naturales.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 369.
 
-INTERVENCIÓN DE LA FISCALÍA GENERAL DEL ESTADO. En todo procedimiento relativo a la adopción, se dará intervención como parte a la Fiscalía General del Estado, por conducto de la Procuraduría de la Defensa del Menor y la Familia. En caso de que la Procuraduría no acepte o consienta la adopción del menor o incapaz, deberá acreditar fehacientemente los motivos por los cuales considera no sea favorable dicha adopción, así como que acredite que el menor o incapaz se encontraría en peligro su desarrollo físico, mental o cualquiera otro motivo análogo.
+INTERVENCIÓN DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA. En todo procedimiento relativo a la adopción, se dará intervención como parte al Sistema para el Desarrollo Integral de la Familia por conducto de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia.
+
+En caso de que el Sistema para el Desarrollo Integral de la Familia no acepte o, consienta la adopción del menor o incapaz, deberá acreditar fehacientemente los motivos por los cuales considera no sea favorable dicha adopción, así como que acredite que el menor o incapaz se encontraría en peligro su desarrollo físico, mental o cualquiera otro motivo análogo.
 
 ###### ARTÍCULO 370.
 
@@ -2993,11 +2997,11 @@ Las adopciones internacionales siempre serán plenas.
 
 NACIONALIDAD DE LOS ADOPTANTES.- En igualdad de circunstancias se preferirá a los adoptantes mexicanos, salvo que quien ejerza la patria potestad o la tutela sobre el menor consienta en la adopción internacional. En tal caso, deberá obtener la autorización de la Fiscalía General del Estado, a través de la Procuraduría, la que tomará en cuenta el interés superior del niño.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 373.
 
-INTERVENCIÓN DE LA FISCALÍA GENERAL DEL ESTADO- Las adopciones internacionales promovidas por los ciudadanos originarios de los países que son parte de la Convención sobre Protección de Menores y Cooperación en Materia de Adopción Internacional, tendrán lugar cuando la Fiscalía General del Estado, a través de la Procuraduría, en su carácter de autoridad central, verifique y determine:
+INTERVENCIÓN DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN ADOPCIONES INTERNACIONALES.- Las adopciones internacionales promovidas por los ciudadanos originarios de los países que son parte de la Convención sobre Protección de Menores y Cooperación en Materia de Adopción Internacional, tendrán lugar cuando el Sistema para el Desarrollo Integral de la Familia del estado de Morelos, en su carácter de autoridad central, verifique y determine:
 
 I.- Que el menor es adoptable;
 
@@ -3007,15 +3011,15 @@ III.- Que las personas, instituciones y autoridades, cuyo consentimiento se requ
 
 IV.- Que las autoridades centrales del estado de origen de los solicitantes, acrediten que han constatado que los futuros padres adoptivos reúnen el perfil y características idóneas, están aptos para adoptar, y que el menor ha sido o será autorizado para entrar y residir permanentemente en ese país.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-V.- Que aceptan expresamente, que la Fiscalía General del Estado a través de la Procuraduría de la Defensa del Menor y la Familia, realice el seguimiento de la adopción, por el plazo establecido en el Reglamento de Adopciones.
+V.- Que aceptan expresamente, que el Sistema para el Desarrollo Integral de la Familia en Morelos a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, realice el seguimiento de la adopción, por el plazo establecido en el Reglamento de Adopciones.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 374.
 
-EFECTOS ANTE LAS DEPENDENCIAS ADMINISTRATIVAS.- Una vez declarada la adopción, el Juez de lo Familiar lo informará a la Fiscalía General del Estado, a través de la Procuraduría, a la Secretaría de Relaciones Exteriores y a la autoridad migratoria dependiente de la Secretaría de Gobernación, para los efectos legales y administrativos subsecuentes.
+EFECTOS ANTE LAS DEPENDENCIAS ADMINISTRATIVAS. Una vez declarada la adopción, el Juez de lo Familiar lo informará al Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, a la Secretaría de Relaciones Exteriores y a la autoridad migratoria dependiente de la Secretaría de Gobernación, para los efectos legales y administrativos subsecuentes.
 
 ### CAPÍTULO ÚNICO. DEL ESTADO DE INTERDICCIÓN
 
@@ -6601,10 +6605,42 @@ VIGÉSIMA SEGUNDA. El Fiscal General informará y realizará las acciones conduc
 
 P.O. 30 DE AGOSTO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRES MIL CUATROCIENTOS CINCUENTA POR EL QUE SE REFORMAN DIVERSAS LEYES Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, CON EL PROPÓSITO DE ARMONIZAR LA ADSCRIPCIÓN DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA, A LA FISCALÍA GENERAL DEL ESTADO DE MORELOS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRES MIL CUATROCIENTOS CINCUENTA POR EL QUE SE REFORMAN DIVERSAS LEYES Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, CON EL PROPÓSITO DE ARMONIZAR LA ADSCRIPCIÓN DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA, A LA FISCALÍA GENERAL DEL ESTADO DE MORELOS”.]
 
 PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOSCIENTOS CUARENTA Y DOS POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; DE LA LEY DE ASISTENCIA SOCIAL Y CORRESPONDENCIA CIUDADANA PARA EL ESTADO DE MORELOS; DE LA LEY DE DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS; DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA FAMILIAR EN EL ESTADO DE MORELOS; LA LEY DE DESARROLLO, PROTECCIÓN Y ATENCIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS; LEY DE VÍCTIMAS DEL ESTADO DE MORELOS; LEY ESTATAL PARA LA CONVIVENCIA Y SEGURIDAD DE LA COMUNIDAD ESCOLAR; LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS, Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Una vez publicado el presente Decreto, dentro de los noventa días siguientes, contados a partir del inicio de vigencia, se deberán realizar las adecuaciones que se requieran a las Leyes y Reglamentos correspondientes para su armonización y, dentro del mismo término, la Fiscalía General deberá realizar las modificaciones necesarias a su Reglamento Interior.
+
+CUARTA. En mérito de lo anterior se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+QUINTA. De haber finalizado la entrega - recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial "Tierra y Libertad" 5611, los bienes muebles e inmuebles propiedad de la Fiscalía General del Estado de Morelos, que se han venido ocupando y administrando hasta ahora por la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y por la Dirección de Centros de Asistencia Social, así como por sus albergues o centros de asistencia social, deberán ser devueltos al Gobierno del Estado o del Sistema Estatal para el Desarrollo Integral de la Familia por virtud de este acto legislativo, y pasan a formar parte del patrimonio de estos últimos desde el momento de su entrada en vigor; para lo cual la Fiscalía General, deberá realizar, gestionar, emitir o celebrar todos los actos jurídicos y administrativos idóneos que resulten necesarios al efecto, conforme a la normativa aplicable.
+
+De forma complementaria, la Fiscalía General del Estado, debe realizar los actos jurídicos y administrativos, necesarios e idóneos, para lograr que los recursos humanos, materiales y financieros que ha ocupado y proyectado para el funcionamiento de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y los centros de asistencia social; se trasmitan al Gobierno del Estado o del Sistema Estatal para el Desarrollo Integral de la Familia, en virtud de esta reforma.
+
+SEXTA. Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y la Dirección de Centros de Asistencia Social, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora adscritas al Sistema Estatal para el Desarrollo Integral de la Familia, por virtud del presente Decreto.
+
+SÉPTIMA. Los asuntos que se encuentren en trámite o en proceso, incluidos los de adopciones, a cargo de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia o la Dirección de Centros de Asistencia Social, continuarán tramitándose por esta, hasta su conclusión y en los términos que establezca la normativa aplicable, sin que el cambio de su adscripción al Sistema Estatal para el Desarrollo Integral de la Familia pueda modificar o alterar su curso y resultado.
+
+OCTAVA. La Fiscalía General del Estado de Morelos y el Sistema Estatal para el Desarrollo Integral de la Familia, al realizar actuaciones para materializar el traslado de funciones y unidades a que se refiere el presente instrumento jurídico en caso de que se hubiere realizado la entrega - recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial "Tierra y Libertad" 5611, deberán velar por la seguridad, vida e integridad de las personas que se encuentren bajo su custodia en alguno de los albergues y centros de asistencia social que se encuentran a cargo de la Fiscalía.
+
+La Fiscalía General del Estado y el Sistema Estatal para el Desarrollo Integral de la Familia, una vez que entre en vigor el presente instrumento legislativo, deberán prestarse todas las facilidades para el traslado de los Albergues y Centros de Asistencia Social que hasta la presente reforma se encontraban a cargo de dicho Sistema.
+
+NOVENA. El personal de la Fiscalía General adscrito a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y la Dirección de Centros de Asistencia Social, que pase a formar parte del Sistema Estatal para el Desarrollo Integral de la Familia, en ninguna forma podrá resultar afectado en sus derechos; debiéndose tomar las acciones necesarias para ello. Si al momento de la entrada en vigor del presente Decreto se ha llevado a cabo la sustitución patronal ordenada en la disposición transitoria QUINTA del Decreto número tres mil cuatrocientos cuarenta y siete, publicado en el Periódico Oficial "Tierra y Libertad" 5628 en fecha 30 de agosto de 2018.
+
+DÉCIMA. En un plazo no mayor de 90 días hábiles, contados a partir de la vigencia del presente Decreto, el Titular del Poder Ejecutivo Estatal deberá realizar o emitir las adecuaciones reglamentarias que se estimen pertinentes conforme lo previsto en el presente Decreto.
+
+DÉCIMA PRIMERA. En un plazo no mayor de 90 días hábiles, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados.
+
+DÉCIMA SEGUNDA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto, en caso de que se hubiere realizado la entrega - recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial "Tierra y Libertad" 5611.
