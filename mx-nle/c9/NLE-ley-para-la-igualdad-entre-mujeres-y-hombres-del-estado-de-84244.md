@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-8424
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-26"
-last_updated: "2019-04-01"
+last_updated: "2019-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 2011.
 
@@ -449,7 +449,9 @@ XV. Evaluar el cumplimiento de la observancia de la presente Ley;
 
 XVI. Elaborar y fomentar estándares que procuren la transmisión en los y (sic) órganos de comunicación social de los distintos entes públicos, de una imagen igualitaria, libre de estereotipos y plural de mujeres y hombres;
 
-XVII. Organizar a la sociedad civil en la participación de debates públicos con la finalidad de promover la igualdad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+
+XVII. Organizar a la Sociedad Civil en la participación de debates públicos con la finalidad de promover la igualdad entre las mujeres y hombres; con énfasis en que la participación de dichos debates tendrá como prioridad la construcción de propuestas viables para prevenir, combatir, atender y erradicar la violencia familiar y promover una vida en armonía en las familias;
 
 XVIII. Elaborar los lineamientos para las políticas estatales y municipales en materia de igualdad, en los términos de esta ley y demás ordenamientos aplicables;
 
@@ -1087,6 +1089,12 @@ P.O. 27 DE MARZO DE 2019.
 
 P.O. 1 DE ABRIL DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 109. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 6° DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 109. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 6° DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 22 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 123. SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 27 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
