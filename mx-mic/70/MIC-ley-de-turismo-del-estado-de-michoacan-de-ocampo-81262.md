@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-turismo-del-estado-de-michoacan-de-ocampo-81262"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-03"
-last_updated: "2018-10-17"
+last_updated: "2019-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
 
 Ley publicada en la Quinta Sección al Periódico Oficial del Estado de Michoacán, el martes 3 de mayo de 2011.
 
@@ -208,6 +208,14 @@ XXII. Las demás previstas en éste y otros ordenamientos.
 ###### ARTÍCULO 9.
 
 En aquellos casos en que para la debida atención de un asunto, por razón de la materia y de conformidad con las disposiciones legales aplicables, se requiera de la intervención de otras dependencias o entidades de la Administración Pública Estatal, la Secretaría ejercerá sus atribuciones en coordinación con las mismas.
+
+> <small>(ADICIONADO, 22 DE MAYO DE 2019)</small>
+
+En coordinación con el Instituto del Artesano Michoacano, se promoverá el desarrollo de rutas o corredores artesanales en los principales destinos turísticos del Estado, que permitan dar a conocer y propiciar la visita de los turistas a los espacios dedicados a la producción y/o comercialización de las artesanías de la región o de la localidad de que se trate.
+
+> <small>(ADICIONADO, 22 DE MAYO DE 2019)</small>
+
+Así mismo, impulsarán apoyos a los artesanos para la implementación de talleres turísticos artesanales, con el fin de configurar los espacios que permitan la convivencia entre el artesano y el visitante.
 
 ### CAPÍTULO IV. DE LOS MUNICIPIOS
 
@@ -617,7 +625,7 @@ Los recursos del Fondo Estatal Turístico podrán destinarse a:
 
 I. La realización de acciones de promoción, fomento y desarrollo turístico en el Estado;
 
-Il. La realización de proyectos en materia de turismo;
+II. La realización de proyectos en materia de turismo;
 
 III. Elaboración y difusión de campañas de publicidad turística nacional e internacional;
 
@@ -697,7 +705,7 @@ El Consejo Consultivo Turístico del Estado, es un órgano interinstitucional, d
 
 El Consejo estará integrado por:
 
-l. El Ejecutivo, quien fungirá como Presidente del Consejo;
+I. El Ejecutivo, quien fungirá como Presidente del Consejo;
 
 II. El Secretario de Turismo del Estado, quien fungirá como Secretario Técnico;
 
@@ -1059,7 +1067,7 @@ La Secretaría, formulará y aplicará una política estatal en materia de turis
 
 I. La preservación de los recursos culturales religiosos;
 
-Il. Elaboración y aplicación de programas para la promoción y difusión de los sitios religiosos existentes en el Estado, así como de las festividades religiosas que se celebran en los municipios que integran al mismo; y,
+II. Elaboración y aplicación de programas para la promoción y difusión de los sitios religiosos existentes en el Estado, así como de las festividades religiosas que se celebran en los municipios que integran al mismo; y,
 
 III. Promover que se dé la adecuada atención a peregrinos y turistas que acudan a los sitios religiosos o alguna festividad religiosa.
 
@@ -1135,7 +1143,7 @@ III. Proporcionar a la Secretaría la información y documentación requerida pa
 
 IV. Capacitar y adiestrar permanentemente a su personal, con el objeto de elevar la calidad y excelencia de los servicios prestados;
 
-V Bonificar o compensar la suma correspondiente al servicio incumplido, o en su caso, prestar otro servicio de la misma calidad o equivalencia al que hubiere incumplido, a elección del turista, salvo que haya sido sancionado en los términos de la Ley General;
+V. Bonificar o compensar la suma correspondiente al servicio incumplido, o en su caso, prestar otro servicio de la misma calidad o equivalencia al que hubiere incumplido, a elección del turista, salvo que haya sido sancionado en los términos de la Ley General;
 
 VI. Ostentarse y promoverse sólo con la categoría que, con base en los criterios nacionales e internacionales, se encuentre registrado en la Secretaría;
 
@@ -1368,3 +1376,9 @@ P.O. 17 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 643 POR EL QUE “SE ADICIONA EL CAPÍTULO VI AL TÍTULO VIII, ASÍ COMO EL ARTÍCULO 110 BIS, A LA LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para su conocimiento y efectos conducentes.
+
+P.O. 22 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 126 POR EL QUE “SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 9 DE LA LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
