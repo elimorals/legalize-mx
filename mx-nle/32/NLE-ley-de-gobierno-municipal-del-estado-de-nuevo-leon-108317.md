@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-gobierno-municipal-del-estado-de-nuevo-leon-108317"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-27"
-last_updated: "2018-04-27"
+last_updated: "2019-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de mayo de 2015.
 
@@ -439,9 +439,17 @@ a) Emitir las convocatorias y las normas para los mecanismos de participación c
 
 b) Fomentar la participación social y comunitaria en la toma de decisiones de gobierno, estableciendo medios institucionales de consulta;
 
-c) Fomentar la participación de la comunidad en los programas de obras y servicios públicos, así como en los de desarrollo municipal; y
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
 
-d) Formular programas de organización y participación social.
+c) Fomentar la participación de la comunidad en los programas de obras y servicios públicos, así como en los de desarrollo municipal;
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
+
+d) Formular programas de organización y participación social; y
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2019)</small>
+
+e) Fomentar la vinculación de la participación ciudadana para la solución de conflictos vecinales o comunitarios por medio de los Centros de Mediación Municipal que al efecto establezca el Ayuntamiento.
 
 VIII. En materia de Cultura Municipal:
 
@@ -1939,6 +1947,14 @@ El Ayuntamiento está obligado a promover entre sus habitantes las formas de par
 
 Además de las formas de participación ciudadana establecidas en este título, el Ayuntamiento podrá disponer de cualquier otro mecanismo que tienda al fortalecimiento de la participación ciudadana.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2019)</small>
+
+Los Ayuntamientos podrán crear un Centro de Mediación, debidamente certificado y con personal capacitado por el Poder Judicial del Estado o la dependencia que le corresponda dicha atribución, y cuya función principal será la de coadyuvar a la resolución de diferencias, conflictos o controversias preferentemente vecinales o comunitarias, mediante la mediación como mecanismo alternativo de solución de conflictos, en el cual no afecte derechos de terceros o implique la contravención de alguna disposición legal o reglamentaria.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2019)</small>
+
+Cada Ayuntamiento, de acuerdo a su posibilidad presupuestal, podrá crear uno o más Centros de Mediación, o bien facilitadores autorizados para tales efectos.
+
 ###### ARTÍCULO 163.
 
 El Ayuntamiento reglamentará la participación ciudadana, atendiendo a los siguientes principios rectores: transparencia, coordinación, autonomía, responsabilidad, objetividad, legalidad, imparcialidad, participación, igualdad, tolerancia, eficacia, eficiencia, equidad, competitividad y el respeto a los acuerdos.
@@ -2542,3 +2558,11 @@ P.O. 27 DE ABRIL DE 2018.
 Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Los Municipios del Estado, en un plazo no mayor a 30 días hábiles a la entrada en vigor del presente Decreto, deberán de realizar las modificaciones y en un plazo de 90 días hábiles posteriores a sus reformas, crear el padrón de lotes y casas abandonadas que sean detectadas en el Municipio.
+
+P.O. 22 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 125. SE REFORMAN LOS INCISOS C) Y D) Y POR ADICIÓN DE UN INCISO E) AL ARTÍCULO 33 FRACCIÓN VII, POR ADICIÓN DE LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 162, AMBOS DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los Ayuntamientos en un término de noventa días naturales contados a partir de la publicación de este Decreto, deberán adecuar sus reglamentos municipales respectivos de conformidad a lo establecido en el mismo.
