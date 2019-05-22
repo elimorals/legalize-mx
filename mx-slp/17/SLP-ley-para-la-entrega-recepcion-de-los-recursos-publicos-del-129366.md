@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-entrega-recepcion-de-los-recursos-publicos-del-1293
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-21"
-last_updated: "2019-03-22"
+last_updated: "2019-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 21 de junio de 2018.
 
@@ -161,6 +161,10 @@ a) En el Congreso del Estado;
 
 5. Directores, subdirectores o su equivalente;
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2019)</small>
+
+6. Titular de la Unidad de Evaluación y Control;
+
 b) En la Auditoría Superior del Estado:
 
 1. Auditor Superior del Estado.
@@ -181,7 +185,7 @@ II. En el Poder Ejecutivo:
 
 a) El titular del Poder Ejecutivo.
 
-b) El Fiscal General del Estado y los fiscales especializados.
+b) (DEROGADO, P.O. 22 DE MAYO DE 2019)
 
 c) Los Titulares de las entidades de la administración pública centralizada y desconcentrada.
 
@@ -233,21 +237,29 @@ f) Subdirectores.
 
 g) Jefes de departamento u oficina.
 
-h) Servidores públicos que tengan a su cargo recursos públicos;
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2019)</small>
+
+h) Delegados Municipales.
+
+i) Servidores públicos que tengan a su cargo recursos públicos;
 
 V. En los organismos públicos autónomos, paraestatales y paramunicipales:
 
 a) Titulares o equivalentes de los organismos públicos autónomos y descentralizados.
 
-b) Los Directores Generales o su equivalente en los organismos públicos, paraestatales y paramunicipales.
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2019)</small>
 
-c) Directores o sus equivalentes.
+b) El Fiscal General del Estado, y los Fiscales Especializados.
 
-d) Subdirectores o sus equivalentes.
+c) Los Directores Generales o su equivalente en los organismos públicos, paraestatales y paramunicipales.
 
-e) Jefes de departamento u oficina.
+d) Directores o sus equivalentes.
 
-f) Aquéllos que tengan a su cargo recursos públicos;
+e) Subdirectores o sus equivalentes.
+
+f) Jefes de departamento u oficina.
+
+g) Aquéllos que tengan a su cargo recursos públicos;
 
 VI. Cualquier persona física que ocupe un empleo, cargo o comisión de cualquier naturaleza dentro de los entes previstos en los artículos 64 y 65 de la Ley Orgánica de la Administración Pública del Estado así como de los previstos en el artículo 104 de la Ley Orgánica del Municipio Libre del Estado de san Luis Potosí, que en el marco de sus atribuciones y funciones le corresponda administrar, aplicar o recibir por cualquier título recursos públicos.
 
@@ -285,7 +297,9 @@ I. En el Poder Legislativo:
 
 a) El Presidente de la Junta de Coordinación política.
 
-b) El Presidente de la Mesa Directiva de la Legislatura saliente.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
+
+b) El Presidente de la Directiva de la Legislatura saliente.
 
 c) El contralor Interno.
 
@@ -395,11 +409,15 @@ Los servidores públicos salientes estarán obligados a proporcionar a los servi
 
 #### Sección Primera. Del ejercicio Constitucional
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 17.
 
-El proceso de entrega-recepción de un ejercicio constitucional deberá iniciarse en forma conjunta por la autoridad pública saliente y la entrante a más tardar 20 días hábiles (sic) partir de que la autoridad entrante haya sido legalmente reconocida por la autoridad competente.
+El proceso de entrega-recepción de un ejercicio constitucional deberá iniciarse en forma conjunta por la autoridad pública saliente y la entrante, a más tardar cuarenta y cinco días naturales previos a la fecha en que el servidor público entrante deba rendir la protesta de ley.
 
-Una vez reconocidos legalmente, la autoridad pública entrante designará una comisión de recepción, para que en coordinación con la autoridad saliente, realicen las actividades previas e integración del expediente de entrega-recepción en términos de la presente Ley, dando cuenta en todo momento al órgano interno de control competente.
+Una vez reconocidos legalmente por la autoridad competente, la autoridad pública entrante designará una comisión de recepción para que, en coordinación con la autoridad saliente, realicen las actividades previas e integración del expediente de entrega-recepción en términos de la presente Ley, dando cuenta en todo momento al órgano interno de control competente.
+
+Cuando por resolución judicial se modifique el resultado de la elección de un servidor público, teniendo como efecto la elección de otro, la autoridad saliente dentro de los cinco días naturales siguientes a que tenga conocimiento de la resolución, tendrá la obligación de proporcionarle toda la información relativa a la integración del expediente de entrega-recepción.
 
 ###### ARTÍCULO 18.
 
@@ -823,7 +841,9 @@ d) El dictamen de la Comisión de Vigilancia respecto del resultado de la revisi
 
 II. Fase de presentación del paquete de entrega-recepción que realice la Comisión Instaladora a la Presidencia de la Mesa Directiva de la Legislatura entrante, en la Sesión Solemne correspondiente al inicio del ejercicio constitucional;
 
-III. Fase de revisión y cotejo del paquete documental de entrega-recepción por parte de la Mesa Directiva y las Comisiones de Hacienda y Vigilancia, y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+
+III. Fase de revisión y cotejo del paquete documental de entrega-recepción por parte de la Directiva y las comisiones de, Hacienda del Estado, y Vigilancia, y
 
 IV. Fase de aprobación del paquete de entrega-recepción por parte del Pleno de la Legislatura. Además de las disposiciones previstas en esta Ley, el Poder Legislativo deberá observar lo dispuesto en la Ley Orgánica del Poder Legislativo y su Reglamento Interno.
 
@@ -1024,3 +1044,11 @@ P.O. 22 DE MARZO DE 2019.
 Primero. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0169 BIS.- SE REFORMAN LOS ARTÍCULOS 10, 17, Y 50; Y ADICIONA AL ARTÍCULO 7°; ASÍ MISMO, SE DEROGA DEL ARTÍCULO 7° EN SU FRACCIÓN II EL INCISO B), DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
