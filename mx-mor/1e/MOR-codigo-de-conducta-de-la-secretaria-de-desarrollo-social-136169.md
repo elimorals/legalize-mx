@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-secretaria-de-desarrollo-social-136169
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-15"
-last_updated: "2019-05-15"
+last_updated: "2019-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE DESARROLLO SOCIAL DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE MAYO DE 2019 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE MORELOS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE MAYO DE 2019.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 15 de mayo de 2019.
 
@@ -233,4 +233,6 @@ Dado en la Secretaría de Desarrollo Social, en la ciudad de Cuernavaca, Morelos
 
 C. GILBERTO ALCALÁ PINEDA, Secretario de Desarrollo Social.
 
-La presente hoja de firmas forma parte integral del Reglamento Interior de la Secretaría de Desarrollo Social. (sic)
+> <small>(F. DE E., P.O. 22 DE MAYO DE 2019)</small>
+
+La presente hoja de firmas forma parte integral del Código de Conducta de la Secretaría de Desarrollo Social.
