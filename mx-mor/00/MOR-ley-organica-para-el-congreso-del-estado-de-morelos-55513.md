@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2018-09-14"
+last_updated: "2019-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -65,25 +65,29 @@ El Congreso del Estado, procurará un orden público, justo y eficaz, mediante l
 
 La aprobación de la presente Ley y de su Reglamento; así como sus reformas y adiciones, no está sujeta al veto del Ejecutivo, ni requerirá de promulgación expresa por parte del mismo para tener vigencia. El Congreso del Estado, una vez aprobada, ordenará su publicación en el Periódico Oficial "Tierra y Libertad" y en la gaceta legislativa, solo con el objeto de su divulgación.
 
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 22 DE MAYO DE 2019)</small>
+
 Para efectos de la presente Ley se entenderá por:
 
-Congreso del Estado: El Poder Legislativo del Estado de Morelos.
+I. Asamblea: Reunión mayoritaria de los Diputados integrantes de la legislatura;
 
-Recinto Legislativo: Las instalaciones del Congreso del Estado, en las que se encuentran las áreas legislativas y administrativas en su conjunto.
+II. Conferencia: Conferencia para la Dirección y Programación de los Trabajos Legislativos;
 
-Sesión: Reunión de los diputados que integran la legislatura en el lugar y la fecha formalmente convocados y con el quórum establecidos por la ley.
+III. Congreso del Estado, al Poder Legislativo del Estado de Morelos;
 
-Asamblea: Reunión mayoritaria de los diputados integrantes de la legislatura.
+IV. Diputado Independiente, a la Diputada o Diputado que resultó electo siendo postulado como candidato independiente, en los términos de la legislación correspondiente;
 
-Salón de Plenos: Espacio físico en donde se realizan las sesiones del Congreso del Estado.
+V. Diputado sin partido, a la Diputada o el Diputado que ha dejado de pertenecer a un grupo o fracción parlamentaria;
 
-Legislatura: El periodo constitucional de tres años para el que fueron electos los diputados.
+VI. Entidades Fiscalizadas: Los poderes del Estado de Morelos, el Tribunal Electoral, Municipios Libres, organismos autónomos, entidades públicas, servidores públicos, personas físicas o morales públicas o privadas, fideicomisos, mandatos, fondos o cualquier otra figura jurídica que por su naturaleza o concepto reciba, administre o ejerza recursos públicos;
 
-Conferencia: Conferencia para la Dirección y Programación de los Trabajos Legislativos.
+VII. Legislatura: El periodo constitucional de tres años para el que fueron electos los Diputados;
 
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
+VIII. Recinto Legislativo: Las instalaciones del Congreso del Estado, en las que se encuentran las áreas legislativas y administrativas en su conjunto;
 
-Entidades Fiscalizadas: Los poderes del Estado de Morelos, el Tribunal Electoral, Municipios Libres, organismos autónomos, entidades públicas, servidores públicos, persona (sic) físicas o morales públicas o privadas, fideicomisos, mandatos, fondos o cualquier otra figura jurídica que por su naturaleza o concepto reciba, administre o ejerza recursos públicos.
+IX. Salón de Plenos: Espacio físico en donde se realizan las sesiones del Congreso del Estado; y,
+
+X. Sesión: Reunión de los Diputados que integran la legislatura en el lugar y la fecha formalmente convocados y con el quórum establecidos (sic) por la ley.
 
 ###### Artículo 5.
 
@@ -437,29 +441,39 @@ Dicha sanción pecuniaria, no exime al infractor, en su caso, de otras sanciones
 
 Los grupos parlamentarios son las formas de organización que adoptarán los diputados para realizar tareas específicas, coadyuvar al mejor desarrollo del proceso legislativo, expresar las corrientes políticas y de opinión presentes en el Congreso del Estado, así como para facilitar la participación de los diputados en las tareas legislativas, mismos que deberán estar formados cuando menos por dos diputados.
 
-Cuando un partido político o coalición obtenga una curul en el Congreso del Estado, se considerará como fracción parlamentaria.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
+
+Cuando un partido político, coalición o candidato independiente obtenga una curul en el Congreso del Estado, se considerará como fracción parlamentaria.
 
 ###### Artículo 28.
 
 Los diputados electos bajo las siglas de un mismo partido, en un número de dos o más, constituirán un grupo parlamentario.
 
-Solo podrá existir un grupo parlamentario por cada partido político con representación en el Congreso del Estado. Cuando uno o más diputados de un mismo partido dejen de pertenecer a un grupo parlamentario, podrán integrarse a otro de diferente partido en cualquier momento; si no lo hacen, serán considerados como diputados independientes.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
+
+Solo podrá existir un grupo parlamentario por cada partido político con representación en el Congreso del Estado. Cuando uno o más Diputados de un mismo partido dejen de pertenecer a un grupo parlamentario, podrán integrarse a otro de diferente partido; si no lo hacen, serán considerados como Diputados sin partido.
 
 Si un diputado se separa o es separado del grupo parlamentario al que pertenece, el coordinador del grupo parlamentario, enviará la propuesta de sustitución en los cargos de las comisiones o comités de los que formaba parte.
 
-A los diputados independientes deberán guardarse las consideraciones que a todos los legisladores se les otorga para desempeñar sus funciones parlamentarias.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2009)</small>
+A los Diputados sin partido deberán guardarse las consideraciones que a todos los legisladores se les otorga para desempeñar sus funciones parlamentarias.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
 
 ###### Artículo 29.
 
-Los grupos parlamentarios deberán presentar a la Mesa Directiva electa, el acta en la que conste el nombre y firma de sus miembros, así como la designación de su coordinador y/o vice coordinador en su caso, con la finalidad de que el Presidente de la Mesa Directiva haga la verificación correspondiente.
+Previo a la Sesión de Instalación del primer periodo de cada año legislativo, los grupos parlamentarios deberán presentar a la Mesa Directiva electa, el acta en la que conste el nombre y firma de sus miembros, así como la designación de su coordinador y vice coordinador en su caso, con la finalidad de que el Presidente de la Mesa Directiva haga la verificación correspondiente.
 
-En la sesión de instalación, el Presidente de la Mesa Directiva hará la declaratoria de la integración de los grupos parlamentarios para los efectos legales correspondientes.
+En la Sesión de instalación del primer periodo de cada año legislativo, el Presidente de la Mesa Directiva hará la declaratoria de la integración de los grupos parlamentarios para los efectos legales correspondientes.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
 
 ###### Artículo 30.
 
-Cualquier modificación a la estructura original de los grupos parlamentarios, deberá hacerse del conocimiento de la Junta Política y de Gobierno y del Presidente de la Mesa Directiva, quien dará cuenta de ello al Pleno del Congreso del Estado, para los efectos legales correspondientes.
+Cualquier modificación a la estructura original de los grupos parlamentarios, deberá hacerse del conocimiento de la Junta Política y de Gobierno y del Presidente de la Mesa Directiva.
+
+En la Sesión de Instalación del primer periodo de cada año legislativo, el Presidente de la Mesa Directiva hará la declaratoria de la modificación en la integración de los grupos parlamentarios, surtiendo sus efectos a partir de ese momento.
 
 ###### Artículo 31.
 
@@ -709,11 +723,11 @@ La Junta Política y de Gobierno contará con un Secretario Técnico, que tendr�
 
 A las sesiones de la Junta Política y de Gobierno deberá asistir el Secretario de Servicios Legislativos y Parlamentarios con voz pero sin voto para proporcionar la información que se le requiera de la dependencia a su cargo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2019)</small>
 
 ###### Artículo 46.
 
-La Junta Política y de gobierno, se integrará por:
+La Junta Política y de Gobierno, se integrará por:
 
 I. Los Diputados Coordinadores de cada uno de los grupos parlamentarios;
 
@@ -723,9 +737,9 @@ II. Los Diputados cuyo partido político no integren grupo parlamentario y esté
 
 III. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2010)
 
-> <small>(ADICIONADA [N. DE E. REFORMADO ANTES SEGUNDO PÁRRAFO], P.O. 17 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-IV. La Presidencia de la Junta Política y de gobierno será rotativa y anual, el Pleno del Congreso, por el voto de las dos terceras partes de sus integrantes, designará al grupo parlamentario que deba presidirla, siempre y cuando el Grupo Parlamentario esté integrado por lo menos del veinte por ciento de los diputados integrantes de la Legislatura.
+IV. La Presidencia de la Junta Política y de gobierno será rotativa y anual, al (sic) Pleno del Congreso, por el voto de las dos terceras partes de sus integrantes, designará al grupo parlamentario que deba presidirla, siempre y cuando el Grupo Parlamentario esté integrado por lo menos del quince por ciento de los Diputados integrantes de la Legislatura.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2016)</small>
 
@@ -2950,3 +2964,9 @@ TERCERA.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto 
 CUARTA.- Los Órganos de Gobierno del Congreso del Estado instrumentarán los cambios administrativos que se requieran para dar cumplimiento al presente decreto
 
 QUINTA.- La Junta Política y de Gobierno propiciará la integración de Comisiones, mediante propuesta que sé que (sic) presentará al Pleno.
+
+P.O. 22 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO CIEN POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), todos de la Constitución Política del Estado Libre y Soberano de Morelos.
