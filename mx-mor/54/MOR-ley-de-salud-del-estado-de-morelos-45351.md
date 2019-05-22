@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2018-09-26"
+last_updated: "2019-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -451,7 +451,9 @@ Los integrantes del Consejo, deberán designar suplentes para que los represente
 
 El Consejo Estatal de Salud, sesionará de manera ordinaria por lo menos dos veces al año y de manera extraordinaria cuantas veces sea necesario. Los acuerdos serán tomados por mayoría de votos y, en caso de empate, el Presidente del Consejo tendrá voto de calidad.
 
-Las Sesiones del Consejo se ajustarán a lo dispuesto por el artículo 82, de la Ley Orgánica de la Administración Pública del Estado de Morelos y, en lo aplicable, por el Acuerdo que establece los Lineamientos para la Convocatoria y Desarrollo de las Sesiones Ordinarias y Extraordinarias de los Órganos de Gobierno Colegiados de la Administración Central y de los Organismos Auxiliares que integran el sector paraestatal del Estado de Morelos; o, en su caso, al ordenamiento legal que regule tales actividades.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
+
+Las Sesiones del Consejo se ajustarán a lo dispuesto por el artículo 80, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos y, en lo aplicable, por el Acuerdo que establece los Lineamientos para la Convocatoria y Desarrollo de las Sesiones Ordinarias y Extraordinarias de los Órganos de Gobierno Colegiados de la Administración Central y de los Organismos Auxiliares que integran el sector paraestatal del Estado de Morelos; o, en su caso, al ordenamiento legal que regule tales actividades.
 
 ###### Artículo 22.
 
@@ -2079,7 +2081,9 @@ IV.- La atención a la salud de los damnificados en albergues será a través de
 
 Para los efectos de esta Ley, se entiende por asistencia social, el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social, que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr incorporación a una vida plena y productiva.
 
-Serán objeto de esta Ley los servicios asistenciales que se presten tanto en las instituciones públicas como privadas y deberá apegarse a lo estipulado en la Ley de Asistencia Social del estado de Morelos y a la Ley de Atención Integral para las Personas con Discapacidad en el Estado de Morelos.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
+
+Serán objeto de esta Ley los servicios asistenciales que se presten tanto en las instituciones públicas como privadas y deberá apegarse a lo estipulado en la Ley de Asistencia Social del estado de Morelos y a la Ley de Atención Integral para Personas con Discapacidad en el Estado de Morelos.
 
 ###### Artículo 153.
 
@@ -4620,3 +4624,13 @@ Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su 
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE MAYO DE 2019.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO DOSCIENTOS TRECE.- POR EL QUE SE REFORMA LA LEY DE SALUD DEL ESTADO DE MORELOS”.]</small>
+
+PRIMERA.- Aprobado que sea el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del gobierno del estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones que se opongan al presente Decreto.
