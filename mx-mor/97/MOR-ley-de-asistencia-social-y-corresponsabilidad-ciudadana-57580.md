@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-asistencia-social-y-corresponsabilidad-ciudadana-57580"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2019-04-10"
+last_updated: "2019-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE NOVIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de noviembre de 2007.
 
@@ -199,11 +201,15 @@ Las instituciones particulares podrán prestar los servicios de asistencia socia
 
 ### CAPÍTULO V. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MORELOS
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 15.
 
-El Poder Ejecutivo del Estado contará con un organismo público descentralizado, con personalidad jurídica y patrimonio propio, que se denominará Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, el cual será el organismo rector de la asistencia social en la Entidad, y tendrá como objetivos, la prestación de servicios en ese campo, promoción de la asistencia social y el incremento de las acciones coordinadas que en la materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establece esta Ley, con la finalidad de fortalecer a la familia, mediante consensos ciudadanos y políticas públicas que permitan concretar el desarrollo comunitario y familiar en todos los municipios de la entidad.
+El Poder Ejecutivo del Estado, contará con un organismo público descentralizado, con personalidad jurídica y patrimonio propio, que se denominará Sistema para el Desarrollo Integral de la Familia del Estado de Morelos el cual será el organismo rector de la asistencia social en la Entidad, y tendrá como objetivos, la prestación de servicios en ese campo, promoción de la asistencia social y el incremento de las acciones coordinadas que en la materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establece esta Ley, con la finalidad de fortalecer a la familia, mediante consensos ciudadanos y políticas públicas que permitan concretar el desarrollo comunitario y familiar en todos los municipios de la entidad.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2019)</small>
+
+El Sistema podrá celebrar convenios con los Sistemas municipales para el Desarrollo Integral de la Familia del Estado de Morelos, con el fin de crear delegaciones regionales y municipales de la Procuraduría de Protección de las Niñas, Niños y adolescentes y la Familia.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO NO. 3450 PUBLICADO EN EL P.O. DE 30 DE AGOSTO DE 2018, Y EN ATENCIÓN AL CONSIDERANDO NÚMERO "IV.- VALORACIÓN DE LA INICIATIVA" RELATIVA AL TEMA DE LA ADSCRIPCIÓN DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA FAMILIA A LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; SE ADVIERTE QUE LA LIII LEGISLATURA NO SÓLO DEROGÓ LA FRACCIÓN XIII DEL PRESENTE ARTÍCULO SINO INCLUSIVE PUBLICÓ DIVERSAS FRACCIONES QUE PERTENECÍAN AL TEXTO ORIGINAL CON MODIFICACIONES; POR LO QUE SE SUGIERE CONSULTAR LA CRONOLOGÍA DE ESTE ARTÍCULO. NO IDENTIFICÁNDOSE FE DE ERRATAS POSTERIOR AL DECRETO CITADO.]</small>
 
@@ -261,11 +267,13 @@ XI.- Llevar a cabo todas las funciones inherentes a la autorización, inspecció
 
 XII.- Fomentar, apoyar, coordinar, evaluar y supervisar las actividades que lleven a cabo las instituciones o asociaciones civiles y todo tipo de entidades privadas, cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias;
 
-XIII.- (DEROGADA, P.O. 30 DE AGOSTO DE 2018)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+XIII.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono o maltrato, de adultos mayores desamparados, personas con discapacidad mental o física y mujeres receptoras de violencia familiar;
 
-XIV.- Procurar, de acuerdo con los programas y recursos disponibles, mantener en permanente funcionamiento los establecimientos del Sistema, tales como: Centros de Desarrollo, Guarderías, Centros de Bienestar Familiar, Centros de Atención al Adulto Mayor y demás que se pongan en operación;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+
+XIV.- Procurar, de acuerdo a los programas y recursos disponibles, mantener en permanente funcionamiento los establecimientos del Sistema, tales como: Centros de Desarrollo, Guarderías, Centros de Bienestar Familiar, Centros de Atención al Adulto Mayor, albergues, y demás que se pongan en operación;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2018)</small>
 
@@ -279,59 +287,51 @@ XVI.- Llevar a cabo acciones de alimentación complementaria a personas de escas
 
 XVII.- Realizar estudios e investigaciones sobre asistencia social, con la participación en su caso, de las autoridades asistenciales del Gobierno del Estado, de los Municipios y organizaciones de la sociedad civil;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-XVIII.- Promover, realizar y certificar la capacitación de recursos humanos para la asistencia social;
+XVIII.- Elaborar y proponer los reglamentos que se requieran en la materia, observando su estricto cumplimiento;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-XIX.- Operar el Sistema Estatal de Información en Materia de Asistencia Social a que se refiere la fracción VI del Artículo 12 de esta Ley;
+XIX.- Promover, realizar y certificar la capacitación de recursos humanos para la asistencia social;
 
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN III DEL ARTÍCULO 36 TER.]</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
+XX.- Operar el Sistema Estatal de Información en Materia de Asistencia Social a que se refiere la fracción VI del Artículo 12 de esta Ley;
 
-XX.- Prestar servicios de asistencia psicológica, representación jurídica y de orientación social a menores, personas receptoras de violencia familiar y víctimas de delitos sexuales, adultos mayores y personas con discapacidad sin recursos;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN IV DEL ARTÍCULO 36 TER.]</small>
+XXI.- Prestar servicios de asistencia psicológica, representación jurídica y de orientación social a menores, personas receptoras de violencia familiar y víctimas de delitos sexuales, adultos mayores y personas con discapacidad sin recursos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-XXI.- Fomentar acciones de paternidad responsable que propicie la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental;
+XXII.- Fomentar acciones de paternidad responsable que propicien la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental;
 
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN V DEL ARTÍCULO 36 TER.]</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
+XXIII.- Apoyar el ejercicio de la tutela de los incapaces, que corresponda al Estado, en los términos del Código Familiar para el Estado Libre y Soberano de Morelos;
 
-XXII.- Apoyar el ejercicio de la tutela de los incapaces, que corresponda al Estado, en los términos del Código Familiar para el Estado Libre y Soberano de Morelos;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN VI DEL ARTÍCULO 36 TER.]</small>
+XXIV.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-XXIII.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
+XXV.- Realizar estudios e investigaciones en materia de prevención, atención y rehabilitación de discapacidad;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-XXIV.- Realizar estudios e investigaciones en materia de prevención, atención y rehabilitación de discapacidad;
+XXVI.- Participar en programas de rehabilitación y educación especial;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-XXV.- Participar en programas de rehabilitación y educación especial;
+XXVII.- Proponer a las autoridades correspondientes la adaptación y readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de las personas con discapacidad;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2019)</small>
 
-XXVI.- Proponer a las autoridades correspondientes la adaptación y readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de las personas con discapacidad;
+XXVIII.- Los servicios de representación jurídica que para los efectos de esta Ley se requieran, serán prestados por la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia; y,
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2018)</small>
-
-XXVII.- Elaborar y proponer los reglamentos que se requieran en la materia, observando su estricto cumplimiento, y
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2018)</small>
-
-XXVIII.- DEROGADA.
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE MAYO DE 2019)</small>
 
 XXIX.- Las demás que establezcan las disposiciones aplicables en la materia.
 
@@ -681,33 +681,7 @@ ARTÍCULO 36 BIS.- Los supuestos no previstos en la Ley Orgánica de la Administ
 
 ### CAPÍTULO V BIS. DE LAS ATRIBUCIONES DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS EN MATERIA DE ASISTENCIA SOCIAL
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2018)</small>
-
-ARTÍCULO 36 TER.- La Fiscalía General del Estado de Morelos, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes y la Familia, ejercerá las siguientes atribuciones en materia de asistencia social:
-
-I.- Integrará el Sistema Estatal de Asistencia Social a que refiere el artículo 7 de la presente Ley;
-
-II.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono o maltrato, de adultos mayores desamparados, personas con discapacidad mental o física y mujeres receptoras de violencia familiar;
-
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN XX DEL ARTÍCULO 16, P.O. 30 DE AGOSTO DE 2018.]</small>
-
-III.- Prestar servicios de asistencia psicológica, representación jurídica y de orientación social a menores, personas receptoras de violencia familiar y víctimas de delitos sexuales, adultos mayores y personas con discapacidad sin recursos;
-
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN XXI DEL ARTÍCULO 16, P.O. 30 DE AGOSTO DE 2018.]</small>
-
-IV.- Fomentar acciones de paternidad responsable que propicien la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental;
-
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN XXII DEL ARTÍCULO 16, P.O. 30 DE AGOSTO DE 2018.]</small>
-
-V.- Apoyar el ejercicio de la tutela de los incapaces, que corresponda al Estado, en los términos del Código Familiar para el Estado Libre y Soberano de Morelos;
-
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN XXIII DEL ARTÍCULO 16, P.O. 30 DE AGOSTO DE 2018.]</small>
-
-VI.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
-
-VII.- Ejercer los servicios de representación jurídica que para los efectos de esta Ley se requieran; y
-
-VIII.- Las demás que establezcan las disposiciones aplicables en la materia.
+ARTÍCULO 36 TER.- (DEROGADO, P.O. 22 DE MAYO DE 2019)
 
 ### CAPÍTULO VI. DEL CONSEJO CONSULTIVO DE ASISTENCIA SOCIAL PARA EL ESTADO DE MORELOS
 
@@ -841,15 +815,7 @@ VII.- Otras actividades que coadyuven a la protección de la salud.
 
 ### CAPÍTULO VIII BIS. DE LOS CENTROS DE ASISTENCIA SOCIAL
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2018)</small>
-
-ARTÍCULO 48 BIS.- Los Centros de Asistencia Social son los establecimientos, lugares o espacios que brindan instituciones públicas, privadas y asociaciones, para el cuidado alternativo o acogimiento residencial de niñas, niños y adolescentes sin cuidado parental o familiar, adultos mayores desamparados, personas con discapacidad mental o física y mujeres receptoras de violencia familiar, o cualquier otra persona en condiciones de vulnerabilidad.
-
-Para el cumplimiento de sus atribuciones, así como lo previsto en esta Ley tanto el Sistema como la Fiscalía General del Estado de Morelos, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes y la Familia, podrán contar con Centros de Asistencia Social.
-
-Corresponde a la Procuraduría de Protección de Niñas, Niños y Adolescentes y la Familia, en coordinación con la Procuraduría de Protección Federal, la autorización, registro, certificación y supervisión de los Centros de Asistencia Social.
-
-Corresponde a la Procuraduría de Protección de Niñas, Niños y Adolescentes y la Familia, en coordinación con la Procuraduría de Protección Federal y demás instituciones a nivel Internacional, la implementación de familias de acogida a favor de niñas, niños y adolescentes del estado de Morelos.
+ARTÍCULO 48 BIS.- (DEROGADO, P.O. 22 DE MAYO DE 2019)
 
 ### CAPÍTULO IX. DE LAS INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADAS
 
@@ -1156,3 +1122,35 @@ SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deb
 SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
 
 OCTAVO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOSCIENTOS CUARENTA Y DOS POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS; DE LA LEY DE ASISTENCIA SOCIAL Y CORRESPONDENCIA CIUDADANA PARA EL ESTADO DE MORELOS; DE LA LEY DE DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS; DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA FAMILIAR EN EL ESTADO DE MORELOS; LA LEY DE DESARROLLO, PROTECCIÓN Y ATENCIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS; LEY DE VÍCTIMAS DEL ESTADO DE MORELOS; LEY ESTATAL PARA LA CONVIVENCIA Y SEGURIDAD DE LA COMUNIDAD ESCOLAR; LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS, Y EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Una vez publicado el presente Decreto, dentro de los noventa días siguientes, contados a partir del inicio de vigencia, se deberán realizar las adecuaciones que se requieran a las Leyes y Reglamentos correspondientes para su armonización y, dentro del mismo término, la Fiscalía General deberá realizar las modificaciones necesarias a su Reglamento Interior.
+
+CUARTA. En mérito de lo anterior se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+QUINTA. De haber finalizado la entrega – recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial “Tierra y Libertad” 5611, los bienes muebles e inmuebles propiedad de la Fiscalía General del Estado de Morelos, que se han venido ocupando y administrando hasta ahora por la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y por la Dirección de Centros de Asistencia Social, así como por sus albergues o centros de asistencia social, deberán ser devueltos al Gobierno del Estado o del Sistema Estatal para el Desarrollo Integral de la Familia por virtud de este acto legislativo, y pasan a formar parte del patrimonio de estos últimos desde el momento de su entrada en vigor; para lo cual la Fiscalía General, deberá realizar, gestionar, emitir o celebrar todos los actos jurídicos y administrativos idóneos que resulten necesarios al efecto, conforme a la normativa aplicable.
+
+De forma complementaria, la Fiscalía General del Estado, debe realizar los actos jurídicos y administrativos, necesarios e idóneos, para lograr que los recursos humanos, materiales y financieros que ha ocupado y proyectado para el funcionamiento de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y los centros de asistencia social; se trasmitan al Gobierno del Estado o del Sistema Estatal para el Desarrollo Integral de la Familia, en virtud de esta reforma.
+
+SEXTA. Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y la Dirección de Centros de Asistencia Social, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Estatal, Federal y de los Municipios, o con cualquier persona física o moral, continuarán a cargo de las mismas, sin perjuicio de encontrarse ahora adscritas al Sistema Estatal para el Desarrollo Integral de la Familia, por virtud del presente Decreto.
+
+SÉPTIMA. Los asuntos que se encuentren en trámite o en proceso, incluidos los de adopciones, a cargo de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia o la Dirección de Centros de Asistencia Social, continuarán tramitándose por esta, hasta su conclusión y en los términos que establezca la normativa aplicable, sin que el cambio de su adscripción al Sistema Estatal para el Desarrollo Integral de la Familia pueda modificar o alterar su curso y resultado.
+
+OCTAVA. La Fiscalía General del Estado de Morelos y el Sistema Estatal para el Desarrollo Integral de la Familia, al realizar actuaciones para materializar el traslado de funciones y unidades a que se refiere el presente instrumento jurídico en caso de que se hubiere realizado la entrega – recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial “Tierra y Libertad” 5611, deberán velar por la seguridad, vida e integridad de las personas que se encuentren bajo su custodia en alguno de los albergues y centros de asistencia social que se encuentran a cargo de la Fiscalía.
+
+La Fiscalía General del Estado y el Sistema Estatal para el Desarrollo Integral de la Familia, una vez que entre en vigor el presente instrumento legislativo, deberán prestarse todas las facilidades para el traslado de los Albergues y Centros de Asistencia Social que hasta la presente reforma se encontraban a cargo de dicho Sistema.
+
+NOVENA. El personal de la Fiscalía General adscrito a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia y la Dirección de Centros de Asistencia Social, que pase a formar parte del Sistema Estatal para el Desarrollo Integral de la Familia, en ninguna forma podrá resultar afectado en sus derechos; debiéndose tomar las acciones necesarias para ello. Si al momento de la entrada en vigor del presente Decreto se ha llevado a cabo la sustitución patronal ordenada en la disposición transitoria QUINTA del Decreto número tres mil cuatrocientos cuarenta y siete, publicado en el Periódico Oficial “Tierra y Libertad” 5628 en fecha 30 de agosto de 2018.
+
+DÉCIMA. En un plazo no mayor de 90 días hábiles, contados a partir de la vigencia del presente Decreto, el Titular del Poder Ejecutivo Estatal deberá realizar o emitir las adecuaciones reglamentarias que se estimen pertinentes conforme lo previsto en el presente Decreto.
+
+DÉCIMA PRIMERA. En un plazo no mayor de 90 días hábiles, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados.
+
+DÉCIMA SEGUNDA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto, en caso de que se hubiere realizado la entrega – recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial “Tierra y Libertad” 5611.
