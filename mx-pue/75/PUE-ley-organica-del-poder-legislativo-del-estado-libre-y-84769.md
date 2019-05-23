@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2019-04-23"
+last_updated: "2019-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2019.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -1727,6 +1727,10 @@ Todas las sesiones del Pleno serán por regla general públicas, excepto las que
 
 Las sesiones públicas podrán ser transmitidas al público, a través de los medios que la Mesa Directiva considere pertinentes, dando preferencia a los medios electrónicos establecidos por el Congreso del Estado.
 
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2019)</small>
+
+Las transmisiones de las sesiones públicas serán interpretadas en Lengua de Señas Mexicana.
+
 ###### ARTÍCULO 160.
 
 Se considerarán Solemnes las sesiones que se celebren:
@@ -2808,3 +2812,11 @@ TERCERO. El Congreso del Estado contará con noventa días hábiles, a partir de
 CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
 
 QUINTO. Todo instrumento jurídico, que a la entrada en vigor del presente Decreto, se refiera a la Contraloría Interna se entenderá al Órgano Interno de Control.
+
+P.O. 23 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 159 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor hasta los noventa días siguientes de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
