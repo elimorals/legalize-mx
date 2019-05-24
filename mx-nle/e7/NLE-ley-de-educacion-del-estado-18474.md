@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2019-01-16"
+last_updated: "2019-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -457,9 +457,13 @@ V.- Desarrollar y aplicar programas y acciones para la prevención de conductas 
 
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
-###### Artículo 20 Bis 1.
+Artículo 20 Bis I. Las autoridades educativas, deberán implementar programas permanentes de prevención y detección de conductas que impliquen violencia física o psicológica entre el alumnado, conforme lo dispone la Ley para Prevenir, Atender y Erradicar el Acoso y la Violencia Escolar en el Estado de Nuevo León.
 
-Las autoridades educativas, deberán implementar programas permanentes de prevención y detección de conductas que impliquen violencia física o psicológica entre el alumnado, conforme lo dispone la Ley para Prevenir, Atender y Erradicar el Acoso y la Violencia Escolar en el Estado de Nuevo León.
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2019)</small>
+
+Artículo 20 Bis II. La Secretaría, en conjunto con la Secretaría de Salud del Estado deberán realizar programas entre los cuales establezcan un protocolo de prevención, detección y actuación ante conductas suicidas entre los estudiantes.
+
+Dicho protocolo deberá ser difundido para su conocimiento y uso por los diferentes integrantes de la comunidad educativa, tanto de profesores, estudiantes, familiares y personal administrativo para que actúen ante un posible caso de comportamiento suicida.
 
 ### CAPÍTULO II. DE LA DISTRIBUCIÓN DE LA FUNCIÓN SOCIAL EDUCATIVA
 
@@ -2188,3 +2192,11 @@ P.O. 16 DE ENERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 070. SE REFORMA POR MODIFICACIÓN LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 16 Y LAS FRACCIONES XIX Y XX DEL ARTÍCULO 21; Y POR ADICIÓN DE UNA FRACCIÓN XX DEL ARTÍCULO 16 Y UNA FRACCIÓN XXI DEL ARTÍCULO 21, TODAS DE LA LEY DE EDUCACIÓN DEL ESTADO".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 126. SE REFORMA POR ADICIÓN UN ARTÍCULO 20 BIS II A LA LEY DE EDUCACIÓN DEL ESTADO”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La autoridad educativa tendrá 180 días a partir de la entrada en vigor del presente Decreto para realizar y dar a conocer el protocolo de prevención y actuación ante conductas suicidas a las escuelas y padres de familia, las cuales se publicarán en el portal oficial de internet de la Secretaría de Educación, así como también se entregarán en los planteles educativos para la distribución con los padres de familia.
