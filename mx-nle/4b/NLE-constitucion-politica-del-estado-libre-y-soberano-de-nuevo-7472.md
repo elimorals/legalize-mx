@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2019-03-11"
+last_updated: "2019-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -99,7 +99,7 @@ Son obligaciones de los nuevoleoneses:
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
-l.- Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas para obtener la educación preescolar, primaria, secundaria, media superior y reciban la militar en los términos que establezca la Ley;
+I.- Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas para obtener la educación preescolar, primaria, secundaria, media superior y reciban la militar en los términos que establezca la Ley;
 
 II.- Asistir en los días y horas designados por el Ayuntamiento del lugar en que residan, para recibir instrucción cívica y militar que los mantenga aptos en el ejercicio de los derechos de ciudadano, diestros en el manejo de las armas y conocedores de la disciplina militar.
 
@@ -573,7 +573,7 @@ IX.- Examinar y aprobar anualmente, a propuesta del Gobernador, el Presupuesto d
 
 > <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2016)</small>
 
-EI presupuesto seguirá el proceso establecido en el Artículo 71 de esta Constitución con excepción del plazo para hacer las observaciones que será de tres días.
+El presupuesto seguirá el proceso establecido en el Artículo 71 de esta Constitución con excepción del plazo para hacer las observaciones que será de tres días.
 
 Si terminado un año, por cualquier circunstancia no se hubiere aprobado la Ley de Egresos que deba aplicarse al siguiente ejercicio, mientras no haya aprobación expresa en diverso sentido seguirá vigente la misma del ejercicio que termina.
 
@@ -897,7 +897,7 @@ I.- Establecer más contribuciones que las indispensables para satisfacer las ne
 
 II.- Imponer préstamos forzosos de cualquiera especie o naturaleza que sean, ni facultar al Ejecutivo para que los imponga.
 
-III.- Conceder ni abrogarse en ningún caso facultades extraordinarias.
+III.- Conceder ni abrogarse (sic) en ningún caso facultades extraordinarias.
 
 IV.- Consentir en que funcionen como Autoridades las que debiendo ser electas popularmente según esta Constitución, no tengan tal origen.
 
@@ -918,8 +918,6 @@ I.- Vigilar el cumplimiento de la Constitución y dar informe al Congreso de las
 > <small>(REFORMADA, P.O. 15 DE JUNIO DE 1968)</small>
 
 II.- Ejercer la facultad que señala la fracción XIX del Artículo 63.
-
-.
 
 III.- Preparar los proyectos de ley y adelantar los trabajos del Congreso, dando a éste cuenta de ellos en su próxima reunión ordinaria e informándole de cuanto sea debido y conveniente instruirle.
 
@@ -1190,6 +1188,16 @@ XXIII.- Rendir los informes a que se refiere la fracción XIII del art. 63.
 > <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
 
 XXIV.- Someter a la aprobación del Congreso, la propuesta sobre los cargos de Secretario de Finanzas y Tesorero General del Estado y del Titular del Órgano Interno de Control estatal, y en su caso expedir el nombramiento correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2019)</small>
+
+En el caso de ausencias mayores a quince días hábiles sin causa justificada de los Titulares de los cargos anteriores se deberá de realizar la propuesta por parte del Titular del Poder Ejecutivo al Congreso del Estado dentro del término de noventa días naturales.
+
+(NOTA: EL 12 DE ENERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 266/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE LA FRACCIÓN XXIV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE ENERO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2019)</small>
+
+EN CASO DE NO CUMPLIRSE LAS DISPOSICIONES ANTES MENCIONADAS, LOS ACTOS EMANADOS DE QUIEN REALIZA LAS FUNCIONES, CUALQUIERA QUE SEA SU DENOMINACIÓN, SERÁN INEXISTENTES.
 
 > <small>(REFORMADA, P.O. 1o. DE ENERO DE 1979)</small>
 
@@ -2289,7 +2297,7 @@ Para las adiciones o reformas a que se refieren los artículos anteriores se gua
 
 ###### Art. 152.
 
-Las Leyes a que se refieren los artículos 45, 63 fracciones XIII, XIII bis, 94, 95 y 118, son Constitucionales y en su reforma guardarán las mismas reglas que en las de cualquier Artículo de la Constitución, pudiendo ser discutidas y votadas en el mismo periodo en que sean propuestas, si así lo acordare el Congreso.
+Las Leyes a que se refieren los artículos 45, 63 fracciones XIII, XIII bis, 94, 95 y 118, son Constitucionales y en su reforma guardarán las mismas reglas que en las de cualquier Articulo de la Constitución, pudiendo ser discutidas y votadas en el mismo período en que sean propuestas, si así lo acordare el Congreso.
 
 (REUBICADO [N. DE E. ANTES TÍTULO XII], P.O. 1 DE ABRIL DE 2009)
 
@@ -2771,7 +2779,7 @@ V. Será juzgado en audiencia pública por un juez o tribunal. La publicidad só
 
 En delincuencia organizada, las actuaciones realizadas en la fase de investigación podrán tener valor probatorio, cuando no puedan ser reproducidas en juicio o exista riesgo para testigos o víctimas. Lo anterior sin perjuicio del derecho del inculpado de objetarlas o impugnarlas y sin aportar pruebas en contra.
 
-VI Le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso.
+VI. Le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso.
 
 El imputado y su defensor tendrán acceso a los registros de la investigación cuando el primero se encuentre detenido y cuando pretenda recibírsele declaración o entrevistarlo. Asimismo, antes de su primera comparecencia ante el juez podrán consultar dichos registros, con la oportunidad debida para preparar la defensa. A partir de este momento no podrán mantenerse en reserva las actuaciones de la investigación, salvo los casos excepcionales expresamente señalados en la ley cuando ello sea imprescindible para salvaguardar el éxito de la investigación y siempre que sean oportunamente revelados para no afectar el derecho de defensa;
 
@@ -3391,7 +3399,7 @@ UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publica
 
 P.O. 24 DE MARZO DE 1993.
 
-UNICO:- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 20 DE OCTUBRE DE 1993.
 
@@ -4114,5 +4122,11 @@ P.O. 11 DE MARZO DE 2019.
 P.O. 11 DE MARZO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 107. SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 1, RECORRIÉNDOSE LOS SUBSECUENTES PÁRRAFOS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 140. SE REFORMA POR ADICIÓN DE UN SEGUNDO Y TERCER PÁRRAFO A LA FRACCIÓN XXIV DEL ARTÍCULO 85 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
