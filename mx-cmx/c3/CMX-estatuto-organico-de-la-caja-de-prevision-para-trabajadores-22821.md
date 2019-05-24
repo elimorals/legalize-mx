@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-de-la-caja-de-prevision-para-trabajadores-228
 country: "mx"
 rank: "estatuto"
 publication_date: "2001-12-04"
-last_updated: "2018-05-18"
+last_updated: "2019-05-24"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22821&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2001-09-25"
 ---
 # ESTATUTO ORGANICO DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MEXICO -- ANTES -- ESTATUTO ORGANICO DE LA CAJA DE PREVISION PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 24 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 18 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE MAYO DE 2019 (ABROGADO).
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal el martes 4 de diciembre de 2001.
 
@@ -1087,3 +1089,13 @@ G.O. 18 DE MAYO DE 2018.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para todos los efectos a que haya lugar.
 
 SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación.
+
+G.O. 24 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DA A CONOCER EL ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO”.]
+
+Primero.- El presente aviso por el cual se da a conocer el Estatuto Orgánico de la Caja de Previsión para los Trabajadores a Lista de Raya del Gobierno de la Ciudad de México, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- Por virtud de la entrada en vigor del presente aviso por el cual se da a conocer el Estatuto Orgánico de la Caja de Previsión para los Trabajadores a Lista de Raya del Gobierno de la Ciudad de México, queda sin efectos el Estatuto Orgánico publicado en la Gaceta Oficial del Distrito Federal, el día cuatro de diciembre del año 2001, así como todas sus reformas.
+
+Tercero.- Los ordenamientos jurídicos que rigen el actuar del Organismo, deberán de reformarse y adecuarse a lo establecido en el presente Estatuto Orgánico.
