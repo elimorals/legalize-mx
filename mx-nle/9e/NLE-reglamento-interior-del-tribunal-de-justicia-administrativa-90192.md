@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-de-justicia-administrativa-901
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-16"
-last_updated: "2018-04-20"
+last_updated: "2019-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de noviembre de 2012.
 
@@ -123,7 +123,9 @@ II. Un Secretario General de Acuerdos;
 
 III. Secretario Auxiliar de Presidencia;
 
-IV. Jefe de Administración;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2019)</small>
+
+IV. Enlace Administrativo;
 
 V. Jefe de Tecnologías de Información;
 
@@ -133,19 +135,37 @@ VII. Coordinador de Criterios;
 
 VIII. Coordinador de Amparos;
 
-IX. Secretarios de Estudio y Cuenta;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2019)</small>
 
-X. Secretarios Auxiliares;
+IX. Coordinador de Actuarios.
 
-XI. Asistentes jurídicos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MAYO DE 2019)</small>
 
-XII. Escribientes;
+X. Secretarios de Estudio y Cuenta;
 
-XIII. Actuarios;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MAYO DE 2019)</small>
 
-XIV. Jefes de Archivo; y
+XI. Secretarios Auxiliares;
 
-XV. Personal jurídico y técnico administrativo.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MAYO DE 2019)</small>
+
+XII. Asistentes jurídicos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MAYO DE 2019)</small>
+
+XIII. Escribientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MAYO DE 2019)</small>
+
+XIV. Actuarios;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE MAYO DE 2019)</small>
+
+XV. Jefes de Archivo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE MAYO DE 2019)</small>
+
+XVI. Personal jurídico y técnico administrativo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ENERO DE 2018)</small>
 
@@ -233,7 +253,9 @@ Corresponde al Presidente del Tribunal, además de las facultades y atribuciones
 
 I. Representar al Tribunal y a la Sala Superior ante toda clase de autoridades, incluyendo las jurisdiccionales y administrativas.
 
-II. Nombrar, contando con la aprobación de la mayoría de los integrantes de la Sala Superior al Coordinador Jurídico de la Sala Superior, Coordinador de Criterios, Coordinador de Amparos, Secretario Auxiliar de Presidencia, Secretarios Auxiliares de Sala, Jefe de Administración, Jefe de Tecnología de Información, conforme a los lineamientos y procedimientos que establezca la propia Sala Superior; previa evaluación de su experiencia y trayectoria.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2019)</small>
+
+II. Nombrar, contando con la aprobación de la mayoría de los integrantes de la Sala Superior al Coordinador Jurídico de la Sala Superior, Coordinador de Criterios, Coordinador de Amparos, Coordinador de Actuarios, Secretario Auxiliar de Presidencia, Secretarios Auxiliares de Sala, Enlace Administrativo, Jefe de Tecnología de Información, conforme a los lineamientos y procedimientos que establezca la propia Sala Superior; previa evaluación de su experiencia y trayectoria.
 
 III. Dar cuenta a la Sala Superior, en la sesión ordinaria próxima, de las quejas administrativas que se interpongan;
 
@@ -317,15 +339,21 @@ II. Transcribir en las actas los acuerdos tomados por Sala Superior y recabar la
 
 III. Con el auxilio del Jefe de Tecnologías de Información, dirigir y vigilar el adecuado funcionamiento del Tribunal Virtual;
 
-IV. Con auxilio del Jefe de Administración del Tribunal, preparar y ejecutar las órdenes relacionadas con el ejercicio del presupuesto de egresos asignado;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2019)</small>
 
-V. Con el auxilio de la Jefatura de Administración del Tribunal, tramitar los movimientos del personal y gestionar el cumplimiento de las obligaciones laborales del personal administrativo de la misma;
+IV. Con auxilio del Enlace Administrativo del Tribunal, preparar y ejecutar las órdenes relacionadas con el ejercicio del presupuesto de egresos asignado;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2019)</small>
+
+V. Con el auxilio del Enlace Administrativo del Tribunal, tramitar los movimientos del personal y gestionar el cumplimiento de las obligaciones laborales del personal administrativo de la misma;
 
 VI. Compilar las resoluciones del Tribunal y de otros organismos jurisdiccionales vinculados con la materia administrativa y fiscal; pudiendo utilizar medios electrónicos para tal efecto;
 
 VII. Levantar el registro de firmas de los Magistrados, Secretarios y Actuarios del Tribunal.
 
-VIII. Con el auxilio del Jefe de Administración del Tribunal, coordinar y controlar la prestación del servicio social de los solicitantes propuestos por las Instituciones de Educación Superior y de los practicantes o meritorios.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2019)</small>
+
+VIII. Con el auxilio del Enlace Administrativo del Tribunal, coordinar y controlar la prestación del servicio social de los solicitantes propuestos por las Instituciones de Educación Superior y de los practicantes o meritorios.
 
 IX. Coordinar y vigilar, en conjunto con el Secretario Auxiliar de Presidencia, las actividades de la Oficina de Archivo, Digitalización y del área de Actuaría, debiendo comunicar al Presidente del Tribunal las irregularidades que advierta.
 
@@ -505,9 +533,11 @@ IX Aplicar en el desempeño de todas sus actividades diarias el Manual de Proced
 
 X Los Actuarios deberán conducirse siempre con estricto apego a la verdad, respecto a las diligencias que practiquen, bajo la pena de incurrir en las responsabilidades que prevengan las leyes aplicables.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2019)</small>
 
-Artículo 30 bis. La actuaria del Tribunal de Justicia Administrativa del Estado de Nuevo León, estará coordinada por uno de los actuarios, designado por la Sala Superior, quien organizará, distribuirá y realizara las gestiones necesarias para que se realicen las notificaciones de todo el Tribunal en los términos de la ley.
+Artículo 30 bis.- El Tribunal de Justicia Administrativa del Estado de Nuevo León, contara con un Coordinador de Actuarios, designado por la Sala Superior, quien además de contar con las atribuciones que le corresponden a los Actuarios, organizará, distribuirá y realizara las gestiones necesarias para que se realicen las notificaciones de todo el Tribunal en los términos de la ley.
+
+Aunado a lo anterior el Coordinador de Actuarios deberá rendir a la Sala Superior del Tribunal, dentro de los primeros cinco días hábiles de cada mes, un informe por escrito de las labores del Departamento de Actuaría del mes inmediato anterior y, dentro de los primeros diez días hábiles del mes de diciembre, el Informe de labores correspondiente al año inmediato anterior
 
 ### CAPÍTULO XII. DE LA DIRECCIÓN DE ORIENTACIÓN Y CONSULTA CIUDADANA
 
@@ -531,9 +561,11 @@ VII.- Desempeñar sus funciones en estricto apego a lo dispuesto en la Ley de Ju
 
 ### CAPÍTULO XIII. DEL PERSONAL TÉCNICO, JURIDICO Y ADMINISTRATIVO
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2019)</small>
+
 ###### Artículo 32.
 
-Dentro del Personal Técnico, Jurídico y Administrativo se encuentran: El Coordinador Jurídico de la Sala Superior; Coordinador de Criterios, el Coordinador de Amparos; los Secretarios Auxiliares de Sala; los Asistentes Jurídicos; los Escribientes; el Oficial de Partes; los Jefes de Archivo; el Jefe de Administración; el Jefe de Tecnología de Información y demás personal que auxilie en las labores del Tribunal.
+Dentro del Personal Técnico, Jurídico y Administrativo se encuentran: El Coordinador Jurídico de la Sala Superior; Coordinador de Criterios, el Coordinador de Amparos; Coordinador (sic) Actuarios, los Secretarios Auxiliares de Sala; los Asistentes Jurídicos; los Escribientes; el Oficial de Partes; los Jefes de Archivo; el Enlace Administrativo; el Jefe de Tecnología de Información y demás personal que auxilie en las labores del Tribunal.
 
 ###### Artículo 33.
 
@@ -685,9 +717,11 @@ XV.- En el Diario de Control de Préstamo de Expedientes, deberán asentarse los
 
 El registro de los asuntos a que se refiere este artículo, podrá llevarse a cabo a través de medios electrónicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2019)</small>
+
 ###### Artículo 42.
 
-El Jefe de Administración del Tribunal dependerá directamente de la Presidencia del Tribunal y será el encargado de la administración de los recursos financieros, humanos y materiales y responsable de su patrimonio, así como del uso eficiente de sus bienes, y tendrá expresamente las atribuciones siguientes:
+El Enlace Administrativo del Tribunal dependerá directamente de la Presidencia del Tribunal y será el encargado de la administración de los recursos financieros, humanos y materiales y responsable de su patrimonio, así como del uso eficiente de sus bienes, y tendrá expresamente las atribuciones siguientes:
 
 I. Elaborar y presentar para su aprobación a la Sala Superior, por conducto del Presidente del Tribunal, el proyecto de presupuesto anual de egresos del Tribunal, considerando las directrices, normas y criterios técnicos establecidos en la normatividad vigente, para el proceso interno de programación, presupuestación y evaluación presupuestal;
 
@@ -723,7 +757,9 @@ II. Elaborar y proponer los procedimientos y lineamientos que deban regir el des
 
 III. Elaborar e integrar en el anteproyecto del presupuesto la inversión en los programas de cómputo, conforme a las normas establecidas y someterlo a consideración de las instancias correspondientes;
 
-IV. Proponer las políticas y las pautas para el diseño de las redes de cómputo, así como el desarrollo de sistemas requeridos por las áreas del Tribunal, para el cumplimiento de sus funciones, y conjuntamente con el Jefe de Administración, establecer los criterios para la asignación de equipos, programas de cómputo y resguardo de los mismos;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2019)</small>
+
+IV. Proponer las políticas y las pautas para el diseño de las redes de cómputo, así como el desarrollo de sistemas requeridos por las áreas del Tribunal, para el cumplimiento de sus funciones, y conjuntamente con el Enlace Administrativo, establecer los criterios para la asignación de equipos, programas de cómputo y resguardo de los mismos;
 
 V. Instalar el equipo de cómputo, periféricos, software, consumibles y accesorios, solicitados por las áreas usuarias y proporcionados por el área de Recursos Materiales y Servicios Generales; informando a esta última, para que actualicen sus inventarios y generen los resguardos respectivos, de manera oportuna;
 
@@ -892,3 +928,11 @@ Primero. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 Segundo. El funcionamiento integral para la operación (sic) la Sala Especializada en materia de Responsabilidad Administrativa del Tribunal de Justicia Administrativa del Estado, estará supeditado a la suficiencia presupuestal con motivo del requerimiento de ampliación de personal, instalaciones, y equipamiento en los términos del artículo cuarto transitorio del DECRETO NÚMERO 347, PUBLICADO EN EL PERIÓDICO OFICIAL EN FECHA 19 DE ENERO DE 2018.
 
 Tercero. Publíquese el presente acuerdo en el Periódico Oficial del Estado.
+
+P.O. 24 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN POR ADICIÓN Y MODIFICACIÓN DE DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEÓN".]
+
+Primero. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Publíquese el presente acuerdo en el Periódico Oficial del Estado.
