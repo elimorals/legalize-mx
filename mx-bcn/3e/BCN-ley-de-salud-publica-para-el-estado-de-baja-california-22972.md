@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2019-02-01"
+last_updated: "2019-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -1839,9 +1839,11 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV.- Efectos del abuso de bebidas alcohólicas en el ambiente familiar, social, deportivo, de espectáculos, laboral y educativo.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 101.
 
-Queda estrictamente prohibido vender bebidas alcohólicas a menores de edad, a la persona que infrinja esta norma se le sancionará en términos de lo dispuesto por la normatividad aplicable.
+En ningún caso y de ninguna forma se podrán expender o suministrar bebidas alcohólicas a menores de edad, a la persona que infrinja esta norma se le sancionará en términos de lo dispuesto por la normatividad aplicable.
 
 #### SECCION III. DE LA PREVENCION, ATENCION Y COMBATE A LA FARMACODEPENDENCIA
 
@@ -3379,7 +3381,7 @@ P.O. 21 DE OCTUBRE DE 2016.
 
 P.O. 21 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 673 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA EL ARTÍCULO 40 BIS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 673 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA EL ARTÍCULO 40 BIS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3431,6 +3433,12 @@ Todas las menciones al salario mínimo como unidad de cuenta, índice, base, med
 
 P.O. 1 DE FEBRERO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 288 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 26, 27 Y 28 TODOS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 288 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 26, 27 Y 28 TODOS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 337 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 261 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA REFORMA AL ARTÍCULO 101 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
