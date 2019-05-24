@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2019-05-17"
+last_updated: "2019-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3259,9 +3259,9 @@ En vista de las circunstancias, el Juez de Control o Tribunal de Enjuiciamiento 
 
 ## TITULO SEGUNDO. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
 
-### CAPITULO V. DELITOS CONTRA LA PRESTACION DE UN SERVICIO PUBLICO
+### CAPÍTULO V. PRESTACIÓN ILÍCITA DEL SERVICIO PÚBLICO DE TRANSPORTE DE PASAJEROS
 
-Artículo 250 TER.- (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2019)</small>
 
 ###### Artículo 243.
 
@@ -3377,9 +3377,19 @@ Artículo 250 BIS.- Del delito de lesividad social.- Se impondrá una pena de tr
 
 La misma pena se impondrá a quien venda bebidas alcohólicas a menores de dieciocho años de edad.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+(REFORMA SU DENOMINACIÓN, P.O. 24 DE MAYO DE 2019)
 
 ### CAPITULO II. FALSIFICACION DE DOCUMENTOS Y USO DE DOCUMENTOS FALSOS
+
+###### Artículo 250 Ter.
+
+A quien preste el servicio público de transporte de pasajeros sin concesión, permiso o autorización correspondiente se le impondrá de uno a cinco años de prisión y de treinta a ciento cincuenta días multa, y suspensión por un año del derecho de manejar.
+
+Se exceptúa de la comisión de este delito, a quienes presten el servicio de transporte vía plataformas tecnológicas.
+
+Las sanciones previstas en este artículo se impondrán sin perjuicio de las medidas que disponga la legislación administrativa y las sanciones que correspondan, en su caso.
+
+Este delito se perseguirá por querella de la dependencia u Órgano Estatal o Municipal del ramo.
 
 ### CAPITULO III. USURPACION DE PROFESIONES
 
@@ -3391,7 +3401,7 @@ La misma pena se impondrá a quien venda bebidas alcohólicas a menores de dieci
 
 CORRUPCION DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
 
-> <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2019)</small>
 
 ###### Artículo 251.
 
@@ -3501,11 +3511,17 @@ Las mismas penas se aplicarán al que sin tener título o autorización para eje
 
 ###### Artículo 261.
 
-Tipo y punibilidad.- Al que obligue, procure, facilite, o induzca la corrupción de una persona menor de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad para resistirlo, induciéndola a la ebriedad o a vivir de la caridad pública sin justificación, se le aplicará de uno a cinco años de prisión y de cien a trescientos días multa.
+Tipo y punibilidad.- Al que obligue, procure, facilite, o induzca la corrupción de una persona menor de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad para resistirlo, induciéndola a la ebriedad o a vivir de la caridad pública sin justificación, se le aplicará de tres a seis años de prisión y de doscientos a quinientos días multa.
+
+> <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
 Cuando la conducta encaminada a corromper consista en la realización de actos sexuales reales o simulados o a inducirlo a la práctica de la prostitución, el uso o consumo de sustancias toxicas, psicotrópicas, señaladas en la Ley General de Salud, formar parte de una asociación delictuosa, o cometer algún delito, la pena será de cinco a diez años de prisión y de trescientos a setecientos días multa.
 
+> <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
+
 Asimismo, comete el delito de corrupción a que se refiere este Capítulo, quien ejecute actos de exhibicionismo corporal con fin lascivo o sexual ante una o varias personas menores de dieciocho años de edad o que no tienen la capacidad para comprender el significado del hecho, o que no tienen capacidad para resistirlo, o los obligue, induzca, procure o facilite a realizar dichos actos se le impondrá una pena de seis meses a dos años de prisión y de treinta a trescientos días de multa.
+
+> <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
 No se entenderá por corrupción, los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto la educación sexual, educación sobre función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competente; las fotografías, video grabaciones, audio grabaciones o las imágenes fijas o en movimiento, impresas, plasmadas o que sean contenidas o reproducidas en medios magnéticos, electrónicos o de otro tipo y que constituyan recuerdos familiares.
 
@@ -5952,3 +5968,15 @@ P.O. 17 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 332 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 142 BIS AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor a los 30 días siguientes de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 24 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 337 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 261 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA REFORMA AL ARTÍCULO 101 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 24 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 338 MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL TÍTULO PRIMERO, CAPÍTULO V, DENOMINADO “DELITOS CONTRA LA PRESTACIÓN DE UN SERVICIO PÚBLICO”, ASÍ COMO LA REFORMA DEL ARTÍCULO 250 TER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
