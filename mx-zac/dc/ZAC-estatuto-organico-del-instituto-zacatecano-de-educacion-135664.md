@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-instituto-zacatecano-de-educacion-135664"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-04-13"
-last_updated: "2019-04-13"
+last_updated: "2019-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO ZACATECANO DE EDUCACION PARA ADULTOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE MAYO DE 2019 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO ZACATECANO DE EDUCACIÓN PARA ADULTOS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE MAYO DE 2019.]</small>
 
 Estatuto publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 13 de abril de 2019.
 
@@ -331,7 +331,13 @@ Para el estudio, planeación y despacho de los asuntos de competencia, la Direcc
 
 I. Subdirección de Operación;
 
-a) Coordinaciones Regionales;
+> <small>(F. DE E., P.O. 25 DE MAYO DE 2019)</small>
+
+a) Consejo Consultivo de Coordinadores Regionales
+
+> <small>(F. DE E., P.O. 25 DE MAYO DE 2019)</small>
+
+b) Coordinaciones Regionales;
 
 II. Subdirección de Servicios Educativos;
 
@@ -382,6 +388,28 @@ Para el mejor desempeño de sus facultades, la Subdirección de Operación tendr
 ###### Artículo 30.
 
 Cada Coordinación Regional estará bajo la responsabilidad de un Coordinador, que será nombrado por la Dirección General, quién asumirá la responsabilidad educativa encargada de dirigir, planear, organizar, ejecutar, supervisar y evaluar las labores en cuanto a la atención, inscripción, acreditación y certificación de los educandos, además de administrar los recursos humanos, materiales y financieros que le asigne el Instituto.
+
+> <small>(F. DE E., P.O. 25 DE MAYO DE 2019)</small>
+
+A. Corresponde al Consejo Consultivo de Coordinadores Regionales las siguientes facultades:
+
+I. Diseñar estrategias para fortalecer la operación del servicio educativo.
+
+II. Dar seguimiento al cumplimiento de acuerdos y convenios con aliados estratégicos para la operación.
+
+III. Evaluar el cumplimiento de objetivos y metas de las figuras operativas en las coordinaciones regionales.
+
+IV. Identificar las áreas de oportunidad que limitan el cumplimiento de objetivos y metas en las microrregiones y las coordinaciones en conjunto.
+
+V. Elaborar diagnósticos para la medición de la calidad del servicio educativo.
+
+VI. Evaluar del impacto del servicio educativo en la continuidad académica de los educandos que concluyen nivel.
+
+VII. Establecer los mecanismos para evaluar de forma permanente el proceso educativo.
+
+VIII. Identificar las áreas de oportunidad para consolidar la calidad del proceso educativo.
+
+IX. Las demás que el Director General señale en fortalecimiento de la operación del servicio educativo.
 
 ###### Artículo 31.
 
