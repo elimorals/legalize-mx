@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2017-06-10"
+last_updated: "2019-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2019.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -115,27 +115,27 @@ XVI.- La prevención y el control de enfermedades transmisibles.
 
 XVII.- La prevención y el control de enfermedades no transmisibles y accidentes.
 
-XVIII.- Los cuidados paliativos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MAYO DE 2019)</small>
 
-XIX.- La prevención de la discapacidad y la rehabilitación de las personas con discapacidad.
+XVIII. La planeación, organización, coordinación, ejecución y vigilancia del Registro Estatal de Cáncer.
 
-XX.- La asistencia social.
+XIX. Los cuidados paliativos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE EXPIDE ESTE ORDENAMIENTO.</small>
+XX. La prevención de la discapacidad y la rehabilitación de las personas con discapacidad.
 
-XXI.- El programa para la atención de las adicciones.
+XXI. La asistencia social.
 
-XXII.- El control sanitario de cadáveres de seres humanos.
+XXII. El programa para la atención de las adicciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE EXPIDE ESTE ORDENAMIENTO.</small>
+XXIII. El control sanitario de cadáveres de seres humanos.
 
-XXIII.- La participación con las autoridades federales en el desarrollo de los programas contra las adicciones.
+XXIV. La participación con las autoridades federales en el desarrollo de los programas contra las adicciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE EXPIDE ESTE ORDENAMIENTO.</small>
+XXV. La prevención del consumo de narcóticos, atención a las adicciones y persecución de los delitos contra la salud, en los términos del artículo 474 de la Ley General de Salud.
 
-XXIV.- La prevención del consumo de narcóticos, atención a las adicciones y persecución de los delitos contra la salud, en los términos del artículo 474 de la Ley General de Salud.
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE MAYO DE 2019)</small>
 
-XXV.- Las demás que señalen otros ordenamientos legales, con relación a la materia, así como los acuerdos de coordinación que se establezcan, de conformidad con el párrafo tercero del Artículo 4o., de la Constitución General de la República.
+XXVI. Las demás que señalen otros ordenamientos legales, con relación a la materia, así como los acuerdos de coordinación que se establezcan, de conformidad con el párrafo tercero del Artículo 4o., de la Constitución General de la República.
 
 B).- En materia de salubridad local:
 
@@ -381,7 +381,9 @@ II.- Un Secretario Ejecutivo, que será el Secretario de Salud.
 
 III.- Un Secretario Técnico, que será designado por el Secretario de Salud.
 
-IV.- El Secretario de Educación, Cultura y Deporte.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2019)</small>
+
+IV.- El Secretario de Educación y Deporte.
 
 V.- El Secretario de Hacienda.
 
@@ -481,9 +483,9 @@ II.- La prevención y el control de las enfermedades transmisibles de atención 
 
 III.- La atención médica integral, que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2019)</small>
 
-Tratándose de las personas que deban ser rehabilitadas como consecuencia del cáncer de mama, tendrán que ser evaluadas para determinar el tipo de rehabilitación integral que requieran, conforme a las disposiciones de la Norma Oficial Mexicana correspondiente.
+La rehabilitación reconstructiva, estética, funcional y psicológica para pacientes que reciben tratamiento quirúrgico, quimioterapia, radioterapia u hormonoterapia por cáncer de mama, se realizará conforme a las disposiciones de la Norma Oficial Mexicana correspondiente.
 
 IV.- La atención materno-infantil.
 
@@ -537,13 +539,13 @@ II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporci
 
 III.- De rehabilitación, que incluyen acciones tendientes a corregir las discapacidades físicas o mentales.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2019)</small>
 
-Tratándose de las personas que deban ser rehabilitadas como consecuencia del cáncer de mama, tendrán que ser evaluadas para determinar el tipo de rehabilitación integral que requieran.
+Tratándose de las personas que deban ser rehabilitadas como consecuencia del cáncer de mama, se prestará la rehabilitación integral, considerándose la reconstructiva, estética, funcional y psicológica.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2019)</small>
 
-Si de la evaluación médica se deprende (sic) que se requiere la reconstrucción de mama, las instituciones públicas de salud en el Estado, llevarán a cabo las acciones para cumplir con esta disposición, en los términos de la Norma Oficial Mexicana correspondiente, para lo cual harán las previsiones presupuestales correspondientes.
+De requerirse la reconstrucción de mama, las instituciones públicas de salud en el Estado, llevarán a cabo las acciones para cumplir con esta disposición, en los términos de la Norma Oficial Mexicana correspondiente, para lo cual harán las previsiones presupuestales pertinentes.
 
 IV.- Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales por parte de un equipo profesional multidisciplinario.
 
@@ -861,9 +863,15 @@ III.- Climaterio y Menopausia.
 
 Para garantizar el derecho a la salud de las mujeres, la Secretaría dispondrá lo necesario para contar con la infraestructura suficiente, el personal especializado y el equipamiento requerido para atender las necesidades de atención y control de los padecimientos oncológicos. Además elaborará los protocolos para la prevención, detección y diagnóstico oportuno de cáncer cérvico-uterino y el cáncer de mama.
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2019)</small>
+
+Dentro del protocolo de prevención de cáncer de mama, la Secretaría contará con un mecanismo para identificar pacientes en riesgo derivado de la historia familiar, poniendo a su disposición el estudio molecular genético, así como la atención que sea requerida a partir de los resultados del mismo.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2019)</small>
+
 ###### Artículo 75.
 
-La Secretaría, en coordinación con las instituciones del sector salud, fomentará y desarrollará programas con acciones de promoción, prevención, tratamiento y rehabilitación para atender la salud de la mujer, de manera integral, de acuerdo a las normas oficiales establecidas.
+La Secretaría, en coordinación con las instituciones del sector salud, fomentará y desarrollará programas con acciones de promoción, prevención, detección, tratamiento y rehabilitación para atender la salud de las mujeres, de manera integral, de acuerdo a las normas oficiales establecidas.
 
 > <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2017)</small>
 
@@ -1449,7 +1457,9 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que deba proceder la descontaminación microbiana o parasitaria, desinfección, desinfectación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPÍTULO IV. ACCIDENTES
+### CAPÍTULO III BIS. REGISTRO ESTATAL DE CÁNCER
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2019)</small>
 
 ###### Artículo 146.
 
@@ -1473,9 +1483,41 @@ V.- Las demás que sean necesarias para la prevención, detección oportuna, tra
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera, acerca de las enfermedades no transmisibles, en los términos de la normatividad y los reglamentos que en su caso se expidan.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2019)</small>
 
-### CAPÍTULO II. DE LOS DERECHOS DE LOS ENFERMOS EN SITUACIÓN TERMINAL
+### CAPÍTULO IV. ACCIDENTES
+
+###### Artículo 148 Bis.
+
+El Registro Estatal de Cáncer tendrá una base poblacional y se integrará con la siguiente información:
+
+I. Información de las y los pacientes, que constará de:
+
+a. Datos relacionados con la identidad, historial ocupacional y laboral, observando las disposiciones relativas a la protección de sus datos personales.
+
+b. Información demográfica.
+
+II. Información del tumor: fecha de diagnóstico de cáncer; la localización anatómica; de ser el caso, la lateralidad; la incidencia y el estado de la enfermedad; la histología del tumor primario y su comportamiento.
+
+III. Información respecto al tratamiento que se ha aplicado a las y los pacientes y el seguimiento que se ha dado a los mismos de parte del personal médico. Además, se incluirá información de curación y supervivencia.
+
+IV. La fuente de información utilizada para cada rubro, modalidad de diagnóstico y de tratamiento.
+
+V. Toda aquella información adicional que determine la Secretaría.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2019)</small>
+
+###### Artículo 148 Ter.
+
+La Secretaría promoverá la participación del sector privado, para que sus registros de incidencia del cáncer, formen parte del Registro Estatal de Cáncer.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2019)</small>
+
+###### Artículo 148 Quáter.
+
+El Registro Estatal de Cáncer, proporcionará la información recabada al Registro Nacional de Cáncer.
+
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### Artículo 149.
 
@@ -1501,7 +1543,7 @@ Para mayor eficacia de las acciones a las que se refiere este artículo, se crea
 
 ## TÍTULO DÉCIMO. CUIDADOS PALIATIVOS A LOS ENFERMOS EN SITUACIÓN TERMINAL
 
-### CAPÍTULO III. DE LAS FACULTADES Y OBLIGACIONES DE LAS INSTITUCIONES DE SALUD
+### CAPÍTULO II. DE LOS DERECHOS DE LOS ENFERMOS EN SITUACIÓN TERMINAL
 
 ###### Artículo 151.
 
@@ -1525,7 +1567,7 @@ VII.- Establecer los límites entre la defensa de la vida del enfermo en situaci
 
 Corresponde al Sistema Estatal de Salud garantizar el pleno, libre e informado ejercicio de los derechos que señalan esta Ley y demás ordenamientos aplicables, a los enfermos en situación terminal.
 
-### CAPÍTULO IV. DE LOS DERECHOS, FACULTADES Y OBLIGACIONES DE LOS PROFESIONALES DE LA SALUD
+### CAPÍTULO III. DE LAS FACULTADES Y OBLIGACIONES DE LAS INSTITUCIONES DE SALUD
 
 ###### Artículo 153.
 
@@ -1649,7 +1691,7 @@ II. Supervisar el cumplimiento de las disposiciones de los documentos o formatos
 
 Todos los demás documentos requeridos para los trámites a que se refiere este Capítulo, serán descritos en el Reglamento correspondiente, y demás disposiciones aplicables.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO IV. DE LOS DERECHOS, FACULTADES Y OBLIGACIONES DE LOS PROFESIONALES DE LA SALUD
 
 ###### Artículo 163.
 
@@ -1665,7 +1707,7 @@ IV.- Fomentarán el apoyo psicológico y tanatológico, tanto a los pacientes en
 
 V.- Garantizarán la capacitación y actualización permanente de los recursos humanos para la salud, en materia de cuidados paliativos, tanatología y atención a enfermos en situación terminal.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 164.
 
@@ -1727,7 +1769,7 @@ Queda prohibida la práctica de la eutanasia, entendida como homicidio por pieda
 
 ## TÍTULO UNDÉCIMO. DE LOS SERVICIOS DE SALUD PARA LA ASISTENCIA SOCIAL
 
-### CAPÍTULO II. PROGRAMA DE NUTRICIÓN
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### Artículo 172.
 
@@ -1781,7 +1823,7 @@ La autoridad sanitaria del Estado autorizará la operación de instituciones pú
 
 ## TÍTULO DUODÉCIMO. PROGRAMAS PARA LA SALUD
 
-### CAPÍTULO III. PROGRAMA PARA EL CONTROL DE SOBREPESO Y OBESIDAD
+### CAPÍTULO II. PROGRAMA DE NUTRICIÓN
 
 ###### Artículo 179.
 
@@ -1815,9 +1857,7 @@ El Consejo Estatal de Salud, coadyuvará con la Secretaría para promover los pr
 
 La Secretaría coordinará las acciones con las autoridades educativas de la Entidad, para la implementación, promoción, evaluación, difusión de la información y educación a que se refiere el artículo 187 de esta Ley, entre los alumnos de los diferentes niveles educativos, según el programa, así como al personal docente de las instituciones educativas correspondientes.
 
-### CAPÍTULO IV. PROGRAMAS PARA LA ATENCIÓN DE LAS ADICCIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2013)</small>
+### CAPÍTULO III. PROGRAMA PARA EL CONTROL DE SOBREPESO Y OBESIDAD
 
 ###### Artículo 185.
 
@@ -1849,7 +1889,9 @@ X.- Promover la participación de los sectores social y privado en el programa.
 
 En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, procurando al efecto la participación de las organizaciones campesinas, ganaderas, cooperativas y otras cuyas actividades se relacionen con la producción de alimentos.
 
-### CAPÍTULO V. PROGRAMA PARA LA ATENCIÓN DE INFECCIONES DE TRANSMISIÓN SEXUAL
+### CAPÍTULO IV. PROGRAMAS PARA LA ATENCIÓN DE LAS ADICCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2013)</small>
 
 ###### Artículo 187.
 
@@ -1945,7 +1987,7 @@ Corresponde al Ejecutivo del Estado, a través de las dependencias respectivas, 
 
 Se promoverá la actividad física en las áreas deportivas y zonas verdes, con la participación de los diversos sectores de la sociedad, con la finalidad de consolidar una vida saludable.
 
-### CAPÍTULO VI. PROGRAMA DE PREVENCIÓN Y CONTROL DEL SÍNDROME DE INMUNODEFICIENCIA ADQUIRIDA
+### CAPÍTULO V. PROGRAMA PARA LA ATENCIÓN DE INFECCIONES DE TRANSMISIÓN SEXUAL
 
 ###### Artículo 202.
 
@@ -2025,7 +2067,7 @@ IV.- Efectos de las adicciones en los ámbitos familiar, social, deportivo, de l
 
 V.- La educación a la familia para prevenir las adicciones por parte de niños y adolescentes.
 
-### CAPÍTULO VII. PROGRAMAS PARA LA ATENCIÓN DE CÁNCERES MAMARIO, CÉRVICO-UTERINO Y DE PRÓSTATA
+### CAPÍTULO VI. PROGRAMA DE PREVENCIÓN Y CONTROL DEL SÍNDROME DE INMUNODEFICIENCIA ADQUIRIDA
 
 ###### Artículo 205.
 
@@ -2051,9 +2093,7 @@ VI.- Las demás de índole sanitaria que determinen las autoridades sanitarias c
 
 Sólo para efectos de sanidad y prevención, la autoridad sanitaria competente podrá requerir tarjeta de control sanitario, a las personas que realicen actividades mediante las cuales se pueda propagar alguna infección de transmisión sexual, en los casos y bajo las condiciones que establezcan las disposiciones aplicables.
 
-### CAPÍTULO VIII. PROGRAMA ESTATAL DE TRASPLANTES
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2014)</small>
+### CAPÍTULO VII. PROGRAMAS PARA LA ATENCIÓN DE CÁNCERES MAMARIO, CÉRVICO-UTERINO Y DE PRÓSTATA
 
 ###### Artículo 208.
 
@@ -2091,13 +2131,19 @@ Las instituciones del sector salud están obligadas a prestar la atención médi
 
 La Secretaría, a través de sus instituciones de salud, garantizará el tratamiento del padecimiento y, en su caso, controlarlo, dentro de lo posible, a las personas que carezcan de un servicio médico o de los recursos necesarios para su atención, de acuerdo al estudio socioeconómico correspondiente y a la suficiencia presupuestal y capacidad instalada.
 
-### CAPÍTULO IX. CADÁVERES
+### CAPÍTULO VIII. PROGRAMA ESTATAL DE TRASPLANTES
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2014)</small>
 
 ###### Artículo 214.
 
 Los Programas para la Atención de Cánceres mamario, cérvico-uterino y de próstata, tienen como objeto la promoción, prevención, detección y tratamiento oportuno y especializado.
 
 Se procurará la gratuidad y permanencia de estos programas.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2019)</small>
+
+Por lo que respecta al cáncer de mama, la Secretaría contará con un programa permanente de detección, para efectuar estudios de mastografías gratuitas a la población no derechohabiente de servicios médicos de salud. Para tal efecto, deberá incluirlo anualmente en su presupuesto conforme a lo establecido por el artículo 21 de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua.
 
 ###### Artículo 215.
 
@@ -2127,7 +2173,9 @@ Para cumplir con las disposiciones anteriores, la Secretaría deberá:
 
 A).- Tratándose del Programa para la Atención de Cáncer de Mama:
 
-I.- Facilitar el acceso a mastografía a mujeres con factores de riesgo y de acuerdo a la edad.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2019)</small>
+
+I.- Facilitar el acceso a mastografía y el estudio molecular genético a mujeres con factores de riesgo y de acuerdo a la edad.
 
 II.- Concientizar a las mujeres sobre la importancia de la autoexploración para la detección oportuna del cáncer de mama.
 
@@ -2145,9 +2193,7 @@ I.- Promover la adopción de medidas de prevención, detección y tratamiento op
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO X. PROGRAMA DE SALUD MENTAL Y ATENCIÓN A ESTOS TRASTORNOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2015)</small>
+### CAPÍTULO IX. CADÁVERES
 
 ###### Artículo 218.
 
@@ -2203,11 +2249,13 @@ XI.- La Secretaría, en la medida de sus posibilidades económicas, creará un b
 
 Por lo que tiene que ver con pérdida de la vida, deberá estarse a las disposiciones contenidas en la Ley General de Salud y en la Ley de Donación y Trasplantes de Órganos, Tejidos y Células del Estado de Chihuahua.
 
+### CAPÍTULO X. PROGRAMA DE SALUD MENTAL Y ATENCIÓN A ESTOS TRASTORNOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2015)</small>
+
 ### CAPÍTULO ÚNICO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE EXPIDE ESTE ORDENAMIENTO.</small>
-
-### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 223.
 
@@ -2291,7 +2339,7 @@ Los establecimientos en los que se realicen actos relacionados con cadáveres de
 
 La Secretaría coordinará las acciones de las dependencias de la administración pública en la autorización del programa, así como promover la concertación de acciones con instituciones de los sectores público, privado y social, para operar dicho programa.
 
-### CAPÍTULO II. DE LOS ESTABLECIMIENTOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 237.
 
@@ -2417,7 +2465,7 @@ TÍTULO DECIMOTERCERO
 
 DE LA PARTICIPACIÓN DEL ESTADO EN LA PERSECUCIÓN DE LOS DELITOS CONTRA LA SALUD, EN SU MODALIDAD DE NARCOMENUDEO
 
-### CAPÍTULO III. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
+### CAPÍTULO II. DE LOS ESTABLECIMIENTOS
 
 ###### Artículo 243.
 
@@ -2441,7 +2489,7 @@ TÍTULO DECIMOCUARTO
 
 DE LA SALUBRIDAD LOCAL
 
-### CAPÍTULO IV. MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO III. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
 ###### Artículo 246.
 
@@ -2475,7 +2523,7 @@ III.- Contar, en su caso, con los auxiliares del responsable sanitario que deter
 
 Tratándose de moteles, establecimientos autorizados para expender e ingerir bebidas alcohólicas en los términos de la Ley respectiva y demás lugares que determine la reglamentación, deberán expenderse condones.
 
-### CAPÍTULO V. DE LAS CONSTRUCCIONES
+### CAPÍTULO IV. MERCADOS Y CENTROS DE ABASTO
 
 ###### Artículo 252.
 
@@ -2495,7 +2543,7 @@ Los establecimientos podrán dedicarse a las actividades y servicios a los que e
 
 Los propietarios o poseedores de los establecimientos están obligados a realizar los cambios en infraestructura y equipamiento que la autoridad sanitaria considere necesarios para cumplir con las condiciones de higiene y salubridad que establezcan las disposiciones legales y normas técnicas aplicables.
 
-### CAPÍTULO VI. FUNERARIAS, CREMATORIOS Y PANTEONES
+### CAPÍTULO V. DE LAS CONSTRUCCIONES
 
 ###### Artículo 256.
 
@@ -2519,7 +2567,7 @@ El Ejecutivo del Estado, a través de la Secretaría, podrá celebrar convenios 
 
 En ningún caso y de ninguna forma se podrán expender o suministrar bebidas alcohólicas a menores de edad.
 
-### CAPÍTULO VII. LIMPIEZA PÚBLICA
+### CAPÍTULO VI. FUNERARIAS, CREMATORIOS Y PANTEONES
 
 ###### Artículo 261.
 
@@ -2533,7 +2581,7 @@ Los mercados y centros de abasto estarán bajo la vigilancia de la autoridad san
 
 Los vendedores, locatarios y toda persona cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a observar las condiciones higiénicas y de salud indispensables para el desempeño de sus actividades, sujetándose a lo que dispone esta Ley, sus Reglamentos y las normas correspondientes.
 
-### CAPÍTULO VIII. RASTROS
+### CAPÍTULO VII. LIMPIEZA PÚBLICA
 
 ###### Artículo 264.
 
@@ -2569,7 +2617,7 @@ Cuando los edificios, construcciones o terrenos presenten un peligro por su insa
 
 En última instancia, la autoridad sanitaria podrá ejecutar u ordenar la ejecución de las obras que estime pertinentes por su urgencia, con cargo al propietario del establecimiento.
 
-### CAPÍTULO IX. AGUA POTABLE Y ALCANTARILLADO
+### CAPÍTULO VIII. RASTROS
 
 ###### Artículo 272.
 
@@ -2585,7 +2633,7 @@ Para establecer un panteón se requiere constancia de no inconveniente expedida 
 
 Para la actividad de funerarias y crematorios es indispensable el aviso de funcionamiento de la autoridad sanitaria.
 
-### CAPÍTULO X. ESTABLOS, GRANJAS, CABALLERIZAS Y ESTABLECIMIENTOS SIMILARES
+### CAPÍTULO IX. AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 275.
 
@@ -2615,7 +2663,7 @@ La basura deberá manipularse higiénicamente antes de llegar al basurero o a la
 
 Para toda actividad relacionada con este Capítulo, se estará a lo dispuesto por esta Ley, sus Reglamentos y normas aplicables.
 
-### CAPÍTULO XI. CENTROS DE REINSERCIÓN SOCIAL
+### CAPÍTULO X. ESTABLOS, GRANJAS, CABALLERIZAS Y ESTABLECIMIENTOS SIMILARES
 
 ###### Artículo 282.
 
@@ -2633,7 +2681,7 @@ Queda prohibida la matanza de animales en casas o domicilios particulares, cuand
 
 La matanza de animales en los rastros autorizados, se efectuará en los días y horas que fije la autoridad sanitaria, teniendo en consideración las condiciones del lugar y los elementos que la propia autoridad disponga para realizar las verificaciones correspondientes, utilizando la tecnología adecuada.
 
-### CAPÍTULO XII. BAÑOS PÚBLICOS, ALBERCAS Y SIMILARES
+### CAPÍTULO XI. CENTROS DE REINSERCIÓN SOCIAL
 
 ###### Artículo 286.
 
@@ -2673,7 +2721,7 @@ Queda prohibido que los desechos líquidos o sólidos que conduzcan los caños s
 
 En todo caso deberán ser tratados previamente y cumplir con las disposiciones de la Ley de la materia.
 
-### CAPÍTULO XIII. CENTROS DE REUNIÓN Y ESPECTÁCULOS
+### CAPÍTULO XII. BAÑOS PÚBLICOS, ALBERCAS Y SIMILARES
 
 ###### Artículo 295.
 
@@ -2691,7 +2739,7 @@ Para el funcionamiento de los lugares a que se refiere este Capítulo, se requie
 
 Las condiciones sanitarias que deban reunir los establos, granjas, caballerizas y los establecimientos similares, serán fijadas por los ordenamientos legales correspondientes.
 
-### CAPÍTULO XIV. GIMNASIOS
+### CAPÍTULO XIII. CENTROS DE REUNIÓN Y ESPECTÁCULOS
 
 ###### Artículo 299.
 
@@ -2705,7 +2753,7 @@ Los Centros de Reinserción Social, en cuanto a sus condiciones sanitarias estar
 
 Los Centros de Reinserción Social deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas técnicas correspondientes, con un departamento de baños de regadera y otro de enfermería, éste para la atención de aquellos casos de enfermedad de los internos, en que no sea necesario su traslado a un hospital.
 
-### CAPÍTULO XV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACIÓN DE SERVICIOS DE PELUQUERÍAS, SALONES DE BELLEZA, SALONES DE MASAJE Y OTROS
+### CAPÍTULO XIV. GIMNASIOS
 
 ###### Artículo 302.
 
@@ -2721,7 +2769,7 @@ Los baños públicos y albercas, para brindar el servicio al público, deberán 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, sus reglamentos y las normas técnicas correspondientes.
 
-### CAPÍTULO XVI. DE LA ROPA USADA
+### CAPÍTULO XV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACIÓN DE SERVICIOS DE PELUQUERÍAS, SALONES DE BELLEZA, SALONES DE MASAJE Y OTROS
 
 ###### Artículo 305.
 
@@ -2731,7 +2779,7 @@ Se entiende por centros de reunión, todas aquellas edificaciones destinadas al 
 
 Los establecimientos a que se refiere el presente Capítulo, para su funcionamiento deberán contar con licencia expedida por la autoridad competente, previa constancia de no inconveniente emitida por la Secretaría, en cumplimiento a lo dispuesto en esta Ley, Reglamentos y las normas correspondientes.
 
-### CAPÍTULO XVII. ESTABLECIMIENTOS DE HOSPEDAJE
+### CAPÍTULO XVI. DE LA ROPA USADA
 
 ###### Artículo 307.
 
@@ -2765,7 +2813,7 @@ La falta de cumplimiento a esta disposición, se sancionará conforme a los art�
 
 La Secretaría, en ejercicio de sus facultades, será la autoridad competente para expedir la constancia de no inconveniente para la operación de estos centros y supervisar su operación.
 
-### CAPÍTULO XVIII. ESTABLECIMIENTOS DE TATUAJES Y/O PERFORACIONES
+### CAPÍTULO XVII. ESTABLECIMIENTOS DE HOSPEDAJE
 
 ###### Artículo 313.
 
@@ -2787,7 +2835,7 @@ VI.- Procedimientos de embellecimiento, aquellos servicios en los que se utilice
 
 Para el funcionamiento de estos establecimientos se deberá obtener constancia de no inconveniente por parte de la Secretaría y cumplir con lo establecido en esta Ley, sus reglamentos y normas técnicas correspondientes.
 
-### CAPÍTULO XIX. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPÍTULO XVIII. ESTABLECIMIENTOS DE TATUAJES Y/O PERFORACIONES
 
 ###### Artículo 315.
 
@@ -2797,7 +2845,7 @@ La Secretaría realizará acciones de prevención para impulsar prácticas de hi
 
 Las personas dedicadas a la compraventa y renta de ropa usada, con fines de lucro, deberán impulsar las buenas prácticas de higiene y sanidad en el manejo de estas prendas, principalmente evitar la acumulación en condiciones de humedad y su limpieza periódica.
 
-### CAPÍTULO XX. GASOLINERAS
+### CAPÍTULO XIX. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### Artículo 316.
 
@@ -2809,7 +2857,7 @@ La Secretaría, por falta de higiene o incumplimiento de las disposiciones estab
 
 Para la operación de estos establecimientos, se requiere constancia de no inconveniente emitida por la Secretaría.
 
-### CAPÍTULO I. AUTORIZACIONES
+### CAPÍTULO XX. GASOLINERAS
 
 ###### Artículo 318.
 
@@ -2841,7 +2889,7 @@ I.- Menores de edad, salvo cuando estén acompañados por sus padres y emitan la
 
 II.- Quien se encuentre mentalmente impedido para tomar decisiones.
 
-### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
+### CAPÍTULO I. AUTORIZACIONES
 
 ###### Artículo 322.
 
@@ -2851,7 +2899,7 @@ Se entiende por transporte, todo vehículo cuya acción es llevar o trasladar un
 
 Los prestadores de estos servicios deberán cumplir con la legislación aplicable, así como las normas expedidas en materia de salubridad e higiene.
 
-### CAPÍTULO III. CERTIFICADOS
+### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
 
 ###### Artículo 324.
 
@@ -2865,7 +2913,7 @@ TÍTULO DECIMOQUINTO
 
 AUTORIZACIONES Y CERTIFICACIONES
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. CERTIFICADOS
 
 ###### Artículo 326.
 
@@ -2957,8 +3005,6 @@ Los ingresos que se obtengan por los servicios de salubridad local que se preste
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
-
 ###### Artículo 337.
 
 La Secretaría podrá revocar las autorizaciones que haya otorgado, en los siguientes casos:
@@ -3025,7 +3071,9 @@ La resolución de revocación surtirá efectos, en su caso, de clausura definiti
 
 En la tramitación del procedimiento administrativo contenido en este Capítulo, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 345.
 
@@ -3061,7 +3109,7 @@ TÍTULO DECIMOSEXTO
 
 VIGILANCIA SANITARIA
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### Artículo 350.
 
@@ -3139,7 +3187,7 @@ TÍTULO DECIMOSÉPTIMO
 
 DE LA PUBLICIDAD
 
-### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 360.
 
@@ -3149,7 +3197,7 @@ TÍTULO DECIMOCTAVO
 
 MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPÍTULO IV. RECURSOS DE REVISIÓN Y REVOCACIÓN
+### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 361.
 
@@ -3267,7 +3315,7 @@ La desocupación o desalojo de casa, edificios, establecimientos y, en general, 
 
 En el resto de los casos, la observancia de la garantía de audiencia y de dictamen pericial será previa a la acción de la autoridad sanitaria.
 
-### CAPÍTULO V. PRESCRIPCIÓN
+### CAPÍTULO IV. RECURSOS DE REVISIÓN Y REVOCACIÓN
 
 ###### Artículo 374.
 
@@ -3364,6 +3412,8 @@ II.- A la persona que, en rebeldía, se niegue a cumplir los requerimientos y di
 Sólo procederá esta sanción, si previamente se aplicó cualquiera otra de las sanciones a que se refiere este Capítulo.
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
+
+### CAPÍTULO V. PRESCRIPCIÓN
 
 ###### Artículo 386.
 
@@ -3758,3 +3808,15 @@ P.O. 10 DE JUNIO DE 2017
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXVI/RFLEY/0328/2019 II P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Salud, procurará incluir dentro de su presupuesto anual, a partir del ejercicio fiscal 2020 y en los subsecuentes, recursos suficientes para la implementación de las disposiciones contempladas en el presente Decreto.
