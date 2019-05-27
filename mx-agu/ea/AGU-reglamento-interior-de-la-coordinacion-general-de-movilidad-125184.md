@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-coordinacion-general-de-movilidad-125
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-12-31"
-last_updated: "2017-12-31"
+last_updated: "2019-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE MOVILIDAD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2019.
 
 Reglamento publicado en el Núm. 28 del Periódico Oficial del Estado de Aguascalientes, el domingo 31 de diciembre de 2017.
 
@@ -79,21 +79,33 @@ X. Titular: Coordinador General de Movilidad.
 
 Para el estudio, planeación, programación, organización, ejecución, evaluación y despacho de asuntos, la Coordinación General contará con las siguientes unidades administrativas:
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 27 DE MAYO DE 2019)</small>
+
 I. Coordinación General de Movilidad:
 
-a) Secretaría Particular;
+a) Secretaría Particular; y
 
-b) Coordinación de Área Jurídica; y
+b) Coordinación de Área Administrativa;
 
-c) Coordinación de Área Administrativa;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2019)</small>
 
-II. Dirección General de Movilidad;
+II. Dirección General Jurídica;
 
-III. Dirección General de Transporte Público;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2019)</small>
 
-IV. Dirección General del SITMA; y
+III. Dirección General de Movilidad;
 
-V. Dirección General de Proyectos Estratégicos e Innovación.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2019)</small>
+
+IV. Dirección General de Transporte Público;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2019)</small>
+
+V. Dirección General del SITMA; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2019)</small>
+
+VI. Dirección General de Proyectos Estratégicos e Innovación.
 
 ###### ARTÍCULO 5°.
 
@@ -185,7 +197,9 @@ VIII. Asesorar y apoyar técnicamente en asuntos de su competencia a los servido
 
 IX. Atender las consultas que se le soliciten a la Coordinación General y que le sean canalizadas por el Titular;
 
-X. Presentar propuestas de reformas y adiciones a los reglamentos, así como a toda la legislación que se relacione con la Unidad Administrativa a su cargo según su competencia, canalizándolas a la Coordinación de Área Jurídica para su revisión y con el Titular para acuerdo;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2019)</small>
+
+X. Presentar propuestas de reformas y adiciones a los reglamentos, así como a toda la legislación que se relacione con la Unidad Administrativa a su cargo según su competencia, canalizándolas a la Dirección General Jurídica para su revisión y con el Titular para acuerdo;
 
 XI. Dar seguimiento a los acuerdos y convenios que en la materia de su competencia sean celebrados con la Federación, entidades federativas, dependencias, entidades, municipios y, en su caso, con los particulares;
 
@@ -231,51 +245,13 @@ VIII. Atender y dar seguimiento a los acuerdos, actividades y asuntos del Titula
 
 IX. Las demás que otras disposiciones jurídicas aplicables le atribuyan, así como aquellas que le confiera su superior jerárquico.
 
-#### SECCIÓN SEGUNDA. Coordinación de Área Jurídica
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MAYO DE 2019)</small>
+
+#### SECCIÓN SEGUNDA. Coordinación de Área Administrativa
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 12.
-
-Son facultades del Coordinador Jurídico, las siguientes:
-
-I. Auxiliar al Titular en la elaboración de anteproyectos de iniciativas de leyes, reglamentos, decretos y manuales, dentro de su competencia y, en su caso, las reformas y actualizaciones a las mismas;
-
-II. Participar por encomienda del Titular en la discusión de anteproyectos de leyes que las Dependencias u organismos presenten y que se relacionen con las funciones de la Coordinación General;
-
-III. Substanciar y proponer al Titular el proyecto de resolución de los recursos administrativos que interpongan los particulares ante la Coordinación General;
-
-IV. Elaborar todo tipo de documentos legales que sean necesarios para proteger los intereses de la Coordinación General, y dar seguimiento a su tramitación ante los tribunales, fungiendo como delegado ante los mismos por parte de la Coordinación General y pudiendo autorizar a profesionales del derecho para oír y recibir toda clase de notificaciones;
-
-V. Elaborar proyectos de determinación y aplicación de sanciones a que se refieran las leyes de la materia o demás ordenamientos relacionados;
-
-VI. Auxiliar a las Direcciones de la Dependencia en la elaboración de las actas y, en su caso, minutas de las sesiones de los Comités o cuerpos colegiados en los que por disposición de la Ley deba presidir o participar la Coordinación General;
-
-VII. Elaborar los estudios y análisis jurídicos relacionados con la actividad de la Coordinación General;
-
-VIII. Elaborar los contratos, convenios, bases de coordinación o de colaboración que se le encomienden por parte del Titular; así como elaborar y revisar los convenios operativos derivados de los suscritos por el Gobernador, que sean necesarios para el cumplimiento de las atribuciones de la Coordinación General;
-
-IX. Auxiliar a las áreas competentes en las inspecciones para llevar a cabo la verificación del transporte;
-
-X. Auxiliar al Titular en los procesos de liberación inmobiliaria, expropiación y ocupación temporal por causas de utilidad pública, en coordinación con las Dependencias competentes;
-
-XI. Atender consultas jurídicas del Titular, directores generales y coordinadores de área;
-
-XII. Mantener actualizado al Titular, directores generales y coordinadores de área de las publicaciones y modificaciones a leyes relacionadas con la actividad de la Coordinación General;
-
-XIII. Fungir como titular de la unidad de enlace de la Coordinación General en materia de transparencia y acceso a la información pública y mejora regulatoria;
-
-XIV. Signar en ausencia del Titular los informes solicitados por autoridades administrativas y judiciales, así como las demandas, contestaciones y demás recursos, incidentes y promociones que sean competencia de la Coordinación General;
-
-XV. Tramitar la inscripción en el Instituto Nacional del Derecho de Autor los sistemas de cómputo y las demás creaciones intelectuales susceptibles de registro que se desarrollen en la Coordinación General;
-
-XVI. Coadyuvar con las políticas y lineamientos establecidos por el Gobernador;
-
-XVII. Previo pago de los derechos correspondientes, expedir copias certificadas y constancias de expedientes relativos a asuntos de su competencia; y
-
-XVIII. Las demás que establezcan las leyes aplicables o los acuerdos del Titular en cada caso concreto.
-
-#### SECCIÓN TERCERA. Coordinación de Área Administrativa
-
-###### ARTÍCULO 13.
 
 Son facultades del Coordinador de Área Administrativo, las siguientes:
 
@@ -285,7 +261,7 @@ II. Diseñar, aplicar, dar seguimiento y evaluar las políticas y procedimientos
 
 III. Gestionar ante la Secretaría de Finanzas, la autorización del anteproyecto del presupuesto anual de la Coordinación General y las modificaciones al mismo durante su ejercicio, una vez aprobado;
 
-IV. Autorizar la afectación presupuestal de los convenios y contratos que suscriba la Coordinación General, previo dictamen de la Coordinación de Área Jurídica, así como de los demás documentos que impliquen actos de administración;
+IV. Autorizar la afectación presupuestal de los convenios y contratos que suscriba la Coordinación General, previo dictamen de la Dirección General Jurídica, así como de los demás documentos que impliquen actos de administración;
 
 V. Revisar y proponer, en su caso, las adecuaciones de la estructura programática de la Coordinación General, en coordinación con las direcciones generales y coordinadores de área responsables de la ejecución del presupuesto y programas;
 
@@ -337,11 +313,57 @@ XXVIII. Establecer y desarrollar los sistemas y mecanismos para el almacenamient
 
 XXIX. Desarrollar, implementar, mantener y actualizar las aplicaciones informáticas adecuadas a los requerimientos de la Coordinación General;
 
-XXX. Dar de baja e intervenir en las licitaciones de los bienes muebles puestos al servicio de la Coordinación General;
+XXX. Dar de baja e intervenir en las licitaciones de los bienes muebles puestos al· servicio de la Coordinación General;
 
 XXXI. Atender la coordinación que se requiera con las Dependencias y Entidades competentes, en materia de recursos humanos, materiales y financieros; y
 
 XXXII. Las demás que establezcan las leyes aplicables o los acuerdos del Titular en cada caso concreto.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MAYO DE 2019)</small>
+
+#### SECCIÓN TERCERA. Dirección General Jurídica
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2019)</small>
+
+###### ARTÍCULO 13.
+
+Son facultades del Director General Jurídico, las siguientes:
+
+I. Auxiliar al Titular en la elaboración de anteproyectos de iniciativas de leyes, reglamentos, decretos y manuales, dentro de su competencia y, en su caso, las reformas y actualizaciones a las mismas;
+
+II. Participar por encomienda del Titular en la discusión de anteproyectos de leyes que las Dependencias u organismos presenten y que se relacionen con las funciones de la Coordinación General;
+
+III. Substanciar y proponer al Titular el proyecto de resolución de los recursos administrativos que interpongan los particulares ante la Coordinación General;
+
+IV. Elaborar todo tipo de documentos legales que sean necesarios para proteger los intereses de la Coordinación General, y dar seguimiento a su tramitación ante los tribunales, fungiendo como delegado ante los mismos por parte de la Coordinación General y pudiendo autorizar a profesionales del derecho para oír y recibir toda clase de notificaciones;
+
+V. Elaborar proyectos de determinación y aplicación de sanciones a que se refieran las leyes de la materia o demás ordenamientos relacionados;
+
+VI. Auxiliar a las Direcciones de la Dependencia en la elaboración de las actas y, en su caso, minutas de las sesiones de los Comités o cuerpos colegiados en los que por disposición de la Ley deba presidir o participar la Coordinación General;
+
+VII. Elaborar los estudios y análisis jurídicos relacionados con la actividad de la Coordinación General;
+
+VIII. Elaborar los contratos, convenios, bases de coordinación o de colaboración que se le encomienden por parte del Titular; así como elaborar y revisar los convenios operativos derivados de los suscritos por el Gobernador, que sean necesarios para el cumplimiento de las atribuciones de la Coordinación General;
+
+IX. Auxiliar a las áreas competentes en las inspecciones para llevar a cabo la verificación del transporte;
+
+X. Auxiliar al Titular en los procesos de liberación inmobiliaria, expropiación y ocupación temporal por causas de utilidad pública, en coordinación con las Dependencias competentes;
+
+XI. Atender consultas jurídicas del Titular, directores generales y coordinadores de área;
+
+XII. Mantener actualizado al Titular, directores generales y coordinadores de área de las publicaciones y modificaciones a leyes relacionadas con la actividad de la Coordinación General;
+
+XIII. Fungir como titular de la unidad de enlace de la Coordinación General en materia de transparencia y acceso a la información pública y mejora regulatoria;
+
+XIV. Signar en ausencia del Titular los informes solicitados por autoridades administrativas y judiciales, así como las demandas, contestaciones y demás recursos, incidentes y promociones que sean competencia de la Coordinación General;
+
+XV. Tramitar la inscripción en el Instituto Nacional del Derecho de Autor los sistemas de cómputo y las demás creaciones intelectuales susceptibles de registro que se desarrollen en la Coordinación General;
+
+XVI. Coadyuvar con las políticas y lineamientos establecidos por el Gobernador;
+
+XVII. Previo pago de los derechos correspondientes, expedir copias certificadas y constancias de expedientes relativos a asuntos de su competencia; y
+
+XVIII. Las demás que establezcan las leyes aplicables o los acuerdos del Titular en cada caso concreto.
 
 ### CAPÍTULO IV. Dirección General de Movilidad
 
@@ -485,7 +507,9 @@ III. Coordinar sus actividades con los titulares de las demás Direcciones de la
 
 IV. Requerir a los concesionarios, permisionarios y autorizados del servicio de transporte, los datos, informes y documentos estrictamente necesarios para el desempeño de sus funciones;
 
-V. Informar a la Coordinación de Área Jurídica sobre la presunta comisión de delitos de los que tengan conocimiento en el ejercicio de sus funciones, aportando los elementos que sustenten la denuncia o querella correspondiente;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2019)</small>
+
+V. Informar a la Dirección General Jurídica sobre la presunta comisión de delitos de los que tengan conocimiento en el ejercicio de sus funciones, aportando los elementos que sustenten la denuncia o querella correspondiente;
 
 VI. Proponer, documentar y justificar la contratación de servidos técnicos y profesionales que se relacionen con su ámbito de competencia, de conformidad con las disposiciones aplicables;
 
@@ -555,15 +579,21 @@ IX. Las demás que establezcan las leyes aplicables o los acuerdos del Titular e
 
 ### CAPÍTULO VIII. Del Régimen de Suplencias de los Servidores Públicos
 
-###### ARTÍCULO 17.
-
-(SIC) El Titular será suplido en sus ausencias por los directores generales y coordinadores de área en la materia de su competencia.
+> <small>(REFORMADO, [N. DE E. EN SU NUMERAL] P.O. 27 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 18.
 
-Los directores generales y coordinadores de área serán suplidos en sus ausencias por el servidor público de la jerarquía inmediata inferior que el Titular designe.
+El Titular será suplido en sus ausencias por los directores generales y coordinadores de área en la materia de su competencia.
+
+> <small>(REFORMADO, [N. DE E. EN SU NUMERAL] P.O. 27 DE MAYO DE 2019)</small>
 
 ###### ARTÍCULO 19.
+
+Los directores generales y coordinadores de área serán suplidos en sus ausencias por el servidor público de la jerarquía inmediata inferior que el Titular designe.
+
+> <small>(REFORMADO, [N. DE E. EN SU NUMERAL] P.O. 27 DE MAYO DE 2019)</small>
+
+###### ARTÍCULO 20.
 
 Los jefes de departamento y demás personal de la Coordinación General, serán suplidos en sus ausencias temporales por el servidor público de la jerarquía inmediata inferior que el Titular designe.
 
@@ -592,3 +622,13 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO DE AGUASCALIENTES.
 C. Francisco Javier Luévano Nuñez,
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DE “REFORMAS Y ADICIONES AL REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE MOVILIDAD”.]
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes Reformas y Adiciones al Reglamento Interior de la Coordinación General de Movilidad entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
