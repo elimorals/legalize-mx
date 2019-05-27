@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2018-09-03"
+last_updated: "2019-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -97,7 +97,9 @@ c) Adulto mayor parcialmente dependiente: Adulto con dependencia leve que requie
 
 d) Adulto mayor totalmente dependiente: Adulto mayor que requiere asistencia para realizar todas sus actividades básicas o instrumentadas de la vida diaria; y
 
-e) Adulto mayor en situación de riesgo o desamparo: Adulto con problemas de salud, abandono o carencia de apoyos económicos o familiares que requiere la asistencia y protección del Ejecutivo del Estado, de los Municipios y de las Organizaciones de la Sociedad Civil;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE MAYO DE 2019)</small>
+
+e) Adulto mayor en situación de riesgo o desamparo: Adulto con problemas de salud, abandono, carencia de apoyos económicos, carencia de apoyo familiar, víctima de contingencias ambientales o víctima de desastres naturales, que requiere la asistencia y protección del Ejecutivo del Estado, de los Municipios y de las Organizaciones de la Sociedad Civil;
 
 Las autoridades correspondientes deberán elaborar programas que atiendan en la generalidad a las personas adultas mayores, sin descuidar a ningún grado de vulnerabilidad de los descritos en los incisos anteriores.
 
@@ -231,9 +233,17 @@ D) Tener acceso a toda la información gerontológica disponible, para increment
 
 E) Recibir una atención médica integral con calidad, especializada en atención al adulto mayor, desde el primero y hasta el tercer nivel de atención a través de acciones y programas de prevención, diagnóstico, tratamiento y rehabilitación;
 
-F) Disponer de información amplia sobre su estado de salud y participar en las decisiones sobre el tratamiento de sus enfermedades, excepto en casos en que sea judicialmente declarado incapaz; y
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2019)</small>
 
-G) Contar con una cartilla médica única para el control de su salud;
+F) Disponer de información amplia sobre su estado de salud y participar en las decisiones sobre el tratamiento de sus enfermedades, excepto en casos en que sea judicialmente declarado incapaz;
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2019)</small>
+
+G) Contar con una cartilla médica única para el control de su salud; y
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2019)</small>
+
+H) A recibir cuidados paliativos, entendiendo por estos la atención y cuidado activo, integral e interdisciplinario de pacientes cuya enfermedad no responde a un tratamiento curativo o sufren dolores evitables, a fin de mejorar su calidad de vida hasta el fin de sus días, así como la atención primordial al control del dolor, de otros síntomas, de los problemas sociales y padecimientos psicológicos y físicos de la persona mayor, debiendo abarcar al paciente, su entorno y su familia. Los cuidados paliativos deben de afirmar la vida y considerar la muerte como un proceso normal, sin buscar acelerarla ni retrasarla;
 
 IV. De la educación:
 
@@ -303,7 +313,9 @@ II. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor pa
 
 III. Conocer los derechos de las personas adultas mayores previstos en la presente Ley, así como los que se encuentran contemplados en la Constitución Política del Estado y demás ordenamientos para su debida observancia;
 
-IV. Evitar que alguno de sus integrantes realice cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o cualquier otro que ponga en riesgo la persona, bienes o derechos del adulto mayor;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2019)</small>
+
+IV. Adoptar medidas para prevenir y erradicar aquellas prácticas que provoquen aislamiento, abandono, sujeciones físicas prolongadas, hacinamiento, expulsiones de su comunidad, la negación de nutrición, infantilización, tratamientos médicos inadecuados o desproporcionados, entre otras, y todas aquellas que constituyan malos tratos que atenten contra la seguridad e integridad de la persona mayor, así como también, de sus bienes y derechos;
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
 
@@ -351,9 +363,11 @@ Los establecimientos que presten servicio a las personas adultas mayores deberá
 
 ### CAPÍTULO I. Del Ejecutivo del Estado
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2019)</small>
+
 ###### ARTÍCULO 15.
 
-Las Dependencias y Entidades integrantes de la Administración Pública Estatal y Municipales, se constituyen en promotoras proactivas de los derechos que les consagra esta Ley a las personas adultas mayores.
+Las Dependencias y Entidades integrantes de la Administración Pública Estatal y Municipales, se constituyen en promotoras de los derechos que les consagra esta Ley a las personas adultas mayores, así como de las políticas públicas que impulsen su calidad de vida digna y saludable, con un enfoque de derechos humanos, además de tener la obligación de promover y difundir lo contenido en la presente Ley.
 
 ###### ARTÍCULO 16.
 
@@ -1136,3 +1150,19 @@ P.O. 3 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 159.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 2° Y 15 DE LA LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 160.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 5º Y 7º; Y SE ADICIONA EL ARTÍCULO 5º, DE LA LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
