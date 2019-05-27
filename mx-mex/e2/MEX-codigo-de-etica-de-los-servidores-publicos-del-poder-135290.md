@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-etica-de-los-servidores-publicos-del-poder-135290"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-04-02"
-last_updated: "2019-04-02"
+last_updated: "2019-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MEXICO Y SUS ORGANISMO AUXILIARES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MAYO DE 2019 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MÉXICO Y SUS ORGANISMOS AUXILIARES
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 27 DE MAYO DE 2019.]</small>
 
 Código publicado en la Sección Primera del Número 61 de la Gaceta del Gobierno del Estado de México, el martes 2 de abril de 2019.
 
@@ -193,7 +193,9 @@ SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 
 TERCERO. En términos de lo establecido por el artículo Transitorio Vigésimo Tercero del Decreto número 207, por el que se expide la Ley del Sistema Anticorrupción del Estado de México y Municipios; y la Ley de Responsabilidades Administrativas del Estado de México y Municipios, quedan sin efectos todas las disposiciones legales de igual o menor jerarquía que contravengan al presente Acuerdo.
 
-CUARTO. Las Dependencias y Organismos Auxiliares deberán emitir su Código de Conducta observando lo establecido por este Código de Ética, en un plazo no mayor a 60 días naturales, a partir de la entrada en vigor del presente Acuerdo.
+> <small>(F. DE E., G.G. 27 DE MAYO DE 2019)</small>
+
+CUARTO. Las Dependencias y Organismos Auxiliares deberán emitir su Código de Conducta observando lo establecido por este Código de Ética, en un plazo no mayor a 90 días naturales, a partir de la entrada en vigor del presente Acuerdo.
 
 Dado en la ciudad de Toluca de Lerdo, capital del Estado de México, a los siete días del mes de febrero del año dos mil diecinueve.
 
