@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2018-06-11"
+last_updated: "2019-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2019.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2565,9 +2565,11 @@ Contra esta presunción no se admite otra prueba que la de haber sido físicamen
 
 La presunción establecida en el artículo anterior no será aplicable cuando la mujer acredite que ha estado separada de su cónyuge y el hijo fuere reconocido por persona diferente al mismo.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 350.
 
-El marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre que durante los diez meses que precedieron al nacimiento no tuvo acceso carnal con su esposa.
+En todo caso de desconocimiento de paternidad, se deberá privilegiar el interés superior del menor y el derecho de éstos a la identidad.
 
 ###### Artículo 351.
 
@@ -2679,9 +2681,11 @@ III.- Que el presunto padre tenga la edad exigida por el artículo 385.
 
 Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se considerarán como hijos de matrimonio.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 369.
 
-No basta el dicho de la madre para excluir de la paternidad al marido. Mientras que éste viva, únicamente él podrá reclamar contra la filiación del hijo concebido durante el matrimonio.
+No basta el dicho de la madre para excluir de la paternidad al marido.
 
 ###### Artículo 370.
 
@@ -2835,9 +2839,21 @@ El Oficial del Registro Civil, el juez de Primera Instancia en su caso, y el not
 
 Cualquiera de los padres podrá reconocer al hijo nacido antes del matrimonio de aquellos; y el marido podrá reconocer al habido durante éste; pero no tendrán derecho de llevarlo a vivir a la habitación conyugal, si no es con el consentimiento de la esposa.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 397.
 
-El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoria se haya declarado que no es hijo suyo.
+El hijo de una mujer casada puede ser reconocido como hijo por otro hombre distinto al marido; sin embargo, para dar trámite a una controversia de paternidad por parte de este último, el juzgador deberá privilegiar el interés superior del menor, valorando los siguientes factores:
+
+I.- La integralidad de la familia donde se ha desenvuelto el menor;
+
+II.- La situación general que guarda el menor;
+
+III.- El estado en que se encuentra la relación matrimonial, y en particular de cada consorte con respecto de la niña o niño;
+
+IV.- El derecho a la identidad (sic) la niña o niño; y
+
+V.- Cualquier otro aspecto que permita determinar si la pretensión es acorde al interés superior del menor.
 
 ###### Artículo 398.
 
@@ -17254,3 +17270,11 @@ P.O. 11 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 161.- SE REFORMAN LOS ARTÍCULOS 350, 369 Y 397 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
