@@ -4,7 +4,7 @@ identifier: "TLA-reglamento-interior-del-congreso-del-estado-de-tlaxcala-25080"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-24"
-last_updated: "2018-11-21"
+last_updated: "2019-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2019.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 24 de mayo de 2002.
 
@@ -925,9 +925,13 @@ A la Comisión de Información Pública y Protección de Datos Personales le cor
 
 I. Coordinar y supervisar las acciones tendientes a garantizar el acceso a la información que sea clasificada como pública a través de la Secretaría Parlamentaria que será el área Responsable de la Información;
 
-II. Organizar y facilitar el acceso a la información y dar trámite a las solicitudes de información presentadas ante el Congreso del Estado;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2019)</small>
 
-III. Elaborar los proyectos de iniciativa de reformas y adiciones a la Constitución, a la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Tlaxcala y demás Leyes en la materia, y
+II. Organizar y facilitar el acceso a la información y dar trámite a las solicitudes de información presentadas ante el Congreso del Estado, con excepción de aquellas atribuciones concedidas al Comité y al Presidente del mismo, en los artículos 11 fracciones III, IV, VII y 12 fracción III del Reglamento Interior de Acceso a la Información para el Congreso del Estado de Tlaxcala.
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2019)</small>
+
+III. Elaborar los proyectos de iniciativa de reformas y adiciones a la Constitución, a la Ley de Transparencia y Acceso a la Información pública del Estado de Tlaxcala, Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Tlaxcala, Ley de Archivos del Estado de Tlaxcala, y demás leyes en la materia, y
 
 IV. Elaborar los dictámenes con Proyecto de Decreto o Acuerdos sobre los asuntos que le sean turnados, según sea el caso.
 
@@ -963,7 +967,7 @@ b) El establecimiento de acciones o programas tendientes a combatir la pobreza e
 
 II. La elaboración de investigaciones, foros y documentos que sean alternativas eficaces en el diseño de políticas públicas que tutelen el desarrollo humano y social, y
 
-III. Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva; la Comisión Permanente o la Junta de Coordinación y Concertación Política.
+III. Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Coordinación y Concertación Política.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
@@ -2066,3 +2070,15 @@ El presente Decreto entrará en vigor al momento de su aprobación, debiéndose 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 27 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 95.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TLAXCALA, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA; Y DEL REGLAMENTO INTERIOR DE ACCESO A LA INFORMACIÓN PARA EL CONGRESO DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su aprobación, debiéndose publicar en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
