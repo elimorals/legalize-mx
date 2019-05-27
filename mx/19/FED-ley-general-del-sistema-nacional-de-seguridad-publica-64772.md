@@ -4,7 +4,7 @@ identifier: "FED-ley-general-del-sistema-nacional-de-seguridad-publica-64772"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-01-02"
-last_updated: "2017-06-26"
+last_updated: "2019-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGSNSP"
 
 LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MAYO DE 2019.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 2 de enero de 2009.
 
@@ -44,9 +44,11 @@ LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA
 
 ## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 1.
 
-La presente Ley es reglamentaria del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos en materia de Seguridad Pública y tiene por objeto regular la integración, organización y funcionamiento del Sistema Nacional de Seguridad Pública, así como establecer la distribución de competencias y las bases de coordinación entre la Federación, los Estados, el Distrito Federal y los Municipios, en esta materia.
+La presente Ley es reglamentaria del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos en materia de Seguridad Pública y tiene por objeto regular la integración, organización y funcionamiento del Sistema Nacional de Seguridad Pública, así como establecer la distribución de competencias y las bases de coordinación entre la Federación, las entidades federativas y los Municipios, en esta materia.
 
 Sus disposiciones son de orden público e interés social y de observancia general en todo el territorio nacional.
 
@@ -68,7 +70,9 @@ La función de Seguridad Pública se realizará en los diversos ámbitos de comp
 
 El Sistema Nacional de Seguridad Pública contará para su funcionamiento y operación con las instancias, instrumentos, políticas, acciones y servicios previstos en la presente Ley, tendientes a cumplir los fines de la Seguridad Pública.
 
-La coordinación en un marco de respeto a las atribuciones entre las instancias de la Federación, los Estados, el Distrito Federal y los Municipios, será el eje del Sistema Nacional de Seguridad Pública.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
+La coordinación, en un marco de respeto a las atribuciones entre las instancias de la Federación, las entidades federativas y los Municipios, será el eje del Sistema Nacional de Seguridad Pública.
 
 ###### Artículo 5.
 
@@ -76,7 +80,9 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Academias: a las Instituciones de Formación, de Capacitación y de Profesionalización Policial;
 
-II. Bases de Datos Criminalísticas y de Personal: Las bases de datos nacionales y la información contenida en ellas, en materia de detenciones, información criminal, personal de seguridad pública, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, sentenciados y las demás necesarias para la operación del Sistema.
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+II. Bases de Datos: Las bases de datos que constituyen subconjuntos sistematizados de la información contenida en Registros Nacionales en materias relativas a detenciones, armamento, equipo y personal de seguridad pública, medidas cautelares, soluciones alternas y formas de terminación anticipada, así como las bases de datos del Ministerio Público y las instituciones policiales de los tres órdenes de gobierno relativas a la información criminalística, huellas dactilares de personas sujetas a un proceso o investigación penal, teléfonos celulares, personas sentenciadas y servicios de seguridad privada, así como las demás necesarias para la prevención, investigación y persecución de los delitos. El conjunto de bases de datos conformará el Sistema Nacional de Información;
 
 III. Carrera Ministerial: al Servicio Profesional de Carrera Ministerial;
 
@@ -102,21 +108,29 @@ XII. Programa Rector: al conjunto de contenidos encaminados a la profesionalizac
 
 XIII. Registro Nacional: el Registro Nacional de Personal de las Instituciones de Seguridad Pública;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
 
-XIV. Secretaría: A la Secretaría de Gobernación de la Administración Pública Federal;
+XIV. Secretaría: a la Secretaría de Seguridad y Protección Ciudadana del Gobierno Federal;
 
 XV. Secretario Ejecutivo: el Titular del Secretariado Ejecutivo del Sistema;
 
-XVI. Sistema: al Sistema Nacional de Seguridad Pública.
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+XVI. Sistema: al Sistema Nacional de Seguridad Pública, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+XVII. Sistema Nacional de Información: al Sistema Nacional de Información en Seguridad Pública, el cual constituye el conjunto integrado, organizado y sistematizado de las Bases de Datos. Está integrado por elementos metodológicos y procedimentales que permiten a las Instituciones de Seguridad Pública su consulta e interconexión para el desempeño de sus funciones.
 
 ###### Artículo 6.
 
 Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional, su actuación se regirá además, por los principios de legalidad, objetividad, eficiencia, honradez, y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos. Deberán fomentar la participación ciudadana y rendir cuentas en términos de ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 7.
 
-Conforme a las bases que establece el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, las Instituciones de Seguridad Pública de la Federación, el Distrito Federal, los Estados y los Municipios, en el ámbito de su competencia y en los términos de esta Ley, deberán coordinarse para:
+Conforme a las bases que establece el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, las Instituciones de Seguridad Pública de la Federación, las entidades federativas y los Municipios, en el ámbito de su competencia y en los términos de esta Ley, deberán coordinarse para:
 
 I. Integrar el Sistema y cumplir con sus objetivos y fines;
 
@@ -134,7 +148,11 @@ VII. Regular los sistemas disciplinarios, así como de reconocimientos, estímul
 
 VIII. Determinar criterios uniformes para la organización, operación y modernización tecnológica de las Instituciones de Seguridad Pública;
 
-IX. Establecer y controlar bases de datos criminalísticos y de personal;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+IX. Generar, compartir, intercambiar, ingresar, almacenar y proveer información, archivos y contenidos a las Bases de Datos que integran el Sistema Nacional de Información, de conformidad con lo dispuesto en la legislación en la materia.
+
+Tratándose de manejo de datos que provengan del Registro Nacional de Detenciones se atendrá a lo dispuesto en la Ley Nacional del Registro de Detenciones;
 
 X. Realizar acciones y operativos conjuntos de las Instituciones de Seguridad Pública;
 
@@ -364,21 +382,33 @@ XXIV. Coordinar la homologación de la Carrera Policial, la Profesionalización 
 
 XXV. Las demás que le otorga esta Ley y demás disposiciones aplicables, así como las que le encomiende el Consejo Nacional o su Presidente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 19.
 
-El Centro Nacional de Información será el responsable de la operación del Sistema Nacional de Información de Seguridad Pública y tendrá, entre otras, las siguientes atribuciones:
+El Centro Nacional de Información será el responsable de regular el Sistema Nacional de Información y tendrá, entre otras, las siguientes atribuciones:
 
-I. Establecer, administrar y resguardar las bases de datos criminalísticos y de personal del Sistema en términos que señale el reglamento;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
 
-II. Determinar los criterios técnicos y de homologación de las bases de datos de los integrantes del Sistema;
+I. Determinar los criterios técnicos y de homologación de las Bases de Datos que conforman el Sistema Nacional de Información;
 
-III. Emitir los protocolos de interconexión, acceso y seguridad de estas bases de datos;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+II. Emitir los lineamientos de uso, manejo y niveles de acceso al Sistema Nacional de Información;
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+III. Conocer, integrar y analizar las Bases de Datos del Sistema Nacional de Información, en términos de los lineamientos que al efecto emita;
 
 IV. Vigilar el cumplimiento de los criterios de acceso a la información y hacer del conocimiento de las instancias competentes cualquier irregularidad detectada;
 
-V. Colaborar con el Instituto Nacional de Información de Estadística y Geografía, en la integración de la estadística nacional en materia de seguridad pública, de conformidad con la Ley de la materia, y
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
 
-VI. Brindar asesoría a las Instituciones de Seguridad Pública para la integración de información, interconexión, acceso, uso, intercambio y establecimiento de medidas de seguridad para las bases de datos.
+V. Colaborar con el Instituto Nacional de Estadística y Geografía, así como celebrar convenios con ese organismo para la integración de la estadística nacional en materia de seguridad pública, de conformidad con la ley y los lineamientos que emita el Sistema Nacional, y
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+VI. Brindar asesoría a las Instituciones de Seguridad Pública para la integración y uso de la información de las Bases de Datos al Sistema Nacional de Información.
 
 ###### Artículo 20.
 
@@ -398,7 +428,9 @@ c) Prevenir la violencia generada por el uso de armas, el abuso de drogas y alco
 
 d) Garantizar la atención integral a las víctimas.
 
-IV. Realizar, por sí o por terceros, estudios sobre las causas estructurales del delito, su distribución geodelictiva, estadísticas de conductas ilícitas no denunciadas, tendencias históricas y patrones de comportamiento que permitan actualizar y perfeccionar la política criminal y de seguridad pública nacional;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+IV. Realizar, por sí o por terceros, estudios sobre las causas estructurales del delito, su distribución geodelictiva, estadísticas de conductas ilícitas no denunciadas, tendencias históricas y patrones de comportamiento que permitan actualizar y perfeccionar la política criminal y de seguridad pública nacional; para ello, podrá allegarse de la información estadística que integra el Sistema Nacional de Información;
 
 V. Realizar, por sí o por terceros, encuestas victimológicas, de fenómenos delictivos y otras que coadyuven a la prevención del delito;
 
@@ -418,9 +450,11 @@ El Centro Nacional de Certificación y Acreditación será el responsable de la 
 
 Este Centro contará con un órgano consultivo integrado por las instituciones públicas y privadas que se determinen en el Reglamento de este ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 22.
 
-Corresponde al Centro Nacional de Certificación y Acreditación, verificar que los centros de evaluación y control de confianza de la federación, Estados y Distrito Federal, realizan sus funciones de conformidad con las normas técnicas y estándares mínimos en materia de evaluación y control de confianza de los servidores públicos de las Instituciones de Seguridad Pública. Para tal efecto, tendrá las facultades siguientes:
+Corresponde al Centro Nacional de Certificación y Acreditación, verificar que los centros de evaluación y control de confianza de entidades federativas realicen sus funciones de conformidad con las normas técnicas y estándares mínimos en materia de evaluación y control de confianza de los servidores públicos de las Instituciones de Seguridad Pública. Para tal efecto, tendrá las facultades siguientes:
 
 I. Establecer los criterios mínimos para la evaluación y control de confianza de los servidores públicos, tomando en consideración las recomendaciones, propuestas y lineamientos de las conferencias.
 
@@ -444,9 +478,11 @@ X. Las demás que resulten necesarias para el desempeño de sus funciones.
 
 ### CAPÍTULO IV. De la Conferencia Nacional de Procuración de Justicia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 23.
 
-La Conferencia Nacional de Procuración de Justicia estará integrada por los titulares de las Instituciones de Procuración de Justicia de la Federación, el Distrito Federal y los Estados, y será presidida por el Procurador General de la República.
+La Conferencia Nacional de Procuración de Justicia estará integrada por las personas titulares de las Instituciones de Procuración de Justicia de la Federación y de las entidades federativas, y será presidida por el Fiscal General de la República.
 
 Dicha Conferencia contará con un Secretario Técnico que será nombrado y removido por el Presidente de la misma.
 
@@ -454,7 +490,9 @@ Dicha Conferencia contará con un Secretario Técnico que será nombrado y remov
 
 El Presidente de la Conferencia Nacional de Procuración de Justicia podrá invitar a personas e instituciones por razón de los asuntos a tratar.
 
-El Procurador General de Justicia Militar será invitado permanente de esta Conferencia.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
+La persona titular de la Fiscalía General de Justicia Militar será invitada permanente de esta Conferencia.
 
 ###### Artículo 25.
 
@@ -486,7 +524,9 @@ XII. Promover mecanismos de coordinación, en materia de investigación de delit
 
 XIII. Impulsar las acciones necesarias para promover la denuncia de los delitos y la participación de la comunidad en las actividades de procuración de justicia;
 
-XIV. Determinar las políticas y lineamientos sobre datos de procedimientos penales, juicios de amparo y otros procesos judiciales en los que intervenga el Ministerio Público, que se integren a las bases de datos que establece el presente ordenamiento;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+XIV. Determinar las políticas y lineamientos sobre datos de procedimientos, juicios de amparo y otros procesos judiciales en los que intervenga el Ministerio Público, que integren las Bases de Datos del Sistema Nacional de Información;
 
 XV. Fijar criterios de cooperación y coordinación para la entrega de indiciados, procesados y sentenciados; el cumplimiento de mandamientos judiciales y ministeriales; el aseguramiento de bienes instrumento, objeto o producto de delitos y el desahogo de diligencias judiciales, ministeriales y periciales;
 
@@ -500,7 +540,9 @@ XIX. Establecer lineamientos para el desahogo de procedimientos de extradición 
 
 XX. Promover la homologación de criterios para la regulación e instrumentación de la cadena de custodia de los indicios, huellas o vestigios del hecho delictuoso y de los instrumentos, objetos o productos del delito;
 
-XXI. Proponer al Centro Nacional de Información, criterios para el funcionamiento de las bases de datos criminalísticos y de personal de las Instituciones de Procuración de Justicia;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+XXI. Proponer al Centro Nacional de Información los criterios para la integración de la información, funcionamiento, consulta y medidas de seguridad del Sistema Nacional de Información;
 
 XXII. Expedir sus reglas de organización y funcionamiento;
 
@@ -566,7 +608,9 @@ XIV. Proponer los requisitos que debe contener el Certificado Único Policial;
 
 XV. Definir criterios homogéneos para la recopilación, sistematización y manejo de información por parte de las Instituciones Policiales y promover su aplicación;
 
-XVI. Proponer al Centro Nacional de Información, criterios para el funcionamiento de las bases de datos criminalísticos y de personal de las Instituciones Policiales y para el manejo de información;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+XVI. Proponer al Centro Nacional de Información los criterios para la integración de la información, funcionamiento, consulta y medidas de seguridad del Sistema Nacional de Información;
 
 XVII. Proponer mecanismos de coordinación, en materia de investigación de delitos, a la Conferencia Nacional de Procuración de Justicia;
 
@@ -576,9 +620,11 @@ XIX. Las demás que le otorga esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO VI. De la Conferencia Nacional del Sistema Penitenciario
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 30.
 
-La Conferencia Nacional del Sistema Penitenciario, se integrará por los titulares de los órganos de prevención y de reinserción social o sus equivalentes de la Federación, los Estados y el Distrito Federal, y será presidida por quien designe el titular de la Secretaría.
+La Conferencia Nacional del Sistema Penitenciario se integrará por los titulares de los órganos de prevención y de reinserción social o sus equivalentes de la Federación y de las entidades federativas, y será presidida por quien designe el titular de la Secretaría.
 
 Dicha Conferencia contará con un Secretario Técnico que será nombrado y removido por el titular de la Secretaría.
 
@@ -596,11 +642,13 @@ IV. Proponer mecanismos para implementar la educación y el deporte como medios 
 
 V. Promover la adopción del trabajo comunitario como mecanismo de reinserción social en las legislaciones aplicables;
 
-VI. Plantear criterios para eficientar los convenios que se celebren entre la Federación, los Estados y el Distrito Federal, a efecto de que los sentenciados por delitos del ámbito de su competencia, extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa, con estricto apego a las disposiciones legales aplicables;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+VI. Plantear criterios para eficientar los convenios que se celebren entre la Federación y las entidades federativas, a efecto de que los sentenciados por delitos del ámbito de su competencia, extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa, con estricto apego a las disposiciones legales aplicables;
 
-VII. Promover el intercambio, registro, sistematización y consulta de la información de seguridad pública en las bases de datos criminalísticos y de personal;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+VII. Promover el intercambio, registro, sistematización y consulta de la información de seguridad pública en el Sistema Nacional de Información;
 
 > <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2012)</small>
 
@@ -614,13 +662,17 @@ IX. Las demás que establezcan las disposiciones legales aplicables y el Consejo
 
 ### CAPÍTULO VII. De la Conferencia Nacional de Seguridad Pública Municipal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 32.
 
-La Conferencia Nacional de Seguridad Pública Municipal, estará integrada por los Presidentes Municipales y titulares de los órganos político-administrativos del Distrito Federal que participarán de conformidad con las siguientes reglas:
+La Conferencia Nacional de Seguridad Pública Municipal estará integrada por las personas titulares de las presidencias municipales y alcaldías de la Ciudad de México que participarán, de conformidad con las siguientes reglas:
 
 I. Dos Presidentes municipales, de cada Estado, designados por el Consejo Local de Seguridad Pública correspondiente, y
 
-II. Dos titulares de los órganos político administrativos del Distrito Federal serán nombrados por el Consejo Local de Seguridad Pública.
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+II. Dos personas titulares de las alcaldías de la Ciudad de México designadas por el Consejo Local de Seguridad Pública.
 
 Dicha Conferencia Nacional contará con un Presidente, que será designado de entre sus miembros por el pleno de misma.
 
@@ -652,11 +704,15 @@ X. Las demás que establezcan otras disposiciones legales o el consejo nacional.
 
 ### CAPÍTULO VIII. De los Consejos Locales e Instancias Regionales de Coordinación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 34.
 
-En el Distrito Federal y en los Estados se establecerán consejos locales encargados de la coordinación, planeación e implementación del Sistema en los respectivos ámbitos de gobierno. Asimismo, serán los responsables de dar seguimiento a los acuerdos, lineamientos y políticas emitidos por el Consejo Nacional, en sus respectivos ámbitos de competencia.
+En las entidades federativas se establecerán consejos locales encargados de la coordinación, planeación e implementación del Sistema en los respectivos ámbitos de gobierno. Asimismo, serán los responsables de dar seguimiento a los acuerdos, lineamientos y políticas emitidos por el Consejo Nacional, en sus respectivos ámbitos de competencia.
 
-En los consejos locales de cada Estado participarán los municipios en los términos de la legislación de cada entidad federativa. En el caso del Distrito Federal, participarán los titulares de los órganos político administrativos de las demarcaciones territoriales, de conformidad con la legislación aplicable. Estos Consejos invitarán a cada sesión al menos a dos representantes de la sociedad civil o de la comunidad, de conformidad con los temas a tratar. Su participación será de carácter honorífico.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
+En los Consejos Locales de cada Estado participarán los municipios en los términos de la legislación de cada entidad federativa. En el caso de la Ciudad de México participarán las personas titulares de las alcaldías, de conformidad con la legislación aplicable. Estos Consejos invitarán a cada sesión al menos a dos representantes de la sociedad civil o de la comunidad, de conformidad con los temas a tratar. Su participación será de carácter honorífico.
 
 Los Consejos Locales y las Instancias Regionales de Coordinación se organizarán, de modo que permita el cumplimiento de sus fines, tomando como base la estructura del Sistema e integración del Consejo Nacional.
 
@@ -672,7 +728,9 @@ Además, podrán invitar a personas e instituciones, de acuerdo con los temas a 
 
 Cuando para el cumplimiento de la función de Seguridad Pública sea necesaria la participación de dos o más entidades federativas, se establecerán instancias regionales de coordinación, con carácter temporal o permanente, en las que participarán las Instituciones de Seguridad Pública correspondientes.
 
-Del mismo modo, podrán establecerse instancias intermunicipales, con apego a los ordenamientos estatales correspondientes. En el caso de las zonas conurbadas entre dos o más entidades federativas, se podrán suscribir convenios e instalar instancias regionales con la participación de los municipios respectivos y de los órganos político administrativos, tratándose del Distrito Federal.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
+Del mismo modo, podrán establecerse instancias intermunicipales, con apego a los ordenamientos estatales correspondientes. En el caso de las zonas conurbadas entre dos o más entidades federativas, se podrán suscribir convenios e instalar instancias regionales con la participación de los municipios respectivos y de las alcaldías tratándose de la Ciudad de México.
 
 ###### Artículo 37.
 
@@ -688,13 +746,17 @@ Los Consejos Locales y las instancias regionales podrán proponer al Consejo Nac
 
 ### CAPÍTULO IX. De la distribución de competencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 39.
 
-La concurrencia de facultades entre la Federación, el Distrito Federal, los Estados y los Municipios, quedará distribuida conforme a lo siguiente:
+La concurrencia de facultades entre la Federación, las entidades federativas y los Municipios, quedará distribuida conforme a lo siguiente:
 
 A. Corresponde a la Federación, por conducto de las autoridades competentes:
 
-I. Proponer las acciones tendientes a asegurar la coordinación entre la Federación, el Distrito Federal, los Estados y los Municipios;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+I. Proponer las acciones tendientes a asegurar la coordinación entre la Federación, las entidades federativas y los Municipios;
 
 II. Respecto del Desarrollo Policial:
 
@@ -716,11 +778,19 @@ b) En materia de Profesionalización, proponer al Consejo Nacional:
 
 c) En materia de Régimen Disciplinario, proponer al Consejo Nacional los lineamientos para la aplicación de los procedimientos respectivos.
 
-III. Coordinar las acciones para la vigilancia y protección de las Instalaciones Estratégicas, y
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+III. Coordinar las acciones para la vigilancia y protección de las Instalaciones Estratégicas;
+
+> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+IV. Operar el Sistema Nacional de Información, en los términos que señale esta Ley, y
 
 IV. Las demás que establezcan otras disposiciones legales.
 
-B. Corresponde a la Federación, el Distrito Federal, los Estados y los Municipios, en el ámbito de sus respectivas competencias:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 27 DE MAYO DE 2019)</small>
+
+B. Corresponde a la Federación, a las entidades federativas y a los Municipios, en el ámbito de sus respectivas competencias:
 
 I. Garantizar el cumplimiento de la presente Ley y demás disposiciones que deriven de ésta;
 
@@ -730,7 +800,9 @@ III. Aplicar y supervisar los procedimientos relativos a la Carrera Policial, Pr
 
 IV. Constituir y operar las Comisiones y las Academias a que se refiere esta Ley;
 
-V. Asegurar su integración a las bases de datos criminalísticos y de personal;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+V. Proporcionar al Sistema Nacional de Información las Bases de Datos correspondientes para su interconexión y consulta, de conformidad con esta Ley y otras disposiciones jurídicas aplicables;
 
 VI. Designar a un responsable del control, suministro y adecuado manejo de la información a que se refiere esta Ley;
 
@@ -742,7 +814,9 @@ IX. Coadyuvar a la integración y funcionamiento del Desarrollo Policial, Minist
 
 X. Establecer centros de evaluación y control de confianza, conforme a los lineamientos, procedimientos, protocolos y perfiles determinados por el Centro Nacional de Certificación y Acreditación, así como garantizar la observancia permanente de la normatividad aplicable;
 
-XI. Integrar y consultar la información relativa a la operación y Desarrollo Policial para el registro y seguimiento, en las bases de datos criminalísticos y de personal de Seguridad Pública;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+XI. Integrar y consultar la información relativa a la operación y Desarrollo Policial para el registro y seguimiento en el Sistema Nacional de Información;
 
 XII. Destinar los fondos de ayuda federal para la seguridad pública exclusivamente a estos fines y nombrar a un responsable de su control y administración;
 
@@ -852,7 +926,9 @@ X. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o jue
 
 XI. Las demás que establezcan las disposiciones legales aplicables.
 
-Siempre que se use la fuerza pública se hará de manera racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a las disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
+Siempre que se use la fuerza pública se hará de manera racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a la Ley Nacional sobre el Uso de la Fuerza; así como a las demás disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
 
 ###### Artículo 42.
 
@@ -860,9 +936,11 @@ El documento de identificación de los integrantes de las instituciones (sic) Se
 
 Todo servidor público tiene la obligación de identificarse salvo los casos previstos en la ley, a fin de que el ciudadano se cerciore de que cuenta con el registro correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 43.
 
-La Federación, el Distrito Federal y los Estados, establecerán en las disposiciones legales correspondientes que los integrantes de las Instituciones Policiales deberán llenar un Informe Policial Homologado que contendrá, cuando menos, los siguientes datos:
+La Federación y las entidades federativas establecerán en las disposiciones legales correspondientes que los integrantes de las Instituciones Policiales deberán llenar un Informe Policial Homologado que contendrá, cuando menos, los siguientes datos:
 
 I. El área que lo emite;
 
@@ -900,9 +978,11 @@ g) Lugar en el que fue puesto a disposición.
 
 El informe debe ser completo, los hechos deben describirse con continuidad, cronológicamente y resaltando lo importante; no deberá contener afirmaciones sin el soporte de datos o hechos reales, por lo que deberá evitar información de oídas, conjeturas o conclusiones ajenas a la investigación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 44.
 
-Las legislaciones de la Federación, el Distrito Federal y los estados establecerán las sanciones aplicables al incumplimiento de los deberes previstos en esta ley, los procedimientos y los órganos competentes que conocerán de éstos. Las sanciones serán al menos, las siguientes:
+Las legislaciones de la Federación y de las entidades federativas establecerán las sanciones aplicables al incumplimiento de los deberes previstos en esta Ley, los procedimientos y los órganos competentes que conocerán de estos. Las sanciones serán al menos, las siguientes:
 
 a) Amonestación;
 
@@ -926,7 +1006,9 @@ Las Instituciones de Seguridad Pública, conforme a lo dispuesto en esta Ley, re
 
 La Federación y las entidades federativas establecerán y operarán Academias e Institutos que serán responsables de aplicar los Programas Rectores de Profesionalización que tendrán, entre otras, las siguientes funciones:
 
-I. Aplicar los procedimientos homologados del Sistema;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+I. Aplicar los procedimientos homologados del Sistema, impulsando una doctrina policial civil en la que la formación y el desempeño de los integrantes de las Instituciones Policiales se rijan por el servicio a la sociedad, la disciplina, el respeto a los derechos humanos, al imperio de la ley, al mando superior, y en lo conducente, a la perspectiva de género;
 
 II. Capacitar en materia de investigación científica y técnica a los servidores públicos;
 
@@ -1240,9 +1322,11 @@ La Institución de Procuración de Justicia que cancele algún certificado deber
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 72.
 
-El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los Integrantes de las Instituciones Policiales y tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales referidos en el artículo 6 de la Ley.
+El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los Integrantes de las Instituciones Policiales y tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales referidos en el artículo 6 de la presente Ley. El Desarrollo Policial se basará en la doctrina policial civil.
 
 ###### Artículo 73.
 
@@ -1274,11 +1358,15 @@ c) Los actos que se deban realizar de forma inmediata; o
 
 d) La comisión de un delito en flagrancia.
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
 
-II. Prevención, que será la encargada de llevar a cabo acciones tendientes a prevenir la comisión de delitos e infracciones administrativas, a través de acciones de investigación, inspección, vigilancia y vialidad en su circunscripción, y
+II. Prevención, que será la encargada de prevenir la comisión de delitos e infracciones administrativas, realizar las acciones de inspección, vigilancia y vialidad en su circunscripción;
 
-III. Reacción, que será la encargada de garantizar, mantener y restablecer el orden y la paz públicos.
+> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+III. Proximidad social, como una actividad auxiliar a las funciones de prevención, a través de la proactividad y la colaboración con otros actores sociales, bajo una política de colaboración interna e interinstitucional que fortalezca la gobernabilidad local, y
+
+IV. Reacción, que será la encargada de garantizar, mantener y restablecer el orden y la paz públicos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
@@ -1364,17 +1452,23 @@ Los fines de la Carrera Policial son:
 
 I. Garantizar el desarrollo institucional y asegurar la estabilidad en el empleo, con base en un esquema proporcional y equitativo de remuneraciones y prestaciones para los integrantes de las Instituciones Policiales;
 
-II. Promover la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de las Instituciones;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
 
-III. Fomentar la vocación de servicio y el sentido de pertenencia mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento de los integrantes de las Instituciones Policiales;
+II. Promover la proximidad social, responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de las Instituciones;
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+III. Instaurar la doctrina policial civil y fomentar la vocación de servicio y el sentido de pertenencia mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento de los integrantes de las Instituciones Policiales;
 
 IV. Instrumentar e impulsar la capacitación y profesionalización permanente de los Integrantes de las Instituciones Policiales para asegurar la lealtad institucional en la prestación de los servicios, y
 
 V. Los demás que establezcan las disposiciones que deriven de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 80.
 
-Las legislaciones de la Federación, el Distrito Federal y los Estados establecerán la organización jerárquica de las Instituciones Policiales, considerando al menos las categorías siguientes:
+Las legislaciones de la Federación y de las entidades federativas establecerán la organización jerárquica de las Instituciones Policiales, considerando al menos las categorías siguientes:
 
 I. Comisarios;
 
@@ -1430,7 +1524,9 @@ Las Instituciones Policiales se organizarán bajo un esquema de jerarquización 
 
 Con base en las categorías jerárquicas señaladas en el artículo precedente, los titulares de las instituciones municipales, deberán cubrir, al menos, el mando correspondiente al quinto nivel ascendente de organización en la jerarquía.
 
-Las instituciones estatales y del Distrito Federal, deberán satisfacer, como mínimo, el mando correspondiente al octavo grado de organización jerárquica.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
+Las instituciones de las entidades federativas deberán satisfacer, como mínimo, el mando correspondiente al octavo grado de organización jerárquica.
 
 Los titulares de las categorías jerárquicas estarán facultados para ejercer la autoridad y mando policial en los diversos cargos o comisiones.
 
@@ -1590,9 +1686,11 @@ Para ocupar un grado dentro de las Instituciones Policiales, se deberán reunir 
 
 Se considera escala de rangos policiales a la relación que contiene a todos los integrantes de las Instituciones Policiales y los ordena en forma descendente de acuerdo a su categoría, jerarquía, división, servicio, antigüedad y demás elementos pertinentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 93.
 
-Las legislaciones de la Federación, el Distrito Federal y los estados establecerán que la antigüedad se clasificará y computará para cada uno de los integrantes de las Instituciones Policiales, de la siguiente forma:
+Las legislaciones de la Federación y de las entidades federativas establecerán que la antigüedad se clasificará y computará para cada uno de los integrantes de las Instituciones Policiales, de la siguiente forma:
 
 I. Antigüedad en el servicio, a partir de la fecha de su ingreso a las Instituciones Policiales, y
 
@@ -1668,7 +1766,9 @@ Los planes de estudio para la Profesionalización se integrarán por el conjunto
 
 La actuación de los Integrantes de las Instituciones Policiales se regirá por los principios previstos en los artículos 21 de la Constitución Política de los Estados Unidos Mexicanos y 6 de esta Ley.
 
-Las legislaciones de la Federación, el Distrito Federal y los Estados establecerán sus regímenes disciplinarios, sobre las bases mínimas previstas en el presente capítulo.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
+Las legislaciones de la Federación y las entidades federativas establecerán sus regímenes disciplinarios, sobre las bases mínimas previstas en el presente capítulo.
 
 La disciplina comprende el aprecio de sí mismo, la pulcritud, los buenos modales, el rechazo a los vicios, la puntualidad en el servicio, la exactitud en la obediencia, el escrupuloso respeto a las leyes y reglamentos, así como a los derechos humanos.
 
@@ -1704,7 +1804,9 @@ Los procedimientos a que se refiere el párrafo anterior, deberán realizarse co
 
 La Federación, las entidades federativas y los municipios establecerán instancias colegiadas en las que participen, en su caso, cuando menos, representantes de las unidades operativas de investigación, prevención y reacción de las Instituciones Policiales, para conocer y resolver, en sus respectivos ámbitos de competencia, toda controversia que se suscite con relación a los procedimientos de la Carrera Policial y el Régimen Disciplinario.
 
-Para tal fin, las Instituciones Policiales podrán constituir sus respectivas Comisiones del servicio profesional de carrera policial y de honor y justicia, las que llevarán un registro de datos de los integrantes de sus instituciones. Dichos datos se incorporarán (sic) las bases de datos de personal de Seguridad Pública.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
+Para tal fin, las Instituciones Policiales podrán constituir sus respectivas Comisiones del servicio profesional de carrera policial y de honor y justicia, las que llevarán un registro de datos de los integrantes de sus instituciones. Dichos datos se incorporarán al Sistema Nacional de Información.
 
 En las Instituciones de Procuración de Justicia se integrarán instancias equivalentes, en las que intervengan representantes de los policías ministeriales.
 
@@ -1758,137 +1860,175 @@ XV. Las demás que establezcan las disposiciones legales aplicables.
 
 La Federación, los Estados, el Distrito Federal y los Municipios implementarán medidas de registro y seguimiento para quienes sean separados del servicio por no obtener el certificado referido en esta Ley.
 
-## TÍTULO SÉPTIMO. DE LA INFORMACIÓN SOBRE SEGURIDAD PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE MAYO DE 2019)</small>
 
-### CAPÍTULO ÚNICO
+## TÍTULO SÉPTIMO. DEL SISTEMA NACIONAL DE INFORMACIÓN EN SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
+### CAPÍTULO I. Consideraciones Generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
 
 ###### Artículo 109.
 
-La Federación, los Estados, el Distrito Federal y los municipios, suministrarán, intercambiarán, sistematizarán, consultarán, analizarán y actualizarán, la información que diariamente se genere sobre Seguridad Pública mediante los sistemas e instrumentos tecnológicos respectivos.
+La Federación, las entidades federativas y los Municipios, suministrarán, consultarán y actualizarán la información que diariamente se genere sobre Seguridad Pública mediante los sistemas e instrumentos tecnológicos respectivos, al Sistema Nacional de Información.
 
 El Presidente del Consejo Nacional dictará las medidas necesarias, además de las ya previstas en la Ley, para la integración y preservación de la información administrada y sistematizada mediante los instrumentos de información sobre Seguridad Pública.
 
-Las Instituciones de Procuración de Justicia tendrán acceso a la información contenida en las bases de datos criminalísticos y de personal, en el ámbito de su función de investigación y persecución de los delitos.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
 
-La información sobre administración de justicia, podrá ser integrada las bases de datos criminalísticas y de personal, a través de convenios con el Poder Judicial de la Federación y los Tribunales Superiores de Justicia de los tres órdenes de gobierno, en sus respectivos ámbitos de competencia y con estricto apego a las disposiciones legales aplicables.
+Las Instituciones de Seguridad Pública tendrán acceso a la información contenida en el Sistema Nacional de Información, en el ámbito de su función de prevención, investigación y persecución de los delitos, o como auxiliares en el ejercicio de dichas funciones, según corresponda.
 
-El acceso a las bases de datos del sistema estará condicionado al cumplimiento de esta Ley, los acuerdos generales, los convenios y demás disposiciones que de la propia Ley emanen.
+> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
+El Centro Nacional de Información podrá utilizar las Bases de Datos del Sistema Nacional de Información, para generar productos que apoyen la planificación de acciones orientadas a alcanzar los objetivos del Sistema Nacional de Seguridad Pública.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
+La información sobre impartición de justicia podrá ser integrada al Sistema Nacional de Información a través de convenios con el Poder Judicial de la Federación, los Tribunales Superiores de Justicia de los tres órdenes de gobierno, en sus respectivos ámbitos de competencia y con estricto apego a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
+El acceso al Sistema Nacional de Información estará condicionado al cumplimiento de esta Ley, los acuerdos generales, los convenios y demás disposiciones que de la propia Ley emanen.
+
+> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
+###### Artículo 109 Bis.
+
+La Secretaría será la encargada de la operación de la plataforma tecnológica que sustenta el Sistema Nacional de Información, a través de la unidad administrativa que su titular determine. Dicha unidad tendrá, entre otras, las siguientes atribuciones:
+
+I. Establecer lineamientos para la funcionalidad, operación, respaldo, reconstrucción y seguridad de la información que integra el Sistema Nacional de Información;
+
+II. Establecer acciones y mecanismos de coordinación con la Federación, las entidades federativas y los Municipios, para el desarrollo tecnológico y soporte técnico;
+
+III. Realizar las acciones necesarias para garantizar a las Instituciones de Seguridad Pública las condiciones de acceso e interconexión al Sistema Nacional de Información;
+
+IV. Proponer al Consejo Nacional de Seguridad Pública el Plan Anual de Desarrollo y Modernización Tecnológica;
+
+V. Proponer, en coordinación con el Centro Nacional de Información, el Plan Anual de Desarrollo y Modernización Tecnológica al Consejo Nacional de Seguridad Pública;
+
+VI. Diseñar, implementar y evaluar los programas de capacitación de los sistemas de la plataforma tecnológica;
+
+VII. Evaluar la calidad del servicio de la plataforma tecnológica y emitir, en su caso, las recomendaciones pertinentes, y
+
+VIII. Las demás que determine la Ley.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
 
 ###### Artículo 110.
 
-Los integrantes del Sistema están obligados a compartir la información sobre Seguridad Pública que obre en sus bases de datos, con las del Centro Nacional de Información, en los términos de las disposiciones normativas aplicables.
+Los integrantes del Sistema están obligados a permitir la interconexión de sus Bases de Datos para compartir la información sobre Seguridad Pública con el Sistema Nacional de Información, en los términos de esta Ley y otras disposiciones jurídicas aplicables.
 
-La información contenida en las bases de datos del sistema nacional de información sobre seguridad pública, podrá ser certificada por la autoridad respectiva y tendrá el valor probatorio que las disposiciones legales determinen.
+Para efecto de dar cumplimiento al párrafo anterior, se adoptarán los mecanismos tecnológicos necesarios para la interconexión en tiempo real y respaldo de la información.
 
-> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+La información contenida en las Bases de Datos del Sistema Nacional de Información, podrá ser certificada por la autoridad respectiva y tendrá el valor probatorio que las disposiciones legales determinen.
 
-Se clasifica como reservada la información contenida en todas y cada una de las Bases de Datos del Sistema, así como los Registros Nacionales y la información contenida en ellos, en materia de detenciones, información criminal, personal de seguridad pública, personal y equipo de los servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, medidas cautelares, soluciones alternas y formas de terminación anticipada, sentenciados y las demás necesarias para la operación del Sistema, cuya consulta es exclusiva de las Instituciones de Seguridad Pública que estén facultadas en cada caso, a través de los servidores públicos que cada Institución designe, por lo que el público no tendrá acceso a la información que en ellos se contenga.
+(NOTA: EL 2 DE MARZO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 66/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+Se clasifica como reservada la información contenida en todas y cada una de las Bases de Datos del Sistema Nacional de Información, así como los Registros Nacionales y la información contenida en ellos, en materia de detenciones, información criminal, personal de seguridad pública, personal y equipo de los servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, medidas cautelares, soluciones alternas y formas de terminación anticipada, sentenciados y las demás necesarias para la operación del Sistema, CUYA CONSULTA ES EXCLUSIVA DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA QUE ESTÉN FACULTADAS EN CADA CASO, A TRAVÉS DE LOS SERVIDORES PÚBLICOS QUE CADA INSTITUCIÓN DESIGNE, POR LO QUE EL PÚBLICO NO TENDRÁ ACCESO A LA INFORMACIÓN QUE EN ELLOS SE CONTENGA.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
 
 ###### Artículo 111.
 
-La Federación, los Estados, el Distrito Federal y los Municipios, realizarán los trabajos para lograr la compatibilidad de los servicios de telecomunicaciones de su Red Local correspondiente, con las bases de datos criminalísticos y de personal del Sistema, previstas en la presente Ley.
+La Federación, las entidades federativas y los Municipios, realizarán los trabajos para lograr la compatibilidad de los servicios de su red pública de telecomunicaciones local, con el Sistema Nacional de Información, previsto en la presente Ley.
 
-El servicio de llamadas de emergencia y el servicio de denuncia anónima operarán con un número único de atención a la ciudadanía. El Secretario Ejecutivo adoptará las medidas necesarias para la homologación de los servicios.
+El servicio de llamadas de emergencia y el servicio de denuncia anónima operarán con un número único de atención a la ciudadanía. La Secretaría adoptará las medidas necesarias para la operación e interconexión de estos servicios con el Sistema Nacional de Información, en los términos del artículo 109 Bis.
 
-#### SECCIÓN PRIMERA. Del Registro Administrativo de Detenciones
+> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 2019)</small>
 
-### CAPÍTULO ÚNICO. De los Servicios de Atención a la Población
+###### Artículo 111 Bis.
+
+El Centro Nacional de Información regulará el Servicio Nacional de Atención de Llamadas de Emergencia bajo el número único 911, en coordinación con las entidades federativas. Para el funcionamiento de dicho Servicio deberá llevar a cabo las siguientes acciones:
+
+I. La estandarización y certificación de los Centros de Atención de Llamadas de Emergencia, de conformidad con la normatividad aplicable;
+
+II. El diseño, implementación y evaluación de los programas de capacitación, servicio de carrera y formación continua;
+
+III. El fomento a la cultura del buen uso del número único nacional de atención de llamadas de emergencia;
+
+IV. La unificación de otros números de emergencia;
+
+V. La coordinación con la Secretaría para la operación y funcionamiento del Servicio, y
+
+VI. Todas aquellas que sean necesarias para la consolidación del Servicio Nacional de Atención de Llamadas de Emergencia 911.
+
+> <small>(REFORMADO [N. DE E. ANTES SECCIÓN PRIMERA], D.O.F. 27 DE MAYO DE 2019)</small>
+
+### CAPÍTULO II. Del Registro Nacional de Detenciones
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
 
 ###### Artículo 112.
 
-Los agentes policiales que realicen detenciones, deberán dar aviso administrativo de inmediato al Centro Nacional de Información, de la detención, a través del Informe Policial Homologado.
-
-> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+El Registro Nacional de Detenciones forma parte del Sistema Nacional de Información, por lo que podrá ser utilizado por el Centro Nacional de Información en los términos previstos por la ley de la materia y la presente Ley.
 
 ###### Artículo 113.
 
-El registro administrativo de la detención deberá contener, al menos, los datos siguientes:
-
-I. Nombre y, en su caso, apodo del detenido;
-
-II. Descripción física del detenido;
-
-III. Motivo, circunstancias generales, lugar y hora en que se haya practicado la detención;
-
-IV. Nombre de quien o quienes hayan intervenido en la detención. En su caso, rango y área de adscripción;
-
-V. Lugar a donde será trasladado el detenido;
-
-VI. Fotografía a color del detenido de frente y perfil; y
-
-VII. Fotografía panorámica del lugar de detención, en su caso.
+(DEROGADO, D.O.F. 27 DE MAYO DE 2019)
 
 ###### Artículo 114.
 
-Las Instituciones de Procuración de Justicia deberán actualizar la información relativa al registro, tan pronto reciba a su disposición al detenido, recabando lo siguiente:
-
-I. Domicilio, fecha de nacimiento, estado civil, grado de estudios y ocupación o profesión;
-
-II. Clave Única de Registro de Población;
-
-III. Grupo étnico al que pertenezca;
-
-IV. Descripción del estado físico del detenido;
-
-V. Huellas dactilares;
-
-VI. Identificación antropométrica, y
-
-VII. Otros medios que permitan la identificación del individuo;
-
-El Ministerio Público y la policía deberán informar a quien lo solicite de la detención de una persona y, en su caso, la autoridad a cuya disposición se encuentre.
-
-La Conferencia Nacional de Procuración de Justicia emitirá las disposiciones necesarias para regular los dispositivos tecnológicos que permitan generar, enviar, recibir, consultar o archivar toda la información a que se refiere este artículo, la que podrá abarcar imágenes, sonidos y video, en forma electrónica, óptica o mediante cualquier otra tecnología.
+(DEROGADO, D.O.F. 27 DE MAYO DE 2019)
 
 ###### Artículo 115.
 
-La información capturada en el Registro Administrativo de Detenciones será confidencial y reservada. A la información contenida en el registro sólo podrán tener acceso:
-
-I. Las autoridades competentes en materia de investigación y persecución del delito, para los fines que se prevean en los ordenamientos legales aplicables, y
-
-II. Los probables responsables, estrictamente para la rectificación de sus datos personales y para solicitar que se asiente en el mismo el resultado del procedimiento penal, en términos de las disposiciones legales aplicables.
-
-Bajo ninguna circunstancia se podrá proporcionar información contenida en el Registro a terceros. El Registro no podrá ser utilizado como base de discriminación, vulneración de la dignidad, intimidad, privacidad u honra de persona alguna.
-
-Al servidor público que quebrante la reserva del Registro o proporcione información sobre el mismo, se le sujetará al procedimiento de responsabilidad administrativa o penal, según corresponda.
+(DEROGADO, D.O.F. 27 DE MAYO DE 2019)
 
 ###### Artículo 116.
 
-Las Instituciones de Seguridad Pública serán responsables de la administración, guarda y custodia de los datos que integran este registro; su violación se sancionará de acuerdo con las disposiciones previstas en la legislación penal aplicable.
+(DEROGADO, D.O.F. 27 DE MAYO DE 2019)
 
-#### SECCIÓN SEGUNDA. Del Sistema Único de Información Criminal
+> <small>(REFORMADO [N. DE E. ANTES SECCIÓN SEGUNDA], D.O.F. 27 DE MAYO DE 2019)</small>
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO III. Del Suministro de Información
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
 
 ###### Artículo 117.
 
-La Federación, los Estados, el Distrito Federal y los Municipios serán responsables de integrar y actualizar el sistema único de información criminal, con la información que generen las Instituciones de Procuración de Justicia e Instituciones Policiales, que coadyuve a salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos, mediante la prevención, persecución y sanción de las infracciones y delitos, así como la reinserción social del delincuente y del adolescente.
+La Federación, las entidades federativas y los Municipios serán responsables de integrar y actualizar el Sistema Nacional de Información, con la información que generen las Instituciones de Procuración de Justicia e Instituciones Policiales, que coadyuve a salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos, mediante la prevención, persecución y sanción de las infracciones y delitos, así como la reinserción social.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
 
 ###### Artículo 118.
 
-Dentro del sistema único de información criminal se integrará una base nacional de datos de consulta obligatoria en las actividades de Seguridad Pública, sobre personas indiciadas, procesadas o sentenciadas, donde se incluyan su perfil criminológico, medios de identificación, recursos y modos de operación.
+Las Bases de Datos que integran el Sistema Nacional de Información se actualizarán permanentemente y serán de consulta obligatoria para garantizar la efectividad en las actividades de Seguridad Pública.
 
-Esta base nacional de datos se actualizará permanentemente y se conformará con la información que aporten las Instituciones de Seguridad Pública, relativa a las investigaciones, procedimientos penales, órdenes de detención y aprehensión, procesos penales, sentencias o ejecución de penas.
+Las Bases de Datos criminalísticas se conformarán de la información que aporten las instituciones de procuración de justicia y del sistema penitenciario, relativa a las investigaciones, órdenes de detención y aprehensión, procesos penales, sentencias o ejecución de penas.
+
+El Registro Nacional de Detenciones se vinculará con las Bases de Datos a que se refiere el presente artículo, mediante el número de identificación al que hace referencia la ley de la materia.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
 
 ###### Artículo 119.
 
-Las Instituciones de Procuración de Justicia podrán reservarse la información que ponga en riesgo alguna investigación, conforme a las disposiciones aplicables, pero la proporcionarán al sistema único de información criminal inmediatamente después que deje de existir tal condición.
+Con independencia de lo previsto por la Ley Nacional del Registro de Detenciones, el Centro Nacional de Información determinará los datos adicionales del Informe Policial Homologado que deberán registrarse en el Sistema Nacional de Información.
+
+La Conferencia Nacional de Procuración de Justicia aprobará los lineamientos que determinen los casos en los que compartir información ponga en riesgo el curso de alguna investigación.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
 
 ###### Artículo 120.
 
-El Sistema Nacional de Información Penitenciaria es la base de datos que, dentro del sistema único de información criminal, contiene, administra y controla los registros de la población penitenciaria de la Federación, el Distrito Federal, los Estados y los Municipios en sus respectivos ámbitos de competencia.
+El Sistema Nacional de Información Penitenciaria es la Base de Datos que, dentro del Sistema Nacional de Información, contiene, administra y controla los registros de la población penitenciaria de la Federación y de las entidades federativas en sus respectivos ámbitos de competencia.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
 
 ###### Artículo 121.
 
-La base de datos deberá contar, al menos, con el reporte de la ficha de identificación personal de cada interno con fotografía, debiendo agregarse los estudios técnicos interdisciplinarios, datos de los procesos penales y demás información necesaria para la integración de dicho sistema.
+La Base de Datos del Sistema Nacional de Información Penitenciaria deberá contar, al menos, con el reporte de la ficha de identificación personal de cada interno con fotografía, debiendo agregarse los estudios técnicos interdisciplinarios, datos de los procesos penales y demás información necesaria para la integración de dicho Sistema Nacional de Información Penitenciaria.
 
-#### SECCIÓN TERCERA. Del Registro Nacional de Personal de Seguridad Pública
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES SECCIÓN TERCERA], D.O.F. 27 DE MAYO DE 2019)</small>
 
-### CAPÍTULO II. De los Delitos contra el funcionamiento del Sistema Nacional de Seguridad Pública
+### CAPÍTULO IV. Del Registro Nacional de Personal de Seguridad Pública
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
 
 ###### Artículo 122.
 
-El Registro Nacional de Personal de Seguridad Pública, conforme lo acuerden las Conferencias Nacionales de Procuración de Justicia y de Secretarios de Seguridad Pública, contendrá la información actualizada, relativa a los integrantes de las Instituciones de la Federación, el Distrito Federal, los Estados y los Municipios, el cual contendrá, por lo menos:
+El Registro Nacional de Personal de Seguridad Pública es la Base de Datos que, dentro del Sistema Nacional de Información y conforme lo acuerden las Conferencias Nacionales de Procuración de Justicia y de Secretarios de Seguridad Pública, contendrá la información actualizada, relativa a los integrantes de las Instituciones de Seguridad Pública de la Federación, las entidades federativas y los Municipios, el cual contendrá, por lo menos:
 
 I. Los datos que permitan identificar plenamente y localizar al servidor público, sus huellas digitales, fotografía, escolaridad y antecedentes en el servicio, así como su trayectoria en la seguridad pública;
 
@@ -1898,31 +2038,37 @@ III. Cualquier cambio de adscripción, actividad o rango del servidor público, 
 
 Cuando a los integrantes de las Instituciones de Seguridad Pública se les dicte cualquier auto de procesamiento, sentencia condenatoria o absolutoria, sanción administrativa o resolución que modifique, confirme o revoque dichos actos, se notificará inmediatamente al Registro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 123.
 
-Las autoridades competentes de la Federación, el Distrito Federal, los Estados y los municipios inscribirán y mantendrán actualizados permanentemente en el Registro los datos relativos a los integrantes de las Instituciones de Seguridad Pública, en los términos de esta Ley.
+Las autoridades competentes de la Federación, las entidades federativas y los Municipios inscribirán y mantendrán actualizados los datos de los integrantes de las Instituciones de Seguridad Pública en el Sistema Nacional de Información, según los términos de esta Ley.
 
 Para efectos de esta Ley, se consideran miembros de las Instituciones de Seguridad Pública, a quienes tengan un nombramiento o condición jurídica equivalente, otorgado por autoridad competente.
 
 La infracción a esta disposición se sancionará en términos de la presente Ley.
 
-#### SECCIÓN CUARTA. Del Registro Nacional de Armamento y Equipo
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES SECCIÓN CUARTA], D.O.F. 27 DE MAYO DE 2019)</small>
 
-### CAPÍTULO I. Disposiciones Preliminares
+### CAPÍTULO V. Del Registro Nacional de Armamento y Equipo
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
 
 ###### Artículo 124.
 
-Además de cumplir con las disposiciones contenidas en otras leyes, las autoridades competentes de la Federación, el Distrito Federal, los Estados y los municipios manifestarán y mantendrán permanentemente actualizado el Registro Nacional de Armamento y Equipo, el cual incluirá:
+Además de cumplir con las disposiciones contenidas en otras leyes, las autoridades competentes de la Federación, las entidades federativas y los Municipios manifestarán y mantendrán actualizado el Registro Nacional de Armamento y Equipo. Dicha Base de Datos deberá contener:
 
-I. Los vehículos que tuvieran asignados, anotándose el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie y motor para el registro del vehículo, y
+I. La información de los vehículos que tuvieran asignados, anotándose el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie y motor para el registro del vehículo, y
 
-II. Las armas y municiones que les hayan sido autorizadas por las dependencias competentes, aportando el número de registro, la marca, modelo, calibre, matrícula y demás elementos de identificación.
+II. La información de las armas y municiones que les hayan sido autorizadas por las dependencias competentes, aportando el número de registro, la marca, modelo, calibre, matrícula, huella balística y demás elementos de identificación que exijan la ley de la materia y su reglamento.
 
 ###### Artículo 125.
 
 Cualquier persona que ejerza funciones de Seguridad Pública, sólo podrá portar las armas de cargo que le hayan sido autorizadas individualmente o aquellas que se le hubiesen asignado en lo particular y que estén registradas colectivamente para la Institución de Seguridad Pública a que pertenezca, de conformidad con la Ley Federal de Armas de Fuego y Explosivos.
 
-Las instituciones de Seguridad Pública mantendrán un registro de los elementos de identificación de huella balística de las armas asignadas a los servidores públicos de las instituciones de Seguridad Pública. Dicha huella deberá registrarse en una base de datos del Sistema.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
+Las instituciones de Seguridad Pública mantendrán un registro de los elementos de identificación de huella balística de las armas asignadas a los servidores públicos que las integran. Dicha huella deberá registrarse en el Sistema Nacional de Información.
 
 ###### Artículo 126.
 
@@ -1932,13 +2078,11 @@ En el caso de que los integrantes de las Instituciones de Seguridad Pública ase
 
 El incumplimiento de las disposiciones de esta sección, dará lugar a que la portación o posesión de armas se considere ilegal y sea sancionada en los términos de las normas aplicables.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES SECCIÓN QUINTA], D.O.F. 27 DE MAYO DE 2019)</small>
 
-#### SECCIÓN QUINTA. Del Registro Nacional de Medidas Cautelares, Soluciones Alternas y Formas de Terminación Anticipada
+### CAPÍTULO VI. Del Registro Nacional de Medidas Cautelares, Soluciones Alternas y Formas de Terminación Anticipada
 
 > <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2016)</small>
-
-### CAPÍTULO II. De la Cancelación y Suspensión de Ministración de los Recursos
 
 ###### Artículo 127 Bis.
 
@@ -1952,7 +2096,11 @@ III. La suspensión condicional, el proceso aprobado por el juez de control, esp
 
 IV. La sustanciación de un procedimiento abreviado, especificando los nombres de las partes, el tipo de delito y la sanción impuesta.
 
+### CAPÍTULO ÚNICO. De los Servicios de Atención a la Población
+
 ## TÍTULO OCTAVO. DE LA PARTICIPACIÓN DE LA COMUNIDAD
+
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 128.
 
@@ -1964,17 +2112,21 @@ I. La comunidad, tenga o no estructura organizativa, y
 
 II. La sociedad civil organizada.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
 
 ###### Artículo 129.
 
-El Centro Nacional de Prevención del Delito y Participación Ciudadana impulsará las acciones necesarias para que la Federación, los Estados, el Distrito Federal y los municipios, establezcan un servicio para la localización de personas y bienes, que promueva la colaboración y participación ciudadana.
+El Centro Nacional de Prevención del Delito y Participación Ciudadana impulsará las acciones necesarias para que la Federación y las entidades federativas y los Municipios establezcan un servicio para la localización de personas y bienes, que promueva la colaboración y participación ciudadana.
+
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2012)</small>
 
 Para el caso de la sustracción de menores, deberán implementarse sistemas de alerta y protocolos de acción inmediata para su búsqueda y localización, en el que coadyuven con los integrantes del sistema las corporaciones de emergencia, medios de comunicación, prestadores de servicios de telecomunicaciones, organizaciones no gubernamentales y ciudadanía en general.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 130.
 
-El Centro Nacional de Prevención del Delito y Participación Ciudadana promoverá que la Federación, los Estados, el Distrito Federal y los municipios establezcan un servicio de comunicación que reciba los reportes de la comunidad, sobre las emergencias, faltas y delitos de que tenga conocimiento.
+El Centro Nacional de Prevención del Delito y Participación Ciudadana promoverá que la Federación, las entidades federativas y los Municipios establezcan un servicio de comunicación que reciba los reportes de la comunidad sobre las emergencias, faltas y delitos de que tengan conocimiento.
 
 El servicio tendrá comunicación directa con las Instituciones de Seguridad Pública, de salud, de protección civil y las demás asistenciales públicas y privadas.
 
@@ -2014,9 +2166,11 @@ Los resultados de los estudios deberán ser entregados a las Instituciones de Se
 
 El Centro Nacional de Información deberá proporcionar la información necesaria y conducente para el desarrollo de las actividades en materia de participación ciudadana. No se podrá proporcionar la información que ponga en riesgo la seguridad pública o personal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 134.
 
-Las legislaciones de la Federación, el Distrito Federal y los estados establecerán políticas públicas de atención a la víctima, que deberán prever, al menos los siguientes rubros:
+Las legislaciones de la Federación y de las entidades federativas establecerán políticas públicas de atención a la víctima, que deberán prever, al menos, los siguientes rubros:
 
 I. Atención de la denuncia en forma pronta y expedita;
 
@@ -2028,6 +2182,10 @@ IV. Otras, en los términos del artículo 20 de la Constitución Política de lo
 
 ## TÍTULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
+### CAPÍTULO II. De los Delitos contra el funcionamiento del Sistema Nacional de Seguridad Pública
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 135.
 
 Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos federales, locales y municipales por el manejo o aplicación ilícita de los recursos previstos en los fondos a que se refiere el artículo 142 de la presente Ley, serán determinadas y sancionadas conforme las disposiciones legales aplicables y por las autoridades competentes.
@@ -2038,21 +2196,29 @@ Serán consideradas violaciones graves a la Constitución y a las leyes que de e
 
 Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos federales, estatales y municipales por el manejo o aplicación indebidos de los recursos de los fondos a que se refiere el artículo 142 de la presente Ley, serán determinadas y sancionadas conforme a las disposiciones legales aplicables y por las autoridades competentes.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 137.
 
-La Auditoría Superior de la Federación fiscalizará los recursos federales que ejerzan la Federación, el Distrito Federal, los Estados y los municipios en materia de Seguridad Pública, en términos de las disposiciones aplicables.
+La Auditoría Superior de la Federación fiscalizará los recursos federales que ejerzan la Federación, las entidades federativas y los Municipios en materia de Seguridad Pública, en términos de las disposiciones aplicables.
+
+### CAPÍTULO I. Disposiciones Preliminares
 
 ###### Artículo 138.
 
-Se sancionará de uno a cuatro años de prisión y de cien a seiscientos días multa, a quien dolosa, ilícita y reiteradamente se abstenga de proporcionar al Secretariado Ejecutivo la información que esté obligado en términos de esta Ley, a pesar de ser requerido por el Secretario Ejecutivo, dentro del plazo previsto en el artículo 37 de esta Ley.
+Se sancionará de uno a cuatro años de prisión y de cien a seiscientas Unidades de Medida y Actualización a quien dolosa y reiteradamente se abstenga de proporcionar al Sistema Nacional de Información, al Secretariado Ejecutivo o al Centro Nacional de Información, la información que esté obligado, en términos de esta Ley, a pesar de ser requerido por la autoridad correspondiente, dentro del plazo previsto en el artículo 37 de esta Ley.
 
 Se impondrá además, la destitución e inhabilitación por un plazo igual al de la pena impuesta para desempeñarse en otro empleo, puesto, cargo o comisión en cualquier orden de gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 139.
 
-Se sancionará con dos a ocho años de prisión y de quinientos a mil días multa, a quien:
+Se sancionará con dos a ocho años de prisión y de quinientas a mil Unidades de Medida y Actualización a quien:
 
-I. Ingrese dolosamente a las bases de datos del Sistema Nacional de Seguridad Pública previstos en esta Ley, sin tener derecho a ello o, teniéndolo, ingrese a sabiendas información errónea, que dañe o que pretenda dañar en cualquier forma la información, las bases de datos o los equipos o sistemas que las contengan;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2019)</small>
+
+I. Ingrese dolosamente al Sistema Nacional de Información, sin tener derecho a ello o, teniéndolo, ingrese a sabiendas información errónea, que dañe o que pretenda dañar en cualquier forma la información, las Bases de Datos o los equipos o sistemas que las contengan;
 
 II. Divulgue de manera ilícita información clasificada de las bases de datos o sistemas informáticos a que se refiere esta Ley.
 
@@ -2062,9 +2228,11 @@ IV. Asigne nombramiento de policía, ministerio público o perito oficial a pers
 
 Si el responsable es o hubiera sido servidor público de las instituciones de seguridad pública, se impondrá hasta una mitad más de la pena correspondiente, además, la inhabilitación por un plazo igual al de la pena de prisión impuesta para desempeñarse como servidor público en cualquier orden de gobierno, y en su caso, la destitución.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 140.
 
-Se sancionará con cinco a doce años de prisión y de doscientos a ochocientos días multa, a quien falsifique el certificado a que se refiere la presente Ley, lo altere, comercialice o use a sabiendas de su ilicitud.
+Se sancionará con cinco a doce años de prisión y de doscientas a ochocientas Unidades de Medida y Actualización a quien falsifique el certificado a que se refiere la presente Ley, lo altere, comercialice o use a sabiendas de su ilicitud.
 
 ###### Artículo 141.
 
@@ -2075,6 +2243,8 @@ Las sanciones previstas en este capítulo se impondrán sin perjuicio de las pen
 Las autoridades del fuero federal serán las competentes para conocer y sancionar los delitos previstos en este capítulo, conforme a las disposiciones aplicables.
 
 ## TÍTULO DÉCIMO. DE LOS FONDOS DE AYUDA FEDERAL
+
+### CAPÍTULO II. De la Cancelación y Suspensión de Ministración de los Recursos
 
 ###### Artículo 142.
 
@@ -2162,9 +2332,11 @@ Las entidades federativas estarán representadas por los titulares de los podere
 
 Para efectos de esta Ley, se consideran instalaciones estratégicas, a los espacios, inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, mantenimiento y operación de las actividades consideradas como estratégicas por la Constitución Política de los Estados Unidos Mexicanos, así como de aquellas que tiendan a mantener la integridad, estabilidad y permanencia del Estado Mexicano, en términos de la Ley de Seguridad Nacional.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 147.
 
-El Distrito Federal, los Estados y los Municipios coadyuvarán en la protección y desarrollo de las acciones necesarias para la vigilancia de las instalaciones estratégicas y para garantizar su integridad y operación.
+Las entidades federativas y los Municipios coadyuvarán en la protección y desarrollo de las acciones necesarias para la vigilancia de las instalaciones estratégicas y para garantizar su integridad y operación.
 
 ###### Artículo 148.
 
@@ -2190,9 +2362,11 @@ Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y E
 
 Conforme a las bases que esta ley dispone, las instancias de coordinación promoverán que dichas leyes locales prevean los requisitos y condiciones para la prestación del servicio, la denominación, los mecanismos para la supervisión y las causas y procedimientos para determinar sanciones.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2019)</small>
+
 ###### Artículo 151.
 
-Los servicios de seguridad privada son auxiliares a la función de Seguridad Pública. Sus integrantes coadyuvarán con las autoridades y las Instituciones de Seguridad Pública en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente de la Federación, los Estados, el Distrito Federal y los municipios, de acuerdo a los requisitos y condiciones que establezca la autorización respectiva.
+Los servicios de seguridad privada son auxiliares a la función de Seguridad Pública. Sus integrantes coadyuvarán con las autoridades y las Instituciones de Seguridad Pública en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente de la Federación, las entidades federativas y los Municipios, de acuerdo a los requisitos y condiciones que establezca la autorización respectiva.
 
 ###### Artículo 152.
 
@@ -2373,3 +2547,19 @@ Décimo Cuarto. Una vez que, en términos de lo dispuesto en el Artículo Quinto
 Décimo Quinto. En un período no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Comisión Ejecutiva de Atención a Víctimas deberá llevar a cabo los actos necesarios para realizar las modificaciones orgánicas que sean indispensables para el cumplimiento de lo establecido en el mismo.
 
 Décimo Sexto. A fin de dar cumplimiento a las atribuciones que se establecen en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Comisión Ejecutiva de Atención a Víctimas realizará las adecuaciones a su Estatuto Orgánico y demás normatividad interna que sea necesaria, así como al fideicomiso que administra los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, dentro del plazo de ciento ochenta días contados a partir de su entrada en vigor.
+
+D.O.F. 27 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto se cubrirán con cargo al presupuesto de las instituciones de Seguridad Pública, según corresponda.
+
+Tercero. El Ejecutivo Federal deberá hacer las adecuaciones a los reglamentos y disposiciones correspondientes, dentro de los 90 días siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto. La Federación, entidades federativas y los Municipios dispondrán de 180 días para cumplir con las obligaciones relativas al Sistema Nacional de Información originadas en el presente Decreto.
+
+Quinto. Las obligaciones que se generen con motivo de la aplicación del presente Decreto deberán ser ejercidas con los recursos que le sean asignados a las instancias y dependencias para este fin.
+
+La Secretaría de Hacienda y Crédito Público, con base en la disponibilidad presupuestaria, realizará las previsiones que correspondan para cumplir con las obligaciones derivadas de la aplicación de la presente Ley.
