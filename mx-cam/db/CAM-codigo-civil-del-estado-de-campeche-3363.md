@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2019-03-29"
+last_updated: "2019-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MAYO DE 2019 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -435,15 +437,21 @@ Las declaraciones de nacimiento se harán presentando al niño ante el Oficial d
 
 El Oficial del Registro Civil, para garantizar el derecho a la identidad de niñas y niños, realizará de manera gratuita la expedición de la primera copia certificada del acta de nacimiento con motivo del registro.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2019)</small>
 
 ###### Art. 68.
 
-Tienen obligación de declarar el nacimiento el padre y la madre o cualquiera de ellos, a falta de éstos, los abuelos paternos y, en su defecto, los maternos, dentro de los seis meses siguientes a la fecha en que ocurrió aquél.
+Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos, a falta de éstos, los abuelos paternos y, en su defecto, los maternos, dentro de un plazo de sesenta días posteriores a la fecha en que ocurrió aquél.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
 
 Los médicos cirujanos o matronas que hubieren asistido al parto, tienen la obligación de dar aviso del nacimiento al Oficial del Registro Civil dentro de las 24 horas siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento si éste ocurrió fuera de la casa paterna.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+
 Si el nacimiento tuviere lugar en un sanatorio particular o del estado, la obligación a que se refiere el párrafo anterior, estará a cargo del Director o de la persona encargada de la Administración.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
 
 Recibido el aviso, el Oficial del Registro Civil, tomará las medidas legales que sean necesarias, a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
 
@@ -16406,3 +16414,11 @@ P.O. 29 DE MARZO DE 2019.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 27 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 49 POR EL QUE "SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 68 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente decreto.
