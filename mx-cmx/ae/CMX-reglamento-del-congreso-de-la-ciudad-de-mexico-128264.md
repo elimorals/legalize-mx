@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2019-05-09"
+last_updated: "2019-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 9 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE MAYO DE 2019.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -4200,7 +4200,15 @@ k) Medalla al Mérito de Protección Civil;
 
 l) Medalla al Mérito Policial;
 
-m) Medalla al Mérito Turístico “Embajador Turístico de la Ciudad de México”
+m) Medalla al Mérito Turístico "Embajador Turístico de la Ciudad de México"
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2019)</small>
+
+n) Medalla al Mérito Juvenil;
+
+> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2019)</small>
+
+ñ) Medalla al Mérito por la Defensa de las Víctimas.
 
 IV. En fondo opaco, el nombre de la persona condecorada y la disciplina, en su caso, y
 
@@ -4220,7 +4228,9 @@ III. Comisión Especial para otorgar la Medalla al Mérito Ciudadano;
 
 IV. Comisión de Derechos Humanos;
 
-V. Comisión de Juventud y Deporte;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 28 DE MAYO DE 2019)</small>
+
+V. Comisión de Juventud;
 
 VI. Comisión de Educación;
 
@@ -4232,11 +4242,21 @@ IX. Comisión Especial para garantizar el ejercicio periodístico de la Ciudad d
 
 X. Comisión de Protección Civil;
 
-> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 28 DE MAYO DE 2019)</small>
 
-XI. Comisión de Seguridad Ciudadana, y
+XI. Comisión de Seguridad Ciudadana;
 
-XII. Comisión de Turismo.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 28 DE MAYO DE 2019)</small>
+
+XII. Comisión de Turismo;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 28 DE MAYO DE 2019)</small>
+
+XIII. Comisión de Atención Especial a Víctimas, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 28 DE MAYO DE 2019)</small>
+
+XIV. Comisión de Deporte.
 
 ###### Artículo 372.
 
@@ -4770,23 +4790,59 @@ VI. Fomento al turismo social y rural.
 
 La Comisión responsable y encargada del procedimiento y entrega de la presente medalla es la de Turismo del Congreso.
 
-#### Sección Primera. Del Reconocimiento a las Mejores Tesis sobre la Ciudad de México
+> <small>(ADICIONADA, G.O. 28 DE MAYO DE 2019)</small>
+
+#### Sección Décima Cuarta. Medalla al Mérito Juvenil
+
+> <small>(REFORMADO, G.O. 28 DE MAYO DE 2019)</small>
 
 ###### Artículo 450.
 
-(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
+El Congreso otorgará la Medalla al Mérito Juvenil, a aquellos jóvenes que hayan destacado por sus méritos, por la defensa o promoción de los derechos de las personas jóvenes, con base en las siguientes distinciones:
 
-#### Sección Segunda. Del Proceso de Elección de las y los Candidatos para la entrega de Reconocimientos
+I. Promoción o desarrollo de actividades académicas, científicas, tecnológicas, profesionales y de innovación;
+
+II. Promoción o desarrollo de actividades recreativas, culturales, artísticas, de expresión musical o diseño gráfico;
+
+III. Promoción o desarrollo de disciplinas mentales o deportivas;
+
+IV. Mérito cívico, político o labor social;
+
+V. Ambiental o de salud pública;
+
+VI. Promoción o defensa de los derechos humanos;
+
+VII. Promoción o fortalecimiento de los usos y costumbres de los pueblos y barrios originarios o comunidades indígenas residentes; y
+
+VIII. Reciclaje comunitario o fortalecimiento de imagen urbana o patrimonio cultural.
+
+La entrega de la Medalla se realizará de manera anual.
+
+La Comisión de Juventud será responsable y encargada del procedimiento y entrega de la Medalla.
+
+La Medalla se otorgará en Sesión Solemne. El procedimiento para la entrega de la Medalla será de conformidad con los artículos 372, 373, 374, 375 y 376 del Reglamento.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 28 DE MAYO DE 2019)</small>
+
+#### Sección Décima Quinta. Medalla al Mérito por la Defensa de las Víctimas
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE MAYO DE 2019)</small>
 
 ###### Artículo 451.
 
-(DEROGADO, G.O. 5 DE FEBRERO DE 2019)
+El Congreso otorgará la Medalla al Mérito por la Defensa de las Víctimas a quienes por su trayectoria y actos destacados hayan asistido, apoyado, socorrido o favorecido a las personas en calidad de víctimas directas, indirectas o potenciales en la Ciudad de México.
+
+La entrega de la presente Medalla se deberá realizar de manera anual.
+
+La Comisión de Atención Especial a Víctimas será responsable y encargada del procedimiento y entrega (sic) la presente Medalla al Mérito por la Defensa de las Víctimas.
+
+La Medalla se otorgará en Sesión Solemne. El procedimiento para la entrega de la Medalla será de conformidad con los artículos 372, 373, 374, 375 y 376 del Reglamento.
+
+#### Sección Primera. Del Reconocimiento a las Mejores Tesis sobre la Ciudad de México
+
+#### Sección Segunda. Del Proceso de Elección de las y los Candidatos para la entrega de Reconocimientos
 
 #### Sección Primera. De la Coordinación de Servicios Parlamentarios
-
-#### Sección Segunda. De la Oficialía Mayor
-
-#### Sección Tercera. De la Contraloría Interna
 
 ### CAPÍTULO III. De los Reconocimientos y Diplomas
 
@@ -4808,7 +4864,7 @@ II. En su texto deberá contener la leyenda "Congreso de la Ciudad de México, o
 
 III. Nombre y firma de quien suscribe.
 
-#### Sección Cuarta. De la Tesorería
+#### Sección Segunda. De la Oficialía Mayor
 
 ###### Artículo 454.
 
@@ -4840,7 +4896,7 @@ V. El acuerdo parlamentario será presentado ante el Pleno, y
 
 VI. La entrega de los reconocimientos se entregará cada año en la fecha y hora que determine la Junta.
 
-#### Sección Quinta. Del Instituto de Investigaciones Legislativas
+#### Sección Tercera. De la Contraloría Interna
 
 ###### Artículo 457.
 
@@ -5068,7 +5124,7 @@ Las áreas administrativas que se creen, dependerán jerárquica y funcionalment
 
 La Junta presentará al Pleno la propuesta de las y los Titulares de cada una de las Unidades Administrativas para su ratificación; para este efecto será necesario el voto de la mayoría de las y los Diputados presentes en la sesión respectiva.
 
-#### Sección Sexta. Del Centro de Estudios Legislativos para la Igualdad de Género
+#### Sección Cuarta. De la Tesorería
 
 ###### Artículo 487.
 
@@ -5152,7 +5208,7 @@ III. Los documentos de la Asamblea Constituyente, incluyendo la Constitución am
 
 IV. Los documentos que posean las Diputadas y los Diputados, las Comisiones y Comités, estarán en su posesión para resguardo, hasta el final de cada Legislatura, cuando deberán remitirse al Archivo Histórico del Proceso Parlamentario del Congreso.
 
-#### Sección Sexta (SIC). De la Coordinación de Comunicación Social
+#### Sección Quinta. Del Instituto de Investigaciones Legislativas
 
 ###### Artículo 492.
 
@@ -5232,7 +5288,7 @@ El Archivo Histórico Administrativo del Congreso podrá ser consultado por el p
 
 En el Archivo Histórico Administrativo del Congreso deberán estar depositados los documentos de las Unidades Administrativas, además de aquellos que establezcan las disposiciones jurídicas correspondientes.
 
-#### Sección Séptima. Del Canal de Televisión
+#### Sección Sexta. Del Centro de Estudios Legislativos para la Igualdad de Género
 
 ###### Artículo 498.
 
@@ -5334,7 +5390,7 @@ VI. No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad
 
 VII. No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
-#### Sección Octava. De la Unidad de Transparencia
+#### Sección Sexta (SIC). De la Coordinación de Comunicación Social
 
 ###### Artículo 503.
 
@@ -5374,7 +5430,7 @@ VI. Residir en la Ciudad de México por lo menos tres años antes al día de su 
 
 VII. Ser mexicana o mexicano por nacimiento y no tener otra nacionalidad, y estar en pleno goce de sus derechos;
 
-#### Sección Novena. De la Unidad de Estudios y Finanzas Publicas del Congreso de la Ciudad de México
+#### Sección Séptima. Del Canal de Televisión
 
 ###### Artículo 505.
 
@@ -5424,6 +5480,8 @@ V. Residir en la Ciudad de México por lo menos tres años antes al día de su n
 
 VI. Ser mexicana o mexicano por nacimiento y no tener otra nacionalidad, y estar en pleno goce de sus derechos.
 
+#### Sección Octava. De la Unidad de Transparencia
+
 ###### Artículo 508.
 
 El Centro de Estudios Legislativos para la Igualdad de Género al que refiere la Ley, es un área técnica que apoyará las actividades legislativas en materia de derechos humanos de las mujeres, teniendo a cargo realizar investigaciones y estudios sobre la situación de las mujeres y los hombres en la Ciudad de México.
@@ -5459,6 +5517,8 @@ II. Demostrar experiencia en materia de derechos humanos, igualdad de género o 
 III. No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de las y los Diputados integrantes del Congreso, ni tener relaciones profesionales, laborales o de negocios con alguna o alguno de ellos, ni ser socia o socio o accionista de sociedades en las que alguno de las y los Diputados forme o haya formado parte, y
 
 IV. No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
+
+#### Sección Novena. De la Unidad de Estudios y Finanzas Publicas del Congreso de la Ciudad de México
 
 ###### Artículo 510.
 
@@ -5963,3 +6023,23 @@ G.O. 9 DE MAYO DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno del Congreso de la Ciudad de México.
 
 SEGUNDO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 28 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA Y SE REFORMA EL ARTÍCULO 370, Y LA SECCIÓN DÉCIMA CUARTA AL CAPÍTULO II DEL TÍTULO DÉCIMO; Y SE REFORMAN LOS ARTÍCULOS 371 Y 450 DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión, en el Diario Oficial de la Federación.
+
+TERCERO. La Comisión de Juventud del Congreso de la Ciudad de México iniciará el procedimiento y convocatoria para la entrega de la Medalla al Mérito Juvenil una vez aprobado el presente Decreto.
+
+G.O. 28 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE “SE ADICIONA Y SE REFORMA EL ARTÍCULO 370, Y LA SECCIÓN DÉCIMA QUINTA AL CAPÍTULO II DEL TÍTULO DÉCIMO; Y SE REFORMAN LOS ARTÍCULOS 371 Y 451 DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO.”]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO. La Comisión de Atención Especial a Víctimas del Congreso de la Ciudad de México iniciará el procedimiento y convocatoria para la entrega de la Medalla al Mérito por la Defensa de las Víctimas.
