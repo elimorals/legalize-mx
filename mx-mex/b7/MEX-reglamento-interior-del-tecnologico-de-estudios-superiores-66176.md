@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-6617
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-23"
-last_updated: "2014-02-11"
+last_updated: "2019-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE SAN FELIPE DEL PROGRESO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE MAYO DE 2019.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 23 de enero de 2009.
 
@@ -51,7 +51,13 @@ II. Tecnológico u Organismo, al Tecnológico de Estudios Superiores de San Feli
 
 III. Junta Directiva, a la Junta Directiva del Tecnológico de Estudios Superiores de San Felipe del Progreso.
 
-IV. Director, al Director del Tecnológico de Estudios Superiores de San Felipe del Progreso.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
+
+IV. Director, a la o al titular de la Dirección del Tecnológico de Estudios Superiores de San Felipe del Progreso.
+
+> <small>(ADICIONADA, G.G. 28 DE MAYO DE 2019)</small>
+
+V. Servidor Público, a toda persona adscrita al Organismo que desempeña un empleo, cargo o comisión al interior del mismo.
 
 ###### Artículo 3.
 
@@ -91,9 +97,11 @@ Corresponde a la Junta Directiva el ejercicio de las atribuciones señaladas en 
 
 #### Sección Segunda. Del Director
 
+> <small>(REFORMADO, G.G. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 10.
 
-Al frente de la Dirección habrá un Director, quien será nombrado y removido por el Gobernador del Estado, a partir de una terna propuesta por la Junta Directiva y durará en su cargo cuatro años, pudiendo ser confirmado para un segundo período.
+Al frente de la Dirección habrá un Director, quien será nombrado y removido en términos de lo dispuesto por el Decreto.
 
 ###### Artículo 11.
 
@@ -121,51 +129,83 @@ IX. Conducir las relaciones laborales del Tecnológico, de acuerdo con las dispo
 
 X. Promover que las actividades de las unidades administrativas del Tecnológico se realicen de manera coordinada cuando la ejecución de sus programas y acciones así lo requieran.
 
-XI. Promover la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que ofrece el Tecnológico.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
+
+XI. Promover acciones para la modernización administrativa, Mejora Regulatoria, Gobierno Digital y Gestión de la Calidad en los trámites y servicios que ofrece el Tecnológico; así como vigilar su ejecución y cumplimiento.
 
 XII. Emitir constancias o expedir copias certificadas de los documentos existentes en sus archivos, cuando se refieran a asuntos de su competencia.
 
 XIII. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así como los casos no previstos en el mismo.
 
-XIV. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende la Junta Directiva.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 28 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, G.G. 11 DE FEBRERO DE 2014)</small>
+XIV. Fomentar que los planes y programas del Tecnológico sean realizados con perspectiva de género y respeto a los derechos humanos.
+
+> <small>(ADICIONADA, G.G. 28 DE MAYO DE 2019)</small>
+
+XV. Presidir el Comité Interno de Obra Pública del Tecnológico, en términos de la normatividad aplicable.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 28 DE MAYO DE 2019)</small>
+
+XVI. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende la Junta Directiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE MAYO DE 2019)</small>
 
 ###### Artículo 12.
 
-Para el estudio, planeación, despacho, control y evaluación de los asuntos de su competencia, el Director se auxiliará de las unidades administrativas básicas siguientes:
+Para el estudio, planeación y despacho de los asuntos de su competencia, el Director se auxiliará de las unidades administrativas básicas siguientes:
+
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
 
 I. Subdirección Académica.
 
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
+
 II. Subdirección de Planeación y Administración.
+
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
 
 III. Subdirección de Vinculación y Extensión.
 
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
+
 IV. División de Ingeniería Civil.
+
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
 
 V. División de Ingeniería Informática.
 
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
+
 VI. División de Ingeniería Química.
+
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
 
 VII. División de Contaduría Pública.
 
-VIII. Unidad Jurídica.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
 
-El Tecnológico contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizados.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE FEBRERO DE 2014)</small>
-
-### CAPÍTULO III. DE LAS ATRIBUCIONES GENÉRICAS DE LOS SUBDIRECTORES, JEFES DE DIVISIÓN Y DE UNIDAD
+VIII. Unidad Jurídica y de Igualdad de Género.
 
 > <small>(REFORMADO, G.G. 11 DE FEBRERO DE 2014)</small>
 
+El Tecnológico contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizados.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE MAYO DE 2019)</small>
+
+### CAPÍTULO III. DE LAS ATRIBUCIONES GENÉRICAS DE LAS Y LOS TITULARES DE LAS SUBDIRECCIONES, JEFATURAS DE DIVISIÓN Y UNIDAD JURÍDICA Y DE IGUALDAD DE GÉNERO
+
+> <small>(REFORMADO, G.G. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 13.
 
-Al frente de cada Subdirección, División y Unidad habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la estructura orgánica y el presupuesto autorizado al Tecnológico.
+Al frente de cada Subdirección, División y Unidad habrá una o un titular, quien se auxiliará de las y los servidores públicos que las necesidades del servicio requieran, de acuerdo con la estructura orgánica y el presupuesto autorizado al Tecnológico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE MAYO DE 2019)</small>
 
 ###### Artículo 14.
 
-Corresponde a los Subdirectores, Jefes de División y de Unidad:
+Corresponde a las y los titulares de las Subdirecciones, Jefaturas de División y Unidad de (sic) Jurídica y de Igualdad de Género:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar las funciones encomendadas a la unidad administrativa a su cargo.
 
@@ -183,9 +223,13 @@ VII. Proponer a su superior inmediato el ingreso, licencia, promoción y remoci�
 
 VIII. Acordar con su superior inmediato el despacho de los asuntos a su cargo que requieran de su intervención.
 
-IX. Coordinar sus actividades con los titulares de las demás unidades administrativas del Tecnológico, cuando la ejecución de sus programas y acciones así lo requieran.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
 
-X. Someter a la consideración de su superior inmediato acciones para la modernización administrativa, mejora regulatoria y gestión de la calidad del Tecnológico, y llevar a cabo su ejecución.
+IX. Coordinar sus actividades con las y los titulares de las demás unidades administrativas del Tecnológico, cuando la ejecución de sus programas y acciones así lo requieran.
+
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
+
+X. Someter a consideración de su superiora o superior inmediato acciones para la modernización administrativa, Mejora Regulatoria, Gobierno Digital y Gestión de la Calidad en los trámites y servicios que presta el Tecnológico.
 
 XI. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o los que les correspondan por suplencia.
 
@@ -199,13 +243,17 @@ XIV. Expedir constancias o copias certificadas de los documentos existentes en s
 
 XV. Cumplir en el ámbito de su competencia, las disposiciones en materia de transparencia y acceso a la información pública y protección de base de datos personales.
 
-> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 28 DE MAYO DE 2019)</small>
 
-XVI. Las demás que les señalan otras disposiciones legales y aquellas que les encomiende su superior inmediato.
+XVI. Promover que los planes y programas de la Unidad Administrativa a su cargo sean realizados con perspectiva de género y respeto a los derechos humanos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE FEBRERO DE 2014)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 28 DE MAYO DE 2019)</small>
 
-### CAPÍTULO IV. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS SUBDIRECCIONES
+XVII. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende el Director.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE MAYO DE 2019)</small>
+
+### CAPÍTULO IV. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS SUBDIRECCIONES, JEFATURAS DE DIVISIÓN Y UNIDAD JURÍDICA Y DE IGUALDAD DE GÉNERO
 
 ###### Artículo 15.
 
@@ -245,13 +293,19 @@ corresponde a la Subdirección de Planeación y Administración:
 
 I. Coordinar la elaboración del programa de desarrollo del Tecnológico, así como de las estrategias y mecanismos para su ejecución.
 
-II. Proyectar el desarrollo del Tecnológico a corto, mediano y largo plazos, con la participación que corresponda a los titulares de las demás unidades administrativas del Organismo.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
 
-III. Establecer lineamientos y mecanismos para el seguimiento, control y evaluación de los programas de trabajo del Tecnológico.
+II. Proyectar el desarrollo del Tecnológico a corto, mediano y largo plazos, con la participación que corresponda a las y los titulares de las demás unidades administrativas del Organismo.
+
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
+
+III. Establecer lineamientos y mecanismos para el seguimiento de los programas de trabajo del Tecnológico.
 
 IV. Promover la congruencia de los planes y programas del Tecnológico con las estrategias, objetivos y prioridades del desarrollo estatal.
 
-V. Proponer y vigilar el cumplimiento de las políticas y lineamientos establecidos para la planeación, programación, control y evaluación de las actividades del Tecnológico.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
+
+V. Proponer y vigilar el cumplimiento de las políticas y lineamientos establecidos para la planeación y programación de las actividades del Tecnológico.
 
 VI. Integrar las propuestas de modificaciones orgánico funcionales del Tecnológico y someterlas a la consideración del Director.
 
@@ -305,21 +359,29 @@ I. Elaborar el programa de vinculación y extensión académica del Tecnológico
 
 II. Promover la participación de los sectores social y privado de la región en las comisiones académicas responsables de elaborar y actualizar los planes y programas de estudio del Tecnológico.
 
-III. Promover la realización de estudios orientados a detectar las necesidades de actualización y capacitación de los profesionistas del sector privado y, en su caso, dar respuesta a sus necesidades de educación continua y a distancia.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
+
+III. Promover la realización de estudios orientados a detectar las necesidades de actualización y capacitación de las y los profesionistas del sector privado y, en su caso, dar respuesta a sus necesidades de educación continua y a distancia.
 
 IV. Proponer al Director la celebración de acuerdos y convenios con productores de bienes o prestadores de servicios, a fin de apoyar la realización de residencias profesionales.
 
-V. Establecer, en coordinación con el sector empresarial, mecanismos para otorgar asesorías permanentes a los estudiantes, profesores e investigadores del Tecnológico, sobre el desarrollo de tecnologías industriales.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
+
+V. Establecer, en coordinación con el sector empresarial, mecanismos para otorgar asesorías permanentes a las y los estudiantes, profesoras, profesores, investigadoras e investigadores del Tecnológico, sobre el desarrollo de tecnologías industriales.
 
 VI. Programar, dirigir y difundir las actividades culturales, recreativas y deportivas del Tecnológico, así como realizar la publicación de su obra editorial.
 
-VII. Promover y organizar, previa autorización del Director, conferencias, seminarios, exposiciones, concursos y demás actividades que contribuyan a la formación profesional de los estudiantes del Tecnológico.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
 
-VIII. Promover entre los alumnos del Tecnológico la realización del servicio social y residencia profesional y fomentar que éstas contribuyan a su formación educativa.
+VII. Promover y organizar, previa autorización del Director, conferencias, seminarios, exposiciones, concursos y demás actividades que contribuyan a la formación profesional de la comunidad estudiantil del Tecnológico.
+
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
+
+VIII. Promover entre el alumnado la realización del servicio social y residencia profesional, así como fomentar que éstas contribuyan a su formación educativa.
 
 IX. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE FEBRERO DE 2014)</small>
+> <small>(DEROGADO, G.G. 28 DE MAYO DE 2019)</small>
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIVISIONES Y UNIDAD JURÍDICA
 
@@ -331,7 +393,9 @@ I. Ejecutar los planes y programas académicos y de investigación de la Divisi�
 
 II. Realizar investigaciones que permitan el avance del conocimiento y el desarrollo de los programas académicos de la División a su cargo y vigilar su cumplimiento.
 
-III. Diseñar y proponer al Subdirector Académico los planes y programas de estudio y de investigación de la División a su cargo, así como vigilar su cumplimiento.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
+
+III. Diseñar y proponer a la o al titular de la Subdirección Académica los planes y programas de estudio y de investigación de la División a su cargo, así como vigilar su cumplimiento.
 
 IV. Supervisar la aplicación de los lineamientos académicos en materia de estancias profesionales.
 
@@ -343,15 +407,21 @@ VII. Apoyar a las instancias competentes en la evaluación curricular de la Divi
 
 VIII. Participar con las instancias competentes en la definición del perfil profesional del personal académico de la División a su cargo.
 
-IX. Someter a la consideración del Subdirector Académico, modificaciones al contenido temático de los programas académicos y de investigación de la División a su cargo.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
 
-X. Integrar la planta docente de la División a su cargo y someterla a la consideración del Subdirector Académico.
+IX. Someter a consideración de la o el titular de la Subdirección Académica, modificaciones al contenido temático de los programas académicos y de investigación de la División a su cargo.
+
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
+
+X. Integrar la planta docente de la División a su cargo y someterla a consideración de la o el titular de la Subdirección Académica.
 
 XI. Diseñar, proponer y organizar cursos de formación, actualización y superación académica del personal docente de la División a su cargo.
 
 XII. Participar en las reuniones de los cuerpos colegiados cuando se traten asuntos relacionados con la División a su cargo.
 
-XIII. Fomentar la titulación de los alumnos egresados de la División a su cargo.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
+
+XIII. Fomentar la titulación de las y los alumnos egresados de la División a su cargo.
 
 XIV. Opinar, en el ámbito de su competencia, si los estudios realizados en otras instituciones de educación que soliciten ser revalidados, son congruentes con los planes y programas académicos del Tecnológico.
 
@@ -359,35 +429,63 @@ XV. Mantener los talleres y laboratorios de su competencia, en condiciones adecu
 
 XVI. Vigilar el desempeño del personal docente adscrito a la División a su cargo, así como aplicar exámenes de oposición para ocupar plazas vacantes.
 
-XVII. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende el Subdirector Académico y el Director.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, G.G. 11 DE FEBRERO DE 2014)</small>
+XVII. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende la o el titular de la Subdirección Académica y el Director.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE MAYO DE 2019)</small>
 
 ###### Artículo 20.
 
-Corresponde a la Unidad Jurídica:
+Corresponde a la Unidad Jurídica y de Igualdad de Género:
+
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
 
 I. Representar al Tecnológico en los asuntos jurídicos en los que sea parte, previo mandato que al efecto le otorgue el Director y realizar el oportuno seguimiento a los procedimientos hasta su conclusión;
 
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
+
 II. Revisar y, en su caso, formular los proyectos de ordenamientos jurídicos que regulen la organización y el funcionamiento del Tecnológico y someterlos a la consideración de la Dirección;
+
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
 
 III. Asesorar jurídicamente a los servidores públicos del Tecnológico en asuntos relacionados con sus funciones;
 
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
+
 IV. Atender y promover las demandas, amparos, juicios, citatorios y demás requerimientos de autoridades diversas, que se emitan o se instauren con relación y en contra del Tecnológico y su personal, a fin de proteger el interés jurídico y patrimonio del mismo;
+
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
 
 V. Tramitar la legalización, regularización y registro de los bienes inmuebles que conformen el patrimonio del Tecnológico;
 
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
+
 VI. Formular y opinar sobre los contratos, convenios y demás instrumentos jurídicos que pretenda celebrar el Tecnológico;
+
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
 
 VII. Registrar y organizar los documentos que acrediten el origen de la propiedad y posesión de los bienes inmuebles destinados al servicio del Tecnológico;
 
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
+
 VIII. Compilar y difundir los ordenamientos jurídicos relacionados con el funcionamiento del Tecnológico;
+
+> <small>(REFORMADA, G.G. 11 DE FEBRERO DE 2014)</small>
 
 IX. Realizar trámites que se requieran para el registro legal de patentes y derechos de autor que tenga el Tecnológico; y
 
-X. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 28 DE MAYO DE 2019)</small>
 
-### CAPÍTULO VI. DEL CONSEJO CONSULTIVO ACADÉMICO
+X. Instrumentar las acciones necesarias para dar cumplimiento con lo establecido en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia y en la Ley de Igualdad de Trato y Oportunidades entre Mujeres y Hombres, ambas del Estado de México y demás disposiciones relativas.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 28 DE MAYO DE 2019)</small>
+
+XI. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director.
+
+(REUBICADO [N. DE E. ANTES CAPITULO VI], G.G. 28 DE MAYO DE 2019)
+
+### CAPÍTULO V. DEL CONSEJO CONSULTIVO ACADÉMICO
 
 ###### Artículo 21.
 
@@ -397,17 +495,29 @@ Al Consejo Consultivo Académico le corresponde apoyar a la Junta Directiva en e
 
 El Consejo Consultivo Académico estará integrado por:
 
-I. Un Presidente, quien será el Director.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
 
-II. Un Secretario, quien será el Subdirector Académico.
+I. Una o un Presidente, quien será el Director.
 
-III. Dos especialistas de alto reconocimiento profesional designados por la Junta Directiva, a invitación del Presidente, tomando en cuenta su prestigio profesional, trayectoria académica y solvencia moral.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
 
-IV. Un representante del personal académico del Tecnológico designado por la Junta Directiva.
+II. Una o un Secretario, quien será la o el Subdirector Académico.
 
-Los especialistas y el representante del personal académico durarán en su cargo dos años pudiendo ser designados por otro período igual
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
 
-Los miembros del Consejo Consultivo Académico realizarán sus tareas de asesoría en forma personal, en términos de la normatividad aplicable.
+III. Dos especialistas de alto reconocimiento profesional designadas o designados por la Junta Directiva, a invitación de la o el Presidente, tomando en cuenta su prestigio profesional, trayectoria académica y solvencia moral.
+
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2019)</small>
+
+IV. Una o un representante del personal académico del Tecnológico designada o designado por la Junta Directiva.
+
+> <small>(REFORMADO, G.G. 28 DE MAYO DE 2019)</small>
+
+Las y los especialistas y la o el representante del personal académico durarán en su cargo dos años pudiendo ser designadas o designados por otro período igual.
+
+> <small>(REFORMADO, G.G. 28 DE MAYO DE 2019)</small>
+
+Las y los miembros del Consejo Consultivo Académico realizarán sus tareas de asesoría en forma personal, en términos de la normatividad aplicable.
 
 El cargo de miembro del Consejo Consultivo Académico será honorífico.
 
@@ -429,19 +539,27 @@ VI. Emitir opinión sobre las propuestas de modificación a los planes y program
 
 VII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende la Junta Directiva.
 
+> <small>(REFORMADO, G.G. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 24.
 
-El Consejo Consultivo Académico celebrará sesiones ordinarias, de acuerdo con el calendario establecido por la Junta Directiva y extraordinarias, cuando sean convocadas con carácter de urgente por el Presidente de éste.
+El Consejo Consultivo Académico celebrará sesiones ordinarias, de acuerdo con el calendario establecido por la Junta Directiva y extraordinarias, cuando sean convocadas con carácter de urgente por la o el Presidente de éste.
 
-### CAPÍTULO VII. DE LA SUPLENCIA DE LOS TITULARES
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPITULO VII], G.G. 28 DE MAYO DE 2019)</small>
+
+### CAPÍTULO VI. DE LA SUPLENCIA DE LAS Y LOS TITULARES
+
+> <small>(REFORMADO, G.G. 28 DE MAYO DE 2019)</small>
 
 ###### Artículo 25.
 
-El Director será suplido en sus ausencias temporales hasta por 15 días hábiles, por el Subdirector Académico. En las mayores de 15 días hábiles, por quien designe la Junta Directiva.
+El Director será suplido en sus ausencias temporales hasta por 15 días, por la o el servidor público de la jerarquía inmediata inferior que él designe. En las mayores de 15 días, por quien designe la Junta Directiva.
+
+> <small>(REFORMADO, G.G. 28 DE MAYO DE 2019)</small>
 
 ###### Artículo 26.
 
-Los Subdirectores y los Jefes de División y de Departamento serán suplidos en sus ausencias temporales hasta por 15 días hábiles, por el servidor público que ellos designen. En las mayores de 15 días hábiles, por el servidor público que designe el Director.
+Las y los titulares de las Subdirecciones, Jefaturas de División, de Departamento y Unidad Jurídica y de Igualdad de Género serán suplidos en sus ausencias temporales hasta por 15 días, por la o el servidor público de la jerarquía inmediata inferior que ellas o ellos designen. En las mayores de 15 días, por la o el servidor público que designe el Director.
 
 T R A N S I T O R I O S
 
@@ -474,3 +592,15 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo
+
+G.G. 28 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE SAN FELIPE DEL PROGRESO".]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente ordenamiento jurídico.
+
+CUARTO.- El presente Acuerdo Modificatorio actualiza el Reglamento Interior del Tecnológico de Estudios Superiores de San Felipe del Progreso, publicado el 23 de enero de 2009, en el Periódico Oficial "Gaceta del Gobierno".
