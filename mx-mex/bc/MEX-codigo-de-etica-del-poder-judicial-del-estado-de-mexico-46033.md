@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-etica-del-poder-judicial-del-estado-de-mexico-46033"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-08-25"
-last_updated: "2005-08-25"
+last_updated: "2019-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE ETICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 28 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CODIGO DE ETICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 28 DE MAYO DE 2019 (ABROGADO).
 
 Código publicado en la Primera Sección de la Gaceta del Gobierno del Estado de México, el jueves 25 de agosto de 2005.
 
@@ -272,3 +274,17 @@ LIC. GUILLERMO ESTRADA CARRASCO
 SECRETARIO GENERAL DE ACUERDOS
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 28 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE APRUEBA EL CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese este Acuerdo en el Periódico Oficial del Estado de México "Gaceta del Gobierno" y en el Boletín Judicial del Poder Judicial del Estado de México.
+
+SEGUNDO. El presente Código entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de México "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Código de Ética del Poder Judicial del Estado de México, aprobado mediante acuerdo de diez de agosto de dos mil cinco, por el Pleno del Consejo de la Judicatura del Estado de México.
+
+CUARTO. El Consejo de la Judicatura del Estado, proveerá lo conducente para la promoción, difusión y observancia del presente Código.
