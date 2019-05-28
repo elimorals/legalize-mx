@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-fiscalia-general-del-estado-de-nayarit-10145
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-05-15"
-last_updated: "2017-09-28"
+last_updated: "2019-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE JUNIO DE 2019 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el jueves 15 de mayo de 2014.
 
@@ -41,9 +43,11 @@ LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 1°.
 
-La presente ley tiene por objeto regular la organización, el funcionamiento y las atribuciones de la Fiscalía General del Estado, para el despacho de los asuntos que a la institución del Ministerio Público le atribuyen en materia de procuración de justicia, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nayarit y demás normas aplicables.
+La presente ley establece las bases para la organización, el funcionamiento y las atribuciones de la Fiscalía General del Estado, para el despacho de los asuntos que a la institución del Ministerio Público le atribuyen en materia de procuración de justicia, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nayarit y demás normas aplicables.
 
 ###### Artículo 2°.
 
@@ -61,71 +65,89 @@ III. Constitución Local: La Constitución Política del Estado Libre y Soberano
 
 IV. Fiscalía General: La Fiscalía General del Estado de Nayarit;
 
-V. Fiscal General: El Fiscal General del Estado de Nayarit;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+V. Fiscal General: El titular de la Fiscalía General del Estado de Nayarit;
 
-VI. Instituto: El Instituto de Capacitación Especializada en Procuración de Justicia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+VI. Fiscalía Anticorrupción: La Fiscalía Especializada en materia de combate a la corrupción;
 
-VII. Servicio de carrera: Al Servicio de Carrera de Procuración de Justicia, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+VII. Fiscal Anticorrupción: El titular de la Fiscalía en Materia de Combate a la Corrupción;
 
-VIII. UMA: La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2019)</small>
+
+VIII. Fiscalía Electoral: La Fiscalía Especializada en Materia de Delitos Electorales;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2019)</small>
+
+IX. Fiscal Electoral: El titular de la Fiscalía en Materia de Delitos Electorales;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+X. Instituto: El Instituto de Capacitación Especializada en Procuración de Justicia;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2019)</small>
+
+XI. Servicio de carrera: Al Servicio de Carrera de Procuración de Justicia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2019)</small>
+
+XII. UMA: La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## Título Segundo. De la Fiscalía General
 
 ### Capítulo I. Bases de Organización
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 4°.
 
-La Fiscalía General es una institución con autonomía técnica y de gestión, por lo que sus funciones no podrán ser influidas ni restringidas por ninguna otra autoridad. Será presidida por un Fiscal General designado conforme a lo dispuesto en la Constitución Local.
+La Fiscalía General es un órgano público con autonomía técnica y de gestión, dotada de personalidad jurídica y de patrimonio propio, por lo que sus funciones no podrán ser influidas ni restringidas por ninguna otra autoridad. Será presidida por un Fiscal General designado conforme a lo dispuesto en la Constitución Local.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
 
 ###### Artículo 5°.
 
-Para el despacho de los asuntos que competen a la Fiscalía General, ésta se conformará con los órganos siguientes:
+Para el despacho de los asuntos que competen a la Fiscalía General, ésta contará de manera enunciativa con los órganos siguientes:
 
-I. Dirección General de Investigación Ministerial;
+I. Fiscal en Materia de Combate a la Corrupción;
 
-II. Dirección General de Procesos Judiciales;
+II. Fiscal en Materia de Delitos Electorales;
 
-III. Dirección General de Asuntos Jurídicos;
+III. Dirección General de Investigación Ministerial y Procesos Judiciales;
 
-IV. Dirección General de Policía Nayarit;
+IV. Dirección General de la Policía de Investigación Criminal;
 
-V. Dirección General de Administración;
+V. Dirección General de Servicios Periciales;
 
-> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2017)</small>
+VI. Titular del Órgano Interno de Control, y
 
-VI. Centro Científico de Comprobación Criminal Certificador,
+VII. Los demás que se establezcan en el Reglamento Interior o acto administrativo respectivo.
 
-> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2017)</small>
+La estructura, organización interna y desarrollo de las atribuciones de los órganos enunciados y los que se establezcan, se determinarán en las disposiciones reglamentarias que al efecto se emitan, dichos órganos, unidades y demás áreas administrativas dentro de la Fiscalía General del Estado deberán respetar la naturaleza, las bases y principios del artículo 21 y demás porciones normativas establecidas en la Constitución General de la República y la particular del Estado para el Ministerio Público.
 
-VII. Visitaduría General, y
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2017)</small>
+###### Artículo 6.
 
-VIII. Órgano Interno de Control.
+El Fiscal General, con base en las disposiciones presupuestales, y las necesidades del servicio, podrá crear y suprimir órganos o unidades, así como agencias ministeriales, áreas de inteligencia entre ellas en materia patrimonial y económica y demás para el conocimiento, atención y persecución de los delitos que por su trascendencia, interés y características así lo ameriten.
 
-La estructura y organización interna de los órganos a que refiere el presente artículo se establecerán en las disposiciones reglamentarias que al efecto se emitan conforme a la presente ley.
-
-###### Artículo 6°.
-
-El Fiscal General, con base en las disposiciones presupuestales, y las necesidades del servicio, podrá crear y suprimir unidades, así como agencias necesarias para el conocimiento, atención y persecución de los delitos que por su trascendencia, interés y características así lo ameriten.
-
-Las unidades y agencias que conforme a este precepto se llegaren a crear deberán adscribirse jerárquicamente a alguno de los órganos referidos en el artículo 5°.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
 
 ###### Artículo 7°.
 
-Para la mejor organización y funcionamiento de la dependencia el Fiscal General podrá delegar facultades, excepto aquellas que por disposición de la Constitución Local, la presente ley y demás ordenamientos aplicables, deban ser ejercidas directamente por él.
+Para la mejor organización y funcionamiento de la Fiscalía General, el Fiscal General podrá delegar facultades en el servidor o servidores públicos, excepto aquellas que por disposición de la Constitución Local, la presente ley y demás ordenamientos aplicables, sean indelegables.
 
 ### Capítulo II. Del Fiscal General y sus Atribuciones
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 8°.
 
-El Fiscal General ejercerá las atribuciones y funciones que para la institución del Ministerio Público se consagran en la Constitución Federal y la Constitución Local, así como las relacionadas con la organización y funcionamiento de la Fiscalía General previstas en la presente ley y demás ordenamientos aplicables.
+El Fiscal General ejercerá las atribuciones y funciones que para la institución del Ministerio Público se consagran en la Constitución Federal y la Constitución Local, así como las relacionadas con la organización y funcionamiento de la Fiscalía General previstas en la presente ley, su reglamento y demás ordenamientos aplicables.
 
 ###### Artículo 9°.
 
@@ -135,9 +157,13 @@ I. Establecer las bases de organización de la Fiscalía General;
 
 II. Dirigir, administrar, controlar y supervisar el funcionamiento de la institución y ejercer la disciplina entre sus integrantes;
 
-III. Emitir acuerdos, circulares, instructivos, manuales de organización y de procedimientos, bases generales y demás normas administrativas necesarias que rijan la actuación de las unidades administrativas y órganos técnicos, centrales y desconcentrados de la institución;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-IV. Designar y remover libremente a los titulares de los órganos descritos en el artículo 5° y demás servidores públicos de la institución que no formen parte del servicio de carrera;
+III. Emitir acuerdos, circulares, instructivos, manuales de organización y de procedimientos, bases generales y demás normas administrativas necesarias que rijan la actuación de los órganos y unidades que conformen la estructura de la institución;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+IV. Designar y remover libremente a los titulares de los órganos o unidades enunciados en esta ley así como los que se crearen conforme al reglamento interior o acuerdo de creación y, en general, los demás servidores públicos de la institución que no formen parte del servicio de carrera;
 
 V. Emitir instrucciones generales o particulares al personal de la institución sobre el ejercicio de sus funciones y la prestación del servicio encomendado;
 
@@ -151,7 +177,9 @@ IX. Determinar la política institucional del Ministerio Público y los criterio
 
 X. Dirigir y coordinar el desarrollo de la función investigadora y acusatoria contra los presuntos infractores de la ley penal, directamente o a través de los servidores públicos facultados conforme a la presente ley;
 
-XI. Emitir los acuerdos con relación a la aplicación de criterios de oportunidad, las formas de terminación anticipada de la investigación y salidas alternas;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XI. Emitir los acuerdos con relación a la aplicación de criterios de oportunidad, el ejercicio de la facultad de no investigar, archivo temporal, no ejercicio de la acción penal, soluciones alternas y las formas de terminación anticipada de la investigación;
 
 XII. Dictar, conforme a la ley de la materia, los criterios generales que deberán regir la protección y atención de víctimas, ofendidos y testigos;
 
@@ -165,23 +193,67 @@ XVI. Celebrar convenios de coordinación y colaboración policial en materia de 
 
 XVII. Celebrar acuerdos o convenios con las instituciones públicas o privadas para garantizar a los inculpados, ofendidos, víctimas, denunciantes y testigos pertenecientes a los pueblos y comunidades indígenas, la disponibilidad de intérpretes y traductores;
 
-XVIII. Proponer al Gobernador del Estado los proyectos de leyes, reglamentos y decretos relacionados con la procuración de justicia;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-XIX. Promover y encabezar de manera conjunta con la Procuraduría de la Defensa del Menor y la Familia, la coordinación con autoridades federales, estatales y municipales, para la implementación de programas, mecanismos y protocolos de seguridad en la búsqueda de menores desaparecidos, solicitando la participación de la sociedad y de los medios masivos de comunicación para la atención de este tipo de casos;
+XVIII. Proponer al Gobernador del Estado los proyectos de leyes, reglamentos o decreto relacionados con la procuración de justicia;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XIX. Promover la coordinación con autoridades federales, estatales y municipales, para la implementación de programas, mecanismos y protocolos de seguridad en la búsqueda de personas reportadas como desaparecidas, solicitando la participación de la sociedad y de los medios masivos de comunicación para la atención de este tipo de casos;
 
 XX. Resolver por sí o a través del servidor público en quien delegue dicha facultad, las inconformidades interpuestas por la víctima u ofendido en contra de las determinaciones del Ministerio Público sobre su negativa u omisión en determinados actos de investigación, así como de las determinaciones sobre la abstención de investigar, el archivo temporal, el no ejercicio de la acción penal o sobre la aplicación de criterios de oportunidad;
 
-XXI. Conceder audiencias al público que lo solicite para tratar asuntos relativos a la procuración de justicia, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-XXII. Las demás que conforme a esta ley y las disposiciones legales aplicables le correspondan.
+XXI. Conceder audiencias al público que lo solicite para tratar asuntos relativos a la procuración de justicia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2019)</small>
+
+XXII. Solicitar el traslado del detenido cuando el delito imputado sea grave; por su trascendencia; o bien, porque en el reclusorio en donde se encuentre no se preste la seguridad debida;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XXIII. Cambiar de adscripción al personal de la Fiscalía General, según se requiera, para cubrir las necesidades del servicio;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XXIV. Dar por terminado los efectos del nombramiento de los servidores públicos de la Fiscalía General, por causa justificada, sin responsabilidad para la misma;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XXV. Resolver las dudas sobre la interpretación y aplicación de esta ley;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XXVI. Dictar los reglamentos, acuerdos y demás disposiciones normativas que sean necesarias y le permitan proveer en la esfera administrativa, el cumplimiento de las funciones de la Fiscalía General, sus atribuciones y sus deberes;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XXVII. Emitir acuerdos administrativos tendientes a crear los órganos o unidades auxiliares que resulten indispensables para el despacho de la Fiscalía General, determinando sus funciones y atribuciones en el acuerdo o en el reglamento interior;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XXVIII. Auxiliarse para el ejercicio de sus funciones, con una Secretaría Particular, las unidades administrativas de asesoría, apoyo técnico y de coordinación que el mismo determine, de conformidad con su presupuesto de egresos o disponibilidad presupuestaria;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XXIX. Suscribir por sí o a través del servidor o servidores públicos en quien delegue esa facultad, los documentos relativos al ejercicio de sus atribuciones, celebrar, otorgar y suscribir contratos, convenios, escrituras públicas y demás actos jurídicos de carácter administrativo, público o de derecho privado que sean necesario (sic) para el ejercicio pleno de sus funciones, atribuciones o deberes, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MAYO DE 2019)</small>
+
+XXX. Las demás que conforme a esta ley, el reglamento interior y las disposiciones legales aplicables le correspondan.
 
 ###### Artículo 10.
 
 Son deberes del Fiscal General:
 
-I. Garantizar la autonomía técnica y de gestión de la institución;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-II. Elaborar el anteproyecto del presupuesto anual de egresos de la institución y remitirlo a la Secretaría de Administración y Finanzas del Estado para los efectos conducentes;
+I. Garantizar la autonomía de la institución, su ejercicio técnico, de gestión y presupuestal;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+II. Elaborar el presupuesto anual de egresos de la institución y remitirlo a la Secretaría de Administración y Finanzas del Estado para su incorporación al proyecto de presupuesto de egresos;
 
 III. Comparecer ante el Congreso del Estado para informar sobre los asuntos a su cargo;
 
@@ -215,29 +287,35 @@ Son atribuciones indelegables del Fiscal General:
 
 I. Comparecer ante el Congreso Local, a citación expresa, para informar cuando se discuta una ley o se estudie un asunto concerniente a las actividades de la Fiscalía General;
 
-II. Proponer al Ejecutivo Estatal los proyectos de iniciativas de ley o de reformas legislativas para la exacta observancia de la Constitución Federal y la propia del Estado que estén vinculadas con las materias que sean competencia de la institución, de conformidad con las disposiciones aplicables;
+II. (DEROGADA, P.O. 28 DE MAYO DE 2019)
 
-III. Someter a consideración del Ejecutivo Estatal el proyecto de Reglamento de esta ley, así como el de las reformas al mismo, que juzgue necesarias;
+III. (DEROGADA, P.O. 28 DE MAYO DE 2019)
 
 IV. Concurrir en la integración y participar en la instancia superior de coordinación del Sistema Estatal de Seguridad Pública, de conformidad con la legislación aplicable;
 
-V. Celebrar acuerdos, bases de colaboración, convenios y demás instrumentos jurídicos con autoridades federales y con los Gobiernos de los Estados y municipios, así como con organizaciones de los sectores social y privado, en la materia de su competencia;
+V. (DEROGADA, P.O. 28 DE MAYO DE 2019)
 
 VI. Coordinar y ejercer el control de la Fiscalía General;
 
-VII. Solicitar el traslado del detenido cuando el delito imputado sea grave; por su trascendencia; o bien, porque en el reclusorio en donde se encuentre no se preste la seguridad debida;
+VII. (DEROGADA, P.O. 28 DE MAYO DE 2019)
 
-VIII. Cambiar de adscripción al personal de la Fiscalía General, según se requiera, para cubrir las necesidades del servicio;
+VIII. (DEROGADA, P.O. 28 DE MAYO DE 2019)
 
 IX. Solicitar al Congreso del Estado la declaración de procedencia por la comisión de delitos del orden común, en contra de los funcionarios a que hace referencia la Constitución Local;
 
-X. Poner en conocimiento de la autoridad competente, los abusos e irregularidades graves que se adviertan en los órganos jurisdiccionales;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+X. Poner en conocimiento de la autoridad competente, los abusos e irregularidades que se adviertan en los órganos jurisdiccionales;
 
 XI. Determinar la delegación y desconcentración de sus facultades en los servidores públicos de la Fiscalía General;
 
-XII. Expedir los acuerdos, circulares y autorizar los manuales de organización y procedimientos conducentes para el buen despacho de la Fiscalía General;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-XIII. Determinar la especialización de las Agencias del Ministerio Público, mediante acuerdo publicado en el Periódico Oficial, Órgano del Gobierno del Estado;
+XII. Expedir el reglamento interior y el o los manuales de organización y procedimientos conducentes para el buen despacho de la Fiscalía General;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XIII. Determinar la especialización de los órganos o unidades operativas, mediante acuerdo publicado en el Periódico Oficial, Órgano del Gobierno del Estado;
 
 XIV. Representar al Estado en defensa de sus intereses ante cualquier autoridad o instancia;
 
@@ -245,19 +323,21 @@ XV. Calificar las excusas e impedimentos de los servidores públicos de la Fisca
 
 XVI. Dictar las medidas y providencias necesarias para proporcionar seguridad y protección a servidores o ex-servidores públicos, que por la naturaleza de las funciones que desempeñen o hayan desempeñado lo requieran, de conformidad con lo que dispongan las leyes aplicables; igual medida se tomará para las demás personas, que por su intervención en la integración de la carpeta de investigación o en el proceso penal sea pertinente;
 
-XVII. Autorizar el servicio de seguridad y protección policial cuando ello resulte procedente, sujetándose a las bases y lineamientos que se establezcan en las disposiciones aplicables;
+XVII. (DEROGADA, P.O. 28 DE MAYO DE 2019)
 
-XVIII. Dar por terminado los efectos del nombramiento de los servidores públicos de la Fiscalía General, por causa justificada, sin responsabilidad para la misma;
+XVIII. (DEROGADA, P.O. 28 DE MAYO DE 2019)
 
 XIX. La designación de los servidores públicos, que representarán a la Fiscalía General, ante las diferentes autoridades y dependencias, públicas o privadas;
 
 XX. Determinar el auxilio del personal de la Fiscalía General a otras autoridades que con motivo de sus actividades así lo requieran, siempre y cuando ello sea procedente. Dicha determinación deberá expresar el tipo, naturaleza y tiempo de la comisión, número de personal y lugar en que habrá de realizarse, para lo cual deberá tomarse en cuenta las necesidades y posibilidades de la Fiscalía General, y
 
-XXI. Las que prevea como tales esta ley y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XXI. Las que prevea como tales esta ley, su reglamento interior y demás disposiciones aplicables.
 
 ### Capítulo III. De la Suplencia y Representación del Fiscal General
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
 
 ###### Artículo 12.
 
@@ -265,23 +345,27 @@ En ausencia definitiva del Fiscal General y en tanto se designa a quien deba suc
 
 Una vez que por cualquier medio se tenga conocimiento cierto de la ausencia definitiva del Fiscal, la designación del encargado del despacho deberá realizarse a más tardar dentro de los cinco días naturales siguientes.
 
-En las ausencias temporales o definitivas del Fiscal General, asumirá las funciones del cargo el Director General de Investigación Ministerial hasta la designación del encargado del despacho o hasta la reincorporación del titular, quien ejercerá las atribuciones inherentes al cargo, con excepción de las indelegables. En las ausencias definitivas el Congreso podrá autorizar el ejercicio temporal o indefinido de las facultades indelegables.
+En las ausencias temporales se estará a lo dispuesto en el Reglamento Interior y en las definitivas del Fiscal General, asumirá las funciones del cargo el Director General de Investigación Ministerial hasta la designación del encargado del despacho o hasta la reincorporación del titular, quien ejercerá las atribuciones inherentes al cargo, con excepción de las indelegables. En las ausencias definitivas el Congreso podrá autorizar el ejercicio temporal o indefinido de las facultades indelegables.
 
-En los casos en que el Fiscal General deba excusarse o bien sea recusado, se aplicará la suplencia prevista en el párrafo primero del presente artículo.
+En los casos en que el Fiscal General deba excusarse o bien sea recusado, se estará a lo dispuesto en el párrafo anterior con relación a las ausencias temporales.
 
 ###### Artículo 13.
 
 (DEROGADO, P.O. 3 DE MAYO DE 2017)
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 14.
 
-El Fiscal General será representado ante las autoridades judiciales, administrativas y del trabajo, por los servidores públicos que se designen en los términos de esta ley y demás disposiciones aplicables.
+El Fiscal General será representado ante los diversos órganos jurisdiccionales del fuero común y fuero federal, por los servidores públicos que se designen en los términos de esta ley y demás disposiciones aplicables.
 
 ### Capítulo IV. Del Nombramiento y Remoción de los Servidores Públicos de la Fiscalía General
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 15.
 
-El Fiscal General podrá nombrar y remover libremente a los titulares de los órganos referidos en el artículo 5°, así como a quienes ejerzan funciones de dirección de las unidades que en términos del artículo 6° llegaren a establecerse, y aquellos cuyo nombramiento derive de una designación especial en términos de esta ley.
+El Fiscal General podrá nombrar y remover libremente a los titulares de los órganos referidos en los artículos 5 y 6 y aquellos cuyo nombramiento derive de una designación especial en términos de esta ley.
 
 ###### Artículo 16.
 
@@ -305,7 +389,9 @@ IV. Cometer actos inmorales en los lugares de adscripción o en cualquier oficin
 
 V. Concurrir a sus labores en estado de embriaguez o bajo la influencia de algún narcótico o droga enervante, salvo que en este último caso exista prescripción médica, lo cual deberá hacerse del conocimiento del superior jerárquico, por escrito y a más tardar al siguiente día en que el servidor público deba presentarse al desempeño de sus funciones. La falta de aviso en los términos precisados justifica la terminación de los efectos del nombramiento;
 
-VI. La sentencia ejecutoriada que imponga al servidor público, la pena privativa de libertad, sin importar el monto de los días, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+VI. La sentencia ejecutoriada que se imponga al servidor público, en la cual se le condene a pena privativa de libertad, sin importar el monto de los días, y
 
 VII. Las análogas a las anteriores, que por su importancia, gravedad y trascendencia, impidan que se pueda desempeñar la función de manera confiable.
 
@@ -319,7 +405,9 @@ I. Recabar, sistematizar y analizar la información generada en materia de incid
 
 II. Promover la formación profesional del personal de la institución, el mejoramiento de instrumentos administrativos y tecnológicos para la debida investigación de los delitos y la eficaz persecución de los probables responsables;
 
-III. Estudiar y analizar las medidas de política criminal adoptadas en otras ciudades, tanto de la República Mexicana como del extranjero, e intercambiar información y experiencia sobre esta materia;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+III. Estudiar y analizar las medidas de política criminal adoptadas en otras entidades federativas de la República Mexicana, por la federación y en el extranjero, e intercambiar información y experiencia sobre esta materia;
 
 IV. Participar en los proyectos del Plan Estatal de Desarrollo y de los programas correspondientes, en los términos de las normas aplicables;
 
@@ -341,9 +429,11 @@ No obstante lo anterior, la acción penal podrá ser ejercida por los particular
 
 Las funciones de Ministerio Público en el Estado las ejerce el Fiscal General por sí o por conducto de Agentes que al efecto designe conforme a las disposiciones de la presente ley.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 22.
 
-Los procedimientos seguidos por el Ministerio Público en la investigación de los delitos tendrán por objeto el esclarecimiento de los hechos, procurar que el culpable sea sancionado y que los daños causados por el delito se reparen.
+Los procedimientos seguidos por el Ministerio Público en la investigación de los delitos tendrán por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen.
 
 ###### Artículo 23.
 
@@ -351,11 +441,15 @@ Para el desarrollo de las funciones de la institución del Ministerio Público d
 
 I. Sistema de Especialización: La Fiscalía General contará con Agencias Especializadas en la investigación y persecución del delito, atendiendo a las formas de manifestación de la delincuencia, así como a la naturaleza, complejidad, e incidencia de los delitos locales y sus conexos.
 
-Habrá un Agente del Ministerio Público especializado quien ejercerá el mando y autoridad jerárquica sobre el personal que esté adscrito a la Agencia y dirigirá las actuaciones que se encomienden a los elementos de Policía Nayarit.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
+Habrá un Agente del Ministerio Público especializado quien ejercerá el mando y autoridad jerárquica sobre el personal que esté adscrito a la Agencia y dirigirá las actuaciones que se encomienden a los elementos de la Policía de Investigación Criminal, Peritos, Analistas y demás auxiliares.
 
 Las Agencias Especializadas actuarán en los municipios del Estado en donde se requiera su asistencia.
 
-II. Sistema de Desconcentración: Se establecerán Agencias Regionales como órganos desconcentrados de la Fiscalía General. En cada una de ellas habrá los Agentes del Ministerio Público necesarios, quienes ejercerán el mando y autoridad jerárquica sobre el personal que esté adscrito a la misma, y ordenarán las actuaciones de los elementos de Policía Nayarit y Peritos que están a su mando.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE MAYO DE 2019)</small>
+
+II. Sistema de Desconcentración: Se establecerán Agencias Regionales en las que habrá los Agentes del Ministerio Público necesarios, quienes ejercerán el mando y autoridad jerárquica sobre el personal auxiliar a que se refiere la fracción anterior.
 
 Las adscripciones de las Agencias Regionales serán definidas atendiendo a la incidencia delictiva, densidad de población, las características geográficas del Estado y la correcta distribución de las cargas de trabajo.
 
@@ -393,9 +487,11 @@ Una vez concluido el proceso establecido en la convocatoria que al efecto se hay
 
 Los Agentes designados formarán parte del Servicio de Carrera, por lo que quedarán sujetos a las disposiciones que al efecto se emitan conforme a esta ley y demás normas aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 26.
 
-Los Asistentes del Ministerio Público, reuniendo los requisitos establecidos en esta ley, podrán ser promovidos al cargo de Agentes; en igualdad de circunstancias tendrán preferencia.
+Los Agentes del Ministerio Público Auxiliares, reuniendo los requisitos establecidos en esta ley, podrán ser promovidos al cargo de Agentes; en igualdad de circunstancias tendrán preferencia.
 
 ###### Artículo 27.
 
@@ -421,9 +517,11 @@ V. Contar con la certificación y registro actualizados, y
 
 VI. Cumplir con los requisitos y demás obligaciones que le impongan las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 29.
 
-Los Directores Generales, el Visitador General y demás servidores públicos que tengan bajo su mando a Agentes del Ministerio Público, tendrán el carácter de Agente del Ministerio Público.
+Los Órganos y demás servidores públicos que tengan bajo su mando a Agentes del Ministerio Público, tendrán el carácter de Agente del Ministerio Público.
 
 ### Capítulo III. Atribuciones del Ministerio Público
 
@@ -439,11 +537,17 @@ Los Agentes del Ministerio Público podrán actuar válidamente, en ejercicio de
 
 Son atribuciones del Ministerio Público:
 
-I. Ejercer la conducción y mando de la investigación de los hechos que la ley señala como delito;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-II. Recibir las denuncias, querellas o cualquier otro requisito de procedibilidad equivalente, que se le presenten en forma oral, por escrito o a través de medios digitales, incluso mediante informaciones anónimas, en términos de las disposiciones aplicables, sobre hechos que puedan constituir algún delito, y ordenar a la policía, en su caso, que investigue la veracidad de los datos aportados;
+I. Ejercer la conducción y mando de la investigación de los hechos presuntamente constitutivos de delito;
 
-III. Ejercer la acción penal ante los tribunales en los términos que fije la ley, o en su caso, decretar el no ejercicio de la misma, la abstención de investigar o el archivo definitivo de la investigación;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+II. Recibir las denuncias, querellas o cualquier otro requisito de procedibilidad equivalente, que se le presenten en forma oral, por escrito o a través de medios digitales, incluso mediante informaciones anónimas, en términos de las disposiciones aplicables, sobre hechos que puedan constituir algún delito, y ordenar a la policía, en su caso, su recepción y la investigación de la veracidad de los datos aportados;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+III. Ejercer la acción penal ante los tribunales en los términos que fije la ley, o en su caso, decretar el no ejercicio de la misma, el archivo temporal, decidir la aplicación de criterios de oportunidad, así como ejercer la facultad de abstenerse de investigar;
 
 IV. Dictar medidas y providencias necesarias para impedir que se pierdan, destruyan o alteren los indicios, evidencias, huellas, objetos, instrumentos o productos del hecho delictivo, así como cerciorarse de que se han seguido las disposiciones para su preservación y procesamiento;
 
@@ -451,19 +555,31 @@ V. Investigar los delitos en materias concurrentes cuando las leyes le otorguen 
 
 VI. Determinar, en funciones de conducción y mando, los hechos concretos, personas, domicilios y demás lugares u objetos que deben ser investigados;
 
-VII. Ordenar a la policía y sus auxiliares, en el ámbito de su competencia, la práctica de diligencias conducentes para el esclarecimiento del hecho que la ley señala como delito;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-VIII. Instruir y asesorar a la policía, sobre la legalidad, pertinencia y suficiencia de los indicios, evidencias, huellas, objetos, instrumentos o productos del hecho delictivo recolectados o por recolectar, así como las demás actividades de investigación;
+VII. Ordenar a la policía y sus auxiliares, en el ámbito de su competencia, la práctica de actos de investigación conducentes para el esclarecimiento del hecho presuntamente constitutivo de delito, determinar el daño causado y la cuantificación para los efectos de su reparación;
 
-IX. Requerir informes y documentación a autoridades y particulares, así como solicitar la práctica de peritajes y demás medios de investigación;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-X. Solicitar a la autoridad jurisdiccional la autorización de técnicas de investigación y demás actuaciones que requieran control judicial;
+VIII. Instruir y asesorar a la policía, sobre la legalidad, pertinencia y suficiencia de los indicios, evidencias, huellas, objetos, instrumentos o productos del hecho presuntamente constitutivo de delito recolectados o por recolectar, así como las demás actividades de investigación;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+IX. Requerir informes y documentación a autoridades y particulares, así como solicitar la práctica de peritajes y demás medios o elementos de prueba;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+X. Solicitar a la autoridad jurisdiccional la autorización de actos de investigación y demás actuaciones que requieran control judicial;
 
 XI. Solicitar a la autoridad jurisdiccional la autorización de providencias precautorias que así lo requieran;
 
-XII. Ordenar la detención de los imputados cuando proceda;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-XIII. Decidir la aplicación de alguna forma de terminación anticipada de la investigación conforme a los acuerdos que para tal efecto emita el Fiscal General en términos de las disposiciones aplicables;
+XII. Ordenar la detención y retención de los imputados cuando proceda;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XIII. Decidir la aplicación de mecanismos alternativos de solución de controversias, soluciones alternas o formas anticipadas de terminación del proceso penal conforme a los acuerdos que para tal efecto emita el Fiscal General;
 
 XIV. Realizar las acciones necesarias para garantizar la seguridad y proporcionar auxilio a víctimas, ofendidos, testigos, jueces, magistrados, policías, peritos y, en general, de todos los sujetos que con motivo de su intervención en el procedimiento, exista un riesgo objetivo para su vida o integridad corporal;
 
@@ -471,29 +587,153 @@ XV. Determinar, en su caso, el destino de los objetos, instrumentos o productos 
 
 XVI. Recabar los antecedentes y elementos de convicción tendientes al esclarecimiento de los hechos materia de la denuncia o querella;
 
-XVII. Promover la resolución de los conflictos surgidos como consecuencia de los delitos a través de la mediación, conciliación y el proceso restaurativo entre la víctima u ofendido y el imputado, en los casos que conforme a la ley sean procedentes;
+XVII. (DEROGADA, P.O. 28 DE MAYO DE 2019)
 
-XVIII. Aplicar los criterios de oportunidad en los supuestos previstos por las leyes;
+XVIII. (DEROGADA, P.O. 28 DE MAYO DE 2019)
 
-XIX. Expedir copias certificadas de constancias o registros que obren en su poder, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-XX. Dirigir a la Policía Nayarit y al resto de las instituciones policiales del Estado cuando éstos actúen como auxiliares en la investigación y persecución de los hechos que la ley señala como delito, vigilando que los mismos realicen sus actuaciones con pleno respeto a los derechos humanos conforme a los principios establecidos en la presente ley.
+XIX. Expedir la certificación de documentos o registros que obren en su poder por sí o por medio de sus Agentes del Ministerio Público Auxiliares;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XX. Dirigir a los Policías de Investigación Criminal y al resto de los policías cuando éstos actúen como auxiliares en la investigación y persecución de los hechos que la ley señala como delito, vigilando que los mismos realicen sus actuaciones con pleno respeto a los derechos humanos conforme a los principios establecidos en la presente ley;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XXI. Intervenir en la representación de los asuntos de carácter familiar, donde sean parte los niños, niñas, adolescentes, personas con capacidades diferentes, adultos mayores, ausentes y demás casos previstos por las leyes;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XXII. Coadyuvar con el Ministerio Público de la Federación y de las entidades federativas, en términos de las leyes y convenios de colaboración que al respecto se suscriban;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XXIII. Ejercer las funciones que en materia de justicia para adolescentes establezcan las leyes, y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XXIV. Las demás que otras leyes y reglamentos establezcan.
 
 ###### Artículo 33.
 
 Además de las atribuciones y funciones a que se hace referencia en la presente ley, el Ministerio Público ejercerá aquellas que conforme a la Constitución Local y demás leyes se le confieran para el cumplimiento de su encargo.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 34.
 
-El Ministerio Público suplirá la ausencia o deficiencia de razonamientos y fundamentos que conduzcan a proteger los derechos que legítimamente puedan corresponderle a los menores de edad, incapaces, indígenas y personas que no sepan leer o escribir, relacionados con hechos ilícitos tipificados por las leyes penales, independientemente del carácter con el que participen en el proceso.
+El Ministerio Público suplirá la ausencia o deficiencia de motivación y fundamentos que conduzcan a proteger los derechos que legítimamente puedan corresponderle a los menores de edad, incapaces, indígenas y personas que no sepan leer o escribir, relacionados con hechos ilícitos tipificados por las leyes penales, independientemente del carácter con el que participen en el proceso.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
+
+###### Artículo 34 Bis.
+
+El titular de la Fiscalía General designará y removerá libremente a los titulares de las Fiscalías Especializadas, Unidades de Investigación y Coordinaciones Regionales con base a sus méritos y capacidades para ejercer el cargo, satisfacer un perfil previamente establecido y cubrir los mismos requisitos que para ser Fiscal General del Estado, con excepción de los servidores públicos contemplados en el artículo 5 fracciones I y II, quienes se sujetarán a lo dispuesto por el artículo 100 de la Constitución para el Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
+
+###### Artículo 34 Ter.
+
+Luego de verificar el cumplimiento de los requisitos de elegibilidad para la designación de Fiscales Especializados, titulares de Unidades de Investigación y Coordinaciones Regionales, los órganos competentes valorarán los antecedentes y trayectoria profesional de las personas candidatas, con el propósito de evaluar los elementos objetivos y subjetivos que se señalan en esta Ley. Dichos requisitos de elegibilidad deberán cumplir como mínimo con los requisitos señalados en el artículo 95 de la Constitución Local.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
+
+###### Artículo 34 Quáter.
+
+Todo proceso de designación estará sujeto a los principios de máxima transparencia y publicidad. Las autoridades que intervengan en dichos procesos deberán hacer pública, de manera proactiva, oportuna, completa y accesible, toda la información y documentación que se reciba, solicite, obtenga o produzca con ocasión del procedimiento, con excepción de aquella que pueda afectar la vida privada e intimidad, de conformidad con la normatividad aplicable en materia de transparencia y acceso a la información pública.
+
+El incumplimiento de lo antes dispuesto será motivo de responsabilidad, en términos de la normatividad administrativa aplicable.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
+
+###### Artículo 34 Quinquies.
+
+Las Fiscalías Especializadas designadas por el Congreso del Estado adscritas a la Fiscalía General, gozarán de autonomía técnica y de gestión, en el ámbito de su competencia y tendrán las siguientes atribuciones:
+
+I. Proponer al Fiscal General proyectos de convenios y acuerdos de colaboración con las instancias públicas o privadas que estimen necesarios para el ejercicio de sus funciones;
+
+II. Participar en estrategias de coordinación con las instancias homólogas o que resulten pertinentes para el ejercicio de sus funciones, dando aviso a la Dirección General de Investigación Ministerial y Procesos Judiciales;
+
+III. Elaborar solicitudes de información encaminadas a la investigación de delitos de su competencia a particulares, empresas o instancias estatales, nacionales e internacionales, dando aviso a la Dirección General de Investigación Ministerial y Procesos Judiciales;
+
+IV. Poner a consideración del Fiscal General, dentro del ámbito de sus competencias los proyectos de normatividad que estime necesaria para el desempeño de sus funciones;
+
+V. Presentar al Fiscal General, un informe anual sobre los avances y resultados de su gestión, para su integración al informe que la persona titular de la Fiscalía General presentará ante el Congreso del Estado;
+
+VI. En los casos que representen un riesgo para la víctima u ofendido, testigos, la comunidad y el desarrollo de la investigación, tomar medidas que privilegien la integridad y no fragmentación de la investigación y el ejercicio de la acción penal;
+
+VII. Las personas titulares de las Fiscalías Especializadas implementarán medidas y estrategias de coordinación con las unidades, mecanismos y otras instancias especializadas creadas por las leyes especiales, tratados internacionales y demás ordenamientos vinculados con su competencia, a efecto de facilitar el ejercicio del mandato de dichos mecanismos y de la propia Fiscalía, en el ámbito de su competencia. Las medidas de articulación y colaboración comprenderán acciones tales como:
+
+a. El intercambio de información, documentación, bases de datos, a través de sistemas de interoperabilidad;
+
+b. La designación de enlaces;
+
+c. La realización de mesas de trabajo y encuentros en los que participen, inclusive, organizaciones de víctimas, de la sociedad civil especializadas y organismos internacionales;
+
+d. Facilitar el contacto entre los mecanismos especializados y las personas vinculadas a las investigaciones, y
+
+e. Las demás que se acuerden y consideren necesarias.
+
+La colaboración entre las Fiscalías Especializadas y los mecanismos creados por leyes especiales serán revestidas de flexibilidad y de formalidad mínima, a efecto de no obstaculizar, complicar ni dilatar las mismas;
+
+VIII. Remitir para su autorización al Fiscal General, las determinaciones de no ejercicio de la acción penal y aplicación de criterios de oportunidad; así como, las relativas al archivo temporal y el ejercicio de la facultad de abstención de investigar, para la verificación de los requisitos de procedencia, y
+
+IX. Las que establezcan tanto la Constitución General, la Constitución para el Estado y demás leyes para el cumplimiento de sus funciones.
+
+Para llevar a cabo la función de investigación y litigación penal, las y los Fiscales Especializados colaborarán con instancias de los tres órdenes de gobierno.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
+
+###### Artículo 34 Sexies.
+
+Las Funciones de la Fiscalía Especializada en Materia de Delitos Electorales, serán las siguientes:
+
+I. La Fiscalía Especializada en materia de Delitos Electorales tendrá bajo su cargo la prevención, investigación y persecución de los delitos establecidos en la Ley General en Materia de Delitos Electorales y en cualquier otro ordenamiento legal en la materia;
+
+II. En los procesos electorales, en los procesos de consulta popular y en el desarrollo de mecanismos de democracia directa, realizará despliegues operativos en el ámbito local con la finalidad de que las y los Agentes del Ministerio Público puedan atender directamente las denuncias de la ciudadanía;
+
+III. Deberá informar mensualmente al Organismo Público Local Electoral sobre la cantidad y naturaleza de las denuncias recibidas, el estado de las investigaciones, así como las determinaciones o procesos según sea el caso;
+
+IV. Igualmente, de forma anual, presentará un informe ante el Comité Coordinador del Sistema Local Anticorrupción, este último sólo en los casos en que exista correlación entre los delitos electorales y posibles actos de corrupción cometidos desde la función pública, un informe sobre actividades sustantivas y sus resultados, el cual será público, en términos de lo previsto en la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables en la materia;
+
+V. Nombrar y remover a los titulares de las Unidades Administrativas de la Fiscalía Especializada en Combate a la Corrupción, con las excepciones establecidas en esta Ley y demás normatividad aplicable, en términos de las políticas y lineamientos sobre la administración de recursos humanos que establezca la Fiscalía General;
+
+VI. Contar con agentes del Ministerio Público, agentes de la Policía Ministerial y demás personal del servicio de carrera a que se refiere el artículo 51 de esta Ley, sobre los que ejercerá mando directo en términos de lo dispuesto por esta Ley y el Reglamento Interior de la Fiscalía General;
+
+VII. Contar con personal sustantivo, directivo, administrativo y auxiliar debidamente capacitado y que resulte necesario para el cumplimiento de sus funciones, y
+
+VIII. Las demás que otras leyes y reglamentos establezcan.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
+
+###### Artículo 34 Septies.
+
+Las Funciones de la Fiscalía Especializada en Materia de Combate a la Corrupción, serán las siguientes:
+
+I. La Fiscalía Especializada en Combate a la Corrupción tendrá bajo su cargo la investigación, prevención y persecución de los delitos contenidos en el Título Octavo del Libro Segundo del Código Penal para el Estado de Nayarit;
+
+II. La persona titular de la Fiscalía participará como integrante en el Comité Coordinador del Sistema Local de Combate a la Corrupción, atendiendo las bases establecidas en el artículo 127 de la Constitución para el Estado y en la Ley del Sistema Local Anticorrupción del Estado de Nayarit;
+
+III. Igualmente, presentará de forma anual respecto de sus actividades y resultados, mismo que será entregado a los integrantes del Comité Coordinador del Sistema Local Anticorrupción;
+
+IV. Nombrar y remover a los titulares de las Unidades Administrativas de la Fiscalía Especializada en Combate a la Corrupción, con las excepciones establecidas en esta Ley y demás normatividad aplicable, en términos de las políticas y lineamientos sobre la administración de recursos humanos que establezca la Fiscalía General;
+
+V. Contar con agentes del Ministerio Público, agentes de la Policía Ministerial y demás personal del servicio de carrera a que se refiere el artículo 51 de esta Ley, sobre los que ejercerá mando directo en términos de lo dispuesto por esta Ley y el Reglamento Interior de la Fiscalía General;
+
+VI. Contar con personal sustantivo, directivo, administrativo y auxiliar debidamente capacitado y que resulte necesario para el cumplimiento de sus funciones, y
+
+VII. Las demás que otras leyes y reglamentos establezcan.
 
 ## Título Cuarto. De los Auxiliares del Ministerio Público
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 35.
 
-De conformidad con lo previsto en el artículo 21 de la Constitución Federal, son órganos auxiliares del Ministerio Público en el ejercicio de su función investigadora, la Policía Nayarit y los servicios periciales.
+De conformidad con lo previsto en el artículo 21 de la Constitución Federal, son órganos auxiliares del Ministerio Público en el ejercicio de su función investigadora, la Policía de Investigación Criminal y los servicios periciales.
 
 Asimismo, en el ejercicio de sus funciones, fungen como auxiliares del Ministerio Público las autoridades estatales, municipales y las instituciones policiales.
 
@@ -503,29 +743,37 @@ El Ministerio Público ordenará la actividad de los auxiliares en lo que corres
 
 Los órganos y autoridades auxiliares del Ministerio Público están obligados a cumplir con las órdenes o peticiones que éste les realice, a informarle de forma inmediata de los asuntos en que intervengan con ese carácter y a proporcionarle, sin dilación, la información que les requiera.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 37.
 
-Para el desempeño de su función el Ministerio Público contará con oficiales secretarios de adscripción directa, los cuales tendrán, entre otras, las siguientes atribuciones:
+Para el desempeño de su función el Ministerio Público contará con Agentes del Ministerio Público Auxiliares de adscripción directa, los cuales tendrán, entre otras, las siguientes atribuciones:
 
-I. Coadyuvar al funcionamiento coordinado y eficiente de la unidad de investigación en la que se encuentre adscrito;
+I. Coadyuvar al funcionamiento coordinado y eficiente de la Agencia de Investigación en la que se encuentre adscrito;
 
-II. Dar fe y autorizar los actos del Ministerio Público en ejercicio de sus funciones;
+II. Expedir la certificación de documentos o registros;
 
-III. Analizar las denuncias recibidas y presentar al Ministerio Público elementos que coadyuven a definir la viabilidad del caso y su posible vinculación a proceso;
+III. Analizar las denuncias recibidas y presentar al Ministerio Público elementos que coadyuven a emitir una determinación;
 
-IV. Auxiliar al Ministerio Público en la estrategia de investigación a seguir para consolidar la carpeta de investigación, y
+IV. Auxiliar al Ministerio Público en la estrategia de investigación a seguir para consolidar la carpeta de investigación, allegándose de todos los medios de prueba necesarios;
 
-V. Trabajar de manera auxiliar con la Policía Nayarit y Peritos, para la recopilación de pruebas de acuerdo a la estrategia de investigación diseñada por el Ministerio Público y auxiliar a éste en la verificación del cumplimiento de la cadena de custodia.
+V. Trabajar de manera auxiliar con la Policía de Investigación Criminal y Peritos, para la recopilación de medios de pruebas de acuerdo a la estrategia de investigación diseñada por el Ministerio Público y auxiliar a éste en la verificación del cumplimiento de la cadena de custodia, y
+
+VI. Las demás que ordene el reglamento interior de la presente ley.
 
 ### Capítulo II. De la Policía Nayarit
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 38.
 
-La Policía Nayarit es la institución policial cuya función principal es auxiliar al Ministerio Público en el ejercicio de sus funciones de investigación y persecución de los delitos. Adicionalmente, y en los términos previstos en el artículo 21, décimo párrafo, de la Constitución Federal, la Policía Nayarit se coordinará con las demás instituciones policiales para cumplir los objetivos de la seguridad pública.
+La Policía de Investigación Criminal es la institución policial cuya función principal es auxiliar al Ministerio Público en el ejercicio de sus funciones de investigación y persecución de los delitos. Adicionalmente, y en los términos previstos en el artículo 21 de la Constitución Federal, la Policía de Investigación Criminal se coordinará con las demás instituciones policiales para cumplir los objetivos de la seguridad pública.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
 
 ###### Artículo 39.
 
-Para ingresar como elemento de Policía Nayarit se requiere:
+Para ingresar como elemento de (sic) Policía de Investigación Criminal se requiere:
 
 I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos y no tener otra nacionalidad;
 
@@ -545,15 +793,17 @@ VIII. No hacer uso de sustancias psicotrópicas, estupefacientes u otras que pro
 
 IX. Cumplir satisfactoriamente los demás requisitos y procedimientos de ingreso y formación a que se refiere esta ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 40.
 
-Previo al ingreso como elemento de la Policía Nayarit se realizará la consulta del aspirante en los Registros del Sistema Nacional de Seguridad Pública y, en su caso, en el Sistema Estatal de Información sobre Seguridad Pública.
+Previo al ingreso como elemento de la Policía de Investigación Criminal se realizará la consulta del aspirante en los Registros del Sistema Nacional de Seguridad Pública y, en su caso, en el Sistema Estatal de Información sobre Seguridad Pública.
 
-Los elementos designados formarán parte del Servicio de Carrera, por lo que quedarán sujetos a las disposiciones que al efecto se emitan conforme a esta ley y demás normas aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
 
 ###### Artículo 41.
 
-Para permanecer como elemento de Policía Nayarit se requiere:
+Para permanecer como elemento de la Policía de Investigación Criminal se requiere:
 
 I. Seguir los programas de actualización y profesionalización que establezcan las disposiciones aplicables;
 
@@ -573,9 +823,11 @@ VIII. No superar la edad máxima de retiro que establezcan las disposiciones apl
 
 IX. Cumplir con los demás requisitos de permanencia que establezcan las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 42.
 
-Son atribuciones de la Policía Nayarit:
+Son atribuciones de la Policía de Investigación Criminal:
 
 I. Practicar detenciones en los casos de flagrancia y cuando el Ministerio Público lo ordene por escrito en ejercicio de sus funciones; así como dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales;
 
@@ -585,25 +837,69 @@ III. Practicar los actos de investigación necesarios que permitan el esclarecim
 
 IV. Solicitar a las autoridades competentes, así como a personas físicas y morales, informes y documentos para los fines de la investigación; en caso de negativa al requerimiento hecho, informará al Ministerio Público para que éste lo requiera con los apercibimientos correspondientes;
 
-V. Emitir el informe policial homologado, partes policiales y demás documentos que se generen, con los requisitos que establezcan las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-VI. Realizar las acciones de investigación, prevención y reacción, así como de inspección, vigilancia y vialidad en su circunscripción que garanticen el cumplimiento de los objetivos de la seguridad pública. Los elementos de policía que tengan encomendadas las funciones de prevención o reacción, no podrán ejercer acciones de investigación, y
+V. Emitir los informes y demás documentos que se generen, con los requisitos que establezcan las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+VI. Coadyuvar en coordinación y auxilio de las policías preventivas, las acciones de prevención, reacción, inspección, vigilancia y vialidad en su circunscripción, que garanticen el cumplimiento de los objetivos de la seguridad pública, y
 
 VII. Las demás que le confieran las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 43.
 
-Los elementos de Policía Nayarit tendrán los siguientes deberes:
+Los elementos de la Policía de Investigación Criminal tendrán las siguientes obligaciones:
 
-I. Poner a disposición de la autoridad ministerial a las personas detenidas con estricto cumplimiento de los plazos legalmente establecidos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2019)</small>
 
-II. Inscribir de inmediato en el registro administrativo correspondiente la detención de cualquier persona, así como remitir sin demora y por cualquier medio la información al Ministerio Público;
+I. Acudir, recibir y hacerse cargo del lugar de intervención, para realizar las investigaciones conducentes;
 
-III. Preservar el lugar de los hechos, la integridad de los indicios, huellas, instrumentos y objetos del delito, y dar inmediato aviso al Ministerio Público, así como, en su caso, procesar y trasladar los mismos con estricto apego a la cadena de custodia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2019)</small>
 
-IV. Garantizar que se deje registro de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas, y
+II. Intervenir, cuando lo solicite el Primer Respondiente en la preservación y procesamiento del lugar de intervención;
 
-V. Proporcionar atención a víctimas, ofendidos o testigos del delito, debiendo:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2019)</small>
+
+III. Recibir la entrega - recepción del lugar de la intervención;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2019)</small>
+
+IV. En su caso, recolectar los indicios o elementos materiales probatorios, mediante métodos y técnicas que garanticen su integridad, así como registrar los indicios o elementos materiales probatorios y las personas que intervienen desde su localización, descubrimiento o aportación en el lugar de intervención, hasta que la autoridad ordene su conclusión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2019)</small>
+
+V. Atender a las víctimas, testigos u otros que requieran protección, auxilio o atención, que le sean canalizadas para tal efecto por el Primer Respondiente;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+VI. Actuar bajo el mando del Ministerio Público en el aseguramiento de bienes relacionados con la investigación de los delitos;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+VII. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2019)</small>
+
+VIII. Poner a disposición de la autoridad ministerial a las personas detenidas con estricto cumplimiento de los plazos legalmente establecidos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2019)</small>
+
+IX. Inscribir de inmediato en el registro administrativo correspondiente la detención de cualquier persona, así como remitir sin demora y por cualquier medio la información al Ministerio Público;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MAYO DE 2019)</small>
+
+X. Cuando actúe como Primer Respondiente, preservar el lugar de los hechos, la integridad de los indicios, huellas, instrumentos y objetos del delito, y dar inmediato aviso al Ministerio Público, así como, en su caso, procesar y trasladar los mismos con estricto apego a la cadena de custodia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MAYO DE 2019)</small>
+
+XI. Garantizar que se deje registro de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA CON SUS INCISOS], P.O. 28 DE MAYO DE 2019)</small>
+
+XII. Cuando actúe como Primer Respondiente, proporcionar atención a víctimas, ofendidos o testigos del delito, debiendo:
 
 a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones legales aplicables;
 
@@ -615,17 +911,25 @@ d) Adoptar las medidas que se consideren necesarias, en el ámbito de su compete
 
 e) Asegurar que puedan llevar a cabo la identificación del imputado sin ningún riesgo.
 
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XIII. Las demás que le confieran las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 44.
 
-Las relaciones jerárquicas en la Policía Nayarit, su estructura normativa y operativa, su organización territorial, suplencias y las demás atribuciones de mando, dirección, disciplina y en general otros componentes de su régimen interno, serán determinados en las disposiciones reglamentarias que al efecto se emitan, las cuales deberán ser acordes al Modelo Nacional previsto en la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema Estatal de Seguridad Pública, esta ley y su reglamento.
+Las relaciones jerárquicas en la Policía de Investigación Criminal, su estructura normativa y operativa, su organización territorial, suplencias y las demás atribuciones de mando, dirección, disciplina y en general otros componentes de su régimen interno, serán determinados en las disposiciones reglamentarias que al efecto se emitan, las cuales deberán ser acordes al Modelo Nacional previsto en la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema Estatal de Seguridad Pública, esta ley y su reglamento interior.
 
-Cuando algún elemento perteneciente a una corporación policial distinta a la de Policía Nayarit ejerza las funciones que a esta última corresponden conforme a la presente ley, en virtud de la suscripción de un convenio o acuerdo, tendrá el carácter de elemento de Policía Nayarit únicamente en lo que corresponde al mando, funciones y disciplina, sin que ello implique desincorporación de su institución de origen.
+Cuando algún elemento perteneciente a una corporación policial distinta a la Policía de Investigación Criminal ejerza las funciones que a esta última corresponden conforme a la presente ley, en virtud de la suscripción de un convenio o acuerdo, tendrá el carácter de elemento de la Policía de Investigación Criminal únicamente en lo que corresponde al mando, funciones y disciplina, sin que ello implique desincorporación de su institución de origen.
 
 ### Capítulo III. De los Servicios Periciales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 45.
 
-Los servicios periciales que se brinden en auxilio de la función investigadora del Ministerio Público estarán a cargo del Centro Científico de Comprobación Criminal Certificador.
+Los servicios periciales que se brinden en auxilio de la función investigadora del Ministerio Público estarán a cargo la Dirección General de Servicios Periciales.
 
 Los Peritos actuarán bajo la autoridad y mando inmediato del Ministerio Público, sin perjuicio de la independencia de criterio técnico que les corresponde en el estudio de los asuntos que se sometan a su dictamen.
 
@@ -649,9 +953,11 @@ Los Peritos designados conforme a este precepto no formarán parte del servicio 
 
 Para la rendición de los dictámenes periciales podrán considerarse todas las especialidades que resulten necesarias a efecto de cumplir con el objeto de la investigación, siempre y cuando estos se ajusten a los lineamientos o normas técnicas o científicas que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 50.
 
-El Centro Científico de Comprobación Criminal Certificador, a través de los servicios periciales, ejercerá las siguientes funciones:
+La Dirección General de Servicios Periciales, a través de los servicios periciales, ejercerá las siguientes funciones:
 
 I. Auxiliar al Ministerio Público en la búsqueda, recolección, preservación, traslado y obtención de indicios, evidencias, huellas, objetos, instrumentos o productos del hecho delictivo, conforme a los procedimientos y protocolos establecidos en la cadena de custodia;
 
@@ -665,7 +971,9 @@ V. Opinar sobre los anteproyectos de acuerdos, circulares, instructivos y manual
 
 VI. Supervisar técnica y administrativamente la emisión de los dictámenes periciales, a efecto de que éstos cumplan con la metodología pericial y las normas vigentes;
 
-VII. Dirigir, operar y supervisar los laboratorios;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+VII. Dirigir, operar y supervisar los laboratorios y el servicio médico forense;
 
 VIII. Operar los bancos de datos criminalísticos de la Fiscalía General, materia de su competencia, que se integren al Sistema Nacional de Seguridad Pública;
 
@@ -677,13 +985,17 @@ X. Promover la cooperación en la materia con las Fiscalías Generales o Procura
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 51.
 
-Sólo se considerarán integrantes del servicio de carrera los Agentes del Ministerio Público, elementos de Policía Nayarit y Peritos que hayan ingresado al servicio en términos de los artículos 25, 40 y 46 respectivamente.
+Sólo se considerarán integrantes del servicio de carrera los Agentes del Ministerio Público, elementos de la Policía de Investigación Criminal y Peritos que hayan ingresado al servicio en términos de los artículos 25, 40 y 46 respectivamente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
 
 ###### Artículo 52.
 
-El Servicio de Carrera de Procuración de Justicia para los Agentes del Ministerio Público, elementos de Policía Nayarit y Peritos, se sujetará enunciativamente a las siguientes bases:
+El Servicio de Carrera de Procuración de Justicia para los Agentes del Ministerio Público, elementos de la Policía de Investigación Criminal y Peritos, se sujetará enunciativamente a las siguientes bases:
 
 I. Se compondrá de las etapas de ingreso, desarrollo y terminación del servicio en los siguientes términos:
 
@@ -699,11 +1011,17 @@ III. Tendrá carácter obligatorio y permanente y abarcará los programas, curso
 
 IV. El contenido teórico y práctico de los programas de capacitación, actualización y especialización fomentará que los Agentes del Ministerio Público y sus auxiliares ejerzan sus atribuciones con base en los principios rectores en materia de procuración de justicia y promoverán el efectivo aprendizaje y el pleno desarrollo de los conocimientos y habilidades necesarios para el desempeño del servicio;
 
-V. Contará con un sistema de rotación de Agentes del Ministerio Público, de elementos de Policía Nayarit y de Peritos dentro de la institución;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-VI. Determinará los perfiles, categorías y funciones de los Agentes del Ministerio Público, elementos de Policía Nayarit y Peritos;
+V. Contará con un sistema de rotación de Agentes del Ministerio Público, de elementos de la Policía de Investigación Criminal, de Peritos y demás auxiliares del Ministerio Público dentro de la institución;
 
-VII. Los ascensos a las categorías superiores del Ministerio Público, de Policía Nayarit y Perito, se realizarán por concurso de oposición, de conformidad con las disposiciones reglamentarias del servicio de carrera y los acuerdos del Consejo;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+VI. Determinará los perfiles, categorías y funciones de los Agentes del Ministerio Público, elementos de la Policía de Investigación Criminal, Peritos y demás auxiliares del Ministerio Público dentro de la institución;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+VII. Los ascensos a las categorías superiores del Ministerio Público, de Policía y Perito, se realizarán por concurso de oposición, de conformidad con las disposiciones reglamentarias del servicio de carrera y los acuerdos del Consejo;
 
 VIII. Buscará generar el sentido de pertenencia institucional;
 
@@ -711,9 +1029,11 @@ IX. Contendrá las normas para el registro y el reconocimiento de los certificad
 
 X. Incluirá las normas para el registro de las incidencias del personal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 53.
 
-Para los integrantes de la Policía Nayarit, el servicio de carrera comprenderá, además, el grado policial, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, se hayan acumulado; se regirá por lo siguiente:
+Para los integrantes de la Policía de Investigación Criminal, el servicio de carrera comprenderá, además, el grado policial, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, se hayan acumulado; se regirá por lo siguiente:
 
 I. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el Centro Estatal de Control de Confianza y Evaluación del Desempeño previsto en la Ley del Sistema Estatal de Seguridad Pública, conforme al protocolo aprobado por el Centro Nacional de Certificación y Acreditación previsto en la Ley General del Sistema Nacional de Seguridad Pública;
 
@@ -725,9 +1045,11 @@ IV. Las sanciones que, en su caso, se llegaren a aplicar, se determinarán media
 
 La carrera policial es independiente de los nombramientos para desempeñar cargos administrativos o de dirección que el elemento llegue a desempeñar dentro de la corporación. En ningún caso los derechos adquiridos en la carrera policial implicarán inamovilidad en cargo o sede alguna.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 54.
 
-Para los elementos de Policía Nayarit el servicio de carrera tendrá como objetivos:
+Para los Agentes del Ministerio Público, elementos de la Policía de Investigación Criminal y Peritos el servicio de carrera tendrá como objetivos:
 
 I. Garantizar el desarrollo institucional y asegurar la estabilidad en el servicio, con base en un esquema proporcional y equitativo de remuneraciones y prestaciones para los integrantes;
 
@@ -739,6 +1061,12 @@ IV. Instrumentar e impulsar la capacitación y profesionalización permanente de
 
 V. Los demás previstos en la Ley General del Sistema Nacional de Seguridad Pública y la Ley del Sistema Estatal de Seguridad Pública.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
+
+###### Artículo 54 Bis.
+
+El Servicio de Carrera en Procuración de Justicia, deberá permitir al personal desempeñar cargos de dirección dentro de la Fiscalía General, lo cual por ningún supuesto afectará su categoría o grado, por lo que una vez concluido el encargo, deberá ser reintegrado a su última adscripción; la vacante que se genere durante el desempeño del cargo, deberá permanecer con ese carácter hasta la reintegración del personal promovido. En ningún caso los derechos adquiridos en el Servicio de Carrera implicarán inamovilidad en cargo o sede alguna.
+
 ### Capítulo II. Del Consejo Técnico del Servicio de Carrera de Procuración de Justicia
 
 ###### Artículo 55.
@@ -749,25 +1077,37 @@ I. El Fiscal General, quien lo presidirá;
 
 II. El Director General de Investigación Ministerial;
 
-III. El Director General de Procesos Judiciales;
+III. (DEROGADA, P.O. 28 DE MAYO DE 2019)
 
-IV. El Director General de Policía Nayarit;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-V. El Titular del Centro Científico de Comprobación Criminal Certificador;
+IV. El Director General de la Policía de Investigación Criminal;
 
-VI. El Visitador General;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-VII. El Director de la Contraloría Interna;
+V. El Director General de Servicios Periciales;
 
-VIII. El Director del Centro de Capacitación de Seguridad Pública;
+VI. (DEROGADA, P.O. 28 DE MAYO DE 2019)
 
-IX. Un representante de la Secretaría Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-X. Dos Agentes del Ministerio Público, dos elementos de Policía Nayarit y dos Peritos, miembros del servicio de carrera, nombrados a través de un proceso de insaculación.
+VII. El Titular del Órgano Interno de Control;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+VIII. El Director del Instituto de Capacitación en Procuración de Justicia;
+
+IX. (DEROGADA, P.O. 28 DE MAYO DE 2019)
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+X. Dos Agentes del Ministerio Público, dos elementos de la Policía de Investigación Criminal y dos Peritos, miembros del Servicio de Carrera en Procuración de Justicia, nombrados a través de un proceso de insaculación.
 
 Cada integrante del Consejo acreditará por escrito al servidor público que en sus ausencias habrá de suplirlo, el cual, ostentará su representación con derecho a voz y voto.
 
-Los consejeros previstos en la fracción X se renovarán en el cargo cada cuatro años. Los suplentes que al efecto éstos designen deberán formar parte del servicio de carrera.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
+Los consejeros previstos en la fracción X se renovarán en el cargo cada dos años. Los suplentes que al efecto éstos designen deberán formar parte del servicio de carrera. Los consejeros y los suplentes que hayan entrado en funciones, durante un año, no podrán ser designados al menos por tres periodos inmediatos siguientes.
 
 ###### Artículo 56.
 
@@ -795,15 +1135,19 @@ El Instituto de Capacitación Especializada en Procuración de Justicia, es un �
 
 El Instituto estará a cargo de un Director, el cual será designado y removido libremente por el Fiscal General.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 58.
 
-El Instituto tendrá por objeto la formación y profesionalización altamente especializada de servidores públicos de las áreas de procuración de justicia, la formación de investigadores, profesores, especialistas y técnicos en las diversas áreas relacionadas, así como la realización de investigaciones sobre problemas en el Estado relacionadas con estas áreas, y la respectiva información y difusión de los resultados obtenidos.
+El Instituto tendrá por objeto la formación y profesionalización de servidores públicos de las áreas de procuración de justicia, la formación de investigadores, profesores, especialistas y técnicos en las diversas áreas relacionadas, así como la realización de investigaciones sobre problemas en el Estado relacionadas con estas áreas, y la respectiva información y difusión de los resultados obtenidos.
 
 ###### Artículo 59.
 
 El Instituto ejercerá las siguientes funciones y atribuciones:
 
-I. Mejorar las técnicas administrativas en la función ministerial;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+I. Mejorar las técnicas operativas y administrativas en la función ministerial;
 
 II. Contribuir al desarrollo de la vocación del servicio, así como al ejercicio de los valores y principios éticos inherentes a la función ministerial;
 
@@ -817,13 +1161,17 @@ VI. Vigilar y eficientar la aplicación de los planes y programas que correspond
 
 VII. Capacitar en materia de investigación científica y técnica a los servidores públicos;
 
-VIII. Proponer y desarrollar los programas de investigación académica, para Agentes del Ministerio Público, elementos de Policía Nayarit y Peritos, de conformidad con lo dispuesto en la Ley del Sistema Estatal de Seguridad Pública, esta ley y su reglamento;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+VIII. Proponer y desarrollar los programas de investigación académica, para Agentes del Ministerio Público, elementos de la Policía de Investigación Criminal, Peritos y demás auxiliares del Ministerio Público dentro de la institución, de conformidad con lo dispuesto en la Ley del Sistema Estatal de Seguridad Pública, esta ley y su reglamento;
 
 IX. Diseñar y aplicar el Programa Rector de Profesionalización en el que se establezcan los lineamientos, programas, actividades y contenidos mínimos para la profesionalización del personal de la Fiscalía General;
 
 X. Tramitar los registros, autorizaciones y reconocimientos de los planes y programas de estudio ante las autoridades competentes;
 
-XI. Establecer políticas de profesionalización como un proceso permanente y progresivo de formación integrado por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes de las instituciones policiales, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XI. Establecer políticas de profesionalización como un proceso permanente y progresivo de formación integrado por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los Agentes del Ministerio Público, elementos de la Policía de Investigación Criminal, Peritos y demás auxiliares del Ministerio Público dentro de la institución, y
 
 XII. La demás que le correspondan en términos de las disposiciones aplicables.
 
@@ -883,9 +1231,11 @@ Los servidores públicos serán citados a la práctica de los exámenes respecti
 
 El personal administrativo de base comisionado o asignado a las áreas del ministerio público, pericial o de policía, deberán ser citados a la práctica de los exámenes de control y confianza, en caso de no acreditarlos o no presentarse sin mediar causa justificada habrá lugar a decretar la rescisión del nombramiento.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 67.
 
-El Fiscal General, los Directores Generales y el Visitador General, podrán requerir que los servidores públicos se presenten a la práctica de evaluaciones de control de confianza, independientemente de la vigencia de su certificado. En caso de no presentarse sin mediar causa justificada, se les tendrá por no aptos y, en consecuencia, se decretará la cesación en el servicio.
+El Fiscal General y los órganos, podrán requerir que los servidores públicos se presenten a la práctica de evaluaciones de control de confianza, independientemente de la vigencia de su certificado. En caso de no presentarse sin mediar causa justificada, se les tendrá por no aptos y, en consecuencia, se decretará la cesación en el servicio.
 
 ###### Artículo 68.
 
@@ -959,7 +1309,9 @@ X. Obedecer las órdenes de los superiores jerárquicos, siempre y cuando sean c
 
 XI. Abstenerse de dar a conocer por cualquier medio, a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su función;
 
-XII. Abstenerse en el desempeño de sus funciones de auxiliarse por personas no autorizadas por la ley;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XII. Abstenerse en el desempeño de sus funciones de auxiliarse por personas no autorizadas por la ley, convenios, acuerdos o cualquier instrumento jurídico que le otorgue facultades;
 
 XIII. Conservar y usar el equipo a su cargo con el debido cuidado y prudencia para el cumplimiento de sus funciones;
 
@@ -971,13 +1323,21 @@ XVI. Mantener en buen estado el armamento, material, municiones y equipo que se 
 
 XVII. Depositar inmediatamente el dinero y valores que se hayan asegurado, así como informar al área competente de la Fiscalía General, la relación de los bienes que se aseguren, debidamente identificados e inventariados, en los términos de las disposiciones aplicables, y
 
-XVIII. Las demás que deriven de la presente ley y las disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2019)</small>
+
+XVIII. Abstenerse de circular en vehículos oficiales con polarizado, durante el desempeño de sus funciones, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2019)</small>
+
+XIX. Las demás que deriven de la presente ley y las disposiciones aplicables.
 
 Se considerarán como incumplimiento grave de obligaciones las previstas en las fracciones IV, VI, XII, XVI y XVII.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 73.
 
-Los elementos de Policía Nayarit, además de las obligaciones señaladas en el artículo anterior, tendrán las siguientes:
+Los elementos de la Policía de Investigación Criminal, además de las obligaciones señaladas en el artículo anterior, tendrán las siguientes:
 
 I. Registrar lo conducente en el informe policial homologado;
 
@@ -1089,7 +1449,9 @@ IX. La solicitud o la obtención de un subalterno de parte de su sueldo, dádiva
 
 X. Ser negligente en la búsqueda e indagación de pruebas que fueren necesarias para presentar las acusaciones procedentes y para seguirlas ante los tribunales;
 
-XI. Hacer acusaciones, pedimentos, formular conclusiones o rendir dictámenes notoriamente inaplicables;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XI. Judicializar, acusar, emitir pedimentos, formular conclusiones o rendir dictámenes o informes notoriamente inaplicables;
 
 XII. No elaborar ni presentar con oportunidad sus promociones, ni interponer en tiempo y forma los recursos que conforme a la ley procedan contra las sentencias y resoluciones judiciales, que no se ajustan a las constancias de los autos y disposiciones aplicables;
 
@@ -1153,7 +1515,9 @@ I. Si la falta no fuera grave prescribirá en un año, y
 
 II. Si la falta cometida fuera grave prescribirá en tres años;
 
-El plazo de la prescripción se contará a partir del día siguiente a aquel en que se cometa la infracción. La interposición de denuncia o queja ante la Visitaduría interrumpe la prescripción.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
+El plazo de la prescripción se contará a partir del día siguiente a aquel en que se cometa la infracción. La interposición de denuncia o queja ante el Órgano Interno de Control interrumpe la prescripción.
 
 ### Capítulo II. De las Sanciones
 
@@ -1177,11 +1541,11 @@ La amonestación es el acto mediante el cual se le llama la atención al servido
 
 La amonestación podrá ser pública o privada dependiendo de las circunstancias específicas de la falta y, en ambos casos, se comunicará por escrito al infractor, archivándose una copia de la misma en su expediente personal.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
 
 ###### Artículo 83.
 
-La sanción económica que se podrá imponer al infractor será de entre diez hasta cien veces la UMA. La imposición de esta sanción no será obstáculo para que el servidor público desempeñe sus funciones ordinariamente.
+La sanción económica que se podrá imponer al infractor será de entre diez hasta cien días de la UMA. La imposición de esta sanción no será obstáculo para que el servidor público desempeñe sus funciones ordinariamente.
 
 ###### Artículo 84.
 
@@ -1213,11 +1577,15 @@ II. Arresto hasta por treinta y seis horas, y
 
 III. Retención en el servicio.
 
-Los correctivos disciplinarios previstos en las fracciones II y III únicamente se podrán imponer a los elementos de Policía Nayarit.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+Los correctivos disciplinarios previstos en las fracciones II y III únicamente se podrán imponer a los elementos de la Policía de Investigación Criminal.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
 
 ###### Artículo 89.
 
-El arresto consiste en la internación del elemento de policía en el lugar destinado para tales efectos, el cual deberá ser distinto al que corresponda a los indiciados, con pleno respeto a sus derechos humanos.
+El arresto consiste en la internación del elemento de policía en el lugar destinado para tales efectos, el cual deberá ser distinto al que corresponda a los imputados, con pleno respeto a sus derechos humanos.
 
 ###### Artículo 90.
 
@@ -1235,19 +1603,27 @@ El procedimiento para la imposición de sanciones se iniciará de oficio, por de
 
 Las quejas o denuncias que se formulen, deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para presumir la responsabilidad del servidor público denunciado.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 93.
 
-La Visitaduría General será competente para iniciar de oficio, por queja, denuncia o solicitud, el procedimiento sancionador en contra de los servidores públicos de la Fiscalía General, excepto contra los elementos de Policía Nayarit; para el caso de estos últimos el ente encargado de sustanciar el procedimiento sancionador, será el Consejo Técnico de Carrera Policial.
+El Órgano Interno de Control será competente para iniciar de oficio, por queja, denuncia o solicitud, el procedimiento sancionador en contra de los servidores públicos de la Fiscalía General, excepto contra los elementos de la Policía de Investigación Criminal; para el caso de estos últimos el ente encargado de sustanciar el procedimiento sancionador, será el Consejo Técnico de Carrera Policial.
 
 ###### Artículo 94.
 
 Para los efectos conducentes, el Consejo Técnico de Carrera Policial de la Fiscalía General, se integrará de la siguiente manera:
 
-I. Un Presidente, que será el Titular de la Visitaduría General;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-II. El Director General de la Policía Nayarit, y
+I. Un Presidente, que será el Titular del Órgano Interno de Control;
 
-III. El Titular de la Contraloría Interna, que será el Secretario General.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+II. El Director General de la Policía de Investigación Criminal, y
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+III. El Director General de Administración que será el Secretario General.
 
 Los integrantes del Consejo Técnico serán de carácter permanente y por cada uno de ellos se designará un suplente.
 
@@ -1271,7 +1647,9 @@ V. En cualquier momento, previo o posterior al citatorio a que se refiere la fra
 
 VI. La suspensión temporal a que se refiere la fracción anterior, no prejuzga sobre la responsabilidad que se imputa y surtirá sus efectos desde el momento en que sea notificada al interesado; cesará, en su caso, una vez concluido el procedimiento;
 
-VII. Si en el desahogo de la audiencia no se cuenta con elementos suficientes para resolver o se advierta (sic) elementos que impliquen nueva responsabilidad administrativa a cargo del probable responsable o de otras personas, podrá disponerse la práctica de investigaciones y citar para otra u otras audiencias;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+VII. Si en el desahogo de la audiencia no se cuenta con elementos suficientes para resolver o se adviertan elementos que impliquen nueva responsabilidad administrativa a cargo del probable responsable o de otras personas, podrá disponerse la práctica de investigaciones y citar para otra u otras audiencias;
 
 VIII. Al concluir la audiencia o dentro de los cinco días hábiles siguientes se resolverá sobre la responsabilidad o no del infractor, y
 
@@ -1285,19 +1663,27 @@ IX. La resolución que recaiga al procedimiento en cita, se notificará al servi
 
 ### Capítulo Único. De su estructura y funcionamiento
 
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
 
 ###### Artículo 97.
 
-La Fiscalía contará con un Órgano Interno de Control a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno, así como la investigación, substanciación y calificación de las faltas administrativas de su competencia.
+La Fiscalía General contará con un Órgano Interno de Control a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno, así como la investigación, substanciación y calificación de las faltas administrativas de su competencia.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
 
 En su desempeño el Órgano Interno de Control se sujetará a los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos.
 
-El titular del Órgano Interno de Control de la Fiscalía será designado por el H. Congreso del Estado, en la forma y términos que determine la Ley Orgánica del Poder Legislativo del Estado de Nayarit. Durará seis años en el cargo y podrá ser reelecto por una sola vez.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
+A efecto de designar al titular del Órgano Interno de Control, el (sic) Fiscalía General propondrá una terna al Congreso del Estado para que el Pleno decida lo conducente, en términos de la legislación interna, lo anterior será dentro de los diez días siguientes a la falta de éste. El titular del Órgano Interno de Control durará seis años en el cargo y podrá ser reelecto por una sola vez, conforme a la legislación de la materia.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
 
 El Órgano Interno de Control contará con los recursos presupuestales necesarios para el debido cumplimiento de sus atribuciones.
 
-Será un Órgano administrativo de la Fiscalía y mantendrá la coordinación técnica para el cumplimiento de sus funciones con el Sistema Local Anticorrupción.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
+Será un Órgano de la Fiscalía General y mantendrá la coordinación técnica para el cumplimiento de sus funciones con el Sistema Local Anticorrupción.
 
 > <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
 
@@ -1317,17 +1703,25 @@ III. Presentar denuncias por hechos que las leyes señalen como delitos de corru
 
 Para prevenir la comisión de faltas administrativas y hechos de corrupción, el Órgano Interno de Control, realizará las siguientes acciones:
 
-I. Previo diagnóstico que al efecto realice, podrá implementar acciones para orientar el criterio que en situaciones específicas deberán observar los Servidores Públicos de la Fiscalía en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Local Anticorrupción;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+I. Previo diagnóstico que al efecto realice, podrá implementar acciones para orientar el criterio que en situaciones específicas deberán observar los Servidores Públicos de la Fiscalía General en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Local Anticorrupción;
 
 II. Corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa;
 
 III. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
 
-IV. Efectuar visitas a las demás áreas administrativas de la Fiscalía para solicitar la exhibición de los libros y documentos indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-V. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos de la Fiscalía cumplan adecuadamente con sus responsabilidades administrativas;
+IV. Efectuar visitas a las demás áreas administrativas de la Fiscalía General para solicitar la exhibición de los libros y documentos indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
 
-VI. Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos de la Fiscalía, conforme a los formatos y procedimientos que establezca el propio Órgano Interno de Control. Serán aplicables en lo conducente las normas establecidas en la ley de la materia, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+V. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos de la Fiscalía General cumplan adecuadamente con sus responsabilidades administrativas;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+VI. Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos de la Fiscalía General, conforme a los formatos y procedimientos que establezca el propio Órgano Interno de Control. Serán aplicables en lo conducente las normas establecidas en la ley de la materia, y
 
 VII. Las demás que establezcan las leyes de la materia y los lineamientos emitidos por el Sistema Local Anticorrupción.
 
@@ -1343,31 +1737,41 @@ El Órgano Interno de Control deberá valorar las recomendaciones que haga el Co
 
 Los servidores públicos adscritos al Órgano Interno de Control y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades, así como de sus actuaciones y observaciones.
 
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
 
 ###### Artículo 102.
 
-Las demás áreas sustantivas y administrativas y los servidores públicos de la Fiscalía estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones legales.
-
-Si el área requerida, sin causa justificada, no presenta el informe o documentos que se le soliciten, el Órgano Interno de Control procederá a fincar las responsabilidades que correspondan conforme a derecho.
-
-El fincamiento de responsabilidades y la imposición de sanciones no relevarán al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las multas.
-
-El Órgano Interno de Control, además de imponer la sanción respectiva, requerirá al infractor para que, dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción; y si aquél incumple, se impondrá la sanción correspondiente.
-
-Durante el desahogo de los procedimientos administrativos tendientes, en su caso, al fincamiento de responsabilidades, los servidores públicos tendrán asegurado el ejercicio de los derechos fundamentales establecidos en la Constitución Federal y la Local, y podrán interponer los recursos legales que señale la ley de la materia.
+Las demás áreas sustantivas y administrativas y los servidores públicos de la Fiscalía General estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones legales.
 
 > <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
 
+Si el área requerida, sin causa justificada, no presenta el informe o documentos que se le soliciten, el Órgano Interno de Control procederá a fincar las responsabilidades que correspondan conforme a derecho.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+El fincamiento de responsabilidades y la imposición de sanciones no relevarán al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las multas.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+El Órgano Interno de Control, además de imponer la sanción respectiva, requerirá al infractor para que, dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción; y si aquél incumple, se impondrá la sanción correspondiente.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2017)</small>
+
+Durante el desahogo de los procedimientos administrativos tendientes, en su caso, al fincamiento de responsabilidades, los servidores públicos tendrán asegurado el ejercicio de los derechos fundamentales establecidos en la Constitución Federal y la Local, y podrán interponer los recursos legales que señale la ley de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 103.
 
-Los delitos en que incurran los servidores públicos de la Visitaduría General incluyendo a su titular serán investigados y perseguidos por el Fiscal General del Estado o por el servidor público en quien se delegue la facultad.
+Los delitos en que incurran los servidores públicos del Órgano Interno de Control incluyendo a su titular serán investigados y perseguidos por el Fiscal General o por el servidor público en quien se delegue la facultad.
 
-Las faltas administrativas que cometan los servidores públicos de la Visitaduría General incluyendo a su titular, en términos de lo previsto en el régimen especial de la materia previsto en esta ley, con excepción de las que se prevén en la ley de la materia y que corresponden al Órgano Interno de Control, serán investigadas y sustanciadas por el Fiscal General del Estado o por el servidor público en quien se delegue la facultad, quien podrá imponer las sanciones que correspondan.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
 
-Cuando la Visitaduría General tenga conocimiento de hechos que pudieran ser constitutivos de una falta administrativa, sin perjuicio de sus facultades establecidas en esta ley, deberá presentar la denuncia correspondiente como parte ante el Órgano Interno de Control para que éste proceda en los términos de la ley de la materia.
+Las faltas administrativas que cometan los servidores públicos del Órgano Interno de Control incluyendo a su titular, serán investigadas y sustanciadas por el Fiscal General o por el servidor público en quien se delegue la facultad, quien podrá imponer las sanciones que correspondan.
 
-Las faltas administrativas en que incurran los servidores públicos de la Fiscalía que no encuadren en el régimen especial previsto en esta ley, serán del conocimiento del Órgano Interno de Control en los términos de la ley de la materia.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
 
 Transitorios:
 
@@ -1518,3 +1922,23 @@ Tercero. Quedan a salvo los derechos de los ciudadanos que presentaron solicitud
 Cuarto. El Encargado del Despacho de la Fiscalía General del Estado, estará en funciones hasta en tanto no se designe en definitiva a la persona que asumirá su titularidad, de conformidad al método que establece la Constitución Política del Estado Libre y Soberano de Nayarit, quedando sus derechos a salvo para participar en dicho procedimiento.
 
 Quinto. A partir de la fecha en que el H. Congreso del Estado designe al encargado de Despacho de la Fiscalía, deberá reanudarse el procedimiento de designación del titular de la Fiscalía General de conformidad con los plazos previstos en la Constitución Política Local, emitiéndose convocatoria dentro de los veinte días hábiles posteriores.
+
+P.O. 28 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Los órganos o unidades contemplados en la presente ley y los que cambien de denominación en la Fiscalía General al momento de la entrada en vigor del presente decreto, seguirán desarrollando sus funciones y atribuciones, conforme a sus decretos o acuerdos de creación, así como las previstas en la Ley Orgánica de la Fiscalía General del Estado, hasta en tanto se emita el Reglamento Interior.
+
+TERCERO. En el proceso de transición del personal a la Fiscalía General deberá llevarse a cabo conforme a los siguientes lineamientos:
+
+I. Para el fortalecimiento transicional al Sistema de Justicia Penal Acusatorio y Oral, el Fiscal General en coordinación con el titular del Poder Ejecutivo, ambos a través de sus instancias o dependencias respectivas, acordarán sobre el personal administrativo y de base que aquel necesite para el desempeño de sus funciones, respetándose los derechos laborales adquiridos;
+
+II. En tanto se instale el Servicio Profesional de Carrera de la Fiscalía General, la profesionalización, el régimen disciplinario, la certificación y el régimen de seguridad social deberán cumplir con el régimen previsto por la Ley General del Sistema Nacional de Seguridad Pública y la particular del Estado.
+
+CUARTO. A partir de la entrada en vigor del presente decreto, el Fiscal General del Estado, contará con un plazo máximo de un año para emitir el Reglamento Interior y las disposiciones conducentes que permitan el funcionamiento y cumplimiento de sus atribuciones a los órganos y unidades que conforman la Fiscalía General, en las que se deberá contemplar un área de inteligencia patrimonial y económica a que se refiere el artículo 6 de la Ley, además de definir la operación y despliegue territorial del modelo de investigación criminal, los lineamientos para el diseño y activación de la nueva estructura organizativa; así como del proceso de cierre de las estructuras y la estrategia de colaboración con otras instituciones con las que requiera coordinarse para llevar a cabo la función de investigación y litigación penal.
+
+QUINTO. El personal de base y de confianza que actualmente se encuentra adscrito a la Fiscalía General del Estado, así como los de nuevo ingreso seguirán aportando al Fondo de Pensiones de Gobierno del Estado, por lo que los titulares de la Fiscalía General del Estado y del Poder Ejecutivo, suscribirán los convenios correspondientes mediante los cuales se determine el personal que será transferido a la Fiscalía General del Estado, así como los términos y condiciones para realizar sus aportaciones, así mismo garantizar su seguridad social.
+
+SEXTO. El Congreso del Estado contara con 180 días para hacer las modificaciones a la Ley de Tránsito y Transporte del Estado de Nayarit, al tema de circulación de vehículos oficiales con polarizado, durante el desempeño de sus funciones.
