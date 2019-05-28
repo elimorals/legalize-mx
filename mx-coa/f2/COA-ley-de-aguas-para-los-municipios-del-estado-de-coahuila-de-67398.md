@@ -4,7 +4,7 @@ identifier: "COA-ley-de-aguas-para-los-municipios-del-estado-de-coahuila-de-6739
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-24"
-last_updated: "2018-10-05"
+last_updated: "2019-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de febrero de 2009.
 
@@ -122,6 +122,10 @@ XXXII. Uso industrial: la utilización del agua en los procesos de extracción, 
 XXXIII. Uso comercial: la utilización del agua en establecimientos y oficinas, dedicadas a la comercialización de bienes y servicios.
 
 XXXIV. Usuario: las personas físicas o morales a quienes las leyes les reconozcan personalidad jurídica, que hagan uso de los servicios a que se refiere la presente ley.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XXXV. Franja fronteriza: Municipios comprendidos entre la línea internacional y la línea paralela ubicada a una distancia de 20 kilómetros hacia el interior del país, quedando considerados dentro de esta franja fronteriza los siguientes municipios: Guerrero, Hidalgo, Acuña, Jiménez, Nava, Piedras Negras, Ocampo y Zaragoza.
 
 ###### ARTÍCULO 2.
 
@@ -691,6 +695,10 @@ Tratándose de lotes y fraccionamientos cuyo destino sea la construcción de viv
 
 Cuando se trate de lotes destinados a fines comerciales, el cobro por derecho de toma, será considerando el diámetro de la toma.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
+
+Sin embargo, respecto de los pagos de los derechos de interconexión de servicios de agua potable y alcantarillado y la carta de factibilidad que los organismos operadores cobren, los municipios que forman parte de la franja fronteriza del estado, pagaran el equivalente a lo que paga el resto de los municipios del Estado, con independencia del salario mínimo vigente en esa franja.
+
 ###### ARTÍCULO 63.
 
 Lo recaudado por el organismo operador en cada factibilidad otorgada y/o por derechos de interconexión, exclusivamente será destinado para la construcción de las obras de infraestructura y su mantenimiento, que consisten esencialmente en la captación, conducción, potabilización, tanques de almacenamiento, sistemas de bombeo, redes maestras de agua potable, colectores de drenaje sanitario y plantas de tratamiento de aguas residuales y reuso que le hagan posible comprometerse a proporcionar los servicios dentro de las condiciones normales y puedan continuar con el otorgamiento de las factibilidades de agua y drenaje.
@@ -1149,6 +1157,12 @@ TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 5 DE OCTUBRE DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 64.- SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 86 DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 64.- SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 86 DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 258.- SE ADICIONA LA FRACCIÓN XXXV AL ARTÍCULO 1 Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 62 DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
