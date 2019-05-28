@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-declaracion-de-ausencia-por-desaparicion-de-101135"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-20"
-last_updated: "2014-08-29"
+last_updated: "2019-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY PARA LA DECLARACION DE AUSENCIA POR DESAPARICION DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DECLARACIÓN ESPECIAL DE AUSENCIA PARA PERSONAS DESAPARECIDAS DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 28 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA DECLARACIÓN DE AUSENCIA POR DESAPARICIÓN DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 29 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2019 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 20 de mayo de 2014.
 
@@ -248,3 +248,25 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 HOMERO RAMOS GLORIA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 261.- SE EXPIDE LA LEY DE DECLARACIÓN ESPECIAL DE AUSENCIA PARA PERSONAS DESAPARECIDAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley para la Declaración de Ausencia por Desaparición de Personas del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial el 20 de mayo de 2014, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+TERCERO. Las personas que hayan obtenido una resolución de declaración de ausencia de conformidad a la Ley de Declaración de Ausencia de Personas Desaparecidas del Estado de Coahuila de Zaragoza, conservarán la protección de derechos en los términos de la sentencia.
+
+No obstante lo anterior, las personas señaladas podrán optar, por solicitar la declaración especial de ausencia de conformidad con esta ley y la Ley General en Materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, ante la autoridad jurisdiccional competente, en este caso, dicha autoridad deberá dejar sin efectos la declaración de ausencia primigenia, cuidando que no queden desprotegidos los derechos adquiridos en perjuicio de la víctima y los familiares, a través de las providencias que resulten necesarias durante el procedimiento o en la resolución.
+
+CUARTO. Los órganos jurisdiccionales que tengan en trámite procedimientos de declaración de ausencia de acuerdo a la Ley de Declaración de Ausencia por Desaparición de Personas del Estado de Coahuila de Zaragoza, a partir de la entrada en vigor del presente decreto, deberán continuar su trámite de conformidad con la presente ley y con la Ley General en Materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, siempre que beneficie a los familiares.
+
+QUINTO. Los Jueces de Primera Instancia en Materia Familiar, conocerán del procedimiento de Declaración Especial de Ausencia, una vez transcurridos ciento ochenta días, contados a partir de la entrada en vigor del presente decreto.
+
+En tanto no concluya el plazo a que se refiere el párrafo anterior, los Jueces de Primera Instancia en Materia Civil conocerán del procedimiento de declaración especial de ausencia, conforme lo establece la presente Ley.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
