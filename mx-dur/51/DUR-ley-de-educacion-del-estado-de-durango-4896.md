@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2019-04-11"
+last_updated: "2019-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -283,9 +283,13 @@ I.- Será democrática, considerando a la democracia no solamente como una estru
 
 II.- Será nacional, en cuanto sin hostilidades ni exclusivismos atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura;
 
-III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-IV.- Será de calidad, entendiéndose por ésta la congruencia entre los objetivos, resultados y procesos del sistema educativo, conforme a las dimensiones de eficacia, eficiencia, pertinencia y equidad.
+III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos; y
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+IV.- Será de calidad, entendiéndose por ésta la congruencia entre los objetivos, resultados y procesos del sistema educativo, conforme a las dimensiones de eficacia, eficiencia, pertinencia y equidad de manera que permita al educando su plena inclusión y participación en la sociedad, el desarrollo de una actividad productiva y que permita al trabajador estudiar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
@@ -609,9 +613,29 @@ XLIV.- Instrumentar un sistema accesible a los ciudadanos y docentes para la pre
 
 XLV.- Concertar acciones y establecer convenios con instituciones de educación superior, para que sus egresados presten servicio social en escuelas de las comunidades rurales, zonas urbanas marginadas y regiones habitadas por las comunidades indígenas de la Entidad.
 
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-XLVI.- Disponer que en los planteles de Educación Básica y Media Superior, el número de alumnos en cada grupo de clase no exceda de 30.
+XLVI.- Disponer que en los planteles de Educación Básica y Media Superior, el número de alumnos en cada grupo de clase no exceda de 30; y
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 28 DE MAYO DE 2019)</small>
+
+XLVII. La Secretaría promoverá el derecho a la educación de las personas con discapacidad, prohibiendo cualquier discriminación en planteles, centros educativos, bibliotecas, estancias infantiles o por parte del personal docente o administrativo del Sistema Educativo Estatal. Así mismo difundirá entre la comunidad académica el respeto a la diversidad.
+
+Para tales efectos, llevara a cabo entre otras acciones:
+
+a) Hacer los ajustes curriculares a los programas de educación, para la incorporación y oportuna canalización de las personas con discapacidad en todos los niveles del Sistema Educativo Estatal; así como verificar el cumplimiento de las normas para su integración educativa en apego a lo establecido a la Ley Estatal para la Integración Social de las Personas con Discapacidad;
+
+b) Promover el establecimiento de un programa estatal de becas educativas y becas de capacitación para personas con discapacidad en todos los niveles del Sistema Educativo Estatal;
+
+c) Diseñar e implementar programas de formación y certificación de intérpretes estenógrafos del español y demás personal especializado en la difusión y uso conjunto del español y la Lengua de Señas; así como de las formas de comunicación de las personas con discapacidad visual entre ellas el sistema de escritura Braille y otras tecnologías;
+
+d) Promover que los estudiantes de escuelas normales y licenciaturas afines con la educación, presten su servicio social apoyando a personas con discapacidad que así lo requieran, a fin de que cumplan con el requisito del servicio social;
+
+e) Firmar Convenios de Colaboración con los Ayuntamientos, a fin de que en las bibliotecas y salas de lectura, entre otros, se incorporen equipos de cómputo con tecnología adaptada, escritura e impresión en el Sistema de Escritura Braille, ampliadores y lectores de texto, espacios adecuados y demás innovaciones tecnológicas que permita su uso a las personas con discapacidad;
+
+f) El Estado promoverá la participación de las Organizaciones de la Sociedad Civil en los procesos educativos tendientes a fortalecer o complementar los servicios educativos otorgados; y
+
+g) Las demás que sean necesarias para el cumplimiento de la presente Ley.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2006)</small>
 
@@ -1151,7 +1175,9 @@ La Secretaría instrumentará Programas Educativos de Apoyo, dirigidos de manera
 
 ARTICULO 77 BIS.- La Secretaría, deberá incluir dentro del Sistema Estatal Educativo a toda persona con cualquier tipo de discapacidad física, mental y sensorial, así mismo deberá facilitarle el acceso a los planteles educativos.
 
-Toda institución educativa que tenga inscritos educandos que presenten algún tipo de discapacidad de las mencionadas en el párrafo anterior, deberá elaborar un padrón informativo, el cual entregará a la Secretaría de Educación Pública, para que a su vez, les proporcione los apoyos necesarios para su correcta instrucción y desarrollo integral.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
+Toda institución educativa que tenga inscritos educandos que presenten algún tipo de discapacidad de las mencionadas en el párrafo anterior, deberá elaborar un padrón informativo, el cual entregará a la Secretaría de Educación Pública, para que a su vez, les proporcione los apoyos necesarios para su correcta instrucción y desarrollo integral; así como para la identificación de talentos y de facilitar la participación de los educandos que deseen incorporarse a los programas de desarrollo del deporte paralímpico, a través del Instituto de Cultura Física y Deporte del Estado.
 
 Además la Secretaría deberá fomentar y garantizar la inclusión de las niñas, niños y los adolescentes con discapacidad, de la siguiente manera:
 
@@ -1163,9 +1189,15 @@ III.- Proporcionar a los estudiantes con discapacidad, materiales y ayudas técn
 
 IV.- Incluir la enseñanza del Sistema de Escritura Braille y la Lengua de Señas Mexicana en la educación pública y privada, que complementen los conocimientos de los alumnos con discapacidad;
 
-V.- Implementar las modificaciones en infraestructura a los centros educativos, como accesos, rampas, baños, áreas verdes y aulas para personas con discapacidad, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-VI.- Las demás que dispongan otros ordenamientos.
+V.- Implementar las modificaciones en infraestructura a los centros educativos, como accesos, rampas, baños, áreas verdes y aulas para personas con discapacidad,
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+VI.- Garantizar a todas y todos los alumnos de las escuelas de los distintos niveles de educación obligatoria, sin distinción de género, edad o tipo de discapacidad, el acceso a programas de cultura física y deporte adaptado, y
+
+VII.- Las demás que dispongan otros ordenamientos.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -1389,11 +1421,11 @@ Además de ello fomentara la elaboración y difusión de libros y materiales did
 
 #### Sección 7. De la Educación Especial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
 
-###### ARTICULO 103.
+###### ARTÍCULO 103.
 
-La Educación Especial está destinada a educandos con discapacidades transitorias o definitivas, así como a aquellos con capacidades y aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones.
+La Educación Especial tendrá por propósito identificar, prevenir y eliminar las barreras que limitan el aprendizaje y la participación plena y efectiva en la sociedad de las personas con discapacidades transitorias o definitivas, con dificultades severas en el aprendizaje, de conducta o de comunicación, así como a aquellos con capacidades y aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de discriminación, igualdad sustantiva y perspectiva de género.
 
 Esta educación incluye la corresponsabilidad de los padres o tutores, así como la orientación a los maestros y al personal de Escuelas de Educación Básica regular que integren alumnos con necesidades especiales de educación.
 
@@ -1673,6 +1705,10 @@ La Secretaría, en el ámbito de su competencia, promoverá el cumplimiento de l
 
 Tratándose de educandos con discapacidades, promoverá su integración mediante la aplicación de métodos, técnicas y materiales específicos.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
+
+Los programas curriculares de educación física y deporte en los niveles de educación obligatoria, fomentarán la cultura del deporte inclusivo y la práctica del deporte adaptado a personas con discapacidad. La enseñanza, capacitación, gestión, administración y desarrollo del deporte adaptado, deberán confiarse a personal especializado.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 137.
@@ -1681,11 +1717,19 @@ La educación física que se imparta en el Sistema Educativo Estatal tendrá, ad
 
 I.- Estimular la disciplina del ejercicio físico y la práctica del deporte;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-II.- Desarrollar actitudes responsables hacia la preservación de la salud, el combate al sobrepeso y la obesidad, el rechazo a las adicciones y la prevención de las conductas delictivas; y
+II.- Desarrollar actitudes responsables hacia la preservación de la salud, el combate al sobrepeso y la obesidad, el rechazo a las adicciones y la prevención de las conductas delictivas;
 
-III.- Fomentar y difundir la cultura física en todas sus manifestaciones.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+III.- Fomentar y difundir la cultura física en todas sus manifestaciones; y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+IV.- En materia de deporte adaptado, fomentar desde la educación básica la activación física y las actividades deportivas, con la finalidad de aumentar la cultura del deporte entre las personas con discapacidad, y mejorar sus expectativas y nivel de integración social.
+
+Asimismo, establecer la vinculación entre los maestros de educación física y de educación especial, para un trabajo coordinado dentro de las escuelas de educación básica, a través de las Unidades de Servicios de Apoyo a la Educación Regular (USAER) y los Centros de Atención Múltiple (CAM) de la Secretaria.
 
 #### Sección 12. De la Educación para Adultos
 
@@ -2640,3 +2684,21 @@ P.O. 11 DE ABRIL DE 2019.
 Artículo Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 95.- QUE CONTIENE REFORMAS A LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 28 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 96.- QUE CONTIENE REFORMA Y ADICIÓN A LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Artículo Segundo. Las autoridades realizarán las adecuaciones correspondientes en el presupuesto de egresos 2020, para iniciar su aplicación con los educandos en el ciclo escolar 2020-2021.
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
