@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-social-del-estado-de-coahuila-de-125289"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-26"
-last_updated: "2019-01-15"
+last_updated: "2019-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 26 de diciembre de 2017.
 
@@ -653,6 +653,10 @@ Sin perjuicio de lo dispuesto en la Ley General de Desarrollo Social, las Contra
 
 Las organizaciones que tengan como objetivo impulsar el desarrollo social y comunitario en el estado y los municipios, podrán participar en las acciones relacionadas con la planeación, diseño, ejecución y evaluación de las políticas, programas y acciones públicas en esta materia.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
+
+Las organizaciones podrán recibir fondos públicos para operar programas sociales propios, a excepción de aquéllas en las que formen parte de sus órganos directivos servidores públicos, sus cónyuges o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles y las que presenten conflicto de interés en los términos de la legislación correspondiente.
+
 ###### Artículo 56.
 
 Para efectos del artículo anterior, las organizaciones deberán acreditar estar formalmente constituidas ante autoridad competente y contener en los estatutos de su creación objetivos o acciones relativas al desarrollo social, además de demostrar su aportación y participación en beneficio del sector social, así como cumplir con lo que establezcan las disposiciones aplicables a su operación, con los proyectos o propuestas que estimen convenientes.
@@ -954,5 +958,11 @@ JOSÉ MARÍA FRAUSTRO SILLER
 P.O. 15 DE ENERO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 183.- SE REFORMAN LA FRACCIÓN IV DEL ARTÍCULO 6 Y LA FRACCIÓN III DEL ARTÍCULO 13 Y SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 11 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 54 RECORRIENDO LOS DEMÁS, DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 256.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 55 DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
