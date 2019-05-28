@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "2017-03-16"
+last_updated: "2019-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2019.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
@@ -99,9 +99,7 @@ DECRETO NUMERO 203
 
 LA H. LIV LEGISLATURA del ESTADO LIBRE y SOBERANO de DURANGO, a nombre del Pueblo DECRETA la siguiente:
 
-LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES
-
-DEL ESTADO DE DURANGO
+LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -1219,9 +1217,11 @@ V.- La indicación del lugar en que puedan obtenerse las pruebas que el actor no
 
 A la demanda se acompañarán las pruebas de que disponga y los documentos que acrediten la personalidad de su representante, si no concurre personalmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 121o.
 
-La contestación de la demanda se presentará en un término que no exceda de cinco días, contados a partir del siguiente a la fecha de su notificación, deberá referirse a todos y cada uno de los hechos que comprenda la demanda, y ofrecer las pruebas en los términos de la Fracción V del Artículo anterior.
+La contestación de la demanda se presentará en un término que no exceda de 10 días hábiles, contados a partir del siguiente a la fecha de su notificación, deberá referirse a todos y cada uno de los hechos que comprenda la demanda, y ofrecer las pruebas en los términos de la Fracción V del artículo anterior.
 
 Cuando el domicilio del demandado se encuentre fuera del lugar en que se radica el Tribunal, se aplicará el término de un día más por cada sesenta kilómetros de distancia que exceda de la mitad.
 
@@ -1529,7 +1529,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 16 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 121.- POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 121.- POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
@@ -1538,3 +1538,11 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 28 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 91.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
