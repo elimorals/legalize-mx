@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-del-fondo-mixto-de-promocion-turistica-13608
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-09"
-last_updated: "2019-05-09"
+last_updated: "2019-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136082&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2019-05-07"
 ---
 # CODIGO DE CONDUCTA DEL FONDO MIXTO DE PROMOCION TURISTICA DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MAYO DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA DEL FONDO MIXTO DE PROMOCIÓN TURÍSTICA DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 28 DE MAYO DE 2019.]</small>
 
 Código publicado en el Número 87 Bis de la Gaceta oficial de la Ciudad de México, el jueves 9 de mayo de 2019.
 
@@ -206,9 +206,9 @@ AVISO POR EL CUAL SE DA A CONOCER LA PÁGINA ELECTRÓNICA EN LA QUE SE PUEDE CON
 
 ÚNICO.- Se hace del conocimiento al público en general que el CÓDIGO DE CONDUCTA DEL FONDO MIXTO DE PROMOCIÓN TURÍSTICA DE LA CIUDAD DE MÉXICO, se encuentra disponible en la siguiente página electrónica:
 
-> <small>[N. DE E. LA PRESENTE PÁGINA WEB NO REMITE DIRECTAMENTE A LA CONSULTA DEL CÓDIGO DE CONDUCTA DE REFERENCIA”.]</small>
+> <small>(F. DE E., G.O. 28 DE MAYO DE 2019)</small>
 
-http://data.fmpt.cdmx.gob.mx/121.1/CODIGO_DE_CONDUCTA_FMPT _1T_2019.pdf
+http://data.fmpt.cdmx.gob.mx/121.1/CODIGO_DE_CONDUCTA_FMPT_1T_2019.pdf
 
 ## TRANSITORIOS
 
@@ -223,3 +223,15 @@ En la Ciudad de México a los siete días del mes de mayo de dos mil diecinueve.
 SARA PAOLA GÁLICO FÉLIX DÍAZ
 
 DIRECTORA GENERAL DEL FONDO MIXTO DE PROMOCIÓN TURÍSTICA DE LA CIUDAD DE MÉXICO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 28 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “NOTA ACLARATORIA AL AVISO POR EL CUAL SE DA A CONOCER LA PÁGINA ELECTRÓNICA EN LA QUE SE PUEDE CONSULTAR SU CÓDIGO DE CONDUCTA, PUBLICADO EN EL NO. 87 BIS DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, DE FECHA 09 DE MAYO DE 2019”.]
+
+PRIMERO.- Siendo responsable del link de la página electrónica, la Lic. Martha Martínez Molina, Coordinadora Jurídica del Fondo Mixto de Promoción Turística de la Ciudad de México, con número telefónico 52112136 Ext. 1041.
+
+SEGUNDO.- Publíquese en la Gaceta de la Ciudad de México.
+
+TERCERO.- La presente Nota Aclaratoria entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
