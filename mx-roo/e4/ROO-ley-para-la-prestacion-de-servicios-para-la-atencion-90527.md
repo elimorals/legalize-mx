@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-la-prestacion-de-servicios-para-la-atencion-90527"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-30"
-last_updated: "2012-10-30"
+last_updated: "2019-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DEL PERIÓDICO OFICIAL: 28 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de octubre de 2012.
 
@@ -43,11 +43,11 @@ LEY PARA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INT
 
 ### CAPÍTULO UNICO. Del objeto y ámbito de aplicación
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público, interés social y de observancia general en el Estado de Quintana Roo, con fundamento en los párrafos noveno y décimo primero del Artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, así como la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de Quintana Roo.
-
-Tiene por objeto salvaguardar los derechos fundamentales que garanticen la salud, seguridad, protección y desarrollo integral de las niñas y niños mediante la regulación de las bases, condiciones y procedimientos mínimos para la creación, administración y funcionamiento de los Centros de Atención que presten servicios para el cuidado de las niñas y niños, en cualquier modalidad y tipo.
+La presente ley es de orden público, interés social y de observancia general en el Estado de Quintana Roo, tiene por objeto salvaguardar los derechos fundamentales que garanticen la salud, seguridad, protección y desarrollo integral de las niñas y niños mediante la regulación de las bases, condiciones y procedimientos mínimos para la creación, administración y funcionamiento de los Centros de Atención que presten servicios para el cuidado de las niñas y niños, en condiciones de igualdad, calidad, calidez, seguridad y protección adecuadas, que promuevan el ejercicio pleno de sus derechos en cualquier modalidad y tipo.
 
 ###### Artículo 2.
 
@@ -67,15 +67,41 @@ II. Centros de Atención: Espacios, cualquiera que sea su denominación, modalid
 
 III. Consejo Estatal: Consejo de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil del Estado;
 
-IV. Ley: Ley para la Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil de Quintana Roo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2019)</small>
 
-V. Licencia: Documento emitido por la Secretaría de Salud para prestar lícitamente el servicio para la atención, cuidado y desarrollo infantil en el territorio de Quintana Roo, una vez cumplimentados los requisitos establecidos en la presente Ley;
+IV. Desarrollo Integral Infantil: Es el derecho que tienen niñas y niños a formarse física, mental, emocional y socialmente en condiciones de igualdad;
 
-VI. Prestadores de servicios para la atención, cuidad (sic) y desarrollo integral infantil: Aquellas personas físicas o morales que cuenten con la licencia emitida por la Secretaría de Salud, para instalar y operar uno o varios Centros de Atención en cualquier modalidad y tipo;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2019)</small>
 
-VII. Registro Estatal: Catálogo público de los Centros de Atención que prestan servicios para la atención, cuidado y desarrollo integral infantil en el Estado;
+V. Ley: Ley para la Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil de Quintana Roo;
 
-VIII. Secretaría: Secretaría de Salud del Estado de Quintana Roo.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2019)</small>
+
+VI. Licencia: Documento emitido por la Secretaría de Salud para prestar lícitamente el servicio para la atención, cuidado y desarrollo infantil en el territorio de Quintana Roo, una vez cumplimentados los requisitos establecidos en la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2019)</small>
+
+VII. Medidas Precautorias: Aquellas que con motivo de la prestación de los servicios para la atención, cuidado y desarrollo integral infantil emitan las autoridades competentes, de conformidad con la presente Ley, para salvaguardar y proteger la vida y la integridad de niñas y niños;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2019)</small>
+
+VIII. Modalidades: Las que refiere el artículo 25 de esta Ley;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 28 DE MAYO DE 2019)</small>
+
+IX. Prestadores de servicios para la atención, cuidado y desarrollo integral infantil: Aquellas personas físicas o morales que cuenten con la licencia emitida por la Secretaría de Salud, para instalar y operar uno o varios Centros de Atención en cualquier modalidad y tipo;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2019)</small>
+
+X. Registro Estatal: Catálogo público de los Centros de Atención que prestan servicios para la atención, cuidado y desarrollo integral infantil en el Estado;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MAYO DE 2019)</small>
+
+XI. Secretaría: Secretaría de Salud del Estado de Quintana Roo, y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XII. Servicios para atención, cuidado y desarrollo integral infantil: Medidas dirigidas a niñas y niños en los Centros de Atención, consistentes en la atención y cuidado para su desarrollo integral infantil.
 
 ## TÍTULO SEGUNDO. POLÍTICA EN MATERIA DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL
 
@@ -91,7 +117,9 @@ La Política a la que se refiere el presente título, deberá tener al menos los
 
 I. Garantizar el reconocimiento de la dignidad de niñas y niños, a partir de la creación de las condiciones necesarias de respeto, protección y ejercicio pleno de sus derechos;
 
-II. Promover el acceso de niñas y niños con discapacidad, que se encuentren en situación de calle, que habiten en el medio rural, migrantes o jornaleros agrícolas, comunidades indígenas y en general población que habite en zonas marginadas o de extrema pobreza, a los servicios que señala esta Ley, acorde a los modelos de atención;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+II. Promover el acceso de niñas y niños con discapacidad, que se encuentren en situación de calle, que habiten en el medio rural, migrantes o jornaleros agrícolas, comunidades indígenas y en general población que habite en zonas marginadas o de extrema pobreza, a los servicios que señala esta Ley, sin importar sus condiciones físicas, intelectuales o sensoriales, acorde a los modelos de atención;
 
 III. Definir criterios estandarizados de calidad y seguridad;
 
@@ -141,7 +169,9 @@ I. Presidencia del Sistema para el Desarrollo Integral de la Familia del Estado 
 
 II. Secretaría, quien será el Secretario Técnico;
 
-III. Comisión de Desarrollo Familiar y Grupos Vulnerables del Congreso del Estado;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+III. Comisión de Desarrollo Familiar y Grupos en Situación de Vulnerabilidad del Congreso del Estado;
 
 IV. Secretaría de Gobierno;
 
@@ -151,9 +181,13 @@ VI. Secretaría de Educación;
 
 VII. Secretaría del Trabajo y Previsión Social;
 
-VIII. Comisión de Derechos Humanos del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-IX. Procuraduría General de Justicia.
+VIII. Comisión de los Derechos Humanos del Estado de Quintana Roo, y
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+IX. Fiscalía General del Estado de Quintana Roo.
 
 Podrán asistir a las reuniones del Consejo Estatal, los representantes de las dependencias federales, estatales, municipales o del sector empresarial, medios de comunicación, organizaciones sociales, así como cualquier persona física o moral, pública o privada de reconocida trayectoria que se haya destacado por su trabajo, estudio o compromiso en materia de derechos de niñas y niños, quienes tendrán derecho a voz, pero no a voto.
 
@@ -265,7 +299,17 @@ XVI. Imponer las sanciones que correspondan a su ámbito de competencia, por el 
 
 XVII. Hacer del conocimiento de la autoridad competente toda aquella información que pueda constituir un hecho ilícito, y
 
-XVIII. Las demás que le señale esta Ley y las leyes aplicables.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XVIII. Determinarán conforme a la modalidad y tipo de atención, las competencias, capacitación y aptitudes con las que deberá contar el personal que pretenda laborar en los Centros de Atención. De igual forma, determinará los tipos de exámenes a los que deberá someterse dicho personal, a fin de garantizar la salud, la educación, la seguridad y la integridad física y psicológica de niñas y niños;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XIX. Se coordinará con la Federación para implementar el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del Funcionamiento, a que hace alusión el artículo 63 de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XX. Las demás que le señale esta Ley y las leyes aplicables.
 
 ###### Artículo 18.
 
@@ -289,13 +333,29 @@ VIII. Fomentar, realizar y difundir estudios e investigaciones en la materia;
 
 IX. Vigilar el cumplimiento de esta Ley y demás disposiciones aplicables en su ámbito de competencia que se relacionen y deriven de la misma, por parte de los prestadores de servicios para la atención, cuidado y desarrollo integral infantil;
 
-X. Decretar las medidas precautorias necesarias a los Centros de Atención, en materia de protección civil;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+X. Decretar las medidas precautorias necesarias a los Centros de Atención, correspondiente en cualquier modalidad o tipo y en materia de protección civil;
 
 XI. Imponer las sanciones, en el ámbito de su competencia, a las que se refieren la presente Ley y las legislaciones municipales que de ella deriven, respecto de los prestadores de servicios para la atención, cuidado y desarrollo integral infantil, en cualquiera de sus Modalidades y Tipos;
 
 XII. Hacer del conocimiento de la autoridad competente toda aquella información que pueda constituir un hecho ilícito, y
 
-XIII. Las demás que le señale esta Ley y las leyes aplicables.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XIII. Determinarán conforme a la modalidad y tipo de atención, las competencias, capacitación y aptitudes con las con las (sic) que deberá contar el personal que pretenda laborar en los Centros de Atención. De igual forma, determinará los tipos de exámenes a los que deberá someterse dicho personal, a fin de garantizar la salud, la educación, la seguridad y la integridad física y psicológica de niñas y niños;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XIV. Implementarán acciones dirigidas a certificar y capacitar permanentemente al personal que labora en los Centros de Atención;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XV. Se coordinará con la Federación para implementar el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del Funcionamiento, a que hace alusión el artículo 63 de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XVI. Las demás que le señale esta Ley y las leyes aplicables.
 
 ### CAPÍTULO V. Del Registro Estatal de los Centros de Atención
 
@@ -317,9 +377,11 @@ V. Facilitar la supervisión de los Centros de Atención.
 
 El Registro Estatal deberá orientarse por los principios de máxima publicidad, transparencia y legalidad, cumpliendo con las disposiciones en materia de transparencia y acceso a la información pública.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 21.
 
-La operación, mantenimiento y actualización del Registro Estatal estará a cargo del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, en coordinación con la Secretaría y el Consejo Municipal.
+La operación, mantenimiento y actualización del Registro Estatal estará a cargo del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, en coordinación con la Secretaría y el Consejo Municipal. Dicho registro deberá actualizarse cada seis meses.
 
 ###### Artículo 22.
 
@@ -345,19 +407,53 @@ VI. Capacidad instalada y, en su caso, ocupada.
 
 Cuando la prestación de los servicios para la atención, cuidado y desarrollo integral infantil esté a cargo de las dependencias o entidades estatales o de los municipios, podrán otorgarlas por sí mismos o a través de las personas del sector social o privado que cumplan con lo previsto en la presente ley.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
+
+Se deberá garantizar el efectivo cumplimiento de los derechos laborales y de las prestaciones de seguridad social que deriven de estos, en materia de atención, cuidado y desarrollo integral infantil.
+
 ###### Artículo 24.
 
 Para la prestación del servicio de atención, cuidado y desarrollo integral infantil, se deberá cumplir con lo dispuesto por esta Ley, su reglamento y las disposiciones y ordenamientos jurídicos correspondientes en cuanto a salubridad, infraestructura, equipamiento, seguridad, protección civil y medidas de higiene de los Centros de Atención, en cualquiera de sus modalidades, así como de los servicios educativos, de descanso, juego y esparcimiento y otros relacionados con el objeto de esta Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
+
+Artículo 24 BIS.- Con el fin de garantizar el cumplimiento de los servicios a que se refiere esta Ley, en los Centros de Atención se contemplarán las siguientes actividades:
+
+I. Protección y seguridad;
+
+II. Supervisión e inspección efectiva en materia de protección civil;
+
+III. Fomento al cuidado de la salud;
+
+IV. Atención médica en caso de urgencia, la cual podrá brindarse en el Centro de Atención o a través de instituciones de salud públicas o privadas;
+
+V. Alimentación adecuada y suficiente para su nutrición;
+
+VI. Fomento a la comprensión y ejercicio de los derechos de niñas y niños;
+
+VII. Descanso, esparcimiento, juego y actividades recreativas propias de su edad;
+
+VIII. Apoyo al desarrollo biológico, cognoscitivo, psicomotriz, y socio-afectivo;
+
+IX. Enseñanza del lenguaje y comunicación;
+
+X. Información y apoyo a los padres, tutores o quienes tengan la responsabilidad del cuidado o crianza, para fortalecer la comprensión de sus funciones en la educación de niñas y niños, y
+
+XI. Implementar mecanismos de participación de los padres de familia o de quien ejerza la tutela de niñas y niños, respecto de su educación y atención.
 
 ###### Artículo 25.
 
 Los Centros de Atención pueden tener alguna de las siguientes modalidades:
 
-I. Pública: Aquélla financiada y administrada, ya sea por la Federación, los Estados o los Municipios, o bien por sus instituciones;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+I. Pública: Aquella financiada y administrada, ya sea por la Federación, los Estados, los Municipios, de la Ciudad de México y las alcaldías, o bien por sus instituciones;
 
 II. Privada: Aquélla cuya creación, financiamiento, operación y administración sólo corresponde a particulares, y
 
-III. Mixta: Aquélla en que la Federación, los Estados o los Municipios o en su conjunto, participan en el financiamiento, operación o administración con instituciones sociales o privadas.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+III. Mixta: Aquella en que la Federación o los Estados o los Municipios o la Ciudad de México y las alcaldías de sus demarcaciones territoriales o en su conjunto, participan en el financiamiento, instalación o administración con instituciones sociales o privadas.
 
 ###### Artículo 26.
 
@@ -367,19 +463,27 @@ I. Lactantes: de 43 días hasta un año seis meses;
 
 II. Maternales: de 1 año 7 meses hasta 3 años 11 meses;
 
-III. Preescolar: de 4 años hasta la edad cronológica límite que marca el Centro de Atención; (sic)
+III. Preescolar: de 4 años hasta la edad cronológica límite que marca el Centro de Atención;
 
 ###### Artículo 27.
 
 Para efectos de protección civil, los Centros de Atención, en función de su capacidad, se clasifican en los siguientes Tipos:
 
-I. Tipo 1: Con capacidad instalada para dar servicio hasta 10 sujetos de atención;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-II. Tipo 2: Con capacidad instalada para dar servicio de 11 hasta 50 sujetos de atención;
+I. Tipo 1: Con capacidad instalada para dar servicio hasta 10 sujetos de atención; administrada por personal profesional o capacitado de acuerdo al tipo de servicio, tipo de inmueble: casa habitación o local comercial.
 
-III. Tipo 3: Con capacidad instalada para dar servicio de 51 hasta 100 sujetos de atención;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-IV. Tipo 4: Con capacidad instalada para dar servicio a más de 100 sujetos de atención;
+II. Tipo 2: Con capacidad instalada para dar servicio de 11 hasta 50 sujetos de atención; administrado por personal profesional o capacitado de acuerdo al tipo de servicio, tipo de inmueble: casa habitación, local comercial o inmueble con instalaciones específicamente diseñadas, construidas o habitadas de acuerdo al tipo de servicio.
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+III. Tipo 3: Con capacidad instalada para dar servicio de 51 hasta 100 sujetos de atención; administrado por personal profesional o capacitado de acuerdo al tipo de servicio, tipo de inmueble: casa habitación, local comercial o inmueble con instalaciones específicamente diseñadas, construidas o habitadas de acuerdo al tipo de servicio.
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+IV. Tipo 4: Con capacidad instalada para dar servicio a más de 100 sujetos de atención; administrado por personal profesional o capacitado de acuerdo al tipo de servicio, tipo de inmueble: casa habitación, local comercial o inmueble con instalaciones específicamente diseñadas, construidas o habitadas de acuerdo al tipo de servicio.
 
 La tipología anterior, se ajustará a las normas de cada institución y al Reglamento de esta Ley.
 
@@ -387,9 +491,13 @@ La tipología anterior, se ajustará a las normas de cada institución y al Regl
 
 Para que un Centro de Atención pueda ofrecer y otorgar los servicios para la atención, cuidado y desarrollo integrar infantil, deberá contar con la licencia que al efecto le otorgue la Secretaría, una vez que haya cumplido con las disposiciones que señala esta Ley y los requisitos siguientes:
 
-I. Presentar solicitud por escrito;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
-II. Contar con una póliza de seguro ante eventualidades que pongan en riesgo la vida y la integridad física de niñas y niños durante su permanencia en los Centros de Atención. Asimismo, dicha póliza deberá cubrir la responsabilidad civil y riesgos profesionales del prestador del servicio frente a terceros a consecuencia de un hecho que cause daño;
+I. Presentar solicitud por escrito en la que al menos se indique: la población por atender, los servicios que se proponen ofrecer, los horarios de funcionamiento, el nombre y datos generales del o los responsables, el personal con que se contará y su ubicación;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+II. Contar con una póliza de seguro ante eventualidades que pongan en riesgo la vida y la integridad física de niñas y niños durante su permanencia en los Centros de Atención. Asimismo, dicha póliza deberá cubrir la responsabilidad civil y riesgos profesionales del prestador del servicio frente a terceros a consecuencia de un hecho que cause daño. Las condiciones de las pólizas deberán ajustarse a lo dispuesto por la Ley General de Instituciones y Sociedades Mutualistas de Seguros, así como a las disposiciones que al efecto se expidan;
 
 III. Contar con un Reglamento Interno;
 
@@ -409,7 +517,35 @@ X. Contar con documentos que acrediten la capacitación y certificación requeri
 
 XI. Contar con la incorporación expedida por la Secretaría de Educación, en caso de que en los Centros de Atención se imparta educación inicial y preescolar, debiendo cumplir con la normatividad que señale la autoridad educativa.
 
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XII. Contar con información de los recursos financieros, mobiliario, equipo, material didáctico y de consumo para operar, y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+
+XIII. Cumplir con los requisitos previstos para la modalidad y tipo correspondiente que establezca el Reglamento de esta Ley, las disposiciones normativas y técnicas de la Ley Federal sobre Metrología y Normalización y las Normas Oficiales Mexicanas aplicables.
+
 El Reglamento establecerá los términos y la forma en que se deberán cubrir los requisitos señalados en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
+
+Artículo 28 BIS. El programa de trabajo a que se refiere la fracción VI del artículo anterior, deberá contener al menos la siguiente información:
+
+I. Los derechos de niñas y niños enumerados en el artículo 11 de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
+
+II. Las actividades formativas y educativas y los resultados esperados;
+
+III. La forma en que se dará cumplimiento a cada una de las actividades que señala el artículo 24 BIS de la presente Ley;
+
+IV. El perfil de cada una de las personas que laborarán en el Centro de Atención directamente vinculadas al trabajo con niñas y niños, así como las actividades concretas que se les encomendarán;
+
+V. Las formas y actividades de apoyo a los padres, las personas que ejerzan la tutela o custodia, o quien sea responsable del cuidado y crianza, para fortalecer la comprensión de sus funciones en la atención, cuidado y desarrollo integral de la niña o niño;
+
+VI. El mecanismo que garantice la confiabilidad y seguridad para la identificación o reconocimiento de las personas autorizadas para entregar y recibir a niñas y niños;
+
+VII. Los procedimientos de recepción, procesamiento, resolución y seguimiento de quejas y sugerencias por parte de niñas, niños, la madre, el padre o quien ejerza la custodia legal, y
+
+VIII. El procedimiento para la entrega de información a los padres, las personas que ejerzan la tutela o custodia o quien sea responsable del cuidado y crianza, sobre el desempeño y desarrollo integral de niñas y niños.
 
 ### CAPÍTULO II. Del Establecimiento
 
@@ -419,7 +555,9 @@ El establecimiento de un Centro de Atención no podrá estar ubicado a una dista
 
 I. Características físicas:
 
-a. Contar con servicios de teléfono, agua potable fría y caliente, drenaje, energía eléctrica, intercomunicación y especiales, atendiendo a las disposiciones de la presente ley y demás ordenamientos vigentes en materia de protección civil;
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
+a. Contar con servicios de teléfono, agua potable fría y caliente, drenaje, energía eléctrica, gas, intercomunicación y especiales, atendiendo a las disposiciones de la presente ley y demás ordenamientos vigentes en materia de protección civil.
 
 b. Contar con ventilación que permita un eficiente flujo de aire para mantener una temperatura agradable, de acuerdo al diseño arquitectónico, altura y tipo de construcción;
 
@@ -451,7 +589,9 @@ III. Medidas de seguridad y vigilancia:
 
 a. Capacitar al personal del Centro de Atención para que actúe en caso de siniestro, con la precaución y cuidado requerido, para salvaguardar la integridad física de las niñas y niños;
 
-b. Contar con equipo contra incendios colocados en lugares estratégicos y tener suficientes extintores y detectores de humo, de acuerdo al tipo;
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
+b. Contar con equipos portátiles y fijos contra incendios colocados en lugares estratégicos y tener suficientes extintores y detectores de humo, de acuerdo al tipo;
 
 c. No tener animales domésticos que representen un peligro para las niñas y niños;
 
@@ -531,7 +671,7 @@ V. Trasladar al servicio médico correspondiente a la niña o niño que requiera
 
 En el caso de que al momento de ingresar al Centro de Atención o durante su estancia, el personal detecte que la niña o niño presenta lesiones físicas, requerirá al usuario para que informe al prestador del servicio las causas que hayan originado tales lesiones.
 
-En el caso de lesiones físicas reiteradas en la niña o niño, el prestador del servicio deberá tomar las medidas médicas y administrativas que correspondan, debiendo denunciar los hechos ante el Ministerio Público, solicitando el apoyo del la Procuraduría de la Defensa del Menor y la Familia del Estado.
+En el caso de lesiones físicas reiteradas en la niña o niño, el prestador del servicio deberá tomar las medidas médicas y administrativas que correspondan, debiendo denunciar los hechos ante el Ministerio Público, solicitando el apoyo de la Procuraduría de la Defensa del Menor y la Familia del Estado.
 
 ###### Artículo 39.
 
@@ -557,7 +697,7 @@ VII. Presentar a la niña o niño con sus artículos de uso personal en la canti
 
 VIII. Recoger a la niña o niño sin estar bajo los influjos de bebidas embriagantes, drogas, enervantes o cualquier otra sustancia tóxica que altere su estado de salud;
 
-IX. Las demás que señalen los reglamentos internos de los Centros de Atención; (sic)
+IX. Las demás que señalen los reglamentos internos de los Centros de Atención;
 
 ###### Artículo 41.
 
@@ -589,9 +729,11 @@ Los prestadores de servicios para la atención, cuidado y desarrollo integral in
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 46.
 
-La Secretaría deberá efectuar, por lo menos cada seis meses, visitas de verificación a los Centros de Atención, de conformidad con lo establecido en la Ley de Procedimiento Administrativo del Estado de Quintana Roo.
+La Secretaría deberá efectuar, por lo menos cada seis meses, visitas de verificación a los Centros de Atención, de conformidad con lo establecido en el Código de Justicia Administrativa del Estado de Quintana Roo.
 
 ###### Artículo 47.
 
@@ -629,7 +771,9 @@ Los procedimientos para la determinación de una sanción a los prestadores de s
 
 Las autoridades competentes podrán imponer las siguientes sanciones administrativas:
 
-I. Multa de 50 a 1000 salarios mínimos vigentes en el Estado.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+
+I. Multa de 50 a 1000 UMA.
 
 II. Suspensión temporal de la licencia o autorización a que se refiere esta Ley.
 
@@ -738,3 +882,11 @@ ARQ. LUIS ALBERTO GONZÁLEZ FLORES.
 EL SECRETARIO DE SALUD DEL ESTADO DE QUINTANA ROO.
 
 DR. RAFAEL HUMBERTO ALPUCHE DELGADO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 319 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY PARA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DE QUINTANA ROO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
