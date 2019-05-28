@@ -4,7 +4,7 @@ identifier: "COA-ley-para-promover-la-igualdad-y-prevenir-la-discriminacion-5688
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-24"
-last_updated: "2017-12-26"
+last_updated: "2019-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de agosto de 2007.
 
@@ -1015,6 +1015,18 @@ A partir del auto que declare la continuación del proceso, la Dirección tendr�
 
 Para documentar debidamente las evidencias, la Dirección podrá solicitar la rendición y desahogo de todas aquellas pruebas que estime necesarias, incluyendo informes de cualquier autoridad, servidor público o particular, con la única condición de que éstas se encuentren previstas como tales por el orden jurídico estatal.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
+
+Cuando no pueda hacerse uso de medios electrónicos o de cualquier otra tecnología porque la naturaleza de la prueba no lo permita, la rendición y desahogo de las pruebas en las que participe o intervenga un particular se deberá realizar en el lugar de su residencia; sin perjuicio de lo anterior, el quejoso o el particular a quien se impute una conducta discriminatoria, si así lo desea, puede rendir y desahogar las pruebas de su intención en las instalaciones que ocupe la Dirección.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
+
+Para la rendición y desahogo de las pruebas en lugares distintos a las oficinas de la Dirección, ésta podrá establecer convenios y acuerdos de colaboración con las diversas entidades públicas del estado y los municipios para hacer uso de sus instalaciones; asegurando en todo momento las garantías procesales a que tienen derecho las partes involucradas, así como la intermediación de un representante designado por la Dirección para el caso concreto.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2019)</small>
+
+En cualquier caso, las actuaciones, los acuerdos y resultados deben constar en el expediente respectivo.
+
 ###### ARTÍCULO 58.
 
 Las pruebas que presenten los interesados, así como las que de oficio se allegue la Dirección, serán valoradas en su conjunto, de acuerdo con los principios de la lógica, la experiencia y la legalidad, a fin de que puedan producir convicción con relación a los hechos denunciados.
@@ -1340,3 +1352,9 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 28 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 260.- SE ADICIONAN TRES PÁRRAFOS AL ARTÍCULO 57 DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
