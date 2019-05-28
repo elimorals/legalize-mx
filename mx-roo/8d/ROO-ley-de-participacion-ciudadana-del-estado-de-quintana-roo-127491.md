@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-participacion-ciudadana-del-estado-de-quintana-roo-12749
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-23"
-last_updated: "2018-03-23"
+last_updated: "2019-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2019.
 
 Ley publicada en el Número 39 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 23 de Marzo de 2018.
 
@@ -353,29 +353,49 @@ La iniciativa ciudadana es un mecanismo de participación que da derecho a la ci
 
 La iniciativa ciudadana puede ser solicitada mediante escrito firmado por uno o más ciudadanos.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 28.
 
-Además de los requisitos que establecen la Ley Orgánica del Poder Legislativo del Estado de Quintana Roo y el Reglamento para el Gobierno Interior de la Legislatura del Estado de Quintana Roo, el o los solicitantes deberán cumplir con lo siguiente:
+Además de acreditar los requisitos que establece el artículo 6 de esta ley, el o cada uno de los solicitantes deberán cumplir con lo siguiente:
 
-I. Señalar nombre del representante común, en caso de ser dos o más solicitantes, a falta de tal señalamiento, será representante común quien encabece la lista de solicitantes;
+I. Señalar las disposiciones legales que le otorgan el derecho de presentar una iniciativa;
 
-II. Señalar domicilio para recibir toda clase de notificaciones y a falta de señalamiento las notificaciones se harán por estrados, y
+II. Señalar el nombre de la iniciativa de ley o de reformas, adiciones o derogaciones de la ley;
 
-III. Anexar copia certificada de la credencial para votar del o los solicitantes.
+III. Contener una exposición de motivos;
+
+IV. Describir el contenido de la iniciativa en enunciados breves y precisos que constituirán sus artículos debidamente numerados;
+
+V. Señalar fecha y el lugar de emisión, con el nombre y firma autógrafa de su autor;
+
+VI. Señalar nombre del representante común, en caso de ser dos o más solicitantes, a falta de tal señalamiento, será representante común quien encabece la lista de solicitantes;
+
+VII. Señalar domicilio para recibir toda clase de notificaciones en la Ciudad de Chetumal, y a falta de señalamiento las notificaciones se publicarán de forma física en los estrados del Poder Legislativo, así como de forma electrónica en la página oficial del Congreso;
+
+VIII. Anexar copia simple de la credencial para votar del o los solicitantes, y
+
+IX. Presentar carta de consentimiento para difusión y uso de datos personales confidenciales y el aviso de privacidad integral para la presentación de iniciativas ciudadanas con firma autógrafa.
 
 ###### Artículo 29.
 
 El trámite del proceso legislativo se sujetará a lo establecido en la Ley Orgánica del Poder Legislativo del Estado de Quintana Roo y el Reglamento para el Gobierno Interior de la Legislatura del Estado de Quintana Roo, no obstante, previo al conocimiento de la iniciativa ciudadana a la Legislatura o a la Diputación Permanente, en su caso, la Presidencia de la Mesa Directiva en funciones, turnará la misma a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos para que dentro de un plazo de treinta días hábiles verifique el cumplimiento de las formalidades que exige la ley para las iniciativas de leyes o decretos de reformas, adiciones o derogaciones de las leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 30.
 
-En caso de que la iniciativa ciudadana no reúna las formalidades para su presentación, la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos prevendrá al solicitante o en su caso al representante común, para que subsane los errores u omisiones en un plazo de dos días hábiles, contados a partir de la notificación.
+En caso de que la iniciativa ciudadana no reúna las formalidades para su presentación, la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos prevendrá al solicitante o en su caso al representante común, para que subsane los errores u omisiones en un plazo de tres días hábiles, contados a partir de la notificación.
 
 En caso de no subsanarse en el plazo establecido, se tendrá por no presentada la iniciativa ciudadana y se procederá a su archivo como un asunto concluido.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+
 ###### Artículo 31.
 
-Verificado el cumplimiento de las formalidades que exige la ley, la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos remitirá la iniciativa a la Presidencia de la Mesa Directiva en funciones para continuar el trámite del proceso legislativo.
+Verificado el cumplimiento de las formalidades que exige la ley, la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos rendirá un informe para dar cuenta del trámite que corresponde.
+
+En caso de cumplir los requisitos de ley dicha Comisión remitirá la iniciativa y el expediente que la integra a la Presidencia de la Mesa Directiva en funciones para iniciar el trámite del proceso legislativo.
 
 ###### Artículo 32.
 
@@ -383,7 +403,7 @@ La iniciativa ciudadana será improcedente cuando se trate de disposiciones que 
 
 ###### Artículo 33.
 
-La Legislatura o la Diputación Permanente, en su caso, realizará un reconocimiento público a los ciudadanos que hubieren presentado una iniciativa que haya sido aprobada e instrumentará un mecanismo de difusión de la iniciativa en los medios de comunicación que considere necesarios.
+(DEROGADO, P.O. 28 DE MAYO DE 2019)
 
 ### CAPÍTULO SEXTO. DE LA SILLA CIUDADANA
 
@@ -886,3 +906,11 @@ EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 RUBRICA
 
 LIC. FRANCISCO XAVIER LÓPEZ MENA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 320 POR EL QUE SE REFORMAN EL ARTÍCULO 28, EL PRIMER PÁRRAFO DEL ARTÍCULO 30 Y EL ARTÍCULO 31, Y SE DEROGA EL ARTÍCULO 33, TODOS DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE QUINTANA ROO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
