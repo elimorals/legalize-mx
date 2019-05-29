@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2019-05-08"
+last_updated: "2019-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 2019.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -1480,6 +1480,12 @@ VII. Captar, registrar, administrar y ejercer los recursos de aplicación autom�
 
 Del presupuesto que el Congreso de la Ciudad les autorice en el correspondiente Decreto de Presupuesto de Egresos, cada una de las Alcaldías deberá destinar al menos el veintidós por ciento a proyectos de inversión en infraestructura, equipamiento urbano y servicios públicos en todas las colonias, pueblos, barrios originarios y comunidades indígenas de la demarcación territorial. Dentro de este porcentaje se incluyen los recursos que la Alcaldía ejerza con cargo al Fondo Adicional de Financiamiento de las Alcaldías.
 
+> <small>(ADICIONADO, G.O. 29 DE MAYO DE 2019)</small>
+
+###### Artículo 134 Bis.
+
+Del presupuesto que el Congreso de la Ciudad les autorice en el correspondiente Decreto de Presupuesto de Egresos, cada una de las Alcaldías deberá destinar al menos el 0.1% a proyectos de inversión en Esterilización Obligatoria Masiva y Gratuita de Animales. Dentro de este porcentaje se incluyen los recursos que la Alcaldía ejerza con cargo al Fondo Adicional de Financiamiento de las Alcaldías.
+
 ###### Artículo 135.
 
 Las Alcaldías se conducirán conforme a lo que establece la Ley en materia de fiscalización superior, para que la Auditoría Superior de la Ciudad de México en su caso, despliegue sobre ellas sus facultades de fiscalización.
@@ -2211,3 +2217,11 @@ SEGUNDO: Para los efectos del artículo 71 de la Ley Orgánica de las Alcaldía 
 TERCERO: Para efectos de la Ley de los Derechos de las Personas Jóvenes de la Ciudad de México, los Órganos Político Administrativos de cada una de las demarcaciones territoriales denominadas “Delegaciones”, ahora se deberán entender como “Alcaldías” de la Ciudad de México, en tanto se armonice integralmente su contenido con lo dispuesto en la Constitución Política de la Ciudad de México.
 
 CUARTO: El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 29 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 134 BIS A LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Los (sic) Esterilizaciones Obligatorias Masivas y Gratuitas de Animales No Humanos, deberán iniciar, en un término no mayor a 90 días hábiles a partir de la aprobación del presente Decreto.
