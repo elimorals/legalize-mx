@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2018-05-18"
+last_updated: "2019-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE JULIO DE 2019 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -103,9 +105,17 @@ El Gobernador del Estado esta facultado para resolver las dudas que surjan sobre
 
 Asimismo, tendrá atribuciones para, en el ejercicio de sus funciones, emitir decretos administrativos tendientes a crear las dependencias y organismos auxiliares que resulten indispensables para el buen despacho del Poder Ejecutivo del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 8o.
 
-Para el ejercicio de sus funciones, el Gobernador del Estado se auxiliará, por lo menos, con una Secretaría Particular; las unidades administrativas, de asesoría, apoyo técnico y de coordinación que el mismo determine, de conformidad con el presupuesto de egresos.
+Para el ejercicio de sus funciones, el Gobernador del Estado contará con el apoyo directo, de una Jefatura de Oficina, una Secretaría Particular y las unidades administrativas, de asesoría, apoyo técnico y de coordinación que él mismo determine, de conformidad con el presupuesto de egresos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2019)</small>
+
+El Gobernador del Estado designará al Jefe de Oficina para sus tareas y para el seguimiento permanente de las políticas públicas y su evaluación periódica, con el objeto de aportar elementos para la toma de decisiones, sin perjuicio de las atribuciones que ejercen las dependencias y entidades de la Administración Pública Estatal en el ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 29 DE MAYO DE 2019)</small>
 
 Las atribuciones de estas unidades se determinarán en los acuerdos administrativos que para el efecto emita el Gobernador del Estado.
 
@@ -149,15 +159,29 @@ Los titulares de las dependencias ejercerán las funciones de su competencia en 
 
 Sin perjuicio de las atribuciones que éste u otros ordenamientos confieran a las dependencias, el Gobernador del Estado intervendrá directamente en los asuntos que juzgue necesario.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 16.
 
-El Gobernador designará la unidad administrativa responsable de ejercer la función de Consejería Jurídica y representación legal del Poder Ejecutivo en defensa de sus intereses.
+La función de Consejero Jurídico, estará a cargo del titular de la Consejería Jurídica del Gobernador, de quien dependerá directamente. Será nombrado y removido libremente por éste.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+En el reglamento interior de la Consejería se determinarán las atribuciones de las unidades administrativas, así como la forma de cubrir las ausencias y delegar facultades.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+###### Artículo 16 Bis.
+
+Las dependencias y entidades de la Administración Pública del Estado, previo cumplimiento de lo dispuesto en el primer párrafo del artículo 17 de esta Ley, enviarán a la Consejería Jurídica del Gobernador los proyectos de iniciativas de leyes o decretos que deban ser sometidos al Congreso del Estado, así como aquellos decretos, acuerdos, convenios y demás instrumentos normativos que requieran la firma del titular del Poder Ejecutivo, los cuales deberán ser remitidos cuando menos con un mes de anticipación a la fecha en que se pretendan suscribir, salvo la Ley de Ingresos y el Presupuesto de Egresos, y aquellos otros que por su notoria urgencia y a juicio del Gobernador, deban realizarse con manifiesta premura.
+
+Las dependencias y entidades de la Administración Pública del Estado proporcionarán oportunamente a la Consejería Jurídica del Gobernador la información y apoyo que requiera para el cumplimiento de sus funciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 17.
 
-Cada titular de las dependencias formulará, respecto de los asuntos de su competencia, los anteproyectos de leyes, reglamentos, decretos, convenios, acuerdos y demás disposiciones legales y, previo a su remisión al Ejecutivo, recabará la opinión del Secretario General de Gobierno, para su respectiva revisión.
+Cada titular de las dependencias y entidades de la Administración Pública del Estado formularán, respecto de los asuntos de su competencia, los anteproyectos de leyes, reglamentos, decretos, convenios, acuerdos y demás disposiciones legales y, previo a su remisión al Ejecutivo, recabará la opinión del Secretario General de Gobierno, para su respectiva revisión.
 
 Corresponderá al Gobernador del Estado autorizar con su firma el ordenamiento de que se trate y, con el respectivo refrendo, ordenar su publicación.
 
@@ -231,7 +255,9 @@ Sin detrimento de las atribuciones que correspondan a las diferentes dependencia
 
 I. Acordar con el Gobernador del Estado el despacho de los asuntos encomendados a las dependencias a su cargo y los del sector que le corresponda coordinar, así como recibir en acuerdo a los servidores públicos que les estén subordinados conforme a los reglamentos interiores, manuales administrativos, circulares vigentes.
 
-II. Planear, programar, organizar, coordinar y evaluar el funcionamiento de las unidades administrativas y de las entidades agrupadas sectorialmente en su Dependencia, conforme al Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+II. Planear, programar, organizar, coordinar y evaluar el funcionamiento de las unidades administrativas y de las entidades agrupadas sectorialmente en su Dependencia, conforme al Programa de Gobierno;
 
 III. Aprobar los programas anuales de la Dependencia a su cargo y de las entidades adscritas sectorialmente a ellas, para ser sometidos a consideración del Gobernador del Estado;
 
@@ -239,11 +265,9 @@ IV. Cumplir y hacer cumplir las políticas, acuerdos, órdenes, circulares y dem
 
 V. Fijar, dirigir y controlar las políticas de la Dependencia a su cargo, así como programar, coordinar y evaluar, en los términos de la legislación aplicable, las actividades de las entidades del sector que le corresponda coordinar;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
-
-VI. Proponer el anteproyecto de presupuesto de egresos de la Dependencia a su cargo y de las entidades del sector correspondiente, conforme a lo establecido en la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el Plan Estatal de Desarrollo y los programas derivados del mismo, remitiéndolos a la Secretaría de Administración y Finanzas, y en el caso de los proyectos de inversión a la Secretaría de Planeación, Programación y Presupuesto con la oportunidad que se solicite.
+VI. Proponer el anteproyecto de presupuesto de egresos de la Dependencia a su cargo y de las entidades del sector correspondiente, conforme a lo establecido en la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberá ser congruente con el Gran Plan Estatal de Desarrollo con visión estratégica de largo plazo, el Programa de Gobierno y los programas derivados de estos, remitiéndolos a la Secretaría de Administración y Finanzas, y en el caso de los proyectos de inversión a la Secretaría de Desarrollo Sustentable con la oportunidad que se solicite.
 
 El anteproyecto propuesto deberá contribuir a un balance presupuestario sostenible.
 
@@ -269,13 +293,9 @@ XIV. Atender, verificar y dar respuesta a las recomendaciones que señalen los o
 
 XV. Intervenir en los procedimientos judiciales y administrativos en que la Dependencia a su cargo sea parte o tengan interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos vigentes;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
-
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 XVI. Nombrar, designar, remover, cesar, cambiar de adscripción, comisionar y otorgar licencias, a los servidores públicos y empleados de la Dependencia a su cargo; y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.]</small>
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -291,25 +311,41 @@ I. Secretaría General de Gobierno;
 
 II. Secretaría de Administración y Finanzas;
 
-III. Secretaría de Planeación, Programación y Presupuesto;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-IV. Secretaría de Obras Públicas;
+III. Secretaría de Desarrollo Sustentable;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+IV. Secretaría de Infraestructura;
 
 V. Secretaría de Educación;
 
 VI. Secretaría de la Contraloría General;
 
-VII. Secretaría de Desarrollo Rural y Medio Ambiente;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-VIII. Secretaría del Trabajo, Productividad y Desarrollo Económico;
+VII. Secretaría de Desarrollo Rural;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+VIII. Secretaría de Economía;
 
 IX. Secretaría de Turismo;
 
 X. Secretaría de Salud;
 
-XI. Secretaría de Desarrollo Social, y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-XII. Secretaría de Seguridad Pública.
+XI. Secretaría de Bienestar e Igualdad Sustantiva;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XII. Secretaría de Seguridad y Protección Ciudadana, y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XIII. Secretaría de Movilidad y Transporte.
 
 ### CAPITULO II
 
@@ -365,7 +401,9 @@ XX. Llevar el registro de organismos públicos descentralizados, empresas de par
 
 XXI. Administrar el Periódico Oficial, Órgano del Gobierno del Estado, así como promover la compilación, archivo y supervisión de las publicaciones e impresiones oficiales;
 
-XXII. Llevar el registro y legalizar las firmas autógrafas de los servidores públicos estatales, de los presidentes, regidores y secretarios municipales, y de los demás servidores públicos a quienes esté encomendada la fe pública, así como de los funcionarios de la Universidad Autónoma de Nayarit y el de las demás autoridades educativas;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXII. Llevar el registro y legalizar las firmas autógrafas de los servidores públicos estatales, de los presidentes, regidores y secretarios municipales, y de los demás servidores públicos a quienes esté encomendada la fe pública;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
@@ -379,7 +417,7 @@ XXVI. Conocer, tramitar y resolver sobre el procedimiento relativo a la actuaci�
 
 XXVII. Administrar el Archivo General del Estado, normar y asesorar a las dependencias y entidades de la Administración Pública en la organización, control, registro y salvaguarda de sus archivos en activo y los que deben enviar a esta Secretaría;
 
-XXVIII. Coordinar y vigilar la radiodifusora cultural y el canal de televisión del Gobierno del Estado;
+XXVIII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
 XXIX. Supervisar lo relativo al control y funcionamiento de las profesiones, servicio social y actividades técnicas que se realizan en la entidad;
 
@@ -399,17 +437,13 @@ XXXIV. Impulsar la participación ciudadana para la atención de necesidades soc
 
 XXXV. Vigilar la observancia y aplicación de las disposiciones contenidas en el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-XXXVI. Organizar y supervisar a las policías de tránsito del Estado, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y los convenios respectivos;
+XXXVI. Ejercer las atribuciones que le confiera la ley en lo relacionado con la Comisión Técnica del Transporte;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2018)</small>
+XXXVII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-XXXVII. Administrar y vigilar el tránsito en las carreteras y caminos de jurisdicción estatal en los términos que señalen las leyes y reglamentos respectivos;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2018)</small>
-
-XXXVIII. Supervisar y controlar el tránsito vehicular y peatonal, conforme lo disponga la ley y los convenios respectivos;
+XXXVIII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
 XXXIX. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2008)
 
@@ -423,17 +457,17 @@ XLIII. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2009)
 
 XLIV. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2009)
 
-XLV. Organizar y supervisar el funcionamiento de la Defensoría de Oficio;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+XLV. Organizar y supervisar el funcionamiento de la Defensoría Pública y de Asistencia jurídica;
 
-XLVI. Presentar al Gobernador del Estado, para su aprobación, el Programa Estatal de Protección Civil para garantizar la seguridad de sus habitantes, y prestar toda clase de ayuda y apoyos a los órganos encargados de ejecutar los Programas Nacionales de Auxilio en caso de desastre y el de Protección Civil cuando intervengan dentro del Estado;
+XLVI. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
 XLVII. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2009)
 
 XLVIII. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2009)
 
-XLIX. Supervisar y controlar el servicio de transporte público en el estado y vigilar el cumplimiento de las disposiciones legales en materia de comunicaciones y transporte público local, con la intervención que corresponda a otras autoridades;
+XLIX. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
 L. Llevar el control y seguimiento de los convenios de coordinación y concertación suscritos con la Federación, los Ayuntamientos y los sectores social y privado, así como de aquellas disposiciones que dicte el Gobernador del Estado;
 
@@ -453,7 +487,9 @@ LVII. Intervenir en los procedimientos de expropiación en los términos que est
 
 LVIII. Tramitar los recursos administrativos que competan resolver al Gobernador del Estado y representarlo jurídicamente por sí o por medio de representante designado, en los juicios y procedimientos en que éste sea parte, a excepción de aquellos en los cuales intervenga el Gobernador del Estado y el propio Secretario, en términos de la ley, rendir los informes relativos a los amparos que se interpongan en su contra, cuando no estén señaladas estas facultades a otra Dependencia, ni se designare a otra persona para hacerlo;
 
-LIX. Formular, regular y conducir la política y las relaciones de comunicación social del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+LIX. Formular, regular y conducir la política y las relaciones del Poder Ejecutivo;
 
 LX. Fijar el calendario oficial y coadyuvar a la realización de los actos cívicos en el cumplimiento del mismo;
 
@@ -691,141 +727,205 @@ LXXXVIII.- Entregar la información financiera que solicite la Secretaría de Ha
 
 LXXXIX.- Las demás que le atribuyan las leyes, reglamentos, convenios y las que le delegue el Gobernador del Estado.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 20 DE SEPTIEMBRE DE 2017, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO PASANDO DE VEINTISIETE A VEINTIDÓS FRACCIONES.]</small>
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 34.
 
-A la Secretaría de Planeación, Programación y Presupuesto corresponden las siguientes atribuciones:
+A la Secretaría de Desarrollo Sustentable corresponden las siguientes atribuciones:
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+A. En materia de Programas y Proyectos de Inversión:
 
-I. Ejercer la rectoría del Estado en materia de planeación del desarrollo integral de la entidad, de conformidad con las leyes aplicables;
+I. Ejecutar en coordinación con el Instituto de Planeación del Estado de Nayarit, los instrumentos del Sistema Estatal de Planeación, brindando asesoría en materia de programación presupuestal;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+II. Coordinar con el Instituto de Planeación del Estado de Nayarit la Integración de los expedientes de inversión multianual, derivados de la cartera de proyectos estratégicos, para su integración en el Programa de Gobierno;
 
-II. Elaborar y proponer al Gobernador, los programas que requiera la entidad, con apego a las disposiciones legales aplicables;
+III. Coordinar con las Dependencias y Entidades, la integración del anteproyecto de presupuesto base cero de inversión multianual, derivado de la propuesta del programa de gobierno;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+IV. Recabar información en coordinación con las Dependencias y Entidades de la Administración Pública Estatal referente a la integración de los programas presupuestarios anuales para integrarse al proyecto general del presupuesto de egresos;
 
-III. Conducir la instrumentación del Sistema Estatal de Planeación Democrática;
+V. Establecer la coordinación y procesos necesarios para el Sistema de Gestión por Resultados, brindar asesoría y capacitación en coordinación con el Instituto de Planeación del Estado de Nayarit a las Dependencias y Entidades, para la integración de las Matrices e Indicadores de resultados, para los proyectos de inversión programados, en alineación con los instrumentos del Sistema Estatal de planeación;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+VI. Coordinar con las Dependencias y Entidades la integración de los informes de gobierno que deba presentar el titular del Ejecutivo;
 
-IV. Proponer las normas y lineamientos metodológicos del Sistema Estatal de Planeación, Programación y Presupuestación, así como los mecanismos para su seguimiento y evaluación;
+VII. Establecer el proyecto definitivo de asignación presupuestal y las estrategias financieras para su cumplimiento en coordinación con la Secretaría de Administración y Finanzas y el Instituto de Planeación, asegurando su coherencia con el Sistema Estatal de Planeación;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+VIII. Solicitar y procesar la información que deberán remitir las Dependencias y Entidades de la Administración Pública Estatal, respecto al destino y resultado de las asignaciones que a cada una corresponda; a efecto de verificar que las mismas cumplan con los objetivos y prioridades del Gran Plan Estatal de Desarrollo con visión estratégica de largo plazo y los Programas de Gobierno;
 
-V. Formular, coordinar y supervisar el Plan Estatal de Desarrollo, los programas sectoriales y regionales, así como los especiales que determine el Gobernador del Estado;
+IX. Analizar y proponer al Gobernador los proyectos de leyes, decretos, reglamentos, convenios y demás disposiciones, que permitan realizar una mejor programación presupuestal, y un mejor desempeño en la gestión de la inversión estratégica del Estado;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+X. Registrar el avance en la ejecución de los programas y el ejercicio del presupuesto de conformidad con la normatividad establecida y, en su caso, proponer las medidas necesarias para mantener la congruencia con los programas de desarrollo del Estado;
 
-VI. Concertar en el seno del Comité de Planeación para el Desarrollo del Estado de Nayarit, la participación de los sectores público, privado y social en la planeación del desarrollo integral de la entidad;
+XI. Colaborar en la aplicación de procedimientos para fortalecer la capacidad de los ayuntamientos en la ejecución de obras y servicios, y la transferencia de recursos federales a los mismos;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+XII. Elaborar y someter a la aprobación del Gobernador del Estado los programas y presupuestos de inversión pública federal, estatal y municipal que se concerten;
 
-VII. Coordinar los programas de desarrollo del Gobierno del Estado con los de la Administración Pública Federal y la de los Ayuntamientos de la entidad;
+XIII. Normar y Evaluar los análisis costo y beneficio de los programas o proyectos de inversión, así como integrar y administrar el registro de proyectos de inversión pública productiva del Estado, en ambos casos, de conformidad con los (sic) dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y las demás disposiciones que resulten aplicables;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+XIV. Participar en coordinación con la Secretaría de Administración y Finanzas, en la integración del anteproyecto general de criterios de política económica del Gobierno del Estado;
 
-VIII. Participar con las dependencias correspondientes, en la formulación de los planes y programas de desarrollo urbano y rural, y de protección ambiental;
+XV. Evaluar el avance, así como el comportamiento global y sectorial del ejercicio del presupuesto, en congruencia con los programas de desarrollo;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+XVI. Dar seguimiento y analizar los programas anuales de inversión y gasto público de las Dependencias y Organismos de la Administración Pública Estatal;
 
-IX. Establecer, operar y vigilar el Sistema Estatal de Estadística e Información Geográfica y Cartográfica;
+XVII. Asesorar y apoyar técnicamente a los ayuntamientos en aplicación, ejecución y evaluación de obras, servicios y recursos federales;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+XVIII. Participar en coordinación con la Secretaría de Administración y Finanzas, en la elaboración y actualización de los programas estatales de gasto e inversión pública;
 
-X. Diseñar las bases metodológicas y los mecanismos de participación de las dependencias y organismos para elaborar, ejecutar y evaluar el Plan Estatal de Desarrollo;
+XIX. Aprobar a las dependencias y entidades, todos los recursos de los programas y proyectos de inversión de las distintas fuentes de financiamiento federales y estatales, previo expediente técnico que se presente; y en su caso a los ayuntamientos cuando así corresponda; bajo principios de desarrollo sustentable, derechos humanos y perspectiva de género;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+XX. Instrumentar y ejecutar programas de capacitación para los servidores públicos del Estado y municipios en lo relativo a programas y proyectos de inversión;
 
-XI. Registrar el avance en la ejecución de los programas y el ejercicio del presupuesto de conformidad con la normatividad establecida y, en su caso, proponer las medidas necesarias para mantener la congruencia con los programas de desarrollo del Estado;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
-
-XII. Aplicar procedimientos para fortalecer la capacidad de los Ayuntamientos en la ejecución de obras y servicios, y la transferencia de recursos federales a los mismos;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
-
-XIII. Integrar los documentos e información para la planeación del desarrollo del Estado y promover o elaborar los estudios para definir y apoyar los criterios, métodos, técnicas y las bases de la planeación estatal;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
-
-XIV. Elaborar y someter a la aprobación del Gobernador del Estado los programas y presupuestos de inversión pública federal, estatal y municipal que se concerten;
-
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2018)</small>
-
-XIV Bis. Realizar el análisis costo y beneficio de los programas o proyectos de inversión, así como integrar y administrar el registro de proyectos de inversión pública productiva del Estado, en ambos casos, de conformidad con los dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y las demás disposiciones que resulten aplicables;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
-
-XV. Participar en coordinación con la Secretaría de Administración y Finanzas en la integración del anteproyecto general de criterios de política económica del Gobierno del Estado;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
-
-XVI. Evaluar el avance, así como el comportamiento global y sectorial del ejercicio del presupuesto, en congruencia con los programas de desarrollo;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
-
-XVII. Dar seguimiento y analizar los programas anuales de inversión y gasto público de las dependencias y organismos de la Administración Pública Estatal;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
-
-XVIII. Orientar a las dependencias y entidades de la Administración Pública Estatal para que sus programas y acciones concurran al cumplimiento de los objetivos y metas contenidos en el Plan Estatal de Desarrollo;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
-
-XIX. Asesorar y apoyar técnicamente a los Ayuntamientos en la elaboración de sus planes y programas de desarrollo, así como en la aplicación, ejecución y evaluación de obras, servicios y recursos federales;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
-
-XX. Participar en coordinación con la Secretaría de Administración y Finanzas en la elaboración y actualización de los programas estatales de gasto e inversión pública;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE SEPTIEMBRE DE 2017)</small>
-
-XXI. Instrumentar y ejecutar programas de capacitación para los servidores públicos del Estado y municipios en lo relativo a la planeación, programación y presupuestación, y
-
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+XXI. Asesorar a las dependencias y entidades de la administración pública estatal, así como a los municipios en la formulación y gestión de proyectos de inversión pública, privada o mixta, derivados de los instrumentos de planeación, y
 
 XXII. Las demás que le atribuyan las leyes, reglamentos, convenios, y las que le confiera el Gobernador del Estado.
 
+B. En materia de Medio Ambiente:
+
+I. Ejecutar las políticas estatales en materia de medio ambiente, equilibrio ecológico y adaptación al cambio climático;
+
+II. Vigilar que los programas que se realicen en materia forestal de la flora y de la fauna, contengan criterios ecológicos para conservar y restaurar el medio ambiente en los términos de las leyes aplicables;
+
+III. Colaborar con la Secretaría de Desarrollo Rural en los programas de clasificación y evaluación del suelo para lograr su conservación, mejoramiento, zonificación y uso adecuados;
+
+IV. Colaborar en los proyectos de inversión, que fomenten la modernización del sistema forestal;
+
+V. Promover la creación de proyectos bilaterales de investigación, capacitación, asesoría y fomento de la actividad forestal; con organismos nacionales e internacionales;
+
+VI. Participar en la definición de las políticas de protección, restauración y conservación de los recursos naturales de la entidad, así como de mitigación y adaptación al cambio climático, fomentando el aprovechamiento sustentable de los recursos naturales y culturales ante la sociedad, la prevención y disminución de la contaminación ambiental e impulsar la educación ambiental y reducir la vulnerabilidad ante el cambio climático, en coordinación con las demás dependencias del Poder Ejecutivo del Estado;
+
+VII. Fomentar la elaboración y aplicación de programas especiales para preservar, restaurar y fortalecer el equilibrio ecológico y la protección al ambiente, así como para disminuir la fragilidad ambiental de los ecosistemas, propiciando el aprovechamiento y uso sustentable del medio ambiente y los recursos naturales, gestionando la participación que le corresponda a otras dependencias del Poder Ejecutivo Estatal y a los gobiernos municipales, en congruencia con las disposiciones federales;
+
+VIII. Coordinar las acciones y medidas necesarias de protección al ambiente, con el fin de preservar, restaurar y fortalecer el equilibrio ecológico y disminuir la fragilidad ambiental de los ecosistemas del Estado, en acuerdo con el gobierno federal, las dependencias del Poder Ejecutivo Estatal y los gobiernos municipales, de conformidad con la distribución de competencias en la materia;
+
+IX. Certificar el cumplimiento cabal de la normatividad ambiental y la aplicación de criterios de protección, restauración y aprovechamiento sustentable de los recursos naturales, así como de prevención y disminución de la contaminación ambiental;
+
+X. Gestionar ante las dependencias federales, estatales y municipales, los particulares y la sociedad organizada, su participación en la realización, aprobación y acatamiento del ordenamiento ecológico regional del territorio estatal, asegurando su observancia permanente;
+
+XI. Participar en coordinación con los gobiernos municipales, en la regulación ambiental de los asentamientos humanos;
+
+XII. Evaluar el impacto ambiental de aquellas obras y actividades que no sean competencia de la Federación o de los gobiernos municipales, emitir los dictámenes correspondientes y asegurar su cumplimiento;
+
+XIII. Elaborar las propuestas de modificaciones y adecuaciones que resulten pertinentes a las disposiciones reglamentarias y normativas en materia ambiental, atendiendo los lineamientos existentes en materia de mejora regulatoria;
+
+XIV. Asegurar el exacto cumplimiento de las disposiciones estatales en materia ambiental a través de los procedimientos administrativos que correspondan, imponiendo las medidas de seguridad, correctivas o de urgente aplicación y, en su caso, las sanciones procedentes;
+
+XV. Promover la incorporación de contenidos ambientales y de cambio climático en las políticas educativas del Estado; así como la formación de actitudes y valores de protección y conservación del patrimonio natural, concertando institucionalmente la capacitación de todos los sectores de la sociedad, con actividades dinámicas de información y educación ambiental, para contribuir, de manera acelerada a integrar las acciones de mejoramiento del ambiente, encauzadas hacia el desarrollo sustentable del Estado;
+
+XVI. Estructurar y mantener actualizada la información ambiental del Estado, en coordinación con las dependencias y organismos del Poder Ejecutivo Estatal que correspondan, con la participación de los gobiernos municipales;
+
+XVII. Normar ante los particulares la realización de procesos de autorregulación y auditorías ambientales, supervisando su ejecución, con el apoyo que corresponda de los gobiernos municipales;
+
+XVIII. Realizar las declaratorias de las áreas naturales protegidas de interés estatal, y aprobar los programas de aprovechamiento conforme lo dispongan las leyes en materia de equilibrio ecológico, protección al ambiente, y las demás disposiciones aplicables;
+
+XIX. Conformar y operar el Sistema Estatal de Áreas Naturales Protegidas en el Estado, con la participación que corresponda a los gobiernos municipales;
+
+XX. Formular y gestionar programas y acciones de fomento para el aprovechamiento y uso sustentable de los recursos naturales de la entidad, prevenir, controlar y reducir la contaminación de la atmósfera, suelo y aguas, así como acciones de mitigación y adaptación al cambio climático;
+
+XXI. Evaluar la calidad del ambiente y operar sistemas de monitoreo atmosférico, de suelos y de aguas de jurisdicción estatal, con la cooperación de los gobiernos municipales y las instituciones de investigación y de educación superior;
+
+XXII. Promover la participación social y de la comunidad científica en la gestión de la política ambiental y de cambio climático;
+
+XXIII. Ejecutar y resolver los actos administrativos de inspección y vigilancia que dispongan las leyes estatales en materia de equilibrio ecológico y protección al ambiente y resolver los recursos de revisión que formulen los particulares de conformidad con las disposiciones aplicables;
+
+XXIV. Ejercer las atribuciones y funciones que en materia ambiental contengan los convenios celebrados con la federación y los gobiernos municipales;
+
+XXV. Formular y gestionar acciones de mitigación y adaptación al cambio climático, en el ámbito de competencia del Estado;
+
+XXVI. Instrumentar el programa en materia de cambio climático, promoviendo la participación social de los sectores público, privado y sociedad en general;
+
+XXVII. Fomentar la investigación científica y tecnológica, el desarrollo, transferencia y despliegue de tecnologías, equipos y procesos para la mitigación y adaptación al cambio climático;
+
+XXVIII. Formular y gestionar programas y proyectos integrales de mitigación de emisiones de gases de efecto invernadero;
+
+XXIX. Elaborar e integrar la información de las categorías de fuentes emisoras en el Estado e integrar el inventario estatal de emisiones;
+
+XXX. Gestionar y administrar fondos estatales para apoyar e implementar las acciones de mitigación y adaptación al cambio climático;
+
+XXXI. Colaborar con la Comisión Estatal del Agua en la formulación y gestión de políticas para la administración integral del agua en el Estado, y
+
+XXXII. Las demás que le atribuyan las leyes, reglamentos, convenios, y las que le confiera el Gobernador del Estado.
+
+C. En materia de Desarrollo Urbano y Ordenamiento Territorial:
+
+I. Ejecutar las políticas estatales de asentamientos humanos, desarrollo urbano y ordenamiento territorial;
+
+II. Colaborar con el Instituto de Planeación del Estado de Nayarit en la formulación de los instrumentos de desarrollo urbano y ordenamiento territorial;
+
+III. Aplicar, verificar e inspeccionar el cumplimiento de las disposiciones legales en materia de asentamientos humanos, desarrollo urbano y ordenamiento territorial, a las que deben sujetarse los sectores público, social y privado;
+
+IV. Colaborar con las autoridades Federales, así como asesorar y fomentar a las autoridades Estatales y Municipales competentes en la conservación de Bienes y Áreas de Protección del Patrimonio Cultural Edificado del Estado y sus Municipios;
+
+V. Dictaminar, verificar e inspeccionar el cumplimiento de las normas técnicas sobre usos, destinos y reservas del suelo en la competencia del Estado;
+
+VI. Colaborar con el Instituto de Planeación del Estado de Nayarit, en el establecimiento de las normas técnicas para el equipamiento e infraestructura urbana dentro de los instrumentos de desarrollo urbano y ordenamiento territorial;
+
+VII. Establecer y gestionar las normas para el control del desarrollo urbano y el ordenamiento territorial en apego a lo determinado por los instrumentos de planeación en la materia;
+
+VIII. Colaborar con las dependencias Estatales y Municipales en la gestión de las políticas de conservación, mejoramiento y crecimiento de los centros de población y de las áreas de protección del patrimonio natural y cultural edificado;
+
+IX. Organizar y fomentar las investigaciones relacionadas con asentamientos humanos, desarrollo urbano y ordenamiento territorial;
+
+X. Colaborar con el Instituto de Planeación del Estado de Nayarit en el establecimiento del Sistema de Información Territorial y Urbano;
+
+XI. Colaborar en la formulación y gestión de las políticas de movilidad sustentable del Estado;
+
+XII. Asesorar a los municipios en la autorización para la construcción de fraccionamientos y desarrollos inmobiliarios;
+
+XIII. Colaborar con el Instituto Promotor de la Vivienda de Nayarit y los municipios en la formulación y gestión de proyectos para la vivienda social y popular, así como para la integración de reserva territorial para el desarrollo urbano;
+
+XIV. Participar en las instancias de gestión de las zonas metropolitanas en el Estado en el ejercicio de sus atribuciones;
+
+XV. Participar en el Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano en el ámbito de sus atribuciones, y
+
+XVI. Las demás que le atribuyan las leyes, reglamentos, convenios, y las que le confiera el Gobernador del Estado en materia de desarrollo urbano y ordenamiento territorial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 35.
 
-A la Secretaría de Obras Públicas le corresponden las siguientes atribuciones:
+A la Secretaría de Infraestructura le corresponden las atribuciones siguientes:
 
-I. Formular, regular, ejecutar y evaluar la política estatal en materia de asentamientos humanos, desarrollo urbano, ordenamiento territorial, obras públicas, vivienda, protección al ambiente y prestación de servicios públicos;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-II. Coordinarse con los Ayuntamientos del estado en la ejecución de los planes de desarrollo urbano y asesorarlos en materia de construcción y conservación de obras y organización, administración y prestación de servicios públicos;
+I. Ejecutar la política estatal en materia de obras públicas, vivienda y prestación de servicios públicos;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+II. Coordinarse con los Ayuntamientos del estado y asesorarlos en materia de construcción y conservación de obras y organización, administración y prestación de servicios públicos;
 
 III. Formular y dar a conocer al Gobernador del Estado el programa anual de obras y servicios públicos y establecer y vigilar las estrategias y acciones necesarias para su debido cumplimiento;
 
-IV. Definir y proponer las obras y servicios que deban llevarse a cabo, a partir del Plan Estatal de Desarrollo, de las demandas formuladas al Gobernador del Estado en las comunidades por grupos de población;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+IV. Definir y proponer las obras y servicios que deban llevarse a cabo, a partir del Programa de Gobierno, de las demandas formuladas al Gobernador del Estado en las comunidades por grupos de población;
 
 V. Realizar y supervisar, directamente o a través de terceros, la construcción de obra pública que emprenda el Gobierno del Estado, por sí o en coordinación con la Federación, con los ayuntamientos o con los particulares, conforme a las leyes y reglamentos de la materia;
 
 VI. Establecer normas y lineamientos generales en materia de obra pública;
 
-VII. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de obra pública, asentamientos humanos, desarrollo urbano y protección al ambiente, a que deben sujetarse los sectores público, social y privado;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-VIII. Coadyuvar con las autoridades competentes, en la conservación de zonas arqueológicas, sitios históricos de interés cultural y zonas típicas o de belleza natural, así como en la ejecución de obras públicas y en los Programas de Desarrollo Urbano y Ecología;
+VII. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de obra pública, a que deben sujetarse los sectores público, social y privado;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+VIII. Coadyuvar con las autoridades competentes, en la conservación de zonas arqueológicas, sitios históricos de interés cultural y zonas típicas o de belleza natural, así como en la ejecución de obras públicas;
 
 IX. Expedir las bases a que deban sujetarse los concursos para la ejecución de las obras a su cargo, así como adjudicarlas, cancelarlas y vigilar el cumplimiento de los contratos que celebre conforme a la normatividad vigente;
 
 X. Participar conforme a la normatividad en los asuntos de expropiación, ocupación temporal, limitación de dominio y por concepto de derecho de vías de jurisdicción estatal;
 
-XI. Convenir con los Ayuntamientos y la Federación, la elaboración y ejecución de los programas de uso de suelo urbano y de reservas territoriales;
+XI. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-XII. Dictar y vigilar el cumplimiento de las normas técnicas sobre usos y destino del suelo para obras públicas;
+XII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-XIII. Elaborar programas y proyectos integrales de carácter regional, subregional o parcial en materia de Desarrollo Urbano, concertando y coordinando su realización con las autoridades federales, o municipales que pudieran tener competencia en dichos proyectos;
+XIII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-XIV. Establecer en los programas integrales de desarrollo urbano, estrategias de desarrollo de infraestructura urbana y todas aquellas que resulten necesarias para su ejecución;
+XIV. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
 XV. Coordinar, promover y ejecutar los programas de regularización de la tenencia de la tierra;
 
-XVI. Promover en coordinación con los Ayuntamientos del estado, el equilibrio del desarrollo urbano con una adecuada planeación de los asentamientos humanos;
+XVI. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
 XVII. Formular y operar a través del organismo correspondiente los planes y programas de agua potable, drenaje, alcantarillado y saneamiento;
 
@@ -833,7 +933,9 @@ XVIII. Reconstruir y conservar el patrimonio histórico y cultural del estado en
 
 XIX. Formular y ejecutar los programas y proyectos en materia de comunicaciones y transportes en el ámbito de su competencia;
 
-XX. Establecer las normas técnicas y aprobar los estudios de factibilidad de vialidades a fin de que se cumplan las disposiciones legales relativas a desarrollo urbano, obra pública y protección al ambiente;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XX. Establecer las normas técnicas y aprobar los estudios de factibilidad de vialidades a fin de que se cumplan las disposiciones legales relativas a la obra pública;
 
 XXI. Construir, administrar, operar, ampliar y conservar en su caso, directamente o mediante concesión a particulares las carreteras, caminos vecinales y demás vías de comunicación de jurisdicción estatal, tanto libres como de cuota;
 
@@ -843,33 +945,35 @@ XXIII. Ejecutar y promover acciones para el mejoramiento de la infraestructura u
 
 XXIV. Proteger la infraestructura urbana en la ejecución y supervisión de los proyectos de obra pública de su competencia;
 
-XXV. Elaborar, revisar, ejecutar y vigilar el Programa Estatal de Desarrollo Urbano;
+XXV. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-XXVI. Normar los criterios de vivienda en el estado a través de los programas de desarrollo urbano, de ordenamiento ambiental y demás disposiciones legales aplicables, con el objeto de respetar la vocación natural del suelo y buscar su integración al entorno ecológico;
+XXVI. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
 XXVII. Formular y desarrollar, en coordinación con las autoridades educativas de la Entidad y con los sectores social y privado, los programas de promoción y educación que fortalezcan la cultura de protección al ambiente entre los habitantes del estado;
 
-XXVIII. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de ecología y protección al ambiente atribuidas al Ejecutivo Estatal;
+XXVIII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-XXIX. Formular en términos de ley en coordinación con los Ayuntamientos del estado, los proyectos de declaratorias sobre el destino de sus provisiones y reservas territoriales;
+XXIX. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
 XXX. Declarar, administrar, controlar y vigilar las áreas naturales protegidas, reservas ecológicas y parques naturales estatales;
 
-XXXI. Formular, conducir, normar, regular y ejecutar la política de protección al ambiente en el estado, con la participación de los municipios, en congruencia con los programas de la Federación;
+XXXI. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-XXXII. Establecer medidas y criterios para la prevención y control de residuos y emisiones generadas por fuentes contaminantes;
+XXXII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-XXXIII. Establecer sistemas de verificación ambiental y monitoreo de contaminantes;
+XXXIII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
 XXXIV. Aplicar y ejecutar los programas y la normatividad para el manejo y disposición final de residuos industriales, desechos tóxicos y aguas residuales;
 
-XXXV. Emitir dictámenes técnicos para cuantificar el daño causado al ambiente;
+XXXV. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
 XXXVI. Promover la participación de la sociedad en la formulación, aplicación y vigencia de la política ambiental y concertar acciones e inversiones con los diversos sectores, para la protección, conservación y restauración de los ecosistemas del estado;
 
 XXXVII. Normar y regular en el ámbito de su competencia, las acciones para el aprovechamiento racional de los recursos naturales del estado así como para restaurar el equilibrio ecológico y proteger al ambiente;
 
-XXXVIII. Organizar y fomentar las investigaciones relacionadas con la vivienda, obra pública, desarrollo urbano y protección al ambiente;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXXVIII. Organizar y fomentar las investigaciones relacionadas con la vivienda y obra pública;
 
 XXXIX. Vigilar el uso, reparación, mantenimiento y control de la maquinaria y equipo a su cargo;
 
@@ -983,9 +1087,9 @@ III. Vigilar que se cumplan las normas relativas a la planeación, presupuestaci
 
 IV. Aportar elementos de juicio para el control y seguimiento de los objetivos y prioridades del Plan Estatal de Desarrollo y los programas correspondientes;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-V. Expedir las normas, políticas y procedimientos generales que en materia de control, evaluación y desarrollo administrativo deberán observar las dependencias y entidades de la Administración Pública Estatal en el desarrollo y cumplimiento de sus atribuciones en coordinación con las Secretarías de Administración y Finanzas y de Planeación, Programación y Presupuesto;
+V. Expedir las normas, políticas y procedimientos generales que en materia de control, evaluación y desarrollo administrativo deberán observar las dependencias y entidades de la Administración Pública Estatal en el desarrollo y cumplimiento de sus atribuciones en coordinación con las Secretarías de Administración y Finanzas y de Desarrollo Sustentable;
 
 VI. Solicitar a las dependencias o entidades de la Administración Pública Estatal, la instrumentación de normas, políticas y procedimientos que aseguren el control y eficiencia de las actividades encomendadas;
 
@@ -1187,37 +1291,43 @@ Los titulares de las unidades encargadas de la función de auditoría de la Secr
 
 Con base en dichos informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Local Anticorrupción, tanto las dependencias y entidades, así como la Secretaría de la Contraloría General, implementarán las acciones pertinentes para mejora de la gestión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 38.
 
-A la Secretaría de Desarrollo Rural y Medio Ambiente le corresponden las siguientes atribuciones:
+A la Secretaría de Desarrollo Rural le corresponden las siguientes atribuciones:
 
-I. Proponer al Gobernador del Estado la política de desarrollo rural y planear, fomentar y promover el desarrollo agrícola, ganadero, forestal, pesquero, hidráulico y agroindustrial del estado, con la participación de los sectores social y privado, conforme a las leyes y convenios de la materia; así como intervenir en la atención y solución de los problemas agrarios en el estado;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+I. Proponer al Gobernador del Estado la política de desarrollo rural y planear, fomentar y promover el desarrollo agrícola, ganadero, pesquero, hidráulico y agroindustrial del estado, con la participación de los sectores social y privado, conforme a las leyes y convenios de la materia; así como intervenir en la atención y solución de los problemas agrarios en el Estado;
 
 II. Ejercer por delegación del Gobernador del Estado las atribuciones y funciones que en materia agrícola, ganadera, forestal, pesquera y agroindustrial contengan los convenios firmados con el gobierno federal, con los municipios del estado o con otras entidades federativas;
 
-III. Promover y apoyar la formación de asociaciones, comités o patronatos de carácter público, privado o mixto, cuyo propósito sea el desarrollo agrícola, ganadero, forestal, pesquero hidráulico y agroindustrial en el estado;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+III. Promover y apoyar la formación de asociaciones, comités o patronatos de carácter público, privado o mixto, cuyo propósito sea el desarrollo agrícola, ganadero, pesquero, hidráulico y agroindustrial en el estado;
 
 IV. Realizar estudios que permitan diagnosticar la situación del campo, por comunidades y zonas, y de cuyos resultados se obtengan proyectos y programas viables que tiendan a fomentar la producción, productividad, industrialización y comercialización agropecuaria.
 
-V. Proponer, apoyar y ejecutar la realización de obras de infraestructura agrícola, ganadera, pesquera, forestal, y agroindustrial, en coordinación con el gobierno federal, con los municipios y organizaciones de productores de la entidad;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+V. Proponer, apoyar y ejecutar la realización de obras de infraestructura agrícola, ganadera, pesquera y agroindustrial, en coordinación con el gobierno federal, con los municipios y organizaciones de productores de la entidad;
 
 VI. Coadyuvar en el cumplimiento de la Ley Forestal;
 
-VII. Vigilar que los programas que se realicen en materia agropecuaria, pesquera, forestal de la flora y de la fauna, contengan criterios ecológicos para conservar y restaurar el medio ambiente en los términos de las leyes aplicables;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+VII. Vigilar que los programas que se realicen en materia agropecuaria y pesquera, contengan criterios ecológicos para conservar y restaurar el medio ambiente en los términos de las leyes aplicables;
 
 VIII. Establecer programas y acciones que tiendan a incrementar la productividad y la rentabilidad de las actividades rurales en la entidad;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 IX. Participar, colaborar, coordinar y gestionar con las autoridades federales, estatales y municipales competentes, la celebración de convenios en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el fomento a la producción rural en la entidad a que pertenezcan, así como para evaluar sus resultados;
 
-X. Coadyuvar en la organización y promoción de congresos, ferias, exposiciones, y concursos agrícolas ganaderos, forestales y pesqueros en el estado, así como promover la participación de productores del estado en eventos de carácter nacional e internacional;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+X. Coadyuvar en la organización y promoción de congresos, ferias, exposiciones, y concursos agrícolas ganaderos y pesqueros en el Estado, así como promover la participación de productores del Estado en eventos de carácter nacional e internacional;
 
 XI. Coadyuvar en las acciones para el aprovechamiento hidráulico en las cuencas hidrográficas, vasos, manantiales y aguas en la Entidad, de acuerdo con los ordenamientos legales aplicables;
 
@@ -1227,203 +1337,93 @@ XIII. Elaborar y mantener actualizados los inventarios de los recursos agrícola
 
 XIV. Mantener actualizados los directorios de productores agrícolas, ganaderos, forestales y pesqueros del estado, así como el padrón de agroindustrias;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XV. Realizar estudios y proyectos para la construcción o reconstrucción de la infraestructura necesaria para apoyar las actividades agrícolas, ganaderas, forestales, pesqueras y agroindustriales en el Estado, ya sea en forma directa o a través de la contratación o subcontratación de los servicios de empresas públicas o privadas;
 
 XVI. Conservar y fomentar el desarrollo de la flora y la fauna fluvial y lacustre en el estado;
 
-XVII. Coadyuvar en los proyectos de inversión, que fomenten la modernización de los sistemas productivos, agrícolas, ganaderos, forestales pesqueros e hidráulico;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XVII. Coadyuvar en los proyectos de inversión, que fomenten la modernización de los sistemas productivos, agrícolas, ganaderos, pesqueros e hidráulicos;
 
 XVIII. Servir de órgano de consulta y asesoría agrícola, ganadera, forestal y pesquera, para el establecimiento de industrias relacionadas con estas actividades;
 
-XIX. Promover la creación de proyectos bilaterales de investigación, capacitación, asesoría y fomento de la actividad agrícola, ganadera, forestal y pesquera; con organismos nacionales e internacionales;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XIX. Promover la creación de proyectos bilaterales de investigación, capacitación, asesoría y fomento de la actividad agrícola, ganadera, y pesquera; con organismos nacionales e internacionales;
 
 XX. Concertar con instituciones de investigación y enseñanza, consultores, técnicos, productores e industriales, el desarrollo, validación e introducción de tecnologías de punta en las actividades agrícolas, ganaderas, forestales y pesqueras del estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXI. Coordinar con el gobierno federal y con las entidades federativas los programas de sanidad animal y vegetal, así como atender, supervisar y evaluar las campañas de sanidad del Estado, con la participación de los gobiernos municipales y del sector privado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXII. Establecer centros de rendimiento agropecuario y pesquero en el territorio del Estado, que permitan acercar los programas y acciones a los productores, para incrementar la productividad y la rentabilidad de las actividades rurales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XXIII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+XXIV. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-XXIII. Participar en la elaboración del Plan Estatal de Desarrollo, definiendo las políticas de protección, restauración y conservación de los recursos naturales de la entidad, así como de mitigación y adaptación al cambio climático, fomentando el aprovechamiento sustentable de los recursos naturales y culturales ante la sociedad, la prevención y disminución de la contaminación ambiental e impulsar la educación ambiental y reducir la vulnerabilidad ante el cambio climático, en coordinación con las demás dependencias del Poder Ejecutivo del Estado;
+XXV. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XXVI. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+XXVII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-XXIV. Fomentar la elaboración y aplicación de programas especiales para preservar, restaurar y fortalecer el equilibrio ecológico y la protección al ambiente, así como para disminuir la fragilidad ambiental de los ecosistemas, propiciando el aprovechamiento y uso sustentable del medio ambiente y los recursos naturales, gestionando la participación que le corresponda a otras dependencias del Poder Ejecutivo Estatal y a los gobiernos municipales, en congruencia con las disposiciones federales;
+XXVIII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XXIX. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+XXX. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-XXV. Proponer y coordinar las acciones y medidas necesarias de protección al ambiente, con el fin de preservar, restaurar y fortalecer el equilibrio ecológico y disminuir la fragilidad ambiental de los ecosistemas del Estado, en acuerdo con el gobierno federal, las dependencias del Poder Ejecutivo Estatal y los gobiernos municipales, de conformidad con la distribución de competencias en la materia;
+XXXI. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XXXII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+XXXIII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-XXVI. Promover y certificar el cumplimiento cabal de la normatividad ambiental y la aplicación de criterios de protección, restauración y aprovechamiento sustentable de los recursos naturales, así como de prevención y disminución de la contaminación ambiental;
+XXXIV. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XXXV. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+XXXVI. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-XXVII. Gestionar ante las dependencias federales, estatales y municipales, los particulares y la sociedad organizada, su participación en la realización, aprobación y acatamiento del ordenamiento ecológico regional del territorio estatal, asegurando su observancia permanente;
+XXXVII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XXXVIII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+XXXIX. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-XXVIII. Participar en coordinación con los gobiernos municipales, en la regulación ambiental de los asentamientos humanos;
+XL. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XLI. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+XLII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-XXIX. Evaluar el impacto ambiental de aquellas obras y actividades que no sean competencia de la Federación o de los gobiernos municipales, emitir los dictámenes correspondientes y asegurar su cumplimiento;
+XLIII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XLIV. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+XLV. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-XXX. Elaborar las propuestas de modificaciones y adecuaciones que resulten pertinentes a las disposiciones reglamentarias y normativas en materia ambiental, atendiendo los lineamientos existentes en materia de mejora regulatoria;
+XLVI. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XLVII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XXXI. Asegurar el exacto cumplimiento de las disposiciones estatales en materia ambiental a través de los procedimientos administrativos que correspondan, imponiendo las medidas de seguridad, correctivas o de urgente aplicación y, en su caso, las sanciones procedentes;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XXXII. Promover en coordinación con la Secretaría de Educación, la incorporación de contenidos ambientales y de cambio climático en la política educativa del Estado, y en los planes y programas de estudios; así como la formación de actitudes y valores de protección y conservación del patrimonio natural, concertando institucionalmente la capacitación de todos los sectores de la sociedad, con actividades dinámicas de información y educación ambiental, para contribuir, de manera acelerada a integrar las acciones de mejoramiento del ambiente, encauzadas hacia el desarrollo sustentable del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XXXIII. Estructurar y mantener actualizada la información ambiental del Estado, en coordinación con las dependencias y organismos del Poder Ejecutivo Estatal que correspondan, con la participación de los gobiernos municipales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XXXIV. Fomentar ante los particulares la realización de procesos voluntarios de autorregulación y auditorías ambientales, supervisando su ejecución, con el apoyo que corresponda de los gobiernos municipales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XXXV. En coordinación con autoridades federales, estatales y municipales, y otorgando la participación que corresponda a las universidades, centros de investigación y los particulares, promover las declaratorias de las áreas naturales protegidas de interés estatal, y aprobar los programas de aprovechamiento conforme lo dispongan las leyes en materia de equilibrio ecológico, protección al ambiente, y las demás disposiciones aplicables;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XXXVI. Conformar y planear la operación del Sistema Estatal de Áreas Naturales Protegidas en el Estado, con la participación que corresponda a los gobiernos municipales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XXXVII. Participar con las autoridades federales, estatales y municipales que correspondan, de conformidad a la distribución de competencias que establecen las leyes en materia de equilibrio ecológico y protección al ambiente y de cambio climático, en la formulación y desarrollo de programas y acciones de fomento para el aprovechamiento y uso sustentable de los recursos naturales de la entidad, prevenir, controlar y reducir la contaminación de la atmósfera, suelo y aguas, así como acciones de mitigación y adaptación al cambio climático;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XXXVIII. Evaluar la calidad del ambiente y operar sistemas de monitoreo atmosférico, de suelos y de aguas de jurisdicción estatal, con la cooperación de los gobiernos municipales y las instituciones de investigación y de educación superior;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XXXIX. Promover la participación social y de la comunidad científica en la formulación y aplicación de la política ambiental y de cambio climático;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XL. Ejecutar y resolver los actos administrativos de inspección y vigilancia que dispongan las leyes estatales en materia de equilibrio ecológico y protección al ambiente y resolver los recursos de revisión que formulen los particulares de conformidad con las disposiciones aplicables;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XLI. Ejercer por acuerdo del Gobernador del Estado, las atribuciones y funciones que en materia ambiental contengan los convenios celebrados con la federación y los gobiernos municipales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XLII. Formular, regular, dirigir e instrumentar acciones de mitigación y adaptación al cambio climático, en el ámbito de competencia del Estado conforme a la Ley General de la materia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XLIII. Elaborar e instrumentar su programa en materia de cambio climático, promoviendo la participación social, escuchando y atendiendo a los sectores público, privado y sociedad en general, estableciendo metas e indicadores de efectividad e impacto de las acciones de mitigación y adaptación que se implementen;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XLIV. Fomentar la investigación científica y tecnológica, el desarrollo, transferencia y despliegue de tecnologías, equipos y procesos para la mitigación y adaptación al cambio climático;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XLV. Desarrollar estrategias, programas y proyectos integrales de mitigación de emisiones de gases de efecto invernadero, para impulsar el transporte eficiente y sustentable, público y privado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XLVI. Elaborar e integrar la información de las categorías de fuentes emisoras en el Estado e integrar el inventario estatal de emisiones;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XLVII. Establecer las bases e instrumentos para promover el fortalecimiento de capacidades institucionales y sectoriales, para enfrentar al cambio climático;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
-
-XLVIII. Gestionar y administrar fondos estatales para apoyar e implementar las acciones de mitigación y adaptación al cambio climático, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XLVIII. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XLIX. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 39.
 
-A la Secretaría del Trabajo, Productividad y Desarrollo Económico le corresponden las siguientes atribuciones:
+A la Secretaría de Economía le corresponden las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1445,19 +1445,13 @@ IV. Promover y apoyar la relación con empresarios locales, nacionales y extranj
 
 V. Generar y difundir en el estado una cultura empresarial, basada en parámetros de competitividad internacional;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 VI. Fomentar el incremento de la productividad y calidad en el trabajo entre los sectores de la producción y en coordinación con la Secretaría de Educación, promover el desarrollo de la capacitación y el adiestramiento para el trabajo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2014)</small>
 
 VII. Procurar el equilibrio entre los factores de la producción de conformidad con las disposiciones legales aplicables;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
@@ -1527,173 +1521,155 @@ XXIII. Formular y proponer mecanismos para el fomento y protección del sector c
 
 XXIV. Coadyuvar en la ejecución de los diversos programas que provengan de subsidios Federales o Estatales referentes a las actividades productivas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XXV. Fomentar la creación de consejos consultivos que coadyuven con la Secretaría en el debido cumplimiento de sus atribuciones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
-
-XXVI. Elaborar y desarrollar programas de trabajo y empleo, de acuerdo con el Plan Estatal de Desarrollo:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXVI. Elaborar y desarrollar programas de trabajo y empleo, de acuerdo con el Programa de Gobierno;
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XXVII. Establecer, presidir y dirigir el Servicio Estatal de Empleo y vigilar su funcionamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XXVIII. Diseñar alianzas estratégicas para la generación de empleo y productividad;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XXIX. Instrumentar acciones que mejoren las condiciones laborales de las mujeres;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XXX. Vigilar el cumplimiento de las disposiciones legales que prohíban la discriminación laboral;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XXXI. Promover la integración laboral de las personas recluidas en los centros de readaptación social que hayan mostrado capacitación en el trabajo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XXXII. Promover la intervención en los sectores productivos para la inclusión laboral de las personas adultas mayores o con discapacidad;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XXXIII. Aplicar políticas públicas para combatir la explotación laboral de menores;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XXXIV. Promover e impulsar el desarrollo social, cultural y recreativo entre los trabajadores y sus familias;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XXXV. Organizar, dirigir, ordenar y supervisar los servicios de visita de verificación y de inspección que le correspondan, para comprobar el cumplimiento de las disposiciones legales y reglamentarias, en los ámbitos de su competencia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XXXVI. Coadyuvar con las autoridades federales a la aplicación y vigilancia de las normas de trabajo y poner a su disposición la información que soliciten para el cumplimiento de sus funciones;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XXXVII. Coordinar el funcionamiento de la Junta Local y las Juntas Especiales de Conciliación y Arbitraje, de las comisiones que se formen para regular las relaciones obrero patronal y del Tribunal de Conciliación y Arbitraje, así como vigilar el funcionamiento de los mismos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XXXVIII. Coordinar y vigilar el debido funcionamiento de la Procuraduría Estatal de la Defensa del Trabajo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XXXIX. Coordinar y vigilar el debido funcionamiento del Departamento del Trabajo y Previsión Social;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XL. Intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XLI. Mediar y conciliar, a petición de parte, en los conflictos colectivos que surjan de presuntas violaciones a la ley o a los contratos colectivos de trabajo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XLII. Llevar a cabo los programas de educación, capacitación y vinculación para el empleo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XLIII. Vigilar el cumplimiento de las normas relativas a la capacitación, adiestramiento de los trabajadores y seguridad e higiene de los centros de trabajo; y elaborar y ejecutar los programas correspondientes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XLIV. Organizar y llevar el registro de las asociaciones sociales, obreras, patronales y profesionales y demás que funcionen en el Estado a través de la Junta Local de Conciliación y Arbitraje;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XLV. Prestar asistencia jurídica gratuita a los trabajadores y a sus sindicatos que así lo soliciten y representarlos ante los tribunales del trabajo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XLVI. Ejercer dentro del ámbito estatal y de conformidad con los ordenamientos legales vigentes en la materia, las funciones en materia de trabajo y previsión social;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XLVII. Establecer los programas y acciones necesarios para impulsar el incremento de la productividad y calidad en el trabajo entre los sectores de producción;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XLVIII. Difundir por los conductos pertinentes las modificaciones que se den en las normas laborales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XLIX. Imponer y hacer efectivas las sanciones establecidas en el Título XVI de la Ley Federal del Trabajo, en el ámbito de su competencia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 L. Conocer y resolver en el ámbito de su competencia, los recursos y demás medios administrativos de impugnación interpuestos en contra de los actos emanados de ésta Secretaría o que por mandato legal le corresponda tramitar en los términos de los ordenamientos aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+LI. Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico de conformidad con las facultades otorgadas por los ordenamientos aplicables y los convenios o anexos celebrados entre la Administración Pública Estatal con la Federación y los Municipios;
 
-LI. Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico de conformidad con las facultades otorgadas por los ordenamientos aplicables y los convenios o anexos celebrados entre la Administración Pública Estatal con la Federación y los Municipios, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2019)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+LII. Impulsar, fomentar y coadyuvar en el desarrollo de las acciones relacionadas con la generación y el uso eficiente de energía en el Estado y de la industria de la transformación;
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
 
-LII. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
+LIII. Promover, fomentar, estimular y fortalecer el desarrollo de la micro, pequeña y mediana empresa, la microindustria y actividad artesanal; así como orientar y proporcionar herramientas y programas de capacitación, financiamiento, vinculación y organización de la producción;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+LIV. Gestionar y administrar fondos estatales y programas de financiamiento que tenga en operación el gobierno del Estado dentro de su administración pública estatal;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+LV. Coadyuvar en el otorgamiento de créditos, apoyos y recursos para el fomento productivo del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+LVI. Propiciar el emprendimiento y promover el acceso a fondos o financiamientos para la consolidación de proyectos y crecimiento del empleo;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+LVII. Fomentar el desarrollo del comercio rural y urbano en coordinación con la Secretaría de Desarrollo Rural y proponer estrategias para dar valor agregado a los productos;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+LVIII. Promover y consolidar los principios y bases para la implementación de mecanismos de mejora regulatoria y en términos de lo dispuesto por la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+LIX. Promover la calidad en la prestación de los servicios a la población incluyendo su mejora regulatoria y simplificación que represente menores costos, requisitos y tiempos para los usuarios de los mismos, en términos de la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+LX. Promover la simplificación del marco regulatorio local para facilitar e impulsar la actividad empresarial acorde a lo dispuesto por la Ley de la materia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+LXI. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
+
+> <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN EL P.O. DE 29 DE MAYO DE 2019, SE ADVIERTE QUE SE ELIMINA LA FRACCIÓN VI Y SE RECORREN LAS SUBSECUENTES FRACCIONES PASANDO DE XXX A XXIX FRACCIONES.]</small>
 
 > <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1701,69 +1677,115 @@ LII. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le 
 
 A la Secretaría de Turismo le corresponden las siguientes atribuciones:
 
-I. Elaborar, ejecutar y evaluar los planes sectoriales y programas de la rama turística estatal y coordinar las acciones que al efecto sean necesarias con la Federación, los municipios del estado, otras entidades federativas y sus gobiernos municipales;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+I. Participar en la elaboración, ejecución y evaluación de los planes sectoriales y programas de la rama turística estatal y coordinar las acciones que al efecto sean necesarias con la Federación, los municipios del Estado, otras entidades federativas y sus gobiernos municipales;
 
 II. Promover, fomentar, dirigir, coordinar, controlar y evaluar la ejecución de las políticas, programas y actividades de promoción y al desarrollo turístico del estado;
 
-III. Proponer al Gobernador del Estado las políticas, programas y proyectos relativos a la promoción y fomento de las actividades turísticas y ejecutarlos en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+III. Proponer al Gobernador del Estado, para su inclusión en los instrumentos de planeación, las políticas, programas y proyectos relativos a la promoción y fomento de las actividades turísticas y ejecutarlos en el ámbito de su competencia;
 
 IV. Promover, detectar, revisar, evaluar y apoyar en su caso, todos aquellos proyectos o programas que impulsen el crecimiento turístico del estado;
 
 V. Participar conforme a la normatividad aplicable en las actividades de los fideicomisos relacionados con el turismo;
 
-VI. Intervenir, dentro del ámbito de su competencia, en el ordenamiento del desarrollo turístico;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-VII. Determinar los mecanismos necesarios para la creación, conservación, mejoramiento, protección, promoción y aprovechamiento de los recursos y atractivos turísticos del Estado, aplicando criterios de sustentabilidad ambiental, social y económica;
+VI. Determinar los mecanismos necesarios para la creación, conservación, mejoramiento, protección, promoción y aprovechamiento de los recursos y atractivos turísticos del Estado, aplicando criterios de sustentabilidad ambiental, social y económica;
 
-VIII. Impulsar el desarrollo del turismo alternativo para proporcionar una mayor competitividad de los productos turísticos, promoviendo el desarrollo local y regional;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-IX. Fomentar el turismo en zonas arqueológicas, monumentos artísticos de interés cultural e intervenir en el ámbito de su competencia, en la administración y conservación de áreas recreativas de descanso, así como de otros atractivos típicos o naturales;
+VII. Impulsar el desarrollo del turismo alternativo para proporcionar una mayor competitividad de los productos turísticos, promoviendo el desarrollo local y regional;
 
-X. Promover la seguridad del turista en acciones coordinadas con las instancias y dependencias estatales, federales y municipales;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-XI. Estimular la participación de los sectores social y privado con capitales nacionales y extranjeros para el desarrollo y habilitación de la infraestructura turística;
+VIII. Fomentar el turismo en zonas arqueológicas, monumentos artísticos de interés cultural e intervenir en el ámbito de su competencia, en la administración y conservación de áreas recreativas de descanso, así como de otros atractivos típicos o naturales;
 
-XII. Fomentar el incremento de la productividad en el trabajo dentro del sector turístico;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IX. Promover la seguridad del turista en acciones coordinadas con las instancias y dependencias estatales, federales y municipales;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-XIII. Promover el desarrollo de la capacitación y el adiestramiento para el trabajo en el sector turístico en coordinación con las Secretarías del Trabajo, Productividad y Desarrollo Económico y de Educación;
+X. Estimular la participación de los sectores social y privado con capitales nacionales y extranjeros para el desarrollo y habilitación de la infraestructura turística;
 
-XIV. Formular, evaluar y promover los programas de promoción y divulgación turística del estado y sus municipios;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-XV. Emitir opinión a las dependencias correspondientes en la planificación de los asentamientos humanos en las zonas turísticas del estado;
+XI. Fomentar el incremento de la productividad en el trabajo dentro del sector turístico;
 
-XVI. Integrar y mantener actualizado el inventario de los recursos turísticos del estado y el padrón estatal de prestadores de servicios turísticos;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-XVII. Coordinar la elaboración, análisis y difusión de estadísticas y demás datos relativos al desarrollo turístico del estado;
+XII. Promover el desarrollo de la capacitación y el adiestramiento para el trabajo en el sector turístico en coordinación con las Secretarías de Economía y de Educación;
 
-XVIII. Llevar a cabo la medición y monitoreo de la actividad turística estatal y las variables que la afectan;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-XIX. Organizar, promover y coordinar las actividades necesarias para lograr la optimización de los recursos turísticos del estado;
+XIII. Formular, evaluar y promover los programas de promoción y divulgación turística del estado y sus municipios;
 
-XX. Promover la realización de ferias, seminarios, exposiciones y congresos turísticos;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-XXI. Previo acuerdo con el Gobernador del Estado, dar cumplimiento a los convenios en materia turística y de servicios relativos;
+XIV. Emitir opinión a las dependencias correspondientes en la planificación de los asentamientos humanos en las zonas turísticas del Estado;
 
-XXII. Promover, en coordinación con las dependencias federales, estatales y municipales, el mejoramiento de la imagen urbana, infraestructura y servicios en las zonas turísticas de la entidad;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-XXIII. Coadyuvar en la ejecución de los diversos programas que provengan de subsidios Federales o Estatales referentes a las actividades turísticas;
+XV. Integrar y mantener actualizado el inventario de los recursos turísticos del estado y el padrón estatal de prestadores de servicios turísticos;
 
-XXIV. Organizar, con la concurrencia de los municipios, a los prestadores de servicios turísticos a fin de elevar la calidad con que se prestan estos últimos;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-XXV. Promover y estimular en coordinación con las autoridades competentes, la creación de empresas y desarrollos turísticos ejidales o comunales, impulsando además los proyectos viables de turismo popular;
+XVI. Coordinar la elaboración, análisis y difusión de estadísticas y demás datos relativos al desarrollo turístico del Estado;
 
-XXVI. Promover de manera coordinada con los prestadores de servicios turísticos y los niveles de gobierno federal, estatal y municipal, viajes y grupos vacacionales, a través de instituciones, empresas, sindicatos y especialmente organizaciones de jóvenes y personas de la tercera edad, en condiciones de eficiencia, seguridad y economía;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-XXVII. Gestionar ante la dependencia correspondiente, el otorgamiento de concesiones para el aprovechamiento de rutas y circuitos con vehículos adecuados, sobre la base de garantizar plenamente la seguridad y la economía de los turistas dentro de las rutas de jurisdicción estatal;
+XVII. Llevar a cabo la medición y monitoreo de la actividad turística estatal y las variables que la afectan;
 
-XXVIII. Fomentar la creación de consejos consultivos con la participación de los sectores públicos (sic), privado y social que coadyuven con la Secretaría de Turismo en el debido cumplimiento de sus obligaciones y atribuciones;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-XXIX. Preferentemente promover la coordinación del sector turismo con el agropecuario industrial del Estado, a efecto de garantizar el adecuado suministro de productos generados y procesados en la entidad;
+XVIII. Organizar, promover y coordinar las actividades necesarias para lograr la optimización de los recursos turísticos del Estado;
 
-XXX. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado, sin contravenir lo dispuesto por esta Ley.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XIX. Promover la realización de ferias, seminarios, exposiciones y congresos turísticos;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XX. Previo acuerdo con el Gobernador del Estado, dar cumplimiento a los convenios en materia turística y de servicios relativos;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXI. Promover, en coordinación con las dependencias federales, estatales y municipales, el mejoramiento de la imagen urbana, infraestructura y servicios en las zonas turísticas de la Entidad;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXII. Coadyuvar en la ejecución de los diversos programas que provengan de subsidios federales o estatales referentes a las actividades turísticas;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXIII. Organizar, con la concurrencia de los municipios, a los prestadores de servicios turísticos a fin de elevar la calidad con que se prestan estos últimos;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXIV. Promover y estimular en coordinación con las autoridades competentes, la creación de empresas y desarrollos turísticos ejidales o comunales, impulsando además los proyectos viables de turismo popular;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXV. Promover de manera coordinada con los prestadores de servicios turísticos y los niveles de gobierno federal, estatal y municipal, viajes y grupos vacacionales, a través de instituciones, empresas, sindicatos y especialmente organizaciones de jóvenes y personas de la tercera edad, en condiciones de eficiencia, seguridad y economía;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXVI. Gestionar ante la dependencia correspondiente, el otorgamiento de concesiones para el aprovechamiento de rutas y circuitos con vehículos adecuados, sobre la base de garantizar plenamente la seguridad y la economía de los turistas dentro de las rutas de jurisdicción estatal;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXVII. Fomentar la creación de los consejos consultivos sectoriales con la participación de los sectores público, privado y social que coadyuven con la Secretaría de Turismo en el debido cumplimiento de sus obligaciones y atribuciones;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXVIII. Preferentemente promover la coordinación del sector turismo con el agropecuario industrial del Estado, a efecto de garantizar el adecuado suministro de productos generados y procesados en la entidad, y
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXIX. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado, sin contravenir lo dispuesto por esta Ley.
 
 ###### Artículo 40.
 
@@ -1823,55 +1845,171 @@ XVIII. Asesorar a los Ayuntamientos de la entidad en materia de salud pública; 
 
 XIX. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
-> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
 
-Artículo 40 A. A la Secretaría de Desarrollo Social corresponden las siguientes atribuciones:
+Artículo 40 A. A la Secretaría de Bienestar e Igualdad Sustantiva corresponden las siguientes atribuciones:
 
-I. Coordinar las acciones que incidan en el combate a la pobreza, así como el fomento de un mejor nivel de vida, para lo cual, el titular de la Secretaría de Desarrollo Social podrá celebrar convenios con los distintos órdenes de gobierno y con los sectores social y privado;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-II. Proponer al titular del Poder Ejecutivo del Estado, los lineamientos generales de las políticas públicas estatales, programas y acciones en materia de desarrollo social;
+I. Promover, conducir y evaluar la política estatal de desarrollo social, así como los programas y acciones para el combate efectivo a la pobreza, la atención especial a grupos vulnerables y, en general, la superación de las desigualdades sociales;
 
-III. Elaborar los programas regionales y especiales que le señale el titular del Poder Ejecutivo, tomando en cuenta las propuestas que para el efecto realicen las dependencias y entidades de la Administración Pública Estatal y los gobiernos municipales, así como autorizar las acciones e inversiones establecidas en el Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-IV. Coordinar los programas y acciones en materia de desarrollo social;
+II. Participar en la formulación de las políticas públicas estatales, programas y acciones para alcanzar el bienestar y la igualdad sustantiva;
 
-V. Promover y apoyar mecanismos de financiamiento para el desarrollo regional y urbano, así como para la vivienda, con la participación de las dependencias y entidades de la Administración Pública Estatal que correspondan, de los distintos órdenes de gobierno, de las instituciones de crédito y grupos sociales;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-VI. Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano y el bienestar social, en coordinación con los gobiernos federal y municipales, así como con la participación de los sectores social y privado;
+III. Fortalecer el bienestar, el desarrollo, la inclusión y la cohesión social mediante la instrumentación, coordinación, supervisión y seguimiento de las políticas públicas en materia de desarrollo social que se implementen en el Estado;
 
-VII. Promover los mecanismos de evaluación de los programas y acciones de desarrollo social;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-VIII. Informar a la sociedad sobre las acciones en torno al desarrollo social de la entidad, y
+IV. Participar en la ejecución y supervisión de los programas sociales que el Gobierno Federal desarrolle en el Estado, de conformidad con los convenios de coordinación que para tal efecto se suscriban, en coordinación con la Secretaría de Desarrollo Sustentable;
 
-IX. Las demás que le atribuyan las leyes, reglamentos, convenios, y las que le confiera el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+V. Impulsar políticas públicas en materia de asistencia social e integración familiar, en coordinación con los Sistemas para el Desarrollo Integral de la Familia, de conformidad con la legislación aplicable;
 
-Artículo 40 B. A la Secretaría de Seguridad Pública competen, además de las atribuciones que le señala la Constitución Política del Estado Libre y Soberano de Nayarit, las siguientes:
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+VI. Promover e impulsar la construcción de obras de infraestructura y equipamiento para fortalecer el desarrollo e inclusión social de la Entidad;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+VII. Coordinar las acciones que incidan en el bienestar de la población, el combate a la pobreza y el desarrollo humano, fomentando un mejor nivel de vida;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+VIII. Fomentar las actividades de las organizaciones de la sociedad civil en materia de bienestar, combate a pobreza y desarrollo humano;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+IX. Coordinar, concretar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, a fin de elevar el nivel de vida de la población, con la intervención del gobierno federal y municipal, y con la participación de los sectores social y privado;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+X. Coadyuvar en las políticas públicas que garanticen el pleno ejercicio de los derechos y el desarrollo de los pueblos indígenas;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XI. Participar en la coordinación e instrumentación de las políticas de desarrollo rural para elevar el nivel de bienestar de las familias, comunidades y ejidos;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XII. Coadyuvar en el diseño e implementación de políticas públicas orientadas a fomentar la productividad, la economía social y el empleo en el ámbito rural y evitar su migración a las áreas urbanas;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XIII. Participar en la planeación, formulación y aplicación de programas de desarrollo regional, de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XIV. Fomentar las políticas públicas y dar seguimiento a los programas que garanticen la plenitud de los derechos de las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XV. Promover y ejecutar acciones tendientes a propiciar la igualdad sustantiva en la vida política, económica, social y cultural en el Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XVI. Generar políticas y programas para la atención de personas con índices de mayor marginalidad en el Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XVII. Instrumentar y dar seguimiento a los programas de inclusión social y protección de los derechos de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XVIII. Elaborar políticas públicas y dar seguimiento a los programas de apoyo e inclusión de los jóvenes a la vida social, participativa y productiva;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XIX. Promover acuerdos y convenios de colaboración y coordinación con la Secretaría de Desarrollo Sustentable, el Instituto Mexicano de la Juventud, autoridades federales, estatales y municipales para el desarrollo social y de la juventud;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XX. Diseñar, promover y ejecutar la política estatal de atención a la juventud, promoviendo la adopción de políticas en materia de educación sexual, prevención de enfermedades, oportunidades de empleo, expresión cultural y artística, así como combate a las adicciones y prevención de la delincuencia;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXI. Impulsar las políticas públicas y dar seguimiento a los programas de inclusión y atención de los adultos mayores y sus derechos;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXII. Formular y conducir la política de fomento y desarrollo del sector social de la economía;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXIII. Impulsar la igualdad de oportunidades de los grupos sociales vulnerables, para el acceso a los servicios de salud, educación, trabajo, vivienda digna y a los servicios públicos básicos;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXIV. Impulsar políticas públicas y programas para la atención y protección de los migrantes;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXV. Coadyuvar en la promoción de los derechos de los migrantes;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXVI. Integrar, mantener y actualizar un sistema de información con los padrones de beneficiarios de programas sociales de la Entidad, así como evitar duplicidades, y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXVII. Las demás que le encomienden expresamente las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
+
+Artículo 40 B. A la Secretaría de Seguridad y Protección Ciudadana competen, además de las atribuciones que le señalan la Constitución Política del Estado Libre y Soberano de Nayarit, las siguientes:
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 I. Atender todo lo relativo a la seguridad pública en el estado y coadyuvar en el desarrollo de los programas institucionales que tengan por finalidad, preservar la tranquilidad y la paz social del estado, con la prevención y combate del delito, en concurrencia con los municipios en la prestación del servicio de seguridad pública;
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 II. Desarrollar las políticas de seguridad pública y proponer la política criminal en el ámbito estatal, que comprenda las normas, instrumentos y acciones para prevenir de manera eficaz la comisión de delitos;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 III. Presentar al Gobernador del Estado, para su aprobación, el Programa Estatal de Seguridad Pública;
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 IV. Proponer al Ejecutivo las medidas que garanticen la congruencia de la política criminal entre las dependencias de la administración pública federal;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 V. Participar en el Consejo Estatal de Seguridad Pública;
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 VI. Representar al Poder Ejecutivo en el Sistema Nacional de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 VII. Proponer en el seno del Consejo Estatal de Seguridad Pública, políticas, acciones y estrategias de coordinación en materia de prevención del delito y política criminal para todo el Estado;
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 VIII. Fomentar la participación ciudadana en la formulación de planes y programas de prevención en materia de delitos del fuero común;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 IX. Promover y facilitar la participación social para el desarrollo de actividades de vigilancia sobre el ejercicio de sus atribuciones;
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 X. Atender de manera expedita las denuncias y quejas ciudadanas con relación al ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 XI. Organizar, dirigir, administrar y supervisar la Policía Estatal Preventiva, así como garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario;
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 XII. Coordinar el registro estatal de personal, armamento y equipo de todos los cuerpos de policía en la entidad en términos de la ley de la materia;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 XIII. Proponer al Ejecutivo el nombramiento del Director de la Policía Estatal Preventiva;
 
@@ -1881,31 +2019,45 @@ XV. (DEROGADA, P.O. 18 DE MAYO DE 2018)
 
 XVI. (DEROGADA, P.O. 18 DE MAYO DE 2018)
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 XVII. Salvaguardar la integridad y el patrimonio de las personas, prevenir la comisión de delitos del orden, así como preservar la libertad, el orden y la paz públicos;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 XVIII. Establecer un sistema destinado a obtener, analizar, estudiar y procesar información para la prevención de delitos, mediante métodos que garanticen el estricto respeto a los derechos humanos;
 
-XIX. Elaborar y difundir estudios multidisciplinarios y estadísticas sobre el fenómeno delictivo;
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XIX. Elaborar y difundir estudios multidisciplinarios y estadísticas sobre el fenómeno delictivo;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
 XX. Efectuar, en coordinación con la Fiscalía General del Estado, estudios sobre los actos delictivos no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 XXI. Organizar, dirigir y administrar un servicio para la atención a las víctimas del delito y celebrar acuerdos de colaboración con otras instituciones del sector público y privado para el mejor cumplimiento de esta atribución;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 XXII. Organizar, dirigir y administrar el servicio civil de carrera de la policía a su cargo;
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 XXIII. Convenir con los municipios la coordinación de las policías preventivas;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 XXIV. Otorgar las autorizaciones a empresas que presten servicios privados de seguridad, así como supervisar su funcionamiento, en los términos de la ley de la materia;
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 XXV. Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Nacional de Seguridad Pública, con otras autoridades federales, estatales, municipales, conforme a la ley;
 
-XXVI. Colaborar, en el marco del Sistema Nacional y Estatal de Seguridad Pública, cuando así lo soliciten otras autoridades federales, estatales, municipales o del Distrito Federal competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro cuando se vean amenazadas por disturbios u otras situaciones que impliquen violencia o riesgo inminente;
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXVI. Colaborar, en el marco del Sistema Nacional y Estatal de Seguridad Pública, cuando así lo soliciten otras autoridades federales, estatales, municipales o del Distrito Federal competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro cuando se vean amenazadas por disturbios u otras situaciones que impliquen violencia o riesgo inminente;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
 
@@ -1915,19 +2067,67 @@ XXVII. Auxiliar al Poder Judicial y a la Fiscalía General del Estado, cuando as
 
 XXVIII. Administrar el sistema estatal penitenciario; así como organizar y dirigir las actividades de apoyo a liberados;
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 XXIX. Elaborar, ejecutar y vigilar el cumplimiento de las políticas referentes a la readaptación social de los delincuentes, en los términos de las leyes de la materia;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 XXX. Acordar y tramitar, las solicitudes de extradición, amnistía, indultos, libertad anticipada y traslado de reos, de conformidad con las leyes y convenios respectivos; además, acordar todo lo relativo a la libertad condicional, libertad preparatoria, condena condicional, libertad preliberacional y beneficios, exhortos y las demás atribuciones que en este ramo especifican el Código Penal del Estado y el de Procedimientos en la misma materia;
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 XXXI. Vigilar el establecimiento de instituciones y la aplicación de las medidas preventivas y definitivas impuestas a los adolescentes en conflicto con la ley penal, fijadas por la autoridad jurisdiccional competente;
 
-XXXII. Administrar los Centros de Readaptación y Reintegración Social; y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-XXXIII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXXII. Administrar los Centros de Readaptación y Reintegración Social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2019)</small>
+
+XXXIII. Presentar al Gobernador del Estado, para su aprobación, el Programa Estatal de Protección Civil y prestar toda clase de ayuda y apoyos a los órganos encargados de ejecutar los Programas Nacional y Estatal de Auxilio en caso de desastres;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXXIV. Conducir y poner en ejecución, en coordinación con las autoridades de los gobiernos municipales y con las dependencias y entidades de la Administración Pública estatal, las políticas y programas de protección civil del Ejecutivo, en el marco del Sistema Estatal de Protección Civil, para la prevención, auxilio, recuperación y apoyo a la población en situaciones de desastre y concertar con instituciones y organismos de los sectores privado y social las acciones conducentes al mismo objetivo, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+XXXV. Las demás que le atribuyan expresamente las leyes, reglamentos, convenios y las que le confiera el Gobernador.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 41.
 
-(DEROGADO, P.O. 13 DE MAYO DE 2017)
+A la Secretaría de Movilidad y Transporte competen, además de las atribuciones que le señala la Constitución Política del Estado Libre y Soberano de Nayarit, las siguientes:
+
+I. Planear, coordinar y evaluar los proyectos estatales en materia de movilidad conforme a las disposiciones legales vigentes y los acuerdos que emita el titular del Poder Ejecutivo del Estado;
+
+II. Elaborar, coordinar y aplicar los planes y programas de educación vial;
+
+III. Expedir, revalidar, reponer, suspender, cancelar y llevar registro de las licencias de manejo, placas, calcomanías, signos de identificación y autorizaciones para la conducción, circulación y uso de vehículos;
+
+IV. Supervisar la correcta aplicación de las tarifas al transporte público urbano;
+
+V. Expedir la documentación correspondiente en que se haga constar el otorgamiento, modificación, cesión, suspensión o revocación de los permisos y concesiones, y en su caso las autorizaciones de rutas, horarios, itinerarios y tarifas para operar el servicio público de transporte llevando su correspondiente registro;
+
+VI. Fomentar, impulsar, estimular, ordenar y regular el desarrollo de la movilidad urbana sustentable en el Estado, dando prioridad a peatones y medios de transporte no motorizados;
+
+VII. Ejecutar, diseñar y proponer las políticas públicas estatales en materia de movilidad, educación vial, del servicio de transporte público y especializado, infraestructura de movilidad y, en especial, aquellas destinadas a personas que usan las vías peatonales, personas con discapacidad o movilidad limitada y el derecho a la movilidad motorizada y no motorizada en el Estado;
+
+VIII. Participar en las acciones que en materia de protección al medio ambiente lleven a cabo las autoridades federales u otras estatales, en relación con la prestación del servicio público del transporte, el especializado y el particular;
+
+IX. Llevar a cabo el registro y control de vehículos que estén dados de alta en el Estado y coadyuvar en la actualización del Registro Público Vehicular;
+
+X. Organizar y supervisar las corporaciones de tránsito del Estado, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes y los convenios respectivos;
+
+XI. Administrar y vigilar el tránsito en las carreteras y caminos de jurisdicción estatal, y aplicar, en su caso, las sanciones que correspondan en los términos que señalen las leyes, reglamentos y convenios respectivos;
+
+XII. Supervisar y controlar el tránsito vehicular y peatonal, conforme lo disponga la ley y los convenios respectivos;
+
+XIII. Coordinar con otras dependencias y con los municipios, programas y políticas públicas en materia de movilidad y transporte, y
+
+XIV. Las demás que le atribuyan expresamente las leyes, reglamentos, convenios y las que le confiera el Gobernador.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1965,11 +2165,11 @@ La intervención a que se refiere el artículo anterior, se realizará a través
 
 Corresponde a los coordinadores de sector, coordinar la programación y presupuestación, conocer la operación, evaluar los resultados y ser el presidente en los órganos de gobierno de los organismos agrupados en el sector a su cargo, conforme a la legislación vigente.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 45.
 
-Las relaciones entre las dependencias y las entidades de la Administración Pública Estatal, para fines de congruencia global de la administración con el Sistema Estatal de Planeación y con los lineamientos generales en materia de gasto, financiamiento, desarrollo administrativo, evaluación y control, se llevarán a cabo en la forma y términos que dispongan las leyes y demás ordenamientos, por conducto de las Secretarías de Administración y Finanzas, de la Contraloría General y de Planeación, Programación y Presupuesto, en el ámbito de sus respectivas competencias, sin perjuicio de las atribuciones que competan a las coordinadoras de Sector.
+Las relaciones entre las dependencias y las entidades de la Administración Pública Estatal, para fines de congruencia global de la administración con el Sistema Estatal de Planeación y con los lineamientos generales en materia de gasto, financiamiento, desarrollo administrativo, evaluación y control, se llevarán a cabo en la forma y términos que dispongan las leyes y demás ordenamientos, por conducto del Instituto de Planeación del Estado de Nayarit y las Secretarías de Administración y Finanzas, de la Contraloría General y de Desarrollo Sustentable, en el ámbito de sus respectivas competencias, sin perjuicio de las atribuciones que competan a las coordinadoras de sector o que se deleguen, por sus órganos de gobierno, en la Secretaría de Administración y Finanzas.
 
 > <small>(ADICIONADO, P.O. 13 DE MAYO DE 2017)</small>
 
@@ -2109,11 +2309,11 @@ Estos organismos interinstitucionales podrán crearse por ley o por decreto o ac
 
 Del desarrollo, control y evaluación.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 67.
 
-Las entidades, para su desarrollo y operación, deberán sujetarse a la Ley de la Administración Pública Paraestatal, a la Ley de Planeación, a las demás leyes y reglamentos aplicables, al Plan Estatal de Desarrollo, a los programas sectoriales y regionales que deriven del mismo, a las directrices que en materia de programación y evaluación fijen las dependencias competentes, a los lineamientos generales que en materia de gasto y financiamiento establezcan las Secretarías de Administración y Finanzas y de la Contraloría General, así como a las políticas que defina el coordinador de sector.
+Las entidades, para su desarrollo y operación, deberán sujetarse a la Ley de la Administración Pública Paraestatal, a la Ley de Planeación, a las demás leyes y reglamentos aplicables, al Gran Plan Estatal de Desarrollo de al menos a 25 años, al Programa de Gobierno y a los programas sectoriales y regionales que deriven de los mismos, a las directrices que en materia de programación y evaluación fijen las dependencias competentes, a los lineamientos generales que en materia de gasto y financiamiento establezcan las Secretarías de Administración y Finanzas y de la Contraloría General, así como a las políticas que defina el coordinador de sector.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2017)</small>
 
@@ -2135,39 +2335,33 @@ Su organización, integración y atribuciones se regirán por la legislación co
 
 ## TÍTULO QUINTO. Bases para la organización y control de la Administración
 
-### CAPÍTULO ÚNICO. Coordinación para los Procesos de Planeación, Finanzas y Administración
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2019)</small>
+
+### CAPÍTULO ÚNICO. Coordinación para los Procesos de Finanzas y Administración
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 70.
 
-Para coordinar la participación de los sectores público, social y privado en el cumplimiento de los objetivos y metas del Plan Estatal de Desarrollo y mejorar permanentemente la Administración Pública y compatibilizar la inversión, el gasto público y su financiamiento, la Administración Pública Estatal contará con los siguientes organismos colegiados:
+Para mejorar permanentemente la Administración Pública y compatibilizar la inversión, el gasto público y su financiamiento, la Administración Pública Estatal contará con la Comisión Intersecretarial de Gasto y Financiamiento.
 
-I. Comité de Planeación para el Desarrollo del Estado de Nayarit;
+I. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
-II. Comisión Intersecretarial de Gasto y Financiamiento.
+II. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 71.
 
-El Comité de Planeación para el Desarrollo del Estado de Nayarit se integrará y funcionará conforme lo disponga la ley de su creación, la Ley de Planeación del Estado y sus disposiciones reglamentarias.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 72.
 
-El Comité de Planeación para el Desarrollo del Estado de Nayarit, tendrá a su cargo el despacho de los siguientes asuntos:
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
-I. Coordinar las actividades de planeación para el desarrollo de Nayarit y coadyuvar a la formulación del Plan Estatal de Desarrollo con la participación de los grupos sociales interesados;
-
-II. Integrar el Convenio de Desarrollo Social, así como supervisar y evaluar su ejecución;
-
-III. Controlar y evaluar la ejecución de programas de inversión pública, en relación con el cumplimiento de los objetivos y metas del Plan Estatal de Desarrollo;
-
-VI (sic). Coordinar el sistema único de información geográfica y estadística del Estado de Nayarit; y
-
-V. Los demás que le señalen las leyes, decretos y reglamentos.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 73.
 
-La Comisión Intersecretarial de Gasto y Financiamiento es un organismo integrado por los titulares de la Secretaría de Administración y Finanzas, quien fungirá como su Presidente, la Secretaría de la Contraloría General, quien fungirá como Secretario Técnico, la Secretaría de Planeación, Programación y Presupuesto, así como por los demás servidores públicos que determine el Gobernador del Estado.
+La Comisión Intersecretarial de Gasto y Financiamiento es un organismo integrado por los titulares de la Secretaría de Administración y Finanzas, quien fungirá como su Presidente, la Secretaría de la Contraloría General, quien fungirá como Secretario Técnico, la Secretaría de Desarrollo Sustentable, así como por los demás servidores públicos que determine el Gobernador del Estado.
 
 ###### Artículo 74.
 
@@ -2471,7 +2665,7 @@ P.O. 28 DE MARZO DE 2018.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
-P.O 18 DE MAYO DE 2018.
+P.O. 18 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT”.]
 
@@ -2484,3 +2678,43 @@ TERCERO. Dentro de los treinta días naturales siguientes a la entrada en vigor 
 CUARTO. A la entrada en vigor del presente Decreto, la Secretaría de Seguridad Pública realizará las acciones conducentes para permitir el traspaso de los recursos humanos, materiales, técnicos y financieros que correspondan al objeto del mismo, a la Secretaría General de Gobierno, de conformidad con los acuerdos de transferencia que al efecto disponga el titular del Poder Ejecutivo.
 
 QUINTO. Los servidores públicos adscritos a la Secretaría de Seguridad Pública que habrán de asignarse a la Secretaría General de Gobierno no resultarán afectados en sus derechos laborales adquiridos.
+
+P.O. 29 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, salvo lo dispuesto en los artículos transitorios subsecuentes.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto la Secretaría de Administración y Finanzas del Gobierno del Estado, deberá realizar las adecuaciones presupuestales necesarias para incluir en el Presupuesto de Egresos, las erogaciones que se generen por el presente Decreto.
+
+CUARTO. El Congreso del Estado, dentro del plazo de 180 días contados a partir de la entrada en vigor del presente Decreto, deberá realizar las modificaciones necesarias para armonizar el marco jurídico local al tenor de lo dispuesto por el presente Decreto.
+
+QUINTO. El titular del Ejecutivo deberá realizar las adecuaciones correspondientes a los reglamentos interiores de las dependencias y demás disposiciones normativas que resulten necesarias para el funcionamiento del presente Decreto, en un plazo no mayor a 180 días, contados a partir de que se actualice la hipótesis a que se refiere el transitorio que antecede.
+
+SEXTO. La Secretaría de Administración y Finanzas y la de la Contraloría General, en el ámbito de sus respectivas competencias, resolverán sobre los aspectos administrativos no contemplados en el presente Decreto, escuchando previamente la opinión de la Dependencia involucrada.
+
+SÉPTIMO. Los recursos humanos, documentales, financieros y materiales con que cuenten las unidades administrativas cuya adscripción cambie por disposición o consecuencia del presente Decreto serán transferidos a su nueva adscripción a partir de la modificación legal correspondiente.
+
+Los titulares de las dependencias a que se refiere el presente Decreto, por sí o por quien ellos designen, serán coordinadores del proceso de transferencia de los recursos mencionados en el párrafo anterior, por lo que proveerán y acordarán lo necesario para darle cumplimiento. De igual forma, deberán proporcionar la información necesaria para la integración de la Cuenta Pública, en el ámbito de su competencia.
+
+OCTAVO. Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán, conforme a la ley. El presente Decreto garantizará y respetará los derechos de los trabajadores conforme a la Ley.
+
+NOVENO. Las facultades y atribuciones con que cuentan las unidades administrativas de las dependencias que por virtud del presente Decreto se modifican, continuarán vigentes en términos de los reglamentos interiores que las rigen hasta en tanto sean publicadas las reformas a los mismos, sin perjuicio de su nueva adscripción.
+
+Asimismo, para efectos de no incumplir con las obligaciones normativas al marco jurídico local y federal, por virtud del presente decreto, la transferencia de los recursos humanos, documentales, financieros y materiales, se hará de manera gradual, de acuerdo a un plan de capacitación y capacidad de recursos, sin que exceda preferentemente del ejercicio fiscal 2019.
+
+DÉCIMO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto se cubrirán con cargo al presupuesto de las respectivas dependencias. Las Secretarías de la Contraloría, en coordinación con la de Administración y Finanzas vigilarán que se apliquen los lineamientos y disposiciones de carácter general que sean necesarios para la transferencia de los recursos humanos, documentales, financieros y materiales y la debida ejecución de lo dispuesto en este artículo.
+
+DÉCIMO PRIMERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho por las unidades administrativas responsables de los mismos, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+DÉCIMO SEGUNDO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las unidades administrativas cuya denominación, funciones y estructura se hayan reformado por virtud de este Decreto, se entenderán referidas a las nuevas unidades, conforme a lo establecido en el mismo.
+
+DÉCIMO TERCERO. Las referencias establecidas en los ordenamientos jurídicos que hacen mención a las Secretarías de Planeación, Programación y Presupuesto; de Obras Públicas; de Desarrollo Rural y Medio Ambiente; del Trabajo, Productividad y Desarrollo Económico; de Desarrollo Social así como la de Seguridad Pública se entenderán por realizadas a las Secretarías de Desarrollo Sustentable; de Infraestructura; de Desarrollo Rural; de Economía; de Bienestar e Igualdad Sustantiva, así como a la de Seguridad y Protección Ciudadana, respectivamente.
+
+DÉCIMO CUARTO. La Secretaría de Movilidad y Transporte, entrará en funciones una vez publicada la Ley de Movilidad y Transporte del Estado de Nayarit; mientras tanto, seguirá en funciones la Dirección General de Tránsito y Transporte del Gobierno del Estado de Nayarit.
+
+DÉCIMO QUINTO. Los derechos laborales adquiridos por los trabajadores de la Dirección General de Tránsito y Transporte del Gobierno del Estado de Nayarit, serán plenamente respetados con la expedición y ejecución de este Decreto.
+
+DÉCIMO SEXTO. El Titular del Poder Ejecutivo del Estado, por conducto de las instancias correspondientes, proveerá lo conducente para la operación de la Secretaría de Movilidad y Transporte.
