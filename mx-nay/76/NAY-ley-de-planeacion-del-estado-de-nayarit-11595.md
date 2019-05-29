@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-planeacion-del-estado-de-nayarit-11595"
 country: "mx"
 rank: "ley"
 publication_date: "1997-07-30"
-last_updated: "2016-10-21"
+last_updated: "2019-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "NAY"
 ---
 # LEY DE PLANEACION DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 29 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019 (ABROGADO).
 
-Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el Miércoles 30 de Julio de 1997.
+Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 30 de Julio de 1997.
 
-Al margen un Sello con el Escudo Nacional que dice :
+Al margen un Sello con el Escudo Nacional que dice:
 
 Estados Unidos Mexicanos.- Poder Legislativo. Nayarit.
 
@@ -229,9 +231,7 @@ IV.- Las demás que les asignen otros ordenamientos legales.
 
 Las disposiciones reglamentarias que normarán el Sistema Estatal de Planeación Democrática, determinarán la organización y funcionamiento, las formalidades, periodicidad y términos a que se sujetará la participación y consulta de la sociedad, en la planeación y programación para el desarrollo general de la Entidad.
 
-### CAPÍTULO III. COMITE DE PLANEACION PARA EL DESARROLLO
-
-DEL ESTADO DE NAYARIT
+### CAPÍTULO III. COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE NAYARIT
 
 ###### ARTICULO 18.
 
@@ -508,3 +508,31 @@ P.O. 21 DE OCTUBRE DE 2016.
 Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, con la salvedad prevista en el artículo siguiente.
 
 Segundo.- La adición relacionada con las iniciativas de leyes de ingresos y los proyectos de presupuestos de egresos entrará en vigor para el Estado en el ejercicio fiscal 2017, y para los municipios en el ejercicio fiscal 2018, de conformidad y con las salvedades previstas en el DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación, el 27 de abril de 2016.
+
+P.O. 29 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT”]
+
+PRIMERO. La presente Ley se publicará en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, y entrará en vigor una vez instalado el Instituto Estatal de Planeación del Estado de Nayarit, mientras tanto, seguirá vigente la Ley de Planeación del Estado de Nayarit.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado de Nayarit, deberá expedir el Reglamento de esta Ley, en un plazo no mayor de ciento ochenta días, contados a partir de la entrada del presente ordenamiento.
+
+TERCERO. Se abroga la Ley que Crea el Comité de Planeación para el Desarrollo del Estado de Nayarit, y la Ley de Planeación del Estado de Nayarit; publicadas el once de marzo de mil novecientos ochenta y uno, y el treinta de julio de mil novecientos noventa y siete, respectivamente, con excepción de lo provisto (sic) por el artículo PRIMERO TRANSITORIO.
+
+CUARTO. El Instituto de Planeación del Estado de Nayarit, deberá iniciar funciones dentro del plazo de noventa días a partir de la entrada en vigor de la presente Ley.
+
+QUINTO. A partir de la entrada en vigor de la presente Ley, la Secretaría de Administración y Finanzas, deberá realizar las previsiones necesarias para incluir en el Presupuesto de Egresos del ejercicio fiscal 2019, al Organismo Público Descentralizado denominado Instituto de Planeación del Estado de Nayarit.
+
+SEXTO. Los recursos humanos y materiales que se encuentren asignados al Comité de Planeación para el Desarrollo del Estado de Nayarit y aquellos que tengan atribuciones de planeación dentro de la Secretaría de Planeación, Programación y Presupuesto, serán transferidos dentro de los noventa días posteriores a la entrada en funciones del Instituto de Planeación del Estado de Nayarit, mediante el Acuerdo de Transferencia al Organismo Público Descentralizado denominado Instituto de Planeación del Estado de Nayarit.
+
+SÉPTIMO. Las facultades y atribuciones con que cuentan las unidades administrativas de las dependencias que por virtud de la presente Ley se modifican, continuarán vigentes en términos de los reglamentos interiores que las rigen hasta en tanto sean publicadas las reformas a los mismos, sin perjuicio de su nueva adscripción.
+
+La transferencia de los recursos humanos, documentales, financieros y materiales, se hará de manera gradual, de acuerdo a un plan de capacitación y capacidad de recursos, sin que exceda del ejercicio fiscal 2019.
+
+OCTAVO. La presente reforma garantizará y respetará todos los derechos de los trabajadores que modifiquen su adscripción conforme a la presente Ley.
+
+NOVENO. El Congreso del Estado, dentro de un plazo no mayor a un año, siguiente a la entrada en vigor de la presente Ley, deberá realizar las adecuaciones al marco jurídico correspondiente en materia de planeación.
+
+DÉCIMO. Por única ocasión el Gobernador del Estado designará a las personas que integrarán la Junta de Gobierno del Instituto de Planeación del Estado de Nayarit.
+
+DÉCIMO PRIMERO. Se deberá emitir el Reglamento Interior del IPLANAY en un plazo no mayor a ciento ochenta días contados a partir de la integración de la Junta de Gobierno del IPLANAY.
