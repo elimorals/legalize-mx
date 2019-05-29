@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-3524"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-22"
-last_updated: "2016-07-04"
+last_updated: "2019-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 235, POR EL CUAL SE EXPIDE EL CÓDIGO PENAL DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 20 DE JULIO DE 2012, SE DEROGAN LOS TIPOS PENALES CONTENIDOS EN LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 22 de junio de 1994.
 
@@ -84,6 +84,10 @@ V.- ACTIVIDADES RIESGOSAS: Las que pueden generar efectos contaminantes en los e
 > <small>(ADICIONADA, P.O. 2 DE JULIO DE 1997)</small>
 
 V Bis.- BIODIVERSIDAD: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+V ter CAMBIO CLIMÁTICO: Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante períodos comparables;
 
 VI.- CONSERVACION: La permanencia de los elementos de la naturaleza, lograda mediante la planeación ambiental del crecimiento socioeconómico y en base al ordenamiento ecológico del territorio estatal, con el fin de asegurar a las generaciones presentes y futuras un ambiente propicio para su desarrollo y la de los recursos naturales que les permita satisfacer sus necesidades;
 
@@ -309,7 +313,17 @@ XX.- Coadyuvar con los Gobiernos de los Municipios del Estado que así lo solici
 
 XXI.- Concertar acciones con los sectores social y privado en materia ecológica, a través de programas masivos de educación ambiental; y
 
-XXII.- Las demás atribuciones que conforme a ésta u otras leyes, y demás disposiciones reglamentarias le correspondan.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2019)</small>
+
+XXII. Fomentar una cultura preventiva que permita disminuir el grado de vulnerabilidad al fenómeno global del cambio climático;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXIII. Instrumentar mecanismos de convergencia entre la sociedad y el gobierno que permitan desarrollar medidas de adaptación y mitigación para enfrentar el cambio climático; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+XXIV. Las demás atribuciones que conforme a ésta u otras leyes, y demás disposiciones reglamentarias le correspondan.
 
 ###### ARTICULO 9.
 
@@ -1631,7 +1645,7 @@ IV.- Promoverá el reconocimiento a los esfuerzos más destacados de la sociedad
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-V.- Impulsará el fortalecimiento de la conciencia ecológica, a través de la realización de acciones conjuntas con la comunidad, para la preservación y mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de residuos. Para ello, la Secretaría Estatal, en forma coordinada con los Ayuntamientos, podrá celebrar convenios de concertación con comunidades urbanas y rurales, así como con los sectores social y privado; y (sic)
+V.- Impulsará el fortalecimiento de la conciencia ecológica, a través de la realización de acciones conjuntas con la comunidad, para la preservación y mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de residuos. Para ello, la Secretaría Estatal, en forma coordinada con los Ayuntamientos, podrá celebrar convenios de concertación con comunidades urbanas y rurales, así como con los sectores social y privado; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2042,3 +2056,11 @@ P.O. 4 DE JULIO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 29 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 51 POR EL QUE “SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 8; SE ADICIONA UNA FRACCIÓN V TER AL ARTÍCULO 3 Y LAS FRACCIONES XXIII Y XXIV AL ARTÍCULO 8 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO. El presente decreto entrará en vigor a los diez días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
