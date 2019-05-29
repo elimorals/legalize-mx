@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-victimas-del-estado-de-quintana-roo-100407"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-07"
-last_updated: "2018-10-17"
+last_updated: "2019-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 7 de abril de 2014.
 
@@ -47,7 +47,9 @@ La presente Ley es de orden público, interés social y de observancia general e
 
 En las normas que protejan a víctimas en las leyes expedidas por el Congreso del Estado, se aplicará siempre la que más favorezca a la persona.
 
-La presente ley obliga, en sus respectivas competencias, a las autoridades de todos los ámbitos de gobierno y de sus poderes constitucionales, así como a cualquiera de sus oficinas, dependencias, organismos o instituciones públicas o privadas que velen por la protección de las víctimas, a proporcionar ayuda, asistencia o reparación integral.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
+La presente ley obliga, en sus respectivas competencias, a las autoridades de todos los ámbitos de gobierno y de sus poderes constitucionales, así como a cualquiera de sus oficinas, dependencias, organismos o instituciones públicas o privadas que velen por la protección de las víctimas, a proporcionar ayuda, asistencia o reparación integral. Las autoridades de todos los ámbitos de gobierno deberán actuar conforme a los principios y criterios establecidos en esta Ley, así como brindar atención inmediata en especial en materias de salud, educación y asistencia social, en caso contrario quedarán sujetos a las responsabilidades administrativas, civiles o penales a que haya lugar.
 
 La reparación integral comprende las medidas de restitución, rehabilitación, compensación, satisfacción y garantías de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica. Cada una de estas medidas será implementada a favor de la víctima teniendo en cuenta la gravedad y magnitud del hecho victimizante cometido o la gravedad y magnitud de la violación de sus derechos, así como las circunstancias y características del hecho victimizante.
 
@@ -117,6 +119,14 @@ Integralidad, indivisibilidad e interdependencia. Todos los derechos contemplado
 
 Para garantizar la integralidad, la asistencia, atención, ayuda y reparación integral a las víctimas se realizará de forma multidisciplinaria y especializada.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+Interés superior de la niñez. El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes. Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales.
+
 Máxima protección. Toda autoridad de los órdenes de gobierno debe velar por la aplicación más amplia de medidas de protección a la dignidad, libertad, seguridad y demás derechos de las víctimas del delito y de violaciones a los derechos humanos.
 
 Las autoridades adoptarán en todo momento, medidas para garantizar la seguridad, protección, bienestar físico y psicológico e intimidad de las víctimas.
@@ -175,33 +185,69 @@ IX. Estrategia de divulgación de los derechos de las víctimas: La cual permite
 
 X. Estrategia especial para el trato de casos de delitos en contra de la libertad sexual y el libre desarrollo de la personalidad: La cual prevé una asistencia diferenciada a las víctimas de estos delitos, informar a la víctima y su representante legal de todos los aspectos jurídicos, asistenciales, terapéuticos u otros relevantes relacionados con su caso, desde que se tenga conocimiento del hecho delictivo;
 
-XI. Fondo Estatal: Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Quintana Roo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2019)</small>
 
-XII. Hecho victimizante: Actos u omisiones que dañan, menoscaban o ponen en peligro bienes jurídicos o derechos de una persona convirtiéndola en víctima. Estos pueden estar tipificados como delito o constituir una violación a los derechos humanos reconocidos por la Constitución Federal, la Constitución Estatal y los tratados internacionales de los que el Estado mexicano forma parte;
+XI. Fondo Nacional: Fondo de Ayuda, Asistencia y Reparación Integral;
 
-XIII. Ley: Ley de Atención a Víctimas del Estado de Quintana Roo;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
 
-XIV. Plan de Atención y Reparación Integral a Víctimas: Aquel que fijará una metodología que permita establecer para cada víctima un plan individual de reparación, donde se determinen los derechos vulnerados, el daño y se establezcan las medidas necesarias para garantizar la reparación integral;
+XII. Fondo Estatal: Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Quintana Roo;
 
-XV. Plan de Divulgación, Capacitación y Actualización: El cual contempla el procedimiento a seguir por parte de los servidores públicos para la recepción de la declaración de la víctima hasta la decisión de inclusión o no en el Registro Estatal;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
 
-XVI. Programa de Capacitación y Formación para servidores públicos que atienden a víctimas: Aquel programa dirigido a los servidores públicos en el que se garantiza la formación de éstos en materia de derechos de las víctimas;
+XIII. Hecho victimizante: Actos u omisiones que dañan, menoscaban o ponen en peligro bienes jurídicos o derechos de una persona convirtiéndola en víctima. Estos pueden estar tipificados como delito o constituir una violación a los derechos humanos reconocidos por la Constitución Federal, la Constitución Estatal y los tratados internacionales de los que el Estado mexicano forma parte;
 
-XVII. Programa de Protección de Sujetos en Situación de Riesgo del Estado de Quintana Roo: Aquel que tiene como objetivo implementar las medidas de protección integral a la víctima, el ofendido, los denunciantes, los testigos, los jueces, los agentes del ministerio público, los defensores públicos, los defensores de derechos humanos y los servidores públicos del Estado, que se encuentren en situación de riesgo como consecuencia de su intervención en el proceso penal;
+> <small>(REFORMADA Y REUBICADA, P.O. 29 DE MAYO DE 2019)</small>
 
-XVIII. Programa Estatal: Programa de Atención y Reparación Integral a Víctimas del Estado de Quintana Roo;
+XIV. Ley: Ley de Víctimas del Estado de Quintana Roo;
 
-XIX. Programa Nacional: Programa de Atención Integral a Víctimas del Sistema Nacional de Atención a Víctimas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
 
-XX. Registro Estatal: Registro de Víctima del Estado de Quintana Roo;
+XV. Plan de Atención y Reparación Integral a Víctimas: Aquel que fijará una metodología que permita establecer para cada víctima un plan individual de reparación, donde se determinen los derechos vulnerados, el daño y se establezcan las medidas necesarias para garantizar la reparación integral;
 
-XXI. Reglamento: Reglamento de la presente ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
 
-XXII. Sistema Estatal: Sistema Estatal de Atención a Víctimas;
+XVI. Plan de Divulgación, Capacitación y Actualización: El cual contempla el procedimiento a seguir por parte de los servidores públicos para la recepción de la declaración de la víctima hasta la decisión de inclusión o no en el Registro Estatal;
 
-XXIII. Sistema Nacional: Sistema Nacional de Atención a Víctimas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
 
-XXIV. Violación de Derechos Humanos: Todo acto u omisión que afecte los derechos humanos reconocidos en la Constitución Federal, en la Constitución Estatal o en los tratados internacionales aplicables, cuando el agente sea servidor público en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones públicas. También se considera violación de Derechos Humanos cuando la acción u omisión referida sea realizada por un particular instigado o autorizado, explícita o implícitamente por un servidor público, o cuando actúe con aquiescencia o colaboración de un servidor público;
+XVII. Programa de Capacitación y Formación para servidores públicos que atienden a víctimas: Aquel programa dirigido a los servidores públicos en el que se garantiza la formación de éstos en materia de derechos de las víctimas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+XVIII. Programa de Protección de Sujetos en Situación de Riesgo del Estado de Quintana Roo: Aquel que tiene como objetivo implementar las medidas de protección integral a la víctima, el ofendido, los denunciantes, los testigos, los jueces, los agentes del ministerio público, los defensores públicos, los defensores de derechos humanos y los servidores públicos del Estado, que se encuentren en situación de riesgo como consecuencia de su intervención en el proceso penal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+XIX. Programa Estatal: Programa de Atención y Reparación Integral a Víctimas del Estado de Quintana Roo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+XX. Programa Nacional: Programa de Atención Integral a Víctimas del Sistema Nacional de Atención a Víctimas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2019)</small>
+
+XXI. Recursos de Ayuda: Gastos de ayuda inmediata, ayuda, asistencia, atención y rehabilitación previstos en los títulos segundo, tercero y cuarto de la Ley, con cargo al Fondo Estatal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+XXII. Registro Estatal: Registro de Víctima del Estado de Quintana Roo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+XXIII. Reglamento: Reglamento de la presente ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+XXIV. Sistema Estatal: Sistema Estatal de Atención a Víctimas;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+XXV. Sistema Nacional: Sistema Nacional de Atención a Víctimas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+XXVI. Violación de Derechos Humanos: Todo acto u omisión que afecte los derechos humanos reconocidos en la Constitución Federal, en la Constitución Estatal o en los tratados internacionales aplicables, cuando el agente sea servidor público en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones públicas. También se considera violación de Derechos Humanos cuando la acción u omisión referida sea realizada por un particular instigado o autorizado, explícita o implícitamente por un servidor público, o cuando actúe con aquiescencia o colaboración de un servidor público.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LAS VÍCTIMAS
 
@@ -253,7 +299,9 @@ XIX. A ser beneficiaria de las acciones afirmativas y programas sociales públic
 
 XX. A participar en la formulación, implementación y seguimiento de la política pública de prevención, ayuda, asistencia, atención y reparación integral;
 
-XXI. A que las políticas públicas que son implementadas con base en la presente ley tengan un enfoque transversal de género y diferencial, particularmente en atención a los menores de edad, los adultos mayores y población indígena;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXI. A que las políticas públicas que son implementadas con base en la presente ley tengan un enfoque transversal de género y diferencial, particularmente en atención a la infancia, los adultos mayores, la población indígena y las personas en situación de desplazamiento interno;
 
 XXII. A no ser discriminadas ni limitadas en sus derechos;
 
@@ -271,7 +319,9 @@ XXVIII. A expresar libremente sus opiniones e intereses ante las autoridades e i
 
 XXIX. A ejercer los recursos legales en contra de las decisiones que afecten sus intereses y el ejercicio de sus derechos;
 
-XXX. A que se les otorgue, en los casos que procedan, la ayuda provisional y humanitaria;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XXX. A que se les otorgue, en los casos que procedan, la ayuda provisional y humanitaria de los Recursos de Ayuda de la Comisión Ejecutiva en los términos de la presente Ley;
 
 XXXI. A recibir gratuitamente la asistencia de un intérprete o traductor de su lengua, en caso de que no hablen el idioma español o tengan discapacidad auditiva, verbal o visual;
 
@@ -285,21 +335,37 @@ XXXIV. A recibir la protección de su identidad, datos personales y confidencial
 
 XXXV. A que se le proporcionen las medidas de atención, ayuda, asistencia, protección integral y reparación, cuando se trate de víctimas del delito de tortura, en los términos de la Ley General de la materia, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2019)</small>
 
-XXXVI. Los demás señalados por las normas internacionales, federales y locales.
+XXXVI. Tener acceso ágil, eficaz y transparente al fondo estatal y nacional en términos de esta Ley, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+XXXVII. Los demás señalados por las normas internacionales, federales y locales.
 
 ### CAPÍTULO II. DE LOS DERECHOS DE AYUDA, ASISTENCIA Y ATENCIÓN
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 8.
 
-Las víctimas recibirán ayuda provisional, oportuna y rápida de acuerdo a las necesidades inmediatas que tengan relación directa con el hecho victimizante para atender y garantizar la satisfacción de sus necesidades de alimentación, aseo personal, manejo de abastecimientos, atención médica y psicológica de emergencia, transporte de emergencia y alojamiento transitorio en condiciones dignas y seguras, a partir del momento de la comisión del delito o de la violación de los derechos o en el momento en el que las autoridades tengan conocimiento del delito o de la violación de derechos. Las medidas de ayuda provisional se brindarán garantizando siempre un enfoque transversal de género y diferencial, y durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de necesidad inmediata.
+Las víctimas recibirán ayuda provisional, oportuna y rápida de los Recursos de Ayuda de la Comisión Ejecutiva Estatal, de acuerdo a las necesidades inmediatas que tengan relación directa con el hecho victimizante para atender y garantizar la satisfacción de sus necesidades de alimentación, aseo personal, manejo de abastecimientos, atención médica y psicológica de emergencia, transporte de emergencia y alojamiento transitorio en condiciones dignas y seguras, a partir del momento de la comisión del delito o de la violación de los derechos o en el momento en el que las autoridades tengan conocimiento del delito o de la violación de derechos. Las medidas de ayuda provisional se brindarán garantizando siempre un enfoque transversal de género y diferencial, y durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de necesidad inmediata.
 
-Las víctimas de delitos o de violaciones de derechos contra la libertad y la integridad, recibirán ayuda médica y psicológica especializada de emergencia en los términos de la presente ley.
+Las víctimas de delitos o de violaciones de derechos que atenten contra la vida, contra la libertad o la integridad, así como de desplazamiento interno, recibirán ayuda médica y psicológica especializada de emergencia en los términos de la presente ley.
 
 Los servidores públicos deberán brindar información clara, precisa y accesible a las víctimas y sus familiares, sobre cada una de las garantías, mecanismos y procedimientos que permiten el acceso oportuno, rápido y efectivo a las medidas de ayuda contempladas en la presente ley.
 
-Las medidas de ayuda, asistencia, atención y demás establecidas en esta ley, se brindarán por las instituciones públicas del Estado y los municipios, a través de los programas, mecanismos y servicios con que cuenten, salvo en los casos urgentes o de extrema necesidad en los que se podrá recurrir a instituciones privadas.
+Las medidas de ayuda, asistencia, atención y demás establecidas en esta ley, se brindarán por las instituciones públicas del Estado y los municipios en el ámbito de sus competencias, a través de los programas, mecanismos y servicios con que cuenten, salvo en los casos urgentes o de extrema necesidad en los que se podrá recurrir a instituciones privadas.
+
+Las víctimas podrán requerir que las medidas materia de esta Ley le sean proporcionadas por una institución distinta a aquélla o aquéllas que hayan estado involucradas en el hecho victimizante, ya sea de carácter público o privado, a fin de evitar un nuevo proceso de victimización.
+
+La Comisión Ejecutiva Estatal deberá otorgar, con cargo a sus Recursos de Ayuda que corresponda, medidas de ayuda provisional, ayuda, asistencia, atención y rehabilitación que requiera la víctima para garantizar que supere las condiciones de necesidad que tengan relación directa con el hecho victimizante.
+
+En casos urgentes, de extrema necesidad o aquellos en que las instituciones de carácter público no cuenten con la capacidad de brindar la atención que requiere, la Comisión Ejecutiva Estatal podrá autorizar que la víctima acuda a una institución de carácter privado con cargo al Fondo Estatal.
+
+La Comisión Ejecutiva Estatal deberá otorgar, con cargo al Fondo Estatal, los Recursos de Ayuda que requiera la víctima para garantizar que supere las condiciones de necesidad que tengan relación con el hecho victimizante. La Comisión Ejecutiva Estatal requerirá a la víctima en un plazo de treinta días, los comprobantes del gasto que se hayan generado con motivo del otorgamiento de dichas medidas, de conformidad con los criterios de comprobación a los que hace referencia el párrafo segundo del artículo 115 de la Ley.
+
+En el caso de que la Comisión Ejecutiva Estatal no cuente con disponibilidad de recursos, para hacer efectivas las medidas de ayuda inmediata, podrá solicitarlos por escrito a la Comisión Ejecutiva Nacional, comprometiéndose a resarcirlos en términos de lo previsto en la fracción X del artículo 88 de la Ley.
 
 ###### Artículo 9.
 
@@ -310,6 +376,10 @@ Se entiende por asistencia el conjunto integrado de mecanismos, procedimientos, 
 Se entiende por atención, la acción de dar información, orientación y acompañamiento jurídico y psicosocial a las víctimas, con el objeto de facilitar su acceso a los derechos a la verdad, a la justicia y a la reparación integral, cualificando el ejercicio de los mismos.
 
 Las medidas de asistencia y atención no sustituyen ni reemplazan a las medidas de reparación integral, por lo tanto, el costo o las erogaciones en que incurra el Estado en la prestación de los servicios de atención y asistencia, en ningún caso serán descontados de la compensación a que tuvieran derecho las víctimas.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+El Estado tiene la obligación de cubrir las erogaciones derivadas de las medidas de ayuda inmediata, ayuda, asistencia, atención y rehabilitación que brinde la Comisión Ejecutiva Estatal a través de sus Recursos de Ayuda.
 
 ###### Artículo 10.
 
@@ -359,6 +429,14 @@ XIII. A que se les notifique toda resolución que pueda afectar sus derechos y a
 
 XIV. En los casos que impliquen graves violaciones a los derechos humanos, a solicitar la intervención de expertos independientes, a fin de que colaboren con las autoridades competentes en la investigación de los hechos y la realización de peritajes. Las organizaciones de la sociedad civil o grupos de víctimas podrán solicitar que grupos de esos expertos revisen, informen y emitan recomendaciones para lograr el acceso a la justicia y a la verdad para las víctimas.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+La Comisión Ejecutiva Estatal, podrá cubrir los gastos que se originen con motivo de la contratación de expertos independientes o peritos a que se refiere el párrafo anterior, con cargo al Fondo Estatal.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+Sólo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal nacional o estatal capacitado en la materia.
+
 Cuando las víctimas no se expresen en el idioma castellano o presenten alguna discapacidad, se dispondrá de la presencia de traductores o intérpretes durante todo el proceso. Las sentencias serán traducidas para dicha comprensión.
 
 ###### Artículo 13.
@@ -375,6 +453,14 @@ Las víctimas tienen derecho a intervenir en el proceso penal y deberán ser rec
 
 Las víctimas tienen derecho a que se les explique el alcance y trascendencia de los exámenes periciales a los que podrán someterse dependiendo de la naturaleza del caso, y en caso de aceptar su realización a ser acompañadas en todo momento por su asesor jurídico o la persona que consideren.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+La Comisión Ejecutiva Estatal, podrá cubrir los costos de los exámenes a que se refiere el párrafo anterior, con cargo al Fondo Estatal.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+Sólo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal nacional capacitado en la materia.
+
 ###### Artículo 16.
 
 Toda comparecencia ante el órgano investigador, el juez o tribunal, o ante cualquiera otra autoridad o perito que requiera la presencia de la víctima, se considerará justificada para los efectos laborales y escolares, teniendo ella derecho a gozar del total de los emolumentos a que se refiere la Ley Federal del Trabajo.
@@ -385,13 +471,17 @@ Las víctimas tendrán derecho a optar por la solución de conflictos conforme a
 
 Para el efecto, se tendrán en cuenta las disposiciones contenidas en la Ley de Justicia Alternativa aplicable en materia penal. No podrá celebrarse la conciliación ni la mediación a menos de que quede acreditado, a través de los medios idóneos, que la víctima está en condiciones de tomar esa decisión y en los casos en que la ley lo prohíba.
 
-La Procuraduría General de Justicia del Estado llevará un registro y una auditoría puntual sobre los casos en que la víctima haya optado por alguna (sic) de los mecanismos alternativos de solución de controversias, notificando en todo caso a las instancias de protección a la mujer y la defensa del menor y la familia, a fin de que se verifique que la víctima tuvo la asesoría necesaria para la toma de dicha decisión.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
+La Fiscalía General del Estado llevará un registro y una auditoría puntual sobre los casos en que la víctima haya optado por alguna (sic) de los mecanismos alternativos de solución de controversias, notificando en todo caso a las instancias de protección a la mujer y la defensa del menor y la familia, a fin de que se verifique que la víctima tuvo la asesoría necesaria para la toma de dicha decisión.
 
 Los servidores públicos que conduzcan a las víctimas a tomar estas decisiones sin que éstas estén conscientes de las consecuencias que conllevan, serán sancionados conforme a lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 18.
 
-La Fiscalía Especializada en delitos contra la libertad sexual, el libre desarrollo de la personalidad y trata de personas de la Procuraduría General de Justicia del Estado, elaborará una estrategia especial para el trato de casos de delitos en contra de la libertad sexual y el libre desarrollo de la personalidad, en la cual se debe prever una asistencia diferenciada a las víctimas de estos delitos, informar a la víctima y su representante legal de todos los aspectos jurídicos, asistenciales, terapéuticos u otros relevantes relacionados con su caso, desde que se tenga conocimiento del hecho delictivo.
+La Fiscalía Especializada en delitos contra la libertad sexual, el libre desarrollo de la personalidad y trata de personas de la Fiscalía General del Estado, elaborará una estrategia especial para el trato de casos de delitos en contra de la libertad sexual y el libre desarrollo de la personalidad, en la cual se debe prever una asistencia diferenciada a las víctimas de estos delitos, informar a la víctima y su representante legal de todos los aspectos jurídicos, asistenciales, terapéuticos u otros relevantes relacionados con su caso, desde que se tenga conocimiento del hecho delictivo.
 
 La autoridad aplicará, como mínimo, las siguientes reglas:
 
@@ -431,7 +521,13 @@ Esta obligación, incluye la realización de las exhumaciones de cementerios, fo
 
 Los familiares de las víctimas tienen el derecho a estar presentes en las exhumaciones, por sí y/o a través de sus asesores jurídicos; a ser informadas sobre los protocolos y procedimientos que serán aplicados; y a designar peritos independientes, acreditados ante organismo nacional o internacional de protección a los derechos humanos, que contribuyan al mejor desarrollo de las mismas.
 
-Una vez plenamente identificados y realizadas las pruebas técnicas y científicas a las que está obligado el Estado y que han sido referidas en esta ley y en los códigos de procedimientos penales, la entrega de los cuerpos u osamentas de las víctimas a sus familiares, deberá hacerse respetando plenamente su dignidad y sus tradiciones religiosas y culturales. Las autoridades competentes, a solicitud de los familiares, generarán los mecanismos necesarios para repatriar los restos de las víctimas ya identificados, de conformidad con lo que establezca el reglamento de esta ley.
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+La Comisión Ejecutiva Estatal, podrá cubrir los costos de los exámenes a que se refiere el párrafo anterior, con cargo al Fondo Estatal. Sólo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal nacional o estatal capacitado en la materia.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
+Una vez plenamente identificados y realizadas las pruebas técnicas y científicas a las que está obligado el Estado y que han sido referidas en esta ley, en el Código Nacional de Procedimientos Penales y la legislación aplicable, la entrega de los cuerpos u osamentas de las víctimas a sus familiares, deberá hacerse respetando plenamente su dignidad y sus tradiciones religiosas y culturales. Las autoridades competentes, a solicitud de los familiares, generarán los mecanismos necesarios para repatriar los restos de las víctimas ya identificados, de conformidad con lo que establezca el reglamento de esta ley.
 
 En caso necesario, a efecto de garantizar las investigaciones, la autoridad deberá notificar a los familiares la obligación de no cremar los restos, hasta en tanto haya una sentencia ejecutoriada. Las autoridades ministeriales tampoco podrán autorizar ni procesar ninguna solicitud de gobierno extranjero para la cremación de cadáveres, identificados o sin identificar, hasta en tanto no haya sentencia ejecutoriada.
 
@@ -509,7 +605,13 @@ El Plan de Atención y Reparación Integral a Víctimas fijará una metodología
 
 Las personas colectivas objeto de reparación también deberán ser objeto del plan individual.
 
-Las medidas desarrolladas en el marco del Plan de Atención y Reparación Integral a Víctimas se desarrollarán con cargo al Fondo Estatal.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
+Las medidas desarrolladas en el marco del Plan de Atención y Reparación Integral a Víctimas se otorgarán de manera subsidiaria con cargo al Fondo Estatal.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+Los entes públicos estatales y municipales responsables de violaciones a derechos humanos en términos del artículo 70 de esta Ley, tendrán la obligación, de llevar a cabo la medida de compensación, a las víctimas con cargo a su presupuesto.
 
 ### CAPÍTULO VII. DE LAS OBLIGACIONES DE LA VÍCTIMA
 
@@ -533,7 +635,13 @@ IV. Cuando tenga acceso a información reservada o confidencial, respetar y guar
 
 La gravedad del daño sufrido por las víctimas será el eje que determinará la prioridad en su asistencia, en la prestación de servicios y en la implementación de acciones dentro de las instituciones encargadas de brindarles atención y tratamiento.
 
-Los servicios a que se refiere la presente ley tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de mujeres, menores de edad, adultos mayores y población indígena.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
+Los servicios a que se refiere la presente ley tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, adultos mayores, personas con discapacidad, migrantes, indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+Las medidas de ayuda inmediata previstas en el presente Capítulo podrán cubrirse con cargo a los Recursos de Ayuda, según corresponda, en coordinación con las autoridades correspondientes en el ámbito de sus competencias.
 
 ###### Artículo 32.
 
@@ -565,13 +673,17 @@ X. La atención para los derechos sexuales y reproductivos de las mujeres vícti
 
 En caso de que la institución médica a la que acude o es enviada la víctima no cuente con lo señalado en las fracciones II y III y sus gastos hayan sido cubiertos por la víctima o en el caso de la fracción IV, el Estado de Quintana Roo o los municipios, según corresponda, los reembolsarán de manera completa e inmediata, de conformidad con lo que establezcan las normas reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 34.
 
-El Estado de Quintana Roo o municipios donde se haya cometido el hecho victimizante apoyarán a las víctimas indirectas con los gastos funerarios que deban cubrirse por el fallecimiento de la víctima directa cuando la causa de la muerte sea homicidio. Estos gastos incluirán los de transporte, cuando el fallecimiento se haya producido en un lugar distinto al de su lugar de origen o cuando sus familiares decidan inhumar su cuerpo en otro lugar. Por ningún motivo se prohibirá a las víctimas ver los restos de sus familiares, si es su deseo hacerlo. Si los familiares de las víctimas deben desplazarse del lugar en el que se encuentran hacia otro lugar para los trámites de reconocimiento, se deberán cubrir también sus gastos. El pago de los apoyos económicos aquí mencionados, se gestionará conforme lo establezcan las normas reglamentarias aplicables.
+El Estado de Quintana Roo o municipios donde se haya cometido el hecho victimizante apoyarán a las víctimas indirectas con los gastos funerarios que deban cubrirse por el fallecimiento de la víctima directa en todos los casos en los cuales la muerte sobrevenga como resultado del hecho victimizante. Estos gastos incluirán los de transporte, cuando el fallecimiento se haya producido en un lugar distinto al de su lugar de origen o cuando sus familiares decidan inhumar su cuerpo en otro lugar. Por ningún motivo se prohibirá a las víctimas ver los restos de sus familiares, si es su deseo hacerlo. Si los familiares de las víctimas deben desplazarse del lugar en el que se encuentran hacia otro lugar para los trámites de reconocimiento, se deberán cubrir también sus gastos. El pago de los apoyos económicos aquí mencionados, se gestionará conforme lo establezcan las normas reglamentarias aplicables a los Recursos de Ayuda de la Comisión Ejecutiva Estatal.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 35.
 
-La Comisión Ejecutiva Estatal, velará por la aplicación eficaz del Modelo de Atención Integral en Salud establecido en la Ley General de Víctimas, en concordancia con los programas de salud establecidos en la Ley General de Salud.
+La Comisión Ejecutiva Estatal en coordinación con la Secretaría de Salud, velará por la aplicación eficaz del Modelo de Atención Integral en Salud establecido en la Ley General de Víctimas, en concordancia con los programas de salud establecidos en la Ley General de Salud y la Ley de Salud del Estado de Quintana Roo.
 
 ###### Artículo 36.
 
@@ -599,6 +711,10 @@ VI. La atención materno-infantil permanente cuando sea el caso, incluyendo prog
 
 VII. En aquellos lugares en donde no se cuente con infraestructura hospitalaria o médica, se deberán garantizar las condiciones necesarias de acceso al servicio de salud o atención para evitar que las víctimas tengan que recorrer grandes distancias y que permita atender a las víctimas de urgencia, para después hacer la debida derivación a centros de salud especializados, conforme a la normatividad aplicable.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+No podrá negarse la garantía de ejercer los derechos que protege este artículo a ninguna víctima que se encuentre fuera de su jurisdicción de derechohabientes.
+
 ###### Artículo 38.
 
 A toda víctima de violación sexual o cualquier otra conducta que afecte su integridad física o psicológica, se le garantizará el acceso a los servicios de la profilaxis post exposición para Virus de Inmunodeficiencia Humana y aquellos que se contemplen y prevean de conformidad con lo estipulado en la Ley General de Víctimas, con absoluto respeto a la voluntad de la víctima; asimismo, se le realizará práctica periódica de exámenes y tratamiento especializado, durante el tiempo necesario para su total recuperación y conforme al diagnóstico y tratamiento médico recomendado; en particular, se considerará prioritario para su tratamiento el seguimiento de eventuales contagios de enfermedades de transmisión sexual y del Virus de Inmunodeficiencia Humana.
@@ -613,11 +729,17 @@ El Estado de Quintana Roo, a través de sus organismos, dependencias y entidades
 
 En caso de que la institución médica a la que acude o es enviada la víctima no cumpla con lo señalado en los artículos anteriores y sus gastos hayan sido cubiertos por la víctima, la autoridad competente del orden de gobierno que corresponda, se los reembolsará de manera completa y expedita, teniendo dichas autoridades, el derecho de repetir contra los responsables. Las normas reglamentarias aplicables establecerán el procedimiento necesario para solicitar el reembolso a que se refiere este artículo.
 
-### CAPÍTULO II. MEDIDAS EN MATERIA DE ALOJAMIENTO Y ALIMENTACIÓN
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 322, SE ADVIERTE QUE LA MATERIA REGULADA EN EL ANTERIOR CAPÍTULO III QUEDA COMPRENDIDA EN EL CAPÍTULO II, POR TAL MOTIVO SE RECORRE EL CONTENIDO DE LOS SUBSECUENTES CAPÍTULOS.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2019)</small>
+
+### CAPÍTULO II. MEDIDAS EN MATERIA DE ALOJAMIENTO, ALIMENTACIÓN Y TRASLADO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 41.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, los Sistemas Municipales para el Desarrollo Integral de la Familia y demás instituciones públicas que existan y brinden estos servicios en el ámbito Estatal o Municipal, contratarán servicios o brindarán directamente alojamiento y alimentación en condiciones de seguridad y dignidad a las víctimas que se encuentren en especial condición de vulnerabilidad o que se encuentren amenazadas o desplazadas de su lugar de residencia por causa del hecho delictuoso cometido contra ellas o de la violación de derechos humanos. El alojamiento y la alimentación se brindarán durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de emergencia y pueda retornar libremente en condiciones seguras y dignas a su hogar.
+El Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, los Sistemas Municipales para el Desarrollo Integral de la Familia y demás instituciones públicas que existan y brinden estos servicios en el ámbito Estatal o Municipal, contratarán servicios o brindarán directamente alojamiento y alimentación en condiciones de seguridad y dignidad a las víctimas que se encuentren en especial condición de vulnerabilidad o que se encuentren amenazadas o en situación de desplazamiento de su lugar de residencia por causa del hecho delictuoso cometido contra ellas o de la violación de derechos humanos. El alojamiento y la alimentación se brindarán durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de emergencia, exista una solución duradera y pueda retornar libremente en condiciones seguras y dignas a su hogar.
 
 Se podrán establecer convenios de coordinación con instituciones privadas para la prestación de estos servicios.
 
@@ -625,7 +747,27 @@ Se podrán establecer convenios de coordinación con instituciones privadas para
 
 Cuando la víctima se encuentre en un lugar distinto al de su lugar de residencia y desee regresar al mismo, el Estado de Quintana Roo o los municipios, en el ámbito de su competencia, pagarán los gastos correspondientes, garantizando, en todos los casos, que el medio de transporte usado por la víctima para su regreso es el más seguro y el que le cause menos trauma de acuerdo con sus condiciones.
 
-### CAPÍTULO III. MEDIDAS EN MATERIA DE TRANSPORTE
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+###### Artículo 42 Bis.
+
+Las autoridades competentes del Estado y sus municipios cubrirán los gastos relacionados con los apoyos de traslados de las víctimas, que comprenden los conceptos de transportación, hospedaje y alimentación, cuando la víctima tenga que trasladarse por las siguientes causas:
+
+I. Formular denuncia o querella a efecto de que tengan reconocida su calidad procesal;
+
+II. Desahogar diligencias o comparecer ante el Ministerio Público, sus autoridades auxiliares o bien para acudir ante las autoridades judiciales, las Comisiones Nacional o Estatales de Derechos Humanos u otra autoridad relacionada con los hechos victimizantes;
+
+III. Solicitar a alguna institución nacional medidas de seguridad o protección de las autoridades competentes, cuando la víctima considere que existe un probable riesgo a su vida o integridad física o psicoemocional, y
+
+IV. Recibir atención especializada o de tratamiento por alguna institución nacional, pública o privada cuando así sea autorizado en términos del quinto párrafo del artículo 8 de esta Ley, para el apoyo médico, psicológico o social que requiera.
+
+En caso de que la Comisión Ejecutiva Estatal no pueda cubrir los gastos, se procederá de conformidad a lo establecido en el artículo 39 Bis de la Ley General de Víctimas.
+
+La Comisión Ejecutiva Estatal deberá reintegrar los gastos en términos de lo previsto en la fracción X del artículo 88 de la Ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2019)</small>
+
+### CAPÍTULO III. MEDIDAS EN MATERIA DE PROTECCIÓN
 
 ###### Artículo 43.
 
@@ -647,15 +789,19 @@ Serán sancionadas administrativa, civil o penalmente, de conformidad con las le
 
 Las medidas adoptadas deberán ser acordes con la amenaza que tratan de conjurar y deberán tener en cuenta la condición de especial vulnerabilidad de las víctimas, así como respetar, en todos los casos, su dignidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 45.
 
-La Procuraduría General de Justicia del Estado de Quintana Roo elaborará el Programa de Protección de Sujetos en Situación de Riesgo del Estado de Quintana Roo, el cual tendrá como objetivo implementar las medidas de protección integral a la víctima, el ofendido, los denunciantes, los testigos, los jueces, los agentes del ministerio público, los defensores públicos, los defensores de derechos humanos y los servidores públicos del Estado, que se encuentren en situación de riesgo como consecuencia de su intervención en el proceso penal.
+La Fiscalía General del Estado de Quintana Roo elaborará el Programa de Protección de Sujetos en Situación de Riesgo del Estado de Quintana Roo, el cual tendrá como objetivo implementar las medidas de protección integral a la víctima, el ofendido, los denunciantes, los testigos, los jueces, los agentes del ministerio público, los defensores públicos, los defensores de derechos humanos y los servidores públicos del Estado, que se encuentren en situación de riesgo como consecuencia de su intervención en el proceso penal.
 
 En el caso de defensores y defensoras de derechos humanos, el sólo ejercicio de la actividad fundamenta la protección si de ella se deviene un riesgo.
 
 Las medidas de protección serán determinadas según el nivel de riesgo evaluado para cada caso particular y en la medida en que exista amenaza contra sus derechos fundamentales a la vida, la integridad física, la libertad y la seguridad personal, atendiendo a la normatividad existente sobre la materia.
 
-La Procuraduría General de Justicia del Estado, como coordinadora de este programa, llevará un registro de todas las medidas adoptadas y velará porque las acciones adelantadas por otras entidades para garantizar la protección se realicen de forma coordinada, integral y efectiva. Las medidas adoptadas deberán ser acordes con la amenaza que tratan de evitar y deberán tener en cuenta la condición de especial vulnerabilidad de los sujetos en riesgo así como respetar, en todos los casos, su dignidad.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
+La Fiscalía General del Estado, como coordinadora de este programa, llevará un registro de todas las medidas adoptadas y velará porque las acciones adelantadas por otras entidades para garantizar la protección se realicen de forma coordinada, integral y efectiva. Las medidas adoptadas deberán ser acordes con la amenaza que tratan de evitar y deberán tener en cuenta la condición de especial vulnerabilidad de los sujetos en riesgo así como respetar, en todos los casos, su dignidad.
 
 Cuando las mujeres soliciten protección y ésta sea aprobada, se deberá tener en cuenta el enfoque diferenciado y que las medidas respondan a éste. Para otorgar dicha protección y definir sus aspectos se deberá realizar un estudio por la autoridad correspondiente para determinar el nivel de riesgo que se podrá definir como ordinario y extraordinario.
 
@@ -691,7 +837,9 @@ VIII. Se deberá dar información permanente a las autoridades jurisdiccionales 
 
 Especialmente, se tendrán en cuenta las razones que puedan impedir o dificultar la participación de aquellos en las diligencias y se adoptarán las oportunas medidas de apremio que lo garanticen.
 
-### CAPÍTULO IV. MEDIDAS EN MATERIA DE PROTECCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2019)</small>
+
+### CAPÍTULO IV. MEDIDAS EN MATERIA DE ASESORÍA JURÍDICA
 
 ###### Artículo 49.
 
@@ -703,6 +851,8 @@ La Comisión Ejecutiva Estatal garantizará lo dispuesto en el presente artícul
 
 La información y asesoría deberán brindarse en forma gratuita y por profesionales conocedores de los derechos de las víctimas, garantizándoles a ellas siempre un trato respetuoso de su dignidad y el acceso efectivo al ejercicio pleno y tranquilo de todos sus derechos.
 
+> <small>(DEROGADO, P.O. 29 DE MAYO DE 2019)</small>
+
 ### CAPÍTULO V. MEDIDAS EN MATERIA DE ASESORÍA JURÍDICA
 
 ## TÍTULO CUARTO. DE LAS MEDIDAS DE ASISTENCIA Y ATENCIÓN
@@ -713,13 +863,17 @@ La información y asesoría deberán brindarse en forma gratuita y por profesion
 
 La Comisión Ejecutiva Estatal garantizará que el acceso de las víctimas al Registro Estatal se haga de manera efectiva, rápida y diferencial con el fin de permitirles disfrutar de las medidas de asistencia y atención establecidas en la presente ley.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 52.
 
-Conforme a los lineamientos desarrollados por la Comisión Ejecutiva Estatal, las secretarías, dependencias, organismos y entidades del Estado en los sectores salud, educación, desarrollo social y las demás obligadas, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán tener en cuenta las principales afectaciones y consecuencias del hecho victimizante, respetando siempre los principios generales establecidos en la presente ley y en particular el enfoque diferencial para las mujeres, menores de edad, personas con discapacidad, adultos mayores y población indígena.
+Conforme a los lineamientos desarrollados por la Comisión Ejecutiva Estatal, las secretarías, dependencias, organismos y entidades del Estado en los sectores salud, educación, desarrollo social y las demás obligadas, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán tener en cuenta las principales afectaciones y consecuencias del hecho victimizante, respetando siempre los principios generales establecidos en la presente ley y en particular el enfoque diferencial para los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, adultos mayores, personas con discapacidad, migrantes, indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 53.
 
-Las políticas y acciones establecidas en este capítulo tienen por objeto asegurar el acceso de las víctimas a la educación y promover su permanencia en el sistema educativo si como consecuencia del delito o de la violación a derechos humanos se interrumpen los estudios.
+Las políticas y acciones establecidas en este capítulo tienen por objeto asegurar el acceso de las víctimas a la educación y promover su permanencia en el sistema educativo si como consecuencia del delito o de la violación a derechos humanos se interrumpen los estudios, para lo cual se tomarán medidas para superar esta condición provocada por el hecho victimizante, particularmente niñas, niños y adolescentes, mujeres, personas con discapacidad, migrantes, indígenas y personas en situación de desplazamiento interno. La educación deberá contar con enfoque transversal de género y diferencial, de inclusión social y con perspectiva de derechos. Se buscará garantizar la exención para las víctimas de todo tipo de costos académicos en las instituciones públicas de educación preescolar, primaria, secundaria y media superior.
 
 ###### Artículo 54.
 
@@ -793,7 +947,9 @@ Las víctimas tendrán derecho a la restitución en sus derechos conculcados, as
 
 Las medidas de restitución comprenden, según corresponda:
 
-I. Restablecimiento de la libertad, en caso de secuestro o desaparición forzada;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+I. Restablecimiento de la libertad, en caso de secuestro o desaparición de persona;
 
 II. Restablecimiento de los derechos jurídicos;
 
@@ -803,7 +959,9 @@ IV. Restablecimiento de la vida y unidad familiar;
 
 V. Restablecimiento de los derechos civiles y políticos;
 
-VI. Regreso digno y seguro al lugar de residencia;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+VI. Regreso digno y seguro al lugar de residencia u origen;
 
 VII. Reintegración en el empleo, y
 
@@ -859,6 +1017,14 @@ Las normas reglamentarias estatales, de acuerdo a los lineamientos federales apl
 
 La compensación subsidiaria a las víctimas de los delitos señaladas en el artículo 68 de la Ley General de Víctimas, consistirá en apoyo económico cuya cuantía tomará en cuenta la proporcionalidad del daño y los montos señalados en el artículo 72 de esta ley.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+En los casos de la fracción VIII, cuando se hayan cubierto con los Recursos de Ayuda, no se tomarán en consideración para la determinación de la compensación.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+La Comisión Ejecutiva Estatal, expedirá los lineamientos respectivos a efecto de que a la víctima no se le cause mayores cargas de comprobación.
+
 ###### Artículo 70.
 
 Todas las víctimas de violaciones a los derechos humanos serán compensadas, en los términos y montos que determine la resolución que emita en su caso:
@@ -875,23 +1041,41 @@ Lo anterior sin perjuicio de las responsabilidades civiles, penales y administra
 
 En los casos de víctimas de delitos se estará a lo dispuesto en los montos máximos previstos en el artículo 72 de esta ley.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+###### Artículo 70 Bis.
+
+Los entes públicos estatales y municipales responsables señalados en la recomendación emitida por (sic) organismo público de protección a los derechos humanos, serán las encargadas (sic) de llevar a cabo la medida de compensación, en términos del artículo 29 de la presente Ley.
+
 ###### Artículo 71.
 
 Cuando se trate de resoluciones judiciales que determinen la compensación a la víctima a cargo del sentenciado, la autoridad judicial ordenará la reparación con cargo al patrimonio de éste, o en su defecto, con cargo a los recursos que, en su caso, se obtengan de la liquidación de los bienes decomisados al sentenciado.
 
 Sólo en caso de que no se actualicen los supuestos anteriores, se estará a lo dispuesto en el artículo 72 de esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 72.
 
-La Comisión Ejecutiva Estatal correspondiente determinará el monto del pago de una compensación en forma subsidiaria a cargo del Fondo Estatal en términos de la presente ley, así como de las normas reglamentarias correspondientes, tomando en cuenta:
+La Comisión Ejecutiva Estatal determinará el monto del pago de una compensación en forma subsidiaria a cargo del Fondo Estatal en términos de la presente ley, así como de las normas reglamentarias correspondientes, tomando en cuenta:
 
 I. La determinación del Ministerio Público cuando el responsable se haya sustraído de la justicia, haya muerto o desaparecido o se haga valer un criterio de oportunidad;
 
 II. La resolución firme emitida por la autoridad judicial;
 
-La determinación de la Comisión Ejecutiva Estatal correspondiente deberá dictarse dentro del plazo de noventa días contados a partir de emitida la resolución correspondiente.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
+La determinación de la Comisión Ejecutiva Estatal deberá dictarse dentro del plazo de noventa días contados a partir de emitida la resolución correspondiente.
 
 El monto de la compensación subsidiaria a la que se podrá obligar al Estado, será hasta de quinientas veces el salario mínimo general vigente en el Estado, ha de ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento para la víctima.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+###### Artículo 72 Bis.
+
+La Comisión Ejecutiva Estatal compensará de forma subsidiaria el daño causado a la víctima de los delitos que ameriten prisión preventiva oficiosa o en aquellos casos en que la víctima haya sufrido daño o menoscabo a su libertad, daño o menoscabo al libre desarrollo de su personalidad o si la víctima directa hubiera fallecido o sufrido un deterioro incapacitante en su integridad física o mental como consecuencia del delito, cuando así lo determine la autoridad judicial.
+
+Cuando la Comisión Ejecutiva Estatal no pueda cubrir la compensación subsidiaria para asegurar su cumplimiento, realizará la solicitud por escrito en términos de lo previsto en la fracción X del artículo 88 de la Ley.
 
 ###### Artículo 73.
 
@@ -999,49 +1183,53 @@ Para garantizar las medidas de no repetición, cuando el sujeto haya sido senten
 
 ### CAPÍTULO I. DE LAS AUTORIDADES COMPETENTES
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 84.
 
 El Sistema Estatal de Atención a Víctimas será la instancia de coordinación entre el Sistema Nacional y la Comisión Ejecutiva Estatal y estará integrado de la siguiente manera:
 
-I. Poder Ejecutivo:
+I. Del Poder Ejecutivo:
 
-a) El Gobernador del Estado, quien lo presidirá;
+a) El Titular del Poder Ejecutivo del Estado, quien lo presidirá;
 
-b) El Secretario de Gobierno;
+b) El Titular de la Secretaría de Gobierno;
 
-c) El Procurador General de Justicia del Estado;
+c) El Titular de la Secretaría de Finanzas y Planeación del Estado;
 
-d) El Secretario de Finanzas y Planeación del Estado;
+d) El Titular de la Secretaría de Salud del Estado;
 
-e) El Secretario de Salud del Estado;
+e) El Titular de la Secretaría de Seguridad Pública del Estado;
 
-f) El Secretario de Seguridad Pública;
+f) El Titular de la Secretaría de Trabajo y Previsión Social del Estado;
 
-g) El Secretario de Trabajo y Previsión Social;
+g) El Titular de la Secretaría de Desarrollo Social del Estado, y
 
-h) El Secretario de Desarrollo Social e Indígena, y
+h) El Titular de la Secretaría de Educación del Estado.
 
-i) El Secretario de Educación y Cultura.
+II. Del Poder Legislativo:
 
-II. Poder Legislativo:
+a) Quien presida la Comisión de Justicia, y
 
-a) El Presidente de la Comisión de Justicia, y
+b) Quien presida la Comisión de Derechos Humanos.
 
-b) El Presidente de la Comisión de Derechos Humanos.
-
-III. Poder Judicial:
+III. Del Poder Judicial:
 
 a) El Presidente del Tribunal Superior de Justicia.
 
-IV. Organismos descentralizados o autónomos:
+IV. De los Organismos descentralizados o autónomos:
 
-a) El Director del Sistema para el Desarrollo Integral de la Familia del Estado;
+a) El Titular del Sistema para el Desarrollo Integral de la Familia del Estado;
 
-b) La Presidenta del Instituto Quintanarroense de la Mujer, y
+b) El titular del Instituto Quintanarroense de la Mujer;
 
-c) El Presidente de la Comisión de los Derechos Humanos del Estado.
+c) El Titular de la Comisión de los Derechos Humanos del Estado;
 
-V. El Titular de la Comisión Ejecutiva Estatal.
+d) El Titular de la Fiscalía General del Estado, y
+
+e) El Titular de la Comisión Ejecutiva Estatal.
+
+Todas estas autoridades estarán obligadas a observar y supervisar, en el ámbito de sus competencias, la aplicación del Modelo Integral de Atención a Víctimas, publicado en el Diario Oficial de la Federación.
 
 ###### Artículo 85.
 
@@ -1081,47 +1269,117 @@ VIII. Formular estrategias de coordinación en materia de combate a la corrupci�
 
 IX. Expedir sus reglas de organización y funcionamiento, y
 
-X. Las demás que le otorga esta ley y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2019)</small>
+
+X. Coordinarse para la celebración de convenios de coordinación entre la Comisión Ejecutiva Nacional y la Comisión Ejecutiva Estatal para establecer las reglas de reintegración de los recursos erogados por la Comisión Ejecutiva Nacional a través de su Fondo Nacional, ya sea por conceptos de Recursos de Ayuda o de compensación subsidiaria. Dichos convenios garantizarán los criterios de transparencia, oportunidad, eficiencia y rendición de cuentas y deberán contener como mínimo, los requisitos establecidos en la fracción XVII incisos a) al d) del artículo 81 de la Ley General de Víctimas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+XI. Las demás que le otorga esta ley y otras disposiciones aplicables.
 
 ### CAPÍTULO II. DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE QUINTANA ROO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 89.
 
-Se crea la Comisión Ejecutiva de Atención a Víctimas del Estado de Quintana Roo, como órgano operativo del Sistema Estatal, y será un organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión.
+La Comisión Ejecutiva de Atención a Víctimas del Estado de Quintana Roo es un órgano operativo del Sistema Estatal, y será un organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión, que contará con los recursos que le sean asignados en el Presupuesto de Egresos del Gobierno del Estado.
 
 El reglamento de esta ley establecerá las atribuciones y funciones de la Comisión Ejecutiva Estatal.
 
 El organismo tendrá su sede en la ciudad de Chetumal, Quintana Roo, pero con capacidad de establecer oficinas en diversas localidades de la entidad.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+La Comisión Ejecutiva tendrá por objeto garantizar, promover y proteger los derechos de las víctimas del delito y de violaciones a derechos humanos, en especial los derechos a la asistencia, a la protección, a la atención, a la verdad, a la justicia, a la reparación integral y a la debida diligencia, en términos del artículo 2 de esta Ley; así como desempeñarse como el órgano operativo del Sistema y las demás que esta Ley señale.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+En la ejecución de las funciones, acciones, planes y programas previstos en esta Ley, la Comisión Ejecutiva Estatal garantizará la representación y participación directa de las víctimas y organizaciones de la sociedad civil, propiciando su intervención en la construcción de políticas públicas, así como el ejercicio de labores de vigilancia, supervisión y evaluación de las instituciones integrantes del Sistema con el objetivo de garantizar un ejercicio transparente de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 89 Bis.
 
-La Comisión Ejecutiva de Atención a Víctimas contará con un Consejo Directivo como máximo órgano de gobierno, el cual estará integrado por un:
+La Comisión Ejecutiva de Atención a Víctimas contará con un Consejo Directivo como máximo órgano de gobierno, el cual estará Integrado por:
 
-I. Presidente, quien será el titular de la Secretaría de Gobierno;
+I. El titular de la Secretaría de Gobierno, quien será el presidente;
 
-II. Vicepresidente, quien será el titular de Secretaría de Finanzas y Planeación;
+II. El titular de (sic) Secretaría de Finanzas y Planeación, quien será el vicepresidente;
 
-III. Tres vocales, quienes serán los titulares de Oficialía Mayor, Secretaría de Desarrollo Social e Indígena y Secretaría de Salud;
+III. Los titulares de Oficialía Mayor, Secretaría de Desarrollo Social y Secretaría de Salud; quienes serán los vocales.
+
+IV. Cuatro representantes de la Asamblea Consultiva, designados por ésta, los cuales tendrán derecho de voz, sin voto.
 
 Cada titular deberá contar con un suplente quien será la única persona facultada para representarlo en caso de ausencias en las sesiones ordinarias y extraordinarias a que haya lugar.
 
-El Consejo Directivo deberá reunirse una vez al mes para llevar a cabo las sesiones ordinarias, en el caso de las sesiones extraordinarias se llevarán a cabo cuando así se requiera. La organización de este órgano, se establecerá en el Reglamento de la Ley.
+El Consejo Directivo deberá reunirse cuatro veces al año para llevar a cabo las sesiones ordinarias, en el caso de las sesiones extraordinarias, se llevarán a cabo cuando así se requiera. La organización de este órgano, se establecerá en el Reglamento de la ley.
 
 El Consejo Directivo contará con una Secretaría Técnica que recaerá en el titular de la Comisión Ejecutiva Estatal quien tendrá las facultades que le otorgue el Reglamento de la Ley.
 
-Las atribuciones del Consejo Directivo serán las previstas en el artículo 63 de la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo con carácter de indelegables, y las que en su caso se establezcan en el Reglamento de la Ley.
+Las atribuciones del Consejo Directivo serán las previstas en el artículo 63 de la Ley de las entidades de la Administración Pública Paraestatal del Estado de Quintana Roo con carácter de indelegables, y las que en su caso se establezcan en el Reglamento de la Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+###### Artículo 89 Ter.
+
+El patrimonio de la Comisión Ejecutiva Estatal se integra:
+
+I. Con los recursos que le asigne el Congreso del Estado a través del Presupuesto de Egresos del Gobierno del Estado;
+
+II. Los bienes muebles e inmuebles que le sean asignados, y
+
+III. Los demás ingresos, rendimientos, bienes, derechos y obligaciones que adquiera o se le adjudiquen por cualquier título jurídico.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+###### Artículo 89 Quáter.
+
+La Comisión Ejecutiva Estatal contará con una Asamblea Consultiva, como órgano de consulta y vinculación con las víctimas y la sociedad.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+###### Artículo 89 Quinquies.
+
+La Asamblea Consultiva es un órgano de opinión y asesoría de las acciones, políticas públicas, programas y proyectos que desarrolle la Comisión Ejecutiva Estatal.
+
+La Asamblea Consultiva estará integrada por nueve representantes de colectivos de víctimas, organizaciones de la sociedad civil y académicos quienes serán electos por el Consejo Directivo y cuyo cargo tendrá carácter honorífico.
+
+Para efectos del párrafo anterior, la Comisión Ejecutiva Estatal emitirá una convocatoria pública, que establecerá los criterios de selección, la cual deberá ser publicada en el Periódico Oficial del Estado de Quintana Roo.
+
+La convocatoria para integrar la Asamblea Consultiva atenderá a un criterio de representación regional rotativa de cuando menos una institución, organización, colectivo o grupo por región.
+
+Las bases de la convocatoria pública deben ser emitidas por el Comisionado de la Comisión Ejecutiva Estatal y atender, cuando menos, a criterios de experiencia municipal, estatal, nacional o internacional en trabajos de protección, atención, asistencia, justicia, verdad y reparación integral de víctimas; desempeño destacado en actividades profesionales, de servicio público, sociedad civil o académicas así como experiencia laboral, académica o de conocimientos especializados, en materias afines a la Ley.
+
+La elección de los miembros de la Asamblea Consultiva deberá garantizar el respeto a los principios que dan marco a esta Ley, especialmente los de paridad y enfoque diferencial.
+
+Las funciones de la Asamblea Consultiva estarán previstas en el Reglamento de Ley, las personas integrantes durarán en su cargo cuatro años, y podrán ser ratificadas sólo por un período igual, en los términos de lo dispuesto en dicho ordenamiento.
 
 ###### Artículo 90.
 
 La Comisión Ejecutiva Estatal será la responsable de la ejecución de los instrumentos, políticas, servicios y acciones estatales en materia de ayuda, asistencia, atención y reparación a las víctimas, por lo cual estará a cargo del Registro Estatal, del Fondo Estatal y de la Asesoría Jurídica Estatal.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+###### Artículo 90 Bis.
+
+La Comisión Ejecutiva Estatal cuenta con un comité interdisciplinario evaluador con las siguientes facultades:
+
+I. Elaborar los proyectos de dictamen de acceso a los recursos del Fondo Estatal para el otorgamiento de los Recursos de Ayuda;
+
+II. Elaborar los proyectos de dictamen de reparación integral, previstas en la Ley y el Reglamento;
+
+III. Elaborar los proyectos de dictamen para la creación de fondos de emergencia, y
+
+IV. Las demás establecidas en la Ley y el Reglamento.
+
 ###### Artículo 91.
 
 La Comisión Ejecutiva Estatal, a través del Comisionado, para su adecuada función, tendrá las siguientes atribuciones:
 
-I. Ejecutar y dar seguimiento a los acuerdos y resoluciones adoptadas por el Sistema Nacional;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+I. Ejecutar y dar seguimiento a los acuerdos y resoluciones adoptadas por el Sistema Estatal y Nacional;
 
 II. Garantizar el acceso a los servicios multidisciplinarios y especializados que el Estado proporcionará a las víctimas de delitos o de violaciones de derechos humanos, para lograr su reincorporación a la vida social;
 
@@ -1155,7 +1413,9 @@ XVI. Aprobar el Estatuto Orgánico de la Comisión Ejecutiva Estatal;
 
 XVII. Proponer al Titular del Poder Ejecutivo el proyecto de reglamento de la presente ley y otros reglamentos que resulten necesarios, así como sus reformas y adiciones;
 
-XVIII. Emitir los lineamientos de organización, operación y coordinación de los Centros de Atención a Víctimas y del Centro de Atención a Víctimas u ofendidos del delito de la Procuraduría General de Justicia del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XVIII. Emitir los lineamientos de organización, operación y coordinación de los Centros de Atención a Víctimas;
 
 XIX. Formular propuestas de política pública de prevención de violaciones a derechos humanos, atención, asistencia, protección, acceso a la justicia, a la verdad y reparación integral a las víctimas de acuerdo con los principios establecidos en esta ley;
 
@@ -1177,7 +1437,7 @@ XXVII. Elaborar los manuales, lineamientos, programas y demás acciones, acorde 
 
 XXVIII. Analizar y generar, en casos de graves violaciones a derechos humanos o delitos graves cometidos contra un grupo de víctimas, programas integrales emergentes de ayuda, atención, asistencia, protección, acceso a la justicia, a la verdad y reparación integral;
 
-XXIX. Constituir y coordinar los Comités Especiales de atención a víctimas de delitos o violaciones de derechos humanos previstos en esta ley;
+XXIX. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
 XXX. Realizar un diagnóstico estatal que permita evaluar las problemáticas concretas que enfrentan las víctimas en términos de prevención del delito o de violaciones a los derechos humanos, atención, asistencia, acceso a la justicia, derecho a la verdad y reparación integral del daño;
 
@@ -1217,9 +1477,9 @@ XLI. Celebrar convenios con la Fiscalía Especializada para la Investigación de
 
 XLII. Proporcionar medidas de ayuda, asistencia, atención, así como asegurar la protección integral y reparación del daño a las víctimas de los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes, en los términos de la Ley General de la materia y esta ley;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-XLIII. Remitir en términos de los convenios respectivos, a la Procuraduría General de la República y a la Fiscalía General del Estado, las bases de datos sobre las víctimas de tortura y otros tratos o penas crueles, inhumanos o degradantes, para su incorporación en el Registro Nacional del Delito de Tortura y en el Registro Estatal del Delito de Tortura, respectivamente, en términos de lo dispuesto por la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+XLIII. Remitir en términos de los convenios respectivos, a la Fiscalía General de la República y a la Fiscalía General del Estado, las bases de datos sobre las víctimas de tortura y otros tratos o penas crueles, inhumanos o degradantes, para su incorporación en el Registro Nacional del Delito de Tortura y en el Registro Estatal del Delito de Tortura, respectivamente, en términos de lo dispuesto por la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
 
@@ -1229,9 +1489,25 @@ XLIV. Participar en el Programa Nacional y Estatal para Prevenir y Sancionar la 
 
 XLV. Cumplir en el ámbito de su competencia con las atribuciones que en materia de víctimas señala el artículo 92 y demás disposiciones de la Ley General de la materia, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2019)</small>
 
-XLVI. Las demás que se deriven de la normatividad aplicable.
+XLVI. En el caso de víctimas de desplazamiento interno que se encuentren en una entidad federativa distinta de su entidad de origen, cuando proceda se garantizará su debido registro, atención y reparación, en términos de esta Ley;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XLVII. Suscribir los convenios de colaboración, coordinación o concertación o la contratación de expertos que se requiera para el cumplimiento de sus funciones;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+XLVIII. Las demás que se deriven de la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+###### Artículo 91 Bis.
+
+La Comisión Ejecutiva Estatal podrá solicitar la ayuda de la Comisión Ejecutiva Nacional para atender, asistir y, en su caso, cubrir una compensación subsidiaria en términos de esta Ley, en aquellos casos de víctimas de delitos del fuero común o de violaciones a derechos humanos cometidos por servidores públicos del orden estatal o municipal en los supuestos a que se refiere el artículo 88 Bis de la Ley General de Víctimas.
+
+Los recursos erogados bajo tales supuestos deberán ser reintegrados al Fondo Nacional, por la Comisión Ejecutiva Estatal con cargo al Fondo Estatal, en cuanto éste cuente con los recursos para tal efecto.
 
 ###### Artículo 92.
 
@@ -1257,19 +1533,37 @@ II. Tener residencia mínima de cinco años en el Estado de Quintana Roo inmedia
 
 III. Tener como mínimo treinta años de edad cumplidos, el día de su designación;
 
-IV. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en sociedad civil o académicas relacionadas con la materia de esta ley;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-V. Tener modo honesto de vivir;
+IV. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en sociedad civil o académicas relacionadas con la materia de esta ley, por lo menos en los dos años previos a su designación;
 
-VI. Gozar de buena reputación, prestigio profesional y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año. Empero, si se tratare de ilícitos como el robo, fraude, falsificación, abuso de confianza u otro que lesione seriamente la reputación de la persona en el concepto público, inhabilitará a ésta para ocupar el cargo cualquiera que haya sido la penalidad impuesta;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2019)</small>
 
-VII. No ser ministro de algún culto religioso;
+V. Contar con título profesional;
 
-VIII. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
 
-IX. No haber ocupado cargo público, ni haber desempeñado cargo de dirección nacional o estatal en algún partido político, dentro de los dos años previos a su designación, y
+VI. Tener modo honesto de vivir;
 
-X. No haber sido sancionado en el desempeño de algún cargo, empleo o comisión dentro de la administración pública estatal o municipal con motivo de una recomendación de algunos de los organismos públicos defensores de los derechos humanos.
+> <small>(REFORMADA Y REUBICADA, P.O. 29 DE MAYO DE 2019)</small>
+
+VII. Gozar de buena reputación, prestigio profesional y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año. Empero, si se tratare de ilícitos como el robo, fraude, falsificación, abuso de confianza u otro que lesione seriamente la reputación de la persona en el concepto público, inhabilitará a ésta para ocupar el cargo cualquiera que haya sido la pena impuesta;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+VIII. No ser ministro de algún culto religioso;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+IX. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+X. No haber desempeñado cargo de dirección nacional o estatal en algún partido político, dentro de los dos años previos a su designación, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+XI. No haber sido sancionado en el desempeño de algún cargo, empleo o comisión dentro de la administración pública estatal o municipal con motivo de una recomendación de algunos de los organismos públicos defensores de los derechos humanos.
 
 ###### Artículo 94.
 
@@ -1282,6 +1576,10 @@ La Legislatura del Estado, o en su caso, la Diputación Permanente, con el voto 
 ###### Artículo 95.
 
 Se crea el Registro de Víctimas del Estado de Quintana Roo como un mecanismo técnico y administrativo adscrito a la Comisión Ejecutiva Estatal, que soporta el proceso de ingreso y registro de las víctimas de delito y de violaciones de derechos humanos al Sistema Nacional creado por la Ley General de Víctimas, de forma complementaria al Registro Nacional de Víctimas.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+El Registro constituye un soporte fundamental para garantizar que las víctimas tengan un acceso oportuno y efectivo a las medidas de ayuda, asistencia, atención, acceso a la justicia y reparación integral previstas en esta Ley.
 
 ###### Artículo 96.
 
@@ -1347,9 +1645,13 @@ XI. Cumplir con las demás obligaciones que determine la Comisión Ejecutiva Est
 
 La solicitud de inscripción de la víctima no implica de oficio su ingreso al Registro Estatal.
 
-Presentada la solicitud, deberá ingresarse la misma al Registro Estatal y se procederá a la valoración de la información recogida en el formato único diseñado por la Comisión Ejecutiva Nacional junto con la documentación remitida que acompañe dicho formato.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
-Para adelantar esa valoración, la Comisión Ejecutiva Estatal, podrá solicitar la información que considere necesaria a cualquiera de las autoridades estatales o municipales, las que estarán en el deber de suministrarla en un plazo que no supere los diez días naturales.
+Presentada la solicitud, deberá ingresarse la misma al Registro Estatal y se procederá a la valoración de la información recogida en el formato único de declaración, diseñado por la Comisión Ejecutiva Estatal, junto con la documentación remitida que acompañe dicho formato.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
+Para mejor proveer, la Comisión Ejecutiva Estatal, podrá solicitar la información que considere necesaria a cualquiera de las autoridades federales, estatales o municipales en el ámbito de sus respectivas competencias, las que estarán en el deber de suministrarla en un plazo que no supere los diez días naturales.
 
 Si hubiera una duda razonable sobre los hechos, se escuchará a la víctima o a quien haya solicitado el ingreso en el Registro Estatal, quien podrá acudir ante la Comisión Ejecutiva Estatal. En caso de hechos probados o de naturaleza pública, deberá aplicarse el principio de buena fe a que hace referencia esta ley.
 
@@ -1429,6 +1731,8 @@ Cuando la víctima sea mayor de 12 años, podrá solicitar su ingreso al Registr
 
 En los casos de víctimas menores de 12 años, se podrá solicitar su ingreso a través de su representante legal o a través de las autoridades mencionadas en esta ley.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 108.
 
 Para efectos de esta ley, el reconocimiento de la calidad de víctima se realiza por la determinación de cualquiera de las siguientes autoridades:
@@ -1439,7 +1743,15 @@ II. El juzgador penal o de paz que tiene conocimiento de la causa;
 
 III. El juzgador en materia de amparo, civil o familiar que tenga los elementos para acreditar que el sujeto es víctima;
 
-IV. La Comisión Ejecutiva Estatal, que podrá tomar en consideración las determinaciones del Ministerio Público, la autoridad responsable de la violación a los derechos humanos que le reconozca tal carácter, los organismos públicos de protección de los derechos humanos, o los organismos internacionales de protección de derechos humanos a los que México les reconozca competencia.
+IV. Los organismos públicos de protección a los derechos humanos;
+
+V. Los organismos internacionales de protección de derechos humanos a los que México les reconozcan (sic) competencia;
+
+VI. La autoridad responsable de la violación a los derechos humanos que le reconozca tal carácter;
+
+VII. El Ministerio Público; y
+
+VIII. La Comisión Ejecutiva Estatal.
 
 ###### Artículo 109.
 
@@ -1455,11 +1767,11 @@ III. Las demás que señale la Ley General de Víctimas.
 
 #### SECCIÓN PRIMERA. DE SU CREACIÓN, OBJETO E INTEGRACIÓN
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 110.
 
-Se crea el Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Quintana Roo y tiene por objeto brindar los recursos necesarios para la ayuda, asistencia y reparación integral de las víctimas del delito y las víctimas de violaciones a los derechos humanos en el Estado de Quintana Roo.
-
-La víctima podrá acceder de manera subsidiaria al Fondo Estatal en los términos de esta ley, sin perjuicio de las responsabilidades y sanciones administrativas, penales y civiles que resulten.
+El Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Quintana Roo tiene por objeto brindar los Recursos de Ayuda y la reparación integral de las víctimas del delito y las víctimas de violaciones a los derechos humanos en el Estado de Quintana Roo, siguiendo criterios de transparencia, oportunidad, eficiencia y rendición de cuentas.
 
 ###### Artículo 111.
 
@@ -1485,7 +1797,13 @@ Para ser beneficiario del apoyo del Fondo Estatal, además de los requisitos que
 
 El Fondo Estatal se conformará con:
 
-I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos del Estado de Quintana Roo en el rubro correspondiente, en un porcentaje no inferior al 0.014 por ciento del total de los mismos, sin que pueda disponerse de dichos recursos para fines diversos a los señalados por esta ley;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+I. La asignación anual en el presupuesto de egresos del gobierno del Estado, por una cantidad que será igual al 50% de la asignación que se destine al Fondo Nacional en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
+
+La aportación anual que se deberá realizar, para alcanzar el monto total que corresponde a la suma de las asignaciones anuales referidas en el párrafo anterior, se calculará con base en un factor poblacional. Dicho factor será equivalente a la proporción de la población del Estado de Quintana Roo con respecto del total nacional, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
+
+La aportación anual se deberá efectuar, siempre y cuando, el patrimonio del Fondo Estatal al inicio del ejercicio sea inferior al monto de aportación que corresponde al Estado de acuerdo con el párrafo anterior. Dicha aportación se deberá efectuar a más tardar al 31 de marzo de cada ejercicio.
 
 II. Recursos obtenidos por la enajenación de bienes decomisados en procesos penales, en términos de lo previsto por la legislación correspondiente;
 
@@ -1507,21 +1825,49 @@ X. Los recursos recuperados por concepto de la compensación subsidiaria otorgad
 
 XI. Los montos que se recuperen en virtud de la caución de no ofender impuesta por el juez competente, en los términos de esta ley.
 
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XII. Aportaciones de las dependencias y entidades estatales y municipales señaladas como autoridades responsables de violaciones a derechos humanos;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XIII. Las reasignaciones presupuestales de otros programas presupuestales;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XIV. Los demás ingresos que por Ley le sean asignados.
+
 Las compensaciones subsidiarias se cubrirán con los recursos del Fondo Estatal correspondiente al Ejercicio Fiscal vigente al momento de la solicitud. La Comisión Ejecutiva Estatal velará por la optimización del uso de los recursos, priorizando en todo momento aquellos casos de mayor gravedad.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+De los recursos que constituyen el patrimonio del Fondo Estatal, se deberá mantener una reserva del 20% para cubrir los reintegros que, en su caso, deban realizarse al Fondo Nacional en términos de lo dispuesto por la Ley General.
 
 ###### Artículo 114.
 
 El Fondo Estatal estará exento de toda imposición de carácter fiscal local, así como de los diversos gravámenes que pudieran estar sujetas las operaciones que se realicen con el Estado de Quintana Roo.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+###### Artículo 114 Bis.
+
+Cuando la situación lo amerite, en términos de lo establecido en el Reglamento, el Comisionado, previo dictamen a que se refiere el artículo 90 Bis fracción III podrá crear un fondo de emergencia para el otorgamiento de los Recursos de Ayuda, el cual tendrá adjudicado parte de los recursos del Fondo por un tiempo determinado. El ejercicio de los recursos del fondo de emergencia no estará supeditado al dictamen a que se refiere el artículo 90 Bis fracción I de la Ley.
+
 #### SECCIÓN SEGUNDA. DE LA ADMINISTRACIÓN
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 115.
 
-Los recursos del Fondo Estatal serán administrados y operados por la Comisión Ejecutiva Estatal a través de un fideicomiso público, siguiendo criterios de transparencia, eficiencia y rendición de cuentas.
+Los recursos del Fondo Estatal serán administrados y operados por la Comisión Ejecutiva Estatal a través de un fideicomiso público, siguiendo criterios de transparencia, oportunidad, eficiencia y rendición de cuentas.
+
+La Comisión Ejecutiva Estatal proveerá a las víctimas que corresponda los recursos para cubrir las medidas a que se refieren los Títulos Segundo, Tercero y Cuarto de la Ley, con cargo al Fondo Estatal. La víctima deberá comprobar el ejercicio del monto a más tardar a los treinta días posteriores de haber recibido el recurso. El Reglamento establecerá los criterios de comprobación, dentro de los cuales deberá señalar aquellos en los que los organismos públicos de protección de derechos humanos podrán auxiliar en la certificación del gasto.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 116.
 
-El manejo, administración y ejercicio de los recursos del Fondo Estatal y su fiscalización se regirá por lo dispuesto en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Quintana Roo y demás normatividad aplicable.
+El manejo, administración y ejercicio de los recursos del Fondo Estatal y su fiscalización se regirá por lo dispuesto en la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo y demás normatividad aplicable.
 
 ###### Artículo 117.
 
@@ -1552,6 +1898,12 @@ El Fondo Estatal será fiscalizado anualmente por el Órgano de Fiscalización S
 Para acceder a los recursos del Fondo Estatal, la víctima deberá presentar su solicitud ante la Comisión Ejecutiva Estatal de acuerdo a los términos y agotar el procedimiento que se establezcan (sic) en el reglamento de esta ley.
 
 Las determinaciones de la Comisión Ejecutiva Estatal respecto a cualquier tipo de pago, compensación o reparación del daño tendrán el carácter de resoluciones administrativas definitivas. Contra dichas resoluciones procederá el juicio de amparo.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+###### Artículo 120 Bis.
+
+En cuanto reciba una solicitud, la Comisión Ejecutiva Estatal la turnará al comité interdisciplinario evaluador, para la integración del expediente que servirá de base para la determinación del Comisionado en torno a los Recursos de Ayuda y, en su caso, la reparación que requiera la víctima.
 
 ###### Artículo 121.
 
@@ -1593,9 +1945,13 @@ V. El enfoque diferencial, y
 
 VI. Los recursos disponibles en el Fondo Estatal.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 124.
 
-Si el Estado no pudiese hacer efectiva total o parcialmente la orden de reparación integral, establecida por mandato judicial o por acuerdo de la Comisión Ejecutiva Estatal, deberá justificar la razón y tomar las medidas suficientes para cobrar su valor o gestionar lo pertinente a fin de lograr que se concrete la reparación integral de la víctima.
+Las víctimas tienen derecho a que se les repare de manera oportuna, plena, diferenciada, integral y efectiva el daño que han sufrido como consecuencia de las violaciones de derechos humanos, comprendiendo medidas de restitución, rehabilitación, compensación, satisfacción y de no repetición, por parte de los entes públicos estatales y municipales responsables, siendo el Fondo Estatal en su caso, un mecanismo subsidiario.
+
+Si no pudiese hacerse efectiva total o parcialmente la orden de reparación integral, establecida por mandato judicial o por acuerdo de la Comisión Ejecutiva Estatal, se deberá justificar la razón y tomar las medidas suficientes para cobrar su valor o gestionar lo pertinente a fin de lograr que se concrete la reparación integral de la víctima.
 
 ### CAPÍTULO V. DE LA ASESORÍA JURÍDICA DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE QUINTANA ROO
 
@@ -1693,13 +2049,17 @@ IX. No haber sido sancionado en el desempeño de algún cargo, empleo o comisió
 
 El Asesor Jurídico Estatal, tendrá las funciones siguientes:
 
-I. Procurar hacer efectivos cada uno de los derechos y garantías de la víctima, en especial el derecho a la protección, la verdad, la justicia y a la reparación integral;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+I. Procurar hacer efectivos cada uno de los derechos y garantías de la víctima, en especial el derecho a la protección, la verdad, la justicia y a la reparación integral. Por lo que podrá contar con servicios de atención médica y psicológica, trabajo social y aquellas que considere necesarias para cumplir con el objetivo de esta fracción;
 
 II. Formular denuncias o querellas;
 
 III. Asistir y asesorar a la víctima desde el primer momento en que tenga contacto con la autoridad;
 
-IV. Representar a la víctima de manera integral en todos los procedimientos y juicios en los que sea parte, para lo cual deberá realizar todas las acciones legales y administrativas tendientes a su defensa, incluyendo las que correspondan en materia de derechos humanos tanto en el ámbito nacional como internacional;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+IV. Representar a la víctima de manera integral en todo procedimiento jurisdiccional o administrativo derivado de un hecho victimizante;
 
 V. Proporcionar a la víctima de forma clara, accesible, oportuna y detallada la información y la asesoría legal que requiera en materia penal;
 
@@ -1713,11 +2073,17 @@ IX. Llevar un registro puntual de las acciones realizadas y formar un expediente
 
 X. Tramitar y entregar copias de su expediente a la víctima, en caso de que ésta las requiera;
 
-XI. Vigilar la efectiva protección y goce de los derechos de las víctimas en las actuaciones del Ministerio Público en todas y cada una de las etapas del procedimiento penal y, cuando lo amerite, suplir las deficiencias de éste ante la autoridad jurisdiccional correspondiente cuando considere que no se vela efectivamente por la tutela de los derechos de las víctimas por parte del Ministerio Público, y
+XI. (DEROGADA, P.O. 29 DE MAYO DE 2019)
 
 XII. Informar y asesorar a la víctima sobre los mecanismos alternativos de solución de controversias, y velar por que las mismas se realicen en estricto respeto de los principios que sustentan la justicia restaurativa, en especial, la voluntariedad, y
 
-XIII. Las demás que se requieran para la defensa integral de los derechos de las víctimas.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XIII. Tramitar, supervisar o, cuando se requiera, implementar las medidas de ayuda inmediata, ayuda, asistencia, atención y rehabilitación previstas en la presente Ley;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+XIV. Las demás que se requieran para la defensa integral de los derechos de las víctimas.
 
 ###### Artículo 134.
 
@@ -1743,17 +2109,19 @@ El Asesor Jurídico Estatal será asignado inmediatamente por la Comisión Ejecu
 
 ### CAPÍTULO VI. DEL CENTRO DE ATENCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 136.
 
-Las áreas adscritas al Centro de Atención a Víctimas u ofendidos del delito de la Procuraduría General de Justicia del Estado de Quintana Roo deberán estar al alcance de las víctimas en diferentes lugares del Estado de Quintana Roo. Estos centros contarán con el personal competente y capacitado para atender a víctimas en materia jurídica, psicológica y de trabajo social así como canalizar a las instituciones competentes a las víctimas para que reciban la ayuda, asistencia y atención apropiada y especializada.
+Los Centros de Atención a Víctimas deberán estar adscritos a la Comisión Ejecutiva Estatal y estar al alcance de las víctimas en diferentes lugares del Estado de Quintana Roo. Estos centros contarán con el personal competente y capacitado para atender a víctimas en materia jurídica, psicológica y de trabajo social así como canalizar a las instituciones competentes a las víctimas para que reciban la ayuda, asistencia y atención apropiada y especializada.
 
-Se podrá establecer otros Centros de Atención a Víctimas adscritos a la Comisión Ejecutiva Estatal, en los que se comprenda puntos geográficos estratégicos que permitan la rápida, fácil y diligente proximidad con quienes requieran su atención en cualquier momento.
+Se podrá establecer otros Centros de Atención a Víctimas, en los que se comprenda puntos geográficos estratégicos que permitan la rápida, fácil y diligente proximidad con quienes requieran su atención en cualquier momento.
 
-Para cumplir con los objetivos de los Centros la Comisión Ejecutiva Estatal debe establecer rutas de atención y coordinación entre instituciones estatales y municipales, las cuales deberán constar en el Programa Estatal.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 137.
 
-La Comisión Ejecutiva Estatal será la responsable de emitir los lineamientos de organización, operación y coordinación de los Centros de Atención a Víctimas y del Centro de Atención a Víctimas u ofendidos del delito de la Procuraduría General de Justicia del Estado de Quintana Roo, en apego a los programas, políticas y acciones del Sistema Nacional.
+La Comisión Ejecutiva Estatal será la responsable de emitir los lineamientos de organización, operación y coordinación de los Centros de Atención a Víctimas, en apego a los programas, políticas y acciones del Sistema Nacional.
 
 ### CAPÍTULO VII. DEL PROGRAMA DE ATENCIÓN Y REPARACIÓN INTEGRAL A VÍCTIMAS DEL ESTADO DE QUINTANA ROO
 
@@ -1843,7 +2211,13 @@ VII. Participar y coadyuvar en la protección y atención a las víctimas;
 
 VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
 
-IX. Las demás aplicables a la materia, que les conceda la presente ley, la Ley General de Víctimas u otros ordenamientos legales aplicables.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+IX. Reparar de manera oportuna, plena, diferenciada, integral y efectiva el daño provocado a las víctimas como consecuencia de sus actos, en términos del artículo 29 de esta Ley.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+
+X. Las demás aplicables a la materia, que les conceda la presente ley, la Ley General de Víctimas u otros ordenamientos legales aplicables.
 
 ### CAPÍTULO III. DE LOS SERVIDORES PÚBLICOS
 
@@ -1993,7 +2367,9 @@ II. Permitir la participación de la víctima y su defensor en procedimientos en
 
 III. Facilitar el acceso de la víctima a la investigación, con el objeto de respetar su derecho a la verdad;
 
-IV. Colaborar con los tribunales de justicia, el ministerio público, la Procuraduría General de Justicia del Estado, contralorías y demás autoridades en todas las actuaciones policiales requeridas;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+IV. Colaborar con los tribunales de justicia, el ministerio público, la Fiscalía General del Estado, contralorías y demás autoridades en todas las actuaciones policiales requeridas;
 
 V. Remitir los datos de prueba e informes respectivos, con debida diligencia en concordancia con los principios establecidos en la presente ley;
 
@@ -2126,3 +2502,21 @@ Tercero. La Secretaría de Finanzas y Planeación, realizará las acciones neces
 Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública, y organismos públicos autónomos, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes.
 
 Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 29 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 322, POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+TERCERO. A los ciento ochenta días hábiles siguientes, a la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones al reglamento de esta Ley y a los lineamientos correspondientes.
+
+CUARTO. La Comisión Ejecutiva Estatal realizará las adecuaciones necesarias a su estructura orgánica en un plazo no mayor de noventa días naturales posteriores a la entrada en vigor de las adecuaciones realizadas al Reglamento.
+
+QUINTO. La Comisión Ejecutiva Estatal, en un plazo no mayor a sesenta días naturales a partir de la entrada en vigor del presente Decreto publicará la Convocatoria y designará a los miembros de la Asamblea Consultiva a que se refiere el artículo 89 Quinquies de la Ley de Víctimas del Estado de Quintana Roo.
+
+SEXTO. Constituida la Asamblea Consultiva, ésta deberá elegir a los miembros que formarán parte del Consejo Directivo, a que se refiere el artículo 89 Bis de la Ley de Víctimas del Estado de Quintana Roo, dentro de los diez días siguientes.
+
+SÉPTIMO. Las erogaciones que, en el ámbito estatal se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado, por lo que no se autorizarán recursos adicionales en el ejercicio fiscal correspondiente.
