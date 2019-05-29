@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2018-03-09"
+last_updated: "2019-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,93 +23,235 @@ state: "NLE"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 9 DE MARZO DE 2018.]</small>
+Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
-Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
+AURELIO L. GONZALEZ, Gobernador Constitucional del Estado libre y soberano de Aguascalientes, a sus habitantes, sabed:
 
-BENJAMIN CLARIOND REYES-RETANA, GOBERNADOR SUBSTITUTO DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
+Que por el Congreso del Estado se me ha comunicado lo siguiente:
 
-Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+El Congreso Constituyente del Estado libre y soberano de Aguascalientes, en uso de sus facultades, previos los requisitos señalados en el artículo 1° del decreto de fecha 8 de mayo del año en curso, reforma en los siguientes términos la Constitución Política del Estado, expedida el 18 de octubre de 1868.
 
-DECRETO
-
-NUM. 383
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2013)</small>
-
-LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ## TITULO PRIMERO. DE LA JUSTICIA ADMINISTRATIVA
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO PRIMERO
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+Declaraciones.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 1o.
 
-Esta Ley tiene por objeto establecer la organización y funcionamiento del Tribunal de Justicia Administrativa del Estado de Nuevo León, dotado de facultades para conocer y resolver los conflictos y controversias que se susciten entre los particulares y el Estado, los Municipios, sus organismos descentralizados y empresas de participación estatal y municipal cuando estas últimas realicen funciones administrativas de autoridad; el procedimiento para su resolución y ejecución; los recursos que los particulares y las autoridades podrán interponer en contra de los fallos que pronuncie.
+El Estado de Aguascalientes es parte integrante de los Estados Unidos Mexicanos; en consecuencia, acatará las disposiciones del Pacto Federal, siendo autónomo en su régimen interno.
 
-> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
-Asimismo, el Tribunal de Justicia Administrativa será el órgano competente, a través de la Sala Especializada en materia de Responsabilidades Administrativas, para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves o que constituyan hechos de corrupción, así como a los particulares que participen en los actos vinculados con dichas responsabilidades, fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales, así como conocer de los asuntos derivados de las sanciones administrativas que emitan otras autoridades.
+En el Estado de Aguascalientes se fomentará el patrimonio cultural, la historia y la identidad local, reconociendo la composición pluricultural de sus personas, el valor de sus fiestas, tradiciones y conocimientos que identifican a los grupos, pueblos y comunidades que integran su territorio, como un pilar fundamental de la convivencia social basada en las libertades de los seres humanos. Podrá contar con himno, escudo y bandera como símbolos de identidad cultural local, mismos que deberán respetar y no contravenir los símbolos nacionales. Las leyes secundarias regularán lo correspondiente a sus características y usos.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2025)</small>
 
 ###### Artículo 2o.
 
-El Tribunal es un órgano formalmente administrativo materialmente jurisdiccional dotado de plena autonomía presupuestal, funcional, y con plena jurisdicción para dictar sus fallos.
+En el Estado de Aguascalientes el respeto a la dignidad humana, la autonomía individual y la libertad constituyen principios jurídicos que permean en todo ordenamiento legal, pero también como un derecho fundamental que debe ser respetado en todo caso, cuya importancia resalta al ser la base y condición para el disfrute de los demás derechos y el desarrollo integral de la personalidad. Todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado Mexicano sea parte, en las leyes generales expedidas por el Congreso de la Unión, la presente Constitución y en las leyes locales, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y con las condiciones que la propia Constitución Federal establece.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+
+Las normas relativas a los derechos humanos se interpretarán siempre de conformidad con la Constitución Política de los Estados Unidos Mexicanos, con los tratados internacionales de la materia y con la presente Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2021)</small>
+
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
+
+(NOTA: EL 10 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 72/2021 Y SU ACUMULADA 74/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MARZO DE 2021)</small>
+
+Para los efectos de esta Constitución y de las leyes que de ella emanen, persona es todo ser humano DESDE SU CONCEPCIÓN HASTA SU MUERTE NATURAL. El Estado le garantizará el pleno goce y ejercicio de todos sus derechos.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2021)</small>
+
+Toda persona tiene derecho al reconocimiento de su personalidad jurídica. Ninguna ley podrá atentar contra la esencial unidad y dignidad de la naturaleza humana.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE MARZO DE 2021)</small>
+
+Toda persona tiene los deberes y las obligaciones correlativas a los derechos que esta Constitución y demás leyes les reconocen. Por ende, toda persona está llamada a contribuir al cumplimiento de las tareas comunitarias y de labor social, en la medida de sus capacidades y posibilidades, como el medio para el pleno desarrollo de su personalidad.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Queda prohibida toda discriminación motivada por el origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, la condición o situación migratoria, los antecedentes penales o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2021)</small>
+
+Artículo 2o A.- El Estado de Aguascalientes reconoce y comparte la composición pluricultural, pluriétnica y plurilingüe de la Nación Mexicana. En tal tenor, esta Constitución asume a plenitud todos los derechos, prerrogativas y obligaciones de los pueblos y comunidades indígenas, así como las obligaciones de las instituciones públicas establecidas en la Constitución Federal y Tratados Internaciones (sic) celebrados por el Ejecutivo de la Unión con aprobación del Senado.
+
+Las comunidades indígenas procedentes de otros Estados de la República y que residan temporal o permanentemente dentro del territorio del Estado de Aguascalientes quedan protegidos por los derechos señalados en esta Constitución y la ley local respectiva.
+
+La conciencia de la identidad indígena será criterio fundamental para determinar a quienes aplican las disposiciones que sobre pueblos indígenas se establezcan en esta Constitución y leyes de la materia.
+
+El Poder Ejecutivo, el Poder Judicial, el Poder Legislativo y los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias, tienen a su cargo la salvaguarda de los derechos colectivos aquí señalados, a fin de asegurar su respeto y aplicación de la ley a favor de los pueblos y comunidades indígenas que se encuentren en el Estado de Aguascalientes.
+
+Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación, en los términos del Artículo 2o de la Constitución Federal. Lo cual será efectivo, una vez que su permanencia en el Estado sea reconocida como tal por el Instituto Nacional de Pueblos Indígenas o la autoridad federal competente.
+
+Para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, el Estado y los municipios establecerán las instituciones y las políticas públicas requeridas para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales tendrán que ser diseñadas y operadas conjuntamente con ellos, en los términos del artículo segundo constitucional y la ley de la materia.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2013)</small>
 
 ###### Artículo 3o.
 
-El Tribunal residirá en la capital del Estado, sin perjuicio de que pueda descentralizar sus oficinas en el territorio del Estado para la atención más oportuna de los asuntos de su competencia.
+El Poder Público solamente puede actuar en uso de facultades expresas mientras que los particulares pueden hacer todo lo que las Leyes federales y locales no les prohíban. La violación de este principio dará lugar a las consecuencias jurídicas que determine la ley.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+En el cumplimiento de la ley, si la autoridad requiere afectar o intervenir un derecho, deberá observar los principios de justicia, racionalidad, necesidad, idoneidad y proporcionalidad para hacerlo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 4o.
 
-Todas las sesiones de la Sala Superior del Tribunal serán públicas, con excepción de los casos en que la moral, el interés público o la Ley exijan que sean privadas.
+La familia es la base fundamental de la sociedad y tiene derecho a la protección de la sociedad y del Estado. Cualquier doctrina o credo que en alguna forma mine sus cimientos se considerará atentatoria de la integridad misma del Estado. La Ley garantizará su organización y desarrollo sin discriminación alguna y su plena protección por el estado y sus autoridades en el ámbito de sus competencias y facultades.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2023)</small>
 
-### CAPITULO II. DE LA INTEGRACION DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE NUEVO LEON
+Por la misma razón, la familia y, particularmente, niñas, niños, adolescentes, personas con discapacidad, personas adultas mayores y cualquier otra persona en situación de vulnerabilidad, serán sujetos de especial protección por parte de las autoridades legislativas, administrativas y jurisdiccionales. Toda medida o disposición protectoras de la familia se considerarán de orden público. El Estado deberá reconocer, fomentar, promover e impulsar valores sociales y políticas públicas destinadas a fortalecer el desarrollo armónico de la familia como núcleo de la sociedad.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2026)</small>
+
+En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Las niñas, niños y adolescentes tienen derecho a la satisfacción de sus necesidades de alimentación, salud física y emocional, educación y sano esparcimiento para su desarrollo integral.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+
+Los ascendientes, tutores y custodios, tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+
+El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2025)</small>
+
+Toda persona tiene derecho a cuidar, ser cuidada y al autocuidado. Para aquellas personas en situación de dependencia, que requieran de cuidados intensos o extensos y/o especializados, el Estado protegerá y garantizará que los cuidados sean proporcionados en condiciones dignas y de calidad.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+
+Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
+La mujer y el hombre son iguales ante la Ley, ésta protegerá la organización y desarrollo de las familias. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+
+Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad. El Estado garantizará el acceso a los programas y acciones públicas en la materia y fomentará en sus habitantes el cuidado de la salud, procurando que las autoridades atiendan la nutrición adecuada de las familias, la alimentación segura, así como los medios para obtenerla, con primordial atención en la calidad de la alimentación que consumen las niñas, niños, jóvenes y adultos mayores, en esta tarea participarán las dependencias y organismos competentes de la administración pública del Gobierno del Estado, así como los correspondientes de los Municipios de la Entidad.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
+
+Toda persona tiene derecho al acceso a la cultura, al disfrute de los bienes y servicios que presta el Estado en la materia, al ejercicio de sus derechos culturales. El Estado tiene la obligación de respetar, proteger, promover y garantizar todas las expresiones culturales, sus fiestas, tradiciones y conocimientos que conviven en su territorio, siempre que no afecten la dignidad de las personas ni impliquen actos discriminatorios o contrarios a los derechos humanos. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para la protección de todas las manifestaciones culturales y para garantizar la libertad de acceso y participación en cualquiera de ellas, sin discriminación alguna. El Estado y los municipios promoverán el reconocimiento de sus patrimonios e identidades culturales en los términos que dispone esta Constitución.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2022)</small>
+
+Toda persona tiene derecho a la salud y al acceso a los servicios de salud conforme a los criterios de universalidad, igualdad e inclusión. La Ley establecerá la concurrencia, bases y modalidades para la participación del Estado y sus Municipios.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Toda persona tiene derecho a disfrutar de una vivienda digna, adecuada, decorosa, habitable y sustentable. Las leyes establecerán los instrumentos y apoyos necesarios a fin de que se propicie que las viviendas cumplan con una infraestructura y servicios públicos básicos adecuados y de calidad, contemplando los lineamientos que establecen los derechos fundamentales reconocidos por esta Constitución, la Constitución Política de los Estados Unidos Mexicanos, así como en los Tratados Internacionales que el Estado Mexicano sea parte.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2023)</small>
+
+Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, comodidad, inclusión, progresividad e igualdad, que permita el libre desplazamiento de todas las personas dentro del territorio estatal para la satisfacción de sus necesidades y pleno desarrollo; y a una jerarquía de movilidad, otorgando siempre prioridad a los peatones, personas con discapacidad y conductores de vehículos no motorizados, viendo siempre por una cultura de movilidad sustentable.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2023)</small>
+
+Las autoridades adoptarán las medidas necesarias para garantizar el ejercicio de este derecho, particularmente en el uso equitativo del espacio vial, el cual será adecuado a las necesidades sociales y ambientales de la ciudad, incentivando el uso de vehículos de bajas emisiones contaminantes, respetando en todo momento los derechos de los usuarios más vulnerables de la vía pública.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
+
+Toda persona tiene derecho a ser protegida por el Estado y sus Municipios ante desastres naturales o emergencias sanitarias. El Estado y sus Municipios serán responsables de llevar a cabo políticas públicas de prevención, atención y de cuidado inmediato.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2023)</small>
+
+El Estado promoverá el desarrollo integral de las personas jóvenes, a través de políticas públicas con enfoque multidisciplinario y transversal, que propicien su inclusión en el ámbito político, social, económico y cultural de la Entidad.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2025)</small>
+
+Toda persona tiene derecho a desarrollarse en un entorno seguro y a vivir libre de violencia. El Estado implementará las políticas públicas necesarias para garantizar la seguridad ciudadana.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2025)</small>
+
+Toda persona tiene derecho al libre acceso a información plural y oportuna, así como a buscar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión. El derecho a la información será garantizado por el Estado, debiendo observar en todo momento los principios y bases establecidas en el apartado A del artículo 6° de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2026)</small>
+
+Las autoridades garantes de los derechos de acceso a la información y protección de datos personales en el Estado, serán, por parte del Ejecutivo, la Contraloría del Estado, quién además, conocerá de los asuntos en materia de transparencia y protección de datos personales de los Municipios; por parte de los Poderes Legislativo, Judicial y Órganos Constitucionales Autónomos, serán sus Órganos Internos de Control u homólogos, en términos de lo dispuesto por las leyes secundarias en la materia.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2025)</small>
+
+Toda persona tiene derecho a vivir una vida libre de violencias, el Estado tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños. La Ley definirá las bases y modalidades para garantizar su realización de conformidad con lo previsto en el párrafo tercero de este artículo y 73 fracción XXI, penúltimo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+
+### CAPITULO SEGUNDO
+
+De la forma de Gobierno.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2018)</small>
 
 ###### Artículo 5o.
 
-El Tribunal se conformará por una Sala Superior, que funcionará colegiadamente y se integrará por tres Magistrados; así como de las demás Salas Ordinarias y unitarias que sean necesarias y por una Sala Especializada en materia de Responsabilidades Administrativas, pudiendo cualquiera de las Salas Ordinarias conocer del juicio oral, por acuerdo de la Sala Superior.
+La propiedad privada se respetará y garantizará en el Estado, con las modalidades que a su ejercicio, como función social, le impongan las leyes.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-El Tribunal contará además, para el debido cumplimiento de sus funciones con el siguiente personal:
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
-
-I.- Un Director de Orientación y Consulta Ciudadana;
-
-II.- Un Secretario General de Acuerdos;
-
-III.- Secretarios de Estudio y Cuenta;
-
-IV.- Actuarios, y
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
-
-V.- Personal jurídico y técnico administrativo.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 1997)</small>
 
 ###### Artículo 6o.
 
-El Titular del Poder Ejecutivo del Estado propondrá a los Magistrados del Tribunal, para su designación por el Congreso del Estado o por la Diputación Permanente en los casos de receso de aquél, ante quien rendirán la protesta de Ley; con excepción del Magistrado de la Sala Especializada en Materia de Responsabilidad Administrativa, quién será designado por el Pleno del Congreso del Estado, en los términos que señala la Constitución Política del Estado y esta Ley.
+La educación es un derecho de todas las personas que atiende a las necesidades de su desarrollo y un proceso colectivo de interés general y público.
 
-> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+Es deber jurídico del Estado y sus Municipios impartir la educación preescolar, primaria, secundaria y media superior de conformidad con los principios de universalidad, gratuidad y laicidad.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+El Estado deberá además, promover y atender la educación superior y otras modalidades educativas; como la formación y capacitación para el trabajo, la educación de adultos, la educación especial y la educación inicial.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2019)</small>
+
+Los fines de la Educación que imparta o promueva el Estado, de manera corresponsable con la sociedad, tenderá a desarrollar armónicamente las facultades del ser humano, y le fomentará la democracia como forma de vida, el respeto a los derechos humanos en el marco de la libertad y la justicia, la conciencia de solidaridad comunitaria y convivencia social pacífica, la colaboración en el trabajo, el desarrollo de personas libres y autónomas como ciudadanos con capacidad de juicio para la toma de decisiones responsables, el impulso del desarrollo nacional y estatal, el respeto a la pluralidad cultural, de género, social y política, el fomento a la ética, la rectitud, la verdad y la solidaridad y, con peculiaridad cuidado, la participación en el avance de la ciencia, la tecnología y a las humanidades.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2019)</small>
+
+La Ley, garantizará la educación sobre esta Constitución y sobre la Constitución Política de los Estados Unidos Mexicanos, los derechos humanos en todos los niveles escolares y promoverá los medios pacíficos de solución de conflictos.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+Las autoridades municipales, educativas y escolares colaborarán para que los padres o tutores cumplan con la obligación de enviar a sus hijos o pupilos a la educación básica y media superior.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+Además del acceso, el Estado deberá garantizar a quienes asistan a la educación básica y media superior, la permanencia y el egreso oportuno de cada uno de los niveles educativos; por ende, existirán acciones compensatorias de las desigualdades para hacer efectivo en cada caso el derecho universal a la educación en términos de este mismo Artículo.
+
+Los resultados de todo el proceso educativo, así como los factores que inciden en él, deberán evaluarse por el Estado e informar a la sociedad de la situación que guarde el sistema educativo.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+
+La atención a la demanda social de la educación superior en el Estado será una prioridad de las instituciones públicas y por ello, se ampliará el acceso a esos niveles para garantizar el debido fomento al desarrollo económico y social de la región a la vez que el arraigo local de los jóvenes.
+
+Toda educación que realicen los particulares en el territorio del Estado será supervisada y evaluada en los términos del presente Artículo por las autoridades competentes, con estricto apego a las leyes vigentes aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
+
+El Estado y los Municipios garantizarán el derecho de acceso libre a internet, para tal efecto, establecerán los mecanismos y políticas públicas necesarias para asegurar progresiva y de manera gradual la efectividad de este derecho
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+
+El Estado y los Municipios impulsarán la sociedad del conocimiento mediante la investigación humanista, científica y la innovación tecnológica, estableciendo políticas de largo plazo e implementando mecanismos que fomenten el desarrollo científico y tecnológico de la entidad, que permitan elevar el nivel de vida de la población, combatir la pobreza y proporcionar igualdad de oportunidades entre mujeres y hombres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2025)</small>
 
 ###### Artículo 6o Bis.
 
@@ -131,9 +273,21 @@ Si en la segunda votación, ninguno de los dos candidatos obtiene el voto de las
 
 ###### Artículo 7o.
 
-Los Magistrados y demás servidores públicos adscritos al Tribunal percibirán iguales emolumentos que los que correspondan a los servidores públicos de igual categoría del Tribunal Superior de Justicia del Estado, los que no podrán ser disminuidos durante su encargo.
+Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar, así como el deber de protegerlo y conservarlo. Todas las autoridades en la esfera de sus atribuciones velarán por la conservación y fomento de los recursos naturales del Estado. El Estado velará por la conservación y continuidad de las especies animales que son emblemáticas, representativas y que constituyen símbolos de la identidad de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+El Estado promoverá las condiciones para el desarrollo rural integral sostenible, con el propósito de generar empleo y garantizar a la población rural el bienestar y su participación e incorporación en el desarrollo estatal, y fomente la actividad agropecuaria y forestal para el óptimo uso de la tierra, mediante la implementación de planes, programas, acciones, órganos, sistemas, servicios y fondos que promuevan obras de infraestructura, insumos, créditos, servicios de capacitación y asistencia técnica.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2018)</small>
+
+El Estado debe proveer los elementos necesarios para el desarrollo rural integral y sostenible mediante el mejoramiento de las condiciones de vida de la población rural y urbana, garantizando el abasto suficiente y oportuno de los alimentos básicos que la ley establezca.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+
+Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado y los Municipios garantizarán este derecho para el uso justo, equitativo y sustentable de los recursos hídricos, estableciendo la participación de la ciudadanía en el fomento de la cultura del ahorro del agua y su uso responsable.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)</small>
 
 ###### Artículo 7o.
 
@@ -147,13 +301,11 @@ La Feria Nacional de San Marcos es patrimonio cultural y pilar del desarrollo ec
 
 La charrería y la tauromaquia en su usanza tradicional, como expresiones históricas y tradiciones culturales emblemáticas del Estado de Aguascalientes, serán promovidas, protegidas y difundidas como parte del patrimonio cultural inmaterial de la entidad y de la Feria Nacional de San Marcos, observando en todo momento el respeto a los derechos humanos, así como a la protección y bienestar animal, en los términos que dispongan las leyes aplicables. La ley establecerá los mecanismos para asegurar la sustentabilidad cultural, ambiental y económica que garantice esta tradición y los derechos de las personas involucradas en sus actividades.
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 25 DE ABRIL DE 2025)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2026)</small>
 
-La mejora regulatoria es una política de Estado obligatoria para todas las autoridades estatales y municipales en sus respectivos ámbitos de competencia, cuyo objetivo es elevar la competitividad y productividad, así como garantizar la obtención de beneficios superiores a sus costos, el máximo bienestar para la sociedad y la transparencia.
+El Estado deberá implementar las políticas públicas de simplificación administrativa y digitalización de trámites y servicios, las buenas prácticas regulatorias, el desarrollo y fortalecimiento de capacidades tecnológicas públicas, bajo los principios y objetivos de la legislación nacional en la materia, que permitan bienestar social.
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 25 DE ABRIL DE 2025)</small>
-
-El Estado generará un registro estatal obligatorio que incluya todos los trámites y servicios actualizados de las autoridades públicas, con el objeto de generar certeza y seguridad jurídica, así como facilitar su cumplimiento mediante el uso de Tecnologías de la Información. La Ley regulará el Sistema Estatal de Mejora Regulatoria.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 18 DE MAYO DE 2026)</small>
 
 > <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 25 DE ABRIL DE 2025)</small>
 
@@ -162,6 +314,18 @@ Las organizaciones civiles podrán participar en la realización de actividades 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
 La Ley determinará las formas de participación de estas organizaciones, y la designación de controles sociales que vigilen el cumplimiento de las actividades señaladas en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2026)</small>
+
+El Estado velará por la estabilidad de las finanzas públicas y del sistema financiero para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. Los Planes Estatales y Municipales de Desarrollo deberán observar dicho principio.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2026)</small>
+
+Además, planeará, conducirá, coordinará y orientará la actividad económica del Estado, y llevará a cabo, en el ámbito de su competencia, la regulación y fomento de las actividades que demande el interés general en el marco de libertades que otorga esta Constitución.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2026)</small>
+
+Al desarrollo económico del Estado concurrirán, con responsabilidad social, el sector público, el sector social y el sector privado, sin menoscabo de otras formas de actividad económica que contribuyan al desarrollo de la Entidad.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
@@ -181,143 +345,241 @@ Si la resolución del asunto se excede de los plazos señalados en el párrafo a
 
 Los servicios de administración de justicia serán gratuitos y, en consecuencia, las costas judiciales estarán prohibidas.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+###### Artículo 7o.
+
+C.- El Estado reconoce y garantiza el Derecho a la Ciudad Digna, como un derecho colectivo, que asegura a todas las personas el uso, acceso y disfrute pleno, equitativo, seguro, incluyente y sostenible del espacio urbano y rural, bajo los principios de justicia social, dignidad humana, democracia participativa, equidad territorial, respeto a la diversidad cultural, protección del medio ambiente y función social de la propiedad.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán la planeación, el ordenamiento territorial y la gestión urbana con enfoque de derechos humanos, desarrollo sostenible y dignidad, garantizando la participación efectiva de la ciudadanía en la formulación, ejecución, seguimiento y evaluación de las políticas públicas que incidan en el desarrollo de las ciudades y comunidades.
+
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 8o.
 
-Para ser Magistrado del Tribunal de Justicia Administrativa y de la Sala Especializada en materia (sic) Responsabilidad Administrativa, se deberán reunir los requisitos establecidos en el artículo 98 de la Constitución Política del Estado Libre y Soberano de Nuevo León.
+El Estado adopta para su régimen interior la forma de Gobierno Republicano, Representativo, Democrático, Laico y Popular, bajo un sistema de división de poderes, pluralismo político y participación social; teniendo como base de su división territorial y de su organización política y administrativa el Municipio Libre.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+El titular del Poder Ejecutivo del Estado y los Municipios observarán y velarán el principio de Paridad de Género en los nombramientos que expidan respecto de las personas titulares de las dependencias de la Administración Pública Centralizada, de igual manera procederán con los nombramientos que expidan para los titulares de las entidades paraestatales y paramunicipales respectivamente.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2021)</small>
+
+En los Poderes Legislativo, Judicial, así como en los Organismos Constitucionales Autónomos, el Principio de Paridad de Género, deberá ser observado para conformar los cargos donde exista la facultad de elección o designación.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 9o.
 
-Los Magistrados del Tribunal serán nombrados por un periodo de diez años, los que se computarán a partir de la fecha de su nombramiento. Al concluir el período para el que fueron nombrados, podrán ser considerados para nuevo nombramiento.
+El territorio del Estado es el que de hecho y por derecho le pertenece, dentro de los límites establecidos por el Pacto Federal. Se divide en los Municipios de Aguascalientes, Rincón de Romos, Calvillo, Jesús María, Asientos, Tepezalá, Cosío, San José de Gracia, Pabellón de Arteaga, San Francisco de los Romo y El Llano.
 
-Los Magistrados del Tribunal serán inamovibles durante el período de su encargo, el cual se perderá solamente cuando incurran en faltas de probidad u honradez, mala conducta, negligencia en el desempeño de sus labores, sean condenados por sentencia ejecutoriada en juicio de responsabilidad, sean jubilados en los términos legales o renuncien a su puesto, acepten desempeñar otro empleo o cargo de la Federación, Estados, Municipios o particulares salvo los cargos en las instituciones educativas o en asociaciones científicas, literarias o de beneficencia.
-
-Son causas de terminación del cargo de Magistrado del Tribunal, padecer incapacidad física o mental para desempeñar el cargo; la renuncia a éste; haberlo desempeñado durante veinte años; o cumplir setenta y cinco años de edad.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
-
-Cuando algún Magistrado esté por concluir el período para el que haya sido nombrado, el Presidente del Tribunal, con por lo menos tres meses de anticipación, comunicará esa circunstancia al Gobernador del Estado, para los efectos de la propuesta consecuente al Congreso, la cual se hará aún en caso de incumplirse la comunicación a que se refiere este párrafo. En el caso del Magistrado de las (sic) Sala Especializada en materia de Responsabilidad Administrativa, el Presidente del Tribunal, con por lo menos tres meses de anticipación a la conclusión del período para el que haya sido nombrado, dará aviso al Congreso del Estado, para los efectos correspondientes; dicho Magistrado de la Sala Especializada en materia de Responsabilidades Administrativas no será considerado para nuevo nombramiento en dicha Sala.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2018)</small>
-
-La falta definitiva de cualquiera de los Magistrados o la actualización de alguna otra causa de terminación de su cargo, será comunicada inmediatamente por el Presidente del Tribunal al Gobernador del Estado, a fin de que proponga al Congreso el nuevo nombramiento. En el caso de la falta definitiva del Magistrado de las (sic) Sala Especializada en materia de Responsabilidad Administrativa, el Presidente del tribunal lo comunicará de inmediato al Congreso para que proceda a emitir la convocatoria correspondiente.
-
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2017)</small>
-
-Cuando existan circunstancias especiales, entendiéndose estas por exceso en la carga de trabajo o mandato de ley, que hagan necesaria la creación de una nueva sala ordinaria, la Sala Superior deberá comunicarlo por escrito al Gobernador del Estado para que, en caso de así estimarlo conveniente, envié la propuesta del nuevo nombramiento al Congreso.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 10.
 
-Ninguna licencia podrá concederse por más de seis meses. Las de los Magistrados, cuando no excedan de un mes, serán concedidas con goce de sueldo por la Sala Superior sin intervención, en su caso, del solicitante de la licencia; las que excedan de ese tiempo, así como las del Presidente del Tribunal, las concederá el Congreso del Estado, sin goce de sueldo.
+La ley que en materia municipal expida el Congreso del Estado determinará los requisitos necesarios para la creación de Municipios.
 
-No se autorizarán licencias que tengan como propósito ocupar o desempeñar algún otro cargo ya sea a nivel federal, estatal o municipal, sea o no de elección popular.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 11.
 
-Las faltas temporales de los Magistrados serán cubiertas por el Secretario de Estudio y Cuenta adscrito al Magistrado ausente y será designado por el Presidente del Tribunal. Las faltas temporales del Presidente del Tribunal serán cubiertas por el Magistrado que designe el propio Presidente. Si las faltas de los Magistrados son definitivas, se aplicará lo dispuesto en este Artículo entre tanto se hace la designación del nuevo Magistrado en los términos del Artículo 6 de esta Ley. Se considera que la falta de un Magistrado es definitiva, cuando ocurre por fallecimiento o se prolonga por más de seis meses.
+Son habitantes del Estado, las personas que residen en su territorio.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+La residencia no se pierde por ausencia en el desempeño de cargos públicos de elección popular o de comisiones oficiales del Estado de Aguascalientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2025)</small>
 
 ###### Artículo 12.
 
-El Tribunal tendrá un Presidente, que también lo será de la Sala Superior, quien durará en la Presidencia dos años y no podrá ser reelecto para el período inmediato.
+Son derechos de la ciudadanía del Estado:
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
+
+I.- Votar en las elecciones populares, si son ciudadanos mexicanos en ejercicio de sus derechos y tienen una residencia en el Estado no menor de seis meses;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE MARZO DE 2025)</small>
+
+II.- Ser votada en condiciones de paridad para todos los cargos de elección popular teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos y candidatas ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos y las ciudadanas que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+Cuando se trate de personas candidatas para el cargo de Titular de una Magistratura del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial de Aguascalientes, así como de personas juzgadoras del Poder Judicial del Estado de Aguascalientes, corresponderá a los Poderes del Estado remitir las postulaciones para esos cargos al Instituto Estatal Electoral, conforme lo establecido en el artículo 54 de esta Constitución y las leyes correspondientes.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2018)</small>
+
+Los ciudadanos que residan en el extranjero, podrán ejercer su derecho al voto en la elección de Gobernador en los términos que disponga la ley;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2025)</small>
+
+III.- Asociarse libremente y de forma pacífica para constituir partidos políticos locales o asociaciones políticas locales;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2025)</small>
+
+IV.- Hacer uso de los instrumentos de participación ciudadana, previstos en la ley de la materia; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2025)</small>
+
+V.- Poder ser nombrada para cualquier empleo o comisión de la Administración Pública Estatal y Municipal, teniendo las calidades que establezca la ley.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 13.
 
-La elección del Presidente del Tribunal, se efectuará por los Magistrados de la Sala Superior, en sesión extraordinaria anterior a la fecha en que deba concluir el ejercicio de la Presidencia.
+Son obligaciones de los habitantes del Estado:
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2003)</small>
+I.- Si son mexicanos, las que se detallan en el artículo 31 de la Constitución Federal.
+
+II.- Si son ciudadanos, las contenidas en el artículo 36 de la misma Constitución; y
+
+III.- Si son extranjeros, contribuir para los gastos públicos de la manera que dispongan las leyes, obedecer y respetar las Instituciones, Leyes y Autoridades del Estado; sujetarse a los fallos y sentencias de los Tribunales, sin poder intentar otros recursos que los que se conceden a los mexicanos.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 14.
 
-Para ser Secretario General de Acuerdos, Secretario de Estudio y Cuenta, y Actuario del Tribunal, se deberán reunir los mismos requisitos que se establecen para los Magistrados, a excepción del referente a la fracción II del Artículo 8 de esta Ley, en cuyo caso bastará con poseer título de Licenciado en Derecho.
+El Supremo Poder del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial. Nunca podrán reunirse dos o más de estos Poderes en un sólo individuo o corporación, ni depositarse el Legislativo en una persona.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-Tratándose del Secretario General de Acuerdos y de los Secretarios de Estudio y Cuenta, ellos deberán contar, además, con por lo menos dos años de ejercicio profesional o práctica jurisdiccional por el mismo lapso en el Tribunal o en algún otro órgano jurisdiccional.
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 15.
 
-Los Secretarios, Actuarios y Escribientes del Tribunal tendrán el carácter de empleados de confianza.
+El Poder Legislativo se deposita en una corporación denominada Congreso del Estado. Éste se regirá bajo los principios del modelo de parlamento abierto, por lo que deberá implementar mecanismos que garanticen la transparencia, la máxima publicidad, el derecho de acceso a la información, la apertura gubernamental, la participación ciudadana y la rendición de cuentas. La ley establecerá los mecanismos a los que hace referencia este Artículo.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
 ###### Artículo 16.
 
-Los Magistrados, Secretarios, Actuarios y demás servidores públicos, estarán impedidos para desempeñar cualquier otro cargo o empleo de la Federación, Estados o Municipios, o cualquier entidad paraestatal o paramunicipal o de particulares. Quedan exceptuados los cargos de carácter docente u honorífico. También estarán impedidos para ejercer su profesión, salvo en causa propia.
+El Congreso se integrará con representantes del pueblo que residan en el territorio del Estado, electos en su totalidad cada tres años y que se denominarán Diputados.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
-### CAPITULO III. DE LA COMPETENCIA
+Por cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+### CAPITULO TERCERO
+
+Del Territorio del Estado.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 1992)</small>
 
 ###### Artículo 17.
 
-El Tribunal será competente para conocer de los juicios que se promuevan en contra de los actos o resoluciones que se indican a continuación, dictados, ordenados, ejecutados o que se pretenda ejecutar, por autoridades administrativas, fiscales o entidades de la Administración Pública Paraestatal o de los Municipios del Estado de Nuevo León, cuando estas últimas actúen en carácter de autoridad:
+En el Estado la renovación de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos se verificará por medio de elecciones democráticas, libres auténticas y periódicas, a través del ejercicio del sufragio universal, libre, secreto, directo e intransferible.
 
-I.- Que determinen la existencia de una obligación fiscal, la fijen en cantidad líquida o den las bases para su liquidación;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
-II.- Que nieguen la devolución de un ingreso de los regulados por las leyes fiscales indebidamente percibidos por el Estado o los Municipios; o cuando se niegue por las mismas autoridades la devolución de un saldo a favor del contribuyente;
+A. El Congreso del Estado estará integrado por dieciocho Diputados electos según el principio de votación de mayoría relativa mediante el sistema de Distritos electorales uninominales y nueve Diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
 
-III.- Los dictados en el procedimiento administrativo de ejecución, siempre y cuando se afirme:
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
-a) Que el crédito que se exige se ha extinguido legalmente, o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la oficina ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el Artículo 22 del Código Fiscal del Estado;
+En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida en la elección de que se trate. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
-b) Que se es poseedor, a título de propietario, de los bienes embargados en el procedimiento administrativo de ejecución seguido contra otras personas; o que se es acreedor preferente al fisco, para ser pagado con el producto de los mismos.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
-El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados, podrá promover el juicio en cualquier tiempo antes de que se finque el remate, se enajenen fuera de remate o se adjudiquen los bienes a favor del fisco estatal o municipal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales estatales o municipales, podrá promover el juicio antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal; y
+La asignación de los Diputados según el principio de representación proporcional, se sujetará a las siguientes bases y a lo que en particular determine la Ley en materia electoral:
 
-c) Que el procedimiento administrativo de ejecución no se encuentra ajustado a la ley. En este caso, las violaciones cometidas antes de la etapa del remate sólo podrán hacerse valer hasta el momento de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables o de actos de imposible reparación material, en cuyo caso el juicio podrá interponerse contra el acta en que conste la diligencia de embargo. Si las violaciones tuvieran lugar con posterioridad a la mencionada convocatoria o se trate de venta de bienes fuera de subasta, el juicio se interpondrá contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
-En los juicios que se promuevan por alguna de las causas a que se refieren los dos últimos incisos de esta fracción, no podrá discutirse la existencia del crédito fiscal;
+I. El partido político deberá acreditar que tiene su registro nacional e inscribir candidatos a Diputados por mayoría relativa, en por lo menos catorce de los dieciocho distritos uninominales;
 
-IV.- Que causen un agravio en materia fiscal o administrativa, distinto a los precisados en los incisos anteriores, así como todos aquellos actos realizados por cualquier autoridad administrativa, estatal o municipal, fuera del procedimiento de ejecución fiscal;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
-V.- Que impongan sanciones no corporales por infracción a las leyes y reglamentos estatales o municipales, de carácter administrativo o fiscal;
+II. Las diputaciones por el principio de representación proporcional, se otorgarán a todo partido político que obtenga por lo menos el tres por ciento de la votación válida emitida; y
 
-VI.- Que determinen responsabilidad administrativa en contra de los servidores públicos del Estado o de los Municipios;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
-VII.- (DEROGADA, P.O. 2 DE NOVIEMBRE DE 2007)
+III. La Ley de la materia determinará la fórmula y el procedimiento que se observará en dicha asignación.
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
-VIII.- En materia de pensiones con cargo al erario estatal o a cargo de los Municipios de la entidad, o de las instituciones estatales o municipales de seguridad social;
+Los Diputados por mayoría relativa y de representación proporcional, tendrán la misma jerarquía e igualdad de derechos y obligaciones.
 
-IX.- Los relativos a la responsabilidad patrimonial extracontractual reclamada al Estado, a los Municipios, o a las entidades paraestatales o municipales;
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
-X.- Los que se promuevan contra cualquier acto u omisión definitivos de las autoridades administrativas del Estado, de los Municipios y de sus entidades paraestatales o municipales, que afecten los intereses jurídicos de los particulares;
+Las obligaciones de los Diputados consisten en el ejercicio de las funciones, legislativa, de representación popular, fiscalización, nombramiento, presupuestal, de control, jurisdiccional, sanción y demás que establezcan las leyes; y desempeñarán sus funciones en el Pleno del Congreso del Estado, Diputación Permanente, Gran Jurado, Comisiones y Comités del Poder Legislativo.
 
-XI.- Los que se promuevan en contra de las resoluciones dictadas por las autoridades administrativas o fiscales, estatales o municipales, al resolver los recursos establecidos por las leyes y reglamentos respectivos;
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
-XII.- Los que promuevan las autoridades estatales o municipales o los titulares de sus entidades paraestatales o municipales, para que sean nulificadas las resoluciones administrativas o fiscales dictadas por ellas mismas, favorables a los particulares;
+B. El Sistema Estatal Electoral se regirá por los principios rectores de certeza, imparcialidad, independencia, legalidad, máxima publicidad, definitividad y objetividad.
 
-XIII.- Los que se promuevan en contra de las resoluciones negativas fictas, configuradas por el silencio de la autoridad para dar respuesta a la instancia de un particular en el plazo que la Ley fije o a falta de término de cuarenta y cinco días.
+La organización de las elecciones en el Estado, así como del fomento del modelo de vida democrático, de participación y representación es una función pública que se ejerce a través de un organismo público local electoral denominado Instituto Estatal Electoral.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+El Instituto Estatal Electoral podrá asumir las atribuciones que en su caso le delegue el Instituto Nacional Electoral, así como celebrar convenios a fin de que éste se haga cargo de la organización de los procesos electorales locales y de otros aspectos previstos en la ley.
 
-Cuando por disposición de las leyes o reglamentos, el silencio de la autoridad administrativa para dar respuesta a la instancia de un particular en el plazo que se señale en ellos, para tal efecto, implique la configuración de una afirmativa ficta, la autoridad ante la que se hubiere formulado tendrá el plazo de diez días hábiles para reconocer de manera expresa tal circunstancia y las consecuencias legales que de su omisión se desprendan. De no acontecer así, o si el particular considera que el reconocimiento que se haga no satisface la pretensión deducida en la instancia no resuelta de manera expresa, el juicio contencioso administrativo procederá en contra de la omisión de reconocer la configuración de la afirmativa ficta o, en su caso, del reconocimiento que se haga al respecto, en la parte que afecte su interés jurídico.
+El Instituto Estatal Electoral, como ente de interés público, será autoridad en la materia, actuará con autonomía en su funcionamiento, en el ejercicio de su presupuesto y con independencia en sus decisiones, y contará con un órgano de dirección superior integrado por un consejero Presidente y seis consejeros electorales, con derecho a voz y voto; el Secretario Ejecutivo y los representantes de los partidos políticos concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con un representante en dicho órgano.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+El Consejero Presidente y los consejeros electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la ley. Los consejeros electorales deberán ser originarios del Estado o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley. En caso de que ocurra una vacante de Consejero Electoral, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente en términos del Artículo 116 de la Constitución Política de los Estados Unidos Mexicanos. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el período. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero para un nuevo período.
 
-En cualquier caso en que la afirmativa ficta implique la afectación de un derecho de terceros, la contravención de disposiciones de orden público o cause un perjuicio al interés social, la misma se tendrá por no configurada;
+Los consejeros electorales estatales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley.
 
-XIV.- Los demás que se promuevan en contra de actos o resoluciones que por su naturaleza o por disposición de otras leyes se consideren como competencia del Tribunal.
+Los consejeros electorales estatales y demás servidores públicos que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+El Instituto Estatal Electoral contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
 
-De igual manera, el Tribunal será competente, por medio de la Sala Superior o del Magistrado de la Sala Ordinaria, según sea el caso, para conocer y resolver los recursos de revisión y queja que se promuevan conforme a lo dispuesto en los Artículos 90, 91 y 92 de esta Ley.
+La Ley de la materia determinará la organización del Instituto Estatal Electoral, sus facultades y estructura orgánica, debiendo contar con un órgano auxiliar para la fiscalización de los recursos y programas del citado Instituto, dotado con autonomía técnica y de gestión. El titular de este órgano auxiliar será electo por el Congreso del Estado mediante el voto de la mayoría de los diputados presentes. La fiscalización de los recursos de los Partidos Políticos podrá realizarse por dicho órgano en términos de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, las leyes, acuerdos y convenios que, en su caso, celebre el Instituto Nacional Electoral con el Instituto Estatal Electoral.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+Los servidores públicos de los órganos ejecutivos y técnicos del Instituto Estatal Electoral formarán parte del Servicio Profesional Electoral Nacional.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+En todo caso, la duración de las campañas será de sesenta días para la elección de persona Titular del Poder Ejecutivo; de cuarenta y cinco días para personas Magistradas del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial de Aguascalientes y para personas Diputadas locales; de treinta días para personas Juzgadoras del Poder Judicial del Estado; y de treinta a sesenta días para la elección de ayuntamientos, en términos de lo que disponga la ley.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+Las precampañas no podrán durar más de dos terceras partes de las respectivas campañas electorales. No habrá etapa de precampaña para los cargos de elección popular del Poder Judicial del Estado.
+
+Las elecciones ordinarias deberán celebrase, el primer domingo de junio del año de la elección.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+Los partidos políticos acreditados en el Estado, podrán participar en las elecciones para gobernador, diputados y ayuntamientos, debiendo respetar las reglas para garantizar la paridad horizontal y en su caso vertical entre los géneros en candidaturas a diputaciones locales y de los ayuntamientos, en términos de las leyes aplicables; asimismo, estarán facultados para participar en la vida política del Estado, para lo cual tendrán acceso al financiamiento público en términos de la ley de la materia. Los partidos políticos locales garantizarán la paridad de género en la integración de sus órganos de dirección.
+
+La participación de candidatos independientes en procesos electorales locales, se sujetará a lo que disponga la ley. Al igual que los partidos políticos, las fórmulas de las candidaturas independientes deberán integrarse por personas del mismo género.
+
+El Tribunal Electoral será el órgano jurisdiccional local especializado en materia electoral, gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones; se regirá por los principios de certeza, imparcialidad, objetividad, legalidad, probidad, definitividad y máxima publicidad; estará integrado por tres magistrados los cuales serán elegidos por el Senado de la República. Su funcionamiento, atribuciones y demás estructura orgánica se regirán por lo que disponga la Ley. Durante los dos años siguientes a la fecha de su retiro, quienes hayan ocupado el cargo de Magistrados del Tribunal Electoral, quedarán impedidos para actuar como patronos, abogados o representantes en todo tipo de procedimientos tramitados ante este órgano jurisdiccional.
+
+Las impugnaciones en contra de los actos que, conforme a la base V del Artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, realice el Instituto Nacional Electoral con motivo de los procesos electorales locales, serán resueltas por el Tribunal Electoral del Poder Judicial de la Federación, conforme lo determine la ley.
+
+La Ley General en Materia de Delitos Electorales, determinará los tipos penales así como las sanciones aplicables.
+
+El Sistema Estatal Electoral, estará regulado por la ley de la materia, y deberá garantizar en todo momento los derechos y obligaciones establecidos en los Artículos 41 y 116 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 29 DE ENERO DE 2018)</small>
+
+C. En el Estado se reconoce la democracia directa y participativa, entendida como el derecho de las personas a incidir en las decisiones públicas y el control de la función pública, a través de los siguientes instrumentos de participación ciudadana:
+
+a) Plebiscito;
+
+b) Referéndum;
+
+c) Iniciativa Ciudadana;
+
+d) Consulta de Revocación de Mandato;
+
+e) Presupuesto Participativo;
+
+f) Cabildo Abierto;
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+g) Consulta Ciudadana;
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+h) Comités Ciudadanos; y
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+
+i) Parlamento Abierto.
+
+> <small>[N. DE E. PERTENECE AL APARTADO C, P.O. 29 DE ENERO DE 2018]</small>
+
+El Instituto Estatal Electoral será autoridad en la materia de instrumentos de participación ciudadana, teniendo por objeto establecer, fomentar y promover los instrumentos que permitan la organización y funcionamiento de la participación ciudadana.
+
+> <small>(REFORMADO [N. DE E. PERTENECE AL APARTADO C], P.O. 12 DE AGOSTO DE 2024)</small>
+
+La ley regulará los instrumentos de participación ciudadana, los plazos, términos, medios de impugnación, publicidad, los procedimientos para su solicitud y los mecanismos para llevarlos a cabo; así como las materias de aplicación. Misma Ley que sólo podrá ser reformada, adicionada, derogada o abrogada por el voto de la mayoría calificada de los miembros que integran el Congreso del Estado.
 
 ###### Artículo 17 Bis.
 
@@ -327,63 +589,29 @@ De igual manera, el Tribunal será competente, por medio de la Sala Superior o d
 
 ###### Artículo 18.
 
-La Sala Superior tendrá las siguientes atribuciones:
+Los diputados podrán ser electos hasta por dos periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-I.- Designar de entre sus miembros al Presidente del Tribunal;
+Las suplencias de diputados se regirán por lo establecido en la ley de la materia.
 
-II.- Fijar la adscripción de los Magistrados de las Salas Ordinarias;
-
-III.- Nombrar al Secretario General de Acuerdos, a los Secretarios de Estudio y Cuenta, Actuarios, así como concederles licencias y acordar lo que proceda respecto a su remoción;
-
-IV.- Resolver los recursos de revisión que se interpongan en contra de las resoluciones de los Magistrados de las Salas Ordinarias;
-
-V.- Establecer los criterios de interpretación de las disposiciones legales que serán obligatorios para el propio Tribunal;
-
-VI.- Calificar las excusas o impedimentos de los Magistrados de las Salas Ordinarias y de la Sala Superior del Tribunal y, en su caso, designar a quienes deban sustituirlos para la resolución del caso particular;
-
-VII.- Conocer y resolver los conflictos de competencia suscitados entre las Salas Ordinarias del Tribunal;
-
-VIII.- Resolver las contradicciones que se susciten entre las resoluciones que pongan fin al juicio dictadas por los Magistrados de las Salas Ordinarias, respecto de las cuales no hubiere existido pronunciamiento de la Sala Superior al resolver el recurso de revisión;
-
-IX.- Aplicar medios de apremio y correcciones disciplinarias en los asuntos de su competencia;
-
-X.- Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos competencia del Tribunal;
-
-XI.- Designar las comisiones que sean necesarias para la administración interna del Tribunal;
-
-XII.- Aprobar el proyecto de presupuesto anual de egresos del Tribunal que el Presidente formule;
-
-XIII.- Expedir o modificar el Reglamento Interior del Tribunal, así como las demás disposiciones necesarias para su buen funcionamiento;
-
-XIV.- Dictar las medidas administrativas para el buen funcionamiento del Tribunal y disciplina de su personal, y aplicarlas a los Secretarios, Actuarios y demás empleados;
-
-XV.- Conocer y resolver las denuncias, quejas o irregularidades administrativas que cometieren o se formulen contra los Magistrados y demás empleados del Tribunal en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León;
-
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2017)</small>
-
-XVI.- Conocer y resolver el recurso de revocación previsto en el Artículo 105 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipio de Nuevo León;
-
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2017)</small>
-
-XVII.- Determinar el número de las Salas Ordinarias en razón de los nombramientos de Magistrados de Salas Ordinarias que expida con anterioridad el Congreso del Estado de Nuevo León; y
-
-> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2017)</small>
-
-XVIII.- Las demás que señale la Ley.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 1978)</small>
 
 ###### Artículo 19.
 
-La Sala Superior estará integrada por tres Magistrados, uno de los cuales será su Presidente y será elegido de entre los que la integren.
+Para ser Diputado se requiere:
 
-De conformidad con lo establecido en el Artículo 4o. de esta Ley, las sesiones de la Sala Superior serán públicas, excepto aquéllas en que se afecte la moral o el interés público, o la Ley así lo exija. Para sesionar será necesaria la presencia de los tres Magistrados que integran la Sala Superior o, en su caso, de quienes deban sustituirlos.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1950)</small>
 
-Las resoluciones de la Sala Superior serán aprobadas por unanimidad o por mayoría de votos de sus integrantes, quienes no podrán abstenerse de votar sino cuando tengan excusa o impedimento legal. El Magistrado que disintiere de la mayoría podrá formular voto particular, el cual se insertará al final de la resolución respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo.
+I.- Ser ciudadano mexicano, por nacimiento, en ejercicio de sus derechos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+II.- Tener dieciocho años cumplidos el día de la elección;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 1994)</small>
+
+III.- Haber nacido en el Estado o tener una residencia efectiva en él, no menor de cuatro años inmediatamente anteriores al día de la elección.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 19 Bis.
 
@@ -401,133 +629,69 @@ V. Elaborar, para la firma del Presidente, los informes previos y justificados q
 
 VI. A encomienda del Presidente, elaborar los proyectos de resolución que se le requieran a la Sala Superior en cumplimiento de ejecutorias dictadas en juicio de amparo.
 
-### CAPITULO IV. DEL PRESIDENTE DEL TRIBUNAL
+### CAPITULO CUARTO
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+De los Habitantes del Estado.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 20.
 
-Son atribuciones del Presidente del Tribunal y de la Sala Superior:
+No pueden ser electos Diputados:
 
-A) En cuestiones administrativas:
+I.- Las personas que desempeñen cargos públicos de elección popular, sean de la Federación, del Estado o Municipales.
 
-I.- Representar al Tribunal ante toda clase de autoridades;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2025)</small>
 
-II.- Administrar el presupuesto del Tribunal y formular anualmente el proyecto de su presupuesto de egresos;
+II.- Las personas Magistradas, tanto del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial de Aguascalientes, así como del Tribunal de Justicia Administrativa, del Tribunal Electoral, y las Personas Juzgadoras; las personas Secretarias de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; la persona Titular de la Fiscalía General del Estado; las personas Consejeras Electorales del Consejo General del Instituto Estatal Electoral, la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes y las personas delegadas de las dependencias federales en el Estado.
 
-III.- Establecer las reglas para la distribución de los asuntos entre los Magistrados de las Salas Ordinarias y de la Sala Superior;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-IV.- Convocar a los Magistrados de la Sala Superior para las sesiones ordinarias y extraordinarias que correspondan, proponer el orden de los asuntos a tratar en ellas y dirigir las deliberaciones a que hubiere lugar;
+III.- Las personas a quienes por sentencia ejecutoria se les haya impuesto como pena la suspensión de los derechos o prerrogativas de los ciudadanos, o hayan sido condenadas mediante sentencia ejecutoria por delito doloso de acoso, abuso sexual, violencia de género y/o violencia familiar, por delitos de hechos de corrupción o de los previstos como tipos penales protectores de la administración pública, por el delito o infracción a la normatividad electoral consistente en violencia política contra las mujeres en razón de género, o por sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia;
 
-V.- Firmar, en unión del Secretario General de Acuerdos, las actas en que se hagan constar las deliberaciones y acuerdos de la Sala Superior, así como los engroses de las resoluciones que ésta adopte;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-VI.- Rendir a la Sala Superior un informe dentro de los primeros quince días del mes de enero de cada año, dando cuenta de la marcha del Tribunal y de los principales criterios de interpretación adoptados;
+IV.- Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto, y
 
-VII.- Publicar la tesis, criterios y sentencias del Tribunal que deban darse a conocer por ser de interés general;
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-VIII.- Nombrar al personal jurídico y técnico administrativo necesario para las funciones del Tribunal;
+V.- La deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda.
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
-IX.- Dar cuenta a la Sala Superior de las denuncias o quejas administrativas que se presenten en contra de los Magistrados y demás empleados del Tribunal, así como de las irregularidades que cometieran en el ejercicio de su función, aplicando en lo conducente la Ley General de Responsabilidades Administrativas;
+Los ciudadanos comprendidos en las Fracciones I y II de este Artículo, podrán ser electos diputados, si se separan de sus cargos o empleos noventa días antes de la elección salvo que esta Constitución establezca otro término.
 
-X.- Consultar a la Sala Superior, cuando para el ejercicio de sus facultades lo estime pertinente;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 1994)</small>
 
-XI.- Despachar la correspondencia del Tribunal y de la Sala Superior; y
+### CAPITULO QUINTO
 
-XII.- Atender los demás asuntos de carácter ordinario no reservados a la Sala Superior, los que ésta le asigne y las demás facultades que otras disposiciones legales le atribuyan.
+De la División de los Poderes.
 
-B) En cuestiones jurisdiccionales:
-
-I.- Representar a la Sala Superior del Tribunal ante toda clase de autoridades;
-
-II.- Firmar, en unión del Magistrado Ponente y del Secretario General de Acuerdos o del Secretario de Estudio y Cuenta que corresponda, los engroses de las resoluciones que sean adoptadas por la Sala Superior;
-
-III.- Firmar, en unión del Secretario General de Acuerdos o del Secretario de Estudio y Cuenta que en su caso designe, las actas de las sesiones de la Sala Superior;
-
-IV.- Conocer y resolver, previo informe del Magistrado de la causa, de las excitativas que para la impartición de justicia promuevan las partes, cuando no se dicte la resolución que corresponda dentro de los plazos señalados por esta Ley;
-
-V.- Turnar los asuntos que competan a la Sala Superior entre los Magistrados de la adscripción;
-
-VI.- Convocar a los Magistrados de la Sala Superior a las sesiones ordinarias y extraordinarias que correspondan;
-
-VII.- Autoriza el orden de los recursos de revisión a tratar en las sesiones de la Sala Superior, así como dirigir las deliberaciones a que hubiere lugar;
-
-VIII.- Rendir los informe previos y justificados que sean requeridos a la Sala Superior en los juicios de amparo promovidos en contra de actos o resoluciones dictados por ésta; así como intervenir en cualquier otra clase de asunto o controversia que se suscite en torno a ello; y
-
-IX.- Atender los demás asuntos de carácter ordinario no reservados a la Sala Superior, los que ésta le asigne y las demás facultades que otras disposiciones legales le atribuyan.
-
-### CAPITULO V. DEL PERSONAL DEL TRIBUNAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 21.
 
-Corresponde al Secretario General de Acuerdos del Tribunal:
+Los Diputados son inviolables por la manifestación de sus ideas en ejercicio de sus funciones y jamás podrán ser reconvenidos ni juzgados por ello, sin embargo, serán responsables de los delitos que cometan durante el tiempo de su encargo, pero no podrá ejercitarse acción penal en su contra hasta que seguido el procedimiento constitucional, se decida la separación del cargo y la sujeción a la acción de los tribunales.
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
 
-I.- Acordar con el Presidente lo relativo a las sesiones de la Sala Superior;
+El Presidente del Congreso o de la Diputación Permanente, en su caso, velará por el respeto al fuero constitucional de los integrantes del mismo, y, por la inviolabilidad del Recinto donde se reúnan a sesionar.
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
-
-II.- Dar cuenta al Presidente de las excitativas de justicia que se presenten y de los asuntos a trámite; contar la votación de los Magistrados de la Sala Superior; formular el acta relativa y comunicar las decisiones que se acuerden;
-
-III.- Proyectar los acuerdos de trámite de la Presidencia;
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
-
-IV.- Firmar, en unión del Presidente del Tribunal, las determinaciones de éste;
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
-
-V.- En su caso, autorizar con su firma las actuaciones de la Sala Superior;
-
-VI.- Preparar y ejecutar las órdenes relacionadas con el ejercicio del presupuesto de egresos asignado;
-
-VII.- Tramitar los movimientos del personal y gestionar el cumplimiento de las obligaciones laborales del personal administrativo de la misma;
-
-VIII.- Coordinar las funciones administrativas necesarias para el buen funcionamiento del Tribunal;
-
-IX.- Preparar la edición del órgano oficial de difusión del Tribunal y otras publicaciones;
-
-X.- Coordinar la difusión de las actividades del Tribunal;
-
-XI.- Compilar las resoluciones del Tribunal y de otros organismos jurisdiccionales vinculados con la materia administrativa y fiscal; y
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
-
-XII.- Las demás que le atribuyan las disposiciones legales, le ordene la Sala Superior o el Presidente.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 22.
 
-Corresponde a los Secretarios de Estudio y Cuenta:
+El cargo de Diputado Propietario o Suplente en ejercicio, es incompatible con cualquier otro cargo o empleo federal, del Estado o del Municipio, por el que se disfrute remuneración, exceptuándose los de instrucción pública.
 
-I.- Dar cuenta al Magistrado de su adscripción, de las promociones presentadas por las partes el mismo día de su presentación;
+La infracción de esta disposición será sancionada con la pérdida de la investidura de Diputado.
 
-II.- Proyectar los acuerdos de trámite y las resoluciones;
-
-III.- Desahogar las diligencias que se les encomiende;
-
-IV.- Levantar las actas de las audiencias en las que corresponde dar cuenta y autorizar las resoluciones que recaigan en los expedientes;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-V.- Expedir copias certificadas de las constancias que obren en los expedientes, lo anterior con excepción de los casos en que la Ley de Transparencia y de Acceso a la Información obliga a la autoridad a negar el acceso público a la información, en los cuales sólo las partes legitimadas o quienes ellas autoricen podrán consultar y obtener copias de los expedientes; y
-
-VI.- Las demás que le atribuyan las disposiciones legales aplicables, o disponga el Presidente del Tribunal.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 23.
 
-Corresponde a los Actuarios:
+El Congreso del Estado se instalará cada tres años, el 15 de septiembre del año de la elección.
 
-I.- Notificar en tiempo y forma, los acuerdos y las resoluciones recaídas en los expedientes que para tal efecto les sean turnados;
-
-II.- Practicar las diligencias que les encomiende la Sala y levantar las actas respectivas; y
-
-III.- Las demás que le atribuyan las disposiciones legales, o disponga el Presidente del Tribunal.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2020)</small>
 
 ###### Artículo 23 Bis.
 
@@ -559,43 +723,215 @@ Este servicio será prestado de acuerdo con los lineamientos que establezca la S
 
 ###### Artículo 24.
 
-El personal del Tribunal tendrá cada año los días inhábiles y los períodos de vacaciones que correspondan al Poder Judicial del Estado.
+El Congreso del Estado tendrá en el año dos periodos ordinarios de sesiones. El primero comenzará a partir del 15 de septiembre y no podrá prolongarse sino hasta el 31 de diciembre, el segundo comenzará a partir del 1° de marzo y no podrá prolongarse sino hasta el 30 de junio. El año de la Instalación de la Legislatura el primer periodo deberá comenzar siempre el 15 de septiembre.
 
-Antes de iniciar un período de receso, el Presidente del Tribunal designará al personal que provea los trámites de asuntos urgentes durante el receso.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1977)</small>
 
 ## TITULO SEGUNDO. DEL PROCEDIMIENTO ORDINARIO
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO SEXTO
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+Del Poder Legislativo.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
 ###### Artículo 25.
 
-Los Magistrados de las Salas Ordinarias conocerán indistintamente de los juicios que se promuevan ante el Tribunal, en los casos a que se refieren las fracciones I a XIV del Artículo 17 de esta Ley, del cumplimiento de las sentencias pronunciadas, así como de los recursos de queja que se interpongan con motivo de sus resoluciones, quienes los substanciarán y resolverán con arreglo al procedimiento que señala esta Ley; a falta de disposición expresa y en cuanto no se oponga a lo que prescribe este ordenamiento, se estará a lo dispuesto en el Código de Procedimientos Civiles para el Estado de Nuevo León.
+El Congreso, fuera del período ordinario que señala el artículo anterior, celebrará sesiones extraordinarias cuando para ello fuere convocado por la Diputación Permanente, pero se limitará a conocer de los asuntos comprendidos en la convocatoria.
 
-> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
-
-En el entendido de que la Sala Especializada en materia de Responsabilidades Administrativas, será el órgano para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves o que constituyan hechos de corrupción, así como a los particulares que participen en los actos vinculados con dichas responsabilidades, fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales, así como conocer de los juicios derivados de las sanciones administrativas que emitan otras autoridades.
-
-> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
-
-La Sala Especializada en materia de responsabilidad administrativa observará las disposiciones generales contenidas en este Título Segundo, siempre y cuando no contravengan a los procedimientos que le apliquen señalados en la Ley General de Responsabilidades Administrativas.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2009)</small>
 
 ###### Artículo 26.
 
-Toda promoción deberá estar firmada por quien la formule, requisito sin el cual se tendrá por no presentada. Cuando el promovente no sepa o no pueda firmar, lo hará otra persona en su nombre y el interesado imprimirá su huella digital.
+El Congreso no podrá ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+Los Diputados deben presentarse al Recinto Oficial el día señalado por la Ley o la Convocatoria, los que no se presenten serán conminados para que concurran dentro de un término de diez días, bajo el apercibimiento de cesar en sus cargos, previa declaración del Congreso de vacante del puesto, a menos que exista causa justificada que certificará el propio Congreso. En la hipótesis prevista serán llamados los suplentes, los que deberán presentarse en un plazo igual, a quienes podrá aplicarse la misma sanción si no concurren.
 
-En la tramitación del juicio contencioso administrativo impera el principio de impulso procesal de las partes.
+La vacante de diputado propietario y suplente del Congreso local que se presente al inicio de la Legislatura, como las que ocurran durante su ejercicio, se cubrirán de la siguiente forma: por el principio de mayoría relativa, la Legislatura en funciones convocará a elecciones extraordinarias; la vacante de miembros electos por el principio de representación proporcional, será cubierta por la fórmula de candidatos del mismo partido que siga en el orden de prelación de la lista de representación proporcional respectiva, después de habérsele asignado los diputados que le hubieren correspondido.
+
+En el caso de vacantes de diputados por el principio de mayoría relativa el Congreso del Estado, deberá expedir convocatoria, dentro del término de 30 días a partir de que se declare la vacante del puesto, para elecciones extraordinarias que deberán celebrarse dentro de los 90 días siguientes, salvo que la vacante ocurra dentro del año final del ejercicio constitucional de la Legislatura correspondiente.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 27.
 
-Las demandas, contestaciones, ocursos, informes y, en general, toda clase de actuaciones deberán redactarse en castellano. Los documentos que se presentaren en idioma extranjero deberán ser acompañados con la correspondiente traducción.
+Son facultades del Congreso:
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+I.- Legislar para el Estado, sobre todas las materias que no sean de la competencia exclusiva de la Federación.
+
+II.- Decretar las contribuciones necesarias para cubrir los gastos del Estado y de los Municipios.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
+
+Las contribuciones, además de ser medios para obtener los recursos necesarios para el sostenimiento de los gastos públicos, podrán servir como instrumentos de la política económica general y atender a la realización de los principios y fines contenidos en esta Constitución.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+El Congreso tomará en cuenta las propuestas que hagan los Ayuntamientos relativos a las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y la tabla de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, sin dejar de establecer las tasas adicionales que se fijen sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+III.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Estado, en el que no podrá haber partidas secretas, tomando en cuenta la Iniciativa enviada por el titular del Poder Ejecutivo, a la cual el Congreso, en su caso, podrá hacer modificaciones.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2025)</small>
+
+Dentro del Presupuesto de Egresos del Estado, se incluirán las partidas plurianuales necesarias para cumplir con las obligaciones contraídas bajo la modalidad de Proyectos de Prestación de Servicios, Asociaciones Público-Privadas, así como de Obra Pública Financiada, que hayan sido previamente aprobados por el Pleno, en los términos que prevé esta Constitución y las disposiciones de la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2007)</small>
+
+La aprobación del establecimiento de compromisos plurianuales deberá hacerse siempre y cuando no se cause perjuicio a la viabilidad financiera del Estado y Municipios ni se modifiquen ramos, programas y proyectos prioritarios.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
+
+Los Poderes Estatales Legislativo, Ejecutivo y Judicial, incluyendo las entidades paraestatales, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación de los presupuestos de egresos del Estado, establezcan las disposiciones constitucionales y legales aplicables.
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+IV.- Autorizar al Ejecutivo y a los Ayuntamientos para contraer empréstitos, fijando las bases sobre las cuales deben celebrarse.
+
+Los empréstitos que solicite el Estado y los municipios sólo se autorizarán cuando se destinen a inversiones públicas productivas inclusive las que contraigan organismos descentralizados y empresas públicas, conforme a las bases que establezca la Ley que para el efecto expedirá el Congreso del Estado y por los conceptos y hasta por los montos que las mismas fijen anualmente en los respectivos presupuestos. El Ejecutivo del Estado y los Ayuntamientos informarán su ejercicio al rendir la Cuenta Pública.
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+V.- Revisar la Cuenta Pública del año anterior, que deberán presentarle a más tardar el 28 de febrero de cada año los titulares de los Poderes del Estado, los Ayuntamientos de la Entidad, las dependencias definidas como tales en la Ley Orgánica de la Administración Pública y en la Ley Municipal, los organismos paraestatales o paramunicipales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada de Gobierno del Estado y de los Ayuntamientos.
+
+La revisión de la Cuenta Pública la realizará el Congreso a través de la Entidad de Fiscalización Superior del Estado, denominada Órgano Superior de Fiscalización del Estado de Aguascalientes, para tal efecto, la Cuenta Pública se turnará al Órgano Superior de Fiscalización, por conducto de la Comisión de Vigilancia, a fin de que fiscalice los resultados de la gestión financiera, compruebe que los ingresos estén de acuerdo a la Ley de Ingresos del Estado, que las partidas gastadas estén justificadas y que son conforme con las normas de ejecución de los presupuestos de egresos y el cumplimiento de los objetivos contenidos en los programas.
+
+Si del examen que el Órgano Superior de Fiscalización del Estado realice, aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha entidad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2011)</small>
+
+El Congreso del Estado, concluirá la revisión de la Cuenta Pública en los términos que establece la Ley, con base en el análisis de su contenido y en las conclusiones técnicas del informe del resultado del Órgano Superior de Fiscalización del Estado, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por el Órgano Superior de Fiscalización del Estado, sigan su curso.
+
+Asimismo, los Poderes del Estado, los Municipios y los entes públicos estatales y municipales, rendirán al Congreso del Estado, a más tardar el día 20 de los meses de abril, julio y octubre del año en que se ejerza el presupuesto respectivo, Informe de Avance de Gestión Financiera como parte integrante de las Cuentas Públicas, sobre los resultados físicos y financieros de los programas a su cargo, por los períodos correspondientes al primer, segundo y tercer trimestre del año. Lo anterior, a fin de que el Órgano Superior de Fiscalización del Estado fiscalice el trámite y la conclusión de los procesos correspondientes, los ingresos y egresos; el manejo, la custodia y la aplicación de sus fondos y recursos; y en su caso, emita las recomendaciones en cuanto al cumplimiento de los objetivos contenidos en los programas respectivos.
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2020)</small>
+
+VI.- Autorizar al Ejecutivo para ejercer actos de dominio sobre los bienes inmuebles pertenecientes al Estado, en los términos de la ley en la materia.
+
+VII.- Conocer de los convenios que el Gobernador celebre con los Estados vecinos respecto a las cuestiones de límites, y en caso de aprobarlos, someterlos a la aprobación del Congreso de la Unión.
+
+VIII.- Fijar la división territorial y política, administrativa y judicial del Estado.
+
+IX.- Crear y suprimir cargos públicos.
+
+X.- Convocar a elecciones conforme a la Ley.
+
+XI.- Para erigirse en Colegio Electoral en términos de lo dispuesto por los Artículos 42 y 44 de esta Constitución.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XII.- Designar en los términos que prevé esta Constitución, al ciudadano que deba suplir al Gobernador en sus faltas absolutas, así como conceder licencia al Gobernador para salir del territorio del Estado por más de veinte días, así como para separarse del cargo hasta por noventa días;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XIII.- Decidir sobre la renuncia del cargo de Gobernador;
+
+XIV.- (DEROGADA, P.O. 17 DE AGOSTO DE 2015)
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+XV.- Designar a las personas titulares de las Magistraturas del Tribunal de Justicia Administrativa del Estado, de las ternas correspondientes propuestas por la persona titular del Poder Ejecutivo del Estado.
+
+Los nombramientos de las personas titulares de las Magistraturas del Tribunal de Justicia Administrativa deberán recaer preferentemente entre aquellas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+XVI.- Conocer de las renuncias que de sus cargos presenten las personas titulares de las Magistraturas del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial de Aguascalientes, así como del Tribunal de Justicia Administrativa, comunicándose su aceptación a la autoridad competente, para que proceda conforme a sus facultades;
+
+XVII.- Conceder licencia a los Diputados para separarse de sus cargos, llamando inmediatamente a los respectivos suplentes.
+
+XVIII.- Intervenir, erigido en Gran Jurado y de acuerdo con las prevenciones de esta Constitución, en los procedimientos relativos a ilícitos oficiales o del orden común en contra de los servidores públicos que gocen de fuero.
+
+XIX.- Cambiar provisionalmente la residencia de los Poderes del Estado.
+
+XX.- Fijar y modificar la extensión del territorio que corresponda a los Municipios, por voto de las dos terceras partes de sus integrantes. Con esa misma mayoría crear nuevos Municipios con la intervención de los Municipios afectados.
+
+XXI.- Dirimir las controversias que no siendo de carácter judicial, ni sean de las previstas en el último párrafo de la fracción II del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos se susciten entre los Ayuntamientos.
+
+XXII.- Conceder amnistía con aprobación de las dos terceras partes de los Diputados presentes.
+
+XXIII.- Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna Ley o acto de Gobierno Federal constituya un ataque a la soberanía del Estado, o a la Constitución General, por el que resulte afectado éste.
+
+XXIV.- Investir al Gobernador de facultades extraordinarias en caso de calamidad pública.
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2013)</small>
+
+XXV.- Premiar a las personas que hayan prestado eminentes servicios públicos al Estado; o a los hijos de éste que los hayan prestado a la Patria o a la humanidad y recompensar a los buenos servidores de la Administración Pública, sin perjuicio de lo que dispone la parte final de la Fracción XIII del Artículo 46 de esta Constitución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+XXVI.- Expedir la Ley que regulará su estructura y funcionamiento interno, así como la Ley que regule la organización del Órgano Superior de Fiscalización del Estado, las cuales serán aprobadas por las dos terceras partes de sus integrantes.
+
+La Ley determinará las formas y procedimientos para la agrupación de los Diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el Congreso.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+Estas Leyes no podrán ser vetadas ni necesitarán de promulgación del Ejecutivo Estatal para tener vigencia.
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+XXVII.- Nombrar y remover a los servidores públicos de sus dependencias, así como al Auditor Superior del Estado.
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2026)</small>
+
+XXVIII.- Legislar en materia de responsabilidades administrativas de los servidores públicos.
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2026)</small>
+
+XXIX.- Expedir las leyes que regulen las relaciones de los Poderes Ejecutivo, Legislativo y Judicial, los Municipios, así como de los Órganos Constitucionales Autónomos con sus trabajadores, precisando para estos últimos, dichas disposiciones serán aplicables de manera supletoria, respetando en todo momento su autonomía constitucional, funcional y administrativa.
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+XXX.- Citar a solicitud de las dos terceras partes de sus miembros, al Gobernador del Estado, a los titulares de las Secretarías que dependen del Poder Ejecutivo, así como de sus Organismos Descentralizados del Estado o de Empresas de Participación Estatal, cuantas veces fuere necesario para que informen sobre el estado que guardan los asuntos a su cargo y demás aspectos relacionados con el cumplimiento de sus atribuciones, cuando se discuta una ley que sea de su incumbencia, se estudie un negocio relativo a sus actividades o, cuando así lo consideren los legisladores para tratar asuntos de interés público.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2011)</small>
+
+Citar, a solicitud de la Comisión Estatal de Derechos Humanos, a las autoridades o servidores públicos que no acepten o incumplan las recomendaciones de dicha Comisión, esto a fin de que comparezcan ante el Pleno Legislativo en sesión Pública, a explicar el motivo de su negativa.
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
+XXXI.- Aprobar, mediante el voto de la mayoría de los diputados presentes, el convenio y el programa de gobierno de coalición que, en su caso, celebre el Gobernador con uno o varios partidos políticos representados en el Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
+XXXII.- Elegir y nombrar al Fiscal General del Estado, y formular objeción a la remoción que del mismo haga el Ejecutivo Estatal, de conformidad con lo establecido en el Artículo 59 de esta Constitución;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+XXXIII.- Designar a una persona integrante del Órgano de Administración Judicial del Poder Judicial del Estado en los términos de esta Constitución y legislar en materia del Servicio Profesional de Carrera Judicial, y demás legislación necesaria para el ejercicio de la función jurisdiccional en el Estado;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2025)</small>
+
+XXXIV.- Autorizar al Estado, los Municipios y sus entidades públicas, previo análisis de sus capacidades de pago, la contratación y los montos máximos que se destinarán para Obras Públicas Financiadas, Proyectos de Prestación de Servicios o Asociaciones Público-Privadas, así como de las partidas plurianuales que se deriven de dichos esquemas para ser incluidos en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas. De igual manera se requerirá de dicha autorización respecto a las modificaciones por el aumento en el plazo y monto de los pagos plurianuales y la garantía de pago, en los términos que prevé esta Constitución y las disposiciones de la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+XXXV.- Coordinar y evaluar por medio de la Comisión de Vigilancia, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones del Órgano Superior de Fiscalización del Estado, en los términos que disponga la Ley; y
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2023)</small>
+
+XXXVI.- Expedir, modificar o abrogar, la Ley Orgánica del Tribunal de Justicia Administrativa y las leyes relativas en la materia, para su organización, funcionamiento y regulación, respetando los preceptos establecidos por esta Constitución;
+
+XXXVII.- (DEROGADA, P.O. 14 DE ABRIL DE 2025)
+
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2022)</small>
+
+XXXVIII.- Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los organismos con autonomía reconocida en ésta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado previa convocatoria que emita la Junta de Coordinación Política a fin de realizar una consulta a la sociedad para recibir propuestas de candidatos, lo anterior con excepción del Titular del Órgano Interno de Control del Tribunal Electoral; y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+XXXIX.- Postular el número de personas aspirantes que le corresponda para cada uno de los cargos de elección popular del Poder Judicial del Estado, en los términos que determina esta Constitución y las leyes aplicables.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+XL.- Emitir, en los términos de esta Constitución, la convocatoria para la integración del listado de candidaturas para los cargos de Titular de una Magistratura del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial de Aguascalientes, así como de personas Juzgadoras del Poder Judicial del Estado;
+
+(REUBICADA, P.O. 18 DE DICIEMBRE DE 2024)
+
+XLI.- Las demás que le concede esta Constitución y la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 #### SECCION UNICA
 
@@ -613,13 +949,13 @@ Asimismo, los servidores públicos locales y municipales, así como cualquier en
 
 Las indemnizaciones y sanciones pecuniarias a que se refiere la Fracción IV del Artículo 27 C de esta Constitución, constituirán créditos fiscales del erario estatal o municipal en su caso, y se harán efectivas aplicando el Procedimiento Administrativo de Ejecución.
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2026)</small>
 
-Artículo 27 B.- El Congreso del Estado emitirá la convocatoria para elegir al titular del Órgano Superior de Fiscalización del Estado y lo designará con el voto de las dos terceras partes de los miembros presentes en la Legislatura. La Ley determinará el procedimiento para su designación y remoción en su caso.
+Artículo 27 B.- El Congreso del Estado emitirá la convocatoria para elegir a la persona titular del Órgano Superior de Fiscalización del Estado y lo designará con el voto de las dos terceras partes de los miembros presentes en la Legislatura. La Ley determinará el procedimiento para su designación, remoción en su caso, así como su organización.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE FEBRERO DE 2026)</small>
 
-El Auditor Superior de Fiscalización, además de los requisitos previstos en las Fracciones III y IV del Artículo 53 de esta Constitución requeridos para ser Magistrado del Supremo Tribunal de Justicia y Fiscal General del Estado, deberá de reunir los siguientes:
+El Auditor Superior de Fiscalización deberá de reunir los siguientes requisitos:
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2023)</small>
 
@@ -637,11 +973,19 @@ III. Contar con experiencia de cinco años en materia de control interno y admin
 
 IV. No haber sido condenado por delito de ejercicio indebido del servicio público, abuso de autoridad, coalición de servidores públicos, concusión, cohecho, peculado, tráfico de influencias, encubrimiento o enriquecimiento ilícito; salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2026)</small>
 
-V. No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Fiscal General del Estado, Contralor del Estado o de Municipio, Presidente Municipal, Senador, Diputado Federal o local, Síndico o Regidor de algún Ayuntamiento o dirigente de Partido Político durante los cuatro años previos al de su designación.
+V. No estar en funciones· de Secretario o su equivalente en el Poder Ejecutivo del Estado, Fiscal General del Estado, Contralor del Estado o de Municipio, Presidente Municipal, Senador, Diputado Federal o local, Síndico o Regidor de algún Ayuntamiento o dirigente de Partido Político, el día que inicie el proceso para designar a la persona titular del Órgano.
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2026)</small>
+
+VI. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 El Auditor Superior de Fiscalización durará en su encargo siete años; podrá ser removido por el Congreso por causas que señale la Ley, siempre con la misma votación requerida para su nombramiento, o conforme a los procedimientos previstos en el Capítulo Décimo Sexto de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 Durante el ejercicio de su encargo no podrá formar parte de la dirigencia de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 
@@ -695,41 +1039,69 @@ Las sanciones y demás resoluciones del Órgano Superior de Fiscalización del E
 
 ###### Artículo 28.
 
-Las diligencias que deban practicarse fuera del recinto del Tribunal, se encomendarán a los Actuarios o a los Secretarios. Las que deban practicarse fuera del Estado se hará mediante exhorto que se envíe al Órgano Jurisdiccional Administrativo Competente, o en su defecto, a la autoridad judicial respectiva, con residencia en aquel lugar, quien actuará conforme lo ordene su legislación.
+Durante el receso del Congreso funcionará una Diputación Permanente, integrada por cinco Diputados con el carácter de propietarios y tres como suplentes, nombrados la víspera de la clausura de los períodos ordinarios de sesiones, en la forma y términos que fije la Ley que regula su estructura y funcionamiento interno.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 29.
 
-Las audiencias serán públicas, salvo los casos en que la moral, el interés público o la Ley exijan que sean reservadas.
+La Diputación Permanente, tendrá las siguientes facultades:
+
+I.- Admitir las iniciativas de Ley o de Decreto que se le presenten para que el Congreso les dé curso en el período ordinario de sesiones correspondiente.
+
+II.- Despachar los asuntos de mero trámite.
+
+III.- Convocar al Congreso a sesiones extraordinarias, cuando lo juzgue necesario o el Poder Ejecutivo lo solicite.
+
+IV.- Cambiar temporalmente la residencia de los Poderes del Estado, en casos de suma urgencia, mediante la aprobación del Ejecutivo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MARZO DE 2003)</small>
+
+V.- Recibir durante el receso del Congreso del Estado las iniciativas de Ley o proposiciones y turnarlas para dictamen a las comisiones del Congreso que por razón de su competencia les corresponda, a fin de que se despachen en el inmediato periodo de sesiones.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2011)</small>
+
+VI.- Ejercer las mismas funciones que el Congreso en los casos de las Fracciones XIV, XVI, XVII, XVIII y XXX párrafo segundo, del Artículo 27 de esta Constitución; y
+
+VII.- Las demás que le confiere esta Constitución.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 30.
 
-Cuando las leyes o reglamentos establezcan algún recurso o medio de defensa administrativo, será optativo para el particular agotarlo o intentar directamente el juicio ante el Tribunal. Ejercitada la acción ante éste, se extinguirá el derecho para ocurrir a otro medio de defensa administrativo. Contra la resolución dictada en el recurso administrativo procede el juicio ante el Tribunal.
+La iniciativa de las leyes corresponde:
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2018)</small>
 
-Cuando la resolución recaída a un recurso administrativo no satisfaga el interés jurídico del recurrente y este la controvierta en juicio ante el Tribunal, siempre que ésta se haya pronunciado en el fondo, se entenderá que simultáneamente impugna la resolución recurrida, pudiendo hacer valer agravios no planteados en el recurso, en caso contrario, será requisito que primero se pronuncie sobre la procedencia del recurso, para que el juicio proceda contra la resolución objeto del recurso.
+I.- A los Diputados al Congreso del Estado;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2018)</small>
+
+II.- Al Gobernador del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2018)</small>
+
+III.- Al Supremo Tribunal de Justicia, en asuntos de su ramo;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2018)</small>
+
+IV.- A los Ayuntamientos, en los asuntos de su competencia; y
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2018)</small>
+
+V.- A los ciudadanos que en términos de esta Constitución y la ley de la materia, presenten una Iniciativa Ciudadana.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 31.
 
-Los Magistrados de oficio o a petición de parte, para hacer cumplir sus determinaciones podrán hacer uso, indistintamente, de los siguientes medios de apremio:
+Toda iniciativa pasará, sin otro trámite que su lectura, a la Comisión respectiva para que dictamine. Cuando la iniciativa corresponda a algún Municipio o se refiera a materias municipales deberá oírse la opinión de los Ayuntamientos, debiendo rendirla en un término que no exceda de quince días hábiles a partir de su notificación, en caso de no hacerlo dentro del plazo mencionado se continuará con el trámite legislativo correspondiente. El modo, forma y términos para las discusiones y votaciones se establecerán en la Ley Orgánica y en el Reglamento del Congreso del Estado.
 
-I.- Amonestación;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+En los mismos términos se procederá respecto de las iniciativas que se refieran a los ámbitos de competencia de los Poderes Ejecutivo y Judicial, así como de los Órganos Constitucionales Autónomos.
 
-II.- Multa equivalente al monto de sesenta y cinco a quinientas cuotas de salario mínimo vigente en el área geográfica del lugar de residencia del Tribunal. En caso de persistir el incumplimiento podrá aplicarse hasta el doble de la multa máxima antes referida;
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
-
-III.- Arresto hasta por treinta y seis horas; y
-
-IV.- Auxilio de la fuerza pública.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2003)</small>
 
 ###### Artículo 31 Bis 1.
 
@@ -779,565 +1151,793 @@ V.- El desalojo de la Sala de Audiencia.
 
 ###### Artículo 32.
 
-En los juicios que se tramiten ante el Tribunal no habrá lugar a condenación en costas; en consecuencia, cada parte será responsable de las que originen las diligencias que promuevan, así como los gastos y honorarios en que incurran con motivo de la tramitación del juicio.
+Aprobada una iniciativa de Ley o Decreto por el Congreso del Estado, pasará al Ejecutivo, quien, si no tuviere observaciones qué hacer o transcurrido el plazo sin haberlas hecho, lo publicará dentro de los diez días hábiles siguientes. En caso contrario, el Congreso del Estado ordenará su publicación.
 
-### CAPITULO II. DE LAS PARTES
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1995)</small>
+
+Se reputará sancionada por el Poder Ejecutivo toda Ley o Decreto no devuelto con observaciones al Congreso del Estado, dentro de los siguientes veinte días hábiles en que se recibió; a no ser que corriendo este término hubiere cerrado el Congreso sus sesiones, en cuyo caso la devolución deberá hacerse a la Diputación Permanente.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2003)</small>
+
+La iniciativa de Ley o Decreto vetada total o parcialmente por el Ejecutivo, será devuelta con sus observaciones al Congreso del Estado, quien deberá discutirlo de nuevo y si fuere confirmado o aceptadas las observaciones por el voto de las dos terceras partes del número total de los Diputados, la iniciativa será Ley o Decreto y volverá al Ejecutivo para su publicación dentro de los diez días hábiles siguientes al de su recepción; de no hacerlo, el Congreso del Estado ordenará su publicación.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+
+Las votaciones serán nominales.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1953)</small>
+
+El Ejecutivo del Estado no podrá vetar las resoluciones del Congreso cuando éste actúe como Colegio Electoral o como Gran Jurado. Tampoco podrá hacerlo respecto de los Decretos que expida la Diputación Permanente convocando al Congreso a períodos extraordinarios de sesiones.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
+
+### CAPITULO SEPTIMO
+
+De las Facultades del Congreso.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 33.
 
-Serán partes en el procedimiento:
+La iniciativa que sea desechada por el Congreso, no podrá volver a presentarse sino hasta el siguiente período ordinario.
 
-I.- El demandante;
-
-II.- Los demandados. Tendrán este carácter:
-
-a) La autoridad que dicte, ordene, así como la que ejecute, trate de ejecutar u omita la resolución o acto impugnado, o en su caso, quienes la sustituyan; y
-
-b) El particular a quien favorezca la resolución cuya modificación o nulidad pida la autoridad administrativa.
-
-III.- Siempre será parte la Dependencia del Ejecutivo del Estado a quien determine la Ley, si la resolución o acto impugnado es de naturaleza administrativa estatal; y el Secretario de Finanzas y Tesorero General del Estado, si es de naturaleza fiscal estatal. En caso de que la resolución o acto impugnado provenga de una autoridad municipal, la representación de ésta corresponderá al Síndico del Ayuntamiento, observándose lo previsto en la Ley Orgánica de la Administración Pública Municipal del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-La parte mencionada en el párrafo precedente podrá contestar la demanda, ofrecer pruebas, expresar alegatos, hacer valer causales de improcedencia o sobreseimiento, formular todo tipo de objeciones e interrogatorios, promover incidentes o recursos y realizar cualquier intervención en beneficio y protección de los intereses jurídicos de la administración pública estatal o municipal, en su caso; y por la naturaleza de su participación no le será aplicable lo dispuesto en el Artículo 53 de esta Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
-
-IV.- Los terceros perjudicados. Tienen este carácter:
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
-
-a) La persona que pudiera ser afectada de manera directa la esfera jurídica de sus derechos por la resolución del Tribunal al tener un derecho incompatible con las pretensiones deducidas por el demandante; o
-
-b) Quien se apersone en el juicio como coadyuvante de las autoridades administrativas o fiscales, con un interés jurídico directo en la modificación o anulación de un acto favorable a un particular, o en la confirmación de uno que le es desfavorable.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
 
 ###### Artículo 34.
 
-Ante el Tribunal no procederá la gestión de negocios. Quien promueva a nombre de otro particular deberá acreditar que la representación le fue otorgada.
+En casos urgentes a juicio del Congreso, sin omitir ningún trámite, las resoluciones sobre las iniciativas se darán en razón de la premura indicada.
 
-La representación de los particulares se otorgará en escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante Notario Público o ante los Secretarios del Tribunal.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
-La representación de los menores será ejercida por quien tenga la patria potestad o la tutela. Tratándose de otros incapaces, de sucesión o de ausentes, la representación se acreditará con la resolución judicial respectiva.
+### CAPITULO OCTAVO
 
-Los particulares o sus representantes podrán autorizar para tener acceso a los expedientes en su nombre a la persona que para tal efecto designen, sin ser necesario que sean Licenciados en Derecho. Pero para oír y recibir notificaciones en su nombre o bien, para el efecto de imponerse de autos, deberá acreditarse a Licenciados en Derecho que tengan cédula profesional registrada ante el Tribunal; la persona así autorizada podrá hacer promociones de trámite, rendir pruebas, presentar alegatos, interponer recursos e intervenir en todas las etapas del proceso. Las autoridades que participen en juicio podrán acreditar en cualquier momento delegados para los mismos fines.
+De la Diputación Permanente.
 
-Tratándose del representante que participe en los métodos alternos para la solución de los conflictos, no se requerirá mayor requisito que el que expresamente esté autorizado para tal efecto y con poder suficiente para suscribir convenios.
-
-Siempre que dos o más personas ejerciten una misma acción u opongan la misma excepción, deberán litigar bajo una misma representación común. El representante común estará facultado para actuar en los términos del párrafo cuarto de este Artículo.
-
-En el caso de que no obstante el requerimiento efectuado por la Sala, no se designare el representante común, el Magistrado Instructor lo designará en rebeldía.
-
-### CAPITULO III. DE LAS NOTIFICACIONES Y DE LOS TERMINOS
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
 ###### Artículo 35.
 
-Las resoluciones serán notificadas, personalmente, dentro del tercer día hábil a partir de aquél en que se pronunciaron; por lista, al día hábil siguiente al de ser emitidas; o por correo certificado con acuse de recibo, en cuyo caso la pieza postal deberá ser depositada en el correo al día hábil siguiente de que se dictó la resolución.
+Para su observancia, las Leyes y Decretos deberán publicarse en el Periódico Oficial del Estado y entrarán en vigor al día siguiente de su publicación. Cuando en la Ley o Decreto se fije la fecha en que debe empezar a regir, su publicación se hará por lo menos tres días antes de aquélla.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-Cuando se trate de citación para la práctica de alguna actuación procesal, se hará por lo menos con tres días hábiles de anticipación.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 36.
 
-Desde el primer escrito que presenten, los particulares deberán señalar domicilio en cualquier municipio del área metropolitana de Monterrey, comunicando el cambio del mismo para que se hagan las notificaciones personales indicadas en esta Ley. En caso de que los particulares no cumplan con las anteriores prevenciones, las notificaciones que deban ser personales se harán en la forma prevista en la fracción IV del Artículo 38 de esta Ley.
+El ejercicio del Poder Ejecutivo se deposita en un sólo individuo que se denominará Gobernador del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 37.
 
-Para los efectos de esta Ley, son días hábiles todos los del año excepto los sábados y domingos; el 1° de enero, el primer lunes de febrero en conmemoración del 5 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, el 1° y 5 de mayo, el 16 de septiembre, el 12 de octubre, el tercer lunes de noviembre en conmemoración del 20 de noviembre, el 25 de diciembre así como aquéllos en los que se suspendan las labores por acuerdo de la Sala Superior o por determinación de otras disposiciones legales.
+Para ser Gobernador del Estado, se requiere:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con residencia efectiva en él no menor de diez años inmediatamente anteriores al día de la elección;
 
-Son horas hábiles las comprendidas de las ocho a las diecinueve horas. Las horas de oficina del Tribunal se comprenderán de las ocho a las quince horas, sin perjuicio de lo establecido en la fracción I del Artículo 43 de esta Ley.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-El Tribunal podrá habilitar los días y horas inhábiles, cuando lo juzgue necesario.
+II.- Estar en pleno goce y ejercicio de sus derechos; y
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2009)</small>
+
+III.- Tener cuando menos treinta años cumplidos al día de la elección.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 38.
 
-Las notificaciones se harán:
+No puede ser Gobernador:
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-I.- A las autoridades por oficio, correo certificado con acuse de recibo o personalmente a sus delegados o representantes si estuvieren en el Tribunal, en los casos a que se refiere la fracción II de este artículo.
+I. El ministro de culto religioso, salvo que dejare de ser ministro de culto con la anticipación y en la forma que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
-II.- A los particulares personalmente cuando:
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-a) Se trate de la primera notificación;
+II. La persona a quien por sentencia ejecutoria se le haya impuesto como pena la suspensión de los derechos o prerrogativas de los ciudadanos, o haya sido condenada mediante sentencia ejecutoria por delito doloso de acoso, abuso sexual, violencia de género y/o violencia familiar, por delitos de hechos de corrupción o de los previstos como tipos penales protectores de la administración pública, por el delito o infracción a la normatividad electoral consistente en violencia política contra las mujeres en razón de género o por sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia;
 
-b) Se dejare de actuar durante más de dos meses consecutivos;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-c) Se trate de prevenciones, requerimientos y apercibimientos;
+III. La deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda;
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-d) Se trate de la resolución definitiva o interlocutoria;
+IV. El que haya desempeñado con anterioridad ese cargo por elección popular; y
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-e) El Tribunal lo estime urgente o necesario; y
+V. El servidor público sea cual fuere el origen de su designación a menos que se separe de su cargo 90 días antes de la elección.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
-
-f) Se trate de la reanudación o reactivación del procedimiento para que se impongan de ello.
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
-
-III.- Por lista o por correo certificado con acuse de recibo cuando la notificación no sea de las previstas en las fracciones anteriores;
-
-IV.- Fuera de los casos señalados en las fracciones anteriores, las notificaciones se harán personalmente en el Tribunal a los particulares, si se presentaren dentro de las veinticuatro horas siguientes al día en que se haya dictado la resolución; en caso contrario, por medio de listas autorizadas por el Actuario, que se fijarán a las trece horas en el tablero de avisos del Tribunal.
-
-Cuando el servicio postal devuelva por cualquier causa un oficio de notificación, ésta se hará personalmente y cuando fehacientemente no fuere posible, por lista.
-
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
-
-Salvo lo dispuesto en el artículo 36 de esta Ley, la primera notificación a la persona cuyo lugar de residencia, domicilio o habitación se ignore, se le hará por medio de edictos a cargo de la parte que lo señale, los cuales serán publicados por una ocasión en un periódico de los de mayor circulación en la entidad a juicio del Magistrado y, en el Periódico Oficial del Estado. La notificación hecha de esta manera surtirá sus efectos a los diez días contados a partir del día siguiente de la publicación. Las demás notificaciones se le harán por lista, si el notificado no compareciera.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### Artículo 39.
 
-En el expediente respectivo, el Actuario asentará razón del envío por correo o la entrega de los oficios de notificación, así como de las notificaciones personales o por lista. Los acuses de recibo postales y las piezas certificadas devueltas, se agregarán como constancia a dichas actuaciones.
+El ciudadano que hubiere ocupado el cargo de Gobernador Provisional o Interino, o aquél que bajo cualquier denominación supla las faltas temporales del Gobernador; así como el ciudadano que con el carácter de Gobernador Sustituto supla la falta definitiva del Gobernador, no podrá ser electo o designado como Gobernador en cualquiera de sus formas, si no han trascurrido dos años de que cesó en sus funciones.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 40.
 
-Todas las notificaciones surtirán efectos a partir del día hábil siguiente al en que sean practicadas.
+No podrá ser electo Gobernador para el período inmediato, el ciudadano que haya desempeñado ese cargo por designación distinta a la de elección popular.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 41.
 
-Las notificaciones que no fueran practicadas en la forma que establecen las disposiciones precedentes serán nulas. Las partes afectadas podrán pedir su nulidad antes de que se dicte sentencia, ofreciendo las pruebas en el mismo escrito en que se promueva. El Tribunal decidirá de plano sin formar expediente. Declarada la nulidad, el procedimiento se repondrá a partir de la notificación irregular.
+El Gobernador del Estado será electo directamente por el pueblo, en los términos de la Ley Electoral; durará en su encargo seis años y empezará a ejercer sus funciones el día primero de octubre del año de la elección, previa protesta que rendirá ante el Congreso, en los siguientes términos:
 
-Si se declara la nulidad de la notificación, se impondrá al servidor público responsable, una multa equivalente a un salario mínimo diario vigente en la Ciudad de Monterrey. Podrá ser destituido de su cargo en caso de reincidencia, sin responsabilidad para el Estado.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+
+"PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE AMBAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DEL ESTADO; Y SI ASI NO LO HICIERE, QUE EL PUEBLO ME LO DEMANDE".
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 42.
 
-Cuando el afectado se haga sabedor de una providencia cuya notificación fue omitida o irregular, ésta se convalidará al comparecer dentro del juicio.
+En caso de falta absoluta de Gobernador, ocurrida dentro de los dos primeros años del período respectivo, el Secretario General de Gobierno será el encargado del despacho del Poder Ejecutivo. El Congreso expedirá dentro de los veinte días siguientes la Convocatoria para la elección de Gobernador que debe concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho. La persona así elegida asumirá el cargo de Gobernador en un plazo no mayor de dos meses contados a partir de que sea electo.
+
+Cuando la falta de Gobernador ocurriese en los cuatro últimos años del período correspondiente, el Secretario General de Gobierno se encargará del despacho del Poder Ejecutivo, en tanto el Congreso se erige en Colegio Electoral y nombra por mayoría absoluta al Gobernador Sustituto que deberá concluir el período.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 43.
 
-El cómputo de los términos se sujetará a las reglas siguientes:
+En las faltas temporales del Gobernador, ejercerá el Poder Ejecutivo el Secretario General de Gobierno como encargado del Despacho.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2012)</small>
+### CAPITULO NOVENO
 
-I.- Los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales, contados de las cero a las veinticuatro horas;
+De la Iniciativa y Formación de las Leyes.
 
-II.- Comenzarán a correr desde el día hábil siguiente al en que surta efectos la notificación respectiva; serán improrrogables y se incluirá en ellos el día del vencimiento; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE FEBRERO DE 2012)</small>
-
-III.-Se contarán por días hábiles.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2012)</small>
-
-Cuando la Ley no señale término para la práctica de un acto judicial o para el ejercicio de algún derecho durante el juicio, se tendrá por señalado el de tres días.
-
-### CAPITULO IV. DE LAS CAUSALES DE ANULACION
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 44.
 
-Son causas de ilegalidad y por tanto de anulación de los actos impugnados, los siguientes:
+Si al comenzar un período constitucional no se presentase el Gobernador electo, o la elección no estuviere hecha y declarada el primero de octubre, cesará, sin embargo, el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el ciudadano que designe el Congreso, o en su receso, con el carácter de Provisional, el que designe la Diputación Permanente, observándose lo dispuesto en los Artículos 42 y 43 de esta Constitución.
 
-I.- Incompetencia de la autoridad;
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+### CAPITULO DECIMO
 
-II.- Incumplimiento u omisión de las formalidades del procedimiento o de la resolución combatida que afecten las defensas del particular o trasciendan al sentido de la resolución impugnada, inclusive la falta de motivación y fundamentación o ausencia de firma autógrafa del servidor público emisor del acto.
+Del Poder Ejecutivo.
 
-III.- (DEROGADA, P.O. 20 DE FEBRERO DE 2009)
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
-
-IV.- Cuando se aprecie que los hechos que motivaron el acto impugnado no se realizaron, fueron distintos o se apreciaron en forma equivocada, o bien se dictó en contravención de las disposiciones aplicadas o dejó de aplicar las debidas, en cuanto al fondo del asunto.
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
-
-V.- La falta de contestación a una petición del particular dentro del término de cuarenta y cinco días hábiles, salvo los términos más reducidos que fije la ley de la materia; excepto cuando se trate de una negativa ficta.
-
-VI.- Arbitrariedad, desproporción, desigualdad, desvío de poder, injusticia manifiesta o cualquier otra causa similar, tratándose de imposición de sanciones o la aplicación de facultades discrecionales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-Por ser de orden público el Tribunal podrá hacer valer de oficio la incompetencia de la autoridad que emitió la resolución impugnada o para ordenar o tramitar el procedimiento del que deriva, así como la ausencia total de fundamentación y motivación en dicha resolución y la falta de firma autógrafa del servidor público emisor del acto.
-
-### CAPITULO V. DE LA DEMANDA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 45.
 
-La demanda deberá formularse por escrito y presentarse directamente ante la Oficialía de Partes del Tribunal, o por correo certificado cuando el actor tenga su domicilio fuera de los municipios de Apodaca, Juárez, General Escobedo, García, Guadalupe, Monterrey, San Pedro Garza García, San Nicolás de los Garza y Santa Catarina, Nuevo León, que integran el área metropolitana de Monterrey, en cuyo caso se tomará como fecha de presentación de la demanda, la del depósito de la misma ante la oficina de correos.
+En los casos en que el Gobernador se ausente legalmente del territorio del Estado, sin separarse de su cargo, el Secretario General de Gobierno quedará encargado del Despacho, y se limitará a conocer de los asuntos que fueren inaplazables y de los de mero trámite.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-En la demanda deberá expresarse lo siguiente:
-
-I.- El nombre y domicilio del actor o, en su caso, de quien promueva en su nombre;
-
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
-
-II.- La autoridad o autoridades demandadas, precisas y específicas, que hayan dictado, ordenado, ejecutado, tratado de ejecutar u omitido la resolución o acto impugnado; o el nombre y domicilio del particular demandado en el caso previsto en el segundo párrafo del artículo 46 de esta Ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
-
-III.- El acto, procedimiento o resolución que de cada autoridad se impugne;
-
-IV.- La fecha de notificación o en la que se tuvo conocimiento de la existencia del acto impugnado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
-
-V.- El nombre y domicilio del tercero perjudicado, así como los motivos por los cuales se considera que debe ser llamado con ese carácter.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-VI.- La manifestación bajo protesta de decir verdad de los hechos en que se apoye la demanda, y los agravios que causa el acto, el procedimiento o la resolución impugnados.
-
-Tratándose de la redacción de los agravios, no será necesario emplear formalismo alguno, basta tan solo que se cite la causa de pedir.
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
-
-VII.- Las pruebas que el actor ofrezca y que sustenten la demanda, expresando la relación de la prueba ofrecida con la litis planteada, precisando claramente el hecho o hechos que se pretende acreditar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-Adicionalmente cuando se ofrezcan las pruebas de inspección, pericial o testimonial, se precisarán los hechos sobre los que deban versar, el objeto de las mismas y en el caso de las dos últimas, se señalarán los nombres y domicilios del perito o de los testigos. Tratándose de la prueba de reconocimiento o inspección, se señalará el lugar en el que deba practicarse, así como el fin específico de la misma; cuando ésta se ofrezca con la asistencia de peritos o testigos, deberán señalarse sus nombres y domicilios.
-
-En el caso de pruebas documentales, se deberá mencionar la foja y el párrafo del instrumento donde conste la información con la que pretende demostrar los hechos.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2009)</small>
-
-VIII.- La pretensión que se deduce; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2009)</small>
-
-IX.- La manifestación de someterse o no a algún método alterno para la solución de conflictos, observando para tal efecto lo dispuesto en el artículo 3° de la Ley de Métodos Alternos para la Solución de Conflictos del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-Cuando se omitan estos requisitos, el Magistrado que conozca del asunto requerirá mediante notificación personal al demandante para que los proporcione en un plazo de cinco días, apercibiéndolo de que de no hacerlo, se tendrá por no presentada la demanda. Cuando no obstante el apercibimiento se omitiere señalar el nombre y domicilio del tercero perjudicado o los motivos por los cuales deba ser llamado con ese carácter, el Magistrado resolverá lo que corresponda en los términos de la fracción IV del Artículo 33 de esta Ley. Si no se hiciere manifestación respecto de someterse o no a un método alterno para la solución de conflictos, se entenderá que no hay voluntad para someterse a alguno de ellos, pudiéndolo hacer en cualquier etapa del procedimiento; y cuando se omitiere ofrecer o acompañar pruebas, solamente se tendrá por perdido el derecho de ofrecerlas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 46.
 
-El plazo para interponer la demanda será de treinta días hábiles. Dicho término se contará desde el día siguiente al en que haya surtido efectos, conforme a la ley del acto, la notificación al accionante de la resolución o acuerdo que reclame, o al en que haya tenido conocimiento de ellos o de su ejecución, o al en que se hubiere ostentado sabedor de los mismos.
+Son facultades y obligaciones del Gobernador:
 
-Cuando la autoridad promueva la nulidad de una resolución favorable a un particular, la demanda podrá presentarse dentro de los cinco años siguientes a la fecha en que haya sido notificada la resolución, salvo que la misma haya originado efectos de tracto sucesivo, caso en el cual la autoridad podrá demandar su nulidad en cualquier tiempo; pero los efectos de la sentencia, en este último caso, si se declaran nulos, solo se retrotraerán hasta los cinco años anteriores a la presentación de la demanda.
+I.- Promulgar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
-Cuando se trate de negativa ficta, el derecho a demandar nace al transcurrir cuarenta y cinco días después de que el particular presentó su petición, salvo que haya términos más reducidos en la ley de la materia, en cuyo caso la demanda se podrá interponer en cualquier tiempo posterior a dicho plazo, mientras no se notifique la resolución.
+II.- Presentar cada año al Congreso del Estado a más tardar el 31 de octubre los proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, excepto cuando el Gobernador inicie su encargo en la fecha prevista en el Artículo 41, en cuyo caso el Gobernador entrante entregará los proyectos a más tardar el 15 de noviembre, mismos que deberán incluir: los ingresos que de sus actividades generen las dependencias definidas como tales en la Ley Orgánica de la Administración Pública del Estado, los organismos paraestatales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado; los presupuestos de egresos de cada uno de éstos y sus programas, debiendo comparecer el Secretario de Finanzas ante el Pleno y Comisiones a dar cuenta del mismo, y si lo considera conveniente la Comisión de Vigilancia, también deberán comparecer ante ésta, los responsables del gasto de los Poderes del Estado, así como de los organismos y dependencias;
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2025)</small>
 
-Tratándose de la afirmativa ficta, la demanda de nulidad podrá promoverse en cualquier tiempo una vez transcurrido el plazo concedido a la autoridad ante quien se planteó la instancia no resuelta para expedir la constancia y términos de su configuración, y esto se omita; pero si se expide la constancia de reconocimiento y el particular estima que la misma no satisface su pretensión, el término para promover la demanda será el previsto en el primer párrafo del presente artículo.
+III.- Solicitar al Congreso la autorización para celebrar Proyectos de Prestación de Servicios o Asociaciones Público-Privadas, Obra Pública Financiada así como de las partidas plurianuales que se deriven de dichos esquemas para ser incluidos en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas para cubrir los gastos correspondientes a las obligaciones contraídas, de conformidad a lo establecido en las Fracciones III y XXXIV del Artículo 27 de esta Constitución y las disposiciones de la Ley de la materia.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2015)</small>
 
-Las disposiciones administrativas de carácter general deberán impugnarse simultáneamente con el primer acto de aplicación sujetándose a los plazos previstos en este artículo.
+IV.- Informar anualmente y por escrito al Congreso del Estado, dentro del período comprendido entre el 15 y el 30 de septiembre, sobre el estado general que guarde la administración pública estatal.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+V.- Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Supremo Tribunal sobre el de Justicia.
 
-El demandante tendrá el derecho de ampliar la demanda dentro de los quince días hábiles siguientes a aquél en que surta efectos la notificación de la contestación de la misma, en los siguientes casos:
+VI.- Reconocer, cuando después de una elección se instale más de un Cuerpo Legislativo, cuál es el que representa la legalidad; y cuando estuviere dividido el Congreso en varios grupos, al que tenga quórum legal.
 
-I.- Cuando se impugne una negativa ficta;
+VII.- Celebrar convenios:
 
-II.- Contra el acto principal del que derive la resolución impugnada en la demanda, así como su notificación, cuando se den a conocer en la contestación;
+a).- De coordinación con las Secretarías de Estado y con los Municipios.
 
-III.- Cuando el actor manifieste Bajo Protesta de Decir Verdad que no conoce el contenido de la resolución que pretende impugnar y así lo exprese en su demanda, debiendo señalar la autoridad a quien le atribuye, su notificación o su ejecución. En este caso al contestar la demanda la autoridad acompañará constancia de la resolución administrativa y de su notificación.
+b).- Sobre límites con los Estados vecinos previa aprobación del Congreso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+c).- Respecto de cualquier otra materia de su competencia, con los demás Estados de la República; y
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+d).- En general, con las personas de derecho privado.
 
-Tratándose de negativa ficta, cuando la autoridad demandada allegue al juicio constancia de la resolución negativa expresa, así como de su notificación, el demandante tendrá el derecho de ampliar la demanda dentro del término de quince días establecido en este Artículo, o podrá promover un nuevo juicio dentro de los treinta días hábiles siguientes a aquel en que surta efectos la notificación de la contestación a través de la cual se dio a conocer la resolución negativa expresa de la misma, cuando en un juicio primigenio iniciado con motivo de combatir una negativa ficta la autoridad demandada acompañe constancia de resolución negativa expresa y de su notificación acompañadas por la autoridad demandada al producir contestación.
+VIII.- Concertar empréstitos en los términos de la fracción IV del Artículo 27 de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2020)</small>
 
-En el escrito de ampliación de demanda se deberán adjuntar las copias necesarias para el traslado, las pruebas y documentos que en su caso se presenten, aplicándose en lo conducente lo previsto en los Artículos 45, 47 y demás relativos de esta Ley.
+IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso, en los términos de la ley en la materia.
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2015)</small>
+
+X.- Nombrar y remover al Secretario General de Gobierno, al Secretario de Finanzas y a los demás servidores públicos del Poder Ejecutivo Estatal; así como ejercer las facultades en la designación y remoción del Fiscal General del Estado en términos de lo establecido en el Artículo 59 de esta Constitución;
+
+XI.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
+
+XII.- Solicitar de la Diputación Permanente que convoque al Congreso a sesiones extraordinarias cuando fuere necesario.
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2013)</small>
+
+XIII.- Expedir títulos profesionales respecto de estudios realizados en instituciones dependientes del Estado, así como otorgar el premio Aguascalientes conforme al decreto que el propio ejecutivo emita.
+
+XIV.- Conceder, conforme a la Ley, indulto, reducción y conmutación de penas.
+
+XV.- Decretar la expropiación, por causa de utilidad pública, con los requisitos y formalidades que establezca la Ley de la materia.
+
+XVI.- Disponer de la Policía Preventiva Municipal en los casos que juzgue como de fuerza mayor o alteración grave del orden público.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+XVII.- Postular el número de personas aspirantes que le corresponda para cada uno de los cargos de elección popular del Poder Judicial del Estado, en los términos que determina esta Constitución y las leyes aplicables.
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
+XVIII.- Ejercer las facultades que en materia de Vialidad Estatal le asignen las Leyes;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
+XIX.- En cualquier momento, optar por un gobierno de coalición con uno o varios de los partidos políticos representados en el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por la mayoría de los miembros presentes del Congreso del Estado. El convenio establecerá las causas de la disolución del gobierno de coalición;
+
+XX.- (DEROGADA, P.O. 14 DE ABRIL DE 2025)
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+XXI.- Promover el desarrollo rural integral sostenible del Estado, en los términos que le asignen las Leyes;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2023)</small>
+
+XXII.- Fomentar, promover e impulsar valores sociales y políticas públicas destinadas a fortalecer el desarrollo armónico de la familia como núcleo de la sociedad.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2023)</small>
+
+XXIII.- Regir al Poder Ejecutivo bajo el principio de gobierno abierto, lo cual involucra un ejercicio gubernamental orientado en los principios de transparencia, rendición de cuentas, participación ciudadana, accesibilidad e innovación tecnológica; y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+XXIV.- Designar a una persona integrante del Órgano de Administración Judicial del Poder Judicial del Estado, conforme lo dispuesto (sic) esta Constitución.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+XXV.- Las demás que esta Constitución, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte y otras disposiciones jurídicas le confieran.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 47.
 
-El demandante deberá adjuntar a su demanda:
+El cargo de Gobernador solo es renunciable por causa grave que calificará el Congreso, ante el que se presentará la renuncia.
 
-I.- El documento que acredite su personalidad cuando no gestione a nombre propio, a menos que compruebe que dicha personalidad le fue reconocida por la autoridad demandada dentro del procedimiento del que emanó el acto impugnado;
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
-
-II.- El documento en que conste el acto impugnado, así como el acta de su notificación. Copia de la instancia no resuelta por la autoridad demandada, cuando se impugne la negativa ficta o la omisión de expedir la constancia de reconocimiento de la afirmativa ficta, así como cuando se impugne dicha constancia por no satisfacer la pretensión del particular;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
-
-III.- Las pruebas documentales que ofrezca. Cuando las pruebas documentales no obren en poder del demandante o cuando no obstante sus gestiones no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente debieran estar a su disposición, éste deberá señalar el archivo o lugar en que se encuentren para que a su costa el Magistrado ordene expedir copia certificada de ellos o requiera su remisión, cuando ésta sea legalmente posible. Para este efecto el demandante deberá identificar con toda precisión los documentos, dependencia u oficina, y para tener por cumplido este requisito, bastará con que se acompañe copia de la solicitud presentada, con la que se acredite fehacientemente haber realizado la gestión por lo menos cinco días antes de la interposición de la demanda;
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
-
-IV.- El pliego de posiciones, en sobre cerrado, conforme al cual se desahogará la prueba confesional; el cuestionario que deba desahogar el perito o el interrogatorio que deberán contestar los testigos, todos ellos debidamente firmados por el oferente, asimismo señalará los nombres y domicilios de los peritos y testigos. Cuando el actor amplíe la demanda, al escrito de ampliación deberán acompañarse los documentos y pruebas a que se refiere este artículo en lo conducente; y
-
-V.- Una copia de la demanda y de los documentos anexados a ella, para cada una de las partes, siempre que éstos no pasen de veinticinco fojas, pues si se exceden, los documentos quedarán en la Secretaría para que se impongan de ellos las partes.
-
-Cuando el actor no acompañe los documentos a que se refiere este Artículo, dará lugar a que se le requiera en los términos establecidos en el Artículo 45, pero por lo que hace al acto o resolución impugnados o al acta de notificación, bastará que manifieste bajo protesta de decir verdad que no se levantó o que no se le dejó copia de ellos, para que se tenga por presentada la demanda.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 48.
 
-El Tribunal desechará la demanda en los casos siguientes:
+Para el Despacho de los negocios de la Administración Pública del Estado, habrá un Secretario General de Gobierno, quien deberá reunir los siguientes requisitos:
 
-I.- Si encontrare motivo manifiesto o indudable de improcedencia; y
+I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con residencia efectiva en él, no menor de cinco años inmediatamente anteriores al día de la designación;
 
-II.- Si fuera obscura o irregular y habiéndose prevenido al actor para subsanarla, éste no lo hiciere en el plazo de cinco días.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
+II.- Estar en pleno goce y ejercicio de sus derechos;
+
+> <small>(REFORMADA P.O. 5 DE JUNIO DE 2023)</small>
+
+III.- Ser mayor de 30 años;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+IV.- No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+V.- No haber sido condenado mediante sentencia ejecutoria por delito doloso de acoso, abuso sexual, violencia de género y/o violencia familiar, por delitos de hechos de corrupción o de los previstos como tipos penales protectores de la administración pública, por el delito o infracción a la normatividad electoral consistente en violencia política contra las mujeres en razón de género o por sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 49.
 
-No encontrándose irregularidades en la demanda o subsanadas éstas, se admitirá y correrá traslado de ella a la parte demandada y a los terceros, emplazándolos para que la contesten dentro del término de treinta días hábiles, apercibiéndolos de que de no hacerlo se presumirán ciertos los hechos que el actor le impute de manera precisa al demandado, salvo prueba en contrario, o que por hechos notorios resulten desvirtuados.
+Todos los despachos del Gobernador deberán ser firmados por el Secretario General de Gobierno.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+El Decreto promulgatorio de leyes, será refrendado únicamente por el Secretario General de Gobierno.
 
-Desde el auto en que admita la demanda, y en cualquier otro momento del juicio hasta antes de dictar sentencia, el Magistrado instructor impulsará la conciliación entre las partes, para lo cual se procederá de la siguiente forma:
+Los Decretos, acuerdos y reglamentos que el Gobernador del Estado promulgue, para que sean obligatorios, deberán estar refrendados por el Secretario General de Gobierno y por el encargado del ramo según corresponda, de conformidad con la ley de la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+### CAPITULO UNDECIMO. Del Secretario General de Gobierno
 
-I.- Cuando alguna de las partes del juicio manifieste su deseo de resolver la controversia a través de algún procedimiento previsto en la Ley de Métodos Alternos para la Solución de Conflictos del Estado, el Magistrado dará vista a la contraparte a fin de que manifieste si está de acuerdo con someter el conflicto a esa alternativa; en caso de ser afirmativa la respuesta, el Magistrado emitirá un acuerdo ordenando remitir a la Dirección de Orientación y Consulta Ciudadana, copia de las constancias necesarias del expediente para que proceda el titular de dicha Dirección en los términos de lo previsto en el Artículo 23 Bis fracción IV de esta Ley.
-
-Una vez que el Magistrado reciba la opinión del titular de la Dirección de Orientación en el sentido de que el acto impugnado, es susceptible de convenio conforme a la naturaleza jurídica del asunto, citará a las partes a una audiencia para la cual fijará fecha y hora para su celebración, no debiendo exceder de un plazo de diez días siguientes a la fecha en que se notifique el mencionado acuerdo.
-
-II. En caso de que en el plazo fijado las partes citadas no comparezcan, se levantará un acta circunstanciada en la que se asentará la incomparecencia de éstas y su desinterés en conciliar la controversia.
-
-III. Si las partes comparecieren en la fecha fijada para la Audiencia de conciliación, el Magistrado levantará el acta correspondiente en la que se hará constar su deseo de someterse a un método alterno de solución de conflictos y solicitará la intervención de la Dirección de Orientación y Consulta Ciudadana de este Tribunal para el efecto de que se reciba la asistencia procedente.
-
-Las partes podrán comparecer a la audiencia optativamente en forma personal, por medio de representante o de abogado autorizado. Los autorizados invariablemente deberán contar con facultades expresas para someter la solución del conflicto a un método alterno, y suscribir en su caso el convenio correspondiente.
-
-Las personas morales comparecerán por medio de sus representantes legales. Los mayores incapaces y los menores comparecerán por conducto de sus representantes legales o tutores, en éstos casos el Magistrado proveerá de oficio lo necesario a efecto de no dejarlos en estado de indefensión con motivo del acreditamiento de los mismos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-Las autoridades que sean parte del juicio comparecerán por sí o a través de cualquiera de los Delegados acreditados en los términos del Artículo 34 de la presente Ley. A estos delegados, deberá conferírseles por escrito las mismas facultades que correspondan a los representantes legales o abogados autorizados de los particulares para la sujeción a los métodos alternos.
-
-IV.- La etapa de conciliación a que se refiere el presente artículo no suspenderá el procedimiento, salvo que las partes manifiesten su conformidad para someter el conflicto o controversia a un método alterno de solución, caso en el cual procederá la suspensión, por una sola vez, hasta por un término improrrogable de treinta días naturales.
-
-V. Vencido el plazo a que se refiere el artículo anterior, si las partes no concretizan el Convenio correspondiente en el que pongan fin a la controversia; deberán hacerlo del conocimiento de la Sala, solicitando la reanudación del juicio en la etapa en que se haya quedado. El titular de la Dirección de Orientación y Consulta Ciudadana comunicará por escrito el resultado de la conciliación haciéndolo saber a la Sala de la instrucción, devolviendo la copia del expediente recibido.
-
-VI. Si se realiza el Convenio correspondiente en el que consten los acuerdos a los que llegaron las partes, la Dirección de Orientación y Consulta Ciudadana remitirá el citado Convenio a la Autoridad demandada, para efecto de notificar al actor para que en un término de cinco días hábiles ratifique ante ésta el contenido del citado Convenio y se realice la validación correspondiente. La Autoridad demandada tendrá un plazo de cinco días hábiles para informar al Magistrado, sobre la validación del Convenio, para que éste proceda a dar por concluido el juicio. En caso de que las partes no validen el Convenio, se continuará de oficio el juicio contencioso, una vez que el Magistrado se cerciore de lo anterior. En todo caso la Dirección de Orientación y Consulta Ciudadana dará a conocer al Magistrado de los pormenores del asunto.
-
-Será nulo de pleno derecho el Convenio que se celebre cuando con motivo del mismo, se contravengan disposiciones del orden público, o se afecten derechos de tercero, de acuerdo a lo previsto en la Ley de Métodos Alternos para la Solución de Conflictos del Estado de Nuevo León.
-
-En caso de incumplimiento del Convenio validado por la autoridad, se aplicarán en lo conducente, las reglas que para la ejecución de sentencia se establecen en la presente Ley, previo derecho de audiencia de las partes.
-
-Si la parte actora no da cumplimiento a un Convenio validado, la autoridad demandada, tendrá expedita su facultad para realizar los actos que considere pertinentes, y sin menoscabo de solicitar su ejecución forzosa.
-
-### CAPITULO VI. DE LA CONTESTACION
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 50.
 
-El plazo para contestar la demanda será de treinta días hábiles, y para la ampliación de ésta, será de quince días hábiles y correrá individualmente a partir del día siguiente al en que surta efectos el emplazamiento. Pero si con motivo de la ampliación se incorpora a juicio como autoridad demandada alguna que no estuviere comprendida entre las señaladas en la demanda original, se le concederá un plazo de treinta días para contestar.
+Las ausencias del Secretario General de Gobierno serán suplidas conforme la normatividad reglamentaria, en cuyo caso la persona que lo supla deberá firmar los despachos del Gobernador.
 
-Los demandados y el tercero perjudicado expresarán en la contestación de demanda y en la ampliación de ésta lo siguiente:
-
-I. Los incidentes de previo y especial pronunciamiento a que haya lugar;
-
-II. Las causales de improcedencia y sobreseimiento que conozcan;
-
-III. Se referirá concretamente a cada uno de los hechos que el demandante le impute de manera expresa, afirmándolos, negándolos, expresando que los ignora por no ser propios o exponiendo como ocurrieron según sea el caso; si no produce contestación a todos los hechos, se tendrán por ciertos los que el actor les impute de manera precisa, salvo que por las pruebas rendidas o por hechos notorios resulten desvirtuados;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
-
-IV. Los argumentos por medio de los cuales se demuestra la ineficacia de los conceptos de agravio;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2012)</small>
-
-V. Cuando el acto impugnado sea una negativa ficta, la autoridad demandada deberá expresar en la contestación los motivos y fundamentos de dicha negativa, pudiendo referirse al fondo de la solicitud de origen, o bien, al incumplimiento de sus requisitos procesales o de forma, inclusive cuestiones de orden público; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE FEBRERO DE 2012)</small>
-
-VI. Las pruebas que ofrezca, expresando claramente el hecho o hechos que trata de acreditar con las mismas, así como las razones por las que considera que demostrarán sus afirmaciones.
-
-Tratándose de pruebas documentales, se deberá precisar la foja y el párrafo del instrumento donde conste la información con la que demostrará los hechos que pretende probar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-En caso de que se ofrezcan las pruebas de inspección, pericial o testimonial, se precisarán los hechos sobre los que deben versar, el objeto de las mismas y, en su caso, se señalarán el nombre y el domicilio del perito y de cada testigo. Tratándose de la prueba de inspección se señalará el lugar en que deba practicarse, así como los puntos que la provoquen.
-
-Las pruebas que no cumplan con los señalamientos precisados en esta fracción se tendrán por no ofrecidas.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2023)</small>
 
 ###### Artículo 51.
 
-Al escrito de contestación se deberán acompañar:
+El Poder Judicial del Estado es el encargado de administrar justicia, de manera pronta, expedita, completa, imparcial y gratuita. El ejercicio de la función jurisdiccional se regirá por los principios de profesionalismo, excelencia, objetividad, imparcialidad, independencia, legalidad, razonabilidad, proporcionalidad, máxima publicidad, respeto a los derechos humanos y perspectiva de género.
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+El Poder Judicial del Estado se deposita en un Supremo Tribunal de Justicia, en el Tribunal de Disciplina Judicial del Poder Judicial del Estado, en los juzgados que determine la ley en la materia y en el Órgano de Administración Judicial del Poder Judicial del Estado, con las facultades, competencias, organización, personal y demás funciones inherentes que establezca esta Constitución y las leyes aplicables.
 
-I.- El documento justificativo de la personalidad del demandado cuando sea un particular y no actúe en nombre propio;
+Las condiciones para el ingreso, formación y permanencia del personal en los diversos órganos jurisdiccionales que conforman al Poder Judicial se regirán por lo dispuesto en las leyes que emita el Congreso del Estado en materia del Servicio Profesional de Carrera Judicial, con excepción de las personas Magistradas del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial de Aguascalientes, así como de las personas Juzgadoras, quienes serán electos por el voto libre, directo y secreto de la ciudadanía, conforme a las bases previstas en el artículo 116, fracción III, de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+Las facultades y obligaciones de las personas servidoras públicas del Poder Judicial se regirán por lo dispuesto en esta Constitución, la Ley Orgánica del Poder Judicial y demás legislación aplicable.
 
-II.- Las pruebas documentales que ofrezca, cuando las pruebas no obren en poder de la parte oferente, aplicará en lo conducente lo previsto en la fracción III del artículo 47;
+El Supremo Tribunal de Justicia del Estado contará con once Magistraturas que serán electas por el voto de la ciudadanía. El cargo tendrá una duración de nueve años y podrá ser reelecto por un periodo igual conforme a los procedimientos de elección que se determinen en la ley de la materia, al término del cual, en todo caso, concluirá su encargo.
 
-III.- El cuestionario que deban desahogar los peritos y el interrogatorio que deberán contestar los testigos, debidamente firmados por el demandado, expresando los nombres y domicilios de los mismos, y
+La representación del Poder Judicial corresponde al Supremo Tribunal de Justicia del Estado, por conducto de la persona titular de su Presidencia, que se renovará cada dos años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quien obtenga la votación más alta, y se alternará con quien resulte la persona de mayor votación del otro género.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El Supremo Tribunal de Justicia del Estado funcionará en Pleno o en Salas. De entre las personas Magistradas, una será titular de su Presidencia; tres integrarán la Sala Penal; tres la Sala Civil; tres la Sala Familiar; y una diversa encabezará la Magistratura de la Sala Unitaria de Justicia Integral para Adolescentes. Las magistraturas, con excepción de la presidencia, podrán formar parte de la Sala Constitucional en los términos del artículo 52 de esta Constitución. Cuando se requiera habilitar una diversa materia por disposición de la ley aplicable, la Ley Orgánica del Poder Judicial fijará las bases para su conocimiento por parte del Pleno o las Salas del Supremo Tribunal de Justicia del Estado.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2012)</small>
+La administración y formación del Poder Judicial, estarán a cargo del Órgano de Administración Judicial del Poder Judicial del Estado, en los términos que, conforme a las bases que señala esta Constitución, establezcan las leyes.
 
-IV.- En su caso, constancia del acto, procedimiento o resolución impugnados y de las respectivas notificaciones, cuando el demandante haya manifestado bajo protesta de decir verdad que no se le entregaron; y
+La disciplina y vigilancia del Poder Judicial y su personal estará a cargo del Tribunal de Disciplina Judicial de Aguascalientes, de acuerdo a las bases que determina esta Constitución y lo que establezcan las leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Durante su encargo, las personas titulares de las Magistraturas del Poder Judicial, sólo podrán ser sustituidas por renuncia al cargo con motivo de causas graves, por haber concluido el periodo de su nombramiento sin resultar reelectas, por defunción o situación de discapacidad física o mental permanente que les impida ejercer el cargo, o cuando sean destituidas por resolución condenatoria emitida por el Congreso del Estado en el respectivo Juicio Político.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE FEBRERO DE 2012)</small>
+La remuneración que perciban las personas titulares de las Magistraturas del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial de Aguascalientes, las integrantes del Pleno del Órgano de Administración Judicial del Poder Judicial del Estado, y de los Juzgados, por los servicios que presten a estos, no podrá ser disminuida durante su encargo, ni podrá ser mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente.
 
-V.- Una copia de la contestación de la demanda y sus anexos, para el actor y, en su caso, para el tercero perjudicado. Si los anexos exceden de veinticinco fojas, quedarán en la Secretaría a la vista de las partes para su consulta.
+Así mismo, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, de las entidades federativas o de particulares, salvo los cargos en asociaciones científicas, docentes, literarias o de beneficencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Las personas que hayan ocupado el cargo de titulares de las Magistraturas del Supremo Tribunal de Justicia del Estado, del Tribunal de Disciplina Judicial de Aguascalientes o del Pleno del Órgano de Administración Judicial del Poder Judicial del Estado, no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado de Aguascalientes. Por lo que respecta a las personas juzgadoras, no podrán intervenir en los asuntos de los que hayan conocido.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+Las renuncias de las personas titulares de las Magistraturas del Supremo Tribunal de Justicia del Estado, del Tribunal de Disciplina Judicial de Aguascalientes y de los Juzgados, solamente procederán por causas graves y se someterán al Congreso del Estado para su aprobación por la mayoría de los miembros presentes o, en sus recesos, por la Comisión Permanente.
 
-Cuando no se adjunten los documentos, cuestionarios e interrogatorios a que se refiere este Artículo, el Magistrado los requerirá para que los presenten dentro del plazo de 5 días, apercibiéndolos que en caso de no hacerlo en tiempo se tendrá por no contestada la demanda si se trata de las referidas en las fracciones I y V de este Artículo; pero tratándose de las señaladas en las fracciones II y III, se tendrán por no ofrecidas las pruebas.
+Cuando la falta de una persona titular de una Magistratura del Supremo Tribunal del (sic) Justicia del Estado, del Tribunal de Disciplina Judicial de Aguascalientes excediere de un mes sin licencia, sea por renuncia, defunción o por cualquier otra causa de separación definitiva, la vacante será ocupada por la persona del mismo género que haya obtenido la mayor votación que no resultara electa en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+En lo relativo a las licencias de las personas servidoras públicas señaladas en el párrafo anterior, cuando no excedan de un mes, serán concedidas, para el caso de las Magistraturas del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial de Aguascalientes, por votación de sus respectivos Plenos; y por lo que respecta a las personas Juzgadoras, lo serán por el Órgano de Administración Judicial del Poder Judicial del Estado.
+
+Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Ninguna licencia podrá exceder del término de un año.
+
+Las ausencias menores a tres meses serán suplidas conforme a lo que disponga su respectiva ley orgánica.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+Artículo 51 A.- En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en el Primer Párrafo del Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Siempre que no afecte la igualdad entre las partes, el debido proceso u otros derechos en los juicios o procedimientos seguidos en forma de juicio, las autoridades deberán privilegiar la solución del conflicto sobre los formalismos procedimentales.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+
+La Ley Orgánica del Poder Judicial del Estado, deberá contemplar el uso de las tecnologías de la información y comunicaciones, para privilegiar el acceso efectivo a la justicia; pudiéndose establecer mecanismos de interconexión e interoperabilidad con instituciones del ámbito internacional, federal, estatal y municipal.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+
+Para ello, contemplará, entre otras acciones, en materia de uso de las tecnologías de la información y comunicaciones, el juicio en línea, la presentación de escritos y pruebas por la vía digital, sesiones y audiencias por videoconferencias, expedientes y notificaciones digitales, así como el uso de firmas electrónicas avanzadas, tanto de autoridades, como de las partes.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+
+La legislación secundaria establecerá excepciones para exigir comparecencias personales, atendiendo a la naturaleza del caso.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+
+El Poder Judicial del Estado deberá auxiliar a las y los ciudadanos que así lo requieran, en el uso de las tecnologías de la información y comunicaciones judiciales.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+
+Artículo 51 B.- El Poder Judicial está facultado para administrar con autonomía su presupuesto, y destinará, en renglones separados, los recursos para los tribunales, juzgados y órganos que lo integran, debiendo rendir cuentas anualmente al Congreso del Estado acerca de su ejercicio.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+
+Artículo 51 C.- El presupuesto asignado en su conjunto al Poder Judicial, podrá ser mayor pero no menor al dos punto tres por ciento del total del presupuesto general de egresos del Estado, previsto para el ejercicio anual respectivo, y deberá ministrarse conforme al calendario autorizado en los términos que establezca la ley.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+Artículo 51 D.- Los recursos financieros, técnicos, humanos y materiales necesarios para el funcionamiento del Poder Judicial estarán bajo la administración del Órgano de Administración Judicial del Poder Judicial del Estado.
+
+El fondo auxiliar para la impartición de justicia estará bajo la administración del Órgano de Administración Judicial del Poder Judicial del Estado, y se integrará con los productos y rendimientos que se generen por las inversiones de los depósitos en dinero o valores que se efectúen ante los tribunales y, además, con los ingresos por el pago de multas, cauciones o por cualquier otra prestación autorizada por la ley, en ejercicio de las atribuciones del Poder Judicial.
+
+Dicho fondo será aplicado exclusivamente al mejoramiento de la impartición de justicia en los términos de la legislación aplicable.
+
+Con el fin de garantizar el principio de transparencia activa, el Órgano de Administración Judicial del Poder Judicial del Estado, deberá transparentar los montos de ingresos y egresos, así como el origen y destino de dichos recursos, en los términos de la legislación correspondiente.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+
+Artículo 51 E.- Todo procedimiento jurisdiccional en el Poder Judicial se velará por la garantía de justicia abierta, teniendo por objeto la máxima transparencia judicial, colaboración y participación social, así como la mayor rendición de cuentas de la función judicial.
+
+El Poder Judicial deberá hacer públicas las sentencias, salvaguardando los datos personales de las partes. Las leyes secundarias regularán lo correspondiente.
+
+Las sesiones del Pleno y las Salas del Poder Judicial del Estado, serán públicas y se transmitirán por medios digitales, en los términos y condiciones establecidos en la Ley.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2024)</small>
+
+Artículo 51 F.- Se establecerá una ley estatal de mediación, arbitraje y mecanismos alternativos de solución de controversias, salvo aquellas materias que se encuentren reservadas a la federación, donde se establezcan los requisitos para ejercer dicha función, los cuales deberán obedecer los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 52.
 
-El tercero perjudicado podrá ser señalado por las partes o comparecer por sí mismo al juicio e interponer defensas y excepciones, aportar las pruebas que considere pertinentes y formular alegatos. En todo caso deberá acreditar el interés jurídico que le asiste.
+El Supremo Tribunal de Justicia contará, además, con una Sala Constitucional conformada por cinco Magistraturas, cuyas personas titulares serán electas por el voto de la mayoría del Pleno por un plazo de cinco años. Quienes ocupen la Presidencia del Supremo Tribunal de Justicia o de alguna de sus Salas colegiadas, no podrán ser elegibles para la integración inmediata como integrantes de la Sala Constitucional.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2023)</small>
+
+La Sala constitucional tendrá competencia para resolver los siguientes medios de control de constitucionalidad local: a) Controversia constitucional local; b) Acción de Inconstitucionalidad local; y c) Juicio para la protección de los derechos humanos de carácter local.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 53.
 
-Si la parte emplazada no contesta la demanda dentro del término legal, el Tribunal tendrá por admitidos los hechos que el actor le atribuya en forma precisa a la contraparte, salvo prueba en contrario, o que por hechos notorios resulten desvirtuados.
+Para ser titular de una Magistratura del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial de Aguascalientes, se requiere:
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+I.- Contar con ciudadanía mexicana por nacimiento, ser originaria del Estado o con residencia en él no menor de un año inmediatamente anteriores a la fecha de la publicación de la convocatoria a elección;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+II.- Poseer Título de Licenciatura en Derecho o equivalente, expedido legalmente, contar con un promedio general no menor a ocho puntos o su equivalente, y de nueve puntos o su equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado; además, deberá acreditar que cuenta con experiencia práctica en el ejercicio de la actividad jurídica afín a su candidatura por una antigüedad mínima de tres años anteriores al día de la publicación de la convocatoria respectiva a la elección del cargo por el que se postule, conforme al proceso de evaluación establecido, con base en esta Constitución, en la Convocatoria del Congreso;
+
+III.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2024)
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+IV.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+V.- No haber sido titular de una Secretaría o su equivalente en el Poder Ejecutivo del Estado, de la Fiscalía General del Estado, Senador o Senadora, o Diputado o Diputada Federal o Local, o dirigente de Partido Político durante el año previo al día de la publicación de la convocatoria señalada en la facción I del artículo 54 de esta Constitución;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+VI.- No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda; y
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+VII.- Gozar de buena reputación y no haber sido condenada por delito doloso con sanción privativa de la libertad o por sentencia que haya causado estado por faltas administrativas graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+VIII. Aprobar las evaluaciones que prevé esta Constitución.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 54.
 
-No obstante existir tercero perjudicado, los demandados podrán allanarse a la demanda, en cuyo caso se dictará la resolución correspondiente sin mayor trámite.
+Las personas titulares de las Magistraturas del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial de Aguascalientes, y personas juzgadoras, serán electos de manera libre, secreta y directa por la ciudadanía, el día de la elección local ordinaria que corresponda.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+La elección se desarrollará conforme el siguiente procedimiento:
+
+I. En el año anterior al día de la elección ordinaria, el Órgano de Administración Judicial del Poder Judicial del Estado, notificará al Congreso y al Poder Ejecutivo, los cargos que deban someterse a elección, la especialización por materia en caso de personas juzgadoras, y demás información que resulte necesaria a ese efecto.
+
+II. El Congreso, dentro de los cinco días naturales contados a partir del inicio del proceso electoral respectivo, publicará la convocatoria a la elección correspondiente, que contendrá el listado de los cargos a elegir, requisitos, las etapas completas del procedimiento, las fechas y plazos, los cuales serán improrrogables y los que se determinen en ley;
+
+III. Dentro de los tres días posteriores a la emisión de la Convocatoria, cada Poder integrará un Comité de Evaluación conformado por tres personas reconocidas en la actividad jurídica, responsable, en una primera fase, de:
+
+a) Recibir los expedientes de las personas aspirantes y evaluar el cumplimiento de los requisitos constitucionales y legales;
+
+b) Identificar a las personas que cumplan con todos los requisitos constitucionales y legales;
+
+c) Remitir la lista de esas personas para la evaluación técnica jurídica correspondiente conforme al cargo al que se aspire;
+
+Para solicitar su registro ante cualquiera de los Comités, los interesados deberán presentar un ensayo sucinto donde justifiquen los motivos de su postulación, su experiencia, su capacidad profesional, formación jurídica e idoneidad para desempeñar el cargo para el cual se postulan, y se precise el cumplimiento de los demás requisitos, además de entregar cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;
+
+Las personas aspirantes podrán registrarse para diversos cargos, pero sólo podrán ser postulados en la boleta para uno sólo. No podrán ser postulados en la boleta quienes lo sean en la elección de integrantes del Poder Judicial de la Federación.
+
+IV. Quienes cumplan con los requisitos constitucionales se someterán a una evaluación técnica-jurídica, elaborada con parámetros objetivos, razonables y acordes a la especialidad de las funciones a desempeñar, con base a lo establecido en la ley y en la convocatoria, que será aplicada por el Órgano de Administración Judicial del Poder Judicial del Estado, auxiliado por sus órganos especializados.
+
+Una vez que el Órgano de Administración Judicial del Poder Judicial del Estado obtenga los resultados de la evaluación técnica-jurídica, integrará una lista de hasta seis personas por género que la hayan acreditado y resulten mejor evaluadas, en orden decreciente, por cada uno de los cargos a elegir y la enviará a cada Poder. El resultado de esta evaluación será inatacable.
+
+V. En los términos de la Convocatoria, las personas que integran la lista a que se refiere el inciso anterior pasarán a la segunda fase de la evaluación ante el Comité de Evaluación que corresponda. Cada Comité evaluará, conforme a los parámetros establecidos en ley, la idoneidad del aspirante para el cargo, así como su honestidad, buena fama pública, antecedentes académicos y profesionales en el ejercicio de la actividad jurídica. Los resultados de estas evaluaciones serán inatacables.
+
+VI. Al concluir la segunda fase, los Comités de Evaluación, conformarán un listado de hasta cuatro personas, por género, que la hayan acreditado y resulten mejor evaluadas para cada cargo, respecto de la elección de integrantes del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial de Aguascalientes, y un listado de hasta cuatro personas por género, mejor evaluadas para ocupar la titularidad de cada juzgado. Los Comités remitirán los listados a la autoridad que represente a cada Poder del Estado para que realicen la postulación correspondiente. La decisión del Comité será inatacable.
+
+Cada uno de los Poderes Ejecutivo, Legislativo y Judicial podrán postular hasta dos candidaturas por cargo, de manera paritaria.
+
+VII. Cada Poder integrará el expediente definitivo de la persona postulada, con los documentos que acrediten el cumplimiento de todos los requisitos y lo remitirá al Instituto Estatal Electoral en el plazo definido en la convocatoria;
+
+VIII. El Órgano de Administración Judicial del Poder Judicial del Estado, remitirá al Instituto Estatal Electoral el listado de las personas que se encuentren en funciones al cierre de la convocatoria respectiva cuando manifiesten su intención de participar en la elección en el plazo definido en la Convocatoria;
+
+IX. Los Poderes podrán postular a la misma persona para el cargo a elegir. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente.
+
+X. Las personas magistradas y juzgadoras que ocupen un cargo de los que hayan de someterse a elección popular, deberán manifestar su deseo de participar en la elección, antes del cierre de registros previsto en la convocatoria.
+
+XI. El Instituto Estatal Electoral será el responsable de todas las etapas del proceso electivo.
+
+XII. La etapa de preparación de la elección de cargos de personas juzgadoras será declarada en la misma sesión en la que se dé inicio al proceso electoral local ordinario por el Instituto Estatal Electoral. El Instituto Estatal Electoral podrá suscribir los convenios de colaboración que sean necesarios para el cumplimiento de sus funciones.
+
+XIII. Las personas que resulten candidatas tendrán derecho a acceder a tiempos de radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la ley, podrán, además, participar en foros de debate organizados por el Instituto Estatal Electoral o en aquellos organizados gratuitamente por el sector público, privado o social en condiciones de equidad.
+
+XIV. Queda prohibido cualquier tipo de financiamiento público o privado para las campañas de todos los cargos sometidos a elección del Poder Judicial del Estado, de igual forma está prohibido que las personas candidatas adquirir por sí o por interpósita persona, espacios en radio y televisión o en cualquier otro medio de comunicación para promocionarse.
+
+XV. Los partidos políticos y las personas servidoras públicas tendrán prohibido realizar actos de proselitismo, promoción o manifestarse a favor o en contra de cualquier candidatura.
+
+XVI. La ley establecerá la forma en la que se desarrollarán las campañas, así como las restricciones y sanciones aplicables a las personas candidatas y servidoras públicas cuyas acciones, manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales alterando los principios de equidad y neutralidad en la contienda.
+
+XVII. La ley secundaria determinará las características de las boletas, en los términos de esta Constitución.
+
+XVIII. En la etapa de resultados, el Instituto Estatal Electoral debe realizar los cómputos de la elección, publicar los resultados, entregar las constancias de mayoría y asignar los cargos, observando el principio de paridad de género. Tendrá la facultad de declarar la validez de la elección;
+
+XIX. La ley establecerá los medios de impugnación con los que puedan controvertirse actos u omisiones de todas las autoridades involucradas en el proceso;
+
+XX. El Tribunal Electoral del Estado, deberá resolver la totalidad de las impugnaciones que se hubieren presentado antes de la instalación del Primer Periodo Ordinario de Sesiones, fecha en que las personas electas tomarán protesta ante el Congreso Local.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+Artículo 54 A.- Las personas titulares de las Magistraturas integrantes del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial de Aguascalientes, serán electas mediante una boleta en la que se podrá votar hasta por el número de cargos a elegir; el voto será válido siempre que se vote hasta por ese número de candidaturas.
+
+El Instituto Estatal Electoral emitirá las constancias de mayoría de manera paritaria conforme a los cargos a elegir, iniciando con las mujeres más votadas.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 55.
 
-En el auto en que se admita la contestación de la demanda o se tenga por no contestada, siempre y cuando ninguna de las pruebas admitidas requiera especial desahogo, se concederá a las partes un término común de diez días a fin de que formulen alegatos. Transcurrido dicho término, con alegatos o sin ellos, quedará el juicio en estado de sentencia.
+Los Juzgados estarán a cargo de las personas que hayan obtenido la mayor votación en la elección correspondiente al Partido Judicial, conforme al procedimiento previsto en el artículo 54, y las siguientes disposiciones:
 
-Si en el caso del párrafo anterior alguna de las partes objetare de falso un documento o firma dentro de los primeros cinco días del término para alegar, se señalará fecha para la audiencia en que deberán desahogarse las pruebas y formularse los alegatos respecto de la objeción, hecho lo cual quedará el juicio en estado de sentencia.
+I. Para los cargos de jurisdicción en todo territorio del Estado, la elección será estatal mediante una boleta que contendrá todas las candidaturas contendientes, divididos por jurisdicción y por materia; solo se podrá votar hasta por el número de candidaturas a elegir; para lo cual el voto será válido siempre que se emita hasta por el número total de candidaturas contendientes. Dentro de los límites que establece esta Constitución, la ley determinará las características particulares de la boleta que, en todo caso, llevarán impresos los nombres completos y numerados de las personas candidatas distribuidos por orden alfabético y progresivo iniciando por el apellido paterno, e indicando la especialización por materia cuando corresponda;
 
-### CAPITULO VII. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
+II. Los juzgados mixtos de primera instancia, serán electos por la ciudadanía de esos partidos, para el efecto de que puedan tener jurisdicción en cualquiera de ellos. Dentro de los límites que establece esta Constitución, la ley determinará las características de las boletas y la forma de ejercer el voto, de realizar los cómputos y de hacer las declaratorias de validez y otorgar las constancias de mayoría que corresponda;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+III. El Instituto Estatal Electoral emitirá las constancias de mayoría de manera paritaria conforme al número de cargos a elegir, iniciando con las mujeres más votadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+Las personas que resulten electas durarán en su encargo nueve años y podrán ser reelectos de forma consecutiva, por una sola vez. En todo caso, concluirán su encargo en la fecha límite de su último periodo.
+
+Para ser electo como persona Juzgadora se requiere:
+
+I.- Contar con ciudadanía mexicana por nacimiento, originaria del Estado o con residencia en él no menor de un año inmediatamente anteriores a la fecha de la publicación de la convocatoria a elección.
+
+II.- Poseer Título de Licenciatura en Derecho expedido legalmente, contar con un promedio general no menor a ocho puntos o su equivalente, y de nueve puntos o su equivalente en las materias relacionadas con el cargo al que se postula en licenciatura, especialidad, maestría o doctorado; además, deberá acreditar que cuenta con experiencia práctica en el ejercicio de la actividad jurídica afín a su candidatura de cuando menos tres años anteriores al día de la publicación de la convocatoria respectiva a la elección del cargo por el que se postule, conforme al proceso de evaluación establecido, con base en esta Constitución y en la Convocatoria del Congreso;
+
+III.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto;
+
+IV.- No ser persona titular de una Secretaría o su equivalente en el Poder Ejecutivo del Estado, de la Fiscalía General del Estado, personas Senadora, persona Diputada Federal o Local, o persona dirigente de Partido Político durante el año previo al día de la publicación de la convocatoria a elección;
+
+V.- No ser persona o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda;
+
+VI.- Gozar de buena reputación y no haber sido condenada por delito doloso con sanción privativa de la libertad o por sentencia que haya causado estado por faltas administrativas graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia; y
+
+VII.- Aprobar las evaluaciones que prevé esta Constitución.
+
+Su número, categoría y especialidad se determinarán con base en, al menos, los siguientes parámetros:
+
+I.- Conforme a las necesidades y la disponibilidad presupuestal, podrá haber, por lo menos, cinco partidos judiciales en el Estado. La ley establecerá los mecanismos para la creación de nuevos partidos judiciales. En los municipios que no sean sede de partido habrá una Unidad de Justicia que funcionará, al menos, como oficialía de partes, sede de audiencias, auxiliar de actuaría y recinto de auxilio en acceso a tecnologías de la información y comunicaciones.
+
+II.- Solo podrá haber rotación entre partidos judiciales, en el caso de las personas electas para los juzgados mixtos de primera instancia. No se entenderá como rotación el cambio de sede o partido para las personas juzgadoras electas en jurisdicción estatal.
+
+III.- Conforme a las necesidades y la disponibilidad presupuestal, podrá haber cuando menos tres personas Juzgadoras en cada partido judicial, excepto en la capital del Estado en la que habrá al menos siete personas Juzgadoras mercantiles, cinco personas Juzgadoras civiles, ocho personas Juzgadoras familiares, doce personas Juzgadoras de oralidad penal, tres personas Juzgadoras laborales, y dos personas Juzgadoras de ejecución penal.
+
+IV.- Se podrán habilitar juzgados auxiliares a efecto de evitar o disminuir rezago judicial en su caso, conforme a las reglas establecidas en la legislación secundaria. Las personas juzgadoras de estos juzgados serán las que hubieran obtenido el siguiente lugar en número de votos en las elecciones para personas Juzgadoras de primera instancia y que no hubieran accedido al cargo; en caso de declinación o imposibilidad, seguirán en orden de prelación las personas que haya obtenido mayor votación.
+
+Si por necesidades del servicio se requiere la creación de juzgados y no estuviere cercano un proceso electoral ordinario para elegir personas juzgadoras, se seguirá el mismo procedimiento, en tanto se pueda convocar a elección para ese cargo. En ambas hipótesis, en caso de agotarse la lista de personas votadas sin que haya sido ocupado el cargo, una persona secretaria de Acuerdos en funciones, designada por el Órgano de Administración Judicial del Poder Judicial del Estado,, (sic) asumirá el cargo hasta en tanto se celebre la elección subsecuente. La legislación secundaria preverá el mecanismo de designación.
+
+V- Se podrán establecer mecanismos para homologar cargas de trabajo entre personas juzgadoras, para lo cual podrán auxiliarse de otros partidos judiciales y conforme a las reglas establecidas en la legislación secundaria.
+
+Cuando la falta de una persona titular de juzgado excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo. En caso de agotarse la lista sin que haya sido ocupado el cargo vacante, una persona secretaria de Acuerdos en funciones en ese juzgado, designada por el Órgano de Administración Judicial del Poder Judicial del Estado, asumirá el cargo hasta en tanto inicie funciones la persona electa en la elección que estuviera prevista para la renovación de dicho cargo. La legislación secundaria preverá el mecanismo de designación.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+Artículo 55 A. El Tribunal de Disciplina Judicial de Aguascalientes y el Órgano de Administración Judicial del Poder Judicial del Estado, formarán parte del Poder Judicial del Estado.
+
+A. El Tribunal de Disciplina Judicial de Aguascalientes será un órgano del Poder Judicial del Estado con independencia técnica, de gestión y para emitir sus resoluciones, que serán definitivas e inatacables.
+
+Se integrará por cinco magistraturas electas de manera libre, secreta y directa por la ciudadanía a nivel estatal, conforme al procedimiento establecido en esta Constitución y en las leyes, su Presidencia será rotativa cada dos años, en función del número de votos obtenidos en la elección respectiva, y le corresponderá a quienes alcancen mayor votación, alternando el género.
+
+Las personas titulares de una magistratura deberán reunir los requisitos señalados en el artículo 53 de esta Constitución, y ser personas que se hayan distinguido por su capacidad profesional, honestidad y honorabilidad en el ejercicio de sus actividades. Durarán en su cargo nueve años, serán sustituidos de manera escalonada y no podrán ser electos para un nuevo periodo.
+
+El Tribunal funcionará en Pleno o en comisiones. El Pleno resolverá en segunda instancia los asuntos de su competencia; podrá ordenar oficiosamente o por denuncia el inicio de investigaciones, atraer procedimientos relacionados con faltas graves y no graves o hechos que las leyes señalen como delitos, ordenar medidas cautelares y de apremio y sancionar a las personas servidoras públicas que incurran en actos u omisiones contrarias a la ley, a la administración de justicia o a los principios de objetividad, imparcialidad, independencia, profesionalismo o excelencia; además de los asuntos que la ley determine.
+
+El Tribunal llevará a cabo el procedimiento de responsabilidades administrativas en primera instancia de conformidad con la competencia y lineamientos que fije la ley, a través de una unidad sustanciadora y de una comisión resolutora conformada por dos magistraturas; la presidencia no podrá integrar esta comisión. Las resoluciones podrán ser impugnadas ante una comisión de tres magistraturas que no formen parte de la resolutora, que resolverá por mayoría de votos, en los términos que señale la ley.
+
+El Tribunal conducirá sus investigaciones a través de una unidad responsable de integrar y presentar al Pleno o a sus comisiones los informes de probable responsabilidad, para lo cual podrá ordenar la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
+
+Cualquier persona o autoridad podrá denunciar ante el Tribunal de Disciplina Judicial de Aguascalientes hechos que pudieran ser objeto de responsabilidad administrativa o penal cometidos por alguna persona servidora pública del Poder Judicial Estatal a efecto de que investigue y, en su caso, sancione la conducta denunciada. El Tribunal de Disciplina Judicial de Aguascalientes conducirá y sustanciará sus procedimientos de manera pronta, completa, expedita e imparcial, conforme al procedimiento que establezca la ley.
+
+El Tribunal podrá dar vista al Ministerio Público competente ante la posible comisión de delitos y, sin perjuicio de sus atribuciones sancionadoras, solicitar el juicio político de los titulares de los Juzgados electos por voto popular ante el Congreso Local.
+
+Las sanciones que emita el Tribunal podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas, con la excepción de la remoción de los Magistrados del Supremo Tribunal de Justicia sólo podrá ser en los términos que establece esta Constitución.
+
+Cuando, a raíz de los resultados de los procesos de evaluación y seguimiento de resultados, el Órgano de Administración Judicial del Poder Judicial del Estado, se lo solicite, el Tribunal podrá aplicar las medidas correctivas o sancionadoras siguientes:
+
+a) Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación, y
+
+b) Cuando la persona servidora pública no acredite favorablemente la evaluación que derive de las medidas correctivas ordenadas o se niegue a acatarlas, el Tribunal podrá ordenar su suspensión de hasta un año y determinar las acciones y condiciones para su restitución. Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial.
+
+Las personas titulares de las Magistraturas ejercerán su función con independencia e imparcialidad.
+
+Durante su encargo, sólo podrán ser removidas en los términos que establece esta Constitución.
+
+B. El Órgano de Administración Judicial de Aguascalientes tendrá independencia técnica y de gestión, será integrado por personas que no desempeñen funciones jurisdiccionales y tendrá las siguientes responsabilidades y funciones:
+
+I. La responsabilidad de la Administración y el Servicio de Carrera del Poder Judicial del Estado; y del ingreso, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño conforme a las leyes aplicables.
+
+II. Evaluar el desempeño de las personas Titulares de las Magistraturas del Supremo Tribunal de Justicia y de los Juzgados que corresponda, durante su primer año de ejercicio para que, en su caso, el Tribunal de Disciplina Judicial de Aguascalientes adopta las medidas a que se refieren los incisos a) y b) del párrafo décimo del apartado A de este artículo. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
+
+III. Será el encargado de determinar la división y conformación de los partidos judiciales, especialización por materia de los Juzgados locales.
+
+IV. La inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; y las demás que le confieran las leyes.
+
+El Pleno del Órgano de Administración Judicial del Poder Judicial del Estado, estará conformado por cinco personas consejeras que ejercerán su cargo por un periodo de seis años sin posibilidad de ser designadas para otro periodo, de las cuales una será designada por el Titular del Poder Ejecutivo, una designada por el Congreso del Estado mediante la votación calificada de las dos terceras partes de los legisladores presentes, y tres serán designadas por el Pleno del Supremo Tribunal de Justicia del Estado por mayoría.
+
+Las Consejerías no podrán recaer en personas titulares de magistraturas ni en personas juzgadoras. La presidencia del órgano será rotatoria cada dos años de acuerdo con lo que establezcan las leyes, alternando los géneros.
+
+Las personas que integren el Pleno del Órgano de Administración Judicial del Poder Judicial del Estado, deberán:
+
+I. Ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Contar con experiencia profesional mínima de cinco años; y contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del Órgano, con antigüedad mínima de cinco años;
+
+III. No estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad; y
+
+IV. Distinguirse por su capacidad profesional y administrativa honestidad y honorabilidad en el ejercicio de sus actividades.
+
+El Órgano de Administración Judicial del Poder Judicial del Estado, funcionará en Pleno o en comisiones.
+
+El Pleno del órgano contará con una Secretaría Ejecutiva, responsable del cumplimiento de los acuerdos del Pleno y de los órganos de dirección, ejecutivos, técnicos y de evaluación que determine la ley, cuya persona titular será designada por el voto de la mayoría de las personas consejeras.
+
+Durante su encargo, las personas integrantes del Pleno del Órgano de Administración Judicial del Poder Judicial del Estado sólo podrán ser removidas en los términos de esta Constitución. En caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
+
+De conformidad con lo que establezca la ley, el Órgano estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones.
+
+El Tribunal de Disciplina Judicial de Aguascalientes podrá solicitar al Órgano de Administración Judicial del Poder Judicial del Estado, la expedición de acuerdos generales o la ejecución de las resoluciones que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional en los asuntos de su competencia.
+
+Las decisiones del Órgano de Administración Judicial del Poder Judicial del Estado, serán definitivas e inatacables y, por lo tanto, no procede juicio o recurso alguno en su contra.
+
+El Órgano de Administración Judicial del Poder Judicial del Estado, formulará el presupuesto de egresos del Poder Judicial y lo enviará al Poder Ejecutivo para incorporarse al Proyecto de Presupuesto de Egresos del Estado.
+
+En el ámbito del Poder Judicial del Estado, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+### CAPITULO UNDECIMO A. Del Tribunal de Justicia Administrativa
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+
+Artículo 50 A.- El Tribunal de Justicia Administrativa es un órgano jurisdiccional, con personalidad jurídica y patrimonio propios, dotado de plena autonomía para dictar sus fallos y establecer, conforme a la ley, su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones; este Tribunal será competente para dirimir las controversias que se susciten entre la administración pública del Estado o de los municipios, y los particulares.
+
+De igual forma, en los términos que disponga la ley, impondrá las sanciones a las personas servidoras públicas del Estado y los Municipios, por responsabilidad administrativa grave o corrupción, y a los particulares que incurran en actos vinculados con faltas administrativas graves o corrupción; y fincará, en su caso, a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal o al patrimonio de los entes públicos estatales o municipales.
+
+El Tribunal ejercerá sus funciones bajo los principios de profesionalismo, excelencia, objetividad, imparcialidad, independencia, legalidad, razonabilidad, proporcionalidad, máxima publicidad, respeto a los derechos humanos y perspectiva de género.
+
+Estará integrado por cinco Magistraturas que durarán en su encargo siete años, pudiendo ser ratificadas por un periodo igual conforme al procedimiento de evaluación que determine la ley de la materia y con la intervención que corresponda a cargo de los poderes Ejecutivo y Legislativo del Estado.
+
+En su integración se observará el principio de paridad de género.
+
+El presupuesto del Tribunal de Justicia Administrativa se ejercerá con autonomía y conforme a las disposiciones legales aplicables, bajo los principios de eficiencia, eficacia, economía, transparencia y honradez. El Tribunal remitirá anualmente su proyecto de presupuesto a la persona titular del Ejecutivo para su integración.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+
+Artículo 50 B.- Para ser titular de una Magistratura del Tribunal de Justicia Administrativa, se requiere reunir los mismos requisitos que se establecen para ser titular de una Magistratura del Supremo Tribunal de Justicia del Estado.
+
+Las personas titulares de las Magistraturas del Tribunal de Justicia Administrativa, se elegirán de manera escalonada de la siguiente forma:
+
+La persona titular del Poder Ejecutivo del Estado, someterá una terna a consideración del Congreso del Estado por cada Magistratura vacante, el cual, previa comparecencia de las personas propuestas, designará la Magistratura correspondiente, con la aprobación de la mayoría de los diputados que integren la legislatura.
+
+Si dentro del término de siete días hábiles después de haber sometido la terna para ser titular de una Magistratura a la consideración del Congreso del Estado, éste nada resolviere, el derecho pasará a la persona titular del Poder Ejecutivo del Estado, quien nombrará a la persona que ocupará la Magistratura vacante y lo comunicará al Tribunal.
+
+Si dentro del término referido, el Congreso del Estado rechaza la terna propuesta por la persona titular del Poder Ejecutivo del Estado, ésta propondrá una nueva terna de entre la cual el Congreso del Estado deberá elegir al titular de la Magistratura en un término de cinco días hábiles.
+
+Las ausencias de las personas titulares de las Magistraturas del Tribunal de Justicia Administrativa, mayores a tres meses, se suplirán con un magistrado interino designado conforme al procedimiento establecido en este artículo. Las ausencias menores a tres meses serán suplidas conforme a lo que disponga la ley orgánica.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+
+Artículo 50 C.- El Tribunal de Justicia Administrativa funcionará en Pleno y en Salas unipersonales. La ley de la materia establecerá su organización, funcionamiento, procedimientos y recursos contra sus resoluciones.
+
+La ley contemplará los casos en que procedan mecanismos de mediación para la solución de conflictos administrativos, así como medidas cautelares cuando sea procedente.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 56.
 
-El juicio ante el Tribunal es improcedente:
+Las Juezas y jueces del Poder Judicial del Estado serán elegidos a través de elección libre, directa y secreta de la ciudadanía, conforme al procedimiento establecido en esta Constitución.
 
-I.- Contra actos de autoridades de otras entidades federativas o dependientes de la Administración Pública Federal;
+El personal que integre las estructuras orgánicas de los juzgados de primera instancia del Poder Judicial del Estado, así como del Supremo Tribunal de Justicia del Estado, distinto a los cargos de elección popular, forman parte del servicio profesional de carrera del Poder Judicial del Estado de Aguascalientes, que será de carácter obligatorio y permanente, basado en la evaluación continua y objetiva de su desempeño, bajo los principios establecidos en la ley correspondiente.
 
-II.- Contra actos legislativos del Congreso, sentencias o resoluciones del Poder Judicial, laudos de autoridades del trabajo y resoluciones de autoridades electorales y agrarias;
+La ley establecerá las bases para la formación, evaluación, certificación y actualización de funcionarias y funcionarios del Poder Judicial, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El Órgano de Administración Judicial del Poder Judicial del Estado, contará con un órgano auxiliar con autonomía técnica y de gestión denominado Instituto de Formación Judicial responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial del Estado, sus órganos auxiliares y, en su caso, del personal de la Fiscalía General del Estado de Aguascalientes, del Instituto de Asesoría y Defensoría Pública del Estado de Aguascalientes, del organismo de protección de los derechos humanos, de las instituciones de seguridad pública y del público en general, así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables.
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+El servicio de defensoría pública en asuntos del fuero local será proporcionado por el Instituto de Asesoría y Defensoría Pública del Estado de Aguascalientes, en coordinación con el Órgano de Administración Judicial del Poder Judicial del Estado, en los términos que establezcan las disposiciones aplicables. El Instituto de Formación Judicial será el encargado de capacitar a las y los defensores públicos, así como de intervenir en los concursos de oposición en los términos que determine la ley.
 
-III.- Contra actos que sean materia de otro juicio, recurso o medio de defensa ordinario o extraordinario que se encuentre pendiente de resolución, promovido por el mismo actor, contra las mismas autoridades y por los mismos actos, aunque los agravios alegados sean diversos;
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
 
-IV.- Contra actos que hayan sido materia de otro juicio contencioso administrativo;
+Artículo 56 A.- La controversia constitucional estatal es el mecanismo de control judicial que tiene por objeto preservar las competencias, la autonomía y las garantías institucionales que esta Constitución le atribuye, respectivamente, a cada uno de los poderes y órganos constitucionales autónomos del Estado, así como a los Municipios.
 
-V.- Contra actos que no afecten los intereses jurídicos del actor, que se hayan consumado de un modo irreparable; o que hayan sido consentidos expresa o tácitamente, entendiéndose por éstos aquéllos contra los que no se promovió el juicio en los plazos señalados por esta Ley;
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
 
-VI.- Contra reglamentos, circulares o disposiciones de carácter general, que no se hayan aplicado concretamente al promovente;
+Artículo 56 B.- La Controversia Constitucional procede dentro del plazo de 30 días naturales, contra los actos y disposiciones generales que violen esta Constitución, entre los siguientes poderes y órganos de la entidad federativa:
 
-VII.- Cuando de las constancias de autos apareciere claramente demostrado que no existe el acto impugnado;
+I.- El Poder Ejecutivo y el Congreso del Estado o en su caso, la Diputación Permanente;
 
-VIII.- Cuando hayan cesado los efectos del acto impugnado o éste no pueda surtir efecto legal o material alguno; y
+II.- El Poder Ejecutivo y un Municipio;
 
-IX.- En los demás casos en que la improcedencia resulte de alguna disposición legal.
+III.- El Congreso del Estado y un Municipio;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV.- Un Municipio y otro;
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+V.- Un órgano constitucional local autónomo y el Poder Ejecutivo;
 
-Las causales de improcedencia, en su caso, se harán valer de oficio o a propuesta de las partes, ya sea en primera o en segunda instancia.
+VI.- Un órgano constitucional local autónomo y el Congreso;
+
+VII.- Un órgano constitucional local autónomo y otro;
+
+VIII.- Un órgano constitucional autónomo local y un Municipio; y
+
+IX.- El equivalente al treinta y tres por ciento o más de las y los integrantes del Cabildo y el propio Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+
+Artículo 56 C.- La Acción de Inconstitucionalidad Estatal es la garantía judicial que tiene por objeto preservar la supremacía de la Constitución dentro del orden jurídico del Estado, mediante la verificación de la validez, a instancia de parte, de la conformidad de las leyes estatales y disposiciones generales de las autoridades estatales y municipales, con la Constitución del Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+
+Artículo 56 D.- La Acción de Inconstitucionalidad procede, dentro de los treinta días naturales siguientes a la publicación de la norma impugnada, por:
+
+I.- El equivalente al treinta y tres por ciento de las y los integrantes del Congreso del Estado, en contra de las leyes estatales;
+
+II.- La persona titular del Poder Ejecutivo del Estado en contra de normas estatales o municipales;
+
+III.- La persona titular de la Fiscalía General del Estado, en contra de leyes estatales en materia sustantiva penal, así como las relacionadas en el ámbito de sus funciones que no se encuentren regulados por el Código Nacional de Procedimientos Penales;
+
+IV.- El Municipio, por mayoría de las y los integrantes de su Ayuntamiento, en contra de leyes estatales o normas generales de otros municipios; y
+
+V.- Los órganos constitucionales autónomos, en contra de leyes o normas de carácter general del Congreso del Estado, del Poder Ejecutivo, otros poderes u órganos, así como de los municipios que vulneren esta Constitución.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+
+Artículo 56 E.- El juicio para la protección de los derechos humanos de carácter local es procedente:
+
+I.- Por leyes y normas generales, actos del Congreso del Estado, del Poder Ejecutivo y, en general, de cualquiera de las autoridades estatales, en sus respectivos casos, en ejercicio de las competencias atribuidas por la Constitución y leyes del Estado, que incidan en los derechos humanos reconocidos por esta Constitución; y
+
+II.- Por normas generales, actos u omisiones, de la autoridad municipal, que incidan en los derechos humanos reconocidos por esta Constitución; a excepción de actos relacionados con la resolución de conflictos jurisdiccionales y, en general, del Poder Judicial del Estado, así como en materia electoral.
+
+Los jueces locales del orden común en cualquier materia tienen facultades y deberes dirigidos a aplicar e interpretar directamente los derechos humanos reconocidos en esta Constitución.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 57.
 
-Procede el sobreseimiento del juicio:
+Corresponde al Supremo Tribunal de Justicia del Estado:
 
-I.- Por desistimiento expreso del actor;
+I.- Conocer en los juicios civiles y penales de las instancias y recursos que sean de su competencia, conforme a las leyes secundarias.
 
-II.- Cuando durante el juicio apareciere o sobreviniere alguna de las causas de improcedencia a que se refiere el Artículo anterior;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2015)</small>
 
-III.- Cuando la autoridad demandada satisfaga la pretensión del actor o revoque incondicional, plena y absolutamente el acto impugnado;
+II.- Conocer, en los términos de esta Constitución de los procesos que por ilícitos se sigan en contra del Gobernador, de los Diputados, del Secretario General de Gobierno, del Fiscal General del Estado, el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos.
 
-IV.- Cuando el demandante muera durante el juicio, si el acto impugnado sólo afecta sus derechos personales;
+III.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2024)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+IV.- Resolver los medios de control de la constitucionalidad local, a través de su Sala Constitucional;
 
-V.- Cuando no se haya efectuado ningún acto procesal durante el término de trescientos días consecutivos, ni el actor hubiere promovido en ese mismo lapso, siempre que la promoción sea necesaria para la continuación del procedimiento. En los juicios que se encuentren en revisión, la inactividad producirá la caducidad de esa instancia y la Sala Superior declarará firme la resolución recurrida. Celebrada la audiencia de Ley o propuesto el asunto para resolverse, no procederá el sobreseimiento o la caducidad; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-VI.- En los demás casos en que, por disposición legal, haya impedimento para emitir resolución en cuanto al fondo del negocio.
+V.- Conceder licencia a sus personas Magistradas en funciones para separarse de sus cargos, cuando no excedan de un mes.
 
-### CAPITULO VIII. DE LOS IMPEDIMENTOS Y EXCUSAS
+VI.- (DEROGADA, P.O. 8 DE AGOSTO DE 2023)
+
+VII.- (DEROGADA, P.O. 8 DE AGOSTO DE 2023)
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+VIII.- Expedir acuerdos generales, a fin de lograr una adecuada distribución de los asuntos de su competencia, así como para mayor prontitud en el despacho de éstos;
+
+> <small>(ADICIONADA [REUBICADA], P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+IX.- Las demás facultades que le concede esta Constitución y las que establezca la ley que regule su estructura y funcionamiento, así como las que le confieran otros ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+### CAPITULO DUODECIMO
+
+Del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 58.
 
-Los Magistrados del Tribunal, bajo su responsabilidad se excusarán de intervenir en los siguientes casos:
+Las personas Magistradas del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial de Aguascalientes, así como las personas Juzgadoras del Poder Judicial del Estado de Aguascalientes, antes de tomar posesión de sus cargos, deberán rendir la protesta de ley, ante el Congreso o la Diputación Permanente.
 
-I.- Por ser cónyuge o pariente consanguíneo o por afinidad, del actor o del tercero perjudicado, de sus abogados o representantes, en línea recta sin limitación de grado, y dentro del cuarto grado en línea colateral; o dentro del segundo, por afinidad;
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-II.- Por tener interés personal en el asunto que haya motivado el juicio;
+CAPÍTULO DECIMOTERCERO
 
-III.- Por tener amistad estrecha o enemistad manifiesta con alguna de las partes o de sus representantes;
+De los Órganos Constitucionales Autónomos
 
-IV.- Por haber emitido la resolución o instruido el procedimiento combatido;
-
-V.- Por ser parte en un juicio similar pendiente de resolución por el Tribunal.
-
-Estas causas determinan la excusa forzosa de los Magistrados.
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 58 Bis.
 
@@ -1447,137 +2047,425 @@ Artículo 58 F.- Toda persona imputada de un hecho punible, y toda víctima u of
 
 ###### Artículo 59.
 
-Las partes podrán recusar a los Magistrados, a los Secretarios o a los peritos del Tribunal, cuando estén en alguno de los casos de impedimento a que se refiere el Artículo anterior.
+Para ser titular de la Fiscalía General del Estado se requiere:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+I.- Ser ciudadano mexicano por nacimiento, originario del Estado o con residencia en él no menor de cinco años inmediatamente anteriores a la fecha de la designación;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+II.- Poseer Título de Licenciado en Derecho con una antigüedad mínima de diez años el día de la designación;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+III.- Tener cuando menos 35 años cumplidos el día de la designación;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+IV.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+V.- No haber tenido el cargo de Senador, Diputado Federal o Local o dirigente de Partido Político durante el año previo al día de su designación, ni haber sido titular de la Fiscalía General del estado de Aguascalientes o su equivalente.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2025)</small>
+
+Artículo 59 A.- Para proteger los derechos de las mujeres a una vida libre de violencias, las instituciones de procuración de justicia deberán contar con fiscalías o unidades especializadas de investigación de delitos relacionados con las violencias de género contra las mujeres.
+
+> <small>[N. DE E. DEL ANALISIS AL PRESENTE ARTÍCULO SE ADVIERTE QUE SU CONTENIDO ACTUAL, FORMABA PARTE DEL ARTÍCULO 59, MISMO QUE FUE REFORMADO EN ESTA MISMA FECHA.]</small>
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+Artículo 59 A (sic).- El Ministerio Público se organizará en una Fiscalía General del Estado como órgano autónomo con personalidad jurídica y patrimonio propio, misma que ejercerá las funciones previstas en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos con apego a los principios de legalidad, objetividad, imparcialidad, eficiencia, profesionalismo, responsabilidad, honradez y respeto a los derechos humanos, en los términos que disponga la Ley del Servicio Profesional de Carrera Ministerial para el Estado de Aguascalientes y las demás leyes aplicables en la materia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE FEBRERO DE 2026)</small>
+
+El Fiscal General del Estado durará en su cargo nueve años y será designado y removido conforme a lo siguiente:
+
+I.- Treinta días antes de concluir el período para el cual fue designado el Fiscal General del Estado, o en su caso, a partir de su ausencia definitiva, el Congreso del Estado tendrá quince días naturales para integrar una lista de cinco candidatos aprobada por las dos terceras partes de los diputados que integran el Congreso del Estado, misma que enviará al Poder Ejecutivo;
+
+II.- Recibida la lista a que se refiere la Fracción anterior, el Poder Ejecutivo formulará una terna y la remitirá al Congreso del Estado en un plazo no mayor a cinco días naturales contados a partir de que haya recibido la lista de candidatos.
+
+Si el Poder Ejecutivo no recibe la lista en el plazo señalado en la Fracción I, enviará libremente al Congreso del Estado una terna;
+
+III.- Recibida la terna por el Congreso del Estado, se turnará a la Comisión de Justicia para que, previa comparecencia de las personas propuestas, rinda el informe respectivo y el Pleno designe al Fiscal General del Estado con el voto de las dos terceras partes de los diputados que integran el Congreso. La designación deberá realizarse dentro del plazo de ocho días naturales contados a partir de que el Congreso reciba la terna.
+
+En caso de que el Poder Ejecutivo no envíe la terna al Congreso del Estado, éste tendrá cinco días para designar al Fiscal General del Estado de entre los candidatos de la lista que señala la Fracción I.
+
+Si el Congreso del Estado no hace la designación en el plazo establecido, el Poder Ejecutivo, en un término no mayor a cinco días naturales, designará al Fiscal General del Estado de entre los candidatos que integren la lista referida en la Fracción I, o en su caso de la terna respectiva;
+
+IV.- El Fiscal General del Estado podrá ser removido por el Ejecutivo Estatal por las causas graves que establezcan las Leyes. La remoción podrá ser objetada por el voto de la mayoría calificada de los miembros que integran el Congreso del Estado dentro de un plazo de diez días naturales, previo informe que para el efecto emita la Comisión de Justicia, en cuyo caso el Fiscal General del Estado será restituido en el ejercicio de sus funciones. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción a la remoción;
+
+V.- En los recesos del Congreso del Estado, la Diputación Permanente lo convocará de inmediato a período extraordinario para la designación o formulación de objeción a la remoción del Fiscal General del Estado; y
+
+VI.- Las ausencias temporales del Fiscal General del Estado serán suplidas en los términos que determiné la ley. En caso de renuncia, esta deberá ser presentada al Congreso del Estado para su aprobación.
+
+Si la renuncia o ausencia definitiva ocurre dentro de los primeros cinco años del nombramiento, será designado un sustituto para concluir el periodo. Si ocurre durante los últimos dos años, el Congreso nombrará al sustituto por un periodo de siete años.
+
+Quien se haya desempeñado como Fiscal General del Estado, no podrá ser reelecto en el cargo.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 60.
 
-El Magistrado del Tribunal que se considere impedido para conocer de algún asunto, hará en autos la manifestación a que se refiere el Artículo anterior, y si ésta resulta procedente, la Sala Superior designará a quien deba sustituirlo en el conocimiento de dicho asunto.
+El Ministerio Público estará sujeto a lo siguiente:
 
-El Magistrado que teniendo impedimento para conocer de un negocio no haga la manifestación correspondiente, incurre en responsabilidad; así mismo es responsable si no teniéndolo, pretende que se le aparte del conocimiento de aquél.
+I.- La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuáles actuarán bajo la conducción y mando de aquél en el ejercicio de esta función;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
+II.- El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público. La ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial. El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley;
+
+III.- El Ministerio Público procurará que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita, pedir la aplicación de las penas e intervenir en todos los negocios que la Ley determine;
+
+IV.- El Ministerio Público deberá garantizar la protección de las víctimas, ofendidos, testigos y en general de todos los sujetos que intervengan en el proceso. Los jueces deberán vigilar el cumplimiento de esta obligación;
+
+V.- La Ley establecerá los casos en que proceda la impugnación de las resoluciones del Ministerio Público del Estado, así como las sanciones aplicables a aquellas personas que las interpongan de manera dolosa; y
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2023)</small>
+
+VI.- Las condiciones para el ingreso, formación y permanencia, exámenes, sanciones y bajas de los agentes del Ministerio Público y del resto del personal que conforma la Fiscalía General se regirán por lo dispuesto en las leyes que emita el Congreso del Estado en materia del Servicio Profesional de Carrera Ministerial para el Estado de Aguascalientes, observando lo establecido en la legislación federal.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2025)</small>
+
+Artículo 60 A.- La seguridad pública es una función del Estado y sus Municipios, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, de conformidad con lo dispuesto en el artículo 4° de esta Constitución que garantiza los deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños; así como contribuir a la generación y preservación del orden público y la paz social, de conformidad con lo previsto en esta Constitución y las leyes de la materia. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, así como por la perspectiva de género y el respeto a los derechos humanos reconocidos en esta Constitución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 61.
 
-Las partes en juicio podrán, dentro del término de ocho días a partir de que comparezcan ante el Tribunal, denunciar cualquiera de los impedimentos a que se refiere el Artículo 58. El impedimento se decidirá de plano, previo informe que rinda el recusado en la inteligencia de que las partes, al denunciar, ofrecerán las pruebas en que funden su petición, sin que sean admisibles pruebas testimoniales, periciales o la confesión.
+Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional. El Ministerio Público, las instituciones policiales del Estado y los Municipios deberán coordinarse entre sí para cumplir con los objetivos de la seguridad pública y conformarán el Sistema Estatal de Seguridad Pública en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, y estará sujeto a las siguientes bases:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+I.- Sus integrantes deberán coordinarse con las instituciones policiales federales, en los términos de la legislación aplicable;
 
-Si la Sala Superior declara infundado el motivo del impedimento, impondrá al promovente una multa de 10 a 70 veces el salario mínimo diario general vigente en la ciudad de Monterrey en la fecha en que denunció el impedimento.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2023)</small>
 
-### CAPITULO IX. DE LOS INCIDENTES
+II.- Los integrantes de las instituciones de seguridad pública estatal estarán sujetos a un sistema de desarrollo policial que comprenderá los esquemas de servicio de carrera, profesionalización, certificación y su régimen disciplinario en los términos de la Ley de la materia. La ley establecerá un organismo de servicios periciales, dotado de autonomía técnica y de presupuesto para la prestación de servicios periciales.
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+III.- Se deberán integrar y mantener actualizadas permanentemente las bases de datos criminalísticos y del personal de las instituciones de seguridad pública;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+IV.- Se garantizará la formulación y ejecución de políticas públicas tendientes a prevenir la comisión de delitos, así como la participación social en los procesos de evaluación de dichas políticas de prevención del delito; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+V.- Los agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales del Estado y los Municipios, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+Las autoridades estatales y municipales fortalecerán el sistema se seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes mediante un sistema complementario de seguridad social y de reconocimientos.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2022)</small>
+
+Es de interés público preservar la vida e integridad física de las personas titulares del Poder Ejecutivo Estatal, de la Fiscalía General del Estado, así como de las Presidencias Municipales del Estado, para lo cual se garantizarán, a través de las autoridades competentes, las medidas de seguridad y protección adecuadas y suficientes que determine el Consejo del Sistema Estatal de Seguridad Pública, durante el tiempo que duren en el encargo y por un periodo igual al tiempo en que se desempeñó el mismo. Las medidas de seguridad y protección a exfuncionarios podrán ser renunciables.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2022)</small>
+
+Para el caso de los demás funcionarios públicos que realicen actividades relacionadas con la seguridad pública, procuración e impartición de justicia, que asuman riesgos en el desempeño de sus atribuciones, el Consejo del Sistema Estatal de Seguridad Pública deberá considerar las medidas de seguridad y protección adecuadas y suficientes para su protección, ya sea de forma temporal o por todo el período que se permanezca en el ejercicio de su función, según las circunstancias del caso y respecto de la solicitud hecha por el funcionario público interesado.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+Tratándose de las personas juzgadoras en materia penal, en caso de ser necesario y con el objetivo de preservar su seguridad, el Órgano de Administración Judicial Órgano de Administración Judicial (sic) del Poder Judicial del Estado podrá disponer las medidas necesarias para resguardar la integridad de las personas juzgadoras y de su familia, conforme al procedimiento que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2022)</small>
+
+Ningún servidor público podrá tener protección por dos cargos diversos, por lo tanto, cesará la protección si se es nombrado en uno nuevo que sea sujeto de protección.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2011)</small>
+
+### CAPITULO VIGÉSIMO
+
+De la Inviolabilidad de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 62.
 
-Dentro del juicio contencioso administrativo, sólo serán admisibles como incidentes de previo y especial pronunciamiento los siguientes:
+La Comisión Estatal de Derechos Humanos es el órgano garante de la protección de los derechos humanos en el Estado de Aguascalientes; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios; conocerá de las quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público estatal que viole derechos humanos; así mismo, formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
 
-I.- Falta de personalidad;
+Toda autoridad o servidor público estatal tiene la obligación de responder las recomendaciones que les presente la Comisión Estatal de Derechos Humanos.
 
-II.- El de acumulación de autos; y
+Cuando dichas recomendaciones no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa. La Comisión Estatal de Derechos Humanos podrá solicitar al Congreso del Estado que llame a comparecer a las autoridades o servidores públicos responsables para que expliquen el motivo de su negativa.
 
-III.- El de suspensión del juicio por causa de muerte del actor, o del demandado si este último fuere el particular y se impugna un acto que sólo afecta a su persona.
+Este organismo no será competente tratándose de asuntos electorales y jurisdiccionales.
 
-Los incidentes se promoverán ante los magistrados instructores que conozcan del juicio respectivo.
+Para ser electo como titular de la Comisión Estatal de Derechos Humanos se deberá acreditar experiencia y amplios conocimientos en materia de derechos humanos y demás requisitos que señale la Ley.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+El titular de la Comisión Estatal de Derechos Humanos durará un período de cuatro años y podrá ser reelecto por una sola vez.
 
-Cuando esta Ley no prevea plazo específico para la interposición del incidente respectivo, se considerará el de cinco días hábiles contados a partir del siguiente al en que se tuvo conocimiento de los hechos que motivaron el mismo.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2015)</small>
+
+La Comisión Estatal de Derechos Humanos contará con un Consejo Consultivo integrado por cinco personas con carácter honorífico. Los consejeros para ser electos, además de los requisitos que establezca la Ley, deberán demostrar conocimiento en diversas materias técnicas, científicas y humanistas, para la resolución de casos en que requieran su pericia. Los consejeros ocuparán el cargo por cuatro años sin posibilidad de reelección en el período inmediato.
+
+La elección del titular de la Comisión Estatal de Derechos Humanos, así como de los integrantes del Consejo Consultivo, se sujetará a un procedimiento de consulta pública transparente en los siguientes términos:
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2015)</small>
+
+I. El Congreso del Estado expedirá la convocatoria respectiva y recibirá las propuestas de aspirantes que formulen asociaciones civiles que estén legalmente constituidas y cuyo objeto esté vinculado con la difusión y protección de los derechos humanos, así como colegios de profesionistas e instituciones de educación superior en el Estado, en la forma y términos que señale la ley;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2015)</small>
+
+II. El Congreso del Estado verificará cuáles aspirantes cumplen con los requisitos constitucionales y legales y formulará una lista de candidatos para ocupar la presidencia y otra de candidatos para integrar el Consejo Consultivo. Si el titular del organismo al concluir su primer periodo hace valer su expectativa de derecho a ser reelecto, formará parte de la lista correspondiente;
+
+III. El Congreso del Estado someterá las listas formuladas a una consulta pública, en la forma y términos que determine la ley;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2015)</small>
+
+IV. El Pleno del Congreso del Estado elegirá al titular de este organismo con el voto de las dos terceras partes de los Diputados presentes; y a los miembros del Consejo Consultivo con el voto de la mayoría de los Diputados que integran el Congreso del Estado;
+
+V. El Congreso del Estado llamará a los electos para que rindan la protesta de ley.
+
+La Ley establecerá las bases del servicio profesional en el organismo.
+
+Artículo 62 A.- (DEROGADO, P.O. 14 DE ABRIL DE 2025)
+
+> <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMOCUARTO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
+
+CAPITULO DECIMOQUINTO
+
+De la Hacienda Pública.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
 
 ###### Artículo 63.
 
-La acumulación de dos o más juicios es procedente en los siguientes casos:
+La Hacienda Pública se compone de los bienes y derechos pertenecientes al Estado y de las contribuciones que el Congreso decreta. Su administración estará a cargo del Ejecutivo y de la Secretaría de Finanzas, y de los Poderes Legislativo y Judicial, quienes serán responsables de su manejo en el ámbito de sus competencias.
 
-I.- Cuando las partes sean las mismas y se invoquen idénticos agravios;
-
-II.- Cuando siendo diferentes las partes el acto impugnado sea el mismo, ya sea que esté impugnado total o parcialmente; y
-
-III.- Cuando se impugnen actos o resoluciones que sean antecedente o consecuencia de otros, independientemente de que las partes sean o no las mismas y los agravios sean o no diversos.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2007)</small>
 
 ###### Artículo 64.
 
-Las partes podrán promover el incidente de acumulación hasta antes de la celebración de la audiencia del juicio. La acumulación podrá tramitarse de oficio.
+No podrá hacerse pago alguno que no esté comprendido en el presupuesto o determinado por Ley posterior, salvo en el caso de las partidas de pago plurianuales aprobadas por el Congreso, en términos del Artículo 27 fracciones III y XXXIV de esta Constitución.
 
-La acumulación se tramitará ante el Magistrado que esté conociendo el juicio primeramente promovido, aportándose las pruebas conducentes. Dicho magistrado resolverá lo que proceda en el plazo de tres días hábiles.
-
-Una vez decretada la acumulación, el Magistrado que conozca del juicio más reciente, deberá enviar los autos al que conoció del primer juicio, en un plazo que no excederá de tres días hábiles.
-
-No procede la acumulación cuando en alguno de los juicios ya se hubiere celebrado la audiencia o se encuentre en diversa instancia.
-
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
-
-Decretada la acumulación, se suspenderá el curso del juicio que estuviere más próximo a su término, hasta que el otro se encuentre en el mismo estado, a fin de que ambos se decidan en una misma sentencia.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 65.
 
-Las demás cuestiones incidentales que surjan dentro del procedimiento, se substanciarán en la misma pieza de autos sin que se interrumpa la secuela del juicio, dándole vista a la parte interesada en el incidente y se fallarán junto con el principal.
+Si al iniciarse un año fiscal no hubiere sido aprobado el presupuesto general correspondiente, se ejercerá la iniciativa presentada por el titular del Poder Ejecutivo o los Ayuntamientos, con carácter de temporal por el lapso que determine la Ley Orgánica del Poder Legislativo del Estado.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2011)</small>
+
+El Congreso, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la Ley; en caso de que por cualquier circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el presupuesto anterior, o en la Ley que estableció el empleo. En todo caso, dicho señalamiento deberá respetar las bases previstas en el Artículo 70 de esta Constitución y en las leyes que en la materia expida el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2007)</small>
+
+Tratándose de las partidas plurianuales aprobadas por el Congreso en términos de las Fracciones III y XXXIV del Artículo 27 de esta Constitución, éstas se ejercerán de acuerdo a lo establecido en el Decreto correspondiente, expedido por el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
+Los servidores públicos del Estado de Aguascalientes y de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades. A trabajo igual corresponderá salario igual, sin tener en cuenta sexo, género ni nacionalidad. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
+
+Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente y este a su vez no podrá percibir un ingreso mayor al del Presidente de la República en términos de lo establecido en el Artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+III. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado que así lo requieran.
+
+IV. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
+
+V. El Congreso del Estado expedirá las leyes para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas, y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este Artículo.
+
+> <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMOQUINTO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
+
+CAPITULO DECIMOSEXTO
+
+Del Municipio.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO X. DE LA SUSPENSION DE LOS ACTOS IMPUGNADOS
 
 ###### Artículo 66.
 
-A petición expresa de parte, el magistrado instructor, en el mismo auto que admita la demanda, decretará la suspensión de los actos impugnados, haciéndolo saber sin demora a la autoridad demandada para su observancia.
+El Municipio es la institución jurídica política y social de carácter público, con autoridades propias funciones específicas y con libre administración de su hacienda con personalidad jurídica y patrimonio propios, cuya finalidad consiste en organizar a una comunidad en la gestión de sus intereses, proteger y fomentar los valores de la convivencia local y prestar los servicios básicos que ésta requiera. Asimismo tiene la potestad para normar directa y libremente las materias de su competencia.
+
+El Municipio es libre en su régimen interior, será gobernado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
+Los Ayuntamientos se integrarán por un Presidente Municipal, Regidores y Síndicos que serán electos por el sistema de mayoría relativa y residirán en las cabeceras de los Municipios; además se elegirán regidores de representación proporcional que serán asignados a los partidos políticos, entre los cuales no debe figurar el que haya obtenido mayoría de votos, de acuerdo al procedimiento establecido en la Ley.
+
+El Presidente Municipal presidirá el Ayuntamiento y representará a éste y al Municipio política y administrativamente.
+
+Los Regidores de mayoría relativa y los de representación proporcional tendrán la misma categoría e iguales derechos y obligaciones.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+
+Cada Municipio será gobernado por un Ayuntamiento integrado por representantes electos por los principios de mayoría relativa y de representación proporcional, de la siguiente manera:
+
+I. Se elegirán bajo el principio de mayoría relativa:
+
+a) Un Presidente Municipal;
+
+b) Siete regidores y dos síndicos para el Municipio de Aguascalientes;
+
+c) Cuatro regidores y un Síndico para los municipios que tengan más de treinta mil habitantes, un año antes del día de la elección; y
+
+d) Tres regidores y un síndico para cada uno de los demás municipios.
+
+II. Se elegirán por el principio de representación proporcional:
+
+a) Siete regidores para el Municipio de Aguascalientes;
+
+b) Cuatro regidores para los municipios que tengan más de treinta mil habitantes, un año antes del día de la elección; y
+
+c) Tres regidores para cada uno de los demás municipios.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+
+Los Ayuntamientos se renovarán en su totalidad cada tres años, salvo el caso de que sean elegidos para un período más, e iniciarán sus funciones el quince de octubre del año de la elección. Se elegirá un suplente por el Presidente Municipal y por cada Regidor y Síndico para que cubra las faltas temporales o absolutas del propietario correspondiente, serán cubiertas conforme a lo dispuesto por la Ley que en materia municipal emita el Congreso del Estado.
+
+El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
+
+En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, la Legislatura del Estado designará, entre los vecinos, a los consejos municipales que concluirán los períodos respectivos; estos concejos estarán integrados por el número de miembros que determine la Ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los Regidores.
+
+Para ser Presidente Municipal, Regidor o Síndico de un Ayuntamiento se requiere:
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+I.- Ser ciudadano mexicano, en goce y ejercicio de sus derechos;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+II.- Tener 18 años cumplidos el día de la elección;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+III.- Ser originario del Municipio o tener una residencia en él no menor de dos años, inmediatamente anteriores al día de la elección;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+IV.- No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+
+V.- No haber sido condenado mediante sentencia ejecutoria por delito doloso de acoso, abuso sexual violencia de género y/o violencia familiar, por delitos de hechos de corrupción o de los previstos como tipos penales protectores de la administración pública, por el delito o infracción a la normatividad electoral consistente en violencia política contra las mujeres en razón de género o por sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+No pueden ser electos persona Titular de la Presidencia Municipal, persona Regidora o Síndica:
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
+I. Las personas que desempeñen cargos públicos de elección popular, sean de la Federación o del Estado;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2025)</small>
+
+II. Las personas Magistradas, tanto del Supremo Tribunal de Justicia, como del Tribunal de Justicia Administrativa, del Tribunal de Disciplina Judicial de Aguascalientes, del Tribunal Electoral y las personas Juzgadoras; personas Titulares de una Secretaría de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; la persona titular de la Fiscalía General del Estado; las personas Consejeras Electorales del Consejo General del Instituto Estatal Electoral, a la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes y las personas delegadas de las dependencias federales en el Estado;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE AGOSTO DE 2024)</small>
+
+III. Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad o que tengan una sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado; y
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
+IV. Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2014)</small>
+
+Los ciudadanos comprendidos en las Fracciones I y II del párrafo anterior, podrán ser electos Presidente Municipal, Regidor o Síndico, si se separan de sus cargos o empleos noventa días antes de la elección, salvo que esta Constitución establezca otro termino.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 67.
 
-La suspensión podrá solicitarla el actor en cualquier tiempo, mientras no se dicte sentencia definitiva, y tendrá por efecto mantener las cosas en el estado en que se encuentren hasta en tanto se pronuncie sentencia.
+Los Municipios gozan de personalidad jurídica para todos los efectos legales. En asuntos jurisdiccionales, serán representados por los Síndicos o por aquellos que se designen de conformidad con lo que establezca la Ley que en materia municipal emita el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
-
-No se otorgará la suspensión cuando de concederla se siga perjuicio al interés social, se contravengan disposiciones de orden público o se dejare sin materia el juicio.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
-
-Se considera entre otros casos, que se sigue perjuicio al interés social o se contravengan disposiciones de orden público, cuando de concederla, se permita la consumación o continuación de delitos o de sus efectos; se permita el alza de precios relativos a artículos de primera necesidad o de consumo necesario; se impida la ejecución de medidas para combatir epidemias de carácter grave, el peligro de invasión de enfermedades exóticas en el Estado o campañas u operativos contra el alcoholismo, la ludopatía, el tabaquismo o la venta ilícita de sustancias; se produzca daño al medio ambiente, al equilibrio ecológico o por ese motivo se afecte la salud de las personas; igualmente cuando de otorgarse la suspensión se proceda a la instalación, se continúe el funcionamiento o se evite de alguna manera el control, la verificación o vigilancia del cumplimiento de los ordenamientos administrativos estatales o municipales de los casinos, centros de apuesta, salas de sorteos, casas de juego y establecimientos similares; o cuando se trate de centros de vicio, de lenocinio o se dediquen al comercio de drogas y de enervantes.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
-
-La suspensión podrá ser revocada o modificada por el Magistrado instructor en cualquier etapa del juicio, ya sea oficiosamente o a petición de parte, si varían las condiciones por las cuales se otorgó, o si se argumentan o demuestran hechos o circunstancias que no se hubieren tomado en consideración al concederla.
-
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
-
-La suspensión se limitará a los actos, procedimientos o resoluciones que se impugnen y sus efectos. Al concederla, el Magistrado instructor procurará precisar la situación en que habrá (sic) de quedar las cosas y tomará las medidas pertinentes para conservar la materia del juicio hasta su terminación.
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 68.
 
-Cuando a juicio del Magistrado fuera necesario garantizar el interés fiscal, la suspensión del acto reclamado se concederá previo aseguramiento del mismo, mediante certificado de depósito expedido por la Secretaría de Finanzas y Tesorería General del Estado, o con fianza otorgada por institución autorizada.
+Los Ayuntamientos tendrán facultades para aprobar, de acuerdo con las Leyes Estatales, los Bandos de Policía y Gobierno, los Reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia; y aseguren la participación ciudadana y vecinal.
 
-Sin perjuicio de lo preceptuado en el párrafo anterior, el Magistrado podrá eximir el otorgamiento de garantía del adeudo fiscal, en los siguientes casos:
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2009)</small>
 
-I. Siempre que previamente se haya constituido la garantía del interés fiscal ante la autoridad demandada;
+Para cualquier tipo de concesión de los servicios públicos municipales considerados como áreas estratégicas, los Ayuntamientos deberán recabar, la autorización del Congreso del Estado, para lo cual, se requerirá la aprobación de las dos terceras partes de sus integrantes.
 
-II. Cuando se trate de persona distinta del obligado directamente al pago;
+El objeto de las Leyes de competencia municipal, será establecer:
 
-III. Cuando de acuerdo a la apreciación del Magistrado y tratándose del cobro de sumas, éstas excedan de la posibilidad del quejoso.
+I.- Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+II.- Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento.
+
+III.- Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones III y IV del Artículo 115, como el segundo párrafo de la fracción VII del Artículo 116, de la Constitución Política de los Estados Unidos Mexicanos.
+
+IV.- El procedimiento y condiciones para que el Gobierno Estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, la Legislatura Estatal considere que el Municipio de que se trate esté imposibilitado para ejercerlo o prestarlo; en este caso, será necesaria solicitud previa del Ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y
+
+V.- Las disposiciones aplicables en los Municipios que no cuenten con los Bandos o Reglamentos correspondientes.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 69.
 
-En los casos en que proceda la suspensión y pueda ocasionar daños o perjuicios a terceros, se concederá si el actor otorga garantía bastante, en las formas previstas en el artículo anterior, para reparar el daño e indemnizar los perjuicios que con aquélla se causaren, si no se obtiene sentencia favorable en el juicio.
+Los Municipios tendrán a su cargo las funciones y servicios públicos siguientes:
 
-La suspensión quedará insubsistente si el tercero a su vez otorga caución bastante para que las cosas se mantengan en el estado en que se encontraban en el momento que ésta fue concedida y a cubrir los daños que sobrevengan en perjuicio del actor, en caso de que éste obtenga sentencia favorable.
+I.- Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales.
 
-Para que surta efectos la caución que ofrezca el tercero conforme al párrafo anterior, deberá cubrir previamente el costo de la que hubiere otorgado el actor.
+II.- Alumbrado público.
 
-No se admitirá la contragarantía cuando, de ejecutarse el acto demandado, quede sin materia el juicio.
+III.- Limpia, recolección, traslado, tratamiento y disposición final de residuos.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+IV.- Mercados y centrales de abasto.
 
-En todos los casos, el Magistrado podrá requerir al interesado o a las partes en el juicio, los informes que considere necesarios para estimar el monto de los daños y perjuicios objeto de garantía o contragarantía, y fijará discrecionalmente el monto de los mismos cuando no sean estimables en dinero.
+V.- Panteones.
+
+VI.- Rastro.
+
+VII.- Calles, parques, jardines y su equipamiento.
+
+VIII.- Seguridad pública, en los términos del Artículo 21 de la Constitución Federal, policía preventiva municipal y tránsito; y
+
+IX.- Los demás que el Congreso del Estado determine, según las condiciones territoriales y socioeconómicas de cada Municipio, así como su capacidad administrativa y financiera.
+
+Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los Municipios observarán lo dispuesto por las Leyes Federales y Estatales.
+
+Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de Municipios del Estado con uno o más Municipios de otra u otras Entidades Federativas, deberán contar con la aprobación del Congreso.
+
+Asimismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Gobierno del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2020)</small>
+
+Los Municipios se regirán por el principio de Gobierno Abierto, por lo cual tienen la obligación de ejercer una administración pública transparente, favorecer la participación ciudadana y vecinal y la rendición de cuentas con carácter receptivo, eficaz y eficiente, de tal manera que garantice a toda persona el derecho a recibir los servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad y calidad. Las Autoridades conformarán un sistema de índices de calidad de los servicios públicos, basado en criterios técnicos y acorde a dichos principios.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 70.
 
-Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el interesado deberá solicitarlo dentro de los treinta días siguientes a que cause ejecutoria la sentencia; si no lo hiciere dentro de ese término, se procederá a la devolución o cancelación de la garantía. La solicitud correspondiente se tramitará en la vía incidental.
+Los Municipios administrarán libremente su Hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso del Estado establezca a su favor, y en todo caso:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I.- Percibirán las contribuciones, incluyendo tasas adicionales, que establezca el estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
+
+II.- Las participaciones federales que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado.
+
+III.- Los ingresos derivados de la prestación de servicios públicos a su cargo.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+
+El Congreso del Estado aprobará las Leyes de Ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base a sus ingresos disponibles y deberán incluir en los mismos, los tabuladores desglosados de las remuneraciones que perciban los presidentes municipales, síndicos, regidores y los demás servidores públicos municipales, sujetándose a lo dispuesto en el artículo 65 de esta Constitución. Asimismo, las asignaciones para el desempeño de la función deberán sujetarse a los criterios de racionalidad, austeridad y disciplina presupuestaria.
+
+Los recursos que integran la Hacienda Municipal serán ejercidos en forma directa por los Ayuntamientos, o bien por quien ellos autoricen, conforme a la Ley.
+
+Las Leyes locales no establecerán exenciones o subsidios respecto de las contribuciones a que se refieren las fracciones I y III, a favor de personas físicas o morales ni de instituciones oficiales o privadas. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2025)</small>
+
+Los Municipios, con la aprobación de las dos terceras partes de los integrantes del Ayuntamiento, podrán contratar Proyectos de Prestación de Servicios o Asociaciones Público-Privadas, así como Obra Pública Financiada, que tengan por objeto crear infraestructura pública, debiendo solicitar al Congreso la autorización, así como de las partidas plurianuales que se deriven de dichos esquemas para ser incluidos en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas para cubrir los gastos correspondientes a las obligaciones contraídas, de conformidad a lo establecido en la Fracción XXXIV del Artículo 27 de esta Constitución y las disposiciones de la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 70 Bis.
 
@@ -1589,117 +2477,167 @@ Cuando la autoridad demandada no cumpliere la suspensión concedida, a petición
 
 ###### Artículo 71.
 
-En el juicio contencioso administrativo son admisibles todas las pruebas que tengan relación directa con los hechos controvertidos, excepto la confesional por posiciones a cargo de la autoridad y la petición de informes salvo que éstos se limiten a hechos que consten en documentos que obren en poder de las autoridades y las que fueren contrarias a la moral o al derecho.
+Los Municipios, en los términos de las Leyes Federales y Estatales relativas, estarán facultados para:
 
-Aquellas pruebas que se hubieren rendido ante las autoridades demandadas deberán ponerse a disposición del magistrado instructor con el expediente relativo, a petición de parte.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
-Las pruebas supervinientes podrán presentarse hasta antes de dictarse sentencia.
+I.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+II.- Participar en la creación y administración de sus reservas territoriales.
 
-Las partes en ningún momento podrán citar o incorporar como prueba, al juicio, antecedente alguno que tenga relación con la proposición, discusión, aceptación o rechazo, procedencia o revocación de un método alterno que en su caso se hubiere hecho valer.
+III.- Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando la Federación o el Estado elaboren proyectos de desarrollo regional deberán asegurar la participación de los Municipios.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+IV.- Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales.
 
-Cuando se ofrezcan las pruebas de inspección y pericial, el propietario, poseedor u ocupante del bien en el cual se deban desahogar las citadas probanzas, tendrá la obligación de permitir el acceso al mismo a fin de que se cumpla tal objetivo.
+V.- Intervenir en la regularización de la tenencia de la tierra urbana.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+VI.- Otorgar licencias y permisos para construcciones.
 
-Una vez admitida la prueba de inspección o pericial, el Magistrado de la Sala Ordinaria, prevendrá al propietario, poseedor u ocupante referido en el párrafo que antecede, a fin de que cumpla con dicha obligación, bajo los siguientes apercibimientos:
+VII.- Participar en la creación y administración de zonas de reservas ecológicas, y en la elaboración y aplicación de programas de ordenamiento en esta materia.
 
-a) Cuando sea el oferente quien deba permitir el acceso, se le apercibirá que de no hacerlo así se tendrá por desierta la probanza de que se trate.
+VIII.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial.
 
-b).- Para el caso de que sea algunas de las contrapartes del oferente de la prueba, la que deba permitir el acceso, se le apercibirá que de no cumplir con tal obligación se tendrán por ciertos los hechos que se pretendan acreditar con la prueba ofrecida.
+IX.- Celebrar convenios para la administración y custodia de las zonas federales.
+
+En lo conducente y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, se expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2023)</small>
+
+X.- Elaborar las tablas de valores unitarios de suelo y construcciones, y someterlas a la aprobación del Congreso, para que sirvan de base para el cobro de contribuciones sobre la propiedad inmobiliaria;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XI.- La Policía Preventiva Municipal estará al mando del Presidente Municipal, en los términos de la Ley del Sistema Estatal de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en los casos en que éste juzgue como de fuerza mayor o alteración grave del orden público y cuando así se disponga en los convenios o en las normas correspondientes.
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2023)</small>
+
+XII.- Prevenir y erradicar la violencia contra las mujeres, así como la aplicación de los principios y modalidades para garantizar su acceso a una vida libre de violencia que favorezcan su desarrollo integral y bienestar conforme a los principios de igualdad y de no discriminación, el respeto a la dignidad humana, la libertad y su empoderamiento.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
+
+Para tal fin los Municipios en el ámbito de sus respectivas competencias deberán expedir las normas legales correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
+
+Para el cumplimiento de esta fracción, las instancias municipales de la mujer deben de contar con personal especializado para brindar la debida atención.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+XIII.- Resguardar temporalmente para salvaguardar el interés público, en los términos de las leyes aplicables en la materia, los bienes inmuebles privados abandonados que pongan en riesgo la vida de las personas, sus bienes, la salud pública, la seguridad pública, o que generen afectaciones a la colectividad o al orden público.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+El resguardo temporal de las autoridades municipales se limitará exclusivamente a modificar aquellas particularidades del bien inmueble, que generan un perjuicio, daño, agravio, o riesgo en términos del párrafo anterior.
+
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN XIII, P.O. 4 DE DICIEMBRE DE 2025)</small>
+
+Este resguardo se llevará a cabo respetando el debido proceso y la garantía de audiencia de los propietarios, así como las formalidades, plazos y términos que establezcan las leyes de la materia.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 72.
 
-El Magistrado instructor está facultado para calificar la pertinencia de las pruebas ofrecidas por las partes, y desechará aquellas que no se relacionen con los puntos controvertidos.
+Se establece la elección consecutiva para el mismo cargo de presidentes municipales, regidores y síndicos, por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMOSEXTO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
 
-En el acuerdo en el que se realice la calificación de pruebas, se fijará la fecha de la audiencia del juicio, misma que se celebrará dentro de un plazo que no excederá de quince días.
+CAPITULO DECIMOSEPTIMO
 
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
+De la Responsabilidad de los Servidores Públicos.
 
-No se citará para audiencia en aquellos casos en que las pruebas ofrecidas y admitidas no requieran desahogo especial, aplicándose en lo conducente lo previsto en el Artículo 55 de esta Ley.
-
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2014)</small>
-
-La parte que asista tardíamente a una audiencia se incorporará al procedimiento en la etapa en que ésta se encuentre, sin perjuicio de la facultad del Juez en materia de conciliación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2025)</small>
 
 ###### Artículo 73.
 
-Los Magistrados podrán decretar en todo tiempo el desahogo de cualquier diligencia probatoria que estimen necesaria para mejor proveer.
+Para los efectos de las responsabilidades a que alude este Capítulo se reputarán como servidores públicos a los representantes de elección popular, a los integrantes del Poder Judicial y a sus funcionarios y empleados, así como a los Consejeros Electorales que integran el Consejo General del Instituto Estatal Electoral y el personal que labore para el mismo y en general a quien desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, así como en los Organismos Descentralizados, Empresas de Participación Estatal o Municipal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y de Fideicomisos Públicos y a los órganos u organismos autónomos quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+Todos los servidores públicos son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, a las leyes federales, a esta Constitución y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado y de los Municipios, de los delitos del orden común que cometan durante el tiempo de su encargo, así como en actividades administrativas irregulares, en que incurran en el ejercicio de sus cargos, y estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial, de intereses y fiscal ante las autoridades competentes, en los términos que determine la ley.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2023)</small>
+
+La Ley de Responsabilidades Administrativas del Estado de Aguascalientes determinará sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones, las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas, además de las que señalen las leyes.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
+
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
 ###### Artículo 74.
 
-Los hechos notorios no requieren de prueba y los Magistrados podrán invocarlos en sus resoluciones, aún cuando las partes no lo hubieran hecho.
+Serán sujetos de responsabilidad política los servidores públicos que en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, así como, violaciones a la Constitución Política de los Estados Unidos Mexicanos, a las Leyes Federales, a esta Constitución y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado y de los Municipios.
+
+No procede el juicio político por el sólo hecho de la manifestación de ideas.
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2025)</small>
+
+Serán sujetos de Juicio Político la persona titular de la Gubernatura del Estado, las personas titulares de las Diputaciones de la Legislatura Local, las personas Magistradas del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial de Aguascalientes, las personas integrantes del Órgano de Administración Judicial del Poder Judicial del Estado, así como las personas Juzgadoras del Poder Judicial del Estado, las personas Titulares de las Dependencias del Poder Ejecutivo, la persona Fiscal General del Estado, la persona Consejera Presidenta y las personas Consejeras Electorales del Consejo General del Instituto Estatal Electoral, la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes, las personas Titulares de los organismos públicos descentralizados, las personas Titulares de los organismos autónomos y las personas Directoras generales de las empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; la persona Titular de las Presidencias Municipales, las personas Regidoras o Síndicas de los Ayuntamientos.
+
+Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2023)</small>
+
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular denuncia ante el Congreso del Estado por conductas que impliquen una responsabilidad política de los sujetos a que se refiere este artículo, y previo trámite que señale la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, el Congreso por el voto de las dos terceras partes de sus miembros determinará si es culpable, en cuyo caso será destituido del cargo e inhabilitado para desempeñar una función, cargo o comisión dentro del servicio público.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 ###### Artículo 75.
 
-Con el fin de que las partes puedan rendir sus pruebas en la audiencia del juicio, los servidores públicos tienen la obligación de expedir con toda oportunidad las copias de los documentos que aquellas les soliciten; si dichos servidores públicos no cumplieran con esta obligación, la parte interesada solicitará al Magistrado instructor que requiera a las mismas.
+Serán sujetos de responsabilidad penal los servidores públicos que tengan fuero y cometan hechos delictivos del orden común en los términos de la normatividad penal, durante el tiempo de su encargo y, por el enriquecimiento ilícito por sí o por interpósita persona que aumente sustancialmente su patrimonio, adquiera bienes o se conduzcan como dueños sobre ellos, cuya procedencia licita no pudiesen justificar.
 
-El Magistrado hará el requerimiento y suspenderá la audiencia por plazo que no exceda de diez días hábiles; pero si no obstante dicho requerimiento no se expidieren, se tendrán por ciertos los hechos que se pretendan probar con dichos documentos si la autoridad omisa es parte en el juicio; si no lo es, el Magistrado hará uso de los medios de apremio para que las expidan.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2025)</small>
+
+Para proceder penalmente en contra de las personas titulares de las Diputaciones del Poder Legislativo Local, la persona titular de la Gubernatura del Estado, las personas Magistradas del Supremo Tribunal de Justicia del Estado, del Tribunal de Disciplina Judicial de Aguascalientes, las personas integrantes del Órgano de Administración Judicial del Poder Judicial del Estado, del Tribunal de Justicia Administrativa, la persona Titular de la Secretaría General de Gobierno, la persona Titular de la Fiscalía General del Estado, la persona Titular de las Presidencias Municipales, las personas Regidoras o Síndicas de los Ayuntamientos, así como la persona Consejera Presidenta y las personas Consejeras Electorales del Consejo General del Instituto Estatal Electoral, la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes; el Congreso del Estado, erigido en Gran Jurado, declarará por consenso de las dos terceras partes del total de las personas Diputadas, si ha lugar a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento ulterior, pero tal declaración no será obstáculo para que el procedimiento continúe su curso cuando la persona acusada haya dejado de tener fuero, comenzando entonces la prescripción. En caso afirmativo, la persona acusada quedará automáticamente separada de su cargo y sujeto a la acción de los tribunales comunes.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
 ###### Artículo 76.
 
-Las pruebas que lo ameriten se desahogarán en la audiencia del juicio. Si no fuera posible, se señalará nueva fecha para su desahogo en los casos previstos por la Ley.
+El Gobernador del Estado, durante el tiempo de su encargo sólo podrá ser acusado por violaciones a esta Constitución y delitos graves del orden común, además será responsable en los términos del Artículo 110, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos, conforme al procedimiento establecido en el mismo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+
+Para proceder penalmente en contra de las personas Juzgadoras del Poder Judicial, se requiere declaratoria del Pleno del Tribunal de Disciplina Judicial de Aguascalientes que dé ha lugar a formación de causa.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
 ###### Artículo 77.
 
-Cuando el desahogo de las pruebas deba realizarse fuera del Area Metropolitana de Monterrey, el Magistrado de la causa por conducto del Tribunal Superior de Justicia lo solicitará al Juez de Primera Instancia más próximo al de la localidad referida, girándole el exhorto correspondiente, acompañando los documentos, interrogatorios o cuestionarios correspondientes, debidamente calificados.
+Las resoluciones del Congreso del Estado en materia de responsabilidad política y penal son inatacables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 78.
 
-La prueba pericial tendrá lugar en las cuestiones relativas a alguna ciencia o arte; admitida que fuera la prueba pericial se fijará un mismo plazo de diez días hábiles para que las demás partes designen al perito de su intención, así como para que todas las partes presenten a sus peritos, personalmente o por escrito, a fin de que comprueben si reúnen los requisitos legales, manifiesten que no tienen impedimento legal para emitir su dictamen y acepten el cargo, con el apercibimiento que de no hacerlo solo se considerará el peritaje de quien haya cumplido; en la inteligencia de que los peritos deberán tener título en la especialidad a que pertenezca el asunto sobre el que habrán de dictaminar, si estuviera legalmente reglamentada; si no lo estuviera, o si estándolo no fuera posible designar un perito titulado, podrán ser nombrados al efecto personas entendidas en la ciencia o arte que deberán dictaminar; debiéndose acreditar el conocimiento en la ciencia, arte u oficio con la exhibición de documentos originales o debidamente certificados.
+La declaración de haber lugar a formación de causa se requiere, en cuanto a los servidores públicos de elección popular, desde la fecha en que sean electos, y respecto a los demás, desde que entren en ejercicio de sus cargos, aún por delitos cometidos con anterioridad.
 
-Los peritos que hayan aceptado el cargo y rendido la protesta correlativa, deberán presentar su dictamen por lo menos diez días antes de la celebración de la audiencia del juicio, a fin de que las partes se impongan de su contenido. De no cumplirse este requisito y no hubiere circunstancia que justifique el incumplimiento, se tendrá por no presentado el dictamen.
-
-Si ninguno de los peritos de las partes rinde su dictamen en el término concedido para ello, se declarará desierta la prueba.
-
-Se tendrá por desierta la prueba pericial si el perito del oferente no acepta su cargo o no protesta conducirse con verdad y con apego a la Ley, o no exhibe los documentos que justifiquen su conocimiento en la ciencia o arte.
-
-Los dictámenes periciales se pondrán a la vista de las partes por lo menos con cinco días de anticipación a la celebración o reanudación de la audiencia, para que estén en aptitud de formular observaciones o interrogar a los peritos.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
 ###### Artículo 79.
 
-El reconocimiento o inspección se practicará siempre previa citación de las partes, fijándose día, hora y lugar. Las partes, sus representantes o abogados podrán ocurrir a la inspección y hacer las observaciones que estimen oportunas. También podrán concurrir a ella los testigos de identidad y los peritos que fueren necesarios.
+Los sujetos de responsabilidad penal a que se refiere el Artículo 75 de este ordenamiento y que se encuentren separados de su cargo no gozarán del fuero constitucional.
 
-Del reconocimiento se levantará un acta que firmarán todos los que concurrieron, debiendo asentarse con exactitud los puntos que lo hayan provocado, las declaraciones de los testigos y peritos si los hubiere y todo lo que el Magistrado creyere conveniente para sustentar su juicio.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
 ###### Artículo 80.
 
-Los testigos no podrán pasar de tres respecto de cada hecho. Deberán ser presentados por el oferente en la fecha de la audiencia y sólo en el caso de que éste manifieste bajo protesta de decir verdad su imposibilidad para presentarlos, el Magistrado los mandará citar si se proporcionan sus domicilios.
+La responsabilidad política de los servidores públicos a que se refiere el Artículo 74 de esta Constitución podrá exigirse durante el ejercicio del cargo y hasta un año después de concluida su función.
 
-El Magistrado ordenará la citación con apercibimiento de arresto hasta por 24 horas o multa equivalente de quince días de salario mínimo general diario vigente en la Ciudad de Monterrey, Nuevo León, que aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
-En caso de que el señalamiento de domicilio de algún testigo resulte inexacto, o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa equivalente de treinta días de salario mínimo general diario vigente en la Ciudad de Monterrey, Nuevo León, debiendo declararse desierta la prueba testimonial.
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
 ###### Artículo 81.
 
-La valorización de las pruebas se hará de acuerdo con las siguientes disposiciones:
+Pronunciada una sentencia condenatoria siendo un delito cometido durante el ejercicio de su encargo, no podrá concederse al sentenciado la gracia del indulto.
 
-I.- Harán prueba plena: la confesión expresa de las partes; las presunciones legales que no admitan prueba en contrario; los hechos afirmados por autoridades competentes en documentos públicos, pero si en éstos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos solo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado;
+En los juicios del orden civil no hay fuero ni inmunidad para ningún servidor público.
 
-II.- Tratándose de actos de comprobación de las autoridades administrativas se entenderán como legalmente afirmados los hechos que consten en las actas respectivas, salvo prueba en contrario;
-
-III.- El valor de las pruebas pericial, testimonial y de inspección o reconocimiento, así como el de las demás pruebas, quedará a la prudente apreciación del Magistrado instructor;
-
-IV.- Los medios de prueba ofrecidos y admitidos serán valorados en su conjunto por el Magistrado instructor, atendiendo a las reglas de la lógica y de la experiencia.
-
-Cuando por el enlace lógico de las pruebas rendidas y de las presunciones formadas, el Magistrado instructor adquiriera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en las fracciones anteriores, debiendo fundar razonadamente esta parte de su sentencia.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 12 DE AGOSTO DE 2024)</small>
 
 ### CAPITULO XII. DE LA AUDIENCIA DEL JUICIO
 
@@ -1707,19 +2645,95 @@ Cuando por el enlace lógico de las pruebas rendidas y de las presunciones forma
 
 ###### Artículo 82.
 
-La audiencia del juicio deberá ser presidida, bajo pena de nulidad, por el Magistrado de la Sala Ordinaria o el Magistrado de la Sala Especializada en materia de Responsabilidad Administrativa según sea el caso o por quien los supla legalmente, y tiene por objeto:
+Serán sujetos de responsabilidad administrativa, los servidores públicos que en el desempeño de su cargo o comisión incurran en actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el desempeño de sus funciones, empleos, cargos o comisiones, debiendo ser sancionados por la autoridad competente.
 
-I.- Desahogar en términos de esta Ley las pruebas que, debidamente ofrecidas y admitidas, así lo requieran;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
 
-II.- Conocer cualquier cuestión incidental que se plantee en la misma audiencia; y
+Las sanciones consistirán en amonestación, suspensión, destitución e inhabilitación temporal o definitiva, así como en sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos y omisiones.
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2024)</small>
 
-III.- Recibir los alegatos que se formulen por escrito o de forma verbal y breve.
+Las faltas administrativas graves que determinen las leyes, serán investigadas y substanciadas por el Órgano Superior de Fiscalización del Estado, y los respectivos órganos internos de control según corresponda, y serán resueltas por el Tribunal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
 
-La falta de asistencia de las partes no impedirá la celebración de la audiencia.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
-(ADICIONADO, P.O. 20 DE FEBRERO DE 2009) (F. DE E., P.O. 20 DE MARZO DE 2009)
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en su ley orgánica, sin perjuicio de las atribuciones del Órgano Superior de Fiscalización del Estado en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+Las leyes establecerán los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2024)</small>
+
+Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Estatal Especializada en Combate a la Corrupción a que se refiere esta Constitución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2024)</small>
+
+Artículo 82 A.- El Tribunal de Justicia Administrativa impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación temporal o definitiva para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales. Las personas morales serán sancionadas en los términos de este Artículo cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+Los procedimientos para la aplicación de las sanciones mencionadas en este Capítulo, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+
+Artículo 82 B.- El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de los tres Poderes, las dependencias, entidades y organismos constitucionales autónomos del Estado y sus Municipios, competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
+
+I.- La ley creará un Comité Coordinador del Sistema Estatal Anticorrupción, que estará integrado por los titulares de los organismos siguientes:
+
+a) Un representante del Comité de Participación Ciudadana del propio Sistema, quien lo presidirá;
+
+b) El titular del Órgano Superior de Fiscalización del Estado;
+
+c) El titular de la Fiscalía Estatal Especializada en Combate a la Corrupción;
+
+d) El titular de la secretaría del Ejecutivo del Estado, responsable del control interno;
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2025)</small>
+
+e) La persona titular de la Presidencia del Tribunal de Justicia Administrativa, y
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2025)</small>
+
+f) Una persona representante del Tribunal de Disciplina Judicial de Aguascalientes.
+
+g) (DEROGADO, P.O. 14 DE ABRIL DE 2025)
+
+II.- Corresponderá al Comité Coordinador del Sistema Estatal Anticorrupción, en los términos que determine la Ley:
+
+a) El establecimiento y adopción de mecanismos de coordinación con el Sistema Nacional Anticorrupción;
+
+b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
+
+c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes del Estado y los municipios;
+
+d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades del Estado y sus municipios en materia de fiscalización y control de los recursos públicos;
+
+e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia en el que se dé cuenta de las acciones anticorrupción, los riesgos identificados, los costos potenciales generados y los resultados de sus recomendaciones. Para este efecto deberán seguir las metodologías que emita el Sistema Nacional Anticorrupción; este informe será público y deberá remitirse al Sistema Nacional de referencia.
+
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité Coordinador del Sistema Estatal Anticorrupción sobre la atención que brinden a las mismas; y
+
+f) Tendrán acceso a la información pública necesaria, adecuada y oportuna para el mejor desempeño de sus funciones.
+
+III.- La ley creará el Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, el cual se integrará por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la misma ley;
+
+IV.- Se creará una Fiscalía Especializada en Combate a la Corrupción, dependiente de la Fiscalía General del Estado, la cual será competente para investigar y perseguir las conductas consideradas como hechos de corrupción que sancione la normatividad local, cuando no sea competencia de la Federación.
+
+La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será sancionada en los términos de la legislación penal aplicable.
+
+V.- El Órgano Superior de Fiscalización o los órganos de control interno respectivos, cuando detecten alguna irregularidad provocada por hechos de corrupción de acuerdo a la normatividad, deberá presentar la denuncia correspondiente ante la Fiscalía Especializada en Combate a la Corrupción.
+
+> <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMOSEPTIMO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
+
+CAPITULO DECIMOCTAVO
+
+Prevenciones Generales.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 82 Bis.
 
@@ -1741,13 +2755,9 @@ III.- Cuando las partes lo soliciten con cuarenta y ocho horas de anticipación 
 
 ###### Artículo 83.
 
-Abierta la audiencia el día y hora señalados para ello, el Magistrado, ante la fe del Secretario actuante, procederá al desahogo de la misma en el orden citado, para lo cual llamará a los litigantes, peritos, testigos y demás personas que por disposición de la Ley deban intervenir en el juicio y se determinará quiénes deban permanecer en la sala en que se celebra y quiénes en lugar separado para ser introducidos en su oportunidad.
+La Capital del Estado es la ciudad de Aguascalientes, y en ella deben radicar los Supremos Poderes.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
-
-Quienes asistan a la audiencia deberán permanecer respetuosamente y en silencio mientras no estén autorizados para exponer o deban responder a las preguntas que se le formulen. No podrán provocar molestia, ofensa o adoptar comportamiento intimidatorio o provocativo contrario al decoro, ni producir disturbios o expresar de modo alguno manifestaciones o sentimientos.
-
-(ADICIONADO, P.O. 20 DE FEBRERO DE 2009) (F. DE E., P.O. 20 DE MARZO DE 2009)
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 83 Bis.
 
@@ -1761,41 +2771,17 @@ III.- Cuando el Magistrado Instructor lo estime pertinente, sin perjuicio de las
 
 ###### Artículo 84.
 
-Respecto de las pruebas, la audiencia se sujetará a las siguientes reglas:
+Todos los servidores públicos, del Estado y Municipios antes de tomar posesión de sus puestos, protestarán ante quien corresponda, guardar y hacer guardar la Constitución General, la particular del Estado, las leyes emanadas de ambas y desempeñar fielmente sus deberes.
 
-I.- Se admitirán o desecharán las supervinientes que se ofrezcan, procediéndose, en el primer caso, a su desahogo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
-
-II.- El dictamen pericial deberá rendirse con la anticipación prevista en el párrafo segundo del Artículo 78 de esta Ley, perdiendo las partes el derecho de hacerlo con posterioridad. El Tribunal nombrará perito tercero en discordia en los casos en que los dictámenes periciales de las partes sean contradictorios, suspendiendo la audiencia en este caso. Los honorarios de este perito correrán por cuenta de las partes cuyos dictámenes estén en contradicción. Los peritos deberán asistir y ratificar su dictamen en la Audiencia, en caso contrario se desestimará el mismo cuando se trate de los peritos ofrecidos por las partes; por lo que hace al perito tercero en discordia se hará uso de los medios de apremio. Las partes, el Magistrado y los otros peritos podrán formular observaciones a los peritos y hacerles las preguntas que estimen pertinentes en relación con los puntos sobre los que dictaminen o con cualquiera de sus respuestas. El Magistrado calificará la pertinencia de las preguntas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
-
-III.- Las preguntas y las repreguntas que pudieran formular las partes a los testigos, deberán tener relación directa con los puntos controvertidos y estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El Magistrado deberá calificar los interrogatorios, desechando las preguntas o repreguntas improcedentes. La protesta y examen de los testigos se hará en presencia de las partes. El Magistrado podrá hacer las preguntas que considere necesarias.
-
-Las repreguntas podrán formularse por escrito antes de la declaración de los testigos, o incluso verbalmente durante el desahogo de la prueba, ya sea en primera o ulterior intervención.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-IV.- Si alguna de las partes objetare de falso un documento o firma, el Magistrado suspenderá la audiencia y podrá continuarla dentro de los cinco días siguientes, cuando se podrán presentar pruebas y contrapruebas en relación con la autenticidad del documento o firma objetados.
-
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
-
-Tratándose de la prueba pericial, testimonial, confesional por absolución de posiciones, o cualquiera otra que requiera de especial desahogo, la audiencia podrá suspenderse cuando medie causa justificada que impida su desahogo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 85.
 
-Desahogadas las pruebas correspondientes en la audiencia, se recibirán los alegatos que formulen las partes.
+Ningún individuo deberá desempeñar a la vez dos cargos de elección popular, pero el nombrado puede elegir entre ambos, el que quiera desempeñar.
+
+Tampoco podrán reunirse en una sola persona dos o más empleos publicos por los que se disfrute sueldo, exceptuando los del Ramo de Instrucción.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ### CAPITULO XIII. DE LA SENTENCIA
 
@@ -1805,83 +2791,21 @@ Desahogadas las pruebas correspondientes en la audiencia, se recibirán los aleg
 
 ###### Artículo 86.
 
-El Magistrado deberá dictar sentencia dentro de un plazo no mayor a veinte días hábiles, contados a partir de la fecha en que se hubiere concluido la audiencia, o a partir de que hubiere concluido el término de alegatos en los casos a que se refieren los Artículos 49 y 55 de esta Ley.
+Los servidores públicos de elección popular que sin causa justificada, o sin la correspondiente licencia faltaren en forma absoluta al desempeño de sus funciones quedarán privados de los derechos de ciudadano e inhabilitados para el desempeño de empleos públicos; por el tiempo de la duración normal de su encargo.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 87.
 
-Las sentencias deberán ser debidamente fundadas y motivadas, congruentes y exhaustivas.
+Los servidores públicos que entren a ejercer su encargo después del día señalado por esta Constitución o por las Leyes, como principio del período que les corresponde, sólo durarán en sus funciones el tiempo que les faltare para cumplir dicho período.
 
-Su redacción contendrá:
-
-I.- La fijación clara y precisa de los puntos controvertidos, así como el examen y valorización de las pruebas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
-
-II.- El análisis de la procedencia del juicio y de los conceptos de agravio consignados en la demanda, para cuyo orden de estudio deberán atenderse preferentemente aquellos que impliquen un mayor beneficio para el demandante;
-
-III.- Los fundamentos en que se apoyen para declarar fundada o infundada la pretensión para reconocer la validez o nulidad del acto impugnado; para absolver o para condenar y, en su caso, para determinar los efectos de la sentencia; y
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
-
-IV.- Los puntos resolutivos en los que se expresarán los actos cuya validez se reconozca o cuya nulidad se declare; la declaratoria de inaplicabilidad de una disposición administrativa de carácter general respecto del demandante; la reposición del procedimiento que se ordene; los términos de la modificación del acto impugnado o en su caso la condena que se decrete. Cuando se trate de omisiones o resoluciones que tengan relación con una afirmativa ficta, se deberá cuidar que los términos en que se decrete su configuración o la condena correspondiente nunca afecte derechos de terceros, se contravengan disposiciones de orden público o se cause un perjuicio al interés social.
-
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
-
-Los Magistrados podrán corregir los errores u omisiones que adviertan en la cita de los preceptos que se consideren violados.
-
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
-
-En la sentencia se podrán examinar en su conjunto los agravios, causales de improcedencia a fin de resolver conforme a derecho la legalidad o ilegalidad del acto en lo que se dirime o resuelva el fallo, teniendo la facultad de invocar hechos notorios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-Cuando en la sentencia se decrete el sobreseimiento del juicio o se reconozca la validez del acto o resolución impugnado, y en autos esté plenamente acreditada la falsedad de alguno de los hechos narrados bajo protesta de decir verdad en la demanda, o se advierta que el juicio fue promovido con el propósito de retrasar la solución del asunto del que emana el acto o resolución impugnado, de entorpecer la ejecución de éste o de obstaculizar la legal actuación de la autoridad; el Magistrado impondrá a la parte actora o a su representante, en su caso, a su abogado o a ambos, una multa equivalente al monto previsto en el Artículo 31, fracción II de esta Ley, sin perjuicio de la responsabilidad de otra índole que pudiera resultarles al respecto.
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 88.
 
-La sentencia definitiva podrá:
+Cuando por circunstancias imprevistas no pudiere instalarse el Congreso, ni el Gobernador tomar posesión de su cargo el día fijado por esta Constitución, lo harán luego que sea posible.
 
-I.- Reconocer la validez de la resolución o acto impugnados;
-
-II.- Declarar la nulidad de la resolución o acto impugnados;
-
-III.- Declarar la nulidad de la resolución o acto impugnados para determinados efectos, debiendo precisar con claridad la forma y términos en que la autoridad debe cumplirla, salvo que se trate de facultades discrecionales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-Cuando la nulidad declarada se deba a vicios de forma, respecto de un acto o resolución emitido por la autoridad demandada en uso de sus facultades discrecionales, la sentencia no obligará o impedirá a las autoridades competentes el ejercicio de dichas facultades; pero si la nulidad tiene su origen en cuestiones que atañen al fondo del acto, en los términos de las causales de ilegalidad establecidas en las fracciones IV y VI del Artículo 44 de esta Ley, y la autoridad demandada estima pertinente ejercer nuevamente sus facultades discrecionales, no deberá incurrir en las violaciones que originaron la nulidad declarada en la sentencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-Cuando en la sentencia de nulidad se reconozca un derecho subjetivo a favor del demandante, se deberá precisar con claridad la forma y términos en que la autoridad demandada debe cumplir la condena respectiva o restituir al actor en el goce del derecho afectado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-El Tribunal deberá precisar con claridad la forma y términos en que la autoridad debe cumplirla.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-Cuando se impugne una disposición administrativa de carácter general y el concepto de agravio relativo resulte fundado y suficiente, la declaratoria de nulidad que corresponda se circunscribirá al acto concreto de aplicación y por lo que hace a la disposición administrativa se hará la determinación de inaplicabilidad de la misma al demandante.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-Si se interpuso el recurso de revisión en el caso previsto en la fracción V del Artículo 90 de esta Ley, se suspenderá el efecto de la sentencia hasta que se dicte la resolución o se ponga fin a la controversia.
-
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 88 Bis.
 
@@ -1909,87 +2833,39 @@ Si se estima que la excitativa de justicia fue interpuesta sin motivo, se impond
 
 ###### Artículo 89.
 
-En los juicios contencioso administrativos proceden, en sus respectivos casos, los siguientes recursos:
+La Ley que aumente las dietas de los Diputados no podrá tener efecto, sino después de concluido el período constitucional correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Los servidores públicos del Estado y los Municipios, tienen la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública centralizada, desconcentrada, descentralizada estatal o municipal, y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
 
-I.- Revisión; y
+La violación a lo establecido en el presente Artículo será sancionada en la forma y términos que señalen las leyes.
 
-II.- Queja.
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+Artículo 89 A.- El diseño, ejecución, seguimiento y evaluación de las políticas implementadas por el Estado y los Municipios deberán garantizar el respeto a los principios de igualdad, equidad, igualdad sustantiva y paridad, previstos en la Ley.
 
-Quienes promuevan algunos de los recursos, deberán estar legitimados para su interposición y de ser necesario acreditarlo ante el Magistrado que lo resuelva, salvo que lo hayan hecho previamente en el juicio principal. De no cumplir con este requisito se hará la prevención que corresponda aplicando en lo conducente lo previsto en los artículos 47 y 51 de esta Ley; y de no cumplir se tendrá por no interpuesto el recurso.
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 90.
 
-El recurso de Revisión es competencia de la Sala Superior y es procedente contra las resoluciones de los Magistrados de las Salas Ordinarias que:
+Los recursos económicos de que dispongan el Estado y los Municipios, se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado o los Municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
-I.- Admitan, desechen o tengan por no interpuesta la demanda o la contestación;
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
-II.- Decreten o nieguen el sobreseimiento del juicio;
+Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado o los Municipios.
 
-III.- Admitan o nieguen la intervención del tercero perjudicado;
-
-IV.- Señalen el monto de las garantías o contragarantías;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
-
-V.- Resuelvan el juicio o la cuestión planteada, en el fondo, o decidan la materia de incidentes que no sean de previo y especial pronunciamiento;
-
-VI.- Concedan, nieguen, modifiquen o revoquen la suspensión de los actos impugnados; o
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
-
-VII.- Decidan la materia de los incidentes de previo y especial pronunciamiento previstos en el Artículo 62 de esta Ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
-
-VIII.- Impongan correcciones disciplinarias o medios de apremio; o
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
-
-IX.- Se dicten para la ejecución de la sentencia definitiva, en cuyo caso sólo podrá interponerse el recurso contra la última resolución dictada en el procedimiento respectivo, pudiendo impugnarse a la vez las demás violaciones cometidas durante ese procedimiento, que hubieren dejado sin defensa al recurrente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-La impugnación contra violaciones procesales que afecten las defensas del recurrente y trasciendan al sentido del fallo, o contra las demás resoluciones que se pronuncien durante el procedimiento; se hará valer como agravio en caso de que el agraviado por aquéllas interponga el recurso de revisión en términos de lo establecido en las fracciones V y VII de este precepto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 91.
 
-El recurso de revisión deberá ser interpuesto por escrito con expresión de agravios, dentro del término de diez días siguientes al en que surta efectos la notificación de la resolución que se impugna. Se presentará ante el Magistrado del que emane la resolución combatida con las copias necesarias para que éste corra traslado a las demás partes en el juicio y las emplazará para que dentro de igual término expongan ante la Sala Superior del Tribunal lo que a su derecho convenga, mediante argumentos tendientes a desvirtuar los agravios expuestos por el recurrente o a mejorar las consideraciones vertidas por el Magistrado en la resolución de que se trate. Cuando no se presenten las copias a que hace referencia este Artículo, el Magistrado formulará requerimiento al recurrente para que las exhiba en un plazo de 3 días, si no obstante el requerimiento no se presentaren las copias requeridas, el Magistrado remitirá el escrito del recurso a la Sala Superior quien lo tendrá por no interpuesto.
+En caso de que desaparecieren los Poderes Ejecutivo y Legislativo, el Supremo Tribunal de Justicia nombrará un Gobernador Provisional. Si desaparecieren todos los Poderes, será Gobernador Provisional el último Presidente del Supremo Tribunal de Justicia, a falta de éste, el último Secretario General de Gobierno o el último Presidente de la Mesa Directiva del Congreso del Estado, en el orden en que se mencionan.
 
-Cuando el escrito del recurso se haya presentado en una Sala que no corresponda, ésta deberá remitirlo a la Sala Ordinaria que emitió la resolución recurrida. En este caso, se considerará que el recurso fue interpuesto en la fecha de su presentación en la Sala que no correspondía.
-
-Emplazadas las partes, se remitirá el escrito del recurso y el expediente correspondiente a la Sala Superior del Tribunal para su resolución. Vencido el término para alegar, la Sala Superior deberá dictar su resolución en un plazo no mayor a veinte días hábiles, misma que deberá ser congruente con los agravios expresados por el recurrente, y en lo que corresponda se ajustará a lo dispuesto en los Artículos 87 y 88 de esta Ley.
-
-Si al resolver el recurso de revisión se consideran fundados los agravios expuestos por el recurrente, la Sala Superior analizará los argumentos expuestos por las demás partes, en cuanto tiendan a mejorar las consideraciones de la resolución impugnada.
-
-La Sala Superior, al resolver el recurso de revisión relativo a la suspensión de los actos impugnados, podrá analizar de oficio, por ser de orden público, que la concesión de la medida cautelar no cause perjuicio al interés social ni contravenga disposiciones de orden público.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 91 Bis.
 
@@ -2003,71 +2879,39 @@ La Sala Superior asumirá plenitud de jurisdicción cuando por haber resultado f
 
 ###### Artículo 92.
 
-El recurso de Queja es competencia de los Magistrados de las Salas Ordinarias y es procedente:
+El Gobernador Provisional a que se refiere el artículo anterior, inmediatamente convocará a elecciones, que se verificarán dentro del término de seis meses. Si la desaparición de los Poderes ocurriese después de lanzada la convocatoria o verificada la elección, el Gobernador Provisional sólo durará en funciones hasta que el nuevo Gobernador tome posesión de su cargo.
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
-
-I.- Por exceso o defecto en la ejecución del auto en que se haya concedido la suspensión del acto o procedimiento impugnado;
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
-
-II.- Por exceso o defecto en la ejecución de la sentencia del Magistrado, que haya declarado fundada la pretensión del actor;
-
-III.- Contra actos de las autoridades demandadas tendientes a repetir el acto o procedimiento anulado; y
-
-IV.- Cuando las autoridades demandadas no provean sobre la suspensión del acto combatido dentro del término legal, nieguen o rechacen la garantía ofrecida o reinicien la ejecución. En estos casos, al promoverse el recurso deberá de acompañarse el documento en que conste la solicitud de la suspensión, el ofrecimiento de la garantía o el reinicio de la ejecución.
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
-
-El recurso deberá interponerse por escrito ante el Magistrado instructor que conozca o hubiere conocido del juicio, dentro de diez días hábiles contados a partir del día hábil siguiente al en que haya surtido efectos la notificación de la resolución recurrida, o tenga conocimiento del acto u omisión de que se duele, acompañando una copia del recurso para cada una de las partes.
-
-Admitido el recurso, el Magistrado requerirá a la autoridad contra la que se hubiere interpuesto para que rinda informe justificado sobre la materia de la queja, dentro del plazo de cinco días hábiles, y dentro de los cinco días hábiles siguientes dictará la resolución que proceda. La falta de los informes establece la presunción de ser ciertos los hechos respectivos y hará incurrir a las autoridades omisas en una multa de cinco a sesenta días del salario mínimo vigente en la ciudad de Monterrey, que impondrá de plano el Magistrado que conozca de la queja al resolver el recurso.
-
-Interpuesto el recurso y a solicitud de parte, el Magistrado mandará suspender la ejecución hasta en tanto se dicte resolución.
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ### CAPITULO XV. DE LA EJECUCION DE SENTENCIA
 
 ###### Artículo 93.
 
-Causan ejecutoria:
+El Gobernador Provisional a que se refieren los dos artículos anteriores, ejercerá las funciones que esta Constitución concede al Congreso en materia electoral, y nombrará en su caso Magistrados Interinos del Supremo Tribunal de Justicia.
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMOCTAVO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
 
-I.- La sentencias consentidas expresamente por las partes, sus representantes legítimos o sus mandatarios con poder bastante;
+CAPITULO DECIMONONO
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+De las Reformas a la Constitución.
 
-II.- Las sentencias no impugnadas o de las que habiéndolo sido, se haya declarado desierto o improcedente el medio de impugnación o el promovente se haya desistido de él, o no se continuare el recurso en el término legal; y
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
-
-III.- Las pronunciadas en revisión.
-
-No será necesario hacer declaración alguna para que las resoluciones causen ejecutoria en los términos del Artículo anterior.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 94.
 
-Cuando haya causado ejecutoria una sentencia en que se haya declarado la nulidad, el Magistrado de la Sala Ordinaria o en su caso el Magistrado de la Sala Especializada en materia de Responsabilidades Administrativas lo comunicaran por oficio y sin demora alguna a las autoridades que hayan dictado, ejecutado, tratado de ejecutar el acto impugnado o sustituir a la autoridad que lo hizo, así como a cualquier otra autoridad que, por sus funciones, tenga que intervenir en la ejecución, para su debido cumplimiento, previniéndolas para que informen, dentro del término de quince días sobre el cumplimiento que den a la sentencia respectiva.
+La presente Constitución puede ser adicionada o reformada con los requisitos siguientes:
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+I.- Iniciada la reforma y aprobada por los votos de las dos terceras partes del número total de Diputados, se pasará a los Ayuntamientos con los debates que hubiere provocado, para su discusión; si la mayoría de los Ayuntamientos aprobaren la reforma o adición, ésta será declarada parte de la Constitución;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+II.- Si transcurrieren quince días hábiles desde la fecha en que los Ayuntamientos hayan recibido el proyecto de reforma, sin que se hubiere recibido en el Congreso el resultado de la votación, se entenderá que aceptan la reforma o adición.
+
+> <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMONONO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
 
 ###### Artículo 95.
 
-En aquellos casos en que la sentencia decrete la nulidad del acto reclamado y dicha nulidad implique la cuantificación de alguna prestación económica para resarcir al accionante en su derecho violentado con el acto nulificado, la cuantificación de tales prestaciones deberá de tramitarse mediante un incidente de liquidación promovido a instancia de parte e incluso de oficio.
-
-Al incidente de referencia la parte actora deberá de adjuntar la propuesta detallada de la liquidación correspondiente y los elementos de prueba que soporten las cantidades propuestas.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2018)</small>
-
-Para el caso de que el actor no cuente con los elementos de prueba necesarios para la elaboración de su propuesta, deberá ser por escrito mención de dicha circunstancia, señalando las documentales e informes que requiere para tal efecto, así como la autoridad que cuenta con los mismos, a fin del (sic) que el magistrado de la sala ordinaria o en su caso el Magistrado de la Sala Especializada en materia de Responsabilidad Administrativa, requieran a dicha autoridad para que remita tal información, en un término de hasta 10 días hábiles, a partir de que surta efecto la notificación del requerimiento realizado, bajo el apercibimiento de que en caso de que no acatarlo se aplicaran en su contra los medios de apremio que establece esta Ley.
-
-Una vez que obre en autos la información requerida se le dará vista al accionante para que en un término de 5-cinco días formule la propuesta de liquidación correspondiente.
-
-Formulada que haya sido la propuesta de liquidación, se le dará vista a la parte demandada para que dentro del término de 5-cinco días hábiles formule las objeciones que considere pertinentes a la misma, aportando las probanzas que apoyen su oposición. Una vez desahogada la vista anterior, o bien transcurrido que haya sido el término concedido para ello, el Magistrado resolverá de plano el incidente dentro de los 5-cinco días siguientes.
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+Esta Constitución conservará su vigor, aunque un trastorno público interrumpa su observancia. Si se estableciere un Gobierno contrario a sus principios, luego que el pueblo recobre su libertad volverá a ser acatada, y con sujeción a la misma, y a las leyes a que diere origen, serán juzgados los que la hubieren infringido.
 
 ## ARTICULOS TRANSITORIOS.
 
@@ -3345,11 +4189,21 @@ T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
 
-La presente Ley entrará en vigor a los sesenta días hábiles después de su publicación en el Periódico Oficial del Estado.
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado y serán dadas a conocer mediante Bando Solemne simultáneamente en todas las Cabeceras Municipales del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-Se abroga la Ley Orgánica del Tribunal de lo Contencioso Administrativo y el Código Procesal del Tribunal de lo Contencioso Administrativo publicados en el Periódico Oficial del Estado de fecha 5 de julio de 1991.
+El ejercicio constitucional de la H. LIII Legislatura del Estado, concluirá al instalarse legalmente la H. LIV Legislatura.
+
+P.O. 11 DE MARZO DE 1990.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 26 DE AGOSTO DE 1990.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 24 DE FEBRERO DE 1991.
 
 ###### ARTICULO PRIMERO.
 
@@ -3461,143 +4315,49 @@ P.O. 20 DE AGOSTO DE 1995.
 
 ###### ARTICULO TERCERO.
 
-Solo para los efectos de lo dispuesto en este artículo, la substanciación y resolución de los juicios que estén pendientes de resolución a la fecha de inicio de la vigencia de esta Ley, cualquiera que sea su etapa procesal, continuarán tramitándose conforme a las previsiones de la Ley Orgánica del Tribunal de lo Contencioso Administrativo y el Código Procesal del Tribunal de lo Contencioso Administrativo que se abrogan en virtud de esta Ley.
+El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
-Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Estado.
+P.O. 18 DE JUNIO DE 1978.
 
-Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital a los veintidós días del mes de Enero de mil novecientos noventa y siete.- PRESIDENTE: DIP. ARMANDO LEAL RIOS.- DIP. SECRETARIO: JUAN DE D. ESPARZA MARTINEZ.- DIP. SECRETARIO: HERIBERTO CANO QUINTANILLA.- Rúbricas.
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los siete días del mes de Febrero de mil novecientos noventa y siete.
+P.O. 3 DE FEBRERO DE 1980.
 
-EL C. GOBERNADOR SUBSTITUTO DEL ESTADO
+UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
-BENJAMIN CLARIOND REYES-RETANA
+P.O. 10 DE ENERO DE 1982.
 
-EL C. SECRETARIO GENERAL DE GOBIERNO
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
-JUAN FRANCISCO RIVERA BEDOYA
+P.O. 25 DE SEPTIEMBRE DE 1983.
 
-El C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
-XAVIER DORIA GONZALEZ
+P.O. 9 DE OCTUBRE DE 1983.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+PRIMERO.- La H. LII Legislatura del Estado ejercerá su encargo del 16 de septiembre de 1983, al 31 de octubre de 1986.
 
-P.O. 10 DE SEPTIEMBRE DE 2003.
+SEGUNDO.- Dentro del término de un año contado a partir de la iniciación de vigencia del presente Decreto, deberán reformarse las leyes secundarias que provean al exacto cumplimiento de este Decreto.
 
-Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+P.O. 29 DE ENERO DE 1984.
 
-P.O. 14 DE JULIO DE 2004.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+P.O. 2 DE JUNIO DE 1985.
 
-Artículo Segundo.- Las autoridades responsables de los Tribunales del Poder Judicial y del Poder Ejecutivo expedirán los lineamientos mediante los cuales, sin contravenir las disposiciones legales, se facilitará a las personas que lo soliciten el acceso a la información que obre en su poder.
+DECRETO NÚMERO 54, QUE REFORMA EL ARTÍCULO 68 FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
-P.O. 27 DE DICIEMBRE DE 2005.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
-Artículo Primero.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+P.O. 2 DE JUNIO DE 1985.
 
-Artículo Segundo.- El Tribunal de lo Contencioso Administrativo conforme a su presupuesto y con cargo a él, ejercerá las acciones que resulten necesarias para la asignación del personal y presupuesto para el funcionamiento de la Dirección de Orientación y Consulta Ciudadana.
+DECRETO NÚMERO 55, QUE REFORMA EL ARTÍCULO 52 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
-P.O. 2 DE NOVIEMBRE DE 2007.
+Unico.- El Supremo Tribunal de Justicia, sin perjuicio de lo dispuesto en el Artículo 30, Fracciones I y II de la Constitución Política del Estado, deberá promover dentro del plazo de nueve meses contados a partir de la vigencia del presente Decreto, la reforma de la Ley Orgánica del Poder Judicial en la parte conducente para proveer al exacto cumplimiento del presente Decreto. Mientras transcurre dicho plazo el Supremo Tribunal de Justicia acordará sobre la forma de su funcionamiento.
 
-Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+P.O. 16 DE JULIO DE 1989.
 
-Artículo Segundo.- Los procedimientos actualmente en trámite en el Tribunal de lo Contencioso Administrativo, que sustenten la competencia de éste en la disposición que se deroga mediante el presente Decreto, continuarán su desahogo hasta su total resolución en dicho Tribunal.
-
-P.O. 31 DE DICIEMBRE DE 2008.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 20 DE FEBRERO DE 2009.
-
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Segundo.- El funcionamiento integral para la aplicación del Título Tercero "Del Procedimiento Oral", de la Ley de Justicia Administrativa para el Estado de Nuevo León, estará supeditado a la suficiencia presupuestal con motivo del requerimiento de ampliación de personal, instalaciones, equipamiento y capacitación. Su aplicación gradual se hará conforme lo determine el Pleno del Tribunal de lo Contencioso Administrativo.
-
-Tercero.- Los juicios que se encuentren en trámite pendientes de resolución, continuarán su substanciación conforme a las disposiciones vigentes en el momento de su inicio, excepto cuando voluntariamente las partes se sometan a los métodos alternos para la solución de conflictos.
-
-P.O. 17 DE JUNIO DE 2011.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 1 DE FEBRERO DE 2012.
-
-Primero.- El presente Decreto entrará en vigor una vez que esté vigente la reforma constitucional correlativa y que hayan sido nombrados y hayan rendido su protesta los Magistrados que integrarán la Sala Superior del Tribunal de Justicia Administrativa.
-
-Para tal efecto, dentro de los diez días contados a partir del siguiente a la entrada en vigor de la reforma constitucional correlativa, el Titular del Ejecutivo del Estado deberá presentar al Congreso, de conformidad con lo establecido en la Constitución Política local y en el presente Decreto, sus propuestas de las tres personas que el Congreso habrá de considerar para la designación de los tres Magistrados que integrarán la Sala Superior del Tribunal de Justicia Administrativa; así como la propuesta de la persona que habrá de considerarse para la Magistratura de la otra Sala Ordinaria que aún no ha iniciado su funcionamiento.
-
-Segundo.- Al tomar posesión de su cargo los Magistrados de la Sala Superior del Tribunal de Justicia Administrativa, procederán a elegir de inmediato, de entre ellos, al Magistrado que fungirá como Presidente del Tribunal y de la propia Sala Superior, hecho lo cual, quien actualmente preside el Tribunal de lo Contencioso Administrativo y la respectiva Sala Superior, pasará de inmediato a integrarse a la Magistratura de la Primera Sala Ordinaria, quedando sujeto, al igual que la titular de la Segunda Sala Ordinaria, a la eventual ratificación en el ejercicio de su cargo por parte del Congreso del Estado. De no ser ratificadas, se procederá a nombrar a los Magistrados que los sustituirán, de conformidad con lo establecido en las disposiciones legales aplicables.
-
-Tercero.- Las actuales Magistradas del Tribunal de lo Contencioso Administrativo en funciones, en caso de ser ratificadas por el Congreso del Estado, o en su caso quienes sean nombrados en su sustitución, pasarán a integrarse a la Magistratura de las Salas Ordinarias del Tribunal de Justicia Administrativa en los términos del Presente Decreto, según lo determine la Sala Superior.
-
-Cuarto.- Cuando en una Ley, Reglamento o cualquier otro ordenamiento se haga referencia al Tribunal de lo Contencioso Administrativo, se entenderá que, en lo conducente, lo es al Tribunal de Justicia Administrativa.
-
-Quinto.- El nombramiento como Magistrados de lo Contencioso Administrativo recaído con anterioridad en quienes actualmente ostentan dicho encargo, se entenderá referido, en caso de su eventual ratificación, como Magistrado del Tribunal de Justicia Administrativa.
-
-Sexto.- Los juicios que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones legales vigentes al momento de su inicio.
-
-P.O. 2 DE ABRIL DE 2012.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación.
-
-P.O. 12 DE ABRIL DE 2013.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
-
-SEGUNDO.- En las leyes a que se haga referencia a la Ley de Justicia Administrativa para el Estado de Nuevo León, se entenderá que se refiere a la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
-
-TERCERO.- (DEROGADO, P.O. 25 DE JUNIO DE 2014)
-
-P.O. 25 DE JUNIO DE 2014.
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
-
-P.O. 27 DE JUNIO DE 2014.
-
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Segundo.- La operación de lo dispuesto en el artículo 102, relativo a la implementación de la oralidad en los juicios contenciosos administrativos, se aplicará de manera gradual y sucesiva considerando como factor el tipo de actos administrativos impugnados, conforme a las siguientes reglas:
-
-> <small>(F. DE E. 28 DE JUNIO DE 2014)</small>
-
-I. A partir de los 90 días naturales siguientes al de la publicación del presente Decreto en el Periódico Oficial del Estado, iniciará la operación del procedimiento oral en los juicios contenciosos administrativos que versen sobre:
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2014)</small>
-
-1. Sanciones no corporales por infracción a Leyes y Reglamentos Estatales y Municipales en materia de: Ecología y protección al medio ambiente; de servicios públicos de limpia, recolección y traslado de residuos sólidos; protección civil; prevención, combate, abuso, consumo y comercialización de bebidas alcohólicas; espectáculos; anuncios; comercio y de vialidad y tránsito.
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2014)</small>
-
-2. Asuntos relativos a la separación, remoción, baja, cese o cualquier otra forma de terminación de funciones, de los servidores públicos, para los cuales sea competente este Tribunal; se exceptúa de lo anterior, aquellos asuntos en que la separación, remoción, baja, cese o cualquier otra forma de terminación de funciones de los servidores públicos haya sido impuesta como una sanción por responsabilidad administrativa, en cuyo caso el juicio seguirá las reglas establecidas en el Título Segundo de la presente ley.
-
-II. A partir de los noventa días naturales siguientes al de la publicación del presente Decreto en el Periódico Oficial del Estado, iniciará la operación del procedimiento oral en los juicios contenciosos administrativos que versen sobre los asuntos que se refieren en el artículo 17, fracción III de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
-
-III.- (DEROGADA, P.O. 18 DE ENERO DE 2017)
-
-Tercero.- (DEROGADO, P.O. 18 DE ENERO DE 2017)
-
-Cuarto.- Para los juicios contenciosos administrativos que versen sobre actos que de acuerdo con las reglas anteriores aún no les fuera aplicable la vía oral prevista en la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León, se seguirá aplicando lo previsto en el título Segundo, titulado "DEL PROCEDIMIENTO ORDINARIO" de la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
-
-Quinto.- En los casos en que el Magistrado advierta de la demanda la impugnación de diversos actos y que contra algunos de ellos no proceda el procedimiento oral, la controversia se sujetará a lo previsto en el Título Segundo de la presente ley, salvo que se trate de actos conexos en cuyo caso prevalecerá la vía vigente para el caso conexo.
-
-Sexto.- El Titular del Poder Ejecutivo del Estado al presentar la iniciativa de Ley de Egresos del Estado especificará los conceptos y montos destinados para la implementación del juicio oral en la materia administrativa.
-
-Séptimo.- Los procedimientos en trámite en el Tribunal de Justica Administrativa del Estado, seguirán su procedimiento hasta su sentencia conforme a las disposiciones jurídicas vigentes al momento de su inicio.
-
-Octavo.- (DEROGADO, P.O. 18 DE ENERO DE 2017)
-
-P.O. 26 DE SEPTIEMBRE DE 2014.
-
-Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
-
-P.O. 18 DE ENERO DE 2017.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 185. SE REFORMAN POR MODIFICACIÓN LOS ARTÍCULOS 5 PRIMER PÁRRAFO, 9 ÚLTIMO PÁRRAFO, 18 FRACCIONES XVII Y XVIII, DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEÓN”.]
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 19 DE ENERO DE 2018.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 304.- SE ADICIONA EL ARTÍCULO 6º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3605,17 +4365,7 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 
 P.O. 8 DE AGOSTO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 347. SE REFORMAN LOS ARTÍCULOS 2°, 5° EN SU PRIMER PÁRRAFO, 6°, 8°, 9° EN SU PÁRRAFO QUINTO, 14, LA FRACCIÓN IX DEL INCISO A) DEL ARTÍCULO 20, 23 FRACCIÓN II, 82 EN SU PRIMER PÁRRAFO, 94, 95 EN SU TERCER PÁRRAFO, 96 FRACCIÓN II DEL SEGUNDO PÁRRAFO; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 1°, UN ARTÍCULO 6° BIS, EL CONTENIDO DE LA FRACCIÓN VII DEL ARTÍCULO 17, UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 25, Y UN TITULO SEXTO DENOMINADO "DE LA SALA ESPECIALIZADA EN MATERIA DE RESPONSABILIDAD ADMINISTRATIVA" CON UN CAPÍTULO ÚNICO, QUE COMPRENDERÁ LOS ARTÍCULOS 191, 192, 193, 194, 195, 196 Y 197 DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN”.]
-
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Segundo.- Se deroga cualquier disposición en contrario a lo establecido por esta Ley.
-
-Tercero.- El Congreso del Estado, contará con 30 días a partir de la entrada en vigor del presente Decreto, para emitir la convocatoria para la elección del Magistrado de la Sala Especializada en materia de Responsabilidad Administrativa.
-
-Cuarto.- El Ejecutivo del Estado, mediente (sic) la Secretaría de Finanzas y Tesorería General del Estado, deberá dotar de la suficiencia presupuestal al Tribunal de Justicia Administrativa del Estado, en las partidas presupuestales con cargo a él, para ejercer las acciones que resulten necesarias para la asignación del personal y el presupuesto necesario para el funcionamiento de la Sala Especializada en materia de Responsabilidad Administrativa.
-
-Quinto.- El Reglamento Interior del Tribunal que se encuentre vigente a la entrada en vigor de la Ley, seguirá aplicándose en aquello que no se oponga a ésta, hasta en tanto la Sala Superior de dicho Tribunal no realice las adecuaciones necesarias para lo cual tendrá un término de 90 días a partir de la entrada en vigor del presente Decreto.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 342.- SE REFORMA Y ADICIONA EL ARTÍCULO 7° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES; CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -5196,3 +5946,139 @@ P.O. 25 DE ABRIL DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 – Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 197.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 207.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos del artículo 94 de la Constitución Político (sic) del Estado de Aguascalientes.
+
+P.O. 25 DE AGOSTO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 237.- SE ADICIONA UN PÁRRAFO SEXTO, RECORRIÉNDOSE LOS SUBSECUENTES, AL ARTÍCULO 4º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos legales del artículo 94 de la Constitución Política del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Para dar cumplimiento a las disposiciones del presente Decreto, las autoridades en el Estado, deberán llevar a cabo las adecuaciones normativas necesarias, en un término que no exceda de 180 días hábiles posteriores a su entrada en vigor.
+
+P.O. 30 DE SEPTIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 250.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos del artículo 94 de la Constitución Política del Estado de Aguascalientes.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 259.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos del artículo 94 de la Constitución Política del Estado de Aguascalientes.
+
+P.O. 4 DE DICIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 271.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 353.- SE REFORMA EL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354.- SE ADICIONAN LOS PÁRRAFOS AL ARTÍCULO 7o. A DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos del artículo 94 de la Constitución Política del Estado de Aguascalientes.
+
+P.O. 16 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 339.- SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos del artículo 94 de la Constitución Política del Estado de Aguascalientes.
+
+P.O. 16 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 340.- SE REFORMAN LAS FRACCIONES XXVIII Y XXIX DEL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos del artículo 94 de la Constitución Política del Estado de Aguascalientes.
+
+P.O. 26 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 398.- SE REFORMAN LOS PÁRRAFOS PRIMERO, SEGUNDO Y LA FRACCIÓN V Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 27 B DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El inicio del proceso para nombrar a la persona titular del órgano superior de fiscalización del congreso del Estado, será con la publicación de la convocatoria que emita el congreso.
+
+P.O. 26 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 399 POR EL QUE “SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 59 A (SIC) DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Una vez cubiertos en su totalidad los extremos legales y procedimentales previstos en el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Lo dispuesto en el presente Decreto será aplicable al periodo del cargo de la persona titular de la Fiscalía General del Estado de Aguascalientes en funciones, a partir de la entrada en vigor del mismo, en términos del artículo transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efecto todas aquellas disposiciones que se opongan al mismo.
+
+P.O. 18 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 425.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos del artículo 94 de la Constitución Política del Estado de Aguascalientes.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 455.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 473.- SE ADICIONA EL ARTÍCULO 7° C A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
