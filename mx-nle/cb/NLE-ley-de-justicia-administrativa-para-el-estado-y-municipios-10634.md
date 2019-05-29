@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2018-03-09"
+last_updated: "2019-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NLE"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 9 DE MARZO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -124,8 +122,6 @@ III. Una vez agotados los plazos establecidos en la fracción anterior, dentro d
 IV. El Magistrado de la Sala Especializada en materia de Responsabilidades Administrativas será electo de entre los integrantes de la terna, previa comparecencia ante la Comisión Anticorrupción, en votación por las dos terceras partes de los integrantes de la Legislatura. De no alcanzarse dicha votación, se procederá a una segunda votación entre los dos integrantes que hayan obtenido más votos. En caso de empate entre quienes no obtuvieron el mayor número de votos, habrá una votación para definir por mayoría quién entre dichos dos candidatos participará en la segunda votación. Si persiste el empate, se resolverá por insaculación entre ellos.
 
 Si en la segunda votación, ninguno de los dos candidatos obtiene el voto de las dos terceras partes de los integrantes de la Legislatura, se procederá a la insaculación de entre estos últimos dos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -326,8 +322,6 @@ La Sala Superior estará integrada por tres Magistrados, uno de los cuales será
 De conformidad con lo establecido en el Artículo 4o. de esta Ley, las sesiones de la Sala Superior serán públicas, excepto aquéllas en que se afecte la moral o el interés público, o la Ley así lo exija. Para sesionar será necesaria la presencia de los tres Magistrados que integran la Sala Superior o, en su caso, de quienes deban sustituirlos.
 
 Las resoluciones de la Sala Superior serán aprobadas por unanimidad o por mayoría de votos de sus integrantes, quienes no podrán abstenerse de votar sino cuando tengan excusa o impedimento legal. El Magistrado que disintiere de la mayoría podrá formular voto particular, el cual se insertará al final de la resolución respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -577,8 +571,6 @@ III.- Arresto hasta por treinta y seis horas; y
 
 IV.- Auxilio de la fuerza pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 31 Bis 1.
@@ -593,13 +585,9 @@ Una cuota será el salario mínimo general diario que rija en el área geográfi
 
 Pueden emplear también el uso de la fuerza pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 Si las faltas pudieren constituir delitos, se procederá contra quienes las cometieren, con arreglo a lo dispuesto en la legislación Penal del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -616,8 +604,6 @@ Se entenderá por corrección disciplinaria:
 I.- El apercibimiento o prevención.
 
 II.- La multa que se duplicará en caso de reincidencia y cuyo monto se fijará de acuerdo con el artículo 31 Bis 1 de esta ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -647,8 +633,6 @@ b) El particular a quien favorezca la resolución cuya modificación o nulidad p
 
 III.- Siempre será parte la Dependencia del Ejecutivo del Estado a quien determine la Ley, si la resolución o acto impugnado es de naturaleza administrativa estatal; y el Secretario de Finanzas y Tesorero General del Estado, si es de naturaleza fiscal estatal. En caso de que la resolución o acto impugnado provenga de una autoridad municipal, la representación de ésta corresponderá al Síndico del Ayuntamiento, observándose lo previsto en la Ley Orgánica de la Administración Pública Municipal del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 La parte mencionada en el párrafo precedente podrá contestar la demanda, ofrecer pruebas, expresar alegatos, hacer valer causales de improcedencia o sobreseimiento, formular todo tipo de objeciones e interrogatorios, promover incidentes o recursos y realizar cualquier intervención en beneficio y protección de los intereses jurídicos de la administración pública estatal o municipal, en su caso; y por la naturaleza de su participación no le será aplicable lo dispuesto en el Artículo 53 de esta Ley.
@@ -662,8 +646,6 @@ IV.- Los terceros perjudicados. Tienen este carácter:
 a) La persona que pudiera ser afectada de manera directa la esfera jurídica de sus derechos por la resolución del Tribunal al tener un derecho incompatible con las pretensiones deducidas por el demandante; o
 
 b) Quien se apersone en el juicio como coadyuvante de las autoridades administrativas o fiscales, con un interés jurídico directo en la modificación o anulación de un acto favorable a un particular, o en la confirmación de uno que le es desfavorable.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -689,8 +671,6 @@ En el caso de que no obstante el requerimiento efectuado por la Sala, no se desi
 
 Las resoluciones serán notificadas, personalmente, dentro del tercer día hábil a partir de aquél en que se pronunciaron; por lista, al día hábil siguiente al de ser emitidas; o por correo certificado con acuse de recibo, en cuyo caso la pieza postal deberá ser depositada en el correo al día hábil siguiente de que se dictó la resolución.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 Cuando se trate de citación para la práctica de alguna actuación procesal, se hará por lo menos con tres días hábiles de anticipación.
@@ -699,15 +679,11 @@ Cuando se trate de citación para la práctica de alguna actuación procesal, se
 
 Desde el primer escrito que presenten, los particulares deberán señalar domicilio en cualquier municipio del área metropolitana de Monterrey, comunicando el cambio del mismo para que se hagan las notificaciones personales indicadas en esta Ley. En caso de que los particulares no cumplan con las anteriores prevenciones, las notificaciones que deban ser personales se harán en la forma prevista en la fracción IV del Artículo 38 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 37.
 
 Para los efectos de esta Ley, son días hábiles todos los del año excepto los sábados y domingos; el 1° de enero, el primer lunes de febrero en conmemoración del 5 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, el 1° y 5 de mayo, el 16 de septiembre, el 12 de octubre, el tercer lunes de noviembre en conmemoración del 20 de noviembre, el 25 de diciembre así como aquéllos en los que se suspendan las labores por acuerdo de la Sala Superior o por determinación de otras disposiciones legales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -777,21 +753,15 @@ Cuando el afectado se haga sabedor de una providencia cuya notificación fue omi
 
 El cómputo de los términos se sujetará a las reglas siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2012)</small>
 
 I.- Los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales, contados de las cero a las veinticuatro horas;
 
 II.- Comenzarán a correr desde el día hábil siguiente al en que surta efectos la notificación respectiva; serán improrrogables y se incluirá en ellos el día del vencimiento; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE FEBRERO DE 2012)</small>
 
 III.-Se contarán por días hábiles.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -821,23 +791,17 @@ V.- La falta de contestación a una petición del particular dentro del término
 
 VI.- Arbitrariedad, desproporción, desigualdad, desvío de poder, injusticia manifiesta o cualquier otra causa similar, tratándose de imposición de sanciones o la aplicación de facultades discrecionales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 Por ser de orden público el Tribunal podrá hacer valer de oficio la incompetencia de la autoridad que emitió la resolución impugnada o para ordenar o tramitar el procedimiento del que deriva, así como la ausencia total de fundamentación y motivación en dicha resolución y la falta de firma autógrafa del servidor público emisor del acto.
 
 ### CAPITULO V. DE LA DEMANDA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 45.
 
 La demanda deberá formularse por escrito y presentarse directamente ante la Oficialía de Partes del Tribunal, o por correo certificado cuando el actor tenga su domicilio fuera de los municipios de Apodaca, Juárez, General Escobedo, García, Guadalupe, Monterrey, San Pedro Garza García, San Nicolás de los Garza y Santa Catarina, Nuevo León, que integran el área metropolitana de Monterrey, en cuyo caso se tomará como fecha de presentación de la demanda, la del depósito de la misma ante la oficina de correos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -849,21 +813,15 @@ I.- El nombre y domicilio del actor o, en su caso, de quien promueva en su nombr
 
 II.- La autoridad o autoridades demandadas, precisas y específicas, que hayan dictado, ordenado, ejecutado, tratado de ejecutar u omitido la resolución o acto impugnado; o el nombre y domicilio del particular demandado en el caso previsto en el segundo párrafo del artículo 46 de esta Ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
 III.- El acto, procedimiento o resolución que de cada autoridad se impugne;
 
 IV.- La fecha de notificación o en la que se tuvo conocimiento de la existencia del acto impugnado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
 V.- El nombre y domicilio del tercero perjudicado, así como los motivos por los cuales se considera que debe ser llamado con ese carácter.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -874,8 +832,6 @@ Tratándose de la redacción de los agravios, no será necesario emplear formali
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
 VII.- Las pruebas que el actor ofrezca y que sustenten la demanda, expresando la relación de la prueba ofrecida con la litis planteada, precisando claramente el hecho o hechos que se pretende acreditar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -890,8 +846,6 @@ VIII.- La pretensión que se deduce; y
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2009)</small>
 
 IX.- La manifestación de someterse o no a algún método alterno para la solución de conflictos, observando para tal efecto lo dispuesto en el artículo 3° de la Ley de Métodos Alternos para la Solución de Conflictos del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -927,8 +881,6 @@ II.- Contra el acto principal del que derive la resolución impugnada en la dema
 
 III.- Cuando el actor manifieste Bajo Protesta de Decir Verdad que no conoce el contenido de la resolución que pretende impugnar y así lo exprese en su demanda, debiendo señalar la autoridad a quien le atribuye, su notificación o su ejecución. En este caso al contestar la demanda la autoridad acompañará constancia de la resolución administrativa y de su notificación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 Tratándose de negativa ficta, cuando la autoridad demandada allegue al juicio constancia de la resolución negativa expresa, así como de su notificación, el demandante tendrá el derecho de ampliar la demanda dentro del término de quince días establecido en este Artículo, o podrá promover un nuevo juicio dentro de los treinta días hábiles siguientes a aquel en que surta efectos la notificación de la contestación a través de la cual se dio a conocer la resolución negativa expresa de la misma, cuando en un juicio primigenio iniciado con motivo de combatir una negativa ficta la autoridad demandada acompañe constancia de resolución negativa expresa y de su notificación acompañadas por la autoridad demandada al producir contestación.
@@ -946,8 +898,6 @@ I.- El documento que acredite su personalidad cuando no gestione a nombre propio
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
 II.- El documento en que conste el acto impugnado, así como el acta de su notificación. Copia de la instancia no resuelta por la autoridad demandada, cuando se impugne la negativa ficta o la omisión de expedir la constancia de reconocimiento de la afirmativa ficta, así como cuando se impugne dicha constancia por no satisfacer la pretensión del particular;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -979,8 +929,6 @@ No encontrándose irregularidades en la demanda o subsanadas éstas, se admitir�
 
 Desde el auto en que admita la demanda, y en cualquier otro momento del juicio hasta antes de dictar sentencia, el Magistrado instructor impulsará la conciliación entre las partes, para lo cual se procederá de la siguiente forma:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 I.- Cuando alguna de las partes del juicio manifieste su deseo de resolver la controversia a través de algún procedimiento previsto en la Ley de Métodos Alternos para la Solución de Conflictos del Estado, el Magistrado dará vista a la contraparte a fin de que manifieste si está de acuerdo con someter el conflicto a esa alternativa; en caso de ser afirmativa la respuesta, el Magistrado emitirá un acuerdo ordenando remitir a la Dirección de Orientación y Consulta Ciudadana, copia de las constancias necesarias del expediente para que proceda el titular de dicha Dirección en los términos de lo previsto en el Artículo 23 Bis fracción IV de esta Ley.
@@ -994,8 +942,6 @@ III. Si las partes comparecieren en la fecha fijada para la Audiencia de concili
 Las partes podrán comparecer a la audiencia optativamente en forma personal, por medio de representante o de abogado autorizado. Los autorizados invariablemente deberán contar con facultades expresas para someter la solución del conflicto a un método alterno, y suscribir en su caso el convenio correspondiente.
 
 Las personas morales comparecerán por medio de sus representantes legales. Los mayores incapaces y los menores comparecerán por conducto de sus representantes legales o tutores, en éstos casos el Magistrado proveerá de oficio lo necesario a efecto de no dejarlos en estado de indefensión con motivo del acreditamiento de los mismos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1029,27 +975,19 @@ II. Las causales de improcedencia y sobreseimiento que conozcan;
 
 III. Se referirá concretamente a cada uno de los hechos que el demandante le impute de manera expresa, afirmándolos, negándolos, expresando que los ignora por no ser propios o exponiendo como ocurrieron según sea el caso; si no produce contestación a todos los hechos, se tendrán por ciertos los que el actor les impute de manera precisa, salvo que por las pruebas rendidas o por hechos notorios resulten desvirtuados;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
 IV. Los argumentos por medio de los cuales se demuestra la ineficacia de los conceptos de agravio;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2012)</small>
 
 V. Cuando el acto impugnado sea una negativa ficta, la autoridad demandada deberá expresar en la contestación los motivos y fundamentos de dicha negativa, pudiendo referirse al fondo de la solicitud de origen, o bien, al incumplimiento de sus requisitos procesales o de forma, inclusive cuestiones de orden público; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE FEBRERO DE 2012)</small>
 
 VI. Las pruebas que ofrezca, expresando claramente el hecho o hechos que trata de acreditar con las mismas, así como las razones por las que considera que demostrarán sus afirmaciones.
 
 Tratándose de pruebas documentales, se deberá precisar la foja y el párrafo del instrumento donde conste la información con la que demostrará los hechos que pretende probar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1071,19 +1009,13 @@ II.- Las pruebas documentales que ofrezca, cuando las pruebas no obren en poder 
 
 III.- El cuestionario que deban desahogar los peritos y el interrogatorio que deberán contestar los testigos, debidamente firmados por el demandado, expresando los nombres y domicilios de los mismos, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2012)</small>
 
 IV.- En su caso, constancia del acto, procedimiento o resolución impugnados y de las respectivas notificaciones, cuando el demandante haya manifestado bajo protesta de decir verdad que no se le entregaron; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE FEBRERO DE 2012)</small>
 
 V.- Una copia de la contestación de la demanda y sus anexos, para el actor y, en su caso, para el tercero perjudicado. Si los anexos exceden de veinticinco fojas, quedarán en la Secretaría a la vista de las partes para su consulta.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1115,8 +1047,6 @@ Si en el caso del párrafo anterior alguna de las partes objetare de falso un do
 
 ### CAPITULO VII. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 56.
@@ -1126,8 +1056,6 @@ El juicio ante el Tribunal es improcedente:
 I.- Contra actos de autoridades de otras entidades federativas o dependientes de la Administración Pública Federal;
 
 II.- Contra actos legislativos del Congreso, sentencias o resoluciones del Poder Judicial, laudos de autoridades del trabajo y resoluciones de autoridades electorales y agrarias;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1145,8 +1073,6 @@ VIII.- Cuando hayan cesado los efectos del acto impugnado o éste no pueda surti
 
 IX.- En los demás casos en que la improcedencia resulte de alguna disposición legal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 Las causales de improcedencia, en su caso, se harán valer de oficio o a propuesta de las partes, ya sea en primera o en segunda instancia.
@@ -1162,8 +1088,6 @@ II.- Cuando durante el juicio apareciere o sobreviniere alguna de las causas de 
 III.- Cuando la autoridad demandada satisfaga la pretensión del actor o revoque incondicional, plena y absolutamente el acto impugnado;
 
 IV.- Cuando el demandante muera durante el juicio, si el acto impugnado sólo afecta sus derechos personales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1193,8 +1117,6 @@ Estas causas determinan la excusa forzosa de los Magistrados.
 
 Las partes podrán recusar a los Magistrados, a los Secretarios o a los peritos del Tribunal, cuando estén en alguno de los casos de impedimento a que se refiere el Artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 60.
@@ -1206,8 +1128,6 @@ El Magistrado que teniendo impedimento para conocer de un negocio no haga la man
 ###### Artículo 61.
 
 Las partes en juicio podrán, dentro del término de ocho días a partir de que comparezcan ante el Tribunal, denunciar cualquiera de los impedimentos a que se refiere el Artículo 58. El impedimento se decidirá de plano, previo informe que rinda el recusado en la inteligencia de que las partes, al denunciar, ofrecerán las pruebas en que funden su petición, sin que sean admisibles pruebas testimoniales, periciales o la confesión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1319,8 +1239,6 @@ En todos los casos, el Magistrado podrá requerir al interesado o a las partes e
 
 Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el interesado deberá solicitarlo dentro de los treinta días siguientes a que cause ejecutoria la sentencia; si no lo hiciere dentro de ese término, se procederá a la devolución o cancelación de la garantía. La solicitud correspondiente se tramitará en la vía incidental.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 70 Bis.
@@ -1371,15 +1289,11 @@ No se citará para audiencia en aquellos casos en que las pruebas ofrecidas y ad
 
 La parte que asista tardíamente a una audiencia se incorporará al procedimiento en la etapa en que ésta se encuentre, sin perjuicio de la facultad del Juez en materia de conciliación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 73.
 
 Los Magistrados podrán decretar en todo tiempo el desahogo de cualquier diligencia probatoria que estimen necesaria para mejor proveer.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1400,8 +1314,6 @@ Las pruebas que lo ameriten se desahogarán en la audiencia del juicio. Si no fu
 ###### Artículo 77.
 
 Cuando el desahogo de las pruebas deba realizarse fuera del Area Metropolitana de Monterrey, el Magistrado de la causa por conducto del Tribunal Superior de Justicia lo solicitará al Juez de Primera Instancia más próximo al de la localidad referida, girándole el exhorto correspondiente, acompañando los documentos, interrogatorios o cuestionarios correspondientes, debidamente calificados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1469,8 +1381,6 @@ La falta de asistencia de las partes no impedirá la celebración de la audienci
 
 La audiencia de pruebas y alegatos deberá celebrarse en la hora y fecha señaladas para tal efecto y únicamente podrá diferirse en los supuestos siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 I.- Cuando, en atención a lo establecido en el párrafo segundo del Artículo 35 y por el último párrafo del Artículo 78 de esta Ley, alguna de las partes no sea enterada oportunamente del auto en que se señale la fecha y hora para la celebración de la audiencia, o del auto mediante el cual se pongan a la vista los dictámenes rendidos por los peritos;
@@ -1478,8 +1388,6 @@ I.- Cuando, en atención a lo establecido en el párrafo segundo del Artículo 3
 II.- En caso fortuito o de fuerza mayor; y
 
 III.- Cuando las partes lo soliciten con cuarenta y ocho horas de anticipación siempre y cuando sea por causa grave, plenamente justificada y acordada favorablemente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1509,21 +1417,15 @@ Respecto de las pruebas, la audiencia se sujetará a las siguientes reglas:
 
 I.- Se admitirán o desecharán las supervinientes que se ofrezcan, procediéndose, en el primer caso, a su desahogo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
 II.- El dictamen pericial deberá rendirse con la anticipación prevista en el párrafo segundo del Artículo 78 de esta Ley, perdiendo las partes el derecho de hacerlo con posterioridad. El Tribunal nombrará perito tercero en discordia en los casos en que los dictámenes periciales de las partes sean contradictorios, suspendiendo la audiencia en este caso. Los honorarios de este perito correrán por cuenta de las partes cuyos dictámenes estén en contradicción. Los peritos deberán asistir y ratificar su dictamen en la Audiencia, en caso contrario se desestimará el mismo cuando se trate de los peritos ofrecidos por las partes; por lo que hace al perito tercero en discordia se hará uso de los medios de apremio. Las partes, el Magistrado y los otros peritos podrán formular observaciones a los peritos y hacerles las preguntas que estimen pertinentes en relación con los puntos sobre los que dictaminen o con cualquiera de sus respuestas. El Magistrado calificará la pertinencia de las preguntas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
 III.- Las preguntas y las repreguntas que pudieran formular las partes a los testigos, deberán tener relación directa con los puntos controvertidos y estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El Magistrado deberá calificar los interrogatorios, desechando las preguntas o repreguntas improcedentes. La protesta y examen de los testigos se hará en presencia de las partes. El Magistrado podrá hacer las preguntas que considere necesarias.
 
 Las repreguntas podrán formularse por escrito antes de la declaración de los testigos, o incluso verbalmente durante el desahogo de la prueba, ya sea en primera o ulterior intervención.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1533,8 +1435,6 @@ IV.- Si alguna de las partes objetare de falso un documento o firma, el Magistra
 
 Tratándose de la prueba pericial, testimonial, confesional por absolución de posiciones, o cualquiera otra que requiera de especial desahogo, la audiencia podrá suspenderse cuando medie causa justificada que impida su desahogo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 85.
@@ -1542,8 +1442,6 @@ Tratándose de la prueba pericial, testimonial, confesional por absolución de p
 Desahogadas las pruebas correspondientes en la audiencia, se recibirán los alegatos que formulen las partes.
 
 ### CAPITULO XIII. DE LA SENTENCIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1558,8 +1456,6 @@ Las sentencias deberán ser debidamente fundadas y motivadas, congruentes y exha
 Su redacción contendrá:
 
 I.- La fijación clara y precisa de los puntos controvertidos, así como el examen y valorización de las pruebas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1579,8 +1475,6 @@ Los Magistrados podrán corregir los errores u omisiones que adviertan en la cit
 
 En la sentencia se podrán examinar en su conjunto los agravios, causales de improcedencia a fin de resolver conforme a derecho la legalidad o ilegalidad del acto en lo que se dirime o resuelva el fallo, teniendo la facultad de invocar hechos notorios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 Cuando en la sentencia se decrete el sobreseimiento del juicio o se reconozca la validez del acto o resolución impugnado, y en autos esté plenamente acreditada la falsedad de alguno de los hechos narrados bajo protesta de decir verdad en la demanda, o se advierta que el juicio fue promovido con el propósito de retrasar la solución del asunto del que emana el acto o resolución impugnado, de entorpecer la ejecución de éste o de obstaculizar la legal actuación de la autoridad; el Magistrado impondrá a la parte actora o a su representante, en su caso, a su abogado o a ambos, una multa equivalente al monto previsto en el Artículo 31, fracción II de esta Ley, sin perjuicio de la responsabilidad de otra índole que pudiera resultarles al respecto.
@@ -1595,31 +1489,21 @@ II.- Declarar la nulidad de la resolución o acto impugnados;
 
 III.- Declarar la nulidad de la resolución o acto impugnados para determinados efectos, debiendo precisar con claridad la forma y términos en que la autoridad debe cumplirla, salvo que se trate de facultades discrecionales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 Cuando la nulidad declarada se deba a vicios de forma, respecto de un acto o resolución emitido por la autoridad demandada en uso de sus facultades discrecionales, la sentencia no obligará o impedirá a las autoridades competentes el ejercicio de dichas facultades; pero si la nulidad tiene su origen en cuestiones que atañen al fondo del acto, en los términos de las causales de ilegalidad establecidas en las fracciones IV y VI del Artículo 44 de esta Ley, y la autoridad demandada estima pertinente ejercer nuevamente sus facultades discrecionales, no deberá incurrir en las violaciones que originaron la nulidad declarada en la sentencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 Cuando en la sentencia de nulidad se reconozca un derecho subjetivo a favor del demandante, se deberá precisar con claridad la forma y términos en que la autoridad demandada debe cumplir la condena respectiva o restituir al actor en el goce del derecho afectado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 El Tribunal deberá precisar con claridad la forma y términos en que la autoridad debe cumplirla.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 Cuando se impugne una disposición administrativa de carácter general y el concepto de agravio relativo resulte fundado y suficiente, la declaratoria de nulidad que corresponda se circunscribirá al acto concreto de aplicación y por lo que hace a la disposición administrativa se hará la determinación de inaplicabilidad de la misma al demandante.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1633,13 +1517,9 @@ Las partes podrán formular Excitativa de Justicia ante el Presidente del Tribun
 
 Recibida la Excitativa de Justicia, el Presidente del Tribunal solicitará el informe al Magistrado de que se trate, quien deberá rendirlo en un plazo de 5 días. Si se encuentra fundada la excitativa se otorgará un plazo que no excederá de 15 días para que el Magistrado dicte la sentencia correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 La excitativa quedará sin materia si durante su trámite el Magistrado instructor dicta sentencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1647,15 +1527,11 @@ Si se estima que la excitativa de justicia fue interpuesta sin motivo, se impond
 
 ### CAPITULO XIV. DE LOS RECURSOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 89.
 
 En los juicios contencioso administrativos proceden, en sus respectivos casos, los siguientes recursos:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1671,8 +1547,6 @@ Quienes promuevan algunos de los recursos, deberán estar legitimados para su in
 
 El recurso de Revisión es competencia de la Sala Superior y es procedente contra las resoluciones de los Magistrados de las Salas Ordinarias que:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
 I.- Admitan, desechen o tengan por no interpuesta la demanda o la contestación;
@@ -1683,39 +1557,27 @@ III.- Admitan o nieguen la intervención del tercero perjudicado;
 
 IV.- Señalen el monto de las garantías o contragarantías;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
 V.- Resuelvan el juicio o la cuestión planteada, en el fondo, o decidan la materia de incidentes que no sean de previo y especial pronunciamiento;
 
 VI.- Concedan, nieguen, modifiquen o revoquen la suspensión de los actos impugnados; o
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
 VII.- Decidan la materia de los incidentes de previo y especial pronunciamiento previstos en el Artículo 62 de esta Ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
 VIII.- Impongan correcciones disciplinarias o medios de apremio; o
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
 IX.- Se dicten para la ejecución de la sentencia definitiva, en cuyo caso sólo podrá interponerse el recurso contra la última resolución dictada en el procedimiento respectivo, pudiendo impugnarse a la vez las demás violaciones cometidas durante ese procedimiento, que hubieren dejado sin defensa al recurrente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 La impugnación contra violaciones procesales que afecten las defensas del recurrente y trasciendan al sentido del fallo, o contra las demás resoluciones que se pronuncien durante el procedimiento; se hará valer como agravio en caso de que el agraviado por aquéllas interponga el recurso de revisión en términos de lo establecido en las fracciones V y VII de este precepto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1730,8 +1592,6 @@ Emplazadas las partes, se remitirá el escrito del recurso y el expediente corre
 Si al resolver el recurso de revisión se consideran fundados los agravios expuestos por el recurrente, la Sala Superior analizará los argumentos expuestos por las demás partes, en cuanto tiendan a mejorar las consideraciones de la resolución impugnada.
 
 La Sala Superior, al resolver el recurso de revisión relativo a la suspensión de los actos impugnados, podrá analizar de oficio, por ser de orden público, que la concesión de la medida cautelar no cause perjuicio al interés social ni contravenga disposiciones de orden público.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1837,23 +1697,17 @@ Las sanciones mencionadas en este Capítulo también serán procedentes cuando n
 
 ### CAPITULO XVI. DE LOS CRITERIOS DE INTERPRETACION
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 98.
 
 Los criterios de interpretación de la Ley, sustentados por la Sala Superior, serán obligatorios para el Tribunal, siempre que lo resuelto se sustente en tres sentencias no interrumpidas por otra en contrario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 99.
 
 Para la modificación de los criterios a que se refiere el Artículo anterior, se observarán las mismas reglas establecidas para su formación, pero perderá su obligatoriedad un criterio sustentado en tres resoluciones cuando se dicte una nueva sentencia en contrario por la Sala Superior, siempre y cuando se establezcan en ella las razones que motivaron el cambio de criterio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1862,8 +1716,6 @@ Para la modificación de los criterios a que se refiere el Artículo anterior, s
 Cuando los Magistrados de las Salas Ordinarias sustenten tesis contradictorias, cualesquiera de ellas o las partes que intervinieron en los asuntos correspondientes, podrán denunciar la contradicción ante la Sala Superior. Al recibir la denuncia se designará al Magistrado que formule la ponencia respectiva, a fin de decidir si efectivamente existe la contradicción, y en su caso, cuál será el criterio de interpretación que deba adoptarse.
 
 La resolución que se dicte en estos casos no afectará las situaciones jurídicas concretas derivadas de las sentencias contradictorias que fueron pronunciadas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -1911,6 +1763,14 @@ Contestada la demanda, o transcurrido el plazo para hacerlo, el Magistrado fijar
 
 Si en el escrito de contestación se hiciere valer alguna cuestión incidental, el Magistrado proveerá lo conducente en el auto respectivo, otorgándole el término de tres días a la contraparte del incidentista para que manifieste lo que a su derecho convenga, mandando en su caso, preparar las pruebas ofrecidas que así lo requieran.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+###### Artículo 106 Bis.
+
+En el supuesto de que las pruebas ofrecidas por las partes, no requieran de un desahogo especial, se procederá a la calificación y desahogo de las mismas, en el mismo auto se les propondrá a las partes la solución de los conflictos, a través de los métodos alternos, en el entendido de que dicho derecho, se podrá solicitar mientras no se dicte sentencia, así también se concederá a las partes, el término común de diez días, para que formulen sus alegatos por escrito, transcurrido dicho término, con alegatos o sin ellos, quedará el juicio en estado de sentencia, la cual deberá dictarse bajo los términos del Capítulo XIII del Título Segundo de esta Ley.
+
+En caso de que las partes hicieran valer una cuestión incidental, o bien alguna de las mismas, objetaran de falso un documento o firma, dentro de los primeros cinco días del término para alegar, se señalará fecha para audiencia, en que deberán desahogarse las pruebas y formularse los alegatos por escrito, respecto de la objeción, hecho lo cual, quedará el juicio en estado de sentencia, si ya ha concluido el término para alegar.
+
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 107.
@@ -1954,8 +1814,6 @@ El Magistrado que preside el debate podrá limitar el ingreso del público a una
 ###### Artículo 112.
 
 El Magistrado ejercerá el poder de policía y disciplina de la audiencia, pudiendo ordenar el desalojo de personas por razones de orden, higiene, decoro o eficacia del debate, pudiendo solicitar en su caso el auxilio de la fuerza pública.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -2014,8 +1872,6 @@ III.- Cuando se trate de testigo o intérprete contumaz que fueren oportuna y de
 Si la suspensión tiene como causa el consentimiento de las partes para someter la controversia a un método alterno de solución de conflictos, la audiencia se suspenderá, por una sola vez, por un término improrrogable de veinte días hábiles.
 
 En todos estos casos, el Magistrado decidirá la suspensión y anunciará el día y la hora en que continuará la audiencia; ello valdrá como citación para todos los intervinientes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -2179,19 +2035,13 @@ I.- Proponer a las partes la solución del conflicto a través de los métodos a
 
 II.- Conocer y resolver las cuestiones incidentales que en dicha Audiencia surjan;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
 III.- Desahogar en términos de esta Ley, las pruebas que, debidamente ofrecidas y admitidas, así lo requieran; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
 IV.- Escuchar los alegatos que verbalmente formulen las partes del juicio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 V.- (DEROGADA, P.O. 1 DE FEBRERO DE 2012)
 
@@ -2234,8 +2084,6 @@ Dentro de la Audiencia de Juicio se desahogarán las pruebas y las partes formul
 ###### Artículo 143.
 
 Las partes no podrán invocar, leer, ni incorporar como prueba al procedimiento oral, antecedente alguno relacionado con la proposición, discusión, aceptación o rechazo, procedencia, o revocación de un método alterno hecho valer.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -2344,8 +2192,6 @@ Es instrumento público el registro del procedimiento oral; probará el modo en 
 ###### Artículo 153.
 
 Los documentos que presenten las partes podrán ser impugnados vía incidental en los términos previstos en los artículos 164 y 165 de esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 154.
 
@@ -2463,8 +2309,6 @@ V.- Desahogadas las pruebas, el Magistrado escuchará los alegatos de las partes
 
 Las cuestiones incidentales planteadas por las partes, notoriamente dilatorias, frívolas e improcedentes, se desecharán de plano y además se sancionará con multa de cincuenta a trescientas cuotas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 166.
@@ -2544,8 +2388,6 @@ Página Electrónica: son las pantallas de acceso de los sistemas computacionale
 Acción Electrónica: es cualquier consulta, envío de información o interacción que se realicen en las páginas electrónicas del Tribunal Virtual Administrativo del Tribunal de lo Contencioso Administrativo.
 
 Notificación Electrónica: proceso mediante el cual se dan a conocer las actuaciones jurisdiccionales realizadas dentro del juicio contencioso administrativo a los usuarios del Tribunal Virtual Administrativo que así lo hayan solicitado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
@@ -3012,3 +2854,11 @@ Tercero.- El Congreso del Estado, contará con 30 días a partir de la entrada e
 Cuarto.- El Ejecutivo del Estado, mediente (sic) la Secretaría de Finanzas y Tesorería General del Estado, deberá dotar de la suficiencia presupuestal al Tribunal de Justicia Administrativa del Estado, en las partidas presupuestales con cargo a él, para ejercer las acciones que resulten necesarias para la asignación del personal y el presupuesto necesario para el funcionamiento de la Sala Especializada en materia de Responsabilidad Administrativa.
 
 Quinto.- El Reglamento Interior del Tribunal que se encuentre vigente a la entrada en vigor de la Ley, seguirá aplicándose en aquello que no se oponga a ésta, hasta en tanto la Sala Superior de dicho Tribunal no realice las adecuaciones necesarias para lo cual tendrá un término de 90 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 29 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 139. SE REFORMA POR ADICIÓN DE UN ARTÍCULO 106 BIS, DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN".]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Todos los asuntos que se encuentran en trámite, ante la Tercera Sala Ordinaria del Tribunal de Justicia Administrativa del Estado de Nuevo León, en el que no se haya señalado fecha, para la prueba preliminar y estén bajo el supuesto contenido en el artículo 106 Bis, se tramitará en los términos de éste.
