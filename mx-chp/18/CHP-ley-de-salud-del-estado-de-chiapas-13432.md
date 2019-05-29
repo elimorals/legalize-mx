@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-salud-del-estado-de-chiapas-13432"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-12"
-last_updated: "2017-06-07"
+last_updated: "2019-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE SALUD DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 12 de agosto de 1998.
 
@@ -365,9 +365,13 @@ XI.- EN COORDINACION CON LAS AUTORIDADES EDUCATIVAS Y CON LA COLABORACION DE LAS
 
 XII.- IMPULSAR LA INVESTIGACION Y DEMAS ACTIVIDADES CIENTIFICAS Y TECNOLOGICAS EN EL CAMPO DE LA SALUD;
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-XIII.- LAS DEMAS QUE SE REQUIERAN PARA EL CUMPLIMIENTO DE LOS OBJETIVOS DEL SISTEMA ESTATAL DE SALUD.
+XIII.- EN COORDINACION CON LAS AUTORIDADES EDUCATIVAS DISEÑAR, PROPONER, DESARROLLAR Y APLICAR PROGRAMAS DE PREVENCION DEL SUICIDIO EN NIÑAS, NIÑOS, ADOLESCENTES Y JOVENES; Y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XIV.- LAS DEMAS QUE SE REQUIERAN PARA EL CUMPLIMIENTO DE LOS OBJETIVOS DEL SISTEMA ESTATAL DE SALUD.
 
 ###### ARTICULO 10.
 
@@ -1417,7 +1421,7 @@ XII.- FETO.- AL PRODUCTO DE LA CONCEPCION A PARTIR DE LA DECIMOTERCERA SEMANA DE
 
 XIII.- ORGANO.- A LA ENTIDAD MORFOLOGICA COMPUESTA POR LA AGRUPACION DE TEJIDOS DIFERENTES QUE CONCURREN AL DESEMPEÑO DE LOS MISMOS TRABAJOS FISIOLOGICOS;
 
-XIV.- PRODUCTO.- A TODO TEJIDO O SUSTANCIA EXTRUIDA (SIC), EXPELIDA POR EL CUERPO HUMANO COMO RESULTANTE DE PROCESOS FISIOLOGICOS NORMALES. SERAN CONSIDERADOS PRODUCTOS, PARA EFECTOS DE ESTE TITULO, LA PLACENTA Y LOS ANEXOS DE LA PIEL;
+XIV.- PRODUCTO.- A TODO TEJIDO O SUSTANCIA EXTRUIDA, EXPELIDA POR EL CUERPO HUMANO COMO RESULTANTE DE PROCESOS FISIOLOGICOS NORMALES. SERAN CONSIDERADOS PRODUCTOS, PARA EFECTOS DE ESTE TITULO, LA PLACENTA Y LOS ANEXOS DE LA PIEL;
 
 XV.- RECEPTOR.- A LA PERSONA QUE RECIBE PARA SU USO TERAPEUTICO UN ORGANO, TEJIDO, CELULAS O PRODUCTOS;
 
@@ -2769,7 +2773,7 @@ II.- LAVANDERIA: EL ESTABLECIMIENTO DEDICADO AL LAVADO DE ROPA POR CUALQUIER PRO
 
 ###### ARTICULO 213.
 
-LAS LAVANDERIAS Y TINTORERIAS DEBERAN UTILIZAR SUSTANCIAS BIODEGRADABLES, SIN PERJUICIO DE OBSERVAR LOS PROCEDIMIENTOS PREVIOS AL DESAGÜE QUE ESTIPULE AL RESPECTO A LA LEY AMBIENTAL DEL ESTADO DE CHIAPAS.
+LAS LAVANDERIAS Y TINTORERIAS DEBERAN UTILIZAR SUSTANCIAS BIODEGRADABLES, SIN PERJUICIO DE OBSERVAR LOS PROCEDIMIENTOS PREVIOS AL DESAGÜE QUE ESTIPULE AL RESPECTO LA LEY AMBIENTAL DEL ESTADO DE CHIAPAS.
 
 ###### ARTICULO 214.
 
@@ -3689,7 +3693,7 @@ III.- ORIGINAL DE LA RESOLUCION IMPUGNADA, EN SU CASO.
 
 ###### ARTICULO 298.
 
-EN LA TERMINACION (SIC) DEL RECURSO SOLO SE ADMITIRAN LAS PRUEBAS QUE SE OFREZCAN EN LOS TERMINOS DEL ARTICULO 304 DE ESTA LEY SIN QUE EN NINGUN CASO SEA ADMISIBLE LA CONFESIONAL.
+EN LA TERMINACION DEL RECURSO SOLO SE ADMITIRAN LAS PRUEBAS QUE SE OFREZCAN EN LOS TERMINOS DEL ARTICULO 304 DE ESTA LEY SIN QUE EN NINGUN CASO SEA ADMISIBLE LA CONFESIONAL.
 
 ###### ARTICULO 299.
 
@@ -3876,3 +3880,13 @@ Artículo Segundo. El Ejecutivo del Estado, proveerá las modificaciones corresp
 Artículo Tercero. A la entrada en vigencia del presente Decreto, la Secretaria de Salud, suspenderá de manera definitiva el otorgamiento de nuevos permisos, autorizaciones o licencias para el funcionamiento de establecimientos con venta de bebidas alcohólicas; con excepción a lo establecido en el artículo 133 bis, de la presente Ley.
 
 Las licencias vigentes a la promulgación del presente decreto tendrán la naturaleza de patentes, por lo que se renovarán automáticamente en cada ejercicio fiscal previo pago de los derechos correspondientes dentro de los tres primeros meses de cada año.
+
+P.O. 29 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 186 POR EL QUE SE REFORMA LA FRACCIÓN XIII Y SE ADICIONA LA FRACCIÓN XIV DEL ARTÍCULO 9 DE LA LEY DE SALUD DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Las acciones que realicen las dependencias de la Administración Pública del Estado para dar cumplimiento al presente Decreto, se sujetarán a los programas presupuestarios en la materia y se cubrirán con los recursos asignados en el Presupuesto de Egresos del ejercicio fiscal de que se trate, por lo que no se autorizará recursos adiciones (sic) para el presente ejercicio fiscal.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se oponga (sic) a lo dispuesto en el Presente Decreto.
