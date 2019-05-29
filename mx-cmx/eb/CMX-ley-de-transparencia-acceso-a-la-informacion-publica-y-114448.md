@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-acceso-a-la-informacion-publica-y-114448"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-06"
-last_updated: "2018-11-01"
+last_updated: "2019-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114448&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2016-05-06"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE MAYO DE 2019.
 
 Ley publicada en el No. Bis de la Gaceta Oficial de la Ciudad de México, el viernes 6 de mayo de 2016.
 
@@ -64,11 +64,15 @@ Tiene por objeto establecer los principios, bases generales y procedimientos par
 
 Toda la información generada o en posesión de los sujetos obligados es pública, considerada un bien común de dominio público, accesible a cualquier persona en los términos y condiciones que establece esta Ley y demás normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 3.
 
-El Derecho Humano de Acceso a la Información Pública comprende solicitar, investigar, difundir, buscar y recibir información.
+El Derecho Humano de Acceso a la Información Pública comprende solicitar, investigar, difundir, buscar y recibir información. Toda la información generada, obtenida, adquirida, transformada o en posesión de los sujetos obligados es pública y accesible a cualquier persona en los términos y condiciones que se establezcan en la presente Ley, en los tratados internacionales de los que el Estado mexicano sea parte, en la Ley General y la normatividad aplicable en sus respectivas competencias; sólo podrá ser clasificada excepcionalmente como reservada temporalmente por razones de interés público, en los términos dispuestos por esta Ley.
 
-Toda la información generada, obtenida, adquirida, transformada o en posesión de los sujetos obligados es pública y accesible a cualquier persona en los términos y condiciones que se establezcan en la presente Ley, en los tratados internacionales de los que el Estado mexicano sea parte, en la Ley General y la normatividad aplicable en sus respectivas competencias; sólo podrá ser clasificada excepcionalmente como reservada temporalmente por razones de interés público, en los términos dispuestos por esta Ley.
+> <small>(ADICIONADO, G.O. 29 DE MAYO DE 2019)</small>
+
+El derecho fundamental a la información pública de los pueblos originarios y barrios originarios y comunidades indígenas residentes asentadas en la Ciudad de México, se realizará en su lengua, cuando así lo soliciten.
 
 ###### Artículo 4.
 
@@ -266,6 +270,10 @@ Es obligación del Instituto otorgar las medidas pertinentes para asegurar el ac
 
 Está prohibida toda discriminación que menoscabe o anule la transparencia o acceso a la información pública en posesión de los sujetos obligados.
 
+> <small>(ADICIONADO, G.O. 29 DE MAYO DE 2019)</small>
+
+En consecuencia, el Instituto deberá instrumentar las acciones necesarias para que los sujetos obligados y en la medida de su capacidad presupuestal, atiendan y resuelvan los asuntos en la lengua de los pueblos y barrios originarios, y comunidades indígenas residentes de la Ciudad de México.
+
 ###### Artículo 13.
 
 Toda la información pública generada, obtenida, adquirida, transformada o en posesión de los sujetos obligados es pública y será accesible a cualquier persona, para lo que se deberán habilitar todos los medios, acciones y esfuerzos disponibles en los términos y condiciones que establezca esta Ley, la Ley General, así como demás normas aplicables.
@@ -274,7 +282,9 @@ Toda la información pública generada, obtenida, adquirida, transformada o en p
 
 En la generación, publicación y entrega de información se deberá garantizar que ésta sea accesible, confiable, verificable, veraz, oportuna y atenderá las necesidades del Derecho de Acceso a la Información Pública de toda persona.
 
-Los sujetos obligados buscarán, en todo momento, que la información generada tenga un lenguaje sencillo para cualquier persona y se procurará, en la medida de lo posible, su accesibilidad y traducción a lenguas indígenas.
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2019)</small>
+
+Los sujetos obligados buscarán, en todo momento, que la información generada tenga un lenguaje sencillo para cualquier persona, para tal efecto, se coordinarán con las instancias correspondientes para garantizar, su accesibilidad y traducción a la lengua indígena de los pueblos y barrios originarios, y comunidades indígenas residentes de la Ciudad de México cuando así se solicite.
 
 ###### Artículo 15.
 
@@ -3704,7 +3714,7 @@ QUINTO.- Respecto a la entrada en funciones de los nuevos Comisionados Ciudadano
 
 G.O. 1 DE NOVIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO Y DIVERSOS DE LA LEY ORGANICA DEL CONGRESO DE LA CIUDAD DE MÉXICO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO Y DIVERSOS DE LA LEY ORGANICA DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
@@ -3721,3 +3731,11 @@ a) Nombrará a dos Comisionados, uno de cada género, cuyo mandato comprenderá 
 b) Nombrará a dos Comisionadas o Comisionados, cuyo mandato comprenderá seis años y observando que en todo momento se garantice la equidad de género en el Pleno del Instituto.
 
 QUINTO.- De conformidad con el segundo párrafo del artículo Trigésimo Tercero de la Constitución de la Ciudad de México la actual comisionada en funciones del Instituto de Transparencia, Acceso a la Información Pública y Protección de datos Personales de la Ciudad de México, permanecerá en el cargo hasta el día 11 de noviembre del año 2020, fecha en que concluye el periodo para el que fue nombrada y en consecuencia, se elegirá una comisionada o un comisionado por el periodo de siete años.
+
+G.O. 29 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 3; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 12 Y; SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 14 DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en el Diario Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su públicación en el Diario Oficial de la Ciudad de México.
