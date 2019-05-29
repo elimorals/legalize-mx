@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2019-05-15"
+last_updated: "2019-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -2259,11 +2259,11 @@ En virtud del divorcio los cónyuges recobrarán su entera capacidad para contra
 
 La muerte de uno de los cónyuges pone fin al juicio de divorcio y los herederos del extinto tienen los mismos derechos y obligaciones que tendrían si no hubiera existido dicho juicio.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 294.
 
-Ejecutoriada la sentencia de divorcio el Juez de Primera Instancia remitirá copia de ella al Oficial del Registro Civil, ante quien se celebró el matrimonio, para que levante el acta correspondiente y haga las anotaciones respectivas y, además, para que publique el extracto de la resolución durante quince días en las tablas destinadas al efecto.
+Ejecutoriada la sentencia de divorcio o decretado el divorcio en términos del artículo 664 quinquies del Código de Procedimientos Civiles para el Estado de Oaxaca, El Juez de Primera Instancia remitirá copia de ella (sic) el Oficial del Registro Civil, ante quien se celebró el matrimonio, para que levante el acta correspondiente y haga las anotaciones respectivas y, además, para que publique el extracto de la resolución durante quince días en las tablas destinadas al efecto.
 
 ###### Artículo 295.
 
@@ -16660,3 +16660,11 @@ P.O. 15 DE MAYO DE 2019.
 PRIMERO: Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 29 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 616.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA; Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.-·El presente Decreto surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
