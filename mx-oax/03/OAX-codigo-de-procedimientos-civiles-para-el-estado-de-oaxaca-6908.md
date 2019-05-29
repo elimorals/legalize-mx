@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2018-11-10"
+last_updated: "2019-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -1219,7 +1219,9 @@ X. Para los negocios relativos a suplir el consentimiento de quien ejerce la pat
 
 XI. Para decidir las diferencias conyugales y los juicios de nulidad de matrimonio, lo es del domicilio conyugal;
 
-XII. Para los juicios de divorcio, el tribunal del domicilio conyugal, y en caso de abandono de hogar, el del domicilio del cónyuge abandonado;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+XII. Para los juicios de divorcio, el tribunal del domicilio conyugal o el domicilio de los menores de edad cuando existan.
 
 > <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1993)</small>
 
@@ -4669,15 +4671,11 @@ En términos de la Ley General de Derechos de Niñas, Niños y Adolescentes, en 
 
 Si la demanda fuere obscura o irregular, o no cumpliera con algunos de los requisitos del artículo 257 de este código o 279 del Código Civil, el juzgador dentro del término de tres días señalará con toda precisión en qué consisten los defectos de la misma, en el proveído que al efecto se dicte. El impetrante deberá cumplir con la prevención que haga el juzgador en un plazo máximo de tres días contados a partir del día siguiente a aquél en que haya sido notificado y de no hacerlo así, (sic) juzgador desechará y devolverá al interesado todos los documentos originales y copias simples que se hayan anexado a su escrito inicial de demanda. La anterior determinación o cualquier otra por la que no se dé curso a la demanda, se podrá impugnar mediante recurso de queja, para que se dicte por el Superior la resolución que corresponda.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 664 Quinquies.
 
-Admitida la demanda de divorcio, el juzgador debe ordenar notificar personalmente al otro cónyuge sobre la demanda y propuesta de convenio, y se le emplazara para que conteste dentro del plazo de cinco días, manifestando si está de acuerdo o no con la referida propuesta de convenio.
-
-Además, se señalará día y hora para la audiencia preliminar que tendrá verificativo después de cinco y antes de quince días, contados a partir de la notificación del propio auto.
-
-En el mismo auto en que admita la demanda de divorcio, el juzgador de oficio proveerá sobre las medidas provisionales correspondientes. Contra estas medidas no se admite más recurso que el de responsabilidad.
+Admitida la demanda de divorcio, el juzgador requerirá al actor para que en término de tres días ratifique su demanda y una vez ratificada, se decrete el divorcio inmediatamente; asimismo debe ordenar notificar personalmente al otro cónyuge sobre la demanda y propuesta de convenio y se le emplazará para que conteste dentro del plazo de cinco días, manifestando si está de acuerdo o no con la referida propuesta de convenio. Además se señalará día y hora para la audiencia preliminar que tendrá verificativo después de cinco y antes de quince días contados a partir de la notificación del propio auto. En el mismo auto en que admita la demanda de divorcio, el juzgador de oficio proveerá sobre las medidas provisionales correspondientes. Contra estas medidas no se admite más recurso que el de responsabilidad.
 
 > <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
 
@@ -4707,29 +4705,23 @@ Los cónyuges no pueden hacerse representar por apoderado o procurador en el jui
 
 Si los cónyuges no presentan documento indubitable, se suspenderá la celebración de la audiencia preliminar.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
 ###### Artículo 664 Decies.
 
-En cualquier caso en que él o los cónyuges dejaren pasar más de tres meses sin continuar el procedimiento, el juez declarará sin efecto la solicitud y mandará archivar el expediente.
+En cualquier caso en que el o los cónyuges dejaren pasar más de tres meses sin continuar el procedimiento, el juez declarará sin efecto la solicitud y mandará archivar el expediente. Dejando subsistente el divorcio en caso de haberse ratificado la demanda en términos del artículo 664 Quinquies.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
-Artículo 664 Undecies.- En la audiencia preliminar el juzgador tratará de conciliar a las partes, para continuar con el matrimonio, no habiéndose obtenido la conciliación, se continuará la misma; y el juzgador las escuchará sobre la propuesta del convenio, en la que se podrán modificar o adicionar las cláusulas del mismo a petición de los interesados. El juzgador tendrá la obligación de explicar los alcances jurídicos del convenio y de la demanda de divorcio; los beneficios de terminar amistosamente el trámite de divorcio y las consecuencias jurídicas y sociales tanto para ellos como para los menores de edad implicados en el procedimiento.
+Artículo 664 Undecies.- En la audiencia preliminar el juzgador escuchará a las partes, sobre la propuesta de convenio, en la que se podrán modificar o adicionar las cláusulas del mismo a petición de los interesados. El juzgador tendrá la obligación de explicar los alcances jurídicos del convenio y de la demanda de divorcio, los beneficios de terminar amistosamente el trámite de divorcio y las consecuencias jurídicas y sociales tanto para ellos como para los menores de edad implicados en el procedimiento. De manifestar su conformidad con los términos del convenio y, de no haber observación alguna por el juzgador o por el Ministerio Público, se aprobará y elevará a la categoría de cosa juzgada, decretando la aprobación del convenio.
 
-De manifestar su conformidad con los términos del convenio y, de no haber observación alguna por el juzgador o por el Ministerio Público, se aprobará y elevará a la categoría de cosa juzgada, decretando la disolución del vínculo matrimonial y la aprobación del convenio.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+Artículo 664 Duodecies.- En caso de que el demandado no diera contestación a la demanda o no comparezca a la Audiencia Preliminar, se le tendrá por conforme con las prestaciones establecidas en el Convenio por la parte actora y se aprobará y elevará a la categoría de cosa juzgada, en lo que refiere al convenio el juzgador aprobará el convenio, siempre que no contenga cláusulas contrarias a la moral o al derecho o que se afecten de manera manifiesta la equidad entre las partes o que descubran la intención de defraudar a terceros. Aprobado el convenio, se elevará a la categoría de cosa juzgada, dándose por concluido el juicio.
 
-Artículo 664 Duodecies.- En caso de que el demandado no diera contestación a la demanda o no comparezca a la Audiencia Preliminar, se le tendrá por conforme con las prestaciones establecidas en el Convenio por la parte actora y se aprobará y elevará a la categoría de cosa juzgada, decretando la disolución del vínculo matrimonial.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
-En lo que refiere al convenio el juzgador aprobará el convenio, siempre que no contenga cláusulas contrarias a la moral o al derecho o que afecten de manera manifiesta la equidad entre las partes o que descubran la intención de defraudar a terceros. Aprobado el convenio, se elevará a la categoría de cosa juzgada, dándose por concluido el juicio.
-
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
-
-Artículo 664 Terdecies.- En caso de que en la audiencia preliminar, el juzgador, el Ministerio Público, o alguna de las partes se opongan a la aprobación del convenio, se deberá decretar el divorcio y se ordenará entrar a la calificación y desahogo de las pruebas que se hayan ofrecido, sin más limitación que no sean contrarias a la moral o estén prohibidas por la ley.
-
-Las partes deberán presentar a sus testigos y peritos, de manifestar bajo protesta de decir verdad no estar en aptitud de hacerlo, se impondrá al Actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos asimismo, para la audiencia respectiva, en la que deberán rendir su dictamen. Dicha citación se hará con apercibimiento de arresto hasta por treinta y seis horas, de no comparecer el testigo o el perito sin causa justificada y el promovente de la prueba, de imponerle una multa hasta de cincuenta veces el valor diario de la Unidad de Medida y Actualización en caso de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante, las partes en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir. El juzgador y las partes podrán interrogar a los testigos con relación a los hechos controvertidos en el convenio, pudiéndoles hacer todas las preguntas que juzguen procedentes, con la sola limitación de que no sean contrarias a la moral.
+Artículo 664 Terdecies.- En caso de que en la audiencia preliminar el juzgador, el Ministerio Público o alguna de las partes se opongan a la aprobación del convenio, se ordenará entrar a la calificación y desahogo de las pruebas que se hayan ofrecido, sin más limitación que no sean contrarias a la moral o estén prohibidas por la ley. Las partes deberán presentar a sus testigos y peritos, de manifestar bajo protesta de decir verdad no estar en aptitud de hacerlos (sic), se impondrá al Actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos asimismo, para la audiencia respectiva, en la que deberán rendir su dictamen. Dicha citación se hará con apercibimiento de arresto hasta por treinta y seis horas de no comparecer el testigo o el perito sin causa justificada y el promovente de la prueba, de imponerle una multa hasta de cincuenta veces el valor diario de la Unidad de Medida y Actualización, en caso de comprobarse que se solicitó la prueba con el propósito de retardar el procedimiento, sin perjuicio de que se denuncie la falsedad resultante las partes las partes (sic) en caso de que se ofrezca la prueba confesional, deberán ser citadas con apercibimiento de ser declaradas confesas de las posiciones que se les articulen y sean calificadas de legales, a menos que acrediten justa causa para no asistir. El juzgador y las partes podrán interrogar a los testigos con relación a los hechos controvertidos en el convenio, pudiéndoles hacer todas las preguntas que juzguen procedentes, con la sola limitación de que no sean contrarias a la moral.
 
 > <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
 
@@ -4757,13 +4749,13 @@ Artículo 664 Septendecies.- La audiencia de desahogo de pruebas, no se podrá s
 
 Artículo 664 Octodecies.- Una vez desahogadas todas y cada una de las pruebas ofrecidas por las partes y aquellas que el juzgador considere pertinentes, en beneficio del interés superior del niño, se dictara sentencia la cual se pronunciará de manera breve y concisa, en el mismo momento de la audiencia de ser así posible o dentro de los quince días siguientes.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
-Artículo 664 Novodecies.- La sentencia que declare la disolución del vínculo matrimonial es inapelable, únicamente es apelable en el efecto devolutivo la resolución que recaiga respecto del o los convenios presentados.
+Artículo 664 Novodecies.- La sentencia o resolución que declara la disolución del vínculo matrimonial es inapelable, únicamente es apelable en el efecto devolutivo la resolución que recaiga respecto del o los convenios presentados.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
-Artículo 664 Vicies.- Ejecutoriada la sentencia de divorcio, el juez mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados, para los efectos de los artículos 116, 118 y 303 del Código Civil.
+Artículo 664 Vicies.- Decretado el divorcio en términos del artículo 664 Quinquies, el juez mandará remitir copia de la resolución al Oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados, para los efectos de los artículos 116, 118 y 303 del Código Civil.
 
 > <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
 
@@ -7196,3 +7188,11 @@ P.O. 10 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1588.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 616.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA; Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
