@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-interior-del-consejo-de-la-judicatura-44811
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-02"
-last_updated: "2018-05-11"
+last_updated: "2019-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de mayo de 2005.
 
@@ -869,95 +869,39 @@ Sección 2ª.
 
 DE LA VISITADURIA JUDICIAL
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 49.
 
-La Visitaduría es el órgano del Consejo competente para:
-
-I.- Inspeccionar el funcionamiento de los Juzgados de Primera Instancia y los Juzgados Menores, y
-
-II.- Supervisar la conducta de los servidores públicos de los propios juzgados.
+La Visitaduría Judicial es un órgano auxiliar del Consejo, cuyas atribuciones, organización y funcionamiento se regirá por lo dispuesto en su propia reglamentación interna.
 
 ###### Artículo 50.
 
-La Visitaduría la integran: el Visitador General, los visitadores, y demás personal técnico y administrativo que el Pleno determine.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 51.
 
-El Visitador General, además de reunir los requisitos previstos en el cuarto párrafo del artículo 94 de la Ley Orgánica del Poder Judicial, deberá gozar de amplia experiencia y conocimiento del funcionamiento de los órganos jurisdiccionales.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 52.
 
-Los visitadores serán designados por el Consejo mediante concurso de oposición. Asimismo, ejercerán las funciones que la ley y este Reglamento les confieren, con el carácter de representantes del Consejo.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 53.
 
-El Visitador General tendrá las siguientes funciones y obligaciones:
-
-I.- Planear, programar, coordinar e implementar la práctica de las visitas ordinarias de inspección y enviar al Pleno la documentación relativa al plan de visitas, para que éste realice el sorteo de los órganos jurisdiccionales a inspeccionar entre los visitadores;
-
-II.- Planear, programar, coordinar e implementar la celebración de las visitas extraordinarias de inspección que el propio Pleno determine;
-
-III.- Vigilar que los visitadores o hacerlo por sí mismo, envíen con la oportunidad debida los oficios de aviso a los titulares de los distintos órganos jurisdiccionales, para que comuniquen al público lo concerniente a la visita conforme a lo previsto por el artículo 109 de la ley;
-
-IV.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2016)
-
-V.- Cuidar que los procedimientos de inspección y las actas que se levanten, se ajusten a los lineamientos a que se refieren la ley, este Reglamento, los acuerdos del Pleno, así como las disposiciones relativas;
-
-VI.- Remitir al Consejo por conducto del Presidente, el acta de las visitas con todos sus anexos;
-
-VII.- Rendir los informes que le sean requeridos por el Pleno, Consejeros o comisiones del Consejo;
-
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2016)</small>
-
-VIII.- Cuando exista razón fundada de la comisión de un hecho o acto concreto, relacionado con la conducta o el desempeño de cualquier servidor público que se encuentre sujeto a las facultades disciplinarias del Consejo y que pudiera ser constitutivo de responsabilidad administrativa, hacerlo del conocimiento inmediato de la Dirección de Control Disciplinario.
-
-IX.- Proponer al Pleno, cuando exista razón fundada, la investigación de un hecho o acto concreto, relacionado con la conducta o el desempeño de servidores públicos, diversos a los mencionados en la fracción anterior, de algún Juzgado de Primera Instancia o Menor;
-
-X.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2016)
-
-XI.- Velar por que impere el orden y el respeto entre los integrantes de la Visitaduría y de éstos hacia el personal de los órganos visitados;
-
-XII.- Expresar ante el Pleno el impedimento que tenga para realizar visitas de inspección o coadyuvar en los trabajos de las comisiones o comités de trabajo;
-
-XIII. Coordinar las reuniones periódicas de los visitadores con el objeto de analizar y uniformar, en su caso, los criterios que surjan en el desarrollo de su función y recopilar los criterios y resultados que se obtengan en las reuniones;
-
-XIV.- Manejar el archivo de la Visitaduría y tomar las medidas adecuadas para evitar el extravío de expedientes que estén bajo su cuidado;
-
-XV.- Cuidar que los expedientes que estén bajo su resguardo sean debidamente foliados, sellados y rubricados;
-
-XVI.- Supervisar al personal adscrito a la Visitaduría y vigilar que el mismo cumpla con sus deberes;
-
-XVII.- Rendir al Pleno, cada bimestre, un informe detallado de labores, y
-
-XVIII.- Las demás que le confieran la ley, este Reglamento, los acuerdos del Pleno y demás disposiciones legales.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 54.
 
-Los visitadores tendrán las siguientes funciones y obligaciones:
-
-I.- Practicar las visitas ordinarias de inspección conforme al programa de las visitas aprobado;
-
-II.- Practicar las visitas extraordinarias de inspección y participar en las comisiones y comités de trabajo que ordene el Pleno;
-
-III.- Expresar ante el Pleno, el impedimento que tengan para realizar visitas de inspección o integrar comisiones;
-
-IV.- Suplir las ausencias temporales del Visitador General, cuando así lo determine el Pleno, o bien, la de algún Visitador siempre y cuando así lo disponga el mismo Pleno;
-
-V.- Tratar con respeto tanto al personal de la Visitaduría, como al de los órganos jurisdiccionales;
-
-VI.- Informar al Visitador General, sobre la existencia de algún acto que pudiera lesionar gravemente la impartición de justicia;
-
-VII.- Rendir al Visitador General, un informe bimestral de labores, y
-
-VIII.- Las demás que señale la ley, este Reglamento, los acuerdos del Pleno y demás disposiciones aplicables.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 55.
 
-Los integrantes de los órganos jurisdiccionales, durante la práctica de las visitas de inspección, brindarán a los Visitadores todo el apoyo humano y material que soliciten para el adecuado desarrollo de sus funciones.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 56.
 
-Los servidores públicos de los órganos jurisdiccionales tratarán con respeto tanto a los Visitadores como a su personal de apoyo.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 Sección 3ª.
 
@@ -1571,29 +1515,27 @@ Sección 1ª.
 
 GENERALIDADES DE LAS VISITAS DE INSPECCIÓN
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 66.
 
-Las visitas de inspección se llevarán a cabo por los visitadores, quienes actuarán conjunta o separadamente y podrán ser ordinarias y extraordinarias.
-
-Para el desarrollo de dichas visitas, el titular del órgano jurisdiccional visitado asignará un espacio físico al visitador, a fin de que en todo lo posible continúe el funcionamiento normal del Juzgado.
+Las visitas judiciales e inspecciones administrativas se llevarán a cabo por los visitadores e inspectores, quienes actuarán conjunta o separadamente y podrán ser ordinarias y extraordinarias, y de forma virtual cuando así se autorice las cuales se sujetarán a los lineamientos previstos en el Reglamento Interno de la Visitaduría.
 
 ###### Artículo 67.
 
-En las visitas de inspección, los visitadores, deberán abstenerse de exigir a los titulares y al personal del órgano jurisdiccional, cualquier tipo de acto que no sea propio del servicio público.
-
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2016)</small>
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 68.
 
-La materia de las visitas se limitará a los aspectos contemplados en la Ley, en este Reglamento y en los acuerdos del Pleno del Consejo. Por tanto, si durante el desarrollo de las mismas se presentare alguna queja o denuncia por escrito, el visitador asentará en el acta dicha circunstancia y la remitirá junto con la misma al Visitador General, quien hará llegar la queja a la Dirección de Control Disciplinario para que determine lo correspondiente y en caso que la queja o denuncia se haya formulado verbalmente, levantará por separado un acta que remitirá a la Visitaduría para los fines antes señalados, circunstancia que también deberá quedar asentada en el acta de visita.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 69.
 
-Los visitadores no asentarán en las actas que levanten con motivo de su actuación, exhortaciones, requerimientos o felicitaciones.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 70.
 
-Los visitadores se abstendrán de intervenir en las funciones propias de la actividad jurisdiccional del órgano visitado; asimismo, en caso de que detecten que un asunto no se lleva con arreglo a la ley en el trámite, y que estimen trascendente, además de asentarlo en el acta, manifestarán en forma fundada y motivada, ante el propio titular, las razones por las que consideran existe esa anomalía, solicitarán copia certificada del expediente o de las constancias necesarias y la agregarán como anexo al acta, con el fin de que el Pleno determine lo conducente.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 Sección 2ª.
 
@@ -1601,113 +1543,55 @@ DE LAS VISITAS ORDINARIAS
 
 ###### Artículo 71.
 
-Las visitas ordinarias de inspección tienen por objeto primordialmente, recabar información respecto al funcionamiento de los Juzgados de Primera Instancia y Juzgados Menores, al desempeño de sus miembros y supervisar las conductas de los integrantes de estos órganos.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 72.
 
-Las visitas ordinarias de inspección se llevarán a cabo cuando menos dos veces por año. Para tal efecto, el Pleno sorteará periódicamente entre los visitadores, los juzgados que deban visitarse, conforme al programa elaborado por el Visitador General.
-
-Tales sorteos serán generales y se realizarán para cubrir períodos de visita no mayores de tres meses; sin perjuicio de efectuar los que resulten necesarios por impedimento, ausencia o falta definitiva del visitador sorteado o por cualquiera otra causa justificada.
-
-Los visitadores podrán inspeccionar más de una vez un mismo órgano jurisdiccional durante ese lapso, pero el Consejo procurará que los visitadores no inspeccionen y supervisen a los mismos órganos judiciales en forma consecutiva.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 73.
 
-Una vez que se conozca el resultado de los sorteos a que se refiere el artículo anterior, el Visitador General lo hará saber a los visitadores mediante oficio, para que éstos, previa la comunicación a que se refiere el párrafo primero del artículo 109 de la Ley, procedan a practicar las visitas que les correspondieron, conforme al sorteo realizado por el Pleno y el programa aprobado por el Visitador General, quien podrá por sí mismo formular el informe sobre la visita programada al titular del órgano judicial objeto de aquélla.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 74.
 
-La asignación de los órganos jurisdiccionales a los visitadores no será susceptible de cambio entre éstos, pero si alguno tuviere impedimento legal para realizar una visita de inspección, lo expresará por escrito ante el Pleno, dentro de las veinticuatro horas siguientes a la notificación del resultado del sorteo o a la en que tenga conocimiento del impedimento, el cual resolverá lo conducente; si el impedimento es calificado de legal, el Pleno sorteará el órgano jurisdiccional entre los restantes visitadores; de no calificarse así, el Visitador procederá a realizar la visita.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 75.
 
-Para la práctica de las visitas ordinarias de inspección, el Visitador General o el Visitador respectivo, deberán informar por medio de oficio y con diez días hábiles de anticipación al titular del órgano jurisdiccional, de la visita ordinaria que va a practicar, a fin de que proceda a fijar el correspondiente aviso en los estrados del juzgado, a más tardar al segundo día hábil, para el efecto de que las personas interesadas puedan acudir a la visita y manifestar sus quejas o denuncias; en el aviso se hará saber a los litigantes, abogados postulantes y público en general, la fecha en que iniciará la inspección, que el visitador ocurre en representación del Consejo y que durante el desarrollo de la visita se recibirán las quejas o denuncias que hubiere contra los servidores públicos del órgano visitado, indicándose los días y las horas en que se podrán manifestar las mismas.
-
-La falta de fijación del aviso no será obstáculo para que la visita inicie y, de ser ese el caso, el visitador dispondrá que sea fijado; pudiendo incluso, de ser necesario, firmar y publicar por sí mismo el aviso que los supla; de todo lo anterior se asentará constancia en el acta.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 76.
 
-Las visitas ordinarias de inspección serán atendidas por el titular del juzgado, o por quienes en su caso se encuentren encargados del despacho.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 77.
 
-Las visitas ordinarias se efectuarán en días y horas hábiles, a menos que sea imprescindible, a juicio de los Visitadores, practicarla aun en días y horas inhábiles; caso en el cual deberán hacerse constar en el acta las causas excepcionales que lo ameriten. En este supuesto, el personal que a juicio del titular sea necesario, deberá permanecer en el órgano jurisdiccional visitado.
-
-Para los efectos del párrafo anterior se entenderán como días hábiles los previstos en la Ley Orgánica, así como en los acuerdos emitidos por el Pleno. Asimismo, serán horas hábiles las comprendidas entre las nueve y las diecinueve horas.
-
-Las visitas iniciarán a las nueve horas del día señalado para ello, salvo que por alguna circunstancia especial tenga que posponerse la hora o la fecha de inicio. Si se difiere la fecha será necesario que el Juez fije aviso al público indicándole esa circunstancia.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 78.
 
-La práctica de las visitas ordinarias de inspección no podrá exceder, salvo causa justificada, a juicio del visitador, de cuatro días.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 79.
 
-En la práctica de las visitas ordinarias de inspección, el visitador deberá verificar el funcionamiento del órgano visitado y el desempeño de sus integrantes, por el período que abarca la visita, salvo los casos de excepción que indique la Ley Orgánica.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 80.
 
-El visitador se constituirá en el órgano visitado haciéndose acompañar, en su caso, del personal técnico que lo asista; se identificarán con la credencial oficial del Poder Judicial del Estado o con copia certificada de su nombramiento; asimismo, el visitador constatará que el aviso de la visita se haya fijado oportunamente, procederá a imprimir el sello de la visita en los libros de control, el cual contendrá la fecha de inicio de la misma.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 81.
 
-La impresión del sello con la oportunidad señalada en el artículo anterior, tendrá por objeto no entorpecer las labores del órgano visitado y fijar el límite temporal de la visita. Por tanto, dicha impresión se efectuará inmediatamente después del último registro o de la última anotación que se haya hecho el día anterior al de la visita, y se entenderá puesta sin perjuicio de la revisión que de los propios libros deberá hacerse de acuerdo con la Ley Orgánica y este Reglamento.
-
-Los visitadores, al concluir la revisión de los expedientes, estamparán en la última actuación el sello y firma correspondientes.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 82.
 
-Al finalizar la inspección y antes del cierre del acta, el visitador permitirá que el juez se imponga del contenido de ésta, con el objeto de que manifieste lo que a su derecho convenga, para lo cual contará con un tiempo máximo de una hora.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 83.
 
-En la práctica de cualquier visita ordinaria de inspección, los visitadores:
-
-I.- Verificarán que el aviso anunciando la visita haya sido colocado en los estrados del órgano visitado con la anticipación requerida por los artículos 109 de la Ley Orgánica y 73 de este Reglamento, así como si en el mismo se contienen los datos a que se refiere este último numeral. Al acta que se levante se anexará copia de dicho aviso, con la certificación que haya levantado el secretario del órgano visitado respecto a la fecha de fijación del aviso;
-
-II.- Solicitarán al titular del órgano visitado, designe al servidor público que colaborará en todas las actuaciones que se practiquen durante la visita y proporcionará todos los elementos y datos que se le soliciten. Si el titular no designa a ningún servidor público, la visita se realizará con el que determine el propio visitador;
-
-III.- Asentarán en el acta el nombre del titular del órgano visitado; así como la fecha de su respectiva adscripción, cuando hayan sido posteriores a la última visita;
-
-IV.- Harán constar el lapso que comprende la visita y si se cumplieron las observaciones o recomendaciones que se hubieran hecho por el Consejo de la Judicatura, de acuerdo con el oficio de observaciones hechas con los resultados del acta de visita anterior;
-
-V.- Respecto al personal del órgano visitado, llevarán a cabo lo siguiente:
-
-a) Pedirán la lista del personal, comprobarán su asistencia y solicitarán informe sobre los movimientos habidos durante el período que abarque la visita;
-
-b) Consultarán al titular del órgano visitado, respecto de las actas administrativas que se hayan levantado durante el período de la visita con motivo de alguna irregularidad imputable al personal; y,
-
-c) Procederán a verificar que los Secretarios y Actuarios cumplan con los requisitos establecidos en la Ley Orgánica del Poder Judicial, así como que en su expediente personal que se lleva, obren copias certificadas del título y cédula profesionales. Lo anterior no se observará cuando no haya habido cambios de personal en estas categorías, desde la última visita ordinaria practicada;
-
-VI.- Harán constar el sistema de control de asistencia del personal, el horario de labores y la puntualidad de los servidores públicos, así como si se ha hecho en los informes mensuales el correspondiente aviso al Consejo, por retardos o inasistencias, sean justificadas o injustificadas;
-
-VII.- Verificarán que en los libros de control se hayan hecho las anotaciones correspondientes de manera correcta, así como si se asentaron en forma limpia, legible, ordenada, sin tachaduras o enmendaduras y, en caso de que haya existido algún error, si éste fue salvado por el secretario respectivo;
-
-Asimismo, harán constar los libros que haya abierto el titular del órgano visitado para la debida organización del mismo;
-
-VIII.- Harán constar, con vista a los libros de control y con apoyo en las relaciones que el titular del órgano visitado presente para ese efecto, el movimiento estadístico en el período que comprenda la visita, para lo cual señalarán por sección, según el órgano visitado, el tipo de asunto, la materia, los que ingresaron, los egresados, por no haberse admitido o por haber concluido, así como los que queden en existencia, distinguiendo los que se encuentren en trámite y pendientes de resolución, especificarán en su caso, la fecha del auto que puso el negocio en estado de sentencia o de la audiencia respectiva;
-
-IX.- Revisarán si los registros en los libros coinciden con el movimiento que durante el período que abarca la visita se reportó en los informes de actividades mensuales correspondientes al órgano visitado;
-
-X.- Asentarán cualquier hecho o acto del que se percaten durante la práctica de la visita y que pudiera ser constitutivo de responsabilidad de cualquier servidor público del órgano visitado;
-
-XI.- Ejecutarán las medidas provisionales, que estime procedentes dentro del ámbito de sus atribuciones dando cuenta al Visitador General;
-
-XII.- Harán constar las demandas y promociones que se encuentren pendientes de acordar, especificando la fecha en que fueron recibidas en el juzgado;
-
-XIII.- Revisarán los expedientes que estimen pertinentes. De éstos verificarán:
-
-a) En los que se haya declarado la incompetencia del órgano para conocer del asunto, la autoridad a favor de quien la declinó, indicando la fecha de presentación de la demanda y la del acuerdo o de la resolución correspondiente, el número bajo el cual quedó registrada en el libro respectivo, la fecha en que se remitieron los autos a esa autoridad y cuando los recibió; en su caso, si la autoridad a favor de quien se declinó la competencia la aceptó o no, y si se suscitó conflicto competencial, a favor de quien se resolvió.
-
-b) En los que se haya desechado la demanda, la fecha en que se presentó la promoción, el día en que se proveyó, el número bajo el cual quedó registrada; en su caso, la fecha de notificación al promovente, si hubo recurso contra la resolución y el resultado del mismo.
-
-XIV.- Obtendrán, con vista a los libros de control y con apoyo en las relaciones que presente el titular para ese efecto, el número de asuntos que en definitiva o en artículo, en caso de haber sido recurridos, fuesen confirmados, modificados o revocados;
-
-XV.- Con vista a los libros de control y con apoyo en las relaciones que presente el titular para ese efecto, recabarán el número de asuntos en los que, habiéndose promovido amparo, se haya concedido o negado éste; en el primer supuesto, se hará una síntesis del porque de la concesión del amparo;
-
-XVI.- Revisarán las condiciones en que se archivan los expedientes, libros de control y demás documentos importantes, y
-
-XVII.- Harán constar, tanto en el expediente revisado como en el acta circunstanciada, las recomendaciones a que se refiere el artículo 110, fracción VII, de la Ley Orgánica.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 Sección 3ª.
 
@@ -1715,81 +1599,7 @@ DE LAS VISITAS ORDINARIAS DE INSPECCIÓN A LOS JUZGADOS DE PRIMERA INSTANCIA DE 
 
 ###### Artículo 84.
 
-Además de las reglas precisadas en la sección 2ª de este capítulo, en la práctica de las visitas ordinarias de inspección a los Juzgados de Primera Instancia de lo Penal, los visitadores, con vista en los libros de control y con apoyo en las relaciones que el titular presente para ese efecto, los expedientes que los visitadores estimen convenientes; observarán lo siguiente:
-
-I.- Comprobarán que los valores y documentos importantes relacionados con los asuntos de que conozca el juzgado estén debidamente identificados y resguardados;
-
-II.- Respecto a los certificados de depósito y de fianzas, verificarán que los mismos se encuentren debidamente relacionados en los libros de control, en cuyos asientos debe estar especificado el número del proceso donde se exhibió, la fecha y número del documento y la cantidad que ampara; asimismo, si la caución que se depositó se hizo en efectivo, harán constar la fecha en que se realizó el depósito en el juzgado y la que aparece en el certificado de depósito expedido por la Secretaría de Finanzas y Tesorería General del Estado, relativa al día en que se hizo el canje respectivo. En caso de que la garantía se hubiera devuelto, se constatará la fecha del acuerdo donde se autorizó la devolución, la persona a favor de quien se ordenó y la fecha en que se llevó a cabo. Si por alguna circunstancia se ordenó hacer efectiva, deberá verificar el acuerdo mediante el cual se proveyó, el número del oficio por el que se remitió a la Secretaría de Finanzas y Tesorería General del Estado y la fecha en que ésta lo recibió;
-
-III.- Revisarán con base en el libro correspondiente, si se encuentran debidamente relacionados los vehículos afectos a causas penales y cuántos fueron puestos a disposición del juzgado, si aquéllos se encuentran debidamente asegurados, debiendo verificar el número del proceso, el delito, el tipo de vehículo de que se trate, el lugar donde se encuentren físicamente, así como el número bajo el cual se registraron en el libro respectivo;
-
-IV.- Verificarán el sistema de recepción, control, depósito y destino de los objetos e instrumentos del delito afectos a las causas penales con base en el libro respectivo, corroborando si se señaló el número de proceso, el delito, la descripción del objeto, el lugar donde se hallen depositados y el número de registro. Cuando se trate de divisas extranjeras o joyas se constatará que éstas se encuentren debidamente guardadas en la caja de seguridad del juzgado; además, en caso de aseguramiento de moneda nacional de curso legal, si no existe impedimento legal, que su guarda se haya verificado a través de certificados de depósito expedidos por la Secretaría de Finanzas y Tesorería General del Estado, tan luego como hubiera estado a disposición del juzgado, conservando su individualidad en relación con cada proceso, y que se haya obtenido a cambio el certificado correspondiente;
-
-V.- Revisarán cuántas armas de fuego fueron puestas a disposición del juzgado, así como su sistema de aseguramiento, para ello comprobarán el número del proceso, el delito, el tipo de arma y el lugar donde se encuentran en depósito; si las armas ya no están en el local del juzgado, harán constar en el acta el número de oficio de remisión a la autoridad federal competente, la fecha de ésta y el número bajo el cual están registradas en el libro respectivo;
-
-VI.- Examinarán el destino de los bienes decomisados y en caso de que los bienes asegurados no hayan sido reclamados por los interesados en el plazo legal, si se procedió en términos de las disposiciones aplicables;
-
-VII.- Verificarán respecto de las averiguaciones previas consignadas sin detenido, relativas a órdenes de aprehensión o de comparecencia, si se radicaron y resolvieron en los plazos que señala la ley, si se notificaron oportunamente esas determinaciones al Agente del Ministerio Público y, en caso de las negadas, si existió la solicitud respectiva, si se dio cumplimiento a lo ordenado por el artículo 200 del Código de Procedimientos Penales vigente en el Estado; asimismo, harán constar cuántas causas penales se encuentran pendientes de radicar y proveer respecto de las solicitudes de aprehensión o comparecencia formuladas por el Ministerio Público, estableciendo las razones y circunstancias que, en su caso, hayan impedido al titular cumplir con la obligación de pronunciar la resolución correspondiente;
-
-VIII.- Con respecto a las causas penales constatarán:
-
-A) Aquéllas en que fueron consignadas las averiguaciones previas con reos presentes, verificando las fechas de consignación, los autos de radicación y si en éstos se ratificó debidamente la detención de los indiciados; si la declaración preparatoria se efectuó dentro de las cuarenta y ocho horas siguientes; si la situación jurídica se resolvió dentro del plazo de setenta y dos horas, tal y como lo exige el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, o si se duplicó este último, si se decidió en los plazos que exige el artículo de la ley ordinaria adjetiva; si fue impugnada la resolución de término constitucional y, en su caso, el sentido en que se pronunció la Sala del Tribunal, o en su caso, la autoridad de amparo; también constatarán el delito o delitos por los que se instruye la causa; el estado en que se encuentra y, en su caso, si ya se verificó la audiencia de vista y la fecha en que ésta se celebró;
-
-B) Aquéllas que se hubiesen mandado al archivo provisional por cualquiera de las razones a que se refiere el Código de Procedimientos Penales vigente en el Estado;
-
-C) Aquéllas en las que se hubiese decretado el sobreseimiento, aun cuando no haya causado ejecutoria;
-
-D) Aquéllas en las que se hubiese declinado la competencia en los términos del Código de Procedimientos Penales Estatal, y
-
-E) Aquéllas en las que se hubiese pronunciado sentencia de primer grado, precisando las fechas en que se emitió y se notificó, haciendo la indicación si fue recurrida o no y el sentido en que hubiese resuelto la Sala del Tribunal, en su caso.
-
-La revisión de los asuntos anteriores tiene por objeto además de lo previsto en la ley, determinar si los procesos penales se tramitan o se tramitaron oportunamente; si las audiencias y las diligencias respectivas se fijaron y se desahogaron en los términos y plazos que establece la ley. También para establecer el dictado oportuno de las resoluciones judiciales y de que las notificaciones se hayan realizado de conformidad con la ley procesal que corresponda y, en el supuesto de que se advierta que ha fenecido el término para el pronunciamiento de la sentencia respectiva, se especifiquen las condiciones y circunstancias expuestas por el juez visitado que le hayan impedido cumplir con dicha obligación.
-
-IX.- Respecto a los exhortos recibidos, verificarán la fecha en que fueron recepcionados en el Juzgado, el número bajo el cual se registraron, la fecha en que se acordaron, y en su caso, la fecha en que se devolvieron los autos a la autoridad remitente;
-
-X.- Constatarán las solicitudes de órdenes de cateo y arraigo, con el objeto de precisar la fecha en que fueron recibidos, el número con el que se registraron, la fecha en que se acordaron y el sentido en que se hizo;
-
-XI.- Revisarán los informes que rinden los encargados de los sistemas "Hand Key", y en los juzgados que no lleven dicho sistema, examinarán los libros o registros de control de firmas de los inculpados que disfrutan de libertad provisional bajo caución, y de acuerdo a los expedientes que estimen convenientes, verificarán que se encuentran estampadas sus huellas o firmando con regularidad, y en caso de que con posterioridad se hubiese concedido permiso para estampar la huella o firmar en un plazo mayor, que el secretario lo haya hecho constar en el libro. Asimismo, revisarán las medidas que el tribunal adoptó en los casos en los que el inculpado dejó de estampar su huella o firmar reiteradamente y si éstas se hicieron constar en el libro de control, así como que en los asuntos concluidos se haya asentado la certificación correspondiente;
-
-XII.- Revisarán que el titular haya practicado visita carcelaria cuando menos una vez al mes como lo prevé la ley;
-
-XIII.- Constatarán el método o sistema de control que se lleve en el juzgado inspeccionado de las causas suspendidas cuando haya transcurrido el término de la prescripción de la acción penal;
-
-XIV.- Además de lo anterior, los Visitadores asentarán aquellos otros aspectos que estimen puedan reflejar el funcionamiento del órgano visitado y la conducta de sus integrantes;
-
-XV.- En los reportes harán constar que los titulares de las autoridades jurisdiccionales presidieron las actas de prueba y de recepción de las mismas, inclusive las declaraciones que deban rendirse en el proceso correspondiente;
-
-XVI.- Constatarán que se cuente con objetos de reproducción de escritos, imágenes o sonidos, sea por sistema convencional o de informática;
-
-XVII.- Revisarán las diligencias practicadas por videoconferencias y de las certificaciones levantadas al efecto por el Secretario respectivo;
-
-XVIII.- Harán constar nombres de indiciados que voluntariamente hayan solicitado la utilización del brazalete electrónico, en sustitución del arraigo;
-
-XIX.- Revisarán la remisión de los procesos incluyendo el registro de la audiencia del juicio oral, al Tribunal Superior de Justicia, en los casos de interposición del recurso de apelación;
-
-XX.- Constatarán de los elementos de registro que lleven los Jueces de Preparación de lo Penal y los Jueces del Juicio Oral Penal;
-
-XXI.- Vigilarán que los Jueces de Preparación de lo Penal y del Juicio Oral Penal tomen las medidas necesarias para la conservación de los registros cuando por cualquier causa se dañe el soporte material del registro respectivo;
-
-XXII.- Harán constar de lo actuado en los procesos respectivos la intervención del Juez de Preparación de lo Penal;
-
-XXIII.- Especificarán los autos de apertura del Juicio Oral Penal, dictado en el período de la revisión por el Juez de Preparación de lo Penal.
-
-XXIV.- Harán constar los procesos en los cuales el Juez de Preparación de lo Penal se inhibió al poner causa y al inculpado a disposición del Juez del Juicio Oral;
-
-XXV.- Igualmente harán constar los autos de radicación de juicios que haya dictado el Juez del Juicio Oral Penal;
-
-XXVI.- Informará de los casos de la falta de comparecencia del Ministerio Público dentro de un proceso de juicio oral penal y la forma en la cual dicha ausencia fue subsanada por la Procuraduría General de Justicia;
-
-XXVII.- Informará de la falta de asistencia a la audiencia oral del defensor y nombramiento de defensor de oficio;
-
-XXVIII.- Hará constar la medida de corrección disciplinaria impuesta al defensor que haya faltado a la audiencia oral sin la autorización del inculpado;
-
-XXIX.- Informará sobre el desarrollo de la audiencia oral, los incidentes surgidos y resoluciones dictadas;
-
-XXX.- Hará constar las sentencias dictadas por el Juez del Juicio Oral Penal y el sentido de las mismas, y
-
-XXXI.- Formulará el reporte sobre los procesos abreviados y resoluciones dictadas en el mismo.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 Sección 4ª.
 
@@ -1797,17 +1607,7 @@ DE LAS VISITAS ORDINARIAS DE INSPECCIÓN A JUZGADOS DE PRIMERA INSTANCIA DE LO C
 
 ###### Artículo 85.
 
-Además de las reglas precisadas en la Sección 2ª. de este Capítulo, para la práctica de las visitas ordinarias de inspección a los Juzgados de Primera Instancia de lo Civil, de lo Familiar y Juzgados Menores, los visitadores, con vista en los libros de control y con apoyo en las relaciones que el titular presente para ese efecto, observarán lo siguiente:
-
-I.- Comprobarán que los documentos exhibidos en los juicios se encuentren debidamente resguardados y que en los sobres que los contienen, se haya asentado en su cubierta: el número de expediente donde se exhibió, tipo de juicio y el nombre de las partes y respecto a los certificados de depósito, los visitadores procederán en los términos que sobre este aspecto ya se han señalado en la fracción II del artículo 83 de este Reglamento;
-
-II.- Harán constar las demandas y promociones que se encuentren pendientes de acordar, especificando la fecha, en que fueron recibidas en el juzgado;
-
-III.- Revisarán los libros que deben llevar los actuarios adscritos al Juzgado visitado, conforme al artículo 47 de la Ley Orgánica del Poder Judicial y verificarán que los mismos contengan todos los datos mencionados en la norma referida u otra complementaria, haciendo constar en el acta el resultado de la revisión, y
-
-IV.- Pedirán los expedientes que estimen conveniente, relativos a juicios, exhortos, despachos y suplicatorias; verificarán que los datos contenidos en los libros de control coincidan con las actuaciones respectivas, así como la fecha en que se radicaron, el acuerdo que les haya recaído, el estado en que se hallen, la fecha de resolución y de notificación a las partes; determinarán si los asuntos anteriores se tramitaron o se tramitan en los términos y plazos que marcan las leyes respectivas; si los acuerdos y resoluciones han sido dictados y cumplidos oportunamente; y, cuando no sea así asentarán las condiciones, circunstancias y datos manifestados por el titular del órgano jurisdiccional que le hayan impedido cumplir con lo anterior.
-
-Los visitadores asentarán aquellos otros aspectos que estimen puedan reflejar el funcionamiento del órgano visitado y la conducta de sus integrantes.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 Sección 5ª.
 
@@ -1815,7 +1615,7 @@ DE LAS VISITAS ORDINARIAS DE INSPECCIÓN A LOS JUZGADOS DE JURISDICCIÓN MIXTA
 
 ###### Artículo 86.
 
-En los Juzgados de Jurisdicción Mixta, la visita de inspección ordinaria se practicará de acuerdo con las normas de la Sección 2ª de este capítulo, y conforme a las reglas que sean aplicables de los artículos 83 y 84 de este Reglamento.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 Sección 6ª.
 
@@ -1823,55 +1623,41 @@ DE LAS VISITAS EXTRAORDINARIAS
 
 ###### Artículo 87.
 
-Cuando existan quejas de parte interesada o elementos que a juicio del Pleno hagan presumir irregularidades cometidas por un Juez de Primera Instancia o Menor, el Consejo dispondrá la práctica de una visita extraordinaria que se efectuará en lo aplicable, en la forma y términos de las secciones anteriores. En el acuerdo correspondiente se fijarán los puntos concretos materia de la inspección.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 88.
 
-Las visitas extraordinarias podrán llevarse a cabo aun en días y horas inhábiles, sin que sea necesaria la previa comunicación al titular del órgano visitado. El visitador podrá solicitar al titular toda la información que estime pertinente.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 89.
 
-En la práctica de las visitas extraordinarias, los visitadores deberán ceñirse estrictamente a los puntos acordados por el Pleno y durarán el tiempo que se estime necesario para cumplir con el objeto de ella.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 90.
 
-Al inicio de la visita extraordinaria los visitadores, previa identificación, harán saber mediante oficio al titular del órgano jurisdiccional o al servidor público encargado del despacho, quién la ordenó y cuándo, y el objeto de ella.
-
-Los elementos obtenidos durante la práctica de la visita deberán asentarse en el acta correspondiente y entregarse al Consejo para que éste resuelva lo conducente.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 Sección 7ª.
 
 DE LAS ACTAS DE LAS VISITAS DE INSPECCIÓN
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 91.
 
-De toda visita ordinaria de inspección deberá levantarse acta circunstanciada, la cual estará sujeta al formato que al efecto elaboren el Visitador General y los visitadores, y se hará de tal manera que el funcionamiento del órgano jurisdiccional pueda apreciarse en atención al desempeño de cada uno de sus integrantes. Los datos obtenidos, de ser posible, se plasmarán de forma gráfica. En la referida acta se asentarán:
-
-I.- El desarrollo de los puntos a que se refieren las Secciones 1ª a 5ª de este Capítulo;
-
-II.- Las quejas o denuncias presentadas en contra de los titulares y demás servidores del órgano de que se trate;
-
-III.- Las medidas provisionales que, en su caso, se hayan tomado;
-
-IV.- Las manifestaciones que respecto de la visita y/o del contenido del acta realicen los propios titulares o servidores públicos del órgano;
-
-V.- Las recomendaciones a que se refiere el artículo 110, fracción VII, de la Ley Orgánica del Poder Judicial, y
-
-VI.- La firma del titular, y del visitador del órgano jurisdiccional que dio fe de las actuaciones llevadas a cabo durante la visita y, en su caso, de los secretarios técnicos que hayan intervenido como testigos de asistencias, sin que la ausencia de estos últimos invalide el acta.
+De toda visita ordinaria de inspección deberá levantarse acta circunstanciada, la cual estará sujeta a los lineamientos previstos en el Manual para la Práctica de Visitas Judiciales e Inspecciones Administrativas.
 
 ###### Artículo 92.
 
-En el caso de las visitas extraordinarias el acta se levantará por duplicado y contendrá una relación pormenorizada de las diligencias practicadas, así como la firma del titular o servidor público con quien se entendió la diligencia y el visitador; el original se remitirá al Visitador General y una copia se dejará en el juzgado.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 93.
 
-Las actas que se elaboren con motivo de las visitas ordinarias de inspección se levantarán en dos tantos, uno de los cuales quedará en el propio órgano, y el otro se entregará al Visitador General para que lo remita al Pleno junto con todos sus anexos, a fin de que en el dictamen respectivo determine lo que corresponda.
-
-Previamente a la remisión del acta, el Secretario General expedirá copias certificadas de ésta para que una de ellas se conserve en la Visitaduría, y las demás sean agregadas al expediente personal del juez, así como al expediente administrativo del órgano visitado.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ###### Artículo 94.
 
-El contenido del acta de visita podrá ser capturado en el programa de computación que el Visitador General determine y respaldado en un disquete, el cual será remitido al Pleno, junto con el tanto a que se refiere el artículo anterior.
+(DEROGADO, P.O. 29 DE MAYO DE 2019)
 
 ### CAPITULO II. DE LA FUNCION DE DISCIPLINA
 
@@ -2558,3 +2344,11 @@ P.O. 11 DE MAYO DE 2018.
 > <small>[N. DE E. TRASITORIO DEL ACUERDO GENERAL 3/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA, POR EL CUAL SE REFORMA EL REGLAMENTO ORGÁNICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE NUEVO LEÓN, POR ADICIÓN DE LA SECCIÓN 9ª, DENOMINADA “DE LA DIRECCIÓN JURÍDICA” AL CAPÍTULO VI, LLAMADO "DE LOS ORGANOS AUXILIARES DEL CONSEJO", QUE COMPRENDERÁ LOS ARTÍCULOS 60 BIS XIV Y 60 BIS XV; MODIFICACIÓN DE LOS ARTÍCULOS 62, PRIMER PÁRRAFO, 63 BIS VI, Y 63 BIS VIII; Y POR DEROGACIÓN DEL INCISO E), DEL ARTÍCULO 62”.]</small>
 
 Primero: Vigencia. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Estado, para su mayor difusión publíquese en el Periódico Oficial del Estado.
+
+P.O. 29 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL NUMERO 14/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE NUEVO LEÓN, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO ORGÁNICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO".]
+
+PRIMERO.- Vigencia. El presente Acuerdo General entrará en vigor a partir del día siguiente de su publicación en el Boletín Judicial del Estado.
+
+SEGUNDO.- Publicación. Para conocimiento de las autoridades, litigantes y público en general, publíquese el presente Acuerdo General en el Boletín Judicial del Estado, así como en el Periódico Oficial del Estado.
