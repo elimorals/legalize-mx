@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-bienestar-y-desarrollo-social-del-estado-de-94442"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-18"
-last_updated: "2018-11-10"
+last_updated: "2019-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 18 de mayo de 2013.
 
@@ -91,117 +91,121 @@ XX. Fomentar la participación del sector social, de modo complementario al cump
 
 XXI. Promover el establecimiento de instrumentos de acceso a la justicia, en materia de desarrollo social.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 3.
 
 Para los efectos de la presente Ley se entenderá por:
 
-Asistencia: Acciones temporales que proporcionan los mínimos de subsistencia a población en desventaja, promoviendo sus capacidades y oportunidades;
+I. Asistencia: Acciones temporales que proporcionan los mínimos de subsistencia a población en desventaja, promoviendo sus capacidades y oportunidades;
 
-Beneficiarios: Aquellas personas que forman parte de la población atendida por los programas sociales, que cumplen los requisitos de la normatividad correspondiente;
+II. Beneficiarios: Aquellas personas que forman parte de la población atendida por los programas sociales, que cumplen los requisitos de la normatividad correspondiente;
 
-Bien Común: Conjunto de condiciones sociales que permiten que todos los habitantes tengan acceso a una vida más justa, equitativa y equilibrada;
+III. Bien Común: Conjunto de condiciones sociales que permiten que todos los habitantes tengan acceso a una vida más justa, equitativa y equilibrada;
 
-Bienestar social: Se le llama al conjunto de capacidades y oportunidades que participan en la funcionalidad de la persona y que hacen que su existencia posea todos aquellos elementos que dé lugar a la tranquilidad y satisfacción humana;
+IV. Bienestar social: Se le llama al conjunto de capacidades y oportunidades que participan en la funcionalidad de la persona y que hacen que su existencia posea todos aquellos elementos que dé (sic) lugar a la tranquilidad y satisfacción humana;
 
-Capital Social: Patrimonio simbólico de la sociedad en términos de la capacidad de manejo de normas, redes y lazos sociales de confianza, que permiten reforzar la acción colectiva para resolver problemas comunes y sentar bases de reciprocidad en el trato, que se extienden progresivamente al conjunto de la sociedad;
+V. Capital Social: Patrimonio simbólico de la sociedad en términos de la capacidad de manejo de normas, redes y lazos sociales de confianza, que permiten reforzar la acción colectiva para resolver problemas comunes y sentar bases de reciprocidad en el trato, que se extienden progresivamente al conjunto de la sociedad;
 
-Ciudadanía Social: Se integra por la serie de derechos y obligaciones que permiten a todos los miembros participar en forma equitativa de los niveles básicos de vida de su comunidad;
+VI. Ciudadanía Social: Se integra por la serie de derechos y obligaciones que permiten a todos los miembros participar en forma equitativa de los niveles básicos de vida de su comunidad;
 
-Cohesión Social: Es el nivel en que los miembros de la sociedad se sientan parte activa de ella, como aportantes al progreso y como beneficiarios de este;
+VII. Cohesión Social: Es el nivel en que los miembros de la sociedad se sientan parte activa de ella, como aportantes al progreso y como beneficiarios de este;
 
-Comité: Comité de Desarrollo Social y humano del Estado de Oaxaca;
+VIII. Comité: Comité de Desarrollo Social y humano del Estado de Oaxaca;
 
-Comités Ciudadanos: Comités encargados de supervisar, vigilar y verificar la correcta aplicación de los recursos públicos destinados a cada programa social, integrados por personas de la sociedad civil;
+IX. Comités Ciudadanos: Comités encargados de supervisar, vigilar y verificar la correcta aplicación de los recursos públicos destinados a cada programa social, integrados por personas de la sociedad civil;
 
-CONAPO: Consejo Nacional de Población, establecido por la Ley General de Población;
+X. CONAPO: Consejo Nacional de Población, establecido por la Ley General de Población;
 
-CONEVAL: Consejo Nacional de Evaluación de la Política de Desarrollo Social, instaurado por la Ley General de Desarrollo Social;
+XI. CONEVAL: Consejo Nacional de Evaluación de la Política de Desarrollo Social, instaurado por la Ley General de Desarrollo Social;
 
-Consejo Estatal: El Consejo Estatal de Desarrollo Social y Humano;
+XII. Consejo Estatal: El Consejo Estatal de Desarrollo Social y Humano;
 
-Consejo Microrregional: El Consejo de Desarrollo Micro regional;
+XIII. Consejo Microrregional: El Consejo de Desarrollo Micro regional;
 
-Constitución Política del Estado: Constitución Política del Estado Libre y Soberano de Oaxaca;
+XIV. Constitución Política del Estado: Constitución Política del Estado Libre y Soberano de Oaxaca;
 
-Desarrollo Humano: El proceso mediante el cual se generan, fomentan y fortalecen las oportunidades y posibilidades de las personas para desplegar sus potencialidades y capacidades humanas.
+XV. Desarrollo Humano: El proceso mediante el cual se generan, fomentan y fortalecen las oportunidades y posibilidades de las personas para desplegar sus potencialidades y capacidades humanas.
 
-Desarrollo Regional: Conjunto de políticas orientadas a lograr el desarrollo económico equilibrado de las distintas regiones geográficas determinadas por sus recursos potenciales y sus necesidades específicas;
+XVI. Desarrollo Regional: Conjunto de políticas orientadas a lograr el desarrollo económico equilibrado de las distintas regiones geográficas determinadas por sus recursos potenciales y sus necesidades específicas;
 
-Desarrollo Social: Resultado del proceso de mejoramiento de la calidad de vida alcanzado a través de mecanismos y políticas públicas permanentes que generen las condiciones para la integración plena de los individuos, grupos y sectores de la sociedad, comunidades, microregiones y regiones a un mejoramiento sistémico que garantice el disfrute de los derechos sociales constitucionales y erradique la desigualdad social, a través de la obtención y desarrollo de conocimientos y habilidades, así como la creación de oportunidades sociales respetando la diversidad cultural;
+XVII. Desarrollo Social: Resultado del proceso de mejoramiento de la calidad de vida alcanzado a través de mecanismos y políticas públicas permanentes que generen las condiciones para la integración plena de los individuos, grupos y sectores de la sociedad, comunidades, microregiones (sic) y regiones a un mejoramiento sistémico que garantice el disfrute de los derechos sociales constitucionales y erradique la desigualdad social, a través de la obtención y desarrollo de conocimientos y habilidades, así como la creación de oportunidades sociales respetando la diversidad cultural;
 
-Desarrollo Sustentable: Es un proceso dinámico, de cambio, donde la explotación de los recursos, el destino de las inversiones, la orientación del desarrollo tecnológico y los cambios institucionales están orientados a satisfacer las necesidades presentes y futuras, en armonía con la naturaleza y su conservación.
+XVIII. Desarrollo Sustentable: Es un proceso dinámico, de cambio, donde la explotación de los recursos, el destino de las inversiones, la orientación del desarrollo tecnológico y los cambios institucionales están orientados a satisfacer las necesidades presentes y futuras, en armonía con la naturaleza y su conservación.
 
-Diagnóstico Situacional: Estudio socioeconómico para detectar ubicación territorial o sectorial que mediante indicadores de pobreza o insuficiencia económica, establezca prioridades y oriente la política de desarrollo social en el estado, regiones y municipios;
+XIX. Diagnóstico Situacional: Estudio socioeconómico para detectar ubicación territorial o sectorial que mediante indicadores de pobreza o insuficiencia económica, establezca prioridades y oriente la política de desarrollo social en el estado, regiones y municipios;
 
-Empresa Social: La unidad económica conformada para realizar actividades de producción; transformación, comercialización o de servicios, integradas por cualquier sector o grupo social de la población, cuya actividad se orienta a satisfacer necesidades sociales, así como generar un beneficio económico y de desarrollo sustentable en su localidad;
+XX. DIGEPO: A la Dirección General de Población de Oaxaca;
 
-Estado Social de Derecho: Es la forma política que hace real y efectiva la soberanía popular a través de la participación democrática, en la cual la libertad, igualdad y dignidad de la persona constituye la base de este Estado social de derecho, esto es, aquel que rodea de garantías al ser humano para que pueda vivir como su dignidad lo exige;
+XXI. Empresa Social: La unidad económica conformada para realizar actividades de producción, transformación, comercialización o de servicios, integradas por cualquier sector o grupo social de la población, cuya actividad se orienta a satisfacer necesidades sociales, así como generar un beneficio económico y de desarrollo sustentable en su localidad;
 
-Estado: Estado Libre y Soberano de Oaxaca;
+XXII. Estado Social de Derecho: Es la forma política que hace real y efectiva la soberanía popular a través de la participación democrática, en la cual la libertad, igualdad y dignidad de la persona constituye la base de este Estado social de derecho, esto es, aquel que rodea de garantías al ser humano para que pueda vivir como su dignidad lo exige;
 
-Ética Social: Implica la comunidad de valores, el consenso en torno a mínimos normativos y mínimos sociales, la solidaridad como valor ético y valor práctico y un principio asumido de reciprocidad en el trato;
+XXIII. Estado: Estado Libre y Soberano de Oaxaca;
 
-Grupos Sociales en Condición de Vulnerabilidad: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, por lo tanto, requieran de la atención e inversión del Gobierno para lograr su bienestar;
+XXIV. Ética Social: Implica la comunidad de valores, el consenso en torno a mínimos normativos y mínimos sociales, la solidaridad como valor ético y valor práctico y un principio asumido de reciprocidad en el trato;
 
-Integración Social: El proceso dinámico y multifactorial que posibilita a las personas a participar del nivel mínimo de bienestar que es consistente con el desarrollo alcanzado en un determinado territorio;
+XXV. Grupos Sociales en Condición de Vulnerabilidad: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, por lo tanto, requieren de la atención e inversión del Gobierno para lograr su bienestar;
 
-Ley General: La Ley General de Desarrollo Social;
+XXVI. Integración Social: El proceso dinámico y multifactorial que posibilita a las personas a participar del nivel mínimo de bienestar que es consistente con el desarrollo alcanzado en un determinado territorio;
 
-Ley: A la presente Ley de Desarrollo Social para el Estado de Oaxaca;
+XXVII. Ley General: La Ley General de Desarrollo Social;
 
-Marginación: A la situación de las personas que se encuentran fuera del acceso y disponibilidad de bienes, servicios y opciones para el desarrollo social y humano;
+XXVIII. Ley: A la presente Ley de Desarrollo Social para el Estado de Oaxaca;
 
-Organizaciones Civiles: Aquellas que agrupan a ciudadanos, constituidas con base en al (sic) artículo 9 de la Constitución Federal, que se ocupan de la defensa y promoción de derechos, así como, del mejoramiento de condiciones y calidad de vida de terceros;
+XXIX. Marginación: A la situación de las personas que se encuentran fuera del acceso y disponibilidad de bienes, servicios y opciones para el desarrollo social y humano;
 
-Organizaciones Comunitarias Funcionales: Aquellas con personalidad jurídica y sin fines de lucro, que tengan por objeto representar y promover valores e intereses específicos de la comunidad, como las uniones de productores, asociaciones gremiales o grupos culturales;
+XXX. Organizaciones Civiles: Aquellas que agrupan a ciudadanos, constituidas con base en al (sic) artículo 9 de la Constitución Federal, que se ocupan de la defensa y promoción de derechos, así como, del mejoramiento de condiciones y calidad de vida de terceros;
 
-Organizaciones Sociales: Aquellas que agrupan a habitantes de Oaxaca para la defensa, promoción y realización de sus derechos, así como, para el mejoramiento de las condiciones de vida de sus integrantes;
+XXXI. Organizaciones Comunitarias Funcionales: Aquellas con personalidad jurídica y sin fines de lucro, que tengan por objeto representar y promover valores e intereses específicos de la comunidad, como las uniones de productores, asociaciones gremiales o grupos culturales;
 
-Padrón Único de Beneficiarios: Relación oficial de beneficiarios que incluye a las personas atendidas por los diferentes programas de desarrollo social que se ejecuten en el Estado y cuyo perfil socioeconómico se establece en la normatividad correspondiente;
+XXXII. Organizaciones Sociales: Aquellas que agrupan a habitantes de Oaxaca para la defensa, promoción y realización de sus derechos, así como, para el mejoramiento de las condiciones de vida de sus integrantes;
 
-Pobreza: Situación económica de excepción de individuos y familias cuyos ingresos económicos son insuficientes para el ejercicio de sus derechos sociales, quedando en condiciones de desigualdad, dependencia, explotación o falta de desarrollo de las capacidades o de bienestar social como producto de la imposibilidad de acceso a los recursos para satisfacer las necesidades físicas y psíquicas básicas humanas que inciden en un desgaste del nivel y calidad de vida de las personas;
+XXXIII. Padrón Único de Beneficiarios: Relación oficial de beneficiarios que incluye a las personas atendidas por los diferentes programas de desarrollo social que se ejecuten en el Estado y cuyo perfil socioeconómico se establece en la normatividad correspondiente;
 
-Política Social de Estado: El instrumento que asegura la participación del Gobierno del Estado de Oaxaca, en la promoción del derecho humano al desarrollo a través del mejoramiento económico, social y cultural de la población;
+XXXIV. Pobreza: Situación económica de excepción de individuos y familias cuyos ingresos económicos son insuficientes para el ejercicio de sus derechos sociales, quedando en condiciones de desigualdad, dependencia, explotación o falta de desarrollo de las capacidades o de bienestar social como producto de la imposibilidad de acceso a los recursos para satisfacer las necesidades físicas y psíquicas básicas humanas que inciden en un desgaste del nivel y calidad de vida de las personas;
 
-Política Social: Conjunto de estrategias, programas y acciones de Gobierno y de la sociedad civil, que de manera integral y con una visión común, articulen procesos que garanticen el desarrollo sostenible y equitativo que se transformen en bienestar y calidad de vida para los integrantes de la sociedad;
+XXXV. Política Social de Estado: El instrumento que asegura la participación del Gobierno del Estado de Oaxaca, en la promoción del derecho humano al desarrollo a través del mejoramiento económico, social y cultural de la población;
 
-Políticas Asistenciales: Aquellas dirigidas a proporcionar el apoyo, la integración social y el sano desarrollo, a los individuos y grupos vulnerables o en situación de riesgo, por su situación de desventaja, abandono o desprotección física, mental, jurídica o social;
+XXXVI. Política Social: Conjunto de estrategias, programas y acciones de Gobierno y de la sociedad civil, que de manera integral y con una visión común, articulen procesos que garanticen el desarrollo sostenible y equitativo que se transformen en bienestar y calidad de vida para los integrantes de la sociedad;
 
-Políticas Compensatorias: Aquellas orientadas a beneficiar a un grupo social en un territorio determinado, para lograr equiparlo e incluirlo en las mismas condiciones y oportunidades que el promedio de la población tiene;
+XXXVII. Políticas Asistenciales: Aquellas dirigidas a proporcionar el apoyo, la integración social y el sano desarrollo, a los individuos y grupos vulnerables o en situación de riesgo, por su situación de desventaja, abandono o desprotección física, mental, jurídica o social;
 
-Políticas de Desarrollo Regional: Aquellas dirigidas a promover el desarrollo equilibrado entre las regiones del Estado, procurando la sustentabilidad de las obras y acciones de desarrollo social;
+XXXVIII. Políticas Compensatorias: Aquellas orientadas a beneficiar a un grupo social en un territorio determinado, para lograr equiparlo e incluirlo en las mismas condiciones y oportunidades que el promedio de la población tiene;
 
-Políticas de Fomento: Aquellas orientadas a beneficiar a un grupo social en un territorio determinado, generando las condiciones necesarias para incorporarlo al sector productivo y lograr su autosuficiencia económica;
+XXXIX. Políticas de Desarrollo Regional: Aquellas dirigidas a promover el desarrollo equilibrado entre las regiones del Estado, procurando la sustentabilidad de las obras y acciones de desarrollo social;
 
-Principios del Desarrollo Social: Bases en las que el Estado construye el acceso a los derechos sociales para abatir la inequidad económica, promover la equidad social, elevar la calidad de vida y el bienestar integral de los oaxaqueños y oaxaqueñas;
+XL. Políticas de Fomento: Aquellas orientadas a beneficiar a un grupo social en un territorio determinado, generando las condiciones necesarias para incorporarlo al sector productivo y lograr su autosuficiencia económica;
 
-Programas Sociales: Conjunto estructurado de acciones con objetivos específicos para superar las condiciones de vida de los grupos vulnerables;
+XLI. Principios del Desarrollo Social: Bases en las que el Estado construye el acceso a los derechos sociales para abatir la inequidad económica, promover la equidad social, elevar la calidad de vida y el bienestar integral de los oaxaqueños y oaxaqueñas;
 
-Programas: Las acciones de la Administración que promueven el cumplimiento de los Derechos Económicos, Sociales y Culturales y que, por su naturaleza, pueden dividirse en: programas de transferencias monetarias o materiales, de prestación de servicios, de construcción, mejoramiento u operación de la infraestructura social, y de otorgamiento de subsidios directos o indirectos;
+XLII. Programas Sociales: Conjunto estructurado de acciones con objetivos específicos para superar las condiciones de vida de los grupos vulnerables;
 
-Reglamento: Reglamento de la Ley de Desarrollo Social para el Estado de Oaxaca;
+XLIII. Programas: Las acciones de la Administración que promueven el cumplimiento de los Derechos Económicos, Sociales y Culturales y que, por su naturaleza, pueden dividirse en: programas de transferencias monetarias o materiales, de prestación de servicios, de construcción, mejoramiento u operación de la infraestructura social, y de otorgamiento de subsidios directos o indirectos;
 
-Reglas de Operación: El conjunto de normas que rigen a cada uno de los programas sociales;
+XLIV. Reglamento: Reglamento de la Ley de Desarrollo Social para el Estado de Oaxaca;
 
-Residente: La persona que permanece por más de seis meses en un mismo lugar;
+XLV. Reglas de Operación: El conjunto de normas que rigen a cada uno de los programas sociales;
 
-Secretaría de Contraloría: Secretaría de Contraloría y Transparencia Gubernamental del Estado de Oaxaca;
+XLVI. Residente: La persona que permanece por más de seis meses en un mismo lugar;
 
-Secretaría Federal: La Secretaria de Desarrollo Social, del Ejecutivo Federal;
+XLVII. Secretaria de Contraloría: Secretaria de Contraloría y Transparencia Gubernamental del Estado de Oaxaca;
 
-Secretaría: A la Secretaria de Desarrollo Social y Humano del Estado de Oaxaca;
+XLVIII. Secretaria Federal: La Secretaria de Desarrollo Social, del Ejecutivo Federal;
 
-Sector Social: Grupos, sociedades, cooperativas, ejidos, organismos de la sociedad civil, instituciones de asistencia privada y asociaciones civiles sin fines de lucro, con objeto social establecido bajo principios de equidad social y productividad;
+XLIX. Secretaría: A la Secretaria de Desarrollo Social y Humano del Estado de Oaxaca;
 
-Sistema: El Sistema Estatal de Desarrollo Social.
+L. Sector Social: Grupos, sociedades, cooperativas, ejidos, organismos de la sociedad civil, instituciones de asistencia privada y asociaciones civiles sin fines de lucro, con objeto social establecido bajo principios de equidad social y productividad;
 
-Subcomité: Al Subcomité sectorial para el Desarrollo Social y la Superación de la Pobreza del Comité Estatal de Planeación para el Desarrollo de Oaxaca.
+LI. Sistema: El Sistema Estatal de Desarrollo Social.
 
-Zonas de Atención Inmediata: A las áreas, microrregiones, regiones o municipios que además de ser zonas de atención prioritaria, presenten conflictos sociales, agrarios, desastres naturales o de cualquier índole que eleve considerablemente su situación de vulnerabilidad, por lo que su población requiera de ejecución inmediata de alguno o algunos de los programas de desarrollo social y humano;
+LII. Subcomité: Al Subcomité sectorial para el Desarrollo Social y la Superación de la Pobreza del Comité Estatal de Planeación para el Desarrollo de Oaxaca.
 
-Zonas de Atención Prioritaria: A las comunidades, municipios, microrregiones, regiones o áreas cuya población registra índices de pobreza y marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social y humano establecidos en esta Ley;
+LIII. Zonas de Atención Inmediata: A las áreas, microrregiones, regiones o municipios que además de ser zonas de atención prioritaria, presenten conflictos sociales, agrarios, desastres naturales o de cualquier índole que eleve considerablemente su situación de vulnerabilidad, por lo que su población requiera de ejecución inmediata de alguno o algunos de los programas de desarrollo social y humano;
 
-Zonas Indígenas con Identidad en Desarrollo: A las comunidades, microrregiones, regiones, municipios o asociación de estos que se organizan en función de su similitud para superar sus condiciones de pobreza, marginación o cualquier otra circunstancia que afecte su bienestar.
+LIV. Zonas de Atención Prioritaria: A las comunidades, municipios, microrregiones, regiones o áreas cuya población registra índices de pobreza y marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social y humano establecidos en esta Ley;
+
+LV. Zonas Indígenas con Identidad en Desarrollo: A las comunidades, microrregiones, regiones, municipios o asociación de estos que se organizan en función de su similitud para superar sus condiciones de pobreza, marginación o cualquier otra circunstancia que afecte su bienestar.
 
 ### CAPÍTULO II. APLICACIÓN DE LA LEY
 
@@ -449,9 +453,11 @@ La planeación para el desarrollo social del estado, es el proceso a través del
 
 La planeación deberá vincular la operación e instrumentación de los programas específicos con los objetivos generales establecidos en el Programa Estatal de Desarrollo Social. En ella participarán los grupos sociales involucrados, a través de un proceso de consulta pública impulsada por las dependencias y entidades de la Administración, conforme a lo dispuesto en la Constitución Política del Estado, la Ley de Planeación del Estado de Oaxaca y el Plan Estatal de Desarrollo de Oaxaca vigente, debiendo incluir las políticas Municipales de desarrollo social y las demás disposiciones en la materia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 21.
 
-El Ejecutivo del Estado como responsable de elaborar la planeación en política de desarrollo social y humano, con apego a la Ley de Planeación, atenderá los criterios del INEGI, COESPO, CONEVAL e indicadores de pobreza y marginación elaborados por los organismos estatales, nacionales e internacionales. La planeación se realizará fundamentalmente por las siguientes instituciones e instancias:
+El Ejecutivo del Estado como responsable de elaborar la planeación en política de desarrollo social y humano, con apego a la Ley de Planeación, atenderá los criterios del INEGI, CONAPO, CONEVAL e indicadores de pobreza y marginación elaborados por los organismos estatales, nacionales e internacionales. La planeación se realizará fundamentalmente por las siguientes instituciones e instancias:
 
 I. Secretaría de Desarrollo Social y Humano;
 
@@ -463,9 +469,13 @@ IV. Secretaria General de Gobierno;
 
 V. Secretaría de Asuntos Indígenas;
 
-VI. Comisión Estatal de Desarrollo Social y Humano; y
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
 
-VII. El Consejo Consultivo de Desarrollo Social y Humano.
+VI. Dirección General de Población de Oaxaca;
+
+VII. Comisión Estatal de Desarrollo Social y Humano; y
+
+VIII. El Consejo Consultivo de Desarrollo Social y Humano.
 
 ###### Artículo 22.
 
@@ -1017,19 +1027,29 @@ II. Un Secretario Técnico, que será designado por el Titular de la Secretaría
 
 III. Los representantes de las Dependencias o Entidades del Gobierno Federal, que desarrollen programas y acciones que incidan en el Desarrollo Social del Estado;
 
-IV. Los titulares de las Secretarías de: Finanzas y Planeación, Salud, Trabajo, Desarrollo Agropecuario, Forestal, Pesca y Acuacultura, Instituto de Ecología, Economía, Turismo;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+IV. Los titulares de las Secretarías de: Finanzas y Planeación, Salud, Desarrollo Agropecuario, Pesca y Acuacultura, Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, Economía y Turismo;
 
 V. El Contralor del Estado de Oaxaca;
 
 VI. El Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca;
 
-VII. La Directora del Instituto de la Mujer Oaxaqueña;
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
 
-VIII. El Director del Instituto Estatal de Protección Civil Oaxaca;
+VII. El Director General de Población de Oaxaca;
 
-IX. Representantes de las Instituciones Educativas; especialistas en la materia, y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
-X. Un representante de cada Consejo Microrregional.
+VIII. La Titular de la Secretaría de las Mujeres de Oaxaca;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+
+IX. El Titular de la Coordinación Estatal de Protección Civil de Oaxaca;
+
+X. Representantes de las Instituciones Educativas; especialistas en la materia, y
+
+XI. Un representante de cada Consejo Microrregional.
 
 ###### Artículo 67.
 
@@ -1612,3 +1632,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones normativas que se opongan al presente Decreto.
 
 TERCERO. Para los efectos del artículo 83 QUINQUIES del presente Decreto, el Registro Estatal de Organizaciones Sociales y Civiles, deberá iniciar su funcionamiento a más tardar el 31 de diciembre de 2018.
+
+P.O. 29 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 618.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
