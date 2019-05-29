@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-reconstruccion-integral-de-la-ciudad-de-mexico-1319
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-07"
-last_updated: "2018-12-07"
+last_updated: "2019-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131975&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-07"
 
 LEY PARA LA RECONSTRUCCIÓN INTEGRAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 2019.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 7 de diciembre de 2018.
 
@@ -296,11 +296,15 @@ e) Optar por algunas de las formas de organización, ya sea en sociedad en condo
 
 En el caso en que no sea posible acreditar la propiedad, legítima posesión o causahabiencia, el Gobierno de la Ciudad de México, podrá intervenir por causa de utilidad pública para realizar una adquisición por vía de derecho público, ya sea de manera total o parcial, para su regularización y consecuente restitución. Previo análisis, valoración, y en su caso aprobación de la Comisión, para cada caso en particular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 26.
 
 Cuando la Reconstrucción del Inmueble Afectado multifamiliar requiera de un mecanismo o esquema de financiamiento adicional, previa solicitud a la Comisión, las Personas Damnificadas podrán optar por alguna de las siguientes opciones:
 
-a) Un incremento de hasta 35% de la densidad respecto de la Zonificación, asignada en el Programa de Desarrollo Urbano que corresponda con el propósito de que las Personas Damnificadas cuenten con una alternativa económica para la reconstrucción del inmueble afectado pudiendo incluir inversión pública o privada.
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2019)</small>
+
+a) Un incremento de hasta 35% del total construido con anterioridad al sismo, de la densidad respecto de la Zonificación, asignada en el Programa de Desarrollo Urbano que corresponda, con el propósito de que las Personas Damnificadas cuenten con una alternativa económica para la reconstrucción del inmueble afectado pudiendo incluir inversión pública o privada.
 
 b) La redensificación necesaria para redistribuir la misma superficie de edificación preexistente. En este caso las Personas Damnificadas cederán un porcentaje de la superficie edificable que les corresponde, con el fin de construir viviendas adicionales con inversión privada.
 
@@ -416,9 +420,13 @@ XIV. Reglamento de Obras del Distrito Federal;
 
 Así como demás ordenamientos legales relacionados con la materia de Reconstrucción de la Ciudad.
 
+> <small>(REFORMADO, G.O. 29 DE MAYO DE 2019)</small>
+
 ###### Artículo 41.
 
-La Comisión contará con las facultades más amplias para resolver cualquier cuestión relacionada con la Reconstrucción, que no se encuentre previsto en la presente ley, con la finalidad de no retrasar la Reconstrucción.
+La Comisión contará con las facultades más amplias para agilizar la regularización de la situación legal de los títulos de las personas damnificadas ante las instancias competentes y realizar cualquier acto no previsto en la presente Ley, con la finalidad de no retrasar la Reconstrucción.
+
+El Gobierno de la Ciudad de México a través de la Comisión podrá transmitir a las personas damnificadas a título gratuito u oneroso, los inmuebles resultantes de los procesos de Reconstrucción, incluyendo aquellos que se adquieran por vías de derecho público y en su caso privado, sin que sean aplicables en dichas adquisiciones y transmisiones lo dispuesto en la Ley del Régimen Patrimonial y del Servicio Público del Distrito Federal y la normatividad que se derive de dicho ordenamiento legal.
 
 ###### Artículo 42.
 
@@ -451,3 +459,15 @@ DÉCIMO PRIMERO. Considerando que la Ciudad se encuentra asentada sobre una zona
 Palacio Legislativo del Congreso de la Ciudad de México, a los seis días del mes de diciembre del año dos mil dieciocho.- POR LA MESA DIRECTIVA.- DIPUTADO JOSÉ DE JESÚS MARTÍN DEL CAMPO CASTAÑEDA, PRESIDENTE.- DIPUTADA ISABELA ROSALES HERRERA, SECRETARIA.- DIPUTADA ANA PATRICIA BAEZ GUERRERO.- SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a), de la Constitución Política de la Ciudad de México; 2° fracciones XVII y XVIII, 6°, 9° fracción I, 18, fracciones XV y XXI, párrafo primero del artículo 20, de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los siete días del mes de diciembre del año dos mil dieciocho.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE PROTECCIÓN CIVIL Y DE LA GESTIÓN INTEGRAL DE RIESGOS, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, ROSAURA RUÍZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, LARISA ORTÍZ QUINTERO.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, JOSÉ LUIS BEATO GONZÁLEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.- EL SECRETARIO DE CULTURA, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, JESÚS ORTA MARTÍNEZ.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 29 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LOS ARTÍCULOS 26 Y 41 DE LA LEY PARA LA RECONSTRUCCIÓN INTEGRAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO: El presente Decreto entra en vigor al siguiente día después de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO: Remítase a la Jefa de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO: Para efectos de lo dispuesto en este Decreto, las disminuciones o condonaciones en materia de contribuciones dispuestas en el Código Fiscal de la Ciudad de México, deberán ajustarse en lo dispuesto en los artículos 44 del Código Fiscal de la Ciudad de México y 123 y 125 de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México y lo dispuesto en la Resolución de carácter general mediante la cual se otorgan facilidades administrativas y se condona totalmente y exime el pago de diversas contribuciones y aprovechamientos publicada en el (sic) Gaceta Oficial de la Ciudad de México el 24 de enero de 2019.
