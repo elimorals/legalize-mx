@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-y-fomento-apicola-del-estado-de-quintana-9613
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-06"
-last_updated: "2013-09-06"
+last_updated: "2019-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019.
 
 Ley publicada en Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 6 de septiembre de 2013.
 
@@ -55,7 +55,7 @@ Son sujetos de esta ley:
 
 I.- Las personas físicas o morales, que se dediquen de manera directa o indirecta a la cría, explotación, mejoramiento, compraventa y movilización de colonias de abejas.
 
-II.- Quienes realicen actividades de producción, acopio, decantación, industrialización, almacenamiento, comercialización y transporte de productos apícolas, sin importar el régimen tributario al que estén inscritos; (sic)
+II.- Quienes realicen actividades de producción, acopio, decantación, industrialización, almacenamiento, comercialización y transporte de productos apícolas, sin importar el régimen tributario al que estén inscritos;
 
 ###### Artículo 4.
 
@@ -575,6 +575,10 @@ Para el control de plagas y enfermedades los apicultores deberán utilizar produ
 
 La Secretaría deberá procurar que los agricultores que utilicen plaguicidas y herbicidas en sus cultivos den aviso a los apicultores que tengan sus apiarios ubicados a una distancia menor de dos kilómetros del predio donde se aplican de conformidad con lo establecido en el Reglamento de esta Ley, de no realizarse el aviso preceptuado en este artículo se harán acreedores a una multa de acuerdo al daño causado.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2019)</small>
+
+La Secretaría deberá evitar el uso de plaguicidas que produzcan efectos graves por su nivel de toxicidad para la salud o en el medio ambiente tras la exposición simple o múltiple en sus condiciones de uso.
+
 ### CAPÍTULO DÉCIMO QUINTO. DE LA INFORMACIÓN APÍCOLA
 
 ###### Artículo 57.
@@ -716,3 +720,11 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 323 POR EL QUE SE ADICIONA UN PARRAFO SEGUNDO AL ARTICULO 56 DE LA LEY DE PROTECCION Y FOMENTO APICOLA DEL ESTADO DE QUINTANA ROO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
