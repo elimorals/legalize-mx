@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2019-04-11"
+last_updated: "2019-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -483,7 +483,9 @@ Igualmente deben designar la casa en que ha de hacerse la primera notificación 
 
 Cuando no se cumpla con lo prevenido en la primera parte de este artículo, las notificaciones, aun las que, conforme a las reglas generales, deban hacerse personalmente, se le harán por estrados, si faltare a la segunda parte no se hará notificación alguna a la persona contra quien promueva hasta que se subsane la omisión.
 
-Igualmente, las partes podrán autorizar que a través del correo electrónico, se les realicen notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se otorgue este tipo de autorización, generándose en cada diligencia electrónica, un registro que contendrá folio, juzgado, expediente, fecha y hora de cada notificación, el cual será agregado a los autos y al sistema de captura de información y se tendrá por legalmente practicada la notificación hecha por este medio, surtiendo sus efectos en los términos previstos por los artículos, 117, y 121, de este Código.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2019)</small>
+
+Igualmente, las partes podrán autorizar que a través del correo electrónico, se les realicen notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se otorgue este tipo de autorización, generándose en cada diligencia electrónica, un registro que contendrá folio, juzgado, expediente, fecha y hora de cada notificación, el cual será agregado a los autos y al sistema de captura de información y se tendrá por legalmente practicada la notificación hecha por este medio, surtiendo sus efectos el día siguiente al en que se practique.
 
 Se excluye de la anterior forma de notificación el emplazamiento a juicio y las demás que el juez así lo considere conveniente.
 
@@ -543,6 +545,10 @@ En este caso, las notificaciones se firmarán por el notificador y por la person
 
 Se exceptúa de llevar a cabo el emplazamiento en el domicilio del demandado; del tercero llamado a juicio; de tutores; curadores; apoderados; mandatarios; o peritos, si el propio interesado ocurre para tal efecto ante el Tribunal, cerciorándose el notificador sobre la identidad y consentimiento del compareciente, de todo lo cual asentará constancia pormenorizada, debiendo practicarlo con las demás formalidades procesales. No será necesario que se autorice expresamente realizarlo en los términos indicados.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2019)</small>
+
+Las notificaciones personales se tienen por hechas y surten efecto al momento en que se practican.
+
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ART. 115.- Cuando se trate de notificar a testigos y a personas que no sean parte del juicio, en el caso de que la parte que lo solicite, manifieste bajo protesta de decir verdad que no puede presentarlos, se puede hacer personalmente por cédula, que deberá entregarse en el domicilio en que habite el testigo o la persona que no sea parte del juicio, y deberá contener transcripción de la determinación que se manda notificar, la clase de procedimiento, el nombre y apellidos de las partes, el juez o tribunal que manda practicarla, recabando la firma del notificado en la copia de la cédula que será agregada a los autos. Las referidas personas podrán ser notificadas también por correo certificado con acuse de recibo o por telégrafo, fuera del lugar de residencia del juzgado o tribunal, en ambos casos a costa del promovente. Cuando se haga por telegrama se enviará por duplicado a la oficina que ha de transmitirlo, la cual devolverá, con el correspondiente recibo sellado, uno de los ejemplares que se agregará al expediente
@@ -589,7 +595,9 @@ ART. 119.- Deben firmar las notificaciones las personas que las hacen y aquélla
 
 A las partes y a las personas autorizadas en términos del artículo 118 párrafo primero, y a los autorizados para oír notificaciones, conforme al párrafo tercero, del mismo numeral, se les dará copia simple de la resolución que se notifique, si lo pidieren, sin necesidad de acuerdo previo, bastando para ello, la sola constancia de su entrega.
 
-ART. 120.- Si las partes o sus procuradores no ocurren al tribunal o juzgado a notificarse en los días y horas a que se refiere el artículo 117, la notificación se dará por hecha y surtirá sus efectos a las doce del último día a que se refiere el artículo citado, a condición de que se haya hecho en la lista de acuerdos.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2019)</small>
+
+ART. 120.- Si las partes o sus procuradores no ocurren al tribunal o juzgado a notificarse en los días y horas a que se refiere el artículo 117, la notificación se dará por hecha y surtirá sus efectos el día siguiente al en que se publique, a condición de que se haya hecho en la lista de acuerdos.
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -599,7 +607,9 @@ La lista de acuerdos deberá fijarse en los estrados del Juzgado o Sala, que cor
 
 Por ningún motivo se incluirán en la lista los asuntos o resoluciones de carácter reservado a juicio del tribunal, debiendo motivarse expresamente esta determinación.
 
-La sola publicación de la lista de acuerdos en los estrados del juzgado o tribunal, y en la página de internet del Poder Judicial, se tendrá por hecha y surtirá sus efectos en la misma fecha de publicación.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2019)</small>
+
+La sola publicación de la lista de acuerdos en los estrados del juzgado o tribunal, y en la página de internet del Poder Judicial, se tendrá por hecha y surtirá sus efectos al día siguiente de su publicación.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -607,7 +617,9 @@ ART. 122.- En las salas del Tribunal y en los juzgados, el actuario o notificado
 
 ### CAPITULO VI. De los Términos Judiciales
 
-ART. 123.- Los términos judiciales empezarán a correr desde el día siguiente a aquel en que se hubiere hecho el emplazamiento o notificación.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2019)</small>
+
+ART. 123.- Todos los términos judiciales empezarán a correr desde el día siguiente a aquél en que surta efectos el emplazamiento o notificación.
 
 ART. 124.- Cuando fueren varias las partes y el término común, se contará desde el día siguiente a aquel en que todas hayan quedado notificadas.
 
@@ -5910,6 +5922,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 11 DE ABRIL DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0146.- SE ADICIONA UN PÁRRAFO AL ARTÍCULO 69 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0170.- SE REFORMAN LOS ARTÍCULOS 107, 120, 121 Y 123; Y ADICIONA AL ARTÍCULO 114 PÁRRAFO CUARTO, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
