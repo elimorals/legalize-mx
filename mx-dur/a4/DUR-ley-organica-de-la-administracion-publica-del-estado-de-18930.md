@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2017-11-16"
+last_updated: "2019-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2019.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -275,9 +275,11 @@ Al tomar posesión del cargo y al concluir éste, los titulares de las dependenc
 
 ### CAPÍTULO II. FACULTADES DE LAS SECRETARÍAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 28.
 
-Para la planeación, ejecución, control y evaluación de las actividades de la Administración Pública del Estado, y para el despacho de los asuntos que le competen al Ejecutivo Estatal, actuarán las siguientes dependencias:
+Para la planeación, ejecución, control y evaluación de las actividades de la Administración Pública del Estado y para el despacho de los asuntos que le competen al Ejecutivo Estatal, actuaran las siguientes dependencias:
 
 I. Secretaría General de Gobierno;
 
@@ -303,21 +305,21 @@ IX. Secretaria de Recursos Naturales y Medio Ambiente; y
 
 X. Secretaría de Seguridad Pública;
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2019)</small>
 
-XI. Secretaría de Desarrollo Social; y
+XI. Secretaría de Bienestar Social;
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-XII.- Secretaría de Turismo; y
+XII. Secretaría de Turismo; y
 
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 2008)</small>
 
-XIII.- Secretaría del Trabajo y Previsión Social; y
+XIII. Secretaría del Trabajo y Previsión Social; y
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
 
-XIV.- Fiscalía General del Estado.
+XIV. Fiscalía General del Estado.
 
 ###### ARTICULO 29.
 
@@ -1647,9 +1649,13 @@ XLIX.- Fungir como integrante del Sistema Nacional de Fiscalización en término
 
 L.- Coordinar y supervisar el sistema de control interno, establecer las bases generales para la realización de auditorías internas, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Estatal, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control;
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2019)</small>
 
-LI.- Las demás que le encomiende el Ejecutivo del Estado o le señalen las leyes, Reglamentos y demás normatividad aplicable.
+LI.- Llevar y normar el registro de servidores públicos de la Administración Pública Estatal, recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE MAYO DE 2019)</small>
+
+LII.- Las demás que le encomiende el Ejecutivo del Estado o le señalen las leyes, Reglamentos y demás normatividad aplicable.
 
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2008)</small>
 
@@ -1853,33 +1859,33 @@ XXV. Elaborar, ejecutar y evaluar programas destinados a dar atención y orienta
 
 XXVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas vigentes en la materia.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2019)</small>
 
-ARTICULO 37 bis 1. La Secretaría de Desarrollo Social es la dependencia del Ejecutivo Estatal responsable de planear, programar, ejecutar y evaluar la política de desarrollo social y humano en la Entidad, en el marco de la Gestión Pública Basada en Resultados. Le compete el despacho de los siguientes asuntos:
+ARTICULO 37 bis 1. La Secretaría de Bienestar Social es la dependencia del Ejecutivo Estatal responsable de planear, conducir, programar, ejecutar y evaluar la política de desarrollo social y humano en la Entidad, en el marco de la Gestión Pública Basada en Resultados. Le compete el despacho de los siguientes asuntos:
 
 I. Planear la política de desarrollo social y humano sobre la base de diagnósticos que identifiquen la problemática y prioridades estatales, con la participación de la sociedad y en coordinación con los órdenes de gobierno federal y municipal;
 
-II. Realizar estudios y diagnósticos que permitan identificar zonas marginadas y grupos de atención prioritarios;
+II. Realizar estudios y diagnósticos que permitan identificar zonas marginadas y grupos de atención prioritaria;
 
-III. Promover y fortalecer la participación de la comunidad a través de la integración de comités de desarrollo social para la definición y ejecución de obras y acciones prioritarias que mejoren sus condiciones de vida, especialmente la de aquellos sectores más necesitados;
+III. Promover y fortalecer la integración de comités de desarrollo social y de participación ciudadana, para la definición y ejecución de obras y acciones prioritarias que mejoren sus condiciones de vida, especialmente la de aquellos sectores más necesitados;
 
 IV. Gestionar ante el Gobierno Federal los recursos necesarios para el desarrollo social y humano en el Estado;
 
-V. Presentar a la Secretaría de Finanzas y Administración el anteproyecto de presupuesto de egresos basado en resultados en materia de desarrollo social y humano;
+V. Presentar a la Secretaría de Finanzas y de Administración el anteproyecto de presupuesto de egresos basado en resultados en materia de desarrollo y bienestar social y humano;
 
 VI. Verificar el proceso de ejecución y entrega de las obras y acciones concertadas con los distintos órdenes de gobierno y la sociedad.
 
-VII. Registrar en coordinación con los demás órdenes de gobierno los programas de inversión en materia de desarrollo social y humano;
+VII. Registrar en coordinación con los demás órdenes de gobierno los programas de inversión en materia de desarrollo y bienestar social y humano;
 
-VIII. Evaluar el desempeño de los programas y acciones en materia de desarrollo social, verificando su impacto y cumplimiento de objetivos, en los términos de la gestión pública, basada en resultados;
+VIII. Evaluar el desempeño de los programas y acciones en materia de desarrollo social, verificando su impacto y cumplimiento de objetivos, en los términos de la gestión pública basada en resultados;
 
 IX. Promover, coordinar, concertar y ejecutar programas y acciones que contribuyan a combatir la pobreza, igualar las oportunidades de desarrollo y generar mejores condiciones de vida para la población;
 
-X. Coordinar y concertar acciones a fin de satisfacer las necesidades más apremiantes de los sectores de la población más vulnerables que se encuentren en situación de riesgo o pobreza extrema, mediante programas o paquetes básicos de ayuda;
+X. Coordinar y concertar acciones a fin de satisfacer las necesidades más apremiantes de los sectores de la población más vulnerables que se encuentren en situación de riesgo o pobreza extrema, alineados a los programas de los tres órdenes de gobierno y de los sectores social y privado;
 
-XI. Coordinar e instrumentar programas y acciones para el mejoramiento de las condiciones alimenticias de la población en situación de pobreza extrema y marginación;
+XI. Coordinar e instrumentar programas y acciones para mejorar las condiciones alimenticias de la población en situación de pobreza extrema y marginación;
 
-XII. Promover y coordinar programas y acciones que desarrollen las capacidades y habilidades de las personas con el fin de generar condiciones que brinden mayores oportunidades para su desarrollo personal, productivo y humano.
+XII. Promover y coordinar programas y acciones que desarrollen las capacidades y habilidades de las personas con el fin de generar condiciones que brinden mayores oportunidades para su desarrollo personal, familiar y social en el ámbito productivo;
 
 XIII. Formular y concertar programas prioritarios para la atención de los pueblos y comunidades indígenas;
 
@@ -1889,33 +1895,43 @@ XV. Formular y concertar programas, obras y acciones en beneficio de los migrant
 
 XVI. Promover y priorizar en los programas sociales la construcción de obras de infraestructura social básica en agua potable, drenaje, electrificación, vivienda, saneamiento ambiental y equipamiento urbano;
 
-XVII. Impulsar mediante programas, obras y acciones, el desarrollo regional y municipal que genere mejores condiciones y propicie un equilibrio entre los distintos polos de desarrollo en el Estado;
+XVII. Impulsar mediante programas, obras y acciones, el desarrollo regional y municipal que genere mejores condiciones y propicie un entorno sustentable para las familias y sus comunidades;
 
 XVIII. Promover y apoyar mecanismos de financiamiento para proyectos y acciones que fomenten el desarrollo social y humano;
 
-XIX. Realizar los convenios y acuerdos para la ejecución de programas, obras y acciones, con los entes públicos del Estado, el Gobierno Federal, los municipios y los particulares, necesarios para instrumentar la política de desarrollo social y humano en la entidad;
+XIX. Realizar los convenios y acuerdos para la ejecución de programas, obras y acciones, con los entes públicos del Estado, el Gobierno Federal, los municipios y los sectores social y privado, necesarios para instrumentar la política de desarrollo social y humano en la entidad;
 
-XX. Coordinar con los distintos órdenes de gobierno la promoción y publicidad de obras y acciones realizadas, en los términos de la normatividad y los convenios respectivos;
+XX. Coordinar con los distintos órdenes de gobierno la promoción y trasparencia (sic), en el recurso ejercido para la realización de obras y acciones, en los términos de la normatividad y los convenios respectivos;
 
 XXI. Formular, promover y concertar programas de construcción y mejoramiento de vivienda, beneficiando preferentemente a los sectores más necesitados;
 
-XXII. Promover y fomentar la organización de sociedades constructoras de vivienda y de materiales de construcción en las comunidades, en coordinación con las dependencias correspondientes;
+XXII. Promover y fomentar la participación de las comunidades para el suministro de los materiales de construcción propios de la región y además la utilización de la mano de obra en los proyectos que se ejecuten en sus localidades;
 
-XXIII. Someter a consideración del Gobernador del Estado los estudios de expropiación por causa de utilidad pública de inmuebles para construcción de vivienda popular;
+XXIII. Impulsar y coordinar programas y acciones a favor de personas con discapacidad y adultos mayores;
 
-XXIV. Coordinar y realizar programas y acciones con perspectiva de género que propicien la incorporación en la actividad productiva y generen igualdad de oportunidades para las mujeres;
+XXIV. Someter a consideración del Gobernador del Estado los estudios de expropiación por causa de utilidad pública;
 
-XXV. Promover los derechos y combatir la violencia contra las mujeres mediante programas integrales de prevención y atención;
+XXV. Elaborar y coordinar programas enfocados al desarrollo humano y superación de la pobreza;
 
-XXVI. Impulsar programas y acciones que fomenten una mejor calidad de vida para los jóvenes, motivando su participación y desenvolvimiento en el desarrollo del Estado;
+XXVI. Coordinar y realizar programas y acciones con perspectiva de género;
 
-XXVII. Elaborar y proponer al Ejecutivo del Estado, los anteproyectos de ley, reglamentos y demás disposiciones administrativas, en materia de desarrollo social y humano;
+XXVII. Promover los derechos de las mujeres mediante programas, políticas y acciones integrales;
 
-XXVIII. Brindar asesoría en materia de desarrollo social a los municipios de la entidad y a los grupos y sectores organizados de la sociedad;
+XXVIII. Impulsar programas y acciones que fomenten una mejor calidad de vida para los jóvenes, motivando su participación y desenvolvimiento en el desarrollo del Estado;
 
-XXIX. Promover con las universidades e instituciones de educación media o superior o con los organismos que los agrupen legalmente, así como con la Secretaría de Educación, el servicio social para que se constituya como un detonador del desarrollo general; y
+XXIX. Elaborar y proponer al Ejecutivo del Estado, los anteproyectos de ley, reglamentos y demás disposiciones administrativas, en materia de desarrollo y bienestar social;
 
-XXX. Las demás que le encomiende el Ejecutivo del Estado o le señalen las leyes y reglamentos de la materia.
+XXX. Brindar asesoría en materia de desarrollo social y humano a los municipios de la entidad y a los grupos y sectores organizados de la sociedad;
+
+XXXI. Promover con las universidades e instituciones de educación media o superior o con los organismos que los agrupen legalmente, y con la Secretaría de Educación, el servicio social para que se constituya como un detonador del desarrollo general;
+
+XXXII. Coordinarse con las instancias correspondientes en el tema de uniformes escolares:
+
+XXXIII. Instrumentar políticas de atención especialmente para niñas, niños y adolescentes;
+
+XXXIV. Impulsar programas para promover la corresponsabilidad de manera equitativa entre las familias, el Estado y las instituciones de asistencia social y privada, para el cuidado de los niños, niñas y adolescentes y de los grupos vulnerables; y
+
+XXXV. Las que le señalen las leyes y reglamentos en la materia y las que le encomiende el Ejecutivo del Estado.
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
@@ -2667,7 +2683,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 16 DE JULIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 192.- POR EL QUE SE REFORMA EL ARTICULO 36 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE DURANGO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 192.- POR EL QUE SE REFORMA EL ARTÍCULO 36 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2688,3 +2704,25 @@ SEGUNDO. Las disposiciones relacionadas con el equilibrio presupuestario y la re
 TERCERO. Las obligaciones relacionadas con el Registro Único, serán aplicables hasta la entrada en operación del mismo, de conformidad con lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 CUARTO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 30 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 98.- QUE CONTIENE REFORMAS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
+
+TERCERO.- El Titular del Poder Ejecutivo del Estado deberá expedir las adecuaciones reglamentarias en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- Cuando en las diversas disposiciones legales, reglamentarias y administrativas, se haga alusión a la Secretaría de Bienestar Social, se entenderá que se refieren a la Secretaría de Bienestar Social.
+
+P.O. 30 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 99.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- La presentación de las declaraciones patrimoniales y de intereses se sujetarán a lo dispuesto en los acuerdos que para tal efecto emita el Comité Coordinador del Sistema Nacional Anticorrupción.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
