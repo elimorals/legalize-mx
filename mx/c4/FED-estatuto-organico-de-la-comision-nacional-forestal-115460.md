@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-forestal-115460"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-07-05"
-last_updated: "2019-05-08"
+last_updated: "2019-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115460&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2016-06-01"
 ---
 # ESTATUTO ORGANICO DE LA COMISION NACIONAL FORESTAL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE MAYO DE 2019 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL FORESTAL
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 30 DE MAYO DE 2019.]</small>
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 5 de julio de 2016.
 
@@ -77,23 +77,33 @@ I. Dirección General;
 
 > <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2019)</small>
 
-II. Coordinación de Apoyo y Proyectos Especiales
+II. Coordinación de Apoyo y Proyectos Especiales;
 
-III. Coordinación General de Producción y Productividad;
+(REFORMADA, D.O.F. 8 DE MAYO DE 2019) (F. DE E., D.O.F. 30 DE MAYO DE 2019)
 
-IV. Coordinación General de Conservación y Restauración;
+III. Coordinación General Jurídica;
 
-V. Coordinación General de Administración;
+(REFORMADA, D.O.F. 8 DE MAYO DE 2019) (F. DE E., D.O.F. 30 DE MAYO DE 2019)
+
+IV. Coordinación General de Producción y Productividad;
+
+(REFORMADA, D.O.F. 8 DE MAYO DE 2019) (F. DE E., D.O.F. 30 DE MAYO DE 2019)
+
+V. Coordinación General de Conservación y Restauración;
 
 > <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2019)</small>
 
 VI. Unidad de Administración y Finanzas;
 
-VII. Coordinación General de Educación y Desarrollo Tecnológico;
+(REFORMADA, D.O.F. 8 DE MAYO DE 2019) (F. DE E., D.O.F. 30 DE MAYO DE 2019)
 
-VIII. Coordinación General de Gerencias Estatales;
+VII. Coordinación General de Planeación e Información;
 
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2019)</small>
+(REFORMADA, D.O.F. 8 DE MAYO DE 2019) (F. DE E., D.O.F. 30 DE MAYO DE 2019)
+
+VIII. Unidad de Asuntos Internacionales y Fomento Financiero, y
+
+(REFORMADA, D.O.F. 8 DE MAYO DE 2019) (F. DE E., D.O.F. 30 DE MAYO DE 2019)
 
 IX. Unidad de Vinculación Sectorial.
 
@@ -111,115 +121,133 @@ Para el despacho de los asuntos que les correspondan, las unidades administrativ
 
 I. Dirección General:
 
-a) Dirección General Adjunta;
+(REFORMADO, D.O.F. 8 DE MAYO DE 2019) (F. DE E., D.O.F. 30 DE MAYO DE 2019)
 
-b) Gerencias Estatales, y
+a) Gerencias Estatales, y
 
-c) Coordinación en la Ciudad de México.
+(REFORMADO, D.O.F. 8 DE MAYO DE 2019) (F. DE E., D.O.F. 30 DE MAYO DE 2019)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE MAYO DE 2019)</small>
+b) Coordinación en la Ciudad de México.
 
-II. Coordinación de Apoyo y Proyectos Especiales
+(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 8 DE MAYO DE 2019) (F. DE E., D.O.F. 30 DE MAYO DE 2019)
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+II. Coordinación de Apoyo y Proyectos Especiales:
 
-a) Gerencia de Comunicación y Producción
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
-b) Dirección de lo Contencioso, Administrativo y Judicial.
+b) (sic) Gerencia de Comunicación y Producción.
 
-III. Coordinación General de Producción y Productividad:
+(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 8 DE MAYO DE 2019) (F. DE E., D.O.F. 30 DE MAYO DE 2019)
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+III. Coordinación General Jurídica:
+
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
 a) Gerencia de Normatividad y Consulta, y
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
 b) Gerencia de lo Contencioso, Administrativo y Judicial.
 
-c) Gerencia de Servicios Ambientales del Bosque.
+(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 8 DE MAYO DE 2019) (F. DE E., D.O.F. 30 DE MAYO DE 2019)
 
-IV. Coordinación General de Conservación y Restauración:
+IV. Coordinación General de Producción y Productividad:
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
 a) Gerencia de Manejo Forestal Comunitario;
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
 b) Gerencia de Plantaciones Forestales Comerciales;
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
 c) Gerencia de Abasto, Transformación y Mercados;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE MAYO DE 2019)</small>
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
-d) Unidad de Educación y Desarrollo Tecnológico y,
+d) Unidad de Educación y Desarrollo Tecnológico, y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE MAYO DE 2019)</small>
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
-e) Gerencia de Desarrollo y Transferencia de Tecnología
+e) Gerencia de Desarrollo y Transferencia de Tecnología.
 
-V. Coordinación General de Administración:
+(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 8 DE MAYO DE 2019) (F. DE E., D.O.F. 30 DE MAYO DE 2019)
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+V. Coordinación General de Conservación y Restauración:
+
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
 a) Gerencia de Reforestación y Restauración de Cuencas Hidrográficas;
 
-b) Gerencia de Recursos Humanos, y
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+b) Gerencia de Sanidad;
 
-c) Gerencia de Manejo del Fuego y
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE MAYO DE 2019)</small>
+c) Gerencia de Manejo del Fuego, y
 
-d) Gerencia de Servicios Ambientales del Bosque y Conservación de la Biodiversidad
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE MAYO DE 2019)</small>
+d) Gerencia de Servicios Ambientales del Bosque y Conservación de la Biodiversidad.
+
+(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 8 DE MAYO DE 2019) (F. DE E., D.O.F. 30 DE MAYO DE 2019)
 
 VI. Unidad de Administración y Finanzas:
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
 a) Gerencia de Programación y Presupuesto;
 
-b) Gerencia de Informática;
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
-c) Gerencia de Sistema Nacional de Monitoreo Forestal, y
+b) Gerencia de Recursos Humanos;
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
-d) Gerencia de Tecnologías de la Información y Comunicación
+c) Gerencia de Recursos Materiales, y
 
-VII. Coordinación General de Educación y Desarrollo Tecnológico:
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
-a) Gerencia de Desarrollo y Transferencia de Tecnología, y
+d) Gerencia de Tecnologías de la Información y Comunicación.
 
-b) Gerencia de Educación Capacitación y Cultura Forestal.
+(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 8 DE MAYO DE 2019) (F. DE E., D.O.F. 30 DE MAYO DE 2019)
 
-c) ... (sic)
+VII. Coordinación General de Planeación e Información:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE MAYO DE 2019)</small>
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
+
+a) Gerencia de Planeación y Evaluación;
+
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
+
+b) Gerencia de Sistema Nacional de Monitoreo Forestal;
+
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
+
+c) Gerencia de Información Forestal, y
+
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
 d) Unidad de Operación Regional.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE MAYO DE 2019)</small>
+(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 8 DE MAYO DE 2019) (F. DE E., D.O.F. 30 DE MAYO DE 2019)
 
 VIII. Unidad de Asuntos Internacionales y Fomento Financiero:
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
 a) Gerencia de Cooperación Internacional;
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2019)</small>
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
-b) Gerencia de Financiamiento y
+b) Gerencia de Financiamiento, y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE MAYO DE 2019)</small>
+> <small>(F. DE E., D.O.F. 30 DE MAYO DE 2019)</small>
 
-c) Gerencia de Bosques y Cambio Climático
+c) Gerencia de Bosques y Cambio Climático.
 
 > <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2019)</small>
 
@@ -972,3 +1000,9 @@ SEGUNDO.- La presente modificación al Estatuto Orgánico de la Comisión Nacion
 TERCERO.- Inscríbase en el Registro Público de Organismos Descentralizados.
 
 CUARTO.- Todas las obligaciones atribuidas en manuales, lineamientos, políticas, normas, reglas de operación o cualquier otra normatividad administrativa, a las áreas que en virtud de la emisión de este Estatuto cambian de denominación o se integran a una nueva, se entenderán conferidas a las unidades administrativas o subalternas que derivado del presente Estatuto tengan conferidas las funciones o atribuciones de que se trate; hasta en tanto se realizan las modificaciones conducentes.
+
+D.O.F. 30 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACLARACIÓN AL ACUERDO POR EL QUE SE DA A CONOCER LA MODIFICACIÓN DE LOS ARTÍCULOS 4, INCISO B, FRACCIONES II, VI Y IX; 5, FRACCIÓN II Y SU INCISO A); FRACCIÓN III, INCISOS A) Y B); FRACCIÓN IV, INCISOS A), C), D) Y E); FRACCIÓN V, INCISOS A), C), D); FRACCIÓN VI INCISOS A) Y D); FRACCIÓN VII, INCISO D); FRACCIÓN VIII Y SUS INCISOS A), B), C); FRACCIÓN IX; Y SUS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO; 8, PRIMER PÁRRAFO Y LAS FRACCIONES III Y IV; 9 Y 11, PRIMER PÁRRAFO Y LAS FRACCIONES II, III, IV, V, VII, IX Y XIII; Y, LAS REFORMAS DEL CONTENIDO DE LOS ARTÍCULOS 10, Y DEL 12 AL 28; Y, SE ADICIONA EL ARTÍCULO CUARTO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL FORESTAL PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 08 DE MAYO DE 2019”.]
+
+ÚNICO.- La presente ACLARACIÓN, entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
