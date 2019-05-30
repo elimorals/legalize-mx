@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-543-hacendario-para-el-municipio-de-veracruz-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-03-10"
-last_updated: "2018-11-12"
+last_updated: "2019-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MAYO DE 2019.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 10 de marzo de 2003.
 
@@ -3071,9 +3071,9 @@ de nacimiento de una persona y, en su caso, del
 
 acta de adopción; 1.20
 
-II. Registro de nacimientos ordinarios y
+> <small>(REFORMADA, G.O. 30 DE MAYO DE 2019)</small>
 
-extemporáneos. 1.20
+II. Registro de nacimientos ordinarios y extemporáneos, cero;
 
 > <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2018)</small>
 
@@ -5372,3 +5372,11 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 Tercero. La Unidad de Medida y Actualización será utilizada en sustitución del salario mínimo, para la determinación de la cuantía del pago de las obligaciones y supuestos previstos en este Código.
 
 Cuarto. El valor de la Unidad de Medida y Actualización, será el estipulado por el Instituto Nacional de Estadística.
+
+G.O. 30 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 246 QUE REFORMA LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DE MINATITLÁN Y TUXPAN DEL ESTADO DE VERACRUZ, CORRESPONDIENTES AL EJERCICIO FISCAL 2019; Y LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, ORIZABA, TIERRA BLANCA Y VERACRUZ, TODOS DEL ESTADO DE VERACRUZ".]
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
