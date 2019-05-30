@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-etica-y-conducta-y-las-reglas-de-integridad-para-1218
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-01"
-last_updated: "2017-06-01"
+last_updated: "2019-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # CODIGO DE ETICA Y CONDUCTA, Y LAS REGLAS DE INTEGRIDAD PARA LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA ESTATAL DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, PUBLICADO EN EL B.O. DE 30 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA Y CONDUCTA, Y LAS REGLAS DE INTEGRIDAD PARA LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MAYO DE 2019 (ABROGADO).
 
 Código publicado en la Sección I al Número 44 del Boletín Oficial del Estado de Sonora, el jueves 1 de junio de 2017.
 
@@ -214,3 +216,23 @@ Número de empleo
 Firma
 
 Nombre
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+PRIMERO.- El presente código entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Estado.
+
+SEGUNDO.- Se abroga el Código de Ética y Conducta, y las Reglas de Integridad para los servidores públicos de la administración pública estatal, publicado en el Boletín Oficial del Estado el 1 de junio de 2017.
+
+TERCERO.- El titular de la Secretaría es la única autoridad competente para emitir el presente Código de Ética, el cual habrá de regir para las dependencias y entidades de la Administración Pública Estatal, en virtud de que los Órganos Internos de Control, dependen jerárquica, administrativa y funcionalmente de este, conforme al Penúltimo Considerando de este documento.
+
+CUARTO.- Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente código, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+QUINTO.- Las dependencias, entidades u órganos desconcentrados en su caso, que a la fecha de entrada en vigor del presente Código de Ética, no cuenten con un Comité de Ética e Integridad, deberán constituirlo en un plazo de 60 días naturales, y deberán emitir su Código de Conducta dentro de los 90 días naturales siguientes a la fecha de su instalación.
+
+SEXTO.- Los entes públicos deberán emitir sus respectivos Códigos de Conducta, alineados al presente documento, en un plazo no mayor a 90 días naturales siguientes a su entrada en vigor.
+
+SÉPTIMO.- La normativa que rige a los Comités de Ética e Integridad, así como los mecanismos de evaluación, seguirán vigentes hasta en tanto la unidad, emita las actualizaciones correspondientes.
