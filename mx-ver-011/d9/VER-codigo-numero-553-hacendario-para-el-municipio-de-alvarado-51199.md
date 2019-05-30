@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-553-hacendario-para-el-municipio-de-alvarado-5119
 country: "mx"
 rank: "codigo"
 publication_date: "2006-07-14"
-last_updated: "2017-12-26"
+last_updated: "2019-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE ALVARADO, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MAYO DE 2019.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 14 de julio de 2006.
 
@@ -1251,7 +1251,7 @@ La persona condenada por delitos fiscales gozará de los beneficios que establec
 
 ###### Artículo 101.
 
-Cuando en la comisión de delitos fiscales intervengan o participen auditores, notificadores, técnicos fiscales, contadores, economistas, abogados o peritos, o de alguna otra profesión, o personas que tengan el carácter de autoridad fiscal, independientemente de las penas que les correspondan conforme al delito de que se trate en este Código, se les inhabilitará para ejercer su profesión o actividad, hasta por tres años, o definitivamente, según lo resuelva el Juez, conforme a las reglas generales establecidas en el Código Penal para el Estado de Veracruz (sic).
+Cuando en la comisión de delitos fiscales intervengan o participen auditores, notificadores, técnicos fiscales, contadores, economistas, abogados o peritos, o de alguna otra profesión, o personas que tengan el carácter de autoridad fiscal, independientemente de las penas que les correspondan conforme al delito de que se trate en este Código, se les inhabilitará para ejercer su profesión o actividad, hasta por tres años, o definitivamente, según lo resuelva el Juez, conforme a las reglas generales establecidas en el Código Penal para el Estado de Veracruz.
 
 ###### Artículo 102.
 
@@ -1283,7 +1283,7 @@ Al reincidente se le aplicará la sanción privativa de libertad que corresponda
 
 ###### Artículo 106.
 
-Para los delitos señalados en este Título se aplicarán supletoriamente las disposiciones de los Códigos Penal y de Procedimientos Penales para el Estado de Veracruz (sic).
+Para los delitos señalados en este Título se aplicarán supletoriamente las disposiciones de los Códigos Penal y de Procedimientos Penales para el Estado de Veracruz.
 
 ###### Artículo 107.
 
@@ -1463,6 +1463,10 @@ Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en c
 
 Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de seis mil salarios mínimos. A este descuento no se podrá adicionar el previsto en el artículo 118 de este Código.
 
+> <small>(ADICIONADO, G.O. 30 DE MAYO DE 2019)</small>
+
+El Ayuntamiento, por acuerdo del Cabildo, podrá otorgar igualmente el descuento del cincuenta por ciento en el pago de esta contribución a madres solteras que sean jefas de familia, siempre que reúnan los requisitos señalados en el párrafo anterior. En ese caso, la tesorería municipal informará al Congreso del Estado y al Órgano de Fiscalización Superior sobre el acuerdo referido.
+
 > <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 122.
@@ -1527,7 +1531,7 @@ V. Las aportaciones en especie para la constitución, aumento o disminución de 
 
 VI. La constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción de usufructo temporal;
 
-VII. La prescripción positiva y la información ad perpetuam, en los términos que establecen los Códigos Civil y de Procedimientos Civiles para el Estado de Veracruz (sic);
+VII. La prescripción positiva y la información ad perpetuam, en los términos que establecen los Códigos Civil y de Procedimientos Civiles para el Estado de Veracruz;
 
 VIII. La adjudicación de bienes inmuebles, derivada de remate judicial o administrativo, excepto la adjudicación en materia laboral;
 
@@ -2521,7 +2525,7 @@ El tiempo de ejecución será de seis días hábiles, y el Salario Mínimo aplic
 
 ###### Artículo 207.
 
-En el caso de la asignación de número oficial, una vez asignado este y pagados los derechos, no se estará obligado a pagar nuevos derechos cuando se hagan cambio (sic) ordenados por el Ayuntamiento, en un plazo de cinco años, contados a partir de la asignación oficial del numero.
+En el caso de la asignación de número oficial, una vez asignado este y pagados los derechos, no se estará obligado a pagar nuevos derechos cuando se hagan cambio (sic) ordenados por el Ayuntamiento, en un plazo de cinco años, contados a partir de la asignación oficial del número.
 
 > <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
 
@@ -3007,7 +3011,9 @@ Los derechos a que se refiere este Capítulo se causarán y pagarán, en salario
 
 I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, 1.5, con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción;
 
-II. Registro de nacimientos ordinarios y extemporáneos, 1.5;
+> <small>(REFORMADA, G.O. 30 DE MAYO DE 2019)</small>
+
+II. Registro de nacimientos ordinarios y extemporáneos, cero;
 
 > <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2016)</small>
 
@@ -5032,5 +5038,21 @@ G.O. 26 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA, VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 245 QUE ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y A LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, MINATITLÁN, ORIZABA, PAPANTLA, TIERRA BLANCA Y XALAPA, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 246 QUE REFORMA LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DE MINATITLÁN Y TUXPAN DEL ESTADO DE VERACRUZ, CORRESPONDIENTES AL EJERCICIO FISCAL 2019; Y LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, ORIZABA, TIERRA BLANCA Y VERACRUZ, TODOS DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
