@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2018-11-29"
+last_updated: "2019-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MAYO DE 2019.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -323,7 +323,9 @@ VIII. Celebrar convenios de colaboración con la Secretaría, para realizar visi
 
 IX. Realizar el diagnóstico para ser considerado como municipio con vocación turística, dentro de los lineamientos establecidos por la Secretaría;
 
-X. Formular y conducir la política municipal de información y difusión en materia turística;
+> <small>(REFORMADA, G.O. 30 DE MAYO DE 2019)</small>
+
+X. Formular y conducir la política municipal de información y difusión en materia turística, destacando las riquezas naturales, costumbres y tradiciones de los pueblos originarios y afromexicanos, cultura, historia, gastronomía y trabajo artesanal del municipio.
 
 XI. Coadyuvar en la instrumentación de las acciones de promoción de los destinos, segmentos y actividades turísticas que se desarrollen en su territorio;
 
@@ -1490,3 +1492,11 @@ G.O. 29 DE NOVIEMBRE DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 249 QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 6 DE LA LEY DE TURISMO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
