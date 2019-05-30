@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2018-12-25"
+last_updated: "2019-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -307,6 +307,10 @@ Los ayuntamientos promoverán la participación de sus habitantes para el desarr
 
 Los ayuntamientos promoverán entre sus habitantes las formas de participación comunitaria en las tareas que tienen a su cargo, con el objeto de que coadyuven al cumplimiento de sus fines y participen mediante el trabajo y la solidaridad en el desarrollo vecinal, cívico y en el beneficio colectivo del Municipio.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2019)</small>
+
+Los Ayuntamientos adoptarán la figura de cabildo abierto, entendiéndose por ella a la sesión plenaria en la que los ciudadanos puedan participar, atendiendo a las disposiciones que para tal efecto expidan los Ayuntamientos.
+
 ###### Artículo 18.
 
 El Ayuntamiento convocará y tomará parte en la constitución, organización y funcionamiento de los organismos de participación ciudadana con apego a las siguientes disposiciones:
@@ -533,6 +537,16 @@ XIII. Mantener permanente comunicación y un trabajo coordinado e institucional 
 
 XIV. Cumplir con las recomendaciones que emita la Comisión Estatal de Derechos Humanos de Durango, en base a lo dispuesto por la Ley Orgánica de la Comisión Estatal de Derechos Humanos del Estado de Durango.
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2019)</small>
+
+XV. Promover entre sus habitantes el uso y aprovechamiento de agua de lluvia, a través de sistemas de captación, conducción, almacenamiento y tratamiento, por medio de construcción o instalación de tanques o cisternas pluviales, y
+
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DEL ÚLTIMO PÁRRAFO.]</small>
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2019)</small>
+
+XVI. Las demás que le confiere la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las demás leyes.
+
 En lo conducente y de conformidad a los fines señalados en el párrafo tercero, del artículo 27 de la Constitución Federal, expedirá los reglamentos y disposiciones administrativas que fueren necesarios.
 
 Y las demás que le confiere la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las demás leyes.
@@ -570,6 +584,10 @@ En caso de que el Presidente o el Secretario, no convoquen a las sesiones a que 
 Las sesiones del Ayuntamiento se efectuarán en el edificio que ocupe la presidencia municipal.
 
 Podrán llevarse a cabo en lugar diferente cuando se presenten circunstancias que lo ameriten y así lo acuerden las dos terceras partes de los integrantes del Ayuntamiento presentes en la sesión en donde se tome el acuerdo.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2019)</small>
+
+Los Ayuntamientos sesionarán en cabildo abierto cuando menos una vez cada dos meses para recibir directamente de las personas, propuestas, opiniones o proyectos relacionados con temas de interés general, buscando fomentar la participación de los habitantes de los municipios.
 
 ###### Artículo 38.
 
@@ -2370,3 +2388,23 @@ SEGUNDO.- Los Ayuntamientos, dentro de un plazo de treinta días contados a part
 TERCERO.- Las cartas de origen que hayan sido tramitadas antes de la entrada en vigor del presente decreto continuarán con el procedimiento y requisitos con las que fueron solicitadas.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 30 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 93.- QUE CONTIENE REFORMAS A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
+
+TERCERO.- Los Ayuntamientos deberán expedir o adecuar la normatividad necesaria para hacer efectivas las reformas contenidas en el presente decreto en un término no mayor a 60 días.
+
+P.O. 30 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 94.- QUE CONTIENE REFORMAS A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO".]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
+
+TERCERO.- Los Ayuntamientos deberán expedir o adecuar la normatividad necesaria para hacer efectivas las reformas contenidas en el presente decreto en un término no mayor a 60 días.
