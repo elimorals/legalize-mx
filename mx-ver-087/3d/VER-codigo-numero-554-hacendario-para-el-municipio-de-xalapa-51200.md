@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-554-hacendario-para-el-municipio-de-xalapa-51200"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-07-14"
-last_updated: "2018-12-28"
+last_updated: "2019-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE XALAPA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MAYO DE 2019.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz Ignacio de la Llave, el viernes 14 de julio de 2006.
 
@@ -1497,9 +1497,15 @@ Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en c
 
 Las personas mayores de sesenta años, o las personas con discapacidad, contribuyentes de este municipio, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo.
 
+> <small>(ADICIONADO, G.O. 30 DE MAYO DE 2019)</small>
+
+El Ayuntamiento, por acuerdo del Cabildo, podrá otorgar igualmente el descuento del cincuenta por ciento en el pago de esta contribución a madres solteras que sean jefas de familia, siempre que reúnan los requisitos señalados en el párrafo anterior. En ese caso, la tesorería municipal informará al Congreso del Estado y al Órgano de Fiscalización Superior sobre el acuerdo referido.
+
 A este descuento no se podrá adicionar el previsto en el artículo 119 de este Código.
 
-La Tesorería Municipal llevará un padrón de estos contribuyentes, mismo que actualizará en los meses de octubre y noviembre de cada año.
+> <small>(REFORMADO, G.O. 30 DE MAYO DE 2019)</small>
+
+La Tesorería Municipal llevará un padrón de estos contribuyentes, mismo que se actualizará en los meses de octubre y noviembre de cada año.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -5070,6 +5076,14 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 28 DE DICIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 9 QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 122 DEL CÓDIGO HACENDARIO PARA EL MUNICIPIO DE XALAPA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 245 QUE ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y A LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, MINATITLÁN, ORIZABA, PAPANTLA, TIERRA BLANCA Y XALAPA, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
