@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-541-hacendario-para-el-municipio-de-boca-del-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-02-19"
-last_updated: "2018-02-22"
+last_updated: "2019-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 ---
 # CODIGO NUMERO 541 HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RIO, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CÓDIGO HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, ESTADO DE VERACRUZ-LLAVE
+CÓDIGO HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MAYO DE 2019.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 19 de febrero de 2003.
 
@@ -309,11 +309,13 @@ La ampliación de horarios y autorización de días inhábiles para el pago de d
 
 Si el último día del plazo o fecha determinada fuera inhábil o viernes, o permanecieren cerradas las oficinas recaudadoras durante el horario normal de labores, se prorrogará el plazo para el día hábil siguiente.
 
-Para los efectos de pago de contribuciones, aprovechamientos, productos o cualquier ingreso en favor del Municipio se considerarán como días inhábiles los sábados, domingos y días festivos señalados por ley. En los plazos establecidos por periodos y aquellos en que se señale una fecha determinada para su extinción se computarán todos sus días. Cuando las autoridades fiscales habiliten días inhábiles no se alterará el cálculo de los plazos.
+Para los efectos de pago de contribuciones, aprovechamientos, productos o cualquier ingreso en favor del Municipio se considerarán como días inhábiles los sábados, domingos y días festivos señalados por ley. En los plazos establecidos por períodos y aquellos en que se señale una fecha determinada para su extinción se computarán todos sus días. Cuando las autoridades fiscales habiliten días inhábiles no se alterará el cálculo de los plazos.
 
 ###### Artículo 28.
 
-Las contribuciones se pagarán en la fecha o dentro del plazo señalado en las disposiciones respectivas. Tratándose de contribuciones que se deban pagar mediante retención, aun cuando quien deba efectuarlas no retenga o no haga pago de la contraprestación relativa, el retenedor estará obligado a enterar al fisco una cantidad equivalente a la que debió retener.
+Las contribuciones se pagarán en la fecha o dentro del plazo señalado en las disposiciones respectivas.
+
+Tratándose de contribuciones que se deban pagar mediante retención, aun cuando quien deba efectuarlas no retenga o no haga pago de la contraprestación relativa, el retenedor estará obligado a enterar al fisco una cantidad equivalente a la que debió retener.
 
 Quien haga pago de créditos fiscales obtendrá, de la oficina recaudadora, la forma oficial, el recibo oficial o la forma valorada, expedidos y controlados por la autoridad fiscal, o la documentación que en las disposiciones respectivas se establezca, en la que conste la impresión original de la máquina registradora, por toda cantidad que ingrese al erario, cualquiera que sea su naturaleza.
 
@@ -327,7 +329,7 @@ En los plazos no se computarán los días en que tengan vacaciones generales las
 
 Lo previsto en el párrafo anterior no será aplicable cuando se trate de plazos para el pago de contribuciones, en cuyo caso esos días se considerarán hábiles, por lo que quedará en funcionamiento una guardia de la oficina recaudadora que para tal efecto se designe.
 
-En los plazos establecidos por periodos se computarán todos los días. Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario, se entenderá que, en el primer caso, el plazo concluye el mismo día del mes de calendario de que se trate y, en el segundo, vencerá el mismo día del año que corresponda. En los plazos que se fijen por mes o por año, cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
+En los plazos establecidos por períodos se computarán todos los días. Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario, se entenderá que, en el primer caso, el plazo concluye el mismo día del mes de calendario de que se trate y, en el segundo, vencerá el mismo día del año que corresponda. En los plazos que se fijen por mes o por año, cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
 
 ###### Artículo 30.
 
@@ -359,9 +361,7 @@ Son responsables solidarios con los sujetos pasivos:
 
 I. Quienes manifiesten su voluntad de asumir responsabilidad solidaria;
 
-II. Los copropietarios, coposeedores o los participantes en derechos mancomunados, respecto de los créditos fiscales, derivados del bien o derecho en común y hasta por el monto del valor de éste.
-
-Se exceptúa de esta responsabilidad a los condóminos.
+II. Los copropietarios, coposeedores o los participantes en derechos mancomunados, respecto de los créditos fiscales, derivados del bien o derecho en común y hasta por el monto del valor de éste. Se exceptúa de esta responsabilidad a los condóminos.
 
 Por el excedente de los créditos fiscales, cada uno quedará obligado en la proporción que le corresponda en el bien o derecho mancomunado;
 
@@ -371,7 +371,7 @@ IV. Los legatarios, donatarios y herederos a título particular, respecto de los
 
 V. Los terceros que, para garantizar créditos fiscales a cargo de los contribuyentes, constituyan depósito, prenda o hipoteca o permitan el embargo de bienes de su propiedad, hasta por el valor de los otorgados en garantía;
 
-VI. Las personas físicas o morales que adquieran bienes o negociaciones que reporten créditos exigibles a favor del erario municipal y que correspondan a periodos anteriores a la fecha de adquisición, hasta por el valor de la negociación;
+VI. Las personas físicas o morales que adquieran bienes o negociaciones que reporten créditos exigibles a favor del erario municipal y que correspondan a períodos anteriores a la fecha de adquisición, hasta por el valor de la negociación;
 
 VII. Los servidores públicos, Notarios, Corredores y demás fedatarios públicos que autoricen algún acto jurídico, expidan testimonios o den trámite a algún documento generador de obligaciones fiscales de pago, si no se cercioran de que se han cubierto los impuestos, derechos y productos respectivos, o no den cumplimiento a las disposiciones correspondientes que regulan el pago de la contribución respectiva;
 
@@ -385,7 +385,7 @@ XI. La persona o personas que tengan conferida la dirección general, la gerenci
 
 Los representantes de personas físicas serán responsables solidarios en los mismos términos a que se refiere esta fracción;
 
-XII. Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la persona moral, cuando tenían tal calidad, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la misma, sin que la responsabilidad exceda de la participación que tenían en el capital o patrimonio de la persona moral durante el periodo o a la fecha de que se trate;
+XII. Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la persona moral, cuando tenían tal calidad, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la misma, sin que la responsabilidad exceda de la participación que tenían en el capital o patrimonio de la persona moral durante el período o a la fecha de que se trate;
 
 XIII. Los liquidadores o síndicos, por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquellas que se causaron durante su gestión;
 
@@ -545,7 +545,7 @@ En los supuestos a que se refiere este artículo, el saldo será exigible inmedi
 
 Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo señalado en las disposiciones respectivas, se pagarán recargos por mora en concepto de indemnización al fisco municipal por falta de pago oportuno, conforme a la tasa que anualmente se fije en la Ley de Ingresos del Municipio.
 
-Los recargos por mora se causarán por cada mes o fracción de éste que transcurra, a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe. Dichos recargos se calcularán aplicando al monto de las contribuciones o de los aprovechamientos por el periodo a que se refiere el párrafo anterior, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el periodo de la contribución o aprovechamiento de que se trate.
+Los recargos por mora se causarán por cada mes o fracción de éste que transcurra, a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe. Dichos recargos se calcularán aplicando al monto de las contribuciones o de los aprovechamientos por el período a que se refiere el párrafo anterior, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de la contribución o aprovechamiento de que se trate.
 
 Los recargos se causarán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización por cheque no pagado a que se refiere el artículo siguiente, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
 
@@ -679,7 +679,7 @@ IV. Obligación solidaria asumida por tercero, que compruebe su idoneidad y solv
 
 V. Embargo en la vía administrativa.
 
-La garantía comprenderá, además de las contribuciones adeudadas, los accesorios causados, así como los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este periodo y en tanto no se cubra el crédito, deberá renovarse y ampliarse la garantía que cubra el crédito garantizado y el importe de los recargos correspondientes a los doce meses siguientes.
+La garantía comprenderá, además de las contribuciones adeudadas, los accesorios causados, así como los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá renovarse y ampliarse la garantía que cubra el crédito garantizado y el importe de los recargos correspondientes a los doce meses siguientes.
 
 La Tesorería vigilará que sean garantizadas las prestaciones a favor de la Hacienda Municipal, conforme a las disposiciones legales en vigor. Mediante reglas generales emitidas por el Cabildo, se establecerán los requisitos que deberán reunir las garantías. La autoridad fiscal hará la calificación correspondiente de las que se ofrezcan, vigilando periódicamente, o cuando lo estime oportuno, que tales garantías conserven su eficacia y, en caso contrario, exigirá su ampliación o procederá a tomar las medidas necesarias para asegurar los intereses del fisco.
 
@@ -713,9 +713,7 @@ I. El nombre completo de la persona física o moral afianzada, el importe de la 
 
 II. La anuencia de la compañía afianzadora para pagar hasta el importe total de la suma afianzada, en caso de que se actualice el incumplimiento de su afianzado a las obligaciones fiscales adquiridas ante la Tesorería, sin reservarse los beneficios de orden y excusión, y
 
-III. La aceptación expresa de la afianzadora de someterse a los procedimientos de ejecución reservados para fianzas que garantizan obligaciones fiscales, así como la aceptación de la afianzadora para seguir garantizando las obligaciones adquiridas por su afianzado, aun cuando la
-
-Tesorería le otorgue prórrogas o esperas, sin necesidad de aviso por escrito.
+III. La aceptación expresa de la afianzadora de someterse a los procedimientos de ejecución reservados para fianzas que garantizan obligaciones fiscales, así como la aceptación de la afianzadora para seguir garantizando las obligaciones adquiridas por su afianzado, aun cuando la Tesorería le otorgue prórrogas o esperas, sin necesidad de aviso por escrito.
 
 La fianza solamente podrá cancelarse mediante autorización escrita de la Tesorería.
 
@@ -859,15 +857,13 @@ Para los efectos de notificación de actos administrativos a los interesados, la
 
 ###### Artículo 68.
 
-El Cabildo podrá condonar o reducir los créditos fiscales municipales, cuando por causa de algún siniestro se afecte la situación económica de alguna región del territorio municipal.
-
-Lo anterior, previa declaratoria de desastre por parte de la autoridad competente.
+El Cabildo podrá condonar o reducir los créditos fiscales municipales, cuando por causa de algún siniestro se afecte la situación económica de alguna región del territorio municipal. Lo anterior, previa declaratoria de desastre por parte de la autoridad competente.
 
 Para efectos del párrafo anterior, el Cabildo dictará, mediante disposiciones casuísticas, las contribuciones, productos o aprovechamientos materia de la condonación o reducción, señalando las regiones del Municipio en las que se disfrutará de la misma.
 
 ###### Artículo 69.
 
-Cuando la situación económica de los contribuyentes sea insuficiente para cubrir en su totalidad los créditos fiscales que adeuden, el Tesorero podrá conceder prórrogas adicionales a las previstas en el artículo 40 de este Código para el pago de créditos fiscales, mismas que no podrán exceder de seis meses, pero si a juicio del propio Tesorero se trata de créditos fiscales cuantiosos o situaciones excepcionales, podrá ampliar el plazo hasta por seis meses más; dicho plazo, en ningún caso, podrá rebasar el periodo constitucional del Ayuntamiento. El Tesorero fijará el monto de la garantía que deberá otorgar el deudor de la prestación fiscal, en su caso.
+Cuando la situación económica de los contribuyentes sea insuficiente para cubrir en su totalidad los créditos fiscales que adeuden, el Tesorero podrá conceder prórrogas adicionales a las previstas en el artículo 40 de este Código para el pago de créditos fiscales, mismas que no podrán exceder de seis meses, pero si a juicio del propio Tesorero se trata de créditos fiscales cuantiosos o situaciones excepcionales, podrá ampliar el plazo hasta por seis meses más; dicho plazo, en ningún caso, podrá rebasar el período constitucional del Ayuntamiento. El Tesorero fijará el monto de la garantía que deberá otorgar el deudor de la prestación fiscal, en su caso.
 
 ###### Artículo 70.
 
@@ -1365,7 +1361,7 @@ Cuando no se pueda determinar la cuantía del impuesto que se defraudó, la pena
 
 No se procederá legalmente si quien hubiere cometido el delito entera espontáneamente la contribución omitida, con sus accesorios, antes de que la autoridad fiscal lo descubra.
 
-Para la aplicación de sanciones se tomará en cuenta el monto de las contribuciones defraudadas dentro de un mismo periodo fiscal, aun cuando se trate de contribuciones diferentes y de diversas acciones u omisiones.
+Para la aplicación de sanciones se tomará en cuenta el monto de las contribuciones defraudadas dentro de un mismo período fiscal, aun cuando se trate de contribuciones diferentes y de diversas acciones u omisiones.
 
 ###### Artículo 111.
 
@@ -1445,7 +1441,7 @@ V. Los albaceas de la sucesión, hasta en tanto no se adjudiquen los bienes a lo
 
 VI. Las instituciones fiduciarias, en los casos de la fracción V del artículo anterior de este Código; y
 
-VI. Los usufructuarios.
+VII. Los usufructuarios.
 
 ###### Artículo 116.
 
@@ -1498,6 +1494,10 @@ Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en c
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
 Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de diez mil salarios mínimos.
+
+> <small>(ADICIONADO, G.O. 30 DE MAYO DE 2019)</small>
+
+El Ayuntamiento, por acuerdo del Cabildo, podrá otorgar igualmente el descuento del cincuenta por ciento en el pago de esta contribución a madres solteras que sean jefas de familia, siempre que reúnan los requisitos señalados en el párrafo anterior. En ese caso, la tesorería municipal informará al Congreso del Estado y al Órgano de Fiscalización Superior sobre el acuerdo referido.
 
 A estos descuentos no se podrá adicionar el descuento señalado en el artículo 118 de este Código.
 
@@ -1609,7 +1609,7 @@ Cuando con motivo de la adquisición, el adquirente asuma la obligación de paga
 
 Para los efectos de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del cincuenta por ciento del valor de la propiedad.
 
-En los inmuebles adquiridos durante el periodo de tres años anteriores, contado a partir de la fecha de la operación actual, el impuesto se calculará sobre el valor que resulte de disminuir del valor mayor, a que se refiere el párrafo primero, aquel valor que se tomó como base para el cálculo del impuesto en la última adquisición.
+En los inmuebles adquiridos durante el período de tres años anteriores, contado a partir de la fecha de la operación actual, el impuesto se calculará sobre el valor que resulte de disminuir del valor mayor, a que se refiere el párrafo primero, aquel valor que se tomó como base para el cálculo del impuesto en la última adquisición.
 
 En la adquisición por prescripción positiva, la base del impuesto se determinará con valores referidos a la fecha en que cause ejecutoria la resolución judicial; en la adquisición por herencia, a la fecha de la adjudicación; y en la información ad perpetuam, a la fecha de la resolución judicial.
 
@@ -1757,11 +1757,11 @@ II. Cuando el monto del Impuesto no pueda determinarse anticipadamente o cuando 
 
 III. Si en la liquidación del impuesto hubiere error, la Tesorería determinará el impuesto causado, procediendo al cobro de la diferencia o a la devolución. En caso de que se hubiese pagado de menos, el contribuyente cubrirá la diferencia dentro de las veinticuatro horas siguientes a la notificación de la liquidación respectiva;
 
-IV. Si el impuesto se causa conforme a cuotas correspondientes a periodos determinados, deberán pagarse:
+IV. Si el impuesto se causa conforme a cuotas correspondientes a períodos determinados, deberán pagarse:
 
 a) Si es mensual, dentro de los primeros diez días de cada mes; o
 
-b) Si es bimestral o por un periodo mayor, dentro de los quince primeros días del término; y
+b) Si es bimestral o por un período mayor, dentro de los quince primeros días del término; y
 
 V. Si el espectáculo se clausura antes de la conclusión del término por el que se hubiere cubierto la cuota respectiva, quien haya hecho el pago tendrá derecho a que se le devuelva la parte proporcional que, de la cuota pagada, corresponda al tiempo comprendido entre la fecha de terminación de sus actividades gravables y la de la conclusión del plazo que haya cubierto con dicha cuota.
 
@@ -2005,7 +2005,7 @@ Cuando un mismo contribuyente realice más de un fraccionamiento deberá registr
 
 ###### Artículo 181.
 
-Lo previsto en este Capítulo se aplicará sin perjuicio de las obligaciones que se deriven de la Ley de Catastro y de la Ley de Desarrollo Regional y Urbano del Estado de Veracruz de Ignacio de la Llave.
+Lo previsto en este Capitulo se aplicará sin perjuicio de las obligaciones que se deriven de la Ley de Catastro y de la Ley de Desarrollo Regional y Urbano del Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 182.
 
@@ -2015,7 +2015,7 @@ I. Fraccionador: la persona física o moral que realice un fraccionamiento con f
 
 II. Fraccionamiento: división, aprobada por la autoridad competente, de un terreno en lotes, con servicios de infraestructura y equipamiento;
 
-III. Valor Catastral: valor de un bien inmueble, que se obtiene al aplicar las técnicas de valuación establecidas en el Capítulo IV de la Ley de Catastro; y
+III. Valor Catastral: valor de un bien inmueble, que se obtiene al aplicar las técnicas de valuación establecidas en el Capitulo IV de la Ley de Catastro; y
 
 IV. Enajenación: toda transmisión de propiedad, aun en la que el enajenante se reserve el dominio del bien enajenado.
 
@@ -2325,7 +2325,7 @@ Mínimo
 
 8. De Servicio 0.015
 
-En ningún caso la cuota a pagar será menor de 2 salarios mínimos;
+En ningún caso la cuota a pagar será menor de 2 salarios mínimos
 
 d) Para fraccionamientos, sobre el área total por fraccionar o lotificar, por metro cuadrado o fracción, en término (sic) de la Ley de Desarrollo Regional y Urbano y sus reglamentos, por metro cuadrado o fracción:
 
@@ -2371,13 +2371,13 @@ Mínimo
 
 7. Agropecuario 0.23
 
-8. De servicio 0.4075
+8. De Servicio 0.4075
 
 En ningún caso la cuota a pagar será menor de 2 salarios mínimos;
 
-f) Por la construcción de albercas y depósitos de agua, por metro cúbico o fracción, 1.2 salarios mínimos;
+f) Por la construcción de albercas y depósitos de agua, por metro cúbico o fracción, 1.2 salarios mínimos
 
-g) Por la construcción de tanques subterráneos para almacenamiento de material peligroso o combustible, por metro cúbico o fracción, 4 salarios mínimos;
+g) Por la construcción de tanques subterráneos para almacenamiento de material peligroso o combustible, por metro cúbico o fracción, 4 salarios mínimos
 
 h) Para la conversión al régimen de propiedad en condominio, por metro cuadrado:
 
@@ -2483,7 +2483,7 @@ Uso Unidad de Medida
 
 y Actualización
 
-l. Protección u ornato 1
+1. Protección u ornato 1
 
 2. General 1
 
@@ -2713,7 +2713,7 @@ La base gravable se determinará de la siguiente manera:
 
 I. Por el servicio prestado a los propietarios, poseedores o usufructuarios de inmuebles destinados a uso habitacional, se aplicará una cuota mensual, en términos del presente Capítulo; y
 
-II. En los casos de establecimientos comerciales, industriales, prestadores de servicios y empresas de espectáculos públicos, se fijará una cuota por kilogramo o por metro cúbico, en razón del peso del volumen de los desechos
+II. En los casos de establecimientos comerciales, industriales, prestadores de servicios y empresas de espectáculos públicos, se fijará una cuota por kilogramo o por metro cúbico, en razón del peso del volumen de los desechos.
 
 En caso de que se concesione el servicio, las tarifas que cobren los concesionarios, se establecerán en el título de concesión respectivo.
 
@@ -2865,7 +2865,9 @@ Salarios Mínimos
 
 I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, por cada hoja 1.20, con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción;
 
-II. Registro de nacimientos ordinarios y extemporáneos 1.20
+> <small>(REFORMADA, G.O. 30 DE MAYO DE 2019)</small>
+
+II. Registro de nacimientos ordinarios y extemporáneos 0
 
 > <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
 
@@ -2931,23 +2933,23 @@ II. Por ocupación de espacios en la vía pública o áreas municipales por veh�
 
 III. Ocupación temporal de la vía pública o áreas municipales por vehículos, aparatos mecánicos o electromecánicos en época de días de mercado o celebraciones de ferias o similares, por metro cuadrado o fracción pagarán una cuota diaria de 0.05 salarios mínimos;
 
-IV. La ocupación de espacios en vía pública o áreas municipales, por postería eléctrica, líneas aéreas de cable, puestos de revistas, etc.; exceptuando las áreas verdes, se pagará diariamente por metro cuadrado de superficie; 0.05 salarios mínimos;
+IV. La ocupación de espacios en vía pública o áreas municipales, por postería eléctrica, líneas aéreas de cable, puestos de revistas, etc; exceptuando las áreas verdes, se pagará diariamente por metro cuadrado de superficie; 0.05 salarios mínimos;
 
 V. La ocupación de la vía pública requiere autorización en los casos y con las cuotas que a continuación se indican:
 
 Andamios, tapiales y otros usos no especificados, por metro lineal diariamente:
 
-a) Sobre el arroyo de una calle de la ciudad 0.05 salarios mínimos;
+a) Sobre el arroyo de una calle de la ciudad 0.05 salarios mínimos
 
-b) Por ocupación de banqueta en la ciudad 0.05 salarios mínimos;
+b) Por ocupación de banqueta en la ciudad 0.05 salarios mínimos
 
 VI. Por la ocupación de subsuelo con construcciones permanentes, se pagarán mensualmente las siguientes cuotas:
 
-a) Instalaciones lineales diversas por metro 0.05 salarios mínimos;
+a) Instalaciones lineales diversas por metro 0.05 salarios mínimos
 
-b) Instalaciones no lineales por metro cuadrado o fracción por planta o piso de profundidad 0.1375 salarios mínimos;
+b) Instalaciones no lineales por metro cuadrado o fracción por planta o piso de profundidad 0.1375 salarios mínimos
 
-VII. Por ocupación temporal de la vía pública o áreas municipales a vendedores ambulantes por puesto semifijo de hasta dos metros lineales de frente, diariamente 0.075 salarios mínimos.
+VII. Por ocupación temporal de la vía pública o áreas municipales a vendedores ambulantes por puesto semifijo de hasta dos metros lineales de frente, diariamente 0.075 salarios mínimos
 
 > <small>(ADICIONADA, G.O. 13 DE MARZO DE 2015)</small>
 
@@ -2957,7 +2959,7 @@ VIII. En los casos de ocupación de espacios en vía pública o áreas municipal
 
 IX. La ocupación de espacios en vía pública, en el caso de banquetas, por medio de mesas, sillas o cualquier otro tipo de muebles, previa autorización, se pagará una cuota por día de 0.075 salarios mínimos por metro cuadrado o fracción.
 
-El estacionamiento en la vía pública se pagará mediante utilización de parquímetros, por hora o fracción a razón de 0.125 salarios mínimos.
+El estacionamiento en la vía pública se pagará mediante utilización de parquímetros, por hora o fracción a razón de 0.125 salarios mínimos
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 13 DE MARZO DE 2015)</small>
 
@@ -3265,7 +3267,7 @@ Los productos a que se refieren las fracciones I a IV del artículo anterior se 
 
 ###### Artículo 261.
 
-Los bienes embargados por las autoridades municipales que se depositen en almacenes o locales pertenecientes al Municipio, cuando no se retiren después de cinco días siguientes a la fecha en que queden a disposición del adquirente o del deudor contra quien se hubiese seguido el procedimiento económico-coactivo, así como los bienes depositados por cualquier otra causa en los mismos locales, causarán por concepto de almacenaje, por periodos mensuales vencidos, las cuotas siguientes:
+Los bienes embargados por las autoridades municipales que se depositen en almacenes o locales pertenecientes al Municipio, cuando no se retiren después de cinco días siguientes a la fecha en que queden a disposición del adquirente o del deudor contra quien se hubiese seguido el procedimiento económico-coactivo, así como los bienes depositados por cualquier otra causa en los mismos locales, causarán por concepto de almacenaje, por períodos mensuales vencidos, las cuotas siguientes:
 
 I. Por metro cuadrado o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día, 0.02 salarios mínimos; y
 
@@ -3493,7 +3495,7 @@ Los créditos no fiscales a cargo del Municipio se registrarán en la contabilid
 
 ###### Artículo 291.
 
-En caso de que el Ayuntamiento cuente con varias cajas receptoras, la Tesorería vigilará y comprobará el funcionamiento adecuado de las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado del Ayuntamiento y el cumplimiento de las obligaciones que, a este respecto, incumben a los servidores públicos, a efecto de que se ajusten a las disposiciones legales respectivas. Para ello, tendrá las facultades siguientes:
+En caso de que el Ayuntamiento cuente con varías cajas receptoras, la Tesorería vigilará y comprobará el funcionamiento adecuado de las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado del Ayuntamiento y el cumplimiento de las obligaciones que, a este respecto, incumben a los servidores públicos, a efecto de que se ajusten a las disposiciones legales respectivas. Para ello, tendrá las facultades siguientes:
 
 I. Efectuar visitas, inspecciones y auditorías que tengan por objeto la revisión de operaciones de los ingresos y los egresos, examinando los aspectos contables y legales correspondientes;
 
@@ -3551,7 +3553,7 @@ La aplicación de este Capítulo será a cargo de la Comisión de Hacienda y del
 
 ###### Artículo 299.
 
-El Presupuesto de Egresos para el Municipio será el que apruebe el Cabildo, a iniciativa de la Comisión de Hacienda, para solventar, durante el periodo de un año a partir del día primero de enero, las actividades, las obras y los servicios públicos previstos en los programas a cargo de las dependencias, así como los criterios especiales para su ejercicio y control.
+El Presupuesto de Egresos para el Municipio será el que apruebe el Cabildo, a iniciativa de la Comisión de Hacienda, para solventar, durante el período de un año a partir del día primero de enero, las actividades, las obras y los servicios públicos previstos en los programas a cargo de las dependencias, así como los criterios especiales para su ejercicio y control.
 
 El Presupuesto de Egresos del Municipio será aprobado con base en los ingresos disponibles para cada ejercicio fiscal, dentro de los que se considerarán los obtenidos como consecuencia de la realización de las operaciones de financiamiento reguladas por este ordenamiento.
 
@@ -3629,6 +3631,10 @@ La división de los capítulos en conceptos y partidas específicas se hará con
 
 El presupuesto se ejercerá con base en los calendarios financieros y de metas que se establezcan, conforme a los criterios, manuales y lineamientos que determine la Tesorería.
 
+SECIÓN (SIC) II
+
+DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
+
 ###### Artículo 310.
 
 En cumplimiento de lo dispuesto en el artículo 107 de la Ley Orgánica del Municipio Libre, el Ayuntamiento presentará al Congreso, en el curso del mes de octubre de cada año, el proyecto anual de Ley de Ingresos y el Presupuesto de Egresos del año siguiente.
@@ -3649,7 +3655,7 @@ La formulación de los programas institucionales se sujetará a la estructura pr
 
 ### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
 
-#### SECCIÓN II. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
+#### SECCIÓN ÚNICA. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
 
 ###### Artículo 314.
 
@@ -3709,7 +3715,7 @@ El Cabildo podrá autorizar la participación municipal en empresas, sociedades 
 
 ### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
 
-#### SECCIÓN ÚNICA. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
+#### SECCIÓN I. DISPOSICIONES GENERALES EN MATERIA DE ADMINISTRACIÓN DE RECURSOS PÚBLICOS
 
 ###### Artículo 324.
 
@@ -3745,7 +3751,7 @@ La procedencia de los pagos señalados en los párrafos anteriores será verific
 
 Las entidades no contraerán obligaciones que impliquen comprometer recursos de los subsecuentes ejercicios presupuestales, así como tampoco celebrarán contratos o ejecutarán proyectos de infraestructura de largo plazo, ni otorgarán concesiones, permisos, licencias y autorizaciones o cualquier otro acto de naturaleza análoga, que implique la posibilidad de algún gasto contingente o adquirir obligaciones futuras.
 
-En casos excepcionales, debidamente justificados, el Presidente y el Síndico, previo acuerdo de Cabildo y conforme a las disposiciones legales aplicables, podrán celebrar contratos de obras públicas, adquisiciones o de otra índole que rebasen las asignaciones presupuestales aprobadas para el año. En estos casos, los compromisos excedentes serán cubiertos con la disponibilidad presupuestal de los años subsecuentes, siempre y cuando sea dentro de ese periodo constitucional.
+En casos excepcionales, debidamente justificados, el Presidente y el Síndico, previo acuerdo de Cabildo y conforme a las disposiciones legales aplicables, podrán celebrar contratos de obras públicas, adquisiciones o de otra índole que rebasen las asignaciones presupuestales aprobadas para el año. En estos casos, los compromisos excedentes serán cubiertos con la disponibilidad presupuestal de los años subsecuentes, siempre y cuando sea dentro de ese período constitucional.
 
 Para los efectos del párrafo anterior, la Tesorería recabará los proyectos respectivos, mismos que contendrán la estimación de la cantidad total a erogar, el monto total de la operación, la justificación del gasto, el periodo de ejecución, el calendario de ministraciones e indicación de las áreas responsables de su ejercicio.
 
@@ -3757,7 +3763,7 @@ Las entidades se sujetarán a las disposiciones legales referentes a la aprobaci
 
 Las entidades también reportarán en tiempo y forma a la Tesorería la información presupuestal y contable que le solicite para la integración del presupuesto y de la cuenta pública del Municipio.
 
-#### SECCIÓN I. DISPOSICIONES GENERALES EN MATERIA DE ADMINISTRACIÓN DE RECURSOS PÚBLICOS
+#### SECCIÓN II. DE LA ADMINISTRACIÓN DE LOS RECURSOS FINANCIEROS
 
 ###### Artículo 333.
 
@@ -3839,7 +3845,7 @@ De los movimientos que se efectúen en los términos de este artículo, el Ayunt
 
 Los recursos excedentes preferentemente se destinarán a gastos contingentes no previstos y a proyectos de inversión adicionales a realizarse durante el transcurso del ejercicio.
 
-#### SECCIÓN II. DE LA ADMINISTRACIÓN DE LOS RECURSOS FINANCIEROS
+#### SECCIÓN III. DE LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS
 
 ###### Artículo 345.
 
@@ -3889,7 +3895,9 @@ Si existen contratos por honorarios, no incrementarán sus percepciones ni obten
 
 ### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
 
-#### SECCIÓN III. DE LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS
+#### SECCIÓN I. DE LA CONTABILIDAD GUBERNAMENTAL
+
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
 
 ###### Artículo 353.
 
@@ -3951,7 +3959,7 @@ VIII. Las demás que le indique el Presidente y las que se deriven de otros orde
 
 El registro de las operaciones y la preparación de informes financieros de las dependencias y entidades deberán llevarse a cabo de acuerdo con los postulados básicos de contabilidad gubernamental, así como con las normas, reglas técnicas, criterios, lineamientos y demás disposiciones de observancia general que aprueben las autoridades o instancias competentes.
 
-#### SECCIÓN I. DE LA CONTABILIDAD GUBERNAMENTAL
+#### SECCIÓN II. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
 
 > <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
 
@@ -4015,7 +4023,7 @@ El Ayuntamiento y sus entidades registrarán anualmente, como asiento de apertur
 
 El registro contable de los pagos correspondientes al pasivo a corto plazo, por operaciones de ejercicios anteriores de las dependencias y entidades, se efectuará de acuerdo con lo dispuesto por la Ley General de Contabilidad Gubernamental, este Código, las normas, reglas técnicas, criterios, lineamientos y demás disposiciones de observancia general que aprueben las autoridades competentes.
 
-#### SECCIÓN II. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
+#### SECCIÓN III. DE LOS ESTADOS FINANCIEROS
 
 > <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
 
@@ -4035,9 +4043,7 @@ Los beneficiarios de subsidios y transferencias con cargo al presupuesto del Mun
 
 La Tesorería, previo acuerdo del Cabildo, hará del conocimiento de las dependencias y entidades sus requerimientos de información adicional, para lo cual dictará las normas y lineamientos necesarios.
 
-#### SECCIÓN III. DE LOS ESTADOS FINANCIEROS
-
-> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+#### SECCIÓN IV. DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
 
 ###### Artículo 372.
 
@@ -4057,7 +4063,7 @@ Para la integración de la cuenta pública anual del Municipio, las entidades, p
 
 Corresponde a las entidades consolidar la información contable, financiera, presupuestal, programática y económica de la dependencia o entidad, de acuerdo con sus necesidades y para cumplir los requerimientos de la Tesorería. Las entidades cuidarán que la información consolidada que proporcionen a la Tesorería cumpla con las normas y lineamientos establecidos.
 
-#### SECCIÓN IV. DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
+#### SECCIÓN V. DE LA PRESENTACIÓN DE LA CUENTA PÚBLICA AL CONGRESO
 
 ###### Artículo 376.
 
@@ -4081,7 +4087,7 @@ De no presentar en tiempo la cuenta pública al Congreso, el Presidente, los int
 
 ### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
-#### SECCIÓN V. DE LA PRESENTACIÓN DE LA CUENTA PÚBLICA AL CONGRESO
+#### SECCIÓN I. DEL CONTROL Y EVALUACIÓN
 
 ###### Artículo 380.
 
@@ -4109,11 +4115,11 @@ II. Los análisis de las evaluaciones que en materia de presupuesto y gasto púb
 
 III. Las conclusiones y recomendaciones y, en general, los informes y resultados de las auditorías y visitas practicadas;
 
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 13 DE MARZO DE 2015)</small>
 
 IV. Los indicadores de resultados; y
 
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 13 DE MARZO DE 2015)</small>
 
 V. Las demás fuentes y medios que se juzguen convenientes.
 
@@ -4139,7 +4145,7 @@ III. Fincamiento de las responsabilidades que procedan, y
 
 IV. Determinación de las previsiones que constituyan una de las bases para la programación presupuestación del ejercicio siguiente.
 
-#### SECCIÓN I. DEL CONTROL Y EVALUACIÓN
+#### SECCIÓN II. DE LA CONTRALORÍA
 
 ###### Artículo 384.
 
@@ -4207,7 +4213,7 @@ I. Los tipos de auditoría a practicar;
 
 II. Las dependencias y entidades, programas y actividades a examinar; y
 
-III. Los periodos estimados de realización.
+III. Los períodos estimados de realización.
 
 ###### Artículo 392.
 
@@ -4339,7 +4345,7 @@ XI. Las demás que le atribuya este ordenamiento, las que le sean delegadas conf
 
 Los titulares de las entidades a que se refieren las fracciones II a IV del artículo 398 de este Código, ejercerán en el ámbito de su competencia y en lo conducente, las atribuciones enumeradas, y, adicionalmente, se encontrarán obligados a informar a la Tesorería, del estado que guarda la deuda que contraten, para los efectos de la fracción VIII de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE JULIO DE 2008)</small>
 
 ###### Artículo 405.
 
@@ -4409,7 +4415,7 @@ VII. Las condiciones suspensivas o resolutorias que rijan la vigencia de las obl
 
 VIII. La forma y tiempos de disposición de los recursos;
 
-IX. Los periodos de inversión;
+IX. Los períodos de inversión;
 
 X. En su caso, las normas que resulten aplicables para la contratación de obras o servicios;
 
@@ -4423,7 +4429,7 @@ El Ayuntamiento, al someter al Congreso el proyecto de Ley de Ingresos, propondr
 
 ### CAPÍTULO V. DE LAS GARANTÍAS Y FUENTES DE PAGO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE JULIO DE 2008)</small>
 
 ###### Artículo 410.
 
@@ -4469,7 +4475,7 @@ II. Que el plazo de su vencimiento no rebase los cuarenta y cinco días;
 
 III. Que su pago se realice al término del vencimiento y no rebase el periodo constitucional; y
 
-IV. Que la operación no se contrate en el último trimestre de la gestión municipal para la que fueron electos.
+IV. Que la operación no se contrate en el último trimestre de la gestión municipal para la que fueron electos
 
 El Municipio y las entidades podrán contratar montos adicionales de financiamiento en obligaciones directas a corto plazo, cuando a juicio del Cabildo o del órgano de gobierno, según sea el caso, se presenten circunstancias económicas extraordinarias que así lo exijan.
 
@@ -4485,7 +4491,7 @@ Las entidades mencionadas en las fracciones II a IV del artículo 398 de este C�
 
 Cuando el Municipio se coordine o asocie a otro o al Estado para la prestación de servicios municipales, se podrán contratar en forma consolidada las operaciones a que se refiere el presente ordenamiento, pero se establecerán por separado las obligaciones a cargo de cada participante y de esta forma se inscribirán en el Registro de Deuda Pública Municipal o Estatal, en su caso.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE JULIO DE 2008)</small>
 
 ### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
 
@@ -4857,7 +4863,7 @@ I. Validar los avalúos de los inmuebles objeto de la operación de adquisición
 
 II. Validar la justipreciación de las rentas que el Municipio deba recaudar o pagar cuando tenga el carácter de arrendador o arrendatario.
 
-#### SECCIÓN II. DE LA CONTRALORÍA
+#### SECCIÓN I. DEL DOMINIO DE LOS BIENES
 
 ###### Artículo 457.
 
@@ -4941,7 +4947,7 @@ El Ayuntamiento procederá a regularizar las demasías a que se refiere la fracc
 
 El valor de las superficies a que se refiere el párrafo anterior se fijará conforme a lo dispuesto por la fracción XI del artículo 444.
 
-#### SECCIÓN I. DEL DOMINIO DE LOS BIENES
+#### SECCIÓN II. DE LA VENTA DE INMUEBLES DE INTERES SOCIAL
 
 ###### Artículo 470.
 
@@ -4981,7 +4987,7 @@ La escrituración se efectuará ante el Notario Público que elija el adquirente
 
 Serán limitaciones para la enajenación a particulares, las siguientes:
 
-I. No podrán adquirir en propiedad por sí ni por interpósita persona más de un inmueble;
+I. No podrán adquirir en propiedad por si ni por interpósita persona más de un inmueble;
 
 II. La extensión superficial no excederá de doscientos metros cuadrados, salvo las situaciones que el Ayuntamiento, el Congreso del Estado o la Diputación Permanente en su caso, consideren excepcionales;
 
@@ -5009,8 +5015,6 @@ Los Notarios Públicos al otorgar las escrituras o instrumentos que contengan la
 
 > <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2006)</small>
 
-#### SECCIÓN II. DE LA VENTA DE INMUEBLES DE INTERES SOCIAL
-
 ###### Artículo 477 Bis.
 
 Son terrenos baldíos, aquellos que ubicados en las zonas urbanas y suburbanas de los municipios, carecen de propietario, edificación y posesión particular.
@@ -5023,15 +5027,15 @@ El Ayuntamiento para preservar el interés general, podrá adjudicarse los terre
 
 > <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2006)</small>
 
-Artículo 477 Cuarter.- El Ayuntamiento, para efectuar la adjudicación de los terrenos baldíos, se sujetará al procedimiento siguiente:
+Artículo 477 Cuarter (sic).- El Ayuntamiento, para efectuar la adjudicación de los terrenos baldíos, se sujetará al procedimiento siguiente:
 
-I. Informes de la Oficina de Catastro Municipal de la existencia de un terreno baldío, y del Registro Público de la Propiedad y del Comercio, de la demarcación registral correspondiente, que hagan constar que el bien o bienes baldíos no se encuentran inscritos a favor de persona alguna;
+I. Informes de la oficina de Catastro Municipal de la existencia de un terreno baldío, y del Registro Público de la Propiedad y del Comercio, de la demarcación registral correspondiente, que hagan constar que el bien o bienes baldíos no se encuentran inscritos a favor de persona alguna;
 
-II. Recibir los informes a que se refiere la fracción anterior, en sesión del Cabildo, se tomará el acuerdo para proceder a la adjudicación y se ordenará publicar dicho acuerdo, por una sola vez, en la tabla de avisos del Palacio Municipal, que contendrá la ubicación, superficie, medidas y colindancias; concediéndose el término de treinta días naturales, contados a partir del día siguiente a su publicación, para que comparezcan los interesados a deducir sus derechos en caso de que se consideren afectados;
+II. Recibidos los informes a que se refiere la fracción anterior, en sesión del Cabildo, se tomará el acuerdo para proceder a la adjudicación y se ordenará publicar dicho acuerdo, por una sola vez, en la tabla de avisos del Palacio Municipal, que contendrá la ubicación, superficie, medidas y colindancias; concediéndose el término de treinta días naturales, contados a partir del día siguiente a su publicación, para que comparezcan los interesados a deducir sus derechos en caso de que se consideren afectados;
 
 III. Dicho acuerdo será notificado de manera personal a los colindantes;
 
-IV. Transcurrido el término señalado en la fracción II, y no existiendo oposición legítima de tercero, el Ayuntamiento emitirá el acuerdo declarando que el bien sujeto al procedimiento pasa a ser propiedad del municipio; y
+IV. Transcurrido el término señalado en la fracción II, y no existiendo oposición legítima de terceros, el Ayuntamiento emitirá el acuerdo declarando que el bien sujeto al procedimiento pasa a ser propiedad del municipio; y
 
 V. El acuerdo declarativo será publicado por única vez en la tabla de avisos del Palacio Municipal y en la Gaceta Oficial del estado, remitiéndose copia certificada del acuerdo de adquisición al Registro Público de la Propiedad y del Comercio que corresponda, para que se inscriba por primera vez como título de propiedad a favor del municipio.
 
@@ -5220,3 +5224,19 @@ G.O. 22 DE FEBRERO DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 245 QUE ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y A LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, MINATITLÁN, ORIZABA, PAPANTLA, TIERRA BLANCA Y XALAPA, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 246 QUE REFORMA LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DE MINATITLÁN Y TUXPAN, AMBAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CORRESPONDIENTES AL EJERCICIO FISCAL DEL AÑO 2019; Y LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, ORIZABA, TIERRA BLANCA Y VERACRUZ, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
