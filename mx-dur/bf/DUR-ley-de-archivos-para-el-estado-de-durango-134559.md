@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-archivos-para-el-estado-de-durango-134559"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-27"
-last_updated: "2018-12-27"
+last_updated: "2019-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ARCHIVOS PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 27 de diciembre de 2018.
 
@@ -199,9 +199,17 @@ LIV. Transferencia: Al traslado controlado y sistemático de expedientes de cons
 
 LV. Trazabilidad: A la cualidad que permite, a través de un sistema automatizado para la gestión documental y administración de archivos, identificar el acceso y la modificación de documentos electrónicos;
 
-LVI. Valoración documental: A la actividad que consiste en el análisis e identificación de los valores documentales; es decir, el estudio de la condición de los documentos que les confiere características específicas en los archivos de trámite o concentración, o evidénciales, testimoniales e informativos para los documentos históricos, con la finalidad de establecer criterios, vigencias documentales y, en su caso, plazos de conservación, así como para la disposición documental, y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2019)</small>
 
-LVII. Vigencia documental: Al periodo durante el cual un documento de archivo mantiene sus valores administrativos, legales, fiscales o contables, de conformidad con las disposiciones vigentes y aplicables.
+LVI. Valoración documental: A la actividad que consiste en el análisis e identificación de los valores documentales; es decir, el estudio de la condición de los documentos que les confiere características específicas en los archivos de trámite o concentración, o evidénciales, testimoniales e informativos para los documentos históricos, con la finalidad de establecer criterios, vigencias documentales y, en su caso, plazos de conservación, así como para la disposición documental;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2019)</small>
+
+LVII. Vigencia documental: Al periodo durante el cual un documento de archivo mantiene sus valores administrativos, legales, fiscales o contables, de conformidad con las disposiciones vigentes y aplicables, y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2019)</small>
+
+LVIII. Consulta de documentos: A las actividades relacionadas con la implantación de controles de acceso a los documentos debidamente organizados que garantizan el derecho que tienen los usuarios mediante la atención de requerimientos.
 
 ###### Artículo 5.
 
@@ -243,9 +251,13 @@ Los documentos producidos en los términos del artículo anterior, son considera
 
 Los documentos públicos de los sujetos obligados serán considerados:
 
-I. Bienes estatales con la categoría de bienes muebles, en términos de la normativa aplicable en la materia para el Estado de Durango, y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2019)</small>
 
-II. Monumentos históricos con la categoría de bien patrimonial documental, en los términos de las disposiciones aplicables en la materia en el Estado de Durango.
+I. Bienes estatales con la categoría de bienes muebles, en términos de la Ley de Bienes del Estado de Durango, y
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2019)</small>
+
+II. Monumentos históricos con la categoría de bien patrimonial documental, en los términos de la Ley del Patrimonio Cultural del Estado de Durango.
 
 Lo anterior, sin perjuicio de lo dispuesto por el artículo 9 de la Ley General y demás normativas aplicables, para el caso de los documentos considerados como bienes o monumentos históricos, sujetos a la jurisdicción de la federación.
 
@@ -359,6 +371,10 @@ c) Archivo de concentración, y
 
 d) Archivo histórico, en su caso, sujeto a la capacidad presupuestal y técnica del sujeto obligado.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2019)</small>
+
+Los responsables de los archivos (sic) trámite, por área o unidad serán nombrados por el titular de cada área o unidad; los responsables del archivo de concentración y del archivo histórico serán nombrados por el titular del sujeto obligado de que se trate.
+
 ###### Artículo 22.
 
 Se consideran documentos de los Archivos de Trámite, de Concentración e Históricos del estado de Durango el conjunto de documento (sic) generados por los sujetos obligados, los acumulados por las administraciones anteriores, los adquiridos, y los donados por los particulares o los que independientemente de su origen, tengan valor administrativo e histórico.
@@ -439,7 +455,9 @@ I. Integrar y organizar los expedientes que cada área o unidad produzca, use y 
 
 II. Asegurar la localización y consulta de los expedientes mediante la elaboración de los inventarios documentales;
 
-III. Resguardar los archivos y la información que haya sido clasificada de acuerdo con la normativa aplicable en materia de transparencia y acceso a la información pública, en tanto conserve tal carácter;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2019)</small>
+
+III. Resguardar los archivos y la información que haya sido clasificada de acuerdo con la normativa aplicable en materia de transparencia y acceso a la información pública, en tanto conserve tal carácter; considerando lo dispuesto en el artículo 44 de esta Ley;
 
 IV. Colaborar con el área coordinadora de archivos en la elaboración de los instrumentos de control archivístico previstos en esta Ley y demás disposiciones aplicables;
 
@@ -571,7 +589,11 @@ III. Los que determine el Consejo Local;
 
 IV. Los relativos a las condiciones financieras de las operaciones de crédito público y tesorería que realice el Estado, así como a los estudios técnicos de valoración de los activos del Estado;
 
-V. Los demás que esta Ley y la normatividad aplicable señale expresamente.
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2019)</small>
+
+V. Los que constituyan expedientes en trámite, en los términos del artículo 44 de esta Ley, y
+
+VI. Los demás que esta Ley y la normatividad aplicable señale expresamente.
 
 ###### Artículo 43.
 
@@ -1371,9 +1393,11 @@ El Archivo General del Estado de Durango y el Archivo Histórico del Estado de D
 
 #### SECCIÓN CUARTA. DE LA PROPIEDAD INTELECTUAL
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2019)</small>
+
 ###### Artículo 156.
 
-Los inventarios, catálogos, índices y otras guías similares, así como la información contenida en sistemas digitales y otros soportes quedarán protegidos por las Leyes de Derecho (sic) de Autor; estará prohibida la reproducción de los archivos que se contravenga a las disposiciones de la Ley o esta Ley.
+Los inventarios, catálogos, índices y otras guías similares, así como la información contenida en sistemas digitales y otros soportes quedarán protegidos por las Leyes de Derecho de Autor; estará prohibida la reproducción de los archivos que se contravenga a las disposiciones de la Ley General o esta Ley.
 
 ###### Artículo 157.
 
@@ -1413,9 +1437,11 @@ II. Multa para los casos de las fracciones III y VI; y
 
 III. Destitución para los casos de las fracciones I, IV y V.
 
-###### Artículo 161.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2019)</small>
 
-Las sanciones previstas en el artículo anterior se aplicarán con base en el procedimiento y parámetros de las sanciones establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, sin perjuicio de la responsabilidad penal o civil en que pudieran incurrir.
+###### ARTÍCULO 161.
+
+Las sanciones previstas en el artículo anterior se aplicarán con base en el procedimiento y parámetros de las sanciones establecidos (sic) en las leyes en materia de procedimiento administrativo y en materia civil del Estado aplicables, sin perjuicio de la responsabilidad penal o civil en que pudieran incurrir.
 
 ###### Artículo 162.
 
@@ -1449,13 +1475,33 @@ Tratándose de asuntos relacionados con el acceso a la información y protecció
 
 ## TRANSITORIOS
 
-Primero. La presente Ley entrará en vigor de conformidad con los procedimientos establecidos en la Ley General de Archivos.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2019)</small>
 
-Segundo. Los Reglamentos correspondientes se expedirán tomando en cuenta los plazos especificados en la Ley General de Archivos.
+Primero. La presente Ley entrará en vigor el 16 de junio de 2019.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2019)</small>
+
+Segundo. Los sujetos obligados, deberán expedir su reglamentación en materia de archivos dentro de los seis meses siguientes a la entrada en vigor de la presente Ley.
 
 Tercero. Los sujetos obligados podrán establecer medidas que permitan la digitalización de archivos, por lo que la Ley de Egresos del Estado para el Ejercicio Fiscal 2019 establecerá las partidas que correspondan.
 
 Cuarto. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2019)</small>
+
+Quinto. El Comité Estatal de Archivos deberá instalarse dentro de los dos meses siguientes a la entrada en vigor de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2019)</small>
+
+Sexto. La Coordinación Estatal de Archivos pondrá en operación la plataforma del Sistema Estatal de Archivos, dentro de los seis meses siguientes a la entrada en vigor de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2019)</small>
+
+Séptimo. Aquellos documentos que se encuentren en los archivos de concentración y que antes de la entrada en vigor de la presente Ley no han sido organizados y valorados, se les deberá aplicar estos procesos técnicos archivísticos, con el objetivo de identificar el contenido y carácter de la información y determinar su disposición documental. Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico del sujeto obligado.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2019)</small>
+
+Octavo. Los documentos transferidos a los archivos históricos o a los archivos generales y de concentración, antes de la entrada en vigor de la Ley, permanecerán en dichos archivos y deberán ser identificados, ordenados, descritos y clasificados archivísticamente, con el objetivo de identificar el contenido y carácter de la información, así como para promover el uso y difusión favoreciendo la divulgación e investigación. Aquellos sujetos obligados que cuenten con archivos históricos, deberán prever en el Programa anual el establecimiento de acciones tendientes a identificar, ordenar, describir y clasificar archivísticamente, los documentos que les hayan sido transferidos antes de la entrada en vigor de la Ley. Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de consulta en el portal electrónico del sujeto obligado.
 
 El Ciudadano Gobernador del Estado, sancionará, promulgará y dispondrá se publique, circule y observe.
 
@@ -1484,3 +1530,13 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANÍS QUIÑONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 92.- QUE CONTIENE REFORMA A LA LEY DE ARCHIVOS PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
