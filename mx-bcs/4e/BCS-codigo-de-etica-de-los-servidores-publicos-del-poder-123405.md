@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-etica-de-los-servidores-publicos-del-poder-123405"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-08-31"
-last_updated: "2017-08-31"
+last_updated: "2019-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "BCS"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 31 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2019 (ABROGADO).
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de agosto de 2017.
 
@@ -153,3 +155,19 @@ SECRETARIO GENERAL DE GOBIERNO
 CONTRALORA GENERAL
 
 SONIA MURILLO MANRÍQUEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se abroga el Código de Ética de los Servidores Públicos del Poder Ejecutivo del Estado de Baja California Sur, las Reglas de Integridad para el ejercicio de la Función Pública para el Establecimiento de Acciones Permanentes que Aseguren la Integridad y el Comportamiento Ético de los Servidores Públicos del Poder Ejecutivo del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 31 de agosto de 2017.
+
+TERCERO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+CUARTO. Las dependencias, entidades y empresas productivas del Estado deberán emitir sus respectivos Códigos de Conducta en un plazo no mayor a los 90 días naturales siguientes a la emisión de la guía que, para la elaboración del Código de Conducta, emita la Unidad.
+
+QUINTO. La normativa que rige a los Comités, así como los mecanismos de evaluación, seguirán vigentes hasta en tanto la Unidad emita las actualizaciones correspondientes.
