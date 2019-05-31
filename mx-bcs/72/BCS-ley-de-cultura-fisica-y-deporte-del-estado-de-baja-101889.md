@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-cultura-fisica-y-deporte-del-estado-de-baja-101889"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-31"
-last_updated: "2019-04-20"
+last_updated: "2019-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCS"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2019.
 
-Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día jueves 31 de julio de 2014
+Ley Publicada en el Boletín Oficial del Estado de Baja California Sur, el día jueves 31 de julio de 2014
 
 MARCOS ALBERTO COVARRUBIAS VILLASEÑOR, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR, A SUS HABITANTES HACE SABER:
 
@@ -1179,6 +1179,10 @@ I. Por su naturaleza, en competiciones oficiales o no oficiales, de carácter pr
 
 II. Por su ámbito, en competiciones internacionales, nacionales, regionales, estatales y de ámbito territorial inferior.
 
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2019)</small>
+
+Todas las competiciones diseñadas, organizadas, autorizadas, avaladas, o realizadas por las autoridades municipales o estatales o en coordinación entre ambas, particulares, clubes, sociedades, asociaciones o cualesquiera otro ente reconocido por esta ley, serán incluyentes y observarán la participación igualitaria de las personas con discapacidad con excepción de aquellas en las que fuera imposible realizar los ajustes razonables o que la naturaleza de la competencia impida, por razones obvias, la participación de las personas con determinado tipo de discapacidad. Todas las competiciones deberán contemplar cuando menos la inclusión o participación de competidores que padezcan tres tipos diferentes de discapacidad.
+
 ###### Artículo 83.
 
 Son competiciones oficiales de ámbito estatal aquellas que así se califiquen por el Instituto y la correspondiente ADE, salvo las de carácter profesional. Los criterios para la calificación de las competiciones oficiales de ámbito estatal podrán ser establecidos en las disposiciones de desarrollo de la presente Ley o, de acuerdo con ellas, en los estatutos de las ADE correspondientes.
@@ -1947,4 +1951,12 @@ B.O. 20 DE ABRIL DE 2019.
 
 ###### ARTÍCULO ÚNICO.
 
-El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial de gobierno del Estado.
+El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2604 SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 82 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
