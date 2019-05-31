@@ -4,7 +4,7 @@ identifier: "NAY-estatuto-juridico-para-los-trabajadores-al-servicio-del-12567"
 country: "mx"
 rank: "estatuto"
 publication_date: "1975-05-14"
-last_updated: "2014-10-30"
+last_updated: "2019-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # ESTATUTO JURIDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DE CARACTER ESTATAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY LABORAL BUROCRÁTICA DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 31 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DE CARÁCTER ESTATAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2019 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Nayarit, el miércoles 14 de mayo de 1975.
 
@@ -1162,3 +1164,53 @@ P.O. 30 DE OCTUBRE DE 2014.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Segundo.- Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que los sujetos obligados efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de este Decreto.
+
+P.O. 31 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY LABORAL BUROCRÁTICA DEL ESTADO DE NAYARIT”.]
+
+Primero. La presente Ley entrará en vigor al día de siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+Segundo. Se abroga el Estatuto Jurídico de los Trabajadores al servicio del Estado, Municipios e Instituciones descentralizadas de carácter Estatal, así como todas las normas jurídicas que se opongan a la presente Ley.
+
+No obstante, continuará vigente, para los efectos precisados en el artículo transitorio sexto de la presente Ley.
+
+Tercero. Dentro del plazo de 180 días naturales posteriores a la entrada en vigor de la presente Ley, se deberá tener debidamente integrado el Instituto de Justicia Laboral Burocrática del Estado de Nayarit.
+
+Dentro de dicho término, se deberán emitir las siguientes normas reglamentarias necesarias para dar total cumplimiento a las disposiciones previstas en la presente Ley:
+
+I. Reglamento Interior del Instituto de Justicia Laboral Burocrática.
+
+II. Reglamento de Escalafón de los trabajadores al servicio del Estado de Nayarit.
+
+III. Reglamento.
+
+Cuarto. Dentro del Plazo de 30 días posteriores a la entrada en vigor de la presente Ley el H. Congreso del Estado deberá designar a quien fungirá como titular del Instituto de Justicia Laboral Burocrática del Estado de Nayarit de conformidad con el procedimiento previsto en la presente Ley.
+
+Una vez designado el titular del Instituto de Justicia Laboral Burocrática del Estado de Nayarit, deberá, éste, iniciar de inmediato el procedimiento para la integración de la Junta de Gobierno que deberá estar constituida en un plazo no mayor de treinta días naturales.
+
+En la sesión de instalación, la Junta de gobierno acordará:
+
+I. La instrumentación de un plan de trabajo que incluya la elaboración y aprobación de los proyectos normativos a que se refiere el transitorio anterior.
+
+II. Un programa de implementación de todo lo necesario en materia financiera y administrativa para el funcionamiento y operación del instituto.
+
+Una vez aprobados los reglamentos referidos y satisfechos los requerimientos antes señalados, se procederá a la designación de los Presidentes de la Unidad de Medios Alternos y de las Salas Laborales, así como del personal necesario para el funcionamiento de ambas instancias.
+
+Quinto. En tanto se integra el Instituto de Justicia Laboral y sus órganos, continuará en funciones el Actual Tribunal de Conciliación y Arbitraje en el Estado.
+
+Sexto. Los procedimientos que a la entrada en vigor de la presente Ley se encuentren en trámite o en proceso de ejecución ante el Tribunal de Conciliación y Arbitraje del Estado de Nayarit, o las Juntas Local o especiales de Conciliación y Arbitraje en materia laboral burocrática, continuarán rigiéndose hasta su conclusión, por la Ley que se abroga.
+
+Séptimo. Las demandas o procedimientos que se interpongan en el lapso que medie entre la entrada en vigor de la presente Ley y la Integración e inicio de funciones del Instituto de Justicia Laboral del Estado de Nayarit, deberán ser incoadas y tramitadas por el Tribunal de Conciliación y Arbitraje aplicando la Ley aprobada mediante la presente Ley, con la salvedad de que no será necesario para los actores, acreditar haber agotado el procedimiento ante la Unidad de Medios Alternos de Solución de Conflictos laborales a que se refiere el Artículo 259 fracción VII de la presente Ley.
+
+Octavo. Una vez que sea formalmente instalado e inicie sus funciones el Instituto de Justicia Laboral para el Estado de Nayarit, tanto el Tribunal de Conciliación y Arbitraje, como la Junta Local y las Especiales de Conciliación y Arbitraje, remitirán al Presidente del Instituto, debidamente inventariados los Expedientes y documentos de sus respectivas competencias en materia laboral burocrática, para que continúe, según corresponda, con su resguardo y en su caso continuación procesal a que se refieren los dos artículos transitorios precedentes en los términos precisados.
+
+El Presidente del Instituto, proveerá de inmediato su recepción y, procederá dentro de los cinco días siguientes, a su distribución, a las Salas que correspondan conforme a la competencia fijada en la presente Ley.
+
+Una vez recibidos por el Presidente del Instituto, los expedientes a que se refiere el presente artículo transitorio, cesará en sus funciones el Tribunal de Conciliación y Arbitraje del Estado de Nayarit.
+
+Noveno. Los trabajadores de base del Tribunal de Conciliación y Arbitraje, una vez que concluya con sus funciones, conservarán todos sus derechos laborales. Deberán ser readscritos preferentemente a un Ente Público afín o que resulte compatible con las actividades que venían desempeñando.
+
+Los trabajadores de confianza del Tribunal de Conciliación y Arbitraje, podrán ser considerados, a solicitud de parte, para concursar su ingreso a las distintas unidades administrativas del Instituto de Justicia Laboral Burocrática.
+
+Décimo. La persona que a la entrada en vigor de la presente Ley, ocupa la Presidencia del Tribunal de Conciliación y Arbitraje del Estado de Nayarit, conserva sus derechos a salvo para participar en el procedimiento de designación del Presidente del Instituto previsto en la presente Ley.
