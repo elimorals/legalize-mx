@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2018-09-10"
+last_updated: "2019-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,11 +22,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO DEL ACUERDO DE REFORMA, PUBLICADO EN EL P.O. 13 DE FEBRERO DE 2017, "CUANDO EN EL PRESENTE CÓDIGO U OTRO ORDENAMIENTO JURÍDICO SE REFIERAN A LAS FUNCIONES O ATRIBUCIONES PARA LA DIRECCIÓN DE PLANEACIÓN, ASÍ COMO LAS RELATIVAS AL DESARROLLO URBANO, LAS MISMAS SE ENTENDERÁN CONFERIDAS A LA SECRETARÍA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO MUNICIPAL; LAS CORRESPONDIENTES A LA DIRECCIÓN DE OBRAS PÚBLICAS, SE ENTENDERÁN CONFERIDAS A LA SECRETARÍA DE OBRAS PÚBLICAS; LAS CORRESPONDIENTES A LAS DIRECCIONES DE SEGURIDAD PÚBLICA Y DE TRÁNSITO Y VIALIDAD, SE ENTENDERÁN CONFERIDAS A LA SECRETARÍA DE SEGURIDAD PÚBLICA Y VIALIDAD; LAS CORRESPONDIENTES A LA SUBDIRECCIÓN DE PROTECCIÓN AMBIENTAL Y DEPARTAMENTO DE MEDIO AMBIENTE, SE ENTENDERÁN CONFERIDAS A LA SECRETARÍA DE MEDIO AMBIENTE Y SUSTENTABILIDAD; LAS CORRESPONDIENTES A LA CONTRALORÍA MUNICIPAL, SE ENTENDERÁN CONFERIDAS A LA SECRETARIA DE AUDITORÍA FINANCIERA Y FISCALIZACIÓN; LAS CORRESPONDIENTES A COMUNICACIÓN SOCIAL, SE ENTENDERÁN CONFERIDAS A LA DIRECCIÓN DE COMUNICACIÓN Y DIFUSIÓN; LAS CORRESPONDIENTES A LA DIRECCIÓN DE SALUD, SE ENTENDERÁN CONFERIDAS A LA INSTANCIA DE SALUD PÚBLICA; LAS CORRESPONDIENTES AL COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA Y VOLUNTARIADO, SE ENTENDERÁN CONFERIDAS AL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA; CUANDO EN ESTE CÓDIGO SE DENOMINE ALGUNA ÁREA COMO DIRECCIÓN, LAS ATRIBUCIONES O FUNCIONES SE ENTENDERÁN CONFERIDAS A LA SECRETARIA O INSTANCIA QUE CORRESPONDA, SEGÚN EL ÁMBITO DE SU COMPETENCIA, ELLO HASTA EN TANTO SE REFORMEN LAS DISPOSICIONES LEGALES CORRESPONDIENTES".]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL BANDO DE POLICÍA Y GOBIERNO DEL MUNICIPIO DE JESÚS MARÍA AGUASCALIENTES, PUBLICADO EN EL P.O. DE 31 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2019 (ABROGADO).
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -14859,3 +14859,27 @@ P.O. 10 DE SEPTIEMBRE DE 2018.
 > <small>[N. DE E. TRANSITORIO POR EL QUE "SE REFORMA EL ARTÍCULO 51 DEL CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGS.".]</small>
 
 Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 31 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA A LA NORMATIVIDAD VIGENTE PARA LA CONSTRUCCIÓN DE UNA NUEVA NORMATIVA MUNICIPAL, IMPLEMENTANDO EL BANDO DE POLICÍA Y GOBIERNO DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES Y DIVERSOS REGLAMENTOS".]
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el Código Municipal de Jesús María, Aguascalientes publicado en el Periódico Oficial del Estado el 24 de diciembre de 2001 y sus diversas reformas posteriores.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente ordenamiento entrará en vigencia al día cuatro de junio del año dos mil diecinueve. Los procedimientos y actos realizados por particulares y personas morales se tendrán que adecuar a lo dispuesto por este Bando de Policía y Gobierno y al o los Reglamentos Municipales aprobados de acuerdo a la materia que le sea aplicable.
+
+###### ARTÍCULO TERCERO.
+
+Los Reglamentos expedidos con anterioridad a la vigencia del presente Bando de Policía y Gobierno, seguirán teniendo vigencia en cuanto no contravengan las disposiciones del presente Bando y los reglamentos que de este emane, teniendo el Honorable Ayuntamiento el término de 180 días para hacer las adecuaciones de estos reglamentos para armonizarlo con lo estipulado en este Bando. Mientras tanto cuando estos reglamentos se refieran al Código Municipal se deberá de entender que se refiere al presente Bando de Policía y Buen Gobierno, en caso de existir alguna situación no previstas por los reglamentos vigentes, se resolverán por acuerdo del H. Ayuntamiento por mayoría calificada.
+
+###### ARTÍCULO CUARTO.
+
+Los polígonos delimitados de la Cabecera Municipal y Delegaciones mencionadas en el artículo 11 del presente Bando, no son modificables en cuanto su extensión y limites, en cuanto a los asentamientos humanos que se integren o dejen de ser parte del mismo por no haberse desarrollarse (sic) no obstante su autorización, solamente se adherirán o desincorporan de forma administrativa sin que sea necesario la reforma al presente Bando.
+
+###### ARTÍCULO QUINTO.
+
+El Tribunal Contencioso referido en el Titulo X del presente Bando iniciará sus funciones una vez que se haya expedido el Reglamento del Procedimiento Administrativo Municipal y entrado en vigencia, mientras tanto, el recurso de revisión o de cualquier otro que se estipulen en los Reglamentos Municipales, se dará tramite en los términos de la Ley Municipal para el Estado de Aguascalientes y la Ley del Procedimiento Administrativo del Estado de Aguascalientes, vigentes.
