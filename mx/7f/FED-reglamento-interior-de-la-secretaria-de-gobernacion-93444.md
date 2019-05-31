@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-gobernacion-93444"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-02"
-last_updated: "2015-09-25"
+last_updated: "2019-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93444&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-04-01"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBERNACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBERNACIÓN, PUBLICADO EN EL D.O.F. DE 31 DE MAYO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBERNACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 2 de abril de 2013.
 
@@ -3606,3 +3608,33 @@ SEGUNDO.- El Secretario de Gobernación expedirá el acuerdo a que se refiere el
 TERCERO.- Se abroga el Acuerdo por el que se reglamentan las funciones de las Coordinaciones Regionales y las Representaciones Estatales de la Subsecretaría de Gobierno de la Secretaría de Gobernación, publicado el 8 de febrero de 1994 en el Diario Oficial de la Federación.
 
 CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado a la Secretaría de Gobernación, por lo que no requerirán de recursos adicionales para tal efecto y no incrementarán su presupuesto regularizable en el presente ejercicio fiscal, ni en los subsecuentes. La Secretaría de Gobernación realizará las modificaciones a su estructura orgánica mediante movimientos compensados, conforme a las disposiciones aplicables.
+
+D.O.F. DE 31 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBERNACIÓN".]
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Se exceptúan de lo previsto en el párrafo anterior, las fracciones IV, V, VI y VIII del artículo 14 de este Reglamento, las cuales entrarán en vigor el día 1 de julio de 2019.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Gobernación, publicado en el Diario Oficial de la Federación el 2 de abril de 2013, y se derogan todas aquellas disposiciones normativas que se opongan al presente Reglamento.
+
+TERCERO.- Se continuará con la transferencia de los recursos humanos, materiales, técnicos y financieros a la Secretaría de Seguridad y Protección Ciudadana, en los términos y condiciones que establezcan las actas de transferencia que para tal efecto suscriban las unidades de administración y finanzas de las secretarías de Gobernación y de Seguridad y Protección Ciudadana.
+
+CUARTO.- Los asuntos que se encuentren en trámite ante las unidades administrativas u órganos administrativos desconcentrados de la Secretaría, cuyas atribuciones se transfieran a otras unidades administrativas u órganos administrativos desconcentrados de la dependencia con motivo de la entrada en vigor del presente Reglamento Interior, serán atendidos y resueltos por estas últimas.
+
+Los recursos financieros, humanos y materiales con que cuenten las unidades administrativas u órganos administrativos desconcentrados, cuyas atribuciones se transfieran a otras unidades administrativas u órganos administrativos desconcentrados de la Secretaría en virtud de la entrada en vigor del presente Reglamento Interior serán transferidos a las unidades administrativas u órganos administrativos desconcentrados que ejercerán dichas atribuciones.
+
+QUINTO.- En casos de duda respecto de la unidad administrativa u órgano administrativo desconcentrado que deba continuar con la atención de los asuntos, corresponderá a la persona Titular de la Secretaría la determinación de la unidad administrativa u órgano administrativo desconcentrado competente, con la opinión de la Unidad General de Asuntos Jurídicos.
+
+SEXTO.- Las menciones y referencias que los reglamentos y demás disposiciones jurídicas hagan de servidores públicos, unidades administrativas u órganos administrativos desconcentrados de la Secretaría de Gobernación cuya denominación, funciones o atribuciones se vean modificadas con motivo de la entrada en vigor del presente Reglamento Interior, se entenderán referidas a los servidores públicos, unidades administrativas u órganos administrativos desconcentrados que, conforme al mismo, sean competentes en la materia que se trate.
+
+SÉPTIMO.- Se abroga el Acuerdo por el que se delegan facultades para ejercer las atribuciones en materia de Refugiados y Protección Complementaria previstas en la Ley sobre Refugiados y Protección Complementaria en favor del Subsecretario de Población y Migración; del Titular de la Secretaría General de la Comisión Mexicana de Ayuda a Refugiados y del Titular del Instituto Nacional de Migración, publicado en el Diario Oficial de la Federación el 7 de marzo de 2011.
+
+OCTAVO.- En las transferencias y readscripciones de personal, así como en las eventuales bajas, se respetarán en todo caso los derechos laborales de los servidores públicos.
+
+NOVENO.- El órgano administrativo desconcentrado denominado Centro de Producción de Programas Informativos y Especiales, se adscribe a la Oficina de la Presidencia del titular del Ejecutivo Federal, por lo que se le transfieren los recursos humanos, financieros y materiales.
+
+Las atribuciones del Centro de Producción de Programas Informativos Especiales, continuarán siendo ejercidas en los términos de las disposiciones vigentes con anterioridad a la entrada en vigor del presente Reglamento, hasta en tanto se emitan las disposiciones correspondientes.
+
+DÉCIMO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento, así como las modificaciones a las atribuciones conferidas, o a la estructura orgánica de la Secretaría de Gobernación, deberán cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dicha Dependencia.
