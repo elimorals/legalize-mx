@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-10355
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2016-10-31"
+last_updated: "2019-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de noviembre de 2014.
 
@@ -155,7 +155,13 @@ VIII. Apoyo al desarrollo biológico, cognoscitivo, psicomotriz, y socioafectivo
 
 IX. Enseñanza del lenguaje y comunicación;
 
-X. Información y apoyo a los padres, tutores o quienes tengan la responsabilidad del cuidado o crianza, para fortalecer la comprensión de sus funciones en la educación de niñas y niños.
+> <small>(REFORMADA, B.O. 31 DE MAYO DE 2019)</small>
+
+X. Información y apoyo a los padres, tutores o quienes tengan la responsabilidad del cuidado o crianza, para fortalecer la comprensión de sus funciones en la educación de niñas y niños; y
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2019)</small>
+
+XI. Implementar mecanismos de participación de los padres de familia o de quien ejerza la tutela de niñas y niños, respecto de su educación y atención.
 
 ###### Artículo 13.
 
@@ -203,9 +209,17 @@ IV. Contribuir al mejoramiento progresivo y al fortalecimiento de los servicios 
 
 V. Promover pautas de convivencia familiar y comunitaria fundadas en el respeto, protección y ejercicio de los derechos de niñas y niños;
 
-VI. Fomentar la equidad de género, y
+> <small>(REFORMADA, B.O. 31 DE MAYO DE 2019)</small>
 
-VII. Garantizar criterios cuantitativos y cualitativos de los servicios, de conformidad con las prioridades que defina el Consejo, y de los requerimientos y características de los modelos de atención.
+VI. Fomentar la equidad de género;
+
+> <small>(REFORMADA, B.O. 31 DE MAYO DE 2019)</small>
+
+VII. Garantizar criterios cuantitativos y cualitativos de los servicios, de conformidad con las prioridades que defina el Consejo, y de los requerimientos y características de los modelos de atención; y
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2019)</small>
+
+VIII. Implementar mecanismos de participación de padres de familia y de quienes ejercen la tutela de niñas y niños, para el diseño, implementación, monitoreo y evaluación de los servicios que presten los Centros de Atención.
 
 ###### Artículo 20.
 
@@ -640,6 +654,10 @@ f) Contar con un sistema de alarma de emergencia, que se pueda activar mediante 
 g) Contar con señalamientos apropiados de tamaño mayor, para que el personal de los Centros de Atención oriente a los menores, y en su caso a los usuarios en caso de desalojo, e
 
 h) Las demás que determinen las Leyes aplicables.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2019)</small>
+
+Artículo 49 BIS.- Los Centros de Atención podrán hacer uso de equipos o sistemas tecnológicos para la captación o grabación de imágenes o sonidos como una medida de seguridad adicional para prevenir cualquier riesgo o emergencia que se presente en las instalaciones, salvaguardando la integridad de los menores en términos de las disposiciones legales aplicables.
 
 ###### Artículo 50.
 
@@ -1168,3 +1186,11 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 31 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2603 SE REFORMAN LA FRACCIÓN X DEL ARTÍCULO 12 Y LAS FRACCIONES VI Y VII DEL ARTÍCULO 19; Y SE ADICIONAN UNA FRACCIÓN XI AL ARTÍCULO 12, UNA FRACCIÓN VIII AL ARTÍCULO 19 Y UN ARTÍCULO 49 BIS TODOS A LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Primero.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Sin perjuicio de lo dispuesto en el artículo transitorio Primero, los Centros de Atención Infantil contaran con el plazo de 180 días a partir de la entrada en vigor, para el debido diseño, implementación, modificación y actualización de sus planes y programas a efectos de que se especifiquen en estos los mecanismos de participación de los padres de familia y tutores, respecto de la educación, atención y evaluación de los servicios que presten, de acuerdo a lo establecido en el presente Decreto.
