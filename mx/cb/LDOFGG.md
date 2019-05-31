@@ -4,7 +4,7 @@ identifier: "LDOFGG"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-24"
-last_updated: "2012-06-05"
+last_updated: "2019-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=310&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,13 @@ abbreviation: "LDOFGG"
 ---
 # LEY DEL DIARIO OFICIAL DE LA FEDERACION Y GACETAS GUBERNAMENTALES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE JUNIO DE 2019 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL DIARIO OFICIAL DE LA FEDERACIÓN Y GACETAS GUBERNAMENTALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2019.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 24 de diciembre de 1986.
 
@@ -40,19 +44,25 @@ LEY DEL DIARIO OFICIAL DE LA FEDERACION Y GACETAS GUBERNAMENTALES
 
 ### CAPITULO PRIMERO. Del Diario Oficial de la Federación
 
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2019)</small>
+
 ###### ARTICULO 1o.
 
-La presente ley tiene por objeto reglamentar la publicación del Diario Oficial de la Federación y establecer las bases generales para la creación de las gacetas gubernamentales sectoriales.
+La presente ley tiene por objeto reglamentar la publicación del Diario Oficial de la Federación para favorecer su máxima publicidad, accesibilidad y disponibilidad; así como establecer las bases generales para la creación de las gacetas gubernamentales sectoriales.
+
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 2o.
 
-El Diario Oficial de la Federación es el órgano del Gobierno Constitucional de los Estados Unidos Mexicanos, de carácter permanente e interés público, cuya función consiste en publicar en el territorio nacional, las leyes, decretos, reglamentos, acuerdos, circulares, órdenes y demás actos, expedidos por los Poderes de la Federación en sus respectivos ámbitos de competencia, a fin de que éstos sean aplicados y observados debidamente.
+El Diario Oficial de la Federación es el órgano del Gobierno Constitucional de los Estados Unidos Mexicanos, de carácter permanente e interés público, cuya función consiste en publicar en el territorio nacional, las leyes, decretos, reglamentos, acuerdos, circulares, órdenes y demás actos, expedidos por los Poderes de la Federación y los Órganos Constitucionales Autónomos, en sus respectivos ámbitos de competencia, a fin de que éstos sean aplicados y observados debidamente.
 
 ###### ARTICULO 3o.
 
 Serán materia de publicación en el Diario Oficial de la Federación:
 
-I.- Las leyes y decretos expedidos por el Congreso de la Unión;
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2019)</small>
+
+I.- Las leyes y decretos expedidos por el Congreso de la Unión, así como cualquier otro acto o resolución relativos a la actividad parlamentaria que sean de interés general;
 
 II.- Los decretos, reglamentos, acuerdos y órdenes del Ejecutivo Federal que sean de interés general;
 
@@ -60,43 +70,41 @@ III.- Los acuerdos, circulares y órdenes de las Dependencias del Ejecutivo Fede
 
 IV.- Los Tratados celebrados por el Gobierno de los Estados Unidos Mexicanos;
 
-V.- Los acuerdos de interés general emitidos por el Pleno de la Suprema Corte de Justicia de la Nación;
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2019)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+V.- Los acuerdos y resoluciones de interés general emitidos por el Pleno de la Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación;
+
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2019)</small>
+
+VI.- Las disposiciones jurídicas que la Constitución y las leyes ordenen que se publiquen en el Periódico Oficial;
+
+> <small>(ADICIONADA, D.O.F. 31 DE MAYO DE 2019)</small>
+
+VII.- Los acuerdos y resoluciones de carácter general que emitan los Órganos Constitucionales Autónomos que sean de interés general;
 
 > <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2012)</small>
 
-VI.- Los actos y resoluciones que la Constitución y las leyes ordenen que se publiquen en el Periódico Oficial;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2012)</small>
-
-VII.- Aquellos actos o resoluciones que por propia importancia así lo determine el Presidente de la República, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VIII.- Aquellos actos o resoluciones que por propia importancia así lo determine el Presidente de la República, y
 
 > <small>(ADICIONADA, D.O.F. 5 DE JUNIO DE 2012)</small>
 
-VIII.- Las fe de erratas que la autoridad estime necesarias.
+IX.- Las fe de erratas que la autoridad estime necesarias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 4o.
 
-Es obligación del Ejecutivo Federal publicar en el Diario Oficial de la Federación, los ordenamientos y disposiciones a que se refiere el artículo anterior, así como asegurar su adecuada distribución y divulgación, en condiciones de accesibilidad y simplificación en su consulta.
+Es obligación del Ejecutivo Federal publicar en el Diario Oficial de la Federación, los ordenamientos y disposiciones a que se refiere el artículo anterior, así como asegurar su adecuada divulgación, en condiciones de accesibilidad, inclusión, asequibilidad, adaptabilidad, universalidad, interoperabilidad y simplificación en su consulta.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 5o.
 
-El Diario Oficial de la Federación se editará en forma impresa y electrónica, en la Ciudad de México, Distrito Federal, y será distribuido en todo el territorio nacional. Ambas ediciones tendrán carácter oficial e idénticas características y contenido.
+El Diario Oficial de la Federación se publicará en forma electrónica y su edición tendrá carácter oficial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Además de la edición electrónica, se imprimirá un ejemplar, con idénticas características y contenido, para efectos de evidencia documental física, así como para garantizar la publicación del Diario Oficial de la Federación en los casos en que resulte imposible por causas de fuerza mayor, acceder a su edición electrónica. El ejemplar impreso quedará en custodia en la hemeroteca del propio organismo.
+
+Adicionalmente se expedirán 6 copias certificadas que serán remitidas a las siguientes instituciones: la hemeroteca de la Universidad Nacional Autónoma de México, en el Archivo General de la Nación, en la Presidencia de la Mesa Directiva de la Cámara de Diputados, en la Presidencia de la Mesa Directiva del Senado de la República, en la Presidencia de la Suprema Corte de Justicia de la Nación y en la oficina de la Presidencia de la República. En caso de solicitarlo, los órganos con autonomía constitucional podrán así mismo contar con una copia certificada del ejemplar impreso del Diario Oficial de la Federación.
 
 > <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2012)</small>
 
@@ -104,11 +112,19 @@ El Diario Oficial de la Federación se editará en forma impresa y electrónica,
 
 El Diario Oficial de la Federación deberá contener por lo menos los siguientes datos:
 
-I. El nombre Diario Oficial de la Federación, y la leyenda “Órgano del Gobierno Constitucional de los Estados Unidos Mexicanos”;
+I. El nombre Diario Oficial de la Federación, y la leyenda "Órgano del Gobierno Constitucional de los Estados Unidos Mexicanos";
 
-II. Fecha y número de publicación; y
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2019)</small>
 
-III. Índice de Contenido.
+II. Fecha y número de publicación;
+
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2019)</small>
+
+III. Índice de Contenido, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE MAYO DE 2019)</small>
+
+IV. Firma de la autoridad responsable, ya sea electrónica en el caso de la versión digital y rúbrica en el ejemplar impreso de cada edición.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -118,61 +134,53 @@ III. Índice de Contenido.
 
 El Diario Oficial de la Federación podrá ser publicado todos los días del año y, en caso de así requerirse, la autoridad podrá ordenar más de una edición por día.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2012)</small>
 
-###### ARTICULO 7o Bis.
+###### ARTICULO 7o.
 
-Corresponde a la autoridad competente:
+BIS.- Corresponde a la autoridad competente:
 
-I. Difundir el Diario Oficial de la Federación, en forma electrónica a través de su dirección electrónica, el mismo día que se publique su edición impresa, salvo que ello resulte imposible por causas de fuerza mayor;
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2019)</small>
 
-II. Garantizar la autenticidad, integridad e inalterabilidad del Diario Oficial de la Federación que se publique en su dirección electrónica, a través de la firma electrónica avanzada;
+(sic) Difundir la edición electrónica del Diario Oficial de la Federación, el mismo día de su edición, salvo que ello resulte imposible por causas de fuerza mayor;
 
-III. Custodiar y conservar la edición electrónica del Diario Oficial de la Federación;
+II (SIC). Garantizar la autenticidad, integridad e inalterabilidad del Diario Oficial de la Federación que se publique en su dirección electrónica, a través de la firma electrónica avanzada;
+
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2019)</small>
+
+III. Custodiar, conservar y preservar la edición electrónica e impresa del Diario Oficial de la Federación;
 
 IV. Velar por la accesibilidad de la edición electrónica, en los términos que determine la autoridad; y
 
-V. Incorporar el desarrollo y la innovación tecnológica a los procesos de producción y distribución.
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2019)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+V. Incorporar el desarrollo y la innovación tecnológica a los procesos de edición y difusión del Diario Oficial de la Federación.
 
-> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 8o.
 
-El Diario Oficial de la Federación será distribuido gratuitamente en sus formatos impreso o electrónico a los tres Poderes de la Unión. Los Gobernadores de los Estados y el Jefe de Gobierno del Distrito Federal, los demás Poderes Estatales, Órganos Político-Administrativos del Distrito Federal y Ayuntamientos contarán con acceso universal y gratuito al Diario Oficial de la Federación para estar en posibilidad de cumplir y hacer cumplir las leyes federales.
+El acceso a la edición electrónica del Diario Oficial de la Federación será gratuito.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+La autoridad competente determinará las condiciones de acceso a la edición electrónica del Diario Oficial de la Federación y señalará los domicilios de las oficinas en las Entidades Federativas en las que se brindarán facilidades para la consulta del Diario Oficial de la Federación a las personas que no tengan posibilidad de acceder a tecnologías de la información y comunicación.
 
-> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 9o.
 
-La autoridad competente establecerá un sistema adecuado y eficaz para la consulta y distribución oportuna del Diario Oficial de la Federación en las legaciones y embajadas de los Estados Unidos Mexicanos en el extranjero.
+La autoridad competente podrá expedir copias certificadas de la edición impresa del Diario Oficial de la Federación. El costo de las mismas será el que se determine en la legislación aplicable.
+
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2019)</small>
 
 ###### ARTICULO 10.
 
-El Diario Oficial de la Federación será editado y distribuido en cantidad suficiente que garantice la satisfacción de la demanda en todo el territorio nacional.
+La autoridad competente deberá adoptar las medidas de índole técnico-administrativas, ambientales y tecnológicas, para la adecuada custodia y preservación de las ediciones del Diario Oficial de la Federación y documentos de archivo, tanto en su formato electrónico como impreso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2012)</small>
-
-###### ARTICULO 10 Bis.
-
-La dirección electrónica del Diario Oficial de la Federación estará disponible a través de las redes de telecomunicación.
-
-La autoridad competente determinará las condiciones de acceso a la edición electrónica del Diario Oficial de la Federación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2012)</small>
+ARTICULO 10 BIS.- (DEROGADO, D.O.F. 31 DE MAYO DE 2019)
 
 ###### ARTICULO 11.
 
-La autoridad competente podrá fijar el precio de venta por ejemplar en sus formatos impreso y electrónico, para distribuidores y para la venta al público. Asimismo, establecerá las modalidades para el suministro a los distribuidores.
+(DEROGADO, D.O.F. 31 DE MAYO DE 2019)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -212,7 +220,7 @@ PRIMERO.- La presente ley entrará en vigor a los tres meses de su publicación 
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las contenidas en la presente ley.
 
-México, D. F., a 9 de diciembre de 1986.- Sen. Gonzalo Martínez Corbalá, Presidente.- Dip. Reyes Rodolfo Flores Zaragoza, Presidente.- Sen. Ma. del Carmen Márquez de R., Secretario.- Dip. Antonio Melgar Aranda, Secretario.- Rúbricas." (sic)
+México, D. F., a 9 de diciembre de 1986.- Sen. Gonzalo Martínez Corbalá, Presidente.- Dip. Reyes Rodolfo Flores Zaragoza, Presidente.- Sen. Ma. del Carmen Márquez de R., Secretario.- Dip. Antonio Melgar Aranda, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de diciembre de mil novecientos ochenta y seis.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
 
@@ -225,3 +233,15 @@ Primero. El presente decreto entrará en vigor a los treinta días siguientes al
 Segundo. Se derogan todas aquellas disposiciones que se opongan a las contenidas en el presente decreto.
 
 Tercero. La Secretaría de Gobernación realizará las acciones necesarias para que la implementación del presente Decreto se realice con los recursos aprobados a dicha dependencia, mediante movimientos compensados para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable.
+
+D.O.F. 31 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL DIARIO OFICIAL DE LA FEDERACIÓN Y GACETAS GUBERNAMENTALES”.]
+
+Primero. El presente Decreto entrará en vigor el 1o. de julio de 2019.
+
+Segundo. La autoridad competente continuará con la venta de ejemplares del Diario Oficial de la Federación que tenga en existencia para tal fin al inicio de vigencia del presente ordenamiento.
+
+Tercero. Se derogan todas aquellas disposiciones que se opongan a las contenidas en el presente Decreto.
+
+Cuarto. La Secretaría de Gobernación realizará las acciones necesarias para que la implementación del presente Decreto se realice con los recursos aprobados a dicha dependencia, mediante movimientos compensados para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable.
