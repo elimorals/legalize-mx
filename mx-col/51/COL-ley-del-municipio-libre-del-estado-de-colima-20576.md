@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2019-04-20"
+last_updated: "2019-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2019.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -612,6 +612,10 @@ Para estudiar, examinar y resolver los asuntos municipales y vigilar que se ejec
 La denominación de las comisiones, sus características, obligaciones y facultades, serán establecidas en el Reglamento del Gobierno Municipal que para tal efecto expida el ayuntamiento.
 
 Las comisiones pueden ser permanentes y transitorias y bajo ninguna circunstancia pueden tener facultades ejecutivas. De acuerdo a las posibilidades presupuestales de los ayuntamientos, las comisiones dispondrán de recursos humanos y materiales para el mejor cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+Las Comisiones de Derechos Humanos de los Cabildos, podrán gestionar ante la Comisión de Derechos Humanos del Estado de Colima, acuda personal facultado a las sedes municipales para la recepción de quejas y denuncias por presuntas violaciones a los derechos humanos, cuando éstas fueren imputadas a cualquier autoridad o servidor público cuya competencia se circunscriba en el municipio correspondiente. Lo anterior, siempre y cuando los ciudadanos interesados se encuentren en estado de vulnerabilidad o no cuenten con los recursos necesarios para trasladarse a la capital del Estado.
 
 ###### ARTICULO 43.
 
@@ -2386,3 +2390,13 @@ P.O. 20 DE ABRIL DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Dentro de los 60 días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos de la Entidad deberán adecuar sus reglamento (sic) internos, de conformidad con lo que en el mismo se dispone.
+
+P.O. 1 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 75 POR EL QUE SE APRUEBA ADICIONAR EL CAPÍTULO XV, DENOMINADO "DE LAS COMISIONES DE DERECHOS HUMANOS DE LOS CABILDOS MUNICIPALES", MISMO QUE SE CONFORMA POR EL ARTÍCULO 62, A LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COLIMA; ASÍ COMO ADICIONAR UN PÁRRAFO CUARTO AL ARTÍCULO 42 DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El cumplimiento de lo previsto en el presente Decreto que requiera de presupuesto para su instrumentación y desarrollo, se sujetará a la disponibilidad presupuestaria de la Comisión de Derechos Humanos del Estado.
+
+TERCERO.- La Comisión de Derechos Humanos del Estado deberá prever en su Proyecto de Presupuesto de Egresos del Ejercicio Fiscal 2020 y venideros, la partida respectiva para el cumplimiento de lo previsto en el presente Decreto, en tanto que el H. Congreso del Estado deberá revisar, analizar y, en su caso, aprobar lo necesario para tal fin.
