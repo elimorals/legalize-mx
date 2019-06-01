@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-desarrollo-pecuario-del-estado-de-tabasco-81777"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-01"
-last_updated: "2017-07-05"
+last_updated: "2019-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE DESARROLLO PECUARIO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2019.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el miércoles 1 de junio de 2011.
 
@@ -33,7 +33,9 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA SEXAGÉSIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS POR EL ARTÍCULO 36, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO:
 
-ANTECEDENTES.
+ANTECEDENTES
+
+[...]
 
 SEXTO.- Que en virtud de lo anterior, estando facultado el Congreso del Estado, de conformidad con lo dispuesto por el artículo 36 fracción I de la Constitución Política del Estado Libre y Soberano de Tabasco, para expedir leyes y decretos y legislar en la materia, Ha tenido a bien emitir el siguiente:
 
@@ -701,9 +703,15 @@ XI. Las demás que le señale la presente Ley y demás disposiciones aplicables.
 
 ### CAPÍTULO II. DE LA MOVILIZACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2019)</small>
+
 ###### ARTÍCULO 69.
 
-La Secretaría, tendrá la facultad exclusiva de autorizar, regular y controlar las guías de tránsito. La expedición podrá ser delegada a las asociaciones ganaderas legalmente constituidas, reconocidas y autorizadas, en los términos y condiciones que para el efecto se establezca en el Reglamento de la presente Ley, pudiendo en todo momento revocar las mismas cuando no cumplan los requisitos o se dude de su autenticidad.
+La Secretaría, tendrá la facultad exclusiva de autorizar, regular, controlar y expedir las guías de tránsito. La expedición podrá ser delegada a los ayuntamientos mediante la suscripción de los convenios de colaboración correspondientes; o a las asociaciones ganaderas legalmente constituidas, reconocidas y autorizadas, en los términos y condiciones que establezca esta Ley y su reglamento.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+Cuando a quienes les haya sido delegada la facultad a que se refiere el párrafo anterior, expidan las guías de tránsito sin que se cumplan (sic) con los requisitos establecidos para su autorización y expedición, se le aplicarán las sanciones previstas en esta Ley y su Reglamento, además de las que prevean las demás disposiciones aplicables.
 
 ###### ARTÍCULO 70.
 
@@ -711,15 +719,19 @@ Para la movilización de especies pecuarias, apiarios, sus productos y subproduc
 
 I. Acreditar su propiedad;
 
-II. Guía de tránsito, que el propietario deberá obtener de la organización de productores pecuarios legalmente constituida y autorizada por la Secretaría en el municipio de origen que corresponda;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2019)</small>
+
+II. Guía de tránsito;
 
 III. Certificado zoosanitario; y
 
 IV. Los demás que determine la Secretaría, su Reglamento y demás normas oficiales y disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
 ###### ARTÍCULO 71.
 
-La Guía de Tránsito que expida la organización o asociación a la que pertenezca el productor o del lugar de origen, deberá cumplir con los requisitos que para el efecto se establezcan en el Reglamento de la Ley.
+La Guía de tránsito deberá cumplir con los requisitos que para tal efecto se establezcan en el Reglamento de la Ley.
 
 ###### ARTÍCULO 72.
 
@@ -1306,3 +1318,13 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 1 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 089 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 69 PRIMER PÁRRAFO; 70 FRACCIÓN II; Y 71; SE ADICIONA UN SEGUNDO PÁRRAFO, AL ARTÍCULO 69, TODOS DE LA LEY DE DESARROLLO PECUARIO DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El titular del Poder Ejecutivo del Estado en un plazo no mayor a ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto, deberá hacer las adecuaciones que correspondan al Reglamento de la Ley.
