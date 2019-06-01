@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-cuauhtemoc-colima-26791"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2019-03-20"
+last_updated: "2019-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTÉMOC DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -87,11 +87,9 @@ Con el propósito de elevar la recaudación tributaria y obtener una mayor efici
 
 Para efectos de la presente Ley, se entiende por:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
-
-I. Ley de Catastro, a la Ley del Instituto para el Registro del Territorio del Estado de Colima;
+I. Normatividad Catastral: a la Ley del Instituto para el Registro del Territorio del Estado de Colima y a su Reglamento.
 
 > <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -169,7 +167,9 @@ En todo caso, los bienes inmuebles objeto del impuesto garantizarán preferentem
 
 Es base de este impuesto el valor catastral de los predios que incluye el de los terrenos y de las construcciones adheridas a los mismos, en su caso, determinado conforme a lo dispuesto por la Ley de Catastro.
 
-Todo predio, que por causas imputables al sujeto de este impuesto, haya permanecido oculto a la acción fiscal de la autoridad o que hubiera estado tributando sobre un valor catastral inferior al que le corresponda en los términos de la Ley de Catastro, deberá tributar sobre la base del valor que la autoridad catastral le haya determinado inmediatamente después de haberse tenido la noticia de su descubrimiento, más el cobro de dicho impuesto o de las diferencias del mismo por el término de cinco años anteriores, recargos y multas que procedan, salvo que el sujeto demuestre que la omisión data de fecha ulterior.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+Todo predio, que por causas imputables al sujeto de este impuesto, haya permanecido oculto a la acción fiscal de la autoridad o que hubiera estado tributando sobre un valor catastral inferior al que le corresponda en los términos de la normatividad catastral, deberá tributar sobre la base del valor que la autoridad catastral le haya determinado inmediatamente después de haberse tenido la noticia de su descubrimiento, más el cobro de dicho impuesto o de las diferencias del mismo por el término de cinco años anteriores, recargos y multas que procedan, salvo que el sujeto demuestre que la omisión data de fecha ulterior.
 
 ###### ARTICULO 8º.
 
@@ -179,11 +179,15 @@ Cuando en un predio se realicen construcciones, independientemente del uso al qu
 
 La base del impuesto predial se cambiará:
 
-I. Cuando en los inmuebles se constituya o disuelva el régimen de copropiedad o bien se subdividan, fusionen, amplíen, construyan, reconstruyan, demuelen, fraccionen o relotifiquen y en los demás casos previstos en la Ley de Catastro como causales de valuación y revaluación. En estos casos, la autoridad competente que emita la autorización respectiva, deberá comunicarlo a la autoridad catastral municipal para efectos del pago del impuesto que resulte, que se aplicará a partir del bimestre siguiente, así como de la asignación de clave catastral, en su caso;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2019)</small>
+
+I. Cuando en los inmuebles se constituya o disuelva el régimen de copropiedad o bien se subdividan, fusionen, amplíen, construyan, reconstruyan, demuelen, fraccionen o relotifiquen y en los demás casos previstos en la normatividad catastral como causales de valuación y revaluación. En estos casos, la autoridad competente que emita la autorización respectiva, deberá comunicarlo a la autoridad catastral municipal para efectos del pago del impuesto que resulte, que se aplicará a partir del bimestre siguiente, así como de la asignación de clave catastral, en su caso;
 
 II. Cuando la autoridad competente fije el valor catastral a los inmuebles que hubieren estado tributando sobre una base provisional.
 
-En los casos a que se refiere este artículo, la autoridad catastral procederá a la valuación y revaluación correspondiente, en la forma y términos previstos por la Ley de Catastro.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+En los casos a que se refiere este artículo, la autoridad catastral procederá a la valuación y revaluación correspondiente, en la forma y términos previstos por la normatividad catastral.
 
 ###### ARTICULO 10.
 
@@ -425,9 +429,11 @@ Quienes de acuerdo con esta ley, no estén obligadas a pagar contribuciones, ún
 
 #### SECCION OCTAVA. DE LAS MANIFESTACIONES Y AVISOS
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
 ###### ARTICULO 20.
 
-Las manifestaciones y avisos que los particulares, notarios públicos e instituciones regularizadoras de la tenencia de la tierra deben presentar para efectos de este impuesto, serán los que establece la Ley de Catastro, los cuales se presentarán ante las autoridades catastrales en los formatos aprobados por las mismas, dentro de los treinta días siguientes a la fecha de realización de los actos que deban ser comunicados.
+Las manifestaciones y avisos que los particulares, notarios públicos e instituciones regularizadoras de la tenencia de la tierra deben presentar para efectos de este impuesto, serán los que establece la normatividad catastral, los cuales se presentarán ante las autoridades catastrales en los formatos aprobados por las mismas, dentro de los treinta días siguientes a la fecha de realización de los actos que deban ser comunicados.
 
 ### CAPITULO II. DEL IMPUESTO SOBRE TRANSMISIONES PATRIMONIALES
 
@@ -467,9 +473,17 @@ XIII. La transmisión de dominio que por cualquier hecho, acto, resolución o co
 
 XIV. La transmisión de dominio que por cualquier hecho, acto, resolución o contrato haga el fideicomisario sobre los derechos fideicomitidos, en favor de quien o quienes lo sustituyan como fideicomisario. También será objeto de este impuesto la consolidación de los derechos fideicomitidos en un solo fideicomisario, cuando éstos fueren varios;
 
-XV. La permuta en la que se considerará que se efectúan dos adquisiciones; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2019)</small>
 
-XVI. Cualquier otro hecho, acto, resolución o contrato por medio de los cuales haya transmisión o adquisición de dominio de bienes inmuebles o derechos constituidos sobre los mismos.
+XV. La permuta en la que se considerará que se efectúan dos adquisiciones.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2019)</small>
+
+XVI. La escisión, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE JUNIO DE 2019)</small>
+
+XVII. Cualquier otro hecho, acto, resolución o contrato por medio de los cuales haya transmisión o adquisición de dominio de bienes inmuebles o derechos constituidos sobre los mismos.
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
@@ -519,7 +533,9 @@ En todo caso, los bienes inmuebles objeto del impuesto garantizarán preferentem
 
 Será base de este impuesto el valor que resulte mayor entre el valor catastral, el de avalúo comercial y el señalado como precio de la transmisión, vigentes en el momento en que se realice la operación objeto del impuesto.
 
-A petición del contribuyente se pondrá el valor de la transacción, siempre y cuando éste sea mayor al valor catastral.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+Se asentará el valor de la transacción, siempre que éste sea mayor al valor catastral. Cuando el contribuyente no esté conforme al valor catastral del inmueble, este podrá presentar un avaluó comercial firmado por un perito valuador.
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2013)</small>
 
@@ -651,11 +667,17 @@ II. Acompañar copia certificada de la resolución respectiva en que conste, en 
 
 III. Acreditar que se encuentra al corriente del pago del impuesto predial o de cualquier otro gravamen fiscal derivado de los bienes inmuebles en los términos de esta Ley.
 
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2019)</small>
+
+IV. Acompañar la certificación del avaluó catastral.
+
 ###### ARTICULO 33.
 
 La Tesorería Municipal aceptará invariablemente las declaraciones que presenten los contribuyentes para el pago de este impuesto, a menos que no hayan sido firmadas.
 
-Las tesorerías municipales dentro de los 5 días siguientes a la recepción de los documentos, deberán analizarlos y, en caso de existir omisiones, informará de manera inmediata al contribuyente, para que subsane los errores, en el plazo impuesto por la autoridad, contados a partir de la fecha en que los interesados reciban el requerimiento.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+La tesorería municipal dentro de los 5 días siguientes a la recepción de los documentos, deberán analizarlos y, en caso de existir omisiones, expedirá informe de manera inmediata al contribuyente, previo pago de los derechos que corresponda por dotar de información, para que subsane los errores, en el plazo impuesto por la autoridad, contados a partir de la fecha en que los interesados reciban el requerimiento.
 
 Si transcurrido dicho término no se presenta la documentación requerida, se tendrá por no presentadas dichas declaraciones, sin perjuicio de imponer al infractor las sanciones que correspondan.
 
@@ -699,11 +721,7 @@ Cuando la transmisión de la propiedad haya operado teniendo como fundamento con
 
 ###### ARTICULO 41.
 
-Se eximen del pago de este impuesto:
-
-I. Las adquisiciones de bienes inmuebles que hagan los gobiernos federal, estatal o municipal para formar parte del dominio público, salvo que sean utilizados por entidades paraestatales, paramunicipales o particulares, bajo cualquier título, con fines administrativos o propósitos distintos a su objeto público; y
-
-II. Las adquisiciones que realicen los estados extranjeros en caso de reciprocidad.
+(DEROGADO, P.O. 1 DE JUNIO DE 2019)
 
 ### CAPITULO III. DEL IMPUESTO SOBRE ESPECTACULOS Y OTRAS DIVERSIONES PUBLICAS
 
@@ -763,17 +781,9 @@ I. Los giros que a continuación se mencionan se gravarán según el monto de su
 
 7.- Espectáculos deportivos 5
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+8.- (DEROGADO, P.O. 1 DE JUNIO DE 2019)
 
-8.- Palenques de Gallos sin otro espectáculo
-
-público 4
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
-
-9.- Palenques de Gallos con otro espectáculo
-
-público 6 a 8
+9.- (DEROGADO, P.O. 1 DE JUNIO DE 2019)
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -1887,505 +1897,759 @@ UMA
 
 a) Por la expedición de licencias de funcionamiento, por ejercicio fiscal, por cada una:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-1.- Agencias 300.00 a 500.00
+1.- Agencias 500.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-2.- Bares y centros botaneros 200.00 a 400.00
+2.- Bares y centros botaneros 400.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-3.- Birrierías 50.00 a 100.00
+3.- Birrierías 75.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-4.- Cabaretes 500.00 a 1000.00
+4.- Cabares 1000.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-5.- Casinos y similares 500.00 a 1000.00
+5.- Casinos y similares 1000.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-6.- Cenadurías 70.00 a 100.00
+6.- Cenadurías 85.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-7.- Centros nocturnos 400.00 a 1000.00
+7.- Centros nocturnos 1000.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-8.- Clubes sociales 150.00 a 200.00
+8.- Clubes sociales 150.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-9.- Depósitos de cerveza 150.00 a 300.00
+9.- Depósitos de cerveza 200.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-10.- Deposito de cerveza vinos y licores 200.00 a 300.00
+10.- Depósito de cerveza vinos y licores 250.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-11.- Discotecas 300.00 a 1000.00
+11.- Discotecas 500.00
 
-12.- Hoteles y moteles 250.00 a 300.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+12.- Hoteles y Moteles 1000.00
 
-13.- Locales para fiesta tipo “A” 150.00 a 260.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+13.- Locales para fiesta tipo “A” 150.00
 
-14.- Locales para fiesta tipo “B” 100.00 a 160.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+14.- Locales para fiesta tipo “B” 90.00
 
-15.- Locales para fiesta tipo “C” 80.00 a 100.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+15.- Locales para fiesta tipo “C” 80.00
 
-16.- Marisquerías 80.00 a 100.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+16.- Marisquerías 100.00
 
-17.- Menudearías 50.00 a 100.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+17.- Menuderías 50.00
 
-18.- Parianes 200.00 a 300.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+18.- Parianes 300.00
 
-19.- Pizzerías 50.00 a 100.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-20.- Restaurante clasificación "A" 200.00 a 300.00
+19.- Pizzerías 75.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-21.- Restaurante clasificación "B" 150.00 a 250.00
+20.- Restaurante clasificación "A" 200.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-22.- Restaurante clasificación "C" 100.00 a 200.00
+21.- Restaurante clasificación "B" 150.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-23.- Restaurantes -Bar 150.00 a 300.00
+22.- Restaurante clasificación "C" 100.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-24.- Rosticerías 50.00 a 100.00
+23.- Restaurantes –Bar 250.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-25.- Taquerías 50.00 a 100.00
+24.- Rosticerías 65.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-26.- Tienda de abarrotes con venta d
+25.- Taquerías 65.00
 
-cerveza 70.00 a 100.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+26.- Tienda de abarrotes con venta de cerveza 85.00
 
-27.- Tiendas de autoservicio con venta de
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-cerveza vinos y licores 150.00 a 200.00
+27.- Tiendas de autoservicio con venta de cerveza
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+vinos y licores 175.00
 
-28.- Tiendas departamentales 250.00 a 1000.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008)
+28.- Tiendas departamentales 650.00
 
-29.- Tiendas de conveniencia 150.00 a 200.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., 19 DE ENERO DE 2008)
+29.- Tiendas de conveniencia 250.00
 
-30.- Albercas con venta de cerveza 50.00 a 100.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008)
+30.- Albercas con venta de cerveza 75.00
 
-31.- Billar con venta de cerveza 20.00 a 50.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008)
+31.- Billar con venta de cerveza 100.00
 
-32.- Servifiestas con venta de cerveza 100.00 a 200.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008)
+32.- Servifiestas con venta de cerveza 100.00
 
-33.- Servifiestas con venta de cerveza y vinos 100.00 a 200.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008)
+33.- Servifiestas con venta de cerveza y vinos 200.00
 
-34.- Venta de ponche 15.00 a 50.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008)
+34.- Venta de ponche 20.00
 
-35.- Otros no especificados 60.00 a 1000.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
+35.- Otros no especificados De 60 a 1000.00
 
-En zona rural cada uno:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+En zona rural, por cada uno:
 
-1.- Tienda de abarrotes con venta de
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-cerveza y mezcal 40.00 a 50.00
+1.- Tienda de abarrotes con venta de cerveza y mezcal 40.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-2.- Autoservicio 60.00 a 75.00
+2.- Autoservicio 60.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-3.- Cenadurías 20.00 a 25.00
+3.- Cenadurías 23.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-4.- Taquerías 20.00 a 25.00
+4.- Taquerías 23.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-5.- Salón para fiestas 25.00 a 50.00
+5.- Salón para fiestas 50.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-6.- Ramadas 30.00 a 60.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+6.- Ramadas 40.00
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
 b).- Por el refrendo anual de licencias de funcionamiento, por el ejercicio fiscal, por cada una;
 
-1.- Agencias. 135.00 a 250.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-2.- Bares y centros botaneros. 70.00 a 200.000
+1.- Agencias 200.00
 
-3.- Birrierías. 15.00 a 50.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-4.- Cabarets. 50.00 a 300.000
+2.- Bares y centros botaneros 100.00
 
-5.- Casinos y similares. 250.00 a 300.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-6.- Cenadurías. 35.00 a 50.00
+3.- Birrierías 20.00
 
-7.- Centros nocturnos. 200.00 a 500.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-8.- Clubes sociales. 75.00 a 100.00
+4.- Cabarets 300.00
 
-9.- Depósitos de cerveza. 35.00 a 150.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-10.- Depósito de cerveza vinos y licores. 60.00 a 150.00
+5.- Casinos y similares 300.00
 
-11.- Discotecas. 150.00 a 500.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-12.- Hoteles y Moteles. 125.00 a 150.00
+6.- Cenadurías 40.00
 
-13.- Locales para fiesta tipo "A" 75.00 a 130.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-14.- Locales para fiesta tipo "B" 50.00 a 80.00
+7.- Centros nocturnos 350.00
 
-15.- Locales para fiesta tipo "C” 40.00 a 50.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-16.- Marisquerías 40.00 a 50.00
+8.- Clubes sociales 75.00
 
-17.- Menuderías. 25.00 a 50.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-18.- Parianes. 100.00 a 150.00
+9.- Depósitos de cerveza 50.00
 
-19.- Pizzerías. 25.00 a 50.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-20.- Restaurante clasificación "A". 100.00 a 150.00
+10.- Depósito de cerveza vinos y licores 80.00
 
-21.- Restaurante clasificación "B". 75.00 a 125.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-22.- Restaurante clasificación "C". 45.00 a 90.00
+11.- Discotecas 250.00
 
-23.- Restaurantes -Bar. 75.00 a .150.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-24.- Rosticerías. 25.00 a 50.00
+12.- Hoteles y Moteles 160.00
 
-25.- Taquerías. 15.00 a 30.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-26.- Tienda de abarrotes con venta
+13.- Locales para fiesta tipo “A” 75.00
 
-de cerveza. 18.00 a 50.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+14.- Locales para fiesta tipo “B” 50.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+15.- Locales para fiesta tipo “C” 40.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+16.- Marisquerías 40.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+17.- Menuderías 25.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+18.- Parianes 150.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+19.- Pizzerías 30.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+20.- Restaurante clasificación “A” 100.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+21.- Restaurante clasificación "B" 75.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+22.- Restaurante clasificación "C" 45.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+23.- Restaurantes –Bar 90.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+24.- Rosticerías 25.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+25.- Taquerías 15.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+26.- Tienda de abarrotes con venta de cerveza 25.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
 27.- Tiendas de autoservicio con venta
 
-de cerveza, vinos y licores. 60.00 a 100.00
+de cerveza vinos y licores 80.00
 
-28.- Tiendas departamentales. 125.00 a 500.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-29.- Tiendas de conveniencia. 75.00 a 100.00
+28.- Tiendas departamentales 200.00
 
-30.- Albercas con venta de cerveza. 25.00 a 50.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-31.- Billar con venta de cerveza. 10.00 a 25.00
+29.- Tiendas de conveniencia 100.00
 
-32.- Servifiestas con venta de cerveza. 40.00 a 90.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-33.- Servifiestas con venta de cerveza
+30.- Albercas con venta de cerveza 35.00
 
-y vinos. 50.00 a 100.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-34.- Venta de ponche. 8.00 a 25.00
+31.- Billar con venta de cerveza 20.00
 
-35.- Otros no especificados. 8.00 a 500.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-En zona rural, por cada uno:
+32.- Servifiestas con venta de cerveza 45.00
 
-1.- Tienda de abarrotes con venta
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-de cerveza y mezcal. 14.00 a 25.00
+33.- Servifiestas con venta de cerveza y vinos 75.00
 
-2.- Autoservicio. 30.00 a 38.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-3.- Cenadurías. 10.00 a 13.00
+34.- Venta de ponche 10.00
 
-4.- Taquerías. 10.00 a 13.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-5.- Salón para fiestas. 13.00 a 25.00
+35.- Otros no especificados De 30.00
 
-6.- Ramadas. 15.00 a 30.00
+a 500.00
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2019)</small>
+
+En la zona rural por cada uno:
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+1.- Tienda de abarrotes con venta de cerveza y mezcal 18.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+2.- Autoservicio 30.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+3.- Cenadurías 10.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+4.- Taquerías 10.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+5.- Salón para fiestas 20.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+6.- Ramadas 20.00
 
 Por ningún motivo, el costo del refrendo de la licencia de funcionamiento será mayor al 50 por ciento del costo total por la expedición de la licencia que corresponda en el inciso a), del presente artículo.
 
 c) Por la expedición de permisos para el funcionamiento temporal de establecimientos en los que se expendan bebidas alcohólicas, por cada día:
 
-1.- Agencias 5.00 a 15.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-2.- Bares 5.00 a 20.00
+1.- Agencias 10.00
 
-3.- Birrierías 1.00 a 5.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-4.- Cabarets 5.00 a 20.00
+2.- Bares 12.00
 
-5.- Casinos y similares 10.00 a 30.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-6.- Cenadurías 2.00 a 5.00
+3.- Birrierías 2.00
 
-7.- Centro botanero 5.00 a 20.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-8.- Centros nocturnos 5.00 a 20.00
+4.- Cabares 20.00
 
-9.- Clubes sociales 1.00 a 5.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-10.- Depósitos de cerveza 1.00 a 5.00
+5.- Casinos y similares 30.00
 
-11.- Deposito de cerveza vinos y licores 1.00 a 10.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-12.- Discotecas 5.00 a 10.00
+6.- Cenadurías 2.00
 
-13.- Hoteles y moteles 1.00 a 10.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-14.- Locales para fiesta 1.00 a 5.00
+7.- Centro botanero 18.00
 
-15.- Marisquerías 1.00 a 5.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-16.- Menuderías 1.00 a 5.00
+8.- Centros nocturnos 18.00
 
-17.- Parianes 5.00 a 30.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-18.- Pizzerías 1.00 a 5.00
+9.- Clubes sociales 5.00
 
-19.- Restaurante clasificación "A" 1.00 a 5.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-20.- Restaurante clasificación "B" 1.00 a 4.00
+10.- Depósitos de cerveza 5.00
 
-21.- Restaurante clasificación "C" 1.00 a 3.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-22.- Restaurantes -Bar 5.00 a 8.00
+11.- Deposito de cerveza vinos y licores 8.00
 
-23.- Rosticerías 1.00 a 3.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-24.- Taquerías 1.00 a 3.00
+12.- Discotecas 8.00
 
-25.- Tienda de abarrotes con venta de
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-cerveza 5.00 a 8.00
+13.- Hoteles y moteles 10.00
 
-26.- Tiendas de autoservicio con venta de
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-cerveza vinos y licores 5.00 a 8.00
+14.- Locales para fiesta 5.00
 
-27.- Tiendas departamentales 5.00 a 10.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)
+15.- Marisquerías 5.00
 
-28.- Tiendas de conveniencia 10.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)</small>
+16.- Menuderías 5.00
 
-29- Otros giros no especificados 2.00 a 30.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+17.- Parianes 18.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+18.- Pizzerías 2.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+19.- Restaurante clasificación "A" 5.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+20.- Restaurante clasificación "B" 4.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+21.- Restaurante clasificación "C" 3.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+22.- Restaurantes –Bar 8.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+23.- Rosticerías 2.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+24.- Taquerías 2.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+25.- Tienda de abarrotes con venta de cerveza 5.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+26.- Tiendas de autoservicio con venta de cerveza
+
+vinos y licores 8.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+27.- Tiendas departamentales 10.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+28.- Tiendas de conveniencia 12.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+29.- Otros giros no especificados De 2.00 a 30.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2019)</small>
+
+30.- Por la ampliación del permiso provisional 1.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE JUNIO DE 2019)</small>
+
+Este permiso provisional solo podrá expedirse una única vez.
 
 d) Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos en los que expendan bebidas alcohólicas, por cada hora:
 
-1.- Agencias 0.50 a 2.50
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-2.- Bares 0.50 a 1.50
+1.- Agencias 2.50
 
-3.- Birrierías 0.25 a 1.50
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-4.- Cabarets 2.50 a 50
+2.- Bares 1.50
 
-5.- Casinos y similares 2.50 a 150
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-6.- Cenadurías 0.25 a 1.00
+3.- Birrierías 1.50
 
-7.- Centro botanero 0.50 a 1.50
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-8.- Centros nocturnos 0.50 a 1.50
+4.- Cabarets 10.00
 
-9.- Clubes sociales 2.5 a 15.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-10.- Depósitos de cerveza 0.25 a 1.50
+5.- Casinos y similares 20.00
 
-11.- Depósito de cerveza vinos y licores 0.50 a 1.50
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-12.- Discotecas 1.00 a 2.50
+6.- Cenadurías 1.00
 
-13.- Hoteles y moteles 2.50 a 5.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-14.- Locales para fiesta 1.50 a 2.50
+7.- Centro botanero 3.50
 
-15.- Marisquerías 0.25 a 1.50
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-> <small>(F. DE E., P.O. 22 DE FEBRERO DE 2003)</small>
+8.- Centros nocturnos 3.50
 
-16.- Menuderías 0.25 a 1.50
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-17.- Parianes 2.50 a 15.00
+9.- Clubes sociales 10.00
 
-18.- Pizzerías 0.50 a 1.50
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-19.- Restaurante clasificación "A" 0.50 a 1.50
+10.- Depósitos de cerveza 1.50
 
-20.- Restaurante clasificación "B" 0.50 a 1.50
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-21.- Restaurante clasificación "C" 0.50 a 1.50
+11.- Depósito de cerveza vinos y licores 2.00
 
-22.- Restaurantes -Bar 0.50 a 2.50
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-23.- Rosticerías 0.50 a 1.50
+12.- Discotecas 2.50
 
-24.- Taquerías 0.50 a 1.50
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-25.- Tienda de abarrotes con venta de
+13.- Hoteles y moteles 5.00
 
-cerveza 0.25 a 1.50
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-26.- Tiendas de autoservicio con venta de
+14.- Locales para fiesta 2.50
 
-cerveza vinos y licores 0.50 a 1.50
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-27.- Tiendas departamentales 1.50 a 5.00
+15.- Marisquerías 1.50
 
-(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-28.- Tiendas de conveniencia 1.50
+16.- Menudearías (sic) 1.00
 
-> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-29.- Otros giros no especificados 0.25 a 15.00
+17.- Parianes 10.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+18.- Pizzerías 1.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+19.- Restaurante clasificación "A" 1.50
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+20.- Restaurante clasificación "B" 1.50
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+21.- Restaurante clasificación "C" 1.50
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+22.- Restaurantes –Bar 2.50
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+23.- Rosticerías 1.50
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+24.- Taquerías 1.50
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+25.- Tienda de abarrotes con venta de cerveza 1.50
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+26.- Tiendas de autoservicio con venta de cerveza
+
+vinos y licores 2.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+27.- Tiendas departamentales 5.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+28.- Tiendas de conveniencia 2.50
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+29.- Otros giros no especificados de 1.00 a 15.00
 
 e) Por la autorización de:
 
 CAMBIO DE DOMICILIO:
 
-1.- Agencias 25.00 a 150.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-2.- Bares 25.00 a 60.00
+1.- Agencias 50.00
 
-3.- Birrierías 5.00 a 18.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-4.- Cabarets 100.00 a 240.00
+2.- Bares 35.00
 
-5.- Casinos y similares 100.00 a 240.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-6.- Cenadurías 5.00 a 12.00
+3.- Birrierías 10.00
 
-7.- Centro botanero 25.00 a 60.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-8.- Centros nocturnos 100.00 a 240.00
+4.- Cabarets 100.00
 
-9.- Clubes sociales 5.00 a 120.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-10.- Depósitos de cerveza 5.00 a 15.00
+5.- Casinos y similares 100.00
 
-11.- Depósito de cerveza vinos y licores 25.00 a 60.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-12.- Discotecas 100.00 a 180.00
+6.- Cenadurías 8.00
 
-13.- Hoteles y moteles 50.00 a 90.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-14.- Locales para fiesta tipo “A” 5.00 a 90.00
+7.- Centro botanero 35.00
 
-15.- Locales para fiesta tipo “B” 25.00 a 50.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-16.- Locales para fiesta tipo “C” 15.00 a 35.00
+8.- Centros nocturnos 100.00
 
-17.- Marisquerías 5.00 a 18.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-18.- Menudearías 5.00 a 18.00
+9.- Clubes sociales 25.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+10.- Depósitos de cerveza 10.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+11.- Depósito de cerveza vinos y licores 25.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+12.- Discotecas 100.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+13.- Hoteles y moteles 50.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+14.- Locales para fiesta tipo “A” 40.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+15.- Locales para fiesta tipo “B” 25.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+16.- Locales para fiesta tipo “C” 15.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+17.- Marisquerías 15.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+18.- Menudearías (sic) 10.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
 19.- Parianes 60.00
 
-20.- Pizzerías 20.00 a 36.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-21.- Restaurante clasificación "A" 25.00 a 60.00
+20.- Pizzerías 20.00
 
-22.- Restaurante clasificación "B" 25.00 a 40.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-23.- Restaurante clasificación "C" 10.00 a 24.00
+21.- Restaurante clasificación "A" 40.00
 
-24.- Restaurantes -Bar 35.00 a 90.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-25.- Rosticerías 5.00 a 18.00
+22.- Restaurante clasificación "B" 30.00
 
-26.- Taquerías 5.00 a 18.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-27.- Tienda de abarrotes con venta de
+23.- Restaurante clasificación "C" 20.00
 
-cerveza 5.00 a 15.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-28.- Tiendas de autoservicio con venta de
+24.- Restaurantes –Bar 45.00
 
-cerveza vinos y Licores 30.00 a 60.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-29.- Tiendas departamentales 100.00 a 250.00
+25.- Rosticerías 10.00
 
-(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-30.- Tiendas de conveniencia 75.00 a 100.00
+26.- Taquerías 10.00
 
-(REFORMADO, P.O. 6 DE OCTUBRE DE 2007) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-31.- Otros giros no especificados 5.00 a 250.00
+27.- Tienda de abarrotes con venta de cerveza 15.00
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-En zona rural cada uno:
+28.- Tiendas de autoservicio con venta de cerveza
 
-1.- Tienda de abarrotes con venta de
+vinos y Licores 35.00
 
-cerveza y mezcal 3.00 a 15.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-2.- Autoservicio 3.00 a 15.00
+29.- Tiendas departamentales 150.00
 
-3.- Cenadurías 3.00 a 5.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-4.- Taquerías 3.00 a 5.00
+30.- Tiendas de conveniencia 85.00
 
-5.- Salón para fiestas 5.00 a 15.00
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-6.- Ramadas 5.00 a 10.00
+31.- Otros giros no específico de 05.00 a 250.00
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2019)</small>
+
+En zona rural, por cada uno:
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+1.- Tienda de abarrotes con venta de cerveza y mezcal 8.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+2.- Autoservicio 8.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+3.- Cenadurías 4.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+4.- Taquerías 4.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+5.- Salón para fiestas 15.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+6.- Ramadas 10.00
 
 CAMBIO DE PROPIETARIO
 
@@ -2412,6 +2676,52 @@ Las licencias de funcionamiento de giros distintos a los referidos en el artícu
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 ARTICULO 81 A.- No se autorizará el refrendo de la licencia municipal de funcionamiento a que se refieren el artículo 79 y 81, último párrafo, de esta Ley a los establecimientos que tengan adeudos con la Tesorería Municipal por los derechos del artículo 95, fracción I, inciso b), de este ordenamiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2019)</small>
+
+D).- ESTABLECIMIENTOS COMERCIALES, INDUSTRIALES Y DE PRESTACIÓN DE SERVICIOS
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+Artículo 81 bis.- Causarán los derechos establecidos en esta sección, las personas físicas o morales que obtengan licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean establecimientos comerciales, industriales y de prestación de servicios sin venta de bebidas alcohólicas.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+Artículo 81 ter.- Es base para el pago de estos derechos el tipo de autorización, licencia o permiso que se otorgue, así como el periodo o número de horas cuando se trate de permisos eventuales o de funcionamiento en horario extraordinario.
+
+Las licencias de funcionamiento de giros distintos a los referidos en el artículo 79 de esta Ley y contemplados en esta sección, deberán obtenerse por los interesados dentro de los treinta días siguientes a la fecha de inicio de operaciones y tratándose de refrendo se pagarán los derechos correspondientes durante los meses de enero y febrero del ejercicio que se trate.
+
+Pasados los treinta días siguientes a la fecha de inicio de operaciones, los interesados podrán extender hasta por dos meses más su permiso provisional, una vez pagados los respectivos derechos. Al término de este plazo, el interesado está obligado, en caso de continuar operaciones, a solicitar la expedición de la licencia que corresponda a su giro y pagar los derechos contemplados en el siguiente artículo.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+Artículo 81 quater.- Los derechos consignados en la presente sección se pagarán por anualidad, previo a la expedición de la licencia, autorización o permiso correspondiente, de conformidad con lo siguiente:
+
+a) Establecimientos comerciales sin venta de bebidas alcohólicas.
+
+1.- En el caso de giros que utilicen invernaderos estos causarán de acuerdo al número de naves agrícolas, por cada una 2.50
+
+2. Por el refrendo anual de la licencia de funcionamiento el cobro será del 50 por ciento del valor de expedición de la misma.
+
+b) Establecimientos industriales.
+
+1. Por la expedición de licencias de funcionamiento, por ejercicio fiscal, por cada una:
+
+a.- Minería 2,000.00
+
+b.- Industrias Manufactureras dedicadas a la elaboración de azúcar 2,000.00
+
+c. Industria de las bebidas alcohólicas y del tabaco 2,000.00
+
+2. Por el refrendo anual de la licencia de funcionamiento el cobro será del 50 por ciento del valor de expedición de la misma.
+
+3. Los giros distintos a los especificados en el numeral 4 del presente inciso causarán de 5.00 a 2000.00.
+
+c) Establecimientos de prestación de servicios sin venta de bebidas alcohólicas.
+
+1. En el caso de asociaciones y organizaciones, específicamente las relacionadas con servicios de transporte alternativo causarán y pagarán por cada unidad 60.00.
+
+2. Por el refrendo anual de la licencia de funcionamiento el cobro será del 50 por ciento del valor de expedición de la misma
 
 #### SECCION SEGUNDA. DE LOS REGISTROS, CERTIFICACIONES Y LEGALIZACIONES
 
@@ -2543,11 +2853,13 @@ f) De plano general a diferentes escalas:
 
 2.- Por cada impresión hasta de 1.10 x 0.84 mts 8.00
 
-> <small>(F. DE E., P.O. 22 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
-3.- Por cada copia adicional al plano general 5.00
+3.- Por cada capa (sic) adicional al plano general 5.00
 
-g) De planos de predios urbanos con medidas, superficie y nombre de calles:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2019)</small>
+
+g).- Por cada impresión sin certificar de planos de predios urbanos con medidas, superficie y nombre de calles tamaño carta u oficio:
 
 1.- Sin nombres de colindantes 3.60
 
@@ -2573,6 +2885,16 @@ l) Aviso de transmisión patrimonial 2.50
 
 m) De avalúos catastrales 3.00
 
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 1 DE JUNIO DE 2019)</small>
+
+n).- Por cada impresión sin certificar de planos en tamaño carta u oficio que incluya:
+
+1.- Manzanas, predios y nombres de calles 5.00
+
+2.- Predios rústicos, vías de comunicación, hidrografía 5.00
+
+3.- Por cada nombre de colindante o propietario 1.00
+
 II. Certificaciones:
 
 a) Certificaciones de documentos catastrales 1.80
@@ -2587,7 +2909,21 @@ los registros catastrales 1.80
 
 d) Constancia de pago del impuesto predial 1.00
 
-III. Avalúos, asignación de claves y mediciones:
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 1 DE JUNIO DE 2019)</small>
+
+e).- Informes catastrales relacionados con los predios registrados, a solicitud de los interesados:
+
+1.- Certificado 1. 8
+
+2.- Sin certificar 1.0
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+f) Por proporcionar información para que se rectifique la información catastral al presentar los avisos para la modificación de los registros catastrales 1.8
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2019)</small>
+
+III. Avalúos, asignación de claves y mediciones.
 
 a) Por asignación de claves catastrales urbanas en nuevos fraccionamientos o relotificación se cubrirá el siguiente derecho:
 
@@ -2651,6 +2987,34 @@ Hasta 10-00-00 hectáreas 8.50
 
 Más de 10-00-00 hectáreas 10.00
 
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 1 DE JUNIO DE 2019)</small>
+
+e) Por avaluó o rectificación de avalúos de predio urbano a solicitud del interesado:
+
+1.- Hasta un valor catastral equivalente a 3,814 unidades de medida y actualización 2.0
+
+2.- Cuando el valor catastral esté entre 3,815 y 4,964 unidades de medida y actualización 2.5
+
+3.- Cuando el valor catastral este entre 4,965 y 6,616 unidades de medida y actualización 3.5
+
+4.- Más de un valor catastral equivalente a 6,616 unidades de medida y actualización, se pagará el 0.1% sobre el nuevo valor catastral asignado.
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 1 DE JUNIO DE 2019)</small>
+
+f).- Por avaluó o rectificación de avaluó de predio rustico que se practique sobre plano levantado y firmado por el perito responsable incluyendo clasificación de suelo, a solicitud del interesado:
+
+1.- Hasta un valor catastral equivalente a 3,814 unidades de medida y actualización 2.0
+
+2.- Cuando el valor catastral esté entre 3,815 y 4,964 unidades de medida y actualización 2.5
+
+3.- Cuando el valor catastral este entre 4,965 y 6,116 unidades de medida y actualización 3.5
+
+4.- Más de un valor catastral equivalente a 6,616 unidades de medida y actualización, se pagará el 0.1% sobre el nuevo valor catastral asignado.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+g).- Los avalúos referidos a años anteriores, se cobrarán con el valor base actual del inmueble conforme a los incisos e) y f).
+
 IV. Fusiones, subdivisiones, cesiones y registros:
 
 a) Por la fusión o subdivisión de predios, cuando el valor catastral de los predios fusionados o subdivididos sea de:
@@ -2692,6 +3056,10 @@ UMA 2.70
 e) Por la búsqueda y expedición de información
 
 catastral de predios urbanos 1.80
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+f) Por la expedición urgente de información, documentos catastrales, avalúos y trabajos en campo 3. 0
 
 V. Por modificar registros manifestados
 
@@ -2801,6 +3169,10 @@ de fuste principal 5.00
 
 de fuste principal 10.00
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+b) Por la autorización para poda o derribo de cada árbol en propiedad particular de 5 a 15
+
 V. Por la expedición de la cédula de calibración de equipo de perifoneo:
 
 a) Por la emisión de 1 a 2 mensajes 1.00
@@ -2813,73 +3185,99 @@ certificaciones y dictámenes no previstos
 
 en este artículo de 1.00 a 100.00
 
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2019)</small>
+
+VII. Por la limpieza de lotes en propiedad
+
+particular de 5 a 20
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2019)</small>
+
+VIII. Por realizar servicios especiales
+
+de limpieza, recolección y transporte
+
+de residuos en lotes no edificados o
+
+edificaciones ruinosas o inhabitables,
+
+en rebeldía de los obligados a
+
+mantenerlos limpios, por metro cuadrado,
+
+cada vez 0.06
+
+Incurrirá en rebeldía el titular del predio que no lleve a cabo la limpieza y traslado dentro de los diez días hábiles siguientes de la notificación.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 D).- PROTECCION CIVIL
 
-(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008)
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
 ###### ARTICULO 85.
 
-Los derechos por los servicios que presten la unidad de protección civil se causarán y pagarán conforme a la siguiente tarifa:
+Los productos por servicios que preste y/o documentos que expida la unidad municipal de protección civil se causarán y pagarán conforme a la siguiente tarifa:
 
-II (SIC). Por el registro:
+a) Por la realización de visitas de inspección, por kilómetro recorrido al sitio de inspección 0.08
 
-a). Por el registro de siniestralidad en establecimientos comerciales, industriales y de servicios, con clasificación de riesgo:
+b) Por la emisión del dictamen de seguridad:
 
-1.- Alta
+1.- Establecimientos comerciales industriales y de servicios de bajo impacto 5.00
 
-A) Nivel 1 8.00
+2.- Establecimientos comerciales, industriales y de servicios de medio impacto 10.00
 
-B) Nivel 2 10.00
+3.- Establecimientos comerciales, industriales y de servicios de alto impacto 15.00
 
-C) Nivel 3 15.00
+c) Por la impartición de cursos de capacitación, por participante 2.00
 
-2.- Media
+d) Por el servicio de custodia de vehículos que trasladen materiales explosivos, tóxicos o inflamables en las vialidades o carreteras dentro del territorio del Municipio, por kilómetro por kilogramo 0.20
 
-A) Nivel 1 3.50
+e) Por el acompañamiento de la unidad municipal de protección civil, por evento privado y/o con fines lucrativos, por cada uno 15.00
 
-B) Nivel 2 5.00
-
-C) Nivel 3 7.00
-
-3.- Baja
-
-A) Nivel 1 0.50
-
-B) Nivel 2 2.00
-
-C) Nivel 3 3.00
-
-Para fijar las tarifas se deberán considerar las condiciones económicas del negocio, número de empleados y su nivel de inversión.
-
-En caso de ser necesario, la unidad de protección civil municipal emitirá opinión.
-
-El pago de los derechos a que se refiere esta fracción será anual. Deberá cubrirse a la expedición de la licencia municipal de funcionamiento y en el refrendo de la misma.
+La cuota considerada en el inciso a) del presente artículo puede disminuir considerando las condiciones económicas del negocio, número de empleados y su nivel de inversión.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 E).- OTROS
 
-((ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 85], P.O. 29 DE DICIEMBRE DE 2007) (F. DE E., P.O. 19 DE ENERO DE 2008)
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚM. 83 PUBLICADO EN EL SUPLEMENTO NÚM. 2 DEL P.O. DE FECHA 1 DE JUNIO DE 2019, SE ADVIERTE QUE EL ARTÍCULO 86 BIS FUE CORREGIDO EN SU NÚMERO MEDIANTE FE DE ERRATAS PUBLICADA EN EL P.O. DE FECHA 19 DE ENERO DE 2008, SE SUGIERE CONSULTAR SU CRONOLOGÍA.]</small>
+
+> <small>(F. DE E., P.O. 19 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 85 Bis.
 
 Por la expedición de los siguientes documentos:
 
-V (SIC). Copias certificadas 1.00
+> <small>(REFORMADA [N. DE E. EN SU NUMERACIÓN], P.O. 1 DE JUNIO DE 2019)</small>
 
-VI. Certificaciones de residencia 1.20
+I. Copias certificadas 1.00
 
-VII. Solvencias fiscales 1.10
+> <small>(REFORMADA [N. DE E. EN SU NUMERACIÓN], P.O. 1 DE JUNIO DE 2019)</small>
 
-VIII. Constancias 1.00
+II. Certificaciones de residencia 1.20
+
+> <small>(REFORMADA [N. DE E. EN SU NUMERACIÓN], P.O. 1 DE JUNIO DE 2019)</small>
+
+III. Solvencias fiscales 1.10
+
+> <small>(REFORMADA [N. DE E. EN SU NUMERACIÓN], P.O. 1 DE JUNIO DE 2019)</small>
+
+IV. Constancias 1.00
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2019)</small>
+
+V. Entrega de información impresa relativa a solicitudes de transparencia, por cada hoja 0.01
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2019)</small>
+
+VI. Entrega de información en disco compacto relativo a solicitudes de transparencia, por cada uno 0.10
 
 ### CAPITULO III. OTROS DERECHOS
 
 #### SECCION PRIMERA. SERVICIOS MEDICOS
 
-> <small>(F. DE E. 19 DE ENERO DE 2008)</small>
+> <small>(F. DE E., 19 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 86.
 
@@ -2903,37 +3301,57 @@ Los derechos por el uso de la vía pública y estacionamiento se causarán y pag
 
 Número UMA
 
-I. Estacionamiento de automóviles de sitio, anualmente, por cajón 3.00 a 10.00
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2019)</small>
 
-II. Camiones y camionetas de alquiler, que hagan sitio, anualmente, por cajón 3.00 a 10.00
+I. Estacionamiento de automóviles de sitio, anualmente, por cajón. 5.00
 
-III. Camiones urbanos y minibuses para transporte urbano, anualmente, por cajón 3.00 a 15.00
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2019)</small>
 
-IV. Por el uso de la vía pública de puestos fijos, semifijos o ambulantes que se instalen en la misma, incluyendo tianguis, diariamente por metro lineal de frente:
+II. Estacionamiento de vehículos de transporte alternativo, anualmente, por cajón 4.00
 
-a) Venta de productos de canasta básica 0.11
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2019)</small>
 
-b) Venta de productos no básicos 0.13
+III. Camiones y camionetas de alquiler, que hagan sitio, anualmente, por cajón 7.00
 
-c) Venta de productos suntuarios 0.15
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+IV. Camiones urbanos y minibuses para transporte urbano, anualmente, por cajón 10.00
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2019)</small>
+
+V. Por el uso de la vía pública de puestos fijos, semifijos o ambulantes que se instalen en la misma, incluyendo tianguis, diariamente por metro lineal de frente:
+
+a).- Venta de productos de canasta básica 0.11
+
+b).- Venta de productos no básicos 0.13
+
+c).- Venta de productos suntuarios 0.15
 
 Por los conceptos a que se refiere esta fracción, las personas mayores de 60 años y los tianguistas, pagarán el 50 por ciento de la tarifa aplicable.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
+VI. Las personas físicas o morales que instalen o tengan instalados aparatos de telefonía en las vías y áreas públicas urbanas del municipio pagarán mensualmente por caseta 5.00
 
-V. Las personas físicas o morales que instalen o tengan instalados aparatos de telefonía en las vías y áreas públicas urbanas del municipio pagarán mensualmente por caseta 5.00
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2019)</small>
 
-VI. Por el uso y estacionamiento particular o comercial en la vía pública, por metro lineal, mensualmente 1.50
+VII. Por el uso y estacionamiento particular en la vía pública, por cada tres metros lineales, mensualmente 3.50
 
-VII.- Por el uso de la vía pública para negocios establecidos, por metro lineal, mensualmente 1.00 a 2.00
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2019)</small>
 
-VIII.- Por el uso de la vía pública (materiales para construcción, escombro cascajo, grava arena y piedra) por metro lineal, diariamente 0.50 a 2.50
+VIII. Por el uso y estacionamiento particular de personas con discapacidad y de la 3ra edad en la vía pública, por cada tres metros lineales, mensualmente 1.75
 
-IX.- Otros no especificados en ésta sección 2.30
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2019)</small>
+
+IX. Por el uso de la vía pública para negocios establecidos, por cada 3 metros lineales, mensualmente 5.00
+
+> <small>(ADICIONADA [N. DE E. REUBICADA Y REFORMADA], P.O. 1 DE JUNIO DE 2019)</small>
+
+X. Por el uso de la vía pública (materiales para construcción, escombro cascajo, grava, arena y piedra por metro lineal, diariamente 1.50
+
+> <small>(ADICIONADA [N. DE E. REUBICADA Y REFORMADA], P.O. 1 DE JUNIO DE 2019)</small>
+
+XI. Otros no especificados en ésta sección 3.00
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -3323,7 +3741,9 @@ Los productos por los cementerios públicos se causarán y pagarán de conformid
 
 Número de UMA
 
-I.- En cementerios de la cabecera municipal.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2019)</small>
+
+I.- En cementerios de la cabecera municipal y Quesería.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -3337,9 +3757,9 @@ en el cementerio, por gaveta 52.5
 
 II.- En cementerios fuera de la cabecera municipal.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
 
-1.- Venta de lotes en propiedad, por metro cuadrado 4.15
+1.- Venta de lotes en propiedad, por metro cuadrado 2.60
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -3802,3 +4222,9 @@ P.O. 20 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 56 POR EL QUE SE REFORMA EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE ARMERÍA, COLIMA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MINATITLÁN, TECOMÁN Y VILLA DE ÁLVAREZ, ASÍ COMO EL ARTÍCULO NOVENO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO Y EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima" y estará vigente hasta el 31 de marzo de 2019.
+
+P.O. 1 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 83 POR EL QUE SE REFORMAN LOS ARTÍCULOS 3º FRACCIÓN I, 7 SEGUNDO PÁRRAFO, 9 FRACCIÓN I Y SEGUNDO PÁRRAFO, 20, 21 FRACCIÓN XV Y XVI, 25 SEGUNDO PÁRRAFO, 33 SEGUNDO PÁRRAFO 81, PUNTO 3 INCISO F), INCISO G), TODOS DE LA FRACCIÓN I DEL ARTÍCULO 83, 85, 87 FRACCIONES I A IX, 109 FRACCIONES I Y II; SE ADICIONA UN TERCER PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 10, FRACCIÓN XVII AL ARTÍCULO 21, FRACCIÓN IV ARTÍCULO 32, 81 BIS, 81 TER, 81 QUÁTER, FRACCIONES VII A IX AL ARTÍCULO 84, INCISO N) DE LA FRACCIÓN I, INCISO E) Y F) DE LA FRACCIÓN II, INCISOS E), F) Y G) DE LA FRACCIÓN III, INCISO F) A LA FRACCIÓN IV TODOS DEL ARTÍCULO 83, INCISO B) A LA FRACCIÓN IV, FRACCIONES VII Y VIII TODOS DEL ARTÍCULO 84, FRACCIONES V Y VI AL ARTÍCULO 86 BIS, FRACCIONES X Y XI AL ARTÍCULO 87; Y SE DEROGA EL ARTÍCULO 41, NUMERALES 8 Y 9 DE LA FRACCIÓN I DEL ARTÍCULO 46, TODOS DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTÉMOC, COLIMA."]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
