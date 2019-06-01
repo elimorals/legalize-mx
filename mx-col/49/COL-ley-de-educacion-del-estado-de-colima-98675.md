@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-98675"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-08"
-last_updated: "2018-10-20"
+last_updated: "2019-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2019.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de febrero de 2014.
 
@@ -240,6 +240,10 @@ La autoridad estatal implementará políticas públicas orientadas a la transver
 ###### ARTÍCULO 13.
 
 Además de impartir la educación básica y media superior, la autoridad educativa estatal promoverá y atenderá directamente, a través de apoyos financieros o bien por cualquier otro medio, todos los tipos y modalidades educativos, incluida la educación inicial, especial y superior, necesarios para el desarrollo del Estado, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y la difusión de la cultura.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+ARTÍCULO 13 BIS.- La autoridad educativa local, dentro del ámbito de sus competencias, promoverá la adecuada orientación del aprendizaje de habilidades y competencias en la educación media superior, para generar egresados con conocimientos enfocados a las demandas del mercado laboral de una sociedad moderna y globalizada, atendiendo los retos de la disparidad entre las capacidades que demanda el mercado laboral y las enseñanzas que recibe el alumnado.
 
 ###### ARTÍCULO 14.
 
@@ -2028,3 +2032,11 @@ P.O. 20 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 604 POR EL QUE SE REFORMAN LOS ARTÍCULOS 22 Y 114; LA FRACCIÓN IV, DEL ARTÍCULO 152, Y SE ADICIONAN UN PÁRRAFO TERCERO (SIC) ARTÍCULO 29; UN PÁRRAFO CUARTO AL 112; LOS ARTÍCULOS 152 BIS Y 152 TER DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA; REFORMAN LAS FRACCIONES XXIV Y XXV, Y SE ADICIONAN LAS FRACCIONES XXVI Y XXVII DEL ARTÍCULO 18 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 74 POR El QUE SE APRUEBA ADICIONAR El ARTÍCULO 13 BIS, A LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA.”]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado deberá adecuar, en su caso, las disposiciones reglamentarias respectivas de conformidad con lo que en este instrumento se dispone.
