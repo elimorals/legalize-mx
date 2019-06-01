@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-seguridad-escolar-del-estado-y-96420"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2018-07-12"
+last_updated: "2019-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el sábado 12 de octubre de 2013.
 
@@ -517,7 +517,9 @@ XI. El Presidente de la Comisión Estatal de Derechos Humanos, o la persona inte
 
 El Presidente del Consejo Estatal podrá invitar a los servidores públicos, representantes de los Comités de Prevención y Seguridad Escolar, especialistas en la materia y miembros de la sociedad civil, que de conformidad con los temas a tratar resulte necesario.
 
-El Consejo tendrá anualmente cuando menos dos sesiones ordinarias; la primera, deberá celebrarse al inicio del periodo escolar, con el objeto de aplicar un diagnóstico de la situación que prevalezca al interior y exterior de los centros escolares, y generar el programa de Prevención y Seguridad Integral Escolar; y la segunda, al concluir el ciclo escolar del año, a fin de evaluar los resultados del programa aplicado en el ciclo que concluyó. Asimismo, podrá celebrar sesiones extraordinarias cuantas veces sea necesario, previa convocatoria del secretario técnico.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+El Consejo tendrá anualmente cuando menos cuatro sesiones ordinarias; la primera deberá celebrarse al inicio del periodo escolar, con el objeto de aplicar un diagnóstico de la situación que prevalezca al interior y exterior de los centros escolares, y generar el programa de Prevención y Seguridad Integral Escolar; y las subsecuentes, durante el transcurso del ciclo escolar, para dar seguimiento al programa aplicado durante el mismo; debiendo celebrar la cuarta sesión al concluir el ciclo escolar del año, a fin de evaluar los resultados del programa aplicado en el ciclo que concluyó. Asimismo, podrá celebrar sesiones extraordinarias cuantas veces sea necesario, previa convocatoria del secretario técnico.
 
 ###### Artículo 23.
 
@@ -545,9 +547,9 @@ X. Coordinar la integración y funcionamiento de los comités de prevención y s
 
 XI. Respaldar las labores de los comités de prevención y seguridad escolar;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2019)</small>
 
-XII. Realizar un Plan de Intervención dentro del cual podrán insertarse observaciones para el traslado de alumnas y alumnos a otro centro escolar, a través de las áreas que se considere pertinentes dependientes de la Secretaría, considerando en todo momento el respeto a la integridad de los involucrados, así como del debido proceso, y
+XII. Realizar un Plan de Intervención que establezca metas y objetivos específicos, cuyos resultados serán evaluados de forma permanente por el Consejo, y
 
 XIII. Las demás atribuciones que conforme a esta Ley y otras disposiciones aplicables le correspondan.
 
@@ -912,5 +914,13 @@ P.O. 12 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1010.- SE REFORMAN DIVERSOS LOS (SIC) ARTÍCULOS DE LA LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0171.- SE REFORMAN LOS ARTÍCULOS 22 EN SU PÁRRAFO SEGUNDO Y 23 EN SU FRACCIÓN XII, DE LA LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
