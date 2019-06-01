@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-comision-de-derechos-humanos-del-estado-3951
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-05-30"
-last_updated: "2017-07-01"
+last_updated: "2019-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 30 de mayo de 1992.
 
@@ -609,6 +609,16 @@ La Comisión contará con patrimonio propio. El Gobierno Estatal deberá proporc
 
 La Comisión tendrá la facultad de elaborar su proyecto de presupuesto anual de egresos, el cual remitirá directamente al Congreso del Estado para su aprobación, ante quien deberá rendir los informes financieros necesarios.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE JUNIO DE 2019)</small>
+
+### CAPÍTULO XV. DE LAS COMISIONES DE DERECHOS HUMANOS DE LOS CABILDOS MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2019)</small>
+
+###### ARTICULO 62.
+
+Las Comisiones de Derechos Humanos de los Cabildos Municipales, podrán gestionar a la Comisión, acuda personal facultado a las sedes municipales para la recepción de quejas y denuncias por presuntas violaciones a los derechos humanos, cuando éstas fueren imputadas a cualquier autoridad o servidor público cuya competencia se circunscriba en el municipio correspondiente. Lo anterior, siempre y cuando los ciudadanos interesados se encuentren en estado de vulnerabilidad o no cuenten con los recursos necesarios para trasladarse a la Capital del Estado.
+
 T R A N S I T O R I O S
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
@@ -670,3 +680,13 @@ P.O. 1 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 315 POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 3º DE LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 75 POR EL QUE SE APRUEBA ADICIONAR EL CAPÍTULO XV, DENOMINADO "DE LAS COMISIONES DE DERECHOS HUMANOS DE LOS CABILDOS MUNICIPALES", MISMO QUE SE CONFORMA POR EL ARTÍCULO 62, A LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COLIMA; ASÍ COMO ADICIONAR UN PÁRRAFO CUARTO AL ARTÍCULO 42 DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El cumplimiento de lo previsto en el presente Decreto que requiera de presupuesto para su instrumentación y desarrollo, se sujetará a la disponibilidad presupuestaria de la Comisión de Derechos Humanos del Estado.
+
+TERCERO.- La Comisión de Derechos Humanos del Estado deberá prever en su Proyecto de Presupuesto de Egresos del Ejercicio Fiscal 2020 y venideros, la partida respectiva para el cumplimiento de lo previsto en el presente Decreto, en tanto que el H. Congreso del Estado deberá revisar, analizar y, en su caso, aprobar lo necesario para tal fin.
