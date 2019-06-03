@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2018-09-13"
+last_updated: "2019-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -141,13 +141,9 @@ XIX.- Prevención de la violencia familiar e intrafamiliar; y
 
 XX.- La prevención del consumo de narcóticos, atención a las adicciones y aplicación de las medidas de seguridad de los delitos contra la salud, en los términos del artículo 478 de la Ley General de Salud, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-XXI.- La reconstrucción mamaria como consecuencia de una mastectomía por tratamiento de cáncer de seno, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XXI.- Promover la prevención, diagnóstico, atención, tratamiento, rehabilitación, control, vigilancia epidemiológica del cáncer de mama y la reconstrucción mamaria como consecuencia de una mastectomía por tratamiento de cáncer de seno, y
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
@@ -285,11 +281,15 @@ XVII. Promover e impulsar que las instituciones del Sistema Estatal de Salud imp
 
 XVIII. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del sistema estatal de salud, y las que determinen las disposiciones generales aplicables.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2019)</small>
 
 ###### ARTICULO 8o.
 
-Los Servicios de Salud de Nayarit, promoverán la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como sus trabajadores y de los usuarios de los mismos, en términos de las disposiciones que al efecto se expidan.
+Los Servicios de Salud de Nayarit, promoverán la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+Así como la participación de sus trabajadores en el proceso escalafonario, de Conformidad con el Reglamento de Escalafón de las Condiciones Generales de Trabajo de la Secretaría de Salud y demás normas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
@@ -493,15 +493,9 @@ I.- La educación para la salud, la promoción del saneamiento básico y el mejo
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-III.- La atención médica integral, que comprende las acciones de carácter preventivo, curativo, paliativo, de urgencias, y de rehabilitación, incluyendo la reconstrucción mamaria, previo dictamen médico emitido por los Servicios de Salud de Nayarit, como parte de rehabilitación a quien se le haya realizado una mastectomía como tratamiento de cáncer de seno;
-
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
-
-Para efectos del párrafo anterior, la atención médica integrada de carácter preventivo consiste en realizar todas las acciones de prevención y promoción para la protección de la salud, de acuerdo con la edad, sexo y los determinantes físicos y psíquicos de las personas, realizadas preferentemente en una sola consulta.
+III.- La atención médica integral, que comprende las acciones de carácter preventivo, curativo, paliativo, psicológico, de urgencias, y de rehabilitación, incluyendo la reconstrucción mamaria, previo dictamen médico emitido por los Servicios de Salud de Nayarit, como parte de rehabilitación a quien se le haya realizado una mastectomía como tratamiento de cáncer de seno;
 
 IV.- La atención materno-infantil;
 
@@ -699,7 +693,9 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+I.- La atención humanizada a las mujeres, sin violencia ni discriminación y con perspectiva de derechos humanos durante el embarazo, el parto y el puerperio;
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2012)</small>
 
@@ -721,6 +717,10 @@ V.- La detección, atención y tratamiento de los problemas auditivos y enfermed
 
 VI.- La prevención de la transmisión materno infantil del VIH - Sida y la sífilis congénita mediante el ofrecimiento de pruebas de detección, confidenciales y gratuitas a las mujeres embarazadas, así como proporcionar la atención médica que se requiera.
 
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+VII.- Los procedimientos de aplicación obligatoria con el fin de que toda mujer embarazada este en compañía en todo momento, por una persona de su confianza o elección en el transcurso del trabajo de parto, parto o cesárea y puerperio.
+
 ###### ARTICULO 57.
 
 En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
@@ -735,9 +735,9 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-II.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
+II.- Acciones de orientación, vigilancia institucional, capacitación, fomento para la lactancia materna y amamantamiento, sin discriminar a las mujeres que lo realicen en vías y espacios públicos, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complemento hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2014)</small>
 
@@ -1353,9 +1353,11 @@ IV.- Prevenir a las personas, sobre todo a los jefes de familia, hombres o mujer
 
 V.- Que los usuarios reciban información, suficiente, clara, oportuna y veraz respecto a la rehabilitación del padecimiento que enfrentan, fomentando la inserción biopsicosocial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2019)</small>
+
 ###### ARTICULO 95.
 
-Las autoridades sanitarias estatales en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total en la población.
+Las autoridades sanitarias estatales en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales deberán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total en la población.
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
@@ -1621,11 +1623,11 @@ IV.- La realización de estudios epidemiológicos, y
 
 V.- Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
 
-ARTÍCULO 122 bis.- La Secretaría de Salud implementará programas de educación, prevención, información, socialización y detección de cáncer de mama y cérvicouterino de manera permanente en los hospitales y clínicas del sector salud, de tal forma que garantice a las mujeres la realización de exámenes de detección de cáncer de mama y cérvicouterino, de manera gratuita, por lo menos una vez al año.
+ARTICULO 122 bis.- La Secretaría de Salud implementará programas de educación, prevención, información, socialización y detección de cáncer de mama y cervicouterino de manera permanente en los hospitales y clínicas del sector salud, de tal forma que garantice la realización de exámenes de detección de cáncer de mama y cervicouterino, de manera gratuita, por lo menos una vez al año.
 
-En las localidades donde no exista clínica del sector público, la Secretaría de Salud del Estado podrá celebrar convenios de colaboración con los Ayuntamientos, clínicas particulares o patrocinadoras del sector privado, para que se realice el servicio gratuito de exámenes para la detección de cáncer de mama y cérvicouterino.
+En las localidades donde no exista clínica del sector público, la Secretaría de Salud del Estado deberá celebrar convenios de colaboración con los Ayuntamientos, clínicas particulares o patrocinadoras del sector privado, para que se realice el servicio gratuito de exámenes para la detección de cáncer de mama y cervicouterino.
 
 ###### ARTICULO 123.
 
@@ -3208,3 +3210,11 @@ P.O. 13 DE SEPTIEMBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Los Ayuntamientos al elaborar sus proyectos de Leyes de Ingreso (sic) establecerán facilidades administrativas y estímulos fiscales para el pago de las multas a las que hace referencia el presente Decreto.
+
+P.O. 3 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE NAYARIT”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Órgano del Gobierno del Estado.
+
+SEGUNDO.- Los Servicios de Salud de Nayarit contarán con un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente decreto, a fin de que realicen las adecuaciones reglamentarias, administrativas y demás que resulten necesarias para la plena eficacia de los artículos 56 y 59 del presente Decreto.
