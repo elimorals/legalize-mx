@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-ascensos-y-recompensas-del-ejercito-401
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-19"
-last_updated: "2011-08-19"
+last_updated: "2019-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40114&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2004-07-13"
 ---
 # REGLAMENTO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO, FUERZA AEREA Y GUARDIA NACIONAL -- ANTES REGLAMENTO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA MEXICANOS --
 
-REGLAMENTO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA MEXICANOS
+REGLAMENTO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JUNIO DE 2019.
 
-Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el lunes 19 de julio de 2004.
+Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de julio de 2004.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -375,41 +375,19 @@ Previo al inicio de las pruebas de capacidad física, se practicará un examen m
 
 La capacidad física se acreditará mediante la aprobación de las pruebas siguientes:
 
-I. Para el personal de Mayores y Oficiales de las armas, pilotos aviadores, servicios técnicos y el que determine la Secretaría, natación y caminata:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE JUNIO DE 2019)</small>
 
-A. Natación:
+I. Para el personal de Mayores y Oficiales de las armas, pilotos aviadores, servicios técnicos y el que determine la Secretaría:
 
-a. Para el personal masculino, 100 metros en un tiempo máximo de 3 minutos y 30 segundos;
-
-b. Para el personal femenino, 50 metros en un tiempo máximo de 2 minutos y 30 segundos;
-
-c. Únicamente el recorrido completo tendrá la calificación de "APTO", desarrollándose la prueba como se indica en los apartados siguientes;
-
-d. Los participantes que no terminen en el tiempo asignado su recorrido, serán calificados como "NO APTOS";
-
-e. Todos los participantes dispondrán de una sola oportunidad para presentar esta prueba;
-
-f. Los participantes se introducirán en la alberca a indicación del juez principal e iniciarán su recorrido desde la pared de la misma;
-
-g. Dentro del agua el desplazamiento deberá ser continuo;
-
-h. Está prohibido apoyarse en alguno de los carriles flotantes o en el fondo de la alberca, para impulsarse, descansar o recuperarse de algún otro incidente. En tal caso, el punto de detención se considerará como distancia recorrida y el participante será calificado como "NO APTO", registrándose la distancia nadada para efectos estadísticos y legales;
-
-i. El uso de goggles será opcional. Los incidentes provocados por el uso de este aditamento y que impidan continuar la prueba, no será causa que justifique su detención y el participante será calificado como "NO APTO".
-
-j. Para el desarrollo de la prueba se permitirá cualquier estilo de nado;
-
-k. Queda prohibido el empleo o uso de visor, aletas, trajes especiales u otros accesorios que faciliten el desplazamiento en el agua, así como el de relojes o cronómetros;
-
-l. El tiempo oficial de la prueba será llevado por un juez principal mediante cronómetros electrónicos colocados en los extremos de la alberca, conectados éstos a una alarma sonora que marcará el inicio y el término del tiempo de recorrido, y
-
-m. No se permitirá presentar esta prueba al personal que padezca alguna enfermedad de carácter contagioso, previa certificación médica.
+A. (DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 B. Caminata de 20 kilómetros:
 
 a. Se efectuará en un tiempo de 5 horas;
 
-b. Se realizará inmediatamente después de presentar la prueba de natación, y
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+
+b. Se aplicará al siguiente día en que se sustente el examen médico, y
 
 c. Para obtener la calificación de "APTO" deberá efectuarse el recorrido completo y dentro del tiempo establecido.
 
@@ -1549,39 +1527,17 @@ VI. No acreditarán buena salud los participantes que en el examen médico se en
 
 VII. El resultado del examen médico se calificará como "ACREDITA BUENA SALUD" o "NO ACREDITA BUENA SALUD", siendo determinante y definitivo acreditar buena salud para el ascenso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2019)</small>
+
 ###### ARTÍCULO 95.
 
-El área de capacidad física evaluará la suficiencia de los participantes mediante una prueba que comprenderá las fases de natación y caminata, de acuerdo a los siguientes lineamientos:
+El área de capacidad física evaluará la suficiencia de los participantes mediante la prueba de caminata, de acuerdo a los lineamientos siguientes:
 
-I. Será presentada por los Coroneles y Tenientes Coroneles de las Armas y de los Servicios del Ejército y Fuerza Aérea Mexicanos que acrediten buena salud en el examen médico, comprendiendo las fases de natación y caminata:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE JUNIO DE 2019)</small>
 
-A. Natación:
+I. Será presentada por los Coroneles y Tenientes Coroneles de las armas y de los servicios del Ejército y Fuerza Aérea Mexicanos que acrediten buena salud en el examen médico, conforme a lo siguiente:
 
-a. Parámetros:
-
-1. Distancia: 50 metros;
-
-2. Estilo: Nado libre;
-
-3. Tiempo: 2 Minutos (masculino);
-
-2 Minutos 30 segundos (femenino), y
-
-4. Valores: Apto o no apto.
-
-b. Lineamientos para el desarrollo de la prueba:
-
-1. Se aplicará el mismo día en que se sustente el examen médico;
-
-2. La aplicación y calificación de la prueba estará a cargo de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea;
-
-3. Antes del inicio de la prueba, la Dirección General de Sanidad practicará una revista médica al personal participante. No se permitirá sustentarla al participante cuya salud pueda estar en riesgo o cuando ello implique riesgo para los demás participantes. El participante excluido será calificado como "NO APTO";
-
-4. Para el control de esta prueba, se aplicará el artículo 36, fracción I, apartado A, en sus incisos d, e, f, g, h, i, j, k, l y m, de este Reglamento;
-
-5. El nado iniciará estando el participante dentro de la alberca y tocando la orilla de salida, a indicaciones de un juez calificador, y
-
-6. Al participante que se presente con retraso a su prueba, se le permitirá realizarla, siempre y cuando exista por lo menos un militar presentándola. En caso contrario, se le pondrá la anotación "NO SE PRESENTÓ", misma que equivaldrá a "NO APTO".
+A. (DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 B. Caminata:
 
@@ -1597,7 +1553,9 @@ a. Parámetros:
 
 b. Lineamientos para el desarrollo de la prueba:
 
-1. Se realizará al día siguiente en que se sustente la prueba de natación;
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+
+1. Se aplicará al siguiente día en que se sustente el examen médico;
 
 2. Se organizará a los participantes por grupos y se les entregará un escapulario para su control durante la marcha;
 
@@ -1823,7 +1781,7 @@ III. Para los efectos del párrafo anterior, el personal propuesto no deberá te
 
 > <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2009)</small>
 
-IV. El órgano técnico consultivo de cada Institución Educativa Militar elaborará un acta en la que se propondrá al personal que reúna las condiciones para el otorgamiento de esta Condecoración, con base en la calificación otorgada. Las actas respectivas se enviarán al Estado Mayor por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, y (sic)
+IV. El órgano técnico consultivo de cada Institución Educativa Militar elaborará un acta en la que se propondrá al personal que reúna las condiciones para el otorgamiento de esta Condecoración, con base en la calificación otorgada. Las actas respectivas se enviarán al Estado Mayor por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, y
 
 V. (DEROGADA, D.O.F. 8 DE JUNIO DE 2009)
 
@@ -2145,7 +2103,7 @@ TERCERO.- Las Condecoraciones otorgadas conforme a las leyes, decretos y disposi
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de julio de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Defensa Nacional, Gerardo Clemente Ricardo Vega García.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 D.O.F. 8 DE JUNIO DE 2009.
 
@@ -2166,3 +2124,13 @@ TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
 CUARTO.- La reforma de los artículos 78, fracción I, inciso C y 80, fracción V del Reglamento de la Escuela Médico Militar; 77, fracción III del Reglamento de la Escuela Militar de Odontología y 78, fracción III y la derogación del 42 BIS del Reglamento de la Escuela Militar de Ingenieros, no aplicará a los discentes que en la fecha de entrada en vigor del presente Decreto, ya hayan iniciado estudios de tipo superior de nivel licenciatura en dichas Instituciones Educativas Militares.
 
 QUINTO.- Los discentes que se encuentren en el supuesto que antecede, una vez que culminen satisfactoriamente sus estudios y aprueben el examen profesional correspondiente, obtendrán la jerarquía que se preveía antes de la entrada en vigor del presente Decreto.
+
+D.O.F. 3 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
+
+TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
