@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2019-05-29"
+last_updated: "2019-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE JULIO DE 2019 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -143,9 +141,11 @@ Las Secretarías del Despacho tendrán igual jerarquía y entre ellas no habrá,
 
 Cuando deba decidirse sobre la competencia de alguna de las dependencias, el Gobernador del Estado decidirá a cuál de ellas le corresponde atenderlo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2019)</small>
+
 ###### Artículo 13.
 
-Corresponde al Gobernador del Estado nombrar y remover libremente a los titulares de las dependencias y de las entidades; y previo acuerdo con él, los niveles siguientes de confianza podrán ser nombrados por dichos titulares.
+Corresponde al Gobernador del Estado nombrar y remover libremente a los titulares de las dependencias y de las entidades; y previo acuerdo con él, los niveles siguientes de confianza podrán ser nombrados por dichos titulares, en ambos casos se garantizará el principio de paridad de género.
 
 Los titulares de las dependencias y entidades, antes de tomar posesión de su cargo, rendirán ante el Gobernador del Estado la protesta legal.
 
@@ -2577,11 +2577,11 @@ P.O. 17 DE DICIEMBRE DE 2011.
 
 PRIMERO: El presente Decreto entrará en vigor el primero de enero de 2012.
 
-SEGUNDO: Dentro de un plazo de noventa días contados a partir de la entrada en vigor del presente decreto, la Secretaria de Educación expedirá su respectivo reglamento.
+SEGUNDO: Dentro de un plazo de noventa días contados a partir de la entrada en vigor del presente decreto, la Secretaría de Educación expedirá su respectivo reglamento.
 
 TERCERO: A la entrada en vigor del presente Decreto, se realizará el traspaso de los recursos humanos, materiales, técnicos y financieros, de conformidad con el acuerdo de transferencia que al efecto disponga el Titular del Poder Ejecutivo.
 
-CUARTO: Los asuntos que con motivo de esta reforma deban pasar de la competencia de la Secretaría de Educación Básica y la Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica, a la Secretaria de Educación que se crea con este Decreto, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la nueva Secretaría.
+CUARTO: Los asuntos que con motivo de esta reforma deban pasar de la competencia de la Secretaría de Educación Básica y la Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica, a la Secretaría de Educación que se crea con este Decreto, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la nueva Secretaría.
 
 QUINTO: Cuando la ley haga referencia a alguna atribución conferida a la Secretaría de Educación Básica o a la Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica, se entenderá a favor de la Secretaría de Educación creada en el presente Decreto.
 
@@ -2603,7 +2603,7 @@ Artículo Tercero.- El titular del Poder Ejecutivo del Estado, deberá expedir e
 
 P.O. 24 DE OCTUBRE DE 2014.
 
-Primero.- El presente Decreto deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, y entrará en vigor a partir del día; 1° de enero del 2015.
+Primero.- El presente Decreto deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, y entrará en vigor a partir del día 1° de enero del 2015.
 
 Segundo.- Una vez publicado el presente Decreto y para los efectos conducentes, la Secretaría de Administración y Finanzas deberá contemplar las adecuaciones correspondientes en el anteproyecto del presupuesto de egresos para el ejercicio fiscal 2015.
 
@@ -2718,3 +2718,11 @@ DÉCIMO CUARTO. La Secretaría de Movilidad y Transporte, entrará en funciones 
 DÉCIMO QUINTO. Los derechos laborales adquiridos por los trabajadores de la Dirección General de Tránsito y Transporte del Gobierno del Estado de Nayarit, serán plenamente respetados con la expedición y ejecución de este Decreto.
 
 DÉCIMO SEXTO. El Titular del Poder Ejecutivo del Estado, por conducto de las instancias correspondientes, proveerá lo conducente para la operación de la Secretaría de Movilidad y Transporte.
+
+P.O. 3 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA EL ARTÍCULO 13 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 19 de septiembre de 2021.
