@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente-29297"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-10"
-last_updated: "2016-08-22"
+last_updated: "2019-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE LA PROCURADURIA ESTATAL DE PROTECCION AL AMBIENTE, DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de marzo de 2003.
 
@@ -105,8 +107,6 @@ La Procuraduría administrará su patrimonio conforme a las disposiciones legale
 
 ### CAPITULO I. De las Atribuciones
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 5°.
@@ -139,9 +139,45 @@ X. Informar, orientar y asesorar a la población respecto del cumplimiento y apl
 
 XI. Promover y procurar la conciliación de intereses entre particulares y en sus relaciones con las autoridades, en asuntos derivados de la aplicación de las leyes, reglamentos, normatividad, programas y otros ordenamientos aplicables en materia ambiental de jurisdicción estatal.
 
-XII. Celebrar toda clase de actos jurídicos que se requieran para el ejercicio de sus funciones, de conformidad con las disposiciones jurídicas y administrativas aplicables; y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XIII. Las demás que le confieran esta Ley y otros ordenamientos legales.
+XII. Celebrar toda clase de actos jurídicos que se requieran para el ejercicio de sus funciones, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2019)</small>
+
+XIII. Fomentar programas de autorregulación y auditoría ambiental y supervisar su ejecución, en términos de la Ley de Protección Ambiental para el Estado de Aguascalientes y lo dispuesto por el reglamento en la materia;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XIV. Convenir o concertar la realización de auditorías ambientales con personas físicas o morales, sean estas públicas o privadas;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XV. Promover la aplicación de incentivos e implementar un sistema de estímulos y reconocimientos para quienes participen en los programas de autorregulación y auditoría ambiental;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XVI. Promover el establecimiento de sistemas de certificación de procesos o productos para inducir patrones de consumo que sean compatibles o que preserven, mejoren, conserven o restauren el medio ambiente;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XVII. Establecer un sistema de aprobación y acreditamiento de peritos y auditores ambientales, en términos de lo dispuesto por la Ley de Protección Ambiental para el Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XVIII. Fomentar y concertar con cámaras de la industria, comercio, y otras actividades productivas; organizaciones de productores, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas, el desarrollo de los procesos productivos adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en la materia;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XIX. Fomentar y establecer de común acuerdo con los particulares o con asociaciones u organizaciones que los representen, el cumplimiento de normas voluntarias o especificaciones técnicas en materia ambiental que sean más estrictas que las normas oficiales mexicanas o que se refieran a aspectos no previstos por éstas;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XX. Establecer las medidas preventivas y correctivas que se deriven de las auditorías ambientales, y el diagnóstico del que estas se derivan, en términos de la Ley de Protección Ambiental para el Estado de Aguascalientes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2019)</small>
+
+XXI. Las demás que le confieran esta Ley y otros ordenamientos legales.
 
 ### CAPITULO II. De la Estructura de la Procuraduría
 
@@ -243,13 +279,9 @@ VIII. Definir, establecer y mantener los sistemas de información, evaluación y
 
 IX. Expedir copias certificadas de los documentos que obran en sus archivos sobre asuntos que competan a la Procuraduría, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
 X. Delegar las facultades en la Subprocuraduría, los Directores y los Jefes de Departamento, sin perjuicio de su ejercicio directo, mediante acuerdos que serán publicados en el Periódico Oficial del Estado de Aguascalientes;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
@@ -257,9 +289,45 @@ XI. Someter a la Junta de Gobierno el nombramiento, promoción y remoción del S
 
 XII. Presentar el proyecto de Reglamento Interior a la Junta de Gobierno para su aprobación;
 
-XIII. Presentar a la Junta de Gobierno el informe anual de sus actividades y del ejercicio de su presupuesto; y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XIV. Las demás que se le asignen en los ordenamientos legales aplicables.
+XIII. Presentar a la Junta de Gobierno el informe anual de sus actividades y del ejercicio de su presupuesto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2019)</small>
+
+XIV. Fomentar Programas de Autorregulación y Auditoría Ambiental y supervisar su ejecución, en términos de la Ley de Protección Ambiental para el Estado de Aguascalientes y lo dispuesto por el Reglamento en la materia;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XV. Convenir o concertar la realización de Auditorías Ambientales con personas físicas o morales, sean estas públicas o privadas;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XVI. Promover la aplicación de incentivos e implementar un sistema de estímulos y reconocimientos para quienes participen en los Programas de Autorregulación y Auditoría Ambiental;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XVII. Promover el establecimiento de sistemas de certificación de procesos o productos para inducir patrones de consumo que sean compatibles o que preserven, mejoren, conserven o restauren el medio ambiente;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XVIII. Establecer un sistema de aprobación y acreditamiento de peritos y auditores ambientales, en términos de lo dispuesto por la Ley de Protección Ambiental para el Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XIX. Fomentar y concertar con cámaras de la industria, comercio, y otras actividades productivas; organizaciones de productores, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas, el desarrollo de los procesos productivos adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en la materia;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XX. Fomentar y establecer de común acuerdo con los particulares o con asociaciones u organizaciones que los representen, el cumplimiento de normas voluntarias o especificaciones técnicas en materia ambiental que sean más estrictas que las normas oficiales mexicanas o que se refieran a aspectos no previstos por éstas;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XXI. Establecer las medidas preventivas y correctivas que se deriven de las auditorías ambientales, y el diagnóstico del que estas se derivan, en términos de la Ley de Protección Ambiental para el Estado de Aguascalientes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2019)</small>
+
+XXII. Las demás que se le asignen en los ordenamientos legales aplicables.
 
 ###### Artículo 11.
 
@@ -654,3 +722,11 @@ El presente Decreto iniciará su vigencia el 1º de enero de 2017.
 ###### ARTÍCULO SEGUNDO.
 
 Las modificaciones al Reglamento de la Ley de la Procuraduría Estatal de Protección al Ambiente, deberán ser expedidas en un término no mayor a noventa días contados a partir de inicio de vigencia del presente Decreto.
+
+P.O. 3 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 164.- SE REFORMAN LOS ARTÍCULOS 3º; 45; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 46; SE ADICIONAN LAS FRACCIONES LIX A LXIII AL ARTÍCULO 3º, ASÍ COMO UNOS ARTÍCULOS 47 A Y 47 B A LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
