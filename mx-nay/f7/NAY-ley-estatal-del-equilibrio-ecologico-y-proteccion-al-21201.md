@@ -4,7 +4,7 @@ identifier: "NAY-ley-estatal-del-equilibrio-ecologico-y-proteccion-al-21201"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-25"
-last_updated: "2016-11-08"
+last_updated: "2019-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE JUNIO DE 2019 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 25 de abril del 2001.
 
@@ -67,9 +69,17 @@ VII.- Establecer mecanismos para la restauración de los recursos naturales de f
 
 VIII.- Establecer el derecho de toda persona, física o moral, en forma individual o colectiva, para exigir el cumplimiento de las disposiciones de esta Ley y de aquellas que de ella deriven;
 
-IX.- Asegurar la efectiva participación social de conformidad con lo dispuesto en este ordenamiento, para lo cual se regulará el acceso y uso de la información ambiental; y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-X.- Establecer los mecanismos e instancias de coordinación, inducción y concertación, entre autoridades estatales y municipales, entre éstas y los sectores social y privado, así como con personas y grupos sociales, en materia ambiental.
+IX.- Asegurar la efectiva participación social de conformidad con lo dispuesto en este ordenamiento, para lo cual se regulará el acceso y uso de la información ambiental;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+X.- Establecer los mecanismos e instancias de coordinación, inducción y concertación, entre autoridades estatales y municipales, entre éstas y los sectores social y privado, así como con personas y grupos sociales, en materia ambiental, y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XI.- Impulsar la transición al uso de materiales biodegradables, a efecto de prohibir gradualmente el uso de bolsas, popotes y recipientes de plástico, unicel o aquellos elaborados con materias primas tóxicas o nocivas para el medio ambiente, en cualquier establecimiento mercantil ubicado en territorio nayarita.
 
 La Ley de Protección Civil para el Estado de Nayarit y el Código Civil para el Estado de Nayarit, serán de aplicación supletoria de la presente Ley.
 
@@ -91,9 +101,17 @@ V.- El establecimiento de zonas intermedias de salvaguardia, con motivo de la pr
 
 VI.- El establecimiento de medidas que aseguren el mantenimiento e incremento de los recursos genéticos y de la vida silvestre en el ámbito de su competencia, frente al peligro de deterioro grave o extinción;
 
-VII.- Las actividades vinculadas con la prestación del servicio público de suministro de agua potable y tratamiento de descargas a alcantarillado urbano; y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-VIII.- La ejecución de programas destinados a fomentar la educación ambiental y a otorgar incentivos para la aplicación de tecnología ambiental.
+VII.- Las actividades vinculadas con la prestación del servicio público de suministro de agua potable y tratamiento de descargas al alcantarillado urbano;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+VIII.- La ejecución de programas destinados a fomentar la educación ambiental y a otorgar incentivos para la aplicación de tecnología ambiental, y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+IX.- Las acciones encaminadas a la prohibición y eliminación del uso de bolsas, popotes y recipientes de plástico, unicel o aquellos elaborados con materias primas tóxicas o nocivas para el medio ambiente para fines de envoltura, transportación, carga o traslado de alimentos y bebidas.
 
 > <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -125,6 +143,10 @@ IX. Cambio Climático: Variación del clima causado por efectos naturales o por 
 
 X. Centro de Población: Las áreas constituidas por zonas urbanizadas, las que se reserven a su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites marcados por los Planes de Desarrollo Urbano de dichos centros, así como las que por resolución de la autoridad competente se prevean para la fundación de los mismos;
 
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+X bis. Compostable.- se refiere al material que se degrada biológicamente, es decir, la materia de los productos compostables son de origen orgánico o natural como el aguacate, maíz, trigo, etc.;
+
 XI. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
 
 XII. Contaminación Visual: Alteración de las cualidades de la imagen de un paisaje natural o urbano, causada por cualquier elemento funcional o simbólico, que tenga carácter comercial, propagandístico o de servicios;
@@ -148,6 +170,10 @@ XIX. UMA: La Unidad de Medida y Actualización considerando su valor diario en t
 XX. Disposición Final: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos;
 
 XXI. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XXI bis. Ecosistema costero: Las playas, las dunas costeras, los acantilados, franjas intermareales; los humedales costeros tales como las lagunas interdunarias, las lagunas costeras, los esteros, las marismas, los pantanos, las ciénegas, los manglares, los petenes, los oasis, los cenotes, los pastizales, los palmares y las selvas inundables; los arrecifes de coral; los ecosistemas formados por comunidades de macroalgas y de pastos marinos, fondos marinos o bentos y las costas rocosas. Estos se caracterizan porque se localizan en la zona costera pudiendo comprender porciones marinas, acuáticas y/o terrestres; que abarcan en el mar a partir de una profundidad de menos de 200 metros, hasta 100 km tierra adentro o 50 m de elevación;
 
 XXII. Educación Ambiental: Proceso permanente, sistematizado e interdisciplinario de enseñanza-aprendizaje orientado a la formación de individuos que fortalezca valores, aclare conceptos y desarrolle actitudes y habilidades necesarias para una convivencia armónica en el ambiente;
 
@@ -229,6 +255,10 @@ LX. Reciclado: Transformación de los residuos a través de distintos procesos q
 
 LXI. Reciclaje: Método de tratamiento que consiste en la transformación de los residuos con fines productivos y de reutilización;
 
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+LXI bis. Recipiente de Unicel: se refiere a recipientes, platos o contenedores del tipo de plástico denominado poliestireno, reciclable identificado con el número 06 y las siglas PS;
+
 LXII. Recurso Natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
 
 LXIII. Reservas Estatales: Las áreas donde existan uno o más ecosistemas que deban preservarse por ser de interés para la comunidad;
@@ -267,6 +297,10 @@ LXXIX. Vaso: El depósito natural de aguas, delimitando por la cota de la crecie
 
 LXXX. Vida silvestre: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales, y
 
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+LXXX bis. Zona costera nacional: Es el territorio determinado por acuerdo de los gobiernos federal, estatal y municipal correspondiente a los ecosistemas costeros en términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y
+
 LXXXI. Zonas críticas prioritarias: Las áreas o sitios que presenten graves problemas de degradación que afectan la calidad de los recursos del aire, agua, suelo o biota y que representen peligro a largo plazo a la salud pública o al ambiente.
 
 ### CAPÍTULO II. De las atribuciones del Estado, concurrencia del Gobierno de la Entidad y sus Municipios, y coordinación entre los tres niveles de Gobierno
@@ -276,6 +310,10 @@ LXXXI. Zonas críticas prioritarias: Las áreas o sitios que presenten graves pr
 Es competencia del Gobierno del Estado:
 
 I.- Precisar y conducir la política ambiental del Estado, en congruencia con las que en su caso expida la Federación;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+I bis.- Coadyuvar con la SEMARNAT para determinar la Zona costera nacional;
 
 II.- Preservar y restaurar el equilibrio ecológico y la protección del ambiente en el territorio de la Entidad, salvo cuando se refiera a casos de competencia federal o municipal;
 
@@ -311,15 +349,35 @@ XVII.- Establecer y aplicar las sanciones administrativas por violaciones a la p
 
 XVIII.- Celebrar convenios de coordinación técnico fiscales con los municipios, para la aplicación de la presente Ley;
 
-XIX.- Asesorar a los Municipios en las materias que regula la presente Ley; y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XX. Las demás a que se refiere esta Ley y otros ordenamientos aplicables.
+XIX.- Asesorar a los Municipios en las materias que regula la presente Ley;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XX.- Elaborar y publicar en el portal oficial de la Secretaría, guías de separación de residuos, específicas a cada material, que incluyan las empresas autorizadas para su manejo y la dirección de los centros de acopio;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XXI.- Prevenir, controlar y abatir, en la esfera de su competencia, la contaminación por el uso de bolsas, popotes y recipientes de plástico, unicel o aquellos elaborados con materias primas tóxicas o nocivas para el medio ambiente, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado al consumidor final;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XXII.- Verificar, en el uso de sus facultades, las bolsas, popotes y recipientes de plástico, unicel o aquellos elaborados con materias primas tóxicas o nocivas para el medio, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado al consumidor final (sic) cumplan con los criterios y normas de producción y consumo sustentable de reducción, reciclaje y reutilización, de modo que garanticen la disminución de los impactos ambientales asociados a la extracción de materiales, transformación, manufactura, distribución, uso y destino de estos productos plásticos, promoviendo el uso de materias primas provenientes de los recursos naturales renovables y reciclables, y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XXIII.- Las demás atribuciones que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
 
 ###### Artículo 5.
 
 Corresponde a los Municipios de la Entidad:
 
 I.- Formular y conducir la política ambiental, en el ámbito municipal, en congruencia con la que se expida para el Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+I bis.- Coadyuvar con la SEMARNAT y el Gobierno del Estado para determinar la Zona Costera Nacional.
 
 II.- Preservar y restaurar el equilibrio ecológico y la protección al ambiente en sus respectivas circunscripciones territoriales, salvo cuando se refieran a asuntos reservados a la Federación o al Estado;
 
@@ -355,9 +413,9 @@ XVII.- Aplicar las sanciones administrativas por violaciones a la presente Ley y
 
 XVIII. Emitir el Reglamento respectivo en el ámbito de su competencia.
 
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE JUNIO DE 2019)</small>
 
-Artículo 5 A.- El Estado y los Municipios, podrán mediante convenios de coordinación transferirse las atribuciones o realizar acciones conjuntas, derivadas de la aplicación de esta Ley.
+Artículo 5 A.- El Estado y municipios, en coordinación con las cámaras empresariales, organizaciones de la sociedad civil y la sociedad en general, deberán instrumentar estrategias y campañas de promoción y concientización ciudadana sobre el uso y destino final de bolsas, popotes y recipientes de plástico, unicel o aquellos elaborados con materias primas tóxicas o nocivas para el medio ambiente bolsas y popotes para fines de envoltura transportación, carga o traslado de alimentos y bebidas, fomentando la utilización de materiales que faciliten su reúso o reciclado y que sean biodegradables o de productos compostables.
 
 ### CAPÍTULO III
 
@@ -382,6 +440,26 @@ Los Municipios podrán celebrar convenios entre sí, cuando estas acciones impli
 ###### Artículo 8.
 
 El Ejecutivo del Estado, a través de la Secretaría, procurará que en los acuerdos y convenios de coordinación celebrados con la Federación o los Municipios, se establezcan condiciones que faciliten la descentralización de facultades y recursos financieros para el mejor cumplimiento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+Artículo 8 A.- La SEMARNAT tiene la facultad exclusiva para emitir autorizaciones de obras, actividades y desarrollos inmobiliarios en los ecosistemas costeros;
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+Artículo 8 B.- La Secretaría tendrá a su cargo la implementación de un programa adecuado de sustitución y alternativas viables para reemplazar las bolsas y popotes de plástico, así como contenedores de poliestireno expandido, por productos degradables o biodegradables, bajo el siguiente esquema de seguimiento:
+
+I. Informar al público de manera adecuada, así como llevar a cabo campañas de asistencia gratuita para capacitar a los compradores en general, sobre las posibles alternativas con las que podrán sustituir las bolsas, popotes y recipientes de plástico, unicel o aquellos elaborados con materias primas tóxicas o nocivas para el medio ambiente, no degradables o no biodegradables;
+
+II. Realizar campañas de difusión y concientización hacia la población sobre las ventajas que tendrá para la salud y el medio ambiente en general, el uso racional de material degradable o biodegradable, para el envase, contención y movilización de los productos que adquieran en los diferentes establecimientos;
+
+III. Promover campañas de concientización entre los propietarios de establecimientos y empresas relacionadas con la comercialización de los productos compostables, de tal manera que sus intereses sean compatibles con los intereses colectivos de protección ambiental y desarrollo sustentable; y
+
+IV. Promover el otorgamiento de estímulos e incentivos a quienes realicen acciones tendientes a la sustitución y aportación de alternativas viables para reemplazar las bolsas, popotes y recipientes de plástico, unicel o aquellos elaborados con materias primas tóxicas o nocivas para el medio ambiente, por productos compostables con el fin de procurar la protección, aprovechamiento sustentable, preservación y restauración del equilibrio ecológico.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+Artículo 8 C.- La utilización de bolsas, popotes y recipientes desechables, sólo se permitirán en caso de que sean creados bajo procedimientos tecnológicos que les den la calidad de compostables. Los establecimientos mercantiles y comerciales podrán utilizar estos productos cuando, por cuestiones de salubridad, se destinen para almacenar, empacar o conservar alimentos, mercancía o insumos, y no resulte factible el uso de un material sustituto, conforme a las Normas Oficiales Mexicanas, así como los Criterios y Normas de Producción Sustentable que emita la Secretaría.
 
 ### CAPÍTULO IV. Del Instituto
 
@@ -424,6 +502,10 @@ IX.- Los sujetos principales de la concertación son los individuos en lo partic
 X.- La coordinación entre el Gobierno del Estado, sus Municipios, y la Federación, así como la concertación con la sociedad, son indispensables para la eficacia de las acciones ecológicas;
 
 XI.- En el ejercicio de las atribuciones que las leyes confieren al Estado y a sus Municipios para regular, promover, restringir, prohibir, orientar y, en general, inducir las acciones de los particulares en los campos económico y social, se considerarán los criterios de preservación, conservación y restauración del equilibrio ecológico;
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+Quienes comercialicen productos desechables o de un solo uso con materiales distintos al plásticos (sic), unicel o similares en razón del proceso de desintegración, al empaquetar sus productos deberán incluir una ficha técnica que garantice que dicho producto está elaborado con materias primas que permiten que sea compostable, para otorgarle la certeza al consumidor de que el producto que está comprando cumple con los lineamientos de protección al medio ambiente.
 
 XII.- El control y la prevención de la contaminación ambiental, el adecuado aprovechamiento de los elementos naturales y el mejoramiento del entorno natural en los asentamientos humanos, son factores fundamentales para elevar la calidad de vida de la población;
 
@@ -1289,13 +1371,15 @@ En estas reservas deberá determinarse la superficie o las superficies que prote
 
 En las zonas núcleo de las áreas naturales protegidas quedará expresamente prohibido:
 
-I.- Verter o descargar contaminantes en el suelo, subsuelo y cualquier clase de cause, vaso o acuífero, incluyendo las zonas costeras, así como desarrollar cualquier actividad contaminante;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+I.- Verter o descargar contaminantes en el suelo, subsuelo y cualquier clase de cause, vaso o acuífero, incluyendo los ecosistemas costeros, así como desarrollar cualquier actividad contaminante;
 
 II.- Interrumpir, rellenar, desecar o desviar los flujos hidrológicos;
 
 III.- Realizar actividades cinegéticas o de explotación y aprovechamiento de especies de flora y fauna silvestre terrestre y acuáticas que no estén fundamentadas en un programa técnico de aprovechamiento sustentable técnicamente fundado, y autorizado por las autoridades correspondientes; y
 
-IV. Ejecutar acciones que contravengan lo dispuesto por esta Ley, la declaratoria respectiva y las demás disposiciones que de ellas se deriven.
+IV.- Ejecutar acciones que contravengan lo dispuesto por esta Ley, la declaratoria respectiva y las demás disposiciones que de ellas se deriven.
 
 ###### Artículo 68.
 
@@ -2823,6 +2907,24 @@ Toda descarga, depósito o infiltración de materiales contaminantes en los suel
 
 La generación, manejo y disposición final de los residuos de lenta degradación deberá sujetarse a lo que dispongan las normas aplicables.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+Artículo 172 A.- Dentro del ámbito territorial del Estado queda prohibido que se entregue al consumidor, ya sea a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, bolsas de plástico que no cumplan con las normas oficiales mexicanas que determinen los criterios en materia de eficiencia ambiental y tecnológica, y en materia de generación, manejo y disposición final de residuos sólidos; así como con los Criterios y Normas de Producción Sustentable que al efecto emita la Secretaría.
+
+Los Criterios y Normas de Producción Sustentable tendrán por objeto establecer y describir los criterios y buenas prácticas de producción sustentable que los fabricantes de bolsas, popotes y recipientes de plástico, unicel o aquellos elaborados con materias primas tóxicas o nocivas para el medio ambiente pueden implementar con el propósito de minimizar el impacto ambiental de sus procesos, operaciones y productos a lo largo de su vida útil.
+
+Entre los Criterios y Normas de Producción Sustentable se comprenderá:
+
+1. Conservación de recursos naturales y no renovables;
+
+2. Procesos de fabricación atóxicos, y
+
+3. Los demás que la Secretaría determine para favorecer la producción sustentable de los productos compostables.
+
+En todo momento se buscará que el fin de vida de las bolsas de plástico no sea mayor al de diez años.
+
+En el caso de que en la producción de bolsas se utilice un aditivo que sea incompatible con el reciclaje, se procurará que estas tengan un fin de vida menor al de cinco años.
+
 ### CAPÍTULO V. De las Actividades Riesgosas
 
 ###### Artículo 173.
@@ -3942,3 +4044,21 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 3 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Para la transición paulatina de sustitución de bolsas, popotes y recipientes de plástico, unicel o aquellos elaborados con materias primas similares para fines de envoltura transportación, carga o traslado de alimentos y bebidas, se permitirá temporalmente la venta, facilitación y obsequio de aquellos productos elaborados con materiales compostables, sujeta a la gradualidad establecida en el artículo transitorio siguiente.
+
+Tercero. La entrada en vigor de la restricción definitiva de venta, facilitación y obsequio de bolsas, popotes y recipientes de plástico, unicel o aquellos elaborados con materias primas tóxicas o nocivas para el medio ambiente para fines de envoltura transportación, carga o traslado de alimentos y bebidas, se ajustará a la siguiente gradualidad:
+
+a) En supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados, restaurantes y similares, en un plazo de doce meses a la entrada en vigor del presente decreto, y
+
+b) En establecimientos dedicados a la venta de mayoreo y menudeo de los productos no compostables, en un plazo de dieciocho meses a la entrada en vigor del presente decreto.
+
+Cuarto. Concluidos los plazos definitivos señalados en (sic) artículo anterior, todos los establecimientos comerciales referidos con antelación, deberán de llevar a cabo la sustitución definitiva de los productos elaborados con materiales no compostables por los fabricados solamente con materiales que faciliten su reúso o reciclado y que sean derivados de productos compostables.
+
+Quinto. El Gobierno del Estado en un plazo no mayor de seis meses a la entrada en vigor del presente Decreto, deberá adecuar el programa estatal ambiental, para efecto de armonizarlo a las disposiciones contenidas en el presente decreto.
