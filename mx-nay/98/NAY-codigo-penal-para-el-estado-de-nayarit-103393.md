@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2019-03-19"
+last_updated: "2019-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -2907,6 +2907,10 @@ El delito de abandono de familiares se perseguirá a petición de parte ofendida
 
 Cuando las víctimas sean personas incapaces, privadas de razón o de sentido, el delito siempre se perseguirá de oficio.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+Si la persona abandonada es un adulto mayor, se perseguirá de oficio y la pena se aumentará hasta en una mitad más.
+
 ###### ARTÍCULO 309.
 
 Para que el perdón concedido por el ofendido o su representante pueda producir efectos, el responsable deberá pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y garantizar el pago futuro de los mismos conforme al prudente arbitrio del Juez.
@@ -3608,6 +3612,10 @@ No se aplicará sanción cuando de no provocarse el aborto, la mujer embarazada 
 El que abandone a un menor incapaz de cuidarse a sí mismo o a una persona enferma, poniendo en peligro la integridad corporal de éstos, teniendo la obligación de cuidarlos, se le aplicará de tres meses a cuatro años de prisión y suspensión hasta por cinco años de los derechos de patria potestad o tutela, según el caso, e incapacidad para heredar en los términos de la ley civil.
 
 En caso de resultar además algún daño, se aplicarán las reglas del concurso.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+Si la persona abandonada es un adulto mayor la pena se aumentará hasta en una mitad más.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -4374,3 +4382,9 @@ P.O. 19 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL ARTÍCULO 216 Y ADICIONA EL ARTÍCULO 216 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 3 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 308 Y UN TERCER PÁRRAFO AL ARTÍCULO 373 DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
