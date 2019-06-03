@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-victimas-para-el-estado-de-nayarit-102295"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-23"
-last_updated: "2017-12-16"
+last_updated: "2019-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
 
 Ley publicada en la Sección Décima Séptima del Periódico Oficial del Estado de Nayarit, el sábado 23 de agosto de 2014.
 
@@ -1321,9 +1321,17 @@ XI. El Presidente del Tribunal Superior de Justicia del Poder Judicial del Estad
 
 XII. El Presidente de la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit;
 
-XIII. El Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit, y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XIV. La Directora General del Instituto para la Mujer Nayarita.
+XIII. El Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XIV. La Directora General del Instituto para la Mujer Nayarita, y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+XV. El Comisionado Ejecutivo de la Comisión Estatal de Atención Integral a Víctimas del Estado de Nayarit.
 
 ###### Artículo 86.
 
@@ -1403,9 +1411,9 @@ XIX. Las demás que le otorga esta Ley y otras disposiciones aplicables.
 
 El Sistema Estatal contará con una Comisión, la cual será la instancia de colaboración y coordinación con el Sistema Nacional de Atención a Víctimas y la Comisión Ejecutiva Federal.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
 
-La Comisión es un organismo con personalidad jurídica y patrimonio propio; con autonomía técnica, de gestión y contará con los recursos que le asigne el Presupuesto de Egresos del Estado.
+La Comisión es un organismo con personalidad jurídica y patrimonio propio; con autonomía técnica, de gestión y contará con los recursos que le asigne el Presupuesto de Egresos del Estado; los derivados por actos, convenios y contratos con dependencias, entidades, organismos y demás autoridades competentes; así como el de las donaciones o aportaciones de terceros, personas físicas o morales, de carácter público, privado o social, nacional o extranjera, de manera altruista.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2017)</small>
 
@@ -1423,9 +1431,9 @@ El domicilio de la Comisión es en la ciudad de Tepic, Nayarit y podrá establec
 
 En la ejecución de las funciones, acciones, planes y programas previstos en esta Ley, la Comisión garantizará la representación y participación directa de las víctimas y organizaciones de la sociedad civil, propiciando su intervención en la construcción de políticas públicas, así como el ejercicio de labores de vigilancia, supervisión y evaluación de las instituciones integrantes del Sistema Estatal con el objetivo de garantizar un ejercicio transparente de sus atribuciones.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
 
-De la Comisión depende el Fondo y el Registro.
+De la Comisión depende el Fondo, la Asesoría Jurídica y el Registro.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2017)</small>
 
@@ -1813,17 +1821,31 @@ El Fondo tiene por objeto brindar los Recursos de Ayuda y la reparación integra
 
 La víctima podrá acceder de manera subsidiaria al Fondo en los términos de esta Ley, sin perjuicio de las responsabilidades y sanciones administrativas, penales y civiles que resulten.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
 
 ###### Artículo 103.
 
-El Fondo estatal se conformará con los recursos que destine el Estado expresamente para dicho fin.
+El patrimonio del Fondo se integrará con:
 
-La suma de las asignaciones anuales que el Estado aporte al Fondo, será igual al 50% de la asignación que se destine al Fondo en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
+I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos del Estado de Nayarit, de conformidad con el artículo 157 Ter de la Ley General de Víctimas;
 
-La forma de realizar la aportación, los plazos y demás cuestiones relativas a la integración del Fondo, deberán hacerse atendiendo a lo dispuesto por la Ley General.
+II. El producto de la enajenación de los bienes que sean decomisados en los procedimientos penales, en la proporción que corresponda, una vez que se haya cubierto la compensación;
 
-De los recursos que constituyan el patrimonio del Fondo, se deberá mantener una reserva del 20% para cubrir los reintegros que, en su caso, deban realizarse al Fondo, en términos de la presente Ley.
+III. Recursos provenientes de multas y sanciones impuestas por violaciones de derechos humanos;
+
+IV. Recursos provenientes de las fianzas o garantías que se hagan efectivas cuando los procesados incumplan con las obligaciones impuestas por la autoridad;
+
+V. El monto de las reparaciones del daño no reclamadas;
+
+VI. Los montos que se recuperen en virtud del derecho de repetición;
+
+VII. Las sumas recuperadas en los juicios de carácter civil, que se dirijan en contra de las personas servidoras públicas que hayan sido encontradas como responsables de haber cometido violaciones de los derechos humanos;
+
+VIII. Donaciones o aportaciones en efectivo o especie realizadas por terceros, personas físicas o morales, de carácter público, privado o social, nacional o extranjera, de manera altruista, y
+
+IX. Los rendimientos que generen los recursos del Fondo.
+
+La Comisión se coordinará con las dependencias, entidades, organismos y autoridades competentes en dichas materias para conjuntar esfuerzos a través de la celebración de los actos, convenios o contratos que resulten necesarios con la finalidad de que dichas instancias tomen conocimiento de que los recursos provenientes de dichos conceptos deben formar parte integrante del patrimonio del Fondo y se definan los mecanismos, las acciones o los procesos que permitan cumplir con oportunidad sus atribuciones.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2017)</small>
 
@@ -1831,11 +1853,11 @@ De los recursos que constituyan el patrimonio del Fondo, se deberá mantener una
 
 La constitución del Fondo será con independencia de la existencia de otros ya establecidos para la atención a víctimas. La aplicación de recursos establecidos en otros mecanismos a favor de las víctimas y los de esta Ley, se hará de manera complementaria, a fin de evitar su duplicidad. El acceso a los recursos a favor de cada víctima no podrá ser superior a los límites establecidos en esta Ley.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2019)</small>
 
 ###### Artículo 105.
 
-El Fondo será administrado por una institución de banca de desarrollo que funja como fiduciaria, de acuerdo a las instrucciones de la Comisión en su calidad de fideicomitente, siguiendo criterios de transparencia, oportunidad, eficiencia y rendición de cuentas.
+El Fondo será administrado por institución bancaria avalada por la Comisión Nacional Bancaria y de Valores que funja como fiduciaria, de acuerdo a las instrucciones de la Comisión en su calidad de fideicomitente, siguiendo criterios de transparencia, oportunidad, eficiencia y rendición de cuentas.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2017)</small>
 
@@ -2032,3 +2054,9 @@ Quinto.- El titular del Poder Ejecutivo del Estado deberá realizar las reformas
 Sexto.- La Asamblea Consultiva deberá estar integrada dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto.
 
 Séptimo.- Para la designación de los integrantes de los miembros de la Asamblea Consultiva, la Junta de Gobierno por única ocasión se integrará con los miembros señalados en las fracciones I y III del artículo 90 Quatér.
+
+P.O. 3 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE VÍCTIMAS PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
