@@ -4,7 +4,7 @@ identifier: "ROO-ley-estatal-de-cultura-fisica-y-deporte-60594"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-11"
-last_updated: "2016-03-30"
+last_updated: "2019-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY ESTATAL DE CULTURA FISICA Y DEPORTE
 
-LEY ESTATAL DE CULTURA FISICA Y DEPORTE
+LEY ESTATAL DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
 
 Ley publicada en el Número 19 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 11 de marzo de 2008.
 
@@ -45,21 +45,31 @@ LEY ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público y observancia general en todo el Estado de Quintana Roo.
+La presente ley es de orden público y observancia general en todo el Estado de Quintana Roo, misma que reglamenta el derecho a la cultura física y deporte reconocido en el artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, y el artículo 13 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, correspondiendo su aplicación en forma concurrente al Ejecutivo Estatal, por conducto de la Comisión para la Juventud y el Deporte de Quintana Roo y los organismos e instituciones municipales del Deporte, así como los sectores social y privado, en los términos que prevén.
 
 ###### Artículo 2.
 
 Esta ley tiene por objeto regular la planeación, organización, promoción, fomento y desarrollo en materia de cultura física y el deporte en el Estado de Quintana Roo; establecer las bases de coordinación y colaboración entre el Estado y los Municipios, así como entre éstos con la Federación en términos de la Ley General de Cultura Física y Deporte; y la concertación para la participación de los sectores social y privado en dicha materia, teniendo las finalidades generales siguientes:
 
-I. Fomentar el óptimo y ordenado desarrollo de la cultura física y el deporte en todas sus manifestaciones y expresiones;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-II. Contribuir, por medio de la cultura física y el deporte, a elevar el nivel de vida de los habitantes en el Estado;
+I. Fomentar el óptimo, equitativo y ordenado desarrollo de la cultura física y el deporte en todas sus manifestaciones y expresiones;
 
-III. Fomentar la creación, conservación, mejoramiento, protección, difusión, promoción, investigación y aprovechamiento de los recursos humanos, materiales y financieros destinados a la cultura física y el deporte;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-IV. Fomentar el desarrollo de la cultura física y el deporte, como medio importante en la prevención del delito;
+II. Contribuir, por medio de la activación física, cultura física y el deporte, a elevar el nivel de vida de los habitantes en el Estado;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+III. Fomentar la creación, conservación, mejoramiento, protección, difusión, promoción, investigación y aprovechamiento de los recursos humanos, materiales y financieros destinados a la activación física, la cultura física y el deporte;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+IV. Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la preservación de la salud, prevención de enfermedades y prevención del delito;
 
 V. Incentivar la inversión social y privada para el desarrollo de la cultura física y el deporte, como complemento de la actuación pública;
 
@@ -67,13 +77,55 @@ V. Incentivar la inversión social y privada para el desarrollo de la cultura f�
 
 VI. Promover las medidas preventivas necesarias para erradicar la violencia, así como la implementación de sanciones a quienes la ejerzan, lo anterior sin perjuicio de las responsabilidades penales y civiles a que haya lugar, y reducir los riegos de afectación en la práctica de actividades físicas, recreativas o deportivas, así como para prevenir y erradicar el uso de sustancias y métodos no reglamentarios que pudieran derivarse del dopaje;
 
-VII. Fomentar, ordenar y regular o las asociaciones y sociedades deportivas, deportivo-recreativas, del deporte en la rehabilitación y de cultura física-deportiva;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+VII. Fomentar, ordenar y regular a las asociaciones y sociedades deportivas, deportivo recreativas, del deporte en la rehabilitación y de cultura física-deportiva;
 
 VIII. Promover, en la práctica de actividades físicas, recreativas y deportivas, el aprovechamiento, protección y conservación adecuada del medio ambiente;
 
-IX. Garantizar a todos las personas la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y el deporte se implementen: y,
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2019)</small>
 
-X. Procurar que los deportistas con algún tipo de discapacidad no sean objeto de discriminación alguna.
+IX. Incentivar la actividad deportiva que se desarrolle en forma organizada y programática a través de las Asociaciones Deportivas Estatales;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+X. Garantizar a todos (sic) las personas sin distinción de género, nacionalidad, edad, discapacidad, condición social, religión, opiniones, etnia, preferencias o estado civil, la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y el deporte se implementen, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2019)</small>
+
+XI. Procurar que los deportistas con algún tipo de discapacidad no sean objeto de discriminación alguna.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+###### Artículo 2 Bis.
+
+El ejercicio y desarrollo del derecho a la cultura física y el deporte tienen como base los siguientes principios:
+
+I. La cultura física y la práctica del deporte son un derecho fundamental para todos;
+
+II. La cultura física y la práctica del deporte constituyen un elemento esencial de la educación;
+
+III. El derecho a la cultura física y al deporte constituye un estímulo para el desarrollo afectivo, físico, intelectual y social de todos, además de ser un factor de equilibrio y autorrealización;
+
+IV. Los programas en materia de cultura física y deporte deben responder a las necesidades individuales y sociales, existiendo una responsabilidad pública en el fomento cualitativo y cuantitativo de la cultura física y el deporte;
+
+V. La enseñanza, capacitación, gestión, administración y desarrollo de la cultura física y el deporte deben confiarse a un personal calificado;
+
+VI. Para el desarrollo de la cultura física y la práctica del deporte es indispensable una infraestructura adecuada y la generación de sistemas de financiamiento y administración eficientes y estables, que permitan desarrollar políticas y programas que contribuyan al objetivo común de hacer de la cultura física y el deporte un derecho de todos;
+
+VII. La investigación, información y documentación son elementos indispensables para el desarrollo de la cultura física y el deporte;
+
+VIII. Las instituciones deportivas públicas y privadas del Estado deben colaborar y cooperar en forma estrecha y responsable en la promoción, fomento y estímulo del derecho a la cultura física y a la práctica del deporte;
+
+IX. La distinción entre las diversas manifestaciones o modalidades del deporte resulta necesaria para el óptimo, equitativo y ordenado desarrollo de los sistemas deportivos del Estado;
+
+X. El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
+
+XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte;
+
+XII. La existencia de una adecuada cooperación a nivel nacional, estatal y municipal es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte, y
+
+XIII. Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones.
 
 > <small>(REFORMADO, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -91,11 +143,15 @@ IV. Organismo Rector de la Cultura Física y el Deporte en el Estado: La Comisi�
 
 V. Programa: El Programa Estatal de Cultura Física y Deporte;
 
-VI. REEDE: El Registro Estatal del Deporte;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+VI. REEDE: El Registro Estatal de Cultura Física y Deporte;
 
 VII. Reglamento: El Reglamento de la Ley Estatal de Cultura Física y Deporte;
 
-VIII. SEyC: La Secretaría de Educación y Cultura del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+VIII. SEQ: La Secretaría de Educación del Estado de Quintana Roo;
 
 IX. SIEDE: El Sistema Estatal de Cultura Física y Deporte, y
 
@@ -115,17 +171,45 @@ III. Cultura Física: Conjunto de bienes (conocimientos, ideas, valores y elemen
 
 IV. Deporte: Actividad institucionalizada y reglamentada, desarrollada en competiciones y que tiene por objeto lograr un máximo rendimiento;
 
-V. Educación Física: El medio fundamental para adquirir, trasmitir y acrecentar la cultura física;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2019)</small>
 
-VI. Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos encargados del deporte;
+V. Estímulo deportivo: Es una beca que comprende un apoyo financiero o en especie que se otorga a todo aquel atleta que cumpla los requisitos establecidos en el artículo 74 de la presente ley, su reglamento y la convocatoria correspondiente;
 
-VII. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2019)</small>
 
-VIII. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos;
+VI. Deporte Social: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación;
 
-IX. Recreación Física: Actividad física realizada con fines lúdicos que permiten la utilización positiva del tiempo libre, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2019)</small>
 
-X. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo.
+VII. Deporte de Rendimiento: El deporte que promueve, fomenta y estimula el que todas las personas puedan mejorar su nivel de calidad deportiva como aficionados, pudiendo integrarse al deporte de alto rendimiento, o en su caso, sujetarse adecuadamente a una relación laboral por la práctica del deporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2019)</small>
+
+VIII. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en preselecciones y selecciones nacionales que representan al país en competiciones y pruebas oficiales de carácter internacional;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2019)</small>
+
+IX. Educación Física: El medio fundamental para adquirir, trasmitir y acrecentar la cultura física;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2019)</small>
+
+X. Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos encargados del deporte;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2019)</small>
+
+XI. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2019)</small>
+
+XII. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2019)</small>
+
+XIII. Recreación Física: Actividad física realizada con fines lúdicos que permiten la utilización positiva del tiempo libre, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2019)</small>
+
+XIV. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MARZO DE 2016)</small>
 
@@ -143,6 +227,14 @@ El Estado y los municipios, en sus respectivas jurisdicciones, promoverán las a
 
 El Sistema Estatal de Cultura Física y Deporte, es el medio por el cual se llevarán a cabo los procedimientos y actividades que permitan y faciliten la realización del conjunto de acciones, recursos y procedimientos destinados a impulsar, fomentar y desarrollar la cultura física y el deporte en Quintana Roo.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+Se encargará de una mayor eficacia, promoción, fomento y estímulo de la cultura física y de la práctica del deporte en todas sus manifestaciones quien tendrá como objeto asesorar en la elaboración del Programa Estatal de Cultura Física y Deporte, coordinar, dar seguimiento permanente y evaluar los programas, acciones y procedimientos que formen parte de la ejecución de las políticas públicas para promover, fomentar y estimular la cultura física y la práctica del deporte, tomando en consideración el desarrollo de la estructura e infraestructura deportiva y de los recursos humanos y financieros vinculados a la cultura física y al deporte en el Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+El SIEDE es un órgano colegiado que estará integrado por las Dependencias, Organismos e Instituciones públicas y privadas, Sociedades, Asociaciones Estatales y Consejos Estatales del Deporte Estudiantil reconocidos por esta Ley, que en sus respectivos ámbitos de actuación tienen como objetivo generar las acciones, financiamientos y programas necesarios para la coordinación, fomento, ejecución, apoyo, promoción, difusión y desarrollo de la activación física, la cultura física y el deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales.
+
 ###### Artículo 7.
 
 La Coordinación General del Sistema Estatal de Cultura Física y Deporte estará a cargo del Organismo de la Cultura Física y el Deporte en el Estado.
@@ -155,15 +247,15 @@ Conforme a los lineamientos que establece el Sistema Estatal de Cultura Física 
 
 Entre las instituciones, organismos y dependencias públicas y privadas que se integran oficialmente al SIEDE, son los siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-I. La SEyC;
+I.- La SEQ;
 
 II.- El Organismo Rector de la Cultura Física y el Deporte en el Estado;
 
 > <small>(REFORMADA, P.O. 30 DE MARZO DE 2016)</small>
 
-III. El Subcomité de Recreación, Deporte y Juventud;
+III.- El Subcomité de Recreación, Deporte y Juventud;
 
 IV.- Los Consejos Municipales de Cultura Física y Deporte;
 
@@ -177,7 +269,9 @@ VIII.- Las asociaciones y sociedades que estén reconocidas en términos de esta
 
 IX.- La Comisión Estatal de Apelación y Arbitraje del Deporte; y,
 
-X.- El Registro Estatal del Deporte.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+X.- El Registro Estatal de Cultura Física y Deporte
 
 ###### Artículo 10.
 
@@ -203,17 +297,107 @@ V. Formular el programa estatal de cultura física y deporte y llevar a efecto l
 
 VI. Las demás que le otorgue esta ley u otros ordenamientos legales.
 
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2019)</small>
 
-### Capítulo II. Del Sector Público
+### Capítulo I Bis. Del Organismo Rector de la Cultura Física y el Deporte
 
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 30 DE MARZO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
 
 #### Sección Primera. Del Subcomité Especial de Recreación, Deporte y Juventud
 
-#### Sección Segunda. De los Órganos Municipales de Cultura Física y Deporte
+###### Artículo 12 Bis.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2016)</small>
+La actuación de la Administración Pública Estatal en el ámbito de la cultura física y del deporte, corresponde y será ejercida directamente, por un organismo descentralizado de la administración Pública Estatal del Estado de Quintana Roo, que sera el conductor de la Política Estatal en estas materias, quien contará con personalidad jurídica y patrimonio propio.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+###### Artículo 12 Ter.
+
+El Gobierno del Estado a través del Organismo Rector de la Cultura Física y el Deporte y las Unidades Administrativas Municipales de Cultura Física y Deporte que forman parte del Sistema Estatal del Deporte, procurarán destinar recursos presupuestarios crecientes, para apoyar la ejecución del programa estatal y municipal en base al deporte, así como los estímulos y apoyos, para la construcción, el mantenimiento y conservación de las instalaciones deportivas de la Entidad y sus municipios.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+###### Artículo 12 Quáter.
+
+El Organismo Rector de la Cultura Física y el Deporte en el Estado, conjuntamente con la Secretaría de Educación, promoverá la elaboración de un programa, que sumado a la asignatura de educación física que se imparta en el nivel de educación básica, incremente la carga horaria para la realizacion de actividades deportivas para los estudiantes y con ello coadyuvar en la formación y desarrollo integral del educando, en los términos establecidos en el reglamento.
+
+El Organismo Rector de la Cultura Física y el Deporte en el Estado, coordinará las acciones que el SIEDE determine, en el ejercicio de sus funciones, para dar cumplimiento al artículo anterior, al Reglamento y a las reglas para la organización y el funcionamiento del mismo, las que remitirá al Titular del Poder Ejecutivo para su expedición.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+###### Artículo 12 Quinquies.
+
+El Organismo Rector de la Cultura Física y el Deporte en el Estado, tiene las siguientes atribuciones:
+
+I. Proponer, dirigir, ejecutar, evaluar y vigilar la política estatal de cultura física, así como del deporte en todas sus manifestaciones.
+
+Para efectos de esta fracción se entenderán como manifestaciones del deporte, el deporte social y el deporte de rendimiento;
+
+II. Celebrar acuerdos, convenios, contratos y bases con las autoridades Federales, Estatales y Municipales, a fin de promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes a la promoción, fomento, estímulo, incentivo y desarrollo de la cultura física y el deporte en todas sus manifestaciones;
+
+III. Integrar en coordinación con la SEQ, el Programa Estatal de Cultura Física y Deporte;
+
+IV. Convocar al SIEDE, con la participación que corresponda al sector público y a los sectores social y privado;
+
+V. Diseñar y establecer estrategias y prioridades en materia de cultura física y deporte en el marco del SIEDE;
+
+VI. Coordinar acciones con las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal y el sector social y privado, en lo relativo a la investigación en ciencias y técnicas en materia de cultura física y deporte;
+
+VII. Promover el desarrollo de los programas de formación, capacitación, actualización y los métodos de certificación en materia de cultura física y deporte, promoviendo y apoyando la inducción de la cultura física y el deporte en los planes y programas educativos;
+
+VIII. Promover en coordinación con la CONADE la capacitación y certificación de directivos, deportistas, entrenadores, jueces, árbitros y técnicos;
+
+IX. Promover, fomentar y gestionar ante las instancias correspondientes en el ambito estatal, el otorgamiento de estímulos fiscales a los sectores social y privado derivado de las acciones que estos sectores desarrollen a favor de la cultura física y el deporte;
+
+X. Fomentar y promover la construcción, conservación, adecuación, uso y mejoramiento de instalaciones destinadas a la cultura física y deporte de cada uno de los municipios de la entidad;
+
+XI. Formular, conducir y evaluar la política de cultura física y deporte estatal;
+
+XII. Diseñar y aplicar los instrumentos y programas de política para la cultura física y deporte estatal, en concordancia y sin contravenir la Política Nacional de Cultura Física y Deporte, vinculándolos con los programas nacional, estatales, regionales, municipales y delegaciones, así como su respectivo Plan Estatal de Desarrollo;
+
+XIII. Diseñar, aplicar y evaluar el Programa Estatal de Cultura Física y Deporte;
+
+XIV. Celebrar convenios o acuerdos de coordinación y colaboración con la CONADE y con los Municipios, en materia de cultura física y deporte;
+
+XV. Integrar el SIEDE, para promover y fomentar el desarrollo de la cultura física y deporte;
+
+XVI. Establecer, operar y mantener actualizado el Registro Estatal de Cultura Física y Deporte en coordinación con el Registro Nacional de Cultura Física y Deporte;
+
+XVII. Promover la participación de los sectores social y privado para el desarrollo de la activación física, la cultura física y el deporte;
+
+XVIII. Supervisar que las Asociaciones Deportivas Estatales y Organismos Afines realicen sus actividades conforme a sus respectivos estatutos, reglamentos y demás ordenamientos aplicables;
+
+XIX. Verificar y asegurar que los estatutos, reglamentos y demás reglamentos deportivos que expidan las Asociaciones Deportivas Estatales y, en su caso, los Organismos Afines, contengan con toda claridad, entre otros aspectos, los derechos y obligaciones de sus miembros asociados, deportistas y órganos de gobierno y representación, así como los procedimientos disciplinarios y sanciones aplicables;
+
+XX. Emitir opinión en la formulación de los programas deportivos de las Asociaciones Deportivas Estatales;
+
+XXI. Fijar criterios para que dentro de los programas en los que se establezca la práctica de actividades de cultura física, recreación, rehabilitación o deporte dentro de la entidad, se ofrezcan las medidas de seguridad necesarias, de acuerdo con las Normas Oficiales Mexicanas y demás disposiciones que para tal efecto expida la Dependencia con competencia en la materia;
+
+XXII. Diseñar y establecer los criterios para asegurar la uniformidad y congruencia entre los programas de cultura física y deporte del sector público estatal y la asignación de los recursos para los mismos fines;
+
+XXIII. Promover e incrementar con las previsiones presupuestales existentes, los fondos y fideicomisos ya sean públicos o privados, que en materia de cultura física y deporte se constituyan, con el objeto de organizar la participación de los sectores social y privado, a efecto de contribuir al desarrollo deportivo del Estado;
+
+XXIV. Impulsar la cultura física, la recreación, la rehabilitación y el deporte entre la población en general, como medio para la prevención del delito;
+
+XXV. Acercar el deporte a todos los escolares de Quintana Roo priorizando los procesos formativos y pedagógicos, sin ceñirse únicamente a la competición y selección;
+
+XXVI. Fomentar y hacer llegar las disciplinas deportivas en las comunidades indígenas, brindando el apoyo en material deportivo e instalaciones necesarias para su desarrollo en cada una de las comunidades que así lo requieran;
+
+XXVII. Formular programas para promover la cultura física y deporte entre las personas con discapacidad;
+
+XXVIII. Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objeto para el cual fue creado;
+
+XXIX. Promoverá los mecanismos de concertación y firmas de convenio con las instituciones públicas y privadas que integran el sector salud con la finalidad de promover programas de atención y servicio médico para todo deportista que lo requiera;
+
+XXX. Informará a quien lo solicite y establecerá trasparentemente lo consistente a los estímulos otorgados a los deportistas, y
+
+XXXI. Las demás que esta Ley u otras disposiciones legales o reglamentarias determinen.
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE MARZO DE 2016)</small>
+
+#### Sección Segunda. De las Unidades Administrativas Municipales de Cultura Física y Deporte
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2019)</small>
 
 #### Sección Tercera. De las Bases de Coordinación, Colaboración y Concertación
 
@@ -221,7 +405,7 @@ VI. Las demás que le otorgue esta ley u otros ordenamientos legales.
 
 #### Sección Primera. De las Asociaciones y Sociedades Deportivas Estatales
 
-### Capítulo III. De los Sectores Social y Privado
+### Capítulo II. Del Sector Público
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 30 DE MARZO DE 2016)</small>
 
@@ -235,13 +419,15 @@ El Subcomité Especial de Recreación, Deporte y Juventud estará integrado por 
 
 El Subcomité Especial de Recreación, Deporte y Juventud, como integrante del SIEDE procurará adecuar los planes y programas nacionales en materia de cultura física y deporte en el ámbito estatal, de acuerdo al Plan Estatal de Desarrollo.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2019)</small>
+
 #### Sección Tercera. De otras Asociaciones y Sociedades
 
 ###### Artículo 15.
 
-Cada Municipio contará, de conformidad con sus ordenamientos, con un órgano que en coordinación con el Organismo Rector de la Cultura Física y el Deporte, promueva, estimule y fomente el desarrollo de la cultura física y deporte estableciendo para ello, sistemas de cultura física y deporte en sus respectivos ámbitos de competencia.
+Cada Municipio contará, de conformidad con sus ordenamientos, con unidades administrativas municipales de cultura física y deporte, que en coordinación con el Organismo Rector de la Cultura Física y el Deporte, promueva, estimule y fomente el desarrollo de la cultura física y deporte estableciendo para ello, sistemas de cultura física y deporte en sus respectivos ámbitos de competencia.
 
-Los Sistemas Municipales de Cultura Física y Deporte serán los encargados de promover, estimular y fomentar el desarrollo de la cultura física y el deporte en los Municipios, haciéndose los ajustes necesarios en la legislación municipal para su operación.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 3 DE JUNIO DE 2019)</small>
 
 Los Sistemas Municipales de Cultura Física y Deporte, se integrarán por las autoridades municipales, organismos e instituciones públicas y privadas, sociedades y asociaciones que en el ámbito de su competencia tengan como objeto, generar acciones, financiamiento y programas necesarios para la coordinación, fomento, apoyo, difusión y desarrollo de la cultura física y el deporte, así como el óptimo aprovechamiento de los recursos humanos, financieros y materiales.
 
@@ -251,13 +437,35 @@ Los Sistemas Municipales otorgarán los registros a los clubes y ligas, a las as
 
 El registro a que se refiere el párrafo anterior, será requisito indispensable para su integración al respectivo Sistema Municipal.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
+
 ###### Artículo 17.
 
-Los órganos responsables en los Municipios de la cultura física y el deporte, se regirán por sus propios ordenamientos, sin contravenir lo dispuesto por la presente ley y la Ley General de Cultura Física y Deporte, cumpliendo en todo momento con cada una de las obligaciones que como miembros del SIEDE les corresponde.
+Las Unidades Administrativas serán los responsables en los Municipios de la Cultura Física y el Deporte, se regirán por sus propios ordenamientos, sin contravenir lo dispuesto por la presente ley y la Ley General de Cultura Física y Deporte, cumpliendo en todo momento con cada una de las obligaciones que como miembros del SIEDE les corresponde.
 
 ###### Artículo 18.
 
 Los Sistemas Municipales coordinarán sus actividades para aplicar las políticas, planes y programas que en materia de cultura física y deporte se adopten por el SIEDE.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+###### Artículo 18 Bis.
+
+Los Municipios mediante sus unidades administrativas de cultura física y deporte, en el ámbito de sus respectivas competencias y de conformidad con lo dispuesto en la Ley General de Cultura Física y Deporte y la presente Ley, tendrán las siguientes atribuciones:
+
+I. Proponer, coordinar y evaluar la política de cultura física y deporte municipal;
+
+II. Diseñar y aplicar los instrumentos y programas estatales y municipales en cultura física y deporte, acorde con los programas nacionales, estatales y regionales;
+
+III. Diseñar, aplicar y evaluar el programa municipal de cultura física y deporte;
+
+IV. Coordinarse con la CONADE, los Estados y con los Municipios para la promoción, fomento y desarrollo de la cultura física y deporte;
+
+V. Integrar el Sistema Municipal de Cultura Física y Deporte para promover y fomentar el desarrollo de la activación física, la cultura física y el deporte;
+
+VI. Promover la participación de los sectores social y privado para el desarrollo de la activación física, la cultura física y el deporte, y
+
+VII. Las demás que señale la Ley General, la presente Ley, su Reglamento y los demás ordenamientos aplicables.
 
 ###### Artículo 19.
 
@@ -275,7 +483,9 @@ II. Promover la iniciación deportiva y garantizar el acceso a la práctica de l
 
 III. Ejecutar y dar seguimiento al Programa Estatal de Cultura Física y Deporte;
 
-IV. Promover la construcción, adecuación, conservación y aprovechamiento óptimo de la infraestructura para la cultura física y el deporte, en coordinación con la SEyC, las respectivas asociaciones deportivas estatales y de acuerdo a las normas oficiales;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+IV. Promover la construcción, adecuación, conservación y aprovechamiento óptimo de la infraestructura para la cultura física y el deporte, en coordinación con la SEQ, las respectivas asociaciones deportivas estatales y de acuerdo a las normas oficiales;
 
 V. Dar seguimiento y ejecutar las políticas y planes aprobados por el SIEDE;
 
@@ -341,11 +551,11 @@ IV. Imponer correcciones disciplinarias y medidas de apremio a todas aquellas pe
 
 V. Las demás que establezcan la presente ley y otras disposiciones reglamentarias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2019)</small>
 
 ###### Artículo 24.
 
-La CEAAD será integrada por un pleno, el que a su vez se integrará por su Presidente y cuatro miembros titulares con sus respectivos suplentes. La Secretaría de Educación y Cultura del Estado designará al presidente y a los miembros titulares a propuesta del Titular del Organismo Rector de la Cultura Física y del Deporte en el Estado.
+La CEAAD será integrada por un pleno, el que a su vez se integrará por su presidente y cuatro miembros titulares con sus respectivos suplentes. La SEQ designará al presidente y a los miembros titulares a propuesta del Titular del Organismo Rector de la Cultura Física y del Deporte en el Estado.
 
 De los cinco miembros integrantes del Pleno, tres de ellos deberán ser Licenciados en Derecho, y los otros dos, Licenciados en Educación Física y Deportes. Los cinco titulares y sus suplentes deberán gozar de reconocido prestigio y calidad moral.
 
@@ -365,7 +575,9 @@ En ausencia del Presidente, en cualquiera de las sesiones, asumirá sus funcione
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE MARZO DE 2016)</small>
 
-### Capítulo I. De la Cultura Física y el Deporte
+### Capítulo III. De los Sectores Social y Privado
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 30 DE MARZO DE 2016)</small>
 
 ###### Artículo 27.
 
@@ -509,7 +721,7 @@ Cualquier ente de los reconocidos en esta Ley que reciba recursos públicos, deb
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2016)</small>
 
-### Capítulo II. De la Infraestructura
+### Capítulo I. De la Cultura Física y el Deporte
 
 ###### Artículo 50.
 
@@ -521,9 +733,7 @@ El Organismo Rector de lo Cultura Física y el Deporte en el Estado, en coordina
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE MARZO DE 2016)</small>
 
-### Capítulo III. De la Enseñanza, Investigación y Difusión
-
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2016)</small>
+### Capítulo II. De la Infraestructura
 
 ###### Artículo 52.
 
@@ -575,11 +785,13 @@ Las autoridades municipales, serán competentes para verificar el cumplimiento d
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE MARZO DE 2016)</small>
 
-### Capítulo IV. De las Ciencias Aplicadas
+### Capítulo III. De la Enseñanza, Investigación y Difusión
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
 
 ###### Artículo 61.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado, en coordinación de la SEyC, promoverá e impulsará la enseñanza, investigación, difusión y desarrollo tecno deportivo y la aplicación de los conocimientos científicos en materia de cultura física y deporte, así como la construcción de centros de enseñanza y capacitación de estas actividades.
+El Organismo Rector de la Cultura Física y el Deporte en el Estado, en coordinación con la SEQ, promoverá e impulsará la enseñanza, investigación, difusión y desarrollo tecno deportivo y la aplicación de los conocimientos científicos en materia de cultura física y deporte, así como la construcción de centros de enseñanza y capacitación de estas actividades.
 
 ###### Artículo 62.
 
@@ -595,7 +807,7 @@ El Organismo Rector de la Cultura Física y el Deporte en el Estado, promoverá 
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE MARZO DE 2016)</small>
 
-### Capítulo V. Del Estímulo al Desempeño en la Cultura Física y el Deporte
+### Capítulo IV. De las Ciencias Aplicadas
 
 ###### Artículo 65.
 
@@ -627,11 +839,13 @@ Las instancias correspondientes verificarán y certificarán que los laboratorio
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE MARZO DE 2016)</small>
 
-### Capítulo VI. Del Control de Sustancias Prohibidas y Métodos no Reglamentarios en el Deporte
+### Capítulo V. Del Estímulo al Desempeño en la Cultura Física y el Deporte
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
 
 ###### Artículo 72.
 
-Corresponde al Organismo Rector de la Cultura Física y el Deporte del Estado y a las dependencias de los sectores público y privado, en el ámbito de sus respectivas competencias, ayudar, subvencionar y otorgar reconocimientos a los deportistas, profesionistas en deporte y organismos de cultura física y deporte, ajustándose a lo dispuesto en la presente ley y su reglamento y, en su caso, en las convocatorias correspondientes.
+Corresponde al Organismo Rector de la Cultura Física y el Deporte en el Estado, a las unidades administrativas municipales de cultura física y deporte y a las dependencias de los sectores público y privado, en el ámbito de sus respectivas competencias, ayudar, subvencionar y otorgar reconocimientos a los deportistas, profesionistas en deporte y organismos de cultura física y deporte, ajustándose a lo dispuesto en la presente ley y su reglamento y, en su caso, en las convocatorias correspondientes.
 
 ###### Artículo 73.
 
@@ -643,13 +857,19 @@ II. Impulsar la investigación científica en materia de cultura física y depor
 
 III. Fomentar las actividades de las asociaciones deportivas, recreativas, de rehabilitación y de cultura física;
 
-IV. Incentivar lo actividad de deportistas, clubes, ligas y asociaciones;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-V. Cooperar con los Órganos Municipales de Cultura Física y Deporte y, en su caso, con el sector social y privado, en el desarrollo de los planes de actividad deportiva escolar y universitaria;
+IV. Incentivar la actividad de ciudadanos, deportistas, clubes, ligas y asociaciones al desarrollo y desempeño deportivo de manera responsable y adecuado;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+V. Cooperar con las unidades administrativas municipales de cultura física y deporte y, en su caso, con el sector social y privado, en el desarrollo de los planes de actividad deportiva escolar y universitaria;
 
 VI. Promover con las instituciones educativas la participación en los programas deportivos y cooperar con éstas en la dotación de instalaciones y medios necesarios para el desarrollo de sus programas;
 
-Contribuir a elevar el desarrollo deportivo de los Estados y países de nuestro entorno histórico y cultural en respuesta a tratados o convenios de cooperación entre Estados y Federación; y,
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+VII. Contribuir a elevar el desarrollo deportivo de los Estados y los Municipios de nuestro entorno histórico y cultural en respuesta a tratados o convenios de cooperación entre Estados y Federación, y
 
 VIII. Realizar cualquier actividad que contribuya al desarrollo de las competencias deportivas que de acuerdo con la legislación vigente correspondan al Organismo Rector de la Cultura Física y el Deporte en el Estado.
 
@@ -693,11 +913,71 @@ IV. Facilitar cuanta información les sea requerida por las autoridades de la ad
 
 Las personas físicas y morales, así como las agrupaciones que hubieren contribuido al desarrollo de la cultura física y el deporte estatal, podrán obtener reconocimiento por parte del Organismo Rector de la Cultura Física y el Deporte en el Estado, así como en su caso, estímulos en dinero o en especie previo cumplimiento de los requisitos que para tal efecto se establezcan.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2019)</small>
+
+### Capítulo V Bis. De los Derechos y Obligaciones del Deportista
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+###### Artículo 77 Bis.
+
+Son derechos del deportista:
+
+I. Practicar los deportes de su elección, utilizando las instalaciones deportivas de propiedad estatal o municipal, en los términos de la ley;
+
+II. Asociarse, mediante la práctica de la cultura física y el deporte, para la defensa de sus derechos;
+
+III. Recibir, en los términos de ley, facilidades para su incorporación y promoción en los diversos niveles y modalidades del Sistema Estatal de Educación, tratándose de deportistas sobresalientes, de talento o seleccionados en competencias de alto rendimiento;
+
+IV. Recibir asistencia técnica y entrenamiento deportivo en competencias oficiales, solo en el caso de que tengan la calidad de seleccionados estatales;
+
+V. Participar responsablemente en competencias, juegos o eventos deportivos reglamentarios u oficiales, respectivamente, en el marco del SIEDE;
+
+VI. Utilizar los accesos y adecuaciones pertinentes en las instalaciones y equipos deportivos, si se trata de personas con discapacidad;
+
+VII. Participar en las consultas públicas a que se convoque para la elaboración del programa estatal, así como también de los programas y reglamentos de su especialidad;
+
+VIII. Ejercer su derecho de voto en el seno de su asociación u organización a la que pertenezca, en los términos de la normatividad aplicable;
+
+IX. Desempeñar cargos directivos, siempre y cuando haya sido elegido en asamblea de clubes, ligas, consejos deportivos, asociaciones y federaciones deportivas;
+
+X. Recibir, en los términos y condiciones de la normatividad aplicable, toda clase de estímulos, premios, reconocimientos y recompensas en dinero o especie;
+
+XI. Manifestar las necesidades que considere dentro del ámbito deportivo que se desempeñe, mediante diálogos y el ejercicio del derecho de expresión;
+
+XII. Obtener de las autoridades correspondientes el registro que lo acredite como deportista;
+
+XIII. Contar con las instalaciones deportivas adecuadas y en buen estado en todo momento dependiendo la disciplina deportiva a que se dedique, y
+
+XIV. Estar informado acerca de las convocatorias para estímulos y apoyos deportivos que se entreguen por el Organismo Rector de la Cultura Física y Deporte en el Estado, así como de los municipios.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+###### Artículo 77 Ter.
+
+Son obligaciones del deportista:
+
+I. Desempeñar eficaz y adecuadamente su actividad física y deportiva, a fin de construir un ejemplo para la niñez, la juventud y la sociedad quintanarroense;
+
+II. Cumplir cabalmente con los estatutos y reglamentos de su deporte o especialidad;
+
+III. En caso de estar comprendido entre quienes reciban estímulos o apoyos, en dinero o en especie por parte del Estado o municipios, cumplir con los entrenamientos respectivos y asistir a las competencias de distintos niveles, al ser requerido;
+
+IV. Comunicar inmediatamente y por escrito, al Organismo Rector de Cultura Física y Deporte en el Estado, cuando tenga interés de formar parte en las organizaciones o clubes deportivos profesionales, tratándose de deportistas menores de 18 años inscritos en el registro estatal de deporte;
+
+V. Representar a su municipio, estado y país en cualquier evento deportivo a que fuere convocado;
+
+VI. Asistir a las reuniones, premiaciones y estímulos a los que fuere convocado;
+
+VII. Cuidar y vigilar el adecuado mantenimiento de las instalaciones en que practique su deporte, para que éstas se conserven en buen estado;
+
+VIII. Fomentar la práctica del deporte en todas las formas y medios a su alcance, y
+
+IX. Las demás que le sean señaladas por la presente ley y su reglamento.
+
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE MARZO DE 2016)</small>
 
-### Capítulo VII. Del Deporte Profesional
-
-### Capítulo VIII. De los Riesgos y Responsabilidad Civil
+### Capítulo VI. Del Control de Sustancias Prohibidas y Métodos no Reglamentarios en el Deporte
 
 ###### Artículo 78.
 
@@ -757,9 +1037,7 @@ Los poderes públicos en el ámbito de sus respectivas competencias, adoptarán 
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE MARZO DE 2016)</small>
 
-### Capítulo IX. De la Prevención de la Violencia en el Deporte
-
-> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2016)</small>
+### Capítulo VII. Del Deporte Profesional
 
 ###### Artículo 91.
 
@@ -773,15 +1051,15 @@ Los deportistas que participen dentro del deporte profesional, se regirán por l
 
 Los deportistas profesionales que integren preselecciones y selecciones estatales, que involucren oficialmente la representación del Estado en competiciones nacionales, gozarán de los mismos derechos e incentivos establecidos dentro de esta ley, para los deportistas de alto rendimiento.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
 
 ###### Artículo 94.
 
-El Organismo Rector de la Cultura Física y el Deporte en el Estado, coordinará y promoverán la integración de comisiones Estatales de Deporte Profesional, misma (sic) que se integrarán al Registro Estatal del Deporte del SIEDE de acuerdo a lo establecido en el reglamento de esta ley.
+El Organismo Rector de la Cultura Física y el Deporte en el Estado, coordinará y promoverá la integración de Comisiones Estatales de Deporte Profesional, misma (sic) que se integrarán al Registro Estatal de la Cultura Física y Deporte del SIEDE de acuerdo a lo establecido en el Reglamento de esta Ley.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE MARZO DE 2016)</small>
 
-### Capítulo Único. De las Infracciones y Sanciones
+### Capítulo VIII. De los Riesgos y Responsabilidad Civil
 
 ###### Artículo 95.
 
@@ -818,6 +1096,10 @@ El Cuerpo de Protección Civil prestará toda la ayuda posible a las unidades de
 La aplicación de las disposiciones previstas en este Capítulo, se realizará sin perjuicio de dar cumplimiento a otros ordenamientos, que en materia de espectáculos públicos dicte el Estado, y los Municipios y los Organismos encargados de la organización de espectáculos relacionados con el deporte profesional.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MARZO DE 2016)</small>
+
+### Capítulo IX. De la Prevención de la Violencia en el Deporte
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2016)</small>
 
 ###### Artículo 100 Bis.
 
@@ -928,6 +1210,8 @@ Los integrantes del SIEDE, podrán revisar continuamente sus disposiciones regla
 Asimismo, brindarán las facilidades y ayuda necesarias a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en el deporte, a fin de conseguir su correcta y adecuada implementación.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MARZO DE 2016)</small>
+
+### Capítulo Único. De las Infracciones y Sanciones
 
 ## Título Cuarto. Infracciones y Sanciones
 
@@ -1098,3 +1382,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los Ayuntamientos, con la participación de la dependencia, órgano o área que se encargue de la materia de la cultura física y el deporte, deberán adecuar las disposiciones reglamentarias correspondientes conforme a lo previsto en este decreto.
 
 TERCERO. Se derogan todas las disposiciones que contravengan al presente decreto.
+
+P.O. 3 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 321 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE CULTURA FÍSICA Y DEPORTE".]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de la entrada en vigencia de la reforma a la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de cultura física y deporte, aprobada por la H. XV Legislatura, el 18 de abril del año 2018, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. Los Municipios deberán dentro del plazo (sic) 120 días hábiles expedir o, en su caso, adecuar sus disposiciones reglamentarias para el cumplimiento del presente Decreto.
