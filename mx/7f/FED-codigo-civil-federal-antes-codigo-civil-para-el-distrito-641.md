@@ -4,7 +4,7 @@ identifier: "FED-codigo-civil-federal-antes-codigo-civil-para-el-distrito-641"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2018-03-09"
+last_updated: "2019-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2025-11-14"
 
 CÓDIGO CIVIL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JUNIO DE 2019.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -242,7 +242,7 @@ El domicilio legal de una persona física es el lugar donde la ley le fija su re
 
 Se reputa domicilio legal:
 
-I.- Del menor de edad no emancipado, el de la persona a cuya patria potestad está sujeto;
+I.- (DEROGADA, D.O.F. 3 DE JUNIO DE 2019)
 
 II.- Del menor de edad que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
 
@@ -658,13 +658,13 @@ VI.- El nombre del juez que pronunció el auto de discernimiento y la fecha de �
 
 Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina del Registro, lo prevenido en el artículo 83.
 
-### CAPITULO VI. De las actas de emancipación
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 3 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+### CAPITULO VI. De las Actas de Emancipación
 
 ###### ARTICULO 93.
 
-En los casos de emancipación por efecto del matrimonio, no se extenderá acta por separado; será suficiente para acreditarla, el acta de matrimonio.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 94.
 
@@ -698,9 +698,11 @@ Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o 
 
 Al escrito a que se refiere el artículo anterior, se acompañará:
 
-I.- El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer mayor de catorce;
+> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2019)</small>
 
-II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 149, 150 y 151;
+I.- El acta de nacimiento de los pretendientes;
+
+II.- (DEROGADA, D.O.F. 3 DE JUNIO DE 2019)
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
@@ -708,7 +710,9 @@ IV.- Un certificado suscrito por un médico titulado que asegure, bajo protesta 
 
 Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial.
 
-V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar ese convenio ni aun a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 189 y 211, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado.
+> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2019)</small>
+
+V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. No puede dejarse de presentar este convenio ni aun a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 189 y 211, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado.
 
 Si de acuerdo con lo dispuesto en el artículo 185 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura.
 
@@ -722,11 +726,11 @@ VII.- Copia de la dispensa de impedimentos, si los hubo.
 
 En el caso de que los pretendientes, por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlo el Juez del Registro Civil, con los datos que los mismos pretendientes le suministren.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
 
 ###### ARTICULO 100.
 
-El Juez del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 98 serán ratificadas bajo protesta de decir verdad, ante el mismo Juez del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
+El Juez del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 98 serán ratificadas bajo protesta de decir verdad, ante el mismo Juez del Registro Civil.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -750,11 +754,15 @@ Se levantará luego el acta de matrimonio en la cual se hará constar:
 
 I.- Los nombres, apellidos, edad, ocupación, domicilio y lugar de nacimiento de los contrayentes;
 
-II.- Si son mayores o menores de edad;
+> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2019)</small>
+
+II.- Si son mayores de edad;
 
 III.- Los nombres, apellidos, ocupación y domicilio de los padres;
 
-IV.- El consentimiento de éstos, de los abuelos o tutores, o de las autoridades que deban suplirlo;
+> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2019)</small>
+
+IV.- El consentimiento de las personas contrayentes;
 
 V.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
@@ -776,9 +784,11 @@ En el acta se imprimirán las huellas digitales de los contrayentes.
 
 Bis.- La celebración conjunta de matrimonios no exime al Juez del cumplimiento estricto de las solemnidades a que se refieren los artículos anteriores.
 
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+
 ###### ARTICULO 104.
 
-Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 98, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
+Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 98, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -824,13 +834,13 @@ Los Jueces del Registro Civil sólo podrán negarse a autorizar un matrimonio, c
 
 El Juez del Registro Civil, que sin motivo justificado, retarde la celebración de un matrimonio, será sancionado la primera vez con multa de $1,000.00 y en caso de reincidencia con destitución del cargo.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
 
 ###### ARTICULO 113.
 
-El Juez del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
+El Juez del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad, de su mayoría de edad y de su aptitud para contraer matrimonio.
 
-También podrá exigir declaración bajo protesta a los testigos que los interesados presenten; a las personas que figuren como padres o tutores de los pretendientes, y a los médicos que subscriban el certificado exigido por la fracción IV del artículo 98.
+También podrá exigir declaración bajo protesta a los testigos que los interesados presenten y a los médicos que suscriban el certificado exigido por la fracción IV del artículo 98.
 
 ### CAPITULO VIII. De las actas de divorcio
 
@@ -1056,55 +1066,49 @@ El matrimonio debe celebrarse ante los funcionarios que establece la ley y con l
 
 Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
 
 ###### ARTICULO 148.
 
-Para contraer matrimonio el hombre necesita haber cumplido dieciséis años y la mujer catorce. El Jefe de Gobierno del Distrito Federal o los Delegados según el caso, pueden conceder dispensas de edad por causas graves y justificadas.
-
-> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
+Para contraer matrimonio es necesario haber cumplido dieciocho años de edad.
 
 ###### ARTICULO 149.
 
-El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre o de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
-
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 150.
 
-Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, suplirá el consentimiento, en su caso, el Juez de lo Familiar de la residencia del menor.
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 151.
 
-Los interesados pueden ocurrir al Jefe del Gobierno del Distrito Federal o a los Delegados, según el caso, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las mencionadas Autoridades, después de levantar una información sobre el particular, suplirán o no el consentimiento.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 152.
 
-Si el juez, en el caso del artículo 150, se niega a suplir el consentimiento para que se celebre un matrimonio, los interesados ocurrirán al Tribunal Superior respectivo, en los términos que disponga el Código de Procedimientos Civiles.
-
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 153.
 
-El ascendiente o tutor que ha prestado su consentimiento firmando la solicitud respectiva y ratificándola ante el Juez del Registro Civil, no puede revocarlo después, a menos que haya justa causa para ello.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 154.
 
-Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo; pero siempre que el matrimonio se verifique dentro del término fijado en el artículo 101.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 155.
 
-El juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, si no por justa causa superveniente.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 156.
 
 Son impedimentos para celebrar el contrato de matrimonio:
 
-I.- La falta de edad requerida por la ley, cuando no haya sido dispensada;
+> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2019)</small>
 
-II.- La falta de consentimiento del que, o los que ejerzan la patria potestad, del tutor o del juez, en sus respectivos casos;
+I.- La falta de edad requerida por la ley;
+
+II.- (DEROGADA, D.O.F. 3 DE JUNIO DE 2019)
 
 III.- El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
@@ -1126,7 +1130,9 @@ IX.- Padecer alguno de los estados de incapacidad a que se refiere la fracción 
 
 X.- El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer;
 
-De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+
+De estos impedimentos sólo es dispensable el parentesco de consanguinidad en línea colateral desigual.
 
 ###### ARTICULO 157.
 
@@ -1136,15 +1142,17 @@ De estos impedimentos sólo son dispensables la falta de edad y el parentesco de
 
 La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
 
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+
 ###### ARTICULO 159.
 
-El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el Presidente Municipal respectivo, sino cuando hayan sido aprobadas las cuentas de la tutela.
+El tutor no puede contraer matrimonio con la persona que ha estado bajo su guarda, salvo en el caso de que obtenga dispensa, la cual se le concederá por el Presidente Municipal respectivo, cuando hayan sido aprobadas las cuentas de la tutela.
 
 Esta prohibición comprende también al curador y a los descendientes de éste y del tutor.
 
 ###### ARTICULO 160.
 
-Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo anterior, el juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre mientras se obtiene la dispensa.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 161.
 
@@ -1212,15 +1220,15 @@ Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la 
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
 
 ###### ARTICULO 172.
 
-El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél, salvo en lo relativo a los actos de administración y de dominio de los bienes comunes.
+El marido y la mujer, tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél, salvo en lo relativo a los actos de administración y de dominio de los bienes comunes.
 
 ###### ARTICULO 173.
 
-El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 174.
 
@@ -1256,7 +1264,7 @@ Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del m
 
 ###### ARTICULO 181.
 
-El menor que con arreglo a la ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 182.
 
@@ -1280,11 +1288,13 @@ Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, cons
 
 En este caso, la alteración que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el Protocolo en que se otorgaron las primitivas capitulaciones, y en la inscripción del Registro Público de la Propiedad. Sin llenar estos requisitos, las alteraciones no producirán efecto contra tercero.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2019)</small>
+
 ###### ARTICULO 187.
 
-La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos; pero si éstos son menores de edad, deben intervenir en la disolución de la sociedad, prestando su consentimiento, las personas a que se refiere el artículo 181.
+La sociedad conyugal puede terminar antes de que se disuelva el matrimonio, si así lo convienen los esposos.
 
-Esta misma regla se observará cuando la sociedad conyugal se modifique durante la menor edad de los consortes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 3 DE JUNIO DE 2019)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
@@ -1410,11 +1420,13 @@ Puede haber separación de bienes en virtud de capitulaciones anteriores al matr
 
 La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objeto de la sociedad conyugal que deben constituir los esposos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2019)</small>
+
 ###### ARTICULO 209.
 
-Durante el matrimonio la separación de bienes puede terminar para ser substituida por la sociedad conyugal; pero si los consortes son menores de edad, se observará lo dispuesto en el artículo 181.
+Durante el matrimonio la separación de bienes puede terminar para ser substituida por la sociedad conyugal.
 
-Lo mismo se observará cuando las capitulaciones de separación se modifiquen durante la menor edad de los cónyuges.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 3 DE JUNIO DE 2019)</small>
 
 ###### ARTICULO 210.
 
@@ -1498,7 +1510,7 @@ Las donaciones antenupciales son revocables y se entienden revocadas por el adul
 
 ###### ARTICULO 229.
 
-Los menores pueden hacer donaciones antenupciales, pero sólo con intervención de sus padres o tutores, o con aprobación judicial.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 230.
 
@@ -1544,29 +1556,19 @@ La acción de nulidad que nace de error, sólo puede deducirse por el cónyuge e
 
 ###### ARTICULO 237.
 
-La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará de ser causa de nulidad:
-
-I.- Cuando haya habido hijos;
-
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1970)</small>
-
-II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho años; y ni él ni el otro cónyuge hubieren intentado la nulidad.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 238.
 
-La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquel o aquellos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 239.
 
-Cesa esta causa de nulidad:
-
-I.- Si han pasado los treinta días sin que se haya pedido;
-
-II.- Si dentro de este término, el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil, o practicando otros actos que a juicio del juez sean tan conducentes al efecto, como los expresados.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 240.
 
-La nulidad por falta de consentimiento del tutor o del juez, podrá pedirse dentro del término de treinta días por cualquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -1698,9 +1700,11 @@ I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que
 
 II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 159, y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 158 y 289.
 
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+
 ###### ARTICULO 265.
 
-Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código de la materia.
+Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor, incurrirán en las penas que señale el Código de la materia.
 
 ### CAPITULO X. Del divorcio
 
@@ -1742,7 +1746,7 @@ XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro;
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
-XII.- La negativa injustificada de los cónyuges a cumplir con las obligaciones señaladas en el Artículo 164, sin que sea necesario agotar previamente los procedimientos tendentes (sic) a su cumplimiento, así como el incumplimiento, sin justa causa, por alguno de los cónyuges, de la sentencia ejecutoriada en el caso del Artículo 168;
+XII.- La negativa injustificada de los cónyuges a cumplir con las obligaciones señaladas en el Artículo 164, sin que sea necesario agotar previamente los procedimientos tendentes a su cumplimiento, así como el incumplimiento, sin justa causa, por alguno de los cónyuges, de la sentencia ejecutoriada en el caso del Artículo 168;
 
 XIII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
 
@@ -1784,15 +1788,21 @@ Son causas de divorcio los actos inmorales ejecutados por el marido o por la muj
 
 (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2019)</small>
 
 ###### ARTICULO 272.
 
-Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Juez del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+Cuando ambos consortes convengan en divorciarse, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Juez del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 El Juez del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Juez del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.
 
-El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, son menores de edad y no han liquidado su sociedad conyugal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia.
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+
+El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos y no han liquidado su sociedad conyugal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
@@ -2692,9 +2702,11 @@ ARTICULO 410 F.- En igualdad de circunstancias se dará preferencia en la adopci
 
 En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos, cualquiera que sea su estado, edad y condición.
 
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+
 ###### ARTICULO 412.
 
-Los hijos menores de edad no emancipados, están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
+Los hijos menores de edad están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
 
 ###### ARTICULO 413.
 
@@ -2824,7 +2836,7 @@ III.- Cuando su administración sea notoriamente ruinosa para los hijos.
 
 ###### ARTICULO 435.
 
-Cuando por la ley o por la voluntad del padre, el hijo tenga la administración de los bienes, se le considerará respecto de la administración como emancipado, con la restricción que establece la ley para enajenar, gravar o hipotecar bienes raíces.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 436.
 
@@ -2842,9 +2854,9 @@ Al efecto, el precio de la venta se depositará en una institución de crédito,
 
 El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
 
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1970)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2019)</small>
 
-I.- Por la emancipación derivada del matrimonio o la mayor edad de los hijos;
+I.- Por la mayoría de edad de los hijos;
 
 II.- Por la pérdida de la patria potestad;
 
@@ -2864,9 +2876,11 @@ Los jueces tienen facultad de tomar las medidas necesarias para impedir que, por
 
 Estas medidas se tomarán a instancias de las personas interesadas, del menor cuando hubiere cumplido catorce años, o del Ministerio Público en todo caso.
 
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+
 ###### ARTICULO 442.
 
-Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
+Las personas que ejerzan la patria potestad deben entregar a sus hijos, cuando lleguen a la mayoría de edad, todos los bienes y frutos que les pertenecen.
 
 ### CAPITULO III. De los modos de acabarse y suspenderse la patria potestad
 
@@ -2876,9 +2890,7 @@ La patria potestad se acaba:
 
 I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1970)</small>
-
-II.- Con la emancipación, derivada del matrimonio.
+II.- (DEROGADA, D.O.F. 3 DE JUNIO DE 2019)
 
 III.- Por la mayor edad del hijo.
 
@@ -2960,11 +2972,9 @@ III.- (DEROGADA, D.O.F. 23 DE JULIO DE 1992)
 
 IV.- (DEROGADA, D.O.F. 23 DE JULIO DE 1992)
 
-> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
-
 ###### ARTICULO 451.
 
-Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para los actos que se mencionen en el artículo relativo al capítulo I del título décimo de este libro.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 452.
 
@@ -3070,9 +3080,11 @@ El nombramiento de tutor testamentario hecho en los términos del artículo ante
 
 Si los ascendientes excluidos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
 
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+
 ###### ARTICULO 473.
 
-El que en su testamento, aunque sea un menor no emancipado, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
+El que en su testamento deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
 
 ###### ARTICULO 474.
 
@@ -3216,7 +3228,7 @@ Si el juez no hace oportunamente el nombramiento de tutor, es responsable de los
 
 ###### ARTICULO 499.
 
-Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 > <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
@@ -3808,9 +3820,11 @@ La obligación de dar cuenta pasa a los herederos del tutor; y si alguno de ello
 
 La garantía dada por el tutor no se cancelará, sino cuando las cuentas hayan sido aprobadas.
 
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+
 ###### ARTICULO 605.
 
-Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo, ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas mismas.
+Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo, relativo a la administración de la tutela o a las cuentas mismas.
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
@@ -3906,9 +3920,7 @@ Designarán por sí mismos al curador, con aprobación judicial:
 
 I.- Los comprendidos en el artículo 496, observándose lo que allí se dispone respecto de esos nombramientos;
 
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1970)</small>
-
-II.- Los menores de edad emancipados por razón del matrimonio, en el caso previsto en la fracción II del artículo 643.
+II.- (DEROGADA, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 625.
 
@@ -4004,7 +4016,7 @@ Son nulos todos los actos de administración ejecutados y los contratos celebrad
 
 ###### ARTICULO 636.
 
-Son también nulos los actos de administración y los contratos celebrados por los menores emancipados, si son contrarios a las restricciones establecidas por el artículo 643.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 637.
 
@@ -4016,7 +4028,7 @@ La acción para pedir la nulidad, prescribe en los términos en que prescriben l
 
 ###### ARTICULO 639.
 
-Los menores de edad no pueden alegar la nulidad de que hablan los artículos 635 y 636, en las obligaciones que hubieren contraído sobre materias propias de la profesión o arte en que sean peritos.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 640.
 
@@ -4026,25 +4038,17 @@ Tampoco pueden alegarla los menores, si han presentado certificados falsos del R
 
 ### CAPITULO I. De la emancipación
 
-> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
-
 ###### ARTICULO 641.
 
-El matrimonio del menor de dieciocho años produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 642.
 
 (DEROGADO, D.O.F. 28 DE ENERO DE 1970)
 
-> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
-
 ###### ARTICULO 643.
 
-El emancipado tiene la libre administración de sus bienes, pero simpre (sic) necesita durante su menor edad:
-
-I.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces.
-
-II.- De un tutor para negocios judiciales.
+(DEROGADO, D.O.F. 3 DE JUNIO DE 2019)
 
 ###### ARTICULO 644.
 
@@ -12965,3 +12969,11 @@ D.O.F. 9 DE MARZO DE 2018.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las Legislaturas Locales de todos los Estados que conforman la República Mexicana deberán ajustar su legislación civil o familiar, según sea el caso, conforme al presente Decreto, en un término no mayor a 120 días hábiles posteriores a su entrada en vigor.
+
+D.O.F. 3 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL FEDERAL, EN MATERIA DE PROHIBICIÓN DEL MATRIMONIO INFANTIL”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren pendientes de resolución, continuarán su trámite de conformidad con la legislación aplicable en el momento de la presentación de estos.
