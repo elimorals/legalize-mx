@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-el-acceso-a-los-servicios-del-tribunal-128664"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-04-11"
-last_updated: "2018-04-11"
+last_updated: "2019-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO PARA EL ACCESO A LOS SERVICIOS DEL TRIBUNAL ELECTRÓNICO DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JUNIO DE 2019.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el miércoles 11 de abril de 2018.
 
@@ -59,6 +59,18 @@ Firma Electrónica Judicial del Estado de México (FEJEM): Es la Firma Electrón
 
 Usuario: Se denomina así a toda aquella persona que hace uso de los servicios del Tribunal Electrónico.
 
+> <small>(ADICIONADO, G.G. 3 DE JUNIO DE 2019)</small>
+
+Expediente electrónico. Es la copia digitalizada de todas las promociones y documentos presentados por las partes, así como los acuerdos, resoluciones o sentencias y toda información que conste en el expediente físico o electrónico.
+
+> <small>(ADICIONADO, G.G. 3 DE JUNIO DE 2019)</small>
+
+Correo electrónico institucional. Servicio de red suministrado por el Poder Judicial que permite a las partes recibir notificaciones electrónicas.
+
+> <small>(ADICIONADO, G.G. 3 DE JUNIO DE 2019)</small>
+
+Notificación electrónica. Acto mediante el cual se hace saber a las partes los acuerdos y resoluciones dictadas por los órganos jurisdiccionales a través del correo electrónico institucional.
+
 Interés jurídico
 
 ###### Artículo 4.
@@ -91,23 +103,29 @@ Los módulos externos permiten la consulta controlada de los procedimientos juri
 
 Acceso al Tribunal Electrónico
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE JUNIO DE 2019)</small>
+
 ###### Artículo 6.
 
-Para tener acceso a los servicios del Tribunal Electrónico se deberán satisfacer los siguientes requisitos:
+Para tener acceso y usar los servicios electrónicos se deberán satisfacer los siguientes requisitos:
 
-1. Llenar el formato de registro disponible en la página web del Poder Judicial, y
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2019)</small>
 
-2. Acudir ante el secretario de acuerdos del órgano jurisdiccional del Poder Judicial y presentar el formato impreso de registro, así como una identificación oficial con fotografía (INE, Cédula Profesional o Pasaporte), con el fin de validar los datos asentados en el referido registro.
+1. Contar con la FEJEM.
+
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2019)</small>
+
+2. Solicitar ante el órgano jurisdiccional la autorización para el acceso a los servicios del Tribunal Electrónico.
 
 Cumplido lo anterior, el solicitante obtendrá su nombre de usuario y él mismo deberá diseñar, bajo las instrucciones del personal del órgano Jurisdiccional, una contraseña de entre cuatro y ocho dígitos alfanuméricos, los cuales le servirán para acceder a los servicios del Tribunal Electrónico.
 
 La responsabilidad en el uso de la contraseña será exclusivamente de la persona propietaria de los mismos, por ser los creadores y conocedores de las mismas.
 
-FEJEM
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2019)</small>
 
 ###### Artículo 7.
 
-Para poder hacer uso del Tribunal Electrónico se deberá contar con la FEJEM.
+El usuario que ingrese a los servicios electrónicos, ya sea interno o externo, será responsable de su uso y de la información que obtenga, en este sentido, queda estrictamente prohibido el uso para fines diversos a su naturaleza, así como su difusión en términos de los ordenamientos legales de la materia.
 
 ### CAPÍTULO IV. De la Administración del Tribunal Electrónico
 
@@ -137,11 +155,13 @@ Mantenimiento
 
 Cuando por medidas de protección, mantenimiento o fallas técnicas se realice una suspensión general o parcial del servicio, que no estaba prevista, el Consejo de la Judicatura adoptará las medidas necesarias para la realización de actuaciones judiciales por otro medio, las cuales serán difundidas por la página web del Poder Judicial, as! (sic) como por los demás medios que se estimen necesarios.
 
-Base de Datos del Tribunal Electrónico
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2019)</small>
+
+Base de datos del Tribunal Electrónico.
 
 ###### Artículo 12.
 
-La base de datos del Tribunal Electrónico se mantendrá actualizada diariamente y su información se considera parte del archivo judicial.
+La base de datos del Tribunal Electrónico se mantendrá actualizada diariamente y su información se considera parte del archivo judicial, su permanencia en el Sistema será determinada por el Consejo de la Judicatura.
 
 ### CAPÍTULO V. De la Consulta de Expedientes Electrónicos
 
@@ -237,6 +257,14 @@ En caso de resolver procedente la solicitud de notificación electrónica el mó
 
 Únicamente se enviarán notificaciones electrónicas a través del Tribunal Electrónico.
 
+> <small>(ADICIONADO, G.G. 3 DE JUNIO DE 2019)</small>
+
+Prohibición a los interesados
+
+###### Artículo 23.
+
+1.- Las partes o los interesados tienen prohibido utilizar el correo electrónico institucional para fines distintos a la recepción de notificaciones judiciales.
+
 ### CAPÍTULO VIII. De los Medios de Comunicación en el Proceso (sic) Comunicación con otro Órgano Jurisdiccional
 
 ###### Artículo 24.
@@ -244,6 +272,18 @@ En caso de resolver procedente la solicitud de notificación electrónica el mó
 Cuando se ordene alguna comunicación procesal con algún otro órgano jurisdiccional del Estado, podrán enviarse a través del sistema (sic) Tribunal Electrónico. Estos documentos serán generados con la información contenida en la base de datos.
 
 Cuando se trate de exhortos o despachos se generará un expediente electrónico independiente al juicio de donde se derive. En lo conducente se deberán observar los Lineamientos para la Recepción y Envío de Exhortos y Despachos entre los Órganos Jurisdiccionales del Poder Judicial del Estado de México, y entre éstos con otros Tribunales, a través de Medios Electrónicos.
+
+> <small>(ADICIONADO, G.G. 3 DE JUNIO DE 2019)</small>
+
+Comunicación con un Juzgado en Línea.
+
+###### Artículo 24.
+
+1.- En caso que el exhorto o despacho se genere y envié electrónicamente por un Juzgado en Línea a un órgano jurisdiccional que cuente con sistema de expediente electrónico, éste después de diligenciarlo lo regresará vía electrónica a través de la misma plataforma.
+
+Cuando el órgano jurisdiccional en línea requiera enviar un exhorto a un juzgado que no cuente con sistema de expediente electrónico, lo remitirá vía correo electrónico, y el juez exhortado una vez diligenciado lo digitalizará y regresará de la misma forma.
+
+Las actuaciones que de forma física practique el secretario, notificador o ejecutor de los juzgados exhortados, deberán digitalizarlas en el expediente electrónico que se forma con motivo del exhorto electrónico, y devolverlo por la misma vía, formando un legajo con dichas actuaciones para referencia.
 
 ### CAPÍTULO IX. De los Servicios Accesorios
 
@@ -308,3 +348,23 @@ SECRETARIA GENERAL DE ACUERDOS
 M. EN C. P. FABIOLA CATALINA APARICIO PERALES
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 3 DE JUNIO DE 2019.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Por necesidades del servicio, para una mejor administración de los servicios electrónicos del Poder Judicial del Estado de México, con efectos a partir del tres de junio de dos mil diecinueve, se dejan sin efecto los lineamientos del sistema del expediente electrónico así como los lineamientos para las notificaciones electrónicas del Poder Judicial del Estado de México, emitidos mediante acuerdo del Pleno del Consejo de la Judicatura, el diecinueve de junio de dos mil trece y dados a conocer a través de la circular 15/2013.
+
+SEGUNDO En mérito de lo anterior, se modifican los artículos 6, 7 y 12; se adicionan los artículos 23.1, 24.1, y definiciones al artículo 3, todos del Reglamento para el Acceso a los Servicios del Tribunal Electrónico del Poder Judicial del Estado de México, […]
+
+[…]
+
+TERCERO. El Reglamento para el Acceso a los servicios del Tribunal Electrónico del Poder Judicial del Estado de México, aplica para todos los órganos jurisdiccionales que cuentan con el sistema de expediente electrónico.
+
+CUARTO. Cualquier situación no prevista en el presente será resuelta por el Consejo de la Judicatura mexiquense.
+
+QUINTO. El presente acuerdo entrará en vigor a partir del cuatro de junio de dos mil diecinueve.
+
+SEXTO. Por tratarse el presente de un Acuerdo de interés general, se determina su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado, en el Boletín Judicial y en la página de internet oficial del Poder Judicial del Estado de México.
