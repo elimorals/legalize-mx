@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2019-05-03"
+last_updated: "2019-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -209,19 +209,37 @@ b) Tener acceso preferente a los servicios de salud, en los términos del párra
 
 c) Recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a todo aquello que favorezca su cuidado personal.
 
-IV. La educación, recreación, información y participación, que incluyen:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE JUNIO DE 2019)</small>
 
-a) Conformar organizaciones para promover su desarrollo e incidir en las acciones dirigidas a este sector;
+IV. La movilidad sustentable, educación, recreación, información y participación, que incluyen:
 
-b) Recibir información sobre las instituciones que prestan servicios para su atención integral;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 2019)</small>
 
-c) Recibir de manera preferente, educación conforme lo señala el artículo 3º de la Constitución Política de los Estados Unidos Mexicanos;
+a) Tener acceso preferente a los servicios de transporte público en los términos del Título Tercero del Capítulo V de la Ley de Transporte para la Movilidad Sustentable del Estado de Nuevo León;
 
-d) Participar en la vida cultural, deportiva y recreativa de su comunidad;
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
 
-e) Participar en los procesos productivos, de educación y capacitación de su comunidad; y
+b) Conformar organizaciones para promover su desarrollo e incidir en las acciones dirigidas a este sector;
 
-f) Formar parte de los diversos órganos de representación y consulta ciudadana.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+c) Recibir información sobre las instituciones que prestan servicios para su atención integral;
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+d) Recibir de manera preferente, educación conforme lo señala el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+e) Participar en la vida cultural, deportiva y recreativa de su comunidad;
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+f) Participar en los procesos productivos, de educación y capacitación de su comunidad; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 3 DE JUNIO DE 2019)</small>
+
+g) Formar parte de los diversos órganos de representación y consulta ciudadana.
 
 V. El trabajo, que comprende:
 
@@ -783,7 +801,7 @@ Las Secretarías y demás Dependencias que integran las Administración Pública
 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 2019)</small>
 
-Para ello, deberán adecuarse espacios e implementarse mecanismos que, durante el tiempo de espera, garanticen su descanso como: sillas, bancas, sillones, sillas de ruedas; así como mecanismos para la atención inmediata, e instalación ventanillas preferentes o filas especiales que deberán estar adecuadamente señaladas para su fácil identificación y acceso, debiéndose de implementar acciones o estrategias que garanticen que por cada persona menor de sesenta años que se atienda, se le dé preferencia de atención a cuando menos dos Personas Adultas Mayores.
+Para ello, deberán adecuarse espacios e implementarse mecanismos que, durante el tiempo de espera, garanticen su descanso como: sillas, bancas, sillones, sillas de ruedas; así como mecanismos para la atención inmediata, e instalación de ventanillas preferentes o filas especiales que deberán estar adecuadamente señaladas para su fácil identificación y acceso, debiéndose de implementar acciones o estrategias que garanticen que por cada persona menor de sesenta años que se atienda, se le dé preferencia de atención a cuando menos dos Personas Adultas Mayores.
 
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -795,7 +813,7 @@ La atención preferencial, es un beneficio que sólo podrá otorgarse para reali
 
 ###### Artículo 40.
 
-La Secretaría Desarrollo Social del Estado de Nuevo León, promoverá la celebración de convenios de concertación con la iniciativa privada, a fin de que la atención preferencial para las Personas Adultas Mayores, también sea proporcionado en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
+La Secretaría Desarrollo Social del Estado de Nuevo León, promoverá la celebración de convenios de concertación con la iniciativa privada, a fin de que la atención preferencial para las Personas Adultas Mayores, también sea proporcionado (sic) en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
 
 ## TÍTULO SÉPTIMO
 
@@ -859,7 +877,7 @@ Se crea la Procuraduría de la Defensa del Adulto Mayor, como un Órgano Adminis
 
 ###### Artículo 50.
 
-La Procuraduría de la Defensa del Adulto Mayor tendrá como objetivo la atención a las personas adultas mayores en situación de riesgo y desamparo, en coadyuvando con el Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D., en el cumplimiento de las atribuciones que le confiere el artículo 21 de esta Ley.
+La Procuraduría de la Defensa del Adulto Mayor tendrá como objeto la atención a las personas adultas mayores en situación de riesgo y desamparo, en coadyuvando con el Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D., en el cumplimiento de las atribuciones que le confiere el artículo 21 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2005)</small>
 
@@ -881,7 +899,7 @@ VI. Promover ante la autoridad competente cualquier trámite, querella, denuncia
 
 VII. Recibir quejas, denuncias e informes sobre la violación de los derechos de las personas adultas mayores, haciéndolas del conocimiento de las autoridades competentes y de ser (sic)
 
-VIII. procedente ejercitar las acciones legales correspondientes; (sic)
+VIII. (sic) procedente ejercitar las acciones legales correspondientes;
 
 IX. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de discriminación, maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acto que les perjudique a las personas adultas mayores;
 
@@ -999,7 +1017,7 @@ P.O. 27 DE JULIO DE 2005.
 
 Artículo Primero.- Este Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
 
-Artículo Segundo.- La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D. deberá aprobar el Reglamento Interior de la Procuraduría de la Defensa del Adulto Mayor en un plazo no mayor a noventa días contados a partir de la fecha de entrada en vigor de la presente ley.
+Artículo Segundo.- La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D. deberá aprobar el Reglamento Interior de la Procuraduría de la Defensa del Adulto Mayor en un plazo no mayor a noventa días contados a partir de la entrada en vigor de la presente Ley.
 
 Artículo Tercero.- El Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D. conforme a su presupuesto y con cargo a él, ejercerá las acciones que resulten necesarias para la asignación del personal y presupuesto para el funcionamiento de la Procuraduría de la Defensa del Adulto Mayor.
 
@@ -1013,7 +1031,7 @@ P.O. 24 DE DICIEMBRE DE 2010.
 
 DECRETO NÚMERO 144 POR EL QUE SE REFORMAN LOS ARTÍCULOS 5° FRACCIÓN II INCISOS D) Y E); 12 FRACCIONES IV Y V Y 43; SE ADICIONA UN INCISO F) A LA FRACCIÓN II DEL ARTÍCULO 5°, Y UNA FRACCIÓN VI AL ARTÍCULO 12 PASANDO LA VI A SER VII, TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN.
 
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Único.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 8 DE ENERO DE 2016.
 
@@ -1069,4 +1087,12 @@ P.O. 3 DE MAYO DE 2019.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-Segundo.- Las acciones que realicen las dependencias de la Administración Pública Estado y de los municipios que correspondan para dar cumplimiento al presente Decreto, deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
+Segundo.- Las acciones que realicen las dependencias de la Administración Pública del Estado y de los municipios que correspondan para dar cumplimiento al presente Decreto, deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
+
+P.O. 3 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 129. SE REFORMA POR MODIFICACIÓN EL PRIMER PÁRRAFO DE LA FRACCIÓN IV; Y SUS INCISOS A) AL F); Y POR ADICIÓN UN INCISO G) A LA FRACCIÓN IV, TODOS DEL ARTÍCULO 5° DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las acciones que realicen las dependencias de la Administración Pública del Estado y de los Municipios, que correspondan para dar cumplimiento al presente Decreto, deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14 de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
