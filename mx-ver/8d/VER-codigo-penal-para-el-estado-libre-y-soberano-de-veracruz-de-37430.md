@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2018-11-29"
+last_updated: "2019-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JUNIO DE 2019.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -3187,6 +3187,8 @@ V. Al que use claves bancarias o de banca electrónica, sin la autorización de 
 
 ### CAPÍTULO II. CONTRA EL RESPETO A LOS MUERTOS
 
+> <small>(REFORMADO, G.O. 3 DE JUNIO DE 2019)</small>
+
 ###### Artículo 284.
 
 Se impondrán de seis meses a dos años de prisión y multa hasta de cincuenta días de salario a quien públicamente ejecute o haga ejecutar actos obscenos.
@@ -3273,13 +3275,17 @@ III. Sustraiga o esparza las cenizas de un cadáver o restos humanos.
 
 ###### Artículo 298.
 
-Se impondrán prisión de uno a cinco años y multa hasta de cuarenta días de salario a quien:
+Se impondrán prisión de uno a cinco años y multa hasta de cien Unidades de Medida y Actualización a quien:
 
 I. Viole un túmulo, sepulcro, sepultura o féretro;
 
-II. Profane un cadáver o restos humanos, con actos de vilipendio, mutilación, brutalidad o necrofilia; o
+II. Profane un cadáver o restos humanos, con actos de vilipendio, mutilación, brutalidad o necrofilia;
 
-III. Viole o vilipendie el lugar donde repose un cadáver, restos humanos o sus cenizas.
+III. Viole o vilipendie el lugar donde repose un cadáver, restos humanos o sus cenizas; o
+
+IV. Fotografíe, video grabe o difunda imágenes de un cadáver o restos humanos que se encuentren bajo resguardo de una institución de naturaleza forense, sin estar legalmente facultado para ello o para fines distintos a los establecidos en la Ley.
+
+En el caso previsto en la fracción IV, si quien comete este delito es servidor público o ejerce una profesión y utiliza los medios o circunstancias derivadas de ello y tiene bajo su custodia o resguardo un cadáver o restos humanos, las penas se incrementarán en una tercera parte.
 
 ## TÍTULO XVII. DELITOS POR HECHOS DE CORRUPCIÓN
 
@@ -4417,7 +4423,7 @@ G.O. 10 DE FEBRERO DE 2005.
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial.
 
-Segundo. Se derogan todas las disposiciones de observancia general que se opongan al presente Decreto.
+Segundo. Se derogan todas las disposiciones de observancia general que se opongan a este Decreto.
 
 G.O. 15 DE AGOSTO DE 2005.
 
@@ -4433,7 +4439,7 @@ DECRETO No. 274, POR EL QUE SE REFORMA EL ARTÍCULO 276 DEL CÓDIGO.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
-Segundo. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 G.O. 15 DE AGOSTO DE 2005.
 
@@ -5108,5 +5114,13 @@ G.O. 29 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 718 POR EL QUE REFORMA EL ARTÍCULO 45 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; ASÍ COMO POR EL QUE SE REFORMA EL ARTÍCULO 8° DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, ADICIONÁNDOSE UN ARTÍCULO 64 BIS A LA LEY DE VÍCTIMAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 3 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 243 QUE REFORMA EL ARTÍCULO 298 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
