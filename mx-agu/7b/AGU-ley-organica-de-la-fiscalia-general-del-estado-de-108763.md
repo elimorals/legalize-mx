@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-fiscalia-general-del-estado-de-108763"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-06-22"
-last_updated: "2019-05-20"
+last_updated: "2019-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
@@ -1261,6 +1261,10 @@ La Dirección de Visitaduría tendrá libre acceso a los expedientes, documentos
 
 Los servidores públicos de la Dirección de Visitaduría serán nombrados por el Fiscal General en los términos que determine el Reglamento de esta Ley, y desempeñarán las atribuciones que en el mismo se les confiera.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+El titular de la Dirección de Visitaduría, durará 4 años en su encargo y será designado y removido conforme a lo previsto en el artículo 27 fracción XXXVIII de la Constitución Política del Estado de Aguascalientes, siguiendo las reglas que al efecto se establece (sic) en la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes.
+
 ### CAPÍTULO II. Atribuciones de la Dirección de Visitaduría
 
 ###### ARTÍCULO 61.
@@ -1295,13 +1299,13 @@ XII. Podrá iniciar de oficio, cuando con motivo de una visita practicada por el
 
 XIII. Integrar en dos tantos los procedimientos de denuncia para sancionar;
 
-XIV. Iniciar la carpeta de investigación, cuando de la visita técnica-jurídica se desprendan hechos presuntivamente constitutivos de delito cometidos por el servidor público;
+XIV. (DEROGADA, P.O. 3 DE JUNIO DE 2019)
 
-XV. De encontrarse acreditada la probable responsabilidad del imputado y acreditado el cuerpo del delito se procederá a ejercer la acción penal correspondiente;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+XV. De encontrarse acreditada la probable responsabilidad del servidor público se procederá a denunciar los hechos ante la autoridad competente.
 
-XVI. Presentar y formular la imputación y vinculación a proceso ante los órganos jurisdiccionales correspondientes;
+XVI. (DEROGADA, P.O. 3 DE JUNIO DE 2019)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1888,3 +1892,15 @@ P.O. 20 DE MAYO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 163.- ARTÍCULO ÚNICO.- SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 60; ASÍ COMO REFORMA LA FRACCIÓN XV Y SE DEROGAN LAS FRACCIONES XIV Y XVI DEL ARTÍCULO 61 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez que entre en vigencia el presente Decreto, y que a su vez cese en sus funciones el actual Director de Visitaduría de la Fiscalía General del Estado de Aguascalientes, el Congreso del Estado deberá realizar todos los actos tendientes al nombramiento de un nuevo Titular de la Dirección de Visitaduría de dicho órgano constitucional autónomo.
