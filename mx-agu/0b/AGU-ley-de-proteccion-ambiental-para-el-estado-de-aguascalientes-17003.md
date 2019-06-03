@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2018-07-09"
+last_updated: "2019-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -95,9 +95,13 @@ Para los efectos de esta Ley, se entiende por:
 
 I. ACOPIO: Acción de concentrar temporalmente residuos sólidos urbanos y/o de manejo especial, en las fuentes generadoras, estaciones de transferencia o centros de almacenamiento, en tanto son reutilizados y/o tratados para su aprovechamiento, entregados para su de recolección, transportados a tratamiento, reutilización o destino final, o se dispone de ellos adecuadamente;
 
-II. ACTIVIDAD RIESGOSA: Acción u omisión que ponga en peligro la integridad de las personas o del ambiente, en virtud de la naturaleza, características o volumen de los materiales o residuos que se manejen, de conformidad con las Normas Oficiales Mexicanas, los criterios o listados en materia ambiental que publiquen las autoridades competentes en el Diario Oficial de la Federación y el Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-III. ACTIVIDAD NO RIESGOSA: Aquélla que por sus dimensiones, materia prima, procesos, productos y subproductos o su localización no representa riesgo real o potencial para los habitantes de los asentamientos circundantes;
+II. ACTIVIDAD NO RIESGOSA: Aquélla que por sus dimensiones, materia prima, procesos, productos y subproductos o su localización no representa riesgo real o potencial para los habitantes de los asentamientos circundantes;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+III. ACTIVIDAD RIESGOSA: Acción u omisión que ponga en peligro la integridad de las personas o del ambiente, en virtud de la naturaleza, características o volumen de los materiales o residuos que se manejen, de conformidad con las Normas Oficiales Mexicanas, los criterios o listados en materia ambiental que publiquen las autoridades competentes en el Diario Oficial de la Federación y el Periódico Oficial del Estado;
 
 IV. AGENDA AMBIENTAL: Estrategias y programa de actividades y trabajos, respecto de los asuntos ambientales, jerarquizados y ordenados;
 
@@ -117,203 +121,225 @@ VIII. ÁREAS NATURALES PROTEGIDAS DE JURISDICCION ESTATAL: Las zonas del territo
 
 IX. ÁREA PRIORITARIA PARA LA CONSERVACIÓN: Sitio o región relevante del Estado, reconocida por la Secretaría por su riqueza de especies, ecosistemas y/o por los servicios ambientales que presta, así como por los vestigios paleontológicos y prehispánicos que alberga;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-X. AUDITORÍAAMBIENTAL (SIC): Proceso de revisión de las actividades y operaciones, respecto de la contaminación y el riesgo ambiental, así como del grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales, y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger los recursos naturales y el ambiente;
+X. AUDITORÍA AMBIENTAL: Proceso de revisión metodológico de las actividades y operaciones de particulares, respecto de la contaminación y el riesgo ambiental, así como del grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales, y de buenas prácticas de operación e ingeniería aplicables, con el objeto de determinar su desempeño ambiental con base en los requerimientos establecidos en los términos de referencia, así como definir las medidas preventivas y correctivas necesarias para proteger los recursos naturales y el ambiente;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XI. BIOSEGURIDAD: Control de los riesgos derivados de la utilización y la liberación de organismos vivos modificados como resultado de la biotecnología y que pudieran tener repercusiones en el ambiente, efectos adversos en la utilización sustentable de la diversidad biológica y la salud humana;
+XI. AUTORREGULACIÓN: Proceso voluntario mediante el cual, respetando la legislación y normatividad vigente que le aplique, la Empresa se establece un conjunto de actividades y se adoptan normas complementarias o más estrictas, a través de las cuales se mejora el Desempeño Ambiental y se obtienen mayores logros en materia de protección ambiental;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 XII. BIODIVERSIDAD: La variedad de ecosistemas, de organismos vivos que habitan en ellos y su diversidad genética;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XIII. BIOTECNOLOGÍA: Toda aplicación tecnológica que utilice recursos biológicos, organismos vivos o sus derivados para la creación o modificación de productos o procesos para usos específicos;
+XIII. BIOSEGURIDAD: Control de los riesgos derivados de la utilización y la liberación de organismos vivos modificados como resultado de la biotecnología y que pudieran tener repercusiones en el ambiente, efectos adversos en la utilización sustentable de la diversidad biológica y la salud humana;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XIV. BOLSA DE RESIDUOS: Base de datos informativa que funge como intermediario entre diferentes generadores y demandantes de residuos de manejo especial, creado con el objeto de fomentar el reciclaje mediante el aprovechamiento de subproductos o residuos;
+XIV. BIOTECNOLOGÍA: Toda aplicación tecnológica que utilice recursos biológicos, organismos vivos o sus derivados para la creación o modificación de productos o procesos para usos específicos;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XV. CONABIO: Comisión Nacional para el Conocimiento y Uso de la Biodiversidad;
+XV. BOLSA DE RESIDUOS: Base de datos informativa que funge como intermediario entre diferentes generadores y demandantes de residuos de manejo especial, creado con el objeto de fomentar el reciclaje mediante el aprovechamiento de subproductos o residuos;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XVI. CONSERVACIÓN: es el conjunto de acciones personales o grupales para mejorar y mantener las características originales de los recursos naturales. Invita al uso limitado, cuidadoso y responsable de los recursos sin causarles daño permanente. Es utilizar los recursos y servirse de ellos de forma moderada pensando en el gran valor que tienen para la vida de las generaciones actuales y las del mañana, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen;
+XVI. BUENAS PRÁCTICAS DE OPERACIÓN E INGENIERÍA: Programas, proyectos, políticas o acciones desarrolladas, implantadas y mantenidas por la Empresa y que están orientadas a la prevención de la contaminación y a la administración del riesgo ambiental;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XVII. CONTINGENCIA AMBIENTAL: Es la situación eventual y transitoria declarada por las autoridades. Esta declaración se hará con base en (sic) análisis objetivo o en el monitoreo de la contaminación ambiental, cuando exista una concentración de contaminantes o un riesgo ecológico derivado de las actividades humanas o fenómenos naturales que afectan a la salud de la población o el ambiente. En relación a lo especificado con lo especificado (sic) con las normas oficiales mexicanas;
+XVII. CONABIO: Comisión Nacional para el Conocimiento y Uso de la Biodiversidad;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XVIII. CO-PROCESAMIENTO: Integración ambientalmente segura de los residuos generados por una industria o fuente conocida, como insumo a otro proceso productivo;
+XVIII. CONSERVACIÓN: es el conjunto de acciones personales o grupales para mejorar y mantener las características originales de los recursos naturales. Invita al uso limitado, cuidadoso y responsable de los recursos sin causarles daño permanente. Es utilizar los recursos y servirse de ellos de forma moderada pensando en el gran valor que tienen para la vida de las generaciones actuales y las del mañana, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XIX. DESARROLLO SUSTENTABLE: Proceso evaluable mediante criterios e indicadores de carácter ambiental, económico, educativo y social, que tiende a mejorar la calidad de vida y la productividad de las personas y que se fundamenta en medidas apropiadas de preservación y protección del ambiente, así como en el aprovechamiento de los recursos naturales para solventar y resolver los menesteres actuales, de manera que no se comprometa la posibilidad de desarrollo y la satisfacción de las necesidades de las generaciones futuras;
+XIX. CONTINGENCIA AMBIENTAL: Es la situación eventual y transitoria declarada por las autoridades. Esta declaración se hará con base en análisis objetivo o en el monitoreo de la contaminación ambiental, cuando exista una concentración de contaminantes o un riesgo ecológico derivado de las actividades humanas o fenómenos naturales que afectan a la salud de la población o el ambiente. En relación a lo especificado con lo especificado (sic) con las normas oficiales mexicanas;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XX. DESCRIPTOR: Son el conjunto de características físicas, químicas y moleculares que permiten diferenciar una especie o variedad, respecto de otras;
+XX. CO-PROCESAMIENTO: Integración ambientalmente segura de los residuos generados por una industria o fuente conocida, como insumo a otro proceso productivo;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXI. DESEQUILIBRIO AMBIENTAL: Alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del ser humano y demás seres vivos;
+XXI. DESARROLLO SUSTENTABLE: Proceso evaluable mediante criterios e indicadores de carácter ambiental, económico, educativo y social, que tiende a mejorar la calidad de vida y la productividad de las personas y que se fundamenta en medidas apropiadas de preservación y protección del ambiente, así como en el aprovechamiento de los recursos naturales para solventar y resolver los menesteres actuales, de manera que no se comprometa la posibilidad de desarrollo y la satisfacción de las necesidades de las generaciones futuras;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXII. DISPOSICIÓN FINAL: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes alteraciones a la salud de la población, a los ecosistemas y sus elementos;
+XXII. DESCRIPTOR: Son el conjunto de características físicas, químicas y moleculares que permiten diferenciar una especie o variedad, respecto de otras;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXIII. EDUCACIÓN AMBIENTAL: Proceso formativo que proporciona elementos teóricos y prácticos para que las persona y los grupos sociales desarrollen los conocimientos, las habilidades, las actitudes y los valores necesarios para la comprensión de los problemas ambientales, enriqueciendo su comportamiento a favor del ambiente y adoptando una posición crítica y participativa en torno a la conservación de los recursos naturales y al cuestionamiento y análisis del modelo económico predominante, contribuyendo a construir una sociedad sustentable basada en las particularidades ecológicas y culturales de las distintas regiones del Estado, garantizando una mejor calidad de vida para las generaciones actuales y futuras;
+XXIII. DESEQUILIBRIO AMBIENTAL: Alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del ser humano y demás seres vivos;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXIV. EDUCACIÓN AMBIENTAL FORMAL: Acciones de incorporación directa y transversal de la educación ambiental a la currícula escolar de los distintos niveles y modalidades del sector educativo;
+XXIV. DESEMPEÑO AMBIENTAL: Resultados cualitativos de la operación y funcionamiento de una Empresa respecto a sus actividades, procesos y servicios, que interactúan o pueden interactuar con el ambiente;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXV. EDUCACIÓN AMBIENTAL NO FORMAL: Acciones organizadas, basadas en estrategias educativas dirigidas a diferentes grupos y sectores sociales que contribuyen a la formación de ciudadanos ambientalmente responsables;
+XXV. DISPOSICIÓN FINAL: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes alteraciones a la salud de la población, a los ecosistemas y sus elementos;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXVI. EQUILIBRIO AMBIENTAL: La relación de interdependencia entre los elementos que conforman el ambiente y que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos;
+XXVI. EDUCACIÓN AMBIENTAL: Proceso formativo que proporciona elementos teóricos y prácticos para que las persona (sic) y los grupos sociales desarrollen los conocimientos, las habilidades, las actitudes y los valores necesarios para la comprensión de los problemas ambientales, enriqueciendo su comportamiento a favor del ambiente y adoptando una posición crítica y participativa en torno a la conservación de los recursos naturales y al cuestionamiento y análisis del modelo económico predominante, contribuyendo a construir una sociedad sustentable basada en las particularidades ecológicas y culturales de las distintas regiones del Estado, garantizando una mejor calidad de vida para las generaciones actuales y futuras;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXVII. ESTRATEGIA ESTATAL PARA LA CONSERVACIÓN Y USO SUSTENTABLE DE LA BIODIVERSIDAD DEL ESTADO DE AGUASCALIENTES: Documento rector que establece el marco orientador de acciones, bajo los principios de coordinación interinstitucional, búsqueda de consensos, participación ciudadana y co-responsabilidad entre sociedad y gobierno, para asegurar la conservación y uso sustentable de la biodiversidad del estado de Aguascalientes;
+XXVII. EDUCACIÓN AMBIENTAL FORMAL: Acciones de incorporación directa y transversal de la educación ambiental a la currícula escolar de los distintos niveles y modalidades del sector educativo;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXVIII. ESTUDIO DE RIESGO: Documento mediante el cual se dan a conocer, con base en el análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas representan para los ecosistemas, la salud pública o el ambiente, así como las medidas técnicas preventivas, correctivas y de seguridad, tendientes a mitigar, reducir o evitar los efectos adversos que se causen al ambiente y a la población en caso de un posible accidente durante la realización de las obras o actividades que se trate;
+XXVIII. EDUCACIÓN AMBIENTAL NO FORMAL: Acciones organizadas, basadas en estrategias educativas dirigidas a diferentes grupos y sectores sociales que contribuyen a la formación de ciudadanos ambientalmente responsables;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXIX. EUTROFICACIÓN: Cambios físicos, químicos y biológicos que tienen lugar después de que algún cuerpo de agua recibe nutrientes orgánicos o inorgánicos o debido a la erosión natural y a los escurrimientos desde la cuenca circundante;
+XXIX. EQUILIBRIO AMBIENTAL: La relación de interdependencia entre los elementos que conforman el ambiente y que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXX. FAUNA SILVESTRE: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del ser humano, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
+XXX. EMPRESA: Organización, establecimiento o instalación, pública o privada, en la cual se realizan actividades industriales, comerciales, de servicios o aprovechamiento de recursos naturales;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXXI. FLORA SILVESTRE: Las especies vegetales así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del ser humano;
+XXXI. ESTRATEGIA ESTATAL PARA LA CONSERVACIÓN Y USO SUSTENTABLE DE LA BIODIVERSIDAD DEL ESTADO DE AGUASCALIENTES: Documento rector que establece el marco orientador de acciones, bajo los principios de coordinación interinstitucional, búsqueda de consensos, participación ciudadana y co-responsabilidad entre sociedad y gobierno, para asegurar la conservación y uso sustentable de la biodiversidad del estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXXII. FUENTE FIJA: Toda instalación en un solo lugar, que tenga como finalidad, desarrollar operaciones o procesos industriales, mercantiles, de servicios o actividades que generen o puedan generar emisiones contaminantes;
+XXXII. ESTUDIO DE RIESGO: Documento mediante el cual se dan a conocer, con base en el análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas representan para los ecosistemas, la salud pública o el ambiente, así como las medidas técnicas preventivas, correctivas y de seguridad, tendientes a mitigar, reducir o evitar los efectos adversos que se causen al ambiente y a la población en caso de un posible accidente durante la realización de las obras o actividades que se trate;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXXIII. FUENTE MÓVIL: Equipos y maquinaria no fijos, con motores de combustión interna o similares que con motivo de su operación generen o puedan generar emisiones contaminantes a la atmósfera;
+XXXIII. EUTROFICACIÓN: Cambios físicos, químicos y biológicos que tienen lugar después de que algún cuerpo de agua recibe nutrientes orgánicos o inorgánicos o debido a la erosión natural y a los escurrimientos desde la cuenca circundante;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXXIV. GESTIÓN INTEGRAL DE RESIDUOS: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
+XXXIV. FAUNA SILVESTRE: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del ser humano, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXXV. HUELLA GENÉTICA: Es una especie de Descriptor;
+XXXV. FLORA SILVESTRE: Las especies vegetales así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del ser humano;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXXVI. INCINERACIÓN: Combustión controlada de cualquier sustancia o material, cuyas emisiones se descargan a través de una chimenea;
+XXXVI. FUENTE FIJA: Toda instalación en un solo lugar, que tenga como finalidad, desarrollar operaciones o procesos industriales, mercantiles, de servicios o actividades que generen o puedan generar emisiones contaminantes;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXXVII. SECRETARÍA: Secretaría de Sustentabilidad, Medio Ambiente y Agua;
+XXXVII. FUENTE MÓVIL: Equipos y maquinaria no fijos, con motores de combustión interna o similares que con motivo de su operación generen o puedan generar emisiones contaminantes a la atmósfera;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXXVIII. IMPACTO AMBIENTAL: La modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
+XXXVIII. GESTIÓN INTEGRAL DE RESIDUOS: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo; supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XXXIX. LEY: Ley de Protección Ambiental para el Estado de Aguascalientes;
+XXXIX. HUELLA GENÉTICA: Es una especie de Descriptor;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XL. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XL. IMPACTO AMBIENTAL: La modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XLI. MANEJO INTEGRAL DE RESIDUOS: Actividades de reducción en la fuente, separación, reutilización, reciclaje, coprocesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, recolección, transporte y disposición final de los residuos sólidos, realizadas individualmente o combinadas de manera apropiada, cumpliendo objetivos y valorización, eficiencia sanitaria, ambiental y tecnológica, económica y social;
+XLI. INCINERACIÓN: Combustión controlada de cualquier sustancia o material, cuyas emisiones se descargan a través de una chimenea;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XLII. MANIFIESTO DE IMPACTO AMBIENTAL: El documento mediante el cual se da a conocer, con base en estudios detallados el impacto ambiental que generaría una obra o actividad, así como la forma de evitarlo o mitigarlo en caso de que sea negativo para el entorno natural;
+XLII. LEY: Ley de Protección Ambiental para el Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XLIII. PLAN DE MANEJO: Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno;
+XLIII. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XLIV. PRESERVAR: Acción de guardar y proteger algo a salvo, estableciendo los mecanismos suficientes para mantenerlo alejado de los daños en el ambiente;
+XLIV. MANEJO INTEGRAL DE RESIDUOS: Actividades de reducción en la fuente, separación, reutilización, reciclaje, coprocesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, recolección, transporte y disposición final de los residuos sólidos, realizadas individualmente o combinadas de manera apropiada, cumpliendo objetivos y valorización, eficiencia sanitaria, ambiental y tecnológica, económica y social;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XLV. PROCURADURÍA: Procuraduría Estatal de Protección al Ambiente;
+XLV. MANIFIESTO DE IMPACTO AMBIENTAL: El documento mediante el cual se da a conocer, con base en estudios detallados el impacto ambiental que generaría una obra o actividad, así como la forma de evitarlo o mitigarlo en caso de que sea negativo para el entorno natural;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XLVI. QUEMA: Combustión controlada de cualquier sustancia o materia;
+XLVI. PLAN DE MANEJO: Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XLVII. RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fin de darles un nuevo uso;
+XLVII. PRESERVAR: Acción de guardar y proteger algo a salvo, estableciendo los mecanismos suficientes para mantenerlo alejado de los daños en el ambiente;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XLVIII. RESIDUO: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+XLVIII. PROCURADURÍA: Procuraduría Estatal de Protección al Ambiente;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-XLIX. RESIDUOS PELIGROSOS: Todos aquellos residuos en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosas, representan un peligro para el ambiente y para la salud;
+XLIX. QUEMA: Combustión controlada de cualquier sustancia o materia;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-L. RESIDUOS ORGÁNICOS: Todo residuo sólido biodegradable;
+L. RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fin de darles un nuevo uso;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-LI. RESIDUOS INORGÁNICOS: Todo residuo que no tenga características de residuo orgánico y que pueda ser susceptible a un proceso de valorización para su reutilización y reciclaje, tales como vidrio, papel, cartón, plásticos, laminados de materiales reciclables, aluminio y metales no peligrosos y demás no considerados como de manejo especial;
+LI. RESIDUO: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-LII. RESIDUOS SÓLIDOS URBANOS: Los generados en las casas habitación, parques, jardines, vías públicas, oficinas, sitios de reunión, mercados, demoliciones, construcciones, Instituciones educativas, establecimientos comerciales y de servicios y en general, todos aquellos generados en los espacios públicos de los centros de población, que resultan de la eliminación de los materiales que se utilizan en las actividades llevadas a cabo en los lugares mencionados;
+LII. RESIDUOS PELIGROSOS: Todos aquellos residuos en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosas, representan un peligro para el ambiente y para la salud;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-LIII. RESIDUO DE MANEJO ESPECIAL: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+LIII. RESIDUOS ORGÁNICOS: Todo residuo sólido biodegradable;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-LIV. RESIDUO INDUSTRIAL: Es aquel que se genera en los procesos de extracción, beneficio, transformación o producción industrial;
+LIV. RESIDUOS INORGÁNICOS: Todo residuo que no tenga características de residuo orgánico y que pueda ser susceptible a un proceso de valorización para su reutilización y reciclaje, tales como vidrio, papel, cartón, plásticos, laminados de materiales reciclables, aluminio y metales no peligrosos y demás no considerados como de manejo especial;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-LV. RESTAURACIÓN: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales, predominantes con anterioridad a cualquier tipo de intervención humana o a fenómenos naturales que provocaran un cambio súbito en ellas;
+LV. RESIDUOS SÓLIDOS URBANOS: Los generados en las casas habitación, parques, jardines, vías públicas, oficinas, sitios de reunión, mercados, demoliciones, construcciones, Instituciones educativas, establecimientos comerciales y de servicios y en general, todos aquellos generados en los espacios públicos de los centros de población, que resultan de la eliminación de los materiales que se utilizan en las actividades llevadas a cabo en los lugares mencionados;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-LVI. REUTILIZACIÓN: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
+LVI. RESIDUO DE MANEJO ESPECIAL: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-LVII. TRATAMIENTO: Acción de transformar los residuos, por medio de la cual se cambian sus características; y
+LVII. RESIDUO INDUSTRIAL: Es aquel que se genera en los procesos de extracción, beneficio, transformación o producción industrial;
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-LVIII. VERIFICACIÓN VEHICULAR: Es la medición de la cantidad de contaminantes atmosféricos emitidos por las fuentes móviles.
+LVIII. RESTAURACIÓN: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales, predominantes con anterioridad a cualquier tipo de intervención humana o a fenómenos naturales que provocaran un cambio súbito en ellas;
 
-Las definiciones contenidas en la Ley General, la Ley de Aguas Nacionales, Ley Forestal, sus reglamentos y demás leyes aplicables, serán consideradas en los casos no previstos por esta Ley.
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+LIX. REUTILIZACIÓN: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+LX. SECRETARÍA: Secretaría de Sustentabilidad, Medio Ambiente y Agua;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+LXI. TÉRMINOS DE REFERENCIA: Metodología, requisitos y parámetros para la realización de las Auditorías Ambientales y Diagnósticos Ambientales, que se establecen en normas mexicanas.
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+LXII. TRATAMIENTO: Acción de transformar los residuos, por medio de la cual se cambian sus características; y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+LXIII. VERIFICACIÓN VEHICULAR: Es la medición de la cantidad de contaminantes atmosféricos emitidos por las fuentes móviles.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+Las definiciones contenidas en la Ley General, la Ley de Aguas Nacionales, Ley General de Desarrollo Forestal Sustentable, sus reglamentos y demás leyes aplicables, serán consideradas en los casos no previstos por esta Ley.
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES AMBIENTALES
 
@@ -1083,11 +1109,11 @@ La regulación de los prestadores de servicios en materia de impacto ambiental e
 
 ### CAPÍTULO V. Autorregulación y Auditoría Ambiental
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 45.
 
-La Secretaría fomentará programas de autorregulación y auditoría ambiental y promoverá la aplicación de incentivos, a quienes participen en dichos programas.
+La Procuraduría fomentará programas de autorregulación y auditoría ambiental y promoverá la aplicación de incentivos, a quienes participen en dichos programas, en términos de lo dispuesto por el reglamento en la materia.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1095,9 +1121,9 @@ La Secretaría fomentará programas de autorregulación y auditoría ambiental y
 
 Los productores, empresas u organizaciones empresariales podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño ambiental respetando la legislación vigente en la materia y se comprometan a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE JUNIO DE 2019)</small>
 
-La Secretaría en el ámbito su competencia inducirá o concertará:
+La Procuraduría en el ámbito (sic) su competencia inducirá o concertará:
 
 I. El desarrollo de los procesos productivos adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en la materia, convenidas con cámaras de la industria, comercio, y otras actividades productivas; organizaciones de productores, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas;
 
@@ -1114,6 +1140,28 @@ V. Las demás acciones que induzcan a las empresas a alcanzar los objetivos de l
 ###### ARTÍCULO 47.
 
 El desarrollo de la auditoría ambiental es de carácter estrictamente voluntario y no limita las facultades que esta Ley confiere a la autoridad en materia de inspección y vigilancia.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+ARTÍCULO 47 A.- La Procuraduría desarrollará un programa dirigido a fomentar la realización de auditorías ambientales, y podrá supervisar su ejecución. Para tal efecto:
+
+I. Elaborará los términos de referencia que establezcan la metodología para la realización de las auditorías ambientales;
+
+II. Establecerá un sistema de aprobación y acreditamiento de peritos y auditores ambientales, determinando los procedimientos y requisitos que deberán cumplir los interesados para incorporarse a dicho sistema;
+
+Para tal efecto, se podrá integrar un Comité Técnico, el cual estará constituido por representantes de instituciones de investigación, colegios y asociaciones profesionales y organizaciones del sector industrial, mismo que se regulará en los términos que señale el Reglamento respectivo;
+
+III. Desarrollará programas de capacitación en materia de peritajes y auditorías ambientales;
+
+IV. Instrumentará un sistema de reconocimientos y estímulos que permita identificar a las industrias que cumplan oportunamente los compromisos adquiridos en las auditorías ambientales; y
+
+V. Convendrá o concertará con personas físicas o morales, públicas o privadas, la realización de auditorías ambientales.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2019)</small>
+
+ARTÍCULO 47 B.- La Procuraduría establecerá las acciones preventivas y correctivas derivadas de las Auditorías Ambientales, así como el diagnóstico básico del cual derivan, a disposición de quienes resulten o puedan resultar directamente afectados.
+
+En todo caso, deberán observarse las disposiciones legales relativas a la confidencialidad de la información industrial y comercial.
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3926,3 +3974,11 @@ El presente decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Se exhorta a los Ayuntamientos del Estado a Reformar y/o Adicionar sus disposiciones de carácter general, bandos y reglamentos, de conformidad con el presente Decreto.
+
+P.O. 3 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 164.- “SE REFORMAN LOS ARTÍCULOS 3º; 45; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 46; SE ADICIONAN LAS FRACCIONES LIX A LXIII AL ARTÍCULO 3º, ASÍ COMO UNOS ARTÍCULOS 47 A Y 47 B A LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
