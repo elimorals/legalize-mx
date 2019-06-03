@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2018-09-17"
+last_updated: "2019-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1573,7 +1573,9 @@ Al responsable de Allanamiento de Morada se le aplicarán de 2 a 7 años de pris
 
 Omisión de auxilio. La Omisión de Auxilio consiste en:
 
-I. No avisar de inmediato a las autoridades estatales, o no prestar el auxilio necesario, a un menor abandonado e incapaz de cuidarse a sí mismo; a una persona herida o inválida, o amenazada de un peligro cualquiera; o
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+I. No avisar de inmediato a las autoridades estatales competentes, o no prestar el auxilio necesario, a un menor abandonado e incapaz de cuidarse a sí mismo; a un adulto mayor; a una persona herida o inválida, o amenazada de un peligro cualquiera; o
 
 II. Dejar el automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete, en estado de abandono, sin prestarle o facilitarle asistencia, a la persona o personas a quienes haya lesionado.
 
@@ -1621,11 +1623,17 @@ La valoración que se haga de la afectación patrimonial tomará en consideraci�
 
 Robo Equiparado. Se equipara al robo la conducta de quien:
 
-I. Adquiera o posea ilegítimamente uno o más vehículos robados.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-II. Desmantele algún o algunos vehículos robados o comercialice conjunta o separadamente sus partes.
+I. Adquiera o posea uno o más vehículos robados;
 
-III. Comercialice o trafique de cualquier manera con vehículo o vehículos robados.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+II. Desmantele uno o más vehículos robados o comercialice conjunta o separadamente sus partes;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+
+III. Comercialice o trafique de cualquier manera con uno o más vehículos robados;
 
 (NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 125/2017 Y SU ACUMULADA 127/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE AGOSTO DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 127, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1633,11 +1641,9 @@ III. Comercialice o trafique de cualquier manera con vehículo o vehículos roba
 
 IV. A QUIEN ADQUIERA, COMERCIALICE O ESTÉ EN POSESIÓN DE UNO O MÁS DISPOSITIVOS ELECTRÓNICOS CON CAPACIDAD DE CONECTARSE A INTERNET DE MANERA INALÁMBRICA POR MEDIO DE CUALQUIER TIPO DE RED, QUE TENGA DENUNCIA DE ROBO ANTE LA AUTORIDAD COMPETENTE; O
 
-(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 125/2017 Y SU ACUMULADA 127/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE AGOSTO DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 127, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
-
-V. A QUIEN ADQUIERA, COMERCIALICE O TENGA LA POSESIÓN DE BIENES MUEBLES QUE SEAN PRODUCTO DE ROBO, SEGÚN SE HAYA ACREDITADO DENUNCIA ANTE LA AUTORIDAD COMPETENTE.
+V. A quien adquiera, comercialice o tenga la posesión de uno o más bienes muebles que sean producto de robo, según se haya acreditado denuncia ante la autoridad competente.
 
 Al responsable de Robo Equiparado se le aplicarán de 2 a 4 años de prisión y de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando se cometa en el supuesto de la Fracción I.
 
@@ -1681,7 +1687,7 @@ XIII. El objeto material del apoderamiento sean cables, conexiones u otros mater
 
 XIV. El objeto material del apoderamiento sea cableado para conducir electricidad, transformadores de voltaje de energía eléctrica, equipos de bombeo o de alguno de sus componentes, siempre que sean parte del sistema de riego agrícola;
 
-XV. Se lleve a cabo bajo los supuestos establecidos en las Fracciones II o III del Artículo 141;
+XV. (DEROGADA, P.O. 3 DE JUNIO DE 2019)
 
 XVI. El objeto material del apoderamiento sean vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, asociados a un sistema de pagos y prestaciones laborales, emitidos por persona moral, utilizados para intercambiar o canjear bienes y servicios;
 
@@ -3315,8 +3321,16 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 17 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 344.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 82, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 82 A DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 344.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 82, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 82 A DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTICULO ÚNICO.
 
 Cumplidos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 162.- SE REFORMAN LOS ARTÍCULOS 138, 141, Y SE DEROGA LA FRACCIÓN XV DEL ARTÍCULO 142 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
