@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2018-07-11"
+last_updated: "2019-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2019.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -93,7 +93,9 @@ I. Agente de tránsito: policía a cargo de la vigilancia del tránsito, así co
 
 II. Alcoholímetro: dispositivo para medir la cantidad de alcohol que presenta en el aire espirado por una persona;
 
-III. Aliento alcohólico: condición física y mental que se presenta en una persona cuando por la ingesta de alcohol etílico su organismo contiene menos de 0.05 gramos de alcohol por litro de sangre o hasta 0.19 moléculas de alcohol en aire espirado, mediante la prueba de alcoholimetría, dando como resultado a la persona apta para manejar;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2019)</small>
+
+III. Aliento alcohólico: condición física y mental que se presenta en una persona cuando por la ingesta de alcohol etílico, su organismo contiene menos de 0.08 gramos de alcohol por decilitro de sangre, o hasta 0.40 miligramos de alcohol por litro de aire espirado, mediante la prueba de alcoholimetría, dando como resultado a la persona apta para manejar;
 
 IV. Amonestación: prevención que se hace a un individuo para que se abstenga de hacer algo que se califique como infracción a este Ordenamiento;
 
@@ -125,7 +127,9 @@ XVII. Engomado: elemento de alta seguridad que se adhiere a las ventanas de los 
 
 XVIII. Estacionamiento: espacio destinado y permitido para ubicar un vehículo en la vía pública en el carril adyacente a las aceras, o fuera de la vía pública, centros comerciales, en cocheras, lotes y edificios;
 
-XIX. Estado de ebriedad: condición física y mental que se presenta en una persona cuando por la ingesta de alcohol etílico su organismo contiene más de 0.05 gramos de alcohol por litro en la sangre o más de 0.20 moléculas de alcohol en aire espirado a por litro, mediante la prueba de alcoholimetría, dando como resultado que la persona no está apta para manejar;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2019)</small>
+
+XIX. Estado de ebriedad: condición física y mental que se presenta en una persona cuando por la ingesta de alcohol etílico, su organismo contiene más de 0.08 gramos de alcohol por decilitro en la sangre, o más de 0.40 miligramos de alcohol por litro (sic) aire espirado a por litro (sic), mediante la prueba de alcoholimetría, dando como resultado que la persona no está apta para manejar;
 
 XX. Estudios técnicos: aquéllos que se realizan por profesionistas, expertos o peritos en la materia;
 
@@ -1699,8 +1703,18 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 11 DE JULIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 1008.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 59, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1008.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 59, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 4 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0177.- SE REFORMA EL ARTÍCULO 6° EN SUS FRACCIONES, III, Y XIX, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Una vez publicado el presente Decreto en el Periódico Oficial del Gobierno del Estado "Plan de San Luis", los ayuntamientos tendrán sesenta días hábiles para realizar las adecuaciones a sus reglamentos respectivos.
+
+TERCERO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en este Decreto.
