@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2018-07-05"
+last_updated: "2019-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -83,9 +83,9 @@ La presente Ley es de orden público y de observancia general en el Estado de Sa
 
 Tiene por objeto transparentar el ejercicio de la función pública y establecer los principios, bases generales y procedimientos para garantizar a toda persona el derecho humano de acceso a la información en posesión de cualquier autoridad, entidad, órgano y organismo de los poderes, Legislativo; Ejecutivo; y Judicial; organismos autónomos; partidos políticos; fideicomisos y fondos públicos; así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2019)</small>
 
-La Ley General de Transparencia y Acceso a la Información Pública, los lineamientos que determine el Sistema Nacional de Transparencia, la Constitución Política del Estado de San Luis Potosí, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí, y demás disposiciones relacionadas con el derecho de acceso a la información y la protección de datos personales, se aplicarán de manera supletoria en lo no previsto por esta Ley.
+La Ley General de Transparencia y Acceso a la Información Pública, los lineamientos que determine el Sistema Nacional de Transparencia, la Constitución Política del Estado de San Luis Potosí, la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí, el Código Procesal Administrativo para el Estado de San Luis Potosí, y demás disposiciones relacionadas con el derecho de acceso a la información y la protección de datos personales, se aplicarán de manera supletoria en lo no previsto por esta Ley.
 
 ###### ARTÍCULO 2°.
 
@@ -3038,5 +3038,13 @@ P.O. 5 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1002.- SE REFORMA Y ADICIONA EL ARTÍCULO 88 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis.”
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 4 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0178.- SE REFORMA EL ARTÍCULO 1° EN SU PÁRRAFO TERCERO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis",
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
