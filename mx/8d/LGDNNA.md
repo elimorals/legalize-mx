@@ -4,7 +4,7 @@ identifier: "LGDNNA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-12-04"
-last_updated: "2019-06-03"
+last_updated: "2019-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDNNA"
 
 LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2014.
 
@@ -242,7 +242,9 @@ Es obligación de toda persona que tenga conocimiento de casos de niñas, niños
 
 Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
 
-I. Derecho a la vida, a la supervivencia y al desarrollo;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2019)</small>
+
+I. Derecho a la vida, a la paz, a la supervivencia y al desarrollo;
 
 II. Derecho de prioridad;
 
@@ -288,7 +290,9 @@ XX. Derecho de acceso a las Tecnologías de la Información y Comunicación.
 
 Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
-### Capítulo Primero. Del Derecho a la Vida, a la Supervivencia y al Desarrollo
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE JUNIO DE 2019)</small>
+
+### Capítulo Primero. Del Derecho a la Vida, a la Paz, a la Supervivencia y al Desarrollo
 
 ###### Artículo 14.
 
@@ -302,9 +306,11 @@ Las autoridades de la Federación, de las entidades federativas, municipales y d
 
 Niñas, niños y adolescentes deberán disfrutar de una vida plena en condiciones acordes a su dignidad y en condiciones que garanticen su desarrollo integral.
 
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2019)</small>
+
 ###### Artículo 16.
 
-Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos.
+Niñas, niños y adolescentes tienen derecho a la paz, a no ser privados de la vida en ninguna circunstancia, ni ser utilizados en conflictos armados o violentos.
 
 ### Capítulo Segundo. Del Derecho de Prioridad
 
@@ -2449,3 +2455,9 @@ Lo anterior, a fin de que cada uno de los sistemas DIF realice lo conducente a e
 Quinto.- Niñas, niños y adolescentes que actualmente se encuentren acogidos en instituciones públicas o privadas, respecto de los cuales el sistema DIF de que se trate, o la procuraduría de protección correspondiente, pueda dar constancia de su condición de expósito o abandonado conforme a lo dispuesto en el artículo 30 Bis 1, serán sujetos de adopción a partir de la entrada en vigor de este Decreto.
 
 Sexto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 4 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
