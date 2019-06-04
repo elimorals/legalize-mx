@@ -4,7 +4,7 @@ identifier: "LISSSTE"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2018-06-22"
+last_updated: "2019-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2019.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de marzo de 2007.
 
@@ -515,6 +515,30 @@ La licencia será continua o discontinua, una sola vez cada año contado a parti
 Si al concluir el periodo de cincuenta y dos semanas previsto en el párrafo tercero del presente artículo el Trabajador sigue enfermo, el Instituto prorrogará su tratamiento hasta por cincuenta y dos semanas más, previo dictamen médico. De estas últimas el Instituto sólo cubrirá el subsidio a que se refiere el párrafo anterior hasta por veintiséis semanas.
 
 A más tardar, al concluir el segundo periodo de cincuenta y dos semanas, el Instituto deberá dictaminar sobre la procedencia de la invalidez del Trabajador, que lo hiciere sujeto de una Pensión en los términos de la presente Ley. Si al declararse esta invalidez el Trabajador no reúne los requisitos para tener derecho a una Pensión por invalidez, podrá optar por retirar en una sola exhibición, el saldo de su Cuenta Individual, en el momento que lo desee.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2019)</small>
+
+###### Artículo 37 Bis.
+
+Para los casos de madres o padres trabajadores asegurados, cuyos hijos de hasta dieciséis años hayan sido diagnosticados por el Instituto con cáncer de cualquier tipo, podrán gozar de una licencia por cuidados médicos de los hijos para ausentarse de sus labores en caso de que el niño, niña o adolescente diagnosticado requiera de descanso médico en los periodos críticos de tratamiento o de hospitalización durante el tratamiento médico, de acuerdo a la prescripción del médico tratante, incluyendo, en su caso, el tratamiento destinado al alivio del dolor y los cuidados paliativos por cáncer avanzado.
+
+El Instituto podrá expedir a alguno de los padres trabajadores asegurados, que se situé en el supuesto previsto en el párrafo que antecede, una constancia que acredite el padecimiento oncológico y la duración del tratamiento respectivo, a fin de que el patrón o patrones de éstos tengan conocimiento de tal licencia.
+
+La licencia expedida por el Instituto al padre o madre trabajador asegurado, tendrá una vigencia de uno y hasta veintiocho días. Podrán expedirse tantas licencias como sean necesarias durante un periodo máximo de tres años sin que excedan trescientos sesenta y cuatro días de licencia, mismos que no necesariamente deberán ser continuos.
+
+Los padres o madres trabajadoras asegurados ubicados en el supuesto establecido en los párrafos que anteceden y que hayan cubierto por lo menos treinta cotizaciones semanales en el periodo de doce meses anteriores a la fecha del diagnóstico por los servicios médicos institucionales, y en caso de no cumplir con este periodo, tener al menos registrada (sic) cincuenta y dos semanas de cotización inmediatas previas al inicio de la licencia, gozarán de un subsidio equivalente al sesenta por ciento del último salario diario de cotización registrado por el patrón.
+
+La licencia a que se refiere el presente artículo, únicamente podrá otorgarse a petición de parte, ya sea al padre o madre que tenga a su cargo el ejercicio de la patria potestad, la guarda y custodia del menor. En ningún caso se podrá otorgar dicha licencia a ambos padres trabajadores del menor diagnosticado.
+
+Las licencias otorgadas a padres o madres trabajadores previstas en el presente artículo, cesarán:
+
+I. Cuando el menor no requiera de hospitalización o de reposo médico en los periodos críticos del tratamiento;
+
+II. Por ocurrir el fallecimiento del menor;
+
+III. Cuando el menor cumpla dieciséis años;
+
+IV. Cuando el ascendiente que goza de la licencia, sea contratado por un nuevo patrón.
 
 ###### Artículo 38.
 
@@ -3131,3 +3155,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
 
 TERCERO. Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
+
+D.O.F. 4 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL, DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO Y DE LA LEY FEDERAL DEL TRABAJO".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los recursos para el ejercicio 2019 se obtendrán de los apartados precisados en el presente Decreto y posteriormente los recursos que se requieran deberán ser garantizados, etiquetados y provisionados con anterioridad por la Secretaría de Hacienda y Crédito Público en los Presupuestos de Egresos de la Federación de los ejercicios que correspondan, y en el entendido de que la implementación de tal programa no impactará de forma alguna las cuotas obrero-patronales recabadas por los Institutos de Seguridad Social del Gobierno Federal.
