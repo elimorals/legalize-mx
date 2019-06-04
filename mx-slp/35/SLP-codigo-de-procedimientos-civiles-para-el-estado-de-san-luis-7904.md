@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2019-05-30"
+last_updated: "2019-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -1091,7 +1091,7 @@ ART. 228.- El depositario que se constituya en estas diligencias será designado
 
 ART. 229.- Las providencias precautorias sólo pueden dictarse:
 
-I.- Para impedir que una persona se ausente del lugar donde ha de ser o ha sido demandado, sin dejar apoderado instruído y expensado que conteste la demanda y siga el juicio hasta su terminación;
+I. (DEROGADA, P.O. 4 DE JUNIO DE 2019)
 
 II.- Cuando se tema que se oculten o dilapiden los bienes en que debe ejercitarse una acción real;
 
@@ -1101,21 +1101,21 @@ ART. 230.- Las disposiciones del artículo anterior comprenden no sólo al deudo
 
 ART. 231.- Las providencias precautorias establecidas por este Código podrán decretarse, tanto como actos prejudiciales, como después de iniciado el juicio respectivo; en este segundo caso, la providencia se substanciará en incidente por cuerda separada, y conocerá de ella el juez que, al ser presentada la solicitud, esté conociendo del negocio.
 
-ART. 232.- No pueden dictarse otras providencias precautorias que las establecidas en este Código y que exclusivamente consistirán en el arraigo de la persona, en el caso de la fracción I del artículo 229, y en secuestro de bienes, en los casos de las fracciones II y III del mismo artículo.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2019)</small>
+
+ART. 232.- No pueden dictarse otras providencias precautorias que las establecidas en este Código, y que exclusivamente consistirán en secuestro de bienes, en los casos de las fracciones II y III del artículo 229.
 
 ART. 233.- El que pida la providencia precautoria deberá acreditar el derecho que tiene para gestionar y la necesidad de la medida que solicita.
 
 La prueba puede consistir en documento o en testigos idóneos que serán por lo menos tres.
 
-ART. 234.- Si el arraigo de una persona para que conteste en juicio se pide al tiempo de entablar la demanda, bastará la petición del actor para que se haga al demandado la correspondiente notificación.
-
-En este caso, la providencia se reducirá a prevenir al demandado que no se ausente del lugar del juicio sin dejar representante legítimo, suficientemente instruído y expensado para responder a las resultas del juicio.
+ART. 234.- (DEROGADO, P.O. 4 DE JUNIO DE 2019)
 
 ART. 235.- Se tendrá como expensado al apoderado que justifique estar en aptitud de efectuar por el poderdante el pago o cumplimiento de la obligación y el de sus accesorios.
 
 ART. 236.- El apoderado que se presente instruído y expensado, quedará obligado solidariamente con el deudor en la ejecución de la sentencia.
 
-ART. 237.- El que quebrante el arraigo será castigado con la pena que señala el Código Penal al delito de desobediencia a un mandato legítimo de autoridad pública, sin perjuicio de ser compelido, por los medios de apremio que correspondan, a volver al lugar del juicio. En todo caso se seguirá éste según su naturaleza, conforme a las reglas comunes.
+ART. 237.- (DEROGADO, P.O. 4 DE JUNIO DE 2019)
 
 ART. 238.- Cuando se solicite el secuestro provisional se expresará el valor de la demanda o el de la cosa que se reclama, designando ésta con toda precisión, y el juez, al decretarlo, fijará la cantidad por la cual haya de practicarse la diligencia.
 
@@ -1133,9 +1133,7 @@ ART. 244.- Si el actor no cumple con lo que se dispone en el artículo precedent
 
 ART. 245.- Si el que ha solicitado la providencia no entablare la demanda dentro del término fijado en este capítulo; si la providencia fuere revocada, o si entablada la demanda fuere absuelto el reo, pagará por vía de indemnización a su contrario:
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
-
-I.- Una cantidad que no baje de diez ni exceda de cuarenta días del valor de la unidad de medida y actualización, a juicio del Juez, cuando se trate de providencia de arraigo.
+I.- (DEROGADA, P.O. 4 DE JUNIO DE 2019)
 
 II.- El veinte por ciento del valor de los bienes secuestrados en los demás casos.
 
@@ -1223,7 +1221,9 @@ ART. 263.- Cuando en la sentencia definitiva se declare procedente alguna excepc
 
 ART. 264.- Transcurrido el término del emplazamiento sin haberse contestado la demanda, a petición de parte se hará la declaración de rebeldía.
 
-Para hacer la declaratoria de rebeldía, el juez examinará escrupulosamente si las citaciones y notificaciones precedentes están hechas al demandado en la forma legal, si el demandante no señaló casa en el lugar del juicio, y si el demandado quebrantó el arraigo.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2019)</small>
+
+Para hacer la declaratoria de rebeldía, el juez examinará escrupulosamente si las citaciones y notificaciones precedentes están hechas al demandado en la forma legal, si el demandante no señaló casa en el lugar del juicio.
 
 Se presumen confesados los hechos de la demanda que se dejó de contestar.
 
@@ -2577,11 +2577,15 @@ ART. 532.- En toda clase de juicio, cuando se constituya en rebeldía un litigan
 
 Todas las resoluciones que de ahí en adelante recaigan en el pleito y cuantas citaciones deban hacérsele, se notificarán por cédulas que se fijen en las puertas de los juzgados o tribunales, salvo los casos en que otra cosa se prevenga.
 
-ART. 533.- El litigante será declarado rebelde a petición de parte contraria, a no ser que cuando el que ha sido arraigado quebrante el arraigo sin dejar apoderado instruído y expensado.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2019)</small>
+
+ART. 533.- El litigante será declarado rebelde a petición de parte contraria.
 
 ART. 534.- Los autos que ordenen que un negocio se reciba a prueba, y los puntos resolutivos de la sentencia, además de notificarse de la manera prevenida en el artículo 532, se publicarán por tres veces consecutivas en el Perióco (sic) Oficial, en el de mayor circulación o en ambos a juicio del juez, si se tratare del caso previsto en la fracción II del artículo 116.
 
-ART. 535.- Desde el día en que fué declarado rebelde o quebrantó el arraigo el demandado, se decretará, si la parte contraria lo pidiere, la retención de sus bienes muebles y el embargo de los inmuebles en cuanto se estime necesario para asegurar lo que sea objeto del juicio.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2019)</small>
+
+ART. 535.- Desde el día en que fue declarado rebelde el demandado, se decretará, si la parte contraria lo pidiere, la retención de sus bienes muebles y el embargo de los inmuebles en cuanto se estime necesario para asegurar lo que sea objeto del juicio.
 
 ART. 536.- La retención se hará en poder de la persona que tenga a su disposición o bajo su custodia los bienes muebles en que haya de consistir, concediendo el juez un término prudente para que garantice su manejo como depositario.
 
@@ -5932,5 +5936,13 @@ P.O. 30 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0170.- SE REFORMAN LOS ARTÍCULOS 107, 120, 121 Y 123; Y ADICIONA AL ARTÍCULO 114 PÁRRAFO CUARTO, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0173.- SE REFORMAN LOS ARTÍCULOS, 232, 264, 533 Y 535; Y DEROGA DE Y (SIC) LOS ARTÍCULOS 229 SU FRACCIÓN I, 234, 237, Y 245 SU FRACCIÓN I, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
