@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2019-05-01"
+last_updated: "2019-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2019.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -596,13 +596,17 @@ V. El cumplimiento de los servicios y el desempeño de los cargos mencionados en
 
 VI. La designación de los trabajadores como representantes ante los organismos estatales, Comisión Nacional de los Salarios Mínimos, Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas y otros semejantes;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2019)</small>
 
-VII. La falta de los documentos que exijan las Leyes y reglamentos, necesarios para la prestación del servicio, cuando sea imputable al trabajador; y
+VII. La Falta de los documentos que exijan las Leyes y reglamentos, necesarios para la prestación del servicio, cuando sea imputable al trabajador;
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2019)</small>
 
-VIII. La conclusión de la temporada en el caso de los trabajadores contratados bajo esta modalidad.
+VIII. La conclusión de la temporada en el caso de los trabajadores contratados bajo esta modalidad, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2019)</small>
+
+IX. La licencia a que se refiere el artículo 140 Bis de la Ley del Seguro Social.
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -1548,6 +1552,10 @@ XXVIII. Participar en la integración y funcionamiento de las Comisiones que deb
 
 XXIX. Otorgar permiso sin goce de sueldo a las y los trabajadores declarados desaparecidos que cuenten con Declaración Especial de Ausencia, en los términos de lo establecido en la legislación especial en la materia.
 
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2019)</small>
+
+XXIX Bis. Otorgar las facilidades conducentes a los trabajadores respecto de las licencias expedidas por el Instituto según lo establece el artículo 140 Bis de la Ley del Seguro Social.
+
 > <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
 XXX. Entregar a sus trabajadores de manera gratuita un ejemplar impreso del contrato colectivo de trabajo inicial o de su revisión dentro de los quince días siguientes a que dicho contrato sea depositado ante el Centro Federal de Conciliación y Registro Laboral; esta obligación se podrá acreditar con la firma de recibido del trabajador;
@@ -2353,6 +2361,12 @@ V. Durante los períodos de descanso a que se refiere la fracción II, percibir�
 VI. A regresar al puesto que desempeñaban, siempre que no haya transcurrido más de un año de la fecha del parto; y
 
 VII. A que se computen en su antigüedad los períodos pre y postnatales.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2019)</small>
+
+###### Artículo 170 Bis.
+
+Los padres o madres de menores diagnosticados con cualquier tipo de cáncer, gozarán de la licencia a que se refiere el artículo 140 Bis de la Ley del Seguro Social, en los términos referidos, con la intención de acompañar a los mencionados pacientes en sus correspondientes tratamientos médicos.
 
 ###### Artículo 171.
 
@@ -13487,3 +13501,11 @@ Vigésimo Séptimo. Representantes de los trabajadores y de los patrones ante la
 Asimismo, de incurrir los representantes trabajadores y patrones en algún tipo de responsabilidad, le serán aplicables las sanciones contenidas en la Ley Federal del Trabajo vigente.
 
 Vigésimo Octavo. Derogación explícita y tácita de preceptos incompatibles. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
+
+D.O.F. 4 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL, DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO Y DE LA LEY FEDERAL DEL TRABAJO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los recursos para el ejercicio 2019 se obtendrán de los apartados precisados en el presente Decreto y posteriormente los recursos que se requieran deberán ser garantizados, etiquetados y provisionados con anterioridad por la Secretaría de Hacienda y Crédito Público en los Presupuestos de Egresos de la Federación de los ejercicios que correspondan, y en el entendido de que la implementación de tal programa no impactará de forma alguna las cuotas obrero-patronales recabadas por los Institutos de Seguridad Social del Gobierno Federal.
