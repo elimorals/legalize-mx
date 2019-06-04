@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-pensiones-y-prestaciones-sociales-para-los-21479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-21"
-last_updated: "2019-03-01"
+last_updated: "2019-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 21 de mayo de 2001.
 
@@ -35,7 +35,7 @@ DECRETO 107
 
 LA QUINCUAGESIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
 
-...
+[...]
 
 LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
@@ -2249,9 +2249,7 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 
 SEGUNDO. Se establece el término de noventa días posteriores a la entrada en vigor del presente Decreto para que el sector Sección 26 Telesecundaria del SNTE, proponga ante la Junta Directiva de la Dirección de Pensiones, las modificaciones al reglamento que dispondrá las condiciones obligatorias y convenientes para su grupo cotizador, el cual tendrá que ser aprobado en los términos de la presente Ley y publicado en el Periódico Oficial del Estado. En caso de incumplimiento, seguirá vigente el reglamento en vigor a la fecha de expedición de este Decreto.
 
-TERCERO. Los trabajadores que se jubilen o pensionen a partir de la vigencia del presente Decreto, harán una aportación del diez por ciento de la pensión o jubilación que reciban, para el fortalecimiento del fondo sectorizado, y que será estipulado en su reglamento.
-
-Los jubilados y pensionados antes de la vigencia de este Decreto, harán una aportación voluntaria para el fortalecimiento de su fondo sectorizado del diez por ciento de la pensión o jubilación que reciban, conforme lo estipulen en el reglamento del grupo cotizador de la Dirección de Pensiones. Lo anterior con la finalidad de obtener los mejores beneficios, además de consolidar la economía en la Dirección de Pensiones de su Sector.
+TERCERO. (DEROGADO, P.O. 4 DE JUNIO DE 2019)
 
 CUARTO. Los trabajadores del sector Sección 26, Telesecundaria del SNTE, que a la entrada en vigor del presente Decreto, ya se encuentren cotizando ante la Dirección de Pensiones del Estado, se seguirán rigiendo conforme a las disposiciones de la Ley del año 2001.
 
@@ -2298,5 +2296,13 @@ P.O. 1 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0121.- SE REFORMA EL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 0662, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO “PLAN DE SAN LUIS”, EL CUATRO DE JULIO DE DOS MIL DIECISIETE”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0179.- SE DEROGA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis."
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
