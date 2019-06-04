@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2018-06-22"
+last_updated: "2019-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CRÉDITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2019.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -1306,9 +1306,11 @@ La distribución de las utilidades y, en su caso, la cuota de liquidación, se h
 
 Las utilidades sólo podrán repartirse después de aprobado el balance general, sin exceder el monto de las que realmente se hubieren obtenido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JUNIO DE 2019)</small>
+
 ###### ARTICULO 40.
 
-La administración de las instituciones de banca de desarrollo estará encomendada a un consejo directivo y a un director general, en los términos de sus propias leyes orgánicas.
+La administración de las instituciones de banca de desarrollo estará encomendada a un consejo directivo, cuyos consejeros independientes deberán integrarse de forma paritaria, y a una dirección general, en los términos de sus propias leyes orgánicas.
 
 > <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2008)</small>
 
@@ -1533,6 +1535,10 @@ A efecto de que los innovadores y creadores a quienes les presten servicios las 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
 ARTICULO 44 BIS 4.- Las instituciones de banca de desarrollo deberán promover la igualdad entre hombres y mujeres y fomentar la inclusión financiera de niños y jóvenes, adoptando una perspectiva de género en sus productos y servicios.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2019)</small>
+
+Las instituciones de banca de desarrollo, los fideicomisos públicos constituidos por el Gobierno Federal para el fomento económico que realicen actividades financieras, y la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, deberán procurar y priorizar, dentro de los recursos destinados a la oferta de productos y servicios financieros, programas y proyectos que atiendan las necesidades específicas de las mujeres en materia de ahorro, inversión, crédito y mecanismos de protección.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
@@ -7885,3 +7891,13 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
 
 TERCERO. Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
+
+D.O.F. 4 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 40 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 44 BIS 4 DE LA LEY DE INSTITUCIONES DE CRÉDITO".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A partir de la entrada en vigor del presente Decreto, las instituciones de banca de desarrollo deberán dar cumplimiento a la integración paritaria de sus consejeros independientes de manera progresiva. De forma que, en tanto no se alcance la paridad, cuando sea necesario nombrar un nuevo miembro de consejo directivo, se deberá elegir a una persona del género que tiene menor representación.
+
+Tercero.- Los sujetos obligados deberán cumplir con las obligaciones a que se refiere el artículo 44 Bis 4 a partir del siguiente año fiscal.
