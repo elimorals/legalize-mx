@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2019-05-01"
+last_updated: "2019-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -1617,6 +1617,30 @@ Los pensionados por retiro, cesantía en edad avanzada y vejez recibirán, inclu
 ###### Artículo 140.
 
 El Instituto concederá ayuda asistencial al pensionado por invalidez, con excepción de los casos comprendidos en las fracciones IV y V del artículo 138, así como a los viudos o viudas pensionados, cuando su estado físico requiera ineludiblemente, que lo asista otra persona de manera permanente o continua. Con base en el dictamen médico que al efecto se formule, la ayuda asistencial consistirá en el aumento hasta del veinte por ciento de la pensión de invalidez o viudez que esté disfrutando el pensionado.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2019)</small>
+
+###### Artículo 140 Bis.
+
+Para los casos de madres o padres trabajadores asegurados, cuyos hijos de hasta dieciséis años hayan sido diagnosticados por el Instituto con cáncer de cualquier tipo, podrán gozar de una licencia por cuidados médicos de los hijos para ausentarse de sus labores en caso de que el niño, niña o adolescente diagnosticado requiera de descanso médico en los periodos críticos de tratamiento o de hospitalización durante el tratamiento médico, de acuerdo a la prescripción del médico tratante, incluyendo, en su caso, el tratamiento destinado al alivio del dolor y los cuidados paliativos por cáncer avanzado.
+
+El Instituto podrá expedir a alguno de los padres trabajadores asegurados, que se sitúe en el supuesto previsto en el párrafo que antecede, una constancia que acredite el padecimiento oncológico y la duración del tratamiento respectivo, a fin de que el patrón o patrones de éstos tengan conocimiento de tal licencia.
+
+La licencia expedida por el Instituto al padre o madre trabajador asegurado, tendrá una vigencia de uno y hasta veintiocho días. Podrán expedirse tantas licencias como sean necesarias durante un periodo máximo de tres años sin que se excedan trescientos sesenta y cuatro días de licencia, mismos que no necesariamente deberán ser continuos.
+
+Los padres o madres trabajadores asegurados ubicados en el supuesto establecido en los párrafos que anteceden y que hayan cubierto por lo menos treinta cotizaciones semanales en el periodo de doce meses anteriores a la fecha del diagnóstico por los servicios médicos institucionales, y en caso de no cumplir con este periodo, tener al menos registradas cincuenta y dos semanas de cotización inmediatas previas al inicio de la licencia, gozarán de un subsidio equivalente al sesenta por ciento del último salario diario de cotización registrado por el patrón.
+
+La licencia a que se refiere el presente artículo, únicamente podrá otorgarse a petición de parte, ya sea al padre o madre que tenga a su cargo el ejercicio de la patria potestad, la guarda y custodia del menor. En ningún caso se podrá otorgar dicha licencia a ambos padres trabajadores del menor diagnosticado.
+
+Las licencias otorgadas a padres o madres trabajadores previstas en el presente artículo, cesarán:
+
+I. Cuando el menor no requiera de hospitalización o de reposo médico en los periodos críticos del tratamiento;
+
+II. Por ocurrir el fallecimiento del menor;
+
+III. Cuando el menor cumpla dieciséis años;
+
+IV. Cuando el ascendiente que goza de la licencia, sea contratado por un nuevo patrón.
 
 #### SECCION QUINTA. DE LA CUANTIA DE LAS PENSIONES DE INVALIDEZ Y VIDA
 
@@ -4313,3 +4337,11 @@ Vigésimo Séptimo. Representantes de los trabajadores y de los patrones ante la
 Asimismo, de incurrir los representantes trabajadores y patrones en algún tipo de responsabilidad, le serán aplicables las sanciones contenidas en la Ley Federal del Trabajo vigente.
 
 Vigésimo Octavo. Derogación explícita y tácita de preceptos incompatibles. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
+
+D.O.F. 4 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL, DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO Y DE LA LEY FEDERAL DEL TRABAJO".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los recursos para el ejercicio 2019 se obtendrán de los apartados precisados en el presente Decreto y posteriormente los recursos que se requieran deberán ser garantizados, etiquetados y provisionados con anterioridad por la Secretaría de Hacienda y Crédito Público en los Presupuestos de Egresos de la Federación de los ejercicios que correspondan, y en el entendido de que la implementación de tal programa no impactará de forma alguna las cuotas obrero-patronales recabadas por los Institutos de Seguridad Social del Gobierno Federal.
