@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ingresos-del-municipio-de-matlapa-san-luis-potosi-134265
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2019-01-10"
-last_updated: "2019-01-10"
+last_updated: "2019-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE INGRESOS DEL MUNICIPIO DE MATLAPA, S.L.P. PARA EL EJERCICIO FISCAL DEL AÑO 2019
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de enero de 2019.
 
@@ -203,7 +203,7 @@ a) Alterar el orden y afectar la seguridad pública 5.00N
 
 b) Ofender y agredir física o verbalmente a cualquier miembro de la sociedad 5.00
 
-c) Por la práctica de vandalismo que altere o dañe el alumbrado público, distribución de agua y vías de comunicación 10.00
+c) Por la práctica de vandalismo que altere o dañe el alumbrado público, distribución de agua y ·vías de comunicación 10.00
 
 d) Solicitar los servicios de emergencia en falsa alarma 5.00
 
@@ -217,7 +217,7 @@ h) Usar silbato, sirena, códigos, torretas u otro medio propio de la policía s
 
 i) Presentarse sin ropa de manera dolosa en la vi a publica 8.00
 
-j) Obstruir con objetos las rampas o espacios destinados para uso de las personas con discapacidad 5.00
+j) Obstruir con objetos las rampas o espacios destinados para uso de las·personas con discapacidad 5.00
 
 k) Tirar basura o cualquier desecho contaminante a los ríos, arroyos, pozos, cauces o cuencas 8.00
 
