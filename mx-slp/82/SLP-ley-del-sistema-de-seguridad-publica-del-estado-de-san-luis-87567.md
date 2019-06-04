@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2019-04-15"
+last_updated: "2019-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -467,7 +467,9 @@ V. Aprehender a los infractores de la ley en los casos de flagrante delito, poni
 
 VI. Vigilar el tránsito de vehículos y peatones en las calles, caminos, carreteras, puentes y áreas de jurisdicción estatal, e imponer las sanciones que correspondan;
 
-VII. Ejecutar los programas y acciones diseñados para garantizar la seguridad pública y prevenir los delitos;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2019)</small>
+
+VII. Ejecutar los programas y acciones diseñados para garantizar la seguridad pública y prevenir los delitos; observándose en los protocolos de sus programas y acciones, que se haya dado cumplimiento a los operativos de vigilancia y monitoreo en rutas de transporte público, así como patrullaje continuo en los sectores urbanos con mayor incidencia delictiva. Los que serán evaluados de manera permanente para verificar su grado de efectividad;
 
 > <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2018)</small>
 
@@ -884,6 +886,10 @@ La coordinación de los cuerpos de seguridad pública en caso de siniestro y acc
 Los integrantes de las instituciones de seguridad pública en el Estado y los ayuntamientos, por la naturaleza de su función, y atendiendo a lo establecido en lo conducente por los artículos, 123 Apartado B fracción XIII de la Constitución Política de los Estados Unidos Mexicanos; y 89 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, tendrán el carácter de agentes depositarios de autoridad. Por tanto, su relación con la administración pública será de carácter administrativo, y se regirá por lo establecido en esta Ley y demás ordenamientos aplicables.
 
 Las instituciones de seguridad pública deberán garantizar para su personal, al menos las prestaciones previstas para los trabajadores al servicio del Estado y municipios; generarán, de acuerdo a sus necesidades y con cargo a sus presupuestos, una normatividad de régimen complementario de seguridad social y reconocimientos, de acuerdo a lo previsto en el artículo 123 apartado B fracción XIII párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2019)</small>
+
+Anualmente se considerará aumento en la (sic) remuneraciones en la (sic) percepciones y prestaciones de los integrantes de los cuerpos de seguridad pública estatales y municipales, que realicen funciones operativas o actividades técnicas de apoyo operativo, que acrediten haber participado en el año inmediato anterior en cursos de formación inicial, continua, evaluaciones de desempeño en el servicio, de habilidades, destrezas y conocimientos de la función policial; en el caso de los municipios además de lo anterior deberán acreditar haber adoptado la estructuración de la jerarquización terciaria establecida en los artículos, 68, 69 y 70 de esta Ley; y deberán contar todos con el certificado único policial vigente para ser candidatos a dichos incrementos; al respecto, las modificaciones a los presupuestos de egresos que resuelvan aumentos salariales deberán ser fundados y motivados, sin que, en ningún caso, puedan ser disminuidos, pero si podrán permanecer sin variaciones las anualidades que sean necesarias, a fin de ajustarse a los principios establecidos en el presente artículo; dichos incrementos de las remuneraciones deberán ajustarse a los que establecen las normas presupuestales en materia de servicios personales.
 
 ###### ARTICULO 52.
 
@@ -2744,3 +2750,19 @@ P.O. 15 DE ABRIL DE 2019.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se oponen al presente Decreto.
+
+P.O. 4 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0175.- SE REFORMA EL ARTÍCULO 27 EN SU FRACCIÓN VII, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se oponen al presente Decreto.
+
+P.O. 4 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0176.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 51, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
