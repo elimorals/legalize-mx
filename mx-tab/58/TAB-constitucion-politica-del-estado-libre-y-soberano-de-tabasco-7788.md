@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2019-05-01"
+last_updated: "2019-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2019.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -131,7 +131,9 @@ XXVI. Los hombres y las mujeres deben tener formal y materialmente derechos igua
 
 XXVII. Las leyes y políticas públicas deben procurar la eliminación de las desigualdades sociales que afectan a las personas con discapacidad;
 
-XXVIII. Toda persona tiene derecho a un procedimiento judicial ante los jueces o tribunales locales competentes para proteger los derechos y libertades que la Constitución y las leyes del estado le reconocen;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2019)</small>
+
+XXVIII. Toda persona tiene derecho a un procedimiento judicial ante los jueces o tribunales locales competentes para proteger los derechos y libertades que la Constitución y las leyes del estado le reconocen. Las autoridades deberán privilegiar la solución del conflicto sobre los formalismos procedimentales, siempre que no se afecte la igualdad entre las partes, el debido proceso u otros derechos en los juicios o procedimientos seguidos en forma de juicio;
 
 XXIX. Los poderes públicos del Estado procurarán que los derechos humanos se respeten en las relaciones entre particulares;
 
@@ -3706,3 +3708,19 @@ TERCERO.- Dentro de los ciento ochenta días posteriores a la entrada en vigor d
 CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 QUINTO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, la presente reforma fue aprobada por los Ayuntamientos de la entidad.
+
+P.O. 5 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 099 POR EL QUE "SE REFORMA EL ARTÍCULO 2, PÁRRAFO QUINTO, FRACCIÓN XXVIII DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+De conformidad con lo establecido en el Artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, la presente reforma fue aprobada por los ayuntamientos de la Entidad.
