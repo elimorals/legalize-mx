@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2019-03-27"
+last_updated: "2019-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -169,11 +169,11 @@ Para los efectos de esta Ley y en correlación con las leyes aplicables, la viol
 
 La violencia laboral y docente, es la que se ejerce por las personas que tienen un vínculo laboral, docente o similar a éstos con la víctima, independientemente de la relación jerárquica, y consiste en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad o seguridad de la víctima, impide su desarrollo y atenta contra su derecho a la igualdad. Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño; también incluye el acoso o el hostigamiento sexual.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2019)</small>
 
 ###### Artículo 10.
 
-Constituye violencia laboral, no respetar la permanencia o condiciones de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, la explotación y la discriminación por condición de género, el impedimento u omisión a las mujeres de ejercer el período de lactancia de dos reposos extraordinarios por día, de media hora cada uno y hasta por seis meses.
+Constituye violencia laboral: la negativa ilegal a contratar a la Victima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, las conductas referidas en la Ley Federal del Trabajo, la explotación, el impedimento u omisión a las mujeres de ejercer el período de lactancia de dos reposos extraordinarios por día, de media hora cada uno y hasta por seis meses previsto en la Ley y todo tipo de discriminación por su género.
 
 ###### Artículo 11.
 
@@ -1172,3 +1172,9 @@ P.O. 27 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 110. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN III Y IV DEL ARTÍCULO 16; LA FRACCIÓN IV DEL ARTÍCULO 26; Y EL ARTÍCULO 49; Y POR ADICIÓN DE UNA FRACCIÓN V AL ARTÍCULO 16 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN LA FRACCIÓN III DEL ARTÍCULO 28; LA FRACCIÓN I DEL ARTÍCULO 35; LA FRACCIÓN I DEL ARTÍCULO 36; Y EL ARTÍCULO 56 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 5 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 142. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 10 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
