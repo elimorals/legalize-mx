@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-micro-pequena-y-mediana-empresa-para-el-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2018-11-16"
+last_updated: "2019-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2019.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -153,7 +153,9 @@ VI. Promover que las dependencias y entidades de la Administración Pública Est
 
 Para la ejecución de las políticas y acciones contenidas en el artículo anterior, deberán considerarse los siguientes rubros:
 
-I. Capacitación y formación empresarial, así como de asesoría y consultoría para las MIPYMES;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2019)</small>
+
+I. Capacitación y formación empresarial, así como de asesoría y consultoría para las MIPYMES, principalmente en temas fiscales y de seguridad social;
 
 II. Fortalecer y fomentar la formación de emprendedores, así como la constitución de incubadoras de empresas;
 
@@ -221,13 +223,23 @@ III. Orientación sobre canales de distribución adecuados y mejoras en los sist
 
 IV. La integración y fortalecimiento de las cadenas productivas y Agrupamientos Empresariales (CLUSTERS);
 
-V. El desarrollo de proveedores, almacenistas e intermediarios; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2019)</small>
 
-VI. Promoción de las MIPYMES a nivel nacional e internacional.
+V. El desarrollo de proveedores, almacenistas e intermediarios;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2019)</small>
+
+VI. Promoción de las MIPYMES a nivel nacional e internacional; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2019)</small>
+
+VII. Cursos y capacitaciones en donde se genere una conciencia tributaria y se informe sobre temas fiscales y de seguridad social.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2019)</small>
 
 ###### Artículo 13.
 
-La Secretaría deberá concertar con los gobiernos municipales y las instituciones de educación superior, la integración de una red estatal de incubadoras de nuevos proyectos, con el fin de apoyar el desarrollo económico de las MIPYMES.
+La Secretaría deberá concertar con los gobiernos municipales y las instituciones de educación superior, la integración de una red estatal de incubadoras de nuevos proyectos, con el fin de apoyar el desarrollo económico de las MIPYMES, así como celebrar convenios para informar a los emprendedores sobre temas fiscales y de seguridad social.
 
 ###### Artículo 14.
 
@@ -458,5 +470,11 @@ NORA ELIA CANTÚ SUÁREZ
 P.O. 16 DE NOVIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 016. SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES XIX, XX Y ADICIÓN DE UNA FRACCIÓN XXI DEL ARTÍCULO 3, ASÍ COMO POR MODIFICACIÓN DE LA FRACCIÓN V DEL ARTÍCULO 15, AMBOS DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 131. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN I DEL ARTÍCULO 7, LAS FRACCIONES V Y VI DEL ARTÍCULO 12 Y EL ARTÍCULO 13, ASÍ COMO POR ADICIÓN DE UNA FRACCIÓN VII DEL ARTÍCULO 12 TODOS DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES XXII Y XXIII Y POR ADICIÓN DE LA FRACCIÓN XXIV TODOS DEL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
