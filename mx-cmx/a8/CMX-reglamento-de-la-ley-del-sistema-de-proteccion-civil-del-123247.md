@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-del-sistema-de-proteccion-civil-del-123247
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-06"
-last_updated: "2017-09-06"
+last_updated: "2019-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123247&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-01-31"
 ---
 # REGLAMENTO DE LA LEY DEL SISTEMA DE PROTECCION CIVIL DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO SEXTO TRANSITORIO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 5 DE JUNIO DE 2019, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 60 DÍAS NATURALES POSTERIORES A SU PUBLICACIÓN.]</small>
+
 REGLAMENTO DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE JUNIO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 6 de septiembre de 2017.
 
@@ -2195,3 +2197,43 @@ CUARTO.- En cuanto a las atribuciones conferidas en este Reglamento al Centro de
 QUINTO.- Los Programas Internos y Especiales de Protección Civil autorizados con anterioridad a la publicación de los Términos de Referencia actualizados con base a lo estipulado en este Reglamento, estarán vigentes en los términos y con la temporalidad autorizada.
 
 Dado en la residencia oficial del Jefe de Gobierno de la Ciudad de México, a los treinta y un días del mes de abril de dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, DR. MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVÉZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, SALOMÓN CHERTORIVSKI WOLDENBERG.- FIRMA. EL SECRETARIO DE CULTURA, EDUARDO VÁZQUEZ MARTÍN.- FIRMA.- EL SECRETARIO DE MOVILIDAD, HÉCTOR SERRANO CORTÉS.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, TANYA MÜLLER GARCÍA. FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, EDGAR OSWALDO TUNGÜÍ RODRÍGUEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, FAUSTO LUGO GARCÍA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MAURICIO RODRIGUEZ ALONSO.- FIRMA.- EL SECRETARIO DE FINANZAS, EDGAR ABRAHAM AMADOR ZAMORA.-FIRMA.- EL SECRETARIO DE SALUD, DR. JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE TURISMO, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, AMALIA DOLORES GARCÍA MEDINA.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor a los 60 días naturales posteriores a su publicación.
+
+TERCERO. El Reglamento de la presente Ley se expedirá dentro de los ciento veinte días naturales siguientes a la publicación del presente decreto.
+
+CUARTO. La Secretaría contará con noventa días naturales a partir de la publicación de la presente Ley para llevar a cabo la actualización de los Términos de Referencia y Normas Técnicas.
+
+QUINTO. La Secretaría contará con noventa días naturales a partir de la publicación de la presente Ley para llevar a cabo la implementación de la Plataforma Digital a que hace referencia esta Ley.
+
+SEXTO. Los Programas Internos y Especiales de Protección Civil autorizados con anterioridad a la publicación de los Términos de Referencia, mantendrán su vigencia con la temporalidad autorizada.
+
+SÉPTIMO. Hasta en tanto se publica el Reglamento y las disposiciones a las que se refiere el artículo Cuarto Transitorio, estarán vigentes las actuales, en lo que no se oponga a la presente Ley.
+
+OCTAVO. Los registros vigentes de Tercero Acreditado expedidos anteriormente a la entrada en vigor de la presente Ley, conservarán dicha calidad hasta el término de su vigencia, debiendo tramitar uno nuevo.
+
+NOVENO. La Secretaría deberá remitir a las Alcaldías el padrón de los Terceros Acreditados al que hace referencia esta Ley, en un término no mayor a quince días naturales posteriores a la entrada en vigor de la misma.
+
+DÉCIMO. La publicación de los padrones en los portales institucionales a los que hace referencia la presente Ley, deberá hacerse en un periodo no mayor a quince días naturales posteriores a la entrada en vigor de la presente.
+
+UNDÉCIMO. La Secretaría contará con un término de sesenta días naturales posteriores a la entrada en vigor de la presente Ley para integrar y presentar los Lineamientos Técnicos Operativos para la elaboración de los Atlas de Riesgos de las Alcaldías.
+
+DUODÉCIMO. La Secretaría de Administración y Finanzas, conforme a sus atribuciones, considerará los recursos necesarios para la implementación del Sistema de Alerta Temprana, dentro de los recursos asignados a la Secretaría.
+
+DÉCIMO TERCERO. Las referencias hechas en este ordenamiento a la Fiscalía General de Justicia de la Ciudad de México deberán entenderse hechas a la Procuraduría General de Justicia del Distrito Federal, hasta en tanto no empiece a operar la referida Fiscalía.
+
+DÉCIMO CUARTO. Las referencias que en otros cuerpos normativos se hagan al Comité de Usuarios del Subsuelo se entenderán referidas al Comité de Instalaciones Subterráneas.
+
+DÉCIMO QUINTO. Una vez que entre en vigor la presente Ley, se abrogan las disposiciones de los Términos de Referencia y de las Normas Técnicas Complementarias que se opongan a la misma.
+
+DÉCIMO SEXTO. Una vez que entre en vigor la presente Ley, se abroga la Ley del Sistema de Protección Civil del Distrito Federal publicada en la Gaceta Oficial de la Ciudad de México el veintisiete de noviembre de dos mil catorce, así como las disposiciones del Reglamento de la Ley del Sistema de Protección Civil del Distrito Federal, publicado en la Gaceta Oficial de la Ciudad de México el seis de septiembre de dos mil diecisiete, y cualquier disposición que contravenga lo dispuesto por la presente Ley.
+
+DÉCIMO SÉPTIMO. De conformidad con la Constitución Política de la Ciudad de México, se velará por erradicar cualquier práctica monopólica respecto de la aplicación de la presente Ley.
