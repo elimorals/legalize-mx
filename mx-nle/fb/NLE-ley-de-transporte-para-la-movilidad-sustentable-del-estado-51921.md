@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transporte-para-la-movilidad-sustentable-del-estado-5192
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2018-06-01"
+last_updated: "2019-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 30 de septiembre de 2006.
 
@@ -373,7 +373,7 @@ IV. Vocales:
 
 27) Un representante de la Cámara Nacional de la Industria Minera;
 
-28) Un representante de (sic) Asociación Nacional de Fabricantes de Cerveza; y (sic)
+28) Un representante de (sic) Asociación Nacional de Fabricantes de Cerveza; y
 
 29) Un representante de la Cámara Nacional de Aceites y Jabones;
 
@@ -575,6 +575,14 @@ b) El desarrollo de la infraestructura para el servicio de transporte es respons
 
 c) La previsión y desarrollo de la infraestructura para los servicios de transporte por parte de las autoridades y desarrolladores inmobiliarios será condicionante para establecer la factibilidad de dicho servicio.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 5 DE JUNIO DE 2019)</small>
+
+V. Igualdad y Accesibilidad, estableciendo los siguientes lineamientos:
+
+a) Las Autoridades Estatales son responsables de implementar planes y programas para garantizar que la movilidad a través del sistema de transporte esté al alcance de todos, sin discriminación por razones de género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana, a costos accesibles y con información clara y oportuna; y
+
+b) El Sistema de Transporte, buscará equiparar las oportunidades de la población para alcanzar un efectivo ejercicio de su derecho a la movilidad, poniendo especial énfasis en grupos en desventaja física, social y económica, a fin de evitar cualquier tipo de exclusión.
+
 ###### Artículo 19.
 
 El Servicio Estatal de Transporte SET se integra por:
@@ -713,7 +721,7 @@ VI.- Servicio de vehículos de Alquiler: Aquel que se presta previa autorizació
 
 En el Área Metropolitana de Monterrey será obligatorio el uso de taxímetro con excepción de aquellos autorizados para prestar el servicio diferenciado o en zonas delimitadas. La Agencia establecerá los términos de identificación de los vehículos que presten el servicio en las diferentes zonas del Estado.
 
-VII. Servicio Auxiliar de Transporte: aquel (sic) que se presta previa autorización de la Agencia por medios alternos, entre los que se encuentran los de tracción humana, animal, eléctrica, mecánica o de combustión interna.
+VII. Servicio Auxiliar de Transporte: aquel que se presta previa autorización de la Agencia por medios alternos, entre los que se encuentran los de tracción humana, animal, eléctrica, mecánica o de combustión interna.
 
 ###### Artículo 27.
 
@@ -2023,7 +2031,7 @@ EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN EDUARDO MARTÍNEZ DONDÉ
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 13 DE JULIO DE 2007.
 
@@ -2092,3 +2100,9 @@ P.O. 1 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 395. SE REFORMA EL ARTÍCULO 18 POR MODIFICACIÓN DE LOS INCISOS C) Y D) Y POR ADICIÓN DE UN INCISO E) A SU FRACCIÓN TERCERA DE LA LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 143. SE REFORMAN POR ADICIÓN DE UNA FRACCIÓN V AL ARTÍCULO 18 DE LA LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
