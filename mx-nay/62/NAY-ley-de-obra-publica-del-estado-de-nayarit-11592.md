@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-obra-publica-del-estado-de-nayarit-11592"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-19"
-last_updated: "2018-04-20"
+last_updated: "2019-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY DE OBRA PÚBLICA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2019
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit el Miércoles 19 de Abril de 1995.
 
@@ -234,6 +234,48 @@ II.- Por invitación a cuando menos tres contratistas, y
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
 
 III.- Adjudicación directa.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2019)</small>
+
+###### Artículo 20 Bis.
+
+En las licitaciones públicas, cuyo monto rebase el equivalente a cien mil veces la UMA y en aquellos casos que determine (sic) las Secretarías de Administración y Finanzas, Contraloría General y Obras Públicas del Estado atendiendo al impacto que la contratación tenga en los programas sustantivos de la dependencia o entidad, participarán testigos sociales conforme a lo siguiente:
+
+I. Las Secretarías de Administración y Finanzas, Contraloría General y Obras Públicas del Estado tendrán a su cargo el padrón público de testigos sociales, quienes participarán en todas las etapas de los procedimientos de licitación pública, a los que se refiere esta Ley, con voz y emitirán un testimonio final que incluirá sus observaciones y en su caso recomendaciones, mismo que tendrá difusión en la página electrónica de cada dependencia o entidad y se integrará al expediente respectivo;
+
+II. Los testigos sociales serán seleccionados mediante convocatoria pública, emitida por las Secretarías de Administración y Finanzas, Contraloría General y de Obras Públicas del Estado;
+
+III. Las Secretarías de Administración y Finanzas, Contraloría General y de Obras Públicas del Estado acreditarán como testigos sociales a aquellas personas que cumplan con los siguientes requisitos:
+
+a) Ser ciudadano mexicano en ejercicio de sus derechos o extranjero cuya condición migratoria permita la función a desarrollar;
+
+b) Cuando se trate de una organización no gubernamental, acreditar que se encuentra constituida conforme a las disposiciones legales aplicables y que no persigue fines de lucro;
+
+c) No haber sido sentenciado con pena privativa de libertad;
+
+d) No ser servidor público en activo en México y/o en el extranjero. Asimismo, no haber sido servidor público Federal o Estatal durante al menos un año previo a la fecha en que se presente su solicitud para ser acreditado;
+
+e) No haber sido sancionado como servidor público ya sea Federal, estatal, municipal o por autoridad competente en el extranjero;
+
+f) Presentar currículum en el que se acrediten los grados académicos, la especialidad correspondiente, la experiencia laboral y, en su caso, docente, así como los reconocimientos que haya recibido a nivel académico y profesional;
+
+g) Asistir a los cursos de capacitación que impartan las Secretarías de Administración y Finanzas, Contraloría General y Obras Públicas del Estado sobre esta Ley, y
+
+h) Presentar manifestación escrita bajo protesta de decir verdad que se abstendrá de participar en contrataciones en las que pudiese existir conflicto de intereses, ya sea porque los licitantes o los servidores públicos que intervienen en las mismas tienen vinculación académica, de negocios o familiar.
+
+IV. Los testigos sociales tendrán las funciones siguientes:
+
+a) Proponer a las dependencias, entidades y a las Secretarías de Administración y Finanzas, Contraloría General y Obras Públicas del Estado mejoras para fortalecer la transparencia, imparcialidad y las disposiciones legales en materia de obras públicas y servicios relacionados con las mismas;
+
+b) Dar seguimiento al establecimiento de las acciones que se recomendaron derivadas de su participación en las contrataciones, y
+
+c) Emitir al final de su participación el testimonio correspondiente del cual entregarán un ejemplar a las Secretarías de Administración y Finanzas, Contraloría General y Obras Públicas del Estado. Dicho testimonio deberá ser publicado dentro de los diez días naturales siguientes a su participación en la página de Internet de la dependencia o entidad que corresponda.
+
+En caso de que el testigo social detecte irregularidades en los procedimientos de contratación, deberá remitir su testimonio al área de quejas del órgano interno de control de la dependencia o entidad convocante.
+
+Se podrá exceptuar la participación de los testigos sociales en aquellos casos en que los procedimientos de contrataciones contengan información clasificada como reservada que pongan en riesgo la seguridad del Estado en los términos de las disposiciones legales aplicables.
+
+El Reglamento de esta Ley especificará los montos de la contraprestación al testigo social en función de la importancia y del presupuesto asignado a la contratación.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
 
@@ -626,6 +668,10 @@ Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará a 
 La dependencia o entidad convocante emitirá un dictamen que servirá como fundamento para el fallo, en el que se hará constar el análisis de las proposiciones admitidas y se hará mención de las proposiciones desechadas.
 
 Contra la resolución que contenga el fallo, no procederá recurso alguno, pero los licitantes podrán inconformarse en los términos del artículo 69.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2019)</small>
+
+En las licitaciones públicas que cuenten con la participación de un testigo social, éste invariablemente deberá ser invitado al mismo. Igualmente será convocado un representante del órgano interno de control de la dependencia o entidad de que se trate.
 
 > <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -1023,15 +1069,17 @@ La Secretaria de la Contraloría General del Estado en el ejercicio de sus facul
 
 DE LAS INFRACCIONES Y SANCIONES.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2019)</small>
 
-###### ARTICULO 62.
+###### Artículo 62.
 
-Quienes infrinjan las disposiciones contenidas en esta Ley o los lineamientos que en base a ella se dicten, serán sancionados por la Secretaria de la Contraloría General del Estado, independientemente de la aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado, con multa de cincuenta a trescientas veces la UMA.
+Quienes infrinjan las disposiciones contenidas en esta Ley o los lineamientos que en base a ella se dicten, serán sancionados por la Secretaría de la Contraloría General del Estado, independientemente de las normas aplicables en materia de responsabilidades de los servidores públicos, con multa de cien a seiscientas veces la UMA.
 
-###### ARTICULO 63.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2019)</small>
 
-Los contratistas que se encuentren en el supuesto de las fracciones III a la VII del artículo 31, no podrán presentar propuesta ni celebrar contratos durante un plazo que será establecido por la Secretaria de la Contraloría General del Estado, el cual no será menor de doce meses ni mayor de dos años, contados a partir de la fecha en que la Contraloría lo haga del conocimiento de las dependencias y entidades de la Administración Pública Estatal.
+###### Artículo 63.
+
+Los contratistas que se encuentren en el supuesto de las fracciones III a la VII del artículo 31, no podrán presentar propuesta ni celebrar contratos durante un plazo que será establecido por la Secretaría de la Contraloría General del Estado, el cual no será menor de dos años ni mayor a la duración de la administración del Poder Ejecutivo del Estado o del Ayuntamiento que se trate, contados a partir de la fecha en que la Contraloría lo haga del conocimiento de las dependencias y entidades de la Administración Pública Estatal.
 
 ###### ARTICULO 64.
 
@@ -1224,3 +1272,13 @@ Segundo.- El Registro Único de Contratistas del Estado de Nayarit deberá insta
 Tercero.- La Secretaría de Administración y Finanzas en el marco de sus atribuciones deberá hacer las previsiones presupuestales necesarias para la operación del Registro Único de Contratistas del Estado de Nayarit.
 
 Cuarto.- El Titular del Poder Ejecutivo deberá expedir el Reglamento correspondiente de la Ley de Obra Pública del Estado de Nayarit a los 180 días siguientes, a la entrada en vigor del presente Decreto.
+
+P.O. 5 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE OBRA PÚBLICA PARA EL ESTADO DE NAYARIT”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Las Secretarías de Administración y Finanzas, Contraloría General y Obras Públicas del Estado realizarán cada año una evaluación para determinar el incremento de la cobertura de la participación de los testigos sociales a que se refieren los artículos 20 Bis y 35 en su último párrafo de la Ley de Obra Pública del Estado de Nayarit, estas Secretarías instrumentarán medidas con el propósito de ampliar dicha cobertura para garantizar, en un plazo de cinco años a partir de la entrada en vigor del presente Decreto, la cobertura total de testigos sociales en la contratación pública.
+
+TERCERO.- Las reglamentaciones correspondientes especificarán los montos de la contraprestación al testigo social a las que hace referencia el último párrafo del artículo 20 Bis, en un plazo no mayor a noventa días.
