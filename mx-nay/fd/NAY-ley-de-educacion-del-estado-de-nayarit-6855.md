@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2016-11-08"
+last_updated: "2019-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -209,7 +209,13 @@ X.- Prestar los servicios de formación, actualización, capacitación y superac
 
 XI.- Garantizar la aplicación de los recursos concurrentes que aporten las Autoridades Federal y Estatal, destinados a Carrera Magisterial;
 
-XII.- Otorgar un salario profesional suficiente y las prestaciones básicas que señalan las leyes respectivas para que los educadores de los planteles del propio estado alcancen un nivel de vida decoroso para su familia y puedan arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2019)</small>
+
+XII.- Otorgar un salario profesional suficiente y las prestaciones básicas que señalan las leyes respectivas para que los educadores de los planteles del propio estado alcancen un nivel de vida decoroso para su familia y puedan arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2019)</small>
+
+El Estado creará en coordinación con el Instituto Promotor de la Vivienda de Nayarit, el Fondo de Vivienda para los Trabajadores de la Educación al Servicio del Estado, en los términos del artículo 4º de la Constitución Política de los Estados Unidos Mexicanos;
 
 XIII.- De acuerdo con su capacidad presupuestal apoyar por medio de becas a los alumnos de todo nivel de pocas posibilidades económicas que demuestren óptimo aprovechamiento escolar;
 
@@ -1390,3 +1396,13 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 80 DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 5 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XII DEL ARTÍCULO 9 DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- La Secretaría de Administración y Finanzas deberá realizar las adecuaciones presupuestarias necesarias a efecto de propiciar la operación óptima del Fondo de Vivienda para los Trabajadores de la Educación al Servicio del Estado a que hace referencia el presente Decreto.
+
+TERCERO.- En un plazo que no exceda de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Administración y Finanzas en coordinación con la Secretaría de Educación del Estado de Nayarit, deberá emitir el Reglamento correspondiente.
