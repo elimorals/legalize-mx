@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-proteccion-e-inclusion-de-las-personas-con-22515"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-15"
-last_updated: "2018-11-15"
+last_updated: "2019-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2019.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 15 de mayo de 1996.
 
@@ -171,13 +171,17 @@ VI.- Orientación y planificación familiar;
 
 VII.- La facilidad en el acceso a los distintos medios de comunicación y transporte;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2019)</small>
 
-VIII.- Tener un diagnóstico y una evaluación clínica temprana, precisa y accesible que incluya historial familiar, neonatal y médico-evolutivo, así como características anatómicas, y
+VIII.- Tener un diagnóstico y una evaluación clínica temprana, precisa y accesible que incluya historial familiar, neonatal y médico-evolutivo, así como características anatómicas;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JUNIO DE 2019)</small>
 
-IX.- Los demás que establezca esta Ley, acuerden o convengan las autoridades competentes y otros ordenamientos, que garanticen su integridad, dignidad, bienestar y plena integración a la sociedad.
+IX.- El acceso a la información, para que en las dependencias que se lleven a cabo sesiones o audiencias de carácter público se realice la traducción en lengua de señas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE JUNIO DE 2019)</small>
+
+X.- Los demás que establezca esta Ley, acuerden o convengan las autoridades competentes y otros ordenamientos, que garanticen su integridad, dignidad, bienestar y plena integración a la sociedad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2014)</small>
 
@@ -467,6 +471,10 @@ Las construcciones o modificaciones de los edificios públicos y privados destin
 
 Igual disposición regirá en la planificación y urbanización de las vías, parques y jardines públicos a fin de facilitar el uso, tránsito y desplazamiento en estos espacios por las personas con discapacidad.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2019)</small>
+
+Artículo 35 bis.- Las instancias encargadas de autorizar los proyectos para la construcción, remodelación, así como la apertura de espacios destinados a prestar servicios al público procurarán que cuenten con rampas de acceso para las personas en sillas de ruedas, escalones universales fijos y móviles para las personas de talla pequeña y guías o surcos lineales para las personas con discapacidad visual.
+
 ###### Artículo 36.
 
 Las barreras arquitectónicas que en lugares con acceso público deben ser adecuadas, en su caso, con facilidades para las personas que padecen algún tipo y grado de discapacidad, son las siguientes:
@@ -681,13 +689,17 @@ IX.- Presentar un informe anual de actividades al Gobernador del Estado;
 
 X.- Apoyar y proponer mecanismos de coordinación entre las autoridades de la federación, los particulares y los municipios con el fin de alinear y ejecutar los programas en materia de atención y protección a personas con trastornos generalizados del desarrollo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2019)</small>
 
-XI.- Constituir comisiones internas encargadas de atender asuntos o materias específicas para la debida inclusión de las personas con discapacidad, y
+XI.- Constituir comisiones internas encargadas de atender asuntos o materias específicas para la debida inclusión de las personas con discapacidad;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JUNIO DE 2019)</small>
 
-XII.- Las demás que sean necesarias para la consecución de los fines de su creación.
+XII.- Vigilar que las dependencias en las que se lleven a cabo sesiones o audiencias de carácter público, realicen la traducción en lengua de señas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE JUNIO DE 2019)</small>
+
+XIII.- Las demás que sean necesarias para la consecución de los fines de su creación.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -1008,3 +1020,15 @@ SEGUNDO.- El Consejo Estatal para la Inclusión de las Personas con Discapacidad
 TERCERO.- El Poder Ejecutivo del Estado en un plazo que no exceda de treinta días naturales siguientes a la entrada en vigor del presente Decreto deberá realizar las adecuaciones reglamentarias correspondientes para el funcionamiento del Consejo Estatal para la Inclusión de las Personas con Discapacidad.
 
 CUARTO.- Dentro de los sesenta días naturales siguientes a la instalación del Consejo Estatal para la Inclusión de las Personas con Discapacidad, deberá emitirse la reglamentación interna correspondiente.
+
+P.O. 5 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA LOS ARTÍCULOS 6 Y 56 DE LA LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 5 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL ARTÍCULO 35 BIS A LA LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
