@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-proteccion-civil-del-distrito-federal-103698
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-27"
-last_updated: "2018-03-22"
+last_updated: "2019-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103698&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2014-11-11"
 ---
 # LEY DEL SISTEMA DE PROTECCION CIVIL DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO DÉCIMO SEXTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO, PUBLICADA EN EL G.O. DE 5 DE JUNIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE JUNIO DE 2019 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 27 de noviembre de 2014.
 
@@ -2563,3 +2565,41 @@ G.O. 22 DE MARZO DE 2018.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 5 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor a los 60 días naturales posteriores a su publicación.
+
+TERCERO. El Reglamento de la presente Ley se expedirá dentro de los ciento veinte días naturales siguientes a la publicación del presente decreto.
+
+CUARTO. La Secretaría contará con noventa días naturales a partir de la publicación de la presente Ley para llevar a cabo la actualización de los Términos de Referencia y Normas Técnicas.
+
+QUINTO. La Secretaría contará con noventa días naturales a partir de la publicación de la presente Ley para llevar a cabo la implementación de la Plataforma Digital a que hace referencia esta Ley.
+
+SEXTO. Los Programas Internos y Especiales de Protección Civil autorizados con anterioridad a la publicación de los términos de Referencia, mantendrán su vigencia con la temporalidad autorizada.
+
+SÉPTIMO. Hasta en tanto se publica el Reglamento y las disposiciones a las que se refiere el artículo Cuarto Transitorio, estarán vigentes las actuales, en lo que no se oponga a la presente Ley.
+
+OCTAVO. Los registros vigentes de Tercero Acreditado expedidos anteriormente a la entrada en vigor de la presente Ley, conservarán dicha calidad hasta el término de su vigencia, debiendo tramitar uno nuevo.
+
+NOVENO. La Secretaría deberá remitir a las Alcaldías el padrón de los Terceros Acreditados al que hace referencia esta Ley, en un término no mayor a quince días naturales posteriores a la entrada en vigor de la misma.
+
+DÉCIMO. La publicación de los padrones en los portales institucionales a los que hace referencia la presente Ley, deberá hacerse en un periodo no mayor a quince días naturales posteriores a la entrada en vigor de la presente.
+
+UNDÉCIMO. La Secretaría contará con un término de sesenta días naturales posteriores a la entrada en vigor de la presente Ley para integrar y presentar los Lineamientos Técnicos Operativos para la elaboración de los Atlas de Riesgos de las Alcaldías.
+
+DUODÉCIMO. La Secretaría de Administración y Finanzas, conforme a sus atribuciones, considerará los recursos necesarios para la implementación del Sistema de Alerta Temprana, dentro de los recursos asignados a la Secretaría.
+
+DÉCIMO TERCERO. Las referencias hechas en este ordenamiento a la Fiscalía General de Justicia de la Ciudad de México deberán entenderse hechas a la Procuraduría General de Justicia del Distrito Federal, hasta en tanto no empiece a operar la referida Fiscalía.
+
+DÉCIMO CUARTO. Las referencias que en otros cuerpos normativos se hagan al Comité de Usuarios del Subsuelo se entenderán referidas al Comité de Instalaciones Subterráneas.
+
+DÉCIMO QUINTO. Una vez que entre en vigor la presente Ley, se abrogan las disposiciones de los Términos de Referencia y de las Normas Técnicas Complementarias que se opongan a la misma.
+
+DÉCIMO SEXTO. Una vez que entre en vigor la presente Ley, se abroga la Ley del Sistema de Protección Civil del Distrito Federal publicada en la Gaceta Oficial de la Ciudad de México el veintisiete de noviembre de dos mil catorce, así como las disposiciones del Reglamento de la Ley del Sistema de Protección Civil del Distrito Federal, publicado en la Gaceta Oficial de la Ciudad de México el seis de septiembre de dos mil diecisiete, y cualquier disposición que contravenga lo dispuesto por la presente Ley.
+
+DÉCIMO SÉPTIMO. De conformidad con la Constitución Política de la Ciudad de México, se velará por erradicar cualquier práctica monopólica respecto de la aplicación de la presente Ley.
