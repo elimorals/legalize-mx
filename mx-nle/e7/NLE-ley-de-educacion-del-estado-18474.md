@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2019-05-24"
+last_updated: "2019-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -245,13 +245,17 @@ XX.- Impartir la enseñanza del idioma inglés, en los programas establecidos pa
 
 XXI.- Promover en forma permanente el hábito a la lectura y del libro;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2019)</small>
 
-XXII.- Fomentar la convivencia pacífica y respetuosa entre las personas; e
+XXII.- Fomentar la convivencia pacífica y respetuosa entre las personas;
 
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2019)</small>
 
-XXIII.- Implementar programas de orientación vocacional y promover el establecimiento de acuerdos entre instituciones educativas y el sector productivo para impulsar las prácticas profesionales que permitan a los alumnos adquirir aptitudes, capacídades y experiencia de calidad, reforzar el aprendizaje del aula, identificar los intereses de especialización para el efecto de mejorar sus oportunidades de desarrollo profesional.
+XXIII.- Implementar programas de orientación vocacional y promover el establecimiento de acuerdos entre instituciones educativas y el sector productivo para impulsar las prácticas profesionales que permitan a los alumnos adquirir aptitudes, capacidades y experiencia de calidad, reforzar el aprendizaje del aula, identificar los intereses de especialización para el efecto de mejorar sus oportunidades de desarrollo profesional; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2019)</small>
+
+XXIV.- Fomentar en todos los niveles educativos la cultura tributaria.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
 
@@ -627,7 +631,7 @@ XVII.- Instrumentar un sistema accesible a los ciudadanos y docentes para la pre
 
 XVIII.- Diseñar y aplicar programas y acciones tendientes a fortalecer la autonomía de gestión de las escuelas, acorde a los lineamientos que expida la Secretaría de Educación Pública;
 
-(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE DICIEMBRE DE 2017
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 XIX.- Fomentar el uso responsable y seguro de las tecnologías de la información y la comunicación en el sistema educativo, para apoyar el aprendizaje de los estudiantes, ampliar sus competencias para la vida y favorecer su inserción en la sociedad del conocimiento a través de los planes y programas de estudio;
 
@@ -2200,3 +2204,9 @@ P.O. 24 DE MAYO DE 2019.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- La autoridad educativa tendrá 180 días a partir de la entrada en vigor del presente Decreto para realizar y dar a conocer el protocolo de prevención y actuación ante conductas suicidas a las escuelas y padres de familia, las cuales se publicarán en el portal oficial de internet de la Secretaría de Educación, así como también se entregarán en los planteles educativos para la distribución con los padres de familia.
+
+P.O. 5 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 131. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN I DEL ARTÍCULO 7, LAS FRACCIONES V Y VI DEL ARTÍCULO 12 Y EL ARTÍCULO 13, ASÍ COMO POR ADICIÓN DE UNA FRACCIÓN VII DEL ARTÍCULO 12 TODOS DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES XXII Y XXIII Y POR ADICIÓN DE LA FRACCIÓN XXIV TODOS (SIC) DEL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
