@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2019-05-18"
+last_updated: "2019-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE TABASCO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2019 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE JUNIO DE 2019.]
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -3737,9 +3737,9 @@ Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los
 
 Deberes de quienes ejercen la patria potestad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2019)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2019) (F. DE E., P.O. 5 DE JUNIO DE 2019)
 
-Las personas que ejerzan la patria potestad, guardia y custodia, tutela o que tengan bajo su cuidado y vigilancia a niñas, niños y adolescentes, tienen la obligación de educarlos convenientemente, sin ejercer violencia física, psicológica o de cualquier tipo, quedando prohibido el uso del castigo corporal o cualquier otra medida de corrección disciplinaria que atente contra la dignidad humana, observando en todo momento el interés superior del niño.
+Las personas que ejerzan la patria potestad, guarda y custodia, tutela o que tengan bajo su cuidado y vigilancia a niñas, niños y adolescentes, tienen la obligación de educarlos convenientemente, sin ejercer violencia física, psicológica o de cualquier tipo, quedando prohibido el uso del castigo corporal o cualquier otra medida de corrección disciplinaria que atente contra la dignidad humana, observando en todo momento el interés superior del niño.
 
 Las autoridades, en caso contrario, auxiliarán a los titulares de la patria potestad en el ejercicio de ésta y de las demás facultades que les concede la ley, haciendo uso de amonestaciones y correctivos que les presten el apoyo suficiente.
 
