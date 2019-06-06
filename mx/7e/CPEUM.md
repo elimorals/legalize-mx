@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2019-05-15"
+last_updated: "2019-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2019.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -96,7 +96,9 @@ V. Conservar y mejorar el hábitat y preservar la integridad de sus tierras en l
 
 VI. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en esta Constitución y a las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas, en términos de esta Constitución. Para estos efectos las comunidades podrán asociarse en términos de ley.
 
-VII. Elegir, en los municipios con población indígena, representantes ante los ayuntamientos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE JUNIO DE 2019)</small>
+
+VII. Elegir, en los municipios con población indígena, representantes ante los ayuntamientos, observando el principio de paridad de género conforme a las normas aplicables.
 
 Las constituciones y leyes de las entidades federativas reconocerán y regularán estos derechos en los municipios, con el propósito de fortalecer la participación y representación política de conformidad con sus tradiciones y normas internas.
 
@@ -294,11 +296,11 @@ El organismo al que se refiere esta fracción, contará con un Consejo Ciudadano
 
 X. La obligatoriedad de la educación superior corresponde al Estado. Las autoridades federal y locales establecerán políticas para fomentar la inclusión, permanencia y continuidad, en términos que la ley señale. Asimismo, proporcionarán medios de acceso a este tipo educativo para las personas que cumplan con los requisitos dispuestos por las instituciones públicas.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE JUNIO DE 2019)</small>
 
 ###### Art. 4o.
 
-El varón y la mujer son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia.
+La mujer y el hombre son iguales ante la ley. Ésta protegerá la organización y el desarrollo de la familia.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -1416,17 +1418,17 @@ I.- Haber cumplido 18 años, y
 
 II.- Tener un modo honesto de vivir.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE JUNIO DE 2019)</small>
 
 ###### Art. 35.
 
-Son derechos del ciudadano:
+Son derechos de la ciudadanía:
 
 I.- Votar en las elecciones populares;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2019)</small>
 
-II.- Poder ser votado para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
+II.- Poder ser votada en condiciones de paridad para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos y candidatas ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos y las ciudadanas que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
 
 > <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
@@ -1586,17 +1588,21 @@ Es voluntad del pueblo mexicano constituirse en una República representativa, d
 
 El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los casos de la competencia de éstos, y por los de los Estados y la Ciudad de México, en lo que toca a sus regímenes interiores, en los términos respectivamente establecidos por la presente Constitución Federal y las particulares de cada Estado y de la Ciudad de México, las que en ningún caso podrán contravenir las estipulaciones del Pacto Federal.
 
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2019)</small>
+
+La ley determinará las formas y modalidades que correspondan, para observar el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de despacho del Poder Ejecutivo Federal y sus equivalentes en las entidades federativas. En la integración de los organismos autónomos se observará el mismo principio.
+
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
 La renovación de los poderes Legislativo y Ejecutivo se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE JUNIO DE 2019)</small>
 
-I. Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal, las formas específicas de su intervención en el proceso electoral y los derechos, obligaciones y prerrogativas que les corresponden.
+I. Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal, las formas específicas de su intervención en el proceso electoral y los derechos, obligaciones y prerrogativas que les corresponden. En la postulación de sus candidaturas, se observará el principio de paridad de género.
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2019)</small>
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad entre los géneros, en candidaturas a legisladores federales y locales. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, fomentar el principio de paridad de género, contribuir a la integración de los órganos de representación política, y como organizaciones ciudadanas, hacer posible su acceso al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como con las reglas que marque la ley electoral para garantizar la paridad de género, en las candidaturas a los distintos cargos de elección popular. Sólo los ciudadanos y ciudadanas podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
@@ -1960,21 +1966,21 @@ DE LA ELECCION E INSTALACION DEL CONGRESO.
 
 La Cámara de Diputados se compondrá de representantes de la Nación, electos en su totalidad cada tres años. Por cada diputado propietario, se elegirá un suplente.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2019)</small>
 
 ###### Art. 52.
 
-La Cámara de Diputados estará integrada por 300 diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y 200 diputados que serán electos según el principio de representación proporcional, mediante el Sistema de Listas Regionales, votadas en circunscripcionales (sic) plurinominales.
+La Cámara de Diputados estará integrada por 300 diputadas y diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, así como por 200 diputadas y diputados que serán electos según el principio de representación proporcional, mediante el Sistema de Listas Regionales, votadas en circunscripciones plurinominales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE JUNIO DE 2019)</small>
 
 ###### Art. 53.
 
-La demarcación territorial de los 300 distritos electorales uninominales será la que resulte de dividir la población total del país entre los distritos señalados. La distribución de los distritos electorales uninominales entre las entidades federativas se hará teniendo en cuenta el último censo general de población, sin que en ningún caso la representación de una entidad federativa pueda ser menor de dos diputados de mayoría.
+La demarcación territorial de los 300 distritos electorales uninominales será la que resulte de dividir la población total del país entre los distritos señalados. La distribución de los distritos electorales uninominales entre las entidades federativas se hará teniendo en cuenta el último censo general de población, sin que en ningún caso la representación de una entidad federativa pueda ser menor de dos diputados o diputadas de mayoría.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2019)</small>
 
-Para la elección de los 200 diputados según el principio de representación proporcional y el Sistema de Listas Regionales, se constituirán cinco circunscripciones electorales plurinominales en el país. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
+Para la elección de los 200 diputados y diputadas según el principio de representación proporcional y el Sistema de Listas Regionales, se constituirán cinco circunscripciones electorales plurinominales en el país conformadas de acuerdo con el principio de paridad, y encabezadas alternadamente entre mujeres y hombres cada periodo electivo. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
@@ -2056,15 +2062,15 @@ VI. No ser Ministro de algún culto religioso, y
 
 VII. No estar comprendido en alguna de las incapacidades que señala el artículo 59.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE JUNIO DE 2019)</small>
 
 ###### Art. 56.
 
-La Cámara de Senadores se integrará por ciento veintiocho senadores, de los cuales, en cada Estado y en la Ciudad de México, dos serán elegidos según el principio de votación mayoritaria relativa y uno será asignado a la primera minoría. Para estos efectos, los partidos políticos deberán registrar una lista con dos fórmulas de candidatos. La senaduría de primera minoría le será asignada a la fórmula de candidatos que encabece la lista del partido político que, por sí mismo, haya ocupado el segundo lugar en número de votos en la entidad de que se trate.
+La Cámara de Senadores se integrará por ciento veintiocho senadoras y senadores, de los cuales, en cada Estado y en la Ciudad de México, dos serán elegidos según el principio de votación mayoritaria relativa y uno será asignado a la primera minoría. Para estos efectos, los partidos políticos deberán registrar una lista con dos fórmulas de candidatos. La senaduría de primera minoría le será asignada a la fórmula de candidaturas que encabece la lista del partido político que, por sí mismo, haya ocupado el segundo lugar en número de votos en la entidad de que se trate.
 
-> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2019)</small>
 
-Los treinta y dos senadores restantes serán elegidos según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción plurinominal nacional. La ley establecerá las reglas y fórmulas para estos efectos.
+Las treinta y dos senadurías restantes serán elegidas según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción plurinominal nacional, conformadas de acuerdo con el principio de paridad, y encabezadas alternadamente entre mujeres y hombres cada periodo electivo. La ley establecerá las reglas y fórmulas para estos efectos.
 
 > <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
@@ -3170,9 +3176,9 @@ Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Cor
 
 La administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación, estarán a cargo del Consejo de la Judicatura Federal en los términos que, conforme a las bases que señala esta Constitución, establezcan las leyes.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2019)</small>
 
-La Suprema Corte de Justicia de la Nación se compondrá de once Ministros y funcionará en Pleno o en Salas.
+La Suprema Corte de Justicia de la Nación se compondrá de once integrantes, Ministras y Ministros, y funcionará en Pleno o en Salas.
 
 > <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
@@ -3186,25 +3192,21 @@ La competencia de la Suprema Corte, su funcionamiento en Pleno y Salas, la compe
 
 El Consejo de la Judicatura Federal determinará el número, división en circuitos, competencia territorial y especialización por materias, entre las que se incluirá la de radiodifusión, telecomunicaciones y competencia económica, de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 Asimismo, mediante acuerdos generales establecerá Plenos de Circuito, atendiendo al número y especialización de los Tribunales Colegiados que pertenezcan a cada Circuito. Las leyes determinarán su integración y funcionamiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2019)</small>
+
+La ley establecerá la forma y procedimientos mediante concursos abiertos para la integración de los órganos jurisdiccionales, observando el principio de paridad de género.
 
 > <small>(REFORMADO. D.O.F. 6 DE JUNIO DE 2011)</small>
 
 El Pleno de la Suprema Corte de Justicia estará facultado para expedir acuerdos generales, a fin de lograr una adecuada distribución entre las Salas de los asuntos que competa conocer a la Corte, así como remitir a los Tribunales Colegiados de Circuito, para mayor prontitud en el despacho de los asuntos, aquéllos en los que hubiera establecido jurisprudencia o los que, conforme a los referidos acuerdos, la propia Corte determine para una mejor impartición de justicia. Dichos acuerdos surtirán efectos después de publicados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 Los juicios de amparo, las controversias constitucionales y las acciones de inconstitucionalidad se substanciarán y resolverán de manera prioritaria cuando alguna de las Cámaras del Congreso, a través de su presidente, o el Ejecutivo Federal, por conducto del consejero jurídico del gobierno, justifique la urgencia atendiendo al interés social o al orden público, en los términos de lo dispuesto por las leyes reglamentarias.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -3214,13 +3216,9 @@ La ley fijará los términos en que sea obligatoria la jurisprudencia que establ
 
 La remuneración que perciban por sus servicios los Ministros de la Suprema Corte, los Magistrados de Circuito, los Jueces de Distrito y los Consejeros de la Judicatura Federal, así como los Magistrados Electorales, no podrá ser disminuida durante su encargo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
 > <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 Los Ministros de la Suprema Corte de Justicia durarán en su encargo quince años, sólo podrán ser removidos del mismo en los términos del Título Cuarto de esta Constitución y, al vencimiento de su periodo, tendrán derecho a un haber por retiro.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
@@ -4050,9 +4048,9 @@ La ley señalará los casos de prescripción de la responsabilidad administrativ
 
 Los estados adoptarán, para su régimen interior, la forma de gobierno republicano, representativo, democrático, laico y popular, teniendo como base de su división territorial y de su organización política y administrativa, el municipio libre, conforme a las bases siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 6 DE JUNIO DE 2019)</small>
 
-I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de regidores y síndicos que la ley determine. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
+I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal y el número de regidurías y sindicaturas que la ley determine, de conformidad con el principio de paridad. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
@@ -8499,3 +8497,17 @@ Décimo Sexto. Con la entrada en vigor de las presentes disposiciones, los derec
 Décimo Séptimo. La ley secundaria definirá que, dentro de los consejos técnicos escolares, se integrará un Comité de Planeación y Evaluación para formular un programa de mejora continua que contemple, de manera integral, la infraestructura, el equipamiento, el avance de los planes y programas educativos, la formación y prácticas docentes, la carga administrativa, la asistencia de los educandos, el aprovechamiento académico, el desempeño de las autoridades educativas y los contextos socioculturales. Dichos programas tendrán un carácter multianual, definirán objetivos y metas, los cuales serán evaluados por el referido Comité.
 
 Décimo Octavo. Con la finalidad de dar cumplimiento a lo dispuesto en el artículo 3o., fracción II, inciso f), el Ejecutivo Federal, en un plazo no mayor a 180 días contados a partir de la entrada en vigor de las presentes disposiciones, definirá una Estrategia Nacional de Inclusión Educativa, la cual establecerá acciones y etapas para su cumplimiento progresivo. La educación especial en sus diferentes modalidades se impartirá en situaciones excepcionales.
+
+D.O.F. 6 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 2, 4, 35, 41, 52, 53, 56, 94 Y 115; DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE PARIDAD ENTRE GÉNEROS".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Congreso de la Unión deberá, en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de observar el principio de paridad de género establecido en esta Constitución, en los términos del segundo párrafo del artículo 41.
+
+TERCERO.- La observancia del principio de paridad de género a que se refiere el artículo 41, será aplicable a quiénes tomen posesión de su encargo, a partir del proceso electoral federal o local siguiente a la entrada en vigor del presente Decreto, según corresponda.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+CUARTO.- Las legislaturas de las entidades federativas, en el ámbito de su competencia, deberán realizar las reformas correspondientes en su legislación, para procurar la observancia del principio de paridad de género en los términos del artículo 41.
