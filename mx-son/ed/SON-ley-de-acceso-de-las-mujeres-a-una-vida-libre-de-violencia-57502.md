@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5750
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-29"
-last_updated: "2017-07-18"
+last_updated: "2019-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE JUNIO DE 2019.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 29 de octubre de 2007.
 
@@ -551,9 +551,13 @@ I.- De emergencia; y
 
 II.- Preventivas.
 
-> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2019)</small>
 
-Las órdenes de protección de emergencia y preventivas tendrán una temporalidad no mayor de 96 horas y deberán expedirse dentro de las 8 horas siguientes al conocimiento de los hechos que las generan.
+Las órdenes de protección de emergencia tendrán una duración máxima de sesenta días, prorrogables hasta por treinta días y deberán expedirse dentro de las 8 horas improrrogables siguientes al conocimiento de los hechos que las generan.
+
+> <small>(ADICIONADO, B.O. 6 DE JUNIO DE 2019)</small>
+
+Las órdenes de protección preventivas tendrán una duración máxima de 96 horas y deberán expedirse dentro de las 8 horas improrrogables siguientes al conocimiento de los hechos que las generan.
 
 ###### ARTÍCULO 36.
 
@@ -574,6 +578,14 @@ IV.- Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguri
 V.- Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia; y
 
 VI.- Las demás establecidas en otras disposiciones legales.
+
+> <small>(ADICIONADO, B.O. 6 DE JUNIO DE 2019)</small>
+
+ARTÍCULO 36 BIS.- A la persona agresora que desacate una orden de protección de emergencia, el Ministerio Público o la autoridad jurisdiccional competente aplicará los siguientes medios de apremio:
+
+I.- Arresto hasta por treinta y seis horas; y
+
+II.- Multa de 100 a 150 Unidades de Medida y Actualización.
 
 ###### ARTÍCULO 37.
 
@@ -616,6 +628,10 @@ Corresponde a las autoridades jurisdiccionales competentes valorar las órdenes 
 ###### ARTÍCULO 40.
 
 Cualquier persona podrá solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes.
+
+> <small>(ADICIONADO, B.O. 6 DE JUNIO DE 2019)</small>
+
+ARTÍCULO 40 BIS.- La negativa a brindar las órdenes de protección de emergencia y preventivas, será considerada violencia institucional en los términos de esta Ley.
 
 ## TÍTULO SEXTO. DE LA ATENCIÓN A VÍCTIMAS Y DE LOS REFUGIOS
 
@@ -788,3 +804,11 @@ B.O. 18 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 6 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 19, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
