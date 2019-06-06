@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-junta-federal-de-conciliacion-y-95203
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-31"
-last_updated: "2015-08-19"
+last_updated: "2019-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95203&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-05-23"
 
 REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2019.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de julio de 2013.
 
@@ -99,6 +99,12 @@ Subcoordinación de Administración de Personal
 
 Unidad de Quejas, Denuncias y Responsabilidades
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2019)</small>
+
+Dirección de Responsabilidades Administrativas
+
 Dirección de Registro de Contratos Colectivos y Reglamentos Interiores de Trabajo
 
 Dirección de Recursos Financieros, Materiales y Servicios Generales
@@ -114,6 +120,18 @@ Dirección de Responsabilidades
 Oficinas Auxiliares de la Junta
 
 Funcionarias o Funcionarios Conciliadores
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2019)</small>
+
+Subdirección de Quejas y Denuncias “A”
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2019)</small>
+
+Subdirección de Quejas y Denuncias “B”
 
 Auxiliares de Juntas Especiales
 
@@ -369,7 +387,21 @@ VII. Autorizar y dar fe de las actuaciones que le ordene la Presidenta o Preside
 
 VIII. Ordenar la publicación de avisos en el Boletín Laboral de la Junta, que le requiera la Presidenta o el Presidente de la Junta, las Secretarías Generales y la Coordinación General de Administración;
 
-IX. Informar a la Presidenta o Presidente de la Junta de manera oportuna, del estallamiento de huelgas y su solución en cada caso, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2019)</small>
+
+IX. Informar a la Presidenta o Presidente de la Junta de manera oportuna, del estallamiento de huelgas y su solución en cada caso;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 6 DE JUNIO DE 2019)</small>
+
+IX BIS. Integrar el Comité Técnico del Fondo, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 6 DE JUNIO DE 2019)</small>
 
 X. Dirigir la operación de la Oficialía de Partes de Asuntos Colectivos.
 
@@ -415,7 +447,21 @@ XVII. Vigilar, conjuntamente con la Coordinación General de Administración, el
 
 XVIII. Auxiliar a la Presidenta o Presidente de la Junta en el cuidado del orden y disciplina en las Juntas Especiales, en las áreas comunes de Actuarias o Actuarios y Auxiliares Dictaminadoras o Dictaminadores, así como dar cuenta a la Presidenta o Presidente respecto de irregularidades que se observen, y proponer medidas de corrección;
 
-XIX. Supervisar el cumplimiento de la atención de las solicitudes de las instancias competentes que requieran información relacionada con asuntos individuales y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2019)</small>
+
+XIX. Supervisar el cumplimiento de la atención de las solicitudes de las instancias competentes que requieran información relacionada con asuntos individuales;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 6 DE JUNIO DE 2019)</small>
+
+XIX BIS. Integrar el Comité Técnico del Fondo, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 6 DE JUNIO DE 2019)</small>
 
 XX. Dirigir la operación de la Oficialía de Partes de Asuntos Individuales.
 
@@ -499,9 +545,11 @@ XVII. Coordinar los trabajos para la elaboración y actualización de los proyec
 
 XVIII. Desempeñar las comisiones que le encomiende la Presidenta o Presidente de la Junta y mantenerlo informado de los resultados de las mismas;
 
-> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2015)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
 
-XVIII Bis. Integrar el Comité Técnico del Fondo, y
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 6 DE JUNIO DE 2019)</small>
+
+XVIII Bis. Integrar el Comité Técnico del Fondo, como Secretaría Técnica, y
 
 XIX. Las demás que le asigne el Pleno y la Presidenta o Presidente de la Junta, en el ámbito de sus respectivas competencias.
 
@@ -1127,75 +1175,149 @@ La Junta tendrá una Biblioteca destinada al servicio y consulta de su personal,
 
 ### CAPÍTULO XVII. De la Unidad de Quejas, Denuncias y Responsabilidades
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2019)</small>
+
 ###### Artículo 51.
 
-La Unidad de Quejas, Denuncias y Responsabilidades, estará a cargo de una o un Titular, con autonomía de gestión para investigar, tramitar y resolver sobre la responsabilidad de carácter administrativo que pudiera resultar de las quejas y denuncias presentadas en contra de las servidoras o los servidores públicos de la Junta, en términos de lo dispuesto por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, quien contará con las siguientes facultades:
+La Unidad de Quejas, Denuncias y Responsabilidades estará a cargo de un Titular designado en términos de lo dispuesto por los artículos 10 fracción IX y 14 fracción IX de este reglamento, mismo que en el ejercicio de sus facultades se auxiliará por un Director de Responsabilidades Administrativas; un Subdirector de Quejas y Denuncias “A” y un Subdirector de Quejas y Denuncias “B”, todos ellos con autonomía de gestión en el ámbito de sus respectivas competencias y de conformidad a las facultades previstas en la Ley general de responsabilidades administrativas y demás ordenamientos legales y administrativos aplicables.
 
-I. Emitir las políticas, bases y lineamientos para la recepción y atención de las consultas, sugerencias, quejas y denuncias relacionadas con el desempeño de las servidoras o servidores públicos de la Junta;
+El Titular de la Unidad de Quejas, Denuncias y Responsabilidades, tendrá a su cargo y bajo su responsabilidad el funcionamiento de la Unidad, por lo que contará con las siguientes facultades y atribuciones:
 
-II. Coordinar la atención de quejas y denuncias que se presenten en contra de las servidoras o los servidores públicos de la Junta Federal de Conciliación y Arbitraje;
+I. Emitir las políticas, bases y lineamientos para la recepción y atención de las consultas, sugerencias, quejas y denuncias relacionadas con el desempeño de las servidoras o servidores públicos de la Junta y/o particulares;
 
-III. Promover y verificar la instalación de módulos y buzones de orientación y recepción de quejas, denuncias y peticiones, incluso en medios electrónicos, para facilitar su presentación;
+II. Conocer y vigilar los asuntos que se ventilen en la Unidad a su cargo, tomando las medidas necesarias para lograr el correcto funcionamiento de la misma;
 
-IV. Ordenar de oficio o a partir de una queja o denuncia, la práctica de las investigaciones de las conductas de las servidora (sic) o los servidores públicos de la Junta, que puedan implicar inobservancia de las obligaciones previstas en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+III. Coordinar la atención de quejas y denuncias que se presenten en contra de las servidoras o los servidores públicos de la Junta Federal de Conciliación y Arbitraje y/o particulares;
 
-V. Ordenar que se cite, cuando lo estime necesario, al denunciante o al quejoso para la ratificación, bajo formal protesta de decir verdad, de la denuncia o la queja presentada en contra de servidoras o servidores públicos de la Junta y, en su caso, informar al denunciante el resultado de su queja o denuncia;
+IV. Cuidar el buen funcionamiento de la Unidad;
 
-VI. Instruir el procedimiento previsto en el ordenamiento legal en materia de responsabilidades, a fin de determinar las responsabilidades a que haya lugar, e imponer las sanciones correspondientes de conformidad con la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+V. Supervisar que tanto la Dirección de Responsabilidades Administrativas como las Subdirecciones de Quejas y Denuncias den cumplimiento a las obligaciones que les impone este reglamento y la Ley General de Responsabilidades Administrativas
 
-VII. Determinar, en su caso, la suspensión temporal de las presuntas o presuntos responsables de sus cargos, empleos o comisiones, en términos de lo dispuesto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+VI. Promover y verificar la instalación de módulos y buzones de orientación y recepción de quejas, denuncias y peticiones, incluso en medios electrónicos, para facilitar su presentación;
 
-VIII. Emitir las resoluciones que procedan respecto de los recursos de revocación que interpongan las servidoras públicas o servidores públicos de la Junta, en contra de las resoluciones emitidas por la Unidad;
+VII. Ordenar de oficio o a partir de una queja o denuncia, la práctica de las investigaciones de las conductas de las servidoras o los servidores públicos de la Junta, que puedan implicar inobservancia de las obligaciones previstas en la Ley General de Responsabilidades Administrativas;
 
-IX. Realizar ante las diversas instancias jurisdiccionales, la defensa jurídica de las resoluciones que emita la Unidad, con la facultad de interponer el recurso de revisión previsto en el artículo 63 de la Ley Federal de Procedimiento Contencioso Administrativo;
+VIII. Requerir a las Juntas Especiales y demás áreas de la Junta, la información necesaria para el cumplimiento de las funciones que tiene encomendadas la Unidad;
 
-X. Requerir a las Juntas Especiales y demás áreas de la Junta, la información necesaria para el cumplimiento de sus atribuciones;
+IX. Ordenar que se cite, cuando lo estime necesario, al denunciante o al quejoso para la ratificación, bajo formal protesta de decir verdad, de la denuncia o la queja presentada en contra de servidoras o servidores públicos de la Junta y/o particulares, en su caso, informar al denunciante el resultado de su queja o denuncia;
 
-XI. Formular a las unidades administrativas competentes de la Junta, los requerimientos de personal de apoyo necesarios, para desahogar las audiencias y diligencias inherentes a las quejas, denuncias y/o procedimientos de responsabilidad administrativa;
+X. Instruir el procedimiento previsto en el ordenamiento legal en materia de responsabilidades, a fin de determinar las responsabilidades a que haya lugar, e imponer las sanciones correspondientes de conformidad con la Ley General de Responsabilidades Administrativas;
 
-XII. Autorizar la expedición a las partes interesadas en los procedimientos administrativos de responsabilidad de copias certificadas de las constancias inherentes a tales procedimientos, previo pago de los derechos correspondientes;
+XI. Determinar, en su caso, cualquier medida cautelar o suspensión temporal de las presuntas o presuntos responsables de sus cargos, empleos o comisiones, en términos de lo dispuesto en la Ley General de Responsabilidades Administrativas;
 
-XIII. Denunciar ante las autoridades competentes, los hechos de los que tenga conocimiento y que puedan ser constitutivos de delito o en su defecto, instar a la Secretaría General de Consultoría y Asuntos Jurídicos de la Junta, la formulación de querellas o denuncias a que haya lugar;
+XII. Emitir las resoluciones que procedan respecto de los recursos de revocación que interpongan las servidoras públicas o servidores públicos de la Junta y/o particulares, en contra de las resoluciones emitidas por la Unidad;
 
-> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2015)</small>
+XIII. Llevar a cabo programas específicos tendientes a verificar el cumplimiento de las Obligaciones a cargo de los servidores públicos de la Junta Federal de Conciliación y Arbitraje;
 
-XIV. Presentar a la Presidenta o Presidente de la Junta, de manera mensual, un informe estadístico de los asuntos a su cargo;
+XIV. Formular a las Unidades Administrativas competentes de la Junta, los requerimientos de personal de apoyo necesarios, para desahogar las diligencias inherentes a las actividades de la Unidad;
 
-> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2015)</small>
+XV. Expedir copia certificada, previo pago de derechos, de la documentación y expedientes que obren en sus archivos y de sus áreas que la integran;
 
-XIV Bis. Integrar el Comité Técnico del Fondo, y
+XVI. Denunciar ante las autoridades competentes, los hechos de los que tenga conocimiento y que puedan ser constitutivos de delito o en su defecto, instar a la Secretaría General de Consultoría y Asuntos Jurídicos de la Junta, la formulación de querellas o denuncias a que haya lugar;
 
-XV. Las demás que le señale el Pleno, otras disposiciones legales y que correspondan al ámbito de su competencia.
+XVII. Realizar ante las diversas instancias jurisdiccionales, la defensa jurídica de las resoluciones que emita la unidad, con la facultad de interponer el recurso de revisión previsto en el artículo 63 de la Ley Federal de Procedimiento Contencioso Administrativo;
+
+XVIII. Presentar a la Presidenta o Presidente de la Junta, de manera mensual, un informe estadístico de los asuntos a su cargo;
+
+XIX. Integrar el Comité Técnico del Fondo;
+
+XX. Instruir los recursos de inconformidad que interpongan los quejosos y/o denunciantes en contra de la calificación de los hechos como faltas administrativas no graves y las abstenciones emitidas por la autoridad investigadora y someterlos a la resolución de la sala especializada en materia de responsabilidades administrativas que corresponda, en los plazos previstos por la Ley de la materia;
+
+XXI. Las demás que le señale el Pleno, otras disposiciones legales y que correspondan al ámbito de su competencia.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2019)</small>
+
+De la Dirección de Responsabilidades Administrativas
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2019)</small>
 
 ###### Artículo 52.
 
-A la Directora o Director de Responsabilidades Administrativas de la Unidad de Quejas, Denuncias y Responsabilidades, le corresponden las facultades siguientes:
+El Director de Responsabilidades Administrativas será la autoridad substanciadora y resolutora, encargada de la integración de expedientes en materia de responsabilidades administrativas mediante la instauración del procedimiento administrativo disciplinario de responsabilidades establecido por la Ley General de Responsabilidades Administrativas, teniendo las siguientes facultades y atribuciones:
 
-I. Citar a la o al presunto responsable, iniciar e instruir el procedimiento previsto en el ordenamiento legal en la materia, resolver e imponer, en su caso, las sanciones administrativas a que haya lugar;
+I. Tramitar, substanciar y resolver los procedimientos disciplinarios que le sean turnados por la autoridad investigadora, a fin de determinar las responsabilidades administrativas a que haya lugar y, en su caso, imponer las sanciones correspondientes a servidores públicos de la Junta Federal de Conciliación y Arbitraje y/o particulares que se encuentren relacionados, de conformidad con la Ley General de Responsabilidades Administrativas;
 
-II. Proponer a la o al Titular de la Unidad de Quejas, Denuncias y Responsabilidades, en su caso, la suspensión temporal de las presuntas o los presuntos responsables de sus cargos, empleos o comisiones, en términos de lo dispuesto por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+II. Pronunciarse sobre el informe de presunta responsabilidad que le remita la autoridad investigadora en los términos de la Ley General de Responsabilidades Administrativas;
 
-III. Instruir los recursos de revocación que interpongan las servidoras o los servidores públicos de la Junta, en contra de las resoluciones emitidas por la Unidad y someterlos a la resolución del Titular;
+III. Practicar las diligencias que se estimen procedentes para integrar debidamente el expediente administrativo relacionada (sic) con presuntas irregularidades cometidas por servidores públicos y particulares relacionadas con las mismas;
 
-IV. Instruir el recurso de revisión previsto en el artículo 63 de la Ley Federal de Procedimiento Contencioso Administrativo y someterlo a la resolución del Titular;
+IV. Emitir cuando proceda, acuerdo de acumulación de procedimientos administrativos de responsabilidades, así como el desglose de actuaciones;
 
-V. Verificar que se mantenga actualizado el registro de los expedientes administrativos de las servidoras o los servidores públicos sancionados y que se remita copia certificada de las resoluciones correspondientes a la Coordinación General de Administración y a la Secretaría;
+V. Levantar y suscribir las actas administrativas relacionadas con el desahogo de las audiencias a que se refiere la Ley General de Responsabilidades Administrativas y, emitir los acuerdos y llevar a cabo las actuaciones y solicitudes de información que resulten necesarias para la instrucción del procedimiento;
 
-VI. Supervisar que se remita a la Secretaría de la Función Pública, copia certificada de las resoluciones correspondientes, para el registro de la sanción impuesta;
+VI. Llevar los libros y registros de los asuntos de su competencia;
 
-VII. Requerir a las Juntas Especiales y demás áreas de la Junta, la información necesaria para el cumplimiento de sus atribuciones;
+VII. Determinar, en su caso, la suspensión temporal de las presuntas o presuntos responsables de sus cargos, empleos o comisiones, en términos de lo dispuesto en la Ley General de Responsabilidades Administrativas;
 
-VIII. Formular a las unidades administrativas competentes de la Junta, los requerimientos de personal de apoyo necesarios, para desahogar las audiencias y diligencias inherentes al procedimiento de responsabilidad administrativa;
+VIII. Dictar las medidas cautelares que solicite la autoridad investigadora en los términos que dispone la Ley General de Responsabilidades Administrativas;
 
-IX. Expedir certificaciones de los documentos que obren en los expedientes de la Unidad a su cargo;
+IX. Emitir las resoluciones que procedan en los recursos de revocación que interpongan las servidoras públicas o servidores públicos de la Junta y/o particulares, en contra de las resoluciones emitidas por la Unidad;
 
-X. Rendir de manera mensual un informe de labores al Titular de la Unidad de Quejas, Denuncias y Responsabilidades, sobre el estado procesal de los asuntos y procedimientos a su cargo, y
+X. Requerir a las Juntas Especiales y demás áreas administrativas de la Junta, la información necesaria para el cumplimiento de sus atribuciones;
 
-XI. Las demás que le señalen otras disposiciones legales y que correspondan al ámbito de su competencia.
+XI. Formular a las unidades administrativas competentes de la Junta, los requerimientos de personal de apoyo necesarios, para desahogar las audiencias y diligencias inherentes al procedimiento disciplinario establecido por la Ley General de Responsabilidades Administrativas;
+
+XII. Realizar ante las diversas instancias jurisdiccionales, la defensa jurídica de las resoluciones que emita la Unidad, con la facultad de interponer el recurso de revisión previsto en el artículo 63 de la Ley Federal de Procedimiento Contencioso Administrativo;
+
+XIII. Presentar al Titular de la Unidad de manera mensual, un informe estadístico de los asuntos a su cargo, y
+
+XIV. Las demás que le señale el Titular de la Unidad y las disposiciones legales que correspondan al ámbito de su competencia.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2019)</small>
+
+De las Subdirecciones de Quejas y Denuncias
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 6 DE JUNIO DE 2019)</small>
 
 ###### Artículo 53.
 
-La ausencia de la o del Titular de la Unidad de Quejas, Denuncias y Responsabilidades, será suplida por la Directora o el Director de Responsabilidades Administrativas.
+Al frente de cada Subdirección habrá un Titular, quien será designado en los términos previstos en este reglamento, mismo que será la autoridad investigadora competente para atender y resolver las quejas o denuncias por incumplimiento de las obligaciones de los servidores públicos de la Junta Federal de Conciliación y Arbitraje y los particulares relacionadas con las mismas, de conformidad con lo dispuesto por la Ley General de Responsabilidades Administrativas y sus disposiciones aplicables y con las siguientes facultades y atribuciones:
+
+I. Recibir las quejas y denuncias que se presenten en contra de las servidoras o los servidores públicos de la Junta Federal de Conciliación y Arbitraje y/o particulares relacionadas con las mismas por el posible incumplimiento de sus obligaciones y llevar su debido control;
+
+II. Practicar de oficio o a partir de una queja o denuncia las investigaciones de las conductas de las servidoras o los servidores públicos de la Junta y/o particulares que puedan implicar inobservancia de las obligaciones previstas en la Ley General de Responsabilidades Administrativas, para lo cual podrá emitir cualquier tipo de acuerdo y llevar a cabo toda clase de diligencias que resulten necesarias para esclarecer los hechos que se investiguen;
+
+III. Ordenar que se cite, cuando lo estime necesario, al denunciante o al quejoso para la ratificación, bajo formal protesta de decir verdad, de la denuncia o la queja presentada en contra de servidoras o servidores públicos de la Junta y/o particulares, en su caso, informar al denunciante o quejoso el resultado de su queja o denuncia;
+
+IV. Citar a los servidores públicos de la Junta Federal de Conciliación y Arbitraje que puedan tener conocimiento de los hechos denunciados o motivo de queja;
+
+V. Requerir a las Juntas Especiales y demás áreas de la Junta, la información necesaria para el cumplimiento de sus atribuciones;
+
+VI. Requerir a las personas físicas o morales, públicas o privadas que sean sujetas de investigación por presuntas irregularidades cometidas en ejercicio de sus funciones, cualquier información necesaria para esclarecer los hechos motivo denunciados (sic) o materia de la queja que se conozca;
+
+VII. Practicar las actuaciones y diligencias que se estimen procedentes, para la integración de los expedientes de investigación;
+
+VIII. Formular a las Unidades Administrativas competentes de la Junta, los requerimientos de personal de apoyo necesarios, para desahogar las audiencias y diligencias inherentes a las quejas, denuncias y/o procedimientos de responsabilidad administrativa;
+
+IX. Llevar los libros y registros de los asuntos de su competencia;
+
+X. Captar, gestionar y dar seguimiento a las peticiones sobre los trámites y servicios que presente la ciudadanía;
+
+XI. Emitir los acuerdos de conclusión de las quejas y denuncias y, en su caso, turnar a procedimiento de responsabilidades administrativas mediante informe de presunta responsabilidad y en el mismo si procede, realizar la calificación de la falta administrativa, derivada de los procedimientos de investigación respectivos;
+
+XII. Instruir los recursos de inconformidad que interpongan los quejosos y/o denunciantes en contra de la calificación de los hechos como faltas administrativas no graves y las abstenciones emitidas por la autoridad investigadora y someterlos a la resolución de la autoridad competente;
+
+XIII. Presentar al Titular de la Unidad de manera mensual, un informe estadístico de los asuntos a su cargo;
+
+XIV. Las demás que le señale el Titular de la Unidad y otras disposiciones legales que correspondan al ámbito de su competencia.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 6 DE JUNIO DE 2019)</small>
+
+###### Artículo 53 Bis.
+
+La ausencia del Titular de la Unidad de Quejas, Denuncias y Responsabilidades será suplida por el Director de Responsabilidades Administrativas y/o por el Subdirector de Quejas y Denuncias de acuerdo a los asuntos de su competencia y las ausencias de los últimos dos referidos servidores públicos, por el servidor público inmediato inferior que resulte competente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 19 DE AGOSTO DE 2015)</small>
 
@@ -1233,13 +1355,15 @@ Lo anterior, en cumplimiento a los artículos 735 y 949 de la Ley Federal del Tr
 
 El patrimonio del Fondo será diferente del presupuesto anual asignado a la Secretaría del Trabajo y Previsión Social para la Junta Federal de Conciliación y Arbitraje, y no afectará las partidas que sean autorizadas mediante dicho presupuesto.
 
-> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2015)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2019)</small>
 
 ###### Artículo 58.
 
-El Fondo será manejado y operado por un Comité Técnico integrado por el Presidente de la Junta Federal de Conciliación y Arbitraje que también lo presidirá, el Coordinador General de Administración y el Titular de la Unidad de Quejas, Denuncias y Responsabilidades; quienes se auxiliarán de una Secretaría Técnica ocupada por un profesionista especializado en finanzas y administración.
+El Fondo será manejado y operado por un Comité Técnico integrado por el Presidente de la Junta Federal de Conciliación y Arbitraje que también lo presidirá, el Secretario General de Acuerdos, Conciliación y Asuntos Colectivos; el Secretario General de Conciliación y Asuntos Individuales; y el Titular de la Unidad de Quejas, Denuncias y Responsabilidades; se auxiliarán de una Secretaría Técnica que estará a cargo del Coordinador General de Administración. Todos los miembros del Comité tendrán voz y voto, salvo el Secretario Técnico, quien sólo tendrá voz. En las votaciones del Comité en caso de empate el Presidente tendrá voto de calidad.
 
-El Comité Técnico decidirá el destino específico de los rendimientos del Fondo, conforme a lo establecido en el artículo 60 de este Reglamento.
+El Comité Técnico, a propuesta del Pleno, decidirá el destino específico de los rendimientos del Fondo, conforme a lo establecido en el artículo 60 de este Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2015)</small>
 
@@ -1268,6 +1392,12 @@ II. Deberá elaborar en diciembre de cada año, el presupuesto de ingresos y egr
 III. Podrá designar con cargo al patrimonio del Fondo, el personal que debe auxiliarlo en su administración y supervisión, y
 
 IV. Informará anualmente al Pleno el estado de la administración del Fondo.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2019)</small>
+
+V. Informará al Pleno los prospectos de acciones de mejora, de conformidad con el presupuesto al que se refiere la fracción II de este artículo.
 
 > <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2015)</small>
 
@@ -1303,6 +1433,12 @@ Para la administración del Fondo, el Comité Técnico expedirá los Lineamiento
 
 Cualquiera de los integrantes del Comité, por sí o a petición del Pleno, podrá solicitar auditorías, para revisar el manejo del dinero y valores depositados en el Fondo, con el objetivo de prevenir y detectar irregularidades que pudieran constituir responsabilidades administrativas o la comisión de delitos, con la finalidad de tomar las medidas necesarias para su sanción.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2019)</small>
+
+Sin perjuicio de lo anterior, al final de cada ejercicio se practicará una auditoria externa, con cargo a los rendimientos del Fondo. El Pleno propondrá y autorizará al auditor que realice esta encomienda.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1326,3 +1462,21 @@ Primero.- El presente Acuerdo entrará en vigor al día hábil siguiente de su p
 Segundo.- El Fondo a que se refiere el Capítulo XVIII del Reglamento Interior de la Junta Federal de Conciliación y Arbitraje, deberá quedar constituido en un plazo máximo de 90 días naturales, contados a partir de la entrada en vigor del presente Acuerdo.
 
 Tercero.- Una vez constituido el Fondo, las Juntas Especiales, Secretarías Auxiliares y Oficinas Auxiliares de la Junta Federal de Conciliación y Arbitraje, contarán con 5 días hábiles para transferir los recursos económicos a que se refiere el artículo 56 del Reglamento, que a esa fecha hubieran recibido, previa toma de razón en los expedientes con los cuales estén relacionados.
+
+D.O.F. 6 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LAS REFORMAS Y ADICIONES AL REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE.]
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf]</small>
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Por lo que hace a los Representantes de los Trabajadores y Patrones, derivado de la naturaleza de su representación, se estará a lo dispuesto en los artículos 671 al 674 de la Ley Federal del Trabajo.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL “AVISO GENERAL MEDIANTE EL CUAL SE DA A CONOCER LA DIRECCIÓN ELECTRÓNICA EN LA CUAL PODRÁ SER CONSULTADO EL REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE”.]</small>
+
+AVISO GENERAL MEDIANTE EL CUAL SE DA A CONOCER LA DIRECCIÓN ELECTRÓNICA EN LA CUAL PODRÁ SER CONSULTADO EL REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE
+
+PRIMERO. Se da a conocer a la población en general la dirección electrónica https://www.gob.mx/cms/uploads/attachment/file/456579/Reglamento_Interno_JFCA.pdf a la cual se podrá acceder para consultar el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje vigente, el cual contiene las reformas y adiciones realizadas al mismo, que fueron aprobadas por el Pleno de la Junta Federal de Conciliación y Arbitraje, en términos de los artículos 614, fracción I y 620, fracción I de la Ley Federal del Trabajo el diecisiete de agosto de dos mil diecisiete y nueve de agosto de dos mil dieciocho.
+
+SEGUNDO. Publíquese el presente Aviso en el Diario Oficial de la Federación.
