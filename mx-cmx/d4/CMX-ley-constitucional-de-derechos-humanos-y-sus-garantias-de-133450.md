@@ -4,7 +4,7 @@ identifier: "CMX-ley-constitucional-de-derechos-humanos-y-sus-garantias-de-13345
 country: "mx"
 rank: "ley"
 publication_date: "2019-02-08"
-last_updated: "2019-02-08"
+last_updated: "2019-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133450&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-02-05"
 
 LEY CONSTITUCIONAL DE DERECHOS HUMANOS Y SUS GARANTÍAS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE JUNIO DE 2019.
 
 Ley publicada en el Número 27 Ter de la Gaceta Oficial de la Ciudad de México, el viernes 8 de febrero de 2019.
 
@@ -78,9 +78,13 @@ Del mismo modo se entenderá el desarrollo de los derechos como un proceso multi
 
 C. Del desarrollo de los principios rectores
 
-1. Desarrollar el marco de principios reconocidos en la Constitución Local, para garantizar el respeto y ejercicio de los derechos humanos, y; que las autoridades realicen sus funciones con apego a ellos.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
 
-2. La presente Ley proporcionará las definiciones de los principios rectores y características de los derechos humanos conforme al consenso y estándares internacionales más amplio (sic).
+1. Desarrollar el marco de principios reconocidos en la Constitución Local, para garantizar el respeto y ejercicio de los derechos humanos, a fin de que las autoridades realicen sus funciones con apego a ellos.
+
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+2. La presente Ley proporcionará las definiciones de los principios rectores y características de los derechos humanos conforme al consenso y estándares internacionales más amplios.
 
 D. De los mecanismos de justiciabilidad
 
@@ -102,9 +106,11 @@ E. De los mecanismos de exigibilidad
 
 5. Contribuir, en el máximo de recursos presupuestales, a la habilitación de las personas para el ejercicio de sus derechos humanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE JUNIO DE 2019)</small>
+
 ###### Artículo 2.
 
-En la Ciudad de México las personas gozan de los derechos humanos y garantías reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados e instrumentos internacionales de los que el Estado mexicano es parte, en la Constitución Política de la Ciudad de México y en normas generales y locales, y; tendrán la prioridad aquellas que confieran la mayor protección a las personas en el goce y ejercicio de sus derechos. Los derechos humanos, en su conjunto conforman el parámetro de control de constitucionalidad.
+En la Ciudad de México las personas gozan de los derechos humanos y garantías reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados e instrumentos internacionales de los que el Estado mexicano es parte, en la Constitución Política de la Ciudad de México y en normas generales y locales, y; tendrán la (sic) prioridad aquellas que confieran la mayor protección a las personas en el goce y ejercicio de sus derechos humanos.
 
 Las resoluciones y sentencias emitidas por órganos y tribunales internacionales de derechos humanos, cuya competencia haya sido reconocida por el Estado mexicano, y que reconozcan o garanticen mayor protección de las personas, serán vinculantes para las autoridades de la Ciudad de México. Los entes públicos centralizados, paraestatales y autónomos las cumplirán dentro de sus respectivas competencias y atribuciones.
 
@@ -114,7 +120,9 @@ Para los efectos de esta ley se entenderá por:
 
 1. Alcaldías: Los órganos político administrativos de cada una de las demarcaciones territoriales en que se divide la Ciudad de México.
 
-2. Ajustes razonables: Las modificaciones y, adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad, otras condiciones y en condiciones de vulnerabilidad, el goce y ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+2. Ajustes razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad y en otras condiciones de vulnerabilidad, el goce y ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales.
 
 3. Autoridad: Toda persona servidora pública que desempeñe un empleo, cargo o comisión en la Ciudad de México.
 
@@ -136,7 +144,9 @@ Para los efectos de esta ley se entenderá por:
 
 12. Diseño universal: El diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad y personas mayores, cuando se necesiten.
 
-13. Enfoque de derechos humanos: Definir que los planes, las políticas, los programas y los presupuestos estén anclados en un sistema de derechos, el cual identifica, por un lado, a las personas titulares de derechos y aquello a lo que tienen derecho; y por el otro, a las personas titulares de deberes y sus obligaciones para respetar, proteger y hacer efectivos los derechos humanos, así como fortalecer la capacidad de las personas titulares de derechos.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+13. Enfoque de derechos humanos: el marco conceptual relativo a los planes, las políticas, los programas y los presupuestos con base en un sistema de derechos, el cual identifica, por un lado, a las personas titulares de derechos y aquello a lo que tienen derecho; y por el otro, a las personas titulares de deberes y sus obligaciones para respetar, proteger y hacer efectivos los derechos humanos, así como fortalecer la capacidad de las personas titulares de derechos.
 
 14. Evaluación Interna: Análisis de los resultados de la implementación con relación a la relevancia, eficiencia, efectividad, impactos y sostenibilidad de las acciones, medidas, programas y políticas públicas implementados para el cumplimiento de los derechos humanos, con la finalidad de evitar su regresividad y garantizar su progresividad.
 
@@ -154,7 +164,9 @@ Para los efectos de esta ley se entenderá por:
 
 21. Paridad de género: La participación equilibrada de mujeres y hombres en los espacios de carácter público, de acuerdo con su identidad (sic) género.
 
-22. Persona: La persona titular de los derechos.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+22. Persona: La persona individual o colectiva, titular del derecho humano que se trate.
 
 23. Sala: La Sala Constitucional es la instancia del Poder Judicial para garantizar la supremacía y control de esta Constitución y es la encargada de conocer y resolver las acciones de cumplimiento en contra de las personas titulares de los poderes públicos, los organismos autónomos y las alcaldías cuando se muestren renuentes a cumplir con sus obligaciones constitucionales y con las resoluciones judiciales. Estas acciones podrán ser interpuestas por cualquier persona cuando se trate de derechos humanos.
 
@@ -164,15 +176,21 @@ Para los efectos de esta ley se entenderá por:
 
 26. Tribunal Administrativo: el Tribunal de Justicia Administrativa de la Ciudad de México.
 
-27. Violencia Institucional: los actos u omisiones, normas, protocolos, políticas públicas, prácticas institucionales, negligencia y privaciones ejercidas por las autoridades, así como parte de las y los servidores públicos de cualquier orden de gobierno que tengan como fin dilatar, obstaculizar, menoscabar o impedir el goce y ejercicio pleno de los derechos humanos, y que favorezcan las causas estructurales que perpetúan la discriminación, la exclusión, la tortura, el terrorismo, el abuso infantil, la detención arbitraria, la brutalidad policíaca, la criminalización de la protesta social, la desaparición forzada, el desplazamiento forzado, la impunidad ante delito, el uso del Estado para favorecer intereses económicos y el exterminio de personas o grupos sociales por razones y expresiones de género, preferencia sexual, orientación sexual, identidad de género, características sexuales, condición social, económica, cultural o educativa, creencias, filiaciones o prácticas étnicas, religiosas o políticas.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+27. Violación de derechos humanos: todo acto u omisión que afecte los derechos humanos, cuando se realice por parte de alguna persona servidora pública en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones de esta naturaleza. También se considera violación de derechos humanos cuando la acción u omisión referida sea realizada por un particular instigado o autorizado, explícita o implícitamente por un servidor público, o cuando actúe con aquiescencia o colaboración de un servidor público.
+
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
 
 ###### Artículo 4.
 
-Las autoridades del Gobierno de la Ciudad y de las Alcaldías, en el ámbito de sus respectivas competencias, adoptarán medidas para la disponibilidad, accesibilidad, diseño universal, aceptabilidad, adaptabilidad y calidad de los bienes, servicios e infraestructura públicos necesarios para dar viabilidad al respeto y ejercicio de sus derechos a las personas que habitan en la Ciudad y elevar los niveles de bienestar, mediante la distribución más justa del ingreso y la erradicación de la desigualdad.
+Las autoridades del Gobierno de la Ciudad y de las Alcaldías, en el ámbito de sus respectivas competencias, adoptarán medidas para garantizar la disponibilidad, accesibilidad, diseño universal, aceptabilidad, adaptabilidad y calidad de los bienes, servicios e infraestructura públicos necesarios para dar viabilidad al respeto y ejercicio de sus derechos a las personas que habitan en la Ciudad y elevar los niveles de bienestar, mediante la distribución más justa del ingreso y la erradicación de la desigualdad.
+
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
 
 ###### Artículo 5.
 
-Las autoridades del Gobierno de la Ciudad y de las Alcaldías, en el ámbito de sus respectivas competencias, implementarán políticas públicas, acciones y mecanismos previstos en esta Ley, dirigidos a prevenir, investigar, sancionar y reparar violaciones a los derechos humanos.
+Las autoridades del Gobierno de la Ciudad y de las Alcaldías, en el ámbito de sus respectivas competencias y sin perjuicio a los procesos de queja e investigación de violaciones a los derechos humanos que la Comisión tenga al respecto, implementarán políticas públicas, acciones y mecanismos previstos en esta Ley, dirigidos a prevenir, investigar, sancionar y reparar violaciones a los derechos humanos.
 
 ###### Artículo 6.
 
@@ -190,7 +208,9 @@ A falta de disposición expresa en la Constitución Federal, en los tratados int
 
 En términos de la Constitución Local, la dignidad humana es principio rector supremo y sustento de los derechos humanos.
 
-Toda persona es un fin en sí misma. Ninguna persona es un medio de individuos, autoridades o corporaciones, por lo que en la aplicación e interpretación de las normas de derechos humanos prevalecerá el principio pro persona e interpretación conforme.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+Toda persona es un fin en sí misma. Ninguna persona es un medio de individuos, autoridades o corporaciones. En la aplicación e interpretación de las normas de derechos humanos prevalecerá el principio pro persona.
 
 ###### Artículo 9.
 
@@ -230,7 +250,9 @@ Son características de los derechos humanos:
 
 5. Exigibles: deben existir los mecanismos institucionales para hacer efectiva su validez.
 
-6. Justiciables: contar con instancias o instituciones de acceso a la justicia para reclamar actos de violación a los derechos humanos o del ejercicio de la violencia institucional derivados de actos de autoridad o de quienes ejerzan el servicio público.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+6. Justiciables: contar con instancias o instituciones de acceso a la justicia para reclamar actos de violación a los derechos humanos derivadas (sic) de actos de autoridad o de quienes ejerzan el servicio público.
 
 7. Intransferibles: No pueden ser transmitidos a otra persona.
 
@@ -238,17 +260,21 @@ Son características de los derechos humanos:
 
 ### Capítulo I. Disposiciones comunes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE JUNIO DE 2019)</small>
+
 ###### Artículo 12.
 
-Los derechos serán exigibles y justiciables ante las autoridades jurisdiccionales, no jurisdiccionales y administrativas, de conformidad con los mecanismos previstos en esta ley y las demás leyes en materia de derechos humanos:
+Los derechos serán exigibles y justiciables ante las autoridades jurisdiccionales, no jurisdiccionales y administrativas, de conformidad con los mecanismos previstos en esta ley y las demás leyes aplicables.
 
 1. La exigibilidad es un proceso sociopolítico en el que, a través de mecanismos institucionalizados diversos, la ciudadanía demanda a las autoridades el cumplimiento de las obligaciones que para el cumplimiento de sus derechos les corresponden.
 
 2. La justiciabilidad consiste en la acción legal que les permite a sus titulares reclamar o exigir el cumplimiento de obligaciones en materia de derechos humanos ante las instancias jurisdiccionales competentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE JUNIO DE 2019)</small>
+
 ###### Artículo 13.
 
-En la Ciudad, los derechos se ejercen a título individual o colectivo, para estos últimos se deberá de:
+En la Ciudad, los derechos se ejercen a título individual o colectivo, para estos últimos se debe:
 
 1. Respetar, proteger y garantizar el ejercicio de las libertades de expresión, reunión y asociación, así como los derechos a la transparencia, a la información, rendición de cuentas y a la defensa de derechos humanos;
 
@@ -256,7 +282,9 @@ En la Ciudad, los derechos se ejercen a título individual o colectivo, para est
 
 3. Garantizar el acceso para la interposición de acciones administrativas o jurisdiccionales para la defensa de los derechos, en los términos establecidos en la Constitución Local y con el mínimo de formalidades;
 
-4. Establecer procedimientos para facilitar el acceso de las personas a los mecanismos de democracia directa y participativa, así como a las acciones jurisdiccionales reconocidas en la Constitución Local y las leyes; y
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+4. Establecer procedimientos para facilitar el acceso de las personas a los mecanismos de democracia directa y participativa, así como a las acciones jurisdiccionales reconocidas en la Constitución Local y las leyes;
 
 5. Diseñar lineamientos para la realización de consultas a pueblos y barrios originarios y comunidades indígenas residentes en la Ciudad y difundir su existencia y aplicación a la población destinataria, en especial respecto a las medidas legislativas o administrativas susceptibles de afectarles directamente.
 
@@ -270,9 +298,11 @@ Corresponde al Congreso de la Ciudad:
 
 2. Destinar en el Presupuesto de Egresos del Ejercicio Fiscal correspondiente, los recursos económicos necesarios para el adecuado funcionamiento de programas y políticas públicas, destinados a asegurar la progresividad y no regresividad de los derechos humanos.
 
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
 ###### Artículo 15.
 
-El Tribunal, y el Tribunal Administrativo, como instancias jurisdiccionales, son responsables de la protección y salvaguarda de los derechos humanos y sus garantías reconocidos por la Constitución Local y por los tratados e instrumentos internacionales de los que el Estado mexicano sea parte. Además de destinar en su presupuesto, los recursos humanos y económicos necesarios para la implementación de las líneas de acción que establezca el Sistema y el Programa.
+El Tribunal y el Tribunal Administrativo, como instancias jurisdiccionales, son responsables de la protección y salvaguarda de los derechos humanos y sus garantías reconocidos por la Constitución Local y por los tratados e instrumentos internacionales de los que el Estado mexicano sea parte. Además deberán destinar los recursos humanos y económicos necesarios para la implementación de las líneas de acción que establezca el Sistema y el Programa.
 
 ### Capítulo II. Mecanismos de Exigibilidad
 
@@ -290,9 +320,11 @@ Las políticas públicas tendrán como guía para su diseño, ejecución y evalu
 
 La transversalización del enfoque de derechos humanos en la función pública tendrá como propósito esencial redefinir las relaciones entre el gobierno y la ciudadanía.
 
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
 ###### Artículo 19.
 
-En materia de políticas públicas que atiendan la progresividad de derechos, aun en contextos de limitaciones graves de recursos, se optará por programas específicos y económicos que permitan salvaguardar los niveles esenciales de los derechos. Todas las autoridades deberán incorporar los ajustes razonables y el diseño universal de sus políticas y programas; y atenderán los estándares internacionales y los controles de convencionalidad en materia de derechos humanos. Para ello, deberán coordinarse con el Instituto de Planeación y con el Sistema Integral de Derechos Humanos.
+En materia de políticas públicas que atiendan la progresividad de derechos, aun en contextos de limitaciones graves de recursos, se optará por programas específicos y económicos que permitan salvaguardar los niveles esenciales de los derechos. Todas las autoridades deberán incorporar los ajustes razonables y el diseño universal de sus políticas y programas; y atenderán los estándares e instrumentos internacionales en materia de derechos humanos. Para ello, deberán coordinarse con el Instituto de Planeación y con el Sistema Integral de Derechos Humanos.
 
 ###### Artículo 20.
 
@@ -310,7 +342,9 @@ Los requisitos y procedimientos de sustanciación serán los establecidos por la
 
 Las reclamaciones de tutela se interpondrán en cualquier momento, sin mayores formalidades y a través de solicitud oral o escrita, y en todos los casos aplicará la suplencia en la deficiencia de la queja. En todo caso, corresponderá a las autoridades investigar y acreditar que no existió la violación a derechos humanos.
 
-Los jueces de tutela podrán aplicar las medidas cautelares y de apremio, así como las sanciones que procedan en caso de incumplimiento.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+Los jueces de tutela podrán dictar las medidas cautelares y de apremio, así como las sanciones que procedan en caso de incumplimiento.
 
 ###### Artículo 22.
 
@@ -322,9 +356,11 @@ De manera adicional a lo previsto en el artículo 66 de la Ley Orgánica del Pod
 
 3. Por parte de individuos agrupados con base en circunstancias comunes, cuyo objeto sea reclamar jurisdiccionalmente de un tercero el cumplimiento forzoso de un contrato o su rescisión, con sus consecuencias y efectos de acuerdo con la legislación aplicable. Serán aplicables, en lo que no se oponga al presente artículo, los requisitos y procedimientos de sustanciación de la acción de protección efectiva de derechos establecidos por (sic) Ley Orgánica del Poder Judicial de la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
 ###### Artículo 23.
 
-El Instituto de Defensoría Pública será el órgano autónomo responsable de prestar servicios gratuitos de defensa de los derechos humanos de las personas en asuntos del fuero local en las materias familiar, administrativa, fiscal, mercantil, civil y ambiental, así como de garantizar el derecho a la defensa en materia penal y el patrocinio legal durante la ejecución penal. Asimismo, interpondrá denuncias ante las autoridades respectivas por la violación de derechos humanos.
+El Instituto de Defensoría Pública será el órgano autónomo responsable de prestar servicios gratuitos de defensa de los derechos humanos de las personas en asuntos del fuero local en las materias familiar, penal, administrativa, fiscal, mercantil y civil, así como de garantizar el derecho a la defensa en materia penal y el patrocinio legal durante la ejecución penal. Asimismo, interpondrá denuncias ante las autoridades respectivas por la violación de derechos humanos.
 
 ###### Artículo 24.
 
@@ -346,9 +382,11 @@ El derecho a la vida digna comprende llevar una existencia libre del temor, así
 
 La muerte digna se traduce en la capacidad de ejercicio de las personas para expresar su decisión de ser sometidas o no, a medios, tratamientos o procedimientos médicos que pretendan prolongar su vida cuando se encuentren en etapa terminal y por razones médicas sea imposible mantenerlas de manera natural, protegiendo en todo momento la dignidad de la persona. El Gobierno de la Ciudad, por conducto de las autoridades responsables, velará por el respeto de la voluntad anticipada en términos de lo que se establezca en la ley de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE JUNIO DE 2019)</small>
+
 ###### Artículo 27.
 
-El derecho a la integridad personal implica la protección contra cualquier tipo de violencia física, psicológica, sexual, y económica la privación arbitraria de la vida y la libertad, la trata de personas en todas sus formas, las desapariciones forzadas, desplazamientos forzados, los crímenes de odio, los feminicidios, la tortura, las penas y tratos crueles, inhumanos y degradantes y la violencia institucional. Toda persona privada de su libertad será tratada humanamente y con el respeto debido a la dignidad inherente al ser humano.
+El derecho a la integridad personal implica la protección contra cualquier tipo de violencia física, psicológica, sexual, y económica la privación arbitraria de la vida y la libertad, la trata de personas en todas sus formas, las desapariciones forzadas, desplazamientos forzados, los crímenes de odio, los feminicidios, la tortura, las penas y tratos crueles, inhumanos y degradantes. Toda persona privada de su libertad será tratada humanamente y con el respeto debido a la dignidad inherente al ser humano.
 
 Las autoridades garantizarán a las personas víctimas de algún tipo de violencia una protección inmediata y efectiva, proporcionando, entre otros, alojamiento, alimentación adecuada y acceso a los servicios en condiciones de seguridad, dignidad, calidad e higiene, cuando se encuentren en situación de vulnerabilidad, de amenaza, o en situación de desplazamiento forzado interno, así como el acceso a procedimientos expeditos y accesibles de atención a víctimas, procuración y administración de justicia, de conformidad con lo previsto en las leyes de la materia.
 
@@ -358,7 +396,9 @@ El derecho a la identidad consiste en el reconocimiento jurídico y social de to
 
 Toda persona, grupo o comunidad tienen, según corresponda, derecho al nombre y a los apellidos, a su propia imagen y reputación, así como al reconocimiento de su identidad y personalidad jurídica.
 
-El registro de las personas se realizará de manera inmediata a su nacimiento. El Gobierno de la Ciudad, por conducto del Registro Civil, expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento; a excepción de las personas mayores de 60 años, de conformidad con lo previsto en el artículo 92, numeral 1 de la presente Ley.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+El registro de las personas se realizará de manera inmediata a su nacimiento. El Gobierno de la Ciudad, por conducto del Registro Civil, expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
 ###### Artículo 29.
 
@@ -374,11 +414,15 @@ Las políticas públicas en favor de las familias deberán contemplar la garant�
 
 Para proteger los derechos de las personas integrantes de las familias, garantizar su desarrollo y que éstos cubran sus requerimientos biológicos, psicoemocionales, de seguridad y educativo-culturales, las autoridades de la Ciudad promoverán la generación de servicios públicos de calidad, suficientes, asequibles y accesibles en la materia; fomentarán la oferta pública y privada de esos servicios; formalizarán y formarán a las personas que se dedican a esta actividad y desarrollarán mecanismos de protección social para las mismas.
 
-Se otorgará atención prioritaria a familias en situación de vulnerabilidad, a las encabezadas por madres o padres solteros, a las que tengan como integrantes a personas con discapacidad y/u otras condiciones, personas mayores, personas en reclusión o privadas de su libertad y familias de víctimas.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+Se otorgará atención prioritaria a las familias en situación de vulnerabilidad, monoparentales o que tengan como integrantes a personas con discapacidad u otras condiciones, personas mayores, personas en reclusión o privadas de su libertad y familias de víctimas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE JUNIO DE 2019)</small>
 
 ###### Artículo 31.
 
-Los derechos sexuales de las personas son los inherentes a la autonomía del propio cuerpo y su sexualidad, con independencia de la reproducción. Su ejercicio es esencial para el goce de otros derechos y para el desarrollo de la sociedad, y; deberá garantizar el derecho al Libre Desarrollo de la Personalidad.
+Los derechos sexuales de las personas son los inherentes a la autonomía del propio cuerpo y su sexualidad, con independencia de la reproducción. Su ejercicio es esencial para el goce de otros derechos y para el desarrollo de la sociedad. Se deberá garantizar el derecho al libre desarrollo de la personalidad.
 
 El Gobierno de la Ciudad, a través de las autoridades correspondientes, deberá:
 
@@ -396,7 +440,9 @@ El Gobierno de la Ciudad, a través de las autoridades correspondientes, deberá
 
 7. Respetar la privacidad e intimidad de las personas, y resguardar la confidencialidad de la información personal; la prestación de servicios de educación y salud sexual debe realizarse en condiciones de disponibilidad, accesibilidad, asequibilidad, aceptabilidad y calidad tomando en cuenta las necesidades específicas de las personas adolescentes, jóvenes, LGBTTTI, mayores y con discapacidad, prestando particular atención a personas en situación de vulnerabilidad.
 
-8. Prohibir y combatir la esterilización de todas las personas, particularmente aquellas con discapacidad, cuando ésta no pueda otorgar su consentimiento debidamente en formatos adecuados.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+8. Prohibir y combatir la esterilización forzada de todas las personas.
 
 ###### Artículo 32.
 
@@ -406,7 +452,9 @@ El Gobierno garantizará el derecho de las mujeres y personas gestantes a la int
 
 Las autoridades adoptarán medidas para prevenir, investigar, sancionar y reparar la esterilización involuntaria o cualquier otro tipo de método anticonceptivo forzado, así como la violencia obstétrica.
 
-El Gobierno, a través de las instancias correspondientes, promoverá el parto natural. Asimismo, vigilará que las personas sin importar su identidad de género reciban el más alto nivel de cuidados en su salud, incluyendo la atención digna y respetuosa. No se podrá negar por motivo alguno la atención médica a las mujeres y personas gestantes. También implementará una política pública de información y abatimiento del embarazo entre adolescentes y de erradicación del embarazo infantil.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+El Gobierno de la Ciudad de México, a través de las instancias correspondientes, promoverá que no se privilegien los partos por cesárea cuando no sean médicamente necesarios o cuando para preservar la salud de la madre y/o del producto se requiera. Asimismo, vigilará que las personas sin importar su identidad de género reciban el más alto nivel de cuidados en su salud, incluyendo la atención digna y respetuosa. No se podrá negar por motivo alguno la atención médica a las mujeres y personas gestantes. También implementará una política pública de información y abatimiento del embarazo entre adolescentes y de erradicación del embarazo infantil.
 
 ###### Artículo 33.
 
@@ -550,7 +598,9 @@ De manera enunciativa y no limitativa, los protocolos a que se refiere el artíc
 
 20. Mínima intervención y subsidiariedad;
 
-21. Prohibición de tortura y otros tratos crueles, inhumanos y degradantes; o prácticas vinculadas a la violencia institucional;
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+21. Prohibición de tortura y otros tratos crueles, inhumanos y degradantes;
 
 22. Aplicación favorable;
 
@@ -562,9 +612,13 @@ De manera enunciativa y no limitativa, los protocolos a que se refiere el artíc
 
 Las medidas preventivas y de protección suficientes e idóneas para garantizar la seguridad de las personas periodistas en la Ciudad, deberán atender de manera enunciativa mas no limitativa, los siguientes criterios:
 
-1. Ser suficientes para enfrentar el riesgo y proteger su integridad, libertad seguridad, sus bienes y vida;
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
 
-2. Llevar a cabo un estudio e investigación efectivo, pronto, expedito y con la participación de periodistas, personas académicas y organizaciones de la sociedad civil reconocidas en la materia para la detección de riesgos y agresiones de las que pudieran ser víctimas;
+1. Ser suficientes para enfrentar el riesgo y proteger su integridad, libertad, seguridad, sus bienes y vida;
+
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+2. Llevar a cabo un estudio e investigaciones efectivas, prontas, expeditas y con la participación de periodistas, personas académicas y organizaciones de la sociedad civil reconocidas en la materia para la detección de riesgos y agresiones de las que pudieran ser víctimas;
 
 3. Conducirse conforme a los protocolos de actuación, remitirse con prontitud a la agencia especializada para su investigación y perfeccionamiento; además deberá tomarse en cuenta el desarrollo de la actividad periodística como principal línea de investigación por la cual se hubiera cometido el delito en contra de las víctimas;
 
@@ -738,9 +792,13 @@ Esta garantía contempla acciones positivas y negativas por parte de los poderes
 
 El derecho al cuidado incluye el derecho de todas las personas a cuidarse, a cuidar y a ser cuidadas; consiste en que todas las personas tengan asegurado un conjunto de actividades básicas encaminadas a garantizar la realización cotidiana de las condiciones de vida que les permiten alimentarse, educarse, estar sanas y vivir adecuadamente, lo que comprende tanto el cuidado material, que implica un trabajo con valor económico, como el cuidado psicológico, que conlleva un vínculo afectivo. La Ley de Desarrollo Social establecerá las modalidades que este derecho tendrá en los planes, programas y políticas.
 
-Las labores de cuidado tienen un valor esencial para la sociedad, por lo que el Sistema Local del Cuidado estará basado en la corresponsabilidad entre los diversos géneros y generaciones, las familias, la comunidad, el sector privado y las autoridades de la Ciudad, contemplarán apoyo para las personas que realizan trabajos de cuidado no remunerado, la conciliación de la vida laboral, escolar y familiar, así como la promoción, cuando sea posible, de la autonomía de las personas que requieren cuidados.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
 
-Se otorgará atención prioritaria a las personas en situación de dependencia por enfermedad, discapacidad, etapa del ciclo vital, especialmente la infancia y la vejez y a quienes, de manera no remunerada, están a cargo de su cuidado.
+Las labores de cuidado tienen un valor esencial para la sociedad, por lo que el Sistema Local del Cuidado estará basado en la corresponsabilidad entre los diversos géneros y generaciones, las familias, la comunidad, el sector privado y las autoridades de la Ciudad, procurando la conciliación de la vida laboral, escolar y familiar, de conformidad con las Leyes aplicables, así como la promoción, cuando sea posible, de la autonomía de las personas que requieren cuidados.
+
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+Las autoridades de la Ciudad en la medida de sus capacidades y de acuerdo a las leyes aplicables, contemplarán apoyo para las personas que realizan trabajos de cuidado no remunerado.
 
 El Gobierno, en el marco del Sistema de Cuidados, en coordinación con familias, sector social y empresarial, establecerá programas, servicios y políticas públicas en materia de cuidados, sin discriminación, respetando los derechos humanos y las libertades, así como la dignidad e integridad de las personas.
 
@@ -758,7 +816,9 @@ Se reconoce a la salud como un bien público. Las personas tienen derecho a un d
 
 El derecho a la salud en todas sus formas y niveles contempla los contenidos esenciales de acuerdo con los instrumentos del Sistema de Naciones Unidas, del Sistema Interamericano de Derechos Humanos y de los mecanismos de las convenciones de las que el Estado mexicano es parte.
 
-La presente Ley garantizará la protección y promoción del derecho lingüístico y de la identidad cultural en el caso específico de la comunidad de personas sordas y su lengua, la (sic) Lenguaje de Señas Mexicana. Impulsar la formación y capacitación continua de intérpretes y traductores de Lengua de Señas Mexicana, por especialidades, y en el que se contemple la figura de intérpretes sordos.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+La presente Ley garantizará la protección y promoción del derecho lingüístico y de la identidad cultural en el caso específico de la comunidad de personas sordas y su lengua, la Lengua de Señas Mexicana. Impulsar la formación y capacitación continua de intérpretes y traductores de Lengua de Señas Mexicana, por especialidades, y en el que se contemple la figura de intérpretes sordos.
 
 En el caso de las personas con discapacidad, contar con peritos especializados en las diversas discapacidades, apoyo de intérpretes Lenguaje de Señas Mexicana, así como la emisión de documentos en sistema braille.
 
@@ -768,13 +828,15 @@ El derecho a una vivienda adecuada se entenderá de acuerdo con los contenidos e
 
 Se reconocerá y fomentará la propiedad cooperativa, la vivienda en arrendamiento y otras formas de tenencia, y; su regulación en consonancia con los derechos humanos. Se impulsarán políticas destinadas a aumentar la oferta de vivienda para personas de bajos ingresos y el alquiler social. El derecho de propiedad de una vivienda se ejercerá de acuerdo con las leyes en la materia. Para el caso de las personas en abandono social, primordialmente niñas, niños y personas jóvenes, con discapacidad y mayores, el Gobierno contará con albergues dignos que cubran las necesidades inmediatas de alojamiento sin discriminación.
 
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
 ###### Artículo 60.
 
-Para evitar que los desalojos forzosos o lanzamientos, violen, entre otros derechos, el derecho a una vivienda adecuada, podrán llevarse a cabo sólo en casos excepcionales. Antes de realizarse, las personas que serán desalojadas tienen el derecho a: no ser discriminadas, que se estudien todas las demás posibilidades que permitan evitar o minimizar la necesidad de recurrir a la fuerza; la debida indemnización en caso de ser privados de bienes o sufrir pérdidas inmateriales; y contar con las debidas garantías procesales, lo que incluye la obligación del juez de dar audiencia a las personas que puedan ser objeto de un lanzamiento de su domicilio. Las autoridades competentes deben garantizar el adecuado realojamiento, de las personas sin recursos desalojadas, en un radio no mayor a 15 kilómetros tomando como centro el lugar de origen.
+Ninguna persona podrá ser desalojada sin mandamiento judicial emitido de conformidad a las disposiciones constitucionales y legales aplicables al caso concreto.
 
-Las autoridades y poderes públicos de la Ciudad pondrán a disposición la información pública necesaria para conocer el número de personas desalojadas de las viviendas en las cuales tenían su domicilio, el lugar y las causas de los desalojos.
+Las leyes en la materia establecerán los procedimientos y modalidades para garantizar el derecho de audiencia, respetar el debido proceso, y procurar en todo momento, la mediación y la conciliación; además de cumplir con las formalidades esenciales del procedimiento.
 
-El Gobierno de la Ciudad de México, con base en el Plan General de Desarrollo y en el Programa de Ordenamiento Territorial, diseñará, ejecutará y regulará la política habitacional que garantice el pleno cumplimiento de lo establecido en los párrafos anteriores. Esta política contará con la participación de los sectores público, privado, social, y académico.
+Las personas afectadas por un acto de desalojo, podrán solicitar a las autoridades correspondientes, su incorporación a los programas de vivienda.
 
 ###### Artículo 61.
 
@@ -792,7 +854,9 @@ Para garantizar el derecho humano al agua, el Plan General de Desarrollo y el Pr
 
 Las autoridades adoptarán medidas para garantizar la recarga de los acuíferos, la conservación de los bienes naturales, el incremento de áreas verdes, la protección de la atmósfera, la recuperación del suelo y la resiliencia ante fenómenos naturales. Se impedirá la deforestación, la destrucción de humedales y la contaminación del agua y suelo. La garantía del derecho al agua requiere la participación y colaboración de la sociedad civil, la cual debe darse no sólo en la formulación de planes generales sobre el acceso al agua, sino también en el cumplimiento de los objetivos y finalidades relacionados con el derecho así como vigilancia, control interno, revisión y evaluación para el organismo público encargado de la gestión integral del agua, conforme al artículo 61 y trigésimo séptimo transitorio de la Constitución de la Ciudad de México.
 
-Los particulares son corresponsables en la garantía del derecho al agua; la ley relativa preverá las cargas solidarias objetivas, razonables y que no resulten ruinosas en esta materia.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+La Ley de la materia establecerá a los particulares la manera de ejercer esta garantía y sus obligaciones que deberá (sic), ser solidarias, objetivas y razonables.
 
 El Gobierno, por conducto del Sistema de Aguas, realizará las acciones necesarias para garantizar de manera progresiva el saneamiento adecuado, la potabilización y el abasto de agua potable a todas las personas, de manera constante, equitativa, asequible, accesible, suficiente, de calidad y privilegiando el derecho al consumo de las personas.
 
@@ -838,9 +902,11 @@ El Gobierno garantizará este derecho mediante el desarrollo de estrategias y me
 
 ### Capítulo VI. De la Ciudad incluyente
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE JUNIO DE 2019)</small>
+
 ###### Artículo 67.
 
-Las autoridades de la Ciudad, en el marco del Programa de Derechos Humanos, eliminarán progresivamente las barreras y obstáculos que mantienen las desigualdades estructurales e impiden el ejercicio pleno de los derechos y libertades fundamentales de los grupos de atención prioritaria, para lo cual adoptarán las medidas necesarias que promuevan y garanticen su inclusión efectiva en la sociedad a través de las siguientes medidas, entre otras:
+Las autoridades de la Ciudad, en el ámbito de sus respectivas competencias y bajo orientación del Programa de Derechos Humanos eliminarán progresivamente las barreras y obstáculos que mantienen las desigualdades estructurales e impiden el ejercicio pleno de los derechos y libertades fundamentales de los grupos de atención prioritaria, para lo cual adoptarán las medidas necesarias que promuevan y garanticen su inclusión efectiva en la sociedad a través de las siguientes medidas, entre otras:
 
 1. La transversalización de la igualdad sustantiva;
 
@@ -970,9 +1036,13 @@ En la Ciudad, las personas mayores, en los términos de la legislación aplicabl
 
 18. Las personas mayores tendrán derecho a la exigibilidad y justiciabilidad de sus derechos, para ello se deberá instaurar un sistema integral para su atención y defensa de cualquier tipo de violencia, con el objeto (sic) promover, proteger sus derechos humanos y supervisar el cumplimiento de las obligaciones de los entes públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 7 DE JUNIO DE 2019)</small>
+
 ###### Artículo 80.
 
 En la Ciudad las personas con discapacidad cuentan con un apoyo de acuerdo a la legislación aplicable y autoridades competentes, a cargo del Gobierno.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 7 DE JUNIO DE 2019)</small>
 
 Las personas con discapacidad son sujetos de derechos y obligaciones, reconociéndose las diferencias y requerimientos específicos para asegurar la igualdad de oportunidades. Son principios rectores en materia de derechos de las personas con discapacidad, los que siguen:
 
@@ -1018,15 +1088,19 @@ Asimismo, implementarán un sistema de salvaguardias y apoyos, con objeto de pro
 
 En la Ciudad se reconocen y protegen los derechos a una vida libre de estigma, violencia y discriminación de las personas por razón de su orientación sexual, identidad de género, expresión de género o características sexuales como parte de su derecho a la autodeterminación y al libre desarrollo de la personalidad.
 
-Las autoridades en el ámbito de sus respectivas competencias observarán los siguientes principios:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 7 DE JUNIO DE 2019)</small>
+
+Las autoridades en el ámbito de sus respectivas competencias deberán:
 
 1. Establecerán políticas públicas y adoptarán las medidas necesarias para la atención y erradicación de conductas y actitudes de exclusión, estigmatización o discriminación por orientación sexual, preferencia sexual, identidad de género, expresión de género o características sexuales;
 
 2. Desarrollarán medidas positivas de oportunidades y de trato igualitario para las personas Lesbianas, Gays, Bisexuales, Travestis, Transgéneros, Transexuales e Intersexuales (LGBTTTI);
 
-3. Reconocerán y otorgarán la capacidad jurídica de las personas LGBTTTI, a la protección de su vida e integridad personal, a un trato digno y respetuoso de su condición humana libre de acoso y tortura por parte de personal médico, paramédico, policial, ministerial, administrativo, jurisdiccional. En el caso del Sistema Penitenciario, éste deberá reconocer la identidad sexual de las personas implicadas. Además, castigarán las detenciones arbitrarias motivadas por el rechazo a la orientación sexual -homofobia- y por la repulsa a la identidad de género –transfobia- y brindarán procuración e impartición de justicia libre de estereotipos, en particular en casos de agresiones y homicidios por odio que deberán ser sancionados de manera ejemplar por la violencia que representan;
+3. Reconocerán y otorgarán la capacidad jurídica de las personas LGBTTTI, a la protección de su vida e integridad personal, a un trato digno y respetuoso de su condición humana libre de acoso y tortura por parte de personal médico, paramédico, policial, ministerial, administrativo, jurisdiccional. En el caso del Sistema Penitenciario, éste deberá reconocer la identidad sexual de las personas implicadas. Además, castigarán las detenciones arbitrarias motivadas por el rechazo a la orientación sexual -homofobia- y por la repulsa a la identidad de género -transfobia- y brindarán procuración e impartición de justicia libre de estereotipos, en particular en casos de agresiones y homicidios por odio que deberán ser sancionados de manera ejemplar por la violencia que representan;
 
-4. Garantizarán el derecho de las personas a ser inscritas en el Registro Civil al momento de su nacimiento con el sexo identificable y tendrán el derecho a modificarlo en función de la autopercepción de su identidad de género durante el desarrollo de su vida. Las autoridades deberán garantizar el registro de personas que al momento del nacimiento presentan características sexuales que impiden identificar plenamente su sexo, como intersexuales, y auspiciar condiciones que les permitan asumir plenamente su identidad sexual y jurídica, así como su libre desarrollo sin discriminación;
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+4. Garantizar el derecho de todas las personas a ser inscritas en el Registro Civil al momento de su nacimiento con el sexo identificable y tendrán el derecho a modificarlo en función de la autopercepción de su identidad de género durante el desarrollo de su vida. Las autoridades deberán garantizar el registro de personas que al momento del nacimiento presentan características sexuales que impiden tener certeza en la asignación del sexo. En esos casos se deberá inscribir en una de las dos categorías vigentes a fin de asegurar el derecho de las personas a la identidad jurídica y permitir su libre desarrollo sin discriminación, en observancia de su derecho a la autonomía corporal e integridad física.
 
 5. Establecerán las medidas necesarias para brindar educación libre de acoso y discriminación;
 
@@ -1042,7 +1116,9 @@ Las autoridades en el ámbito de sus respectivas competencias observarán los si
 
 En la Ciudad, las personas migrantes, sujetas de protección internacional y desplazadas internas y sus familiares, que residen, en tránsito o retorno, gozarán de los derechos humanos reconocidos en la Constitución Federal, Constitución Local, los instrumentos internacionales de los que el Estado mexicano es parte. Ninguna persona migrante, sujeta de protección internacional o desplazada interna será objeto de discriminación, estigma o exclusión por su condición migratoria o por causa del fenómeno migratorio de movilidad humana, incluyendo todas las formas (sic) discriminación previstas en la presente Ley.
 
-El Gobierno, en el marco del Programa de Derechos Humanos, adoptará las medidas necesarias, con perspectiva de género y con especial atención a niñas, niños y adolescentes migrantes acompañados o no acompañados, para la protección efectiva de los derechos de este sector de la población, especialmente de su integridad personal, seguridad jurídica, y acceso a servicios públicos con enfoques de hospitalidad, solidaridad, interculturalidad, corresponsabilidad y de derechos humanos, que garanticen la inclusión social y su desarrollo personal y colectivo, bajo el principio de igualdad y no discriminación.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+El Gobierno, bajo orientación del Programa de Derechos Humanos, adoptará las medidas necesarias, con perspectiva de género y con especial atención a niñas, niños y adolescentes migrantes acompañados o no acompañados, para la protección efectiva de los derechos de este sector de la población, especialmente de su integridad personal, seguridad jurídica, y acceso a servicios públicos con enfoques de hospitalidad, solidaridad, interculturalidad, corresponsabilidad y de derechos humanos, que garanticen la inclusión social y su desarrollo personal y colectivo, bajo el principio de igualdad y no discriminación.
 
 Las autoridades, en el ámbito de sus respectivas competencias, deberán:
 
@@ -1118,9 +1194,13 @@ Las personas privadas de su libertad gozarán, entre otros, de los siguientes de
 
 11. Reinserción social.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO] , G.O. 7 DE JUNIO DE 2019)</small>
+
 El Gobierno deberá establecer mecanismos de coordinación con las instancias correspondientes para garantizar los derechos de las personas privadas de su libertad.
 
-B. Asimismo, a fin de que las personas recobren un sentido de vida digno, una vez cumplidas las sanciones impuestas, la Secretaría de Gobierno, la Subsecretaría de Sistema Penitenciario y las autoridades correspondientes del sistema penitenciario correspondientes (sic), impulsarán el diseño y ejecución de programas de atención postpenitenciaria, dirigidos a fortalecer la participación de las familias y grupos sociales de apoyo con herramientas para facilitar la reinserción social y de ser el caso, como personal de acompañamiento para inhibir y erradicar la reincidencia..(sic)
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
+B. Asimismo, a fin de que las personas recobren un sentido de vida digno, una vez cumplidas las sanciones impuestas, la Secretaría de Gobierno, la Subsecretaría de Sistema Penitenciario y las autoridades correspondientes del sistema penitenciario correspondientes, impulsarán el diseño y ejecución de programas de atención postpenitenciaria, dirigidos a fortalecer la participación de las familias y grupos sociales de apoyo con herramientas para facilitar la reinserción social y de ser el caso, como personal de acompañamiento para inhibir y erradicar la reincidencia.
 
 ###### Artículo 89.
 
@@ -1480,9 +1560,11 @@ Las autoridades de la Ciudad de México eliminarán progresivamente las barreras
 
 Corresponde al Tribunal Superior de Justicia y al Tribunal de Justicia Administrativa, ambos de la Ciudad de México, aplicar y garantizar los derechos humanos en las resoluciones que se emitan de acuerdo con los principios y normatividad establecidos por esta Ley.
 
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
+
 ###### Artículo 112.
 
-Las autoridades y órganos jurisdiccionales aplicarán en todas sus resoluciones el control difuso de constitucionalidad en materia de derechos humanos, ya sea de oficio o a petición de parte.
+Los órganos jurisdiccionales aplicarán en todas sus resoluciones el control difuso de constitucionalidad en materia de derechos humanos, ya sea de oficio o a petición de parte.
 
 Cuando existan varias normas e interpretaciones jurídicamente válidas, las autoridades jurisdiccionales deberán, partiendo de la presunción de constitucionalidad de las leyes, preferir aquella que sea acorde a los derechos humanos y favorezca la protección más amplia de éstos, a fin de evitar incidir o vulnerar el contenido esencial de estos derechos.
 
@@ -1584,6 +1666,8 @@ k) Asignar los recursos adecuados para el avance progresivo en el cumplimiento d
 
 ### Capítulo II. Perspectivas transversales
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 7 DE JUNIO DE 2019)</small>
+
 ###### Artículo 118.
 
 Serán transversales para todo el ejercicio de la función pública las siguientes perspectivas:
@@ -1605,6 +1689,10 @@ g) Diseño universal: asegurar que los bienes, servicios públicos e infraestruc
 h) Interculturalidad: salvaguardar el respeto y ejercicio del derecho de toda persona, grupo o comunidad a tener, conservar y fortalecer sus rasgos socioculturales y diferencias, haciendo posible la interacción entre distintas culturas. La relación, comunicación y aprendizaje permanentes entre personas, grupos, conocimientos, valores, tradiciones, lógicas y racionalidades distintas, deberán orientarse a generar, construir y propiciar un respeto mutuo y un desarrollo pleno de las capacidades de las personas y colectivos, por encima de sus diferencias culturales y sociales; y
 
 i) Sustentabilidad: todos los planes, políticas públicas, programas y medidas administrativas, legislativas y judiciales deberán orientarse a garantizar el desarrollo integral con una visión de largo plazo, que respete y preserve el entorno natural y el patrimonio ambiental, salvaguardando los derechos de las generaciones presentes y futuras. Las autoridades de la Ciudad de México deberán garantizar la aplicación de las perspectivas transversales en todas sus actuaciones y procesos de la actividad pública para asegurar el bienestar de todas las personas, en particular de los grupos de atención prioritaria.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 7 DE JUNIO DE 2019)</small>
+
+j) Integralidad: los derechos humanos constituyen una unidad, por lo cual no deben ser jerarquizados ni relegados unos de otros.
 
 ###### Artículo 119.
 
@@ -1769,3 +1857,23 @@ FIRMAS DEL DECRETO POR EL QUE SE EXPIDE LA LEY CONSTITUCIONAL DE DERECHOS HUMANO
 Palacio Legislativo del Congreso de la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil dieciocho. POR LA MESA DIRECTIVA.- DIPUTADO JOSÉ DE JESÚS MARTÍN DEL CAMPO CASTAÑEDA, PRESIDENTE.- DIPUTADA ISABELA ROSALES HERRERA, SECRETARIA.- DIPUTADA ANA PATRICIA BAEZ GUERRERO.- SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2, 3, fracciones XVII y XVIII, 7, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los cinco días del mes febrero del año dos mil diecinueve. LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.-FIRMA.-LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.-LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.-EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.-FIRMA.-EL SECRETARIO DE CULTURA, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.-FIRMA.-EL SECRETARIO DE DESARROLLO ECONÓMICO, JOSÉ LUIS BEATO GONZÁLEZ.-FIRMA.-LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.-FIRMA.-LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUÍZ GUTIÉRREZ.- FIRMA.-LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.-FIRMA.-LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.-LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.-EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.-FIRMA.-LA SECRETARIA DE LAS MUJERES, GABRIELA RODRÍGUEZ RAMÍREZ.-FIRMA.-EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.-FIRMA.-LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LARISA ORTIZ QUINTERO.-FIRMA.-LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.-FIRMA.-EL SECRETARIO DE SEGURIDAD CIUDADANA, JESÚS ORTA MARTÍNEZ.-FIRMA.-LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.-FIRMA.-EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 7 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS: ARTÍCULO 1 APARTADO C NUMERALES 1 Y 2; ARTÍCULO 2 PRIMER PÁRRAFO; ARTÍCULO 3 NUMERALES 2, 13, 22 Y 27; ARTÍCULO 4; ARTÍCULO 5; ARTÍCULO 8 SEGUNDO PÁRRAFO; ARTÍCULO 11 NUMERAL 6; ARTÍCULO 12 PRIMER PÁRRAFO; ARTÍCULO 13 NUMERAL 4; ARTÍCULO 15; ARTÍCULO 19; ARTÍCULO 21 CUARTO PÁRRAFO; ARTÍCULO 23 PRIMER PÁRRAFO, ARTÍCULO 27 PRIMER PÁRRAFO; ARTÍCULO 28 TERCER PÁRRAFO; ARTÍCULO 30 QUINTO PÁRRAFO; ARTÍCULO 31 NUMERAL 8; ARTÍCULO 32 CUARTO PÁRRAFO; ARTÍCULO 39 NUMERAL 21; ARTÍCULO 40 NUMERALES 1 Y 2; ARTÍCULO 56; ARTÍCULO 58 CUARTO PÁRRAFO; ARTÍCULO 60 PRIMER PÁRRAFO; ARTÍCULO 61 CUARTO PÁRRAFO; ARTÍCULO 67 PRIMER PÁRRAFO; ARTÍCULO 80 PRIMER PÁRRAFO; ARTÍCULO 84 NUMERAL 4; ARTÍCULO 88; ARTÍCULO 112 Y ARTÍCULO 118 DE LA LEY CONSTITUCIONAL DE DERECHOS HUMANOS Y SUS GARANTÍAS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 7 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 60 DE LA LEY CONSTITUCIONAL DE DERECHOS HUMANOS Y SUS GARANTÍAS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Al entrar en vigor el presente Decreto, se deja sin efecto el artículo 60 de la Ley Constitucional de Derechos Humanos y sus Garantías de la Ciudad de México aprobado el día 7 de mayo de 2019 por el Pleno del Congreso de la Ciudad de México.
