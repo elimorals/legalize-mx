@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2019-05-15"
+last_updated: "2019-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2019.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -120,6 +120,16 @@ Los servidores públicos municipales serán responsables de los delitos y faltas
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 Los Municipios son responsables en forma directa y objetiva de los daños que, con motivo de su actividad administrativa irregular, ocasionen a las personas y en los bienes o derechos de los particulares.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2019)</small>
+
+Gobierno Abierto
+
+###### Artículo 9
+
+1. Los Ayuntamientos garantizarán la implementación de Gobierno Abierto que se regirá por los principios de transparencia de la información, rendición de cuentas, evaluación al desempeño del Ayuntamiento, participación ciudadana y uso de tecnologías de la información.
+
+Los Ayuntamientos impulsarán, mediante la expedición de los reglamentos respectivos, la implementación de mejores prácticas de transparencia para alcanzar los principios contemplados en el presente artículo.
 
 ## Título Segundo
 
@@ -851,9 +861,9 @@ Citación a sesiones
 
 Por acuerdo del presidente municipal o de las dos terceras partes de los integrantes del Ayuntamiento, el secretario citará a las sesiones del mismo.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2019)</small>
 
-La citación deberá ser personal o en el domicilio del integrante del Ayuntamiento, la que deberá recibirse por una persona mayor de edad, por lo menos con veinticuatro horas de anticipación, contener el orden del día y, en su caso, la información para el desarrollo de las sesiones, el lugar, día y hora de su realización. La citación podrá realizarse por vía electrónica, mediante acuerdo del Ayuntamiento, en los casos en que se determine en el reglamento.
+La citación deberá ser personal o en el domicilio del integrante del Ayuntamiento, la que deberá recibirse por una persona mayor de edad, por lo menos con veinticuatro horas de anticipación, contener el orden del día, la información para el desarrollo de las sesiones, el lugar, día y hora de su realización y, en su caso, si ésta será materia de sesión privada. La citación podrá realizarse por vía electrónica, mediante acuerdo del Ayuntamiento, en los casos en que se determine en el reglamento.
 
 De no asistir el número de miembros necesarios para celebrar las sesiones, se citará nuevamente en los términos que fije esta Ley y en la forma que establezca el reglamento interior, y ésta se llevará a cabo con los que asistan.
 
@@ -1288,6 +1298,16 @@ Dispensa o remoción
 ###### Artículo 82.
 
 Sólo por causas graves calificadas por las dos terceras partes de los miembros del Ayuntamiento, podrá dispensarse o removerse del cargo a quien integre alguna comisión, haciéndose un nuevo nombramiento.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2019)</small>
+
+Publicidad de las comisiones
+
+###### Artículo 82
+
+1. Las reuniones de comisiones serán públicas. Serán privadas cuando se trate de los supuestos previstos en el artículo 67 de esta Ley.
+
+El carácter de privada lo determinará la presidencia de la Comisión en la convocatoria a la reunión.
 
 Comisiones ordinarias
 
@@ -4350,3 +4370,9 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de
 Artículo Segundo. Los Ayuntamientos contarán con un periodo de 180 días posteriores a la entrada en vigor del presente Decreto, para adecuar sus reglamentos, en congruencia con el mismo.
 
 Artículo Tercero. Los ayuntamientos contarán con un periodo de 180 días posteriores a la adecuación reglamentaria señalada en el artículo anterior a efecto de constituir la Comisión Municipal de la prevención social de la violencia y la delincuencia.
+
+P.O. 7 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 65, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 63 EN SU SEGUNDO PÁRRAFO Y SE ADICIONAN LOS ARTÍCULOS 9-1 Y 82-1 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
