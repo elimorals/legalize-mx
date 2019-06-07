@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-710
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-10-02"
-last_updated: "2019-03-04"
+last_updated: "2019-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el viernes 2 de octubre de 2009.
 
@@ -1163,13 +1163,19 @@ VI. Mejorar la capacidad de la red vial existente, a través de la coordinación
 
 VII. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2019)</small>
+
 ###### Artículo 33.
 
-La Contraloría y Transparencia Gubernamental, que estará a cargo de un Contralor General, es la dependencia encargada del despacho de los siguientes asuntos:
+La Contraloría y Transparencia Gubernamental, estará a cargo de un Contralor General y tendrá autonomía de ejercicio presupuestal, de gestión para organizar la estructura y funcionamiento de dicha dependencia, además estará a cargo de los siguientes asuntos:
 
-I. Planear, organizar y coordinar los sistemas de control de la Administración Pública del Estado; inspeccionar el ejercicio del gasto público estatal, su congruencia con el presupuesto de egresos y la observancia de la normatividad aplicable en el Estado;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
 
-II. Establecer y expedir las normas que regulen el funcionamiento de los instrumentos y procedimientos de control de las dependencias y entidades de la Administración Pública Estatal, siendo competente para requerir la instrumentación de los mismos;
+I. Planear, organizar y coordinar los sistemas de control de la Administración Pública del Estado; inspeccionar el ejercicio del gasto público estatal, su congruencia con el presupuesto de egresos y la observancia de la normatividad aplicable en el Estado; así como validar los indicadores para la evaluación de la gestión gubernamental, en los términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+II. Establecer y expedir las normas que regulen el funcionamiento de los instrumentos y procedimientos de control de las dependencias y entidades de la Administración Pública Estatal, siendo competente para requerir la instrumentación de los mismos. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
 
 III. Vigilar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Estatal, de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos, valores, contabilidad, contratos, convenios y pago de personal;
 
@@ -1181,7 +1187,9 @@ V. Vigilar el correcto cumplimiento de los convenios de coordinación que el Est
 
 V Bis. Conformar la integración del Comité Coordinador del Sistema Estatal Anticorrupción, siendo facultad indelegable del Contralor General su participación ante dicho Comité;
 
-VI. Someter a la consideración del Ejecutivo la designación de comisarios o sus equivalentes como órganos de vigilancia, en los consejos de administración, juntas de gobierno o comités técnicos de los organismos y entidades de la Administración Pública Paraestatal, y opinar sobre el nombramiento de los titulares de las áreas de control interno de las dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+VI. Vigilar en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las Normas Generales del Sistema de Control Interno Institucional y Fiscalización, así como asesorar y apoyar a los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal;
 
 VII. Ordenar las revisiones, auditorías, verificaciones o acciones de vigilancia, por iniciativa propia o a solicitud de los titulares de las dependencias y entidades de la Administración Pública Estatal, informando al Ejecutivo del Estado del resultado de las mismas, en los términos de la Ley de Administración Financiera para el Estado;
 
@@ -1189,11 +1197,15 @@ VIII. Solicitar la intervención o participación de auditores externos y consul
 
 IX. Vigilar que las obras públicas se realicen de acuerdo a la planeación, programación, presupuestación y especificaciones convenidas, directamente o a través de los órganos de supervisión interna de las dependencias y entidades de la Administración Pública Estatal, a fin de supervisar desde la contratación, autorización y anticipo de pago de estimaciones, hasta su finiquito y entrega, sin demérito de la responsabilidad de la dependencia o entidad encargada de la ejecución de la obra;
 
-X. Recibir la declaración patrimonial de los servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+X. Llevar y normar el registro de servidores públicos de la Administración Pública Estatal, recibir y registrar las declaraciones patrimoniales, de intereses y fiscales que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
 
 XI. Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las dependencias y entidades de la Administración Pública Estatal, sin perjuicio de que otros ordenamientos establezcan procedimientos de impugnación diferentes;
 
-XII. Imponer sanciones a los servidores públicos que incurran en responsabilidades administrativas, en los términos de las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+XII. Auditar, investigar, substanciar y resolver las conductas de los servidores públicos de la Administración Pública Estatal que puedan constituir responsabilidades administrativas, conforme a lo establecido en las leyes en la materia, por sí, o por conducto de los órganos internos de control según corresponda; así como presentar las denuncias correspondientesante (sic) la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
 
 XIII. Coordinar los esfuerzos de las dependencias y entidades de la Administración Pública, para modernizar los sistemas de control y seguimiento de los procesos de verificación y auditoría, para fortalecer los programas de prevención y de rendición de cuentas;
 
@@ -1201,7 +1213,9 @@ XIV. Llevar a cabo acciones y programas que propicien la legalidad y la transpar
 
 XV. Proveer lo necesario para que toda persona pueda tener acceso a la información pública conforme a los procedimientos regulados por la Ley de la materia;
 
-XVI. Coordinar y supervisar a los Enlaces de Transparencia y de Información que sean designados por las dependencias, entidades y tribunales administrativos en términos de lo establecido en la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+XVI. Coordinar y supervisar a los Responsables de las Unidades de Transparencia que sean designados por las dependencias, entidades y tribunales administrativos en términos de lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León. Coordinar y supervisar a los Enlaces de Transparencia y de Información que sean designados por las dependencias, entidades y tribunales administrativos en términos de lo establecido en la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León;
 
 XVII. Emitir y supervisar la aplicación de criterios y lineamientos para las dependencias, entidades y tribunales administrativos, a fin de que se cumpla con la Ley (sic) Transparencia y Acceso a la Información del Estado de Nuevo León;
 
@@ -1225,7 +1239,53 @@ XXVI. Impulsar políticas y programas en materia de gobierno digital, que permit
 
 XXVII. Coordinar, supervisar y evaluar las actividades y resultados de las entidades que le sean sectorizadas; y
 
-XXVIII. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2019)</small>
+
+XXVIII. Implementar las acciones que acuerde el Sistema Estatal Anticorrupción, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+XXIX. Colaborar en el marco del Sistema Estatal Anticorrupción y del Sistema Estatal de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+XXX. Coordinar y supervisar el Sistema de Control Interno, establecer las bases generales para la realización de auditorías internas, transversales y externas; auditorías de desempeño, de Control Interno y de Administración de riesgos, auditorías de tecnologías de información y comunicación, así como auditorías forenses; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Estatal. Así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+XXXI. Designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal, quienes dependerán jerárquica y funcionalmente de la Contraloría y Transparencia Gubernamental, asimismo, designar y remover a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales, representando al Titular de dicha Contraloría;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+XXXII. Seleccionar a los integrantes de los órganos internos de control, garantizando la igualdad de oportunidades en el acceso a la función pública, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+XXXIII. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, la política general de la Administración Pública Estatal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+XXXIV. Establecer coordinación con las autoridades de todos los órdenes de gobierno competentes para la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como para la fiscalización y control de recursos públicos;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+XXXV. Presentar al Ejecutivo las políticas, controles y procedimientos adecuados para combatir la corrupción e impulsar y proteger la integridad pública y la transparencia en el ejercicio del poder;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+XXXVI. Informar periódicamente al Comité Coordinador del Sistema Estatal Anticorrupción, así como al Ejecutivo, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Pública Estatal, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos estatales, y promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+XXXVII. Regular el registro, padrón, participación, capacitación y nombramiento de los testigos sociales acreditados en los procesos de adquisiciones, contrataciones y obra pública en el Estado;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+XXXVIII. Vigilar la observancia de la Ley General de Contabilidad Gubernamental y las disposiciones emitidas por el Consejo Nacional de Armonización Contable por parte de las dependencias y entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2019)</small>
+
+XXXIX. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -1619,6 +1679,22 @@ P.O. 23 DE ENERO DE 2019.
 
 P.O. 4 DE MARZO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 090. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 30 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 090. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 30 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 144. SE EXPIDE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NUEVO LEÓN”]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan los Títulos Tercero, Cuarto, Quinto, Sexto, Séptimo y Octavo de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León publicada en el Periódico Oficial del Estado de fecha 29 de enero de 1997.
+
+Tercero.- Los procedimientos de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente Decreto, se seguirán conforme a la legislación vigente al momento de su inicio.
+
+Cuarto.- Los formatos para declaración señalados en los artículos 29 y 34 del Artículo Primero del presente Decreto, que serán propuestos por el Comité de Participación Ciudadana y expedidos por el Comité Coordinador, deberán ser planteados una vez que el Comité Coordinador del Sistema Nacional Anticorrupción haya expedido los formatos correspondientes, a fin de que en la plataforma digital nacional exista congruencia en la información.
+
+Quinto.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto, en materia de justicia administrativa.
+
+Sexto.- Los entes públicos que no tengan designado al Titular de su órgano interno de control, tendrán un plazo de 180 días naturales a partir de la entrada en vigor del presente Decreto para designarle.
