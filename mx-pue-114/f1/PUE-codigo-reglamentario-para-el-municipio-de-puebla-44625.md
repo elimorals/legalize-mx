@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2019-04-16"
+last_updated: "2019-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -10587,7 +10587,9 @@ A. El Jefe de Departamento de Vía Pública:
 
 I. Recibir y atender quejas ciudadanas relacionadas con el ejercicio del comercio informal, ya sea por medio escrito, telefónico, medios electrónicos o base 072;
 
-II. Implementar operativos específicos para vigilar o instrumentar el ordenamiento comercial en los eventos o festividades;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+II. Implementar operativos para vigilar o instrumentar el ordenamiento comercial en los eventos, festividades y cuando se considere necesario;
 
 III. Vigilar en coordinación con las autoridades competentes, que en la vía pública se comercialicen únicamente las mercancías correspondientes a los giros autorizados en este Código;
 
@@ -10609,11 +10611,17 @@ III. Vigilar el cumplimiento de las obligaciones de los Artistas Urbanos, señal
 
 IV. Vigilar en coordinación con las autoridades competentes, que en la vía pública se comercialicen únicamente las mercancías correspondientes a los giros autorizados en este Código;
 
-V. Realizar el aseguramiento de mercancías en la vía pública, cuando en ejercicio de sus funciones detecten que los vendedores ambulantes, semifijos, prestadores ambulantes de servicios y artistas urbanos se encuentren en la vía pública realizando sus actividades sin permiso o teniéndolo, incumplan con alguna de sus obligaciones o transgredan las disposiciones establecidas en el presente Código; debiendo levantar un acta circunstanciada correspondiente ante la presencia de dos testigos;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+V. Realizar el retiro de productos, mercancías, objetos o bienes muebles con que ejercen su actividad en la vía pública, cuando en ejercicio de sus funciones detecten que los vendedores ambulantes, semifijos, prestadores ambulantes de servicios y artistas urbanos se encuentren en la vía pública realizando sus actividades sin permiso o teniéndolo, incumplan con alguna de sus obligaciones o transgredan las disposiciones establecidas en el presente Código; debiendo levantar el acta circunstanciada correspondiente ante la presencia de dos testigos;
 
 VI. Solicitar el auxilio de la fuerza pública ante la comisión de alguna falta administrativa de las contempladas en este Código; y
 
 VII. Realizar el inventario de la mercancía en cada uno de los aseguramientos que se lleven a cabo.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2019)</small>
+
+C. Los Directores de Desarrollo Político y Atención Vecinal y Comunitaria, previo acuerdo de colaboración podrá (sic) facultar al titular del Departamento de Seguridad Ciudadana y a los elementos que la integran, para que en determinada zona y temporalidad ejerzan las funciones del apartado B de éste artículo.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
@@ -10621,29 +10629,45 @@ VII. Realizar el inventario de la mercancía en cada uno de los aseguramientos q
 
 Corresponde a la Secretaría de Gobernación a través del Departamento de Concertación de Espacios Públicos de la Dirección de Desarrollo Político, las siguientes atribuciones:
 
-I. Autorizar y expedir los permisos correspondientes para el ejercicio del comercio ambulante, semifijo y prestación ambulante de servicios en la vía pública, en los términos que establece el Capítulo 16 del Código Reglamentario. Cuando se trate de la emisión de permisos para eventos masivos, se deberá contar con la aprobación correspondiente, en su caso, de la Unidad Operativa Municipal de Protección Civil;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+I. Autorizar y expedir los permisos correspondientes para el ejercicio del comercio ambulante, semifijo, prestación ambulante de servicios y para el desarrollo de actividades de artistas urbanos en la vía pública, en los términos que establece el Capítulo 16 del Código Reglamentario. Cuando se trate de la emisión de permisos para eventos masivos, se deberá contar con la aprobación correspondiente, en su caso, de la Unidad Operativa Municipal de Protección Civil;
 
 II. Recibir las solicitudes para concertar la utilización de un espacio en vía pública;
 
-III. Establecer los espacios para el ejercicio del comercio ambulante, semifijo y prestación ambulante de servicios en la vía pública de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
 
-IV. Determinar el número de comerciantes por o en cada zona y territorio para el ejercicio del comercio ambulante, semifijo y prestación ambulante de servicios en la vía pública de conformidad con la normatividad aplicable;
+III. Establecer los espacios para el ejercicio del comercio ambulante, semifijo, prestación ambulante de servicios y para el desarrollo de actividades de artistas urbanos en la vía pública de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+IV. Determinar el número de comerciantes por o en cada zona y territorio para el ejercicio del comercio ambulante, semifijo, prestación ambulante de servicios y para el desarrollo de las actividades de artistas urbanos en la vía pública de conformidad con la normatividad aplicable;
 
 V. Fijar los días y horarios, en los que se permita ejercer las actividades que este Capítulo contempla, cuando las circunstancias o el caso lo requieran de conformidad con la normatividad aplicable;
 
-VI. Atender a agrupaciones o personas que pretendan o realicen comercio ambulante, semifijo y prestación ambulante de servicios en la vía pública;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+VI. Atender a agrupaciones o personas que pretendan o realicen comercio ambulante, semifijo, prestación ambulante de servicios y arte urbano en la vía pública;
 
 VII. Revisar la documentación presentada para el trámite de autorización de permisos en vía pública;
 
 VIII. Cuantificar el pago de derechos por la ocupación de espacios en vía pública correspondiente al permiso expedido, mismo que el solicitante deberá realizar ante la Tesorería Municipal, de conformidad con la Ley de Ingresos vigente;
 
-IX. Realizar los estudios necesarios para conocer si existe afectación al utilizar la vía pública para ejercer el comercio ambulante, semifijo y prestación ambulante de servicios en la vía pública;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
 
-X. Proponer a los interesados los espacios que pueden ser utilizados para el ejercicio del comercio ambulante, semifijo y prestación ambulante de servicios en la vía pública, bajo la normatividad aplicable;
+IX. Realizar los estudios necesarios para conocer si existe afectación al utilizar la vía pública para ejercer el comercio ambulante, semifijo, prestación ambulante de servicios y cualquier actividad de arte urbano en la vía pública;
 
-XI. Ejercer funciones de conciliación en los casos que considere necesario con los comerciantes ambulantes, semifijos y prestadores ambulantes de servicios en la vía pública; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
 
-XII. Llevar el control de los permisos otorgados para el ejercicio del comercio informal en la vía pública, debiendo informar al respecto al Departamento de Vía Pública.
+X. Proponer a los interesados los espacios que pueden ser utilizados para el ejercicio del comercio ambulante, semifijo, prestación ambulante de servicios y para el desarrollo de las actividades de artistas urbanos en la vía pública, bajo la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+XI. Ejercer funciones de conciliación en los casos que considere necesario con los comerciantes ambulantes, semifijos, prestadores ambulantes de servicios y artistas urbanos en la vía pública; y
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+XII. Llevar el control de los permisos otorgados para el ejercicio del comercio informal y para el desarrollo de las actividades de artistas urbanos en la vía pública, debiendo informar al respecto al Departamento de Vía Pública.
 
 ###### Artículo 642.
 
@@ -10951,47 +10975,55 @@ En caso de incumplimiento por parte de los aseadores de vehículos y los aseador
 
 Corresponde a la Unidad de Normatividad y Regulación Comercial bajo el visto bueno del Departamento de Concertación de Espacios Públicos de la Secretaría de Gobernación, la expedición de permisos especiales para la celebración de juegos deportivos o espectáculos extraordinarios en la vía pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2019)</small>
 
 ###### Artículo 651 Ter.
 
-Los vendedores ambulantes, vendedores semifijos, prestadores ambulantes de servicios y artistas urbanos que violen alguna disposición del presente Capítulo, les será retirada su mercancía de la vía pública por los inspectores del Departamento de Vía Pública, quienes al realizar el retiro de la mercancía actuarán conforme a lo siguiente:
+Los vendedores ambulantes, vendedores semifijos, prestadores ambulantes de servicios y artistas urbanos que violen alguna disposición del presente Capítulo, se les retirará su mercancía de la vía pública por los inspectores del Departamento de Vía Pública o en su caso por los integrantes del Cuerpo de Seguridad Ciudadana, quienes al realizar el retiro de la mercancía actuarán conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
 
-I. Identificarse ante el vendedor ambulante, semifijo, prestador ambulante de servicio y Artista Urbano, con credencial vigente con fotografía expedida por la dependencia competente del H. Ayuntamiento, como servidor público adscrito al Departamento de Vía Pública;
+I. Identificarse ante el vendedor ambulante, semifijo, prestador ambulante de servicio y Artista Urbano, con credencial vigente con fotografía expedida por la dependencia competente del H. Ayuntamiento.
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
 
-II. Levantar acta por triplicado que incluya inventario con la descripción y el estado en que se encuentran los productos o mercancías al momento que se retiran de la vía pública. La cual deberá ser firmada y entregada al vendedor ambulante, semifijo o prestador ambulante de servicio;
+II. Levantar acta por triplicado que incluya inventario con la descripción y el estado en que se encuentran los productos, mercancías, objetos o bienes muebles con que ejercen su actividad, al momento que se retiran de la vía pública. La cual deberá ser firmada y entregada al vendedor ambulante, semifijo o prestador ambulante de servicio o artista urbano;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
 III. En el caso de que el probable infractor, se niegue a firmar el acta mencionada en la fracción anterior, se hará constar dicha circunstancia por el funcionario actuante, sin que la falta de tal firma afecte su validez;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
 
-IV. Remitir inmediatamente los productos o mercancías a la bodega del Departamento de Vía Pública, para evitar que éstos se destruyan, alteren o se sustraigan;
+IV. Remitir inmediatamente los productos, mercancías, objetos o bienes muebles con que ejercen su actividad a la bodega del Departamento de Vía Pública, para evitar que éstos se destruyan, alteren o se sustraigan;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
 
-V. Una vez que los productos o mercancías retirados se encuentren en la bodega del Departamento de Vía Pública, se deberán identificar con sellos, marcas o señales del Ayuntamiento que los identifiquen; y
+V. Una vez que los productos, mercancías, objetos o bienes muebles retirados con que ejercen su actividad se encuentren en la bodega del Departamento de Vía Pública, se deberán identificar con sellos, marcas o señales del Ayuntamiento que los identifiquen; y;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
 
-VI. Solicitar al Jefe del Departamento de Vía Pública haga constar el resguardo y las condiciones de los productos o mercancías que sean retirados, mediante la publicación en los estrados de la bodega del Departamento, a más tardar, dentro de las 24 horas siguientes del aseguramiento.
+VI. Solicitar al Jefe del Departamento de Vía Pública, haga constar en el resguardo, las condiciones de los productos, mercancías, objetos o bienes muebles, que sean retirados, mediante la publicación en los estrados de la bodega del Departamento, a más tardar, dentro de las 24 horas siguientes del retiro.
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2019)</small>
 
 ###### Artículo 651 Quáter.
 
-El propietario de los productos o mercancías retiradas de la vía pública tendrá un plazo de tres días para recogerlos y de veinticuatro horas tratándose de perecederos o de fácil descomposición, de animales vivos, de mercancía inflamable, contaminante o corrosiva. Los plazos transcurrirán a partir del día hábil siguiente en que sean retirados los productos o mercancías.
+El propietario de los productos, mercancías, objetos o bienes muebles con que ejercen su actividad retirados de la vía pública, tendrá un plazo de tres días hábiles para recogerlos contados a partir del día siguiente en que sean retirados y de veinticuatro horas tratándose de perecederos o de fácil descomposición, de animales vivos, de mercancía inflamable, contaminante o corrosiva.
 
-Si transcurridos los plazos a que se refiere el párrafo anterior, no se recogieren los productos o mercancía, se sujetará a lo dispuesto por la Sección Sexta de Abandono de Mercancías del Código Fiscal y Presupuestario para el Municipio de Puebla.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2019)</small>
+
+Si transcurridos los plazos a que se refiere el párrafo anterior, no se recogieren los productos, mercancías, objetos o bienes muebles con que ejercen su actividad, se sujetará a lo dispuesto por la Sección Sexta de Abandono de Mercancías del Código Fiscal y Presupuestario para el Municipio de Puebla.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
 Tratándose de explosivos serán administrados por la Secretaría de la Defensa Nacional. En todo caso deberá observarse, además, lo dispuesto en la Ley Federal de Armas de Fuego y Explosivos, Ley Federal de Pirotecnia y Ley Federal para la Administración de Bienes Asegurados, Decomisados y Abandonados.
 
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+
 Tratándose de bienes que podrían ser objeto o producto de delito en materia de Derechos de Autor y de Propiedad Industrial, se estará a lo establecido por el Código Penal Federal y la Ley de la Propiedad Industrial.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
 Tratándose de narcóticos se procederá en los términos de la legislación aplicable.
 
@@ -11017,39 +11049,55 @@ Las infracciones al presente Capítulo, serán sancionadas con el retiro de las 
 
 El permiso será cancelado por la afectación de los derechos de terceros, ante el incumplimiento de alguna de las obligaciones o violación de alguna prohibición de las establecidas en el presente Código;
 
-Se realizarán visitas de inspección para verificar el cumplimiento de los requisitos, obligaciones y observancia de prohibiciones para el desempeño de las actividades de los vendedores ambulantes, fijos, semifijos, prestadores ambulantes de servicios y artistas urbanos.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2019)</small>
+
+Se realizarán operativos para vigilar y regular el cumplimiento de los requisitos, obligaciones y observancia de prohibiciones para el desempeño de las actividades de los vendedores ambulantes, fijos, semifijos, prestadores ambulantes de servicios y artistas urbanos.
 
 Para los vendedores ambulantes, semifijos, prestadores ambulantes de servicios y Artistas Urbanos en vía pública que no cuenten con permiso, o que teniéndolo infrinjan alguna de las disposiciones del presente capítulo, y les sean retirados los productos, mercancías, objetos o bienes muebles utilizados para ejercer su actividad de acuerdo a lo establecido en el párrafo anterior, para la devolución de ésta, deberán pagar una multa conforme a lo señalado por la normatividad aplicable.
 
-Si de la práctica de las visitas de inspección se advierte el incumplimiento de alguna obligación o la violación de alguna prohibición, tal cuestión se asentará en el acta circunstanciada, en la que el particular podrá manifestar lo que a su derecho convenga.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2019)</small>
 
-En el acta que realicen los inspectores del Departamento de Vía Pública con motivo de una visita de inspección, se hará constar lo siguiente:
+Si de la práctica de los operativos, se advierte el incumplimiento de alguna obligación o la violación de alguna prohibición, tal cuestión se asentará en el acta circunstanciada, en la que el particular podrá manifestar lo que a su derecho convenga.
 
-I. Fecha y hora en que se inició y concluyó la visita;
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 7 DE JUNIO DE 2019)</small>
 
-II. Objeto de la visita;
+En el acta de retiro que se realice, se hará constar lo siguiente:
 
-III. Fecha de la orden de inspección en que se ordena la visita de inspección, autoridad que lo emite, así como la identificación del inspector o servidor público que la realiza;
+I. Fecha y hora en que se inició y concluyó la diligencia;
 
-IV. La ubicación precisa de los comerciantes ambulantes, semifijos, prestadores ambulantes de servicios y artistas urbanos, donde se prestan los servicios que sean objeto de la inspección;
+II. Objeto de la diligencia.
 
-V. Nombre de la persona con quien se entendió la inspección, en caso de no proporcionar el nombre se deberá de asentar tal circunstancia en el acta;
+III. Identificación del inspector o servidor público que la realiza;
 
-VI. Nombre y firma de las personas designadas o que hayan intervenido como testigos;
+IV. La ubicación de los comerciantes ambulantes, semifijos, prestadores ambulantes de servicios y artistas urbanos, donde se prestan los servicios o realiza el comercio;
 
-VII. Descripción de la visita, asentando los hechos, datos y omisiones derivados del objeto de la misma; y
+V. Nombre de la persona con quien se entendió la diligencia, en caso de no proporcionar el nombre se deberá de asentar tal circunstancia en el acta;
 
-VIII. Manifestación de la persona con quien se entendió la visita o su negativa de hacerla.
+VI. Descripción de la diligencia, asentando los hechos, datos y omisiones;
 
-Durante el desarrollo de la misma, los inspectores podrán auxiliarse con toma de fotografías, video, audio, dispositivos de archivos electrónicos o magnéticos y en general, todos aquellos elementos derivados de los avances de la ciencia y la tecnología, útiles para generar constancia de los hechos narrados.
+VII. Nombre y firma de las personas designadas o que hayan intervenido como testigos.
 
-Una vez elaborada el acta, el inspector proporcionará copia de la misma a la persona con quien se entendió la visita, aun cuando se haya negado a firmarla, dicha situación no desvirtuará su valor probatorio, debiendo remitir copia del expediente a la Contraloría Municipal.
+VIII. Manifestación de la persona con quien se entendió la diligencia o su negativa de hacerla.
 
-Se otorgará a la persona con quien se atendió la visita un término de tres días para que manifieste lo que a su interés convenga, exhiba pruebas, alegatos y acredite la preexistencia de los derechos que en su caso le asistan y se incluirá domicilio para oír notificaciones.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2019)</small>
+
+Durante el desarrollo de la diligencia, los inspectores o integrantes del Cuerpo de Seguridad Ciudadana, podrán auxiliarse con toma de fotografías, video, audio, dispositivos de archivos electrónicos o magnéticos y en general, todos aquellos elementos derivados de los avances de la ciencia y la tecnología, útiles para generar constancia de los hechos narrados.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2019)</small>
+
+Una vez elaborada el acta, el inspector o el integrante del Cuerpo de Seguridad Ciudadana proporcionará copia de la misma a la persona con quien se entendió la diligencia de retiro, aun cuando se haya negado a firmarla, dicha situación no desvirtuará su valor probatorio, debiendo remitir copia del expediente a la Contraloría Municipal.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2019)</small>
+
+Se otorgará a la persona con quien se atendió la diligencia un término de tres días hábiles
+
+(sic) contados a partir del día siguiente en que sean retirados, para que manifieste lo que a su interés convenga, exhiba pruebas, alegatos y acredite la preexistencia de los derechos que en su caso le asistan, siempre y cuando se trate de productos, mercancías, objetos o bienes muebles con que ejercen su actividad y para el caso de perecederos o de fácil descomposición, de animales vivos, de mercancía inflamable, contaminante o corrosiva se hará durante el término de las veinticuatro horas al retiro. Así mismo deberá señalar domicilio para oír notificaciones.
 
 El Director de Desarrollo Político, previa consideración tanto de lo asentado en el acta como de las manifestaciones realizadas por el infractor, resolverá sobre la procedencia de la sanción.
 
-La resolución correspondiente será notificada al comerciante en el domicilio que hubiere señalado, o de haberlo omitido, en su ubicación en primer término o, de no localizarse, se le notificará por estrados.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2019)</small>
+
+La resolución correspondiente será notificada al comerciante en el domicilio que hubiere señalado, o de haberlo omitido, se le notificará por estrados.
 
 ###### Artículo 653.
 
@@ -26569,9 +26617,9 @@ III. Corrección: Modificación de los procesos causales de deterioro ambiental 
 
 IV. Deterioro ambiental: Afectación de carácter negativo en la calidad del ambiente, en su conjunto o de los elementos que lo integran; la disminución de la diversidad biótica, así como la alteración de los procesos naturales en los sistemas ecológicos;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2019)</small>
 
-V. Agencia.- La Secretaría de Medio Ambiente y Servicios Públicos del Municipio de Puebla.
+V. Agencia.- La Secretaría de Desarrollo Urbano y Sustentabilidad del Municipio de Puebla.
 
 VI. Disposición Final: El depósito permanente de los residuos en sitios y condiciones adecuadas para evitar daños a los ecosistemas;
 
@@ -26826,6 +26874,10 @@ IX. La política y acciones municipales en materia ambiental, serán aplicadas d
 X. La preservación del entorno ambiental, el control de la contaminación, el adecuado aprovechamiento de los recursos naturales y el mejoramiento del entorno natural en el Municipio, son elementos fundamentales para elevar la calidad de vida de la población; y
 
 XI. El H. Ayuntamiento promoverá la preservación y conservación del equilibrio de los ecosistemas municipales, mediante orientación, capacitación y formulación de planes y cualquier tipo de normas jurídicas.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2019)</small>
+
+XII. El Ayuntamiento estará facultado para implementar programas municipales que coadyuven en la prohibición y eliminación de bolsas, envases de poliestireno expandido (unicel) y popotes de plástico.
 
 DE LA PLANEACIÓN AMBIENTAL
 
@@ -27983,6 +28035,30 @@ La Agencia podrá solicitar el auxilio de la fuerza pública para ejecutar cualq
 
 Cuando las contingencias ambientales rebasen el ámbito de competencia del Municipio, el Honorable Ayuntamiento, por conducto de la Agencia, notificará inmediatamente a la PROFEPA o a las Autoridades Estatales correspondientes para que decomisen, retengan o destruyan las sustancias o productos contaminantes y en su caso, apliquen las sanciones establecidas en las legislaciones correspondientes.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2019)</small>
+
+###### Artículo 1813 Bis.
+
+Se prohíbe la entrega de bolsas de plástico desechables, popotes de plástico o envases de poliestireno expandido (unicel), a título gratuito u oneroso, para fines de envoltura, transportación, carga o traslado de productos o mercancías, a:
+
+A) Los establecimientos de giros comerciales complementarios, industriales, de servicios y su entorno urbano, señalados en el Catálogo correspondiente conforme al artículo 627 de este Código Reglamentario para el Municipio de Puebla; y
+
+B) Los establecimientos señalados en el artículo 611 del presente Código Reglamentario para el Municipio de Puebla en los que se vendan, consuman o enajenen bebidas alcohólicas.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2019)</small>
+
+###### Artículo 1813 Ter.
+
+Queda prohibida la entrega y venta de popotes de plástico en los establecimientos a los que refieren los incisos del artículo 1813 Bis.
+
+Se excluyen de esta prohibición los popotes que empleen en hospitales o por cuestiones médicas.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2019)</small>
+
+Artículo 1813 Quárter (sic).- Los establecimientos deberán de incentivar y brindar facilidades al público para llevar sus propias bolsas reutilizables o bien otros elementos que no sean de un solo uso tales como: bolsas de tela, canastas, redes, u otras hechas de material reutilizable, para fines de envoltura, transportación, carga o traslado de productos o mercancías. La Agencia verificará el cumplimiento de esta disposición.
+
+Quedan excluidas de esta prohibición aquéllas que se empleen por razones de higiene o conservación de alimentos.
+
 DE LA INSPECCIÓN Y VIGILANCIA EN MATERIA DE PROTECCIÓN AMBIENTAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
@@ -28113,13 +28189,15 @@ I. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2012)
 
 II. Apercibimiento;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE JUNIO DE 2019)</small>
 
-III. Multa del equivalente al valor diario de 20 a 3000 unidades de medida y actualización
+III. Multa del equivalente al valor diario de 10 a 3000 unidades de medida y actualización.
 
 SUPUESTO NORMATIVO / INFRACCIÓN
 
 SUPUESTO NORMATIVO INFRACCIÓN
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 1. Por carecer del dictamen favorable Del equivalente
 
@@ -28133,6 +28211,8 @@ el presente Capítulo y las disposiciones actualización
 
 de este Código Reglamentario Municipal
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
 2. Por sobrepasar los límites establecidos Del equivalente
 
 en la normatividad ambiental vigente o al valor diario de
@@ -28145,6 +28225,8 @@ la atmósfera procedente de fuentes fijas actualización
 
 de competencia municipal
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
 3. Por no dar aviso a la autoridad Del equivalente
 
 competente de las fallas en los equipos al valor diario de
@@ -28152,6 +28234,8 @@ competente de las fallas en los equipos al valor diario de
 de control de contaminantes a la atmósfera 20 a 350 unidades
 
 en fuentes fijas de competencia municipal de medida y actualización
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 4. Por falta de permiso de la autoridad Del equivalente
 
@@ -28161,6 +28245,8 @@ abierto 20 a 350 unidades
 
 de medida y actualización
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
 5. Por carecer de inscripción en el Padrón Del equivalente
 
 Municipal de giros de competencia municipal al valor diario de
@@ -28168,6 +28254,8 @@ Municipal de giros de competencia municipal al valor diario de
 potencialmente emisores de contaminación 20 a 175 unidades
 
 ostensible a la atmósfera de medida y actualización
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 6. Por descarga al sistema de drenaje Del equivalente
 
@@ -28181,6 +28269,8 @@ estén fuera de las normas contempladas en la actualización
 
 legislación y reglamentación ambiental vigente
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
 7. Por contaminar con residuos y no manejarlos, Del equivalente
 
 transportarlos y disponerlos adecuadamente al valor diario de
@@ -28188,6 +28278,8 @@ transportarlos y disponerlos adecuadamente al valor diario de
 de conformidad con la legislación ambiental 15 a 50 unidades
 
 vigente de medida y actualización
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 8. Por realizar poda o derribo sin la Del equivalente
 
@@ -28209,6 +28301,8 @@ máximos permisibles establecidos en el de medida y actualización
 
 artículo 1796 del presente Código Reglamentario.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
 10. Por carecer de bitácora de operación y Del equivalente
 
 mantenimiento de sus equipos de control al valor diario de
@@ -28218,6 +28312,8 @@ anticontaminantes 10 a 20 unidades
 de medida y
 
 actualización
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 11. Por almacenar inadecuadamente o sin Del equivalente
 
@@ -28231,6 +28327,8 @@ pública o sitios públicos residuos provenientes actualización
 
 de clínicas u hospitales
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+
 12. Por carecer de equipo y autorización para Del equivalente
 
 la incineración o traslado de residuos y sustancias al valor diario de
@@ -28238,6 +28336,8 @@ la incineración o traslado de residuos y sustancias al valor diario de
 peligrosas por parte de la autoridad competente 10 a 200 unidades
 
 de medida y actualización
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 13. Cuando las contravenciones a la Del equivalente
 
@@ -28253,7 +28353,59 @@ para los ecosistemas, sus componentes o la
 
 salud pública, la sanción aplicable será
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JUNIO DE 2019)</small>
+
+14. Por proporcionar a los consumidores bolsas de Del equivalente diario plástico desechables, popotes de plástico o 15 a 30 unidades
+
+envases de poliestireno expandido (unicel), a título gratuito de medida y
+
+u oneroso, para fines de envoltura, transportación, carga actualización.
+
+o traslado de productos o mercancías, cuando el
+
+establecimiento sea susceptible del Aviso de Apertura
+
+de Negocio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JUNIO DE 2019)</small>
+
+15. Por proporcionar a los consumidores bolsas de Del equivalente diario
+
+plástico desechables, popotes de plástico o envases de de 30 a 100 unidades
+
+poliestireno expandido (unicel), a título gratuito u de medida y
+
+oneroso, para fines de envoltura, transportación, carga actualización.
+
+o traslado de productos o mercancías, cuando el
+
+establecimiento de giro comercial sea susceptible de
+
+trámite de Licencia de Funcionamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JUNIO DE 2019)</small>
+
+16. Por proporcionar a los consumidores bolsas de Del equivalente diario plástico desechables, popotes de plástico o envases de 300 a 500
+
+de poliestireno expandido (unicel), a título gratuito u unidades
+
+oneroso, para fines de envoltura, transportación, carga de medida y
+
+o traslado de productos o mercancías, cuando el giro actualización.
+
+del establecimiento sea Tienda de autoservicio, tienda
+
+departamental, bodega de abarrotes o sus equivalentes
+
+del Catálogo de Giros Comerciales Complementarios,
+
+Industriales y de Servicios del Municipio de Puebla.
+
 Las multas señaladas en esta fracción, se aplicarán sin perjuicio de lo que señalan otros capítulos del presente Código Reglamentario y las demás leyes y demás disposiciones jurídicas que resulten aplicables al caso concreto;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JUNIO DE 2019)</small>
+
+En el caso de reincidencia por la infracción señalada en los numerales 14, 15 y 16 de la fracción III del artículo 1821 del presente Código, se sancionará además con suspensión temporal de la Licencia de Funcionamiento respectiva hasta por 3 meses.
 
 IV. Clausura parcial o total, temporal o definitiva;
 
@@ -38076,3 +38228,25 @@ P.O. 16 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE FEBRERO DE 2019, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA EL INCISO M) DE LA FRACCIÓN IV DEL ARTÍCULO 209, LA FRACCIÓN V DEL ARTÍCULO 394, LA FRACCIÓN XXIII DEL ARTÍCULO 611 Y LA FRACCIÓN XIII DEL ARTÍCULO 616 BIS DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
 
 ÚNICO. El presente Dictamen deberá enviarse al Periódico Oficial del Estado de Puebla y tendrá efecto al siguiente día hábil de su publicación.
+
+P.O. 7 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 23 DE ABRIL DE 2019, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LAS COMISIONES UNIDAS DE DESARROLLO URBANO Y MEDIO AMBIENTE, Y DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 1714 Y LA FRACCIÓN III DEL ARTÍCULO 1821, Y ADICIONA LA FRACCIÓN XII DEL ARTÍCULO 1721, LOS ARTÍCULOS 1813 BIS, 1813 TER Y 1813 QUÁTER, TODOS DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. Estas reformas y adiciones al Código Reglamentario para el Municipio de Puebla, entrarán en vigor a partir del primero de enero del año 2020.
+
+SEGUNDO. La prohibición en cuanto al uso y entrega de bolsas de plástico desechables y popotes de plástico a título gratuito u oneroso, para fines de envoltura, transportación, carga o traslado de productos o mercancías entrará en vigor ciento veinte días naturales después de la entrada en vigor.
+
+TERCERO. La prohibición en cuanto al uso y entrega de envases de poliestireno expandido (unicel), entrará en vigor doscientos diez días naturales después de la entrada en vigor.
+
+CUARTO. La Secretaría de Desarrollo Urbano y Sustentabilidad podrá emprender esfuerzos y elaborar políticas públicas para fomentar en los establecimientos y empresas correspondientes el compromiso ambiental de esfuerzos de eliminación en el uso de los plásticos. Para ello, la Tesorería Municipal y la Unidad de Normatividad y Regulación Comercial, en términos de la Ley de Ingresos del Ejercicio Fiscal aplicable, y el Código Fiscal y Presupuestario para el Municipio de Puebla, podrán implementar incentivos necesarios en el pago de refrendo.
+
+QUINTO. El Ayuntamiento podrá fomentar programas de eliminación de plástico que incluyan apoyos para investigación y desarrollo de materiales reutilizables para las empresas fabricantes, así como actividades de educación ambiental y capacitación para generar conciencia en la población.
+
+P.O. 7 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 23 DE ABRIL DE 2019, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LAS COMISIONES UNIDAS DE GOBERNACIÓN Y JUSTICIA, Y DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CAPÍTULO 16 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. El presente Dictamen entrará en vigor un día después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
