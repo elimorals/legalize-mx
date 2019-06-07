@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-124882"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-29"
-last_updated: "2017-12-29"
+last_updated: "2019-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124882&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-12-26"
 ---
 # LEY DE CULTURA CIVICA DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO, PUBLICADA EN EL G.O. DE 7 DE JUNIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE JUNIO DE 2019 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 29 de diciembre de 2017.
 
@@ -1497,3 +1499,27 @@ QUINTO.- En tanto no entre en vigor la Unidad de Medida y Actualización, se uti
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintinueve días del mes de agosto del año dos mil diecisiete.- POR LA MESA DIRECTIVA.- DIP. JOSÉ GONZALO ESPINA MIRANDA, VICEPRESIDENTE.- DIP. REBECA PERALTA LEÓN, SECRETARIA.- DIP. LUCIANO JIMENO HUANOSTA, SECRETARIO. (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los veintiséis días del mes de diciembre del año dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- EL SECRETARIO DE FINANZAS, EDAGAR ABRAHAM AMADOR ZAMORA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 7 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO Y SE EXPIDE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. La presente Ley entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga la Ley de Cultura Cívica de la Ciudad de México publicada en la Gaceta Oficial de la Ciudad de México del 29 de diciembre de 2017.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+QUINTO. Las autoridades administrativas tendrán un plazo de ciento veinte días para desarrollar el sistema para atender el procedimiento administrativo vía electrónica por infracciones en materia de tránsito; así como lo dispuesto en el segundo párrafo del artículo 34.
+
+SEXTO. La Jefatura de Gobierno de la Ciudad de México emitirá las disposiciones reglamentarias para el uso del procedimiento administrativo vía electrónica por infracciones en materia de tránsito.
+
+SÉPTIMO. La Consejería Jurídica emitirá en 90 días los lineamientos sobre las condiciones físicas que deben tener los juzgados cívicos.
+
+Las Alcaldías deberán llevar a cabo las modificaciones necesarias conforme a los lineamientos en un plazo de 6 meses, enviando un informe a la Consejería y al Congreso de la Ciudad de México.
+
+OCTAVO.- La Jefatura de Gobierno contará con 120 días para expedir el reglamento de esta Ley.
