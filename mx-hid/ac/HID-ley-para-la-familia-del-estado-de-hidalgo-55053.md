@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2019-05-15"
+last_updated: "2019-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -95,9 +95,11 @@ Corresponde a las autoridades judiciales en el ámbito de su competencia, asegur
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2019)</small>
+
 ###### Artículo 8.
 
-El matrimonio es una institución social y permanente, por la cual se establece la unión jurídica de un solo hombre y una sola mujer, que con igualdad de derechos y obligaciones, originan el nacimiento y estabilidad de una familia, así como la realización de una comunidad de vida plena y responsable.
+El matrimonio es una institución social y permanente, por la cual se establece la unión jurídica entre dos personas, que, con igualdad de derechos y obligaciones, procuran respeto, igualdad y ayuda mutua, originan el nacimiento y estabilidad de una familia, así como la realización de una comunidad de vida plena y responsable.
 
 ###### Artículo 9.
 
@@ -247,7 +249,9 @@ Por lo menos quince días antes de pretender contraer matrimonio los futuros esp
 
 Acompañarán al escrito a que se refiere el Artículo 26 de este ordenamiento, los documentos siguientes:
 
-I.- Acta de nacimiento de los presuntos cónyuges, constancia de identificación personal y en su defecto, un dictamen médico que compruebe su edad expedido por una institución pública, cuando por su aspecto sea notorio que el varón y la mujer no sean mayores de dieciocho años;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2019)</small>
+
+I.- Acta de nacimiento de los presuntos cónyuges, constancia de identificación personal y en su defecto, un dictamen médico que compruebe su edad expedido por una institución pública, cuando por su aspecto sea notorio que alguno de los contrayentes sea menor de dieciocho años;
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -985,11 +989,11 @@ V.- Concubina o concubinario: Quien llena los requisitos del Artículo 143 de es
 
 ### CAPITULO UNICO. DEL CONCUBINATO
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2019)</small>
 
 ###### Artículo 143.
 
-El concubinato es la unión de un hombre y una mujer libres de matrimonio, que durante más de tres años de manera pública y constante hacen o hicieron vida en común como si estuvieren casados.
+El concubinato es la unión de dos personas mayores de edad libres de matrimonio, que durante más de tres años de manera pública y constante hacen o hicieron vida en común como si estuvieren casados.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1051,9 +1055,11 @@ III.- Por adopción o civil.
 
 El parentesco por consanguinidad es la relación jurídica entre personas descendientes unas de otras; o de un progenitor común.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2019)</small>
+
 ###### Artículo 151.
 
-El parentesco por afinidad resulta del matrimonio. Existe entre el esposo y los parientes de su esposa, así como entre ésta y los parientes de aquél. Este parentesco se termina con la disolución del matrimonio.
+El parentesco por afinidad resulta del matrimonio. Existe entre los cónyuges, así como entre estos y sus parientes. Este parentesco se termina con la disolución del matrimonio.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3274,3 +3280,11 @@ PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su Publicac
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
 
 TERCERO. El titular del Poder Ejecutivo del Estado, tendrá hasta 180 días hábiles a la entrada en vigor del presente Decreto, para realizar las implementaciones y adecuaciones correspondientes al Reglamento Administrativo de las Actas del Registro del Estado Familiar para el cumplimiento del mismo.
+
+P.O. 10 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 189 QUE REFORMA EL ARTÍCULO 8; FRACCIÓN PRIMERA DEL ARTÍCULO 28; PRIMER PÁRRAFO DEL ARTÍCULO 143; Y 151 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
