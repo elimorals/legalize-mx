@@ -4,7 +4,7 @@ identifier: "LDOFGG"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-24"
-last_updated: "2019-05-31"
+last_updated: "2019-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=310&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,11 +22,11 @@ abbreviation: "LDOFGG"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE JUNIO DE 2019 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL DIARIO OFICIAL DE LA FEDERACIÓN Y GACETAS GUBERNAMENTALES
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 10 DE JUNIO DE 2019.]</small>
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 24 de diciembre de 1986.
 
@@ -140,11 +140,11 @@ El Diario Oficial de la Federación podrá ser publicado todos los días del añ
 
 BIS.- Corresponde a la autoridad competente:
 
-> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2019)</small>
+(REFORMADA, D.O.F. 31 DE MAYO DE 2019) (F. DE E., D.O.F. 10 DE JUNIO DE 2019)
 
-(sic) Difundir la edición electrónica del Diario Oficial de la Federación, el mismo día de su edición, salvo que ello resulte imposible por causas de fuerza mayor;
+I. Difundir la edición electrónica del Diario Oficial de la Federación, el mismo día de su edición, salvo que ello resulte imposible por causas de fuerza mayor;
 
-II (SIC). Garantizar la autenticidad, integridad e inalterabilidad del Diario Oficial de la Federación que se publique en su dirección electrónica, a través de la firma electrónica avanzada;
+II. Garantizar la autenticidad, integridad e inalterabilidad del Diario Oficial de la Federación que se publique en su dirección electrónica, a través de la firma electrónica avanzada;
 
 > <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2019)</small>
 
