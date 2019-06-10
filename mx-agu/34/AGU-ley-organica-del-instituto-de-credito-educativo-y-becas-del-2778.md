@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-instituto-de-credito-educativo-y-becas-del-277
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-22"
-last_updated: "1991-12-22"
+last_updated: "2019-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL INSTITUTO DE CREDITO EDUCATIVO Y BECAS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2019.
 
 Ley publicada en el Suplemento al Número 51 del Periódico Oficial del Estado de Aguascalientes, el 22 de diciembre de 1991.
 
@@ -45,9 +45,11 @@ LEY ORGANICA DEL INSTITUTO DE CREDITO EDUCATIVO Y BECAS DEL ESTADO DE AGUASCALIE
 
 Se crea el Instituto de Crédito Educativo y Becas, como un organismo público descentralizado del Gobierno del Estado de Aguascalientes, con personalidad jurídica y patrimonio propios.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2019)</small>
+
 ###### ARTICULO 2o.
 
-Su objetivo fundamental, es el brindar apoyo financiero a través de crédito educativo y becas a los jóvenes que teniendo deseos y capacidad para el estudio, no cuentan con los recursos económicos necesarios y suficientes para hacerlo.
+Su objetivo fundamental, es el brindar apoyo financiero a través de crédito educativo y becas a las niñas, niños, adolescentes y jóvenes residentes en el estado, que teniendo deseos y capacidad para el estudio, no cuentan con los recursos económicos necesarios y suficientes para hacerlo.
 
 ###### ARTICULO 3o.
 
@@ -55,7 +57,9 @@ Las formas de apoyo financiero que brindará el Instituto serán:
 
 I.- Crédito educativo para estudios terminales en los niveles de técnico, técnico superior, licenciatura, especialización y postgrado; y
 
-II.- Becas para estudios de enseñanza media, media superior y superior.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2019)</small>
+
+II.- Becas para estudios de educación básica, media superior y superior.
 
 ###### ARTICULO 4o.
 
@@ -166,3 +170,17 @@ Miguel Angel Barberena Vega
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Enrique Pasillas Escobedo.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 166.- SE REFORMAN LOS ARTÍCULOS 2º Y LA FRACCIÓN II DEL ARTÍCULO 3º DE LA LEY ORGÁNICA DEL INSTITUTO DE CRÉDITO EDUCATIVO Y BECAS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El Ejecutivo Estatal sentará las bases para la aplicación de las reformas establecidas en el presente Decreto, conforme las bases y disposiciones establecidas en las Leyes de Ingresos y Egresos del Estado de Aguascalientes vigentes.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor una vez que se haya cumplido con el artículo primero transitorio.
