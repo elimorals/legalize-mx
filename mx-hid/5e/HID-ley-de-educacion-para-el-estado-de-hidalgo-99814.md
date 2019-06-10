@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-para-el-estado-de-hidalgo-99814"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-10"
-last_updated: "2018-06-11"
+last_updated: "2019-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2019.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de marzo de 2014.
 
@@ -849,6 +849,10 @@ La autorización y el reconocimiento serán específicos para cada plan de estud
 
 La autorización y el reconocimiento incorporan a las instituciones que los obtengan, respecto de los estudios a que la propia autorización o dicho reconocimiento se refieren, al Sistema Educativo Nacional.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2019)</small>
+
+Los particulares que hayan obtenido Reconocimiento de Validez Oficial de autoridades distintas a la autoridad educativa local y pretendan ofrecer educación en todos los tipos, niveles y modalidades en el Estado, deberán obtener previamente Carta de No Inconveniencia de la Secretaría de Educación Pública.
+
 ###### ARTÍCULO 66.
 
 La autoridad educativa local, podrá otorgar las autorizaciones y reconocimientos de validez oficial de estudios cuando los solicitantes cuenten:
@@ -862,6 +866,10 @@ III. Con planes y programas de estudio que la autoridad otorgante considere proc
 IV. Con la observancia demostrada documentalmente de las normas laborales y de seguridad social previstas en la Ley Federal del Trabajo y la del Instituto Mexicano del Seguro Social.
 
 La autoridad educativa local, negará la autorización para impartir educación, cuando los particulares no reúnan los requisitos previstos en este artículo.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2019)</small>
+
+Para el caso de solicitudes de autorización de uso de suelo y licencias de funcionamiento para la prestación de un servicio educativo, la autoridad municipal o estatal competente, previamente deberá tomar en cuenta la opinión de la autoridad educativa estatal para su procedencia.
 
 ###### ARTÍCULO 67.
 
@@ -1287,7 +1295,9 @@ XIII. Disponer indebidamente de los bienes y recursos destinados a la prestació
 
 XIV. Sustituir los programas de estudio con autorización oficial, por otros que carezcan de ella;
 
-XV. Impartir educación en cualquier tipo y modalidad, sin contar con la autorización correspondiente;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2019)</small>
+
+XV. Impartir educación en cualquier tipo y modalidad, sin contar con la autorización correspondiente y en su caso, sin la Carta de no Inconveniencia para establecerse en la Entidad emitida por la autoridad educativa local;
 
 XVI. Imponer o permitir que se impongan a las y los educandos medidas disciplinarias no previstas en la normatividad aplicable;
 
@@ -1424,3 +1434,13 @@ P.O. 11 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 441 POR EL QUE SE REFORMAN LAS FRACCIONES XXXV Y XXXVI DEL ARTÍCULO 14 Y SE ADICIONAN LAS FRACCIONES XXXVII Y XXXVIII AL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO. 190.- QUE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 91 Y SE ADICIONA EL PÁRRAFO QUINTO AL ARTÍCULO 65; Y UN PÁRRAFO TERCERO AL ARTÍCULO 66 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Educación Pública del Estado, deberá adecuar en el ámbito de sus respectivas competencias, las disposiciones legales aplicables en la materia.
+
+TERCERO. En tanto se realizan las adecuaciones a que se refiere el artículo anterior, se continuarán aplicando las disposiciones vigentes.
