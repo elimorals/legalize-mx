@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2018-12-10"
+last_updated: "2019-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -135,13 +135,13 @@ Es deber jurídico del Estado y sus Municipios impartir la educación preescolar
 
 El Estado deberá además, promover y atender la educación superior y otras modalidades educativas; como la formación y capacitación para el trabajo, la educación de adultos, la educación especial y la educación inicial.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2019)</small>
 
-Los fines de la Educación que imparta o promueva el Estado, de manera corresponsable con la sociedad, tenderá a desarrollar armónicamente las facultades del ser humano, y le fomentará la democracia como forma de vida, el respeto a los derechos humanos en el marco de la libertad y la justicia, la conciencia de solidaridad comunitaria y convivencia social pacífica, la colaboración en el trabajo, el desarrollo de individuos libres y autónomas (sic) como ciudadanos con capacidad de juicio y de toma de decisiones responsables el impulso del desarrollo nacional y estatal, el respeto a la pluralidad cultural, de género, social y política, el fomento a la ética, la rectitud, la verdad y la solidaridad y, con peculiaridad cuidado, la participación en el avance de la ciencia, la tecnología y a las humanidades.
+Los fines de la Educación que imparta o promueva el Estado, de manera corresponsable con la sociedad, tenderá a desarrollar armónicamente las facultades del ser humano, y le fomentará la democracia como forma de vida, el respeto a los derechos humanos en el marco de la libertad y la justicia, la conciencia de solidaridad comunitaria y convivencia social pacífica, la colaboración en el trabajo, el desarrollo de personas libres y autónomas como ciudadanos con capacidad de juicio para la toma de decisiones responsables, el impulso del desarrollo nacional y estatal, el respeto a la pluralidad cultural, de género, social y política, el fomento a la ética, la rectitud, la verdad y la solidaridad y, con peculiaridad cuidado, la participación en el avance de la ciencia, la tecnología y a las humanidades.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2019)</small>
 
-La ley garantizará la educación sobre derechos humanos en todos los niveles escolares y promoverá los medios pacíficos de solución de conflictos.
+La Ley, garantizará la educación sobre esta Constitución y sobre la Constitución Política de los Estados Unidos Mexicanos, los derechos humanos en todos los niveles escolares y promoverá los medios pacíficos de solución de conflictos.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
@@ -3247,8 +3247,16 @@ Cumplidos los extremos del Artículo 94 de la Constitución Política del Estado
 
 P.O. 10 DE DICIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 22.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 22.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)”.]
 
 ###### ARTÍCULO ÚNICO.
 
 Cumplidos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 141.- SE REFORMAN EL CUARTO Y QUINTO PÁRRAFOS DEL ARTÍCULO 6° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
