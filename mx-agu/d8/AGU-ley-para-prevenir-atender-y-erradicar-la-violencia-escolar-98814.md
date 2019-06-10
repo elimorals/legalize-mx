@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-atender-y-erradicar-la-violencia-escolar-9881
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-17"
-last_updated: "2017-06-05"
+last_updated: "2019-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ESCOLAR EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de febrero de 2014.
 
@@ -87,29 +87,57 @@ VII. Datos Sensibles: Son los datos recopilados en información corporal de la p
 
 VIII. Denuncia: Es el acto mediante el cual, una persona da a conocer hechos probablemente constitutivos de violencia escolar;
 
-IX. Estudiante: Es la persona inscrita en el sistema escolar, susceptible de ser objeto de violencia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2019)</small>
 
-X. Generador: Es la persona que provoca o realiza la violencia escolar;
+IX. Detonante de violencia: Son los factores o motivos psicoemocionales o sociales que hacen al generador reaccionar de manera violenta;
 
-XI. Gobiernos Municipales: Son las autoridades formalmente constituidas, mediante procesos validos de elección de los municipios del Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
 
-XII. Instituciones Educativas en el Estado: Son las instituciones de carácter público o privado, que imparten educación de cualquier nivel en el Estado;
+X. Estudiante: Es la persona inscrita en el sistema escolar, susceptible de ser objeto de violencia;
 
-XIII. Ley: La presente Ley Para Prevenir, Atender y Erradicar La Violencia Escolar en El Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
 
-XIV. Protocolo: Es el instrumento elaborado por el Consejo que contiene las estrategias, procedimientos y acciones encaminadas a atender los casos de violencia escolar;
+XI. Generador: Es la persona que provoca o realiza la violencia escolar;
 
-XV. Receptor: Es la persona que recibe la violencia escolar;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
 
-XVI. Relación de hechos: Es el documento que contiene la concatenación sucinta de hechos posiblemente ocurridos de violencia escolar;
+XII. Gobiernos Municipales: Son las autoridades formalmente constituidas, mediante procesos validos de elección de los municipios del Estado;
 
-XVII. Instituto: El Instituto de Educación del Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
 
-XVIII. Víctima: Es la persona o la institución que resulta afectada por la violencia escolar; y
+XIII. Instituciones Educativas en el Estado: Son las instituciones de carácter público o privado, que imparten educación de cualquier nivel en el Estado;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
 
-XIX. Violencia Escolar: Son los actos producidos entre los estudiantes de forma intencional, sea metódica, sistemática o reiterada, produciendo un daño físico o psicológico.
+XIV. Instituto: El Instituto de Educación del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2019)</small>
+
+XV. ISSEA: Instituto de Servicios de Salud del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
+
+XVI. Ley: La presente Ley Para Prevenir, Atender y Erradicar La Violencia Escolar en el Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
+
+XVII. Protocolo: Es el instrumento elaborado por el Consejo que contiene las estrategias, procedimientos y acciones encaminadas a atender los casos de violencia escolar;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
+
+XVIII. Receptor: Es la persona que recibe la violencia escolar;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
+
+XIX. Relación de hechos: Es el documento que contiene la concatenación sucinta de hechos posiblemente ocurridos de violencia escolar;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2019)</small>
+
+XX. Víctima: Es la persona o la institución que resulta afectada por la violencia escolar; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE JUNIO DE 2019)</small>
+
+XXI. Violencia Escolar: Son los actos producidos entre los estudiantes o hacia los docentes o demás personal administrativo de forma intencional, sea metódica, sistemática o reiterada, produciendo un daño físico o psicológico.
 
 ### CAPÍTULO II. Violencia Escolar
 
@@ -155,7 +183,9 @@ Con la finalidad de realizar acciones que permitan dar cumplimiento al objeto de
 
 I. La Secretaría de Seguridad Pública del Estado;
 
-II. La Secretaría de Salud de Estado;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2019)</small>
+
+II. El Instituto de Servicios de Salud del Estado;
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
 
@@ -219,9 +249,11 @@ V. Cualquier otra forma que permita sensibilizar a los que intervienen en los pr
 
 Cuando las actividades mencionadas en el Artículo anterior se realicen para favorecer a menores que no dominan el idioma español, se les deberá proporcionar todos los medios posibles para hacer entendible la acción emprendida en su favor para una adecuada atención.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2019)</small>
+
 ###### ARTÍCULO 11.
 
-La Secretaría de Salud del Estado trabajará en coordinación con el Instituto estableciendo programas para detectar los casos o las actitudes generadoras de violencia escolar.
+El ISSEA trabajará en coordinación con el Instituto estableciendo programas para detectar los casos o las actitudes generadoras de violencia escolar y para atender a los padres, tutores o quien ejerza la patria potestad, así como a las niñas, niños o adolescentes que presenten conductas de violencia, depresión, tendencias de auto privación de la vida o porten objetos que puedan causar alteración en la salud de algún estudiante, docente o personal administrativo del plantel, con la finalidad de recibir el tratamiento y la atención necesaria para atender los detonantes de violencia.
 
 ### CAPÍTULO IV. Consejo Preventivo de la Violencia Escolar en el Estado de Aguascalientes
 
@@ -569,7 +601,9 @@ Las autoridades responsables, los padres de familia, tutores y todos los trabaja
 
 Cuando se presenten casos de violencia escolar las autoridades procurarán conciliar a los involucrados con el fin de restablecer las condiciones libres de violencia escolar. Esta conciliación será privada, y podrá hacerse en presencia de los padres, tutores y trabajadores de la educación involucrados.
 
-Los compromisos podrán abarcar tratamientos psicológicos, o bien, el realizar actividades pedagógicas o de otra índole que disminuyan o modifiquen las condiciones que fomentan la violencia escolar.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2019)</small>
+
+Los compromisos deberán abarcar tratamientos psicológicos y realizar actividades pedagógicas o de otra índole que disminuyan o modifiquen las condiciones que fomentan la violencia escolar.
 
 ###### ARTÍCULO 38.
 
@@ -579,13 +613,17 @@ De los casos conciliados se levantará el acta respectiva, misma que incluirá l
 
 En los casos de violencia escolar donde parte de la solución del conflicto consista en suspender temporalmente o realizar un cambio de ubicación del generador, la autoridad podrá tomar estas medidas. Todas estas medidas serán de carácter transitorio y siempre con el respeto a los derechos humanos de quien las genera.
 
-La imposición de medidas terapéuticas de carácter psicológico, pedagógico, sanitario o de otro tipo tendrá siempre que ser aplicadas con el consentimiento formal de quien las recibe, o en caso de ser menores de edad, de sus padres o tutores.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2019)</small>
+
+La imposición de medidas terapéuticas de carácter psicológico, pedagógico, sanitario o de otro tipo tendrá siempre que ser aplicadas con el apoyo y consentimiento formal de quien las recibe, o en caso de ser menores de edad, de sus padres, tutores o quien ejerza la patria potestad.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 40.
 
-Las autoridades educativas tendrán obligación de sugerir la implementación de medidas que involucren la intervención de autoridades de seguridad y sanitarias.
+Las autoridades educativas podrán implementar medidas que involucren la intervención de autoridades médicas o psicológicas, y de ser necesario autoridades competentes en materia de seguridad y salubridad.
 
-Cuando se presenten casos de reincidencia, o bien, que las condiciones que generaron las circunstancias de violencia escolar no sean modificadas, las autoridades escolares podrán pedir al Instituto su intervención para su transformación.
+Cuando se presenten casos de reincidencia, o bien, que las condiciones que generaron las circunstancias de violencia escolar no sean modificadas, las autoridades escolares podrán pedir la intervención del Consejo a fin de que éste determine medidas adecuadas, tomando en cuenta la participación de quienes ejerzan la patria potestad sobre los generadores.
 
 ###### ARTÍCULO 41.
 
@@ -664,3 +702,11 @@ El presente Decreto iniciará su vigencia a partir del día siguiente de su publ
 ###### ARTÍCULO SEGUNDO.
 
 La primera convocatoria para la selección de los miembros especialistas será emitida en el año de dos mil dieciocho.
+
+P.O. 10 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 165.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES DE LA IX A LA XIX DEL ARTÍCULO 3°; LA FRACCIÓN II DEL ARTÍCULO 7°; EL ARTÍCULO 11; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 37; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 39; Y EL ARTÍCULO 40; ASÍ COMO SE ADICIONAN UNAS FRACCIONES XX Y XXI AL ARTÍCULO 3° TODOS DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ESCOLAR EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
