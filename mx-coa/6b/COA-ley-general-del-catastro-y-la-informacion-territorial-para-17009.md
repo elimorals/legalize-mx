@@ -4,7 +4,7 @@ identifier: "COA-ley-general-del-catastro-y-la-informacion-territorial-para-1700
 country: "mx"
 rank: "ley_general"
 publication_date: "1999-07-23"
-last_updated: "2017-12-26"
+last_updated: "2019-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 23 de julio de 1999.
 
@@ -195,7 +195,7 @@ VI. Proponer el valor catastral de la propiedad inmobiliaria cuando le sea solic
 
 VII. Prestar los servicios periciales que se le soliciten como valuador de inmuebles ante todas las autoridades civiles, penales, laborales, administrativas y fiscales, así como para la identificación, apeos o deslindes de inmuebles.
 
-Estos servicios se prestarán a las personas físicas o morales que lo requieran, previo acreditamiento de su interés jurídico.
+Estos servicios se prestarán a las personas físicas o morales que lo requieran, previo acreditamiento de su interés jurídico
 
 VIII. Prestar asistencia técnica a las Dependencias y Entidades de la Federación, del Estado y de los Municipios, cuando así lo soliciten, para la formulación de estudios o proyectos integrales de factibilidad sobre obras y servicios públicos, previo pago de los derechos correspondientes.
 
@@ -559,11 +559,11 @@ Los plazos a que se refiere el artículo anterior podrán ser prorrogados por un
 
 El titular de la Unidad y el Director General del Instituto suscribirán los proyectos definitivos de tablas de valores unitarios de suelo y construcción, debiendo proceder a someterlas a la aprobación del ayuntamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 33.
 
-El ayuntamiento, en el ámbito de su competencia y habiendo aprobado los proyectos definitivos correspondientes, propondrá a la Legislatura del Estado, a más tardar el 15 de octubre de cada año, con arreglo a la ley y de acuerdo a los principios de equidad y proporcionalidad, las tablas de valores unitarios de suelo y construcciones.
+El Ayuntamiento, en el ámbito de su competencia y habiendo aprobado los proyectos definitivos correspondientes, propondrá a la Legislatura del Estado, a más tardar el 15 de octubre de cada año, con arreglo a la ley y de acuerdo a los principios de legalidad, progresividad, equidad y proporcionalidad, las tablas de valores unitarios de suelo y construcciones.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
 
@@ -739,7 +739,7 @@ Las autoridades catastrales, están facultadas para determinar que se ha cometid
 
 ###### ARTÍCULO 56.
 
-Para la determinación de las sanciones, deberá tenerse en cuenta:
+Para la determinación de las sanciones, deberá tenerse en cuenta
 
 I. El carácter intencional de la acción u omisión constitutiva de la infracción.
 
@@ -1300,3 +1300,11 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 11 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 276.- SE REFORMA EL CONTENIDO DEL PRIMER PÁRRAFO DEL ARTÍCULO 33, DE LA LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
