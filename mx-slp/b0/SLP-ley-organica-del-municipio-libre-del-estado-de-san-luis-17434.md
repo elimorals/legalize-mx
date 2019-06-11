@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2019-04-12"
+last_updated: "2019-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -545,7 +545,9 @@ VI. Formular y remitir al Congreso del Estado para su aprobación, a más tardar
 
 VII. Los ayuntamientos podrán solicitar al Congreso del Estado las modificaciones que a su juicio ameriten las leyes de ingresos ya aprobadas;
 
-VIII. Remitir anualmente al Congreso del Estado, durante el mes de enero de cada año, el inventario general de bienes muebles e inmuebles de su propiedad, para efectos del control y registro de los mismos;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2019)</small>
+
+VIII. Remitir anualmente al Congreso del Estado, a más tardar el quince de marzo de cada año, la actualización al Catálogo General de Inmuebles Municipales, así como el inventario de bienes muebles de su propiedad para efectos del control y registro de los mismos;
 
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1187,7 +1189,9 @@ IV. Asistir en coordinación con el Contralor Interno, a las visitas de inspecci
 
 V. Vigilar con la oportunidad necesaria, que se presente al Congreso del Estado en tiempo y forma la cuenta pública anual; asimismo, cerciorarse de que se ordene la publicación de los estados financieros mensuales, previo conocimiento del Ayuntamiento;
 
-VI. Legalizar la propiedad de los bienes municipales e intervenir en la formulación y actualización de los inventarios de bienes muebles e inmuebles del Municipio, en coordinación con la Oficialía Mayor o Tesorería, procurando que se establezcan los registros administrativos necesarios para su control y vigilancia;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2019)</small>
+
+VI. Legalizar la propiedad de los bienes municipales e intervenir en la formulación y actualización de los inventarios de bienes muebles e inmuebles del Municipio, en coordinación con la Oficialía Mayor o la Secretaría, en su caso, procurando que se establezcan los registros administrativos necesarios para su control y vigilancia;
 
 > <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
 
@@ -1201,9 +1205,7 @@ IX. Presidir las comisiones para las cuales fuere designado;
 
 X. Intervenir como asesor en las demás comisiones cuando se trate de dictámenes o resoluciones que afecten al Municipio;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
-
-XI. Fungir como Agente del Ministerio Público en los casos que determinen las leyes de la materia;
+XI. (DEROGADA, P.O. 11 DE JUNIO DE 2019)
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
 
@@ -1239,9 +1241,9 @@ I. Ser ciudadano potosino en pleno uso de sus derechos civiles y políticos;
 
 II. (DEROGADA, P.O. 22 DE JUNIO DE 2018)
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2019)</small>
 
-III. Contar con título y cédula profesional de licenciado en, derecho; administración pública; o economía, o cualquiera otra relacionada con las actividades en las ramas de humanidades y las ciencias sociales;
+III. Contar con título y cédula profesional o nivel licenciatura;
 
 IV. No ser pariente consanguíneo o por afinidad hasta el cuarto grado de los integrantes del Ayuntamiento, y
 
@@ -2079,9 +2081,11 @@ a) Los que ingresen a su patrimonio no comprendidos en la fracción anterior, y
 
 b) Aquellos que, de conformidad con las leyes, sean desafectados de un servicio público.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2019)</small>
+
 ###### ARTICULO 110.
 
-El Ayuntamiento por medio de la Oficialía Mayor o de la Secretaría y el Síndico municipal, formulará y actualizará semestralmente el inventario general de los bienes muebles e inmuebles propiedad del Municipio, estableciendo el Catálogo General de Inmuebles Municipales, mismo que deberá contener el valor y las características de identificación de cada uno de éstos.
+El Ayuntamiento por medio de la Oficialía Mayor o de la Secretaría en su caso, formulará y actualizará en el mes de enero de cada año, el inventario general de los bienes muebles e inmuebles propiedad del Municipio, estableciendo el Catálogo General de Inmuebles Municipales, mismo que deberá contener el valor y las características de identificación de cada uno de éstos.
 
 ###### ARTICULO 111.
 
@@ -3118,3 +3122,29 @@ TERCERO. A partir de la entrada en vigor de este Decreto, el reglamento del Cons
 CUARTO. Las actuales administraciones municipales periodo 2018 – 2021, contarán con tres meses a partir de la entrada en vigor del presente Decreto, para integrar su Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable.
 
 QUINTO. Los consejos consultivos municipales de Medio Ambiente y Desarrollo Sustentable, que los ayuntamientos hayan integrado antes de la entrada en vigencia de este Decreto, quedan conformados en los términos y formas que se constituyeron, y su organización y funcionamiento se regirá por el Reglamento a que alude la fracción I Bis del inciso a) del artículo 31, de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí.
+
+P.O. 11 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0180.- SE REFORMAN LOS ARTÍCULOS 31, 75 Y 110 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0181.- SE DEROGA DEL ARTÍCULO 75 LA FRACCIÓN XI, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que (sic) opongan al presente Decreto.
+
+P.O. 11 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “0182.- SE REFORMA EL ARTÍCULO 77 EN SU FRACCIÓN III, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que (sic) opongan al presente Decreto.
+
+TERCERO. Los órganos internos de control, y la Auditoría Superior del Estado, deberán verificar el cumplimiento de la disposición reformada, por parte de las autoridades municipales que se encuentren en funciones al momento de la entrada en vigor de este Decreto.
