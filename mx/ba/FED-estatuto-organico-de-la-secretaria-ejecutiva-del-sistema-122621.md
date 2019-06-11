@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-122621
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-07-21"
-last_updated: "2017-07-21"
+last_updated: "2019-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122621&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-06-26"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA NACIONAL ANTICORRUPCIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JUNIO DE 2019.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 21 de julio de 2017.
 
@@ -169,6 +169,10 @@ VII. El Presidente del Tribunal Federal de Justicia Administrativa.
 
 Con la finalidad de agilizar su operación, cada uno de los integrantes del Órgano de Gobierno, nombrará a un servidor público que funja como enlace permanente con la Secretaría Ejecutiva del Sistema Nacional.
 
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2019)</small>
+
+Los integrantes del Órgano de Gobierno podrán acreditar ante el mismo a sus respectivos suplentes, los que fungirán como miembros en las ausencias de aquéllos. El nivel jerárquico de los servidores públicos suplentes deberá corresponder, cuando menos, al de Director General de la Administración Pública Centralizada o su equivalente.
+
 ###### ARTÍCULO 13.
 
 El Órgano de Gobierno tendrá como atribuciones indelegables, las siguientes:
@@ -189,7 +193,9 @@ El Secretario Técnico y, en su caso, los servidores públicos que deban interve
 
 VII. Aprobar la estructura básica de la organización de (sic) Secretaría Ejecutiva, así como las modificaciones que procedan a la misma;
 
-VIII. Nombrar y remover a los servidores públicos de la Secretaría Ejecutiva que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, esto es, Titulares de Unidad y Directores Generales, así como aprobar la fijación de sus sueldos y prestaciones y concederles licencias;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2019)</small>
+
+VIII. Nombrar y remover a los servidores públicos de la Secretaría Ejecutiva que ocupen cargos con las dos jerarquías administrativas inferiores a la del Secretario Técnico, esto es, Titulares de Unidad y Directores Generales, con excepción del Director General de Asuntos Jurídicos, quien será nombrado en los términos que ordena el artículo 43, fracción VII, párrafo segundo, de la Ley Orgánica de la Administración Pública Federal; así como aprobar la fijación de sus sueldos y prestaciones y concederles licencias;
 
 IX. Autorizar los perfiles profesionales que deberán cubrir los cargos de Titular de Unidad, Director General, Director General Adjunto y Director de Área;
 
@@ -243,7 +249,9 @@ IV. Establecer los métodos que permitan el óptimo aprovechamiento de los biene
 
 V. Tomar las medidas pertinentes a fin de que las funciones de la entidad se realicen de manera articulada, congruente y eficaz;
 
-VI. Proponer al Órgano de Gobierno el nombramiento o la remoción de los servidores públicos de la Secretaría Ejecutiva que ocupen cargos con las dos jerarquías administrativas inferiores, esto es, Titulares de Unidad y Directores Generales, así como la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio Órgano de Gobierno, mismas que estarán sujetas al tabulador de sueldos y salarios de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2019)</small>
+
+VI. Proponer al Órgano de Gobierno el nombramiento o la remoción de los servidores públicos de la Secretaría Ejecutiva que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, esto es, Titulares de Unidad y Directores Generales, con excepción del Director General de Asuntos Jurídicos; así como la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio Órgano de Gobierno, mismas que estarán sujetas al tabulador de sueldos y salarios de la Administración Pública Federal;
 
 VII. Supervisar la información y elementos estadísticos recabados que reflejen el estado de las funciones de la Secretaría Ejecutiva para así poder mejorar la gestión de la misma;
 
@@ -331,9 +339,11 @@ Para la celebración de las sesiones, la convocatoria deberá ir acompañada del
 
 Si la reunión convocada no pudiera llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco y diez días hábiles siguientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE JUNIO DE 2019)</small>
+
 ###### ARTÍCULO 23.
 
-Para poder sesionar válidamente, la Comisión Ejecutiva requerirá de la asistencia de por lo menos tres miembros del Comité de Participación Ciudadana que lo integran.
+La Comisión Ejecutiva sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus integrantes y siempre que el Secretario Técnico esté presente.
 
 Los miembros del Comité de Participación Ciudadana podrán participar de las sesiones de la Comisión Ejecutiva vía remota, lo que deberá ser asentado en el acta que al efecto se levante, misma que deberá contener los acuerdos y determinaciones de la enunciada comisión; la cual se perfeccionará con la firma autógrafa de los participantes.
 
@@ -602,3 +612,13 @@ TERCERO. La estructura orgánica prevista en el presente Estatuto Orgánico debe
 CUARTO. La atribución referida en el artículo 13, fracción IX del presente Estatuto, será ejercida por el Órgano de Gobierno a partir del tercer mes siguiente de la entrada en vigor del mismo.
 
 Ciudad de México, a 26 de junio de 2017.- El Secretario Técnico de la Secretaría Ejecutiva del Sistema Nacional Anticorrupción, Ricardo Salgado Perrilliat.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE ADICIONA Y REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA NACIONAL ANTICORRUPCIÓN".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las presentes reformas al Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Nacional Anticorrupción deberán inscribirse en el Registro Público de Organismos Descentralizados, dentro de los treinta días hábiles siguientes a la fecha de su publicación en el Diario Oficial de la Federación.
