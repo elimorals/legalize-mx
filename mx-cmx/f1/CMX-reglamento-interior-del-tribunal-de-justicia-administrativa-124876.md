@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-de-justicia-administrativa-124
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-12-21"
-last_updated: "2018-01-23"
+last_updated: "2019-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124876&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2017-12-14"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 11 DE JUNIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 23 DE ENERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el jueves 21 de diciembre de 2017.
 
@@ -1897,3 +1897,19 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN
 LIC. OFELIA PAOLA HERRERA BELTRÁN
 
 SECRETARIA GENERAL DE ACUERDOS (I)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 11 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se abroga el Reglamento Interior del Tribunal de Justicia Administrativa, publicado en la Gaceta Oficial del Distrito Federal del veintiuno de diciembre de dos mil diecisiete.
+
+TERCERO. Hasta en tanto no se actualicen los manuales y procedimientos administrativos, continuarán vigentes los existentes, siempre y cuando no se contrapongan al contenido y alcance del presente Reglamento.
+
+CUARTO. Serán respetados los horarios distintos al señalado en el presente Reglamento, respecto de los servidores públicos que ya laboran en el Tribunal, establecidos en sus nombramientos antes de la entrada en vigor de este reglamento y con base en las Condiciones Generales de Trabajo, de ser aplicables.
+
+QUINTO. Publíquese en la Gaceta Oficial de la Ciudad de México.
