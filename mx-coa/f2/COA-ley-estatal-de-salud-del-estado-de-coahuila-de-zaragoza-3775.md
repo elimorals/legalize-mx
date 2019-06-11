@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2019-05-28"
+last_updated: "2019-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -827,7 +827,9 @@ La prevención de las enfermedades mentales tiene carácter prioritario, se basa
 
 Para la promoción de la salud mental, la Secretaría de Salud del Estado y las instituciones de Salud en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
 
-I. El desarrollo de actividades educativas socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2019)</small>
+
+I. El desarrollo de actividades educativas socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia, juventud y la vejez;
 
 II. La difusión de las orientaciones para la promoción de la salud mental;
 
@@ -839,7 +841,9 @@ IV. Las demás acciones que directa o indirectamente contribuyan al fomento de l
 
 La atención de las enfermedades mentales comprende:
 
-I. La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas, y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2019)</small>
+
+I. La atención de personas con padecimientos mentales, la depresión y demencia de los adultos mayores, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas, y
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
@@ -2365,6 +2369,14 @@ Para iniciar y realizar la construcción, reconstrucción, modificación o acond
 
 Cuando el uso que se pretenda dar a un edificio o local sea público, además de los requisitos previstos en otras disposiciones aplicables, se deberá contar con agua potable corriente y retretes públicos, los cuales deberán reunir los requisitos técnicos sanitarios correspondientes.
 
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2019)</small>
+
+Todo edificio o local de uso público, sea de propiedad pública o privada, deberá instalar cambiadores de pañales para bebés e infantes en sus servicios sanitarios, tanto en los destinados para hombres como para mujeres, o mixtos, los cuales deberán cumplir con los requisitos técnicos sanitarios correspondientes en materia de intimidad, seguridad, comodidad e higiene. Se excluye de esta obligación aquellos edificios o locales cuya licencia de funcionamiento prohíbe su acceso a personas menores de edad.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2019)</small>
+
+En el caso de que por sus dimensiones no se puedan instalar cambiadores de pañal que aseguren la integridad física del menor, se deberán adecuar espacios destinados únicamente para tal fin, procurando la privacidad y el cuidado de la salud e integridad corporal del mismo, o bien, crear baños exclusivos para niños y bebés, donde puedan ser atendidos adecuadamente por sus respectivos padres.
+
 ###### Artículo 174.
 
 El encargado de la construcción, reconstrucción, modificación o acondicionamiento de cualquiera de los establecimientos a que se refiere este capítulo, deberá dar aviso de inicio y terminación de obra a la autoridad municipal competente quien vigilará el cumplimiento de los requisitos sanitarios aprobados en el proyecto.
@@ -3752,3 +3764,23 @@ P.O. 28 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 259.- SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 6, Y SE MODIFICA LA FRACCIÓN XIV DEL ARTÍCULO 7, AMBOS DE LA LEY ESTATAL DE SALUD DE COAHUILA”.]
 
 ÚNICO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 277.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 67, Y LA FRACCIÓN I DEL ARTÍCULO 68, DE LA LEY ESTATAL DE SALUD DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 278.- SE ADICIONA (SIC) LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 173 DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los establecimientos a que se refiere el presente Decreto, deberán adecuar sus instalaciones sanitarias a lo que prevé este Decreto en un plazo no mayor de ciento veinte días naturales.
