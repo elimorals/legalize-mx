@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-seguridad-social-del-estado-de-tabasco-110875"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2019-05-04"
+last_updated: "2019-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "TAB"
 ---
 # LEY DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2019 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tabasco, el jueves 31 de diciembre de 2015.
 
@@ -707,11 +711,19 @@ La asegurada, la esposa o concubina del asegurado o pensionado, tendrán derecho
 
 A la asegurada a la cual se le certifique estado de embarazo, al señalarse la fecha probable del parto, el ISSET le concederá licencia por gravidez de tres meses, con goce de sueldo íntegro, mismo que será cubierto por el Ente Público al cual preste sus servicios. La licencia empezará a contar un mes antes de la fecha probable del parto.
 
-#### SECCIÓN PRIMERA. GENERALIDADES
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE JUNIO DE 2019)</small>
+
+#### SECCIÓN QUINTA. DE LA PROTECCIÓN DE LOS BENEFICIARIOS DE LOS TRABAJADORES DESAPARECIDOS
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2019)</small>
+
+###### Artículo 65 Bis.
+
+Cuando la trabajadora o el trabajador tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia, en términos de la legislación especial en la materia, los beneficiarios conservarán el derecho a recibir la asistencia médica, de maternidad y de salud curativa que sea necesaria.
 
 ### CAPÍTULO TERCERO. PENSIONES
 
-#### SECCIÓN SEGUNDA. PENSIÓN POR JUBILACIÓN
+#### SECCIÓN PRIMERA. GENERALIDADES
 
 ###### Artículo 66.
 
@@ -791,11 +803,17 @@ El derecho a la pensión del asegurado, se extingue con la muerte de éste y se 
 
 Para los efectos a los que se refiere este Capítulo, es derecho de todo asegurado contar con una cuenta individual operada por el ISSET. La cuenta individual se integrará por las respectivas aportaciones hechas por el asegurado de acuerdo con el artículo 34, fracción III, inciso a) de la LSSET.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2019)</small>
+
+###### Artículo 84 Bis.
+
+Cuando la trabajadora o el trabajador tenga la calidad de persona desaparecida y cuente con declaración especial de ausencia en términos de la legislación especial en la materia, los recursos de su cuenta individual serán puestos a disposición de sus beneficiarios, en los términos en que se establezcan en la resolución que se haya emitido para ese fin.
+
 ###### Artículo 85.
 
 Es derecho de todo asegurado realizar aportaciones complementarias de manera voluntaria, para su cuenta individual, como sistema de ahorro a largo plazo.
 
-#### SECCIÓN TERCERA. PENSIÓN DE RETIRO POR EDAD Y TIEMPO DE SERVICIO
+#### SECCIÓN SEGUNDA. PENSIÓN POR JUBILACIÓN
 
 ###### Artículo 86.
 
@@ -805,7 +823,7 @@ La pensión por jubilación se otorgará a las mujeres que al retirarse de su em
 
 La pensión por jubilación dará derecho a una pensión equivalente al 70% del sueldo regulador y al uso del saldo de su cuenta individual para complementar dicha pensión.
 
-#### SECCIÓN CUARTA. PENSIÓN POR INVALIDEZ
+#### SECCIÓN TERCERA. PENSIÓN DE RETIRO POR EDAD Y TIEMPO DE SERVICIO
 
 ###### Artículo 88.
 
@@ -819,7 +837,7 @@ La pensión de Retiro por Edad y Tiempo de Servicio dará derecho a un porcentaj
 
 De igual forma se podrá hacer uso del saldo de la cuenta individual.
 
-#### SECCIÓN QUINTA. PENSIONES POR FALLECIMIENTO
+#### SECCIÓN CUARTA. PENSIÓN POR INVALIDEZ
 
 ###### Artículo 90.
 
@@ -853,7 +871,7 @@ El pago de la pensión se reanudará cuando el pensionado acepte y cumpla con la
 
 La pensión por invalidez será revocada cuando el pensionado recupere su capacidad para el servicio.
 
-#### SECCIÓN PRIMERA. SEGURO DE VIDA
+#### SECCIÓN QUINTA. PENSIONES POR FALLECIMIENTO
 
 ###### Artículo 94.
 
@@ -899,7 +917,7 @@ El importe de la pensión a la divorciada no será mayor de la que hubiese estad
 
 ### CAPÍTULO CUARTO. PRESTACIONES SOCIOECONÓMICAS
 
-#### SECCIÓN SEGUNDA. SEGURO DE DESEMPLEO
+#### SECCIÓN PRIMERA. SEGURO DE VIDA
 
 ###### Artículo 101.
 
@@ -909,7 +927,7 @@ En los casos en que existiere controversia judicial sobre la designación de los
 
 En caso de muerte natural, el seguro de vida será el equivalente a 400 días de salario mínimo vigente, en la fecha del deceso; y de 600 días si ocurriese por accidente de trabajo o cualquier otra causa violenta, siempre que no sea consecuencia de un delito intencional imputable a los beneficiarios, en los términos de las leyes respectivas.
 
-#### SECCIÓN TERCERA. APOYO PARA GASTOS FUNERARIOS
+#### SECCIÓN SEGUNDA. SEGURO DE DESEMPLEO
 
 ###### Artículo 102.
 
@@ -917,7 +935,7 @@ En caso de que el asegurado pierda el empleo por causas ajenas a él, el ISSET, 
 
 El beneficiario de este seguro podrá reintegrar a su cuenta individual el importe otorgado, mediante aportaciones voluntarias, para las cuales no existe una fecha límite.
 
-#### SECCIÓN CUARTA. ACTIVIDADES CULTURALES, RECREATIVAS, DEPORTIVAS Y ASISTENCIALES
+#### SECCIÓN TERCERA. APOYO PARA GASTOS FUNERARIOS
 
 ###### Artículo 103.
 
@@ -931,7 +949,7 @@ El apoyo para gastos funerarios se otorgará a los beneficiarios del asegurado o
 
 No habiendo beneficiarios del asegurado o pensionado, o persona que se hubiese hecho cargo del sepelio y lo reclame, dicho apoyo pasará a formar parte del patrimonio del ISSET.
 
-#### SECCIÓN QUINTA. PROGRAMA DE VIVIENDA
+#### SECCIÓN CUARTA. ACTIVIDADES CULTURALES, RECREATIVAS, DEPORTIVAS Y ASISTENCIALES
 
 ###### Artículo 106.
 
@@ -939,7 +957,7 @@ El ISSET podrá promover y realizar actividades culturales, recreativas y deport
 
 Con las cuotas y aportaciones correspondientes a estos rubros, el ISSET podrá proporcionar dentro de sus servicios asistenciales, el establecimiento de Centros de Cuidado Infantil y del Adulto Mayor, servicios funerarios y en general, los que autorice la Junta de Gobierno.
 
-#### SECCIÓN PRIMERA. GENERALIDADES
+#### SECCIÓN QUINTA. PROGRAMA DE VIVIENDA
 
 ###### Artículo 106 Bis.
 
@@ -947,7 +965,7 @@ El ISSET garantizará a los trabajadores y sus familias el derecho constituciona
 
 ### CAPÍTULO QUINTO. CRÉDITOS
 
-#### SECCIÓN SEGUNDA. CRÉDITOS A CORTO Y MEDIANO PLAZO
+#### SECCIÓN PRIMERA. GENERALIDADES
 
 ###### Artículo 107.
 
@@ -987,7 +1005,7 @@ La Junta de Gobierno autorizará los reglamentos respectivos y establecerá las 
 
 En los casos en los que se encuentre vigente un préstamo no se concederá uno nuevo, salvo en aquellos en los que la capacidad de pago, del asegurado o pensionado le permita adquirir una nueva obligación, previo análisis que realice el ISSET para tales efectos.
 
-#### SECCIÓN TERCERA. CRÉDITOS HIPOTECARIOS
+#### SECCIÓN SEGUNDA. CRÉDITOS A CORTO Y MEDIANO PLAZO
 
 ###### Artículo 113.
 
@@ -996,6 +1014,8 @@ Los préstamos a corto y mediano plazo causarán un interés anual, que será de
 ###### Artículo 114.
 
 El adeudo del asegurado o pensionado que no fuere cubierto a su vencimiento, será recuperado por el ISSET a través de los procedimientos que considere pertinentes.
+
+#### SECCIÓN TERCERA. CRÉDITOS HIPOTECARIOS
 
 ###### Artículo 115.
 
@@ -1290,3 +1310,31 @@ Se derogan todas las disposiciones que se opongan al contenido del presente Decr
 ###### ARTÍCULO TERCERO.
 
 Los juicios iniciados con las disposiciones anteriores a la presente reforma deberán concluirse de conformidad con ellas.
+
+P.O. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 102 POR EL QUE “SE ADICIONA UNA SECCIÓN QUINTA, AL CAPÍTULO SEGUNDO, DEL TÍTULO TERCERO, INTEGRADA POR EL ARTÍCULO 65 BIS; Y EL ARTÍCULO 84 BIS; TODOS DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales, posteriores a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Fiscalía Estatal, deberá realizar las adecuaciones normativas conducentes, a efectos de ajustar su estructura y actuaciones conforme a las disposiciones contenidas en este Decreto, dentro de los sesenta días hábiles, siguientes a su entrada en vigor.
+
+TERCERO. El titular del Poder Ejecutivo del Estado deberá emitir el Reglamento Interior de la Comisión Estatal de Búsqueda, en un plazo no mayor a los 60 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. Dentro de los noventa días hábiles posteriores a la entrada en vigor de la presente Ley, deberán ser nombrados, por el Congreso del Estado, los integrantes del Consejo Estatal Ciudadano, previa convocatoria pública y procedimiento establecido en la presente Ley.
+
+En un plazo de treinta días posteriores a su conformación e inicio de funciones el Consejo Estatal Ciudadano deberá emitir sus reglas de funcionamiento.
+
+QUINTO. En un plazo que no exceda de treinta días posteriores al nombramiento del Consejo Estatal Ciudadano, el Titular del Ejecutivo del Estado nombrará al titular de la Comisión Estatal de Búsqueda, atendiendo a lo previsto en esta Ley.
+
+SEXTO. Dentro de los treinta días posteriores a la entrada en vigor del presente Decreto, deberá expedirse la normatividad correspondiente estatal y municipal, así como las reformas a la Ley Orgánica de la Fiscalía General del Estado de Tabasco y al Código Penal para el Estado de Tabasco y demás leyes que sean necesarias, para armonizarlas a las disposiciones contenidas en la presente Ley.
+
+SÉPTIMO. La Fiscalía Estatal deberá reformar su Reglamento Interior y demás ordenamientos internos para armonizarlo a las disposiciones contenidas en la presente Ley.
+
+OCTAVO. El titular del Poder Ejecutivo Estatal, deberá realizar las transferencias y asignaciones presupuestales que sean necesarias para la instalación e inicio de funciones de los órganos a que se refiere la presente Ley, conforme las solicitudes que al efecto le realicen las instancias competentes, debiendo anualmente programar los recursos respectivos.
+
+NOVENO. En tanto comiencen a operar los registros de Personas Desaparecidas y No Localizadas, la Fiscalía Estatal deberá incorporar en un registro provisional, electrónico o impreso, la información de los Reportes, Denuncias o Noticias recibidas conforme a lo que establece el artículo 106 de la Ley General y la presente Ley.
+
+Asimismo, se deberá migrar la información contenida en los registros provisionales a que se refiere el párrafo anterior, dentro de los quince días siguientes a que comiencen a operar los registros de Personas Desaparecidas y No Localizadas.
+
+DÉCIMO. A partir de la entrada en vigor del presente Decreto, quedan derogadas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
