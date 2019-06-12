@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2018-10-31"
+last_updated: "2019-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -1263,6 +1263,10 @@ En la segunda sesión del primer periodo de sesiones ordinarias correspondiente 
 
 Los integrantes de la Comisión de Régimen Interno y Concertación Política podrán ser removidos del cargo cuando así lo considere la mayoría del grupo del que provienen o, en su caso, el Pleno por falta grave a juicio de la Asamblea.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2019)</small>
+
+Los legisladores que integren la Comisión de Régimen Interno y Concertación Política no podrán formar parte de otra Comisión de Gobierno o administración.
+
 ###### Artículo 118.
 
 La Comisión de Régimen Interno y Concertación Política tendrá, de entre los que la integran, un Presidente y el número de Secretarios que conformen dicha Comisión.
@@ -1356,6 +1360,10 @@ Al concluir el periodo de receso, el Presidente de la Comisión Permanente rendi
 ###### Artículo 129.
 
 La Comisión de Planeación, Patrimonio y Finanzas se integrará por dos diputados de cada grupo parlamentario, los que gozarán de voz y voto ponderado. La Presidencia de la Comisión será rotativa. Se renovará cada seis meses respetando la proporcionalidad de la representación de los grupos parlamentarios, conforme al calendario y en el orden que por acuerdo determine el Pleno.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2019)</small>
+
+Los integrantes de la Comisión de Planeación, Patrimonio y Finanzas no podrán formar parte de otra Comisión de Gobierno o administración.
 
 Esta Comisión sesionará por lo menos una vez por semana y conocerá de los asuntos siguientes:
 
@@ -2398,3 +2406,11 @@ P.O. 31 DE OCTUBRE DE 2018.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 143.- SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 117 Y 129 DE LA LEY ORGÁNICA, ASÍ COMO LOS ARTÍCULOS 37 Y 43 DEL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo. En un plazo que no exceda de cinco días naturales, contados a partir de la publicación del presente Decreto, los Grupos Parlamentarios deberán ratificar o en su caso remover a los legisladores que integren la Comisión de Régimen Interno y Concertación Política y la Comisión de Planeación, Patrimonio y Finanzas, y que se encuentren en los supuestos legales señalados en la reforma de mérito, en términos del presente instrumento legislativo.
