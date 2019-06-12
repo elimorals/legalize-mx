@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-integracion-y-desarrollo-de-las-89343"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2016-11-16"
+last_updated: "2019-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89343&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JUNIO DE 2019.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el viernes 31 de agosto de 2012.
 
@@ -235,7 +235,7 @@ XI. Consolidar conjuntamente con las instancias competentes, el establecimiento 
 
 XII. Proporcionar, en el ámbito de su competencia, los servicios de asesoría, orientación y capacitación integral a las personas con discapacidad;
 
-XIII. Promover acuerdos de colaboración con organismos púbicos y privados para el desarrollo de proyectos que beneficien a las personas con discapacidad;
+XIII. Promover acuerdos de colaboración con organismos públicos y privados para el desarrollo de proyectos que beneficien a las personas con discapacidad;
 
 XIV. Actuar como órgano de consulta, asesoría, capacitación y formación de las dependencias del Gobierno del Estado y los municipios, así como de los sectores social y privado en materia de igualdad de oportunidades para las personas con discapacidad;
 
@@ -705,7 +705,11 @@ VI. Propiciar que en las avenidas principales del Estado y los municipios la ins
 
 VII. Garantizar que las personas con discapacidad cuenten con zonas reservadas en la infraestructura vial, debidamente señalizadas, para el ascenso y descenso exclusivo de personas con discapacidad en las terminales y rutas de transporte público; y
 
-VIII. Las demás que determinen la Junta de Gobierno y el Consejo Consultivo.
+> <small>(ADICIONADA, G.G. 12 DE JUNIO DE 2019)</small>
+
+VIII. Garantizar y vigilar que las personas con discapacidad cuenten con cajones de estacionamiento reservados para su uso en todos los estacionamientos de la entidad, así como su correcto uso.
+
+IX. Las demás que determinen la Junta de Gobierno y el Consejo Consultivo.
 
 ### CAPÍTULO VII. DE LAS COMUNICACIONES
 
@@ -880,3 +884,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan las disposiciones de menor jerarquía que se opongan al presente Decreto.
+
+G.G. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 49.- POR EL QUE SE REFORMA LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO Y EL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
