@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-132100"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2019-02-12"
+last_updated: "2019-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019.
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 31 de diciembre de 2018.
 
@@ -419,193 +419,83 @@ DEL OBJETO
 
 ###### ARTÍCULO 32.
 
-El objetivo y finalidad de estos impuestos es que la Hacienda Pública del Estado cuente con recursos que le permitan atender su obligación a la protección de la salud y a un medio ambiente sano para la población, de conformidad con lo establecido por el artículo 4° de la Constitución Política de los Estados Unidos Mexicanos a través del establecimiento de figuras impositivas que al mismo tiempo incentiven cambios en la conducta de los sujetos obligados para que favorezcan a la salud pública.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 ###### ARTÍCULO 33.
 
-Para efectos de este Capítulo serán aplicables de manera supletoria la Ley Ambiental para el Desarrollo Sustentable del Estado de Michoacán de Ocampo y demás disposiciones vigentes en el Estado en materia de derecho al medio ambiente, que no sean contrarias a las disposiciones en materia fiscal.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 #### SECCIÓN VI. ESTÍMULOS
 
 ###### ARTÍCULO 34.
 
-Es objeto de este impuesto la extracción del suelo y subsuelo de materiales que constituyan depósitos de igual naturaleza a los componentes de los terrenos, aún y cuando constituyan vetas, mantos o yacimientos tales como: agregados pétreos, andesita, arcillas, arena, caliza, cantera, caolín, grava, riolita, rocas, piedras y sustrato o capa fértil.
-
-Para efectos de este artículo la extracción deberá realizarse por medio de trabajos a cielo abierto en el territorio del Estado.
-
-En ningún momento se considerarán objeto de este impuesto los minerales o sustancias a que hace referencia el artículo 4° de la Ley Minera.
-
-Para efectos de este artículo se entiende como:
-
-I. Agregados Pétreos: los materiales granulares sólidos inertes que se emplean en los firmes de las carreteras con o sin adición de elementos activos y con granulometrías adecuadas; se utilizan para la fabricación de productos artificiales resistentes, mediante su mezcla con materiales aglomerantes de activación hidráulica (cementos, cales, entre otros) o con ligantes asfálticos; y,
-
-II. Rocas: el granito, la roca volcánica, el mármol, el ónix, roca travertino, rocas sedimentarias y demás rocas para la construcción.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DE LOS SUJETOS
 
 ###### ARTÍCULO 35.
 
-Son sujetos del pago de este impuesto las personas físicas, las personas morales o unidades económicas que dentro del territorio del Estado extraigan del suelo y subsuelo materiales que constituyan depósitos de igual o semejante naturaleza a los componentes del terreno, tales como: agregados pétreos, andesita, arcillas, arena, caliza, cantera, caolín, grava, riolita, rocas, piedras y sustrato o capa fértil.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DE LA BASE
 
 ###### ARTÍCULO 36.
 
-La base para el cálculo de este impuesto será el volumen de metros cúbicos de material extraído en términos del artículo anterior.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DE LAS CUOTAS
 
 ###### ARTÍCULO 37.
 
-El impuesto a que se refiere este capítulo se causará por cada metro cúbico que se extraiga de los materiales objeto de la contribución con base en el tipo de material extraído y las cuotas siguientes:
-
-MATERIAL CUOTA
-
-Agregados Pétreos 23.00
-
-Andesita 35.00
-
-Arcillas 14.00
-
-Arena 17.00
-
-Caliza 15.00
-
-Cantera 18.00
-
-Caolín 455.00
-
-Grava 10.00
-
-Riolita 24.00
-
-Rocas 399.00
-
-Piedras y sustrato o capa fértil 10.00
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DEL PAGO
 
 ###### ARTÍCULO 38.
 
-Los contribuyentes sujetos de este impuesto, efectuarán sus pagos, a más tardar el día 17 del mes siguiente a que realicen u ocurran las actividades a que se refiere el artículo 34 de esta Ley, mediante declaración que presentarán en las formas y medios autorizados por la Secretaría de Finanzas y Administración, según lo dispuesto en el Código Fiscal del Estado de Michoacán.
-
-Los contribuyentes deberán proporcionar la información que se les solicite en las formas que al efecto apruebe la Secretaría.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DE LAS OBLIGACIONES
 
 ###### ARTÍCULO 39.
 
-Son obligaciones de los contribuyentes de este impuesto, además de las establecidas en el Código, las siguientes:
-
-I. Las personas físicas y morales o unidades económicas que para efecto de impuestos federales tengan su domicilio fiscal en otras entidades, pero que realicen las actividades a que se refiere este capítulo, deberán registrar como domicilio fiscal estatal, el lugar en donde se originen sus actos;
-
-II. Presentar las declaraciones del impuesto y enterar y pagar el impuesto correspondiente en la forma y los términos previstos en esta sección;
-
-III. Registrarse o empadronarse en la oficina recaudadora que corresponda al lugar de la ubicación de los terrenos explotados;
-
-IV. Llevar un libro de registros de extracción en el que se hará constar diariamente la cantidad en metros cúbicos de material que se extraiga del suelo y subsuelo;
-
-V. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto;
-
-VI. Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto, así como del resto de las obligaciones a su cargo en términos del presente Capítulo; y,
-
-VII. Las demás que señale la ley y los ordenamientos fiscales aplicables.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 #### SECCIÓN I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 40.
 
-Son objeto de este impuesto las emisiones a la atmósfera de determinadas sustancias generadas en los procesos productivos que se desarrollen en el Estado y que afecten el territorio del mismo.
-
-Para los efectos de este impuesto se considera emisión a la atmósfera, la expulsión directa o indirecta de bióxido de carbono, metano, óxido nitroso, hidrofluoro-carbonos, perfluoro-carbonos y hexafluoruro de azufre, ya sea unitariamente o de cualquier combinación de ellos que afecten la calidad del aire, los componentes de la atmósfera y que constituyen gases de efecto invernadero que impactan en deterioro ambiental por provocar calentamiento global.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DE LOS SUJETOS
 
 ###### ARTÍCULO 41.
 
-Son sujetos y están obligados al pago de este impuesto, las personas físicas, las personas morales y las unidades económicas residentes en el Estado o los residentes fuera del Estado, que tengan instalaciones o fuentes fijas en las que se desarrollen las actividades que determinan las emisiones a la atmósfera gravadas por este impuesto en el territorio del Estado.
-
-También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los Municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, por el Estado y por los Municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DE LA BASE
 
 ###### ARTÍCULO 42.
 
-Es base de este impuesto la cuantía de carga contaminante de las emisiones gravadas que se realicen desde la o las instalaciones o fuentes fijas expresadas en toneladas.
-
-Para la determinación de la base gravable, el contribuyente la realizará mediante medición o estimación directa de las emisiones que genere y, en su caso, se tomará como referencia el último Registro de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como de los reportes de emisiones del Registro Estatal de Emisiones a cargo de la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial.
-
-Para la determinación de las toneladas emitidas, el contribuyente realizará la conversión de los gases de Bióxido de Carbono (CO2), multiplicando la tonelada del tipo de gas emitido por el factor relacionado conforme a la tabla siguiente:
-
-CLASES EFECTO COMPOSICIÓN MOLECULAR EQUIVALENCIA CO2
-
-INVERNADERO
-
-Bióxido de carbono CO2 1
-
-Metano CH4 23
-
-Óxido nitroso N20 296
-
-Hidrofluoro-carbones HFC-23 12,000
-
-HFC-125 3,400
-
-HFC-134a 1,300
-
-HFC-152a 120
-
-HFC-227ea 3,500
-
-HFC-236fa 9,400
-
-HFC-4310mee 1,500
-
-Perfluoro-carbonos CF4 5,700
-
-C2F6 11,900
-
-C4F10 8,600
-
-C6F14 9,000
-
-Hexafluoro de azufre SF6 22,200
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DE LA CUOTA
 
-> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
-
 ###### ARTÍCULO 43.
 
-El impuesto se causará en el momento que los contribuyentes realicen emisiones a la atmósfera, gravadas por este impuesto que afecten el territorio del Estado, aplicando una cuota impositiva por el equivalente a $ 25.00 por tonelada emitida de bióxido de carbono o la conversión del mismo, establecida en el artículo anterior.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DEL PAGO
 
 ###### ARTÍCULO 44.
 
-A cuenta de este impuesto se harán pagos provisionales mensuales, que se presentarán a más tardar el día 17 del mes siguiente que corresponda al mismo, mediante los formularios que para esos efectos apruebe y publique la Secretaría de Finanzas y Administración.
-
-Asimismo, se deberá presentar una declaración anual por este impuesto a más tardar el último día hábil del mes de marzo del siguiente año del ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales mensuales efectivamente pagados de este impuesto del ejercicio que corresponda.
-
-Lo anterior se establece, sin perjuicio de las multas, responsabilidades o sanciones que establezcan las disposiciones jurídicas aplicables en materia de equilibrio ecológico y protección al ambiente, u otras responsabilidades penales, civiles o administrativas y demás disposiciones que resulten aplicables por el riesgo de pérdida de vida humana, así mismo por deterioro que causa a la salud pública y el daño al ambiente.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DE LAS OBLIGACIONES
 
 ###### ARTÍCULO 45.
 
-Los contribuyentes estarán obligados a presentar aviso de inscripción ante la Secretaría de Administración y Finanzas y llevar un Libro de Registro de Emisiones Contaminantes, que estará a disposición de la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial, para efectos de la gestión del mismo y como medio de control, vigilancia y seguimiento del cumplimiento de la normativa medioambiental.
-
-En el Libro de Registro de Emisiones Contaminantes se consignarán los datos siguientes:
-
-I. Volumen y tipología del combustible, así como materias primas consumidas y/o producidas;
-
-II. Composición química básica del combustible consumido y/o producido;
-
-III. Cálculo de las emisiones a la atmósfera realizado en cumplimiento de lo dispuesto en la presente Ley;
-
-IV. En su caso, datos de concentración resultantes de los monitores o mecanismos de control o de medición instalados; y,
-
-V. Cualquier otro que se establezca mediante publicación reglamentaria por parte de la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 #### SECCIÓN II
 
@@ -613,233 +503,91 @@ DEL IMPUESTO CEDULAR POR LA PRESTACIÓN DE SERVICIOS PROFESIONALES.
 
 ###### ARTÍCULO 46.
 
-Es objeto de este impuesto la emisión de sustancias contaminantes, que se depositen, desechen o descarguen al suelo, subsuelo o agua en el territorio del Estado.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DEL SUJETO
 
 ###### ARTÍCULO 47.
 
-Son sujetos de este impuesto las personas físicas, las personas morales, así como las unidades económicas que en el territorio del Estado, independientemente del domicilio fiscal del contribuyente, bajo cualquier título, por sí mismas o a través de intermediarios, realicen los actos o actividades establecidas en el artículo anterior.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DE LA BASE GRAVABLE
 
 ###### ARTÍCULO 48.
 
-Es base de este impuesto la cantidad en metros cuadrados de terreno o metros cúbicos de agua afectados, según corresponda, con sustancias contaminantes que se emitan o se viertan desde la o las instalaciones o fuentes fijas, expresadas en:
-
-I. Para suelo y subsuelo, en la cantidad de miligramos por kilogramo, base seca, obtenidos de muestras que se realicen conforme a las Normas Oficiales Mexicanas en cada cien metros cuadrados de terreno, de acuerdo con lo siguiente:
-
-a) Suelos contaminados por hidrocarburos:
-
-Las muestras para determinar la cantidad de miligramos por kilogramo, base seca, por cada cien metros cuadrados de terreno, se obtendrán conforme a la Norma Oficial Mexicana NOM-138-SEMARNAT/SSA1-2012: "Límites máximos permisibles de hidrocarburos en suelos y lineamientos para el muestreo en la caracterización y especificaciones para la remediación".
-
-Contaminante Cantidad de miligramos por kilogramo,
-
-base seca, por cada cien metros
-
-cuadrados de terreno.
-
-Benceno 6
-
-Tolueno 40
-
-Etilbenceno 10
-
-Xilenos (suma de
-
-isómeros) 40
-
-Benzo[a]pireno 2
-
-Dibenzo[a,h]antraceno 2
-
-Benzo[a]antraceno 2
-
-Benzo[b]fluoranteno 2
-
-Benzo[k]fluoranteno 8
-
-Indeno (1 ,2,3-cd)pireno 2
-
-b) Suelos contaminados por: arsénico, bario, berilio, cadmio, cromo hexavalente, mercurio, níquel, plata, plomo, selenio, talio y vanadio.
-
-Las muestras para determinar la cantidad de miligramos por kilogramo, base seca, por cada cien metros cuadrados de terreno, se obtendrán conforme a la Norma Oficial Mexicana NOM-147-SEMARNAT/SSA1-2004: "Que establece criterios para determinar las concentraciones de remediación de suelos contaminados por arsénico, bario, berilio, cadmio, cromo hexavalente, mercurio, níquel, plata, plomo, selenio, talio y vanadio".
-
-Contaminante Cantidad de miligramos por
-
-kilogramo, base seca, por
-
-cada cien metros cuadrados
-
-de terreno
-
-Arsénico 22
-
-Bario 5400
-
-Berilio 150
-
-Cadmio 37
-
-Cromo Hexavalente 280
-
-Mercurio 23
-
-Níquel 1600
-
-Plata 390
-
-Plomo 400
-
-Selenio 390
-
-Talio 5.2
-
-Vanadio 78
-
-II. Para agua en miligramos en litros, que se presenten por cada metro cúbico, con base en lo siguiente:
-
-Las muestras para determinar la cantidad de miligramos por litro por cada metro cubico de agua, se obtendrán conforme a la Norma Oficial Mexicana NOM-001-SEMARNAT-1996: "Que establece los límites máximos permisibles de contaminantes en las descargas residuales en aguas y bienes nacionales"
-
-a) Contaminantes en aguas residuales básicos:
-
-Contaminante Cantidad de miligramos por litro, por metro cúbico
-
-Grasas y Aceites 25
-
-Sólidos Suspendidos Totales 60
-
-Demanda Bioquímica de Oxígeno 5 60
-
-Nitrógeno Total 25
-
-Fósforo Total 10
-
-b) Contaminantes en aguas residuales, ocasionado por metales pesados y cianuros:
-
-Contaminante Cantidad de miligramos por litro, por metro cúbico
-
-Arsénico 0.1
-
-Cadmio 0.1
-
-Cianuro 1
-
-Cobre 4
-
-Cromo 0.5
-
-Mercurio 0.005
-
-Níquel 2
-
-Plomo 0.2
-
-Zinc 10
-
-Para efectos de esta Sección, se entenderá que los valores presentados en este artículo representan una unidad de contaminantes en metros cuadrados de terreno o metros cúbicos de agua afectados según corresponda.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DE LA CUOTA
 
 ###### ARTÍCULO 49.
 
-El impuesto se causará aplicando los equivalentes y cuotas siguientes:
-
-I. Suelo y subsuelo: una cuota impositiva por el equivalente a $ 25.00 por cada cien metros cuadrados afectados con las sustancias contaminantes señaladas en el artículo 48 fracción I de esta Ley; y,
-
-II. Agua: Contaminantes en aguas residuales básicos y en aguas residuales, ocasionado por metales pesados y cianuros, una cuota impositiva por el equivalente a $ 100.00 por cada metro cúbico afectado con las sustancias contaminantes señaladas en el artículo 48 fracción II de esta Ley.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 ###### ARTÍCULO 50.
 
-Si el suelo, subsuelo o agua fueron contaminados con dos o más sustancias de las mencionadas en este artículo la cuota se pagará por cada contaminante.
-
-Asimismo por los excedentes en contaminantes en miligramos por kilogramo, base seca, que se presente por cada cien metros, se deberá aplicar una cuota de $ 25.00 por cada unidad de medida entera o fracción adicional de contaminantes.
-
-Asimismo por los excedentes en contaminantes en miligramos en litro que se presenten por metro cúbico, se deberá aplicar una cuota de $ 100.00 por cada unidad de medida entera o fracción adicional de contaminantes.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DEL PAGO
 
 ###### ARTÍCULO 51.
 
-El pago de este impuesto deberá efectuarse mediante declaración mensual, dentro de los primeros diecisiete días naturales del mes siguiente al que corresponda dicha declaración, en cualquier oficina recaudadora de rentas de la Secretaría o en la forma y términos que se establezcan en el Código, utilizando las formas aprobadas para tal efecto.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DE LAS OBLIGACIONES
 
 ###### ARTÍCULO 52.
 
-Los contribuyentes sujetos al pago del Impuesto por la Emisión de Contaminantes al Suelo, Subsuelo y Agua a que se refiere esta Sección, deberán cumplir con las siguientes obligaciones:
-
-I. Presentar aviso de inscripción ante la Secretaría de Finanzas y Administración;
-
-II. Llevar un registro específico de las sustancias contaminantes mencionadas en esta Sección, que sean adquiridas y utilizadas en los procesos de producción, su uso y destino, así como las cantidades que en estado físico sólido, semisólido o líquido se emitieron al suelo, subsuelo o agua; y,
-
-III. Realizar las pruebas mensuales de muestreo previstas en las Normas Oficiales Mexicanas establecidas en el artículo 48 de esta Ley.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 ###### ARTÍCULO 53.
 
-Para determinar la base gravable las autoridades fiscales podrán considerar:
-
-I. Los libros y registros sea cual fuera su denominación, que los sujetos obligados al pago del impuesto deban llevar conforme a las disposiciones legales sean de carácter fiscal, mercantil o para dar cumplimiento a las Normas Oficiales Mexicanas en materia de ecología y medio ambiente; y,
-
-II. Cuando no sea posible determinar la base gravable en los términos de la fracción anterior, las autoridades fiscales podrán estimar el Impuesto por la Emisión de Contaminantes al Suelo, Subsuelo y Agua, a partir de las Manifestaciones de Impacto Ambiental, Cédulas de Operación Anual y demás documentos de carácter ambiental que los contribuyentes se encuentren obligados a presentar ante la Secretaría del Medio Ambiente y Recursos Naturales, así como ante la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial, correspondiente al último ejercicio fiscal que se hubieran presentado.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 #### SECCIÓN III. DEL IMPUESTO CEDULAR POR EL OTORGAMIENTO DEL USO O GOCE TEMPORAL DE BIENES INMUEBLES
 
 ###### ARTÍCULO 54.
 
-Es objeto de este impuesto el depósito o almacenamiento de residuos en vertederos públicos o privados, situados en el Estado.
-
-Para efectos de esta Sección se considera residuo cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DE LOS SUJETOS
 
 ###### ARTÍCULO 55.
 
-Son sujetos de este impuesto las personas físicas y morales, así como las unidades económicas sean o no residentes en el Estado, generadoras del residuo y que por sí mismas o a través de intermediarios depositen o almacenen residuos en vertederos públicos o privados.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DE LA BASE
 
 ###### ARTÍCULO 56.
 
-Es base gravable para este impuesto la cantidad en tonelada de residuos depositados o almacenados en vertederos públicos o privados, situados en el Estado que sean generados durante un mes de calendario o fracción del mismo.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DE LA CUOTA
 
 ###### ARTÍCULO 57.
 
-El impuesto al depósito o almacenamiento de residuos en vertederos públicos o privados se causará aplicando una cuota de $ 100.00 por tonelada de residuos depositados o almacenados en vertederos públicos o privados.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DEL PAGO
 
 ###### ARTÍCULO 58.
 
-El impuesto determinado deberá ser enterado mensualmente por las personas físicas y morales, así como las unidades económicas dentro de los primeros diecisiete días del mes siguiente a su vencimiento.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 DE LAS OBLIGACIONES
 
 ###### ARTÍCULO 59.
 
-Los contribuyentes sujetos al pago del Impuesto originado por el depósito o almacenamiento de residuos en vertederos públicos o privados a que se refiere esta Sección, deberán cumplir con las siguientes obligaciones:
-
-I. Presentar aviso de inscripción ante la Secretaría de Finanzas y Administración; y,
-
-II. Llevar un registro específico de los residuos en el que se identifique la cantidad en toneladas y el lugar de depósito o almacenamiento, así como el señalamiento de si fue depositado o almacenado en un vertedero público o privado y su ubicación.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 ###### ARTÍCULO 60.
 
-Para determinar la base gravable las autoridades fiscales podrán considerar:
-
-I. Los libros y registro sea cual fuera su denominación, que los sujetos obligados al pago del impuesto deban llevar conforme a las disposiciones legales sean de carácter fiscal, mercantil o para dar cumplimiento a las normas en materia de ecología y medio ambiente; y,
-
-II. Cuando no sea posible determinar la base gravable en los términos de la fracción anterior las autoridades fiscales podrán estimar la cantidad de los residuos depositados o almacenados las cantidades de los mismos conforme a la información que se obtenga de otras autoridades, terceros, estudios científicos o tecnológicos, considerando el tipo de actividades realizadas por el contribuyente y la producción o venta del periodo en el que se causó la contribución.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 #### SECCIÓN IV. DEL IMPUESTO CEDULAR POR ACTIVIDADES EMPRESARIALES
 
 ###### ARTÍCULO 61.
 
-Para efectos de lo establecido en las Secciones III, IV y V de este Capítulo, cuando exista una disminución de los contaminantes objeto de los impuestos y esta sea equivalente a un 20 por ciento o más entre un año fiscal y otro, se efectuará una reducción en un 20 por ciento del impuesto que le corresponda pagar en el ejercicio inmediato siguiente en el que se observe la disminución.
-
-Para la procedencia del estímulo, los contribuyentes deberán acreditar ante la Secretaría, las reducciones efectivas a través de la documentación que contable y jurídicamente sea procedente.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -3208,3 +2956,11 @@ P.O. 12 DE FEBRERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 122.- ARTÍCULO PRIMERO.- SE DEROGAN LOS ARTÍCULOS 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91 Y 92, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE DEROGAN LOS ARTÍCULOS 15, 16, 17 Y 18 DE LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2019.- ARTÍCULO TERCERO.- QUEDAN SIN EFECTOS LAS REFERENCIAS RESPECTO A LOS IMPUESTOS QUE SE REFIERE EN EL ARTÍCULO PRIMERO DE LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2019”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, con efectos retroactivos al 01 de enero de 2019 para todos los efectos legales a que haya lugar.
+
+P.O. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 131.- ARTÍCULO PRIMERO.- SE DEROGAN LOS ARTÍCULOS 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60 Y 61, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE DEROGAN LOS ARTÍCULOS 11, 12, 13 Y 14 DE LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2019”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos correspondientes.
