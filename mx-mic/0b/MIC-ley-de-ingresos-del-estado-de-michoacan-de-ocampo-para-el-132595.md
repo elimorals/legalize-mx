@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-13259
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-31"
-last_updated: "2019-02-12"
+last_updated: "2019-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO LEGISLATIVO NÚMERO 
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2019
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019.
 
 Ley publicada en la Décima Cuarta Sección del Periódico Oficial del Estado, el lunes 31 de diciembre de 2018.
 
@@ -119,71 +119,41 @@ El Impuesto Sobre Servicios de Hospedaje, se causará, liquidará y pagará conf
 
 El Impuesto sobre Erogaciones por Remuneración al Trabajo Personal, Prestado Bajo la Dirección y Dependencia de un Patrón, se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo IV de la Ley de Hacienda del Estado de Michoacán de Ocampo, aplicando la tasa del 3% sobre la base que en el mencionado Título y Capítulo se prevé.
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2019)</small>
+
 ### CAPÍTULO IV. DE LOS IMPUESTOS ECOLÓGICOS
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE JUNIO DE 2019)</small>
 
 #### SECCIÓN I. DEL IMPUESTO POR REMEDIACIÓN AMBIENTAL EN LA EXTRACCIÓN DE MATERIALES
 
-###### Artículo 11.
+###### ARTÍCULO 11.
 
-El impuesto por Remediación Ambiental en la Extracción de Materiales se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo V, Sección II de la Ley de Hacienda del Estado de Michoacán de Ocampo, aplicando la cuota que por cada metro cúbico que se extraiga de los materiales objeto de la contribución con base en el tipo de material extraído conforme a lo siguiente:
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
-MATERIAL CUOTA
-
-Agregados Pétreos 23.00
-
-Andesita 35.00
-
-Arcillas 14.00
-
-Arena 17.00
-
-Caliza 15.00
-
-Cantera 18.00
-
-Caolín 455.00
-
-Grava 10.00
-
-Riolita 24.00
-
-Rocas 399.00
-
-Piedras y sustrato o capa fértil 10.00
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE JUNIO DE 2019)</small>
 
 #### SECCIÓN II. DEL IMPUESTO POR LA EMISIÓN DE GASES A LA ATMÓSFERA
 
-> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
+###### ARTÍCULO 12.
 
-###### Artículo 12.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
-El impuesto por la Emisión de Gases a la Atmósfera se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo V, Sección III de la Ley de Hacienda del Estado de Michoacán de Ocampo, aplicando el equivalente a $25.00 por tonelada emitida de bióxido de carbono o la conversión que en el mencionado Título, Capítulo y Sección se prevé.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE JUNIO DE 2019)</small>
 
 #### SECCIÓN III. DEL IMPUESTO A LA EMISIÓN DE CONTAMINANTES AL SUELO, SUBSUELO Y AGUA
 
-> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
+###### ARTÍCULO 13.
 
-###### Artículo 13.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
-El impuesto a la Emisión de Contaminantes al Suelo, Subsuelo y Agua, se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo V, Sección IV de la Ley de Hacienda del Estado de Michoacán de Ocampo con base en las siguientes cuotas:
-
-I. Suelo y subsuelo: una cuota impositiva por el equivalente a $25.00 por cada cien metros cuadrados afectados con las sustancias contaminantes señaladas en el artículo 48, fracción I de la referida Ley de Hacienda; y,
-
-II. Agua: Contaminantes en aguas residuales básicos y en aguas residuales, ocasionado por metales pesados y cianuros, una cuota impositiva por el equivalente a $100.00 por cada metro cúbico afectado con las sustancias contaminantes señaladas en el artículo 48, fracción II de la multicitada Ley de Hacienda.
-
-Si el suelo, subsuelo o agua fueron contaminados con dos o más sustancias de las mencionadas en referido artículo 48, la cuota se pagará por cada contaminante.
-
-Asimismo por los excedentes en contaminantes en miligramos por kilogramo, base seca, que se presente por cada cien metros, se deberá aplicar una cuota de $25.00 por cada unidad de medida entera o fracción adicional de contaminantes.
-
-Asimismo por los excedentes en contaminantes en miligramos en litro que se presenten por metro cúbico, se deberá aplicar una cuota de $100.00 por cada unidad de medida entera o fracción adicional de contaminantes.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE JUNIO DE 2019)</small>
 
 #### SECCIÓN IV. IMPUESTO AL DEPÓSITO O ALMACENAMIENTO DE RESIDUOS
 
-> <small>(F. DE E., P.O. 30 DE ENERO DE 2019)</small>
+###### ARTÍCULO 14.
 
-###### Artículo 14.
-
-El impuesto al Depósito o Almacenamiento de Residuos, se causará, liquidará y pagará conforme a lo establecido en el Título Segundo, Capítulo V, Sección V de la Ley de Hacienda del Estado de Michoacán de Ocampo, aplicando una cuota de $100.00 por tonelada de residuos depositados o almacenados en vertederos públicos o privados.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -3478,3 +3448,11 @@ P.O. 12 DE FEBRERO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 122 POR EL QUE “SE DEROGAN LOS ARTÍCULOS 15, 16, 17 Y 18 DE LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2019, ASÍ COMO SUS RESPECTIVOS CAPÍTULOS Y SECCIONES EN MATERIA DE IMPUESTOS CEDULARES Y, SOBRE NEGOCIOS JURÍDICOS E INSTRUMENTOS NOTARIALES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, con efectos retroactivos al 01 de enero de 2019 para todos los efectos legales a que haya lugar.
+
+P.O. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 131 POR EL QUE “SE DEROGAN LOS ARTÍCULOS 11, 12, 13 Y 14 DE LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2019, ASÍ COMO SUS RESPECTIVOS CAPÍTULOS Y SECCIONES EN MATERIA DE IMPUESTOS ECOLÓGICOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos correspondientes.
