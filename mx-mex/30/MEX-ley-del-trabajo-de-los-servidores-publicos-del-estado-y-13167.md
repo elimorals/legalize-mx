@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2018-09-19"
+last_updated: "2019-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JUNIO DE 2019.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -595,13 +595,17 @@ Las servidoras públicas embarazadas disfrutarán para el parto, de licencia con
 
 En caso de adopción las servidoras públicas gozarán de una licencia con goce de sueldo íntegro, por un período de 45 días naturales, contados a partir de que se otorgue legalmente la adopción.
 
-Los servidores públicos, disfrutarán de una licencia con goce de sueldo íntegro de 5 días hábiles con motivo del nacimiento de su hijo o de adopción.
+> <small>(REFORMADO, G.G. 12 DE JUNIO DE 2019)</small>
 
-A los servidores públicos se les otorgará una licencia con goce de sueldo íntegro, por causa de enfermedad o accidente graves de alguno de sus hijos, cónyuge o concubina o concubinario, previa expedición del certificado médico por parte del Instituto de Seguridad Social del Estado de México y Municipios, el cual determinará los días de licencia. En caso de que ambos padres sean servidores públicos, sólo se concederá la licencia a uno de ellos.
+Los servidores públicos, disfrutarán de una licencia con goce de sueldo íntegro de diez días hábiles con motivo del nacimiento de su hijo o de adopción.
 
-> <small>(ADICIONADO, G.G. 3 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, G.G. 12 DE JUNIO DE 2019)</small>
 
-Asimismo, se otorgará a las y a los servidores públicos una licencia de tres días hábiles laborales con goce de sueldo íntegro, por el fallecimiento de su cónyuge, concubina o concubinario, de un familiar con quien haya tenido parentesco por consanguinidad en primero o segundo grado o por afinidad en primer grado.
+A los servidores públicos se les otorgará una licencia con goce de sueldo íntegro, por causa de enfermedad o accidentes graves de alguno de sus hijos, cónyuge o concubina o concubinario, previa expedición del certificado médico por parte del Instituto de Seguridad Social del Estado de México y Municipios, el cual determinará los días de licencia. En caso de que ambos padres sean servidores públicos, sólo se concederá la licencia a uno de ellos. En los casos en que se presenten complicaciones de salud de la madre durante el parto y/o post parto o en la del recién nacido, que pongan en riesgo la vida de ambos o de cualquiera de ellos, o sufran alguna discapacidad parcial o total dentro de los noventa días inmediatos siguientes al nacimiento, en referidas circunstancias, el servidor dispondrá de una licencia de paternidad para cuidado y atenciones médicas por un periodo de treinta días con goce de sueldo, previa expedición del certificado médico correspondiente.
+
+> <small>(REFORMADO, G.G. 12 DE JUNIO DE 2019)</small>
+
+Asimismo, se otorgará a las y a los servidores públicos una licencia de tres días hábiles laborales con goce de sueldo íntegro, por el fallecimiento de su cónyuge, concubina o concubinario, de un familiar con quien haya tenido parentesco por consanguinidad en primero o segundo grado o por afinidad en primer grado. Si el fallecimiento de la cónyuge o concubina tuviere lugar dentro de los noventa días naturales siguientes al parto y la o el menor sobreviviere, el servidor público contara con una licencia de cuarenta y cinco días hábiles con goce de sueldo para brindar la atención inmediata y necesaria al recién nacido, si durante el lapso citado, fallece el menor, la licencia será de diez días, hábiles a partir del deceso.
 
 > <small>(ADICIONADO, G.G. 3 DE AGOSTO DE 2016)</small>
 
@@ -3526,3 +3530,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Los procedimientos laborales iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
+
+G.G. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 58.- POR EL QUE SE REFORMA LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se instruye a la Dirección General de Comunicación Social para que dé a conocer esta Iniciativa a la ciudadania mediante los mecanismos correspondientes a fin de cumplir con el principio de máxima publicidad y el derecho de acceso a la información pública.
