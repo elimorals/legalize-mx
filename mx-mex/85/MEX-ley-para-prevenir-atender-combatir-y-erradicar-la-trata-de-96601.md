@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-prevenir-atender-combatir-y-erradicar-la-trata-de-9660
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-13"
-last_updated: "2015-08-17"
+last_updated: "2019-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 17 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 12 DE JUNIO DE 2019.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 13 de noviembre de 2013.
 
@@ -649,9 +649,11 @@ El Fondo Estatal será administrado en los términos que dispongan sus lineamien
 
 ### Capítulo Único. De la Participación Ciudadana
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE JUNIO DE 2019)</small>
+
 ###### Artículo 38.
 
-Las organizaciones y asociaciones civiles estatales, nacionales e internacionales, podrán participar en la planeación de políticas, programas y acciones tendientes a:
+Las organizaciones y asociaciones civiles estatales, nacionales e internacionales, que acrediten, que su objeto y desempeño se encuentra apegado a estándares y protocolos internacionales en la materia, podrán participar en la planeación y coadyuvar en la ejecución, evaluación y seguimiento de políticas, programas y acciones tendientes a:
 
 I. Prevenir y combatir la trata de personas.
 
@@ -662,6 +664,10 @@ III. Detectar las conductas, así como las posibles víctimas u ofendidos y de l
 IV. Difundir, informar, sensibilizar y defender los derechos de las víctimas, ofendidos y testigos de la trata de personas.
 
 V. Cualquier otra dirigida al cumplimiento del objeto de esta Ley.
+
+> <small>(ADICIONADO, G.G. 12 DE JUNIO DE 2019)</small>
+
+El desempeño de las citadas organizaciones y asociaciones quedará bajo la coordinación, supervisión, evaluación y fiscalización del Órgano Rector para Prevenir, Atender, Combatir y Erradicar la Trata de Personas y para la Protección y Asistencia de las Víctimas.
 
 ## Título Sexto. Del Órgano Rector para Prevenir, Atender, Combatir y Erradicar la Trata de Personas y para la Protección y Asistencia de las Víctimas
 
@@ -1022,3 +1028,11 @@ DÉCIMO TERCERO. Los recursos del Fondo de Ayuda, Asistencia y Reparación Integ
 DÉCIMO CUARTO. Los recursos de cualquier fondo de carácter estatal cuyo objeto sea la atención de las víctimas del delito, se transferirán al Fondo Estatal de Ayuda, Asistencia y Reparación Integral para la Protección a las Víctimas y Ofendidos del Delito previsto en la presente Ley.
 
 DÉCIMO QUINTO. Se derogan las disposiciones legales y administrativas que se opongan a lo dispuesto en el presente Decreto.
+
+G.G. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 38.- POR EL QUE SE REFORMA LA LEY PARA PREVENIR, ATENDER Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
