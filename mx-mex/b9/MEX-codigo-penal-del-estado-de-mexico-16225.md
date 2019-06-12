@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2018-09-20"
+last_updated: "2019-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,57 +21,79 @@ state: "MEX"
 ---
 # CODIGO PENAL DEL ESTADO DE MEXICO
 
-REGLAMENTO DE DEBATES DE LA SALA SUPERIOR
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-TEXTO ORIGINAL.
+CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de julio de 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JUNIO DE 2019.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Tribunal Federal de Justicia Fiscal y Administrativa.- Pleno de la Sala Superior.
+Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
-ACUERDO G/19/2009
+ARTURO MONTIEL ROJAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-ACUERDO RELATIVO AL REGLAMENTO DE DEBATES DE LA SALA SUPERIOR.
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
-Con fundamento en lo dispuesto por el artículo 18, fracción VIII, de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa, la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa expide el siguiente Reglamento:
+DECRETO 165
 
-REGLAMENTO DE DEBATES DE LA SALA SUPERIOR
+LA H. "LIII" LEGISLATURA DEL ESTADO DE MEXICO
+
+DECRETA:
+
+CODIGO PENAL DEL ESTADO DE MEXICO
 
 # LIBRO PRIMERO
 
 ## TITULO PRIMERO. APLICACION DE LA LEY PENAL
 
-### Capítulo I. Disposiciones Generales
+### CAPITULO I. VALIDEZ ESPACIAL
 
 ###### Artículo 1.
 
-El presente reglamento tiene por objeto establecer las normas que regularán las sesiones de la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa, ya sea funcionando en Pleno o en Secciones.
+Este código se aplicará en el Estado de México, en los casos que sean de la competencia de sus tribunales:
 
-### Capítulo II. De las Sesiones
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
+I. Por los delitos cuya ejecución se inicie o consume en el territorio del estado;
+
+II. Por los delitos cuya ejecución se inicie fuera del territorio del estado, si se consuman dentro del mismo; y
+
+III. Por los delitos permanentes o continuados, cuando un momento o acto cualquiera de ejecución, se realice dentro del territorio del estado.
+
+En los casos comprendidos en las fracciones II y III de este artículo, se aplicará este código cuando el inculpado se encuentre en el territorio del mismo o no se haya ejercitado en su contra acción penal en otra entidad federativa, cuyos tribunales sean competentes, por disposiciones análogas a las de este código, para conocer del delito.
+
+### CAPITULO II. VALIDEZ TEMPORAL
 
 ###### Artículo 2.
 
-Las disposiciones del presente ordenamiento se aplicarán a los Magistrados de la Sala Superior, al Secretario General de Acuerdos, a los Secretarios Adjuntos de Acuerdos, a los Servidores Públicos del Tribunal y demás personas que asistan a las sesiones, según corresponda.
+La ley penal aplicable es la vigente en el tiempo de realización del delito.
 
-### Capítulo III. Atribuciones y Obligaciones del Magistrado Presidente de la Sesión
+Si después de cometido el delito y antes de que cause ejecutoria la sentencia que deba pronunciarse, entraran en vigor una o más leyes que disminuyan la pena o la substituyan por otra que sea menos grave, se aplicará la nueva ley y, en su caso, el órgano jurisdiccional concederá los substitutivos penales que legalmente procedieren.
+
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+
+Si pronunciada la sentencia ejecutoria se dictare una ley que dejando subsistente la pena señalada para el delito, disminuya su duración o cambie su naturaleza, se individualizará conforme a la nueva ley.
+
+Sin embargo, la ley abrogada deberá continuar aplicándose por los hechos ejecutados durante su vigencia, a menos que la nueva ley sea más favorable.
+
+### CAPITULO III. VALIDEZ PERSONAL
+
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 3.
 
-En el ejercicio de su función, los Magistrados de Sala Superior gozarán del más amplio derecho para pronunciarse con toda libertad sobre los asuntos que se sometan a su consideración.
+Este Código se aplicará a nacionales o extranjeros que hayan cumplido 18 años de edad. Respecto de los segundos, se estará a lo pactado en los tratados internacionales. Los que tengan entre 12 años cumplidos y menos de 18 años de edad quedan sujetos a la legislación especializada.
 
-El ejercicio de este derecho, no tendrá más límites que los que impongan el respeto a los pares, la mesura, la prudencia, la honorabilidad y la eficacia en el trabajo del Pleno y las Secciones que regula el presente reglamento.
+### CAPITULO IV. LEYES ESPECIALES Y CONCURSO APARENTE DE NORMAS
 
-### Capítulo IV. Disposiciones Complementarias
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 4.
 
-Las sesiones del Pleno o de las Secciones de la Sala Superior serán públicas o privadas, así como ordinarias o extraordinarias. Asimismo, habrá una sesión pública solemne para rendir el informe anual de labores a que se refiere el artículo 30, fracción XIV, de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
+Cuando se comete un delito previsto en una ley general o local especial, se aplicarán éstas y, en lo conducente, las disposiciones del presente Código.
 
 ###### Artículo 5.
 
-Las sesiones se realizarán en el domicilio oficial, ubicado en la sede de la Sala Superior o de las Secciones, serán presididas por el Presidente del Tribunal o los Presidentes de las Secciones, con la intervención de los Magistrados que corresponda y con la participación del Secretario General de Acuerdos o los Secretarios Adjuntos de Acuerdos, según el caso, quienes darán fe de lo actuado.
-
-Verificado el quórum legal por el Secretario General de Acuerdos o los Secretarios Adjuntos de Acuerdos, el Presidente del Tribunal o los Presidentes de las Secciones declararán el inicio de la sesión conforme al orden del día.
+Cuando una misma materia esté regulada por diversas disposiciones penales, la especial prevalecerá sobre la general, la de mayor entidad absorberá a la de menor entidad, la del hecho posterior de agotamiento cederá ante la del hecho anterior, y la subsidiaria se aplicará cuando no sea posible aplicar la principal.
 
 ## TITULO SEGUNDO. DELITO Y RESPONSABILIDAD
 
@@ -79,19 +101,45 @@ Verificado el quórum legal por el Secretario General de Acuerdos o los Secretar
 
 ###### Artículo 6.
 
-Las sesiones de la Sala Superior, se realizarán cuando así lo requiera el Presidente del Tribunal o el Presidente de la Sección, respectivamente.
-
-El Magistrado Presidente del Tribunal y los Magistrados Presidentes de las Secciones, según corresponda, podrán convocar en cualquier momento para realizar sesiones, cuando un asunto deba ser atendido de manera inmediata o cuando las cargas de trabajo así lo requieran.
+El delito es la conducta típica, antijurídica, culpable y punible.
 
 ###### Artículo 7.
 
-El horario de las sesiones del Pleno será de las once a las catorce horas, tratándose de sesiones públicas; y las privadas de las catorce a las quince horas. En ambos casos, el horario, orden de desahogo y tipo de sesión señalados podrán ser modificados según las circunstancias particulares que se presenten.
+Los delitos pueden ser realizados por acción y por omisión.
 
-Las sesiones de las Secciones serán de las doce a las catorce horas, con la distribución de públicas o privadas, según lo establezcan los integrantes de cada Sección.
+En los delitos de resultado material, también será atribuible el resultado típico producido al que omita impedirlo, si tenía el deber jurídico de evitarlo. En estos casos se estimará que el resultado es consecuencia de una conducta omisiva, cuando se acredite que el que omite impedirlo tenía el deber de actuar para ello, derivado de la ley, de un contrato o de su actuar precedente.
 
 ###### Artículo 8.
 
-Cuando en la sesión pública no se agote el orden del día, al terminar el horario programado para la misma, y así se considere conveniente, el Magistrado Presidente que corresponda, convocará a los integrantes del Pleno o de la Sección, para que dicha sesión continúe a partir de las diecisiete horas y hasta que se desahogue el total de los asuntos programados para ésta lo cual se hará del conocimiento del público asistente.
+Los delitos pueden ser:
+
+I. Dolosos;
+
+El delito es doloso cuando se obra conociendo los elementos del tipo penal o previendo como posible el resultado típico queriendo o aceptando la realización del hecho descrito por la ley.
+
+II. Culposos;
+
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+
+El delito es culposo cuando se produce un resultado típico que pudo preverse o proveerse para evitarlo, en virtud de la violación a un deber de cuidado, que debía o podía observarse según las circunstancias y condiciones personales.
+
+III. Instantáneos;
+
+Es instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos sus elementos constitutivos.
+
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+Lo será con unidad de evento, cuando la conducta sea ejecutada en varias acciones típicas sucesivas de naturaleza patrimonial, siempre que los ofendidos sean distintos y la forma en que se afecte el bien jurídico tutelado lo permita, se considerará que existe unidad de evento cuando la misma conducta típica sea ejecutada sobre diversos pasivos. La unidad de evento excluye el concurso de delitos.
+
+IV. Permanentes;
+
+Es permanente, cuando la consumación se prolonga en el tiempo.
+
+V. Continuados.
+
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+
+Es continuado, cuando existe unidad de propósito delictivo, pluralidad de conductas e identidad de ofendido y se viola el mismo precepto legal.
 
 ### CAPITULO II. LOS DELITOS GRAVES
 
@@ -99,7 +147,7 @@ Cuando en la sesión pública no se agote el orden del día, al terminar el hora
 
 ###### Artículo 9.
 
-Las sesiones extraordinarias podrán celebrarse en cualquier tiempo, mediante convocatoria del Presidente o de los Presidentes de las Secciones, conforme al orden del día que se deberá dar a conocer a los Magistrados.
+Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V, el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110, el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V y X y 137 fracción II; el de peculado, señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156, el de evasión a que se refiere el artículo 160, el delito de falsificación de documentos, previsto en el artículo 170 fracción II, el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174, el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo, el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177, el de delincuencia organizada; previsto en el artículo 178, los delitos en contra del desarrollo urbano, señalados en el primer y segundo párrafos del artículo 189, el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195, el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en el artículo 204 y 205, los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206, el de lenocinio, previsto en los artículos 209 y 209 bis, el tráfico de menores, contemplado en el artículo 219, el de cremación de cadáver señalado en el artículo 225, el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229, el deterioro de área natural protegida, previsto en el artículo 230, el de lesiones, que señala el artículo 238, fracción V, el de homicidio, contenido en el artículo 241, el de feminicidio, previsto en el artículo 242 bis, el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo, el de extorsión contenido en los párrafos tercero y cuarto del artículo 266; el asalto a una población a que se refiere el artículo 267, el de trata de personas, contemplado en el artículo 268 bis, el de abuso sexual, señalado en el artículo 270, el de violación, señalado por los artículos 273 y 274, el de robo, contenido en los artículos 290, fracción I en su primer y quinto párrafos, II, III, IV, V, XVI y XVII y 292, el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV, el de despojo, a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto, y el de daño en los bienes, señalado en el artículo 311 y; en su caso, su comisión en grado de tentativa como lo establece este código, 314 bis, segundo párrafo, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
 
 ### CAPITULO III. TENTATIVA DEL DELITO
 
@@ -107,7 +155,9 @@ Las sesiones extraordinarias podrán celebrarse en cualquier tiempo, mediante co
 
 ###### Artículo 10.
 
-En las sesiones públicas sólo podrán intervenir en los debates y participar los Magistrados, la Secretaria General de Acuerdos y los Secretarios Adjuntos de Acuerdos, pero podrán estar presentes las personas interesadas y público en general. A las sesiones privadas sólo podrán asistir los Magistrados, el Secretario General de Acuerdos o los Secretarios Adjuntos de Acuerdos, el Secretario Particular de la Presidencia, los asesores de la misma y el personal de apoyo que se requiera, así como cualquier otro servidor público del Tribunal cuya presencia sea necesaria.
+Es punible la tentativa del delito y ésta lo es cuando la intención se exterioriza ejecutando la actividad que debería consumar el delito u omitiendo la que debería evitarlo, si por causas ajenas a la voluntad del agente, no hay consumación pero si pone en peligro el bien jurídico.
+
+Si la ejecución del delito quedare interrumpida por desistimiento propio y espontáneo del inculpado, sólo se castigará a éste con la pena señalada a los actos ejecutados que constituyan por sí mismos delitos.
 
 ### CAPITULO IV. RESPONSABLES DE LOS DELITOS
 
@@ -115,9 +165,35 @@ En las sesiones públicas sólo podrán intervenir en los debates y participar l
 
 ###### Artículo 11.
 
-Las sesiones se efectuarán conforme al orden del día que formulen el Presidente del Pleno o los Presidentes de las Secciones, por conducto del Secretario General de Acuerdos o los Secretarios Adjuntos de Acuerdos. Tratándose de asuntos jurisdiccionales el orden se comunicará con cinco días hábiles de anticipación a los Magistrados, acompañándoles una copia de los proyectos de los asuntos a tratar, debiéndose ingresar dichos proyectos al sistema de Intranet del Tribunal.
+La responsabilidad penal en el hecho delictuoso se produce bajo las formas de autoría y participación:
 
-El orden del día se podrá modificar con los asuntos diferidos o de urgente atención; la modificación deberá comunicarse cuando menos con dos días hábiles de anticipación a la fecha de celebración de la sesión y acompañarse con los proyectos de los asuntos de que se trate.
+I. La autoría; y
+
+II. La participación.
+
+Son autores:
+
+a) Los que conciben el hecho delictuoso;
+
+b) Los que ordenan su realización;
+
+c) Los que lo ejecuten materialmente;
+
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+
+d) Los que con dominio del hecho intervengan en su realización; y
+
+e) Los que se aprovechen de otro que actúa sin determinación propia, conciencia o conocimiento del hecho.
+
+Son partícipes:
+
+a) Los que instiguen a otros, mediante convencimiento, a intervenir en el hecho delictuoso;
+
+b) Los que cooperen en forma previa o simultánea en la realización del hecho delictuoso, sin dominio del mismo; y
+
+c) Los que auxilien a quienes han intervenido en el hecho delictuoso, después de su consumación, por acuerdo anterior.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
 ###### Artículo 11 Bis.
 
@@ -163,59 +239,89 @@ La sanción impuesta a la persona jurídica colectiva de acuerdo a este Código 
 
 ###### Artículo 12.
 
-Habrá una sesión pública solemne, en el lugar, fecha y hora que fije el Presidente del Tribunal, en la que rendirá, ante el Pleno de la Sala Superior, su informe anual de labores. Cuando a dicho acto asista el Titular de cualquiera de los Poderes de la Unión, o sus representantes se les podrá otorgar el uso de la palabra.
+Los instigadores y los ordenadores son responsables de los delitos que se cometan con motivo de la instigación u orden, pero no de los demás que se ejecuten, a no ser que debieran haberlos previsto racionalmente.
 
 ###### Artículo 13.
 
-Iniciada la sesión, el Secretario General de Acuerdos o los Secretarios Adjuntos de Acuerdos darán cuenta con el asunto que corresponda del orden del día, seguidamente, el Presidente del Tribunal o los Presidentes de las Secciones, lo someterán a consideración de los Magistrados.
+Las circunstancias modificativas o calificativas del delito aprovechan o perjudican a todos los inculpados que tuvieren conocimiento de ellas en el momento de su intervención, o debieran preverlas racionalmente.
+
+Las circunstancias personales de alguno o algunos de los inculpados que sean modificativas o calificativas del delito, o constituyan un elemento de éste, aprovecharán o perjudicarán únicamente a aquellos en quienes concurran.
 
 ###### Artículo 14.
 
-Los Magistrados que tengan interés en realizar observaciones, sugerencias o propuestas de modificaciones a los proyectos de sentencias o acuerdos, podrán enviarlas al Ponente y demás integrantes del Pleno o Sección, según corresponda, por escrito, de manera previa al desarrollo de la sesión, sin perjuicio de que durante la discusión correspondiente, puedan presentarse aquéllas de manera verbal.
+Si varias personas convienen en ejecutar un delito determinado y alguna o algunas de ellas cometen un delito distinto, todas responderán de la comisión del nuevo delito siempre que concurran las circunstancias siguientes:
 
-Cuando un Magistrado proponga diferir un asunto deberá expresarlo de inmediato, en cuanto el mismo se ponga a consideración del Pleno o de la Sección. El Magistrado Ponente también podrá solicitar su diferimiento, sin perjuicio de que el Magistrado Ponente pueda retirarlo durante su discusión. Realizada la solicitud, se acordará de plano, señalándose, de ser posible, la fecha en que se someterá nuevamente a discusión el asunto. Una vez votado un asunto, no podrá modificarse lo resuelto, salvo que en la misma sesión se apruebe anular la votación por mayoría igual o superior de los que votaron inicialmente el asunto, en cuyo caso se reiniciará la discusión y se repetirá la votación.
+I. Que el nuevo delito sea una consecuencia necesaria del primeramente convenido o sirva de medio para cometerlo; y
+
+II. Que el nuevo delito debiera ser previsto racionalmente por los que convinieron en ejecutar el primero.
 
 ### CAPITULO V. CAUSAS EXCLUYENTES DEL DELITO Y DE LA RESPONSABILIDAD
 
 ###### Artículo 15.
 
-Las sesiones del Pleno serán públicas sin perjuicio del derecho de los Magistrados de pronunciarse con toda libertad en los asuntos sometidos para su aprobación, y se sujetarán a las siguientes reglas:
+Son causas que excluyen el delito y la responsabilidad penal:
 
-I. El Magistrado Ponente, que lo estime pertinente al inicio de la discusión, tendrá un máximo de cinco minutos para exponer su proyecto de resolución.
+I. La ausencia de conducta, cuando el hecho se realice sin la intervención de la voluntad del agente por una fuerza física exterior irresistible;
 
-II. Los Magistrados tendrán una primera ronda de intervenciones de tres minutos como máximo cada uno para expresar sus comentarios; el Magistrado Ponente tendrá derecho de réplica al final de dicha ronda, con un tiempo de cinco minutos.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-III. Después de la intervención de los Magistrados, el Presidente del Pleno o los Presidentes de las Secciones preguntarán si el asunto está suficientemente discutido; en caso de ser así, se pasará a votación de los Magistrados, con las precisiones que correspondan.
+II. Cuando falte alguno de los elementos del hecho delictuoso de que se trate;
 
-IV. Si el Pleno o la Sección correspondiente, determinan que el asunto no está suficientemente discutido, el Magistrado Presidente preguntará si aquél debe ser diferido para otra sesión o bien si debe realizarse una segunda ronda de intervenciones.
+III. Las causas permisivas, como:
 
-V. El Magistrado Ponente podrá retirar o diferir su proyecto, como resultado de la discusión, mismo que será reprogramado con prioridad para la sesión del Pleno o Sección, en cuanto sea entregado el nuevo proyecto. Si se retira el proyecto antes de que se lleve a cabo la sesión en la que está programado, deberá realizarlo con por lo menos dos días hábiles de anticipación.
+a) Se actúe con el consentimiento del titular del bien jurídico afectado, siempre que se llenen los siguientes requisitos:
 
-VI. Cuando el Presidente del Pleno o los Presidentes de las Secciones consideren el asunto suficientemente discutido, lo someterán a votación de los Magistrados presentes y el Secretario General de Acuerdos o los Secretarios Adjuntos de Acuerdos tomarán la votación, la que será nominal.
+1. Que se trate de un delito perseguible por querella;
 
-VII. Los Magistrados emitirán su voto, el cual podrá ser a favor, en contra o con los resolutivos. Durante la votación, no se podrá motivar las razones del mismo o volver a efectuar comentarios al proyecto. Ningún Magistrado podrá excusarse de emitir su voto a no ser que tenga impedimento legal.
+2. Que el titular del bien tenga capacidad de disponer libremente del mismo; y
+
+3. Que el consentimiento sea expreso o tácito y sin que medie algún vicio de la voluntad.
+
+b) Se repela una agresión real, actual o inminente y sin derecho en protección de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa y racionalidad de los medios empleados y no medie provocación dolosa, suficiente e inmediata por parte del agredido o de la persona a quien se defiende.
+
+Se presumirá como defensa legítima, salvo prueba en contrario, el hecho de causar daño a quien por cualquier medio trata de penetrar o haya penetrado sin derecho al hogar del agente, al de su familia, o sus dependencias o a los de cualquier persona que tenga la obligación de defender, al sitio donde se encuentren bienes propios o ajenos, respecto de los que exista la misma obligación; o lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la probabilidad de una agresión.
+
+c) Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno de un peligro real, actual o inminente, no ocasionado dolosamente por el agente, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tuviere el deber jurídico de afrontarlo; y
+
+d) La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional del medio empleado para cumplir el deber o ejercer el derecho, y que este último no se realice con el sólo propósito de perjudicar a otro.
+
+IV. Las causas de inculpabilidad:
+
+a) Al momento de realizar el hecho típico el agente padezca un trastorno mental transitorio que le impida comprender el carácter ilícito del hecho o conducirse de acuerdo con esa comprensión, a no ser que el agente hubiese provocado dolosamente o por culpa grave su propio trastorno. En este caso responderá por el hecho cometido.
+
+b) Se realice la acción o la omisión bajo un error invencible:
+
+1. Sobre alguno de los elementos esenciales que integran el tipo penal;
+
+2. Respecto de la ilicitud de la conducta, ya sea porque el sujeto desconozca el alcance de la ley, o porque crea que está justificada su conducta.
+
+c) Atentas las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al agente una conducta diversa a la que realizó, en virtud de no haberse podido determinar a actuar conforme a derecho;
+
+Que el resultado típico se produzca por caso fortuito y el activo haya ejecutado un hecho lícito con todas las precauciones debidas.
 
 ###### Artículo 16.
 
-Una vez tomada la votación, el Presidente del Tribunal o los Presidentes de las Secciones harán la declaratoria del resultado de la votación, si ésta reporta un empate, se diferirá a la siguiente sesión no contando como asunto devuelto, si no se aprueba, se devolverá al Ponente para que formule otro, recogiendo en su caso el criterio de la mayoría. De los proyectos aprobados, el Secretario leerá los puntos resolutivos. Los Magistrados que deseen formular voto particular, lo manifestarán en su momento y se hará la declaratoria correspondiente, debiendo emitir el voto particular en un plazo no mayor a diez días hábiles, en caso de que el voto particular no se emita en el plazo previsto, se tendrá por no formulado y se procederá al engrose de la sentencia.
+Es inimputable el sujeto activo cuando padezca:
 
-En caso de que un proyecto no se apruebe en dos ocasiones, se turnará el asunto a otro Magistrado del Pleno o de la otra Sección, en su caso. Los votos con los resolutivos, se sumarán a los votos a favor siempre que no sean en número mayor que éstos; y que los votos a favor sean iguales o superiores en número a los votos en contra.
+I. Alienación u otro trastorno similar permanente;
+
+II. Trastorno mental transitorio producido en forma accidental o involuntaria; y
+
+III. Sordomudez, careciendo totalmente de instrucción.
+
+Estos padecimientos deben tener como consecuencia la ausencia de la capacidad de comprender la antijuricidad o ilicitud de su acción y omisión, antes o durante la comisión del ilícito.
 
 ###### Artículo 17.
 
-Excepcionalmente, cuando por la diversidad de criterios de los Magistrados, respecto de un asunto sometido a su consideración, no haya sido posible su aprobación a pesar de haber cambiado en dos ocasiones de Ponente, o cuando así se decida por el pleno, la votación respectiva se podrá tomar por considerandos. En este caso, conforme se vaya avanzando en la aprobación de un tema, todos los Magistrados deberán estar a la determinación tomada por la mayoría sobre ese particular y, en ese entendido, se pronunciarán en el considerando siguiente, cuando el mismo dependa del anterior.
-
-En todo caso, en el engrose respectivo, se hará constar el desglose de la votación por considerandos.
+Las causas excluyentes del delito y de la responsabilidad se harán valer de oficio por el Ministerio Público o por el órgano jurisdiccional.
 
 ### CAPITULO VI. CONCURSO DE DELITOS
 
 ###### Artículo 18.
 
-El Presidente de que se trate, someterá a aprobación del Pleno o de las Secciones, el texto de las tesis o precedentes que proponga el Ponente o bien le solicitará por sí o a propuesta del Ponente o de otro Magistrado, que se formulen los que se consideren necesarios. Las tesis también podrán someterse para su aprobación en sesión privada; en todo caso, quedan sujetas a las correcciones de redacción y estilo que se requieran.
+Existe concurso ideal, cuando con una sola acción u omisión se cometen varios delitos.
 
-Corresponderá al Secretario Operativo de Compilación y Sistematización de Tesis, asistir a las sesiones del Pleno y de las Secciones, con la información sobre las tesis, precedentes y jurisprudencias que deban ser reiteradas o, en su caso, aplicadas, al resolver incidentes, quejas o juicios, de los cuales se dé cuenta en las sesiones correspondientes.
-
-Cuando se emita un voto particular, se publicará junto con la tesis o el precedente del asunto aprobado, o bien, con la parte respectiva de la sentencia; sólo en el supuesto que el Magistrado que emita el voto particular y no desee su publicación, deberá manifestarlo durante la sesión.
+Existe concurso real, cuando con pluralidad de acciones u omisiones se cometen varios delitos.
 
 ### CAPITULO VII. REINCIDENCIA Y HABITUALIDAD
 
@@ -223,21 +329,71 @@ Cuando se emita un voto particular, se publicará junto con la tesis o el preced
 
 ###### Artículo 19.
 
-Tratándose de correcciones mecanográficas que no trasciendan al fondo del fallo, sólo se anunciará que existen las mismas y, en su caso, el Magistrado que las haya detectado las hará llegar a través de simple nota al Magistrado Ponente, con una copia para la Secretaría General de Acuerdos o la Secretaría Adjunta de Acuerdos, respectiva.
+Será reincidente quien cometa un nuevo delito después de haber sido condenado por sentencia ejecutoriada. Si esta fue dictada por un órgano jurisdiccional del país o del extranjero, será menester que la condena sea por un delito que tenga ese carácter en este código o leyes especiales. No habrá reincidencia si ha transcurrido desde la fecha de la sentencia ejecutoria o del indulto, un término igual al de la prescripción de la pena.
+
+No se aplicará cuando el agente haya obtenido el reconocimiento judicial de inocencia.
 
 ###### Artículo 20.
 
-Los asuntos podrán agruparse de acuerdo al orden de día, con el fin de que se proceda a su discusión en la vía económica, cuando respecto de los mismos se manifieste que no existen comentarios. Los Magistrados podrán emitir su voto favorable refiriéndose a todos los asuntos agrupados, en tanto que aquéllos de los que se indicó que había comentarios o que algún Magistrado estuviere en contra, se discutirán en forma particular y, si fuera el caso, se inscribirán posteriormente, si los hubiere, los votos u opiniones disidentes o particulares respecto de proyectos de resoluciones u otros acuerdos, según corresponda.
+Será considerado delincuente habitual el reincidente que cometa un nuevo delito, siempre que los tres delitos anteriores se hayan cometido en un periodo que no exceda de quince años.
 
 ###### Artículo 21.
 
-Cuando ningún Magistrado desee hacer uso de la palabra, se procederá de inmediato a la votación del asunto correspondiente.
+Las disposiciones del presente capítulo serán aplicables aún en el caso de tentativa, pero no a los delitos contra el estado cualquiera que sea el grado de su ejecución.
 
 ## TITULO TERCERO. PENAS Y MEDIDAS DE SEGURIDAD
 
 ###### Artículo 22.
 
-En las sesiones privadas y en las reuniones de trabajo de los Magistrados, se seguirá en lo conducente, lo establecido en los artículos anteriores.
+Son penas y medidas de seguridad que pueden imponerse con arreglo a este código, las siguientes:
+
+A. Penas:
+
+I. Prisión;
+
+II. Multa;
+
+> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
+
+III. Reparación del daño; que comprenderá los rubros citados por el artículo 26 de este ordenamiento.
+
+IV. Trabajo en favor de la comunidad;
+
+V. Suspensión, destitución, inhabilitación o privación del empleo, cargo o comisión.
+
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+
+VI. Suspensión o privación de derechos vinculados al hecho;
+
+VII. Publicación especial de sentencia;
+
+VIII. Decomiso de bienes producto del enriquecimiento ilícito; y
+
+IX. Decomiso de los instrumentos, objetos y efectos del delito.
+
+B. Medidas de seguridad:
+
+I. Confinamiento;
+
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+
+II. Prohibición de residir o ir a lugares determinados;
+
+III. Vigilancia de la autoridad;
+
+IV. Tratamiento de inimputables;
+
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+V. Amonestación;
+
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+VI. Caución de no ofender; y
+
+> <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
+
+VII. Tratamiento.
 
 ### CAPITULO I. PRISION
 
@@ -245,29 +401,9 @@ En las sesiones privadas y en las reuniones de trabajo de los Magistrados, se se
 
 ###### Artículo 23.
 
-El Presidente del Pleno o los Presidentes de las Secciones tendrán las siguientes atribuciones y obligaciones:
+La prisión consiste en la privación de la libertad, la que podrá ser de tres meses a vitalicia, entendiéndose por ésta una duración igual a la vida del sentenciado, y se cumplirá en los términos y con las modalidades previstas en las leyes de la materia.
 
-a) Constatar con el Secretario General de Acuerdos o con el Secretario Adjunto de Acuerdos respectivo, la integración del quórum legal para llevar a cabo la sesión;
-
-b) Presidir y participar en las sesiones;
-
-c) Autorizar el inicio y terminación de las sesiones;
-
-d) Determinar los recesos y mociones, por sí o a propuesta de cualquier Magistrado;
-
-e) Conceder el uso de la palabra, en el orden solicitado, mismo que será registrado por el Secretario General de Acuerdos o el Secretario Adjunto de Acuerdos que corresponda;
-
-f) Coordinar el debate de las sesiones y moderar la discusión en las mismas, así como ejecutar las medidas necesarias que le instruya el Pleno o la Sección, para su adecuado funcionamiento;
-
-g) Decretar que los asuntos se encuentran suficientemente discutidos;
-
-h) Someter a votación los proyectos de sentencia, así como los acuerdos;
-
-i) Asegurar los apoyos institucionales necesarios para la buena marcha de las sesiones y para hacer frente a cualquier eventualidad que obstaculice su desarrollo;
-
-j) Mantener el orden en las sesiones, de ser necesario, puede solicitar el auxilio de la fuerza pública e imponer las correcciones disciplinarias para salvaguardar la seguridad del recinto e instalaciones; y
-
-k) Tomar las demás acciones que sean necesarias para el adecuado desarrollo de las sesiones.
+SUBTITULO PRIMERO
 
 ### CAPITULO II. MULTA
 
@@ -277,17 +413,29 @@ k) Tomar las demás acciones que sean necesarias para el adecuado desarrollo de 
 
 ###### Artículo 24.
 
-En las sesiones, los Magistrados, procurarán realizar su intervención de manera clara y concreta, evitando lecturas o repeticiones innecesarias para lograr un debate ágil y eficiente, en beneficio de los participantes y del público en general.
+La multa consiste en el pago de una suma de dinero al Estado que se fijará por días multa, los cuales podrán ser de treinta a cinco mil.
 
-En el curso de las intervenciones, los Magistrados deberán abstenerse de: entablar polémicas o debates de manera individual con otro miembro del Pleno o la Sección; hacer alusiones personales o utilizar adjetivos inapropiados que pudiesen ofender a quienes participan en la sesión; interrumpir a otros Magistrados en el uso de la palabra, o generar controversias o discusiones ajenas a los asuntos del orden del día.
+El día multa equivale a la percepción neta diaria del inculpado en el momento de consumar el delito, tomando en cuenta todos sus ingresos, que en ningún caso serán inferiores al salario mínimo general vigente en el lugar donde se consumó.
 
-En esos supuestos, cualquier Magistrado podrá solicitar al Pleno o la Sección que acuerde por mayoría simple una moción de orden para invitar al Magistrado de que se trate a que se conduzca en los términos previstos en este reglamento.
+En los delitos continuados se atenderá al salario mínimo vigente en el momento consumativo de la última conducta y para los permanentes el que esté en vigor en el momento en que cesó la conducta delictiva.
 
-Cuando algún Magistrado solicite que se acuerde por mayoría simple una moción, el Pleno o la Sección decidirán, sin discusión, su admisión o rechazo. En caso de que se acepte, el Magistrado Presidente tomará las medidas pertinentes para que se lleve a cabo, de no ser así, la sesión seguirá su curso.
+En caso de insolvencia del sentenciado, la autoridad judicial la sustituirá, total o parcialmente, por prestación de trabajo en favor de la comunidad, saldándose un día multa por cada jornada de trabajo.
+
+En caso de insolvencia e incapacidad física del sentenciado, la autoridad judicial sustituirá la multa por el confinamiento, saldándose un día multa por cada día de confinamiento.
+
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 178, PUBLICADO EN LA G.G. 20 DE OCTUBRE DE 2016, LAS REFERENCIAS AL SALARIO MÍNIMO COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIDA O REFERENCIA PARA DETERMINAR LA CUANTÍA DE LAS OBLIGACIONES Y SUPUESTOS PREVISTOS EN LOS REGLAMENTOS, ACUERDOS Y DEMÁS DISPOSICIONES JURÍDICAS SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.]</small>
 
 ###### Artículo 25.
 
-Los Magistrados pueden ser asistidos por sus Secretarios cuando así lo requieran, procurando no alterar el desarrollo de la sesión.
+Para los efectos de este capítulo y a falta de elementos específicos, se tomara como base por día multa, salvo prueba en contrario:
+
+I. Que los empleados, técnicos, profesionistas y similares, obtienen un ingreso diario equivalente a por lo menos dos y medio veces el salario mínimo general vigente;
+
+II. Que los jefes en mandos intermedios, patrones, empleadores y similares, obtienen un ingreso diario equivalente a por lo menos cinco veces el salario mínimo general vigente;
+
+III. Que los de mayor jerarquía y capacidad económica que estos últimos, obtienen ingresos diarios equivalentes a por lo menos diez veces el salario mínimo general vigente; y
+
+IV. Que las personas que vivan y se desarrollen en los más altos estratos económico-sociales, obtienen ingresos diarios equivalentes a por lo menos veinticinco veces el salario mínimo general vigente.
 
 ### CAPITULO III. REPARACION DEL DAÑO
 
@@ -295,19 +443,57 @@ Los Magistrados pueden ser asistidos por sus Secretarios cuando así lo requiera
 
 ###### Artículo 26.
 
-Los Magistrados y el Presidente, podrán ausentarse momentáneamente durante el desarrollo de la sesión.
+La reparación del daño deberá ser plena, efectiva, proporcional a la gravedad del daño causado y a la afectación del desarrollo integral de la víctima u ofendido y, según la naturaleza del delito de que se trate, comprenderá:
 
-En el supuesto que el Presidente de Tribunal se ausente momentáneamente, solicitará al Presidente de la Sección que corresponda ocupar su lugar durante la ausencia aludida.
+I. En términos generales:
+
+a) El restablecimiento de las cosas en el estado en que se encontraban antes de cometerse el delito;
+
+b) La restitución del bien obtenido por el delito, con sus frutos y accesiones, y el pago en su caso del deterioro y menoscabo, o de los derechos afectados.
+
+La restitución se hará aun en el caso de que el bien hubiere pasado a ser propiedad de terceros; a menos que sea irreivindicable o se haya extinguido el derecho de propiedad, los terceros serán escuchados en audiencia en la forma que señala el Código de Procedimientos Penales.
+
+Si se trata de bienes fungibles, el juez podrá condenar a la entrega de un objeto igual al que fuese materia de delito sin necesidad de recurrir a prueba pericial;
+
+c) La indemnización del daño material y moral causado a la víctima o a las personas con derecho a la reparación del daño, incluyendo el pago de los tratamientos que, como consecuencia del delito, sean necesarios para la recuperación de su salud física y psicológica;
+
+El monto de la indemnización será el suficiente para cubrir los gastos a que se refiere el párrafo anterior.
+
+d) El resarcimiento de los perjuicios ocasionados;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
+
+II. Tratándose de los delitos de violencia familiar, violencia de género y lesiones que se deriven de éstos, así como del feminicidio, la reparación del daño a la víctima u ofendido incluirá:
+
+a) Las hipótesis a que se refiere la fracción anterior;
+
+b) El restablecimiento de su honor, mediante disculpa pública, a través de los mecanismos que señale la autoridad judicial;
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+c) La reparación por la afectación en su entorno laboral, educativo y psicológico, a fin de lograr su restablecimiento, ante la imposibilidad de este, la indemnización correspondiente, en términos del Código Nacional de Procedimientos Penales.
+
+La indemnización a que se refiere el párrafo anterior se cuantificará en base a diversos factores como la pérdida del empleo, la inasistencia a las jornadas laborales, la necesidad de cambio de plantel educativo o inasistencia a éste, y demás datos relevantes que permitan realizar la cuantificación correspondiente, y
+
+d) El pago de los gastos indispensables para su subsistencia y, si los hubiere, de los hijos menores de edad o discapacitados, cuando como consecuencia del delito sufrido, se haya visto imposibilitada para desarrollarse en el ámbito laboral; lo anterior, por el tiempo que determine la autoridad judicial, atendiendo a su grado de estudios, edad y estado de salud.
+
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+
+III. La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos que, como consecuencia del delito, sean necesarios para la recuperación de la salud del ofendido.
+
+El monto de la indemnización por el daño moral no podrá ser inferior a treinta ni superior a mil días multa y será fijado considerando las circunstancias objetivas del delito, las subjetivas del delincuente y las repercusiones del delito sobre la víctima u ofendido.
+
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 27.
 
-Queda prohibido el uso de teléfonos celulares, radiolocalizadores o cualquier otro medio de comunicación que altere el desarrollo de la sesión.
-
-Los asistentes a la sesión pública, deben guardar silencio y observar respeto. En caso contrario, el Presidente tomará las medidas de apremio que estime conducentes.
+La reparación del daño se impondrá de oficio al responsable del delito, pero cuando sea exigible a terceros tendrá el carácter de responsabilidad civil.
 
 ###### Artículo 28.
 
-Cualquier miembro del Pleno, Sección, Secretario de Acuerdos, personal profesional o administrativo del Tribunal Federal de Justicia Fiscal y Administrativa, que revele el contenido de los asuntos tratados en sesión privada a persona que no haya asistido a la sesión incurrirá en responsabilidad administrativa.
+Los comprendidos en el artículo 16, estarán obligados en todo caso a la reparación del daño conforme a las disposiciones de este capítulo. Si fueren insolventes, responderán de dicha reparación los que los tengan bajo su patria potestad, tutela o guarda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 29.
 
@@ -2213,11 +2399,37 @@ DELITOS CONTRA LA SEGURIDAD PUBLICA
 
 A quienes participen habitual u ocasionalmente en una agrupación de tres o más personas, de cualquier manera organizada con la finalidad de cometer delitos graves, se les impondrán de dos a diez años de prisión y de cincuenta a doscientos cincuenta días multa, sin perjuicio de las penas que les correspondan por los delitos que cometan.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPITULO I BIS. ASOCIACION DELICTUOSA
+
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 178 Bis.
+
+Se impondrá prisión de dos a seis años y de cien a quinientos días multa, al que forme parte de una asociación o banda de tres o más personas para delinquir en la comisión de delitos del fuero común, independientemente de la sanción que le corresponda por el delito que cometa.
+
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 178 Ter.
+
+Si el miembro de la asociación delictuosa es o ha sido servidor público o autoridad encargada de la función de seguridad pública o miembro de una empresa de seguridad privada y por virtud del ejercicio de las funciones a él encomendadas, se facilitó la comisión del o los ilícitos relacionados con el artículo anterior, las penas se aumentarán hasta en una mitad y se impondrá además, en su caso, la destitución del empleo, cargo o comisión e inhabilitación por un tiempo igual al señalado como prisión para desempeñar otro empleo, cargo o comisión públicos, en cuyo caso se computará a partir de que se haya cumplido con la pena de prisión.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPITULO I TER. PANDILLA
+
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+###### Artículo 178 Quáter.
+
+Cuando se cometa algún delito por pandilla, se impondrá hasta una mitad más de las penas que le correspondan por el o los delitos cometidos, a los que intervengan en su comisión.
+
+Se entiende por pandilla, para los efectos de este artículo, la reunión habitual, ocasional o transitoria, de tres o más personas que sin estar organizadas con fines delictuosos, cometen en común algún delito.
+
+Cuando el miembro de la pandilla sea o haya sido servidor público de alguna institución de seguridad pública o miembro de una empresa de seguridad privada o que, siendo mayor de edad utilice a menores o incapaces, se aumentará en dos terceras partes la pena que le corresponda por el o los delitos cometidos y se impondrá, además, destitución del empleo, cargo o comisión e inhabilitación de uno a cinco años para desempeñar otro empleo, cargo o comisión públicos, según corresponda.
+
 ### CAPITULO II. PORTACION, TRAFICO Y ACOPIO DE ARMAS PROHIBIDAS
-
-### CAPITULO III. DELITOS COMETIDOS EN EL EJERCICIO DE ACTIVIDADES PROFESIONALES O TECNICAS
-
-### CAPITULO IV. ESTORBO DEL APROVECHAMIENTO DE BIENES DE USO COMUN
 
 ###### Artículo 179.
 
@@ -2245,9 +2457,7 @@ I. Medios de transporte público de pasajeros; y
 
 II. Actos deportivos, artísticos, culturales, religiosos o de culto, mítines políticos, ceremonias cívicas y desfiles.
 
-### CAPITULO V. DELITOS EN CONTRA DEL DESARROLLO URBANO
-
-> <small>(REFORMADO, G.G. 16 DE JUNIO DE 2016)</small>
+### CAPITULO III. DELITOS COMETIDOS EN EL EJERCICIO DE ACTIVIDADES PROFESIONALES O TECNICAS
 
 ###### Artículo 181.
 
@@ -2301,9 +2511,7 @@ Al que sin justa causa, con perjuicio de alguien y sin consentimiento de quien p
 
 Se impondrán de dos a siete años de prisión, de cien a quinientos días multa y la suspensión del derecho de ejercer la profesión, la actividad técnica o desempeñar el cargo de dos a siete años, cuando la revelación punible sea hecha por persona que preste sus servicios profesionales o técnicos o por servidor público.
 
-### CAPITULO I. ATAQUES A LAS VIAS DE COMUNICACION Y MEDIOS DE TRANSPORTE
-
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+### CAPITULO IV. ESTORBO DEL APROVECHAMIENTO DE BIENES DE USO COMUN
 
 ###### Artículo 187.
 
@@ -2323,7 +2531,9 @@ Al que incurra en la comisión de alguna de las conductas señaladas en la fracc
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE JUNIO DE 2016)</small>
 
-### CAPITULO II. DELITOS COMETIDOS POR CONDUCTORES DE VEHICULOS DE MOTOR
+### CAPITULO V. DELITOS EN CONTRA DEL DESARROLLO URBANO
+
+> <small>(REFORMADO, G.G. 16 DE JUNIO DE 2016)</small>
 
 ###### Artículo 189.
 
@@ -2375,7 +2585,9 @@ SUBTITULO SEGUNDO
 
 DELITOS CONTRA LA SEGURIDAD DE LAS VIAS DE COMUNICACION Y MEDIOS DE TRANSPORTE
 
-### CAPITULO III. VIOLACION DE CORRESPONDENCIA
+### CAPITULO I. ATAQUES A LAS VIAS DE COMUNICACION Y MEDIOS DE TRANSPORTE
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 191.
 
@@ -2411,15 +2623,13 @@ Al que dolosamente obstaculice una vía de comunicación o la prestación de un 
 
 Al que, para la ejecución de los hechos a que se refieren los artículos anteriores de este capítulo, se valga de explosivos, se le impondrán de quince a cuarenta años de prisión.
 
-### CAPITULO I. DELITOS CONTRA EL CONSUMO
+### CAPITULO II. DELITOS COMETIDOS POR CONDUCTORES DE VEHICULOS DE MOTOR
 
 ###### Artículo 196.
 
 (DEROGADO, G.G. 26 DE MAYO DE 2006)
 
-### CAPITULO I BIS. DELITOS CONTRA LA ECONOMIA PECUARIA
-
-> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+### CAPITULO III. VIOLACION DE CORRESPONDENCIA
 
 ###### Artículo 197.
 
@@ -2435,9 +2645,7 @@ SUBTITULO TERCERO
 
 DELITOS CONTRA LA ECONOMIA
 
-### CAPITULO II. DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL
-
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 178, PUBLICADO EN LA G.G. 20 DE OCTUBRE DE 2016, LAS REFERENCIAS AL SALARIO MÍNIMO COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIDA O REFERENCIA PARA DETERMINAR LA CUANTÍA DE LAS OBLIGACIONES Y SUPUESTOS PREVISTOS EN LOS REGLAMENTOS, ACUERDOS Y DEMÁS DISPOSICIONES JURÍDICAS SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.]</small>
+### CAPITULO I. DELITOS CONTRA EL CONSUMO
 
 ###### Artículo 199.
 
@@ -2463,9 +2671,9 @@ Al responsable de este delito se le impondrán de tres meses a tres años de pri
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPITULO III. OBSTRUCCION A LA INVERSION
+### CAPITULO I BIS. DELITOS CONTRA LA ECONOMIA PECUARIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 201 Bis.
 
@@ -2491,9 +2699,9 @@ A quien presente o pretenda documentar ganado bovino como nacido en una zona de 
 
 En los casos de reincidencia en la comisión de las conductas descritas en los artículos anteriores o si se afecta el estatus zoosanitario del Estado, las penas se incrementarán hasta en un tercio.
 
-### CAPITULO I. DE LAS PERSONAS MENORES DE EDAD Y QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
+### CAPITULO II. DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 
-> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 178, PUBLICADO EN LA G.G. 20 DE OCTUBRE DE 2016, LAS REFERENCIAS AL SALARIO MÍNIMO COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIDA O REFERENCIA PARA DETERMINAR LA CUANTÍA DE LAS OBLIGACIONES Y SUPUESTOS PREVISTOS EN LOS REGLAMENTOS, ACUERDOS Y DEMÁS DISPOSICIONES JURÍDICAS SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.]</small>
 
 ###### Artículo 202.
 
@@ -2527,9 +2735,9 @@ Al patrón que con el sólo propósito de eludir el cumplimiento de las obligaci
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPITULO II. UTILIZACION DE IMAGENES Y/O VOZ DE PERSONAS MENORES DE EDAD O PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO PARA LA PORNOGRAFIA
+### CAPITULO III. OBSTRUCCION A LA INVERSION
 
-> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 203 Bis.
 
@@ -2563,7 +2771,7 @@ DELITOS CONTRA EL PLENO DESARROLLO Y LA DIGNIDAD DE LA PERSONA
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO III. LENOCINIO
+### CAPITULO I. DE LAS PERSONAS MENORES DE EDAD Y QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
 > <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -2581,7 +2789,9 @@ I. Al consumo de bebidas alcohólicas, narcóticos o sustancias tóxicas, se le 
 
 Se impondrá la pena señalada en el párrafo primero, al que organice o realice eventos, reuniones, fiestas o convivios al interior de inmuebles particulares, vendiendo o facilitando para el consumo de alcohol, drogas, estupefacientes a menores de 18 años o personas que no tengan la capacidad de comprender el significado del hecho, o personas que no tienen capacidad de resistir la conducta.
 
-II. A formar parte de una asociación delictuosa o de delincuencia organizada, se le impondrá pena de cinco a diez años de prisión y de quinientos a dos mil días multa.
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+II. A formar parte de una asociación delictuosa o pandilla, se le impondrá pena de cinco a diez años de prisión y de quinientos a dos mil días multa.
 
 III. A realizar a través de cualquier medio y sin fines de lucro actos eróticos o sexuales, así como exhibiciones corporales, lascivas o sexuales, públicas o privadas, será castigado con pena de prisión de tres a cinco años de prisión y de doscientos a quinientos días multa.
 
@@ -2613,13 +2823,13 @@ Artículo 205 BIS.- (DEROGADO Y REUBICADO, G.G. 28 DE DICIEMBRE DE 2007)
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO IV. DISCRIMINACION
+### CAPITULO II. UTILIZACION DE IMAGENES Y/O VOZ DE PERSONAS MENORES DE EDAD O PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO PARA LA PORNOGRAFIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO V. PROVOCACION DE UN DELITO Y APOLOGIA DE ESTE O DE ALGUN VICIO
+### CAPITULO III. LENOCINIO
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 211], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 206.
 
@@ -2657,7 +2867,9 @@ Los sujetos activos de los delitos a que se refiere este capítulo quedarán inh
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO I. DELITOS CONTRA EL ESTADO CIVIL DE LAS PERSONAS
+### CAPITULO IV. DISCRIMINACION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 209.
 
@@ -2675,7 +2887,9 @@ Si los delitos de que hablan los artículos anteriores fueran cometidos al ampar
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO II. MATRIMONIOS ILEGALES
+### CAPITULO V. PROVOCACION DE UN DELITO Y APOLOGIA DE ESTE O DE ALGUN VICIO
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 211], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 211.
 
@@ -2711,7 +2925,7 @@ Este delito se perseguirá por querella.
 
 > <small>(REFORMADO [N. DE E. REUBICADO, ANTES CAPÍTULO IV], G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO III. BIGAMIA
+### CAPITULO I. DELITOS CONTRA EL ESTADO CIVIL DE LAS PERSONAS
 
 ###### Artículo 211 Bis.
 
@@ -2725,29 +2939,29 @@ SUBTITULO QUINTO
 
 DELITOS CONTRA LA FAMILIA
 
+### CAPITULO II. MATRIMONIOS ILEGALES
+
+### CAPITULO III. BIGAMIA
+
 ### CAPITULO IV. INCUMPLIMIENTO DE OBLIGACIONES
 
 > <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2011)</small>
-
-### CAPITULO V. VIOLENCIA FAMILIAR
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE DICIEMBRE DE 2014)</small>
-
-### CAPITULO VI. TRAFICO DE MENORES
-
-> <small>(F. DE E., G.G. 3 DE ABRIL DE 2000)</small>
 
 ###### Artículo 212.
 
 A quien con el fin de alterar el estado civil, suprima, altere o usurpe el estado civil de otro, registre un nacimiento inexistente o substituya a un niño por otro, se le impondrán de seis meses a seis años de prisión y de cincuenta a cuatrocientos días multa.
 
-### CAPITULO VII. EXPLOTACION DE PERSONAS
+### CAPITULO V. VIOLENCIA FAMILIAR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 213.
 
 Al que contraiga o autorice matrimonio con conocimiento de la existencia de un impedimento, o sin que hayan transcurrido los términos suspensivos que para contraerlo señala la ley civil, se le impondrán de seis meses a dos años de prisión y de treinta a doscientos cincuenta días multa.
 
-### CAPITULO VIII. INCESTO
+### CAPITULO VI. TRAFICO DE MENORES
+
+> <small>(F. DE E., G.G. 3 DE ABRIL DE 2000)</small>
 
 ###### Artículo 214.
 
@@ -2765,7 +2979,7 @@ El término para la prescripción de la bigamia, empezará a correr desde que un
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 12 DE AGOSTO DE 2011)</small>
 
-### CAPITULO IX. ADULTERIO
+### CAPITULO VII. EXPLOTACION DE PERSONAS
 
 ###### Artículo 217.
 
@@ -2793,7 +3007,7 @@ En los casos de reincidencia del delito de incumplimiento de obligaciones alimen
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE MARZO DE 2010)</small>
 
-### CAPITULO UNICO
+### CAPITULO VIII. INCESTO
 
 ###### Artículo 218.
 
@@ -2823,9 +3037,7 @@ Las penas previstas en el presente artículo se elevarán hasta en un tercio, si
 
 A quien condicione a un adulto mayor el acceso y permanencia a su propio domicilio, o cualquiera de sus bienes inmuebles, le restrinja o condicione el uso de sus bienes muebles; presione por medio de la violencia física o moral para que teste o cambie su testamento a favor de un tercero, disponga sin la autorización correspondiente de los recursos económicos del pasivo; o sustraiga, despoje, retenga o condicione la entrega de los documentos de identidad o de acceso a los servicios de salud y de asistencia social, en perjuicio de una persona adulta mayor, la pena aumentará hasta en una mitad.
 
-### CAPITULO I
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE JULIO DE 2013)</small>
+### CAPITULO IX. ADULTERIO
 
 ###### Artículo 219.
 
@@ -2837,15 +3049,15 @@ Si la entrega definitiva del menor se hace sin la finalidad de obtener un benefi
 
 Además de las sanciones señaladas, se privará de los derechos de la patria potestad, tutela o custodia, en su caso, a quienes teniendo el ejercicio de éstas, cometan el delito a que se refiere este artículo.
 
-### CAPITULO II. DELITOS CONTRA LA FLORA Y LA FAUNA SILVESTRE
+### CAPITULO UNICO
 
 ###### Artículo 220.
 
 (DEROGADO, G.G. 28 DE DICIEMBRE DE 2007)
 
-### CAPÍTULO III. MALTRATO ANIMAL
+### CAPITULO I
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE JULIO DE 2013)</small>
 
 ###### Artículo 221.
 
@@ -2855,7 +3067,7 @@ Se impondrá esta última sanción en caso de incesto entre hermanos.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE NOVIEMBRE DE 2013)</small>
 
-### CAPITULO I. LESIONES
+### CAPITULO II. DELITOS CONTRA LA FLORA Y LA FAUNA SILVESTRE
 
 ###### Artículo 222.
 
@@ -2869,7 +3081,9 @@ SUBTITULO SEXTO
 
 DELITOS CONTRA EL RESPETO A LOS MUERTOS Y VIOLACIONES A LAS LEYES DE INHUMACION Y EXHUMACION
 
-### CAPITULO II. HOMICIDIO
+### CAPÍTULO III. MALTRATO ANIMAL
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 224.
 
@@ -2901,9 +3115,7 @@ SUBTITULO SEPTIMO
 
 DELITOS CONTRA EL AMBIENTE
 
-### CAPITULO II BIS. FEMINICIDIO
-
-Artículo 242 bis.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
+### CAPITULO I. LESIONES
 
 ###### Artículo 228.
 
@@ -3017,7 +3229,7 @@ Será necesario que la secretaría del ramo formule la denuncia correspondiente 
 
 Se perseguirán de oficio las conductas establecidas en el artículo 228, fracciones IX y X del presente Código.
 
-### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
+### CAPITULO II. HOMICIDIO
 
 ###### Artículo 235.
 
@@ -3053,9 +3265,9 @@ La reparación del daño respecto de los delitos contenidos en este subtítulo, 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE AGOSTO DE 2015)</small>
 
-### CAPITULO IV. AUXILIO O INDUCCION AL SUICIDIO
+### CAPITULO II BIS. FEMINICIDIO
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+Artículo 242 bis.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
 ###### Artículo 235 Bis.
 
@@ -3097,7 +3309,7 @@ SUBTITULO PRIMERO
 
 DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
-### CAPITULO V. ABORTO
+### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
 ###### Artículo 236.
 
@@ -3159,7 +3371,11 @@ A quien ejerza la patria potestad, tutela o custodia del menor víctima de las l
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE AGOSTO DE 2011)</small>
 
-IX.- Cuando las lesiones se produzcan contra una persona en ejercicio de la actividad periodística, se aplicarán de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
+IX. Cuando las lesiones se produzcan contra una persona en ejercicio de la actividad periodística, se aplicarán de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
+
+> <small>(ADICIONADA, G.G. 12 DE JUNIO DE 2019)</small>
+
+X. Cuando las lesiones se produzcan por discriminación, aversión o rechazo en contra de la víctima, condición social o económica, por su origen étnico, raza, religión, discapacidad, orientación sexual o identidad de género, se aplicarán de seis meses a dos años de prisión, y de cincuenta a ciento cincuenta días multa.
 
 ###### Artículo 239.
 
@@ -3197,9 +3413,9 @@ c) Cuando las lesiones se cometan por un hombre en agravio de una mujer, con qui
 
 d) Cuando exista la intención de realizar un delito sexual, independientemente que se consume o no.
 
-### CAPITULO VI. MANIPULACION GENETICA
+### CAPITULO IV. AUXILIO O INDUCCION AL SUICIDIO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 241.
 
@@ -3231,27 +3447,15 @@ III. Al responsable de homicidio cometido en contra de su cónyuge, concubina, c
 
 IV. Al responsable del homicidio de dos o más personas, en el mismo o en distintos hechos, se le impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa.
 
+(NOTA: EL 28 DE ENERO DE 2025 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 78/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE JUNIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 48, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, G.G. 12 DE JUNIO DE 2019)</small>
+
+V. Al responsable del delito de homicidio con ensañamiento, crueldad o de odio manifiesto motivado por discriminación, aversión o rechazo a la víctima por su condición social o económica, religión, origen étnico, raza, discapacidad, orientación sexual o identidad de género de la víctima, se le impondrán de cuarenta a sesenta años de prisión O PRISIÓN VITALICIA y de setecientos a cinco mil días multa.
+
 > <small>(DEROGADO, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO VII. DISPOSICION DE CELULAS Y PROCREACION ASISTIDA
-
-> <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2007)</small>
-
-Artículo 251 TER.- Se impondrán de dos a siete años de prisión y quinientos días de multa a quien:
-
-I. Disponga de óvulos o esperma para fines distintos a los autorizados por sus donantes o depositarios;
-
-II. Implante a una mujer un óvulo fecundado, sin su consentimiento o sin el de los donantes o depositarios, aún con el consentimiento de una menor de edad o de un incapaz para comprender el hecho o para resistirlo.
-
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
-
-Este delito se perseguirá por querella. Si el delito se realiza con violencia o del mismo resultare un embarazo, la pena aplicable será de cinco a catorce años de prisión y hasta de quinientos días multa.
-
-Además de las penas previstas, se impondrá privación del derecho para ejercer la profesión por un tiempo igual al de la pena de prisión impuesta. Si se trata de servidores públicos, se impondrán también, en los mismos términos, la destitución e inhabilitación de catorce a diecinueve años para el desempeño de empleo, cargo o comisión públicos.
-
-SUBTITULO SEGUNDO
-
-DELITOS DE PELIGRO CONTRA LAS PERSONAS
+### CAPITULO V. ABORTO
 
 ###### Artículo 243.
 
@@ -3285,9 +3489,9 @@ d) Que el infante no sea legítimo.
 
 Si en este delito tuviere participación un médico cirujano, comadrona o partera, además de la pena privativa que corresponda, se le suspenderá de uno a tres años en el ejercicio de su profesión.
 
-### CAPITULO I. PELIGRO DE CONTAGIO
+### CAPITULO VI. MANIPULACION GENETICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 244.
 
@@ -3323,7 +3527,25 @@ d) Se cometa en contra de una mujer o de un menor de edad.
 
 Se impondrá la pena establecida en la fracción II del artículo 242 de este Código, cuando el delito de homicidio sea cometido en contra de servidores públicos de las instituciones de Seguridad Pública, procuración o administración de justicia, al ejercer lícitamente sus funciones o con motivo de ellas. Tratándose de lesiones se aplicará la pena prevista en la fracción VI del artículo 238 de este Código.
 
-### CAPITULO II. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
+### CAPITULO VII. DISPOSICION DE CELULAS Y PROCREACION ASISTIDA
+
+> <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2007)</small>
+
+Artículo 251 TER.- Se impondrán de dos a siete años de prisión y quinientos días de multa a quien:
+
+I. Disponga de óvulos o esperma para fines distintos a los autorizados por sus donantes o depositarios;
+
+II. Implante a una mujer un óvulo fecundado, sin su consentimiento o sin el de los donantes o depositarios, aún con el consentimiento de una menor de edad o de un incapaz para comprender el hecho o para resistirlo.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Este delito se perseguirá por querella. Si el delito se realiza con violencia o del mismo resultare un embarazo, la pena aplicable será de cinco a catorce años de prisión y hasta de quinientos días multa.
+
+Además de las penas previstas, se impondrá privación del derecho para ejercer la profesión por un tiempo igual al de la pena de prisión impuesta. Si se trata de servidores públicos, se impondrán también, en los mismos términos, la destitución e inhabilitación de catorce a diecinueve años para el desempeño de empleo, cargo o comisión públicos.
+
+SUBTITULO SEGUNDO
+
+DELITOS DE PELIGRO CONTRA LAS PERSONAS
 
 ###### Artículo 246.
 
@@ -3333,9 +3555,9 @@ Al que preste auxilio o instigue a otro al suicidio, sin que este se produzca, s
 
 Si el suicida fuere menor de edad o enajenado mental, se impondrá además de uno a tres años de prisión y de treinta a cincuenta días multa.
 
-### CAPITULO III. ABANDONO DE INCAPAZ
+### CAPITULO I. PELIGRO DE CONTAGIO
 
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 248.
 
@@ -3371,7 +3593,7 @@ IV. Cuando a juicio de dos médicos exista prueba suficiente para diagnosticar q
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 27 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO IV. OMISION DE AUXILIO A LESIONADOS
+### CAPITULO II. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
 
 ###### Artículo 251 Bis.
 
@@ -3391,9 +3613,11 @@ III. Mediante la clonación u otros procedimientos, pretendan la creación de se
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 27 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO V. OMISION DE AUXILIO
+### CAPITULO III. ABANDONO DE INCAPAZ
 
-### CAPITULO VI. DISPOSICIONES GENERALES
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+
+### CAPITULO IV. OMISION DE AUXILIO A LESIONADOS
 
 ###### Artículo 252.
 
@@ -3405,7 +3629,7 @@ En este delito sólo se procederá por querella del ofendido.
 
 > <small>(DEROGADO TERCER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO I. PRIVACION DE LIBERTAD
+### CAPITULO V. OMISION DE AUXILIO
 
 ###### Artículo 253.
 
@@ -3431,7 +3655,7 @@ La misma pena se aplicará al que amenace o intimide a una persona haciendo uso 
 
 Este artículo sólo se aplicará cuando no causare daño, o los hechos no constituyan tentativa de homicidio, en caso contrario, se impondrán las penas del delito consumado o en grado de tentativa que resultare.
 
-### CAPÍTULO II. SECUESTRO
+### CAPITULO VI. DISPOSICIONES GENERALES
 
 ###### Artículo 254.
 
@@ -3445,25 +3669,21 @@ No incurre en este delito la mujer que haya solicitado mantener en secreto su id
 
 No incurre en este delito la mujer que dé en adopción, en los términos de las leyes y tratados en la materia, y haya solicitado mantener en secreto su identidad en el momento del parto y la reserva sobre el nacimiento.
 
-### CAPITULO III. PRIVACIÓN DE LA LIBERTAD DE MENORES DE EDAD
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE OCTUBRE DE 2010)</small>
+### CAPITULO I. PRIVACION DE LIBERTAD
 
 ###### Artículo 255.
 
 Al conductor de un vehículo cualquiera o jinete que deje en estado de abandono, sin prestarle ni facilitarle asistencia a la persona a quien lesionó sin dolo, o dejare de avisar inmediatamente a la autoridad, se le impondrán de seis meses a dos años de prisión y de treinta a sesenta días multa.
 
-### CAPITULO IV. SUSTRACCION DE HIJO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+### CAPÍTULO II. SECUESTRO
 
 ###### Artículo 256.
 
 Al que omita auxiliar a una persona que por cualquier circunstancia, estuviese amenazada de un peligro, cuando pudiera hacerlo sin riesgo alguno, o al que no estando en condiciones de llevarlo a cabo, no diere inmediato aviso a la autoridad, se le impondrán de tres a seis meses de prisión y de treinta a sesenta días multa.
 
-### CAPITULO V. USURPACION DE IDENTIDAD
+### CAPITULO III. PRIVACIÓN DE LA LIBERTAD DE MENORES DE EDAD
 
-> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 257.
 
@@ -3475,9 +3695,9 @@ SUBTITULO TERCERO
 
 DELITOS CONTRA LA LIBERTAD, SEGURIDAD Y TRANQUILIDAD DE LAS PERSONAS
 
-### CAPITULO VI. EXTORSION
+### CAPITULO IV. SUSTRACCION DE HIJO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 258.
 
@@ -3493,7 +3713,9 @@ A quien incurra en este delito se le impondrán de uno a cuatro años de prisió
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE FEBRERO DE 2017)</small>
 
-### CAPITULO VII. ASALTO
+### CAPITULO V. USURPACION DE IDENTIDAD
+
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 259.
 
@@ -3509,7 +3731,9 @@ A quien incurra en este delito se le impondrán de uno a cuatro años de prisió
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE OCTUBRE DE 2010)</small>
 
-### CAPITULO VIII. ALLANAMIENTO DE MORADA
+### CAPITULO VI. EXTORSION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE ENERO DE 2015)</small>
 
 ###### Artículo 262.
 
@@ -3518,6 +3742,40 @@ A quien siendo un extraño a su familia se apodere de un menor de dieciocho año
 Cuando el delito lo cometa un familiar, que no sea el padre o la madre, y obre con mala fe y no por móviles afectivos, se le impondrán de dos a seis años de prisión y de treinta a ciento veinticinco días multa.
 
 Si el menor es restituido espontáneamente a su familia o a la autoridad dentro de tres días y sin causar daño, se le impondrán de tres meses a cuatro años de prisión y de treinta a cien días multa. Si se causare daño, se impondrán de seis meses a seis años de prisión y de treinta a ciento cincuenta días multa.
+
+### CAPITULO VII. ASALTO
+
+###### Artículo 263.
+
+Al padre o la madre que se apodere de su hijo menor de edad o familiares que participen en el apoderamiento, respecto del cual no ejerza la patria potestad o la custodia, privando de este derecho a quien legítimamente lo tenga, o a quién aún sin saber la determinación de un Juez sobre el ejercicio la patria potestad o la custodia, impida al otro progenitor ver y convivir con el menor, se le impondrán de uno a cinco años de prisión y de cuarenta a ciento veinticinco días multa.
+
+Este delito se perseguirá por querella.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 9 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO VIII. ALLANAMIENTO DE MORADA
+
+###### Artículo 264.
+
+Se le impondrán de uno a cuatro años de prisión y de cien a quinientos días multa, a quien ejerza con fines ilícitos un derecho o use cualquier tipo de datos, informaciones o documentos que legítimamente pertenezcan a otro, que lo individualiza ante la sociedad y que le permite a una persona física o jurídica colectiva ser identificada o identificable para hacerse pasar por él.
+
+Se equiparan a la usurpación de identidad y se impondrán las mismas penas previstas en el párrafo que precede prevista en el presente artículo a quienes:
+
+I. Cometan un hecho ilícito previsto en las disposiciones legales con motivo de la usurpación de la identidad;
+
+II. Utilicen datos personales, sin consentimiento de quien deba otorgarlo;
+
+III. Otorguen el consentimiento para llevar a cabo la usurpación de su identidad; y
+
+IV. Se valgan de la homonimia para cometer algún ilícito.
+
+Las sanciones previstas en este artículo se impondrán con independencia de las que correspondan por la comisión de otro u otros delitos.
+
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 265.
+
+Las penas señaladas en el artículo anterior se incrementarán hasta en una mitad, cuando el ilícito sea cometido por un servidor público aprovechándose de sus funciones, o por quien sin serlo, se valga de su profesión o empleo para ello.
 
 ### CAPITULO IX. TRATA DE PERSONAS
 
@@ -3561,44 +3819,6 @@ d) Cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic), 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 15 DE MARZO DE 2011)</small>
 
-###### Artículo 263.
-
-Al padre o la madre que se apodere de su hijo menor de edad o familiares que participen en el apoderamiento, respecto del cual no ejerza la patria potestad o la custodia, privando de este derecho a quien legítimamente lo tenga, o a quién aún sin saber la determinación de un Juez sobre el ejercicio la patria potestad o la custodia, impida al otro progenitor ver y convivir con el menor, se le impondrán de uno a cinco años de prisión y de cuarenta a ciento veinticinco días multa.
-
-Este delito se perseguirá por querella.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 9 DE DICIEMBRE DE 2010)</small>
-
-### CAPITULO X. REQUERIMIENTO ILICITO DE PAGO
-
-> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 264.
-
-Se le impondrán de uno a cuatro años de prisión y de cien a quinientos días multa, a quien ejerza con fines ilícitos un derecho o use cualquier tipo de datos, informaciones o documentos que legítimamente pertenezcan a otro, que lo individualiza ante la sociedad y que le permite a una persona física o jurídica colectiva ser identificada o identificable para hacerse pasar por él.
-
-Se equiparan a la usurpación de identidad y se impondrán las mismas penas previstas en el párrafo que precede prevista en el presente artículo a quienes:
-
-I. Cometan un hecho ilícito previsto en las disposiciones legales con motivo de la usurpación de la identidad;
-
-II. Utilicen datos personales, sin consentimiento de quien deba otorgarlo;
-
-III. Otorguen el consentimiento para llevar a cabo la usurpación de su identidad; y
-
-IV. Se valgan de la homonimia para cometer algún ilícito.
-
-Las sanciones previstas en este artículo se impondrán con independencia de las que correspondan por la comisión de otro u otros delitos.
-
-> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2010)</small>
-
-###### Artículo 265.
-
-Las penas señaladas en el artículo anterior se incrementarán hasta en una mitad, cuando el ilícito sea cometido por un servidor público aprovechándose de sus funciones, o por quien sin serlo, se valga de su profesión o empleo para ello.
-
-### CAPITULO XI. IRRUPCION DE EVENTO PUBLICO
-
-> <small>(ADICIONADO, G.G 6 DE ENERO DE 2012)</small>
-
 ###### Artículo 266.
 
 Al que sin derecho obligue a otro a hacer, tolerar o dejar de hacer algo, con la finalidad de obtener un lucro o beneficio para sí o para otro o causar un daño, se le impondrán de ocho a doce años de prisión y de mil a mil quinientos días multa.
@@ -3641,9 +3861,9 @@ IX. El sujeto activo del delito manifieste su pretensión de continuar obteniend
 
 Si el beneficio a obtener u obtenido por el sujeto activo o un tercero proviene del erario público, la pena se incrementará desde un tercio hasta una mitad más de la señalada en el párrafo anterior.
 
-### CAPITULO I. HOSTIGAMIENTO Y ACOSO SEXUAL
+### CAPITULO X. REQUERIMIENTO ILICITO DE PAGO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 267.
 
@@ -3653,9 +3873,9 @@ Si el asalto lo realizan dos o más personas, se impondrán de cinco a doce año
 
 Si los asaltantes atacaren una población, se les impondrán de veinte a treinta y cinco años de prisión a los jefes y de quince a treinta años a los demás participantes.
 
-### CAPITULO II. ABUSO SEXUAL
+### CAPITULO XI. IRRUPCION DE EVENTO PUBLICO
 
-> <small>(REFORMADO, G.G. 14 DE JULIO DE 2015)</small>
+> <small>(ADICIONADO, G.G 6 DE ENERO DE 2012)</small>
 
 ###### Artículo 268.
 
@@ -3665,13 +3885,13 @@ Este delito sólo se perseguirá por querella.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO III. ESTUPRO
+### CAPITULO I. HOSTIGAMIENTO Y ACOSO SEXUAL
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
 
-### CAPITULO IV. VIOLACION
+### CAPITULO II. ABUSO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 14 DE JULIO DE 2015)</small>
 
 ###### Artículo 268 Ter.
 
@@ -3679,9 +3899,9 @@ A quien con la intención de requerir el pago de una deuda, se valga del engaño
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE ENERO DE 2012)</small>
 
-### CAPITULO I. VIOLENCIA INSTITUCIONAL
+### CAPITULO III. ESTUPRO
 
-> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 268 Quater.
 
@@ -3707,13 +3927,13 @@ DELITOS CONTRA LA LIBERTAD SEXUAL
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE JULIO DE 2008)</small>
 
-### CAPITULO II. VIOLENCIA OBSTÉTRICA
+### CAPITULO IV. VIOLACION
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE AGOSTO DE 2013)</small>
 
-### CAPITULO III. VIOLENCIA LABORAL
+### CAPITULO I. VIOLENCIA INSTITUCIONAL
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 269.
 
@@ -3749,7 +3969,7 @@ Si el sujeto activo del delito es servidor público, además de las penas previs
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-### CAPITULO IV. VIOLENCIA POR PARENTESCO
+### CAPITULO II. VIOLENCIA OBSTÉTRICA
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
 
@@ -3765,9 +3985,9 @@ I. Quien ejecute en una persona un acto erótico o sexual sin su consentimiento 
 
 II. Quien ejecute en una persona menor de edad o que no tenga la capacidad de comprender las cosas o de resistir al hecho, un acto erótico o sexual sin el propósito de llegar a la cópula o a quien lo realice en su presencia o haga ejecutarlo para sí o en otra persona. A quien cometa este delito, se le impondrá pena de ocho a quince años de prisión y de quinientos a mil días multa.
 
-### CAPITULO IV BIS. VIOLENCIA POLÍTICA
+### CAPITULO III. VIOLENCIA LABORAL
 
-> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 271.
 
@@ -3779,7 +3999,7 @@ Comete delito de estupro quien tenga cópula con una persona mayor de quince añ
 
 No se procederá contra el inculpado del estupro, si no es por querella de la parte ofendida, de sus padres o, a falta de éstos, de sus representantes legítimos.
 
-### CAPITULO V. FEMINICIDIO
+### CAPITULO IV. VIOLENCIA POR PARENTESCO
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
 
@@ -3853,9 +4073,9 @@ DELITOS DE VIOLENCIA DE GÉNERO
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO VI. DISPOSICIONES GENERALES
+### CAPITULO IV BIS. VIOLENCIA POLÍTICA
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 275.
 
@@ -3863,7 +4083,9 @@ A quien en el ejercicio de la función pública dilate, obstaculice, niegue la d
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO I. ROBO
+### CAPITULO V. FEMINICIDIO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 276.
 
@@ -3903,7 +4125,9 @@ Además de las penas señaladas en el párrafo anterior, se impondrá al respons
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO II. ABIGEATO
+### CAPITULO VI. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 279.
 
@@ -3927,7 +4151,7 @@ VII. Permita o tolere actos de hostigamiento y/o acoso sexual en contra de algun
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO III. ABUSO DE CONFIANZA
+### CAPITULO I. ROBO
 
 ###### Artículo 280.
 
@@ -3951,7 +4175,7 @@ Se impondrán de seis meses a dos años de prisión y de cincuenta a doscientos 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
-### CAPITULO IV. FRAUDE
+### CAPITULO II. ABIGEATO
 
 ###### Artículo 280 Bis.
 
@@ -3959,9 +4183,7 @@ A quien por cualquier medio impida u obstaculice a una mujer el acceso a los car
 
 > <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO IV BIS. FRAUDE FAMILIAR
-
-> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+### CAPITULO III. ABUSO DE CONFIANZA
 
 ###### Artículo 281.
 
@@ -3999,9 +4221,11 @@ Se entenderá como homicidio doloso, la privación de la vida de una mujer por r
 
 > <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO V. DESPOJO
+### CAPITULO IV. FRAUDE
 
-### CAPITULO VI. DAÑO EN LOS BIENES
+### CAPITULO IV BIS. FRAUDE FAMILIAR
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 282.
 
@@ -4059,7 +4283,7 @@ II. Violencia de Género: Al conjunto de amenazas, agravios, maltrato, lesiones 
 
 ## TITULO CUARTO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
+### CAPITULO V. DESPOJO
 
 ###### Artículo 287.
 
@@ -4157,9 +4381,11 @@ B) Violencia sobre las personas, se impondrán de 20 a 30 años de prisión y mu
 
 IV. Cuando por motivo del delito de robo se causare la muerte, se impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa;
 
-> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-V. Cuando se cometa el robo de un vehículo automotor o de la mercancía transportada a bordo de aquel, se impondrán de ocho a doce años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil quinientos días multa, sin perjuicio en su caso, de la agravante a que se refiere la fracción I de este artículo;
+V. Cuando se cometa el robo de un vehículo automotor, de la mercancía transportada o de la mercancía que se encuentre a bordo de aquel, se impondrán de nueve a quince años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil quinientos días multa, sin perjuicio en su caso, de la agravante a que se refiere la fracción I de este artículo.
+
+Además de las penas señaladas en el párrafo anterior, cuando en la ejecución de este delito existan dos o más sujetos pasivos se impondrán a los sujetos activos, por cada pasivo de uno a dos años de prisión.
 
 VI. Cuando se cometa aprovechando la falta de vigilancia o la confusión ocasionado por un siniestro o un desorden de cualquier tipo, se impondrán de dos a siete años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
 
@@ -4187,13 +4413,17 @@ XIII. Cuando el robo se cometa en lugar cerrado, la pena será de tres a nueve a
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más, destitución definitiva e inhabilitación por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
 
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+Además de la pena señalada, cuando en la ejecución de este delito existan dos o más sujetos pasivos se impondrán, a los sujetos activos, por cada pasivo de uno a dos años de prisión.
+
 > <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
 XIV. Cuando el robo se cometa al interior de un vehículo automotor particular o recaiga sobre una o más de las partes que lo conforman o sobre objetos meramente ornamentales o de aquellos que transitoriamente se encuentran en su interior, se impondrán de seis meses a seis años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de quinientos días multa, sin perjuicio en su caso, del agravante a que se refiere la fracción I de este artículo.
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-XV. Salvo los casos previstos en las fracciones VI y XII de este artículo, si en las conductas descritas en las demás, participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad, se le destituirá e inhabilitará de dos a veinte años para desempeñar cualquier empleo, cargo o comisión públicos;
+XV. Salvo los casos previstos en las fracciones VI y XII de este artículo, si en las conductas descritas en las demás, participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas o alguna persona que pertenezca o haya pertenecido a empresa o corporación de seguridad privada, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión de un medio a dos tercios y se le destituirá e inhabilitará de dos a veinte años para desempeñar cualquier empleo, cargo o comisión públicos o se determinará en los mismos términos, la suspensión de derechos de prestar el servicio de seguridad privada, los cuales se computarán a partir del cumplimiento de la pena privativa de libertad.
 
 > <small>(ADICIONADA, G.G. 12 DE OCTUBRE DE 2010)</small>
 
@@ -4203,9 +4433,15 @@ XVI. Si en los actos mencionados en las fracciones anteriores, participa, en eje
 
 XVII. Cuando se cometa a escuelas e inmuebles destinados a actividades educativas, se impondrán de tres a doce años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
 
-> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-XVIII. Cuando se cometa en medios de transporte público de pasajeros y se utilice en su ejecución violencia, se impondrán de ocho a once años de prisión y multa de uno a tres veces el valor de lo robado, sin que exceda de mil días.
+XVIII. Cuando se corneta (sic) en medios de transporte público de pasajeros en sus diversas clases y modalidades, transporte de personal, de turismo o escolar, se impondrán de nueve a quince años de prisión y multa de uno a tres veces el valor de lo robado, sin que exceda de mil días, sin perjuicio en su caso, de la agravante a que se refiere la fracción I de este artículo.
+
+Además de la pena señalada en el párrafo anterior, se impondrán las penas siguientes:
+
+a) Cuando en la ejecución de este delito existan dos o más sujetos pasivos se impondrá a los sujetos activos por cada pasivo, de uno a dos años de prisión.
+
+b) Cuando en este delito los sujetos pasivos sean mujeres, niñas, niños, adolescentes o adultos mayores se impondrá una pena de cuatro a seis años de prisión al sujeto activo.
 
 > <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2016)</small>
 
@@ -4216,6 +4452,14 @@ Si en la ejecución de este delito se utiliza algún tipo de violencia, además 
 > <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN XIX], G.G. 29 DE NOVIEMBRE DE 2017)</small>
 
 Al que siendo empleado de una institución financiera participe en la comisión de este delito, se le impondrá además de la pena por el robo y de la agravante señalada en el primer párrafo de la presente fracción, de tres a cinco años de prisión y de cien a trescientos días multa.
+
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+XX. Cuando se cometa en contra de transeúnte, que se encuentre en la vía pública o en espacios abiertos que permitan el acceso público, se impondrán de uno a tres años de prisión.
+
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+En caso de reincidencia en las conductas previstas en el presente artículo, se impondrán, además de la que corresponda a la conducta realizada por el sujeto activo, de cuatro a ocho años de prisión y de cuatrocientos a mil días multa.
 
 ###### Artículo 291.
 
@@ -4289,7 +4533,7 @@ III. Cuando se cometa por el suegro contra el yerno o nuera o viceversa, por el 
 
 IV. Respecto a la persona que intervenga en el robo cometido por un ascendiente en contra de su descendiente o viceversa, por un cónyuge contra el otro, por el concubinario contra la concubina o viceversa y por el adoptante contra el adoptado o viceversa y sea ajeno a ellos.
 
-### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A REGIMEN EJIDAL O COMUNAL
+### CAPITULO VI. DAÑO EN LOS BIENES
 
 ###### Artículo 296.
 
@@ -4345,9 +4589,7 @@ I. Cuando se cometa por el suegro o suegra contra el yerno o nuera o por éstos 
 
 II. Respecto a la persona que intervenga en el abigeato cometido por un ascendiente en contra de su descendiente o por éste contra aquél, por un cónyuge contra el otro, por el concubinario contra la concubina o por ésta contra aquél o por el adoptante contra el adoptado o por éste contra aquél y sea ajena a ellos.
 
-### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
 
 ###### Artículo 302.
 
@@ -4393,9 +4635,7 @@ VI. Si por alguna circunstancia la cuantía del abuso de confianza no pudiere se
 
 El delito de abuso de confianza sólo se perseguirá por querella de la parte ofendida.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A REGIMEN EJIDAL O COMUNAL
 
 ###### Artículo 305.
 
@@ -4487,19 +4727,19 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO II. INCUMPLIMIENTO, EJERCICIO INDEBIDO Y ABANDONO DE FUNCIONES PUBLICAS
+### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
-> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 307 Bis.
 
 A la o el cónyuge o concubino, que sin causa justificada y en detrimento de la sociedad conyugal o del patrimonio común, generado durante el matrimonio o concubinato, oculte o transfiera por cualquier medio, o adquiera a nombre de terceros, los bienes de éstos, se le aplicará sanción de uno a cinco años de prisión, hasta trescientos días de multa y la reparación de daño.
 
-### CAPITULO III. COALICION
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO IV. ABUSO DE AUTORIDAD
+### CAPITULO II. INCUMPLIMIENTO, EJERCICIO INDEBIDO Y ABANDONO DE FUNCIONES PUBLICAS
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4521,7 +4761,7 @@ A los autores intelectuales, a quienes dirijan la invasión y a quienes instigue
 
 Si al realizarse el despojo se cometen otros delitos, aún sin la participación física de los autores intelectuales, de quienes dirijan la invasión e instigadores, se considerará a todos éstos, inculpados de los delitos cometidos.
 
-### CAPITULO V. USO ILICITO DE ATRIBUCIONES Y FACULTADES
+### CAPITULO III. COALICION
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4579,7 +4819,7 @@ II. De dos a siete años de prisión y de cincuenta a ciento setenta y cinco dí
 
 III. De tres a ocho años de prisión y de setenta y cinco a doscientos días multa, cuando se ocasione a bienes muebles o inmuebles, o documentos afectos a él, de manera que interrumpa el servicio público.
 
-### CAPITULO VI. CONCUSION
+### CAPITULO IV. ABUSO DE AUTORIDAD
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4603,7 +4843,7 @@ Al que sin permiso y fuera de los casos en que la ley lo permita, invada con án
 
 A los autores intelectuales, a quienes dirijan la invasión, y a quienes instiguen a la ocupación del inmueble, cuando la invasión se realice por dos o más personas se les impondrá de seis a doce años de prisión y de trescientos a mil días multa.
 
-### CAPITULO VII. INTIMIDACION
+### CAPITULO V. USO ILICITO DE ATRIBUCIONES Y FACULTADES
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4617,7 +4857,7 @@ A quienes compren, vendan o en cualquier forma transfieran o adquieran ilegalmen
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-### CAPITULO VIII. EJERCICIO ABUSIVO DE FUNCIONES
+### CAPITULO VI. CONCUSION
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4713,7 +4953,7 @@ Cuando la persona que realiza los actos jurídicos descritos en este delito, rev
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO IX. TRAFICO DE INFLUENCIA
+### CAPITULO VII. INTIMIDACION
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4759,7 +4999,7 @@ Cuando los delitos a que se refieren los artículos 332, 340, 341, 345, 346, 347
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO X. COHECHO
+### CAPITULO VIII. EJERCICIO ABUSIVO DE FUNCIONES
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4807,7 +5047,7 @@ Al servidor público, que sin causa justificada abandone sus funciones sin haber
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XI. PECULADO
+### CAPITULO IX. TRAFICO DE INFLUENCIA
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4819,7 +5059,7 @@ Al que cometa el delito de coalición de servidores públicos se le impondrán d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XII. ENRIQUECIMIENTO ILICITO
+### CAPITULO X. COHECHO
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4911,7 +5151,7 @@ II. De ocho a doce años de prisión y de mil a mil quinientos días multa, dest
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XIII. DELITOS COMETIDOS POR SERVIDORES PUBLICOS DE LA PROCURACION Y ADMINISTRACION DE JUSTICIA
+### CAPITULO XI. PECULADO
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4959,7 +5199,7 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrán
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XIV. DISPOSICIONES COMUNES
+### CAPITULO XII. ENRIQUECIMIENTO ILICITO
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -4975,6 +5215,10 @@ II. De tres a nueve años de prisión, de quinientos a un mil días multa y la d
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
+### CAPITULO XIII. DELITOS COMETIDOS POR SERVIDORES PUBLICOS DE LA PROCURACION Y ADMINISTRACION DE JUSTICIA
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
 ###### Artículo 343.
 
 Comete el delito de intimidación:
@@ -4986,6 +5230,10 @@ II. El servidor público que con motivo de la querella, denuncia o información 
 Al que cometa el delito de intimidación, se le impondrán de dos a nueve años de prisión, y de treinta a cien días multa y la destitución e inhabilitación que corresponda.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
+
+### CAPITULO XIV. DISPOSICIONES COMUNES
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
 ###### Artículo 344.
 
@@ -5217,13 +5465,99 @@ Además de las penas señaladas a los delitos de cohecho cometido por servidores
 
 ## TRANSITORIOS
 
-Primero.- El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- Publíquese el presente Código en la "Gaceta del Gobierno".
 
-Segundo.- Los casos no previstos en este ordenamiento serán resueltos por el Pleno de la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa.
+SEGUNDO.- Este Código, entrará en vigor cinco días después de su publicación en la "Gaceta del Gobierno".
 
-Tercero.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente ordenamiento.
+TERCERO.- Se abroga el Código Penal para el Estado de México publicado en la Gaceta del Gobierno el veintiséis de enero de mil novecientos ochenta y seis.
 
-Así lo acordó el Pleno de la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa, en sesión del día seis de julio de dos mil nueve, ordenándose su publicación en el Diario Oficial de la Federación.- Firman el Magistrado Francisco Cuevas Godínez, Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, y la licenciada Rosana Edith de la Peña Adame, Secretaria General de Acuerdos, quien da fe.- Rúbricas.
+CUARTO.- El Código abrogado seguirá aplicándose para los hechos u omisiones ejecutados durante su vigencia, a menos que conforme al nuevo Código, hayan dejado de considerarse como delitos o que los sujetos al mismo manifiesten su voluntad de acogerse, al presente ordenamiento como mas favorable.
+
+QUINTO.- El artículo 148, que se refiere al delito de prestación ilícita del servicio público de transporte de pasajeros, entrará en vigor a los tres años, a partir del inicio de la vigencia del presente decreto.
+
+Lo tendrá entendido el Gobernador Constitucional del Estado, haciendo que se publique y se cumpla.
+
+Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los veintinueve días del mes de febrero del dos mil.- Diputado Vicepresidente.- C. Gustavo Alonso Donis García.- Diputados Prosecretarios.- C. Rubén Colín Cortez.- C. Alfonso Rodríguez Tinajero.- Rúbricas.
+
+Por lo tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
+
+Toluca de Lerdo, Méx., a 17 de marzo del 2000.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
+
+ARTURO MONTIEL ROJAS
+
+(RUBRICA).
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+MANUEL CADENA MORALES
+
+(RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+
+G.G. 1 DE SEPTIEMBRE DE 2000.
+
+SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE CÓDIGO.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 3 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 1 DE ABRIL DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Las disposiciones contenidas en los artículos 91 y 295 del Código Penal del Estado de México, anteriores a esta reforma, se aplicarán respecto de los hechos u omisiones que hayan sido ejecutados durante su vigencia, a menos que los sujetos soliciten, en su beneficio, la aplicación de los preceptos normativos contenidos en el presente decreto.
+
+G.G. 28 DE JULIO DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 10 DE AGOSTO DE 2004.
+
+DECRETO NO. 55 QUE ADICIONA LA FRACCIÓN XI AL ARTICULO 136 DEL CÓDIGO PENAL PARA EL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese la presente Ley en el Periódico Oficial. "Gaceta del Gobierno".
+
+SEGUNDO.- La presente ley entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial, "Gaceta del Gobierno".
+
+TERCERO.- Se abroga la Ley del Registro de Antecedentes Penales y Administrativos del Estado de México.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+QUINTO.- El personal y bienes de la actual dirección de Servicios Periciales pasarán a formar parte del Instituto de Servicios Periciales en los términos y condiciones de la presente Ley.
+
+G.G. 10 DE AGOSTO DE 2004.
+
+DECRETO NO. 57 QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Las disposiciones contenidas en los artículos 23, 24, 176, 242, 243, 259, 261, 273, 274 y 290 del Código Penal, seguirán aplicándose para los hechos u omisiones ejecutados durante su vigencia.
+
+G.G. 27 DE OCTUBRE DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 26 DE NOVIEMBRE DE 2004.
+
+DECRETO 97 QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL
 
 ###### ARTICULO PRIMERO.
 
@@ -6646,3 +6980,19 @@ G.G. 19 DE SEPTIEMBRE DE 2018.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 20 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 333.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 48.- POR EL QUE SE REFORMA EL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
