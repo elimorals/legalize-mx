@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2019-05-18"
+last_updated: "2019-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TAB"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2019 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -448,6 +450,10 @@ El tratamiento en libertad, la semilibertad, la multa y el trabajo en favor de l
 La prisión consiste en la privación de la libertad personal. Ninguna punibilidad privativa de la libertad personal podrá ser menor de tres meses ni mayor de sesenta años. Su ejecución se llevará a cabo en las dependencias del Ejecutivo del Estado o del Ejecutivo Federal, conforme a lo dispuesto en la legislación correspondiente y a la resolución judicial respectiva.
 
 En toda pena de prisión se computará el tiempo de detención.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2019)</small>
+
+El límite máximo de la duración de la pena de privación de la libertad de hasta por sesenta años contemplada en el presente artículo no es aplicable para los delitos que se sancionen de conformidad con lo estipulado en otras leyes.
 
 > <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
@@ -2809,10 +2815,6 @@ Se aplicará prisión de dos a seis años al que tenga cópula con su descendien
 
 ### CAPITULO II. DESAPARICION FORZADA DE PERSONAS
 
-(NOTA: EL 14 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 126/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 24 DE AGOSTO DE 2017 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2017)</small>
-
 ###### Artículo 224.
 
 (DEROGADO, P.O. 23 DE DICIEMBRE DE 2015)
@@ -2983,7 +2985,7 @@ Para la individualización de las sanciones previstas en este Título, el juez t
 
 Cuando los delitos a que se refieren los artículos 234, 236, 239 y 242 del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policial, las penas previstas serán aumentadas hasta en una mitad.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 2017)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2019)</small>
 
 ### CAPITULO IX. TRAFICO DE INFLUENCIA
 
@@ -2991,37 +2993,19 @@ Cuando los delitos a que se refieren los artículos 234, 236, 239 y 242 del pres
 
 ###### Artículo 234.
 
-Comete el delito de desaparición forzada de personas, el servidor público que, independientemente de que haya participado en la detención legal o ilegal de una o varias personas, propicie o mantenga dolosamente su ocultamiento bajo cualquier forma de detención.
-
-(NOTA: EL 14 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 126/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 24 DE AGOSTO DE 2017 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 ###### Artículo 234 Bis.
 
-A quien cometa el delito de desaparición forzada de personas se le impondrá una pena de cinco a cuarenta años de prisión.
-
-Si la víctima fuere liberada espontáneamente dentro de los tres días siguientes a su detención la pena será de ocho meses a cuatro años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan, por sí mismos, delitos.
-
-Si la liberación de la víctima ocurriera dentro de los diez días siguientes a su detención, la pena aplicable será de dos a ocho años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan, por sí mismos, delitos.
-
-Estas penas podrán ser disminuidas hasta una tercera parte en beneficio de aquel que hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos; y hasta en una mitad, cuando contribuya a lograr la aparición de la víctima con vida.
-
-(NOTA: EL 14 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 126/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 24 DE AGOSTO DE 2017 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 ###### Artículo 234 Ter.
 
-Al servidor público que haya sido condenado por el delito de desaparición forzada de personas, además, se le destituirá del cargo y se le inhabilitará de uno a veinte años para desempeñar cualquier cargo, comisión o empleo públicos.
-
-(NOTA: EL 14 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 126/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 24 DE AGOSTO DE 2017 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 ###### Artículo 234 Quater.
 
-La oposición o negativa a la autoridad competente para tener libre e inmediato acceso al lugar donde haya motivos para creer que se pueda encontrar a una persona desaparecida, por parte del servidor público responsable del mismo, será sancionada con la destitución de su cargo, comisión o empleo, sin perjuicio de la aplicación de las penas de los demás delitos en que pudiera incurrir con motivo de su conducta.
+(DEROGADO, P.O. 12 DE JUNIO DE 2019)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 2017)</small>
 
@@ -5112,3 +5096,31 @@ P.O. 18 DE MAYO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 102 POR EL QUE “SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 18; Y SE DEROGA EL CAPÍTULO II DENOMINADO "DESAPARICIÓN FORZADA DE PERSONAS", DEL TÍTULO SEGUNDO "DELITOS CONTRA EL ERARIO Y EL SERVICIO PÚBLICOS (SIC), POR HECHOS DE CORRUPCIÓN", DE LA SECCIÓN TERCERA "DELITOS CONTRA LA SOCIEDAD", DEL LIBRO SEGUNDO, CONFORMADO POR LOS ARTÍCULOS 234, 234 BIS, 234 TER, 234 QUATER; TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales, posteriores a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Fiscalía Estatal, deberá realizar las adecuaciones normativas conducentes, a efectos de ajustar su estructura y actuaciones conforme a las disposiciones contenidas en este Decreto, dentro de los sesenta días hábiles, siguientes a su entrada en vigor.
+
+TERCERO. El titular del Poder Ejecutivo del Estado deberá emitir el Reglamento Interior de la Comisión Estatal de Búsqueda, en un plazo no mayor a los 60 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. Dentro de los noventa días hábiles posteriores a la entrada en vigor de la presente Ley, deberán ser nombrados, por el Congreso del Estado, los integrantes del Consejo Estatal Ciudadano, previa convocatoria pública y procedimiento establecido en la presente Ley.
+
+En un plazo de treinta días posteriores a su conformación e inicio de funciones el Consejo Estatal Ciudadano deberá emitir sus reglas de funcionamiento.
+
+QUINTO. En un plazo que no exceda de treinta días posteriores al nombramiento del Consejo Estatal Ciudadano, el Titular del Ejecutivo del Estado nombrará al titular de la Comisión Estatal de Búsqueda, atendiendo a lo previsto en esta Ley.
+
+SEXTO. Dentro de los treinta días posteriores a la entrada en vigor del presente Decreto, deberá expedirse la normatividad correspondiente estatal y municipal, así como las reformas a la Ley Orgánica de la Fiscalía General del Estado de Tabasco y al Código Penal para el Estado de Tabasco y demás leyes que sean necesarias, para armonizarlas a las disposiciones contenidas en la presente Ley.
+
+SÉPTIMO. La Fiscalía Estatal deberá reformar su Reglamento Interior y demás ordenamientos internos para armonizarlo (sic) a las disposiciones contenidas en la presente Ley.
+
+OCTAVO. El titular del Poder Ejecutivo Estatal, deberá realizar las transferencias y asignaciones presupuestales que sean necesarias para la instalación e inicio de funciones de los órganos a que se refiere la presente Ley, conforme las solicitudes que al efecto le realicen las instancias competentes, debiendo anualmente programar los recursos respectivos.
+
+NOVENO. En tanto comiencen a operar los registros de Personas Desaparecidas y No Localizadas, la Fiscalía Estatal deberá incorporar en un registro provisional, electrónico o impreso, la información de los Reportes, Denuncias o Noticias recibidas conforme a lo que establece el artículo 106 de la Ley General y la presente Ley.
+
+Asimismo, se deberá migrar la información contenida en los registros provisionales a que se refiere el párrafo anterior, dentro de los quince días siguientes a que comiencen a operar los registros de Personas Desaparecidas y No Localizadas.
+
+DÉCIMO. A partir de la entrada en vigor del presente Decreto, quedan derogadas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
