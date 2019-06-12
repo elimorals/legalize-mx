@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-trabajadores-al-servicio-del-estado-de-tabasco-7837"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-31"
-last_updated: "2018-12-26"
+last_updated: "2019-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2019 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de marzo de 1990.
 
@@ -197,7 +199,15 @@ III.- La prisión preventiva del trabajador seguida de formal prisión, o el arr
 
 IV.- Los trabajadores que tengan encomendado manejo de fondos, valores o bienes, podrán ser suspendidos por el jefe superior de su área de adscripción cuando apareciera alguna irregularidad en su gestión, mientras se practica la investigación y se resuelve sobre su responsabilidad;
 
-V.- La corrección disciplinaria.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2019)</small>
+
+V.- La corrección disciplinaria; y
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2019)</small>
+
+VI.- En caso de que la trabajadora o el trabajador tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia, se procederá observando lo establecido en la legislación especial en la materia.
+
+No se podrá dar de baja o terminar la relación laboral de una trabajadora o un trabajador que tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia.
 
 ### CAPITULO IV. DE LA TERMINACION DE LA RELACION DE TRABAJO
 
@@ -911,7 +921,13 @@ I.- Contra los incapacitados mentales, sino cuando se haya discernido su tutela 
 
 II.- Contra los trabajadores incorporados al Servicio Militar, en tiempo de guerra; y
 
-III.- Durante el lapso en que el trabajador se encuentre privado de su libertad, siempre que resulte absuelto por sentencia ejecutoriada.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2019)</small>
+
+III.- Durante el lapso en que el trabajador se encuentre privado de su libertad, siempre que resulte absuelto por sentencia ejecutoriada; y
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2019)</small>
+
+IV.- Contra la trabajadora o el trabajador que tenga la calidad de desaparecido y cuente con Declaración Especial de Ausencia, en términos de la legislación especial en la materia.
 
 ###### ARTICULO 101.
 
@@ -1328,3 +1344,31 @@ P.O. 26 DE DICIEMBRE DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 102 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 19, FRACCIÓN V; Y 100, FRACCIÓN III; Y SE ADICIONAN LA FRACCIÓN VI AL ARTÍCULO 19; Y LA FRACCIÓN IV AL ARTÍCULO 100; TODOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales, posteriores a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Fiscalía Estatal, deberá realizar las adecuaciones normativas conducentes, a efectos de ajustar su estructura y actuaciones conforme a las disposiciones contenidas en este Decreto, dentro de los sesenta días hábiles, siguientes a su entrada en vigor.
+
+TERCERO. El titular del Poder Ejecutivo del Estado deberá emitir el Reglamento Interior de la Comisión Estatal de Búsqueda, en un plazo no mayor a los 60 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. Dentro de los noventa días hábiles posteriores a la entrada en vigor de la presente Ley, deberán ser nombrados, por el Congreso del Estado, los integrantes del Consejo Estatal Ciudadano, previa convocatoria pública y procedimiento establecido en la presente Ley.
+
+En un plazo de treinta días posteriores a su conformación e inicio de funciones el Consejo Estatal Ciudadano deberá emitir sus reglas de funcionamiento.
+
+QUINTO. En un plazo que no exceda de treinta días posteriores al nombramiento del Consejo Estatal Ciudadano, el Titular del Ejecutivo del Estado nombrará al titular de la Comisión Estatal de Búsqueda, atendiendo a lo previsto en esta Ley.
+
+SEXTO. Dentro de los treinta días posteriores a la entrada en vigor del presente Decreto, deberá expedirse la normatividad correspondiente estatal y municipal, así como las reformas a la Ley Orgánica de la Fiscalía General del Estado de Tabasco y al Código Penal para el Estado de Tabasco y demás leyes que sean necesarias, para armonizarlas a las disposiciones contenidas en la presente Ley.
+
+SÉPTIMO. La Fiscalía Estatal deberá reformar su Reglamento Interior y demás ordenamientos internos para armonizarlo a las disposiciones contenidas en la presente Ley.
+
+OCTAVO. El titular del Poder Ejecutivo Estatal, deberá realizar las transferencias y asignaciones presupuestales que sean necesarias para la instalación e inicio de funciones de los órganos a que se refiere la presente Ley, conforme las solicitudes que al efecto le realicen las instancias competentes, debiendo anualmente programar los recursos respectivos.
+
+NOVENO. En tanto comiencen a operar los registros de Personas Desaparecidas y No Localizadas, la Fiscalía Estatal deberá incorporar en un registro provisional, electrónico o impreso, la información de los Reportes, Denuncias o Noticias recibidas conforme a lo que establece el artículo 106 de la Ley General y la presente Ley.
+
+Asimismo, se deberá migrar la información contenida en los registros provisionales a que se refiere el párrafo anterior, dentro de los quince días siguientes a que comiencen a operar los registros de Personas Desaparecidas y No Localizadas.
+
+DÉCIMO. A partir de la entrada en vigor del presente Decreto, quedan derogadas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
