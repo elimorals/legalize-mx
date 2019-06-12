@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2018-09-19"
+last_updated: "2019-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JUNIO DE 2019.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1245,9 +1245,9 @@ C). A los miembros sustitutos de los ayuntamientos para cubrir las faltas absolu
 
 Los integrantes de los concejos municipales y de los ayuntamientos provisionales, así como los miembros sustitutos de los ayuntamientos, deberán cumplir los requisitos de elegibilidad establecidos para los miembros de los ayuntamientos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE JUNIO DE 2019)</small>
 
-XXX. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal a iniciativa del Ejecutivo, tanto la Ley de Ingresos del Estado, que establezca las contribuciones de los habitantes como el presupuesto de egresos que distribuya el gasto público y disponer las medidas apropiadas para vigilar su correcta aplicación.
+XXX. Aprobar anualmente el Presupuesto de Egresos del Estado, previo examen, discusión y, en su caso, modificación del Proyecto enviado por el Ejecutivo Estatal, una vez aprobadas las contribuciones establecidas en la Ley de Ingresos del Estado, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal. En el Presupuesto de Egresos se dispondrá de las medidas apropiadas para vigilar su correcta aplicación.
 
 > <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
 
@@ -1293,9 +1293,9 @@ Si cumplido el plazo que corresponda no se hubiere aprobado el ordenamiento jur�
 
 Si llegado el 31 de enero no se hubiese aprobado la Ley de Ingresos de los Municipios correspondiente al ejercicio fiscal en transcurso, se turnará al Pleno de la Legislatura para su votación la iniciativa que en su momento hubiese mandado el Titular del Ejecutivo.
 
-> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE JUNIO DE 2019)</small>
 
-XXXII. Recibir, revisar y fiscalizar las cuentas públicas del Estado y de los Municipios, del año anterior, mismas que incluirán, en su caso, la información correspondiente a los Poderes Públicos, organismos autónomos, organismos auxiliares, fideicomisos públicos o privados y demás entes públicos que manejen recursos del Estado y Municipios. Para tal efecto, contará con un Órgano Superior de Fiscalización, dotado de autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la legislación aplicable.
+XXXII. Recibir, revisar, fiscalizar y calificar las cuentas públicas del Estado y de los Municipios, del año anterior, mismas que incluirán, en su caso, la información correspondiente a los Poderes Públicos, organismos autónomos, organismos auxiliares, fideicomisos públicos o privados y demás entes públicos que manejen recursos del Estado y Municipios. Para tal efecto, contará con un Órgano Superior de Fiscalización, dotado de autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la legislación aplicable.
 
 > <small>(REFORMADO, G.G. 24 DE ABRIL DE 2017)</small>
 
@@ -1305,7 +1305,11 @@ La función de fiscalización se desarrollará conforme a los principios de lega
 
 El Órgano Superior de Fiscalización del Estado de México deberá entregar a la Legislatura un informe de resultados y los informes de auditoría que correspondan, dichos informes serán de carácter público y se presentarán en los términos y con el contenido que determine la Ley.
 
+> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2010)</small>
+
 El Auditor Superior de Fiscalización será designado y removido por el voto de las dos terceras partes de los miembros presentes de la Legislatura, a propuesta de la Junta de Coordinación Política.
+
+> <small>(REFORMADA, G.G. 7 DE JUNIO DE 2010)</small>
 
 El Auditor Superior de Fiscalización durará en su encargo ocho años y podrá ser nombrado nuevamente por una sola vez, por el voto de las dos terceras partes de los miembros presentes de la Legislatura, y deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades;
 
@@ -4614,3 +4618,27 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor en la misma fecha en que lo hagan las reformas legales que expida el Congreso de la Unión correspondientes al Decreto por el que se declaran reformadas y adicionadas diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de justicia laboral, publicado en el Diario Oficial de la Federación el 24 de febrero de 2017.
 
 TERCERO. El régimen transitorio del presente Decreto se sujetara a lo previsto en las reformas expedidas por el Congreso de la Unión, referidas en el transitorio anterior.
+
+G.G. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 53.- POR EL QUE SE DECLARA APROBADA LA REFORMA AL PÁRRAFO PRIMERO DE LA FRACCIÓN XXXII DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 64.- POR EL QUE SE DECLARA APROBADA LA REFORMA AL ARTÍCULO 61 FRACCIÓN XXX DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
