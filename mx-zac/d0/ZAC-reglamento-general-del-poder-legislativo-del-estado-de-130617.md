@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-130617"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-09-05"
-last_updated: "2019-01-12"
+last_updated: "2019-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019.
 
 Reglamento publicado en el Suplemento 2 al Número 71 del Periódico Oficial del Estado de Zacatecas, el miércoles 5 de septiembre de 2018.
 
@@ -345,6 +345,10 @@ La Comisión de Régimen Interno es el órgano plural y colegiado de gobierno pe
 
 Los Grupos Parlamentarios deberán nombrar, de entre sus miembros, un subcoordinador que suplirá las ausencias del Coordinador.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2019)</small>
+
+Los diputados que integren la Comisión de Régimen Interno y Concertación Política no podrán formar parte de otra Comisión de Gobierno o administración.
+
 ###### Artículo 38.
 
 La Comisión de Régimen Interno tendrá las atribuciones señaladas en el artículo 120 de la Ley.
@@ -398,6 +402,10 @@ IV. Las demás que indique el Presidente de la Comisión de Régimen Interno o e
 ###### Artículo 43.
 
 La Comisión de Planeación se integrará por dos diputados de cada Grupo Parlamentario. La Presidencia de la Comisión será rotativa, se reunirá, por lo menos, una vez por semana y tendrá las atribuciones señaladas en el artículo 129 de la Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2019)</small>
+
+Los integrantes de la Comisión de Planeación, Patrimonio y Finanzas no podrán formar parte de otra Comisión de Gobierno o administración.
 
 ###### Artículo 44.
 
@@ -2740,3 +2748,11 @@ P.O. 12 DE ENERO DE 2019.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 143.- SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 117 Y 129 DE LA LEY ORGÁNICA, ASÍ COMO LOS ARTÍCULOS 37 Y 43 DEL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo. En un plazo que no exceda de cinco días naturales, contados a partir de la publicación del presente Decreto, los Grupos Parlamentarios deberán ratificar o en su caso remover a los legisladores que integren la Comisión de Régimen Interno y Concertación Política y la Comisión de Planeación, Patrimonio y Finanzas, y que se encuentren en los supuestos legales señalados en la reforma de mérito, en términos del presente instrumento legislativo.
