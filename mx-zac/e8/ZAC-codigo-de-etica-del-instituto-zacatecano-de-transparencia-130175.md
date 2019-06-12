@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-etica-del-instituto-zacatecano-de-transparencia-13017
 country: "mx"
 rank: "codigo"
 publication_date: "2018-08-11"
-last_updated: "2018-08-11"
+last_updated: "2019-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130175&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "ZAC"
 ---
 # CODIGO DE ETICA DEL INSTITUTO ZACATECANO DE TRANSPARENCIA, ACCESO A LA INFORMACION Y PROTECCION DE DATOS PERSONALES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL IZAI, PUBLICADO EN EL P.O. 12 DE JUNIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL INSTITUTO ZACATECANO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019 (ABROGADO).
 
 Código publicado en el Periódico Oficial del estado de Zacatecas, el sábado 11 de agosto de 2018.
 
@@ -421,3 +423,13 @@ Naturaleza del Comité de Ética
 Es el órgano colegiado de promoción, consulta y asesoría en temas relacionados con el presente Código, integrado al interior del Instituto. Además, se encarga de la oportuna, imparcial y correcta aplicación del Protocolo de actuación frente a casos que involucren violencia en el trabajo, incluyendo el hostigamiento y el acoso laboral y/o sexual y la discriminación en el Instituto, así como del análisis y propuesta al Pleno de la Institución, de acciones estructurales y de políticas internas para garantizar la inexistencia de violencia laboral.
 
 Así lo acordó por unanimidad de votos, el Pleno del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, en sesión ordinaria de fecha tres (03) de julio del año dos mil dieciocho (2018), con fundamento en lo previsto en el artículo 130 fracción IX de la Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas.- El C. Comisionado Presidente, C.P. José Antonio de la Torre Dueñas (Rúbrica).- C. Comisionada. Dra. Norma Julieta del Río Venegas (Rúbrica).- C. Comisionado, Mtro. Samuel Montoya Álvarez (Rúbrica).- Ante el Secretario Ejecutivo, C. Mtro. Víctor Hugo Hernández Reyes. (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL IZAI”.]
+
+Artículo Primero. El presente Código de Ética entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
+
+Artículo Segundo. Se deroga el Código de Ética, publicado en el suplemento Número 64 del Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas, correspondiente al día 11 de Agosto del 2018.
