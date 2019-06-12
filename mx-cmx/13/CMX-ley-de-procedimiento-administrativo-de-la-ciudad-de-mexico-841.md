@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-procedimiento-administrativo-de-la-ciudad-de-mexico-841"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2018-02-26"
+last_updated: "2019-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=841&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1995-12-14"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 26 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 12 DE JUNIO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 21 de diciembre de 1995.
 
@@ -70,9 +70,9 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I. Acto Administrativo: Declaración unilateral de voluntad, externa, concreta y ejecutiva, emanada de la Administración Pública de la Ciudad de México, en el ejercicio de las facultades que le son conferidas por los ordenamientos jurídicos, que tiene por objeto crear, transmitir, modificar, reconocer o extinguir una situación jurídica concreta, cuya finalidad es la satisfacción del interés general.
 
-> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2019)</small>
 
-II. Administración Pública: Dependencias y entidades que integran a la Administración Central y Paraestatal de la Ciudad de México, en los términos de la Ley Orgánica de la Administración Pública de la Ciudad de México;
+II. Administración Pública: Dependencias y entidades que integran a la Administración Central y Paraestatal de la Ciudad de México, en los términos de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
 
 III. Afirmativa ficta: Figura jurídica por virtud de la cual, ante la omisión de la autoridad de emitir una resolución de manera expresa, dentro de los plazos previstos por esta Ley o los ordenamientos jurídicos aplicables al caso concreto, se entiende que resuelve lo solicitado por el particular, en sentido afirmativo;
 
@@ -112,9 +112,9 @@ XIV. Interlocutoria: Resolución que se dicta dentro del procedimiento administr
 
 XV. Ley: Ley de Procedimiento Administrativo de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2019)</small>
 
-XVI. Ley Orgánica: Ley Orgánica de la Administración Pública de la Ciudad de México;
+XVI. Ley Orgánica: Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México;
 
 XVII. Ley de Responsabilidades: Ley Federal de Responsabilidades de los Servidores Públicos;
 
@@ -152,67 +152,47 @@ XXVII. Tribunal: Tribunal de Justicia Administrativa de la Ciudad de México.
 
 La Administración Pública de la Ciudad de México ajustará su actuación a la Ley, conforme a los principios de descentralización, desconcentración, coordinación, cooperación, eficiencia, eficacia; ética, austeridad, racionalidad, transparencia, apertura, responsabilidad, la participación ciudadana y la rendición de cuentas con control de la gestión y evaluación, debiendo abstenerse de comportamientos que impliquen vías de hecho administrativa (sic) contrarias a los Derechos Humanos y garantías constitucionales, a las disposiciones previstas en esta Ley o en otros ordenamientos jurídicos.
 
-> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 4o.
 
-La presente Ley se aplicará de manera supletoria a los diversos ordenamientos jurídicos que regulan a la Administración Pública de la Ciudad de México; excepto en lo siguiente: en lo relativo al recurso de Inconformidad previsto en esta Ley, que se aplicará a pesar de lo que en contrario dispongan los diversos ordenamientos jurídicos; en lo que respecta a las Visitas de Verificación, las cuales se sujetarán a lo previsto por esta Ley y el Reglamento que al efecto se expida, en las materias que expresamente contemple este último ordenamiento; y en lo referente al procedimiento de revalidación de licencias, autorizaciones o permisos, así como a las declaraciones y registros previstos en el artículo 35 de esta Ley.
+La presente Ley se aplicará de manera supletoria a los diversos ordenamientos jurídicos que regulan a la Administración Pública de la Ciudad de México; excepto en lo siguiente: en lo relativo al recurso de Inconformidad previsto en esta Ley, que se aplicará a pesar de lo que en contrario dispongan los diversos ordenamientos jurídicos; en lo que respecta a las Visitas de Verificación, las cuales se sujetarán a lo previsto por esta Ley, en las materias que expresamente contemple este último ordenamiento; y en lo referente al procedimiento de revalidación de licencias, autorizaciones o permisos, así como a las declaraciones y registros previstos en el artículo 35 de esta Ley.
 
-A falta de disposición expresa y en cuanto no se oponga a lo que prescribe esta Ley, se estará, en lo que resulte aplicable, a lo dispuesto por el Código de Procedimientos Civiles para la Ciudad de México, respecto a las instituciones reguladas por esta Ley.
+A falta de disposición expresa y en cuanto no se oponga a lo que prescribe esta Ley, se estará, en lo que resulte aplicable, a lo dispuesto por el Código de Procedimientos Civiles para la Ciudad de México, y la Ley que regule al Instituto de Verificación Administrativa de la Ciudad de México y su Reglamento, respecto a las instituciones reguladas por esta Ley.
 
 ###### Artículo 5o.
 
 El procedimiento administrativo que establece la presente Ley se regirá por los principios de simplificación, agilidad, información, precisión, legalidad, transparencia, imparcialidad y buena fe.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 5o Bis.
 
-Las dependencias, órganos desconcentrados, entidades y órganos político-administrativos que lleven a cabo visitas de verificación deberán capacitar constantemente a los verificadores administrativos en la materia relativa a su función.
+Las dependencias, órganos desconcentrados, entidades y órganos político-administrativos que lleven a cabo visitas de verificación deberán constatar que las personas verificadoras administrativas adscritas a ellos, cuenten con la capacitación necesaria en la materia relativa a su función.
 
-> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+El personal encargado de la verificación administrativa será en todo momento personal con código de confianza adscrito al Instituto de Verificación Administrativa de la Ciudad de México y asignado a cada una de las autoridades citadas en este artículo, de conformidad con la Ley que regule al Instituto citado.
 
-El personal encargado de la verificación administrativa relativa a los establecimientos mercantiles de las Alcaldías serán (sic) en todo momento personal con código de confianza.
+Independientemente de las identificaciones que expida el Instituto de Verificación Administrativa de la Ciudad de México, cada dependencia, órgano desconcentrado, entidades y órganos político-administrativos expedirán las credenciales que acrediten a las personas verificadoras que le hayan sido asignados, con una vigencia no mayor a seis meses a partir de que le fueron adscritos para realizar dicha actividad.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
+Dichas credenciales contendrán, por lo menos, lo siguiente:
 
-Cada dependencia, órgano desconcentrado, entidades y órganos político-administrativos expedirán las credenciales que acrediten a sus verificadores para realizar dicha actividad. Dichas credenciales contendrán, por lo menos, lo siguiente:
-
-> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
-
-I. Nombre, firma y fotografía a color del verificador;
-
-> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
+I. Nombre, firma y fotografía a color de la persona verificadora;
 
 II. Número, fecha de expedición y vigencia de la credencial, que no podrá ser mayor a un año;
 
-> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
-
 III. Nombre y firma del titular de la autoridad a la que se encuentre adscrito el verificador;
-
-> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 IV. Logotipo Oficial del Gobierno de la Ciudad de México, y
 
-> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
-
-V. Número telefónico de la Contraloría Interna de la autoridad, así como de la Contraloría General del Gobierno de la Ciudad de México.
-
-> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
+V. Número telefónico de la Contraloría Interna de la autoridad, así como de la Secretaría de la Contraloría General del Gobierno de la Ciudad de México.
 
 Estas credenciales además, deberán contener, de manera clara y visible, por ambos lados, la leyenda siguiente: "Esta credencial exclusivamente autoriza a su portador a ejecutar las órdenes escritas emitidas por la autoridad competente."
 
-> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
+Reunidos los anteriores requisitos la credencial será válida y deberá ser renovada cada año. En el sitio web de cada dependencia, órgano desconcentrado, entidades y órganos político-administrativos se publicará el padrón de verificadores, el cual debe coincidir con el que publique el Instituto de Verificación Administrativa de la Ciudad de México.
 
-Reunidos los anteriores requisitos la credencial será válida y deberá ser renovada cada año. En el sitio web de cada dependencia, órgano desconcentrado, entidades y órganos político-administrativos se publicará el padrón de verificadores.
+La Secretaría de Administración y Finanzas de la Ciudad de México emitirá los lineamientos generales relativo (sic) al formato de la credencial y llevará un padrón de verificadores habilitados en la Ciudad de México, para tal efecto el Instituto de Verificación Administrativa de la Ciudad de México remitirá el padrón de verificadores y su asignación, cada que haya una rotación de éstos, de conformidad con la Ley de dicho Instituto.
 
-> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
-
-La oficialía mayor emitirá los lineamientos generales relativo al formato de la credencial y llevará un padrón de verificadores habilitados en la Ciudad de México, para tal efecto cada dependencia, órgano desconcentrado, entidad y órganos político-administrativos, le remitirá el padrón de sus verificadores.
-
-> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
-
-Una vez expedida la credencial, el verificador podrá ejecutar las diligencias que le sean encomendadas.
+Una vez expedida la credencial, por parte del Instituto de Verificación Administrativa de la Ciudad de México, la persona verificadora podrá ejecutar las diligencias que le sean encomendadas.
 
 ## TITULO SEGUNDO. DE LOS ACTOS ADMINISTRATIVOS
 
@@ -286,7 +266,9 @@ Se exceptúan de lo dispuesto en el artículo anterior, los siguientes actos adm
 
 I. Los que otorguen un beneficio, licencia, permiso o autorización al interesado, en cuyo caso su cumplimiento será exigible a partir de la fecha de su emisión, de la certificación de su configuración tratándose de afirmativa ficta o de aquella que tenga señalada para iniciar su vigencia; y
 
-II. Los actos en virtud de los cuales se realicen actos de inspección, investigación o vigilancia, en los términos de esta Ley y demás disposiciones normativas aplicables. En este supuesto, dichos actos serán exigibles desde la fecha en que los expida la Administración Pública del Distrito Federal.
+> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2019)</small>
+
+II. Los actos en virtud de los cuales se realicen actos de inspección, investigación o vigilancia, en los términos de esta Ley y demás disposiciones normativas aplicables. En este supuesto, dichos actos serán exigibles desde la fecha en que los expida la Administración Pública de la Ciudad de México.
 
 > <small>[N. DE E. EL TEXTO DEL PRESENTE PÁRRAFO ES SIMILAR A LA PARTE FINAL DE LA ACTUAL FRACCIÓN II.]</small>
 
@@ -376,9 +358,9 @@ IV.- Cuando los propietarios o poseedores hubieran construido en contravención 
 
 V.- Cuando los propietarios de terrenos sin edificar se abstengan de conservarlos libres de maleza y basura.
 
-> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
 
-El costo de la ejecución forzosa se considera crédito fiscal, en los términos del Código Financiero de la Ciudad de México.
+El costo de la ejecución forzosa se considera crédito fiscal, en los términos del Código Fiscal de la Ciudad de México.
 
 ###### Artículo 15.
 
@@ -396,7 +378,9 @@ La ejecución directa del acto por la Administración Pública de la Ciudad de M
 
 En estos casos deberá hacerse un previo apercibimiento al propietario, poseedor o tenedor de la cosa, si éste estuviere presente en el lugar en tal momento, para que lo retire con sus propios medios; sí éste no estuviere presente, o si estándolo se negara a cumplir el acto o no lo cumpliere dentro de un plazo razonable que se le fijará al efecto, podrá procederse a la ejecución del acto que ordena su remoción quedando obligado el propietario, poseedor o tenedor a pagar los gastos de ejecución en que hubiere incurrido la Administración Pública de la Ciudad de México.
 
-Cuando el acto que se ejecute directamente fuere invalidado por autoridad competente, corresponderá a la Administración Pública de la Ciudad de México restituir lo que hubiere cobrado de gastos de ejecución en los términos previstos por el Código Financiero de la Ciudad de México.
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
+
+Cuando el acto que se ejecute directamente fuere invalidado por autoridad competente, corresponderá a la Administración Pública de la Ciudad de México restituir lo que hubiere cobrado de gastos de ejecución en los términos previstos por el Código Fiscal de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
@@ -410,27 +394,23 @@ También será admisible la ejecución directa por la Administración Pública d
 
 En caso de no existir causales que excluyan su responsabilidad o vencido el plazo señalado en el artículo 18 de esta Ley sin que hayan ejecutado los trabajos, la autoridad practicará diligencias de visita domiciliaria a efecto de constatar la omisión y procederá a realizar directamente la ejecución de los actos.
 
-> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 19 Bis.
 
 La autoridad administrativa competente, para hacer cumplir sus determinaciones podrá emplear indistintamente, cualquiera de las siguientes medidas de apremio:
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+I. Multa, por el equivalente a entre treinta y sesenta veces la Unidad de Medida y Actualización, valor diario, vigente en el momento y en el lugar donde se realizó la conducta que motivo el medio de apremio;
 
-I.- Multa, por el equivalente a entre treinta y sesenta veces la Unidad de Cuenta de la Ciudad de México vigente en el momento y en el lugar donde se realizó la conducta que motivo el medio de apremio;
+II. Auxilio de la Fuerza Pública, y
 
-II.- Auxilio de la Fuerza Pública, y
-
-III.- Arresto hasta por treinta y seis horas inconmutable.
+III. Arresto hasta por treinta y seis horas inconmutable.
 
 Si resultaran insuficientes las medidas de apremio se procederá contra el rebelde por el delito de desobediencia y resistencia de particulares.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Las personas verificadoras administrativas comisionadas y la autoridad competente están obligados a denunciar los hechos probablemente constitutivo (sic) de delitos y continuar el procedimiento penal en todas sus etapas hasta su conclusión.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE ENERO DE 2009)</small>
-
-Los verificadores administrativos comisionados y la autoridad competente están obligados a denunciar los hechos probablemente constitutivo de delitos y continuar el procedimiento penal en todas sus etapas hasta su conclusión.
+Cuando en un procedimiento de verificación administrativa se imponga una suspensión o clausura en cualquiera de sus modalidades, será la Alcaldía y el Instituto de Verificación Administrativa de la Ciudad de México, en sus respectivos ámbitos de su competencia, los responsables de vigilar su cumplimiento hasta que la autoridad competente emita un acto administrativo que modifique dicho estatus.
 
 ###### Artículo 20.
 
@@ -556,6 +536,10 @@ El procedimiento administrativo podrá iniciarse de oficio o a petición del int
 
 Las manifestaciones, informes o declaraciones rendidas por los interesados a la autoridad competente, así como los documentos aportados, se presumirán ciertos salvo prueba en contrario, y estarán sujetos en todo momento a la verificación de la autoridad. Si dichos informes, declaraciones o documentos resultan falsos, serán sujetos a las penas en que incurran aquellos que se conduzcan con falsedad de acuerdo con los ordenamientos legales aplicables. La actuación administrativa de la autoridad y la de los interesados se sujetarán al principio de buena fe.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 12 DE JUNIO DE 2019)</small>
+
+Tratándose de procedimientos administrativos iniciados de oficio, transcurrido el plazo de tres meses sin que la administración pública de la Ciudad de México haya (sic) la resolución correspondiente se producirá la caducidad del mismo.
+
 > <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 33.
@@ -604,15 +588,19 @@ Las actuaciones, ocursos o informes que realicen las dependencias, entidades o l
 
 Los incidentes que surjan dentro del procedimiento administrativo, se tramitarán de acuerdo a lo que establece esta Ley.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 39.
 
-La Administración Pública de la Ciudad de México, en sus relaciones con los particulares, tendrá las siguientes obligaciones:
+La Administración Pública de la Ciudad de México, en sus relaciones con las y los particulares, tendrá las siguientes obligaciones:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 12 DE JUNIO DE 2019)</small>
 
 I. Solicitar la comparecencia de éstos, sólo cuando así esté previsto en los ordenamientos jurídicos aplicables, previa citación en la que se hará constar expresamente el lugar, fecha, hora y objeto de la comparecencia, así como los efectos de no atenderla;
 
-II. Requerir informes, documentos y otros datos durante la realización de visitas de verificación, sólo en aquellos casos previstos por esta ley o en las demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2019)</small>
+
+II. Requerir informes, documentos y otros datos durante la realización de visitas de verificación, sólo en aquellos casos previstos por esta ley o en las demás disposiciones jurídicas aplicables, y siempre que así vaya establecido como objeto y alcance en la Orden correspondiente;
 
 III. Hacer del conocimiento de éstos, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan interés legítimo; y a proporcionar copia de los documentos contenidos en ellos;
 
@@ -624,11 +612,13 @@ VI. Abstenerse de requerir documentos o solicitar información que no sean exigi
 
 VII. Proporcionar información y orientar acerca de los requisitos jurídicos o técnicos que las disposiciones jurídicas aplicables impongan a los proyectos, actuaciones o solicitudes que se propongan realizar;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 12 DE JUNIO DE 2019)</small>
+
 VIII. Permitir el acceso a sus registros y archivos en los términos previstos en ésta u otras leyes.
 
-> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
 
-El acceso a los archivos y registros derivados de información obtenida con equipos y sistemas tecnológicos por la Secretaría de Seguridad Pública y sus productos de inteligencia para la prevención de los delitos, por su carácter relevante para la seguridad pública de la Ciudad de México, deberá permitirse o restringirse y presentarse en los formatos que establece la Ley que regula el uso de tecnología para la Seguridad Pública y la Ley de Transparencia y Acceso a la Información Pública, ambas de la Ciudad de México;
+El acceso a los archivos y registros derivados de información obtenida con equipos y sistemas tecnológicos por la Secretaría de Seguridad Ciudadana y sus productos de inteligencia para la prevención de los delitos, por su carácter relevante para la seguridad pública de la Ciudad de México, deberá permitirse o restringirse y presentarse en los formatos que establece la Ley que regula el uso de tecnología para la Seguridad Pública y la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas, ambas de la Ciudad de México;
 
 IX. Tratar con respeto a los particulares y a facilitar el ejercicio de sus derechos y el cumplimiento de sus obligaciones;
 
@@ -764,25 +754,23 @@ En los procedimientos administrativos se admitirán toda clase de pruebas, excep
 
 Las pruebas supervenientes podrán ofrecerse hasta antes de que se dicte resolución en el procedimiento administrativo.
 
-> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
 
-Cuando en el procedimiento obren pruebas obtenidas por la Secretaría de Seguridad Pública de la Ciudad de México con equipos y sistemas tecnológicos, las mismas se recabarán, apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública de la Ciudad de México.
+Cuando en el procedimiento obren pruebas obtenidas por la Secretaría de Seguridad Ciudadana de la Ciudad de México con equipos y sistemas tecnológicos, las mismas se recabarán, apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública de la Ciudad de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 57.
 
-Con el escrito inicial se deberán ofrecer pruebas, siempre que la naturaleza del asunto así lo exija y lo prescriban las normas; y cuando en los ordenamientos jurídicos aplicables o en el Manual, no esté detallado expresamente el debido proceso legal, se seguirá el procedimiento que se establece en esta Ley. La autoridad competente acordará dentro de los tres días hábiles siguientes el ofrecimiento de las pruebas, señalando día y hora para la celebración de la audiencia de admisión y desahogo de pruebas y alegatos, misma que deberá verificarse dentro de los siete días hábiles siguientes a que se notifique el acuerdo en el que se admitan las pruebas. Sólo en caso de que se requiera la opinión de otra dependencia o entidad, la audiencia podrá fijarse en un plazo mayor al señalado, que no podrá exceder, en todo caso, de veinte días hábiles.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Con el escrito inicial se deberán ofrecer pruebas, siempre que la naturaleza del asunto así lo exija y lo prescriban las normas; y cuando en los ordenamientos jurídicos aplicables o en el Manual, no este detallado expresamente el debido proceso legal, se seguirá el procedimiento que se establece en esta Ley. La autoridad competente acordará dentro de los tres días hábiles siguientes el ofrecimiento de las pruebas, señalando día y hora para la celebración de la audiencia de admisión y desahogo de pruebas y de alegatos, misma que deberá de verificarse dentro de los veinte días hábiles siguientes al inicio del procedimiento, entendiéndose por este la radicación del mismo. Solo en caso de que se requiera la opinión de otra dependencia o entidad, la audiencia podrá fijarse a un plazo mayor al señalado, que no podrá exceder, en todo caso, de veinte días hábiles.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE ENERO DE 2009)</small>
 
 Cuando para la preparación y desahogo de alguna de las pruebas ofrecidas sea necesario acudir al establecimiento mercantil y este se encuentre clausurado o en suspensión de actividades, la autoridad deberá acordar el levantamiento provisional de sellos por el tiempo que solicite el particular, dentro del auto que fije la hora fecha y lugar de la audiencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 26 DE ENERO DE 2009)</small>
-
-La audiencia tendrá por objeto la admisión y desahogo de las pruebas ofrecidas, así como la recepción de los alegatos que formulen los interesados por sí o por medio de sus representantes o personas autorizadas. Concluida la audiencia, comparezcan o no los interesados, la autoridad emitirá la resolución del asunto, dentro del término de cinco días hábiles.
+La audiencia tendrá por objeto la admisión y desahogo de las pruebas ofrecidas, así como la recepción de los alegatos que formulen los interesados por sí o por medio de sus representantes o personas autorizadas. Concluida la audiencia, comparezcan o no los interesados, la autoridad emitirá la resolución del asunto dentro, del término de cinco días hábiles, de modo que el procedimiento administrativo deberá llevarse a cabo en un plazo no mayor a 3 meses.
 
 ###### Artículo 58.
 
@@ -902,7 +890,9 @@ VII. El 1 de diciembre de cada seis años, cuando corresponda a la transmisión 
 
 VIII. El 25 de diciembre;
 
-IX. Los días en que tengan vacaciones generales las autoridades competentes o aquellos en que se suspendan las labores, los que se harán del conocimiento público mediante acuerdo del titular de la dependencia, entidad do (sic) delegación respectiva, que se publicará en la Gaceta oficial del Distrito Federal.
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
+
+IX. Los días en que tengan vacaciones generales las autoridades competentes o aquellos en que se suspendan las labores, los que se harán del conocimiento público mediante acuerdo del titular de la dependencia, entidad o delegación respectiva, que se publicará en la Gaceta Oficial de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
 
@@ -1070,7 +1060,9 @@ Ante el silencio de la autoridad competente para resolver el procedimiento admin
 
 Cuando el interesado presuma que ha operado en su favor esta figura administrativa, en un término de 10 días hábiles posteriores al vencimiento del plazo de resolución del procedimiento o trámite de que se trate, solicitará la resolución respectiva conforme a lo siguiente:
 
-I. Comparecerá personalmente o a través de su representante legal ante la Contraloría Interna de la autoridad en que se haya ingresado el trámite o se inició el procedimiento, o bien, ante la Contraloría General cuando no se cuente con órgano de control interno;
+> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2019)</small>
+
+I. Comparecerá personalmente o a través de su representante legal ante la Contraloría Interna de la autoridad en que se haya ingresado el trámite o se inició el procedimiento, o bien, ante la Secretaría de la Contraloría General cuando no se cuente con órgano de control interno;
 
 II. Suscribirá el formato correspondiente, al que deberá anexar el original del acuse de recibo de la solicitud no resuelta, manifestando bajo protesta de decir verdad que a la solicitud acompañó los datos y documentos previstos por la normas aplicables al trámite o procedimiento de que se trate y el manual;
 
@@ -1086,7 +1078,9 @@ La solicitud sólo podrá declararse improcedente en el caso de que el interesad
 
 VII. El órgano de control notificará la resolución al interesado en términos de la presente ley.
 
-Cuando el trámite o procedimiento de cuya afirmativa ficta se trate, genere el pago de contribuciones o aprovechamientos de conformidad con el Código Financiero, el órgano de control requerirá a la autoridad omisa que señale al interesado el monto de las mismas, debiendo tomar en cuenta para su determinación, los datos manifestados en la solicitud respectiva, así como la naturaleza del acto.
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
+
+Cuando el trámite o procedimiento de cuya afirmativa ficta se trate, genere el pago de contribuciones o aprovechamientos de conformidad con el Código Fiscal, el órgano de control requerirá a la autoridad omisa que señale al interesado el monto de las mismas, debiendo tomar en cuenta para su determinación, los datos manifestados en la solicitud respectiva, así como la naturaleza del acto.
 
 La resolución de procedencia de afirmativa ficta producirá todos los efectos legales de la resolución favorable al procedimiento o trámite de que se trate; y es deber de todas las personas y autoridades reconocerla así. Para la revalidación de una resolución afirmativa ficta, en caso de que sea necesaria, por así establecerlo la Ley o el manual, la misma se efectuará en los términos y condiciones que señala el artículo 35 de esta Ley.
 
@@ -1136,37 +1130,47 @@ Contra la resolución que declare la caducidad del procedimiento administrativo 
 
 ### CAPITULO OCTAVO. DE LAS VISITAS DE VERIFICACION
 
-> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 97.
 
-Las autoridades competentes de la Ciudad de México, para comprobar el cumplimiento de las disposiciones legales y reglamentarias de carácter local podrán llevar a cabo visitas de verificación. Dichas visitas se sujetarán a los principios de unidad, funcionalidad, coordinación, profesionalización, simplificación, agilidad, precisión, legalidad, transparencia, imparcialidad y autocontrol de los particulares.
+Las autoridades competentes de la Ciudad de México, para comprobar el cumplimiento de las disposiciones legales y reglamentarias de carácter local podrán llevar a cabo visitas de verificación, de conformidad con lo establecido por la Constitución Política de la Ciudad de México. Dichas visitas se sujetarán a los principios de unidad, funcionalidad, coordinación, profesionalización, simplificación, agilidad, precisión, legalidad, transparencia, imparcialidad y autocontrol de las y los particulares.
+
+La autoridad que ordene las visitas de verificación en el ámbito de competencia a que alude la Constitución Política de la Ciudad de México, substanciará el procedimiento de calificación respectivo y emitirá las resoluciones correspondientes, imponiendo en su caso, las medidas cautelares y de seguridad que correspondan.
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 98.
 
-Toda visita de verificación deberá ajustarse a los procedimientos y formalidades que establezca esta Ley, el Reglamento que al efecto se expida y a las demás disposiciones aplicables.
+Toda visita de verificación deberá ajustarse a los procedimientos y formalidades que establezca esta Ley, la Ley del Instituto de Verificación Administrativa de la Ciudad de México y su Reglamento y a las demás disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 99.
 
 Los verificadores, para practicar una visita, deberán estar provistos de orden escrita con firma autógrafa expedida por la autoridad competente, en la que deberá precisarse el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que deba tener y las disposiciones legales que la fundamenten.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
-
 Se considerará que cuentan con los elementos y requisitos de validez que señalan los artículos 6, fracciones II y III y 7 fracción IV, de esta Ley, las ordenes que contengan impresa la fotografía del lugar que ha de verificarse, cuando el inmueble no cuente con número oficial, el mismo no sea visible, haya sido retirado o no corresponda al que tengan registrado las autoridades competentes.
 
-> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+De igual manera, deberá contener el señalamiento de que la visita de verificación podrá ser videograbada, y la misma formará parte de los autos que integran el expediente administrativo correspondiente; la persona propietaria, responsable, encargada u ocupante del inmueble verificado, podrá tener acceso a dicha grabación acreditando previamente su interés jurídico o legítimo ante la autoridad competente, quien acordará lo conducente en un plazo no mayor a tres días hábiles, a partir de que sea solicitado.
 
-Los verificadores se abstendrán de cumplimentar las órdenes de visitas de verificación de giros, actividades y obras contenidos en el acuerdo a que se refiere el artículo 105 bis de esta ley, debiendo comunicar por escrito al emisor de la orden dicha circunstancia.
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 100.
 
-Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de verificación estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor.
+Las personas propietarias, responsables, encargadas u ocupantes de establecimientos, obras o bienes, objeto de verificación estarán obligados a permitir el acceso y dar facilidades e informes a las personas verificadoras para el desarrollo de su labor, conforme al objeto y alcance de la orden de visita de verificación.
+
+En caso de oposición la autoridad competente podrá utilizar las medidas de apremio previstas en esta Ley, en la Ley del Instituto de Verificación Administrativa de la Ciudad de México y el Reglamento que al efecto se expida.
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 101.
 
-Al iniciar la visita, el verificador deberá exhibir credencial vigente con fotografía, expedida por la autoridad competente que lo acredite para desempeñar dicha función, así como la orden expresa a la que se refiere el artículo 99 de la presente Ley, de la que deberá dejar copia al propietario, responsable, encargado u ocupante del establecimiento.
+Al iniciar la visita, el verificador deberá exhibir credencial vigente con fotografía, expedida por la autoridad competente que lo acredite para desempeñar dicha función, así como la orden expresa a la que se refiere el artículo 99 de la presente Ley, de la que deberá dejar copia a la persona propietaria, responsable, encargada u ocupante del establecimiento o del inmueble visitado.
+
+La persona propietaria, responsable, encargada u ocupante de inmueble verificado, que por cualquier razón no cuente con la orden escrita podrá solicitar una copia certificada, acreditando su interés jurídico o legítimo a la autoridad competente, la cual deberá ser expedida en un plazo no mayor a tres días hábiles a partir de que fue solicitada.
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 102.
 
@@ -1174,19 +1178,19 @@ De toda visita de verificación se levantará acta circunstanciada, en presencia
 
 De toda acta se dejará copia a la persona con quien se entendió la diligencia, aunque se hubiere negado a firmar, lo que no afectará la validez de la diligencia ni del documento de que se trate, siempre y cuando el verificador haga constar la circunstancia en la propia acta.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 17 DE NOVIEMBRE DE 2017)</small>
+La persona propietaria, responsable, encargada u ocupante del inmueble verificado, que por cualquier razón no cuente con el acta circunstanciada podrá solicitar una copia certificada, acreditando su interés jurídico o legítimo a la autoridad competente, la cual deberá ser expedida en un plazo no mayor a tres días hábiles a partir de que fue solicitada.
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 103.
 
 En las actas se hará constar:
 
-I. Nombre, denominación o razón social del visitado;
+I. Nombre, denominación o razón social de la persona visitada;
 
 II. Hora, día, mes y año en que se inicie y concluya la diligencia;
 
-> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2017)</small>
-
-III. Calle, número, población o colonia, teléfono u otra forma de comunicación disponible, Alcaldía y código postal en que se encuentre ubicado el lugar en que se practique la visita;
+III. Calle, número, población o colonia, teléfono u otra forma de ubicación o identificación, Alcaldía y, de ser posible, código postal en que se encuentre ubicado el lugar en que se practique la visita;
 
 IV. Número y fecha del oficio de comisión que la motivó;
 
@@ -1194,27 +1198,117 @@ V. Nombre y cargo de la persona con quien se entendió la diligencia;
 
 VI. Nombre y domicilio de las personas que fungieron como testigos;
 
-VII. Datos relativos a la actuación;
+VII. Datos relativos a la actuación, de conformidad con el objeto y alcance de la orden de visita de verificación;
 
-VIII. Declaración del visitado, si quiere hacerla; y
+VIII. Declaración del visitado, si quiere hacerla, y
 
 IX. Nombre y firma de quienes intervinieron en la diligencia incluyendo los de quien o quienes la hubieren llevado a cabo. Si se negaren a firmar el visitado o su representante legal, ello no afectará la validez del acta, debiendo el verificador asentar la razón relativa.
 
-> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2017)</small>
+La persona propietaria, responsable, encargada u ocupante del inmueble verificado, podrá, en este momento, solicitar tener acceso a la videograbación que se realice por parte del servidor público que realice la visita de verificación, acreditando su interés jurídico o legítimo ante la autoridad competente, la cual deberá ser acordado (sic) en un plazo no mayor a tres días hábiles a partir de que fue solicitado.
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 104.
 
-Los visitados a quienes se haya levantado acta de verificación podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos contenidos en ella, o bien lo podrán hacer por escrito, en un documento anexo, dentro de los diez días hábiles siguientes a la fecha en que se hubiere levantado el acta de visita de verificación.
+Las personas visitadas a quienes se haya levantado acta de verificación podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos contenidos en ella, o bien lo podrán hacer por escrito, en un documento anexo, dentro de los diez días hábiles siguientes a la fecha en que se hubiere levantado el acta de visita de verificación.
 
-Cuando en el procedimiento, obren pruebas obtenidas por la Secretaría de Seguridad Pública de la Ciudad de México con equipos y sistemas tecnológicos, las mismas se recabarán, apreciarán y valorarán en términos de la Ley que Regula el Uso de la Tecnología para la Seguridad Pública de la Ciudad de México.
+Cuando en el procedimiento, obren pruebas obtenidas por la Secretaría de Seguridad Ciudadana de la Ciudad de México con equipos y sistemas tecnológicos, las mismas se recabarán, apreciarán y valorarán en términos de la Ley que Regula el Uso de la Tecnología para la Seguridad Pública de la Ciudad de México.
+
+Si el visitado en el plazo correspondiente, expresa observaciones respecto de los hechos contenidos en el acta y, en su caso, ofrece pruebas, la autoridad competente, en el plazo de tres días hábiles, acordará su admisión y en el mismo proveído fijará fecha para la celebración de la audiencia de desahogo de pruebas y alegatos, que deberá llevarse a cabo dentro de los quince días hábiles siguientes y notificarse por lo menos con cinco días hábiles de anticipación a la fecha de su celebración.
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 105.
 
-Las dependencias podrán, de conformidad con las disposiciones aplicables, verificar bienes, personas y vehículos de transporte con el objeto de comprobar el cumplimiento de las disposiciones legales, para lo cual se deberán cumplir, en lo conducente, las formalidades previstas para las visitas de verificación.
+Dentro de los diez días hábiles siguientes a la celebración de la audiencia, la autoridad competente emitirá resolución fundada y motivada, en la cual calificará el Acta de Visita de Verificación y fijará las responsabilidades que correspondan; imponiendo, en su caso, las sanciones y medidas de seguridad que procedan en los términos de los ordenamientos legales o reglamentarios aplicables.
+
+La resolución del procedimiento de calificación de Acta de Visita de Verificación se notificará personalmente al visitado, dentro de los diez hábiles (sic) siguientes a su emisión, cumpliendo con las formalidades previstas en esta Ley, la Ley del Instituto de Verificación Administrativa de la Ciudad de México y su Reglamento.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 105 Bis.
 
-(DEROGADO, G.O. 5 DE ABRIL DE 2012)
+Transcurrido el plazo de diez días hábiles siguientes a la conclusión de la visita de verificación, sin que el visitado haya presentado escrito de observaciones, la autoridad competente procederá a dictar, dentro de los diez días hábiles siguientes, resolución fundada y motivada, en la cual calificará el Acta de visita de verificación y fijará las responsabilidades que correspondan; imponiendo, en su caso, las sanciones y medidas de seguridad que procedan en los términos de los ordenamientos legales o reglamentarios aplicables; la resolución se notificará en términos del artículo anterior.
+
+En el Reglamento de la Ley del Instituto de Verificación Administrativa de la Ciudad de México, se establecerán los requisitos mínimos que en cada etapa del procedimiento deben cumplirse, así como también establecerá de manera detallada la forma de substanciación del procedimiento de verificación.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2019)</small>
+
+###### Artículo 105 Ter.
+
+Cuando se encontraren omisiones o irregularidades en los documentos exhibidos conforme a los cuales se realiza la actividad regulada, denominados declaración, registro, licencia, permiso, autorización, aviso u otra denominación establecida en la normatividad aplicable, con independencia de que ello sea considerado en la resolución respectiva, se dará vista a la autoridad correspondiente para que en su caso inicie el procedimiento respectivo que permita determinar la responsabilidad en el ámbito que proceda.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2019)</small>
+
+###### Artículo 105 Quater.
+
+En materia de verificación administrativa el Instituto y las Alcaldías tienen las siguientes competencias:
+
+A. El Instituto tendrá las atribuciones siguientes:
+
+I. Practicar visitas de verificación administrativa en materias de:
+
+a) Preservación del medio ambiente y protección ecológica;
+
+b) Mobiliario Urbano;
+
+c) Desarrollo Urbano;
+
+d) Turismo;
+
+e) Transporte público, mercantil y privado de pasajero y de carga;
+
+f) Las demás que establezcan las disposiciones legales que regulen el funcionamiento de las Dependencias del Gobierno de la Ciudad de México.
+
+II. Ordenar y ejecutar las medidas de seguridad e imponer las sanciones previstas en las leyes, así como resolver los recursos administrativos que se promuevan.
+
+Cuando se trate de actos emitidos por el Gobierno de la Ciudad de México, también podrá solicitar la custodia del folio real del predio de manera fundada y motivada, al Registro Público de la Propiedad y de Comercio de la Ciudad de México, cuando se trate de un procedimiento administrativo de verificación relacionado con desarrollo urbano u ordenamiento territorial, para evitar la inscripción de actos que impidan la ejecución de la resolución del fondo del asunto.
+
+III. Emitir los lineamientos y criterios para el ejercicio de la actividad verificadora;
+
+IV. Velar, en la esfera de su competencia, por el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas vinculadas con las materias a que se refiere la fracción I, y
+
+V. El Instituto no podrá ordenar la práctica de visitas de verificación en materias que constitucionalmente sean de competencia exclusiva de las Alcaldías. No obstante ello, cuando ocurra un desastre natural que ponga en riesgo la vida y seguridad de los habitantes, la persona titular de la Jefatura de Gobierno podrá, en coordinación con las Alcaldías, ordenar visitas en cualquiera de las materias que se establecen en el apartado B, fracción I del presente artículo.
+
+B. Las Alcaldías tendrán de manera exclusiva las atribuciones constitucionales siguientes:
+
+I. Ordenar, al personal especializado en funciones de verificación del Instituto, adscritos a las Alcaldías, la práctica de visitas de verificación administrativa en las siguientes materias:
+
+a) Anuncios;
+
+b) Cementerios y Servicios Funerarios, y
+
+c) Construcciones y Edificaciones;
+
+d) Desarrollo Urbano;
+
+e) Espectáculos Públicos;
+
+f) Establecimientos Mercantiles;
+
+g) Estacionamientos Públicos;
+
+h) Mercados y abasto;
+
+i) Protección Civil;
+
+j) Protección de no fumadores;
+
+k) Protección Ecológica;
+
+l) Servicios de alojamiento, y
+
+m) Uso de suelo;
+
+n) Las demás que establezcan las disposiciones legales y reglamentarias en las materias que no sean competencia de las secretarías u órganos administrativos desconcentrados.
+
+II. Calificar las actas de visitas de verificación, practicadas y de conformidad con la fracción anterior, y
+
+III. Ordenar, a las personas verificadoras del Instituto, la ejecución de las medidas de seguridad y las sanciones impuestas en la calificación de las actas de visitas de verificación.
+
+También podrán solicitar la custodia del folio real del predio de manera fundada y motivada, al Registro Público de la Propiedad y de Comercio de la Ciudad de México, cuando se trate de un procedimiento administrativo de verificación relacionado con desarrollo urbano, construcciones, inmuebles u ordenamiento territorial, para evitar la inscripción de actos que impidan la ejecución de la resolución del fondo del asunto.
+
+La delimitación de la competencia de verificación administrativa en materia de desarrollo urbano, se realizará de conformidad con los actos administrativos que emitan las autoridades del Gobierno de la Ciudad de México, en el ejercicio de su competencia y obligatoriamente coordinada con las Alcaldías. En los demás casos, será competencia exclusiva de las Alcaldías, la realización, substanciación y calificación de dicha visita.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE ENERO DE 2004)</small>
 
@@ -1290,9 +1384,11 @@ El interesado podrá solicitar la suspensión del acto administrativo recurrido 
 
 El superior jerárquico deberá acordar, en su caso, el otorgamiento de la suspensión o la denegación de la misma, dentro de los cinco días hábiles siguientes a su solicitud, en el entendido que de no emitir acuerdo expreso al respecto, se entenderá otorgada la suspensión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE JUNIO DE 2019)</small>
+
 ###### Artículo 115.
 
-El superior jerárquico al resolver sobre la providencia cautelar, deberá señalar, en su caso, las garantías necesarias para cubrir los daños y perjuicios que pudieran ocasionarse con dichas medidas. Tratándose de multas, el recurrente también deberá garantizar el crédito fiscal en cualquiera de las formas previstas por el Código Financiero.
+El superior jerárquico al resolver sobre la providencia cautelar, deberá señalar, en su caso, las garantías necesarias para cubrir los daños y perjuicios que pudieran ocasionarse con dichas medidas. Tratándose de multas, el recurrente también deberá garantizar el crédito fiscal en cualquiera de las formas previstas por el Código Fiscal.
 
 En los casos que proceda la suspensión pero pueda ocasionar daños o perjuicios a terceros, el interesado deberá otorgar garantía bastante para reparar el daño e indemnizar los perjuicios que se ocasionen con dicha medida.
 
@@ -1456,9 +1552,11 @@ Cuando en una misma acta se comprenda a dos o más infractores, a cada uno de el
 
 Las sanciones por infracciones administrativas se impondrán sin perjuicio de las penas que correspondan a los delitos en que, en su caso, incurran los infractores.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], G.O. 12 DE JUNIO DE 2019)</small>
+
 ###### Artículo 138.
 
-La facultad de la autoridad para imponer sanciones administrativas caduca en cinco años.
+La facultad de la autoridad para imponer sanciones administrativas prescribe en cinco años.
 
 Las sanciones administrativas prescriben en cinco años, el término de la prescripción será continuo y se contará desde el día en que se cometió la infracción administrativa si fuere consumada o, desde que cesó si fuere continua.
 
@@ -1597,3 +1695,17 @@ SEGUNDO.- El Jefe de Gobierno del Distrito Federal emitirá las disposiciones re
 TERCERO.- El presente Decreto entrará en vigor una vez que se cumpla el plazo establecido para que las autoridades administrativas adecuen sus procedimientos a la aplicación de la notificación electrónica y estrado electrónico.
 
 CUARTO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal para su mayor difusión.
+
+G.O. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 2, 4, 5 BIS, 10, 14 BIS, 17, 19 BIS, 32, 39, 56, 57, 71, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, Y SE ADICIONAN LOS ARTÍCULOS 105 BIS, 105 TER, 105 QUATER Y 138 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las reformas contenidas en el presente decreto derogan y dejan sin efecto cualquier disposición legal, reglamentaria y normativa que se les oponga.
+
+CUARTO.- La persona titular de la Jefatura de Gobierno de la Ciudad de México, emitirá el Reglamento que regule la Verificación Administrativa de la Ciudad de México, en un plazo de sesenta días, a partir de la publicación del presente decreto.
+
+QUINTO.- Las referencias hechas al Reglamento de la Ley, se entenderán hechas al Reglamento de Verificación Administrativa del Distrito Federal, hasta en tanto no se expida el Reglamento del presente ordenamiento.
