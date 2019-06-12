@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2018-12-21"
+last_updated: "2019-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JUNIO DE 2019.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -889,11 +889,11 @@ XLV. Colaborar con las autoridades estatales y federales en el ámbito de su com
 
 XLVI. Las demás que señalen las leyes y otras disposiciones legales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 32.
 
-Para ocupar los cargos de Secretario, Tesorero, Director de Obras Públicas, Director de Desarrollo Económico, Coordinador General Municipal de Mejora Regulatoria, Ecología, Desarrollo Urbano, o equivalentes, titulares de las unidades administrativas. Protección Civil, y de los organismos auxiliares se deberán satisfacer los siguientes requisitos:
+Para ocupar los cargos de Secretario, Tesorero, Director de Obras Públicas, Director de Desarrollo Económico, Coordinador General Municipal de Mejora Regulatoria, Ecología, Desarrollo Urbano, o equivalentes, titulares de las unidades administrativas, protección Civil, y de los organismos auxiliares se deberán satisfacer los siguientes requisitos:
 
 I. Ser ciudadano del Estado en pleno uso de sus derechos;
 
@@ -905,9 +905,9 @@ II. No estar inhabilitado para desempeñar cargo, empleo, o comisión pública;
 
 III. No haber sido condenado en proceso penal, por delito intencional que amerite pena privativa de libertad;
 
-> <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G. G. 12 DE JUNIO DE 2019)</small>
 
-IV. Contar con título profesional y acreditar experiencia mínima de un año en la materia, anta (sic) el Presidente o el Ayuntamiento, cuando sea el caso, para el desempeño de los cargos que así lo requieran; y
+IV. Contar con título profesional o acreditar experiencia mínima de un año en la materia, ante el Presidente o el Ayuntamiento, cuando sea el caso, para el desempeño de los cargos que así lo requieran; y
 
 > <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1511,7 +1511,9 @@ IV. Las demás organizaciones que determinen las leyes y reglamentos o los acuer
 
 Los integrantes de las comisiones del ayuntamiento serán nombrados por éste, de entre sus miembros, a propuesta del presidente municipal, a más tardar en la tercera sesión ordinaria que celebren al inicio de su gestión.
 
-Las comisiones se conformarán de forma plural y proporcional, teniendo en cuenta el número de sus integrantes y la importancia de los ramos encomendados a las mismas; en su integración se deberá tomar en consideración el conocimiento, profesión, vocación y experiencia de los integrantes del ayuntamiento.
+> <small>(REFORMADO, G.G. 12 DE JUNIO DE 2019)</small>
+
+Las comisiones se conformarán de forma plural y proporcional, tomando en cuenta el número de sus integrantes y la importancia de los ramos encomendados a las mismas; en su integración se deberá tomar en consideración el conocimiento, profesión, vocación y experiencia de los integrantes del ayuntamiento, procurando la paridad de género en la designación de presidencias de las comisiones del ayuntamiento.
 
 > <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
 
@@ -1625,9 +1627,11 @@ y). De Transparencia, Acceso a la Información Pública y Protección de Datos P
 
 z). De prevención y atención de conflictos laborales; y
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 12 DE JUNIO DE 2019)</small>
 
-z.1). Las demás que determine el Ayuntamiento, de acuerdo con las necesidades del Municipio.
+z.1). De Atención al Adulto Mayor;
+
+z.2). Las demás que determine el Ayuntamiento, de acuerdo con las necesidades del Municipio.
 
 II. Serán comisiones transitorias, aquéllas que se designen para la atención de problemas especiales o situaciones emergentes o eventuales de diferente índole y quedarán integradas por los miembros que determine el ayuntamiento, coordinadas por el responsable del área competente.
 
@@ -1709,25 +1713,25 @@ Los ayuntamientos podrán destinar recursos y coordinarse con las organizaciones
 
 Para satisfacer las necesidades colectivas, los ayuntamientos podrán solicitar la cooperación de instituciones privadas.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 12 DE JUNIO DE 2019)</small>
 
-### CAPITULO SEXTO. De las Unidades y Consejos Municipales de Protección Civil
+### CAPITULO SEXTO. De las Coordinaciones y Consejos Municipales de Protección Civil
 
-> <small>(REFORMADO, G.G. 4 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 81.
 
-En cada municipio se establecerá una Unidad Municipal de Protección Civil misma que se coordinará con las dependencias de la administración pública que sean necesarias y cuyo jefe inmediato será el Presidente Municipal.
+En cada municipio se establecerá una Coordinación Municipal de Protección Civil misma que se coordinará con las dependencias de la administración pública que sean necesarias y cuyo jefe inmediato será el Presidente Municipal.
 
-Las unidades municipales de protección civil tendrán a su cargo la organización, coordinación y operación de programas municipales de protección civil apoyándose en el respectivo Consejo Municipal.
+Las Coordinaciones Municipales de Protección Civil tendrán a su cargo la organización, coordinación y operación de programas municipales de protección civil apoyándose en el respectivo Consejo Municipal.
 
-La Unidad Municipal de Protección Civil, será la autoridad encargada de dar la primer respuesta en la materia, debiendo asistir a las emergencias que se presenten en su demarcación; en caso de que su capacidad de repuesta (sic) sea superada, está obligada a notificar al Presidente Municipal para solicitar la intervención de la Dirección General de Protección Civil del Estado de México.
+La Coordinación Municipal de Protección Civil será la autoridad encargada de dar la primer respuesta en la materia, debiendo asistir a las emergencias que se presenten en su demarcación; en caso de que su capacidad de respuesta sea superada, está obligada a notificar al Presidente Municipal para solicitar la intervención de la Coordinación General de Protección Civil del Estado de México.
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 81 Bis.
 
-Para ser titular de la Unidad Municipal de Protección Civil se requiere, además de los requisitos del artículo 32 de esta Ley, tener los conocimientos suficientes debidamente acreditados en materia de protección civil para poder desempeñar el cargo y acreditar dentro de los seis meses siguientes a partir del momento en que ocupe el cargo, a través del certificado respectivo, haber tomado cursos de capacitación en la materia, impartidos por la Coordinación General de Protección Civil del Estado de México o por cualquier otra institución debidamente reconocida por la misma.
+Para ser titular de la Coordinación Municipal de Protección Civil se requiere, además de los requisitos del artículo 32 de esta Ley, tener los conocimientos suficientes debidamente acreditados en materia de protección civil para poder desempeñar el cargo y acreditar dentro de los seis meses siguientes a partir del momento en que ocupe el cargo, a través del certificado respectivo, haber tomado cursos de capacitación en la materia, impartidos por la Coordinación General de Protección Civil del Estado de México o por cualquier otra institución debidamente reconocida por la misma.
 
 > <small>(ADICIONADO, G.G. 4 DE OCTUBRE DE 2010)</small>
 
@@ -2113,11 +2117,11 @@ XXV. Formular las bases y expedir la convocatoria a los concursos para la realiz
 
 XXVI. Las demás que les señalen las disposiciones aplicables.
 
-> <small>(REFORMADO, G.G. 11 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 96 Ter.
 
-El Director de Obras Públicas o Titular de la Unidad Administrativa equivalente, además de los requisitos del artículo 32 de esta Ley, requiere contar con título profesional en ingeniería, arquitectura o alguna área afín, y con una experiencia mínima de un año, con anterioridad a la fecha de su designación.
+El Director de Obras Públicas o Titular de la Unidad Administrativa equivalente, además de los requisitos del artículo 32 de esta Ley, requiere contar con título profesional en ingeniería, arquitectura o alguna área afín, o contar con una experiencia mínima de un año, con anterioridad a la fecha de su designación.
 
 Además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
 
@@ -2185,9 +2189,9 @@ XIX. Operar y actualizar el Registro Municipal de Unidades Económicas de los pe
 
 XX. Las demás que señalen las disposiciones legales aplicables.
 
-> <small>(ADICIONADO, G.G. 11 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE JUNIO DE 2019)</small>
 
-Artículo 96 Quintus.- El Director de Desarrollo Económico o Titular de la Unidad Administrativa equivalente, además de los requisitos del artículo 32 de esta Ley, requiere contar con título profesional en el área económico-administrativa, y con experiencia mínima de un año, con anterioridad a la fecha de su designación.
+Artículo 96 Quintus.- El Director de Desarrollo Económico o Titular de la Unidad Administrativa equivalente, además de los requisitos del artículo 32 de esta Ley, requiere contar con título profesional en el área económico-administrativa o contar con experiencia mínima de un año, con anterioridad a la fecha de su designación.
 
 Además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
 
@@ -2215,11 +2219,11 @@ VIII. Proponer al Presidente Municipal, convenios, contratos y acuerdos, y
 
 IX. Las demás que le sean conferidas por el Presidente Municipal o por el Ayuntamiento y las establecidas en las disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 96 Septies.
 
-El Director de Desarrollo Urbano o el Titular de la Unidad Administrativa equivalente, además de los requisitos establecidos en el artículo 32 de esta Ley, requiere contar con título profesional en el área de ingeniería civil-arquitectura; además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie sus funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
+El Director de Desarrollo Urbano o el Titular de la Unidad Administrativa equivalente, además de los requisitos establecidos en el artículo 32 de esta Ley, requiere contar con título profesional en el área de ingeniería civil-arquitectura o afín, o contar con una experiencia mínima de un año, con anterioridad a la fecha de su designación; además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie sus funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
 
 > <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2239,11 +2243,11 @@ V. Proponer medidas y criterios para la prevención y control de residuos y emis
 
 VI. Las demás que le sean conferidas por el Presidente Municipal o por el Ayuntamiento y las establecidas en las disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 12 DE JUNIO DE 2019)</small>
 
 ###### Artículo 96 Nonies.
 
-El Director de Ecología o el Titular de la Unidad Administrativa equivalente, además de los requisitos establecidos en el artículo 32 de esta Ley, requiere contar con título profesional en el área de biología-agronomía-administración pública; además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie sus funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
+El Director de Ecología o el Titular de la Unidad Administrativa equivalente, además de los requisitos establecidos en el artículo 32 de esta Ley, requiere contar con título profesional en el área de biología-agronomía-administración pública o afín, o contar con una experiencia mínima de un año, con anterioridad a la fecha de su designación; además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie sus funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
 
 ### CAPITULO TERCERO. De la Hacienda Pública Municipal
 
@@ -4387,7 +4391,7 @@ Para el próximo ejercicio fiscal, la legislatura proveerá la partida presupues
 
 El Fiscal especializado en Materia de Delitos Electorales deberá rendir un informe a la Legislatura del Estado a los noventa días siguientes de concluido el proceso electoral para el periodo constitucional 2015-2018.
 
-Se exhorta al Procurador General de Justicia del Estado de México, para que la designación del Fiscal Especializado en Materia Delitos Electorales y de los servidores públicos adscritos a ella recaigan en las personas que garanticen los principios enunciados en este artículo.
+Se exhorta al Procurador General de Justicia del Estado de México, para que la designación del Fiscal Especializado en Materia (sic) Delitos Electorales y de los servidores públicos adscritos a ella recaigan en las personas que garanticen los principios enunciados en este artículo.
 
 DÉCIMO SEXTO. La Legislatura del Estado, expedirá las normas aplicables para el cumplimiento de las funciones y fines del Instituto, señaladas en la fracción XV del artículo 168 y VIII del artículo 171 de este Decreto.
 
@@ -4874,3 +4878,41 @@ G.G. 21 DE DICIEMBRE DE 2018.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 59.- POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO SEXTO DEL TÍTULO III, Y LOS ARTÍCULOS 81 Y 81 BIS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 60.- POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 65 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan a este Decreto.
+
+CUARTO. Los Ayuntamientos del Estado de México deberá expedir en un plazo no mayor a 60 días hábiles después de la entrada en vigor del presente Decreto las adecuaciones a sus reglamentos respectivos.
+
+G.G. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 61.- POR EL QUE SE REFORMA EL INCISO Z.1), DE LA FRACCIÓN I, DEL ARTÍCULO 69 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO. Los 125 ayuntamientos del Estado de México, tendrán 60 días naturales para instalar la Comisión de Atención al Adulto Mayor.
+
+G.G. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 62.- POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 32, 96 TER, 96 QUINTUS, 96 SEPTIES Y 96 NONIES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
