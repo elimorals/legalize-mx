@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2018-12-31"
+last_updated: "2019-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JUNIO DE 2019.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -280,6 +280,10 @@ XII. Proponer políticas y estrategias, así como acciones de coordinación entr
 XIII. (DEROGADA, G.G. 20 DE SEPTIEMBRE DE 2018)
 
 XIV. Coordinar a las dependencias del Ejecutivo Estatal en casos de riesgo, siniestro o desastre, para la ejecución de acciones y programas públicos en relación a las personas, sus bienes y el hábitat para el restablecimiento de la normalidad;
+
+> <small>(ADICIONADA, G.G. 12 DE JUNIO DE 2019)</small>
+
+XIV BIS. Instrumentar por si o a través de organismos y dependencias, entidades públicas o privadas especializadas, y en su caso, operar redes de detección, monitoreo, pronostico y medición de riesgos en coordinación con las dependencias responsables.
 
 XV. Coordinar y supervisar las acciones en materia de protección civil, así como administrar en el ámbito de su competencia, la aplicación de recursos destinados a la atención de desastres y siniestros ambientales o antropogénicos;
 
@@ -3608,3 +3612,23 @@ CUARTO.- Se considerarán vigentes durante el ejercicio 2019 las placas expedida
 QUINTO.- Las placas expedidas en los ejercicios 2015 y posteriores deberán renovarse al vencimiento de los cinco años contados a partir de su expedición.
 
 SEXTO.- Los años de referencia contenidos en la tabla del segundo párrafo de la fracción I del artículo 63 del Código Financiero del Estado de México y Municipios se actualizarán, siendo aplicable para el primer año de antigüedad el 2019 y para el último año el 2010, conservando íntegros los factores respectivos.
+
+G.G. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 56.- POR EL QUE SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, EL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO Y EL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MÉXICO PARA EL EJERCICIO FISCAL 2019".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “Gaceta del Gobierno”.
+
+TERCERO. Para el cumplimiento de lo dispuesto en el artículo 6.19 Quater, y 6.21 párrafo segundo del presente ordenamiento, la Secretaria General de Gobierno en ejercicio de sus atribuciones y en un término de 60 días naturales contados a partir de la entrada en vigor del presente decreto, podrá disponer del 60% de los recursos de la partida destinada a acciones preventivas del Fondo Estatal para la Atención de Desastres y Siniestros Ambientales o Antropogénicos, a que se refiere el artículo 6.22 del Libro Sexto del Código Administrativo del Estado de México, a efecto de que se garantice la instalación progresiva, así como la operación y mantenimiento del Sistema Múltiple de Alertas Tempranas y Emergencias del Estado de México, a que se refieren dichos preceptos.
+
+CUARTO. Para dar cumplimiento a lo establecido en el artículo 6.19 Quinquies del presente ordenamiento, cada ente público de la Administración Pública Estatal y Municipal, de los Poderes Ejecutivo, Legislativo y Judicial, deberán considerar en el Presupuesto de Egresos de cada ejercicio fiscal, los recursos financieros para garantizar la instalación, operación y mantenimiento de los equipos de Alertamiento Temprano con los que deben contar.
+
+QUINTO. En tanto se cumpla con lo establecido en el transitorio Tercero de este decreto, para efectos de lo estipulado en los artículos 6.19 Quinquies, 6.19 Sexies y 6.19 Septimus, se concederá un plazo de 90 días naturales contados a partir de la entrada en vigor del presente decreto, para que en los municipios mexiquenses del Valle de México y del Valle de Toluca en donde actualmente tiene cobertura la señal del Sistema de Alerta Sísmica Mexicana, adquieran el equipo de alertamiento temprano que reciba la señal oficial de la Alerta Sísmica.
+
+SEXTO. Los programas internos de Protección civil autorizados con anterioridad a la publicación de este decreto, estarán vigentes en los términos y con la temporalidad autorizada por la autoridad.
+
+SÉPTIMO. En un plazo no mayor a 60 días naturales, contados a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado deberá realizar las modificaciones y actualizaciones correspondientes al Reglamento del Libro Sexto del Código Administrativo del Estado de México.
+
+OCTAVO. Para dar cumplimiento a lo establecido en el presente decreto y con el fin de garantizar la buena operatividad del sistema estatal, en el presupuesto de egresos de cada ejercicio fiscal, se etiquetará recursos suficiente (sic) de manera que permita dar mantenimiento permanente.
