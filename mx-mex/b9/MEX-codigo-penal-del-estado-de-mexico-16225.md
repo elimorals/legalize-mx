@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2018-09-20"
+last_updated: "2019-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JUNIO DE 2019.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3371,7 +3371,11 @@ A quien ejerza la patria potestad, tutela o custodia del menor víctima de las l
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE AGOSTO DE 2011)</small>
 
-IX.- Cuando las lesiones se produzcan contra una persona en ejercicio de la actividad periodística, se aplicarán de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
+IX. Cuando las lesiones se produzcan contra una persona en ejercicio de la actividad periodística, se aplicarán de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
+
+> <small>(ADICIONADA, G.G. 12 DE JUNIO DE 2019)</small>
+
+X. Cuando las lesiones se produzcan por discriminación, aversión o rechazo en contra de la víctima, condición social o económica, por su origen étnico, raza, religión, discapacidad, orientación sexual o identidad de género, se aplicarán de seis meses a dos años de prisión, y de cincuenta a ciento cincuenta días multa.
 
 ###### Artículo 239.
 
@@ -3442,6 +3446,12 @@ III. Al responsable de homicidio cometido en contra de su cónyuge, concubina, c
 > <small>(ADICIONADA, G.G. 20 DE AGOSTO DE 2013)</small>
 
 IV. Al responsable del homicidio de dos o más personas, en el mismo o en distintos hechos, se le impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa.
+
+(NOTA: EL 28 DE ENERO DE 2025 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 78/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE JUNIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 48, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, G.G. 12 DE JUNIO DE 2019)</small>
+
+V. Al responsable del delito de homicidio con ensañamiento, crueldad o de odio manifiesto motivado por discriminación, aversión o rechazo a la víctima por su condición social o económica, religión, origen étnico, raza, discapacidad, orientación sexual o identidad de género de la víctima, se le impondrán de cuarenta a sesenta años de prisión O PRISIÓN VITALICIA y de setecientos a cinco mil días multa.
 
 > <small>(DEROGADO, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -4421,11 +4431,11 @@ XVI. Si en los actos mencionados en las fracciones anteriores, participa, en eje
 
 > <small>(ADICIONADA, G.G. 3 DE NOVIEMBRE DE 2010)</small>
 
-XVII. Cuando se corneta (sic) a escuelas e inmuebles destinados a actividades educativas, se impondrán de tres a doce años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
+XVII. Cuando se cometa a escuelas e inmuebles destinados a actividades educativas, se impondrán de tres a doce años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
 
 > <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-XVIII. Cuando se cometa en medios de transporte público de pasajeros en sus diversas clases y modalidades, transporte de personal, de turismo o escolar, se impondrán de nueve a quince años de prisión y multa de uno a tres veces el valor de lo robado, sin que exceda de mil días, sin perjuicio en su caso, de la agravante a que se refiere la fracción I de este artículo.
+XVIII. Cuando se corneta (sic) en medios de transporte público de pasajeros en sus diversas clases y modalidades, transporte de personal, de turismo o escolar, se impondrán de nueve a quince años de prisión y multa de uno a tres veces el valor de lo robado, sin que exceda de mil días, sin perjuicio en su caso, de la agravante a que se refiere la fracción I de este artículo.
 
 Además de la pena señalada en el párrafo anterior, se impondrán las penas siguientes:
 
@@ -6978,3 +6988,11 @@ G.G. 20 DE SEPTIEMBRE DE 2018.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 48.- POR EL QUE SE REFORMA EL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
