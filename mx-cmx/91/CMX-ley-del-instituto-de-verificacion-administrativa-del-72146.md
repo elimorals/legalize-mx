@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-verificacion-administrativa-del-72146"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-26"
-last_updated: "2014-12-18"
+last_updated: "2019-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72146&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2009-12-28"
 ---
 # LEY DEL INSTITUTO DE VERIFICACION ADMINISTRATIVA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 12 DE JUNIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de enero de 2010.
 
@@ -839,3 +841,21 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Se abroga la Ley del Instituto de Verificación Administrativa del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal del 26 de enero de 2010.
+
+TERCERO.- La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO.- Los asuntos que se encuentren en trámite a la entrada en vigor de la presente Ley, continuarán tramitándose de conformidad con la normativa vigente al momento de su inicio.
+
+QUINTO.- Las referencias hechas al Reglamento de la Ley, se entenderán hechas al Reglamento de Verificación Administrativa del Distrito Federal, hasta en tanto no se expida, el Reglamento del presente Ordenamiento.
+
+SEXTO.- La persona titular de la Jefatura de Gobierno tendrá hasta 180 días a partir de que sea aprobada la presente Ley, para emitir el Reglamento de Verificación Administrativa de la Ciudad de México, en el que se deberá prever de manera precisa las facultades en materia de desarrollo urbano a que se refiere el artículo 14 apartado A.
+
+SÉPTIMO.- Se derogan todas las disposiciones que contravengan el presente ordenamiento.
