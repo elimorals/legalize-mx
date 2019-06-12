@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienestar-y-desarrollo-social-del-estado-de-mexico-43630
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2015-08-06"
+last_updated: "2019-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 12 DE JUNIO DE 2019.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno, el viernes 31 de diciembre de 2004.
 
@@ -247,7 +245,7 @@ En todo lo no previsto por esta Ley, será de aplicación supletoria la Ley Gene
 
 ###### Artículo 9.
 
-La interpretación de la presente Ley se hará conforme a los criterios gramatical, sistemático y funcional; a falta de éstos, conforme a los principios generales del derecho.
+La interpretación de la presente Ley se hará conforme a los criterios gramatical, sistemático y funcional; a falta de estos, conforme a los principios generales del derecho.
 
 ## TITULO SEGUNDO. DE LA POLITICA DE DESARROLLO SOCIAL EN EL ESTADO DE MEXICO
 
@@ -306,6 +304,10 @@ XIV. Perspectiva de Género: Es una visión científica, analítica y política 
 > <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 XV. Libre determinación de los pueblos indígenas y sus comunidades: Reconocimiento en el marco constitucional a las formas internas de convivencia y de organización; ámbito de aplicación de sus propios sistemas normativos; elección de sus autoridades o representantes; medios para preservar y enriquecer sus lenguas y cultura; medios para conservar y mejorar su hábitat; acceso preferente a sus recursos naturales; elección de representantes ante los ayuntamientos y acceso pleno a la jurisdicción del Estado.
+
+> <small>(ADICIONADA, G.G. 12 DE JUNIO DE 2019)</small>
+
+XVI. Interés superior de la niñez: Conjunto de acciones y procesos tendientes a garantizar a las niñas, niños y adolescentes un desarrollo integral y una vida digna, así como las condiciones materiales y afectivas que les permitan vivir plenamente y alcanzar el máximo de bienestar posible, y de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales aplicables de los que el Estado Mexicano forma parte, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Constitución Política del Estado Libre y Soberano de México y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de México.
 
 ###### Artículo 11.
 
@@ -485,7 +487,7 @@ Artículo 21 bis.- Los programas de desarrollo social que sean evaluados positiv
 
 Dentro del presupuesto de Egresos del Estado, se establecerán:
 
-I. Detalladamente las partidas presupuestales específicas para los programas de desarrollo social estatales;
+I. Detalladamente las partidas presupuéstales específicas para los programas de desarrollo social estatales;
 
 II. El nombre de los programas a que se destinarán; y
 
@@ -689,7 +691,7 @@ El Gobierno del Estado y los municipios, en sus ámbitos de competencia, integra
 
 ###### Artículo 39.
 
-El padrón será administrado y actualizado por la Secretaría y podrá ser remitido al Consejo a solicitud de éste.
+El padrón será administrado y actualizado por la Secretaria y podrá ser remitido al Consejo a solicitud de éste.
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1053,7 +1055,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 G.G. 27 DE MARZO DE 2008.
 
@@ -1132,3 +1134,11 @@ CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamen
 QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
 SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
+
+G.G. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 63.- POR EL QUE SE REFORMA LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
