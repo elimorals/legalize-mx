@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco-112142
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2015-12-16"
+last_updated: "2019-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # LEY DE PROTECCION CONTRA LA EXPOSICION AL HUMO DE TABACO DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS 60 DÍAS NATURALES SIGUIENTES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.]</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 16 de diciembre de 2015.
 
@@ -261,9 +261,11 @@ VI. Establecer mecanismos de colaboración y coordinación con las autoridades, 
 
 ### Capítulo II. De los espacios protegidos a la exposición contra el humo de tabaco
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2019)</small>
+
 ###### Artículo 14.
 
-Por cuestiones de orden público e interés social, ninguna persona podrá fumar o mantener encendido productos de tabaco en:
+Por cuestiones de orden público e interés social, ninguna persona podrá fumar o mantener encendido productos de tabaco o dispositivos que realicen funciones similares a los mismos, en:
 
 I. Lugares públicos cerrados, lugares de trabajo cerrados, medios de transporte oficial y/o público.
 
@@ -279,7 +281,9 @@ d. Instalaciones de las unidades destinadas al cuidado y atención de niños, ad
 
 e. Sitios de concurrencia colectiva.
 
-f. Lugares que estén dentro de 30 metros de cualquier puerta, ventana, mecanismo de admisión de aire de cualquier lugar público o lugar de trabajo; exceptuando a aquellos establecimientos que proporcionen espacios para el consumo de tabaco, tales como interiores aislados que dispongan de mecanismos que eviten el traslado de partículas hacia los espacios 100 % libres de humo de tabaco y que no sea paso obligado para los no fumadores, o cuenten con áreas al aire libre.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2019)</small>
+
+f. Lugares que estén dentro de 30 metros de cualquier puerta, ventana, mecanismo de admisión de aire de cualquier lugar público o lugar de trabajo.
 
 g. Lugares que estén dentro de 20 metros de cualquier área de espera, tales como filas en paradas de transporte público, incluyendo pero no limitados al transporte público.
 
@@ -546,3 +550,13 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado Libre y Soberano
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas, a los 10 días del mes de diciembre del año dos mil quince.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 194 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO Y EL INCISO F DE LA FRACCIÓN II DEL ARTÍCULO 14 DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente Decreto.
