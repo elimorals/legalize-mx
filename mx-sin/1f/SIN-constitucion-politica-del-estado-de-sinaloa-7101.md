@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2018-10-26"
+last_updated: "2019-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -168,6 +168,10 @@ El Estado y los Municipios deberán garantizar el acceso a internet gratuito ina
 > <small>(ADICIONADA, P.O. 15 DE MARZO DE 2017)</small>
 
 XI. Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2019)</small>
+
+XII. Toda persona tiene derecho a que se respete su integridad personal. El Estado y los Municipios establecerán las medidas necesarias para protegerlas contra cualquier acto de desaparición forzada y desaparición cometida por particulares; y contra la tortura y otros tratos o penas crueles, inhumanos o degradantes.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2008)</small>
 
@@ -1555,9 +1559,11 @@ El Fiscal General del Estado, los vicefiscales general, especializados y/o regio
 
 Durante el ejercicio de su cargo, el Fiscal General no podrá desempeñar actividades profesionales que impliquen el ejercicio libre y/o remunerado de su profesión, salvo las actividades docentes, científicas, culturales, de investigación o beneficencia.
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2019)</small>
 
-Art. 76 Bis A. Se crea la Fiscalía Especializada en Combate a la Corrupción, la cual tendrá nivel de Vicefiscal General; el Fiscal Especializado en Combate a la Corrupción será designado y removido por el Fiscal General del Estado. El nombramiento y remoción podrán ser objetados por el Congreso del Estado por el voto de las dos terceras partes de sus miembros presentes, en el plazo que fije la Ley, si el Congreso del Estado no se pronunciare en este plazo, se entenderá que no tiene objeción.
+Art. 76 Bis A. Se crean las Fiscalías Especializadas en Combate a la Corrupción, de Desaparición Forzada de Personas y en Materia de Tortura, las cuales tendrán nivel de Vicefiscalía General. Los Fiscales Especializados serán designados y removidos por el Fiscal General del Estado.
+
+El Congreso del Estado podrá objetar los nombramientos y remociones por el voto de las dos terceras partes de sus miembros presentes, dentro del plazo que para tal efecto fije la Ley Orgánica de la Fiscalía General; pero si no se pronuncia en ese lapso, se entenderá que no tiene objeción alguna y por tanto son ratificados.
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
 
@@ -4297,13 +4303,11 @@ P.O. 26 DE OCTUBRE DE 2018.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 327- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+P.O. 12 DE JUNIO DE 2019.
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 155 QUE REFORMA EL ARTÍCULO 76 BIS A, Y ADICIONA LA FRACCIÓN XII AL ARTÍCULO 4 BIS B, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
 
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-
-G.G. 20 DE SEPTIEMBRE DE 2018.
+ÚNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 333.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
 
