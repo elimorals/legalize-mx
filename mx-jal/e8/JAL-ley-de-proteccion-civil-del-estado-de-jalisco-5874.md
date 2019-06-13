@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-civil-del-estado-de-jalisco-5874"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2019-05-11"
+last_updated: "2019-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 10 de julio de 1993.
 
@@ -1577,11 +1577,11 @@ La Unidad Estatal, con base en los acuerdos que celebre con las dependencias fed
 
 El Consejo Estatal y los consejos municipales realizarán campañas permanentes de capacitación.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2019)</small>
 
 ###### Artículo 72.
 
-El Consejo Estatal promoverá ante las autoridades educativas, que se proporcione información y capacitación en materia de protección civil con la colaboración de la Unidad Estatal y la unidad municipal que corresponda, y fomentará este tipo de acciones en organismos sociales y asociaciones de vecinos.
+El Consejo Estatal promoverá ante las autoridades educativas, que se proporcione información y capacitación en materia de protección civil con la colaboración de la Unidad Estatal y la unidad municipal que corresponda, y fomentará este tipo de acciones en organismos sociales y asociaciones de vecinos, debiendo incluir protocolos de protección civil dirigidos a personas con discapacidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2015)</small>
 
@@ -2145,10 +2145,8 @@ P.O. 11 DE MAYO DE 2019.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL”.]
+P.O. 13 DE JUNIO DE 2019.
 
-PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIO DEL “DECRETO 27277/LXII/19 QUE REFORMA EL ARTÍCULO 72 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO”.]
 
-SEGUNDO.- La presente reforma deberá inscribirse en el Registro Público de Organismos Descentralizados, de conformidad con las disposiciones jurídicas aplicables.
-
-TERCERO.- Publíquese en la página de Internet del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
