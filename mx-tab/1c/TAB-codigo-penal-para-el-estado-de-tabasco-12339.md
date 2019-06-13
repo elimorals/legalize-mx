@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2019-06-12"
+last_updated: "2019-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "TAB"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2019 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE JUNIO DE 2019.]</small>
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -5099,9 +5099,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto por el
 
 P.O. 12 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 102 POR EL QUE “SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 18; Y SE DEROGA EL CAPÍTULO II DENOMINADO "DESAPARICIÓN FORZADA DE PERSONAS", DEL TÍTULO SEGUNDO "DELITOS CONTRA EL ERARIO Y EL SERVICIO PÚBLICOS (SIC), POR HECHOS DE CORRUPCIÓN", DE LA SECCIÓN TERCERA "DELITOS CONTRA LA SOCIEDAD", DEL LIBRO SEGUNDO, CONFORMADO POR LOS ARTÍCULOS 234, 234 BIS, 234 TER, 234 QUATER; TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO 102 POR EL QUE "SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 18; Y SE DEROGA EL CAPÍTULO II DENOMINADO "DESAPARICIÓN FORZADA DE PERSONAS", DEL TÍTULO SEGUNDO "DELITOS CONTRA EL ERARIO Y EL SERVICIO PÚBLICOS (SIC), POR HECHOS DE CORRUPCIÓN", DE LA SECCIÓN TERCERA "DELITOS CONTRA LA SOCIEDAD", DEL LIBRO SEGUNDO, CONFORMADO POR LOS ARTÍCULOS 234, 234 BIS, 234 TER, 234 QUATER; TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO".]
 
-PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales, posteriores a su publicación en el Periódico Oficial del Estado.
+> <small>(F. DE E., P.O. 13 DE JUNIO DE 2019)</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. La Fiscalía Estatal, deberá realizar las adecuaciones normativas conducentes, a efectos de ajustar su estructura y actuaciones conforme a las disposiciones contenidas en este Decreto, dentro de los sesenta días hábiles, siguientes a su entrada en vigor.
 
