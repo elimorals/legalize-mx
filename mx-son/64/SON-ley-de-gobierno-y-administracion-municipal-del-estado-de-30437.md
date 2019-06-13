@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2018-09-27"
+last_updated: "2019-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2019.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -1469,11 +1469,11 @@ El Plan indicará los programas que deban ser elaborados, los cuales observarán
 
 En el caso de los municipios con una población mayor a 50 mil habitantes, los Ayuntamientos deberán incorporar al Plan Municipal de Desarrollo y los programas que se deriven del mismo los objetivos y metas en materia de desarrollo urbano sustentable que establece la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 13 DE JUNIO DE 2019)</small>
 
 ###### Artículo 121.
 
-Los programas especificarán los objetivos, prioridades y política que regirán el desempeño de las actividades del área de que se trate, las regiones que se consideren prioritarias o estratégicas o las prioridades del desarrollo integral y sustentable del Municipio, en todo caso deberán contener:
+Los programas especificarán los objetivos, prioridades y política que regirán el desempeño de las actividades del área de que se trate, las regiones que se consideren prioritarias o estratégicas o las prioridades del desarrollo integral y sustentable del Municipio, los cuales deberán observar los principios de proporcionalidad y equidad, en razón del número de población del municipio, en todo caso deberán contener:
 
 I. Diagnóstico de la situación vigente;
 
@@ -1561,9 +1561,17 @@ XXXIII.- Incrementar el número de trámites que la población pueda efectuar en
 
 XXXIV.- Promover el acceso a Internet gratuito en los edificios y espacios públicos;
 
-XXXV.- Difundir información y conocimientos sobre el desarrollo urbano sustentable y los estilos de vida en armonía con la naturaleza; y
+> <small>(REFORMADA, B.O. 13 DE JUNIO DE 2019)</small>
 
-XXXVI.- Salvaguardar y proteger el patrimonio cultural y natural del municipio.
+XXXV.- Difundir información y conocimientos sobre el desarrollo urbano sustentable y los estilos de vida en armonía con la naturaleza;
+
+> <small>(REFORMADA, B.O. 13 DE JUNIO DE 2019)</small>
+
+XXXVI.- Salvaguardar y proteger el patrimonio cultural y natural del municipio; y
+
+> <small>(ADICIONADA, B.O. 13 DE JUNIO DE 2019)</small>
+
+XXXVII.- Lograr que se den polos de desarrollo en todas las áreas poblacionales del municipio de una manera proporcional y equitativa, que tengan todas estas las mismas posibilidades de crecer.
 
 Los Ayuntamientos podrán incorporar otros objetivos y metas relacionados con el desarrollo urbano sustentable que estimen convenientes, de acuerdo a las condiciones específicas de cada uno de ellos.
 
@@ -1592,6 +1600,10 @@ Cada Ayuntamiento deberá publicar el Plan Municipal de Desarrollo en el Boletí
 Para el cumplimiento de los objetivos de los programas que deriven del Plan Municipal de Desarrollo, la administración pública municipal directa deberá elaborar un programa operativo anual y, en el caso de las entidades paramunicipales, cada una de ellas deberá elaborar su propio programa.
 
 Se entenderá por programa operativo anual, la anualización, en términos de objetivos y metas, del Plan Municipal de Desarrollo y de los programas que deriven de él. Este programa, de naturaleza obligatoria para la administración pública municipal directa y entidades paramunicipales, deberá contener las estrategias y líneas prioritarias de acción que se seguirán para ejecutar los mismos, mediante la realización de acciones coordinadas, concertadas e inducidas y se constituirán como el vínculo entre el Plan y los programas de desarrollo antes señalados y la programación-presupuestación del gasto público municipal.
+
+> <small>(ADICIONADO, B.O. 13 DE JUNIO DE 2019)</small>
+
+Para los efectos que se señalan en los párrafos anteriores y con la finalidad de lograr polos de desarrollo en toda el área poblacional que comprendan al municipio, se deberán observar los principios de proporcionalidad y equidad, en razón del número de pobladores del área respectiva.
 
 ###### Artículo 127.
 
@@ -4356,3 +4368,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los ayuntamientos tendrán 60 días hábiles para emitir o actualizar sus disposiciones reglamentarias para la correcta operación de este Decreto.
+
+B.O. 13 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 31, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
