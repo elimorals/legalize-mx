@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2018-12-24"
+last_updated: "2019-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "SON"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE JUNIO DE 2019 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2019.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -78,6 +80,10 @@ VII.- Bebidas de bajo contenido alcohólico: aquéllas cuyo contenido alcohólic
 VII BIS.- Bacanora: Bebida alcohólica regional del Estado de Sonora, México, obtenida por destilación y rectificación de mostos, preparados directa y originalmente con los azúcares extraídos de la molienda de las cabezas maduras de Agave Angustifolia Haw, hidrolizadas por cocimiento, y sometidas a fermentación alcohólica con levaduras. El bacanora es un líquido que, de acuerdo a su tipo, es incoloro o amarillento cuando es madurado en recipientes de madera de roble o encino, o cuando se aboque sin madurarlo;
 
 VIII.- Cerveza: aquélla bebida fermentada, elaborada con granos de cebada u otros cereales germinados y fermentados, malta, fécula, lúpulo, levadura y agua, siempre que su contenido alcohólico sea inferior a los 6 grados Gay Lussac; y
+
+> <small>(ADICIONADA, B.O. 13 DE JUNIO DE 2019)</small>
+
+VIII BIS.- Cerveza artesanal: Bebida fermentada elaborada principalmente con malta de cebada, lúpulo, levadura y agua potable, no utilizando productos transgénicos ni aditivos químicos que alteren su composición y desarrollo natural en su proceso de fermentación, cuyo contenido de alcohol a la temperatura de quince grados centígrados, sea mayor a dos por ciento por volumen, pero que no exceda de doce por ciento por volumen.
 
 IX.- Productos no potables: aquéllas bebidas cuyo contenido alcohólico sea mayor de 55 grados Gay Lussac, los cuales no se autorizarán para su venta o suministro al público, para su ingestión directa.
 
@@ -139,13 +145,11 @@ I Bis.- Fábrica de Producto Regional Típico.- Lugar autorizado para la elabora
 
 Estos establecimientos podrán distribuir y comercializar su producto en forma personal o a establecimientos que cuenten con licencia para alguna de las actividades de distribución y comercialización de productos con contenido alcohólico debidamente autorizado por la Secretaría, ello de acuerdo a lo señalado en el artículo 11 de esta ley.
 
-(ADICIONADA, B.O. 13 DE NOVIEMBRE DE 2014) (F. DE E., B.O. 26 DE ENERO DE 2015)
+> <small>(REFORMADA, B.O. 13 DE JUNIO DE 2019)</small>
 
-I Bis 1.- Fábrica de Cerveza Artesanal.- Lugar de elaboración y envasado de cerveza con contenido alcohólico menor a los 14o GL, cuya fabricación y conjunto de operaciones son objeto de aprobación, vigilancia y control sanitario en los términos de la Ley de Salud Estatal.
+I BIS 1.- Fábrica de Cerveza Artesanal.- Se entiende aquel establecimiento independiente donde se produce, envasa y almacena para su distribución y venta, cerveza artesanal, de producción propia, y podrá contar con boutique o sala de degustación, autorizado en los términos de la normatividad aplicable.
 
-Los titulares de las licencias o sus representantes, no podrán estar asociados de ninguna manera con algún otro productor de bebidas con contenido alcohólico que no tenga licencia para Fábrica de Cerveza Artesanal.
-
-La asociación entre productores de cerveza artesanal solo podrá darse con el fin de protección, fomento y promoción, y de ninguna manera podrán compartir gastos o utilidades entre ellos.
+Los titulares de las licencias no podrán estar asociados de ninguna manera con algún otro productor de bebidas con contenido alcohólico que no tenga licencia para Fábrica de Cerveza Artesanal. La asociación entre productores de cerveza artesanal solo podrá darse con el fin de protección, fomento y promoción, y de ninguna manera podrán compartir gastos o utilidades entre ellos.
 
 > <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -165,6 +169,12 @@ Este tipo de establecimientos podrá complementar la venta de bebidas de conteni
 
 Para operar con esta última modalidad deberán reunirse los requisitos que para tal efecto se establezcan en el reglamento de la presente Ley y contar con licencia específica expedida por el Ejecutivo del Estado, por conducto de la Secretaría;
 
+> <small>(ADICIONADA, B.O. 13 DE JUNIO DE 2019)</small>
+
+III BIS.- Boutique de Cerveza Artesanal.- Establecimiento mercantil especializado en la venta de cerveza artesanal, hecha en México, en envase cerrado al menudeo, mercancías relacionadas con su consumo externo.
+
+Este tipo de establecimientos podrá complementar la venta de bebidas de contenido alcohólico con la venta de productos alimenticios tales como lácteos, embutidos y marinos enlatados pudiendo también contar con un área anexa, acondicionada con sillas y mesas, donde se podrá brindar atención y servicio a los clientes para que degusten las bebidas con contenido alcohólico, acompañadas con el consumo de productos alimenticios en su estado de presentación, adquiridos en el propio establecimiento.
+
 > <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 IV.- Cantina.- Establecimiento donde pueden expenderse bebidas con contenido alcohólico en envase abierto y para el consumo inmediato en el interior del mismo, contará con barra y contra-barra, funcional y salubre.
@@ -173,17 +183,11 @@ Podrá contar con mesas y sillas, mesas de billar, juegos de mesa y otros servic
 
 Los establecimientos a que se refiere esta fracción, no podrán contar con pista de baile.
 
-> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, B.O. 13 DE JUNIO DE 2019)</small>
 
-IV Bis.- Billar o Boliche.- Establecimientos destinados a operar instalaciones para practicar juegos de boliche y billar, de manera conjunta o separada, como actividades principales, donde además podrán expenderse bebidas con contenido alcohólico en envase abierto y para el consumo inmediato en el interior del mismo.
+IV BIS.- Sala de degustación para la venta exclusiva de cerveza artesanal.- Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de cerveza artesanal hecha en México con o sin alimentos.
 
-Podrá contar con mesas y sillas, juegos de mesa y otros servicios accesorios para fomentar en los clientes la sana diversión, recreación y esparcimiento, tales como música viva o ambiental, así como con aparatos reproductores de música y video, siempre que funcionen a un volumen de sonido moderado que no constituya molestia para el vecindario y que se cumplan las disposiciones que establecen las leyes aplicables.
-
-Dicho establecimiento podrá contar con bar anexo comunicado, mismo que deberá estar claramente delimitado y separado del área de billar o boliche, ello no obstante su comunicación, donde podrán consumirse bebidas alcohólicas sin alimentos.
-
-Podrá proporcionar servicio para eventos sociales en los que se permite la venta o consumo de bebidas con contenido alcohólico, en su caso, ser necesario recabar autorización de la autoridad municipal para la celebración de tales eventos. Asimismo, se permite la venta y consumo en las áreas de jardines y terrazas del establecimiento.
-
-Los establecimientos a que se refiere esta fracción, no podrán contar con pista de baile.
+Podrá contar con mesas y sillas, y otros servicios accesorios para fomentar en los clientes la sana diversión, recreación y esparcimiento, tales como música viva o ambiental, así como con aparatos reproductores de música y video, siempre que funcionen a un volumen de sonido moderado que no constituya molestia para el vecindario y que se cumplan las disposiciones que establecen las leyes aplicables. Los establecimientos a que se refiere esta fracción, no podrán contar con pista de baile.
 
 > <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -1722,3 +1726,11 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Lo dispuesto en el artículo 41 Decies del Código Fiscal del Estado de Sonora, será aplicable a partir del ejercicio fiscal del año 2019, a efecto de que el primer dictamen se presente a más tardar el día 30 de julio de 2020, por el citado ejercicio fiscal del año 2019.
+
+B.O. 13 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 30, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 01 de enero del año 2020, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
