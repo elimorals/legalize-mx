@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-97-de-educacion-para-el-estado-de-sonora-115928"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-14"
-last_updated: "2018-11-22"
+last_updated: "2019-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 97, DE EDUCACION PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2019.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2016.
 
@@ -221,6 +223,10 @@ VI Bis.- Fomentar la valoración de la diversidad y la cultura de inclusión com
 
 VII.- Fomentar el uso adecuado y responsable de las tecnologías de la información y la comunicación, el conocimiento y la conciencia respecto de las mejores prácticas para hacer uso apropiado de internet y de las redes sociales;
 
+> <small>(ADICIONADA, B.O. 13 DE JUNIO DE 2019)</small>
+
+VII Bis.- Promover la eliminación de estereotipos y brechas de género en el estudio y ejercicio de carreras y profesiones relacionadas con las ciencias, la tecnología, la ingeniería y las matemáticas, impulsando la participación equilibrada entre niñas y niños, hombres y mujeres, en estas materias, carreras y profesiones.
+
 VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquéllos que constituyen el patrimonio cultural de la nación;
 
 IX.- Fomentar la educación en materia de nutrición, prevención de accidentes, primeros auxilios y estimular la educación física y la práctica del deporte;
@@ -377,7 +383,13 @@ XVIII.- Impulsar el desarrollo de la enseñanza tecnológica y de la investigaci
 
 XIX.- Realizar las acciones, desde el nivel de educación básica hasta el nivel de educación media superior, para informar, orientar y asesorar a los estudiantes en el desarrollo de sus aptitudes, capacidades, destrezas, habilidades y valores que les permita identificar y fortalecer sus vocaciones, así como conocer ampliamente la oferta educativa técnica y profesional que exista en el estado, de forma que esta orientación les permita a los estudiantes estar en mejores condiciones para elegir a futuro una carrera profesional;
 
-XX.- Implementar programas o mecanismos que incentiven el interés de los estudiantes de nivel básico por la ciencia y la tecnología, que permita la detección y estímulo de niños y jóvenes con talento para las ciencias naturales como la física, la química y la biología. En este sentido, impulsar una plataforma de aulas y maestros para la impartición de la educación de las ciencias naturales de manera interactiva, basada en la indagación y en la realización de ejercicios prácticos, que contribuya a reforzar en los alumnos el aprendizaje de los conocimientos científicos;
+> <small>(REFORMADA, B.O. 13 DE JUNIO DE 2019)</small>
+
+XX.- Implementar programas o mecanismos que incentiven el interés de los estudiantes de nivel básico por la ciencia, la tecnología y la innovación, y permitan la detección y estímulo de niñas, niños y jóvenes con talento para la ciencia, la tecnología, la ingeniería y las matemáticas. En este sentido, impulsar una plataforma de aulas y maestros para la impartición de la educación de estas materias, en forma conjunta e integral, basada en la indagación y en la realización de ejercicios prácticos y la incorporación de tecnología, para reforzar en los alumnos el aprendizaje de los conocimientos científicos y tecnológicos, así como el desarrollo de habilidades de innovación;
+
+> <small>(ADICIONADA, B.O. 13 DE JUNIO DE 2019)</small>
+
+XX BIS.- Coordinarse con la Comisión de Ciencia y Tecnología del Congreso del Estado de Sonora para establecer las bases del otorgamiento del premio "Talentos femeniles en Ciencia, Tecnología, Ingeniería y Matemáticas" a las niñas y jóvenes del sexo femenino en los niveles de primaria, secundaria, media superior y superior que hayan destacado en tales materias, con el fin de premiar sus esfuerzos, reconocer sus méritos y promover la erradicación de los estereotipos y brechas de género en el estudio y ejercicio de materias, carreras y profesiones asociadas tradicionalmente con un solo género;
 
 XXI.- Fomentar y difundir las actividades artísticas, culturales, físico deportivas y de salud mental en todas sus manifestaciones;
 
@@ -413,15 +425,19 @@ XXXIII.- Coordinar y operar un padrón estatal de estudiantes, docentes, institu
 
 La Secretaría participará en la actualización e integración permanente del Sistema de Información y Gestión Educativa.
 
-> <small>(REFORMADA, B.O. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, B.O. 13 DE JUNIO DE 2019)</small>
 
 XXXIV.- Coordinarse con las autoridades en materia de salud del Estado, con los municipios y las sociedades de padres de familia, según corresponda, para implementar programas que proporcionen a los alumnos de educación secundaria y preparatoria, información veraz sobre la sexualidad, riesgos, métodos de protección, anticoncepción, la reproducción humana, la planificación familiar, así como la prevención de enfermedades de transmisión sexual y los embarazos, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, fomentando la participación, respetando el derecho primigenio, en todo momento, de quienes detenten la patria potestad o tutela; debiendo implementar para ello programas de salud sexual tanto para alumnos como para padres 10 (sic) de familia, así como programas de desarrollo emocional, reforzamiento de autoestima, habilidades y plan de vida.
 
-Para tal efecto se procurará que los padres, o quienes tenga la patria potestad, tutela o custodia del alumno, participen activamente en los programas y acciones que para tal efecto se implementen; y
+Para tal efecto se procurará que los padres, o quienes tenga (sic) la patria potestad, tutela o custodia del alumno, participen activamente en los programas y acciones que para tal efecto se implementen;
 
-> <small>(ADICIONADA, B.O. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, B.O. 13 DE JUNIO DE 2019)</small>
 
-XXXV.- Coordinarse con la Comisión del Deporte del Estado de Sonora, para fortalecer los sistemas de transporte escolar que permitan materializar apoyos para la transportación de deportistas a través de los recursos materiales y humanos de dichos sistemas, en aquellos casos en los que no se afecte la transportación escolar gratuita a que se hace referencia en el segundo párrafo del artículo 74 de la presente Ley.
+XXXV.- Coordinarse con la Comisión del Deporte del Estado de Sonora, para fortalecer los sistemas de transporte escolar que permitan materializar apoyos para la transportación de deportistas a través de los recursos materiales y humanos de dichos sistemas, en aquellos casos en los que no se afecte la transportación escolar gratuita a que se hace referencia en el segundo párrafo del artículo 74 de la presente Ley; y
+
+> <small>(ADICIONADA, B.O. 13 DE JUNIO DE 2019)</small>
+
+XXXVI.- Fomentar la cultura de protección al medio ambiente, para lo cual deberá implementar, en coordinación con la Comisión de Ecología y Desarrollo Sustentable del Estado, las actividades de separación de basura para reciclaje en las escuelas públicas y privadas de los niveles preescolar, primaria, secundaria y media superior, dejando a la administración de la escuela según corresponda, el manejo de los recursos económicos que se llegaren a generar por la venta de los residuos para reciclaje, para que sean aplicados al mantenimiento o mejora de la escuela.
 
 ###### ARTÍCULO 25.
 
@@ -601,9 +617,17 @@ Los contenidos de la educación serán definidos en planes y programas de estudi
 
 La educación básica, la normal y demás para la formación de maestros de educación básica que se imparta en la Entidad se sujetará a los planes y programas de estudio obligatorios que la Secretaría de Educación Pública del Gobierno Federal determine.
 
+> <small>(ADICIONADO, B.O. 13 DE JUNIO DE 2019)</small>
+
+Para el caso de los planes y programas de estudios de la educación normal y demás para la formación de maestros de educación básica que se imparta en la Entidad, la Secretaría buscará proponer a la autoridad educativa federal para su autorización e inclusión, el propiciar una educación en materia de ciencia, tecnología, ingeniería y matemáticas, sensible a las cuestiones de género, con la intención de formar docentes que impulsen la participación equilibrada entre niñas y niños, en el estudio de dichas materias.
+
 La Secretaría propondrá a la autoridad educativa federal para su consideración y, en su caso, autorización, contenidos regionales que, sin mengua del carácter nacional de los planes y programas citados, permitan que los educandos adquieran un mejor conocimiento de la historia, geografía, las costumbres, las tradiciones, los ecosistemas y demás aspectos propios de nuestra Entidad y sus municipios.
 
 Los planes y programas que determine la autoridad educativa federal, así como los que correspondan al Ejecutivo del Estado, por conducto de la Secretaría, deberán publicarse en el Boletín Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADO, B.O. 13 DE JUNIO DE 2019)</small>
+
+ARTÍCULO 43 BIS.- Las instituciones de educación básica y de nivel medio superior, deberán promover, a través de cursos o talleres o, en su caso, mediante el establecimiento en sus programas de estudio de una cátedra para la paz, con la finalidad de fomentar la cultura de paz como un conjunto de valores, actitudes, tradiciones, comportamientos y estilos de vida basados en los principios de libertad, justicia, democracia, solidaridad, pluralismo, diversidad cultural, diálogo y entendimiento.
 
 ###### ARTÍCULO 44.
 
@@ -1304,3 +1328,35 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La autoridad educativa, en el ámbito de su competencia, efectuará, en un plazo no mayor (sic) 180 días contado a partir de la entrada en vigor del presente Decreto, los ajustes razonables y necesarios que garanticen la educación inclusiva, con atención al principio de progresividad.
+
+B.O. 13 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 17, QUE ADICIONA UN ARTÍCULO 43 BIS A LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 180 días naturales siguientes a su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Educación y Cultura del Estado de Sonora, deberá implementar las modificaciones en los Reglamentos correspondientes, con el fin de dar cumplimiento a lo establecido en el presente Decreto.
+
+B.O. 13 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 18, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 13 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 20, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 24 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Educación y Cultura, en coordinación con la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, en un plazo no mayor a ciento ochenta días, contado a partir de la publicación de este Decreto, deberán integrar un programa de ordenamiento ecológico orientado a la separación de basura para reciclaje en las escuelas referidas en el presente Decreto.
