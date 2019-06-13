@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-120888
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-04-12"
-last_updated: "2017-05-10"
+last_updated: "2019-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120888&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2017-04-05"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 10 DE MAYO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2019.
 
 Estatuto publicado en la Segunda Sección al Número 8 del Diario Oficial de la Federación, el miércoles 12 de abril de 2017.
 
@@ -391,6 +389,10 @@ II. Coordinación de Asesores; y
 
 III. Coordinación de Comunicación Corporativa.
 
+> <small>(ADICIONADA, D.O.F. 13 JUNIO DE 2019)</small>
+
+IV. Coordinación de Relaciones Interinstitucionales.
+
 ###### ARTÍCULO 15.
 
 A la Dirección Corporativa de Operaciones estarán adscritas las siguientes áreas:
@@ -665,13 +667,13 @@ IX. Coordinar la prestación de los servicios generales, de logística, de desar
 
 X. Coordinar la administración del acervo documental y de archivo de la Comisión y sus empresas productivas subsidiarias;
 
-XI. Dirigir la política institucional de desarrollo social y cultural de la Comisión y sus empresas productivas subsidiarias;
+XI. (DEROGADA, D.O.F. 13 JUNIO DE 2019)
 
 XII. Dirigir las acciones y estrategias en materia de administración y aprovechamiento de bienes muebles e inmuebles de la Comisión y sus empresas productivas subsidiarias;
 
 XIII. Coordinar la estrategia de aseguramiento para la protección de los activos de la Comisión y, en su caso, coordinarse con las empresas productivas subsidiarias y empresas filiales;
 
-XIV. Coordinar el programa de donativos y donaciones de la Comisión y de sus empresas productivas subsidiarias, en términos de los lineamientos que expida el Consejo; y
+XIV. (DEROGADA, D.O.F. 13 JUNIO DE 2019)
 
 XV. Participar en la administración de recursos para la vivienda de los trabajadores.
 
@@ -719,7 +721,7 @@ XIII. Participar en los asuntos en que la Comisión intervenga o tenga interés 
 
 XIV. Participar con asistencia jurídica en la adquisición por vía de derecho público o privado de bienes inmuebles, en el establecimiento de derechos reales y en los demás actos relacionados con la adquisición de derechos inmobiliarios; así como en la obtención de acuerdos de destino, desincorporación y enajenación de bienes propiedad de la Comisión; y
 
-XV. Establecer la comunicación y vinculación con el Poder Legislativo Federal.
+XV. (DEROGADA, D.O.F. 13 JUNIO DE 2019)
 
 ###### ARTÍCULO 33.
 
@@ -933,7 +935,7 @@ VI. Controlar y normar acciones y estrategias referidas a los procesos de admini
 
 VII. Supervisar la estrategia de aseguramiento para la protección de los activos de la Comisión y, en su caso, coordinarse con las empresas productivas subsidiarias; y
 
-VIII. Proponer las acciones que faciliten la atención y solución de problemas sociales, que resulten de las actividades de la Comisión y de sus empresas productivas subsidiarias.
+VIII. (DEROGADA, D.O.F. 13 JUNIO DE 2019)
 
 ###### ARTÍCULO 46.
 
@@ -1314,3 +1316,11 @@ NOVENO. En tanto no sea aprobado el manual de organización específico de la Ge
 El presente Estatuto fue aprobado y expedido por el Consejo de Administración de la Comisión Federal de Electricidad, con fundamento en el artículo 12, fracción XV, de la Ley de la Comisión Federal de Electricidad, en la sesión 17 ordinaria celebrada el 23 de febrero de 2017, mediante acuerdo número CA-003/2017.
 
 En la Ciudad de México, a los cinco días del mes de abril de dos mil diecisiete.- El Director General de la Comisión Federal de Electricidad, Jaime Francisco Hernández Martínez, con fundamento en el artículo 45, fracciones I y II, de la Ley de la Comisión Federal de Electricidad.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DE LAS “MODIFICACIONES AL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, PUBLICADO EL 12 DE ABRIL DE 2017”.]
+
+ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
