@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2018-11-22"
+last_updated: "2019-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "SON"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE JUNIO DE 2019 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2019.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -225,7 +227,9 @@ I. Consentimiento presunto. Se presume que hay consentimiento, cuando el hecho s
 
 II. Legítima defensa: Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
 
-Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
+> <small>(REFORMADO, B.O. 13 DE JUNIO DE 2019)</small>
+
+Existe presunción legal de defensa legítima, salvo prueba en contrario, por el hecho de causar daño, lesione o incluso se prive de la vida a quien por cualquier medio se introduzca a los límites de un inmueble, sin derecho o sin consentimiento de quien legítimamente sea propietario, posesionario u ocupante, al de su familia, o al de cualquier persona que tenga la obligación de defender, así como al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación; o bien, lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la posibilidad de una agresión.
 
 III. Estado de necesidad justificante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
 
@@ -3039,9 +3043,9 @@ IV.- Al que contraiga matrimonio o a quienes autoricen su celebración con un in
 
 Se impondrán de seis meses a cinco años de prisión y multa de diez a doscientas Unidades de Medida y Actualización al que, estando unido con una persona en matrimonio no disuelto, ni declarado nulo, contraiga otro matrimonio con las formalidades legales. Estas mismas sanciones se aplicarán al otro contrayente, si conocía el impedimento al momento de celebrarse el matrimonio.
 
-### CAPITULO UNICO. VIOLACION DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
+### CAPITULO V. MALTRATO INFANTIL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(ADICIONADO, B.O. 13 DE JUNIO DE 2019)</small>
 
 ###### ARTICULO 232.
 
@@ -3059,7 +3063,7 @@ Para que el perdón concedido por la víctima u ofendido, o representante de los
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE ENERO DE 2018)</small>
 
-### CAPITULO I. AMENAZAS
+### CAPITULO UNICO. VIOLACION DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
@@ -3067,9 +3071,9 @@ Para que el perdón concedido por la víctima u ofendido, o representante de los
 
 Por violencia familiar se entiende todo acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, sexual, económica y/o patrimonialmente a cualquier miembro de la familia, y que pueda causar maltrato físico, verbal, psicológico, sexual, económico y/o daño patrimonial, en los términos de la Ley de Prevención y Atención de la Violencia familiar.
 
-> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, B.O. 13 DE JUNIO DE 2019)</small>
 
-Comete el delito de violencia familiar el cónyuge, excónyuge, concubina o concubino, exconcubina o exconcubino o quién tenga o haya tenido una relación de hecho; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, tutor o curador que realice cualquiera de los actos descritos en el párrafo anterior.
+Comete el delito de violencia familiar el cónyuge, excónyuge, concubina o concubino, exconcubina o exconcubino o quién tenga o haya tenido una relación de hecho; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, tutor o curador que realice cualquiera de los actos descritos en el párrafo anterior. Tratándose de menores de edad, la sanción será la prevista en el artículo 234 D de este Código Penal.
 
 > <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
@@ -3111,6 +3115,54 @@ Si el delito se cometiera en contra de la víctima por su condición de género,
 
 En todos los casos previstos en los dos artículos precedentes, el Ministerio Público se encontrará obligado a recibir, aún en días y horas inhábiles, cualquier denuncia o querella que se le presente exponiendo actos de violencia familiar y, bajo su estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las medidas de protección idóneas para la víctima u ofendido, de conformidad con el Código Nacional de Procedimientos Penales y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 13 DE JUNIO DE 2019)</small>
+
+### CAPITULO I. AMENAZAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+
+###### ARTICULO 234-D.
+
+Comete el delito de maltrato infantil quien lleve a cabo omisiones o conductas de agresión física, psicológica, emocional, sexual, o de cualquier tipo de sufrimiento o maltrato, en contra del menor de edad que este sujeto a su patria potestad, custodia, vigilancia, educación, enseñanza o cuidado.
+
+Este delito se perseguirá de oficio. El imputado se sujetará a las reglas a que se refieren el artículo 234-C, y en caso de quebrantar las medidas precautorias se le sancionará en los términos del artículo 157, fracción II del Código Penal del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 13 DE JUNIO DE 2019)</small>
+
+###### ARTICULO 234-E.
+
+Al que cometa el delito de maltrato infantil se le impondrá de 1 a 12 años de prisión, y de 1000 a 3000 Unidades de Medida y Actualización, independientemente de la penalidad causada por lesiones u otro delito.
+
+Las penas contenidas en este artículo se duplicarán cuando el imputado de los delitos descritos en este capítulo haya obtenido los beneficios de los acuerdos reparatorios y haya incumplido dichos acuerdos.
+
+> <small>(ADICIONADO, B.O. 13 DE JUNIO DE 2019)</small>
+
+###### ARTICULO 234-F.
+
+Se incrementará en una tercera parte la pena correspondiente a este delito, cuando:
+
+I. El sujeto pasivo sea una persona menor de doce años.
+
+II. El sujeto pasivo tenga una discapacidad.
+
+III. El sujeto activo utilice contra el menor de edad algún arma, instrumento u objeto.
+
+IV. El delito sea cometido por quien dirija, administre, labore o preste sus servicios a una institución asistencial pública o privada, o preste un servicio particular que tenga la guarda, cuidado o custodia temporal del sujeto pasivo.
+
+> <small>(ADICIONADO, B.O. 13 DE JUNIO DE 2019)</small>
+
+###### ARTICULO 234-G.
+
+A quien se encuentre ejerciendo la patria potestad o custodia y cometa este delito, el juez podrá imponerle, además de la pena correspondiente, será (sic) condenado a la pérdida, limitación o suspensión de la patria potestad, según las circunstancias del caso, a juicio del juez.
+
+> <small>(ADICIONADO, B.O. 13 DE JUNIO DE 2019)</small>
+
+###### ARTICULO 234-H.
+
+Tratándose de este delito, el Ministerio Público deberá solicitar de manera inmediata las medidas a que se refiere el artículo 234-C, velando siempre por el interés superior del menor.
+
+El juez deberá decretar de manera urgente e inmediata las medidas antes mencionadas, debiendo notificar lo anterior al imputado e informar al Ministerio Público para que dé cumplimiento a las medidas dictadas para garantizar la más completa protección, seguridad e integridad del menor.
+
 TITULO DECIMOCUARTO
 
 DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
@@ -3118,6 +3170,34 @@ DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 ### CAPITULO II. ALLANAMIENTO DE MORADA Y ASALTO
 
 > <small>(REFORMADO, B.O. 27 DE ABRIL DE 2017)</small>
+
+###### ARTICULO 235.
+
+Se impondrá prisión de tres días a dos años o multa de veinte a trescientas Unidades de Medida y Actualización:
+
+I.- Al que, sin cumplir con los requisitos legales, sepulte o mande sepultar un cadáver o parte de él, o feto humanos; y
+
+II.- Al que exhume un cadáver sin los requisitos legales, o con violación de derechos.
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+
+###### ARTICULO 236.
+
+Se impondrán de seis meses a tres años de prisión y multa de diez a ciento cincuenta Unidades de Medida y Actualización, al que oculte, destruya, sepulte o mande sepultar el cadáver de una persona a la que se haya dado muerte violenta, o parte de él, si el acusado sabía esta circunstancia.
+
+###### ARTICULO 237.
+
+Se impondrá la misma pena señalada en el artículo anterior:
+
+I.- Al que viole un túmulo, un sepulcro, una sepultura, féretro o una urna funeraria;
+
+II.- Al que profane un cadáver o restos humanos, con actos de vilipendio, mutilación, obscenidad o brutalidad; y
+
+III.- Al que viole o vilipendie el lugar donde reposa un cadáver, restos humanos o sus cenizas.
+
+TITULO DECIMOQUINTO
+
+DELITOS CONTRA LA PAZ Y SEGURIDAD DE LAS PERSONAS
 
 ### CAPITULO III. USURPACION DE PERSONALIDAD O IDENTIDAD
 
@@ -3249,36 +3329,6 @@ TITULO DECIMOSEXTO
 
 DELITOS CONTRA LA VIDA Y LA SALUD
 
-###### ARTICULO 235.
-
-Se impondrá prisión de tres días a dos años o multa de veinte a trescientas Unidades de Medida y Actualización:
-
-I.- Al que, sin cumplir con los requisitos legales, sepulte o mande sepultar un cadáver o parte de él, o feto humanos; y
-
-II.- Al que exhume un cadáver sin los requisitos legales, o con violación de derechos.
-
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
-
-###### ARTICULO 236.
-
-Se impondrán de seis meses a tres años de prisión y multa de diez a ciento cincuenta Unidades de Medida y Actualización, al que oculte, destruya, sepulte o mande sepultar el cadáver de una persona a la que se haya dado muerte violenta, o parte de él, si el acusado sabía esta circunstancia.
-
-###### ARTICULO 237.
-
-Se impondrá la misma pena señalada en el artículo anterior:
-
-I.- Al que viole un túmulo, un sepulcro, una sepultura, féretro o una urna funeraria;
-
-II.- Al que profane un cadáver o restos humanos, con actos de vilipendio, mutilación, obscenidad o brutalidad; y
-
-III.- Al que viole o vilipendie el lugar donde reposa un cadáver, restos humanos o sus cenizas.
-
-TITULO DECIMOQUINTO
-
-DELITOS CONTRA LA PAZ Y SEGURIDAD DE LAS PERSONAS
-
-### CAPITULO I. LESIONES
-
 ###### ARTICULO 238.
 
 Se aplicará prisión de tres días a tres años o multa de veinte a trescientos cincuenta Unidades de Medida y Actualización, y caución de no ofender:
@@ -3297,7 +3347,7 @@ Si el amenazador cumple su amenaza, y como consecuencia resultare cometido otro 
 
 Si el amenazador exigía que el amenazado ejecutara un delito y consigue su propósito, se aplicarán las reglas relativas al concurso de delitos, respecto de la sanción aplicable a la amenaza y la que corresponda por su participación en el delito que resulte.
 
-### CAPITULO II. HOMICIDIO
+### CAPITULO I. LESIONES
 
 ###### ARTICULO 240.
 
@@ -3322,6 +3372,8 @@ Se impondrán de cuatro a veinte años de prisión, si el asalto lo cometen dos 
 A quienes asalten una población, poblado o ranchería, se les sancionará con prisión de diez a cuarenta años.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE JUNIO DE 2014)</small>
+
+### CAPITULO II. HOMICIDIO
 
 ### CAPITULO II BIS. DISPARO INDEBIDO DE ARMA DE FUEGO
 
@@ -3348,8 +3400,6 @@ ARTICULO 258 BIS 3.- El delito al que se refiere este capítulo será perseguibl
 ### CAPÍTULO III BIS. FEMINICIDIO
 
 > <small>(ADICIONADO, B.O. 28 DE NOVIEMBRE DE 2013)</small>
-
-### CAPITULO IV. AUXILIOS O INDUCCION AL SUICIDIO
 
 ###### ARTICULO 242.
 
@@ -3431,7 +3481,7 @@ Los padres o tutores que a sabiendas que sus hijos o pupilos padecen alguna enfe
 
 Cuando el contagio llegare a consumarse, el responsable será sancionado en los términos que para el delito de lesiones u homicidio fija este Código.
 
-### CAPITULO V. ABORTO
+### CAPITULO IV. AUXILIOS O INDUCCION AL SUICIDIO
 
 ###### ARTICULO 252.
 
@@ -3513,11 +3563,11 @@ Al responsable de cualquier otro homicidio calificado se impondrá de veinte a c
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 9 DE ABRIL DE 2018)</small>
 
+### CAPITULO V. ABORTO
+
 ### CAPITULO VI. VENTA CLANDESTINA DE BEBIDAS ALCOHOLICAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
-
-### CAPITULO VII. ABANDONO DE PERSONAS
 
 ###### ARTICULO 259.
 
@@ -3577,7 +3627,7 @@ ARTICULO 263 BIS.- Cuando la comisión de los delitos de homicidio o lesiones se
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 28 DE NOVIEMBRE DE 2013)</small>
 
-### CAPITULO I. INJURIAS Y DIFAMACION
+### CAPITULO VII. ABANDONO DE PERSONAS
 
 ###### ARTICULO 263 Bis 1.
 
@@ -3617,13 +3667,11 @@ En el delito de feminicidio se observará lo que señalan los artículos 252 BIS
 
 Al servidor público que maliciosamente o por negligencia, retarde o entorpezca la procuración o administración de justicia, se le sancionará conforme a lo establecido en el artículo 193 fracción VII de éste Código Penal.
 
+### CAPITULO I. INJURIAS Y DIFAMACION
+
 ### CAPITULO II. CALUMNIA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
-
-### CAPITULO III. DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
-
-> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
 
 ###### ARTICULO 264.
 
@@ -3637,7 +3685,9 @@ Si la persona a quien se auxilie o induzca al suicidio fuere menor de edad, adul
 
 Si se auxilia o induce al suicidio a una persona por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
 
-### CAPITULO I. CHANTAJE
+### CAPITULO III. DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
+
+> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
 
 ###### ARTICULO 265.
 
@@ -3667,9 +3717,7 @@ No es punible el aborto causado por culpa de la mujer embarazada, o cuando el em
 
 No se aplicará sanción alguna cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO II. EXTORSION
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+### CAPITULO I. CHANTAJE
 
 ###### ARTICULO 271.
 
@@ -3703,9 +3751,9 @@ Además de las sanciones señaladas, se decretará el decomiso en beneficio del 
 
 Si las conductas a que se refieren las fracciones anteriores se llevan a cabo en más de una ocasión, la sanción será de dos a nueve años y multa de cincuenta a mil Unidades de Medida y Actualización.
 
-### CAPITULO I. PRIVACION ILEGAL DE LIBERTAD Y VIOLACION DE OTROS DERECHOS
+### CAPITULO II. EXTORSION
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 272.
 
@@ -3755,11 +3803,11 @@ TITULO DECIMOSEPTIMO
 
 DELITOS CONTRA EL HONOR
 
+### CAPITULO I. PRIVACION ILEGAL DE LIBERTAD Y VIOLACION DE OTROS DERECHOS
+
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO II. SECUESTRO
-
-### CAPITULO III. SUSTRACCION Y TRAFICO DE MENORES E INCAPACES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 276.
 
@@ -3793,7 +3841,9 @@ DELITOS CONTRA EL HONOR
 
 (DEROGADO, B.O. 12 DE JULIO DE 2007)
 
-### CAPITULO IV. TRATA DE PERSONAS
+### CAPITULO III. SUSTRACCION Y TRAFICO DE MENORES E INCAPACES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 284.
 
@@ -3831,7 +3881,7 @@ No se admitirá prueba alguna de su imputación al acusado de calumnia, ni se li
 
 Cuando haya pendiente un juicio, en la investigación de un delito o imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que dicho juicio termine. En este caso la prescripción comenzará a correr cuando termine el juicio.
 
-### CAPITULO I. ROBO
+### CAPITULO IV. TRATA DE PERSONAS
 
 ###### ARTICULO 288.
 
@@ -3861,9 +3911,7 @@ TITULO DECIMOCTAVO
 
 CHANTAJE Y EXTORSION
 
-### CAPITULO II. ABIGEATO
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 9 DE ABRIL DE 2018)</small>
+### CAPITULO I. ROBO
 
 ###### ARTICULO 292.
 
@@ -3873,7 +3921,9 @@ Comete el delito de chantaje, el que con ánimo de lucro u otro provecho, bajo l
 
 Al responsable del delito de chantaje se le impondrán de seis meses a diez años de prisión y multa de diez a trescientas Unidades de Medida y Actualización.
 
-### CAPITULO III. ABUSO DE CONFIANZA
+### CAPITULO II. ABIGEATO
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 9 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 293.
 
@@ -3895,9 +3945,7 @@ IV. El sujeto activo del delito sea o haya sido, o se ostente sin serlo, integra
 
 ## TITULO DECIMO NOVENO. PRIVACION ILEGAL DE LA LIBERTAD Y VIOLACION DE OTROS DERECHOS
 
-### CAPITULO IV. FRAUDE
-
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+### CAPITULO III. ABUSO DE CONFIANZA
 
 ###### ARTICULO 294.
 
@@ -3947,9 +3995,9 @@ ARTICULO 295 BIS.- Si el sujeto activo, espontáneamente, deja en libertad a la 
 
 Se equipara al delito de privación ilegal de libertad y se sancionará con la pena prevista en el artículo 294 de este Código a quien, por cualquier medio, ilegalmente obligue a otro a llevar a cabo una conducta o abstenerse de realizarla, afectándole su capacidad de actuar, de cualquier modo.
 
-### CAPITULO V. DE LOS DELITOS COMETIDOS POR PERSONAS SUJETAS A CONCURSO
+### CAPITULO IV. FRAUDE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 296.
 
@@ -3999,7 +4047,7 @@ ARTICULO 301 BIS.- (DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO VI. DESPOJO
+### CAPITULO V. DE LOS DELITOS COMETIDOS POR PERSONAS SUJETAS A CONCURSO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
@@ -4059,9 +4107,9 @@ A excepción del previsto por el artículo 301-E, el resto de los delitos previs
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 7 DE ABRIL DE 2008)</small>
 
-### CAPITULO VII. DAÑOS
+### CAPITULO VI. DESPOJO
 
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 301-J.
 
@@ -4075,9 +4123,9 @@ ARTICULO 30 1-K.- (DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
 ## TITULO VIGESIMO. DELITOS EN CONTRA DE LAS PERSONAS EN SU PATRIMONIO
 
-### CAPÍTULO I. ENCUBRIMIENTO
+### CAPITULO VII. DAÑOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 302.
 
@@ -4289,19 +4337,9 @@ Tampoco se sancionará al que restituya espontáneamente los objetos del robo, a
 
 ARTICULO 311 BIS.- En el presente capitulo, el Ministerio Público, en caso de resultar procedente, podrá aplicar los criterios de oportunidad conforme a lo establecido en el Código de Procedimientos Penales para el Estado de Sonora.
 
-### CAPÍTULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+### CAPÍTULO I. ENCUBRIMIENTO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
-
-ARTICULO 329 TER.- Al que por sí o por interpósita persona posea, adquiera, enajene, administre, custodie, cambie, altere, deposite, dé en garantía, invierta, transporte o transfiera recursos, derechos o bienes de cualquier naturaleza, con conocimiento de que proceden o representan el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita, se le impondrán de cinco a quince años de prisión y multa de mil a cinco mil Unidades de Medida y Actualización.
-
-> <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2014)</small>
-
-Las penas previstas en el párrafo anterior serán aumentadas, en una mitad, cuando el delito se cometa por servidores públicos; además, se impondrá a dichos servidores públicos, destitución e inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta.
-
-> <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2014)</small>
-
-Para efectos de este artículo se entiende que proceden o representan el producto de una actividad ilícita, los recursos, derechos o bienes, de cualquier naturaleza, sobre los que se acredite su ilegítima procedencia o exista certeza de que provienen directa o indirectamente de la comisión de algún delito o representan las ganancias derivadas de éste.
 
 ###### ARTICULO 312.
 
@@ -4351,9 +4389,19 @@ ARTICULO 313 BIS.- Cuando los delitos previstos en este Capítulo se cometan ent
 
 En todos los casos previstos en este Capítulo, cuando no se haya utilizado la violencia en las personas o en las cosas, o cuando habiéndose utilizado se trate de la estrictamente necesaria para materializar el sacrificio o la cacería furtiva, la acción penal podrá extinguirse cuando exista manifestación expresa de desinterés jurídico por parte de la víctima u ofendido en la investigación del delito o la prosecución de la causa.
 
-### CAPITULO UNICO. DELITOS ELECTORALES
+### CAPÍTULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+
+ARTICULO 329 TER.- Al que por sí o por interpósita persona posea, adquiera, enajene, administre, custodie, cambie, altere, deposite, dé en garantía, invierta, transporte o transfiera recursos, derechos o bienes de cualquier naturaleza, con conocimiento de que proceden o representan el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita, se le impondrán de cinco a quince años de prisión y multa de mil a cinco mil Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2014)</small>
+
+Las penas previstas en el párrafo anterior serán aumentadas, en una mitad, cuando el delito se cometa por servidores públicos; además, se impondrá a dichos servidores públicos, destitución e inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta.
+
+> <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2014)</small>
+
+Para efectos de este artículo se entiende que proceden o representan el producto de una actividad ilícita, los recursos, derechos o bienes, de cualquier naturaleza, sobre los que se acredite su ilegítima procedencia o exista certeza de que provienen directa o indirectamente de la comisión de algún delito o representan las ganancias derivadas de éste.
 
 ###### ARTICULO 314.
 
@@ -4383,7 +4431,7 @@ El delito previsto en este Capítulo solamente se perseguirá a petición de par
 
 Sin perjuicio de la aplicación de las reglas del concurso previstas en este Código, serán oficiosos los delitos a que se refiere este Capítulo, cuando existiendo identidad de propósito delictivo, se afecte a tres o más sujetos pasivos.
 
-### CAPITULO UNICO. DELITOS CONTRA LA ECOLOGIA
+### CAPITULO UNICO. DELITOS ELECTORALES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
@@ -4467,9 +4515,9 @@ Los delitos previstos en este Capítulo, solamente se perseguirán a petición d
 
 Sin perjuicio de la aplicación de las reglas del concurso previstas en este Código, serán oficiosos los delitos a que se refiere este Capítulo, cuando existiendo identidad de propósito delictivo, se afecte a tres o más sujetos pasivos.
 
-### CAPITULO UNICO. DE LOS DELITOS EN CONTRA DE LOS ANIMALES POR ACTOS DE MALTRATO O CRUELDAD
+### CAPITULO UNICO. DELITOS CONTRA LA ECOLOGIA
 
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 321.
 
@@ -4488,6 +4536,10 @@ Cuando en el concurso de una persona jurídica apareciere que se han cometido lo
 ###### ARTICULO 322.
 
 La investigación y persecución de estos delitos, será independiente del procedimiento civil respectivo.
+
+### CAPITULO UNICO. DE LOS DELITOS EN CONTRA DE LOS ANIMALES POR ACTOS DE MALTRATO O CRUELDAD
+
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 323.
 
@@ -5248,3 +5300,23 @@ B.O. 22 DE NOVIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 13 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 24, QUE REFORMA EL ARTÍCULO 13 APARTADO “B”, FRACCIÓN II, PÁRRAFO SEGUNDO DEL CÓDIGO PENAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial de Gobierno del Estado de Sonora.
+
+B.O. 13 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 25, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
