@@ -4,7 +4,7 @@ identifier: "TAB-ley-en-materia-de-desaparicion-forzada-de-personas-136955"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-12"
-last_updated: "2019-06-12"
+last_updated: "2019-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,11 @@ state: "TAB"
 ---
 # LEY EN MATERIA DE DESAPARICION FORZADA DE PERSONAS, DESAPARICION COMETIDA POR PARTICULARES Y DEL SISTEMA DE BUSQUEDA DE PERSONAS PARA EL ESTADO DE TABASCO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
-
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2019 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
-LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA DE BÚSQUEDA DE PERSONAS PARA
-
-EL ESTADO DE TABASCO
+LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA DE BÚSQUEDA DE PERSONAS PARA EL ESTADO DE TABASCO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE JUNIO DE 2019.]</small>
 
 Ley publicada en el Suplemento D al Número 8010 del Periódico Oficial del Estado de Tabasco, el miércoles 12 de junio de 2019.
 
@@ -1633,7 +1629,9 @@ Además de lo establecido en el párrafo anterior, la Comisión Ejecutiva Estata
 
 ## TRANSITORIOS
 
-PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales, posteriores a su publicación en el Periódico Oficial del Estado.
+> <small>(F. DE E., P.O. 13 DE JUNIO DE 2019)</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. La Fiscalía Estatal, deberá realizar las adecuaciones normativas conducentes, a efectos de ajustar su estructura y actuaciones conforme a las disposiciones contenidas en este Decreto, dentro de los sesenta días hábiles, siguientes a su entrada en vigor.
 
