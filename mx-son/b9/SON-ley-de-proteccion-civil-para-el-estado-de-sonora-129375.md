@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-civil-para-el-estado-de-sonora-129375"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2018-06-11"
+last_updated: "2019-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2019.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 11 de junio de 2018.
 
@@ -397,7 +397,15 @@ Con la finalidad de iniciar las actividades de auxilio en caso de emergencia, la
 
 El Reglamento de esta Ley y las demás disposiciones administrativas en la materia establecerán los casos en los que se requiera de una intervención especializada para la atención de una emergencia o desastre.
 
-La primera instancia de actuación especializada, corresponde a las Unidades Internas de Protección Civil de cada instalación pública o privada, así como a la autoridad municipal que conozca de la situación de emergencia. Además, corresponderá en primera instancia a la coordinación municipal de protección civil el ejercicio de las atribuciones de vigilancia y aplicación de medidas de seguridad.
+> <small>(REFORMADO, B.O. 13 DE JUNIO DE 2019)</small>
+
+La primera instancia de actuación especializada, corresponde a las Unidades Internas de Protección Civil de cada instalación pública o privada, así como a la autoridad municipal que conozca de la situación de emergencia. Además, corresponderá en primera instancia a la coordinación municipal de protección civil el ejercicio de las atribuciones de vigilancia y aplicación de medidas de seguridad, misma que podrá, en cualquier momento, solicitar el auxilio de las coordinaciones municipales de protección civil de los ayuntamientos cercanos que considere necesarios para que coadyuven en la atención de la emergencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 13 DE JUNIO DE 2019)</small>
+
+Los municipios, deberán, en la medida de sus posibilidades, atender la solicitud de apoyo o auxilio, para la atención de una emergencia o desastre, al municipio que se lo solicite.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 13 DE JUNIO DE 2019)</small>
 
 En caso de que la emergencia o desastre supere la capacidad de respuesta del municipio éste acudirá a la instancia estatal. Si ésta resulta insuficiente, se procederá a informar a las instancias federales correspondientes, las que actuarán de acuerdo con los programas establecidos al efecto, en los términos de esta Ley y de las demás disposiciones jurídicas aplicables.
 
@@ -632,6 +640,10 @@ q) Otros que por sus características y magnitud sean similares a los mencionado
 Cuando dos o más establecimientos, edificaciones o inmuebles de los señalados en la fracción XI del artículo 8 de esta Ley, compartan o estén ubicados dentro de una misma unidad de construcción, la Coordinación Estatal será competente para realizar visitas de inspección a los mismos.
 
 Asimismo, la Coordinación Estatal será competente para inspeccionar todos los establecimientos o edificaciones que se encuentren ubicados en un radio de cien metros a la redonda, a partir de las edificaciones a que se refiere el inciso n) de esta fracción.
+
+> <small>(ADICIONADO, B.O. 13 DE JUNIO DE 2019)</small>
+
+La Coordinación Estatal deberá dar a conocer los resultados de los actos de inspección y vigilancia, a solicitud del ayuntamiento del municipio en el que se realicen dichos actos.
 
 XX.- Operar un sistema de información telefónica relacionado con protección civil;
 
@@ -1144,6 +1156,12 @@ Las personas físicas, morales, dependencias de la administración pública esta
 Asimismo, las personas indicadas en los párrafos anteriores de este artículo, y el artículo 71 de esta ley, están obligadas a presentar un dictamen técnico o peritaje estructural, cuando a consideración de las autoridades en materia de protección civil, se podrían haber afectado o dañado las condiciones estructurales de los establecimientos, edificaciones, inmuebles y sistemas de transporte por ductos, por la presencia de algún agente perturbador.
 
 Asimismo, conforme al primer párrafo de este artículo, están obligadas las dependencias y entidades de la administración pública estatal y municipal, contempladas en los artículos 42 y 47 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 13 DE JUNIO DE 2019)</small>
+
+ARTÍCULO 65 BIS.- Los sujetos obligados que se señalan en el artículo 65 de esta Ley, tienen la obligación de dar a conocer sus Programas Internos, así como cualquier modificación a dichos programas, a solicitud del ayuntamiento del municipio en el que se encuentren ubicados sus respectivos establecimientos, edificaciones o inmuebles, o en donde desarrollen sus actividades de manejo, almacenamiento, transportación, distribución y utilización de materiales peligrosos, hidrocarburos, combustibles y explosivos.
+
+Los ayuntamientos tendrán la facultad de revisar y verificar la veracidad de los programas internos de los sujetos obligados.
 
 ### CAPÍTULO II. DE LOS PROGRAMAS INTERNOS
 
@@ -1762,3 +1780,13 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los once días del mes de junio del año dos mil dieciocho.- GOBERNADORA DEL ESTADO.­ CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 13 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 26, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
