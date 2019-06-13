@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-trabajadores-al-servicio-del-estado-de-tabasco-7837"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-31"
-last_updated: "2019-06-12"
+last_updated: "2019-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2019 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE JUNIO DE 2019.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de marzo de 1990.
 
@@ -1347,9 +1347,11 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido de
 
 P.O. 12 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 102 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 19, FRACCIÓN V; Y 100, FRACCIÓN III; Y SE ADICIONAN LA FRACCIÓN VI AL ARTÍCULO 19; Y LA FRACCIÓN IV AL ARTÍCULO 100; TODOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO 102 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 19, FRACCIÓN V; Y 100, FRACCIÓN III; Y SE ADICIONAN LA FRACCIÓN VI AL ARTÍCULO 19; Y LA FRACCIÓN IV AL ARTÍCULO 100; TODOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO".]
 
-PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales, posteriores a su publicación en el Periódico Oficial del Estado.
+> <small>(F. DE E., P.O. 13 DE JUNIO DE 2019)</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. La Fiscalía Estatal, deberá realizar las adecuaciones normativas conducentes, a efectos de ajustar su estructura y actuaciones conforme a las disposiciones contenidas en este Decreto, dentro de los sesenta días hábiles, siguientes a su entrada en vigor.
 
