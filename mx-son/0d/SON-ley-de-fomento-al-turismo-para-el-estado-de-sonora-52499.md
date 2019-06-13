@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-al-turismo-para-el-estado-de-sonora-52499"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-14"
-last_updated: "2018-09-27"
+last_updated: "2019-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE JUNIO DE 2019 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2019.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de diciembre de 2006.
 
@@ -138,6 +140,10 @@ XXII.- Turismo doméstico.- Es el turismo que se realiza dentro del territorio s
 > <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
 XXIII.- Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio nacional, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico. Se establecerán conforme a lo establecido en la Ley General del Turismo.
+
+> <small>(ADICIONADA, B.O. 13 DE JUNIO DE 2019)</small>
+
+XXIII (SIC).- Programa “Tesoros de Sonora”: Programa permanente de desarrollo turístico integral para localidades del Estado de Sonora, orientado a impulsar una amplia oferta turística de los lugares que cuenten con la declaratoria expedida por el Gobernador del Estado.
 
 ###### ARTÍCULO 3.
 
@@ -859,11 +865,37 @@ La misma obligación tendrán las autoridades respecto de los sitios culturales 
 
 La Cofetur y los Ayuntamientos supervisarán que lo dispuesto en este capítulo se cumpla.
 
-### CAPÍTULO ÚNICO. DE LAS VISITAS DE VERIFICACIÓN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 13 DE JUNIO DE 2019)</small>
+
+### CAPÍTULO VIII. DE LOS MUNICIPIOS DENOMINADOS “TESOROS DE SONORA”
+
+> <small>(ADICIONADO, B.O. 13 DE JUNIO DE 2019)</small>
+
+ARTÍCULO 62 Ter (sic).- Son Tesoros de Sonora, aquellas localidades del Estado que cuentan con un atractivo turístico que las hace distinguirse respecto de otros lugares, que han conservado y valorado su herencia natural, histórica o cultural y que cumplen con los lineamientos de incorporación y permanencia establecidos por la Cofetur.
+
+> <small>(ADICIONADO, B.O. 13 DE JUNIO DE 2019)</small>
+
+ARTÍCULO 62 Quater (sic).- Para obtener el nombramiento de Tesoros de Sonora, los municipios aspirantes deberán cumplir con los siguientes requisitos:
+
+I.- Acreditar la integración formal de un Comité Pro Tesoros de Sonora;
+
+II.- Contar con un programa municipal que tenga un impacto en el desarrollo turístico del Municipio aspirante;
+
+III.- Contar con ordenamientos jurídicos municipales vigentes, con impacto en el desarrollo turístico del Municipio aspirante; y
+
+IV.- Los demás que establezca la presente Ley y el Reglamento respectivo.
+
+Los recursos financieros que soporten el nombramiento, serán otorgados por la Cofetur, así como de los Municipios participantes de acuerdo con sus recursos presupuestarios.
+
+> <small>(ADICIONADO, B.O. 13 DE JUNIO DE 2019)</small>
+
+ARTÍCULO 62 Quintus (sic).- El nombramiento de Tesoro de Sonora, será otorgado por el Gobernador del Estado.
+
+Una vez otorgado el nombramiento al Municipio correspondiente, la Cofetur programará acciones de capacitación y adiestramiento para la aplicación del programa.
 
 ## TÍTULO OCTAVO. DE LAS VISITAS DE VERIFICACIÓN
 
-### CAPÍTULO ÚNICO. SANCIONES Y RECURSOS
+### CAPÍTULO ÚNICO. DE LAS VISITAS DE VERIFICACIÓN
 
 ###### ARTÍCULO 63.
 
@@ -903,9 +935,7 @@ En caso de que de las visitas de verificación practicadas conforme al presente 
 
 ## TÍTULO NOVENO. SANCIONES Y RECURSOS
 
-### CAPÍTULO ÚNICO. DE LAS SITUACIONES DE EMERGENCIA, DESASTRE O IMPACTO SOCIAL
-
-> <small>(ADICIONADO, B.O. 12 DE ABRIL DE 2017)</small>
+### CAPÍTULO ÚNICO. SANCIONES Y RECURSOS
 
 ###### ARTÍCULO 68.
 
@@ -962,6 +992,10 @@ Contra la resolución del recurso de revocación, procede el de revisión ante e
 ## TÍTULO DÉCIMO. DE LAS SITUACIONES DE EMERGENCIA, DESASTRE O IMPACTO SOCIAL
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 12 DE ABRIL DE 2017)</small>
+
+### CAPÍTULO ÚNICO. DE LAS SITUACIONES DE EMERGENCIA, DESASTRE O IMPACTO SOCIAL
+
+> <small>(ADICIONADO, B.O. 12 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 73.
 
@@ -1112,3 +1146,15 @@ El presente Decreto entrará en vigor el día de su publicación en el Boletín 
 ###### ARTÍCULO SEGUNDO.
 
 La Cofetur emitirá los lineamientos, a que hace referencia la fracción III del artículo 30 Bis, a más tardar a los 60 días hábiles posteriores a la entrada en vigor del presente Decreto, los cuales deberán publicarse en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 13 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 21, QUE ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado expedirá el Reglamento para el funcionamiento del programa “Tesoros de Sonora”.
