@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-197-para-la-inclusion-y-desarrollo-de-las-134093"
 country: "mx"
 rank: "ley"
 publication_date: "2019-01-14"
-last_updated: "2019-01-14"
+last_updated: "2019-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD O EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2019.
 
 Ley publicada en el Número 4 Secc. II del Boletín Oficial del Estado de Sonora, el lunes 14 de enero de 2019.
 
@@ -675,9 +675,17 @@ V.- El establecimiento de medidas tendientes al desarrollo de las capacidades cr
 
 VI.- Promover el uso de tecnologías en la cinematografía y el teatro, que faciliten la adecuada comunicación de su contenido a las personas con discapacidad o en situación de discapacidad;
 
-VII.- Generar y difundir entre la sociedad, el respeto a la diversidad y participación de las personas con discapacidad o en situación de discapacidad en el arte, la cultura y la recreación; y
+> <small>(REFORMADA, B.O. 13 DE JUNIO DE 2019)</small>
 
-VIII.- Se deberá contar con la contratación de intérpretes en la Lengua de Señas Mexicanas, así como la emisión de documentos en sistema de escritura Braille para apoyar en las actividades artísticas, culturales y recreativas que así lo requieran.
+VII.- Generar y difundir entre la sociedad, el respeto a la diversidad y participación de las personas con discapacidad o en situación de discapacidad en el arte, la cultura y la recreación;
+
+> <small>(REFORMADA, B.O. 13 DE JUNIO DE 2019)</small>
+
+VIII.- Se deberá contar con la contratación de intérpretes en la Lengua de Señas Mexicanas, así como la emisión de documentos en sistema de escritura Braille para apoyar en las actividades artísticas, culturales y recreativas que así lo requieran; y
+
+> <small>(ADICIONADA, B.O. 13 DE JUNIO DE 2019)</small>
+
+IX.- Promoverán ante las instancias públicas y privadas correspondientes la adecuación y mejoramiento de lugares de esparcimiento y recreo existentes, para el libre acceso, procurando que el área recreativa como parques o plazas, cuenten al menos con un lugar inclusivo que permita a las personas con discapacidad utilizarlos para garantizarles su seguridad, uso y disfrute. Asimismo, fomentarán la organización de encuentros municipales, regionales y estatales involucrando a los padres de familia y comunidad en general.
 
 ###### ARTÍCULO 47.
 
@@ -1264,3 +1272,13 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los seis días del mes de octubre del año dos mil diecisiete.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA. SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 13 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 27, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE PERSONAS CON DISCAPACIDAD O EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA Y DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
