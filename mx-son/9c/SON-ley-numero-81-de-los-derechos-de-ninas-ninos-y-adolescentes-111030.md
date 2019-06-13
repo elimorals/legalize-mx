@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-81-de-los-derechos-de-ninas-ninos-y-adolescentes-111
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2017-06-26"
+last_updated: "2019-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SON"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2019.
 
-Ley publicada en la Secc. I del Boletín Oficial del Estado de Sonora, el jueves 17 de diciembre de 2015.
+Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 17 de diciembre de 2015.
 
 CLAUDIA ARTEMIZA PAVLOVICH ARELLANO, Gobernadora del Estado Libre y Soberano de Sonora, sus habitantes sabed:
 
@@ -875,7 +875,9 @@ Niñas, niños y adolescentes tienen derecho al descanso, al esparcimiento, al j
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes deberán respetar el goce de estos derechos y, por lo tanto, no podrán imponerles regímenes de vida, estudio, tareas o reglas de disciplina desproporcionadas a su edad, desarrollo evolutivo, cognoscitivo y madurez, que impliquen la renuncia o el menoscabo de los mismos. Además, vigilarán que niñas, niños y adolescentes no realicen trabajos en edad no permitida que los prive de su niñez o adolescencia y atente contra su potencial, dignidad, desarrollo físico o psicológico.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
+> <small>(REFORMADO, B.O. 13 DE JUNIO DE 2019)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento, procurando que el área recreativa de esparcimiento como parques o plazas, cuenten al menos con un lugar con juegos inclusivos para niñas, niños y adolescentes con discapacidad, que les permitan utilizarlos para garantizarles su accesibilidad, seguridad, uso y disfrute; así como fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
 
 Para tal efecto, se establecerán comités de participación, que en materia de prevención social de la violencia y la delincuencia coadyuvarán con las autoridades para la creación, conservación y mejoramiento de espacios públicos, a fin de modificar el ámbito situacional del entorno local, propiciando la convivencia y la cohesión social y comunitaria.
 
@@ -1303,7 +1305,7 @@ Cuando existan indicios de conflicto de intereses entre quienes ejerzan la repre
 
 El Sistema Estatal DIF determinará los requisitos para autorizar, registrar, certificar y supervisar los centros de asistencia social, a fin de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes sin cuidado parental o familiar, atendidos en dichos centros.
 
-Las disposiciones legales que regulen los centros de asistencia social y las adopciones en el Estado de Sonora establecerá las atribuciones y obligaciones de las autoridades, de los titulares y responsables de los centros, así mismo los requisitos para su autorización y funcionamiento.
+Las disposiciones legales que regulen los centros de asistencia social y las adopciones en el Estado de Sonora establecerá (sic) las atribuciones y obligaciones de las autoridades, de los titulares y responsables de los centros, así mismo los requisitos para su autorización y funcionamiento.
 
 ###### Artículo 90.
 
@@ -2047,7 +2049,7 @@ Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a
 
 B.O. 26 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 151, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2060,3 +2062,11 @@ Las autoridades aludidas por el presente decreto deberán cambiar su normativida
 ###### ARTÍCULO TERCERO.
 
 Las pruebas de control de confianza deberán aplicarse en un lapso no mayor a 60 días naturales a partir de la entrada en vigor del presente Decreto.
+
+B.O. 13 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 27, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE PERSONAS CON DISCAPACIDAD O EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA Y DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
