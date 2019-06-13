@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-seguridad-social-del-estado-de-tabasco-110875"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2019-06-12"
+last_updated: "2019-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "TAB"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JUNIO DE 2019 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE JUNIO DE 2019.]
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tabasco, el jueves 31 de diciembre de 2015.
 
@@ -1313,9 +1313,11 @@ Los juicios iniciados con las disposiciones anteriores a la presente reforma deb
 
 P.O. 12 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 102 POR EL QUE “SE ADICIONA UNA SECCIÓN QUINTA, AL CAPÍTULO SEGUNDO, DEL TÍTULO TERCERO, INTEGRADA POR EL ARTÍCULO 65 BIS; Y EL ARTÍCULO 84 BIS; TODOS DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO 102 POR EL QUE "SE ADICIONA UNA SECCIÓN QUINTA, AL CAPÍTULO SEGUNDO, DEL TÍTULO TERCERO, INTEGRADA POR EL ARTÍCULO 65 BIS; Y EL ARTÍCULO 84 BIS; TODOS DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO".]
 
-PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales, posteriores a su publicación en el Periódico Oficial del Estado.
+> <small>(F. DE E., P.O. 13 DE JUNIO DE 2019)</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. La Fiscalía Estatal, deberá realizar las adecuaciones normativas conducentes, a efectos de ajustar su estructura y actuaciones conforme a las disposiciones contenidas en este Decreto, dentro de los sesenta días hábiles, siguientes a su entrada en vigor.
 
