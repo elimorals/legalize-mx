@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2019-05-09"
+last_updated: "2019-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2019.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -1071,9 +1071,13 @@ El primer periodo de sesiones extraordinarias iniciará desde la fecha en que co
 
 El Congreso del Estado podrá ser convocado a sesiones extraordinarias de conformidad a lo que establecen los artículos 43 y 66 de la Constitución Política del Estado para desahogar únicamente los asuntos para los que fue convocado.
 
+> <small>(REFORMADO, B.O. 13 DE JUNIO DE 2019)</small>
+
 ###### ARTÍCULO 116.
 
-Las sesiones del pleno del Congreso del Estado serán ordinarias o extraordinarias, de carácter público, debiendo transmitirse por medios de comunicación electrónica.
+Las sesiones del Pleno del Congreso del Estado serán ordinarias o extraordinarias, de carácter público, debiendo transmitirse por medios de comunicación electrónica, incluyendo las redes sociales de mayor difusión en el estado.
+
+Durante la trasmisión de las sesiones de Comisión, de la Diputación Permanente y del Pleno del Congreso, ya sean ordinarias o extraordinarias, deberá estar presente un intérprete en la sesión respectiva para que realice la traducción en el idioma de lenguaje de señas a las personas con problemas de audición que sigan la trasmisión de los acontecimientos por las diversas redes sociales y medios de comunicación electrónica.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -2603,11 +2607,13 @@ B.O. 9 DE MAYO DE 2019.
 
 El presente decreto entrará en vigor el día 1° de enero de 2020, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE PROTECCIÓN A LOS TRABAJADORES DE LA SALUD”.]
+B.O. 13 DE JUNIO DE 2019.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 22, QUE REFORMA AL ARTÍCULO 116 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
 
-P.O. 2 DE JUNIO DE 2021.
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL ARTÍCULO 351 Y ADICIONAR (SIC) EL ARTÍCULO 351 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT".]
 
