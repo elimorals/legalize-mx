@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-cultura-fisica-y-deporte-del-estado-de-michoacan-de-3718
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-16"
-last_updated: "2016-12-29"
+last_updated: "2019-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
 
 Ley Publicada en Periódico Oficial del Estado de Michoacán, el lunes 16 de febrero del 2004.
 
@@ -51,7 +51,9 @@ La presente Ley es de orden e interés público y observancia general en todo el
 
 El ejercicio y desarrollo del derecho a la cultura física y al deporte tienen como base los siguientes principios:
 
-I. Es un derecho para todos;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+I. Es un derecho para todos; su difusión práctica, debe hacerse sin distinción, exclusión o restricción, que pueda dar origen a la discriminación por origen étnico, sexo, edad, discapacidad, condición social y económica, condición de salud, lengua, opiniones, preferencia sexual, estado civil, ideología o creencia religiosa;
 
 II. Constituye una parte esencial de la educación;
 
@@ -615,13 +617,21 @@ XXXI. Fomentar la cultura física, la recreación, la rehabilitación y el depor
 
 XXXII. Formular programas para promover la cultura física y el deporte entre las personas con discapacidad;
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
 
-XXXIII. Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado; y,
+XXXIII. Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+XXXIII Bis. Elaborar el padrón estatal de deportistas de alto rendimiento y de deporte adaptado; y,
 
 > <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
 
 XXXIV. Las demás que esta Ley u otras disposiciones legales o reglamentarias determinen.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+La denegación de ajustes razonables y salvaguardas se entenderá como una forma de discriminación.
 
 ###### Artículo 23.
 
@@ -1147,6 +1157,14 @@ La CECUFID, regirá los criterios y bases para el otorgamiento y monto de la bec
 
 La CECUFID gestionará y establecerá los mecanismos necesarios para que los deportistas con discapacidad, sin discriminación alguna, gocen de los mismos reconocimientos y estímulos que otorgue el Gobierno Estatal a los deportistas convencionales.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+La CECUFID gestionará y establecerá los mecanismos necesarios para que los deportistas que presenten alguna discapacidad, sean considerados de alto rendimiento cumpliendo los requisitos que para este propósito se establezcan en las convocatorias emitidas por este organismo, la presente Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+Por lo que deberán gozar de los mismos reconocimientos y estímulos que otorgue el Gobierno del Estado.
+
 ###### Artículo 82.
 
 Los estímulos a que se refiere el presente Capítulo, que se otorguen con cargo al presupuesto de la CECUFID, tendrán por finalidad el cumplimiento de los objetivos siguientes:
@@ -1670,3 +1688,13 @@ P.O. 29 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 135 POR EL QUE “SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 1° BIS; SE REFORMA LA FRACCIÓN XXXIII, SE ADICIONA LA FRACCIÓN XXXIII BIS Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 22; Y SE ADICIONAN LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 81° DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. La Comisión Estatal de Cultura Física y Deporte elaborará el padrón de deportistas de alto rendimiento y deporte adaptado, en un plazo de 60 días naturales a partir de la publicación del presente Decreto.
+
+SEGUNDO. A partir del Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo del año 2020, el Titular del Poder Ejecutivo del Estado, deberá garantizar para la Comisión Estatal de Cultura Física y Deporte, los recursos necesarios para la operación y cumplimiento del presente Decreto.
+
+TERCERO. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
