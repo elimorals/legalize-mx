@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-centro-de-convivencias-familiares-de-103784"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-11-14"
-last_updated: "2014-11-14"
+last_updated: "2019-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO DEL CENTRO DE CONVIVENCIAS FAMILIARES DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 14 de noviembre de 2014.
 
@@ -63,6 +63,16 @@ VI. Terceros de Emergencia: Personas usuarias del CECOFAMQRO designadas por quie
 
 VII. Personal del CECOFAMQRO: Funcionariado adscrito a la Dirección de Psicología del Poder Judicial.
 
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+VIII. Conviviente: Aquella persona reconocida por el órgano jurisdiccional para participar en la convivencia con la niña, niño o adolescente;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+IX. Evaluación previa: procedimiento al que se someterán las partes del juicio y estará a cargo de la Dirección de Psicología, el cual tendrá por objeto analizar la viabilidad y pertinencia del desarrollo de la convivencia con la intervención del CECOFAMQRO.
+
+Para efectos de lo anterior, se observará lo dispuesto en el artículo 9.
+
 ###### Artículo 3.
 
 El CECOFAMQRO proporcionará sus servicios solamente a las personas que expresamente determine el órgano jurisdiccional y una vez que haya recibido formalmente la orden judicial que precise lo siguiente:
@@ -77,7 +87,9 @@ IV. La modalidad de las convivencias;
 
 V. Los días, horas y lugar en que serán desarrolladas las convivencias;
 
-VI. El plazo por el cual serán desahogadas las convivencias con intervención del CECOFAMQRO;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+VI. El plazo por el cual serán desahogadas las convivencias con intervención de CECOFAMQRO; el cual tendrá una duración máxima de diez sesiones efectivas y solo en casos excepcionales, el órgano jurisdiccional podrá prorrogarlas cuando exista causa que así lo justifique.
 
 VII. El nombre de los terceros de emergencia, cuando hayan sido señalados y;
 
@@ -89,7 +101,9 @@ La Dirección, no es responsable de los objetos de cualquier índole que los usu
 
 El CECOFAMQRO funcionará de lunes a viernes en un horario de atención al público de las 16:00 a las 19:00 horas, y los días sábados de 9:00 a 14:00 horas, excepto los días que conforme al calendario aprobado por el Consejo de la Judicatura se declaren como no laborables.
 
-Antes o después de los horarios citados en el párrafo anterior o de los establecidos por el órgano jurisdiccional para el desarrollo de las convivencias, el funcionariado de la Dirección no está obligado a prestar servicio alguno.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+Antes o después de los horarios citados en el párrafo anterior o de los establecidos por el órgano jurisdiccional para el desarrollo de las convivencias, el funcionariado del CECOFAMQRO, no está obligado a prestar servicio alguno.
 
 Tampoco estarán obligados a dar el servicio a las personas que hayan registrado su salida de las instalaciones del CECOFAMQRO.
 
@@ -125,7 +139,25 @@ XII. Verificar que las niñas, niños y adolescentes, abandonen las instalacione
 
 XIII. Acatar las medidas preventivas y correctivas que establezca el Poder Judicial para la seguridad e higiene de los usuarios y del funcionariado del CECOFAMQRO y;
 
-XIV. Las demás que señale este Reglamento y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+XIV. Apoyar, a la Dirección, en el proceso de la evaluación previa;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+XV. Informar mensualmente al órgano jurisdiccional, a través de la Dirección, sobre el desarrollo y avances de la convivencia;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+XVI. Rendir, por conducto de la Dirección, un informe estadístico trimestral al Consejo de la Judicatura, respecto de las actividades del CECOFAMQRO;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+XVII. Comunicar al juez, mediante la Dirección, cuando la convivencia sea susceptible de tener un cambio de modalidad;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2019)</small>
+
+XVIII. Las demás que señale este Reglamento y otras disposiciones aplicables.
 
 ###### Artículo 6.
 
@@ -183,7 +215,9 @@ XII. Acatar las medidas preventivas y correctivas que establezca el Poder Judici
 
 En el supuesto de ser necesario evacuar las instalaciones del CECOFAMQRO, los usuarios que estén en convivencia, evitarán llevar consigo a las niñas, niños y adolescentes;
 
-XIII. Abordar, con los otros usuarios, temas del litigio en el que están involucrados, así como interrogar a las niñas, niños o adolescentes sobre sus familiares o realizar frente a ellos comentarios hostiles hacia su familia u otras personas allegadas a ellos; sea en el momento del registro o durante el desarrollo de las convivencias supervisadas y;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+XIII. Abstenerse de abordar con otros usuarios, temas del litigio en el que están involucrados, así como interrogar a las niñas, niños o adolescentes sobre sus familiares o realizar frente a ellos comentarios hostiles hacia su familia u otras personas allegadas a ellos; sea en el momento del registro o durante el desarrollo de las convivencias supervisadas y;
 
 XIV. Las demás que señale este Reglamento y otras disposiciones aplicables.
 
@@ -194,6 +228,62 @@ XIV. Las demás que señale este Reglamento y otras disposiciones aplicables.
 ###### Artículo 9.
 
 Los servicios que proporciona el CECOFAMQRO son gratuitos y consisten en verificar la entrega-recepción de niñas, niños y adolescentes, así como, coordinar y supervisar las convivencias que le encomienden los órganos jurisdiccionales del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+Para efectos del párrafo que antecede, cuando cualquiera de los interesados solicite la supervisión de la convivencia con intervención del CECOFAMQRO, el órgano jurisdiccional, previamente, citará a las partes a una audiencia, la cual se verificará con asistencia de personal de la Dirección, y tendrá como finalidad la aplicación de una evaluación previa, la cual constará de tres fases:
+
+I. Cuestionario preliminar: encaminado de modo general a analizar los antecedentes y las circunstancias que rodean a cada familia involucrada en una contienda judicial, evaluando los siguientes aspectos:
+
+a) Etapa de desarrollo de la niña, niño o adolescente con quien se desea convivir;
+
+b) Indicios de relación previa entre la niña, niño o adolescente y el conviviente;
+
+c) Tiempo de separación entre la niña, niño o adolescente y el conviviente;
+
+d) Motivaciones por las cuales se solicita una convivencia supervisada;
+
+e) Capacidad de empatía del conviviente hacia las necesidades de la niña, niño o adolescente; y
+
+f) Relación de comunicación entre las partes.
+
+En esta fase se determinará la viabilidad de las convivencias con la intervención de CECOFAMQRO en cualquiera de sus modalidades, o bien su desarrollo de manera libre.
+
+II. Plática de Orientación: que tiene como finalidad sensibilizar y orientar a los usuarios para favorecer la convivencia y proporcionarles información específica y relevante acerca de CECOFAMQRO, limitaciones y alcances, así como los derechos y obligaciones que adquieren. Lo anterior una vez que ha resultado viable la convivencia con la intervención de CECOFAMQRO, en cualquiera de sus modalidades; llevándose a cabo conforme al siguiente orden:
+
+a) Presentación;
+
+b) Expectativas de los usuarios;
+
+c) Clarificar el objetivo del CECOFAMQRO y brindar información sobre el funcionamiento y Reglamento del mismo;
+
+d) Brindar información acerca de opciones alternativas de convivencia sin la intervención del CECOFAMQRO, con el fin de salvaguardar el derecho de toda niña, niño o adolescente a convivir con sus familiares, en un ambiente sin restricciones de espacio;
+
+e) Retroalimentación, con la finalidad de escuchar la opinión de los usuarios acerca de la información brindada.
+
+III. Entrevista de cierre: que tendrá como objetivo escuchar las inquietudes de los usuarios con respecto a la atención e información proporcionada, siguiéndose como parámetros:
+
+a) Calidad de la atención que se brindó;
+
+b) Conocer si los usuarios recibieron la información necesaria sobre el funcionamiento de CECOFAMQRO;
+
+c) Sensibilización de las partes acerca de la importancia de favorecer el derecho de las niñas, niños o adolescentes en la convivencia con sus familiares para su sano desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+Para el supuesto de que en la primera fase se considere viable el desarrollo de las convivencias con la intervención de CECOFAMQRO, de manera inmediata se citará a las partes para efectuar la plática de orientación y la entrevista de cierre; en caso contrario, la Dirección lo hará saber a los usuarios dando por terminada la evaluación previa.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+Concluidas las fases de la evaluación previa o habiéndose determinado en la primera fase, que la convivencia no requiere de la intervención del CECOFAMQRO, la Dirección rendirá de manera inmediata un informe al órgano jurisdiccional con los resultados obtenidos y si fuese necesario emitirá las recomendaciones que estime pertinentes, a fin de que junto con las constancias que integran el expediente del juicio natural, resuelva lo que conforme a derecho proceda.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+De presentarse solo una de las partes, o ninguna de ellas, a la aplicación de la evaluación previa, la Dirección deberá informar tal circunstancia al órgano jurisdiccional, a fin de que, atendiendo al caso particular, resuelva lo conducente.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+Cualquier instrucción o mandato judicial deberá informarse formalmente mediante oficio dirigido a la Dirección, el cual será entregado por conducto del servicio de mensajería interna o del personal adscrito al órgano jurisdiccional y no a través de los usuarios; lo mismo observará la Dirección para cualquier comunicado destinado al órgano jurisdiccional.
 
 ###### Artículo 10.
 
@@ -239,41 +329,37 @@ Cuando llegada la hora programada para la conclusión de las convivencias, no es
 
 Lo mismo hará, en caso de que el funcionariado del CECOFAMQRO perciba indicios de que algún usuario esté en estado de ebriedad, con aliento alcohólico o bajo los influjos de alguna droga o enervante.
 
-### CAPÍTULO II. DE LOS REGISTROS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JUNIO DE 2019)</small>
+
+### CAPÍTULO II. DE LOS REGISTROS Y HORARIOS DE CONVIVENCIAS
 
 ###### Artículo 17.
 
 La Dirección implementará los controles necesarios para el registro de ingreso y de salida de los usuarios del CECOFAMQRO, los cuales deberán utilizar y respetar todos los usuarios, sin excepción.
 
-El funcionariado adscrito a la Dirección, una vez que reciba, por escrito, la orden de los órganos jurisdiccionales para el desarrollo de las convivencias supervisadas o para la verificación de la entrega recepción de las niñas, niños o adolescentes, para convivencia, deberá integrar el expediente administrativo correspondiente.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
 
-Los expedientes administrativos serán registrados en un libro que contendrá:
+Asimismo, en el libro que para tal efecto implemente la Dirección, deberá distinguir los tipos de registro de asistencia de los usuarios a sus instalaciones, atendiendo a cada modalidad de convivencias, es decir, para convivencias supervisadas y entrega-recepción; en este sentido y a efecto de llevar un mejor control y calidad en las convivencias, éstas se llevarán a cabo en los siguientes horarios:
 
-I. Número consecutivo del expediente administrativo;
+Día Horario Modalidad de convivencia
 
-II. Fecha de la recepción de la solicitud;
+Lunes a viernes De 16:00 a 19:00 horas I. Entrega-recepción y
 
-III. Órgano jurisdiccional que da intervención al CECOFAMQRO;
+II. Supervisadas
 
-IV. Número de expediente del órgano jurisdiccional;
+Sábados De 9:00 a 9:45 horas Solo entrega
 
-V. Nombre de las personas que entregan a las niñas, niños o adolescentes, para el desarrollo de las convivencias;
+De 10:00 a 13:00 horas Convivencias supervisadas
 
-VI. Nombre de las personas que reciben a las niñas, niños o adolescentes para el desarrollo de las convivencias;
+De 13:15 a 14:00 horas Solo recepción
 
-VII. Nombre de las niñas, niños o adolescentes, que asistirán a las convivencias;
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
 
-VIII. Nombre de las personas que fungirán como terceros de emergencias;
+Los órganos jurisdiccionales determinarán las convivencias dentro de tales horarios, según la modalidad que corresponda; exceptuándose de lo anterior, los días que conforme al calendario aprobado por el Consejo de la Judicatura se declaren como no laborables.
 
-IX. Modalidad de las convivencias;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2019)</small>
 
-X. Fechas y horarios de las convivencias;
-
-XI. Plazo señalado por el órgano jurisdiccional para la intervención del CECOFAMQRO;
-
-XII. Nombre del psicólogo o trabajador social a quien se asigna la prestación del servicio y;
-
-XIII. Fecha en que concluye la intervención del CECOFAMQRO.
+Solo en casos excepcionales y previa justificación del órgano jurisdiccional, se podrán autorizar convivencias fuera de los horarios que a cada modalidad corresponde, siempre y cuando sea dentro del horario previsto en el artículo 4 de este reglamento. Para tal efecto la autoridad jurisdiccional deberá informar a la Dirección las circunstancias extraordinarias por las cuales se justifica el cambio a los horarios antes citados.
 
 ### CAPITULO III. DE LAS CONVIVENCIAS SUPERVISADAS
 
@@ -347,15 +433,21 @@ V. Por enfermedad contagiosa diagnosticada a alguno de los usuarios;
 
 VI. Cuando los usuarios realicen conductas agresivas o violentas que alteren el orden o la tranquilidad de los demás usuarios y;
 
-VII. Cuando los usuarios del CECOFAMQRO violenten alguna de las disposición (sic) de este reglamento u otras disposiciones de la misma naturaleza aplicables.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+VII. Cuando los usuarios del CECOFAMQRO violenten alguna de las disposiciones, de este reglamento u otras disposiciones de la misma naturaleza aplicables.
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+VIII. Por convenio de los interesados, aprobado por el órgano jurisdiccional, quien deberá informarlo a la brevedad, al CECOFAMQRO, a fin de que éste realice las anotaciones respectivas en el expediente que corresponda y;
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
 
 ###### Artículo 23.
 
-Cuando la Dirección tenga conocimiento de que un usuario incurre en alguna de las causas de suspensión de las convivencias, deberá comunicarlo, de inmediato, al órgano jurisdiccional competente.
+Cuando la Dirección tenga conocimiento de que un usuario incurre en alguna de las causas de conclusión o suspensión de las convivencias, deberá comunicarlo de inmediato al órgano jurisdiccional competente con las recomendaciones que estime pertinentes, a fin de que provea lo conducente, mismas que también podrán formularse en los informes que rinde la Dirección periódicamente al juzgador, sobre el desarrollo o avance de las convivencias.
 
-La Dirección tendrá facultad para suspender las convivencias, trantándose (sic) de los supuestos que establecen las fracciones IV, VI y VII, del artículo anterior.
-
-En este supuesto, la Dirección hará la entrega de la niña, niño y adolescentes, a la persona autorizada por el órgano jurisdiccional.
+La Dirección tendrá facultad para suspender las convivencias, tratándose de los supuestos que establecen las fracciones IV, VI y VII, lo cual, será hecho del conocimiento al órgano jurisdiccional a fin de que sea éste quien resuelva lo conducente.
 
 ## TÍTULO TERCERO. DE LAS RESTRICCIONES
 
@@ -424,3 +516,13 @@ PRIMERO. El presente reglamento entrará en vigor al día siguiente de su public
 DADO EN LA CIUDAD DE SANTIAGO DE QUERÉTARO, QUERÉTARO, A LOS 30 DÍAS DE OCTUBRE DE 2014.
 
 M. EN D. CARLOS MANUEL SEPTIÉN OLIVARES, Magistrado Presidente del Consejo de la Judicatura, rúbrica; DR. JUAN RICARDO JIMÉNEZ GÓMEZ y M. EN D. JOSÉ ANTONIO ORTEGA CERBÓN, Magistrados integrantes del Consejo de la Judicatura, rúbricas; y LIC. JORGE IVÁN ALMADA UGALDE, Secretario del Consejo, rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE REFORMA DIVERSOS ARTÍCULOS DEL REGLAMENTO DE CENTRO DE CONVIVENCIAS FAMILIARES DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+PRIMERO. Publíquese este reglamento en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+
+SEGUNDO. Las modificaciones a este Reglamento iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
