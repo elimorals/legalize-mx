@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2018-10-17"
+last_updated: "2019-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -167,7 +167,9 @@ VII.- Establos, Granjas Avícolas, Porcícolas, Apiarios y establecimientos simi
 
 VIII.- Reclusorios o Centros de Readaptación Social;
 
-IX.- Baños Públicos;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+IX.- Baños Públicos y Gimnasios;
 
 X.- Centros de Reunión y Espectáculos;
 
@@ -189,9 +191,13 @@ XVII.- Vendedores semifijos y ambulantes; y
 
 XVIII.- Casas, edificios y, en general, cualquier inmueble de dominio público o privado;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
 
-XIX.-Las demás materias que determine esta ley y las disposiciones legales aplicables.
+XIX.- Establecimientos dedicados a realizar tatuajes y perforaciones.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2019)</small>
+
+XX.- Las demás materias que determine esta ley y las disposiciones legales aplicables.
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
@@ -3838,3 +3844,9 @@ Tercero. La Secretaría de Finanzas y Planeación, realizará las acciones neces
 Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública, y organismos públicos autónomos, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes.
 
 Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 338 POR EL QUE SE REFORMAN LAS FRACCIONES IX Y XIX DEL APARTADO B DEL ARTÍCULO 5; Y SE ADICIONA UNA FRACCIÓN XX AL APARTADO B DEL ARTÍCULO 5, DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
