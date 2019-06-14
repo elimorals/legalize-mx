@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1106
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2019-01-18"
+last_updated: "2019-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2015.
 
@@ -54,6 +54,12 @@ I. La igualdad,
 II. La no discriminación y
 
 III. El respeto a la dignidad humana.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+###### Artículo 2 Bis.
+
+El principio de igualdad de trato y oportunidades entre mujeres y hombres permeará con carácter transversal, en la actuación de todos los Poderes Públicos del Estado, Organismos Públicos Descentralizados y Municipios. Estos integrarán dicho principio en la adopción y ejecución de sus disposiciones normativas, en la definición y presupuestación de sus políticas públicas destinadas a hacer efectivo el derecho a la igualdad, a la no discriminación y el respeto a la dignidad humana.
 
 ###### Artículo 3.
 
@@ -91,17 +97,21 @@ Las autoridades del Estado y sus Municipios tendrán a su cargo la aplicación d
 
 ### CAPÍTULO PRIMERO. DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN INTERINSTITUCIONAL
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
+
 ###### Artículo 8.
 
-El Ejecutivo Estatal y los Municipios ejercerán sus atribuciones en materia de esta Ley, de conformidad con la distribución de competencias previstas en la Ley General, el presente ordenamiento y otros ordenamientos aplicables.
+Los Poderes del Estado y los Municipios ejercerán sus atribuciones en materia de esta Ley, de conformidad con la distribución de competencias previstas en la Ley General, el presente ordenamiento y otros ordenamientos aplicables.
 
 ###### Artículo 9.
 
 El Ejecutivo Estatal y los Municipios establecerán las bases de coordinación para la integración y funcionamiento del Sistema Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2019)</small>
+
 ###### Artículo 10.
 
-El Ejecutivo Estatal, a través de la Secretaría que corresponda, según la materia de que se trate, y los Municipios, podrán suscribir convenios o acuerdos de coordinación con la participación del Instituto o de los institutos municipales para la mujer, a fin de:
+Los Poderes del Estado y los Municipios, podrán suscribir convenios o acuerdos de coordinación con la participación del instituto o de los institutos municipales para la mujer, a fin de:
 
 I. Fortalecer sus funciones y atribuciones en materia de igualdad;
 
@@ -121,7 +131,9 @@ En la celebración de convenios o acuerdos de coordinación, deberán tomarse en
 
 En el seguimiento y evaluación de los resultados que se obtengan en la ejecución de los convenios y acuerdos a que se refiere este Capítulo, participará la Comisión Estatal de los Derechos Humanos de Baja California, en su calidad de responsable de la protección y observancia de los derechos humanos en la entidad, de acuerdo con las atribuciones que su propia ley le confiere.
 
-### CAPÍTULO SEGUNDO. EJECUTIVO ESTATAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JUNIO DE 2019)</small>
+
+### CAPÍTULO SEGUNDO. DE LOS PODERES DEL ESTADO
 
 ###### Artículo 13.
 
@@ -150,6 +162,32 @@ VII. Promover la capacitación continua de los servidores públicos de la admini
 > <small>(ADICIONADA, P.O. 18 DE ENERO DE 2019)</small>
 
 VIII. Establecer lineamientos de observancia obligatoria para los servidores públicos de la administración pública del estado, en materia de igualdad entre mujeres y hombres.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+###### Artículo 13 Bis.
+
+Corresponde al Congreso del Estado:
+
+I. Vigilar que el marco jurídico estatal esté debidamente armonizado con los compromisos internacionales suscritos por México, en materia de igualdad y no discriminación, así como con las normas federales en la materia;
+
+II. Promover las iniciativas correspondientes para dar cumplimiento a lo previsto en dichos ordenamientos y en la presente Ley;
+
+III. Garantizar las disposiciones legales necesarias para promover los principios, políticas y objetivos que sobre la igualdad entre mujeres y hombres se expidan, se consideren las acciones presupuestales necesarias para garantizar su ejecución; y
+
+IV. Capacitar, en coordinación con la Institución a todo su personal en materia de proceso legislativo con perspectiva de igualdad, mecanismos de promoción y vigencia de los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+###### Artículo 13 Ter.
+
+El Poder Judicial del Estado, con base en los principios y disposiciones de esta Ley:
+
+I. Implementará mecanismos y acciones encaminadas a promover y garantizar la igualdad en el acceso y promoción de las y los funcionarios judiciales, en la carrera judicial;
+
+II. Capacitará a las Magistradas, Magistrados; Jueces, Juezas y al personal judicial, en materia de derechos humanos, derechos específicos de personas, grupos considerados vulnerables, y en los mecanismos de administración de justicia con perspectiva de género; y
+
+III. Garantizará que todas las actuaciones judiciales tengan por sustento los principios de la Constitución Federal, la Constitución del Estado, y los Convenios Internacionales suscritos por México, en materia de derechos humanos, igualdad y no discriminación.
 
 ### CAPÍTULO TERCERO. INSTITUTO
 
@@ -271,9 +309,11 @@ II. Contribuir a la erradicación de todo tipo de discriminación.
 
 El Instituto coordinará las acciones que el Sistema Estatal genere, sin perjuicio de las atribuciones y funciones contenidas en su ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2019)</small>
+
 ###### Artículo 25.
 
-El Sistema Estatal se integrará por los representantes de las instancias siguientes:
+El Sistema Estatal se integrará por los representantes siguientes:
 
 I. La Secretaría General de Gobierno, que fungirá como Presidente;
 
@@ -283,17 +323,35 @@ III. La Comisión Estatal de los Derechos Humanos;
 
 IV. La dependencia o entidad de la administración pública estatal que corresponda, según la materia de que se trate;
 
-V. Un representante de cada uno de los Municipios del Estado;
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2019)</small>
 
-VI. Un representante de los Pueblos Indígenas del Estado;
+V. El Poder Legislativo del Estado de Baja California, a través de un Diputado encargado de dicha Comisión.
 
-VII. Dos representantes de organizaciones civiles especializadas en Derechos Humanos, y
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2019)</small>
 
-VIII. Dos representantes de instituciones de investigación especializadas en igualdad entre mujeres y hombres.
+VI. El Poder Judicial del Estado de Baja California, a través de un Magistrado quien presida el Tribunal Superior de Justicia y el Consejo de la Judicatura.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JUNIO DE 2019)</small>
+
+VII. Un representante de cada uno de los Municipios del Estado;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+VIII. Un representante de los pueblos indígenas del Estado;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+IX. Dos representantes de organizaciones civiles especializadas en Derechos Humanos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2019)</small>
+
+X. Dos representantes de instituciones de investigación especializadas en igualdad entre mujeres y hombres.
 
 Las reglas para la organización y funcionamiento del Sistema Estatal serán determinadas a través del reglamento de la Ley.
 
-Los integrantes a que refieren las fracciones VI, VII y VIII de este artículo, serán designados por el Presidente del Sistema Estatal para un periodo de tres años, previa convocatoria pública que se emita, la cual deberá reunir los requisitos determinados en el reglamento de la Ley.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+Los integrantes a que refieren las fracciones VIII, IX y X de este artículo, serán designados por el Presidente del Sistema Estatal para un periodo de tres años, previa convocatoria pública que se emita, la cual deberá reunir los requisitos determinados en el reglamento de la Ley.
 
 Los cargos de los integrantes del Sistema Estatal serán honoríficos.
 
@@ -525,7 +583,7 @@ TERCERO.- El Instituto deberá presentar al titular del Ejecutivo Estatal el pro
 
 CUARTO.- El titular del Poder Ejecutivo del Estado emitirá las disposiciones reglamentarias aplicables dentro de los seis meses siguientes a la entrada en vigor de la presente Ley.
 
-DADO en el Salón de sesiones “Lic. Benito Juárez García” del H. Poder Legislativo del Estado de Baja California, en la Ciudad de Mexicali, B.C., a los cinco días del mes de noviembre del año dos mil quince.
+DADO en el Salón de Sesiones “Lic. Benito Juárez García” del H. Poder Legislativo del Estado de Baja California, en la Ciudad de Mexicali, B.C., a los cinco días del mes de noviembre del año dos mil quince.
 
 DIP. IRMA MARTÍNEZ MANRÍQUEZ
 
@@ -554,3 +612,9 @@ P.O. 18 DE ENERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 289 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 7 Y 18 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 339 MEDIANTE EL CUAL SE APRUEBA DIVERSAS REFORMAS A LA LEY PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
