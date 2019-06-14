@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-72781"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2018-08-15"
+last_updated: "2019-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -935,9 +935,9 @@ III. La atención del niño, previo y durante su nacimiento, así como la vigila
 
 IV. La protección de la integración y del bienestar familiar;
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
 
-V. La detección temprana de la pérdida de audición y enfermedades visuales, y su tratamiento en todos sus grados, desde los primeros días del nacimiento;
+V. La detección temprana de la pérdida de audición y enfermedades visuales, y su tratamiento en todos sus grados, desde los primeros días del nacimiento, incluyendo el tamiz oftalmológico y auditivo;
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
 
@@ -1847,13 +1847,17 @@ Se consideran procedimientos de embellecimiento del cuerpo humano no quirúrgico
 
 El funcionamiento y personal de los establecimientos señalados en este Capítulo, deberán apegarse a lo establecido en la presente Ley y demás disposiciones legales aplicables.
 
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
 
 ###### Artículo 158 Quinquies.
 
-Los procedimientos de medicina o cirugía estética y reconstructiva se efectuarán en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por médicos con título profesional y cédula de especialidad en cirugía plástica y reconstructiva, otorgada por una autoridad competente y registrada en la Dirección General de Profesiones.
+Los procedimientos de medicina o cirugía estética y reconstructiva se efectuarán en establecimientos o unidades médicas con licencia sanitaria vigente. Para la realización de dichos procedimientos, los profesionales que los lleven a cabo requieren cumplir con los requisitos establecidos en la Ley -General de Salud, que son:
 
-El incumplimiento se podrá denunciar ante las autoridades competentes.
+I. Título profesional y cédula de especialidad en cirugía plástica y reconstructiva, otorgada por una autoridad competente y registrada en la Dirección General de Profesiones; y
+
+II. Certificado vigente de especialista que acredite capacidad y experiencia en la práctica de los procedimientos y técnicas correspondientes en la materia, de acuerdo al conjunto de prácticas médicas adoptadas y/o adecuadas para el tratamiento, expedidas por el Consejo de la especialidad según corresponda.
+
+El incumplimiento de lo dispuesto por este artículo se podrá denunciar ante las autoridades competentes.
 
 Título Decimosegundo
 
@@ -2236,3 +2240,21 @@ P.O. 15 DE AGOSTO DE 2018.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 63 DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Para dar cumplimiento a lo señalado por la fracción V del artículo 63 de esta Ley, deberá atenderse a la suficiencia presupuestal disponible.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
+
+P.O. 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 158 QUINQUIES DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
