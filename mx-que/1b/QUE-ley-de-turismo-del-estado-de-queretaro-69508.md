@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-turismo-del-estado-de-queretaro-69508"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2017-06-16"
+last_updated: "2019-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE TURISMO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -31,7 +31,9 @@ LIC. FRANCISCO GARRIDO PATRÓN, Gobernador Constitucional del Estado de Queréta
 
 LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide la siguiente:
 
@@ -61,45 +63,51 @@ IV. El fomento al turismo tendrá como bases la creación, la conservación, la 
 
 V. Las autoridades estatales y municipales, los prestadores de servicios turísticos y los particulares, concurrirán en la vigilancia del cumplimiento de las disposiciones de la presente Ley, denunciando de inmediato ante la autoridad competente las anomalías e irregularidades que observen en el trato al turista y, en general, en todo lo relativo al desarrollo turístico del Estado.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
+
 ###### Artículo 3.
 
-Para los efectos de esta Ley, se entiende por:
+Para los efectos de la presente Ley se entenderá por:
 
-I. Comisión: la Comisión Estatal de Desarrollo Turístico;
+I. Comisión. La Comisión Estatal de Desarrollo Turístico;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2013)</small>
+II. Fideicomiso. El Fideicomiso Promotor del Turismo en el Estado de Querétaro (FIPROTUR);
 
-II. Fideicomiso: el Fideicomiso Promotor del Turismo en el Estado de Querétaro (FIPROTUR);
+III. Prestador de servicios turísticos. La persona física o moral que habitualmente proporcione intermedie o contrate con el turista;
 
-III. Prestador de servicios turísticos: la persona física o jurídica que habitualmente proporcione, intermedie o contrate con el turista;
+IV. Pueblo con Tradición. El Programa de desarrollo turístico integral para localidades del Estado de Querétaro, orientado a impulsar una amplia oferta turística de los lugares que cuenten con la declaratoria expedida por el Gobernador del Estado;
 
-> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2017)</small>
+V. Pueblo Mágico. La localidad que a través del tiempo y ante la modernidad, ha conservado su valor, herencia histórica y cultural, y la manifiesta en diversas expresiones a través de su patrimonio tangible e intangible irremplazable, que cuenta con el nombramiento correspondiente otorgado por la Secretaría de Turismo Federal;
 
-IV. Pueblo Mágico: Localidad que a través del tiempo y ante la modernidad, ha conservado su valor y herencia histórica, cultural y la manifiesta en diversas expresiones a través de su patrimonio tangible e intangible irremplazable, que cuenta con el nombramiento correspondiente otorgado por la Secretaría de Turismo Federal;
+VI. Secretaría. La Secretaría de Turismo del Poder Ejecutivo del Estado de Querétaro;
 
-V. Secretaría: la Secretaría de Turismo del Estado de Querétaro;
+VII. Servicios turísticos. Todos los servicios que de manera general son ofrecidos o proporcionados al turista por cualquier prestador de servicios en zona turística y, de manera particular, los que se ofrecen a través de los lugares señalados en la presente Ley;
 
-VI. Servicios turísticos: todos los servicios que, de manera general, son ofrecidos o proporcionados al turista por cualquier prestador de servicios en zona turística y, de manera particular, los que se ofrecen a través de los lugares señalados en la presente Ley;
+VIII. Turismo. Las actividades que se realizan a fin de ofrecer bienes y servicios a las personas que se desplazan de su domicilio o residencia habitual, con la intención de visitar lugares que les proporcionen esparcimiento, descanso, salud, cultura, entretenimiento, diversión o recreo, generándose de estas actividades beneficios económicos y sociales que contribuyen al desarrollo del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+IX. Turista. La persona nacional o extranjera, que viaja, trasladándose temporalmente fuera de su domicilio o residencia habitual y que contrata o utiliza cualquiera de los servicios a que se refiere esta Ley u otros ordenamientos legales aplicables; y
 
-VII. Turismo: las actividades que se realizan a fin de ofrecer bienes y servicios a las personas que se desplazan de su domicilio o residencia habitual, con la intención de visitar lugares que les proporcionen esparcimiento, descanso, salud, cultura, entretenimiento, diversión o recreo, generándose de estas actividades beneficios económicos y sociales que contribuyen al desarrollo del Estado;
+X. UMA: El valor diario de la Unidad de Medida y Actualización que calcule y dé a conocer a través de su publicación en el Diario Oficial de la Federación, el Instituto Nacional de Estadística y Geografía, en términos de lo dispuesto por los artículos 26, apartado B, último párrafo de la Constitución Política de los Estados Unidos Mexicanos y 23, fracción XX Bis del Reglamento Interior del Instituto Nacional de Estadística y Geografía.
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
 
-VIII. Turismo cultural: viaje turístico motivado por conocer, comprender y disfrutar el conjunto de rasgos y elementos distintivos, espirituales y materiales, intelectuales y afectivos que caracterizan a una sociedad o grupo social como destino específico;
+###### Artículo 3 Bis.
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2017)</small>
+Los principales tipos del turismo que pueden ser aprovechados en el Estado son, entre otros, los siguientes:
 
-IX. Turismo de reuniones y negocios: actividad turística, encaminada a impulsar y promover en la Entidad, la realización de actividades vinculadas con aspectos tales como mercadeo o actividades laborales, profesionales o económicas con diferentes propósitos, que requieren infraestructura y servicios específicos para su realización, para distinto número de participaciones;
+I. Turismo alternativo. Tiene como finalidad realizar actividades recreativas en contacto con la naturaleza y las expresiones culturales con una actitud y compromiso de conocer, respetar, disfrutar y participar de la conservación de los elementos y recursos naturales y culturales;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2017)</small>
+II. Turismo cultural. Es motivado por conocer, comprender y disfrutar el conjunto de rasgos y elementos distintivos, espirituales, materiales, intelectuales y afectivos, que caracterizan a una sociedad o grupo social como destino específico;
 
-X. Turista: la persona nacional o extranjera, que viaja, trasladándose temporalmente fuera de su domicilio o residencia habitual y que contrata o utiliza cualquiera de los servicios a que se refiere esta Ley u otros ordenamientos legales aplicables; y
+III. Turismo de romance. Actividad en la que las parejas llevan a cabo celebraciones especiales, tales como despedida de solteros, luna de miel, aniversario o bodas;
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2017)</small>
+IV. Turismo enológico. Tiene como objetivo conocer las actividades vinculadas a la producción de vinos en el Estado, a través de la promoción, degustación, talleres y cursos;
 
-XI. UMA: El valor diario de la Unidad de Medida y Actualización que calcule y dé a conocer a través de su publicación en el Diario Oficial de la Federación, el Instituto Nacional de Estadística y Geografía, en términos de lo dispuesto por los artículos 26 apartado B último párrafo de la Constitución Política de los Estados Unidos Mexicanos y 23 fracción XX Bis del Reglamento Interior del Instituto Nacional de Estadística y Geografía.
+V. Turismo gastronómico. Su finalidad que el turista conozca y experimente la diversidad culinaria del Estado a través de la promoción de los platillos típicos, productos alimenticios locales, asistencia a eventos gastronómicos, mercados populares, restaurantes, locales y lugares específicos de degustación;
+
+VI. Turismo religioso. Comprende tanto la visita a espacios religiosos, lugares sagrados, santuarios, tumbas; así como la asistencia o participación en peregrinaciones y celebraciones religiosas, manteniendo las manifestaciones culturales de las poblaciones a través del tiempo; y
+
+VII. Turismo de reuniones y negocios. Está encaminado a impulsar y promover en la Entidad la realización de actividades vinculadas con aspectos tales como mercadeo, actividades laborales, profesionales o económicas, con diferentes propósitos y que requieren infraestructura y servicios específicos para su realización, para distinto número de participaciones;
 
 ###### Artículo 4.
 
@@ -113,11 +121,9 @@ a) Guía general: persona que cuenta con estudios de guía a nivel técnico, rec
 
 b) Guía especializado: persona que tiene conocimientos o experiencia acreditable sobre algún tema o actividad específicos;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
 
 III. Hoteles, moteles, albergues, hostales, paradores de casas rodantes, campamentos y demás establecimientos de hospedaje que presten servicios a turistas; restaurantes, cafeterías, bares, centros nocturnos y establecimientos similares que se encuentren en el interior de las instalaciones de aeropuertos, terminales de autobuses, estaciones de ferrocarril, museos, monumentos históricos y zonas arqueológicas.
-
-Los prestadores de servicios que no se encuentren ubicados en los establecimientos señalados en el párrafo anterior deberán solicitar su inscripción al Registro Estatal de Turismo, además de cumplir con los requisitos establecidos en las disposiciones aplicables;
 
 IV. Empresas de sistemas de intercambio de servicios turísticos;
 
@@ -227,7 +233,9 @@ Las dependencias y entidades de la administración pública estatal y de los mun
 
 A fin de cumplir con el objeto de promover, proteger, mejorar, incrementar y difundir los atractivos y actividades turísticas del Estado, la Secretaría deberá:
 
-I. Fomentar el cuidado y conservación de zonas y monumentos arqueológicos, artísticos e históricos y lugares de interés para el turismo;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+I. Colaborar con la Secretaría de Cultura y las autoridades competentes en la preservación de los monumentos arqueológicos, históricos y artísticos que se encuentren en el patrimonio del Estado, de conformidad con las leyes aplicables;
 
 II. Promover y gestionar, ante autoridades federales, estatales y municipales, la dotación de infraestructura y servicios urbanos en los centros de turismo integral;
 
@@ -357,9 +365,39 @@ V. Ofrecer información especializada y oportuna encaminada a promover la visita
 
 VI. En coordinación con instituciones y organizaciones privadas, autoridades Federales, Estatales, Municipales, el sector empresarial y hotelero, crear planes y programas que permitan la difusión en el Estado del turismo cultural.
 
-### Capítulo Sexto. De los mecanismos de coordinación
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2019)</small>
 
-### Capítulo Séptimo. De la Comisión Estatal de Desarrollo Turístico
+### Capítulo Quinto Ter. De los pueblos con tradición
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+###### Artículo 26 Ter.
+
+Podrán ser considerados para declararse como Pueblo con tradición, aquellas localidades del Estado que cuentan con un atractivo turístico que las hace singular respecto de otros lugares, que han conservado y valorado su herencia natural, histórica o cultural y que cumplen con los lineamientos de incorporación y permanencia establecidos por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+###### Artículo 26 Quater.
+
+Para obtener la declaratoria de pueblo con tradición, los municipios aspirantes deberán cumplir con los siguientes requisitos:
+
+I. Acreditar la integración formal de un Comité Pro Pueblo con Tradición;
+
+II. Contar con un programa municipal que tenga un impacto en el desarrollo turístico del Municipio aspirante;
+
+III. Contar con ordenamientos municipales vigentes con impacto en el desarrollo Turístico; y
+
+IV. Los demás que establezca la presente Ley y el Reglamento respectivo.
+
+Los recursos financieros que soporten el nombramiento serán otorgados por el Poder Ejecutivo del Estado a través de la Secretaría de Turismo, así como de los Municipios participantes de acuerdo con sus recursos presupuestarios.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+Artículo 26 Quintus. La declaratoria de Pueblo con tradición será otorgada por el Gobernador del Estado.
+
+Una vez realizada la declaratoria al Municipio correspondiente, la Secretaría programará acciones de capacitación.
+
+### Capítulo Sexto. De los mecanismos de coordinación
 
 ###### Artículo 27.
 
@@ -369,7 +407,7 @@ La Secretaría de Turismo en el Estado y los ayuntamientos, buscarán los mecani
 
 La Secretaría y los ayuntamientos se coordinarán con los sectores social y privado, a efecto de que coadyuven en la promoción y fomento de la actividad turística en el Estado, así como para incrementar la calidad en los servicios turísticos.
 
-### Capítulo Octavo. Del Sistema Estatal de Información Turística y del Registro Estatal de Turismo
+### Capítulo Séptimo. De la Comisión Estatal de Desarrollo Turístico
 
 ###### Artículo 29.
 
@@ -395,7 +433,7 @@ El titular del Poder Ejecutivo del Estado presidirá la Comisión. Los cargos de
 
 La Comisión contará con un Secretario Ejecutivo designado por el Secretario de Turismo, el cual contará únicamente con derecho a voz y tendrá a su cargo apoyar al Presidente en todas las actividades inherentes al desarrollo de las sesiones, así como dar seguimiento de los acuerdos tomados en el seno de la Comisión.
 
-### Capítulo Noveno. De los servicios turísticos
+### Capítulo Octavo. Del Sistema Estatal de Información Turística
 
 ###### Artículo 31.
 
@@ -405,7 +443,9 @@ La Comisión podrá invitar a otros órganos, dependencias o entidades de la adm
 
 La Comisión sesionará de manera ordinaria cuando menos una vez de forma trimestral, pudiendo celebrar las sesiones extraordinarias que fueren necesarias. Para que las sesiones sean válidas será necesario contar con la asistencia de su Presidente y de la mayoría simple de sus integrantes. Sus resoluciones se tomarán por mayoría de votos, en caso de empate el Presidente tendrá voto de calidad.
 
-### Capítulo Décimo. De la protección al turista
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JUNIO DE 2019)</small>
+
+### Capítulo Noveno. De los servicios turísticos
 
 ###### Artículo 33.
 
@@ -435,23 +475,13 @@ La Secretaría formulará periódicamente programas de evaluación turística, e
 
 ###### Artículo 36.
 
-Como parte del Sistema Estatal de Información Turística, se establece el Registro Estatal de Turismo, que tiene por objeto la inscripción obligatoria de los prestadores de servicios turísticos de la Entidad. Asimismo, deberán inscribirse las escuelas, instituciones y centros de educación, capacitación y formación de profesionales y técnicos en el ramo turístico.
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 37.
 
-La inscripción se realizará por escrito o por los medios que la propia Secretaría determine, proporcionando los siguientes datos:
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
-I. Nombre y domicilio de la persona física o moral prestadora del servicio;
-
-II. Lugar y domicilio en el que se prestarán los servicios;
-
-III. Fecha de la apertura del establecimiento;
-
-IV. Tipo de los servicios que se prestarán y su categoría, conforme a las normas aplicables; y
-
-V. Los demás que el prestador estime necesarios para fines de difusión.
-
-La información contenida en el Registro, será turnada a la Secretaría de Turismo Federal, en los términos de la Ley General de Turismo y operación del Registro Nacional de Turismo.
+### Capítulo Décimo. De la protección al turista
 
 ###### Artículo 38.
 
@@ -489,7 +519,7 @@ III. Expedir las facturas y comprobantes que amparen el cobro de los servicios p
 
 IV. Colaborar con la Secretaría en los programas de promoción y formación del turismo;
 
-V. Contar con formatos foliados y de porte pagado en el Sistema de Quejas de Turistas, en los términos de la norma oficial mexicana respectiva;
+V. (DEROGADA, P.O. 14 DE JUNIO DE 2019)
 
 VI. Garantizar, ante la Secretaría, el cumplimiento de las condiciones en que ofrezcan los servicios turísticos, mediante el otorgamiento de fianzas y la contratación de los seguros que se requieran, según la naturaleza del servicio, en términos de las leyes aplicables;
 
@@ -511,9 +541,9 @@ XII. Proporcionar los servicios turísticos, precios, tarifas y promociones, pre
 
 XIII. Mantener sus instalaciones en condiciones óptimas de servicio e higiene; y
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
 
-XIV. Al inicio de sus operaciones, inscribirse en el Sistema Estatal de la Información Turística de la Secretaría, así como aportar los datos estadísticos que la autoridad competente les solicite, de conformidad con las Leyes de la materia.
+XIV. Al inicio de sus operaciones, inscribirse en el Registro Nacional de Turismo, así como aportar los datos estadísticos que la autoridad competente les solicite, de conformidad con las Leyes de la materia.
 
 ###### Artículo 42.
 
@@ -565,9 +595,11 @@ VIII. Promover y gestionar el otorgamiento de becas; y
 
 IX. Realizar las demás acciones que sean necesarias para la formación de recursos humanos que requiere el desarrollo turístico del Estado.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
+
 ###### Artículo 47.
 
-Las escuelas, institutos y centros de formación y educación turísticas en la Entidad, se ajustarán a las leyes educativas aplicables, debiendo registrarse ante la Secretaría, acompañando para ello la documentación y los informes que se les requieran.
+Las escuelas, institutos y centros de formación y educación turísticas en la Entidad, se ajustarán a las leyes educativas aplicables.
 
 ###### Artículo 48.
 
@@ -609,7 +641,7 @@ El turismo regional, es la categoría de turismo alternativo en la cual el turis
 
 ###### Artículo 54.
 
-Los prestadores de servicios turísticos a que esta se refiere este Capítulo (sic), así como toda persona, organización o institución pública o privada que pretenda la creación de una empresa que brinde servicio en actividades de turismo alternativo en el Estado, requerirá de un permiso expedido por la Secretaría de Turismo del Estado, con la opinión de los municipios en cuyas jurisdicciones se pretenda realizar dicha actividad, el cual se sujetará a la observación estricta de los reglamentos y los programas de manejo aplicables de las áreas destinadas para actividades ecoturísticas, autorizadas por la Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT).
+Los prestadores de servicios turísticos a que esta (sic) se refiere este Capítulo, así como toda persona, organización o institución pública o privada que pretenda la creación de una empresa que brinde servicio en actividades de turismo alternativo en el Estado, requerirá de un permiso expedido por la Secretaría de Turismo del Estado, con la opinión de los municipios en cuyas jurisdicciones se pretenda realizar dicha actividad, el cual se sujetará a la observación estricta de los reglamentos y los programas de manejo aplicables de las áreas destinadas para actividades ecoturísticas, autorizadas por la Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT).
 
 Cuando la prestación de servicios y actividades de turismo alternativo se pretendan desarrollar dentro de las áreas naturales protegidas, la Secretaría de Desarrollo Sustentable del Estado(SEDESU), con opinión de la Secretaría, será la encargada de otorgar los permisos correspondientes, siguiendo el procedimiento que establezca el reglamento correspondiente y los programas de manejo aplicables para las áreas naturales protegidas, informando, para efectos de su registro, a la Comisión Nacional de Áreas Protegidas.
 
@@ -703,19 +735,17 @@ La Procuraduría Federal de Protección al Consumidor, se encargará de imponer 
 
 Por violaciones a esta Ley, la Secretaría podrá imponer las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
 
-I. Por incumplir con lo dispuesto en el artículo 41, fracciones III, V, X y XI y 43, primer párrafo, se impondrá multa hasta por quinientas veces la UMA;
+I. Por incumplir con lo dispuesto en el artículo 41, fracciones III, X y XI y 43, primer párrafo, se impondrá multa hasta por quinientas veces el valor diario de la UMA;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
 
-II. Por incumplir con lo dispuesto en los reglamentos que regulan los servicios turísticos a que se refieren las fracciones II y III del artículo 4, 41, fracción II y 44, se impondrá multa hasta por mil veces la UMA; y
+II. Por incumplir con lo dispuesto en los reglamentos que regulan los servicios turísticos a que se refieren las fracciones II y III del artículo 4, 41, fracción II y 44, se impondrá multa hasta por mil veces el valor diario de la UMA; y
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
 
-III. Por incumplir a lo establecido por los artículos 39, 41, fracciones VI y XII y 43, segundo párrafo, serán sancionados con multa hasta por tres mil veces la UMA.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE JUNIO DE 2017)</small>
+III. Por incumplir a lo establecido por los artículos 39, 41, fracciones VI y XII y 43, segundo párrafo, serán sancionados con multa hasta por tres mil veces el valor diario de la UMA.
 
 ###### Artículo 65.
 
@@ -830,3 +860,31 @@ P.O. 16 DE JUNIO DE 2017.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE TURISMO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Para el cumplimiento de esta Ley en lo que implique disposición de recursos, deberá atenderse a la suficiencia presupuestal disponible.
+
+Artículo Tercero. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. El Poder Ejecutivo del Estado expedirá el Reglamento para el funcionamiento del programa a que se refiere la fracción IV del artículo 3 de esta Ley.
+
+P.O. 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA UNA FRACCIÓN AL ARTÍCULO 3 DE LA LEY DE TURISMO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
