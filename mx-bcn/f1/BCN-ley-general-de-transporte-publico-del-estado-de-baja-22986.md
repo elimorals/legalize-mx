@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-transporte-publico-del-estado-de-baja-22986"
 country: "mx"
 rank: "ley_general"
 publication_date: "2001-11-09"
-last_updated: "2017-04-07"
+last_updated: "2019-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE TRANSPORTE PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -141,7 +141,7 @@ III.- Expedir la reglamentación correspondiente en materia de transporte públi
 
 IV.- Expedir y reglamentar la expedición, canje y revalidación de licencias de motociclistas, automovilistas y choferes, estas últimas se clasificarán en:
 
-Tipo A.- Chofer que maneja tractocamiones y camiones foráneos de mas de ocho toneladas, de tres ejes o mas ejes y camiones foráneos de pasajeros (diesel o gasolina).
+Tipo A.- Chofer que maneja tractocamiones y camiones foráneos de mas de ocho toneladas, de tres o mas ejes y camiones foráneos de pasajeros (diesel o gasolina).
 
 Tipo B.- Chofer que maneja camiones urbanos de pasajeros y camiones de carga de menos de ocho toneladas de dos ejes (diesel o gasolina).
 
@@ -171,7 +171,7 @@ III.- Las demás que señale la reglamentación municipal de acuerdo a las neces
 
 ###### ARTICULO 6.
 
-Es atribución de los Municipios del Estado, dentro de las circunscripciones territoriales de su competencia, la prestación del servicio público de transporte de pasajeros y de carga, en sus diferentes modalidades, así como el arrastre y depósito de vehículos detenidos a disposición de autoridad competente.
+Es atribución de los Municipios del Estado, dentro de las circunscripciones territoriales de su competencia, la prestación del servicio público de transporte de pasajeros y de carga, en sus diferentes modalidades, así como el arrastre y deposito de vehículos detenidos a disposición de autoridad competente.
 
 Para la prestación de este servicio, los Ayuntamientos podrán conformar las entidades, organismos o empresas de participación municipal, o celebrar convenios de asociación necesarios para satisfacer la prestación del servicio, o en su caso, otorgar a los particulares los permisos y concesiones que conforme a esta Ley y la reglamentación de la materia resulten procedentes.
 
@@ -386,6 +386,48 @@ Los concesionarios y permisionarios del servicio público de transporte de pasaj
 ARTICULO 30 BIS.- Los concesionarios del servicio público de arrastre y depósito de vehículos detenidos a disposición de autoridad competente, deberán observar lo dispuesto en los artículos 250 de los Códigos de Procedimientos Penales para el Estado de Baja California, publicados en fecha 20 de agosto de 1989 y 19 de octubre de 2007.
 
 Los concesionarios que incumplan con lo dispuesto en el párrafo anterior, serán sancionados de acuerdo con lo previsto en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+Artículo 30 TER.- Son obligaciones de los concesionarios o permisionarios del servicio de transporte público de personas las siguientes:
+
+I. Prestar el servicio de manera uniforme, continua y eficiente de conformidad con lo que establezca la concesión o permiso;
+
+II. Sujetarse a las disposiciones de la presente Ley, de los ordenamientos federales en materia de trabajo y previsión social, de los reglamentos aplicables en la materia, del título de concesión, de los manuales, instructivos y circulares que emitan las autoridades competentes;
+
+III. Cobrar la tarifa autorizada;
+
+IV. Someter los vehículos a la inspección vehicular, con la periodicidad y en los términos que señala (sic) las disposiciones aplicables;
+
+V. Supervisar que el servicio se efectúe en condiciones idóneas de higiene personal y de acuerdo a las disposiciones aplicables;
+
+VI. Utilizar únicamente los vehículos autorizados y abstenerse de prestar el servicio con unidades distintas o que no satisfagan las condiciones de seguridad, higiene, capacidad, peso y demás especificaciones relativas a la concesión o permiso conferido;
+
+VII. Responder por las faltas o infracciones, en que incurran por si mismos o por sus conductores, a la presente Ley o sus normas reglamentarias;
+
+VIII. Asegurarse que la prestación del servicio se realice con respeto y cortesía al usuario;
+
+IX. Vigilar que sus conductores no presten el servicio bajo el efecto del consumo de alcohol, drogas, enervantes o psicotrópicos de cualquier tipo;
+
+X. Vigilar que sus operadores y personal relacionado con el servicio que presta, cumpla con las disposiciones legales; asimismo, que porten en lugar visible en sus unidades un tarjetón de identificación expedido por la autoridad competente, con la finalidad de contar con un formato que reúna los elementos gráficos y de escritura legibles al usuario para la identificación plena del operador;
+
+XI. Proporcionar en todo tiempo a las autoridades competentes que lo requieran, los datos, informes o documentos que le sean solicitados y que se relacionen con la operación de la concesión o permiso, y otorgarle las facilidades necesarias para la realización de las visitas de verificación e inspección;
+
+XII. La prestación del servicio público de transporte obliga a su titular a contratar una póliza de responsabilidad civil, debidamente respalda (sic) por la Comisión Nacional de Seguros y Fianzas y/o constituir un Fondo de Garantía, que garantice plenamente la reparación de daños a usuarios y terceros en su persona y patrimonio, así como la indemnización por muerte o lesiones, que resulten de la prestación del mismo.
+
+Bajo ninguna circunstancia podrá un vehículo de servicio público concesionado o permisionado transitar ni realizar el servicio de transporte público si carece de Póliza o afiliación al Fondo de Garantía que ampare la responsabilidad civil frente a terceros, responsabilidad civil por cada pasajero o usuario, gastos médicos por las lesiones ocasionadas al conductor, así como responsabilidad civil por el conductor;
+
+XIII. Otorgar capacitación permanente a los operadores del trasporte público en cualquiera de sus modalidades, mediante un mínimo de tres cursos al año;
+
+XIV. Aplicar las exenciones de pago, tarifas preferenciales y otros beneficios en favor del usuario en los casos previstos por esta Ley y su Reglamento;
+
+XV. Contar en las unidades de trasporte urbano y semi-urbano, con asientos para personas con discapacidad y para mujeres con embarazo evidente, diferenciados de los demás por señalamientos o logotipos y situados junto a la puerta de acceso de las unidades de transporte, pudiendo ser ocupados por cualquier usuario, siempre y cuando no sean requeridos por alguna otra persona con discapacidad o embarazo evidente;
+
+XVI. Permitir el acceso a los perros de asistencia que utilizan como apoyo en las labores cotidianas las personas con discapacidad;
+
+XVII. Instalación de botones de pánico; y,
+
+XVIII. Las demás que señalen esta Ley y otras disposiciones legales, reglamentarias y administrativas.
 
 ###### ARTICULO 31.
 
@@ -610,3 +652,9 @@ P.O. 7 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 467 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2 Y 37 DE LA LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA; SE APRUEBA REFORMA AL ARTÍCULO 2 BIS DE LA LEY GENERAL DE TRANSPORTE PÚBLICO DEL ESTADO DE BAJA CALIFORNIA; SE APRUEBA REFORMA AL ARTÍCULO 22 DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA; Y SE CREA LA LEY DE FOMENTO PARA USO DE LA BICICLETA Y PROTECCIÓN AL CICLISTA PARA EL ESTADO”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 344 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 30 TER DE LA LEY GENERAL DE TRANSPORTE PÚBLICO DEL ESTADO DE B. C.".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
