@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-auditoria-superior-de-la-ciudad-11173
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-01-21"
-last_updated: "2016-01-21"
+last_updated: "2019-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111737&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2015-10-02"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 14 DE JUNIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE JUNIO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 21 de enero de 2016.
 
@@ -949,3 +951,25 @@ México, Distrito Federal, a dos de octubre de dos mil quince.
 DR. DAVID MANUEL VEGA VERA
 
 AUDITOR SUPERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día hábil siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Auditoría Superior de la Ciudad de México, publicado en la Gaceta Oficial del Distrito Federal el veintiuno de enero de dos mil dieciséis, y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- En la emisión de Dictámenes Técnicos Correctivos, Pliegos de Observaciones y las Promociones de Acciones, mientras le sean aplicables atendiendo la fecha de comisión de las irregularidades, se llevarán a cabo en los términos de las disposiciones del Reglamento Interior de la Auditoría Superior de la Ciudad de México de fecha veintiuno de enero de dos mil dieciséis.
+
+CUARTO.- La normatividad interna de la Auditoría Superior, continuará vigente en todo aquello que no se oponga al contenido del presente Reglamento y en tanto ésta se actualiza.
+
+QUINTO.- Los manuales de organización de las unidades administrativas deberán ser actualizados conforme a las disposiciones de este Reglamento, dentro del plazo de seis meses contados a partir de que éste entre en vigor.
+
+La normatividad interna de la Auditoría Superior, distinta a la señalada en el párrafo anterior deberá actualizarse en un plazo no mayor a un año calendario, contado a partir del día hábil siguiente de la publicación del presente Reglamento.
+
+SEXTO.- Los asuntos no previstos en el presente Reglamento, serán resueltos por el Auditor Superior, en el ámbito de sus atribuciones, mediante las circulares o acuerdos respectivos que publique en la Gaceta Oficial de la Ciudad de México.
+
+SÉPTIMO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
