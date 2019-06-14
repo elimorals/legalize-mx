@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-juventud-del-estado-de-baja-california-82158"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-11"
-last_updated: "2018-05-18"
+last_updated: "2019-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 11 de julio de 2011.
 
@@ -97,7 +97,9 @@ XVI.- Primer Empleo: al proceso de integración de un joven por primera ocasión
 
 XVII.- Programa: al Programa Estatal de Atención a la Juventud;
 
-XVIII.- Red: a la Red de Intercambio de Información Juvenil;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+XVIII.- Plataforma Digital: Sistema Electrónico de información;
 
 XIX.- Reglamento: al Reglamento de la Ley, y
 
@@ -629,7 +631,21 @@ XXI.- Estrategias que contemplen mecanismos para el estudio, sistematización, l
 
 XXII.- En general, toda política y criterios que el Gobierno del Estado observara en sus programas de la juventud establecidos a nivel nacional, y
 
-XXIII.- Las demás que sean necesarias para el desarrollo integral de los jóvenes.
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+XXIII.- Establecer la coordinación con las dependencias y las entidades de la Administración Pública Estatal y Municipal, para el impulso de programas y cursos de orientación e información sobre nutrición, derechos humanos, cultura de la no violencia y no discriminación, medio ambiente, prevención del suicidio, derechos y responsabilidad legal de los jóvenes y participación social comunitaria;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+XXIV.- Acciones de acompañamiento y Vinculación Comunitaria para jóvenes que viven en comunidades vulnerables o de alta incidencia de violencia, adicciones o desintegración familiar.
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2019)</small>
+
+XXV.- Establecer de uso de tecnologías y plataformas digitales para la difusión de Programas en beneficio de los jóvenes.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2019)</small>
+
+XXVI.- Las demás que sean necesarias para el desarrollo integral de los jóvenes.
 
 ###### ARTÍCULO 63.
 
@@ -639,15 +655,21 @@ El Instituto a través del Director será la autoridad responsable de elaborar e
 
 En la elaboración del Programa se deberá garantizar la colaboración de especialistas, instituciones académicas, organizaciones no gubernamentales, asociaciones juveniles, instituciones de asistencia social, representantes populares, así como de los demás sectores sociales que estudian y analizan los problemas de la juventud.
 
-### CAPÍTULO CUARTO. DE LA RED DE INTERCAMBIO DE INFORMACIÓN JUVENIL
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 14 DE JUNIO DE 2019)</small>
+
+### CAPÍTULO CUARTO. DE LA PLATAFORMA DIGITAL DE INFORMACIÓN PARA JÓVENES
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 64.
 
-La Red es un instrumento de recopilación, sistematización, organización, diagnóstico, intercambio, difusión, investigación, información, seguimiento y actualización sobre los temas de interés de la juventud en el Estado.
+La Plataforma Digital, es un sistema virtual de recopilación y sistematización de información relativa a los jóvenes, así como de acceso a programas de apoyo para jóvenes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 65.
 
-La Red deberá contar con la siguiente información:
+La Plataforma Digital, deberá contener como mínimo la siguiente información:
 
 I.- Un padrón de las organizaciones y agrupaciones juveniles del Estado;
 
@@ -663,11 +685,29 @@ VI.- Los resultados de los intercambios de experiencias con otros Estados y Naci
 
 VII.- Los informes, quejas, denuncias y opiniones que formulen los jóvenes en materia de juventud;
 
-VIII.- La difusión permanente de los derechos de los jóvenes en el Estado, y
+VIII.- La difusión permanente de los derechos de los jóvenes en el Estado;
 
-IX.- Cualquier otra información que se considere trascendente para la vida de los jóvenes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2019)</small>
 
-Toda la información que se concentre en la Red, deberá actualizarse en forma permanente y publicarse en el portal electrónico oficial del Instituto, así como a través de los medios y estrategias que permitan las tecnologías de la información y comunicación disponibles.
+IX.- Accesos directos a instituciones y dependencias que brinden programas y servicios a jóvenes en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2019)</small>
+
+X.- Formatos de acceso y requisitos necesarios para el acceso de programas de apoyo a jóvenes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2019)</small>
+
+XI.- Asistencia y orientación en Línea digital para atención de situaciones de crisis para los jóvenes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2019)</small>
+
+XII.- Cualquier otra información que se considere trascendente para la vida de los jóvenes.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+Toda la información que se concentre en la Plataforma Digital, deberá actualizarse en forma permanente y publicarse en el portal electrónico oficial del Instituto, así como a través de los medios y estrategias que permitan las tecnologías de la información y comunicación disponibles.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE JUNIO DE 2019)</small>
 
 Los Municipios, en el ámbito de su competencia, coadyuvarán a la integración y actualización de la Red.
 
@@ -1353,11 +1393,11 @@ El Parlamento es un espacio de expresión política de los jóvenes, promovido p
 
 Este espacio les permitirá manifestar plenamente sus pensamientos, ideas, opiniones y propuestas sobre los temas y problemas que consideren de mayor impacto en la sociedad y en la vida de la juventud Bajacaliforniana.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 105.
 
-La Comisión, en coordinación y colaboración con el Instituto, cada tres años programará la instalación del Parlamento, la cual se llevará a cabo en la sede del Congreso del Estado.
+La Comisión, en coordinación y colaboración con el Instituto, cada año convocará a la elección de nuevos parlamentarios juveniles, así como la instalación del Parlamento, la cual se llevará a cabo en la sede del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2018)</small>
 
@@ -1379,11 +1419,11 @@ III.- Presentar un Proyecto Legislativo con los requisitos que establezca la con
 
 IV.- Los demás que establezca la convocatoria correspondiente y las demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 108.
 
-La instalación de cada nueva legislatura del Parlamento se realizará cada tres años. El cargo de Parlamentario Juvenil tendrá la misma duración y será de naturaleza honorífica.
+La instalación de cada nueva Legislatura del Parlamento se realizará cada primero de octubre. El cargo de Parlamentario Juvenil tendrá la misma duración y será de naturaleza honorifica.
 
 ## TÍTULO SÉPTIMO. RÉGIMEN DE TRABAJO Y DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -1532,3 +1572,21 @@ P.O. 18 DE MAYO DE 2018.
 PRIMERO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Una vez publicado en el Periódico Oficial, el Ejecutivo del Estado así como los Ayuntamientos tendrán un plazo de 60 días hábiles para adecuar sus reglamentos a fin de dar cumplimiento al presente Decreto.
+
+P.O. 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 341 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LAS ARTÍCULOS 4 FRACCIÓN XVIII, REFORMA AL CAPÍTULO CUARTO, ADICIÓN DE LAS FRACCIONES XXIII, XXIV, XXV Y XXVI AL ARTÍCULO 62, Y REFORMA DE LOS ARTÍCULOS 64 Y 65 DE LA LEY DE JUVENTUD PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Instituto de la Juventud del Estado de Baja California, dentro de los 180 días naturales a la entrada en vigor de la presente reforma, realizará los ajustes al Programa Estatal para la Atención de la Juventud a efecto de incluir los temas previstos por esta reforma, así como hacer las adecuaciones administrativas y tecnológicas y acuerdos interinstitucionales necesarios para el cumplimiento de la presente reforma.
+
+P.O. 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 342 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 105 Y 108, DE LA LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Las presentes reformas, entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Parlamento de la juventud deberá realizar las reformas correspondientes a sus reglamentos correspondientes, dentro del plazo de 60 días siguientes a la entrada en vigor de las presentes reformas.
+
+TERCERO.- Terminando el periodo en curso, se continuará anualmente con la elección de nuevos parlamentarios, así como la instalación del parlamento.
