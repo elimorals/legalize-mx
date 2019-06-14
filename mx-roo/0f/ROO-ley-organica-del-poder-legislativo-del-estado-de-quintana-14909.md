@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2017-09-26"
+last_updated: "2019-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "ROO"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1. DE CONFORMIDAD CON EL TRANSITORIO NOVENO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 14 DE JUNIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -2496,3 +2498,29 @@ P.O. 26 DE SEPTIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor previa su publicación en el Periódico Oficial del Estado de Quintana Roo, el mismo día de la entrada en vigor del decreto por el que se reforma el artículo 72 y se derogan la fracción XVII del artículo 75, la fracción VII del artículo 160, el artículo 162 y el artículo 163, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. DE 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 302 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. Las disposiciones contenidas en el capítulo primero denominado "De la Instalación de la Legislatura" del Título Segundo del presente decreto, entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo. La Diputación Permanente del segundo receso del tercer año de ejercicio constitucional de la Honorable XV Legislatura llevará a cabo las funciones que en dicho capítulo son conferidas a la Comisión Permanente.
+
+La instalación de la Honorable XVI legislatura del Estado deberá regirse por lo contenido en dicho capítulo.
+
+SEGUNDO. Las disposiciones contenidas en el Título Primero, en los Capítulos Segundo, Tercero y Cuarto del Título Segundo y los Títulos Tercero, Cuarto, Quinto, Sexto, Séptimo, Octavo, Noveno, Décimo, Décimo Primero, Décimo Segundo y Décimo Tercero del presente decreto, entrarán en vigor con la instalación de la Honorable XVI Legislatura del Estado de Quintana Roo.
+
+TERCERO. Se faculta a la Oficialía Mayor de la Honorable XV Legislatura del Estado, para que a través de su titular y en el ámbito de sus atribuciones, tome las medidas necesarias para que se elaboren los lineamientos, manuales y demás normatividad que sea necesaria para garantizar el funcionamiento de la estructura organizacional del Poder Legislativo en términos de la presente ley. Dicha normatividad deberá ser emitida a más tardar el día 31 del mes de julio del año 2019.
+
+CUARTO. El Reglamento para el Gobierno Interior de la Legislatura del Estado de Quintana Roo, estará en vigor en todo lo que no se oponga al presente decreto. Dentro del plazo de noventa días naturales siguientes a la instalación de la Honorable XVI Legislatura del Estado de Quintana Roo, se deberá expedir un reglamento acorde al presente decreto así como realizar las adecuaciones a la reglamentación correspondiente.
+
+QUINTO. Las disposiciones contenidas en el Título Décimo Primero del presente decreto, serán aplicables a partir de la XVI Legislatura del Poder Legislativo del Estado de Quintana Roo.
+
+SEXTO. Para efectos del presente decreto, el titular de la Secretaría General del Poder Legislativo deberá ser nombrado a más tardar dentro de los treinta días naturales posteriores a la instalación de la XVI Legislatura del Congreso del Estado de Quintana Roo. En tanto se realiza la designación, asumirá sus funciones quien se encuentre en el cargo de Oficial Mayor del Poder Legislativo del Estado de Quintana Roo.
+
+SEPTIMO. Con motivo de la estructura administrativa del Poder Legislativo que prevé el presente decreto, no se crearán nuevas plazas ni se eliminarán las existentes, por lo que únicamente éstas últimas se ajustarán al nuevo esquema organizacional del Poder Legislativo.
+
+OCTAVO. El titular del Órgano Interno de Control del Poder Legislativo que se encuentre en funciones a la entrada en vigor del presente decreto, quedará designado por el tiempo que establece el artículo 137 de esta Ley, concluyendo su encargo el 28 de marzo de 2022.
+
+NOVENO. Con la instalación de la Honorable XVI Legislatura del Estado, quedará abrogada la Ley Orgánica del Poder Legislativo del Estado de Quintana Roo, publicada el 25 de octubre de 1995 en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+DÉCIMO. Todas las disposiciones de igual o menor jerarquía que contravengan el presente decreto quedarán derogadas.
