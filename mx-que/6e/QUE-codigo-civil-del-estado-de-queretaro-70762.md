@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2019-05-14"
+last_updated: "2019-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -8461,13 +8461,19 @@ Si el reconocimiento se hace después de que el descendiente haya adquirido bien
 
 El cónyuge que sobrevive, concurriendo con descendientes, tendrá el derecho de un hijo, si carece de bienes o los que tiene al morir el autor de la sucesión, no igualan la porción que a cada hijo debe corresponder. Lo mismo se observará si concurre con hijos adoptivos del autor de la herencia.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+Cuando exista un solo bien inmueble producto de la herencia, el cónyuge que sobrevive tendrá el derecho al usufructo vitalicio, siendo éste un derecho real que será intransferible.
+
 ###### Artículo 1504.
 
 En el primer caso del artículo anterior, el cónyuge recibirá íntegra la porción señalada; en el segundo, solo tendrá derecho de recibir lo que baste para igualar sus bienes con la porción mencionada.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
+
 ###### Artículo 1505.
 
-Si el cónyuge que sobrevive concurre con ascendientes, la herencia se dividirá en dos partes iguales, de las cuales una se aplicará al cónyuge y la otra a los ascendientes.
+Si el cónyuge que sobrevive concurre con ascendientes, la herencia se dividirá en dos partes iguales, de las cuales una se aplicará al cónyuge y la otra a los ascendientes. En caso de existir un solo bien inmueble, producto de la herencia, el cónyuge que sobrevive tendrá el derecho al usufructo vitalicio, siendo éste un derecho real que será intransferible.
 
 ###### Artículo 1506.
 
@@ -16114,5 +16120,13 @@ P.O. 14 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA EL ARTÍCULO 48 Y REFORMA EL ARTÍCULO 75 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 1503 Y REFORMA EL ARTÍCULO 1505 DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
