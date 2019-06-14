@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2017-07-04"
+last_updated: "2019-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -113,9 +113,13 @@ Procederá la acción negatoria para obtener la declaración de libertad o la de
 
 Compete la acción confesoria al titular del derecho real inmueble y al poseedor del predio dominante que esté interesado en la existencia de la servidumbre, se da esta acción contra el tenedor o poseedor jurídico que contraría el gravamen para que se obtenga el reconocimiento, la declaración de los derechos y obligaciones del gravamen y el pago de frutos, daños y perjuicios, en su caso, y se haga cesar la violación. Si fuere la sentencia condenatoria, el actor puede exigir del demandado que afiance el respeto del derecho.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
+
 ###### Artículo 12.
 
-Se intentará la acción hipotecaria para constituir, ampliar y registrar una hipoteca, o bien para obtener el pago o prelación del crédito que la hipoteca garantice. Procederá contra el poseedor a título de dueño del fundo hipotecado y, en su caso contra los otros acreedores.
+Se intentará la acción hipotecaria por la vía ordinaria para constituir, ampliar, dividir, registrar, extinguir una hipoteca, su nulidad o cancelación o bien para la prelación del crédito que la hipoteca garantice. Procederá contra el poseedor a título de dueño del fundo hipotecado y, en su caso contra los otros acreedores.
+
+La acción hipotecaria para obtener el pago, se tramitará por la vía especial sujetándose a lo dispuesto en el Título Vigésimo Segundo, Capítulo V, de este Código y demás relativos aplicables.
 
 ###### Artículo 13.
 
@@ -4285,247 +4289,131 @@ TITULO DECIMOCUARTO
 
 ###### Artículo 634.
 
-La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará con el contrato escrito del arrendamiento cuando ello fuere necesario para la validez del acto conforme al Código Civil. En caso de no ser necesario el contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental o cualquiera otra bastante como medio preparatorio del juicio.
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 635.
 
-Presentada la demanda con el documento o la justificación correspondiente, dictará auto el juez, mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas, y no haciéndolo, se le prevenga que dentro de treinta días, si la finca sirve para habitación, o dentro de cuarenta días si sirve para giro mercantil o industrial, o dentro de noventa días, si fuere rústica, proceda a desocuparla, apercibido de lanzamiento a su costa si no lo efectúa. En el mismo acto se le emplazará para que dentro de nueve días ocurra a oponer las excepciones que tuviere.
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 636.
 
-Si en el acto de la diligencia justificare el arrendatario, con los recibos correspondientes, haber hecho el pago de las pensiones reclamadas, o exhibiere su importe o copia debidamente sellada por un juzgado de escritos de ofrecimiento de pago a los que hubiere acompañado los certificados de depósito respectivos, se suspenderá la diligencia, asentándose constancias de estas circunstancias en el acta, y agregándose los justificantes que se presenten, se dará cuenta al Juzgado. Si se exhibiere el importe, se mandará entregar al actor sin más trámite y se dará por terminado el procedimiento.
-
-Si se exhibieren copias de escritos de ofrecimiento de pago, se pedirán los originales por oficio al Juzgado en que se encuentren, así como los correspondientes certificados, recibidos éstos se dará por terminado el procedimiento y se entregarán los certificados de ello al arrendador, a cambio de los recibos correspondientes. En caso de presentarse recibos de pago, se mandará dar vista al actor por el término de tres días; si no los objeta, se dará por concluido el juicio; si los objeta se citará para la audiencia de pruebas y alegatos a que se refiere el Artículo 639.
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 637.
 
-Cuando durante el plazo fijado para el desahucio exhiba el inquilino el recibo de las pensiones debidas o el importe de ellas, dará el Juez por terminada la providencia de lanzamiento sin condenación en costas.
-
-Si el recibo presentado es de fecha posterior a la exhibición, o la exhibición del importe de las pensiones se hace fuera del término señalado para el desahucio, también se dará por concluida la providencia de lanzamiento, pero se condenará al inquilino al pago de las costas causadas.
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 638.
 
-Los beneficios de los plazos que este capítulo concede a los inquilinos, no son renunciables.
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 639.
 
-En caso de que se opongan otras excepciones por el inquilino, se mandará dar vista al actor con ellas, citándose para audiencia de pruebas y alegatos dentro de los ocho días siguientes, teniendo en cuenta que esta audiencia debe de efectuarse antes del vencimiento del término fijado para el lanzamiento.
-
-El Juez debe desechar de plano las excepciones diversas a las que el Código Civil, en los Artículos 2698, 2699 y 2707 concede al inquilino para no pagar la renta, siendo éstas inadmisibles si no se ofrecen con sus pruebas.
-
-Son improcedentes la reconvención y compensación.
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 640.
 
-La sentencia que decrete el desahucio será apelable en el efecto devolutivo, la que lo niegue será apelable en ambos efectos.
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 641.
 
-Si las excepciones fueren declaradas procedentes en la misma resolución, dará el tribunal por terminada la providencia de lanzamiento. En caso contrario, en la sentencia se señalará el plazo para que la desocupe, que será el que falta para cumplirse el señalado por el Artículo 635.
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 642.
 
-La diligencia de lanzamiento se entenderá con el ejecutado o en su defecto con cualquiera persona de la familia, doméstico, portera o portero, agente de la policía, o vecinos, pudiéndose romper las cerraduras de la puerta si necesario fuere.
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 643.
 
-Los muebles u objetos que en la casa se encuentren si no hubiere persona de la familia del inquilino que los recoja, u otra autorizada para ello, se remitirán por inventario a la autoridad policíaca correspondiente o al local que designe la autoridad administrativa, dejándose constancia de esta diligencia en autos.
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644.
 
-Para la ejecución del desahucio se tiene como domicilio legal del ejecutado, la finca o departamento de cuya desocupación se trata.
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ENERO DE 1995)</small>
 
 ### CAPITULO II (SIC). Del Juicio Hipotecario
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
-
 ###### Artículo 644-A.
 
-Se tramitará en la vía especial hipotecaria todo juicio que tenga por objeto la constitución, ampliación, división, registro y extinción de una hipoteca, así como su nulidad, cancelación, o bien el pago o prelación del crédito que la hipoteca garantice.
-
-Para que el juicio tenga por objeto el pago o la prelación de un crédito hipotecario, es necesario se siga según las reglas del presente capítulo, siendo requisito indispensable que el crédito hipotecario se otorgue en los términos de los Artículos 3096, 3097, 3098, 3099, 3108 y demás relativos del Código Civil para el Estado y que sea de plazo cumplido, o que éste sea exigible en los términos pactados o bien conforme a las disposiciones aplicables.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644-B.
 
-Procederá el juicio hipotecario, si éste fue constituido en los términos de los Artículos 3096, 3097, 3098, 3099, 3108 y demás relativos del Código Civil para el Estado, y además cuando:
-
-I.- El documento base de la acción tenga carácter de título ejecutivo.
-
-II.- El bien se encuentre inscrito a favor del demandado.
-
-III.- No exista embargo o gravamen en favor de tercero, inscrito cuando menos noventa días anteriores a la de la presentación de la demanda.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644-C.
 
-Presentado el escrito de demanda, acompañado del instrumento respectivo, el Juez, previa calificación de que se reúnen los requisitos fijados por los artículos anteriores, en un plazo no mayor de tres días, admitirá la misma y mandará anotar la demanda en el Registro Público de la Propiedad y que se corra traslado de ésta al deudor, para que dentro del término de cinco días ocurra a contestarla y a oponer las excepciones que no podrán ser otras que:
-
-I.- La falta de personalidad del acreedor;
-
-II.- Las fundadas en las que el demandado no haya firmado el documento base de la acción, su alteración o la de falsedad del mismo;
-
-III.- Falta de representación, de poder bastante o facultades legales de que quien haya suscrito en representación del demandado el documento base de la acción;
-
-IV.- Incumplimiento o nulidad del contrato;
-
-V.- Pago o compensación;
-
-VI.- Remisión o quita;
-
-VII.- Oferta de no cobrar o espera;
-
-VIII.- Novación de contrato;
-
-IX.- Litispendencia y conexidad, y
-
-X.- Cosa juzgada.
-
-Las excepciones comprendidas en las fracciones de la V a la VIII y la indicada en la fracción X, solo se admitirán cuando se funden en prueba documental. Las excepciones señaladas en la fracción IX, solo se admitirán si se exhiben con la contestación las copias señaladas de la demanda y contestación de ésta, o de las cédulas de emplazamiento del juicio pendiente o conexo, o bien la documentación que acredite fehacientemente que se encuentra tramitando un procedimiento arbitral.
-
-El Juez bajo su más estricta responsabilidad revisará escrupulosamente la contestación de la demanda y desechará de plano las excepciones diferentes a las que se autoriza, o aquellas en que sea necesario exhibir documento y el mismo no se acompañe.
-
-La reconvención solo será procedente cuando se funde en el mismo documento base de la acción o se refiera a su nulidad. En cualquier otro caso se desechará de plano.
-
-Las cuestiones relativas a la personalidad de las partes no suspenderán el procedimiento y se resolverán de plano en la audiencia. Si el demandado se allanare a la demanda y solicitare el término de gracia para el pago o cumplimiento de lo reclamado, el Juez dará vista al actor para que, dentro de tres días manifieste lo que a su derecho convenga, debiendo el Juez resolver de acuerdo a tales proposiciones de las partes. El término de gracia no podrá exceder de tres meses en ningún caso.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644-D.
 
-Tanto en la demanda como en la contestación a la misma, y en su caso, en la reconvención y en la contestación a ésta, las partes tienen la obligación de ser precisas, indicando en los hechos si sucedieron ante testigos, citando los nombres y apellidos de éstos y presentando todos los documentos relacionados con tales hechos. En los mismos escritos, las partes deben ofrecer todas sus pruebas, relacionándolas con los hechos que se pretendan probar. El juez resolverá sobre la admisión o desechamiento de pruebas, según proceda, en el auto que recaiga de las promociones en que se ofrezcan. En el caso de que las pruebas ofrecidas sean contra la moral o el derecho, sobre hechos que no han sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles, o no se hayan relacionado con los mismos, el juez las desechará; las pruebas que se admitan se desahogarán en la audiencia respectiva, la que será única e indiferible.
-
-En caso de allanamiento total de la demanda; si el deudor no hace valer defensas ni opone excepciones o las opone en forma distinta a lo señalado en este capítulo o fuera del término concedido para ello o no realiza dentro del plazo el pago de la cantidad reclamada, se pronunciará inmediatamente sentencia definitiva.
-
-En el escrito de contestación a la demanda y no encontrándose en ninguno de los supuestos del párrafo que antecede, se dará vista al actor para que manifieste lo que a su derecho convenga. En ese mismo acto, se señalará fecha y hora para la celebración de la audiencia de conciliación, excepciones, ofrecimiento y admisión de pruebas y desahogo de las mismas, la que deberá celebrarse dentro de los 20 días siguientes.
-
-Si hubiere reconvención se correrá traslado de ésta a la actora principal para que la conteste dentro de los tres días siguientes y en el mismo proveído le dará vista, en su caso con las excepciones opuestas para que manifieste lo que a su derecho convenga, dentro de ese mismo término.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644-E.
 
-Si en la libertad de gravamen como uno de los elementos por el cual se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios, el juez mandará notificarles la existencia del juicio para que manifiesten lo que a su derecho corresponda.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644-F.
 
-La demanda se anotará al margen de la inscripción registral de la hipoteca en el Registro Público correspondiente, a cuyo efecto el actor exhibirá un tanto más de dicha demanda, documento base de la acción y en su caso de aquellos con que justifique su representación, para que previo cotejo con sus originales se certifiquen por el Secretario, haciendo constar que se expiden para efectos de que la parte interesada inscriba su demanda, a quien se le entregarán para tal fin, debiendo hacer las gestiones en el Registro.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644-G.
 
-Si la finca no se haya en el lugar del juicio, se librará exhorto al juez de la ubicación, para que ordene el registro de la demanda como se previene en el artículo anterior.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644-H.
 
-Anotada la demanda en el Registro Público de la Propiedad, no podrá verificarse en la finca hipotecada ningún embargo, toma de posesión, diligencia precautoria o cualquier otra que entorpezca el curso del juicio, sino en virtud de sentencia ejecutariada (sic) relativa a la misma finca, debidamente registrada y anterior en fecha a la inscripción de la referida demanda o en razón de providencia precautoria solicitada ante el juez por acreedor con mejor derecho, en fecha anterior a la demanda.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644-I.
 
-En la diligencia de emplazamiento se le requerirá al deudor del pago de lo adeudado y de no hacerlo se le nombrará depositario judicial, respecto a la finca dada en garantía hipotecaria, de sus frutos y los objetos que con arreglo al contrato y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
-
-Para efecto del inventario el deudor queda obligado a dar todas las facilidades para su formación y en caso de desobediencia, el Juez lo compelerá por los medios de apremio que le autoriza la ley.
-
-El deudor que no haya aceptado la responsabilidad de depositario, será desalojado judicialmente y entregará desde luego la tenencia material al actor.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644-J.
 
-Si en la diligencia que se señala en el párrafo anterior no se entendiere directamente con el deudor, éste deberá dentro de los tres días siguientes manifestar si acepta o no la responsabilidad de depositario, entendiéndose que no lo acepta si no hace esta manifestación y en este caso el autor podrá pedir que se le entregue la tenencia material de la finca.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644-K.
 
-Las partes deberán ofrecer sus pruebas para acreditar los hechos de su acción o de sus excepciones en los escritos que fijan la controversia, exhibiendo los documentos que tengan en su poder o la copia sellada en la que se solicite la expedición de tales documentos que no tuvieran.
-
-La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a los testigos, peritos y demás pruebas que les hayan sido admitidas y solo en caso de que existan periciales contradictorias de ambas partes, el juez en auxilio de las mismas, nombrará un perito tercero en discordia. Las pruebas salvo la del perito tercero en discordia se desahogarán en la audiencia respectiva.
-
-Si llamado un testigo, perito o solicitado un documento que hayan sido admitidos como pruebas, no se desahogan éstas a más tardar en la audiencia, se declarará desierta la prueba ofrecida por causa imputable al oferente.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644-L.
 
-Si el demandado en la audiencia conciliatoria confesare ciertas las pretensiones del actor, el juez le concederá al demandado un término de gracia de quince días para hacer los pagos adeudados, exentándolo del pago de gastos y costos que se hubieren originado. Si no lo hiciere, a los quince días siguientes se dictará sentencia condenatoria en la que se determine el remate de la finca hipotecada por el saldo de lo adeudado por el demandado.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644-M.
 
-El Juez debe presidir la audiencia, que se iniciará resolviendo todas las excepciones que existan, los incidentes que hubieren y desahogará las pruebas admitidas y preparadas y procederán las partes a alegar lo que a su derecho convenga, acto continuo el juez dictará la sentencia que corresponda, la que podrá ser apelable únicamente en efecto devolutivo.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644-N.
 
-Para el remate, se tendrá como precio de la finca hipotecada, el precio que señale el avalúo que presente la persona que las partes hayan convenido para tal efecto en el momento de la constitución de la hipoteca, o en su caso, de no haberse acordado se procederá de la forma siguiente:
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
-I.- Cada parte tendrá derecho de exhibir, dentro de los cinco días siguientes a que sea ejecutable la sentencia, avalúo de la finca hipotecada, practicado por un corredor público, una institución de crédito o perito valuador autorizado por la ley, los cuales en ningún caso podrán tener el carácter de parte o de interesada en juicio;
+###### Artículo 644-O.
 
-II.- En el caso de que algunas de las partes deje (sic) de exhibir el avalúo dentro del plazo señalado en la fracción anterior se entenderá su conformidad con el avalúo que haya exhibido su contraria;
-
-III.- En el supuesto de que ninguna de las partes exhiba el avalúo dentro del plazo señalado en la fracción I de este artículo, cualquiera de ellas lo podrá presentar posteriormente, considerándose como base para el remate el primero en tiempo;
-
-IV.- Si las dos partes exhibieren los avalúos en el plazo a que se refiere la fracción I de este artículo y los valores determinados de cada uno de ellos no coincidieren, se tomará como base para el remate el promedio de ambos avalúos, siempre y cuando no exista un treinta por ciento de diferencia entre el más bajo y el más alto, en cuyo caso el juez ordenará se practique nuevo avalúo por el corredor público o la institución bancaria que al efecto señale;
-
-V.- La vigencia del valor que se tenga por los avalúos, será de seis meses para que se lleve a cabo la primera almoneda de remate. Si entre ésta y la subsecuente mediara un término mayor de seis meses, se deberán actualizar los valores;
-
-VI.- Obtenido el valor del avalúo según el caso que corresponda de acuerdo a las fracciones anteriores, se procederá a rematar la finca en los términos del Capítulo IV del Título IX de este ordenamiento, y
-
-VII.- La resolución que recaiga al remate solo podrá ser apelable en sentido devolutivo.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
-
-###### Artículo 644
-
-.O- En el caso de la transmisión de los derechos y obligaciones prevista en el segundo párrafo del Artículo 3108 del Código Civil, se deberá solicitar avalúo del bien para fijar el precio que corresponda a la cosa en el momento de exigirse el pago, debiéndose aplicar en lo conducente lo señalado en el Artículo 523 de este ordenamiento. El deudor puede oponerse a la transmisión alegando las excepciones que tuviere, y ésta oposición se substanciará incidentalmente.
-
-También pueden oponerse a la venta, los acreedores hipotecarios posteriores, alegando prescripción de la acción hipotecaria.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644-P.
 
-Las resoluciones que se dicten en esta vía especial hipotecaria, podrán ser apeladas solo en efecto devolutivo y en ningún caso podrá suspenderse el procedimiento.
-
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644-Q.
 
-Si la finca no se halla en el lugar del juicio, se librará exhorto al Juez de la ubicación, para que ordene el registro de la cédula como se previene en el artículo anterior.
-
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644-R.
 
-Desde el día del emplazamiento, contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo a la escritura y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
-
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644-S.
 
-El deudor que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor depositario que éste nombre.
-
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 1995)</small>
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 ###### Artículo 644-T.
 
-En el caso previsto en los Artículos 3049 y 3050, en relación con el 3095 del Código Civil, no habrá lugar a la venta judicial, pero si habrá avalúo del precio que corresponda a la cosa en el momento de exigirse el pago, la venta se hará de la manera que se hubiere convenido; y a falta de convenio, por medio de corredores. El deudor puede oponerse a la venta alegando las excepciones que tuviere, y esta oposición se substanciará incidentalmente.
-
-También puede (sic) oponerse a la venta los hipotecarios posteriores, alegando prescripción de la acción hipotecaria.
+(DEROGADO, P.O. 14 DE JUNIO DE 2019)
 
 TITULO DECIMOQUINTO
 
@@ -5991,11 +5879,33 @@ Los puntos respecto a los cuales hubiere oposición, no quedarán deslindados ni
 
 Los gastos generales del apeo se harán por el que los promueva, los que importen la intervención de los peritos que designen y de los testigos que presenten los colindantes serán pagados por el que nombre a los unos y presente a los otros.
 
-### CAPITULO I. Reglas Generales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2019)</small>
+
+### CAPITULO VII. De la homologación de las transacciones
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+###### Artículo 879 Bis.
+
+La solicitud para la ratificación y homologación de las transacciones convenidas por las partes, se deben presentar por escrito y debe reunir los requisitos de los artículos 90, 91 y 264 de este Código.
+
+Si no se reúnen las exigencias previstas en el párrafo anterior, el Juez concederá al promovente un término de tres días para completarlas. En caso de que no se cumpla esa prevención, se desechará de plano su solicitud.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+###### Artículo 879 Ter.
+
+El Juez, dentro del término de tres días, fijará audiencia mandando citar a las partes interesadas del objeto de la transacción, para que, en su presencia ratifiquen el convenio y las firmas, si es que estas no han sido previamente ratificadas ante Notario Público. En la citada audiencia el juez resolverá respecto de la homologación sometida a su potestad. Para el caso de que no comparezcan las partes a la audiencia respectiva a ratificar el convenio, se ordenará el archivo definitivo del asunto.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+###### Artículo 879 Quáter.
+
+En contra de la resolución que determine negar la homologación procede la apelación en ambos efectos.
 
 ## TITULO VIGESIMO. De la Materia Familiar
 
-### CAPITULO II. De la controversia del orden familiar
+### CAPITULO I. Reglas Generales
 
 ###### Artículo 880.
 
@@ -6097,7 +6007,7 @@ V.- Medios económicos de uno y otro cónyuge, así como de sus necesidades; y
 
 VI.- Las demás obligaciones que tenga el cónyuge deudor.
 
-### CAPITULO III. Disposiciones relativas a otros actos de materia familiar
+### CAPITULO II. De la controversia del orden familiar
 
 ###### Artículo 884.
 
@@ -6141,9 +6051,7 @@ Ter.- Los incidentes se decidirán con un escrito de cada parte y sin suspensió
 
 En todo lo no previsto regirán las reglas generales de este Código en cuanto no se opongan a las disposiciones del presente capítulo.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+### CAPITULO III. Disposiciones relativas a otros actos de materia familiar
 
 ###### Artículo 888.
 
@@ -6181,11 +6089,9 @@ En todos estos casos se le dará intervención al Ministerio Público.
 
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011) (REPUBLICADO, P.O. 30 DE AGOSTO DE 2013)
 
-### CAPÍTULO II. DEL PROCEDIMIENTO ORAL
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 892.
 
@@ -6213,9 +6119,9 @@ VII. El juicio de Desahucio;
 
 VIII. El juicio hipotecario;
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
 
-IX. Las jurisdicciones voluntarias de información ad perpetuam y la homologación de convenios transaccionales;
+IX. Las jurisdicciones voluntarias de información ad perpetuam;
 
 X. Las tercerías,
 
@@ -6345,11 +6251,11 @@ Si la recusación se declara fundada, será nulo lo actuado a partir del momento
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2013)</small>
 
-### CAPÍTULO III. DE LAS PRUEBAS
+### CAPÍTULO II. DEL PROCEDIMIENTO ORAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2013)</small>
 
 #### SECCIÓN PRIMERA. FIJACION DE LA LITIS
 
@@ -6867,51 +6773,11 @@ Bis.- Tratándose de los incidentes de nulidad de notificación por falta de emp
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2013)</small>
 
-### CAPÍTULO IV. DE LA EJECUCIÓN
+### CAPÍTULO III. DE LAS PRUEBAS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
-
-Artículo 962 Septiés.- La ejecución de los convenios celebrados ante el juez oral y de las resoluciones dictadas por éstos, será llevada por el juez de instrucción.
-
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
-
-En los casos en que, al momento que el Juez Oral dicte su resolución, y las partes no la recurran, el juez deberá decretar que la misma ha causado ejecutoria, e iniciar la ejecución, girando los oficios correspondientes y, en su caso, ordenando las diligencias necesarias.
-
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
-
-Una vez causado estado la sentencia, en caso de que una de las partes no cumpla con lo ordenado, el juez de instrucción actuará de la siguiente manera:
-
-I. Cuando el deudor alimentista, a pesar de habérsele fijado el pago de pensión alimenticia por el Juez, no cumpla con su obligación, se hará acreedor a la medida de apremio consistente en una multa hasta por el monto establecido en el artículo 89 de este Código;
-
-II. En caso de reincidencia, el Juez ordenará el arresto de dicho deudor, en términos de la fracción IV del artículo 89 del Código en cita;
-
-III. Si por tercera ocasión el deudor alimentista incumple con la citada obligación de pago de pensión alimenticia, se le dará vista al ministerio público para que inicie la carpeta de investigación correspondiente por desobediencia y resistencia de particulares, y lo que resulte procedente;
-
-IV. En caso de que alguna de las partes no respete el régimen de convivencia aprobado por el Juez, se le requerirá para que cumpla de inmediato, apercibido (sic) de no hacerlo así, se le amonestará;
-
-V. Si por segunda ocasión la parte no cumplió con la determinación del Juez respecto de las convivencias; se le hará saber que las subsecuentes visitas se harán en el centro de convivencia respectivo, donde se le hará la entrega del o de los menores;
-
-VI. Si aun así, no se cumple con acudir al Centro de Convivencia, se le impondrá una multa en términos del artículo 89 de este ordenamiento;
-
-VII. En caso de no cumplir con los requerimientos anteriores, el Juez ordenará el arresto, en términos de la fracción IV del artículo 89 de este Código;
-
-VIII. Si agotadas las medidas de apremio antes señaladas, la parte que deba cumplir con el ordenamiento del Juez, insiste en esa conducta, el Juez dará vista al Ministerio Público para iniciar la carpeta de investigación por el delito de resistencia y desobediencia de particulares y/o lo que resulte procedente.
-
-Habiendo causado ejecutoria las resoluciones, y aprobados los convenios transaccionales, el Juez ordenará su archivo definitivo, ordenando se expida copia certificada a las partes, exceptuando los que contengan resolutivos o cláusulas de ejecución inmediata.
-
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
-
-En caso de incumplimiento de los mismos, el interesado promoverá, vía incidental, por cuerda separada, la ejecución del convenio o de la resolución correspondiente que contendrá los siguientes requisitos:
-
-a) Los que establece el artículo 264 de este Código, y
-
-b) Copia certificada del convenio y el auto que lo eleva a categoría de cosa juzgada y resolución o convenio que se pretende ejecutar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 949.
 
@@ -7137,15 +7003,57 @@ Cuando alguna de las partes tenga conocimiento de una prueba documental superven
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2013)</small>
 
+### CAPÍTULO IV. DE LA EJECUCIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+
+Artículo 962 Septiés.- La ejecución de los convenios celebrados ante el juez oral y de las resoluciones dictadas por éstos, será llevada por el juez de instrucción.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+En los casos en que, al momento que el Juez Oral dicte su resolución, y las partes no la recurran, el juez deberá decretar que la misma ha causado ejecutoria, e iniciar la ejecución, girando los oficios correspondientes y, en su caso, ordenando las diligencias necesarias.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+Una vez causado estado la sentencia, en caso de que una de las partes no cumpla con lo ordenado, el juez de instrucción actuará de la siguiente manera:
+
+I. Cuando el deudor alimentista, a pesar de habérsele fijado el pago de pensión alimenticia por el Juez, no cumpla con su obligación, se hará acreedor a la medida de apremio consistente en una multa hasta por el monto establecido en el artículo 89 de este Código;
+
+II. En caso de reincidencia, el Juez ordenará el arresto de dicho deudor, en términos de la fracción IV del artículo 89 del Código en cita;
+
+III. Si por tercera ocasión el deudor alimentista incumple con la citada obligación de pago de pensión alimenticia, se le dará vista al ministerio público para que inicie la carpeta de investigación correspondiente por desobediencia y resistencia de particulares, y lo que resulte procedente;
+
+IV. En caso de que alguna de las partes no respete el régimen de convivencia aprobado por el Juez, se le requerirá para que cumpla de inmediato, apercibido (sic) de no hacerlo así, se le amonestará;
+
+V. Si por segunda ocasión la parte no cumplió con la determinación del Juez respecto de las convivencias; se le hará saber que las subsecuentes visitas se harán en el centro de convivencia respectivo, donde se le hará la entrega del o de los menores;
+
+VI. Si aun así, no se cumple con acudir al Centro de Convivencia, se le impondrá una multa en términos del artículo 89 de este ordenamiento;
+
+VII. En caso de no cumplir con los requerimientos anteriores, el Juez ordenará el arresto, en términos de la fracción IV del artículo 89 de este Código;
+
+VIII. Si agotadas las medidas de apremio antes señaladas, la parte que deba cumplir con el ordenamiento del Juez, insiste en esa conducta, el Juez dará vista al Ministerio Público para iniciar la carpeta de investigación por el delito de resistencia y desobediencia de particulares y/o lo que resulte procedente.
+
+Habiendo causado ejecutoria las resoluciones, y aprobados los convenios transaccionales, el Juez ordenará su archivo definitivo, ordenando se expida copia certificada a las partes, exceptuando los que contengan resolutivos o cláusulas de ejecución inmediata.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+En caso de incumplimiento de los mismos, el interesado promoverá, vía incidental, por cuerda separada, la ejecución del convenio o de la resolución correspondiente que contendrá los siguientes requisitos:
+
+a) Los que establece el artículo 264 de este Código, y
+
+b) Copia certificada del convenio y el auto que lo eleva a categoría de cosa juzgada y resolución o convenio que se pretende ejecutar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2013)</small>
+
 ### CAPÍTULO V. REGLAS ESPECIALES EN MATERIA FAMILIAR
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
-
-### CAPITULO PRIMERO. Del divorcio
-
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
 
 #### SECCIÓN PRIMERA. ALIMENTOS
 
@@ -7295,11 +7203,9 @@ La sentencia se ejecutará, si así se solicita, sin necesidad de fianza.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2017)</small>
 
-### CAPÍTULO SEGUNDO. JURISDICCIÓN VOLUNTARIA
+### CAPITULO PRIMERO. Del divorcio
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
 
 #### SECCIÓN PRIMERA. Disposiciones generales
 
@@ -7453,21 +7359,19 @@ Septies.- (DEROGADO, P.O. 4 DE JULIO DE 2017)
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
-### CAPÍTULO III. DE LOS MEDIOS PREPARATORIOS A JUICIO ORAL
+### CAPÍTULO SEGUNDO. JURISDICCIÓN VOLUNTARIA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 #### SECCIÓN PRIMERA. PROCEDIMIENTO
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
 
 ###### Artículo 986.
 
-La solicitud se presentará por escrito al Juez de instrucción y reunirá los requisitos de los artículos 90, 91 y 264 de este Código y cualquier otro requisito que el Juez de Instrucción considere prudente; los correspondientes al acto de jurisdicción voluntaria que se promueva y cualquier otro requisito que el Juez de Instrucción considere necesario, según las circunstancias del caso. Si no se reúnen las exigencias previstas en el párrafo anterior, el Juez concederá al promovente un término de tres días para completarlas. En caso de que no se cumpla esa prevención, se desechará de plano su solicitud.
-
-Tratándose de convenios transaccionales, el Juez de Instrucción, dentro del término de tres días, fijará audiencia mandando citar a las partes interesadas del objeto de la transacción, para que, en presencia del Juez Oral, ratifique el convenio y las firmas para que proceda su homologación y eleve a categoría de cosa juzgada. Para el caso de que no comparezcan las partes a la audiencia respectiva a ratificar el convenio, se ordenará el archivo definitivo del asunto.
+La solicitud se presentará por escrito al Juez de instrucción y reunirá los requisitos de los artículos 90, 91 y 264 de este Código, los correspondientes al acto de jurisdicción voluntaria que se promueva y cualquier otro requisito que el Juez considere necesario, según las circunstancias del caso. Si no se reúnen las exigencias previstas en el párrafo anterior, el Juez concederá al promovente un término de tres días para completarlas. En caso de que no se cumpla esa prevención, se desechará de plano su solicitud.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -7591,7 +7495,7 @@ Lo dispuesto en los artículos que preceden se aplicará a la transacción y arr
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
 
-### CAPÍTULO IV. DEL JUICIO DE DESAHUICIO (SIC)
+### CAPÍTULO III. DE LOS MEDIOS PREPARATORIOS A JUICIO ORAL
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7637,31 +7541,81 @@ Contra la resolución que concede la diligencia preparatoria no habrá ningún r
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
 
-### CAPÍTULO V. DEL JUICIO HIPOTECARIO
+### CAPÍTULO IV. DEL JUICIO DE DESAHUICIO (SIC)
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
 
 ###### Artículo 1003.
 
-Con la demanda se exhibirá el contrato de arrendamiento o el documento respectivo que justifique la ocupación, en caso de haberse celebrado por escrito. En el caso de que el contrato de arrendamiento o el documento mediante el cual se justifique la ocupación sea otorgado o ratificado ante notario público, el actor podrá solicitar al Juez de Instrucción provea auto en el que se requiera al demandado, para que en el acto de la diligencia compruebe con los documentos idóneos estar al corriente del pago de las rentas, y si no lo hiciera en el primer supuesto se le embargarán bienes bastantes para cubrir las rentas reclamadas y acto continuo se emplazará al demandado.
+La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará con el contrato escrito de arrendamiento cuando ello fuere necesario para la validez del acto conforme al Código Civil o con el documento respectivo que justifique la ocupación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+En caso de no ser necesario el contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental o cualquiera otra bastante como medio preparatorio del juicio.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+Presentada la demanda con el documento o la justificación correspondiente, el Juez de Instrucción proveerá el auto mediante el cual requiera al arrendatario para que en el acto de la diligencia justifique con los documentos idóneos estar al corriente del pago de las rentas, y no haciéndolo, se le prevendrá para que dentro de treinta días hábiles siguientes proceda a desocupar el bien arrendado, apercibido de lanzamiento a su costa si no lo efectúa, en el mismo acto se le emplazará para que dentro de nueve días ocurra a oponer las excepciones que tuviere.
+
+En el caso de que el contrato de arrendamiento o el documento mediante el cual se justifique la ocupación se haya otorgado o ratificado ante fedatario público, el arrendador podrá solicitar al Juez de Instrucción que, cuando en la diligencia descrita en el párrafo anterior, el arrendatario no justifique estar al corriente de las rentas, se le embarguen bienes suficientes para cubrir estas y las rentas que se generen hasta la desocupación del bien arrendado.
+
+Los beneficios de los plazos que este capítulo concede a los inquilinos, no son renunciables.
+
+Emplazado el demandado y en caso de que el inmueble se encuentre desocupado, a petición del arrendador, se le dará posesión del inmueble en forma provisional.
+
+Son improcedentes la reconvención y compensación.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2019)</small>
 
 ###### Artículo 1004.
 
-Emplazado el demandado y en caso de que el inmueble se encuentre desocupado, a petición del arrendador, se le dará posesión del inmueble en forma provisional, debiendo continuarse el procedimiento por sus demás etapas hasta su conclusión.
+Si en el acto de la diligencia justificare el arrendatario con los recibos correspondientes, haber hecho el pago de las rentas reclamadas, o exhibiere su importe o copia del escrito de ofrecimiento de pago debidamente sellado por un Juzgado, a los que hubiere acompañado los certificados de depósito respectivos, se suspenderá la diligencia, asentándose constancias de estas circunstancias en el acta y, agregándose los justificantes que se presenten, se dará cuenta al Juez de Instrucción. Si se exhibiere el importe, se mandará entregar al actor sin más trámite y se dará por terminado el procedimiento.
+
+Si se exhibieren copias de escritos de ofrecimiento de pago, se pedirán los originales por oficio al Juzgado en que se encuentren, así como los correspondientes certificados. Recibidos estos, se dará por terminado el procedimiento y se entregarán los certificados de ello al arrendador, a cambio de los recibos correspondientes.
+
+En caso de presentarse recibos de pago, se mandará dar vista al actor por el término de tres días; si no los objeta, se dará por concluido el juicio; en caso contrario, se continuará con el procedimiento, en la inteligencia de que la audiencia de juicio deberá efectuarse antes del vencimiento del término fijado para el lanzamiento.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+###### Artículo 1004 Bis.
+
+Cuando durante el plazo fijado para el desahucio exhiba el inquilino el recibo que ampare la totalidad de las rentas debidas o el importe de ellas, dará el Juez por terminada la providencia de lanzamiento sin condenación en costas.
+
+Si el recibo presentado es de fecha posterior a la exhibición, o la exhibición del importe de las rentas se hace fuera del término señalado para el desahucio, también se dará por concluida la providencia de lanzamiento, pero se condenará al inquilino al pago de las costas causadas.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+###### Artículo 1004 Ter.
+
+El Juez debe desechar de plano las excepciones diversas a las que el Código Civil, en los artículos 2698, 2699 y 2707 concede al inquilino para no pagar la renta, siendo estas inadmisibles si no se ofrecen con sus pruebas.
+
+Si las excepciones fueren declaradas procedentes en la misma resolución, dará el Juez por terminada la providencia de lanzamiento y, en su caso, ordenará el levantamiento de los embargos ordenados. De lo contrario, en la sentencia se señalará el plazo para que la desocupe, que será el que falta para cumplirse el señalado por el artículo 1003.
+
+De declararse procedente el juicio y haber embargado bienes para garantizar las rentas adeudadas, en ejecución de sentencia se procederá al remate de los bienes embargados, para que con el producto de estos se pague al arrendador el importe de las rentas reclamadas, ello ante el Juez de Instrucción.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+###### Artículo 1004 Quáter.
+
+La sentencia que decrete el desahucio y, en su caso, el pago de rentas, será apelable en el efecto devolutivo, la que lo niegue será apelable en ambos efectos.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+###### Artículo 1004 Quinquies.
+
+Para la ejecución del desahucio se tiene como domicilio legal del ejecutado, la finca o departamento de cuya desocupación se trata.
+
+La diligencia de lanzamiento se entenderá con el ejecutado o en su defecto con cualquiera persona de la familia, doméstico, portera o portero, agente de la policía, o vecinos, pudiéndose romper las cerraduras de la puerta si fuere necesario.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+###### Artículo 1004 Sexies.
+
+Los muebles u objetos que en la casa se encuentren si no hubiere persona de la familia del inquilino que los recoja, u otra autorizada para ello, se remitirán por inventario a la autoridad policiaca correspondiente o al local que designe la autoridad administrativa, dejándose constancia de esta diligencia en autos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
 
-### CAPÍTULO VI. DE LA JURISDICCION VOLUNTARIA DE INFORMACION AD PERPETUAM
+### CAPÍTULO V. DEL JUICIO HIPOTECARIO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 1005.
 
@@ -7783,7 +7737,7 @@ Septies.- Desde el día del emplazamiento, contrae el deudor la obligación de d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
 
-### CAPÍTULO VII. DE LAS TERCERÍAS
+### CAPÍTULO VI. DE LA JURISDICCION VOLUNTARIA DE INFORMACION AD PERPETUAM
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7823,7 +7777,7 @@ Las diligencias de jurisdicción voluntaria serán apelables. La impugnación se
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO VII. DE LAS TERCERÍAS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7850,6 +7804,12 @@ En todo lo no previsto regirán las reglas generales de este Código, en cuanto 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE AGOSTO DE 2013)</small>
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 1015.
 
@@ -8498,3 +8458,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los juicios de divorcio iniciados con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones procesales vigentes al momento de iniciarse dichos procedimientos.
 
 TERCERO. Se derogan todas las disposiciones que contravengan al presente decreto.
+
+P.O. 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 332 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los juicios que hubieren iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose según las disposiciones normativas en los que tuvieron su origen.
+
+TERCERO. Se derogan todas las normas jurídicas que se opongan al presente.
