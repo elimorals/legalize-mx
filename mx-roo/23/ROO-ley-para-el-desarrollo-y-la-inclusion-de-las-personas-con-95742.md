@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-el-desarrollo-y-la-inclusion-de-las-personas-con-95742
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-30"
-last_updated: "2019-01-16"
+last_updated: "2019-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de julio de 2013.
 
@@ -867,17 +867,33 @@ XVI. Las demás que le otorgue la presente Ley u otras disposiciones legales apl
 
 La Dirección General estará a cargo de una persona designada por el Titular del Poder Ejecutivo del Estado, quien durará en el cargo tres años, con posibilidad de ser ratificado por otro periodo igual, debiendo reunir además de aquellos señalados en el artículo 28 de la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo, los siguientes requisitos:
 
-I. Ser mexicano por nacimiento, con residencia efectiva no menor de 5 años en el Estado, anteriores a la fecha de designación;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
 
-II. Tener 30 años cumplidos al día de la designación;
+I. Tener nacionalidad mexicana;
 
-III. Tener título profesional de nivel licenciatura, preferentemente;
+> <small>(REFORMADA Y REUBICADA, P.O. 14 DE JUNIO DE 2019)</small>
 
-IV. Contar con experiencia en políticas públicas, administración y en materia de discapacidad;
+II. Contar con residencia efectiva no menor de 5 años en el Estado, anteriores a la fecha de designación;
 
-V. No haber desempeñado cargo de elección popular en los últimos 3 años, y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2019)</small>
 
-VI. Tener prestigio reconocido en el tema de discapacidad.
+III. Tener 30 años cumplidos al día de la designación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2019)</small>
+
+IV. Tener título profesional de nivel licenciatura, preferentemente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2019)</small>
+
+V. Contar con experiencia en políticas públicas, administración y en materia de discapacidad;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2019)</small>
+
+VI. No haber desempeñado cargo de elección popular en los últimos 3 años, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2019)</small>
+
+VII. Tener prestigio reconocido en el tema de discapacidad.
 
 Se dará prioridad al nombramiento, si el candidato vive con alguna discapacidad.
 
@@ -1154,3 +1170,11 @@ CUARTO. La Junta Directiva del Instituto para el Desarrollo y la Inclusión de l
 QUINTO. La Junta Directiva del Instituto para el Desarrollo y la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo, deberá expedir el estatuto orgánico del Instituto dentro de los 180 días hábiles siguientes a su constitución.
 
 SEXTO. El Director o Directora del Instituto contará con un plazo de 90 días contados a partir de su nombramiento para instalar el Consejo Consultivo para el Desarrollo y la Inclusión de las Personas con Discapacidad del Estado de Quintana Roo.
+
+P.O. 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 334 POR EL QUE SE REFORMAN LAS FRACCIONES DE LA I A LA VI Y SE ADICIONA LA FRACCIÓN VII, TODAS DEL ARTÍCULO 79 DE LA LEY PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
