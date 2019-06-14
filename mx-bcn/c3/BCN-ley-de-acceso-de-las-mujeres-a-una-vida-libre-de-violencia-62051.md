@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2018-04-20"
+last_updated: "2019-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -101,13 +101,17 @@ XI. Agresor: Persona que ejerce cualquier modalidad de violencia contra la mujer
 
 XII. Derechos Humanos de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todos (sic) las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
 
-XIII. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades, y
+XIII. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio (sic) de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
 
-XIV. Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
+XIV. Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2019)</small>
+
+XV. Organizaciones de la Sociedad Civil: Asociaciones Civiles debidamente constituidas y registradas en los términos de las leyes del Estado de Baja California y especializadas en apoyo a la mujer y la familia víctimas de violencia. Estas asociaciones deberán acreditar ante la Secretaría de Seguridad Pública del Estado la documentación que acredite estar legalmente constituidas y que brinden apoyo a las mujeres víctimas (sic) violencia mediante sus centros de atención.
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
@@ -721,6 +725,12 @@ X. Diseñar, con una visión transversal, la política integral con perspectiva 
 
 XI. Las demás previstas para el cumplimiento de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
+
+###### Artículo 38 Ter.
+
+Las Organizaciones de la Sociedad Civil especializadas en atención a mujeres víctimas de violencia, podrán proporcionar datos obtenidos de la atención que presenten en sus centros, los cuales la Secretaría de Seguridad Pública valorará y de ser necesario los ingresará e integrará a la base de datos que se refiere la fracción III del artículo 38 Bis de esta Ley.
+
 ###### Artículo 39.
 
 Corresponderá a la Secretaría de Educación y Bienestar Social, en su ámbito de acción, el implementar en la política educativa del Estado, los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno de los derechos humanos. Así como el desarrollo de programas educativos que promuevan la cultura de una vida libre de violencia contra las mujeres, buscando la erradicación de la violencia docente.
@@ -757,9 +767,13 @@ VII. Celebrar convenios de cooperación, coordinación y concertación en la mat
 
 VIII. Crear un registro público sistemático de las denuncias de los delitos cometidos en contra de mujeres, los índices de incidencia y reincidencia, consignación, sanción y reparación del daño, sin inclusión de datos personales. Este registro se remitirá a la Base para definir políticas en materia de prevención del delito, procuración y administración de justicia; y,
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2019)</small>
 
-IX. Las demás que determinen las leyes.
+IX. Mantener y actualizar la información sobre casos de violencia contra la mujer y remitirla a la base de datos prevista en el artículo 38 bis, fracción III de esta ley; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2019)</small>
+
+X.- Las demás que determinen las leyes.
 
 ###### Artículo 43.
 
@@ -1022,3 +1036,9 @@ P.O. 20 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 229 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE ADICIONA EL INCISO I) DE LA FRACCIÓN III Y REFORMA LA FRACCIÓN V Y VII DEL ARTÍCULO 32 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 340 MEDIANTE EL CUAL SE APRUEBA (SIC) DIVERSAS REFORMAS A LA LEY DE ACCESO DE LAS MUJERES EN (SIC) UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
