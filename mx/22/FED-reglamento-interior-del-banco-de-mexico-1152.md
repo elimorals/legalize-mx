@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2019-05-09"
+last_updated: "2019-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2019.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -85,6 +85,8 @@ El miembro de la Junta de Gobierno que desee abstenerse de firmar algún acta, p
 
 Asimismo, se deberá conservar en un apéndice del acta respectiva un ejemplar de cada uno de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA MODIFICACIONES AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO PUBLICADO EN EL D.O.F. DE 14 DE JUNIO DE 2019, SE MODIFICÓ DE FORMA SUSTANCIAL LAS UNIDADES DEL PRESENTE ARTÍCULO.]</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS UNIDADES], 15 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 4o.
@@ -103,7 +105,13 @@ Dirección General de Estabilidad Financiera
 
 Dirección General de Investigación Económica
 
-Dirección General de Operaciones y Sistemas de Pagos
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2019)</small>
+
+Dirección General de Operaciones de Banca Central
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JUNIO DE 2019)</small>
+
+Dirección General de Sistemas de Pagos e Infraestructuras de Mercados
 
 Dirección General de Tecnologías de la Información
 
@@ -135,6 +143,10 @@ Dirección de Control Interno
 
 Dirección de Desarrollo de Sistemas
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JUNIO DE 2019)</small>
+
+Dirección de Desarrollo e Innovación de Sistemas de Pagos e Infraestructuras de Mercados
+
 Dirección de Disposiciones de Banca Central
 
 Dirección de Educación Financiera y Fomento Cultural
@@ -155,9 +167,17 @@ Dirección de Intermediarios Financieros de Fomento
 
 Dirección de Medición Económica
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JUNIO DE 2019)</small>
+
+Dirección de Operación y Continuidad de Sistemas de Pagos e Infraestructuras de Mercados
+
 Dirección de Operaciones Internacionales
 
 Dirección de Operaciones Nacionales
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JUNIO DE 2019)</small>
+
+Dirección de Política y Estudios de Sistemas de Pagos e Infraestructuras de Mercados
 
 Dirección de Programación y Distribución de Efectivo
 
@@ -170,8 +190,6 @@ Dirección de Regulación y Supervisión
 Dirección de Seguridad
 
 Dirección de Seguridad y Organización de la Información
-
-Dirección de Sistemas de Pagos
 
 Dirección de Vinculación Institucional y Comunicación
 
@@ -305,17 +323,17 @@ La facultad para absolver posiciones a que se refieren los artículos 6o. y 28, 
 
 El Acuerdo de Adscripción de las unidades administrativas deberá ser suscrito por el Gobernador o, en sus ausencias, por el Director General de Administración.
 
-> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2019)</small>
 
-Para los efectos del presente Reglamento, se entenderá por entidad financiera o intermediario financiero: a las instituciones de crédito, instituciones de seguros, instituciones de fianzas, casas de bolsa, fondos de inversión, sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión, administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro, casas de cambio, sociedades cooperativas de ahorro y préstamo, sociedades financieras populares, sociedades financieras comunitarias, sociedades financieras de objeto múltiple, almacenes generales de depósito, uniones de crédito, entidades financieras que actúen como fiduciarias en fideicomisos que otorguen crédito, préstamo o financiamiento al público, fideicomisos de fomento económico, entidades financieras de desarrollo, así como otras personas y fideicomisos respecto de los cuales el Banco ejerza facultades de regulación, de requerimientos de información, de supervisión o de sanción, incluidas las sociedades de información crediticia, las cámaras de compensación y los administradores de sistemas de pagos, en términos de las leyes respectivas.
+Para los efectos del presente Reglamento, se entenderá por entidad financiera o intermediario financiero: a las instituciones de crédito, instituciones de seguros, instituciones de fianzas, casas de bolsa, fondos de inversión, sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión, administradoras de fondos para el retiro, sociedades de inversión especializadas de fondos para el retiro, casas de cambio, sociedades cooperativas de ahorro y préstamo, sociedades financieras populares, sociedades financieras comunitarias, sociedades financieras de objeto múltiple, almacenes generales de depósito, uniones de crédito, instituciones de financiamiento colectivo, instituciones de fondos de pago electrónico, entidades financieras que actúen como fiduciarias en fideicomisos que otorguen crédito, préstamo o financiamiento al público, fideicomisos de fomento económico, entidades financieras de desarrollo, así como otras personas y fideicomisos respecto de los cuales el Banco ejerza facultades de regulación, de requerimientos de información, de supervisión o de sanción, incluidas las sociedades de información crediticia, las cámaras de compensación y los administradores de sistemas de pagos, en términos de las leyes respectivas.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Para los efectos del párrafo anterior, se entenderá por fideicomisos de fomento económico al Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura; al Fondo Especial para Financiamientos Agropecuarios; al Fondo Especial de Asistencia Técnica y Garantía para Créditos Agropecuarios; al Fondo de Garantía y Fomento para las Actividades Pesqueras y al Fondo de Operación y Financiamiento Bancario a la Vivienda.
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2019)</small>
 
-Para los mismos efectos de los párrafos anteriores, se entenderá por entidades financieras de desarrollo a Nacional Financiera, S.N.C.; Banco Nacional de Comercio Exterior, S.N.C.; Banco Nacional de Obras y Servicios, S.N.C.; Sociedad Hipotecaria Federal, S.N.C.; Banco del Ahorro Nacional y Servicios Financieros, S.N.C.; Banco Nacional del Ejército, Fuerza Aérea y Armada, S.N.C.; la Financiera Rural; Agroasemex, S.A. de C.V., y Seguros de Crédito a la Vivienda SHF, S.A. de C.V.
+Para los mismos efectos de los párrafos anteriores, se entenderá por entidades financieras de desarrollo a Nacional Financiera, S.N.C.; Banco Nacional de Comercio Exterior, S.N.C.; Banco Nacional de Obras y Servicios, S.N.C.; Sociedad Hipotecaria Federal, S.N.C.; Banco del Ahorro Nacional y Servicios Financieros, S.N.C.; Banco Nacional del Ejército, Fuerza Aérea y Armada, S.N.C.; la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero; Agroasemex, S.A. de C.V., y Seguros de Crédito a la Vivienda SHF, S.A. de C.V.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
 
@@ -377,15 +395,33 @@ Las resoluciones por las que se deleguen facultades deberán ser firmadas por el
 
 Sin perjuicio de lo anterior, los Directores Generales, Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y los Directores, así como los titulares de las Unidades de Transparencia y Auditoría que lleven a cabo la delegación de facultades referida en el presente artículo, deberán informar de ello al Gobernador a más tardar tres días hábiles antes de la fecha en que la resolución respectiva se envíe al Diario Oficial de la Federación para su publicación.
 
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2019)</small>
 
 ###### ARTICULO 12.
 
-La Dirección General de Operaciones y Sistemas de Pagos tendrá las atribuciones que se señalan en los artículos 19, 19 Bis, 19 Bis 1 y 20 de este Reglamento.
+La Dirección General de Operaciones de Banca Central tendrá las atribuciones que se señalan en los artículos 19, 19 Bis y 19 Bis 1 de este Reglamento.
 
-A esta Dirección General estarán adscritas las Direcciones de Operaciones Internacionales, de Operaciones Nacionales, de Apoyo a las Operaciones y de Sistemas de Pagos.
+A esta Dirección General estarán adscritas las Direcciones de Operaciones Internacionales, de Operaciones Nacionales y de Apoyo a las Operaciones.
 
-ARTICULO 12 BIS.- (DEROGADO, D.O.F. 31 DE OCTUBRE DE 2013)
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JUNIO DE 2019)</small>
+
+ARTICULO 12 BIS.- La Dirección General de Sistemas de Pagos e Infraestructuras de Mercados tendrá las atribuciones establecidas en el presente artículo, así como las que se señalan en los artículos 20, 20 Ter, y 20 Quáter de este Reglamento.
+
+A esta Dirección General estarán adscritas las Direcciones de Desarrollo e Innovación de Sistemas de Pagos e Infraestructuras de Mercados, de Operación y Continuidad de Sistemas de Pagos e Infraestructuras de Mercados, y de Política y Estudios de Sistemas de Pagos e Infraestructuras de Mercados, así como la Gerencia de Supervisión de Sistemas de Pagos e Infraestructuras de Mercados.
+
+Corresponderá a la Gerencia de Supervisión de Sistemas de Pagos e Infraestructuras de Mercados las siguientes atribuciones:
+
+I. Dar seguimiento al buen funcionamiento de los Sistemas de Pagos e Infraestructuras de Mercados administrados por el Banco.
+
+II. Supervisar el cumplimiento de las disposiciones, autorizaciones, observaciones y vetos en materia de firma electrónica, Sistemas de Pagos, cuotas de intercambio y comisiones por el uso de medios de disposición y, en general, respecto de aquellas materias que, conforme a este artículo, sean de la competencia de la Dirección General de Sistemas de Pagos e Infraestructuras de Mercados, así como el cumplimiento de la entrega y veracidad de la información que el Banco solicite o recabe de las entidades y los intermediarios financieros en esas materias. La facultad de supervisión comprenderá las de vigilancia e inspección. Esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión.
+
+III. Diseñar e implementar, en coordinación con la Dirección de Política y Estudios de Sistemas de Pagos e Infraestructuras de Mercados, los programas de ajuste de cumplimiento forzoso tendientes a eliminar irregularidades en los Sistemas de Pagos e Infraestructuras de los Mercados, en términos de la Ley de Sistemas de Pagos.
+
+IV. Proporcionar, en el ámbito de su competencia, a la Dirección General de Asuntos del Sistema Financiero, la información y documentación necesaria para que esta imponga, junto con la Dirección de Autorizaciones y Sanciones de Banca Central, en términos del artículo 8o., las sanciones o medidas correctivas en términos de Ley.
+
+V. Cumplir con una labor de vigilancia sobre el cumplimiento en las infraestructuras de los mercados financieros de los principios para las infraestructuras financieras publicados por el Banco de Pagos Internacionales.
+
+Para efectos del presente artículo, así como de los artículos 20, 20 Ter, y 20 Quáter de este Reglamento, sin perjuicio de los términos utilizados en otros ordenamientos, se entenderá por Sistemas de Pagos e Infraestructuras de Mercados a: i) los sistemas administrados por las instituciones para el depósito de valores, por las contrapartes centrales y por los repositorios centrales de información sobre productos financieros; ii) los Sistemas de Pagos e Infraestructuras de Mercados administrados por el Banco, las cámaras de compensación o por alguna otra institución, y iii) los medios de disposición emitidos por las entidades e intermediarios financieros.
 
 > <small>(REFORMADO CONFORME AL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2010)</small>
 
@@ -861,103 +897,33 @@ XV. Dar seguimiento al cumplimiento de las disposiciones que emita el Banco conf
 
 XVI. Participar con las Direcciones de Operaciones Internacionales y de Operaciones Nacionales en el desarrollo y determinación de los términos y condiciones en los que el Banco pueda otorgar financiamientos relacionados con sus funciones de banca central y en el mercado de dinero;
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2019)</small>
 
-XVII. Diseñar, elaborar e implantar los sistemas y proporcionar los servicios de cómputo, requeridos por las Direcciones adscritas a la Dirección General de Operaciones y Sistemas de Pagos y las Coordinaciones del Fondo Mexicano del Petróleo.
+XVII. Diseñar, elaborar e implantar los sistemas y proporcionar los servicios de cómputo, requeridos por las Direcciones adscritas a la Dirección General de Operaciones de Banca Central y por las Coordinaciones del Fondo Mexicano del Petróleo.
 
 > <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
 XVIII. Proporcionar, en el ámbito de su competencia, a la Dirección de Regulación y Supervisión, la información y documentación necesaria para que esta imponga, junto con la Dirección competente en términos del artículo 8o., las sanciones que correspondan.
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2019)</small>
 
 ###### ARTICULO 20.
 
-La Dirección de Sistemas de Pagos tendrá las atribuciones siguientes:
+La Dirección de Desarrollo e Innovación de Sistemas de Pagos e Infraestructuras de Mercados tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+I. Desarrollar tecnológicamente los Sistemas de Pagos e Infraestructuras de Mercados administrados por el Banco, así como otros sistemas informáticos que sean necesarios para el correcto funcionamiento de aquellos.
 
-I. Dar seguimiento al comportamiento de los Sistemas de Pagos.
+II. Dar mantenimiento a los Sistemas de Pagos e Infraestructuras de los Mercados Financieros a cargo del Banco.
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+III. Definir, en coordinación con la Dirección General de Tecnologías de la Información, los requerimientos de infraestructura necesarios para la correcta operación de los Sistemas de Pagos e Infraestructuras de los Mercados.
 
-II. Diseñar, elaborar e implantar las políticas para el desarrollo y buen funcionamiento de los Sistemas de Pagos.
+IV. Proporcionar información a la Dirección de Política y Estudios de Sistemas de Pagos e Infraestructuras de Mercados para el establecimiento de requisitos en materia informática que deberán cumplir los participantes en los Sistemas de Pagos e Infraestructuras de los Mercados operados por el Banco, de conformidad con la legislación aplicable.
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+V. Proporcionar información a la Dirección de Política y Estudios de Sistemas de Pagos e Infraestructuras de Mercados para el establecimiento de requisitos en materia informática para los Sistemas de Pagos e Infraestructuras de los Mercados, de conformidad con la legislación aplicable.
 
-III. Diseñar, elaborar e implementar las políticas para la provisión de liquidez diaria a los Sistemas de Pagos y a sus participantes.
+VI. Definir, en coordinación con la Dirección General de Tecnologías de la Información, la utilización de nuevas tecnologías para los Sistemas de Pagos, Infraestructuras de los Mercados y los sistemas auxiliares de los mismos.
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-IV. Desarrollar y mantener actualizados tecnológicamente los Sistemas de Pagos administrados por el Banco, así como otros sistemas informáticos que sean necesarios para el correcto funcionamiento de aquéllos.
-
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-V. Gestionar y operar los sistemas referidos en la fracción anterior y proporcionar servicios de asesoría y soporte a sus participantes.
-
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-VI. Ejecutar y dar seguimiento al buen funcionamiento de los Sistemas de Pagos administrados por el Banco.
-
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-VII. Concertar, ejecutar y dar seguimiento a las operaciones de los participantes en los Sistemas de Pagos administrados por el Banco.
-
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-VIII. Gestionar los cobros derivados de los servicios por las operaciones previstas en las fracciones VI y VII.
-
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-IX. Establecer políticas para procurar la continuidad operativa de los Sistemas de Pagos.
-
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-X. Llevar a cabo los actos de expedición, registro, control y demás relativos a los certificados relacionados con la firma electrónica que, en términos de las disposiciones aplicables correspondan al Banco, para efectos distintos a los señalados en los artículos 8o. y 10 de este Reglamento.
-
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-XI. Participar en la emisión de disposiciones, autorizaciones, opiniones, observaciones y vetos en materia de firma electrónica, Sistemas de Pagos, cuotas de intercambio y comisiones por el uso de medios de disposición y, en general, respecto de aquellas materias que conforme a este artículo sean de su competencia.
-
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-XII. Supervisar el cumplimiento de las disposiciones, autorizaciones, observaciones y vetos señaladas en la fracción anterior, así como el cumplimiento de la entrega y veracidad de la información que el Banco solicite o recabe de las entidades y los intermediarios financieros en las materias de su competencia. La facultad de supervisión comprenderá las de vigilancia e inspección. Esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión.
-
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-XIII. Diseñar e implementar los programas de ajuste de cumplimiento forzoso tendientes a eliminar irregularidades en los Sistemas de Pagos, en términos de la Ley de Sistemas de Pagos.
-
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-XIV. Proporcionar, en el ámbito de su competencia, a la Dirección General de Asuntos del Sistema Financiero la información y documentación necesaria para que ésta imponga, junto con la Dirección competente en términos del artículo 8o., las sanciones o medidas correctivas en términos de Ley.
-
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-XV. Elaborar estudios que contribuyan al conocimiento y entendimiento del funcionamiento de los Sistemas de Pagos.
-
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-XVI. Ejercer las demás facultades que las leyes otorgan al Banco en materia de Sistemas de Pagos.
-
-XVII. (DEROGADA, D.O.F. 30 DE MAYO DE 2018)
-
-> <small>(ADICIONADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-XVIII. Participar en las propuestas de emisión de regulación referente a las infraestructuras de los mercados financieros en línea con los principios para las infraestructuras de los mercados financieros.
-
-> <small>(ADICIONADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-XIX. Cumplir con una labor de vigilancia sobre el cumplimiento en las infraestructuras de los mercados financieros de los principios para las infraestructuras financieras publicados por el Banco de Pagos Internacionales.
-
-> <small>(ADICIONADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-XX. Contribuir a la generación de políticas para fomentar el buen funcionamiento de las infraestructuras de los mercados financieros.
-
-> <small>(ADICIONADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-XXI. Coadyuvar a la generación de requisitos para participantes en infraestructuras de los mercados financieros.
-
-Para efectos de este artículo se entenderá por Sistemas de Pagos: i) a los sistemas administrados por las instituciones para el depósito de valores, por las contrapartes centrales y por los repositorios centrales de información sobre productos financieros; ii) a los sistemas de pagos administrados por el Banco, las cámaras de compensación o por alguna otra institución, y iii) a los medios de disposición emitidos por los intermediarios financieros.
+VII. Ejercer las demás facultades que las leyes otorgan al Banco en materia de Sistemas de Pagos e Infraestructuras de Mercados, en el ámbito de sus atribuciones.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -974,6 +940,62 @@ IV. Participar en la expedición de disposiciones, así como en la atención de 
 V. Coordinar el sistema institucional de identificación y documentación de procesos, y
 
 VI. Promover la cultura de prevención de riesgos en el Banco.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2019)</small>
+
+ARTICULO 20 TER.- La Dirección de Operación y Continuidad de Sistemas de Pagos e Infraestructuras de Mercados tendrá las atribuciones siguientes:
+
+I. Dar seguimiento al comportamiento de los Sistemas de Pagos e Infraestructuras de Mercados.
+
+II. Diseñar y elaborar, en coordinación con la Dirección de Política y Estudios de Sistemas (sic) Pagos e Infraestructuras de Mercados, las políticas para la provisión de liquidez diaria a los Sistemas de Pagos e Infraestructuras de los Mercados y a sus participantes.
+
+III. Implementar las políticas a que se refiere la fracción precedente.
+
+IV. Administrar y operar los Sistemas de Pagos e Infraestructuras de los Mercados del Banco y otros sistemas informáticos que sean necesarios para el correcto funcionamiento de aquellos, así como proporcionar servicios de asesoría y soporte a sus participantes.
+
+V. Ejecutar y propiciar el buen funcionamiento de los Sistemas de Pagos e Infraestructuras de los Mercados administrados por el Banco.
+
+VI. Concertar, ejecutar y dar seguimiento a las operaciones de los participantes en los Sistemas de Pagos e Infraestructuras de los Mercados administrados por el Banco.
+
+VII. Gestionar los cobros derivados de los servicios por las operaciones previstas en las fracciones V y VI del presente artículo.
+
+VIII. Establecer, en coordinación con la Dirección de Política y Estudios de Sistemas de Pagos e Infraestructuras de Mercados, políticas para procurar la continuidad operativa de las Infraestructuras de los Mercados Financieros.
+
+IX. Implementar las políticas a que se refiere la fracción precedente.
+
+X. Llevar a cabo los actos de expedición, registro, control y demás relativos a los certificados relacionados con la firma electrónica que, en términos de las disposiciones aplicables, correspondan al Banco, para efectos distintos a los señalados en los artículos 8o. y 10 de este Reglamento.
+
+XI. Proporcionar información a la Dirección de Política y Estudios de Sistemas de Pagos e Infraestructuras de Mercados para la emisión de disposiciones, autorizaciones, opiniones, observaciones y vetos que, conforme a este Reglamento, sean de su competencia.
+
+XII. Participar en la emisión de autorizaciones en aquellas materias que, conforme a este Reglamento, sean de su competencia.
+
+XIII. Ejercer las demás facultades que las leyes otorgan al Banco en materia de Sistemas de Pagos e Infraestructuras de Mercados, en el ámbito de sus atribuciones.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2019)</small>
+
+ARTICULO 20 QUATER.- La Dirección de Política y Estudios de Sistemas de Pagos e Infraestructuras de Mercados tendrá las atribuciones siguientes:
+
+I. Diseñar, elaborar e implantar las políticas para el desarrollo y buen funcionamiento de los Sistemas de Pagos e Infraestructuras de los Mercados.
+
+II. Diseñar y elaborar, en coordinación con la Dirección de Operación y Continuidad de Sistemas de Pagos e Infraestructuras de Mercados, las políticas para la provisión de liquidez diaria a los Sistemas de Pagos e Infraestructuras de los Mercados y a sus participantes.
+
+III. Establecer, en coordinación con la Dirección de Operación y Continuidad de Sistemas de Pagos e Infraestructuras de Mercados, políticas para procurar la continuidad operativa de los Sistemas de Pagos e Infraestructuras de los Mercados Financieros.
+
+IV. Participar en la emisión de disposiciones, autorizaciones, opiniones, observaciones y vetos en materia de firma electrónica, Sistemas de Pagos, cuotas de intercambio y comisiones por el uso de medios de disposición y, en general, respecto de aquellas materias que, conforme a este Reglamento, sean competencia de la Dirección General de Sistemas de Pagos e Infraestructuras de Mercados.
+
+V. Diseñar e implementar los programas de ajuste de cumplimiento forzoso tendientes a eliminar irregularidades en los Sistemas de Pagos e Infraestructuras de los Mercados, en términos de la Ley de Sistemas de Pagos.
+
+VI. Dar seguimiento a la correcta implementación de las políticas, disposiciones, autorizaciones, opiniones, respecto de aquellas materias que, conforme a este Reglamento, sean de su competencia.
+
+VII. Elaborar estudios que contribuyan al conocimiento y entendimiento del funcionamiento de los Sistemas de Pagos e Infraestructuras de los Mercados.
+
+VIII. Participar en las propuestas de emisión de regulación referente a las infraestructuras de los mercados financieros en línea con los principios para las infraestructuras de los mercados financieros.
+
+IX. Contribuir a la generación de políticas para fomentar el buen funcionamiento de las infraestructuras de los mercados financieros.
+
+X. Coadyuvar a la generación de requisitos para participantes en infraestructuras de los mercados financieros.
+
+XI. Ejercer las demás facultades que las leyes otorgan al Banco en materia de Sistemas de Pagos e Infraestructuras de Mercados, en el ámbito de sus atribuciones.
 
 > <small>(REFORMADO, D.O.F. 30 DE JULIO DE 1999)</small>
 
@@ -2900,3 +2922,15 @@ SEXTO. A la entrada en vigor de las modificaciones referidas en el artículo Seg
 SÉPTIMO. Las investigaciones que se encuentren en trámite a la entrada en vigor de las reformas a que se refiere el artículo Segundo Transitorio, serán continuadas por la Unidad de Investigación, la cual deberá notificarlo a los investigados.
 
 OCTAVO. La totalidad de los actos jurídicos realizados por el Comité de Auditoría, así como por las demás Unidades Administrativas durante la vigencia de los artículos modificados conservarán todo su valor y fuerza legales.
+
+D.O.F. 14 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LAS "MODIFICACIONES AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO".]
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor el 1 de julio de 2019.
+
+SEGUNDO. Todas las referencias a las Unidades Administrativas que en virtud de la entrada en vigor de las presentes modificaciones hayan desaparecido, cambiado de denominación o de adscripción, y que se encuentren contenidas en cualquier otro acto jurídico, deberán entenderse hechas a las Unidades Administrativas que las sustituyan o cuenten con las atribuciones respectivas.
+
+TERCERO. Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor de estas modificaciones y que, conforme a las mismas, correspondan ser atendidos por una Unidad Administrativa diversa a la que haya estado a cargo de ellos hasta dicha entrada en vigor, continuarán su trámite y serán resueltos por aquella o aquellas Unidades Administrativas a las que se les atribuya la competencia en este ordenamiento.
+
+CUARTO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
