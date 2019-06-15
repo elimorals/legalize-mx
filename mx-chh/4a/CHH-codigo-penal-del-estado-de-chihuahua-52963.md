@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2019-05-15"
+last_updated: "2019-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -440,6 +440,12 @@ III. Tratamiento de deshabituación o desintoxicación.
 > <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2016)</small>
 
 IV. Tratamiento integral especializado enfocado a la erradicación de la violencia en el seno familiar.
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 80/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 16 DE JUNIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO LXV/RFLYC/0854/2018 XVI P.E., DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+V. TRATAMIENTO INTEGRAL ESPECIALIZADO ENFOCADO A LA ERRADICACIÓN DE LA VIOLENCIA POLÍTICA.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -2429,7 +2435,11 @@ Este delito se perseguirá de oficio.
 
 En cualquier momento, el Ministerio Público podrá solicitar a la autoridad judicial, la aplicación de medidas de protección para la víctima y esta última resolverá sin dilación.
 
-### CAPÍTULO II
+### CAPÍTULO II. VIOLENCIA POLÍTICA
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 80/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 16 DE JUNIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO LXV/RFLYC/0854/2018 XVI P.E., DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JUNIO DE 2019)</small>
 
 ## TÍTULO NOVENO. DELITOS CONTRA LA FILIACIÓN Y LA INSTITUCIÓN DEL MATRIMONIO
 
@@ -2489,7 +2499,7 @@ No serán consideradas discriminatorias todas aquellas medidas tendientes a la p
 
 Este delito se perseguirá previa querella.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MAYO DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 15 DE JUNIO DE 2019)</small>
 
 ### CAPÍTULO II. EXTORSIÓN
 
@@ -2497,7 +2507,17 @@ Este delito se perseguirá previa querella.
 
 ###### Artículo 198.
 
-(DEROGADO, P.O. 10 DE MAYO DE 2014)
+A quien por sí, o a través de terceros, por medio de cualquier acción u omisión realizada en contra de una mujer por razón de género, que cause daño físico, psicológico, sexual o económico y tenga por objeto o resultado la restricción, suspensión o impedimento del ejercicio de sus derechos políticos, incluyendo el ejercicio del cargo; o la induzca u obligue, por cualquier medio, a tomar decisiones en contra de su voluntad acerca de esos mismos derechos, se le impondrá de tres a siete años de prisión, de cien a mil días multa, y tratamiento integral especializado enfocado a la erradicación de la violencia política.
+
+La pena se aumentará en una mitad cuando este delito:
+
+I. Se cometa en contra de mujeres: embarazadas, personas mayores, de pueblos originarios, en condición de discapacidad, sin instrucción escolarizada básica, o por orientación sexual e identidad de género.
+
+II. Sea perpetrado por quien está en el servicio público, por superiores jerárquicos, integrantes de partidos políticos o por persona que esté en funciones de dirección en la organización política donde participe la víctima.
+
+Además, en caso de que el sujeto activo sea servidor o servidora pública, se le inhabilitará para el desempeño del empleo, cargo o comisión público, por un tiempo igual al de la pena de prisión impuesta.
+
+Este delito se perseguirá de oficio.
 
 ###### Artículo 199.
 
@@ -4073,7 +4093,11 @@ V. Al perito traductor o paleógrafo que plasme hechos falsos o altere la verdad
 
 (DEROGADO., P.O. 7 DE JUNIO DE 2017)
 
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2019)</small>
+
 ## TÍTULO VIGÉSIMO CUARTO. DELITOS ELECTORALES
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2019)</small>
 
 ### CAPÍTULO ÚNICO
 
@@ -4081,123 +4105,47 @@ V. Al perito traductor o paleógrafo que plasme hechos falsos o altere la verdad
 
 ###### Artículo 334.
 
-Para los efectos de este Capítulo se entiende por:
-
-I. Funcionarios electorales, quienes en los términos de la Ley de la materia integren los órganos que cumplen funciones públicas electorales;
-
-II. Funcionarios partidistas, los dirigentes de los partidos políticos, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales los propios partidos otorgan representación para actuar en la jornada electoral ante los órganos electorales en los términos de la Ley;
-
-III. Documentos públicos electorales, las actas oficiales de instalación de casilla, de los escrutinios y cómputo de las mesas directivas de casilla, las de los cómputos municipales, distritales y estatal en general, los documentos expedidos en el ejercicio de sus funciones por los organismos electorales; y
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
-
-IV. Día multa, la Unidad de Medida y Actualización vigente.
-
-Cuando en este título se haga referencia a la Ley, se entenderá que es a la Ley Electoral del Estado de Chihuahua.
+(DEROGADO, P.O. 15 DE JUNIO DE 2019)
 
 ###### Artículo 335.
 
-Por la comisión de cualquiera de los delitos comprendidos en el presente título se podrá imponer, además de la pena señalada, la inhabilitación de uno a cinco años, y en su caso, la destitución del cargo.
+(DEROGADO, P.O. 15 DE JUNIO DE 2019)
 
 ###### Artículo 336.
 
-Se impondrán de diez a cien días de multa y prisión de seis meses a tres años a quien:
-
-I. Vote a sabiendas de que no cumple con los requisitos de la Ley Electoral;
-
-II. Vote más de una vez en la misma elección;
-
-III. Haga proselitismo o presione a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes;
-
-IV. Obstaculice o interfiera el desarrollo normal de las votaciones, del escrutinio o del cómputo;
-
-V. Recoja sin causa prevista por la ley de la materia, credenciales de elector de los ciudadanos;
-
-VI. Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
-
-VII. Viole de cualquier manera el secreto del voto;
-
-VIII. Vote o pretenda votar con una credencial de la que no sea titular;
-
-IX. El día de la elección organice la reunión y traslado de votantes con el objeto de llevarlos a votar y de influir en el sentido de su voto;
-
-X. Ilícitamente introduzca o sustraiga de las urnas una o más boletas electorales, destruya o altere boletas o documentos electorales;
-
-XI. Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa; o
-
-XII. Impida en forma violenta la instalación de la casilla.
+(DEROGADO, P.O. 15 DE JUNIO DE 2019)
 
 ###### Artículo 337.
 
-Se impondrán hasta 500 días de multa a los ministros de cultos religiosos que por cualquier medio en el desarrollo de actos propios de su ministerio, realicen algunas de las prácticas previstas en el artículo 209 de la Ley Electoral.
+(DEROGADO, P.O. 15 DE JUNIO DE 2019)
 
 ###### Artículo 338.
 
-Se impondrá de cincuenta a doscientos días de multa y prisión de dos a seis años, al funcionario electoral que:
-
-I. Altere en cualquier forma, sustituya o haga un uso indebido de documentos relativos al padrón estatal de electores;
-
-II. Se abstenga de cumplir, sin causa justificada, con sus obligaciones electorales con perjuicio del proceso;
-
-III. Obstruya el desarrollo normal de la votación sin mediar causa justificada;
-
-IV. Altere los resultados electorales, sustraiga o destruya boletas o documentos electorales;
-
-V. No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada;
-
-VI. En ejercicio de sus funciones, ejerza presión sobre los electores y los induzca a votar por un candidato o por un partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentran formados;
-
-VII. Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado o impida su instalación;
-
-VIII. Al que expulse de la casilla sin causa justificada al representante de un partido político o coarte los derechos que la Ley Electoral le concede;
-
-IX. Conociendo la existencia de condiciones o actividades que atenten contra la libertad del secreto del voto, no tome las medidas conducentes para que cesen;
-
-X. Permita o tolere a sabiendas que un ciudadano emita su voto cuando no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales; o
-
-XI. Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+(DEROGADO, P.O. 15 DE JUNIO DE 2019)
 
 ###### Artículo 339.
 
-Se impondrá de cien a doscientos días de multa y prisión de seis meses a tres años, al funcionario partidista que:
-
-I. Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
-
-II. Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
-
-III Sustraiga, destruya, altere o haga un uso indebido de documentos oficiales de índole electoral;
-
-IV. Obstaculice el desarrollo normal de la votación sin mediar causa justificada o ejerza violencia física o moral sobre los funcionarios electorales;
-
-V. Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados; o
-
-VI. Impida con violencia la instalación, apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por la ley de la materia.
+(DEROGADO, P.O. 15 DE JUNIO DE 2019)
 
 ###### Artículo 340.
 
-Se impondrán de doscientos a cuatrocientos días de multa y prisión de uno a nueve años, al servidor público que:
-
-I. Obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
-
-II. Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de un partido o candidato; o
-
-III. Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo como vehículos, inmuebles y equipos, al apoyo a un partido político y de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que estos presten servicio a un partido político o candidato. En la comisión de este delito no habrá beneficio de la libertad provisional.
+(DEROGADO, P.O. 15 DE JUNIO DE 2019)
 
 ###### Artículo 341.
 
-Se suspenderá en sus derechos políticos hasta por tres años a quienes habiendo sido electos diputados no se presenten, sin causa justificada; a juicio del Congreso del Estado, a desempeñar el cargo.
+(DEROGADO, P.O. 15 DE JUNIO DE 2019)
 
 ###### Artículo 342.
 
-Se impondrá de sesenta a doscientos días de multa y prisión de tres a siete años, a quien por cualquier medio participe en la alteración del padrón estatal de electores o de los listados nominales o en la expedición ilícita de credenciales para votar.
+(DEROGADO, P.O. 15 DE JUNIO DE 2019)
 
 ###### Artículo 343.
 
-Se impondrá prisión de dos a nueve años, al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas, aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 340 de este Código. En la comisión de este delito no habrá el beneficio de la libertad provisional.
+(DEROGADO, P.O. 15 DE JUNIO DE 2019)
 
 ###### Artículo 344.
 
-Los responsables de los delitos contenidos en este Título, por haber acordado, concertado o preparado su realización en los términos del artículo 22, fracción I, de este Código, no podrán gozar del beneficio de la libertad provisional.
+(DEROGADO, P.O. 15 DE JUNIO DE 2019)
 
 ## TÍTULO VIGÉSIMO QUINTO. DELITOS CONTRA LA SEGURIDAD DE LAS INSTITUCIONES DEL ESTADO
 
@@ -5333,7 +5281,15 @@ A la entrada en vigor del presente Decreto, los recursos humanos, materiales y f
 
 P.O. 15 DE MAYO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFDEC/0322/2019 II P.O., POR MEDIO DEL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. LXV/RFCOD/0388/2017 I P.O."]
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFDEC/0322/2019 II P.O., POR MEDIO DEL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. LXV/RFCOD/0388/2017 I P.O.”]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFLYC/0854/2018 XVI P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
 
 ###### ARTÍCULO ÚNICO.
 
