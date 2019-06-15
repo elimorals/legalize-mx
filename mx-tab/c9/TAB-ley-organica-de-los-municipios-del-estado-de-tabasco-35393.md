@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2018-10-17"
+last_updated: "2019-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -299,13 +299,19 @@ Los vecinos del Municipio serán preferidos en igualdad de circunstancias para e
 
 ### CAPÍTULO I. De la Integración de los Ayuntamientos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2019)</small>
+
 ###### Artículo 19.
 
-Cada Municipio será gobernado por un Ayuntamiento, de elección popular directa; integrado por un presidente municipal, y el número de regidores y síndicos que determine la legislación electoral del Estado de Tabasco y en su caso, por quienes los sustituyan en términos legales. El número de síndicos se determinará en razón directa de la población del Municipio que representen.
+Cada Municipio será gobernado por un Ayuntamiento, de elección popular directa; integrado por un presidente municipal, un síndico de hacienda y el número de regidurías que determine la legislación electoral del Estado de Tabasco y en su caso, por quienes los sustituyan en términos legales.
 
-Cuando correspondan al Municipio dos síndicos de hacienda, el primer regidor será el presidente municipal, el segundo regidor será el primer síndico, el tercer regidor será el segundo síndico y los demás desempeñarán las funciones que ésta y otras leyes les asignen.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
 
-Dadas las funciones que desempeña el síndico o los síndicos, se procurará postular como tales, a personas que cuenten indistintamente con títulos de, licenciados en Contaduría Pública, Derecho, Economía, Administración o cualquier otra profesión relacionada con las facultades que le competen.
+La primera regiduría corresponderá al presidente municipal y la segunda regiduría al síndico de hacienda. Quienes ostenten las demás regidurías desempeñarán las funciones que ésta y otras leyes les asignen.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+Dadas las funciones que desempeña el síndico, se procurará postular como tal, a personas que cuenten indistintamente con títulos de, licenciados en Contaduría Pública, Derecho, Economía, Administración o cualquier otra profesión relacionada con las facultades que le competen.
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
 
@@ -343,9 +349,9 @@ El día 4 de octubre, en el último año del ejercicio del Ayuntamiento, tambié
 
 El Ayuntamiento saliente invitará a los Poderes del Estado, a los habitantes y vecinos del Municipio para que asistan a la ceremonia y continuará en funciones hasta las nueve horas del día 5 de octubre siguiente.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
 
-Cuando uno o más miembros del Ayuntamiento entrante no se presentaren al acto de protesta, sin acreditar causa justa para ello, el presidente, el síndico de hacienda que corresponda, o cualquier otro regidor del Ayuntamiento entrante que se encuentre presente, exhortará a los faltantes para que se presenten en un término de tres días como máximo y al no hacerlo se entenderá que no aceptan el cargo y se llamará a los suplentes, los que de manera definitiva substituirán a los propietarios. De no acudir los suplentes se estará a lo dispuesto en los artículos 57, 58 y 62 de esta Ley.
+Cuando uno o más miembros del Ayuntamiento entrante no se presentaren al acto de protesta, sin acreditar causa justa para ello, el presidente, el síndico de hacienda, o cualquier otro regidor del Ayuntamiento entrante que se encuentre presente, exhortará a los faltantes para que se presenten en un término de tres días como máximo y al no hacerlo se entenderá que no aceptan el cargo y se llamará a los suplentes, los que de manera definitiva substituirán a los propietarios. De no acudir los suplentes se estará a lo dispuesto en los artículos 57, 58 y 62 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -671,7 +677,9 @@ VII. Las demás que les otorguen esta Ley y demás disposiciones aplicables.
 
 El incumplimiento de cualquiera de las obligaciones señaladas en este artículo será sancionado conforme a las disposiciones de la Constitución Política Local y, en su caso, la Ley General de Responsabilidades Administrativas, sin perjuicio de otras sanciones que establezcan otras leyes.
 
-### CAPÍTULO VII. Del Síndico o Síndicos
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2019)</small>
+
+### CAPÍTULO VII. Del Síndico
 
 ###### Artículo 36.
 
@@ -703,11 +711,13 @@ XI. En los lugares donde no existan Fiscalías del Ministerio Público, practica
 
 XII. Las demás que le señale esta Ley y otras leyes, así como los reglamentos municipales o las que les asigne el Ayuntamiento.
 
-En los ayuntamientos en que existan dos síndicos, el primero tendrá las facultades señaladas en las fracciones II, VI primera parte, VII, IX, y XI de este artículo; y el segundo las conferidas en las fracciones III, V, VI parte in fine, VIII, y X del mismo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE JUNIO DE 2019)</small>
 
-Las facultades y obligaciones precisadas en las fracciones I, IV y XII, corresponderán indistintamente a los dos síndicos.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 15 DE JUNIO DE 2019)</small>
 
-Los síndicos no pueden desistirse, transigir, comprometerse en arbitrios y hacer cesiones de bienes, salvo autorización expresa que en cada caso les otorgue el Ayuntamiento.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+El síndico no puede desistirse, transigir, comprometerse en arbitrios y hacer cesiones de bienes, salvo autorización expresa que en cada caso le otorgue el Ayuntamiento.
 
 ###### Artículo 37.
 
@@ -791,7 +801,9 @@ Las Comisiones serán:
 
 I. De Gobernación, Seguridad Pública y Tránsito, la cual estará presidida por el presidente municipal;
 
-II. De Hacienda, presidida por el primer síndico o segundo regidor;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+II. De Hacienda, presidida por el síndico;
 
 III. De Desarrollo;
 
@@ -831,9 +843,9 @@ Los reglamentos, bandos, circulares y disposiciones administrativas de observanc
 
 La facultad de presentar las iniciativas ante el propio Ayuntamiento, correspondientes a las normas que deriven de lo consignado en el párrafo anterior corresponde:
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2019)</small>
 
-I. Al presidente municipal, regidores y síndicos; y
+I. Al presidente municipal, regidores y al síndico; y
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2014)</small>
 
@@ -1005,7 +1017,9 @@ Los concejales deben reunir los mismos requisitos que esta Ley exige para los re
 
 Cuando la Legislatura, en términos de lo establecido en el artículo 36, fracciones XXXII y XXXIII de la Constitución Política del Estado Libre y Soberano de Tabasco, declare suspendido o desaparecido un Ayuntamiento y no procediere que entraren en funciones los suplentes, ni que se celebren nuevas elecciones según lo dispuesto por las leyes aplicables, designará entre los vecinos del Municipio, un Concejo Municipal que concluirá el período respectivo.
 
-Dicho Concejo estará integrado por tres ciudadanos, de los cuales sólo dos podrán ser del mismo sexo. A los concejales se les considerará regidores para los efectos de esta Ley y en forma colegiada ejercerán las facultades y obligaciones establecidas en el artículo 29 de la misma. El primer concejal, tendrá además todas las facultades que corresponden al presidente municipal, el segundo las del síndico de hacienda y al tercero las de un regidor y en su caso, las del segundo síndico.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+Dicho Concejo estará integrado por tres ciudadanos, de los cuales sólo dos podrán ser del mismo sexo. A los concejales se les considerará regidores para los efectos de esta Ley y en forma colegiada ejercerán las facultades y obligaciones establecidas en el artículo 29 de la misma. El primer concejal, tendrá además todas las facultades que corresponden al presidente municipal, el segundo las del síndico de hacienda y al tercero las de un regidor.
 
 Las personas designadas para formar los concejos municipales no podrán excusarse de servir sino por causa justificada que será calificada por la Legislatura local.
 
@@ -1107,7 +1121,9 @@ Las faltas temporales del presidente municipal serán suplidas por el segundo re
 
 Tratándose de otros miembros del Ayuntamiento se procederá de la siguiente manera:
 
-I. Los regidores y los síndicos se suplirán cuando se trate de ausencias mayores a los quince días naturales y se afecte el número necesario para la integración del quórum en el Ayuntamiento; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+I. Los regidores y el síndico se suplirán cuando se trate de ausencias mayores a los quince días naturales y se afecte el número necesario para la integración del quórum en el Ayuntamiento; y
 
 II. En esos casos, se llamará a los suplentes respectivos quienes rendirán protesta antes de asumir el cargo.
 
@@ -1339,7 +1355,7 @@ f) Los demás requisitos que exijan las leyes correspondientes.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2006)</small>
 
-En el caso de la titularidad de la Dirección de Atención a las Mujeres ésta deberá recaer en una mujer.
+En el caso de la titularidad de la Dirección de Atención a las Mujeres, ésta deberá recaer en una mujer.
 
 ###### Artículo 76.
 
@@ -2381,9 +2397,11 @@ La celebración del convenio y la autorización a que se refiere este artículo,
 
 El Ayuntamiento, dictará las reglas de carácter general que establezcan sistemas, procedimientos e instrucciones, conforme a las cuales deberán llevarse a cabo la recepción de los pagos mencionados y su entrega al erario municipal y supervisará, mediante la Contraloría, el cumplimiento de las mismas.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
+
 ###### Artículo 115.
 
-El director de administración con el auxilio del secretario del Ayuntamiento, el contralor municipal y el síndico que corresponda, formulará y actualizará anualmente el catálogo general de inmuebles municipales; asimismo lo harán respecto del inventario general de los bienes muebles e inmuebles propiedad del Municipio, mismo que deberá contener el valor y las características de identificación de cada uno de ellos, siendo éstos partes de la cuenta pública anual, remitiendo copia certificada de los mismos, al Órgano Superior de Fiscalización del Estado.
+El director de administración con el auxilio del secretario del Ayuntamiento, el contralor municipal y el síndico, formulará y actualizará anualmente el catálogo general de inmuebles municipales; asimismo lo harán respecto del inventario general de los bienes muebles e inmuebles propiedad del Municipio, mismo que deberá contener el valor y las características de identificación de cada uno de ellos, siendo éstos partes (sic) de la cuenta pública anual, remitiendo copia certificada de los mismos, al Órgano Superior de Fiscalización del Estado.
 
 ###### Artículo 116.
 
@@ -3980,3 +3998,15 @@ Para efectos de lo previsto en el párrafo anterior, la Comisión Permanente del
 TERCERO.- La reforma al primer párrafo del artículo 25 entrará en vigor el 5 de octubre de 2021, por lo que los presidentes municipales que inicien su mandato el 5 de octubre de 2018 deberán elaborar su Plan Municipal de Desarrollo a más tardar el 16 de julio de 2019 y, en su caso, los respectivos cabildos deberán aprobarlo dentro de los 15 días siguientes a su recepción.
 
 CUARTO.- Se derogan las disposiciones legales o administrativas que se opongan a lo previsto en el presente Decreto.
+
+P.O. 15 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 107 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 19, PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; 23, CUARTO PÁRRAFO; 36, ÚLTIMO PÁRRAFO; 46, FRACCIÓN II; 47, PÁRRAFO SEGUNDO, FRACCIÓN I; 57, PÁRRAFO SEGUNDO; 63, FRACCIÓN I; 115; Y LA DENOMINACIÓN DEL CAPÍTULO VII, DEL TÍTULO SEGUNDO, PARA QUEDAR COMO "DEL SÍNDICO"; Y SE DEROGAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 36; TODOS DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; con excepción de la reforma al artículo 36 de la Ley Orgánica de los Municipios del Estado de Tabasco, la cual entrará en vigor a partir de la entrada en funciones de los Ayuntamientos electos para el trienio 2021-2024.
+
+SEGUNDO.- Los síndicos de hacienda y demás regidores electos por los principios de mayoría relativa y de representación proporcional, de los Ayuntamientos que resultaron electos del primero de julio del año 2018 para el trienio 2018-2021, concluirán su cargo conforme al periodo establecido, es decir, el 4 de octubre de 2021.
+
+TERCERO.- Para los efectos del proceso electoral 2021-2024, las planillas de regidores se ajustarán a lo establecido en el presente Decreto.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
