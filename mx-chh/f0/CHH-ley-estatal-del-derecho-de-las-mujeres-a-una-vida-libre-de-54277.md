@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2018-11-10"
+last_updated: "2019-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -139,6 +139,14 @@ XIV. Alerta de violencia de género: Es el conjunto de acciones gubernamentales 
 
 XV. Prevención.- Son aquellas medidas o acciones gubernamentales encaminadas a impedir o eliminar las conductas que produzcan maltrato físico, verbal, psicoemocional o sexual entre los integrantes de una familia.
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+XVI. Razones de género: Razón de género. Actitud y/o conducta a través de la cual se manifiesta la discriminación, la subordinación y sometimiento de la mujer por el varón, basada en una relación desigual de poder
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+XVII. Relación desigual de poder. Aquella que se configura por prácticas socioculturales históricas basadas en la idea de la inferioridad de las mujeres o la superioridad de los varones, o en conductas estereotipadas de hombres y mujeres, que limitan total o parcialmente el reconocimiento o goce de los derechos de éstas, en cualquier ámbito en que desarrollen sus relaciones interpersonales.
+
 ###### Artículo 5.
 
 Los tipos de violencia contra las mujeres son:
@@ -181,9 +189,9 @@ IV. Violencia en la comunidad: Son los actos individuales o colectivos que trans
 
 V. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2019)</small>
 
-VI. Violencia Política: Es el conjunto de acciones u omisiones cometidas por una persona por sí o a través de terceros que causen daño en contra de una mujer por ser mujer, o de su familia, en el ejercicio o en la pretensión o aspiración de ejercicio de la representación política, o el ejercicio o en la pretensión o aspiración de ejercicio de cargos públicos, empleos o comisiones, que tengan por objeto o resultado limitar, anular o menoscabar el acceso, reconocimiento, goce y/o ejercicio de los derechos políticos, o de las prerrogativas inherentes a un cargo público, empleo o comisión.
+VI. Violencia Política: Las acciones y/u omisiones cometidas por una persona o grupo de personas, directamente o a través de terceros, en contra de la mujer o de su familia y realizadas por razones de género, que cause daño físico, psicológico, sexual o económico y tengan por objeto o resultado impedir, anular o menoscabar el ejercicio de sus derechos políticos, incluyendo el ejercicio del cargo, o la induzca u obligue a tomar decisiones en contra de su voluntad acerca de esos derechos.
 
 > <small>(ADICIONADO, P.O. 6 DE MARZO DE 2010)</small>
 
@@ -239,6 +247,38 @@ c) El diseño e instrumentación de políticas públicas que eviten la comisión
 
 d) La verificación de los hechos y la publicidad de la verdad.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+###### Artículo 6
+
+e.- Para efectos de la violencia política en contra de la mujer, a que se refiere la fracción VI del artículo 6 de esta Ley, se considerará que existen razones de género, en los actos que a continuación se enlistan de manera enunciativa, mas no limitativa:
+
+I. Proporcionar a la autoridad electoral, datos falsos o información incompleta de la identidad o sexo de la persona candidata.
+
+II. Impedir, por cualquier medio, asistir a la toma de protesta de su encargo, así como a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres.
+
+III. Dañar, en cualquier forma, elementos de la campaña electoral de la mujer, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad.
+
+IV. Imponer, por estereotipos de género, la realización de actividades y tareas ajenas a las funciones y atribuciones de su cargo.
+
+V. Asignar responsabilidades que tengan como resultado la limitación del ejercicio de la función político-pública.
+
+VI. Proporcionar información falsa, errada o imprecisa que induzca al inadecuado ejercicio de sus funciones político-pública.
+
+VII. Impedir o restringir la reincorporación de la mujer a su cargo, cuando hagan uso de una licencia justificada, incluyendo la licencia de maternidad.
+
+VIII. Restringir el uso de la palabra, en las asambleas, sesiones u otras reuniones, así como su participación en comisiones, comités y otras instancias inherentes a su cargo, a que tenga derecho conforme a la reglamentación establecida.
+
+IX. Restringir o impedir el uso de las acciones constitucionales y legales para proteger sus derechos y/o evitar el cumplimiento de las resoluciones correspondientes. Imponer sanciones injustificadas, impidiendo o restringiendo el ejercicio de sus derechos políticos.
+
+X. Aplicar sanciones pecuniarias, descuentos arbitrarios e ilegales y/o retención de salarios.
+
+XI. Divulgar o revelar información personal y privada con el objetivo de menoscabar la dignidad de la mujer como ser humano, o información falsa relativa a sus funciones con el objetivo de desprestigiar su gestión, ambos como medios de presión para obtener contra su voluntad la renuncia y/o licencia al cargo que ejerce o postula.
+
+XII. Divulgar información falsa con el objetivo de desprestigiar su gestión y obtener contra su voluntad la renuncia y/o licencia al cargo que ejerce o postula.
+
+XIII. Obligar a la mujer, mediante la fuerza o intimidación, a suscribir todo tipo de documentos y/o avalar decisiones contrarias a su voluntad, al interés público o general.
+
 ###### Artículo 7.
 
 La protección y asistencia a las mujeres víctimas o en situación de riesgo de violencia, tiene por objeto promover su desarrollo integral y su participación en todos los niveles de la vida privada, económica, política, laboral, profesional, académica, cultural y social.
@@ -259,9 +299,15 @@ V. La no discriminación;
 
 VI. La intimidad;
 
-VII. La integridad física, sicoemocional y sexual de las mujeres; y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JUNIO DE 2019)</small>
+
+VII. La integridad física, sicoemocional y sexual de las mujeres;
 
 VIII. El patrimonio.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+IX. El pleno ejercicio de los derechos políticos.
 
 ###### Artículo 9.
 
@@ -345,9 +391,13 @@ V. Las dependencias y entidades encargadas de aplicar programas en favor de las 
 
 VI. Cuatro representantes de las organizaciones de la sociedad civil en el Estado que trabajen con y para las mujeres.
 
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2017)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 15 DE JUNIO DE 2019)</small>
 
 VII. Quien presida la Comisión de Igualdad del Poder Legislativo del Estado.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+VIII. El Instituto Estatal Electoral.
 
 Podrán ser invitados a las sesiones del Consejo las y los Secretarios, Directores, Directoras, Coordinadores y Coordinadoras Generales o cualquier funcionario o funcionaria de la administración pública estatal, así como asesores externos, cuando por la naturaleza de algún asunto a tratar, y a consideración de la Presidencia del Consejo, sea necesario su punto de vista para la toma de decisiones, mismos que participarán dentro de él, con voz, pero sin voto.
 
@@ -423,8 +473,6 @@ I. Fomentar el conocimiento y el respeto al derecho de toda persona a una vida s
 
 II. Transformar los modelos socioculturales de conducta de hombres y mujeres, incluyendo la propuesta y formulación de programas de educación formales y no formales, respectivamente, en todos los niveles y modalidades, con la finalidad de erradicar estereotipos que permitan o toleren la violencia contra las mujeres;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 III. Impulsar la capacitación con perspectiva de género del personal a cargo de la Fiscalía General del Estado;
@@ -439,9 +487,23 @@ VII. Exhortar a los medios de comunicación para que apliquen criterios adecuado
 
 VIII. Garantizar la investigación y recopilación de estadísticas y demás información pertinente sobre las causas, consecuencias y frecuencia de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir y eliminar este tipo de violencia;
 
-IX. Evaluar el cumplimiento de los objetivos propuestos en el propio programa; y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JUNIO DE 2019)</small>
+
+IX. Evaluar el cumplimiento de los objetivos propuestos en el propio programa.
 
 X. Promover en la comunidad la cultura de denuncia de la violencia contra las mujeres.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+XI. Sensibilizar y capacitar, con enfoque intercultural de educación democrática, sobre el ejercicio de los derechos políticos de las mujeres.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+XII. Facilitar el fortalecimiento de los liderazgos de las mujeres y su permanencia en los espacios de toma de decisiones.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+XIII. Definir recomendaciones específicas mediante las cuales las instituciones públicas, políticas, sociales, privadas, electorales y sindicales creen sus propios instrumentos y mecanismos internos para prevenir y combatir la violencia política contra las mujeres.
 
 ### CAPÍTULO SEXTO. DE LA PREVENCIÓN DE LA VIOLENCIA FAMILIAR Y LA ASISTENCIA A SUS VICTIMAS
 
@@ -933,7 +995,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY".]</small>
 
 P.O. 6 DE MARZO DE 2010.
 
@@ -1142,3 +1204,11 @@ P.O. 10 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLEY/0852/2018 XVI P.E., POR MEDIO DEL CUAL SE ADICIONAN AL ARTÍCULO 30, LA FRACCIÓN XVIII, Y EL ARTÍCULO 35 BIS A LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFLYC/0854/2018 XVI P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
