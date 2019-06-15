@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-responsabilidad-administrativa-de-los-servidores-7834"
 country: "mx"
 rank: "ley"
 publication_date: "1983-07-13"
-last_updated: "2017-07-15"
+last_updated: "2019-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7834&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # LEY DE RESPONSABILIDAD ADMINISTRATIVA DE LOS SERVIDORES PUBLICOS, REGLAMENTARIA DEL ARTICULO 68, DEL TITULO VII, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO -ANTES LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS, REGLAMENTARIA DE LOS ARTICULOS 68 Y 69, DEL TITULO VII, DE LA CONSTITUCION POLITICA DEL ESTADO DE TABASCO -ANTES LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS QUE REGLAMENTA EL TITULO SEPTIMO DE LA LEY FUNDAMENTAL DEL ESTADO DE TABASCO-
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, REGLAMENTARIA DE LOS ARTÍCULOS 68 Y 69, DEL TÍTULO VII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO
+LEY DE RESPONSABILIDAD ADMINISTRATIVA DE LOS SERVIDORES PÚBLICOS, REGLAMENTARIA DEL ARTÍCULO 68, DEL TÍTULO VII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 13 de julio de 1983.
 
@@ -39,23 +39,27 @@ Ha tenido a bien expedir el siguiente:
 
 DECRETO NUMERO 0058
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2019)</small>
+
 ###### ARTICULO UNICO.
 
-Es de aprobarse en todas y ccadda (sic) una de sus partes, la ZLey (sic) de responsabilidades de los servidores públicos que reglamenta el título séptimo de la Ley fundamental del estado de tabasco, para quedar como sigue:
+Es de aprobarse en todas y ccadda (sic) una de sus partes, la LEY DE RESPONSABILIDAD ADMINISTRATIVA DE LOS SERVIDORES PÚBLICOS, REGLAMENTARIA DEL ARTÍCULO 68, DEL TÍTULO VII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO, para quedar como sigue:
 
 ## TITULO PRIMERO
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2019)</small>
 
-ART. 1.- Esta Ley tiene por objeto reglamentar el Título Séptimo de la Constitución Política del Estado de Tabasco, en lo relativo a la instauración de juicio político o de procedimiento para declaración de procedencia por la comisión de delitos, a los servidores públicos sujetos de protección Constitucional.
+ART. 1.- Esta Ley tiene por objeto reglamentar el Título Séptimo de la Constitución Política del Estado de Tabasco, en lo relativo a la instauración de juicio político.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2017)</small>
 
 En el caso de las responsabilidades en que incurran los servidores públicos del Estado por faltas administrativas y los particulares vinculados con las mismas, se aplicarán la Ley General de Responsabilidades Administrativas y la Ley de Justicia Administrativa del Estado de Tabasco.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
 
-ART. 2.- Son sujetos de esta Ley, los Servidores Públicos mencionados en los artículos 68, párrafos primero y segundo; y 69, de la Constitución Política del Estado Libre y Soberano de Tabasco, a quienes serán aplicables los procedimientos y sanciones señalados en dichos numerales.
+ART. 2.- Son sujetos de esta Ley, los Servidores Públicos mencionados en los artículos 68, párrafos primero y segundo, de la Constitución Política del Estado Libre y Soberano de Tabasco, a quienes serán aplicables los procedimientos y sanciones señalados en dichos numerales.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2017)</small>
 
@@ -65,13 +69,13 @@ I. La Cámara de Diputados del Congreso del Estado; y
 
 II. El. Tribunal Superior de Justicia del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
 
-###### Artículo 4.
+ART. 4.- No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 
-Cuando los actos u omisiones materia de las acusaciones queden comprendidos en más de uno de los supuestos previstos en los artículos 68 y 69 de la Constitución Política del Estado, los procedimientos respectivos se desarrollarán en forma autónoma e independiente, según su naturaleza y por la vía procesal que corresponda. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2019)</small>
 
-## TITULO SEGUNDO. PROCEDIMIENTOS ANTE EL CONGRESO DEL ESTADO EN MATERIA DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA
+## TITULO SEGUNDO. PROCEDIMIENTO ANTE EL CONGRESO DEL ESTADO EN MATERIA DE JUICIO POLITICO
 
 ### CAPITULO I. SUJETOS, CAUSAS DE JUICIO POLITICO Y SANCIONES
 
@@ -109,21 +113,15 @@ ART. 9.- El juicio Político sólo podrá iniciarse durante el tiempo en que el 
 
 Las sanciones respectivas se aplicarán en un plazo no mayor de un año a partir de iniciado el procedimiento.
 
-ART. 10.- Corresponde a la cámara de Diputados instruir el procedimientomrelativo (sic) al Juicio Político, actuando como órgano de acusación y al Tribunal Superior de Justicia fungir como Jurado dentencia (sic).
+ART. 10.- Corresponde a la camara de Diputados instruir el procedimientomrelativo (sic) al Juicio Político, actuando como órgano de acusación y al Tribunal Superior de Justicia fungir como Jurado dentencia (sic).
 
-ART. 11.- Al proponer la gran comisión de la cámara de Diputados la integracción (sic) de las comisiones ordinarias para el despacho de los asuntos, propondrá también la integración de una comisión para substanciar los procedimientos consignados en la presente Ley y en los términos de su reglamento.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
 
-Aprobada la propuesta a que hace referencia el párrafo anterior se elegirán cuatro Diputados que integrarán la sección instructora.
+ART. 11.- Al proponer la Junta de Coordinación Política de la Cámara de Diputados la integración de las comisiones ordinarias para el despacho de los asuntos, propondrá también la integración de una comisión para substanciar los procedimientos consignados en la presente Ley y en los términos de su reglamento.
 
-Las vacantes que ocurran en la sección, serán cubiertas por designación que haga la gran comisión, de entre los miembros de las demás comisiones.
+ART. 12.- Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular por escrito denuncia ante la camara dde (sic) Diputados por las conductas a que se refiere el artículo 7o. presentados la denuncia y ratificada dentro de los cinco días siguientes naturales se turnará con la documentación que la acompañe, en su caso a las comisiones de Gobernación, Legislativa y de puntos constitucionales y de justicia, para que dictaminen si la conducta atribuida corresponde a las enumeradas por aquellos preceptos y si el inculpado esta comprendido entre los servidores públicos a que se refiere el artículo 2o. Así como la (sic) si la denuncia es procedente y por lo tanto amerita la incoación del procedimiento.
 
-En pleno, el Tribunal Superior de Justicia propondrá la integración de un grupo de siete magistrados para formar la sección de enjuiciamiento, de ese grupo se elegirán cuatro magistrados que integrarán dicha sección los demás integrantes del grupo propuesto cubrirán por designación del pleno, las vacantes que ocurran en la sección.
-
-En cada sección se designará como presidente al dde (sic) mayor edad y será secretario sin voto, el más joven.
-
-ART. 12.- Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular por escrito denuncia ante la cámara dde (sic) Diputados por las conductas a que se refiere el artículo 7o. presentados la denuncia y ratificada dentro de los cinco días siguientes naturales se turnará con la documentación que la acompañe, en su caso a las comisiones de Gobernación, Legislativa y de puntos constitucionales y de justicia, para que dictaminen si la conducta atribuida corresponde a las enumeradas por aquellos preceptos y si el inculpado esta comprendido entre los servidores públicos a que se refiere el artículo 2o. Así como la (sic) si la denuncia es procedente y por lo tanto amerita la incoación del procedimiento.
-
-Una vez acreditados estos elementos, la denuncia se turnará a la comisión instructora de la ccámara (sic).
+Una vez acreditados estos elementos, la denuncia se turnará a la comisión instructora de la ccamara (sic).
 
 Las denuncias anónimas no producirán ningún efecto.
 
@@ -153,15 +151,13 @@ IV.- Que en caso de ser aprobadas las conclusiones, se envié la declaración co
 
 De igual manera deberán asentarse en las conclusiones las circunstancias que hubieren en los hechos.
 
-ART. 18.- Una vez emitidas las conclusiones a que se refieren los artículos procedentes, la sección instructora las entregará al Secretario de la Cámara de Diputaddos (sic) para que dé cuenta al Presidente de la misma, quien anunciará que dicha cámara debe reunirse y resolver sobre la denuncia, dentro de los días naturales siguientes, lo que hará saber el Secretario al denunciante y al servidor público denunciado, para que se presenten, asistido el segundo de su defensor a fin de que aleguen lo que convenga a sus derechos.
+ART. 18.- Una vez emitidas las conclusiones a que se refieren los artículos procedentes, la sección instructora las entregará al Secretario de la Camara de Diputaddos (sic) para que dé cuenta al Presidente de la misma, quien anunciará que dicha camara debe reunirse y resolver sobre la denuncia, dentro de los días naturales siguientes, lo que hará saber el Secretario al denunciante y al servidor público denunciado, para que se presenten, asistido el segundo de su defensor a fin de que aleguen lo que convenga a sus derechos.
 
-ART. 19.- La sección instructora deberá practicar toda las diligencias y formular sus conclusiones hasta entregarlas al secretario de la carama (sic), conforme a los artículos anteriores dentro del plazo de sesenta días naturales, contados desde el día siguiente a la fecha en que se le haya turnado la denuncia a no ser que por causa razonable y fundada se encuentre impedida para hacerlo. En este caso podrá solicitar de la cámara que se amplíe el plazo por el tiempo indispensable para perfeccionar la instrucción.
+ART. 19.- La sección instructora deberá practicar toda las diligencias y formular sus conclusiones hasta entregarlas al secretario de la carama (sic), conforme a los artículos anteriores dentro del plazo de sesenta días naturales, contados desde el día siguiente a la fecha en que se le haya turnado la denuncia a no ser que por causa razonable y fundada se encuentre impedida para hacerlo. En este caso podrá solicitar de la camara que se amplíe el plazo por el tiempo indispensable para perfeccionar la instrucción. El nuevo plazo que se concede no excederá de quince días.
 
-El nuevo plazo que se concede no excederá de quince días.
+Los plazos a que se refiere este artículo se entienden comprendidos dentro del Período ordinario de sesiones de la camara, o bien dentro del siguiente ordinario o extraordinario que se convoque.
 
-Los plazos a que se refiere este artículo se entienden comprendidos dentro del Período ordinario de sesiones de la cámara, o bien dentro del siguiente ordinario o extraordinario que se convoque.
-
-ART. 20.- El día señalado conforme al artículo 18, la cámara de Diputaddos (sic) se erigirá en un órgano de acusación previa declaración de su presidente.; Enseguida la secretaria dará lectura pública a las constancias procedimentales de estas, o a una síntesis que contenga los puntos sustancciales (sic) de estas, así como a las conclusiones de la sección instructora. Acto continuo se concederá la palabra al denunciante y enseguida al servidor público o a su defensor o a ambos sí así lo solicitaren, para que aleguen lo que convenga a sus derechos.
+ART. 20.- El día señalado conforme al artículo 18, la camara de Diputaddos (sic) se erigirá en un órgano de acusación previa declaración de su presidente.; (sic) Enseguida la secretaria dará lectura pública a las constancias procedimentales de estas, o a una síntesis que contenga los puntos sustancciales (sic) de estas, así como a las conclusiones de la sección instructora. Acto continuo se concederá la palabra al denunciante y enseguida al servidor público o a su defensor o a ambos sí así lo solicitaren, para que aleguen lo que convenga a sus derechos.
 
 El denunciante podrá replicar y, si lo hiciere, el imputado y su defensor podran hacer uso de la palabra en último término.
 
@@ -187,33 +183,35 @@ II.- Acto continuo, se concederá la palabra a la comisión de Diputados, al ser
 
 III.- Retirados el servicio público y su defensor y permaneciendo los Diputados en la sesión se procederá a discutir y a votar las conclusiones y aprobados que sean los puntos de acuerdomque (sic) en ellas se contengan, el presidente hará la declaratoria que corresponda.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2019)</small>
+
 ### CAPITULO III. PROCEDIMIENTO PARA LA DECLARACION DE PROCEDENCIA
 
-ART. 25.- Cuando se presente denuncia o querella por particulares o requerimiento del ministerio público cumplido los requisitos procedimentales respectivos para el ejercicio de la acción penal a fin de que pueda procederse penalmente en contra de algunos de los funcionarios a que se refiere el artículo 69 de la constitución, se actuará en lo pertinente de acuerdo con el procedimiento previsto en el capítulo anterior en materia de juicio político ante la cámara de diputados. En este caso, la sección instructora practicará todas las diligencias conducentes a establecer la existencia del delito y la probable responsabilidad del imputado, así como la subsistencia del fuero constitucional cuya remoción se solicita. Concluída esta averiguación la sección dictaminará si ha lugar a proceder penalmente en contra del inculpado.
+ART. 25.- (DEROGADO, P.O. 15 DE JUNIO DE 2019)
 
-Si al juicio de la sección la imputación fuese notoriamente improcedente, lo hará saber de inmediato a la cámara, para que ésta resuelva si se continúa o desecha, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que los justifiquen.
+ART. 26.- (DEROGADO, P.O. 15 DE JUNIO DE 2019)
 
-Para los efectos del primer párrafo de este artículo, la sección deberá rendir su dictamen en un plazo de sesenta días hábiles, salvo que fuese necesario disponer de más tiempo, a criterio de la sección. En este caso se observarán las normas acerca de ampliación de plazos para la recepción de pruebas del procedimiento referente al juicio político.
+ART. 27.- (DEROGADO, P.O. 15 DE JUNIO DE 2019)
 
-ART. 26.- Dada cuenta del dictamen correspondiente el presidente de la cámara anunciará al día siguiente a la fecha en que se hubiese depositado el dictamen, haciéndole saber al inculpado y a su defensor, así como el denunciante, querellante o ministerio público, en su caso.
+ART. 28.- (DEROGADO, P.O. 15 DE JUNIO DE 2019)
 
-ART. 27.- El día designado, previa declaración del presidente de la cámara, esta conocerá en asamblea del dictamen que la sección presente y actuará en los mismos términos previstos por el artículo 20 en materia de juicio político.
+ART. 29.- (DEROGADO, P.O. 15 DE JUNIO DE 2019)
 
-ART. 28.- Si la cámara de diputados declara que ha lugar proceder contra del inculpado, este quedara inmediatamente separado de su empleo, cargo o comisión y sujeto a la jurisdicción de los tribunales competentes. En caso negativo, no habrá lugar a procedimiento ulterior mientras subsista el fuero pero tal declaración no será obstáculo para que el procedimiento continúe su curso cuando el servidor público haya concluido el desempeño de su empleo, cargo o comisión.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2019)</small>
 
-ART. 29.- Cuando se siga proceso penal a un servidor público de los mencionados en el artículo 69 de la Constitución local, sin haberse satisfecho el procedimiento al que se refieren los artículos anteriores, la secretaria de la cámara o de la comisión permanente, en su caso, librará oficio al juez o tribunal que conozca de la causa, a fin de que suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
-
-### CAPITULO IV. DISPOSICIONES COMUNES PARA LOS CAPITULOS II Y III DEL TITULO SEGUNDO
+### CAPITULO IV. DISPOSICIONES COMUNES DEL TITULO SEGUNDO
 
 ART. 30.- Las declaraciones y resoluciones definitivas de los jurados de accusación (sic) y sentencia son inatacables.
 
-ART. 31.- La Cámara enviará a la sección instructora las denuncias, querellas, requerimientos del ministerio público o acusaciones que se le presenten.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+ART. 31.- La Cámara enviará a la sección instructora las denuncias o acusaciones que se le presenten.
 
 ART. 32.- En ningún caso podrá dispensarse un trámite de los establecidos en esta Ley.
 
 ART. 33.- Cuando alguna de las secciones, instructora o de enjuiciamiento, deba realizar una diligencia en la que se requiera la presencia del inculpado, se emplazara a éste para que comparezca o conteste por escrito a los requerimientos que se le hagan, haciéndole saber que si se abstiene de comparecer o de informar por escrito, se entenderá que contesta en sentido negativo.
 
-La sección respectiva practicará las diligencias que no requieran la presencia del denunciado, encomendando al juez penal de primera instancia que corresponda las que deban practicarse dentro de su respectiva jurisdicción y fuera del lugar de residencia de la cámara y del tribunal, por medio de despaccho (sic) firmado por el presidente y el secretario de la sección al que se acompañará testimonio de las constancias conducentes.
+La sección respectiva practicará las diligencias que no requieran la presencia del denunciado, encomendando al juez penal de primera instancia que corresponda las que deban practicarse dentro de su respectiva jurisdicción y fuera del lugar de residencia de la camara y del tribunal, por medio de despaccho (sic) firmado por el presidente y el secretario de la sección al que se acompañará testimonio de las constancias conducentes.
 
 El Juez practicará las diligencias que le encomiende la sección respectiva, con estricta sujeción a las determinaciones que se le comunique (sic).
 
@@ -223,37 +221,45 @@ ART. 34.- Los miembros de las secciones y en general los diputados y magistrados
 
 Unicamente con expresión de causa podrá el inculpado recusar a miembros de las secciones que conozcan de la imputación presentada en su contra o a diputados o a magistrados que deban participar en los actos del procedimiento.
 
-El propio servidor público solo podrá hacer valer la recusación desde que se le requiera para el nombramiento de defensor hasta la fecha en que se cite a la cámara y al tribunal para que actué colegiadamente, en sus casos respectivos.
+El propio servidor público solo podrá hacer valer la recusación desde que se le requiera para el nombramiento de defensor hasta la fecha en que se cite a la camara y al tribunal para que actue colegiadamente, en sus casos respectivos.
 
-ART. 35.- Presentada la excusa o la recusación, se calificará dentro de los tres días naturales siguientes en un incidente que se substanciará ante la sección a cuyos miembros no se hubiere señalado impedimento para actuar. Si hay excusa o recusación de integrantes de ambas secciones, se llamará a los suplentes.
+ART. 35.- Presentada la excusa o la recusación, se calificará dentro de los tres días naturales siguientes en un incidente que se substanciará ante la sección a cuyos miembros no se hubiere señalado impedimento para actuar. Si hay excusa o recusación de integrantes de ambas secciones, se llamará a los suplentes. En el incidente se escucharán al promovente y al recusado y se recibirán las pruebas correspondientes. La camara y el tribunal calificarán en los casos de excusa o recusación.
 
-En el incidente se escucharán al promovente y al recusado y se recibirán las pruebas correspondientes. La cámara y el tribunal calificarán en los casos de excusa o recusación.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2019)</small>
 
-ART. 36.- Tanto el inculpado como el denunciante o querellante podrán solicitar de las oficinas o establecimientos públicos, las copias certificaddas (sic) de documentos que pretendan ofrecer como prueba ante la sección respectiva.
+ART. 36.- Tanto el denunciado como el denunciante podrán solicitar de las oficinas o establecimientos públicos, las copias certificadas de documentos que pretenden ofrecer como prueba ante la sección respectiva.
 
-Las autoridades estarán obligadas a expedir dichas copias certificadas, sin demora, y si no lo hicieren, la sección a instancias del interesado señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien veces el salario mínimo diario vigente en el estado, sanción que se hará efectiva si la autoridad no la expidiere. Si resultase falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
 
-Por su parte, las secciones, la cámara o el tribunal solicitarán las copias certificadas de constancias que estimen necesarias para el procedimiento, y si la autoridad de quien las solicita sen no (sic) la remite dentro del plazo discrecional que se le señale, se le impondrá la multa a que se refiere el párrafo anterior.
+Las autoridades estarán obligadas a expedir dichas copias certificadas, sin demora, y si no lo hicieren, la sección a instancias (sic) del interesado señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien Unidades de Medida y Actualización, sanción que se hará efectiva si la autoridad no la expidiere. Si resultase falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
 
-ART. 37.- Las secciones, la cámara y el tribunal podrán solicitar, por o si o a instancia de los interesados, los documentos o expedientes originales ya concluidos, y las autoridades de quienes se soliciten tendrán la obligación de remitirlos. En caso de incumplimiento, se apliccará (sic) la corrección dispuesta en el artículo anterior. Dictada la resolución definitiva en el procedimiento de los documentos y expedientes mencionados deberán ser devueltos a la oficina de su procedencia, pudiendo dejarse copia certificada de las constancias que las secciones, la cámara y el tribunal estimen pertinentes.
+Por su parte, las secciones, la camara o el tribunal solicitarán las copias certificadas de constancias que estimen necesarias para el procedimiento, y si la autoridad de quien las solicita sen no (sic) la remite dentro del plazo discrecional que se le señale, se le impondrá la multa a que se refiere el párrafo anterior.
 
-ART. 38.- La cámara de diputados y el tribunal superior de justicia no podrá erigirse en órgano de acusación o jurado de sentencia, sin que antes se compruebe fehacientemente que el servidor público y su defensor, el denunciante o el querellante y en su caso el ministerio público han sido debidamente citados.
+ART. 37.- Las secciones, la camara y el tribunal podrán solicitar, por o si o a instancia de los interesados, los documentos o expedientes originales ya concluidos, y las autoridades de quienes se soliciten tendrán la obligación de remitirlos. En caso de incumplimiento, se apliccará (sic) la corrección dispuesta en el artículo anterior. Dictada la resolución definitiva en el procedimiento de los documentos y expedientes mencionados deberán ser devueltos a la oficina de su procedencia, pudiendo dejarse copia certificada de las constancias que las secciones, la cámara y el tribunal estimen pertinentes.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+ART. 38.- La Cámara de Diputados y el Tribunal Superior de Justicia no podrá erigirse en órgano de acusación o jurado de sentencia, sin que antes se compruebe fehacientemente que el servidor público y su defensor, así como el denunciante han sido debidamente citados.
 
 ART. 39.- No podrán votar en ningún caso los diputados o magistrados que hubiesen presentado la imputación contra el servidor público. Tampoco podrán hacerlo los diputados o magistrados que hayan aceptado el cargo de defensor, aun cuando lo renuncien después de haber comenzado a ejercer el cargo.
 
-ART. 40.- En todo lo no previsto por esta Ley, en las discusiones y votaciones se observarán, en lo aplicable, las reglas que establecen la constitución política del estado, las leyes orgánica y reglamentos correspondientes. En todo caso, las votaciones deberán ser precesamente (sic) nominales para formular, aprobar o reprobar los dictámenes de las secciones y para resolver incidental o definitivamente en el procedimiento.
+ART. 40.- En todo lo no previsto por esta Ley, en las discusiones y votaciones se observarán, en lo aplicable, las reglas que establecen la constitución política del estado, las leyes orgánicas y reglamentos correspondientes. En todo caso, las votaciones deberán ser precesamente (sic) nominales para formular, aprobar o reprobar los dictámenes de las secciones y para resolver incidental o definitivamente en el procedimiento.
 
-ART. 41.- En el juicio político al que se refiere esta Ley, todos los acuerdos y determinaciones de la cámara y del tribunal se tomarán en sesión pública, excepto en la que se presenta la acusación o cuando las buenas costumbres o el interés general exijan que la audiencia sea secreta.
+ART. 41.- En el juicio político al que se refiere esta Ley, todos los acuerdos y determinaciones de la camara y del tribunal se tomarán en sesión pública, excepto en la que se presenta la acusación o cuando las buenas costumbres o el interés general exijan que la audiencia sea secreta.
 
-ART. 42.- Cuando en el curso del procedimiento a un servidor público de los mencionados en los artículos 68 y 69 de la cconstitución (sic) local se presentare nueva denuncia en su contra, se procederá respecto a ella con arreglo a esta Ley hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procesal.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2019)</small>
+
+ART. 42.- Cuando en el curso del procedimiento a un servidor público de los mencionados en el artículo 68 de la Constitución Local se presentare nueva denuncia en su contra, se procederá respecto a ella con arreglo a esta Ley hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procesal.
 
 Si la acumulación fuese procedente, la sección formulará en un solo documento sus conclusiones, que comprenderán el resultado de los diversos procedimientos.
 
-ART. 43.- Las secciones, la cámara y el tribunal podrán disponer las medidas de apercibimiento que fueren procedentes, mediante acuerdo de la mayoría de sus miembros presentes en la sesión respectiva.
+ART. 43.- Las secciones, la camara y el tribunal podrán disponer las medidas de apercibimiento que fueren procedentes, mediante acuerdo de la mayoría de sus miembros presentes en la sesión respectiva.
 
-ART. 44.- Las declaracciones (sic)o resoluciones aprobadas por la cámara y el tribunal con arreglo a esta Ley, se comunicarán a la dependencia a que pertenesca (sic) el acusado salvo que fuere la misma cámara que hubiese dictado la declaración o resolución o al tribunal y en todo caso al ejecutivo para su conocimiento y efectos legales y para su publicación en el periódico oficial del estado.
+ART. 44.- Las declaracciones (sic) o resoluciones aprobadas por la cámara y el tribunal con arreglo a esta Ley, se comunicarán a la dependencia a que pertenesca (sic) el acusado salvo que fuere la misma camara que hubiese dictado la declaración o resolución o al tribunal y en todo caso al ejecutivo para su conocimiento y efectos legales y para su publicación en el periódico oficial del estado.
 
-ART. 45.- En todas las cuestiones relativas al procedimiento no previsto en esta Ley, así como en la apreciación de las pruebas, se observarán las disposiciones del código de procedimientos penales vigente en el estado: asimismo se atenderán en lo conducente, las del código penal.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+ART. 45.- En todas las cuestiones relativas al procedimiento no previsto en esta Ley, así como en la apreciación y valoración de las pruebas, se observarán las disposiciones del Código Nacional de Procedimientos Penales; asimismo se atenderán en lo conducente, las del Código Penal.
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 2017)</small>
 
@@ -421,7 +427,7 @@ QUINTO. En lo que respecta a las declaraciones de situación patrimonial del añ
 
 P.O. 15 DE JULIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 109 POR EL QUE "SE REFORMAN: LA DENOMINACIÓN Y LOS ARTÍCULOS 1, 2, 3 Y 4; SE DEROGAN, EL TÍTULO TERCERO, CAPÍTULOS I Y II, INTEGRADOS POR LOS ARTÍCULOS 46 AL 78; Y EL TÍTULO CUARTO, CAPÍTULO ÚNICO, INTEGRADO POR LOS ARTÍCULOS DEL 79 AL 90, TODOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS QUE REGLAMENTA EL TÍTULO SÉPTIMO DE LA LEY FUNDAMENTAL DEL ESTADO DE TABASCO".]
+## [N. DE E. TRANSITORIOS DEL DECRETO 109 POR EL QUE “SE REFORMAN: LA DENOMINACIÓN Y LOS ARTÍCULOS 1, 2, 3 Y 4; SE DEROGAN, EL TÍTULO TERCERO, CAPÍTULOS I Y II, INTEGRADOS POR LOS ARTÍCULOS 46 AL 78; Y EL TÍTULO CUARTO, CAPÍTULO ÚNICO, INTEGRADO POR LOS ARTÍCULOS DEL 79 AL 90, TODOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS QUE REGLAMENTA EL TÍTULO SÉPTIMO DE LA LEY FUNDAMENTAL DEL ESTADO DE TABASCO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco, sin perjuicio de lo previsto en los transitorios siguientes.
 
@@ -430,3 +436,15 @@ SEGUNDO. Conforme a lo establecido en el Decreto por el que se expiden la Ley Ge
 A la fecha de entrada en vigor de la Ley General de Responsabilidades Administrativas, todas las menciones a la Ley de Responsabilidades de los Servidores Públicos realizadas en las leyes del Estado de Tabasco, así como en cualquier otra disposición jurídica, se entenderán referidas a la citada Ley General de Responsabilidades Administrativas, siempre y cuando tales menciones se refieran a procedimientos de responsabilidades administrativas.
 
 TERCERO. En un plazo no mayor a 45 días posteriores a la publicación del presente Decreto, el Congreso del Estado realizará las modificaciones necesarias a las leyes orgánicas y secundarias que resulten procedentes, derivado de la nueva ley que se emite mediante el presente Decreto.
+
+P.O. 15 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 103 POR EL QUE “SE REFORMAN, LA DENOMINACIÓN DE LA LEY, PARA QUEDAR COMO "LEY DE RESPONSABILIDAD ADMINISTRATIVA DE LOS SERVIDORES PÚBLICOS, REGLAMENTARIA DEL ARTÍCULO 68, DEL TÍTULO VII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO", LOS ARTÍCULOS 1, PÁRRAFO PRIMERO, 2, 4, 11, 31, 36, PÁRRAFOS PRIMERO Y SEGUNDO, 38, 42, PÁRRAFO PRIMERO, Y 45, ASÍ COMO EL TÍTULO SEGUNDO, Y EL CAPÍTULO IV DEL TÍTULO SEGUNDO; Y SE DEROGAN LOS ARTÍCULOS 25, 26, 27, 28 Y 29, ASÍ COMO EL CAPÍTULO III DEL TÍTULO SEGUNDO; TODOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, REGLAMENTARIA DE LOS ARTÍCULOS 68 Y 69, DEL TÍTULO VII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al contenido del presente Decreto.
