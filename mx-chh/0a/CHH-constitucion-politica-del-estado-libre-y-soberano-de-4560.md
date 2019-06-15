@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2019-03-16"
+last_updated: "2019-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -100,6 +100,10 @@ Toda persona tiene derecho a la identidad. El Estado garantizará que el registr
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2014)</small>
 
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+Todas las mujeres en el Estado tienen derecho a una protección y atención efectiva contra todo tipo de violencia. El incumplimiento de este derecho será sancionado por la Ley.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
 
@@ -5061,7 +5065,7 @@ Conforme a lo dispuesto por el artículo 202 de la Constitución Política del E
 
 P.O. 4 DE AGOSTO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/CUMRL/0843/2018 XV P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 106, QUINTO PARRAFO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS PRECEPTOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA. PARA DAR CUMPLIMIENTO A LA RESOLUCIÓN DE LA CONTROVERSIA CONSTITUCIONAL 179/2017".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/CUMRL/0843/2018 XV P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 106, QUINTO PÁRRAFO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS PRECEPTOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA. PARA DAR CUMPLIMIENTO A LA RESOLUCIÓN DE LA CONTROVERSIA CONSTITUCIONAL 179/2017".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -5126,3 +5130,15 @@ Conforme a lo dispuesto por el artículo 202 de la Constitución Política del E
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 15 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFCNT/0853/2018 XVI P.E. MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO AL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de Debates del H. Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, previo a su publicación en el Periódico Oficial del Estado, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
