@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-71585"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-12"
-last_updated: "2019-04-17"
+last_updated: "2019-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de diciembre de 2009.
 
@@ -833,7 +833,7 @@ En materia de salud sexual y reproductiva las actividades de promoción y orient
 
 ###### ARTÍCULO 71.
 
-El Gobierno del Estado, coadyuvará con la Secretaría de Salud Federal, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud, y cuidará que se incorporen en los programas estatales de salud.
+El Gobierno del Estado, coadyuvará con la Secretaría de Salud Federal, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud; y cuidará que se incorporen en los programas estatales de salud.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
@@ -935,9 +935,11 @@ La Secretaría de Salud establecerá campañas que promuevan el consumo de alime
 
 La Secretaría de Salud, en coordinación con la Secretaría de Educación, desarrollarán acciones tendientes a desalentar en los niños el consumo de alimentos poco nutritivos como: golosinas, frituras y alimentos de bajo valor nutricional, fomentando el consumo de verduras y frutas, mediante la recomendación a la población en general y a los padres de familia durante las asambleas ordinarias que se lleven a cabo en las escuelas.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
+
 ###### ARTÍCULO 87.
 
-Queda prohibida la venta de alimentos y golosinas preparados con predominio de carbohidratos refinados y grasas vegetales en su forma sólida que contengan ácidos grasos hidrogenados en su forma trans, dentro de las escuelas de educación básica, centros de recreación y deporte de niños y adolescentes, en guarderías y centros de desarrollo infantil, y cualquier otro establecimiento escolar que se encargue de la enseñanza, educación y cuidados de lactantes, preescolares, niños y adolescentes, asimismo se prohíbe la instalación de maquinas expendedoras de productos industrializados (alimentos y bebidas). La Secretaría de Salud emitirá la lista de estos productos que lo contengan.
+Queda prohibida la venta de alimentos y golosinas preparados con predominio de carbohidratos refinados y grasas vegetales en su forma sólida que contengan ácidos grasos hidrogenados en su forma trans, dentro de las escuelas de educación básica, centros de recreación y deporte de niños y adolescentes, en guarderías y centros de desarrollo infantil, y cualquier otro establecimiento escolar que se encargue de la enseñanza, educación y cuidados de lactantes, preescolares, niños y adolescentes, así como en los hospitales públicos y privados, clínicas y centros de salud; asimismo se prohíbe la instalación de máquinas expendedoras de productos industrializados (alimentos y bebidas). La Secretaría de Salud emitirá la lista de estos productos que lo contengan.
 
 ###### ARTÍCULO 88.
 
@@ -4080,6 +4082,18 @@ Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el sa
 P.O. 17 DE ABRIL DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO 082 POR EL QUE “SE ADICIONAN LOS ARTÍCULOS 101 BIS Y 101 TER, ASÍ COMO EL CAPÍTULO XI BIS, AL TÍTULO TERCERO, TODOS DE LA LEY DE SALUD DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 15 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 104 POR EL QUE “SE REFORMA EL ARTÍCULO 87 DE LA LEY DE SALUD DEL ESTADO DE TABASCO”.]
 
 ###### ARTÍCULO PRIMERO.
 
