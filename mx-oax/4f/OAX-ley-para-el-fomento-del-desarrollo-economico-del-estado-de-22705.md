@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-fomento-del-desarrollo-economico-del-estado-de-2270
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-06"
-last_updated: "2017-12-26"
+last_updated: "2019-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 6 de octubre del 2001.
 
@@ -89,7 +89,9 @@ IV.- Consejo Regional: Consejo Regional Consultivo de Fomento del Desarrollo Eco
 
 V.- Consejo Municipal: Consejos Municipales Consultivos de Fomento del Desarrollo Económico;
 
-VI.- Fomento del Desarrollo Económico: Es toda acción encaminada a promover sobre bases sustentables y equitativas para todos los grupos sociales, las actividades productivas de los sectores público, privado y social, en todas las ramas de la actividad económica, impulsando su crecimiento integral y equilibrado;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+VI.- Fomento del Desarrollo Económico: Es toda acción encaminada a promover sobre bases sustentables y equitativas para todos los grupos sociales, las actividades productivas de los sectores público, privado y social, en todas las ramas de la actividad económica, impulsando su crecimiento integral y equilibrado, observando la paridad y perspectiva de género;
 
 VII.- Plan Estatal: Plan Estatal de Desarrollo del Estado de Oaxaca;
 
@@ -117,11 +119,11 @@ II.- Consejos Estatal, Regionales y Municipales, cuyas funciones estarán regula
 
 III.- Gobierno Municipal.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2019)</small>
 
-###### ARTICULO 4º.
+###### ARTICULO 4°.
 
-Los Consejos Estatal, Regionales y Municipales, son los órganos técnicos y de asesoría del Ejecutivo Estatal y de los gobiernos municipales, para la promoción de las actividades de fomento del desarrollo integral de la Entidad, quienes además impulsarán programas para la inclusión en la vida productiva de sectores vulnerables, y las consideradas como Zonas Económicas Especiales.
+Los Consejos Estatal, Regionales y Municipales son los órganos técnicos y de asesoría del Ejecutivo Estatal y de los gobiernos municipales, para la promoción de las actividades de fomento del desarrollo integral de la Entidad, quienes además impulsarán programas para la inclusión en la vida productiva de sectores vulnerables, observando la paridad y perspectiva de género, en especial impulsarán las consideradas como Zonas Económicas Especiales.
 
 En todos ellos participarán, además de los servidores públicos que correspondan, los representantes de los sectores productivos social y privado, así como las instituciones de educación media superior y superior e investigación científica. Sus atribuciones se especificarán en el reglamento de esta Ley, en coordinación y de conformidad con lo dispuesto en la Ley de Planeación del Estado de Oaxaca.
 
@@ -137,9 +139,11 @@ El Gobierno del Estado y los gobiernos municipales promoverán y apoyarán la cr
 
 ### CAPITULO I. DE LOS PLANES Y PROGRAMAS DE FOMENTO DEL DESARROLLO ECONOMICO
 
-###### ARTICULO 7º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2019)</small>
 
-Para el fomento del desarrollo económico del Estado de Oaxaca, se implementarán planes y programas estatales, regionales y municipales de desarrollo, los cuales precisarán los objetivos, estrategias y prioridades del desarrollo integral del Estado, en los términos que señale la Ley de Planeación del Estado de Oaxaca y los convenios que se suscriban para tal efecto a través del COPLADE.
+###### ARTICULO 7°.
+
+Para el fomento del desarrollo económico del Estado de Oaxaca, se implementarán planes y programas estatales, regionales y municipales de desarrollo, los cuales precisarán los objetivos, estrategias y prioridades del desarrollo integral del Estado, en los términos que señale la Ley Estatal de Planeación y los convenios que se suscriban para tal efecto a través de la Coordinación General del COPLADE, observando la paridad y perspectiva de género.
 
 Los ayuntamientos elaborarán sus planes municipales y los programas operativos anuales.
 
@@ -492,3 +496,11 @@ P.O. 26 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
 
 SEGUNDO. La Secretaría de Economía dentro del plazo de ciento ochenta días posteriores a la entrada en vigor del presente decreto, elaborará un catálogo de los productos oaxaqueños que cumplan con las normas oficiales y elaborará un plan de promoción y publicidad respecto de los mismos, conforme a lo dispuesto en el presente Decreto.
+
+P.O. 15 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 597.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
