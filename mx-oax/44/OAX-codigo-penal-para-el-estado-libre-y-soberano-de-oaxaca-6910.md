@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2019-05-15"
+last_updated: "2019-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -2857,6 +2857,10 @@ I.- Al que dispare sobre alguna persona un arma de fuego;
 
 II.- Al que ataque a alguien de tal manera que, en razón del arma empleada, de la fuerza o destreza del agresor, o de cualquiera otra circunstancia semejante, pueda producir como resultado la muerte.
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+III.- Al que dispare un arma de fuego sin causa justificada.
+
 Si con los actos a que se refiere este artículo se causare algún daño, se aplicará la sanción que corresponda al delito que se haya realizado con la ejecución de dichos actos salvo el caso que dicha sanción sea menor que la señalada en este artículo.
 
 ### CAPITULO III.
@@ -4043,13 +4047,21 @@ Este delito se perseguirá por querella.
 
 ### CAPITULO V. Violencia Política
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
 
-412 TER.- Violencia Política es toda acción u omisión realizada por sí o a través de terceros que cause daño físico, psicológico, económico o sexual en contra de una o varias mujeres y/o de cualquier miembro de su familia, para restringir, suspender, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos-electorales o de las prerrogativas inherentes a un cargo público, o inducirla u obligarla a tomar decisiones de la misma índole en contra de su voluntad.
+412 TER.- Violencia Política es toda acción u omisión realizada por sí o a través de terceros que cause daño físico, psicológico, económico o sexual en contra de una o varias personas y/o de cualquier miembro de su familia, para restringir, suspender, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos-electorales o de las prerrogativas inherentes a un cargo público, o inducirla u obligarla a tomar decisiones de la misma índole en contra de su voluntad.
 
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 412 QUÁTER.- A quien cometa el delito de Violencia Política se impondrá prisión de dos a seis años y de cien a doscientas veces el valor diario de la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+Si la conducta descrita en el artículo anterior se comete en contra de una o varias mujeres, se agrava la pena de tres a ocho años de prisión y de ciento cincuenta a doscientas veces el valor diario de la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+Este delito se perseguirá de oficio.
 
 > <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)</small>
 
@@ -4800,3 +4812,19 @@ P.O. 15 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 610.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 609.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 15 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 615.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
