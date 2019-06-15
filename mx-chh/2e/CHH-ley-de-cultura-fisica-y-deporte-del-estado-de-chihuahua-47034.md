@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2019-05-15"
+last_updated: "2019-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -101,11 +101,11 @@ VII Bis. Incentivar la actividad deportiva que se desarrolla en forma organizada
 
 VIII.- Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2019)</small>
 
-IX.- Garantizar a todas las personas la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen, sin distinción de origen étnico o nacional, sexo, género, orientación sexual, edad, discapacidad, estatura corporal, condición social, de salud, embarazo, lengua, religión, opiniones o estado civil.
+IX.- Garantizar a todas las personas la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen, sin discriminación por origen étnico o nacional, sexo, género, orientación sexual, edad, discapacidad, estatura corporal, condición social, de salud, embarazo, lengua, religión, opiniones o estado civil.
 
-X.- Que los deportistas con algún tipo de discapacidad no sean objeto de discriminación alguna, siempre que las actividades a realizar no pongan en peligro su integridad; y
+X.- (DEROGADA, P.O. 15 DE JUNIO DE 2019)
 
 XI.- Las demás que esta Ley, su Reglamento y otras disposiciones determinen.
 
@@ -1539,6 +1539,8 @@ Para tal efecto, emitirá los lineamientos necesarios en los que se determine el
 
 ### CAPÍTULO CUARTO. DEL ESTÍMULO A LA CULTURA FÍSICA Y AL DEPORTE
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
+
 ###### Artículo 87.
 
 El Instituto promoverá, en coordinación con la Secretaría, el desarrollo e investigación en las áreas de Medicina Deportiva, Biomecánica, Control del Dopaje, Psicología del Deporte, Nutrición y demás ciencias aplicadas al deporte, así como las que se requieran para la práctica óptima de la cultura física y deporte.
@@ -1583,9 +1585,9 @@ Las instancias correspondientes, verificarán y certificarán que los laboratori
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
-###### Artículo 93.
+###### ARTÍCULO 93.
 
-Corresponde al Instituto y a los organismos de los sectores públicos otorgar y promover, en el ámbito de sus respectivas competencias, ayudas, premios, subvenciones y reconocimientos a los deportistas, técnicos y organismos de cultura física y deporte, ajustándose a lo dispuesto en la presente Ley, su Reglamento y, en su caso, en la convocatoria correspondiente.
+Corresponde al Instituto y a los organismos de los sectores públicos otorgar y promover, en el ámbito de sus respectivas competencias, ayudas, premios, subvenciones y un esquema permanente de reconocimientos a los deportistas, técnicos y organismos de cultura física y deporte, ajustándose a lo dispuesto en la presente Ley, su Reglamento y, en su caso, en la convocatoria correspondiente; respetando el principio de igualdad sustantiva y no discriminación, contemplado en el artículo 2, fracción IX, de la presente Ley.
 
 ###### Artículo 94.
 
@@ -2436,3 +2438,11 @@ P.O. 15 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVI/RFLEY/0324/2019 II P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 70-A, TERCER PÁRRAFO Y SE LE ADICIONA UN CUARTO Y QUINTO PÁRRAFOS, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0331/2019 II P.O., MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
