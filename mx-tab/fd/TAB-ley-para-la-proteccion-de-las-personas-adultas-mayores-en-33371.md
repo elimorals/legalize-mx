@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-proteccion-de-las-personas-adultas-mayores-en-33371
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-17"
-last_updated: "2017-07-05"
+last_updated: "2019-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # LEY PARA LA PROTECCION DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TABASCO
 
-LEY PARA LA PROTECCION DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TABASCO
+LEY PARA LA PROTECCIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el 17 de mayo de 2003
 
@@ -79,9 +79,17 @@ X. Ley: La Ley para la Protección de las Personas Adultas Mayores en el Estado 
 
 XI. Municipios: Los municipios que integran el Estado Libre y Soberano de Tabasco;
 
-XII. Personas Adultas Mayores: Aquel hombre o mujer que tenga sesenta años o más, con domicilio en el Estado de Tabasco o que se encuentre de paso por el mismo y que será denominado indistintamente, persona senescente o de la tercera edad; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2019)</small>
 
-XIII. Procuraduría: La Procuraduría para la Defensa del Menor y la Familia.
+XII. Personas Adultas Mayores: Aquel hombre o mujer que tenga sesenta años o más, con domicilio en el Estado de Tabasco o que se encuentre de paso por el mismo;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+XII Bis. Preferente: Acción de atender de manera especial y dar trato respetuoso y personalizado a la persona adulta mayor; y
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+XIII. Procuraduría: La Procuraduría de Protección de la Familia y de los Derechos de las Niñas, Niños y Adolescentes.
 
 Las personas adultas mayores a que se refiere esta Ley, pueden encontrarse en cualesquiera de las siguientes condiciones:
 
@@ -103,7 +111,9 @@ II. A las demás Dependencias y Entidades de la Administración Pública Estatal
 
 III. Los presidentes municipales y solidariamente los Ayuntamientos;
 
-IV. La Procuraduría para la Defensa del Menor y la Familia; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+IV. La Procuraduría; y
 
 V. La familia de la persona adulta mayor.
 
@@ -129,9 +139,11 @@ V. Atención preferente. Es aquella que obliga a las instituciones, estatales y 
 
 ### CAPÍTULO TERCERO. DE LOS OBJETIVOS FUNDAMENTALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2019)</small>
+
 ###### Artículo 5.
 
-La protección de los derechos de los adultos de la tercera edad tiene como objetivos fundamentales:
+La protección de los derechos de las personas adultas mayores tiene como objetivos fundamentales:
 
 I. Garantizar condiciones que les permitan una buena calidad de vida, en los aspectos físico y mental para que puedan seguir gozando una vida productiva dentro y fuera del seno familiar, con el objetivo de reforzar su autoestima y cuidar su dignidad humana;
 
@@ -139,7 +151,9 @@ II. Brindar atención especial y de calidad, en las instituciones públicas y pr
 
 III. Aplicar sanciones conforme a derecho, a aquel o aquella persona física o jurídica colectiva, pública o privada, que cometa actos físicos o morales, de discriminación o segregación contra el adulto mayor;
 
-IV. Fomentar valores de respeto, de solidaridad, de protección y cuidado hacia el adulto de la tercera edad en la escuela, en la familia, por medio de la radio, la televisión y demás medios de comunicación, así como en el personal que labora en las instituciones públicas y privadas; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+IV. Fomentar valores de respeto, de solidaridad, de protección y cuidado hacia las personas adultas mayores en la escuela, en la familia, por medio de la radio, la televisión y demás medios de comunicación, así como en el personal que labora en las instituciones públicas y privadas; y
 
 V. Ampliar y garantizar a las personas adultas mayores, el acceso a nuevas oportunidades de educación y capacitación, así como de actividades recreativas que fomenten su autoestima.
 
@@ -169,7 +183,9 @@ h) A vivir en entornos seguros dignos y decorosos, que cumplan con sus necesidad
 
 II. De la certeza jurídica:
 
-a) A recibir un trato digno y apropiado en cualquier procedimiento administrativo o judicial que los involucre de cualquier manera;
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+a) A recibir un trato digno y preferente en cualquier procedimiento administrativo o judicial que los involucre de cualquier manera;
 
 b) A recibir el apoyo de las instituciones, estatales y municipales en el ejercicio y respeto de sus derechos;
 
@@ -235,9 +251,11 @@ El Poder Ejecutivo, por conducto de la Secretaría de Desarrollo Económico y Tu
 
 ### CAPÍTULO QUINTO. DE LAS OBLIGACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2019)</small>
+
 ###### Artículo 9.
 
-Las personas consideradas en esta Ley como adultos mayores, tendrán los (sic) siguientes obligaciones:
+Las personas consideradas en esta Ley como adultos mayores, tendrán las siguientes obligaciones:
 
 I. Proporcionar a los órganos competentes, la información que conforme a sus atribuciones, les requiera sobre su persona;
 
@@ -307,7 +325,9 @@ II. En materia de Transporte:
 
 a) El derecho de las personas adultas mayores para acceder con facilidad y seguridad a los servicios y programas que en esta materia ejecuten los gobiernos estatal y municipal;
 
-b) La celebración de acuerdos con aerolíneas y empresas de transporte terrestre y marítimo, local, nacional e internacional, para que otorguen tarifas preferenciales a las personas de la tercera edad;
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+b) La celebración de acuerdos con aerolíneas y empresas de transporte terrestre y marítimo, local, nacional e internacional, para que otorguen tarifas preferenciales a las personas adultas mayores;
 
 c) Que los concesionarios y permisionarios de servicios públicos de transporte, cuenten en sus unidades con el equipamiento adecuado para que las personas adultas mayores hagan uso del servicio con seguridad y comodidad;
 
@@ -387,7 +407,9 @@ I. Impulsar la participación de las personas adultas mayores en actividades de 
 
 II. Promover la coordinación con las Secretarías de la Administración Pública Estatal o de las dependencias en los Ayuntamientos, actividades de recreación y turísticas diseñadas para personas adultas mayores;
 
-III. Ejecutar la (sic) acciones necesarias a fin de que en parques, jardines, kioscos, plazas públicas, teatros al aire libre y demás lugares públicos destinados a la recreación, se cuente con los espacios y actividades que faciliten la integración de las personas adultas mayores;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+III. Ejecutar las acciones necesarias a fin de que en parques, jardines, kioscos, plazas públicas, teatros al aire libre y demás lugares públicos destinados a la recreación, se cuente con los espacios y actividades que faciliten la integración de las personas adultas mayores;
 
 IV. Difundir permanentemente a través de los medios de comunicación masiva, las actividades, que se realizan a favor de las personas adultas mayores;
 
@@ -415,7 +437,9 @@ VI. Convenir con las universidades, la rotación de los pasantes del servicio so
 
 VII. Gestiones para apoyar y proteger a los grupos de personas adultas mayores en situación de vulnerabilidad social o familiar;
 
-VIII. Los cuidados proporcionados a las personas adultas mayores por las instituciones públicas o privadas que en los términos de ley tengan a su cargo a estas personas; comprenderán enunciativamente los siguientes aspectos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE JUNIO DE 2019)</small>
+
+VIII. Los cuidados proporcionados a las personas adultas mayores por las instituciones públicas o privadas que en los términos de ley tengan a su cargo a estas personas serán preferentes, y comprenderán enunciativamente los siguientes aspectos:
 
 a) Las personas adultas mayores tendrán el derecho de ser examinados cuando menos cada seis meses, para verificar el estado general de su salud y recibir conforme los recursos o previsiones legales lo permitan, los tratamientos que requieran en caso de enfermedad;
 
@@ -467,7 +491,9 @@ IV. Impulsar y promover el reconocimiento y ejercicio de los derechos de las per
 
 V. Promover a través de la Procuraduría, mediante la vía conciliatoria, la solución a la problemática familiar, cuando no se trate de delitos tipificados por el Código Penal o infracciones previstas en la Ley para la Prevención y Tratamiento de la Violencia Intrafamiliar para el Estado;
 
-VI. Recibir a través de la Procuraduría de la Defensa del Menor y la Familia, quejas, denuncias e informes, sobre la violación de los derechos de las personas adultas mayores, dándole el trámite que establece la ley de la materia o en su caso, hacerlo del conocimiento de las autoridades competentes;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+VI. Recibir a través de la Procuraduría, quejas, denuncias e informes, sobre la violación de los derechos de las personas adultas mayores, dándole el trámite que establece la ley de la materia o en su caso, hacerlo del conocimiento de las autoridades competentes;
 
 VII. Comunicar a las autoridades competentes, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación, y en general cualquier acto que perjudique a las personas adultas mayores, que detecte en el ejercicio de sus atribuciones, cuando no sean competencia de la Procuraduría;
 
@@ -499,7 +525,9 @@ II. Estimular la creación de parques y centros recreativos para las personas ad
 
 III. Estimular mediante exenciones fiscales permitidas conforme a la ley de la materia, a las personas que efectúen donaciones en especie o en efectivo a favor de las instituciones públicas, o en su caso, privadas, que tiendan al cuidado de las personas adultas mayores;
 
-IV. Buscar e implementar los mecanismos legales que permitan a los adultos de la tercera edad, el disfrute de los servicios públicos que le corresponden;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+IV. Buscar e implementar los mecanismos legales que permitan a las personas adultas mayores, el disfrute preferente de los servicios públicos que le corresponden;
 
 V. Implementar los programas necesarios, a efecto de promover el empleo para las personas adultas mayores, tanto en el sector público como privado, atendiendo a su profesión u oficio, y a su experiencia y conocimientos teóricos y prácticos, sin más restricciones que su limitación física o mental;
 
@@ -717,9 +745,11 @@ II. Multa de 30 a 180 veces el valor diario de la Unidad de Medida y Actualizaci
 
 III. Arresto hasta por treinta y seis horas.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
+
 ###### Artículo 33.
 
-La aplicación de una sanción estará debidamente fundada y motivada y será independiente de la aplicación de otras sanciones de índole civil o penal a que hubiere lugar. Será aplicada, acorde a su naturaleza, tratándose de la amonestación y del arresto, por el Procurador de la Defensa del Menor y la Familia.
+La aplicación de una sanción estará debidamente fundada y motivada y será independiente de la aplicación de otras sanciones de índole civil o penal a que hubiere lugar. Será aplicada, acorde a su naturaleza, tratándose de la amonestación y del arresto, por la Procuraduría.
 
 ###### Artículo 34.
 
@@ -739,9 +769,11 @@ El cobro de las multas impuestas, previo las formalidades, por la autoridad a qu
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
+
 ###### Artículo 36.
 
-Corresponderá a la Procuraduría de la Defensa del Menor y la Familia del Estado, realizar las investigaciones que estén dirigidas a conocer de los casos de abandono, desamparo, marginación, abuso, explotación y maltrato que afecten a las personas adultas mayores, ejecutando las medidas necesarias para su adecuada protección.
+Corresponderá a la Procuraduría, realizar las investigaciones que estén dirigidas a conocer de los casos de abandono, desamparo, marginación, abuso, explotación y maltrato que afecten a las personas adultas mayores, ejecutando las medidas necesarias para su adecuada protección.
 
 ###### Artículo 37.
 
@@ -894,3 +926,11 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 15 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 106 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES XII Y XIII, 3, FRACCIÓN IV, 5, PÁRRAFO PRIMERO Y FRACCIÓN IV, 6, FRACCIÓN II, INCISO A), 9, PÁRRAFO PRIMERO, 11, FRACCIÓN II, INCISO B), 15, FRACCIÓN III, 16, FRACCIÓN VIII, 17, FRACCIÓN VI, 19, FRACCIÓN IV, 33 Y 36; Y SE ADICIONA UNA FRACCIÓN XII BIS AL ARTÍCULO 2; TODOS DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
