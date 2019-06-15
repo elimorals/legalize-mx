@@ -4,7 +4,7 @@ identifier: "TAB-ley-electoral-y-de-partidos-politicos-del-estado-de-tabasco-101
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2017-07-05"
+last_updated: "2019-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ELECTORAL Y DE PARTIDOS POLÍTICOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 2 de julio de 2014.
 
@@ -33,7 +33,9 @@ Que el H. Congreso del Estado se ha servido dirigirme lo siguiente:
 
 LA SEXAGÉSIMA PRIMERA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS POR EL ARTÍCULO 36, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO, Y CON BASE EN LOS SIGUIENTES:
 
-ANTECEDENTES…
+ANTECEDENTES
+
+[...]
 
 SÉPTIMO.- Que este Honorable Congreso, de conformidad con lo dispuesto por el artículo 36, fracción I de la Constitución Política Local, se encuentra facultado para expedir, reformar, adicionar, derogar y abrogar las leyes y decretos para la mejor administración del Estado, planeando su desarrollo económico y social. Por lo que se emite y somete a consideración del Pleno el siguiente:
 
@@ -185,9 +187,11 @@ XVI. Partidos Políticos: Los partidos políticos, nacionales o locales, constit
 
 1. El ejercicio del Poder Ejecutivo se deposita en un solo individuo que se denomina Gobernador del Estado Libre y Soberano de Tabasco, electo cada seis años por el principio de mayoría relativa.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
+
 ###### ARTÍCULO 14.
 
-1. El Municipio constituye la base de la división territorial y de la organización política y administrativa del Estado. Su gobierno corresponde a un cuerpo colegiado denominado Ayuntamiento, integrado por un Presidente Municipal, uno o dos síndicos de hacienda según la cantidad de habitantes, ocho regidores de mayoría relativa y demás regidores electos según el principio de representación proporcional, conforme a las normas establecidas en esta Ley.
+1. El Municipio constituye la base de la división territorial y de la organización política y administrativa del Estado. Su gobierno corresponde a un cuerpo colegiado denominado Ayuntamiento, integrado por un Presidente Municipal, un Síndico de Hacienda, una regiduría de mayoría relativa y dos regidurías electas según el principio de representación proporcional, conforme a las normas establecidas en esta Ley.
 
 ###### ARTÍCULO 15.
 
@@ -303,21 +307,17 @@ V. En el supuesto de que al realizar la distribución de diputaciones conforme a
 
 ###### ARTÍCULO 24.
 
-1. Para la elección de los Ayuntamientos de los Municipios del Estado, se estará a las reglas siguientes:
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
 
-I. Se aplicarán los Principios de Mayoría Relativa y de Representación Proporcional, con dominante mayoritaria, y
-
-II. Los Ayuntamientos se integrarán conforme a los siguientes criterios poblacionales:
-
-a) En los Municipios cuya población sea de cien mil o menos habitantes, los Ayuntamientos tendrán adicionalmente dos Regidores, asignados según el Principio de Representación Proporcional;
-
-b) En aquellos Municipios cuya población sea mayor de cien mil habitantes, se asignarán tres regidores por el principio de representación proporcional, y
-
-c) Por cada Regidor propietario, se elegirá un suplente y ambos deberán cumplir con los requisitos del artículo 64, fracción XI, de la Constitución Local.
+1. Para la elección de los Ayuntamientos de los Municipios del Estado, se aplicarán los principios de mayoría relativa y de representación proporcional, con dominante mayoritaria.
 
 2. Para tener derecho a participar en la asignación de Regidores por el principio de representación proporcional, deberá obtener el tres por ciento o más de la votación emitida en la elección correspondiente.
 
 3. Para los cómputos de la elección de regidores y la asignación de regidores por el principio de representación proporcional se estará a lo dispuesto en los artículos 25 y 26 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2019)</small>
+
+4. Por cada regiduría propietaria, se elegirá un suplente y ambos deberán cumplir con los requisitos del artículo 64, fracción XI, de la Constitución local.
 
 ###### ARTÍCULO 25.
 
@@ -341,11 +341,15 @@ V. Resto Mayor. Es el remanente más alto entre los restos de las votaciones de 
 
 2. La asignación de regidores por el principio de representación proporcional se sujetará al procedimiento siguiente:
 
-I. Una vez establecida la votación municipal emitida, se dividirá entre el número de regidurías de representación proporcional que correspondan al municipio, para obtener el cociente natural;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2019)</small>
 
-II. Se asignará una regiduría a cada partido político cuya votación contenga el cociente natural, en orden decreciente de votación, y
+l. Una vez establecida la votación municipal emitida, se dividirá entre el número de regidurías de representación proporcional que correspondan al municipio, para obtener el cociente natural; y
 
-III. Si quedasen regidurías por asignar, corresponderán al partido o partidos con mayor votación, después de restar la utilizada para la asignación mediante cociente natural.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2019)</small>
+
+II. Se asignará una regiduría a cada partido político cuya votación contenga el cociente natural, en orden decreciente de votación.
+
+III. (DEROGADA, P.O. 15 DE JUNIO DE 2019)
 
 ### CAPÍTULO QUINTO. DE LAS ELECCIONES ORDINARIAS Y EXTRAORDINARIAS
 
@@ -5112,3 +5116,15 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 15 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 107 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 14; 24, NUMERAL 1; Y 26, NUMERAL 2, FRACCIONES I Y II; SE ADICIONA EL NUMERAL 4 AL ARTÍCULO 24; Y SE DEROGA LA FRACCIÓN III DEL NUMERAL 2, DEL ARTÍCULO 26; TODOS DE LA LEY ELECTORAL Y DE PARTIDOS POLÍTICOS DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado; con excepción de la reforma al artículo 36 de la Ley Orgánica de los Municipios del Estado de Tabasco, la cual entrará en vigor a partir de la entrada en funciones de los Ayuntamientos electos para el trienio 2021-2024.
+
+SEGUNDO.- Los síndicos de hacienda y demás regidores electos por los principios de mayoría relativa y de representación proporcional, de los Ayuntamientos que resultaron electos del primero de julio del año 2018 para el trienio 2018-2021, concluirán su cargo conforme al periodo establecido, es decir, el 4 de octubre de 2021.
+
+TERCERO.- Para los efectos del proceso electoral 2021-2024, las planillas de regidores se ajustarán a lo establecido en el presente Decreto.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
