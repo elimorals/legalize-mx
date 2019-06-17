@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2019-06-07"
+last_updated: "2019-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2019.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -1043,7 +1043,9 @@ g) Conceder licencia para separarse de sus cargos al presidente municipal, sínd
 
 h) Crear las dependencias administrativas centralizadas y constituir entidades paramunicipales;
 
-i) Nombrar al secretario, al tesorero y a los titulares de las dependencias y entidades de la administración pública municipal, a propuesta del presidente municipal, prefiriendo en igualdad de circunstancias a los habitantes del Municipio;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE JUNIO DE 2019)</small>
+
+i) Nombrar al secretario y al tesorero de la administración pública municipal, a propuesta del presidente municipal, prefiriendo en igualdad de circunstancias a los habitantes del Municipio;
 
 Remover a los servidores públicos señalados en el párrafo anterior, a propuesta del presidente municipal o de la mayoría simple del Ayuntamiento, en los términos del artículo 126 de esta Ley.
 
@@ -1195,9 +1197,9 @@ XII. Convocar por conducto del secretario, a las sesiones de Ayuntamiento, confo
 
 XIII. Suscribir a nombre y con autorización del Ayuntamiento, los convenios, contratos y demás actos jurídicos que sean necesarios;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
 
-XIV. Proponer al Ayuntamiento, las personas que deban ocupar los cargos de secretario de ayuntamiento, tesorero y a los titulares de las dependencias y entidades de la administración pública municipal;
+XIV. Proponer al Ayuntamiento, las personas que deban ocupar los cargos de secretario de ayuntamiento y tesorero de la administración pública municipal;
 
 XV. Nombrar y remover del cargo, a los servidores públicos municipales no previstos en la fracción anterior, así como conceder o negar licencias;
 
@@ -1821,7 +1823,9 @@ Información sobre la ejecución del Plan y los Programas
 
 Los ayuntamientos en el informe anual del estado que guarda la administración pública municipal, deberán hacer mención de los mecanismos y acciones adoptados para la ejecución del plan y losprogramas (sic), así como de los resultados obtenidos.
 
-Los titulares de las dependencias y entidades de la administración pública municipal que sean convocados por el Ayuntamiento para dar cuenta de la situación que guardan los asuntos de sus respectivas áreas, informarán sobre el cumplimiento del plan y los programas a su cargo.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
+
+Los titulares de las dependencias y entidades de la administración pública deberán rendir informes trimestrales al Ayuntamiento para dar cuenta de la situación que guardan los asuntos de sus respectivas áreas y sobre el ejercicio de sus funciones, informarán sobre el cumplimiento del plan y los programas a su cargo. Sin perjuicio de lo anterior, el Ayuntamiento podrá solicitar información en cualquier tiempo.
 
 Atención presupuestal
 
@@ -2083,11 +2087,15 @@ Los titulares de las dependencias señaladas en el artículo anterior, deberán 
 
 Causales de destitución
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2019)</small>
+
 ###### Artículo 126.
 
-Los titulares de las dependencias señaladas en el artículo 124 de esta Ley, sólo podrán ser destituidos de su cargo, cuando en el desempeño del mismo incurran en alguna de las causales que establece la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+Los titulares de las dependencias señaladas en el artículo 124 de esta Ley, sólo podrán ser destituidos de su cargo, cuando en el desempeño del mismo incurran en alguna de las causales que establece la Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
 
-Para que sea procedente la destitución, deberá observarse lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE JUNIO DE 2019)</small>
+
+Para que sea procedente la destitución, de los titulares contenidos en las fracciones I, II y III del artículo 124, deberá observarse lo siguiente:
 
 I. Cuando la propuesta la formule el Presidente Municipal, se requerirá para su aprobación la mayoría simple del Ayuntamiento; y
 
@@ -4363,7 +4371,7 @@ Artículo Segundo. Los Ayuntamientos contarán con un periodo de 90 días para a
 
 P.O. 15 DE MAYO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 61, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES V Y VI AL ARTÍCULO 83-4 PASANDO LAS ACTUALES FRACCIONES V Y VI A SER VII Y VIII; EL ARTÍCULO 102-1; EL TÍTULO SEXTO CON UN CAPÍTULO V DENOMINADO "DE LA COMISIÓN MUNICIPAL DE LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA" INTEGRADO POR LOS ARTLCULOS 161-1, 161-2, 161-3, 161-4, 161-5 Y 161-6; RECORRIÉNDOSE EL ACTUAL CAPÍTULO V COMO CAPÍTULO VI TODOS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 61, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES V Y VI AL ARTÍCULO 83-4 PASANDO LAS ACTUALES FRACCIONES V Y VI A SER VII Y VIII; EL ARTÍCULO 102-1; EL TÍTULO SEXTO CON UN CAPÍTULO V DENOMINADO "DE LA COMISIÓN MUNICIPAL DE LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA" INTEGRADO POR LOS ARTÍCULOS 161-1, 161-2, 161-3, 161-4, 161-5 Y 161-6; RECORRIÉNDOSE EL ACTUAL CAPÍTULO V COMO CAPÍTULO VI TODOS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
 
@@ -4373,6 +4381,12 @@ Artículo Tercero. Los ayuntamientos contarán con un periodo de 180 días poste
 
 P.O. 7 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 65, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 63 EN SU SEGUNDO PÁRRAFO Y SE ADICIONAN LOS ARTÍCULOS 9-1 Y 82-1 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 65, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 63 EN SU SEGUNDO PÁRRAFO Y SE ADICIONAN LOS ARTÍCULOS 9-1 Y 82-1 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 17 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 64, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 76 FRACCIÓN I, INCISO I; 77 FRACCIÓN XIV; 106 SEGUNDO PÁRRAFO Y 126 PRIMER Y SEGUNDO PÁRRAFOS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
