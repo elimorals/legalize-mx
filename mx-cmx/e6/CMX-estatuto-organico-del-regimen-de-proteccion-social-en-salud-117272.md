@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-regimen-de-proteccion-social-en-salud-117
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-11-17"
-last_updated: "2019-04-08"
+last_updated: "2019-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117272&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2016-10-14"
 
 ESTATUTO ORGÁNICO DEL RÉGIMEN DE PROTECCIÓN SOCIAL EN SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE JUNIO DE 2019.
 
 Estatuto publicado en la Gaceta Oficial de la Ciudad de México, el jueves 17 de noviembre de 2016.
 
@@ -500,9 +500,11 @@ XX.- Participar en la emisión de opiniones y propuestas sobre las políticas, l
 
 XXI.- Las demás que le encomiende el Director General y le correspondan de acuerdo con las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2019)</small>
+
 ###### Artículo 21.
 
-La Subdirección de Administración tendrá entre sus atribuciones:
+La Subdirección de Administración y Finanzas tendrá entre sus atribuciones:
 
 I.- Coordinar la formulación e integración del Programa Operativo Anual del Organismo;
 
@@ -653,3 +655,11 @@ G.O. 8 DE ABRIL DE 2019.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Aviso por el cual se da a conocer las Reformas y Adiciones al Estatuto Orgánico del Régimen de Protección Social en Salud del Distrito Federal, entrará en vigor al día siguiente hábil de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 17 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL QUE SE DA A CONOCER LA REFORMA AL ESTATUTO ORGÁNICO DEL RÉGIMEN DE PROTECCIÓN SOCIAL EN SALUD DEL DISTRITO FEDERAL".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Aviso por el que se da a conocer la Reforma al Estatuto Orgánico del Régimen de Protección Social en Salud del Distrito Federal, entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
