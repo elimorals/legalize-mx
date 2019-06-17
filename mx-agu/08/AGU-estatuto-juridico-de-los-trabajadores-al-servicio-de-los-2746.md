@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2018-07-09"
+last_updated: "2019-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2019.
 
 Estatuto publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -55,9 +55,21 @@ I.- TRABAJADOR.- Toda persona física que presta un servicio personal subordinad
 
 II.- ESTADO.- Concepto que se refiere a los Poderes Legislativo, Ejecutivo y Judicial, a los Municipios y a los organismos públicos descentralizados;
 
-III.- ESTATUTO.- El presente Ordenamiento legal; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
 
-IV.- TRIBUNAL.- El Tribunal de Arbitraje para los trabajadores al servicio de los Gobiernos del Estado, sus Municipios y organismos públicos descentralizados.
+III.- ESTATUTO.- El presente Ordenamiento legal;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
+
+IV.- TRIBUNAL.- El Tribunal de Arbitraje para los trabajadores al servicio de los Gobiernos del Estado, sus Municipios y organismos públicos descentralizados;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2019)</small>
+
+V.- ACOSO LABORAL.- la acción verbal o psicológica de índole sistemática, repetida o persistente por la que, en el lugar de trabajo o en conexión con el trabajo, una persona o un grupo de personas hiere a una víctima, la humilla, ofende o amedrenta; y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2019)</small>
+
+VI.- ACOSO SEXUAL.- Cualquier comportamiento tanto físico como verbal de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona; en particular, cuando se crean un entorno laboral intimidatorio, degradante u ofensivo, esto aun y cuando no exista subordinación de la víctima.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2017)</small>
 
@@ -457,11 +469,15 @@ Son causas de rescisión de la relación de trabajo, sin responsabilidad para el
 
 I.- Incurrir el trabajador durante sus labores, en faltas de probidad y honradez, o en actos de violencia, amagos, injurias y malos tratos contra sus jefes o compañeros, o contra los familiares de unos y otros, ya sea dentro o fuera de las horas de servicio, salvo que medie provocación u obre en defensa propia;
 
-II.- Cuando faltare por más de tres días, durante en (sic) período de treinta días, sin causa justificada o sin el permiso respectivo;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
+
+II.- Cuando faltare por más de tres días, durante un período de treinta días, sin causa justificada o sin el permiso respectivo;
 
 III.- Por destruir intencionalmente edificios, obras, maquinaria, instrumentos, materias primas y demás objetos relacionados con el trabajo;
 
-IV.- Por cometer actos inmorales durante el trabajo;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
+
+IV.- Por cometer el trabajador actos de acoso aboral (sic) o acoso sexual en contra (sic) cualquier trabajador del servicio público, dentro o fuera del centro de trabajo; debiendo en este caso seguirse el procedimiento señalado en el Artículo 29 del presente estatuto.
 
 V.- Por revelar los asuntos secretos o reservados de que tuviere conocimiento con motivo del trabajo;
 
@@ -547,9 +563,17 @@ I.- Modificar unilateralmente el Estado las condiciones de trabajo, excepto en l
 
 II.- La existencia de un peligro grave para la seguridad o salud del trabajador o de su familia, ya sea por carecer de condición higiénica el establecimiento o por que no se cumplan las medidas preventivas y de seguridad que las leyes establecen;
 
-III.- Reducir el Estado el Salario al trabajador; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
 
-IV.- Pagar un salario inferior al mínimo general o profesional.
+III.- Reducir el Estado el Salario al trabajador;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
+
+IV.- Pagar un salario inferior al mínimo general o profesional; y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2019)</small>
+
+V.- Incurrir su jefe inmediato, superior jerárquico, o colaboradores del servicio público, en actos de acoso laboral o acoso sexual, en contra del trabajador.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
 
@@ -819,13 +843,21 @@ XI.- Conceder licencias hasta por cinco días hábiles a sus trabajadores mujere
 
 A.- Por nacimiento de un hijo o hija;
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
 
-B.- Por adopción de un menor, a partir del día en que sea legalmente entregado el niño, la niña, o los niños, al trabajador por la autoridad competente; y
+B.- Por adopción de un menor, a partir del día en que sea legalmente entregado el niño, la niña, o los niños, al trabajador por la autoridad competente;
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
 
-C.- Por enfermedad o accidente que ponga en grave peligro la vida de alguno de sus menores hijos, de su cónyuge, concubina o concubinario.
+C.- Por enfermedad o accidente que ponga en grave peligro la vida de alguno de sus menores hijos, de su cónyuge, concubina o concubinario; y
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2019)</small>
+
+D.- Por enfermedad de sus hijos, cuando por esta razón no sean admitidos en la estancia infantil.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2019)</small>
+
+Todos los supuestos a que se refiere esta Fracción deberán ser acreditados a través de los medios razonables e idóneos.
 
 > <small>(ADICIONADO, P.O. 24 DE JULIO DE 2000)</small>
 
@@ -859,9 +891,21 @@ V.- Evitar la ejecución de actos que pongan en peligro su seguridad y la de sus
 
 VI.- Asistir puntualmente a sus labores;
 
-VII.- Sustraerse a propagandas de toda clase dentro de los edificios, lugares de trabajo u horas de servicio; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
 
-VIII.- Acudir a los centros de capacitación para mejorar su preparación y eficiencia.
+VII.- Sustraerse a propagandas de toda clase dentro de los edificios, lugares de trabajo u horas de servicio;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
+
+VIII.- Acudir a los centros de capacitación para mejorar su preparación y eficiencia;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2019)</small>
+
+IX.- Abstenerse de realizar actos de acoso laboral o acoso sexual contra cualquier persona en el lugar de trabajo o aprovechando el desempeño de sus funciones; y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2019)</small>
+
+X.- Denunciar los actos de acoso laboral o acoso sexual en el centro de trabajo o en el desempeño del servicio público.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE OCTUBRE DE 2001)</small>
 
@@ -2080,3 +2124,23 @@ P.O. 9 DE JULIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 168.- ARTÍCULO ÚNICO.- SE REFORMAN LOS INCISOS B Y C DE LA FRACCIÓN XI DEL ARTÍCULO 57; ASÍ COMO SE ADICIONA UN INCISO D Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN XI DEL ARTÍCULO 57, DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIO (SIC) Y ORGANISMOS DESCENTRALIZADOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades de los tres poderes del Estado, los Organismos Constitucionalmente Autónomos y los Ayuntamientos tendrán un plazo de sesenta días naturales para reformar sus reglamentos internos a fin de adecuarlos a la presente reforma y regular el procedimiento operativo de esta licencia.
+
+P.O. 17 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 169.- SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 2°; LAS FRACCIONES II Y IV DEL ARTÍCULO 26; LAS FRACCIONES III Y IV AL ARTÍCULO 30, Y LAS FRACCIONES VII Y VIII DEL ARTÍCULO 58; ASÍ COMO SE ADICIONAN UNAS FRACCIONES V Y VI AL ARTÍCULO 2º; UNA FRACCIÓN V AL ARTÍCULO 30 Y UNAS FRACCIONES IX Y X AL ARTÍCULO 58, TODOS DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
