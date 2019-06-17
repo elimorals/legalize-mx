@@ -4,7 +4,7 @@ identifier: "HID-ley-para-prevenir-atender-sancionar-y-eliminar-la-93833"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2019-04-01"
+last_updated: "2019-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2019.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 8 de abril de 2013.
 
@@ -177,11 +177,11 @@ VIII. Transparencia y acceso a la información.
 
 ### CAPÍTULO II.. DE LA DISCRIMINACIÓN
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
 
 ###### Artículo 11.
 
-La discriminación, es toda conducta activa u omisiva que en forma de preferencia, distinción, exclusión, repudio, desprecio, rechazo o restricción, dirigida a una persona o grupo, basada en su origen o identidad indígena o nacional, sexo o género, edad, discapacidad, condición social o económica, condición de salud, embarazo, lengua, religión, opiniones, preferencia sexual, estado civil, identidad política, apariencia física, características genéticas, situación migratoria o cualquier otra que tenga por efecto negar, obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce y/o ejercicio de sus derechos humanos y libertades, en condiciones de equidad e igualdad.
+La discriminación, es toda conducta activa u omisiva que en forma de preferencia, distinción, exclusión, repudio, desprecio, rechazo o restricción, dirigida a una persona o grupo, basada en su origen o identidad indígena o nacional, sexo o género, edad, discapacidad, condición social o económica, condición de salud, embarazo, lengua, religión, opiniones, preferencia sexual, estado civil, identidad política, apariencia física, forma de vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales, características genéticas, situación migratoria o cualquier otra que tenga por efecto negar, obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce y/o ejercicio de sus derechos humanos y libertades, en condiciones de equidad e igualdad.
 
 ###### Artículo 12.
 
@@ -873,6 +873,14 @@ P.O. 10 DE ABRIL DE 2017.
 
 P.O. 1 DE ABRIL DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 176 QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 176 QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 191 QUE REFORMA EL ARTÍCULO 11 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
