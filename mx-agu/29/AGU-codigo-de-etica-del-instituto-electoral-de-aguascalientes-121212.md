@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-instituto-electoral-de-aguascalientes-12121
 country: "mx"
 rank: "codigo"
 publication_date: "2017-05-01"
-last_updated: "2017-05-01"
+last_updated: "2019-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DEL INSTITUTO ELECTORAL DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO QUINTO DEL ACUERDO DE LA CONTRALORÍA INTERNA DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES, MEDIANTE EL CUAL SE EMITE EL CÓDIGO DE ÉTICA DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES, PUBLICADO EN EL P.O. EL 17 DE JUNIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO]</small>
+
 CÓDIGO DE ÉTICA DEL INSTITUTO ESTATAL ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2019 (ABROGADO).
 
 Código publicado en la Primera Sección de Periódico Oficial del Estado de Aguascalientes, el 1° de mayo de 2017.
 
@@ -133,3 +135,31 @@ Conducta esperada de los servidores públicos del Instituto, siendo ésta en un 
 5. Actualizo permanentemente mis conocimientos, propios de la función que desempeño.
 
 6. Me comprometo a recomendar mejores prácticas y proponer en su caso cambios a las estructuras y procesos, a fin de inhibir ineficiencias, corrupción o conductas antiéticas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE JUNIO DE 2019.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DE LA CONTRALORÍA INTERNA DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES, MEDIANTE EL CUAL SE EMITE EL CÓDIGO DE ÉTICA DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES.]</small>
+
+PRIMERO.- El presente Acuerdo tiene por objeto establecer la emisión del Código de Ética del Instituto Estatal Electoral de Aguascalientes, a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, el cual quedará contenido en el Anexo Único.
+
+SEGUNDO.- Publíquese el presente Acuerdo, así como su Anexo Único, en el Periódico Oficial del Estado, así como en la página oficial de internet del Instituto Estatal Electoral de Aguascalientes, con fundamento en lo establecido por los artículos 16 de la Ley General de Responsabilidades Administrativas; 4° y 288 segundo párrafo del Código Electoral para el Estado de Aguascalientes; 4° del Reglamento Interior de la Contraloría Interna del Instituto Estatal Electoral de Aguascalientes y Lineamiento Décimo Tercero de los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, para su conocimiento general y en atención al principio de máxima publicidad.
+
+TERCERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+CUARTO.- Instrúyase al Secretario Ejecutivo del Instituto Estatal Electoral de Aguascalientes para que en el ámbito de sus funciones realice la gestión correspondiente para la publicación del presente Acuerdo y su Anexo Único en el Periódico Oficial del Estado.
+
+QUINTO.- Una vez que entre en vigor el Código de Ética del Instituto Estatal Electoral de Aguascalientes quedará abrogado el Código de Ética, publicado el día primero de Mayo de 2017 en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, así como todas aquellas disposiciones que se opongan a lo previsto en dicho ordenamiento.
+
+SEXTO.- Con la entrada en vigor el Código de Ética del presente acuerdo, la Junta Ejecutiva del Instituto Estatal Electoral de Aguascalientes, deberá elaborar el Código de Conducta, el cual será aprobado y emitido por el Consejo General del Instituto en un plazo no mayor a 180 días naturales, que contendrá la forma en que las y los Servidores Públicos del Instituto Estatal Electoral de Aguascalientes aplicarán los principios, valores y reglas de integridad que les resulten aplicables.
+
+El Código de Conducta y en su caso sus reformas, deberán difundirse utilizando los mecanismos previstos en el artículo 4° del Código Electoral para el Estado de Aguascalientes.
+
+SEPTIMO.- Una vez emitido el Código de Conducta el Instituto Estatal Electoral de Aguascalientes deberá crear el Comité de Ética en un plazo de 60 días naturales, esto con el fin de fomentar y vigilar el cumplimiento de este Código y su Código de Conducta.
+
+## [N. DE E. TRANSITORIO DEL “CÓDIGO DE ÉTICA DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Código iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
