@@ -4,7 +4,7 @@ identifier: "HID-ley-de-poblacion-para-el-estado-de-hidalgo-50965"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-03"
-last_updated: "2017-12-25"
+last_updated: "2019-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2019.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 3 de julio de 2006.
 
@@ -87,6 +87,12 @@ Las políticas públicas, planes y programas que implemente el Titular del Poder
 
 Los planes, programas y las políticas que en materia de Población, se apliquen en el Estado, serán responsabilidad del Titular del Poder Ejecutivo, su instrumentación estará a cargo del CONSEJO y su implementación a cargo de las Dependencias y Entidades Estatales y los Ayuntamientos que correspondan.
 
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2019)</small>
+
+###### Artículo 6 Bis.
+
+El diseño, ejecución, monitoreo y evaluación de los planes, programas y las políticas públicas que se apliquen en el Estado deberá incorporar un enfoque demográfico, atendiendo el volumen, distribución, la estructura y la composición de la población.
+
 ###### Artículo 7.
 
 Para el cumplimiento de lo dispuesto en el Artículo anterior, el Gobernador del Estado, tomará en cuenta entre otros aspectos los siguientes:
@@ -119,9 +125,25 @@ IV.- El arraigo de la Población en sus comunidades de origen, a través del est
 
 V.- La satisfacción, a través de los servicios públicos que correspondan, de las necesidades más elementales de los núcleos de Población;
 
-VI.- Las condiciones socioeconómicas que permitan el desarrollo de la Población; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
 
-VII.- La protección del entorno ecológico de los núcleos de Población.
+VI.- Las condiciones socioeconómicas que permitan el desarrollo de la Población;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
+
+VII.- La protección del entorno ecológico de los núcleos de Población;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2019)</small>
+
+VIII.- La transparencia y la rendición de cuentas;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2019)</small>
+
+IX.- La corresponsabilidad de los distintos órdenes de gobierno en materia de población; y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2019)</small>
+
+X.- La promoción de la participación de la sociedad en su desarrollo.
 
 ###### Artículo 9.
 
@@ -239,9 +261,25 @@ Los planes y programas que contempla esta Ley, serán obligatorios para las Depe
 
 Los planes y programas que contempla esta Ley, tendrán una duración igual al periodo Constitucional Estatal o Municipal en que se expidan, los cuales deberán ser Publicados en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
+
 ###### Artículo 19.
 
-En la formulación de los planes y programas se considerarán los elementos demográficos, culturales, económicos, productivos y sociales, permitiendo que su aplicación promueva el desarrollo integral de la Población.
+En la formulación de los planes y programas se considerarán los elementos demográficos, culturales, económicos, productivos y sociales, permitiendo que su aplicación promueva el desarrollo integral de la población. Sin perjuicio de lo que disponga la normatividad en la materia, los Programas Estatales serán desarrollados con perspectiva intercultural y de respeto a toda forma de diversidad y deberán considerar como mínimo para su elaboración:
+
+I.- Marco normativo;
+
+II.- Diagnóstico;
+
+III.- Alineación a metas estatales, municipales o delegacionales, según corresponda;
+
+IV.- Objetivos;
+
+V.- Estrategias;
+
+VI.- Líneas de acción, y
+
+VII.- Criterios e Indicadores de evaluación.
 
 ###### Artículo 20.
 
@@ -448,3 +486,9 @@ P.O. 25 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 241 QUE REFORMA EL ARTÍCULO 23 DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 193 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
