@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2018-12-10"
+last_updated: "2019-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -131,45 +131,41 @@ VIII. TRANSPARENCIA: La información relativa al desarrollo social es pública e
 
 IX. PERSPECTIVA DE GÉNERO: Garantizar la equidad e igualdad de género en el diseño y ejecución de las políticas públicas de desarrollo social, desde una visión científica, analítica, política y compensatoria sobre las mujeres y los hombres, que elimine las causas de la opresión, la desigualdad, la injusticia y la jerarquización de las personas.
 
-###### Artículo 6º.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
 
-Para efectos de la presente Ley, se consideran sujetos en la elaboración, ejecución, seguimiento y evaluación de la Política Estatal y Municipal de Desarrollo Social los siguientes:
+###### Artículo 6°.
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+Para efectos de la presente Ley, se entenderá por:
 
-I. SECRETARIA: La Secretaria de Desarrollo Social;
+I. ACTORES SOCIALES.- Sujetos colectivos estructurados a partir de una conciencia de identidad propia, portadores de valores, poseedor de un cierto número de recursos que le permiten actuar en el seno de una sociedad con vistas a defender los intereses de los miembros que lo componen y/o de los individuos que representa, para colaborar y coadyuvar a dar respuesta a las necesidades identificadas como prioritarias;
 
-II. REGIONES: A los Municipios y zonas de atención prioritaria e inmediata que muestren un mayor atraso respecto de las políticas de desarrollo social;
+II. BENEFICIARIOS: Aquellas personas que forman parte de la población atendida por los programas de desarrollo social;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+II. (SIC) COESPO: Consejo Estatal de Población.
 
-III. SECTORES SOCIALES VULNERABLES: A las personas adultas mayores o con alguna discapacidad, las madres solteras, niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad social;
+IV. COMISIÓN: La Comisión de Desarrollo Social del Estado de Aguascalientes;
 
-IV. LEY: Ley de Desarrollo Social para el Estado de Aguascalientes;
+V. CONSEJO: El Consejo Estatal de Evaluación de la Política de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+VI. GRUPOS SOCIALES EN SITUACIÓN DE VULNERABILIDAD: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, por lo tanto, requieren de la atención e inversión del gobierno para lograr su bienestar;
 
-V. BENEFICIARIOS: Aquellas personas que forman parte de la población atendida por los programas de desarrollo social;
+VII. INEGI: Instituto Nacional de Estadística, Geografía e Informática;
 
-VI. COMISIÓN: La Comisión de Desarrollo Social del Estado de Aguascalientes;
+VIII. LEY: Ley de Desarrollo Social para el Estado de Aguascalientes;
 
-VII. CONSEJO: El Consejo Estatal de Evaluación de la Política de Desarrollo Social;
+IX. ORGANIZACIONES: Agrupaciones civiles y sociales, legalmente constituidas, en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social;
 
-VIII. GRUPOS SOCIALES EN SITUACIÓN DE VULNERABILIDAD: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, por lo tanto, requieren de la atención e inversión del gobierno para lograr su bienestar;
+X. PADRÓN ÚNICO DE BENEFICIARIOS: Relación oficial única de Beneficiarios que incluye a personas atendidas por los programas federales, estatales y municipales de Desarrollo Social;
 
-IX. SISTEMA ESTATAL: Sistema Estatal de Desarrollo Social;
+XI. REGIONES: A los Municipios y zonas de atención prioritaria e inmediata que muestren un mayor atraso respecto de las políticas de desarrollo social;
 
-X. ORGANIZACIONES: Agrupaciones civiles y sociales, legalmente constituidas, en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social;
+XII. SECRETARIA: La Secretaria de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+XIII. SECTORES SOCIALES VULNERABLES: A las personas adultas mayores o con alguna discapacidad, las madres solteras, niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad social;
 
-XI. PADRÓN ÚNICO DE BENEFICIARIOS: Relación oficial única de Beneficiarios que incluye a personas atendidas por los programas federales, estatales y municipales de Desarrollo Social;
+XIV. SISTEMA ESTATAL: Sistema Estatal de Desarrollo Social; y
 
-XII. ZONA DE ATENCIÓN PRIORITARIA: Área o región, sea predominantemente rural o urbana, cuya población registra altos índices de pobreza y marginación indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social establecidos en esta Ley;
-
-XIII. INEGI: Instituto Nacional de Estadística, Geografía e Informática; y
-
-XIV. COESPO: Consejo Estatal de Población.
+XV. ZONA DE ATENCIÓN PRIORITARIA: Área o región, sea predominantemente rural o urbana, cuya población registra altos índices de pobreza y marginación indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social establecidos en esta Ley.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS BENEFICIARIOS DEL DESARROLLO SOCIAL
 
@@ -257,7 +253,7 @@ IV. Generar información sobre la distribución geográfica y características s
 
 El Padrón Único de Beneficiarios contendrá cuando menos lo previsto por la Fracción XV del Artículo 70 de la Ley General de Transparencia y Acceso a la Información Pública.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
 
 ###### Artículo 17.
 
@@ -267,11 +263,13 @@ I. Integrar un padrón único de beneficiarios;
 
 II. Publicar en el Periódico Oficial del Estado de Aguascalientes las reglas de operación de los programas sociales Estatales y para el caso de programas Municipales deberán ser publicadas en sus gacetas o estrados Municipales, de manera que se publique un catálogo de programas sociales, los mecanismos de focalización y criterios de elegibilidad;
 
-II (SIC). Los convenios de coordinación técnica serán instrumentos de convergencia de las políticas, programas y acciones de desarrollo social, en relación a las dependencias de la administración pública para integrar bases de datos en relación a sus acciones, programas y beneficiarios;
+III. Los convenios de coordinación técnica serán instrumentos de convergencia de las políticas, programas y acciones de desarrollo social, en relación a las dependencias de la administración pública para integrar bases de datos en relación a sus acciones, programas y beneficiarios;
 
-III. En el caso de los programas y acciones que no se ejecuten de manera coordinada, las dependencias o entidades ejecutoras pondrán a disposición de los otros ámbitos de gobierno la información en formato electrónico, relativa a los programas y acciones a realizar en su ámbito territorial, a fin de ser incorporados al Padrón Único de Beneficiarios; y
+IV. En el caso de los programas y acciones que no se ejecuten de manera coordinada, las dependencias o entidades ejecutoras pondrán a disposición de los otros ámbitos de gobierno la información en formato electrónico, relativa a los programas y acciones a realizar en su ámbito territorial, a fin de ser incorporados al Padrón Único de Beneficiarios;
 
-IV. Cuando exista coincidencia en la población objetivo de los beneficios, el tipo de apoyo o la naturaleza de los programas que ejecuten dos o los tres ámbitos de gobierno, deberá establecerse la forma de evitar duplicidades vía los Convenios o Acuerdos de Coordinación Técnica.
+V. Cuando exista coincidencia en la población objetivo de los beneficios, el tipo de apoyo o la naturaleza de los programas que ejecuten dos o los tres ámbitos de gobierno, deberá establecerse la forma de evitar duplicidades vía los Convenios o Acuerdos de Coordinación Técnica; y
+
+VI. Deberán considerar las aportaciones y dictaminaciones realizadas por los Actores Sociales.
 
 ## TÍTULO TERCERO. DE LA POLÍTICA ESTATAL DE DESARROLLO SOCIAL
 
@@ -1162,3 +1160,7 @@ El Artículo Segundo del presente Decreto iniciará su vigencia el día siguient
 ###### ARTÍCULO TERCERO.
 
 EI titular del Poder Ejecutivo del Estado, en un plazo máximo de 180 días hábiles contados a partir de la publicación de este Decreto, dispondrá lo necesario para crear uno o varios programas que cumplan con las reformas establecidas en el mismo.
+
+P.O. 17 DE JUNIO DE 2019.
+
+> <small>[N. DE E. EL "DECRETO NÚMERO 167.- SE REFORMAN LOS ARTICULOS 6° Y 17, AMBOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE AGUASCALIENTES.]</small>
