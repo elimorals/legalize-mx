@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2019-05-13"
+last_updated: "2019-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1739,25 +1739,49 @@ Departamento de Recursos Materiales y Financieros.
 
 Departamento de Recursos Humanos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
+
 Dirección de Policía Preventiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2019)</small>
+
+Coordinación Operativa.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
 
 Jefatura Operativa de Policía Auxiliar y Comercial.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
+
 Jefatura Operativa de la Delegación Jesús Terán.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
 
 Jefatura Operativa de la Delegación Insurgentes.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
+
 Jefatura Operativa de la Delegación Morelos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
 
 Jefatura Operativa de la Delegación Área Centro.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
+
 Jefatura Operativa Área Uno.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
 
 Jefatura Operativa Especial.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
+
 Jefatura Operativa de las Delegaciones Rurales.
 
-Dirección de Tránsito y Movilidad.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
+
+Dirección de Movilidad.
 
 Departamento de Transportes y Gestión de Infracciones.
 
@@ -1777,31 +1801,39 @@ Departamento de Estacionamiento Regulado.
 
 Departamento de Proyectos de Movilidad y Estudios de Tránsito.
 
-Dirección de Prevención del Delito.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
+
+Dirección de Prevención de las Violencias y la Delincuencia.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
 
 Coordinación Operativa para la Prevención.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
+
 Departamento de Planeación de Programas Preventivos.
 
-Departamento de Implementación y Seguimiento de Programas.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
 
-Departamento de Educación Vial.
+Departamento de Implementación de Programas Preventivos.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DE LAS REFORMAS PUBLICADA EN EL P.O. 3 DE OCTUBRE DE 2016 TODOS AQUELLOS ORDENAMIENTOS JURÍDICOS MUNICIPALES QUE HAGAN REFERENCIA A LA DIRECCIÓN DE PROFESIONALIZACIÓN SE ENTENDERÁN APLICABLES A LA ACADEMIA DE POLICÍA MUNICIPAL]</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+Departamento de Policía Comunitaria.
 
-Academia de Policía Municipal.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
 
-(REPUBLICADO, P.O. 3 DE OCTUBRE DE 2016)
+Instituto Superior en Seguridad Pública.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
 
 Coordinación de Seguimiento de Servicio de Carrera Policial.
 
-(REPUBLICADO, P.O. 3 DE OCTUBRE DE 2016)
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
 
 Departamento de Formación y Capacitación.
 
-(REPUBLICADO, P.O. 3 DE OCTUBRE DE 2016)
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE JUNIO DE 2019)</small>
 
 Departamento de Evaluación.
 
@@ -24371,8 +24403,14 @@ P.O. 13 DE MAYO DE 2019.
 
 P.O. 13 DE MAYO DE 2019.
 
-## [N. DE E. TRANSITORIOS DE LA "REFORMA ARTÍCULO 150, SE ADICIONA EL ARTÍCULO 161-BIS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES, REFORMA AL REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIOS DE LA “REFORMA ARTÍCULO 150, SE ADICIONA EL ARTÍCULO 161-BIS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES, REFORMA AL REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DE AGUASCALIENTES”.]
 
 PRIMERO.- Las presentes reformas entrarán en vigor el 16 de junio de 2019, salvo las relativas a actualizar el Registro Nacional de Archivos, cuyo cumplimiento estará sujeto a la disponibilidad de la plataforma correspondiente por parte del Archivo General de la Nación.
 
 SEGUNDO.- La o el Jefe del Archivo elaborará un programa de administración de riesgos a desarrollar en el segundo semestre del año 2019. En el transcurso de los primeros 30 días a partir de la entrada en vigor de las presentes reformas al Reglamento del Archivo General Municipal de Aguascalientes, presentará dicho programa al Director de Recursos Materiales quien gestionará su financiamiento y supervisará su ejecución.
+
+P.O. 17 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA DEL PÁRRAFO SEGUNDO Y CUARTO, DE LA FRACCIÓN XVI DEL ARTÍCULO 98 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+ÚNICO. Las modificaciones, adiciones y derogaciones que se establecen en la presente reforma, entrará (sic) en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
