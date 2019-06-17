@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-del-regimen-de-proteccion-social-en-136044"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-09"
-last_updated: "2019-05-09"
+last_updated: "2019-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136044&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2019-05-08"
 ---
 # CODIGO DE CONDUCTA DEL REGIMEN DE PROTECCION SOCIAL EN SALUD DEL DISTRITO FEDERAL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA DEL RÉGIMEN DE PROTECCIÓN SOCIAL EN SALUD DEL DISTRITO FEDERAL
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 17 DE JUNIO DE 2019.]</small>
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el jueves 9 de mayo de 2019.
 
@@ -58,9 +58,11 @@ b) Identificar e incorporar a la población sin seguridad social al Sistema, a t
 
 c) Implementar y supervisar las estrategias y los procedimientos necesarios para garantizar que la atención recibida por el usuario del Sistema, esté vinculada a los Catálogos de Servicios emitidos por la Comisión Nacional de Protección Social en Salud.
 
+> <small>(F. DE E., G.O. 17 DE JUNIO DE 2019)</small>
+
 Misión del Régimen de Protección Social en Salud del Distrito Federal
 
-Ofrecer un esquema de atención en materia de salud, público, gratuito, voluntario y de calidad, mediante el fortalecimiento financiero de la red sanitaria de la Ciudad de México.
+Garantizar las acciones de Protección Social en Salud, mediante financiamiento, la coordinación eficiente, oportuna y sistemática de la prestación de los Servicios de Salud a las personas beneficiarias del Sistema de Protección Social en Salud en la Ciudad de México.
 
 Visión del Régimen de Protección Social en Salud del Distrito Federal
 
@@ -299,3 +301,11 @@ Ciudad de México, a los 08 días del mes de mayo de dos mil diecinueve.
 LIC. DANIELA FRANCISCA DÍAZ ECHEVERRÍA
 
 DIRECTORA GENERAL DEL RÉGIMEN DE PROTECCIÓN SOCIAL EN SALUD DEL DISTRITO FEDERAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 17 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DE LA “NOTA ACLARATORIA, AL AVISO POR EL QUE SE DA A CONOCER EL CÓDIGO DE CONDUCTA, PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, CON FECHA 09 DE MAYO DEL 2019”.]
+
+PRIMERO.- Publíquese la presente Nota Aclaratoria, al Aviso por el que se da a conocer el Código de Conducta del Régimen de Protección Social en Salud del Distrito Federal, Publicada en la Gaceta Oficial de la Ciudad de México, con fecha 09 de mayo del 2019, en la Gaceta Oficial de la Ciudad de México.
