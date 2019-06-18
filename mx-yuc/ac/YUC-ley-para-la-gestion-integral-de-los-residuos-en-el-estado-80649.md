@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-gestion-integral-de-los-residuos-en-el-estado-80649
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-08"
-last_updated: "2016-12-28"
+last_updated: "2019-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80649&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS EN EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JUNIO DE 2019.
 
 Ley publicada en el suplemento del Diario Oficial del Estado de Yucatán, el viernes 8 de abril de 2011.
 
@@ -39,7 +39,9 @@ QUE El HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA SERVIDO DIRIGIRME EL SIGU
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO, EMITE LA LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS EN EL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-E X P O S I C ION D E M O T I V O S:...
+E X P O S I C IO N D E M O T I V O S:
+
+[...]
 
 En tal virtud, con fundamento en los artículos 30 fracción V de la Constitución Política, 18 y 43 fracción VII de la Ley de Gobierno del Poder Legislativo, ambas del Estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -77,95 +79,103 @@ VIII.- La Ley de Mecanismos Alternativos de Solución de Controversias en el Est
 
 En la aplicación de esta Ley, el Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, observarán los principios contenidos en la Ley General para la Prevención y Gestión Integral de los Residuos, así como los principios establecidos en la Ley de Protección al Medio Ambiente del Estado de Yucatán y demás legislación aplicable.
 
+> <small>(REFORMADO, D.O. 18 DE JUNIO DE 2019)</small>
+
 ###### Artículo 4.
 
 Para efectos de esta Ley, se entenderá por:
 
-I.- Acopio: la acción de reunir residuos en un lugar determinado y apropiado para prevenir riesgos a la salud y al medio ambiente;
+I.- Acopio: La acción de reunir residuos en un lugar determinado y apropiado para prevenir riesgos a la salud y al medio ambiente;
 
-II.- Almacenamiento: la retención temporal de los residuos en lugares propicios para prevenir daños al medio ambiente, los recursos naturales y a la salud de la población, en tanto son reutilizados, reciclados, tratados para su aprovechamiento o se dispone de ellos;
+II.- Almacenamiento: La retención temporal de los residuos en lugares propicios para prevenir daños al medio ambiente, los recursos naturales y a la salud de la población, en tanto son reutilizados, reciclados, tratados para su aprovechamiento o se dispone de ellos;
 
-III.- Ayuntamientos: los ayuntamientos de los municipios del Estado de Yucatán;
+III.- Ayuntamientos: Los ayuntamientos de los municipios del Estado de Yucatán;
 
-IV.- Biosólidos: los compuestos de naturaleza orgánica que se generan en forma residual posterior a un proceso biológico o industrial, como es el caso de los lodos de la industria alimentaria y la industria del papel, el bagazo de caña o lodos de plantas de tratamiento de aguas residuales, entre otros;
+IV.- Biodegradable: La sustancia que puede degradarse a partir de la acción de (sic) agente biológico;
 
-V.- Composteo: el proceso de descomposición aerobia de la materia orgánica mediante la acción de microorganismos específicos, que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos;
+V.- Biosólidos: Los compuestos de naturaleza orgánica que se generan en forma residual posterior a un proceso biológico o industrial, como es el caso de los lodos de la industria alimentaria y la industria del papel, el bagazo de caña o lodos de plantas de tratamiento de aguas residuales, entre otros;
 
-VI.- Contenedor: el recipiente destinado al depósito ambientalmente adecuado y de forma temporal de residuos sólidos o de manejo especial, durante su acopio y traslado;
+VI.- Bolsas plásticas de acarreo de un solo uso: Aquellas que se utilizan para la transportación, carga o traslado de productos al consumidor final;
 
-VII.- Co-procesamiento: la integración ambientalmente segura de los residuos generados por una industria o fuente conocida, como insumo a otro proceso productivo;
+VII.- Composteo: El proceso de descomposición aerobia de la materia orgánica mediante la acción de microorganismos específicos, que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos;
 
-VIII.- Diagnóstico básico: el estudio elaborado por la autoridad correspondiente que considera la cantidad y composición de los residuos, así como la infraestructura para manejarlos integralmente;
+VIII.- Contenedor: El recipiente destinado al depósito ambientalmente adecuado y de forma temporal de residuos sólidos o de manejo especial, durante su acopio y traslado;
 
-IX.- Disposición final: la acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir afectaciones a la salud de la población, así como a los ecosistemas y sus elementos;
+IX.- Contenedores de Poliestireno: Aquellos que se utilizan para transportación, carga o traslado de productos alimenticios líquidos o solidos al consumidor final;
 
-X.- Empresa de servicio de manejo: la persona física o moral registrada y autorizada a prestar servicios a terceros para realizar cualquiera de las etapas comprendidas en el manejo integral de los residuos de manejo especial y de aquellas etapas del manejo integral de residuos sólidos susceptibles de autorización;
+X.- Co-procesamiento: La integración ambientalmente segura de los residuos generados por una industria o fuente conocida, como insumo a otro proceso productivo;
 
-XI.- Estaciones de transferencias: las instalaciones para el trasbordo de los residuos de los vehículos de recolección a los vehículos de transferencia;
+XI.- Diagnóstico básico: El estudio elaborado por la autoridad correspondiente que considera la cantidad y composición de los residuos, así como la infraestructura para manejarlos integralmente;
 
-XII.- Generador de residuos: la persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo;
+XII.- Disposición final: La acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir afectaciones a la salud de la población, así como a los ecosistemas y sus elementos;
 
-XIII.- Gestión Integral de Residuos: el conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
+XIII.- Empresa de servicio de manejo: La persona física o moral registrada y autorizada a prestar servicios a terceros para realizar cualquiera de las etapas comprendidas en el manejo integral de los residuos de manejo especial y de aquellas etapas del manejo integral de residuos sólidos susceptibles de autorización;
 
-XIV.- Gran Generador: la persona física o moral que genere una cantidad igual o superior a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
+XIV.- Estaciones de transferencias: Las instalaciones para el trasbordo de los residuos de los vehículos de recolección a los vehículos de transferencia;
 
-XV.- Habitualidad: se produce cuando una persona física o moral incurre tres o más veces en conductas que constituyan infracciones a un mismo precepto en términos de esta Ley, en un período de 5 años contados a partir de la fecha en que se levante el acta en que se hizo constar la segunda infracción, siempre que ésta no hubiese sido desvirtuada;
+XV.- Generador de residuos: La persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo;
 
-XVI.- Incineración: cualquier proceso para reducir el volumen y descomponer o cambiar la composición física, química o biológica de un residuo sólido, líquido o gaseoso, mediante oxidación térmica, en la cual todos los factores de combustión, como la temperatura, el tiempo de retención y la turbulencia, pueden ser controlados, a fin de alcanzar la eficiencia, eficacia y los parámetros ambientales previamente establecidos. En esta definición se incluye la pirólisis, la gasificación y plasma, sólo cuando los subproductos combustibles generados en estos procesos sean sometidos a combustión en un ambiente rico en oxígeno;
+XVI.- Gestión Integral de Residuos: El conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
 
-XVII.- Ley: la Ley para la Gestión Integral de los Residuos en el Estado de Yucatán;
+XVII.- Gran Generador: La persona física o moral que genere una cantidad igual o superior a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
 
-XVIII.- Ley General: la Ley General para la Prevención y Gestión Integral de los Residuos;
+XVIII.- Habitualidad: Se produce cuando una persona física o moral incurre tres o más veces en conductas que constituyan infracciones a un mismo precepto en términos de esta Ley, en un período de 5 años contados a partir de la fecha en que se levante el acta en que se hizo constar la segunda infracción, siempre que ésta no hubiese sido desvirtuada;
 
-XIX.- Manejo integral: las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+XIX.- Incineración: Cualquier proceso para reducir el volumen y descomponer o cambiar la composición física, química o biológica de un residuo sólido, líquido o gaseoso, mediante oxidación térmica, en la cual todos los factores de combustión, como la temperatura, el tiempo de retención y la turbulencia, pueden ser controlados, a fin de alcanzar la eficiencia, eficacia y los parámetros ambientales previamente establecidos. En esta definición se incluye la pirólisis, la gasificación y plasma, sólo cuando los subproductos combustibles generados en estos procesos sean sometidos a combustión en un ambiente rico en oxígeno;
 
-XX.- Microgenerador: el establecimiento industrial, comercial o de servicios que genere una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida;
+XX.- Ley: La Ley para la Gestión Integral de los Residuos en el Estado de Yucatán;
 
-XXI.- Minimización: el conjunto de medidas dirigidas a disminuir la generación de residuos y a aprovechar el valor de aquellos cuya generación no sea posible evitar;
+XXI.- Ley General: La Ley General para la Prevención y Gestión Integral de los Residuos;
 
-XXII.- Pequeño generador: la persona física o moral que genere una cantidad igual o mayor a 400 kilogramos y menor a 10 toneladas en peso bruto total de residuos no peligrosos al año o su equivalente en otra unidad de medida;
+XXII.- Manejo integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
 
-XXIII.- Plan de manejo: el instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno;
+XXIII.- Microgenerador: El establecimiento industrial, comercial o de servicios que genere una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida;
 
-XXIV.- Poder Ejecutivo: el Poder Ejecutivo del Gobierno del Estado de Yucatán;
+XXIV.- Minimización: El conjunto de medidas dirigidas a disminuir la generación de residuos y a aprovechar el valor de aquellos cuya generación no sea posible evitar;
 
-XXV.- Programas: serie ordenada de actividades y operaciones necesarias para alcanzar los objetivos de esta Ley;
+XXV.- Pequeño generador: La persona física o moral que genere una cantidad igual o mayor a 400 kilogramos y menor a 10 toneladas en peso bruto total de residuos no peligrosos al año o su equivalente en otra unidad de medida;
 
-XXVI.- Programa Estatal: el Programa Estatal para la Prevención y Gestión Integral de Residuos;
+XXVI.- Plan de manejo: El instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno;
 
-XXVII.- Reciclado: la transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud de las personas, los ecosistemas o sus elementos;
+XXVII.- Poder Ejecutivo: El Poder Ejecutivo del Gobierno del Estado de Yucatán;
 
-XXVIII.- Recolección: la acción de recibir los residuos sólidos o de manejo especial de sus generadores y trasladarlos a las instalaciones autorizadas, almacenarlos, reutilizarlos, reciclarlos, tratarlos o disponer de ellos en rellenos sanitarios o en sitios controlados;
+XXVIII.- Programas: Serie ordenada de actividades y operaciones necesarias para alcanzar los objetivos de esta Ley;
 
-XXIX.- Reglamento: el Reglamento de esta Ley;
+XXIX.- Programa Estatal: El Programa Estatal para la Prevención y Gestión Integral de Residuos;
 
-XXX.- Reincidencia: se produce cuando una persona física o moral incurra dos veces en conductas que impliquen infracciones a un mismo precepto, en el período de 5 años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada;
+XXX.- Reciclado: La transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud de las personas, los ecosistemas o sus elementos;
 
-XXXI.- Relleno sanitario: la obra de infraestructura que aplica métodos de ingeniería para la disposición final de los residuos sólidos, ubicada en sitios adecuados al ordenamiento ecológico del territorio y a las Normas Oficiales Mexicanas y Técnicas Ambientales, donde los residuos se depositan y compactan al menor volumen práctico posible, y se cubren con material natural o sintético para prevenir o reducir la liberación de contaminantes al medio ambiente, los procesos de combustión no controlada, la generación de malos olores, la proliferación de fauna nociva y demás problemas ambientales y sanitarios;
+XXXI.- Recolección: La acción de recibir los residuos sólidos o de manejo especial de sus generadores y trasladarlos a las instalaciones autorizadas, almacenarlos, reutilizarlos, reciclarlos, tratarlos o disponer de ellos en rellenos sanitarios o en sitios controlados;
 
-XXXII.- Remediación: el conjunto de medidas a las que se someten los sitios contaminados para eliminar o reducir los contaminantes hasta un nivel seguro para la salud y el medio ambiente o prevenir su dispersión en el mismo sin modificarlos, de conformidad con lo que se establece en esta Ley;
+XXXII.- Reglamento: El Reglamento de esta Ley;
 
-XXXIII.- Residuo: el material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, líquido o gaseoso contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en esta Ley y demás ordenamientos aplicables;
+XXXIII.- Reincidencia: Se produce cuando una persona física o moral incurra dos veces en conductas que impliquen infracciones a un mismo precepto, en el período de 5 años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada;
 
-XXXIV.- Residuos inorgánicos reutilizables: aquellos residuos no biodegradables;
+XXXIV.- Relleno sanitario: La obra de infraestructura que aplica métodos de ingeniería para la disposición final de los residuos sólidos, ubicada en sitios adecuados al ordenamiento ecológico del territorio y a las Normas Oficiales Mexicanas y Técnicas Ambientales, donde los residuos se depositan y compactan al menor volumen práctico posible, y se cubren con material natural o sintético para prevenir o reducir la liberación de contaminantes al medio ambiente, los procesos de combustión no controlada, la generación de malos olores, la proliferación de fauna nociva y demás problemas ambientales y sanitarios;
 
-XXXV.- Residuos orgánicos composteables: aquellos residuos que por sus características son biodegradables;
+XXXV.- Remediación: El conjunto de medidas a las que se someten los sitios contaminados para eliminar o reducir los contaminantes hasta un nivel seguro para la salud y el medio ambiente o prevenir su dispersión en el mismo sin modificarlos, de conformidad con lo que se establece en esta Ley;
 
-XXXVI.- Residuos peligrosos: aquéllos que poseen alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio;
+XXXVI.- Residuo: El material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, líquido o gaseoso contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en esta Ley y demás ordenamientos aplicables;
 
-XXXVII.- Responsabilidad compartida: el principio mediante el cual se reconoce que los residuos sólidos y de manejo especial son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo, producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos, y de los tres órdenes de gobierno según corresponda, bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social;
+XXXVII.- Residuos inorgánicos reutilizables: Aquellos residuos no biodegradables;
 
-XXXVIII.- Reutilización: el empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
+XXXVIII.- Residuos orgánicos composteables: Aquellos residuos que por sus características son biodegradables;
 
-XXXIX.- Secretaría: la Secretaría de Desarrollo Urbano y Medio Ambiente del Estado de Yucatán;
+XXXIX.- Residuos peligrosos: Aquéllos que poseen alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio;
 
-XL.- Sitio controlado: el sitio inadecuado de disposición final que cumple con las especificaciones de un relleno sanitario en lo que se refiere a obras de infraestructura y operación, pero no cumple con las especificaciones de impermeabilización;
+XL.- Responsabilidad compartida: El principio mediante el cual se reconoce que los residuos sólidos y de manejo especial son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos, y de los tres órdenes de gobierno según corresponda, bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social;
 
-XLI.- Sistema de manejo ambiental: el conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de los entes públicos, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta con sus políticas de adquisiciones la prevención de la generación de residuos, su aprovechamiento y su manejo integral;
+XLI.- Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
 
-XLII.- Tratamiento: los procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad, y
+XLII.- Secretaría: La Secretaría de Desarrollo Sustentable del Estado de Yucatán;
 
-XLIII.- Valorización: el principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
+XLIII.- Sitio controlado: El sitio inadecuado de disposición final que cumple con las especificaciones de un relleno sanitario en lo que se refiere a obras de infraestructura y operación, pero no cumple con las especificaciones de impermeabilización;
+
+XLIV.- Sistema de manejo ambiental: El conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de los entes públicos, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta con sus políticas de adquisiciones la prevención de la generación de residuos, su aprovechamiento y su manejo integral;
+
+XLV.- Tratamiento: Los procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad, y
+
+XLVI.- Valorización: El principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
 
 ###### Artículo 5.
 
@@ -281,9 +291,15 @@ XXV.- Realizar actos de inspección y vigilancia a efecto de constatar el cumpli
 
 XXVI.- Evaluar y en su caso autorizar la construcción y operación de los centros de acopio de residuos de manejo especial y sólidos;
 
-XXVII.- Promover la creación de microempresas o establecimiento de mecanismos que permitan incorporar al sector informal que se dedica a la segregación de residuos, y
+> <small>(REFORMADA, D.O. 18 DE JUNIO DE 2019)</small>
 
-XXVIII.- Las demás que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
+XXVII.- Promover la creación de microempresas o el establecimiento de mecanismos que permitan incorporar al sector informal que se dedica a la segregación de residuos;
+
+> <small>(ADICIONADA, D.O. 18 DE JUNIO DE 2019)</small>
+
+XXVIII.- Establecer, los criterios, lineamientos y programas referentes al uso de bolsas plásticas de acarreo de un solo uso, contenedores de poliestireno y popotes de plásticos entregadas (sic) a título gratuito o de manera onerosa en establecimientos mercantiles al consumidor final, con el fin de prevenir, disminuir y eliminar de manera gradual su consumo, y
+
+XXIX.- Las demás que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
 
 ###### Artículo 9.
 
@@ -291,7 +307,9 @@ Los Ayuntamientos tendrán las siguientes atribuciones:
 
 I.- Conocer, prevenir y regular los residuos sólidos, su gestión integral y la remediación de los sitios contaminados por estos residuos;
 
-II.- Formular por sí o con el apoyo del Estado o la Federación y con la participación de representantes de los distintos sectores sociales, los programas municipales para la prevención y Gestión Integral de Residuos, los cuales deberán observar lo dispuesto en el Programa Estatal;
+> <small>(REFORMADA, D.O. 18 DE JUNIO DE 2019)</small>
+
+II.- Formular por sí o con el apoyo del estado o la federación y con la participación de representantes de los distintos sectores sociales, los programas municipales para la prevención y gestión integral de residuos y los planes municipales de sustitución y eliminación gradual de bolsas plásticas de acarreo de un solo uso y popotes plásticos, así como de contenedores de poliestireno, los cuales deberán observar lo dispuesto en el Programa Estatal;
 
 III.- Expedir o adecuar sus reglamentos y demás disposiciones jurídico-administrativas de carácter municipal, a fin de dar cumplimiento a lo establecido en esta Ley y en la Ley General;
 
@@ -378,6 +396,12 @@ IX.- Las demás que establezca el Reglamento de esta Ley y otros ordenamientos j
 Los planes de manejo establecerán las formas o mecanismos específicos para la gestión de determinados residuos, a fin de instaurar modalidades de manejo que respondan a las particularidades de los mismos y de los materiales que los constituyan.
 
 La Secretaría, en coordinación con los municipios y respetando su ámbito de competencia, promoverá el establecimiento de planes de manejo para facilitar la devolución y acopio de productos de consumo que, al desecharse, se convierten en residuos, a fin de que sean enviados a instalaciones en las cuales se sometan a procesos que permitan su aprovechamiento o, de ser el caso, a empresas autorizadas a tratarlos o disponerlos en sitios de confinamiento.
+
+> <small>(ADICIONADO, D.O. 18 DE JUNIO DE 2019)</small>
+
+###### Artículo 13 Bis.
+
+El Poder Ejecutivo, por conducto de la Secretaría, dentro del ámbito de su competencia, establecerá un plan de manejo para la gestión de los residuos derivados de bolsas plásticas de acarreo de un solo uso y contenedores de poliestireno entregadas (sic) a título gratuito o de manera onerosa en establecimientos mercantiles al consumidor final, así como popotes plásticos a fin de propiciar su manejo, producción y consumo responsable; su reducción, reciclaje y reutilización; la disminución de los impactos ambientales asociados a la extracción de materiales, transformación, manufactura, distribución, uso y destino de las bolsas plásticas de acarreo de un solo uso, popotes plásticos y contenedores de poliestireno; y promover el uso de materias primas provenientes de recursos naturales renovables y reciclables.
 
 ###### Artículo 14.
 
@@ -485,9 +509,21 @@ III.- Celebrarán convenios de concertación o colaboración con organizaciones 
 
 IV.- Efectuarán, en su caso, convenios con los diversos medios de comunicación, dirigidos a la promoción de las acciones de prevención y Gestión Integral de Residuos;
 
-V.- Impulsarán el reconocimiento a los esfuerzos más destacados de la sociedad en materia de prevención y Gestión Integral de Residuos, y
+> <small>(REFORMADA, D.O. 18 DE JUNIO DE 2019)</small>
 
-VI.- Concertarán acciones e inversiones con los diversos sectores de la sociedad en la promoción de la cultura ambiental.
+V.- Impulsarán el reconocimiento a los esfuerzos más destacados de la sociedad en materia de prevención y Gestión Integral de Residuos;
+
+> <small>(REFORMADA, D.O. 18 DE JUNIO DE 2019)</small>
+
+VI.- Concertarán acciones e inversiones con los diversos sectores de la sociedad en la promoción de la cultura ambiental;
+
+> <small>(ADICIONADA, D.O. 18 DE JUNIO DE 2019)</small>
+
+VII.- Promoverán la realización de campañas permanentes entre los diferentes sectores de la sociedad, relativas a la difusión sobre el impacto ambiental producido por los plásticos no biodegradables y biodegradables, así como para fomentar la utilización de materiales que faciliten su reúso o reciclado y que sean de pronta biodegradación o de productos compostables, y
+
+> <small>(ADICIONADA, D.O. 18 DE JUNIO DE 2019)</small>
+
+VIII.- Elaborarán, en coordinación con las cámaras empresariales, organizaciones de la sociedad civil y la sociedad en general, estrategias y campañas de concientización ambiental sobre el uso y destino final de bolsas plásticas de acarreo de un solo uso y contenedores de poliestireno, así como de popotes plásticos de conformidad con esta ley y su reglamento.
 
 ## TÍTULO CUARTO. OBLIGACIONES Y PROHIBICIONES EN MATERIA DE RESIDUOS
 
@@ -577,9 +613,25 @@ VIII.- Mezclar residuos sólidos y de manejo especial con residuos peligrosos, c
 
 IX.- Confinar o realizar el depósito final de residuos en estado líquido o con contenidos líquidos o de materia orgánica, que excedan los máximos permitidos por las normas oficiales mexicanas;
 
-X.- Realizar todo acto u omisión que contribuya a la contaminación de las vías públicas y áreas comunes, o que interfiera con la prestación del servicio de limpia, y
+> <small>(REFORMADA, D.O. 18 DE JUNIO DE 2019)</small>
 
-XI.- Recibir los residuos de otros Estados para disponer de ellos.
+X.- Realizar todo acto u omisión que contribuya a la contaminación de las vías públicas y áreas comunes, o que interfiera con la prestación del servicio de limpia;
+
+> <small>(REFORMADA, D.O. 18 DE JUNIO DE 2019)</small>
+
+XI.- Recibir los residuos de otros Estados para disponer de ellos, y
+
+> <small>(ADICIONADA, D.O. 18 DE JUNIO DE 2019)</small>
+
+XII.- Facilitar o entregar bolsas plásticas de acarreo de un solo uso y/o contenedores de poliestireno a título gratuito o de manera onerosa en establecimientos mercantiles o comerciales al consumidor final, así como popotes plásticos.
+
+> <small>(ADICIONADO, D.O. 18 DE JUNIO DE 2019)</small>
+
+Quedarán exentas las bolsas plásticas de acarreo de un solo uso que hayan sido producidos (sic) incorporando un porcentaje mínimo de 30% de material reciclado o que la fabricación de dichas bolsas de plástico sea con materiales y procesos de tecnología que permitan su ágil degradación, de conformidad con las normas oficiales de la materia, así como popotes biodegradables.
+
+> <small>(ADICIONADO, D.O. 18 DE JUNIO DE 2019)</small>
+
+Los establecimientos de alimentos, restaurantes, bares y similares deberán disponer de bolsas, popotes y contenedores de comida y/o bebidas hechos con materiales biodegradables.
 
 ## TÍTULO QUINTO. MANEJO INTEGRAL DE RESIDUOS SÓLIDOS
 
@@ -1055,7 +1107,7 @@ En caso de que el infractor realice las medidas correctivas o las de urgente apl
 
 ###### Artículo 103.
 
-Toda persona podrá denunciar haciendo constar su personalidad o de manera anónima ante la Secretaría, cualquier hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al medio ambiente o·a los recursos naturales derivados del manejo inadecuado de los residuos, o contravenga las disposiciones de esta Ley y de los demás ordenamientos que regulen materias relacionadas con la misma.
+Toda persona podrá denunciar haciendo constar su personalidad o de manera anónima ante la Secretaría, cualquier hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al medio ambiente o a los recursos naturales derivados del manejo inadecuado de los residuos, o contravenga las disposiciones de esta Ley y de los demás ordenamientos que regulen materias relacionadas con la misma.
 
 ###### Artículo 104.
 
@@ -1150,3 +1202,37 @@ Este decreto entrará en vigor al día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 18 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 80/2019 POR EL QUE SE MODIFICA LA LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS EN EL ESTADO DE YUCATÁN".]
+
+Primero.- Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo.- Transición gradual
+
+La transición gradual hasta lograr la sustitución, eliminación y consecuente prohibición de bolsas plásticas de acarreo de un solo uso entregadas a título gratuito o de manera onerosa en establecimientos mercantiles o comerciales al consumidor final y contenedores de poliestireno así como de popotes plásticos se realizará de conformidad con lo siguiente:
+
+a) Los establecimientos comerciales que se encuentran en las inmediaciones de cenotes, áreas naturales protegidas y reservas ecológicas del estado, en un plazo de seis meses a partir de la entrada en vigor de este decreto.
+
+b) Los supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados, restaurantes y similares, en un plazo de doce meses, contado a partir de la entrada en vigor de este decreto.
+
+c) Los establecimientos dedicados a la venta al mayoreo y al menudeo de los productos señalados, en un plazo de dieciocho meses, contado a partir de la entrada en vigor de este decreto.
+
+Concluidos los plazos señalados, todos los establecimientos deberán de llevar a cabo la sustitución definitiva.
+
+Tercero.- Transición gradual
+
+La transición gradual hasta lograr la sustitución, eliminación y consecuente prohibición de contenedores de poliestireno entregadas (sic) a título gratuito o de manera onerosa en establecimientos mercantiles o comerciales al consumidor final, se realizará de conformidad con lo siguiente:
+
+a) Los establecimientos comerciales que se encuentran en las inmediaciones de cenotes, áreas naturales protegidas y reservas ecológicas del estado, en un plazo de doce meses a partir de la entrada en vigor de este decreto.
+
+b) Los supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados, restaurantes y similares, así como los establecimientos dedicados a la venta al mayoreo y al menudeo de los productos señalados, en un plazo de veinticuatro meses, contado a partir de la entrada en vigor de este decreto.
+
+Concluidos los plazos señalados, todos los establecimientos deberán de llevar a cabo la sustitución definitiva.
+
+Cuarta.- Obligación normativa
+
+Los ayuntamientos del estado en un plazo de seis meses, contado a partir de la entrada en vigor de este decreto, deberán adecuar sus reglamentos en materia ambiental para efectos de armonizarlos a las disposiciones contenidas en este decreto y expedir los programas municipales de sustitución y eliminación gradual de bolsas plásticas de acarreo de un solo uso, contenedores de poliestireno y popotes plásticos.
