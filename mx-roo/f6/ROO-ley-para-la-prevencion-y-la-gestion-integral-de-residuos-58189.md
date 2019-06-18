@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-la-prevencion-y-la-gestion-integral-de-residuos-58189"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2015-03-30"
+last_updated: "2019-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY PARA LA PREVENCION Y LA GESTION INTEGRAL DE RESIDUOS DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 18 DE JUNIO DE 2019; ÉSTE ÚLTIMO ORDENAMIENTO ENTRA EN VIGOR A LOS TREINTA DÍAS NATURALES SIGUIENTES AL DÍA DE SU PUBLICACIÓN.]</small>
+
 LEY PARA LA PREVENCIÓN Y LA GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2019 (ABROGADA).
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -1404,3 +1406,27 @@ P.O. 30 DE MARZO DE 2015.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. El Ejecutivo del Estado y los Ayuntamientos contarán con un plazo de ciento veinte días naturales a partir de la entrada en vigor del presente decreto, para realizar la adecuación reglamentaria correspondiente en los mismos términos del presente decreto, la Ley General para la Prevención y Gestión Integral de los Residuos, las Normas Oficiales Mexicanas, los Convenios Internacionales de los que México sea parte y demás normatividad aplicable.
+
+P.O. 18 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 337 POR EL QUE SE EXPIDE LA LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. La presente Ley entrará en vigor a los treinta días naturales siguientes al día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley y se abroga la Ley para la Prevención y la Gestión Integral de los Residuos Sólidos del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado de fecha diecisiete de diciembre de dos mil siete, mediante Decreto Número 256.
+
+TERCERO. En tanto se expida el Reglamento que se derive de la presente Ley, seguirán en vigor las disposiciones que han regido hasta ahora, en lo que no la contravengan.
+
+CUARTO. Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia de otros ordenamientos, se tramitarán y resolverán conforme a lo dispuesto en los mismos.
+
+QUINTO. El Ejecutivo del Estado por conducto de la Secretaría difundirá por los medios más apropiados el contenido de la presente Ley.
+
+SEXTO. El Ejecutivo del Estado, emitirá en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor de la presente Ley, el Reglamento de la misma, así como el Reglamento de Responsabilidad Extendida, ambos señalados en el presente ordenamiento.
+
+Los Ayuntamientos emitirán en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor de la presente Ley, las disposiciones reglamentarias que le permitan la aplicación de la presente Ley.
+
+SÉPTIMO. Las Dependencias de la Administración Pública Estatal y los Ayuntamientos, deberán realizar las actualizaciones o modificaciones a que haya lugar a su normatividad interna, reglamentación y estructura orgánica para estar acorde con la presente Ley.
+
+OCTAVO. Se prohíbe en el Estado de Quintana Roo, el uso, comercialización y distribución de los productos establecidos en el artículo 22 de la presente ley, por lo que la sustitución de los mismos, deberá realizarse en las zonas de exclusión en un plazo no mayor de seis meses contados a partir de la publicación de la presente ley y de un plazo no mayor de doce meses contados a partir de la publicación de la presente ley en el resto del territorio del Estado.
+
+NOVENO. Los sitios que se encuentren operando de forma irregular, sin control y medidas de seguridad e infraestructura, deberán ser regularizados en un plazo no mayor a un año posterior a la entrada en vigor de esta Ley o serán clausurados de forma definitiva.
