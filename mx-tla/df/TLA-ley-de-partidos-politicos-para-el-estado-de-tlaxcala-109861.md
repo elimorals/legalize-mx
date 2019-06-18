@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-partidos-politicos-para-el-estado-de-tlaxcala-109861"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-03"
-last_updated: "2016-12-30"
+last_updated: "2019-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE PARTIDOS POLÍTICOS PARA EL ESTADO DE TLAXCALA.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 3 de septiembre de 2015.
 
@@ -1101,7 +1101,9 @@ III. Las cantidades que, en su caso, se determinen para cada partido, serán ent
 
 IV. Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba para el desarrollo de las actividades específicas, a que se refiere el inciso c) de este artículo, y
 
-V. Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el tres por ciento del financiamiento público ordinario.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2019)</small>
+
+V. Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político destinará anualmente, el seis por ciento del financiamiento público ordinario.
 
 B. Para gastos de Campaña:
 
@@ -1618,3 +1620,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquéllas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 18 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 100.- POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 10, EL ARTÍCULO 156 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 158; SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 158, TODOS DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES; SE REFORMA LA FRACCIÓN V APARTADO A, DEL ARTÍCULO 87 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
