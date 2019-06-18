@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-132
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-10"
-last_updated: "2019-01-10"
+last_updated: "2019-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el jueves 10 de enero de 2019.
 
@@ -729,15 +729,19 @@ VI. Gestionar la firma de los instrumentos, ordenamientos o actos jurídicos rel
 
 La Secretaría contará con los órganos desconcentrados que establece el artículo 25 del presente Reglamento y que le estarán jerárquicamente subordinados. Éstos tendrán las facultades específicas que se determinen en cada caso y conformidad con lo dispuesto en la Ley Orgánica y en la demás normativa aplicable.
 
+> <small>(REFORMADO POR LA DISPOSICIÓN TRANSITORIA DÉCIMA PRIMERA DEL DECRETO POR EL QUE SE CREA Y REGULA EL ÓRGANO DESCONCENTRADO DENOMINADO COMISIÓN DE BÚSQUEDA DE PERSONAS DEL ESTADO DE MORELOS, P.O. 18 DE JUNIO DE 2019)</small>
+
 ###### Artículo 25.
 
-Forman parte de la Secretaría los siguientes órganos desconcentrados:
+Forman parte de la Secretaría los siguientes Órganos Desconcentrados:
 
-I. Instituto Estatal de Documentación de Morelos, y;
+I. Instituto Estatal de Documentación de Morelos;
 
-II. Secretaría Ejecutiva del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Morelos.
+II. Secretaría Ejecutiva del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Morelos; y,
 
-Dichos órganos tendrán la estructura, competencia y se sujetarán a los ordenamientos específicos que los regulen y al presente Reglamento en lo que resulte aplicable.
+III. Comisión de Búsqueda de Personas del Estado de Morelos.
+
+Dichos Órganos tendrán la estructura, competencia y se sujetarán a los ordenamientos específicos que los regulen y al presente Reglamento en lo que resulte aplicable.
 
 ###### Artículo 26.
 
@@ -814,3 +818,47 @@ PABLO HÉCTOR OJEDA CÁRDENAS
 LA PRESENTE HOJA DE FIRMAS ES PARTE INTEGRAL DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO
 
 RÚBRICAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE CREA Y REGULA EL ÓRGANO DESCONCENTRADO DENOMINADO COMISIÓN DE BÚSQUEDA DE PERSONAS DEL ESTADO DE MORELOS”.]
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. En un término no mayor a 30 días hábiles, contados a partir de la publicación del presente Decreto, la Secretaría de Gobierno del Poder Ejecutivo Estatal deberá emitir la Convocatoria correspondiente para la designación del Titular de la Comisión de Búsqueda de Personas del Estado de Morelos. Hasta en tanto no sea designado el Titular de la Comisión, el Secretario de Gobierno del Poder Ejecutivo Estatal nombrará a un servidor público que, sin dejar de desempeñar su cargo original, estará a cargo temporalmente del Órgano Desconcentrado que se crea, hasta en tanto se realice la designación definitiva en los términos señalados en este Decreto.
+
+TERCERA. Se instruye a las personas Titulares de las Secretarías de Gobierno, de Hacienda, de Administración y de la Contraloría, todas del Poder Ejecutivo del Estado, para que realicen todas las acciones necesarias para dotar a la Comisión de Búsqueda de Personas del Estado de Morelos, de los recursos materiales, humanos y presupuestales, necesarios para su operación, conforme a la disponibilidad presupuestaria y de acuerdo a las disposiciones en materia de austeridad y gasto público.
+
+CUARTA. Dentro de un plazo no mayor a 90 días hábiles, contados a partir de la designación del Titular del Órgano Desconcentrado que se crea por virtud del presente Decreto, deberán expedirse los Manuales Administrativos, los descriptivos de puestos y demás instrumentos normativos aplicables a la Comisión para la Búsqueda de Personas Desaparecidas del Estado de Morelos, así como, en su caso, la adecuación que resulte necesaria de los correspondientes a la Secretaría de Gobierno del Poder Ejecutivo y las demás que sean procedentes.
+
+QUINTA. De conformidad con lo dispuesto en el artículo 22, fracción XXV, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, dentro del plazo de cinco días hábiles a partir de la designación del Titular, se debe registrar, conforme a los formatos que expida la Dirección General Jurídica de la propia Secretaría de Gobierno, las firmas de los funcionarios y servidores públicos y los sellos correspondientes a la Comisión de Búsqueda de Personas del Estado de Morelos, para los efectos legales y administrativos a que haya lugar.
+
+SEXTA. La Comisión de Búsqueda de Personas del Estado de Morelos creada deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la Secretaría de Administración del Poder Ejecutivo Estatal, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+SÉPTIMA. Dentro del plazo de 30 días hábiles contados a partir de la publicación del presente Decreto, la Secretaría de Gobierno del Poder Ejecutivo Estatal deberá emitir la Convocatoria a que refiere el artículo 16 de este Decreto, a efecto de integrar al Consejo Estatal Ciudadano para la Búsqueda de Personas.
+
+Una vez recibidas las propuestas correspondientes, Convocará a Sesión de Instalación del Consejo Estatal, girando invitación directa a los representantes que considere idóneos, por las acciones que hubieren distinguido en la materia de búsqueda de personas desaparecidas.
+
+OCTAVA. En un plazo de 30 días hábiles posteriores a la instalación del Consejo Estatal Ciudadano para la Búsqueda de Personas, este deberá emitir sus lineamientos de funcionamiento.
+
+NOVENA. La Comisión de Búsqueda de Personas del Estado de Morelos, deberá, en su caso, alimentar y actualizar el Registro Estatal que forma parte del Registro Nacional de Personas Desaparecidas y No localizadas, a la brevedad posible.
+
+DÉCIMA. Una vez iniciado su funcionamiento la Comisión de Búsqueda de Personas del Estado de Morelos, deberá proponer las adecuaciones normativas pertinentes al marco jurídico materia de su competencia, o emitir aquellas necesarias en ejercicio de sus atribuciones.
+
+DÉCIMA PRIMERA. Se reforma el artículo 25 del Reglamento Interior de la Secretaría Gobierno, para quedar como sigue:
+
+###### Artículo 25.
+
+Forman parte de la Secretaría los siguientes Órganos Desconcentrados:
+
+I. Instituto Estatal de Documentación de Morelos;
+
+II. Secretaría Ejecutiva del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Morelos; y,
+
+III. Comisión de Búsqueda de Personas del Estado de Morelos.
+
+Dichos Órganos tendrán la estructura, competencia y se sujetarán a los ordenamientos específicos que los regulen y al presente Reglamento en lo que resulte aplicable.
+
+DÉCIMA SEGUNDA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto por el presente Decreto.
