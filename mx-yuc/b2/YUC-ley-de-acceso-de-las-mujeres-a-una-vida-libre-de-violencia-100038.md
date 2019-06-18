@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1000
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-01"
-last_updated: "2017-12-20"
+last_updated: "2019-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JUNIO DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de Abril de 2014.
 
@@ -177,6 +177,10 @@ IV. Violencia psicológica: es cualquier acción u omisión que dañe la estabil
 
 V. Violencia sexual: es cualquier acción que pone en riesgo o lesiona la libertad, seguridad, integridad y desarrollo psicosexual de la mujer, incluyendo la violación, el acoso, el hostigamiento sexual, las miradas o palabras lascivas y la explotación sexual de la mujer y de su imagen.
 
+> <small>(ADICIONADO, D.O. 18 DE JUNIO DE 2019)</small>
+
+Asimismo, será considerado como violencia, cualquier acción discriminatoria, que prohíba, condicione, limite, desincentive o inhiba la lactancia materna en perjuicio de los derechos y libertades fundamentales de la mujer y de su hija o hijo.
+
 VI. Violencia feminicida: es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en el ámbito público y privado, conformada por el conjunto de conductas misóginas que pueden llevar a la impunidad y a una perturbación social en un territorio determinado.
 
 VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
@@ -204,6 +208,16 @@ II. Violencia laboral: es la que ocurre en una relación de trabajo, constituida
 III. Violencia escolar: es la que ocurre dentro de los centros educativos, cuando las víctimas sean alumnas y los agresores, alumnos, docentes, directivos o cualquier otro trabajador del centro escolar.
 
 IV. Violencia en la comunidad: es la ejercida de forma individual o colectiva, que ocurre en los espacios públicos, de libre tránsito o sociales.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O. 18 DE JUNIO DE 2019)</small>
+
+Se comete violencia dentro de la comunidad en los siguientes supuestos:
+
+a) Cuando se le impida a una madre que amamante a su hija o hijo en cualquier lugar público o privado;
+
+b) Interrumpir u obstaculizar la lactancia o su extracción, y
+
+c) Cuando se le prohíba o condicione la permanencia a un lugar público por motivo de lactancia.
 
 > <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -377,7 +391,11 @@ VI. Proporcionar de manera permanente, a las clínicas y hospitales privados del
 
 VII. Establecer mecanismos de vigilancia hacia las instituciones de salud en relación al bienestar obstétrico. Cualquier acción u omisión contraria al bienestar obstétrico, deberá ser sancionada por las disposiciones legales correspondientes; asimismo se deberán difundir las medidas administrativas y judiciales que correspondan.
 
-VIII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 18 DE JUNIO DE 2019)</small>
+
+VIII. Difundir a toda la sociedad información tendiente a erradicar prácticas y tradiciones culturales que no sean favorables a la lactancia materna o que impida a la mujer amamantar de manera óptima.
+
+IX. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 16.
 
@@ -563,7 +581,11 @@ VI. Instalar y administrar refugios temporales para las víctimas.
 
 VII. Implementar políticas públicas orientadas a los agresores y encaminadas a la erradicación de los estereotipos que permiten la perpetuación de los patrones de conducta que legitiman la violencia de género.
 
-VIII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 18 DE JUNIO DE 2019)</small>
+
+VIII. Implementar lactarios para garantizar a las madres la protección adecuada de su maternidad, en su centro de trabajo.
+
+IX. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
 ### Capítulo III. Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres
 
@@ -1246,3 +1268,19 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el dia
 Segundo. Aprobación de normativa interna
 
 El Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres deberá aprobar la normativa interna de la Red Interinstitucional de Atención a Hombres que Ejercen Violencia de Género dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+D.O. 18 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 81/2019 POR EL QUE SE MODIFICA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, EN MATERIA DE LACTANCIA".]
+
+Entrada en vigor
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Disposición reglamentaria
+
+Artículo Segundo.- Los ayuntamientos, de acuerdo a su disponibilidad presupuestaria deberán implementar lo dispuesto en este decreto, y en el ámbito de su competencia deberán realizar las reformas correspondientes a su reglamentación para procurar la observancia y considerar infracciones a quienes cometan violencia en la comunidad o algún acto de discriminación en contra de las mujeres lactantes.
+
+Derogación Expresa
+
+Artículo Tercero.- Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
