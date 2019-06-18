@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2018-06-20"
+last_updated: "2019-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2019.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -52,6 +52,10 @@ La Autonomía del Municipio Libre, se expresa en la facultad de gobernar y admin
 ###### ARTÍCULO 3.
 
 Cada Municipio será gobernado por el Ayuntamiento al que le corresponde la representación política y jurídica del Municipio, la administración de los asuntos municipales y el cuidado de los intereses de la comunidad dentro de su circunscripción territorial. Las autoridades municipales tienen competencia plena y exclusiva sobre su territorio, población y organización política-administrativa, con las limitaciones que les señalen las leyes.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2019)</small>
+
+En el ámbito de su competencia, los municipios establecerán las instituciones que determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos, con el Estado y la Federación con el fin de promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria.
 
 ### Capítulo II. De los Habitantes, Residentes y Vecinos de los Municipios
 
@@ -777,7 +781,9 @@ n) Conceder permisos y licencias para la apertura y operación de comercios;
 
 o) Adquirir bienes en las formas previstas por la ley, así como aceptar donaciones, herencias y legados;
 
-p) Fomentar en el Municipio actividades cívicas, culturales, artísticas y deportivas que eleven el nivel de vida de la población;
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2019)</small>
+
+p) Fomentar y hacer efectivas las actividades cívicas, culturales, artísticas y deportivas en el Municipio, así como en cada una de sus delegaciones y comunidades rurales con mayor índice indígena atendiendo los derechos y practicas vitales de las tradiciones y costumbres de las comunidades indígenas;
 
 q) Auxiliar por ministerio de ley, a la autoridad estatal en materia de Registro Civil, en el correcto desempeño de las funciones de esta naturaleza; así como resolver las controversias que se susciten en el Municipio sobre vecindad y ciudadanía y expedir las constancias o certificaciones sobre vecindad y residencia del área de su circunscripción;
 
@@ -851,6 +857,10 @@ i) Decretar la cancelación de las concesiones de servicios públicos que hayan 
 
 j) Prever las disposiciones necesarias para implementar la conexión gratuita a internet en los parques urbanos.
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2019)</small>
+
+k) Brindar los servicios de salud y bienestar social a las comunidades indígenas, asegurando en el ámbito de sus competencias el acceso efectivo mediante las gestiones necesarias para la ampliación de la cobertura del sistema nacional o estatal, aprovechando la medicina tradicional, así como apoyar la nutrición de los indígenas mediante programas de alimentación.
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2018)</small>
 
 IV. En materia de Hacienda Pública Municipal:
@@ -898,6 +908,18 @@ e) Aprobar la creación de fideicomisos, organismos o empresas municipales o par
 f) Aprobar la celebración de los convenios de desarrollo que el Presidente Municipal celebre con dependencias, entidades u organismos descentralizados del Ejecutivo del Estado o de la Administración Pública Federal;
 
 g) Auxiliar a las autoridades estatales y federales en la preservación del patrimonio arqueológico e histórico y de los atractivos naturales o turísticos del Municipio;
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2019)</small>
+
+h) Garantizar y establecer los programas necesarios de desarrollo en las comunidades indígenas atendiendo conforme a sus costumbres y tradiciones para que realicen sus actividades productivas y de infraestructura y vivienda.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2019)</small>
+
+i) Procurar el incremento de los niveles de escolaridad favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior, así como un establecimiento de sistemas de becas para estudiantes indígenas en todos los niveles.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2019)</small>
+
+j) Consultar a los pueblos o comunidades indígenas en la elaboración de los planes municipales e incorporar las recomendaciones y propuestas que realicen.
 
 VI. En materia de Seguridad Pública y Tránsito:
 
@@ -979,7 +1001,9 @@ V. De Industria, Comercio y Asuntos Agropecuarios;
 
 VI. De Educación Cultura y Deportes;
 
-VII. De Turismo y Ecología;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2019)</small>
+
+VII. De Turismo;
 
 VIII. De Salud Pública y Asistencia Social;
 
@@ -1012,6 +1036,14 @@ XIV. De Desarrollo Familiar y Grupos Vulnerables.
 > <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2018)</small>
 
 XV. Para el Desarrollo Juvenil.
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2019)</small>
+
+XVI. De Asuntos Indígenas.
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2019)</small>
+
+XVII. De Ecología, Ambiente y Protección Animal.
 
 ###### ARTÍCULO 73.
 
@@ -3386,3 +3418,11 @@ SEGUNDO. Los Honorables Ayuntamientos de los Municipios del Estado de Quintana R
 Para el caso de que algún Ayuntamiento, cuenten (sic) con alguna Comisión en materia de Juventud, deberán analizar, en el mismo plazo, las modificaciones respectivas a su denominación de conformidad al presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 18 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 336 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los Ayuntamientos del Estado deberán crear las Comisiones Ordinarias de Asuntos Indígenas y de Ecología, Ambiente y Protección Animal, dentro de los 120 días siguientes a la publicación del presente decreto en el Periódico Oficial del Estado de Quintana Roo.
