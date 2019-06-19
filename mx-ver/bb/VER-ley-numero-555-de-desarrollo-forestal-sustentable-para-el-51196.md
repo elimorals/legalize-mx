@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-555-de-desarrollo-forestal-sustentable-para-el-51196
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-14"
-last_updated: "2016-11-11"
+last_updated: "2019-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JUNIO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 14 de julio de 2006.
 
@@ -349,7 +349,9 @@ f) Participar en programas integrales de prevención y combate a las plagas y en
 
 g) Participar en las acciones de ordenamiento forestal que se lleven a cabo en el municipio;
 
-h) Participar, de conformidad con los acuerdos y convenios que se celebren con los Gobiernos Federal y de la Entidad, en la vigilancia forestal en el Municipio; y
+> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2019)</small>
+
+h) Par (sic) cipar (sic), de conformidad con los acuerdos que celebren con los Gobiernos Federal y de la Entidad, en la implementación de acciones de protección, conservación, ordenación y vigilancia forestal en el municipio; y
 
 i) Promover y participar en los programas y acciones del Fondo Estatal Forestal.
 
@@ -1127,6 +1129,10 @@ VI. Clausura temporal o definitiva, parcial o total, de las instalaciones, maqui
 
 En el caso de las fracciones III y IV de este artículo, la Secretaría ordenará se haga la inscripción de la suspensión o revocación correspondiente en el Registro Forestal Nacional.
 
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2019)</small>
+
+De manera supletoria y con apego a los acuerdos y convenios celebrados con las instancias federales y estatales, los municipios podrán aplicar con carácter de precautorias, las sanciones previstas en las fracciones V y VI del presente artículo, en tanto se informa a la Secretaría de la infracción detectada y ésta dictamine al respecto, garantizando así que el daño causado no se acreciente.
+
 ###### Artículo 88.
 
 La imposición de las multas a que se refiere el artículo anterior, se determinará en la forma siguiente:
@@ -1258,3 +1264,11 @@ QUINTO. Para llevar a cabo las actividades derivadas de las facultades transferi
 SEXTO. En tanto se expidan las nuevas normas reglamentarias o reformas correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad reglamentaria vigente.
 
 SÉPTIMO. Las donaciones, compensaciones, multas o cuotas voluntarias de los trámites administrativos relacionados con los servicios prestados por la Secretaría, la Procuraduría y los Municipios en materia forestal, tendrán un fin específico relacionado con la protección y restauración del medio ambiente del Estado de Veracruz y serán depositados en el Subfiso del Fondo Forestal Estatal.
+
+G.O. 19 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 252 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
