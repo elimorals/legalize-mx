@@ -4,7 +4,7 @@ identifier: "COL-ley-de-movilidad-sustentable-para-el-estado-de-colima-118706"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-30"
-last_updated: "2018-09-29"
+last_updated: "2019-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICAL: 19 DE JUNIO DE 2019.
 
 Ley publicada en la Edición Especial Extraordinaria al Número 7 del Periódico Oficial del Estado de Colima, el lunes 30 de enero de 2017.
 
@@ -459,9 +459,9 @@ CVIII. Transporte Concesionado: Al traslado de personas en lo individual o de ma
 
 CIX. Transporte Privado: Al traslado de personas en lo individual o colectivamente, que se realiza sin cobro específico por lo que no se considera un servicio o al vehículo destinado a esa actividad;
 
-(NOTA: EL 16 DE OCTUBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 13/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN CX DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2019)</small>
 
-CX. Transporte Privado asistido por aplicaciones tecnológicas: Al transporte de personas en lo individual o colectivamente, mediante contratos entre privados asistidos a través de aplicaciones móviles, que permite conectar la oferta privada con usuarios afiliados a sus servicios, REALIZANDO EL PAGO DE LOS SERVICIOS EXCLUSIVAMENTE MEDIANTE EL USO DE LA APLICACIÓN TECNOLÓGICA;
+CX. Transporte Privado asistido por aplicaciones tecnológicas: Al transporte de personas en lo individual o colectivamente, mediante contratos entre privados asistidos a través de aplicaciones móviles, que permite conectar la oferta privada con usuarios afiliados a sus servicios.
 
 CXI. Transporte Público: Al conjunto de operaciones y medios a cargo del Estado, para trasladar a personas y bienes, a cambio del pago de una remuneración económica;
 
@@ -981,13 +981,41 @@ c. El titular del Instituto Colimense para la Discapacidad;
 
 d. Tres representantes de las Instituciones Públicas de Educación Superior;
 
-e. Un representante de la Federación de Estudiantes Colimenses; y
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
 
-f. Doce miembros permanentes, representantes legales de las empresas de transporte del estado y organizaciones con mayor representatividad en la entidad, relativas a las modalidades de transporte público individual, colectivo y de carga, propuestos por las referidas empresas y organizaciones.
+e. Dos representantes de Instituciones Privadas de Educación Superior en el Estado;
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
+
+f. Un representante de la sociedad de padres de familia de la comunidad estudiantil de nivel educación básica, de instituciones públicas;
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+
+g. Un representante de la comunidad estudiantil de nivel medio superior, de instituciones públicas;
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+
+h. Un representante de la comunidad estudiantil de nivel superior, de cada una de las instituciones públicas, mismos que no deberán pertenecer al mismo gremio de asociados o federación, debiendo prevalecer la pluralidad de sus representantes;
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+
+i. Dos representantes de la comunidad estudiantil de nivel superior, de instituciones privadas, mismos que no deberán pertenecer al mismo gremio de asociados o federación, debiendo prevalecer la pluralidad de sus representantes;
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+
+j. Los titulares de las Presidencias Municipales o mediante un suplente acreditado por estos;
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+
+k. Doce miembros permanentes, representantes legales de las empresas de transporte del estado y organizaciones con mayor representatividad en la entidad, relativas a las modalidades de transporte público individual, colectivo y de carga, propuestos por las referidas empresas y organizaciones; y
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+
+l. Tres representantes de las Organizaciones de la Sociedad Civil en materia de movilidad.
 
 VI. A invitación que les extienda el Presidente del Consejo, podrán integrarse:
 
-a. Los Presidentes Municipales;
+a. (DEROGADO, P.O. 19 DE JUNIO DE 2019)
 
 b. El Director General de Protección Civil del Estado;
 
@@ -999,7 +1027,7 @@ e. El Comisario General de la Policía Federal Preventiva;
 
 f. Representantes de los órganos político administrativos relacionados con la política de movilidad del Estado; y
 
-g. Representantes de Organizaciones de la Sociedad Civil en materia de movilidad.
+g. (DEROGADO, P.O. 19 DE JUNIO DE 2019)
 
 VII. El Consejo, además, deberá invitar a representantes de los diversos sectores de la población y de las organizaciones sociales y civiles, cuando se atiendan o discutan programas y proyectos que se refieran o afecten a alguno de dichos sectores o bien, cuando éstos manifiesten interés en participar en tales programas y proyectos.
 
@@ -2403,13 +2431,13 @@ Políticas Generales para los estacionamientos:
 
 (NOTA: EL 18 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 91/2017, DECLARÓ LA INVALIDEZ DEL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA”. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 4. EL EJECUTIVO DEL ESTADO PODRÁ IMPLEMENTAR SISTEMAS DE CONTROL, SUPERVISIÓN Y COBRO DE ESTACIONAMIENTO DE VEHÍCULOS EN LA VÍA PÚBLICA, YA SEA EN FORMA DIRECTA O A TRAVÉS DE TERCEROS ESPECIALIZADOS A QUIENES SE LES OTORGUE UN PERMISO O CONCESIÓN.
 
 (NOTA: EL 18 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 91/2017, DECLARÓ LA INVALIDEZ DEL NUMERAL 5 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA”. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 5. LA OPERACIÓN DE LOS SISTEMAS DE COBRO DE ESTACIONAMIENTO EN VÍA PÚBLICA ESTARÁ A CARGO DE LA SECRETARÍA, ASÍ COMO A TRAVÉS DE TERCEROS, SEGÚN LO SEÑALE EL REGLAMENTO CORRESPONDIENTE, DE ACUERDO A LAS DISPOSICIONES QUE AHÍ SE ESTABLEZCAN.
 
@@ -2645,9 +2673,9 @@ I. Privado individual: Es aquel en el cual el propietario de la unidad o unidade
 
 II. Mercantil y carga privada: Es aquel servicio de transporte en que la mercancía ó carga sea propiedad del dueño del vehículo o exista entre éste y el propietario de lo transportado una relación directa o inmediata, de naturaleza económica, cultural, o relacionada con la prestación de un servicio en que el transporte sea accesorio del principal;
 
-(NOTA: EL 16 DE OCTUBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 13/2017, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN III DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2019)</small>
 
-III. Servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas: Es aquel que se otorga por permiso del Ejecutivo del Estado y tiene como objeto trasladar a personas y sus cosas en vehículos DE GAMA ALTA O PREMIUM, con o sin operador, que previamente se solicita mediante el uso exclusivo de aplicaciones o plataformas tecnológicas y sus dispositivos electrónicos, caracterizándose por no estar sujetos a itinerarios, rutas, frecuencias, ni horario fijo, con vigencia no mayor de un año pudiendo renovarse por un periodo igual, cuyas reglas y especificaciones se sujetan a lo establecido en el presente Título. LA FORMA DE PAGO SE DEBERÁ REALIZAR MEDIANTE UN MECANISMO PROPIO; y
+III. Servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas: Es aquel que se otorga por permiso del Ejecutivo del Estado y tiene como objeto trasladar a personas y sus cosas en vehículos, con o sin operador, que previamente se solicita mediante el uso exclusivo de aplicaciones o plataformas tecnológicas y sus dispositivos electrónicos, caracterizándose por no estar sujetos a itinerarios, rutas, frecuencias, ni horario fijo, con vigencia no mayor de un año pudiendo renovarse por un periodo igual, cuyas reglas y especificaciones se sujetan a lo establecido en el presente Título; y
 
 IV. Servicio especial de transporte accesorio: Es el que prestan en forma gratuita las organizaciones, establecimientos y comercios con la finalidad de transportar exclusivamente a sus clientes, visitantes, afiliados y miembros de manera complementaria a su actividad o giro principal. Dicho servicio podrá estar sujeto a itinerario y horario determinado, cumpliendo con las características físicas y operativas que al respecto establezca la Secretaría o señale el Reglamento respectivo.
 
@@ -3111,13 +3139,9 @@ Concesiones y/o permisos para el transporte de carga
 
 1. La relación de este tipo de servicios se otorgará primordialmente con la emisión de concesiones y/o permisos, los cuales deben sujetarse a lo establecido en el Título V de la presente Ley.
 
-(NOTA: EL 16 DE OCTUBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 13/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 169.
 
-Tipo de vehículo para prestar el servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas
-
-1. Se operará con vehículos con condiciones físico-mecánicas y prestaciones iguales o superiores al taxi ejecutivo público, que contengan además las siguientes características: equipamiento interior completo, con capacidad de cinco hasta nueve pasajeros incluidos el conductor, con equipamiento de seguridad completo (frenos antibloqueo tipo ABS, bolsas de aire frontal y traseras, control electrónico de estabilidad "ESP", testigos auditivos de seguridad y los que determinen las normas oficiales mexicanas vigentes en cuanto a dispositivos de seguridad en vehículos nuevos). Las características físicas de los vehículos no deben presentar dimensiones menores entre ejes a 2,750 mm, deben contar con un mínimo de 4 puertas, el maletero o portaequipaje deberá tener una capacidad mínima de 260 litros sin abatir asientos. Adicionalmente, los vehículos deben contar con equipo de aire acondicionado y elevadores eléctricos en todas sus ventanillas. Los aspectos requeridos deberán ser los de fábrica sin presentar modificaciones, a excepción de los adaptados a personas con discapacidad, las cuales se comprobarán por medio de las fichas técnicas oficiales del fabricante.
+(DEROGADO, P.O. 19 DE JUNIO DE 2019)
 
 ###### Artículo 170.
 
@@ -3161,9 +3185,7 @@ Restricciones de operación
 
 2. Además los prestadores de servicio que estén bajo este permiso no podrán:
 
-(NOTA: EL 16 DE OCTUBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 13/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DEL NUMERAL 2 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-I. RECIBIR PAGOS EN EFECTIVO;
+I. (DEROGADA, P.O. 19 DE JUNIO DE 2019)
 
 II. Subarrendar los vehículos;
 
@@ -3171,13 +3193,9 @@ III. Recibir pagos mediante tarjetas de prepago de servicios de transporte públ
 
 IV. Hacer base o sitio.
 
-(NOTA: EL 16 DE OCTUBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 13/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 173.
 
-Prohibición de prácticas monopólicas
-
-1. La Secretaría evitará prácticas monopólicas en la emisión de permisos para la prestación del servicio, para el caso específico del servicio transporte privado de arrendamiento a través de aplicaciones tecnológicas, cada persona física tendrá derecho a ser titular de un permiso y las personas jurídico colectivas de hasta diez. El permiso que se otorgue a una persona física o jurídica colectiva amparará sólo un vehículo.
+(DEROGADO, P.O. 19 DE JUNIO DE 2019)
 
 ###### Artículo 174.
 
@@ -3191,9 +3209,7 @@ Registro de las empresas de redes de gestión de la demanda con plataformas tecn
 
 1. Las empresas operadoras del servicio de arrendamiento privado y/o de la plataforma tecnológica que tengan implementada para tal efecto, deberán presentar su Registro en el formato, mecanismo o medio de acceso que sea especificado por la Secretaría.
 
-(NOTA: EL 16 DE OCTUBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 13/2017, DECLARÓ LA INVALIDEZ DEL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-2. LOS CIUDADANOS COLIMENSES TENDRÁN PREFERENCIA PARA ADHERIRSE COMO SOCIOS PARA OPERAR LOS SERVICIOS QUE OFRECEN LAS EMPRESAS DE REDES DE GESTIÓN DE LA DEMANDA CON PLATAFORMAS TECNOLÓGICAS.
+2. (DEROGADO, P.O. 19 DE JUNIO DE 2019)
 
 ###### Artículo 176.
 
@@ -3371,9 +3387,9 @@ Registro de Empresas de Redes de Acceso y Gestión de la Demanda
 
 1. Estas empresas están obligadas a registrarse en la Secretaría a través del Sistema Estatal de Información de Transporte, proporcionando la información siguiente:
 
-(NOTA: EL 16 DE OCTUBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 13/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2019)</small>
 
-I. Acta constitutiva de la empresa legalmente constituida para operar en los Estados Unidos Mexicanos, cuyo objeto social incluya entre otros, desarrollo de aplicaciones web DE SU PROPIEDAD O DE SUBSIDIARIAS O FILIALES, que sirvan como intermediación entre particulares para realizar el servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas;
+I. Acta constitutiva de la empresa legalmente constituida para operar en los Estados Unidos Mexicanos, cuyo objeto social incluya entre otros, desarrollo de aplicaciones web, que sirvan como intermediación entre particulares para realizar el servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas;
 
 II. Documento que acredite la designación del representante legal;
 
@@ -5689,9 +5705,9 @@ Tarifas preferenciales para transporte público colectivo
 
 1. Podrán acceder a la tarifa preferencial de transporte público colectivo:
 
-(NOTA: EL 16 DE OCTUBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 13/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2019)</small>
 
-I. Los estudiantes inscritos en planteles educativos que se encuentren incorporados a la Secretaría de Educación, DESDE LOS NIVELES DE SECUNDARIA EN ADELANTE, aplicables de forma gradual respetando los acuerdos establecidos previamente con el sector;
+I. Los estudiantes inscritos en planteles educativos incorporados a la Secretaría de Educación;
 
 II. Las personas con discapacidad;
 
@@ -5699,7 +5715,9 @@ III. Los adultos en plenitud o de la tercera edad de sesenta años o más; y
 
 IV. Los menores de tres años quedarán exentos del pago de tarifa.
 
-2. Las tarifas preferenciales serán aplicadas una vez que se definan los montos viables de tarifa producto de los estudios que se mencionan en el presente Título.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
+
+2. Las tarifas preferenciales no serán menores al 50% de descuento para las personas mencionadas en las fracciones de la I a la III, debiendo garantizar dicha tarifa preferencial por el Ejecutivo del Estado a través de la Secretaría, mostrando credencial emitida por autoridad competente y, en el caso de los estudiantes, que la credencial sea emitida por cualquier Institución Educativa incorporada a la Secretaría de Educación Pública.
 
 ###### Artículo 374.
 
@@ -5713,9 +5731,13 @@ Definición de porcentajes aplicables a usuarios con derecho a tarifa preferenci
 
 Tecnología de validación de la tarifa preferencial
 
-1. Los usuarios de la tarifa preferencial podrán hacer válido su descuento presentando la tarjeta de prepago del sistema de cobro integrado o del sistema que al efecto se establezca.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
 
-2. Los estudiantes según el ciclo de estudio, deberán refrendar la vigencia de su tarjeta de prepago, presentando únicamente la tarjeta y la constancia de inscripción o de pago de colegiatura que cubra el nuevo ciclo.
+1. Los usuarios de la tarifa preferencial podrán hacer válido su descuento presentando la tarjeta de prepago del sistema de cobro integrado o del sistema que al efecto se establezca. Sin embargo, para hacer válido el descuento a las personas usuarias beneficiadas por dicho descuento será optativo para el usuario el empleo de tarjetas de prepago o el pago en efectivo, mismo que deberá garantizarse solo con el hecho de exhibir una credencial emitida por autoridad competente, ya sea para la tercera edad, de discapacidad o de estudiantes, en el último caso, bastará que la credencial sea emitida por cualquier Institución Educativa incorporada a la Secretaría de Educación Pública que lo acredite como estudiante.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
+
+2. Los estudiantes según el ciclo de estudio, deberán refrendar la vigencia de su tarjeta de prepago, presentando únicamente la tarjeta y la constancia de inscripción o de pago de colegiatura que cubra el nuevo ciclo. De igual manera, será optativo para el estudiante desde el nivel de primaria, el uso de la tarjeta de prepago o realizar su pago en efectivo, mostrando al momento del pago una credencial emitida por cualquier Institución Educativa incorporada a la Secretaría de Educación Pública que lo acredite como estudiante.
 
 3. La Secretaría determinará las medidas para que los menores de tres años tengan acceso al servicio sin costo. Para gozar de la exención no requerirán la tarjeta de prepago del sistema de cobro.
 
@@ -6047,11 +6069,11 @@ DÉCIMO CUARTO. Dentro de los 120 días posteriores a la entrada en vigor de la 
 
 DÉCIMO QUINTO. La implementación de los nuevos esquemas de tarifa técnica y social, así como los subsidios correspondientes deberán ajustarse cuando el Estado esté en grado de invertir en la infraestructura y equipamiento necesario para apoyar la reducción de los costos de operación del sector de transporte.
 
-DÉCIMO SEXTO. La aplicación de los subsidios generalizados para los grupos vulnerables serán aplicados gradualmente respetando los acuerdos previos con los concesionarios, privilegiando la implementación gradual de los mismos, ajustados a la capacidad financiera del sistema y de las aportaciones del Estado. La aplicación de tarifas preferenciales deberán aplicarse en la medida en que se establezcan los acuerdos correspondientes.
+DÉCIMO SEXTO. (DEROGADO, P.O. 19 DE JUNIO DE 2019)
 
-En el caso de la tarifa para estudiantes, la aplicación del subsidio se determinará y operará tomando en cuenta las disposiciones contenidas en los acuerdos celebrados entre el Ejecutivo del Estado, concesionarios y Federación de Estudiantes Colimenses de fecha 31 de octubre del 2012 y protocolizados ante fedatario público en fecha 30 de enero de 2013.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
 
-DÉCIMO SÉPTIMO. Las tarifas preferenciales que hagan referencia al pago a través de sistemas de prepago, se aplicarán a partir de la implementación de dicha tecnología.
+DÉCIMO SÉPTIMO. Las tarifas preferenciales que hagan referencia al pago a través de sistemas de prepago, se aplicarán a partir de la implementación de dicha tecnología, sin que esto implique menoscabo de los derechos ganados a las personas beneficiarias de conformidad con la ley respectiva, debiendo ser opcional para el usuario beneficiado con la tarifa preferencial el pago en efectivo o a través de sistemas de prepago.
 
 DÉCIMO OCTAVO. En la Ley de Hacienda del Estado se deberán incluir los conceptos de cobro relativos a las autorizaciones, permisos y procesos que se prevén en la presente Ley.
 
@@ -6077,15 +6099,7 @@ VIGÉSIMO SEGUNDO. Los convenios y acuerdos de coordinación y colaboración adm
 
 VIGÉSIMO TERCERO. El Sistema de Recaudo para el Sistema Integrado de Transporte Público Regional previsto por el artículo 357 y demás correlativos y concordantes de la presente Ley, deberá establecerse una vez que la Secretaría y agrupaciones de transportistas establezcan los consensos para su implementación, que constituya un beneficio tangible para los usuarios.
 
-(NOTA: EL 16 DE OCTUBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 13/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO VIGÉSIMO CUARTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-VIGÉSIMO CUARTO. PARA EL CASO DEL SERVICIO DE TRANSPORTE PRIVADO POR ARRENDAMIENTO A TRAVÉS DE APLICACIONES TECNOLÓGICAS, LA FLOTA DE VEHÍCULOS NO DEBERÁ SUPERAR EL 4% DEL PARQUE VEHICULAR DEL SERVICIO DE TRANSPORTE PÚBLICO INDIVIDUAL MOTORIZADO EN TODAS SUS MODALIDADES PARA EL AÑO 2017. DICHO PORCENTAJE PODRÁ MODIFICARSE ANUALMENTE DE CONFORMIDAD AL INFORME TÉCNICO DE LA OFERTA Y DEMANDA QUE AL RESPECTO EMITA LA SECRETARÍA PARA SU DEBIDA APROBACIÓN POR EL EJECUTIVO DEL ESTADO.
-
-LA SECRETARÍA REGULARÁ EL MECANISMO PARA LLEVAR A CABO EL REGISTRO Y CONTROL DE LOS VEHÍCULOS QUE PRESTEN EL SERVICIO DE TRANSPORTE PRIVADO POR ARRENDAMIENTO A TRAVÉS DE APLICACIONES TECNOLÓGICAS, GARANTIZANDO LA COMPETENCIA ECONÓMICA Y EL CUMPLIMIENTO DEL PORCENTAJE QUE ESTABLECE EL ARTÍCULO 171 DE LA PRESENTE LEY.
-
-EN EL CASO DE LA PRIMERA CONVOCATORIA LOS PERMISOS PARA ESTA MODALIDAD PODRÁN OTORGARSE A VEHÍCULOS DE UNA ANTIGÜEDAD MÁXIMA DE DOS AÑOS, LOS CUALES DEBERÁN CONTAR CON LAS CARACTERÍSTICAS QUE EXIGE LA PRESENTE LEY PARA EL SERVICIO DE TAXI ESTÁNDAR Y O TAXI EJECUTIVO PÚBLICO, HASTA EN TANTO SE CUBRA EL PORCENTAJE SEÑALADO EN EL PRIMER PÁRRAFO. DEBIENDO RENOVAR SU FLOTA VEHICULAR EN UN MÁXIMO DE TRES AÑOS, CUMPLIENDO PARA ELLO CON LAS CARACTERÍSTICAS DE LOS VEHÍCULOS QUE SEÑALA EL ARTÍCULO 169 DE LA PRESENTE LEY.
-
-A PARTIR DE LA SEGUNDA CONVOCATORIA, TODOS LOS VEHÍCULOS QUE SE REGISTREN DEBERÁN CUBRIR LAS CARACTERÍSTICAS DE LOS VEHÍCULOS QUE SEÑALA EL ARTÍCULO 169 DE LA PRESENTE LEY.
+VIGÉSIMO CUARTO. (DEROGADO, P.O. 19 DE JUNIO DE 2019)
 
 VIGÉSIMO QUINTO. Los contratos de arrendamiento a que se refiere el artículo 343 del presente Decreto, deberán regularizarse por el concesionario dentro de un año, contando (sic) a partir de la entrada en vigor de la presente Ley. De no hacerlo la Secretaría procederá a exigir la prestación personal y habitual de servicio en los casos descritos por dicho artículo.
 
@@ -6110,3 +6124,21 @@ P.O. 29 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 547 POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 34 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 67 BIS 2 DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA; APRUEBA REFORMAR LA FRACCIÓN LX DEL ARTÍCULO 10 Y EL ARTÍCULO 68 DE LA LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIA (SIC) Y SE APRUEBA REFORMAR EL NUMERAL 2 DEL ARTÍCULO 109 DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA”.
+
+P.O. 19 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 79 POR EL QUE SE REFORMAN LA FRACCIÓN CX, DEL NUMERAL 1, DEL ARTÍCULO 13; LOS PUNTOS E Y F, DE LA FRACCIÓN V, NUMERAL 1, DEL ARTÍCULO 27; LA FRACCIÓN III, NUMERAL 1, DEL ARTÍCULO 125; LA FRACCIÓN I, DEL NUMERAL 1, DEL ARTÍCULO 183; FRACCIÓN I, NUMERAL 1 Y NUMERAL 2, DEL ARTÍCULO 373; NUMERALES 1 Y 2 DEL ARTÍCULO 375; DÉCIMO SÉPTIMO TRANSITORIO; SE ADICIONAN LOS PUNTOS G, H, I, J, K Y L, DE LA FRACCIÓN V, NUMERAL 1, DEL ARTÍCULO 27; Y SE DEROGAN LOS PUNTOS A Y G DE LA FRACCIÓN VI, DEL NUMERAL 1, DEL ARTÍCULO 27; EL ARTÍCULO 169; LA FRACCIÓN I, DEL NUMERAL 2, DEL ARTÍCULO 172; 173; EL NUMERAL 2, DEL ARTÍCULO 175; ASÍ COMO LAS DISPOSICIONES TRANSITORIAS DÉCIMO SEXTA Y LA VIGÉSIMA CUARTA, TODOS DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º de septiembre de 2019 y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado deberá adecuar, en su caso, las disposiciones normativas y reglamentarias respectivas, de conformidad con lo que se dispone en este instrumento.
+
+TERCERO.- Las credenciales de identificación escolar con la Clave Única de Registro de Alumno (CURA) que emita la Secretaría de Educación del Gobierno del Estado de Colima, a partir del inicio del ciclo escolar 2020-2021, deberán contar con un Código QR u otro medio electrónico de validación que se Acuerdo (sic) en el Consejo Estatal de Movilidad Urbana Sustentable, cuya información contenida consistirá al menos en la corroboración de la pertenencia del estudiante a un plantel incorporado a la Secretaría de Educación Pública, a fin de que los prestadores de servicio público de transporte colectivo puedan verificar tal circunstancia y se realice el descuento de tarifa contemplado en la Ley.
+
+El Gobierno del Estado de Colima deberá realizar las gestiones ante el sistema federalizado y cualquier otra institución educativa que preste sus servicios en el Estado, a fin de que las credenciales que expidan cuenten con un Código QR u otro medio electrónico de validación, en los términos del párrafo anterior.
+
+En tanto se expiden las credenciales con el sistema electrónico antes mencionado, las ya expedidas con anterioridad serán válidas para la obtención de la tarifa preferencial prevista en el presente Decreto.
+
+El Congreso del Estado de Colima, deberá prever la suficiencia presupuestal respectiva para lo establecido en la presente disposición transitoria, en el Presupuesto de Egresos del Estado de Colima del Ejercicio Fiscal 2020.
+
+CUARTO.- En lo conducente a los estudiantes de las instituciones educativas del sistema federalizado o a las diversas que presten el servicio de educación en la entidad, tanto públicas como privadas, bastará para acreditar su calidad de estudiante, la presentación de la credencial que las mismas expidan.
