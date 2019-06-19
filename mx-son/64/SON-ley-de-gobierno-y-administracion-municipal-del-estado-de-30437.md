@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2019-06-13"
+last_updated: "2019-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE JUNIO DE 2019.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -967,9 +967,11 @@ Cada una de las comisiones podrá nombrar asesores cuando lo requiera, previa ap
 
 Por acuerdo de las dos terceras partes de los miembros del Ayuntamiento y por causa justificada, podrá dispensarse o removerse del cargo a quien integre alguna comisión, haciéndose un nuevo nombramiento. Lo anterior, previa discusión en la que deberán estar presentes los integrantes de la comisión.
 
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2019)</small>
+
 ###### Artículo 77.
 
-Sin perjuicio de lo previsto en el Reglamento respectivo, el Ayuntamiento establecerá, cuando menos, las comisiones de: gobernación y reglamentación municipal; de hacienda, patrimonio y cuenta pública; de seguridad pública y tránsito; de desarrollo urbano, obras y servicios públicos y preservación ecológica y de educación, cultura, recreación y deporte.
+Sin perjuicio de lo previsto en el Reglamento respectivo, el Ayuntamiento establecerá, cuando menos, las comisiones de: gobernación y reglamentación municipal; de hacienda, patrimonio y cuenta pública; de seguridad pública y tránsito; de desarrollo urbano, obras y servicios públicos y preservación ecológica y de educación, cultura, recreación, deporte y anticorrupción.
 
 ###### Artículo 78.
 
@@ -982,6 +984,30 @@ II. Solicitar y obtener del Tesorero Municipal, la información relativa a la ha
 III. Vigilar que la cuenta pública municipal se integre en la forma y términos previstos en las disposiciones aplicables y se remita en tiempo al Congreso del Estado; y
 
 IV. Las demás que le confieran ésta u otras leyes municipales y el Reglamento Interior.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2019)</small>
+
+###### Artículo 78 Bis.
+
+La Comisión Anticorrupción tendrá las siguientes atribuciones:
+
+I. Proponer al Ayuntamiento, acciones y programas de carácter preventivo para promover la Ética y la Honestidad en el servicio público municipal;
+
+II. Promover, impulsar y difundir a la comunidad, programas encaminados a establecer y fortalecer la organización y participación ciudadana y la cultura de la información, legalidad y denuncia;
+
+III. Proponer al Ayuntamiento, analizar y/o estudiar políticas, lineamientos, programas y/o acciones concernientes al combate a la corrupción, así como al establecimiento de normas que eviten conflicto de intereses y favorezcan la preservación y uso adecuado de los recursos públicos, en las dependencias y entidades de la administración pública municipal;
+
+IV. Proponer las reformas necesarias para armonizar los instrumentos que en materia reglamentaria puedan aplicar sanciones efectivas y oportunas con el fin de combatir la corrupción en el gobierno municipal;
+
+V. Dar seguimiento a las políticas, lineamientos, programas y/o acciones que se instrumenten por parte del gobierno municipal, a través de la Contraloría Municipal, en materia de combate a la corrupción;
+
+VI. Tener acceso a los expedientes de responsabilidad administrativa que se instauren en contra de los servidores públicos municipales;
+
+VII. Proponer políticas, criterios o disposiciones reglamentarias que estimulen la debida coordinación entre esta Comisión Anticorrupción, la Contraloría Municipal, la Comisión Anticorrupción del Congreso del Estado e integrantes que conforman el Comité Coordinador del Sistema Estatal Anticorrupción, con el objeto de que se dé tramite expedito y apegado a la ley, a las denuncias sobre presuntas irregularidades cometidas por servidores públicos;
+
+VIII. Las que el Ayuntamiento le encomiende; y
+
+IX. Las demás que señalen las disposiciones aplicables.
 
 ###### Artículo 79.
 
@@ -4376,3 +4402,19 @@ B.O. 13 DE JUNIO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 19 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 36, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos del estado, contarán con un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente decreto, para llevar a cabo las acciones necesarias para la integración de sus comisiones anticorrupción y poner en funcionamiento las atribuciones establecidas en el artículo 78 BIS de la Ley de Gobierno y Administración Municipal.
