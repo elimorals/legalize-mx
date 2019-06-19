@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-555-de-desarrollo-forestal-sustentable-para-el-51196
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-14"
-last_updated: "2016-11-11"
+last_updated: "2019-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1035 +21,849 @@ state: "VER"
 ---
 # LEY NUMERO 555 DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2023.
 
-Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 14 de julio de 2006.
+Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de diciembre de 2019.
 
-Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
+MARTÍN OROZCO SANDOVAL, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
 
-2006, Año del Bicentenario del Natalicio del Benemérito de las Américas, Don Benito Juárez García.
+Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
 
-Xalapa-Enríquez, Ver., a 29 de junio de 2006
+La LXIV Legislatura del Congreso del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
 
-Oficio número 323/2006.
+Decreto Número 295
 
-Fidel Herrera Beltrán, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
+###### ARTÍCULO ÚNICO.
 
-Que la Sexagésima Legislatura del Honorable Congreso del Estado se ha servido dirigirme la ley siguiente para su promulgación y publicación:
+Se expide la Ley para la Atención y Prevención de la Desaparición de Personas en el Estado de Aguascalientes, en los siguientes términos:
 
-Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
+-ÍNDICE-
 
-LA SEXAGÉSIMA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN I Y 38 DE LA CONSTITUCIÓN POLÍTICA LOCAL; 18 FRACCIÓN I Y 47 SEGUNDO PÁRRAFO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; 75 Y 76 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO; Y EN NOMBRE DEL PUEBLO EXPIDE LA SIGUIENTE:
+## TÍTULO PRIMERO. Disposiciones Generales
 
-L E Y Número 555
+### CAPÍTULO PRIMERO. Objeto, Interpretación y Definiciones
 
-DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+### CAPÍTULO SEGUNDO. Disposiciones Generales para Personas Desaparecidas Menores de 18 Años
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+## TÍTULO SEGUNDO. Los Delitos y de las Responsabilidades Administrativas
 
-### CAPÍTULO I. Objeto de la Ley
+### CAPÍTULO PRIMERO. Disposiciones Generales
 
-### CAPÍTULO II. Connotación de las definiciones utilizadas en esta Ley
+### CAPÍTULO SEGUNDO. De las Responsabilidades Administrativas
 
-## TÍTULO SEGUNDO. ORGANIZACIÓN, ADMINISTRACIÓN Y DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE DESARROLLO FORESTAL SUSTENTABLE
+## TÍTULO TERCERO. La Búsqueda de Personas
 
-### CAPÍTULO I. Servicio Estatal Forestal
+### CAPÍTULO PRIMERO. De la Comisión Estatal de Búsqueda
 
-### CAPÍTULO II. Distribución de Competencias
+### CAPÍTULO SEGUNDO. De la Fiscalía Especializada
 
-> <small>(REFORMADO, G.O. 18 DE MAYO DE 2012)</small>
+### CAPÍTULO TERCERO. De la Búsqueda de Personas
 
-## TÍTULO TERCERO. FUNDAMENTACIÓN DE LA POLÍTICA ESTATAL EN MATERIA FORESTAL Y SUS INSTRUMENTOS
+### CAPÍTULO CUARTO. De los Registros
 
-### CAPÍTULO III. Consejos en materia de Desarrollo Forestal Sustentable
+### CAPÍTULO QUINTO. Derechos de las Víctimas
 
-### CAPÍTULO I. Planeación del Desarrollo Forestal Sustentable
+## TÍTULO CUARTO. De la Declaración Especial de Ausencia
 
-### CAPÍTULO II. Sistema Estatal de Información Forestal
+### CAPÍTULO PRIMERO. Del Procedimiento para la Declaración Especial de Ausencia
 
-### CAPÍTULO III. Inventario Forestal y de Suelos
+### CAPÍTULO SEGUNDO. De los Efectos de la Declaración Especial de Ausencia
 
-### CAPÍTULO IV. Zonificación Forestal
+### CAPÍTULO TERCERO. De la Protección de Personas
 
-## TÍTULO CUARTO. MANEJO Y APROVECHAMIENTO SUSTENTABLE DE LOS RECURSOS FORESTALES
+## TÍTULO QUINTO. De la Prevención de los Delitos
 
-### CAPÍTULO V. Registro Público de la Propiedad
+### CAPÍTULO ÚNICO. De la Prevención, Programación y Capacitación contra la desaparición de personas
 
-### CAPÍTULO I. Servicios Técnicos Forestales
+T R A N S I T O R I O S
 
-### CAPÍTULO II. Autorizaciones en Materia Forestal
+LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE AGUASCALIENTES.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+## TÍTULO PRIMERO. Disposiciones Generales
 
-## TÍTULO QUINTO. MEDIDAS DE CONSERVACIÓN FORESTAL
+### CAPÍTULO PRIMERO. Objeto, Interpretación y Definiciones
 
-### CAPÍTULO III. Recursos Forestales Ubicados en Comunidades Indígenas
+###### ARTÍCULO 1.
 
-## TÍTULO SEXTO. ACCIONES DE FOMENTO PARA EL DESARROLLO FORESTAL
+La presente ley es de orden público, interés social y de observancia general en todo el territorio del Estado de Aguascalientes, de conformidad con el artículo 73 fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, los Tratados Internacionales celebrados y ratificados por el Estado Mexicano y a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
 
-### CAPÍTULO IV. Transporte, Almacenamiento y Transformación de Materias Primas Forestales
+###### ARTÍCULO 2.
 
-###### Artículo 1.
+La presente ley tiene por objeto:
 
-Esta Ley es de interés social, orden público y observancia general en el Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
+I. Establecer la coordinación y distribución de competencias entre el Estado y sus municipios, para la búsqueda de personas desaparecidas y no localizadas, y esclarecer los hechos; así como prevenir, investigar, sancionar y erradicar los delitos en materia de desaparición forzada de personas y desaparición cometida por particulares.
 
-###### Artículo 2.
+II. Delimitar los elementos mínimos que el Ejecutivo habrá de tomar en cuenta conforme a la Ley General para la creación de la Comisión Estatal de Búsqueda;
 
-El objeto de la presente Ley es regular y fomentar las acciones de conservación, protección, restauración, producción, ordenación, cultivo, manejo y aprovechamiento que se realicen sobre los ecosistemas forestales, los servicios ambientales que estos ofrecen, las cuencas hidrológico forestales y los recursos forestales maderables, independientemente del sitio en que se ubiquen estos últimos, para propiciar el desarrollo forestal sustentable de la Entidad; así como determinar las atribuciones que corresponden al Ejecutivo Estatal y a las Autoridades de los Municipios responsables de su aplicación.
+III. Garantizar la protección integral de los derechos de las Personas Desaparecidas hasta que se conozca su suerte o paradero; así como la atención, la asistencia, la protección y, en su caso, la reparación integral y las garantías de no repetición, en términos de esta Ley y la legislación aplicable;
 
-> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+IV. Garantizar la participación de los familiares en el diseño, implementación, monitoreo y evaluación de las acciones de búsqueda e identificación de Personas Desaparecidas y No Localizadas; así como garantizar la coadyuvancia en las etapas de la investigación, de manera que puedan verter sus opiniones, recibir información, aportar indicios o evidencias, de acuerdo con los lineamientos y protocolos aplicables; y
 
-###### Artículo 3.
+V. Establecer el procedimiento local para la emisión de la Declaración Especial de Ausencia, así como determinar sus efectos respecto de la persona desaparecida, Familiares o personas legitimadas por la ley, una vez que está es emitida por el Órgano Jurisdiccional competente
 
-En lo no previsto en esta Ley se aplicarán de manera supletoria las disposiciones de la Ley General de Desarrollo Forestal Sustentable, la Ley Estatal de Protección al Ambiente y el Código de Procedimientos Administrativos para el Estado de Veracruz.
+###### ARTÍCULO 3.
 
-###### Artículo 4.
+La aplicación de la presente Ley corresponde a las autoridades del Estado y los municipios, en el ámbito de sus respectivas competencias, y deberá interpretarse favoreciendo en todo tiempo la protección más amplia de los derechos de la Persona Desaparecida y sus Familiares, de conformidad con lo establecido en el artículo 1º de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales en materia de derechos humanos en los que el Estado Mexicano sea parte, la Constitución Política del Estado de Aguascalientes, y en la ley general.
 
-Se declara de utilidad pública:
+###### ARTÍCULO 4.
 
-I. La ordenación, conservación, protección y restauración de los ecosistemas forestales y sus elementos, así como de las cuencas hidrológico-forestales;
+Para efectos de esta ley, se entiende por:
 
-II. La ejecución de acciones para la ordenación forestal y realización de obras destinadas a la conservación, protección y/o generación de bienes y servicios ambientales;
+I. Asesor Jurídico: Al Asesor Jurídico de la Víctima o de los Familiares, con título de licenciatura en derecho y la correspondiente cédula profesional;
 
-III. La protección y conservación de los suelos para evitar su erosión, así como la restauración de los suelos degradados, como medida de prevención y mitigación de contingencias ambientales;
+II. Banco Nacional de Datos Forenses: A la herramienta del Sistema Nacional que concentra las bases de datos de las entidades federativas y de la federación; así como, otras bases de datos que tengan información forense relevante para la búsqueda e identificación de Personas Desaparecidas y No Localizadas señalado en la Ley General;
 
-IV. La protección y conservación de los ecosistemas que permitan mantener procesos ecológicos esenciales y garantizar la diversidad biológica; y
+III. Código Civil: Código Civil para el Estado de Aguascalientes;
 
-V. La protección y conservación de las zonas que sirvan de refugio a fauna o flora en peligro de extinción.
+IV. Código de Procedimientos Civiles: Al Código de Procedimientos Civiles para el Estado de Aguascalientes;
 
-###### Artículo 5.
+V. Comisión: A la Comisión Estatal de Búsqueda de Personas del Estado de Aguascalientes;
 
-Para los efectos de esta Ley, además de las definiciones citadas en la Ley General de Desarrollo Forestal Sustentable y en otras disposiciones relacionadas, se entiende por:
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2023)</small>
 
-I. CONSEJOS FORESTALES: A los órganos consultivos, de opinión, asesoramiento y concertación en materia de política de desarrollo forestal sustentable;
+V BIS. Consejo Ciudadano: al Consejo Estatal Ciudadano;
 
-II. CUENCA HIDROGRÁFICA: Al espacio de terreno limitado por las partes más altas de las montañas, laderas y colinas, que desarrolla un sistema de drenaje superficial en el que fluyen sus aguas en un río principal, el cual se integra al mar, lago u otro río más grande. En una cuenca hidrográfica se ubican los recursos naturales, suelo, agua, vegetación y otros, en estrecha vinculación con las actividades humanas;
+VI. Declaración Especial de Ausencia: A la Declaración Especial de Ausencia por Desaparición;
 
-III. CONAFOR: A la Comisión Nacional Forestal;
+VII. Defensoría Pública: Al Instituto de la Defensoría Pública del Estado;
 
-IV. DEGRADACIÓN DEL SUELO: Al proceso de disminución de su capacidad actual y potencial para soportar vida vegetal, microflora y de la fauna propia del mismo, que le permita producir cuantitativa y cualitativamente bienes y servicios;
+VIII. Estado: El Estado de Aguascalientes;
 
-V. ORDENAMIENTO ECOLÓGICO: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente, la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+IX. Familiares: A las personas que, en términos de la legislación aplicable, tengan parentesco con la Persona Desaparecida o No Localizada por consanguinidad o afinidad, en línea recta ascendente y descendente sin limitación de grado; en línea transversal hasta el cuarto grado; él o la cónyuge, la concubina o concubinario o, en su caso, quienes estén sujetos al régimen de sociedad en convivencia u otras figuras jurídicas análogas. Asimismo, las personas que dependan económicamente de la Persona Desaparecida o No Localizada, que así lo acrediten ante las autoridades competentes;
 
-VI. ÓRDENES DE GOBIERNO: A los gobiernos federal, de las entidades federativas y de los municipios;
+X. Fiscalía General: Fiscalía General del Estado de Aguascalientes;
 
-VII. PLAN SECTORIAL ESTATAL FORESTAL: A los instrumentos de la planeación que determinan acciones, compromisos y recursos de los órdenes de gobierno, con procesos de seguimiento y evaluación de las políticas a corto, mediano y largo plazo del sector forestal;
+XI. Fiscalía Especializada: A la Fiscalía Especializada de la Fiscalía General cuyo objeto es la investigación y persecución de los delitos de Desaparición Forzada de Personas y la cometida por particulares señalados en las legislaciones general y local en la materia;
 
-VIII. REGLAMENTO: El de la presente Ley;
+XII. Grupo de Trabajo: Al grupo de personas especializadas en materia de búsqueda de personas de la Comisión, que realizarán la búsqueda de campo, entre otras;
 
-> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+XIII. Instituciones de Seguridad Pública: A las instituciones policiales, de procuración de justicia, del sistema penitenciario, y otras autoridades del Consejo Estatal de Seguridad Pública del Estado, encargadas o que realicen funciones de Seguridad Pública en los órdenes Estatal y Municipal;
 
-IX. Residencias de zona para la gestión forestal: A las oficinas de la Secretaría de Medio Ambiente ubicadas en las zonas forestales prioritarias en que se divida la Entidad para efectos de ordenamiento y la atención del sector;
+XIV. Ley General: A la Ley General en Materia de Desaparición Forzada de personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
 
-> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+XV. Mecanismo de Apoyo Exterior: El Mecanismo de Apoyo Exterior de Búsqueda e Investigación, señalado en la Ley General, consistente en el conjunto de acciones y medidas tendientes a facilitar el acceso a la justicia y el ejercicio de acciones para la reparación del daño, en el ámbito de su competencia, a personas migrantes o sus familias que se encuentren en otro país y requieran acceder directamente a las instituciones del ordenamiento jurídico mexicano establecidas en esta Ley, coadyuvar en la búsqueda y localización de personas migrantes desaparecidas con la Comisión Estatal de Búsqueda y en la investigación y persecución de los delitos que realicen la Fiscalía Especializada en coordinación con la autoridad competente en la Investigación de Delitos para Personas Migrantes así como para garantizar los derechos reconocidos por el orden jurídico Estatal en favor de las víctimas y ofendidos del delito. El Mecanismo de Apoyo Exterior funciona a través del personal que labora en los Consulados, Embajadas y Agregadurías de México en otros países;
 
-X. Secretaría: A la Secretaría de Medio Ambiente;
+XVI. Noticia: A la comunicación hecha por cualquier medio, distinto al reporte o la denuncia, mediante la cual, la autoridad competente conoce de la desaparición o no localización de una persona;
 
-XI. SERVICIO ESTATAL FORESTAL: Al Órgano de la Administración Pública que se conforma con las dependencias y entidades de los tres órdenes de gobierno cuyas atribuciones, facultades, recursos, instrumentos, servicios y acciones de quienes lo integran, se relacionan y en consecuencia se dirigen a la atención eficiente, coordinada e integral de la conservación, protección, restauración, de los ecosistemas forestales y sus elementos, de las cuencas hidrológico forestales, así como la ejecución de obras destinadas al desarrollo sustentable de quienes viven relacionados al sector forestal; y
+XVII. Órgano Jurisdiccional: Al Juzgado competente en términos de lo dispuesto en el Código de Procedimientos Civiles para el Estado de Aguascalientes;
 
-XII. ZONIFICACIÓN: Al instrumento técnico de planeación que permite ordenar el territorio del Estado en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente.
+XVIII. Persona Desaparecida: A la persona cuyo paradero se desconoce y se presuma, a partir de cualquier indicio, que su ausencia se relaciona con la comisión de un delito;
 
-> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+XIX. Persona No Localizada: A la persona cuya ubicación es desconocida y que de acuerdo con la información que se reporte a la autoridad, su ausencia no se relaciona con la probable comisión de algún delito;
 
-XIII. La Procuraduría: a la Procuraduría Estatal de Protección al Medio Ambiente.
+XX. Protocolo Homologado de Búsqueda: Al Protocolo Homologado para la Búsqueda de Personas Desparecidas y No Localizadas;
 
-> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+XXI. Protocolo Homologado de Investigación: Al Protocolo Homologado para la investigación de los delitos materia de la Ley General;
 
-XIV. Los Municipios: a las autoridades Municipales.
+XXII. Registros Nacionales: Al Registro Nacional de Personas Desaparecidas y No Localizadas, que concentra la información de los registros de Personas Desaparecidas y No Localizadas, tanto de la Federación como de las Entidades Federativas, señalado en la Ley General, así como al Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas que concentra la información forense procesada de la localización, recuperación, identificación y destino final de los restos tanto de la Federación como de las Entidades Federativas, cualquiera que sea su origen, señalado en la Ley General, y al Registro Nacional de Fosas Comunes y de Fosas Clandestinas, que concentra la información respecto de las fosas comunes que existen en los cementerios y panteones de todos los municipios del país, así como de las fosas clandestinas que la Procuraduría y las Procuradurías Locales localicen, señalado en la Ley General;
 
-> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+XXIII. Reglamento: Al Reglamento de esta Ley;
 
-XV. Las autoridades Municipales: las responsables de atender la política ambiental municipal, facultadas en el artículo 7 de la Ley Estatal de Protección Ambiental.
+XXIV. Reporte: A la comunicación mediante la cual la autoridad competente conoce de la desaparición o no localización de una persona;
 
-> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+XXV. Tratados: A los Tratados Internacionales de los que el Estado Mexicano sea parte, y
 
-XVI. El FAV: El Fondo Ambiental Veracruzano.
+XXVI. Víctimas: Aquellas a las que hace referencia a (sic) la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes;
 
-> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+###### ARTÍCULO 5.
 
-XVII. Fondo Forestal Estatal: Instrumento financiero específico para recibir recursos provenientes del aprovechamiento forestal, sanciones y compensaciones por infracciones a la normatividad aplicable en terrenos diversos al forestal.
+Las acciones, medidas y procedimientos establecidos en esta Ley son diseñados, implementados y evaluados aplicando los siguientes principios:
 
-> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+I. Efectividad y exhaustividad: Todas las diligencias que se realicen para la búsqueda de la Persona Desaparecida o No Localizada se harán de manera inmediata, oportuna, transparente, con base en información útil y científica, encaminadas a la localización y, en su caso, identificación, atendiendo a todas las posibles líneas de investigación.
 
-XVIII. Subfiso: Instrumento financiero específico para el Fondo Forestal Estatal.
+II. Debida diligencia: Todas las autoridades deben utilizar los medios necesarios para realizar con prontitud aquellas actuaciones esenciales y oportunas dentro de un plazo razonable para lograr el objeto de esta Ley, en especial la búsqueda de la Persona Desaparecida o No Localizada; así como la ayuda, atención, asistencia, derecho a la verdad, justicia y reparación integral a fin de que la víctima sea tratada y considerada como titular de derechos. En toda investigación y proceso penal que se inicie por los delitos previstos en la Ley General, las autoridades deben garantizar su desarrollo de manera autónoma, independiente, inmediata, imparcial, eficaz, y realizados con oportunidad, exhaustividad, respeto de derechos humanos y máximo nivel de profesionalismo;
 
-###### Artículo 6.
+III. Enfoque diferencial y especializado: Al aplicar esta Ley, las autoridades deben tener en cuenta la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad. De igual manera, tratándose de las acciones, mecanismos y procedimientos para la búsqueda, localización y desarrollo de las investigaciones, las autoridades deberán tomar en cuenta las características, contexto y circunstancias de la comisión de los delitos materia de la Ley General;
 
-Para la atención eficiente y concertada del sector forestal en el Estado se crea el Servicio Estatal Forestal, que además de coadyuvar con el Servicio Nacional Forestal, conjuntará instancias de los órdenes de gobierno, políticas, programas, instrumentos, servicios, recursos y acciones institucionales, con el propósito de atender de manera integral el desarrollo económico, social y ambiental de las personas y comunidades que se relacionan y dependen de la actividad silvícola.
+IV. Enfoque humanista: Atención centrada en el alivio del sufrimiento, de la incertidumbre y basada en la necesidad de respuestas a los Familiares;
 
-Las acciones y recursos de este organismo público deberán comprometerse mediante la concertación de convenios generales y específicos.
+V. Gratuidad: todas las acciones, los procedimientos y cualquier otro trámite que implique el acceso a la justicia y demás derechos reconocidos en esta Ley, no tendrán costo alguno para las personas;
 
-### CAPÍTULO I. Saneamiento Forestal
+VI. Igualdad y No Discriminación: En todas las diligencias que se realicen para la búsqueda de la Persona Desaparecida o No Localizada, así como para investigar y juzgar los delitos previstos en la Ley General, se deberá garantizar su realización libre de prejuicios, estereotipos y de cualquier otro elemento que, impida la igualdad, por lo que en ninguna circunstancia se podrán invocar condiciones particulares de la Persona Desaparecida o No Localizada, o la actividad que realizaba previa o al momento de la desaparición para no ser buscada de manera inmediata;
 
-###### Artículo 7.
+VII. Interés superior de la niñez: Las autoridades deberán proteger primordialmente los derechos de niñas, niños y adolescentes, y velar que cuando tengan la calidad de Víctimas o testigos, la protección que se les brinde sea armónica e integral, atendiendo a su desarrollo evolutivo y cognitivo, de conformidad con la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes;
 
-De manera enunciativa, mas no limitativa, el Servicio Estatal Forestal se conformará por las dependencias y entidades siguientes:
+VIII. Máxima protección: La obligación de adoptar y aplicar las medidas que proporcionen la protección más amplia para garantizar el trato digno, la seguridad, protección, bienestar físico y psicológico e intimidad de las Víctimas a que se refiere esta Ley;
 
-> <small>(REFORMADA, G.O. 18 DE MAYO DE 2012)</small>
+IX. No revictimización: La obligación de aplicar las medidas necesarias y justificadas de conformidad con los principios en materia de derechos humanos establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes y los Tratados, para evitar que la Persona Desaparecida o No Localizada y las Víctimas a que se refiere esta Ley, sean revictimizadas o criminalizadas en cualquier forma, agravando su condición, obstaculizando o impidiendo el ejercicio de sus derechos o exponiéndosele a sufrir un nuevo daño;
 
-I. Secretaría de Medio Ambiente, cuyo titular lo presidirá;
+X. Participación conjunta: Las autoridades de los distintos órdenes de Gobierno en sus respectivos ámbitos de competencia, permitirán la participación directa de los Familiares, en los términos previstos en esta Ley y demás disposiciones aplicables, en las tareas de búsqueda, incluido el diseño, implementación y evaluación de las acciones en casos particulares, como en políticas públicas y prácticas institucionales;
 
-II. Secretaría de Seguridad Pública;
+XI. Presunción de vida: En las acciones, mecanismos y procedimientos para la búsqueda, localización y desarrollo de las investigaciones, las autoridades deben presumir que la Persona Desaparecida o No Localizada está con vida, y
 
-> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+XII. Verdad: El derecho de conocer con certeza lo sucedido y recibir información sobre las circunstancias en que se cometieron los hechos constitutivos de los delitos previstos en la Ley General, en tanto que el objeto de la misma es el esclarecimiento de los hechos, la protección de las Víctimas, el castigo de las personas responsables y la reparación de los daños causados, en términos de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Aguascalientes.
 
-III. Secretaría de Desarrollo Social
+###### ARTÍCULO 6.
 
-> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+En todo lo no previsto en la presente Ley, son aplicables supletoriamente las disposiciones establecidas en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, el Código Nacional de Procedimientos Penales, el Código Penal Federal, el Código Civil del Estado de Aguascalientes, así como la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes y los Tratados Internacionales de los que el Estado Mexicano sea parte.
 
-IV. Fiscalía General del Estado
+### CAPÍTULO SEGUNDO. Disposiciones Generales para Personas Desaparecidas Menores de 18 Años
 
-V. Titulares de las dependencias y entidades de los órdenes de gobierno federal o estatal que tengan a su cargo la atención de actividades o materias relacionadas con el sector forestal; y
+###### ARTÍCULO 7.
 
-VI. Las Autoridades Municipales.
+Tratándose de niñas, niños y adolescentes respecto de los cuales haya Noticia, Reporte o Denuncia que han desaparecido en cualquier circunstancia, se iniciará carpeta de investigación en todos los casos y se emprenderá la búsqueda especializada de manera inmediata y diferenciada, de conformidad con el protocolo especializado en búsqueda de personas menores de 18 años de edad que corresponda.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE NOVIEMBRE DE 2016)</small>
+###### ARTÍCULO 8.
 
-VII. La Procuraduría.
+La Comisión debe tomar en cuenta el interés superior de la niñez, y deben establecer la información segmentada por sexo, edad, situación de vulnerabilidad, riesgo o discriminación.
 
-###### Artículo 8.
+La divulgación que hagan o soliciten las autoridades responsables en medios de telecomunicación sobre la información de una persona menor de 18 años desaparecida, se hará de conformidad con las disposiciones aplicables.
 
-El Servicio Estatal Forestal atenderá de manera coordinada y prioritaria las acciones de:
+###### ARTÍCULO 9.
 
-I. Inspección y vigilancia forestal;
+Todas las acciones que se emprendan para la investigación y búsqueda de personas menores de dieciocho años de edad desparecidas, garantizarán un enfoque integral, transversal y con perspectiva de derechos humanos de la niñez, que tome en cuenta las características particulares, incluyendo su identidad y nacionalidad.
 
-II. Prevención, combate y control de incendios forestales;
+###### ARTÍCULO 10.
 
-III. Gestión administrativa y descentralización de funciones en materia forestal;
-
-IV. Sistemas de integración de información;
-
-V. Desarrollo sustentable e integral de las regiones forestales, principalmente las habitadas por comunidades indígenas dueñas o poseedoras de ecosistemas forestales; y
-
-VI. Fomento y regulación de las actividades comerciales de los recursos forestales.
-
-Para la formulación, instrumentación, control y evaluación de los programas y acciones se conformarán las correspondientes Comisiones.
-
-###### Artículo 9.
-
-El Reglamento determinará los términos para su constitución y funcionamiento, así como las bases para la concertación y coordinación de programas y acciones para el logro de sus objetivos.
-
-###### Artículo 10.
-
-Son autoridades competentes para procurar la regulación y el fomento de las acciones del desarrollo forestal sustentable en la Entidad, de acuerdo a las esferas de sus atribuciones:
-
-> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
-
-I. El Ejecutivo del Estado a través de la Secretaría y la Procuraduría;
-
-II. El Gobierno Federal atendiendo lo que se dispone en la Ley General de Desarrollo Forestal Sustentable; y
-
-III. Las autoridades municipales.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE NOVIEMBRE DE 2016)</small>
-
-En términos de lo antes dispuesto, y con apego a la Ley Orgánica del Poder Ejecutivo del Estado, la Secretaría se coordinará y concurrirá en el ejercicio de las atribuciones que son materia de esta ley, con la Procuraduría y las Autoridades Municipales en función de la competencia que esta Ley y su reglamento, la Ley Orgánica invocada, la Ley Orgánica del Municipio Libre u otras afines les otorguen.
+Las autoridades de búsqueda e investigación en el ámbito de sus competencias se coordinarán con la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes para efectos de salvaguardar sus derechos, de conformidad con la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes y otras disposiciones aplicables.
 
 #### SECCIÓN PRIMERA. Atribuciones del Ejecutivo del Estado
 
-###### Artículo 11.
+###### ARTÍCULO 11.
 
-Corresponden al Ejecutivo del Estado a través de la Secretaría y de conformidad con lo dispuesto en esta Ley, sin perjuicio de lo que se determine en otras disposiciones aplicables en materia forestal, las siguientes atribuciones:
-
-I. Diseñar, formular, coordinar y aplicar, en concordancia con la política forestal nacional, la política forestal del Estado;
-
-II. Aplicar los criterios de política forestal previstos en esta Ley y en otras disposiciones jurídicas relacionadas;
-
-III. Convocar, constituir, presidir y coordinar el Servicio Estatal Forestal, que operará bajo los lineamientos que se establezcan en esta Ley y su Reglamento, así como coadyuvar en la adopción y consolidación del Servicio Nacional Forestal;
-
-IV. Constituir, o en su caso integrar, fomentar, fortalecer y dirigir el Fondo Forestal Estatal, como instrumento económico de apoyo y fortalecimiento del sector, así como de impulso del mercado de servicios ambientales;
-
-V. Crear y operar Residencias Forestales de Zona para la atención del sector forestal;
-
-VI. Bajo el esquema de suscripción de acuerdos y convenios de coordinación con los órdenes de gobierno federal y municipal, la Entidad asumirá la ejecución de acciones en el ámbito territorial de su competencia en materia de:
-
-a) Zonificación forestal;
-
-b) Programar y operar las tareas de prevención, detección y combate de incendios forestales de la Entidad, así como los de control de plagas y enfermedades;
-
-c) Inspección y vigilancia forestales;
-
-d) Imponer medidas de seguridad así como las sanciones a los infractores de las disposiciones de esta Ley y demás disposiciones aplicables en materia forestal;
-
-e) Requerir la acreditación de la legal procedencia de las materias primas forestales;
-
-f) Otorgar los permisos y avisos para el combate y control de plagas y enfermedades de naturaleza forestal;
-
-g) Recibir los avisos y solicitudes de aprovechamiento de recursos forestales maderables, independientemente del medio en que se ubiquen, no maderables, de forestación, y los de plantaciones forestales comerciales, así como autorizar su procedencia en los términos de lo que se disponga en esta Ley y demás normatividad aplicable;
-
-h) Autorizar el cambio de uso de suelo por excepción de los terrenos de uso forestal en los términos de las disposiciones jurídicas aplicables;
-
-i) Dictaminar, autorizar y evaluar los programas de manejo forestal, así como evaluar y asistir a los servicios técnico forestales; y
-
-j) Evaluar el impacto ambiental de las obras o actividades forestales a que se refiere el Artículo 28 de la Ley General del Equilibro Ecológico y la Protección al Ambiente.
-
-VII. Convocar y apoyar a través de las Residencias de Zona a los productores forestales, a los propietarios del sector industrial forestal y a los profesionales forestales para que se constituyan en organizaciones formales de la defensa y promoción de sus intereses y recursos;
-
-VIII. Elaborar, coordinar y aplicar los programas relativos al sector forestal de la entidad, con proyección sexenal y con visión de más largo plazo, vinculándolos con los programas nacionales y regionales, así como con su respectivo Plan Estatal de Desarrollo;
-
-IX. Participar en la elaboración de los programas forestales regionales de largo plazo, de ámbito interestatal o por cuencas hidrológico-forestales;
-
-X. Impulsar, en el ámbito de su jurisdicción, el establecimiento de sistemas y esquemas de ventanilla única para la atención eficiente de los usuarios del sector, con la participación de la Federación y de los Municipios;
-
-XI. Elaborar, monitorear y mantener actualizado el Inventario Estatal Forestal y de Suelos, bajo los principios, criterios y lineamientos que se establezcan para el Inventario Nacional Forestal y de Suelos;
-
-XII. Integrar el Sistema Estatal de Información Forestal e incorporar su contenido al Sistema Nacional de Información Forestal;
-
-XIII. Compilar y procesar la información sobre uso doméstico de los recursos forestales e incorporarla al Sistema Estatal de Información Forestal;
-
-XIV. Promover los bienes y servicios ambientales de los ecosistemas forestales;
-
-XV. Impulsar la participación directa de los propietarios y poseedores de los recursos forestales en la protección, conservación, restauración, vigilancia, ordenación, aprovechamiento, cultivo, transformación y comercialización de los mismos;
-
-XVI. Promover, en coordinación con la Federación, programas y proyectos de educación, capacitación, investigación y cultura forestal, acordes con el programa nacional respectivo;
-
-XVII. Celebrar acuerdos y convenios de coordinación, cooperación y concertación en materia forestal;
-
-XVIII. Regular el uso del fuego en las actividades relacionadas con las actividades agropecuarias o de otra índole, que pudieran afectar los ecosistemas forestales;
-
-XIX. Llevar a cabo acciones de prevención, capacitación y combate de incendios forestales, en congruencia con el programa nacional respectivo;
-
-XX. Promover y participar en la restauración de los ecosistemas forestales afectados por incendio;
-
-XXI. Impulsar programas de mejoramiento genético forestal;
-
-XXII. Realizar y supervisar las labores de conservación, protección y restauración de los terrenos estatales forestales;
-
-XXIII. Elaborar y aplicar programas de reforestación y forestación en zonas degradadas y Áreas Naturales Protegidas, así como llevar a cabo acciones de protección y mantenimiento de las zonas reforestadas o forestadas;
-
-XXIV. Llevar a cabo, en coordinación con la Federación, acciones de saneamiento de los ecosistemas forestales, dentro de su ámbito territorial de competencia;
-
-XXV. Prestar asesoría y capacitación en prácticas y métodos que conlleven un manejo forestal sustentable;
-
-XXVI. Incentivar, asesorar y capacitar a los propietarios y poseedores forestales en la elaboración y ejecución de programas de manejo forestal, y de plantaciones forestales comerciales, así como en la diversificación de las actividades forestales;
-
-XXVII. Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios, comunidades indígenas y otros productores forestales en el desarrollo de su organización, así como en la creación de empresas sociales forestales, propiciando la integración de cadenas productivas y los sistema-producto del sector;
-
-XXVIII. Brindar atención, de forma coordinada con la Federación y los municipios, a los asuntos relacionados con la conservación y mejoramiento del hábitat natural de los pueblos y comunidades indígenas;
-
-XXIX. Diseñar, desarrollar y aplicar instrumentos económicos para promover el desarrollo forestal de la entidad, de conformidad con esta Ley y la Política Nacional Forestal;
-
-XXX. Promover e invertir en el mejoramiento de la infraestructura en las áreas forestales de la entidad;
-
-XXXI. Fortalecer y ampliar la participación de la producción forestal en el crecimiento económico estatal;
-
-XXXII. Participar, de conformidad con los acuerdos y convenios que se celebren con la Federación, en la inspección y vigilancia forestal en la entidad, así como en las acciones de prevención y combate a la extracción ilegal y la tala clandestina de los recursos forestales;
-
-XXXIII. Conocer y, en su caso, resolver o hacer del conocimiento de las autoridades competentes de las infracciones o delitos que se cometan en materia forestal;
-
-XXXIV. Elaborar estudios para, en su caso, recomendar al Ejecutivo Federal, a través de la Secretaría, el establecimiento, modificación o levantamiento de vedas;
-
-XXXV. Elaborar estudios para, en su caso, recomendar a la Federación el establecimiento de restricciones a la forestación y reforestación en su territorio;
-
-XXXVI. Instituir el Premio Forestal Estatal como medio de reconocer la labor y desempeño realizados por personas en beneficio del sector forestal. El Reglamento de la Ley y demás disposiciones aplicables establecerán las características de los estímulos así como los lineamientos para su procedencia; y
-
-XXXVII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta Ley u otros ordenamientos, y que no estén exclusiva y expresamente otorgados a la Federación o a los Municipios.
-
-> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
-
-XXXIX (SIC). Emitir las autorizaciones en materia forestal, competencia del Estado en terrenos diversos al forestal.
+En los casos de niñas, niños o adolescentes, las medidas de reparación integral, así como de atención terapéutica y acompañamiento, deberán realizarse por personal especializado en derechos de la niñez y adolescencia y de conformidad con la legislación aplicable.
 
 #### SECCIÓN SEGUNDA. Atribuciones de los Ayuntamientos
 
-###### Artículo 12.
+###### ARTÍCULO 12.
 
-Corresponde a los Ayuntamientos, en el ámbito de la jurisdicción de sus municipios, el ejercicio de las siguientes atribuciones:
-
-I. Diseñar, formular y aplicar, en concordancia con la política nacional y estatal, la política forestal del municipio;
-
-II. Emitir los correspondientes Bandos de Buen Gobierno y Reglamentos Municipales en materia forestal;
-
-> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2015)</small>
-
-III. Elaborar el Plan de Desarrollo Forestal de acuerdo a la Política Nacional y Estatal; con base en el diagnóstico del estado de los recursos forestales del Municipio;
-
-IV. Coordinarse y, en su caso, celebrar acuerdos y convenios con la Federación y el Estado en el marco de los Servicios Federal y Estatal Forestales para:
-
-a) Participar en el diseño, organización y aplicación de los instrumentos de política forestal;
-
-b) Promover y aplicar el establecimiento de esquemas de ventanilla única para la atención de usuarios del sector forestal;
-
-c) Propiciar, diseñar, desarrollar y aplicar los instrumentos económicos para promover el desarrollo forestal integral sustentable;
-
-d) Diseñar y aplicar acciones para la prevención y combate de incendios forestales, así como participar en la elaboración y aplicación de acciones para el Programa Nacional de Prevención de Incendios forestales;
-
-e) Participar en programas integrales de prevención y combate a la extracción y manejo ilegales de recursos forestales;
-
-f) Participar en programas integrales de prevención y combate a las plagas y enfermedades forestales;
-
-g) Participar en las acciones de ordenamiento forestal que se lleven a cabo en el municipio;
-
-h) Participar, de conformidad con los acuerdos y convenios que se celebren con los Gobiernos Federal y de la Entidad, en la vigilancia forestal en el Municipio; y
-
-i) Promover y participar en los programas y acciones del Fondo Estatal Forestal.
-
-V. Aplicar los criterios de política forestal previstos en esta Ley en bienes y zonas de jurisdicción municipal, en las materias que no estén expresamente reservadas a la Federación o al Ejecutivo Estatal para el fomento del desarrollo forestal sustentable;
-
-VI. Coadyuvar con el Gobierno de la Entidad en la realización y actualización del Inventario Estatal Forestal y de Suelos;
-
-VII. Promover programas y proyectos de educación, capacitación, investigación y cultura forestal;
-
-VIII. Expedir, previo a su instalación, las licencias o permisos para el establecimiento de centros de almacenamiento o transformación de materias primas forestales, considerando los criterios de política forestal establecidos en esta Ley;
-
-IX. Diseñar, desarrollar y aplicar incentivos para promover el desarrollo forestal, de conformidad con esta Ley y los lineamientos de la política forestal del país;
-
-X. Participar en la planeación y ejecución de la reforestación, forestación, restauración de suelos y conservación de los bienes y servicios ambientales forestales;
-
-XI. Desarrollar y apoyar viveros y programas de producción de plantas;
-
-XII. Llevar a cabo, en coordinación con el Gobierno de la Entidad, acciones de saneamiento en los ecosistemas forestales;
-
-XIII. Promover la construcción y mantenimiento de la infraestructura en las áreas forestales del municipio;
-
-XIV. Promover la participación de organismos públicos y civiles en proyectos de apoyo directo al desarrollo forestal sustentable;
-
-XV. Dictaminar, en términos de lo que determine el Reglamento de esta Ley, sobre solicitudes de aprovechamiento de recursos forestales maderables existentes en predios no forestales ni preferentemente forestales y turnar para su autorización a la Secretaría;
-
-XVI. Hacer del conocimiento a las autoridades competentes y, en su caso denunciar, las infracciones o delitos que se cometan en materia forestal;
-
-XVII. Regular y vigilar la disposición final de residuos provenientes de la extracción de materias primas forestales en los términos establecidos en esta Ley;
-
-XVIII. En el momento de otorgar autorizaciones para la construcción, exigir, Carta Compromiso para que los productos forestales utilizados en la misma estén sujetos a la verificación de su legal procedencia; y
-
-XIX. La atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta Ley u otros ordenamientos.
-
-> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2015)</small>
-
-Para la ejecución de las atribuciones anteriores, los ayuntamientos podrán establecer una Dirección de Desarrollo Forestal Sustentable, la cual deberá estar a cargo de un especialista en la materia.
+En el diseño de las acciones y herramientas para la búsqueda e investigación de niñas, niños y adolescentes la Comisión tomará en cuenta la opinión de las autoridades del Sistema de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes del Estado.
 
 #### SECCIÓN TERCERA. Residencias Forestales
 
-## TÍTULO SÉPTIMO. MEDIOS DE CONTROL, VIGILANCIA Y SANCIONES EN MATERIA FORESTAL
+## TÍTULO SEGUNDO. De los Delitos y de las Responsabilidades Administrativas
 
-### CAPÍTULO II. Prevención, Combate y Control de Incendios Forestales
+### CAPÍTULO PRIMERO. Disposiciones Generales
 
-###### Artículo 13.
+###### ARTÍCULO 13.
 
-La Secretaría impulsará, como medio de descentralización de funciones para atender de manera más cercana y eficiente al sector forestal, el establecimiento de Residencias Forestales.
+En la investigación, persecución, procesamiento y sanción de los delitos de Desaparición Forzada de Personas, de Desaparición cometida por Particulares serán aplicables las disposiciones señaladas en la Ley General, el Código Nacional de Procedimientos Penales, el Código Penal Federal y demás leyes aplicables.
 
-###### Artículo 14.
+###### ARTÍCULO 14.
 
-Las Residencias Forestales coadyuvarán a la realización, entre otras, de las siguientes acciones:
-
-I. Articular en las zonas forestales las políticas de desarrollo forestal integral y sustentable;
-
-II. Cumplir con las responsabilidades que se les asignen en los convenios que celebren el Gobierno Federal, las Autoridades Municipales y la Entidad para la operación de los Programas y servicios que ofrecen, a fin de acercarlos al ámbito del sector forestal;
-
-III. Convocar y presidir el Consejo Forestal de Zona en los términos que dispongan esta Ley y su Reglamento;
-
-IV. Fomentar y apoyar a los integrantes de la cadena productiva forestal para que se organicen en asociaciones o colegios, según sea el caso, para la promoción, fomento y defensa de sus intereses;
-
-V. Asesorar a los productores en las gestiones en materias de apoyo a la producción, organización, comercialización y, en general, en todas aquellas relacionadas con el desarrollo de los diversos actores de las cadenas productivas;
-
-VI. Procurar la oportunidad en la prestación de los servicios a los productores y en los apoyos institucionales que sean destinados al sector forestal;
-
-VII. Vigilar la aplicación de la normatividad forestal;
-
-VIII. Evaluar los resultados de la aplicación de los programas federales y estatales e informar al Consejo Forestal de Zona al respecto;
-
-IX. Promover la participación activa de los agentes de la sociedad rural en las acciones institucionales y sectoriales;
-
-X. Promover la coordinación de las acciones consideradas en los programas de desarrollo rural sustentable, con las de los sectores industrial, comercial y de servicios, con objeto de diversificar e incrementar el empleo en el campo;
-
-XI. Proponer a los Consejos Estatal Forestal y de Zona, como resultado de las consultas respectivas, los programas que éstos deban conocer en su seno y se consideren necesarios para el fomento de las actividades productivas y del desarrollo integral y sustentable del sector forestal;
-
-XII. Realizar las consultas y acciones de concertación y consenso con los productores y sus organizaciones, para el cumplimiento de sus fines;
-
-XIII. Apoyar la participación plena de los municipios en la planeación, definición de prioridades, operación y evaluación de las acciones del desarrollo forestal sustentable; y
-
-XIV. Las demás que les asignen esta Ley, los reglamentos de la misma y los convenios que conforme a dichos ordenamientos se celebren.
+La investigación, persecución y sanción de los delitos de Desaparición Forzada de Personas, la cometida por particulares en la materia y de los delitos vinculados con la desaparición de personas, corresponderá a la Fiscalía Especializada en los casos no previstos en el artículo 24 de la Ley General.
 
 #### SECCIÓN CUARTA. Ventanilla Única de atención a usuarios
 
-###### Artículo 15.
+###### ARTÍCULO 15.
 
-La Secretaría y las autoridades municipales, en coordinación con la autoridad federal, impulsarán y promoverán en el ámbito de su competencia el establecimiento del sistema de Ventanilla Única para la atención del usuario del sector forestal.
-
-El Sistema tendrá como objetivo coordinar y concertar las acciones de instituciones públicas, organismos sociales y privados que promuevan y realicen programas, proyectos y actividades de investigación científica, desarrollo tecnológico y validación y transferencia de conocimientos en la materia forestal, tendientes a la identificación y atención tanto de los grandes problemas nacionales en la materia como de las necesidades inmediatas de los productores y demás agentes de la sociedad rural respecto de sus actividades forestales.
+El Estado está obligado a garantizar que cualquier persona que se rehúse a obedecer una orden para cometer el delito de desaparición forzada no sea sancionada o sea objeto de ninguna represalia.
 
 ###### ARTÍCULO 16.
 
-Por medio del sistema de Ventanilla Única, la autoridad estatal y municipal brindará una atención eficiente al usuario del sector forestal, conforme a los procedimientos que establezca el reglamento de esta ley.
+En cuanto a las formas de participación y autoría, se estará a lo dispuesto por el artículo 13 del Código Penal Federal.
 
-> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+###### ARTÍCULO 17.
 
-El sistema de Ventanilla única dará inicio una vez que la autoridad municipal integre una propuesta con elementos presupuestales y técnicos y sea presentada a la autoridad estatal y ésta la valide.
+Si de las diligencias practicadas en la investigación de hechos probablemente constitutivos de delitos distintos a los previstos en la Ley General, el agente del Ministerio Público advierte la probable comisión de algún delito previsto en dicho ordenamiento, debe identificar y remitir copia de la investigación a la Fiscalía Especializada competente.
 
-> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+###### ARTÍCULO 18.
 
-Se establecerá entre la autoridad estatal y la autoridad municipal un sistema de atención y seguimiento en apego a esta ley y su reglamento, acordado por ambas partes, el cual dará cumplimiento al Plan de Desarrollo Municipal y al Plan Veracruzano de Desarrollo.
+Si de las diligencias practicadas en la investigación de hechos probablemente constitutivos de delitos previstos en la Ley General, la Fiscalía Especializada advierte la probable comisión de alguno o varios delitos distintos a los que prevé, deberá remitir copia de la investigación a las autoridades ministeriales competentes, salvo en el caso de delitos conexos.
 
-###### Artículo 17.
+###### ARTÍCULO 19.
 
-Se crean el Consejo Estatal Forestal y los Consejos Forestales de Zona como instancias de coordinación, concertación, consulta, asesoría y opinión, con el objeto de formular y ejecutar programas y acciones para la mejor administración de los ecosistemas forestales y sus recursos, así como de los servicios ambientales.
+El ejercicio de la acción penal y la ejecución de sanciones penales que se impongan judicialmente para los delitos de desaparición forzada de personas y de desaparición cometida por particulares son imprescriptibles y no están sujetos a criterios de oportunidad ni a formas de solución alterna al proceso u otras de similar naturaleza.
 
-###### Artículo 18.
+Se prohíbe la aplicación de amnistías, indultos y medidas similares de impunidad que impidan la investigación, procesamiento o sanción y cualquier otra medida para determinar la verdad y obtener reparación plena de los delitos previstos en la Ley General.
 
-Los Consejos se conformarán con representantes de las dependencias y entidades de la administración pública federal, estatal y municipal, comunidades indígenas, ejidos y pequeños propietarios, industriales, prestadores de servicios técnicos forestales, instituciones académicas, centros de investigación, agrupaciones de propietarios forestales y empresarios, organizaciones civiles de carácter social y privado, relacionadas con el desarrollo forestal.
+### CAPÍTULO SEGUNDO. De las Responsabilidades Administrativas
 
-###### Artículo 19.
+###### ARTÍCULO 20.
 
-Sin perjuicio de lo que señalen otras disposiciones, estos Consejos tendrán las siguientes atribuciones:
+Los servidores públicos que incumplan injustificadamente con alguna de las obligaciones previstas en esta Ley y que no constituyan un delito, serán sancionados en términos de lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Aguascalientes.
 
-I. Proponer a la Secretaría los lineamientos para:
+###### ARTÍCULO 21.
 
-a) Promover la participación de los sectores social y privado en la planeación forestal del Estado y sus municipios;
+Para efectos de lo previsto en esta Ley, se considerará grave el incumplimiento injustificado o la actuación negligente ante cualquier obligación relacionada con la búsqueda inmediata de personas, en la investigación ministerial, pericial y policial, así como en los procedimientos establecidos en los protocolos correspondientes.
 
-b) La ejecución de los programas y actividades encaminadas a incrementar la calidad, eficiencia y seguridad en materias de conservación, producción, protección, restauración, ordenación, aprovechamiento, manejo, así como la seguridad y legalidad para la industrialización, comercialización y transporte de recursos forestales, sus productos y subproductos; y
+## TÍTULO TERCERO. La Búsqueda de Personas
 
-c) Propiciar el Desarrollo Forestal Sustentable.
+### CAPÍTULO PRIMERO. De la Comisión Estatal de Búsqueda
 
-II. Ser órganos de consulta, asesoría, supervisión, vigilancia, evaluación y seguimiento en la aplicación de los criterios e instrumentos de política forestal;
+###### ARTÍCULO 22.
 
-III. Emitir opiniones y observaciones referentes a:
+La Comisión Estatal de Búsqueda del Estado de Aguascalientes es un órgano administrativo desconcentrado de la Secretaría de Gobierno dependiente directamente de la persona titular de ésta, que determina, ejecuta y da seguimiento a las acciones de búsqueda de Personas Desaparecidas y No Localizadas, en todo el territorio del Estado de Aguascalientes, de conformidad con lo dispuesto en esta Ley y en la Ley General.
 
-a) Las solicitudes de aprovechamiento de recursos forestales;
+La Comisión tiene por objeto impulsar los esfuerzos de vinculación, operación, gestión, evaluación y seguimiento de las acciones entre autoridades que participan en la búsqueda, localización e identificación de personas.
 
-b) Los estudios y medidas que justifiquen los decretos de vedas forestales;
+Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficaz con la Comisión para el cumplimiento de esta Ley.
 
-c) Las acciones de promoción, elaboración y aplicación de programas o instrumentos económicos que se requieran para fomentar las labores de conservación y restauración de los recursos forestales y las cuencas hídricas en zonas degradadas;
+La Comisión deberá de coordinarse con la Comisión Nacional de Búsqueda y las demás autoridades involucradas conforme a sus correspondientes facultades y competencias.
 
-d) Las declaratorias de áreas de protección en franjas, riberas de los ríos, quebradas, arroyos permanentes, riberas de los lagos y embalses naturales y artificiales, áreas de recarga y los mantos acuíferos;
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2022)</small>
 
-e) La coordinación de esfuerzos, recursos y acciones que en materia de investigación, desarrollo económico y transferencia tecnológica requiera el sector productivo y la industria forestal del Estado;
+###### ARTÍCULO 23.
 
-f) Las solicitudes de cambio por excepción de uso de suelo forestal; y
+La Comisión estará a cargo de una persona titular a quien se denominará Comisionado de la Comisión Estatal de Búsqueda del Estado de Aguascalientes, quien será nombrado y removido por la persona titular del Poder Ejecutivo a propuesta de la Secretaria General de Gobierno. En este nombramiento debe garantizarse el respeto a los principios que prevé esta Ley, especialmente los de enfoque transversal de género, diferencial y de no discriminación.
 
-g) El diseño, desarrollo y aplicación de instrumentos económicos que incentiven el desarrollo forestal sustentable.
+Para el nombramiento, la Secretaría General de Gobierno realizará una consulta pública previa a los colectivos de víctimas, personas expertas y organizaciones de la sociedad civil especializadas en la materia.
 
-IV. Coadyuvar con las instancias correspondientes en la difusión de las medidas de prevención y manejo de plagas y enfermedades; y
+Para la consulta pública a la que se hace referencia en el párrafo anterior, la Secretaría General de Gobierno deberá observar, como mínimo, las siguientes bases:
 
-V. Fungir como instancia de concertación en materia de comercialización de materias primas forestales y sus derivados.
+I. Generar un mecanismo a través del cual la sociedad civil presente a las y los candidatos;
 
-El Reglamento de esta Ley determinará las bases tanto para la integración de los diferentes sectores así como para la celebración de sus sesiones, ya sean estas ordinarias o extraordinarias y la toma consecuente de acuerdos; así mismo, determinará la competencia y los ámbitos territoriales donde funcionarán.
+II. Publicar toda la información disponible sobre el perfil de las y los candidatos registrados;
 
-### CAPÍTULO III. Acciones para la Restauración y Conservación de Ecosistemas Forestales, Cuencas, Subcuencas y Microcuencas Hidrológico Forestales
+III. Entre las y los candidatos registrados a ocupar el cargo, se seleccionarán tres perfiles idóneos, los cuales serán propuestos por la Secretaría General de Gobierno, a la persona Titular del Poder Ejecutivo quien realizara la elección de uno de los perfiles; y
 
-###### Artículo 20.
+IV. Hacer público el nombramiento sobre la persona titular de la Comisión, acompañada de una exposición fundada y motivada sobre la idoneidad del perfil elegido.
 
-La Política Estatal en materia forestal estará fundamentada en las acciones coordinadas de los tres órdenes de gobierno, en donde podrán participar los sectores social y privado, para propiciar el desarrollo del sector bajo los criterios generales de equidad social y de género, integralidad, planeación y sustentabilidad; en cuanto a las acciones específicas que se comprometan para lograr el desarrollo forestal sostenible, estarán obligadamente sujeta (sic) a lo dispuesto por los criterios de carácter social, ambiental, silvícola y económico, así como a los principios e indicadores determinados en la Ley General de Desarrollo Forestal Sustentable, por ser esta actividad un área prioritaria del desarrollo nacional.
+###### ARTÍCULO 24.
 
-###### Artículo 21.
+Para ser titular se requiere acreditar:
 
-Son instrumentos de política forestal estatal:
+I. Ser mexicano, en pleno ejercicio de sus derechos civiles y políticos, debiendo tener residencia efectiva en el Estado no menor a dos años;
 
-I. La planeación del desarrollo forestal sustentable;
+II. No haber sido condenado por la comisión de un delito doloso o inhabilitado como servidor público;
 
-II. El Sistema Estatal de información forestal;
+III. Contar con título de licenciatura y cédula profesional;
 
-III. El inventario Forestal y de suelos;
+IV. No haber desempeñado cargo de dirigente nacional o estatal en algún partido político, en los dos años previos a su nombramiento;
 
-IV. La Zonificación Forestal; y
+V. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en la sociedad civil o académicas relacionadas con la materia de esta Ley, por lo menos en los dos años previos a su nombramiento;
 
-V. El Registro Público de la Propiedad.
+VI. Tener conocimientos y experiencia en derechos humanos y búsqueda de personas, entendimiento de la complejidad de la desaparición de personas y, preferentemente con conocimientos en ciencias forenses o investigación criminal, búsqueda en vida y experiencia en búsqueda de personas en campo.
 
-### CAPÍTULO IV. Forestación y Reforestación con propósitos de Conservación y Restauración
+La persona titular de la Comisión no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
 
-###### Artículo 22.
+###### ARTÍCULO 25.
 
-La planeación tiene por objeto desarrollar integral y sustentablemente al sector forestal de la Entidad y deberá llevarse a cabo de acuerdo con los fines políticos, sociales, culturales y económicos, contemplados en El Plan Estatal de Desarrollo que estará en concordancia con el Plan Nacional de Desarrollo. De estos instrumentos básicos derivarán el Plan Sectorial Forestal Estatal y los Programas Específicos de Desarrollo Forestal.
+La Comisión tendrá las atribuciones señaladas en la Ley General, así como aquellas que le sean atribuidas en el Decreto Administrativo que al efecto expida el Poder Ejecutivo para su creación.
 
-A través de la planeación, se fijarán objetivos, estrategias, acciones, metas, prioridades y programas para el desarrollo integral del sector forestal en la Entidad, asimismo se concertarán, inducirán y coordinarán acciones con los diferentes órdenes de gobierno, el sector social y privado y se evaluarán resultados.
+###### ARTÍCULO 26.
 
-La planeación, teniendo como referentes a las Cuencas, Sub-cuencas y Microcuencas, será el instrumento estratégico para inducir el ordenamiento ecológico en la Entidad, así como para definir las zonas y subzonas forestales como unidades de manejo.
+La Comisión, además de su titular tendrá la siguiente estructura:
 
-Los Consejos Forestales de la Entidad deberán ser consultados y será considerada su opinión al formularse el Plan Sectorial Forestal Estatal y los Programas específicos de Desarrollo Forestal Integral y Sustentable.
+I. Área de Coordinación Acciones de Búsqueda;
 
-###### Artículo 23.
+II. Área de Análisis de Contexto y Procesamiento de Información;
 
-El Ejecutivo del Estado y los Ayuntamientos son responsables de conducir, en el área de su competencia, la planeación del desarrollo forestal sustentable, con la participación democrática de los grupos sociales y privados, de conformidad con lo dispuesto por esta Ley.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2023)</small>
 
-Tanto el Ejecutivo del Estado como las Autoridades Municipales deberán incluir en su informe anual ante las instancias correspondientes, el relativo al estado que guarda el sector.
+III. Área de seguimiento, atención ciudadana y vinculación con organizaciones público privadas;
 
-###### Artículo 24.
+Además de las áreas anteriores, la Comisión Local, contara con la estructura administrativa mínima indispensable para el cumplimiento de sus atribuciones.
 
-La Secretaría, a través de la Dirección General de Desarrollo Forestal, instituirá el Sistema Estatal de Información Forestal, cuyo objeto será registrar, integrar, organizar, actualizar y dar difusión de los actos, hechos y documentos relacionados con la actividad forestal en la Entidad.
+La Comisión contará con un Consejo Estatal Ciudadano, como un órgano de apoyo y tendrá las atribuciones que establezca el decreto administrativo que al efecto expida el Poder Ejecutivo.
 
-La integración será ajustándose a la normatividad que para tal efecto emita la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE JULIO DE 2023)</small>
 
-###### Artículo 25.
+### CAPÍTULO PRIMERO BIS. Del Consejo Estatal Ciudadano; (sic)
 
-En cumplimiento a lo previsto por la Ley de Acceso a la Información del Estado de Veracruz de Ignacio de la Lave (sic), las autoridades en materia forestal deberán poner a disposición de la persona que lo solicite la información forestal de la que se hace mención en el artículo anterior.
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
 
-###### Artículo 26.
+ARTÍCULO 26 BIS.- El Consejo Ciudadano es un órgano ciudadano de consulta de la Comisión en materia de búsqueda de personas.
 
-Las Autoridades Municipales proporcionarán a la Secretaría, en los términos que prevea el reglamento de esta ley, la información que recaben en el ejercicio de sus atribuciones en materia forestal para que sea integrada al Sistema Estatal de Información Forestal.
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
 
-### CAPÍTULO V. Pastoreo en Terrenos Forestales
+ARTÍCULO 26 TER.- El Consejo Ciudadano está integrado por:
 
-### CAPÍTULO VI. Servicios Ambientales Forestales
+I. Tres familiares;
 
-###### Artículo 27.
+II. Dos especialistas de reconocido prestigio en la protección y defensa de los derechos humanos, la búsqueda de Personas Desaparecidas o No Localizadas o en la investigación y persecución de los delitos previstos en esta Ley. Se garantizará que uno de los especialistas siempre sea en materia forense, y
 
-La Secretaría a través de la Dirección General de Desarrollo Forestal elaborará, monitoreará y mantendrá actualizado el Inventario Estatal Forestal y de Suelos, bajo los principios, criterios y metodología que se establezcan para el Inventario Nacional y de Suelos.
+III. Dos representantes de organizaciones de la sociedad civil defensoras de derechos humanos.
 
-###### Artículo 28.
+Las personas integrantes a que se refieren las fracciones anteriores deben ser nombrados por el Congreso del Estado previa consulta pública con las organizaciones de familiares, de las organizaciones defensoras de los derechos humanos, de los grupos organizados de víctimas y de las personas expertas en la materia de esta Ley, garantizando en todo momento el principio de paridad de género.
 
-La integración del Inventario Forestal Estatal y de Suelos, se realizará de acuerdo a lo establecido en la Ley General de Desarrollo Forestal Sustentable, su Reglamento y demás disposiciones aplicables.
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
 
-###### Artículo 29.
+ARTÍCULO 26 QUÁTER.- Las personas que integren el Consejo Ciudadano:
 
-Con base al inventario forestal y de suelos y tomando en cuenta el ordenamiento ecológico del territorio, la Secretaría, en coordinación con la CONAFOR, llevará a cabo la zonificación forestal, instrumento mediante el cual se identifican, agrupan y ordenan terrenos forestales y preferentemente forestales dentro de las cuencas, subcuencas y microcuencas hidrológico-forestales, donde se incluyan las actividades biológicas, ambientales y socioeconómicas con el objeto de facilitar su administración y aplicación de políticas enmarcadas en el Programa Sectorial Forestal Estatal.
+I. Durarán en su cargo tres años sin posibilidad de reelección y no deberán desempeñar ningún cargo como servidor público;
 
-###### Artículo 30.
+II. Ejercerán su función en forma honorífica y no deben recibir emolumento o contraprestación económica alguna por su desempeño;
 
-Una vez que se valide la zonificación en el seno del Consejo Estatal Forestal, el Acuerdo correspondiente será publicado en la Gaceta Oficial del Gobierno del Estado.
+III. Elegirán, de entre sus miembros a la persona que coordine los trabajos de sus sesiones, por mayoría de votos, quien durará en su encargo un año, y
 
-En el Reglamento de esta Ley, se definirán los mecanismos de organización y operación de las zonas forestales.
+IV. Emitirán las reglas de funcionamiento en las que se determinarán los requisitos y procedimientos para nombrar a la persona titular de la Secretaría Técnica, la convocatoria a sus sesiones bimestrales y contenidos del orden del día de cada sesión.
 
-###### Artículo 31.
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
 
-La Secretaría, en la medida de sus atribuciones, coadyuvará con el Registro Forestal Nacional para que la información manejada por éste y que se genere en la Entidad, se mantenga actualizada y se integre a aquél con la oportunidad que determine su Reglamento.
+ARTÍCULO 26 QUINQUIES.- Las recomendaciones, propuestas y opiniones del Consejo Ciudadano deberán ser comunicadas a la Comisión y podrán ser consideradas para la toma de decisiones. Quien formando parte de la Comisión determine no adoptar las recomendaciones que formule el Consejo Ciudadano, deberá explicar las razones para ello.
 
-La Secretaría será la instancia que vincule la coordinación del Registro Público de la Propiedad del Gobierno del Estado con el Registro Forestal Nacional, con el propósito de que éste integre, organice y mantenga actualizada información sobre:
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
 
-I. Los decretos que establezcan áreas naturales protegidas que incluyan terrenos forestales o preferentemente fo-restales (sic);
+ARTÍCULO 26 SEXIES.- La Comisión proporcionará al Consejo Ciudadano las facilidades necesarias para el desempeño de sus funciones.
 
-II. Los decretos de zonas de restauración en terrenos forestales; y
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
 
-III. Los actos de transferencia de dominio, uso, usufructo o prestación de servicios que involucren predios con recursos forestales, programas de manejo forestal, de manejo de plantaciones forestales comerciales o avisos de forestación.
+ARTÍCULO 26 SEPTIES.- El Consejo Ciudadano tiene las funciones siguientes:
 
-###### Artículo 32.
+I. Proponer a la Comisión acciones para acelerar o profundizar sus acciones, en el ámbito de su competencia;
 
-Para el reconocimiento y ejercicio de la prestación de servicios técnicos forestales, los profesionales forestales estarán sujetos a la normatividad determinada en la Ley General de Desarrollo Forestal Sustentable, a la normatividad que emita la Secretaría de Medio Ambiente y Recursos Naturales y demás disposiciones aplicables.
+II. Proponer acciones para mejorar el funcionamiento de los programas, registros, bancos y herramientas materia de esta la ley y la Ley General;
 
-La Secretaría en coordinación con la CONAFOR fomentará, impulsará y consolidará la organización de los Profesionales Forestales, así como el reconocimiento y estímulo de sus integrantes.
+III. Proponer y, en su caso, acompañar las medidas de asistencia técnica para la búsqueda de personas;
 
-###### Artículo 33.
+IV. Solicitar información a la Comisión, para el ejercicio de sus atribuciones, y hacer las recomendaciones pertinentes;
 
-Los profesionales forestales organizados serán instancia obligada de consulta y opinión, en base a los principios fundamentales de la planeación, en materia de formulación de:
+V. Acceder a la información estadística generada a través de las diversas herramientas con las que cuenta la Comisión, para el ejercicio de sus atribuciones;
 
-I. El Plan Sectorial Forestal Estatal y los consecuentes programas estratégicos de desarrollo forestal integral y sustentable, así como de sus actualizaciones;
+VI. Contribuir en la promoción de las acciones, políticas públicas, programas y proyectos relacionados con el objeto de esta Ley y la Ley General;
 
-II. Las políticas y proyectos generales de conservación, protección, restauración, producción, ordenación, cultivo, manejo y aprovechamiento de los ecosistemas forestales, sus servicios ambientales, las cuencas, subcuencas y microcuencas hidrológico-forestales de la Entidad;
+VII. Dar vista a las autoridades competentes y órganos internos de control sobre las irregularidades en las actuaciones de servidores públicos relacionados con la búsqueda e investigación de Personas Desaparecidas y No Localizadas. Se le reconocerá interés legítimo dentro de las investigaciones para la determinación de responsabilidades de servidores públicos relacionados con la búsqueda e investigación de Personas Desaparecidas y No Localizadas en términos de las disposiciones jurídicas aplicables;
 
-III. Declaratorias para el establecimiento, modificación y cancelación de vedas forestales;
+VIII. Emitir recomendaciones sobre la integración y operación de la Comisión Estatal de Búsqueda;
 
-IV. Decretos declaratorios de áreas naturales protegidas con recursos forestales;
+IX. Elaborar, aprobar y modificar la Guía de procedimientos del Comité de Evaluación y seguimiento, y
 
-V. La zonificación forestal en base al ordenamiento ecológico del territorio de la Entidad; y
+X. Las demás que señale el Reglamento.
 
-VI. Las demás acciones que en materia de desarrollo forestal se requiera su consulta y opinión.
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
 
-Los profesionales forestales deberán participar en los programas de asistencia técnica y capacitación que la Secretaría o cualquier dependencia o institución, imparta a los titulares de autorizaciones de aprovechamiento forestal con los que tenga contratada la prestación de sus servicios.
+ARTÍCULO 26 OCTIES.- Las decisiones que el Consejo Ciudadano adopte son públicas, en apego a la legislación de transparencia y protección de datos personales.
 
-###### Artículo 34.
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2023)</small>
 
-La Secretaría, en los términos de los convenios y acuerdos de coordinación suscritos con la Secretaría de Medio Ambiente y Recursos Naturales podrá otorgar autorizaciones para:
+ARTÍCULO 26 NONIES.- El Consejo Ciudadano integrará de entre sus miembros un Comité para la evaluación y seguimiento de las acciones emprendidas por la Comisión, que tendrá las siguientes atribuciones:
 
-I. Dictaminar, autorizar y evaluar los programas de manejo forestal así como evaluar y asistir a los servicios técnicos forestales;
+I. Solicitar información relacionada a los procedimientos de búsqueda y localización a la Comisión;
 
-II. Autorizar el aprovechamiento de los recursos forestales maderables y no maderables y de plantaciones forestales comerciales;
+II. Conocer y emitir recomendaciones sobre los criterios de idoneidad, convenios, lineamientos, programas y reglamentos que emita la Comisión;
 
-III. Recibir los avisos de aprovechamientos de recursos forestales maderables, no maderables, de forestación y los de plantaciones forestales comerciales;
+III. Dar seguimiento a la implementación de Programas en materia de Búsqueda de Personas Desaparecidas;
 
-IV. Autorizar el cambio de uso de suelo de los terrenos forestales; y
+IV. Contribuir, de acuerdo a lo establecido en la presente Ley y su Reglamento, a la participación directa de los familiares en el ejercicio de sus atribuciones, y
 
-V. Evaluar el impacto ambiental de las obras o actividades forestales atendiendo lo que se dispone en el Artículo 28 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+V. Las demás que determine el Consejo en el marco de sus atribuciones.
 
-###### Artículo 35.
+### CAPÍTULO SEGUNDO. De la Fiscalía Especializada
 
-Para que la Secretaría emita los dictámenes y las autorizaciones que se determinan en el Artículo anterior, deberá observar y exigir a los solicitantes el cumplimiento de la normatividad establecida en la Ley General de Desarrollo Forestal Sustentable y demás disposiciones que de ella se derivan; de igual forma se apoyará en estas disposiciones para la procedencia de su suspensión, revocación o cancelación.
+###### ARTÍCULO 27.
 
-### CAPÍTULO VII. Prevención de Riesgo y Restauración de daños ocasionados a los Recursos Forestales, al Medio Ambiente, Ecosistemas o sus Componentes
+La Fiscalía General del Estado contará con una Fiscalía Especializada cuyo objeto sea la investigación y persecución de los delitos de desaparición forzada de personas, desaparición cometida por particulares y delitos vinculados con la desaparición de personas, la cual deberá coordinarse con la Fiscalía Especializada de la Fiscalía General de la República y Fiscalías Especializadas de otras Entidades Federativas y dar impulso permanente a la búsqueda de Personas Desaparecidas.
 
-###### Artículo 36.
+La Fiscalía Especializada deberá contar con los recursos humanos, financieros, materiales y técnicos especializados y multidisciplinarios y una unidad de análisis de contexto que se requieran para su efectiva operación, entre los que deberá contemplar personal sustantivo ministerial, policial, pericial y de apoyo psicosocial.
 
-La Secretaría en coordinación con la CONAFOR impulsará y promoverá la certificación del buen manejo forestal y el apoyo a los propietarios forestales a fin de que éstos puedan obtener dicho certificado, así como los beneficios inherentes al mismo.
+Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficiente y eficaz con la Fiscalía Especializada para el cumplimiento de la Ley.
 
-###### Artículo 37.
+###### ARTÍCULO 28.
 
-La Secretaría emitirá las autorizaciones para los aprovechamientos de recursos forestales maderables aislados que provengan de predios no forestales ni preferentemente forestales, previo dictamen que se emita en términos de lo que disponga el Reglamento de esta Ley.
+Los servidores públicos que integren la Fiscalía Especializada deberán cumplir, con los requisitos señalados en el Artículo 69 de la Ley General.
 
-### CAPÍTULO I. Instrumentos Económicos del Fomento Forestal
+###### ARTÍCULO 29.
 
-###### Artículo 38.
+La Fiscalía Especializada tiene, en el ámbito de su competencia, las atribuciones señaladas en la Ley Orgánica de la Fiscalía General del Estado de Aguascalientes.
 
-Los recursos forestales maderables existentes dentro de los perímetros urbanos, para su aprovechamiento y manejo, serán regulados por la Autoridad Municipal en los términos que se emitan en el Reglamento de esta Ley.
+###### ARTÍCULO 30.
 
-###### Artículo 39.
+La Fiscalía Especializada debe de remitir inmediatamente a la Fiscalía Especializada de la Fiscalía General de la República los expedientes de los que conozcan cuando se actualicen los supuestos previstos en el artículo 24 de la Ley General, o iniciar inmediatamente la carpeta de investigación, cuando el asunto no esté contemplado expresamente como competencia de la Federación.
 
-Los aprovechamientos forestales realizados directamente por el propietario con fines domésticos, incluyendo el consumo de leña o carbón, para la construcción de viviendas o usos agropecuarios, siempre que no se destinen a la venta, no requieren de autorización y solo estarán sujetos a un aviso por parte del propietario, que cumpla con los requisitos que se determinen en el Reglamento de esta Ley.
+###### ARTÍCULO 31.
 
-En casos debidamente comprobados, el propietario de recursos forestales maderables en predio de su propiedad podrá solicitar y obtener un aprovechamiento no comercial para cortar madera y aprovecharla en la construcción o mejoras de su propia vivienda.
+El servidor público que sea señalado como imputado por el delito de desaparición forzada de personas, y que por razón de su encargo o influencia pueda interferir u obstaculizar las acciones de búsqueda o las investigaciones, podrá ser sujeto de medidas cautelares como la suspensión temporal de su encargo, entre otras, por la autoridad jurisdiccional competente, de conformidad con lo establecido en el Código Nacional de Procedimientos Penales.
 
-El transporte que se deba realizar de los productos derivados de los aprovechamientos de recursos forestales maderables realizados en zonas urbanas, en predios no forestales ni preferentemente forestales y para uso doméstico, deberá acreditar la legal procedencia con la documentación que para tal efecto expidan las autoridades competentes. El Reglamento de esta Ley determinará el procedimiento de autorización, validación y expedición de la documentación que deberá utilizarse para el transporte.
+Adicionalmente a lo previsto en el párrafo anterior, el superior jerárquico debe adoptar las medidas administrativas y adicionales necesarias para impedir que el servidor público interfiera con las investigaciones.
 
-###### Artículo 40.
+###### ARTÍCULO 32.
 
-El Gobierno del Estado y las autoridades municipales garantizarán y en consecuencia impulsarán que los recursos forestales que se encuentran en los pueblos y comunidades indígenas sean el detonante del desarrollo económico, social y ambiental, propiciando que con su manejo y aprovechamiento se conserven, restauren e incrementen.
+La Fiscalía Especializada deberá generar criterios y metodología específica para la investigación y persecución de los delitos de desaparición forzada de personas. En el caso de las desapariciones forzadas por motivos políticos de décadas pasadas, de conformidad con el Protocolo Homologado de Investigación, la Ley General y esta Ley, la Fiscalía Especializada deberá emitir criterios y metodología específicos que deberán contemplar, al menos, lo siguiente:
 
-###### Artículo 41.
+I. Los procedimientos de búsqueda permanente que se lleven a cabo para buscar personas en cualquier lugar donde se presuma pudieran estar privadas de libertad como son centros penitenciarios, centros clandestinos de detención, estaciones migratorias, centros de salud y cualquier otro lugar en donde se pueda presumir (sic) pueda estar la persona desaparecida; y
 
-El Plan Sectorial Forestal Estatal y sus programas estratégicos contemplarán de manera prioritaria las acciones y recursos que deban de aplicarse para el impulso del objetivo que se determina en el artículo anterior.
+II. Cuando se sospeche que la víctima ha sido privada de la vida, realizar las diligencias pertinentes para la exhumación de los restos en los lugares que se presume pudieran estar, de acuerdo con los estándares internacionales, siendo derecho de los Familiares solicitar la participación de peritos especializados independientes, en términos de las disposiciones legales aplicables. En la generación de los criterios y metodología específicos, se tomarán en cuenta las sentencias y resoluciones nacionales e internacionales en materia de búsqueda e investigación de los casos de desaparición forzada.
 
-En consecuencia, el Gobierno del Estado y las Autoridades Municipales:
+###### ARTÍCULO 33.
 
-I. Facilitarán la participación de los pueblos y comunidades indígenas de la Entidad en la aplicación, evaluación y seguimiento de la política forestal;
+En el caso de que un Grupo de Trabajo realice una solicitud de actos de investigación específicos, la Fiscalía Especializada debe continuar sin interrupción la investigación de los delitos previstos en la Ley General, en términos de lo que establezca el Protocolo Homologado de Investigación y el Código Nacional de Procedimientos Penales.
 
-II. Harán respetar el derecho al uso y disfrute preferente de los recursos forestales de los lugares que ocupan y habitan las comunidades indígenas, en los términos de la fracción VI, del artículo 2, de la Constitución Política de los Estados Unidos Mexicanos y demás normatividad aplicable;
+###### ARTÍCULO 34.
 
-III. Asesorarán y orientarán a las comunidades indígenas en el desarrollo de su organización, así como en la creación de empresas sociales forestales, propiciando la integración de cadenas productivas y los sistema-producto del sector forestal;
+Las autoridades de todos los órdenes de gobierno están obligadas a proporcionar el auxilio e información que la Fiscalía Especializada les solicite en el ejercicio de sus funciones.
 
-IV. Brindarán atención, de forma coordinada, a los asuntos relacionados con la conservación y mejoramiento del hábitat natural de los pueblos y comunidades indígenas; y
+###### ARTÍCULO 35.
 
-V. Propiciarán la divulgación, el uso, respeto y reconocimiento de costumbres, tradiciones y prácticas culturales propias de los pueblos y comunidades indígenas que habitan en las Regiones Forestales del Estado.
+La Fiscalía General del Estado celebrará acuerdos Interinstitucionales con autoridades e instituciones para coordinar las acciones de investigación de mexicanos en el extranjero y migrantes extranjeros en el estado.
 
-En los Consejos Forestales deberá haber representantes de pueblos y comunidades indígenas a través de sus autoridades tradicionales.
+Las personas físicas o morales que cuenten con información que pueda contribuir a la investigación y persecución de los delitos previstos en esta Ley, están obligadas a proporcionarla a la Fiscalía Especializada directamente o por cualquier otro medio.
 
-El Gobierno del Estado, en coordinación con el Gobierno Federal y las autoridades municipales, con la colaboración de las comunidades indígenas, formulará y evaluará programas integrales de prevención y combate a la tala clandestina, especialmente en las zonas críticas diagnosticadas previamente, para enfrentarla con diversas acciones, así como para prevenir actos indebidos de cambio de uso del suelo, tráfico de especies y recursos forestales, extracción del suelo forestal, o bien, transporte, almacenamiento, transformación o posesión ilegal de materias primas forestales.
+La Fiscalía Especializada no puede condicionar la recepción de la información a que se refiere el párrafo anterior al cumplimiento de formalidad alguna.
 
-###### Artículo 42.
+### CAPÍTULO TERCERO. De la Búsqueda de Personas
 
-Todo transporte de materias primas forestales dentro de la Entidad deberá realizarse bajo el amparo de la documentación oficial que para tal efecto se expida en términos de lo que se dispone en la Ley General de Desarrollo Forestal Sustentable y demás disposiciones aplicables.
+###### ARTÍCULO 36.
 
-### CAPÍTULO II. Infraestructura para el Desarrollo Forestal
+La búsqueda tendrá por objeto realizar todas las acciones y diligencias tendientes a dar con la suerte o el paradero de la persona hasta su localización, incluidas aquellas para identificar plenamente sus restos en caso de que éstos hayan sido localizados.
 
-###### Artículo 43.
+La búsqueda a que se refieren la presente Ley y la Ley General se realizará de forma conjunta, coordinada y simultánea entre la Comisión y la Comisión Nacional de Búsqueda.
 
-Los centros de almacenamiento, transformación y comercialización deberán acreditar su instalación, funcionamiento y la legal procedencia de materias primas forestales, sus productos y subproductos con los instrumentos de control que se determinan en las disposiciones señaladas en el artículo anterior.
+Las acciones de búsqueda deberán agotarse hasta que se determine la suerte o paradero de la persona. En coordinación con la Comisión Nacional de Búsqueda, la Comisión garantizará que las acciones de búsqueda se apliquen conforme a las circunstancias propias de cada caso, de conformidad con esta Ley, la Ley General, el Protocolo Homologado de Búsqueda y los lineamientos correspondientes.
 
-La Secretaría y las autoridades municipales, mediante acuerdos de coordinación con las Cámaras u organizaciones de los industriales de la construcción, establecerán mecanismos para controlar que las materias primas forestales que utilicen en las obras, tengan una legal procedencia en términos de las disposiciones legales aplicables.
+###### ARTÍCULO 37.
 
-### CAPÍTULO III. Capitalización y Modernización de la Industria Forestal
+Las acciones de búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas deberán realizarse de conformidad con el Capítulo Sexto del Título Tercero de la Ley General y los Protocolos Homologados de Búsqueda e Investigación correspondientes.
 
-###### Artículo 44.
+### CAPÍTULO CUARTO. De los Registros
 
-En los términos de los Acuerdos y Convenios que se celebren entre la Secretaría, el Gobierno Federal y las Autoridades Municipales, se efectuarán acciones en forma coordinada para detectar, diagnosticar, prevenir, combatir y controlar las plagas y enfermedades forestales que se presenten en cualquier tipo de terreno, promoviendo además la restauración de las áreas afectadas, estableciendo procesos de seguimiento de las obligaciones que en la materia tengan los particulares. Se divulgarán, con el apoyo de los Consejos Forestales, las medidas de prevención y manejo de plagas y enfermedades.
+###### ARTÍCULO 38.
 
-###### Artículo 45.
+La participación en la operación y funcionamiento de los Registros Nacionales y del Banco Nacional de Datos Forenses previstos en el Capítulo Séptimo de la Ley General se regirá de conformidad a ésta, y a los lineamientos que se expidan para tal efecto.
 
-Los ejidatarios, comuneros y demás propietarios o poseedores de terrenos forestales o de aptitud preferentemente forestal, así como los titulares de autorizaciones de aprovechamiento de recursos forestales, quienes realicen actividades de forestación o plantaciones forestales comerciales y reforestación, los prestadores de servicios técnicos forestales responsables de los mismos y los responsables de la administración de las áreas naturales protegidas, estarán obligados a prevenir y combatir las plagas y enfermedades forestales y en forma inmediata a la detección de plagas o enfermedades dentro de sus predios, estarán obligados a dar aviso de ello a la Secretaría o a las autoridades federales correspondientes.
+Las autoridades que intervengan en los procesos de búsqueda e investigación tienen el deber de conocer las herramientas del Sistema Nacional de Búsqueda y utilizarlos conforme a lo señalado por la Ley General, protocolos homologados y lineamientos emitidos al respecto.
 
-Cuando por motivos de sanidad y saneamiento forestal sea necesario realizar un aprovechamiento o eliminación de vegetación forestal, deberá implementarse un programa que permita la reforestación, restauración y conservación de suelos, estando obligados los propietarios, poseedores o usufructuarios a realizar tareas de restauración, mediante la regeneración natural o artificial en un plazo no mayor a dos años.
+###### ARTÍCULO 39.
 
-Cuando los trabajos de sanidad forestal no se ejecuten o siempre que exista riesgo grave de alteración o daños al ecosistema forestal, la Secretaría realizará los trabajos correspondientes con cargo a los obligados, quienes deberán pagar la contraprestación respectiva que tendrá el carácter de crédito fiscal y su recuperación será mediante el procedimiento económico coactivo correspondiente, excepto aquellos que careciendo de recursos soliciten el apoyo de la Secretaría.
+Las autoridades correspondientes, conforme a las atribuciones señaladas por la Ley General, deben recabar, ingresar y actualizar la información necesaria en los Registros Nacionales y en el Banco Nacional de Datos Forenses en tiempo real y en los términos señalados (sic) la misma.
 
-###### Artículo 46.
+La Fiscalía General deberá coordinar la operación del Registro Estatal de Personas Fallecidas, el cual funcionará conforme a lo señalado por el capítulo VII de la Ley General y los protocolos y lineamientos emitidos al respecto.
 
-Para atender las emergencias provocadas por la alta incidencia de plagas y enfermedades forestales, la Secretaría, con el apoyo económico de los diferentes órdenes de gobierno y los dueños de los terrenos forestales, instituirán un fondo de contingencia el cual formará parte del Fondo Forestal Estatal.
+###### ARTÍCULO 40.
 
-La Secretaría podrá realizar la Declaratoria de Emergencia Sanitaria, previo cumplimiento del procedimiento establecido en la normatividad aplicable, en los terrenos forestales, preferentemente forestales y en todos aquellos que contengan recursos forestales maderables, cuando:
+El personal de la Comisión, de la Fiscalía Especializada y de la Dirección General de Servicios Periciales de la Fiscalía General deberán recibir capacitación en las diferentes materias que se requieran para el adecuado funcionamiento de las herramientas del Sistema Nacional de Búsqueda en el Estado.
 
-I. El terreno se encuentre invadido de una plaga o enfermedad forestal;
+###### ARTÍCULO 41.
 
-II. Aun con las medidas emprendidas por el propietario o poseedor del terreno, la plaga o enfermedad forestal siga extendiéndose; o
+La disposición de cadáveres o restos de personas se regirán por lo dispuesto el (sic) la Sección Cuarta, Capítulo Séptimo, Título Tercero de la Ley General y por las demás disposiciones normativas aplicables.
 
-III. A pesar de las acciones instauradas en el terreno afectado, la plaga o enfermedad forestal aún subsista.
+La Fiscalía General deberá tener el registro del lugar donde sean colocados los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido reclamados.
 
-###### Artículo 47.
+En caso de emergencia sanitaria o desastres naturales que afecten la operación ordinaria de los servicios forenses, se adoptarán las medidas que establezca la Fiscalía General en coordinación con el Instituto de Servicios de Salud del Estado.
 
-Bajo el esquema de coordinación del Servicio Estatal Forestal y previos los Convenios y Acuerdos de Coordinación que se establezcan con el Gobierno Federal, la Secretaría realizará las acciones de prevención, detección, combate y control especializado de incendios forestales, de conformidad con los programas operativos de la Entidad que se elaboren en congruencia con el Programa Nacional.
+###### ARTÍCULO 42.
 
-###### Artículo 48.
+Dichas autoridades estarán obligadas a procesar y proporcionar la información solicitada por la Comisión Nacional de Búsqueda y la Fiscalía Especializada de la Procuraduría para la elaboración de los programas nacionales. Asimismo, están obligadas a colaborar con dichas autoridades para realizar las acciones que resulten necesarias en la elaboración de los programas.
 
-La Secretaría procurará establecer los mecanismos y sistemas de coordinación para eficientar la participación oportuna de los sectores público, social y privado en la prevención y combate de incendios forestales; para tal efecto:
+### CAPÍTULO QUINTO. Derechos de las Víctimas
 
-I. Presupuestará acciones y recursos para cumplir con las metas establecidas en el programa estatal;
+###### ARTÍCULO 43.
 
-II. Elaborará un Plan Estratégico de Contingencia para los casos en que se tenga la presencia de incendios críticos o de gran magnitud, y procurará contar con los medios que sean necesarios para controlar y extinguir el fuego;
+Las Víctimas directas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, así como sus Familiares tendrán los derechos y (sic) señalados en los Artículos 137, 138, 139, y 150 a 152 de la Ley General, así como aquellos reconocidos en la Ley de Atención y Protección a la Víctima y al Ofendido para el Estado de Aguascalientes y demás ordenamientos aplicables.
 
-III. Determinará las regiones forestales de daño potencial o zonas críticas en las que, por la existencia de materiales peligrosos, topografía accidentada o cualquier otro factor, se facilite la propagación del fuego;
+## TÍTULO CUARTO. De la Declaración Especial de Ausencia
 
-IV. Organizará y capacitará brigadas de combate de incendios y a los grupos de vigilancia de los Comités Municipales, en métodos sobre el establecimiento de brechas cortafuego, métodos de combate y seguridad del personal, en materia de incendios forestales;
+### CAPÍTULO PRIMERO. Del Procedimiento para la Declaración Especial de Ausencia
 
-V. Programará y organizará anualmente quemas controladas de carácter preventivo, con el fin de eliminar las condiciones de continuidad de la vegetación, propias para la generación de los incendios forestales, induciendo y capacitando a los propietarios de los terrenos forestales para realizar las diferentes técnicas sobre quemas controladas y de apertura de brechas cortafuego;
+###### ARTÍCULO 44.
 
-VI. Elaborará manuales e instructivos que contengan lineamientos sobre medidas preventivas y uso adecuado del fuego en terrenos forestales y sobre las acciones inmediatas en caso de generación de incendios, dirigidos a los visitantes y excursionistas de los bosques, productores, trabajadores y transportistas de las empresas forestales; y
+La Declaración Especial de Ausencia es un procedimiento que tiene como finalidad el reconocer, proteger y garantizar la continuidad de la personalidad jurídica y protección de los derechos de la Persona Desaparecida, brindar certeza jurídica a la representación de los intereses y derechos de la Persona Desaparecida y otorgar las medias apropiadas para asegurar la protección más amplia a la familia de la víctima.
 
-VII. Impulsará campañas de prevención de incendios y de cultura forestal, dirigidas a los diferentes sectores de la población.
+###### ARTÍCULO 45.
 
-###### Artículo 49.
+Pueden solicitar la Declaración Especial de Ausencia:
 
-Los propietarios y poseedores de los terrenos forestales y preferentemente forestales y sus colindantes, quienes realicen el aprovechamiento de recursos forestales, la forestación o plantaciones forestales comerciales y reforestación, así como los prestadores de servicios técnicos forestales responsables de los mismos y los encargados de la administración de las áreas naturales protegidas, estarán obligados a ejecutar trabajos para prevenir, combatir y controlar incendios forestales, en los términos de las Normas Oficiales Mexicanas aplicables. Asimismo, todas las autoridades y las empresas o personas relacionadas con la extracción, transporte y transformación de recursos forestales, están obligadas a reportar a la Secretaría la existencia de los conatos o incendios forestales que detecten.
+I. Los familiares;
 
-###### Artículo 50.
+II. La persona que tenga una relación sentimental afectiva inmediata y cotidiana con la Persona Desaparecida, en términos de la legislación civil;
 
-La Secretaría, de conformidad con las Normas Oficiales Mexicanas, en materia de prevención, combate y control de incendios forestales, evaluará los daños para las actividades de restauración del área afectada y establecerá los procesos de seguimiento, así como los métodos y formas de uso del fuego en los terrenos forestales y agropecuarios colindantes.
+III. Las personas que funjan como representantes legales de los familiares;
 
-###### Artículo 51.
+IV. La Fiscalía General del Estado, a solicitud de los Familiares o de las personas legitimadas en términos de las fracciones II y III del presente artículo; y
 
-Los propietarios, poseedores y titulares de autorizaciones de aprovechamiento de recursos forestales de terrenos de uso forestal, están obligados a llevar a cabo, en caso de incendio, la restauración de la superficie afectada en el plazo máximo de dos años, debiendo ser restaurada la cubierta vegetal afectada, mediante la reforestación artificial, cuando la regeneración natural no se establezca.
+V. El Asesor Jurídico debidamente acreditado, a solicitud de los Familiares o de las personas legitimadas en términos de las fracciones II y III del presente artículo, quien además dará seguimiento al juicio civil y al cumplimiento de la resolución.
 
-Cuando los dueños o poseedores de los predios dañados demuestren su imposibilidad para cumplir directamente con las actividades de restauración, podrán solicitar fundadamente a las autoridades municipales o estatales, el apoyo para realizar dichos trabajos. De igual manera, los titulares de las autorizaciones de aprovechamiento de recursos forestales de los predios afectados que no hayan sido responsables del incendio, podrán solicitar el apoyo para los trabajos de restauración, en los términos que se establezcan en los instrumentos económicos vigentes.
+###### ARTÍCULO 46.
 
-En el caso de que haya transcurrido el plazo de dos años sin que el propietario hubiera procedido a la restauración, la Secretaría realizará los trabajos correspondientes con cargo a ellos, quienes deberán pagar la contraprestación respectiva en los términos de las disposiciones aplicables, que tendrá el carácter de crédito fiscal y su recuperación será mediante el procedimiento económico coactivo correspondiente.
+El procedimiento de Declaración Especial de Ausencia podrá solicitarse a partir de los tres meses de que se haya hecho la Denuncia o Reporte de desaparición, o de la presentación de la queja ante la Comisión Estatal o la Comisión Nacional de los Derechos Humanos.
 
-Cuando los propietarios, poseedores y titulares de autorizaciones de aprovechamiento de recursos forestales de terrenos de uso forestal que hayan sido afectados por incendio, comprueben fehacientemente que los daños sean de una magnitud tal que requieran de un proceso de restauración mayor a los dos años, podrán acudir ante la Secretaría a que se le amplíe el plazo a que se refieren los primeros párrafos de este artículo, así como la gestión de apoyos mediante los programas estatales aplicables.
+###### ARTÍCULO 47.
 
-###### Artículo 52.
+La Fiscalía Especializada y la Comisión tienen la obligación de informar del procedimiento y los efectos de la Declaración Especial de Ausencia a los Familiares o sus representantes legales; así como a la o las personas que tengan una relación sentimental afectiva inmediata y cotidiana con la Persona Desaparecida, en el término de cinco días hábiles, contados a partir de que tengan verificativo los tres meses referidos en el artículo anterior, debiendo dejar constancia de ello.
 
-Quienes hagan uso del fuego, en contravención de las disposiciones de esta Ley y de las Normas Oficiales Mexicanas, recibirán las sanciones que prevé la presente Ley, sin perjuicio de las sanciones de tipo penal y administrativo establecidas en otras disposiciones legales aplicables.
+A petición de los familiares u otras personas autorizadas en términos de las fracciones II y III del artículo 7 de esta Ley, la Fiscalía Especializada estará obligada, en un plazo no mayor a cinco días hábiles contados a partir de la recepción de dicha petición, a solicitar al Órgano Jurisdiccional competente que se inicie el procedimiento de Declaración Especial de Ausencia y, en su caso, que ordene las medidas que resulten necesarias para proteger los derechos de la Persona Desaparecida y de sus familiares.
 
-###### Artículo 53.
+###### ARTÍCULO 48.
 
-La Secretaría y la CONAFOR, escuchando la opinión de los Consejos Forestales y tomando en cuenta los requerimientos de recuperación en zonas degradadas y las condiciones socioeconómicas de los habitantes de las mismas, promoverán la elaboración y aplicación de programas e instrumentos económicos que se requieran para fomentar las labores de conservación y restauración de los recursos forestales y las cuencas hidrográficas.
+La solicitud deberá contener la siguiente información:
 
-Las acciones de dichos programas y los instrumentos económicos a que se refiere el párrafo anterior, serán incorporados en los Programas para el Desarrollo Rural, incluyendo las previsiones presupuestarias de corto y mediano plazo, necesarias para su instrumentación, dando preferencia a los propios dueños y poseedores de los recursos forestales para su ejecución.
+I. El nombre, parentesco o relación de la persona solicitante con la Persona Desaparecida y sus datos generales;
 
-###### Artículo 54.
+II. El nombre, fecha de nacimiento y el estado civil de la Persona Desaparecida;
 
-Cuando se presenten procesos de degradación, desertificación o graves desequilibrios ecológicos en terrenos forestales o preferentemente forestales, la Secretaría, con el apoyo de la CONAFOR, formulará y ejecutará, en coordinación con los propietarios, programas de restauración ecológica con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ellos se desarrollaban, incluyendo el mantenimiento del régimen hidrológico y la prevención de la erosión y la restauración de los suelos forestales degradados.
+III. El número de la carpeta de investigación, del reporte o del expediente de queja en donde se narren los hechos de la desaparición;
 
-Los propietarios, poseedores, usufructuarios o usuarios de terrenos forestales o preferentemente forestales están obligados a realizar las acciones de restauración y conservación pertinentes y aquellas que para tal caso dicte la Secretaría o la CONAFOR. En el caso de que éstos demuestren carecer de recursos, la Secretaría los incorporará a los programas de apoyo que instrumente, de acuerdo a las asignaciones que para tal fin se contemplen en los Presupuestos de Egresos correspondientes y los recursos del Fondo Forestal Estatal que se asignen para tales casos. Los trabajos de restauración se realizarán con acuerdo de los obligados.
+IV. La fecha y lugar de los hechos relacionados con la desaparición; cuando no se tenga precisión sobre la fecha o el lugar, bastará con la presunción que se tenga de esta información;
 
-###### Artículo 55.
+V. El nombre y edad de los Familiares o de aquellas personas autorizadas que tengan una relación sentimental afectiva inmediata y cotidiana con la Persona Desaparecida;
 
-La Secretaría, con base en los estudios técnicos que se elaboren para justificar la medida, previa opinión técnica de los Consejos Forestales y de los Prestadores de Servicios Técnicos Forestales correspondientes y respetando la garantía de audiencia de ejidatarios, comuneros y demás propietarios o poseedores de los terrenos afectados, así como de los titulares de autorizaciones de aprovechamiento de recursos forestales maderables y forestación sobre dichos terrenos, podrá decretar, como medida de excepción, vedas forestales cuando éstas:
+VI. La actividad a la que se dedica la Persona Desaparecida, así como nombre y domicilio de su fuente de trabajo y, si lo hubiere, datos del régimen de seguridad social al que pertenezca la Persona Desaparecida;
 
-I. Constituyan justificadamente modalidades para el manejo de los recursos forestales comprendidos en las declaratorias de áreas naturales protegidas;
+VII. Los bienes y derechos patrimoniales de la Persona Desaparecida;
 
-II. Formen parte de las acciones o condiciones establecidas para las áreas que se declaren como de zonas de restauración ecológica; o
+VIII. Los efectos que se solicita tenga la Declaración Especial de Ausencia en los términos del Artículo 57 de esta Ley;
 
-III. Tengan como finalidad la conservación, repoblación, propagación, diseminación, aclimatación o refugio de especies forestales endémicas, amenazadas, en peligro de extinción o sujetas a protección especial.
+IX. Toda aquella información que la persona solicitante haga llegar al Órgano Jurisdiccional para acreditar la identidad y personalidad jurídica de la Persona Desaparecida; y
 
-Se exceptuarán de las vedas los terrenos en los que se realice el aprovechamiento forestal o la forestación de conformidad con los instrumentos de manejo establecidos en la presente ley, en tanto no se ponga en riesgo grave e inminente la biodiversidad, de acuerdo con los criterios e indicadores que al efecto se emitan.
+X. Cualquier otra información que el solicitante estime relevante para determinar los efectos de la Declaración Especial de Ausencia.
 
-En este último caso la veda tendrá carácter precautorio, deberá referirse en forma específica al programa de manejo respectivo y sólo podrá abarcar la fracción del área forestal afectada por el riesgo a la biodiversidad.
+Tratándose de la fracción VIII, al resolver sobre los efectos de la Declaración Especial de Ausencia que se emita, el Órgano Jurisdiccional deberá atender los principios consagrados en esta Ley y no exclusivamente lo que le fue solicitado.
 
-La Secretaría solicitará a los titulares la modificación de los programas de manejo respectivos, segregando de los mismos las superficies afectadas. Asimismo, se establecerá un programa que tenga como finalidad atacar las causas que originan la veda y asegurarse al término de la misma que dichas causas no se repitan.
+Cuando en la solicitud se omita o se exprese de manera parcial la información referida en las fracciones I, II, III, IV y VIII, el Órgano Jurisdiccional, requerirá al solicitante para que la proporcione, previo a acordar sobre la admisión de la solicitud, bajo apercibimiento de desechamiento en el caso de que no se proporcione la información en el término de tres días a partir de que se notifique dicho requerimiento.
 
-Los proyectos de veda deberán publicarse en la Gaceta Oficial del Estado y se notificarán previamente a los posibles afectados en forma personal cuando se conocieren sus domicilios; en caso contrario, se hará una segunda publicación, en un plazo de quince días naturales, la que surtirá efectos de notificación.
+Si la persona solicitante no cuenta con alguna de la información a que se refiere el artículo 10 de esta Ley, deberá hacerlo del conocimiento del Órgano Jurisdiccional, señalando el archivo o lugar de su posible ubicación a fin de que éste la solicite a la autoridad, dependencia, institución o persona que pudiera tenerla en su poder; quienes tendrán la obligación de remitirla en un plazo de cinco días hábiles, contados a partir de que reciban el requerimiento.
 
-Los decretos que establezcan vedas forestales precisarán las características, temporalidad, excepciones y límites de las superficies o recursos forestales vedados, así como, en su caso, las medidas que adoptará la Secretaría para apoyar a las comunidades afectadas. Dichos decretos se publicarán en dos ocasiones en la Gaceta Oficial del Estado y, por una sola vez, en los diarios de mayor circulación de la Entidad.
+###### ARTÍCULO 49.
 
-Las autoridades municipales, en los términos de los acuerdos y convenios que se celebren, prestarán su colaboración para que se cumpla con lo que señalen las vedas forestales.
+Son competentes por materia para conocer del procedimiento de Declaración Especial del (sic) Ausencia los Juzgados de lo Familiar y los Mixtos de Primera Instancia.
 
-###### Artículo 56.
+La competencia territorial se definirá conforme al partido judicial correspondiente en los términos de la Ley Orgánica del Poder Judicial del Estado de Aguascalientes, según corresponda a cualquiera de los siguientes criterios:
 
-Para fines de restauración y conservación, la Secretaría, escuchando la opinión técnica de los Consejos Forestales de la Entidad, de la Comisión Nacional del Agua y la Comisión Estatal de Agua y Saneamiento, declarará áreas de protección en aquellas franjas, riberas de los ríos, quebradas, arroyos permanentes, riberas de los lagos y embalses naturales, riberas de los lagos o embalses artificiales construidos por los órdenes de gobierno y sus instituciones, áreas de recarga y los mantos acuíferos, con los límites, extensiones, ubicaciones y requerimientos pertinentes, sobre la base de criterios e indicadores establecidos en la Norma Oficial Mexicana o demás disposiciones jurídicas aplicables.
+I. El del último domicilio conocido de la Persona Desaparecida;
 
-En todos los casos, los propietarios, poseedores, usufructuarios o usuarios de los predios correspondientes deberán ser escuchados previamente.
+II. El del domicilio de la persona quien promueva la acción;
 
-Los predios que se encuentren dentro de estas áreas de protección, se consideran que están dedicados a una función de interés público. En caso de que dichas áreas se encuentren deforestadas, independientemente del régimen jurídico a que estén sujetas, deberán ser restauradas mediante la ejecución de programas especiales.
+III. El del lugar en donde se presuma que ocurrió la desaparición; o
 
-Para tal efecto, la Secretaría y la CONAFOR, en atención a la solicitud de los interesados, coordinarán la elaboración de los estudios técnicos pertinentes con la participación de los Gobiernos Municipales y Dependencias o Entidades públicas, así como de los propietarios y poseedores, y propondrá la emisión de la declaratoria respectiva.
+IV. El del lugar en donde se esté llevando a cabo la investigación.
 
-### CAPÍTULO IV. Cultura, Educación, Capacitación e Investigación Forestal
+La actualización de más de un criterio no será motivo para que el Juzgado ante quien se hizo la solicitud decline su competencia a favor de otro, salvo que ninguno de ellos aplique, situación en la que habrá de inhibirse en sus actuaciones y remitir inmediatamente la solicitud al Juzgado que se estime competente.
 
-###### Artículo 57.
+La resolución de un Juzgado de inhibirse en el conocimiento de la solicitud contenida en este Capítulo será recurrible a través del Recurso de Queja contenido en el Capítulo Tercero, Título Noveno del Código de Procedimientos Civil (sic) del Estado de Aguascalientes, en cuyo caso el Supremo Tribunal de Justicia del Estado deberá decidir el Juzgado competente.
 
-En los programas de reforestación que promueva y apoye la Secretaría y otras dependencias, se dará énfasis a la producción de planta de calidad de especies adecuadas al terreno a reforestar, de acuerdo con sus objetivos, y al establecimiento de un sistema de incentivos para su plantación y mantenimiento durante los primeros años sobre bases de evaluación de resultados.
+###### ARTÍCULO 50.
 
-La Secretaría impulsará los programas de producción de planta y reforestación, para la recuperación de terrenos degradados, en observancia a lo dispuesto en las Normas Oficiales Mexicanas.
+El Órgano Jurisdiccional que reciba la solicitud deberá proveer sobre su admisión en un lapso no mayor a cinco días hábiles, contados a partir de su recepción.
 
-Las acciones de reforestación que se lleven a cabo en los terrenos forestales sujetos al aprovechamiento, deberán incluirse en el programa de manejo forestal correspondiente.
+###### ARTÍCULO 51.
 
-###### Artículo 58.
+Para el estudio y resolución de la Declaración Especial de Ausencia, el Órgano Jurisdiccional deberá requerir a la Fiscalía Especializada, a la Comisión, a la Comisión de Derechos Humanos, según corresponda, que le remitan información pertinente que obre en sus expedientes, en copia certificada.
 
-La Secretaría promoverá el desarrollo de sistemas de mejoramiento genético forestal, con la evaluación y registro de progenitores, la creación de áreas y huertos semilleros, viveros de especies forestales maderables y no maderables y bancos de germoplasma, auspiciando su operación por los municipios, así como por los propietarios y poseedores de terrenos forestales y de aptitud preferentemente forestal, por los titulares de autorizaciones de aprovechamiento de recursos forestales maderables y no maderables, de forestación y plantaciones comerciales, dando intervención a los responsables de los servicios técnicos forestales.
+De ser necesario, podrá también requerir información a otras autoridades, dependencias, instituciones o personas, incluidos los familiares de la Persona Desaparecida. Las autoridades requeridas tendrán un plazo de cinco días hábiles contados a partir de que reciban el requerimiento para atenderlo.
 
-###### Artículo 59.
+El Órgano Jurisdiccional otorgará valor pleno a la información que le sea remitida por las distintas autoridades referidas en el párrafo precedente, y declarará la procedencia de la Declaración Especial de Ausencia con la sola presunción de que la ausencia de la Persona Desaparecida se relacione con la comisión de un delito en los supuestos del párrafo tercero del Artículo 89 de la Ley General.
 
-Es obligatorio para las Autoridades Estatal y Municipal incluir en sus Planes de Desarrollo respectivos, programas tendientes a la reforestación y forestación para la Entidad y municipios.
+###### ARTÍCULO 52.
 
-###### Artículo 60.
+Para garantizar la máxima protección a la Persona Desaparecida y a sus Familiares, el Órgano Jurisdiccional deberá dictar las medidas provisionales y cautelares que resulten necesarias al momento de admitir la solicitud de Declaración Especial de Ausencia.
 
-Con el objeto de proteger la regeneración natural e inducida, el pastoreo de ganado dentro de las áreas forestales deberá ser regulado.
+Dichas medidas versarán sobre aquellas necesidades específicas que advierta de la revisión de la solicitud y la información que le remitan las autoridades competentes.
 
-La Secretaría, en coordinación con las Dependencias Federales y Estatales con competencia en esta actividad y de conformidad con las leyes en la materia, determinarán las zonas forestales en donde sea factible efectuar el pastoreo de ganado. Para determinar la capacidad de carga de los agostaderos en terrenos forestales, en los mismos términos de coordinación, se tomará en cuenta la zonificación forestal, los índices de agostadero y el ordenamiento ecológico. En el Reglamento de esta Ley se establecerán los mecanismos de regulación para el desarrollo de esta actividad.
+El Órgano Jurisdiccional podrá, con posterioridad a la admisión, modificar las medidas cautelares decretadas de acuerdo con la información recabada durante el procedimiento, atendiendo al principio de máxima protección.
 
-###### Artículo 61.
+###### ARTÍCULO 53.
 
-La Secretaría será instancia vinculante para la celebración de convenios con instituciones públicas o privadas, nacionales o extranjeras, Autoridades Municipales, personas físicas o morales y en sí de todos aquellos sectores interesados, a fin de que se retribuya a los propietarios, poseedores o usufructuarios de terrenos forestales por los beneficios que se obtengan de los servicios ambientales que en ellos se generan. La Secretaría promoverá la celebración de convenios para el desarrollo de un mercado de bienes y servicios ambientales. Será el Fondo Forestal Estatal la instancia financiera utilizada para estos propósitos.
+El Órgano Jurisdiccional dispondrá que se publiquen los edictos por una sola ocasión en el Periódico Oficial del Estado de Aguascalientes; y además se deberán publicar en los portales web oficiales de la CDHEA, el Poder Judicial del Estado, la Fiscalía, la Comisión Local y demás autoridades que se consideren pertinentes; a su vez se podrá fijar cédula en el lugar donde la Persona Desaparecida tenía su último domicilio, así como en el domicilio donde trabajaba, todo lo anterior no causará pago de derechos.
 
-###### Artículo 62.
+###### ARTÍCULO 54.
 
-La Secretaría promoverá la formación de profesionales, técnicos, así como empresas, con la finalidad de obtener la capacitación necesaria para certificar, evaluar y monitorear los bienes y servicios ambientales, para el otorgamiento de asesoría técnica y capacitación a los titulares de los aprovechamientos forestales.
+Transcurridos quince días hábiles desde la fecha de publicación de los edictos, y si no hubiere noticias u oposición de alguna persona interesada, el Órgano Jurisdiccional resolverá, en forma definitiva, sobre la Declaración Especial de Ausencia.
 
-###### Artículo 63.
+Si hubiere noticias u oposición de alguna persona interesada, el Órgano Jurisdiccional deberá escuchar a la persona y hacerse llegar de la información o de las pruebas que crea oportunas para tal efecto, acorde a los términos previstos en este procedimiento. La emisión de dicha resolución no podrá exceder de los seis meses contados a partir de la admisión de la solicitud.
 
-Cuando la Secretaría, con base en estudios técnicos, determine la existencia de un riesgo a los recursos forestales, el medio ambiente, los ecosistemas o sus componentes, requerirá mediante notificación a los ejidatarios, comuneros y demás propietarios o poseedores de terrenos forestales o preferentemente forestales, la realización de las actividades necesarias para evitar la situación de riesgo, con el apercibimiento de que en caso de no realizarlas en el término que se le conceda para ello, la Secretaría realizará los trabajos correspondientes con cargo a los obligados.
+###### ARTÍCULO 55.
 
-El monto de las erogaciones que se realicen será considerado como crédito fiscal, mismo que será recuperable por conducto de la autoridad competente mediante el procedimiento económico coactivo.
+Las determinaciones relativas a medidas provisionales y cautelares, así como la resolución tanto positiva como negativa que el Órgano Jurisdiccional dicte respecto a la Declaración Especial de Ausencia, podrán ser impugnadas mediante recurso de apelación, de acuerdo con las disposiciones aplicables del Código de Procedimientos Civiles del Estado de Aguascalientes. Las personas con interés legítimo podrán impugnar la resolución cuando consideren que los efectos de la Declaración Especial de Ausencia no atienden plenamente a sus derechos o necesidades.
 
-###### Artículo 64.
+###### ARTÍCULO 56.
 
-Lo dispuesto en el artículo anterior, será aplicable con independencia de que se cuente o no con las autorizaciones, permisos o licencias correspondientes o se cause un daño a los recursos y bienes a que se refiere este artículo. De igual forma, se entenderá sin perjuicio de las sanciones administrativas o de cualquier índole que en su caso procedan para los responsables, de conformidad con las disposiciones legales aplicables.
+Una vez que cause estado la resolución dictada por el Órgano Jurisdiccional sobre la Declaración Especial de Ausencia, que incluirá los efectos y las medidas definitivas para garantizar la máxima protección a la Persona Desaparecida y los Familiares, el Órgano Jurisdiccional ordenará la inscripción en el Registro Civil, mediante oficio remitiendo copia certificada de la Declaración Especial de Ausencia a efecto de que se efectúe la inscripción en el acta correspondiente, en los términos previstos en el artículo 125 de (sic) Código Civil del Estado de Aguascalientes.
 
-En el caso de que se ocasionen daños a los recursos forestales, al medio ambiente, a sus ecosistemas o componentes, el responsable deberá cubrir la indemnización económica correspondiente, previa cuantificación de los daños, sin perjuicio de la aplicación de las sanciones administrativas o legales que procedan conforme a esta ley y demás disposiciones legales aplicables.
+### CAPÍTULO SEGUNDO. De los Efectos de la Declaración Especial de Ausencia
 
-Las Autoridades que instruyan los correspondientes procedimientos dictaminarán como prioritaria la obligación de la restauración de los daños causados por la comisión de ilícitos forestales.
+###### ARTÍCULO 57.
 
-###### Artículo 65.
+La Declaración Especial de Ausencia deberá pronunciarse al menos sobre los siguientes aspectos:
 
-Las medidas, programas e instrumentos económicos relativos al desarrollo de la actividad forestal, deberán sujetarse a las disposiciones de las leyes de ingresos, de presupuesto de egresos del Estado y los Gobiernos Municipales para el ejercicio fiscal que corresponda y deberán asegurar su eficacia, selectividad y transparencia; podrán considerar el establecimiento y vinculación de cualquier mecanismo normativo o administrativo de carácter fiscal, financiero y de mercado establecidos en otras leyes, cuando atiendan o posibiliten la realización de los propósitos y objetivos prioritarios de promoción y desarrollo forestal. En todo caso, los programas e instrumentos económicos deberán prever la canalización efectiva y suficiente de recursos para cumplir los objetivos y metas establecidos en el programa sectorial.
+I. El reconocimiento de la ausencia por desaparición de la persona y la continuidad de su personalidad jurídica desde la fecha en que se consigna el hecho en la denuncia, reporte o queja;
 
-###### Artículo 66.
+II. La conservación de la patria potestad de la Persona Desaparecida y la protección de los derechos y bienes de quienes se encuentren sujetos a la misma, a través de quien pueda ejercer la patria potestad o, en su caso, a través de la designación de un tutor, atendiendo al principio del interés superior de la niñez;
 
-La Secretaría de Finanzas y Planeación solicitará a la Secretaría la presentación de su programa de presupuesto anual para enviarlo al Congreso del Estado, quien autorizará las partidas que estime necesarias para cumplir con los objetivos y metas establecidas.
+III. Fijar los derechos de guarda y custodia de quienes se encuentren sujetos a la misma respecto de la Persona Desaparecida, en los términos de la legislación civil aplicable;
 
-###### Artículo 67.
+IV. Las medidas para la protección al patrimonio de la Persona Desaparecida, incluyendo los bienes adquiridos por medio de obligaciones de pago en parcialidades cuyos plazos de amortización se encuentren vigentes, así como de aquellos que sean objeto de algún contrato de garantía;
 
-La Secretaría de Finanzas y Planeación y la Secretaría diseñarán, propondrán y aplicarán medidas para promover que la Federación, los Gobiernos de los Municipios y los titulares de aprovechamientos de recursos forestales y la sociedad, coadyuven financieramente para la realización de tareas de conservación, protección, restauración, vigilancia, silvicultura, ordenación, certificación y manejo sustentable de los ecosistemas forestales.
+V. Fijar la forma y plazos para que los Familiares u otras personas legitimadas por la ley, puedan administrar, previo control judicial, el patrimonio de la Persona Desaparecida;
 
-### CAPÍTULO I. Prevención y Vigilancia Forestal
+VI. Permitir que los beneficiarios de un régimen de seguridad social derivado de una relación de trabajo de la Persona Desaparecida continúen gozando de todos los beneficios aplicables a este régimen, conforme a lo establecido en la normatividad laboral aplicable;
 
-> <small>(ADICIONADO PRIMER PÁRRAFO [N. DE E. REFORMADO PRIMER PÁRRAFO], G.O. 11 DE NOVIEMBRE DE 2016)</small>
+VII. Suspender de forma provisional los actos judiciales de cualquier índole en contra (sic) la Persona Desaparecida o que los mismos impliquen sus derechos o bienes;
 
-###### Artículo 68.
+VIII. Declarar la inexigibilidad o la suspensión temporal de obligaciones o responsabilidades que la Persona Desaparecida tenía a su cargo, incluyendo aquellas derivadas de la adquisición de bienes por medio de obligaciones de pago en parcialidades cuyos plazos de amortización se encuentren vigentes;
 
-La Secretaría promoverá y difundirá a nivel regional y local las medidas, programas e instrumentos económicos a que se refiere este Capítulo, con el propósito de que se canalicen de manera oportuna a los interesados. De igual forma, deberá establecer los mecanismos de asesoría necesarios.
+IX. El nombramiento de un representante legal con facultad de ejercer actos de administración, pleitos y cobranzas de la Persona Desaparecida;
+
+X. La protección de los derechos de los Familiares, particularmente de hijas e hijos menores de 18 años de edad, a percibir las prestaciones que la Persona Desaparecida recibía con anterioridad a la desaparición;
+
+XI. Los demás aplicables que estén previstos en la legislación en materia civil, familiar y de los derechos de las Víctimas que sean solicitados por las personas legitimadas en términos de la presente Ley, o que el Órgano Judicial determine, considerando la información que se tenga sobre las circunstancias y necesidades de cada caso;
+
+XII. Establecer las reglas aplicables en caso de que la persona sea localizada con vida para el restablecimiento de sus derechos y cumplimiento de obligaciones; y
+
+XIII. Los demás aplicables que estén previstos en la legislación en materia civil, familiar y de los derechos de las víctimas que sean solicitados por las personas legitimadas en términos de la presente Ley.
+
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTE PARRAFO ES SIMILAR AL DEL ARTÍCULO 58]</small>
+
+Para todos los efectos la persona declarada como ausente por desaparición será considerada como viva.
+
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTE ARTÍCULO ES SIMILAR AL DEL ÚLTIMO PARRAFO DEL ARTÍCULO 57]</small>
+
+###### ARTÍCULO 58.
+
+Para todos los efectos legales la persona declarada como ausente por desaparición será considerada como viva.
+
+###### ARTÍCULO 59.
+
+El Órgano Jurisdiccional dispondrá que la o el cónyuge o la concubina o concubinario, así como las personas ascendientes, descendientes y parientes colaterales hasta el tercer grado, nombren de común acuerdo al representante legal. En el caso de inconformidad respecto a dicho nombramiento, o de no existir acuerdo, el Órgano Jurisdiccional elegirá entre éstas a la persona que le parezca más apta para desempeñar dicho cargo, o en su caso, a petición expresa de alguno de los familiares, de así considerarlo pertinente, podrá nombrar a un tercero, quién deberá caucionar su representación siguiendo las reglas del Artículo 551 del Código Civil del Estado de Aguascalientes.
+
+###### ARTÍCULO 60.
+
+El representante de la persona desaparecida será el legítimo administrador de los bienes de ésta y tiene respecto de ellos, las mismas obligaciones, facultades y restricciones que un tutor, en los términos del del (sic) Código Civil del Estado de Aguascalientes.
+
+El representante no entrará a la administración de los bienes sin que previamente forme inventario y avalúo de ellos, y si dentro del término de un mes no lo realiza, se nombrará otro representante.
+
+La persona designada como representante no recibirá remuneración de ningún tipo por el desempeño de dicho cargo.
+
+###### ARTÍCULO 61.
+
+La persona nombrada representante legal de la Persona Desaparecida, actuará conforme a las reglas del albacea en términos del Código Civil, y estará a cargo de elaborar el inventario de los bienes de la persona de cuya Declaración Especial de Ausencia se trate.
+
+Además, dispondrá de los bienes para proveer a los familiares de los recursos económicos necesarios para su digna subsistencia, rindiendo un informe anual al Órgano Jurisdiccional que haya dictado la Declaración Especial de Ausencia.
+
+El representante legal deberá conducirse en pleno apego a los principios contenidos en el artículo 3 de esta Ley. La inobservancia de lo anterior, facultará al Órgano Jurisdiccional a revocar el nombramiento, a solicitud presentada por alguna de las personas legitimadas por el Código Civil.
+
+En caso de que la Persona Desaparecida sea localizada con vida, el representante legal le rendirá cuentas de su administración desde el momento en que tomó el encargo, ante el Órgano Jurisdiccional correspondiente.
+
+###### ARTÍCULO 62.
+
+El cargo de representante termina:
+
+I. Con la localización con vida de la persona desaparecida;
+
+II. Cuando así lo solicite la persona con el cargo de representación legal al Órgano Jurisdiccional que emitió la Declaración Especial de Ausencia para que, en términos del artículo 24 de la presente Ley, nombre un nuevo representante legal;
+
+III. Con la muerte o incapacidad permanente parcial o total de la persona con el cargo de representación legal;
+
+IV. Con la certeza de la muerte de la persona desaparecida, o
+
+V. Con la resolución, posterior a la Declaración Especial de Ausencia, que declare presuntamente muerta a la persona desaparecida.
+
+###### ARTÍCULO 63.
+
+La Declaración Especial de Ausencia protegerá los derechos laborales de la Persona Desaparecida en términos de la legislación aplicable.
+
+###### ARTÍCULO 64.
+
+Las obligaciones de carácter fiscal a cargo del Estado a las que esté sujeta la Persona Desaparecida surtirán efectos suspensivos hasta en tanto no sea localizada.
+
+###### ARTÍCULO 65.
+
+La Comisión deberá continuar con la búsqueda, de conformidad con esta Ley, así como la Fiscalía Especializada debe continuar con la investigación y persecución de los delitos previstos en la Ley General, aun cuando se hubiere solicitado la Declaración Especial de Ausencia.
+
+###### ARTÍCULO 66.
+
+Si la Persona Desaparecida declarada ausente es localizada con vida, ésta puede solicitar, ante el órgano jurisdiccional que declaró la ausencia, la recuperación de sus bienes, sin que pudiere afectarse a un tercero adquirente de buena fe.
+
+###### ARTÍCULO 67.
+
+Si la Persona Desaparecida de la cual se emitió una Declaración Especial de Ausencia fuera localizada con vida o se prueba que sigue con vida, en caso de existir indicios de que la persona hizo creer su desaparición deliberada para evadir responsabilidades o hacer fraude de acreedores, sin perjuicio de las acciones legales conducentes, recobrará sus bienes en el estado en el que se hallen y no podrá reclamar de estos frutos ni rentas vencidos, y, en su caso, también recobrará los derechos y obligaciones que tenía al momento de su desaparición, sujetándose a las responsabilidades por daños y perjuicios que hubiere generado.
+
+En el caso del párrafo anterior, el tiempo en que la persona desaparecida fuere declarada ausente no contará para los plazos de prescripción que pudieren correr a sus acreedores.
+
+### CAPÍTULO TERCERO. De la Protección de Personas
+
+###### ARTÍCULO 68.
+
+Las (sic) Fiscalía Especializada, en el ámbito de su competencia, debe establecer programas para la protección de las Víctimas, los Familiares y toda persona involucrada en el proceso de búsqueda de Personas Desaparecidas o No Localizadas, investigación o proceso penal de los delitos previstos en esta Ley, cuando su vida o integridad corporal pueda estar en peligro, o puedan ser sometidas a actos de maltrato o intimidación por su intervención en dichos procesos.
+
+También deberán otorgar el apoyo ministerial, pericial, policial especializado y de otras fuerzas de seguridad a las organizaciones de Familiares y a Familiares en las tareas de búsqueda de personas desaparecidas en campo, garantizando todas las medidas de protección y resguardo a su integridad física y a los sitios en que realicen búsqueda de campo.
 
 #### SECCIÓN ÚNICA. El Fondo Forestal Estatal y su Instrumento Financiero
 
-###### Artículo 69.
+###### ARTÍCULO 69.
 
-El Fondo Forestal Estatal será el instrumento para promover la conservación, incremento, aprovechamiento sustentable y la restauración de los recursos forestales y sus recursos asociados, facilitando el acceso a los servicios financieros en el mercado, impulsando proyectos que contribuyan a la integración y competitividad de la cadena productiva y desarrollando los mecanismos de cobro y pago de bienes y servicios ambientales.
+La Fiscalía Especializada puede otorgar, con apoyo de las autoridades competentes, como medida urgente de protección la reubicación temporal, la protección de inmuebles, la escolta de cuerpos especializados y las demás que se requieran para salvaguardar la vida, integridad y libertad de las personas protegidas a que se refiere el artículo anterior, conforme a los procedimientos y con las autorizaciones aplicables.
 
-El Fondo Forestal Estatal se podrá integrar, citándose de manera enunciativa mas no limitativa con:
+###### ARTÍCULO 70.
 
-I. Las aportaciones que efectúen los gobiernos federal, estatal y municipal;
+Las (sic) Fiscalía Especializada puede otorgar, con apoyo de las autoridades competentes, como medida de protección para enfrentar el riesgo, la entrega de equipo celular, radio o telefonía satelital, instalación de sistemas de seguridad en inmuebles, vigilancia a través de patrullajes, entrega de chalecos antibalas, detector de metales, autos blindados, y demás medios de protección que se requieran para salvaguardar la vida, integridad y libertad de las personas protegidas a que se refiere el artículo 68 de esta Ley, conforme a la legislación aplicable.
 
-II. Créditos y apoyos de organismos nacionales e internacionales;
+###### ARTÍCULO 71.
 
-III. Las aportaciones y donaciones de personas físicas o morales de carácter privado, mixto, nacionales e internacionales;
+La incorporación a los programas de protección de personas a que se refiere el artículo 85 de esta Ley debe ser autorizada por el Fiscal encargado de la investigación o por el titular de la Fiscalía Especializada.
 
-IV. El cobro por bienes y servicios ambientales y por asistencia técnica;
+###### ARTÍCULO 72.
 
-V. Los pagos por concepto de multas impuestas por infracciones a esta Ley; y
+La información y documentación relacionada con las personas protegidas debe ser tratada con estricta reserva o confidencialidad, según corresponda.
 
-VI. El importe de los remates o venta de productos forestales y de los objetos e instrumentos decomisados, con motivo de infracciones a la legislación en materia forestal.
+## TÍTULO QUINTO. De la Prevención de los Delitos
 
-> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO ÚNICO. De la Prevención, Programación y Capacitación Contra la Desaparición de Personas
 
-VII. Los pagos por concepto de compensaciones derivadas del aprovechamiento forestal.
+###### ARTÍCULO 73.
 
-> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+La Secretaría General de Gobierno, la Fiscalía General y las Instituciones de Seguridad Pública deberán coordinarse para implementar las medidas de prevención previstas en el artículo 76 de esta Ley. Lo anterior con independencia de las establecidas en los ordenamientos normativos aplicables correspondientes.
 
-VIII. Los pagos por concepto de sanciones administrativas y compensaciones derivadas de infracciones por incumplimiento a la normatividad en materia forestal.
+###### ARTÍCULO 74.
 
-La existencia del Fondo no limita la creación de diversos instrumentos privados o sociales que tengan una relación directa con el desarrollo forestal.
+Todo establecimiento, instalación o cualquier sitio en control de las autoridades estatales o municipales en donde pudieran encontrarse personas en privación de la libertad, deberá contar con cámaras de video que permitan registrar los accesos y salidas del lugar. Las grabaciones deberán almacenarse de forma segura por dos años.
 
-> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+###### ARTÍCULO 75.
 
-###### Artículo 70.
+La Fiscalía General del Estado debe administrar bases de datos estadísticas relativas a la incidencia de los delitos previstos en la Ley General, garantizando que los datos estén desagregados, al menos, por sexo, edad, nacionalidad, Entidad Federativa, sujeto activo, rango y dependencia de adscripción, así como si se trata de desaparición forzada o desaparición cometida por particulares.
 
-Para la operación del Fondo Forestal Estatal, la Secretaría creó el Fideicomiso denominado Fondo Ambiental Veracruzano, como instrumento financiero, el cual considera la creación de un subfiso en materia forestal para dar operatividad al Fondo Forestal Estatal, en términos de lo que establece la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz, instrumento en el que se depositarán los recursos provenientes de las aportaciones enumeradas en el artículo anterior.
+Las bases de datos a que se refiere el párrafo que antecede deben permitir la identificación de circunstancias, grupos en condición de vulnerabilidad, modo de operación, delimitación territorial, rutas y zonas de alto riesgo en los que aumente la probabilidad de comisión de alguno de los delitos previstos en la Ley General para garantizar su prevención.
 
-> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2016)</small>
+###### ARTÍCULO 76.
 
-###### Artículo 71.
+La Comisión, la Secretaría General de Gobierno, la Fiscalía General, y las Instituciones de Seguridad Pública, deberán respecto de los delitos previstos en la Ley General:
 
-Los recursos que el Fondo Forestal Estatal obtenga por el cobro de bienes y servicios ambientales se depositarán directamente a la cuenta que corresponda al subfiso en materia forestal del Fondo Ambiental Veracruzano.
+I. Llevar a cabo campañas informativas dirigidas a fomentar la Denuncia de los delitos y sobre instituciones de atención y servicios que brindan;
 
-###### Artículo 72.
+II. Proponer acciones de capacitación a las Instituciones de Seguridad Pública, a las áreas ministeriales, policiales y periciales y otras que tengan como objeto la búsqueda de personas desaparecidas, la investigación y sanción de los delitos previstos en la Ley General, así como la atención y protección a Víctimas con una perspectiva psicosocial;
 
-La Secretaría, en el ámbito de competencia de las entidades y dependencias que integran el Servicio Estatal Forestal, y mediante los acuerdos y convenios que se celebren, promoverá el desarrollo de infraestructura para el desarrollo forestal, que se referirá entre otros rubros principalmente a:
+III. Proponer e implementar programas que incentiven a la ciudadanía, incluyendo a aquellas personas que se encuentran privadas de su libertad, a proporcionar la información con que cuenten para la investigación de los delitos previstos en la Ley General, así como para la ubicación y rescate de las Personas Desaparecidas o No Localizadas;
 
-I. Electrificación;
+IV. Promover mecanismos de coordinación con asociaciones, fundaciones y demás organismos no gubernamentales para fortalecer la prevención de las conductas delictivas;
 
-II. Obras Hidráulicas;
+V. Recabar y generar información respecto a los delitos que permitan definir e implementar políticas públicas en materia de búsqueda de personas, prevención e investigación;
 
-III. Obras de conservación de suelos y agua;
+VI. Identificar circunstancias, grupos vulnerables y zonas de alto riesgo en las que aumente la probabilidad de que una o más personas sean Víctimas de los delitos, así como hacer pública dicha información de manera anual;
 
-IV. Construcción, rehabilitación y mantenimiento de caminos forestales;
+VII. Proporcionar información y asesoría a las personas que así lo soliciten, de manera presencial, telefónica o por escrito o por cualquier otro medio, relacionada con el objeto de esta Ley, con la finalidad de prevenir la comisión de los delitos;
 
-V. Torres para la detección y combate de incendios forestales; y
+VIII. Reunirse como mínimo cada cuatro meses por año, para intercambiar experiencias que permitan implementar políticas públicas en materia de prevención de los delitos;
 
-VI. Las demás que se determinen como de utilidad e interés público por su vinculación a la materia forestal.
+IX. Emitir un informe público cada tres meses respecto de las acciones realizadas para el cumplimiento de las disposiciones de esta Ley;
 
-### CAPÍTULO II. Denuncia Popular
+X. Diseñar instrumentos de evaluación e indicadores para el seguimiento y vigilancia del cumplimiento de la presente Ley, en donde se contemple la participación voluntaria de Familiares;
 
-###### Artículo 73.
+XI. Realizar de manera permanente diagnósticos, investigaciones, estudios e informes sobre la problemática de desaparición de personas y otras conductas delictivas conexas o de violencia vinculadas a este delito, que permitan la elaboración de políticas públicas que lo prevengan, y
 
-La Secretaría, en el seno del Servicio Estatal Forestal, promoverá la integración de comités de caminos forestales con el objeto de realizar proyectos de apertura, mejoramiento, conservación y pavimentación, promoviendo la participación, colaboración, aportación y ejecución de los diferentes sectores productivos, vigilando su desarrollo.
+XII. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
-###### Artículo 74.
+###### ARTÍCULO 77.
 
-La Secretaría, con el propósito de coadyuvar en el desarrollo industrial forestal de la Entidad, promoverá programas de apoyo a los dueños de la industria para procurar su modernización, así como para la constitución de asociaciones en participación entre productores y el sector privado y como para el otorgamiento de incentivos de carácter económico y fiscal, en coordinación con las dependencias federales y estatales con injerencia en la materia.
+Las (sic) Fiscalía Especializada podrá celebrar convenios para intercambiar con otras Fiscalías Especializadas la información que favorezca la investigación de los delitos previstos en la Ley General, y que permita la identificación y sanción de los responsables.
 
-###### Artículo 75.
+###### ARTÍCULO 78.
 
-La Secretaría, en el marco del Servicio Estatal Forestal y mediante acciones de coordinación, procurando la incorporación de organizaciones privadas y sociales, realizará en materia de cultura forestal las siguientes acciones:
+La Fiscalía General del Estado debe diseñar los mecanismos de colaboración que correspondan con la finalidad de dar cumplimiento a lo previsto en esta Ley.
 
-I. Promover y realizar campañas permanentes de difusión orientados a la participación organizada de la sociedad en programas inherentes al desarrollo forestal sustentable;
+###### ARTÍCULO 79.
 
-II. Establecer el Premio Estatal al Mérito Forestal como una forma de incentivar a las personas físicas y morales del sector social y privado que se destaquen por haber realizado actividades a favor del manejo forestal sustentable en beneficio de la sociedad y del recurso. El Reglamento de la Ley y las demás disposiciones aplicables determinarán los procedimientos para que se otorguen los correspondientes reconocimientos;
-
-III. Promover la Feria Forestal Estatal como un marco de reunión de todos los sectores de la sociedad, con fin de dar a conocer los bienes y servicios que generan los ecosistemas forestales, así como para fortalecer el mercado interno y nacional y fomentar el intercambio de experiencias exitosas y la cultura forestal. El Reglamento determinará la periodicidad y forma en que se realicen estos eventos;
-
-IV. Establecer espacios orientados a elevar el nivel de la cultura forestal;
-
-V. Propiciar la divulgación, el uso, respeto y reconocimiento de costumbres, tradiciones y prácticas culturales propias de los pueblos y comunidades indígenas que habitan en las regiones forestales;
-
-VI. Contribuir al diseño, formulación, elaboración y publicación de materiales de comunicación educativa y guías técnicas actualizadas, que orienten la relación de la sociedad con los recursos forestales; y
-
-VII. Las que sean de interés para desarrollar y fortalecer la cultura forestal.
-
-###### Artículo 76.
-
-En materia de educación y capacitación, la Secretaría, en coordinación con la Secretaría de Educación y las Instituciones de Investigación y las demás dependencias u organismos públicos estatales y municipales, así como de los sectores social y privado, realizará las siguientes acciones:
-
-I. Recomendar la actualización constante de los planes de estudios de carreras forestales y afines, que se impartan por escuelas públicas o privadas, a fin de promover la formación, capacitación y superación de técnicos y profesionistas forestales para todos los ecosistemas forestales del Estado;
-
-II. Organizar programas de formación continua y actualización de los servidores públicos del ramo forestal estatal y municipal; y
-
-III. Fomentar y apoyar la formación, capacitación y actualización de los prestadores de servicios técnicos forestales y ambientales.
-
-###### Artículo 77.
-
-La prevención y vigilancia forestales, la atención de las denuncias, instauración de procedimientos administrativos, las visitas y operativos de inspecciones en terrenos diversos a lo forestal, determinación de medidas de seguridad, calificación y sanción de infracciones o en su caso denuncia de delitos que afecten ecosistemas diversos a los forestales, estará a cargo de la Procuraduría.
-
-La concertación de las acciones y recursos para cumplir con los objetivos de la prevención, vigilancia e inspección forestales se dará en el seno del Servicio Estatal Forestal.
-
-###### Artículo 78.
-
-Las acciones preventivas y de vigilancia a cargo del personal autorizado de la Secretaría tendrán por objeto evitar riesgos que puedan afectar a los ecosistemas forestales, sus recursos y servicios, las cuencas, subcuencas y microcuencas ecológico forestales, así como evitar la comisión de ilícitos que afecten ecosistemas forestales.
-
-Los productores forestales particulares o sociales y los industriales forestales, así como la sociedad civil en general podrán integrarse a las acciones de prevención y vigilancia forestal participativa, misma que será estructurada en términos de lo que se disponga en el Reglamento de la Ley.
-
-###### Artículo 79.
-
-Todo individuo que tenga conocimiento de la comisión de actos u omisiones cometidos por personas y que sean constitutivos de ilícitos que afecten ecosistemas forestales, tiene el deber de denunciarlos, para tal efecto, aportará todos los instrumentos que den fe de su denuncia para que de inmediato la Autoridad conocedora proceda en términos de lo que se disponga en esta Ley y demás disposiciones aplicables.
+La Comisión, la Fiscalía General y la Secretaría de Seguridad Pública del Estado, y las de los Municipios, deberán coordinarse en el diseño y aplicación de programas que permitan combatir las causas que generan condiciones de mayor riesgo y vulnerabilidad frente a los delitos previstos en la Ley General, con especial referencia a la marginación las condiciones de pobreza, la violencia comunitaria, la presencia de grupos delictivos, la operación de redes de trata, los antecedentes de otros delitos conexos y la desigualdad social.
 
 ### CAPÍTULO III. Visitas y Operativos de Inspección
 
-###### Artículo 80.
+###### ARTÍCULO 80.
 
-Con base en los acuerdos y convenios establecidos entre la Federación y el Estado, éste podrá a través de la Secretaría, conforme a lo establecido en la Ley General de Desarrollo Forestal Sustentable, su Reglamento, así como en las Normas Oficiales Mexicanas, realizar operativos de inspección y determinar la aplicación de las medidas de prevención necesarias para el efectivo cumplimiento de las disposiciones legales.
+Los programas de prevención a que se refiere el presente Título deben incluir metas e indicadores a efecto de evaluar las capacitaciones y procesos de sensibilización impartidos a servidores públicos.
 
-> <small>(ADICIONADO PRIMER PÁRRAFO [N. DE E. REFORMADO PRIMER PÁRRAFO], G.O. 11 DE NOVIEMBRE DE 2016)</small>
+###### ARTÍCULO 81.
 
-###### Artículo 81.
+El Estado y los municipios estarán obligados a remitir anualmente al Centro Nacional de Prevención del Delito y Participación Ciudadana, conforme a los acuerdos generados en el marco del Sistema Nacional de Seguridad Pública, estudios sobre las causas, distribución geográfica de la frecuencia delictiva, estadísticas, tendencias históricas y patrones de comportamiento que permitan perfeccionar la investigación para la prevención de los delitos previstos en la Ley General, así como su programa de prevención sobre los mismos. Estos estudios deberán ser públicos y podrán consultarse en la página de Internet de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus municipios.
 
-La Procuraduría, por conducto del personal autorizado, realizará las visitas de inspección y los operativos en terrenos diversos a lo forestal competencia del Estado, con el objeto de verificar el cumplimiento de lo dispuesto en esta Ley, su Reglamento, las Normas Oficiales Mexicanas aplicables y las demás disposiciones que de ellos se deriven.
+###### ARTÍCULO 82.
 
-Los propietarios y poseedores de terrenos forestales o de aptitud preferentemente forestal, los titulares de autorizaciones de aprovechamiento de recursos forestales maderables, quienes realicen actividades de forestación y de reforestación, así como las personas que transporten, almacenen, transformen o comercialicen materias primas forestales, deberán dar facilidades al personal autorizado de la Secretaría, para la realización de visitas u operativos de inspección. En caso contrario, se aplicarán las medidas de seguridad y sanciones previstas en la presente Ley y en las demás disposiciones aplicables.
+El Gobierno del Estado por conducto de la Comisión, y los Municipios a través del área correspondiente, deberán establecer programas obligatorios de capacitación en materia de derechos humanos, para servidores públicos de las Instituciones de Seguridad Pública involucrados en la búsqueda y acciones previstas en este ordenamiento, con la finalidad de prevenir la comisión de los delitos.
 
-###### Artículo 82.
+###### ARTÍCULO 83.
 
-La Secretaría deberá observar en el desarrollo de los procedimientos de inspección, las formalidades que para la materia se señalan en el Reglamento de esta Ley y el Código de Procedimientos Administrativos del Estado.
-
-###### Artículo 83.
-
-La Secretaría en el marco del Servicio Forestal Estatal formulará, operará y evaluará los programas de prevención y combate a los aprovechamientos irregulares de recursos forestales maderables y no maderables, cambio de uso del suelo, extracción del suelo forestal, así como el transporte, almacenamiento, transformación o posesión de materias primas forestales. Los resultados de las acciones citadas serán dados a conocer a los Consejos Forestales de la Entidad para efectos de que emitan opiniones o en su caso recomendaciones.
+La Fiscalía General y las Instituciones de Seguridad Pública, con el apoyo de la Comisión, deben capacitar, en el ámbito de sus competencias, al personal ministerial, policial y pericial conforme a los más altos estándares internacionales, respecto de las técnicas de búsqueda, investigación y análisis de pruebas para los delitos a que se refiere la Ley General, con pleno respeto a los derechos humanos y con enfoque psicosocial.
 
 ### CAPÍTULO IV. Medidas de Seguridad
 
-###### Artículo 84.
+###### ARTÍCULO 84.
 
-Cuando de las visitas u operativos de inspección a que se refiere el artículo anterior, se determine que existe riesgo inminente de daño o deterioro grave a los ecosistemas forestales, o bien cuando los actos u omisiones pudieran dar lugar a la imposición de sanciones administrativas, la Secretaría podrá ordenar las siguientes medidas de seguridad:
+Las Instituciones de Seguridad Pública seleccionarán, de conformidad con los procedimientos de evaluación y controles de confianza aplicables, al personal policial que conformará los Grupos de Trabajo.
 
-I. El aseguramiento precautorio de los productos y materias primas forestales, así como de los bienes, vehículos, utensilios, herramientas, equipo y cualquier instrumento directamente relacionado con la acción u omisión que origine la imposición de esta medida;
+###### ARTÍCULO 85.
 
-II. La clausura temporal, parcial o total de las instalaciones, maquinaria o equipos, según corresponda, para el aprovechamiento, almacenamiento o transformación de los recursos y materias primas forestales o de los sitios o instalaciones en donde se desarrollen los actos que puedan dañar la biodiversidad o los recursos naturales; y
+La Fiscalía General y las Instituciones de Seguridad Pública deberán capacitar a todo el personal policial respecto de los protocolos de actuación inmediata y las acciones específicas que deben realizar cuando tengan conocimiento, por cualquier medio, de la desaparición o no localización de una persona.
 
-III. La suspensión temporal, parcial o total de los aprovechamientos autorizados o de la actividad de que se trate.
-
-A juicio de la autoridad, se podrá designar al inspeccionado como depositario de los bienes asegurados, siempre y cuando se asegure que a éstos se les dará un adecuado cuidado.
-
-La Secretaría podrá dar destino final a los productos maderables o no maderables, una vez superado su aseguramiento, y los recursos económicos obtenidos se depositarán hasta que se resuelva el procedimiento legal. Una vez emitido el fallo y que la resolución cause efectos, estos recursos se entregarán a quien beneficie el sentido de la resolución. El Reglamento determinará los mecanismos para implementar esta disposición.
-
-###### Artículo 85.
-
-Cuando se imponga alguna o algunas de las medidas de seguridad previstas en el artículo anterior, se indicarán, en su caso, las acciones que se deben llevar a cabo para subsanar las irregularidades que las motivaron, así como los plazos para realizarlas, a fin de que, una vez satisfechas, se ordene el levantamiento de la sanción.
-
-> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2016)</small>
-
-Cuando de las visitas u operativos de inspección en terrenos diversos a lo forestal, se determine que existe riesgo inminente de daño o deterioro grave a los ecosistemas diversos a los forestales, o bien cuando los actos u omisiones pudieran dar lugar a la imposición de sanciones administrativas, la Procuraduría podrá ordenar las medidas de seguridad señaladas en el artículo anterior.
+T R A N S I T O R I O S
 
 ### CAPÍTULO V. Infracciones
 
@@ -1243,18 +1057,104 @@ Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
 
 G.O. 11 DE NOVIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 931 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+###### ARTÍCULO PRIMERO.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+La presente Ley entrará en vigor a los ciento ochenta días posteriores a su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+###### ARTÍCULO SEGUNDO.
 
-TERCERO. Los asuntos que a la entrada en vigor del presente Decreto se encontraran en trámite ante alguna de las áreas administrativas de la Secretaría de Medio Ambiente que, como consecuencia de este Decreto, se transfieren a otra dependencia, se continuarán tramitando ante dicha Secretaría hasta su conclusión.
+Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-CUARTO. En todo instrumento jurídico, ya sea decreto, reglamento o reglas que se deriven de las leyes referidas a la materia forestal, se entenderán referidos a la Secretaría de Medio Ambiente, como cabeza de sector.
+###### ARTÍCULO TERCERO.
 
-QUINTO. Para llevar a cabo las actividades derivadas de las facultades transferidas a la Procuraduría Estatal de Protección al Medio Ambiente y Municipios, éstos deberán realizarlas con los recursos y personal con que cuentan actualmente previa capacitación, o en su defecto, contratar el personal necesario con el perfil técnico acorde a la actividad conferida.
+El titular del Ejecutivo en el Estado, deberá en un plazo no mayor de sesenta días contados a partir de la entrada en vigor del presente Decreto, expedir el Decreto Administrativo correspondiente para la creación de la Comisión Estatal de Búsqueda de Personas del Estado de Aguascalientes, en cumplimiento con la Ley General en materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
 
-SEXTO. En tanto se expidan las nuevas normas reglamentarias o reformas correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad reglamentaria vigente.
+###### ARTÍCULO CUARTO.
 
-SÉPTIMO. Las donaciones, compensaciones, multas o cuotas voluntarias de los trámites administrativos relacionados con los servicios prestados por la Secretaría, la Procuraduría y los Municipios en materia forestal, tendrán un fin específico relacionado con la protección y restauración del medio ambiente del Estado de Veracruz y serán depositados en el Subfiso del Fondo Forestal Estatal.
+El Ejecutivo del Estado, en un plazo de treinta días a partir del nombramiento del Titular de la Comisión, deberá expedir el Reglamento de ésta y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Dentro de los noventa días posteriores a la entra (sic) en vigor de la presente Ley, la Fiscalía General del Estado deberá hacer las adecuaciones necesarias a su Reglamento a fin de atender con lo mandatado en el Capítulo Segundo del Título Tercero de esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+A partir de la publicación de la presente Ley y en tanto la Conferencia Nacional de Procuración de Justicia no emita el protocolo homologado a que se refiere el artículo 99 de la Ley General, la Fiscalía deberá cumplir con las obligaciones de búsqueda conforme a los ordenamientos que se hayan expedido con anterioridad, siempre que no se opongan a esta Ley. La Fiscalía, además de los protocolos previstos en la Ley General, continuará aplicando los protocolos existentes de búsqueda de personas en situación de vulnerabilidad.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los servidores públicos que integren la Fiscalía Especializada y la Comisión de Búsqueda deberán estar certificados dentro del año posterior a su creación.
+
+La Comisión Estatal de Búsqueda de Personas del Estado de Aguascalientes podrá, a partir de que entre en funcionamiento, ejercer las atribuciones que esta Ley y la Ley General le confieren con relación a los procesos de búsqueda que se encuentren pendientes.
+
+###### ARTÍCULO OCTAVO.
+
+En un plazo de ciento ochenta días posteriores a la entrada en vigor del presente decreto, los municipios deberán armonizar su regulación sobre panteones para garantizar que el funcionamiento de las fosas comunes cumpla con el estándar establecido en el Artículo 129 de la Ley General.
+
+Al Ejecutivo para su promulgación y publicación.
+
+Dado en el Salón de Sesiones “Soberana Convención Revolucionaria de Aguascalientes”, del Palacio Legislativo, a los dieciséis días del mes de diciembre del año dos mil diecinueve.
+
+Lo que tenemos el honor de comunicar a usted, para los efectos Constitucionales conducentes.
+
+Aguascalientes, Ags., a 16 de diciembre del año 2019.
+
+A T E N T A M E N T E .
+
+LA MESA DIRECTIVA
+
+ALEJANDRO SERRANO ALMANZA
+
+DIPUTADO PRESIDENTE
+
+LUIS ENRIQUE GARCÍA LÓPEZ
+
+DIPUTADO PRIMER SECRETARIO
+
+ERICA PALOMINO BERNAL
+
+DIPUTADA SEGUNDA SECRETARIA
+
+En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 26 de diciembre de 2019.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Ricardo Enrique Morán Faz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 157.- SE REFORMA EL ARTÍCULO 23 DE LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 391.- SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los nombramientos realizados mediante el Acuerdo a través del cual se designan los integrantes del Consejo Estatal Ciudadano de la Comisión Estatal de Búsqueda de personas del Estado de Aguascalientes, suscrito por la Gobernadora Constitucional del Estado de Aguascalientes, publicado en el Periódico oficial en fecha 10 de mayo de 2023, durarán en su cargo según lo establecido en la fracción I, del artículo 26 Quáter del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Estatal Ciudadano deberá emitir sus reglas de funcionamiento en un plazo no mayor a noventa días naturales siguientes a su instalación.
+
+###### ARTÍCULO CUARTO.
+
+El Comité de Evaluación y Seguimiento deberá instalarse en un término no mayor de noventa días naturales siguientes a la instalación del Consejo Estatal Ciudadano.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo Estatal Ciudadano deberá expedir la guía de procedimientos del Comité de Evaluación y Seguimiento, en un plazo no mayor a treinta días naturales a que éste se instale.
+
+###### ARTÍCULO SEXTO.
+
+Queda sin efectos el capítulo IV denominado “Consejo Estatal Ciudadano”, del Decreto por el que se crea la Comisión de Búsqueda de Personas del Estado de Aguascalientes, publicado en fecha lunes 29 de junio de 2020.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan las disposiciones de menor jerarquía que se opongan al presente Decreto.
