@@ -4,7 +4,7 @@ identifier: "CHP-ley-ambiental-para-el-estado-de-chiapas-111702"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-18"
-last_updated: "2017-04-26"
+last_updated: "2019-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de noviembre de 2015.
 
@@ -33,7 +33,9 @@ DECRETO NÚMERO 022
 
 La Honorable Sexagésima Sexta Legislatura Constitucional del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política Local; y
 
-C O N S I D E R A N D O…
+C O N S I D E R A N D O
+
+[...]
 
 Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido a bien emitir el siguiente Decreto de:
 
@@ -81,6 +83,10 @@ XV. Definir los procedimientos administrativos de aplicación de esta Ley, para 
 
 XVI. Elaborar y expedir normas técnicas ambientales estatales, en aquellas materias que sean de competencia exclusiva del Estado.
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
+
+XVII. La definición, dirección y formulación de Políticas Públicas encaminadas a la eliminación de la venta y uso de bolsas plásticas y contenedores de poliestireno (unicel) expandido de un solo uso, para fines de Envoltura, Transportación, Cargo o Traslado de Alimentos y Bebidas, Productos y Mercancías en Supermercados, Tiendas de Autoservicio, Departamentales, Farmacias, Tiendas de Conveniencia, Mercados, Restaurantes y establecimientos donde se comercialicen alimentos y bebidas; así como el de la entrega y uso de Popotes Plásticos de base polimérica de un solo uso, para usanza alimenticia en Bares, Restaurantes y similares, y los demás productos derivados del plástico para utensilios de alimentos, de diversión, higiene y uso personal desechables al primer uso, tales como; platos, cucharas, tenedores, bastoncillos para hisopos de algodón, vasos, charolas, globos, varillas para globos y demás políticas que impulsen la sustitución definitiva de éstos, por productos elaborados con materiales que faciliten su reúso o reciclado y que sean de pronta biodegradación o de productos compostables.
+
 ###### Artículo 2.
 
 El Estado y los Municipios, deberán atender conforme a sus atribuciones, las acciones y actividades objeto de la presente Ley, promoviendo para ello la participación de la sociedad en su conjunto, y así como de los pueblos y comunidades indígenas, mismas que deberán sumarse para que las políticas ambientales se realicen en forma coordinada y eficaz.
@@ -112,6 +118,10 @@ IX. La conservación de la biodiversidad y el aprovechamiento sustentable de los
 X. La planeación y ejecución de acciones que fomenten la educación ambiental y el fortalecimiento de una cultura ecológica, así como el desarrollo de tecnologías apegadas a criterios ambientales.
 
 XI. La generación de los servicios ambientales a fin de preservar la calidad de vida.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
+
+XII. La generación de acciones encaminadas a prohibir la venta y dádiva, para lograr la eliminación del uso de bolsas en supermercados, tiendas de autoservicio, de conveniencia, departamentales, farmacias, mercados y demás similares elaboradas con polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados, para fines de envoltura, transportación, carga o traslado; contenedores de poliestireno expandido (unicel) y popotes de base polimérica para uso alimenticio en Bares, Restaurantes y similares, así como todo producto para higiene, uso personal, de utensilio alimenticio y de diversión desechable al primer uso que sea elaborado con material no biodegradable.
 
 ###### Artículo 4.
 
@@ -297,6 +307,16 @@ LXXVII. Población: Al conjunto de ejemplares de una especie silvestre que compa
 
 LXXVIII. Vida Silvestre: A los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
+
+LXXIX. Plásticos de un sólo uso: Son también conocidos como plásticos desechables, y son aquellos que tienen el propósito de ser usados sólo una vez antes de ser arrojadas (sic) a la basura, es decir, son productos servibles para una sola vez y tirar.
+
+Esta clasificación incluye, entre otros productos, bolsas de mercado, empaques de alimentos, botellas, popotes, vasos, cubiertos, cuchillos, tenedores, platos, bastoncillos para hisopos de algodón, varillas para globos, globos, agitadores, mezcladores y cucharas, entre otros.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
+
+LXXX. Materiales Biodegradables: Sustancias que por la acción de un agente biológico se pueden descomponer o degradar en condiciones ambientales naturales.
+
 ### Capítulo II. De las Autoridades Ambientales
 
 ###### Artículo 5.
@@ -345,9 +365,11 @@ XII. Promover, en coordinación con el Gobierno Federal y las autoridades corres
 
 XIII. Las demás que conforme a esta Ley, y otras disposiciones legales en la materia le correspondan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2019)</small>
+
 ###### Artículo 8.
 
-La Secretaría, le corresponde las atribuciones siguientes:
+A la Secretaría, le corresponde las atribuciones siguientes:
 
 I. Aplicar la política ambiental en el Estado, en congruencia con el Plan Estatal de Desarrollo y realizar las acciones inherentes a los planes y programas que se deriven de esta Ley.
 
@@ -417,11 +439,51 @@ XXXII. Promover y estimular la articulación de mercados para la compensación o
 
 XXXIII. La regulación para el manejo, control y remediación de los problemas asociados a ejemplares y poblaciones ferales, así como la aplicación de las disposiciones en la materia, dentro de su ámbito territorial.
 
-XXXIV. Las demás que se determinen en la presente Ley y otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JUNIO DE 2019)</small>
+
+XXXIV. Establecer los criterios, lineamientos y normas técnicas ecológicas ambientales para el estado, referentes a la producción y al consumo sustentable de productos plásticos, incluyendo popotes y poliestireno expandido, los cuales deberán atender a las características específicas requeridas para cada producto y sujetarse a los lineamientos técnicos y científicos, basados en un proceso de análisis de las tecnologías vigentes.
+
+Estos criterios, lineamientos y normas técnicas ecológicas ambientales deberán emitirse bajo esquemas de participación ciudadana y en su elaboración se considerará lo siguiente:
+
+a) Establecer principios de reducción, reciclaje y reutilización en el manejo de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos;
+
+b) Garantizar que los popotes, bolsas de plástico y poliestireno expandido, se sustituyan por la utilización de materiales provenientes de recursos renovables, para su pronta biodegradación en los destinos finales.
+
+c) Garantizar la prohibición en la comercialización, distribución, uso y entrega de productos para higiene y uso personal, utensilio alimenticio y de diversión fabricado total o parcialmente de plásticos, diseñados para su desecho después de un solo uso, excepto los que sean compostables.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
+
+XXXV. Formular la denuncia o querella correspondiente, ante la autoridad competente si como resultado de una visita o inspección se detecta la comisión de un delito.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
+
+XXXVI. Deberá apoyar la transición de tecnologías a empresas productoras para la sustitución de las bolsas de plástico, popotes y recipientes de unicel por elaborados de material que pueda ser fácilmente compostable o con contenido de material reciclado, el Titular del Ejecutivo podrá constituir programas de apoyo dirigidos para este fin.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
+
+XXXVII. Expedir los programas municipales de sustitución de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, de popotes plásticos de uso alimenticio, así como de productos personales, utensilios alimenticios y de diversión de un solo uso, de conformidad con esta Ley.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
+
+XXXVIII. Elaborar políticas públicas para incorporar a los establecimientos y empresas correspondientes, sobre la generación de un compromiso ambiental a los esfuerzos de eliminación en el uso de los plásticos. Para ello, podrá implementar sistemas de estímulos e incentivos.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
+
+XXXIX. Elaborará e implementará propuestas y programas de eliminación de plástico que incluyan apoyos para investigación y desarrollo de materiales reutilizables para las empresas fabricantes.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
+
+XL. Emprenderá campañas de difusión, actividades de educación ambiental, capacitación y otras similares; para generar conciencia en la población de los efectos perjudiciales en el ambiente que produce el uso de bolsas plásticas, popotes de plástico y recipientes de unicel para alimentos; así como promover la investigación y desarrollo de materiales reutilizables y alternativas, convenios de cooperación con establecimientos para incentivar el uso de bolsas reutilizables y de la necesidad de eliminar el uso de plásticos de un sólo uso. La Secretaría vigilará que los establecimientos pongan a disposición de los clientes bolsas reutilizables.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JUNIO DE 2019)</small>
+
+XLI. Las demás que se determinen en la presente Ley y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2019)</small>
 
 ###### Artículo 9.
 
-La Procuraduría Ambiental, le corresponde las atribuciones siguientes:
+A la Procuraduría Ambiental, le corresponde las atribuciones siguientes:
 
 I. Vigilar el debido cumplimiento de las disposiciones legales en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico.
 
@@ -457,11 +519,19 @@ XVI. Solicitar información a los órganos administrativos de la Secretaría, pa
 
 XVII. Proponer al Secretario, la suscripción de convenios, acuerdos o cualquier instrumento jurídico de colaboración, así como la coordinación con los tres órdenes de gobierno para atender problemas ambientales, atendiendo a las leyes que resulten aplicables.
 
-XVIII. Las demás disposiciones de la presente Ley, su Decreto de Creación, y otros ordenamientos legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JUNIO DE 2019)</small>
+
+XVIII. Vigilar, inspeccionar y verificar el cumplimiento de los instrumentos y disposiciones jurídicas en materia de la prohibición de productos plásticos para transporte, carga, envoltura, de higiene y uso personal, de uso alimenticio y de diversión, diseñado para su desecho después de un solo uso, poliestireno expandido (unicel) en alimentos y popotes de base polimérica e instaurar los procedimientos administrativos correspondientes e imponer las medidas y sanciones que resulten aplicables.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JUNIO DE 2019)</small>
+
+XIX. Las demás disposiciones de la presente Ley, su Decreto de Creación, y otros ordenamientos legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2019)</small>
 
 ###### Artículo 10.
 
-Los Ayuntamientos, les corresponden las atribuciones siguientes:
+A los Ayuntamientos, les corresponde (sic) las atribuciones siguientes:
 
 I. Formular, conducir y evaluar la política ambiental municipal y los criterios ecológicos, en congruencia con los que en su caso hubieren formulado la Federación y el Gobierno del Estado.
 
@@ -519,6 +589,10 @@ XXVII. La formulación, ejecución y evaluación del programa municipal de prote
 
 XXVIII. Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les confiera esta Ley, otros ordenamientos legales en concordancia con ella, y que no estén otorgados expresamente a la Federación o al Estado.
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
+
+XXIX. Prohibir la entrega de bolsas de plástico no biodegradables, popotes de base polimérica y contenedores de poliestireno expandido (unicel) mediante dádiva o a título oneroso al público en general, para envoltura, carga, transporte de mercancías o productos e insumos de consumo alimenticio, de higiene y/o uso personal y de diversión elaborados con material no biodegradable y diseñados para su desecho después de un solo uso, enajenados por los establecimientos comerciales a que se refiere el artículo 3, fracción XII de esta Ley.
+
 ###### Artículo 11.
 
 Los Ayuntamientos están facultados para reglamentar en lo referente al otorgamiento de autorizaciones en materia de la presente Ley en el ámbito de su competencia, vigilando en todo momento el cumplimiento de su finalidad.
@@ -534,6 +608,12 @@ Los Ayuntamientos dictarán los ordenamientos, reglamentos, bandos, circulares y
 ###### Artículo 14.
 
 Los Ayuntamientos, en el ámbito de su competencia, podrán aplicar de manera supletoria lo dispuesto en esta Ley y demás disposiciones legales aplicables, a falta de reglamentación municipal específica en la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+
+###### Artículo 14 Bis.
+
+Los Municipios del Estado, estarán facultados para implementar programas municipales que coadyuven en la prohibición y eliminación de bolsas elaboradas con polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados para fines de envoltura, transportación, carga o traslado de productos de mercancías, popotes de plásticos de base polimérica y envases, contenedores y recipientes de poliestireno expandido (unicel), así como prohibir la venta de productos de higiene y/o uso personal, de consumo alimenticio y de diversión diseñados para su desecho después de un solo uso.
 
 ### Capítulo III. De la Coordinación Interinstitucional
 
@@ -2523,9 +2603,11 @@ Los proyectos de los sistemas de recolección, almacenamiento, transporte, aloja
 
 Los Ayuntamientos son responsables ante la Secretaría sobre la operación y funcionamiento de los sistemas concesionados total o parcialmente a los particulares o terceros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2019)</small>
+
 ###### Artículo 221.
 
-El titular del Poder Ejecutivo Estatal propondrá la celebración de acuerdos de coordinación con el Ejecutivo Federal y con los Ayuntamientos para:
+El Titular del Poder Ejecutivo Estatal, podrá suscribir convenios o acuerdos de coordinación y asesoría con el Ejecutivo Federal y los Ayuntamientos para:
 
 I. La implantación y mejoramiento de sistemas de recolección, tratamiento y disposición final de residuos sólidos urbanos y de manejo especial.
 
@@ -2536,6 +2618,10 @@ III. La fabricación y utilización de empaques y envases para todo tipo de prod
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
 IV. La disposición final adecuada de biosólidos y sólidos provenientes de procesos industriales y de las plantas de tratamiento de aguas residuales que no se consideren como residuos peligrosos, en los términos que así determine la normatividad vigente.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2019)</small>
+
+V. La creación de centros de acopio y la implementación de sistemas de reciclaje de residuos de popotes, bolsas de plástico y poliestireno expandido y demás productos plásticos de un solo uso.
 
 ###### Artículo 222.
 
@@ -2657,6 +2743,28 @@ Toda descarga o depósito de residuos sólidos urbanos y de manejo especial en l
 
 Los Ayuntamientos dentro de su circunscripción territorial, deberán sanear y clausurar los tiraderos de residuos a cielo abierto, además de regularizar sus sitios de disposición final conforme a la Norma Oficial Mexicana en la materia.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+
+###### Artículo 234 Bis.
+
+Derivado de los residuos plásticos, se prohíbe a los establecimientos como supermercados, tiendas departamentales, de autoservicio, de conveniencia, mercados, farmacias, almacenes, negocios y comercios y demás similares, la venta, dádiva, uso y entrega a título gratuito de bolsas elaboradas con polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados para fines de envoltura, transportación, carga o traslado de productos de mercancías.
+
+Quedan exentas de la restricción del párrafo anterior, aquellas bolsas que han sido producidas de material reciclado, compostable y de ágil y total degradación que sea amigable con el medio ambiente.
+
+Los establecimientos han de incentivar y brindar facilidades al público para llevar sus propias bolsas reutilizables o bien otros elementos que no sean de un solo uso, tales como: Bolsas de tela, canastas, redes u otras hechas de material reutilizable, para fines de envoltura, transportación, carga o traslado de productos o mercancías.
+
+Se prohíbe a los establecimientos tales como restaurantes, bares y demás similares el uso, entrega, venta y comercialización de envases, contenedores y recipientes de poliestireno expandido (unicel), popotes de base polimérica, así como de mezcladores y agitadores de plásticos de un solo uso, para bebidas y alimentos de consumo humano.
+
+Se prohíbe a los establecimientos comerciales la venta y entrega de productos de higiene y/o uso personal, de consumo alimenticio y de diversión elaborados con material no biodegradable y diseñados para su desecho después de un solo uso.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+
+###### Artículo 234 Ter.
+
+Quedan excluidas de esta prohibición, aquellas que se empleen por razones de salubridad en el almacenamiento o conservación de alimentos y no resulte factible la utilización de un material sustituto.
+
+Se excluyen de esta prohibición los popotes que se empleen en hospitales y/o clínicas de salud por cuestiones médicas.
+
 ## Título Séptimo. Procuraduría Ambiental en el Estado de Chiapas
 
 ### Capítulo II. Visitas de Verificación
@@ -2710,6 +2818,40 @@ X. Cuando la gravedad de la infracción lo amerite, la autoridad solicitará a q
 XI. La reparación del daño ambiental.
 
 Se considera reincidente al infractor que incurra en más de una vez en conductas que impliquen infracciones a este ordenamiento, a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+
+###### Artículo 238 Bis.
+
+Las violaciones a la prohibición de la venta, uso y entrega de bolsas de plástico, popotes, recipientes de unicel y productos a que se refiere la fracción XII del artículo 3 de esta Ley, serán sancionadas administrativamente con una o más de las siguientes:
+
+I. Amonestación con apercibimiento;
+
+II. Multa de cien a veinte mil veces el valor diario de la Unidad de Medida y Actualización al momento de imponer la sanción.
+
+III. Clausura temporal, parcial o total de las instalaciones en casos de reincidencia.
+
+En caso de reincidencia, el monto de la multa será hasta dos veces de la cantidad originalmente impuesta, sin exceder del doble del máximo permitido.
+
+Cuando proceda como sanción, la clausura, el personal comisionado para ejecutarla procederá a levantar acta circunstanciada de la diligencia, observando las disposiciones aplicables a la realización de inspecciones.
+
+En los casos en que se imponga como sanción, la clausura temporal, la autoridad deberá indicar al infractor las medidas de mitigación y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
+
+Para la imposición de las sanciones por infracciones a la prohibición de bolsas de plástico, popotes y recipientes de unicel para alimentos, se tomará en cuenta:
+
+a) La Gravedad de la infracción en cuanto a la trascendencia social o sanitaria y el perjuicio causado por la infracción cometida.
+
+b) Los antecedentes, circunstancias y situación de las condiciones económicas del infractor.
+
+c) La reincidencia en la comisión de infracciones y la gravedad de la conducta, y
+
+d) Las demás que señalen las leyes o reglamentos aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+
+###### Artículo 238 Ter.
+
+En particular, los ingresos que se obtengan de las multas por infracciones a lo dispuesto en la prohibición de bolsas de plástico, popotes, artículos de unicel para alimentos, productos de usanza alimenticia, artículos de higiene y/o uso personal y de diversión elaborados con materiales no biodegradables o no compostables, se destinarán a la integración del Fondo Estatal Ambiental para promover la investigación y desarrollo de materiales reutilizables y alternativas a las empresas productoras y comercializadoras de bolsas de plástico, popotes y recipientes de unicel; así como para desarrollar campañas de difusión, actividades de educación ambiental, capacitación y otras similares; para generar conciencia en la población de los efectos perjudiciales en el ambiente que producen estos productos.
 
 ###### Artículo 239.
 
@@ -2992,3 +3134,21 @@ Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 Artículo Tercero.- El titular de la Secretaría de Medio Ambiente e Historia Natural, deberá someter a consideración y aprobación del titular del Poder Ejecutivo Estatal, los proyectos de los reglamentos por materia de la Ley Ambiental para el Estado de Chiapas y además de la normatividad que resulte aplicable, en un plazo no mayor a noventa días hábiles siguientes a la publicación del presente Decreto.
+
+P.O. 19 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- Para la transición progresiva de la sustitución de bolsas de plástico para fines de envoltura, transportación, carga o traslado de productos, así como de popotes plásticos, artículos de unicel en alimentos y productos de higiene y/o uso personal, de uso alimenticio y de diversión diseñados para su desecho después de un solo uso, se sujetará a la gradualidad establecida en el siguiente artículo transitorio.
+
+Artículo Cuarto.- Previo a la entrada en vigor de la restricción definitiva de venta, facilitación y obsequio para la eliminación progresiva de bolsas de plástico con fines de envoltura, transportación, carga o traslado de productos, así como de popotes plásticos, artículos de unicel en alimentos y productos de higiene y/o uso personal, de uso alimenticio y de diversión diseñados para su desecho después de un solo uso, se permitirá temporalmente su venta, facilitación y obsequio que se ajustará a la siguiente gradualidad:
+
+a) En Supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados, restaurantes, bares y similares, en un plazo de doce meses a la entrada en vigor del presente decreto;
+
+b) En establecimientos dedicados a la producción y venta de mayoreo o de menudeo de bolsas, popotes de plásticos (sic) y artículos de unicel en alimentos, en un plazo de dieciocho meses a la entrada en vigor del presente decreto.
+
+Concluidos los plazos señalados en los incisos anteriores, todos los establecimientos comerciales y sujetos obligados, deberán de llevar a cabo la eliminación definitiva de las bolsas con material no biodegradable o no compostable, popotes de base polimérica, artículos de unicel para alimentos, así como productos de higiene y/o uso personal, productos de diversión y de usanza alimenticia fabricados con plástico no biodegradable o cualquier material no compostable, desechables después de su primer y único uso.
