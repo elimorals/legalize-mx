@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2019-06-13"
+last_updated: "2019-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE JUNIO DE 2019.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -697,9 +697,11 @@ Una vez integradas las Comisiones, estas comenzarán a desarrollar sus labores e
 
 Los presidentes de comisión serán responsables de los expedientes que pasen a su estudio y, al efecto, deberán recibir personalmente la documentación relativa a iniciativas de ley, de decreto o de acuerdo y demás asuntos que sean turnados o remitidos por el Presidente del Congreso del Estado.
 
+> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2019)</small>
+
 ###### ARTÍCULO 86.
 
-Para la integración de las comisiones se atenderá necesariamente a la pluralidad de diputados existente en el Congreso del Estado. Los Grupos Parlamentarios tendrán derecho a presidir un número de comisiones directamente proporcional al número de sus integrantes, considerando la importancia de éstas.
+Para la integración de las comisiones se atenderá necesariamente a la pluralidad de diputados existente en el Congreso del Estado, así como, a la equidad de género, debiendo asegurar que las comisiones se integren y sean presididas de manera paritaria entre las diputadas y diputados de cada Legislatura. Los Grupos Parlamentarios tendrán derecho a presidir un número de comisiones directamente proporcional al número de sus integrantes, considerando la importancia de éstas.
 
 ###### ARTÍCULO 87.
 
@@ -1065,7 +1067,7 @@ Las atribuciones previstas en este artículo son indelegables.
 
 ###### ARTÍCULO 115.
 
-El Congreso del Estado tendrá cada año dos periodos constitucionales de sesiones ordinarias y dos períodos de sesiones extraordinarias. Los periodos de sesiones ordinarias comprenderán, el primero, del día 01 de septiembre al 15 de diciembre y, el segundo, desde el 01 de febrero hasta el 30 de abril, en ambos casos considerando cada año de ejercicio legal de la legislatura. Estos periodos pueden ser prorrogables en términos del artículo 41 de la Constitución Política del Estado.
+El Congreso del Estado tendrá cada año dos periodos constitucionales de sesiones ordinarias y dos periodos de sesiones extraordinarias. Los periodos de sesiones ordinarias comprenderán, el primero, del día 01 de septiembre al 15 de diciembre y, el segundo, desde el 01 de febrero hasta el 30 de abril, en ambos casos considerando cada año de ejercicio legal de la legislatura. Estos periodos pueden ser prorrogables en términos del artículo 41 de la Constitución Política del Estado.
 
 El primer periodo de sesiones extraordinarias iniciará desde la fecha en que concluya el primer periodo de sesiones ordinarias o su prórroga y hasta el 31 de enero de cada año de ejercicio de la legislatura; a su vez, el segundo periodo de sesiones extraordinarias iniciará desde la fecha en que concluya el segundo periodo de sesiones ordinarias o su prórroga y hasta el 31 de agosto de cada año de ejercicio de la legislatura.
 
@@ -1185,7 +1187,9 @@ Cuando el Gobernador del Estado, usando la facultad que le concede el artículo 
 
 ###### ARTÍCULO 133.
 
-Toda participación, intervención o uso de la voz que hagan los diputados en las sesiones del pleno del Congreso del Estado, deberá sujetarse a un periodo máximo de cinco minutos. Tratándose de lectura de dictámenes de comisión no resultará aplicable lo señalado en el párrafo que antecede. La Comisión de Régimen Interno y Concertación Política podrá acordar participaciones por periodos superiores a los referidos en el párrafo anterior, en cuyo caso establecerá lo conducente el proyecto de orden del día, para aprobación del pleno del Congreso del Estado.
+Toda participación, intervención o uso de la voz que hagan los diputados en las sesiones del pleno del Congreso del Estado, deberá sujetarse a un periodo máximo de cinco minutos.
+
+Tratándose de lectura de dictámenes de comisión no resultará aplicable lo señalado en el párrafo que antecede. La Comisión de Régimen Interno y Concertación Política podrá acordar participaciones por periodos superiores a los referidos en el párrafo anterior, en cuyo caso establecerá lo conducente el proyecto de orden del día, para aprobación del pleno del Congreso del Estado.
 
 Durante el desarrollo de una sesión, sólo podrán acordarse participaciones mayores a cinco minutos, cuando lo solicite el diputado interesado y lo apruebe el pleno del Congreso del Estado.
 
@@ -1901,7 +1905,7 @@ IV.- Prestar el apoyo técnico que se requiera para la definición de las polít
 
 V.- Elaborar el anteproyecto de presupuesto de egresos por programas que corresponda a la Dirección a su cargo;
 
-VI.- Determinar, conforme a sus necesidades reales, los requerimientos de bienes muebles y servicios que sean indispensables para el desempeño eficiente de las funciones de la Dirección a su cargo y remitirlo a la Oficialía Mayor;
+VI.- Determinar, conforme a sus necesidades reales, los requerimientos de bienes muebles y servicios que sean indispensables para el desempeño eficiente de las funciones de la Dirección a su cargo y remitirlo a la Oficialia Mayor;
 
 VII.- Asesorar técnicamente, en los asuntos de su especialidad, a las Direcciones Generales del Congreso del Estado, así como proporcionar información, datos y cooperación técnica que le soliciten las Direcciones Generales o la Oficialía Mayor, de acuerdo con las políticas establecidas al respecto;
 
@@ -2615,11 +2619,13 @@ B.O. 13 DE JUNIO DE 2019.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL ARTÍCULO 351 Y ADICIONAR (SIC) EL ARTÍCULO 351 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT".]
+B.O. 19 DE JUNIO DE 2019.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 39, QUE REFORMA EL ARTÍCULO 86 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
 
-P.O. 7 DE JUNIO DE 2021.
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 297 BIS Y ADICIONA UN NUMERAL 261 BIS AL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
 
