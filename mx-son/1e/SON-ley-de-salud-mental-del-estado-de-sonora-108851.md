@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-mental-del-estado-de-sonora-108851"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-16"
-last_updated: "2018-11-22"
+last_updated: "2019-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SON"
 
 LEY DE SALUD MENTAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE JUNIO DE 2019.
 
 Ley publicada en la Sección VI del Boletín Oficial del Estado de Sonora, el lunes 16 de diciembre de 2013.
 
@@ -100,6 +100,10 @@ Para efectos de la presente Ley, se entenderá por:
 
 I.- Acciones para la atención de la salud mental: estrategias necesarias para proporcionar a la persona usuaria una atención integral en salud mental, a través de la sensibilización, promoción, prevención de riesgos, la evaluación, diagnóstico, tratamiento, rehabilitación y seguimiento, en los términos previstos en la presente Ley;
 
+> <small>(ADICIONADA, B.O. 19 DE JUNIO DE 2019)</small>
+
+I BIS.- Consentimiento informado: Documentos escritos, signados por el paciente, un familiar hasta en segundo grado o tutor, mediante los cuales se acepta un procedimiento médico o quirúrgico con fines de diagnósticos, terapéuticos, rehabilitatorios, paliativos o de investigación, una vez que se ha recibido información de los riesgos y beneficios esperados para el paciente;
+
 II.- Derecho a la salud mental: Es la garantía de toda persona al bienestar psíquico y físico, identidad, dignidad, respeto y un tratamiento integral con el propósito de una óptima integración social, para lo cual el Gobierno del Estado tiene la obligación de planear, organizar, operar y supervisar el funcionamiento de los servicios a los que se refiere la presente Ley;
 
 III.- Diagnóstico clínico: es la resolución multidisciplinaria sobre los aspectos físicos y psíquicos del paciente, para definir el curso del tratamiento, así como de los métodos a seguir para su reincorporación a la sociedad;
@@ -121,6 +125,10 @@ X.- Infraestructura: conjunto de instalaciones, construcciones, mobiliario y equ
 > <small>(ADICIONADA, B.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 X BIS.- Instituto.- Instituto Estatal de Salud Mental y Adicciones del Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 19 DE JUNIO DE 2019)</small>
+
+X TER.- Ingreso involuntario: Cuando por encontrarse la persona impedida para solicitarlo por sí misma, por incapacidad transitoria o permanente, sea solicitado por un familiar hasta en segundo grado o tutor, por caso de urgencia y siempre que exista la intervención de un médico calificado respecto a la condición médica, que determine la existencia de un trastorno mental y del comportamiento y que debido a dicho trastorno, existe un peligro grave o inmediato para sí mismo o para terceros;
 
 XI.- Ley General: Ley General de Salud;
 
@@ -710,17 +718,33 @@ Para efectos del presente Capítulo, hospitalización es la permanencia temporal
 
 La hospitalización de personas con padecimientos mentales, se debe ajustar a principios éticos, científicos, legales y sociales, así como a criterios contemplados en la presente Ley, la Norma Oficial Mexicana para la prestación de Servicios de Salud en Unidades de Atención Integral Hospitalaria Medico-Psiquiátrica y demás normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE JUNIO DE 2019)</small>
+
 ###### Artículo 46.
 
-El ingreso de las personas usuarias a las unidades que prestan servicios de atención integral hospitalaria médico-psiquiátrica podrá ser voluntario, de emergencia o por orden de autoridad y se ajustará a los procedimientos siguientes:
+El ingreso de las personas usuarias a las unidades que prestan servicios de atención integral hospitalaria médico-psiquiátrica podrá ser voluntario, de emergencia o involuntario, o por orden de autoridad y se ajustará a los procedimientos siguientes:
 
 I.- El ingreso voluntario requiere de la indicación del médico tratante y de la autorización de la persona usuaria, ambas por escrito;
 
-II.- El ingreso de emergencia se presenta en el caso de personas con trastornos mentales severos que requieran atención urgente o representen un peligro grave o inmediato para sí mismos o para los demás. Requiere la indicación de un médico psiquiatra y la autorización de un familiar responsable, tutor o representante legal, ambas por escrito. En caso de extrema urgencia, la persona usuaria puede ingresar por indicación escrita del médico a cargo del servicio de admisión de la Unidad Hospitalaria con el visto bueno del médico responsable del servicio tratante. En cuanto las condiciones de la persona usuaria lo permitan, deberá ser informado de su situación de internamiento, para que en su caso, su condición cambie a la de ingreso voluntario; y
+> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2019)</small>
+
+II.- El ingreso de emergencia o involuntario se presenta en el caso de personas con trastornos mentales severos que requieran atención urgente o representen un peligro grave o inmediato para sí mismos o para los demás. Requiere la indicación de un médico psiquiatra, autorización y consentimiento informado de un familiar hasta en segundo grado o tutor, todas por escrito. En caso de extrema urgencia, la persona usuaria puede ingresar por indicación escrita del médico a cargo del servicio de admisión de la unidad hospitalaria con el visto bueno del médico responsable del servicio tratante; y
 
 III.- El ingreso por orden de autoridad, se llevará a cabo cuando lo solicite la autoridad competente.
 
 Son autoridades competentes para solicitar ingresos, las autoridades judiciales y los órganos de procuración de justicia.
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2019)</small>
+
+###### Artículo 46 Bis.
+
+El internamiento involuntario de personas con trastornos mentales y del comportamiento, como último recurso terapéutico, se ajustará a principios éticos, sociales, de respeto a los derechos humanos y a los requisitos que determine esta Ley, la Ley General de Salud y demás disposiciones jurídicas aplicables.
+
+La decisión de internar involuntariamente a una persona deberá ser notificada a su representante, así como a la autoridad judicial.
+
+El internamiento involuntario será revisado por la autoridad judicial a petición de la persona internada o de su representante. La resolución de la autoridad judicial deberá estar fundada en dictamen pericial y, en caso de que se resuelva la terminación del internamiento, deberá establecer un plazo para que se ejecute la misma. En todo caso, durante dicho procedimiento deberá garantizarse la defensa de los intereses de la persona internada.
+
+Las autoridades sanitarias deberán coordinarse con los organismos públicos de protección a los derechos humanos para que los establecimientos dedicados a la atención y tratamiento de las personas con trastornos mentales y del comportamiento sean supervisados continuamente, a fin de garantizar el respeto a los derechos de las personas internadas.
 
 ###### Artículo 47.
 
@@ -938,6 +962,8 @@ B.O. 9 DE JUNIO DE 2016.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
 
+B.O. 19 DE JUNIO DE 2019.
+
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 59, QUE REFORMA DIVERSAS DISPOSICIONES A LA LEY DE SALUD MENTAL DEL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO PRIMERO.
@@ -975,3 +1001,11 @@ El recurso humano, material y financiero de la Dirección General de Salud Menta
 ###### ARTÍCULO SEXTO.
 
 Los derechos de los trabajadores de la Dirección General de Salud Mental y Adicciones serán respetados conforme a las disposiciones de la Ley del Servicio Civil del Estado de Sonora.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 38, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE SALUD MENTAL DEL ESTADO DE SONORA Y A LA LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES EN EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 01 de enero de 2020, previa su publicación en el Boletín Oficial del Estado de Sonora.
+
+Con el objeto de dar cumplimiento a lo dispuesto en el presente Decreto, la Secretaría de Salud Pública deberá establecer los recursos suficientes dentro del proyecto de su presupuesto de egresos para el ejercicio fiscal 2020 y subsiguientes.
