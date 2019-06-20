@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2019-04-20"
+last_updated: "2019-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -33,7 +33,7 @@ DECRETO No. 786.
 
 EL H. CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-DECRETA:
+D E C R E T A :
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR.
 
@@ -409,7 +409,7 @@ VII.- Extender personalmente las actas de las sesiones privadas, lo que será in
 
 VIII.- Rendir informes exactos al Congreso, en la primera sesión de cada mes, de los expedientes y negocios que fueron despachados durante el anterior, y los que aún permanecen en poder o a disposición de las comisiones.
 
-IX.- En la primera sesión de cada mes, informar al Congreso sobre las faltas de asistencia de los Diputados durante el mes anterior, con expresión de las causas que la motivaron.
+IX.- En la primera sesión de cada mes, informar al Congreso sobre las faltas de asistencia de los Diputados durante el mes anterior, con expresión de las causas que la (sic) motivaron.
 
 X.- Recoger y comprobar las votaciones, proclamando sus resultados cuando así lo disponga el Presidente de la Directiva.
 
@@ -1005,11 +1005,17 @@ b).- Las que le encomienden la Mesa Directiva del Congreso y la Junta de Gobiern
 
 XVIII.- DE LA COMISIÓN DE ENLACE LEGISLATIVO:
 
-a).- Los que tengan relación con el resto de los Congresos para intercambiar las experiencias sobre problemas comunes y la organización para participar en reuniones periódicas de Congresos Locales.
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2019)</small>
+
+a).- Los que tengan relación con el resto de los Congresos Locales, el Congreso de la Unión y los Ayuntamientos de la entidad, para intercambiar experiencias sobre problemas comunes, intercambio de información, proponer para su valoración la celebración de acuerdos y convenios de apoyo legislativo a la Presidencia del Congreso o en su caso a la Junta de Gobierno y Coordinación Política según corresponda de acuerdo a sus facultades; y la organización para participar en reuniones periódicas de Congresos Locales.
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 2019)</small>
+
+b).- Proponer consultas y audiencias, públicas o privadas, con autoridades gubernamentales, especialistas, académicos, representativos de organizaciones sociales y ciudadanos en general, en materias que le competen a la comisión.
 
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
-b).- Las demás que establezca la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+c).- Las demás que establezca la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE ABRIL DE 2013)</small>
 
@@ -3319,7 +3325,7 @@ B.O. 10 DE MARZO DE 2008.
 
 B.O. 10 DE JUNIO DE 2008.
 
-ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+ÚNICO.- El presente decreto entrará en vigor el día siguiente el de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 10 DE JULIO DE 2008.
 
@@ -3555,7 +3561,7 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente d
 
 B.O. 12 DE DICIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 2573 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR, ASÍ COMO DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA UNIFORMIDAD EN LA DENOMINACIÓN DE LA AUDITORÍA SUPERIOR DEL ESTADO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2573 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR, ASÍ COMO DIVERSAS DISPOSICIONES DEL MARCO JURÍDICO ESTATAL RELATIVAS A LA UNIFORMIDAD EN LA DENOMINACIÓN DE LA AUDITORÍA SUPERIOR DEL ESTADO”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3592,3 +3598,11 @@ B.O. 20 DE ABRIL DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2607 SE REFORMA Y ADICIONA LA FRACCIÓN XVIII DEL ARTÍCULO 55 DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrara en vigor al día siguiente de su aprobación. Publíquese en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
