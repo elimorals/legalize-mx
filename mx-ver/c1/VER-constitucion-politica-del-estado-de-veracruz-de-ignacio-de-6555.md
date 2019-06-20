@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2019-01-28"
+last_updated: "2019-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE JUNIO DE 2019.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -107,9 +107,13 @@ Habrá jueces de control que garanticen los derechos de los imputados y de las v
 
 La legislación ordinaria preverá medios alternos para la solución de controversias, y los requisitos para su aplicación. El Estado organizará el servicio de defensoría pública que deberá contar con calidad y profesionalismo, especialmente en la defensa de los justiciables pertenecientes a los pueblos y comunidades indígenas.
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2019)</small>
 
-En el Estado, todas las personas gozarán de los derechos humanos y garantías para su protección, consagrados en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, esta Constitución y las Leyes que de ella emanen; así como aquellos que reconozca el Poder Judicial del Estado sin distinción alguna de origen étnico o nacional, sexo, idioma, religión, situación migratoria, opinión política, preferencias sexuales, condición o actividad social. Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución General de la República, los tratados internacionales de la materia y esta Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
+Las autoridades deberán privilegiar la solución del conflicto sobre los formalismos, siempre y cuando, no se afecte la igualdad entre las partes, el debido proceso u otros derechos. En los juicios o procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido.
+
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2019)</small>
+
+En el Estado todas las personas gozarán de los derechos humanos y garantías para su protección, consagrados en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, esta Constitución y las leyes que de ella emanen; así como aquellos que reconozca el Poder Judicial del Estado, sin distinción alguna de origen, raza, color, sexo, idioma, religión, opinión política, preferencias sexuales, condición o actividad social. Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución General de la República, los tratados internacionales de la materia y esta Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
 
 > <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
@@ -143,9 +147,9 @@ Las comunidades indígenas podrán elegir, de acuerdo con sus normas, procedimie
 
 El uso y disfrute colectivo de los recursos naturales por las comunidades indígenas se realizará de acuerdo con las formas y modalidades de propiedad previstas por la Constitución Federal.
 
-> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2019)</small>
 
-El estado y los municipios en el ámbito de sus respectivas competencias reconocerán el derecho de las comunidades indígenas a promover su desarrollo equitativo y sustentable, y a una educación laica, obligatoria, bilingüe y pluricultural. Asimismo, en los términos previstos por la ley, impulsarán el respeto y conocimiento de las diversas culturas existentes en la entidad, y combatirán toda forma de discriminación.
+El Estado y los municipios, en el ámbito de sus respectivas competencias, reconocerán el derecho de las comunidades indígenas a promover su desarrollo equitativo y sustentable, por lo que para la elaboración de los respectivos planes estatal y municipales de desarrollo consultarán previamente a las comunidades indígenas, conforme a los medios de consulta que para tal efecto se establezcan en la Ley de Planeación, así como la forma en que participen en el ejercicio y vigilancia de las acciones a ellas destinadas; también se reconocerá su derecho a una educación laica, obligatoria, bilingüe y pluricultural. Asimismo, en los términos previstos por la ley, se impulsarán el respeto y reconocimiento de las diversas culturas existentes en la Entidad y combatirán toda forma de discriminación.
 
 > <small>(ADICIONADO, G.O. 29 DE MAYO DE 2018)</small>
 
@@ -663,13 +667,19 @@ b) La declaración de que éstos han desaparecido; y
 
 c) La suspensión o revocación del mandato a uno o más ediles, previo cumplimiento de la garantía de audiencia, por alguna de las causas previstas por la ley.
 
-X. Designar, con la aprobación de las dos terceras partes de sus integrantes, de entre los vecinos de un municipio, a los que integrarán un concejo municipal, cuando:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 20 DE JUNIO DE 2019)</small>
 
-a) Se hubiere declarado la desaparición de un Ayuntamiento;
+X. Designar, con la aprobación de las dos terceras partes de sus integrantes, de entre los vecinos de un municipio, a los que integrarán un Concejo Municipal. Éste se conformará con un número de concejales idéntico al de ediles que corresponderían al Ayuntamiento de acuerdo a lo dispuesto en la Ley, en los siguientes casos:
+
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2019)</small>
+
+a) Se hubiere declarado la creación o desaparición de un Ayuntamiento;
 
 b) Se presentare la renuncia o falta absoluta de la mayoría de los ediles, si conforme a la ley no procediere que entraren en funciones los suplentes; o
 
-c) No se hubiere hecho la calificación correspondiente, el día último del mes de diciembre inmediato a la elección de los ayuntamientos.
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2019)</small>
+
+c) No se hubiere hecho la declaración de validez respectiva, el día último del mes de diciembre inmediato a la elección de los ayuntamientos.
 
 XI. Aprobar, por el voto de las dos terceras partes de sus integrantes, previa opinión del o los ayuntamientos interesados y del Gobernador del Estado, conforme a los requisitos que establezca la ley:
 
@@ -715,9 +725,9 @@ a) La contratación de obras y servicios públicos, cuando produzcan obligacione
 
 b) (DEROGADO, G.O. 23 DE NOVIEMBRE DE 2017)
 
-> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2019)</small>
 
-c) La contratación de empréstitos y los anticipos que se les otorgue (sic) por concepto de participaciones federales;
+c) Por el voto de las dos terceras partes de sus miembros presente (sic), los montos máximos para la contratación de empréstitos y obligaciones en las mejores condiciones del mercado, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago;
 
 (NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO ‘DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS’, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -768,6 +778,14 @@ XXII. Resolver sobre la renuncia que presenten el Gobernador, los magistrados y 
 XXIII. Constituirse en Colegio Electoral y elegir al ciudadano que deba sustituir al Gobernador del Estado, en los casos previstos por esta Constitución;
 
 XXIV. Convocar a elecciones extraordinarias si faltaren a la vez un diputado propietario y su suplente en el distrito electoral que corresponda, cuando dicha falta suceda antes de un año para que las ordinarias se efectúen;
+
+> <small>(ADICIONADA, G.O. 20 DE JUNIO DE 2019)</small>
+
+XXIV Bis. Llamar, en cualquier momento, cuando se trate de diputados elegidos por el principio de representación proporcional, al siguiente en el orden que corresponda, según las listas presentadas por los partidos políticos, si ocurriere la falta del propietario y del suplente;
+
+> <small>(ADICIONADA, G.O. 20 DE JUNIO DE 2019)</small>
+
+XXIV Ter. Convocar a elecciones extraordinarias de los Ayuntamientos en los que se hubiere declarado la nulidad, o no se hubiere hecho la declaración de validez respectiva, el día último del mes de diciembre inmediato a la elección correspondiente. En la convocatoria se fijará la fecha de celebración de las elecciones, se expedirá en un plazo no mayor de cuarenta y cinco días, contado a partir de la declaración de nulidad, si es el caso, y en ella no se podrán restringir los derechos y prerrogativas que la Constitución Federal y las leyes generales aplicables otorgan a los ciudadanos y a los partidos políticos;
 
 XXV. Declarar, en los términos de esta Constitución, si ha lugar o no a proceder contra los servidores públicos que hubieren sido acusados por la comisión de algún delito;
 
@@ -1494,6 +1512,10 @@ V. Nombrar provisionalmente a los magistrados del Tribunal Superior de Justicia 
 VI. Autorizar, con el voto de las dos terceras partes de los diputados presentes, al Ejecutivo del Estado o a los Ayuntamientos, a enajenar a título oneroso o gratuito, o conceder el uso y disfrute, de bienes propiedad del Estado o de los municipios, dando cuenta al Congreso en la primera sesión de éste, concluido el receso. Las enajenaciones o concesiones sólo podrán hacerse cuando medie interés social;
 
 VII. Convocar a elecciones extraordinarias, si faltaren a la vez un diputado propietario y su suplente en el distrito electoral que corresponda, cuando dicha falta ocurra antes de un año para que las elecciones ordinarias se efectúen;
+
+> <small>(ADICIONADA, G.O. 20 DE JUNIO DE 2019)</small>
+
+VII Bis. Llamar, en cualquier momento, cuando se trate de diputados elegidos por el principio de representación proporcional, al siguiente en el orden que corresponda, según las listas presentadas por los partidos políticos, si ocurriere la falta del propietario y del suplente;
 
 VIII. Designar provisionalmente a quien sustituya al Consejero de la Judicatura que hubiere designado el Congreso, y resolver, en su caso, sobre la renuncia que presente dicho servidor público, informando al Congreso en la primera sesión que lleve al cabo tras concluir el receso;
 
@@ -12975,8 +12997,44 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 28 DE ENERO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 228 POR EL QUE SE ADICIONA UNA FRACCIÓN, QUE SERÁ LA XLIV, CON EL CORRIMIENTO DE LA ACTUAL FRACCIÓN XLIV A XLV, AL ARTÍCULO 33 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 228 POR EL QUE SE ADICIONA UNA FRACCIÓN, QUE SERÁ LA XLIV, CON EL CORRIMIENTO DE LA ACTUAL FRACCIÓN XLIV A XLV, AL ARTÍCULO 33 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 254 QUE REFORMA EL ARTÍCULO 4 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 255 SE REFORMA EL PÁRRAFO SEXTO DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE JUNIO DE 2019.
+
+## N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 256 QUE REFORMA EL ARTÍCULO 33, FRACCIÓN XVI, INCISO C) DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. En un plazo no mayor de sesenta días posteriores al inicio de vigencia de este Decreto, el Congreso del Estado adecuará la legislación secundaria conforme a lo previsto en el mismo.
+
+G.O. 20 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 257 QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 33 Y QUE ADICIONA LAS FRACCIONES XXIV BIS Y XXIV TER AL ARTÍCULO 33 Y LA FRACCIÓN VII BIS AL ARTÍCULO 41 TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El Congreso del Estado deberá adecuar las leyes relativas, conforme a lo dispuesto en este Decreto, dentro de los sesenta días naturales siguientes al inicio de su vigencia.
