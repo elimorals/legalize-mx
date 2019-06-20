@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2018-09-25"
+last_updated: "2019-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -157,7 +157,7 @@ V. La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la 
 
 > <small>(REFORMADA, B.O. 30 DE ABRIL DE 2016)</small>
 
-VI.- Violencia de pareja: Conjunto de agresiones psicológicas, físicas, sexuales y económicas que ocasionan algún daño psicológico, físico y/o patrimonial en la mujer derivada de la asimetría de la pareja; exista o haya existido matrimonio, concubinato, noviazgo o relación de hecho.
+VI. Violencia de pareja: Conjunto de agresiones psicológicas, físicas, sexuales y económicas que ocasionan algún daño psicológico, físico y/o patrimonial en la mujer derivada de la asimetría de la pareja; exista o haya existido matrimonio, concubinato, noviazgo o relación de hecho.
 
 VII. Violencia de Género.- Es el conjunto de amenazas, agravios, maltrato, lesiones y daños asociados a la exclusión, la subordinación, la discriminación y la explotación de las mujeres y que es consubstancial a la opresión de género en todas sus modalidades. La violencia de género contra las mujeres involucra tanto a las personas como a la sociedad, comunidades, relaciones, prácticas e instituciones sociales, y al Estado que la reproduce al no garantizar la igualdad, al perpetuar formas legales, jurídicas, judiciales, políticas androcéntricas y de jerarquía de género, y al no dar garantías de seguridad a las mujeres; y
 
@@ -167,7 +167,11 @@ VIII. Violencia Política.- Comprende todas aquellas acciones y omisiones -inclu
 
 > <small>(ADICIONADA, B.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
-VIII BIS.- VIOLENCIA OBSTÉTRICA.- Es toda acción u omisión por parte del personal médico y de salud que dañe, lastime, denigre o cause la muerte a la mujer durante el embarazo, parto y puerperio, así como la negligencia en su atención médica que se exprese en un trato deshumanizado, en un abuso de medicalización y patologización de los procesos naturales, considerando como tales la omisión de la atención oportuna y eficaz de las emergencias obstétricas; practicar el parto por vía de cesárea, sin que cumpla con los criterios médicos acordes a la normatividad oficial en ésta materia; el uso de métodos anticonceptivos o esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer, así como obstaculizar sin causa médica justificada el apego precoz del niño o niña con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer; y
+VIII BIS. VIOLENCIA OBSTÉTRICA.- Es toda acción u omisión por parte del personal médico y de salud que dañe, lastime, denigre o cause la muerte a la mujer durante el embarazo, parto y puerperio, así como la negligencia en su atención médica que se exprese en un trato deshumanizado, en un abuso de medicalización y patologización de los procesos naturales, considerando como tales la omisión de la atención oportuna y eficaz de las emergencias obstétricas; practicar el parto por vía de cesárea, sin que cumpla con los criterios médicos acordes a la normatividad oficial en ésta materia; el uso de métodos anticonceptivos o esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer, así como obstaculizar sin causa médica justificada el apego precoz del niño o niña con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer; y
+
+> <small>(ADICIONADA, B.O. 20 DE JUNIO DE 2019)</small>
+
+VIII TER. Violencia digital.- Es cualquier acto que se presenta a través de las Tecnologías de la Información y la Comunicación, plataformas de internet, redes sociales o correo electrónico, que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual tanto en el ámbito privado como en el público; así como daño moral a ellas o su familia. Se manifiesta mediante el ciberacoso, acoso, hostigamiento, amenazas, extorsión, asecho, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas, suplantación y robo de identidad, control y manipulación de la información, expresiones discriminatorias, afectaciones a canales de expresión, acceso o control no autorizado. Se identifica como violencia sexual cibernetica la que incluye trata virtual, sextorsión, difusión de contenido íntimo sin consentimiento, fotos y desnudos tomadas sin autorización y bajo el anonimato.
 
 > <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -1372,3 +1376,11 @@ B.O. 25 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2562 SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 3, SE ADICIONA UNA FRACCIÓN VIII BIS AL ARTÍCULO 4° Y SE REFORMA EL ARTÍCULO 5° TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2611 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Sin perjuicio de lo dispuesto en el artículo transitorio Primero, la policía Cibernética de la Entidad contara con el plazo de 180 días a partir de la entrada en vigor de esta reforma, para el debido diseño, implementación, modificación y actualización de sus planes, programas y bases de datos a efecto de que se modifiquen de acuerdo a lo establecido en el presente Decreto.
