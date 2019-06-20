@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-29-de-premios-del-estado-de-veracruz-22427"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-12"
-last_updated: "2018-02-22"
+last_updated: "2019-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 29 DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE JUNIO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 12 de octubre de 2001.
 
@@ -47,11 +47,11 @@ DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### Capítulo Primero. Disposiciones Comunes
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2019)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general, y rige el otorgamiento de la Medalla Veracruz, la Medalla Adolfo Ruiz Cortines, el Premio Veracruz, la Medalla General Ignacio de la Llave, las Medallas Carlos A. Carrillo y Enrique C. Rébsamen y el Premio Estatal a la Mujer, que los Poderes Ejecutivo y Legislativo del Estado conceden a las personas distinguidas por su conducta y acciones, en los términos que la misma establece.
+La presente Ley es de orden público e interés general, y rige el otorgamiento de la Medalla Veracruz, la Medalla Adolfo Ruiz Cortines, el Premio Veracruz, la Medalla General Ignacio de la Llave, las Medallas Carlos A. Carrillo y Enrique C. Rébsamen, el Premio Estatal a la Mujer y la Medalla Heberto Castillo Martínez, que los Poderes Ejecutivo y Legislativo del Estado conceden a las personas distinguidas por su conducta y acciones, en los términos que la misma establece.
 
 ### Capítulo Segundo. De la Medalla Veracruz
 
@@ -113,7 +113,7 @@ II. Al Mérito Ciudadano;
 
 III. A los Servidores Públicos;
 
-IV. A las Ciencias;
+IV. (DEROGADA, G.O. 20 DE JUNIO DE 2019)
 
 V. A las Artes y Humanidades;
 
@@ -149,7 +149,7 @@ La Medalla Veracruz a los Servidores Públicos se otorgará a los servidores pú
 
 ###### Artículo 13.
 
-La Medalla Veracruz a las Ciencias, se otorgará a las personas cuyas producciones o trabajos docentes, de investigación, divulgación o de aplicación, hayan contribuido al progreso científico.
+(DEROGADO, G.O. 20 DE JUNIO DE 2019)
 
 ###### Artículo 14.
 
@@ -371,6 +371,38 @@ La Comisión Especial formulará un dictamen con el nombre de la mujer que se co
 
 El Premio Estatal a la Mujer consistirá en una medalla que se entregará en el mes de marzo, en sesión solemne del Pleno, en el marco de la conmemoración del Día Internacional de la Mujer.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE JUNIO DE 2019)</small>
+
+### Capítulo Octavo. De la Medalla Heberto Castillo Martínez
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2019)</small>
+
+Artículo 23 Undecies. Esta medalla la concederá el Congreso del Estado anualmente al ciudadano o ciudadana veracruzano que se distinga por su aportación a la investigación, divulgación o aplicación de la ciencia y que haya contribuido al desarrollo del Estado o del país.
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2019)</small>
+
+Artículo 23 Duodecies. El otorgamiento de la Medalla Heberto Castillo Martínez se sujetará al procedimiento siguiente:
+
+I. En el mes de junio, la Comisión Permanente de Ciencia y Tecnología emitirá la convocatoria para que se proponga a las ciudadanas o ciudadanos veracruzanos que se consideren merecedores de la distinción;
+
+II. Concluido el plazo de la convocatoria, la Comisión seleccionará de entre los ciudadanos propuestos a tres, que a su juicio sean los de mayores méritos para recibir la distinción, fundando y motivando su decisión en el dictamen que elabore al respecto;
+
+III. Las propuestas que contenga la terna se acompañarán de una semblanza y exposición de motivos; y
+
+IV. El dictamen de la Comisión se someterá a la consideración del Pleno, el cual decidirá a quién se otorgará la Medalla por el voto de la mayoría de sus integrantes.
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2019)</small>
+
+Artículo 23 Terdecies. La Medalla Heberto Castillo Martínez y un diploma alusivo al acto serán entregados cada año en sesión solemne del Congreso del Estado, celebrada el día 23 de agosto, con la presencia del Titular del Poder Ejecutivo y del Presidente del Tribunal Superior de Justicia del Estado.
+
+> <small>(ADICIONADO, G.O. 20 DE JUNIO DE 2019)</small>
+
+Artículo 23 Quaterdecies. La Medalla Heberto Castillo Martínez tendrá las características siguientes:
+
+I. En el anverso, al centro el Escudo del Estado de Veracruz de Ignacio de la Llave en relieve escultórico con las leyendas en el exergo “Estado Libre y Soberano de Veracruz de Ignacio de la Llave”; y
+
+II. En el reverso, al centro el busto del Ingeniero Heberto Castillo Martínez, en relieve escultórico con la leyenda, en el exergo superior, Medalla “Heberto Castillo Martínez”.
+
 ## TÍTULO SEGUNDO. DE LA ROTONDA DE LOS HOMBRES ILUSTRES DEL ESTADO DE VERACRUZ
 
 ###### Artículo 24.
@@ -473,8 +505,16 @@ G.O. 17 DE FEBRERO DE 2017.
 
 G.O. 22 DE FEBRERO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 619 QUE REFORMA EL ARTÍCULO 19 Y LAS FRACCIONES I Y III DEL ARTÍCULO 20 DE LA LEY DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LLAVE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 619 QUE REFORMA EL ARTÍCULO 19 Y LAS FRACCIONES I Y III DEL ARTÍCULO 20 DE LA LEY DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 262 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
