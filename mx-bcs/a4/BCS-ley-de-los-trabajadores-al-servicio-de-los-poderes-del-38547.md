@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2018-08-10"
+last_updated: "2019-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2019.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -132,6 +132,10 @@ Son irrenunciables los derechos que la presente Ley y demás disposiciones otorg
 ###### ARTICULO 12.
 
 En lo no previsto en esta Ley, se aplicarán supletoriamente y en su orden la Ley Federal del Trabajo, los principios generales del derecho, los principios generales de justicia social que se deriven del artículo 123 apartado b) de la Constitución Política de los Estados Unidos Mexicanos, la jurisprudencia y tesis de los tribunales federales, el Código de Procedimientos Civiles para el Estado de Baja California Sur, las leyes del orden común y la equidad.
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 2019)</small>
+
+De conformidad con lo establecido en los artículos 1°, párrafo tercero de la Constitución Política de los Estados Unidos Mexicanos y 7° de la Constitución Política del Estado Libre y Soberano de Baja California Sur, en la interpretación y aplicación de la presente Ley, será obligatoria la observancia del principio pro persona.
 
 ## TITULO SEGUNDO. DERECHOS Y OBLIGACIONES DE LOS TRABAJADORES Y TITULARES
 
@@ -1498,3 +1502,11 @@ B.O. 10 DE AGOSTO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 20 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2610 SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 12 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO UNICO
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
