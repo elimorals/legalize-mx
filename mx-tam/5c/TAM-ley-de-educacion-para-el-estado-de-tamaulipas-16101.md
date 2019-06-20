@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2019-01-09"
+last_updated: "2019-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -429,13 +429,17 @@ Las autoridades educativas participarán en la actualización e integración per
 
 XXIII.- Participar con la autoridad educativa federal en la operación de los mecanismos de administración escolar;
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2019)</small>
 
-XXIV.- Fomentar y supervisar el uso responsable de las tecnologías de la información y la comunicación, en las Instituciones que integran el Sistema Educativo Estatal, con base en los lineamientos generales que emita la autoridad educativa federal; y
+XXIV.- Fomentar y supervisar el uso responsable de las tecnologías de la información y la comunicación, en las Instituciones que integran el Sistema Educativo Estatal, con base en los lineamientos generales que emita la autoridad educativa federal;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2019)</small>
+
+XXV.- Promover, con base en la capacidad presupuestal, la implementación de programas educativos en materia de primeros auxilios, simulacros y prevención de accidentes, en coordinación con las autoridades estatales y municipales competentes; y
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
 
-XXV.- Las demás que le establezcan las disposiciones aplicables.
+XXVI.- Las demás que le establezcan las disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 2014)</small>
 
@@ -615,13 +619,17 @@ III.- Colaborar con las instituciones educativas en las que estén inscritos sus
 
 IV.- Fomentar en sus hijas, hijos, pupilas y pupilos los valores cívicos y el aprecio por las tradiciones culturales y artísticas de nuestra entidad federativa.
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+(REFORMADA, P.O. 20 DE JUNIO DE 2019) (REPUBLICADA, P.O. 20 DE JUNIO DE 2019)
 
-V.- Propiciar un ambiente sin violencia en el núcleo familiar, privilegiando las conductas adecuadas y necesarias para poder convivir en sociedad; y
+V.- Propiciar un ambiente sin violencia en el núcleo familiar, privilegiando las conductas adecuadas y necesarias para poder convivir en sociedad;
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+(REFORMADA, P.O. 20 DE JUNIO DE 2019) (REPUBLICADA, P.O. 20 DE JUNIO DE 2019)
 
-VI. Inculcar a sus hijas, hijos, pupilas y pupilos el respeto a la autoridad del maestro o docente y a las normas de convivencia de las escuelas.
+VI.- Inculcar a sus hijas, hijos, pupilas y pupilos el respeto a la autoridad del maestro o docente y a las normas de convivencia de las escuelas; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE JUNIO DE 2019)</small>
+
+VII.- Revisar y supervisar las pertenencias de las y los educandos, con el objeto de prevenir actos violentos de cualquier naturaleza que puedan poner en riesgo el bienestar del entorno escolar.
 
 #### SECCION SEGUNDA. DE LOS EDUCANDOS
 
@@ -2280,3 +2288,27 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Lo dispuesto en el presente Decreto se aplicará de manera gradual, de conformidad con la suficiencia presupuestaria y la capacidad institucional del sector educativo del Estado de Tamaulipas.
+
+P.O. 20 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-787 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXIV; Y SE ADICIONA LA FRACCIÓN XXV, RECORRIÉNDOSE LA ACTUAL FRACCIÓN XXV PARA SER XXVI DEL ARTÍCULO 12 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-795 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES V Y VI; Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 15 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-800 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES V Y VI, Y SE ADICIONA LA FRACCIÓN VII DEL ARTÍCULO 15, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
