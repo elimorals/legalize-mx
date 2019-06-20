@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2017-07-18"
+last_updated: "2019-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -461,7 +461,7 @@ VI. En todo procedimiento se excluirá la prueba obtenida ilegalmente. A ser ind
 
 VII. El varón y la mujer son iguales ante la ley, a la igualdad de oportunidades en materia de trabajo, incluida la igualdad de retribución por labores similares;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
 VIII. Al ejercicio pleno de las libertades y derechos humanos aun aquellos de carácter difuso;
 
@@ -483,15 +483,23 @@ Nadie será sometido a tortura ni a penas o tratos inhumanos o degradantes;
 
 XI. Las libertades de trabajo, comercio e industria tendrán pleno respeto siempre que éstos sean lícitos. El ejercicio profesional se sujetará a la ley de la materia;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2019)</small>
 
-XII. Los menores de edad gozarán de sus derechos fundamentales; tienen derecho a la protección física y psicológica. Su opinión será tomada en cuenta en los asuntos que les afecten, en función de su edad y madurez.
+XII. Los menores de edad tienen derecho a la protección física y psicológica, y a que su opinión sea tomada en cuenta en los asuntos que les afecten, en función de su edad y madurez.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 En los procedimientos judiciales o administrativos en los que se resuelvan derechos de los menores, se observarán los principios y las garantías del debido proceso legal, atendiendo a las particularidades que se deriven de la situación específica en la que se encuentran los menores, adoptar en el desarrollo de estos procedimientos la intervención personal de los menores, así como las medidas de protección que sean indispensables; y
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
 XIII. Decidir libremente, bajo las prescripciones y excepciones que marque la ley de la materia; sobre sus órganos, tejidos y células para destinarlos a la donación o para recibirlos en transplante (sic), sin fines de lucro y con el propósito de reducir la morbi-mortalidad por padecimientos susceptibles de ser corregidos mediante este procedimiento. Para tal efecto, el Estado promoverá la cultura de la donación de órganos, tejidos y células y proveerá los procedimientos necesarios para su acceso y aplicación.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2019)</small>
+
+ARTICULO 19 BIS.- Las niñas, niños y adolescentes gozarán de todos los derechos humanos, las autoridades velarán por el pleno ejercicio de estos y garantizarán su adecuada protección, atendiendo al principio rector del interés superior de la niñez, con especial énfasis en la primera infancia, la que comprende el rango de edad de la o el niño que transcurre desde su nacimiento, su primer año de vida y la transición de estos del período preescolar hacia el período escolar.
+
+Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de los derechos de la niñez; el Estado coadyuvará otorgando facilidades para dar cumplimiento a esos derechos, e implementará medidas especiales que garanticen, a las y los niños en primera infancia, condiciones adecuadas de salud, seguridad, nutrición, higiene, educación, saneamiento ambiental, acceso al agua potable, cuidado y protección para su óptimo desarrollo.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2259,7 +2267,7 @@ La Ley Municipal determinará las demás facultades y obligaciones de los Ayunta
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-## TITULO VIII. DE LOS ÓRGANOS AUTONOMOS
+## TITULO VIII. DE LOS ORGANOS AUTONOMOS
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2015)</small>
 
@@ -2401,7 +2409,7 @@ En la propaganda que difundan los partidos políticos y los candidatos deberán 
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-De acuerdo con las bases que determinan la Constitución Política de los Estados Unidos Mexicanos y esta Constitución y en los términos de la ley de la materia, se establecerá un sistema jurisdiccional estatal de medios de impugnación uniinstancial, para garantizar los principios de constitucionalidad y legalidad en materia electoral del Estado. Este sistema dará definitividad y legalidad a los distintos actos y etapas de los procesos electorales y garantizará la protección de los derechos político electorales de los ciudadanos.
+De acuerdo con las bases que determinan la Constitución Política de los Estados Unidos Mexicanos y esta Constitución y en los términos de la ley de la materia, se establecerá un sistema jurisdiccional estatal de medios de impugnación uniinstancial, para garantizar los principios de constitucionalidad y legalidad en materia electoral del Estado. Este sistema dará definitividad y legalidad a los distintos actos y etapas de los procesos electorales y garantizará la protección de los derechos político-electorales de los ciudadanos.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
 
@@ -2639,7 +2647,7 @@ II. Tener cuando menos treinta años cumplidos el día de su designación;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
-III. Poseer título y cédula profesional en algún área de las ciencias económico administrativas y tener experiencia de cinco años en materia de control, auditoria financiera y de responsabilidades;
+III. Poseer título y cédula profesional en algún área de las ciencias económico administrativas y tener experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades;
 
 IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de falsificación o delitos patrimoniales u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
@@ -3349,7 +3357,7 @@ P.O. 5 DE DICIEMBRE DE 2007.
 
 El presente Decreto entrará en vigor a partir del primer día hábil del mes de enero del año dos mil ocho, previa su publicación en el Periódico Oficial del Gobierno del Estado, con las salvedades siguientes:
 
-a). La Magistrada en funciones de la Sala Laboral Burocrática del Honorable Tribunal Superior de Justicia del Estado, Licenciada Maria Esther Juanita Munguia Herrera, concluirá su encargo a las veinticuatro horas del día doce de enero del año dos mil ocho:
+a). La Magistrada en funciones de la Sala Laboral Burocrática del Honorable Tribunal Superior de Justicia del Estado, Licenciada María Esther Juanita Munguia Herrera, concluirá su encargo a las veinticuatro horas del día doce de enero del año dos mil ocho:
 
 b). Del primer día hábil a la entrada en vigor de este Decreto y hasta el día once de enero del año dos mil ocho, el Tribunal de Conciliación y Arbitraje del Estado de Tlaxcala, deberá estar formalmente integrado; sus integrantes tomarán protesta y se instalarán el día trece de enero del mismo año, durante este plazo se dará cumplimiento a lo dispuesto por el artículo segundo transitorio, e
 
@@ -3826,3 +3834,19 @@ QUINTO. Se faculta a la Secretaría de Planeación y Finanzas, para dotar de los
 SEXTO. Una vez que entren en vigor las leyes secundarias que tengan relación con el Sistema Estatal Anticorrupción, el Tribunal Superior de Justicia y la Procuraduría General de Justicia deberán de realizar las adecuaciones respectivas a su marco jurídico.
 
 SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 57.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN XII, DEL ARTÍCULO 19; Y SE ADICIONA UN ARTÍCULO 19 BIS; TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado de Tlaxcala, para el debido cumplimiento a este precepto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
