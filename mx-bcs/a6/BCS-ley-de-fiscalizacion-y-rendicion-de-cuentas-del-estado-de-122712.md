@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12271
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-17"
-last_updated: "2019-04-20"
+last_updated: "2019-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2019.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Gobierno del Estado de Baja California Sur, el lunes 17 de Julio de 2017.
 
@@ -1033,7 +1033,9 @@ Para ejercer el cargo de Auditor Especial se deberán cumplir los siguientes req
 
 I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Tener por lo menos treinta y dos años cumplidos al día de su designación;
+> <small>(REFORMADA, B.O. 20 DE JUNIO DE 2019)</small>
+
+II. Tener por lo menos veintiocho años cumplidos al día de su designación;
 
 III. Cumplir con los requisitos que para el Titular de la Auditoría Superior del Estado de Baja California Sur se establecen en las fracciones V y VI del artículo 66 quinquies de la Constitución Política del Estado Libre y Soberano de Baja California Sur;
 
@@ -1318,3 +1320,9 @@ B.O. 20 DE ABRIL DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2608 SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 91 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
