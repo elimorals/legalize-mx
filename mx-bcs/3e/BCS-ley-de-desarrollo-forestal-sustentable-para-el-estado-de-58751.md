@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-58751"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2016-10-31"
+last_updated: "2019-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de diciembre de 2007.
 
@@ -453,7 +453,9 @@ III.- Diseñar, formular y aplicar, en concordancia con la política nacional y 
 
 IV.- Promover programas y proyectos de educación, capacitación, investigación y cultura forestal;
 
-V.- Participar y coadyuvar en las acciones de prevención y combate de incendios forestales en coordinación con los gobiernos federal y estatal, y participar en la atención, en general, de las emergencias y contingencias forestales, de acuerdo con los programas de protección civil;
+> <small>(REFORMADA, B.O. 20 DE JUNIO DE 2019)</small>
+
+V.- La autoridad municipal deberá atender el combate inicial de incendios forestales; y en el caso de que éstos superen su capacidad operativa de respuesta, acudirá a la instancia estatal. Si ésta resultase insuficiente, se procederá a informar a la CONAFOR, la cual actuará de acuerdo con los programas y procedimientos respectivos.
 
 VI.- Desarrollar y apoyar viveros y programas de producción de plantas;
 
@@ -1081,7 +1083,9 @@ La Secretaría, en el marco de la coordinación institucional prevista en la Ley
 
 El Gobierno del Estado y los Ayuntamientos, procurarán la participación de los organismos de los sectores social y privado, para los efectos señalados en el párrafo que antecede y organizará campañas permanentes de educación, capacitación y difusión de las medidas para prevenir, combatir y controlar los incendios forestales.
 
-Quienes hagan uso del fuego en contravención de las disposiciones de las normas mencionadas, recibirán las sanciones que prevé la presente ley, sin perjuicio de las establecidas en las leyes penales. La autoridad municipal deberá atender el combate y control de incendios; y en el caso de que los mismos superen su capacidad financiera y operativa de respuesta, acudirá a la Secretaría. Si ésta resultase insuficiente, se procederá a informar a la CONAFOR, la cual actuará de acuerdo con los programas y procedimientos respectivos.
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2019)</small>
+
+Quienes hagan uso del fuego en contravención de las disposiciones de las normas mencionadas, recibirán las sanciones que prevé la presente ley, sin perjuicio de las establecidas en las leyes penales. La autoridad municipal deberá atender el combate inicial de incendios forestales; y en el caso de que éstos superen su capacidad operativa de respuesta, acudirá a la instancia estatal. Si ésta resultase insuficiente, se procederá a informar a la CONAFOR, la cual actuará de acuerdo con los programas y procedimientos respectivos.
 
 ###### ARTÍCULO 90.
 
@@ -1121,7 +1125,7 @@ Será obligatorio para las Autoridades Estatal y Municipal, incluir en sus Plane
 
 ###### ARTÍCULO 97.
 
-Cuando por causa de utilidad pública sea necesario reforestar en predios de propiedad particular, la Secretaría realizará la declaratoria correspondiente, coordinándose con el propietario o poseedor e instrumentando lo necesario a fin de Ilevarlo a cabo, de acuerdo a lo establecido en el reglamento de esta ley.
+Cuando por causa de utilidad pública sea necesario reforestar en predios de propiedad particular, la Secretaría realizará la declaratoria correspondiente, coordinándose con el propietario o poseedor e instrumentando lo necesario a fin de llevarlo a cabo, de acuerdo a lo establecido en el reglamento de esta ley.
 
 ## TITULO SEXTO. DEL FOMENTO AL DESARROLLO FORESTAL
 
@@ -1594,3 +1598,9 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 20 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2612 SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 17 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 89 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMA EL ARTÍCULO 369 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+Único.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
