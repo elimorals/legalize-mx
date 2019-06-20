@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2019-03-20"
+last_updated: "2019-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE JUNIO DE 2019.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -1407,9 +1407,11 @@ ARTICULO 241
 
 El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
 
+> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2019)</small>
+
 ARTICULO 242
 
-Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
+Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos. Determinados por convenio o sentencia, los alimentos tendrán un incremento automático mínimo equivalente al aumento porcentual del salario mínimo general diario que corresponda, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiere obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
 
 ARTICULO 243
 
@@ -4937,7 +4939,7 @@ La propiedad puede ser ocupada contra la voluntad de su dueño, por causa de uti
 
 ARTICULO 872
 
-Se considerará procedente la expropiación por causa de utilidad pública, siempre que sea indispensable para satisfacer alguna necesidad pública o social, semejante a las que en seguida se enumeran:
+Se considerará procedente la expropiación por causa de utilidad pública, siempre que sea indispensable para satisfacer alguna necesidad pública o social, semejante a las que en seguida (sic) se enumeran:
 
 I.- Fraccionamiento de latifundios propios para la agricultura o la ganadería;
 
@@ -9095,7 +9097,7 @@ La mayoría de los interesados, o la autorización judicial en su caso, determin
 
 ARTICULO 1700
 
-Aprobados el inventario y la cuenta de administración, el albacea debe hacer en seguida la partición de la herencia.
+Aprobados el inventario y la cuenta de administración, el albacea debe hacer en seguida (sic) la partición de la herencia.
 
 ARTICULO 1701
 
@@ -16428,6 +16430,14 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 20 DE MARZO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 239 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 117 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 60 DEL CÓDIGO DE DERECHOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y LA FRACCIÓN XVI DEL ARTÍCULO 103 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; SE ADICIONA EL ARTÍCULO 652 BIS AL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y SE DEROGAN LOS ARTÍCULOS 77, 78 Y 79 DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 253 QUE REFORMA EL ARTÍCULO 242 DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ".]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
