@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-prevenir-y-eliminar-la-discriminacion-del-estado-96886
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-27"
-last_updated: "2017-09-14"
+last_updated: "2019-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2019.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 27 de noviembre de 2013.
 
@@ -124,6 +124,10 @@ I. Impedir el acceso o la permanencia a la educación pública o privada, así c
 II. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la igualdad o que difundan una condición de subordinación;
 
 III. Prohibir la libre elección de empleo, o restringir las oportunidades de acceso, permanencia y ascenso en el mismo;
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2019)</small>
+
+III Bis. Emitir convocatorias de vacantes laborales que atenten la dignidad humana o tengan por objeto menoscabar los derechos o libertades de las personas;
 
 IV. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales;
 
@@ -488,3 +492,11 @@ P.O. 14 DE SEPTIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas (sic) disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 6 BIS DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
