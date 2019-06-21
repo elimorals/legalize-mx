@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-las-personas-con-discapacidad-del-estado-de-puebla-661
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2018-12-10"
+last_updated: "2019-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2019.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -63,63 +63,57 @@ Son sujetos de esta Ley, los individuos que de conformidad con la misma sean con
 
 Compete al Ejecutivo del Estado a través de la Secretaría de Salud, mediante el programa establecido dentro del Sistema para el Desarrollo Integral de la Familia del Estado, coordinar y verificar el cumplimiento de las acciones que establece la presente Ley.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2019)</small>
+
 ###### Artículo 4.
 
-Para efectos de la aplicación de esta Ley se entiende por:
+Para los efectos de esta Ley se entenderá por:
 
-I.- Deficiencia: La pérdida o anormalidad permanente o transitoria de carácter psicológico, fisiológico o anatómico de alguna estructura o función;
+I.- Accesibilidad: Combinación de elementos constructivos, operativos, y organizacionales que permiten a cualquier persona con diferente tipo y grado de discapacidad entrar, desplazarse, salir, orientarse, comunicarse, informarse y desarrollarse en todos los ámbitos de la vida, de manera segura, autónoma, cómoda y adecuada a sus necesidades en espacios, mobiliarios, equipos y servicios;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+II.- Deficiencia: La pérdida o anormalidad permanente o transitoria de carácter psicológico, fisiológico o anatómico de alguna estructura o función;
 
-II.- Discapacidad: Es la consecuencia de la presencia de una deficiencia o limitación física, mental, intelectual o sensorial, en una persona, ya sea de naturaleza permanente o temporal, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
+III.- Discapacidad: Es la consecuencia de la presencia de una deficiencia o limitación física, mental, intelectual y sensorial en una persona, ya sea de naturaleza permanente o temporal, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
-III.- Impedimento: La incapacidad que constituye una desventaja para una persona, en cuanto limite o impida el cumplimiento de una función que es normal según sea la edad, el sexo, los factores sociales y culturales;
+IV.- Discapacidad Física: Es la secuela o malformación que deriva de una afección en el sistema neuromuscular a nivel central o periférico, dando como resultado alteraciones en el control del movimiento y la postura;
 
-IV.- Índice Apgar: El sistema de puntuación que permite valorar la calidad de presión respiratoria y respuesta neurológica al momento del nacimiento, mediante la calificación de ciertos signos físicos;
+V.- Discapacidad Intelectual: Se caracteriza por limitaciones significativas tanto en la estructura del pensamiento razonado, como en la conducta adaptativa de la persona;
 
-V.- Legislación Asistencial: La Ley sobre el Sistema Estatal de Asistencia Social;
+VI.- Discapacidad Mental: A la alteración o deficiencia en el sistema neuronal de una persona, que aunado a una sucesión de hechos que no puede manejar, detona un cambio en su comportamiento que dificulta su pleno desarrollo y convivencia social;
 
-VI.- Legislación Sanitaria: La Ley Estatal de Salud;
+VII.- Discapacidad Sensorial: Es la deficiencia estructural o funcional de los órganos de la visión, audición, tacto, olfato y gusto, así como de las estructuras y funciones asociadas a cada uno de ellos;
 
-VII.- Legislación Vial: Ordenamiento que en materia de tránsito y vialidad emita el Estado así como los Municipios, en sus respectivos ámbitos de competencia;
+VIII.- Educación Especial: Conjunto de servicios, programas, orientación y recursos educativos especializados, que favorece la eliminación de barreras físicas, sensoriales, afectivas y cognitivas para el acceso, aprendizaje, y participación de las personas que padecen algún tipo de discapacidad, así como aquellos con capacidades y aptitudes sobresalientes, que no logran acceder a la escolaridad regular, en ella se favorecerá su desarrollo integral, y se facilitará la adquisición de habilidades y destrezas que les capaciten para lograr los fines de la educación; así mismo se promoverá su inserción en la escuela regular;
 
-VIII.- Ley: El presente ordenamiento;
+IX.- Igualdad de Oportunidades: Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación, con el goce o ejercicio en paridad de condiciones de todos los derechos y libertades fundamentales;
 
-IX.- Lugares con acceso al público: Los inmuebles del dominio público de propiedad particular que, en razón de la naturaleza principal de las actividades que en ellos se realizan, permitan el libre tránsito de las personas y, en su caso, de sus vehículos;
+X.- Impedimento: La incapacidad que constituye una desventaja para una persona, en cuanto limite o impida el cumplimiento de una función que es normal según sea la edad, el sexo, los factores sociales y culturales;
 
-X.- Minusvalía: Es la limitación o pérdida de oportunidades de participar en la vida de la comunidad en condiciones de igualdad con los demás;
+XI.- Inclusión: Impulso y transformación de la administración pública y la sociedad para la inserción total de las personas con algún tipo y grado de discapacidad en las áreas de salud, trabajo, educación, transporte, servicios y demás materias para el desarrollo de una vida en condiciones normales, que provoca el diseño y aplicación de políticas públicas no discriminatorias;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+XII.- Índice Apgar: El sistema de puntuación que permite valorar la calidad de presión respiratoria y respuesta neurológica al momento del nacimiento, mediante la calificación de ciertos signos físicos;
 
-XI.- Persona con Discapacidad: La que por deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, se encuentra limitada para ejercer o interactuar en una o más actividades esenciales de la vida diaria, lo que le impide estar en igualdad de condiciones para con los demás.
+XIII.- Legislación Asistencial: La Ley sobre el Sistema Estatal de Asistencia Social;
 
-XII.- Reglamento de Construcciones: Los Reglamentos de Construcciones expedidos por los Ayuntamientos de los Municipios del Estado;
+XIV.- Legislación Sanitaria: La Ley Estatal de Salud;
 
-XIII.- Senescentes: Persona que en razón de su edad padece disminución o limitación de sus facultades mentales, visión o audio;
+XV.- Legislación Vial: Ordenamiento que en materia de tránsito y vialidad (sic) emita el Estado, así como los Municipios, en sus respectivos ámbitos de competencia;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+XVI.- Ley: Ley para las Personas con Discapacidad del Estado de Puebla;
 
-XIV.- Sistema DIF: Sistema para el Desarrollo Integral de la Familia del Estado de Puebla;
+XVII.- Lugares con acceso al público: Los inmuebles del dominio público de propiedad particular que, en razón de la naturaleza principal de las actividades que en ellos se realizan, permitan el libre tránsito de las personas y, en su caso, de sus vehículos;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+XVIII.- Minusvalía: Es la limitación o pérdida de oportunidades de participar en la vida de la comunidad en condiciones de igualdad con los demás;
 
-XV.- Vía Pública: Los espacios terrestres, de uso común, destinados al tránsito;
+XIX.- Persona con Discapacidad: La que por deficiencia física, mental, intelectual y sensorial ya sea de naturaleza permanente o temporal, se encuentra limitada para ejercer o interactuar en una o más actividades esenciales de la vida diaria, lo que le impide estar en igualdad de condiciones para con los demás;
 
-> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2011)</small>
+XX.- Reglamento de Construcciones: Los Reglamentos de Construcciones expedidos por los Ayuntamientos de los Municipios del Estado;
 
-XVI.- Accesibilidad.- Combinación de elementos constructivos, operativos, y organizacionales que permiten a cualquier persona con diferente tipo y grado de discapacidad entrar, desplazarse, salir, orientarse, comunicarse, informarse y desarrollarse en todos los ámbitos de la vida, de manera segura, autónoma, cómoda y adecuada a sus necesidades en espacios, mobiliarios, equipos y servicios;
+XXI.- Senescentes: Persona que en razón de su edad padece disminución o limitación de sus facultades mentales, visión o audio;
 
-> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2011)</small>
+XXII.- Sistema DIF: Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, y
 
-XVII.- Inclusión.- Impulso y transformación de la administración pública y la sociedad para la inserción total de las personas con algún tipo de grado de discapacidad en las áreas de salud, trabajo, educación, transporte, servicios y demás materias para el desarrollo de· una vida en condiciones normales, que provoca el diseño y aplicación de políticas públicas no discriminatorias;
-
-> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2011)</small>
-
-XVIII.- Educación Especial.- Conjunto de servicios, programas, orientación y recursos educativos especializados, que favorece la eliminación de barreras físicas, sensoriales, afectivas y cognitivas para el acceso, aprendizaje, y participación de las personas que padecen algún tipo de discapacidad, así como aquellos con capacidades y aptitudes sobresalientes, que no logran acceder a la escolaridad regular, en ella se favorecerá su desarrollo integral, y se facilitará la adquisición de habilidades y destrezas que les capaciten para lograr los fines de la educación; así mismo se promoverá su inserción en la escuela regular; y
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
-
-XIX.- Igualdad de Oportunidades: Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación, con el goce o ejercicio en paridad de condiciones de todos los derechos y libertades fundamentales.
+XXIII.- Vía Pública: Los espacios terrestres, de uso común, destinados al tránsito.
 
 ###### Artículo 5.
 
@@ -876,6 +870,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 10 DE DICIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 4, LOS INCISOS C), G) Y H) DEL ARTÍCULO 10, Y ADICIONA LOS INCISOS I) A L) AL ARTÍCULO 10, TODOS DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 4 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
