@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-victimas-para-el-estado-de-puebla-10099
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-19"
-last_updated: "2014-11-27"
+last_updated: "2019-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCIÓN A LAS VÍCTIMAS PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2019.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 19 de mayo de 2014.
 
@@ -91,9 +91,9 @@ V. Ley: La Ley de Protección a las Víctimas para el Estado de Puebla;
 
 VI. Ley General: La Ley General de Víctimas;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2019)</small>
 
-VII. Procuraduría: La Procuraduría General de Justicia del Estado de Puebla;
+VII. Fiscalía: La Fiscalía General del Estado de Puebla;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
@@ -103,11 +103,13 @@ VIII. Reglamento: El Reglamento de la Ley de Protección a las Víctimas para el
 
 IX. Comisión de Derechos Humanos: La Comisión de Derechos Humanos del Estado de Puebla.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 5.
 
-Los derechos a que se refiere esta Ley y la Ley General en favor de las víctimas del delito serán ministrados por las autoridades que la misma establece, en el ámbito de su competencia, por la Procuraduría y por las dependencias y áreas a las que ésta las canalice.
+Los derechos a que se refiere esta Ley y la Ley General en favor de las víctimas del delito serán ministrados por las autoridades que la misma establece, en el ámbito de su competencia, por la Fiscalía y por las dependencias y áreas a las que ésta las canalice.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 Los derechos a que se refiere esta Ley y la Ley General en favor de las víctimas de violaciones a derechos humanos, serán ministrados por las autoridades que la misma establece, en el ámbito de su competencia, por la Comisión de Derechos Humanos, sus Visitadurías Generales y por las dependencias y áreas a las que ésta las canalice.
 
@@ -121,7 +123,9 @@ En la aplicación de esta Ley, también se observarán, en lo conducente, las di
 
 La Comisión Ejecutiva es la instancia de coordinación de las autoridades responsables de la atención a las víctimas en el Estado. Se conformará de la siguiente manera:
 
-I. El Procurador General de Justicia del Estado, quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2019)</small>
+
+I. La Persona Titular de la Fiscalía General del Estado de Puebla, quien fungirá como Presidente;
 
 II. El Titular de la Comisión de Derechos Humanos, en calidad de secretario técnico;
 
@@ -141,9 +145,11 @@ A invitación de la Comisión Ejecutiva, podrán participar, con derecho a voz, 
 
 El Reglamento establecerá las atribuciones y funciones de la Comisión Ejecutiva.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2019)</small>
+
 ###### ARTÍCULO 9.
 
-La Comisión Ejecutiva se reunirá al menos cada tres meses en forma ordinaria y las veces que sea necesario en forma extraordinaria, en términos del orden del día que generen la Procuraduría y la Comisión de Derechos Humanos; en sus sesiones se promoverá la asistencia de invitados, en su caso, de representantes de víctimas y de derechos humanos; el orden del día incluirá la participación de voz de éstos, en caso que así lo soliciten.
+La Comisión Ejecutiva se reunirá al menos cada tres meses en forma ordinaria y las veces que sea necesario en forma extraordinaria, en términos del orden del día que generen la Fiscalía y la Comisión de Derechos Humanos; en sus sesiones se promoverá la asistencia de invitados, en su caso, de representantes de víctimas y de derechos humanos; el orden del día incluirá la participación de voz de éstos, en caso que así lo soliciten.
 
 ###### ARTÍCULO 10.
 
@@ -313,7 +319,9 @@ XXV. A que se les otorgue, en los casos que procedan, la ayuda provisional corre
 
 XXVI. A optar por la solución de conflictos conforme a las reglas de la justicia alternativa, a través de la mediación o la conciliación.
 
-La Procuraduría llevará un registro y un análisis de evaluación de resultados sobre los casos en que la víctima haya optado por alguna de las vías de solución alterna del conflicto;
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2019)</small>
+
+La Fiscalía llevará un registro y un análisis de evaluación de resultados sobre los casos en que la víctima haya optado por alguna de las vías de solución alterna del conflicto;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
@@ -343,13 +351,17 @@ II. Asistencia. Conjunto integrado de mecanismos, procedimientos, programas, med
 
 III. Protección. Apoyo y auxilio que se les preste para garantizar su seguridad por parte de las autoridades obligadas de acuerdo con la Constitución Política de los Estados Unidos Mexicanos, esta Ley y demás ordenamientos.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2019)</small>
+
 ###### ARTÍCULO 17.
 
-En el ámbito de su competencia, los poderes en el Estado, las Autoridades Estatales y municipales, así como cualquiera de sus oficinas, dependencias, organismos o instituciones públicas o privadas, deben velar por sí, y en su caso, cooperar cuando así se los solicite la Procuraduría o la Comisión de Derechos Humanos, en términos de esta Ley, por y para la atención y protección de las víctimas, así como para proporcionar ayuda, asistencia y reparación integral.
+En el ámbito de su competencia, los poderes en el Estado, las Autoridades Estatales y municipales, así como cualquiera de sus oficinas, dependencias, organismos o instituciones públicas o privadas, deben velar por sí, y en su caso, cooperar cuando así se los solicite la Fiscalía o la Comisión de Derechos Humanos, en términos de esta Ley, por y para la atención y protección de las víctimas, así como para proporcionar ayuda, asistencia y reparación integral.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 18.
 
-Para brindar la ayuda, asistencia y reparación integral de las víctimas del delito y las víctimas de violaciones a los derechos humanos, la Procuraduría y la Comisión de Derechos Humanos, a través del Fondo de Ayuda, Asistencia y Reparación Integral a Víctimas del Delito y del Fondo de Ayuda, Asistencia y Reparación Integral a Víctimas de violaciones a Derechos Humanos, respectivamente, podrán autorizar la aplicación de recursos en términos de las disposiciones de esta Ley y de su Reglamento.
+Para brindar la ayuda, asistencia y reparación integral de las víctimas del delito y las víctimas de violaciones a los derechos humanos, la Fiscalía y la Comisión de Derechos Humanos, a través del Fondo de Ayuda, Asistencia y Reparación Integral a Víctimas del Delito y del Fondo de Ayuda, Asistencia y Reparación Integral a Víctimas de violaciones a Derechos Humanos, respectivamente, podrán autorizar la aplicación de recursos en términos de las disposiciones de esta Ley y de su Reglamento.
 
 ###### ARTÍCULO 19.
 
@@ -585,21 +597,29 @@ VII. Utilizar todos los mecanismos nacionales e internacionales para que de mane
 
 VIII. Recomendar las reparaciones a favor de las víctimas de violaciones a los derechos humanos, con base en los estándares y elementos establecidos en la presente Ley.
 
-### CAPÍTULO IV. DE LA ATENCIÓN A LAS VÍCTIMAS POR LA PROCURADURÍA Y POR LA COMISIÓN DE DERECHOS HUMANOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JUNIO DE 2019)</small>
+
+### CAPÍTULO IV. DE LA ATENCIÓN A LAS VÍCTIMAS POR LA FISCALÍA Y POR LA COMISIÓN DE DERECHOS HUMANOS
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 35.
 
-La Procuraduría implementará las políticas y estrategias necesarias para que las víctimas del delito tengan la protección efectiva, urgente o de reparación integral, a las personas que se les reconozca su calidad de víctima, en términos de esta Ley.
+La Fiscalía implementará las políticas y estrategias necesarias para que las víctimas del delito tengan la protección efectiva, urgente o de reparación integral, a las personas que se les reconozca su calidad de víctima, en términos de esta Ley.
 
-La Procuraduría será la encargada de la operatividad en la protección a las víctimas de delitos.
+La Fiscalía será la encargada de la operatividad en la protección a las víctimas de delitos.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 36.
 
-La atención y asistencia necesarias de urgencia o de reparación integral a quienes acrediten el daño o menoscabo de los derechos en términos de esta Ley, serán proporcionadas por la Procuraduría por sí, o en coordinación con las instancias públicas o privadas competentes, teniendo éstas la potestad de subrogarse por ministerio de esta Ley en sus derechos a la reparación del daño, por el costo total de las medidas otorgadas, en contra del obligado a la reparación del daño o de la aseguradora en su caso.
+La atención y asistencia necesarias de urgencia o de reparación integral a quienes acrediten el daño o menoscabo de los derechos en términos de esta Ley, serán proporcionadas por la Fiscalía por sí, o en coordinación con las instancias públicas o privadas competentes, teniendo éstas la potestad de subrogarse por ministerio de esta Ley en sus derechos a la reparación del daño, por el costo total de las medidas otorgadas, en contra del obligado a la reparación del daño o de la aseguradora en su caso.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 37.
 
-La Procuraduría ejercerá el procedimiento económico coactivo para hacer efectiva la subrogación del monto de la reparación, sin perjuicio de que dicho cobro pueda reclamarse por la victima, o las instituciones a las que se refiere el artículo anterior, para cobrar la reparación del daño del sentenciado o de quien esté obligado a cubrirla, en la vía civil en términos de las disposiciones que resulten aplicables.
+La Fiscalía ejercerá el procedimiento económico coactivo para hacer efectiva la subrogación del monto de la reparación, sin perjuicio de que dicho cobro pueda reclamarse por la víctima, o las instituciones a las que se refiere el artículo anterior, para cobrar la reparación del daño del sentenciado o de quien esté obligado a cubrirla, en la vía civil en términos de las disposiciones que resulten aplicables.
 
 ###### ARTÍCULO 38.
 
@@ -615,13 +635,17 @@ IV. El otorgamiento de los servicios funerarios, consistentes en: traslado del c
 
 V. La canalización en su caso de las víctimas, a instituciones de asistencia que operen en el Estado.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2019)</small>
+
 ###### ARTÍCULO 39.
 
-A efecto de ampliar al máximo la cobertura que esta Ley señala, la Procuraduría deberá actuar en el interior del Estado por medio del personal que se ubicará en las agencias del Ministerio Público.
+A efecto de ampliar al máximo la cobertura que esta Ley señala, la Fiscalía deberá actuar en el interior del Estado por medio del personal que se ubicará en las agencias del Ministerio Público.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 40.
 
-La Procuraduría y la Comisión de Derechos Humanos brindarán, con la participación del Sistema para el Desarrollo Integral de la Familia, los organismos públicos de asistencia social, estatal y municipal, el alojamiento y la alimentación durante el tiempo que sea necesario para garantizar que la víctima que se encuentre en especial condición de vulnerabilidad o que se encuentre amenazada o desplazada de su lugar de residencia por causa del delito cometido contra ella o de la violación de sus derechos humanos, supere las condiciones de emergencia y pueda retomar libremente en condiciones seguras y dignas a su hogar. Los servicios serán contratados o brindados directamente, en términos del Reglamento.
+La Fiscalía y la Comisión de Derechos Humanos brindarán, con la participación del Sistema para el Desarrollo Integral de la Familia, los organismos públicos de asistencia social, estatal y municipal, el alojamiento y la alimentación durante el tiempo que sea necesario para garantizar que la víctima que se encuentre en especial condición de vulnerabilidad o que se encuentre amenazada o desplazada de su lugar de residencia por causa del delito cometido contra ella o de la violación de sus derechos humanos, supere las condiciones de emergencia y pueda retornar libremente en condiciones seguras y dignas a su hogar. Los servicios serán contratados o brindados directamente, en términos del Reglamento.
 
 ###### ARTÍCULO 41.
 
@@ -633,9 +657,11 @@ Los servicios a que se refiere la presente Ley, tomarán en cuenta la gravedad d
 
 ### CAPÍTULO V. COMPENSACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2019)</small>
+
 ###### ARTÍCULO 43.
 
-Para efectos de la compensación subsidiaria a que tienen derechos, las víctimas, en aquellos casos en que la víctima del delito haya sufrido daño o menoscabo a su libertad, o si la víctima directa hubiera fallecido o sufrido un deterioro incapacitante en su integridad física y/o mental, la Procuraduría, en términos de las disposiciones reglamentarias correspondientes, deberá cuantificar los bienes y servicios que al efecto deben proporcionar las Autoridades Locales como parte de la compensación a la que tiene derecho la víctima del delito.
+Para efectos de la compensación subsidiaria a que tienen derechos (sic) las víctimas, en aquellos casos en que la víctima del delito haya sufrido daño o menoscabo a su libertad, o si la víctima directa hubiera fallecido o sufrido un deterioro incapacitante en su integridad física y/o mental, la Fiscalía, en términos de las disposiciones reglamentarias correspondientes, deberá cuantificar los bienes y servicios que al efecto deben proporcionar las Autoridades Locales como parte de la compensación a la que tiene derecho la víctima del delito.
 
 El Estado tendrá derecho a exigir que el sentenciado restituya los recursos erogados por concepto de la compensación subsidiaria otorgada a la víctima por el delito que aquél cometió.
 
@@ -663,27 +689,37 @@ Las formas de reparación simbólica deberán estar previamente acordadas por la
 
 El Reglamento determinará la autoridad responsable de velar por la efectiva reparación de los daños considerables al medio ambiente.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2019)</small>
+
 ###### ARTÍCULO 49.
 
-Si se determina legalmente que la conducta no fue delictiva, la Procuraduría informará a los interesados, de ser el caso, el derecho que les corresponde para deducir la acción respectiva por vía civil, dejando constancia de tal informe en el expediente respectivo.
+Si se determina legalmente que la conducta no fue delictiva, la Fiscalía informará a los interesados, de ser el caso, el derecho que les corresponde para deducir la acción respectiva por vía civil, dejando constancia de tal informe en el expediente respectivo.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 50.
 
-En caso de que se determine que la conducta no sea delictuosa y se hayan realizado erogaciones por parte del Fondo para atención de urgencia, la Procuraduría deducirá los derechos del Estado como subrogado legal, por conducto del área que dispongan las disposiciones reglamentarias; pero si tuviere carácter delictivo, esos derechos serán tutelados por el Ministerio Público en el proceso correspondiente.
+En caso de que se determine que la conducta no sea delictuosa y se hayan realizado erogaciones por parte del Fondo para atención de urgencia, la Fiscalía deducirá los derechos del Estado como subrogado legal, por conducto del área que dispongan las disposiciones reglamentarias; pero si tuviere carácter delictivo, esos derechos serán tutelados por el Ministerio Público en el proceso correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 51.
 
-Cuando un sentenciado a quien se le hubiere concedido la conmutación de la sanción de prisión por multa, no pudiere pagar ésta, la autoridad judicial lo notificará a la Procuraduría, la que con audiencia del propio sentenciado o de su defensor y con vista en los estudios de personalidad practicados a éste, y previa entrega de garantía, autorizará que el pago se efectúe mediante exhibiciones iguales, mensuales y sucesivas, dentro de un plazo que no excederá de cinco años, con un interés que en ningún caso podrá ser superior al que el propio fondo obtenga por sus inversiones, dentro del mismo periodo.
+Cuando un sentenciado a quien se le hubiere concedido la conmutación de la sanción de prisión por multa, no pudiere pagar ésta, la autoridad judicial lo notificará a la Fiscalía, la que con audiencia del propio sentenciado o de su defensor y con vista en los estudios de personalidad practicados a éste, y previa entrega de garantía, autorizará que el pago se efectúe mediante exhibiciones iguales, mensuales y sucesivas, dentro de un plazo que no excederá de cinco años, con un interés que en ningún caso podrá ser superior al que el propio fondo obtenga por sus inversiones, dentro del mismo periodo.
 
 Dicha autorización surtirá efectos, siempre y cuando el interesado entere ante la Secretaría de Finanzas y Administración, por conducto de la oficina recaudadora correspondiente, el 10% del importe de la multa dentro de las veinticuatro horas siguientes a que se expida la autorización, cuya copia respectiva, surtirá efectos de orden de pago. El duplicado oficial de los recibos que extienda la autoridad fiscal al efecto, también servirá de orden de pago en relación con las subsecuentes exhibiciones que deba efectuar el sentenciado en los términos de la autorización concedida.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2019)</small>
+
 ###### ARTÍCULO 52.
 
-Expedida la autorización y acreditado el pago a que se refiere el artículo precedente, la Procuraduría comunicará a la autoridad judicial dicha circunstancia, para que proceda a la libertad inmediata del sentenciado.
+Expedida la autorización y acreditado el pago a que se refiere el artículo precedente, la Fiscalía comunicará a la autoridad judicial dicha circunstancia, para que proceda a la libertad inmediata del sentenciado.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 53.
 
-Es obligación del sentenciado acreditar ante la Procuraduría, mediante la exhibición de los recibos correspondientes expedidos por la autoridad fiscal, que se encuentre al corriente en el cumplimiento de sus obligaciones de pago en los términos de la autorización concedida.
+Es obligación del sentenciado acreditar ante la Fiscalía, mediante la exhibición de los recibos correspondientes expedidos por la autoridad fiscal, que se encuentre al corriente en el cumplimiento de sus obligaciones de pago en los términos de la autorización concedida.
 
 ###### ARTÍCULO 54.
 
@@ -728,3 +764,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. Para la atención de las víctimas del delito de trata de personas, el Estado y sus municipios se deberán de coordinar atendiendo lo dispuesto por la Ley General de la materia.
 
 CUARTO. Las asesoras y asesores jurídicos de oficio de las víctimas, serán designados por la Institución correspondiente en la medida en que lo permita el presupuesto que se le asigne para tal fin.
+
+P.O. 21 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LAS VÍCTIMAS PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
