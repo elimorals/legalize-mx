@@ -4,7 +4,7 @@ identifier: "VER-ley-de-obras-publicas-y-servicios-relacionados-con-ellas-95031"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-16"
-last_updated: "2019-02-20"
+last_updated: "2019-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 825 DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JUNIO DE 2019.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 16 de abril de 2013.
 
@@ -1275,9 +1275,11 @@ Asimismo vigilará que quien deba operarla reciba oportunamente de la responsabl
 
 Quien reciba y bajo cuya responsabilidad quede una obra pública después de terminada, estará obligado a mantenerla en niveles apropiados de funcionamiento y vigilar que su uso, operación, mantenimiento y conservación se realicen conforme a los objetivos o acciones de los programas respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE JUNIO DE 2019)</small>
+
 ###### Artículo 72.
 
-El contratista será responsable de la ejecución de los trabajos y deberá sujetarse a los reglamentos y ordenamientos de las autoridades competentes en materia de construcción, seguridad, uso de la vía pública, protección ecológica y de medio ambiente que rijan en el ámbito federal, estatal o municipal, así como a las instrucciones que al efecto le señale el ente público. Las responsabilidades y los daños y perjuicios que resultaren por su inobservancia serán a cargo del contratista.
+El contratista será responsable de la ejecución de los trabajos y deberá sujetarse a los reglamentos y ordenamientos de las autoridades competentes en materia de construcción, seguridad, uso de la vía pública, protección civil, protección ecológica y de medio ambiente que rijan en el ámbito federal, estatal o municipal, así como a las instrucciones que al efecto le seña (sic) el ente público. Las responsabilidades y los daños y perjuicios que resultaren por su inobservancia serán a cargo del contratista.
 
 El Titular de la ejecutora será el Administrador del contrato, junto al Supervisor de Obra, serán corresponsables de la calidad y debida ejecución de la obra.
 
@@ -1456,3 +1458,11 @@ G.O. 20 DE FEBRERO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 261 QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 72 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
