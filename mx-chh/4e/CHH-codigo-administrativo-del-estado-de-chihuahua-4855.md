@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2018-05-19"
+last_updated: "2019-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2019.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -4575,7 +4575,7 @@ DE LAS OBLIGACIONES Y DERECHOS EN MATERIA EDUCATIVA DE QUIENES EJERCEN LA PATRIA
 
 ###### ARTICULO 843.
 
-Es causa de excepción, para liberar a los que ejercen la patria potestad de la obligación que les impone este Capítulo, la no existencia de instituciones especiales de educación, cuando se trate de niños atípicos.
+(DEROGADO, P.O. 22 DE JUNIO DE 2019)
 
 ###### ARTICULO 844.
 
@@ -4585,9 +4585,15 @@ I.- Denunciar las irregularidades en el funcionamiento de las instituciones a qu
 
 II.- Colaborar con las autoridades escolares para el mejoramiento moral y material de los planteles y de los educandos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2019)</small>
+
 ###### ARTICULO 845.
 
-Quienes protegen en sus hogares a niños huérfanos o desamparados están obligados a procurar su asistencia a una escuela primaria hasta terminar estudios.
+Quienes ejerzan la patria potestad, guarda y custodia, así como la tutela de niñas, niños y adolescentes con discapacidad, trastorno del espectro autista, con dificultades de aprendizaje, conducta o comunicación y/o aptitudes sobresalientes; garantizarán su asistencia a instituciones de educación preescolar, primaria, secundaria y media superior hasta terminar dichos estudios.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2019)</small>
+
+Si dentro del plantel educativo no existieren servicios de educación especial, el Estado deberá realizar los ajustes razonables en el plantel o, en su caso, proveer el establecimiento de centros educativos que brinden estos servicios, a fin de garantizar el goce y ejercicio, en igualdad de condiciones, del derecho humano a la educación.
 
 ###### ARTICULO 846.
 
@@ -11140,6 +11146,14 @@ P.O. 21 DE OCTUBRE DE 2017.
 P.O. 19 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFCOD/0752/2018 II P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 1637-R DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFCOD/0334/2019 II P.O., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
