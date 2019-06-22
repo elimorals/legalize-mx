@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-72604
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-18"
-last_updated: "2017-12-29"
+last_updated: "2019-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2019.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 18 de julio de 2009.
 
@@ -77,7 +77,9 @@ Las medidas, obras y acciones a que se refiere este artículo se deberán sujeta
 
 ###### Artículo 4º.
 
-Esta Ley es aplicable a la gestión y manejo integral de los residuos sólidos urbanos y de los residuos de manejo especial que se generen, acopien, almacenen, transporten y dispongan en el territorio del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2019)</small>
+
+Esta Ley es aplicable a la prevención, gestión y manejo integral de los residuos sólidos urbanos y de los residuos de manejo especial que se generen, acopien, almacenen, transporten y dispongan en el territorio del Estado.
 
 Quedan excluidos del ámbito de aplicación de esta Ley, la gestión y manejo integral de residuos peligrosos, salvo que se trate de acciones de autorización y control de actividades que realicen los microgeneradores de dichos residuos, conforme a la normativa federal aplicable y lo que establezcan los convenios o acuerdos de coordinación que suscriban para tales efectos el Ejecutivo Estatal, a través del Instituto Estatal de Ecología de Oaxaca, y la Secretaría de Medio Ambiente y Recursos Naturales, en los términos de la Ley General para la Prevención y Gestión Integral de los Residuos.
 
@@ -301,9 +303,11 @@ XXVII. Aplicar las medidas de seguridad e imponer las sanciones que correspondan
 
 XXVIII. Fomentar el manejo adecuado de residuos sólidos urbanos y de manejo especial; y
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2019)</small>
 
-XXIX. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
+XXIX.- Prevenir, controlar y eliminar la contaminación generada por el uso de popotes y bolsas de uso único de material polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial;
+
+XXX.- Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
 
 Las atribuciones que esta Ley confiere al Estado serán ejercidas por el Ejecutivo Estatal, a través del Instituto, salvo las que directamente correspondan al Gobernador del Estado por disposición expresa de esta Ley. Cuando se requiera de la intervención de otras dependencias del Ejecutivo del Estado, el Instituto ejercerá sus atribuciones en coordinación con las mismas, apegado a la normativa aplicable.
 
@@ -558,6 +562,14 @@ V. Alentar la innovación de procesos, métodos y tecnologías, para lograr un m
 ###### Artículo 28.
 
 Están obligados a formular y ejecutar planes de manejo, los medianos y grandes generadores, productores, importadores, exportadores y distribuidores de productos que al desecharse se convierten en residuos sólidos urbanos, y generadores de residuos de manejo especial, de conformidad con las Normas Oficiales Mexicanas y las Normas Ambientales Estatales.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2019)</small>
+
+Los responsables de la elaboración y distribución de productos o empaques que eventualmente constituyan residuos están obligados a incentivar a sus clientes a llevar mercancías en bolsas, redes, canastas, cajas u otros recipientes que puedan volver a ser utilizados y contar, fuera de sus establecimientos, con depósitos para colocar las bolsas, empaques u otros residuos.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2019)</small>
+
+Participar en el diseño e instrumentación de programas para reducir la generación de residuos, aprovechar su valor y darles un manejo ambientalmente adecuado, así como incentivar a los clientes a reciclar sus productos mediante el canje de artículos promocionales.
 
 ###### Artículo 29.
 
@@ -893,7 +905,15 @@ El Instituto, en coordinación con los Ayuntamientos interesados, instrumentará
 
 Las dependencias y entidades de los Gobiernos estatal y municipales, así como los órganos autónomos, establecerán en sus oficinas y dependencias sistemas de manejo ambiental, los cuales tendrán por objeto prevenir y minimizar la generación de residuos sólidos urbanos, su manejo responsable y su reutilización y reciclaje.
 
-Asimismo, dichas dependencias, entidades y órganos autónomos promoverán que en sus procesos de adquisiciones de bienes y servicios se opte por la utilización y el consumo responsable de productos amigables con el ambiente.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2019)</small>
+
+En sus procesos de adquisiciones de bienes y servicios, dichas dependencias, entidades y órganos autónomos optarán por productos amigables con el ambiente. La Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable vigilará el cumplimiento de ello.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2019)</small>
+
+Artículo 68 bis.
+
+Las dependencias y entidades de los tres Poderes que conforman el Gobierno del Estado de Oaxaca, los gobiernos municipales, así como los órganos autónomos del Estado tienen prohibido adquirir, usar o distribuir productos en envases o embalajes de un solo uso elaborados con tereftalato de polietileno, poliestireno expandido o polietileno, salvo que sean destinados a fines médicos o para la atención humanitaria.
 
 ###### Artículo 69.
 
@@ -1149,9 +1169,25 @@ IX. Mezclar residuos peligrosos con residuos sólidos urbanos y de manejo especi
 
 X. Confinar o depositar en rellenos sanitarios residuos en estado líquido que afecten su operación y funcionamiento.
 
+(NOTA: EL 14 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 8/2022, DECLARÓ LA INCONSTITUCIONALIDAD DE LA FRACCIÓN XI DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS GENERALES EL 21 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2019)</small>
+
+XI. VENDER, DISTRIBUIR O EMPLEAR ENVASES DE UN SOLO USO ELABORADOS CON TEREFTALATO DE POLIETILENO DESTINADOS AL AGUA U OTRAS BEBIDAS, SALVO QUE SEAN DESTINADOS PARA FINES MÉDICOS, EDUCATIVOS O PARA LA ATENCIÓN HUMANITARIA, Y;
+
+(NOTA: EL 14 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 8/2022, DECLARÓ LA INCONSTITUCIONALIDAD DE LA FRACCIÓN XII DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS GENERALES EL 21 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2019)</small>
+
+XII. VENDER, DISTRIBUIR O USAR ENVASES, EMBALAJES U OTROS PRODUCTOS DE UN SOLO USO ELABORADOS CON POLIESTIRENO EXPANDIDO.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2019)</small>
+
 ###### Artículo 99.
 
-Los establecimientos mercantiles con la categoría de medianos o grandes generadores, se abstendrán de proporcionar bolsas de plástico para transportar la mercancía adquirida, salvo que sean de material biodegradable o por razones de asepsia o conservación de alimentos o insumos.
+Para la protección del Estado y sus habitantes queda prohibido el obsequio, venta o entrega al consumidor final de bolsas de plástico y uso de popotes que sean elaboradas con polietileno de baja densidad, polietileno lineal, polietileno de alta densidad, polipropileno, polímero de plástico y cualquier otro de sus derivados, en supermercados, tiendas de autoservicio o conveniencia, mercados, comercios de giros diversos y en general cualquier tipo de unidad comercial.
+
+Quedan exentas de la restricción del párrafo anterior aquellas bolsas que hayan sido producidas incorporando un porcentaje mínimo de treinta por ciento (30%) de material reciclado y que la fabricación de dichas bolsas de plástico sea con materiales y procesos de tecnología que permitan su ágil degradación acorde a la norma NMX-E-267 0 (sic) las que la sustituyan.
 
 ## TÍTULO OCTAVO. INSPECCIÓN Y VIGILANCIA Y MEDIDAS CORRECTIVAS, DE SEGURIDAD O DE URGENTE APLICACIÓN
 
@@ -1213,7 +1249,9 @@ El Instituto podrá aplicar lo establecido en este Capítulo para el caso de rie
 
 Son infracciones a lo establecido en esta Ley:
 
-I. Realizar cualquiera de las conductas prohibidas enunciadas en los artículos 92 y 98 de esta Ley;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2019)</small>
+
+I. Realizar cualquiera de las conductas prohibidas enunciadas en los artículos 68 Bis, 92, 98 y 99, o incumplir lo previsto en el artículo 68 de esta Ley;
 
 II. Realizar cualquiera de las actividades enunciadas en el artículo 77 sin contar previamente a su realización con la autorización del Instituto;
 
@@ -1390,3 +1428,27 @@ P.O. 29 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 776.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+P.O. 22 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 629.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SOLIDOS".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Las autoridades municipales en un plazo que no deberá de exceder de seis meses, deberán establecer en sus reglamentos las correspondientes sanciones para quienes no cumplan con las disposiciones previstas en el presente Decreto.
+
+La Secretaría de Medio Ambiente, Energías y Desarrollo Sustentable del Estado de Oaxaca dispondrá de un lapso de un año posteriores (sic) a la entrada en vigor de este Decreto, para promover mediante campañas de difusión las prohibiciones a las que se refiere el artículo 99 de la Ley para la Prevención y Gestión Integral de los Residuos Sólidos, la no utilización de popotes de plástico, y bolsas plásticas desechables; así como impulsar el uso de reusables, biodegradables, y compostables.
+
+TERCERO.- Los establecimientos comerciales y mercantiles dispondrán de un lapso de un año posterior a la entrada en vigor del presente Decreto, para terminar su inventario de bolsas plásticas desechables y popotes de plástico; así como para elaborar el plan de sustitución de los mismos.
+
+CUARTO.- Las microempresas y pequeñas empresas que comercialicen directamente al consumidor final productos con los envases o embalajes previstos en las fracciones XI y XII del artículo 98 contarán, para el cumplimiento de esas obligaciones, con un periodo de gracia de un año contado a partir de la publicación del presente Decreto.
+
+QUINTO.- Las medianas y grandes empresas que comercialicen directamente al consumidor final, así como las empresas de cualquier tamaño que distribuyan antes de su venta al consumidor final productos con los envases o embalajes previstos en las fracciones XI y XII del artículo 98 contarán, para el cumplimiento de esas obligaciones, con un periodo de gracia de seis meses contado a partir de la publicación del presente Decreto.
+
+SEXTO.- Transcurridos dichos términos, en caso de incumplimiento, serán sancionados de acuerdo al Título Noveno de la Ley para Prevención y Gestión Integral de los Residuos Sólidos.
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+OCTAVO.- Las dependencias y entidades de los tres Poderes que conforman el Gobierno del Estado de Oaxaca, los gobiernos municipales, así como los órganos autónomos del Estado, para el cumplimiento del artículo 68 Bis, lo harán al entrar en vigor el presente Decreto.
+
+NOVENO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
