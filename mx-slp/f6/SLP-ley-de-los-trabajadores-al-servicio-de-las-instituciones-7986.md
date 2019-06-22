@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2018-10-02"
+last_updated: "2019-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -1135,59 +1135,91 @@ III.- Si las partes llegan a un acuerdo, el convenio respectivo aprobado y sanci
 
 IV.- Si las partes no llegan a ningún acuerdo, se les tendrá por inconformes pasando a la etapa de demanda y excepciones.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2019)</small>
+
 ###### ARTICULO 123.
-
-La etapa de ofrecimiento y admisión de pruebas se desarrollará conforme a las reglas siguientes:
-
-I.- El actor ofrecerá sus pruebas en relación con los hechos controvertidos. Inmediatamente después el demandado ofrecerá sus pruebas y podrá objetar las de su contraparte y aquel podrá, a su vez, objetar las del demandado;
-
-II.- En caso de que el actor necesite ofrecer nuevas pruebas relacionadas con hechos desconocidos, que se desprendan de la contestación de la demanda, podrá solicitar que la audiencia se suspenda para reanudarse a los cinco días siguientes; y
-
-III.- Concluido el ofrecimiento, el tribunal resolverá inmediatamente sobre las pruebas que admita o deseche.
-
-###### ARTICULO 124.
-
-Concluida la etapa de ofrecimiento y admisión de pruebas solamente se admitirán las que se refieren a hechos supervenientes.
-
-###### ARTICULO 125.
-
-El Tribunal Estatal de Conciliación y Arbitraje eximirá de la carga de la prueba al trabajador, cuando por otros medios esté en posibilidad de llegar al conocimiento de los hechos y para tal efecto requerirá a la institución pública de gobierno respectiva para que exhiba los documentos que obren en su poder, bajo el apercibimiento de que de no presentarlos, se presumirán ciertos los hechos alegados por el trabajador. En todo caso, corresponderá a la institución pública de gobierno probar su dicho cuando exista controversia sobre:
-
-I.- Faltas de asistencia del trabajador;
-
-II.- Causa del cese de la relación de trabajo;
-
-III.- Constancia de haber dado aviso por escrito al trabajador de la fecha y causa de su despido;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2017)</small>
-
-IV.- Duración de la jornada de trabajo ordinaria y extraordinaria, cuando ésta no exceda de nueve horas semanales, y
-
-V.- Terminación de la relación laboral.
-
-###### ARTICULO 126.
-
-Todas las instituciones públicas, aún ajenas al juicio, que tengan conocimiento de los hechos o tengan documentos en su poder que puedan contribuir al esclarecimiento de la verdad, están obligadas a aportarlos cuando sean requeridas por el Tribunal Estatal de Conciliación y Arbitraje.
-
-###### ARTICULO 127.
-
-Tanto las autoridades administrativas como las judiciales, dentro de la esfera de su jurisdicción, están obligadas a auxiliar al Tribunal Estatal de Conciliación y Arbitraje para hacer respetar y cumplir sus determinaciones, cuando fueren requeridas para tal fin.
-
-###### ARTICULO 128.
-
-Si la controversia queda reducida a un punto de derecho y las partes están de acuerdo en los hechos, se declarará cerrada la instrucción y se dictará el laudo correspondiente.
-
-###### ARTICULO 129.
 
 La etapa de demanda y excepciones se desarrollará conforme a las normas siguientes:
 
-I.- El Presidente del tribunal o quien lo sustituya, exhortará a las partes para que de manera pacífica y cordial y con ánimo conciliador diriman sus controversias, luego dará la palabra al actor para que exponga, ratifique o modifique su demanda precisando los puntos petitorios;
+I. El Presidente del Tribunal o el funcionario conciliador y demás personal jurídico de la Junta exhortará nuevamente a las partes para que resuelvan el conflicto mediante un arreglo conciliatorio y, si estas persisten en su actitud, dará la palabra al actor para que exponga su demanda;
 
-II.- Expuesta la demanda por el actor, el demandado procederá a dar contestación a la misma ya sea en forma oral o por escrito, en este último caso, está obligado a entregar copia simple al actor de su contestación; y
+II. El actor expondrá su demanda, ratificándola, aclarándola o modificándola, precisando los puntos petitorios. En caso de modificación, aclaración o enderezamiento de la demanda, cuando el actor sea el trabajador o sus beneficiarios, podrá hacerlo por una sola vez en esta etapa. Tratándose de aclaración o modificación de la demanda, el Tribunal, a petición del demandado, señalará nueva fecha, dentro del término de diez días, para la continuación de la audiencia a fin de que pueda contestar la demanda en su totalidad; en caso de enderezamiento, el Tribunal procederá de igual forma, pero de oficio;
 
-III.- En su contestación opondrá el demandado sus excepciones y defensas afirmando o negando los hechos de la demanda o simplemente manifestando ignorarlos por no ser propios; en la inteligencia que la negación pura y simple del derecho no importa la confesión de los hechos; la confesión de éstos no entraña la aceptación del derecho.
+III. Expuesta la demanda por el actor, el demandado procederá, en su caso, a dar contestación a la demanda oralmente o por escrito. En este último caso, estará obligado a entregar copia simple al actor de su contestación; si no lo hace, el Tribunal la expedirá a costa del demandado.
 
-La falta de asistencia del trabajador a esta etapa, trae como consecuencia que se le tenga por reproduciendo (sic) su escrito inicial de demanda; pero la falta de la contestación de la demanda implica que se le tenga por contestando (sic) en sentido afirmativo.
+La falta de asistencia del trabajador a esta etapa, trae como consecuencia que se le tenga por reproduciendo su escrito inicial de demanda; pero la falta de la contestación de la demanda implica que se le tenga por contestando en sentido afirmativo;
+
+IV. En la contestación del demandado, se opondrán sus excepciones y defensas, debiendo de referirse a todos y cada uno de los hechos aducidos en la demanda, afirmándolos o negándolos, y expresando los que ignore cuando no sean propios; pudiendo agregar las explicaciones que estime convenientes. El silencio y las evasivas harán que se tengan por admitidos aquellos sobre los que no se suscite controversia, y no podrá admitirse prueba en contrario. La negación pura y simple del derecho, importa la confesión de los hechos. La confesión de éstos no entraña la aceptación del derecho;
+
+V. La excepción de incompetencia no exime al demandado de contestar la demanda en la misma audiencia, y si no lo hiciere, y el Tribunal se declara competente, se tendrá por confesada la demanda;
+
+VI. Si el demandado reconviene al actor, éste procederá a contestar de inmediato; o bien, a solicitud del mismo, el Tribunal acordará la suspensión de la audiencia, señalando para su continuación una fecha dentro de los diez días siguientes, y
+
+VII. Al concluir el periodo de demanda y excepciones, se citará a la audiencia de ofrecimiento y admisión de pruebas, que tendrá verificativo dentro de los diez días siguientes. Si las partes están de acuerdo con los hechos y la controversia queda reducida a un punto de derecho, se declarará cerrada la instrucción turnándose los autos a resolución.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2019)</small>
+
+###### ARTICULO 124.
+
+La etapa de ofrecimiento y admisión de pruebas se desarrollará conforme a las reglas siguientes:
+
+I. El actor ofrecerá sus pruebas en relación con los hechos controvertidos. Inmediatamente después el demandado ofrecerá sus pruebas y podrá objetar las de su contraparte y aquel podrá, a su vez, objetar las del demandado;
+
+II. Las partes podrán ofrecer nuevas pruebas, siempre que se relacionen con las ofrecidas por la contraparte y que no se haya cerrado la etapa de ofrecimiento de pruebas. Asimismo, en caso de que el actor necesite ofrecer pruebas relacionadas con hechos desconocidos que se desprendan de la contestación de la demanda, podrá solicitar que la audiencia se suspenda para reanudarse dentro de los cinco días siguientes, a fin de preparar dentro de este plazo las pruebas correspondientes a tales hechos, y
+
+III. Concluido el ofrecimiento, el Tribunal resolverá inmediatamente, y en la audiencia respectiva decidirá sobre las pruebas que admita o deseche, sin que pueda reservarse la calificación de las mismas.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2019)</small>
+
+###### ARTICULO 125.
+
+Concluida la etapa de ofrecimiento y admisión de pruebas solamente se admitirán las que se refieren a hechos supervenientes.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2019)</small>
+
+###### ARTICULO 126.
+
+El Tribunal Estatal de Conciliación y Arbitraje eximirá de la carga de la prueba al trabajador, cuando por otros medios esté en posibilidad de llegar al conocimiento de los hechos y para tal efecto requerirá a la institución pública de gobierno respectiva para que exhiba los documentos que obren en su poder, bajo el apercibimiento de que de no presentarlos, se presumirán ciertos los hechos alegados por el trabajador. En todo caso, corresponderá a la institución pública de gobierno probar su dicho cuando exista controversia sobre:
+
+I. Fecha de ingreso del trabajador;
+
+II. Antigüedad del trabajador;
+
+III. Faltas de asistencia del trabajador;
+
+IV. Causa de cese de la relación de trabajo;
+
+V. Terminación de la relación;
+
+VI. Constancia de haber dado aviso por escrito al trabajador de la fecha y causa de su despido;
+
+VII. El nombramiento o contrato de trabajo;
+
+VIII. Duración de la jornada de trabajo;
+
+IX. Pagos de días de descanso y obligatorios;
+
+X. Disfrute y pago de las vacaciones;
+
+XI. Pago de las primas, dominical, vacacional y de antigüedad, y
+
+XII. Monto y pago del salario.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2019)</small>
+
+###### ARTICULO 127.
+
+Todas las instituciones públicas, aún ajenas al procedimiento, que tengan conocimiento de los hechos o tengan documentos en su poder que puedan contribuir al esclarecimiento de la verdad, están obligadas a aportarlos cuando sean requeridas por el Tribunal Estatal de Conciliación y Arbitraje.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2019)</small>
+
+###### ARTICULO 128.
+
+Tanto las autoridades administrativas como las judiciales, dentro de la esfera de su jurisdicción, están obligadas a auxiliar al Tribunal Estatal de Conciliación y Arbitraje para hacer respetar y cumplir sus determinaciones, cuando fueren requeridas para tal fin.
+
+###### ARTICULO 129.
+
+(DEROGADO, P.O. 22 DE JUNIO DE 2019)
 
 ###### ARTICULO 130.
 
@@ -1874,3 +1906,11 @@ P.O. 2 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0184.- SE REFORMAN LOS ARTÍCULOS 123, 124, 125, 126, 127, Y 128; Y SE DEROGA EL ARTÍCULO 129 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
