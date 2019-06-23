@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2018-11-01"
+last_updated: "2019-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2019.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -503,7 +503,9 @@ De las actas de matrimonio.
 
 ART. 93.- Las personas que pretendan contraer matrimonio presentarán un escrito al Oficial del Registro Civil del domicilio de cualquiera de ellas, que exprese:
 
-I.- Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, si estos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2019)</small>
+
+I.- Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, si estos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará la fecha de la disolución del anterior matrimonio;
 
 II.- Que no tienen impedimento legal para casarse; y
 
@@ -1677,9 +1679,11 @@ ART. 314.- En los casos en que los que ejerzan la patria potestad gocen de la mi
 
 ART. 315.- Cesa la obligación de dar alimentos:
 
-I.- Cuando el que la tiene carece de medios para cumplirla;
+I.- (DEROGADA, P.O. 23 DE JUNIO DE 2019)
 
-II.- Cuando el alimentista deja de necesitar los ailmentos (sic);
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2019)</small>
+
+II.- Cuando el alimentista deja de necesitar los alimentos;
 
 III.- En caso de injuria, falta o daño graves inferidos por el alimentista contra el que debe prestarlos;
 
@@ -2257,9 +2261,9 @@ I.- Cuando el que la ejerza es condenado expresamente a la pérdida de ese derec
 
 II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 278;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2019)</small>
 
-III.- Cuando el que la ejerce incurra en conductas de violencia familiar en contra del menor en los términos del artículo 318-2 de este Código o cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
+III.- Cuando el que la ejerce incurra en conductas de violencia familiar en contra del menor en los términos del artículo 318-2 de este Código o cuando por las costumbres depravadas de los padres, malos tratamientos, abandono de sus deberes, o exposición a la mendicidad, trabajos forzados o cualquier forma de explotación, se comprometa la salud, la educación, la integridad física, psíquica, afectiva, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2007)</small>
 
@@ -10749,8 +10753,32 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 1 DE NOVIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 004.- QUE CONTIENE REFORMA AL CÓDIGO CIVIL DEL ESTADO DE DURANGO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 004.- QUE CONTIENE REFORMA AL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 23 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 107.- QUE CONTIENE REFORMA A LA FRACCIÓN VI (SIC) DEL ARTÍCULO 439 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 110.- QUE CONTIENE REFORMA AL ARTÍCULO 93, FRACCIÓN I DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 111.-·QUE CONTIENE REFORMA AL ARTÍCULO 315 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
