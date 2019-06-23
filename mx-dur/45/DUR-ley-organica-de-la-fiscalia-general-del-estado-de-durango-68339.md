@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-fiscalia-general-del-estado-de-durango-68339
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-02-26"
-last_updated: "2017-11-16"
+last_updated: "2019-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de febrero de 2009.
 
@@ -581,7 +581,9 @@ VII. Promover los mecanismos de justicia restaurativa entre la víctima u ofendi
 
 VIII. Solicitar la aplicación de los criterios de oportunidad, el sobreseimiento del proceso, la suspensión del proceso a prueba y la apertura del procedimiento abreviado, en los supuestos previstos por la ley;
 
-IX. Vigilar la correcta aplicación de la ley en los casos de delitos cometidos por miembros de pueblos o comunidades indígenas;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2019)</small>
+
+IX. Vigilar la correcta aplicación de la ley en los casos de delitos cometidos por miembros de pueblos o comunidades indígenas, los cuales deberán ser auxiliados por un traductor o intérprete que tenga conocimiento de su lengua y cultura, aun cuando hablen el español, si así lo solicitan;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -1402,3 +1404,11 @@ P.O. 16 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 23 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 109.- QUE CONTIENE REFORMA A LA FRACCIÓN IX DEL ARTÍCULO 22 DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
