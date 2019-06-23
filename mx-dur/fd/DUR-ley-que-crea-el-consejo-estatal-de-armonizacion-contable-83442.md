@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-consejo-estatal-de-armonizacion-contable-83442"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-02"
-last_updated: "2011-10-02"
+last_updated: "2019-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY QUE CREA EL CONSEJO ESTATAL DE ARMONIZACION CONTABLE PARA EL ESTADO DURANGO
 
-LEY QUE CREA EL CONSEJO ESTATAL DE ARMONIZACION CONTABLE PARA EL ESTADO DE DURANGO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DEL CONSEJO ESTATAL DE ARMONIZACIÓN CONTABLE DE DURANGO, PUBLICADA EN EL P.O. DE 23 DE JUNIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY QUE CREA EL CONSEJO ESTATAL DE ARMONIZACIÓN CONTABLE PARA EL ESTADO DE DURANGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 2 de octubre de 2011.
 
@@ -33,7 +35,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha 19 de Septiembre del presente año, fueron presentadas dos iniciativas la primera por el C. C.P. Jorge Herrera Caldera, Gobernador Constitucional del Estado, y la segunda por los CC, Diputados integrantes del Grupo Parlamentario del Partido Acción Nacional de esta Sexagésima Quinta Legislatura, que contienen la LEY QUE CREA EL CONSEJO DE ARMONIZACIÓN CONTABLE PARA EL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Administración Pública integrada por los CC. Diputados: Marcial Saúl García Abraham, José Nieves García Caro, Carlos Aguilera Andrade, Jorge A. Salum del Palacio y Rodolfo Benito Guerrero García; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S .
+C O N S I D E R A N D O S
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXV Legislatura del Estado, expide el siguiente:
 
@@ -308,3 +312,21 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. HECTOR EDUARDO VELA VALENZUELA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 104.- QUE CONTIENE (SIC) LEY DEL CONSEJO ESTATAL DE ARMONIZACIÓN CONTABLE DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se abroga la Ley que Crea el Consejo Estatal de Armonización Contable para el Estado de Durango, contenida en el Decreto No. 186 de la LXV Legislatura, y publicado en el Periódico Oficial del Gobierno del Estado No. 27 de fecha 2 de octubre de 2011.
+
+TERCERO. Las erogaciones presupuestales que genere el funcionamiento del CEAC, deberán incluirse en el presupuesto de la Ley de Egresos del Estado, del correspondiente ejercicio fiscal.
+
+CUARTO. Los asuntos que se encuentren en trámite serán concluidos de conformidad con las disposiciones de la Ley que se abroga y que se menciona en el artículo primero transitorio.
+
+QUINTO. El Consejo creado mediante Decreto Noº. 186 publicado en el Periódico oficial del Gobierno del Estado, seguirá funcionando de conformidad con el artículo 7 de la presente Ley.
+
+SEXTO. Se derogan todas las disposiciones legales en lo que se opongan al presente decreto
