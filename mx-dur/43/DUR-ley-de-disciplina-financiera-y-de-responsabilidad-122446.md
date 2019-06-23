@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-disciplina-financiera-y-de-responsabilidad-122446"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-25"
-last_updated: "2017-06-25"
+last_updated: "2019-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DISCIPLINA FINANCIERA Y DE RESPONSABILIDAD HACENDARIA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 25 de junio de 2017.
 
@@ -601,9 +601,11 @@ Cuando las Obligaciones se deriven de esquemas de Asociaciones Público-Privadas
 
 Lo dispuesto en este Capítulo no será aplicable a la contratación de Financiamientos en términos de programas federales o de los convenios con la Federación, los cuales se regirán por lo acordado entre las partes en el convenio correspondiente, así como por la Ley de Coordinación Fiscal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2019)</small>
+
 ###### ARTÍCULO 55.
 
-El Congreso, por el voto de las dos terceras partes de sus miembros presentes, autorizará los montos máximos para la contratación de Financiamientos y Obligaciones. Para el otorgamiento de dicha autorización, el Congreso a través de la EASE, deberá realizar previamente, un análisis de la capacidad de pago del Ente Público a cuyo cargo estaría la Deuda Pública u Obligaciones correspondientes, del destino del Financiamiento u Obligación y, en su caso, del otorgamiento de recursos como Fuente o Garantía de Pago.
+El Congreso, por el voto de las dos terceras partes de sus miembros presentes, autorizará los montos máximos para la contratación de Financiamientos y Obligaciones. Para el otorgamiento de dicha autorización, se deberá tomar en consideración que el ente público contratante no se encuentre dentro de los últimos seis meses de su administración, además de realizar previamente, a través de la EASE, un análisis de la capacidad de pago del Ente Público a cuyo cargo estaría la Deuda Pública u Obligaciones correspondientes, del destino del Financiamiento u Obligación y, en su caso, del otorgamiento de recursos como Fuente o Garantía de pago.
 
 Las operaciones de Refinanciamiento o Reestructura no requerirán autorización específica del Congreso siempre y cuando cumplan con las siguientes condiciones:
 
@@ -898,3 +900,13 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANÍS QUIÑONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 105.- QUE CONTIENE REFORMA AL ARTÍCULO 55 DE LA LEY DE DISCIPLINA FINANCIERA Y DE RESPONSABILIDAD HACENDARIA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
