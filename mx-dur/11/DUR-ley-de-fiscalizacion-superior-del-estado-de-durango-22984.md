@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fiscalizacion-superior-del-estado-de-durango-22984"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-30"
-last_updated: "2017-03-05"
+last_updated: "2019-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 30 de diciembre de 2001.
 
@@ -185,7 +185,9 @@ V. Entregar al Congreso los informes del resultado de la revisión de la Cuenta 
 
 VI. Entregar al Congreso, dentro de los primeros quince días de los meses de febrero y agosto de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas por la Entidad.
 
-VII. Recibir y registrar las declaraciones de situación patrimonial de los servidores públicos que conforme a las disposiciones legales aplicables tengan obligación de presentarlas y fincar las responsabilidades correspondientes en el caso de que ello no suceda o su presentación sea extemporánea;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2019)</small>
+
+VII. En los casos en que resulte aplicable de acuerdo a la Ley General de Responsabilidades Administrativas, recibir y registrar las declaraciones de situación patrimonial y de intereses de los servidores públicos que conforme a las disposiciones legales aplicables tengan obligación de presentarlas y fincar las responsabilidades correspondientes en el caso de que ello no suceda o su presentación sea extemporánea;
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
@@ -892,3 +894,15 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 23 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 103.- QUE CONTIENE ABROGACIÓN DE LA FRACCIÓN VII DEL ARTÍCULO 6 DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. La presentación de las declaraciones patrimoniales y de intereses se sujetarán a lo dispuesto en los acuerdos que para tal efecto emita el Comité Coordinador del Sistema Nacional Anticorrupción.
+
+TERCERO. Los servidores públicos pertenecientes al Poder Legislativo, deberán rendir su declaración patrimonial y de intereses ante la Entidad de Auditoría Superior de Estado, hasta en tanto dicho Poder crea su órgano de control interno; los servidores públicos adscritos a la Entidad de Auditoría Superior deberán rendir su declaración patrimonial y de intereses ante su propio órgano de control interno.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
