@@ -4,7 +4,7 @@ identifier: "HID-ley-del-ejercicio-profesional-para-el-estado-de-hidalgo-23032"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-31"
-last_updated: "2019-04-01"
+last_updated: "2019-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2019.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 2001.
 
@@ -37,7 +37,7 @@ QUE CONTIENE LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO
 
 El Honorable Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado de Hidalgo; D E C R E T A:
 
-...
+[...]
 
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -153,9 +153,17 @@ El servicio social estudiantil tendrá como objetivos fundamentales:
 
 I.- Contribuir a la solución de las necesidades de la sociedad, además de procurar desarrollar proyectos basados en las funciones sustantivas de la actividad del Estado;
 
-II.- Propiciar la vinculación de su disciplina con el campo profesional correspondiente, así como la adquisición de conocimientos en los sectores público, privado, educativo o social; y
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2019)</small>
 
-III.- Fomentar en los estudiantes una conciencia de responsabilidad social y concientización de su compromiso ante la sociedad, generando con ello, una actitud reflexiva, crítica y constructiva ante el entorno social.
+II.- Propiciar la vinculación de su disciplina con el campo profesional correspondiente, así como la adquisición de conocimientos en los sectores público, privado, educativo o social;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2019)</small>
+
+III.- Fomentar en los estudiantes una conciencia de responsabilidad social y concientización de su compromiso ante la sociedad, generando con ello, una actitud reflexiva, crítica y constructiva ante el entorno social; y
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2019)</small>
+
+IV.- Aportar al mejoramiento de las condiciones de vida, de planeación de infraestructura, de organización social, de salud y de educación en las comunidades y pueblos indígenas.
 
 > <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
 
@@ -714,3 +722,9 @@ P.O. 1 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 176.- QUE REFORMA DIVERSOS ORDENAMIENTOS DEL ESTADO DE HIDALGO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO. 194.- QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO, LA LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO Y A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado de Hidalgo.
