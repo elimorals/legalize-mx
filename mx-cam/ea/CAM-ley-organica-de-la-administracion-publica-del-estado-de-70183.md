@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-70183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-14"
-last_updated: "2019-01-02"
+last_updated: "2019-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTINENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE ENERO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2009.
 
@@ -197,6 +195,12 @@ Estas Unidades de Igualdad de Género funcionarán como comités y estarán inte
 
 El Ejecutivo Estatal emitirá los lineamientos para la organización y funcionamiento de las Unidades de Igualdad de Género.
 
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2019)</small>
+
+###### Artículo 15 Ter.
+
+Todas las Dependencias y Entidades de la Administración Pública Estatal podrán incluir personas con discapacidad dentro de su plantilla laboral. Procurando proporcionar capacitación y adiestramiento necesario para que de acuerdo a sus aptitudes puedan desempeñarse en igualdad de condiciones con los demás trabajadores.
+
 ### CAPÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
@@ -233,7 +237,9 @@ XII. Secretaría de Desarrollo Rural;
 
 XIII. Secretaría de Pesca y Acuacultura;
 
-XIV. Secretaría de Medio Ambiente y Recursos Naturales;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2019)</small>
+
+XIV. Secretaría de Medio Ambiente, Biodiversidad y Cambio Climático;
 
 XV. Secretaría de Desarrollo Urbano, Obras Públicas e Infraestructura;
 
@@ -1025,7 +1031,9 @@ VIII. Formular y presentar al Gobernador del Estado, el programa de construcció
 
 IX. Proponer al Gobernador del Estado, acuerdos de coordinación de acciones con las instituciones del ramo, tendientes a promover y apoyar los programas de medicina preventiva;
 
-X. Participar con la Secretaría de Medio Ambiente y Recursos Naturales, y con las autoridades federales, en la formulación y conducción de políticas de saneamiento ambiental, conforme a la legislación en la materia;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2019)</small>
+
+X. Participar con la Secretaría de Medio Ambiente, Biodiversidad y Cambio Climático, y con las autoridades federales, en la formulación y conducción de políticas de saneamiento ambiental, conforme a la legislación en la materia;
 
 XI. Emitir y vigilar la aplicación de las normas técnicas de sanidad y control sanitario en los servicios públicos y particulares que se presten a la población;
 
@@ -1259,7 +1267,9 @@ III. Diseñar, implementar y supervisar programas de asistencia técnica y de ac
 
 IV. Promover la elaboración de estudios de evaluación de los suelos para lograr su aprovechamiento racional, su conservación, mejoramiento y debida explotación en una perspectiva de desarrollo económico sustentable;
 
-V. Realizar, con la participación que corresponda a las Secretarías de Planeación, de Medio Ambiente y Recursos Naturales y, de Desarrollo Urbano, Obras Públicas e Infraestructura, los estudios y proyectos de construcción y reconstrucción de la infraestructura hidráulica estatal para el fomento de las actividades agropecuarias y verificar que se realicen las obras correspondientes;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2019)</small>
+
+V. Realizar, con la participación que corresponda a las Secretarías de Planeación, de Medio Ambiente, Biodiversidad y Cambio Climático y, de Desarrollo Urbano, Obras Públicas e Infraestructura, los estudios y proyectos de construcción y reconstrucción de la infraestructura hidráulica estatal para el fomento de las actividades agropecuarias y verificar que se realicen las obras correspondientes;
 
 VI. Conducir y evaluar las acciones para elevar el nivel de vida de los productores del sector agropecuario y apícola, en coordinación con las instituciones educativas, de investigación, organismos públicos y privados;
 
@@ -1349,17 +1359,25 @@ XVI. Promover ante las autoridades competentes, el establecimiento de instrument
 
 XVII. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2019)</small>
 
 ###### Artículo 34.
 
-A la Secretaría de Medio Ambiente y Recursos Naturales le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Medio Ambiente, Biodiversidad y Cambio Climático le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 I. Formular, normar, promover, conducir, ejecutar, difundir y evaluar las políticas, programas, acciones y estrategias de protección al ambiente y desarrollo sustentable en el Estado, con base en la legislación y normatividad general y estatal, en coordinación con las diferentes dependencias y entidades de la Administración Pública Federal, Estatal y Municipal;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 II. Coadyuvar con los gobiernos federal, estatal y municipal, así como con los sectores social y privado, en la realización conjunta y coordinada de acciones de protección y restauración ambiental e instrumentar, regular y promover la utilización de técnicas y procedimientos de desarrollo sustentable, para racionalizar el uso de los recursos naturales del Estado;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 III. Formular y promover los criterios para la redefinición de la vocación y potencial productivo del sector agropecuario del Estado, en coordinación con la Secretaría de Desarrollo Rural de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 IV. Formular, conducir y determinar las políticas y acciones encaminadas al aprovechamiento racional, enriquecimiento, fomento y desarrollo de los recursos agrícolas, pecuarios, forestales y del agua.
 
@@ -1367,59 +1385,115 @@ IV. Formular, conducir y determinar las políticas y acciones encaminadas al apr
 
 V. Formular y proponer al Gobernador del Estado, los programas de inversión dirigidos a la protección del ambiente y el desarrollo sustentable, mismos que podrá ejecutar por sí o con la participación de los otros órdenes de gobierno y de los sectores social y privado;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 VI. Formular, conducir, supervisar, controlar y evaluar los programas de desarrollo forestal, así como la atención y solución a los problemas relacionados con esta actividad productiva;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 VII. Establecer, con la participación que corresponda a otras dependencias y entidades federales, estatales y municipales, los criterios ecológicos particulares sobre la preservación y restauración de la calidad del medio ambiente, los ecosistemas naturales, el desarrollo sustentable de los recursos naturales y descargas de aguas residuales;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 VIII. Proponer, ejecutar y supervisar convenios y acuerdos de coordinación y los demás instrumentos jurídicos que sean necesarios con la Federación, con el objeto de asumir y llevar a cabo la descentralización de funciones y recursos para realizar obras y actividades que en materia de conservación de los ecosistemas y medio ambiente establece la Ley General de Desarrollo Forestal Sustentable en coordinación con los tres órdenes de gobierno y los sectores social y privado, nacionales e internacionales;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 IX. Vigilar y estimular el cumplimiento de las leyes, normas y programas relacionados con el desarrollo sustentable y medio ambiente y en su caso, imponer las sanciones que procedan dentro del ámbito de su competencia;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 X. Proponer el establecimiento de áreas naturales protegidas conforme a la legislación aplicable, y promover para su organización, administración y vigilancia, la participación de otras dependencias y entidades federales, estatales y municipales, así como de las instituciones de educación superior, centros de investigación y particulares;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XI. Coadyuvar con las dependencias y entidades federales, en los términos que dispongan las leyes y reglamentos aplicables, en todo lo relativo a playas, zona federal marítimo-terrestre y terrenos ganados al mar, y proponer el aprovechamiento de salinas ubicadas en terrenos propiedad del Estado mexicano y de las formadas directamente por las aguas del mar;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XII. Promover el ordenamiento ecológico del territorio estatal en coordinación con las dependencias y entidades federales, estatales y municipales, con la participación de particulares;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XIII. Promover el establecimiento y vigilar el funcionamiento de las estaciones que integren el Sistema Meteorológico del Estado;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XIV. Evaluar y dictaminar las manifestaciones de impacto ambiental de competencia estatal sobre proyectos de desarrollo que le presenten los sectores público, social y privado y resolver sobre los estudios de riesgo ambiental, así como sobre los programas para la prevención de accidentes con incidencia ecológica;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XV. Promover y difundir las tecnologías y formas de uso requeridas para el desarrollo sustentable de los ecosistemas y de la calidad ambiental de los procesos productivos, de los servicios y del transporte;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XVI. Establecer y dirigir un sistema de información ambiental estatal en coordinación con las dependencias y entidades federales, estatales y municipales e instituciones de investigación y de educación superior;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XVII. Promover la participación social y de la comunidad científica en la formulación, aplicación y vigilancia de la política ambiental;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XVIII. Coadyuvar en la aplicación de las restricciones que establezcan las disposiciones legales y reglamentarias aplicables dentro del territorio estatal, sobre la conservación y el aprovechamiento del medio ambiente;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XIX. Coordinar, concertar y ejecutar proyectos de formación, capacitación y actualización para mejorar la capacidad de gestión ambiental y el desarrollo sustentable;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XX. Estimular, con la participación de organismos de los diversos niveles educativos, culturales y los medios de comunicación masiva, la conservación de nuestro patrimonio natural y promover la formación de especialistas y la investigación científica y tecnológica en la materia;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XXI. Coadyuvar con las autoridades competentes en la realización de los censos de predios forestales y silvopastoriles y de sus productos, así como en el levantamiento, organización y manejo de la cartografía y estadística forestal del Estado;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XXII. Proponer y elaborar conjuntamente con las autoridades de educación pública un Programa Estatal de Educación Ambiental;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XXIII. Instrumentar e impulsar metodologías y procedimientos de evaluación de riesgo ambiental, así como impulsar esquemas de simplificación para los trámites de apertura, de operación de empresas, industriales, comerciales y de servicios en las actividades de bajo impacto, de acuerdo a sus atribuciones;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XXIV. Promover la participación de la sociedad en la formulación, aplicación y vigilancia de la política ambiental;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XXV. Proponer la creación de instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental en el Estado;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XXVI. Imponer restricciones sobre el uso o aprovechamiento de los recursos naturales de jurisdicción Estatal, e intervenir junto con las dependencias competentes, en el establecimiento y levantamiento de vedas forestales, de caza y de pesca;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XXVII. Regular las actividades que no sean consideradas altamente riesgosas para el ambiente, de conformidad con la legislación aplicable en la materia;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XXVIII. Aplicar y vigilar el cumplimiento de las políticas, leyes, normas y reglamentos para prevenir, atenuar y remediar, en su caso, la contaminación ambiental;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XXIX. Emitir recomendaciones a las autoridades competentes, con el propósito de promover el cumplimiento de la legislación ambiental;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XXX. Regular y promover, en colaboración con las autoridades Federales, Estatales y Municipales, la protección y preservación de los recursos de fauna y flora silvestres del Estado, de acuerdo con lo que establezca la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XXXI. Coordinar, conducir y supervisar la operación de los parques zoológicos, jardines botánicos, reservas y parques naturales competencia del Estado;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 XXXII. Establecer e instrumentar acciones dirigidas a la prevención y restauración de daños causados por las actividades petroleras, de electrificación, hidráulicas y otras, con el propósito de conservar, proteger e incrementar los recursos naturales de la Entidad, en coordinación con la Secretaría de Desarrollo Energético Sustentable de la Administración Pública Estatal; y
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XXXIII. Las demás atribuciones que señalen las leyes y reglamentos vigentes en el Estado.
 
@@ -2422,3 +2496,31 @@ Se derogan todas las disposiciones legales y reglamentarias, del marco jurídico
 Las Unidades de Igualdad de Género, a las que hace referencia el presente decreto, deberán instalarse dentro de un plazo no mayor a sesenta días, contados a partir de la entrada en vigor de este decreto. Cada una de las Dependencias y Entidades conformará sus Unidades de Igualdad de Género con las y los servidores públicos que se encuentren dentro de su estructura orgánica.
 
 El Ejecutivo Estatal tendrá un plazo no mayor a noventa días, contados a partir de la entrada en vigor de este decreto, para emitir los lineamientos a los que hace referencia el artículo 15 bis del mismo.
+
+P.O. 24 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 55 POR EL QUE “SE ADICIONA UN ARTÍCULO 15 TER A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 24 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 58 POR EL QUE “SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 16, FRACCIÓN X DEL ARTÍCULO 28, LA FRACCIÓN V DEL ARTÍCULO 32 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 34, TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Todas las referencias a la Secretaría de Medio Ambiente y Recursos Naturales realizadas en las disposiciones legales y reglamentarias del marco jurídico estatal, se entenderán a partir de la entrada en vigor del presente decreto como hechas a la Secretaría de Medio Ambiente, Biodiversidad y Cambio Climático de la Administración Pública del Estado de Campeche.
+
+###### ARTÍCULO CUARTO.
+
+El Gobernador del Estado emitirá las adecuaciones al Reglamento Interior de la Secretaría de Medio Ambiente, Biodiversidad y Cambio Climático de la Administración Pública del Estado de Campeche.
