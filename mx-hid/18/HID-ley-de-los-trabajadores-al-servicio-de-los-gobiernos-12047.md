@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -499,7 +499,9 @@ b) Cuando faltare por más de tres días consecutivos a sus labores sin causa ju
 
 c) Por destruir intencionalmente edificios, obras, maquinarias, instrumentos, materias primas y demás objetos relacionados con el trabajo;
 
-d) Por cometer actos inmorales durante el trabajo;
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2019)</small>
+
+d) Por cometer actos inmorales o de hostigamiento y/o acoso sexual contra cualquier persona en el establecimiento o lugar de trabajo;
 
 e) Por revelar asuntos secretos o reservados de que tuviera conocimiento con motivo de su trabajo;
 
@@ -515,9 +517,23 @@ j) Por prisión que sea el resultado de una sentencia ejecutoria.
 
 En los casos a que se refiere esta fracción, el jefe superior de la oficina respectiva podrá ordenar la remoción del trabajador que diere motivo a la terminación de los efectos de su nombramiento, a oficina distinta de aquella en que estuviere prestando sus servicios, dentro de la misma población cuando esto sea posible, hasta que sea resuelto en definitiva el conflicto por el Tribunal Estatal de Conciliación y Arbitraje.
 
-Por cualquiera de las causas a que se refiere esta fracción, el Titular podrá suspender los efectos del nombramiento si con ello está conforme el Sindicato correspondiente; pero si éste no estuviere de acuerdo, y cuando se tratare de alguna de las causas graves previstas en los incisos a), c), e) y h), el Titular podrá demandar la conclusión de los efectos del nombramiento, ante el Tribunal Estatal de Conciliación y Arbitraje, el cual proveerá de pleno en incidente por separado, la suspensión de los efectos del nombramiento, sin perjuicio de continuar el procedimiento en lo principal hasta agotarlo en los términos y plazos que correspondan, para determinar en definitiva sobre la procedencia o improcedencia de la terminación de los efectos del nombramiento.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2019)</small>
+
+Por cualquiera de las causas a que se refiere esta fracción, el Titular podrá suspender los efectos del nombramiento si con ello está conforme el Sindicato correspondiente; pero si éste no estuviere de acuerdo, y cuando se tratare de alguna de las causas graves previstas en los incisos a), c), e), h), hostigamiento y/o acoso sexual, el Titular podrá demandar la conclusión de los efectos del nombramiento, ante el Tribunal Estatal de Conciliación y Arbitraje, el cual proveerá de pleno en incidente por separado, la suspensión de los efectos del nombramiento, sin perjuicio de continuar el procedimiento en lo principal hasta agotarlo en los términos y plazos que correspondan, para determinar en definitiva sobre la procedencia o improcedencia de la terminación de los efectos del nombramiento.
 
 Cuando el tribunal resuelva que procede dar por terminados los efectos del nombramiento sin responsabilidad para el Estado, organismo o Municipio, el trabajador no tendrá derecho al pago de los salarios caídos.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JUNIO DE 2019)</small>
+
+Para efectos del inciso d) de esta fracción, se entenderá por:
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2019)</small>
+
+Hostigamiento, el ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral, que se expresa en conductas verbales, físicas o ambas; y
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2019)</small>
+
+Acoso sexual, una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
 ###### ARTICULO 41.
 
@@ -1318,3 +1334,9 @@ P.O. 31 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 1.- QUE REFORMA EL ARTÍCULO 17 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 195 QUE REFORMA Y ADICIONA EL ARTÍCULO 40 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO”.]
+
+UNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
