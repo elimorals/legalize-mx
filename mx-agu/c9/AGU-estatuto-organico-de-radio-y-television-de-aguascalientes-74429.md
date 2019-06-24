@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-de-radio-y-television-de-aguascalientes-74429
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-04-12"
-last_updated: "2010-04-12"
+last_updated: "2019-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # ESTATUTO ORGANICO DE RADIO Y TELEVISION DE AGUASCALIENTES
 
-ESTATUTO ORGANICO DE RADIO Y TELEVISION DE AGUASCALIENTES
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL ESTATUTO ORGÁNICO DE RADIO Y TELEVISIÓN DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 24 DE JUNIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+ESTATUTO ORGÁNICO DE RADIO Y TELEVISIÓN DE AGUASCALIENTES
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2019 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de abril de 2010.
 
@@ -882,3 +884,33 @@ DIRECTOR GRAL. DE PROGRAMACIÓN Y OPERACIÓN DE OBRA PUBLICA Y REPRESENTANTE DEL
 C.P. José de Jesús Cano Álvarez,
 
 AUDITOR DE LA DIRECCION GRAL. DE AUDITORIA GUBERNAMENTAL DE LA CONTRALORIA Y REPRESENTANTE DEL CONTRALOR DEL ESTADO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DE RADIO Y TELEVISIÓN DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto entrará en vigor al día siguiente de su publicación en el en el (sic) Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor queda abrogado el Estatuto Orgánico de Radio y Televisión de Aguascalientes, publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes Número 15, Tomo LXXIII, de 12 de abril de 2010.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales y administrativas que se opongan al presente Estatuto Orgánico.
+
+###### ARTÍCULO CUARTO.
+
+La Junta Directiva deberá emitir sus Manuales de Organización y Operación correspondientes en un término de 90 días contados a partir de la entrada en vigor del presente Estatuto Orgánico; así como efectuar las adecuaciones necesarias a la demás normatividad interna aplicable.
+
+###### ARTÍCULO QUINTO.
+
+Se instruye al Director General llevar a cabo las acciones necesarias para la inscripción del presente Estatuto Orgánico ante el Registro Público de Entidades Paraestatales respectivo del Registro Público de la Propiedad y del Comercio en el Estado de Aguascalientes.
+
+###### ARTÍCULO SEXTO.
+
+Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, la Junta Directiva del Organismo Público Descentralizado deberá emitir sus Lineamientos con apego a los expedidos por la Contraloría del Estado, en un término no mayor a 90 días contados a partir de su publicación.
