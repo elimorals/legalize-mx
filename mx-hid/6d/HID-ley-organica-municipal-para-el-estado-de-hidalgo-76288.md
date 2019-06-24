@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2019-05-15"
+last_updated: "2019-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2019.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -2447,9 +2447,17 @@ XII.- Elaborar el diagnóstico y el Programa Municipal de cultura, el catálogo 
 
 XIII.- En coordinación con las autoridades y departamento municipales competentes elaborarán programas con el objeto de revitalizar, preservar, desarrollar y difundir las manifestaciones culturales, etnicas, artes y expresiones musicales, fiestas tradicionales y la literatura oral y escrita propias del municipio;
 
-XIV.- En coordinación con el Presidente Municipal elaborar planes y programas de desarrollo en el combate a la pobreza extrema de los Pueblos y Comunidades Indígenas, proyectando estrategias de 20 a 30 años a futuro; y
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2019)</small>
 
-XV.- Las demás que señale esta ley y las disposiciones legales aplicables en el Estado.
+XIV.- En coordinación con el Presidente Municipal elaborar planes y programas de desarrollo en el combate a la pobreza extrema de los Pueblos y Comunidades Indígenas, proyectando estrategias de 20 a 30 años a futuro;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JUNIO DE 2019)</small>
+
+XV.- Diseñar y registrar, en conjunto con las comunidades y pueblos indígenas, los planes y/o programas de servicio social profesional que puedan realizarse en sus Delegaciones o en sus centros comunitarios de desarrollo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE JUNIO DE 2019)</small>
+
+XVI.- Las demás que señale esta ley y las disposiciones legales aplicables en el Estado.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -3382,3 +3390,9 @@ P.O. 15 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 183 QUE REFORMA EL INCISO DD) Y EE) DE LA FRACCIÓN I DEL ARTÍCULO 56; ARTÍCULO 118; Y EL 121 BIS; Y SE ADICIONA EL INCISO FF) A LA FRACCIÓN I DEL ARTÍCULO 56; Y EL ARTÍCULO 118 QUINQUIES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor a los 180 días de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 194 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO, LA LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO Y A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Estado de Hidalgo.
