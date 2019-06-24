@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-y-cultura-indigena-para-el-estado-de-hidalgo-78
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2016-08-15"
+last_updated: "2019-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2019.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -2303,7 +2303,7 @@ El Congreso del Estado, será el encargado de modificar el Catálogo de Pueblos 
 
 13) Relación del ciclo económico con ceremonias.
 
-14) Lugares sagrados (cerros, cuevas, piedras…).
+14) Lugares sagrados (cerros, cuevas, piedras...).
 
 15) Música (tradicional, costumbre).
 
@@ -2849,7 +2849,9 @@ VI. Garantizar el desarrollo de las capacidades de los individuos de la comunida
 
 VII. Actualizar y ampliar los servicios educativos orientados a incrementar las capacidades laborales y profesionales en personal comunitario en situación de trabajo, ligándolo con el financiamiento para el establecimiento y desarrollo de la pequeña empresa y la cooperativización de las necesidades, a fin de generar autoempleo, reducción de costos en la producción o transformación de productos, e incrementar márgenes de utilidad;
 
-VIII. Promover el servicio social, así como la aportación de universidades, colegios y empresas, de teorías, prácticas, conocimientos y recursos articulados a iniciativas de los pueblos y comunidades indígenas; y
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2019)</small>
+
+VIII. Promover, mediante el diseño y registro de planes y/o programas, que las comunidades y pueblos indígenas sean unidades receptoras de servicio social profesional. De igual forma se promoverá la aportación, de universidades, colegios y empresas, de teorías, prácticas, conocimientos y recursos articulados a iniciativas de los pueblos y comunidades indígenas; y
 
 IX. Velar por la salud, bienestar y respeto a los adultos mayores, procurando su protección e inclusión en programas de asistencia social, que reconozcan su dignidad y experiencia.
 
@@ -3006,3 +3008,9 @@ P.O. 15 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 194.- QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO, LA LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO Y A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Estado de Hidalgo.
