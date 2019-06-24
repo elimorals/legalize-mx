@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2019-02-18"
+last_updated: "2019-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -1531,6 +1531,10 @@ III. Impulsar, ampliar y fortalecer programas de intervención temprana para la 
 
 Para los efectos del Artículo anterior se entenderá por necesidades educativas especiales, las de aquellos estudiantes que requieren apoyos potenciales en determinadas áreas de su aprendizaje, como consecuencia de alguna discapacidad o por contar con aptitudes sobresalientes.
 
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2019)</small>
+
+El Instituto deberá de implementar modelos de educación preescolar, básica y media superior para educandos con aptitudes sobresalientes, buscando el máximo desarrollo de sus habilidades y capacidades personales; mismo que se regulará en los términos reglamentarios conducentes.
+
 ###### Artículo 98.
 
 Tienen derecho a la integración, a través de la Educación Especial, las personas que presenten determinada necesidad educativa especial temporal o permanente, resultante de alguna discapacidad sensorial, del lenguaje, de motricidad o intelectual, de capacidades y aptitudes sobresalientes, de situación de riesgo, o alguna otra causa que les impida acceder al currículo básico. Para esto se aplicarán programas que permitan alcanzar dentro del mismo sistema los propósitos establecidos con carácter general para todos los alumnos, sin menoscabo de sus diferencias individuales o de grupo.
@@ -2818,3 +2822,11 @@ P.O. 18 DE FEBRERO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 173.- ARTÍCULO ÚNICO. SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 97 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
