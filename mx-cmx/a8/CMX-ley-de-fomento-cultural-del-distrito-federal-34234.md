@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cultural-del-distrito-federal-34234"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2014-10-08"
+last_updated: "2019-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-09-26"
 
 LEY DE FOMENTO CULTURAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 14 de octubre de 2003.
 
@@ -444,7 +444,11 @@ XXIII. Difundir los resultados de los distintos proyectos de investigación, pro
 
 XXIV. Elaborar las declaratorias de Patrimonio Cultural tangible y/o intangible que expedirá el titular de la Jefatura de Gobierno del Distrito Federal; y
 
-XXV. Las demás que le otorgue esta Ley y otros ordenamientos jurídicos aplicables.
+> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
+
+XXV. Fomentar los carnavales que se realicen en la Ciudad de México, así como crear un registro y padrón de los mismos, correspondiente a cada Alcaldía.
+
+XXVI. Las demás que le otorgue esta Ley y otros ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
 
@@ -1169,3 +1173,11 @@ G.O. 8 DE OCTUBRE DE 2014.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XXV Y SE RECORRE LA SUBSECUENTE DEL ARTÍCULO 20, DE LA LEY DE FOMENTO CULTURAL DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión, en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
