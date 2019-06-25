@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2017-09-08"
+last_updated: "2019-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -4268,6 +4268,52 @@ VII. La veracidad o falsedad, dolo o mala fe con que se conduzca el interesado o
 
 VIII. El cumplimiento o incumplimiento de las condicionantes, obligaciones, lineamientos y/o disposiciones establecidos en las licencias, autorizaciones, permisos, registros y demás ordenamientos ambientales vigentes, por parte del responsable de una obra, proyecto, programa o actividad en cada una de sus etapas.
 
+> <small>(ADICIONADO, G.O. 25 DE JUNIO DE 2019)</small>
+
+ARTÍCULO 214 BIS.- Se sancionará con una multa de 100 a 1,000 Unidades de Cuenta de la Ciudad de México vigente a quien impida al personal autorizado el acceso al lugar o lugares sujetos a inspección ambiental, en los términos previstos en la orden escrita de acuerdo al artículo 205 de la Ley;
+
+> <small>(ADICIONADO, G.O. 25 DE JUNIO DE 2019)</small>
+
+ARTÍCULO 214 TER.- Se sancionará con una multa de 5,00 a 80,000 Unidades de Cuenta de la Ciudad de México vigente las siguientes conductas:
+
+I. No se empleen equipos y sistemas que controlen las emisiones a la atmósfera, para que no rebasen los niveles máximos permisibles establecidos en las normas oficiales mexicanas y las normas ambientales locales correspondientes; de conformidad con las obligaciones establecidas en la fracción I del artículo 135 de la Ley;
+
+II. A quien no mida y reporte sus emisiones contaminantes a la atmósfera, de acuerdo a los formatos establecidos por la secretaria, de conformidad con lo establecido en la fracción II del artículo 135 de la Ley;
+
+III. A quien omita dar los avisos a que se refieren las fracciones VI y VII del artículo 135 de la Ley;
+
+IV. Realizar obras y actividades en suelo urbano sin la presentación del informe preventivo ante la Secretaría de conformidad con lo previsto en el artículo 56 de la Ley y el Reglamento de Impacto y Riesgo Ambiental;
+
+V. Realizar obras y actividades a que se refiere el artículo 46 de la Ley que por su ubicación, dimensiones, características o alcances (sic) produzcan impactos ambientales y no presenten la Declaratoria de Cumplimiento Ambiental ante la Secretaría de conformidad con lo previsto en el artículo 58 Bis de la Ley;
+
+> <small>(ADICIONADO, G.O. 25 DE JUNIO DE 2019)</small>
+
+ARTÍCULO 214 QUATER.- A quien se coloque en cualquiera de los siguientes supuestos, será sancionado con multa de 50,000 a 100,000 Unidades de Cuenta de la Ciudad de México:
+
+I. Realizar obras o actividades de explotación o aprovechamiento de recursos en áreas naturales protegidas, sin la autorización correspondiente;
+
+II. Realizar obras o actividades que causen o pudieran causar impacto ambiental negativo, sin la autorización correspondiente, o bien, en contravención de los términos y condiciones establecidos en la autorización derivada de la manifestación de impacto ambiental presentada;
+
+III. Realizar obras o actividades que causen o pudieran causar impacto ambiental negativo, sin la autorización correspondiente, o bien, en contravención de los términos y condiciones establecidos en la Licencia Única Ambiental o su actualización;
+
+IV. Descargar aguas residuales de origen industrial que rebasen los límites permitidos en el sistema de drenaje y alcantarillado, así como a los cuerpos de agua o a los sistemas de drenaje y alcantarillado, sin cumplir con los criterios, reglamentos y normas oficiales mexicanas;
+
+V. No instalar plantas o sistemas de tratamiento de aguas residuales de conformidad con los criterios, reglamentos y normas oficiales mexicanas;
+
+VI. No cumplir con los programas de ordenamiento ecológico del territorio; a las declaratorias de áreas de valor ambiental y de áreas naturales protegidas y sus programas de manejo, programas de rescate y recuperación; a las normas y demás disposiciones jurídicas aplicables;
+
+VII. Aquel prestador de servicios en materia de impacto ambiental que no actué conforme a las obligaciones señaladas en esta ley, o actué con negligencia comprobada, de tal modo de dicho actuar genere un daño o peligro al ambiente;
+
+VIII. No contar con la autorización correspondiente para llevar a cabo el manejo y disposición final de residuos en términos del artículo 172 de la Ley;
+
+> <small>(ADICIONADO, G.O. 25 DE JUNIO DE 2019)</small>
+
+ARTÍCULO 214 QUINQUIES.- La infracción a cualquier otro precepto de la Ley o de las disposiciones que de ella deriven, de las normas oficiales mexicanas o las normas oficiales emitidas por la Secretaría distinta de las señaladas expresamente en algún otro artículo de esta Ley y que no tenga sanción especialmente prevista en este ordenamiento será sancionada con multa de 2,000 a 10,000 Unidades de Cuenta de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 25 DE JUNIO DE 2019)</small>
+
+ARTÍCULO 214 SEXIES.- Con independencia de la multa que se imponga por la conducta infractora en que se incurra, se podrá determinar adicionalmente, cualquiera de las demás sanciones administrativas establecidas en el artículo 213 de esta Ley.
+
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 215.
@@ -4679,3 +4725,13 @@ G.O. 8 DE SEPTIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El Jefe de Gobierno de la Ciudad de México deberá hacer las adecuaciones necesarias a la normatividad reglamentaria aplicable dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+G.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 214 BIS, 214 TER, 214 QUATER, 214 QUINTIES (SIC) Y 214 SEXIES A LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA DEL DISTRITO FEDERAL”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
+
+Segundo.- Dentro de los ciento ochenta días siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México a través de la Secretaría de Medio Ambiente, realizará la actualización y armonización de Reglamento de la Ley Ambiental y de Protección a la Tierra en el Distrito Federal.
+
+Tercero.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente decreto.
