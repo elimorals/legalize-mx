@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-74938"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-14"
-last_updated: "2017-12-01"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE DICIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 14 de mayo de 2010.
 
@@ -561,7 +559,7 @@ j) Cinemas, teatros, auditorios, gimnasios, estadios, arenas, autódromos, hipó
 
 k) Otros que por sus características y magnitud sean similares a los mencionados en los incisos anteriores, con un área mayor a mil quinientos metros cuadrados o que tengan una afluencia masiva de personas o representen un riesgo de daños para la población.
 
-Cuando dos o más establecimientos, edificaciones o inmuebles de los señalados en la fracción XV del Artículo13 de esta ley, compartan o estén ubicados dentro de una misma unidad de construcción, o concurran con alguno de los señalados en el presente artículo, la Subsecretaría será competente para realizar visitas de inspección a los mismos.
+Cuando dos o más establecimientos, edificaciones o inmuebles de los señalados en la fracción XV del Artículo 13 de esta ley, compartan o estén ubicados dentro de una misma unidad de construcción, o concurran con alguno de los señalados en el presente artículo, la Subsecretaría será competente para realizar visitas de inspección a los mismos.
 
 Asimismo, la Subsecretaría será competente para inspeccionar a todos los establecimientos o edificaciones que se encuentren ubicados en un radio de quinientos metros a partir de las edificaciones a que se refiere el inciso e) de esta fracción.
 
@@ -607,9 +605,9 @@ XXVIII. Expedir las autorizaciones para el funcionamiento de los grupos voluntar
 
 XXIX. Expedir, previa solicitud, copias certificadas de los documentos que obren en poder de la Subsecretaría, y
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
 
-XXX. En coordinación con la Procuraduría General de Justicia del Estado y demás autoridades competentes, emitir y difundir los lineamientos y criterios para la implementación de los planes de contingencia de disturbios dentro de centros educativos y de salud;
+XXX. En coordinación con la Fiscalía General del Estado y demás autoridades competentes, emitir y difundir los lineamientos y criterios para la implementación de los planes de contingencia de disturbios dentro de centros educativos y de salud;
 
 > <small>(ADICIONADA, P.O. 10 DE MAYO DE 2011)</small>
 
@@ -785,9 +783,9 @@ XIII. Recomendación para el confinamiento de personas en sus domicilios o en si
 
 XIV. El condicionamiento y/o limitación del uso de servicios públicos y privados y el consumo de bienes;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
 
-XV. Informar en coordinación con la Procuraduría General de Justicia del Estado, a las autoridades competentes en materia de educación, sobre la emisión de los avisos de suspensión de clases que sean necesarios en caso de disturbios; y
+XV. Informar en coordinación con la Fiscalía General del Estado, a las autoridades competentes en materia de educación, sobre la emisión de los avisos de suspensión de clases que sean necesarios en caso de disturbios;
 
 > <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 10 DE MAYO DE 2011)</small>
 
@@ -1892,3 +1890,9 @@ PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Las dependencias estatales y municipales correspondientes deberán llevar a cabo las adecuaciones necesarias en su reglamentación dentro de los 60 días naturales contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
