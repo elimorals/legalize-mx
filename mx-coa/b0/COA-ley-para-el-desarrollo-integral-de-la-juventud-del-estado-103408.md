@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-integral-de-la-juventud-del-estado-10340
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-28"
-last_updated: "2018-12-21"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 28 de octubre de 2014.
 
@@ -141,7 +141,9 @@ Vocal: Titular de Secretaría de Gobierno.
 
 Vocal: Titular de la Secretaría de las Mujeres.
 
-Vocal: Procurador de Justicia del Estado.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Vocal: Fiscal General del Estado.
 
 Vocal: Director del Instituto Estatal del Deporte.
 
@@ -185,7 +187,9 @@ DE LAS ACTIVIDADES FORMATIVAS Y DEL ESPARCIMIENTO.
 
 Todas las dependencias del Gobierno del Estado de Coahuila de Zaragoza estarán obligadas a atender, y apoyar, en la medida de sus posibilidades, todas las iniciativas de participación social, colectivas o independientes, de las y los jóvenes coahuilenses, sin importar que dichas iniciativas o acciones cuenten con un respaldo institucional previo.
 
-Todas las Secretarías, así como la Procuraduría de Justicia del Estado, deberán designar un funcionario de su adscripción en el que recaerá la responsabilidad de realizar las labores de enlace con la juventud coahuilense, para procesar sus solicitudes de apoyo.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Todas las Secretarías deberán designar un funcionario de su adscripción en el que recaerá la responsabilidad de realizar las labores de enlace con la juventud coahuilense, para procesar sus solicitudes de apoyo.
 
 ###### Artículo 14.
 
@@ -329,9 +333,11 @@ II.- Participación de las y los jóvenes coahuilenses en la promoción de los i
 
 III.- Diseño de estrategias que fomenten entre la juventud el turismo educativo, deportivo y cultural a nuestro estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2019)</small>
+
 ###### Artículo 27.
 
-La Procuraduría General de Justicia, tendrá la posibilidad de convocar a actividades como las siguientes:
+La Fiscalía General del Estado, tendrá la posibilidad de convocar a actividades como las siguientes:
 
 I.- La difusión de medios alternos para la resolución de conflictos.
 
@@ -526,3 +532,9 @@ P.O. 21 DE DICIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes modificaciones a la Ley para el Desarrollo Integral de la Juventud del Estado de Coahuila de Zaragoza, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
