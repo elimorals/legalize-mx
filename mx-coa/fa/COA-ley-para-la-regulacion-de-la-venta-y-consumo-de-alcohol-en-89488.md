@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-regulacion-de-la-venta-y-consumo-de-alcohol-en-8948
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-18"
-last_updated: "2018-10-05"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Coahuila, el martes 18 de septiembre de 2012.
 
@@ -156,6 +156,14 @@ Comercialización
 En el estado únicamente pueden vender, comprar, ofrecer, preparar, servir o consumir bebidas alcohólicas, las personas mayores de 18 años de edad.
 
 Para efectos de acreditar la mayoría de edad en relación con la venta, compra, expendio o consumo de bebidas alcohólicas, únicamente se considerarán válidos la credencial para votar con fotografía expedida por el Instituto Federal Electoral, pasaporte o cualquier otro documento oficial con fotografía que contenga la fecha de nacimiento del portador.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Quienes vendan y entreguen a domicilio bebidas alcohólicas, deberán cerciorarse que se realice a personas mayores de 18 años de edad, mediante los documentos señalados en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Quienes infrinjan lo dispuesto en el párrafo anterior entregando bebidas alcohólicas a menores de edad, se harán acreedores a las penas y sanciones establecidas en el Código Penal del Estado de Coahuila de Zaragoza.
 
 Autorización
 
@@ -1420,3 +1428,15 @@ P.O. 5 DE OCTUBRE DE 2018.
 Primero.- El decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
 
 Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 270.- SE ADICIONAN UN TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 5 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan (sic) cualquier disposición contraria al presente Decreto.
