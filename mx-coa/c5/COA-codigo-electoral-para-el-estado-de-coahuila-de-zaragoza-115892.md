@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-para-el-estado-de-coahuila-de-zaragoza-115892"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-08-01"
-last_updated: "2017-03-23"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el lunes 1 de agosto de 2016.
 
@@ -245,7 +245,9 @@ c) No ser secretario ejecutivo, director ejecutivo o integrante del cuerpo del s
 
 d) No ser consejero del Instituto, salvo que se separe del cargo dos años antes de la fecha de inicio del proceso electoral de que se trate;
 
-e) No ser Secretario de la Administración Pública Estatal, Procurador General de Justicia del Estado, Magistrado del Poder Judicial, Presidente Municipal, Síndico o Regidor, Legislador federal o local, Consejero o integrante del órgano de dirección de los organismos públicos autónomos, titulares de los organismos descentralizados, salvo que se separen de su encargo cuando menos quince días antes del inicio de la precampaña que corresponda.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+e) No ser Secretario de la Administración Pública Estatal, Fiscal General del Estado, Magistrado del Poder Judicial, Presidente Municipal, Síndico o Regidor, Legislador federal o local, Consejero o integrante del órgano de dirección de los organismos públicos autónomos, titulares de los organismos descentralizados, salvo que se separen de su encargo cuando menos quince días antes del inicio de la precampaña que corresponda.
 
 (NOTA: EL 27 DE OCTUBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 76/2016 Y SUS ACUMULADAS 79/2016, 80/2016 Y 81/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO F) DEL PÁRRAFO 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE OCTUBRE DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1799,7 +1801,9 @@ c) Un 33.3 por ciento que se distribuirá de manera igualitaria entre todas las 
 
 1. La revisión de los informes que los aspirantes presenten sobre el origen y destino de sus recursos y de actos para el apoyo ciudadano según corresponda, así como la práctica de auditorías sobre el manejo de sus recursos y su situación contable y financiera estará a cargo de la Unidad de Fiscalización del Instituto Nacional, en los términos que establezca la Ley General.
 
-2. El Instituto podrá convenir, con la Secretaría de Finanzas, de Fiscalización y Rendición de Cuentas, así como con la Procuraduría General de Justicia del Estado para efectos de la investigación sobre el posible uso de recursos de procedencia ilícita.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+2. El Instituto podrá convenir, con la Secretaría de Finanzas, de Fiscalización y Rendición de Cuentas, así como con la Fiscalía General del Estado para efectos de la investigación sobre el posible uso de recursos de procedencia ilícita.
 
 # LIBRO CUARTO. DEL PROCESO ELECTORAL
 
@@ -4785,7 +4789,9 @@ f) No desempeñar ni haber desempeñado cargo de Dirección Nacional o Estatal e
 
 g) Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que no hubiese sido doloso, y
 
-h) No haber sido Secretario o Subsecretario en la Administración Pública Federal, Estatal o Municipal, ni Procurador General de Justicia del Estado, en los cuatro años anteriores a su designación.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+h) No haber sido Secretario o Subsecretario en la Administración Pública Federal, Estatal o Municipal, ni Fiscal General del Estado, en los cuatro años anteriores a su designación.
 
 ###### Artículo 396.
 
@@ -5177,7 +5183,9 @@ d) Gozar de buena reputación y no haber sido condenado por delito que amerite p
 
 e) Haber residido en el país y en el estado, durante un año anterior al día de la designación;
 
-f) No haber sido, gobernador, secretario, procurador, senador, diputado federal o local, durante los cuatro años previos al día de su nombramiento;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+f) No haber sido gobernador, secretario, fiscal general, senador, diputado federal o local, durante los cuatro años previos al día de su nombramiento;
 
 g) Contar con credencial para votar con fotografía;
 
@@ -5558,3 +5566,9 @@ TERCERO.- Háganse las anotaciones correspondientes, al calce de los artículos 
 CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 QUINTO.- Infórmese a la Suprema Corte de Justicia de la Nación de la expedición del presente decreto, dictado en cumplimiento de la sentencia de la Acción de Inconstitucionalidad 79/2016 y sus acumuladas 79/2016, 80/2016 y 81/2016.
+
+P.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 269.- SE MODIFICA DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
