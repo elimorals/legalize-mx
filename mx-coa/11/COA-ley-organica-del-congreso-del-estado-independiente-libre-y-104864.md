@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2019-03-19"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -1121,7 +1121,9 @@ XVIII. Renuncias y licencias de Magistrados del Tribunal Superior de Justicia, d
 
 XIX. Nombramiento o elección de quienes deban sustituir a los servidores públicos mencionados en la fracción anterior;
 
-XX. Ratificación del Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+XX. Nombramiento del Fiscal General del Estado,
 
 XXI. El otorgamiento de amnistías;
 
@@ -1889,7 +1891,9 @@ III. Acordar por sí o a petición del Ejecutivo, la convocatoria de la Legislat
 
 IV. Designar al Gobernador Interino o al Provisional, en los casos a que se refiere la Constitución Política del Estado;
 
-V. Tomar, en su caso, la protesta de ley del Gobernador del Estado, la de los Magistrados del Tribunal Superior de Justicia y de los demás servidores públicos en los casos que proceda conforme a la ley, así como ratificar, en su caso, el nombramiento del Procurador General de Justicia del Estado.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+V. Tomar, en su caso, la protesta de ley del Gobernador del Estado, la de los Magistrados del Tribunal Superior de Justicia y de los demás servidores públicos en los casos que proceda conforme a la ley.
 
 VI. Conceder licencia, en su caso, a los servidores públicos a que se refiere la fracción XVIII del artículo 67 de la Constitución Política Local; así como conocer y resolver, en los términos de la propia Constitución y demás ordenamientos aplicables, sobre las renuncias que individualmente, y sin tratarse de la mayoría, presenten los miembros de los Ayuntamientos y de los Concejos Municipales;
 
@@ -2793,7 +2797,9 @@ La Legislatura realizará el análisis del informe presentado por el Gobernador 
 
 Para ese efecto, la Junta de Gobierno formulará una propuesta sobre las y los servidores públicos cuya comparecencia se solicita, así como el formato y duración de dichas comparecencias, según lo dispuesto por esta ley.
 
-El Procurador General presentará la cuenta de actividades de la Procuraduría General de Justicia del Estado, en el mes en el que se cite a los titulares de las dependencias de la administración pública centralizada, a la glosa del informe anual de gobierno, cuidando siempre que la presentación sea posterior al informe del Gobernador; lo anterior de conformidad con lo dispuesto en la Ley de Procuración de Justicia del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+El Fiscal General del Estado presentará anualmente el informe de actividades de la Fiscalía General del Estado, en el mes posterior al en que el Gobernador del Estado rinda su informe anual.
 
 ### CAPITULO II. Del Nombramiento de Gobernador Interino y Provisional y de la Elección de Gobernador Sustituto y Otros Funcionarios
 
@@ -2877,7 +2883,9 @@ En los demás casos en que deba procederse a la designación de Gobernador provi
 
 Es facultad del Congreso o de la Diputación Permanente, otorgar o negar la aprobación de los nombramientos de Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje, que les someta el Gobernador del Estado, en los términos de la Constitución y las leyes.
 
-Igualmente, ratificar, el nombramiento del Procurador General de Justicia del Estado y de aquellos otros titulares de la administración pública estatal que presente el Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Igualmente, ratificar, el nombramiento de aquellos otros titulares de la administración pública estatal que presente el Ejecutivo del Estado.
 
 ### CAPITULO III. Del Ceremonial
 
@@ -3295,7 +3303,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 19 DE MARZO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 218.- SE REFORMAN LOS ARTÍCULOS 21 FRACCIÓN II; 82; 88 FRACCIÓN IX; 97 FRACCIONES VI, VII, VIII Y 132 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 218.- SE REFORMAN LOS ARTÍCULOS 21 FRACCIÓN II; 82; 88 FRACCIÓN IX; 97 FRACCIONES VI, VII, VIII Y 132 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3308,3 +3316,9 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
