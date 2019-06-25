@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2019-04-26"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-05"
 
 LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 26 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -46,7 +46,7 @@ DECRETA:
 
 DECRETO POR EL QUE SE CREA LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
 
-LEY DE RESIDUOS SOLIDOS DEL DISTO FEDERAL
+LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
 
 ## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -72,17 +72,25 @@ III. Almacenamiento selectivo o separado: La acción de depositar los residuos s
 
 IV. Aprovechamiento del valor o valorización: El conjunto de acciones cuyo objetivo es mantener a los materiales que los constituyen en los ciclos económicos o comerciales, mediante su reutilización, remanufactura, rediseño, reprocesamiento, reciclado y recuperación de materiales secundarios con lo cual no se pierde su valor económico;
 
+> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
+
+IV Bis. Biodegradable: Material que es capaz de descomponerse en dióxido de carbono, metano, agua, componentes inorgánicos o biomasa, como resultado de la acción de microorganismos;
+
 V. Biogás: El conjunto de gases generados por la descomposición microbiológica de la materia orgánica;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 25 DE JUNIO DE 2019)</small>
 
-VI. Biopolímero: Es un polímero de origen natural que puede ser sintetizado por microorganismos u obtenido de fuentes animales o plantas. Son básicamente generados de recursos renovables y por regla general son fácilmente biodegradables, pero pueden no serlo;
+VI. Biopolímero: Es un polímero de origen natural que puede ser sintetizado por microorganismos u obtenido de fuentes animales o plantas. Son básicamente generados de recursos renovables tales como el Ácido Poliláctico (PLA) y el Polihidroxialcanoato (PHA) de forma enunciativa, más no limitativa, y por regla general son fácilmente biodegradables y compostables, pero pueden no serlo;
 
 VII. (DEROGADA, G.O. 8 DE SEPTIEMBRE DE 2014)
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 VIII. Composta: El producto resultante del proceso de composteo;
+
+> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
+
+VIII Bis. Compostable: Material susceptible a biodegradarse como mínimo al 90 por ciento en 6 meses, si es sometido a un ambiente rico de dióxido de carbono o en contacto con materiales orgánicos, al cabo de 3 meses la masa del material debe estar constituida como mínimo por el 90% de fragmentos de dimensiones inferiores a 2 milímetros;
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -152,6 +160,10 @@ XXII. Lixiviados: Los líquidos que se forman por la reacción, arrastre o filtr
 
 XXIII. Manejo Integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
 
+> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
+
+XXIII Bis. Microplásticos. Fragmentos de plástico de tamaño inferior a 5 milímetros;
+
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 XXIV. Minimización: El conjunto de medidas tendientes a evitar la generación de los residuos sólidos y aprovechar, tanto sea posible, el valor de aquellos cuya generación no sea posible evitar;
@@ -163,6 +175,18 @@ XXV. Plan de Manejo: El Instrumento cuyo objetivo es minimizar la generación y 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 XXVI. Planta de selección y tratamiento: La instalación donde se lleva a cabo cualquier proceso de selección y tratamiento de los residuos sólidos para su valorización o, en su caso, disposición final;
+
+> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
+
+XXVI Bis. Plástico. Material fabricado a partir de una amplia gama de polímeros orgánicos, fósiles y no fósiles, tales como el tereftalato de polietileno (PET), el polipropileno (PP), el polietileno de baja densidad (PEBD), el polietileno de alta densidad (PEAD), el poliestireno (PS), poliestireno expandido (PSE), el policloruro de vinilo (PVC) y policarbonato que pueden moldearse mientras es suave y luego volverse a su forma rígida o ligeramente rígida e incluso elástica;
+
+> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
+
+XXVI Ter. Plásticos degradables: Materiales plásticos a los que se incluyen aditivos catalizadores que propician su descomposición en múltiples etapas. Incluye los plásticos oxodegradables, fotodegradables, hidrodegradables y termodegradables, de manera enunciativa más no limitativa;
+
+> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
+
+XXVI Quater. Productos plásticos de un solo uso: Productos que se fabrican total o parcialmente a partir de plástico y que no están concebidos para lograr, dentro de su vida útil, múltiples rotaciones al ser devueltos al productor para su recarga o ser reutilizados para el mismo propósito con que fueron concebidos, tales como bolsas, tenedores, cuchillos, cucharas, palitos mezcladores, platos, popotes o pajitas, bastoncillos para hisopos de algodón, globos y varillas para globos, vasos y sus tapas, charolas para transportar alimentos, aplicadores de tampones, fabricados total o parcialmente de plásticos, de manera enunciativa más no limitativa;
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -298,15 +322,15 @@ IX. Suscribir convenios o acuerdos con cámaras industriales, comerciales y de o
 
 X. Implementar permanentemente, entre la población, programas de difusión y promoción de la cultura de la separación de los residuos, así como su reducción, reutilización y reciclaje, en los que participen los sectores industriales y comerciales;
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 25 DE JUNIO DE 2019)</small>
 
-XI. Establecer, los criterios, lineamientos y normas ambientales para el Distrito Federal referentes a la producción y el consumo sustentable de productos plásticos incluyendo el poliestireno expandido, los cuales deberán atender a las características específicas requeridas para cada producto y sujetarse a lineamientos técnicos y científicos, basados en un proceso de análisis de las tecnologías vigentes; éstos deberán emitirse considerando la opinión de los productores y distribuidores.
+XI. Establecer los criterios, lineamientos y normas ambientales para la Ciudad de México referentes a la producción y el consumo sustentable de plásticos, los cuales deberán atender a las características específicas requeridas para cada producto y sujetarse a lineamientos técnicos y científicos, basados en un proceso de análisis de las tecnologías vigentes; éstos deberán emitirse considerando la opinión de los productores y distribuidores.
 
-Los criterios y normas que emita la Secretaría deberán considerar los principios de reducción, reciclaje y reutilización en el manejo de las bolsas de plástico.
+Dichos criterios, lineamientos y normas ambientales para la Ciudad de México deberán garantizar la disminución de los impactos ambientales asociados a la extracción de materiales, transformación, manufactura, distribución, uso y destino de estos plásticos, promoviendo el uso de materias primas provenientes de productos reciclados post consumo y de recursos naturales renovables, para que una vez terminada la vida útil de estos, sus residuos se incorporen en los procesos productivos para su reciclaje y reutilización, minimizando su disposición final.
 
-Dichos criterios, lineamientos y normas ambientales para el Distrito Federal deberán garantizar la disminución de los impactos ambientales asociados a la extracción de materiales, transformación, manufactura, distribución, uso y destino de éstos productos plásticos, promoviendo el uso de materias primas provenientes de los recursos naturales renovables y reciclables, por lo que una vez terminada la vida útil de estos, sus residuos se incorporen para su reciclaje y reutilización, minimizando la disposición final.
+> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2019)</small>
 
-Dichos criterios y normas garantizarán que el ciclo de vida de las bolsas de plástico no sea mayor a diez años, procurando la utilización de materiales provenientes de recursos renovables, como los biopolímeros para su pronta biodegradación en los destinos finales. Las bolsas de cualquier otro material no plástico, que garanticen su reutilización y reciclaje no estarán sujetas a este plazo. En el caso de las bolsas que cuenten con un aditivo que sea incompatible con el reciclaje, estas deberán garantizar tener un ciclo de vida menor a cinco años.
+XI Bis. Establecer precios de garantía a cargo de los fabricantes, distribuidores y comercializadores de productos elaborados con plásticos, para promover su reciclaje una vez que se convierten en residuos;
 
 > <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -724,9 +748,17 @@ X. Tratar térmicamente los residuos sólidos recolectados, sin considerar las d
 
 XI. Diluir o mezclar residuos sólidos o industriales peligrosos en cualquier líquido y su vertimiento al sistema de alcantarillado, a cualquier cuerpo de agua o sobre suelos con o sin cubierta vegetal;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 25 DE JUNIO DE 2019)</small>
 
-XI BIS. Que se entreguen para transportación, carga o traslado del consumidor final a título gratuito, de manera onerosa, o con motivo de cualquier acto comercial, bolsas de plástico que no estén sujetas a los criterios y normas para la producción y el consumo sustentable, señalados en la fracción XI del artículo 6º de la presente ley;
+XI Bis. La comercialización, distribución y entrega de bolsas de plástico al consumidor, en los puntos de venta de bienes o productos, excepto si son compostables. Se excluyen, las bolsas de plástico necesarias por razones de higiene o que prevengan el desperdicio de alimentos siempre y cuando no existan alternativas compostables.
+
+La comercialización, distribución y entrega de tenedores, cuchillos, cucharas, palitos mezcladores, platos, popotes o pajitas, bastoncillos para hisopos de algodón, globos y varillas para globos, vasos y sus tapas, charolas para transportar alimentos, aplicadores de tampones, fabricados total o parcialmente de plásticos, diseñados para su desecho después de un solo uso, excepto los que sean compostables.
+
+Queda excluida la comercialización, distribución y entrega de popotes para asistencia médica.
+
+La comercialización, distribución y entrega de productos que contengan microplásticos añadidos intencionalmente.
+
+La comercialización, distribución y entrega de cápsulas de café de un solo uso fabricadas con materiales plásticos de bajo potencial de aprovechamiento.
 
 XII. Mezclar residuos peligrosos con residuos sólidos e industriales no peligrosos; y
 
@@ -1423,3 +1455,31 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Dentro de un plazo de 90 días naturales, posteriores a la entrada en vigor del presente Decreto, el Gobierno de la Ciudad de México deberá realizar las adecuaciones reglamentarias y normativas con la finalidad de dar cumplimiento al mismo.
 
 TERCERO.- El Gobierno de la Ciudad de México, las Alcaldías, el Congreso de la Ciudad de México, el Tribunal Superior de Justicia de la Ciudad de México y demás órganos autónomos, cubrirán las erogaciones que, en su caso se generen con motivo de la entrada en vigor del presente decreto con cargo al presupuesto aprobado por el Congreso de la Ciudad de México para el presente ejercicio fiscal y los subsecuentes.
+
+G.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES IV BIS, VIII BIS, XXIII BIS, XXVI BIS, XXVI TER, XXVI QUATER AL ARTÍCULO 3 Y UNA FRACCIÓN XI BIS AL ARTICULO 6; ASIMISMO, SE REFORMAN LAS FRACCIONES VI DEL ARTÍCULO 3, XI DEL ARTICULO 6 Y XI BIS DEL ARTICULO 25, TODAS EN LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
+
+Segundo. Dentro de los doce meses siguientes a la publicación del presente Decreto, la Secretaría de Medio Ambiente de la Ciudad de México, realizará la actualización y armonización de la normatividad aplicable en materia de Residuos Sólidos en la Ciudad de México, así como de los criterios de producción y consumo sustentable de los productos plásticos biodegradables y de los compostables.
+
+Asimismo, dentro de los 180 días siguientes a la publicación del presente decreto, la Secretaría de Medio Ambiente de la Ciudad de México iniciará la elaboración de la Norma Ambiental para la producción y consumo sustentable de los productos plásticos biodegradables y de los compostables.
+
+Tercero. Las modificaciones al Artículo 25 fracción XI BIS surtirán efecto de acuerdo al siguiente calendario.
+
+La prohibición de:
+
+La comercialización, distribución y entrega de bolsas de plástico al consumidor, en los puntos de venta de bienes o productos, excepto si son compostables. Se excluyen, las bolsas de plástico necesarias por razones de higiene o que prevengan el desperdicio de alimentos siempre y cuando no existan alternativas de plástico compostable, a partir de 2020.
+
+La comercialización, distribución y entrega de tenedores, cuchillos, cucharas, palitos mezcladores, platos, popotes o pajitas, bastoncillos para hisopos de algodón, globos y varillas para globos, vasos y sus tapas, charolas para transportar alimentos, aplicadores de tampones, fabricados total o parcialmente de plásticos, diseñados para su desecho después de un solo uso, excepto los que sean compostables, a partir del 1 de enero de 2021.
+
+La comercialización, distribución y entrega de productos que contengan microplásticos añadidos intencionalmente, a partir del 1 enero de 2021.
+
+La comercialización, distribución y entrega de cápsulas de café de un solo uso fabricadas con materiales plásticos de bajo potencial de aprovechamiento, a partir del 1 enero de 2021.
+
+Cuarto. A partir de la publicación del presente Decreto, la Secretaría de Medio Ambiente de la Ciudad de México iniciará, promoverá e implementará programas de cultura ambiental y concientización dirigidos a la ciudadanía sobre el impacto negativo del abuso en el consumo de los plásticos de un solo uso, y las alternativas que existen para evitarlo, incluyendo su reutilización y reciclaje. Para tal efecto el Congreso de la Ciudad de México, deberá considerar en el Presupuesto de Egresos una partida suficiente para llevar a cabo dichas acciones.
+
+Quinto. La Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México deberá instrumentar dentro de los 180 días posteriores a la publicación del presente decreto, un programa de asesoramiento a los productores de plástico de un solo uso, a efecto de que realicen una reconversión tecnológica, en la que se desarrollen alternativas de plásticos compostables. Para tal efecto se deberá prever en el Presupuesto de Egresos una partida suficiente para llevar a cabo dichas acciones.
+
+Sexto. Se derogan todas aquellas disposiciones que contravengan el contenido del presente decreto.
