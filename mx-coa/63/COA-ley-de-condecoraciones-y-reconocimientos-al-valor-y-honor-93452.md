@@ -4,7 +4,7 @@ identifier: "COA-ley-de-condecoraciones-y-reconocimientos-al-valor-y-honor-93452
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-22"
-last_updated: "2013-03-22"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93452&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 22 de marzo de 2013.
 
@@ -57,7 +57,9 @@ IV. Consejo: El Consejo de Condecoraciones y Reconocimientos al Valor y Honor de
 
 V. Condecoración: Las preseas, medallas, placas conmemorativas y demás insignias de honor y distinción, así como el estímulo económico que el Estado otorga a los agentes de policía de las fuerzas de seguridad pública estatal o municipal para premiar su heroísmo, capacidad profesional, perseverancia y valor en el cumplimiento de su deber.
 
-VI. Fuerzas de seguridad pública estatales: Las corporaciones policiales de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+VI. Fuerzas de seguridad pública estatales: Las corporaciones policiales de la Secretaría de Seguridad Pública y de la Fiscalía General del Estado de Coahuila de Zaragoza;
 
 VII. Fuerzas de seguridad pública municipales: Las fuerzas de seguridad pública de los municipios;
 
@@ -87,7 +89,9 @@ II. El Diputado que coordine la Comisión de Gobernación, Puntos Constitucional
 
 III. El Diputado que coordine la Comisión de Seguridad Pública del H. Congreso del Estado de Coahuila de Zaragoza;
 
-IV. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+IV. El Fiscal General del Estado;
 
 V. El Secretario de Seguridad Pública del Estado;
 
@@ -147,7 +151,9 @@ I. Un representante del Consejo, quien las coordinará;
 
 II. Un representante de la Secretaría de Gobierno;
 
-III. Un representante de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+III. Un representante de la Fiscalía General del Estado;
 
 IV. Un representante de la Secretaría de Seguridad Pública;
 
@@ -157,7 +163,9 @@ VI. Un representante de la Secretaría de Fiscalización y Rendición de Cuentas
 
 VII. Un representante del Comité Estatal o municipal, según corresponda;
 
-VIII. Demás personal de la Secretaría de Seguridad Pública, de la Procuraduría General de Justicia del Estado o del municipio de que se trate, según se amerite a consideración del Consejo.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+VIII. Demás personal de la Secretaría de Seguridad Pública, de la Fiscalía General del Estado o del municipio de que se trate, según se amerite a consideración del Consejo.
 
 ###### Artículo 11.
 
@@ -223,13 +231,19 @@ En los casos que el Consejo estime conveniente, podrá además una (sic) recomen
 
 Podrán presentar ante el Consejo candidatos a obtener las condecoraciones previstas en la presente Ley:
 
-I. El Gobernador del Estado, por sí o a solicitud del Secretario de Seguridad Pública o del Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
 
-II. Los presidentes municipales;
+I. El Gobernador del Estado, por sí o a solicitud del Secretario de Seguridad Pública;
 
-III. Los Comités, y
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2019)</small>
 
-IV. Cualquier ciudadano coahuilense.
+II. El Fiscal General del Estado;
+
+III. Los presidentes municipales;
+
+IV. Los Comités, y
+
+V. Cualquier ciudadano coahuilense.
 
 ###### Artículo 23.
 
@@ -354,3 +368,11 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 HOMERO RAMOS GLORIA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
