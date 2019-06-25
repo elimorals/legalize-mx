@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-47-2015-del-pleno-del-consejo-de-la-110606"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-11-27"
-last_updated: "2018-10-15"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110606&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-11-20"
 
 ACUERDO GENERAL 47/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE CHIHUAHUA, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2019.
 
 Acuerdo publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 27 de noviembre de 2015.
 
@@ -187,7 +187,9 @@ I. La sustitución recaerá en otro juez de Distrito del mismo Centro; y
 
 II. En caso de no ser posible lo previsto en la fracción anterior, la sustitución recaerá en los jueces de Distrito del Centro de Justicia Penal Federal más cercano.
 
-Tratándose del Tribunal de Alzada del Centro, se habilita al Primer Tribunal Unitario del Decimoséptimo Circuito con residencia en Chihuahua, para conocer, con ese carácter, de los asuntos que se tramitan en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 6/2019 DEL PLENO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE JUNIO DE 2019)</small>
+
+Tratándose del Tribunal de Alzada del Centro, la sustitución será entre los dos Tribunales Unitarios que funcionan en esa residencia y para el caso de que ello no fuera posible, recaerá en los Tribunales de Alzada del Centro de Justicia Penal más cercano, en el orden numérico de su denominación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
 
@@ -215,11 +217,13 @@ El Administrador del Centro llevará a cabo las acciones de coordinación que se
 
 SEGUNDO. El turno como Administrador corresponderá al Juez de Distrito del Centro que sea designado por el Consejo, cuya duración en el cargo será determinada conforme lo dispuesto por el Acuerdo General 36/2014, del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
 
-TERCERO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita al Segundo Tribunal Unitario del Decimoséptimo Circuito con residencia en Chihuahua, para conocer de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 6/2019 DEL PLENO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE JUNIO DE 2019)</small>
 
-El tribunal unitario precisará en los actos procesales que celebre la denominación con la que actúa, dependiendo si lo hace conforme al citado Código o al Código Federal de Procedimientos Penales.
+TERCERO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita a los Tribunales Unitarios del Decimoséptimo Circuito con residencia en Chihuahua, Chihuahua, para conocer, en el orden numérico de su denominación, de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
 
-Este tribunal unitario queda exceptuado de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirá por las disposiciones aplicables como tribunal unitario de Circuito.
+Los Tribunales Unitarios precisarán en los actos procesales que celebren la denominación con la que actúan, dependiendo si lo hacen conforme al citado Código o al Código Federal de Procedimientos Penales.
+
+Estos Tribunales Unitarios quedan exceptuados de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirán por las disposiciones aplicables como Tribunal Unitario de Circuito.
 
 CUARTO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos de la Oficialía de Partes del Centro y la Oficina de Correspondencia Común de los Tribunales Unitarios de Circuito habilitados, para en su caso compensar entre ellos la carga de trabajo en su doble función, prevista en los artículos 17 último párrafo y Tercero transitorio del presente Acuerdo.
 
@@ -770,3 +774,15 @@ II Quinquies. Centro de Justicia Penal Federal en el Estado de Chihuahua, con se
 III. a XIII. …”
 
 OCTAVO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 6/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 47/2015, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE CHIHUAHUA, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE".]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Los asuntos que se encuentren radicados en los Tribunales Unitarios Primero y Segundo del Decimoséptimo Circuito correspondientes al Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre, con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento del tribunal que los recibió, hasta su conclusión.
+
+CUARTO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos de la Oficialía de Partes del Centro y la Oficina de Correspondencia Común de los Tribunales Unitarios de Circuito habilitados, para, en su caso, compensar entre ellos la carga de trabajo en su doble función, prevista en el artículo 17, último párrafo y el Transitorio TERCERO del Acuerdo General 47/2015, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre.
