@@ -4,7 +4,7 @@ identifier: "COA-ley-de-victimas-para-el-estado-de-coahuila-de-zaragoza-100658"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-02"
-last_updated: "2017-12-26"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 2 de mayo de 2014.
 
@@ -531,13 +531,13 @@ Serán sancionadas administrativa, civil y penalmente, según proceda de conform
 
 En aquellos casos en que la Comisión Ejecutiva identifique la actualización de los supuestos enunciados en el párrafo que precede, realizará, de oficio la denuncia de hechos que corresponda ante la autoridad competente y le dará seguimiento. Cuando el personal implicado sea parte de la Comisión Ejecutiva, además de las sanciones civiles y penales a que haya lugar, procederá la inhabilitación de cinco a diez años para desempeñar cualquier cargo o función pública en el Estado.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
 ###### Artículo 27.
 
-La Procuraduría General de Justicia, emitirá los lineamientos respectivos y elaborará el Programa Estatal de Prevención y Protección de los derechos a la vida, la libertad, la integridad y la seguridad de víctimas, personas defensoras de derechos humanos y servidores públicos, teniendo en cuenta las recomendaciones que al respecto realice la Comisión Ejecutiva. El objetivo del programa será desarrollar los procedimientos y mecanismos de implementación de las medidas de prevención y protección integral contemplados por la presente Ley, así como determinar los ámbitos de competencia estatal y municipal en la materia, así como las acciones de coordinación, seguimiento y monitoreo del cumplimiento de dichas acciones.
+La Fiscalía General de la República, emitirá los lineamientos respectivos y elaborará el Programa Estatal de Prevención y Protección de los derechos a la vida, la libertad, la integridad y la seguridad de víctimas, personas defensoras de derechos humanos y servidores públicos, teniendo en cuenta las recomendaciones que al respecto realice la Comisión Ejecutiva. El objetivo del programa será 18 (sic) desarrollar los procedimientos y mecanismos de implementación de las medidas de prevención y protección integral contemplados por la presente Ley, así como determinar los ámbitos de competencia estatal y municipal en la materia, así como las acciones de coordinación, seguimiento y monitoreo del cumplimiento de dichas acciones.
 
-La Procuraduría General de Justicia llevará un registro de todas las medidas adoptadas y velará porque las acciones adelantadas por otras dependencias o entidades se realicen de forma coordinada, integral y efectiva.
+La Fiscalía General de la República llevará un registro de todas las medidas adoptadas y velará porque las acciones adelantadas por otras dependencias o entidades se realicen de forma coordinada, integral y efectiva.
 
 ###### Artículo 28.
 
@@ -571,9 +571,11 @@ V. Las demás que establezcan esta ley, el Programa de Prevención y Protección
 
 Con el propósito de proteger a la víctima por delitos cometidos en su contra, el Ministerio Público velará porque no se ejerza coacción física o moral sobre ellas al rendir sus declaraciones en cualquier etapa del procedimiento penal.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
 ###### Artículo 31.
 
-Las dependencias y entidades de la Administración Pública Estatal y municipal, en el ámbito de su competencia, están obligadas a prestar la colaboración que les requiera la Procuraduría General de Justicia, para la aplicación de las Medidas de Protección previstas en esta Ley.
+Las dependencias y entidades de la Administración Pública Estatal y municipal, en el ámbito de su competencia, están obligadas a prestar la colaboración que les requiera la Fiscalía General de la República, para la aplicación de las Medidas de Protección previstas en esta Ley.
 
 ###### Artículo 32.
 
@@ -741,7 +743,7 @@ El Reglamento establecerá el procedimiento y el monto de gasto comprobable mín
 
 La compensación a las víctimas de los delitos señaladas en el primer párrafo de éste artículo, consistirá en apoyo económico cuya cuantía tomará en cuenta la proporcionalidad del daño y los montos señalados en el artículo 50 de este ordenamiento.
 
-(NOTA: EL 14 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 130/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 14 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 130/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
 
@@ -2408,3 +2410,9 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
