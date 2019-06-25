@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-a-testigos-y-terceros-involucrados-en-el-1018
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-11"
-last_updated: "2014-07-11"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS CIENTO OCHENTA DÍAS SIGUIENTES DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 11 de julio de 2014.
 
@@ -69,13 +67,17 @@ VI. Medidas de protección: las acciones realizadas por la autoridad, tendientes
 
 VII. Persona protegida: aquellos testigos o terceros que puedan verse intimidados, amenazados o presionados por razón de su participación actual o futura, por ser testigos o servidores públicos del sistema de justicia, o allegados a ellos, que aceptan la ejecución de alguna medida de protección establecida en esta ley;
 
-VIII. Procuraduría: la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+VIII. Fiscalía: la Fiscalía General del Estado;
 
 IX. Programa: el programa de protección a testigos, terceros y allegados en situación de riesgo;
 
 X. Riesgo: amenaza real e inminente que, de actualizarse, expone la vida e integridad física de la persona protegida, por su intervención en un proceso penal o en virtud de ser allegado de un testigo en riesgo;
 
-XI. Subprocuraduría: la Subprocuraduría de investigación y búsqueda de personas no localizadas y atención a víctimas, ofendidos y testigos;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+XI. Fiscalía de Investigación Especializada: la Fiscalía de Investigación Especializada, Atención y Protección a Víctimas y Testigos de la Fiscalía General del Estado;
 
 XII. Terceros involucrados en el proceso: los peritos y personas que deben intervenir en el proceso penal para efectos probatorios, de acuerdo a lo establecido en el Código de Procedimientos Penales;
 
@@ -115,17 +117,25 @@ El o los imputados que resulten condenados por sentencia firme, deben resarcir a
 
 Competencia.
 
-Las medidas de protección y atención a que se refiere esta ley serán brindadas por el titular del Poder Ejecutivo a través de la Procuraduría, la que implementará los programas, lineamientos y procedimientos administrativos a efecto de que éstas se hagan efectivas.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
-La Procuraduría podrá auxiliarse para la prestación de los servicios de protección y atención a testigos sus allegados y terceros involucrados en el proceso, a través de los cuerpos de seguridad pública estatal y municipal. Así mismo deberá acudir ante la autoridad judicial cuando el caso requiera otras medidas que afecten derechos del imputado o cuando se requiera su intervención para el efectivo cumplimiento de las medidas.
+Las medidas de protección y atención a que se refiere esta ley serán brindadas por la Fiscalía, la que implementará los programas, lineamientos y procedimientos administrativos a efecto de que éstas se hagan efectivas.
 
-La Procuraduría, a través de la Subprocuraduría, será la encargada de vigilar el cumplimiento de los derechos de atención y protección regulados por este ordenamiento, incluyendo la ejecución de los acuerdos y demás determinaciones emitidas por el titular del Ejecutivo Estatal o por el titular de la Procuraduría.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Fiscalía podrá auxiliarse para la prestación de los servicios de protección y atención a testigos sus allegados y terceros involucrados en el proceso, a través de los cuerpos de seguridad pública estatal y municipal. Así mismo deberá acudir ante la autoridad judicial cuando el caso requiera otras medidas que afecten derechos del imputado o cuando se requiera su intervención para el efectivo cumplimiento de las medidas.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Fiscalía, a través de la Fiscalía de Investigación Especializada, será la encargada de vigilar el cumplimiento de los derechos de atención y protección regulados por este ordenamiento, incluyendo la ejecución de los acuerdos y demás determinaciones emitidas por el titular de la Fiscalía.
 
 ###### Artículo 6.
 
 Coordinación y colaboración.
 
-La Procuraduría podrá celebrar acuerdos y convenios de coordinación y colaboración con dependencias federales, estatales y municipales, de otras entidades federativas o del sector privado y social, a efecto de que la persona protegida reciba una adecuada atención y tengan expeditos los derechos que les otorga la Constitución Política de los Estados Unidos Mexicanos y mediante los cuales se establezcan los mecanismos que permitan la participación de los sectores público, social y privado en materia de protección y atención a testigos o personas en situación de riesgo, a sus allegados y terceros involucrados en el proceso.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Fiscalía podrá celebrar acuerdos y convenios de coordinación y colaboración con dependencias federales, estatales y municipales, de otras entidades federativas o del sector privado y social, a efecto de que la persona protegida reciba una adecuada atención y tengan expeditos los derechos que les otorga la Constitución Política de los Estados Unidos Mexicanos y mediante los cuales se establezcan los mecanismos que permitan la participación de los sectores público, social y privado en materia de protección y atención a testigos o personas en situación de riesgo, a sus allegados y terceros involucrados en el proceso.
 
 ###### Artículo 7.
 
@@ -137,17 +147,27 @@ Las autoridades competentes para la aplicación de la presente ley, tienen el de
 
 Competencia de la Procuraduría.
 
-La Procuraduría, a través de la Subprocuraduría y en coordinación con la Dirección, es el órgano facultado para garantizar la protección de los testigos o personas en situación de riesgo, a sus allegados o a los terceros involucrados en el proceso, otorgando a quienes considere pertinente las medidas necesarias para garantizar su vida, su integridad física y cualquier otro bien que les sea propio.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
-La Procuraduría podrá solicitar la colaboración de cualquier autoridad para garantizar, de manera efectiva, la seguridad y bienestar físico, psicológico y social de las personas protegidas y sus allegados en los términos de la presente ley.
+La Fiscalía, a través de la Fiscalía de Investigación Especializada y en coordinación con la Dirección, es el órgano facultado para garantizar la protección de los testigos o personas en situación de riesgo, a sus allegados o a los terceros involucrados en el proceso, otorgando a quienes considere pertinente las medidas necesarias para garantizar su vida, su integridad física y cualquier otro bien que les sea propio.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Fiscalía podrá solicitar la colaboración de cualquier autoridad para garantizar, de manera efectiva, la seguridad y bienestar físico, psicológico y social de las personas protegidas y sus allegados en los términos de la presente ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2019)</small>
 
 ###### Artículo 9.
 
-Atribuciones de la Subprocuraduría y la Dirección General de Atención y Protección a Víctimas y Testigos.
+Atribuciones de la Fiscalía de Investigación Especializada y la Dirección General de Atención y Protección a Víctimas y Testigos.
 
-La Subprocuraduría, a través de la Dirección, en el cumplimiento de los objetivos de esta ley y sin perjuicio de aquéllas conferidas por otros ordenamientos, tiene las siguientes atribuciones:
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
-I. Elaborar anualmente el programa, así como el proyecto de presupuesto estimado necesario para su ejecución y someterlos a la aprobación del titular de la Procuraduría;
+La Fiscalía de Investigación Especializada, a través de la Dirección, en el cumplimiento de los objetivos de esta ley y sin perjuicio de aquéllas conferidas por otros ordenamientos, tiene las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+I. Elaborar anualmente el programa, así como el proyecto de presupuesto estimado necesario para su ejecución y someterlos a la aprobación del titular de la Fiscalía;
 
 II. Elaborar los protocolos para atender las solicitudes del Ministerio Público, a fin de brindar la protección a los sujetos de la presente ley;
 
@@ -203,7 +223,9 @@ II. Vigilar, en los términos de la presente ley, el cumplimiento del Ministerio
 
 Autoridades auxiliares.
 
-Todas las entidades, organismos y demás dependencias estatales o municipales, así como las dependencias, organismos o instituciones privadas con los que la Procuraduría haya celebrado convenio, quedan obligados a prestar la colaboración que les requiera la Dirección, el Ministerio Público o el órgano jurisdiccional competente, para la aplicación de las medidas de protección y atención previstas en esta ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Todas las entidades, organismos y demás dependencias estatales o municipales, así como las dependencias, organismos o instituciones privadas con los que la Fiscalía haya celebrado convenio, quedan obligados a prestar la colaboración que les requiera la Dirección, el Ministerio Público o el órgano jurisdiccional competente, para la aplicación de las medidas de protección y atención previstas en esta ley.
 
 Las instancias mencionadas están obligadas a mantener en reserva y estricta confidencialidad, toda la información que adquieren en virtud de su participación en las actividades de colaboración que ordena esta ley.
 
@@ -217,15 +239,21 @@ Los cuerpos de seguridad pública estatal y municipal, como órganos auxiliares 
 
 Previsiones presupuestales.
 
-El Poder Ejecutivo del Estado, a través de los órganos que integran la administración pública, deberá solicitar anualmente las partidas presupuestarias necesarias para el cumplimiento de esta ley.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
-En el presupuesto estatal, se debe incorporar una partida destinada a asegurar el pago de los gastos por concepto de atención y protección a testigos y personas en situación de riesgo, a sus allegados y a los terceros involucrados en el proceso, así como también para financiar la ejecución de programas, acciones o servicios de protección y atención.
+El titular de la Fiscalía, deberá solicitar anualmente las partidas presupuestarias necesarias para el cumplimiento de esta ley.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+En el presupuesto de la Fiscalía General, se debe incorporar una partida destinada a asegurar el pago de los gastos por concepto de atención y protección a testigos y personas en situación de riesgo, a sus allegados y a los terceros involucrados en el proceso, así como también para financiar la ejecución de programas, acciones o servicios de protección y atención.
 
 ###### Artículo 14.
 
 Administración de los fondos.
 
-Los recursos para la protección y atención a que se refiere la presente ley, deberán ser administrados por la Dirección General Administrativa de la Procuraduría.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Los recursos para la protección y atención a que se refiere la presente ley, deberán ser administrados por la Dirección General Administrativa de la Fiscalía.
 
 ### CAPÍTULO III. DE LAS MEDIDAS DE PROTECCIÓN
 
@@ -357,7 +385,9 @@ III. Otras que considere la Dirección para garantizar la protección de las per
 
 Las autoridades penitenciarias estatales deberán otorgar todas las facilidades a la Dirección para garantizar las medidas de seguridad de los internos que se encuentran incorporados al programa.
 
-Cuando la persona o testigo colaborador se encuentre recluso en alguna prisión administrada por la federación o alguna otra entidad federativa, la Procuraduría podrá suscribir los convenios necesarios para garantizar la protección de las personas o testigos colaboradores incorporados al programa.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Cuando la persona o testigo colaborador se encuentre recluso en alguna prisión administrada por la federación o alguna otra entidad federativa, la Fiscalía podrá suscribir los convenios necesarios para garantizar la protección de las personas o testigos colaboradores incorporados al programa.
 
 ###### Artículo 22.
 
@@ -469,7 +499,9 @@ Cumplido lo anterior la Dirección, a solicitud del Ministerio Público, debe de
 
 Medidas de protección provisionales.
 
-Si el Ministerio Público responsable del proceso penal advierte que una persona se encuentra en situación de riesgo o peligro por su intervención en éste, podrá dictar medidas provisionales de protección y el titular de la Subprocuraduría o unidad administrativa equivalente a la que pertenezca remitirá inmediatamente, por cualquier medio idóneo, la solicitud de incorporación al programa a la Dirección, para que ésta inicie el estudio técnico correspondiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Si el Ministerio Público responsable del proceso penal advierte que una persona se encuentra en situación de riesgo o peligro por su intervención en éste, podrá dictar medidas provisionales de protección y el titular de la Fiscalía de Investigación Especializada o unidad administrativa equivalente a la que pertenezca remitirá inmediatamente, por cualquier medio idóneo, la solicitud de incorporación al programa a la Dirección, para que ésta inicie el estudio técnico correspondiente.
 
 El juez que conozca del proceso penal, tomando en consideración cuando menos lo señalado en el párrafo anterior, podrá ordenar como parte de las medidas de protección, que la persona en riesgo sea incorporada al programa.
 
@@ -621,7 +653,9 @@ V. El incumplimiento reiterado de las obligaciones asumidas en el convenio de ad
 
 Transparencia y rendición de cuentas.
 
-La Dirección deberá rendir a la Subprocuraduría un informe semestral sobre los resultados y las operaciones del programa con información estadística.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Dirección deberá rendir a la Fiscalía de Investigación Especializada un informe semestral sobre los resultados y las operaciones del programa con información estadística.
 
 En ninguna circunstancia se podrán asentar datos que pongan en riesgo la integridad de las personas incorporadas al programa.
 
@@ -696,3 +730,11 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 HOMERO RAMOS GLORIA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
