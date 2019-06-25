@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-05-2015-del-presidente-de-110
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-11-10"
-last_updated: "2017-01-25"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110474&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-11-04"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015 DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EXPIDEN LOS LINEAMENTOS TEMPORALES PARA REGULAR EL PROCEDIMIENTO ADMINISTRATIVO INTERNO DE ACCESO A LA INFORMACIÓN PÚBLICA, ASÍ COMO EL FUNCIONAMIENTO Y ATRIBUCIONES DEL COMITÉ DE TRANSPARENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2019.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 10 de noviembre de 2015.
 
@@ -387,29 +387,29 @@ Para el caso de que el requirente solicite la entrega de la información en un l
 
 ## Título III. Atribuciones y funcionamiento del Comité
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IV/2019, DEL CATORCE DE JUNIO DE DOS MIL DIECINUEVE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 25 DE JUNIO DE 2019)</small>
+
 Artículo 22
 
 De la Integración
 
-En términos de lo dispuesto en el artículo 43 de la Ley General, el Comité estará integrado por los siguientes servidores públicos de la Suprema Corte:
+En términos de lo dispuesto en los artículos 43 de la Ley General y 64 de la Ley Federal de Transparencia y Acceso a la Información Pública, el Comité estará integrado por los servidores públicos siguientes:
 
-I. Secretario Jurídico de la Presidencia, quien fungirá como Presidente del Comité.
+I. El Director General de Asuntos Jurídicos de la Suprema Corte, quien presidirá el Comité;
 
-> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 1/2017, DEL DIECISÉIS DE ENERO DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 25 DE ENERO DE 2017)</small>
+II. El titular de la Unidad General de Investigación de Responsabilidades Administrativas de la Suprema Corte, y
 
-II. Titular de la Unidad General de Enlace con los Poderes Federales.
-
-III. Contralor.
+III. El Contralor de la Suprema Corte.
 
 El Presidente se auxiliará del Secretario, el cual será designado por el propio Presidente.
 
-En caso de ausencia de alguno de los integrantes del Comité, el Ministro Presidente de la Suprema Corte designará al suplente respectivo.
+La ausencia de alguno de los integrantes del Comité, será suplida conforme a lo que determine el Ministro Presidente de la Suprema Corte.
 
-Para las ausencias del Secretario, el Presidente designará un suplente para que funja como tal por el número de sesiones que sea necesario.
+Para las ausencias del Secretario, el Presidente designará un suplente para que funja como tal en las sesiones que sea necesario.
 
-El titular de la Unidad General y/o el titular de la Coordinación de Enlace para la Transparencia y Acceso a la Información de la Suprema Corte, asistirán con calidad de invitados permanentes a las sesiones del Comité y tendrán el uso de la voz, previa solicitud y autorización del Presidente.
+El Oficial Mayor y el titular de la Unidad General asistirán como invitados permanentes a las sesiones del Comité, con voz pero sin voto. El titular del Centro de Documentación asistirá como invitado a las sesiones del Comité, con voz pero sin voto, cuando se traten asuntos relativos a los archivos de la Suprema Corte.
 
-A petición de los miembros del Comité, los titulares de las instancias podrán acudir a las sesiones para tratar los asuntos en los que hubieran intervenido durante el procedimiento administrativo interno de acceso a la información.
+A petición de cualquier miembro del Comité, los titulares de las instancias podrán acudir a las sesiones para tratar los asuntos en los que hubieran intervenido durante el procedimiento administrativo interno de acceso a la información.
 
 Artículo 23
 
@@ -702,3 +702,13 @@ Artículo Primero. El presente Acuerdo General entrará en vigor el día de su e
 Artículo Segundo. Además de los artículos expresamente señalados, se derogan las disposiciones normativas internas que se opongan al objeto de regulación del presente Acuerdo General.
 
 Artículo Tercero. Publíquese el presente Acuerdo General en el Semanario Judicial de la Federación y su Gaceta y en el Diario Oficial de la Federación, así como medios electrónicos de consulta pública, conforme a lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.
+
+D.O.F. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO IV/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE CATORCE DE JUNIO DE DOS MIL DIECINUEVE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LOS ACUERDOS GENERALES DE ADMINISTRACIÓN 4/2015 DEL VEINTISÉIS DE AGOSTO DE DOS MIL QUINCE Y 5/2015 DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor el día de su expedición.
+
+SEGUNDO. Se derogan todas las disposiciones jurídicas que se opongan a lo previsto en el presente Acuerdo General de Administración.
+
+TERCERO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación, sin menoscabo de que la Dirección General de Asuntos Jurídicos difunda el texto íntegro actualizado de los Acuerdos Generales de Administración 4/2015 y 5/2015 en esos medios electrónicos. CÚMPLASE.
