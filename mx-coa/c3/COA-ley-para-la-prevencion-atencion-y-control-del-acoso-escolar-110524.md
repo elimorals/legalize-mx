@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-prevencion-atencion-y-control-del-acoso-escolar-110
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2017-06-20"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado Coahuila, el viernes 13 de noviembre de 2015.
 
@@ -121,7 +121,9 @@ XIII. Secretaría: La Secretaría de Educación del Gobierno del Estado de Coahu
 
 El Poder Ejecutivo del Estado, a través de la Secretaría, ejercerá sus atribuciones en materia de prevención e intervención ante casos de acoso escolar, de conformidad con la distribución de competencias prevista en esta Ley.
 
-En las atribuciones que esta Ley otorga para prevenir o intervenir en casos de acoso, podrán colaborar, en su caso, las siguientes dependencias y entidades: la Secretaría de Salud, el Sistema para el Desarrollo Integral de la Familia, la Secretaría de Gobierno y la Procuraduría General de Justicia del Estado, cuando por la naturaleza o gravedad de los casos de acoso escolar así lo determinen las autoridades escolares y en virtud del Registro Estatal para el Control del Acoso Escolar.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+En las atribuciones que esta Ley otorga para prevenir o intervenir en casos de acoso, podrán colaborar, en su caso, las siguientes dependencias y entidades: la Secretaría de Salud, el Sistema para el Desarrollo Integral de la Familia, la Secretaría de Gobierno y la Fiscalía General del Estado, cuando por la naturaleza o gravedad de los casos de acoso escolar así lo determinen las autoridades escolares y en virtud del Registro Estatal para el Control del Acoso Escolar.
 
 ###### Artículo 6.
 
@@ -189,7 +191,13 @@ XIV. Sancionar a los cómplices en casos de acoso escolar y represalias;
 
 XV. Establecer responsabilidades administrativas en caso de incumplimiento del personal escolar a las disposiciones contenidas en esta Ley y dar aviso a la SEDU sobre el personal educativo que incumpla algunas de las disposiciones previstas en esta Ley o que no atiende las indicaciones realizadas por su superior jerárquico para a atención y solución del acoso escolar; y
 
-XVI. Preparar y presentar a la Secretaría un informe anual sobre acoso escolar.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2019)</small>
+
+XVI. En cuanto tenga noticia de algún caso de acoso escolar, deberá dictar de manera inmediata las medidas de control necesarias para poner fin al abuso contra un menor, con la finalidad de evitar mayores daños en los educandos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] P.O. 25 DE JUNIO DE 2019)</small>
+
+XVII. Preparar y presentar a la Secretaría un informe anual sobre acoso escolar.
 
 ## TÍTULO SEGUNDO. De la Política Estatal Contra el Acoso Escolar
 
@@ -546,3 +554,17 @@ P.O. 20 DE JUNIO DE 2017.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 273.- SE REFORMA LA FRACCIÓN XVI Y SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 8 DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
