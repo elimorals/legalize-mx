@@ -4,7 +4,7 @@ identifier: "COA-ley-en-materia-de-desaparicion-de-personas-para-el-estado-13208
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-14"
-last_updated: "2019-01-29"
+last_updated: "2019-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE ENERO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 14 de diciembre de 2018.
 
@@ -119,7 +117,9 @@ XXI. Registro Estatal de Personas Fallecidas y No Identificadas: al Registro Est
 
 XXII. Registro Nacional: al Registro Nacional de Personas Desaparecidas y No Localizadas, que concentra la información de los registros de personas desaparecidas y no localizadas, tanto de la federación como de las entidades federativas;
 
-XXIII. Registro Nacional de Fosas: Registro Nacional de Fosas Comunes y de Fosas Clandestinas, que concentra la información respecto de las fosas comunes que existen en los cementerios y panteones de todos los municipios del país, así como de las fosas clandestinas que la Procuraduría General de la República y las Procuradurías o Fiscalías locales ubiquen, señalado en la Ley General;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+XXIII. Registro Nacional de Fosas: Registro Nacional de Fosas Comunes y de Fosas Clandestinas, que concentra la información respecto de las fosas comunes que existen en los cementerios y panteones de todos los municipios del país, así como de las fosas clandestinas que la Fiscalía General de la República y las Procuradurías o Fiscalías locales ubiquen, señalado en la Ley General;
 
 XXIV. Registro Nacional de Personas Fallecidas y No Identificadas: al Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas que concentra la información forense procesada de la localización, recuperación, identificación y destino final de los restos tanto de la federación como de las entidades federativas, cualquiera que sea su origen;
 
@@ -709,7 +709,9 @@ Las instancias y las personas que forman parte del Mecanismo Estatal están obli
 
 Las autoridades que integran el Mecanismo Estatal, deberán, en el marco de sus atribuciones, implementar y ejecutar las disposiciones señaladas en la Ley General, los protocolos homologados y los lineamientos correspondientes para el debido funcionamiento de dichas herramientas en el estado.
 
-Asimismo, la Comisión de Búsqueda, la Fiscalía y demás autoridades que integran el Mecanismo, deberán proporcionar en tiempo y forma, la información que sea solicitada por el Sistema Nacional, la Comisión Nacional o la Procuraduría General de la República, entre otras.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Asimismo, la Comisión de Búsqueda, la Fiscalía y demás autoridades que integran el Mecanismo, deberán proporcionar en tiempo y forma, la información que sea solicitada por el Sistema Nacional, la Comisión Nacional o la Fiscalía General de la República, entre otras.
 
 ###### Artículo 50.
 
@@ -771,7 +773,9 @@ Las convocatorias deben realizarse por oficio o por cualquier medio electrónico
 
 La Fiscalía debe contar con una Fiscalía de Personas Desaparecidas, con los recursos humanos, financieros, materiales y técnicos especializados y multidisciplinarios y una unidad de análisis de contexto que se requieran para su efectiva operación.
 
-La Fiscalía de Personas Desaparecidas deberá coordinarse con la Fiscalía Especializada de la Procuraduría General de la República y Fiscalías o Procuradurías Especializadas de otras entidades federativas, así como con la Comisión de Búsqueda, la Comisión Nacional de Búsqueda y las Comisiones de Búsqueda de otras entidades federativas, y dar impulso permanente a la búsqueda de personas desaparecidas.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Fiscalía de Personas Desaparecidas deberá coordinarse con la Fiscalía Especializada de la Fiscalía General de la República y Fiscalías o Procuradurías Especializadas de otras entidades federativas, así como con la Comisión de Búsqueda, la Comisión Nacional de Búsqueda y las Comisiones de Búsqueda de otras entidades federativas, y dar impulso permanente a la búsqueda de personas desaparecidas.
 
 ###### Artículo 56.
 
@@ -861,9 +865,11 @@ XXVIII. Brindar asistencia técnica a las Fiscalías o Procuradurías de otras e
 
 XXIX. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
 ###### Artículo 59.
 
-La Fiscalía de Personas Desaparecidas deberá remitir inmediatamente a la Fiscalía Especializada de la Procuraduría General de la República, los expedientes que conozcan cuando se actualicen los supuestos previstos en el artículo 24 de la Ley General, o iniciar inmediatamente la carpeta de investigación, cuando el asunto no esté contemplado expresamente como competencia de la federación.
+La Fiscalía de Personas Desaparecidas deberá remitir inmediatamente a la Fiscalía Especializada de la Fiscalía General de la República, los expedientes que conozcan cuando se actualicen los supuestos previstos en el artículo 24 de la Ley General, o iniciar inmediatamente la carpeta de investigación, cuando el asunto no esté contemplado expresamente como competencia de la federación.
 
 ###### Artículo 60.
 
@@ -893,9 +899,11 @@ El Ministerio Público que conozca del hallazgo de algún cadáver, fragmento o 
 
 El Ministerio Público tiene obligación de proporcionar los elementos necesarios para realizar las acciones a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
 ###### Artículo 64.
 
-La Fiscalía en coordinación con la Procuraduría General de la República, celebrará acuerdos con autoridades e instituciones para coordinar las acciones de investigación de mexicanos en el extranjero y migrantes extranjeros en el estado.
+La Fiscalía en coordinación con la Fiscalía General de la República, celebrará acuerdos con autoridades e instituciones para coordinar las acciones de investigación de mexicanos en el extranjero y migrantes extranjeros en el estado.
 
 ###### Artículo 65.
 
@@ -953,9 +961,11 @@ Las autoridades encargadas de la búsqueda y la investigación, en los términos
 
 Asimismo, deberán designar el presupuesto suficiente para dar cumplimiento a lo señalado en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
 ###### Artículo 72.
 
-Las autoridades señaladas en el artículo anterior, estarán obligadas a procesar y proporcionar la información solicitada por la Comisión Nacional y la Fiscalía Especializada de la Procuraduría General de la República, para la elaboración de los programas nacionales. Asimismo están obligadas a colaborar con dichas autoridades para realizar las acciones que resulten necesarias en la elaboración de los programas.
+Las autoridades señaladas en el artículo anterior, estarán obligadas a procesar y proporcionar la información solicitada por la Comisión Nacional y la Fiscalía Especializada de la Fiscalía General de la República, para la elaboración de los programas nacionales. Asimismo están obligadas a colaborar con dichas autoridades para realizar las acciones que resulten necesarias en la elaboración de los programas.
 
 ## TÍTULO QUINTO. DE LOS DERECHOS DE LAS VÍCTIMAS Y LA PREVENCIÓN DEL DELITO
 
@@ -1314,3 +1324,11 @@ EL SECRETARIO DE GOBIERNO
 ING. JOSÉ MARÍA FRAUSTRO SILLER
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
