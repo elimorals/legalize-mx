@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2019-05-10"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1665,19 +1665,23 @@ IV. Cumplir con los demás requisitos que le señalen las leyes, o acuerde el Ay
 
 Para los efectos del presente ordenamiento, se considera como Cronista Municipal, al ciudadano cuya función fundamental es el registro de sucesos notables acaecidos dentro de la jurisdicción territorial del Municipio al que pertenezca, así como investigar, conservar, exponer y promover la cultura de dicho Municipio.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
-###### ARTÍCULO 134-B.
+###### Artículo 134-B.
 
-El Cronista Municipal deberá ser electo por mayoría calificada de los miembros del Ayuntamiento, posterior a una convocatoria abierta que realizara la dirección de cultura de donde surgirá la propuesta. Su elección será con base en su demostrada vocación por custodiar y promover la crónica de los acontecimientos del devenir histórico de su comunidad; así como por su experiencia en el dominio del conocimiento de la historia local.
+El Cronista Municipal será designado a propuesta del presidente municipal y con la votación de, por lo menos, las dos terceras partes de los miembros del Ayuntamiento. Para la selección de propuestas los Ayuntamientos podrán emitir convocatoria pública en los términos que disponga el reglamento respectivo. La designación se hará con base en su demostrada vocación por custodiar y promover la crónica de los acontecimientos del devenir histórico de su comunidad; así como por su experiencia en el dominio del conocimiento de la historia local.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+Los Ayuntamientos podrán crear un Consejo Ciudadano de la Crónica, en los términos que disponga el reglamento que al efecto expida, pero en ese caso el Cronista Municipal será el presidente del Consejo.
 
-###### ARTÍCULO 134-C.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
-El Cronista Municipal recibirá sueldo de acuerdo con la disponibilidad presupuestal y contará con el apoyo del Ayuntamiento para el cabal cumplimiento de sus funciones. Anualmente, deberá presentar Informe de labores ante el Ayuntamiento, mismo que quedara en resguardo del archivo Municipal.
+###### Artículo 134-C.
 
-El Cronista Municipal permanecerá cinco años en su cargo y podrá ser ratificado por otro periodo y sólo podrá ser removido por causa justificada a juicio del Ayuntamiento.
+El Cronista Municipal desempeñará su cargo de manera honorífica, pero contará con el apoyo del Ayuntamiento para el cabal cumplimiento de sus funciones.
+
+El cargo de Cronista Municipal no es incompatible con cualquier otro puesto, cargo o comisión en la administración pública municipal, estatal o federal.
+
+El Cronista Municipal permanecerá en su cargo indefinidamente y sólo podrá ser removido por causa justificada a juicio del Ayuntamiento.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2004)</small>
 
@@ -4679,10 +4683,22 @@ SEGUNDO.- Los titulares de los órganos internos de control de los municipios, q
 
 P.O. 10 DE MAYO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 253.- SE ADICIONA EL NUMERAL 9 A LA FRACCIÓN VII DEL ARTÍCULO 102, UN PÁRRAFO AL ARTÍCULO 107 Y EL ARTÍCULO 113 BIS-2 Y SE REFORMA EL ARTÍCULO 111, DEL CÓDIGO MUNICIPAL”
+## [N. DE E. TRANSITORIOS DEL "DECRETO 253.- SE ADICIONA EL NUMERAL 9 A LA FRACCIÓN VII DEL ARTÍCULO 102, UN PÁRRAFO AL ARTÍCULO 107 Y EL ARTÍCULO 113 BIS-2 Y SE REFORMA EL ARTÍCULO 111, DEL CÓDIGO MUNICIPAL"
 
 Primero. El decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
 
 Segundo. La conformación de la Comisión de Igualdad de Género propuesta en el presente decreto deberá realizarse de manera obligatoria para antes de terminado el primer año de gestión de las administraciones municipales actuales.
 
 Tercero. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 274.- SE REFORMAN LOS ARTÍCULOS 134-B Y 134-C DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente decreto.
