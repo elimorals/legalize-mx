@@ -4,7 +4,7 @@ identifier: "COA-ley-del-registro-publico-del-estado-de-coahuila-de-zaragoza-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2017-12-26"
+last_updated: "2019-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -1015,11 +1015,11 @@ Para que proceda la reposición de documentos a petición de parte interesada, b
 
 Detectada la pérdida o destrucción de algún documento, el Registrador dispondrá las medidas necesarias para su reposición, notificando, en el domicilio que aparezca en el instrumento que se pretende reponer, a las partes que en él intervengan, y a falta de domicilio a través del Boletín Registral, para que en un término de 15 días hábiles manifiesten lo que a su derecho convenga y en su caso aporten los elementos que faciliten la reposición.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
 ###### Artículo 94.
 
-El Registrador solicitará a las autoridades catastrales estatales y municipales, a los juzgados del fuero común y federal, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, al Instituto Mexicano del Seguro Social, a las autoridades fiscales federales, estatales y municipales, a las juntas locales y federales de Conciliación y Arbitraje del Estado de Coahuila de Zaragoza, a la Procuraduría General de la República, a la Fiscalía General del Estado General del Estado (sic) de Coahuila de Zaragoza, a la Comisión para la Regularización de la Tenencia de la Tierra, al Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, a la Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana y Rústica de Coahuila, a la Dirección de Pensiones del Estado, a la Dirección de Notarías del Estado, a la Comisión Federal de Electricidad, al Colegio de Notarios del Estado de Coahuila de Zaragoza, a las afianzadoras y a las instituciones de crédito que operen en la entidad, le proporcionen en un plazo de ocho días hábiles la información y/o documentación que pudieran tener respecto de algún mandato judicial, administrativo o contrato que constituya algún gravamen, limitación de dominio y en general cualquier aspecto registral que tenga relación con los bienes o derechos materia del documento extraviado o destruido.
+El Registrador solicitará a las autoridades catastrales estatales y municipales, a los juzgados del fuero común y federal, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, al Instituto Mexicano del Seguro Social, a las autoridades fiscales federales, estatales y municipales, a las juntas locales y federales de Conciliación y Arbitraje del Estado de Coahuila de Zaragoza, a la Fiscalía General de la República, a la Fiscalía General del Estado General del Estado (sic) de Coahuila de Zaragoza, a la Comisión para la Regularización de la Tenencia de la Tierra, al Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, a la Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana y Rústica de Coahuila, a la Dirección de Pensiones del Estado, a la Dirección de Notarías del Estado, a la Comisión Federal de Electricidad, al Colegio de Notarios del Estado de Coahuila de Zaragoza, a las afianzadoras y a las instituciones de crédito que operen en la entidad, le proporcionen en un plazo de ocho días hábiles la información y/o documentación que pudieran tener respecto de algún mandato 23 judicial, administrativo o contrato que constituya algún gravamen, limitación de dominio y en general cualquier aspecto registral que tenga relación con los bienes o derechos materia del documento extraviado o destruido.
 
 ###### Artículo 95.
 
@@ -1302,3 +1302,9 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
