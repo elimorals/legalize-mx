@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-estadistica-y-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-31"
-last_updated: "2018-02-21"
+last_updated: "2019-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2009-03-25"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2019.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de marzo de 2009.
 
@@ -407,7 +407,7 @@ Las atribuciones a que se refieren las fracciones III y IV de este artículo ser
 
 ###### ARTICULO 9.
 
-En términos de lo dispuesto por la Ley, y atendiendo a las determinaciones adoptadas por la Junta de Gobierno con posterioridad a la entrada en vigor de la misma, las funciones del Instituto se organizan a partir los (sic) siguientes sectores:
+En términos de lo dispuesto por la Ley, y atendiendo a las determinaciones adoptadas por la Junta de Gobierno con posterioridad a la entrada en vigor de la misma, las funciones del Instituto se organizan a partir (sic) los siguientes sectores:
 
 I. Información Demográfica y Social;
 
@@ -1937,7 +1937,7 @@ XIX. Integrar, con la colaboración de las Unidades del Estado, un sistema de in
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
-XX. Asesorar y coadyuvar en la capacitación al personal de las Unidades Administrativas del Instituto, así como, a las Unidades del Estado respecto de la aplicación y observación de la normatividad sobre información recursos (sic) naturales y medio ambiente y evaluar su cumplimiento;
+XX. Asesorar y coadyuvar en la capacitación al personal de las Unidades Administrativas del Instituto, así como, a las Unidades del Estado respecto de la aplicación y observación de la normatividad sobre información (sic) recursos naturales y medio ambiente y evaluar su cumplimiento;
 
 > <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -2503,6 +2503,10 @@ X. Dirigir y coordinar la estrategia para promover el conocimiento y uso de la i
 
 XI. Dirigir la ejecución del Programa Anual de Productos que realiza el Instituto, estableciendo los mecanismos que permitan controlar la calidad y homogeneidad en los productos institucionales de difusión, promoción y material de operativos;
 
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2019)</small>
+
+XI Bis. Fungir y cumplir con las funciones de Secretaría Administradora en términos de las disposiciones aplicables en materia de comunicación social; para ello planeará y evaluará las Estrategias y los Programas Anuales de Comunicación Social que apruebe el Presidente del Instituto a propuesta de la Dirección General Adjunta de Comunicación;
+
 XII. Dirigir y coordinar la estrategia de comunicación externa del Instituto, incluida la relativa a los medios de comunicación y redes sociales;
 
 XIII. Dirigir y coordinar la estrategia de comunicación interna del Instituto, así como la comunicación e imagen de los eventos internos del Instituto;
@@ -2534,6 +2538,10 @@ II. Diseñar y producir contenidos y materiales gráficos y audiovisuales, para 
 III. Proponer las disposiciones normativas en materia de identidad institucional, edición y desarrollo de productos;
 
 IV. Coordinar el Programa Anual de Productos, así como, diseñar y supervisar la aplicación de los mecanismos que permitan controlar la calidad y homogeneidad en los productos institucionales de difusión, promoción y material de operativos;
+
+> <small>(ADICIONADA, D.O.F. 25 DE JUNIO DE 2019)</small>
+
+IV Bis. Proponer el Programa Anual de Comunicación Social al Presidente del Instituto, así como elaborar la Estrategia Anual de Comunicación Social en términos de las disposiciones aplicables en la materia;
 
 V. Diseñar la estrategia de difusión de la información estadística y geográfica que genera e integra el Instituto;
 
@@ -3481,7 +3489,7 @@ SEGUNDO.- Atendiendo al hecho de que el Instituto publicará los índices nacion
 
 Sin perjuicio de lo anterior, las atribuciones para planear e instrumentar la transferencia de los referidos Indices al Instituto podrán ser ejercidas por los servidores públicos competentes, desde la entrada en vigor del presente Reglamento.
 
-TERCERO.- La Dirección General de Administración del Instituto realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados las (sic) Unidades Administrativas o Areas que por virtud del presente Reglamento se modifican o desaparecen, sean transferidos a las Unidades Administrativas que correspondan en los términos del presente Ordenamiento y de conformidad con la normatividad aplicable, así como atendiendo a la disponibilidad presupuestaria del Instituto.
+TERCERO.- La Dirección General de Administración del Instituto realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados (sic) las Unidades Administrativas o Areas que por virtud del presente Reglamento se modifican o desaparecen, sean transferidos a las Unidades Administrativas que correspondan en los términos del presente Ordenamiento y de conformidad con la normatividad aplicable, así como atendiendo a la disponibilidad presupuestaria del Instituto.
 
 CUARTO.- Las modificaciones a la estructura orgánica del Instituto que deriven del presente Reglamento, se realizarán mediante movimientos compensados que no impliquen un aumento en el presupuesto regularizable de servicios personales, aprobado para el presente ejercicio fiscal y los subsecuentes.
 
@@ -3588,3 +3596,9 @@ SEGUNDO.- La Dirección General de Administración del Instituto realizará las 
 TERCERO.- A la entrada en vigor del presente Acuerdo de reforma, los asuntos en trámite se atenderán por las Unidades Administrativas a que hace referencia este Acuerdo de reforma y de conformidad con las atribuciones conferidas.
 
 CUARTO.- Para las Direcciones Generales Adjuntas referidas en los artículos 16, 21, 27 y 40 del Reglamento, que cambian de denominación, los servidores públicos que venían ocupando la titularidad del cargo, continuarán ocupándolo con la nueva denominación. La Dirección General de Administración emitirá los respectivos nombramientos una vez que entre en vigor el presente Acuerdo de reforma.
+
+D.O.F. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE APRUEBA LA REFORMA AL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
