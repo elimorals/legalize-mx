@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-4-2015-del-presidente-de-1096
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-08-31"
-last_updated: "2017-01-25"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109615&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-08-27"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN 4/2015 DEL VEINTISÉIS DE AGOSTO DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE ALINEAN LAS ESTRUCTURAS ADMINISTRATIVAS Y FUNCIONALES DEL ALTO TRIBUNAL A LAS DISPOSICIONES DE LA LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2019.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 31 de agosto de 2015.
 
@@ -91,17 +91,17 @@ ACUERDO GENERAL DE ADMINISTRACIÓN
 
 De conformidad con lo dispuesto en el artículo 3, fracción IV, 24 fracción I, y 43 de la Ley General, el otrora Comité de Acceso a la Información y de Protección de Datos Personales cambia su denominación a Comité de Transparencia de la Suprema Corte de Justicia de la Nación.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IV/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE CATORCE DE JUNIO DE DOS MIL DIECINUEVE, D.O.F. 25 DE JUNIO DE 2019)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-En términos de lo dispuesto en el artículo 43 de la Ley General, el Comité de Transparencia de la Suprema Corte de Justicia de la Nación estará integrado por los siguientes servidores públicos:
+En términos de lo dispuesto en los artículos 43 de la Ley General de Transparencia y Acceso a la Información Pública, y 64 de la Ley Federal de Transparencia y Acceso a la Información Pública, el Comité de Transparencia de la Suprema Corte de Justicia de la Nación estará integrado por los servidores públicos siguientes:
 
-a) Secretario Jurídico de la Presidencia de la Suprema Corte de Justicia de la Nación, quien fungirá como Presidente del Comité.
+I. El Director General de Asuntos Jurídicos de la Suprema Corte de Justicia de la Nación, quien presidirá el Comité;
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 1/2017, DEL DIECISÉIS DE ENERO DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 25 DE ENERO DE 2017)</small>
+II. El titular de la Unidad General de Investigación de Responsabilidades Administrativas de la Suprema Corte de Justicia de la Nación, y
 
-b) Titular de la Unidad General de Enlace con los Poderes Federales.
-
-c) Contralor de la Suprema Corte de Justicia de la Nación.
+III. El Contralor de la Suprema Corte de Justicia de la Nación.
 
 ###### ARTÍCULO TERCERO.
 
@@ -148,3 +148,13 @@ Artículo Primero. El presente Acuerdo General entrará en vigor el día de su e
 Artículo Segundo. Además de los artículos expresamente señalados, se derogan las disposiciones normativas internas que se opongan al objeto de regulación del presente Acuerdo General.
 
 Artículo Tercero. Publíquese el presente Acuerdo General en el Semanario Judicial de la Federación y su Gaceta y en el Diario Oficial de la Federación, así como medios electrónicos de consulta pública, conforme a lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.
+
+D.O.F. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO IV/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE CATORCE DE JUNIO DE DOS MIL DIECINUEVE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LOS ACUERDOS GENERALES DE ADMINISTRACIÓN 4/2015 DEL VEINTISÉIS DE AGOSTO DE DOS MIL QUINCE Y 5/2015 DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor el día de su expedición.
+
+SEGUNDO. Se derogan todas las disposiciones jurídicas que se opongan a lo previsto en el presente Acuerdo General de Administración.
+
+TERCERO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación, sin menoscabo de que la Dirección General de Asuntos Jurídicos difunda el texto íntegro actualizado de los Acuerdos Generales de Administración 4/2015 y 5/2015 en esos medios electrónicos. CÚMPLASE.
