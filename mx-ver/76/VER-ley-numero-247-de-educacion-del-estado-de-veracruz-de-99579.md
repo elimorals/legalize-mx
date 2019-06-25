@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-247-de-educacion-del-estado-de-veracruz-de-99579"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2018-11-29"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 247 DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 5 de marzo de 2014.
 
@@ -263,9 +263,9 @@ V. Establecer programas que involucren a los padres de familia o tutores en la a
 
 VI. Promover en los docentes el conocimiento de los derechos humanos.
 
-> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, G.O. 25 DE JUNIO DE 2019)</small>
 
-Asimismo, cuando las autoridades educativas, los directores de los planteles educativos o el resto del personal docente noten la prolongada o reiterada ausencia de un estudiante, deberán notificarlo o reportarlo ante la Procuraduría Estatal de Protección o a la Procuraduría Municipal de Protección correspondiente, con la finalidad de descartar o detectar posibles situaciones de maltrato físico o psicológico en contra del menor;
+En la impartición de educación para menores de edad se tomarán medidas que aseguren al estudiante la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad y derechos humanos. En caso de que las autoridades de educación tengan conocimiento de que algún educando sea víctima del maltrato infantil o de cualquier delito que ponga en riesgo su vida e integridad física o psicológica deberán de inmediato hacerlo del conocimiento de la Procuraduría de Protección de Niñas, Niños y Adolescentes, de conformidad con el protocolo de actuación de la Secretaría de Educación. De igual forma, cuando noten la prolongada o reiterada ausencia de un estudiante, deberán notificarlo, con la finalidad de descartar o detectar posibles situaciones de maltrato infantil;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
 
@@ -2188,3 +2188,13 @@ G.O. 29 DE NOVIEMBRE DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. En un plazo no mayor de sesenta días naturales, contado a partir del inicio de vigencia del presente Decreto, la Secretaría de Educación del Estado realizará las acciones necesarias, a efecto de dar cumplimiento a lo previsto en este Decreto.
+
+G.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 260 QUE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VI DEL ARTÍCULO 18 DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. En un plazo de sesenta días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Educación del Estado expedirá el “Protocolo de atención para menores víctimas de maltrato infantil”.
