@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2019-05-10"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -241,7 +241,9 @@ XVII.- Impulsar permanentemente la investigación que posibilite la innovación 
 
 XVIII.- Crear y fomentar programas de educación para adultos, de alfabetización y de formación para el trabajo y la productividad, en coordinación con el gobierno federal y los municipios;
 
-XIX.- Promover la vinculación de las instituciones educativas con el sector productivo de la entidad;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+XIX.- Promover la vinculación de las instituciones educativas de nivel medio superior tecnológicas y superior, con el sector productivo de la entidad, por medio de la implementación del Modelo de Formación Dual.
 
 XX.- Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento quejas (sic) del servicio público educativo;
 
@@ -1910,3 +1912,15 @@ P.O. 10 DE MAYO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 272.- SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 9, DE LA LEY ESTATAL DE EDUCACIÓN PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
