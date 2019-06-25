@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-localizacion-e-identificacion-forense-de-118155"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-20"
-last_updated: "2017-12-26"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118155&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en la Sección Segunda, al Número 102 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de diciembre de 2016.
 
@@ -107,9 +107,13 @@ XX. Plan de Exhumación e Identificación: Se compone de las fases y recursos es
 
 XXI. Plan Estatal de Exhumación e Identificación de Casos Previamente Procesados: Se compone de las fases y recursos establecidos para realizar el proceso excepcional de localización, recuperación e identificación forense de restos inhumados sin identificar en panteones municipales del Estado de Coahuila de Zaragoza;
 
-XXII. Procurador: Titular de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
 
-XXIII. Procuraduría: Procuraduría General de Justicia del Estado de Coahuila de Zaragoza;
+XXII. Fiscal: Titular de la Fiscalía General del Estado de Coahuila de Zaragoza;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+XXIII. Fiscalía: Fiscalía General del Estado de Coahuila de Zaragoza;
 
 XXIV. Protección de Datos Personales: La garantía que tutela la privacidad de los datos personales en poder de las entidades públicas y sujetos obligados;
 
@@ -119,11 +123,15 @@ XXVI. Registro de Personas Fallecidas sin Identificar: El Registro de Personas F
 
 XXVII. Restos o Restos humanos: El cadáver o cualquier fragmento o parte de este en cualquier estado o condición.
 
-XXVIII. Servicios Periciales: Dirección General de Servicios Periciales de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+XXVIII. Servicios Periciales: Dirección General de Servicios Periciales de la Fiscalía General del Estado de Coahuila de Zaragoza;
 
 XXIX. Sistema de Gestión de Información: Sistema de Gestión de Información de Personas Desaparecidas y Personas Fallecidas;
 
-XXX. Unidad de Búsqueda: Unidad de Búsqueda de Personas Desaparecidas de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+XXX. Unidad de Búsqueda: Unidad de Búsqueda de Personas Desaparecidas de la Fiscalía General del Estado de Coahuila de Zaragoza;
 
 XXXI. Versión Pública: Documento en el que, para permitir su acceso, se testa u omite la información clasificada como reservada o la confidencial;
 
@@ -181,11 +189,15 @@ XIX. No revictimización: El Estado no podrá exigir mecanismos o procedimientos
 
 XX. Participación de las familias: Las y los familiares de las personas desaparecidas o fallecidas tienen derecho a colaborar y a participar en las actuaciones que realicen las autoridades encargadas del cumplimiento de la presente ley;
 
-XXI. Planificación: La Procuraduría deberá planificar sus actuaciones de conformidad con la información recabada durante los procesos de identificación, localización y recuperación, así como la aportada por los familiares de las personas desaparecidas y fallecidas;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+XXI. Planificación: La Fiscalía deberá planificar sus actuaciones de conformidad con la información recabada durante los procesos de identificación, localización y recuperación, así como la aportada por los familiares de las personas desaparecidas y fallecidas;
 
 XXII. Suficiencia presupuestal: El Estado deberá de asignar los recursos presupuestarios suficientes para el pleno cumplimiento de las disposiciones establecidas en esta ley;
 
-XXIII. Uso de la mejor técnica disponible: La Procuraduría usará las mejores técnicas disponibles en cada momento para la obtención de información útil para la identificación de restos humanos.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+XXIII. Uso de la mejor técnica disponible: La Fiscalía usará las mejores técnicas disponibles en cada momento para la obtención de información útil para la identificación de restos humanos.
 
 ###### Artículo 5.
 
@@ -217,11 +229,17 @@ Derecho a la identidad y plena identificación de las personas fallecidas
 
 Toda persona fallecida tiene derecho a que se establezca y reconozca su identidad, a través de la identificación plena de sus restos mediante métodos científicos verificables y replicables, otorgando a los mismos trato digno y respetuoso conforme a su voluntad y sus creencias y restituyéndolos a su familia.
 
-La Procuraduría, así como cualquier otra autoridad cuya participación sea necesaria, realizará todas las acciones y procedimientos idóneos para determinar la identidad de todos los restos humanos hallados en el Estado de Coahuila de Zaragoza, conforme a los más altos estándares científicos y técnicos que brinden plena certeza sobre la misma.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
-Así mismo la Procuraduría y otras autoridades del Estado de Coahuila de Zaragoza colaborarán, en el marco de sus competencias, con cualquier otra autoridad, para contribuir a la plena identificación de los restos de cualquier otra persona cuyos restos se encuentren en otros lugares de la República Mexicana o del extranjero cuando sea necesario.
+La Fiscalía, así como cualquier otra autoridad cuya participación sea necesaria, realizará todas las acciones y procedimientos idóneos para determinar la identidad de todos los restos humanos hallados en el Estado de Coahuila de Zaragoza, conforme a los más altos estándares científicos y técnicos que brinden plena certeza sobre la misma.
 
-La evidencia biológica y no biológica que no esté en condiciones para ser evaluada por las personas expertas o cuyo procesamiento no pueda arrojar resultados concluyentes según el estado de la técnica, será resguardada por la Procuraduría hasta en tanto no exista un método científico verificado para su tratamiento. Cuando se cuente con mejores técnicas que permitan el tratamiento de estos restos humanos o evidencias, se procederá al mismo y la información resultante incorporada al Sistema de Gestión de la Información, para proceder con el resto del proceso de identificación forense, y en su caso de notificación a las familias y entrega de restos de conformidad con lo previsto en esta ley.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Así mismo la Fiscalía y otras autoridades del Estado de Coahuila de Zaragoza colaborarán, en el marco de sus competencias, con cualquier otra autoridad, para contribuir a la plena identificación de los restos de cualquier otra persona cuyos restos se encuentren en otros lugares de la República Mexicana o del extranjero cuando sea necesario.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La evidencia biológica y no biológica que no esté en condiciones para ser evaluada por las personas expertas o cuyo procesamiento no pueda arrojar resultados concluyentes según el estado de la técnica, será resguardada por la Fiscalía hasta en tanto no exista un método científico verificado para su tratamiento. Cuando se cuente con mejores técnicas que permitan el tratamiento de estos restos humanos o evidencias, se procederá al mismo y la información resultante incorporada al Sistema de Gestión de la Información, para proceder con el resto del proceso de identificación forense, y en su caso de notificación a las familias y entrega de restos de conformidad con lo previsto en esta ley.
 
 ###### Artículo 9.
 
@@ -251,7 +269,9 @@ Derecho a la información
 
 La familia de una persona desaparecida tiene el derecho a recibir información precisa sobre el estado en que se encuentra la búsqueda de su familiar y la investigación penal de la desaparición. Es deber de la autoridad competente informar al respecto de forma inmediata.
 
-La Procuraduría garantizará e informará a las familias y los grupos de familias de este derecho. En caso de que los familiares decidan no recibir alguna información, la misma se resguardará adecuadamente por parte de la Procuraduría y en caso de que los familiares la soliciten posteriormente, esta será proporcionada de forma completa e inmediata.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Fiscalía garantizará e informará a las familias y los grupos de familias de este derecho. En caso de que los familiares decidan no recibir alguna información, la misma se resguardará adecuadamente por parte de la Fiscalía y en caso de que los familiares la soliciten posteriormente, esta será proporcionada de forma completa e inmediata.
 
 Asimismo, informará oportuna y claramente a las familias sobre la existencia de información que, por su naturaleza, el estado de la actuaciones o el riesgo que pudiera generarles, tenga el carácter de reservada y no deba ser divulgada o compartida con terceras personas, ajenas a la investigación, a efecto de que puedan tomar decisiones informadas al respecto y ejercer, en su caso, los derechos que como víctimas tienen.
 
@@ -277,9 +297,13 @@ III. Recibir regularmente información precisa y clara de las actuaciones a real
 
 IV. Recibir capacitación específica para la participación como observadoras y participantes activas en estos procesos;
 
-V. Ser informadas previamente, de las actuaciones de búsqueda y localización que se van a realizar y en caso de que no exista impedimento legal ni riesgo cierto para la seguridad de las familias se les invitará a participar como observadoras y participantes activas en dichas actuaciones. En caso de que las autoridades consideren que existen riesgos ciertos para las familias, informarán a los mismos y adoptarán todas las medidas necesarias para su reducción y garantizar que las familias puedan tomar una decisión informada y en condiciones seguras sobre su participación o no. En caso de que exista impedimento legal para su participación, las autoridades competentes emitirán una resolución por escrito expresando las razones y su duración y en cuanto las mismas desaparezcan lo pondrán en conocimiento de las familias. Contra la resolución de la autoridad negando o limitando la participación de las familias y acompañantes cabrán todos los recursos previstos en la legislación. En caso de urgencia, la Procuraduría podrá realizar estas actuaciones sin la consulta previa a las familias;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
 
-VI. Participar en la planeación y diseño de las actuaciones de búsqueda y localización, siempre que no exista impedimento legal para ello. En caso de urgencia, la Procuraduría podrá realizar estas actuaciones sin la consulta previa a las familias para su diseño;
+V. Ser informadas previamente, de las actuaciones de búsqueda y localización que se van a realizar y en caso de que no exista impedimento legal ni riesgo cierto para la seguridad de las familias se les invitará a participar como observadoras y participantes activas en dichas actuaciones. En caso de que las autoridades consideren que existen riesgos ciertos para las familias, informarán a los mismos y adoptarán todas las medidas necesarias para su reducción y garantizar que las familias puedan tomar una decisión informada y en condiciones seguras sobre su participación o no. En caso de que exista impedimento legal 15 (sic) para su participación, las autoridades competentes emitirán una resolución por escrito expresando las razones y su duración y en cuanto las mismas desaparezcan lo pondrán en conocimiento de las familias. Contra la resolución de la autoridad negando o limitando la participación de las familias y acompañantes cabrán todos los recursos previstos en la legislación. En caso de urgencia, la Fiscalía podrá realizar estas actuaciones sin la consulta previa a las familias;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+VI. Participar en la planeación y diseño de las actuaciones de búsqueda y localización, siempre que no exista impedimento legal para ello. En caso de urgencia, la Fiscalía podrá realizar estas actuaciones sin la consulta previa a las familias para su diseño;
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -295,7 +319,9 @@ XI. Recibir información sobre sus derechos y la forma de ejercitarlos, así com
 
 Las autoridades competentes promoverán y facilitarán la participación e inclusión de las familias en los procesos de búsqueda de personas desaparecidas y de localización, recuperación e identificación de personas fallecidas, a través de la adopción de las medidas que permitan considerar las circunstancias de cada familiar. Asimismo promoverán y facilitarán que las familias puedan tomar decisiones de manera informada en cuanto a su participación en determinadas actuaciones.
 
-Si así lo deciden las familias, las autoridades competentes garantizarán su participación. Para ello, la Procuraduría, en coordinación con la CEAV Coahuila y cualquier otra autoridad que pueda ser competente del ámbito estatal, federal o municipal diseñará e implementará los planes de participación de las familias, brindando el apoyo material y logístico que requieran durante su participación en los procesos previstos en esta ley y garantizando su seguridad e integridad.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Si así lo deciden las familias, las autoridades competentes garantizarán su participación. Para ello, la Fiscalía, en coordinación con la CEAV Coahuila y cualquier otra autoridad que pueda ser competente del ámbito estatal, federal o municipal diseñará e implementará los planes de participación de las familias, brindando el apoyo material y logístico que requieran durante su participación en los procesos previstos en esta ley y garantizando su seguridad e integridad.
 
 Cuando la autoridad competente considere que existe un impedimento legal que impida la participación de las familias en el proceso de búsqueda, emitirá una resolución fundada y motivada por escrito que será notificada a las personas interesadas. En caso de desaparecer el impedimento material o legal para la participación de la familia en el proceso de búsqueda, la autoridad competente informará esto por escrito a las personas interesadas. Contra la resolución de la autoridad negando o limitando la participación de las familias procederán todos los recursos previstos en la legislación vigente.
 
@@ -307,9 +333,13 @@ Las familias de personas desaparecidas tienen derecho (sic) organizarse en grupo
 
 Los grupos de familias podrán participar en todos los procedimientos o acciones en los que así se prevea en condiciones de igualdad sin necesidad de estar constituidos como asociación civil.
 
-Para ello, cualquier agrupación de familias podrá manifestar ante la Procuraduría su intención de participar en los procedimientos previstos en esta ley. La Procuraduría establecerá los mecanismos y proporcionará los recursos necesarios para garantizar la participación de los grupos de familias que así lo manifiesten.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
-La Procuraduría mantendrá, sólo para efectos de notificación, un registro de los grupos de familias que manifiesten su intención de participar en los procedimientos previstos en esta ley o que de ella deriven. Dicho registro contendrá:
+Para ello, cualquier agrupación de familias podrá manifestar ante la Fiscalía su intención de participar en los procedimientos previstos en esta ley. La Fiscalía establecerá los mecanismos y proporcionará los recursos necesarios para garantizar la participación de los grupos de familias que así lo manifiesten.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE JUNIO DE 2019)</small>
+
+La Fiscalía mantendrá, sólo para efectos de notificación, un registro de los grupos de familias que manifiesten su intención de participar en los procedimientos previstos en esta ley o que de ella deriven. Dicho registro contendrá:
 
 I. El nombre o denominación del grupo;
 
@@ -317,7 +347,9 @@ II. El nombre de la persona o personas representantes del grupo;
 
 III. La forma o medio para ser notificadas.
 
-La Procuraduría establecerá comunicación proactiva con los grupos para facilitar su participación en todos los procedimientos o actuaciones previstos en esta ley o que de ella deriven.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Fiscalía establecerá comunicación proactiva con los grupos para facilitar su participación en todos los procedimientos o actuaciones previstos en esta ley o que de ella deriven
 
 ###### Artículo 15.
 
@@ -325,7 +357,9 @@ Garantía de participación de los grupos de familias y organizaciones acompaña
 
 Las autoridades promoverán, facilitarán y garantizarán la participación de las familias en los procesos de búsqueda, localización, recuperación e identificación de restos humanos por medio de sus grupos y organizaciones.
 
-La Procuraduría establecerá los mecanismos y facilitará las condiciones materiales y logísticas para la efectiva participación de los grupos de familias en condiciones de equidad y sin intromisiones en el funcionamiento de los mismos.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Fiscalía establecerá los mecanismos y facilitará las condiciones materiales y logísticas para la efectiva participación de los grupos de familias en condiciones de equidad y sin intromisiones en el funcionamiento de los mismos.
 
 ###### Artículo 16.
 
@@ -333,7 +367,9 @@ Participación de personas, instituciones y organizaciones
 
 Cuando las familias o grupos de familias lo soliciten, las autoridades invitarán a participar, facilitarán la participación de organizaciones, personas e instituciones expertas, nacionales e internacionales en las diligencias específicas que se practiquen en los procesos de búsqueda de personas desaparecidas, así como en los de localización, recuperación e identificación de los restos de personas fallecidas, para contribuir a la efectividad de los procesos previstos en esta ley.
 
-Asimismo, la Procuraduría podrá solicitar la incorporación de organizaciones, personas e instituciones expertas, nacionales e internacionales, a estos procesos. En este caso notificará previamente a las familias al respecto, quienes podrán presentar observaciones a dicha solicitud de incorporación dentro de un plazo de 10 días hábiles en el entendido que de no manifestarse se considerará aprobada la incorporación. Transcurrido este plazo la Procuraduría adoptará una resolución fundada y motivada.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Asimismo, la Fiscalía podrá solicitar la incorporación de organizaciones, personas e instituciones expertas, nacionales e internacionales, a estos procesos. En este caso notificará previamente a las familias al respecto, quienes podrán presentar observaciones a dicha solicitud de incorporación dentro de un plazo de 10 días hábiles en el entendido que de no manifestarse se considerará aprobada la incorporación. Transcurrido este plazo la Fiscalía adoptará una resolución fundada y motivada.
 
 La participación de organizaciones, personas e instituciones expertas, nacionales e internacionales, se determinará en los términos acordados por las partes y en concordancia con la normatividad correspondiente.
 
@@ -375,11 +411,17 @@ En aquellas decisiones que deba adoptar una familia respecto a la información a
 
 Información y notificación a la familia sobre identificaciones
 
-En caso de que se identifiquen con total certeza los restos de una persona fallecida por medio de las actuaciones forenses, la Procuraduría y las autoridades encargadas informarán a la familia de la persona cuyos restos se han identificado de forma inmediata y sensible en conformidad con el protocolo en la materia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2019)</small>
 
-Para hacerlo el personal responsable de la Procuraduría:
+En caso de que se identifiquen con total certeza los restos de una persona fallecida por medio de las actuaciones forenses, la Fiscalía y las autoridades encargadas informarán a la familia de la persona cuyos restos se han identificado de forma inmediata y sensible en conformidad con el protocolo en la materia.
 
-I. Ubicará con precisión a la familia o sus representantes. En caso de que se desconozca la identidad de sus familiares o no sea posible contactarlos, la Procuraduría, con el apoyo de cualquier otra autoridad que estime conveniente, realizará todas las acciones necesarias para su determinación, y establecerán contacto con los mismos para la notificación;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE JUNIO DE 2019)</small>
+
+Para hacerlo el personal responsable de la Fiscalía:
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+I. Ubicará con precisión a la familia o sus representantes. En caso de que se desconozca la identidad de sus familiares o no sea posible contactarlos, la Fiscalía, con el apoyo de cualquier otra autoridad que estime conveniente, realizará todas las acciones necesarias para su determinación, y establecerán contacto con los mismos para la notificación;
 
 II. Recopilará y sistematizará toda la información disponible sobre la desaparición, la investigación, la ubicación de los restos de la persona, el proceso de recuperación de los mismos y el proceso de identificación, con el objetivo de ofrecer a las familias toda la información que deseen;
 
@@ -393,7 +435,9 @@ VI. Expondrá la estructura del Informe Multidisciplinario de Identificación Fo
 
 VII. Garantizará las condiciones para que las familias que así lo deseen puedan ver los restos de su familiar;
 
-VIII. Informará a la familia sobre sus derechos, sobre los apoyos que puede recibir por parte de distintas instituciones como la propia Procuraduría o la CEAV Coahuila, y de las actuaciones o trámites que deban realizar para el acceso a apoyos y se le facilitará, en su caso, asistencia para la realización de los mismos;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+VIII. Informará a la familia sobre sus derechos, sobre los apoyos que puede recibir por parte de distintas instituciones como la propia Fiscalía o la CEAV Coahuila, y de las actuaciones o trámites que deban realizar para el acceso a apoyos y se le facilitará, en su caso, asistencia para la realización de los mismos;
 
 IX. Realizará la (sic) los trámites necesarios para el traslado y entrega de restos en colaboración con la CEAV Coahuila, atendiendo los deseos de la familia.
 
@@ -401,17 +445,25 @@ La Mesa de Coordinación Forense supervisará estos procesos de notificación y 
 
 En caso de que se produzca la localización e identificación de la persona desaparecida, las autoridades informarán a su familia antes de hacer del conocimiento público cualquier información al respecto. Cualquier comunicación pública sobre la localización de personas desaparecidas o la identificación de restos humanos deberá realizarse por razones estrictas de interés público, previa consulta con las familias afectadas y en respeto pleno a sus derechos.
 
-Para el cumplimiento de este artículo, la Procuraduría adoptará un protocolo en la materia, mismo que será elaborado en consulta con los grupos de familiares, organizaciones de la sociedad civil y personas e instituciones expertas con base en estándares y normas internacionales en la materia.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Para el cumplimiento de este artículo, la Fiscalía adoptará un protocolo en la materia, mismo que será elaborado en consulta con los grupos de familiares, organizaciones de la sociedad civil y personas e instituciones expertas con base en estándares y normas internacionales en la materia.
 
 ###### Artículo 22.
 
 Entrega de restos de la persona fallecida a su familia
 
-En caso de que se identifiquen los restos de una persona, la CEAV Coahuila y la Procuraduría, en diálogo con la familia o su representación y, si ésta lo requiere, con el grupo de familias, personas u organizaciones acompañantes o participantes, brindará el apoyo necesario para la entrega digna de los restos, informando de la ubicación actual de los mismos, y las posibilidades de entrega que existan según su estado de conservación, de conformidad con el protocolo en la materia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2019)</small>
 
-La Procuraduría asegurará por sí misma, o en colaboración con otras autoridades, todos los elementos necesarios para la recuperación, traslado, entrega, tratamiento y, en su caso, inhumación de los restos humanos, incluyendo la cobertura de los gastos funerarios, de conformidad con el deseo de las familias en cualquier lugar de la República Mexicana, garantizando en todo momento el respeto y dignidad de las familias y de la persona fallecida. La Procuraduría atenderá a las creencias, tradiciones o la voluntad de la persona fallecida y de su familia en la realización de estas acciones.
+En caso de que se identifiquen los restos de una persona, la CEAV Coahuila y la Fiscalía, en diálogo con la familia o su representación y, si ésta lo requiere, con el grupo de familias, personas u organizaciones acompañantes o participantes, brindará el apoyo necesario para la entrega digna de los restos, informando de la ubicación actual de los mismos, y las posibilidades de entrega que existan según su estado de conservación, de conformidad con el protocolo en la materia.
 
-En el caso de restos de personas de nacionalidad extranjera o cuya familia se encuentre en el extranjero, la Procuraduría y la CEAV Coahuila, previa comunicación y acuerdo con la familia, realizarán todas las gestiones y trámites necesarios para el traslado internacional de los restos y su entrega a la familia.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Fiscalía asegurará por sí misma, o en colaboración con otras autoridades, todos los elementos necesarios para la recuperación, traslado, entrega, tratamiento y, en su caso, inhumación de los restos humanos, incluyendo la cobertura de los gastos funerarios, de conformidad con el deseo de las familias en cualquier lugar de la República Mexicana, garantizando en todo momento el respeto y dignidad de las familias y de la persona fallecida. La Fiscalía atenderá a las creencias, tradiciones o la voluntad de la persona fallecida y de su familia en la realización de estas acciones.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+En el caso de restos de personas de nacionalidad extranjera o cuya familia se encuentre en el extranjero, la Fiscalía y la CEAV Coahuila, previa comunicación y acuerdo con la familia, realizarán todas las gestiones y trámites necesarios para el traslado internacional de los restos y su entrega a la familia.
 
 Junto con los restos de la persona fallecida se entregará a su familia sus objetos y pertenencias personales si así lo desea la familia. En caso de que por motivos procesales no sea posible la entrega de los objetos personales de la persona fallecida a su familia en el momento de la entrega de sus restos, se procederá a su entrega de oficio en cuanto desaparezcan los obstáculos legales que lo impedían y siempre respetando los deseos de la familia.
 
@@ -453,17 +505,21 @@ Las personas desaparecidas y las personas fallecidas tienen derecho a ser record
 
 Para garantizar este derecho el Estado de Coahuila de Zaragoza realizará todas las acciones necesarias, en aras de preservar la memoria histórica de la sociedad, que tengan efectos como la recuperación de la memoria de las personas desaparecidas y fallecidas, el reconocimiento de su dignidad, contribuyan a la reparación integral del daño a las familias, la reprobación a los hechos que causaron estas violaciones a derechos humanos y garantizando que estas no se repitan nunca más.
 
-Para ello la Procuraduría junto con la Secretaría de Gobierno, y las demás autoridades relevantes trabajarán junto con los grupos de familias de personas desaparecidas, familias de personas desaparecidas o fallecidas, organizaciones de la sociedad civil, organismos nacionales e internacionales y personas expertas en la definición de elementos de recuerdo y reconocimiento de la memoria de las personas víctimas de desaparición, siempre con el consentimiento previo de las familias.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Para ello la Fiscalía junto con la Secretaría de Gobierno, y las demás autoridades relevantes trabajarán junto con los grupos de familias de personas desaparecidas, familias de personas desaparecidas o fallecidas, organizaciones de la sociedad civil, organismos nacionales e internacionales y personas expertas en la definición de elementos de recuerdo y reconocimiento de la memoria de las personas víctimas de desaparición, siempre con el consentimiento previo de las familias.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
 ###### Artículo 27.
 
 Garantía de los derechos
 
-La Procuraduría asumirá el cumplimiento de las obligaciones previstas en esta ley, así como cualquier otra acción necesaria para el logro del objetivo de la ley y la efectividad de los derechos de las familias.
+La Fiscalía asumirá el cumplimiento de las obligaciones previstas en esta ley, así como cualquier otra acción necesaria para el logro del objetivo de la ley y la efectividad de los derechos de las familias.
 
-La Procuraduría podrá firmar convenios o solicitar la colaboración de cualquier otra autoridad para que en el ejercicio de sus funciones auxilien a la Procuraduría en el cumplimiento de lo establecido en la presente ley de forma eficaz. La Procuraduría podrá suscribir convenios u otros acuerdos con organizaciones, instituciones y personas expertas nacionales o internacionales para que colaboren en el cumplimiento eficaz de lo establecido en la presente ley.
+La Fiscalía podrá firmar convenios o solicitar la colaboración de cualquier otra autoridad para que en el ejercicio de sus funciones auxilien a la Fiscalía en el cumplimiento de lo establecido en la presente ley de forma eficaz. La Fiscalía podrá suscribir convenios u otros acuerdos con organizaciones, instituciones y personas expertas nacionales o internacionales para que colaboren en el cumplimiento eficaz de lo establecido en la presente ley.
 
-Para la realización de las actividades y procedimientos previstos en esta ley o que de ella deriven, el Procurador podrá determinar qué unidades de la Procuraduría, distintas a las señaladas en esta norma como responsables, colaboren en la realización de estas funciones o asuman alguna de ellas. En caso de determinar que las funciones sean asumidas por una unidad distinta a la señalada en esta ley, las resoluciones del Procurador que establezcan esta posibilidad deberán justificar la necesidad de dicha determinación y establecer una periodicidad máxima de vigencia hasta el momento en que las unidades responsables asuman plenamente estas funciones.
+Para la realización de las actividades y procedimientos previstos en esta ley o que de ella deriven, el Fiscal podrá determinar qué unidades de la Fiscalía, distintas a las señaladas en esta norma como responsables, colaboren en la realización de estas funciones o asuman alguna de ellas. En caso de determinar que las funciones sean asumidas por una unidad distinta a la señalada en esta ley, las resoluciones del Fiscal que establezcan esta posibilidad deberán justificar la necesidad de dicha determinación y establecer una periodicidad máxima de vigencia hasta el momento en que las unidades responsables asuman plenamente estas funciones.
 
 ###### Artículo 28.
 
@@ -509,15 +565,21 @@ Autoridades responsables
 
 Las autoridades encargadas del funcionamiento del Sistema de Gestión de Información son:
 
-I. Titular de la Unidad de Búsqueda de Personas Desaparecidas de la Procuraduría General de Justicia del estado de Coahuila de Zaragoza la cual coordinará el Sistema de Gestión de Información;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+I. Titular de la Unidad de Búsqueda de Personas Desaparecidas de la Fiscalía General del Estado de Zaragoza, la cual coordinará el Sistema de Gestión de Información;
 
 II. Titular de la Subprocuraduría de Personas Desaparecidas y Titular de la Subprocuraduría Ministerial serán las principales autoridades encargadas de recopilar, almacenar, capturar y concentrar la información del Sistema de Gestión de Información;
 
 III. Titular de la Dirección General de Servicios Periciales, realizará el análisis y los informes sobre el proceso de identificación forense y la captura de la información forense;
 
-IV. Titular de la Coordinación General de Análisis de Información y de Inteligencia Patrimonial y Económica de la Procuraduría procesará información relevante para la elaboración de mapas delincuenciales, identificación de formas de operación y localización de fosas clandestinas, así como colaborar en todas las demás actividades previstas en esta ley.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
 
-En caso de ser necesario, el Titular de la Procuraduría podrá determinar que otras dependencias o unidades de la Procuraduría colaboren en la realización de estas funciones o asuman alguna de estas funciones conforme a lo establecido en el artículo 27 de esta ley.
+IV. Titular de la Coordinación General de Análisis de Información y de Inteligencia Patrimonial y Económica de la Fiscalía procesará información relevante para la elaboración de mapas delincuenciales, identificación de formas de operación y localización de fosas clandestinas, así como colaborar en todas las demás actividades previstas en esta ley.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+En caso de ser necesario, el Titular de la Fiscalía podrá determinar que otras dependencias o unidades de la Fiscalía colaboren en la realización de estas funciones o asuman alguna de estas funciones conforme a lo establecido en el artículo 27 de esta ley.
 
 Todas las autoridades del Estado de Coahuila de Zaragoza, en el ámbito de sus competencias, se encuentran obligadas a colaborar con el Sistema de Gestión de Información de Personas Desaparecidas y Personas Fallecidas sin Identificar.
 
@@ -575,7 +637,9 @@ Los registros, las herramientas y procedimientos para la utilización del Sistem
 
 El Sistema de Gestión y sus procesos, componentes e información serán auditados por personas o instituciones externas anualmente para determinar su correcto funcionamiento y cualquier necesidad de mejora. En caso de que derivado de las auditorías se detecten anomalías, falencias o posibilidades de mejora, se realizará un plan para el cumplimiento de las recomendaciones u observaciones de las auditorías.
 
-Asimismo, a solicitud de la Mesa de Coordinación Forense o por instrucciones del Procurador, se realizarán las auditorías necesarias sobre el funcionamiento del Sistema de Gestión de Información.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Asimismo, a solicitud de la Mesa de Coordinación Forense o por instrucciones del Fiscal, se realizarán las auditorías necesarias sobre el funcionamiento del Sistema de Gestión de Información
 
 ###### Artículo 38.
 
@@ -589,11 +653,13 @@ Recursos suficientes
 
 El Sistema de Gestión de Información deberá contar con los recursos materiales y humanos necesarios para su debida implementación y funcionamiento. Los avances científicos y tecnológicos serán tomados en cuenta para la determinación de estos recursos.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
 ###### Artículo 40.
 
 Revisión del proceso
 
-Los familiares de las personas desaparecidas tendrán derecho a solicitar la revisión del proceso de identificación de restos humanos por parte de expertos independientes. La Procuraduría facilitará el acceso a la información y elementos materiales que requieran los expertos nombrados por las familias.
+Los familiares de las personas desaparecidas tendrán derecho a solicitar la revisión del proceso de identificación de restos humanos por parte de expertos independientes. La Fiscalía facilitará el acceso a la información y elementos materiales que requieran los expertos nombrados por las familias.
 
 #### SECCIÓN II. DE LA MESA DE COORDINACIÓN FORENSE
 
@@ -609,7 +675,9 @@ De la conformación de la Mesa de Coordinación Forense
 
 La Mesa de Coordinación Forense estará integrada por:
 
-I. El Procurador. En caso de no poder asistir, el Procurador designará a una persona con capacidad de decisión para que acuda en su representación;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+I. El Fiscal. En caso de no poder asistir, el Fiscal designará a una persona con capacidad de decisión para que acuda en su representación;
 
 II. Titular de la Unidad de Búsqueda de Personas Desaparecidas. En caso de no poder asistir, el Titular designará a una persona con capacidad de decisión para que acuda en su representación;
 
@@ -627,7 +695,9 @@ La Mesa Forense, por acuerdo de la mayoría de sus integrantes o por unanimidad 
 
 Se podrá convocar a las reuniones de la Mesa Forense a cualquier servidor público de las dependencias participantes u otras autoridades.
 
-La Mesa Forense designará de entre los representantes de las diversas áreas de la Procuraduría participantes a una persona como coordinadora para dar seguimiento a los acuerdos adoptados, emitir las convocatorias a reunión y garantizar las condiciones para la realización de las acciones de la Mesa.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Mesa Forense designará de entre los representantes de las diversas áreas de la Fiscalía participantes a una persona como coordinadora para dar seguimiento a los acuerdos adoptados, emitir las convocatorias a reunión y garantizar las condiciones para la realización de las acciones de la Mesa.
 
 ###### Artículo 43.
 
@@ -655,7 +725,9 @@ IX. Emitir los lineamientos de funcionamiento interno de la Mesa de Coordinació
 
 X. Las demás que esta Ley, sus reglamentos, lineamientos, manuales o los protocolos le confieran.
 
-La Procuraduría convocará a las sesiones ordinarias de la Mesa Forense de manera formal al menos una vez cada dos meses y en todas las ocasiones que la mayoría de quienes integran la Mesa así lo acuerden.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Fiscalía convocará a las sesiones ordinarias de la Mesa Forense de manera formal al menos una vez cada dos meses y en todas las ocasiones que la mayoría de quienes integran la Mesa así lo acuerden.
 
 #### SECCIÓN III. DEL REGISTRO DE PERSONAS DESAPARECIDAS
 
@@ -669,7 +741,9 @@ El Registro de Personas Desaparecidas y su herramienta tecnológica deberán con
 
 Del Contenido del Registro de Personas Desaparecidas
 
-La Procuraduría incorporará toda la información relevante sobre las personas desaparecidas al Registro de Personas Desaparecidas con el objetivo de contribuir a su búsqueda e identificación, así como a la investigación de la desaparición.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Fiscalía incorporará toda la información relevante sobre las personas desaparecidas al Registro de Personas Desaparecidas con el objetivo de contribuir a su búsqueda e identificación, así como a la investigación de la desaparición.
 
 El Registro de Personas Desaparecidas debe contener, como mínimo, la siguiente información:
 
@@ -739,27 +813,35 @@ VIII. El formato de consentimiento informado en el que la persona que proporcion
 
 IX. En caso de toma de muestras biológicas, se incluirá un formato de consentimiento informado específico para las mismas.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
 ###### Artículo 46.
 
 Obtención de información sobre personas desaparecidas y sus familias
 
-La Procuraduría, solicitando la colaboración de las Procuradurías o Fiscalías de otras entidades federativas y de la Procuraduría General de la República, así como de cualquier otra autoridad competente, realizará todas las acciones necesarias para la obtención de toda la información relativa a cualquier posible desaparición de la que existan indicios o se tenga noticia que pudiera haber ocurrido en el Estado de Coahuila de Zaragoza, o aquellas en las que la persona desaparecida pudiera encontrarse en el estado e incorporará dicha información al Registro de Personas Desaparecidas.
+La Fiscalía, solicitando la colaboración de las Procuradurías o Fiscalías de otras entidades federativas y de la Fiscalía General de la República, así como de cualquier otra autoridad competente, realizará todas las acciones necesarias para la obtención de toda la información relativa a cualquier posible desaparición de la que existan indicios o se tenga noticia que pudiera haber ocurrido en el Estado de Coahuila de Zaragoza, o aquellas en las que la persona desaparecida pudiera encontrarse en el estado e incorporará dicha información al Registro de Personas Desaparecidas.
 
-La Procuraduría podrá también contar con el apoyo de organizaciones de la sociedad civil, grupos de familias, organismos internacionales, o cualquier otra persona o entidad que pueda colaborar para este fin.
+La Fiscalía podrá también contar con el apoyo de organizaciones de la sociedad civil, grupos de familias, organismos internacionales, o cualquier otra persona o entidad que pueda colaborar para este fin.
 
-Asimismo, al tener noticia de la existencia de la desaparición de una persona residente en el Estado de Coahuila de Zaragoza o cuyos familiares residan en el estado, la Procuraduría pondrá estos hechos en conocimiento de las autoridades que resulten competentes y realizará las actuaciones necesarias para colaborar con las mismas.
+Asimismo, al tener noticia de la existencia de la desaparición de una persona residente en el Estado de Coahuila de Zaragoza o cuyos familiares residan en el estado, la Fiscalía pondrá estos hechos en conocimiento de las autoridades que resulten competentes y realizará las actuaciones necesarias para colaborar con las mismas.
 
 ###### Artículo 47.
 
 Localización de las familias de personas desaparecidas y recolección de información
 
-Tras conocer una posible desaparición, la Procuraduría realizará de forma inmediata todas las acciones necesarias para localizar a la familia o allegados de la persona desaparecida y recopilará toda la información necesaria para su búsqueda y la investigación de los delitos que pudieran haberse cometido, incluyendo la información relevante para lograr la identificación de la víctima.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Tras conocer una posible desaparición, la Fiscalía realizará de forma inmediata todas las acciones necesarias para localizar a la familia o allegados de la persona desaparecida y recopilará toda la información necesaria para su búsqueda y la investigación de los delitos que pudieran haberse cometido, incluyendo la información relevante para lograr la identificación de la víctima.
 
 La localización de las familias y la recolección de información se realizarán por personal debidamente capacitado y sensibilizado para dicho propósito, y atenderán a las circunstancias de temor, posibles intimidaciones, desconfianza e inseguridad que puedan llevar a las familias a guardar silencio.
 
-En los casos en los que la Procuraduría no cuente con datos de contacto de las familias de personas desaparecidas o los mismos no resulten vigentes o útiles, elaborará un plan específico para su localización y comunicación.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
-En todo caso, la Procuraduría documentará la forma en que se han realizado los procesos de búsqueda y contacto con las familias.
+En los casos en los que la Fiscalía no cuente con datos de contacto de las familias de personas desaparecidas o los mismos no resulten vigentes o útiles, elaborará un plan específico para su localización y comunicación.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+En todo caso, la Fiscalía documentará la forma en que se han realizado los procesos de búsqueda y contacto con las familias.
 
 ###### Artículo 48.
 
@@ -841,7 +923,9 @@ La Unidad de Búsqueda informará de manera inmediata a la Subprocuraduría de P
 
 Los peritos que hayan participado en la elaboración del informe Multidisciplinario de Identificación Forense deberán estar en la notificación para presentar los resultados del informe a la familia. Las familias tendrán derecho a obtener copia certificada del Informe Multidisciplinario de Identificación Forense en su integridad si así lo solicitan.
 
-Todos los familiares de personas desaparecidas podrán solicitar a la Procuraduría información sobre los cruces de información y los procesos de identificación forense realizados. La Unidad de Búsqueda será la responsable de proporcionar la información.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Todos los familiares de personas desaparecidas podrán solicitar a la Fiscalía información sobre los cruces de información y los procesos de identificación forense realizados. La Unidad de Búsqueda será la responsable de proporcionar la información.
 
 #### SECCIÓN V. DEL BANCO DE DATOS GENÉTICOS
 
@@ -855,7 +939,9 @@ El Banco de Datos Genéticos tendrá como objeto administrar, almacenar, conserv
 
 El Banco deberá indexar, organizar, centralizar y almacenar la información de los perfiles genéticos, y realizará el cruce de información para la identificación de las personas desaparecidas.
 
-La información genética contenida en el Banco podrá proceder de los análisis realizados por la Procuraduría, de los realizados por otras instituciones en auxilio o en colaboración con la Procuraduría, de los realizados por peritos externos a solicitud de la Procuraduría o de las familias de personas desaparecidas, o de los que aporten otras autoridades en el ejercicio de sus funciones.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La información genética contenida en el Banco podrá proceder de los análisis realizados por la Fiscalía, de los realizados por otras instituciones en auxilio o en colaboración con la Fiscalía, de los realizados por peritos externos a solicitud de la Fiscalía o de las familias de personas desaparecidas, o de los que aporten otras autoridades en el ejercicio de sus funciones.
 
 Los resultados del Banco no sustituyen a los que se obtengan del proceso de identificación forense. Estos resultados deberán integrarse en el Informe Multidisciplinario de Identificación Forense y formar parte del proceso de identificación forense.
 
@@ -863,7 +949,9 @@ Los resultados del Banco no sustituyen a los que se obtengan del proceso de iden
 
 Del manejo de la información genética
 
-La Dirección General de Servicios Periciales estará encargada de la toma de muestras de referencia y del procesamiento de las muestras y los perfiles genéticos. Cuando sea necesario, la Procuraduría podrá solicitar el auxilio o la colaboración de cualquier otra autoridad para el cumplimiento de esta obligación.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Dirección General de Servicios Periciales estará encargada de la toma de muestras de referencia y del procesamiento de las muestras y los perfiles genéticos. Cuando sea necesario, la Fiscalía podrá solicitar el auxilio o la colaboración de cualquier otra autoridad para el cumplimiento de esta obligación.
 
 Las autoridades podrán auxiliarse de laboratorios nacionales o internacionales debidamente acreditados para procesar las muestras o los perfiles.
 
@@ -891,7 +979,9 @@ Acreditación de los laboratorios utilizados
 
 Los laboratorios utilizados por el Banco de Datos Genéticos deberán contar con acreditación conforme a la norma internacional correspondiente, los estándares internacionales y las buenas prácticas reconocidos en los distintos procesos de tratamiento de muestras y obtención de perfiles y su procesamiento.
 
-En caso de que existan resultados de análisis genéticos que no procedan de laboratorios certificados, la Procuraduría deberá exponer las razones por las que no se ha podido hacer uso de laboratorios acreditados.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+En caso de que existan resultados de análisis genéticos que no procedan de laboratorios certificados, la Fiscalía deberá exponer las razones por las que no se ha podido hacer uso de laboratorios acreditados.
 
 ###### Artículo 59.
 
@@ -933,11 +1023,13 @@ El Banco de Datos Genéticos operará conforme a lo señalado por su reglamentac
 
 #### SECCIÓN I. DEBER DE IDENTIFICACIÓN
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
 ###### Artículo 64.
 
 Deber de localización y recuperación de restos humanos y su procesamiento para identificación
 
-Cuando se tenga conocimiento o indicios de la posible presencia de cuerpos o restos de personas fallecidas no identificados (sic) en algún lugar del Estado de Coahuila de Zaragoza, éstos deberán ser localizados, recuperados e identificados por la Procuraduría, auxiliada por las demás autoridades que resulten necesarias, de conformidad con lo previsto en la presente ley, las normas procesales aplicables y leyes especiales, los tratados internacionales de los que el Estado mexicano sea parte, las recomendaciones, observaciones y decisiones de los órganos internacionales de derechos humanos, los estándares científicos y técnicos en la materia y los protocolos y lineamientos correspondientes.
+Cuando se tenga conocimiento o indicios de la posible presencia de cuerpos o restos de personas fallecidas no identificados en algún lugar del Estado de Coahuila de Zaragoza, éstos deberán ser localizados, recuperados e identificados por la Fiscalía, auxiliada por las demás autoridades que resulten necesarias, de conformidad con lo previsto en la presente ley, las normas procesales aplicables y leyes especiales, los tratados internacionales de los que el Estado mexicano sea parte, las 46 recomendaciones, observaciones y decisiones de los órganos internacionales de derechos humanos, los estándares científicos y técnicos en la materia y los protocolos y lineamientos correspondientes.
 
 ###### Artículo 65.
 
@@ -945,11 +1037,13 @@ Deber de identificar restos humanos inhumados
 
 Los restos de personas fallecidas no identificadas que se encuentren inhumados en panteones o cementerios del Estado de Coahuila de Zaragoza, deberán ser sometidos a todas las actuaciones previstas en esta ley y en su reglamento, así como en los protocolos y lineamientos correspondientes, para proceder a su identificación, conservación y entrega a sus familias.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
 ###### Artículo 66.
 
 Deber de identificar restos recuperados y almacenados
 
-Los restos humanos recuperados en el Estado de Coahuila de Zaragoza y que se encuentren bajo el resguardo de la Procuraduría o de cualquier otra autoridad, deberán ser sometidos a todas las actuaciones previstas en esta ley y en su reglamento, así como en los protocolos y lineamientos correspondientes, para proceder a su identificación, conservación y entrega a sus familias.
+Los restos humanos recuperados en el Estado de Coahuila de Zaragoza y que se encuentren bajo el resguardo de la Fiscalía o de cualquier otra autoridad, deberán ser sometidos a todas las actuaciones previstas en esta ley y en su reglamento, así como en los protocolos y lineamientos correspondientes, para proceder a su identificación, conservación y entrega a sus familias.
 
 ###### Artículo 67.
 
@@ -1059,13 +1153,15 @@ Documentación de los planes de exhumación e identificación
 
 Los planes de exhumación e identificación y su implementación deberán ser debidamente documentados en el Sistema de Gestión de la Información. Los resultados se procesarán conforme a lo señalado por esta ley, por los Lineamientos para el proceso de recuperación, localización e identificación forense, los protocolos aplicables en la materia y los estándares y normas internacionales en la materia.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
 ###### Artículo 78.
 
 Participación de las familias
 
-La conformación y ejecución de los planes de exhumación e identificación se realizará con la participación de los grupos de familias y las familias, así como de organizaciones de la sociedad civil, personas e instituciones expertas, si las familias lo solicitan o la Procuraduría así lo determina.
+La conformación y ejecución de los planes de exhumación e identificación se realizará con la participación de los grupos de familias y las familias, así como de organizaciones de la sociedad civil, personas e instituciones expertas, si las familias lo solicitan o la Fiscalía así lo determina.
 
-Las familias podrán solicitar a la Procuraduría información sobre el plan y su implementación en cualquier momento aun cuando no hayan participar (sic) en la elaboración del Plan.
+Las familias podrán solicitar a la Fiscalía información sobre el plan y su implementación en cualquier momento aun cuando no hayan participar (sic) en la elaboración del Plan.
 
 #### SECCIÓN V. ACTUACIÓN PARA LA IDENTIFICACIÓN DE CUERPOS INHUMADOS SIN IDENTIFICAR
 
@@ -1073,23 +1169,29 @@ Las familias podrán solicitar a la Procuraduría información sobre el plan y s
 
 Determinación de los cuerpos inhumados sin identificar
 
-La Procuraduría analizará toda la información disponible sobre cuerpos sin identificar inhumados en panteones o cementerios del Estado de Coahuila de Zaragoza, generará un registro completo de toda la información individualizada disponible sobre cada caso, incluyendo si se trata de inhumaciones en fosas individuales o colectivas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Fiscalía analizará toda la información disponible sobre cuerpos sin identificar inhumados en panteones o cementerios del Estado de Coahuila de Zaragoza, generará un registro completo de toda la información individualizada disponible sobre cada caso, incluyendo si se trata de inhumaciones en fosas individuales o colectivas.
 
 La información recabada será incorporada al Registro de Personas Fallecidas sin Identificar y será utilizada para la elaboración del Plan Estatal de Exhumación e Identificación de Casos Previamente Procesados.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
 ###### Artículo 80.
 
 Contraste de la información
 
-La Procuraduría corroborará la información sobre inhumaciones con inspecciones a los cementerios y panteones, consultas de sus registros y entrevistas al personal actual o pasado de los mismos.
+La Fiscalía corroborará la información sobre inhumaciones con inspecciones a los cementerios y panteones, consultas de sus registros y entrevistas al personal actual o pasado de los mismos.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
 ###### Artículo 81.
 
 Elaboración del Plan Estatal de Exhumación e Identificación de Casos Previamente Procesados
 
-La Procuraduría elaborará el Plan Estatal de Exhumación e Identificación de Casos Previamente Procesados con la colaboración de las autoridades competentes, auxiliándose por el Sistema de Gestión de Información de Personas Desaparecidas e incorporando el resto de información relevante y necesaria. Dicho Plan deberá estructurarse de conformidad con esta ley, con los Lineamientos para el proceso de recuperación, localización e identificación forense y los protocolos aprobados en la materia.
+La Fiscalía elaborará el Plan Estatal de Exhumación e Identificación de Casos Previamente Procesados con la colaboración de las autoridades competentes, auxiliándose por el Sistema de Gestión de Información de Personas Desaparecidas e incorporando el resto de información relevante y necesaria. Dicho Plan deberá estructurarse de conformidad con esta ley, con los Lineamientos para el proceso de recuperación, localización e identificación forense y los protocolos aprobados en la materia.
 
-Para la elaboración del Plan Estatal de Exhumación e Identificación de Casos Previamente Procesados, la Procuraduría consultará con los grupos de familias, familias de personas desaparecidas, organizaciones de derechos humanos y personas e instituciones expertas.
+Para la elaboración del Plan Estatal de Exhumación e Identificación de Casos Previamente Procesados, la Fiscalía consultará con los grupos de familias, familias de personas desaparecidas, organizaciones de derechos humanos y personas e instituciones expertas.
 
 ###### Artículo 82.
 
@@ -1131,19 +1233,25 @@ La Coordinación General de Análisis de Información y de Inteligencia Patrimon
 
 Cuando de estos informes se desprenda una posible localización en el (sic) que existan fosas clandestinas o un área en el que pudieran encontrarse restos humanos, se procederá al resguardo del área, se recopilará toda la información disponible y se procederá a la elaboración de un plan de exhumación e identificación para el lugar de conformidad con el artículo 74 y siguientes de la presente ley.
 
-#### SECCIÓN VII. ACTUACIÓN PARA LA IDENTIFICACIÓN DE RESTOS CONSERVADOS BAJO EL RESGUARDO DE LA PROCURADURÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2019)</small>
+
+#### SECCIÓN VII. ACTUACIÓN PARA LA IDENTIFICACIÓN DE RESTOS CONSERVADOS BAJO EL RESGUARDO DE LA FISCALÍA
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
 ###### Artículo 85.
 
 Catálogo de restos resguardados
 
-La Procuraduría realizará un catálogo completo de todos los restos humanos que se encuentren bajo su responsabilidad, ya sea bajo su responsabilidad directa, o a confiados a otras instituciones, indicando para cada uno, toda la información disponible, sobre su procedencia, fecha de recuperación, contexto del hallazgo, otros elementos relevantes recuperados, así como su ubicación física y los procedimientos de individualización que se hayan llevado a cabo.
+La Fiscalía realizará un catálogo completo de todos los restos humanos que se encuentren bajo su responsabilidad, ya sea bajo su responsabilidad directa, o a confiados a otras instituciones, indicando para cada uno, toda la información disponible, sobre su procedencia, fecha de recuperación, contexto del hallazgo, otros elementos relevantes recuperados, así como su ubicación física y los procedimientos de individualización que se hayan llevado a cabo.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
 ###### Artículo 86.
 
 Plan de análisis
 
-La Procuraduría elaborará un Plan de análisis de los restos en función de su número y características, señalando las actuaciones que se realizarán para su individualización e identificación, y los plazos previstos para completarlos.
+La Fiscalía elaborará un Plan de análisis de los restos en función de su número y características, señalando las actuaciones que se realizarán para su individualización e identificación, y los plazos previstos para completarlos.
 
 ###### Artículo 87.
 
@@ -1157,7 +1265,9 @@ La información sobre los restos y los resultados de su análisis será incorpor
 
 Conservación
 
-La Procuraduría adoptará todas las medidas necesarias para garantizar que tanto los restos humanos como los objetos personales y otras evidencias recuperadas sean resguardados en condiciones que permitan asegurar su conservación individualizada, su clasificación, seguridad y localización precisa facilitando su identificación y restitución a la familia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Fiscalía adoptará todas las medidas necesarias para garantizar que tanto los restos humanos como los objetos personales y otras evidencias recuperadas sean resguardados en condiciones que permitan asegurar su conservación individualizada, su clasificación, seguridad y localización precisa facilitando su identificación y restitución a la familia.
 
 Los objetos personales y otras evidencias serán conservados mientras no concluyan de forma definitiva todos los procedimientos de búsqueda e identificación y procedimientos penales para los que pudieran ser relevantes, salvo que de conformidad con las normas procesales puedan ser entregados a la familia de la persona fallecida.
 
@@ -1179,7 +1289,9 @@ Evaluación periódica de las condiciones de resguardo y conservación
 
 Al menos una vez al año la Dirección General de Servicios Periciales realizará una evaluación de las condiciones de resguardo y conservación de los restos humanos, objetos personales y otras evidencias recuperados y realizará las adecuaciones necesarias para garantizar el resguardo y conservación.
 
-A solicitud de las familias o grupos de familias, o por invitación de la Procuraduría, personas o instituciones expertas podrán observar las condiciones de resguardo y realizar recomendaciones para la mejora de las mismas, éstas deberán ser atendidas; en caso de no serlo, se expondrán las razones para ello.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+A solicitud de las familias o grupos de familias, o por invitación de la Fiscalía, personas o instituciones expertas podrán observar las condiciones de resguardo y realizar recomendaciones para la mejora de las mismas, éstas deberán ser atendidas; en caso de no serlo, se expondrán las razones para ello.
 
 ### CAPÍTULO VI. INHUMACIONES
 
@@ -1201,7 +1313,9 @@ Inhumaciones individuales
 
 Las inhumaciones de restos humanos sin identificar o de personas identificadas y cuyos restos aún no han sido entregados a sus familias se realizarán dignamente, en condiciones de eficiente localización y clasificación, en fosa o bóveda individual, en lugares marcados, individualizados y registrados y en condiciones que permitan la correcta disposición de los restos de acuerdo a las mejores prácticas en la materia.
 
-Para asegurar el cumplimiento de esta obligación, la Procuraduría, con el auxilio de otras autoridades competentes, podrá realizar las actuaciones necesarias y firmar los convenios que resulten pertinentes, incluyendo la posibilidad de disponer de terrenos o instalaciones en los lugares autorizados de enterramiento destinados específicamente a este fin.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Para asegurar el cumplimiento de esta obligación, la Fiscalía, con el auxilio de otras autoridades competentes, podrá realizar las actuaciones necesarias y firmar los convenios que resulten pertinentes, incluyendo la posibilidad de disponer de terrenos o instalaciones en los lugares autorizados de enterramiento destinados específicamente a este fin.
 
 ###### Artículo 94.
 
@@ -1223,7 +1337,9 @@ En ningún caso se procederá a la incineración o destrucción de los restos hu
 
 Verdad
 
-Para garantizar el derecho las personas desaparecidas, de sus familias y de la sociedad a conocer la verdad sobre lo ocurrido, así como las razones y circunstancias en las que se produjeron los casos de graves violaciones a los derechos humanos, la Procuraduría, en colaboración con las entidades públicas y privadas pertinentes, y con la plena participación de los grupos de familias, familias de personas desaparecidas y organizaciones de la sociedad civil, establecerá los mecanismos necesarios para la determinación de las circunstancias y el contexto en el que se produjeron las desapariciones de personas en el Estado de Coahuila de Zaragoza, así como cualquier hecho relevante.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Para garantizar el derecho (sic) las personas desaparecidas, de sus familias y de la sociedad a conocer la verdad sobre lo ocurrido, así como las razones y circunstancias en las que se produjeron los casos de graves violaciones a los derechos humanos, la Fiscalía, en colaboración con las entidades públicas y privadas pertinentes, y con la plena participación de los grupos de familias, familias de personas desaparecidas y organizaciones de la sociedad civil, establecerá los mecanismos necesarios para la determinación de las circunstancias y el contexto en el que se produjeron las desapariciones de personas en el Estado de Coahuila de Zaragoza, así como cualquier hecho relevante.
 
 El trabajo para el esclarecimiento de los hechos se realizará con la participación de personas expertas en la investigación y trabajo social, la recuperación de memoria y el derecho a la verdad.
 
@@ -1231,7 +1347,9 @@ El trabajo para el esclarecimiento de los hechos se realizará con la participac
 
 Memoria
 
-La Procuraduría, junto con la Secretaría de Gobierno y la CEAV Coahuila, establecerán un mecanismo para la salvaguardia de la memoria de las personas desaparecidas y de los hechos ocurridos en el Estado de Coahuila de Zaragoza. La Procuraduría, la Secretaría de Gobierno y la CEAV Coahuila podrán solicitar la incorporación de cualquier otra autoridad a este mecanismo cuya participación pueda resultar necesaria.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Fiscalía, junto con la Secretaría de Gobierno y la CEAV Coahuila, establecerán un mecanismo para la salvaguardia de la memoria de las personas desaparecidas y de los hechos ocurridos en el Estado de Coahuila de Zaragoza. La Fiscalía, la Secretaría de Gobierno y la CEAV Coahuila podrán solicitar la incorporación de cualquier otra autoridad a este mecanismo cuya participación pueda resultar necesaria.
 
 El mecanismo establecido para la garantía de la memoria, mantendrá un diálogo con los grupos de familias, familias, organizaciones de la sociedad civil, organismos nacionales e internacionales y personas expertas para la definición de elementos de recuerdo y reconocimiento de la memoria de las personas víctimas de desaparición, siempre con el consentimiento previo de las familias.
 
@@ -1243,7 +1361,9 @@ El mecanismo de memoria podrá establecer medidas para la conservación de lugar
 
 Evaluación
 
-La Procuraduría elaborará una evaluación anual sobre el avance en el cumplimiento de los objetivos de esta ley. Dicha evaluación comprenderá al menos la evaluación de proceso o nivel de implementación de las acciones previstas para el logro de los objetivos de esta ley, la evaluación de impacto sobre el logro de los objetivos de la ley y la evaluación económica sobre los recursos destinados al cumplimiento de esta ley, su grado de implementación y su suficiencia o no para alcanzar los objetivos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Fiscalía elaborará una evaluación anual sobre el avance en el cumplimiento de los objetivos de esta ley. Dicha evaluación comprenderá al menos la evaluación de proceso o nivel de implementación de las acciones previstas para el logro de los objetivos de esta ley, la evaluación de impacto sobre el logro de los objetivos de la ley y la evaluación económica sobre los recursos destinados al cumplimiento de esta ley, su grado de implementación y su suficiencia o no para alcanzar los objetivos.
 
 La evaluación anual será presentada públicamente y entregada al Congreso del Estado dentro de los tres primeros meses del año siguiente a aquel que se evalúe.
 
@@ -1251,7 +1371,9 @@ La evaluación anual será presentada públicamente y entregada al Congreso del 
 
 Mejora continua
 
-La Procuraduría elaborará al menos cada dos años una nueva evaluación de necesidades destinada a identificar los recursos, procedimientos y acciones necesarios para el logro de los objetivos de esta ley y aprobará las acciones necesarias para la adecuación de sus actuaciones.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2019)</small>
+
+La Fiscalía elaborará al menos cada dos años una nueva evaluación de necesidades destinada a identificar los recursos, procedimientos y acciones necesarios para el logro de los objetivos de esta ley y aprobará las acciones necesarias para la adecuación de sus actuaciones.
 
 Los resultados de esta evaluación y las acciones necesarias para adecuar su actuación serán presentados públicamente y entregados al Congreso del Estado dentro de los tres primeros meses del año siguiente al final del periodo evaluado.
 
@@ -1267,11 +1389,13 @@ Las propuestas de mejora que se deriven de estas evaluaciones serán también co
 
 ### CAPÍTULO IX. SANCIONES
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
 ###### Artículo 101.
 
 Sanciones
 
-Las violaciones a los preceptos de esta ley, sus reglamentos, lineamientos, protocolos y demás disposiciones que emanen de ella por servidores públicos, serán sancionadas administrativamente por la Procuraduría o la autoridad a la que pertenezcan los servidores públicos infractores o a la autoridad competente, conforme a la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza o las normas que resulten aplicables, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
+Las violaciones a los preceptos de esta ley, sus reglamentos, lineamientos, protocolos y demás disposiciones que emanen de ella por servidores públicos, serán sancionadas administrativamente por la Fiscalía o la autoridad a la que pertenezcan los servidores públicos infractores o a la autoridad competente, conforme a la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza o las normas que resulten aplicables, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
 
 ### CAPÍTULO X. RECURSOS
 
@@ -1289,17 +1413,21 @@ Las autoridades responsables de la realización de acciones para el logro de los
 
 Las autoridades responsables de la realización de acciones para el logro de los objetivos previstos en esta ley podrán realizar convenios y solicitar el apoyo de cualquier otra autoridad estatal, municipal o federal, así como de entidades privadas y organizaciones de la sociedad civil.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+
 ###### Artículo 104.
 
-Responsabilidad subsidiaria de la Procuraduría
+Responsabilidad subsidiaria de la Fiscalía
 
-La ausencia de recursos suficientes por parte de las autoridades responsables para el logro de los objetivos previstos en esta ley será suplida por la Procuraduría en apoyo a dichas autoridades hasta que se subsane la deficiencia de recursos.
+La ausencia de recursos suficientes por parte de las autoridades responsables para el logro de los objetivos previstos en esta ley será suplida por la Fiscalía en apoyo a dichas autoridades hasta que se subsane la deficiencia de recursos.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
 ###### Artículo 105.
 
 Aportaciones extraordinarias
 
-Para el cumplimiento de los objetivos de esta ley, la Procuraduría podrá recibir la colaboración y las aportaciones y recursos procedentes de otras autoridades, entidades y personas físicas y morales conforme a la legislación aplicable. Toda aportación realizada de conformidad con este artículo será debidamente documentada y se destinará al cumplimiento de los fines de esta ley.
+Para el cumplimiento de los objetivos de esta ley, la Fiscalía podrá recibir la colaboración y las aportaciones y recursos procedentes de otras autoridades, entidades y personas físicas y morales conforme a la legislación aplicable. Toda aportación realizada de conformidad con este artículo será debidamente documentada y se destinará al cumplimiento de los fines de esta ley.
 
 ## TRANSITORIOS
 
@@ -1486,3 +1614,9 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
