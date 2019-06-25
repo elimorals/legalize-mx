@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-prevencion-y-gestion-integral-de-residuos-para-4744
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2017-11-21"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 2 de diciembre de 2005.
 
@@ -143,7 +143,7 @@ XIV. Diseñar el establecimiento y aplicación de los instrumentos económicos, 
 
 XV. Las demás que se establezcan en esta ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 6.
 
@@ -185,7 +185,7 @@ XVII. Celebrar acuerdos y convenios con el gobierno de los tres niveles así com
 
 XVIII. Las demás que se establezcan en esta ley y otros ordenamientos que resulten aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 7.
 
@@ -265,7 +265,7 @@ Para los efectos del artículo anterior, los convenios o acuerdos de coordinaci�
 
 ### Capítulo Primero. Del Programa Estatal para la Prevención y Gestión Integral de los Residuos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 11.
 
@@ -351,7 +351,7 @@ II. Que se trate de residuos de alto volumen de generación, producidos por un n
 
 III. Que se trate de residuos que representen un riesgo a la población, al ambiente o a los recursos naturales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 18.
 
@@ -375,7 +375,7 @@ VII. La indicación de que parte de la información proporcionada a la Secretar�
 
 VIII. Los indicadores para evaluar el desempeño del plan de manejo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 19.
 
@@ -611,7 +611,7 @@ La etapa de limpia o barrido se excluye del manejo integral de residuos de manej
 
 Tratándose de los residuos sólidos urbanos, las etapas de limpia o barrido, recolección, traslado o trasportación, tratamiento y disposición final estarán a cargo de los municipios por ser un servicio público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 38.
 
@@ -837,7 +837,7 @@ Las visitas de inspección que realice la Secretaría, se realizarán conforme a
 
 ### Capítulo Segundo. De las Medidas de Seguridad
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 69.
 
@@ -885,11 +885,11 @@ Se establece la responsabilidad solidaria, independiente de toda falta, de los g
 
 La exención de responsabilidad sólo se producirá acreditando que, a pesar de haberse adoptado todas las medidas destinadas a evitarlos y sin mediar culpa concurrente del generador u operador de instalaciones, los daños y perjuicios se produjeron por culpa exclusiva de la víctima o de un tercero por quien no se deba responder.
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 75.
 
-Todo servidor público está obligado a denunciar ante la Secretaría o la Procuraduría cualquier alteración al ambiente de que tenga conocimiento en razón de su cargo. Los funcionarios públicos que deban velar por el cumplimiento de lo establecido en la normatividad ambiental incurrirán en responsabilidad solidaria en caso de omisión o incumplimiento de deberes, sin perjuicio de las responsabilidades que correspondan. Además serán proporcionalmente responsables por los daños causados al ambiente en el tanto que les sean imputables.
+Todo servidor público está obligado a denunciar ante la Secretaría o la Fiscalía General del Estado cualquier alteración al ambiente de que tenga conocimiento en razón de su cargo. Los funcionarios públicos que deban velar por el cumplimiento de lo establecido en la normatividad ambiental incurrirán en responsabilidad solidaria en caso de omisión o incumplimiento de deberes, sin perjuicio de las responsabilidades que correspondan. Además serán proporcionalmente responsables por los daños causados al ambiente en el tanto que les sean imputables.
 
 ###### ARTÍCULO 76.
 
@@ -979,7 +979,7 @@ C.P. IGNACIO DIEGO MUÑOZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 6 DE JUNIO DE 2008.
 
@@ -996,3 +996,9 @@ PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Las dependencias estatales y municipales correspondientes deberán llevar a cabo las adecuaciones necesarias en su reglamentación dentro de los 60 días naturales contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
