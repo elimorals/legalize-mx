@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-regulacion-de-la-venta-y-consumo-de-alcohol-en-8948
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-18"
-last_updated: "2018-10-05"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Coahuila, el martes 18 de septiembre de 2012.
 
@@ -156,6 +156,14 @@ Comercialización
 En el estado únicamente pueden vender, comprar, ofrecer, preparar, servir o consumir bebidas alcohólicas, las personas mayores de 18 años de edad.
 
 Para efectos de acreditar la mayoría de edad en relación con la venta, compra, expendio o consumo de bebidas alcohólicas, únicamente se considerarán válidos la credencial para votar con fotografía expedida por el Instituto Federal Electoral, pasaporte o cualquier otro documento oficial con fotografía que contenga la fecha de nacimiento del portador.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Quienes vendan y entreguen a domicilio bebidas alcohólicas, deberán cerciorarse que se realice a personas mayores de 18 años de edad, mediante los documentos señalados en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2019)</small>
+
+Quienes infrinjan lo dispuesto en el párrafo anterior entregando bebidas alcohólicas a menores de edad, se harán acreedores a las penas y sanciones establecidas en el Código Penal del Estado de Coahuila de Zaragoza.
 
 Autorización
 
@@ -1421,43 +1429,17 @@ Primero.- El decreto entrará en vigor al día siguiente de su publicación en e
 
 Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
 
-###### ARTICULO PRIMERO.
+P.O. 25 DE JUNIO DE 2019.
 
-La presente Ley entrará en vigor en toda la República el día primero de enero de mil novecientos ochenta.
+## [N. DE E. TRANSITORIOS DEL “DECRETO 270.- SE ADICIONAN UN TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 5 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO PRIMERO.
 
-Al entrar en vigor la presente Ley, quedan abrogadas las leyes y decretos siguientes:
+El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
 
-1.- Ley de Impuestos sobre Aguamiel y Productos de su Fermentación.
+###### ARTÍCULO SEGUNDO.
 
-2.- Ley del Impuesto sobre Producción e Introducción de Energía Eléctrica.
-
-3.- Ley del Impuesto sobre Consumo de Gasolina.
-
-4.- Ley de Impuestos de Migración.
-
-5.- Ley de Impuestos al Petróleo y sus Derivados.
-
-6.- Ley que Reforma la del Impuesto sobre Productos del Petróleo y sus Derivados.
-
-7.- Ley del Impuesto sobre Fundos Petroleros.
-
-8.- Decreto que grava con un 15% los productos obtenidos por la Refinación de Petróleo Extranjero.
-
-9.- "Decreto que establece un impuesto especial sobre el Consumo de Algodón Despepitado, así como el que adquieran los industriales a partir del 1o. de septiembre del presente año", de 20 de junio de 1944.
-
-10.- Artículo 7o. de la Ley que Establece, Reforma y Adiciona las disposiciones relativas a diversos impuestos de 28 de diciembre de 1967, que estableció un Impuesto sobre Compraventa de Primera Mano de Artículos de Vidrio o Cristal.
-
-ARTICULO TRIGESIMO SEGUNDO.- No se pagará el impuesto al valor agregado cuando los ingresos del contribuyente hayan causado el impuesto federal sobre ingresos mercantiles o cuando la contraprestación fue exigible antes del 1o. de enero de 1980; si es exigible con posterioridad, en razón de que los actos o actividades fueren de carácter continuo; sólo se pagará el impuesto por la parte de la contraprestación correspondiente a los actos o actividades o los efectos de los mismos, que se realicen a partir de dicha fecha.
-
-En las importaciones de bienes tangibles, no se pagará el impuesto al valor agregado por los introducidos en el país con anterioridad al 1o. de enero de 1980 en los términos del Código Aduanero. Se pagará el impuesto al valor agregado en la importación temporal que se convierta en definitiva con posterioridad a dicha fecha.
-
-ARTICULO TRIGESIMO TERCERO.- El Distrito Federal y los Estados que se adhieran al Sistema Nacional de Coordinación Fiscal, mientras no se deba pagar el Impuesto al Valor Agregado respecto de la enajenación de los bienes que a continuación se indican, no establecerán impuestos locales o municipales sobre la enajenación de:
-
-I.- Embarcaciones, maquinaria y equipo que úni-únicamente (sic) sean susceptibles de ser utilizados en la explotación pesquera.
-
-II.- Alimentos balanceados para animales y las materias primas necesarias para producirlos, productos de medicina veterinaria, así como insecticidas, herbicidas y fungicidas.
+Se derogan (sic) cualquier disposición contraria al presente Decreto.
 
 ###### ARTICULO TERCERO.
 
