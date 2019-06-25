@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-de-seguridad-publica-del-estado-de-coahuila-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-09"
-last_updated: "2017-12-26"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 9 de marzo de 2016.
 
@@ -63,7 +63,9 @@ I. Academias: las academias o los institutos municipales para la formación, la 
 
 II. Centro Estatal: el Centro Estatal de Evaluación y Control de Confianza;
 
-III. Centro de profesionalización: los Centros de Profesionalización, Certificación, Acreditación y Carrera, de la Procuraduría y Dirección General de los Institutos Superiores de Estudios de Seguridad Pública de la CES;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+III. Centro de profesionalización: los Centros de Profesionalización, Certificación, Acreditación y Carrera, de la Fiscalía y Dirección General de los Institutos Superiores de Estudios de Seguridad Pública de la CES;
 
 IV. Centro Nacional: el Centro Nacional de Información;
 
@@ -451,7 +453,9 @@ XII. Secretariado Ejecutivo, quien será el secretario técnico;
 
 XIII. Ayuntamientos;
 
-XIV. Delegación de la Procuraduría General de la República;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2019)</small>
+
+XIV. Delegación de la Fiscalía General de la República;
 
 XV. Fuerzas Militares en el Estado;
 
@@ -689,7 +693,7 @@ VIII. Las demás que le confieran las disposiciones legales aplicables.
 
 Atribuciones y deberes de la persona titular de la Secretaría de Seguridad
 
-> <small>(REFORMADO [N. DE E. ESTE PARRÁFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 Son atribuciones y deberes de la persona titular de la Secretaría de Seguridad, además de las previstas en la Constitución Local, la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y el Reglamento Interior de la Secretaría de Seguridad Pública, las siguientes:
 
@@ -1529,7 +1533,7 @@ Cuando elementos de diversas corporaciones policiales conozcan de un mismo hecho
 
 Función de custodia
 
-> <small>(REFORMADO [N. DE E. ESTE PARRÁFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 Los agentes de seguridad, custodia, guías técnicos y traslado de los centros de reinserción social, de internamiento para adolescentes y de vigilancia de audiencias judiciales, además de las obligaciones establecidas en la ley, tendrán las obligaciones y deberes siguientes:
 
@@ -3617,7 +3621,7 @@ Los servicios de seguridad privada tienen por objeto la protección, vigilancia 
 
 Facultades en materia de seguridad privada
 
-> <small>(REFORMADO [N. DE E. ESTE PARRÁFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 La Secretaría de Seguridad a través de la Dirección General de Registro y Control de los Servicios de Seguridad Privada, respecto a los servicios de seguridad privada, tendrá las siguientes facultades:
 
@@ -3927,7 +3931,7 @@ SEGUNDO.- Las autoridades penitenciarias en el ámbito de sus atribuciones reali
 
 P.O. 26 DE DICIEMBRE DE 2017.
 
-## [N. DE E.TRANSITORIOS DEL DECRETO NÚMERO 1177.- POR EL QUE “SE REFORMAN LAS FRACCIONES VI, VII, VIII, XIX, XXIV Y XXV DEL ARTÍCULO 2; EL ARTÍCULO 4; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 10; EL ARTÍCULO 13; EL PRIMER PÁRRAFO DEL ARTÍCULO 15; LA FRACCIÓN I DEL ARTÍCULO 16; EL PRIMER PÁRRAFO DEL ARTÍCULO 18; LAS FRACCIONES IV, V Y IX DEL ARTÍCULO 28; LA FRACCIÓN VI DEL ARTÍCULO 39; LA DENOMINACIÓN DE LA SECCIÓN II DEL CAPÍTULO III TÍTULO SEGUNDO DEL LIBRO PRIMERO; EL PRIMER PÁRRAFO DEL ARTÍCULO 41; LA DENOMINACIÓN DE LA SECCIÓN III DEL CAPÍTULO III TÍTULO SEGUNDO DEL LIBRO PRIMERO; EL PRIMER PÁRRAFO DEL ARTÍCULO 42; EL NUMERAL 1 DE LA FRACCIÓN IV DEL ARTÍCULO 44; EL ARTÍCULO 47; LAS FRACCIONES I Y II DEL ARTÍCULO 54; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 64; LAS FRACCIONES V Y VI DEL ARTÍCULO 68; EL INCISO A) Y EL SEGUNDO PÁRRAFO DEL INCISO C) DE LA FRACCIÓN I Y EL INCISO A) DE LA FRACCIÓN II DEL ARTÍCULO 76; LAS FRACCIONES II Y III DEL ARTÍCULO 80; EL PRIMER PÁRRAFO DEL ARTÍCULO 84; EL PRIMER PÁRRAFO DEL ARTÍCULO 103; EL PRIMER PÁRRAFO DEL ARTÍCULO 105; EL ARTÍCULO 203; EL ARTÍCULO 206; LAS FRACCIONES I Y II DEL ARTÍCULO 207; LOS ARTICULO (SIC) 242 Y 243; EL PRIMER PÁRRAFO DEL ARTÍCULO 245; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 249; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 250 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 259; SE ADICIONA LA SECCIÓN I-A AL CAPÍTULO III DEL TÍTULO SEGUNDO LIBRO PRIMERO; SE ADICIONA EL ARTÍCULO 39-A, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 1177.- POR EL QUE "SE REFORMAN LAS FRACCIONES VI, VII, VIII, XIX, XXIV Y XXV DEL ARTÍCULO 2; EL ARTÍCULO 4; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 10; EL ARTÍCULO 13; EL PRIMER PÁRRAFO DEL ARTÍCULO 15; LA FRACCIÓN I DEL ARTÍCULO 16; EL PRIMER PÁRRAFO DEL ARTÍCULO 18; LAS FRACCIONES IV, V Y IX DEL ARTÍCULO 28; LA FRACCIÓN VI DEL ARTÍCULO 39; LA DENOMINACIÓN DE LA SECCIÓN II DEL CAPÍTULO III TÍTULO SEGUNDO DEL LIBRO PRIMERO; EL PRIMER PÁRRAFO DEL ARTÍCULO 41; LA DENOMINACIÓN DE LA SECCIÓN III DEL CAPÍTULO III TÍTULO SEGUNDO DEL LIBRO PRIMERO; EL PRIMER PÁRRAFO DEL ARTÍCULO 42; EL NUMERAL 1 DE LA FRACCIÓN IV DEL ARTÍCULO 44; EL ARTÍCULO 47; LAS FRACCIONES I Y II DEL ARTÍCULO 54; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 64; LAS FRACCIONES V Y VI DEL ARTÍCULO 68; EL INCISO A) Y EL SEGUNDO PÁRRAFO DEL INCISO C) DE LA FRACCIÓN I Y EL INCISO A) DE LA FRACCIÓN II DEL ARTÍCULO 76; LAS FRACCIONES II Y III DEL ARTÍCULO 80; EL PRIMER PÁRRAFO DEL ARTÍCULO 84; EL PRIMER PÁRRAFO DEL ARTÍCULO 103; EL PRIMER PÁRRAFO DEL ARTÍCULO 105; EL ARTÍCULO 203; EL ARTÍCULO 206; LAS FRACCIONES I Y II DEL ARTÍCULO 207; LOS ARTICULO (SIC) 242 Y 243; EL PRIMER PÁRRAFO DEL ARTÍCULO 245; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 249; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 250 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 259; SE ADICIONA LA SECCIÓN I-A AL CAPÍTULO III DEL TÍTULO SEGUNDO LIBRO PRIMERO; SE ADICIONA EL ARTÍCULO 39-A, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
 
@@ -3972,3 +3976,9 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
