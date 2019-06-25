@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-de-vivienda-del-estado-de-13702
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-06-12"
-last_updated: "2012-06-12"
+last_updated: "2019-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE VIVIENDA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE JUNIO DE 2019.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el martes 12 de junio de 2012.
 
@@ -95,9 +95,13 @@ II. El Director General.
 
 Para cumplir con su objetivo y desempeñar sus funciones, el Instituto contará, además, con la siguiente estructura:
 
-I. Dirección Administrativa y Financiera;
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2019)</small>
 
-II. Dirección Jurídica;
+I. Dirección Administrativa;
+
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2019)</small>
+
+II. Dirección Jurídica y de Regularización de Suelo;
 
 III. Dirección de Vivienda;
 
@@ -105,7 +109,7 @@ IV. Dirección Técnica;
 
 V. Dirección de Planeación Territorial, y
 
-VI. Dirección de Regularización de Suelo.
+VI. (DEROGADA, D.O. 25 DE JUNIO DE 2019)
 
 A cargo de cada una de estas áreas habrá un Director, quien se auxiliara del personal necesario para la ejecución de sus funciones, de acuerdo a la capacidad presupuestal, y a la estructura administrativa aprobada por la Junta de Gobierno.
 
@@ -213,9 +217,11 @@ XXIX. Proporcionar a las autoridades competentes de la Junta de Gobierno del Ins
 
 XXX. Las demás facultades que en el ámbito de sus respectivas competencias le atribuyan al Instituto las leyes, reglamentos y demás disposiciones aplicables o que las que les (sic) confiera el Director General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE JUNIO DE 2019)</small>
+
 ###### Artículo 13.
 
-Son facultades y obligaciones del Director Administrativo y Financiero:
+Son facultades y obligaciones del Director Administrativo:
 
 I. Optimizar el ejercicio de los recursos asignados al Instituto;
 
@@ -265,9 +271,11 @@ XXIII. Dar seguimiento a los planes de acción derivados de la planeación estra
 
 XXIV. Establecer programas de mejora continua que permitan el análisis y simplificación de los procedimientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE JUNIO DE 2019)</small>
+
 ###### Artículo 14.
 
-Son facultades y obligaciones del Director Jurídico:
+Son facultades y obligaciones del Director Jurídico y de Regularización de Suelo:
 
 I. Procurar la certeza jurídica en todos los actos que ejecute y los contratos que celebre el Instituto;
 
@@ -299,9 +307,69 @@ XIV. Aplicar las sanciones impuestas por la autoridad competente por infraccione
 
 XV. Rescindir toda clase de documentos o contratos que sean necesarios para la consecución de los objetivos del Instituto, de conformidad con las disposiciones aplicables;
 
-XVI. Proponer y vigilar el cumplimiento de las medidas que sean necesarias para la observancia de este Estatuto, y
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2019)</small>
 
-XVII. Realizar las gestiones de enlace administrativo ante la Unidad de Acceso a la Información Pública del Poder Ejecutivo del Gobierno del Estado de Yucatán.
+XVI. Proponer y vigilar el cumplimiento de las medidas que sean necesarias para la observancia de este Estatuto;
+
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2019)</small>
+
+XVII. Realizar las gestiones de enlace administrativo ante la Unidad de Acceso a la Información Pública del Poder Ejecutivo del Gobierno del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2019)</small>
+
+XVIII. Promover la venta de los inmuebles propiedad del Instituto, administrarlos, subastarlos, permutarlos, promover desarrollos habitacionales, industriales, turísticos, comerciales o de cualquier otra naturaleza;
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2019)</small>
+
+XIX. Tramitar la regularización de los predios de la reserva territorial, con el objetivo de evitar la creación de asentamientos humanos irregulares y darle solución a los existentes;
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2019)</small>
+
+XX. Celebrar toda clase de actos o contratos para el aseguramiento de la enajenación de la reserva territorial del Instituto, de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2019)</small>
+
+XXI. Promover ante las instituciones financieras el otorgamiento de créditos que faciliten a la población la adquisición de lotes;
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2019)</small>
+
+XXII. Elaborar los criterios para el otorgamiento de subsidios en la adquisición de lotes y someterlos a la consideración de la Junta de Gobierno, por medio del Director General;
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2019)</small>
+
+XXIII. Identificar y calificar a las personas interesadas en ser beneficiarios de los bienes y servicios que ofrece el Instituto;
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2019)</small>
+
+XXIV. Proponer las políticas de comercialización con las condiciones de precio y plazo adecuados para los diferentes rangos de ingreso de los habitantes;
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2019)</small>
+
+XXV. Coordinar y vigilar el correcto procedimiento en las licitaciones que competan a su área;
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2019)</small>
+
+XXVI. Realizar los estudios socioeconómicos necesarios para determinar el nivel patrimonial inmobiliario de las personas que soliciten la enajenación de inmuebles propiedad del Instituto;
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2019)</small>
+
+XXVII. Elaborar y presentar al Director General la tabla de valores y precios unitarios que debe cumplir el Instituto en el ejercicio de sus funciones;
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2019)</small>
+
+XXVIII. Asignar predios de la reserva territorial del Instituto, con el objetivo de apoyar a las familias de escasos recursos;
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2019)</small>
+
+XXIX. Integrar la documentación de los predios enajenados para uso distinto a vivienda, con el fin de darle seguimiento al proceso de ocupación de los inmuebles propiedad del Instituto y garantizar su integración al desarrollo del Estado;
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2019)</small>
+
+XXX. Conformar y administrar un padrón de lotes desocupados y baldíos propiedad del Instituto y de sus ocupantes, y procurar su regularización, y
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2019)</small>
+
+XXXI. Verificar y supervisar el avance de los proyectos de comercialización y regularización de bienes y servicios que ofrece el Instituto.
 
 ###### Artículo 15.
 
@@ -387,35 +455,7 @@ VII. Diseñar e integrar un banco de información y consulta que contemple el co
 
 ###### Artículo 19.
 
-Son facultades y obligaciones de la Dirección de Regularización de Suelo:
-
-I. Promover la venta de los inmuebles propiedad del Instituto, administrarlos, subastarlos, permutarlos, promover desarrollos habitacionales, industriales, turísticos, comerciales o de cualquier otra naturaleza;
-
-II. Tramitar la regularización de los predios de la reserva territorial, con el objetivo de evitar la creación de asentamientos humanos irregulares y darle solución a los existentes;
-
-III. Celebrar toda clase de actos o contratos para el aseguramiento de la enajenación de la reserva territorial del Instituto, de conformidad con las disposiciones aplicables;
-
-IV. Promover ante las instituciones financieras el otorgamiento de créditos que faciliten a la población la adquisición de lotes;
-
-V. Elaborar los criterios para el otorgamiento de subsidios en la adquisición de lotes y someterlos a la consideración de la Junta de Gobierno, por medio del Director General;
-
-VI. Identificar y calificar a las personas interesadas en ser beneficiarios de los bienes y servicios que ofrece Instituto;
-
-VII. Proponer las políticas de comercialización con las condiciones de precio y plazo adecuados para los diferentes rangos de ingreso de los habitantes;
-
-VIII. Coordinar y vigilar el correcto procedimiento en las licitaciones que competan a su área.
-
-IX. Realizar los estudios socioeconómicos necesarios para determinar el nivel patrimonial inmobiliario de las personas que soliciten la enajenación de inmuebles propiedad del Instituto;
-
-X. Elaborar y presentar al Director General la tabla de valores y precios unitarios que debe cumplir el Instituto en el ejercicio de sus funciones;
-
-XI. Asignar predios de la reserva territorial del Instituto, con el objetivo de apoyar a las familias de escasos recursos;
-
-XII. Integrar la documentación de los predios enajenados para uso distinto a vivienda, con el fin de darle seguimiento al proceso de ocupación de los inmuebles propiedad del Instituto y garantizar su integración al desarrollo del Estado;
-
-XIII. Conformar y administrar un padrón de lotes desocupados y baldíos propiedad del Instituto y de sus ocupantes, y procurar su regularización, y
-
-XIV. Verificar y supervisar el avance de los proyectos de comercialización y regularización de bienes y servicios que ofrece el Instituto.
+(DEROGADO, D.O. 25 DE JUNIO DE 2019)
 
 ### CAPÍTULO VI. De la suplencia de los servidores públicos del Instituto
 
@@ -444,3 +484,17 @@ Aprobado por la Junta de Gobierno del Instituto de Vivienda del Estado de Yucat�
 LIC. ANTONIO HUMBERTO GÓMEZ MENDOZA
 
 DIRECTOR GENERAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 25 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO IVEY/05/04/2018 (SO) POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO DE VIVIENDA DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general del Instituto de Vivienda del Estado de Yucatán deberá realizar la inscripción de la modificación de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo.
