@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2017-09-16"
+last_updated: "2019-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -275,11 +275,11 @@ Son trabajadoras y trabajadores de base las y los que tengan las categorías que
 
 Son trabajadoras y trabajadores temporales aquéllos a quienes se otorgue nombramiento de los señalados en las fracciones II, III, IV y V del artículo 18 de esta ley.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2019)</small>
 
 ###### Artículo 10 Bis.
 
-En la clasificación relativa a las y los trabajadores que prevé la presente ley, se deberán incorporar a las personas con alguna discapacidad física.
+En la clasificación relativa a las y los trabajadores que prevé la presente ley, se deberán incorporar a las personas con discapacidad.
 
 ###### Artículo 11.
 
@@ -347,7 +347,9 @@ El nombramiento es el instrumento jurídico que formaliza la relación de trabaj
 
 Las y los trabajadores prestarán sus servicios en virtud de nombramiento expedido por la o el funcionario competente, excepto cuando se trate de trabajadoras o trabajadores temporales, para obra o tiempo determinados, en cuyo caso el nombramiento podrá ser sustituido por la lista de raya correspondiente.
 
-Las y los mayores de dieciséis años y las personas con alguna discapacidad física pueden prestar libremente sus servicios, las y los mayores de catorce y menores de dieciséis años, necesitan de autorización de sus madres, padres o tutores y a falta o negativa de ellos, por resolución del Tribunal.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2019)</small>
+
+Las y los mayores de dieciséis años y las personas con discapacidad pueden prestar libremente sus servicios, las y los mayores de catorce y menores de dieciséis, necesitan de autorización de sus madres, padres o tutores y a falta o negativa de ellos, por resolución del Tribunal.
 
 La omisión o falta de expedición del nombramiento es responsabilidad de la entidad pública.
 
@@ -987,9 +989,9 @@ Además de otras obligaciones consignadas en esta ley, las titulares y los titul
 
 I.- Observar buenas costumbres en los lugares de trabajo y guardar debida consideración y respeto a las y los trabajadores, absteniéndose de darles malos tratos tanto de palabra como de obra;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
 
-II.- Preferir en igualdad de condiciones, de conocimientos y de antigüedad, a las y los trabajadores sindicalizados respecto de quienes no lo estuvieren, aún cuando presente alguna discapacidad física, en cuyo caso a petición del trabajador, deberá de reubicarla o reubicarlo en actividades compatibles con sus aptitudes o habilidades, sin perjuicio de los derechos a que tiene la o el trabajador en seguridad social; y a los que acrediten tener mejores derechos con el escalafón;
+II.- Preferir en igualdad de condiciones, de conocimientos y de antigüedad, a las y los trabajadores sindicalizados respecto de quienes no lo estuvieren, aún cuando se trate de una persona con discapacidad, en cuyo caso a petición del trabajador, deberá de reubicarla o reubicarlo en actividades compatibles con sus aptitudes o habilidades, sin perjuicio de los derechos a que tiene la o el trabajador en seguridad social; y a los que acrediten tener mejores derechos con el escalafón;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1357,9 +1359,9 @@ Las contrataciones de plazas de última categoría, de nueva creación o generad
 
 Las y los aspirantes a ocupar las plazas vacantes deberán reunir los requisitos que para esos puestos señale cada entidad pública.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2019)</small>
 
-El sindicato y las entidades públicas preferirán las propuestas respecto de personas con alguna discapacidad física, para aquellas vacantes que se ajusten a sus aptitudes y habilidades, como mínimo el 5% de la plantilla del personal de cada dependencia.
+El sindicato y las entidades públicas preferirán las propuestas respecto de personas con discapacidad, para aquellas vacantes que se ajusten a sus aptitudes y habilidades, como mínimo el 5% de la plantilla del personal de cada dependencia.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -3452,3 +3454,9 @@ P.O. 16 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 170.- SE ADICIONAN UN QUINTO Y SEXTO PÁRRAFOS AL ARTÍCULO 33 DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 26 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 117.- POR EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
