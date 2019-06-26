@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-social-para-el-estado-y-municipios-de-66530"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2018-02-21"
+last_updated: "2019-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -172,6 +172,10 @@ X. Exigibilidad: Es el derecho de las personas a que, a través de un conjunto d
 XI. Diversidad: Es el reconocimiento en términos de origen étnico, género, edad, discapacidades, condición social, condiciones de salud, religión, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias, y
 
 XII. Transparencia: La información relativa al desarrollo social deberá ser pública en los términos de las leyes en la materia. Las autoridades garantizarán que la información gubernamental sea objetiva, oportuna, sistemática y veraz.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2019)</small>
+
+XIII. Interés Superior de la Niñez: De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley General de Desarrollo Social, los tratados internacionales aplicables de los que el Estado Mexicano sea parte y la Constitución Política del Estado Libre y Soberano de Zacatecas.
 
 ###### Artículo 8.
 
@@ -1138,3 +1142,11 @@ P.O. 21 DE FEBRERO DE 2018.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 132.- POR EL CUAL SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 7 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de (sic) Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
