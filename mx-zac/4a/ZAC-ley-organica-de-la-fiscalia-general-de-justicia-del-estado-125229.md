@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1252
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-30"
-last_updated: "2018-09-19"
+last_updated: "2019-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2019.
 
 Ley publicada en el Suplemento al Número 104 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre de 2017.
 
@@ -1467,9 +1467,9 @@ I. El Fiscal General, quien será su Presidente;
 
 II. Un representante del Poder Ejecutivo, designado por el Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
 
-III. Un representante del Poder Legislativo del Estado, que será el Presidente de la Comisión de Seguridad Pública, y
+III. Un representante del Poder Legislativo del Estado, que será quien presida la Comisión (sic) Justicia, y
 
 IV. Dos consejeros ciudadanos.
 
@@ -1862,3 +1862,11 @@ SEGUNDO. Para solventar el impacto presupuestario del presente Decreto a que se 
 Los costos presupuestales de las fiscalías especializadas que se crean por el presente Decreto para el ejercicio fiscal 2019 y subsecuentes, serán considerados en el Presupuesto de Egresos del Estado que corresponda y de conformidad con el principio de balance presupuestario sostenible y acorde a la capacidad financiera del Estado.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 138.- POR EL CUAL SE REFORMA EL ARTÍCULO 62 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano de (sic) Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
