@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-131982"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-08"
-last_updated: "2018-12-11"
+last_updated: "2019-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 11 DE DICIEMBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2019.
 
 Ley publicada en el Número 414 del Periódico Oficial del Estado de Chiapas, el sábado 8 de diciembre de 2018.
 
@@ -643,7 +641,13 @@ XXIII. Fomentar el establecimiento de vínculos de amistad y de cooperación nac
 
 XXIV. Asegurar el cumplimiento de las políticas en los convenios, reglas de operación y convocatorias de los programas ejecutados por esta Secretaría.
 
-XXV. Los demás asuntos que le correspondan en términos de las leyes aplicables, su reglamento interior y los que determine el Titular del Poder Ejecutivo del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2019)</small>
+
+XXV. Promover y ejecutar las acciones necesarias para facilitar a las mujeres, el acceso al financiamiento público y privado, así como brindarles apoyos mediante aportaciones solidarias para el fortalecimiento y desarrollo del Estado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JUNIO DE 2019)</small>
+
+XXVI. Los demás asuntos que le correspondan en términos de las leyes aplicables, su reglamento interior y los que determine el Titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 33.
 
@@ -749,7 +753,9 @@ XXIV. Los demás asuntos que le correspondan en términos de las leyes aplicable
 
 A la Secretaría de Medio Ambiente e Historia Natural corresponde el despacho de los siguientes asuntos:
 
-I. Proponer y ejecutar las políticas en materia de medio ambiente, ordenamiento ecológico territorial, desarrollo forestal, así como de flora y fauna en el Estado, estableciendo la normatividad regulatoria que a dichas materias corresponda, así como difundir, fomentar y desarrollar las acciones en materia de proyectos para el aprovechamiento de los recursos renovables existentes en el Estado.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
+
+I. Proponer y ejecutar las políticas en materia de medio ambiente, ordenamiento ecológico territorial, desarrollo forestal y de energías, así como de flora y fauna en el Estado, estableciendo la normatividad regulatoria que a dichas materias corresponda, así como difundir, fomentar y desarrollar las acciones en materia de proyectos para el aprovechamiento de los recursos renovables existentes en el Estado.
 
 II. Fomentar la protección, restauración, así como la ejecución de programas de aplicación de técnicas y procedimientos para la conservación de los ecosistemas, recursos naturales, suelos agrícolas, pastizales, aguas, bienes y servicios ambientales de la entidad, en coordinación con las instancias competentes y en los asuntos no reservados a la federación, con el fin de propiciar su aprovechamiento y desarrollo sustentable.
 
@@ -767,7 +773,9 @@ VIII. Realizar estudios para fortalecer la protección y el equilibrio ecológic
 
 IX. Establecer, en coordinación con las autoridades competentes, las medidas pertinentes para la regulación del manejo y disposición final de las descargas de aguas residuales, residuos sólidos urbanos y de manejo especial, así como de emisiones atmosféricas, emitiendo para estas últimas las licencias de funcionamiento correspondientes en el ámbito estatal y con relación a aquellas acciones no reservadas a la federación.
 
-X. Planear, formular, regular y desarrollar los programas de ordenamiento ecológico territorial y desarrollo forestal, de conformidad con las leyes de la materia.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
+
+X. Planear, formular, regular y desarrollar los programas de ordenamiento ecológico territorial, desarrollo forestal y de energías, de conformidad con las leyes de la materia.
 
 XI. Participar en la elaboración de las declaraciones de usos, destinos y reservas territoriales que se expidan en el estado, con la finalidad de preservar las áreas verdes de los centros de población y establecer zonas de salvaguarda, en coordinación con los municipios y de conformidad con las leyes de la materia y vigilar su cumplimiento.
 
@@ -781,13 +789,17 @@ XV. Tramitar la ocupación de los inmuebles adquiridos para los programas de ord
 
 XVI. Promover la participación de los sectores social y privado, en la formulación, ejecución, evaluación, actualización, modificación y vigilancia de los programas relativos a ordenamiento ecológico territorial, desarrollo forestal y medio ambiente.
 
-XVII. Participar, suscribir, ejecutar, y en su caso, representar al Gobernador del Estado, en los convenios, contratos, acuerdos de colaboración y demás instrumentos que sean necesarios, con autoridades federales y de otras Entidades Federativas, con los ayuntamientos, la iniciativa privada y otras personas, con el objeto de promover y regular el medio ambiente, ordenamiento ecológico territorial y desarrollo forestal.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
+
+XVII. Participar, suscribir, ejecutar, y en su caso, representar al Gobernador del Estado, en los convenios, contratos, acuerdos de colaboración y demás instrumentos que sean necesarios, con autoridades federales y de otras Entidades Federativas, con los ayuntamientos, la iniciativa privada y otras personas, con el objeto de promover y regular el medio ambiente, ordenamiento ecológico territorial, desarrollo forestal y de energías.
 
 XVIII. Promover en coordinación con las instancias competentes, una cultura de conservación de los recursos naturales en el estado, desarrollando la investigación científica y difundiendo por cualquier medio posible los conocimientos en el campo de los recursos bióticos, impulsando la silvicultura y manejo sustentable.
 
 XIX. Fomentar la adecuada conservación, restauración y propagación de la flora, fauna silvestre, terrestre o acuática en el estado, así como administrar u operar por si o a través de sus órganos jardines botánicos, parques ecológicos, museos y demás espacios o lugares del estado para la exhibición y mantenimiento de la flora y la fauna de la Entidad.
 
-XX. Elaborar, proponer y difundir tecnologías vinculadas al uso y aprovechamiento sustentable de los ecosistemas, asesorando a instituciones o personas que realicen actividades académicas relacionadas con la materia.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
+
+XX. Elaborar, proponer y difundir tecnologías vinculadas al uso y aprovechamiento sustentable de los ecosistemas y de eficiencia energética, asesorando a instituciones o personas que realicen actividades académicas relacionadas con la materia.
 
 XXI. Promover la elaboración y realización por si o a través de sus órganos, de programas de restauración ecológica con especies en cautiverio de flora y fauna nativas con alguna categoría de protección, en áreas naturales protegidas, corredores biológicos y áreas prioritarias para conservación, con la colaboración de las autoridades federales, estatales y municipales, organizaciones civiles y no gubernamentales.
 
@@ -803,7 +815,13 @@ XXVI. Coordinar la integración de un foro consultivo multi e interdisciplinario
 
 XXVII. Coordinar, integrar, planear, administrar, operar y fortalecer las actividades forestales en el estado, en materia de protección, conservación, restauración, desarrollo, fomento, diversificación productiva, transformación, industrialización y comercialización de los recursos forestales maderables y no maderables, así como de los servicios sistemáticos.
 
-XXVIII. Los demás asuntos que le correspondan, en términos de las leyes aplicables, su reglamento interior y los que determine el Titular del Poder Ejecutivo del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2019)</small>
+
+XXVIII. Promover proyectos de generación de energía eléctrica provenientes de fuentes renovables y fomentar propuestas de inversión en la materia.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JUNIO DE 2019)</small>
+
+XXIX. Los demás asuntos que le correspondan, en términos de las leyes aplicables, su reglamento interior y los que determine el Titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 36.
 
@@ -977,7 +995,9 @@ XXXIV. Los demás asuntos que le correspondan en los términos de las leyes apli
 
 A la Secretaría de Agricultura, Ganadería y Pesca corresponde el despacho de los siguientes asuntos:
 
-I. Proponer al Ejecutivo del Estado las políticas de desarrollo rural, agricultura, ganadería y pesca, a fin de elevar el nivel de vida de las familias que habitan en el campo, así como promover acciones, programas y proyectos que permitan detonar dichos sectores.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
+
+I. Proponer al Ejecutivo del Estado las políticas de desarrollo rural, agricultura, ganadería y pesca, a fin de elevar el nivel de vida de las familias que habitan en el campo y zonas costeras, así como promover acciones, programas y proyectos que permitan detonar dichos sectores.
 
 II. Suscribir, a través del área que determine su reglamento interior, con la federación convenios de colaboración para coadyuvar en actividades de su competencia.
 
@@ -993,7 +1013,9 @@ VII. Proporcionar apoyo y asesoría a los sectores privado y social para la elab
 
 VIII. Fomentar la educación, investigación científica y programas de tecnología apropiada para el campo, pesca y acuacultura, ganadería y agricultura, recopilando la información y estadísticas de cada sector, en coordinación con la Secretaría de Educación y las instituciones de enseñanza e investigación.
 
-IX. Concertar con el sector privado y Dependencias del Gobierno Federal, estatal y municipal, los programas de sanidad animal y vegetal, pesca, agricultura y ganadería.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
+
+IX. Concertar con el sector privado, dependencias del Gobierno Federal, Estatal y Municipal, los programas de sanidad animal, vegetal, acuícola, agricultura, ganadería y pesca.
 
 X. Participar con la Secretaría de Hacienda, en la determinación de criterios generales para el establecimiento de apoyos financieros, necesarios para el fomento de la producción agrícola, pesquera y ganadera, de acuerdo con los programas autorizados.
 
@@ -1001,7 +1023,9 @@ XI. Establecer los controles necesarios para garantizar la calidad de los produc
 
 XII. Ejercer las atribuciones y funciones que en materia agropecuaria y de desarrollo rural, corresponda al Estado en términos de los acuerdos, convenios y decretos correspondientes.
 
-XIII. Promover el desarrollo de la infraestructura agroindustrial y la comercialización de productos agrícolas fomentando la exportación en coordinación con las autoridades competentes.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
+
+XIII. Promover el desarrollo de la infraestructura agroindustrial y la comercialización de productos agrícolas, pecuarios y pesqueros, fomentando la exportación en coordinación con las autoridades competentes.
 
 XIV. Organizar y patrocinar congresos, concursos y eventos de divulgación agrícola, pesquera y ganadera que promuevan el desarrollo de las actividades del sector rural.
 
@@ -1021,9 +1045,11 @@ XXI. Participar en los Programas de Descentralización del Gobierno Federal en l
 
 XXII. Programar y promover ante la Secretaría de Obras Públicas, la ejecución de proyectos y obras de infraestructura pesquera y acuacultura que determine el sector.
 
-XXIII. Participar en coordinación con el sector federal, en medidas de prevención y control en materia de sanidad acuícola, con el objeto de garantizar el cabal aprovechamiento de estos recursos.
+XXIII. (DEROGADA, P.O. 26 DE JUNIO DE 2019)
 
-XXIV. Proporcionar servicios de asesoría y asistencia técnica, organización y capacitación a los pescadores, agricultores y ganaderos y organizaciones sociales del sector, incluidas las ejidales y comunales, que se encuentren constituidas del sector.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
+
+XXIV. Proporcionar servicios de asesoría y asistencia técnica, organización y capacitación a los pescadores, agricultores, ganaderos y organizaciones sociales del sector, incluidas las ejidales y comunales, que se encuentren constituidas del sector.
 
 XXV. Establecer mecanismos de coordinación y promover la participación en la actividad pesquera, agrícola y ganadera de los sectores social y privado para el desarrollo del sector.
 
@@ -1071,47 +1097,55 @@ XIV. Fortalecer a nivel nacional e internacional, la imagen e identidad turísti
 
 XV. Los demás asuntos que le correspondan, en los términos de las leyes aplicables, su reglamento interior y los que determine el Titular del Poder Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2019)</small>
+
 ###### Artículo 40.
 
 A la Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas corresponde el despacho de los siguientes asuntos:
 
 I. Proponer y ejecutar la política pública de los pueblos y comunidades indígenas, buscando siempre su participación efectiva y promoviendo su desarrollo social y humano.
 
-II. Conducir y normar la aplicación de la política pública de los pueblos y comunidades indígenas que garantice el ejercicio pleno de sus derechos, fortaleciendo la coordinación interinstitucional de los tres niveles de gobierno en los proyectos, programas y acciones orientadas a su desarrollo sustentable.
+II. Conducir y normar la aplicación de las políticas públicas de los pueblos y comunidades indígenas que garantice el ejercicio de sus derechos, fortaleciendo la coordinación interinstitucional de los tres niveles de gobierno en los proyectos, programas y acciones orientadas a su desarrollo sustentable.
 
 III. Promover, proteger y difundir el respeto a los derechos individuales y colectivos de los pueblos y comunidades indígenas, para erradicar toda forma de discriminación y de violencia de género.
 
-IV. Promover el cuidado, protección y conservación del patrimonio cultural y natural de los pueblos y comunidades indígenas.
+IV. Promover el cuidado, protección y conservación del patrimonio cultural y natural de los pueblos y comunidades indígenas, así como el acceso pleno a su identidad.
 
-V. Coadyuvar con la instancia competente de la política interna del Estado, en los procesos de concertación para la solución de los conflictos sociales, políticos y religiosos de los pueblos y comunidades indígenas, procurando fortalecer una cultura de paz.
+V. Contribuir con la instancia competente de la política interna del Estado, en los procesos de concertación para la solución de los conflictos sociales, políticos y religiosos de los pueblos y comunidades indígenas, procurando fortalecer una cultura de paz.
 
-VI. Coadyuvar con la instancia competente, en la atención y asistencia a desplazados de la población de los pueblos y comunidades indígenas.
+VI. Contribuir con la instancia competente, en la atención y asistencia a desplazados de la población de los pueblos y comunidades indígenas.
 
 VII. Promover y fortalecer la participación a través de consultas de los pueblos y comunidades indígenas en la toma de decisiones en acciones públicas inherentes a los mismos.
 
-VIII. Asesorar a las instituciones públicas del estado, en materia jurídica y de derechos de los pueblos y comunidades indígenas.
+VIII. Asesorar a las instituciones públicas del Estado, en materia jurídica y de los derechos de los pueblos y comunidades indígenas.
 
-IX. Promover la equidad de género en los pueblos y comunidades indígenas, así como la participación y empoderamiento de las mujeres indígenas en todos los ámbitos sociales.
+IX. Promover la equidad de género en los pueblos y comunidades indígenas, así como la participación de las mujeres indígenas en los ámbitos social, económico, cultural y político.
 
-X. Coadyuvar con la instancia competente, en la difusión y promoción de las artesanías, con la finalidad de fomentar la identidad de los pueblos y comunidades indígenas.
+X. Contribuir con la instancia competente, en la promoción y difusión de los derechos humanos de la niñez indígena.
 
-XI. Fortalecer la coordinación interinstitucional que favorezca el desarrollo sustentable e integral de los pueblos y comunidades indígenas.
+XI. Contribuir con la instancia competente, en la difusión y promoción de las artesanías, así como en la protección de los diseños, modelos, productos artesanales y artísticos de los pueblos y comunidades indígenas, con el fin de evitar su falsificación, logrando con ello fomentar la identidad de los pueblos y comunidades indígenas.
 
-XII. Participar en la formulación de proyectos de cooperación internacional orientados al desarrollo sustentable y sostenible de los pueblos y comunidades indígenas.
+XII. Fortalecer la coordinación interinstitucional que favorezca el desarrollo sustentable e integral de los pueblos y comunidades indígenas.
 
-XIII. Formular, integrar, validar y evaluar en coordinación con las instancias correspondientes, las propuestas de inversión dirigidas a los pueblos y comunidades indígenas.
+XIII. Participar en la formulación y evaluación de proyectos de cooperación internacional orientados al desarrollo sustentable y sostenible de los pueblos y comunidades indígenas.
 
-XIV. Instrumentar y ejecutar programas y proyectos estratégicos que busquen el desarrollo sustentable de los pueblos y comunidades indígenas.
+XIV. Formular, integrar, validar y evaluar en coordinación con las instancias correspondientes, las propuestas de inversión dirigidas a los pueblos y comunidades indígenas.
 
-XV. Proporcionar asesoría y orientación jurídica a los pueblos y comunidades indígenas.
+XV. Instrumentar, ejecutar y supervisar programas y proyectos estratégicos que busquen el desarrollo sustentable de los pueblos y comunidades indígenas.
 
-XVI. Contribuir al cumplimiento de los objetivos de desarrollo sostenible aplicable a los pueblos y comunidades indígenas.
+XVI. Proporcionar asesoría y orientación jurídica a los pueblos y comunidades indígenas.
 
-XVII. Suscribir convenios y acuerdos de colaboración con los tres niveles de gobierno y la sociedad civil, con el objeto de fortalecer el ejercicio pleno de los derechos de los pueblos y comunidades indígenas.
+XVII. Contribuir al cumplimiento de los objetivos de desarrollo sostenible aplicable a los pueblos y comunidades indígenas.
 
-XVIII. Coadyuvar con la instancia competente en la protección, promoción y aprovechamiento sustentable de los recursos naturales, y la conservación de la biodiversidad de los pueblos y comunidades indígenas.
+XVIII. Suscribir convenios y acuerdos de colaboración con los tres niveles de gobierno y la sociedad civil, con el objeto de fortalecer el ejercicio pleno de los derechos de los pueblos y comunidades indígenas.
 
-XIX. Los demás asuntos que le correspondan, en términos de las leyes aplicables, su reglamento interior y los que determine el Titular del Poder Ejecutivo del Estado.
+XIX. Contribuir con la instancia competente en la protección, promoción y aprovechamiento sustentable de los recursos naturales e implementar programas y acciones para la conservación de la biodiversidad en los territorios de los pueblos y comunidades indígenas y evitar la explotación irracional de los recursos naturales.
+
+XX. Contribuir con los tres niveles de gobierno en la instrumentación de programas prioritarios encaminados al fortalecimiento e incremento de la cobertura de los servicios sociales básicos de agua potable, drenaje, electrificación, vivienda y demás servicios que promuevan el desarrollo integral de los pueblos y comunidades indígenas.
+
+XXI. Coadyuvar con las instancias jurisdiccionales y normativas correspondientes, proporcionándoles según las necesidades, traductores certificados y acreditados en las doce lenguas indígenas reconocidas en el Estado, garantizando con ello, el acceso a la justicia, salud y demás procedimientos administrativos en beneficio de los pueblos y comunidades indígenas.
+
+XXII. Los demás asuntos que le correspondan, en términos de las leyes aplicables, su reglamento interior y los que determine el Titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 41.
 
@@ -1237,7 +1271,13 @@ XXI. Controlar, planear, coordinar, evaluar y dirigir el servicio de llamadas de
 
 XXII. Garantizar la cobertura de la Red Estatal de Telecomunicaciones que permita la intercomunicación entre las Dependencias en materia de seguridad pública y protección civil de los tres niveles de gobierno, con la finalidad de poder salvaguardar la seguridad e integridad de los ciudadanos de nuestro Estado.
 
-XXIII. Los demás asuntos que le correspondan, en términos de las leyes aplicables, su reglamento interior y los que determine el Titular del Poder Ejecutivo del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2019)</small>
+
+XXIII. Dirigir, planear y regular las políticas y acciones relativas al servicio público, particular, de tránsito vehicular y vialidad en el Estado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JUNIO DE 2019)</small>
+
+XXIV. Los demás asuntos que le correspondan, en términos de las leyes aplicables, su reglamento interior y los que determine el Titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 44.
 
@@ -1247,13 +1287,15 @@ I. Formular y proponer al Ejecutivo del Estado las políticas y programas para e
 
 II. Planear, programar y ejecutar acciones en materia de movilidad y transporte en estricta coordinación con las autoridades estatales y municipales.
 
-III. Realizar las tareas relativas a la ingeniería de movilidad, tránsito y transporte en el Estado, autorizando las modificaciones e interrupciones temporales a las mismas con motivo de la realización de obras y eventos públicos o privados, coordinando las acciones que deban llevarse a cabo para su debida atención.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
+
+III. Realizar las tareas relativas a la ingeniería de movilidad y transporte en el Estado, autorizando las modificaciones e interrupciones temporales a las mismas con motivo de la realización de obras y eventos públicos o privados, coordinando las acciones que deban llevarse a cabo para su debida atención.
 
 IV. Realizar los estudios necesarios sobre transporte y circulación multimodal, a fin de lograr una mejor utilización de las vías y de los medios de transporte correspondientes, que conduzcan a la más eficaz protección de la vida y a la seguridad, a la protección del ambiente, comodidad y rapidez en el transporte de personas y de carga.
 
 V. Llevar a cabo los estudios para determinar, con base en ellos, las medidas técnicas y operaciones de todos los medios de transporte urbano, con el objeto de que se complementen e integren armónicamente entre sí y con las obras de infraestructura vial.
 
-VI. Determinar las características y la ubicación que deberán tener los dispositivos y señales para la regulación del tránsito en nuevas vías de circulación.
+VI. (DEROGADA, P.O. 26 DE JUNIO DE 2019)
 
 VII. Realizar estudios sobre la forma de mejorar el uso del equipo de transporte colectivo del sector y, con base en ellos, dictar y supervisar el cumplimiento de normas que conduzcan a su mejor aprovechamiento.
 
@@ -1289,7 +1331,7 @@ XXII. Administrar, operar y conservar las estaciones, locales y/o terminales de 
 
 XXIII. Promover, organizar y administrar la implementación de sistemas de transportación masiva de carga y pasaje en la Entidad.
 
-XXIV. Dirigir, planear y regular lo relativo a la normatividad del servicio público de tránsito y vialidad en el Estado.
+XXIV. (DEROGADA, P.O. 26 DE JUNIO DE 2019)
 
 XXV. Los demás asuntos que le correspondan en términos de las leyes aplicables, su reglamento interior y los que determine el Titular del Poder Ejecutivo del Estado.
 
@@ -1364,3 +1406,17 @@ El Ejecutivo del Estado dispondrá se publique, circule y se le dé el debido cu
 Dado en el Salón de Sesiones "Sergio Armando Valls Hernández" del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 06 días del mes de Diciembre del año dos mil dieciocho. D. P. C. ROSA ELIZABETH BONILLA HIDALGO.- D. S. C. ADRIANA BUSTAMANTE CASTELLANOS.- Rúbricas
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 08 días del mes de Diciembre del año dos mil dieciocho.- Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas.- Ismael Brito Mazariegos, Secretario General de Gobierno.- Rúbricas
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 207 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan o contravengan lo establecido en el presente Decreto.
+
+Artículo Tercero.- Los titulares de las dependencias, deberán someter a consideración del Titular del Ejecutivo del Estado, las adecuaciones que correspondan al marco jurídico de su actuación, en un plazo que no exceda de 90 días hábiles, a efecto de hacerlos congruentes con las disposiciones del presente Decreto.
+
+Artículo Cuarto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
