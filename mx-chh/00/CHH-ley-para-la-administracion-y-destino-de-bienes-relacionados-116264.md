@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-administracion-y-destino-de-bienes-relacionados-116
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-18"
-last_updated: "2018-10-06"
+last_updated: "2019-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES RELACIONADOS CON HECHOS DELICTIVOS PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de junio de 2016.
 
@@ -393,7 +393,9 @@ En el caso de que los Bienes sean susceptibles de aprovechamiento, en los térmi
 
 Producto de la enajenación de bienes abandonados.
 
-El producto de la venta de los Bienes que causen abandono a favor del Estado en los supuestos a que se refiere el Código Nacional de Procedimientos Penales, se destinará al Fondo Auxiliar para la Procuración de Justicia.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2019)</small>
+
+El producto de la venta de los Bienes que causen abandono a favor del Estado en los supuestos a que se refiere el Código Nacional de Procedimientos Penales, se destinará al Fondo Auxiliar para la Procuración de Justicia y Seguridad Pública.
 
 ###### Artículo 30.
 
@@ -403,7 +405,9 @@ El producto de la venta de los Bienes de los que se decrete el decomiso conforme
 
 I. El Fondo Auxiliar para la Administración de Justicia del Tribunal Superior de Justicia del Estado.
 
-II. El Fondo Auxiliar para la Procuración de Justicia, de conformidad con la Ley Orgánica de la Fiscalía General del Estado.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
+
+II. El Fondo Auxiliar para la Procuración de Justicia y Seguridad Pública, de conformidad con la Ley Orgánica de la Fiscalía General del Estado.
 
 III. La Secretaría de Salud del Estado, para el diseño e implementación de programas contra el alcoholismo y las toxicomanías, de conformidad con lo establecido por la fracción XIII del artículo 27 Bis de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua.
 
@@ -419,7 +423,9 @@ El producto de la venta de los bienes cuyo dominio haya sido declarado extinto a
 
 I. Hasta el monto de lo recuperado, al pago de la reparación del daño causado a la persona que tenga la calidad de víctima u ofendido en los términos del artículo 46 del Código Penal del Estado de Chihuahua, si la hubiere, respecto de los delitos por los que se siguió la acción de extinción de dominio.
 
-II. Al Fondo Auxiliar para la Procuración de Justicia, tratándose de los remanentes del valor de los bienes que resulten una vez aplicados los recursos correspondientes en términos de la fracción anterior.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
+
+II. Al Fondo Auxiliar para la Procuración de Justicia y Seguridad Pública, tratándose de los remanentes del valor de los bienes que resulten una vez aplicados los recursos correspondientes en términos de la fracción anterior.
 
 El monto de la reparación del daño a que hace referencia la fracción I, será administrado por la Autoridad Administrativa en los términos del artículo 14 de la presente Ley, hasta que sea recibido por el beneficiario.
 
@@ -486,3 +492,23 @@ TERCERO.- De existir recursos en el Fondo Estatal de Protección y Asistencia a 
 ###### ARTÍCULO ÚNICO.
 
 Con fundamento en lo que expresa el artículo 183 de la Ley Orgánica del Poder Legislativo del Estado de Chihuahua, mándese promulgar el presente Decreto con las observaciones aceptadas.
+
+P.O. 26 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLEY/0357/2019 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA Y DE LA LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES RELACIONADOS CON HECHOS DELICTIVOS PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas las referencias hechas al Fondo Auxiliar para la Procuración de Justicia se entenderán hechas al Fondo Auxiliar para la Procuración de Justicia y Seguridad Pública.
+
+###### ARTÍCULO TERCERO.
+
+Si las atribuciones de seguridad pública y prevención del delito dejan de ser una función de la Fiscalía General del Estado, los recursos referidos en la fracción VIII, del artículo 36 de la Ley Orgánica de la Fiscalía General del Estado, no integrarán el Fondo Auxiliar para la Procuración de Justicia y Seguridad Pública.
+
+Los recursos seguirán siendo captados, pero su administración estará a cargo de la entidad que asuma las atribuciones de seguridad pública y prevención del delito, debiendo informar semestralmente a la Auditoría Superior del Estado sobre las actividades desarrolladas con cargo al recurso, hasta en tanto se emita el decreto que disponga lo conducente.
+
+Estos recursos se destinarán para los fines establecidos en el artículo 38 de la referida Ley, pero en materia de Seguridad Pública.
