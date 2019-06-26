@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2018-10-06"
+last_updated: "2019-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2019.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -433,9 +433,9 @@ XI. Comparecer ante el Congreso del Estado para informar de los asuntos a su car
 
 XII. Asistir a las sesiones del Pleno del Tribunal Superior de Justicia del Estado.
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
 
-XIII. Ejercer las que le concede la presente Ley en relación al Fondo Auxiliar para la Procuración de Justicia.
+XIII. Ejercer las que le concede la presente Ley en relación al Fondo Auxiliar para la Procuración de Justicia y Seguridad Pública.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -469,7 +469,9 @@ Para el ejercicio de sus atribuciones, la Fiscalía Especializada en Control, An
 
 I. Dirección del Instituto Estatal de Seguridad Pública;
 
-II. Dirección de Inspección Interna, quien se auxiliará de cuatro coordinaciones conforme a la distribución territorial señalada en el artículo 5 de la presente Ley;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
+
+II. Dirección de Inspección Interna, quien se auxiliará de cinco coordinaciones conforme a la distribución territorial señalada en el artículo 5 de la presente Ley;
 
 III. Dirección del Centro Estatal de Evaluación y Control de Confianza.
 
@@ -527,9 +529,9 @@ B. La atención psicológica, médica y otras, en los casos de violencia contra 
 
 C. La canalización a víctimas u ofendidos, en los casos de los apartados anteriores, hacia las dependencias o instituciones que proporcionen los servicios de carácter tutelar, asistencial, preventivo, educacional y demás de contenido similar, así como la vigilancia de su debida atención.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2019)</small>
 
-Este órgano estará a cargo de un Fiscal Especializado, quien se auxiliará en sus funciones de cuatro Coordinaciones conforme a la distribución territorial señalada en el artículo 5 de la presente Ley, las que se integrarán con un titular, los agentes del Ministerio Público y de Policía de Investigación del Delito, así como de las unidades administrativas necesarias y demás personal que se requiera. El personal adscrito a esta Fiscalía deberá contar con el perfil especializado que corresponda a la naturaleza propia de sus funciones.
+Este órgano estará a cargo de un Fiscal Especializado, quien se auxiliará en sus funciones de cinco Coordinaciones conforme a la distribución territorial señalada en el artículo 5 de la presente Ley, las que se integrarán con un titular, los agentes del Ministerio Público y de Policía de Investigación del Delito, así como de las unidades administrativas necesarias y demás personal que se requiera. El personal adscrito a esta Fiscalía deberá contar con el perfil especializado que corresponda a la naturaleza propia de sus funciones.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -815,11 +817,13 @@ La organización, funcionamiento, atribuciones y demás acciones inherentes a es
 
 La Comisión Estatal de Seguridad contará con un Director General Operativo que asumirá la jerarquía de Comisario General, y en cada División de las señaladas en este artículo habrá un Director que tendrá la jerarquía de Comisario Jefe; todos los Directores serán designados por el Fiscal General y nombrados por el Gobernador del Estado.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2019)</small>
 
 ###### Artículo 15 Bis.
 
-La Dirección de Servicios Periciales y Ciencias Forenses es la unidad técnica y científica de la Fiscalía General del Estado que, con el carácter de auxiliar y bajo el mando directo del Ministerio Público, coadyuva con este en la investigación y persecución de los delitos, para lo cual se apoyará en cuatro Departamentos conforme a la distribución territorial señalada en el artículo 5 de la presente Ley.
+La Dirección de Servicios Periciales y Ciencias Forenses es la unidad técnica y científica de la Fiscalía General del Estado que, con el carácter de auxiliar y bajo el mando directo del Ministerio Público, coadyuva con este en la investigación y persecución de los delitos, para lo cual se apoyará en cinco Departamentos conforme a la distribución territorial señalada en el artículo 5 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
 La prestación de servicios por parte de la Dirección de Servicios Periciales y Ciencias Forenses solicitados por funcionarios u órganos del Estado distintos del Ministerio Público, así como por personas físicas o morales de derecho privado, se sujetará a la tarifa para el cobro de derechos contenida en la Ley de Ingresos para el ejercicio fiscal correspondiente.
 
@@ -1039,53 +1043,91 @@ El Fiscal General del Estado deberá excusarse de conocer los asuntos en los cas
 
 Los Fiscales, y los agentes del Ministerio Público, no podrán desempeñar otro puesto oficial ni ejercer la abogacía, sino en causa propia, de su cónyuge, concubinario o concubina, ascendientes o descendientes; tampoco ser corredores, comisionistas, apoderados judiciales, tutores, curadores, albaceas judiciales, a no ser que tenga interés en la herencia; interventores en una quiebra o concurso, ni árbitros o arbitradores. No quedan comprendidos en esta prohibición los puestos de carácter docente.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2019)</small>
 
-### CAPÍTULO VIII. DEL FONDO AUXILIAR PARA LA PROCURACIÓN DE JUSTICIA
+### CAPÍTULO VIII. DEL FONDO AUXILIAR PARA LA PROCURACIÓN DE JUSTICIA Y SEGURIDAD PÚBLICA
 
-> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2019)</small>
 
 ###### Artículo 36.
 
-Para el mejor ejercicio de sus funciones, la Fiscalía General del Estado contará con el Fondo Auxiliar para la Procuración de Justicia, el cual se integrará de la siguiente manera:
+Para el mejor ejercicio de sus funciones, la Fiscalía General del Estado contará con el Fondo Auxiliar para la Procuración de Justicia y Seguridad Pública, el cual se integrará de la siguiente manera:
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2016)</small>
 
 I. Recursos obtenidos por la enajenación que realice la Autoridad Administrativa a que se refiere la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua, de los bienes que causen abandono a favor del Estado, de conformidad con los artículos 231, párrafo segundo y 246 del Código Nacional de Procedimientos Penales, salvo aquellos en los que exista disposición expresa para el destino de los mismos.
 
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2016)</small>
+
 II. La parte correspondiente de los recursos obtenidos por los bienes decomisados, en los términos del artículo 250, párrafo segundo del Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2016)</small>
 
 III. Recursos obtenidos de los remanentes a que hace referencia el artículo 34 de la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua, salvo aquellos en los que exista disposición expresa para el destino de los mismos.
 
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2016)</small>
+
 IV. Multas que imponga el Ministerio Público para el cumplimiento de sus determinaciones en el ejercicio de sus funciones, de conformidad con lo dispuesto por el artículo 104, fracción I, inciso b) del Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2016)</small>
 
 V. Recursos obtenidos por los gastos procesales, cuando exista sentencia firme de autoridad judicial que condene al pago a favor del Estado.
 
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2016)</small>
+
 VI. Rendimientos financieros que generen los depósitos bancarios del Fondo Auxiliar.
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2016)</small>
 
 VII. Donaciones o aportaciones hechas por terceros a favor del Fondo Auxiliar.
 
-VIII. Las demás que establezca la legislación local y federal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+VIII. El cincuenta por ciento del valor de una Unidad de Medida y Actualización por cada multa que imponga el personal de la División de Policía Vial de la Comisión Estatal de Seguridad con motivo de las infracciones a la Ley de Vialidad y Tránsito para el Estado de Chihuahua y su Reglamento.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JUNIO DE 2019)</small>
+
+IX. Las demás que establezca la legislación local y federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2019)</small>
 
 ###### Artículo 37.
 
-El Fondo Auxiliar para la Procuración de Justicia dependerá del Fiscal General del Estado, por conducto del servidor público que el mismo designe.
+El Fondo Auxiliar para la Procuración de Justicia y Seguridad Pública, dependerá del Fiscal General del Estado, por conducto del servidor público que el mismo designe.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
 
 El Fiscal General del Estado deberá informar semestralmente a la Auditoría Superior del Estado sobre las actividades desarrolladas con cargo al Fondo Auxiliar.
 
-> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2016)</small>
+(ADICIONADO, P.O. 18 DE JUNIO DE 2016) (REPUBLICADO, P.O. 26 DE JUNIO DE 2019)
 
 ###### Artículo 38.
 
 Los recursos del Fondo Auxiliar se destinarán, entre otros, a los siguientes fines:
 
-I. La capacitación y mejoramiento técnico y profesional de los integrantes de las Instituciones de Seguridad Pública del Estado, en el ámbito de la investigación y persecución del delito.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
 
-II. La adquisición extraordinaria de mobiliario y equipo necesarios para el mejor desempeño de las funciones de investigación y persecución del delito.
+I. La capacitación y mejoramiento técnico y profesional de las y los integrantes de las Instituciones de Seguridad Pública del Estado.
 
-III. El pago de estímulos y recompensas extraordinarias para los integrantes de las Instituciones de Seguridad Pública del Estado, en el ámbito de la investigación y persecución del delito.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
 
-IV. La realización de estudios técnicos y la contratación de servicios que se vinculen con los conceptos a que se refieren las fracciones anteriores.
+II. La adquisición extraordinaria de mobiliario y equipo necesarios para el mejor desempeño de las funciones de la Fiscalía General del Estado.
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
+
+III. El pago de estímulos y recompensas extraordinarias para los integrantes de las Instituciones de Seguridad Pública del Estado.
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2019)</small>
+
+IV. La realización de estudios técnicos y la contratación de servicios que se vinculen con los conceptos a que se refiere el presente artículo.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2019)</small>
+
+V. Al mantenimiento y mejora de las instalaciones de procuración de justicia y seguridad pública del Estado.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2019)</small>
+
+VI. Las erogaciones que la Fiscalía General del Estado estime necesarias y convenientes para la buena marcha de la procuración de justicia y la seguridad pública del Estado.
 
 T R A N S I T O R I O S
 
@@ -1718,3 +1760,23 @@ A la entrada en vigor del presente Decreto, las carpetas de investigación, los 
 ###### ARTÍCULO QUINTO.
 
 Se instruye a la Secretaría de Hacienda para que, en ejercicio de sus atribuciones, realice las previsiones presupuestales y administrativas que resulten necesarias para la infraestructura que sea indispensable, así como los recursos humanos financieros imprescindibles para la debida implementación de lo establecido en el presente Decreto.
+
+P.O. 26 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXVI/RFLEY/0357/2019 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA Y DE LA LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES RELACIONADOS CON HECHOS DELICTIVOS PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas las referencias hechas al Fondo Auxiliar para la Procuración de Justicia se entenderán hechas al Fondo Auxiliar para la Procuración de Justicia y Seguridad Pública.
+
+###### ARTÍCULO TERCERO.
+
+Si las atribuciones de seguridad pública y prevención del delito dejan de ser una función de la Fiscalía General del Estado, los recursos referidos en la fracción VIII, del artículo 36 de la Ley Orgánica de la Fiscalía General del Estado, no integrarán el Fondo Auxiliar para la Procuración de Justicia y Seguridad Pública.
+
+Los recursos seguirán siendo captados, pero su administración estará a cargo de la entidad que asuma las atribuciones de seguridad pública y prevención del delito, debiendo informar semestralmente a la Auditoría Superior del Estado sobre las actividades desarrolladas con cargo al recurso, hasta en tanto se emita el decreto que disponga lo conducente.
+
+Estos recursos se destinarán para los fines establecidos en el artículo 38 de la referida Ley, pero en materia de Seguridad Pública.
