@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-inclusion-de-las-personas-con-discapacidad-del-1213
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-03"
-last_updated: "2017-05-03"
+last_updated: "2019-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "ZAC"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2019.
 
 Ley publicada en el Suplemento al Número 35 del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de mayo de 2017.
 
-ALEJANDRO TELLO CRISTERNA, Gobernador del Estado de Zacateas, a sus habitantes hago saber:
+ALEJANDRO TELLO CRISTERNA, Gobernador del Estado de Zacatecas, a sus habitantes hago saber:
 
 Que los DIPUTADOS SECRETARIOS de la Honorable Sexagésima Segunda Legislatura del Estado, se han servido dirigirme el siguiente:
 
@@ -331,7 +331,7 @@ Derecho a vivienda digna
 
 Las personas con discapacidad tienen derecho a una vivienda digna. Los programas de vivienda de los sectores público o privado incluirán proyectos arquitectónicos de construcciones que consideren sus necesidades de accesibilidad.
 
-El Ejecutivo del Estado, a través de las dependencias competentes, instrumentarán (sic) programas de vivienda especial, los cuales incluirán especificaciones necesarias en sus proyectos arquitectónicos. En este programa se otorgarán facilidades a las personas con discapacidad para recibir créditos o subsidios para la adquisición, redención de pasivos, construcción o remodelación de vivienda.
+El Ejecutivo del Estado, a través de las dependencias competentes, instrumentarán programas de vivienda especial, los cuales incluirán especificaciones necesarias en sus proyectos arquitectónicos. En este programa se otorgarán facilidades a las personas con discapacidad para recibir créditos o subsidios para la adquisición, redención de pasivos, construcción o remodelación de vivienda.
 
 ### Capítulo V. Derecho a la Movilidad Personal
 
@@ -740,6 +740,14 @@ III. Promover que los organismos e instituciones de los sectores privado y socia
 IV. Promover a través del Sistema Zacatecano de Radio y Televisión y otros medios masivos de comunicación, la utilización de lenguas de señas y alentar a los medios de comunicación a que hagan que sus servicios sean accesibles para las personas con discapacidad, y
 
 V. Promover la accesibilidad en páginas y sitios de internet oficiales, con el fin de garantizar el acceso a la información para las personas con discapacidad en igualdad de oportunidades.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2019)</small>
+
+###### Artículo 49 Bis.
+
+Acciones en materia de acceso a la información
+
+En todos los actos oficiales públicos en los que participen los titulares de los Poderes Legislativo, Ejecutivo y Judicial se garantizará la participación de intérpretes del Lenguaje de Señas Mexicana.
 
 ### Capítulo XVI. Derecho a la participación en la vida política y pública
 
@@ -1426,3 +1434,17 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Segunda Legislatura del 
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 DADO en el despacho del Poder Ejecutivo del Estado, a los diecinueve días del mes de abril del año dos mil diecisiete. GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 118.- POR EL CUAL SE ADICIONA UN ARTÍCULO 49 BIS A LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, los Poderes Ejecutivo, Legislativo y Judicial, de acuerdo con su disponibilidad presupuestal, deberán determinar la contratación de intérpretes del Lenguaje de Señas Mexicana, o bien, la capacitación de servidores públicos en activo que pudieran desempeñar tales funciones.
