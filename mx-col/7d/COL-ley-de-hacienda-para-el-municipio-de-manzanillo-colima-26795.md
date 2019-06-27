@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2019-03-20"
+last_updated: "2019-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -305,9 +305,9 @@ Los organismos públicos descentralizados del Gobierno Federal o Estatal, que te
 
 Se concede el 15, 13 y 11 por ciento de bonificación a los contribuyentes que paguen el impuesto predial por anualidad adelantada durante los meses de enero, febrero y marzo, respectivamente; siempre que el monto de dicho impuesto sea mayor a 2 unidades de medida y actualización, en predios urbanos y 3 unidades de medida y actualización en predios rústicos. Quienes cubran la anualidad por adelantado quedan liberados del pago de los incrementos que sufran las unidades de medida y actualización durante el ejercicio correspondiente.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2019)</small>
 
-En los casos en que el contribuyente sea de nacionalidad mexicana y acredite estar jubilado, pensionado por alguna institución pública; presente alguna discapacidad o con la edad de 60 años o más, la bonificación será del 50 por ciento en predios urbanos, siempre que el impuesto se refiera a un solo predio, éste sea de su propiedad y acredite la residencia en el mismo. La bonificación anterior se otorgará a los contribuyentes beneficiados por éste artículo durante todo el ejercicio fiscal, pero la omisión de pago puntual o anualidad adelantada, generará recargos y multas a la fecha de pago, en los términos de lo dispuesto por el segundo párrafo del artículo 51 B de ésta Ley y del artículo 25, último párrafo, del Código.
+En los casos en que el contribuyente sea de nacionalidad mexicana y acredite estar jubilado, pensionado por alguna institución pública; presente alguna discapacidad o con la edad de 60 años o más, la bonificación será del 50 por ciento en predios urbanos, siempre que el impuesto se refiera a un solo predio, éste sea de su propiedad y acredite la residencia en el mismo. La bonificación anterior se otorgará a los contribuyentes beneficiados por éste artículo durante todo el ejercicio fiscal y ejercicios anteriores, siempre y cuando pague el impuesto en su totalidad, pero la omisión de pago puntual o anualidad adelantada, generará recargos y multas a la fecha de pago, en los términos de lo dispuesto por el segundo párrafo del artículo 51 B de ésta Ley y del artículo 25, último párrafo, del Código.
 
 > <small>(ADICIONADO [CON SUS INCISOS], P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
@@ -2985,7 +2985,7 @@ geodésicas para orientación de terrenos 40.00
 
 IV.- Por la fusión o subdivisión de predios y relotificación.
 
-a).- Cuando el valor de los predios fusionados, subdivididos o renotificados sea de:
+a).- Cuando el valor de los predios fusionados, subdivididos o renotificados (sic) sea de:
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -4786,3 +4786,9 @@ P.O. 20 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 56 POR EL QUE SE REFORMA EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE ARMERÍA, COLIMA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MINATITLÁN, TECOMÁN Y VILLA DE ÁLVAREZ, ASÍ COMO EL ARTÍCULO NOVENO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO Y EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima" y estará vigente hasta el 31 de marzo de 2019.
+
+P.O. 27 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 98 POR EL QUE SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 19, DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO, COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
