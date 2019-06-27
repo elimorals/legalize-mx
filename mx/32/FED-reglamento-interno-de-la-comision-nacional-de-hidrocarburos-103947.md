@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-hidrocarburos-103
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-12-22"
-last_updated: "2018-11-29"
+last_updated: "2019-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103947&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-12-08"
 ---
 # REGLAMENTO INTERNO DE LA COMISION NACIONAL DE HIDROCARBUROS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO CNH.E.29.009/19 POR EL QUE LA COMISIÓN NACIONAL DE HIDROCARBUROS EXPIDE SU REGLAMENTO INTERNO, PUBLICADO EN EL D.O.F. DE 27 DE JUNIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE JUNIO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el lunes 22 de diciembre de 2014.
 
@@ -1734,3 +1736,15 @@ c) Fracción III, por el Director General de lo Contencioso;
 d) Fracción V, por el Titular de la Unidad Jurídica.
 
 SEGUNDO.- Inscríbase el presente ACUERDO CNH.E.63.003/18 en el Registro Público de la Comisión Nacional de Hidrocarburos.
+
+D.O.F. 27 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO CNH.E.29.009/19 POR EL QUE LA COMISIÓN NACIONAL DE HIDROCARBUROS EXPIDE SU REGLAMENTO INTERNO”.]
+
+PRIMERO.- El presente ACUERDO entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Comisión Nacional de Hidrocarburos, publicado en el Diario Oficial de la Federación el 22 de diciembre de 2014.
+
+TERCERO.- Hasta en tanto se autorice la estructura requerida por las autoridades competentes, las funciones asignadas a las Direcciones Generales Adjuntas que no cuenten con una plaza autorizada en términos de la Normativa Aplicable, serán ejercidas por la Dirección General Adjunta adscríta a la Dirección General que corresponda que sí cuente con una plaza autorizada, o bien, por la Unidad Administrativa correspondiente.
+
+CUARTO.- Inscríbase el presente Acuerdo CNH.E.29.009/19 en el Registro Público de la Comisión Nacional de Hidrocarburos.
