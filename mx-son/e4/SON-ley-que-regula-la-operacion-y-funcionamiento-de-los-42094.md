@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2019-06-13"
+last_updated: "2019-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "SON"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE JUNIO DE 2019 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 27 DE JUNIO DE 2019.]</small>
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -183,9 +183,21 @@ Podrá contar con mesas y sillas, mesas de billar, juegos de mesa y otros servic
 
 Los establecimientos a que se refiere esta fracción, no podrán contar con pista de baile.
 
-> <small>(ADICIONADA, B.O. 13 DE JUNIO DE 2019)</small>
+(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013) (F. DE E., B.O. 27 DE JUNIO DE 2019)
 
-IV BIS.- Sala de degustación para la venta exclusiva de cerveza artesanal.- Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de cerveza artesanal hecha en México con o sin alimentos.
+IV Bis.- Billar o Boliche.- Establecimientos destinados a operar instalaciones para practicar juegos de boliche y billar, de manera conjunta o separada, como actividades principales, donde además podrán expenderse bebidas con contenido alcohólico en envase abierto y para el consumo inmediato en el interior del mismo.
+
+Podrá contar con mesas y sillas, juegos de mesa y otros servicios accesorios para fomentar en los clientes la sana diversión, recreación y esparcimiento, tales como música viva o ambiental, así como con aparatos reproductores de música y video, siempre que funcionen a un volumen de sonido moderado que no constituya molestia para el vecindario y que se cumplan las disposiciones que establecen las leyes aplicables.
+
+Dicho establecimiento podrá contar con bar anexo comunicado, mismo que deberá estar claramente delimitado y separado del área de billar o boliche, ello no obstante su comunicación, donde podrán consumirse bebidas alcohólicas sin alimentos.
+
+Podrá proporcionar servicio para eventos sociales en los que se permite la venta o consumo de bebidas con contenido alcohólico, en su caso, ser necesario recabar autorización de la autoridad municipal para la celebración de tales eventos. Asimismo, se permite la venta y consumo en las áreas de jardines y terrazas del establecimiento.
+
+Los establecimientos a que se refiere esta fracción, no podrán contar con pista de baile.
+
+(ADICIONADA, B.O. 13 DE JUNIO DE 2019) (F. DE E., B.O. 27 DE JUNIO DE 2019)
+
+IV BIS 1.- Sala de degustación para la venta exclusiva de cerveza artesanal.- Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de cerveza artesanal hecha en México con o sin alimentos.
 
 Podrá contar con mesas y sillas, y otros servicios accesorios para fomentar en los clientes la sana diversión, recreación y esparcimiento, tales como música viva o ambiental, así como con aparatos reproductores de música y video, siempre que funcionen a un volumen de sonido moderado que no constituya molestia para el vecindario y que se cumplan las disposiciones que establecen las leyes aplicables. Los establecimientos a que se refiere esta fracción, no podrán contar con pista de baile.
 
