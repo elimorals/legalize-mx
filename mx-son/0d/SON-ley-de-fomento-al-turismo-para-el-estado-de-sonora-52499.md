@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-al-turismo-para-el-estado-de-sonora-52499"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-14"
-last_updated: "2019-06-13"
+last_updated: "2019-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE JUNIO DE 2019 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 27 DE JUNIO DE 2019.]</small>
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de diciembre de 2006.
 
@@ -865,17 +865,21 @@ La misma obligación tendrán las autoridades respecto de los sitios culturales 
 
 La Cofetur y los Ayuntamientos supervisarán que lo dispuesto en este capítulo se cumpla.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 13 DE JUNIO DE 2019)</small>
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 13 DE JUNIO DE 2019) (F. DE E., B.O. 27 DE JUNIO DE 2019)
 
-### CAPÍTULO VIII. DE LOS MUNICIPIOS DENOMINADOS “TESOROS DE SONORA”
+### CAPÍTULO IX. DE LOS MUNICIPIOS DENOMINADOS "TESOROS DE SONORA"
 
-> <small>(ADICIONADO, B.O. 13 DE JUNIO DE 2019)</small>
+(ADICIONADO, B.O. 13 DE JUNIO DE 2019) (F. DE E., B.O. 27 DE JUNIO DE 2019)
 
-ARTÍCULO 62 Ter (sic).- Son Tesoros de Sonora, aquellas localidades del Estado que cuentan con un atractivo turístico que las hace distinguirse respecto de otros lugares, que han conservado y valorado su herencia natural, histórica o cultural y que cumplen con los lineamientos de incorporación y permanencia establecidos por la Cofetur.
+###### ARTÍCULO 62 Quinquies.
 
-> <small>(ADICIONADO, B.O. 13 DE JUNIO DE 2019)</small>
+Son Tesoros de Sonora, aquellas localidades del Estado que cuentan con un atractivo turístico que las hace distinguirse respecto de otros lugares, que han conservado y valorado su herencia natural, histórica o cultural y que cumplen con los lineamientos de incorporación y permanencia establecidos por la Cofetur.
 
-ARTÍCULO 62 Quater (sic).- Para obtener el nombramiento de Tesoros de Sonora, los municipios aspirantes deberán cumplir con los siguientes requisitos:
+(ADICIONADO, B.O. 13 DE JUNIO DE 2019) (F. DE E., B.O. 27 DE JUNIO DE 2019)
+
+###### ARTÍCULO 62 Sexies.
+
+Para obtener el nombramiento de Tesoros de Sonora, los municipios aspirantes deberán cumplir con los siguientes requisitos:
 
 I.- Acreditar la integración formal de un Comité Pro Tesoros de Sonora;
 
@@ -887,9 +891,11 @@ IV.- Los demás que establezca la presente Ley y el Reglamento respectivo.
 
 Los recursos financieros que soporten el nombramiento, serán otorgados por la Cofetur, así como de los Municipios participantes de acuerdo con sus recursos presupuestarios.
 
-> <small>(ADICIONADO, B.O. 13 DE JUNIO DE 2019)</small>
+(ADICIONADO, B.O. 13 DE JUNIO DE 2019) (F. DE E., B.O. 27 DE JUNIO DE 2019)
 
-ARTÍCULO 62 Quintus (sic).- El nombramiento de Tesoro de Sonora, será otorgado por el Gobernador del Estado.
+###### ARTÍCULO 62 Septies.
+
+El nombramiento de Tesoro de Sonora, será otorgado por el Gobernador del Estado.
 
 Una vez otorgado el nombramiento al Municipio correspondiente, la Cofetur programará acciones de capacitación y adiestramiento para la aplicación del programa.
 
