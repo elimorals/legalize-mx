@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2019-05-14"
+last_updated: "2019-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -537,9 +537,9 @@ c) Acuerdo: La resolución expedida por el Poder Legislativo, en materia de su a
 
 (Cómputo de los plazos) Los plazos a que se refiere esta ley, se computarán por días hábiles, salvo disposición expresa en contrario.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
 
-La recepción de documentos se realizará por la Oficialía de Partes en días y horas hábiles, que se comprenderán de lunes a viernes, de las 9:00 a las 16:00 horas. Los que se presenten para trámite Legislativo, deberán ser exhibidos de manera impresa y en archivo electrónico, en formato de procesador de textos editable. La Presidencia de la Legislatura podrá habilitar días y horarios distintos a los señalados. Los documentos que no fueren recibidos en Oficialía de Partes se tendrán por no presentados ante el Poder Legislativo.
+La recepción de documentos se realizará por la Oficialía de Partes en días y horas hábiles, que se comprenderán de lunes a viernes, de las 9:00 a las 16:00 horas. Los que se presenten para trámite Legislativo, deberán ser exhibidos de manera impresa y en archivo electrónico, en formato de procesador de textos editable; no obstante, la Presidencia de la Legislatura podrá habilitar días, horas y formatos distintos a los señalados cuando con ello se logre una comunicación adecuada en el envío y recepción de documentos que por su importancia requieran de trámite distinto. Los documentos que no fueren recibidos en Oficialía de Partes o bajo las excepciones de la presente Ley se tendrán por no presentados ante el Poder Legislativo.
 
 Serán inhábiles los periodos vacacionales autorizados por la Mesa Directiva, así como los días de descanso obligatorios señalados por las leyes de la materia, los convenios sindicales y los autorizados por la Mesa Directiva.
 
@@ -2743,6 +2743,10 @@ IX. Crear y administrar las cuentas oficiales de la Legislatura en las plataform
 
 X. Elaborar la estrategia anual de Comunicación Social y difundir la información a que se refiere el Título IV, de la Ley General de Comunicación Social, y demás atribuciones y obligaciones contenidas en la propia Ley General. Asimismo, ejecutar las instrucciones que en materia de comunicación social dicten la Presidencia de la Junta de Coordinación Política y el Pleno de la Legislatura; cumplir las demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2019)</small>
+
+Corresponde a la Presidencia de la Comisión de Planeación y Presupuesto fungir como autoridad administradora en términos de la Ley General de Comunicación Social y demás disposiciones aplicables.
+
 ## Título Sexto. Suspensión o declaración de desaparición de Ayuntamientos, revocación de mandato, suspensión o inhabilitación de alguno de sus miembros
 
 ### Capitulo Único. Del procedimiento
@@ -3228,3 +3232,13 @@ P.O. 14 DE MAYO DE 2019.
 Artículo Primero. La presente Ley, en lo que corresponde a la Ley Orgánica del Poder Legislativo, entrará en vigor a partir del día de su aprobación por el Pleno de la Quincuagésima Novena Legislatura del estado de Querétaro, salvo lo dispuesto en el artículo 152 de la Ley Orgánica del Poder Legislativo señalado en la presente ley, el cual entrará en vigor el día 01 de enero de 2020 atendiendo a la suficiencia presupuestal aprobada. Lo relativo en la presente Ley a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 28 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su aprobación por el Pleno de la Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
