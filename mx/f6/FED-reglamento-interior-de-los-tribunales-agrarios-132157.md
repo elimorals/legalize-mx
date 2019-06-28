@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-los-tribunales-agrarios-132157"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-08"
-last_updated: "2019-01-11"
+last_updated: "2019-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132157&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2018-11-29"
 
 REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
-TEXTO ORIGINAL.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 11 DE ENERO DE 2019.]
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE JUNIO DE 2019.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 8 de enero de 2019.
 
@@ -113,7 +111,9 @@ I. Secretaría general de acuerdos.
 
 II. Unidad general administrativa.
 
-III. Dirección general de asuntos jurídicos.
+> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+
+III. Dirección de Asuntos Jurídicos.
 
 IV. Órgano interno de control.
 
@@ -481,9 +481,11 @@ Para el cumplimiento de sus atribuciones, la unidad general administrativa conta
 
 ### CAPÍTULO VI. DE LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE JUNIO DE 2019)</small>
+
 ###### Artículo 56.
 
-Corresponden a la dirección general de asuntos jurídicos las siguientes atribuciones, que atenderá cumpliendo los lineamientos que dicten el tribunal superior y el presidente:
+Corresponden a la Dirección de Asuntos Jurídicos las siguientes atribuciones, que atenderá cumpliendo los lineamientos que dicten el Tribunal Superior Agrario y el Presidente:
 
 I. En los juicios de amparo directo e indirecto:
 
@@ -493,9 +495,9 @@ b) Elaborar los acuerdos jurisdiccionales que deban pronunciarse en cada uno de 
 
 c) Ofrecer pruebas y expresar alegatos.
 
-d) Interponer recursos y actos que sean necesarios para el buen desarrollo y terminación de dichos juicios.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2019)</small>
 
-Cuando se trate de dar cumplimiento a la ejecutoria de un juicio de amparo, dictada contra sentencias emitidas por el tribunal superior, que ordene el dictado de una nueva resolución o la reposición del procedimiento, la dirección general de asuntos jurídicos proporcionará al magistrado ponente los expedientes originales necesarios para que elabore el nuevo proyecto.
+d). Interponer recursos y actos que sean necesarios para el buen desarrollo y terminación de dichos juicios. Cuando se trate de dar cumplimiento a la ejecutoria de un juicio de amparo, dictada contra sentencias emitidas por el Tribunal Superior, que ordene el dictado de una nueva resolución o la reposición del procedimiento, la Dirección de Asuntos Jurídicos proporcionará al Magistrado Ponente los expedientes originales necesarios para que elabore el nuevo proyecto.
 
 II. Llevar el control de los juicios de amparo, mantener al corriente la información de cada una de las actuaciones que el tribunal superior esté obligado a realizar, proporcionar esta información cuando sea requerida por los magistrados o por la secretaría general de acuerdos y emitir opinión sobre los alcances de cada una de las ejecutorias que dicten los órganos de control constitucional.
 
@@ -529,17 +531,23 @@ XVI. Entregar a los integrantes del pleno, un informe mensual y uno al finalizar
 
 XVII. Representar al tribunal superior ante el tribunal federal de conciliación y arbitraje, juntas locales y federales de conciliación y arbitraje y demás autoridades del trabajo, en las controversias laborales que sea parte.
 
-XVIII. Resguardar los expedientes y demás documentos que conforman los archivos de la dirección general de asuntos jurídicos.
+> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2019)</small>
+
+XVIII. Resguardar los expedientes y demás documentos que conforman los archivos de la dirección de asuntos jurídicos.
 
 XIX. Las demás inherentes a su cargo.
 
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2019)</small>
+
 ###### Artículo 57.
 
-Para el cumplimiento de sus atribuciones, la dirección general de asuntos jurídicos contará con las direcciones necesarias que conforme a la autorización presupuestal procedan. Las funciones se regirán por los manuales que expida el tribunal superior.
+Para el cumplimiento de sus atribuciones, la dirección de asuntos jurídicos contará con las áreas necesarias que conforme a la autorización presupuestal procedan. Las funciones se regirán por los manuales que expida el tribunal superior.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2019)</small>
 
 ###### Artículo 58.
 
-El director general de asuntos jurídicos tiene facultades para suscribir todos los escritos ante las instancias jurídicas y administrativas respecto de demandas, contestación, requerimientos y desahogos, ofrecimientos de pruebas, y en general cualquier acto que tenga como fin la defensa de los tribunales agrarios, pleno, magistrados y directores generales; con excepción de los desistimientos cuando sean de carácter personal.
+El director de asuntos jurídicos tiene facultades para suscribir todos los escritos ante las instancias jurídicas y administrativas respecto de demandas, contestación, requerimientos y desahogos, ofrecimientos de pruebas, y en general cualquier acto que tenga como fin la defensa de los tribunales agrarios, pleno, magistrados y directores generales; con excepción de los desistimientos cuando sean de carácter personal.
 
 ### CAPÍTULO VII. DE ÓRGANO INTERNO DE CONTROL
 
@@ -589,7 +597,9 @@ XVIII. Coadyuvar con la unidad general administrativa para la formulación del a
 
 XIX. Denunciar ante el ministerio público los hechos de que tenga conocimiento que impliquen responsabilidad penal, e instar al área jurídica respectiva a formular, cuando así se requiera, las querellas a que hubiere lugar.
 
-Las denuncias y querellas podrán ser presentadas indistintamente por el órgano interno de control, la dirección general de asuntos jurídicos o, en su caso, las unidades de asuntos jurídicos de los tribunales unitarios agrarios.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2019)</small>
+
+Las denuncias y querellas podrán ser presentadas indistintamente por el órgano interno de control, la dirección de Asuntos Jurídicos o, en su caso, las Unidades de Asuntos jurídicos de los tribunales unitarios agrarios.
 
 XX. Requerir a las unidades administrativas de los tribunales agrarios, la información e intervenir en la entrega y recepción de las oficinas de los tribunales agrarios, de acuerdo con las disposiciones que al efecto se expidan.
 
@@ -751,9 +761,11 @@ VI. El secretario de acuerdos, bajo su responsabilidad, dará fe de lo asentado 
 
 DE LAS UNIDADES JURÍDICAS
 
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2019)</small>
+
 ###### Artículo 72.
 
-Las unidades jurídicas de los tribunales unitarios tendrán, las atribuciones previstas por este reglamento para la dirección general de asuntos jurídicos del tribunal superior, que ejercerán conforme a la normatividad y las directrices que fije la mencionada dirección general.
+Las unidades jurídicas de los tribunales unitarios tendrán, las atribuciones previstas en este Reglamento para la Dirección de Asuntos Jurídicos del Tribunal Superior que ejercerán conforme a la normatividad y las directrices que fije la mencionada Dirección de área.
 
 DE LAS UNIDADES ADMINITRATIVAS (SIC)
 
@@ -911,9 +923,11 @@ Las ausencias de los secretarios de acuerdos de los tribunales unitarios serán 
 
 En ambos casos el servidor público que sustituya la ausencia deberá reunir los requisitos que establece la ley orgánica para el desempeño de su función.
 
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2019)</small>
+
 ###### Artículo 90.
 
-Las ausencias del titular de la unidad general administrativa, de la dirección general de asuntos jurídicos y del órgano interno de control, serán suplidas por el director o servidor público que determine el presidente del tribunal superior.
+Las ausencias del titular de la Unidad General Administrativa, de la Dirección de Asuntos Jurídicos y del Órgano Interno de control, serán suplidas por el Director o servidor público que determine el presidente del Tribunal Superior.
 
 ###### Artículo 91.
 
@@ -1000,3 +1014,13 @@ Así se aprobó por mayoría de los integrantes del pleno del tribunal superior 
 > <small>(F. DE E., D.O.F. 11 DE ENERO DE 2019)</small>
 
 Ciudad de México, a 29 de noviembre de 2018.- magistrada presidente, doctora Odilisa Gutiérrez Mendoza.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 28 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL TRIBUNAL SUPERIOR AGRARIO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Boletín Judicial Agrario; así como en el portal de los Tribunales Agrarios en Internet.
