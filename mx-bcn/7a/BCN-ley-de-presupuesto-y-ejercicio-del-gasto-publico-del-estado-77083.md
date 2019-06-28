@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2014-11-07"
+last_updated: "2019-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2019.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -283,7 +283,13 @@ Todos los ingresos o entradas de efectivo se ampararán sin excepción alguna, c
 
 Todas las entradas de efectivo de los sujetos de la presente Ley deberán depositarse en cuentas bancarias procurando obtener los mejores rendimientos financieros, pudiendo invertirse los excedentes temporales de efectivo en instrumentos de inversión de renta fija o valores gubernamentales del Sistema Financiero Mexicano.
 
-Los Titulares de los sujetos regulados por esta Ley, informarán al Órgano de Fiscalización Superior del Estado, objeto de la apertura de la cuenta, nombre de la institución bancaria o financiera correspondiente, número de contrato, tipo de cuenta o instrumento de depósito o inversión y saldo, dentro de los quince días posteriores a su apertura. Igualmente, informarán sobre su cancelación dentro de los quince días siguientes a que esto ocurra.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
+
+Los órganos autónomos reconocidos en Ley, podrán invertir los excedentes temporales provenientes de ingresos propios, en instrumentos de inversión diversos a los mencionados en el párrafo primero, siempre que se procuren mayores rendimientos que los de inversión de renta fija o valores gubernamentales del Sistema Financiero Mexicano, bajo mecanismos que aseguren el menor riesgo posible.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JUNIO DE 2019)</small>
+
+Para el caso de los Órganos Autónomos que utilicen instituciones administradoras de inversión, bastará que se remitan a la Auditoría Superior del Estado de Baja California, dentro de los primeros quince días posteriores al corte del mes, el reporte correspondiente de saldos y movimientos que informen sobre la posición financiera de las inversiones; así como de manera semestral, las aperturas y cancelación de cuentas bancarias que corresponda al periodo inmediato anterior, dentro de los primeros quince días posteriores al corte respectivo.
 
 ### CAPÍTULO CUARTO
 
@@ -1310,3 +1316,11 @@ SEGUNDO.- La Presente reforma entrará en vigor al día siguiente de su publicac
 P.O. 7 DE NOVIEMBRE DE 2014.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 349 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 19 DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+Las (sic) presente reforma entrarán (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
