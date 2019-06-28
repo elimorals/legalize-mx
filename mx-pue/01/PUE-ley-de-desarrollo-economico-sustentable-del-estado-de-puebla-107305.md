@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-economico-sustentable-del-estado-de-puebla-10
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-30"
-last_updated: "2017-12-29"
+last_updated: "2019-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2019.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de marzo de 2015.
 
@@ -429,9 +429,11 @@ d) Las políticas públicas y sus instrumentos que impulsen la competitividad y 
 
 e) Las tendencias mundiales en desarrollo económico, tecnológico y ambiental que puedan ser aplicables en el Estado.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
+
 ###### ARTÍCULO 19.
 
-En la adquisición de bienes, contratación de servicios, arrendamientos y obras públicas, las Dependencias de la Administración Pública Estatal darán preferencia, dentro del marco legal aplicable, a las empresas y MIPYMES que tengan su domicilio social en el Estado siempre que ofrezcan iguales o mejores condiciones de precio, calidad y servicio respecto de las ofertas de empresas asentadas en otras entidades federativas.
+En la adquisición de bienes, contratación de servicios, arrendamientos y obras públicas, la Administración Pública Estatal Centralizada y Paraestatal, así como la Municipal Centralizada y Descentralizada darán preferencia, dentro del marco legal aplicable, a las empresas y MIPYMES que tengan su domicilio social en el Estado siempre que ofrezcan iguales o mejores condiciones de precio, calidad y servicio respecto de las ofertas de empresas asentadas en otras entidades federativas.
 
 ###### ARTÍCULO 20.
 
@@ -1264,3 +1266,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 28 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 19 DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
