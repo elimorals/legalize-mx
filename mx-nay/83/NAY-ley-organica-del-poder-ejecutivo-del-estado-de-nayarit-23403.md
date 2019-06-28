@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2019-06-03"
+last_updated: "2019-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE JUNIO DE 2019.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -343,9 +345,9 @@ XI. Secretaría de Bienestar e Igualdad Sustantiva;
 
 XII. Secretaría de Seguridad y Protección Ciudadana, y
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+(ADICIONADA, P.O. 29 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
-XIII. Secretaría de Movilidad y Transporte.
+XIII. Secretaría de Movilidad.
 
 ### CAPITULO II
 
@@ -2079,31 +2081,51 @@ XXX. Acordar y tramitar, las solicitudes de extradición, amnistía, indultos, l
 
 XXXI. Vigilar el establecimiento de instituciones y la aplicación de las medidas preventivas y definitivas impuestas a los adolescentes en conflicto con la ley penal, fijadas por la autoridad jurisdiccional competente;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
 
-XXXII. Administrar los Centros de Readaptación y Reintegración Social;
+XXXII. Administrar los Centros de Reinserción y Reintegración Social;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2019)</small>
 
 XXXIII. Presentar al Gobernador del Estado, para su aprobación, el Programa Estatal de Protección Civil y prestar toda clase de ayuda y apoyos a los órganos encargados de ejecutar los Programas Nacional y Estatal de Auxilio en caso de desastres;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
 
-XXXIV. Conducir y poner en ejecución, en coordinación con las autoridades de los gobiernos municipales y con las dependencias y entidades de la Administración Pública estatal, las políticas y programas de protección civil del Ejecutivo, en el marco del Sistema Estatal de Protección Civil, para la prevención, auxilio, recuperación y apoyo a la población en situaciones de desastre y concertar con instituciones y organismos de los sectores privado y social las acciones conducentes al mismo objetivo, y
+XXXIV. Conducir y poner en ejecución, en coordinación con las autoridades de los gobiernos municipales y con las dependencias y entidades de la Administración Pública estatal, las políticas y programas de protección civil del Ejecutivo, en el marco del Sistema Estatal de Protección Civil, para la prevención, auxilio, recuperación y apoyo a la población en situaciones de desastre y concertar con instituciones y organismos de los sectores privado y social las acciones conducentes al mismo objetivo;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
 
-XXXV. Las demás que le atribuyan expresamente las leyes, reglamentos, convenios y las que le confiera el Gobernador.
+XXXV. Llevar a cabo el registro y control de vehículos que estén dados de alta en el Estado y coadyuvar en la actualización del Registro Público Vehicular;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2019)</small>
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+
+XXXVI. Organizar y supervisar las corporaciones de tránsito del Estado, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes y los convenios respectivos;
+
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+
+XXXVII. Administrar y vigilar el tránsito en las carreteras y caminos de jurisdicción estatal, y aplicar, en su caso, las sanciones que correspondan en los términos que señalen las leyes, reglamentos y convenios respectivos;
+
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+
+XXXVIII. Supervisar y controlar el tránsito vehicular y peatonal, conforme lo disponga la ley y los convenios respectivos, y
+
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+
+XXXIX. Las demás que le atribuyan expresamente las leyes, reglamentos, convenios y las que le confiera el Gobernador.
+
+(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
 ###### Artículo 41.
 
-A la Secretaría de Movilidad y Transporte competen, además de las atribuciones que le señala la Constitución Política del Estado Libre y Soberano de Nayarit, las siguientes:
+A la Secretaría de Movilidad competen, además de las atribuciones que le señala la Constitución Política del Estado Libre y Soberano de Nayarit, las siguientes:
 
-I. Planear, coordinar y evaluar los proyectos estatales en materia de movilidad conforme a las disposiciones legales vigentes y los acuerdos que emita el titular del Poder Ejecutivo del Estado;
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
 
-II. Elaborar, coordinar y aplicar los planes y programas de educación vial;
+I. Coordinar y evaluar los proyectos estatales en materia de movilidad conforme a las disposiciones legales vigentes y los acuerdos que emita el titular del Poder Ejecutivo del Estado, participando de forma coordinada con el Instituto de Planeación del Estado de Nayarit, en el ámbito de sus funciones y atribuciones;
+
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+
+II. Elaborar y coordinar la aplicación de los programas de educación vial;
 
 III. Expedir, revalidar, reponer, suspender, cancelar y llevar registro de las licencias de manejo, placas, calcomanías, signos de identificación y autorizaciones para la conducción, circulación y uso de vehículos;
 
@@ -2113,21 +2135,19 @@ V. Expedir la documentación correspondiente en que se haga constar el otorgamie
 
 VI. Fomentar, impulsar, estimular, ordenar y regular el desarrollo de la movilidad urbana sustentable en el Estado, dando prioridad a peatones y medios de transporte no motorizados;
 
-VII. Ejecutar, diseñar y proponer las políticas públicas estatales en materia de movilidad, educación vial, del servicio de transporte público y especializado, infraestructura de movilidad y, en especial, aquellas destinadas a personas que usan las vías peatonales, personas con discapacidad o movilidad limitada y el derecho a la movilidad motorizada y no motorizada en el Estado;
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+
+VII. Coordinar la ejecución de las políticas públicas estatales en materia de movilidad;
 
 VIII. Participar en las acciones que en materia de protección al medio ambiente lleven a cabo las autoridades federales u otras estatales, en relación con la prestación del servicio público del transporte, el especializado y el particular;
 
-IX. Llevar a cabo el registro y control de vehículos que estén dados de alta en el Estado y coadyuvar en la actualización del Registro Público Vehicular;
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
 
-X. Organizar y supervisar las corporaciones de tránsito del Estado, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes y los convenios respectivos;
+IX. Coordinar con otras dependencias y con los municipios, programas y políticas públicas en materia de movilidad, y
 
-XI. Administrar y vigilar el tránsito en las carreteras y caminos de jurisdicción estatal, y aplicar, en su caso, las sanciones que correspondan en los términos que señalen las leyes, reglamentos y convenios respectivos;
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
 
-XII. Supervisar y controlar el tránsito vehicular y peatonal, conforme lo disponga la ley y los convenios respectivos;
-
-XIII. Coordinar con otras dependencias y con los municipios, programas y políticas públicas en materia de movilidad y transporte, y
-
-XIV. Las demás que le atribuyan expresamente las leyes, reglamentos, convenios y las que le confiera el Gobernador.
+X. Las demás que le atribuyan expresamente las leyes, reglamentos, convenios y las que le confiera el Gobernador.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2681,13 +2701,15 @@ QUINTO. Los servidores públicos adscritos a la Secretaría de Seguridad Públic
 
 P.O. 29 DE MAYO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, salvo lo dispuesto en los artículos transitorios subsecuentes.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
 
-TERCERO. A partir de la entrada en vigor del presente Decreto la Secretaría de Administración y Finanzas del Gobierno del Estado, deberá realizar las adecuaciones presupuestales necesarias para incluir en el Presupuesto de Egresos, las erogaciones que se generen por el presente Decreto.
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+
+TERCERO. A partir de la entrada en vigor del presente Decreto la Secretaría de Administración y Finanzas del Gobierno del Estado deberá realizar las adecuaciones presupuestales necesarias a más tardar el 30 de septiembre de 2019, para incluir en el Presupuesto de Egresos, las erogaciones que se generen por el presente Decreto.
 
 CUARTO. El Congreso del Estado, dentro del plazo de 180 días contados a partir de la entrada en vigor del presente Decreto, deberá realizar las modificaciones necesarias para armonizar el marco jurídico local al tenor de lo dispuesto por el presente Decreto.
 
@@ -2713,11 +2735,19 @@ DÉCIMO SEGUNDO. Las menciones contenidas en otras leyes, reglamentos y en gener
 
 DÉCIMO TERCERO. Las referencias establecidas en los ordenamientos jurídicos que hacen mención a las Secretarías de Planeación, Programación y Presupuesto; de Obras Públicas; de Desarrollo Rural y Medio Ambiente; del Trabajo, Productividad y Desarrollo Económico; de Desarrollo Social así como la de Seguridad Pública se entenderán por realizadas a las Secretarías de Desarrollo Sustentable; de Infraestructura; de Desarrollo Rural; de Economía; de Bienestar e Igualdad Sustantiva, así como a la de Seguridad y Protección Ciudadana, respectivamente.
 
-DÉCIMO CUARTO. La Secretaría de Movilidad y Transporte, entrará en funciones una vez publicada la Ley de Movilidad y Transporte del Estado de Nayarit; mientras tanto, seguirá en funciones la Dirección General de Tránsito y Transporte del Gobierno del Estado de Nayarit.
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+
+Tratándose de instrumentos jurídicos, legales o normativos las referencias a las denominaciones establecidas en el párrafo anterior, podrán entenderse de manera inversa.
+
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+
+DÉCIMO CUARTO. La Secretaría de Movilidad, entrará en funciones una vez publicada la Ley de Movilidad del Estado de Nayarit; mientras tanto, seguirá en funciones la Dirección General de Tránsito y Transporte del Gobierno del Estado de Nayarit, de conformidad con la normatividad vigente y los convenios respectivos.
 
 DÉCIMO QUINTO. Los derechos laborales adquiridos por los trabajadores de la Dirección General de Tránsito y Transporte del Gobierno del Estado de Nayarit, serán plenamente respetados con la expedición y ejecución de este Decreto.
 
-DÉCIMO SEXTO. El Titular del Poder Ejecutivo del Estado, por conducto de las instancias correspondientes, proveerá lo conducente para la operación de la Secretaría de Movilidad y Transporte.
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+
+DÉCIMO SEXTO. El Titular del Poder Ejecutivo del Estado, por conducto de las instancias correspondientes, proveerá lo conducente para la operación de la Secretaría de Movilidad.
 
 P.O. 3 DE JUNIO DE 2019.
 
