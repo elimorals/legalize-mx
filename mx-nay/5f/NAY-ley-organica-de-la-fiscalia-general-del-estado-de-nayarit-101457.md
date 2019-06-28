@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-fiscalia-general-del-estado-de-nayarit-10145
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-05-15"
-last_updated: "2019-05-28"
+last_updated: "2019-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE JUNIO DE 2019 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE JUNIO DE 2019.]</small>
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el jueves 15 de mayo de 2014.
 
@@ -81,11 +81,11 @@ VII. Fiscal Anticorrupción: El titular de la Fiscalía en Materia de Combate a 
 
 VIII. Fiscalía Electoral: La Fiscalía Especializada en Materia de Delitos Electorales;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2019)</small>
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
 
 IX. Fiscal Electoral: El titular de la Fiscalía en Materia de Delitos Electorales;
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2019)</small>
 
 X. Instituto: El Instituto de Capacitación Especializada en Procuración de Justicia;
 
@@ -119,7 +119,9 @@ II. Fiscal en Materia de Delitos Electorales;
 
 III. Dirección General de Investigación Ministerial y Procesos Judiciales;
 
-IV. Dirección General de la Policía de Investigación Criminal;
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+
+IV. Dirección General de la Agencia de Investigación Criminal;
 
 V. Dirección General de Servicios Periciales;
 
@@ -441,9 +443,9 @@ Para el desarrollo de las funciones de la institución del Ministerio Público d
 
 I. Sistema de Especialización: La Fiscalía General contará con Agencias Especializadas en la investigación y persecución del delito, atendiendo a las formas de manifestación de la delincuencia, así como a la naturaleza, complejidad, e incidencia de los delitos locales y sus conexos.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADO, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
-Habrá un Agente del Ministerio Público especializado quien ejercerá el mando y autoridad jerárquica sobre el personal que esté adscrito a la Agencia y dirigirá las actuaciones que se encomienden a los elementos de la Policía de Investigación Criminal, Peritos, Analistas y demás auxiliares.
+Habrá un Agente del Ministerio Público especializado quien ejercerá el mando y autoridad jerárquica sobre el personal que esté adscrito a la Agencia y dirigirá las actuaciones que se encomienden a los elementos de la Agencia de Investigación Criminal, Peritos, Analistas y demás auxiliares.
 
 Las Agencias Especializadas actuarán en los municipios del Estado en donde se requiera su asistencia.
 
@@ -541,9 +543,9 @@ Son atribuciones del Ministerio Público:
 
 I. Ejercer la conducción y mando de la investigación de los hechos presuntamente constitutivos de delito;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADA, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
-II. Recibir las denuncias, querellas o cualquier otro requisito de procedibilidad equivalente, que se le presenten en forma oral, por escrito o a través de medios digitales, incluso mediante informaciones anónimas, en términos de las disposiciones aplicables, sobre hechos que puedan constituir algún delito, y ordenar a la policía, en su caso, su recepción y la investigación de la veracidad de los datos aportados;
+II. Recibir las denuncias, querellas o cualquier otro requisito de procedibilidad equivalente, que se le presenten en forma oral, por escrito o a través de medios digitales, incluso mediante informaciones anónimas, en términos de las disposiciones aplicables, sobre hechos que puedan constituir algún delito, y ordenar a los agentes de investigación criminal, en su caso, su recepción y la investigación de la veracidad de los datos aportados;
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
@@ -555,13 +557,13 @@ V. Investigar los delitos en materias concurrentes cuando las leyes le otorguen 
 
 VI. Determinar, en funciones de conducción y mando, los hechos concretos, personas, domicilios y demás lugares u objetos que deben ser investigados;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADA, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
-VII. Ordenar a la policía y sus auxiliares, en el ámbito de su competencia, la práctica de actos de investigación conducentes para el esclarecimiento del hecho presuntamente constitutivo de delito, determinar el daño causado y la cuantificación para los efectos de su reparación;
+VII. Ordenar a los agentes de investigación criminal y sus auxiliares, en el ámbito de su competencia, la práctica de actos de investigación conducentes para el esclarecimiento del hecho presuntamente constitutivo de delito, determinar el daño causado y la cuantificación para los efectos de su reparación;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADA, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
-VIII. Instruir y asesorar a la policía, sobre la legalidad, pertinencia y suficiencia de los indicios, evidencias, huellas, objetos, instrumentos o productos del hecho presuntamente constitutivo de delito recolectados o por recolectar, así como las demás actividades de investigación;
+VIII. Instruir y asesorar a los agentes de investigación criminal, sobre la legalidad, pertinencia y suficiencia de los indicios, evidencias, huellas, objetos, instrumentos o productos del hecho presuntamente constitutivo de delito recolectados o por recolectar, así como las demás actividades de investigación;
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
@@ -595,9 +597,9 @@ XVIII. (DEROGADA, P.O. 28 DE MAYO DE 2019)
 
 XIX. Expedir la certificación de documentos o registros que obren en su poder por sí o por medio de sus Agentes del Ministerio Público Auxiliares;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADA, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
-XX. Dirigir a los Policías de Investigación Criminal y al resto de los policías cuando éstos actúen como auxiliares en la investigación y persecución de los hechos que la ley señala como delito, vigilando que los mismos realicen sus actuaciones con pleno respeto a los derechos humanos conforme a los principios establecidos en la presente ley;
+XX. Dirigir a los elementos de la Agencia de Investigación Criminal y al resto de los policías cuando éstos actúen como auxiliares en la investigación y persecución de los hechos que la ley señala como delito, vigilando que los mismos realicen sus actuaciones con pleno respeto a los derechos humanos conforme a los principios establecidos en la presente ley;
 
 > <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
 
@@ -697,9 +699,13 @@ III. Deberá informar mensualmente al Organismo Público Local Electoral sobre l
 
 IV. Igualmente, de forma anual, presentará un informe ante el Comité Coordinador del Sistema Local Anticorrupción, este último sólo en los casos en que exista correlación entre los delitos electorales y posibles actos de corrupción cometidos desde la función pública, un informe sobre actividades sustantivas y sus resultados, el cual será público, en términos de lo previsto en la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables en la materia;
 
-V. Nombrar y remover a los titulares de las Unidades Administrativas de la Fiscalía Especializada en Combate a la Corrupción, con las excepciones establecidas en esta Ley y demás normatividad aplicable, en términos de las políticas y lineamientos sobre la administración de recursos humanos que establezca la Fiscalía General;
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
 
-VI. Contar con agentes del Ministerio Público, agentes de la Policía Ministerial y demás personal del servicio de carrera a que se refiere el artículo 51 de esta Ley, sobre los que ejercerá mando directo en términos de lo dispuesto por esta Ley y el Reglamento Interior de la Fiscalía General;
+V. Nombrar y remover a los titulares de las Unidades Administrativas de la Fiscalía Especializada en Materia de Delitos Electorales, con las excepciones establecidas en esta Ley y demás normatividad aplicable, en términos de las políticas y lineamientos sobre la administración de recursos humanos que establezca la Fiscalía General;
+
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+
+VI. Contar con agentes del Ministerio Público, agentes de investigación criminal y demás personal del servicio de carrera a que se refiere el artículo 51 de esta Ley, sobre los que ejercerá mando directo en términos de lo dispuesto por esta Ley y el Reglamento Interior de la Fiscalía General;
 
 VII. Contar con personal sustantivo, directivo, administrativo y auxiliar debidamente capacitado y que resulte necesario para el cumplimiento de sus funciones, y
 
@@ -715,11 +721,15 @@ I. La Fiscalía Especializada en Combate a la Corrupción tendrá bajo su cargo 
 
 II. La persona titular de la Fiscalía participará como integrante en el Comité Coordinador del Sistema Local de Combate a la Corrupción, atendiendo las bases establecidas en el artículo 127 de la Constitución para el Estado y en la Ley del Sistema Local Anticorrupción del Estado de Nayarit;
 
-III. Igualmente, presentará de forma anual respecto de sus actividades y resultados, mismo que será entregado a los integrantes del Comité Coordinador del Sistema Local Anticorrupción;
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+
+III. Igualmente presentará un informe de forma anual respecto de sus actividades y resultados, a los integrantes del Comité Coordinador del Sistema Local Anticorrupción;
 
 IV. Nombrar y remover a los titulares de las Unidades Administrativas de la Fiscalía Especializada en Combate a la Corrupción, con las excepciones establecidas en esta Ley y demás normatividad aplicable, en términos de las políticas y lineamientos sobre la administración de recursos humanos que establezca la Fiscalía General;
 
-V. Contar con agentes del Ministerio Público, agentes de la Policía Ministerial y demás personal del servicio de carrera a que se refiere el artículo 51 de esta Ley, sobre los que ejercerá mando directo en términos de lo dispuesto por esta Ley y el Reglamento Interior de la Fiscalía General;
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+
+V. Contar con agentes del Ministerio Público, agentes de investigación criminal y demás personal del servicio de carrera a que se refiere el artículo 51 de esta Ley, sobre los que ejercerá mando directo en términos de lo dispuesto por esta Ley y el Reglamento Interior de la Fiscalía General;
 
 VI. Contar con personal sustantivo, directivo, administrativo y auxiliar debidamente capacitado y que resulte necesario para el cumplimiento de sus funciones, y
 
@@ -729,11 +739,11 @@ VII. Las demás que otras leyes y reglamentos establezcan.
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
 ###### Artículo 35.
 
-De conformidad con lo previsto en el artículo 21 de la Constitución Federal, son órganos auxiliares del Ministerio Público en el ejercicio de su función investigadora, la Policía de Investigación Criminal y los servicios periciales.
+De conformidad con lo previsto en el artículo 21 de la Constitución Federal, son órganos auxiliares del Ministerio Público en el ejercicio de su función investigadora, la Agencia de Investigación Criminal y los servicios periciales.
 
 Asimismo, en el ejercicio de sus funciones, fungen como auxiliares del Ministerio Público las autoridades estatales, municipales y las instituciones policiales.
 
@@ -757,23 +767,29 @@ III. Analizar las denuncias recibidas y presentar al Ministerio Público element
 
 IV. Auxiliar al Ministerio Público en la estrategia de investigación a seguir para consolidar la carpeta de investigación, allegándose de todos los medios de prueba necesarios;
 
-V. Trabajar de manera auxiliar con la Policía de Investigación Criminal y Peritos, para la recopilación de medios de pruebas de acuerdo a la estrategia de investigación diseñada por el Ministerio Público y auxiliar a éste en la verificación del cumplimiento de la cadena de custodia, y
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+
+V. Trabajar de manera auxiliar con la Agencia de Investigación Criminal y Peritos, para la recopilación de medios de pruebas de acuerdo a la estrategia de investigación diseñada por el Ministerio Público y auxiliar a éste en la verificación del cumplimiento de la cadena de custodia, y
 
 VI. Las demás que ordene el reglamento interior de la presente ley.
 
-### Capítulo II. De la Policía Nayarit
+### Capítulo II
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+
+De la Agencia de Investigación Criminal
+
+(REFORMADO, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
 ###### Artículo 38.
 
-La Policía de Investigación Criminal es la institución policial cuya función principal es auxiliar al Ministerio Público en el ejercicio de sus funciones de investigación y persecución de los delitos. Adicionalmente, y en los términos previstos en el artículo 21 de la Constitución Federal, la Policía de Investigación Criminal se coordinará con las demás instituciones policiales para cumplir los objetivos de la seguridad pública.
+La Agencia de Investigación Criminal es la institución policial cuya función principal es auxiliar al Ministerio Público en el ejercicio de sus funciones de investigación y persecución de los delitos. Adicionalmente, y en los términos previstos en el artículo 21 de la Constitución Federal, la Agencia de Investigación Criminal se coordinará con las demás instituciones policiales para cumplir los objetivos de la seguridad pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
 ###### Artículo 39.
 
-Para ingresar como elemento de (sic) Policía de Investigación Criminal se requiere:
+Para ingresar como elemento de la Agencia de Investigación Criminal se requiere:
 
 I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos y no tener otra nacionalidad;
 
@@ -793,17 +809,17 @@ VIII. No hacer uso de sustancias psicotrópicas, estupefacientes u otras que pro
 
 IX. Cumplir satisfactoriamente los demás requisitos y procedimientos de ingreso y formación a que se refiere esta ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADO, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
 ###### Artículo 40.
 
-Previo al ingreso como elemento de la Policía de Investigación Criminal se realizará la consulta del aspirante en los Registros del Sistema Nacional de Seguridad Pública y, en su caso, en el Sistema Estatal de Información sobre Seguridad Pública.
+Previo al ingreso como elemento de la Agencia de Investigación Criminal se realizará la consulta del aspirante en los Registros del Sistema Nacional de Seguridad Pública y, en su caso, en el Sistema Estatal de Información sobre Seguridad Pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
 ###### Artículo 41.
 
-Para permanecer como elemento de la Policía de Investigación Criminal se requiere:
+Para permanecer como elemento de la Agencia de Investigación Criminal se requiere:
 
 I. Seguir los programas de actualización y profesionalización que establezcan las disposiciones aplicables;
 
@@ -823,11 +839,11 @@ VIII. No superar la edad máxima de retiro que establezcan las disposiciones apl
 
 IX. Cumplir con los demás requisitos de permanencia que establezcan las disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
 ###### Artículo 42.
 
-Son atribuciones de la Policía de Investigación Criminal:
+Son atribuciones de la Agencia de Investigación Criminal:
 
 I. Practicar detenciones en los casos de flagrancia y cuando el Ministerio Público lo ordene por escrito en ejercicio de sus funciones; así como dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales;
 
@@ -847,11 +863,11 @@ VI. Coadyuvar en coordinación y auxilio de las policías preventivas, las accio
 
 VII. Las demás que le confieran las disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
 ###### Artículo 43.
 
-Los elementos de la Policía de Investigación Criminal tendrán las siguientes obligaciones:
+Los elementos de la Agencia de Investigación Criminal tendrán las siguientes obligaciones:
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2019)</small>
 
@@ -915,13 +931,15 @@ e) Asegurar que puedan llevar a cabo la identificación del imputado sin ningún
 
 XIII. Las demás que le confieran las disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADO, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
 ###### Artículo 44.
 
-Las relaciones jerárquicas en la Policía de Investigación Criminal, su estructura normativa y operativa, su organización territorial, suplencias y las demás atribuciones de mando, dirección, disciplina y en general otros componentes de su régimen interno, serán determinados en las disposiciones reglamentarias que al efecto se emitan, las cuales deberán ser acordes al Modelo Nacional previsto en la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema Estatal de Seguridad Pública, esta ley y su reglamento interior.
+Las relaciones jerárquicas en la Agencia de Investigación Criminal, su estructura normativa y operativa, su organización territorial, suplencias y las demás atribuciones de mando, dirección, disciplina y en general otros componentes de su régimen interno, serán determinados en las disposiciones reglamentarias que al efecto se emitan, las cuales deberán ser acordes al Modelo Nacional previsto en la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema Estatal de Seguridad Pública, esta ley y su reglamento interior.
 
-Cuando algún elemento perteneciente a una corporación policial distinta a la Policía de Investigación Criminal ejerza las funciones que a esta última corresponden conforme a la presente ley, en virtud de la suscripción de un convenio o acuerdo, tendrá el carácter de elemento de la Policía de Investigación Criminal únicamente en lo que corresponde al mando, funciones y disciplina, sin que ello implique desincorporación de su institución de origen.
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+
+Cuando algún elemento perteneciente a una corporación policial distinta a la Agencia de Investigación Criminal ejerza las funciones que a esta última corresponden conforme a la presente ley, en virtud de la suscripción de un convenio o acuerdo, tendrá el carácter de elemento de la Agencia de Investigación Criminal únicamente en lo que corresponde al mando, funciones y disciplina, sin que ello implique desincorporación de su institución de origen.
 
 ### Capítulo III. De los Servicios Periciales
 
@@ -985,17 +1003,17 @@ X. Promover la cooperación en la materia con las Fiscalías Generales o Procura
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADO, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
 ###### Artículo 51.
 
-Sólo se considerarán integrantes del servicio de carrera los Agentes del Ministerio Público, elementos de la Policía de Investigación Criminal y Peritos que hayan ingresado al servicio en términos de los artículos 25, 40 y 46 respectivamente.
+Sólo se considerarán integrantes del servicio de carrera los Agentes del Ministerio Público, elementos de la Agencia de Investigación Criminal y Peritos que hayan ingresado al servicio en términos de los artículos 25, 40 y 46 respectivamente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
 ###### Artículo 52.
 
-El Servicio de Carrera de Procuración de Justicia para los Agentes del Ministerio Público, elementos de la Policía de Investigación Criminal y Peritos, se sujetará enunciativamente a las siguientes bases:
+El Servicio de Carrera de Procuración de Justicia para los Agentes del Ministerio Público, elementos de la Agencia de Investigación Criminal y Peritos, se sujetará enunciativamente a las siguientes bases:
 
 I. Se compondrá de las etapas de ingreso, desarrollo y terminación del servicio en los siguientes términos:
 
@@ -1011,17 +1029,17 @@ III. Tendrá carácter obligatorio y permanente y abarcará los programas, curso
 
 IV. El contenido teórico y práctico de los programas de capacitación, actualización y especialización fomentará que los Agentes del Ministerio Público y sus auxiliares ejerzan sus atribuciones con base en los principios rectores en materia de procuración de justicia y promoverán el efectivo aprendizaje y el pleno desarrollo de los conocimientos y habilidades necesarios para el desempeño del servicio;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADA, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
-V. Contará con un sistema de rotación de Agentes del Ministerio Público, de elementos de la Policía de Investigación Criminal, de Peritos y demás auxiliares del Ministerio Público dentro de la institución;
+V. Contará con un sistema de rotación de Agentes del Ministerio Público, de elementos de la Agencia de Investigación Criminal, de Peritos y demás auxiliares del Ministerio Público dentro de la institución;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADA, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
-VI. Determinará los perfiles, categorías y funciones de los Agentes del Ministerio Público, elementos de la Policía de Investigación Criminal, Peritos y demás auxiliares del Ministerio Público dentro de la institución;
+VI. Determinará los perfiles, categorías y funciones de los Agentes del Ministerio Público, elementos de la Agencia de Investigación Criminal, Peritos y demás auxiliares del Ministerio Público dentro de la institución;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADA, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
-VII. Los ascensos a las categorías superiores del Ministerio Público, de Policía y Perito, se realizarán por concurso de oposición, de conformidad con las disposiciones reglamentarias del servicio de carrera y los acuerdos del Consejo;
+VII. Los ascensos a las categorías superiores del Ministerio Público, de los Agentes de Investigación Criminal y Perito, se realizarán por concurso de oposición, de conformidad con las disposiciones reglamentarias del servicio de carrera y los acuerdos del Consejo;
 
 VIII. Buscará generar el sentido de pertenencia institucional;
 
@@ -1029,11 +1047,11 @@ IX. Contendrá las normas para el registro y el reconocimiento de los certificad
 
 X. Incluirá las normas para el registro de las incidencias del personal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
 ###### Artículo 53.
 
-Para los integrantes de la Policía de Investigación Criminal, el servicio de carrera comprenderá, además, el grado policial, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, se hayan acumulado; se regirá por lo siguiente:
+Para los integrantes de la Agencia de Investigación Criminal, el servicio de carrera comprenderá, además, el grado policial, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, se hayan acumulado; se regirá por lo siguiente:
 
 I. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el Centro Estatal de Control de Confianza y Evaluación del Desempeño previsto en la Ley del Sistema Estatal de Seguridad Pública, conforme al protocolo aprobado por el Centro Nacional de Certificación y Acreditación previsto en la Ley General del Sistema Nacional de Seguridad Pública;
 
@@ -1045,11 +1063,11 @@ IV. Las sanciones que, en su caso, se llegaren a aplicar, se determinarán media
 
 La carrera policial es independiente de los nombramientos para desempeñar cargos administrativos o de dirección que el elemento llegue a desempeñar dentro de la corporación. En ningún caso los derechos adquiridos en la carrera policial implicarán inamovilidad en cargo o sede alguna.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
 ###### Artículo 54.
 
-Para los Agentes del Ministerio Público, elementos de la Policía de Investigación Criminal y Peritos el servicio de carrera tendrá como objetivos:
+Para los Agentes del Ministerio Público, elementos de la Agencia de Investigación Criminal y Peritos el servicio de carrera tendrá como objetivos:
 
 I. Garantizar el desarrollo institucional y asegurar la estabilidad en el servicio, con base en un esquema proporcional y equitativo de remuneraciones y prestaciones para los integrantes;
 
@@ -1079,9 +1097,9 @@ II. El Director General de Investigación Ministerial;
 
 III. (DEROGADA, P.O. 28 DE MAYO DE 2019)
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADA, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
-IV. El Director General de la Policía de Investigación Criminal;
+IV. El Director General de la Agencia de Investigación Criminal;
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
@@ -1099,9 +1117,9 @@ VIII. El Director del Instituto de Capacitación en Procuración de Justicia;
 
 IX. (DEROGADA, P.O. 28 DE MAYO DE 2019)
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADA, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
-X. Dos Agentes del Ministerio Público, dos elementos de la Policía de Investigación Criminal y dos Peritos, miembros del Servicio de Carrera en Procuración de Justicia, nombrados a través de un proceso de insaculación.
+X. Dos Agentes del Ministerio Público, dos elementos de la Agencia de Investigación Criminal y dos Peritos, miembros del Servicio de Carrera en Procuración de Justicia, nombrados a través de un proceso de insaculación.
 
 Cada integrante del Consejo acreditará por escrito al servidor público que en sus ausencias habrá de suplirlo, el cual, ostentará su representación con derecho a voz y voto.
 
@@ -1161,17 +1179,17 @@ VI. Vigilar y eficientar la aplicación de los planes y programas que correspond
 
 VII. Capacitar en materia de investigación científica y técnica a los servidores públicos;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADA, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
-VIII. Proponer y desarrollar los programas de investigación académica, para Agentes del Ministerio Público, elementos de la Policía de Investigación Criminal, Peritos y demás auxiliares del Ministerio Público dentro de la institución, de conformidad con lo dispuesto en la Ley del Sistema Estatal de Seguridad Pública, esta ley y su reglamento;
+VIII. Proponer y desarrollar los programas de investigación académica, para Agentes del Ministerio Público, elementos de la Agencia de Investigación Criminal, Peritos y demás auxiliares del Ministerio Público dentro de la institución, de conformidad con lo dispuesto en la Ley del Sistema Estatal de Seguridad Pública, esta ley y su reglamento;
 
 IX. Diseñar y aplicar el Programa Rector de Profesionalización en el que se establezcan los lineamientos, programas, actividades y contenidos mínimos para la profesionalización del personal de la Fiscalía General;
 
 X. Tramitar los registros, autorizaciones y reconocimientos de los planes y programas de estudio ante las autoridades competentes;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADA, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
-XI. Establecer políticas de profesionalización como un proceso permanente y progresivo de formación integrado por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los Agentes del Ministerio Público, elementos de la Policía de Investigación Criminal, Peritos y demás auxiliares del Ministerio Público dentro de la institución, y
+XI. Establecer políticas de profesionalización como un proceso permanente y progresivo de formación integrado por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los Agentes del Ministerio Público, elementos de la Agencia de Investigación Criminal, Peritos y demás auxiliares del Ministerio Público dentro de la institución, y
 
 XII. La demás que le correspondan en términos de las disposiciones aplicables.
 
@@ -1333,11 +1351,11 @@ XIX. Las demás que deriven de la presente ley y las disposiciones aplicables.
 
 Se considerarán como incumplimiento grave de obligaciones las previstas en las fracciones IV, VI, XII, XVI y XVII.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
 ###### Artículo 73.
 
-Los elementos de la Policía de Investigación Criminal, además de las obligaciones señaladas en el artículo anterior, tendrán las siguientes:
+Los elementos de la Agencia de Investigación Criminal, además de las obligaciones señaladas en el artículo anterior, tendrán las siguientes:
 
 I. Registrar lo conducente en el informe policial homologado;
 
@@ -1577,15 +1595,15 @@ II. Arresto hasta por treinta y seis horas, y
 
 III. Retención en el servicio.
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADO, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
-Los correctivos disciplinarios previstos en las fracciones II y III únicamente se podrán imponer a los elementos de la Policía de Investigación Criminal.
+Los correctivos disciplinarios previstos en las fracciones II y III únicamente se podrán imponer a los elementos de la Agencia de Investigación Criminal.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADO, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
 ###### Artículo 89.
 
-El arresto consiste en la internación del elemento de policía en el lugar destinado para tales efectos, el cual deberá ser distinto al que corresponda a los imputados, con pleno respeto a sus derechos humanos.
+El arresto consiste en la internación del elemento de la Agencia de Investigación en el lugar destinado para tales efectos, el cual deberá ser distinto al que corresponda a los imputados, con pleno respeto a sus derechos humanos.
 
 ###### Artículo 90.
 
@@ -1603,11 +1621,11 @@ El procedimiento para la imposición de sanciones se iniciará de oficio, por de
 
 Las quejas o denuncias que se formulen, deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para presumir la responsabilidad del servidor público denunciado.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADO, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
 ###### Artículo 93.
 
-El Órgano Interno de Control será competente para iniciar de oficio, por queja, denuncia o solicitud, el procedimiento sancionador en contra de los servidores públicos de la Fiscalía General, excepto contra los elementos de la Policía de Investigación Criminal; para el caso de estos últimos el ente encargado de sustanciar el procedimiento sancionador, será el Consejo Técnico de Carrera Policial.
+El Órgano Interno de Control será competente para iniciar de oficio, por queja, denuncia o solicitud, el procedimiento sancionador en contra de los servidores públicos de la Fiscalía General, excepto contra los elementos de la Agencia de Investigación Criminal; para el caso de estos últimos el ente encargado de sustanciar el procedimiento sancionador, será el Consejo Técnico de Carrera Policial.
 
 ###### Artículo 94.
 
@@ -1617,9 +1635,9 @@ Para los efectos conducentes, el Consejo Técnico de Carrera Policial de la Fisc
 
 I. Un Presidente, que será el Titular del Órgano Interno de Control;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+(REFORMADA, P.O. 28 DE MAYO DE 2019) (F. DE E., P.O. 28 DE JUNIO DE 2019)
 
-II. El Director General de la Policía de Investigación Criminal, y
+II. El Director General de la Agencia de Investigación Criminal, y
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
@@ -1929,7 +1947,9 @@ P.O. 28 DE MAYO DE 2019.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
-SEGUNDO. Los órganos o unidades contemplados en la presente ley y los que cambien de denominación en la Fiscalía General al momento de la entrada en vigor del presente decreto, seguirán desarrollando sus funciones y atribuciones, conforme a sus decretos o acuerdos de creación, así como las previstas en la Ley Orgánica de la Fiscalía General del Estado, hasta en tanto se emita el Reglamento Interior.
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2019)</small>
+
+SEGUNDO. Los órganos, unidades y demás áreas administrativas que actualmente se encuentren en funciones y que modifiquen su configuración orgánica interna con la entrada en vigor del presente decreto, seguirán desarrollando sus funciones y atribuciones, hasta en tanto se emita el Reglamento Interior.
 
 TERCERO. En el proceso de transición del personal a la Fiscalía General deberá llevarse a cabo conforme a los siguientes lineamientos:
 
