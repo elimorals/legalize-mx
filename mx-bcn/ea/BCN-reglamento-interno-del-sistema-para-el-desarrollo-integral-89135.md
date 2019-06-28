@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-sistema-para-el-desarrollo-integral-8913
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-29"
-last_updated: "2012-06-29"
+last_updated: "2019-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 28 DE JUNIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja california, el viernes 29 de junio de 2012.
 
@@ -958,3 +960,35 @@ GOBERNADOR DEL ESTADO
 CUAUHTEMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interno del Sistema para el Desarrollo Integral de la Familia de Baja California, publicado en el Periódico Oficial del Estado de fecha 29 de junio de 2012.
+
+###### ARTÍCULO TERCERO.
+
+En tanto no se expidan los Manuales Administrativos que este Reglamento menciona, el Director General queda facultado para resolver los asuntos que conforme a dichos Manuales se deban regular.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que hasta antes de la entrada en vigor del presente Reglamento Interno, se estuvieran substanciando en las Unidades Administrativas que en virtud de este Ordenamiento se modifican en la estructura del Sistema para el Desarrollo Integral de la Familia, deberán turnarse de inmediato a las unidades administrativas que para efectos del mismo resulten competentes para la continuación de su trámite.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones del Órgano Interno de Control continuarán ejerciéndose por conducto del área o servidor público que actualmente las desempeñe, hasta en tanto no se gestionen y autoricen las modificaciones presupuestales necesarias para dar cumplimiento a lo previsto en el artículo 27 de la presente reforma, lo cual no podrá excederse del término del mes de junio del ejercicio fiscal 2019.
+
+En el supuesto anterior, las funciones de autoridad substanciadora, se llevarán a cabo conjuntamente con la unidad administrativa competente de la Secretaría de la Contraloría y Transparencia Gubernamental, sin que dicha colaboración pueda extenderse más allá del término del mes de junio del ejercicio fiscal2019.
+
+En cualquier caso, su funcionamiento de conformidad a la Ley de Responsabilidades Administrativas del Estado de Baja California iniciará a más tardar al término del mes de junio de 2019.
+
+De conformidad con lo dispuesto por el artículo 49, fracción I, de la Constitución Política del Estado Libre y Soberano de Baja California, imprímase y publíquese el presente Reglamento Interno para su debido cumplimiento y observancia.
