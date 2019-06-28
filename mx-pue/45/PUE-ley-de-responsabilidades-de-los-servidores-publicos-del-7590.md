@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-responsabilidades-de-los-servidores-publicos-del-7590"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-29"
-last_updated: "2017-12-29"
+last_updated: "2019-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Puebla, el viernes 29 de junio de 1984.
 
@@ -155,7 +155,9 @@ I.- El ataque a las Instituciones Democráticas;
 
 II.- El ataque a la forma de Gobierno Republicano, Representativo y Popular del Estado, así como a la organización política y administrativa de los Municipios;
 
-III.- Las violaciones graves y sistemáticas a las garantías individuales o sociales;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2019)</small>
+
+III.- Las violaciones graves a los derechos humanos y sus garantías;
 
 IV.- El ataque a la libertad de sufragio;
 
@@ -710,3 +712,13 @@ SEGUNDO. Los procedimientos legales, administrativos y demás asuntos en materia
 TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto; y demás disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla que contravengan la Ley General de Responsabilidades Administrativas.
 
 CUARTO. Las referencias, remisiones o contenidos establecidos en las disposiciones legales, reglamentarias o administrativas, estatales o municipales, que estén vinculadas con las disposiciones que por este Decreto se derogan, se entenderán vinculadas o referidas, con las disposiciones relativas de la Ley General de Responsabilidades Administrativas, sin perjuicio de lo señalado en el Transitorio Segundo del presente Decreto.
+
+P.O. 28 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 9 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. La Secretaría de Finanzas y Administración del Gobierno del Estado, prevendrá las erogaciones presupuestales que deriven de la aplicación de este Decreto.
