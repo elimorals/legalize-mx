@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-transformacion-industrial-117780"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-12-30"
-last_updated: "2018-04-30"
+last_updated: "2019-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117780&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-12-22"
 ---
 # ESTATUTO ORGANICO DE PEMEX TRANSFORMACION INDUSTRIAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL, INFORMACIÓN OBTENIDA DE: www.pemex.com/acerca/marco_normativo/Documents/estatutos/eoptr_201907.pdf Y www.dof.gob.mx/2019/PEMEX/eoptr_201907.pdf PUBLICADO EN EL D.O.F. DE 28 DE JUNIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO]</small>
+
 ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE JUNIO DE 2019 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de diciembre de 2016.
 
@@ -2666,3 +2668,47 @@ PRIMERO. Las presentes modificaciones al Estatuto Orgánico de Pemex Transformac
 SEGUNDO. La estructura orgánica básica autorizada se remitirá, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Petróleos Mexicanos. La implementación de dicha estructura se realizará mediante movimientos compensados, que no impliquen incremento al presupuesto global de servicios personales.
 
 Las presentes modificaciones al Estatuto Orgánico de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Transformación Industrial, fueron aprobadas por el Consejo de Administración de Pemex Transformación Industrial, con fundamento en el artículo 12, fracción VI, del Acuerdo de Creación de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Transformación Industrial, en sesión 15 ordinaria celebrada el día 13 de abril de 2018, mediante acuerdo número CAEPS-PTRI-004/2018.
+
+D.O.F. 28 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL QUE SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁ SER CONSULTADO EL ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL".]
+
+PRIMERO. El presente Estatuto entrará en vigor el 1 de julio de 2019.
+
+SEGUNDO. Se abroga el Estatuto Orgánico de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Transformación Industrial, publicado en el Diario Oficial de la Federación el día 30 de diciembre de 2016.
+
+TERCERO. La estructura orgánica básica autorizada se remitirá, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Petróleos Mexicanos.
+
+CUARTO. Los titulares de las áreas de Pemex Transformación Industrial deberán colaborar y coordinarse con los titulares de las áreas de Petróleos Mexicanos, para realizar las acciones, trámites, actos y demás aspectos necesarios, con el propósito de dar continuidad a la operación y funcionamiento de la citada Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos.
+
+QUINTO. Sin perjuicio del cambio de denominaciones y reubicación organizacional de las áreas a que se refiere el presente Estatuto, los poderes, mandatos y, en general, las representaciones otorgadas y las facultades conferidas por los entonces Organismos Subsidiarios Pemex-Exploración y Producción, Pemex-Refinación, Pemex-Gas y Petroquímica Básica y Pemex-Petroquímica, y por la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Transformación Industrial, con anterioridad a la entrada en vigor de este Estatuto, subsistirán en sus términos en tanto no sean modificados o revocados expresamente. De ser necesario, las áreas correspondientes de Pemex Transformación Industrial deberán realizar las gestiones necesarias ante la Dirección Jurídica para el otorgamiento y revocación de los poderes conducentes.
+
+SEXTO. Los contratos, convenios y actos jurídicos vigentes con anterioridad a la entrada en vigor del presente Estatuto, se respetarán en los términos pactados, salvo que se convenga lo contrario. Tratándose de los procedimientos de contratación que se encuentren en trámite, se concluirán por las áreas competentes de Petróleos Mexicanos con el apoyo y participación en lo que corresponda de las áreas de Pemex Transformación Industrial.
+
+SÉPTIMO. Los lineamientos, políticas, bases, criterios y demás disposiciones emitidas con anterioridad a la entrada en vigor del presente Estatuto, por cualquier órgano o área de Petróleos Mexicanos, sus Empresas Productivas Subsidiarias, así como los entonces organismos subsidiarios Pemex-Exploración y Producción, Pemex-Refinación, Pemex-Gas y Petroquímica Básica y Pemex-Petroquímica, continuarán siendo aplicables en lo que no se opongan a la Ley de Petróleos Mexicanos, su Reglamento, al presente Estatuto, y demás disposiciones aplicables, hasta en tanto se determine su modificación o se dejen sin efecto.
+
+OCTAVO. Para efectos de la integración de los grupos de trabajo de Pemex Transformación Industrial por las áreas que se reubican o desaparecen por la entrada en vigor del presente Estatuto, la asumirán aquéllas a las que se les atribuyen las funciones por virtud (sic) este Estatuto, sin perjuicio que, con posterioridad, se realicen los nombramientos o designaciones respectivas y se modifique la normatividad aplicable en cada caso.
+
+NOVENO. Las referencias que se hagan en otros instrumentos a las áreas que desaparecen o cuya denominación se modifica, se entenderán hechas a las áreas a las que se atribuyen las funciones conforme al presente Estatuto.
+
+DÉCIMO. Los asuntos, procedimientos, trámites o instrumentos de cualquier naturaleza que se hayan iniciado por las áreas que se reubican o desaparecen, deberán continuarse hasta su conclusión por las áreas que asumen las funciones conforme a este Estatuto.
+
+DÉCIMO PRIMERO. Los titulares de las áreas de Pemex Transformación Industrial deberán atender a la definición de los casos, criterios, formatos y plazos en los que deba realizarse la entrega de recursos, información y documentación, derivado de la reubicación o desaparición de las áreas de la estructura orgánica básica de Pemex Transformación Industrial que emita la Auditoría Interna, así como participar en los actos de entrega y recepción, con motivo de la entrada en vigor del presente Estatuto.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL AVISO POR EL QUE SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁ SER CONSULTADO EL ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL.]</small>
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Gobierno de México.- Petróleos Mexicanos.
+
+EL CONSEJO DE ADMINISTRACIÓN DE PEMEX TRANSFORMACIÓN INDUSTRIAL, con fundamento en el artículo 12, fracción VI, del Acuerdo de Creación de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Transformación Industrial, aprobó el Estatuto Orgánico de Pemex Transformación Industrial, en sesión 27 Extraordinaria celebrada el día 24 de junio de 2019, mediante acuerdo número CAEPS-PTRI-019/2019.
+
+El Estatuto Orgánico de Pemex Transformación Industrial tiene por objeto establecer la estructura y organización básica y las funciones de las distintas áreas que integran Pemex Transformación Industrial, así como los directivos o personal de confianza que tendrán la representación de la misma y aquellos que podrán otorgar poderes en nombre de la empresa y las reglas para el funcionamiento de su Consejo de Administración.
+
+En ese sentido, se expide el siguiente:
+
+AVISO POR EL QUE SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁ SER CONSULTADO EL ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL Y SU APROBACIÓN:
+
+www.pemex.com/acerca/marco_normativo/Documents/estatutos/eoptr_201907.pdf
+
+www.dof.gob.mx/2019/PEMEX/eoptr_201907.pdf
+
+Ciudad de México, a 25 de junio de 2019.- La Subdirectora de Consultoría Jurídica Suplente por ausencia del Director Jurídico mediante oficio DG/516/2018, Luz María Zarza Delgado.- Rúbrica.
