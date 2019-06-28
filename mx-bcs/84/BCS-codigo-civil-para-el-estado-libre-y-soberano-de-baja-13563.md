@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2018-11-10"
+last_updated: "2019-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE JUNIO DE 2019.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -909,27 +909,43 @@ La sentencia que cause ejecutoria en el juicio en que se impugnó una acta del R
 
 ## TÍTULO QUINTO. Del matrimonio
 
-### CAPÍTULO l. Disposiciones generales
+### CAPÍTULO I. Disposiciones generales
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 10 DE JULIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE JUNIO DE 2019)</small>
 
 ###### Artículo 150.
 
-El matrimonio es la unión legítima de un solo hombre y una sola mujer, con el propósito expreso de integrar una familia mediante la cohabitación doméstica y sexual, el respeto y protección recíprocos, así como la eventual perpetuación de la especie la cual tiene los siguientes fines:
+El Matrimonio es la unión libre de dos personas para realizar la comunidad de vida, en donde ambos se procuran respeto, igualdad y ayuda mutua, mediante la cohabitación doméstica y sexual. Debe celebrarse ante el Oficial del Registro Civil y con las formalidades que estipule el presente código, bajo estos principios:
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 10 DE JULIO DE 2000)</small>
 
 I.- Es libremente electo, tanto por lo que corresponde a su celebración, como a la persona con quien se contrae;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 10 DE JULIO DE 2000)</small>
+
 II.- Los cónyuges conservarán en todo tiempo la libertad para determinar la totalidad de los aspectos concernientes a su relación matrimonial, dado que los vínculos que derivan de la unión, son exclusivos de la pareja;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 10 DE JULIO DE 2000)</small>
 
 III.- Con el matrimonio se funda legalmente la familia, que es la comunidad establecida naturalmente para la diaria convivencia;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 10 DE JULIO DE 2000)</small>
+
 IV.- La estabilidad de la familia, base de las instituciones sociales, contribuyen (sic) a la armonía social;
 
-V.- En las relaciones conyugales tiene manifestación la complementariedad de los seres humanos en los aspectos afectivo biológico, ningún cónyuge es superior al otro y con la unión se hace posible el desarrollo de la potencialidad humana;
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 10 DE JULIO DE 2000)</small>
+
+V.- En las relaciones conyugales tiene manifestación la complementariedad de los seres humanos en los aspectos afectivo y biológico, ningún cónyuge es superior al otro y con la unión se hace posible el desarrollo de la potencialidad humana;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 10 DE JULIO DE 2000)</small>
 
 VI.- La familia constituye el medio natural para el desarrollo de las interrelaciones de responsabilidad y solidaridad humana;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 10 DE JULIO DE 2000)</small>
+
 VII.- En la familia debe buscarse el afecto y la fidelidad, así como darse apoyo recíproco; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 10 DE JULIO DE 2000)</small>
 
 VIII.- El afecto familiar es reconocido como una dignidad, no como un sometimiento de un ser a otro, sino como un perfecto entendimiento sobre los valores de existencia humana.
 
@@ -959,11 +975,11 @@ Tratándose de mexicanos que se casen en el extranjero, pero que tengan o fijen 
 
 ### CAPÍTULO II. De los requisitos para contraer matrimonio
 
-> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2019)</small>
 
 ###### Artículo 157.
 
-Para contraer matrimonio el hombre y la mujer deben tener 18 años cumplidos.
+Para contraer matrimonio ambos contrayentes deben tener 18 años cumplidos.
 
 ###### Artículo 158.
 
@@ -1071,21 +1087,25 @@ Los bienes propios de los cónyuges, así como sus productos, sueldos o emolumen
 
 Los cónyuges podrán desempeñar libremente cualquier actividad lícita. Cualquiera de ellos podrá oponerse a que el otro desempeñe un trabajo infamante o contra la moral, planteando el conflicto al Juez competente del domicilio conyugal.
 
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2019)</small>
+
 ###### Artículo 173.
 
-El marido y la mujer mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin necesidad de autorización del otro cónyuge, salvo en los actos de administración o de disposición de los bienes comunes en que se requiera el consentimiento de ambos.
+Los cónyuges mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin necesidad de autorización del otro cónyuge, salvo en los actos de administración o de disposición de los bienes comunes en que se requiera el consentimiento de ambos.
 
 ###### Artículo 174.
 
-El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
+(DEROGADO, B.O. 28 DE JUNIO DE 2019)
 
 ###### Artículo 175.
 
 El contrato de compraventa sólo puede celebrarse entre cónyuges, cuando el matrimonio esté sujeto al régimen de separación de bienes.
 
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2019)</small>
+
 ###### Artículo 176.
 
-Durante el matrimonio, el marido y la mujer podrán ejercitar los derechos y acciones que tengan el uno en contra del otro, pero la prescripción no corre entre ellos mientras dure el vínculo.
+Durante el matrimonio, los cónyuges podrán ejercitar los derechos y acciones que tengan el uno en contra del otro, pero la prescripción no corre entre ellos mientras dure el vínculo.
 
 ### CAPÍTULO V. Del contrato de matrimonio en relación con los bienes
 
@@ -1213,7 +1233,7 @@ El dominio y posesión de los bienes comunes reside en ambos cónyuges, mientras
 
 ###### Artículo 194.
 
-Cuando los cónyuges durante la vigencia de su matrimonio, adquieran bienes inmuebles, será obligación de los notarios públicos hacer constar en la escritura correspondiente, si éstos son adquiridos por uno sólo de ellos y forman parte de su patrimonio exclusivo o en su caso, si forman parte de la sociedad conyugal, de conformidad a lo dispuesto en las capitulaciones matrimoniales respectivas, o en su caso, a las reglas supletorias contenidas en el Capítulo VI de este Título.
+Cuando los cónyuges durante la vigencia de su matrimonio, adquieran bienes inmuebles, será obligación de los notarios públicos hacer constar en la escritura correspondiente, si éstos son adquiridos por uno sólo de ellos y forman parte de su patrimonio exclusivo o en su caso, si forman parte de la sociedad conyugal, de conformidad a lo dispuesto en las capitulaciones matrimoniales respectivas o en su caso, a las reglas supletorias contenidas en el Capítulo VI de este Título.
 
 Ninguna enajenación o gravamen de los bienes sociales que haga un cónyuge en contravención de la ley o en fraude del otro, perjudicará a éste o a sus herederos, pero se observará lo dispuesto en el Título Segundo, de la Tercera Parte del Libro Cuarto de este Código, respecto de los adquirentes de buena fe.
 
@@ -1335,17 +1355,21 @@ Serán también propios de cada uno de los consortes los salarios, sueldos, emol
 
 Los bienes que los cónyuges adquieran en común por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, mientras se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro, pero en este caso, el que administre será considerado como mandatario.
 
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2019)</small>
+
 ###### Artículo 218.
 
-Ni el marido podrá cobrar a la mujer, ni ésta a aquél, retribución u honorario alguno por los servicios personales que le prestare, o por los consejos o asistencia que le diere.
+Los cónyuges no podrán cobrarse el uno al otro retribución u honorario alguno por los servicios personales que se prestaren o por los consejos o asistencia que se dieren.
 
 ###### Artículo 219.
 
 El marido y la mujer que ejerzan la patria potestad sobre sus hijos, se dividirán entre sí, por partes iguales, la mitad del usufructo que la ley les concede, correspondiendo la otra mitad a los menores sujetos a la patria potestad.
 
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2019)</small>
+
 ###### Artículo 220.
 
-El marido y la mujer responden entre sí, por los daños y perjuicios que se causen por dolo, culpa o negligencia.
+Los cónyuges responden entre sí, por los daños y perjuicios que se causen por dolo, culpa o negligencia.
 
 ### CAPÍTULO X. De las donaciones antenupciales
 
@@ -1485,7 +1509,7 @@ El vínculo de un matrimonio anterior, existente al tiempo de contraerse el segu
 
 ###### Artículo 250.
 
-La nulidad que se funde en la1 (sic) falta de formalidades esenciales para la validez del matrimonio, puede alegarse por los cónyuges y por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esa nulidad a instancia del Ministerio Público.
+La nulidad que se funde en la 1 (sic) falta de formalidades esenciales para la validez del matrimonio, puede alegarse por los cónyuges y por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esa nulidad a instancia del Ministerio Público.
 
 ###### Artículo 251.
 
@@ -1579,7 +1603,7 @@ Es ilícito, pero no nulo, el matrimonio:
 
 > <small>(F. DE E., B.O. 31 DE JULIO DE 2014)</small>
 
-I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
+I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa; y
 
 > <small>(REFORMADA, B.O. 30 DE JUNIO DE 2014)</small>
 
@@ -2363,7 +2387,7 @@ Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revela
 
 ###### Artículo 383.
 
-Las palabras que contengan la revelación del nombre del progenitor, o datos que puedan servir a identificarlo, se testarán de oficio o a solicitud de parte interesada, por la autoridad o notario que hayan dado fe del reconocimiento, de modo que queden absolutamente ilegibles.
+Las palabras que contengan la revelación del nombre del progenitor o datos que puedan servir a identificarlo, se testarán de oficio o a solicitud de parte interesada, por la autoridad o notario que hayan dado fe del reconocimiento, de modo que queden absolutamente ilegibles.
 
 ###### Artículo 384.
 
@@ -2501,7 +2525,7 @@ IV.- A las demás funciones protectoras, afectivas y normativas derivadas de la 
 
 ###### Artículo 410.
 
-La adopción es el estado jurídico mediante el cual se confiere al adoptado, la situación de hijo del o de los adoptantes y a éstos, los deberes inherentes a la relación paterno-filial.
+La adopción es el estado jurídico mediante el cual se confiere al adoptado la situación de hijo del o de los adoptantes y a éstos, los deberes inherentes a la relación paterno-filial.
 
 ###### Artículo 411.
 
@@ -3005,7 +3029,7 @@ III.- Por renuncia.
 
 ###### Artículo 502.
 
-Las personas que ejercen la patria potestad tienen obligación de dar cuenta de la administración de los bienes de los hijos, cuando estos lleguen a la mayoría de edad, o cuando el cónyuge que no administra lo exija.
+Las personas que ejercen la patria potestad tienen obligación de dar cuenta de la administración de los bienes de los hijos, cuando estos lleguen a la mayoría de edad o cuando el cónyuge que no administra lo exija.
 
 ###### Artículo 503.
 
@@ -4915,7 +4939,7 @@ Es poseedor de buena fe el que entra en la posesión en virtud de un título suf
 
 Es poseedor de mala fe el que entra a la posesión sin título alguno para poseer; lo mismo que el que conoce los vicios de su título que le impiden poseer con derecho.
 
-Para efectos de esté artículo, se entiende por título la causa generadora de la posesión.
+Para efectos de esté articulo, se entiende por título la causa generadora de la posesión.
 
 ###### Artículo 815.
 
@@ -13657,7 +13681,7 @@ El nombramiento de los socios administradores no priva a los demás socios del d
 
 ###### Artículo 2625.
 
-El nombramiento de los socios administradores, hecho en la escritura de sociedad, no podrán revocarse sin el consentimiento de todos los socios, a no ser judicialmente, por dolo, culpa o inhabilidad.
+El nombramiento de los socios administradores, hecho en la escritura de sociedad, no podrán (sic) revocarse sin el consentimiento de todos los socios, a no ser judicialmente, por dolo, culpa o inhabilidad.
 
 El nombramiento de administradores, hecho después de constituida la sociedad, es revocable por mayoría de votos.
 
@@ -15737,13 +15761,13 @@ DIP. LIC. MARÍA JUANA HERNÁNDEZ PAULARENA
 
 SECRETARIA.
 
-EN CUMPLIMIENTO A LO DISPUESTO POR LA FRACCION II DEL ARTICULO 79 DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR, Y PARA LA DEBIDA PUBLICACION Y OBSERVANCIA SE EXPIDE EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO, A LOS DIECINUEVE DÍAS DEL MES DE JULIO DE MIL NOVECIENTOS NOVENTA Y SEIS.
+EN CUMPLIMIENTO A LO DISPUESTO POR LA FRACCION II DEL ARTICULO 79 DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR, Y PARA LA DEBIDA PUBLICACION Y OBSERVANCIA SE EXPIDE EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO, A LOS DIECINUEVE DIAS DEL MES DE JULIO DE MIL NOVECIENTOS NOVENTA Y SEIS.
 
-EL GOBERNADOR CONSTITUCIONAL DE ESTADO DE BAJA CALIFORNIA SUR
+EL GOBERNADOR CONSTITUCIONAL DE ESTADO DE BAJA CALIFORNIA SUR.
 
-LIC. GUILLERMO MERCADO ROMERO
+LIC. GUILLERMO MERCADO ROMERO.
 
-SECRETARIO GENERAL DE GOBIERNO
+SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RAUL ANTONIO ORTEGA SALGADO
 
@@ -15879,7 +15903,7 @@ B.O. 20 DE AGOSTO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2363 SE REFORMAN LAS FRACCIONES VI Y VII; Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 25 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR; SE REFORMAN LOS ARTÍCULOS 1°, 2° FRACCIONES I, II, III, VI, VII, VIII, IX, XI, XIII, XIV Y XV, PRIMER PÁRRAFO DEL 4°, PRIMER PÁRRAFO DEL 5°, 6°, 21, PRIMER PÁRRAFO DEL 32, 33, FRACCIÓN II DEL 35, 36, LA FRACCIÓN I, PRIMER PÁRRAFO DE LA FRACCIÓN X Y LA FRACCIÓN XVI DEL 40, PRIMER PÁRRAFO DEL 41, PRIMER PÁRRAFO DE LA FRACCIÓN IX DEL 44, SEGUNDO Y CUARTO PÁRRAFO DEL 47, 48, 50 LA DENOMINACIÓN DEL TÍTULO QUINTO, LA IDENTIFICACIÓN Y DENOMINACIÓN DEL CAPÍTULO ÚNICO DEL TÍTULO QUINTO, LOS ARTÍCULOS 67 Y 70; SE ADICIONAN LAS FRACCIONES VIII BIS Y XI BIS AL ARTÍCULO 2°, UNA FRACCIÓN IV AL ARTÍCULO 5°, UN ARTÍCULO 32 BIS, EL CAPÍTULO II AL TÍTULO QUINTO, Y LOS ARTÍCULOS 61 BIS, 61 TER, 61 QUATER Y 61 QUINQUIES A LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DEL ESTADO DE BAJA CALIFORNIA SUR".]
 
-PRIMERO.- El presente Decreto entrara en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+PRIMERO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -15913,7 +15937,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- En los juicios de divorcio necesario que se encuentren pendientes de resolver, en primera o segunda instancia, será potestativo para cualquiera de las partes, solicitar a la autoridad judicial del conocimiento la disolución del vínculo matrimonial que más les beneficie; de ser así, el Juez o Magistrado respectivo, procederá conforme a las disposiciones del presente decreto.
 
-Si existe otra pretensión en los juicios pendientes de resolución, distinta a la disolución del vinculo matrimonial, como pudiera ser la guarda y custodia de los hijos, el régimen de convivencia con el padre no custodio, los alimentos, consecuencias patrimoniales del divorcio o alguna otra cuestión semejante que hubiere sido planteada o deba resolverse de oficio, el juzgador seguirá el trámite del juicio en relación a estos puntos litigiosos conforme a las disposiciones aplicables y anteriores al presente decreto, hasta resolver en definitiva según corresponda, sin perjuicio de que se decrete la disolución del vínculo matrimonial sin analizar las causales de divorcio invocadas, una vez que sea solicitado por cualquiera de las partes.
+Si existe otra pretensión en los juicios pendientes de resolución, distinta a la disolución del vínculo matrimonial, como pudiera ser la guarda y custodia de los hijos, el régimen de convivencia con el padre no custodio, los alimentos, consecuencias patrimoniales del divorcio o alguna otra cuestión semejante que hubiere sido planteada o deba resolverse de oficio, el juzgador seguirá el trámite del juicio en relación a estos puntos litigiosos conforme a las disposiciones aplicables y anteriores al presente decreto, hasta resolver en definitiva según corresponda, sin perjuicio de que se decrete la disolución del vínculo matrimonial sin analizar las causales de divorcio invocadas, una vez que sea solicitado por cualquiera de las partes.
 
 > <small>(ADICIONADO, B.O. 20 DE MARZO DE 2017)</small>
 
@@ -15994,3 +16018,15 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
 
 TERCERO.- El Ejecutivo del Estado propondrá al Congreso del Estado, los ajustes presupuestales que correspondan en el Proyecto de Modificación al Presupuesto de Egresos del Ejercicio Fiscal 2018. Asimismo, hará las previsiones presupuestales que correspondan para el Ejercicio Fiscal 2019 y subsecuentes.
+
+B.O. 28 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2624 SE DEROGA EL ARTÍCULO 174 Y SE REFORMAN LOS ARTÍCULOS 150, 157, 173, 176, 218 Y 220 TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
