@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-gasto-publico-y-responsabilidad-104146"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2018-12-10"
+last_updated: "2019-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2014.
 
@@ -65,7 +65,9 @@ IV.- Los Órganos Autónomos;
 
 V.- Los Municipios, sus Dependencias y Entidades del Municipio que conforman la administración pública municipal; y
 
-VI.- Los fideicomitentes de los fideicomisos no considerados como parte de las Entidades del Ejecutivo, o del Municipio, así como, los fideicomitentes de dichos fideicomisos, cuando dentro de los fines de estos fideicomisos contemplen la constitución de otros fideicomisos análogos.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2019)</small>
+
+VI.- Los fideicomitentes de los fideicomisos no considerados como parte de las Entidades del Ejecutivo, o del Municipio; así como, los fideicomitentes de dichos fideicomisos, cuando dentro de los fines de estos fideicomisos contemplen la constitución de otros fideicomisos análogos y sean los fideicomitentes quienes ejerzan el control sobre la administración, decisiones y acciones del fideicomiso en el destino, aplicación y ejercicio del Gasto Público, en caso contrario se considerarán como sujetos de la Ley, a los comités técnicos, subcomités, órganos análogos o cualquiera de los sujetos a que se refieren las Fracciones I, II, III, IV y V de este Artículo, que ejerzan las funciones de control a que se refiere esta Fracción.
 
 ###### Artículo 3°.
 
@@ -99,6 +101,10 @@ XII.- Dependencias del Ejecutivo: Las definidas como tales en la Ley Orgánica d
 
 XIII.- Dependencias del Municipio: Las Dependencias de la administración pública municipal, que en cada caso acuerde el Cabildo a propuesta del Presidente Municipal, las que estarán subordinadas a este servidor público, en los términos que marca Ley Municipal para el Estado de Aguascalientes;
 
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2019)</small>
+
+XIII A.- Disponibilidades: los recursos provenientes de los ingresos que durante los ejercicios fiscales anteriores no fueron pagados ni devengados para algún rubro del gasto presupuestado, excluyendo a las Transferencias federales etiquetadas;
+
 XIV.- Disponibilidad Presupuestaria: Los recursos públicos que disponen los Ejecutores de Gasto en virtud de las Asignaciones Presupuestales previstas en el Presupuesto de Egresos, hasta que son aplicados o ejercidos a los conceptos de gasto correspondientes;
 
 XV.- Ejecutores de Gasto: Las Dependencias y Entidades del Poder Ejecutivo, Legislativo y Judicial, los Órganos Autónomos, todos del Estado de Aguascalientes, así como los Municipios y sus correspondientes Dependencias y Entidades que ejerzan Gasto Público;
@@ -107,7 +113,9 @@ XVI.- Ejecutores de Gasto del Estado: Los Poderes Ejecutivo, Legislativo y Judic
 
 XVII.- Ejecutores de Gasto del Municipio: Las Dependencias y Entidades que forman parte de la Administración Pública Municipal, conforme a lo establecido por la Ley Municipal para el Estado de Aguascalientes;
 
-XVIII.- Entidades del Ejecutivo: Los organismos públicos descentralizados, incluyendo universidades públicas, empresas de participación estatal mayoritaria y fideicomisos públicos mencionados en el Artículo 4° de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, mismos que son objeto de control presupuestario indirecto por parte de la Secretaría;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2019)</small>
+
+XVIII.- Entidades del Ejecutivo: Los organismos públicos descentralizados, incluyendo universidades públicas, empresas de participación estatal mayoritaria y fideicomisos públicos mencionados en el Artículo 5° de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, mismos que son objeto de control presupuestario indirecto por parte de la Secretaria;
 
 XIX.- Entidades del Municipio: Las Entidades de la administración pública municipal, que en cada caso acuerde el Cabildo a propuesta del Presidente Municipal, las que estarán subordinadas a este servidor público, en los términos que marca (sic) Ley Municipal para el Estado de Aguascalientes;
 
@@ -949,13 +957,15 @@ Una vez concluido el ejercicio fiscal en el cual se generaron las economías gen
 
 La Secretaría en su carácter de fideicomitente único de la Administración Pública Centralizada, constituirá, mediante fideicomiso irrevocable, un fondo que permita mayor estabilidad financiera en las finanzas públicas del Gobierno del Estado, que se denominará Fondo de Estabilización, el cual no será considerado como Entidad del Ejecutivo, cuyo patrimonio se integrará con los recursos que provengan:
 
-I.- De los diversos conceptos en los términos del Artículo 49 de la Ley;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
+I.- De los diversos conceptos en los términos de los Artículos 41 y 49 de la Ley;
 
-II.- De las Entidades del Ejecutivo en los términos del Artículo 41 de la Ley, así como por los Ingresos Excedentes que perciban respecto de los previstos en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente, a excepción de los Ingresos Excedentes que provengan de Ingresos de libre disposición y los que obtengan los fideicomisos públicos considerados como Entidades del Ejecutivo, cuya naturaleza sea el desarrollo inmobiliario o económico;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2019)</small>
 
-III.- De los Ingresos que obtenga el Fideicomiso de Inversión y Administración para el Desarrollo Económico del Estado de Aguascalientes por la enajenación de inmuebles; y
+II.- En su caso, de los Ingresos Excedentes derivados de Ingresos de libre disposición que se destinen en los términos del Inciso b) de la Fracción II del Artículo 40 Bis de la Ley, por parte de las Dependencias del Ejecutivo y Entidades del Ejecutivo;
+
+III.- (DEROGADA, P.O. 28 DE JUNIO DE 2019)
 
 IV.- Del ejercicio de los derechos que como fideicomisario tiene el Gobierno del Estado en los fideicomisos públicos considerados como Entidades del Ejecutivo, que no se encuentren previstos en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente.
 
@@ -967,7 +977,9 @@ El fin principal del Fondo de Estabilización, será distribuir su patrimonio pa
 
 I.- Con los recursos señalados en el Artículo 49 Bis, la creación de una cuenta específica para compensar y darle cobertura a los ingresos del Gobierno del Estado ante caídas del ejercicio fiscal correspondiente, derivadas de menores entregas del:
 
-a) Fondo General de Participaciones que se transmitan al Gobierno del Estado, excluyendo aquellas a distribuirse entre los Municipios, de conformidad con el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como los montos estimados que recibirá cada entidad federativa de dicho Fondo General que publica para cada ejercicio fiscal la Secretaría de Hacienda y Crédito Público en el Diario Oficial de la Federación, en cumplimiento de lo dispuesto por el Artículo 3° la (sic) Ley de Coordinación Fiscal; y
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
+
+a) Fondo General de Participaciones que se transmitan al Gobierno del Estado, excluyendo aquellas a distribuirse entre los Municipios, de conformidad con el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como los montos estimados que recibirá cada entidad federativa de dicho Fondo General que publica para cada ejercicio fiscal la Secretaria de Hacienda y Crédito Público en el Diario Oficial de la Federación, en cumplimiento de lo dispuesto por el Artículo 3° de la Ley de Coordinación Fiscal;
 
 b) Fondo de Estabilización de los Ingresos de las Entidades Federativas, de conformidad con el Artículo 21 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
@@ -985,21 +997,53 @@ III.- Una vez concluido el segundo trimestre del ejercicio fiscal correspondient
 
 a) Pagar en forma anticipada la deuda pública del Gobierno del Estado, la prelación de pagos de la deuda pública se definirá con base en el análisis costo-beneficio; o
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE JUNIO DE 2019)</small>
 
-b) Disponer los recursos para el desarrollo de proyectos cuyo ejercicio del gasto no se encuentre previsto en el Presupuesto de Egresos del Estado del ejercicio fiscal correspondiente, a través de las Dependencias del Ejecutivo y Entidades del Ejecutivo, en materia de obra pública, servicios públicos, infraestructura social, seguridad pública, desarrollo económico, rural o agroindustrial, así como de aquellos en que participen las Dependencias o Entidades del Ejecutivo como contraparte en convenios con otros órdenes de gobierno y para estímulos en la atracción de inversiones y generación de empleos de conformidad con el Plan Estatal de Desarrollo.
+b) Disponer los recursos para el desarrollo de proyectos o programas a través de las Dependencias del Ejecutivo y Entidades del Ejecutivo, cuyo destino sea el siguiente:
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2019)</small>
 
-Los recursos dispuestos se constituirán como fuente de financiamiento para el desarrollo de proyectos, independientemente de la denominación que se les otorgue en la Ley que rija su contratación.
+1) Obra pública y servicios relacionados, incluidos los dictámenes, permisos, licencias, derecho de vía e indemnizaciones.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2019)</small>
 
-Las Dependencias y Entidades del Ejecutivo deberán contar con la aprobación de los recursos por parte del Comité Técnico de manera previa al inicio del procedimiento de contratación respectivo.
+2) Servicios públicos.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2019)</small>
 
-Los recursos dispuestos deberán encontrarse vinculados a obligaciones formales de pago a más tardar el último día del ejercicio fiscal en que se realice su disposición, y en su caso, podrán ser ejercidos hasta la conclusión total del proyecto durante el ejercicio fiscal siguiente.
+3) Infraestructura social.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2019)</small>
+
+4) Seguridad pública.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2019)</small>
+
+5) Desarrollo económico, rural o agroindustrial.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2019)</small>
+
+6) La participación en convenios cuando sean destinados en inversión pública como contraparte con otros órdenes de gobierno.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2019)</small>
+
+7) La aportación a fideicomisos públicos cuya naturaleza sea el desarrollo económico.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2019)</small>
+
+8) El otorgamiento de estímulos en la atracción de inversiones y generación de empleos de conformidad con el Plan Estatal de Desarrollo.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
+
+Los recursos dispuestos se constituirán como fuente de financiamiento para el desarrollo de proyectos o programas, independientemente de la denominación que se les otorgue en la Ley o disposiciones que los regulen.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
+
+Las Dependencias y Entidades del Ejecutivo deberán contar con la aprobación de los recursos por parte del Comité Técnico de manera previa al inicio del procedimiento o acto respectivo.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
+
+Los recursos dispuestos deberán encontrarse vinculados a obligaciones formales de pago a más tardar el último día del ejercicio fiscal en que se realice su disposición, y en su caso, podrán ser ejercidos hasta la conclusión total del proyecto o programa, durante el ejercicio fiscal siguiente.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
@@ -1029,33 +1073,41 @@ III.- A propuesta del Presidente del Comité Técnico, determinar en cada trimes
 
 IV.- En caso de existir caída en los ingresos, autorizar el retiro de la cuenta específica para entregar a la Secretaría, la cantidad existente para compensar la caída; y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE JUNIO DE 2019)</small>
 
-V.- A partir del tercer trimestre del ejercicio fiscal correspondiente, recibir y analizar los proyectos a que se refiere el Inciso b) de la Fracción III del Artículo 49 Ter, los cuales deberán contener como mínimo los siguientes requisitos:
+V.- A partir del tercer trimestre del ejercicio fiscal correspondiente, recibir y analizar los proyectos o programas a que se refiere el inciso b) de la Fracción III del Artículo 49 Ter, los cuales deberán contener como mínimo los siguientes requisitos:
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
 
-a) Una exposición de motivos del proyecto que genere directa o indirecta (sic) un beneficio social y su atención dentro de los objetivos y acciones previstas en el Plan Estatal de Desarrollo; y
+a) Una exposición de motivos del proyecto o programa que genere directa o indirectamente un beneficio y su atención dentro de los objetivos y acciones previstas en el Plan Estatal de Desarrollo; y
 
-> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE JUNIO DE 2019)</small>
 
-b) Una justificación del análisis costo-beneficio, mediante el cual se determine lo siguiente:
+b) Un análisis costo-beneficio del proyecto o programa, cuando su valor en monto rebase el equivalente a diez millones de Unidades de Inversión, en el cual se demuestre que dicho proyecto o programa es susceptible de generar, en cada caso, un beneficio social neto bajo supuestos razonables que consideren lo siguiente:
 
-1. Factibilidad Ambiental: los estudios del proyecto cumplen con la normatividad aplicable en materia ambiental;
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
 
-2. Factibilidad Económica: los estudios sobre la cuantificación de los costos y beneficios del proyecto, en donde se demuestre que el mismo es susceptible de generar, por sí mismo beneficios netos bajo supuestos razonables;
+1. Factibilidad Ambiental: los estudios del proyecto o programa cumplen con la normatividad aplicable en materia ambiental;
 
-3. Factibilidad Legal: los estudios en donde se demuestre que el proyecto de inversión cumple con las disposiciones jurídicas en el ámbito federal, estatal y municipal según corresponda; y
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
 
-4. Factibilidad Técnica: los estudios sobre los materiales, maquinaria, equipo, tecnología y demás que se requieran para la ejecución y operación del proyecto, en donde se determine si el proyecto se apega a las normas establecidas por la dependencia o entidad.
+2. Factibilidad Económica: los estudios sobre la cuantificación de los costos y beneficios del proyecto o programa, en donde se demuestre que el mismo es susceptible de generar, por sí mismo beneficios netos bajo supuestos razonables;
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
 
-En aquellos proyectos cuyo valor en monto del mismo, sea menor a 8,160 veces el valor mensual de la Unidad de Medida y Actualización, no se requerirá lo previsto en el Inciso b) de la presente Fracción;
+3. Factibilidad Legal: los estudios en donde se demuestre que el proyecto o programa de inversión cumple con las disposiciones jurídicas en el ámbito federal, estatal y municipal según corresponda; y
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
 
-VI.- A partir del tercer trimestre del ejercicio fiscal correspondiente, aprobar la distribución de los recursos del Fondo de Estabilización en los términos del Artículo 49 Ter, así como seleccionar los proyectos señalados en el Inciso b) de la Fracción III de dicho Artículo, observando lo establecido en la Fracción anterior. Las Dependencias y Entidades del Ejecutivo en el ejercicio de los recursos aprobados por el Comité Técnico, se apegarán a los procedimientos y disposiciones normativas aplicables para su contratación.
+4. Factibilidad Técnica: los estudios sobre los materiales, maquinaria, equipo, tecnología y demás que se requieran para la ejecución y operación del proyecto o programa, en donde se determine si el proyecto o programa se apega a las normas establecidas por la dependencia o entidad.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
+
+En aquellos proyectos o programas cuyo valor en monto del mismo, sea igual o menor a 10 millones de Unidades de Inversión, se deberá contar con una ficha técnica que contenga una evaluación en los términos del artículo 44 fracción XXV de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, aprobada tanto por la CPLAP, a través del Sistema Estatal de Proyectos de Inversión, como por la Dependencia o Entidad del Ejecutivo que conforme a sus facultades orgánicas tenga a su cargo la materia del proyecto o programa;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2019)</small>
+
+VI.- A partir del tercer trimestre del ejercicio fiscal correspondiente, aprobar la distribución de los recursos del Fondo de Estabilización en los términos del Artículo 49 Ter, así como seleccionar los proyectos o programas señalados en el Inciso b) de la Fracción III de dicho Artículo, observando lo establecido en la Fracción anterior. Las Dependencias y Entidades del Ejecutivo en el ejercicio de los recursos aprobados por el Comité Técnico, se apegarán a los procedimientos y disposiciones normativas aplicables para su ejecución.
 
 Se considerarán válidas las sesiones, así como los acuerdos tomados por el Comité Técnico, cuando asistan por lo menos la mitad más uno de los integrantes, debiendo estar siempre presente su Presidente y el miembro independiente.
 
@@ -1337,7 +1389,7 @@ Toda referencia al Artículo 25 de la Ley de Presupuesto, Contabilidad y Gasto P
 
 Los Municipios, los Poderes Legislativo y Judicial, así como los Órganos Autónomos, dentro de los noventa días naturales siguientes al inicio de vigencia del presente Decreto, establecerán la instancia técnica de evaluación a que se refiere el Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
 
-Dado en el Salón de Sesiones “Soberana Convención Revolucionaria de Aguascalientes”, a los dieciocho días del mes de diciembre del año dos mil catorce.
+Dado en el Salón de Sesiones "Soberana Convención Revolucionaria de Aguascalientes", a los dieciocho días del mes de diciembre del año dos mil catorce.
 
 Por lo tanto el Congreso ordena se imprima, publique y se le dé el debido cumplimiento.
 
@@ -1474,3 +1526,19 @@ El Fidecomiso del Fondo de Estabilización, deberá realizar las modificaciones 
 ###### ARTÍCULO TERCERO.
 
 Los recursos que al día 01 de enero de 2019 se encuentren disponibles en el Patrimonio del Fideicomiso del Fondo de Estabilización, se sujetarán a las disposiciones del presente Decreto.
+
+P.O. 28 DE JUNIO DE 2019.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NÚMERO.-181. ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 2°, 3°; 49 BIS; 49 TER; 49 QUINQUIES; SE ADICIONA EL ARTÍCULO 3° Y ARTÍCULO 49 TER; Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 49 BIS, TODOS DE LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Fidecomiso del Fondo de Estabilización, deberá realizar las modificaciones necesarias al Contrato del Fideicomiso que derivan del presente Decreto, en un plazo no mayor a noventa días naturales.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos que a partir de la entrada en vigor del presente Decreto se encuentren en el Patrimonio del Fideicomiso del Fondo de Estabilización que se deben aplicar conforme a los fines del fideicomiso, se sujetarán a las disposiciones del presente Decreto.
