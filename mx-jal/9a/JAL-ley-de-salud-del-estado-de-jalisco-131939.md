@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2018-12-05"
+last_updated: "2019-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2019.
 
 Ley publicada en la Número 24 Bis, Edición Especial del Periódico Oficial “El Estado de Jalisco”, el miércoles 5 de diciembre de 2018.
 
@@ -1909,7 +1909,9 @@ Enfermedades Transmisibles. Por Contacto Sexual.
 
 1. Toda persona tiene derecho a ser informada sobre las medidas preventivas para evitar adquirir o transmitir enfermedades por contacto sexual.
 
-2. Las instituciones públicas de salud ofrecerán servicios de detección de enfermedades de transmisión sexual y consejería sobre la prevención de dichas enfermedades.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2019)</small>
+
+2. Las instituciones públicas de salud ofrecerán servicios de detección de enfermedades de transmisión sexual y consejería sobre la prevención de dichas enfermedades, promoviendo todo tipo de medios para prevenir esta enfermedad, en los términos que establece la Ley General de Salud.
 
 ###### Artículo 158.
 
@@ -4430,3 +4432,11 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27258/LXII/19 MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 157 DE LA LEY DE SALUD DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
