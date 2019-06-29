@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2019-02-02"
+last_updated: "2019-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2019.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -1061,7 +1061,9 @@ Se exceptúa la reparación del daño y la sanción económica, por lo que no se
 
 Punibilidad del delito cometido con culpa.
 
-En los casos de delitos cometidos con culpa se impondrá al sujeto activo desde el mínimo hasta la mitad del máximo de la pena de prisión o medida de seguridad aplicables al delito doloso correspondiente, con excepción de aquellos para los cuales la ley señale una pena específica.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2019)</small>
+
+En los casos de los delitos cometidos con culpa se impondrá al sujeto activo desde la cuarta parte del mínimo hasta la mitad del máximo de la pena de prisión o medida de seguridad aplicable al delito doloso correspondiente, con excepción de aquellos para los cuales la ley señale una pena específica.
 
 Además se podrá imponer, en su caso, la suspensión de derechos para ejercer profesión, oficio, autorización, licencia o permiso, hasta por cinco años.
 
@@ -1700,6 +1702,14 @@ Igual sanción se aplicará cuando las lesiones sean producidas por disparo de a
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
 Cuando las lesiones sean producidas por razones o conductas de género, identidad u oriental sexual, conforme a los supuestos de los artículos 123 Bis y 124 Bis de este Código, la pena se aumentará de seis meses a cinco años de prisión.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2019)</small>
+
+Las penas previstas en el párrafo anterior se aumentarán en dos tercios en los siguientes casos:
+
+I. Cuando las lesiones sean provocadas mediante el empleo de ácidos o sustancias corrosivas; o
+
+II. Cuando las lesiones sean provocadas en las mamas o en los órganos genitales.
 
 ###### ARTÍCULO 128.
 
@@ -2503,7 +2513,11 @@ I. Cuando sin emplear la violencia, alguien se apodera por una sola vez de los o
 
 II. Cuando el valor de lo robado no exceda de veinte unidades de medida y actualización, se restituya el bien espontáneamente por el sujeto activo, se paguen los daños y perjuicios ocasionados, no se ejecute con alguna de las circunstancias a que se refieren el inciso B) en sus fracciones I, II, IV, VII, VIII y, IX del artículo 185 de este código y aún no tome conocimiento del delito la autoridad;
 
-III. Cuando se cometa por un ascendiente en contra de su descendiente o viceversa, por un cónyuge contra el otro, por el concubinario contra la concubina o viceversa o por el adoptante contra el adoptado o viceversa; y,
+(NOTA: EL 1 DE JULIO DE 2021 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE JUNIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 87, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2019)</small>
+
+III. CUANDO SE COMETA ENTRE CÓNYUGES, SIEMPRE QUE HUBIESEN CONTRAÍDO MATRIMONIO BAJO EL RÉGIMEN DE SOCIEDAD CONYUGAL, EN TÉRMINOS DE LA LEGISLACIÓN CIVIL APLICABLE; Y
 
 IV. Si se prueba la buena fe de su tenencia o propiedad del vehículo del que se trate.
 
@@ -3017,7 +3031,7 @@ Al que mediante violencia obligue a otro a hacer, omitir, o tolerar algo, se le 
 
 ### CAPÍTULO III. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 220.
 
@@ -3151,7 +3165,7 @@ A quien sustituya un niño por otro, con el propósito y finalidades señaladas 
 
 ###### ARTÍCULO 229.
 
-Al que se niegue o no cumpla con los deberes u obligaciones alimenticias respecto a sus ascendientes, descendientes, cónyuge, concubino, acreedores alimenticios, de cualquier persona incapaz de valerse por sí misma o persona que tenga derecho a ello conforme a la legislación civil, se le impondrá de un año a cinco años de prisión, y multa por un importe equivalente de treinta a cien unidades de medida y actualización.
+Al que se niegue o no cumpla con los deberes u obligaciones alimenticias, en los términos que establece el artículo 308 del Código Civil para el Estado de Colima, respecto a sus ascendientes, descendientes, cónyuge, concubino, acreedores alimenticios, de cualquier persona incapaz de valerse por sí misma o persona que tenga derecho a ello conforme a la legislación civil, se le impondrá de un año a cinco años de prisión, y multa por un importe equivalente de treinta a cien unidades de medida y actualización.
 
 No se exigirá como requisito de procedibilidad para ejercitar la acción penal por este delito el que se demande previamente acción civil o familiar alguna al sujeto omiso en el cumplimiento de sus deberes.
 
@@ -3205,15 +3219,33 @@ Se reputarán también como servidores públicos a quienes administren recursos 
 
 Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este Título o el subsecuente.
 
-De manera adicional a dichas sanciones, se impondrá a los responsables de su comisión, la pena de destitución y la inhabilitación para desempeñar empleo, cargo o comisión públicos, así como para participar en adquisiciones, arrendamientos, servicios u obras públicas, concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado por un plazo de uno a veinte años, atendiendo a los siguientes criterios:
+(NOTA: EL 1 DE JULIO DE 2021 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE JUNIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 87, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-I. Será por un plazo de uno hasta diez años cuando no exista daño o perjuicio o cuando el monto de la afectación o beneficio obtenido por la comisión del delito no exceda de doscientas veces el valor diario de la unidad de medida y actualización; y
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2019)</small>
 
-II. Será por un plazo de diez a veinte años si dicho monto excede el límite señalado en la fracción anterior.
+De manera adicional a dichas sanciones, se impondrá a los responsables de su comisión, la pena de destitución y la inhabilitación temporal O DEFINITIVA para desempeñar empleo, cargo o comisión públicos, así como para participar en adquisiciones, arrendamientos, servicios u obras públicas, concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2019)</small>
+
+Tratándose de la inhabilitación temporal, cuando no se causen daños o perjuicios, ni exista beneficio o lucro alguno, o cuando el monto de la afectación o beneficio obtenido por la comisión del delito no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización, la inhabilitación será por un plazo de uno hasta diez años.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2019)</small>
+
+En el caso de que se supere el monto señalado en el párrafo anterior, pero no se exceda de dos mil veces el valor diario de la Unidad de Medida y Actualización, la inhabilitación será por un plazo de diez a veinte años.
+
+(NOTA: EL 1 DE JULIO DE 2021 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SÉPTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE JUNIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 87, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2019)</small>
+
+LA INHABILITACIÓN SERÁ DEFINITIVA CUANDO EL MONTO DE LA AFECTACIÓN O BENEFICIO OBTENIDO POR LA COMISIÓN DEL DELITO EXCEDA DE DOS MIL VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, O CUANDO SE INCURRA EN REINCIDENCIA.
 
 Para efectos de lo anterior, el juez deberá considerar, en caso de que el responsable tenga el carácter de servidor público, además de lo previsto en el artículo 233 Bis de este Código, los elementos del empleo, cargo o comisión que desempeñaba cuando incurrió en el delito.
 
-Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, considerando, en su caso, lo siguiente:
+(NOTA: EL 1 DE JULIO DE 2021 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO NOVENO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE JUNIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 87, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE JUNIO DE 2019)</small>
+
+Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación temporal O DEFINITIVA para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, considerando, en su caso, lo siguiente:
 
 I. Los daños y perjuicios patrimoniales causados por los actos u omisiones;
 
@@ -4372,3 +4404,9 @@ P.O. 2 DE FEBRERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 29 POR EL QUE SE ADICIONA EL ARTÍCULO 233 BIS 3, AL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 87 POR EL QUE SE REFORMAN LOS ARTÍCULOS 76, PRIMER PÁRRAFO, 190, FRACCIÓN III, 229, PRIMER PÁRRAFO, 233, PÁRRAFO CUARTO Y SEXTO, QUE POR VIRTUD DEL CORRIMIENTO PASA A SER NOVENO; Y SE ADICIONAN UN CUARTO PÁRRAFO AL ARTÍCULO 127 Y LOS PÁRRAFOS QUINTO, SEXTO Y SÉPTIMO AL ARTÍCULO 233, HACIÉNDOSE EL CORRIMIENTO RESPECTIVO DE LOS SUBSECUENTES, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
