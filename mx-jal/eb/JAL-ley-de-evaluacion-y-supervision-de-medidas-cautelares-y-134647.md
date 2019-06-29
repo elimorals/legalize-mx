@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-evaluacion-y-supervision-de-medidas-cautelares-y-134647"
 country: "mx"
 rank: "ley"
 publication_date: "2019-03-25"
-last_updated: "2019-03-25"
+last_updated: "2019-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EVALUACIÓN Y SUPERVISIÓN DE MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2019.
 
 Ley publicada en la Edición Especial al Número 21 Bis del Periódico Oficial del Estado de Jalisco, el lunes 25 de marzo de 2019.
 
@@ -79,7 +79,9 @@ VII. Medidas cautelares: Las restricciones de la libertad personal o de otros de
 
 VIII. Órgano jurisdiccional: El Juez de Control, Juez de Ejecución Penal, Tribunal de Enjuiciamiento o el Tribunal de Alzada que intervienen en el procedimiento;
 
-IX. Unidad Estatal: la Unidad Estatal de Medidas Cautelares y de la Suspensión Condicional dependiente de la Fiscalía Estatal;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2019)</small>
+
+IX. Unidad Estatal: La Unidad Estatal de Medidas Cautelares y de la Suspensión Condicional dependiente de la Secretaría de Seguridad;
 
 X. Unidades Municipales: Unidades Municipales Auxiliares de la Unidad Estatal de Medidas Cautelares y de la Suspensión Condicional del Proceso, creadas por los Ayuntamientos para cumplir con el objeto de esta ley; y
 
@@ -123,17 +125,21 @@ Toda resolución judicial que imponga, revoque, sustituya o modifique una medida
 
 ### Capítulo III. Autoridades relacionadas con la aplicación de la Ley
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2019)</small>
+
 ###### Artículo 7.
 
-Corresponde al Poder Ejecutivo a través de la Fiscalía Estatal y por conducto de la Unidad Estatal, coordinar y dirigir las acciones relativas a la evaluación de riesgos, ejecución, supervisión y seguimiento de las medidas cautelares y las condiciones de la suspensión condicional del proceso impuestas por el órgano jurisdiccional.
+Corresponde al Poder Ejecutivo a través de la Secretaría de Seguridad y por conducto de la Unidad Estatal, coordinar y dirigir las acciones relativas a la evaluación de riegos (sic), ejecución, supervisión y seguimiento de las medidas cautelares y las condiciones de la suspensión condicional del procesos (sic) impuestas por el órgano jurisdiccional.
 
 ###### Artículo 8.
 
 La comunicación entre el órgano jurisdiccional que decrete la medida cautelar o la suspensión condicional del proceso y las autoridades responsables de la evaluación de riesgos, ejecución, supervisión y seguimiento, así como las que presten auxilio para ello, se llevará a cabo por conducto de la Unidad Estatal.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2019)</small>
+
 ###### Artículo 9.
 
-Los Ayuntamientos a través de sus Unidades Municipales e instituciones policiales, auxiliarán a la Fiscalía Estatal en la ejecución, supervisión y seguimiento de las medidas cautelares y condiciones de la suspensión condicional del proceso impuestas por el órgano jurisdiccional, cuando se trate de imputados que residan dentro de su extensión territorial, en los casos previstos en esta Ley.
+Los ayuntamientos a través de sus Unidades Municipales e Instituciones policiales, auxiliaran a la Unidad Estatal en la ejecución, supervisión y seguimiento de las medidas cautelares y condiciones de la suspensión condicional del proceso impuestas por el órgano jurisdiccional, cuando se trata de imputados que residan dentro de su extensión territorial, en los casos previstos en esta Ley.
 
 ###### Artículo 10.
 
@@ -163,11 +169,13 @@ III. Informar a la Unidad Estatal o Municipal sobre el cumplimiento, incumplimie
 
 IV. Las demás que señale esta Ley o la normatividad aplicable.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 29 DE JUNIO DE 2019)</small>
+
 ###### Artículo 14.
 
 Corresponderá a la Secretaría General de Gobierno, el auxilio en la ejecución, durante el proceso penal, de las medidas cautelares o condiciones de:
 
-I. Prohibición de salir sin autorización del país;
+I. (DEROGADA, P.O. 29 DE JUNIO DE 2019)
 
 II. La suspensión temporal en el ejercicio del cargo cuando se le atribuya un delito cometido por servidores públicos; y
 
@@ -561,9 +569,11 @@ Una vez impuesta esta medida cautelar, el órgano jurisdiccional que ordene la i
 
 ### Capítulo V. De la Prohibición de Salir sin Autorización del País, de la Localidad en la cual Reside o del ámbito territorial que fije la Autoridad Judicial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2019)</small>
+
 ###### Artículo 48.
 
-Cuando se determine la medida cautelar de prohibición de salir del país, el órgano jurisdiccional requerirá la entrega del pasaporte y demás documentos que permitan la salida del territorio nacional, remitiendo copia de la resolución a la Secretaría General de Gobierno para que, de conformidad con sus atribuciones, dé aviso a la autoridad federal en materia de relaciones exteriores.
+Cuando se determine la medida cautelar de prohibición de salir del país, el órgano jurisdiccional requerirá la entrega del pasaporte y demás documentos que permitan la salida del territorio nacional, remitiendo copia de la resolución a la autoridad federal en materia de relaciones exteriores.
 
 El aviso a las autoridades señaladas también se realizará en caso de sustitución, modificación o cancelación de la medida.
 
@@ -729,7 +739,9 @@ X. No poseer ni portar armas. Al decretarse esta condición, se dará aviso a lo
 
 XI. No conducir vehículos. Al imponerse esta condición, la Unidad Estatal de Medidas Cautelares y Suspensión Condicional del Proceso en coordinación con la Unidad Municipal correspondiente, requerirá al imputado la entrega de su licencia de manejo, misma que quedará bajo resguardo de la unidad competente, hasta en tanto permanezca vigente la condición. Girará oficio a la Secretaria de Transporte del Ejecutivo Estatal, a fin de que se abstenga de expedir licencia de conducir a la persona que se señale e informe en caso de que sea detenido por dicha autoridad manejando algún tipo de vehículo;
 
-XII. Abstenerse de viajar al extranjero. Cuando se determine esta restricción, se dará aviso a la Secretaría General de Gobierno para que por su conducto, informe a la dependencia federal en materia de relaciones exteriores, proporcionándole todos los documentos y requisito necesarios para que se pueda dar cumplimiento a la medida. El aviso a la autoridad señalada también se realizará en caso de sustitución, modificación o cancelación de la medida;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2019)</small>
+
+XII. Abstenerse de viajar al extranjero. Cuando se determine esta restricción, se dará aviso a la autoridad federal en materia de relaciones exteriores, proporcionándole todos los documentos y requisito (sic) necesarios para que se pueda dar cumplimiento a la medida. El aviso a la autoridad señalada también se realizará en caso de sustitución, modificación o cancelación de la medida;
 
 XIII. Cumplir con los deberes de deudor alimentario. El cumplimiento de esta condición quedará sujeta al aviso que los acreedores alimentarios o sus representantes formulen al órgano jurisdiccional; y
 
@@ -780,3 +792,17 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27305/LXII/19 QUE REFORMA LOS ARTÍCULOS: 2, FRACCIÓN IX; 7, 9, 14, 48 Y 67 DE LA LEY DE EVALUACIÓN Y SUPERVISIÓN DE MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO DEL ESTADO DE JALISCO”.]
+
+PRIMERO. Esta reforma entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Queda sin efecto cualquier disposición legal o reglamentaria que se oponga a la presente.
+
+TERCERO. Se autoriza al titular del Poder Ejecutivo para que por conducto de la Secretaría de la Hacienda Pública, lleve a cabo las modificaciones presupuestales necesarias para dar cumplimiento al presente decreto de conformidad a la suficiencia presupuestal.
+
+El titular del Poder Ejecutivo deberá informar al Poder Legislativo a más tardar en 30 días posteriores, sobre las adecuaciones llevadas a cabo en los términos del presente decreto.
