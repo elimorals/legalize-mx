@@ -4,7 +4,7 @@ identifier: "COL-ley-de-movilidad-sustentable-para-el-estado-de-colima-118706"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-30"
-last_updated: "2019-06-19"
+last_updated: "2019-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICAL: 19 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICAL: 29 DE JUNIO DE 2019.
 
 Ley publicada en la Edición Especial Extraordinaria al Número 7 del Periódico Oficial del Estado de Colima, el lunes 30 de enero de 2017.
 
@@ -989,17 +989,17 @@ e. Dos representantes de Instituciones Privadas de Educación Superior en el Est
 
 f. Un representante de la sociedad de padres de familia de la comunidad estudiantil de nivel educación básica, de instituciones públicas;
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2019)</small>
 
-g. Un representante de la comunidad estudiantil de nivel medio superior, de instituciones públicas;
+g. Un representante de la comunidad estudiantil de nivel medio superior, de cada una de las instituciones públicas, electos democráticamente y privilegiándose la pluralidad de sus representantes;
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2019)</small>
 
-h. Un representante de la comunidad estudiantil de nivel superior, de cada una de las instituciones públicas, mismos que no deberán pertenecer al mismo gremio de asociados o federación, debiendo prevalecer la pluralidad de sus representantes;
+h. Un representante de la comunidad estudiantil de nivel superior, de cada una de las instituciones públicas, electos democráticamente y privilegiándose la pluralidad de sus representantes;
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2019)</small>
 
-i. Dos representantes de la comunidad estudiantil de nivel superior, de instituciones privadas, mismos que no deberán pertenecer al mismo gremio de asociados o federación, debiendo prevalecer la pluralidad de sus representantes;
+i. Dos representantes de la comunidad estudiantil de nivel superior, de instituciones privadas incorporadas a la Secretaría de Educación Pública, electos democráticamente y privilegiándose la pluralidad de sus representantes;
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
 
@@ -5715,15 +5715,21 @@ III. Los adultos en plenitud o de la tercera edad de sesenta años o más; y
 
 IV. Los menores de tres años quedarán exentos del pago de tarifa.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2019)</small>
 
-2. Las tarifas preferenciales no serán menores al 50% de descuento para las personas mencionadas en las fracciones de la I a la III, debiendo garantizar dicha tarifa preferencial por el Ejecutivo del Estado a través de la Secretaría, mostrando credencial emitida por autoridad competente y, en el caso de los estudiantes, que la credencial sea emitida por cualquier Institución Educativa incorporada a la Secretaría de Educación Pública.
+2. Las tarifas preferenciales serán del 50% de descuento para las personas mencionadas en las fracciones de la I a la III; para lo cual bastará mostrar la credencial emitida por autoridad competente y, en el caso de los estudiantes de nivel medio superior y superior, bastará igualmente mostrar la credencial que expidan las instituciones educativas incorporadas a la Secretaría de Educación Pública.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2019)</small>
+
+La supervisión de la aplicación de la tarifa preferencial por los prestadores del servicio quedará a cargo del Ejecutivo del Estado, a través de la Secretaría.
 
 ###### Artículo 374.
 
 Definición de porcentajes aplicables a usuarios con derecho a tarifa preferencial
 
-1. Los usuarios que tienen derecho a tarifa preferencial gozarán de hasta un 50% de descuento, asegurando que el modelo financiero del sistema no impacte negativamente en la sostenibilidad financiera, pudiendo aplicar subsidios cruzados provenientes de otras tarifas.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2019)</small>
+
+1. Los usuarios que tienen derecho a tarifa preferencial gozarán del 50% de descuento en los términos del numeral 2 del artículo anterior, asegurando que el modelo financiero del sistema no impacte negativamente en la sostenibilidad financiera, pudiendo aplicar subsidios cruzados provenientes de otras tarifas.
 
 2. Cuando los descuentos aplicables para lograr tarifas preferenciales requieran de un subsidio para su mantenimiento, estos deberán ser provistos por los organismos proponentes, asegurando que exista la solvencia presupuestaria y la claridad sobre el origen de los recursos, el ingreso de los mismos al fondo de contingencia. Dichos subsidios deberán someterse a aprobación de la Comisión Mixta, firmando los acuerdos correspondientes con el sector de transporte.
 
@@ -6129,7 +6135,9 @@ P.O. 19 DE JUNIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 79 POR EL QUE SE REFORMAN LA FRACCIÓN CX, DEL NUMERAL 1, DEL ARTÍCULO 13; LOS PUNTOS E Y F, DE LA FRACCIÓN V, NUMERAL 1, DEL ARTÍCULO 27; LA FRACCIÓN III, NUMERAL 1, DEL ARTÍCULO 125; LA FRACCIÓN I, DEL NUMERAL 1, DEL ARTÍCULO 183; FRACCIÓN I, NUMERAL 1 Y NUMERAL 2, DEL ARTÍCULO 373; NUMERALES 1 Y 2 DEL ARTÍCULO 375; DÉCIMO SÉPTIMO TRANSITORIO; SE ADICIONAN LOS PUNTOS G, H, I, J, K Y L, DE LA FRACCIÓN V, NUMERAL 1, DEL ARTÍCULO 27; Y SE DEROGAN LOS PUNTOS A Y G DE LA FRACCIÓN VI, DEL NUMERAL 1, DEL ARTÍCULO 27; EL ARTÍCULO 169; LA FRACCIÓN I, DEL NUMERAL 2, DEL ARTÍCULO 172; 173; EL NUMERAL 2, DEL ARTÍCULO 175; ASÍ COMO LAS DISPOSICIONES TRANSITORIAS DÉCIMO SEXTA Y LA VIGÉSIMA CUARTA, TODOS DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA".]
 
-PRIMERO.- El presente Decreto entrará en vigor el día 1º de septiembre de 2019 y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2019)</small>
+
+PRIMERO.- El presente Decreto entrará en vigor al inicio del ciclo escolar 2019-2020, de conformidad con el Acuerdo número 13/05/19, expedido por la Secretaría de Educación Pública, que establece el calendario escolar aplicable en toda la República para las escuelas de educación básica (preescolar, primaria y secundaria), públicas y particulares, incorporadas al Sistema Educativo Nacional, y deberá publicarse en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado deberá adecuar, en su caso, las disposiciones normativas y reglamentarias respectivas, de conformidad con lo que se dispone en este instrumento.
 
@@ -6142,3 +6150,9 @@ En tanto se expiden las credenciales con el sistema electrónico antes mencionad
 El Congreso del Estado de Colima, deberá prever la suficiencia presupuestal respectiva para lo establecido en la presente disposición transitoria, en el Presupuesto de Egresos del Estado de Colima del Ejercicio Fiscal 2020.
 
 CUARTO.- En lo conducente a los estudiantes de las instituciones educativas del sistema federalizado o a las diversas que presten el servicio de educación en la entidad, tanto públicas como privadas, bastará para acreditar su calidad de estudiante, la presentación de la credencial que las mismas expidan.
+
+P.O. 29 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 100 POR EL QUE SE REFORMAN LOS ARTÍCULOS 27, EN SUS INCISOS G., H., E I.; 373 EN SU PUNTO 2, ADICIONANDO UN SEGUNDO PÁRRAFO AL MISMO; 374 EN SU PUNTO 1, TODOS DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA Y SE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚM. 79 QUE SE PUBLICÓ EN EL PERIÓDICO OFICIAL “EL ESTADO DE COLIMA”, EDICIÓN NÚMERO 46, DE FECHA 19 DE JUNIO DE 2019”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al inicio del ciclo escolar 2019-2020, de conformidad con el Acuerdo número 13/05/19, expedido por la Secretaría de Educación Pública, que establece el calendario escolar aplicable en toda la República para las escuelas de educación básica (preescolar, primaria y secundaria), públicas y particulares, incorporadas al Sistema Educativo Nacional, y deberá publicarse en el Periódico Oficial “El Estado de Colima”.
