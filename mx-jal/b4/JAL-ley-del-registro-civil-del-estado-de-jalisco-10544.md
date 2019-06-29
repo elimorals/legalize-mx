@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2018-12-05"
+last_updated: "2019-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -433,15 +433,13 @@ Una vez recibida la relación de nacimientos diaria por unidad médica, la Direc
 
 ### CAPITULO V. De las actas de nacimiento
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2019)</small>
 
 ###### Artículo 40.
 
 La declaración de nacimiento se hará por el padre, por la madre o ambos, o por persona distinta, en los casos previstos por la ley, dentro de los ciento ochenta días siguientes a éste.
 
-Para el acto registral deberá ser presentada la niña, niño o adolescente ante el oficial del Registro Civil, y en los casos que circunstancialmente sea necesario, éste acudirá al lugar en que se encuentre aquella; cuando sea por motivos de salud o causa que comprometa la integridad de la persona a registrar, el oficial del Registro Civil se abstendrá de cobrar cantidad alguna por cualquier concepto.
+Para el acto registral deberá ser presentada la persona a quien se deba registrar ante el oficial del Registro Civil, y en los casos que circunstancialmente sea necesario, éste acudirá al lugar en que se encuentre aquella. Cuando sea por motivos de salud o causa que comprometa la integridad de la persona a registrar, el oficial del Registro Civil se abstendrá de cobrar cantidad alguna por cualquier concepto.
 
 La Procuraduría de Protección de Niñas, Niños y Adolescentes, con la representación en suplencia, solicitará la expedición de acta de nacimiento en caso de registro extemporáneo y en caso de niñas, niños y adolescentes de padres desconocidos o de persona que ejerza la representación originaria.
 
@@ -467,15 +465,17 @@ Las personas nacidas fuera del territorio nacional, que sean hijos de padre o ma
 
 La apostilla o legalización de los documentos emitidos por autoridades extranjeras a que se refiere el párrafo anterior, podrán dispensarse cuando existan, entre los Estados Unidos Mexicanos y el país de origen del documento extranjero, convenios o tratados internacionales vigentes conforme a la Constitución Política de los Estados Unidos Mexicanos, que prevean medios simplificados para constatar el nacimiento y la filiación. La información que por estos medios conozcan los oficiales del registro civil será impresa y certificada por los mismos y se guardará en el apéndice del archivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2019)</small>
 
 ###### Artículo 42.
 
 El acta de nacimiento contendrá: lugar y fecha de registro; el año, mes, día, hora y lugar de nacimiento, sexo del registrado, el nombre que se le ponga y los apellidos que le correspondan; la expresión de si es presentado vivo o muerto; su impresión digital si está vivo, así como la Clave Única del Registro Nacional de Población respectiva, y el nombre, edad, domicilio, origen y nacionalidad de los padres, salvo lo dispuesto en el artículo siguiente; nombre, domicilio y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos, que deberán ser dos.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+Si el registro lo realiza una persona distinta a los padres, deberá cumplimentar lo dispuesto en el artículo 27 de esta ley.
 
-Si el registro lo realiza una persona distinta a los padres, deberá cumplimentar lo dispuesto en el artículo 27 de esta Ley, en caso de tratarse de una persona huérfana de padre y madre, quien comparezca al registro, deberá de presentar las constancias de alumbramiento del menor, así como las actas de defunción de los padres; en caso de tratarse de madre soltera, sólo se presentarán las constancias de alumbramiento y de defunción de la madre.
+En caso de tratarse de una persona huérfana de padre y madre, quien comparezca al registro, deberá de presentar las constancias de nacimiento de la persona a registrar, así como las actas de defunción de los padres.
+
+Si se tratara de madre soltera y esta falleciere, sólo se presentarán las constancias de nacimiento de la persona a registrar y de defunción de la madre.
 
 ###### Artículo 43.
 
@@ -567,11 +567,13 @@ Cuando se trate de parto múltiple, se levantará una (sic) acta por cada uno de
 
 Con las excepciones de ley, será registro extemporáneo de nacimiento, el efectuado después de los ciento ochenta días naturales, contados a partir del día siguiente al de ocurrido el alumbramiento.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2019)</small>
 
 ###### Artículo 57.
 
 Las solicitudes de registros extemporáneos se tramitarán y resolverán de conformidad a lo establecido en el reglamento respectivo, por el Oficial Jefe del Registro Civil de cada municipio, quien se cerciorará de la identidad de los interesados, de la vecindad de los mismos y del cumplimiento de los demás requisitos que para el nacimiento se exigen, anotando en la propia acta la razón de su certeza.
+
+La expedición de la primera acta de nacimiento se hará sin costo alguno, no obstante sea extemporáneo el registro.
 
 ###### Artículo 58.
 
@@ -1640,3 +1642,9 @@ CUARTO. Dentro de los ciento veinte días a partir de la entrada en vigor de est
 QUINTO. En un plazo de doce meses el Sistema Único de Información en Salud del Estado de Jalisco deberá iniciar su funcionamiento, por lo que la Secretaría de Salud Jalisco emitirá los lineamientos para su establecimiento, así como para mantenerlo actualizado.
 
 SEXTO. El Consejo Estatal y sus consejeros seguirán en funciones y con las atribuciones contenidas en los artículos 7, 9 y 12 de la Ley de Prevención y Combate de la Obesidad, Sobrepeso y Trastornos de la Conducta Alimenticia del Estado de Jalisco. El Ejecutivo del Estado deberá con noventa días, expedir la normativa que corresponda la permanencia y funcionamiento.
+
+P.O. 29 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27257/LXII/19 MEDIANTE EL CUAL SE REFORMA LOS ARTÍCULOS 40, 42 Y 57 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
