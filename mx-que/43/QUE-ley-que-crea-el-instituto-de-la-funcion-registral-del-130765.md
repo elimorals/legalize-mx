@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-el-instituto-de-la-funcion-registral-del-130765"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-03"
-last_updated: "2018-12-19"
+last_updated: "2019-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 3 de octubre de 2018.
 
@@ -395,17 +395,17 @@ Artículo Segundo. Una vez nombrado el Director General del Instituto de la Func
 
 Artículo Tercero. El Instituto de la Función Registral aplicará las disposiciones del Reglamento del Registro Público de la Propiedad, en lo que no se opongan a lo establecido en la presente Ley, y hasta en tanto se expida un nuevo Reglamento.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, 30 DE JUNIO DE 2019)</small>
 
-Artículo Cuarto. El organismo público descentralizado denominado Instituto de la Función Registral cumplirá con las obligaciones que, como sujeto, le señalan las disposiciones aplicables a partir del 1 de julio del ejercicio fiscal 2019, lo anterior sin perjuicio de que pueda obtener los registros fiscales y administrativos necesarios, una vez que cobre vigencia la presente Ley en términos de su Artículo Primero Transitorio.
+Artículo Cuarto. El organismo público descentralizado denominado Instituto de la Función Registral cumplirá con las obligaciones que, como sujeto, le señalan las disposiciones aplicables a partir del 1 de enero del ejercicio fiscal 2020, lo anterior sin perjuicio de que pueda obtener los registros fiscales y administrativos necesarios, una vez que cobre vigencia la presente Ley en términos de su Artículo Primero Transitorio.
 
-Los actos, trámites, obligaciones y demás procedimientos correspondientes al periodo comprendido entre la entrada en vigor de la presente Ley y el 30 de junio de 2019, serán substanciados por las Direcciones del Registro Público de la Propiedad y del Comercio, así como del Archivo General de Notarías, según corresponda, conforme a las disposiciones vigentes.
+Los actos, trámites, obligaciones y demás procedimientos correspondientes al periodo comprendido entre la entrada en vigor de la presente Ley y el 31 de diciembre de 2019, serán substanciados por las Direcciones del Registro Público de la Propiedad y del Comercio, así como del Archivo General de Notarías, según corresponda, conforme a las disposiciones vigentes.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, 30 DE JUNIO DE 2019)</small>
 
 Artículo Quinto. Una vez que la presente Ley inicie su vigencia, los recursos humanos, financieros y materiales con que cuenta el Registro Público de la Propiedad y del Comercio del Estado de Querétaro y el Archivo General de Notarías, formarán parte del Instituto de la Función Registral para su ejercicio. Para efectos de lo anterior, el Instituto de la Función Registral deberá obtener los registros fiscales y administrativos que procedan.
 
-El Poder Ejecutivo del Estado, a través de sus dependencias, continuará administrando los referidos recursos, hasta el 30 de junio de 2019.
+El Poder Ejecutivo del Estado, a través de sus dependencias, continuará administrando los referidos recursos, hasta el 31 de diciembre de 2019.
 
 Artículo Sexto. Los trabajadores de la Dirección del Registro Público de la Propiedad y del Comercio y del Archivo General de Notarías, por virtud de la presente Ley, se transferirán al organismo público descentralizado denominado Instituto de la Función Registral, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
 
@@ -421,9 +421,9 @@ Artículo Décimo. Las alusiones al Registro Público de la Propiedad y del Come
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, 30 DE JUNIO DE 2019)</small>
 
-Artículo Segundo. Los artículos de instrucción Segundo al Décimo de la presente Ley, entrarán en vigor a partir del 1 de julio de 2019.
+Artículo Segundo. Los artículos de instrucción Segundo al Décimo de la presente Ley, entrarán en vigor a partir del 01 de enero de 2020.
 
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
 
@@ -570,3 +570,27 @@ c) El testimonio en el que conste la adquisición de negociaciones en operación
 d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes, y
 
 XIV. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial.
+
+P.O. 30 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS CUARTO Y QUINTO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE PLANEACIÓN DEL ESTADO DE QUERÉTARO, DE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ARCHIVOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA”, DE FECHA 19 DE DICIEMBRE DE 2018”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del 1 de julio de 2019.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro, para realizar las adecuaciones presupuestales necesarias a efecto de dar cumplimiento a lo dispuesto en la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Atento a lo establecido en los Artículos Transitorios Segundo y Cuarto, primer párrafo, de la Ley que crea el Instituto de la Función Registral del Estado de Querétaro, y de conformidad con la fracción III del artículo 54 de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, el Consejo Directivo de dicho organismo descentralizado deberá sesionar, previo al 1 de enero de 2020.
+
+###### ARTÍCULO QUINTO.
+
+Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
