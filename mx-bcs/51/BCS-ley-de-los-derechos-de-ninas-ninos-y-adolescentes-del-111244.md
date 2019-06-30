@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111244"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2018-08-15"
+last_updated: "2019-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -792,6 +792,14 @@ XX. Establecer acciones afirmativas que garanticen el acceso y permanencia de ni
 > <small>(ADICIONADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
 XXI. Establecer mecanismos de coordinación y comunicación con el sector salud que les permitan detectar riesgos a la salud y promover conductas saludables, estableciendo acciones de prevención de enfermedades, diagnóstico oportuno y referir aquellos casos identificados para su atención y rehabilitación.
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2019)</small>
+
+XXII. Las autoridades educativas y escolares, en el ámbito de sus competencias, deberán notificar a la Procuraduría de Protección correspondiente, los casos de asistencia irregular, abandono o deserción escolar que se identifiquen respecto de los alumnos que cursen educación básica y media superior en los centros educativos.
+
+Ante dicha notificación será aplicable el procedimiento establecido en el artículo 110 de la presente Ley, así como la activación de las instancias jurisdiccionales necesarias a fin de garantizar los derechos de las niñas, niños y adolescentes.
+
+En caso contrario, se estará a lo dispuesto en el Capítulo Único del Título Séptimo de la Ley, con independencia de aquellas conductas que pudieran ser consideradas como delitos conforme a la normatividad en la materia.
 
 Artículo 49 (SIC).- La educación, además de lo dispuesto en las disposiciones jurídicas aplicables, tendrá los siguientes fines:
 
@@ -2082,3 +2090,11 @@ B.O. 15 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2546 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR Y LA LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE JUNIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2615 SE ADICIONA LA FRACCIÓN XXII DEL ARTÍCULO 47 A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Las dependencias y entidades del Poder Ejecutivo del Estado que corresponda deberán realizar las modificaciones a sus reglamentos respectivos para ajustarlos al presente Decreto, en un término de 180 días hábiles a partir de su entrada en vigor.
