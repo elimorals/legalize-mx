@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-de-la-ciudad-de-mexico-13610
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-05-13"
-last_updated: "2019-05-13"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136106&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2019-04-30"
 ---
 # REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y RENDICION DE CUENTAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE JULIO DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 1 DE JULIO DE 2019.]</small>
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el lunes 13 de mayo de 2019.
 
@@ -552,15 +552,25 @@ Para que el Instituto Electoral pueda permitir el acceso a información confiden
 
 No se requerirá el consentimiento de la o el titular de la información confidencial, cuando:
 
-La información se encuentre en registros públicos o fuentes de acceso público;
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-I.- Por ley tenga el carácter de pública;
+I.- La información se encuentre en registros públicos o fuentes de acceso público;
 
-II.- Exista una orden judicial;
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-III.- Por razones de salubridad general, o para proteger los derechos de terceros, se requiera su publicación, o
+II.- Por ley tenga el carácter de pública;
 
-IV.- Cuando se transmita entre sujetos obligados y entre éstos y los sujetos de derecho internacional, en términos de los tratados y los acuerdos interinstitucionales, siempre y cuando la información se utilice para el ejercicio de facultades propias de los mismos.
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+III.- Exista una orden judicial;
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+IV.- Por razones de salubridad general, o para proteger los derechos de terceros, se requiera su publicación, o
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+V.- Cuando se transmita entre sujetos obligados y entre éstos y los sujetos de derecho internacional, en términos de los tratados y los acuerdos interinstitucionales, siempre y cuando la información se utilice para el ejercicio de facultades propias de los mismos.
 
 ## TÍTULO SEXTO. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y CUOTAS DE REPRODUCCIÓN
 
@@ -932,10 +942,18 @@ En el caso de que el Instituto de Transparencia admita y notifique una denuncia 
 
 PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
-SEGUNDO. Se abroga el "Reglamento del Instituto Electoral de la Ciudad de México en Materia de Transparencia y Acceso a la Información Pública", aprobado por el Consejo General mediante Acuerdo IECM/ACU-CG-019/2017, de fecha 17 de agosto de 2017.
+SEGUNDO. Se abroga el “Reglamento del Instituto Electoral de la Ciudad de México en Materia de Transparencia y Acceso a la Información Pública”, aprobado por el Consejo General mediante Acuerdo IECM/ACU-CG-019/2017, de fecha 17 de agosto de 2017.
 
 TERCERO. Se derogan las disposiciones que se opongan a este Reglamento.
 
 CUARTO. Todos los procedimientos iniciados previos a la entrada en vigor del presente Reglamento deberán tramitarse hasta su conclusión en los términos de las normas que estuvieron vigentes en su inicio.
 
 QUINTO. Remítase para su publicación a la Gaceta Oficial de la Ciudad de México, dentro del plazo de diez días hábiles contados a partir de su aprobación.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 1 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DE LA "NOTA ACLARATORIA AL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO, MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DE LA CIUDAD DE MÉXICO", PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, DE FECHA 13 DE MAYO DE 2019".]
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
