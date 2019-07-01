@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-etica-de-la-administracion-publica-del-estado-de-1363
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-13"
-last_updated: "2019-05-13"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # CODIGO DE ETICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE HIDALGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE JULIO DE 2019 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE HIDALGO
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO DEL 1 DE JULIO DE 2019.]
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 13 de mayo de 2019.
 
@@ -39,9 +39,11 @@ SEGUNDO.- Que la Ley General Responsabilidades Administrativas en su artículo 6
 
 TERCERO.- Que mediante Decreto publicado en el Periódico Oficial del Estado de Hidalgo con fecha 10 de julio de 2017 se emitió la Ley del Sistema Estatal Anticorrupción de Hidalgo, cuyo objeto es establecer las bases de coordinación entre las autoridades estatales y municipales competentes para la prevención, detección, investigación y sanción de faltas administrativas y hechos de corrupción, para la fiscalización y control de los recursos públicos, así como para la integración, organización y funcionamiento del Sistema Estatal Anticorrupción, de conformidad con lo que establece la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional Anticorrupción y la Constitución Política del Estado de Hidalgo, derivado de lo anterior con fecha 23 del mes de noviembre del año 2017 se publicó en el Periódico Oficial del Estado de Hidalgo el Decreto que contiene el Código de Ética de la Administración Pública del Estado de Hidalgo, el cual tiene por objeto concentrar los principios, valores y reglas de integridad que establecen y delimitan el actuar de los Servidores Públicos en su puesto, encargo o comisión dentro de la Administración Publica.
 
-CUARTO.- Que con fecha 12 de octubre de 2018 fue publicado en el Diario Oficial de la Federación, el “Acuerdo por el que se dan a conocer los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas”; mismos que tienen por objeto establecer los elementos a considerar para la emisión del Código de Ética; así como sentar las bases de principios rectores que regirán las políticas transversales, integrales, sistemáticas, continuas y evaluables que, en materia de integridad y ética pública, emitan los entes públicos. Lineamientos en los que el Comité Coordinador del Sistema Nacional Anticorrupción considera al Código de Ética como un elemento de la política de integridad de los entes públicos, para el fortalecimiento de un servicio público ético e íntegro, como el instrumento que contendrá los principios y valores considerados como fundamentales para la definición del rol del servicio público y que buscará incidir en el comportamiento y desempeño de las personas servidoras públicas, para formar una ética e identidad profesional compartida y un sentido de orgullo de pertenencia al servicio público. Contemplándose como elementos fundamentales de este instrumento a los principios constitucionales y legales que rigen al servicio público, como son: Legalidad, Honradez, Lealtad, Imparcialidad, Eficiencia, Economía, Disciplina, Profesionalismo, Objetividad, Transparencia, Rendición de cuentas, Competencia por mérito, Eficacia, Integridad y Equidad; a los valores: Interés Público, Respeto, Respeto a los Derechos Humanos, Igualdad y no discriminación, Equidad de Género, Entorno Cultural y Ecológico, Cooperación y Liderazgo; y a las Reglas de Integridad referentes a: la Actuación Pública, Información Pública, Contrataciones Públicas, Licencias, Permisos, Autorización y Concesiones, Programas Gubernamentales, Trámites y Servicios, Recursos Humanos, Administración de Bienes Muebles e Inmuebles, Procesos de Evaluación, Control Interno, Procedimiento Administrativo, Desempeño Permanente con Integridad, Cooperación con la Integridad y Comportamiento Digno.
+CUARTO.- Que con fecha 12 de octubre de 2018 fue publicado en el Diario Oficial de la Federación, el "Acuerdo por el que se dan a conocer los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas"; mismos que tienen por objeto establecer los elementos a considerar para la emisión del Código de Ética; así como sentar las bases de principios rectores que regirán las políticas transversales, integrales, sistemáticas, continuas y evaluables que, en materia de integridad y ética pública, emitan los entes públicos. Lineamientos en los que el Comité Coordinador del Sistema Nacional Anticorrupción considera al Código de Ética como un elemento de la política de integridad de los entes públicos, para el fortalecimiento de un servicio público ético e íntegro, como el instrumento que contendrá los principios y valores considerados como fundamentales para la definición del rol del servicio público y que buscará incidir en el comportamiento y desempeño de las personas servidoras públicas, para formar una ética e identidad profesional compartida y un sentido de orgullo de pertenencia al servicio público. Contemplándose como elementos fundamentales de este instrumento a los principios constitucionales y legales que rigen al servicio público, como son: Legalidad, Honradez, Lealtad, Imparcialidad, Eficiencia, Economía, Disciplina, Profesionalismo, Objetividad, Transparencia, Rendición de cuentas, Competencia por mérito, Eficacia, Integridad y Equidad; a los valores: Interés Público, Respeto, Respeto a los Derechos Humanos, Igualdad y no discriminación, Equidad de Género, Entorno Cultural y Ecológico, Cooperación y Liderazgo; y a las Reglas de Integridad referentes a: la Actuación Pública, Información Pública, Contrataciones Públicas, Licencias, Permisos, Autorización y Concesiones, Programas Gubernamentales, Trámites y Servicios, Recursos Humanos, Administración de Bienes Muebles e Inmuebles, Procesos de Evaluación, Control Interno, Procedimiento Administrativo, Desempeño Permanente con Integridad, Cooperación con la Integridad y Comportamiento Digno.
 
-QUINTO.- Que el Plan Estatal de Desarrollo 2016 - 2022 establece en su Eje Rector 1. “Gobierno Honesto, Cercano y Moderno”, particularmente en el 1.2 relativo a “Cero Tolerancia a la Corrupción”, el compromiso de esta Administración a sumarse y apegarse a los Lineamientos del Sistema Nacional Anticorrupción a fin de prever, detectar y sancionar todas las responsabilidades administrativas; todos aquellos hechos de corrupción y asimismo, fiscalizar, transparentar y controlar los recursos públicos.
+> <small>(F. DE E., P.O. 1 DE JULIO DE 2019)</small>
+
+QUINTO.- Que el Plan Estatal de Desarrollo 2016 - 2020 establece en su Eje Rector 1. “Gobierno Honesto, Cercano y Moderno”, particularmente en el 1.1 relativo a “Cero Tolerancia a la Corrupción”, el compromiso de esta administración a sumarse y apegarse a los Lineamientos del Sistema Estatal Anticorrupción a fin de prever, detectar y sancionar todas las responsabilidades administrativas; todos aquellos hechos de corrupción y asimismo, fiscalizar, transparentar y controlar los recursos públicos.
 
 SEXTO.- Que el Estado de Hidalgo, a través de la Secretaría de Contraloría del Poder Ejecutivo, es parte integrante de la Comisión Permanente de Contralores Estados - Federación, que es dentro del Sistema Nacional de Control y Evaluación de la Gestión Pública, el vínculo entre los Órganos de Control y Evaluación de la Gestión Pública del Gobierno Federal, de los Gobiernos Estatales y que entre sus líneas de acción, está la elaboración de un Código de Ética para los Servidores Públicos de la Administración Pública y las Reglas de Integridad para el ejercicio de su función; con lo que se busca homologar, a nivel nacional, conceptos, principios, criterios y objetivos, fomentando, a su vez, la cultura de la legalidad en el desempeño del servicio público, lo que se logrará asumiendo una efectiva convicción ética y de servicio a la ciudadanía, a través de la prevención de conflictos de interés, la implementación de reglas de integridad y el establecimiento de directrices para lograr un comportamiento ético por parte de todos los servidores públicos, fortaleciendo la transparencia, la rendición de cuentas, la legalidad y así estar en posibilidad de hacer frente a los nuevos retos que se presentan en materia de combate a la corrupción.
 
@@ -129,7 +131,9 @@ II. Honradez: Los servidores públicos se conducen con rectitud sin utilizar su 
 
 III. Lealtad: Los servidores públicos corresponden a la confianza que el Estado les ha conferido; tienen una vocación absoluta de servicio a la sociedad, y satisfacen el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población;
 
-IV. Imparcialidad: Los servidores públicos dan a la ciudadanía, a la población en general, el mismo trato, sin conocer privilegios o preferencias a organizaciones o personas, ni permiten que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva;
+> <small>(F. DE E., P.O. 1 DE JULIO DE 2019)</small>
+
+IV. Imparcialidad: Los servidores públicos dan a la ciudadanía, a la población en general, el mismo trato, sin conceder privilegios o preferencias a organizaciones o personas, ni permiten que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva;
 
 V. Eficiencia: Los servidores públicos actúan en apego a los planes y programas previamente establecidos y optimizan el uso y la asignación de los recursos públicos en el desarrollo de sus actividades para lograr los objetivos propuestos;
 
@@ -203,7 +207,9 @@ VIII. Obstruir la presentación de denuncias administrativas, penales o polític
 
 IX. Asignar o delegar responsabilidades y funciones sin apegarse a las disposiciones normativas aplicables;
 
-X. Permitir que servidores públicos subordinados incumplan total o parcialmente con su jornada un horario laboral;
+> <small>(F. DE E., P.O. 1 DE JULIO DE 2019)</small>
+
+X. Permitir que servidores públicos subordinados incumplan total o parcialmente con su jornada u horario laboral;
 
 XI. Realizar cualquier tipo de discriminación tanto a otros servidores públicos como a toda persona en general;
 
@@ -221,7 +227,9 @@ XVII. Obstruir u obstaculizar la generación de soluciones a dificultades que se
 
 XVIII. Evitar conducirse bajo criterios de austeridad, sencillez y uso apropiado de los bienes y medios que disponga con motivo del ejercicio del cargo público; y
 
-XIX. Abstenerse de utilizar o hacer uso de documentos falsos de carácter público o privado, con los que acrediten alguna o algunas ramas de la ciencia, profesión, estudio técnico o arte para el ejercicio del servicio público.
+> <small>(F. DE E., P.O. 1 DE JULIO DE 2019)</small>
+
+XIX. Utilizar documentos falsos o ajenos, de carácter público o privado, con los que acrediten alguna o algunas ramas de la ciencia, profesión, estudio técnico o arte para el ejercicio del servicio público.
 
 ###### Artículo 12.
 
@@ -533,9 +541,11 @@ Los principios rectores, valores y reglas de integridad se vincularán con la mi
 
 ### CAPITULO VI. DE LOS CASOS DE VULNERACIONES AL CÓDIGO DE ÉTICA
 
+> <small>(F. DE E., P.O. 1 DE JULIO DE 2019)</small>
+
 ###### Artículo 26.
 
-Cualquier servidor público o particular podrá ser de conocimiento de dos instancias, los incumplimientos al código de ética:
+Cualquier servidor público o particular podrá hacer del conocimiento a dos instancias, los incumplimientos al código de ética:
 
 I. El comité, en su carácter de Instancia preventiva podrá emitir recomendaciones encaminadas a mejorar el clima organizacional y a evitar la reiteración de la o las conductas contrarias al contenido de este Código, y,
 
