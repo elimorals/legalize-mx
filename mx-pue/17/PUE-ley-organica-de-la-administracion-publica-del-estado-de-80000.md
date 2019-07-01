@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2019-03-12"
+last_updated: "2019-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "PUE"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE PUEBLA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 31 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2019.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -1010,6 +1012,10 @@ XXIII.- Establecer programas para impulsar y apoyar el desarrollo social, cultur
 XXIV.- Impulsar la participación ciudadana en materia laboral;
 
 XXV.- Instrumentar acciones que mejoren las condiciones laborales de las mujeres, que incentiven la equidad de género;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2019)</small>
+
+XXV Bis.- Promover y vigilar que en los centros laborales existan condiciones de trabajo basadas en el principio de igualdad sustantiva entre mujeres y hombres;
 
 XXVI.- Vigilar el cumplimiento de las disposiciones legales que prohíban la discriminación laboral;
 
@@ -2756,3 +2762,13 @@ SEGUNDO. Todo instrumento jurídico ya sea legal o administrativo y norma en sen
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 CUARTO. El Ejecutivo del Estado dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, expedirá la reforma al Reglamento Interior de la Secretaría de Bienestar. En tanto no se expida el Reglamento Interior, seguirá el Reglamento vigente en todo aquello que no contravenga al presente.
+
+P.O. 1 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN XXV BIS AL ARTÍCULO 38 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. La Secretaría de Finanzas y Administración del Gobierno del Estado prevendrá las erogaciones presupuestales que deriven de la aplicación de este Decreto.
