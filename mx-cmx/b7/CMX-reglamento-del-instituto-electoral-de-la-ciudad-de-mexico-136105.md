@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-de-la-ciudad-de-mexico-13610
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-05-13"
-last_updated: "2019-05-13"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136105&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2019-04-30"
 ---
 # REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO EN MATERIA DE PROTECCION DE DATOS PERSONALES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE JULIO DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 1 DE JULIO DE 2019.]</small>
 
 Reglamento publicado en el Número 89 de la Gaceta Oficial de la Ciudad de México, el lunes 13 de mayo de 2019.
 
@@ -196,11 +196,17 @@ IV.- Direcciones Distritales: Órganos desconcentrados del Instituto Electoral d
 
 V.- Instituto Electoral: Instituto Electoral de la Ciudad de México;
 
-VII (SIC).- Instituto de Transparencia: Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México;
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-VIII.- Unidad de Transparencia: Oficina de Acceso a la Información Pública y Protección de Datos Personales del Instituto Electoral, y
+VI.- Instituto de Transparencia: Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México;
 
-IX.- Unidad Jurídica: Unidad Técnica de Asuntos Jurídicos del Instituto Electoral.
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+VII.- Unidad de Transparencia: Oficina de Acceso a la Información Pública y Protección de Datos Personales del Instituto Electoral, y
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+VIII.- Unidad Jurídica: Unidad Técnica de Asuntos Jurídicos del Instituto Electoral.
 
 C) Sus conceptos:
 
@@ -226,43 +232,81 @@ X.- Disociación: El procedimiento mediante el cual los datos personales no pued
 
 XI.- Documento de seguridad: Instrumento que describe y da cuenta de manera general sobre las medidas de seguridad técnicas, físicas y administrativas adoptadas por las áreas para garantizar la confidencialidad, integridad y disponibilidad de los datos personales que posee;
 
-X (SIC).- Encargado: La persona física o jurídica, pública o privada, ajena a la organización del Instituto Electoral que, sola o conjuntamente, con otras trate datos personales a nombre y por cuenta del Instituto Electoral;
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-XI.- Fuentes de acceso público: Aquellas bases de datos, sistemas o archivos en poder de los sujetos obligados, que por disposición de ley puedan ser consultadas públicamente;
+XII.- Encargado: La persona física o jurídica, pública o privada, ajena a la organización del Instituto Electoral que, sola o conjuntamente, con otras trate datos personales a nombre y por cuenta del Instituto Electoral;
 
-XII.- Gaceta Oficial: Gaceta Oficial de la Ciudad de México;
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-XIII.- Medidas compensatorias: Mecanismos alternos para dar a conocer a los titulares el aviso de privacidad, a través del sitio de Internet: www.iecm.mx;
+XIII.- Fuentes de acceso público: Aquellas bases de datos, sistemas o archivos en poder de los sujetos obligados, que por disposición de ley puedan ser consultadas públicamente;
 
-XIV.- Medidas de seguridad: Conjunto de acciones, actividades, controles o mecanismos administrativos, técnicos y físicos que permitan proteger los datos personales y los sistemas de datos personales;
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-XV.- Oficial de Protección de Datos Personales: La persona servidora pública designada por el Consejo General, especializada en la materia, quien realizará las funciones sustantivas para llevar a cabo el tratamiento de datos personales relevantes o intensivos y será el responsable de coordinar las actividades para atender los asuntos relativos a la Ley de Protección de Datos;
+XIV.- Gaceta Oficial: Gaceta Oficial de la Ciudad de México;
 
-XVI.- Remisión: Toda comunicación de datos personales realizada exclusivamente entre el responsable y encargado, dentro o fuera del territorio mexicano;
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-XVII.- Responsable: La o el titular de la Secretaría Ejecutiva;
+XV.- Medidas compensatorias: Mecanismos alternos para dar a conocer a los titulares el aviso de privacidad, a través del sitio de Internet: www.iecm.mx;
 
-XVIII.- Responsable de seguridad: La persona servidora pública designada por la o el titular del área que posea sistemas de datos personales, quien coordinará y controlará las medidas de seguridad definidas en el documento de seguridad;
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-XIX.- Sistema de datos personales: Conjunto organizado de archivos, registros, ficheros, bases o banco de datos personales en posesión del Instituto Electoral, cualquiera que sea la forma o modalidad de su creación, almacenamiento, organización y acceso;
+XVI.- Medidas de seguridad: Conjunto de acciones, actividades, controles o mecanismos administrativos, técnicos y físicos que permitan proteger los datos personales y los sistemas de datos personales;
 
-XX.- Sistema de tratamiento automatizado: Son operaciones y procedimientos técnicos, de carácter automatizado, que permiten recabar, conservar, modificar, bloquear, y cancelar datos personales; asimismo, permiten llevar a cabo cesiones de datos a través de comunicaciones, consultas, interconexiones y transferencias;
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-XXI.- Sitio de Internet: Sitio www.iecm.mx;
+XVII.- Oficial de Protección de Datos Personales: La persona servidora pública designada por el Consejo General, especializada en la materia, quien realizará las funciones sustantivas para llevar a cabo el tratamiento de datos personales relevantes o intensivos y será el responsable de coordinar las actividades para atender los asuntos relativos a la Ley de Protección de Datos;
 
-XXII.- Solicitudes de datos personales: Solicitudes de Acceso, Rectificación, Cancelación y Oposición de datos personales presentadas ante el Instituto Electoral;
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-XXIII.- Supresión: La eliminación, borrado o destrucción de los sistemas de datos personales o de datos personales de una persona física bajo las medidas de seguridad previamente establecidas por el responsable, una vez que se ha cumplido la finalidad y el dato personal ha cumplido su ciclo de vida;
+XVIII.- Remisión: Toda comunicación de datos personales realizada exclusivamente entre el responsable y encargado, dentro o fuera del territorio mexicano;
 
-XXIV.- Titular: La persona física a quien corresponden los datos personales;
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-XXV.- Temporalidad: Los datos personales tendrán un ciclo de vida o una temporalidad vinculada con la finalidad para la cual fueron recabados y tratados. Una vez concluida su temporalidad podrás (sic) ser destruidos, cancelados o suprimidos;
+XIX.- Responsable: La o el titular de la Secretaría Ejecutiva;
 
-XXVI.- Transferencia: Toda comunicación de datos personales dentro o fuera del territorio mexicano, realizada a persona distinta del titular, del responsable o del encargado;
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-XXVII.- Tratamiento: Cualquier operación o conjunto de operaciones efectuadas sobre datos personales o conjunto de datos personales, mediante procedimientos manuales o automatizados, y
+XX.- Responsable de seguridad: La persona servidora pública designada por la o el titular del área que posea sistemas de datos personales, quien coordinará y controlará las medidas de seguridad definidas en el documento de seguridad;
 
-XXVIII.- Usuario: La o el titular del área del Instituto Electoral que dé tratamiento, tenga acceso a los datos y a los sistemas de datos personales.
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+XXI.- Sistema de datos personales: Conjunto organizado de archivos, registros, ficheros, bases o banco de datos personales en posesión del Instituto Electoral, cualquiera que sea la forma o modalidad de su creación, almacenamiento, organización y acceso;
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+XXII.- Sistema de tratamiento automatizado: Son operaciones y procedimientos técnicos, de carácter automatizado, que permiten recabar, conservar, modificar, bloquear, y cancelar datos personales; asimismo, permiten llevar a cabo cesiones de datos a través de comunicaciones, consultas, interconexiones y transferencias;
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+XXIII.- Sitio de Internet: Sitio www.iecm.mx;
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+XXIV.- Solicitudes de datos personales: Solicitudes de Acceso, Rectificación, Cancelación y Oposición de datos personales presentadas ante el Instituto Electoral;
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+XXV.- Supresión: La eliminación, borrado o destrucción de los sistemas de datos personales o de datos personales de una persona física bajo las medidas de seguridad previamente establecidas por el responsable, una vez que se ha cumplido la finalidad y el dato personal ha cumplido su ciclo de vida;
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+XXVI.- Titular: La persona física a quien corresponden los datos personales;
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+XXVII.- Temporalidad: Los datos personales tendrán un ciclo de vida o una temporalidad vinculada con la finalidad para la cual fueron recabados y tratados. Una vez concluida su temporalidad podrás (sic) ser destruidos, cancelados o suprimidos;
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+XXVIII.- Transferencia: Toda comunicación de datos personales dentro o fuera del territorio mexicano, realizada a persona distinta del titular, del responsable o del encargado;
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+XXIX.- Tratamiento: Cualquier operación o conjunto de operaciones efectuadas sobre datos personales o conjunto de datos personales, mediante procedimientos manuales o automatizados, y
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+XXX.- Usuario: La o el titular del área del Instituto Electoral que dé tratamiento, tenga acceso a los datos y a los sistemas de datos personales.
 
 ###### Artículo 4.
 
@@ -953,3 +997,11 @@ Las sanciones que resulten de los procedimientos administrativos, iniciados conf
 PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. Todos los procedimientos iniciados en materia de protección de datos personales previos a la entrada en vigor del presente Reglamento, deberán tramitarse hasta su conclusión en los términos de las normas que estuvieron vigentes en su inicio.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 1 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DE LA "NOTA ACLARATORIA AL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DE LA CIUDAD DE MÉXICO”, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, DE FECHA 13 DE MAYO DE 2019".]
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
