@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2019-06-17"
+last_updated: "2019-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2019.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -1197,9 +1197,9 @@ XII. Convocar por conducto del secretario, a las sesiones de Ayuntamiento, confo
 
 XIII. Suscribir a nombre y con autorización del Ayuntamiento, los convenios, contratos y demás actos jurídicos que sean necesarios;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2019)</small>
 
-XIV. Proponer al Ayuntamiento, las personas que deban ocupar los cargos de secretario de ayuntamiento y tesorero de la administración pública municipal;
+XIV. Proponer al Ayuntamiento las personas que deban ocupar la titularidad de la Secretaría de Ayuntamiento y de la Tesorería Municipal;
 
 XV. Nombrar y remover del cargo, a los servidores públicos municipales no previstos en la fracción anterior, así como conceder o negar licencias;
 
@@ -2197,33 +2197,57 @@ XX. Las demás que le confiera esta u otras leyes, reglamentos, bandos municipal
 
 #### Sección Primera. De la Contraloría Municipal
 
-> <small>(REFORMADO [N. DE E. SU EPÍGRAFE], P.O. 9 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2019)</small>
 
 Contraloría Municipal
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ENERO DE 2018)</small>
 
 ###### Artículo 131.
 
 La contraloría municipal es el órgano interno de control encargado de la evaluación de la gestión municipal y desarrollo administrativo, así como el control de los ingresos, egresos, manejo, custodia y aplicación de los recursos públicos; con la finalidad de prevenir, corregir, investigar y, en su caso, sancionar actos y omisiones que pudieran constituir responsabilidades administrativas.
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2018)</small>
-
 La contraloría municipal tendrá autonomía técnica y de gestión.
 
-El Presidente Municipal para formular su propuesta deberá consultar públicamente a la ciudadanía y de las propuestas que formulen los ciudadanos integrará la terna que habrá de presentar al Ayuntamiento.
+El titular de la Contraloría Municipal durará en su cargo un periodo de cinco años, sin posibilidad de designación en el periodo inmediato, y será nombrado por el Ayuntamiento a partir de una terna formulada por el Comité Municipal Ciudadano.
 
-El mecanismo de consulta se establecerá en el reglamento del Ayuntamiento y deberá garantizar la participación de los ciudadanos en particular y de la sociedad civil organizada.
+Para formular su propuesta, el Comité Municipal Ciudadano deberá realizar consulta pública. La consulta deberá ser publicada en el Periódico Oficial del Gobierno del Estado y, al menos, en uno de los medios de comunicación impresos de mayor circulación en el Municipio, a efecto de que las propuestas que formulen los ciudadanos se integren en una terna que se presentará al Ayuntamiento.
 
-De la propuesta en terna de aspirantes al cargo de Contralor Municipal, el Ayuntamiento nombrará como contralor municipal, al que obtenga mayoría calificada. Si ninguno de los integrantes obtiene la mayoría calificada, se repetirá la votación entre los dos integrantes de la terna que hayan obtenido el mayor número de votos y de entre ellos, será nombrado como contralor municipal el que obtenga la mayoría. La información que se genere con motivo de la integración de la terna, es información pública.
+La integración y funcionamiento del mecanismo de consulta se establecerá en el reglamento municipal respectivo, apegándose a los principios de gobierno abierto, equidad, oportunidad, transparencia, imparcialidad y honradez; garantizándose la participación de los ciudadanos, en particular y de la sociedad civil organizada.
 
-Para el supuesto de lo señalado en el párrafo anterior, el Ayuntamiento deberá nombrar Contralor Municipal a más tardar el quince de noviembre del año de inicio de la administración municipal, hasta en tanto se podrá designar un encargado de la contraloría.
+De la propuesta en terna de aspirantes al cargo de Contralor Municipal, el Ayuntamiento nombrará como Contralor Municipal, al que obtenga mayoría calificada. Si ninguno de los integrantes obtiene la mayoría calificada, se repetirá la votación entre los dos integrantes de la terna que hayan obtenido el mayor número de votos y de entre ellos, será nombrado como contralor municipal el que obtenga la mayoría. La información que se genere con motivo de la integración de la terna, es información pública.
 
-El procedimiento de consulta pública para la designación de Contralor Municipal estará a cargo del Presidente Municipal y de la Comisión de Contraloría.
+Para el supuesto de lo señalado en el párrafo anterior, el Ayuntamiento deberá nombrar contralor municipal a más tardar cuarenta y cinco días a partir de la ausencia definitiva del titular de la contraloría municipal, en tanto se designará un encargado de despacho.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+La consulta para la designación de Contralor Municipal estará a cargo del Comité Municipal Ciudadano, quien podrá solicitar asesoría al Comité de Participación Ciudadana del Sistema Estatal Anticorrupción sobre el mecanismo de consulta, previo a la publicación de la convocatoria.
 
 La violación al procedimiento de designación de Contralor Municipal estará afectada de nulidad.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2019)</small>
+
+Del Comité Municipal Ciudadano
+
+###### Artículo 131
+
+1. El Ayuntamiento constituirá un Comité Municipal Ciudadano integrado por cinco ciudadanos, su cargo será honorífico y durará cuatro años, no tendrán interés alguno con el Ayuntamiento y no podrán ser propuestos como candidatos al cargo de Contralor Municipal por un periodo de seis años contados a partir de la disolución del Comité Municipal Ciudadano.
+
+En la conformación del Comité prevalecerá la paridad.
+
+El Ayuntamiento convocará, preferentemente, a las instituciones de educación media superior y superior, así como a organizaciones de la sociedad civil del municipio, para proponer candidatos a fin de integrar el Comité Municipal Ciudadano.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2019)</small>
+
+Requisitos de la convocatoria
+
+###### Artículo 131
+
+2. La convocatoria para integrar el Comité Municipal Ciudadano se realizará cumpliendo al menos con las siguientes bases:
+
+l. Los aspirantes deberán ser ciudadanos guanajuatenses y no haber sufrido condena por delito grave señalado por el Código Penal del Estado de Guanajuato, ni por delito que amerite pena corporal de más de un año de prisión;
+
+II. Los interesados deberán entregar en un solo acto los siguientes documentos: copia de acta de nacimiento, copia de identificación oficial vigente, carta de residencia en el municipio y curriculum vitae, y
+
+III. El Ayuntamiento revisará que se cumpla con los requisitos, evaluará las propuestas recibidas considerando el perfil, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, rendición de cuentas así como combate a la corrupción y propondrán el listado que estimen más apropiado.
+
+Lo no previsto en estas bases mínimas, será resuelto por el Ayuntamiento en los términos que señale el reglamento municipal.
 
 > <small>(REFORMADO [N. DE E. SU EPÍGRAFE], P.O. 9 DE ENERO DE 2018)</small>
 
@@ -4387,6 +4411,18 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente al de 
 
 P.O. 17 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 64, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 76 FRACCIÓN I, INCISO I; 77 FRACCIÓN XIV; 106 SEGUNDO PÁRRAFO Y 126 PRIMER Y SEGUNDO PÁRRAFOS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 64, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 76 FRACCIÓN I, INCISO I; 77 FRACCIÓN XIV; 106 SEGUNDO PÁRRAFO Y 126 PRIMER Y SEGUNDO PÁRRAFOS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+P.O. 1 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 86, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN XIV DEL ARTÍCULO 77 Y EL ARTÍCULO 131; Y SE ADICIONAN LOS ARTÍCULOS 131-1 Y 131-2 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Expedición de disposiciones reglamentarias de la Ley
+
+Artículo Segundo. Los Ayuntamientos contarán con un periodo de 90 días posteriores a la entrada en vigor del presente Decreto, para adecuar sus reglamentos, en congruencia con el mismo.
