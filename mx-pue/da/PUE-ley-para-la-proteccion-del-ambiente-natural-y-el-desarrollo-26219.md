@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2019-03-14"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -1923,6 +1923,14 @@ Para los efectos del párrafo anterior la Secretaría y los Ayuntamientos se ate
 
 ARTÍCULO 143 BIS.- Los refrendos de licencias, permisos o autorizaciones para la instalación de estructuras que sustenten anuncios o publicidad no podrán tener vigencia mayor a un año.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2019)</small>
+
+Bajo ninguna circunstancia se autorizará la colocación de anuncios publicitarios con contenidos que muestren estereotipos sexistas, degradantes o peyorativos sobre las mujeres; para lo cual los Ayuntamientos en el ámbito de su competencia deberán regular rigurosamente los términos de dicha prohibición.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2019)</small>
+
+Entendiendo como publicidad sexista, aquella que presenta hechos, acciones, símbolos y expresiones basadas en estereotipos de los roles de género que atribuyan o asocien características denigrantes, de exclusión, de sumisión, de racismo, de burla, de animadversión o cualquier otra forma de discriminación hacia el género femenino.
+
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2019)</small>
 
 ARTÍCULO 143 TER.- El reglamento respectivo establecerá la prohibición expresa de la instalación de nuevas estructuras que sustenten anuncios o publicidad en áreas verdes urbanas así como a menos de 250 metros lineales y radiales de otra estructura instalada con el mismo fin.
@@ -2551,7 +2559,7 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto p
 
 P.O. 14 DE MARZO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2560,3 +2568,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. Los Ayuntamientos emitirán las disposiciones reglamentarias o administrativas que correspondan al presente Decreto, en un término que no exceda de noventa días naturales, a partir de la entrada en vigor del presente Decreto.
 
 CUARTO. Las licencias, autorizaciones y permisos otorgadas hasta antes de la entrada en vigor del presente Decreto, continuarán vigentes y surtiendo efectos jurídicos en los términos y condiciones bajo los cuales fueron expedidos por la Secretaría.
+
+P.O. 1 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 143 BIS DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
