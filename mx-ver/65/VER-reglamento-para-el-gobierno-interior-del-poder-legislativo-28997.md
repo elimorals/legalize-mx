@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2017-12-21"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE JULIO DE 2019.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -1059,13 +1059,15 @@ VI. El Secretario computará los votos, hará público el resultado y el Preside
 
 Cuando hubiere empate en las votaciones que se refieran a elección de personas, se repetirá la votación en la misma sesión y, si resultaren empatados por segunda vez, se discutirá y votará de nuevo y así sucesivamente, hasta lograr un acuerdo mayoritario.
 
-> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE JULIO DE 2019)</small>
 
 ###### Artículo 100.
 
-Los Dictámenes con Proyecto de Acuerdo, y los proyectos de Punto de Acuerdo presentados por la Junta de Coordinación Política serán igualmente votados de manera nominal.
+Los dictámenes con proyecto de Ley, Decreto o Iniciativa ante el Congreso de la Unión serán sometidos a votación nominal, tanto en lo general como en lo particular.
 
-Las restantes propuestas se someterán a votación económica, excepto que, a petición de un diputado, secundada por tres diputados, lo sean en votación nominal.
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2019)</small>
+
+Los restantes dictámenes o propuestas se someterán a votación económica, excepto que, a petición de un diputado, secundada por tres diputados, lo sean en votación nominal.
 
 ###### Artículo 101.
 
@@ -1079,13 +1081,15 @@ III. Discusión y aprobación, en su caso, del dictamen correspondiente, por el 
 
 IV. Iniciación del procedimiento del referendo promovido por el Congreso;
 
-V. Discusión y aprobación, en su caso, por el voto de las dos terceras partes, en el periodo siguiente; y
+V. (DEROGADA, G.O. 1 DE JULIO DE 2019)
 
-VI. Aprobación de los municipios.
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2019)</small>
 
-> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+VI. Aprobación de los municipios
 
-El mismo procedimiento se seguirá para las reformas parciales, con excepción del requisito establecido en la fracción IV de este artículo y, en su caso, del señalado en la fracción V, si se tratare del procedimiento especial previsto en el artículo 84 de la Constitución y su ley reglamentaria.
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2019)</small>
+
+El mismo procedimiento se seguirá para las reformas parciales, con excepción del requisito establecido en la fracción IV de este artículo.
 
 ### CAPÍTULO V. De las Iniciativas
 
@@ -1844,5 +1848,13 @@ G.O. 21 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 380 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 1 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 265 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
