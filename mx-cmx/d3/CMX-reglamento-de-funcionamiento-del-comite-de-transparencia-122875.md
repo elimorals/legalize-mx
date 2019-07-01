@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-funcionamiento-del-comite-de-transparencia-122875
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2019-05-20"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122875&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2017-08-04"
 ---
 # REGLAMENTO DE FUNCIONAMIENTO DEL COMITE DE TRANSPARENCIA DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE JULIO DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE FUNCIONAMIENTO DEL COMITÉ DE TRANSPARENCIA DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 20 DE MAYO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DEL 1 DE JULIO DE 2019.]</small>
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -304,23 +304,41 @@ IX.- Llevar un registro de los asuntos aprobados en cada sesión;
 
 X.- Dar seguimiento a los acuerdos aprobados y a los asuntos conocidos por el Comité;
 
-IX (SIC).- Informar sobre el cumplimiento de los acuerdos del Comité, cuando lo solicite alguna persona integrante;
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-XI (SIC).- Elaborar el proyecto de minuta de cada sesión y presentarlo a la consideración del Comité;
+XI.- Informar sobre el cumplimiento de los acuerdos del Comité, cuando lo solicite alguna persona integrante;
 
-XII.- Firmar los acuerdos, resoluciones y minutas emitidos por el Comité, así como recabar las firmas correspondientes;
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-XIII.- Integrar y resguardar el archivo del Comité de conformidad con la normativa aplicable;
+XII.- Elaborar el proyecto de minuta de cada sesión y presentarlo a la consideración del Comité;
 
-XIV.- Incorporar, bajo su responsabilidad, las observaciones formuladas por las y los integrantes del Comité respecto de los documentos analizados en la sesión y darles trámite de inmediato;
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-XV.- Enviar copia de la minuta aprobada de cada sesión a las y los integrantes del Comité;
+XIII.- Firmar los acuerdos, resoluciones y minutas emitidos por el Comité, así como recabar las firmas correspondientes;
 
-XVI.- Solicitar a las áreas la información necesaria para elaborar los informes que deba presentar el Comité, conforme a la normativa aplicable;
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
 
-XVII.- Atender las solicitudes y requerimientos de la Presidencia; y
+XIV.- Integrar y resguardar el archivo del Comité de conformidad con la normativa aplicable;
 
-XVIII.- Las demás que le confiera el presente ordenamiento y la normativa aplicable.
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+XV.- Incorporar, bajo su responsabilidad, las observaciones formuladas por las y los integrantes del Comité respecto de los documentos analizados en la sesión y darles trámite de inmediato;
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+XVI.- Enviar copia de la minuta aprobada de cada sesión a las y los integrantes del Comité;
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+XVII.- Solicitar a las áreas la información necesaria para elaborar los informes que deba presentar el Comité, conforme a la normativa aplicable;
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+XVIII.- Atender las solicitudes y requerimientos de la Presidencia; y
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2019)</small>
+
+XIX.- Las demás que le confiera el presente ordenamiento y la normativa aplicable.
 
 > <small>(REFORMADO, G.O. 20 DE MAYO DE 2019)</small>
 
@@ -819,3 +837,9 @@ Consejero Presidente
 Lic. Rubén Geraldo Venegas
 
 Secretario Ejecutivo
+
+G.O. 1 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DE LA NOTA ACLARATORIA AL "ACUERDO DEL CONSEJO GENERAL, POR EL QUE SE APRUEBA LA REFORMA AL REGLAMENTO DE FUNCIONAMIENTO DEL COMITÉ DE TRANSPARENCIA DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO", PUBLICADO EN LA GACETA OFICIAL, DE FECHA 20 DE MAYO DE 2019”.]
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
