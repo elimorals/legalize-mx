@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2018-09-24"
+last_updated: "2019-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2019.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -522,6 +522,10 @@ III. La impresión del pulgar de la mano derecha; si esto no se pudiere, se toma
 IV. El nombre y apellidos que le correspondan.
 
 El Oficial del Registro Civil exhortará a quien presente al menor para que el nombre que proponga no contenga abreviaturas, diminutivos, claves, números y adjetivos que denigren la dignidad de la persona;
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2019)</small>
+
+En los casos provenientes de lenguas indígenas, el Oficial del Registro Civil estará obligado a registrar en el acta de nacimiento el nombre solicitado, con apego a las formas orales, funcionales y simbólicas de comunicación pertenecientes a las (sic) dichas lenguas.
 
 V. La mención de estar vivo o muerto;
 
@@ -2361,15 +2365,17 @@ El divorcio por mutuo consentimiento se tramitará en la forma que establezca el
 
 ###### Art. 329.
 
-El Divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio.
+(DEROGADO, P.O. 1 DE JULIO DE 2019)
 
 ###### Art. 330.
 
 Mientras que se decrete el divorcio, el Juez autorizará la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes haya obligación de dar alimentos, y los bienes de los consortes.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2019)</small>
+
 ###### Art. 331.
 
-Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
+Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado.
 
 ###### Art. 332.
 
@@ -2653,11 +2659,11 @@ Determinados por convenio o sentencia, los alimentos tendrán una actualización
 
 En este caso, la actualización en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2019)</small>
 
 ###### Art. 365-A.
 
-Los menores, las personas con discapacidad, los sujetos a estado de interdicción y el cónyuge o concubinario que se dedique al hogar, gozan de la presunción de necesitar alimentos.
+Los menores, las personas con discapacidad, los sujetos a estado de interdicción, los adultos mayores y el cónyuge o concubinario que se dedique al hogar, gozan de la presunción de necesitar alimentos.
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3722,6 +3728,10 @@ V. (DEROGADA, P.O. 30 DE JULIO DE 1996)
 > <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2005)</small>
 
 VI. El incumplimiento de la obligación alimentaria por más de noventa días, sin causa justificada.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2019)</small>
+
+Quien haya perdido la patria potestad por el incumplimiento de la obligación alimentaria, podrá recuperarla cuando demuestre no tener adeudos en el pago de la pensión y otorgue garantía anual sobre el cumplimiento de ésta, siempre y cuando no se trastoque el interés superior del menor. No procederá la recuperación de la patria potestad, cuando el menor o incapaz se haya dado en adopción.
 
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -17484,3 +17494,9 @@ P.O. 24 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 324, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 103, PRIMER PÁRRAFO; 153, FRACCIÓN IX; 342; 342-A, PRIMER PÁRRAFO Y SU FRACCIÓN II Y EL SEGUNDO PÁRRAFO; 343, PRIMER PÁRRAFO; 362, PRIMER PÁRRAFO; 365, SEGUNDO PÁRRAFO; 365-A; 377; 378; 388; 503, FRACCIÓN II; 518, PRIMER PÁRRAFO; 520; LA DENOMINACIÓN DEL CAPÍTULO IV, DEL TÍTULO NOVENO, DEL LIBRO PRIMERO; 560; Y 2624. SE ADICIONAN LOS ARTÍCULOS 362, CON UN SEGUNDO PÁRRAFO Y SE RECORRE EL ACTUAL SEGUNDO PÁRRAFO COMO TERCERO; 365-B; 377, CON UN SEGUNDO PÁRRAFO; 540, CON UN SEGUNDO PÁRRAFO. SE DEROGAN LOS ARTÍCULOS 153, FRACCIÓN V; 299; 343, SEGUNDO Y TERCER PÁRRAFOS; DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 1 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 85, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 331 Y 365-A; SE ADICIONAN UN TERCER PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 66 Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 497; Y SE DEROGA EL ARTÍCULO 329, DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
