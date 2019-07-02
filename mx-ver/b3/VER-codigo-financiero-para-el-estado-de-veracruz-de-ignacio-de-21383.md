@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2018-09-10"
+last_updated: "2019-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JULIO DE 2019.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -1795,13 +1795,27 @@ Es objeto de este impuesto, la prestación de servicios de hospedaje, proporcion
 
 I. Hoteles, hostales, moteles, posadas, mesones, o tiempo compartido;
 
-II. Albergues, campamentos y paraderos de casas rodantes; y
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2019)</small>
 
-III. Villas, búngalos, suites, casas de huéspedes, o cualquier otra instalación utilizada de manera ocasional o permanente para ese fin.
+II. Albergues, campamentos y paraderos de casas rodantes;
 
-En los supuestos previstos en este artículo, cuando intervenga una persona física o moral en su carácter de promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje, y en caso de que se cubra a través de ella lo correspondiente al Impuesto por la Prestación de Servicios de Hospedaje, ésta retendrá el impuesto, debiendo enterar el importe correspondiente a la autoridad fiscal.
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2019)</small>
+
+III. Villas, búngalos, suites, casas de huéspedes, o cualquier otra instalación utilizada de manera ocasional o permanente para ese fin, y
+
+> <small>(ADICIONADA, G.O. 2 DE JULIO DE 2019)</small>
+
+IV. Departamentos, casas total o parcialmente utilizados para estos servicios, incluyendo los ofertados por medio de aplicaciones, redes sociales, plataforma digital o cualquier otro medio de aplicación similar.
+
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2019)</small>
+
+En los supuestos previstos en este artículo, cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje, y en caso de que se cubra a través de ella lo correspondiente al Impuesto por la Prestación de Servicios de Hospedaje, ésta retendrá el impuesto, debiendo enterar el importe correspondiente a la autoridad fiscal.
 
 No se considerarán servicios de hospedaje, el albergue o alojamiento prestados por hospitales, clínicas, asilos, conventos, seminarios, internados o cualquier similar a éstos.
+
+> <small>(ADICIONADO, G.O. 2 DE JULIO DE 2019)</small>
+
+Se entiende por plataforma digital la aplicación tecnológica mediante la cual la persona física o moral administradora opera en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, que permite a los usuarios contratar servicios de hospedaje.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE OCTUBRE DE 2017)</small>
 
@@ -1933,27 +1947,61 @@ V. Presentar, ante la Oficina de Hacienda del Estado que corresponda a la jurisd
 
 VI. Expedir comprobantes fiscales, señalando en los mismos, además de los requisitos exigidos en las disposiciones fiscales federales, el impuesto por la prestación de servicios de hospedaje que se traslada en forma expresa y por separado a quien reciba los servicios que marca este Capítulo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JULIO DE 2019)</small>
 
 ###### Artículo 117.
 
-Las personas físicas o morales que, en su carácter de promotoras o facilitadoras, intervengan en el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al Impuesto por la Prestación de Servicios de Hospedaje, deberán inscribirse en el Registro Estatal de Contribuyentes en su carácter de promotor o facilitador, a efecto de coadyuvar en el cumplimiento de lo establecido en el presente capítulo.
+Las personas físicas o morales que, en su carácter de intermediarias, promotoras o facilitadoras, intervengan en el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al Impuesto por la Prestación de Servicios de Hospedaje, deberán inscribirse en el Registro Estatal de Contribuyentes en su carácter de promotor o facilitador, a efecto de coadyuvar en el cumplimiento de lo establecido en el presente capítulo.
 
-Asimismo, aquellas personas físicas o morales que, en su carácter de facilitadoras o promotoras, intervengan en el cobro de las contraprestaciones por los servicios de hospedaje, deberán presentar, a más tardar el día diecisiete de cada mes, una sola declaración por el total de las contraprestaciones percibidas en el mes inmediato anterior, en las formas y medios que para tal efecto establezca la Secretaría, de conformidad con lo establecido en el artículo 111.
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2019)</small>
+
+Asimismo, aquellas personas físicas o morales que, en su carácter de intermediarias, facilitadoras o promotoras, intervengan en el cobro de las contraprestaciones por los servicios de hospedaje, deberán presentar, a más tardar el día diecisiete de cada mes, una sola declaración por el total de las contraprestaciones percibidas en el mes inmediato anterior, en las formas y medios que para tal efecto establezca la Secretaría, de conformidad con lo establecido en el artículo 111.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE OCTUBRE DE 2017)</small>
 
 Los contribuyentes del Impuesto por la Prestación de Servicios de Hospedaje deberán formular declaraciones hasta en tanto no presenten el aviso de baja al padrón o de suspensión temporal de actividades.
 
-### CAPÍTULO TERCERO. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS Y CONCURSOS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE JULIO DE 2019)</small>
 
-> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+### CAPÍTULO TERCERO. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS, JUEGOS CON APUESTAS Y CONCURSOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JULIO DE 2019)</small>
 
 ###### Artículo 118.
 
-Son objeto de este impuesto los ingresos provenientes de la realización o celebración, así como de la obtención de premios en efectivo o en especie, derivados de rifas, sorteos, loterías, apuestas, juegos con máquinas de sistemas, programas automatizados o computarizados, concursos de cualquier índole, que lleven a cabo entidades públicas o privadas.
+Son objeto de este impuesto los ingresos provenientes de la realización o celebración, la obtención de premios en efectivo o en especie, derivados de rifas, sorteos, loterías, apuestas, juegos con máquinas de sistemas, programas automatizados o computarizados, concursos de cualquier índole, que lleven a cabo entidades públicas o privadas, así como las erogaciones que se realicen por participar en juegos con apuestas.
 
-El impuesto se causa al momento en que se efectúe la explotación de las actividades señaladas en el párrafo anterior, así como al instante del pago o entrega del premio.
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2019)</small>
+
+El impuesto se causa al momento en que se efectúe la explotación de las actividades señaladas en el párrafo anterior, al instante del pago o entrega del premio y en el momento en que se realicen las erogaciones por participar en juegos con apuestas.
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
 Para los efectos de este impuesto, no se considera como premio el reintegro correspondiente al billete o el equivalente en pesos al valor del cupón o boleto que permitió participar en la lotería, rifa o sorteo.
+
+> <small>(ADICIONADO, G.O. 2 DE JULIO DE 2019)</small>
+
+Quedan comprendidos en los juegos con apuestas, independientemente del nombre con el que se les designe, aquéllos que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, así como la realización de juegos y concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, independientemente de que en el desarrollo de los mismos se utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares.
+
+> <small>(ADICIONADO, G.O. 2 DE JULIO DE 2019)</small>
+
+Igualmente se consideran juegos con apuestas aquéllos en los que el participante deba estar presente en el juego, activamente o como espectador y, aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que el resultado no dependa de factores controlables o susceptibles de ser conocidos o denominados por el participante.
+
+> <small>(ADICIONADO, G.O. 2 DE JULIO DE 2019)</small>
+
+Asimismo, quedan comprendidos en los juegos con apuestas, los de apuestas remotas también conocidos como libros foráneos autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video o audio o ambos.
+
+> <small>(ADICIONADO, G.O. 2 DE JULIO DE 2019)</small>
+
+Igualmente quedan comprendidos en los juegos con apuestas, aquellos establecimientos autorizados por la autoridad competente en los que se reciban, capten, crucen o exploten apuestas.
+
+> <small>(ADICIONADO, G.O. 2 DE JULIO DE 2019)</small>
+
+Se incluyen como erogaciones que se realicen por participar en juegos con apuestas, las cantidades que entreguen a operadores de los establecimientos por concepto de acceso y utilización de máquinas o instalaciones relacionadas con los juegos con apuestas y sorteos, cualquiera que sea el nombre con el que se les designe.
+
+> <small>(ADICIONADO, G.O. 2 DE JULIO DE 2019)</small>
+
+Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, con la posibilidad de obtener o ganar un premio, cuyo monto sumado a la cantidad arriesgada deberá ser superior a ésta.
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -1961,9 +2009,17 @@ Para los efectos de este impuesto, no se considera como premio el reintegro corr
 
 Son sujetos de este impuesto, las personas físicas o morales, o unidades económicas sin personalidad jurídica, considerándose estas últimas dotadas de personalidad jurídica para los efectos de este impuesto:
 
-I. Que realicen o celebren rifas, sorteos, loterías, apuestas y concursos de cualquier índole, así como juegos con máquinas de sistemas, programas automatizados o computarizados, aun cuando por dichos eventos no se cobre cantidad alguna que represente el derecho a participar en los mismos; y
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2019)</small>
 
-II. Que obtengan ingresos o premios derivados o relacionados con las actividades a que se refiere la fracción anterior, incluyendo las participaciones de bolsas formadas con el importe de las inscripciones o cuotas que se distribuyan en función del resultado de las propias actividades.
+I. Que realicen o celebren rifas, sorteos, loterías, apuestas y concursos de cualquier índole, así como juegos con máquinas de sistemas, programas automatizados o computarizados;
+
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2019)</small>
+
+II. Que obtengan ingresos o premios derivados o relacionados con las actividades a que se refiere la fracción anterior, incluyendo las participaciones de bolsas formadas con el importe de las inscripciones o cuotas que se distribuyan en función del resultado de las propias actividades, y
+
+> <small>(ADICIONADA, G.O. 2 DE JULIO DE 2019)</small>
+
+III. Que realicen erogaciones dentro del territorio veracruzano por la participación en juegos con apuestas.
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -1973,13 +2029,21 @@ La base del impuesto se determinará conforme a lo siguiente:
 
 I. Para los sujetos señalados en la fracción I del artículo 119 de esta Ley, se considerará el valor total de la emisión de los boletos, billetes, contraseñas, documentos, objetos, registros o cualquier otro comprobante que permita participar en cualquiera de los eventos objeto de este impuesto, disminuyendo aquéllos no enajenados, no entregados o que no participen en la posibilidad de obtener premios;
 
-II. Para los sujetos de este impuesto que realicen las actividades señaladas en la fracción anterior fuera del territorio del Estado, se considerará únicamente el valor de los boletos, billetes, contraseñas y cualquier otro comprobante que se haya vendido dentro del Estado; y
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2019)</small>
+
+II. Para los sujetos de este impuesto que realicen las actividades señaladas en la fracción anterior fuera del territorio del Estado, se considerará únicamente el valor de los boletos, billetes, contraseñas y cualquier otro comprobante que se haya vendido dentro del Estado;
 
 III. Para los sujetos señalados en la fracción II del artículo 119 de esta Ley, se considerará el monto total del premio en efectivo, o el valor del bien en que consista el premio, determinado por el organizador del concurso de cualquier índole, sorteo, rifa, apuesta, lotería y juegos con máquinas de sistemas, programas automatizados o computarizados, o en su defecto, el valor de avalúo practicado por perito autorizado en la materia, a solicitud de la autoridad fiscal.
 
 En el caso de juegos con máquinas de sistemas, programas automatizados o computarizados, serán los ingresos obtenidos provenientes de la participación en éstos.
 
-Tratándose de premios en especie, será el valor con el que se promocione cada uno de los premios; o en su defecto, el valor de su facturación, siempre y cuando dichos valores coincidan con el valor de mercado de artículos idénticos o semejantes al momento de su causación.
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2019)</small>
+
+Tratándose de premios en especie, será el valor con el que se promocione cada uno de los premios; o en su defecto, el valor de su facturación, siempre y cuando dichos valores coincidan con el valor de mercado de artículos idénticos o semejantes al momento de su causación; y
+
+> <small>(ADICIONADA, G.O. 2 DE JULIO DE 2019)</small>
+
+IV. Para los sujetos señalados en la fracción III del artículo 119 de este Código, la base de este impuesto será el monto o contraprestación que el participante pague al operador del establecimiento, ya sea en efectivo, en especie o por cualquier otro medio que le permita su participación en juegos con apuestas y hasta el monto de cada pago que se realice de manera directa o a través de un usuario distinto.
 
 El impuesto a que se refiere este Capítulo no se expresará por separado en los billetes, boletos y demás comprobantes que permitan participar en los eventos objeto de este impuesto.
 
@@ -1991,13 +2055,27 @@ El pago de este impuesto no libera de la obligación de obtener los permisos o a
 
 Para efectos del cálculo para la determinación de este impuesto se estará a lo siguiente:
 
-I. Para los sujetos señalados en la fracción I del artículo 119, el impuesto se determinará aplicando la tasa del 3.5% al valor nominal de la suma de los billetes, boletos, contraseñas, documentos, objetos o registros distribuidos para participar en loterías, rifas, sorteos, concursos, apuestas y juegos con máquinas de sistemas, programas automatizados o computarizados.
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2019)</small>
+
+I. Para los sujetos señalados en la fracción I del artículo 119, el impuesto se determinará aplicando la tasa del 6% al valor nominal de la suma de los billetes, boletos, contraseñas, documentos, objetos o registros distribuidos para participar en loterías, rifas, sorteos, concursos, apuestas y juegos con máquinas de sistemas, programas automatizados o computarizados.
 
 Cuando en los supuestos anteriores el premio ofrecido se encuentre contenido de manera referenciada u oculta en bienes cuya adquisición otorgue el derecho a participar en dichas actividades, se considerará como valor el precio en el que la persona que lo realice haya enajenado todos los bienes que participen en las mismas.
 
-Tratándose de igual manera de los supuesto referidos anteriormente en los que los participantes obtengan dicha calidad, incluso a título gratuito, por el hecho de adquirir un bien o contratar un servicio, recibiendo para ello un comprobante, se considerará como valor el monto total nominal por el que se entregue cada comprobante que otorgue el derecho a participar, conforme a las condiciones establecidas en el permiso otorgado por la autoridad competente. Cuando además de adquirir un bien o contratar un servicio, se pague una cantidad adicional para participar en la actividad de que se trate, el impuesto además de calcularse en los términos ya señalados también se calculará sobre dicha cantidad; y
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2019)</small>
 
-II. Para los sujetos señalados en la fracción II del artículo 119, el impuesto se determinará aplicando la tasa del 5.21% a la base correspondiente.
+Tratándose de igual manera de los supuestos referidos anteriormente en los que los participantes obtengan dicha calidad, incluso a título gratuito, por el hecho de adquirir un bien o contratar un servicio, recibiendo para ello un comprobante, se considerará como valor el monto total nominal por el que se entregue cada comprobante que otorgue el derecho a participar, conforme a las condiciones establecidas en el permiso otorgado por la autoridad competente. Cuando además de adquirir un bien o contratar un servicio, se pague una cantidad adicional para participar en la actividad de que se trate, el impuesto además de calcularse en los términos ya señalados también se calculará sobre dicha cantidad;
+
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2019)</small>
+
+II. Para los sujetos señalados en la fracción II del artículo 119, el impuesto se determinará aplicando la tasa del 6% a la base correspondiente, y
+
+> <small>(ADICIONADA [N. DE E. CON TRES PÁRRAFOS], G.O. 2 DE JULIO DE 2019)</small>
+
+III. Para los sujetos señalados en la fracción III del artículo 119 les será aplicable una tasa de 10% sobre el monto de las erogaciones que efectúen para participar en juegos con apuestas, ya sean pagados en efectivo, en especie o por cualquier otro medio que permita participar en los mismos.
+
+Las erogaciones a que se refiere el párrafo anterior incluyen la carga y cualquier recarga adicional que se realice, cantidad que será retenida por el organizador de los juegos con apuestas.
+
+Cuando el pago o contraprestación a favor del operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo al operador del establecimiento para que éste pueda retener el impuesto, y la omisión del contribuyente no liberará al operador de la responsabilidad solidaria que, en su caso, se configure de conformidad con el artículo 30, fracción I de este Código.
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -2011,6 +2089,10 @@ Los sujetos a que se refiere la fracción I del artículo 119 de esta Ley, será
 
 En los casos de premios en especie, el contribuyente deberá proveer al retenedor el importe del impuesto previamente a la entrega del bien. Los retenedores son solidariamente responsables con los contribuyentes por el pago de este impuesto.
 
+> <small>(ADICIONADO, G.O. 2 DE JULIO DE 2019)</small>
+
+En el caso de los juegos con apuestas, los operadores de los establecimientos en los que se realicen los juegos o concursos o en los que se encuentren instaladas las máquinas de juegos, así como los organizadores de los juegos con apuestas deberán retener el impuesto por las erogaciones que se realicen por participar en juegos con apuestas, al momento de recibir el pago o contraprestación correspondiente y deberá enterarlo en los términos establecidos en el primer párrafo de este artículo.
+
 > <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 122 Bis.
@@ -2023,7 +2105,9 @@ a) Inscribirse en el Registro Estatal de Contribuyentes ante la oficina de Hacie
 
 La Secretaría podrá inscribir de oficio a los contribuyentes, cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto;
 
-b) Calcular y retener el impuesto que corresponda a los premios pagados, o entregados, y enterarlo a las autoridades fiscales correspondientes mediante las formas y conductos autorizados, y dentro de los plazos establecidos;
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2019)</small>
+
+b) Calcular y retener el impuesto que corresponda a los premios pagados, o entregados, así como el impuesto por las erogaciones que se realicen por participar en juegos con apuestas, y enterarlo a las autoridades fiscales correspondientes mediante las formas y conductos autorizados, y dentro de los plazos establecidos;
 
 c) Proporcionar al interesado la constancia de retenciones del impuesto causado;
 
@@ -2035,9 +2119,9 @@ f) Conservar a disposición de las autoridades fiscales y exhibir cuando se les 
 
 g) Si los premios ofrecidos consisten en bienes distintos de dinero, señalarán en moneda nacional el valor de los mismos;
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2019)</small>
 
-h) Dictaminar la determinación y pago de este impuesto, por medio de contador público autorizado, más tardar en el último día hábil del mes de julio de cada ejercicio.
+h) Dictaminar la determinación y pago de este impuesto, por medio de contador público autorizado, a más tardar en el último día hábil del mes de julio de cada ejercicio, de conformidad con las reglas de carácter general que al efecto expidan las autoridades fiscales.
 
 Los contribuyentes obligados a dictaminarse, así como los voluntarios, deberán presentar el aviso correspondiente a más tardar el 30 de abril del ejercicio posterior al que se dictamina, el Aviso.
 
@@ -2047,15 +2131,21 @@ i) Proporcionar a las autoridades fiscales, la información solicitada por ésta
 
 II. Tratándose de sujetos eventuales tendrán las obligaciones señaladas en los incisos b), c), f), g) e i) de la fracción anterior.
 
-> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JULIO DE 2019)</small>
 
 ###### Artículo 122 Ter.
 
-No se pagará este impuesto por la celebración de loterías, rifas, sorteos y concursos de cualquier índole, que lleven a cabo las dependencias del Gobierno Federal, de los Gobiernos de los Estados y de los municipios; así como los organismos públicos descentralizados de la administración pública federal, estatal y municipal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública; así como las donatarias autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta.
+No se pagará este impuesto por la celebración de loterías, rifas, sorteos, juegos con apuestas y concursos de cualquier índole, que lleven a cabo las dependencias del Gobierno Federal, de los Gobiernos de los Estados y de los municipios; así como los organismos públicos descentralizados de la administración pública federal, estatal y municipal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública; así como las donatarias autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta.
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
 No obstante lo anterior, los citados entes, deberán cumplir con la obligación de retener y enterar el impuesto por los premios pagados o entregados.
 
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+
 En ningún caso, se entenderán exentos del pago del impuesto, los premios obtenidos.
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
 Para los efectos de este impuesto, se consideran sujetos habituales las personas que realicen más de diez actividades objeto de este impuesto que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, durante un ejercicio fiscal.
 
@@ -2131,11 +2221,11 @@ En todo caso, los vehículos a que se refiere el inciso e) de la fracción I del
 
 (DEROGADO, G.O. 16 DE DICIEMBRE DE 2013)
 
-> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2019)</small>
 
 ###### Artículo 127 Bis.
 
-La tasa del impuesto es el 2% sobre la base indicada en el artículo 125.
+La tasa del impuesto es el 0.60% sobre la base indicada en el artículo 125.
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -4013,31 +4103,29 @@ c) Los ingresos producto de la prestación de servicios públicos que administre
 
 En los casos señalados en las fracciones anteriores, quien realice la recaudación deberá informar a la Secretaría mensualmente el monto de lo recaudado, para que ésta, a su vez, lo reporte en la cuenta pública. Asimismo, quien recaude observará las normas relativas a tesorería, contabilidad y control que en este Código, en la Ley de Contabilidad y demás disposiciones se establezcan y le sean aplicables.
 
-> <small>(ADICIONADO, G.O. 16 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2019)</small>
 
 ###### Artículo 230 Bis.
 
-Los ingresos obtenidos por concepto de concesiones de tiendas para la venta de alimentos, dentro de los espacios físicos de los planteles educativos del sistema público en el Estado, se destinarán al mantenimiento y conservación de la infraestructura física de los mismos y servicios correlacionados, así como para las consecuentes tareas de supervisión educativa y apoyo a la gestión docente.
+Los ingresos obtenidos por concepto de concesiones de tiendas para la venta de alimentos, dentro de los espacios físicos de los planteles educativos del sistema público en el Estado, se destinarán al mantenimiento y conservación de la infraestructura física de los mismos y servicios correlacionados, así como para las consecuentes tareas de supervisión educativa, apoyo a la gestión docente y programas que se determinen en los lineamientos que dicte la autoridad educativa local.
 
-Para estos efectos, el ochenta por ciento de los recursos obtenidos se aplicará al mantenimiento y conservación de la infraestructura física de los planteles educativos públicos y servicios correlacionados, que serán recibidos y administrados por las autoridades administrativas de cada plantel educativo. El veinte por ciento de los recursos restantes se aplicará a las tareas de supervisión educativa y apoyo a la gestión docente en los sectores y zonas de las modalidades educativas públicas mencionadas, que serán recibidos y administrados por las respectivas jefaturas de sector, inspecciones y jefaturas de enseñanza correspondientes.
+La Secretaría de Educación de Veracruz será la que reciba, administre y realice la comprobación de los recursos a los que se refiere el presente numeral, para estos efectos el setenta por ciento de los recursos obtenidos se aplicará al mantenimiento y conservación de la infraestructura física de los planteles educativos públicos y servicios correlacionados, el veinte por ciento de los recursos se aplicará a las tareas de supervisión educativa y apoyo a la gestión docente en los sectores y zonas de las modalidades educativas públicas mencionadas y el diez por ciento de los recursos restantes será aplicado en programas que se determinen en los lineamientos que dicte la autoridad educativa local.
 
 La recepción, administración, distribución y comprobación de los recursos se sujetará, invariablemente, a las disposiciones aplicables en materia de ejercicio del gasto público y transparencia financiera, así como a la contabilidad gubernamental y a la revisión y fiscalización de la cuenta pública.
 
-> <small>(REFORMADO, G.O. 23 DE AGOSTO 2018)</small>
+Los procedimientos de licitación pública que se desahoguen para el otorgamiento de las concesiones y los contratos respectivos, se ajustarán a lo dispuesto por la Ley de la materia, así como por los lineamientos que dicte la autoridad educativa estatal; la emisión de la convocatoria y la resolución del procedimiento estarán a cargo de la Secretaría de Educación de Veracruz, quien se apoyará para estos efectos de un Comité de Licitaciones, el cual se conformará con los siguientes miembros:
 
-Los procedimientos de licitación pública que se desahoguen para el otorgamiento de las concesiones y los contratos respectivos, se ajustarán a lo dispuesto por la Ley de la materia, así como por los lineamientos que dicte la autoridad educativa estatal, pero la emisión de la convocatoria y la resolución del procedimiento estarán a cargo de un Comité de Licitaciones, el cual se conformará con los siguientes miembros:
+I. El Secretario de Educación;
 
-I. El Director de la Escuela;
+II. El Subsecretario de Educación Básica;
 
-II. Un representante de los docentes;
+III. El Subsecretario de Educación Media Superior y Superior;
 
-III. Un representante de los padres de familia;
+IV. El Director Jurídico de la Secretaría de Educación;
 
-IV. Un representante del Consejo Escolar de Participación Social en la Educación, que corresponda;
+V. Un representante de la Sociedad de Padres de Familia; y
 
-V. Un representante de la jefatura del sector escolar correspondiente; y
-
-VI. Un representante de la supervisión escolar correspondiente.
+VI. Un representante del Consejo Estatal de Participación Social
 
 ###### Artículo 231.
 
@@ -5736,3 +5824,21 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. En un plazo no mayor a 60 días hábiles, la Secretaría de Finanzas y Planeación del Gobierno del Estado de Veracruz emitirá las reglas de operación para que los contribuyentes puedan hacer efectivas las excepciones del pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal previstas en este Decreto.
+
+G.O. 2 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 266 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de (sic) Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 268 QUE REFORMA EL ARTÍCULO 230 BIS DEL CÓDIGO FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. La Secretaría de Educación deberá emitir los lineamientos a que se refiere este Decreto dentro de los treinta días hábiles siguientes al inicio de su vigencia.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
