@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2019-06-04"
+last_updated: "2019-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JULIO DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -174,13 +174,17 @@ Son sujetos de aseguramiento del régimen obligatorio:
 
 I. Las personas que de conformidad con los artículos 20 y 21 de la Ley Federal del Trabajo, presten, en forma permanente o eventual, a otras de carácter físico o moral o unidades económicas sin personalidad jurídica, un servicio remunerado, personal y subordinado, cualquiera que sea el acto que le dé origen y cualquiera que sea la personalidad jurídica o la naturaleza económica del patrón aun cuando éste, en virtud de alguna ley especial, esté exento del pago de contribuciones;
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 2019)</small>
 
-II. Los socios de sociedades cooperativas, y
+II. Los socios de sociedades cooperativas;
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 2019)</small>
 
-III. Las personas que determine el Ejecutivo Federal a través del Decreto respectivo, bajo los términos y condiciones que señala esta Ley y los reglamentos correspondientes.
+III. Las personas que determine el Ejecutivo Federal a través del Decreto respectivo, bajo los términos y condiciones que señala esta Ley y los reglamentos correspondientes, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE JULIO DE 2019)</small>
+
+IV. Las personas trabajadoras del hogar.
 
 ###### Artículo 13.
 
@@ -188,7 +192,7 @@ Voluntariamente podrán ser sujetos de aseguramiento al régimen obligatorio:
 
 I. Los trabajadores en industrias familiares y los independientes, como profesionales, comerciantes en pequeño, artesanos y demás trabajadores no asalariados;
 
-II. Los trabajadores domésticos;
+II. (DEROGADA, D.O.F. 2 DE JULIO DE 2019)
 
 III. Los ejidatarios, comuneros, colonos y pequeños propietarios;
 
@@ -4345,3 +4349,15 @@ D.O.F. 4 DE JUNIO DE 2019.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Los recursos para el ejercicio 2019 se obtendrán de los apartados precisados en el presente Decreto y posteriormente los recursos que se requieran deberán ser garantizados, etiquetados y provisionados con anterioridad por la Secretaría de Hacienda y Crédito Público en los Presupuestos de Egresos de la Federación de los ejercicios que correspondan, y en el entendido de que la implementación de tal programa no impactará de forma alguna las cuotas obrero-patronales recabadas por los Institutos de Seguridad Social del Gobierno Federal.
+
+D.O.F. 2 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO Y DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE LAS PERSONAS TRABAJADORAS DEL HOGAR”.]
+
+Primero.- Publíquese en el Diario Oficial de la Federación.
+
+Segundo.- En cumplimiento con la resolución del Amparo Directo 9/2018 (relacionado con el Amparo Directo 8/2018), emitido por la Segunda Sala de la Suprema Corte de Justicia de la Nación, y derivado de los resultados que arroje la evaluación del denominado Programa Piloto que ha implementado el Instituto Mexicano del Seguro Social desde el día 1 de abril de 2019, en términos de la obligación así impuesta por el máximo Tribunal Constitucional al referido Instituto, éste último deberá compartir con el Legislativo un informe preliminar, una vez transcurridos los 18 meses del referido Programa, en el que incluirá en términos generales los avances logrados y problemáticas encontradas, mismas que servirán de base para las iniciativas legales que con mayor detalle definirán en su momento los aspectos de supervisión, inspección, salarios mínimos por oficio, así como las formalidades administrativas que se consideren necesarias para lograr la certidumbre y plena efectividad que se requiere.
+
+Tercero.- En consecuencia de lo referido en el Transitorio que precede, las disposiciones relativas a la incorporación formal de las personas trabajadoras del hogar al régimen obligatorio de seguridad social iniciarán su vigencia una vez que se realicen las adecuaciones y reservas legales necesarias para dar completa operatividad al reconocimiento del derecho a que se refiere este Decreto, debiendo quedar totalmente concluida en un plazo no mayor a 6 meses contados a partir de la culminación del Programa Piloto y entrega al Legislativo del informe aludido en el citado dispositivo que antecede.
+
+Cuarto.- Hasta en tanto entren en vigor las disposiciones contenidas en el presente Decreto referentes a la Ley del Seguro Social para comprender el trabajo del hogar en el régimen obligatorio, el patrón garantizará la atención médica y los gastos por concepto de sepelio.
