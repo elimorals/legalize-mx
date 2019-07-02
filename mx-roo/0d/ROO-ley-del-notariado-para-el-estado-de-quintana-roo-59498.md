@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-notariado-para-el-estado-de-quintana-roo-59498"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-29"
-last_updated: "2010-12-29"
+last_updated: "2019-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 2 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2019 (ABROGADA).
 
 Ley publicada en el Número 69 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 29 de octubre de 2007.
 
@@ -1876,3 +1878,33 @@ SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se 
 T R A N S I T O R I O:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 2 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 333 POR EL QUE SE EXPIDE LA LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley del Notariado para el Estado de Quintana Roo, contenida en el Decreto Número 205 emitido por la Décima Primera Legislatura Constitucional del Estado Libre y Soberano de Quintana Roo, publicada en el Periódico Oficial de 29 de octubre del año 2007, así como todas sus reformas legales y se derogan todas las demás disposiciones que se opongan a la presente ley.
+
+TERCERO. Los Notarios Públicos Titulares que actualmente se encuentren con licencia autorizada, continuarán con la misma hasta el vencimiento de su plazo o de la terminación de su cargo público, según se trate, debiendo reincorporarse a la Notaría Pública de que sean titulares, dentro de los diez días hábiles siguientes a la fecha de la terminación, de su licencia o cargo público.
+
+CUARTO. Los Notarios Públicos Suplentes quienes, a la fecha de inicio de la vigencia de esta ley, estén desempeñando funciones notariales por licencia autorizada a Notarios Públicos Titulares, continuarán con ese desempeño hasta la fecha de vencimiento de esas licencias o de la terminación del cargo público que la hubiera originado.
+
+QUINTO. Los Notarios Públicos Auxiliares, que al inicio de la vigencia de la presente ley estén en funciones, continuarán en las mismas, y decidirán con libertad si presentan su examen de Aspirante al ejercicio del Notariado, sin que ello afecte en forma alguna su nombramiento.
+
+SEXTO. Los Notarios Públicos en ejercicio de sus funciones a la fecha de inicio de la vigencia de esta ley, continuarán utilizando válidamente el protocolo ordinario hasta concluirlos y deberán actualizar sus garantías conforme a lo señalado en la fracción II del artículo 46 de esta ley, dentro de los ciento veinte días naturales siguientes a la misma fecha de inicio antes citada.
+
+SÉPTIMO. Los procedimientos administrativos iniciados antes de la entrada en vigor de esta ley, se tramitarán y resolverán de conformidad con la ley que se abroga.
+
+OCTAVO. La Dirección General de Notarías, a la vigencia de la presente ley, deberá instrumentar las diligencias necesarias en coordinación con las autoridades cuyas funciones se encuentren relacionadas con la materia y de acuerdo a las normas que regulan la misma, para la depuración de los expedientes de apéndices cuyos documentos ya no posean eficacia jurídica ni valor histórico y se encuentren bajo resguardo del Archivo General de Notarias.
+
+NOVENO. La destrucción de los libros de protocolo y apéndices que a la vigencia de la presente ley existan en el Archivo General de Notarías, en coordinación con las autoridades que por norma les competa la materia de documentos archivísticos, procederá siempre y cuando aquellos ya hayan sido digitalizados de acuerdo con lo que establecen los artículos 67 y 84 de la presente ley; siempre y cuando no se oponga con las disposiciones de otras leyes de la materia.
+
+DÉCIMO. Todos los Notarios sin perjuicio de las obligaciones que tiene de establecer el domicilio de su oficina, deberán, en un término de quince días hábiles contados a partir de la publicación de la presente ley y mediante escrito dirigido a la Secretaría de Gobierno y a la Dirección General de Notarías, proporcionar un correo electrónico, mismo que será registrado por estas Autoridades antes mencionadas, para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias, relacionadas con la presente ley.
+
+DÉCIMO PRIMERO. Las convocatorias en proceso para obtener las patentes de las Notarías Públicas acéfalas, le serán aplicables las reglas de la ley que se abroga, con excepción de la integración del jurado, que se hará conforme a la presente ley.
+
+DÉCIMO SEGUNDO. Hasta en tanto no se realice la devolución del total de la garantía, por parte del Poder Ejecutivo del Estado de Quintana Roo, los notarios no estarán obligados a realizar el pago de la fianza prevista en la presente Ley.
+
+DÉCIMO TERCERO. El Titular del Poder Ejecutivo emitirá el reglamento de la presente Ley, mismo que deberá ser publicado en el Periódico Oficial del Estado de Quintana Roo.
