@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2018-07-19"
+last_updated: "2019-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -1295,7 +1295,9 @@ XIV. Nombrar, a propuesta de su Presidente, a los titulares del Secretariado Eje
 
 XV. Emitir las bases, mediante la expedición de acuerdos generales, para las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obras que realice el Poder Judicial del Estado, en ejercicio de sus partidas presupuestales, ajustándose a los criterios contemplados en el artículo 160 de la Constitución Política del Estado Libre y Soberano de Durango;
 
-XVI. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los de prestación de servicios al público;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2019)</small>
+
+XVI. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los de prestación de servicios al público; así como determinar las medidas necesarias a fin de dar cumplimiento a las obligaciones en materia de mejora regulatoria, relativas al Catálogo Nacional de Regulaciones, Trámites y Servicios, en observancia a lo establecido en el Capítulo VI de la Ley General de Mejora Regulatoria
 
 XVII. Establecer las disposiciones generales necesarias para el ingreso, estímulos, capacitación, ascensos, promociones y remoción del personal administrativo de los juzgados;
 
@@ -3580,3 +3582,11 @@ P.O. 19 DE JULIO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 2 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 108.- QUE CONTIENE REFORMA A LA FRACCIÓN XVI DEL ARTÍCULO 87 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
