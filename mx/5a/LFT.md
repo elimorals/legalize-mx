@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2019-06-04"
+last_updated: "2019-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LFT"
 ---
 # LEY FEDERAL DEL TRABAJO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JULIO DE 2019.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -126,9 +128,9 @@ b) Cuando declarada una huelga en iguales términos de licitud por la mayoría d
 
 Las disposiciones de esta Ley son de orden público por lo que no producirá efecto legal, ni impedirá el goce y el ejercicio de los derechos, sea escrita o verbal, la estipulación que establezca:
 
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 2019)</small>
 
-I. Trabajos para menores de quince años;
+I. Trabajos para adolescentes menores de quince años;
 
 II. Una jornada mayor que la permitida por esta Ley;
 
@@ -226,7 +228,7 @@ I. Prestarán sus servicios en las mismas condiciones de trabajo y tendrán los 
 
 II. Los intermediarios no podrán recibir ninguna retribución o comisión con cargo a los salarios de los trabajadores.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 15.
 
@@ -790,9 +792,11 @@ k) Negarse a recibir injustificadamente el trabajador de un organismo público o
 
 Se considera grave la conducta si la dilación es producto de omisiones o conductas irregulares de los servidores públicos; en estos casos, además de las sanciones que sean aplicables conforme a la Ley General de Responsabilidades Administrativas, se les impondrá a quienes resulten responsables una multa de 100 a 1000 veces la Unidad de Medida y Actualización, y se deberá dar vista al Ministerio Público por la posible comisión de delitos contra la administración de justicia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JULIO DE 2019)</small>
+
 ###### Artículo 49.
 
-El patrón quedará eximido de la obligación de reinstalar al trabajador, mediante el pago de las indemnizaciones que se determinan en el artículo 50 en los casos siguientes:
+La persona empleadora quedará eximida de la obligación de reinstalar a la persona trabajadora, mediante el pago de las indemnizaciones que se determinan en el artículo 50 en los casos siguientes:
 
 I. Cuando se trate de trabajadores que tengan una antigüedad menor de un año;
 
@@ -802,9 +806,9 @@ II. Si comprueba ante el Tribunal que el trabajador, por razón del trabajo que 
 
 III. En los casos de trabajadores de confianza;
 
-> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 2019)</small>
 
-IV. En los casos de trabajadores del hogar, y
+IV. En el trabajo del hogar, y
 
 V. Cuando se trate de trabajadores eventuales.
 
@@ -3566,9 +3570,9 @@ La prestación de servicios dentro de la República, en lugar diverso de la resi
 
 Cuando la naturaleza del trabajo lo requiera, los patrones estarán obligados a proporcionar a los trabajadores actores y músicos camerinos cómodos, higiénicos y seguros, en el local donde se preste el servicio.
 
-### CAPITULO XIII. Trabajadores del hogar
+### CAPITULO XIII. Personas Trabajadoras del Hogar
 
-> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JULIO DE 2019)</small>
 
 ###### Artículo 311.
 
@@ -3734,7 +3738,7 @@ VI. Practicar visitas en los locales donde se ejecute el trabajo, para vigilar q
 
 VII. Informar a la Comisión Nacional de los Salarios Mínimos las diferencias de salarios que adviertan, en relación con los que se paguen a trabajadores que ejecuten trabajos similares.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE JULIO DE 2019)</small>
 
 ### CAPITULO XIII Bis. De Los Trabajadores en Minas
 
@@ -3744,41 +3748,163 @@ VII. Informar a la Comisión Nacional de los Salarios Mínimos las diferencias d
 
 ###### Artículo 331.
 
-Trabajadores del hogar son los que prestan los servicios de aseo, asistencia y demás propios o inherentes al hogar de una persona o familia.
+Persona trabajadora del hogar es aquella que de manera remunerada realice actividades de cuidados, aseo, asistencia o cualquier otra actividad inherente al hogar en el marco de una relación laboral que no importe para la persona empleadora beneficio económico directo, conforme a las horas diarias o jornadas semanales establecidas en la ley, en cualquiera de las siguientes modalidades:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(ADICIONADA, D.O.F. 2 DE JULIO DE 2019)</small>
+
+I. Personas trabajadoras del hogar que trabajen para una persona empleadora y residan en el domicilio donde realice sus actividades.
+
+> <small>(ADICIONADA, D.O.F. 2 DE JULIO DE 2019)</small>
+
+II. Personas trabajadoras del hogar que trabajen para una persona empleadora y que no residan en el domicilio donde realice sus actividades.
+
+> <small>(ADICIONADA, D.O.F. 2 DE JULIO DE 2019)</small>
+
+III. Personas trabajadoras del hogar que trabajen para diferentes personas empleadoras y que no residan en el domicilio de ninguna de ellas.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2019)</small>
+
+###### Artículo 331 Bis.
+
+Queda prohibida la contratación para el trabajo del hogar de adolescentes menores de quince años de edad.
+
+Tratándose de adolescentes mayores de quince años, para su contratación el patrón deberá:
+
+I. Solicitar certificado médico expedido por una institución de salud pública por lo menos dos veces al año.
+
+II. Fijar jornadas laborales que no excedan, bajo ninguna circunstancia, las seis (6) horas diarias de labor y treinta y seis (36) horas semanales.
+
+III. Evitar la contratación de personas adolescentes mayores de quince años que no hayan concluido cuando menos la educación secundaria, a excepción de que la persona empleadora se haga cargo de que finalice la misma.
+
+En el caso en el que la adolescente habite en el domicilio en donde realiza sus actividades y preste sus servicios para una sola persona, deberá garantizarse que el espacio en donde pernocte sea seguro.
+
+Todo lo dispuesto en este artículo queda sujeto a la supervisión de la autoridad laboral competente.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2019)</small>
+
+###### Artículo 331 Ter.
+
+El trabajo del hogar deberá fijarse mediante contrato por escrito, de conformidad con la legislación nacional o con convenios colectivos, que incluya como mínimo:
+
+I. El nombre y apellidos de la persona empleadora y de la persona trabajadora del hogar;
+
+II. La dirección del lugar de trabajo habitual;
+
+III. La fecha de inicio del contrato y, cuando éste se suscriba para un período específico, su duración;
+
+IV. El tipo de trabajo por realizar;
+
+V. La remuneración, el método de cálculo de la misma y la periodicidad de los pagos;
+
+VI. Las horas de trabajo;
+
+VII. Las vacaciones anuales pagadas y los períodos de descanso diario y semanal;
+
+VIII. El suministro de alimentos y alojamiento, cuando proceda;
+
+IX. Las condiciones relativas a la terminación de la relación de trabajo, y
+
+X. Las herramientas de trabajo que serán brindadas para el correcto desempeño de las actividades laborales.
+
+Los alimentos destinados a las personas trabajadoras del hogar deberán ser higiénicos y nutritivos, además de ser de la misma calidad y cantidad de los destinados al consumo de la persona empleadora.
+
+Queda prohibido solicitar constancia o prueba de no gravidez para la contratación de una mujer como trabajadora del hogar; y no podrá despedirse a una persona trabajadora embarazada, de ser el caso, el despido se presumirá como discriminación.
+
+En caso de que la persona empleadora requiera que la trabajadora del hogar utilice uniforme o ropa de trabajo, el costo de los mismos quedará a cargo de la persona empleadora.
+
+El contrato de trabajo se establecerá sin distinción de condiciones, al tratarse de personas trabajadoras del hogar migrantes.
+
+Queda prohibida todo tipo de discriminación, en términos de los artículos 1°. de la Constitución Política de los Estados Unidos Mexicanos, y 1, fracción III de la Ley Federal para Prevenir y Eliminar la Discriminación, en todas las etapas de la relación laboral y en el establecimiento de las condiciones laborales, así como cualquier trato que vulnere la dignidad de las personas trabajadoras del hogar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JULIO DE 2019)</small>
 
 ###### Artículo 332.
 
-No son trabajadores del hogar y en consecuencia quedan sujetos a las disposiciones generales o particulares de esta Ley:
+No se considera persona trabajadora del hogar y en consecuencia quedan sujetas a las disposiciones generales o particulares de esta Ley:
 
-I. Las personas que presten servicios de aseo, asistencia, atención de clientes y otros semejantes, en hoteles, casas de asistencia, restaurantes, fondas, bares, hospitales, sanatorios, colegios, internados y otros establecimientos análogos; y
+> <small>(ADICIONADA, D.O.F. 2 DE JULIO DE 2019)</small>
 
-II. Los porteros y veladores de los establecimientos señalados en la fracción anterior y los de edificios de departamentos y oficinas.
+I. Quien realice trabajo del hogar únicamente de forma ocasional o esporádica.
 
-> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+[N. DE . E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 2 DE JULIO DE 2019, SE DEROGA LA ANTERIOR FRACCIÓN II, QUEDANDO ACTUALMENTE EL CONTENIDO DE LA ANTERIOR FRACCIÓN I.]
+
+> <small>(REFORMADA Y REUBICADA, D.O.F. 2 DE JULIO DE 2019)</small>
+
+II. Quien preste servicios de aseo, asistencia, atención de clientes y otros semejantes, en hoteles, casas de asistencia, restaurantes, fondas, bares, hospitales, sanatorios, colegios, internados y otros establecimientos análogos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JULIO DE 2019)</small>
 
 ###### Artículo 333.
 
-Los trabajadores del hogar que habitan en el mismo donde prestan sus servicios deberán disfrutar de un descanso mínimo diario nocturno de nueve horas consecutivas, además de un descanso mínimo diario de tres horas entre las actividades matutinas y vespertinas.
+Las personas trabajadoras del hogar que residan en el domicilio donde realicen sus actividades deberán disfrutar de un descanso mínimo diario nocturno de nueve horas consecutivas, y de un descanso mínimo diario de tres horas entre las actividades matutinas y vespertinas, sin que la jornada diaria diurna pueda excederse de las ocho horas diarias establecidas en la presente Ley.
 
-> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2019)</small>
+
+Los periodos durante los cuales las personas trabajadoras del hogar no disponen libremente de su tiempo y permanecen a disposición del hogar para responder a posibles requerimientos de su trabajo y/o cuando se excedan las horas establecidas en la Ley para cada tipo de jornada, deberán considerarse como horas extras, conforme a lo dispuesto en los artículos 58 a 68 del presente ordenamiento.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 2 DE JULIO DE 2019)</small>
 
 ###### Artículo 334.
 
+Las personas empleadoras garantizarán en todos los casos los alimentos para las personas trabajadoras del hogar.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2019)</small>
+
+En aquellos casos en los que la persona trabajadora resida en el domicilio donde realicen sus actividades les será garantizada además de los alimentos, la habitación.
+
 Salvo lo expresamente pactado, la retribución del trabajador del hogar comprende, además del pago en efectivo, los alimentos y la habitación. Para los efectos de esta Ley, los alimentos y habitación se estimarán equivalentes al 50% del salario que se pague en efectivo.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2019)</small>
+
+El salario a que tienen derecho podrá efectuarse a través de transferencia bancaria o cualquier otro medio de pago monetario legal, con el consentimiento de la persona trabajadora del hogar interesada.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2019)</small>
+
+###### Artículo 334 Bis.
+
+Las personas trabajadoras del hogar contarán con las siguientes prestaciones conforme a las disposiciones de la presente Ley y estarán comprendidas en el régimen obligatorio del seguro social:
+
+a. Vacaciones;
+
+b. Prima vacacional;
+
+c. Pago de días de descanso;
+
+d. Acceso obligatorio a la seguridad social;
+
+e. Aguinaldo; y
+
+f. Cualquier otra prestación que se pudieren pactar entre las partes.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2019)</small>
 
 ###### Artículo 335.
 
-La Comisión Nacional de los Salarios Mínimos fijará los salarios mínimos profesionales que deberán pagarse a estos trabajadores.
+La Comisión Nacional de los Salarios Mínimos fijará los salarios mínimos profesionales que deberán pagarse a las personas trabajadoras del hogar.
 
-> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JULIO DE 2019)</small>
 
 ###### Artículo 336.
 
-Los trabajadores del hogar tienen derecho a un descanso semanal de día y medio ininterrumpido, preferiblemente en sábado y domingo. Mediante acuerdo entre las partes podrá acordarse la acumulación de los medios días en periodos de dos semanas, pero habrá de disfrutarse de un día completo de descanso en cada semana.
+Las personas trabajadoras del hogar, tienen derecho a un descanso semanal de día y medio ininterrumpido, preferiblemente en sábado y domingo. Mediante acuerdo entre las partes podrá acordarse la acumulación de los medios días en periodos de dos semanas, pero habrá de disfrutarse de un día completo de descanso en cada semana.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2019)</small>
+
+Los días de descanso semanal se aplicarán a las personas trabajadoras del hogar conforme a lo dispuesto en el presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2019)</small>
+
+Las personas trabajadoras del hogar tendrán derecho a los días de descanso obligatorio previstos en el artículo 74 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2019)</small>
+
+Para los efectos de los párrafos anteriores, en caso de que estos días se laboren se aplicarán las reglas previstas en esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2019)</small>
+
+###### Artículo 336 Bis.
+
+Las vacaciones que se otorguen a las personas trabajadoras del hogar, se regirán por lo dispuesto en el Título Tercero, Capítulo IV de la presente Ley.
 
 ###### Artículo 337.
 
@@ -3800,45 +3926,49 @@ III. El patrón deberá cooperar para la instrucción general del trabajador del
 
 IV. Inscribir a la parte trabajadora al Instituto Mexicano del Seguro Social y pagar las cuotas correspondientes conforme a las normas aplicables en la materia.
 
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2019)</small>
+
+###### Artículo 337 Bis.
+
+Las personas migrantes trabajadoras del hogar además de lo dispuesto en el presente capítulo, se regirán por las disposiciones de los artículos 28, 28 A de esta Ley, en los tratados internacionales de los que el Estado Mexicano sea parte y en las demás disposiciones jurídicas aplicables.
+
 ###### Artículo 338.
 
-Además de las obligaciones a que se refiere el artículo anterior, en los casos de enfermedad que no sea de trabajo, el patrón deberá:
-
-> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
-
-I. Pagar al trabajador del hogar el salario que le corresponda hasta por un mes;
-
-II. Si la enfermedad no es crónica, proporcionarle asistencia médica entre tanto se logra su curación o se hace cargo del trabajador algún servicio asistencial; y
-
-III. Si la enfermedad es crónica y el trabajador ha prestado sus servicios durante seis meses por lo menos, proporcionarle asistencia médica hasta por tres meses, o antes si se hace cargo del trabajador algún servicio asistencial.
+(DEROGADO, D.O.F. 2 DE JULIO DE 2019)
 
 ###### Artículo 339.
 
-En caso de muerte, el patrón sufragará los gastos del sepelio.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+(DEROGADO, D.O.F. 2 DE JULIO DE 2019)
 
 ###### Artículo 340.
 
-Los trabajadores del hogar tienen las obligaciones especiales siguientes:
+(DEROGADO, D.O.F. 2 DE JULIO DE 2019)
 
-I. Guardar al patrón, a su familia y a las personas que concurran al hogar donde presten sus servicios, consideración y respeto; y
-
-II. Poner el mayor cuidado en la conservación del menaje de la casa.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JULIO DE 2019)</small>
 
 ###### Artículo 341.
 
-Es causa de rescisión de las relaciones de trabajo el incumplimiento de las obligaciones especiales consignadas en este capítulo.
+Es causa de rescisión de las relaciones de trabajo el incumplimiento de las obligaciones consignadas en esta Ley.
 
-> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2019)</small>
+
+Se considerará despido injustificado de las personas trabajadoras del hogar todas aquellas (sic) contempladas en la presente Ley, así como aquellas que se den por motivos de violencia de género en el trabajo de manera explícita y discriminación conforme lo establecido en el artículo 1°. de la Constitución Política de los Estados Mexicanos y la legislación aplicable.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2019)</small>
+
+Para los efectos del párrafo anterior, la indemnización será la prevista en el artículo 50 del presente ordenamiento.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2019)</small>
 
 ###### Artículo 342.
 
-El trabajador del hogar podrá dar por terminada en cualquier tiempo la relación de trabajo, dando aviso al patrón con ocho días de anticipación.
+Las personas trabajadoras del hogar podrán dar por terminada en cualquier tiempo la relación de trabajo, dando aviso a la persona empleadora con ocho días de anticipación.
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2019)</small>
 
 ###### Artículo 343.
 
-El patrón podrá dar por terminada la relación de trabajo sin responsabilidad, dentro de los treinta días siguientes a la iniciación del servicio; y en cualquier tiempo, sin necesidad de comprobar la causa que tenga para ello, pagando la indemnización que corresponda de conformidad con lo dispuesto en los artículos 49, fracción IV, y 50.
+La persona empleadora podrá dar por terminada dentro de los treinta días siguientes a la iniciación del trabajo; y en cualquier tiempo la relación laboral, dando aviso a la persona trabajadora del hogar con ocho días de anticipación pagando la indemnización que corresponda de conformidad con lo dispuesto en los artículos 49, fracción IV, y 50.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -6698,6 +6828,8 @@ Los Inspectores del Trabajo tienen las obligaciones siguientes:
 
 I. Identificarse con credencial debidamente autorizada, ante los trabajadores y los patrones;
 
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 2 DE JULIO DE 2019)</small>
+
 II. Inspeccionar periódicamente las empresas y establecimientos;
 
 III. Practicar inspecciones extraordinarias cuando sean requeridos por sus superiores o cuando reciban alguna denuncia respecto de violaciones a las normas de trabajo;
@@ -6705,6 +6837,10 @@ III. Practicar inspecciones extraordinarias cuando sean requeridos por sus super
 IV. Levantar acta de cada inspección que practiquen, con intervención de los trabajadores y del patrón, haciendo constar las deficiencias y violaciones a las normas de trabajo, entregar una copia a las partes que hayan intervenido y turnarla a la autoridad que corresponda; y
 
 V. Las demás que les impongan las leyes.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2019)</small>
+
+La inspección se realizará con especial atención tratándose de personas trabajadoras del hogar migrantes, personas que pertenezcan a un grupo vulnerable, así como personas trabajadoras del hogar menores de dieciocho años.
 
 ###### Artículo 543.
 
@@ -11198,7 +11334,7 @@ Las partes que comparecieren a la audiencia, quedarán notificadas de la nueva f
 
 Las disposiciones de este capítulo rigen la tramitación de los conflictos que se susciten con motivo de la aplicación de los artículos 5o. fracción III; 28, fracción III; 151; 153-X; 158; 162; 204, fracción IX; 209, fracción V; 210; 236, fracciones II y III, 484, 503 y 505 de esta Ley, así como los conflictos que tengan por objeto el cobro de prestaciones que no excedan del importe de tres meses de salarios, la designación de beneficiarios del trabajador fallecido, con independencia de la causa del deceso, o desaparecido por un acto delincuencial, y los conflictos en materia de seguridad social.
 
-(REFROMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
 
 ###### Artículo 893.
 
@@ -13509,3 +13645,15 @@ D.O.F. 4 DE JUNIO DE 2019.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Los recursos para el ejercicio 2019 se obtendrán de los apartados precisados en el presente Decreto y posteriormente los recursos que se requieran deberán ser garantizados, etiquetados y provisionados con anterioridad por la Secretaría de Hacienda y Crédito Público en los Presupuestos de Egresos de la Federación de los ejercicios que correspondan, y en el entendido de que la implementación de tal programa no impactará de forma alguna las cuotas obrero-patronales recabadas por los Institutos de Seguridad Social del Gobierno Federal.
+
+D.O.F. 2 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO Y DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE LAS PERSONAS TRABAJADORAS DEL HOGAR".]
+
+Primero.- Publíquese en el Diario Oficial de la Federación.
+
+Segundo.- En cumplimiento con la resolución del Amparo Directo 9/2018 (relacionado con el Amparo Directo 8/2018), emitido por la Segunda Sala de la Suprema Corte de Justicia de la Nación, y derivado de los resultados que arroje la evaluación del denominado Programa Piloto que ha implementado el Instituto Mexicano del Seguro Social desde el día 1 de abril de 2019, en términos de la obligación así impuesta por el máximo Tribunal Constitucional al referido Instituto, éste último deberá compartir con el Legislativo un informe preliminar, una vez transcurridos los 18 meses del referido Programa, en el que incluirá en términos generales los avances logrados y problemáticas encontradas, mismas que servirán de base para las iniciativas legales que con mayor detalle definirán en su momento los aspectos de supervisión, inspección, salarios mínimos por oficio, así como las formalidades administrativas que se consideren necesarias para lograr la certidumbre y plena efectividad que se requiere.
+
+Tercero.- En consecuencia de lo referido en el Transitorio que precede, las disposiciones relativas a la incorporación formal de las personas trabajadoras del hogar al régimen obligatorio de seguridad social iniciarán su vigencia una vez que se realicen las adecuaciones y reservas legales necesarias para dar completa operatividad al reconocimiento del derecho a que se refiere este Decreto, debiendo quedar totalmente concluida en un plazo no mayor a 6 meses contados a partir de la culminación del Programa Piloto y entrega al Legislativo del informe aludido en el citado dispositivo que antecede.
+
+Cuarto.- Hasta en tanto entren en vigor las disposiciones contenidas en el presente Decreto referentes a la Ley del Seguro Social para comprender el trabajo del hogar en el régimen obligatorio, el patrón garantizará la atención médica y los gastos por concepto de sepelio.
