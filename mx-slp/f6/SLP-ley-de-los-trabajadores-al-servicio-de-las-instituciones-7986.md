@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2019-06-22"
+last_updated: "2019-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -192,6 +192,10 @@ DISPOSICIONES GENERALES.
 ###### ARTICULO 21.
 
 Será facultad de los titulares de las entidades públicas respectivas, establecer las condiciones generales de trabajo, con acuerdo del sindicato correspondiente, a través de su directiva.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2019)</small>
+
+Las condiciones de trabajo estarán basadas en los principios de no discriminación, y de igualdad sustantiva, en ningún caso podrán ser inferiores a las fijadas en esta Ley y deberán ser proporcionales a la importancia de los servicios e iguales para trabajos iguales, sin que puedan establecerse diferencias y/o exclusiones por motivo de sexo, edad, raza, nacionalidad, algún tipo de discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, condiciones de embarazo, responsabilidades familiares o estado civil y/o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### ARTICULO 22.
 
@@ -1095,6 +1099,10 @@ DEL PROCEDIMIENTO.
 
 El procedimiento para dirimir conflictos laborales será publico, inmediato, gratuito, predominantemente oral y se iniciará con la presentación por escrito de la demanda ante el Tribunal Estatal de Conciliación y Arbitraje, el que tomará las medidas necesarias para lograr economía, concentración y sencillez en el proceso.
 
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2019)</small>
+
+Cuando la demanda del trabajador sea obscura, vaga o existiera alguna irregularidad en su escrito, o estuviera ejerciendo acciones contradictorias, o no hubiera precisado el salario base de la acción, o sea incompleta, por no contener petición sobre prestaciones que de acuerdo con la ley deriven de la acción intentada y conforme a los derechos expuestos, el Tribunal, en el acuerdo le señalará al trabajador los defectos u omisiones en que haya incurrido, y lo prevendrá para que la subsane dentro de un término de tres días. El acuerdo referido, deberá notificarse en los términos del artículo 151 fracción I de esta Ley.
+
 Cuando la demanda del trabajador sea incompleta, por no contener petición sobre prestaciones que de acuerdo con la ley deriven de la acción intentada y conforme a los derechos expuestos, el tribunal en el momento de admitir la demanda subsanará ésta.
 
 ###### ARTICULO 119.
@@ -1914,3 +1922,21 @@ P.O. 22 DE JUNIO DE 2019.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0188.- SE ADICIONA PÁRRAFO AL ARTÍCULO 118, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Los juicios iniciados con las disposiciones anteriores a esta adición, deberán concluirse de conformidad con ellas.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0191.- SE ADICIONA AL ARTÍCULO 21, PÁRRAFO SEGUNDO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
