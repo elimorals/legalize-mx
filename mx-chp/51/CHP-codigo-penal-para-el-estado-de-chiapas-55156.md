@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2019-06-26"
+last_updated: "2019-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2019.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -2137,7 +2137,7 @@ Cuando entre el activo y la pasivo exista relación de matrimonio, concubinato o
 
 ### Capítulo II. Violencia Familiar
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
 
 ###### Artículo 189.
 
@@ -2219,51 +2219,71 @@ Tratándose de los delitos previstos en los artículos 191 y 193, el Juez deber�
 
 ###### Artículo 198.
 
-Comete el delito de violencia familiar el o la cónyuge, concubina o concubinario, el pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, el pariente colateral consanguíneo o afín hasta el cuarto grado, el tutor, el curador, el adoptante o el adoptado que lleve a cabo cualquier acto u omisión, mediante el uso de medios físicos o emocionales, en contra de la integridad de cualquiera de los integrantes de la familia, con el fin de acosarla, dominarla, someterla, controlarla, denostarla, denigrarla, mediante el maltrato físico, verbal, psicoemocional o sexual, patrimonial y económico, independientemente de que se produzcan o no lesiones o se realice cualquier otro delito, sin que dicha conducta deba ser consecutiva o reiterada.
+Comete el delito de violencia familiar el o la cónyuge, concubina o concubinario, el pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, el pariente colateral consanguíneo o afín hasta el cuarto grado, el tutor, el curador, el adoptante o el adoptado que lleve a cabo cualquier acto u omisión, mediante el uso de medios físicos o emocionales, en contra de la integridad de cualquiera de los integrantes de la familia, con el fin de acosarla, dominarla, someterla, controlarla, denostarla, denigrarla, mediante violencia física, verbal, psicoemocional, sexual, patrimonial o económica, independientemente de que se produzcan o no lesiones o se configure cualquier otro delito, sin que dicha conducta deba ser consecutiva o reiterada.
 
-El mismo delito será imputable también a quien omita impedirlo o denunciarlo.
+El mismo delito será imputable a quien omita impedirlo o denunciarlo.
 
-Para los efectos de este artículo, se entiende por:
+Los delitos contenidos en el presente Capítulo se perseguirán de oficio.
 
-Maltrato físico: Toda agresión física intencional en la que se utilice cualquier sustancia, objeto o miembro del cuerpo capaz de inmovilizar o causar un daño en la integridad física de otro.
+Para los efectos de este artículo, se entenderá por:
 
-Maltrato psicoemocional: Cualquier conducta, activa u omisiva que mediante prohibiciones, condicionamientos, coacciones, intimidaciones, amenazas, actitudes devaluatorias, denigrantes, de menosprecio, de subestimación o de abandono, provoquen en quien las sufra deterioro anímico, disminución o afectación de su personalidad o estabilidad mental.
+Violencia física: A toda agresión física intencional en la que se utilice cualquier sustancia, objeto o miembro del cuerpo capaz de inmovilizar o causar un daño en la integridad física de otra persona.
 
-Maltrato sexual: La utilización, imposición o abstención de prácticas sexuales como instrumento para el control, manipulación o dominio del sujeto pasivo, que le generen un daño físico o moral.
+Violencia psicoemocional: A cualquier conducta, activa u omisiva que mediante prohibiciones, condicionamientos, coacciones, intimidaciones, amenazas, actitudes devaluatorias, denigrantes, de menosprecio, descuido reiterado y negligencia, celotipia, de subestimación o de abandono, expresiones verbales denigrantes, provoquen en quien las sufra deterioro anímico, disminución o afectación de su personalidad o estabilidad mental, o induzcan al suicidio.
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2018)</small>
+Violencia sexual: A la utilización, imposición o abstención de prácticas sexuales como instrumento para el control, manipulación o dominio del sujeto pasivo, que atente contra su integridad personal, su libre desarrollo de la personalidad y la intimidad sexual, le generen un daño físico o moral.
 
-Maltrato patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima.
+Violencia patrimonial: A cualquier acto u omisión que afecta la supervivencia y estabilidad patrimonial de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima.
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2018)</small>
+Violencia económica: A toda acción u omisión que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral.
 
-Maltrato económico.- Es toda acción u omisión del Agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral,
-
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
 
 ###### Artículo 199.
 
-Al que cometa el delito de violencia familiar, se le impondrá de cinco a ocho años de prisión, una multa de sesenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización, la pérdida o suspensión de los derechos de familia respecto de la víctima; a juicio de la juzgadora o el juzgador, atendiendo a las circunstancias del hecho, la prohibición de ir a lugar determinado o de residir en él, la separación del sujeto activo del domicilio en caso de que lo cohabite con la víctima y la Jueza o el Juez estime oportuna esta medida y el apercibimiento para que se abstenga de molestar a la víctima o a otros miembros de la familia.
+Al que cometa el delito de violencia familiar, se le impondrán de cinco a ocho años de prisión, una multa de sesenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización, la pérdida o suspensión de los derechos de familia respecto de la víctima; a juicio del juzgador, atendiendo a las circunstancias del hecho, la prohibición de ir a lugar determinado o de residir en él, la separación del sujeto activo del domicilio en caso de que lo cohabite con la víctima y la Jueza o el Juez estime oportuna esta medida, y el apercibimiento para que se abstenga de molestar a la víctima o a otros miembros de la familia.
 
-En cualquier caso la Jueza o el Juez ordenarán la sujeción obligatoria del sujeto activo del delito, a tratamiento psicológico especializado, así como al Programa de Reeducación para Personas Generadoras de Violencia, a través de instituciones públicas. En caso de no cumplir con ésta disposición, se ordenará su reaprehensión.
+En caso de reincidencia la pena prevista se aumentará al doble.
 
-Además, será obligatorio para la parte agresora, realizar trabajo comunitario por un período de veinte a ciento ochenta días, tomando en cuenta para ello las circunstancias del caso concreto.
+En cualquier caso, el Juez ordenará la sujeción obligatoria del sujeto activo del delito, a tratamiento psicológico especializado, así como al Programa de Reeducación para Personas Generadoras de Violencia, a través de instituciones públicas o privadas, cuyos servicios deberán ser integrales, especializados y gratuitos, con perspectiva de género y masculinidades, atendiendo al Principio de Máxima Protección de las Personas.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
+En caso de no cumplir con esta disposición, el Juez ordenará las medidas necesarias para el cumplimiento de sus determinaciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2019)</small>
 
 ###### Artículo 200.
 
-El delito de violencia familiar se perseguirá por querella, excepto cuando:
+Además de las penas establecidas en el artículo anterior, el delito de violencia familiar se entenderá agravado y la pena que le corresponda se aumentará hasta en un tercio cuando:
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
 
 I. La víctima sea menor de edad, o mayor de sesenta años.
 
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
+
 II. La víctima sea una persona discapacitada, incapaz o no tenga la capacidad de comprender el significado del hecho.
+
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
 
 III. Se tengan documentados antecedentes o denuncia de violencia familiar cometidos por el mismo agresor contra la víctima.
 
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
+
 IV. La víctima sea una mujer en estado de embarazo o durante los tres meses posteriores al parto.
 
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
+
 V. Exista imposibilidad material de la víctima de denunciar.
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2019)</small>
+
+VI. Cuando la víctima presente lesiones que tarden en sanar más de quince días y pongan en peligro la vida.
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2019)</small>
+
+VII. Cuando la violencia sea cometida en contra de una mujer y exista una relación de tipo sexual consentida, ocasional o reiterada y/o afectiva entre ésta y el sujeto activo.
+
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
 
 En ningún caso deberá admitirse un acuerdo reparatorio en el delito de Violencia Familiar.
 
@@ -5987,8 +6007,20 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispu
 
 P.O. 26 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 202 POR EL QUE SE ADICIONA EL CAPÍTULO V BIS, DENOMINADO SUPLANTACIÓN DE IDENTIDAD, AL TÍTULO DÉCIMO, DENOMINADO DELITOS EN CONTRA DE LAS PERSONAS EN SU PATRIMONIO, DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 202 POR EL QUE SE ADICIONA EL CAPÍTULO V BIS, DENOMINADO SUPLANTACIÓN DE IDENTIDAD, AL TÍTULO DÉCIMO, DENOMINADO DELITOS EN CONTRA DE LAS PERSONAS EN SU PATRIMONIO, DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS”.]
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 3 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 214 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- La Secretaría de Seguridad y Protección Ciudadana, dispondrá de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, para proponer al Titular del Poder Ejecutivo del Estado las modificaciones legales pertinentes, a efecto de asumir o, en su caso, adherirse a la planeación, programación y ejecución del Plan de Reeducación para Personas Generadoras de Violencia, actualmente a cargo de la Secretaría de Salud y/o Instituto de Salud, en cumplimiento a lo dispuesto en el artículo 49, fracción XII de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+Artículo Cuarto.- Las autoridades correspondientes, en el ámbito de sus respectivas competencias, llevarán a cabo las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en observancia a las disposiciones aplicables.
