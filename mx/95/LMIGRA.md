@@ -4,7 +4,7 @@ identifier: "LMIGRA"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2018-07-12"
+last_updated: "2019-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81425&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMIGRA"
 
 LEY DE MIGRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JULIO DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de mayo de 2011.
 
@@ -1146,7 +1146,9 @@ XIII. Que las Estaciones Migratorias cuenten con áreas de estancia separadas pa
 
 XIV. Que las Estaciones Migratorias cuenten con áreas separadas para niñas, niños y adolescentes migrantes no acompañados para su alojamiento en tanto son canalizados a instituciones en donde se les brinde una atención adecuada, y
 
-XV. Las demás que se establezcan en disposiciones de carácter general que expida la Secretaría.
+> <small>(REFORMADA, D.O.F. 3 DE JULIO DE 2019)</small>
+
+XV. Las demás que se establezcan en esta Ley, en otras disposiciones jurídicas aplicables y en las disposiciones de carácter general que expida la Secretaría.
 
 ###### Artículo 110.
 
@@ -1456,7 +1458,9 @@ VI. Por violación a los derechos humanos de los migrantes, acreditada ante la a
 
 VII. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
-Se considerará infracción grave y se sancionará con la destitución, la actualización de las conductas previstas en las fracciones IV y VI del presente artículo, sin perjuicio de lo previsto en otras disposiciones jurídicas aplicables.
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2019)</small>
+
+Se considerará infracción grave y se sancionará con la destitución e inhabilitación, la actualización de las conductas previstas en las fracciones IV y VI del presente artículo, de conformidad con lo previsto en la Ley General de Responsabilidades Administrativas y sin perjuicio de lo previsto en otras disposiciones jurídicas aplicables.
 
 ###### Artículo 141.
 
@@ -1701,3 +1705,9 @@ D.O.F. 12 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3 Y 111 DE LA LEY DE MIGRACIÓN”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 109 Y 140 DE LA LEY DE MIGRACIÓN”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
