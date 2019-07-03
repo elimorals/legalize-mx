@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2019-06-04"
+last_updated: "2019-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -1641,7 +1641,9 @@ ART. 356.- Los testigos serán citados a declarar cuando la parte que ofrezca su
 
 Los que citados legalmente se nieguen a comparecer sin causa justificada y los que habiendo comparecido se nieguen a declarar, serán apremiados por el tribunal.
 
-ART. 357.- A los ancianos de más de sesenta años, a las mujeres y a los enfermos, podrá el juez, según las circunstancias, recibirles la declaración en sus casas en presencia de la otra parte, si asistiere.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+
+ART. 357.- A las personas adultas mayores, y a los enfermos, podrá la o el juez, según las circunstancias, recibirles la declaración en sus casas en presencia de la otra parte, si asistiere.
 
 ART. 358.- Al Presidente de la República, a los Secretarios de Estado, Senadores, Diputados, Magistrados, Jueces, Generales en servicio activo, Gobernadores y Presidentes Municipales, se les pedirá su declaración por oficio y en esta forma la rendirán. En casos urgentes, podrán declarar personalmente, para lo cual el juez se trasladará al lugar en que se encuentren.
 
@@ -5944,5 +5946,13 @@ P.O. 4 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0173.- SE REFORMAN LOS ARTÍCULOS, 232, 264, 533 Y 535; Y DEROGA DE Y (SIC) LOS ARTÍCULOS 229 SU FRACCIÓN I, 234, 237, Y 245 SU FRACCIÓN I, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0192.- SE REFORMA EL ARTÍCULO 357 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
