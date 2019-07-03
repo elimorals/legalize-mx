@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2019-06-11"
+last_updated: "2019-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -323,11 +323,11 @@ La Ley Electoral del Estado normará el proceso de preparación, desarrollo y ve
 
 ### CAPITULO II. De la Instalación de los Ayuntamientos
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 17.
 
-Los ayuntamientos serán electos para un periodo de tres años; se instalarán solemne y públicamente el día uno de octubre del año de su elección; sus miembros protestarán ante el ayuntamiento saliente, representado por su Presidente, o en su caso, por quien designe el Honorable Congreso del Estado.
+Los ayuntamientos serán electos para un periodo de tres años; se instalarán solemne y públicamente el día uno de octubre del año de su elección; sus miembros protestarán ante quien designe el Honorable Congreso del Estado.
 
 ###### ARTICULO 18.
 
@@ -341,15 +341,17 @@ Los miembros propietarios que no se hubieren presentado a la sesión de instalac
 
 Si la instalación no fuere posible en términos de los párrafos anteriores, se dará aviso al Congreso del Estado para que proceda conforme lo establece la Constitución Política del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2019)</small>
+
 ###### ARTICULO 19.
 
-El Ayuntamiento saliente dará posesión de las oficinas, bienes y fondos municipales, así como de los inventarios, en los términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado, a los miembros del nuevo Ayuntamiento. Inmediatamente después, el Presidente Municipal saliente o quien haya sido designado por el Congreso del Estado, tomará la protesta del nuevo Ayuntamiento en los siguientes términos: "Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley Orgánica del Municipio Libre, las demás disposiciones que de ellas emanen y desempeñar fielmente los cargos que el pueblo de este Municipio les ha conferido" (los interpelados contestarán: "Sí protesto") "Si así no lo hicieran, que el pueblo se los demande".
+El Ayuntamiento saliente dará posesión de las oficinas, bienes y fondos municipales, así como de los inventarios, en los términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado y Municipios de San Luis Potosí, a los miembros del nuevo Ayuntamiento. Inmediatamente después, quien haya sido designado por el Congreso del Estado, tomará la protesta del nuevo Ayuntamiento en los siguientes términos: “Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley Orgánica del Municipio Libre, las demás disposiciones que de ellas emanen y desempeñar fielmente los cargos que el pueblo de este Municipio les ha conferido” (los interpelados contestarán: “Sí protesto”) “Si así no lo hicieran, que el pueblo se los demande”.
 
 (NOTA 1: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 76/2015, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 (NOTA 2: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 12/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2015)</small>
 
@@ -359,7 +361,7 @@ RENDIDA LA PROTESTA DE LEY, EL PRESIDENTE MUNICIPAL ENUNCIARÁ LAS LÍNEAS GENER
 
 (NOTA 2: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 12/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, POR EL QUE SE REFORMÓ EL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2015)</small>
 
@@ -2591,6 +2593,8 @@ VII. Reparación o resarcimiento del daño.
 
 ### CAPITULO II. De la Declaración de la Situación Patrimonial
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+
 ###### ARTICULO 161.
 
 Las relaciones laborales de las administraciones municipales y sus trabajadores, se regirán por la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado y Municipios de San Luis Potosí.
@@ -2601,39 +2605,23 @@ Los servidores públicos administrativos serán suplidos en la forma que preveng
 
 ### CAPITULO III. De las Sanciones y de los Recursos
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 163.
 
-Tienen obligación de presentar declaración de situación patrimonial ante el Cabildo:
-
-I. El Presidente Municipal;
-
-II. Los regidores;
-
-III. El Secretario;
-
-IV. Los síndicos;
-
-V. El Tesorero y Subtesorero;
-
-VI. El Contralor Interno, el Oficial Mayor, los jefes y subjefes de Departamento, auditores e inspectores, y
-
-VII. Los demás que señala la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+En todo lo referente a la declaración de la situación patrimonial, se observará lo dispuesto en la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
 
 ###### ARTICULO 164.
 
-La declaración de situación patrimonial deberá presentarse en los plazos y términos que al efecto señala la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+(DEROGADO, P.O. 3 DE JULIO DE 2019)
 
 ###### ARTICULO 165.
 
-En caso de incumplimiento de las obligaciones consignadas en los artículos de este Título, el Cabildo exhortará al omiso para que, en un término de veinte días cumpla con su obligación. Si transcurrido dicho término no cumple, se determinará su destitución en el empleo, cargo o comisión.
-
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 2009)</small>
+(DEROGADO, P.O. 3 DE JULIO DE 2019)
 
 ###### ARTICULO 166.
 
-Para efectos de registro y control, el Cabildo remitirá a la Auditoría Superior del Estado, un tanto de las declaraciones de situación patrimonial que le sean presentadas.
+(DEROGADO, P.O. 3 DE JULIO DE 2019)
 
 ### CAPITULO UNICO
 
@@ -3148,3 +3136,19 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que (sic) opongan al presente Decreto.
 
 TERCERO. Los órganos internos de control, y la Auditoría Superior del Estado, deberán verificar el cumplimiento de la disposición reformada, por parte de las autoridades municipales que se encuentren en funciones al momento de la entrada en vigor de este Decreto.
+
+P.O. 3 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0190.- SE REFORMAN LOS ARTÍCULOS 17 Y 19 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que (sic) opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0195.- SE REFORMAN LOS ARTÍCULOS 163 Y 167; Y SE DEROGAN LOS ARTÍCULOS 164, 165, Y 166, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
