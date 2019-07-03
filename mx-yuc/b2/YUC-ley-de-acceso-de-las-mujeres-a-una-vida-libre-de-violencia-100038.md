@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1000
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-01"
-last_updated: "2019-06-18"
+last_updated: "2019-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de Abril de 2014.
 
@@ -155,9 +155,11 @@ XII. A ser informado de los derechos que le reconoce esta ley y demás normativa
 
 XIII. En caso de tener alguna discapacidad, a recibir los servicios necesarios por parte de personal especializado para salvaguardar sus derechos.
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, D.O. 3 DE JULIO DE 2019)</small>
 
-XIV. Los demás derechos previstos en esta ley, en la ley general, en las leyes general y estatal de víctimas, y en otras disposiciones legales y normativas aplicables.
+XIV. Ser debidamente asesorado e informado por parte del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, sobre el alcance y procedimiento para poder ejercitar el derecho de cancelación establecido en la Ley Federal de Protección de Datos Personales en Posesión de Particulares.
+
+XV. Los demás derechos previstos en esta ley, en la ley general, en las leyes general y estatal de víctimas, y en otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 6.
 
@@ -227,6 +229,10 @@ V. Violencia institucional: es la cometida por las personas con calidad de servi
 
 VI. Violencia política: es la practicada en el marco del ejercicio de los derechos político-electorales, por medio de acción u omisión, con el fin de menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público.
 
+> <small>(ADICIONADA, D.O. 3 DE JULIO DE 2019)</small>
+
+VII. Violencia digital: es cualquier acto realizado a través del uso de la tecnología de la información y comunicación (TIC), medio digital, redes sociales, u otra tecnología de transmisión de datos que de manera directa o indirecta facilite el intercambio de información entre personas, mediante conductas como el acoso, hostigamiento, amenazas, divulgación sin consentimiento de información privada, así como fotografías, textos, videos, datos personales sensibles, impresiones gráficas o sonoras con independencia de si son verdaderas o apócrifas, atentando en contra de la dignidad humana, imagen, integridad, intimidad, libertad, honor, seguridad u otro derecho y causando sufrimiento psicológico, físico, económico o sexual tanto a las mujeres como a su familia, dentro de cualquier ámbito público o privado.
+
 ###### Artículo 8.
 
 Interpretación de la ley
@@ -280,6 +286,10 @@ j) La Comisión Ejecutiva Estatal de Atención a Víctimas.
 II. El Poder Judicial del Estado de Yucatán.
 
 III. Los ayuntamientos a través de los organismos o dependencias municipales encargados de la protección de los derechos humanos de las mujeres.
+
+> <small>(ADICIONADA, D.O. 3 DE JULIO DE 2019)</small>
+
+IV. Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
 
 ###### Artículo 11.
 
@@ -558,6 +568,18 @@ II. Otorgar órdenes de protección en los términos de esta ley.
 III. Informar a la Fiscalía General del Estado de las órdenes de protección que otorgue para que esta les pueda dar vigilancia e integre el registro correspondiente.
 
 IV. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 3 DE JULIO DE 2019)</small>
+
+###### Artículo 23 Bis.
+
+Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales
+
+El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, en el ámbito de sus competencias, tendrá las atribuciones siguientes:
+
+I. Otorgar asesoría jurídica y seguimiento a las personas que ejerzan el procedimiento de cancelación de sus datos personales en coordinación con el Instituto Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
+
+II. Promover, en coordinación con la Secretaría de las Mujeres y la Secretaría de Educación, la realización de cursos y talleres, en las escuelas, para dar a conocer la existencia del derecho de cancelación, así como el procedimiento para su ejercicio.
 
 ###### Artículo 24.
 
@@ -849,7 +871,9 @@ III. La prohibición al agresor de acercarse al domicilio, lugar de trabajo, de 
 
 IV. La prohibición al agresor de amenazar o cometer, personalmente o a través de otra persona, cualquiera de los tipos de violencia mencionados en el artículo 6 de esta ley.
 
-V. La prohibición al agresor de intimidar, molestar, llamar por teléfono o comunicarse con la víctima, directa o indirectamente.
+> <small>(REFORMADA, D.O. 3 DE JULIO DE 2019)</small>
+
+V. La prohibición al agresor de intimidar, molestar, acosar o comunicarse con la víctima, directa o indirectamente, o utilizando algún tipo de Tecnología de la Información y Comunicación (TIC), redes sociales, medios digitales o cualquier otra tecnología de transmisión de datos.
 
 VI. El acceso al domicilio en común, de autoridades policíacas o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de sus hijos.
 
@@ -868,6 +892,10 @@ XII. La custodia de los hijos a la víctima o a la persona que el juez designe.
 XIII. La suspensión temporal al agresor, del régimen de visita y convivencia con sus descendientes.
 
 XIV. La entrega de alimentos provisionales en su favor y de sus hijos.
+
+> <small>(ADICIONADO, D.O. 3 DE JULIO DE 2019)</small>
+
+Además, el juzgador podrá ordenar al agresor, la cesación inmediata y definitiva de continuar realizando cualquier acto que constituya violencia digital.
 
 ###### Artículo 46.
 
@@ -1271,7 +1299,7 @@ El Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de l
 
 D.O. 18 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 81/2019 POR EL QUE SE MODIFICA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, EN MATERIA DE LACTANCIA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 81/2019 POR EL QUE SE MODIFICA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, EN MATERIA DE LACTANCIA”.]
 
 Entrada en vigor
 
@@ -1284,3 +1312,15 @@ Artículo Segundo.- Los ayuntamientos, de acuerdo a su disponibilidad presupuest
 Derogación Expresa
 
 Artículo Tercero.- Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 3 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 87/2019 POR EL QUE SE MODIFICA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, EN MATERIA DE VIOLENCIA DIGITAL".]
+
+Entrada en vigor
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación Expresa
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
