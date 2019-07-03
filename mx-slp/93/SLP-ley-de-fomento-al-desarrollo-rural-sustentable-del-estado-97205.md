@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-al-desarrollo-rural-sustentable-del-estado-97205
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2019-05-09"
+last_updated: "2019-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de diciembre de 2013.
 
@@ -125,13 +125,25 @@ XIII. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
 XIV. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
-###### ARTÍCULO 4°.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
 
-Las acciones de desarrollo rural sustentable que efectúe el Estado será en concurrencia con la Federación y los municipios, atenderán de manera diferenciada y prioritaria a las regiones y zonas con mayor rezago social y económico, mediante el impulso a las actividades del medio rural, impulsar a la inversión productiva, el fomento a la diversificación de oportunidades de empleo e ingreso, y la promoción de vínculos entre los ámbitos rural y urbano, para facilitar a los agentes de la sociedad rural el acceso a los apoyos que requiere su actividad productiva, así como a los servicios para su bienestar.
+ARTÍCULO 4° En las acciones para el desarrollo rural sustentable que efectúe el Estado se observarán y aplicarán los siguientes principios:
 
-Facilitar y otorgar los apoyos a que se refiere el párrafo anterior, los que no estarán condicionados, ni se hará distinción a personas de la sociedad urbana y, particularmente, rural, sin hacer diferencia por motivos de religión, étnicos, preferencia política u organización social a la que pertenecen.
+I. Las acciones para el desarrollo rural deben realizarse en coordinación y concurrencia con los municipios y con la Federación;
 
-Para lo anterior, el Estado promoverá lo necesario para formular y llevar a cabo programas de atención especial, con la concurrencia de los diversos órdenes de gobierno que aplican los instrumentos de política de desarrollo social y de población, a cargo de las dependencias y entidades de la administración pública estatal y municipal competentes.
+II. Las acciones citadas deben tener perspectiva integral e incluir el impulso a las actividades del medio rural; el impulso a la inversión productiva; el fomento a la diversificación de oportunidades de empleo e ingreso; y la promoción de vínculos entre los ámbitos rural y urbano;
+
+III. Las acciones citadas deben ser sustentables en términos ambientales de acuerdo a las leyes aplicables;
+
+IV. Las regiones y zonas con mayor rezago social y económico deben recibir atención prioritaria y diferenciada;
+
+V. Se debe promocionar y facilitar el acceso a los agentes de la sociedad rural a apoyos, los que deben otorgarse sin distinción alguna causada por motivos de religión, preferencia política, membresía de organización social, o étnicos, salvo en el caso específico de programas de fomento al desarrollo indígena;
+
+VI. Los programas de atención especial se llevarán a cabo con la concurrencia de los diversos órdenes de gobierno, que aplican los instrumentos de política de desarrollo social y de población, a cargo de las dependencias y entidades de la administración pública estatal y municipal competentes, y de acuerdo a la normatividad aplicable;
+
+VII. El acceso a los servicios de bienestar en el ámbito rural es necesario para el desarrollo rural sustentable, y será fomentado por las autoridades, y
+
+VIII. La seguridad alimentaria es un factor del desarrollo rural sustentable, y será fomentada por las autoridades.
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2017)</small>
 
@@ -229,7 +241,9 @@ IV. Fomentar y promover la educación, investigación científica y el uso de nu
 
 V. Promover la elaboración de estudios tendientes a fomentar el desarrollo y que a su vez, permitan identificar las técnicas y actividades que resulten más productivas para el sector agroindustrial;
 
-VI. Promover y apoyar todo proyecto productivo viable del medio rural;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+
+VI. Promover y apoyar todo proyecto productivo viable del medio rural, beneficiando de manera prioritaria a los grupos vulnerables, en especial mujeres, niños, personas con discapacidad, personas con enfermedades terminales y de la tercera edad;
 
 VII. Crear el Consejo Estatal para el Desarrollo Rural Sustentable;
 
@@ -249,9 +263,9 @@ XI. Celebrar los acuerdos y convenios necesarios con el gobierno federal, los ay
 
 XII. Aplicar todas aquellas medidas tendientes a resolver de manera congruente e integral, los problemas que deriven del aprovechamiento de recursos naturales del Estado, en lo relativo a las actividades agroindustriales del sector rural;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
 
-XIII. Promoverla creación y el desarrollo de agroindustrias que fortalezcan el desarrollo de la Entidad;
+XIII. Promover la creación y el desarrollo de agroindustrias que fortalezcan el desarrollo de la Entidad, beneficiando de manera prioritaria a los grupos vulnerables, en especial mujeres, niños, personas con discapacidad, personas con enfermedades terminales y de la tercera edad en las comunidades rurales;
 
 > <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
 
@@ -259,7 +273,11 @@ XIV. Conservar, reproducir, mejorar, desarrollar y proteger la biodiversidad gen
 
 XV. Promover convenios con los ingresos azucareros presentes en el Estado, para que se formalice la venta de la melaza a los productores de toda la Entidad, antes de comprometer su distribución para otros usos, y
 
-XVI. Las demás que señalen las leyes y reglamentos aplicables al sector rural.
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2019)</small>
+
+XVI. Promover lo necesario para formular y llevar a cabo programas de atención especial, y
+
+XVII. Las demás que señalen las leyes y reglamentos aplicables al sector rural.
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2017)</small>
 
@@ -1330,6 +1348,22 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 9 DE MAYO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0161.- SE REFORMA EL ARTÍCULO 35 EN SU FRACCIÓN XI, DE LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 0193 POR EL QUE “SE REFORMA LOS ARTÍCULOS, 4°, Y 9° EN SU FRACCIÓN XV; Y ADICIONA AL ARTÍCULO 9° UNA FRACCIÓN, ÉSTA COMO XVI, POR LO QUE ACTUAL XVI PASA A SER FRACCIÓN XVII, DE LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 0194 POR EL QUE "SE REFORMA EL ARTÍCULO 9° EN SUS FRACCIONES, VI Y XIII, DE LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
