@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-101749"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2017-06-10"
+last_updated: "2019-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 30 de junio de 2014.
 
@@ -445,9 +445,11 @@ El Consejo elaborará el catálogo e inventario de sus bienes muebles e inmueble
 
 Los recursos presupuestarios destinados al financiamiento público de los partidos políticos, y candidatos independientes, en cualquiera de sus modalidades, no forman parte del patrimonio del Consejo, incluyendo los que por concepto de rendimientos financieros se generen, por lo que éste no podrá disponer, ni alterar el cálculo para su determinación, ni los montos que del mismo resulten conforme a la Constitución del Estado, y a la Ley Electoral.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 35.
 
-Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral serán destinados a los organismos estatales encargados de la promoción, fomento y desarrollo de la ciencia, tecnología e innovación.
+Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral, serán destinados al Consejo Potosino de Ciencia y Tecnología, organismo estatal encargado de la promoción, fomento, y desarrollo de la ciencia, tecnología, e innovación; y no podrán ejercerse en servicios personales ni conceptos distintos a proyectos estratégicos e (sic) materia de ciencia, tecnología, e innovación.
 
 ###### ARTÍCULO 36.
 
@@ -6090,3 +6092,11 @@ PRIMERO. Este Decreto entrará en vigor a partir del día siguiente en que se de
 SEGUNDO. Dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Decreto, el Consejo Estatal Electoral y de Participación Ciudadana deberá expedir o reformar los reglamentos o disposiciones administrativas respectivas.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 3 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0196.- SE REFORMA EL ARTÍCULO 35 DE LA LEY ELECTORAL DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis “.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
