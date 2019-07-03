@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ganaderia-del-estado-de-san-luis-potosi-122014"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-20"
-last_updated: "2018-06-22"
+last_updated: "2019-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Gobierno del Estado de San Luis Potosí, el sábado 20 de mayo de 2017.
 
@@ -1773,6 +1773,18 @@ Cuando haya necesidad de sacrificar animales en el campo por estar lesionados, o
 
 En caso de muerte de algún animal por enfermedad no contagiosa, estiaje o cualquier situación, se observará igualmente el procedimiento que se establece en el párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2019)</small>
+
+La SEDARH coordinará las acciones necesarias con los diferentes órdenes de gobierno, así como los organismos y dependencias involucradas, para dar atención rápida y oportuna a la problemática del estiaje que se presenta año cada año.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2019)</small>
+
+La SEDARH programará recursos financieros, materiales y humanos cada año, para estar en posibilidades de atender a la población, y al ganado, que se vean afectados con el problema del estiaje.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2019)</small>
+
+La SEDARH contará con un diagnóstico integral con respecto a las obras cuya rehabilitación o construcción es prioritaria, para dar respuesta a las contingencias relacionadas con el problema del estiaje.
+
 ###### ARTÍCULO 164.
 
 El sacrificio de animales que se realice en contravención a lo dispuesto en el presente capítulo, se considerará como clandestino y sujeto a las sanciones que establece la presente Ley, sin perjuicio de lo dispuesto en otras disposiciones legales aplicables.
@@ -2106,3 +2118,11 @@ P.O. 22 DE JUNIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0189.- SE ADICIONA AL ARTÍCULO 163 LOS PÁRRAFOS, TERCERO, CUARTO, Y QUINTO, DE LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
