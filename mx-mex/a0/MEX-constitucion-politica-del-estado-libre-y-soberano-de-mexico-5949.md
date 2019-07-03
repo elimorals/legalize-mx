@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2019-06-12"
+last_updated: "2019-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JULIO DE 2019.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -90,6 +90,14 @@ Todas las autoridades, en el ámbito de sus competencias, tienen la obligación 
 > <small>(REFORMADO, G.G. 25 DE JULIO DE 2016)</small>
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, orientación sexual e identidad de género, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas. El Estado garantizará la vigencia del principio de igualdad, combatiendo toda clase de discriminación.
+
+> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2019)</small>
+
+El Estado de México garantizará el Derecho Humano a la Ciudad, entendiéndose como un derecho de las colectividades, con el cual se busca lograr la igualdad, sustentabilidad, justicia social, participación democrática, respeto a la diversidad cultural, la inclusión social, la distribución equitativa de bienes públicos y la justicia territorial; buscando que los grupos vulnerables y desfavorecidos logren su derecho.
+
+> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2019)</small>
+
+El derecho a la ciudad se garantizará a través de instrumentos que observen las funciones social, política, económica, cultural, territorial y ambiental de la ciudad, determinados por ordenamientos secundarios que prevean las disposiciones para su cumplimiento.
 
 > <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
@@ -4642,3 +4650,13 @@ G.G. 12 DE JUNIO DE 2019.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 3 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 67.- POR EL QUE SE DECLARA APROBADA LA ADICIÓN DE LOS PÁRRAFOS QUINTO Y SEXTO, RECORRIÉNDOSE LOS ACTUALES QUINTO Y SEXTO Y SUBSECUENTES DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Una vez cumplido el procedimiento respectivo para reformar la Constitución, publíquese el presente Decreto en el Periódico Oficial "Gaceta de (sic) Gobierno''.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
