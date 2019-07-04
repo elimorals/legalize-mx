@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-derecho-al-acceso-disposicion-y-saneamiento-del-31534"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2019-05-09"
+last_updated: "2019-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31534&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2003-05-09"
 ---
 # LEY DEL DERECHO AL ACCESO, DISPOSICION Y SANEAMIENTO DEL AGUA DE LA CIUDAD DE MEXICO -- ANTES LEY DEL DERECHO A LOS SERVICIOS PUBLICOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO Y TECNOLOGIA HIDRICA DE LA CIUDAD DE MEXICO -- ANTES LEY DE AGUAS DEL DISTRITO FEDERAL --
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE AGOSTO DE 2019 EN G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL DERECHO AL ACCESO, DISPOSICIÓN Y SANEAMIENTO DEL AGUA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE MARZO DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 9 DE MAYO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE JULIO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2003.
 
@@ -140,7 +140,9 @@ XVII. BIS. FONDO.- El Fondo de Apoyo a la Cosecha de Agua de Lluvia del Distrito
 
 XVIII. INFRAESTRUCTURA INTRADOMICILIARIA.- La obra interna que requiere el usuario final de cada predio para recibir los servicios hidráulicos;
 
-XIX. LEY.- La Ley de Aguas del Distrito Federal;
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2019)</small>
+
+XIX. LEY.- La Ley del Derecho al Acceso, Disposición y Saneamiento del Agua de la Ciudad de México;
 
 XX. LEY AMBIENTAL.- La Ley Ambiental del Distrito Federal;
 
@@ -308,9 +310,9 @@ Son atribuciones del Consejo Directivo, las siguientes:
 
 I. Aprobar los planes de labores, las previsiones de ingresos, presupuestos e informe de actividades;
 
-> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2019)</small>
 
-II. Aprobar los reportes de ingresos y del ejercicio presupuestal del Sistema de Aguas que le presente la o el Director General, quien deberá remitirla al Jefe de Gobierno a través de la Secretaría del Medio Ambiente, en los términos establecidos en las leyes aplicables;
+II. Aprobar los reportes de ingresos y del ejercicio presupuestal del Sistema de Aguas que le presente la persona titular de la Coordinación General, quien deberá remitirla a la persona titular de la Jefatura de Gobierno a través de la Secretaría del Medio Ambiente, en los términos establecidos en las leyes aplicables;
 
 III. (DEROGADA, G.O. 30 DE MAYO DE 2005)
 
@@ -324,9 +326,9 @@ V. Aprobar la organización general del Sistema de Aguas y los manuales de proce
 
 VI. Autorizar la creación de comités o subcomités de apoyo;
 
-> <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2019)</small>
 
-VII. Nombrar y remover, a propuesta del Director General, a los servidores públicos del órgano que ocupen cargos en las dos jerarquías administrativas inferiores a las de aquel;
+VII. Nombrar y remover, a propuesta de la persona titular de la Coordinación General, a los servidores públicos del órgano que ocupen cargos en las dos jerarquías administrativas inferiores a las de aquel;
 
 VIII. Aprobar el Programa de Gestión Integral de los Recursos Hídricos y el Programa para el Uso Eficiente y Ahorro del Agua;
 
@@ -342,15 +344,17 @@ XII. Proponer al Jefe de Gobierno del Distrito Federal a través de la Secretar�
 
 XIII. Las demás que correspondan al ejercicio de las facultades anteriores.
 
-> <small>(REFORMADO, G.O. 30 DE MAYO 2005)</small>
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2019)</small>
 
 ###### Artículo 12.
 
-El Sistema de Aguas tendrá un Director General, así como la estructura administrativa que se apruebe.
+El Sistema de Aguas tendrá una persona titular de la Coordinación General, así como la estructura administrativa que se apruebe.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE JULIO DE 2019)</small>
 
 ###### Artículo 13.
 
-La o el Director General tendrá las siguientes facultades:
+La persona titular de la Coordinación General tendrá las siguientes facultades:
 
 > <small>(REFORMADA, G.O. 30 DE MAYO 2005)</small>
 
@@ -2227,3 +2231,11 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial.
 
 TERCERO.- En términos del artículo Trigésimo Noveno Transitorio de la Constitución Política de la Ciudad de México, se armonizan y adecuan todos los artículos y disposiciones en la Ley del Derecho al Acceso, Disposición y Saneamiento del agua de la Ciudad de México.
+
+G.O. 4 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE MODIFICA LOS ARTÍCULOS: 4 FRACCIÓN XIX; 11 FRACCIONES II Y VII; 12 Y 13 DE LA LEY DE DERECHO AL ACCESO, DISPOSICIÓN Y SANEAMIENTO DEL AGUA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Túrnese a la Jefa de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
