@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-agencia-de-proteccion-sanitaria-del-77307"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-23"
-last_updated: "2010-11-23"
+last_updated: "2019-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77307&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2010-11-19"
 ---
 # REGLAMENTO DE LA AGENCIA DE PROTECCION SANITARIA DEL GOBIERNO DEL DISTRITO FEDERAL
 
-REGLAMENTO DE LA AGENCIA DE PROTECCION SANITARIA DEL GOBIERNO DEL DISTRITO FEDERAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA AGENCIA DE PROTECCIÓN SANITARIA DEL GOBIERNO DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 4 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA AGENCIA DE PROTECCIÓN SANITARIA DEL GOBIERNO DEL DISTRITO FEDERAL
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE JULIO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 23 de noviembre de 2010.
 
@@ -520,7 +522,7 @@ X. Aplicar las medidas de seguridad que procedan, así como vigilar su cumplimie
 
 XI. Establecer, en coordinación con las unidades administrativas competentes de la Agencia, los lineamientos para el diagnóstico de la situación sanitaria del Distrito Federal ya sea en condiciones ordinarias o situaciones de emergencia;
 
-XII. Diseñar, instrumentar y operar en coordinación con las unidades administrativas competentes de la Agencia, las acciones derivadas de los convenios o acuerdos celebrados, y (sic)
+XII. Diseñar, instrumentar y operar en coordinación con las unidades administrativas competentes de la Agencia, las acciones derivadas de los convenios o acuerdos celebrados, y
 
 XIII. Establecer los lineamientos, criterios y procedimientos de operación aplicables al control analítico de la condición sanitaria en las materias a que se refiere la Ley y el presente Reglamento;
 
@@ -779,3 +781,15 @@ TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el 
 CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal
 
 Dado en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diecinueve días del mes de noviembre del año 2010.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE SALUD.- ARMANDO AHUED ORTEGA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 4 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA AGENCIA DE PROTECCIÓN SANITARIA DEL GOBIERNO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se abroga el Reglamento de la Agencia de Protección Sanitaria del Gobierno del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 23 de noviembre de 2010.
