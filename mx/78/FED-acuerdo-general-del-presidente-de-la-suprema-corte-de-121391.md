@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-presidente-de-la-suprema-corte-de-121391"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-05-17"
-last_updated: "2017-05-17"
+last_updated: "2019-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121391&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2019-07-05"
 
 ACUERDO GENERAL DEL VEINTE DE ABRIL DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE CREA LA COMISIÓN INTERNA DE DESARROLLO SUSTENTABLE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JULIO DE 2019.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 17 de mayo de 2017.
 
@@ -108,25 +108,51 @@ a) El Secretario General de Acuerdos;
 
 b) El Secretario General de la Presidencia;
 
-c) El Secretario Jurídico de la Presidencia, y
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN VIII/2019, DE VEINTIOCHO DE JUNIO DE DOS MIL DIECINUEVE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE JULIO DE 2019)</small>
+
+c) El Coordinador General de Asesores de la Presidencia, y
 
 d) El Contralor.
 
-###### Artículo 5º.
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN VIII/2019, DE VEINTIOCHO DE JUNIO DE DOS MIL DIECINUEVE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE JULIO DE 2019)</small>
 
-El servidor público adscrito en la Dirección General de Recursos Humanos e Innovación Administrativa fungirá como Secretario Técnico de la Comisión, quien será nombrado a propuesta del Oficial Mayor.
+III. Invitados permanentes:
+
+a) El Coordinador de la Oficina de la Presidencia;
+
+b) El Coordinador de Comunicación Social, y
+
+c) El Director General de Asuntos Jurídicos.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN VIII/2019, DE VEINTIOCHO DE JUNIO DE DOS MIL DIECINUEVE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE JULIO DE 2019)</small>
+
+El Oficial Mayor y los Vocales integrarán la Comisión con derecho a voz y voto, y los Invitados permanentes sólo con derecho a voz.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN VIII/2019, DE VEINTIOCHO DE JUNIO DE DOS MIL DIECINUEVE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE JULIO DE 2019)</small>
+
+Los integrantes de la Comisión podrán nombrar un representante, quien deberá ocupar el nivel jerárquico inmediato inferior del representado.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN VIII/2019, DE VEINTIOCHO DE JUNIO DE DOS MIL DIECINUEVE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE JULIO DE 2019)</small>
+
+###### Artículo 5°.
+
+El Presidente de la Comisión se auxiliará de un Secretario Técnico que será nombrado por el propio Presidente, quien participará con voz y sin voto.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN VIII/2019, DE VEINTIOCHO DE JUNIO DE DOS MIL DIECINUEVE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE JULIO DE 2019)</small>
 
 ###### Artículo 6°.
 
-Para el cumplimiento de su objeto la Comisión se apoyará y auxiliará de los Directores Generales: de Comunicación y Vinculación Social; del Canal Judicial; de Atención y Servicios; de Servicios Médicos; de Relaciones Institucionales; de Recursos Humanos e Innovación Administrativa; de Presupuesto y Contabilidad; de la Tesorería; de Recursos Materiales; de Infraestructura Física; de Tecnologías de la Información; de Seguridad; de Casas de la Cultura Jurídica; de Estudios, Promoción y Desarrollo de los Derechos Humanos; además, con el Titular del Centro de Documentación y Análisis, Archivos y Compilación de Leyes.
+Para el cumplimiento de su objeto la Comisión se apoyará y auxiliará de los órganos y áreas de la Suprema Corte.
 
 ###### Artículo 7°.
 
 La Comisión podrá invitar a sus sesiones a los titulares de los órganos o áreas de la Suprema Corte, cuando considere conveniente, en función de su competencia o interés en los asuntos a tratar.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN VIII/2019, DE VEINTIOCHO DE JUNIO DE DOS MIL DIECINUEVE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE JULIO DE 2019)</small>
+
 ###### Artículo 8°.
 
-Además, los órganos o áreas de la Suprema Corte no identificados en el presente Acuerdo General, participarán institucionalmente y serán responsables, dentro del ámbito de sus atribuciones, del cumplimiento de los acuerdos que se tomen y de las acciones implementadas con motivo de los programas, de las políticas, estrategias y disposiciones que se emitan en materia de desarrollo sustentable, informando a la Comisión sobre su seguimiento y cumplimiento.
+Los órganos y áreas de la Suprema Corte participarán institucionalmente y serán responsables, dentro del ámbito de sus atribuciones, del cumplimiento de los acuerdos que se tomen y de las acciones implementadas con motivo de los programas, de las políticas, estrategias y disposiciones que se emitan en materia de desarrollo sustentable, informando a la Comisión sobre su seguimiento y cumplimiento.
 
 ###### Artículo 9°.
 
@@ -166,9 +192,11 @@ Evaluar periódicamente los avances del Programa Anual de Trabajo de la Comisió
 
 ### CAPÍTULO III. De las sesiones de la Comisión
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN VIII/2019, DE VEINTIOCHO DE JUNIO DE DOS MIL DIECINUEVE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 5 DE JULIO DE 2019)</small>
+
 ###### Artículo 12.
 
-La Comisión sesionará de manera ordinaria bimestralmente y de forma extraordinaria, a solicitud de uno de sus integrantes, en el momento en el que la naturaleza de los asuntos a tratar así lo requiera.
+La Comisión sesionará de manera ordinaria cada cuatro meses y de forma extraordinaria, a solicitud de uno de sus integrantes, en el momento en el que la naturaleza de los asuntos a tratar así lo requiera.
 
 ###### Artículo 13.
 
@@ -277,3 +305,13 @@ Tercero. Publíquese este Acuerdo General en el Diario Oficial de la Federación
 Así lo acordó y firma el Ministro Luis María Aguilar Morales, Presidente de la Suprema Corte de Justicia de la Nación, con el licenciado Alejandro Manuel González García, Secretario Jurídico de la Presidencia, quien certifica.
 
 El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Luis María Aguilar Morales.- Rúbrica.- El Secretario Jurídico de la Presidencia de la Suprema Corte de Justicia de la Nación, Alejandro Manuel González García.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN VIII/2019, DE VEINTIOCHO DE JUNIO DE DOS MIL DIECINUEVE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE MODIFICA EL ACUERDO GENERAL DE VEINTE DE ABRIL DE DOS MIL DIECISIETE, QUE CREA LA COMISIÓN INTERNA DE DESARROLLO SUSTENTABLE DE ESTE ALTO TRIBUNAL”.]
+
+Primero. El presente Acuerdo General entrará en vigor el día de su expedición.
+
+Segundo. Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación. CÚMPLASE
