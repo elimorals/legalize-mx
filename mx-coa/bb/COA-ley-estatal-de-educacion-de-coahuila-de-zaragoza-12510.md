@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2019-06-25"
+last_updated: "2019-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -164,6 +164,10 @@ b) Impulsar hábitos de gasto responsable y de ahorro con perspectiva de mediano
 c) Desarrollar y fortalecer competencias que les permitan tomar decisiones financieras que potencien sus recursos; y
 
 d) Promover la generosidad en el uso de los recursos, en vistas de promover la solidaridad social.
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2019)</small>
+
+XVII. Fomentar las medidas necesarias para la protección y cuidados de las y los alumnos, para preservar su integridad física, emocional, psicológica y social, propensas a detectar, prevenir y evitar conductas violentas entre ellos, que atente en contra de su desarrollo y competencias; individuales, sociales e integridad física, sobre una base de respeto y dignidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -1924,3 +1928,9 @@ El presente Decreto, entrará en vigor el día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 302.- SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 7 DE LA LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
