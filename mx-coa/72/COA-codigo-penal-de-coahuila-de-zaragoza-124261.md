@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2019-04-12"
+last_updated: "2019-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
 
 Código publicado en la Tercera Sección al Número 86 del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -153,7 +153,9 @@ Artículo 13 (Prisión preventiva oficiosa, y factores de riesgo que indican imp
 
 A. (Prisión preventiva oficiosa)
 
-La prisión preventiva se ordenará oficiosamente en los supuestos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, y conforme a lo previsto en este código, cuando se trate de los delitos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JULIO DE 2019)</small>
+
+La prisión preventiva se ordenará oficiosamente en los supuestos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, y conforme a lo previsto en el artículo 167 del Código Nacional de Procedimientos Penales.
 
 (NOTA: EL 9 DE JULIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 143/2017, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA FRACCIÓN I, DEL APARTADO A DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE ABRIL DE 2019, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -3453,7 +3455,11 @@ Si dentro de las veinticuatro horas siguientes a la privación, el autor del del
 
 Este delito se perseguirá de oficio solo en cuanto hace a personas menores de dieciocho años y personas que no tuvieren capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión, o por cualquier circunstancia personal no puedan resistirlo.
 
-## Título Quinto. Delitos contra la libertad y seguridad sexuales, y el desarrollo psicosexual
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2019)</small>
+
+## Título Quinto
+
+Delitos contra la libertad y seguridad sexuales y el desarrollo de la personalidad.
 
 ### Capítulo Primero. Pautas Específicas de Aplicación
 
@@ -5235,13 +5241,21 @@ Se impondrá de dos a cuatro años de prisión y de mil a dos mil días multa, o
 
 ### Capítulo Segundo. Delitos contra tareas preventivas de seguridad pública
 
-Artículo 341 (Instituciones de seguridad pública y miembros equiparados)
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2019)</small>
 
-Para los efectos de este código, se entiende por miembros o integrantes de instituciones de seguridad pública a las personas que tengan un cargo o laboren en las instituciones y dependencias legalmente encargadas de la prevención de delitos en el Estado y en sus municipios, de la investigación de delitos del orden común cometidos en el Estado y de su persecución para hacer efectiva su punición, así como de la sanción de las infracciones administrativas.
+Artículo 341 (Instituciones de seguridad pública y equiparadas)
 
-Para los efectos del párrafo precedente y de las penas previstas en los delitos de este código, se equiparará a miembros o integrantes de instituciones de seguridad pública, a quienes tengan un cargo o realicen labores de policía procesal, o tengan un cargo o laboren en los centros penitenciarios o en las cárceles municipales, o bien, en las dependencias oficiales encargadas de la operación o supervisión de esos centros o cárceles.
+Para los efectos de este código, se entiende por integrantes de instituciones de seguridad pública a las personas que tengan un cargo o laboren en las Instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario y dependencias legalmente encargadas de la seguridad pública de los tres órdenes de gobierno.
 
-Para los mismos efectos del párrafo primero de este artículo y de las penas previstas en los delitos de este código, también se equiparará a labores de seguridad pública, a los servicios de seguridad privada que lícitamente presten personas físicas o éstas a través de personas morales.
+Para los mismos efectos del párrafo primero de este artículo y de las penas previstas en los delitos de este código, se equiparará a labores de seguridad pública, a los servicios de seguridad privada que lícitamente presten personas físicas o éstas a través de personas morales.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2019)</small>
+
+Artículo 341 Bis (Violencia contra miembros o integrantes de instituciones de seguridad pública)
+
+Se impondrá de tres meses a dos años de prisión y de doscientos a quinientos días multa, a quien ejerza violencia contra un miembro o integrante de instituciones de seguridad pública, por razón de sus funciones o para obligarlo a ejecutar u omitir algún acto propio de su cargo o a realizar uno contrario a sus deberes oficiales.
+
+Si la violencia a que se refiere el párrafo precedente ocasiona una o más lesiones de las previstas en las fracciones II a VIII del artículo 200 de este código, se aplicarán las reglas del concurso de delitos.
 
 Artículo 342 (Designación o mantenimiento indebidos de personal de seguridad pública)
 
@@ -5249,21 +5263,51 @@ Se impondrá de uno a tres años de prisión, de cincuenta a quinientos días mu
 
 Se impondrán las mismas penas previstas en el párrafo precedente, al servidor público que sabiendo que un miembro en funciones, de las fuerzas de seguridad pública, o algún integrante del personal administrativo de los mencionados en el párrafo que antecede, no ha aprobado los exámenes de control de confianza, y omita realizar los trámites necesarios en el ámbito de su competencia para proceder a su destitución.
 
-Artículo 343 (Facilitación delictiva)
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2019)</small>
 
-Se impondrá de tres a seis años de prisión y multa, a quien, con el fin de informar a algún integrante de un grupo delictivo, vigile el movimiento de miembros de instituciones de seguridad pública de los tres órdenes de gobierno o militares, o bien del movimiento de miembros de empresas de seguridad privada o de personas que brinden lícitamente esos servicios a particulares.
+Artículo 343 (Delito contra las funciones de seguridad y justicia)
 
-Se impondrán las mismas penas previstas en el párrafo precedente, a quien, durante más de cinco horas diarias en el transcurso de tres o más días, en una misma área que no exceda de tres manzanas urbanas, vigile y enseguida informe por teléfono celular, radio o algún otro aparato de comunicación, acerca del movimiento de miembros de instituciones de seguridad pública de los tres órdenes de gobierno o militares, o bien del movimiento de miembros de empresas de seguridad privada o de personas que brinden lícitamente esos servicios a particulares.
+Se impondrá de cuatro a ocho años de prisión y multa de doscientos a cuatrocientos días a quien incurra en cualquiera de las conductas siguientes:
+
+I. Utilice instrumentos, objetos o cualquier medio, que por su resistencia, forma o fuerza, dañe, obstaculice o impida el paso de vehículos de las instituciones de seguridad pública municipal, estatal, federal, de las fuerzas armadas mexicanas o Guardia Nacional;
+
+II. Posea, porte o utilice para el espionaje o halconeo, en su persona, domicilio o en el lugar donde se le aprehenda, equipos de comunicación de cualquier tipo;
+
+III. Posea, porte o utilice equipos o artefactos que permitan la intervención, escucha o transmisión de datos para prácticas de espionaje, con respecto a canales de comunicaciones oficiales o privadas, estos últimos cuando sean utilizados para funciones de seguridad pública;
+
+IV. Instale, permita o consienta la instalación de antenas o cualquier instrumento de comunicación en bienes de su propiedad o posesión, o de un tercero, con los cuales se intercepte o transmita la señal o las comunicaciones para el espionaje o halconeo;
+
+V. Posea, porte o utilice para el espionaje, en su persona, domicilio o en el lugar donde se le aprehenda, uniformes, prendas de vestir, insignias, distintivos o equipos correspondientes o similares a los utilizados por cualquiera de las instituciones de seguridad pública municipal, estatal, federal, de las fuerzas armadas mexicanas o Guardia Nacional, o que simulen la apariencia de los utilizados por éstas;
+
+VI. Posea, porte o utilice para el espionaje o halconeo, en su persona, domicilio o en el lugar donde se le aprehenda, escritos o mensajes producidos por cualquier medio, que tengan relación con alguna pandilla o asociación delictuosa, de algún grupo o actividades delictivas; así como de las actividades de las instituciones de seguridad pública municipal, estatal, federal, de las fuerzas armadas mexicanas o Guardia Nacional;
+
+VII. Posea, porte o utilice para el espionaje o halconeo, en su persona, domicilio o en el lugar donde se le aprehenda, accesorios u objetos que se utilizan en los vehículos oficiales de seguridad pública municipal, estatal, federal, de las fuerzas armadas mexicanas o Guardia Nacional;
+
+VIII. Detente, posea, conduzca o custodie un vehículo que simule ser de instituciones o empresas, públicas o privadas, para el espionaje o halconeo, y
+
+IX. Dañe, altere o impida el funcionamiento o monitoreo de cámaras de vigilancia en la vía pública, establecimientos o edificios públicos, instaladas para ser utilizadas por las instituciones de seguridad pública municipal, estatal, federal, de las fuerzas armadas mexicanas o Guardia Nacional.
+
+Para los fines de este artículo se entenderá por:
+
+I. Espionaje: Obtener indebidamente comunicaciones privadas u oficiales, utilizando cualquier medio tecnológico, para comunicar información sobre acciones, actividades o ubicación de las instituciones de seguridad pública municipal, estatal, federal, de las fuerzas armadas mexicanas o Guardia Nacional, o de sus integrantes.
+
+II. Halconeo: La acción de acechar, vigilar o cualquier acto encaminado a obtener y comunicar información indebidamente, sobre acciones, actividades o ubicación de las instituciones de seguridad pública municipal, estatal, federal, de las fuerzas armadas mexicanas o Guardia Nacional, o de sus integrantes.
 
 (Modalidades agravantes)
 
-Se aumentará en un tercio el mínimo y el máximo de las penas previstas en este artículo, a quien realice los actos descritos en cualquiera de los dos párrafos precedentes, encontrándose en un vehículo de servicio público de transporte de pasajeros, o en alguno simulado al mismo.
+Se incrementará hasta una mitad más de la pena de prisión que le corresponda, cuando además, las conductas previstas en este artículo, se aprovechen para evitar que alguna persona sea detenida o para que se pueda cometer uno o más delitos dolosos.
 
-Se aumentará una mitad al mínimo y al máximo de las penas previstas en el párrafo primero de este artículo, si quien realiza los actos señalados en cualquiera de los dos primeros párrafos de este artículo, es miembro o ex-miembro de una institución de seguridad pública o de policía procesal, o de un centro o establecimiento penitenciario o cárcel municipal, o miembro o ex-miembro de una empresa de seguridad privada o es persona que presta o ha prestado esos servicios a particulares.
+Igualmente, se incrementarán hasta una mitad más de la pena de prisión que le corresponda al que realice las conductas descritas en las fracciones de este artículo, a quien utilizando para ello vehículos simulados de instituciones o empresas, públicas o privadas, o cualquier vehículo de servicio público de transporte de pasajeros u otro que preste un servicio similar o que por sus características exteriores sea similar a la apariencia de los vehículos destinados al servicio de transporte público de pasajeros.
 
-(Penas adicionales)
+La pena se incrementará hasta una mitad más de la pena de prisión que le corresponda al que realice las conductas descritas en las fracciones de este artículo, cuando se empleen menores de edad, personas con discapacidad o de la tercera edad para la comisión de este delito.
 
-Además, al miembro de la institución de seguridad pública o de policía procesal, o de un centro o establecimiento penitenciario o de cárcel municipal a que se refiere el párrafo precedente, se le destituirá de su empleo, cargo o comisión, y tanto a él como, en su caso, al particular que haya cometido el delito, se le inhabilitará de diez a quince años para desempeñar un cargo, empleo o comisión en cualquier entidad oficial del Estado o de sus municipios, y se le suspenderá de quince a veinte años del derecho a realizar cualquier clase de actividad de seguridad privada.
+Se incrementará hasta el doble de la sanción prevista en este artículo, al servidor o ex servidor público que incurra en cualquiera de las conductas previstas en las fracciones del referido artículo. Además, al servidor público, se le destituirá de su empleo, cargo o comisión, y tanto a él como, en su caso, al particular que haya cometido el delito, se le inhabilitará de diez a quince años para desempeñar un cargo, empleo o comisión en cualquier entidad oficial del Estado o de sus municipios, y se le suspenderá de quince a veinte años del derecho a realizar cualquier clase de actividad de seguridad privada.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2019)</small>
+
+Artículo 343 bis (Facilitación de medios para la comisión de delitos contra la seguridad y justicia)
+
+Se impondrá de seis a doce años de prisión y multa de cuatrocientos a seiscientos días a quien procure o administre recursos materiales, económicos o de cualquier tipo para la comisión de las conductas previstas en las fracciones del artículo 343.
 
 Artículo 344 (Facilitación por servidor público, de objetos destinados a la seguridad pública)
 
@@ -5300,6 +5344,12 @@ Se aumentará un tercio al mínimo y al máximo de las penas previstas en este a
 VI. (Consunción)
 
 Si quien realiza cualquiera de las conductas previstas en las fracciones I y III de este artículo, es autor o partícipe del robo del vehículo u objeto a que se refieren esas fracciones, solo se le punirá por el robo que corresponda, sin perjuicio de atender al aumento de penas por la modalidad agravante prevista en la fracción V de este artículo, si la misma se actualiza.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2019)</small>
+
+Artículo 345 Bis (Uso indebido de los sistemas de emergencia y de denuncia)
+
+Se impondrá de seis meses a dos años de libertad vigilada y multa de quinientos a mil días de salario mínimo, a quien utilice indebidamente los números telefónicos de emergencia proporcionados por las autoridades en materia de seguridad pública, protección civil, bomberos, cruz roja o cualquier número telefónico destinado a atender emergencias en la población, para dar un aviso que resulte falso y que provoque la movilización o presencia de personal de emergencia.
 
 Artículo 346 (Usurpación de funciones de seguridad pública)
 
@@ -6535,6 +6585,12 @@ VIII. (Aprovechamiento de firma o rúbrica ajenas o de la manifestación documen
 
 Aproveche para su beneficio económico o el de otra persona, o perjudicando al autor del documento, una firma o rúbrica puestas en un documento en blanco, completándolo con una obligación o negocio jurídicos, o con fechas, plazos, términos o intereses determinados, o con una manifestación del autor de aquéllas, sin consentimiento del mismo.
 
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2019)</small>
+
+IX. (Obligación forzosa para firmar una carta o documento en blanco que implique la renuncia de los derechos del trabajador).
+
+El que obligue a los trabajadores a firmar documentos en blanco, o de cualquier otro tipo que impliquen renuncia de los derechos del trabajador, o le imponga obligaciones a éste, con el fin (sic) menoscabarlos o anularlos, ya sea que el trabajador labore en una empresa o institución pública o privada.
+
 Artículo 407 (Modalidades agravantes de falsificación, adulteración o uso indebido de documentos)
 
 Se aumentará en dos tercios el mínimo y el máximo de las penas previstas en el artículo anterior, cuando respecto a cualquiera de los supuestos del mismo:
@@ -7131,7 +7187,9 @@ La violencia a que se refiere el párrafo precedente podrá comprender hasta oca
 
 ### Capítulo Quinto. Ejercicio ilegal de atribuciones y facultades
 
-Artículo 448 (Ejercicio ilegal de atribuciones y facultades)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2019)</small>
+
+Artículo 448 (Ejercicio abusivo de funciones)
 
 Se impondrá de tres a cinco años de prisión y de mil a dos mil días multa, al servidor público que:
 
@@ -7596,3 +7654,41 @@ P.O. 12 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 242.- SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 293.- SE ADICIONA EL ARTÍCULO 345 BIS AL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA.”]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico oficial del Estado.
+
+P.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 299.- SE ADICIONA EL ARTÍCULO 341 BIS AL CÓDIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 300.- SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 406 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 5 DE JULIO DE 2019
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 301.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 13, LA DENOMINACIÓN DEL TÍTULO QUINTO, LA DENOMINACIÓN DEL ARTÍCULO 448, DEL CÓDIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, excepto lo concerniente a los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, que entrarán en vigor conforme a lo establecido en el artículo Tercero Transitorio del Decreto por el que se Declara reformado el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa, publicado en el Diario Oficial de la Federación, el 12 de febrero de 2019.
+
+P.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 305.- SE REFORMAN EL ARTÍCULO 341, EL ARTÍCULO 343, Y SE ADICIONA EL ARTÍCULO 343 BIS, DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
