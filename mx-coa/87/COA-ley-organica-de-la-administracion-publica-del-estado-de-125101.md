@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-125101"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-19"
-last_updated: "2018-12-14"
+last_updated: "2019-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
 
 Ley publicada en la Primera Sección al Número 101 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 19 de diciembre de 2017.
 
@@ -1197,7 +1197,17 @@ XVI. Generar políticas públicas para incrementar la productividad, fomentar la
 
 XVII. Ejecutar los convenios y acuerdos que en materia del trabajo suscriba el Poder Ejecutivo del Estado con la Federación, y
 
-XVIII. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2019)</small>
+
+XVIII. En coordinación con las autoridades federales, organizar ferias del empleo y programas para vincular la oferta y la demanda en el mercado laboral; facilitando el acceso de los interesados de manera presencial y por medios virtuales;
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2019)</small>
+
+XIX. Ejecutar los convenios y acuerdos que en materia del trabajo suscriba el Poder Ejecutivo del Estado con la Federación, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE JULIO DE 2019)</small>
+
+XX. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2018)</small>
 
@@ -1454,3 +1464,9 @@ DÉCIMO PRIMERO. Las unidades administrativas que se transfieran en términos de
 DÉCIMO SEGUNDO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, la Secretaría de Medio Ambiente, la Secretaría de Economía y Turismo, respecto de los asuntos cuya responsabilidad se transfiere a las dependencias que con el presente decreto se crean, serán tramitados hasta su conclusión por las unidades administrativas a las que corresponda conforme a los respectivos reglamentos interiores, de acuerdo a lo establecido en el transitorio anterior.
 
 DÉCIMO TERCERO. El Ejecutivo del Estado, dentro de los ciento ochenta días posteriores a la entrada en vigor del presente decreto, propondrá al Congreso del Estado las reformas a la legislación estatal que se requieran para la modificación de la estructura de la administración pública paraestatal, o en su caso, emitirá los decretos administrativos conducentes, según corresponda, de conformidad con los artículos 14 y 15 de la Ley de Entidades Paraestatales del Estado de Coahuila de Zaragoza.
+
+P.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 291.- SE AGREGA UN NUEVO CONTENIDO A LA FRACCIÓN XVIII, RECORRIENDO EL ACTUAL CONTENIDO A LA QUE SIGUE, HACIENDO LO MISMO CON LA FRACCIÓN XIX, PARA FINALMENTE CREAR LA FRACCIÓN XX DEL ARTÍCULO 33 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
