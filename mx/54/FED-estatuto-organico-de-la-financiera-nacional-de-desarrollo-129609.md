@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-12960
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-07-30"
-last_updated: "2018-07-30"
+last_updated: "2019-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129609&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,6 +20,8 @@ issue_date: "2018-07-18"
 # ESTATUTO ORGANICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO
 
 ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JULIO DE 2019.
 
 Estatuto publicado en la Segunda Sección al Número 21 del Diario Oficial de la Federación, el lunes 30 de julio de 2018.
 
@@ -115,7 +117,9 @@ El Consejo estará integrado por los siguientes Consejeros:
 
 I. El Secretario de Hacienda y Crédito Público;
 
-II. El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+II. El Secretario de Agricultura y Desarrollo Rural;
 
 III. El Secretario de Desarrollo Agrario, Territorial y Urbano;
 
@@ -123,7 +127,9 @@ IV. Un representante del Gobernador del Banco de México dentro de los 3 niveles
 
 V. El Subsecretario de Hacienda y Crédito Público;
 
-VI. El Subsecretario de Alimentación y Competitividad de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+VI. El Subsecretario de Agricultura de la Secretaría de Agricultura y Desarrollo Rural;
 
 VII. El Titular de la Unidad de Banca de Desarrollo de la Secretaría;
 
@@ -151,9 +157,11 @@ Cada Consejero Propietario designará a su Suplente. En el caso de los servidore
 
 El Consejero Independiente no tendrá suplente y deberá asistir, cuando menos, al setenta por ciento de las sesiones que se hayan convocado en un ejercicio. En caso contrario y de no justificarse las ausencias debidamente en opinión del Consejo, la Secretaría procederá a hacer una nueva designación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 10.
 
-El Consejo será presidido por el Secretario de Hacienda y Crédito Público y en su ausencia será presidido por el Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+El Consejo será presidido por el Secretario de Hacienda y Crédito Público y en su ausencia será presidido por el Secretario de Agricultura y Desarrollo Rural.
 
 En ausencia de ambos, presidirá el Subsecretario de Hacienda y Crédito Público o el suplente del Secretario de Hacienda y Crédito Público en ese orden, y a falta de todos los anteriores, quien designen los consejeros presentes.
 
@@ -331,21 +339,29 @@ IX. Apoyar en la emisión de información técnica que impacte la viabilidad de 
 
 X. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomiende el Director General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 18.
 
-Corresponde a la Subdirección Corporativa de Vinculación con Organizaciones Sociales y Agentes del Sector Rural:
+Corresponde a la Subdirección Corporativa de Apoyo Técnico:
 
-I. Coordinar la operación de enlace institucional con organizaciones de productores, que permita captar sus planteamientos y solicitudes en relación con los apoyos para el Componente de Fortalecimiento de las Organizaciones de Productores y el Componente para el Desarrollo Tecnológico, para canalización, seguimiento y atención por parte de las áreas respectivas;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
 
-II. Dirigir el proceso de atención a organizaciones de Productores con la finalidad de favorecer la formulación de convenios de concertación que permitan su fortalecimiento y el desarrollo de los Productores agremiados a las mismas;
+I. Dirigir el análisis de la información que requiera la Dirección General sobre los temas del sector de la Financiera;
 
-III. Dirigir las acciones orientadas al análisis y gestión de las solicitudes presentadas por las organizaciones de Productores para lo relativo a los apoyos del componente para el Fortalecimiento de las Organizaciones de Productores y el Componente para el Desarrollo Tecnológico conforme a la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
 
-IV. Autorizar las solicitudes y pagos de apoyos de los componentes para el Fortalecimiento de las Organizaciones de Productores y para el Desarrollo Tecnológico, en cumplimiento de las disposiciones normativas aplicables;
+II. Coordinar la operación de enlace institucional con organizaciones relacionadas con el sector de atención de la Financiera;
 
-V. Diseñar y coordinar programas de supervisión in situ y extra situ para verificar la correcta aplicación de los apoyos para el Componente de Fortalecimiento de las Organizaciones de Productores y del Componente para el Desarrollo Tecnológico;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
 
-VI. Fomentar mediante reuniones y eventos, los canales de comunicación con Senadores, Diputados Federales y Locales, miembros de las comisiones ordinarias y especiales relacionadas con el sector rural, derivado de las necesidades y planteamientos formulados por las organizaciones sociales de Productores en materia de apoyos para el Componente de Fortalecimiento de las Organizaciones de Productores y el Componente para el Desarrollo Tecnológico, con el propósito de coadyuvar en el impulso o modificación de iniciativas de la Ley y sus puntos de acuerdo;
+III. Generar opiniones técnicas para la oportuna toma de decisiones de la Dirección General;
+
+IV. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
+
+V. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
+
+VI. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
 VII. Fomentar la coordinación interinstitucional en materia de organizaciones de Productores con las distintas Entidades y Dependencias de la Administración Pública de los distintos órdenes de gobierno, y
 
@@ -503,6 +519,10 @@ XIII. Presentar al Consejo políticas y dirigir las acciones relacionadas con la
 
 XIV. Dirigir las actividades que propicien la generación de vínculos estratégicos, de cooperación e intercambio de información, experiencias y tecnología con entidades nacionales e internacionales, y
 
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XIV BIS. Coordinar las acciones necesarias para la recuperación de la cartera extrajudicial y judicial de la Financiera.
+
 XV. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomienden el Director General o el Consejo.
 
 ###### ARTÍCULO 24.
@@ -511,7 +531,9 @@ Corresponde a la Dirección Ejecutiva Jurídica:
 
 I. Dirigir la ejecución de las políticas y estrategias tendientes a que los procesos jurídicos se apeguen a la legalidad;
 
-II. Dirigir la implementación de estrategias y políticas para la representación y defensa en materia contenciosa de la Financiera ante las instancias judiciales y administrativas, a fin de proteger sus intereses jurídicos y patrimoniales;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+II. Participar en los diversos órganos colegiados de la Financiera conforme lo dispongan sus respectivas Reglas de Operación o las disposiciones jurídicas que rijan su conformación;
 
 III. Coadyuvar en la coordinación técnica dirigida a las Gerencias de Coordinación Regional Jurídica, así como el apoyo jurídico a las unidades administrativas de la Financiera;
 
@@ -519,7 +541,9 @@ IV. Coadyuvar con la Dirección General Adjunta Jurídica y Fiduciaria en las fu
 
 V. Supervisar la implementación de acciones para la administración del riesgo legal de la Financiera;
 
-VI. Validar los contratos y convenios típicos y atípicos que presenten las diferentes áreas de la Financiera en materia de Crédito;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+VI. Supervisar la elaboración y revisión y, en su caso, validar los contratos, convenios e instrumentos jurídicos análogos que presenten las diferentes áreas de la Financiera en materia de crédito, fiduciaria, mandatos y comisiones, así como en los que se establezca la coordinación con dependencias y entidades de la administración pública y bases de licitación y demás actos jurídicos que celebre la Financiera y, en su caso, las Coordinaciones Regionales, verificando que se apeguen a los lineamientos y políticas establecidas;
 
 VII. Dirigir las acciones jurídico corporativas tendientes a la rendición de los informes que en materia corporativa sean requeridos por las autoridades competentes con domicilio en la Ciudad de México;
 
@@ -541,13 +565,23 @@ IV. Fungir como titular de la unidad de consultas y reclamaciones de usuarios de
 
 V. Proponer modificaciones a los lineamientos para la contratación de servicios de abogados externos para la defensa de los intereses de la Financiera, que contemplen entre otras cosas, la autorización del pago de honorarios por servicios brindados por despachos externos y la aprobación de los gastos judiciales de la Financiera, y
 
-VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario y/o el Director Ejecutivo Jurídico.
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+V. BIS. Coadyuvar con la Dirección General Adjunta Jurídica y Fiduciaria en la gestión de la cartera judicial y;
+
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 26.
 
-Corresponde a la Subdirección Corporativa Jurídica de Crédito y Apoyo al Prosecretariado:
+Corresponde a la Subdirección Corporativa Jurídica de Crédito y Apoyo a Órganos Colegiados:
 
-I. Coordinar la opinión, y dictaminación sobre la procedencia de convenios, contratos y demás actos jurídicos que celebre la Financiera en materia de crédito;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+I. Coordinar la opinión, y dictaminación sobre la procedencia de convenios, contratos y demás actos jurídicos que celebre la Financiera en materia de crédito, fiduciaria y, en su caso, emitir la validación correspondiente a dichos actos;
 
 II. Validar y supervisar la elaboración de los modelos de convenios y contratos en materia de crédito, verificando que los mismos se apeguen a los lineamientos y políticas establecidas;
 
@@ -557,7 +591,9 @@ IV. Proporcionar el apoyo jurídico a las diversas unidades administrativas de l
 
 V. Coadyuvar con el Prosecretario en el control de la información, integración de la documentación de aquellos asuntos que se someterán a la consideración del Consejo Directivo, así como en el seguimiento de los acuerdos que adopte dicho Órgano Directivo;
 
-VI. Coadyuvar con la Secretaría del Comité de Crédito en el control de la información e integración de la documentación de aquellos asuntos que se someterán a la consideración de dicho Comité, así como en el seguimiento de los acuerdos que adopte dicho Cuerpo Colegiado, y
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+VI. Coadyuvar con la Secretaría de los distintos órganos colegiados en los que la Dirección General Adjunta Jurídica y Fiduciaria participe con tal carácter, así como aquellos que le instruya la Dirección Ejecutiva Jurídica, en el control de la información e integración de la documentación de aquellos asuntos que se someterán a la consideración de los Cuerpos Colegiados, así como en el seguimiento de los acuerdos que adopten;
 
 VII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario y/o el Director Ejecutivo Jurídico.
 
@@ -577,7 +613,7 @@ V. Diseñar y establecer criterios, indicadores, y parámetros de medición de r
 
 VI. Proponer las remociones, reubicaciones, reasignaciones y cambios de radicaciones de los Gerentes de Coordinación Regional Jurídica, de los servidores públicos adscritos a dichas Gerencias Jurídicas, así como de los Ejecutivos Jurídicos de las Agencias de Crédito Rural;
 
-VII. Coordinar y Coadyuvar en los trabajos de verificación de antecedentes registrales en los registros públicos que correspondan, tanto de los bienes muebles e inmuebles objeto de las garantías que se constituyan a favor de la Financiera, como de las personas morales que participen en el crédito, a través de la contratación de despachos verificadores, y
+VII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
 VIII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario y/o el Director Ejecutivo Jurídico.
 
@@ -597,7 +633,9 @@ V. Supervisar el cumplimiento de los fines de los negocios fiduciarios a cargo d
 
 VI. Supervisar la ejecución de las disposiciones de la Comisión en materia de fideicomisos, mandatos, comisiones y avalúos;
 
-VII. Realizar la actividad de administración de recursos, bienes y derechos que se vinculen con fideicomisos, mandatos y comisiones que le sean encomendadas;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+VII. Realizar la administración de los bienes y derechos que se vinculen con fideicomisos, mandatos y comisiones que le sean encomendadas;
 
 VIII. Supervisar el cumplimiento de los lineamientos y procedimientos aplicables en materia de negocios fiduciarios, avalúos, mandatos y comisiones;
 
@@ -615,7 +653,9 @@ Corresponde a la Subdirección Corporativa Jurídica de Normatividad y Consulta:
 
 I. Supervisar y evaluar el desarrollo del análisis, interpretación y consulta de leyes, reglamentos, decretos y, demás disposiciones legales y administrativas aplicables;
 
-II. Supervisar la revisión, opinión y dictaminación de contratos y convenios típicos y atípicos que presenten las diferentes áreas de la Financiera, en los que se establezca la coordinación con dependencias y entidades de la administración pública y organismos de los sectores social y privado; correspondientes a fideicomisos, mandatos y comisiones, así como bases de licitación y demás actos jurídicos que celebre la Financiera y, en su caso, las Coordinaciones Regionales, verificando que se apeguen a los lineamientos y políticas establecidas;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+II. Supervisar la revisión, opinión y dictaminación de contratos y convenios típicos y atípicos que presenten las diferentes áreas de la Financiera, en los que se establezca la coordinación con dependencias y entidades de la administración pública y organismos de los sectores social y privado; así como bases de licitación y demás actos jurídicos que celebre la Financiera y, en su caso, las Coordinaciones Regionales, verificando que se apeguen a los lineamientos y políticas establecidas;
 
 III. Contemplar estrategias para la función jurídica de la Financiera;
 
@@ -629,7 +669,9 @@ VII. Proporcionar el apoyo jurídico a las diversas unidades administrativas de 
 
 VIII. Coordinar las acciones jurídico corporativas y ser el conducto de la Financiera para rendir los informes que en materia corporativa sean requeridos por las autoridades competentes con domicilio en la Ciudad de México, y
 
-IX. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario.
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+IX. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario y/o el Director Ejecutivo Jurídico.
 
 ###### ARTÍCULO 30.
 
@@ -669,11 +711,15 @@ VII. Administrar los trabajos de evaluación interna y externa de los programas 
 
 VIII. Establecer los mecanismos que permitan la generación de informes y retroalimentación de resultados operativos de las agencias, con las Coordinaciones Regionales y con las áreas corporativas para sustentar los procesos de planeación estratégica y operativa, así como su seguimiento y evaluación;
 
-IX. Desarrollar los parámetros para la implantación de sistemas de información financiera y de gestión, tendientes a evaluar el desempeño institucional y satisfacer requerimientos de información internos y externos al respecto;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+IX. Desarrollar los parámetros de gestión, tendientes a evaluar el desempeño institucional y satisfacer requerimientos de información internos y externos al respecto;
 
 X. Establecer coordinación y comunicación con dependencias públicas en los tres niveles de gobierno, organismos agroempresariales y de representación del sector agropecuario, rural, forestal y pesquero para identificar oportunidades, necesidades y expectativas que sirvan de fundamento en el diseño de los programas y productos de crédito;
 
-XI. Asegurar en el ámbito de su competencia, la preparación de la información que por Ley y disposiciones normativas debe ser entregada a entidades reguladoras de la Institución para cumplir con las disposiciones establecidas en esta materia;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XI. Asegurar en el ámbito de la planeación estratégica, la preparación de la información que por Ley y disposiciones normativas debe ser entregada a entidades reguladoras de la Institución para cumplir con las disposiciones establecidas en esta materia;
 
 XII. Administrar el intercambio de información con Agencias y Coordinaciones Regionales para fortalecer la inteligencia de negocios en la toma de decisiones, a través de diagnósticos sectoriales actualizados y la identificación de oportunidades de mercado, y
 
@@ -727,7 +773,9 @@ XI. Elaborar un análisis diario que dé seguimiento a las notas informativas qu
 
 XII. Coordinar el seguimiento de la atención de las peticiones de información y aclaraciones solicitadas a la Financiera, por parte de los medios de comunicación sobre sus actividades;
 
-XIII. Dirigir la administración de los contenidos de la página de Internet e intranet de la Institución y coordinar su actualización con todas las áreas responsables de la información;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XIII. Dirigir la administración de los contenidos de las redes sociales, la página de Internet e intranet de la Institución, y coordinar su actualización con todas las áreas responsables de la información;
 
 XIV. Dirigir y supervisar la labor del Call Center Institucional, y
 
@@ -745,7 +793,13 @@ III. Dirigir el análisis, resolución y otorgamiento de los créditos presentad
 
 IV. Emitir las disposiciones normativas que complementen y/o interpreten las políticas, lineamientos, normas y procedimientos de crédito, de reporto y de otros financiamientos;
 
-V. Dirigir la relación de la Financiera con las sociedades de información crediticia, y/o con las Instituciones de Banca de Desarrollo en lo relacionado a este tema;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+V. Coadyuvar en la dirección de la relación de la Financiera con las sociedades de información crediticia, y/o con las Instituciones de Banca de Desarrollo en lo relacionado a este tema, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+V. BIS. Coadyuvar la generación de los mecanismos de venta, subasta, concesión y bursatilización de la cartera vencida;
 
 VI. Proponer al Director General el nombramiento, remoción, cambio de adscripción y promoción, de conformidad con la normatividad institucional, de los Gerentes de Coordinación Regional de Análisis de Crédito y de los Gerentes Regionales de Supervisión y Cobranza de la Financiera, así como de los servidores públicos adscritos a dichas gerencias
 
@@ -759,9 +813,11 @@ IX. Dictar lineamientos, políticas y procedimientos para la cobranza administra
 
 X. Instrumentar las acciones para verificar que las operaciones de financiamiento se apeguen a la normatividad vigente y a los términos y condiciones aprobados por los órganos e instancias facultadas;
 
-XI. Instrumentar la supervisión del cumplimiento de los procesos normativos en materia de expedientes de crédito, de reporto y de otros financiamientos; así como de guardavalores;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
 
-XII. Instrumentar las acciones de supervisión a los Almacenes Generales de Depósito como emisores de certificados de depósito y bonos de prenda;
+XI. Instrumentar la supervisión del cumplimiento de los procesos normativos en materia de expedientes de crédito, reporto, apoyos y de otros financiamientos; así como de guardavalores;
+
+XII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
 XIII. Instrumentar las acciones para el seguimiento al proceso de crédito;
 
@@ -795,7 +851,7 @@ VIII. Dirigir y vigilar la correcta aplicación de los lineamientos, políticas 
 
 IX. Dirigir la supervisión del cumplimiento de los procesos normativos en materia de expedientes de crédito, de reporto y de otros financiamientos, así como de guardavalores;
 
-X. Dirigir las acciones de supervisión a los Almacenes Generales de Depósito como emisores de certificados de depósito y bonos de prenda;
+X. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
 XI. Dirigir el seguimiento al proceso de crédito;
 
@@ -814,6 +870,10 @@ Corresponde a la Subdirección Corporativa de Mesa de Control:
 I. Asegurar el cumplimiento de los términos y condiciones que se establecen en los acuerdos de las instancias de autorización, vigilando la correcta aplicación conforme a la normatividad de la Financiera;
 
 II. Vigilar el procesamiento de las operaciones de crédito, de reporto y de otros financiamientos en la mesa de control, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+II. BIS. Almacenar la documentación original que respalde las operaciones de financiamiento en el guardavalores; y
 
 III. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director General Adjunto de Crédito y/o el Director Ejecutivo de Análisis y Normatividad de Crédito.
 
@@ -855,7 +915,7 @@ V. Coordinar el seguimiento al proceso de crédito;
 
 VI. Coordinar las propuestas de capacitación en materia de normatividad y procesos de crédito y de reporto;
 
-VII. Coordinar la supervisión a los Almacenes Generales de Depósito como emisores de Certificados de Depósito, en el marco del Manual de Normas y Políticas de Crédito y del Manual de Normas y Políticas de Reporto, y
+VII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
 VIII. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director General Adjunto de Crédito y/o el Director Ejecutivo de Análisis y Normatividad de Crédito.
 
@@ -895,9 +955,11 @@ III. Proporcionar apoyos y servicios de promoción, capacitación, asesoría, or
 
 IV. Proporcionar apoyos y servicios de promoción, capacitación, consultoría y otras modalidades que contribuyan al diseño, incubación y fortalecimiento de entidades dispersoras de crédito e Intermediarios Financieros Rurales;
 
-V. Administrar los recursos asignados a las actividades de promoción, capacitación, asesoría, consultoría y organización, en el Presupuesto de la Financiera, con excepción de los recursos presupuestales relacionados con los apoyos del componente para el Fortalecimiento de las Organizaciones de Productores;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
 
-VI. Celebrar todo tipo de convenios con los sectores público, social y privado a nivel nacional e internacional que contribuyan a ampliar, mejorar y realizar las actividades de promoción, diseño, incubación y fortalecimiento de proyectos productivos, empresas agropecuarias, rurales, forestales y pesqueras, entidades dispersoras de crédito e Intermediarios Financieros Rurales, previa validación del área correspondiente de la Dirección General Adjunta Jurídica y Fiduciaria, con excepción de los que tengan por objeto la asignación de recursos presupuestales relacionados con los apoyos del componente para el Fortalecimiento de las Organizaciones de Productores;
+V. Coadyuvar con la Dirección General Adjunta de Finanzas, Operaciones y Sistemas en el uso los recursos asignados a las actividades de promoción, capacitación, asesoría, consultoría y organización, en el Presupuesto de la Financiera;
+
+VI. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
 VII. Establecer y dirigir el desarrollo de programas de detección de oportunidades de negocio en las zonas agropecuarias, rurales, forestales y pesqueras con el propósito de definir estrategias de promoción ante instituciones nacionales e internacionales orientadas a la inversión y al financiamiento de proyectos productivos que impulsen el desarrollo rural;
 
@@ -907,21 +969,29 @@ IX. Fomentar el desarrollo de esquemas y programas de detección de necesidades 
 
 X. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares;
 
-XI. Dirigir, coordinar y dar seguimiento a las funciones inherentes de promoción de negocios, operación crediticia y atención a los segmentos de los sectores agropecuario, rural, forestal y pesquero, en apego a los objetivos y metas asignadas a las Coordinaciones Regionales y a la Agencia Corporativa de Crédito Rural;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
 
-XII. Coadyuvar en la promoción de las líneas de negocio de la Financiera, por medio de los programas de financiamiento y productos de crédito y de los programas de apoyo que se determinen en el Presupuesto de Egresos de la Federación, con excepción de los apoyos relacionados con el componente para el Fortalecimiento de las Organizaciones de Productores;
+XI. Dirigir, coordinar y dar seguimiento a las funciones inherentes de promoción de negocios, operación crediticia y atención a los segmentos de los sectores agropecuario, rural, forestal y pesquero, en apego a los objetivos y metas asignadas a las Coordinaciones Regionales;
+
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XII. Coadyuvar en la promoción de las líneas de negocio de la Financiera, por medio de los programas de financiamiento y productos de crédito y de los programas de apoyo que se determinen en el Presupuesto de Egresos de la Federación;
 
 XIII. Establecer, dirigir y supervisar la función de promoción a través de técnicas de mercadeo, la venta de productos y servicios crediticios, así como la detección de zonas y clientes potenciales para el desarrollo;
 
 XIV. Dirigir la instrumentación de productos y programas de atención a los segmentos del mercado objetivo de la Financiera;
 
-XV. Evaluar el cumplimiento de las metas y objetivos asignados a las Coordinaciones Regionales y la Agencia Corporativa de Crédito Rural conforme a las prioridades establecidas en la fracción XI del presente artículo;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
 
-XVI. Coordinar las acciones y resultados de la Agencia Corporativa de Crédito Rural en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
+XV. Evaluar el cumplimiento de las metas y objetivos asignados a las Coordinaciones Regionales conforme a las prioridades establecidas en la fracción XI del presente artículo;
 
-XVII. Apoyar las gestiones específicas que realice la Agencia Corporativa de Crédito Rural;
+XVI. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-XVIII. Definir las condiciones que deben ser consideradas por la Dirección General Adjunta de Finanzas, Operaciones y Sistemas, en la negociación en materia de financiamiento y en el diseño de programas y productos específicos, con las Instituciones de Banca de Desarrollo, Fideicomisos Públicos de Fomento, Fideicomisos Instituidos en Relación con la Agricultura constituidos en el Banco de México y Organismos Financieros Internacionales, para contratar líneas de crédito y demás financiamientos que tengan como finalidad financiar programas o proyectos relacionados con el cumplimiento del objeto de la Financiera;
+XVII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
+
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XVIII. Coadyuvar con la Dirección General Adjunta de Finanzas, Operaciones y Sistemas, en la negociación en materia de financiamiento y en el diseño de programas y productos específicos, con las Instituciones de Banca de Desarrollo, Fideicomisos Públicos de Fomento, Fideicomisos Instituidos en Relación con la Agricultura constituidos en el Banco de México y Organismos Financieros Internacionales, para contratar líneas de crédito y demás financiamientos que tengan como finalidad financiar programas o proyectos relacionados con el cumplimiento del objeto de la Financiera;
 
 XIX. Informar al Director General, previo a la autorización de las instancias correspondientes, aquellas operaciones que pudiesen estar vinculadas con el objeto de las Instituciones de Banca de Desarrollo;
 
@@ -935,19 +1005,27 @@ XXII. Llevar a cabo las demás actividades dentro del área de su competencia, q
 
 Corresponde a la Dirección Ejecutiva de Enlace y Evaluación de Coordinaciones Regionales:
 
-I. Coadyuvar en la dirección, coordinación y seguimiento a las funciones inherentes de promoción de negocios, operación crediticia y atención a los segmentos de los sectores agropecuario, rural, forestal y pesquero en apego a los objetivos y metas asignadas a las Coordinaciones Regionales y la Agencia Corporativa de Crédito Rural;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
 
-II. Coadyuvar en la evaluación del cumplimiento de las metas y objetivos asignados a las Coordinaciones Regionales y la Agencia Corporativa conforme a las prioridades establecidas en la fracción anterior;
+I. Coadyuvar en la dirección, coordinación y seguimiento a las funciones inherentes de promoción de negocios, operación crediticia y atención a los segmentos del Sector Rural en apego a los objetivos y metas asignadas a las Coordinaciones Regionales;
 
-III. Proponer a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional, las medidas de ajuste que sean requeridas para asegurar el cumplimiento de los objetivos, metas y prioridades establecidas de las Coordinaciones Regionales y la Agencia Corporativa de Crédito Rural;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+II. Coadyuvar en la evaluación del cumplimiento de las metas y objetivos asignados a las Coordinaciones Regionales conforme a las prioridades establecidas en la fracción anterior;
+
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+III. Proponer a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional, las medidas de ajuste que sean requeridas para asegurar el cumplimiento de los objetivos, metas y prioridades establecidas de las Coordinaciones Regionales;
 
 IV. Promover acciones para la mejora continua e innovación de los programas de financiamiento, productos de crédito y procesos de la Financiera;
 
-V. Establecer esquemas de coordinación para la evaluación y seguimiento de la operación de las Coordinaciones Regionales, Agencias de Crédito Rural y Agencia Corporativa de Crédito Rural;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
 
-VI. Coadyuvar en la coordinación de las acciones y resultados de la Agencia Corporativa de Crédito Rural en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
+V. Establecer esquemas de coordinación para la evaluación y seguimiento de la operación de las Coordinaciones Regionales;
 
-VII. Coadyuvar en el apoyo de las gestiones específicas que realice la Agencia Corporativa de Crédito Rural;
+VI. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
+
+VII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
 VIII. Participar en el ámbito de su competencia, en la preparación de la información que por Ley y disposiciones normativas debe ser entregada a entidades reguladoras de la Financiera para cumplir con las disposiciones establecidas en esta materia, y
 
@@ -957,11 +1035,15 @@ IX. Las demás que le encomiende el Director General Adjunto de Promoción de Ne
 
 Corresponde a la Subdirección Corporativa de Coordinación y Evaluación Regional:
 
-I. Participar en la coordinación y seguimiento a las funciones inherentes de promoción de negocios, operación crediticia y atención a los segmentos del sector agropecuario, rural, forestal y pesquero en apego a los objetivos y metas asignadas a las Coordinaciones Regionales y la Agencia Corporativa de Crédito Rural;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+I. Participar en la coordinación y seguimiento a las funciones inherentes de promoción de negocios, operación crediticia y atención a los segmentos del sector agropecuario, rural, forestal y pesquero en apego a los objetivos y metas asignadas a las Coordinaciones Regionales;
 
 II. Participar en la promoción de acciones para la mejora continua e innovación de los programas, productos y procesos de la Financiera;
 
-III. Participar en la evaluación del cumplimiento de las metas y objetivos asignados a las Coordinaciones Regionales y la Agencia Corporativa de Crédito Rural conforme a las prioridades establecidas en la fracción I del presente artículo;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+III. Participar en la evaluación del cumplimiento de las metas y objetivos asignados a las Coordinaciones Regionales conforme a las prioridades establecidas en la fracción I del presente artículo;
 
 IV. Generar recomendaciones de mejora operativa para las Coordinaciones Regionales y Agencias de Crédito Rural a fin de lograr las metas planteadas;
 
@@ -973,37 +1055,7 @@ VII. Las demás que le encomiende el Director General Adjunto de Promoción de N
 
 ###### ARTÍCULO 43.
 
-Corresponde a la Agencia Corporativa de Crédito Rural, que tendrá su domicilio en la Ciudad de México:
-
-I. Coordinar y efectuar la aplicación de los productos, programas y apoyos de crédito con apego a los lineamientos establecidos, a fin de lograr las metas de negocios y los objetivos de atención a usuarios en apoyo a los objetivos de negocio establecidos;
-
-II. Verificar que el proceso de promoción, evaluación, originación, autorización, contratación, disposición, supervisión y recuperación, se realice con oportunidad, a fin de asegurar la calidad en el proceso crediticio;
-
-III. Supervisar los resultados de la operación crediticia de la Agencia en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocio, con el fin de cumplir con la normatividad y líneas de acción establecidas y una recuperación efectiva de la cartera de los créditos otorgados;
-
-IV. Asistir como representante corporativo a nombre de la Financiera en las comisiones que se le asignen, así como legalmente en el ámbito de su competencia;
-
-V. Atender de manera directa las solicitudes de financiamiento, asesoría y capacitación que presenten los Productores y los Intermediarios Financieros Rurales;
-
-VI. Dirigir acciones que propicien que la Financiera llegue a los Productores e Intermediarios Financieros Rurales y Bancarios directamente a sus unidades de producción, a través de la promoción en sitio;
-
-VII. Determinar y analizar las necesidades de financiamiento que requieran los Productores, empresas agropecuarias, rurales, forestales y pesqueras, entidades dispersoras de crédito e Intermediarios Financieros Rurales y Bancarios, a fin de que las mismas sean atendidas por la Financiera;
-
-VIII. Identificar proyectos productivos que impulsen el desarrollo agropecuario, rural, forestal y pesquero a fin de promoverlos ante instituciones nacionales o extranjeras dedicadas a la inversión y al financiamiento;
-
-IX. Supervisar y coordinar que se lleven a cabo las actividades de guarda y custodia de documentos valor conforme a la normativa establecida;
-
-X. Llevar a cabo acciones complementarias para la operación de los productos de crédito, modelos de atención y nuevas formas de financiamiento que se consideren viables y necesarias para la Institución;
-
-XI. Promocionar el desarrollo de proyectos y nuevos negocios en los sectores estratégicos identificados por la Financiera, con fin de detonar la colocación en su sector y zonas agropecuaria, rural, forestal y pesquera;
-
-XII. Dirigir y revisar la estructuración de financiamientos, cofinanciamientos y créditos sindicados acorde a la profundidad del mercado, considerando las tendencias de los instrumentos financieros existentes tanto en mercado nacional como internacional;
-
-XIII. Informar a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional, en el ámbito de su competencia y previo a la autorización de la instancia correspondiente, las operaciones que pudiesen estar vinculadas con el objeto de las Instituciones de Banca de Desarrollo;
-
-XIV. Participar con las entidades gubernamentales, así como con otras instituciones financieras y fondos de inversión privados, involucrados en los financiamientos y cofinanciamientos estructurados, así como fungir como enlace entre empresas y Productores involucrados en los proyectos a financiarse, y
-
-XV. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende el Director General Adjunto de Promoción de Negocios y Coordinación Regional o bien del Director Ejecutivo de Enlace y Evaluación de Coordinaciones Regionales.
+(DEROGADO, D.O.F. 5 DE JULIO DE 2019)
 
 ###### ARTÍCULO 44.
 
@@ -1017,7 +1069,9 @@ III. Solicitar información relacionada con el ejercicio de sus atribuciones a l
 
 IV. Coordinar los convenios celebrados con los sectores público, social y privado destinados a ampliar, mejorar y realizar las actividades de promoción, diseño, incubación y fortalecimiento de proyectos productivos, con excepción de los que tengan por objeto la entrega de recursos presupuestales relacionados con los apoyos del componente para el Fortalecimiento de las Organizaciones de Productores;
 
-V. Aprobar la asignación de los recursos destinados a los apoyos y servicios para los proyectos productivos, empresas agropecuarias, rurales, forestales y pesqueras y organizaciones de Productores, con excepción de los recursos presupuestales de los apoyos relacionados con el componente para el Fortalecimiento de las Organizaciones de Productores;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+V. Coadyuvar en la aprobación para la asignación de los recursos destinados a los apoyos y servicios para los proyectos productivos, empresas agropecuarias, rurales, forestales y pesqueras y organizaciones de Productores;
 
 VI. Coadyuvar al establecimiento y dirección de las actividades de seguimiento y evaluación de la promoción del crédito en primer piso de las Coordinaciones Regionales y Agencias;
 
@@ -1037,7 +1091,9 @@ I. Coordinar los programas, planes, proyectos para proporcionar los apoyos y ser
 
 II. Coordinar las estrategias para simplificar la atención de los usuarios de los servicios crediticios de la Financiera, mediante el fomento de la asociación de los Productores, el fortalecimiento técnico de sus organizaciones y el desarrollo de proyectos productivos y de empresas agropecuarias, rurales, forestales y pesqueras;
 
-III. Aprobar y coordinar la asignación de los recursos destinados a los apoyos y servicios para los proyectos productivos, empresas agropecuarias, rurales, forestales y pesqueras y organizaciones de Productores, con excepción de los recursos presupuestales relacionados con los apoyos del componente para el Fortalecimiento de las Organizaciones de Productores;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+III. Coadyuvar en la aprobación y la asignación de los recursos destinados a los apoyos y servicios para los proyectos productivos, empresas agropecuarias, rurales, forestales y pesqueras y organizaciones de Productores;
 
 IV. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares;
 
@@ -1055,7 +1111,9 @@ II. Coadyuvar en las estrategias para simplificar la atención a los usuarios de
 
 III. Coordinar las acciones previstas en los convenios celebrados con los sectores público, social y privado destinadas a ampliar, mejorar y realizar las actividades de promoción, diseño, incubación y fortalecimiento de entidades dispersoras de crédito e Intermediarios Financieros Rurales;
 
-IV. Autorizar y coordinar la asignación de los recursos destinados a los apoyos y servicios para las entidades dispersoras de crédito e Intermediarios Financieros Rurales;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+IV. Coadyuvar con la asignación de los recursos destinados a los apoyos y servicios para las entidades dispersoras de crédito e Intermediarios Financieros Rurales;
 
 V. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares;
 
@@ -1097,7 +1155,9 @@ VII. Coordinar el desarrollo de esquemas y programas de financiamiento para la d
 
 VIII. Identificar proyectos productivos potenciales en el medio agropecuario, rural, forestal y pesquero que requieran de financiamientos especializados para su viabilidad;
 
-IX. Estructurar financiamientos y cofinanciamientos acorde con las necesidades de mercado, tomando en cuenta los instrumentos financieros existentes tanto en mercado nacional como internacional;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+IX. Coadyuvar en la estructura de financiamientos y cofinanciamientos acorde con las necesidades de mercado, tomando en cuenta los instrumentos financieros existentes tanto en mercado nacional como internacional;
 
 X. Identificar a los actores involucrados en los financiamientos y cofinanciamientos estructurados (otras entidades gubernamentales, otras instituciones financieras, fondos de inversión privados, etc.) y fungir como enlace entre éstos y los Productores y emprendedores agropecuarios, rurales, forestales y pesqueros involucrados en los proyectos a financiarse;
 
@@ -1107,11 +1167,11 @@ XII. Fomentar la participación de la Financiera en foros internacionales y busc
 
 XIII. Apoyar a la Dirección General Adjunta de Promoción de Negocios y Coordinación Regional, en el diseño de las condiciones que deben ser consideradas por la Dirección General Adjunta de Finanzas, Operaciones y Sistemas, en la negociación en materia de financiamiento y en el diseño de programas y productos específicos, con las Instituciones de Banca de Desarrollo, Fideicomisos Públicos de Fomento, Fideicomisos Instituidos en Relación con la Agricultura constituidos en el Banco de México y Organismos Financieros Internacionales, para contratar líneas de crédito y demás financiamientos que tengan como finalidad financiar programas o proyectos relacionados con el cumplimiento del objeto de la Financiera;
 
-XIV. Coordinar la promoción de operaciones de reporto de la Financiera para incrementar y diversificar su portafolio crediticio, en estricto apego a los lineamientos de administración de riesgos de la Financiera;
+XIV. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-XV. Coordinar la relación de negocios de la Financiera y los Almacenes Generales de Depósito para la adecuada operación de los productos de crédito y operaciones de reporto e incrementar y diversificar el portafolio crediticio;
+XV. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-XVI. Coordinar en el ámbito de su competencia la operación en el otorgamiento de apoyos específicamente encomendados;
+XVI. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
 XVII. Coordinar la relación y contratación de los proveedores de precio de mercado para las operaciones de los productos de crédito y operaciones de reporto, en estricto apego a los lineamientos de administración de riesgos de la Financiera, y
 
@@ -1159,7 +1219,13 @@ IV. Dirigir la instrumentación de las políticas en materia de administración,
 
 V. Gestionar el registro de la estructura orgánica de la Financiera;
 
-VI. Coordinar la elaboración de la estructura organizacional de la Financiera, los niveles de puestos, las bases para la elaboración de tabuladores, política salarial y para el otorgamiento de incentivos; las políticas de ascensos, promociones; lineamientos de selección, reclutamiento y capacitación, criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones, y demás prestaciones económicas establecidas en beneficio los trabajadores, para la presentación y validación de la Dirección General Adjunta de Administración;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 5 DE JULIO DE 2019)</small>
+
+VI. Coordinar la elaboración de la estructura organizacional de la Financiera, los niveles de puestos, las bases para la elaboración de tabuladores, política salarial y para el otorgamiento de incentivos; las políticas de ascensos, promociones; lineamientos de selección, reclutamiento y capacitación, criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones, y demás prestaciones económicas establecidas en beneficio de los trabajadores, para la presentación y validación de la Dirección General Adjunta de Administración.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JULIO DE 2019)</small>
+
+La administración de los recursos financieros de las diversas prestaciones se llevará a cabo por la Dirección General Adjunta de Finanzas, Operaciones y Sistemas;
 
 VII. Coordinar la instrumentación de las políticas salariales y para el otorgamiento de incentivos, prestaciones, ascensos y promociones, y de evaluación del desempeño para la determinación de compensaciones;
 
@@ -1169,7 +1235,9 @@ IX. Establecer mecanismos de descripción y valuación de puestos de la Financie
 
 X. Revisar las modificaciones al Manual General de Organización que sean requeridas para el adecuado desempeño de sus funciones de los diferentes puestos que integran la Financiera;
 
-XI. Coordinar el pago de remuneraciones y el otorgamiento de prestaciones en beneficio de funcionarios y personal;
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XI. Coordinar el pago de remuneraciones y el otorgamiento de prestaciones en beneficio de funcionarios y personal. La administración de los recursos financieros de las diversas prestaciones se llevará a cabo por la Dirección General Adjunta de Finanzas, Operaciones y Sistemas;
 
 XII. Vigilar el cumplimiento del contrato colectivo de trabajo y de otros instrumentos normativos internos que rigen las relaciones laborales;
 
@@ -1269,6 +1337,46 @@ XII. Aprobar políticas, programas y medidas en materia de austeridad y racional
 
 XIII. Definir estrategias y políticas encaminadas al desarrollo e implementación del sistema de gestión de calidad y el programa de certificación y mejora continua, así como la administración de las Bases de Datos de la Financiera, y
 
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XIII. BIS. Coordinar la administración de los recursos financieros que se vinculen con fideicomisos, mandatos y comisiones que le sean encomendadas;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XIII. BIS 1. Administrar los recursos asignados a las actividades de promoción, capacitación, asesoría, consultoría y organización, en el Presupuesto de la Financiera;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XIII. BIS 2. Definir y diseñar las condiciones que deben ser consideradas, en la negociación en materia de financiamiento y en el diseño de programas y productos específicos, con las Instituciones de Banca de Desarrollo, Fideicomisos Públicos de Fomento, Fideicomisos Instituidos en Relación con la Agricultura constituidos en el Banco de México y Organismos Financieros Internacionales, para contratar líneas de crédito y demás financiamientos que tengan como finalidad financiar programas o proyectos relacionados con el cumplimiento del objeto de la Financiera;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XIII. BIS 3. Coordinar y asegurar, la preparación de la información financiera que por Ley y disposiciones normativas debe ser entregada a las entidades reguladoras de la Institución para cumplir con las disposiciones establecidas en esta materia;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XIII. BIS 4. Aprobar la asignación de los recursos destinados a los apoyos y servicios para los proyectos productivos, empresas agropecuarias, rurales, forestales y pesqueras y organizaciones de Productores;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XIII. BIS 5. Coordinar, con el apoyo de la Dirección General Adjunta Jurídica y Fiduciaria y la Dirección General Adjunta de Crédito, los mecanismos de venta, subasta, concesión y bursatilización de la de cartera vencida;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XIII. BIS 6. Proponer al Director General el nombramiento, remoción y cambio de adscripción y promoción, de conformidad con la normatividad institucional, de los Gerentes Regionales de Informática de la Financiera, así como de los servidores públicos adscritos a dichas gerencias;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XIII. BIS 7. Dirigir el establecimiento de sistemas de costeo;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XIII. BIS 8. Suscribir los estados financieros y demás información financiera y presupuestaria, para dar cumplimiento a las obligaciones de las entidades regulatorias y normativas;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XIII. BIS 9. Someter a la autorización de los comités correspondientes las políticas y estrategias para la administración del balance institucional de conformidad con los límites de riesgo y rentabilidad autorizados y, en coordinación con las unidades administrativas respectivas someter la propuesta de nuevos productos y servicios financieros, así como metodologías de evaluación de costos que permitan determinar el precio de los productos y servicios; y
+
 XIV.- Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que les encomiende el Director General.
 
 ###### ARTÍCULO 53.
@@ -1299,6 +1407,30 @@ XI. Dirigir proyectos para la implementación y/o mantenimiento de sistemas de i
 
 XII. Negociar con Instituciones de Banca de Desarrollo, Fideicomisos Públicos de Fomento, Fideicomisos Instituidos en Relación con la Agricultura constituidos en el Banco de México y Organismos Financieros Internacionales, para la contratación de líneas de crédito y demás financiamientos que tengan como finalidad financiar programas o proyectos relacionados con el cumplimiento del objeto de la Financiera, y
 
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XII. BIS. Coordinar la administración financiera de los recursos asignados a las actividades de promoción, capacitación, asesoría, consultoría y organización, en el Presupuesto de la Financiera;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XII. BIS 1. Coordinar la preparación de la información financiera que por Ley y disposiciones normativas deba ser entregada a las entidades reguladoras de la Institución para cumplir con las disposiciones establecidas en esta materia;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XII. BIS 2. Coordinar el establecimiento de sistemas de costeo;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XII. BIS 3. Coordinar y proponer el diseño de las condiciones que deben ser consideradas, en la negociación en materia de financiamiento y en el diseño de programas y productos específicos, con las Instituciones de Banca de Desarrollo, Fideicomisos Públicos de Fomento, Fideicomisos Instituidos en Relación con la Agricultura constituidos en el Banco de México y Organismos Financieros Internacionales, para contratar líneas de crédito y demás financiamientos que tengan como finalidad financiar programas o proyectos relacionados con el cumplimiento del objeto de la Financiera;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XII. BIS 4. Suscribir los estados financieros, demás información financiera y presupuestaria, para dar cumplimiento a las obligaciones de las entidades regulatorias y normativas;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+XII. BIS 5. Someter a la autorización de los comités correspondientes las políticas y estrategias para la administración del balance institucional de conformidad con los límites de riesgo y rentabilidad autorizados y, en coordinación con las unidades administrativas respectivas someter la propuesta de nuevos productos y servicios financieros, así como metodologías de evaluación de costos que permitan determinar el precio de los productos y servicios; y
+
 XIII. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas.
 
 ###### ARTÍCULO 54.
@@ -1319,6 +1451,18 @@ VI. Supervisar que el proceso de programación y presupuestación de la Financie
 
 VII. Coadyuvar en las negociaciones con Instituciones de Banca de Desarrollo, Fideicomisos Públicos de Fomento, Fideicomisos Instituidos en Relación con la Agricultura constituidos en el Banco de México y Organismos Financieros Internacionales, para la contratación de líneas de crédito y demás financiamientos que tengan la finalidad de financiar programas o proyectos relacionados con el cumplimiento del objeto de la Financiera, y
 
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+VII. BIS. Implementar la coordinación de la administración de los recursos financieros asignados a las actividades de promoción, capacitación, asesoría, consultoría y organización, en el Presupuesto de la Financiera;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+VII. BIS 1. Implementar la coordinación para la preparación de la información financiera que por Ley y disposiciones normativas debe ser entregada a las entidades reguladoras de la Institución para cumplir con las disposiciones establecidas en esta materia;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+VII. BIS 2. Suscribir los estados financieros y demás información financiera y presupuestaria, para dar cumplimiento a las obligaciones de las entidades regulatorias y normativas;
+
 VIII. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas y/o el Director Ejecutivo de Finanzas.
 
 ###### ARTÍCULO 55.
@@ -1336,6 +1480,14 @@ IV. Administrar, supervisar y evaluar el Portafolio de Inversión de la Financie
 V. Participar en el ámbito de su competencia, en las negociaciones con Instituciones de Banca de Desarrollo, Fideicomisos Públicos de Fomento, Fideicomisos Instituidos en Relación con la Agricultura constituidos en el Banco de México y Organismos Financieros Internacionales, para la contratación de líneas de crédito y demás financiamientos que tengan la finalidad de financiar programas o proyectos relacionados con el cumplimiento del objeto de la Financiera;
 
 VI. Gestionar las contrataciones de deuda con Instituciones de Banca de Desarrollo, Fideicomisos Públicos de Fomento, Fideicomisos Instituidos en Relación con la Agricultura constituidos en el Banco de México y Organismos Financieros Internacionales, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+VI. BIS. Realizar la actividad de administración de recursos financieros, que se vinculen con fideicomisos, mandatos y comisiones que le sean encomendadas;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+VI. BIS 1. Implementar los mecanismos de venta, subasta, concesión y bursatilización de la de cartera vencida; y
 
 VII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que por instrucción expresa le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas y/o el Director Ejecutivo de Finanzas.
 
@@ -1360,6 +1512,10 @@ VII. Establecer los mecanismos para la coordinación general del proceso, la adm
 VIII. Establecer los mecanismos para la administración, supervisión y control de las conciliaciones con la fuente de Fondeo, así como el registro contable, de pagos y recuperaciones de los recursos fondeados;
 
 IX. Establecer los lineamientos para la administración del sitio web a través del cual los acreditados pueden conocer el saldo de los créditos y operaciones contratadas con la Financiera, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+IX. BIS. Coadyuvar en la preparación de la información financiera que por Ley y disposiciones normativas debe ser entregada a las entidades reguladoras de la Institución para cumplir con las disposiciones establecidas en esta materia; y
 
 X. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas.
 
@@ -1422,6 +1578,18 @@ VI. Definir los procesos de operación de Tecnologías de la Información, para 
 VII. Participar en la planeación, desarrollo y mantenimiento del sistema de información gerencial, que permita generar y administrar la información de la operación crediticia de la Institución;
 
 VIII. Dirigir la definición, administración, operación y control de la base de datos de la cartera de crédito Institucional, así como de los apoyos administrados y cualquier otra operación de financiamiento, y
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+VIII. BIS. Gestionar de forma exclusiva el diseño, creación, implementación y administración de sistemas de información, bases de datos y demás elementos tecnológicos de la Financiera;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+VIII. BIS 1. Coadyuvar en la coordinación a las Gerencias de Informática adscritas a las Coordinaciones Regionales, así como el apoyo tecnológico a las unidades administrativas de la Financiera;
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+VIII. BIS 2. Coadyuvar en la preparación de la información materia de su competencia que por Ley y disposiciones normativas debe ser entregada a las entidades reguladoras de la Institución para cumplir con las disposiciones establecidas en esta materia; y
 
 IX. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas en el ámbito de su competencia.
 
@@ -1701,9 +1869,11 @@ III. Sinaloa, y
 
 IV. Sonora.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 71.
 
-La Coordinación Regional Norte tendrá como sede la Ciudad de Monterrey, Nuevo León y se adscriben a su competencia las siguientes Entidades Federativas:
+La Coordinación Regional Norte tendrá como sede la Ciudad de Monterrey, Nuevo León y se adscriben a su competencia las siguientes entidades federativas:
 
 I. Coahuila de Zaragoza;
 
@@ -1713,11 +1883,11 @@ III. Durango;
 
 IV. Nuevo León;
 
-V. San Luis Potosí;
+V. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
 VI. Tamaulipas, y
 
-VII. Zacatecas.
+VII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
 ###### ARTÍCULO 72.
 
@@ -1736,6 +1906,14 @@ V. Michoacán;
 VI. Nayarit, y
 
 VII. Querétaro.
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+VIII. San Luis Potosí; y
+
+> <small>(ADICIONADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
+IX. Zacatecas
 
 ###### ARTÍCULO 73.
 
@@ -1801,113 +1979,123 @@ Los comités de la Financiera se constituirán con el propósito de auxiliarla e
 
 Los Comités de la Financiera tendrán una encomienda específica y no intervendrán en la administración operativa de la Financiera.
 
+> <small>(REFORMADA, D.O.F. 5 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 79.
 
-Los comités a que se refiere el artículo anterior se integrarán por servidores públicos de la Financiera, por representantes de dependencias y entidades del sector público y, en su caso por expertos en la materia de que se trate para cada comité. En el caso de aquellos comités en los que participen expertos, dicha circunstancia se señalará expresamente en el presente Estatuto.
+Los comités a que se refiere el artículo anterior se integrarán por servidores públicos de la Financiera, por representantes de dependencias y entidades del sector público y, en su caso por expertos en la materia de que se trate para cada comité.
 
 ###### ARTÍCULO 80.
 
 El funcionamiento, integración, estructura, operación y procedimiento operativo de los comités de la Financiera se regularán por las disposiciones contenidas en el presente título y por las Reglas de Operación que se elaboren para tal efecto y sean aprobadas por el Consejo, siempre y cuando dichas reglas no contravengan al Estatuto, la Ley y demás normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 81.
 
-El Comité de Operación tendrá las facultades siguientes:
+El Comité de Operación tendrá las facultades establecidas en la Ley Orgánica de la Financiera.
 
-I. Someter a consideración y aprobación del Consejo la estrategia y criterios en los que deberá establecerse, entre otros, tasas de interés, plazos, garantías, riesgos de las operaciones y tipos de negocio y demás características de las operaciones de la Financiera;
+I. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-II. Someter a consideración y aprobación del Consejo los lineamientos para el otorgamiento de los préstamos o créditos cuidando que en todo momento las instancias encargadas del otorgamiento del crédito están separadas de las que lo promueven;
+II. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-III. Someter a consideración y aprobación del Consejo los montos globales de préstamos o créditos a Intermediarios Financieros Rurales, así como los lineamientos para el otorgamiento de dichos préstamos o créditos;
+III. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-IV. Aprobar la reestructuración de créditos otorgados por la Financiera cuya instancia de autorización del crédito original hubiesen sido las instancias locales en las Coordinaciones Regionales o el Comité de Crédito y opinar en las reestructuras de los préstamos o créditos que hubiesen sido autorizados por el Consejo;
+IV. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-V. Proponer al Consejo los lineamientos para la recuperación y liquidación, reestructuración, quitas y quebrantos de los préstamos o créditos otorgados por la Financiera;
+V. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VI. Proponer al Consejo los lineamientos conforme a los cuales la Financiera apoyará actividades de capacitación y asesoría a los Productores, para la mejor utilización de sus recursos crediticios, así como a los que decidan constituirse como Intermediarios Financieros Rurales;
+VI. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VII. Proponer las Reglas de Operación de los programas que, en materia de financiamiento agropecuario, rural, forestal y pesquero se determine en el Presupuesto de Egresos de la Federación, y
+VII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VIII. Las demás que determine la Ley, el presente Estatuto, el Consejo y las Reglas de Operación del Comité.
+VIII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 82.
 
-El Comité de Operación estará integrado de la siguiente forma:
+El Comité de Operación estará integrado por los miembros y expertos en la materia de que se trate, y que se establezcan en las Reglas de Operación, aprobadas por el Consejo Directivo.
 
-I. Presidente: El Director General Adjunto de Promoción de Negocios y Coordinación Regional;
+I. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-II. Un representante de la Secretaría de Hacienda y Crédito Público;
+II. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-III. Un representante del Banco de México;
+III. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-IV. Un experto independiente nombrado por el Consejo Directivo;
+IV. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-V. El Director General Adjunto de Crédito;
+V. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VI. El Coordinador General de Análisis Sectorial, Planeación Estratégica y Comunicación Social;
+VI. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VII. El Director General Adjunto Jurídico y Fiduciario;
+VII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VIII. El Director General Adjunto de Finanzas, Operaciones y Sistemas;
+VIII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-IX. El Titular de la Unidad para la Administración Integral de Riesgos;
+IX. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-X. Secretario: El Director Ejecutivo Jurídico;
+X. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-XI. El Director Ejecutivo de Contraloría Interna, en calidad de asesor.
+XI. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-Los integrantes previstos en los incisos I al IX, acudirán con derecho a voz y voto. En el caso de los integrantes de los incisos X y XI acudirán sólo con derecho a voz. En los casos en que los titulares integrantes del Comité no puedan asistir a la sesión, nombrarán a un suplente de conformidad con sus Reglas de Operación.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 5 DE JULIO DE 2019)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 83.
 
-El Comité de Crédito tendrá las facultades siguientes:
+El Comité de Crédito tendrá las facultades establecidas en la Ley Orgánica de la Financiera y las Reglas de Operación aprobadas por el Consejo Directivo.
 
-I. Autorizar el otorgamiento de préstamos o créditos, de conformidad con el segundo párrafo del artículo 9o. de la Ley;
+I. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-II. Opinar al Consejo sobre el otorgamiento de préstamos o créditos, conforme a los montos y lineamientos que apruebe el Consejo;
+II. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-III. Opinar al Comité de Administración Integral de Riesgos sobre la metodología para la estimación de pérdidas y, en su caso, la constitución de reservas;
+III. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-IV. Opinar al Consejo, a través del Presidente del Comité de Crédito, sobre la aplicación de reservas de la cartera crediticia de la Financiera;
+IV. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-V. Autorizar u opinar el otorgamiento de préstamos o créditos a Intermediarios Financieros Rurales, conforme a los Lineamientos Generales para el Otorgamiento de Crédito a Intermediarios Financieros Rurales aprobados por el Consejo;
+V. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VI. Aprobar la reestructuración de aquellos créditos que determine el Consejo Directivo en los Lineamientos para la Recuperación y Liquidación, Reestructuración, Quitas y Quebrantos;
+VI. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VII. Autorizar u opinar el otorgamiento de líneas de reporto, de conformidad con los Lineamientos Generales para la Operación de Reportos y del Manual de Normas y Políticas de Reporto, y
+VII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VIII. Las demás que le confieran las disposiciones legales y reglamentarias correspondientes, así como las que le encomiende expresamente el Consejo.
+VIII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 84.
 
-El Comité de Crédito estará integrado de la siguiente forma:
+El Comité de Crédito estará integrado por los miembros y expertos en la materia de que se trate, y que se establezcan en las Reglas de Operación, aprobadas por el Consejo Directivo.
 
-I. Presidente: El Titular de la Unidad de Banca de Desarrollo de la Secretaría de Hacienda y Crédito Público;
+I. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-II. Un representante de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+II. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-III. Un representante de Banco de México;
+III. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-IV. Un experto independiente nombrado por el Consejo Directivo;
+IV. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-V. El Director General Adjunto de Crédito;
+V. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VI. El Director General Adjunto de Promoción de Negocios y Coordinación Regional;
+VI. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VII. El Director General Adjunto de Finanzas, Operaciones y Sistemas;
+VII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VIII. Secretario: El Director General Adjunto Jurídico y Fiduciario;
+VIII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-IX. El Director Ejecutivo de Contraloría Interna, en calidad de asesor;
+IX. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-X. El Titular de la Unidad para la Administración Integral de Riesgos, en calidad de asesor.
+X. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-XI. El Director Ejecutivo Jurídico, en calidad de asesor;
+XI. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-XII. El Director Ejecutivo de Análisis y Normatividad de Crédito, en calidad de asesor;
+XII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-Los integrantes previstos en los incisos I al VII acudirán con derecho a voz y voto. En el caso de los integrantes de los incisos VIII al XII acudirán sólo con derecho a voz. En los casos en que los titulares integrantes del Comité no puedan asistir a la sesión, nombrarán a un suplente de conformidad con sus Reglas de Operación.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 5 DE JULIO DE 2019)</small>
 
-El Director General Adjunto de Crédito o el servidor público que lo represente, será el encargado de presentar los asuntos.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 5 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 85.
 
@@ -1965,85 +2153,73 @@ Los integrantes previstos en los incisos I al IV acudirán con derecho a voz y v
 
 Salvo el consejero independiente y el profesional con experiencia en el área de recursos humanos, los demás miembros del Comité contarán con sus respectivos suplentes, quienes serán preferentemente servidores públicos del nivel inferior inmediato siguiente y deberán tener cuando menos nivel de Director General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 89.
 
-El Comité de Créditos Menores, estará integrado de la siguiente forma:
+El Comité de Créditos Menores estará integrado por los miembros que se establezcan en las Reglas de Operación aprobadas por el Comité de Crédito.
 
-I. Presidente: El Director General Adjunto de Crédito;
+I. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-II. El Director General Adjunto de Promoción de Negocios y Coordinación Regional;
+II. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-III. El Director General Adjunto de Finanzas, Operaciones y Sistemas;
+III. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-IV. El Director General Adjunto Jurídico y Fiduciario;
+IV. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-V. El Coordinador General de Análisis Sectorial, Planeación Estratégica y Comunicación Social;
+V. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VI. El Titular de la Unidad para la Administración Integral de Riesgos;
+VI. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VII. Secretario: El Subdirector Corporativo de Análisis de Crédito.
+VII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VIII. El Director Ejecutivo de Contraloría Interna, en calidad de asesor;
+VIII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-IX. El Director Ejecutivo Jurídico, en calidad de asesor; y
+IX. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-X. El Director Ejecutivo de Análisis y Normatividad de Crédito, en calidad de asesor.
+X. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-Los integrantes previstos en los incisos I al VI acudirán con derecho a voz y voto. En el caso de los integrantes de los incisos VII al X acudirán sólo con derecho a voz. En los casos en que los titulares integrantes del Comité no puedan asistir a la sesión, nombrarán a un suplente de conformidad con sus Reglas de Operación.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 5 DE JULIO DE 2019)</small>
 
-Este Comité aprobará la reestructuración de aquellos créditos que determine el Consejo Directivo en los Lineamientos para la Recuperación y Liquidación, Reestructuración, Quitas y Quebrantos.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 5 DE JULIO DE 2019)</small>
 
-Asimismo, tendrá las facultades que determine el Consejo Directivo en los Lineamientos para el Otorgamiento de Crédito, en los Lineamientos para el Otorgamiento de Crédito a Intermediarios Financieros Rurales y en las demás disposiciones aplicables.
+> <small>(DEROGADO PÁRRAFO CUARTO, D.O.F. 5 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 90.
 
-Cada Coordinación Regional contará con un Subcomité de Crédito, el cual estará integrado de la siguiente forma:
+(DEROGADO, D.O.F. 5 DE JULIO DE 2019)
 
-I. Presidente: El Coordinador Regional;
-
-II. El Gerente de Coordinación Regional Operativo;
-
-III. El Gerente Regional de Fomento y Promoción de Negocios;
-
-IV. El Gerente de Coordinación Regional Jurídico;
-
-V. El Gerente Regional de Supervisión y Cobranza;
-
-VI. Secretario: El Gerente de Coordinación Regional de Análisis de Crédito.
-
-Todos los integrantes del Subcomité acudirán con derecho a voz y voto. En los casos en que los titulares integrantes del Subcomité no puedan asistir a la sesión, nombrarán a un suplente de conformidad con sus Reglas de Operación.
-
-El Subcomité aprobará la reestructuración de aquellos créditos que determine el Consejo Directivo en los Lineamientos para la Recuperación y Liquidación, Reestructuración, Quitas y Quebrantos.
-
-Asimismo, tendrá las facultades que determine el Consejo Directivo en los Lineamientos para el Otorgamiento de Crédito, en los Lineamientos para el Otorgamiento de Crédito a Intermediarios Financieros Rurales y en las demás disposiciones aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 91.
 
-El Comité de Administración y Recuperación de Cartera, estará integrado de la siguiente forma:
+El Comité de Recuperación de Cartera estará integrado por los miembros y expertos en la materia de que se trate, y que se establezcan en las Reglas de Operación aprobadas por el Consejo Directivo.
 
-I. Presidente: El Director General Adjunto Jurídico y Fiduciario;
+I. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-II. El Director General Adjunto de Crédito;
+II. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-III. El Director General Adjunto de Finanzas, Operaciones y Sistemas;
+III. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-IV. El Director General Adjunto de Administración;
+IV. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-V. El Titular de la Unidad para la Administración Integral de Riesgos;
+V. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VI. Secretario: El Subdirector Corporativo de Supervisión y Cobranza;
+VI. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VII. El Director Ejecutivo de Análisis y Normatividad de Crédito, en calidad de asesor;
+VII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-VIII. El Director Ejecutivo de Contraloría Interna, en calidad de asesor;
+VIII. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-IX. El Director Ejecutivo Jurídico, en calidad de asesor;
+IX. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-X. El Subdirector Corporativo Jurídico Contencioso, en calidad de asesor;
+X. (DEROGADA, D.O.F. 5 DE JULIO DE 2019)
 
-Los integrantes previstos en los incisos I al V acudirán con derecho a voz y voto. En el caso de los integrantes de los incisos VI al X acudirán sólo con derecho a voz. En los casos en que los titulares integrantes del Comité no puedan asistir a la sesión, nombrarán a un suplente de conformidad con sus Reglas de Operación.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 5 DE JULIO DE 2019)</small>
 
-Este Comité aprobará la reestructuración de aquellos créditos que determine el Consejo Directivo en los Lineamientos para la Recuperación y Liquidación, Reestructuración, Quitas y Quebrantos. Asimismo, tendrá las facultades que se determinen en dichos Lineamientos y en las demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 5 DE JULIO DE 2019)</small>
+
+El Comité de Recuperación de Cartera tendrá las facultades establecidas en las Reglas de Operación aprobadas por el Consejo Directivo.
 
 ## TÍTULO V. DE LAS SUPLENCIAS Y DEMÁS DISPOSICIONES
 
@@ -2084,3 +2260,15 @@ CUARTO.- Se abroga el Estatuto Orgánico de la Financiera Agropecuaria, Rural, F
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente.
 
 En cumplimiento del acuerdo 5.4.2 del punto 5 (Asuntos para Autorización, Aprobación del Estatuto Orgánico de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero), tomado en la Octogésima Segunda Sesión Ordinaria del H. Consejo Directivo de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, celebrada con fecha veinticinco de mayo del año dos mil dieciocho, por medio del cual se aprueba el Estatuto Orgánico; y en mi carácter de Prosecretario del H. Consejo Directivo de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, expido la presente certificación del Estatuto Orgánico de mérito para su debida publicación y observancia, en la Ciudad de México, a dieciocho de julio de dos mil dieciocho.- El Prosecretario del H. Consejo Directivo de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, Mario José Pereira Meléndez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO”.]
+
+PRIMERO.- Las presentes reformas, adiciones y derogaciones del Estatuto Orgánico entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos pendientes de resolver al entrar en vigor las reformas, adiciones y derogaciones del Estatuto Orgánico, que, conforme al mismo, su atención deba pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente.
