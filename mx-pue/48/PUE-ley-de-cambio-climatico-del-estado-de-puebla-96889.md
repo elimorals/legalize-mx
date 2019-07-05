@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-cambio-climatico-del-estado-de-puebla-96889"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-29"
-last_updated: "2017-12-29"
+last_updated: "2019-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 29 de noviembre de 2013.
 
@@ -139,7 +139,9 @@ XXIX. Resistencia: Capacidad de los sistemas naturales o sociales para persistir
 
 XXX. Riesgo: Probabilidad de que se produzca un daño en las personas, en uno o varios ecosistemas, originado por un fenómeno natural o antropógeno;
 
-XXXI. Secretaría: La Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2019)</small>
+
+XXXI. Secretaría: Secretaría de Medio Ambiente y Ordenamiento Territorial;
 
 XXXII. Secretarías: Las Dependencias de la Administración Pública Centralizada del Estado de Puebla, en sus respectivos ámbitos de competencia establecidos en esta Ley;
 
@@ -969,9 +971,13 @@ II. La investigación e incorporación de sistemas de eficiencia energética, de
 
 III. En general, aquellas actividades relacionadas con la adaptación a los efectos del cambio climático y mitigación de emisiones de gases de efecto invernadero.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 64.
 
-La Secretaría, con la participación de la Comisión Intersecretarial y el Consejo Técnico, podrá establecer un sistema voluntario de comercio de emisiones con el objetivo de promover reducciones de emisiones que puedan llevarse a cabo con el menor costo posible, de forma medible, reportable y verificable.
+La Secretaría, con la participación de la Comisión Intersecretarial, el Consejo Técnico y la representación de sectores participantes, establecerán de forma progresiva y gradual, de conformidad con las bases y las disposiciones necesarias que para tal efecto emita el gobierno federal, un sistema de comercio de emisiones con el objetivo de promover reducciones de emisiones que puedan llevarse a cabo con el menor costo posible, de forma medible, reportable y verificable, sin vulnerar la competitividad de los sectores participantes frente a los mercados internacionales.
+
+La Secretaría elaborará y publicará, cada 6 meses, las reducciones alcanzadas en toneladas de CO2e en el Estado y el porcentaje que representa en relación a las emisiones nacionales, así como el costo de implementación.
 
 ###### ARTÍCULO 65.
 
@@ -1206,3 +1212,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXXI DEL ARTÍCULO 3 Y EL 64, AMBOS DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
