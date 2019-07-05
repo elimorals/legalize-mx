@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2019-06-25"
+last_updated: "2019-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -2915,21 +2915,37 @@ La resolución administrativa o de revocación en su caso, surtirá efecto, de c
 
 Para los efectos de esta Ley, se entiende por certificado la constancia expedida en los términos que establezcan las autoridades sanitarias competentes, para la comprobación o información de determinados hechos.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2019)</small>
+
 ###### Artículo 257.
 
 Para fines sanitarios se extenderán los siguientes certificados:
 
 I. Prenupciales;
 
-II. De defunción;
+II. De nacimiento;
 
-III. De muerte fetal, y
+III. De discapacidad;
 
-IV. Los demás que determine la Ley General de Salud.
+IV. De defunción;
+
+V. De muerte fetal, y
+
+VI. Las demás previstas en la Ley General de Salud.
 
 ###### Artículo 258.
 
 El certificado médico prenupcial será requerido por las autoridades del Registro Civil a quienes pretendan contraer matrimonio, con las excepciones que establezcan las disposiciones generales aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2019)</small>
+
+Artículo 258 bis. El certificado de nacimiento se expedirá para cada nacido vivo, una vez comprobado el hecho. Para tales efectos, se entenderá por nacido vivo, al producto de la concepción expulsado o extraído de forma completa del cuerpo de su madre, independientemente de la duración del embarazo, que después de dicha separación respire o dé cualquier otra señal de vida como frecuencia cardiaca, pulsaciones de cordón umbilical o movimientos efectivos de los músculos de contracción voluntaria, tanto si se ha cortado o no el cordón umbilical y esté o no desprendida la placenta.
+
+El certificado de nacimiento será expedido por profesionales de la medicina o personas autorizadas para ello por la autoridad sanitaria competente.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2019)</small>
+
+Artículo 258 bis 1.- El certificado de nacimiento será requerido por las autoridades del Registro Civil a quienes pretendan declarar el nacimiento de una persona, con las excepciones que establezcan las disposiciones generales aplicables.
 
 ###### Artículo 259.
 
@@ -2938,6 +2954,22 @@ Los certificados de defunción y de muerte fetal serán expedidos, una vez compr
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2015)</small>
 
 Los certificados de defunción y muerte fetal no podrán ser retenidos por hospitales, clínicas o centros de salud públicos o privados, ni por particulares a cambio de asegurar el pago por la prestación de un servicio. Quienes incumplan con lo establecido en este artículo, serán sancionados conforme al artículo 289 y demás disposiciones aplicables de esta ley.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2019)</small>
+
+###### Artículo 259 Bis.
+
+El certificado de discapacidad será expedido conforme a la legislación vigente y acorde con los tratados internacionales de los que México sea parte, por profesionales de la medicina o persona autorizada por la autoridad sanitaria. El certificado de discapacidad deberá incluir la Clave Única de Registro de Población del beneficiario.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2019)</small>
+
+###### Artículo 259 Bis 1.
+
+El responsable de emitir el certificado de discapacidad deberá notificarlo al Sistema Nacional de Información en Salud para los fines del Registro Nacional de Población con Discapacidad y del artículo 104 de la Ley General de Salud.
+
+Así mismo, el responsable de emitir el certificado de discapacidad deberá notificarlo al Sistema Estatal de Salud.
+
+Los menores de edad con discapacidad y los neonatos en los que se identifique una discapacidad congénita o genética, al momento del nacimiento o como resultado del Tamiz neonatal, deberán ser incluidos en el Registro de Menores de Edad, incluyendo la correspondiente certificación de discapacidad para garantizar el interés superior de la niñez.
 
 ###### Artículo 260.
 
@@ -3792,3 +3824,17 @@ P.O. 25 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 296.- SE MODIFICA EL ARTÍCULO 257 Y SE ADICIONAN LOS ARTÍCULOS 258 BIS, 258 BIS 1, 259 BIS Y 259 BIS 1 A LA LEY ESTATAL DE SALUD; SE ADICIONAN LOS ARTÍCULO (SIC) 258 BIS, 258 BIS (SIC) 335 BIS A LA LEY DE TRANSPORTE Y MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Secretaría de Salud deberá adecuar en sus gestiones relacionadas con la emisión del Certificado de Discapacidad, los lineamientos que, para tal efecto emita el Sector Salud del Gobierno Federal, así como observar lo dispuesto en las Normas Oficiales Mexicanas correspondientes.
+
+TERCERO.- La Secretaría de Salud, en coordinación con la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad y la Administración Fiscal General del Gobierno del Estado de Coahuila de Zaragoza, deberán realizar las gestiones necesarias para la implementación y emisión del permiso temporal de estacionamiento por discapacidad motora, en un plazo de hasta ciento ochenta días naturales contados a partir de la entrada en vigor del presente decreto.
+
+CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las dependencias y entidades involucradas para el ejercicio fiscal respectivo y subsecuentes.
+
+QUINTO.- Se dejan sin efectos las disposiciones que se opongan a lo previsto en el presente decreto.
