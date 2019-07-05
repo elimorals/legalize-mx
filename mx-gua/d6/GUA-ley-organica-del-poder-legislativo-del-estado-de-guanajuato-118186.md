@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-118
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-27"
-last_updated: "2019-03-12"
+last_updated: "2019-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -827,9 +827,9 @@ XXVII. Emitir los lineamientos para el desarrollo de actividades de cabildeo ant
 
 XXVIII. Proveer de insumos al Observatorio Ciudadano Legislativo para la implementación, funcionamiento y operación del Sistema de Evaluación y Medición de las Actividades Legislativas y Parlamentarias;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2019)</small>
 
-XXIX. Proponer al Observatorio Ciudadano Legislativo, los lineamientos para el desarrollo de las actividades para su aprobación;
+XXIX. Aprobar los lineamientos del Observatorio Ciudadano Legislativo a propuesta de dicho Observatorio para el desarrollo de sus actividades;
 
 > <small>(ADICIONADA, P.O. 12 DE MARZO DE 2019)</small>
 
@@ -2239,7 +2239,9 @@ El Observatorio Ciudadano Legislativo contará con una secretaría técnica de c
 
 Dicho observatorio sesionará de manera ordinaria por lo menos una vez cada cuatro meses, y en forma extraordinaria, cuando la importancia del asunto así lo amerite.
 
-Los representantes a que se refiere (sic) las fracciones IV y V durarán en su encargo cuatro años. La presidencia del Observatorio Ciudadano Legislativo recaerá en alguno de los representantes de las fracciones IV y V referidas, el cual será rotativo por año entre ellos. La convocatoria para estos representantes se realizará por la Junta de Gobierno y Coordinación Política, de conformidad con los lineamientos aprobados por el Observatorio.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2019)</small>
+
+Los representantes a que se refieren las fracciones IV y V durarán en su encargo cuatro años. La presidencia del Observatorio Ciudadano Legislativo recaerá en alguno de los representantes de las fracciones IV y V referidas, la cual será rotativa por año entre ellos. La convocatoria para estos representantes se realizará por la Junta de Gobierno y Coordinación Política, de conformidad con los lineamientos respectivos.
 
 > <small>(ADICIONADO, P.O. 12 DE MARZO DE 2019)</small>
 
@@ -3369,7 +3371,9 @@ Artículo primero. El presente Decreto entrará en vigor al día siguiente de su
 
 Artículo segundo. La convocatoria para integrar el Observatorio Ciudadano Legislativo se realizará dentro de los treinta días siguientes de entrada en vigor del presente Decreto y estará a cargo de la Junta de Gobierno y Coordinación Política del Congreso del Estado, con respecto a los representantes ciudadanos de las fracciones IV y V del artículo 211 Bis de este Decreto.
 
-Artículo tercero. La Junta de Gobierno y Coordinación Política deberá elaborar y proponer para su aprobación al Observatorio Ciudadano Legislativo los lineamientos para desarrollar sus actividades a más tardar dentro de los siguientes noventa días contados a partir de la entrada en vigencia del presente Decreto.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2019)</small>
+
+Artículo tercero. El Observatorio Ciudadano Legislativo deberá elaborar y proponer a la Junta de Gobierno y Coordinación Política los lineamientos para desarrollar sus actividades a más tardar dentro de los siguientes noventa días contados a partir de la entrada en vigencia del presente Decreto.
 
 Artículo cuarto. EL Observatorio Ciudadano Legislativo deberá integrar el Sistema de Evaluación y Medición de las Actividades Legislativas y Parlamentarias a más tardar dentro de los siguientes ciento veinte días contados a partir de su integración.
 
@@ -3378,3 +3382,9 @@ Artículo quinto. Se extingue el Consejo Ciudadano de Parlamento Abierto creado 
 En los términos de la ley de la materia hará entrega de sus patrimonios documentales.
 
 Artículo sexto. Una vez integrado el Observatorio Ciudadano Legislativo, sesionará dentro de los ocho días siguientes con el fin de designar por insaculación a quien ocupe la presidencia por el primer año de actividades.
+
+P.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NO. 92, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
