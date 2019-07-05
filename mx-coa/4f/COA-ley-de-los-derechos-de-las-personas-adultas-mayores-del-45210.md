@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2018-11-09"
+last_updated: "2019-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -393,9 +393,11 @@ IX. Participar en la toma de decisiones, con pleno conocimiento y responsabilida
 
 Los hospitales, las clínicas y los centros de salud, públicos o privados, estarán obligados a valorar inmediatamente a toda persona adulta mayor que se presuma víctima de abuso o maltrato y tomarán en resguardo su integridad y estarán obligados a denunciar ante el Ministerio Público o ante las autoridades que correspondan cualquier sospecha razonable de maltrato o abuso cometido en contra de ellas. Igual obligación tendrán las autoridades y el personal de centros educativos, estancias, o cualquier otro sitio en donde permanezcan, se atiendan o se preste algún servicio a las personas adultas mayores.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2019)</small>
+
 ###### Artículo 13.
 
-A falta del obligado preferente, de conformidad con el Código Civil del Estado, las personas adultas mayores maltratadas o en condiciones de pobreza tendrán derecho a una atención integral por parte del Estado en la medida de lo posible, a través de los programas de las instituciones afines. Para gozar de este beneficio, deberán participar en los programas de capacitación que, para tal efecto desarrollen las instituciones competentes.
+A falta del obligado preferente, de conformidad con la Ley para la Familia de Coahuila de Zaragoza, las personas adultas mayores maltratadas o en condiciones de pobreza tendrán derecho a una atención integral por parte del Estado en la medida de lo posible, a través de los programas de las instituciones afines. Para gozar de este beneficio, deberán participar en los programas de capacitación que, para tal efecto desarrollen las instituciones competentes.
 
 ###### Artículo 14.
 
@@ -549,7 +551,9 @@ La familia de las personas adultas mayores, cualquiera que sea el parentesco que
 
 Por tanto, la familia de las personas adultas mayores tendrá las siguientes obligaciones para con ellas:
 
-I. Otorgar alimentos, de conformidad con lo establecido en el Código Civil del Estado.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2019)</small>
+
+I. Otorgar alimentos, de conformidad con lo establecido en la Ley para la Familia de Coahuila de Zaragoza.
 
 II. Fomentar la convivencia familiar cotidiana, donde las personas adultas mayores participen activamente, así como promover los valores que incidan en sus requerimientos afectivos, de protección y de apoyo y contribuir a la satisfacción de sus necesidades humanas de fortalecimiento de lazos afectivos y espirituales.
 
@@ -563,9 +567,11 @@ IV. Evitar que alguno de sus integrantes, cometa cualquier acto de discriminaci�
 
 El Instituto deberá tomar, en los términos previstos en esta Ley y demás disposiciones aplicables, las medidas de protección y/o de prevención o provisión para que la familia participe en la atención de las personas adultas mayores en situación de riesgo o desamparo en que se encuentren o llegaren a encontrarse.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2019)</small>
+
 ###### Artículo 30.
 
-Las personas adultas mayores tendrán derecho a ser cuidados por su familia, según las disposiciones del Código Civil, quien estará obligada a velar por su estado físico, emocional, intelectual, moral, afectivo, espiritual y social y será obligación de ellos mismos, así como de sus descendientes, representantes legales o de las personas encargadas de ellos, cumplir con las instrucciones y los controles médicos que se prescriban para velar por la salud de aquéllas que tengan bajo su cuidado y, además, serán responsables de dar el uso correcto a los alimentos que ellas reciban como suplemento nutritivo de la dieta.
+Las personas adultas mayores tendrán derecho a ser cuidados por su familia, según las disposiciones de la Ley para la Familia de Coahuila de Zaragoza, quien estará obligada a velar por su estado físico, emocional, intelectual, moral, afectivo, espiritual y social y será obligación de ellos mismos, así como de sus descendientes, representantes legales o de las personas encargadas de ellos, cumplir con las instrucciones y los controles médicos que se prescriban para velar por la salud de aquéllas que tengan bajo su cuidado y, además, serán responsables de dar el uso correcto a los alimentos que ellas reciban como suplemento nutritivo de la dieta.
 
 ###### Artículo 31.
 
@@ -583,9 +589,11 @@ Siempre deberá informarse a la persona adulta mayor, en forma adecuada, sobre l
 
 Las personas adultas mayores que no vivan con su familia tienen derecho a tener contacto con su círculo familiar y afectivo, tomando en cuenta su interés personal en esta decisión.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2019)</small>
+
 ###### Artículo 34.
 
-El derecho a percibir alimentos se garantizará en los términos previstos en el Código Civil vigente en el Estado.
+El derecho a percibir alimentos se garantizará en los términos previstos en la Ley para la Familia de Coahuila de Zaragoza vigente en el Estado.
 
 ###### Artículo 35.
 
@@ -1089,7 +1097,9 @@ II. Evaluar las aptitudes y capacidades de las personas adultas mayores para int
 
 III. Implementar un registro de personas adultas mayores que se presenten ante el Instituto, a quienes les será extendido alguna constancia de registro.
 
-En ningún caso la Comisión podrá declarar la incapacidad a que se refiere el Código Civil, la cual deberá tramitarse ante el juez correspondiente.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2019)</small>
+
+En ningún caso la Comisión podrá declarar la incapacidad a que se refiere la Ley para la Familia de Coahuila de Zaragoza, la cual deberá tramitarse ante el juez correspondiente.
 
 ###### Artículo 80.
 
@@ -1508,3 +1518,9 @@ P.O. 9 DE NOVIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 287.- SE REFORMAN LOS ARTÍCULOS 13, 28 FRACCIÓN I, 30, 34 Y EL ÚLTIMO PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 79 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
