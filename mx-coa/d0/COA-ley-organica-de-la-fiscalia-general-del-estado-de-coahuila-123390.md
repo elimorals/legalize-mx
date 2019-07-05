@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-fiscalia-general-del-estado-de-coahuila-1233
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-12"
-last_updated: "2017-09-12"
+last_updated: "2019-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
 
 Ley publicada en la Segunda Sección al Número 73 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 12 de septiembre de 2017.
 
@@ -787,7 +787,9 @@ I. Planear, programar, organizar y dirigir el funcionamiento de la Fiscalía Esp
 
 II. Ejercer las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza, los instrumentos internacionales en la materia, las leyes, los reglamentos y demás disposiciones jurídicas confieren al Ministerio Público;
 
-III. Dirigir, coordinar, realizar la investigación y ejercer la acción penal en lo relativo a los delitos establecidos en los artículos del 195 al 214 y del 230 al 232, del Código Penal del Estado de Coahuila de Zaragoza y cualquier otro delito cometido por servidores públicos estatales o municipales en ejercicio de sus funciones y el análisis de su incidencia delictiva, con excepción de los delitos previstos en los artículos 212 bis, 212 bis 1, 212 bis 2, 212 bis 3 y 212 bis 6 del referido Código, ni aquellos que sean competencia de otras unidades administrativas de la Fiscalía General, así como los cometidos por servidores públicos adscritos a la misma, supuesto en el cual se estará a lo dispuesto en esta ley;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2019)</small>
+
+III. Dirigir, coordinar, realizar la investigación y ejercer la acción penal en lo relativo a los delitos establecidos en los Títulos Undécimo "Delitos contra la honestidad en el servicio público", con excepción del artículo 439, y Duodécimo "Delitos contra el servicio público cometidos por particulares, del Apartado Segundo, Protección de bienes jurídicos colectivos, del Libro Segundo, Parte Especial, del Código Penal del Estado de Coahuila de Zaragoza, siempre que del análisis se desprenda que son presuntos hechos de corrupción.
 
 IV. Solicitar a las instancias de gobiernos federales, estatales o municipales la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario, industrial, fiscal, bursátil, postal o cualquiera otro de similar naturaleza;
 
@@ -2532,3 +2534,11 @@ EL SECRETARIO DE GOBIERNO
 VÍCTOR MANUEL ZAMORA RODRÍGUEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 298.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 22 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
