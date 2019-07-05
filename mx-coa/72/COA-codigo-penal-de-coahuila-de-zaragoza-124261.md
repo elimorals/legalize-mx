@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2019-04-12"
+last_updated: "2019-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,21 @@ state: "COA"
 ---
 # CODIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL DE LAS ZONAS ÁRIDAS
+CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
 
-Estatuto publicado en el Diario Oficial de la Federación, el miércoles 30 de diciembre de 2020.
+Código publicado en la Tercera Sección al Número 86 del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Agricultura y Desarrollo Rural.- Comisión Nacional de las Zonas Áridas.
+CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-RAMÓN ANTONIO SANDOVAL NORIEGA, Director General de la Comisión Nacional de las Zonas Áridas, con fundamento en los artículos 3 fracción I, 35, 45 y 50 de la Ley Orgánica de la Administración Pública Federal; 15 párrafo segundo, 34, 58 fracción VIII y 59 fracción XII de la Ley Federal de las Entidades Paraestatales, y CONSIDERANDO Que la Comisión Nacional de las Zonas Áridas fue creada como Organismo Público Descentralizado del Gobierno Federal, con personalidad jurídica y patrimonio propios, por Decreto Presidencial publicado en el Diario Oficial de la Federación el 5 de diciembre de 1970 y adicionado mediante Decretos Presidenciales publicados en el mismo medio de información el 1o. de diciembre de 1971 y el 9 de abril de 1973. Que es una institución promotora del desarrollo de las zonas áridas del país que, para el cumplimiento de sus fines, cuenta, entre otras, con atribuciones para localizar, evaluar y recopilar información respecto a dichas áreas; promover y coordinar, ante las diversas dependencias oficiales, los trabajos de desarrollo aprobados para las zonas áridas; promover la organización de los productos regionales y sectoriales; promover la participación directa de los habitantes de las referidas zonas en los programas de desarrollo, y organizar y determinar los medios más adecuados para la explotación y aprovechamiento de los frutos y recursos de las citadas zonas; Que el último Estatuto Orgánico de la Comisión Nacional de las Zonas Áridas fue aprobado por su Consejo Directivo en la Sesión Ordinaria número 133, mediante acuerdo número 133.07.14, celebrada el 11 de diciembre de 2014, publicado en el Diario Oficial de la Federación el 25 de septiembre de 2015, e inició su vigencia a partir del día siguiente de la referida fecha. Que mediante acuerdo identificado bajo el número 155.07.20, adoptado por el Consejo Directivo de la Comisión Nacional de las Zonas Áridas, en su 155 sesión ordinaria de fecha 24 de junio del año 2020, y con fundamento en los artículos 15, segundo párrafo, y 58, fracción VIII, de la Ley Federal de las Entidades Paraestatales, dicho Órgano de Gobierno aprobó las modificaciones al Estatuto Orgánico de esta Entidad, y se instruyó, al suscrito, a proceder a su publicación en el Diario Oficial de la Federación en los términos siguientes: ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL DE LAS ZONAS ÁRIDAS
+EL C. RUBÉN IGNACIO MOREIRA VALDEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
+
+QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
+
+DECRETA:
+
+NÚMERO 990.-
 
 ###### ARTÍCULO ÚNICO.
 
@@ -147,9 +153,15 @@ Artículo 13 (Prisión preventiva oficiosa, y factores de riesgo que indican imp
 
 A. (Prisión preventiva oficiosa)
 
-La prisión preventiva se ordenará oficiosamente en los supuestos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, y conforme a lo previsto en este código, cuando se trate de los delitos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JULIO DE 2019)</small>
 
-I. Homicidio doloso, simple o calificado, inclusive el cometido en riña con carácter de provocador, o bajo emoción violenta. Así como los eventos de feminicidio, parricidio, matricidio, filicidio, uxoricidio, fratricidio y otros homicidios por razón del parentesco o relación. Igualmente, cuando se trate de homicidio cometido con acuerdo e indeterminación del autor, de homicidio en codominio, o de homicidio por corresponsabilidad en delito emergente, sean o no calificados.
+La prisión preventiva se ordenará oficiosamente en los supuestos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, y conforme a lo previsto en el artículo 167 del Código Nacional de Procedimientos Penales.
+
+(NOTA: EL 9 DE JULIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 143/2017, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA FRACCIÓN I, DEL APARTADO A DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE ABRIL DE 2019, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2019)</small>
+
+I. HOMICIDIO DOLOSO, SIMPLE O CALIFICADO, INCLUSIVE EL COMETIDO EN RIÑA CON CARÁCTER DE PROVOCADOR, O BAJO EMOCIÓN VIOLENTA. ASÍ COMO LOS DELITOS DE FEMINICIDIO, PARRICIDIO, MATRICIDIO, FILICIDIO, FRATRICIDIO Y OTROS HOMICIDIOS POR RAZÓN DEL PARENTESCO O RELACIÓN. IGUALMENTE, CUANDO SE TRATE DE HOMICIDIO COMETIDO CON ACUERDO E INDETERMINACIÓN DEL AUTOR, DE HOMICIDIO EN CODOMINIO, O DE HOMICIDIO POR CORRESPONSABILIDAD EN DELITO EMERGENTE, SEAN O NO CALIFICADOS.
 
 II. Violación, violación equiparada y violación impropia por instrumento o elemento distinto al natural, cometidas con o sin modalidades agravantes, previstas en las fracciones I y III del artículo 224 y los artículos 225 y 228 de este código; con inclusión de cualquiera de dichas conductas cometidas contra personas menores de quince años previstas en las fracciones I y II del artículo 229 y los artículos 230 y 231 de este código.
 
@@ -185,537 +197,123 @@ El juez o tribunal no aplicará pena de prisión, cuando la imposición de la m�
 
 ## Título Primero. La ley penal
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### Capítulo Primero. Aplicación espacial de la ley penal
 
-###### ARTÍCULO 1.
+Artículo 15 (Principio de territorialidad)
 
-La Comisión Nacional de las Zonas Áridas, es un organismo público descentralizado del Gobierno Federal, con personalidad jurídica y patrimonio propios; con residencia en la ciudad de Saltillo, Coahuila de Zaragoza, agrupada en el Sector coordinado por la Secretaría de Agricultura y Desarrollo Rural, y que tiene como objeto promover el desarrollo de los habitantes de las Zonas Áridas y Semiáridas de México, mediante la responsabilidad y ejecución de programas y recursos propios así como los que le sean asignados por la Secretaría en el ámbito territorial correspondiente.
+Este código se aplicará a los delitos que regula, que se cometan en el Estado de Coahuila de Zaragoza.
 
-###### ARTÍCULO 2.
+Este código también se aplicará a los delitos que se cometan en otra entidad federativa o en la Ciudad de México, siempre y cuando se trate de delitos permanentes o continuados que se sigan cometiendo dentro del Estado, o cuya comisión se inició dentro del mismo.
 
-La Comisión Nacional de las Zonas Áridas tendrá a su cargo el despacho de los asuntos que le encomiendan los decretos presidenciales de creación y adición, publicados en el Diario Oficial de la Federación el 5 de diciembre de 1970, el 1 de diciembre de 1971 y el 9 de abril de 1973, así como los demás previstos en la Ley Federal de Entidades Paraestatales, el Reglamento de la Ley Federal de Entidades Paraestatales, en las Reglas de Operación de los Programas de la Secretaría de Agricultura y Desarrollo Rural, y en las demás disposiciones legales aplicables.
+Artículo 16 (Lugar de comisión del delito y principio de ubicuidad)
 
-###### ARTÍCULO 3.
+El delito instantáneo se comete donde se concreten los elementos de su tipo penal, aunque sea en lugares distintos.
 
-Para los efectos de este Estatuto Orgánico, se entenderá por:
+El delito continuado se comete donde se concreten los elementos típicos de las conductas que lo constituyan, aunque sea en lugares distintos.
 
-I. CONAZA: La Comisión Nacional de las Zonas Áridas;
+El delito permanente se comete donde se realicen y sigan realizando la conducta o la afectación al bien jurídico protegido en el tipo penal de que se trate, aunque sea en lugares distintos.
 
-II. Consejo Directivo: Órgano de Gobierno de la Comisión Nacional de las Zonas Áridas;
+### Capítulo Segundo. Aplicación temporal de la ley penal
 
-III. Director General: El Director General de la Comisión Nacional de las Zonas Áridas;
+Artículo 17 (Aplicación de la ley penal vigente al momento de la conducta punible)
 
-IV. Estatuto: El presente Estatuto Orgánico de la Comisión Nacional de las Zonas Áridas;
+Será aplicable la ley penal vigente al momento de la realización de la acción u omisión punibles.
 
-V. Ley: La Ley Federal de las Entidades Paraestatales;
+Artículo 18 (Principio de la norma penal más favorable)
 
-VI. Reglamento: Reglamento de la Ley Federal de las Entidades Paraestatales;
+Cuando entre la comisión del delito y la extinción de la acción penal o de la pena o medida de seguridad correspondientes, entre en vigor una ley o reforma penal que sea aplicable al caso de que se trata, se estará a lo dispuesto en la norma más favorable a la persona imputada o sentenciada.
 
-VII. Secretaría: La Secretaría de Agricultura y Desarrollo Rural, y
+Artículo 19 (Supresión o modificación del tipo penal aplicable)
 
-VIII. Reglas. - Reglas de Operación de los Programas de la Secretaría de Agricultura y Desarrollo Rural.
+Si una ley ulterior o reforma deroga un tipo penal, o bien añade o modifica elementos del tipo básico para la punibilidad de la conducta de que se trate, se entenderá que respecto de ella hay supresión del tipo penal que era aplicable, y, por tanto, extinguirá la acción penal o las penas, por lo que cesarán los efectos de los procesos o de las sentencias, salvo el decomiso y la reparación del daño en lo que hayan sido satisfechas.
 
-IX. Lineamientos. Lineamientos de Operación de los Programas de la Secretaría de Agricultura y Desarrollo Rural.
+Cuando dentro de un tipo penal básico, una ley o reforma suprima uno o más elementos alternos, tal supresión solo beneficiará a las conductas que aparezcan cometidas con el o los elementos alternos suprimidos.
 
-###### ARTÍCULO 4.
+Más si una nueva ley o reforma deroga, o bien añade o modifica elementos de una modalidad agravante del tipo, o los de un tipo complementado, que sean esenciales para la punibilidad agravada de la conducta de que se trata, se aplicará el tipo penal básico.
 
-El patrimonio de la CONAZA se integrará con:
+Se aplicará la ley o reforma ulterior que cree un tipo penal privilegiado o que atenúe la punibilidad de un tipo que, según el caso, sea aplicable al hecho de que se trata.
 
-I. Los bienes muebles e inmuebles que le transfiera el Gobierno Federal;
+Artículo 20 (Modificación de penas antes de sentencia)
 
-II. Los recursos que le sean asignados anualmente conforme al Presupuesto de Egresos de la Federación correspondiente;
+Cuando antes de sentencia ejecutoriada, una ley o reforma modifique la pena en cantidad o calidad, el juez o tribunal aplicará la más favorable.
 
-III. Las aportaciones que acuerden otorgar los Gobiernos de los Estados, los productores o cualquier persona física o moral, tanto pública como privada, sea nacional o extranjera;
+Si conforme a los marcos punibles de sanciones de igual naturaleza, contemplados en todas las normas en sucesión, no es posible determinar cuál es el más favorable, el juez o tribunal se estará como marco punible, al mínimo punible menor con el máximo punible menor, de todas las normas en sucesión.
 
-IV. Los ingresos que la CONAZA perciba por los servicios que proporcione y los que resulten del aprovechamiento de sus bienes, y
+Si una nueva ley o reforma cambia la naturaleza de la pena, el juez o tribunal, antes de imponer pena, informará de ello a la persona sentenciada, y si ésta lo pide previa consulta con su defensor, aquél impondrá la pena solicitada.
 
-V. Los demás bienes, derechos y obligaciones que adquiera, se le asignen o adjudiquen por cualquier título jurídico, los rendimientos que obtenga por sus operaciones y los ingresos que reciba por cualquier otro concepto.
+Artículo 21 (Modificación de penas después de sentencia)
 
-###### ARTÍCULO 5.
+Cuando la persona ya hubiera sido sentenciada ejecutoriadamente y una nueva ley o reforma modifique el marco de punibilidad del delito por el que se le condenó, o contemple un nuevo delito privilegiado que sea aplicable al hecho que aquélla efectuó, el juez o tribunal atenderá a la norma más favorable.
 
-La CONAZA para el ejercicio de sus atribuciones y despacho de los asuntos de su competencia, contará con:
+Si conforme a los marcos punibles de sanciones de igual naturaleza, contemplados en todas las normas en sucesión, no es posible determinar cuál es el más favorable para la persona sentenciada, el juez o tribunal atenderá como marco punible, al mínimo punible menor y al máximo punible menor, de todas las normas en sucesión.
 
-A. Órgano Superior:
+Dentro del marco punible que resulte según lo previsto en los dos párrafos anteriores, el juez o tribunal reducirá la pena a la persona sentenciada con base en el grado del injusto culpable que se le fijó en la sentencia cuya pena se modifica.
 
-I. Consejo Directivo
+Si después de que la persona haya sido sentenciada ejecutoriadamente, una nueva ley o reforma cambia la naturaleza de la pena, el juez de ejecución informará de ello a la persona sentenciada, y si ésta lo pide previa consulta con su defensor, aquél individualizará la pena ulterior, para que la misma se ejecute en vez de la anterior.
 
-B. Unidades Administrativas Centrales:
+En caso de que el juez o tribunal individualice la pena ulterior, tomará en cuenta para reducirla, el tiempo o medida en que la persona sentenciada ya haya compurgado la pena anterior.
 
-I. Dirección General;
+Artículo 22 (Sucesión de normas procesales o de ejecución de índole material penal)
 
-II. Coordinación de Planeación, Programación y Rendición de Cuentas;
+La pauta de aplicar la norma legal más favorable a la persona imputada o sentenciada a partir de cuando aparezca cometido el delito, igual se observará respecto a la creación, modificación o derogación de disposiciones legales relativas a la prescripción o extinción de la acción penal o de las penas, así como a las concernientes a la investigación o al proceso en cualquier tiempo, etapa, grado o instancia de los mismos, y a la Ejecución Penal, cuya aplicación conlleve durante aquéllos privar de su libertad a la persona o restringirle la misma, o bien afectarle cualquier otro derecho sustantivo, o que cualquiera de dichas afectaciones se agrave, o bien se atenúe o deba cesar.
 
-III. Coordinación de Seguimiento y Apoyo Técnico;
+Asimismo, si una nueva ley o reforma, crea, deroga o modifica uno o más medios alternos o beneficios aplicables durante el proceso, en la sentencia o después de que se impuso pena o durante su ejecución, se aplicarán a la persona imputada o sentenciada las disposiciones legales relativas a aquellos medios alternos o beneficios que le sean más favorables desde que cometió el delito.
 
-IV. Unidad de Administración y Finanzas;
+Artículo 23 (Autoridades competentes para aplicar la norma más favorable)
 
-V. Dirección Jurídica
+La autoridad no judicial o judicial que esté conociendo de la investigación o del proceso penal en cualquier tiempo, etapa, grado o instancia de los mismos, o bien el juez de ejecución penal, aplicarán de oficio o a petición de parte, la norma más favorable a la persona imputada o sentenciada.
 
-VI. Órgano Interno de Control
+### Capítulo Tercero. Aplicación personal de la ley penal
 
-C. Unidades Administrativas Foráneas:
+Artículo 24 (Igualdad y edad penal)
 
-I. Dirección de Enlace Técnico I;
+Las penas previstas en la ley y las disposiciones de este código se aplicarán a todas las personas a partir de los dieciocho años, así como a las personas morales involucradas en un delito en los casos y con las consecuencias jurídicas que determine la ley.
 
-II. Dirección de Enlace Técnico II;
+Cuando una persona menor de dieciocho años realice una conducta prevista en la ley como delito, podrá ser enjuiciada con arreglo a lo dispuesto en la ley de la materia.
 
-III. Dirección de Enlace Técnico III;
+A las personas menores de dieciocho años de edad, así como a quienes padezcan incapacidad de comprender el carácter ilícito de su conducta o de autodeterminarse de acuerdo con esa comprensión, les serán aplicables, en su caso, las excluyentes de delito por atipicidad, concurrencia de alguna causa de licitud o de inculpabilidad, así como cualquier otra causa que extinguiría la acción penal o la sanción, de haber tenido dieciocho años de edad o más, o de haber sido imputables al momento del hecho.
 
-IV. Dirección de Enlace Técnico IV;
+### Capítulo Cuarto. Concurso aparente de normas
 
-V. Dirección de Enlace Técnico V;
+Artículo 25 (Principios de especialidad, consunción y subsidiariedad)
 
-VI. Dirección de Enlace Técnico VI;
+Cuando dos normas capten aparentemente la misma situación:
 
-###### ARTÍCULO 6.
+I. (Especialidad)
 
-La CONAZA manejará y erogará sus propios recursos.
+La especial prevalecerá sobre la general, con inclusión, en su caso, del tipo penal que contemple o implique elementos subjetivos específicos, ya sea un móvil, o cierto conocimiento o fin del agente, que especialicen al tipo frente a otro.
 
-###### ARTÍCULO 7.
+II. (Consunción)
 
-Las relaciones laborales de la CONAZA con sus empleados se regirán por lo dispuesto en la Ley Federal de los Trabajadores al Servicios (sic) del Estado reglamentaria del Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos salvo los casos en que, por así determinarlo los tribunales competentes, deba aplicarse la Ley Federal del Trabajo.
+La de mayor protección al bien o bienes jurídicos, absorberá a la de menor alcance.
 
-###### ARTÍCULO 8.
+III. (Subsidiariedad)
 
-La CONAZA contará con las unidades administrativas que se requieran y le sean autorizadas, y se señalen en el presente estatuto, en el Manual de Organización de la misma, en el dictamen correspondiente y en su presupuesto autorizado.
+La principal excluirá a la subsidiaria.
 
-###### ARTÍCULO 9.
+### Capítulo Quinto. Aplicación de las disposiciones del Libro Primero
 
-La CONAZA contará con los órganos auxiliares necesarios para el desempeño de sus funciones, los cuales funcionarán de conformidad a la normatividad aplicable, el presupuesto autorizado y con el Manual de Organización de la misma.
+Artículo 26 (Aplicación necesaria de las disposiciones generales)
 
-### CAPÍTULO II. DEL CONSEJO DIRECTIVO
+Las disposiciones generales del Libro Primero de este código se aplicarán indefectiblemente para determinar los ámbitos temporal, espacial y personal de aplicación de la ley penal, así como respecto a los tipos penales que prevea este código a efecto de su exacta aplicación al hecho delictuoso de que se trata, y determinar, con base en aquellas disposiciones, si el hecho es o no delito, el alcance de sus consecuencias punibles, cómo han de imponerse, al igual que las causas por las que se excluye el delito o se extinguen la acción penal o las penas, o se excusa o exime de esas consecuencias o se moderan las mismas por resultar innecesarias o excesivas en el caso concreto.
 
-###### ARTÍCULO 10.
+### Capítulo Sexto. Leyes especiales
 
-El Consejo Directivo de la CONAZA estará integrado de la siguiente manera: será presidido por el Titular de la Secretaría o por la persona que éste designe, así como por un representante de las secretarías de Bienestar, Medio Ambiente y Recursos Naturales, Hacienda y Crédito Público, Economía, Comunicaciones y Transportes, de Desarrollo Agrario, Territorial y Urbano, Energía, Salud y de la Comisión Nacional del Agua.
+Artículo 27 (Aplicación subsidiaria del código penal)
 
-Los miembros del Consejo Directivo, gozarán de voz y voto en las sesiones; podrán designar y acreditarán a su respectivo suplente en términos de ley, quienes fungirán como miembros en sus ausencias.
-
-El Consejo Directivo de la CONAZA nombrará a propuesta de su presidente, un Secretario y a propuesta del Director General de la CONAZA, a un Prosecretario, que serán los encargados de preparar lo necesario para las sesiones, integrar la información correspondiente y dar seguimiento a los acuerdos adoptados por el Consejo Directivo.
-
-###### ARTÍCULO 11.
-
-En caso de que alguno de los miembros del Consejo Directivo encuadrase en alguno de los supuestos previstos en el artículo 19 de la Ley; deberá abstenerse de asistir y participar en el órgano de gobierno, y será sustituido por su suplente hasta nueva designación del consejero propietario.
-
-###### ARTÍCULO 12.
-
-Las sesiones que celebre el Consejo Directivo, serán ordinarias o extraordinarias. Las sesiones ordinarias se llevarán a cabo cuando menos cuatro veces al año procurando que se realicen en forma trimestral y las extraordinarias las veces que sean necesarias, previa convocatoria del Presidente del Consejo Directivo o su suplente con una anticipación no menor de 5 días hábiles.
-
-Para su legal integración se requerirá de la asistencia de la mitad más uno de sus integrantes. Los acuerdos se tomarán por mayoría de los miembros presentes y el Presidente tendrá voto de calidad en caso de empate.
-
-El Secretario y Prosecretario del Consejo Directivo, así como los Comisarios Públicos, designados por la autoridad competente, asistirán a las sesiones con voz, pero sin voto.
-
-###### ARTÍCULO 13.
-
-El Consejo Directivo de la Comisión tendrá las atribuciones que le confieren la Ley, su Reglamento y demás disposiciones aplicables.
-
-###### ARTÍCULO 14.
-
-El Consejo Directivo contará con el apoyo del Comité de Control y Desempeño Institucional, así como de los demás que para tal efecto determine; los cuales tendrán las funciones previstas en la normatividad aplicable.
-
-### CAPÍTULO III. DE LA DIRECCION GENERAL
-
-###### ARTÍCULO 15.
-
-La Dirección General estará a cargo de un Director General, quien además de las facultades que señala la Ley y su Reglamento, tendrá las siguientes:
-
-I. Celebrar con los sectores público, privado y social, nacionales e internacionales, por sí o por quien faculte por escrito, los convenios, contratos e instrumentos jurídicos que procedan para el aprovechamiento óptimo de los recursos propios y de los que le sean asignados de los programas, componentes y proyectos estratégicos como responsable y ejecutora de la Secretaría y en general de cualquier otra instancia pública o privada, nacional e internacional para el oportuno ejercicio de las atribuciones de la CONAZA;
-
-II. Disponer de todo lo necesario para el cumplimiento de los programas y/o componentes y el correcto ejercicio del presupuesto de gasto de la CONAZA y los que le sean asignados por la Secretaría y/o cualquier otra instancia pública o privada, nacional e internacional.
-
-III. Establecer el número, ubicación, demarcación territorial y estructura administrativa de sus Direcciones de Enlace Técnico y/o cualquier otra Unidad Administrativa de su adscripción, informando al Consejo Directivo;
-
-IV. Emitir las normas, bases, acuerdos, lineamientos, manuales, circulares y demás disposiciones administrativas necesarias para el buen desempeño de la CONAZA;
-
-V. Delegar a los servidores públicos de la CONAZA las atribuciones que le corresponden, sin perjuicio de ejercerlas directamente, con excepción de aquellas que por disposición legal expresa o por determinación del Consejo Directivo le correspondan exclusivamente;
-
-VI. Autorizar al personal de la CONAZA las licencias a que se refiere el artículo 43 fracción VIII de la Ley Federal de los Trabajadores al Servicio del Estado, a excepción de lo establecido en el artículo 58 fracción XI de la Ley Federal de las Entidades Paraestatales;
-
-VII. Evaluar las acciones instrumentadas en materia de control interno en la CONAZA;
-
-VIII. Designar en las ausencias temporales de los titulares de las áreas al personal que deba suplirlos, de conformidad con el Capítulo VII del presente Estatuto;
-
-IX. Representar legalmente a la CONAZA;
-
-X. Conducir y ejecutar los acuerdos que dicte el Consejo Directivo;
-
-XI. Fijar los Programas de organización de la CONAZA;
-
-XII. Establecer los sistemas de control necesarios para alcanzar las metas y objetivos de los programas propuestos;
-
-XIII. Establecer los mecanismos de evaluación con el fin de destacar la eficacia y eficiencia con que se desempeña la CONAZA;
-
-XIV. Establecer las políticas, programas y proyectos institucionales en congruencia con los objetivos y prioridades del Plan Nacional de Desarrollo;
-
-XV. Establecer y ejecutar, los Programas, Componentes o Proyectos Estratégicos que le sean asignados por la Secretaría y/o cualquier otra instancia pública o privada, nacional e internacional;
-
-XVI. Supervisar los Programas, Componentes o Proyectos Estratégicos que le sean asignados por la Secretaría y/o cualquier otra instancia pública o privada, nacional e internacional;
-
-El Director General contará con un Grupo Interno de Dirección Estratégica, este Grupo, de carácter consultivo, auxiliará al Director General respecto de las atribuciones que a éste corresponden relativas a la definición y ejecución de políticas, planes y programas a cargo de la CONAZA.
-
-El Grupo Interno de Dirección Estratégica, estará integrado por el Director General, quien lo presidirá, por los servidores públicos del nivel jerárquico inmediato inferior, por el Director Jurídico, así como los demás servidores públicos que determine el propio Director General, quien además podrá invitar a cualquier persona que considere deba participar de acuerdo con la materia que se discuta. El Grupo Interno de Dirección Estratégica sesionará cuando así lo determine el Director General de la CONAZA.
-
-XVII. Las demás que le confiera las Reglas y los Lineamientos de Operación y la legislación vigente.
-
-### CAPÍTULO IV. DE LAS UNIDADES ADMINISTRATIVAS CENTRALES
-
-###### ARTÍCULO 16.
-
-Al frente de cada Unidad Administrativa estará un titular, auxiliándose para el desempeño de sus funciones por las Direcciones, Subdirecciones, Departamentos y personal de Enlace y Operativo, que se determinen en la Estructura Organizacional registrada ante la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, cuyas facultades y atribuciones se determinarán en el Manual de Organización que para el efecto se expida.
-
-###### ARTÍCULO 17.
-
-Corresponde a los Titulares de las Unidades Administrativas Centrales las siguientes atribuciones comunes:
-
-I. Planear, programar, organizar, dirigir, controlar, y evaluar el desarrollo de las actividades del Área a su cargo, así como, en su caso, las actividades de las Direcciones de Enlace Técnico, en la esfera de sus atribuciones;
-
-II. Acordar con el Director General de la CONAZA los asuntos de su ámbito de competencia;
-
-III. Intervenir en la contratación, desarrollo, capacitación, promoción y adscripción del personal a su cargo y participar directamente, o a través de un representante, en los casos de sanción, remoción y cese de personal bajo su responsabilidad, de conformidad con las disposiciones legales aplicables;
-
-IV. Establecer los anteproyectos de los programas del área a su cargo;
-
-V. Proporcionar y solicitar la información y la cooperación técnica requerida, interna o externa, de acuerdo con las políticas establecidas;
-
-VI. Establecer y suscribir acuerdos, convenios, contratos e instrumentos jurídicos, dentro del ámbito de su competencia previo acuerdo con el Director General y validación de la Dirección Jurídica;
-
-VII. Supervisar y apoyar a las Direcciones de Enlace Técnico de la CONAZA en el ámbito de su competencia;
-
-VIII. Coadyuvar, supervisar y evaluar el funcionamiento de las unidades administrativas que le sean adscritas, informando al Director General de las actividades que éstas realicen, y
-
-IX. Ejecutar las demás funciones y trabajos que le encomiende el Director General, así como las que le confieren las disposiciones jurídico-administrativas en el ámbito de su competencia.
-
-###### ARTÍCULO 18.
-
-Corresponde a la Coordinación de Planeación, Programación y Rendición de Cuentas las siguientes atribuciones:
-
-I. Determinar que los programas y/o componentes a cargo de la CONAZA sean congruentes con el Plan Nacional de Desarrollo y con los objetivos sectoriales e institucionales;
-
-II. Conducir el proceso de planeación, programación y presupuestación de los programas y/o componentes a cargo de la CONAZA, con base en los lineamientos emitidos por la Secretaría y la Secretaría de Hacienda y Crédito Público, de acuerdo a los criterios establecidos conjuntamente con las demás áreas administrativas previstas en el presente Estatuto, para integrar el presupuesto correspondiente;
-
-III. Conducir y gestionar ante la Secretaría, la asignación y autorización del Presupuesto de la CONAZA, así como cualquier adecuación presupuestal que se requiera para los programas y/o componentes a cargo de la CONAZA, atendiendo los acuerdos adoptados por el Consejo Directivo y las normas establecidas para tal efecto;
-
-IV. Informar a las instancias globalizadoras competentes sobre los requerimientos de los programas sujetos a Reglas y/o Lineamientos de Operación a cargo de la CONAZA;
-
-V. Establecer el proceso de integración de los informes que la CONAZA debe presentar a las diferentes instancias administrativas de la Secretaría y demás dependencias de la Administración Pública Federal, que por sus atribuciones o funciones así lo requieran;
-
-VI. Autorizar la integración de la documentación que la Dirección General de la CONAZA presente a su Consejo Directivo;
-
-VII. Participar en la elaboración y/o actualización de las Reglas de Operación de los programas y/o componentes que le sean asignados a la CONAZA por la Secretaría;
-
-VIII. Conducir el proceso de planeación, programación, análisis y evaluación de los programas y/o componentes a cargo de la CONAZA;
-
-IX. Coadyuvar en el seguimiento a los indicadores de resultados de los programas y/o componentes a cargo de la CONAZA;
-
-X. Evaluar el impacto de los indicadores de resultados de los programas y/o componentes a cargo de la CONAZA;
-
-XI. Conducir y evaluar las acciones de transparencia y rendición de cuentas de la CONAZA;
-
-XII. Asesorar a las unidades administrativas y a la ciudadanía en el proceso de transparencia y acceso a la información pública gubernamental;
-
-XIII. Proponer estrategias para la prevención de riesgos institucionales y de los programas y/o componentes a cargo de la CONAZA, coadyuvando con la Coordinación de Seguimiento y Apoyo Técnico en la detección de riesgos en los programas y/o componentes a cargo de la CONAZA;
-
-XIV. Asesorar a las unidades administrativas de la CONAZA en la determinación de sus riesgos;
-
-XV. Participar en la promoción de los programas, componentes, proyectos estratégicos y resultados de la CONAZA en su ámbito de competencia;
-
-XVI. Evaluar y establecer el control interno en su ámbito de competencia;
-
-XVII. Acordar con el Director General de la CONAZA el despacho de los asuntos de su competencia;
-
-XVIII. Ejecutar las demás funciones y trabajos que le encomiende el Director General, así como las que le confieren las disposiciones jurídico-administrativas en el ámbito de su competencia.
-
-La Coordinación de Planeación, Programación y Rendición de Cuentas contará con la Dirección de Rendición de Cuentas y Análisis, contando en su caso con el apoyo de las subdirecciones y departamentos que le sean adscritos en la Estructura Organizacional de la CONAZA, quienes realizarán las funciones previstas en el manual de organización respectivo.
-
-###### ARTÍCULO 19.
-
-Corresponde a la Coordinación de Seguimiento y Apoyo Técnico, las siguientes atribuciones:
-
-I. Contribuir al desarrollo de los habitantes de las zonas áridas, semiáridas y en proceso de desertificación, mediante proyectos productivos que incluyan obras y acciones de conservación de suelo y agua y la cubierta vegetal con el objetivo de mejorar su calidad de vida;
-
-II. Establecer el seguimiento y operación de los recursos para la implementación de los programas y/o componentes, con base en los lineamientos y/o reglas de operación que emita la Secretaria, así como en los manuales de organización y procedimientos que se establezcan para tal fin;
-
-III. Capacitar y asesorar al personal que participará en los programas, componentes y proyectos que la CONAZA realiza para atender su población objetivo;
-
-IV. Determinar y difundir las normas y procedimientos técnicos de infraestructura, capacitación y seguimiento de los programas y/o componentes a cargo de la CONAZA;
-
-V. Informar el avance físico y financiero de los programas y/o componentes a cargo de la CONAZA, así como los programas de capacitación y seguimiento para el análisis y evaluación de los mismos, estableciendo las medidas preventivas y correctivas que correspondan;
-
-VI. Participar en los convenios, contratos, acuerdos, bases de colaboración, anexos de ejecución e instrumentos jurídicos que se establezcan para la implementación de los programas y/o componentes a cargo de la CONAZA, en materia de la operación y el seguimiento de los mismos.
-
-VII. Instruir a las Direcciones de Enlace Técnico la aplicación de los formatos e instructivos de llenado para el seguimiento Físico-Financiero de los programas, componentes y/o proyectos a realizar en los estados, así como observar la aplicación de la normatividad vigente.
-
-VIII. Participar en la integración de los finiquitos e informes a Convenios signados con la CONAZA, correspondientes al ámbito de su competencia.
-
-IX. Brindar asesoría y apoyo a las Direcciones de Enlace Técnico de la CONAZA en el ámbito de su competencia.
-
-X. Colaborar en la integración de las Reglas de Operación, lineamientos, normas, sistemas, tabuladores de rendimientos y procedimientos técnicos de infraestructura de los programas donde la CONAZA podría participar como Instancia Ejecutora y Unidad Responsable, así como en un programa propio.
-
-XI. Asesorar técnicamente a las Direcciones de Enlaces Técnicos en el proceso de ejecución de los proyectos, proponiendo alternativas de solución tanto en campo como en gabinete.
-
-XII. Instruir a las Direcciones de Enlace Técnico la evaluación de los Técnicos que participarán en la elaboración y ejecución tanto de obras/infraestructura como de proyectos integrales de desarrollo productivo.
-
-XIII. Autorizar la supervisión y evaluación del cumplimiento de atribuciones conferidas a las Direcciones de Enlace Técnico de la CONAZA.
-
-XIV. Brindar asesoría y apoyo a las Direcciones de Enlace Técnico para realizar trámites y gestiones ante las unidades administrativas de la CONAZA, así como también ante otras dependencias y entidades de la Administración Pública Federal.
-
-XV. Conducir la entrega o prestación de los apoyos que las unidades administrativas de la CONAZA otorguen a las autoridades locales. Autorizar la elaboración de los programas, actividades, estadísticas y administración de recursos que desarrollen las Direcciones de Enlace Técnico de la CONAZA, de conformidad con las disposiciones jurídicas aplicables.
-
-XVI. Conducir las acciones de enlace y seguimiento de acuerdos que realicen las Direcciones de Enlace Técnico con los gobiernos de los estados y municipios.
-
-XVII. Autorizar información que es generada en las Direcciones de Enlace Técnico, respecto de los programas sustantivos de la CONAZA que éstas ejecutan.
-
-XVIII. Coadyuvar con diferentes instancias de la Secretaria para la ejecución, supervisión y retroalimentación del Sistema Único de Registro a la información de programas y/o componentes a cargo de la CONAZA.
-
-XIX. Integrar la información que se presenta a las distintas instancias que por sus funciones así lo requieran, así como las Bases de Datos y Padrón de Beneficiarios de los proyectos, obras y acciones de los programas a nivel de Estado, municipio y localidad.
-
-XX. Establecer las acciones de enlace y seguimiento, de los acuerdos que realicen las Direcciones de Enlaces Técnicos con las diversas Instancias de gobierno, estados y municipios.
-
-XXI. Dirigir la captura y actualización de datos de los proyectos para la ejecución, supervisión y retroalimentación del Sistema Único de Registro a la Información de programas y/o componentes a cargo de la CONAZA.
-
-XXII. Coordinar y participar en la logística de las giras del Director General de la CONAZA, en coparticipación con las instancias involucradas.
-
-XXIII. Coadyuvar en la aplicación de los programas de transparencia y mejora regulatoria, optimización financiera y calidad de los servicios que se apliquen en la Entidad.
-
-XXIV. Llevar a cabo las demás funciones y trabajos que le encomiende el Director General, así como las que le confieren las disposiciones jurídico-administrativas en el ámbito de su competencia.
-
-La Coordinación de Seguimiento y Apoyo Técnico contará con las (sic) Dirección de Productividad e Innovación Tecnológica; y la Dirección de Sustentabilidad y Fortalecimiento; contando en su caso con el apoyo de las subdirecciones y departamentos que le sean adscritos en la Estructura Organizacional de la CONAZA, quienes realizarán las funciones previstas en el manual de organización respectivo.
-
-###### ARTÍCULO 20.
-
-Corresponde a la Unidad de Administración y Finanzas las siguientes atribuciones:
-
-I. Autorizar el manejo eficiente y racional de los recursos humanos, financieros y materiales de la CONAZA para su óptima aplicación;
-
-II. Determinar las necesidades administrativas de las diferentes áreas que integran la CONAZA;
-
-III. Proponer al Director General las normas, manuales, procedimientos, sistemas y políticas internas para la administración de los recursos humanos, materiales y financieros, de acuerdo a las disposiciones emitidas por las autoridades competentes;
-
-IV. Emitir los nombramientos y contratación del personal de la CONAZA, así como los movimientos de los servidores públicos adscritos a la misma;
-
-V. Conducir las relaciones laborales de la CONAZA con la asesoría de la Dirección Jurídica, conforme a la normatividad aplicable;
-
-VI. Cumplir con las normas de capacitación y adiestramiento, y de seguridad e higiene que establece la legislación laboral, formulando planes y programas en coordinación con las demás áreas de la CONAZA;
-
-VII. Conducir la realización de inventarios de los activos fijos y recursos materiales de la CONAZA con el propósito de tener un mejor control de los mismos, con base en los lineamientos que determinen las Globalizadoras;
-
-VIII. Establecer el Programa Anual de Adquisiciones, Arrendamientos y Servicios de la CONAZA para el abastecimiento a las distintas áreas de bienes y servicios necesarios para el desarrollo de sus actividades, cumpliendo las normas y procedimientos establecidos;
-
-IX. Establecer el Programa Anual de Disposición Final y Baja de Bienes muebles de los activos propiedad de la CONAZA que ya no son susceptibles de uso, para su baja, donación, destrucción y/o enajenación;
-
-X. Autorizar la aplicación del presupuesto aprobado a la CONAZA, incluidos los recursos adicionales que como instancia ejecutora le sean asignados por la Secretaría;
-
-XI. Establecer mecanismos y/o programas que permitan la óptima administración, control y aplicación de los recursos propios de la CONAZA;
-
-XII. Autorizar los recursos financieros de la CONAZA, a través de la implementación de mecanismos de control y evaluación que permitan detectar el comportamiento de situación financiera, y así determinar la asignación de dichos recursos para el desarrollo de las actividades en las diversas áreas de la CONAZA;
-
-XIII. Determinar que las áreas administrativas de las Direcciones de Enlace Técnico de la CONAZA cumplan con los lineamientos y normas establecidos, para la elaboración e integración de los informes financieros, administrativos y presupuestales del gasto corriente, así como la integración de los informes financieros derivados de los programas y/o componentes asignados a la CONAZA;
-
-XIV. Participar anualmente en coordinación con las áreas correspondientes, la elaboración de la información de la Cuenta de la Hacienda Pública Federal que debe presentarse a la Secretaría, así como del Proyecto de Presupuestos de Egresos de la CONAZA;
-
-XV. Autorizar la información programática y presupuestal, así como el seguimiento de los diferentes acuerdos y recomendaciones para su presentación al H. Consejo Directivo y al Comité de Control y Desempeño Institucional;
-
-XVI. Conducir ante la Tesorería de la Federación, la ministración de fondos autorizados a la CONAZA;
-
-XVII. Proponer y autorizar los estudios necesarios para evaluar los riesgos que afectan los bienes propiedad de la Comisión, sugiriendo las medidas para su eliminación o reducción;
-
-XVIII. Dictar la operación de las Direcciones de Enlace Técnico, de la CONAZA en el ámbito de su competencia;
-
-XIX. Dictar las acciones necesarias para evaluar y establecer el control interno de la CONAZA, y
-
-XX. Ejecutar las demás funciones y trabajos que le encomiende el Director General, así como las que le confieren las disposiciones jurídico-administrativas en el ámbito de su competencia.
-
-La Unidad de Administración y Finanzas, contará con una Dirección de Administración y con una Dirección de Finanzas, contando en su caso con el apoyo de los departamentos que le sean adscritos en la Estructura Organizacional de la CONAZA quienes realizarán las funciones previstas en el manual de organización respectivo.
-
-###### ARTÍCULO 21.
-
-Corresponde a la Dirección Jurídica las siguientes atribuciones:
-
-I. Coordinar los asuntos jurídicos de la CONAZA y auxiliar en lo correspondiente a las Coordinaciones, Unidades, Direcciones de Enlace Técnico, Direcciones, Subdirecciones y demás áreas de la CONAZA;
-
-II. Participar en la formulación de iniciativas de leyes, decretos, estatuto, así como reglamentos, acuerdos, circulares y demás disposiciones en materias relacionadas con la competencia de la CONAZA;
-
-III. Participar en la elaboración o actualización de los lineamientos y las reglas de operación de los programas y/o componentes que le sean asignados a la CONAZA por la Secretaría cuando así sea requerido;
-
-IV. Representar legalmente a la CONAZA y a su Director General ante las autoridades judiciales, administrativas y laborales, así como en todos los procedimientos judiciales y administrativos que se requiera;
-
-V. Emitir los contratos, convenios y demás instrumentos jurídicos que celebre la CONAZA para la ejecución de la inversión de los recursos propios y de los que le sean asignados como Unidad Responsable e Instancia Ejecutora de los programas, componentes y proyectos estratégicos que le asigne la Secretaría;
-
-VI. Dictaminar y validar, los contratos, convenios y demás instrumentos jurídicos que celebre la CONAZA y sus unidades administrativas para la ejecución de la inversión de los recursos propios y de los que le sean asignados como Unidad Responsable e Instancia Ejecutora de los programas, componentes y proyectos estratégicos que le asigne la Secretaría;
-
-VII. Apersonarse para atender, dirigir y supervisar los asuntos contenciosos, con el carácter de apoderado legal de la CONAZA; así como la elaboración y presentación de los informes previos y justificados, y las promociones donde se ofrezcan pruebas, se formulen alegatos y se promuevan los incidentes y recursos que en materia de amparo deban presentar los servidores públicos de la CONAZA y que sean señalados como autoridades responsables; así como elaborar los escritos de demanda o contestación según proceda en las controversias constitucionales o acciones de inconstitucionalidad; intervenir cuando la CONAZA tenga carácter de tercero interesado en los juicios de amparo y formular, en general, todas las promociones y actos procesales que a dichos juicios se refieran;
-
-VIII. Determinar e Interponer en representación de la CONAZA, los recursos que procedan en contra de las resoluciones del Tribunal Federal de Justicia Administrativa;
-
-IX. Representar a la CONAZA ante las Autoridades Laborales competentes en los conflictos y/o litigios que se susciten entre ésta y sus trabajadores, con motivo de la aplicación de la Ley Federal del Trabajo;
-
-X. Representar a la CONAZA con motivo de la presentación de las denuncias o querellas ante el Ministerio Público Federal, cuando por hechos delictuosos, se afecte el patrimonio de la Entidad y de los programas, componentes y proyectos estratégicos de los que la CONAZA funja como Instancia Ejecutora o Unidad Responsable;
-
-XI. Atender y tramitar los asuntos relacionados con las quejas presentadas en contra de servidores públicos de la CONAZA, ante cualquier Instancia competente en materia de Derechos Humanos;
-
-XII. Determinar e instruir los procedimientos y recursos administrativos que con motivo de los incumplimientos por parte de los beneficiarios y/o participantes en los programas, componentes y proyectos estratégicos en los que la CONAZA y/o sus unidades administrativas participen como Unidad Responsable o Instancia Ejecutora, deban de iniciarse, de conformidad con las disposiciones aplicables en la materia;
-
-XIII. Participar como enlace en asuntos jurídicos con las áreas correspondientes de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal;
-
-XIV. Representar a la CONAZA ante comisiones, subcomisiones, comités, grupos de trabajo y todo tipo de eventos de índole jurídica en que ésta participe;
-
-XV. Establecer sistemas y procedimientos para el mejor desempeño de la Dirección Jurídica;
-
-XVI. Representar a la CONAZA ante las autoridades competentes para tramitar permisos y títulos relacionados con la propiedad industrial y los derechos de autor, así como resguardar y custodiar los títulos y demás documentos en los que se consignen estos derechos;
-
-XVII. Asesorar jurídicamente al Director General y a los demás funcionarios de la CONAZA, en los asuntos de la misma, fungiendo como órgano de consulta para establecer criterios de interpretación y aplicación de las disposiciones jurídicas que norman el funcionamiento de la CONAZA, salvo que dicha interpretación corresponda a la Oficina del Abogado General de la Secretaría u otra instancia;
-
-XVIII. Dictaminar y autorizar los proyectos de normas jurídicas internas relacionadas con las funciones y atribuciones de los titulares de las distintas áreas de la CONAZA;
-
-XIX. Expedir las copias certificadas de los documentos contenidos en los archivos de la CONAZA cuando se requieran, conforme a las disposiciones aplicables en la materia;
-
-XX. Emitir opinión sobre la contratación de seguros y fianzas, en aquellos casos que se estime conveniente transferir los riesgos que puedan afectar los bienes de la CONAZA, gestionando a solicitud de la Unidad de Administración y Finanzas el pago de las indemnizaciones respectivas en caso de siniestro;
-
-XXI. Conducir la inscripción en el Registro Público de la Propiedad Federal y el Registro Público de la Propiedad Local competente, de los inmuebles propiedad de la CONAZA;
-
-XXII. Establecer y tramitar los procedimientos judiciales ante las autoridades competentes y, en su caso, coordinarse con el Órgano Interno de Control cuando a éste le competa, con el fin de salvaguardar la aplicación correcta de los recursos financieros y de los que le sean asignados con motivo de la ejecución de los programas, componentes y proyectos estratégicos responsabilidad de la CONAZA;
-
-XXIII. Conducir los trámites legales para la enajenación o adquisición, por vía de derecho público o privado, de los inmuebles de la CONAZA o de los que requiera para sus actividades;
-
-XXIV. Conducir el procedimiento administrativo correspondiente, para la aprobación, promulgación publicación y difusión de leyes, decretos, reglamentos, acuerdos y demás disposiciones de observancia general, que normen el funcionamiento de la CONAZA o que sean de su competencia;
-
-XXV. Coadyuvar con las Direcciones de Enlace Técnico, de la CONAZA en el ámbito de su competencia;
-
-XXVI. Establecer las acciones necesarias para evaluar y establecer el control interno en su ámbito de competencia;
-
-XXVII. Autorizar el Programa de Trabajo de Control Interno de la CONAZA, y
-
-XXVIII. Ejecutar las demás funciones y trabajos que le encomiende el Director General, así como las que le confieren las disposiciones jurídico-administrativas en el ámbito de su competencia.
-
-La Dirección Jurídica, contará con la Subdirección de lo Contencioso, contando en su caso con el apoyo de los departamentos que le sean adscritos en la Estructura Organizacional de la CONAZA quienes realizarán las funciones previstas en el manual de organización respectivo
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 22 DE OCTUBRE DE 2024)</small>
-
-### CAPÍTULO V. DE LOS ÓRGANOS INTERNOS DE CONTROL
-
-> <small>(REFORMADO, D.O.F. 22 DE OCTUBRE DE 2024)</small>
-
-###### ARTÍCULO 22.
-
-Esta entidad paraestatal contará con los Órganos Internos de Control Especializados o, en su caso, el Órgano Interno de Control Específico, según lo determine la Secretaría de la Función Pública, en términos de lo dispuesto por el artículo 37 fracciones XI Bis, y XII, de la Ley Orgánica de la Administración Pública Federal; así como con lo establecido en el Reglamento Interior de la Secretaría de la Función Pública y demás normativa aplicable.
-
-> <small>(ADICIONADO, D.O.F. 22 DE OCTUBRE DE 2024)</small>
-
-ARTÍCULO 22 BIS.- Los Órganos Internos de Control Especializados o, en su caso, el Órgano Interno de Control Específico, serán responsables de la fiscalización, control interno, evaluación de la gestión pública, aplicación del régimen de responsabilidades administrativas y demás facultades en términos de las leyes y disposiciones jurídicas aplicables.
-
-> <small>(ADICIONADO, D.O.F. 22 DE OCTUBRE DE 2024)</small>
-
-ARTÍCULO 22 BIS 1.- Cuando la Secretaría de la Función Pública determine la creación de una oficina de representación, esta auxiliará a los Órganos Internos de Control Especializados y a sus Áreas de Especialidad, según su materia y ramo que les corresponda, de conformidad con el Reglamento Interior de la Secretaría de la Función Pública, así como con la normativa que al efecto emita dicha Secretaría.
-
-La Oficina de Representación contará con el personal necesario que permita su operación, y tendrá el carácter de unidad administrativa adscrita a esta entidad paraestatal y estará a cargo de un jefe de oficina designado o nombrado por el Coordinador General de Gobierno de Órganos de Control y Vigilancia, de la Secretaría de la Función Pública, de quien dependerán jerárquicamente.
-
-Para efectos del funcionamiento de la Oficina de Representación, también tendrán el carácter de superiores jerárquicos los Titulares de los Órganos Internos de Control Especializados y los Titulares de las áreas de especialidad, en la materia y ramo que les corresponda.
-
-El personal adscrito a las áreas de especialidad y a las oficinas de representación podrá ser comisionado para coadyuvar con otras Unidades Administrativas de la Secretaría de la Función Pública, en términos de las disposiciones jurídicas aplicables.
-
-> <small>(ADICIONADO, D.O.F. 22 DE OCTUBRE DE 2024)</small>
-
-ARTÍCULO 22 BIS 2.- La Comisión Nacional de las Zonas Áridas, proporcionará los recursos humanos, tecnológicos, materiales y presupuestales que requiera la Oficina de Representación. Observará en todo momento lo establecido en el artículo Décimo Transitorio de la reforma a la Ley Orgánica de la Administración Pública Federal, publicada en el Diario Oficial de la Federación el 3 de mayo de 2023.
-
-> <small>(ADICIONADO, D.O.F. 22 DE OCTUBRE DE 2024)</small>
-
-ARTÍCULO 22 BIS 3.- Las personas servidoras públicas adscritas a la entidad, dentro del ámbito de su competencia, están obligadas a atender los requerimientos de información y resoluciones de las personas servidoras públicas que integran y auxilian a los Órganos Internos de Control Especializados o, en su caso, el Órgano Interno de Control Específico, de conformidad con la normativa aplicable.
-
-### CAPÍTULO VI. DE LAS DIRECCIONES DE ENLACE TÉCNICO
-
-###### ARTÍCULO 23.
-
-La CONAZA contará con las siguientes Direcciones de Enlace Técnico,
-
-Dirección de Enlace Técnico I,
-
-Dirección de Enlace Técnico II,
-
-Dirección de Enlace Técnico III,
-
-Dirección de Enlace Técnico IV,
-
-Dirección de Enlace Técnico V,
-
-Dirección de Enlace Técnico VI,
-
-Las cuales atenderán el Territorio Nacional, de conformidad con las facultades que le confiere al Director General de la CONAZA la fracción III del artículo 15 del presente Estatuto Orgánico.
-
-###### ARTÍCULO 24.
-
-Al frente de cada Dirección de Enlace Técnico, estará un titular, auxiliándose para el desempeño de sus funciones por el personal que se encuentre adscrito a la misma quienes realizarán las funciones previstas en el manual de organización respectivo
-
-Corresponde al Director de Enlace Técnico las siguientes atribuciones:
-
-I. Coordinar y ejecutar dentro de su ámbito territorial y material, los programas, componentes y acciones que competen a la CONAZA con apego a las políticas que determine el Director General y los titulares de las áreas competentes;
-
-II. Establecer y suscribir acuerdos, convenios, contratos e instrumentos jurídicos, dentro del ámbito de su competencia previo acuerdo con el Director General y validación de la Dirección Jurídica;
-
-III. Participar con la representación de la CONAZA, o en su caso, del Director General en las distintas comisiones, comités o foros estatales y municipales, para el desarrollo de las zonas áridas del país;
-
-IV. Supervisar y vigilar la ejecución de las obras, acciones y programas autorizados a las Direcciones de Enlace Técnico, dentro de los programas y/o componentes a cargo de la CONAZA, reportando a las distintas áreas administrativas de la entidad que por sus atribuciones así lo requieran, la información administrativa, presupuestal y contable correspondiente;
-
-V. Administrar el personal, los recursos financieros y materiales que se le asignen, para el desarrollo de sus actividades;
-
-VI. Autorizar las erogaciones y vigilar el ejercicio presupuestal asignado, para Informar mensualmente a la Unidad de Administración y Finanzas y a la Coordinación de Seguimiento y Apoyo Técnico, de los asuntos que atiendan, proporcionando la información sobre los avances físico-financieros de los programas, así como la información contable, administrativa y técnica necesaria;
-
-VII. Vigilar el cumplimiento de la normatividad en el ámbito interno para la realización de obras y servicios, adquisiciones, contratación y control de personal y las demás que le sean comunicadas por el Director General y los titulares de las Unidades Administrativas Centrales;
-
-VIII. Elaborar y actualizar la información, bases de datos, diagnósticos, planes y programas para el desarrollo de las zonas áridas en su ámbito territorial;
-
-IX. Someter al acuerdo del Director General, o de quien éste designe para el efecto, los asuntos encomendados y desempeñar las comisiones y funciones específicas que el primero le asigne;
-
-X. Participar en la elaboración y ejecución de los programas y/o componentes que competen a la CONAZA en colaboración con las áreas responsables y programar en conjunto con la Federación y los gobiernos estatales y municipales acciones para promover el desarrollo de las zonas áridas del país;
-
-XI. Acordar con el Director General de la CONAZA el despacho de los asuntos de su competencia y desempeñar las comisiones y funciones específicas que le sean asignadas;
-
-XII. Coordinarse con las diversas áreas de la CONAZA en el ámbito de su competencia para el mejor desempeño de sus atribuciones;
-
-XIII. Instrumentar las acciones necesarias para evaluar y establecer el control interno en su ámbito de competencia, y
-
-XIV. Ejecutar las demás funciones y trabajos que le encomiende el Director General, así como las que le confieren las disposiciones legales aplicables en el ámbito de su competencia.
+Cuando se cometa un delito no previsto en este código, pero sí en otra ley, respecto al que sean competentes los jueces penales del Estado de Coahuila de Zaragoza, se aplicará la última, y solo en lo no previsto por la misma se aplicarán las disposiciones de este código.
 
 ## Título Segundo. El hecho delictivo
 
-### CAPÍTULO VII. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA CONAZA
+### Capítulo Primero. El delito
 
-###### ARTÍCULO 25.
+Artículo 28 (Concepto de delito y causas que lo excluyen)
 
-El Director General será suplido en sus ausencias por el Coordinador de Planeación, Programación y Rendición de Cuentas; el Coordinador de Seguimiento y Apoyo Técnico; el Titular de la Unidad de Administración y Finanzas y el Director Jurídico, mismos que ejercerán dicha suplencia, respecto de los asuntos inherentes a las atribuciones que les confiere el presente Estatuto.
+Delito es la conducta típica, antijurídica y culpable, a la que se le atribuyen legalmente una o varias penas.
 
-###### ARTÍCULO 26.
+Las causas que excluyen al delito se harán valer de oficio en cualquier momento, etapa o instancia de la investigación o del proceso.
 
-Los Coordinadores, el Titular de la Unidad de Administración y Finanzas, el Director Jurídico y los Directores de Enlace Técnico, serán suplidos, en sus ausencias, por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
-
-###### ARTÍCULO 27.
-
-Cuando se encuentre vacante el cargo de titular de un área administrativa, el Director General podrá nombrar de forma temporal un encargado del despacho, de entre los servidores públicos adscritos a la CONAZA, a efecto de que ejerza las atribuciones conferidas al titular en este estatuto y en los manuales de organización y procedimientos. La designación como encargado del despacho no implica modificación alguna de las condiciones salariales, laborales, y administrativas de quien ejerza de esta forma dicho encargo.
-
-## TRANSITORIOS
-
-PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Se abroga el Estatuto Orgánico de la Comisión Nacional de las Zonas Áridas anterior aprobado por su Consejo Directivo en su Sesión Ordinaria número 133, mediante el acuerdo No. 133.07.14, celebrada el 11 de diciembre de 2014 y publicado en el Diario Oficial de la Federación del día 25 de septiembre de 2015.
-
-Así mismo se derogan todas las disposiciones administrativas internas en lo que se opongan al presente Estatuto.
-
-TERCERO.- Los asuntos que se encuentren en trámite en las unidades administrativas establecidas en el Estatuto que se abroga, serán atendidos y resueltos por las unidades administrativas establecidas en el presente Estatuto, de acuerdo a sus respectivas facultades.
-
-CUARTO.- En tanto se emiten y publican los instrumentos administrativos como el Manual de Organización y los Manuales de Procedimientos respectivos, continuarán en vigor los Manuales y demás instrumentos administrativos en los que se establezca la normativa de la Comisión Nacional de las Zonas Áridas siempre que no se opongan a este Estatuto.
-
-QUINTO.- La CONAZA dentro del plazo de seis meses contados a partir de la entrada en vigor del presente Estatuto Orgánico, deberá expedir el Manual de Organización de la Comisión Nacional de las Zonas Áridas.
-
-SEXTO.- Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las unidades administrativas cuya denominación, funciones y estructura se hayan reformado por virtud de este Estatuto, se entenderán referidas a las nuevas unidades, conforme a lo establecido en el presente Instrumento.
-
-El presente Estatuto Orgánico fue aprobado por el Consejo Directivo de la Comisión Nacional de las Zonas Áridas, en su 155 sesión ordinaria celebrada en la ciudad de Saltillo, Coahuila de Zaragoza el 24 de junio de 2020.
-
-Saltillo, Coahuila de Zaragoza, a 15 de diciembre de 2020.- El Director General de la Comisión Nacional de las Zonas Áridas, Ramón Antonio Sandoval Noriega.- Rúbrica.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-D.O.F. 22 DE OCTUBRE DE 2024.
-
-> <small>[N. DE E. EL "AVISO DE MODIFICACIÓN AL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL DE LAS ZONAS ÁRIDAS", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL.]</small>
+Lo dispuesto en el párrafo precedente también se observará tratándose de causas que extingan la acción penal; y respecto a la ejecución de penas, aquellas que las extingan.
 
 ### Capítulo Segundo. Conducta
 
@@ -3839,17 +3437,29 @@ Se impondrá de una cuarta parte del mínimo a cuarta parte del máximo de las p
 
 ### Capítulo Tercero. Privación de la libertad con fines sexuales
 
+(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE ABRIL DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 242, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 Artículo 222 (Privación de la libertad con fines sexuales)
 
-Se impondrá de uno a siete años de prisión y multa, a quien prive a una persona de su libertad con el propósito de realizar con ella un acto sexual.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
 
-Cuando la persona a quien se le prive de la libertad sea menor de dieciocho años o sea una persona que no tuviere capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión, o por cualquier circunstancia personal no pueda resistirlo, se le impondrá de dos a ocho años de prisión y multa.
+Se impondrá de dos a ocho años de prisión y multa, a quien prive a una persona de su libertad con el propósito de realizar con ella un acto sexual.
 
-Si dentro de las veinticuatro horas siguientes a la privación, el autor del delito restituye la libertad a la víctima, sin haber practicado el acto sexual, la sanción será de tres meses a tres años de prisión.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Cuando la persona a quien se le prive de la libertad sea menor de dieciocho años o sea una persona que no tuviere capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión, o por cualquier circunstancia personal no pueda resistirlo, se le impondrá de tres a nueve años de prisión y multa.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Si dentro de las veinticuatro horas siguientes a la privación, el autor del delito restituye la libertad a la víctima, sin haber practicado el acto sexual, la sanción será de cuatro meses a cuatro años de prisión.
 
 Este delito se perseguirá de oficio solo en cuanto hace a personas menores de dieciocho años y personas que no tuvieren capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión, o por cualquier circunstancia personal no puedan resistirlo.
 
-## Título Quinto. Delitos contra la libertad y seguridad sexuales, y el desarrollo psicosexual
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2019)</small>
+
+## Título Quinto
+
+Delitos contra la libertad y seguridad sexuales y el desarrollo de la personalidad.
 
 ### Capítulo Primero. Pautas Específicas de Aplicación
 
@@ -3871,7 +3481,9 @@ Además de los previstos en el artículo siguiente, los delitos de violación, v
 
 I. (Violación)
 
-Se considera violación y se impondrá de siete a catorce años de prisión y multa, a quien por medio de la violencia física, psicológica o moral tenga cópula con una persona de cualquier sexo sin su voluntad.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Se considera violación y se impondrá de ocho a quince años de prisión y multa, a quien por medio de la violencia física, psicológica o moral tenga cópula con una persona de cualquier sexo sin su voluntad.
 
 II. (Violación a cónyuge y a otras personas con vínculos similares)
 
@@ -3885,7 +3497,9 @@ EN LOS SUPUESTOS DE ESTA FRACCIÓN, EL DELITO SE PERSEGUIRÁ POR QUERELLA.
 
 III. (Violación equiparada)
 
-Se equipará a la violación y se impondrá de nueve a dieciséis años de prisión y multa, a quien tenga cópula con una persona sin capacidad para comprender la naturaleza de la relación sexual o de decidir de acuerdo a esa comprensión; o de resistir la conducta delictuosa.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Se equipará a la violación y se impondrá de diez a diecisiete años de prisión y multa, a quien tenga cópula con una persona sin capacidad para comprender la naturaleza de la relación sexual o de decidir de acuerdo a esa comprensión; o de resistir la conducta delictuosa.
 
 Si en el supuesto del párrafo precedente se infieren lesiones a la víctima, las mismas se considerarán calificadas y se aplicarán las reglas de concurso de delitos que procedan.
 
@@ -3895,9 +3509,15 @@ El párrafo anterior también será aplicable a la violación equiparada previst
 
 Artículo 225 (Violación impropia por instrumento o elemento distinto al natural)
 
-Se considera violación impropia y se impondrá prisión de cuatro a nueve años y multa, a quien ilícitamente introduzca en forma total o parcial por la vía anal o vaginal cualquier elemento o instrumento distinto al pene, sin el consentimiento de la persona.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
 
-Se aplicará de seis a once años y multa, a quien ilícitamente introduzca en forma total o parcial cualquier elemento o instrumento distinto al pene, por la vía anal o vaginal a persona que por cualquier causa no tenga la capacidad para comprender el significado del hecho o posibilidad de resistir la conducta delictuosa.
+Se considera violación impropia y se impondrá prisión de cinco a diez años y multa, a quien ilícitamente introduzca en forma total o parcial por la vía anal o vaginal cualquier elemento o instrumento distinto al pene, sin el consentimiento de la persona.
+
+(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE ABRIL DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 242, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+SE APLICARÁ DE SIETE A DOCE AÑOS Y MULTA, A QUIEN ILÍCITAMENTE INTRODUZCA EN FORMA TOTAL O PARCIAL CUALQUIER ELEMENTO O INSTRUMENTO DISTINTO AL PENE, POR LA VÍA ANAL O VAGINAL A PERSONA QUE POR CUALQUIER CAUSA NO TENGA LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O POSIBILIDAD DE RESISTIR LA CONDUCTA DELICTUOSA.
 
 Si en el supuesto del párrafo precedente se infieren lesiones a la víctima, las mismas se considerarán calificadas y se aplicarán las reglas de concurso de delitos que procedan.
 
@@ -3905,15 +3525,21 @@ Si en el supuesto del párrafo precedente se infieren lesiones a la víctima, la
 
 Artículo 226 (Abuso sexual)
 
-Se aplicará de uno a cinco años de prisión y multa, a quien sin el propósito de llegar a la cópula y sin consentimiento de una persona de cualquier sexo, mayor de quince años de edad, ejecute en ella o la haga ejecutar un acto erótico.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Se aplicará de dos a seis años de prisión y multa, a quien sin el propósito de llegar a la cópula y sin consentimiento de una persona de cualquier sexo, mayor de quince años de edad, ejecute en ella o la haga ejecutar un acto erótico.
 
 Si se hiciere uso de la violencia física, psicológica o moral suficiente para intimidar al ofendido y cometer el delito, se incrementará en una mitad más las sanciones mínima y máxima.
 
 Artículo 227 (Abuso sexual de persona incapaz)
 
-Se impondrá de dos a seis años de prisión y multa, a quien, sin el propósito de llegar a la cópula, ejecute en ella o la haga ejecutar un acto erótico en una persona que no tenga la capacidad de comprender el significado del hecho o decidir conforme a esa comprensión; o por cualquier circunstancia no pueda resistirlo.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
 
-Si se emplea violencia física, psicológica o moral suficiente para intimidar a la víctima y cometer el delito, se aplicará de tres a ocho años de prisión y multa.
+Se impondrá de tres a siete años de prisión y multa, a quien, sin el propósito de llegar a la cópula, ejecute en ella o la haga ejecutar un acto erótico en una persona que no tenga la capacidad de comprender el significado del hecho o decidir conforme a esa comprensión; o por cualquier circunstancia no pueda resistirlo.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Si se emplea violencia física, psicológica o moral suficiente para intimidar a la víctima y cometer el delito, se aplicará de cuatro a nueve años de prisión y multa.
 
 Si en el supuesto del párrafo precedente se infieren lesiones a la víctima, las mismas se considerarán calificadas y se aplicarán las reglas de concurso de delitos que procedan.
 
@@ -3939,7 +3565,9 @@ III. (Abuso de poder o de confianza)
 
 Se cometa por quien se sirva de medios o circunstancias que le proporcione su empleo, cargo o comisión públicos, oficio, profesión o ministerio religioso, de la hospitalidad que brinde o que reciba, o se aproveche de la posición de subordinación de la víctima ante él, o cuando tenga a la víctima bajo su custodia, guarda o educación.
 
-Si el agente es servidor público, se le destituirá e inhabilitará de diez a quince años para desempeñar un cargo, empleo o comisión en cualquier entidad oficial del Estado o de sus municipios, y cualquiera de los sujetos cualificados señalados en el párrafo precedente, serán suspendidos de uno a tres años en el ejercicio de su profesión, oficio o en la clase de actividad en virtud de la cual cometieron el delito, conforme a las reglas previstas en la parte general de este código para aquel efecto.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Si el agente es servidor público, se le destituirá e inhabilitará de once a dieciséis años para desempeñar un cargo, empleo o comisión en cualquier entidad oficial del Estado o de sus municipios, y cualquiera de los sujetos cualificados señalados en el párrafo precedente, serán suspendidos de dos a cuatro años en el ejercicio de su profesión, oficio o en la clase de actividad en virtud de la cual cometieron el delito, conforme a las reglas previstas en la parte general de este código para aquel efecto.
 
 IV. (Vehículo particular o de servicio público)
 
@@ -3959,15 +3587,23 @@ Artículo 229 (Violación equiparada, violación impropia y abuso sexual contra 
 
 I. (Violación equiparada en persona menor de quince años)
 
-Se considera violación equiparada y se impondrá de nueve a dieciséis años de prisión y multa, a quien realice cópula con una persona de cualquier sexo, menor de quince años.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
 
-II. (Violación impropia en persona menor de quince años)
+Se considera violación equiparada y se impondrá de diez a diecisiete años de prisión y multa, a quien realice cópula con una persona de cualquier sexo, menor de quince años de edad.
 
-Se considera violación impropia y se impondrá de seis a once años y multa, a quien ilícitamente introduzca en forma total o parcial cualquier elemento o instrumento distinto al pene, por la vía anal o vaginal a persona menor de quince años de edad.
+(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE ABRIL DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 242, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+II. (VIOLACIÓN IMPROPIA EN PERSONA MENOR DE QUINCE AÑOS)
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+SE CONSIDERA VIOLACIÓN IMPROPIA Y SE IMPONDRÁ DE SIETE A DOCE AÑOS Y MULTA, A QUIEN ILÍCITAMENTE INTRODUZCA EN FORMA TOTAL O PARCIAL CUALQUIER ELEMENTO O INSTRUMENTO DISTINTO AL PENE, POR LA VÍA ANAL O VAGINAL A PERSONA MENOR DE QUINCE AÑOS DE EDAD.
 
 III. (Abuso sexual en persona menor de quince años)
 
-Se considera abuso sexual y se impondrá de dos a seis años de prisión y multa, a quien sin el propósito de llegar a la cópula y con o sin consentimiento de una persona menor de quince años de edad, de uno u otro sexo, ejecute en ella o la haga ejecutar un acto erótico.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Se considera abuso sexual y se impondrá de tres a siete años de prisión y multa, a quien sin el propósito de llegar a la cópula y con o sin consentimiento de una persona menor de quince años de edad, de uno u otro sexo, ejecute en ella o la haga ejecutar un acto erótico.
 
 Si en los supuestos de las fracciones anteriores se infieren lesiones a la víctima, las mismas se considerarán calificadas y se aplicarán las reglas de concurso de delitos que procedan
 
@@ -3985,7 +3621,9 @@ II. (Conducta con abuso de autoridad o de confianza)
 
 La conducta se realice por quien se sirva de medios o circunstancias que le proporcione su empleo, cargo o comisión públicos, oficio, profesión o ministerio religioso, de la hospitalidad que brinde o que reciba, o se aproveche de la posición de subordinación de la víctima ante él, o cuando tenga a la víctima bajo su custodia, guarda o educación.
 
-Si el agente es servidor público, se le destituirá e inhabilitará de diez a quince años para desempeñar un cargo, empleo o comisión en cualquier entidad oficial del Estado o de sus municipios, y cualquiera de los demás sujetos cualificados señalados en el párrafo precedente, serán suspendidos de tres a seis años de su derecho al ejercicio de su profesión, oficio o en la clase de actividad, en virtud de la cual cometieron el delito, conforme a las reglas previstas en la parte general de este código para aquel efecto.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Si el agente es servidor público, se le destituirá e inhabilitará de once a dieciséis años para desempeñar un cargo, empleo o comisión en cualquier entidad oficial del Estado o de sus municipios, y cualquiera de los demás sujetos cualificados señalados en el párrafo precedente, serán suspendidos de cuatro a siete años de su derecho al ejercicio de su profesión, oficio o en la clase de actividad, en virtud de la cual cometieron el delito, conforme a las reglas previstas en la parte general de este código para aquel efecto.
 
 Artículo 231 (Otras modalidades agravantes de los delitos previstos en el artículo 229 de este código)
 
@@ -4013,11 +3651,15 @@ Se cometa dentro de un inmueble público, centro educativo, cultural, deportivo,
 
 Artículo 232 (Procuración sexual a menores de quince años)
 
-Se impondrá de dos a cuatro años de prisión y multa, a quien solicite a una persona que tenga menos de quince años, que brinde favores sexuales para aquél o para otra persona.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
 
-Artículo 233 (Omisión de denuncia respecto a los delitos de violación, equiparado a la violación, violación impropia o abuso sexual, contra personas menores de edad)
+Se impondrá de tres a cinco años de prisión y multa, a quien solicite a una persona que tenga menos de quince años, que brinde favores sexuales para aquél o para otra persona.
 
-Se impondrá de tres meses a dos años de prisión y multa, a quien le conste cualquiera de las conductas de violación, equiparada a la violación, violación impropia o abuso sexual contra una persona menor (sic) quince años de edad, previstas en este capítulo, o le conste cualquiera de dichas conductas cuando sean cometidas contra incapaces, y no acuda al ministerio público a denunciarlas, a menos que haya causa de licitud o excusa legal para esa omisión.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Artículo 233 (Omisión de denuncia respecto a los delitos de violación equiparada, violación impropia o abuso sexual, contra personas menores de edad)
+
+Se impondrá de cuatro meses a tres años de prisión y multa, a quien le conste cualquiera de las conductas de violación equiparada, violación impropia o abuso sexual contra una persona menor de quince años de edad, previstas en este capítulo, o le conste cualquiera de dichas conductas cuando sean cometidas contra incapaces, y no acuda a denunciarlas, a menos que haya causa de licitud o excusa legal para esa omisión.
 
 Artículo 234 (Reparación del daño ampliada)
 
@@ -4027,7 +3669,9 @@ Cuando a consecuencia de la comisión de alguno de los delitos previstos en este
 
 Artículo 235 (Estupro)
 
-Se aplicará prisión de seis meses a cuatro años y multa: A quien por medio de la seducción o el engaño tenga cópula con un menor de dieciocho años de edad y mayor de quince.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Se aplicará prisión de siete meses a cinco años y multa, a quien por medio de la seducción o el engaño tenga cópula con un menor de dieciocho años de edad y mayor de quince.
 
 Si como consecuencia del estupro resulta descendencia, la reparación del daño comprenderá, además de la que señala este código, el pago de alimentos para el hijo o la hija y para la madre, en los términos de la Ley para la Familia de Coahuila de Zaragoza.
 
@@ -4037,21 +3681,29 @@ Artículo 236 (Acoso sexual y hostigamiento sexual)
 
 I. (Acoso sexual)
 
-Se aplicará de uno a cinco años de prisión y multa: A quien solicite favores sexuales para sí o para una tercera persona o realice una conducta de naturaleza sexual indeseable para quien la recibe, ya sea de manera directa, a través de medios informáticos, audiovisuales, virtuales o de cualquier otra forma, que le cause un daño o sufrimiento psicológico el cual lesione su dignidad, y coloque a la víctima en un estado de indefensión o de riesgo, independientemente de que se realice en uno o varios eventos.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Se aplicará de dos a seis años de prisión y multa, a quien solicite favores sexuales para sí o para una tercera persona o realice una conducta de naturaleza sexual indeseable para quien la recibe, ya sea de manera directa, a través de medios informáticos, audiovisuales, virtuales o de cualquier otra forma, que le cause un daño o sufrimiento psicológico el cual lesione su dignidad, y coloque a la víctima en un estado de indefensión o de riesgo, independientemente de que se realice en uno o varios eventos.
 
 Si la acción se realiza a través de medios informáticos, se impondrá además, la prohibición de comunicarse a través de dichos medios o redes sociales, hasta por un tiempo igual a la pena impuesta.
 
 Las sanciones se aumentarán en un tercio más si el sujeto activo puede causar un daño personal, laboral, educativo, profesional o patrimonial; o si el sujeto pasivo del delito es una persona menor de edad o sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión.
 
-La misma sanción prevista en el párrafo anterior, se aplicará en el caso de que el sujeto activo fuere servidor público y utilizare los medios propios del cargo, además de la destitución e inhabilitación para ocupar empleo, cargo o comisión en el servicio público por un período de uno a cinco años.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+La misma sanción prevista en el párrafo anterior, se aplicará en el caso de que el sujeto activo fuere servidor público y utilizare los medios propios del cargo, además de la destitución e inhabilitación para ocupar empleo, cargo o comisión en el servicio público por un período de dos a seis años.
 
 II. (Hostigamiento sexual)
 
-Se aplicará de dos a siete años de prisión y multa: A quien, basado en el ejercicio del poder, en una relación de subordinación real respecto de la víctima, realice una conducta de tipo verbal, física o ambas, relacionadas con la sexualidad de connotación lasciva que le cause un daño o sufrimiento psicológico que lesione su dignidad, y coloque a la víctima en un estado de indefensión o de riesgo, independientemente de que se realice en uno o varios eventos.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Se aplicará de tres a ocho años de prisión y multa, a quien, basado en el ejercicio del poder, en una relación de subordinación real respecto de la víctima, realice una conducta de tipo verbal, física o ambas, relacionadas con la sexualidad de connotación lasciva que le cause un daño o sufrimiento psicológico que lesione su dignidad, y coloque a la víctima en un estado de indefensión o de riesgo, independientemente de que se realice en uno o varios eventos.
 
 Las sanciones se aumentarán en un tercio más si el sujeto activo dado su posición de ejercicio de poder puede causar un daño personal, laboral, educativo, profesional o patrimonial; o si el sujeto pasivo del delito es una persona menor de edad o sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión.
 
-Las mismas sanciones se aplicarán si el sujeto activo fuere servidor público y utilizaré los medios propios de su cargo jerárquico. Adicionalmente será destituido e inhabilitado para ocupar empleo, cargo o comisión en el servicio público por un período de dos a siete años.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2019)</small>
+
+Las mismas sanciones se aplicarán si el sujeto activo fuere servidor público y utilizaré los medios propios de su cargo jerárquico. Adicionalmente será destituido e inhabilitado para ocupar empleo, cargo o comisión en el servicio público por un período de tres a ocho años.
 
 Estos delitos se perseguirán por querella.
 
@@ -5589,13 +5241,21 @@ Se impondrá de dos a cuatro años de prisión y de mil a dos mil días multa, o
 
 ### Capítulo Segundo. Delitos contra tareas preventivas de seguridad pública
 
-Artículo 341 (Instituciones de seguridad pública y miembros equiparados)
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2019)</small>
 
-Para los efectos de este código, se entiende por miembros o integrantes de instituciones de seguridad pública a las personas que tengan un cargo o laboren en las instituciones y dependencias legalmente encargadas de la prevención de delitos en el Estado y en sus municipios, de la investigación de delitos del orden común cometidos en el Estado y de su persecución para hacer efectiva su punición, así como de la sanción de las infracciones administrativas.
+Artículo 341 (Instituciones de seguridad pública y equiparadas)
 
-Para los efectos del párrafo precedente y de las penas previstas en los delitos de este código, se equiparará a miembros o integrantes de instituciones de seguridad pública, a quienes tengan un cargo o realicen labores de policía procesal, o tengan un cargo o laboren en los centros penitenciarios o en las cárceles municipales, o bien, en las dependencias oficiales encargadas de la operación o supervisión de esos centros o cárceles.
+Para los efectos de este código, se entiende por integrantes de instituciones de seguridad pública a las personas que tengan un cargo o laboren en las Instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario y dependencias legalmente encargadas de la seguridad pública de los tres órdenes de gobierno.
 
-Para los mismos efectos del párrafo primero de este artículo y de las penas previstas en los delitos de este código, también se equiparará a labores de seguridad pública, a los servicios de seguridad privada que lícitamente presten personas físicas o éstas a través de personas morales.
+Para los mismos efectos del párrafo primero de este artículo y de las penas previstas en los delitos de este código, se equiparará a labores de seguridad pública, a los servicios de seguridad privada que lícitamente presten personas físicas o éstas a través de personas morales.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2019)</small>
+
+Artículo 341 Bis (Violencia contra miembros o integrantes de instituciones de seguridad pública)
+
+Se impondrá de tres meses a dos años de prisión y de doscientos a quinientos días multa, a quien ejerza violencia contra un miembro o integrante de instituciones de seguridad pública, por razón de sus funciones o para obligarlo a ejecutar u omitir algún acto propio de su cargo o a realizar uno contrario a sus deberes oficiales.
+
+Si la violencia a que se refiere el párrafo precedente ocasiona una o más lesiones de las previstas en las fracciones II a VIII del artículo 200 de este código, se aplicarán las reglas del concurso de delitos.
 
 Artículo 342 (Designación o mantenimiento indebidos de personal de seguridad pública)
 
@@ -5603,21 +5263,51 @@ Se impondrá de uno a tres años de prisión, de cincuenta a quinientos días mu
 
 Se impondrán las mismas penas previstas en el párrafo precedente, al servidor público que sabiendo que un miembro en funciones, de las fuerzas de seguridad pública, o algún integrante del personal administrativo de los mencionados en el párrafo que antecede, no ha aprobado los exámenes de control de confianza, y omita realizar los trámites necesarios en el ámbito de su competencia para proceder a su destitución.
 
-Artículo 343 (Facilitación delictiva)
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2019)</small>
 
-Se impondrá de tres a seis años de prisión y multa, a quien, con el fin de informar a algún integrante de un grupo delictivo, vigile el movimiento de miembros de instituciones de seguridad pública de los tres órdenes de gobierno o militares, o bien del movimiento de miembros de empresas de seguridad privada o de personas que brinden lícitamente esos servicios a particulares.
+Artículo 343 (Delito contra las funciones de seguridad y justicia)
 
-Se impondrán las mismas penas previstas en el párrafo precedente, a quien, durante más de cinco horas diarias en el transcurso de tres o más días, en una misma área que no exceda de tres manzanas urbanas, vigile y enseguida informe por teléfono celular, radio o algún otro aparato de comunicación, acerca del movimiento de miembros de instituciones de seguridad pública de los tres órdenes de gobierno o militares, o bien del movimiento de miembros de empresas de seguridad privada o de personas que brinden lícitamente esos servicios a particulares.
+Se impondrá de cuatro a ocho años de prisión y multa de doscientos a cuatrocientos días a quien incurra en cualquiera de las conductas siguientes:
+
+I. Utilice instrumentos, objetos o cualquier medio, que por su resistencia, forma o fuerza, dañe, obstaculice o impida el paso de vehículos de las instituciones de seguridad pública municipal, estatal, federal, de las fuerzas armadas mexicanas o Guardia Nacional;
+
+II. Posea, porte o utilice para el espionaje o halconeo, en su persona, domicilio o en el lugar donde se le aprehenda, equipos de comunicación de cualquier tipo;
+
+III. Posea, porte o utilice equipos o artefactos que permitan la intervención, escucha o transmisión de datos para prácticas de espionaje, con respecto a canales de comunicaciones oficiales o privadas, estos últimos cuando sean utilizados para funciones de seguridad pública;
+
+IV. Instale, permita o consienta la instalación de antenas o cualquier instrumento de comunicación en bienes de su propiedad o posesión, o de un tercero, con los cuales se intercepte o transmita la señal o las comunicaciones para el espionaje o halconeo;
+
+V. Posea, porte o utilice para el espionaje, en su persona, domicilio o en el lugar donde se le aprehenda, uniformes, prendas de vestir, insignias, distintivos o equipos correspondientes o similares a los utilizados por cualquiera de las instituciones de seguridad pública municipal, estatal, federal, de las fuerzas armadas mexicanas o Guardia Nacional, o que simulen la apariencia de los utilizados por éstas;
+
+VI. Posea, porte o utilice para el espionaje o halconeo, en su persona, domicilio o en el lugar donde se le aprehenda, escritos o mensajes producidos por cualquier medio, que tengan relación con alguna pandilla o asociación delictuosa, de algún grupo o actividades delictivas; así como de las actividades de las instituciones de seguridad pública municipal, estatal, federal, de las fuerzas armadas mexicanas o Guardia Nacional;
+
+VII. Posea, porte o utilice para el espionaje o halconeo, en su persona, domicilio o en el lugar donde se le aprehenda, accesorios u objetos que se utilizan en los vehículos oficiales de seguridad pública municipal, estatal, federal, de las fuerzas armadas mexicanas o Guardia Nacional;
+
+VIII. Detente, posea, conduzca o custodie un vehículo que simule ser de instituciones o empresas, públicas o privadas, para el espionaje o halconeo, y
+
+IX. Dañe, altere o impida el funcionamiento o monitoreo de cámaras de vigilancia en la vía pública, establecimientos o edificios públicos, instaladas para ser utilizadas por las instituciones de seguridad pública municipal, estatal, federal, de las fuerzas armadas mexicanas o Guardia Nacional.
+
+Para los fines de este artículo se entenderá por:
+
+I. Espionaje: Obtener indebidamente comunicaciones privadas u oficiales, utilizando cualquier medio tecnológico, para comunicar información sobre acciones, actividades o ubicación de las instituciones de seguridad pública municipal, estatal, federal, de las fuerzas armadas mexicanas o Guardia Nacional, o de sus integrantes.
+
+II. Halconeo: La acción de acechar, vigilar o cualquier acto encaminado a obtener y comunicar información indebidamente, sobre acciones, actividades o ubicación de las instituciones de seguridad pública municipal, estatal, federal, de las fuerzas armadas mexicanas o Guardia Nacional, o de sus integrantes.
 
 (Modalidades agravantes)
 
-Se aumentará en un tercio el mínimo y el máximo de las penas previstas en este artículo, a quien realice los actos descritos en cualquiera de los dos párrafos precedentes, encontrándose en un vehículo de servicio público de transporte de pasajeros, o en alguno simulado al mismo.
+Se incrementará hasta una mitad más de la pena de prisión que le corresponda, cuando además, las conductas previstas en este artículo, se aprovechen para evitar que alguna persona sea detenida o para que se pueda cometer uno o más delitos dolosos.
 
-Se aumentará una mitad al mínimo y al máximo de las penas previstas en el párrafo primero de este artículo, si quien realiza los actos señalados en cualquiera de los dos primeros párrafos de este artículo, es miembro o ex-miembro de una institución de seguridad pública o de policía procesal, o de un centro o establecimiento penitenciario o cárcel municipal, o miembro o ex-miembro de una empresa de seguridad privada o es persona que presta o ha prestado esos servicios a particulares.
+Igualmente, se incrementarán hasta una mitad más de la pena de prisión que le corresponda al que realice las conductas descritas en las fracciones de este artículo, a quien utilizando para ello vehículos simulados de instituciones o empresas, públicas o privadas, o cualquier vehículo de servicio público de transporte de pasajeros u otro que preste un servicio similar o que por sus características exteriores sea similar a la apariencia de los vehículos destinados al servicio de transporte público de pasajeros.
 
-(Penas adicionales)
+La pena se incrementará hasta una mitad más de la pena de prisión que le corresponda al que realice las conductas descritas en las fracciones de este artículo, cuando se empleen menores de edad, personas con discapacidad o de la tercera edad para la comisión de este delito.
 
-Además, al miembro de la institución de seguridad pública o de policía procesal, o de un centro o establecimiento penitenciario o de cárcel municipal a que se refiere el párrafo precedente, se le destituirá de su empleo, cargo o comisión, y tanto a él como, en su caso, al particular que haya cometido el delito, se le inhabilitará de diez a quince años para desempeñar un cargo, empleo o comisión en cualquier entidad oficial del Estado o de sus municipios, y se le suspenderá de quince a veinte años del derecho a realizar cualquier clase de actividad de seguridad privada.
+Se incrementará hasta el doble de la sanción prevista en este artículo, al servidor o ex servidor público que incurra en cualquiera de las conductas previstas en las fracciones del referido artículo. Además, al servidor público, se le destituirá de su empleo, cargo o comisión, y tanto a él como, en su caso, al particular que haya cometido el delito, se le inhabilitará de diez a quince años para desempeñar un cargo, empleo o comisión en cualquier entidad oficial del Estado o de sus municipios, y se le suspenderá de quince a veinte años del derecho a realizar cualquier clase de actividad de seguridad privada.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2019)</small>
+
+Artículo 343 bis (Facilitación de medios para la comisión de delitos contra la seguridad y justicia)
+
+Se impondrá de seis a doce años de prisión y multa de cuatrocientos a seiscientos días a quien procure o administre recursos materiales, económicos o de cualquier tipo para la comisión de las conductas previstas en las fracciones del artículo 343.
 
 Artículo 344 (Facilitación por servidor público, de objetos destinados a la seguridad pública)
 
@@ -5654,6 +5344,12 @@ Se aumentará un tercio al mínimo y al máximo de las penas previstas en este a
 VI. (Consunción)
 
 Si quien realiza cualquiera de las conductas previstas en las fracciones I y III de este artículo, es autor o partícipe del robo del vehículo u objeto a que se refieren esas fracciones, solo se le punirá por el robo que corresponda, sin perjuicio de atender al aumento de penas por la modalidad agravante prevista en la fracción V de este artículo, si la misma se actualiza.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2019)</small>
+
+Artículo 345 Bis (Uso indebido de los sistemas de emergencia y de denuncia)
+
+Se impondrá de seis meses a dos años de libertad vigilada y multa de quinientos a mil días de salario mínimo, a quien utilice indebidamente los números telefónicos de emergencia proporcionados por las autoridades en materia de seguridad pública, protección civil, bomberos, cruz roja o cualquier número telefónico destinado a atender emergencias en la población, para dar un aviso que resulte falso y que provoque la movilización o presencia de personal de emergencia.
 
 Artículo 346 (Usurpación de funciones de seguridad pública)
 
@@ -6889,6 +6585,12 @@ VIII. (Aprovechamiento de firma o rúbrica ajenas o de la manifestación documen
 
 Aproveche para su beneficio económico o el de otra persona, o perjudicando al autor del documento, una firma o rúbrica puestas en un documento en blanco, completándolo con una obligación o negocio jurídicos, o con fechas, plazos, términos o intereses determinados, o con una manifestación del autor de aquéllas, sin consentimiento del mismo.
 
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2019)</small>
+
+IX. (Obligación forzosa para firmar una carta o documento en blanco que implique la renuncia de los derechos del trabajador).
+
+El que obligue a los trabajadores a firmar documentos en blanco, o de cualquier otro tipo que impliquen renuncia de los derechos del trabajador, o le imponga obligaciones a éste, con el fin (sic) menoscabarlos o anularlos, ya sea que el trabajador labore en una empresa o institución pública o privada.
+
 Artículo 407 (Modalidades agravantes de falsificación, adulteración o uso indebido de documentos)
 
 Se aumentará en dos tercios el mínimo y el máximo de las penas previstas en el artículo anterior, cuando respecto a cualquiera de los supuestos del mismo:
@@ -7485,7 +7187,9 @@ La violencia a que se refiere el párrafo precedente podrá comprender hasta oca
 
 ### Capítulo Quinto. Ejercicio ilegal de atribuciones y facultades
 
-Artículo 448 (Ejercicio ilegal de atribuciones y facultades)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2019)</small>
+
+Artículo 448 (Ejercicio abusivo de funciones)
 
 Se impondrá de tres a cinco años de prisión y de mil a dos mil días multa, al servidor público que:
 
@@ -7944,3 +7648,47 @@ P.O. 9 DE ABRIL DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE ABRIL DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 242.- SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 293.- SE ADICIONA EL ARTÍCULO 345 BIS AL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA.”]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico oficial del Estado.
+
+P.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 299.- SE ADICIONA EL ARTÍCULO 341 BIS AL CÓDIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 300.- SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 406 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 5 DE JULIO DE 2019
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 301.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 13, LA DENOMINACIÓN DEL TÍTULO QUINTO, LA DENOMINACIÓN DEL ARTÍCULO 448, DEL CÓDIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, excepto lo concerniente a los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, que entrarán en vigor conforme a lo establecido en el artículo Tercero Transitorio del Decreto por el que se Declara reformado el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, en materia de prisión preventiva oficiosa, publicado en el Diario Oficial de la Federación, el 12 de febrero de 2019.
+
+P.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 305.- SE REFORMAN EL ARTÍCULO 341, EL ARTÍCULO 343, Y SE ADICIONA EL ARTÍCULO 343 BIS, DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
