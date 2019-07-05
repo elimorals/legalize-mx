@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2019-06-04"
+last_updated: "2019-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE JULIO DE 2019.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1799,13 +1799,33 @@ II. Que el responsable fuere ascendiente, descendiente, adoptante, adoptado, her
 
 III. Que el responsable tenga bajo su custodia, guarda o educación a la víctima;
 
-> <small>(REFORMADA, G.O. 20 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, G.O. 5 DE JULIO DE 2019)</small>
 
-IV. Que se cometa por quien desempeñe un empleo, cargo o comisión públicos, o en ejercicio de una profesión, empleo o ministerio religioso, utilizando los medios o circunstancias que ello le proporciona; o
+IV. Que se cometa por quien desempeñe un empleo, cargo o comisión públicos, o en ejercicio de una profesión, empleo o ministerio religioso, utilizando los medios o circunstancias que ello le proporciona;
 
-> <small>(ADICIONADA, G.O. 20 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, G.O. 5 DE JULIO DE 2019)</small>
 
-V. Que se obligue a la víctima a consumir, o se le suministre sin su consentimiento, drogas, estupefacientes, psicotrópicos o cualquier otra sustancia tóxica que imposibilite su defensión de manera total, parcial, momentánea o permanente.
+V. Que se obligue a la víctima a consumir, o se le suministre sin su consentimiento, drogas, estupefacientes, psicotrópicos o cualquier otra sustancia tóxica que imposibilite su defensión de manera total, parcial, momentánea o permanente;
+
+> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2019)</small>
+
+VI. Que el sujeto activo se aproveche de la confianza, ignorancia, extrema necesidad económica o alimentaria o subordinación de la víctima, o de la relación de superioridad o de cualquier índole que sobre ésta tenga;
+
+> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2019)</small>
+
+VII. Que se realice en vehículos de transporte público de pasajeros o cualquier otro que preste servicios similares;
+
+> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2019)</small>
+
+VIII. Que el responsable allane el domicilio de la víctima;
+
+> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2019)</small>
+
+IX. Que el sujeto activo lo cometa en lugares despoblados o solitarios; o
+
+> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2019)</small>
+
+X. Que se lleve a cabo al interior de instituciones educativas o en establecimientos públicos o privados en los que se preste el servicio de auxilio o refugio de personas, en ambos casos si es cometido por personal de las mismas.
 
 Además de las sanciones arriba señaladas, en los casos respectivos, el responsable perderá la patria potestad o la tutela, así como el derecho de heredar, por ley, del ofendido.
 
@@ -1933,7 +1953,9 @@ La pederastia se considerará agravada si:
 
 I. Se cometiere por dos o más personas;
 
-II. El sujeto activo del delito tuviere relación de parentesco de cualquier tipo o grado con la víctima, o fuere concubina, concubinario, amasia, amasio o pareja sentimental del padre o de la madre del sujeto pasivo; o si éste se encuentra bajo la dependencia, tutela, curatela, guarda o custodia de aquél por cualquier otro motivo;
+> <small>(REFORMADA, G.O. 5 DE JULIO DE 2019)</small>
+
+II. El sujeto activo del delito tuviere relación de parentesco de cualquier tipo o grado con la víctima, o fue o haya sido concubina, concubinario, amasia, amasio o pareja sentimental del padre o de la madre del sujeto pasivo; o si éste se encuentra bajo la dependencia, tutela, curatela, guarda o custodia de aquél por cualquier otro motivo;
 
 III. El sujeto activo del delito tuviere una relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole con la víctima, o desempeñare un ministerio religioso, cargo o comisión públicos o una profesión o empleo, y hubiese utilizado los medios o circunstancias que ello le proporcionaba para cometer el delito;
 
@@ -1941,13 +1963,29 @@ III. El sujeto activo del delito tuviere una relación docente, religiosa, labor
 
 IV. El sujeto activo se aproveche de la confianza, ignorancia, extrema necesidad económica o alimentaria o subordinación de la víctima, o de la relación de superioridad o de cualquier índole que sobre ésta tenga;
 
-> <small>(REFORMADA, G.O. 20 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, G.O. 5 DE JULIO DE 2019)</small>
 
-V. El sujeto activo hubiese contactado y propuesto a la víctima mediante el uso de internet, telefonía o de cualquier otra tecnología de la información y la comunicación, un encuentro para cometer este delito; o
+V. El sujeto activo hubiese contactado y propuesto a la víctima mediante el uso de internet, telefonía o de cualquier otra tecnología de la información y la comunicación, un encuentro para cometer este delito;
 
-> <small>(ADICIONADA, G.O. 20 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, G.O. 5 DE JULIO DE 2019)</small>
 
-VI. Si el sujeto activo obliga a la víctima a consumir, o le suministra sin su consentimiento, drogas, estupefacientes, psicotrópicos o cualquier otra sustancia tóxica que imposibilite su defensión de manera total, parcial, momentánea o permanente.
+VI. Si el sujeto activo obliga a la víctima a consumir, o le suministra sin su consentimiento, drogas, estupefacientes, psicotrópicos o cualquier otra sustancia tóxica que imposibilite su defensión de manera total, parcial, momentánea o permanente;
+
+> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2019)</small>
+
+VII. Si el sujeto activo lo lleva a cabo en vehículos de transporte público de pasajeros o en cualquier otro que preste servicios similares;
+
+> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2019)</small>
+
+VIII. Si el sujeto activo allana el domicilio de la víctima;
+
+> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2019)</small>
+
+IX. Si el sujeto activo lo comete en lugares despoblados o solitarios; o
+
+> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2019)</small>
+
+X. Si el sujeto activo lo comete al interior de una institución educativa en la que labore o en establecimientos públicos o privados en los que se preste el servicio de auxilio o refugio de personas, si forma parte del personal de los mismos.
 
 En estos supuestos, se impondrán al activo de doce a cuarenta años de prisión y multa de hasta cinco mil días de salario.
 
@@ -3475,7 +3513,7 @@ Se impondrán las mismas sanciones que señala el artículo anterior al servidor
 
 Se impondrán de dos a ocho años de prisión y multa hasta de doscientos días de salario al servidor público que ilegalmente ordene o ejecute un acto o inicie un procedimiento, en beneficio propio o ajeno o en perjuicio de alguien.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
+((REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)
 
 ###### Artículo 318.
 
@@ -5146,3 +5184,11 @@ G.O. 4 DE JUNIO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 264 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
