@@ -4,7 +4,7 @@ identifier: "SIN-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-132197
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-12-19"
-last_updated: "2018-12-19"
+last_updated: "2019-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132197&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL Y MUNICIPAL ANTICORRUPCIÓN DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
 
 Estatuto publicado al Número 155 del Periódico Oficial del Estado de Sinaloa, el miércoles 19 de diciembre de 2018.
 
@@ -37,7 +37,7 @@ CONSIDERANDO
 
 Que el Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Estatal y Municipal Anticorrupción del Estado de Sinaloa, en la Primera Sesión Extraordinaria celebrada el día 11 de diciembre de 2018, aprobó y expidió mediante ACUERDO/OG/004/2018, el Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal y Municipal Anticorrupción del Estado de Sinaloa; acordándose su publicación en el Periódico Oficial “El Estado de Sinaloa”, instruyendo para tal efecto, al Secretario Técnico de la Secretaría Ejecutiva del Sistema Estatal y Municipal Anticorrupción del Estado de Sinaloa y Secretario del Órgano de Gobierno; en los términos siguientes
 
-ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL Y MUNICIPAL ANTICORRUPCIÓN DEL ESTADO SINALOA
+ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL Y MUNICIPAL ANTICORRUPCIÓN DEL ESTADO (SIC) SINALOA
 
 ## TÍTULO I
 
@@ -275,9 +275,11 @@ Para la celebración de las sesiones, la convocatoria deberá ir acompañada del
 
 Si la reunión convocada no pudiera llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco días hábiles siguientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2019)</small>
+
 ###### Artículo 21.
 
-Para poder sesionar válidamente, la Comisión Ejecutiva requerirá de la asistencia de por lo menos tres miembros del Comité de Participación Ciudadana que lo integran.
+La Comisión Ejecutiva sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus integrantes y siempre que el Secretario Técnico esté presente.
 
 Los miembros del Comité de Participación Ciudadana podrán participar en las sesiones de la Comisión Ejecutiva vía remota, lo que deberá ser asentado en el acta que al efecto se levante, misma que deberá contener los acuerdos y determinaciones de la enunciada comisión; la cual se perfeccionará con la firma autógrafa de los participantes.
 
@@ -928,3 +930,13 @@ Es dado en la ciudad de Culiacán Rosales, Sinaloa, a los diecisiete días del m
 SECRETARIO TÉCNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL Y MUNICIPAL ANTICORRUPCIÓN DE ESTADO DE SINALOA Y SECRETARIO DEL ÓRGANO DE GOBIERNO
 
 MTRO. FRANCISCO JAVIER LIZÁRRAGA VALDEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMA EL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL Y MUNICIPAL ANTICORRUPCIÓN DEL ESTADO (SIC) SINALOA”.]
+
+Artículo Primero. El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+Artículo Segundo. El presente Acuerdo deberá inscribirse en el Registro Público de Entidades Paraestatales, dentro de los treinta días naturales siguientes a la fecha de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
