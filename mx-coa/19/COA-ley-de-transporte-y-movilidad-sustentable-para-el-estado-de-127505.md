@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transporte-y-movilidad-sustentable-para-el-estado-de-127
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-10"
-last_updated: "2018-12-21"
+last_updated: "2019-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TRANSPORTE Y MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 10 de noviembre de 2017.
 
@@ -3159,6 +3159,24 @@ V. En el caso de personas morales, se deberá también acreditar, la personalida
 
 Lo anterior, con independencia de los demás requisitos necesarios para el trámite de placas.
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2019)</small>
+
+ARTÍCULO 258 BIS. Las autoridades de salud se coordinarán con las de transporte y recaudación en el Estado para la expedición de permisos temporales de estacionamiento para las personas que tengan alguna discapacidad motora de manera temporal y, en virtud de su condición de discapacidad temporal, no necesariamente requieran de placas especiales para personas con discapacidad.
+
+El permiso temporal consistirá en la expedición de un gancho colgante para el retrovisor de automóviles, el cual permitirá el uso de estacionamientos exclusivos para personas con discapacitad (sic) motora.
+
+El permiso temporal para estacionamiento por discapacidad motora tendrá una vigencia no mayor de ciento ochenta días contados a partir del día siguiente al de su expedición.
+
+Los requisitos necesarios para solicitar el permiso temporal para estacionamiento por discapacidad motora son:
+
+I. Constancia expedida por médico tratante con una antigüedad no mayor de cuarenta y cinco días, en hoja membretada con el nombre del médico, firma, número de cédula profesional y, en su caso, cédula de especialista, en la que indique diagnóstico del paciente, así como el plazo aproximado por el cual se encontrará bajo la condición de discapacidad motora temporal.
+
+El médico tratante que falsee datos, con el fin de que un tercero obtenga el permiso temporal para estacionamiento por discapacidad motora, será responsable en los términos de las disposiciones penales y demás que resulten aplicables al ejercicio de su profesión.
+
+II. Comprobante de domicilio con una antigüedad no mayor de noventa días.
+
+III. Realizar el pago de derechos correspondiente.
+
 ###### ARTÍCULO 259.
 
 Cualquier vehículo que cuente con la documentación de identificación a que hace referencia el artículo 256 de la presente Ley, expedidos en el Estado o en otra entidad federativa, podrá circular libremente en el mismo; por tanto, las corporaciones policiales estatales o municipales, no deberán interrumpir o suspender la circulación a ningún vehículo, salvo en los casos de infracciones flagrantes; por la aplicación de alguna medida de seguridad; por orden judicial; por los programas de prevención de accidentes relacionados con la ingesta de alcohol y estupefacientes, y de las expresamente previstas en este ordenamiento.
@@ -4009,6 +4027,10 @@ En la comisión de las infracciones establecidas en la presente Ley, se consider
 
 En caso de reincidencia dentro del período de un año se duplicará la multa. Para los efectos de esta Ley, se entiende por reincidencia la comisión de las infracciones previstas en la misma en dos ocasiones o más, en un plazo de tres meses.
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2019)</small>
+
+ARTÍCULO 335 BIS. La utilización de cajones de estacionamiento, que para su fácil identificación deberán señalizarse con franjas, símbolos y letreros, tanto a nivel de piso, como verticales, destinados a vehículos que transporten personas con discapacidad sin contar con las placas y permisos a que se refieren los artículos 258 y 258 bis de la presente Ley, se sancionará de acuerdo a lo previsto por los reglamentos municipales en la materia. En caso de que algún municipio del Estado no cuente con su propio ordenamiento, se sancionará con multa de cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+
 ###### ARTÍCULO 336.
 
 Al imponer una sanción, la autoridad competente fundará y motivará la resolución, considerando para tal efecto:
@@ -4440,3 +4462,17 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 TERCERO.- Los permisionarios y concesionarios del transporte público de pasajeros o de carga, contarán con un plazo que no excederá del primero de enero del año dos mil veinte, para cumplir con la antigüedad que establece la presente Ley para los vehículos afectos a la prestación del servicio, siempre que la unidad respectiva cuente con las condiciones físico mecánicas y de seguridad que la modalidad del servicio requiere para su adecuado funcionamiento y garantía de la seguridad de los usuarios
+
+P.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 296.- SE MODIFICA EL ARTÍCULO 257 Y SE ADICIONAN LOS ARTÍCULOS 258 BIS, 258 BIS 1, 259 BIS Y 259 BIS 1 A LA LEY ESTATAL DE SALUD; SE ADICIONAN LOS ARTÍCULO (SIC) 258 BIS, 258 BIS (SIC) 335 BIS A LA LEY DE TRANSPORTE Y MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Secretaría de Salud deberá adecuar en sus gestiones relacionadas con la emisión del Certificado de Discapacidad, los lineamientos que, para tal efecto emita el Sector Salud del Gobierno Federal, así como observar lo dispuesto en las Normas Oficiales Mexicanas correspondientes.
+
+TERCERO.- La Secretaría de Salud, en coordinación con la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad y la Administración Fiscal General del Gobierno del Estado de Coahuila de Zaragoza, deberán realizar las gestiones necesarias para la implementación y emisión del permiso temporal de estacionamiento por discapacidad motora, en un plazo de hasta ciento ochenta días naturales contados a partir de la entrada en vigor del presente decreto.
+
+CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las dependencias y entidades involucradas para el ejercicio fiscal respectivo y subsecuentes.
+
+QUINTO.- Se dejan sin efectos las disposiciones que se opongan a lo previsto en el presente decreto.
