@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2019-01-15"
+last_updated: "2019-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -399,11 +399,11 @@ XIII.- Vigilar en el ámbito de su competencia el debido cumplimiento de las nor
 
 XIV.- Las demás que las disposiciones legales le atribuyan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 10.
 
-Además, la Secretaría, tendrá las siguientes atribuciones:
+Además, la Secretaría tendrá las siguientes atribuciones:
 
 I.- Vigilar el debido cumplimiento de las disposiciones legales en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico;
 
@@ -429,7 +429,9 @@ VIII.- Promover ante las instancias competentes, la elaboración de los planes y
 
 IX.- Brindar asesoría a las dependencias y entidades de la Administración Pública Estatal en materia de ecología y, en su caso, previa solicitud, a los ayuntamientos de la entidad;
 
-X.- Conducir la política estatal de información y difusión en materia ambiental;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2019)</small>
+
+X.- Conducir la política estatal de información y difusión en materia ambiental, dirigida a una educación ambiental y la cultura del reciclaje entre comercios, empresas y negocios mercantiles.
 
 XI.- Establecer o, en su caso, crear y administrar museos, zonas de demostración, zoológicos, jardines botánicos y otras instalaciones o exhibiciones similares;
 
@@ -523,11 +525,11 @@ XXXVIII. Vigilar que los establecimientos comerciales y restaurantes cumplan con
 
 XXXIX. Las demás que las disposiciones legales le atribuyan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 11.
 
-Para los efectos de lo dispuesto en esta ley, los ayuntamientos tendrán las siguientes atribuciones:
+Para lo dispuesto en esta ley, los ayuntamientos tendrán las siguientes atribuciones:
 
 I.- Formular, conducir y evaluar la política ambiental municipal, en congruencia con la política estatal sobre la materia;
 
@@ -535,7 +537,11 @@ II.- Aplicar los instrumentos de la política ambiental previstos en las disposi
 
 III.- Llevar a cabo la preservación y restauración del equilibrio ecológico y la protección al ambiente en bienes y zonas de jurisdicción municipal, en las materias que no estén expresamente atribuidas a la Federación o al Estado;
 
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2019)</small>
+
 IV.- Aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como de emisiones de contaminantes a la atmósfera provenientes de fuentes móviles que no sean consideradas de jurisdicción federal o estatal, con la participación que de acuerdo a la presente ley corresponda al estado;
+
+Los establecimientos mercantiles o de servicios deberán apegar sus acciones de producción con el cuidado del medio ambiente, implementando medidas de prevención y atención a la problemática ambiental que sus procesos diarios pudieran generar.
 
 V.- Aplicar las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos municipales e industriales que no estén considerados como peligrosos;
 
@@ -1833,11 +1839,13 @@ II.- Que la obligación de prevenir y, en su caso, controlar la contaminación d
 
 III.- Que las emisiones, descargas, infiltración o depósito de contaminantes, sean de fuentes naturales o artificiales, fijas o móviles, deben ser reducidas y controladas para asegurar la calidad de vida y el bienestar de la población, así como para evitar daños a los diversos elementos que conforman los ecosistemas.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 99.
 
 La Secretaría, en coordinación con las dependencias y entidades de la Administración Pública Estatal, y las autoridades municipales, en sus respectivos ámbitos de competencia, deberán llevar un registro integrado por la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, aguar (sic) suelo y subsuelo, materiales y residuos así como de aquellas sustancias que determinen las autoridades competentes. Dicho registro será operado y administrado por la Secretaría de Medio Ambiente y Recursos Naturales.
+
+Los giros mercantiles como restaurantes, bares y similares deberán, aplicar un proceso para la separación de los desechos orgánicos e inorgánicos, independientemente del material utilizado para su fabricación, de las botellas o envases plásticos que se utilicen en sus negocios y/o procesos productivos.
 
 ###### ARTICULO 100.
 
@@ -3238,3 +3246,11 @@ Así también deberá expedir una norma técnica ecológica ambiental, cuya elab
 Cuarto.- Los ayuntamientos del estado en un plazo no mayor de seis meses siguientes a la entrada en vigor del presente decreto, deberán adecuar sus reglamentos en materia ambiental para efectos de armonizarlos a las dispocisiones (sic) contenidas en el presente y expedir los programas municipales de sustitución de bolsas plásticas y contenedores de poliestireno expandido para fines de envoltura, transportación, carga o traslado de alimentos y bebidas, así como de popotes plásticos.
 
 Quinto.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 5 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 295.- SE REFORMAN EL ARTÍCULO 10 FRACCIÓN X, ARTÍCULO 11 FRACCIÓN IV Y ARTICULO 99 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
