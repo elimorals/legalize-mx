@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-130617"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-09-05"
-last_updated: "2019-06-12"
+last_updated: "2019-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2019.
 
 Reglamento publicado en el Suplemento 2 al Número 71 del Periódico Oficial del Estado de Zacatecas, el miércoles 5 de septiembre de 2018.
 
@@ -1653,6 +1653,30 @@ En estas comparecencias, los servidores públicos deberán proporcionar oportuna
 
 Las reuniones de trabajo o de información podrán ser convocadas por las comisiones legislativas, especiales o por la Comisión Permanente.
 
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2019)</small>
+
+###### Artículo 197 Bis.
+
+Durante la comparecencia de los servidores públicos, las diputadas y diputados podrán solicitar información a aquéllos mediante preguntas parlamentarias, en los términos siguientes:
+
+I. Para la formulación de la pregunta parlamentaria en el Pleno, los diputados y diputadas formularán sus preguntas por escrito, de forma concisa para permitir una respuesta directa del servidor público;
+
+II. El Presidente de la Mesa Directiva recibirá las preguntas de las diputadas y diputados y en un plazo no mayor a cinco días presentará al Pleno una propuesta de acuerdo en la que se establezca el número total y el texto de las preguntas admitidas;
+
+III. Aprobado el acuerdo, el Presidente hará llegar al servidor público que corresponda las preguntas;
+
+IV. Los servidores públicos cuestionados deberán responder en un plazo no mayor a siete días contados a partir de la recepción del acuerdo;
+
+V. Las respuestas que los servidores públicos envíen a la Mesa Directiva se harán del conocimiento del Pleno y se publicarán en la Gaceta Legislativa y en la página de internet de la Legislatura, asimismo se turnarán a las comisiones relacionadas con la materia de que se trate;
+
+VI. Las comisiones a las que se hayan turnado las respuestas de los servidores públicos tendrán un plazo de hasta quince días, contados a partir de la recepción del turno por parte de la Mesa Directiva, para formular conclusiones y, en su caso, las recomendaciones que correspondan;
+
+VII. Las conclusiones o recomendaciones de las comisiones, derivadas del análisis y valoraciones de las respuestas de los servidores públicos se enviarán a la Comisión de Régimen Interno y Concertación Política para su conocimiento y a la Mesa Directiva para que dé cuenta al Pleno;
+
+VIII. El Presidente enviará al titular del Poder Ejecutivo las conclusiones o recomendaciones de las comisiones una vez que haya dado cuenta al Pleno, y
+
+IX. Si el servidor público no contesta la pregunta o no satisface la solicitud de información, los diputados podrán acudir en queja ante el titular del Poder Ejecutivo, a través del Presidente.
+
 ###### Artículo 198.
 
 Las comparecencias, reuniones de trabajo o de información, podrán desarrollarse, bajo el siguiente formato, sin perjuicio de establecer reglas adicionales acordadas por la Comisión de Régimen Interno o la comisión legislativa, según corresponda:
@@ -2039,11 +2063,15 @@ Para ser Secretario General se requiere:
 
 I. Ser preferentemente ciudadano zacatecano en pleno ejercicio de sus derechos políticos y civiles y tener cuando menos treinta y cinco años el día de la designación;
 
-II. Contar, con una antigüedad mínima de diez años, con título y cédula profesional, preferentemente de licenciado en derecho, expedido por la institución legalmente facultada para ello;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2019)</small>
+
+II. Contar, con título y cédula profesional, preferentemente de licenciado en derecho, expedido por la institución legalmente facultada para ello;
 
 III. Acreditar conocimientos y experiencia suficiente para desempeñar el cargo;
 
-IV. No haber sido, durante los cinco años anteriores al día del nombramiento, miembro de la dirigencia nacional, estatal o municipal de un partido político;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2019)</small>
+
+IV. No ser miembro de un comité nacional, estatal o municipal o su equivalente, cuando menos tres años antes al día del nombramiento;
 
 V. No tener parentesco de consanguinidad hasta el tercer grado con los diputados a la Legislatura, el Gobernador o el Presidente del Tribunal Superior de Justicia del Estado, y
 
@@ -2756,3 +2784,17 @@ P.O. 12 DE JUNIO DE 2019.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo Segundo. En un plazo que no exceda de cinco días naturales, contados a partir de la publicación del presente Decreto, los Grupos Parlamentarios deberán ratificar o en su caso remover a los legisladores que integren la Comisión de Régimen Interno y Concertación Política y la Comisión de Planeación, Patrimonio y Finanzas, y que se encuentren en los supuestos legales señalados en la reforma de mérito, en términos del presente instrumento legislativo.
+
+P.O. 6 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 142.- POR EL QUE SE ADICIONA EL ARTÍCULO 197 BIS DEL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 6 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 144.- SE REFORMAN LAS FRACCIONES II Y IV DEL ARTÍCULO 244 DEL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
