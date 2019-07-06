@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2019-05-15"
+last_updated: "2019-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2019.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -2425,9 +2425,33 @@ VI. Un Vocal, que será un elemento de la Policía Preventiva, con voz y voto; y
 
 VII. Un Vocal, que será un elemento de Vialidad y Tránsito, con voz y voto.
 
-En aquellos municipios que no tengan a su cargo la función de vialidad y tránsito, el Presidente de la Comisión tendrá voto de calidad.
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2019)</small>
 
-Los Vocales serán designados por el titular de la unidad administrativa u operativa a que pertenezcan. Todos ellos deberán ser de probada experiencia, reconocida solvencia moral o destacados en su función.
+VIII. Una vocalía, que será quien ocupe la titularidad de la Comisión de Seguridad Pública del Honorable Ayuntamiento, con voz y voto;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2019)</small>
+
+IX. Una vocalía, que será una persona que represente a los organismos empresariales, con voz y voto;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2019)</small>
+
+X. Una vocalía, que será una persona de la sociedad civil con conocimiento y experiencia en los temas de seguridad pública, con voz y voto;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2019)</small>
+
+XI. En aquellos municipios que no tengan a su cargo la función de Vialidad y Tránsito, una vocalía, que será una persona del sector académico de reconocida trayectoria.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2019)</small>
+
+La persona que ocupe la presidencia de la Comisión, tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2019)</small>
+
+Las vocalías enunciadas en las fracciones III a la VII de este artículo, serán designadas por la persona que ocupe la titularidad de la unidad administrativa u operativa a la que pertenezcan. Todas estas personas deberán ser de probada experiencia, reconocida solvencia moral o destacadas en su función.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2019)</small>
+
+Las vocalías enunciadas en las fracciones IX a la XI de este artículo, serán designadas por el Honorable Ayuntamiento, mediante votación por cédula, por el voto de cuando menos las dos terceras partes de las y los presentes, a propuesta en terna.
 
 ###### Artículo 195.
 
@@ -3820,3 +3844,15 @@ P.O. 15 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0332/2019 II P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/0356/2019 II P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES Y UN PÁRRAFO AL ARTÍCULO 194, DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los ayuntamientos tendrán un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, para elaborar la reglamentación que sustente el procedimiento de designación de las vocalías referidas en el último párrafo del artículo 194 de la Ley del Sistema Estatal de Seguridad Pública.
