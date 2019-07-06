@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-133097"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-22"
-last_updated: "2019-05-18"
+last_updated: "2019-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2019
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2019.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el sábado 22 de diciembre de 2018.
 
@@ -1891,15 +1891,21 @@ a) Maniobras de grúa dentro del patio: $101.00
 
 b) Toma de calcas, por cada vehículo: $66.00
 
-c) A los proveedores del servicio de grúas y
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2019)</small>
 
-transportistas que ingresen a sus áreas de
+c) Al propietario de cualquier unidad o bien
 
-depósitos para retirar unidades, partes de
+mueble que se encuentre en los depósitos
 
-las mismas, o realizar movimientos o maniobras
+a cargo de la Secretaría de Administración,
 
-de cualquier bien mueble en depósito: $167.00
+al cual se le haya prestado el servicio de retiro
+
+total o de partes, o de movimientos o maniobras,
+
+por parte de los proveedores de grúas y
+
+transportistas: $167.00
 
 III. A los vehículos de servicio particular adaptados para personas con capacidades diferentes inscritos ante el Sistema para el Desarrollo Integral de las Familias del Estado, se les otorgará un descuento del 50% por ciento.
 
@@ -3378,3 +3384,9 @@ P.O. 18 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27281/LXII/19 QUE REFORMA EL ARTÍCULO 49, INCISO C) DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2019".]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27298/LXII/19 MEDIANTE AL CUAL SE REFORMA EL ARTÍCULO 25 FRACCIÓN II, INCISO C), DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2019".]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
