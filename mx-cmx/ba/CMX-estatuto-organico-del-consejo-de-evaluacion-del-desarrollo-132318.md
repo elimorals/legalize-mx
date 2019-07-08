@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-consejo-de-evaluacion-del-desarrollo-1323
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-01-15"
-last_updated: "2019-01-15"
+last_updated: "2019-07-08"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132318&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2018-01-09"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO DE EVALUACION DEL DESARROLLO SOCIAL DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL AVISO POR EL CUAL SE DA A CONOCER EL ENLACE ELECTRÓNICO PARA LA CONSULTA DEL ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 8 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
+
 ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE JULIO DE 2019 (SIN EFECTOS).
 
 Estatuto publicado en la Gaceta Oficial de la Ciudad de México, el martes 15 de enero de 2019.
 
@@ -755,3 +757,15 @@ Ciudad de México a los veinticuatro días del mes de diciembre de dos mil dieci
 DRA. ARACELI DAMIÁN GONZÁLEZ
 
 Directora General del Consejo de Evaluación del Desarrollo Social de la Ciudad de México
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 8 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DA A CONOCER EL ENLACE ELECTRÓNICO PARA LA CONSULTA DEL ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México para su difusión.
+
+SEGUNDO. El presente aviso entrará en vigor a partir de su publicación en (sic) Gaceta, dejando sin efectos el publicado en fecha 15 de enero de 2019.
+
+TERCERO. La responsable del enlace electrónico es María Amalia Calvache Santacruz, Coordinadora de Administración y Finanzas, quien se encuentra en el teléfono: 56631419.
