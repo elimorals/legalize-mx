@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-para-la-asignacion-de-becas-financiamiento-130315"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-08-20"
-last_updated: "2018-08-20"
+last_updated: "2019-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130315&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO PARA LA ASIGNACIÓN DE BECAS, FINANCIAMIENTO EDUCATIVO Y ESTÍMULOS, DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2019.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de agosto de 2018.
 
@@ -33,7 +33,7 @@ El CONSEJO INTERIOR DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES, con las facul
 
 EXPOSICIÓN DE MOTIVOS
 
-[…]
+[...]
 
 Por lo anteriormente expuesto, este H. Consejo Interior del Instituto de Educación eje Aguascalientes expide el siguiente:
 
@@ -95,13 +95,17 @@ VI. Las demás que le confiera la normatividad aplicable.
 
 El IEA, a través de la Dirección de Becas y Financiamiento Educativo, manejara programas de becas, financiamiento educativo y estímulos, bajo los principios de equidad, sustentabilidad, transparencia y combate a la corrupción, y gobernanza y participación ciudadana, con el objeto de garantizar el cumplimiento de los objetivos planteados en la Ley de Educación del Estado de Aguascalientes, la Ley del Instituto de Educación de Aguascalientes, el Reglamento Interior, y demás disposiciones legales aplicables.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2019)
+
 ###### ARTÍCULO 7°.
 
 La Dirección de Becas y Financiamiento Educativo, deberá gestionar, supervisar y otorgar las becas, los financiamientos educativos y estímulos, en las siguientes modalidades:
 
 I. Becas Académicas: aquellas que se otorgan a los estudiantes de escuelas particulares incorporadas al IEA, de conformidad con el Reglamento de Becas Académicas para el Estado de Aguascalientes;
 
-II. Becas Compensatorias: aquellas destinadas a estudiantes de educación primaria, secundaria, media superior de escuelas públicas;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2019)</small>
+
+II. Becas Compensatorias: aquellas destinadas a estudiantes de educación primaria, secundaria, media superior y superior de escuelas públicas;
 
 III. Becas Talento Deportivo: aquellas destinadas a estudiantes de educación primaria, secundaria, media superior; de escuelas públicas;
 
@@ -143,9 +147,11 @@ Los requisitos para aspirar a una Beca Académica y su procedimiento de asignaci
 
 #### Sección Segunda. Becas Compensatorias
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 12.
 
-Las Becas Compensatorias serán el apoyo económico que se otorga al estudiante de educación primaria, secundaria y medía superior con vulnerabilidad económica para que realice sus estudios, a través de la entrega del pago de una aportación económica específica.
+Las Becas Compensatorias s0erán (sic) el apoyo económico que se otorga al estudiante de educación primaria, secundaria, media superior y superior con vulnerabilidad económica para que realice sus estudios, a través de la entrega del pago de una aportación económica específica.
 
 ###### ARTÍCULO 13.
 
@@ -227,11 +233,21 @@ II. Creciendo juntos.- programa dirigido a los alumnos económicamente vulnerabl
 
 III. Madres jóvenes creciendo.- programa dirigido a las madres jóvenes y jóvenes embarazadas que concluyeron sus estudios del nivel básico y hayan pertenecido al Programa Federal "PROMAJOVEN", para el estudio del nivel media superior;
 
-IV. Víctimas del delito.- programa dirigido a personas que hayan sufrido algún daño o menoscabo económico, físico, mental, emocional, o en general cualquiera puesta en peligro o lesión a sus bienes jurídicos o derechos como consecuencia de la comisión de un delito o violaciones a sus derechos humanos o sus hijos menores de edad, quienes tienen el derecho de recibir becas establecidas en la Ley General de Víctimas y la Ley de Educación de Aguascalientes;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2019)</small>
+
+IV. Estamos Contigo.- programa dirigido a personas que hayan sufrido algún daño o menoscabo económico, físico, mental, emocional, o en general cualquiera puesta en peligro o lesión a sus bienes jurídicos o derechos como consecuencia de la comisión de un delito o violaciones a sus derechos humanos o sus hijos menores de edad, quienes tienen el derecho de recibir becas establecidas en la Ley General de Víctimas y la Ley de Educación de Aguascalientes;
 
 V. Movilidad Académica en el Extranjero.- programa dirigido a aquellos alumnos que realizan estudios de educación superior y que desean tener una experiencia académica en el extranjero, para obtener herramientas intelectuales y tecnológicas para su desarrollo integral; y
 
 VI. Mejores Ellas... Mejores Todos.- programa dirigido para las alumnas que concluyen su educación básica y presentan condiciones económicas adversas y vulnerabilidad de género para iniciar sus estudios de educación media superior.
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2019)</small>
+
+VII. Tutor al 100.- programa dirigido para alumnos de nivel medio superior que ofrezcan tutorías a compañeros que se encuentren en riesgo de abandono escolar por bajo nivel académico, promoviendo así la continuidad de sus estudios y formación de alto desempeño académico.
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2019)</small>
+
+VIII. Apoyo a la permanencia.- programa dirigido para alumnos de nivel básico que se encuentren en condiciones de vulnerabilidad económica, que se encuentren en riesgo de abandono escolar.
 
 Lo anterior sin perjuicio de los programas piloto y los programas federales o estatales que sean puestos en marcha anualmente así como los convenios a los que sea sujeto el Estado a través del IEA.
 
@@ -466,3 +482,13 @@ C.P. CARLOS DE JESÚS MAGALLANES GARCÍA, Subsecretario de Egresos de la Secreta
 LIC. EFRÉN MARTÍNEZ COLLAZO, Director General Jurídico en Suplencia del Arq. José de Jesús Altamira Acosta, Secretario de Obras Públicas del Estado de Aguascalientes
 
 LIC. MIGUEL BESS- OBERTO DE LA FUENTE, Coordinador General Jurídico de la Coordinación de Planeación y Proyectos del Estado de Aguascalientes en suplencia del M. en D.U. Juan Ernesto Tello Ruíz, Coordinador General de Planeación y Proyectos del Estado de Aguascalientes
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS AL REGLAMENTO PARA LA ASIGNACIÓN DE BECAS, FINANCIAMIENTO EDUCATIVO Y ESTÍMULOS DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas al presente Reglamento entrará (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
