@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2019-05-09"
+last_updated: "2019-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-12-20"
 ---
 # LEY ORGANICA DEL CONGRESO DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE JULIO DE 2019.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -84,9 +86,13 @@ IV. Canal de Televisión: El Canal de Televisión del Congreso de la Ciudad de M
 
 V. Ciudad: La Ciudad de México;
 
-VI. Comisión: Es el órgano interno de organización, integrado por las y los Diputados que tiene por objeto el estudio, análisis y elaboración de dictámenes, iniciativas, proposiciones con punto de acuerdo, comunicaciones, informes, opiniones, resoluciones y acuerdos que contribuyen al mejor y más expedito desempeño de las funciones legislativas, políticas, administrativas, de fiscalización, de investigación y de cumplimiento de las atribuciones constitucionales y legales del Congreso, lo anterior dentro del procedimiento legislativo establecido en esta ley y el reglamento;
+> <small>(REFORMADA, G.O. 8 DE JULIO DE 2019)</small>
 
-VII. Comité: Es el órgano auxiliar interno de carácter administrativo integrado por las y los Diputados que tiene por objeto realizar tareas específicas y de apoyo a los órganos legislativos, diferentes a las de las Comisiones;
+VI. Comisión: Es el órgano interno de organización, integrado paritariamente por las Diputadas y Diputados que tiene por objeto el estudio, análisis y elaboración de dictámenes, iniciativas, proposiciones con punto de acuerdo, comunicaciones, informes, opiniones, resoluciones y acuerdos que contribuyen al mejor y más expedito desempeño de las funciones legislativas, políticas, administrativas, de fiscalización, de investigación y de cumplimiento de las atribuciones constitucionales y legales del Congreso, lo anterior dentro del procedimiento legislativo establecido en esta ley y el reglamento;
+
+> <small>(REFORMADA, G.O. 8 DE JULIO DE 2019)</small>
+
+VII. Comité: Es el órgano auxiliar interno de carácter administrativo integrado paritariamente por las Diputadas y Diputados que tiene por objeto realizar tareas específicas y de apoyo a los órganos legislativos, diferentes a las de las Comisiones;
 
 VIII. Conferencia: La Conferencia para la Dirección y Programación de los Trabajos Legislativos;
 
@@ -139,6 +145,12 @@ XXXI. Mayoría simple: Es el resultado de la suma de votos de las y los Diputado
 XXXII. Mesa Directiva: La Mesa Directiva del Congreso como Órgano de representación y dirección del Pleno;
 
 XXXIII. Orden del día: Es el listado de asuntos que formula la Mesa Directiva o la Junta Directiva para ser tratados en una sesión o reunión;
+
+> <small>(ADICIONADA, G.O. 8 DE JULIO DE 2019)</small>
+
+XXXIII Bis. Paridad: la paridad es un principio que tiene como finalidad generar los mecanismos que permitan el acceso de manera efectiva al ejercicio del poder público a mujeres y hombres en igualdad de condiciones, a efecto de fomentar la pluralidad y la inclusión en todos los órganos de gobierno del Poder Legislativo de la Ciudad de México.
+
+En la interpretación y aplicación del principio de paridad de género se atenderá la proporcionalidad, y en todo caso, se favorecerá a las mujeres como medida de acción afirmativa.
 
 XXXIV. Pleno: Es el máximo órgano de dirección del Congreso reunido conforme las reglas del quórum;
 
@@ -714,9 +726,11 @@ El Reglamento del Congreso regulará todo lo relativo a sesiones, debates y vota
 
 ### CAPÍTULO I. De su integración, duración y elección
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JULIO DE 2019)</small>
+
 ###### Artículo 26.
 
-El Congreso contará con una Mesa Directiva y una Junta de Coordinación Política que reflejarán en su composición la pluralidad y proporción de los Grupos Parlamentarios que integren al Pleno. Sus presidencias serán rotativas cada año y no podrán depositarse simultáneamente en representantes de mismo partido político. En ningún caso se podrán desempeñar cargos en la Junta y en la Mesa Directiva al mismo tiempo.
+El Congreso contará con una Mesa Directiva y una Junta de Coordinación Política que reflejarán en su composición la paridad, la pluralidad y proporción de los Grupos Parlamentarios que integren al Pleno. Sus presidencias serán rotativas cada año y no podrán depositarse simultáneamente en representantes de mismo partido político. En ningún caso se podrán desempeñar cargos en la Junta y en la Mesa Directiva al mismo tiempo.
 
 La Mesa Directiva del Congreso será electa por la mayoría de las y los Diputados presentes en el Pleno; se integrará con una o un Presidente, cuatro personas Vicepresidentes, dos personas Secretarias y dos personas Prosecretarios. Las y los integrantes de la Mesa Directiva durarán en sus funciones un año y solamente los Vicepresidentes y los Secretarios podrán ser reelectos.
 
@@ -827,6 +841,10 @@ La o el Presidente conduce las relaciones institucionales con el Congreso y las 
 La o el Presidente, al dirigir las sesiones, velará por el equilibrio entre las libertades de las y los legisladores y de los Grupos Parlamentarios, y la eficacia en el cumplimiento de las funciones constitucionales del Congreso; asimismo, hará prevalecer el interés general del Congreso por encima de los intereses particulares o de Grupo.
 
 La o el Presidente responderá sólo ante el Pleno cuando en el ejercicio de sus atribuciones se aparte de las disposiciones que los rigen
+
+> <small>(ADICIONADO, G.O. 8 DE JULIO DE 2019)</small>
+
+En la elección de la Presidencia de la Mesa Directiva se atenderá el principio de paridad
 
 ###### Artículo 32.
 
@@ -1070,11 +1088,11 @@ Las Coaliciones y Asociaciones Parlamentarias tendrán las mismas obligaciones y
 
 ### CAPÍTULO I. De su integración
 
-> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JULIO DE 2019)</small>
 
 ###### Artículo 45.
 
-Al inicio de la Legislatura se instalará la Junta de Coordinación Política la cual se integra con las y los Coordinadores y Vicecoordinadores de los Grupos, Coaliciones o Asociaciones Parlamentarias, representados en el Congreso de la Ciudad de México.
+Al inicio de la Legislatura se instalará la Junta de Coordinación Política la cual se integrará de manera paritaria con las Coordinadoras, Coordinadores y Vicecoordinadores de los Grupos, Coaliciones o Asociaciones Parlamentarias, representados en el Congreso de la Ciudad de México.
 
 Los votos de cada Grupo Parlamentario serán ponderados con relación al número de integrantes que éste tenga en el Congreso.
 
@@ -1226,9 +1244,11 @@ La Comisión Permanente del Congreso es el Órgano deliberativo que sesionará d
 
 El día que se decrete el periodo de receso del Congreso, el Pleno nombrará a la Comisión Permanente, misma que deberá instalarse en la fecha que acuerdo la Junta para este efecto y funcionar hasta el reinicio del periodo ordinario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JULIO DE 2019)</small>
+
 ###### Artículo 56.
 
-La Comisión Permanente será nombrada por mayoría de las y los Diputados presentes y estará conformada por el veinte por ciento de las y los integrantes del Congreso. Por cada Diputada o Diputado propietario se elegirá un suplente.
+La Comisión Permanente será nombrada por mayoría de las Diputadas y Diputados presentes y estará conformada por el veinte por ciento de las personas que integran el Congreso atendiendo el principio de paridad. Por cada Diputada o Diputado propietario se elegirá una o un suplente.
 
 Ésta se integrará de manera proporcional conforme al número que cada Grupo Parlamentario posea en el Pleno.
 
@@ -1338,9 +1358,11 @@ XXI. Las demás que le otorgue la Constitución Local, la presente ley y el regl
 
 ### CAPÍTULO I. De las Comisiones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JULIO DE 2019)</small>
+
 ###### Artículo 67.
 
-Las Comisiones son órganos internos de organización, integradas por las y los Diputados, constituidas por el Pleno, que tienen por objeto el estudio, análisis y elaboración de dictámenes, comunicaciones, informes, opiniones, resoluciones y acuerdos que contribuyen al mejor y más expedito desempeño de las funciones legislativas, políticas, administrativas, de fiscalización, de investigación y de cumplimiento de las atribuciones constitucionales y legales del Congreso, lo anterior dentro del procedimiento legislativo establecido en esta ley y el reglamento.
+Las Comisiones son órganos internos de organización, integradas paritariamente por las Diputadas y Diputados, constituidas por el Pleno, que tienen por objeto el estudio, análisis y elaboración de dictámenes, comunicaciones, informes, opiniones, resoluciones y acuerdos que contribuyen al mejor y más expedito desempeño de las funciones legislativas, políticas, administrativas, de fiscalización, de investigación y de cumplimiento de las atribuciones constitucionales y legales del Congreso, lo anterior dentro del procedimiento legislativo establecido en esta ley y el reglamento.
 
 El Congreso contará con el número de Comisiones ordinarias y especiales que requiera para el cumplimiento de sus funciones y atribuciones, las cuales se integrarán proporcionalmente al número de las y los Diputados que acuerde la Junta, sin que pueda exceder de nueve el número de sus integrantes, ni menor de cinco, salvo que la Junta acuerde por excepción y de manera justificada una integración diferente.
 
@@ -1350,9 +1372,11 @@ La Comisión de presupuesto podrá tener un número mayor de diez integrantes a 
 
 Para integrar el quórum correspondiente en las sesiones de las Comisiones, no será tomado en cuenta el número de las y los Diputados que las Coaliciones y los Grupos Parlamentarios hayan omitido nombrar, ni el número de las y los Diputados que omitan asistir a tres sesiones de manera consecutiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JULIO DE 2019)</small>
+
 ###### Artículo 68.
 
-La composición de las y los integrantes que conformaran las Juntas Directivas de las Comisiones será a propuesta de la Junta misma que deberá observar la representatividad de cada Grupo Parlamentario.
+La composición de las Diputadas y Diputados que conformarán las Juntas Directivas de las Comisiones será a propuesta de la Junta misma que deberá observar los principios de paridad y de representatividad de cada Grupo Parlamentario.
 
 Todos los Grupos Parlamentarios con representación en el Congreso, tendrán derecho al menos a una Presidencia de Comisión.
 
@@ -1618,9 +1642,11 @@ La Comisión o Comisiones dictaminadoras del Presupuesto de Egresos de la Ciudad
 
 ### CAPÍTULO II. De los Comités
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JULIO DE 2019)</small>
+
 ###### Artículo 90.
 
-Los Comités son órganos auxiliares internos de carácter administrativo, integrados por las y los Diputados, constituidos por el Pleno, a propuesta de la Junta que tienen por objeto realizar tareas específicas y de apoyo a los órganos legislativos, diferentes a las de las Comisiones.
+Los Comités son órganos auxiliares internos de carácter administrativo, integrados paritariamente por las Diputadas y Diputados, constituidos por el Pleno, a propuesta de la Junta que tienen por objeto realizar tareas específicas y de apoyo a los órganos legislativos, diferentes a las de las Comisiones.
 
 La o el Presidente de cada Comité tendrá en lo conducente, las obligaciones que se establecen para los Presidentes de las Comisiones Ordinarias, las decisiones se tomarán por mayoría de votos de sus integrantes presentes, y contarán con una Secretaría Técnica y el personal de apoyo legislativo que requieran conforme a la disponibilidad presupuestal bajo la dirección de la o el Presidente que apoyará los trabajos del mismo.
 
@@ -2655,3 +2681,13 @@ PRIMERO. El presente decreto entrará en vigor al momento de su aprobación por 
 SEGUNDO. Remítase a la Jefa de Gobierno de la Ciudad de México para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. A partir de la fecha de entrada en vigor del presente Decreto, todas las referencias que en los ordenamientos jurídicos se hagan a la Comisión de Desarrollo Social y Exigibilidad de Derechos Sociales, deberán entenderse hechas a la Comisión de Inclusión, Bienestar Social y Exigibilidad de Derechos Sociales
+
+G.O. 8 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VII, Y SE ADICIONA UNA FRACCIÓN XXXIII BIS AL ARTÍCULO 4; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 26; SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 31; Y SE REFORMAN LOS PÁRRAFOS PRIMEROS DE LOS ARTÍCULOS 45, 56, 67, 68 Y 90 DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO: El presente Decreto entrará en vigor el 1 de septiembre de 2021.
+
+SEGUNDO: Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO: Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente Decreto.
