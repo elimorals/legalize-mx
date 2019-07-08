@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-124168"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-10-27"
-last_updated: "2018-12-28"
+last_updated: "2019-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de octubre de 2017.
 
@@ -735,9 +735,13 @@ XXXVIII.- Expedir las disposiciones administrativas o reglas de carácter genera
 
 XXXIX.- Celebrar convenios con la Federación, Entidades del Ejecutivo o Municipios, que tengan por objeto radicar recursos provenientes de programas federales autorizados y transferidos a la autoridad paraestatal o municipal ejecutora del recurso. El mecanismo se establecerá conforme a lo acordado entre las partes en el convenio correspondiente, en el cual se podrá convenir lo referente a los recursos remanentes o no ejercidos, a efecto de que la Secretaria de Finanzas realice lo conducente; y
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2019)</small>
 
-XL.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
+XL.- Emitir la Opinión de Situación Fiscal de Cumplimiento de Obligaciones Estatales y de Existencia de Créditos Fiscales en Ingresos Coordinados en materia fiscal federal, y
+
+> <small>(ADICIONADA [N.DE E. REUBICADA], P.O. 8 DE JULIO DE 2019)</small>
+
+XLI.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN CUARTA. La Secretaría de Seguridad Pública
 
@@ -1817,13 +1821,13 @@ Para los efectos legales a que haya lugar, la Secretaría de la Juventud será s
 
 El Congreso del Estado a partir de la publicación del presente Decreto y a más tardar antes de su inicio de vigencia, deberá expedir la Ley que crea el Instituto de la Juventud del Estado de Aguascalientes.
 
-Hasta en tanto se expida el ordenamiento referido, seguirá vigente el Artículo 15, en su Fracción XVI, así como la Sección Décima Sexta denominada "De la Secretaría de la Juventud", y el Artículo 43 BIS de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicada el 28 de diciembre de 2010 en el Periódico Oficial del Estado.
+Hasta en tanto se expida el ordenamiento referido, seguirá vigente el Artículo 15, en su Fracción XVI, así como la Sección Décima Sexta denominada “De la Secretaría de la Juventud”, y el Artículo 43 BIS de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicada el 28 de diciembre de 2010 en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO CUARTO.
 
-El 31 de diciembre de 2018, el Instituto del Agua del Estado dejará de tener a su cargo las funciones atribuidas por el artículo 5º de la Ley de Agua para el Estado de Aguascalientes y, a partir del 1º de enero de 2019 conservará su personalidad jurídica exclusivamente para: 1. El seguimiento de las obligaciones a su cargo derivadas de la obra pública en proceso: "Reingeniería y rehabilitación de la Planta de Tratamiento de Aguas Residuales de La Ciudad de 2,000 L/S, Tercera Etapa, Aguascalientes", otorgada a través del contrato de obra pública a precio alzado número N59-2014 a favor de la empresa Operadora de Ecosistemas, S.A. de C.V.; 2. El seguimiento y atención a los requerimientos con motivo de las solicitudes para la devolución del Impuesto al Valor Agregado procedente a su favor y que ha promovido ante el Servicio de Administración Tributaria; 3. El pago a acreedores y el cobro de cuentas por cobrar que tenga pendientes; 4. La protocolización ante notario público del acuerdo de transferencia de los inmuebles del Instituto del Agua del Estado a favor del Gobierno del Estado de Aguascalientes; 5. La atención a las auditorías que se le practiquen, así como para dar seguimiento y solventar las observaciones de auditorías de ejercicios anteriores y presentación de denuncias que así procedan; contando para realizar dichas funciones con una plantilla laboral integrada únicamente por el Director General, además del Comisario Público, como órgano de vigilancia y del Consejo Directivo como Órgano de Gobierno; tendrá presupuesto asignado para el pago de salarios y para hacer frente a los compromisos de pago durante su extinción. El Director General notificará al Consejo Directivo el momento en el cual el Instituto del Agua del Estado esté listo para ser extinto y éste sesionará para revisar y aprobar la extinción mediante Acuerdo que será publicado en el Periódico Oficial del Estado de Aguascalientes a más tardar dentro de los quince días naturales siguientes a su emisión, quedando derogado en ese momento el Título Segundo de la Ley de Agua para el Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes en fecha 24 de julio de 2000, y extinto el Organismo Público Descentralizado del Gobierno del Estado denominado "Instituto del Agua del Estado".
+El 31 de diciembre de 2018, el Instituto del Agua del Estado dejará de tener a su cargo las funciones atribuidas por el artículo 5º de la Ley de Agua para el Estado de Aguascalientes y, a partir del 1º de enero de 2019 conservará su personalidad jurídica exclusivamente para: 1. El seguimiento de las obligaciones a su cargo derivadas de la obra pública en proceso: “Reingeniería y rehabilitación de la Planta de Tratamiento de Aguas Residuales de La Ciudad de 2,000 L/S, Tercera Etapa, Aguascalientes”, otorgada a través del contrato de obra pública a precio alzado número N59-2014 a favor de la empresa Operadora de Ecosistemas, S.A. de C.V.; 2. El seguimiento y atención a los requerimientos con motivo de las solicitudes para la devolución del Impuesto al Valor Agregado procedente a su favor y que ha promovido ante el Servicio de Administración Tributaria; 3. El pago a acreedores y el cobro de cuentas por cobrar que tenga pendientes; 4. La protocolización ante notario público del acuerdo de transferencia de los inmuebles del Instituto del Agua del Estado a favor del Gobierno del Estado de Aguascalientes; 5. La atención a las auditorías que se le practiquen, así como para dar seguimiento y solventar las observaciones de auditorías de ejercicios anteriores y presentación de denuncias que así procedan; contando para realizar dichas funciones con una plantilla laboral integrada únicamente por el Director General, además del Comisario Público, como órgano de vigilancia y del Consejo Directivo como Órgano de Gobierno; tendrá presupuesto asignado para el pago de salarios y para hacer frente a los compromisos de pago durante su extinción. El Director General notificará al Consejo Directivo el momento en el cual el Instituto del Agua del Estado esté listo para ser extinto y éste sesionará para revisar y aprobar la extinción mediante Acuerdo que será publicado en el Periódico Oficial del Estado de Aguascalientes a más tardar dentro de los quince días naturales siguientes a su emisión, quedando derogado en ese momento el Título Segundo de la Ley de Agua para el Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes en fecha 24 de julio de 2000, y extinto el Organismo Público Descentralizado del Gobierno del Estado denominado “Instituto del Agua del Estado”.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2018)</small>
 
@@ -1883,7 +1887,7 @@ ARTÍICULO (SIC) DÉCIMO CUARTO.- Cuando en esta Ley se dé una denominación di
 
 Al Ejecutivo para su promulgación y publicación.
 
-Dado en el Salón de Sesiones "Soberana Convención Revolucionaria de Aguascalientes", del Palacio Legislativo, a los veintiséis días del mes de octubre del año dos mil diecisiete.
+Dado en el Salón de Sesiones “Soberana Convención Revolucionaria de Aguascalientes”, del Palacio Legislativo, a los veintiséis días del mes de octubre del año dos mil diecisiete.
 
 Lo que tenemos el honor de comunicar a usted, para los efectos Constitucionales conducentes.
 
@@ -1978,3 +1982,31 @@ Con la entrada en vigor del presente Decreto, quedan sin efectos las disposicion
 ###### ARTÍCULO CUARTO.
 
 El Ejecutivo del Estado deberá proveer en la esfera administrativa para la exacta observancia del presente Decreto.
+
+P.O. 8 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 182.- ARTÍCULO PRIMERO.- SE EXPIDE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en (sic) al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Abroga la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes, expedida mediante el Decreto número 105 de la LVIII Legislatura, publicado en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de agosto de 2003, así como todas sus reformas, adiciones y modificaciones.
+
+###### ARTÍCULO TERCERO.
+
+En un término de 365 días naturales, el Poder Ejecutivo deberá realizar las adecuaciones necesarias en el Reglamento de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes, 29 de noviembre de 2005, a efecto de dar cumplimiento al objeto del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Mientras no se adecue y reforme el Reglamento de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes, publicado en el Periódico Oficial del Estado el día veintinueve de noviembre del dos mil cinco, se deberá entender que los artículos referidos en dicho ordenamiento a la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes en vigor se entenderán adecuados a los similares de la presente Ley, una vez que ésta entre en vigor.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos de contratación y ejecución de obra pública que se hayan comenzado bajo la vigencia de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes, que ahora se abroga en el Artículo Segundo Transitorio, se concluirán en su totalidad en aplicación de dicho ordenamiento.
+
+###### ARTÍCULO SEXTO.
+
+La Opinión de Situación Fiscal de Cumplimiento de Obligaciones Estatales, se entenderá a la Opinión de Situación Fiscal de Cumplimiento de Obligaciones Estatales y de Existencia de Créditos Fiscales en Ingresos Coordinados en materia fiscal federal, por lo que un plazo no mayor a 180 días hábiles, la Secretaría de Finanzas del Estado, realizará las adecuaciones necesarias, reglamentarias, administrativas e informáticas que deriven del presente Decreto, mientras tanto prevalecerá para trámites correspondientes en materia de adquisiciones, arrendamientos, servicios u obra pública la Opinión de Situación Fiscal de Cumplimiento de Obligaciones Estatales, que emita la Secretaría de Finanzas del Estado.
