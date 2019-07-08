@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2019-05-23"
+last_updated: "2019-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2019.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -1059,11 +1059,11 @@ Durará en su cargo el mismo término de la legislatura.
 
 En caso de sustitución, en cualquier momento se estará a lo dispuesto por los párrafos precedentes del presente artículo.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 98.
 
-El Congreso del Estado, a través del Presidente de la Junta de Gobierno y Coordinación Política, deberá rendir un informe anual de actividades en sesión solemne, en los últimos días del tercer periodo ordinario de sesiones de cada año, a la que se invite al Gobernador del Estado y al Magistrado Presidente del Tribunal Superior de Justicia, la cual se celebrará de conformidad con lo que se establezca en el Reglamento Interior.
+El Congreso del Estado, a través del Presidente de la Junta de Gobierno y Coordinación Política, deberá rendir un informe anual de actividades en sesión solemne, en los primeros diez días del mes de septiembre, a la que se invite al Gobernador del Estado y al Magistrado Presidente del Tribunal Superior de Justicia, la cual se celebrará de conformidad con lo que se establezca en el Reglamento Interior.
 
 ###### ARTÍCULO 99.
 
@@ -2820,3 +2820,11 @@ P.O. 23 DE MAYO DE 2019.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor hasta los noventa días siguientes de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 8 DE JULIO DE 2019.
+
+[N. DE E TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 98 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
