@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2019-05-28"
+last_updated: "2019-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE JULIO DE 2019.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -780,7 +780,7 @@ Las Comisiones responsables de la elaboración y desarrollo de todas y cada una 
 
 I. Para la Igualdad de Género, el Parlamento de las Mujeres;
 
-II. Para el Desarrollo de la Niñez en coordinación con la Secretaría de Educación y el Instituto Electoral ambos de la Ciudad de México, el Parlamento de las Niñas y los Niños,;
+II. Para el Desarrollo de la Niñez en coordinación con la Secretaría de Educación y el Instituto Electoral ambos de la Ciudad de México, el Parlamento de las Niñas y los Niños,; (sic)
 
 III. Derechos Humanos y Grupos Prioritarios, el Parlamento de las Personas con Discapacidad, y
 
@@ -4202,13 +4202,17 @@ l) Medalla al Mérito Policial;
 
 m) Medalla al Mérito Turístico "Embajador Turístico de la Ciudad de México"
 
-> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 8 DE JULIO DE 2019)</small>
 
 n) Medalla al Mérito Juvenil;
 
-> <small>(ADICIONADO, G.O. 28 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, G.O. 8 DE JULIO DE 2019)</small>
 
-ñ) Medalla al Mérito por la Defensa de las Víctimas.
+ñ) Medalla al Mérito por la Defensa de las Víctimas, y
+
+> <small>(ADICIONADO, G.O. 8 DE JULIO DE 2019)</small>
+
+o) Medalla al Mérito Internacional
 
 IV. En fondo opaco, el nombre de la persona condecorada y la disciplina, en su caso, y
 
@@ -4250,13 +4254,17 @@ XI. Comisión de Seguridad Ciudadana;
 
 XII. Comisión de Turismo;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 28 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, G.O. 8 DE JULIO DE 2019)</small>
 
-XIII. Comisión de Atención Especial a Víctimas, y
+XIII. Comisión de Atención Especial a Víctimas;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 28 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, G.O. 8 DE JULIO DE 2019)</small>
 
-XIV. Comisión de Deporte.
+XIV. Comisión de Deporte, y
+
+> <small>(ADICIONADA, G.O. 8 DE JULIO DE 2019)</small>
+
+XV. Comisión de Normatividad, Estudios y Prácticas Parlamentarias.
 
 ###### Artículo 372.
 
@@ -4838,11 +4846,35 @@ La Comisión de Atención Especial a Víctimas será responsable y encargada del
 
 La Medalla se otorgará en Sesión Solemne. El procedimiento para la entrega de la Medalla será de conformidad con los artículos 372, 373, 374, 375 y 376 del Reglamento.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 8 DE JULIO DE 2019)</small>
+
+#### Sección Décima Sexta. Medalla al Mérito Internacional
+
+> <small>(ADICIONADO, G.O. 8 DE JULIO DE 2019)</small>
+
+###### Artículo 451 Bis.
+
+El Congreso otorgará anualmente, la Medalla al Mérito Internacional, a las personas originarias de la Ciudad de México que se hayan distinguido por su trayectoria, servicio u acciones, a favor de las relaciones de amistad entre esta entidad y otras naciones, ciudades o comunidades extranjeras; de la cooperación internacional; de las políticas de acogida pro personas migrantes y, en general, de quienes con sus actos o emprendimientos hayan promovido el posicionamiento de la Ciudad de México en el entorno internacional, de conformidad con los principios que rigen la política exterior mexicana.
+
+La Medalla al Mérito Internacional se entregará a aquellas personas que tuvieron que abandonar la Ciudad de México y que siguieron aportando acciones, ideas, propuestas para beneficio de nuestro país y nuestra Ciudad, de conformidad con las siguientes distinciones:
+
+I. Acción emprendedora;
+
+II. Promoción cultural;
+
+III. Desarrollo o promoción de actividades artísticas;
+
+IV. Promoción o defensa de los derechos humanos de migrantes;
+
+V. Protección al Medio Ambiente;
+
+La Comisión de Normatividad, Estudios y Prácticas Parlamentarias será la responsable y encargada del procedimiento y entrega de la Medalla.
+
+La Medalla se otorgará en Sesión Solemne. El procedimiento para la entrega de la Medalla será de conformidad con los artículos 372, 373, 374, 375 y 376 del Reglamento.
+
 #### Sección Primera. Del Reconocimiento a las Mejores Tesis sobre la Ciudad de México
 
 #### Sección Segunda. Del Proceso de Elección de las y los Candidatos para la entrega de Reconocimientos
-
-#### Sección Primera. De la Coordinación de Servicios Parlamentarios
 
 ### CAPÍTULO III. De los Reconocimientos y Diplomas
 
@@ -4864,7 +4896,7 @@ II. En su texto deberá contener la leyenda "Congreso de la Ciudad de México, o
 
 III. Nombre y firma de quien suscribe.
 
-#### Sección Segunda. De la Oficialía Mayor
+#### Sección Primera. De la Coordinación de Servicios Parlamentarios
 
 ###### Artículo 454.
 
@@ -4896,7 +4928,7 @@ V. El acuerdo parlamentario será presentado ante el Pleno, y
 
 VI. La entrega de los reconocimientos se entregará cada año en la fecha y hora que determine la Junta.
 
-#### Sección Tercera. De la Contraloría Interna
+#### Sección Segunda. De la Oficialía Mayor
 
 ###### Artículo 457.
 
@@ -5124,7 +5156,7 @@ Las áreas administrativas que se creen, dependerán jerárquica y funcionalment
 
 La Junta presentará al Pleno la propuesta de las y los Titulares de cada una de las Unidades Administrativas para su ratificación; para este efecto será necesario el voto de la mayoría de las y los Diputados presentes en la sesión respectiva.
 
-#### Sección Cuarta. De la Tesorería
+#### Sección Tercera. De la Contraloría Interna
 
 ###### Artículo 487.
 
@@ -5208,7 +5240,7 @@ III. Los documentos de la Asamblea Constituyente, incluyendo la Constitución am
 
 IV. Los documentos que posean las Diputadas y los Diputados, las Comisiones y Comités, estarán en su posesión para resguardo, hasta el final de cada Legislatura, cuando deberán remitirse al Archivo Histórico del Proceso Parlamentario del Congreso.
 
-#### Sección Quinta. Del Instituto de Investigaciones Legislativas
+#### Sección Cuarta. De la Tesorería
 
 ###### Artículo 492.
 
@@ -5288,7 +5320,7 @@ El Archivo Histórico Administrativo del Congreso podrá ser consultado por el p
 
 En el Archivo Histórico Administrativo del Congreso deberán estar depositados los documentos de las Unidades Administrativas, además de aquellos que establezcan las disposiciones jurídicas correspondientes.
 
-#### Sección Sexta. Del Centro de Estudios Legislativos para la Igualdad de Género
+#### Sección Quinta. Del Instituto de Investigaciones Legislativas
 
 ###### Artículo 498.
 
@@ -5390,7 +5422,7 @@ VI. No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad
 
 VII. No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
-#### Sección Sexta (SIC). De la Coordinación de Comunicación Social
+#### Sección Sexta. Del Centro de Estudios Legislativos para la Igualdad de Género
 
 ###### Artículo 503.
 
@@ -5430,7 +5462,7 @@ VI. Residir en la Ciudad de México por lo menos tres años antes al día de su 
 
 VII. Ser mexicana o mexicano por nacimiento y no tener otra nacionalidad, y estar en pleno goce de sus derechos;
 
-#### Sección Séptima. Del Canal de Televisión
+#### Sección Sexta (SIC). De la Coordinación de Comunicación Social
 
 ###### Artículo 505.
 
@@ -5480,7 +5512,7 @@ V. Residir en la Ciudad de México por lo menos tres años antes al día de su n
 
 VI. Ser mexicana o mexicano por nacimiento y no tener otra nacionalidad, y estar en pleno goce de sus derechos.
 
-#### Sección Octava. De la Unidad de Transparencia
+#### Sección Séptima. Del Canal de Televisión
 
 ###### Artículo 508.
 
@@ -5506,6 +5538,10 @@ VIII. Realizar seguimiento puntual y exhaustivo a las políticas públicas imple
 
 IX. Difundir de manera periódica, sistematizada y mediante indicadores que permitan identificar el avance de las metas y objetivos de los programas presupuestarios orientados a cerrar las brechas de desigualdad entre hombres y mujeres, así como de las políticas públicas implementadas por el Poder Ejecutivo Local.
 
+> <small>(ADICIONADA, G.O. 8 DE JULIO DE 2019)</small>
+
+X. Diseñar, implementar y dar seguimiento al Protocolo para fortalecer la igualdad sustantiva y no discriminación en el Congreso, vigilando el cumplimiento que den al mismo.
+
 ###### Artículo 509.
 
 Para ser la Investigadora Titular del Centro de Estudios Legislativos para la Igualdad de Género se requiere:
@@ -5518,7 +5554,7 @@ III. No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinida
 
 IV. No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
-#### Sección Novena. De la Unidad de Estudios y Finanzas Publicas del Congreso de la Ciudad de México
+#### Sección Octava. De la Unidad de Transparencia
 
 ###### Artículo 510.
 
@@ -5559,6 +5595,8 @@ IV. No haber sido condenado por delito doloso, cualquiera que haya sido la pena;
 V. Residir en la Ciudad de México por lo menos tres años antes al día de su nombramiento, y
 
 VI. Ser mexicana o mexicano por nacimiento y no tener otra nacionalidad, y estar en pleno goce de sus derechos.
+
+#### Sección Novena. De la Unidad de Estudios y Finanzas Publicas del Congreso de la Ciudad de México
 
 ###### Artículo 513.
 
@@ -6043,3 +6081,17 @@ PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por 
 SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
 
 TERCERO. La Comisión de Atención Especial a Víctimas del Congreso de la Ciudad de México iniciará el procedimiento y convocatoria para la entrega de la Medalla al Mérito por la Defensa de las Víctimas.
+
+G.O. 8 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 508 DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO"]
+
+PRIMERO: El presente decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO: Remítase a la Jefa de Gobierno de la Ciudad de México para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 8 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA LOS ARTÍCULOS 370 Y 371; SE ADICIONA UNA SECCIÓN DÉCIMA SEXTA AL CAPÍTULO II DEL TÍTULO DÉCIMO Y UN ARTÍCULO 451 BIS, TODOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
