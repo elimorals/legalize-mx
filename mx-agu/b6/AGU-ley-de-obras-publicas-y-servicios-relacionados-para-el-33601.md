@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-obras-publicas-y-servicios-relacionados-para-el-33601"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-25"
-last_updated: "2017-07-03"
+last_updated: "2019-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 8 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2019 (ABROGADA).
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de agosto de 2003.
 
@@ -1650,3 +1652,31 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 182.- ARTÍCULO PRIMERO.- SE EXPIDE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en (sic) al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Abroga la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes, expedida mediante el Decreto número 105 de la LVIII Legislatura, publicado en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de agosto de 2003, así como todas sus reformas, adiciones y modificaciones.
+
+###### ARTÍCULO TERCERO.
+
+En un término de 365 días naturales, el Poder Ejecutivo deberá realizar las adecuaciones necesarias en el Reglamento de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes, (sic) 29 de noviembre de 2005, a efecto de dar cumplimiento al objeto del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Mientras no se adecue y reforme el Reglamento de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes, publicado en el Periódico Oficial del Estado el día veintinueve de noviembre del dos mil cinco, se deberá entender que los artículos referidos en dicho ordenamiento a la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes en vigor se entenderán adecuados a los similares de la presente Ley, una vez que ésta entre en vigor.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos de contratación y ejecución de obra pública que se hayan comenzado bajo la vigencia de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes, que ahora se abroga en el Artículo Segundo Transitorio, se concluirán en su totalidad en aplicación de dicho ordenamiento.
+
+###### ARTÍCULO SEXTO.
+
+La Opinión de Situación Fiscal de Cumplimiento de Obligaciones Estatales, se entenderá a la Opinión de Situación Fiscal de Cumplimiento de Obligaciones Estatales y de Existencia de Créditos Fiscales en Ingresos Coordinados en materia fiscal federal, por lo que (sic) un plazo no mayor a 180 días hábiles, la Secretaría de Finanzas del Estado, realizará las adecuaciones necesarias, reglamentarias, administrativas e informáticas que deriven del presente Decreto, mientras tanto prevalecerá para trámites correspondientes en materia de adquisiciones, arrendamientos, servicios u obra pública la Opinión de Situación Fiscal de Cumplimiento de Obligaciones Estatales, que emita la Secretaría de Finanzas del Estado.
