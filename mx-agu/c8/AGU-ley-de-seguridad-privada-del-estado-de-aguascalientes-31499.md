@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-privada-del-estado-de-aguascalientes-31499"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-26"
-last_updated: "2015-07-27"
+last_updated: "2019-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de mayo de 2003.
 
@@ -113,9 +113,17 @@ V. Substanciar los procedimientos y aplicar las sanciones por la violación a la
 
 VI. Denunciar al Ministerio Público los hechos presuntamente delictivos de que tenga conocimiento en el ejercicio de las atribuciones que le confiere esta Ley;
 
-VII. Ordenar y practicar visitas de inspección a los prestadores de servicios; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2019)</small>
 
-VIII. Las demás que le confiere esta Ley y otros ordenamientos jurídicos aplicables.
+VII. Ordenar y practicar visitas de inspección a los prestadores de servicios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2019)</small>
+
+VIII. Establecer un sistema de evaluación, certificación y verificación, del prestador de servicios, personal operativo, así como de la infraestructura relacionada con las actividades y servicios de seguridad privada, que lleven a cabo conforme a la presente Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE JULIO DE 2019)</small>
+
+IX. Las demás que le confiere esta Ley y otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 6°.
 
@@ -187,7 +195,9 @@ g). Video vigilancia.
 
 El diseño, fabricación, reparación, instalación, mantenimiento, supervisión o comercialización de equipos, dispositivos, aparatos, servicios, sistemas o procedimientos técnicos especializados aplicables en alguna de las anteriores modalidades serán prestados con las autorizaciones otorgadas por las autoridades competentes en los términos de los ordenamientos que resulten aplicables;
 
-III. Anexar a la solicitud:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JULIO DE 2019)</small>
+
+III. Anexar a la Solicitud:
 
 a). Copia Certificada del acta de nacimiento, o acta constitutiva así como de las modificaciones a sus estatutos, si es persona moral;
 
@@ -195,21 +205,31 @@ b). Copia Certificada de la acreditación del representante legal y de los socio
 
 c). Copia Certificada de la Cédula del Registro Federal de Contribuyentes;
 
-d). Copia Certificada, en su caso, del permiso expedido por la autoridad competente, para la instalación y operación del equipo de radio comunicación y uso de la frecuencia respectiva;
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
+
+d). Copia Certificada, en su caso, del permiso expedido por la autoridad competente, para la instalación del equipo de radio comunicación y red de telecomunicaciones; así como para la operación de cualquier frecuencia de radio o red de telecomunicaciones, o bien en ambos casos, la copia simple del contrato celebrado con concesionaria autorizada para tal efecto;
 
 e). Copia certificada, en su caso, de los registros de las armas expedidos por la autoridad competente conforme a la Ley Federal de Armas de Fuego y Explosivos;
 
-f) Copia certificada, en su caso, de la Licencia expedida por la autoridad competente para la aportación de armas de fuego, conforme a la Ley Federal de Armas de Fuego y Explosivos;
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
 
-g). Copia certificada del Reglamento y manual de operación para la prestación del (sic) servicios de seguridad privada;
+f). Copia certificada, en su caso, de la Licencia expedida por la autoridad competente para la portación de armas de fuego, conforme a la Ley Federal de Armas de Fuego y Explosivos. El prestador de servicios solicitará a la Secretaría, su opinión para que el personal operativo pueda portar armas de fuego en el desempeño de sus funciones, como requisito previo a efecto de obtener de la Secretaría de la Defensa Nacional la licencia particular o colectiva para la portación de armas de fuego, misma que deberá de anexar a la solicitud;
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
+
+g). Copia certificada del Reglamento y manual o instructivo operativo aplicable a cada una de las modalidades a desarrollar, que contenga la estructura jerárquica de la empresa y el nombre del responsable operativo;
 
 h). Formato de la credencial que expedirá el prestador de servicios al personal operativo;
 
 i). Relación detallada de los socios, del personal directivo, administrativo y operativo, conteniendo nombre completo, sexo, fecha y lugar de nacimiento, Registro Federal de Contribuyentes, domicilio desglosado, número de la cartilla del Servicio Nacional Militar, Clave de Elector, clave de la Cédula Única de Registro de Población y grado de estudios;
 
-j). Inventario detallado de bienes inmuebles, así como de los vehículos, las armas, equipo de radio comunicación y demás equipo necesario para la prestación del servicio, que contengan cuando menos el tipo, la marca, modelo y número de serie o matrícula y demás datos que sean necesarios para su identificación;
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
 
-k). Fotografías a colores de los vehículos, con los logotipos y aditamentos que se usen, así como del uniforme que se utilice en el servicio con todos los accesorios y que se aprecie de manera frontal, lateral y posterior;
+j). Inventario detallado de bienes inmuebles, así como de los vehículos, las armas, equipo de radio y telecomunicaciones, y demás equipo necesario para la prestación del servicio, que contengan cuando menos el tipo, la marca, modelo y número de serie o matrícula y demás datos que sean necesarios para su identificación;
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
+
+k). Fotografías a colores de los vehículos, con los logotipos y aditamentos que se usen, así como del uniforme que se utilice en el servicio con todos los accesorios, mismos que no podrán ser iguales o similares a los utilizados por corporaciones policiales o por las fuerzas armadas;
 
 l). La póliza de fianza otorgada mediante compañía debidamente constituida conforme a las leyes mexicanas o documento que ampare la garantía suficiente para asegurar el cumplimiento de las obligaciones contenidas en la presente Ley y demás leyes aplicables a la materia, de conformidad con los siguientes criterios que aplicará la Secretaría:
 
@@ -221,11 +241,29 @@ l). La póliza de fianza otorgada mediante compañía debidamente constituida co
 
 m). Carta de no antecedentes penales expedida por la autoridad competente, cuando el interesado sea personal operativo;
 
-n). Documento que acredite el domicilio principal y, en su caso, de las sucursales en el Estado;
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
 
-o) Documentos que acrediten que su personal operativo está capacitado o se esta capacitando para la prestación del servicio; y
+n). Documentos idóneos que acrediten el domicilio de la matriz y en su caso de las sucursales en el Estado, precisando el nombre y puesto del encargado en cada una de ellas, y acompañando (sic) de fotografías a color de la fachada de los inmuebles antes referidos, las cuales deberán actualizarse cada vez que sufra alguna modificación de cualquier índole;
 
-p) En el caso de prestar servicios con autorización de la Secretaría de Seguridad Pública Federal, deberán presentar dicha autorización.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
+
+o). Constancia expedida por la Institución competente o los capacitadores internos o externos de la empresa de seguridad privada, que acredite la capacitación y adiestramiento del personal operativo;
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
+
+p). En el caso de prestar servicios con autorización de la Secretaría de Seguridad Pública Federal, deberán presentar dicha autorización;
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2019)</small>
+
+q). Muestra física de las insignias, divisas, logotipos, emblemas o cualquier medio de identificación que porten los elementos de seguridad privada;
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2019)</small>
+
+r). En caso de que se utilicen vehículos blindados en la prestación del servicio, independientemente de la modalidad de que se trate, se deberá exhibir constancia expedida por el proveedor del servicio de blindaje, con la que acredite el nivel del mismo; y
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2019)</small>
+
+s). Tratándose de prestadores de servicios que operen en la modalidad prevista en la Fracción II, Inciso c) del presente Artículo, y específicamente para el traslado de valores, será indispensable contar con vehículos blindados, y exhibir constancia expedida por el proveedor del servicio de blindaje, con la que se acredite el nivel del mismo.
 
 IV. La solicitud debe de contener cuando menos el órgano administrativo al que va dirigido, nombre, denominación o razón social de quien o quienes promuevan, en su caso, de su representante legal, nacionalidad, señalar domicilio en la ciudad de Aguascalientes para oír y recibir notificaciones, así como el nombre de la persona o personas autorizadas para recibirlas, domicilio principal y en su caso, el domicilio de las sucursales, la petición que se formula indicando la modalidad o modalidades, lo hechos o razones que dan motivo a la petición, la protesta de no haberle sido cancelada ni al interesado, ni a los socios en su caso, una autorización anterior para prestar el servicio de seguridad privada por cualquiera de las autoridades estatales o federales, lugar y fecha, firma del interesado o de su representante legal o en su caso, la huella digital.
 
@@ -239,23 +277,41 @@ Las personas físicas o morales que hubieren sido prestadores de servicios con a
 
 En caso de resultar procedente la expedición de la autorización, la Secretaría contará con treinta días hábiles para comunicarlo al interesado y previo el pago de los derechos correspondientes, que señalan las. leyes fiscales y financieras del Estado, otorgarla. Si la solicitud presentada no cumple con los requisitos señalados en el artículo anterior, dentro del mismo plazo, la Secretaría prevendrá al solicitante, señalando un plazo improrrogable de cinco días hábiles, para subsanar las deficiencias, en el supuesto de que en el término señalado no se subsane la irregularidad, la Secretaría resolverá que se tiene por no presentada dicha solicitud. Si transcurrido el plazo de treinta días hábiles, no existiere respuesta de la Secretaría, se entenderá negada la autorización.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
+
 ###### Artículo 11.
 
-La autorización que se otorgue es intransferible y especificará los datos generales del titular, tales como nombre o razón social, en su caso, el nombre del representante legal y el nombre de los socios, el domicilio desglosado, la modalidad que se autoriza, los limites o condiciones de operación, el número de registro, la fecha de expedición y la fecha de expiración.
+La autorización que se otorgue es intransferible y especificará los datos generales del titular, tales como el nombre o razón social, en su caso, el nombre del representante legal y el nombre de los socios, el domicilio desglosado, la modalidad que se autoriza, los límites o condiciones de operación, el número de registro, la fecha de expedición y la fecha de expiración.
 
-La vigencia de la autorización será de un año, la cual habrá de hacerse del conocimiento de los Ayuntamientos del Estado.
+La vigencia de la autorización será de un año, y podrá ser revalidada por el mismo tiempo en los términos establecidos en esta Ley, la cual habrá de hacerse del conocimiento de los Ayuntamientos del Estado.
 
 ###### Artículo 12.
 
 Los prestadores del servicio que hayan obtenido la autorización y pretendan ampliar o modificar las modalidades autorizadas, deberán presentar ante la Secretaría solicitud por escrito. Una vez realizado lo anterior, la Secretaría, dentro del término de treinta días hábiles, deberá acordar si procede o no dicha ampliación o modificación. En caso de que no exista respuesta de la Secretaría, se entenderá negada.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
+
 ###### Artículo 13.
 
-Para la revalidación de la autorización bastará que los prestadores del servicio, cuando menos con treinta días hábiles previos a la conclusión de la vigencia de la autorización, mediante los formatos que le proporcione la Secretaría, manifiesten bajo protesta de decir verdad, que las condiciones en que se les otorgó no han variado y que se siguen cubriendo los requisitos necesarios para prestar el servicio. Una vez presentada la solicitud de revalidación la Secretaría contará con treinta días hábiles para acordar sobre procedencia o improcedencia de la misma. En caso de que no exista respuesta se entenderá revalidada la autorización.
+Para la revalidación de la autorización bastará que los prestadores del servicio, cuando menos con treinta días hábiles previos a la conclusión de la vigencia de la autorización, mediante los formatos que le proporcione la Secretaría, manifiesten bajo protesta de decir verdad, que las condiciones en que se les otorgó no han variado y que se siguen cubriendo los requisitos necesarios para prestar el servicio, o en su caso actualice aquellas documentales que así lo ameriten, tales como inventarios, movimientos de personal, pago de derechos, póliza de fianza, modificaciones al acta constitutiva de la empresa y representación de la misma, planes y programas de capacitación y adiestramiento, y demás requisitos que por su naturaleza lo requieran.
 
-Cuando las condiciones en que se otorgó la autorización han variado, se requiera actualizar los requisitos que se presentaron con anterioridad para prestar los servicios de seguridad privada o se pretenda ampliar o modificar las modalidades autorizadas, la Secretaría estudiará, analizará y resolverá sobre la procedencia o improcedencia de la misma y acordará lo conducente. En caso de que no exista respuesta se entenderá negada la autorización.
+En caso de que no se exhiban los documentos o actualizaciones a que se refiere el párrafo anterior, la Dirección General prevendrá al interesado para que en un plazo improrrogable de diez días hábiles subsane las omisiones; transcurrido dicho plazo sin que el interesado haya subsanado las omisiones de su solicitud, ésta será desechada.
 
-Si fuere procedente la revalidación el interesado estará obligado a pagar los derechos que determinen las leyes fiscales y financieras del Estado.
+En caso de que cumpla con las actualizaciones o que no hayan variado las condiciones, la Secretaria, resolverá lo procedente dentro de los quince días hábiles siguientes a la presentación de la solicitud.
+
+La revalidación podrá negarse cuando existan quejas previamente comprobadas por la autoridad competente, por:
+
+I. El incumplimiento a las obligaciones y restricciones previstas en esta Ley o en la autorización respectiva; y
+
+II. Existir deficiencias comprobadas en la prestación del servicio.
+
+Si fuere procedente la revalidación el interesado estará obligado a pagar los derechos que determinen las leyes del Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2019)</small>
+
+###### Artículo 13-A.
+
+Los servicios de seguridad privada son auxiliares a la función de Seguridad Pública. Sus integrantes coadyuvarán con las autoridades y las Instituciones de Seguridad Pública en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente del Estado y los municipios, de acuerdo a los requisitos y condiciones que establezca la autorización respectiva.
 
 ### CAPITULO TERCERO. Del Registro de los Prestadores de Servicios de Seguridad Privada, del Personal Operativo y del Equipo
 
@@ -391,9 +447,17 @@ V. Los vehículos a su servicio deberán ostentar visiblemente su denominación,
 
 VI. Los vehículos, el uniforme, insignias y divisas que utilice el personal operativo de los prestadores del servicio, deberán ser diferentes de los que reglamentariamente corresponde usar a los cuerpos de seguridad pública o a las Fuerzas Armadas evitando que, a simple vista, exista la posibilidad de confusión;
 
-VII. El personal operativo usará el uniforme, equipo y armamento autorizado, únicamente en los lugares y horarios de prestación de servicios; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2019)</small>
 
-VIII. El personal operativo observará los principios de actuación y las obligaciones que rijan para los cuerpos de seguridad pública en lo que sea aplicable.
+VII. El personal operativo usará el uniforme, equipo y armamento autorizado, únicamente en los lugares y horarios de prestación de servicios;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2019)</small>
+
+VIII. El personal operativo observará los principios de actuación y las obligaciones que rijan para los cuerpos de seguridad pública en lo que sea aplicable; y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2019)</small>
+
+IX. Permitir que su personal, sea sometido a procedimientos de evaluación y control de confianza.
 
 ###### Artículo 21.
 
@@ -684,3 +748,15 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 8 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 176. ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 5°, LA FRACCIÓN III DEL ARTÍCULO 5° (SIC) Y SUS RESPECTIVOS INCISOS D), F), G), J), K), N), O) Y P); EL ARTÍCULO 11, EL ARTÍCULO 13 Y LAS FRACCIONES VII Y VIII DEL ARTÍCULO 20; ASÍ TAMBIÉN SE ADICIONAN UNA FRACCIÓN IX AL ARTÍCULO 5°; LOS INCISOS Q), R) Y S) A LA FRACCIÓN III DEL ARTÍCULO 8°; UN CUARTO Y QUINTO PÁRRAFO AL ARTÍCULO 13, UN ARTÍCULO 13-A Y UNA FRACCIÓN IX AL ARTÍCULO 20; A LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la (sic) Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
