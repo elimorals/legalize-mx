@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-remuneraciones-de-los-servidores-publicos-para-el-124995
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-25"
-last_updated: "2017-12-25"
+last_updated: "2019-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124995&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE REMUNERACIONES DE LOS SERVIDORES PUBLICOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 8 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2019 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de diciembre de 2017.
 
@@ -764,3 +766,23 @@ Arturo Fernández Estrada,
 DIPUTADO SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 22 de diciembre de 2017.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Francisco Javier Luévano Núñez.- Rúbrica.
+
+P.O. 8 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 180.- ARTÍCULO ÚNICO.- SE EXPIDE LA LEY DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Abroga la Ley de Remuneraciones de los Servidores Públicos para el Estado de Aguascalientes y sus Municipios, publicada en el Periódico Oficial del Estado de Aguascalientes el 25 de diciembre de 2017, mediante Decreto número 216.
+
+###### ARTÍCULO TERCERO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones normativas que se opongan al mismo.
+
+###### ARTÍCULO CUARTO.
+
+Los Manuales de Remuneraciones a que se refiere la Ley de Remuneraciones de los Servidores Públicos del Estado de Aguascalientes y sus Municipios, deberán ser expedidos a más tardar a los 180 días naturales de que entre en vigor el presente Decreto.
