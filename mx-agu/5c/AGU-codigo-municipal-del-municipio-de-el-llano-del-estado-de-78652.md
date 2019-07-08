@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-del-municipio-de-el-llano-del-estado-de-78652"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-01-17"
-last_updated: "2018-12-24"
+last_updated: "2019-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE EL LLANO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2019.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de enero de 2011.
 
@@ -2291,9 +2291,11 @@ Cada una de las dependencias administrativas integrantes de la Administración P
 
 Las dependencias administrativas deberán de llevar a cabo sus funciones en forma ordenada y programada, de conformidad y para cumplir con los fines y objetivos trazados en el Plan Municipal de Desarrollo para el periodo que se trate. Pueden coordinar sus funciones con otras dependencias administrativas si así lo consideran pertinente para su correcto cumplimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 215.
 
-Las dependencias de la Administración Pública podrán contar con las siguientes unidades administrativas:
+Las dependencias de la Administración Pública contarán con las siguientes unidades administrativas:
 
 I. De la Oficina del Presidente Municipal, la cual se integrará por las siguientes estructuras:
 
@@ -2327,15 +2329,17 @@ E. Coordinación de Grupos de la Tercera Edad;
 
 F. Rehabilitación Física y Terapia;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. CON SUS APARTADOS], P.O. 8 DE JULIO DE 2019)</small>
 
-IV. Contraloría Municipal estará conformada por:
+IV. Contraloría Municipal:
 
-A. Auditorias y denuncias;
+A. Departamento de Transparencia.
 
-B. Procedimientos de responsabilidad administrativa; y
+B. Autoridad Investigadora.
 
-C. Transparencia, mejora regulatoria, simplificación administrativa e innovación.
+C. Autoridad Substanciadora
+
+D. Departamento de Auditorías, Mejora Regulatoria, Simplificación administrativa e innovación.
 
 V. Dirección de Administración y Finanzas;
 
@@ -2617,93 +2621,55 @@ VIII. Acordar con el Presidente Municipal el despacho de los asuntos que le corr
 
 ### CAPÍTULO II. De la Contraloría Municipal
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 235.
 
 Corresponde a la Contraloría Municipal:
 
-I. Instrumentar y actualizar el sistema de control sobre los programas con indicadores que sirvan para medir con criterios objetivos la gestión del gobierno y el impacto de las acciones y políticas de gobierno en los ciudadanos;
-
-II. Generar información a través de indicadores de gestión que faciliten y hagan más estratégica la toma de decisiones;
-
-III. Coordinar reuniones de evaluación del rumbo de la gestión en sus tres dimensiones:
+I. Coordinar con el Departamento de Mejora Regulatoria, Simplificación administrativa e innovación, las reuniones de evaluación del rumbo de la gestión en sus tres dimensiones:
 
 A. Eficiencia, control programático presupuestal;
 
 B. Eficacia, control del logro de objetivos; y
 
-C. Legitimidad, encuestas ciudadanas medición del impacto de las acciones de gobierno en la población;
+C. Legitimidad, encuestas ciudadanas, medición del impacto de las acciones de gobierno en la población.
 
-IV. Operar el programa de Atención al Público cuyo objetivo es mejorar la calidad en el servicio, y monitorear los niveles de servicio, tiempo de respuesta y la calidad de los diferentes servicios públicos prestados;
+II. Operar el Programa de Atención al Público cuyo objetivo es mejorar la calidad en el servicio, y monitorear los niveles de servicio, tiempo de respuesta y la calidad de los diferentes servicios prestados;
 
-V. Vigilar el correcto manejo de las finanzas municipales, apegándose a lo establecido en la Ley de Ingresos y a los presupuestos de Ingresos y egresos municipales;
+III. Vigilar el correcto manejo de las finanzas municipales, apegándose a lo establecido en la Ley de Ingresos y a los presupuestos de Ingresos y Egresos Municipales.
 
-VI. Velar porque los procesos administrativos del municipio se realicen con transparencia, seguridad jurídica, agilidad y orden;
+IV. Velar porque los procesos administrativos del municipio se realicen con transparencia, seguridad jurídica, eficiencia y orden;
 
-VII. Ordenar y practicar visitas de auditoría e inspección a las dependencias municipales, centralizadas y descentralizadas, en materia de su competencia;
+V. Supervisar los procesos de asignación, adjudicación, ejecución, entrega, recepción y pago de la obra pública y la correcta aplicación en ellos de los fondos públicos.
 
-VIII. Supervisar los procesos de asignación, adjudicación, ejecución, entrega, recepción y pago de la obra pública y la correcta aplicación en ellos de los fondos públicos;
+VI. Vigilar y coordinar la adecuada entrega – recepción de las dependencias municipales.
 
-IX. Vigilar y coordinar la adecuada entrega-recepción de las dependencias municipales;
+VII. Coordinar y vigilar que los servidores públicos obligados a presentar declaración de situación patrimonial, lo hagan en tiempo y forma, apegándose a la normatividad establecida.
 
-X. Cuidar el correcto desempeño de los servidores públicos, atender las denuncias ciudadanas, instruir procesos y determinar responsabilidades respecto de éstos;
+VIII. Supervisar que las adquisiciones de bienes y servicios que realice el Municipio correspondan en cantidad y calidad a las necesidades reales.
 
-XI. Coordinar y vigilar que los servidores públicos obligados a presentar declaración de situación patrimonial, lo hagan en tiempo y forma, apegándose a la normatividad establecida;
+IX. Vigilar los recursos patrimoniales del Municipio, así como los que provengan del Gobierno Federal y Estatal.
 
-XII. Supervisar que las adquisiciones de bienes y servicios que realice el Municipio correspondan en cantidad y calidad a las necesidades reales;
+X. Vigilar el cumplimiento de políticas y programas establecidos por el H. Ayuntamiento, así como las normas señaladas en la fracción anterior.
 
-XIII. Vigilar los recursos patrimoniales del Municipio, así como los que provengan del Gobierno Federal y del Estatal;
+XI. Vigilar y controlar el gasto público para el rendimiento máximo de los recursos del municipio, y el adecuado equilibrio presupuestal.
 
-XIV. Fijar las normas de control, fiscalización, contabilidad y Auditoría que deben observar las dependencias municipales;
+XII. Vigilar que las obras realizadas por el municipio, directamente o con participación de terceros se ajusten a las especificaciones fijadas.
 
-XV. Vigilar el cumplimiento de políticas y programas establecidos por el H. Ayuntamiento, así como las normas señaladas en la fracción anterior;
+XIII. Establecer y vigilar el proceso de control y evaluación del gasto público, en relación con el presupuesto de egresos, las políticas y los programas municipales.
 
-XVI. Practicar auditorias en las dependencias y organismos descentralizados municipales, verificando el destino de los fondos públicos sean propios o transferidos;
+XIV. Realizar las evaluaciones y seguimientos de los asuntos en que intervenga.
 
-XVII. Vigilar y controlar el gasto público para el rendimiento máximo de los recursos del municipio, y el adecuado equilibrio presupuestal;
+XV. Informar al Presidente Municipal de los Resultados y avances en el cumplimiento de sus atribuciones.
 
-XVIII. Vigilar que las obras realizadas por el municipio, directamente o con participación de terceros se ajusten a las especificaciones fijadas;
+XVI. Generar las políticas de transparencia en el manejo de los recursos públicos y las solicitudes de acceso a la información, así como dar seguimiento a los recursos legales interpuestos.
 
-XIX. Turnar a las diferentes unidades administrativas las denuncias de los particulares para su trámite y dar seguimiento a las mismas;
+XVII. Coordinar el Comité Municipal de Transparencia, el cual se integrará y sesionará bimestralmente con el regidor de la Comisión de Hacienda, Presupuesto, Contabilidad, Programación y Gasto Publico, cinco ciudadanos distinguidos del Municipio, representantes de organizaciones económicas, sociales y laborales.
 
-XX. Establecer y operar un proceso de control y evaluación del gasto público, en relación con el presupuesto de egresos, las políticas y los programas municipales;
+XVIII. Certificar los documentos emanados de la Contraloría Municipal o que se encuentren en sus archivos.
 
-XXI. Preparar informes de evaluación y seguimiento de los asuntos en que intervenga;
-
-XXII. Exigir con oportunidad las responsabilidades de los Servidores Públicos del Municipio;
-
-XXIII. Informar al Ayuntamiento de los resultados y avances en el cumplimiento de sus atribuciones;
-
-XXIV. Generar políticas de transparencia en el manejo de los recursos públicos;
-
-XXV. Coordinar el Comité Municipal de Transparencia, el cual además se integrará y sesionará bimestralmente con el regidor de la Comisión de Hacienda, Presupuesto, Contabilidad, Programación y Gasto Público, cinco ciudadanos distinguidos del Municipio, representantes de organizaciones económicas, sociales y laborales;
-
-XXVI. Promover e implementar en la administración municipal la mejora continua de los procedimientos que contribuyan a la protección de su patrimonio;
-
-XXVII. Dictaminar mensualmente la Cuenta de la Hacienda Pública Municipal que formula la Secretaría de Finanzas Públicas.
-
-XXVIII. Informar semestralmente al Ayuntamiento sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la administración pública municipal.
-
-XXIX. Substanciar el Procedimiento de Responsabilidad Administrativa e imponer las sanciones que correspondan en los términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
-
-XXX. Determinar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas;
-
-XXXI. Crear las bases para que todo ente público del municipio establezca políticas eficaces de ética pública y responsabilidad en el servicio público;
-
-XXXII. Investigar, calificar y substanciar las faltas administrativas graves, no graves y de particulares;
-
-XXXIII. Calificar las faltas de los servidores públicos municipales así como las de los particulares que impliquen presuntas responsabilidades administrativas.
-
-XXXIV. Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas, en los términos establecidos por el Sistema Nacional y el Sistema Estatal Anticorrupción;
-
-XXXV. Requerir para el cumplimiento de sus atribuciones, documentos, datos e información a las dependencias y entidades municipales;
-
-XXXVI. Presentar denuncias por hechos que las leyes señalen como presuntamente constitutivos de delitos ante la Fiscalía Especializada en Combate a la Corrupción, en materia de delitos relacionados con hechos de corrupción en el Estado;
-
-XXXVII. Requerir para el cumplimiento de sus atribuciones, documentos, datos e información a las dependencias y entidades municipales; y
-
-XXXVIII. Lo demás que señale la Ley o el H. Ayuntamiento.
+XIX. Lo demás que señale la Ley, la Ley de responsabilidades Administrativas del Estado de Aguascalientes, demás ordenamientos aplicables o el H. Ayuntamiento por conducto del Presidente Municipal.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -2792,6 +2758,102 @@ XVI. Impulsar programas de capacitación en materia de mejora regulatoria entre 
 XVII. Fomentar el conocimiento por parte de la sociedad en general, de la normatividad estatal y municipal asociada con trámites y servicios públicos; y
 
 XVIII. Las demás que señalen las leyes o el H. Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2019)</small>
+
+ARTÍCULO 235 A.- Departamento de Transparencia. Es el responsable de que las Unidades Administrativas establezcan mecanismos de comunicación externa apropiados y de conformidad con las disposiciones aplicables, a fin de difundir la información requerida en materia de transparencia. Será la encargada de recabar y difundir información relativa a las obligaciones de transparencia, recibir y dar trámite a las solicitudes de acceso a la información; así como proponer e implementar acciones conjuntas para asegurar una mayor eficiencia en los procesos de transparencia y protección de datos personales al interior de nuestra institución.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2019)</small>
+
+ARTÍCULO 235 B.- Autoridad Investigadora. Es la encargada de implementar y aplicar los procesos de investigación de las anomalías reportadas por el departamento de Auditoria, producto de denuncias ciudadanas, de servidores públicos o iniciadas de oficio para detectar presuntas responsabilidades Administrativas y actos de corrupción de los servidores públicos, ex servidores públicos del municipio o particulares asociados a la Administración Municipal, así mismo es aquella que en el ámbito de su competencia, es la encargada de recibir la denuncia y elaborar el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la Ley de Responsabilidades Administrativas del estado de Aguascalientes; a fin de estar en Posibilidades de dar cumplimiento a dicho ordenamiento normativo.
+
+En el ejercicio de sus funciones deberá observar los principios de certeza, legalidad, imparcialidad, independencia, máxima publicidad, definitividad, objetividad, equidad, profesionalismo, respeto a los derechos humanos, congruencia, verdad material y uso responsable de los recursos, así como el resguardo de expediente en conjunto.
+
+Incorporará a sus investigaciones las técnicas, tecnológicas (sic) y métodos de investigación que observen las mejores prácticas internacionales.
+
+Para tales efectos la Auditoria Investigadora, tendrá las siguientes funciones:
+
+I. Conocer de las denuncias que se promuevan en contra de los Servidores Públicos, ex Servidores Públicos del Municipio y de particulares en términos de la Ley, las Cuales Podrán ser anónimas, o iniciarse de oficio derivadas de la auditoria practicadas (sic) por parte de las autoridades competentes o, en su caso, de auditores externos, llevando a cabo la investigación por la presunta responsabilidad de falta (sic) administrativas.
+
+II. Ordenar la práctica de visitas de verificación, las cuales se sujetarán a lo previsto en la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
+
+III. Solicitar, durante la investigación, información o documentos en los términos, formas y medios requeridos a cualquier persona física o moral con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas.
+
+IV. Hacer uso de las medidas de apremio que se establezcan en la Ley de Responsabilidades Administrativas del estado de Aguascalientes y las Leyes Aplicables, para el debido cumplimiento de sus determinaciones.
+
+V. Determinar la existencia o inexistencia de actos u omisiones que la Ley señale como faltas administrativas y, en su caso, calificarlas como graves o no graves. Una vez calificadas las faltas, emitir en su caso, Informe de Presunta Responsabilidad Administrativa para remitirlo a la Autoridad Substanciadora para el efecto de iniciar el procedimiento de responsabilidad administrativa.
+
+VI. Emitir y notificar el acuerdo de conclusión y archivo del expediente, para el caso de que no se encontraran elementos suficientes para demostrar la existencia de los hechos constitutivos de infracción y la presunta responsabilidad del Infractor, sin perjuicio de que puedan abrirse nuevamente la Investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar.
+
+VII. En términos del párrafo que antecede, habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que este Departamento tenga competencia;
+
+VIII. Solicitar que se decreten las medidas cautelares previstas por el artículo 109 de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, en los casos que así proceda.
+
+IX. Solicitar al Departamento de Auditoria, Mejora Regulatoria, Simplificación administrativa e innovación de la Contraloría Municipal, los datos o constancias respecto de los informes de presuntos hechos irregulares que haya remitido y que se requieran para el efecto de la investigación en contra de algún Servidor Público y/o Ex Servidor Público del Municipio y/o Particular.
+
+X. Administrar, en coordinación con la Autoridad Substanciadora, el libro de registro y seguimiento de denuncias presentadas ante la Contraloría Municipal.
+
+XI. Formular denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada en Combate a la Corrupción, en materia de delitos relacionados con hechos de corrupción en el Estado y/o ante la autoridad competente.
+
+XII. Certificar los documentos emanados o que se encuentren en sus archivos.
+
+XIII. Las demás que le confieran la Ley y demás normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2019)</small>
+
+ARTÍCULO 235 C.- Autoridad Substanciadora, es aquella que, en el ámbito de su competencia, dirige y conduce el procedimiento de responsabilidades administrativas desde la admonición del informe de presunta responsabilidad hasta la conclusión de la audiencia inicial;
+
+I. Notificar, citar, requerir y en su caso hacer comparecer a las personas que consideren necesarias para la práctica de las diligencias en los procedimientos de responsabilidades administrativas en contra de servidores públicos del Municipio;
+
+II. Fungir como Autoridad Substanciadora en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+III. Admitir el informe de presunta responsabilidad administrativa, emitido por la Autoridad Investigadora, con el objeto de tramitar y sustanciar los procedimientos de responsabilidad administrativas (sic) en contra de servidores públicos del Municipio, por conductas que pidieran (sic) constituir responsabilidad administrativa en los términos de la ley en materia;
+
+IV. En términos del párrafo que antecede, habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que este Departamento tenga competencia;
+
+V. Hacer uso de las medidas de apremio que se establezcan en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y las leyes aplicables, para el debido cumplimiento de sus determinaciones;
+
+VI. Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones recaídas en los procedimientos de responsabilidades administrativas instaurados por el Departamento de Asuntos Jurídicos; y
+
+VII. Certificar los documentos emanados o que se encuentren en sus archivos.
+
+VIII. Las demás que le confieran la Ley y demás normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2019)</small>
+
+ARTÍCULO 235 D.- Departamento de Auditoria, Mejora Regulatoria, Simplificación administrativa e innovación. Es la encargada de Vigilar, Auditar, Implementar acciones, actividades, planes, políticas, normas, registros, procedimientos y métodos, incluido el entorno y actitudes que desarrollan las autoridades de la Administración Pública Municipal y el personal a su cargo, con el objetivo de prevenir posibles riesgos que afectan a la Administración Pública Municipal.
+
+Para tales efectos el Jefe del Departamento de Auditoria, Mejora Regulatoria, Simplificación administrativa e innovación tendrá las funciones siguientes:
+
+I. Solicitar a las Direcciones del Municipio, la información necesaria para la planeación de las auditorias, previa autorización por el titular de la Contraloría Interna.
+
+II. Integrar y presentar, para visto bueno del Titular de la Contraloría Municipal, los Programas Operativos Anuales y de Auditoría a cargo del Departamento de Auditoria, así como los informes de avance de su desarrollo.
+
+III. Suscribir los oficios de solicitud de información, así como elaborar, con autorización del Titular de la Contraloría Municipal, los oficios de seguimiento de las acciones correctivas y preventivas determinadas.
+
+IV. Practicar las Auditorias registradas en (sic) Programa Operativo Anual, de conformidad con las normas aplicables. Así como presentar al Titular de la Contraloría Municipal resultados y observaciones de las auditorías realizadas.
+
+V. Efectuar el seguimiento de las acciones preventivas y correctivas de las auditorías realizadas a las Direcciones y Departamentos del Municipio, así como aquellas formuladas por instancias de fiscalización externas.
+
+VI. Verificar que las adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, se realicen, según corresponda, conforme a lo establecido en las disposiciones aplicables de la materia.
+
+VII. Realizar visitas, inspecciones, compulsas y solicitudes de información que se estimen pertinentes a las Direcciones y Departamentos del Municipio y a terceros con quienes se contrate la realización de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, e igualmente podrá solicitar a los Servidores Públicos y/o Ex Servidores Públicos del Municipio y a los proveedores o contratistas todos los datos e informes relacionados con los actos de que se trate.
+
+VIII. Revisar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Municipio. Y en caso de existir elementos denunciar ante el Departamento de Investigación.
+
+IX. Realizar Auditorías al presupuesto de ingresos y egresos del Municipio, en cualquiera de sus momentos contables.
+
+X. Realizar revisiones a las operaciones financieras, de la Dirección de Finanzas Municipal, presentado (sic) al Contralor Municipal los resultados de las mismas.
+
+XI. Instrumentar y actualizar el sistema de control sobre los programas con indicadores que sirvan para medir con criterios objetivos la gestión del gobierno y el impacto de las acciones y políticas de gobierno en los ciudadanos.
+
+XII. Promover, ante las Direcciones y Departamentos del Municipio, la implementación y la mejora continua de los controles internos y procedimientos que coadyuven a la protección del patrimonio y recursos del mismo.
+
+XIII. Suscribir los oficios de solicitud de información, así como elaborar, con autorización del Titular de la Contraloría Municipal, los oficios del seguimiento de las acciones correctivas y preventivas determinadas.
+
+XIV. Emitir dictamen anual, dar seguimiento a las acciones preventivas y correctivas emitidas.
+
+XV. Las demás que le confieran la Ley y demás normativa aplicable.
 
 ### CAPÍTULO III. De la Secretaría del H. Ayuntamiento y Dirección General de Gobierno
 
@@ -16948,3 +17010,11 @@ Artículo Tercero. Se derogan todas las disposiciones que se opongan al presente
 ## TRANSITORIOS
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DE LA "MODIFICACIÓN E INCLUSIÓN DE LAS FRACCIONES A, B, C, Y D, DEL ARTÍCULO 215 FRACCIÓN IV, ASÍ COMO LOS ARTÍCULOS 235 A, 235 B, 235 C Y 235 D, DEL CÓDIGO MUNICIPAL DE EL LLANO, AGS."]
+
+###### ARTICULO ÚNICO.
+
+Las presentes Reformas a las Facultades de la Contraloría Municipal entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
