@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-rural-sustentable-del-estado-de-morelos-67318
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2016-07-06"
+last_updated: "2019-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de marzo de 2009.
 
@@ -93,7 +93,9 @@ Para los beneficios de esta Ley en el ámbito estatal, son sujetos, los pequeño
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Actividades rurales: Los procesos productivos primarios basados en recursos naturales renovables como son: agricultura, ganadería, silvicultura, pesca y acuacultura; de transformación y de servicios del sector rural;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2019)</small>
+
+I. Actividades rurales: Los procesos productivos primarios basados en recursos naturales renovables como son: agricultura, ganadería, silvicultura, pesca, acuacultura y apicultura; de transformación y de servicios del sector rural;
 
 II. Actividades económicas: Las actividades agropecuarias y otras actividades productivas, industriales, comerciales y de servicios;
 
@@ -297,7 +299,9 @@ I. Promover el bienestar social y económico, de los productores, de sus comunid
 
 II. Crear las condiciones para que las actividades productivas relacionadas con el desarrollo rural tengan un margen suficiente de rentabilidad, que permita acceder a los estándares mínimos de bienestar a las familias campesinas;
 
-III. Rescatar la cultura tradicional de las comunidades campesinas, relacionada con la producción armónica de bienes de origen agropecuario y acuícola, de forma múltiple y diversificada;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2019)</small>
+
+III. Rescatar la cultura tradicional de las comunidades campesinas, relacionada con la producción armónica de bienes de origen agropecuario, acuícola y apícola, de forma múltiple y diversificada;
 
 IV. Generar las bases que permitan recuperar la rentabilidad de las actividades agroalimentarias en el ámbito comercial, mediante la capitalización y modernización de las mismas;
 
@@ -683,7 +687,9 @@ XIII. Autorizar, en el ámbito de su competencia, la movilización de productos 
 
 XIV. Impulsar un sistema de indemnización para respaldar a productores cuando por asuntos de interés público de tipo sanitario, haya que sacrificar especies vegetales o animales;
 
-XV. Participar en la organización y patrocinio de ferias, exposiciones, concursos forestales, agrícolas, ganaderos, avícolas, frutícolas, artesanales y de servicios rurales en el Estado, en coordinación con las autoridades competentes;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2019)</small>
+
+XV. Participar en la organización y patrocinio de ferias, exposiciones, concursos forestales, agrícolas, ganaderos, avícolas, frutícolas, apícolas, artesanales y de servicios rurales en el Estado, en coordinación con las autoridades competentes;
 
 XVI. Fomentar e impulsar la ampliación y mejoramiento de todos los mecanismos de protección y de administración de riesgos de las actividades productivas, los bienes y las vidas de los pobladores rurales;
 
@@ -743,7 +749,9 @@ XII. Participar activamente en los Consejos Regionales de Desarrollo Rural Suste
 
 XIII. Las demás que conforme a la presente Ley, les correspondan.
 
-## TÍTULO TERCERO. DEL FOMENTO AGROPECUARIO, ACUICOLA Y DEL DESARROLLO RURAL SUSTENTABLE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JULIO DE 2019)</small>
+
+## TÍTULO TERCERO. DEL FOMENTO AGROPECUARIO, ACUICOLA, APÍCOLA Y DEL DESARROLLO RURAL SUSTENTABLE
 
 ### CAPÍTULO I. DEL DESARROLLO AGRÍCOLA
 
@@ -879,11 +887,33 @@ La Secretaria y el Consejo Estatal promoverán la organización formal y el desa
 
 Los proyectos estratégicos acuícolas tendrán apoyos por el Sistema Estatal de Financiamiento Rural y se promoverán ante los inversionistas locales, estatales y nacionales.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 2019)</small>
+
+### CAPÍTULO III BIS. DEL DESARROLLO APÍCOLA
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2019)</small>
+
+Artículo 66 BIS.- La Secretaría promoverá el desarrollo de la actividad apícola, mediante el aprovechamiento sustentable de los recursos, la investigación, sanidad, inocuidad, tecnificación, aprovechamiento y protección de los procesos de polinizadores.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2019)</small>
+
+Artículo 66 TER.- La Secretaría deberá incluir en el Plan Estatal de Desarrollo, las estrategias y acciones que promuevan el fortalecimiento y desarrollo de las actividades apícolas.
+
+Así mismo, expedirá, socializará y actualizará el programa para la protección de los agentes polinizadores.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2019)</small>
+
+Artículo 66 QUATER.- La Secretaría en coordinación con el sector apícola, realizará actividades preventivas en el control de la contaminación ambiental originada por el mal manejo de los agroquímicos que afecten a los agentes polinizadores.
+
+Los agricultores del estado de Morelos, realizarán prácticas agroecológicas con la finalidad de reducir la exposición a los plaguicidas.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2019)</small>
+
+Artículo 66 QUINTUS.- Los apicultores promoverán con el apoyo de la Secretaría y el Consejo Estatal, la organización formal y el desarrollo organizacional, que les permitan hacer frente a su problemática en común.
+
 ### CAPÍTULO IV. DE LA CULTURA Y PRODUCCIÓN TRADICIONAL EN EL DESARROLLO RURAL
 
 ### CAPÍTULO V. DE LA SUSTENTABILIDAD
-
-### CAPÍTULO VI. DE LA SANIDAD E INOCUIDAD AGROPECUARIA Y ACUÍCOLA
 
 ###### Artículo 67.
 
@@ -917,7 +947,9 @@ Los proyectos específicos que se concertarán con las comunidades rurales para 
 
 Las Instituciones de enseñanza e investigación deberán incorporar a sus programas, el apoyo para sistematizar el conocimiento tradicional y acelerar la adecuación y transferencia de tecnología apropiada.
 
-### CAPÍTULO VII. EL FINANCIAMIENTO PARA EL DESARROLLO RURAL SUSTENTABLE
+### CAPÍTULO VI. DE LA SANIDAD E INOCUIDAD AGROPECUARIA, APÍCOLA Y ACUÍCOLA
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2019)</small>
 
 ###### Artículo 71.
 
@@ -947,47 +979,63 @@ Las dependencias y entidades del Gobierno Estatal, en coordinación con los Ayun
 
 La Secretaría, con la participación del Consejo Estatal, dependencias y entidades competentes, establecerá las medidas necesarias para garantizar la integridad de la biodiversidad, incluidos los organismos generados en condiciones naturales y bajo cultivo por los productores.
 
-### CAPÍTULO VIII. DE LA INVESTIGACIÓN Y LA TRANSFERENCIA TECNOLÓGICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JULIO DE 2019)</small>
+
+### CAPÍTULO VII. EL FINANCIAMIENTO PARA EL DESARROLLO RURAL SUSTENTABLE
 
 ###### Artículo 77.
 
-La Secretaría coadyuvará con las autoridades correspondientes, cuando por cuestiones de seguridad sanitaria y de salud humana, se determine limitar la introducción de productos agropecuarios, acuícolas y forestales como mecanismo de protección a los productores morelenses y a la población en general.
+La Secretaría coadyuvará con las autoridades correspondientes, cuando por cuestiones de seguridad sanitaria y de salud humana, se determine limitar la introducción de productos agropecuarios, acuícolas, apícolas y forestales como mecanismo de protección a los productores morelenses y a la población en general.
 
 ###### Artículo 78.
 
 Cualquiera de las medidas señaladas en el artículo precedente, tendrá carácter temporal y deberá suspenderse una vez que las autoridades correspondientes determinen, mediante estudios e indicadores los niveles de recuperación.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2019)</small>
+
 ###### Artículo 79.
 
-La Secretaría conjuntamente con las dependencias y entidades competentes, en el seno del Consejo Estatal, participaran en el diseño, complemento y ejercicio de las medidas sanitarias de inocuidad y de bioseguridad para lograr un desarrollo sustentable comercial, agropecuario, y acuícola, libre de plagas y enfermedades, minimizando el riesgo en los procesos productivos, en el ambiente y en la salud de la población.
+La Secretaría conjuntamente con las dependencias y entidades competentes, en el seno del Consejo Estatal, participaran en el diseño, complemento y ejercicio de las medidas sanitarias de inocuidad y de bioseguridad para lograr un desarrollo sustentable comercial, agropecuario, apícola y acuícola, libre de plagas y enfermedades, minimizando el riesgo en los procesos productivos, en el ambiente y en la salud de la población.
 
 ###### Artículo 80.
 
 Para efectos del artículo anterior, además de las que se dicten mediante el Servicio Nacional de Sanidad, Inocuidad y Calidad Agropecuaria y Alimentaria, se tomarán las medidas siguientes:
 
-I. Vigilar el cumplimiento de las normas oficiales mexicanas y técnicas, y generar en su caso, aquellas que en la entidad sean necesarias para el control y uso de plaguicidas, fertilizantes, medicamentos biológicos y sustancias toxicas en las áreas agrícolas, pecuarias y acuícolas, que permitan obtener productos de calidad certificada;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2019)</small>
+
+I. Vigilar el cumplimiento de las normas oficiales mexicanas y técnicas, y generar en su caso, aquellas que en la entidad sean necesarias para el control y uso de plaguicidas, fertilizantes, medicamentos biológicos y sustancias toxicas en las áreas agrícolas, pecuarias, apícolas y acuícolas, que permitan obtener productos de calidad certificada;
 
 II. Promover y coadyuvar en el desarrollo de programas encaminados a la aplicación de medidas destinadas a la recolección, deposito, almacenamiento, tratamiento y destino final de desechos tóxicos, químicos, plásticos y otros productos con posibilidad de contaminar suelos, agua, aire, medio ambiente y población;
 
-III. Apoyar a la autoridad correspondiente en la inspección de empresas fabricantes, distribuidoras y comercializadoras de insumos y productos químicos y biológicos para uso agropecuario, acuícola y forestal;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2019)</small>
+
+III. Apoyar a la autoridad correspondiente en la inspección de empresas fabricantes, distribuidoras y comercializadoras de insumos y productos químicos y biológicos para uso agropecuario, acuícola, apícola y forestal;
 
 IV. Supervisar la distribución, comercialización y manejo de productos químicos y biológicos, que representen riesgo a la salud de trabajadores agropecuarios y población en general;
 
 V. Fomentar el uso de fertilizantes biológicos y orgánicos, de métodos de control biológico inducido para el control de plagas y enfermedades en los cultivos agrícolas y cuando sea técnicamente viable para el control de plagas y enfermedades de animales, orientando las acciones hacia una producción amigable con el entorno;
 
-VI. Mantener un registro de los productos con nula o baja residualidad, que puedan ser utilizados en las campañas sanitarias agrícolas, ganaderas y forestales;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2019)</small>
+
+VI. Mantener un registro de los productos con nula o baja residualidad, que puedan ser utilizados en las campañas sanitarias agrícolas, ganaderas, apícolas y forestales;
 
 VII. Establecer mecanismos de control en la introducción al estado de materiales químicos y biológicos prohibidos y/o dañinos a la salud humana, provenientes de otros estados o naciones;
 
 VIII. Inspeccionar la movilización de ganado, aves, peces y vegetales para consumo humano;
 
-IX. Apoyar a la autoridad correspondiente en la inspección de: granjas pecuarias, acuícolas, avícolas, salas de sacrificio animal y demás áreas de proceso y comercialización, para verificar el cumplimiento de las normas sanitarias;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2019)</small>
+
+IX. Apoyar a la autoridad correspondiente en la inspección de: granjas pecuarias, acuícolas, avícolas, salas de sacrificio animal, apiarios y demás áreas de proceso y comercialización, para verificar el cumplimiento de las normas sanitarias;
 
 X. Verificar la calidad de alimentos para especies animales domésticos, mediante pruebas en laboratorios acreditados;
 
-XI. Instrumentar programas específicos para detectar, prevenir, controlar y combatir plagas y enfermedades en la agricultura, ganadería, y acuacultura;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2019)</small>
 
-XII. Coordinar acciones con los tres órdenes de gobierno para la inspección, verificación, control sanitario y certificación de todos los productos y subproductos agropecuarios y acuícolas, así como de la aplicación de sanciones;
+XI. Instrumentar programas específicos para detectar, prevenir, controlar y combatir plagas y enfermedades en la agricultura, ganadería, apicultura y acuacultura;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2019)</small>
+
+XII. Coordinar acciones con los tres órdenes de gobierno para la inspección, verificación, control sanitario y certificación de todos los productos y subproductos agropecuarios, apícolas y acuícolas, así como de la aplicación de sanciones;
 
 XIII. Certificar y facilitar la movilización y libre tránsito de productos y subproductos agropecuarios hasta su destino final, que cuenten con la certificación de origen;
 
@@ -1001,11 +1049,13 @@ XVI. Las demás aplicables.
 
 Los gobiernos Estatal y Municipal, fomentarán el uso racional de los recursos naturales, privilegiando aquellos procesos y acciones que conserven o mejoren el ambiente, y desalentando todos aquellos que generen repercusión negativa y daños ecológicos.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2019)</small>
+
 ###### Artículo 82.
 
-Se fomentará y fortalecerá en coadyuvancia con las autoridades competentes, la participación organizada de los productores en la planeación, operación y evaluación de programas y acciones, encaminadas a erradicar plagas y enfermedades agropecuarias, forestales, y acuícolas.
+Se fomentará y fortalecerá en coadyuvancia con las autoridades competentes, la participación organizada de los productores en la planeación, operación y evaluación de programas y acciones, encaminadas a erradicar plagas y enfermedades agropecuarias, forestales, apícolas y acuícolas.
 
-### CAPÍTULO IX. DE LA COMERCIALIZACIÓN DE BIENES Y SERVICIOS DEL SECTOR RURAL
+### CAPÍTULO VIII. DE LA INVESTIGACIÓN Y LA TRANSFERENCIA TECNOLÓGICA
 
 ###### Artículo 83.
 
@@ -1115,7 +1165,7 @@ Para asegurar mayores recursos financieros al campo, el Sistema Estatal de Finan
 
 De las recuperaciones de los apoyos financieros otorgados por la Dirección General de Financiamiento Rural al sector, se canalizarán al fideicomiso o instrumento financiero requerido, con el objeto de estimular su capitalización y respaldar nuevas operaciones crediticias, que impulsen el desarrollo en beneficio de los productores y organizaciones del sector social en el medio rural.
 
-### CAPÍTULO X. DE LA FORMACIÓN, CAPACITACIÓN Y ASESORÍA TÉCNICA
+### CAPÍTULO IX. DE LA COMERCIALIZACIÓN DE BIENES Y SERVICIOS DEL SECTOR RURAL
 
 ###### Artículo 94.
 
@@ -1127,15 +1177,21 @@ El Ejecutivo Estatal, a través de la Secretaría y los propios productores, est
 
 I. Fomentar el uso de la ciencia y la tecnología, en los productores y demás agentes de las cadenas productivas agropecuarias y agroindustriales;
 
-II. Fortalecer la generación participativa, validación, transferencia y adopción de tecnología agropecuaria y acuícola, así como en la definición de las políticas en materia de investigación y transferencia tecnológica;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2019)</small>
+
+II. Fortalecer la generación participativa, validación, transferencia y adopción de tecnología agropecuaria, apícola y acuícola, así como en la definición de las políticas en materia de investigación y transferencia tecnológica;
 
 III. Impulsar la investigación básica y aplicada para alcanzar un desarrollo tecnológico;
 
-IV. Propiciar la vinculación de los centros de investigación y docencia agropecuaria y forestal de carácter internacional, nacional, estatal y local, con los habitantes y productores rurales;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2019)</small>
+
+IV. Propiciar la vinculación de los centros de investigación y docencia agropecuaria, apícola y forestal de carácter internacional, nacional, estatal y local, con los habitantes y productores rurales;
 
 V. Aprovechar la experiencia científica para apoyar proyectos prioritarios, incluyendo las materias de biotecnología, ingeniería genética, bioseguridad e inocuidad alimentaria;
 
-VI. Facilitar la investigación y la transferencia tecnológica para la eficaz reconversión productiva hacia cultivos, especies pecuarias y acuícolas, entre otros, que sean competitivas, fortalezcan la producción, incorporen mayor valor agregado y consoliden las cadenas productivas para elevar la calidad de vida en el medio rural; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2019)</small>
+
+VI. Facilitar la investigación y la transferencia tecnológica para la eficaz reconversión productiva hacia cultivos, especies pecuarias, apícola y acuícolas, entre otros, que sean competitivas, fortalezcan la producción, incorporen mayor valor agregado y consoliden las cadenas productivas para elevar la calidad de vida en el medio rural; y
 
 VII. Evaluar, validar, registrar y difundir tecnologías, procesos, insumos equipos y servicios técnicos.
 
@@ -1155,7 +1211,7 @@ Se fortalecerá la cobertura estatal de la infraestructura tecnológica para inv
 
 Se establecerá una amplia vinculación con instituciones educativas establecidas y/o relacionadas con el medio rural, mismas que serán miembros permanentes del Sistema Estatal de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable, en el despliegue de acciones a través de una red de prestadores de servicios profesionales acreditados por el propio Sistema Estatal de Formación, Capacitación y Asesoría Técnica Rural Integral.
 
-### CAPÍTULO I. DE LA ORGANIZACIÓN PRODUCTIVA RURAL
+### CAPÍTULO X. DE LA FORMACIÓN, CAPACITACIÓN Y ASESORÍA TÉCNICA
 
 ###### Artículo 100.
 
@@ -1177,7 +1233,9 @@ VII. Desarrollo de esquemas de denominación de origen de los productos agroalim
 
 VIII. Diseño de contratos comerciales, que propicien equidad y precios justos para los productores;
 
-IX. Promoción de productos agropecuarios, orgánicos, acuícolas, y artesanales;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2019)</small>
+
+IX. Promoción de productos agropecuarios, orgánicos, apícolas, acuícolas, y artesanales;
 
 X. Establecimiento de medidas, dispositivos y prácticas en los sistemas-producto, que permitan transacciones sin manejo físico de mercancías;
 
@@ -1205,9 +1263,7 @@ Se establecerán y fortalecerán las políticas de abasto interno, como una form
 
 Los bienes y servicios del medio rural, producidos por pequeños productores organizados, serán fortalecidos con el apoyo a la comercialización por parte del Estado, a través de contratos de compraventa directa para el abasto al sector gubernamental, privilegiando su autorización, con observancia de la Ley de Adquisiciones y la normatividad aplicable a la Prestación de Servicios Relacionados con Bienes Muebles e Inmuebles del Estado de Morelos.
 
-### CAPÍTULO II. DEL DESARROLLO SOCIAL
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+### CAPÍTULO I. DE LA ORGANIZACIÓN PRODUCTIVA RURAL
 
 ###### Artículo 106.
 
@@ -1313,7 +1369,9 @@ VII. Las demás materias que impulsen el desarrollo rural integral sustentable.
 
 ## TÍTULO CUARTO. DE LA ORGANIZACIÓN PRODUCTIVA, EL DESARROLLO SOCIAL, EL DERECHO CIUDADANO DE DENUNCIA Y LA CONTRALORÍA SOCIAL
 
-### CAPÍTULO III. DE LOS TRABAJADORES Y JORNALEROS AGRÍCOLAS
+### CAPÍTULO II. DEL DESARROLLO SOCIAL
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 113.
 
@@ -1351,7 +1409,7 @@ III. A efecto de establecer una adecuada coordinación para la constitución de 
 
 IV. Con el propósito de mantener el dinamismo de estas formas de representación, la Secretaría, conjuntamente con la dependencia federal que corresponda normativamente y en coordinación con los gobiernos municipales, revisarán cada dos años su representatividad.
 
-### CAPÍTULO IV. DE LA DENUNCIA POPULAR
+### CAPÍTULO III. DE LOS TRABAJADORES Y JORNALEROS AGRÍCOLAS
 
 ###### Artículo 117.
 
@@ -1373,7 +1431,7 @@ La Secretaría concertará con las instituciones que inciden en el medio rural, 
 
 Para ejercer una plena federalización y un sistema municipalista, con apoyo en la presente Ley, la Ley de Planeación del Estado y la Ley Orgánica Municipal, corresponde a los Ayuntamientos considerar en su Plan Municipal de Desarrollo un capítulo relativo al Desarrollo Rural Municipal, podrán sustentarse los programas de desarrollo rural integral y sustentable de cada uno de los núcleos de población rural existentes en su territorio.
 
-### CAPÍTULO V. DE LA CONTRALORÍA SOCIAL
+### CAPÍTULO IV. DE LA DENUNCIA POPULAR
 
 ###### Artículo 122.
 
@@ -1398,6 +1456,8 @@ El Consejo Estatal propondrá mecanismos para la reversión de la cultura migrat
 ###### Artículo 127.
 
 Bajo el principio de equidad y para disminuir las asimetrías, la Secretaría, coordinará esfuerzos y acciones específicas para defensa y dignificación de la vida de los trabajadores y jornaleros agrícolas, en especial, para evitar la explotación de mujeres y niños, mediante la concurrencia de diversas dependencias, acciones, instrumentos y recursos que inciden en el sector rural.
+
+### CAPÍTULO V. DE LA CONTRALORÍA SOCIAL
 
 ###### Artículo 128.
 
@@ -1493,7 +1553,7 @@ JORGE MORALES BARUD
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 1 DE SEPTIEMBRE DE 2011.
 
@@ -1556,3 +1616,13 @@ P.O. 6 DE JULIO DE 2016.
 PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XXVII, incisos a), b) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+P.O. 10 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOSCIENTOS CINCUENTA Y SIETE POR EL QUE SE REFORMA Y ADICIONA LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Aprobado que sea el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión oficial del gobierno del estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones que se opongan al presente Decreto.
