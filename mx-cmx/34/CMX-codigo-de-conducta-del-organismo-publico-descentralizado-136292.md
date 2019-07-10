@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-del-organismo-publico-descentralizado-136292
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-22"
-last_updated: "2019-05-22"
+last_updated: "2019-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136292&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2019-05-13"
 ---
 # CODIGO DE CONDUCTA DEL ORGANISMO PUBLICO DESCENTRALIZADO METROBUS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE JULIO DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA DEL ORGANISMO PÚBLICO DESCENTRALIZADO METROBÚS DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 10 DE JULIO DE 2019.]</small>
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 22 de mayo de 2019.
 
@@ -42,7 +42,9 @@ Que de conformidad con la disposición Décima Segunda del Código de Ética de 
 
 AVISO POR EL CUAL SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁ SER CONSULTADO EL “CÓDIGO DE CONDUCTA DEL ORGANISMO PÚBLICO DESCENTRALIZADO METROBÚS”
 
-ÚNICO.- Se da a conocer el enlace electrónico http:data.metrobus.cdmx.gob.mx/docs/CDMB:pdf del “Código de Conducta del Organismo Público Descentralizado Metrobús”; siendo la responsable de mantener la liga habilitada, la Lic. María Patricia Becerra Salazar, Directora Ejecutiva de Asuntos Jurídicos, con teléfono de contacto 57616858 y dirección en Avenida Cuautémoc 16, Colonia Doctores, Alcaldía Cuauhtémoc, Código Postal 06720, Ciudad de México.
+> <small>(F. DE E., G.O. 10 DE JULIO DE 2019)</small>
+
+ÚNICO.- Se da a conocer el enlace electrónico http:data.metrobus.cdmx.gob.mx/docs/CDMB.pdf del “Código de Conducta del Organismo Público Descentralizado Metrobús”; siendo la responsable de mantener la liga habilitada, la Lic. María Patricia Becerra Salazar, Directora Ejecutiva de Asuntos Jurídicos, con teléfono de contacto 57616858 y dirección en Avenida Cuautémoc 16, Colonia Doctores, Alcaldía Cuauhtémoc, Código Postal 06720, Ciudad de México.
 
 ## TRANSITORIOS
 
@@ -246,7 +248,7 @@ VIII. CONFLICTOS DE INTERÉS
 
 Todo el personal que labora en METROBÚS tiene la obligación de actuar bajos los criterios de honestidad, transparencia y ética, buscando siempre la protección de los intereses del organismo. Así mismo, el personal de METROBÚS deberá evitar situaciones en las que los intereses personales puedan entrar en conflicto con los intereses del organismo.
 
-Los "conflictos de interés" se dan cuando alguna persona que trabaja en METROBÚS se encuentra en una situación donde existe la posibilidad de obtener un beneficio indebido ya sea para su persona o para algún familiar.
+Los “conflictos de interés” se dan cuando alguna persona que trabaja en METROBÚS se encuentra en una situación donde existe la posibilidad de obtener un beneficio indebido ya sea para su persona o para algún familiar.
 
 Es por esto que METROBÚS busca permanentemente mantener sus operaciones fuera de conflictos provenientes de prácticas desleales de su personal.
 
@@ -359,3 +361,11 @@ Número de Folio de Trabajador:
 Nombre de Jefe inmediato:
 
 FIRMA DEL SERVIDOR PÚBLICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 10 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DE LA " NOTA ACLARATORIA AL AVISO POR EL CUAL SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁ SER CONSULTADO EL "CÓDIGO DE CONDUCTA DEL ORGANISMO PÚBLICO DESCENTRALIZADO METROBÚS", DE FECHA 13 DE MAYO DE 2019, PUBLICADO EN LA PÁGINA 33 DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL DÍA 22 DE MAYO DE 2019".]
+
+PRIMERO.- La presente nota aclaratoria entra en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México, para su debida observancia y cumplimiento.
