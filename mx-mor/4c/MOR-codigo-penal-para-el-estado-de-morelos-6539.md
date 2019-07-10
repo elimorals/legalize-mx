@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2019-05-22"
+last_updated: "2019-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1495,25 +1495,25 @@ DELITOS CONTRA EL INDIVIDUO
 
 ### CAPITULO I. HOMICIDIO
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 106.
 
-Al que prive de la vida a otro se le impondrán de quince a treinta años de prisión y de quinientos a diez mil días multa.
+Al que prive de la vida a otro se le impondrán de veinte a cuarenta años de prisión y multa de mil a diez mil Unidades de Medida y Actualización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 107.
 
-Al que, conociendo el parentesco, dolosamente prive de la vida a cualquiera de sus ascendientes o descendientes por consanguinidad en línea recta, parientes colaterales hasta el cuarto grado, cónyuge o concubinos, entre adoptante o adoptado, menores o incapaces, se le impondrán de veinte a cincuenta años de prisión y de setecientos cincuenta a diez mil días multa.
+Al que, conociendo el parentesco, dolosamente prive de la vida a cualquiera de sus ascendientes o descendientes por consanguinidad en línea recta, parientes colaterales hasta el cuarto grado, cónyuge o concubinos, entre adoptante o adoptado, menores o incapaces, se le impondrán de veinticinco a cincuenta años de prisión y multa de mil quinientos a quince mil Unidades de Medida y Actualización.
 
 Cuando la madre prive de la vida a su hijo dentro de las 72 horas siguientes al nacimiento de éste, el juez podrá disminuir la sanción aplicable hasta quedar en una tercera parte de la prevista en el párrafo anterior, tomando en cuenta las circunstancias del embarazo, las condiciones personales de la madre y los móviles de su conducta, sin perjuicio de las excluyentes que pudieren concurrir.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 108.
 
-A quien cometa homicidio calificado en términos del artículo 126 de éste Código, se le impondrá de veinte a setenta años de prisión y de mil a veinte mil días-multa.
+A quien cometa homicidio calificado en términos del artículo 126 de éste Código, se le impondrán de veinticinco a setenta años de prisión y multa de mil a veinte mil Unidades de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
 
@@ -1831,7 +1831,7 @@ Si el agente pone en libertad al ofendido, espontáneamente, dentro de los tres 
 
 ### CAPITULO IV. EXTORSION
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 140.
 
@@ -1869,9 +1869,17 @@ Si el agente pone en libertad al ofendido, espontáneamente, dentro de los tres 
 
 ###### ARTICULO 146.
 
-Al que por cualquier medio ilícito ejerza coacción sobre una persona para que haga o deje de hacer algo, se le impondrá de diez a quince años de prisión, sin perjuicio de la sanción aplicable para los demás delitos que resulten.
+Al que por cualquier medio ilícito ejerza coacción sobre una persona para dar, hacer o dejar de hacer algo, se le impondrá pena de quince a veinte años de prisión y multa de ochocientas a mil Unidades de Medida y Actualización, sin perjuicio de la sanción aplicable para los demás delitos que resulten.
 
-Si el autor de la extorsión obtiene lo que se propuso, la sanción se aumentará hasta en una mitad, sin perjuicio de las demás que resulten aplicables.
+Para efectos de este artículo también se considerará coacción moral cuando se utilicen juguetes con apariencia de armas de fuego u otros instrumentos que solo puedan ser utilizados para agredir.
+
+La pena se incrementará hasta en una mitad respecto de las sanciones previstas en este artículo, cuando la extorsión se realice:
+
+I. Cuando el autor obtenga lo que se propuso;
+
+II. Cuando el sujeto activo sea elemento o haya pertenecido a instituciones de Seguridad Pública, Procuración de Justicia, Administración de justicia y/o militares. En este caso se le inhabilitará para ejercer algún cargo público y se suspenderá en el ejercicio de su profesión hasta por el mismo tiempo de la sanción impuesta, y
+
+III. Cuando la víctima sea menor de edad o adulto mayor de 60 años.
 
 ### CAPITULO VII. ARTICULO 148 BIS.- (DEROGADO, P.O. 10 DE DICIEMBRE DE 2014 Y P.O. 18 DE FEBRERO DE 2015)
 
@@ -2239,7 +2247,9 @@ Se impondrán las sanciones previstas en el artículo anterior cuando quien come
 
 En los casos de robo se atenderá, asimismo a lo previsto en las siguientes calificativas:
 
-A).- Se aumentarán hasta en una mitad las sanciones previstas en los artículos anteriores cuando el robo se realice:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE JULIO DE 2019)</small>
+
+A).- Se aumentarán hasta las dos terceras partes las sanciones previstas en los artículos anteriores cuando el robo se realice:
 
 I. Con violencia contra las personas, para cometer el robo, facilitarse la fuga o conservar lo robado;
 
@@ -2281,17 +2291,15 @@ B).- Cuando el robo sea cometido por dos o más sujetos, sin importar el monto d
 
 C).- (DEROGADO, P.O. 6 DE MARZO DE 2002)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2019)</small>
 
-###### ARTICULO 176 Bis.
+###### ARTICULO 176
 
-Se impondrá de diez a veinte años de prisión y de doscientos hasta mil días multa, a quien se robe un vehículo automotor.
-
-> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2002)</small>
+BIS.- Se impondrá de quince a veinticinco años de prisión y multa de mil hasta dos mil quinientos Unidades de Medida y Actualización, a quien se robe un vehículo automotor.
 
 Asimismo se sancionará con las citadas penalidades, a quien o quienes, sean responsables o no del robo de vehículos automotores, y que realice o realicen cualquiera de las siguientes conductas:
 
-I. Desmantele uno o más vehículos automotores que posea ilegalmente o comercialice conjunta o separadamente sus partes o las utilice en otros vehículos sin que acredite la legítima procedencia de estas, o las adquiera, detente, posea, custodie, enajene o trasmita de cualquier manera a sabiendas de su origen ilícito;
+I. Desmantele uno o más vehículos automotores que posea ilegalmente o comercialice conjunta o separadamente sus partes o las utilice en otros vehículos sin que acredite la legitima procedencia de estas, o las adquiera, detente, posea, custodie, enajene o trasmita de cualquier manera a sabiendas de su origen ilícito;
 
 II. Enajene, trafique, permute o realice cualquier transacción del traslado de dominio de uno o más vehículos automotores a sabiendas de su procedencia ilícita;
 
@@ -2307,23 +2315,23 @@ VII. Traslade uno o más vehículos automotores a otro Estado de la República o
 
 VIII. Utilice uno o más vehículos automotores robados en la comisión de otro u otros delitos;
 
-IX. Se robe un vehículo automotor en la vía pública o en otro lugar destinado a su guarda o reparación;
+IX. Se robe un vehículo automotor en la vía pública o en otro lugar destinado a su guarda o reparación, y
 
-X. Organice y determine a otro u otros a la participación y ejecución de cualquiera de las conductas antes referidas; y
+X. Organice y determine a otro u otros a la participación y ejecución de cualquiera de las conductas antes referidas.
 
-XI. Si en el robo de algún vehículo automotor se ejerce violencia física o moral, se impondrá una mitad más de la pena que corresponda.
+Se aumentarán hasta en una mitad las sanciones previstas en el primer párrafo de este artículo, cuando el robo de vehículo automotor se realice:
 
-> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2002)</small>
+a) Con violencia física o moral contra las personas poseedoras del vehículo automotor. Para efectos de este artículo existirá violencia moral cuando se utilicen juguetes con apariencia de armas de fuego u otros instrumentos que solo puedan ser utilizados para agredir;
 
-A quien proporcione medios de cualquier especie o aporte recursos económicos o de cualquier índole para la ejecución de las actividades descritas en las fracciones anteriores, se le considerará responsable en los términos que correspondan, conforme al artículo 18 de este Código.
+b) En lugar cerrado, habitado o destinado para habitación o sus dependencias;
 
-> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2002)</small>
+c) Por dos o más personas, y
 
-Si en los actos mencionados en las fracciones anteriores del presente artículo, participa algún servidor público, brinda protección o proporciona información o de cualquier manera encubre a los responsables de dichos delitos, a las sanciones que le correspondan, se le aumentara hasta una mitad más en la pena de prisión correspondiente y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos, por un período al doble de la sanción privativa de libertad que se le imponga, y si se trata de algún servidor público que tenga en su cargo funciones de prevención, persecución o sanción del delito o de ejecución de penas, a la sanción que corresponda se aumentará hasta el cien por ciento más de la pena de prisión correspondiente y se le inhabilitará para desempeñar cualquier empleo, comisión o cargo público.
+d) En caminos o carreteras de jurisdicción estatal.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+A quien proporcione medios de cualquier especie o aporte recursos económicos o de cualquier índole para la ejecución de las actividades descritas en las fracciones e incisos anteriores, se le considerará responsable en los términos que correspondan, conforme al artículo 18 de este Código.
 
-Al quien cometa la conducta prevista en la fracción XI del presente artículo y denuncie o informe de dos o más individuos que participaron dentro de la comisión de dicha conducta o que realicen actividades relacionadas con la misma, se le impondrá la mitad de la pena de prisión que le corresponda.
+Si en los actos mencionados en las fracciones e incisos anteriores del presente artículo, participa algún servidor público, brinda protección o proporciona información o de cualquier manera encubre a los responsables de dichos delitos, a las sanciones que le correspondan, se le aumentará hasta una mitad más en la pena de prisión correspondiente y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos, por un período al doble de la sanción privativa de libertad que se le imponga, y si se trata de algún servidor público que tenga en su cargo funciones de prevención, persecución o sanción del delito o de ejecución de penas, a la sanción que corresponda se aumentará hasta el cien por ciento más de la pena de prisión correspondiente y se le inhabilitará para desempeñar cualquier empleo, comisión o cargo público.
 
 ###### ARTICULO 177.
 
@@ -5075,10 +5083,20 @@ OCTAVO.- Se derogan todas las disposiciones jurídicas de igual o menor rango je
 
 P.O. 22 DE MAYO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOSCIENTOS DOCE POR EL QUE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, ADICIONANDO EL CAPÍTULO I TER DENOMINADO "FRAUDE AL PATRIMONIO FAMILIAR" Y UN ARTÍCULO 202 SEXTUS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOSCIENTOS DOCE POR EL QUE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, ADICIONANDO EL CAPÍTULO I TER DENOMINADO “FRAUDE AL PATRIMONIO FAMILIAR” Y UN ARTÍCULO 202 SEXTUS”.]
 
 PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente Decreto.
+
+P.O. 10 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DOSCIENTOS CATORCE.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 106, 107, 108, 146, 176 Y 176 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
+
+PRIMERA. Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan a lo previsto en el presente Decreto.
