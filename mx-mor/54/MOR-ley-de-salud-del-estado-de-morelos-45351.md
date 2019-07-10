@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2019-05-22"
+last_updated: "2019-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -3391,7 +3391,9 @@ I.- Granjas avícolas: Los establecimientos dedicados a la cría, reproducción,
 
 II.- Granjas porcícolas: Los establecimientos dedicados a la cría, reproducción, mejoramiento y explotación de cerdos;
 
-III.- Apiarios: El conjunto de colmenas destinados a la cría, reproducción y mejoramiento genético de las abejas; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2019)</small>
+
+III.- Apiarios: El conjunto de colmenas pobladas e instaladas en un lugar determinado y regulado para la cría, reproducción y mejoramiento genético de las abejas, y
 
 IV.- Establecimientos similares: Todos aquellos dedicados a la cría, reproducción, mejoramiento y explotación de especies animales no incluidas en las Fracciones anteriores; pero aptas para el consumo humano.
 
@@ -3402,6 +3404,14 @@ La Autoridad Municipal, conforme a las disposiciones legales en vigor, delimitar
 ###### Artículo 334.
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere el Artículo 332, de esta Ley, serán fijados en las disposiciones reglamentarias y en las normas correspondientes.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2019)</small>
+
+###### Artículo 334 Bis.
+
+La Secretaría de Salud, fomentará el principio de seguridad agroalimentaria con la finalidad de garantizar las bases de la producción de los alimentos medicinales, a partir de la polinización de los productos de las abejas.
+
+Así mismo, coadyuvará con la Secretaría de Desarrollo Agropecuario en materia de inocuidad de los productos y subproductos apícolas y los procesos de polinización.
 
 ### CAPÍTULO I. AUTORIZACIONES
 
@@ -4305,7 +4315,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 
 ###### ARTÍCULO SEGUNDO.
 
-El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 P.O. 10 DE DICIEMBRE DE 2014.
 
@@ -4632,5 +4642,15 @@ P.O. 22 DE MAYO DE 2019.
 PRIMERA.- Aprobado que sea el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del gobierno del estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRESCIENTOS VEINTIDÓS POR EL QUE SE REFORMA Y ADICIONA LA LEY DE SALUD DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Aprobado que sea el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del gobierno del estado de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones que se opongan al presente Decreto.
