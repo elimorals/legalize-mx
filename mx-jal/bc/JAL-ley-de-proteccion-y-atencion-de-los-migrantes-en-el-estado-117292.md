@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-y-atencion-de-los-migrantes-en-el-estado-1172
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-17"
-last_updated: "2017-08-08"
+last_updated: "2019-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
 Ley publicada en la Sección II al Número 4 del Periódico Oficial del Estado de Jalisco, el jueves 17 de noviembre de 2016.
 
@@ -77,9 +77,17 @@ VI. Al libre tránsito;
 
 VII. Al derecho a la asistencia consular;
 
-VIII. Al respeto a sus costumbres y tradiciones, con las restricciones que la Ley establece; y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-IX. Las demás que les reconozcan y confieran las normas jurídicas aplicables.
+VIII. Al respeto a sus costumbres y tradiciones, con las restricciones que la Ley establece;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2019)</small>
+
+IX. A los servicios de atención medica previstos por el sector público, independientemente de su situación migratoria y conforme a las disposiciones legales y reglamentos aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE JULIO DE 2019)</small>
+
+X. Las demás que reconozcan y confieran las normas jurídicas aplicables.
 
 ### CAPÍTULO III. DE LAS OBLIGACIONES DE LOS MIGRANTES
 
@@ -238,3 +246,9 @@ P.O. 8 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26413/LXI/17, QUE ADICIONA EL ARTICULO 2° BIS DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27291/LXII/19 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 3° DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES EN EL ESTADO DE JALISCO”.]
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
