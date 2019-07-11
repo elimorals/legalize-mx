@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-y-cuidado-de-los-animales-del-estado-de-90455
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-29"
-last_updated: "2018-09-25"
+last_updated: "2019-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 29 de noviembre de 2012.
 
@@ -139,9 +139,11 @@ V. Elaborar y proponer al titular del Poder Ejecutivo del Estado la norma técni
 
 VI. Las demás que le confieran esta ley y demás ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2019)</small>
+
 ###### Artículo 5.
 
-° Corresponde a la Secretaría de Educación del Estado de Jalisco:
+° Corresponde a la Secretaría de Educación:
 
 I. El fomento y difusión de las actividades ecológicas y que propicien una cultura de respeto y protección a los animales;
 
@@ -173,9 +175,11 @@ VII. Presidir el Consejo para la Atención y Bienestar de los Animales del Estad
 
 VIII. Las demás que esta ley y los demás ordenamientos jurídicos aplicables le confieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2019)</small>
+
 ###### Artículo 7.
 
-° Corresponde a la Secretaría de Desarrollo Rural del Estado de Jalisco:
+° Corresponde a la Secretaría de Agricultura y Desarrollo Rural:
 
 I. Otorgar, a través del inspector de ganadería, las órdenes de sacrificio de las especies domésticas productivas;
 
@@ -239,7 +243,7 @@ XI. Controlar el crecimiento de las poblaciones de aves urbanas empleando sistem
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-XII. Controlar la formación de poblaciones federales (sic) mediante estrategias que no provoquen sufrimiento en los animales, para evitar daños en las personas, cosas u otros animales;
+XII. Controlar la formación de poblaciones federales mediante estrategias que no provoquen sufrimiento en los animales, para evitar daños en las personas, cosas u otros animales;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -936,5 +940,11 @@ SEGUNDO. Dentro de los 180 días naturales siguientes a la entrada en vigor de e
 P.O. 25 DE SEPTIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26927/LXI/18 QUE REFORMA LOS ARTÍCULOS 3°, 4° Y 8°; Y ADICIONA EL CAPÍTULO XII AL TÍTULO TERCERO Y LOS ARTÍCULOS 62 QUÁTER, 62 QUINQUIES Y 62 SEXIES, TODOS DE LA LEY DE PROTECCIÓN Y CUIDADO A LOS ANIMALES DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27292/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5°, 7°, 15, 53 Y EL CAPÍTULO IV DE LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD ANIMAL PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; 6° DE LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO; 5° Y 7° DE LA LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; 26 Y 83 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; Y EL 41 DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
