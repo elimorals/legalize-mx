@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-en-materia-de-sanidad-animal-para-el-54779"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-22"
-last_updated: "2017-03-23"
+last_updated: "2019-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN EN MATERIA DE SANIDAD ANIMAL PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
 Ley publicada en la Sección IX al Periódico Oficial del Estado de Jalisco, el jueves 22 de febrero de 2007.
 
@@ -97,7 +97,9 @@ Bienestar animal: Conjunto de actividades encaminadas a proporcionar comodidad, 
 
 COFEPRIS: Comisión Federal para la Protección contra Riesgos Sanitarios;
 
-Consejo: El Consejo Estatal Consultivo de Sanidad Animal, es el órgano técnico consultivo en materia de sanidad animal que apoyará a la Secretaria de Desarrollo Rural en el desarrollo, diseño, aplicación y evaluación de las medidas zoosanitarias;
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
+Consejo: El Consejo Estatal Consultivo de Sanidad Animal, es el órgano técnico consultivo en materia de sanidad animal que apoyará a la Secretaría de Agricultura y Desarrollo Rural en el desarrollo, diseño, aplicación y evaluación de las medidas zoosanitarias;
 
 Contaminante: Cualquier agente físico, químico, biológico o material extraño u otra sustancia presente en bienes de origen animal, que alteren su integridad para el consumo humano, así como en los productos químicos, farmacéuticos biológicos o alimenticios para uso en animales o consumo por éstos;
 
@@ -115,7 +117,9 @@ Estatus zoosanitario: Condición que guarda el Estado o una zona o un área geog
 
 Etiología: Estudio de las causas de las enfermedades;
 
-Inspección: Acto que realiza la Secretaría de Desarrollo Rural en conjunto con las autoridades federales para constatar mediante la verificación el cumplimiento de la Ley Federal de Sanidad Animal, la presente Ley, sus respectivos reglamentos y las Normas Oficiales Mexicanas;
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
+Inspección: Acto que realiza la Secretaría de Agricultura y Desarrollo Rural en conjunto con las autoridades federales para constatar mediante la verificación el cumplimiento de la Ley Federal de Sanidad Animal, la presente Ley, sus respectivos reglamentos y las Normas Oficiales Mexicanas;
 
 Ley: La Ley de Coordinación en materia de Sanidad Animal para el estado de Jalisco y sus municipios;
 
@@ -139,7 +143,9 @@ SAGARPA: La Secretaría de Agricultura. Ganadería, Desarrollo Rural, Pesca y Al
 
 Sanidad Animal: La que tiene por objeto preservar y proteger la salud humana, así como prevenir, controlar y erradicar las enfermedades o plagas de los animales;
 
-Secretaría: La Secretaría de Desarrollo Rural;
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
+Secretaría: La Secretaría de Agricultura y Desarrollo Rural;
 
 SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
 
@@ -688,3 +694,9 @@ P.O. 23 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26289/LXI/17 QUE REFORMA EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO 25538/LX/2015".]
 
 ÚNICO. El presente decreto iniciará su vigencia el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27292/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5°, 7°, 15, 53 Y EL CAPÍTULO IV DE LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD ANIMAL PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; 6° DE LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO; 5° Y 7° DE LA LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; 26 Y 83 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; Y EL 41 DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
