@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-inclusion-para-las-personas-con-discapacidad-en-el-12938
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-10"
-last_updated: "2018-06-10"
+last_updated: "2019-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
-Ley publicada en el Número 46 del Periódico Oficial del Estado de Durango, el domingo 10 de junio de 2018.
+Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 10 de junio de 2018.
 
 EL CIUDADANO DOCTOR JOSÉ ROSAS AISPURO TORRES GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, S A B E D:
 
@@ -797,9 +797,11 @@ IV. Instrumentar acciones para que en sus programas se incluya la construcción 
 
 V. Las demás facultades y obligaciones que le confieran las leyes y reglamentos aplicables.
 
-Artículo 92
+###### Artículo 92.
 
-Corresponde al Instituto Estatal del Deporte:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2019)</small>
+
+Corresponde al Instituto de Cultura Física y Deporte del Estado de Durango:
 
 I. Coordinarse con la Comisión Estatal Coordinadora y las autoridades competentes, para otorgar facilidades administrativas, becas, apoyos técnicos y humanos requeridos para la práctica de actividades deportivas de las personas con discapacidad;
 
@@ -807,7 +809,11 @@ II. Promover y apoyar la participación de personas con discapacidad en competen
 
 III. Colaborar con instituciones públicas y privadas para desarrollar actividades de formación y capacitación de instructores deportivos, para la adecuada atención con calidad a los menores y adultos con discapacidad; y
 
-IV. Las demás facultades y obligaciones que le confieran las leyes y reglamentos aplicables.
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
+
+IV. Desarrollar programas de detección, intervención y seguimiento, con la misión de generar infraestructura y acciones para el desarrollo de las capacidades detectadas en los niños, jóvenes y adultos con alguna discapacidad física, sensorial o intelectual, y
+
+V. Las demás facultades y obligaciones que le confieran las leyes y reglamentos aplicables.
 
 Artículo 93
 
@@ -1140,3 +1146,13 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANÍS QUIÑONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 113.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
