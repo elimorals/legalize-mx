@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-forestal-sustentable-del-estado-de-durango-40
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-13"
-last_updated: "2018-12-13"
+last_updated: "2019-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,17 +23,17 @@ state: "DUR"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 13 de junio de 2004.
 
-EL CIUDADANO LICENCIADO ANGEL SERGIO GUERRERO MIER, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, SABED:
+EL CIUDADANO LICENCIADO ANGEL SERGIO GUERRERO MIER, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, S A B E D :
 
 QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 DECRETO No. 397
 
-LA HONORABLE SEXAGÉSIMA SEGUNDA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA LOCAL, A NOMBRE DEL PUEBLO, DECRETA:
+LA HONORABLE SEXAGÉSIMA SEGUNDA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA LOCAL, A NOMBRE DEL PUEBLO, D E C R E T A :
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE DURANGO
 
@@ -55,9 +55,9 @@ La presente Ley tiene por objeto:
 
 I. Fomentar la actividad forestal en los términos del artículo 40 de la Constitución Política del Estado Libre y Soberano de Durango;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-II. Normar e implementar la política forestal del Estado, promoviendo la coordinación entre los distintos órdenes de gobierno y la concertación con los sectores social y privado para lograr el desarrollo sustentable de los recursos forestales y sus asociados;
+II. Normar e implementar la política forestal del Estado, promoviendo la coordinación entre los distintos órdenes de gobierno y la concertación con los sectores social y privado para lograr el desarrollo sustentable de los recursos forestales y sus asociados; observando, de conformidad con la ley general de desarrollo forestal sustentable, los criterios obligatorios de política forestal en los campos social, ambiental y económico, en el ejercicio de su competencia y atribuciones.
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
@@ -121,39 +121,43 @@ III. La Ley de Gestión Ambiental Sustentable para el Estado de Durango.
 
 Además de las definiciones contenidas en el artículo 7 de la Ley General de Desarrollo Forestal Sustentable, para los efectos de esta Ley, se entenderá por:
 
-I. Acuerdo Secretarial: El acto jurídico mediante el cual, el titular de la Secretaría emite una decisión unilateral de carácter ejecutivo que opera como una instrucción dirigida a servidores públicos jerárquicamente subordinados y que versan sobre una determinada acción en el ámbito forestal;
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
 
-II. Aprovechamiento irregular de recursos forestales: Aquel que se realiza en contravención total o parcial a los requisitos exigidos en la Ley General y en la presente Ley, incluyendo la extracción ilegal y tala clandestina;
+I. Acciones afirmativas: Medidas temporales, compensatorias o de promoción, a favor de personas o grupos específicos, para corregir situaciones patentes de desigualdad en el disfrute de derechos y garantizar la igualdad sustantiva de oportunidades, mientras subsistan dichas situaciones;
 
-III. Brecha cortafuego: La faja de terreno en la que se elimina toda vegetación en dimensiones variables de acuerdo con el tipo de vegetación existente y la cantidad de la misma;
+II. Acuerdo Secretarial: El acto jurídico mediante el cual, el titular de la Secretaría emite una decisión unilateral de carácter ejecutivo que opera como una instrucción dirigida a servidores públicos jerárquicamente subordinados y que versan sobre una determinada acción en el ámbito forestal;
 
-IV. Certificación Forestal: La acreditación de un manejo forestal sustentable;
+III. Aprovechamiento irregular de recursos forestales: Aquel que se realiza en contravención total o parcial a los requisitos exigidos en la Ley General y en la presente Ley, incluyendo la extracción ilegal y tala clandestina;
 
-V. CONAFOR: Comisión Nacional Forestal;
+IV. Brecha cortafuego: La faja de terreno en la que se elimina toda vegetación en dimensiones variables de acuerdo con el tipo de vegetación existente y la cantidad de la misma;
 
-VI. Consejo: Consejo Estatal Forestal y de Suelos;
+V. Certificación Forestal: La acreditación de un manejo forestal sustentable;
 
-VII. Convenio: El instrumento jurídico por medio del cual la Federación, el Estado y/o los municipios acuerdan la realización de acciones para cumplir con las obligaciones y atribuciones establecidas en los diversos ordenamientos que en materia forestal se encuentren vigentes;
+VI. CONAFOR: Comisión Nacional Forestal;
 
-VIII. Convenio o acuerdo de concertación: El instrumento jurídico por medio del cual, el Ejecutivo Estatal, por sí o a través de la Secretaría podrá concertar la realización de las acciones previstas en el Plan de Desarrollo Forestal, con representaciones de grupos sociales o con los particulares interesados;
+VII. Consejo: Consejo Estatal Forestal y de Suelos;
 
-IX. Convenio o acuerdo de coordinación: El instrumento jurídico por medio del cual, el Ejecutivo Federal, acuerda con el Ejecutivo Estatal y los municipios, la realización de acciones coadyuvantes para el logro de los objetivos de la Planeación Nacional Forestal;
+VIII. Convenio: El instrumento jurídico por medio del cual la Federación, el Estado y/o los municipios acuerdan la realización de acciones para cumplir con las obligaciones y atribuciones establecidas en los diversos ordenamientos que en materia forestal se encuentren vigentes;
 
-X. Coplade: El Comité de Planeación para el Desarrollo del Estado;
+IX. Convenio o acuerdo de concertación: El instrumento jurídico por medio del cual, el Ejecutivo Estatal, por sí o a través de la Secretaría podrá concertar la realización de las acciones previstas en el Plan de Desarrollo Forestal, con representaciones de grupos sociales o con los particulares interesados;
 
-XI. Ley: La Ley de Desarrollo Forestal Sustentable del Estado;
+X. Convenio o acuerdo de coordinación: El instrumento jurídico por medio del cual, el Ejecutivo Federal, acuerda con el Ejecutivo Estatal y los municipios, la realización de acciones coadyuvantes para el logro de los objetivos de la Planeación Nacional Forestal;
 
-XII. Ley General: La Ley General de Desarrollo Forestal Sustentable;
+XI. Coplade: El Comité de Planeación para el Desarrollo del Estado;
 
-XIII. Quema controlada: Aplicación del fuego mediante el manejo de los factores de tipo climático, de condiciones de los combustibles en cuanto a su estado físico, distribución y cantidad y de topografía del terreno, para eliminar y romper la continuidad de los combustibles por los cuales se inicia el fuego;
+XII. Ley: La Ley de Desarrollo Forestal Sustentable del Estado;
 
-XIV. Reglamento: El reglamento de la presente Ley;
+XIII. Ley General: La Ley General de Desarrollo Forestal Sustentable;
 
-XV. Secretaría: La Secretaría de Recursos Naturales y Medio Ambiente del Estado;
+XIV. Quema controlada: Aplicación del fuego mediante el manejo de los factores de tipo climático, de condiciones de los combustibles en cuanto a su estado físico, distribución y cantidad y de topografía del terreno, para eliminar y romper la continuidad de los combustibles por los cuales se inicia el fuego;
 
-XVI. SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales; y
+XV. Reglamento: El reglamento de la presente Ley;
 
-XVII. Veda Forestal: La restricción total o parcial del aprovechamiento de recursos forestales en una superficie o para una especie determinada, mediante decreto que expida el titular del Ejecutivo Federal.
+XVI. Secretaría: La Secretaría de Recursos Naturales y Medio Ambiente del Estado;
+
+XVII. SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales; y
+
+XVIII. Veda Forestal: La restricción total o parcial del aprovechamiento de recursos forestales en una superficie o para una especie determinada, mediante decreto que expida el titular del Ejecutivo Federal.
 
 ## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y ADMINISTRACIÓN DEL SECTOR FORESTAL
 
@@ -301,13 +305,17 @@ XXXIV. Hacer del conocimiento de las autoridades competentes, los delitos en mat
 
 XXXV. Elaborar estudios, para en su caso, recomendar a la Federación el establecimiento de restricciones a la forestación y reforestación en su territorio;
 
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+
+XXXVI. Diseñar, desarrollar y aplicar instrumentos económicos para promover el desarrollo forestal de la entidad, de conformidad con esta Ley y la política nacional forestal;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
+
+XXXVII. Promover, en su ámbito de competencia y como parte de la política forestal estatal, acciones afirmativas tendientes a garantizar la igualdad sustantiva de oportunidades en materia forestal para las mujeres, la población indígena, los jóvenes y las personas con discapacidad; y
+
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-XXXVI. Diseñar, desarrollar y aplicar instrumentos económicos para promover el desarrollo forestal de la entidad, de conformidad con esta Ley y la política nacional forestal, y
-
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
-
-XXXVII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable le conceda esta Ley u otros ordenamientos que no estén expresamente otorgados a la Federación o a los municipios.
+XXXVIII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable le conceda esta Ley u otros ordenamientos que no estén expresamente otorgados a la Federación o a los municipios.
 
 #### SECCIÓN TERCERA. DE LAS ATRIBUCIONES DE LOS MUNICIPIOS
 
@@ -695,9 +703,11 @@ III. A pesar de las acciones instauradas en el terreno afectado y después de se
 
 ### CAPÍTULO II. DE LA PREVENCIÓN, COMBATE Y CONTROL DE INCENDIOS FORESTALES
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 48.
 
-Previos los convenios y acuerdos de coordinación que se establezcan con la Federación, la Secretaría realizará las acciones de prevención, detección, combate y control especializado de incendios forestales, de conformidad con los programas operativos anuales que se elaboren en congruencia con el Programa Nacional.
+Previos los convenios y acuerdos de coordinación que se establezcan con la Federación, la Secretaría realizará las acciones de prevención, detección, combate y control especializado de incendios forestales, de conformidad con los programas operativos anuales que se elaboren en congruencia con el Programa Nacional; participando en la instrumentación del Programa de Manejo del Fuego, en el ámbito de su competencia, de acuerdo con los lineamientos del Programa de Manejo del Fuego, el Sistema Nacional de Protección Civil; y la Ley General de Desarrollo Forestal Sustentable.
 
 ###### ARTÍCULO 49.
 
@@ -729,15 +739,21 @@ Los propietarios y poseedores de los terrenos forestales y preferentemente fores
 
 La Secretaría, de conformidad con las normas oficiales mexicanas, en materia de prevención, combate y control de incendios forestales, evaluará los daños para las actividades de restauración del área afectada y establecerá los procesos de seguimiento, así como los métodos y formas de uso del fuego en los terrenos forestales y agropecuarios colindantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 53.
 
-Los propietarios, poseedores y titulares de autorizaciones de aprovechamiento de recursos forestales de terrenos de uso forestal, están obligados a llevar a cabo, en caso de incendio, la restauración de la superficie afectada en el plazo máximo de dos años, debiendo ser restaurada la cubierta vegetal afectada, mediante la reforestación artificial, cuando la regeneración natural no se establezca.
+Los propietarios, poseedores y titulares de autorizaciones de aprovechamiento de recursos forestales de terrenos de uso forestal, están obligados a llevar a cabo, en caso de incendio, la restauración de la superficie afectada en el plazo máximo de un año, debiendo ser restaurada la cubierta vegetal afectada, mediante la reforestación artificial, cuando la regeneración natural no se establezca.
 
 Cuando los dueños o poseedores de los predios dañados demuestren su imposibilidad para cumplir directamente con las actividades de restauración, podrán solicitar fundadamente a las autoridades municipales o estatales, el apoyo para realizar dichos trabajos. De igual manera, los titulares de las autorizaciones de aprovechamiento de recursos forestales de los predios afectados que no hayan sido responsables del incendio, podrán solicitar el apoyo para los trabajos de restauración, en los términos que se establezcan en los instrumentos económicos vigentes.
 
-En el caso de que haya transcurrido el plazo de dos años sin que el propietario hubiera procedido a la restauración, la Secretaría realizará los trabajos correspondientes con cargo a ellos, quienes deberán pagar la contra prestación respectiva en los términos de las disposiciones aplicables, que tendrá el carácter de crédito fiscal y su recuperación será mediante el procedimiento económico coactivo correspondiente.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
-Cuando los propietarios, poseedores y titulares de autorizaciones de aprovechamiento de recursos forestales de terrenos de uso forestal que hayan sido afectados por incendio, comprueben fehacientemente que los daños sean de una magnitud tal que requieran de un proceso de restauración mayor a los dos años, podrán acudir ante la Secretaría a que se le amplíe el plazo a que se refieren los primeros dos párrafos del artículo anterior, así como la gestión de apoyos mediante los programas estatales aplicables.
+En el caso de que haya transcurrido el plazo de un año sin que el propietario hubiera procedido a la restauración, la Secretaría realizará los trabajos correspondientes con cargo a ellos, quienes deberán pagar la contra prestación respectiva en los términos de las disposiciones aplicables, que tendrá el carácter de crédito fiscal y su recuperación será mediante el procedimiento económico coactivo correspondiente.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
+Cuando los propietarios, poseedores y titulares de autorizaciones de aprovechamiento de recursos forestales de terrenos de uso forestal que hayan sido afectados por incendio, comprueben fehacientemente que los daños sean de una magnitud tal que requieran de un proceso de restauración mayor al año, podrán acudir ante la Secretaría a que se le amplíe el plazo a que se refieren los primeros dos párrafos del artículo anterior, así como la gestión de apoyos mediante los programas estatales aplicables.
 
 ###### ARTÍCULO 54.
 
@@ -753,9 +769,11 @@ La Secretaría, con la información del Inventario Forestal y de Suelos y el ord
 
 La Secretaría y la CONAFOR, escuchando la opinión del Consejo y tomando en cuenta los requerimientos de recuperación en zonas degradadas y las condiciones socioeconómicas de los habitantes de las mismas, promoverá la elaboración y aplicación de programas e instrumentos económicos que se requieran para fomentar las labores de conservación y restauración de los recursos forestales y las cuencas hidrológicas.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 57.
 
-Los propietarios, poseedores o usufructuarios de terrenos forestales o preferentemente forestales están obligados a realizar las acciones de restauración y conservación pertinentes y aquellas que para tal caso dicte la Secretaría. En el caso de que éstos demuestren carecer de recursos, la Secretaría los incorporará a las (sic) programas de apoyo que instrumente, de acuerdo a las asignaciones que para tal fin se contemplen en el presupuesto de egresos del Estado.
+Los propietarios, poseedores o usufructuarios de terrenos forestales o preferentemente forestales están obligados a realizar las acciones de restauración y conservación pertinentes, mismas que se realizará (sic) anualmente, sumadas a aquellas que para tal caso dicte la Secretaría. En el caso de que éstos demuestren carecer de recursos, la Secretaría los incorporará a las (sic) programas de apoyo que instrumente, de acuerdo a las asignaciones que para tal fin se contemplen en el presupuesto de egresos del Estado.
 
 ### CAPÍTULO IV. DE LA FORESTACIÓN Y REFORESTACIÓN CON FINES DE CONSERVACIÓN Y RESTAURACIÓN
 
@@ -783,9 +801,11 @@ III. Tengan como finalidad la conservación, repoblación, propagación, disemin
 
 La Secretaría y los municipios, en los términos de los acuerdos y convenios que se celebren, prestarán su colaboración para que se cumpla con lo que señalen las vedas forestales.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 61.
 
-Es obligatorio para las autoridades estatal y municipal, incluir en sus Planes de Desarrollo respectivos, programas tendientes a la reforestación y forestación del Estado y municipio.
+Es obligatorio para las autoridades estatal y municipal, incluir en sus Planes de Desarrollo respectivos, programas tendientes a la reforestación y forestación del Estado y municipio, mismos que se ejecutarán cuando mínimo una vez al año.
 
 ### CAPÍTULO V. DEL PASTOREO EN LOS TERRENOS FORESTALES
 
@@ -893,9 +913,13 @@ V. Torres para la detección y combate de incendios forestales; y
 
 VI. Las demás que se determinen como de utilidad e interés público.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 73.
 
-La Secretaría, conjuntamente con la Secretaría de Comunicaciones y Obras Públicas y los municipios, promoverá la integración de comités de caminos forestales con el objeto de realizar proyectos de apertura, mejoramiento, conservación y pavimentación, promoviendo la participación, colaboración, aportación y ejecución de los diferentes sectores productivos, vigilando su desarrollo.
+·La Secretaría, conjuntamente con la Secretaría de Comunicaciones y Obras Públicas y los municipios, promoverá la integración de comités de caminos forestales con el objeto de realizar proyectos de apertura, mejoramiento, conservación y pavimentación, promoviendo la participación, colaboración, aportación y ejecución de los diferentes sectores productivos, vigilando su desarrollo; garantizando que la construcción de tales obras propias en terrenos forestales cause el menor daño a los ecosistemas forestales, y en su caso se cumpla con las medidas de mitigación de los impactos causados.
+
+En el ámbito de su competencia, el Estado y los municipios, vigilarán que los proyectos propios de desarrollo hidráulico, electrificación, infraestructura vial y obra pública propia en las regiones forestales, cause el menor daño a los ecosistemas forestales, respetando la densidad de la red de caminos y brechas forestales.
 
 ### CAPÍTULO III. DE LA CAPITALIZACIÓN Y MODERNIZACIÓN INDUSTRIAL
 
@@ -1205,7 +1229,7 @@ Son responsables mancomunados de las infracciones, quienes intervienen en su pre
 
 En contra de los actos y resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, su reglamento y normas oficiales mexicanas, se estará a lo dispuesto por la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
 
-TRANSITORIOS:
+T R A N S I T O R I O S :
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1298,6 +1322,30 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el
 P.O. 13 DE DICIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 18.- QUE CONTIENE REFORMAS AL ARTÍCULO 1 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 117.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 2, 6 Y 12 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 118.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 48 Y 73 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 119.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 53, 57 Y 61 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE DURANGO”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
