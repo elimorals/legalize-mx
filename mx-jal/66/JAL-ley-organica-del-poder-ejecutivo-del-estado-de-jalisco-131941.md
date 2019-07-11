@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2019-04-10"
+last_updated: "2019-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -1571,9 +1571,17 @@ c) Capacitación y el adiestramiento de los trabajadores en el Estado;
 
 d) Actividades culturales y recreativas entre los trabajadores y sus familias;
 
-XI. Realizar las funciones de inspección de jurisdicción estatal y vigilar el cumplimiento de las normas laborales en todos los rubros; y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-XII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+XI. Realizar las funciones de inspección de jurisdicción estatal y vigilar el cumplimiento de las normas laborales en todos los rubros;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2019)</small>
+
+XII. Operar el Padrón de Jornaleros Agrícolas con el objetivo de identificar la fuerza laboral agrícola en la entidad, para lo cual podrá coordinarse mediante Convenio de Colaboración con los municipios del Estado de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE JULIO DE 2019)</small>
+
+XIII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ###### Artículo 33.
 
@@ -2942,3 +2950,11 @@ SEXTO. El Congreso del Estado realizará las reformas que, en su caso, resulten 
 SÉPTIMO. El Congreso del Estado, en su caso, realizará las modificaciones presupuestales necesarias para dotar de recursos suficientes para la aplicación de este decreto.
 
 OCTAVO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27283/LXII/19 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS A LA LEY ORGÁNICA DEL PODER EJECUTIVO Y LA LEY DE DESARROLLO RURAL SUSTENTABLE AMBAS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría del Trabajo y Previsión Social tendrá 180 días naturales para elaborar y presentar a los municipios el Convenio de Colaboración
