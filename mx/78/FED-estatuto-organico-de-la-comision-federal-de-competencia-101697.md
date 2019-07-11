@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-competencia-101697"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-07-08"
-last_updated: "2017-10-27"
+last_updated: "2019-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101697&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-07-07"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JULIO DE 2019.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 8 de julio de 2014.
 
@@ -159,9 +159,17 @@ VII. Unidad de Transparencia;
 
 VIII. Comité de Transparencia;
 
-IX. Delegaciones en el interior de la República Mexicana; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 11 DE JULIO DE 2019)</small>
 
-X. Los demás órganos y unidades administrativas que determine el Pleno de la Comisión, de acuerdo con el presupuesto autorizado y según la estructura orgánica que para tales efectos sea aprobada.
+IX. Los Comités Calificadores a que se refiere el artículo 48 BIS de este Estatuto.
+
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2019)</small>
+
+X. Delegaciones en el interior de la República Mexicana, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 11 DE JULIO DE 2019)</small>
+
+XI. Los demás órganos y unidades administrativas que determine el Pleno de la Comisión, de acuerdo con el presupuesto autorizado y según la estructura orgánica que para tales efectos sea aprobada.
 
 ### Capítulo I. De la integración y de las atribuciones del Pleno
 
@@ -873,9 +881,11 @@ XXVII. Las demás que le delegue o encomiende el Presidente, y las que señalen 
 
 De las Direcciones Generales
 
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 23.
 
-Cada Dirección General estará a cargo de un Director General, quien será apoyado para el eficaz y eficiente ejercicio de sus facultades de Directores Generales Adjuntos, Directores de Área, Subdirectores, Jefes de Departamento, Analistas y demás personal técnico y administrativo que le sea autorizado.
+Cada Dirección General estará a cargo de un Director General, quien será apoyado para el eficaz y eficiente ejercicio de sus facultades del personal técnico y administrativo que le sea autorizado.
 
 ###### ARTÍCULO 24.
 
@@ -1319,7 +1329,9 @@ II. Auxiliar al Jefe de la Unidad de Planeación, Vinculación y Asuntos Interna
 
 III. Promover y coordinar los mecanismos e iniciativas de cooperación en materia de competencia y libre concurrencia con los gobiernos de los Estados y de la Ciudad de México;
 
-IV. Fomentar, coordinar, facilitar y fortalecer enlaces y supervisar la implementación de los mecanismos de cooperación entre la Comisión y las instituciones públicas o privadas, nacionales o extranjeras en materia de competencia y libre concurrencia;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2019)</small>
+
+IV. Fomentar, coordinar, facilitar y fortalecer enlaces y supervisar la implementación de los mecanismos de cooperación entre la Comisión y las instituciones públicas o privadas nacionales en materia de competencia y libre concurrencia;
 
 V. Promover y coordinar con los diferentes organismos reguladores, dependencias y entidades de la Administración Pública Federal, el Poder Legislativo y el Poder Judicial y demás autoridades públicas, los mecanismos e iniciativas de cooperación para la promoción y la protección al proceso de competencia y libre concurrencia a favor de los intereses de los consumidores;
 
@@ -1337,13 +1349,11 @@ IX. Establecer y mantener la relación de la Comisión con las autoridades compe
 
 IX BIS. Elaborar y dar seguimiento a los convenios o acuerdos interinstitucionales que se realicen para el cumplimiento del objeto de la Ley;
 
-> <small>(ADICIONADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2019)</small>
 
-IX BIS 1. Apoyar en la preparación de la participación del Titular de la Unidad de Planeación, Vinculación y Asuntos Internacionales, o en su caso representar a la Comisión, en los grupos interinstitucionales cuando lo designe el Presidente de la Comisión o algún instrumento jurídico distinto a la Ley;
+IX BIS 1. Apoyar en la preparación de la participación del Titular de la Unidad de Planeación, Vinculación y Asuntos Internacionales, o en su caso representar a la Comisión, en los grupos interinstitucionales cuando lo designe el Comisionado Presidente de la Comisión o algún instrumento jurídico distinto a la Ley, y
 
-> <small>(ADICIONADA, D.O.F. 27 DE OCTUBRE DE 2017)</small>
-
-IX BIS 2. Publicar en la página de Internet de la Comisión los acuerdos, lineamientos, directrices, criterios técnicos, resoluciones o cualquier otro documento de conformidad con la Ley, las Disposiciones Regulatorias, este Estatuto y demás disposiciones aplicables; y
+IX BIS 2. (DEROGADA, D.O.F. 11 DE JULIO DE 2019)
 
 X. Las demás que le deleguen o encomienden el Presidente o el Jefe de la Unidad de Planeación, Vinculación y Asuntos Internacionales; así como las que señalen la Ley, este Estatuto, las Disposiciones Regulatorias u otros ordenamientos.
 
@@ -1611,9 +1621,15 @@ El Secretario Técnico será el titular de Unidad de Transparencia de la Comisi�
 
 Los demás órganos de transparencia de la Comisión se regirán conforme al Reglamento emitido por el Pleno en esta materia.
 
-### Capítulo X. De las Suplencias y los cargos provisionales
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 11 DE JULIO DE 2019)</small>
 
-### Capítulo XI. Delegaciones fuera de la Ciudad de México
+### Capítulo IX BIS. De los Comités Calificadores
+
+> <small>(ADICIONADO, D.O.F. 11 DE JULIO DE 2019)</small>
+
+ARTÍCULO 48 BIS.- La Comisión contará con Comités Calificadores cuya función será determinar en qué casos cierta información será susceptible de protección por contener comunicaciones que tengan como finalidad la obtención de asesoría legal. La integración y forma de operación de dichos Comités serán los establecidos en las Disposiciones Regulatorias.
+
+### Capítulo X. De las Suplencias y los cargos provisionales
 
 ###### ARTÍCULO 49.
 
@@ -1623,13 +1639,17 @@ Cuando el presente Estatuto haga referencia al Presidente, se entenderá que tam
 
 En caso de vacancia, ausencia o impedimento legal de los titulares de los órganos o de las unidades administrativas se estará a lo siguiente:
 
-I. El Secretario Técnico será suplido por el Director General de Asuntos Jurídicos. En ausencia de este último, por el titular de la Dirección General de Concentraciones;
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2019)</small>
+
+I. El Secretario Técnico será suplido por el Director General de Asuntos Jurídicos. En ausencia de este último, por el titular de la Dirección General de Concentraciones y, en ausencia de éste, por el Director General de Estudios Económicos;
 
 II. El titular de la Autoridad Investigadora será suplido por el titular de la Oficina de Coordinación. En ausencia de este último, por el Director General de Investigaciones de Prácticas Monopólicas Absolutas.
 
 III. El titular de la Unidad de Planeación, Vinculación y Asuntos Internacionales será suplido por el Director General de Planeación y Evaluación. En ausencia de éste, por el Director General de Promoción de la Competencia; y
 
-IV. Los Directores Generales serán suplidos por los Directores Generales Adjuntos o de Área que designen mediante acuerdo de suplencia.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE JULIO DE 2019)</small>
+
+IV. Los Directores Generales serán suplidos por los servidores públicos que ellos designen o que sean designados por el Secretario Técnico o los titulares de la Autoridad Investigadora y de la Unidad de Planeación, Vinculación y Asuntos Internacionales, según corresponda, mediante acuerdo de suplencia.
 
 > <small>(ADICIONADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
@@ -1644,6 +1664,8 @@ Cuando el presente Estatuto haga referencia a los titulares de la Autoridad Inve
 Sin perjuicio de lo previsto por otras normas aplicables, en casos de ausencia temporal o impedimento, los demás servidores públicos de la Comisión serán suplidos conforme al acuerdo correspondiente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+
+### Capítulo XI. Delegaciones fuera de la Ciudad de México
 
 ###### ARTÍCULO 52.
 
@@ -1770,5 +1792,11 @@ La Presidente, Alejandra Palacios Prieto.- Rúbrica.- Los Comisionados: Jesús I
 D.O.F. 27 DE OCTUBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL EL PLENO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA".]
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO MEDIANTE EL CUAL EL PLENO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA".]
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
