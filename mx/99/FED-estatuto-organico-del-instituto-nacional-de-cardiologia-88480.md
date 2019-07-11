@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-cardiologia-88480"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-07-04"
-last_updated: "2018-03-12"
+last_updated: "2019-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88480&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-04-03"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JULIO DE 2019.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 4 de julio de 2012.
 
@@ -881,13 +881,15 @@ XV. Elaborar y/o supervisar y vigilar que los trabajos especiales, que dentro de
 
 Se podrán crear e instaurar las Comisiones, Comités y Subcomités necesarios, para el óptimo cumplimiento de las diferentes metas y objetivos del Instituto.
 
-> <small>[N. DE E. SE ADVIERTE QUE LA MODIFICACIÓN AL ESTATUTO PUBLICADA EN EL D.O.F. 14 DE JULIO DE 2017, DIFIERE EN EL NÚMERO DE PÁRRAFOS, POR LO QUE SE SUGIERE CONSULTAR LA PUBLICACIÓN OFICIAL EN LA PÁGINA 55, Y LA PÁGINA ELECTRÓNICA DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ EN: PAGINAhttps://www.cardiologia.org.mx/normateca_institucional/normateca_interna/docs/pdf/sustantiva/otras_disposiciones_sustantivas/estatuto_organico_del_instituto_nacional_de_cardiologia_ignacio_chavez.pdf]</small>
+> <small>[N. DE E. SE ADVIERTE QUE LA MODIFICACIÓN AL ESTATUTO PUBLICADA EN EL D.O.F. 11 DE JULIO DE 2019, DIFIERE EN EL NÚMERO DE PÁRRAFOS, DEROGÁNDO LOS PÁRRAFOS VIGÉSIMO QUINTO, TRIGÉSIMO OCTAVO Y CUADRAGÉSIMO SEGUNDO DEL ARTÍCULO 45 BIS, POR LO QUE SE SUGIERE CONSULTAR LA PUBLICACIÓN OFICIAL, PÁGINAS DE LA 86 A LA 87]</small>
 
 ###### ARTICULO 45o.
 
 bis. El Instituto cuenta con las Comisiones, Comités y Subcomités que a continuación se mencionan:
 
-Comisión de Seguridad y Salud en el Trabajo, tendrá las funciones que le señalan el Reglamento de Seguridad e Higiene en el Trabajo de las Condiciones Generales de Trabajo.
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2019)</small>
+
+Comisión de Seguridad e Higiene, tendrá las funciones que le señalan el Reglamento de Seguridad e Higiene de la Secretaría de Salud, así como las referidas en las Condiciones Generales de Trabajo.
 
 Comisión Evaluadora de Premios, Estímulos y Recompensas Civiles, tendrá las funciones que le señalan la Ley de Premios, Estímulos y Recompensas Civiles y demás disposiciones aplicables.
 
@@ -925,7 +927,9 @@ Comisión Interna de Investigación en Salud, tendrá las funciones que señala 
 
 Comité de Calidad y Seguridad del Paciente, tendrá las funciones señaladas en la Instrucción 171/2009 del Programa SICalidad de la Secretaría de Salud.
 
-Comité de Control de Infecciones Nosocomiales, tendrá las funciones que le señalan los Lineamientos para la Organización y Funcionamiento de los Comités Técnico Médicos Hospitalarios y demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2019)</small>
+
+Comité para la Detección y Control de las Infecciones Nosocomiales, tendrá las funciones que le señala la Norma Oficial Mexicana NOM-045-SSA2-2005, Para la vigilancia epidemiológica, prevención y control de las infecciones nosocomiales.
 
 > <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
 
@@ -945,13 +949,11 @@ Comité para el Programa de Ahorro de Energía, tendrá las funciones que señal
 
 Comité de Control y Desempeño Institucional, tendrá las funciones que le señalan en el Manual Administrativo de Aplicación General en Material de Control Interno.
 
-Comité de Recepción de Quejas y Asesoramiento en casos de Hostigamiento y Acoso Sexual del Instituto Nacional de Cardiología Ignacio Chávez que realizará las funciones que señala el Protocolo de Intervención para casos de Hostigamiento y Acoso Sexual emitido por la Secretaría de la Función Pública.
+> <small>(DEROGADO, D.O.F. 11 DE JULIO DE 2019)</small>
 
-> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2019)</small>
 
-Comité de Ética y de Prevención de Conflictos de Interés, tendrá las funciones que establece el apartado 6 de los Lineamientos generales para propiciar la integridad de los servidores públicos y para implementar acciones permanentes que favorezcan su comportamiento ético, a través de los Comités de Ética y de Prevención de Conflictos de Interés.
-
-(Aprobado en la 1ª. Sesión ordinaria de la Junta de Gobierno, celebrada el 3 de mayo de 2016)
+Comité de Ética y de Prevención de Conflictos de Interés, tendrá las funciones que establecen las Bases para la integración, organización y funcionamiento del Comité de Ética y de Prevención de Conflictos de Interés.
 
 > <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
 
@@ -983,7 +985,9 @@ Subcomité de Morbi-Mortalidad, tendrá las funciones que establece la normativi
 
 Subcomité de Expediente Clínico, tendrá las funciones que establece la normatividad vigente en la materia.
 
-Subcomité de Medicina Transfusional, tendrá las funciones que establece el artículo 316 de la Ley General de Salud y la normatividad vigente en la materia.
+> <small>(REFORMADO, D.O.F. 11 DE JULIO DE 2019)</small>
+
+Comité de Medicina Transfusional, tendrá las funciones que establece (sic) Ley General de Salud en su artículo 316, así como las estipuladas en la Norma Oficial Mexicana NOM-253-SSA1-2012, para la disposición de sangre humana y sus componentes con fines terapéuticos.
 
 Subcomité del Grupo Operativo de Cirugía, tendrá las funciones que establece la normatividad vigente en la materia.
 
@@ -1043,7 +1047,9 @@ El Instituto cuenta (sic) las clínicas que a continuación se mencionan:
 
 I. Clínica de Complejo Aórtico
 
-II. Clínica de Cardiopatías Congénitos
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2019)</small>
+
+II. Clínica de Cardiopatías Congénitas
 
 III. Clínica de Insuficiencia Cardiaca
 
@@ -1057,7 +1063,9 @@ VII. Clínica de Cardiopatía y Embarazo
 
 VIII. Clínica de Cardiología Geriátrica
 
-IX. Clínica de Cardiopatía Isquémica Crónica
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2019)</small>
+
+IX. Clínica de Cardiopatía Isquémica
 
 X. Clínica de Miocardiopatías
 
@@ -1065,9 +1073,15 @@ XI. Clínica de Cardio Oncología
 
 XII. Clínica de Cardiopatías Valvulares
 
-XIII. Clínica de Hipertensión Arterial
+> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2019)</small>
+
+XIII. Clínica de Hipertensión Arterial Sistémica
 
 XIV. Clínica de Prevención y Factores de Riesgo
+
+> <small>(ADICIONADA, D.O.F. 11 DE JULIO DE 2019)</small>
+
+XV. Clínica de Síndrome Disautonómico
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -1240,3 +1254,11 @@ PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su aprobaci
 SEGUNDO. Se modifica el Estatuto Orgánico del Instituto Nacional de Cardiología Ignacio Chávez aprobado en la Primera Reunión Ordinaria 2017, celebrada el 25 de abril de 2017.
 
 TERCERO. El Director General del Instituto deberá inscribir este Estatuto en el Registro Público de Organismos Descentralizados en los términos de la Ley Federal de las Entidades Paraestatales.
+
+D.O.F. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO O-01/2019-9 DE LA JUNTA DE GOBIERNO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ".]
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las modificaciones al Estatuto Orgánico del Instituto Nacional de Cardiología Ignacio Chávez, deberán de inscribirse en el Registro Público de Organismos Descentralizados en los términos de la Ley Federal de las Entidades Paraestatales.
