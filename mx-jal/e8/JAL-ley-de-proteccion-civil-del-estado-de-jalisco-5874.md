@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-civil-del-estado-de-jalisco-5874"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2019-06-13"
+last_updated: "2019-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 10 de julio de 1993.
 
@@ -721,17 +721,21 @@ III. Un Secretario Técnico, que será el titular de la Unidad Estatal;
 
 IV. Los presidentes de las siguientes comisiones legislativas permanentes del Congreso del Estado de:
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
-a) Comisión de Medio Ambiente, Sostenibilidad, Protección Civil y Resiliencia;
+a) Seguridad y Justicia;
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
-b) Asistencia social, familia y niñez;
+b) Asistencia social, Familia y Niñez;
 
-c) (DEROGADO, P.O. 11 DE MAYO DE 2019)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2019)</small>
 
-d) (DEROGADO, P.O. 11 DE MAYO DE 2019); y
+c) Planeación, ordenamiento territorial y de la gestión del agua;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2019)</small>
+
+d) Medio ambiente, sostenibilidad, protección civil y resiliencia; y
 
 e) (DEROGADO, P.O. 11 DE MAYO DE 2019)
 
@@ -759,13 +763,13 @@ d) Secretaría del Medio Ambiente y Desarrollo Territorial;
 
 e) Secretaría de Salud;
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
-f) Secretaría de Desarrollo Rural;
+f) Secretaría de Agricultura y Desarrollo Rural;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
-g) Secretaría de Planeación, Administración y Finanzas;
+g) Secretaría de Administración;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE MARZO DE 2015)</small>
 
@@ -775,13 +779,13 @@ h) Secretaría de Innovación, Ciencia y Tecnología;
 
 i) Secretaría de Educación;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
-j) Secretaría de Desarrollo e Integración Social;
+j) Secretaría de Igualdad Sustantiva;
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
-k) Comisión Estatal del Agua; e
+k) Secretaría de Gestión Integral del Agua; e
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
 
@@ -1847,11 +1851,11 @@ VII. El beneficio directo o indirecto, que haya obtenido o pueda obtener el infr
 
 VIII. El cumplimiento que realice el infractor respecto de las medidas de seguridad o de las relativas a subsanar las conductas infractoras.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2019)</small>
 
 ###### Artículo 83.
 
-Las sanciones pecuniarias a que se refiere este capítulo se considerarán créditos fiscales y serán hechos efectivos por la Secretaría de Planeación, Administración y Finanzas o la Oficina de la Hacienda Municipal, a solicitud de la Unidad Estatal o la Unidad Municipal, según corresponda.
+Las sanciones pecuniarias a que se refiere este capítulo se considerarán créditos fiscales y serán hechos efectivos por la Secretaría de la Hacienda Pública o la Oficina de la Hacienda Municipal, a solicitud de la Unidad Estatal o la Unidad Municipal, según corresponda.
 
 El procedimiento de notificación, ejecución y extinción de las sanciones pecuniarias, así como los recursos administrativos para oponerse a el procedimiento económico coactivo, se sujetará a las disposiciones de las leyes hacendarias aplicables.
 
@@ -2150,3 +2154,9 @@ P.O. 13 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27277/LXII/19 QUE REFORMA EL ARTÍCULO 72 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DE "DECRETO 27292/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5°, 7°, 15, 53 Y EL CAPÍTULO IV DE LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD ANIMAL PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; 6° DE LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO; 5° Y 7° DE LA LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; 26 Y 83 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; Y EL 41 DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
