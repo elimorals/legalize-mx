@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-en-materia-de-sanidad-vegetal-del-46366"
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-30"
-last_updated: "2017-03-23"
+last_updated: "2019-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado, el martes 30 de agosto de 2005
 
@@ -137,7 +137,9 @@ XV. Organismos Benéficos: Seres vivos que son enemigos naturales de las plagas 
 
 XVI. Plagas: Forma de vida vegetal, animal o agente patógeno dañino a los vegetales;
 
-XVII. Secretaría: La Secretaría de Desarrollo Rural;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+
+XVII. Secretaría: La Secretaría de Agricultura y Desarrollo Rural;
 
 XVIII. Semilla: Los frutos o partes de éstos, así como las partes vegetales o vegetales completos, que puedan utilizarse para la reproducción y propagación de las diferentes especies vegetales; y,
 
@@ -443,7 +445,7 @@ En el uso y manejo de organismos genéticamente modificados incluyendo su utiliz
 
 ###### Artículo 30.
 
-Los ayuntamientos darán aviso a la Secretaría, con el uso que corresponda de la Credencial Única Agroalimentaria, sobre los permisos o licencias que otorguen a las personas físicas o Jurídicas que desarrollen, presten, o realicen actividades o servicios fitosanitarios, así como la comercialización de agroquímicos en el Estado, con el objeto de mantener actualizado el Directorio Fitosanitario.
+Los ayuntamientos darán aviso a la Secretaría, con el uso que corresponda de la Credencial Única Agroalimentaria, sobre los permisos o licencias que otorguen a las personas físicas o jurídicas que desarrollen, presten, o realicen actividades o servicios fitosanitarios, así como la comercialización de agroquímicos en el Estado, con el objeto de mantener actualizado el Directorio Fitosanitario.
 
 ###### Artículo 31.
 
@@ -676,3 +678,9 @@ P.O. 23 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26289/LXI/17 QUE REFORMA EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO 25538/LX/2015”.]
 
 ÚNICO. El presente decreto iniciará su vigencia el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27292/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5°, 7°, 15, 53 Y EL CAPÍTULO IV DE LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD ANIMAL PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; 6° DE LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO; 5° Y 7° DE LA LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; 26 Y 83 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; Y EL 41 DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
