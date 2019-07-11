@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-servicios-para-el-desarrollo-integral-infantil-del-91054
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-23"
-last_updated: "2017-12-07"
+last_updated: "2019-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91054&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SERVICIOS PARA EL DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 23 de diciembre de 2012.
 
@@ -71,9 +71,9 @@ I. Centros de Atención: A los espacios, cualquiera que sea su denominación, de
 
 II. Consejo: Consejo Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-III. Desarrollo Integral Infantil: Es el derecho que tienen los menores a formarse física, mental, emocional y socialmente en condiciones de igualdad;
+III. Desarrollo Integral Infantil: Es el derecho que tienen los menores a formarse física, mental, emocional y socialmente en condiciones de igualdad y sin ningún tipo de discriminación;
 
 IV. Ley: Ley de Servicios para el Desarrollo Integral Infantil del Estado de Durango;
 
@@ -101,13 +101,13 @@ XIII. Secretaría: Secretaría de Salud del Gobierno del Estado;
 
 XIV. Servicios para la atención, cuidado y desarrollo integral infantil: Medidas dirigidas a los menores en los Centros de Atención, consistentes en la atención y cuidado para su desarrollo integral infantil;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-XV. Los menores: las (sic) niños y niñas que reciben los servicios de los Centros de Atención; y
+XV. Los menores: Las niñas y niños que reciben los servicios de los Centros de Atención; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-XVI. Usuario del menor: La madre o padre, o en su caso el tutor o quien ejerza la patria potestad del menor que utiliza los servicios del Centro de Atención.
+XVI. Usuario del servicio: La madre o padre, o en su caso el tutor o quien ejerza la patria potestad del menor que utiliza los servicios del Centro de Atención en cualquiera de sus modalidades.
 
 ###### ARTÍCULO 4.
 
@@ -145,7 +145,9 @@ III. A la atención y promoción de la salud;
 
 IV. A recibir la alimentación que les permita tener una nutrición adecuada;
 
-V. A recibir orientación y educación apropiada a su edad, orientadas a lograr un desarrollo físico, cognitivo, afectivo y social hasta el máximo de sus posibilidades, así como a la comprensión y el ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+
+V. A recibir orientación, educación y cuidados apropiados a su edad y cualidades particulares, orientadas a lograr un desarrollo físico, cognitivo, afectivo, psicológico, emocional y social hasta el máximo de sus posibilidades, así como a la comprensión y el ejercicio de sus derechos, en términos de la normatividad reglamentaria que se expida;
 
 VI. Al descanso, al juego y al esparcimiento; y
 
@@ -353,7 +355,9 @@ IV. Promover la creación en el uso de indicadores y mecanismos de seguimiento y
 
 V. Realizar estudios de investigación que contribuyan a la toma de decisiones y la planeación de políticas públicas vinculadas con el objeto de esta Ley;
 
-VI. Promover la ampliación de la cobertura y la calidad de los servicios, a través de esquemas diversificados y regionalizados;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+
+VI. Promover la ampliación de la cobertura y la calidad de los servicios, a través de esquemas diversificados, equitativos, inclusivos y regionalizados;
 
 VII. Promover la participación de las familias y la sociedad civil en el monitoreo de los servicios para la atención, cuidado y desarrollo integral infantil;
 
@@ -363,9 +367,11 @@ IX. Deberá entregar un informe anual de actividades al Ejecutivo del Estado
 
 X. Aprobar su reglamentación interna y las demás que le señale esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 23.
 
-El Consejo para el cumplimiento de los objetivos de esta Ley deberá coordinarse con las dependencias, entidades y los Ayuntamientos que conforman el Consejo, para promover mecanismos que permitan mejorar la calidad de los servicios para la atención, cuidado y el desarrollo integral infantil, para asegurar la atención de las niñas y niños de los centros de atención.
+El Consejo para el cumplimiento de los objetivos de esta Ley deberá coordinarse con las dependencias, entidades y los Ayuntamientos que conforman el Consejo, para promover mecanismos que permitan mejorar la calidad de los servicios para la atención, cuidado y el desarrollo integral infantil, para asegurar la atención de las niñas y niños de los centros de atención en un marco de igualdad libre de todo tipo de discriminación.
 
 ###### ARTÍCULO 24.
 
@@ -1028,3 +1034,11 @@ P.O. 7 DE DICIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 112.- QUE CONTIENE DIVERSAS REFORMAS A LOS ARTÍCULOS 3, 8, 22, 23, 33 Y 36 DE LA LEY DE SERVICIOS PARA EL DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
