@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-responsabilidades-de-los-servidores-publicos-del-4939"
 country: "mx"
 rank: "ley"
 publication_date: "1988-02-18"
-last_updated: "2017-07-16"
+last_updated: "2019-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "DUR"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS EN MATERIA DE JUICIO POLÍTICO, DECLARACIÓN DE PROCEDENCIA Y EL EJERCICIO DE FACULTADES LEGISLATIVAS EN MATERIA DE ENJUICIAMIENTO POR RESPONSABILIDADES PÚBLICAS, PUBLICADA EN EL P.O. DE 11 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el 18, 21, 25 y 28 de febrero de 1988.
 
@@ -832,3 +834,15 @@ Los procedimientos administrativos que se encuentren en trámite al momento que 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 120.- MEDIANTE EL CUAL SE EXPIDE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS EN MATERIA DE JUICIO POLÍTICO, DECLARACIÓN DE PROCEDENCIA Y EL EJERCICIO DE FACULTADES LEGISLATIVAS EN MATERIA DE ENJUICIAMIENTO POR RESPONSABILIDADES PÚBLICAS".]
+
+Primero.- La presente ley abroga, con las excepciones contenidas en estas disposiciones transitorias, la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, expedida mediante el Decreto número 77, por la H. LVII Legislatura, publicada en el Periódico Oficial del Estado números 14, 15, 16 y 17 de fechas 18, 21, 25 y 28 de febrero de 1988.
+
+Segundo.- Los procedimientos que se encuentren pendientes en cualquier instancia, bien sea ministerial, judicial, administrativa o legislativa, se seguirán hasta su legal conclusión, con arreglo a las disposiciones contenidas en la ley que se abroga.
+
+Tercero.- Las declaraciones de situación patrimonial serán presentadas conforme a los formatos que sean autorizados por las instancias nacional y local en materia de anticorrupción y según los lineamientos que establezca la Plataforma Nacional Digital.
+
+Cuarto.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
