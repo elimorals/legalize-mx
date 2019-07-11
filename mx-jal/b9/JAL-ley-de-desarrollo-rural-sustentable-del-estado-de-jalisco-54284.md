@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2018-12-05"
+last_updated: "2019-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
 Ley publicada en la Sección II al Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
@@ -139,13 +139,17 @@ XXVI. Sistema. Mecanismo de concurrencia y coordinación de las funciones de las
 
 XXVII. Sistema-producto. El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-XXVIII. Soberanía agroalimentaria y nutricional. La libre determinación del Estado para establecer políticas públicas preactivas e integrales que garanticen el abasto y acceso de alimentos a toda la población, fundamentalmente con producción estatal; y
+XXVIII. Soberanía agroalimentaria y nutricional. La libre determinación del Estado para establecer políticas públicas preactivas e integrales que garanticen el abasto y acceso de alimentos a toda la población, fundamentalmente con producción estatal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-XXIX. Unidad productiva. Conjunto de recursos naturales, técnicos y económicos de uso racional que, a través de sistemas de producción basados en tecnologías, permitan una explotación eficiente con el propósito de satisfacer las necesidades individuales o colectivas de productores integrados o no, bajo un régimen legal, con el objeto de realizar actividades de producción, distribución y consumo de bienes y servicios que propicien un desarrollo rural sustentable.
+XXIX. Unidad productiva. Conjunto de recursos naturales, técnicos y económicos de uso racional que, a través de sistemas de producción basados en tecnologías, permitan una explotación eficiente con el propósito de satisfacer las necesidades individuales o colectivas de productores integrados o no, bajo un régimen legal, con el objeto de realizar actividades de producción, distribución y consumo de bienes y servicios que propicien un desarrollo rural sustentable; y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
+
+XXX. Jornalero Agrícola. Toda persona que percibe un salario por su fuerza de trabajo, en una actividad propia del campo dentro de un proceso productivo.
 
 ###### Artículo 8.
 
@@ -411,9 +415,17 @@ V. Apoyar en la vigilancia y control de los programas relativos a los aspectos d
 
 VI. Procurar establecer en su presupuesto de egresos una partida para programas de fomento para el desarrollo rural sustentable;
 
-VII. Difundir los planes, programas y acciones que coadyuven al desarrollo rural sustentable de su Municipio; y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-VIII. Las demás que determinen esta Ley y demás ordenamientos aplicables.
+VII. Difundir los planes, programas y acciones que coadyuven al desarrollo rural sustentable de su Municipio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2019)</small>
+
+VIII. Informar a las autoridades competentes de la posible violación de derechos laborales a jornaleros agrícolas; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE JULIO DE 2019)</small>
+
+IX. Las demás que determinen esta Ley y demás ordenamientos aplicables.
 
 ### Capítulo III. De la Comisión Intersecretarial del Estado de Jalisco para el Desarrollo Rural Sustentable
 
@@ -1520,3 +1532,11 @@ P.O. 5 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27189/LXII/18 QUE REFORMA EL ARTÍCULO 6° DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27283/LXII/19 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS A LA LEY ORGÁNICA DEL PODER EJECUTIVO Y LA LEY DE DESARROLLO RURAL SUSTENTABLE AMBAS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría del Trabajo y Previsión Social tendrá 180 días naturales para elaborar y presentar a los municipios el Convenio de Colaboración
