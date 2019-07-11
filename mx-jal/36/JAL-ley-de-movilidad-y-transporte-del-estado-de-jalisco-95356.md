@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2019-04-13"
+last_updated: "2019-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -1199,9 +1199,11 @@ Cuando con posterioridad al registro ocurra algún hecho o acto que modifique lo
 
 ### Capítulo V. De las licencias de conducir y los requisitos para operar vehículos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2019)</small>
+
 ###### Artículo 54.
 
-Es obligación de los conductores de vehículos de transporte público y particulares, para operar y conducir vehículos en el Estado, obtener y portar consigo la licencia para conducir o permiso vigente, con la modalidad, categoría y tipo de servicio de que se trate, expedido por:
+Es obligación de los conductores de vehículos de transporte público y particulares, para operar y conducir vehículos en el Estado, obtener, portar consigo y exhibir cuando se le requiera por la autoridad competente, la licencia para conducir o permiso vigente, con la modalidad, categoría y tipo de servicio de que se trate, expedido por:
 
 I. La Secretaría, la cual expedirá estos documentos conforme a las características y normas establecidas en esta ley;
 
@@ -1247,9 +1249,9 @@ II. Demostrar aptitud física y mental para conducir; salvo lo establecido en el
 
 III. Sustentar y aprobar el examen pericial de manejo, con las condiciones y modalidades que señale el reglamento de esta ley, conforme al tipo de vehículo y las actividades o servicios a realizar;
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-IV. Acreditar, con la documentación correspondiente, la identidad del solicitante, su domicilio, tipo de sangre y manifestar si se padece alergia farmacológica; así como realizar, dentro de la Dirección encargada de la Secretaría, el procedimiento necesario, para que la licencia que se expida, contenga los datos que identifiquen a su portador;
+IV. Acreditar, con la documentación correspondiente, la identidad del solicitante, su domicilio, tipo de sangre y manifestar si se padece alergia farmacológica; así como realizar, dentro de la Dirección encargada de la Secretaría, el procedimiento necesario, para que la licencia que se expida, contenga los datos que identifiquen a su portador, y registrar su número de teléfono o correo electrónico para efectos de ser avisado previamente de la fecha de vencimiento de su licencia;
 
 V. Sustentar y aprobar examen respecto al conocimiento de las disposiciones reglamentarias en materia de movilidad y transporte;
 
@@ -1311,11 +1313,17 @@ Cuando la licencia autorice a una persona con discapacidad, el manejo de vehícu
 
 La expedición y refrendo de licencias y permisos, se realizará conforme a las siguientes normas:
 
-I. Las licencias y sus refrendos se expedirán con vigencia de cuatro años;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+
+I. Las licencias y sus refrendos se expedirán por periodos de cuatro años, el inicio y término de vigencia será el día y mes de la fecha de nacimiento del conductor.
+
+Para obtener la licencia por primera vez, el conductor podrá realizar su trámite en cualquier día hábil del año y el tiempo que transcurra desde la fecha de su expedición hasta la fecha próxima inmediata de su cumpleaños, se reconocerá como vigente, iniciando el periodo de cuatro años el día y mes de nacimiento.
+
+Para trámite de licencia por refrendo, deberá realizarlo dentro de los noventa días naturales anteriores a la fecha de vencimiento, días que serán reconocidos como vigentes en la nueva licencia, en caso de incumplir con esta obligación el conductor perderá el derecho de refrendar su licencia y deberá reunir los requisitos establecidos en el artículo 57 de la presente Ley.
 
 II. Los permisos otorgados a menores de edad para conducir y operar vehículos tendrán vigencia máxima de un año;
 
-III. Los operadores o conductores de vehículos, al término de la vigencia de su licencia o permiso, podrán tramitar su refrendo, cumpliendo con los requisitos que se establecen en el artículo 57 de esta ley, y
+III. (DEROGADA, P.O. 11 DE JULIO DE 2019)
 
 IV. Cuando un conductor u operador pierda la licencia, el permiso o el gafete a que se refiere el artículo 65 de esta ley, o éstos se destruyan o sufran deterioro, deberá de solicitar la expedición de un duplicado, el cual se le otorgará previo el pago de los derechos correspondientes.
 
@@ -3153,9 +3161,13 @@ Las infracciones en materia de movilidad y transporte, serán sancionadas admini
 
 El monto de las sanciones se determina en base al valor diario de la Unidad de Medida y Actualización, de la siguiente manera:
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
-Las infracciones dispuestas en los artículos 175, 176, 177 excepto la fracción VIII, 178 excepto fracción XV, 179 y 180 se aplicará una sanción de 1 a 5 veces el valor de la Unidad de Medida y Actualización.
+Las infracciones dispuestas en los artículos 175, 176 excepto la fracción I y X, 177 excepto la fracción VIII, 178 excepto fracciones III, IV, VI y XV, 179 y 180, se aplicará una sanción de 1 a 5 veces el valor de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2019)</small>
+
+Las infracciones dispuestas en los artículos 176 fracción I, 178 fracciones III, IV y VI, se aplicarán una sanción de 10 a 15 unidades de medida y actualización.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE DICIEMBRE DE 2017)</small>
 
@@ -3165,15 +3177,15 @@ La infracción dispuesta en el artículo 178 fracción XV se sancionará con mul
 
 Las infracciones dispuestas en los artículos 182, 183, 184 fracciones I y IV a VII, 190 fracciones I, II y III, 191 y 192 se aplicarán una sanción de 10 a 30 Unidades de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
-Las infracciones dispuestas en el artículo 176 fracción X y 184 fracciones II y III, se aplicará una sanción de 15 a 25 Unidades de Medida y Actualización.
+Las infracciones dispuestas en el artículo 176 fracción X y 184 fracciones II y III, se aplicará una sanción de 15 a 25 unidades de medida y actualización.
 
-> <small>(DEROGADO SÉPTIMO PÁRRAFO POR ARTÍCULO CUARTO DEL DECRETO 27260/LXII/19, P.O. 9 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2019)</small>
+Las infracciones dispuestas en los artículos 177, fracción VIII, 181, 182 fracción II, 186 y 187, se aplicarán una sanción de 150 a 200 veces el valor de la Unidad de Medida y Actualización.
 
-Las infracciones dispuestas en los artículos 185 fracciones II, III y IV y 190, fracción IV, se aplicarán una sanción de 20 a 35 Unidades de Medida y Actualización.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
 En el caso donde proceda sanción pecuniaria, arresto administrativo inconmutable o trabajo comunitario, o aplique suspensión o cancelación de licencia o gafete, se observara lo dispuesto en la presente ley.
 
@@ -3227,7 +3239,9 @@ VIII. Arrojar desde el interior del vehículo cualquier clase de objeto o basura
 
 Se sancionará a los conductores o propietarios de vehículos que cometan las siguientes infracciones:
 
-I. No presentar licencia o permiso vigente para conducir;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+
+I. No exhibir licencia o permiso vigente para conducir.
 
 II. Estacionarse en zona prohibida en calle local;
 
@@ -3297,7 +3311,9 @@ I. No manifestar la baja del vehículo o el cambio de domicilio del propietario;
 
 II. Transportar personas en vehículos de carga liviana o pesada, sin protección debida;
 
-III. Al propietario de un vehículo, por permitir su conducción por persona que carezca de licencia o permiso vigente;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+
+III. Al propietario de un vehículo, por permitir su conducción por persona que no exhiba licencia o permiso vigente;
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
@@ -3305,7 +3321,9 @@ IV. Conducir un vehículo para el que se requiera haber obtenido previamente lic
 
 V. Circular sobre la banqueta o estacionarse en la misma, en forma tal, o en horas en que se impida o se entorpezca la libre y segura circulación peatonal;
 
-VI. Conducir vehículo de motor, siendo menor de edad, sin el permiso correspondiente señalado en el artículo 63 de esta ley;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+
+VI. Conducir vehículo de motor, siendo menor de edad, sin exhibir el permiso correspondiente señalado en el artículo 63 de esta ley;
 
 VII. Estacionarse en zona prohibida sobre calzadas, avenidas, pares viales, carreteras o vías rápidas o en más de una fila; asimismo, en las zonas restringidas en los horarios y días que la autoridad determine con el señalamiento correspondiente o con una raya amarilla pintada a lo largo del machuelo o cordón;
 
@@ -3711,9 +3729,15 @@ En el caso de las autoridades municipales, para las infracciones o foto infracci
 
 El crédito fiscal derivado de una multa de carácter administrativo, podrá pagarse sin recargo alguno, dentro de los treinta días siguientes al de la notificación de la cédula de infracción; pero si el infractor efectúa su pago dentro de los primeros diez días hábiles, tendrá derecho a una reducción del cincuenta por ciento en el monto de la misma; en el caso de que el pago lo haga del undécimo al vigésimo noveno día, la reducción será únicamente del veinticinco por ciento.
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2019)</small>
+
+Para el caso de los créditos fiscales derivados de las infracciones previstas en los artículos 176 fracción I y 178 fracciones III, IV y VI, de la presente Ley, el infractor no tendrá derecho a las reducciones de multa previstas en el párrafo anterior inmediato, sin embargo, tendrá derecho a la condonación total de la misma siempre y cuando al presentarse a pagar dentro de los treinta días naturales siguientes al de la notificación de la cédula de infracción, acredite que cuenta con licencia de conducir vigente.
+
 Para el caso de la sanción económica a que se refiere el artículo 186 de esta ley respecto a los reincidentes, los plazos a que se refiere esta disposición correrán a partir del día hábil siguiente al en que el infractor debió asistir al curso a que se refiere el mismo artículo; en cuyo caso, sólo mediante la presentación de la constancia de asistencia se tendrá derecho a las referidas reducciones.
 
-El Poder Ejecutivo del Estado, a través de la Secretaría de Planeación, Administración y Finanzas, podrá celebrar convenios con establecimientos comerciales para efectos de que reciban el pago de dichos créditos fiscales, dentro del plazo ordinario que no genera recargo, aplicando en su caso, los descuentos señalados.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
+El Poder Ejecutivo del Estado, a través de la Secretaría de la Hacienda Pública, podrá celebrar convenios con establecimientos comerciales para efectos de que reciban el pago de dichos créditos fiscales, dentro del plazo ordinario que no genera recargo, aplicando en su caso, los descuentos señalados.
 
 ###### Artículo 200.
 
@@ -4260,3 +4284,15 @@ P.O. 13 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27272/LXII/19 QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 27212/LXII/18, PUBLICADO EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO EL DÍA 6 DE DICIEMBRE DEL 2018, MEDIANTE EL CUAL SE ABROGÓ LA LEY ORGÁNICA DEL INSTITUTO DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO, Y SE REFORMARON DIVERSOS ARTÍCULOS DE LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO Y LA LEY DE COORDINACIÓN METROPOLITANA.”]
 
 ÚNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27288/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 54 PRIMER PÁRRAFO, 57 FRACCIÓN IV, 62 FRACCIÓN I, Y SE DEROGA LA FRACCIÓN III, 174 TERCER PÁRRAFO Y SE LE ADICIONA UN PÁRRAFO CUARTO RECORRIÉNDOSE SUBSECUENTEMENTE LOS PÁRRAFOS YA EXISTENTES, 176 FRACCIÓN I, 178 FRACCIONES III Y VI, Y 199 ADICIONÁNDOLE UN PÁRRAFO SEGUNDO RECORRIÉNDOSE SUBSECUENTEMENTE LOS PÁRRAFOS YA EXISTENTES Y SE REFORMA EL ÚLTIMO PÁRRAFO, TODOS DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO.”]
+
+PRIMERO. El presente decreto entrará en vigor el primero de enero del 2020, previa publicación en el periódico oficial “El Estado de Jalisco.”
+
+SEGUNDO. Las licencias de conducir que se hubieran expedido con anterioridad a la entrada en vigor del presente decreto, continuarán siendo válidas hasta que venza el plazo de su vigencia. Para el trámite de refrendo, podrán realizarlo dentro de los treinta días naturales anteriores a la fecha de vencimiento y el tiempo que transcurra desde la fecha de su expedición hasta la fecha próxima inmediata de su cumpleaños, se reconocerá como vigente, iniciando el período de cuatro años el día y mes de nacimiento. Si el trámite lo realiza con fecha posterior al vencimiento, deberá reunir los requisitos establecidos en el artículo 57 de la presente Ley.
+
+TERCERO. El Gobierno del Estado de Jalisco, durante el periodo comprendido entre la publicación y entrada en vigor de este decreto, deberá realizar una campaña de comunicación, socialización y concientización de la presente reforma.
+
+CUARTO. A partir de la entrada en vigor del presente decreto, la Secretaría del Transporte deberá implementar en el Área Metropolitana de Guadalajara y en el interior del Estado de manera intermitente y aleatoria, el servicio de expedición de licencias de conducir para su entrega inmediata.
