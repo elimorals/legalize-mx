@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9532
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-08"
-last_updated: "2018-12-05"
+last_updated: "2019-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de agosto de 2013.
 
@@ -79,9 +79,9 @@ IV. Clasificar la información pública en posesión de los sujetos obligados y 
 
 V. (DEROGADA, P.O. 26 DE JULIO DE 2017)
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-VI. Regular la organización y funcionamiento del Instituto de Transparencia, Información Pública del Estado de Jalisco;
+VI. Regular la organización y funcionamiento del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -309,9 +309,17 @@ Ley-Supletoriedad
 
 I. La Ley General;
 
-II. La ley del Procedimiento Administrativo del Estado de Jalisco; y
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
 
-III. Código de Procedimientos Civiles del Estado de Jalisco.
+II. La Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
+
+III. La Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
+
+IV. La ley del Procedimiento Administrativo del Estado de Jalisco; y
+
+V. Código de Procedimientos Civiles del Estado de Jalisco.
 
 ## Título Segundo. De la Información Pública
 
@@ -4504,3 +4512,9 @@ P.O. 5 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27185/LXII/18 QUE REFORMA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27289/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2° Y ADICIONA LAS FACCIONES II Y III DEL ARTÍCULO 7°, RECORRIÉNDOSE LAS SUBSECUENTES, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
