@@ -4,7 +4,7 @@ identifier: "JAL-ley-sobre-los-derechos-y-el-desarrollo-de-los-pueblos-y-las-545
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-11"
-last_updated: "2017-07-25"
+last_updated: "2019-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 11 de enero de 2007.
 
@@ -31,9 +31,7 @@ Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría G
 
 Mtro. Gerardo Octavio Solís Gómez, Gobernador Interino del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto
 
-NÚMERO 21746/LVII/06
-
-EL CONGRESO DEL ESTADO DECRETA:
+NÚMERO 21746/LVII/06 EL CONGRESO DEL ESTADO DECRETA:
 
 SE EXPIDE LA LEY SOBRE DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS, QUE REFORMA LOS ARTÍCULOS 14, 22, 33 y 63 DE LA LEY DE EJECUCIÓN DE PENAS, QUE REFORMA EL ARTÍCULO 41 FRACCIÓN II DEL CÓDIGO PENAL, QUE REFORMA LOS ARTÍCULOS 16 y 93 FRACCIÓN III INCISO F), DEL CÓDIGO DE PROCEDIMIENTOS PENALES Y QUE REFORMA LOS ARTÍCULOS 52, 87 Y 316 Y SE ADICIONA EL ARTÍCULO 68 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES, TODAS DEL ESTADO DE JALISCO.
 
@@ -177,7 +175,7 @@ Se reconoce a las autoridades tradicionales de las comunidades indígenas elegid
 
 La mujer deberá contar con las mismas oportunidades que el varón para las funciones de representación comunitaria. El Estado y los municipios en sus respectivos ámbitos de competencia y a través de las dependencias que correspondan establecerán programas de capacitación para las mujeres indígenas que estimule su participación en la toma de decisiones relacionadas con la vida comunitaria y estén en condiciones de ejercer ese derecho.
 
-## TITULO TERCERO. DE LA JUSTICIA INDIGENA Y EL ACCESO A LA JURISDICCIÓN DEL ESTADO
+## TITULO TERCERO. DE LA JUSTICIA INDÍGENA Y EL ACCESO A LA JURISDICCIÓN DEL ESTADO
 
 ### CAPITULO I. DE LA JUSTICIA INDIGENA
 
@@ -441,7 +439,7 @@ El Estado en coordinación con los municipios, realizarán programas de difusió
 
 ## TITULO SEXTO. DE LA PROTECCIÓN DE LOS DERECHOS LABORALES
 
-### CAPITULO ÚNICO. DE LA PROTECCIÓN DE LOS DERECHOS LABORALES
+### CAPITULO ÚNICO. DE LA PROTECCION DE LOS DERECHOS LABORALES
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -515,7 +513,7 @@ III. Participar en las políticas públicas y la aplicación de los programas, p
 
 IV. Realizar tareas de colaboración con las dependencias y entidades de la Administración Pública Estatal en las políticas y acciones vinculadas con el desarrollo de los pueblos y comunidades indígenas; de coordinación con los gobiernos de los municipios; de interlocución con los pueblos y comunidades indígenas, y de concertación con los sectores social y privado;
 
-V. Proponer y promover las medidas que se requieran para el cumplimiento de lo dispuesto en el apartado B del artículo 4º de la Constitución Política del Estado de Jalisco;
+V. Proponer y promover las medidas que se requieran para el cumplimiento de lo dispuesto en el apartado B del artículo 4o. de la Constitución Política del Estado de Jalisco;
 
 VI. Realizar investigaciones y estudios para el desarrollo integral de los pueblos indígenas;
 
@@ -529,7 +527,7 @@ X. Establecer las bases para integrar y operar un sistema de información y cons
 
 XI. Implementar programas de difusión dirigidos a las poblaciones indígenas para dar a conocer las leyes vigentes, el funcionamiento del sistema judicial y el de las instituciones que integran el Estado;
 
-XII. Realizar propuestas a las dependencias y entidades de la Administración Pública Estatal con el fin de formular el proyecto de presupuesto consolidado en materia de desarrollo de los pueblos y comunidades indígenas a incluir en el Presupuesto de Egresos del Estado de conformidad con lo dispuesto en el artículo 4º de la Constitución del Estado;
+XII. Realizar propuestas a las dependencias y entidades de la Administración Pública Estatal con el fin de formular el proyecto de presupuesto consolidado en materia de desarrollo de los pueblos y comunidades indígenas a incluir en el Presupuesto de Egresos del Estado de conformidad con lo dispuesto en el artículo 4o. de la Constitución del Estado;
 
 XIII. Fungir como Centro de Mediación, en los términos de la Ley de Justicia Alternativa del Estado;
 
@@ -739,9 +737,9 @@ d) Dos por Ayotitlán, Cuautitlán de García Barragán;
 
 e) Uno por Plan de Méndez, Cuautitlán de García Barragán;
 
-f) Uno por Mazatan, Zapotitlan de Vadillo; y
+f) Uno por Mazatán, Zapotitlán de Vadillo, y
 
-g) Uno por Jirosto y Zapotan, Villa Purificación.
+g) Uno por Jirosto y Zapotán, Villa Purificación.
 
 III. Cuatro representantes de los indígenas de otros estados asentados en la zona metropolitana de Guadalajara;
 
@@ -757,7 +755,7 @@ a) Bolaños;
 
 b) Cuautitlán de García Barragán;
 
-c) Chimaltitan;
+c) Chimaltitán;
 
 d) Guadalajara;
 
@@ -777,15 +775,15 @@ j) Villa Guerrero;
 
 k) Villa Purificación;
 
-l) Zapopan; y
+l) Zapopan, y
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
 
 m) Zapotitlán de Vadillo; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-VII. El presidente de la comisión legislativa del Congreso del Estado en materia de asuntos indígenas.
+VII. El presidente de la comisión de Derechos humanos y pueblos originarios.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -893,11 +891,11 @@ MARTHA RUTH DEL TORO GAYTÁN
 
 En mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
 
-Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 11 once días del mes enero de 2007 dos mil siete.
+Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 11 once días del mes (sic) enero de 2007 dos mil siete.
 
 El Gobernador Interino del Estado
 
-MTRO. GERARDO OCTAVIO SOLIS GÓMEZ
+MTRO. GERARDO OCTAVIO SOLÍS GÓMEZ
 
 (RÚBRICA)
 
@@ -933,6 +931,12 @@ P.O. 16 DE JUNIO DE 2016.
 
 P.O. 25 DE JULIO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 26383/LXI/17, QUE REFORMA EL ARTÍCULO 77 DE LA LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 26383/LXI/17, QUE REFORMA EL ARTÍCULO 77 DE LA LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO”.]
 
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27290/LXII/19 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 77 DE LA LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
