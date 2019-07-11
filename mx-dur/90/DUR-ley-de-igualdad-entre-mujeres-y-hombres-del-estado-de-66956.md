@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-igualdad-entre-mujeres-y-hombres-del-estado-de-66956"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-01"
-last_updated: "2018-07-19"
+last_updated: "2019-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 1 de enero de 2009.
 
@@ -709,6 +709,10 @@ IV. Contribuir a la eliminación de la violencia en la comunidad o en la familia
 
 V. Implementar acciones para la eliminación de prácticas consuetudinarias discriminatorias, tradiciones, prejuicios y estereotipos sexistas y de cualquier otra índole que estén basadas en la idea de inferioridad o superioridad de cualquiera de los sexos.
 
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
+
+VI. Contribuir a la sensibilización en torno a la difusión en los medios de comunicación de una imagen igualitaria, plural y no estereotipada de mujeres y hombres en la sociedad, así como contribuir al conocimiento y la difusión del principio de igualdad entre mujeres y hombres y la no utilización sexista del lenguaje.
+
 ###### Artículo 32.
 
 Para los efectos de lo previsto en el artículo anterior, la administración pública estatal desarrollará las siguientes acciones:
@@ -737,9 +741,17 @@ IV. Efectuar campañas sobre masculinidad respetuosa y equitativa en la comunida
 
 La observancia es un instrumento garante de la igualdad y tiene por objeto la construcción de un sistema de información con capacidad para conocer la situación que guarda la igualdad entre hombres y mujeres, y el efecto de las políticas públicas aplicadas en esta materia.
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2019)</small>
+
+De acuerdo a lo establecido en la fracción XV del artículo 13 de la Ley de la Comisión Estatal de Derechos Humanos, es la Comisión Estatal la encargada de la observancia en el seguimiento, evaluación y monitoreo de la política estatal en materia de igualdad entre mujeres y hombres.
+
 ###### Artículo 34.
 
 La observancia deberá ser efectuada por personas de reconocida trayectoria y especializadas en materia de igualdad sustantiva, que sean invitadas por el presidente de la comisión a participar en ella, en la observancia.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2019)</small>
+
+Para los efectos del párrafo anterior, la Comisión Estatal deberá garantizar la participación equilibrada de las organizaciones de la sociedad civil, la academia y demás personas expertas en la materia.
 
 ###### Artículo 35.
 
@@ -747,15 +759,53 @@ La observancia en materia de igualdad entre mujeres y hombres consistirá en:
 
 I. Recibir información sobre medidas y actividades que ponga en marcha la administración pública estatal en materia de igualdad entre mujeres y hombres;
 
-II. Evaluar el impacto en la sociedad de las políticas y medidas que afecten a los hombres y a las mujeres en materia de igualdad;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-III. Proponer la realización de estudios e informes técnicos de diagnóstico sobre la situación de las mujeres y hombres en materia de igualdad;
+II. Evaluar el impacto en la sociedad, de las políticas y medidas que afecten y hagan diferencia entre hombres y mujeres en materia de igualdad
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+
+III. Vigilar la incorporación de la perspectiva de género en los presupuestos públicos y emitir recomendaciones al respecto;
 
 IV. Determinar los lineamientos para el establecimiento de políticas públicas en materia de igualdad;
 
-IV (SIC). Difundir información sobre los diversos aspectos relacionados con la igualdad entre mujeres y hombres, y
+> <small>[N. DE E. EL TEXTO DE LA PRESENTE FRACCIÓN ES SIMILAR A LA FRACCIÓN VI.]</small>
 
-V. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+
+V. Difundir información sobre los diversos aspectos relacionados con la igualdad entre mujeres y hombres, y
+
+> <small>[N. DE E. EL TEXTO DE LA PRESENTE FRACCIÓN ES SIMILAR A LA FRACCIÓN V.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2019)</small>
+
+VI. Difundir información sobre los diversos aspectos relacionados con la igualdad entre mujeres y hombres; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE JULIO DE 2019)</small>
+
+VII. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2019)</small>
+
+###### Artículo 35 Bis.
+
+De acuerdo con lo establecido en la Ley de la Comisión Estatal de Derechos Humanos, ésta podrá recibir quejas, emitir recomendaciones y presentar informes periódicos en la materia objeto de la ley.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2019)</small>
+
+###### Artículo 35 Bis 1.
+
+La Comisión Estatal de Derechos Humanos del Estado para llevar acabo la observancia de la ley tendrá las siguientes atribuciones:
+
+l. Coordinar el monitoreo de la política estatal en la materia;
+
+II. Estructurar la observancia de la igualdad sustantiva;
+
+III. Realizar el seguimiento y las recomendaciones que considere pertinentes;
+
+IV. Presentar informes periódicos en la materia objeto de esta ley; y
+
+V. Las demás que sean necesarias para cumplir con los objetivos de esta ley.
 
 ### CAPÍTULO II. DEL ACOMPAÑAMIENTO SUSTANTIVO
 
@@ -918,3 +968,15 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Sistema Estatal para la Igualdad entre Mujeres y Hombres, deberá quedar instalado dentro de los ciento ochenta días naturales posteriores a la publicación del presente decreto, el cual operará de conformidad con lo señalado en la presente ley y su reglamento.
 
 TERCERO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 115.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE DURANGO".]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
