@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-accion-ante-el-cambio-climatico-del-estado-de-10960
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2018-11-17"
+last_updated: "2019-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 27 de agosto de 2015.
 
@@ -903,13 +903,19 @@ III. Los titulares de las siguientes dependencias y entidades, o quienes éstos 
 
 a) Secretaría General de Gobierno;
 
-b) Secretaría de Planeación, Administración y Finanzas;
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
-c) Secretaría de Desarrollo Rural;
+b) Secretaría de Planeación y Participación Ciudadana;
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
+c) Secretaría de Agricultura y Desarrollo Rural;
 
 d) Secretaría de Educación;
 
-e) Secretaría de Movilidad;
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
+e) Secretaría del Transporte;
 
 f) Secretaría de Salud;
 
@@ -921,7 +927,9 @@ i) Secretaría de Infraestructura y Obra Pública;
 
 j) Secretaría de Cultura;
 
-k) Secretaría de Desarrollo e Integración Social;
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
+k) Secretaría de Igualdad sustantiva;
 
 l) Secretaría de Turismo;
 
@@ -949,9 +957,9 @@ VI. El representante de la mesa de trabajo en materia de cambio climático que s
 
 A estos efectos, las atribuciones de dicho Consejo en materia de protección del medio ambiente y desarrollo sustentable se entenderán también referidas a aspectos relativos al cambio climático.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-VII. Un representante del Poder Legislativo, que será el diputado Presidente del (sic) la Comisión de Medio Ambiente y Desarrollo Sustentable o el vocal que designe la propia comisión;
+VII. Un representante del Poder Legislativo, que será el diputado Presidente de la Comisión de Medio Ambiente, Sostenibilidad, Protección Civil y Resiliencia o el vocal que designe la propia comisión;
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
@@ -2151,6 +2159,12 @@ P.O. 3 DE AGOSTO DE 2017.
 
 P.O. 17 DE NOVIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 26952/LXI/18 QUE REFORMA EL ARTÍCULO 41 DE LA LEY DE ACCIÓN PARA EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 26952/LXI/18 QUE REFORMA EL ARTÍCULO 41 DE LA LEY DE ACCIÓN PARA EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
 
-ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27292/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5°,7°,15, 53 Y EL CAPÍTULO IV DE LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD ANIMAL PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; 6° DE LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO; 5° Y 7° DE LA LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; 26 Y 83 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; Y EL 41 DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
