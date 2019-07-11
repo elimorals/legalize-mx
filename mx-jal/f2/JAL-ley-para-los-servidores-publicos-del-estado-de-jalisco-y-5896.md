@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2019-05-11"
+last_updated: "2019-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -755,7 +755,7 @@ III. A los que tengan más de diez años de servicio, hasta 120 días con goce d
 
 Los cómputos deberán hacerse por servicios continuos o cuando, de existir una interrupción en la prestación de dichos servicios ésta no sea mayor de seis meses.
 
-> <small>(REFORMADO [N. DE E ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
 Las licencias podrán dividirse o fragmentarse durante el lapso de un año, de acuerdo a las necesidades médicas del servidor público.
 
@@ -1009,7 +1009,7 @@ Los servicios de salud otorgados en los términos de la presente ley, deberán p
 
 Los gastos del otorgamiento de los servicios de salud, sea cual fuere la forma que se elija, correrán a cargo del erario público, pero por ningún motivo se contratarán pólizas con pacto de reembolso a favor de los servidores públicos asegurados.
 
-Cuando deba operar un reembolso con motivo de la suscripción de un contrato de seguro, aquel siempre será en beneficio del erario público.
+Cuando deba operar un reembolso con motivo de la suscripción de un contrato de seguro, aquél siempre será en beneficio del erario público.
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
@@ -1397,7 +1397,7 @@ Los servidores públicos, que por su conducta o falta de solidaridad fueran expu
 
 ###### Art. 79.
 
-Los directivos sindicales designados por elección directa de los miembros de la organización, durará (sic) en su cargo por el término que fijen sus propios estatutos.
+Los directivos sindicales designados por elección directa de los miembros de la organización, durará en su cargo por el término que fijen sus propios estatutos.
 
 ###### Art. 80.
 
@@ -1597,7 +1597,7 @@ V. Por desistimiento.
 
 ###### Art. 105.
 
-Las acciones que nazcan de esa ley o del nombramiento expedido en favor de los servidores públicos prescribirán en un año, con excepción de los casos señalados en los artículos siguientes.
+Las acciones que nazcan de esa ley, o del nombramiento expedido en favor de los servidores públicos prescribirán en un año, con excepción de los casos señalados en los artículos siguientes.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -2149,6 +2149,18 @@ En tanto que no se declare ilegal, inexistente o terminado un conflicto de huelg
 
 ### CAPITULO I. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
+###### Artículo 152.
+
+El Servicio Civil de Carrera es el instrumento que tiene por objeto la selección, incorporación, desarrollo profesional y personal de los servidores públicos, a través de procedimientos y mecanismos transparentes, justos y equitativos.
+
+Tiene como propósito reconocer y aprovechar la experiencia, conocimiento y capacidades de los servidores públicos, a fin de que los entes públicos alcancen sus metas con apoyo de personal capacitado que, de manera continua, uniforme, regular y permanente, preste servicios de calidad, con imparcialidad, libre de prejuicios y lealtad a la Institución.
+
+La organización, desarrollo y funcionamiento del servicio civil de carrera se llevará a cabo en los términos establecidos por la presente ley, los reglamentos y las demás disposiciones legales aplicables.
+
+El servicio civil de carrera se sustenta en los principios generales de legalidad, honradez, lealtad, imparcialidad, eficiencia, transparencia, profesionalismo, disciplina, mérito, aptitud, experiencia, probidad, equidad laboral y de género, no discriminación y respeto a los derechos humanos.
+
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Art. 152.
@@ -2173,9 +2185,17 @@ V. Reglamento Interno: El Reglamento Interno del Servicio Civil de Carrera de ca
 
 VI. Sistema: El Sistema Administrativo del Servicio Civil de Carrera;
 
-VII. Movilidad: Los cambios de adscripción, radicación y reubicación del servidor público; y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-VIII. Promoción: Los ascensos, mejorías laborales o cualesquier cambio de categoría que beneficie al servidor público o genere mayores oportunidades para su desarrollo laboral o profesional.
+VII. Movilidad: Los cambios de adscripción, radicación y reubicación del servidor público;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+
+VIII. Promoción: Los ascensos, mejorías laborales o cualesquier cambio de categoría que beneficie al servidor público o genere mayores oportunidades para su desarrollo laboral o profesional; y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
+
+IX. Mecanismos: Mecanismos del Servicio Civil de Carrera.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -2303,9 +2323,9 @@ II. Tomar los acuerdos que sean necesarios para la consecución de los fines del
 
 III. Autorizar la creación de subcomisiones de apoyo;
 
-IV. Validar los resultados de los exámenes de admisión, concursos de oposición y solicitudes de promoción remitidos por el Organo de Administración Interna, previo a su publicidad y ejecución;
+IV. Proponer al Titular de la Entidad Pública modificaciones al Reglamento Interno;
 
-V. Proponer al Titular de la Entidad Pública modificaciones al Reglamento Interno;
+V. Crear el Reglamento Interno; y
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
@@ -2908,3 +2928,9 @@ P.O. 11 DE MAYO DE 2019.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27293/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 152 Y 153 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
