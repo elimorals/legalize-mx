@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-atencion-y-proteccion-de-personas-con-la-115072"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-26"
-last_updated: "2016-05-26"
+last_updated: "2019-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de mayo de 2016.
 
@@ -49,9 +49,11 @@ LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AU
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social, observancia general en todo el Estado de Durango, y tiene por objeto impulsar la integración e inclusión a la sociedad de las personas con la condición del espectro autista, mediante la protección de sus derechos y atención de las necesidades fundamentales que les son reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, la Ley General, la Constitución Política del Estado Libre y Soberano de Durango y demás ordenamientos aplicables.
+La presente ley es de orden público, interés social y observancia general en el Estado (sic) Durango, y tiene por objeto impulsar la integración e inclusión a la sociedad de las personas con la condición de espectro autista, bajo el principio de dignidad humana, mediante la protección de sus derechos humanos y respectivas garantías, en atención a la protección de sus necesidades fundamentales que les son reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, la Ley General, la Constitución Política (sic) el Estado Libre y Soberano de Durango y demás ordenamientos aplicables.
 
 ###### Artículo 2.
 
@@ -95,9 +97,11 @@ XVIII. Sustentabilidad ambiental: Administración eficiente y racional de los bi
 
 XIX. Transversalidad.- Diversas formas de coordinación no jerárquica, utilizadas para el diseño e implementación de políticas públicas, así como para la gestión y provisión de servicios públicos, que exige articulación, bilateral o multilateral, dentro de las atribuciones de las dependencias y entidades de la administración pública, ya sea federal, estatal y/o municipal.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
 ###### Artículo 3.
 
-Las autoridades del Estado así como de los Municipios; por sí mismos y/o a través de colaboración con los otros órdenes de gobierno y con el sector privado, en consonancia con las directrices trazadas por la Comisión Estatal para la Atención y Protección a Personas con la Condición del Espectro Autista, implementarán de manera progresiva políticas y acciones con el objeto de impulsar la integración e inclusión a la sociedad de las personas con la condición del espectro autista, mediante la protección de sus derechos.
+Las autoridades del Estado así como de los municipios; por sí mismos y/o a través de colaboración con los otros órdenes de gobierno y con el sector privado, en consonancia con las directrices trazadas por la Comisión Estatal para la Atención y Protección a Personas con la Condición de (sic) Espectro Autista: implementarán y evaluarán de manera progresiva y multidisciplinaria las políticas y acciones que le correspondan de acuerdo a su ámbito de competencia y conforme con sus programas presupuestarios, con el objeto de impulsar la integración e inclusión a la sociedad de las personas con la condición de espectro autista, mediante la protección de sus derechos.
 
 ###### Artículo 4.
 
@@ -126,6 +130,10 @@ IV.- La Ley de Educación del Estado de Durango;
 V.- La Ley de Salud del Estado de Durango, y
 
 VI.- El Código Civil del Estado de Durango.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
+
+VII.- Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Durango.
 
 ### CAPÍTULO II. Derechos de las Personas con la Condición del Espectro Autista y/o de sus Familias
 
@@ -241,7 +249,11 @@ IV. Apoyar la promoción de políticas, estrategias y acciones en la materia de 
 
 V. Proponer al titular del Ejecutivo del Estado las políticas públicas y criterios para la formulación de programas y acciones de las dependencias y entidades de la administración pública del Estado en materia de atención de las personas con la condición del espectro autista, y
 
-VI. Las demás que determine el Titular del Poder Ejecutivo del Estado.
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
+
+VI. Promover, respetar y proteger los derechos humanos de las personas con la condición de espectro autista, asimismo debe y tiene la obligación de garantizar su (sic) respectivas garantías para su protección, y
+
+VII. Las demás que determine el Titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 13.
 
@@ -324,3 +336,13 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. MIGUEL ÁNGEL OLVERA ESCALERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 114.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
