@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2019-05-11"
+last_updated: "2019-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2333,117 +2333,163 @@ Cuando los delitos a los que se refiere el presente título, sean cometidos por 
 
 V. Cuando el responsable tenga el carácter de particular, sea persona física o jurídica, EL JUEZ DEBERÁ IMPONER LA SANCIÓN DE INHABILITACIÓN PERPETUA BAJO LOS TÉRMINOS ESTABLECIDOS EN LA FRACCIÓN IV DE ESTE ARTÍCULO.
 
-### CAPITULO II. Ejercicio indebido y abandono del servicio público
+> <small>(REFORMADO SU DENOMINACIÓN, P.O. 11 DE JULIO DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+### CAPÍTULO II. Ejercicio Indebido y Abandono del Servicio Público
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2019)</small>
 
 ###### Art. 145.
 
-Se impondrán de tres meses a tres años de prisión y multa de treinta a doscientas veces el valor diario de la Unidad de Medida y Actualización, inhabilitación para desempeñar otro empleo, cargo o comisión públicos, por el término de seis meses a tres años, y destitución, en su caso, del que estuvieren desempeñando legalmente, a los servidores públicos que incurran en alguno de los casos siguientes:
+Comete el delito de ejercicio indebido y abandono del servicio, el servidor público que incurra en alguno de los casos siguientes:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-I. Que ejerza las funciones de su empleo, cargo o comisión, sin haber tomado posesión legítima o sin llenar todos los requisitos legales;
+I. Que ejerza las funciones de su empleo cargo o comisión, sin haber tomado posesión legítima o sin satisfacer todos los requisitos legales;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-II. Que continúe ejerciendo las funciones de un empleo, cargo o comisión, después de notificado sobre la revocación de su nombramiento o de la suspensión, o destitución decretada, por quien tenga facultades para hacerlo;
+II. Que continúen ejerciendo las funciones de su empleo, cargo o comisión, después de haber sido notificado sobre la revocación de su nombramiento o que se le ha suspendido o destituido, por quien tenga facultades para hacerlo;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-III. Que, nombrado por tiempo limitado, continúe ejerciendo sus funciones después de cumplido el término por el cual se le nombró.
+III. Que nombrado por un tiempo determinado, continúe ejerciendo las funciones del empleo cargo o comisión, después de haber cumplido el término por el cual se le nombró;
 
-Lo prevenido en las dos fracciones anteriores no comprende el caso en que al servidor público, que deba cesar en sus funciones, se le ordene que continúe en ellas, entre tanto se presenta la persona que haya de sustituirlo, siempre que la Ley no lo prohíba;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+IV. Que ejerza algún empleo, cargo o comisión, distinto al que realmente tuviese que ejercer;
 
-IV. Que ejerza alguna comisión, empleo o cargo distinto del que realmente tuviese;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+V. Que sin habérsele admitido la renuncia de su empleo, cargo o comisión, lo abandone sin causa justificada;
 
-V. Que sin habérsele admitido la renuncia de una comisión, empleo o cargo, lo abandone sin causa justificada; y
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+VI. Que teniendo conocimiento por razón de su empleo, cargo o comisión que pueden resultar gravemente afectados el patrimonio o los intereses de alguna dependencia de los tres órdenes de Gobierno, por cualquier acto u omisión y no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades;
 
-VI. Que abandone, intencionalmente, servicios de vigilancia o custodia propiciando la comisión de un delito por su ausencia, independientemente de la penalidad que le resulte como coautor.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-### CAPITULO III. Abuso de autoridad
+VII. Que teniendo la obligación de estar presente, abandone intencionalmente los servicios de vigilancia, custodia, protección o de dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo con su deber y con ello propiciar daño a las personas, lugares u objetos; o la pérdida o sustracción de objetos que se encuentren bajo su cuidado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2019)</small>
+
+Al servidor público que cometa alguno de los delitos previstos en las fracciones I, II y III, se le impondrá de uno a tres años de prisión y multa de treinta a doscientas veces el valor diario de la Unidad de Medida de (sic) Actualización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2019)</small>
+
+Al infractor de las fracciones IV, V, VI y VII se le impondrá de dos a seis años de prisión y multa de treinta a doscientos (sic) veces el valor diario de la Unidad de Medida de (sic) Actualización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2019)</small>
+
+Además de las penas señaladas en los incisos anteriores se le inhabilitará de conformidad con lo establecido en la fracción IV del artículo 144 de este Código.
+
+> <small>(REFORMADO SU DENOMINACIÓN, P.O. 11 DE JULIO DE 2019)</small>
+
+### CAPÍTULO III. Abuso de Autoridad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2019)</small>
 
 ###### Art. 146.
 
-Comete el delito de abuso de autoridad todo servidor público, sea cual fuere su categoría que incurra en alguno de los casos siguientes:
+Cometen el delito de abuso de autoridad los servidores públicos que incurran en alguno de los siguientes casos:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 I. Cuando, para impedir la ejecución de una Ley, Decreto o Reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pide auxilio a la fuerza pública o la emplee con este objeto;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 II. Cuando en el ejercicio de sus funciones, o con motivo de ellas, hiciere violencia a una persona, sin causa legítima, o la vejare;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 III. Cuando, indebidamente, retarde o niegue a los particulares la protección o servicio que tenga obligación de prestarles, o impida la presentación o el curso de una solicitud;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 IV. Cuando ejecute, autorice o permita cualquier acto atentatorio a los derechos garantizados por la Constitución Política de los Estados Unidos Mexicanos, y por la del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
 
-V. Cuando el encargado, elemento operativo de una fuerza pública o perito, requerido legalmente por una autoridad competente para que le preste auxilio, se niegue indebidamente a dárselo o lo retrase injustificadamente;
+V. Cuando estando encargado de administrar justicia se niegue injustificadamente a despachar un asunto pendiente dentro de los términos establecidos por la ley, ya sea bajo cualquier pretexto o silencio de la Ley;
 
-VI. Cuando obtenga de un subalterno parte o todo el sueldo de éste, le exija dádivas u otro servicio indebido;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-VII. Cuando aproveche el poder y autoridad propias del empleo, cargo o comisión que desempeñe, para satisfacer, indebidamente, algún interés propio o de cualquiera otra persona, que no sea de orden económico;
+VI. Cuando el encargado o elemento operativo de una fuerza pública o perito requerido legalmente por una autoridad competente para que preste auxilio se niegue a dárselo o lo retrase injustificadamente;
 
-VIII. Cuando haga que se le entreguen fondos, valores u otra cosa, cuya guarda o administración no le corresponda.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-Si dispone de los objetos recibidos, como consecuencia del acto a que se refiere esta fracción, independientemente de las penas que señale el presente artículo, los responsables serán acreedores a las sanciones que les correspondan por cualquier otro delito cometido;
+VII. Cuando obtenga parte o todo el sueldo de un subalterno, o le exija dadivas u otro servicio indebido;
 
-IX. Cuando, estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de readaptación social o de custodia, de rehabilitación de menores, de reclusorios preventivos o administrativos, sin los requisitos legales, reciba como presa, detenida, arrestada o interna a una persona, o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente, niegue que está detenida, si lo estuviere; o no cumpla la orden de libertad girada por la autoridad competente;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-X. Cuando, en el ejercicio de sus funciones, tenga conocimiento de una privación ilegal de la libertad y no la denunciase inmediatamente a la autoridad competente, o no la haga cesar, también inmediatamente si esto estuviere en sus atribuciones;
+VIII. Cuando aproveche el poder y autoridad propios del empleo, cargo o comisión que desempeñe para satisfacer indebidamente algún interés propio o de cualquier otra persona aún cuando no sea de orden económico;
 
-XI. Cuando, a sabiendas, autorice o contrate a quien se encuentre legalmente inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-XII. Cuando otorgue cualquiera identificación que acredite, como servidor público, a quien no lo sea;
+IX. Cuando haga que se le entreguen fondos, valores u otras cosas, cuya guarda o administración no le corresponda. Si se los apropiara o dispusiera de ellos los responsables serán acreedores a las sanciones que les correspondan, por cualquier otro delito cometido;
 
-XIII. Cuando por sí, o por interpósita persona, intimide a otro para evitar a éste o a un tercero que denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la ley; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+X. Cuando, estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de readaptación social o de custodia, de rehabilitación de menores, de reclusorios preventivos o administrativos, sin los requisitos legales, reciba como presa, detenida, arrestada o interna a una persona, o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente, niegue que está detenida, si lo estuviere; o no cumpla la orden de libertad girada por la autoridad competente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+XI. Cuando, en el ejercicio de sus funciones, tenga conocimiento de una privación ilegal de la libertad y no la denunciase inmediatamente a la autoridad competente, o no la haga cesar, también inmediatamente si esto estuviere en sus atribuciones;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+
+XII. Cuando, a sabiendas, autorice o contrate a quien se encuentre legalmente inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, o para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+XIII. Cuando otorgue cualquiera identificación que acredite, como servidor público, a quien no lo sea;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+XIV. Cuando por sí, o por interpósita persona, intimide a otro para evitar a éste o a un tercero que denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la ley; y
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
-XIV. Cuando se ejecute una orden judicial de aprehensión, sin poner al inculpado a disposición del juez sin dilación alguna;
+XV. Cuando se ejecute una orden judicial de aprehensión, sin poner al inculpado a disposición del juez sin dilación alguna;
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XV. No resolver la vinculación a proceso, dentro de las setenta y dos horas siguientes a que el imputado fue puesto a disposición del juez, salvo que se haya solicitado la ampliación del término constitucional, en cuyo caso deberá tomarse en consideración este último, con excepción de los casos en que suspenda el procedimiento;
+XVI. No resolver la vinculación a proceso, dentro de las setenta y dos horas siguientes a que el imputado fue puesto a disposición del juez, salvo que se haya solicitado la ampliación del término constitucional, en cuyo caso deberá tomarse en consideración este último, con excepción de los casos en que suspenda el procedimiento;
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-XVI. Ejercer sobre los detenidos, imputados o acusados toda forma de incomunicación, intimidación o tortura;
+XVII. Ejercer sobre los detenidos, imputados o acusados toda forma de incomunicación, intimidación o tortura;
 
 > <small>(REFORMADA, P.O. 6 DE ENERO DE 2005)</small>
 
-XVII. Cuando, con motivo de la querella, denuncia o información a que hace referencia la fracción anterior, realice una conducta ilícita u omita una lícita debida, que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo; y
+XVIII. Cuando, con motivo de la querella, denuncia o información a que hace referencia la fracción anterior, realice una conducta ilícita u omita una lícita debida, que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE DICIEMBRE DE 2018)</small>
 
-XVIII. Cuando asigne o disponga para su protección o la de terceros, de elementos operativos para que realicen funciones de personal de protección, custodia, guardia o vigilancia personal, sin cumplir con los requisitos previstos en la ley aplicable;
+XIX. Cuando asigne o disponga para su protección o la de terceros, de elementos operativos para que realicen funciones de personal de protección, custodia, guardia o vigilancia personal, sin cumplir con los requisitos previstos en la ley aplicable;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-XIX. Cualquier servidor público que, teniendo la obligación de ejecutar créditos fiscales a favor de la institución en que labore, no los ejecute o no realice trámites relativos para su ejecución;
+XX. Cualquier servidor público que, teniendo la obligación de ejecutar créditos fiscales a favor de la institución en que labore, no los ejecute o no realice trámites relativos para su ejecución;
 
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-XX. A quien apruebe u otorgue un nombramiento supernumerario que trascienda el periodo constitucional del titular de la entidad pública, en el que se otorgó;
+XXI. A quien apruebe u otorgue un nombramiento supernumerario que trascienda el periodo constitucional del titular de la entidad pública, en el que se otorgó;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-XXI. A quien apruebe u otorgue definitivita (sic) en el puesto, empleo, cargo o comisión al servidor público, tenga un nombramiento temporal de carácter interino, provisional o de obra determinada, sin observar lo dispuesto por la legislación y reglamentación relativa al escalafón, servicio civil o la aplicable;
+XXII. A quien apruebe u otorgue definitivita (sic) en el puesto, empleo, cargo o comisión al servidor público, tenga un nombramiento temporal de carácter interino, provisional o de obra determinada, sin observar lo dispuesto por la legislación y reglamentación relativa al escalafón, servicio civil o la aplicable;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-XXII. A quien apruebe u otorgue un nombramiento a un servidor público, cuando contravenga lo dispuesto por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios; o
+XXIII. A quien apruebe u otorgue un nombramiento a un servidor público, cuando contravenga lo dispuesto por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios; o
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
-XXIII. A quien apruebe en los presupuestos de egresos, remuneraciones para los servidores públicos que contravengan lo dispuesto en el artículo 111 de la Constitución Política del Estado de Jalisco.
+XXIV. A quien apruebe en los presupuestos de egresos, remuneraciones para los servidores públicos que contravengan lo dispuesto en el artículo 111 de la Constitución Política del Estado de Jalisco.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 Al que cometa el delito de abuso de autoridad se le impondrán las siguientes sanciones:
 
@@ -2451,39 +2497,45 @@ Al que cometa el delito de abuso de autoridad se le impondrán las siguientes sa
 
 a) Si el monto del beneficio económico que reporte al responsable por los actos que aquí se señalan, no excede del importe de ciento noventa y seis veces el valor diario de la Unidad de Medida y Actualización, se le impondrán de uno a cinco años de prisión y multa de dos a veinte veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
-b) Si excede del monto a que se refiere el párrafo anterior, se impondrán de tres a nueve años de prisión y multa hasta por el importe de ciento noventa y seis veces el valor diario de la Unidad de Medida y Actualización; o
+b) Si excede del monto a que se refiere el inciso anterior, se impondrán de tres a nueve años de prisión y multa hasta por el importe de ciento noventa y seis veces el valor diario de la Unidad de Medida y Actualización; o
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 c) Si la comisión del hecho no reporta beneficio económico, se impondrán al responsable, de uno a cinco años de prisión.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2019)</small>
+
+Además de las penas señaladas en los incisos anteriores se le inhabilitará de conformidad con lo establecido en la fracción IV del artículo 144 de este Código.
+
 ### CAPITULO IV. Cohecho
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2019)</small>
 
 ###### Art. 147.
 
-Comete el delito de cohecho todo servidor público que, por sí o por interpósita persona, en cualquier momento, solicite o reciba, indebidamente, dinero o cualquier otra dádiva o servicio ya sea para sí o para otro, o acepte una promesa para hacer, o dejar de hacer algo relacionado con sus funciones.
+Comete el delito de cohecho:
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2019)</small>
 
-Si el monto de lo solicitado o entregado no excede del importe de veinte veces el valor diario de la Unidad de Medida y Actualización, se le impondrá al responsable una pena de diez a cincuenta jornadas de trabajo a favor de la comunidad y multa por el importe de veinte a cien veces el valor diario de la Unidad de Medida y Actualización.
+I. El servidor público que por sí o por interpósita persona, en cualquier momento solicite o reciba indebidamente dinero o cualquier otra dádiva o servicio, ya sea para sí o para otro, o acepte una promesa para hacer o dejar de hacer algo relacionado a su empleo, cargo o comisión; y
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
 
-Si el monto de lo solicitado o recibido excede del importe señalado en la fracción anterior, pero no excede de doscientas veces el valor diario de la Unidad de Medida y Actualización, se le impondrá una pena de uno a seis años de prisión y multa por el importe de veinte a cien veces el valor diario de la Unidad de Medida y Actualización.
+II. La persona física o jurídica que dé, prometa o entregue cualquier beneficio a un servidor público, con la finalidad de que haga u omita un acto justo o injusto relacionado con el ejercicio de sus funciones en su empleo cargo o comisión.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO CON SUS INCISOS], P.O. 11 DE JULIO DE 2019)</small>
 
-Si excede del monto a que se refiere el párrafo anterior, se le impondrá de dos a doce años de prisión y multa hasta por el importe de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+Al que comete el delito de cohecho se le impondrán las siguientes sanciones:
 
-Las mismas penas se impondrán al que, espontáneamente dé u ofrezca dinero, o cualquiera otra dádiva o servicio, a un servidor público, para que éste haga u omita un acto justo o injusto relacionado con sus funciones.
+a) Si el monto de lo solicitado o entregado no excede del importe de veinte veces el valor diario de la Unidad de Medida y Actualización, se le impondrá al responsable una pena de diez a cincuenta jornadas de trabajo a favor de la comunidad y multa por el importe de veinte a cien veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+b) Si el monto de lo solicitado o recibido excede del importe señalado en el inciso anterior, pero no excede de doscientas veces el valor diario de la Unidad de Medida y Actualización, se le impondrá una pena de uno a seis años de prisión y multa por el importe de veinte a cien veces el valor diario de la Unidad de Medida y Actualización.
 
-Lo anterior no les impedirá el derecho al beneficio de la libertad caucional, ya que sólo para este efecto, se estará a las penas señaladas en este artículo.
+c) Si excede del monto a que se refiere el inciso anterior, se le impondrá de dos a doce años de prisión y multa hasta por el importe de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+Además de las penas señaladas en los incisos anteriores se le inhabilitará de conformidad con lo establecido en la fracción IV del artículo 144 de este Código.
 
 En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado.
 
@@ -2495,139 +2547,185 @@ En ningún caso se devolverá a los responsables del delito de cohecho, el diner
 
 Comete el delito de peculado:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-I. Todo servidor público que, para usos propios o ajenos, distraiga de su objeto dinero, valores, fincas o cualquiera otra cosa perteneciente al Estado o municipio, organismo descentralizado o a un particular sí, por razón de su cargo, los hubiese recibido en administración, en depósito, en posesión o por otra causa; y
+I. Todo servidor público que para su beneficio o el de una tercera persona física o jurídica, distraiga de su objetivo (sic) dinero, valores, fincas o cualquier para (sic) cosa perteneciente al Estado o Municipio, Organismo Público o a un particular, si por razón de su cargo lo hubiere recibido en administración, en depósito, en custodia o por otra causa;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
 
-II. Cualquier persona que sin tener el carácter de servidor público y estando obligada a la custodia, administración o aplicación de recursos públicos, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
+II. El servidor público que autorice o consienta el pago o la inclusión, en nóminas oficiales, de personas que, recibiendo un salario del Estado o de los Municipios, no desempeñe sus servicios, así como al que dolosamente autorice, ejecute el pago, o lo reciba; y
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
 
-Si el monto de lo distraído no excede del equivalente a doscientas veces el valor diario de la Unidad de Medida y Actualización, se le impondrá al responsable una pena de tres meses a seis años de prisión; multa por el importe de veinte a cien veces el valor diario de la Unidad de Medida y Actualización; e inhabilitación para ejercer cualquier cargo público de uno a tres años.
+III. Cualquier persona física o jurídica que sin tener carácter de servidor público y estando obligada a la custodia, administración o aplicación de recursos públicos, los distraiga de su objetivo para sus usos propios o ajenos o les dé una aplicación diferente a las que se les destinó.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO CON SUS INCISOS], P.O. 11 DE JULIO DE 2019)</small>
 
-Si excede el monto a que se refiere el párrafo anterior, se impondrá al responsable de dos a doce años de prisión; multa hasta por el importe de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización; e inhabilitación para ejercer cualquier cargo público de uno a tres años.
+Al que cometa el delito de peculado se le impondrán las siguientes sanciones:
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+a) Si el monto de lo distraído no excede del equivalente a doscientas veces el valor diario de la Unidad de Medida y Actualización, se le impondrá al responsable una pena de tres meses a seis años de prisión; multa por el importe de veinte a cien veces el valor diario de la Unidad de Medida y Actualización.
+
+b) Si excede el monto a que se refiere el inciso anterior, se impondrá al responsable de dos a doce años de prisión; multa hasta por el importe de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2019)</small>
+
+Además de las penas señaladas en los incisos anteriores se le inhabilitará de conformidad con lo establecido en la fracción IV del artículo 144 de este Código.
 
 ###### Art. 149.
 
-Se impondrán las penas señaladas en el artículo anterior, tanto al servidor público que, a sabiendas, autorice o consienta el pago o la inclusión, en nóminas oficiales, de personas que recibiendo un salario del Estado o de los Municipios, no desempeñe sus servicios, así como al que dolosamente autorice, ejecute el pago, o lo reciba.
+(DEROGADO, P.O. 11 DE JULIO DE 2019)
 
 ### CAPITULO VI. Concusión
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
 ###### Art. 150.
 
-Comete el delito de concusión todo servidor público que, en su carácter de tal y a título de impuesto, derecho o contribución, recargo, renta, rédito, salario, cooperación o emolumento, exija por sí o por medio de otro, dinero, valores, servicio o cualquier otra cosa indebida, o en mayor cantidad que la señalada por la Ley.
+Comete el delito de concusión todo servidor público que, en su carácter de tal y a título de impuesto, derecho o contribución, recargo, renta, rédito, salario, cooperación o emolumento, exija por sí o por medio de otro, dinero, valores, servicio o cualquier otra cosa indebida, o en mayor cantidad que la señalada por la ley.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+Al que cometa el delito de concusión se le impondrán las siguientes sanciones:
 
-Cuando la cantidad o el valor de lo exigido indebidamente no exceda del importe de ciento noventa y seis veces el valor diario de la Unidad de Medida y Actualización, se impondrá al responsable una pena de tres meses a dos años de prisión y multa hasta por el importe de treinta a cien veces el valor diario de la Unidad de Medida y Actualización.
+a) Cuando la cantidad o el valor de lo exigido indebidamente no exceda del importe de ciento noventa y seis veces el valor diario de la Unidad de Medida y Actualización, se impondrá al responsable una pena de tres meses a dos años de prisión y multa por el importe de treinta a cien veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+b) Si excede del monto a que se refiere el inciso anterior, se impondrá al responsable de dos a doce años de prisión y multa por el importe de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
-Si excede del monto a que se refiere el párrafo anterior, se impondrá al responsable de dos a doce años de prisión y multa por el importe de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+Además de las penas señaladas en los incisos anteriores se le inhabilitará de conformidad con lo establecido en la fracción IV del artículo 144 de este Código.
 
 ### CAPITULO VII. Delitos Cometidos en la Custodia o Guarda de Documentos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2019)</small>
 
 ###### Art. 151.
 
-Se impondrán de uno a cuatro años de prisión a los servidores públicos que, indebidamente:
+Son delitos los cometidos en la custodia o guarda de documentos, por el servidor público que:
 
-I. Substraigan, destruyan u oculten documentos, papeles u objetos que les hayan sido confiados, o a los que tengan acceso por razón de su cargo;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+
+I. Sustraiga, destruya, oculte, utilice o inutilice ilícitamente documentos, papeles u objetos que les hayan sido confiados, o a los que tengan acceso por razón de su cargo;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 II. Quebranten o consientan en quebrantar los sellos de documentos o efectos sellados por autoridad competente, que tengan bajo su custodia; y
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 III. Abran, o consientan que se abran sin la autorización correspondiente, papeles o documentos cerrados que tengan bajo su custodia.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
-Cuando se sustraigan, destruyan, alteren, oculten o se impida el acceso a la información financiera de las entidades fiscalizadas requerida por la Auditoría Superior del estado de Jalisco para dictaminar las cuentas públicas, la pena se aumentará en una mitad.
+Cuando se sustraigan, destruyan, alteren, oculten o se impida el acceso a la información financiera de las entidades fiscalizadas requerida por la Auditoría Superior del Estado de Jalisco para dictaminar las cuentas públicas, la pena se aumentará en una mitad.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2019)</small>
 
-### CAPITULO VIII. Uso ilícito de atribuciones y facultades
+Al que cometa el delito de custodia o guarda de documentos se le impondrán de uno a cuatro años de prisión.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2019)</small>
+
+Además de las penas señaladas en el párrafo anterior se le inhabilitará de conformidad con lo establecido en la fracción IV del artículo 144 de este Código.
+
+> <small>(REFORMADO SU DENOMINACIÓN, P.O. 11 DE JULIO DE 2019)</small>
+
+### CAPITULO VIII. Uso Ilícito de Atribuciones y Facultades
+
+> <small>[N. DE E. DE CONFORMIDAD CON LAS REFORMAS APROBADAS EN EL DECRETO NÚMERO 27295/LXII/19 PUBLICADO EN EL P.O. DE 11 DE JULIO DE 2019, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2019)</small>
 
 ###### Art. 152.
 
-Comete este delito el servidor público que, indebidamente:
+Comente (sic) el delito de uso ilícito de atribuciones y facultades:
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JULIO DE 2019)</small>
+
+1. El servidor público que ilícitamente:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 I. Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado y de los Municipios;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 II. Otorgue permisos, licencias o autorizaciones de contenido económico;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 III. Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas, de seguridad social, en general, sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la Administración Pública Estatal o Municipal;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 IV. Otorgue, realice o contrate obras públicas, deuda, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, o colocaciones de fondos y valores, con recursos económicos públicos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 V. De los fondos recibidos por razón de su cargo, dolosamente, una aplicación pública distinta de aquélla a que estuvieren destinados, o hiciere un pago ilegal;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 VI. Promueva o gestione por sí o por interpósita persona, la tramitación o resolución ilícita de negocios públicos, ajenos a los inherentes a su empleo, cargo o comisión;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 VII. Otorgue por sí o por interpósita persona, en el desempeño de su empleo, cargo o comisión, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones, deducciones o subsidios; efectúe compras o ventas o realice cualquier acto jurídico en beneficio propio, de su cónyuge, descendientes o ascendientes, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o dependencia directa, socios o a sociedades de las que el servidor público o las personas antes referidas formen parte;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 VIII. Se valga de la información que posea por razón de su empleo cargo o comisión sea o no materia de sus funciones y que no sea de conocimiento público, para hacer por sí, o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido, a o cualquiera de las personas mencionadas en la frac. VII.
 
-Al que cometa el delito de desvío y aprovechamiento indebido de atribuciones y facultades, se le impondrán las siguientes sanciones:
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+IX. Siendo responsable de administrar o verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido o sido omiso en cumplir con dicha obligación.
 
-Cuando el monto a que asciendan las operaciones a que hace referencia este artículo, no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización, se impondrán de tres meses a dos años de prisión.
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 11 DE JULIO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+2. La persona física o jurídica que:
 
-Cuando exceda del monto señalado en el párrafo anterior, se impondrán de dos a doce años de prisión.
+I. En perjuicio del patrimonio o del servicio público de otra persona, solicite, participe o promueva la perpetración de cualquiera de los delitos previstos en este artículo;
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
+II. En su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio del Estado o sus Municipios, con la finalidad de obtener un beneficio para sí o par (sic) un tercero genere o utilice información falsa o alterada respecto de los rendimientos o beneficios que obtenga; o cuando estando legalmente obligado a entregar dicha información la oculte; y
 
-En ambos casos se impondrá una multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+III. Que en beneficio propio o de terceros, por sí o por interpósita persona intervenga valiéndose de su influencia afectiva, política, laboral, familiar o moral ante los servidores públicos facultados para tomar decisiones en negocios públicos, para promover la resolución de los mismos, a cambio de obtener un beneficio para sí o para otro.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS ], P.O. 11 DE JULIO DE 2019)</small>
 
-Se impondrán las mismas penas a quien, por sí o por interpósita persona, se beneficie del uso ilícito de las atribuciones o facultades.
+Al que cometa el delito de uso ilícito de atribuciones y facultades se le impondrán las siguientes sanciones:
+
+a) Cuando el monto a que asciendan las operaciones a que hace referencia este artículo, no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización, se impondrán de tres meses a dos años de prisión y multa de treinta a trescientas veces el valor de la Unidad de Medida de (sic) Actualización.
+
+b) Cuando exceda del monto señalado en el inciso anterior, se impondrán de dos a doce años de prisión y multa de treinta a trescientas veces el valor de la Unidad de Medida de (sic) Actualización.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
+Además de las penas señaladas en los incisos anteriores se le inhabilitará de conformidad con lo establecido en la fracción IV del artículo 144 de este Código.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO IX. Enriquecimiento Ilícito
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
 ###### Art. 153.
 
-Existe enriquecimiento ilícito cuando el servidor público durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumente sustancialmente su patrimonio, adquiera bienes o se conduzca como dueño sobre ellos, cuando no pueda justificar su procedencia lícita.
+Existe enriquecimiento ilícito cuando el servidor público durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumente sustancialmente su patrimonio, adquiera bienes o se conduzca como dueño sobre ellos, cuando no pueda justificar su procedencia lícita; o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que el servidor público acredite que éstos los obtuvieron con recursos de procedencia lícita.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
 
-Al que cometa el delito de enriquecimiento ilícito, se le aplicarán las siguientes sanciones:
+a) Cuando el monto no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización, se impondrán de tres meses a dos años de prisión, y multa de treinta a cien veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+b) Cuando el monto exceda de la cantidad que resulte en el inciso anterior, se impondrán de dos a catorce años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización; y
 
-I. Cuando el monto no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización, se impondrán de tres meses a dos años de prisión, y multa de treinta a cien veces el valor diario de la Unidad de Medida y Actualización;
+En todos los casos, el decomiso de los bienes obtenidos con el ilícito, incluyendo dinero y los intereses que el capital hubiere devengado, será en beneficio del Estado.
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+Además de las penas señaladas en los incisos anteriores se le inhabilitará de conformidad con lo establecido en la fracción IV del artículo 144 de este Código.
 
-II. Cuando el monto exceda de la cantidad que resulte en la fracción anterior, se impondrán de dos a catorce años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización; y
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JULIO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2003)</small>
+### CAPÍTULO X. Delitos cometidos en la Administración de Justicia y en otros Ramos del Poder Público
 
-III. En todos los casos, el decomiso de los bienes obtenidos con el ilícito, incluyendo dinero y los intereses que el capital hubiere devengado, será en beneficio del Estado.
-
-### CAPITULO X. Delitos cometidos en la administración de justicia y en otros ramos del poder público
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2019)</small>
 
 ###### Art. 154.
 
-Se impondrán de uno a cuatro años de prisión y multa de treinta a cien veces el valor diario de la Unidad de Medida y Actualización, a los servidores públicos que incurran en alguno de los siguientes casos:
+Son delitos cometidos en la administración pública y en otros Ramos del Poder Público, por el servidor público, los siguientes:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2713,65 +2811,101 @@ En los casos en que con motivo de la comisión de estos delitos, se obtenga un b
 
 Si el monto del beneficio obtenido excede del señalado en el párrafo anterior, se impondrá al responsable, de cuatro a diez años de prisión y multa hasta por el importe de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
-Las penas señaladas serán independientes de las que pudieren resultar de la comisión de cualquier otro delito.
+Al que incurra en las conductas de los delitos cometidos en la Administración de Justicia y en otros Ramos del Poder Público se le impondrán de uno a cuatro años de prisión y multa de treinta a cien veces el valor diario de la Unidad de Medida de (sic) Actualización.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2019)</small>
 
-## TITULO SEPTIMO BIS. Delitos cometidos por particulares en contra de la administración de justicia y en otros ramos del poder público
+Además de la pena señalada en el párrafo anterior se le inhabilitará de conformidad con lo establecido en la fracción IV del artículo 144 de este Código.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2019)</small>
 
-### CAPITULO XI. De la desaparición forzada de personas
+## TÍTULO SÉPTIMO BIS. De los Delitos cometidos por Servidores Públicos o Particulares Contra la Integridad Física y Mental de las Personas
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
+### CAPITULO I. De la Desaparición Forzada de Personas
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE JULIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27295/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2019)</small>
 
 ###### Art. 154-A.
 
-Comete el delito de desaparición forzada de personas el servidor público o integrante de los cuerpos de seguridad pública que prive de la libertad a una o más personas, cualquiera que fuere su forma, seguido de la negativa de reconocer dicha privación de libertad o de informar sobre el paradero de la persona.
-
-Es sujeto activo del delito de desaparición forzada de personas quien intervenga actuando con la autorización, la ayuda, la aquiescencia o tolerancia directa o indirecta de servidores públicos o de integrantes de seguridad pública.
-
-Serán igualmente considerados como sujeto activo el particular que prive de la libertad a una o más personas, cualquiera que fuere su forma, seguido de la falta de información o de la negativa a reconocer dicha privación de libertad o de informar sobre el paradero de la persona, aunque en ello no participen servidores públicos en ningún grado
-
-El delito de desaparición forzada se considera permanente e imprescriptible.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
-
-###### Art. 154-B.
-
-Se impondrá una pena de doce a cuarenta años de prisión y multa de seiscientos a mil veces el valor diario de la Unidad de Medida y Actualización a quien cometa el delito de desaparición forzada de personas.
-
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 23 DE MARZO DE 2019)</small>
-
-I. Se incrementará la pena hasta en una tercera parte cuando:
-
-a) La víctima del delito sea menor de edad, mujer, persona con discapacidad, indígena, persona de la tercera edad, defensor de los derechos humanos o periodista, estos dos últimos con motivo de su actividad como tales; o
-
-b) La víctima del delito sea persona que desarrolle funciones de seguridad pública, procuración o impartición de justicia, con motivo del cumplimiento de dichas funciones o por consecuencia del encargo.
-
-> <small>(REFORMADA [N. DE E. ANTES PÁRRAFO CUARTO], P.O. 23 DE MARZO DE 2019)</small>
-
-II. Las penas previstas para el delito de desaparición forzada se aumentarán hasta el doble cuando la desaparición forzada sea perpetrada como parte de un ataque generalizado o sistemático contra una población civil; y
-
-> <small>(REFORMADA [N. DE E. ANTES PÁRRAFO TERCERO], P.O. 23 DE MARZO DE 2019)</small>
-
-III. Si dentro de los cinco días siguientes a su detención se diera la liberación de la víctima, la pena aplicable será de seis a doce años de prisión, sin perjuicio del concurso de delitos.
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2019)</small>
-
-Las penas podrán ser disminuidas hasta en cincuenta por ciento en beneficio de aquel que hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos y cuando contribuya a lograr la aparición con vida de la víctima.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE MARZO DE 2019)</small>
-
-El Estado proporcionará medidas de protección y resguardará la identidad de la persona o personas que sirvan como testigos o que proporcionen información que conduzca a la efectiva localización de la víctima, con el fin de salvaguardar su integridad física.
+COMETE EL DELITO DE DESAPARICIÓN FORZADA DE PERSONAS EL SERVIDOR PÚBLICO, EL PARTICULAR ACTUANDO POR ORDEN DE AUTORIDAD O INTEGRANTE DE LOS CUERPOS DE SEGURIDAD PÚBLICA QUE PRIVE DE LA LIBERTAD A UNA O MÁS PERSONAS, CUALQUIERA QUE FUERE SU FORMA, SEGUIDO DE LA NEGATIVA DE RECONOCER DICHA PRIVACIÓN DE LIBERTAD O DE INFORMAR SOBRE LA SUERTE, DESTINO O PARADERO DE LA PERSONA.
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
 
+Es sujeto activo del delito de desaparición forzada de personas quien intervenga actuando con la autorización, la ayuda, la aquiescencia o tolerancia directa o indirecta de servidores públicos o de integrantes de seguridad pública.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+Serán igualmente considerados como sujeto activo el particular que prive de la libertad a una o más personas, cualquiera que fuere su forma, seguido de la falta de información o de la negativa a reconocer dicha privación de libertad o de informar sobre el paradero de la persona, aunque en ello no participen servidores públicos en ningún grado
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+
+El delito de desaparición forzada se considera permanente e imprescriptible.
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE JULIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27295/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2019)</small>
+
+###### Art. 154-B.
+
+SE IMPONDRÁ UNA PENA DE CUARENTA A SESENTA AÑOS DE PRISIÓN Y MULTA DE DIEZ MIL A VEINTE MIL VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN A QUIEN COMETA EL DELITO DE DESAPARICIÓN FORZADA DE PERSONAS.
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE JULIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27295/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JULIO DE 2019)</small>
+
+I. SE INCREMENTARÁ LA PENA HASTA EN UNA MITAD CUANDO:
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL INCISO A) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 24 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27249/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2019)</small>
+
+a) LA VÍCTIMA DEL DELITO SEA MENOR DE EDAD, MUJER, PERSONA CON DISCAPACIDAD, INDÍGENA, PERSONA DE LA TERCERA EDAD, DEFENSOR DE LOS DERECHOS HUMANOS O PERIODISTA, ESTOS DOS ÚLTIMOS CON MOTIVO DE SU ACTIVIDAD COMO TALES; O
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL INCISO B) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 24 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27249/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2019)</small>
+
+b) LA VÍCTIMA DEL DELITO SEA PERSONA QUE DESARROLLE FUNCIONES DE SEGURIDAD PÚBLICA, PROCURACIÓN O IMPARTICIÓN DE JUSTICIA, CON MOTIVO DEL CUMPLIMIENTO DE DICHAS FUNCIONES O POR CONSECUENCIA DEL ENCARGO.
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 24 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27249/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA [N. DE E. ANTES PÁRRAFO CUARTO], P.O. 23 DE MARZO DE 2019)</small>
+
+II. LAS PENAS PREVISTAS PARA EL DELITO DE DESAPARICIÓN FORZADA SE AUMENTARÁN HASTA EL DOBLE CUANDO LA DESAPARICIÓN FORZADA SEA PERPETRADA COMO PARTE DE UN ATAQUE GENERALIZADO O SISTEMÁTICO CONTRA UNA POBLACIÓN CIVIL; Y
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 24 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27249/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA [N. DE E. ANTES PÁRRAFO TERCERO], P.O. 23 DE MARZO DE 2019)</small>
+
+III. SI DENTRO DE LOS CINCO DÍAS SIGUIENTES A SU DETENCIÓN SE DIERA LA LIBERACIÓN DE LA VÍCTIMA, LA PENA APLICABLE SERÁ DE SEIS A DOCE AÑOS DE PRISIÓN, SIN PERJUICIO DEL CONCURSO DE DELITOS.
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PENÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 24 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27249/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2019)</small>
+
+LAS PENAS PODRÁN SER DISMINUIDAS HASTA EN CINCUENTA POR CIENTO EN BENEFICIO DE AQUEL QUE HUBIERE PARTICIPADO EN LA COMISIÓN DEL DELITO, CUANDO SUMINISTRE INFORMACIÓN QUE PERMITA ESCLARECER LOS HECHOS Y CUANDO CONTRIBUYA A LOGRAR LA APARICIÓN CON VIDA DE LA VÍCTIMA.
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 24 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27249/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE MARZO DE 2019)</small>
+
+EL ESTADO PROPORCIONARÁ MEDIDAS DE PROTECCIÓN Y RESGUARDARÁ LA IDENTIDAD DE LA PERSONA O PERSONAS QUE SIRVAN COMO TESTIGOS O QUE PROPORCIONEN INFORMACIÓN QUE CONDUZCA A LA EFECTIVA LOCALIZACIÓN DE LA VÍCTIMA, CON EL FIN DE SALVAGUARDAR SU INTEGRIDAD FÍSICA.
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE JULIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27295/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
 ###### Art. 154-C.
 
-Al servidor público o integrante de los cuerpos de seguridad pública que haya sido condenado por el delito de desaparición forzada de personas, además de las penas anteriores, se le destituirá del cargo y se le inhabilitará permanentemente para desempeñar cargo, comisión o empleo públicos.
+Al servidor público o integrante de los cuerpos de seguridad pública que haya sido condenado por el delito de desaparición forzada de personas, además de las penas anteriores, se le destituirá del cargo y se le inhabilitará de manera perpetua para desempeñar cargo, comisión o empleo públicos.
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE OCTUBRE DE 2016, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 25840/LXI/16, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -2805,49 +2939,83 @@ Quien cometa el delito de desaparición forzada de persona no tendrá derecho a 
 
 El delito de desaparición forzada de personas no será considerado de carácter político para los efectos de la extradición.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 11 DE JULIO DE 2019)</small>
 
-### CAPITULO XII. De la Tortura
+### CAPITULO II. De la Tortura
 
-> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2015)</small>
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE JULIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27295/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2019)</small>
 
 ###### Art. 154-H.
 
-Comete el delito de tortura el servidor público que realice cualquier acto u omisión por el cual se inflija a una persona dolores o sufrimientos físicos o mentales u otros tratos crueles, inhumanos o degradantes con fines de investigación, como medio intimidatorio, como castigo personal, como medida preventiva, como pena o con cualquier otro fin.
-
-Se entenderá también como tortura la aplicación sobre una persona de cualquier acto u omisión que persiga o conduzca a disminuir o anular la personalidad de la víctima, su capacidad física o mental, aunque no le cause dolor físico o angustia psíquica.
-
-De igual modo, comete el delito de tortura:
-
-I. El particular que, por solicitud, instigación, inducción u orden de un servidor público, incurra en las conductas descritas en el artículo anterior, indistintamente del grado de autoría o participación del particular en su comisión; y
-
-II. El servidor público que autorice, instigue, induzca, compela, tolere o se sirva de un particular o de un servidor público para la realización de alguna de las conductas descritas en los párrafos anteriores de este artículo.
-
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
-
-Al responsable de este delito se le impondrá prisión de tres a doce años de prisión y multa de doscientos a quinientas veces el valor diario de la Unidad de Medida y Actualización, destitución de su cargo e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el máximo de la punibilidad señalada.
-
-El delito de tortura se considera permanente e imprescriptible.
-
-No podrá invocarse como causa de justificación en la comisión del delito de tortura, la orden de un superior jerárquico o de cualquier otra autoridad, la existencia de situaciones excepcionales como inestabilidad política interna, estado de guerra o amenaza de guerra, conmoción o conflicto interior, suspensión de garantías constitucionales, urgencia en las investigaciones, peligrosidad del indiciado, urgencia en las investigaciones o cualquier otra circunstancia análoga o de emergencia pública.
-
-No se considera tortura, los sufrimientos físicos o mentales que sean consecuencia de sanciones penales, medidas incidentales a éstas o derivadas de un acto legítimo de autoridad, siempre que exista proporcionalidad en el uso de la fuerza y no se encuentren dentro de las prohibidas por la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano sea parte, la legislación aplicable o los criterios emitidos por el Poder Judicial de la Federación.
+COMETE EL DELITO DE TORTURA EL SERVIDOR PÚBLICO QUE REALICE CUALQUIER ACTO U OMISIÓN POR EL CUAL SE INFLIJA A UNA PERSONA DOLORES O SUFRIMIENTOS FÍSICOS O MENTALES U OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES CON EL FIN DE OBTENER INFORMACIÓN O UNA CONFESIÓN, CON FINES DE INVESTIGACIÓN, COMO MEDIO INTIMIDATORIO, COMO CASTIGO PERSONAL, COMO MEDIO DE COACCIÓN, COMO MEDIDA PREVENTIVA, POR RAZONES BASADAS EN DISCRIMINACIÓN, COMO PENA O CON CUALQUIER OTRO FIN.
 
 > <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2015)</small>
 
+Se entenderá también como tortura la aplicación sobre una persona de cualquier acto u omisión que persiga o conduzca a disminuir o anular la personalidad de la víctima, su capacidad física o mental, aunque no le cause dolor físico o angustia psíquica.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2015)</small>
+
+De igual modo, comete el delito de tortura:
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE JULIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27295/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+
+I. EL PARTICULAR QUE CON LA AUTORIZACIÓN, APOYO, CONSENTIMIENTO, POR SOLICITUD, INSTIGACIÓN, INDUCCIÓN U ORDEN DE UN SERVIDOR PÚBLICO, INCURRA EN LAS CONDUCTAS DESCRITAS EN LOS PÁRRAFOS ANTERIORES, INDISTINTAMENTE DEL GRADO DE AUTORÍA O PARTICIPACIÓN DEL PARTICULAR EN SU COMISIÓN; Y
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2015)</small>
+
+II. El servidor público que autorice, instigue, induzca, compela, tolere o se sirva de un particular o de un servidor público para la realización de alguna de las conductas descritas en los párrafos anteriores de este artículo.
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE JULIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27295/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
+AL SERVIDOR PÚBLICO QUE INCURRA EN ALGUNA DE LAS CONDUCTAS PREVISTAS EN ESTE ARTÍCULO SE LE IMPONDRÁ UNA PENA DE DIEZ A VEINTE AÑOS DE PRISIÓN Y MULTA DE QUINIENTOS A MIL VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA DE (SIC) ACTUALIZACIÓN, DESTITUCIÓN DE SU CARGO E INHABILITACIÓN PARA EL DESEMPEÑO DE CUALQUIER CARGO, EMPLEO O COMISIÓN PÚBLICOS HASTA POR EL MISMO LAPSO DE LA PENA IMPUESTA, LA CUAL EMPEZARÁ A CORRER UNA VEZ QUE SER (SIC) HAYA CUMPLIDO LA PENA PRIVATIVA DE LA LIBERTAD.
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE JULIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27295/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2019)</small>
+
+TRATÁNDOSE DE PARTICULARES (SIC) INCURRAN EN LAS CONDUCTAS QUE SEÑALA LA FRACCIÓN I DE ESTE ARTÍCULO, SE LE (SIC) IMPONDRÁ UNA PENA DE SEIS A DOCE AÑOS DE PRISIÓN Y MULTA DE TRESCIENTOS A SEISCIENTOS VECES EL VALOR DIARIO DE LA UNIDAD DE MEDIDA DE (SIC) ACTUALIZACIÓN.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2015)</small>
+
+El delito de tortura se considera permanente e imprescriptible.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2015)</small>
+
+No podrá invocarse como causa de justificación en la comisión del delito de tortura, la orden de un superior jerárquico o de cualquier otra autoridad, la existencia de situaciones excepcionales como inestabilidad política interna, estado de guerra o amenaza de guerra, conmoción o conflicto interior, suspensión de garantías constitucionales, urgencia en las investigaciones, peligrosidad del indiciado, urgencia en las investigaciones o cualquier otra circunstancia análoga o de emergencia pública.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2015)</small>
+
+No se considera tortura, los sufrimientos físicos o mentales que sean consecuencia de sanciones penales, medidas incidentales a éstas o derivadas de un acto legítimo de autoridad, siempre que exista proporcionalidad en el uso de la fuerza y no se encuentren dentro de las prohibidas por la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano sea parte, la legislación aplicable o los criterios emitidos por el Poder Judicial de la Federación.
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE JULIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27295/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2019)</small>
+
 ###### Art. 154-I.
 
-La pena señalada en el artículo anterior se aumentará en una tercera parte cuando concurra cualquiera de las siguientes circunstancias:
+LAS PENAS SEÑALADAS EN EL ARTÍCULO ANTERIOR SE AUMENTARÁN EN UNA MITAD CUANDO CONCURRA CUALQUIERA DE LAS SIGUIENTES CIRCUNSTANCIAS:
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2015)</small>
 
 I. Que en la comisión del hecho se incluyan actos que impliquen delitos contra la seguridad y la libertad sexual de cualquier especie;
 
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 24 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27249/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2019)</small>
 
-II. Que la víctima sea una persona que pertenezca a un grupo de población en situación de vulnerabilidad en razón de su edad, género, preferencia u orientación sexual, etnia, condición de discapacidad; se trate de un migrante, indígena, mujer en estado de embarazo, defensor de los derechos humanos o periodista, estos dos últimos con motivo de su actividad como tal;
+II. QUE LA VÍCTIMA SEA UNA PERSONA QUE PERTENEZCA A UN GRUPO DE POBLACIÓN EN SITUACIÓN DE VULNERABILIDAD EN RAZÓN DE SU EDAD, GÉNERO, PREFERENCIA U ORIENTACIÓN SEXUAL, ETNIA, CONDICIÓN DE DISCAPACIDAD; SE TRATE DE UN MIGRANTE, INDÍGENA, MUJER EN ESTADO DE EMBARAZO, DEFENSOR DE LOS DERECHOS HUMANOS O PERIODISTA, ESTOS DOS ÚLTIMOS CON MOTIVO DE SU ACTIVIDAD COMO TAL;
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 24 DE MARZO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27249/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MARZO DE 2019)</small>
 
-III. La víctima del delito sea persona que desarrolle funciones de seguridad pública, impartición o procuración de justicia, con motivo del cumplimiento de dichas funciones o por consecuencia del encargo;
+III. LA VÍCTIMA DEL DELITO SEA PERSONA QUE DESARROLLE FUNCIONES DE SEGURIDAD PÚBLICA, IMPARTICIÓN O PROCURACIÓN DE JUSTICIA, CON MOTIVO DEL CUMPLIMIENTO DE DICHAS FUNCIONES O POR CONSECUENCIA DEL ENCARGO;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE MARZO DE 2019)</small>
 
@@ -2861,11 +3029,19 @@ V. Que la conducta sea ejecutada con el propósito de ocultar o asegurar la impu
 
 VI. Cuando se cometa al interior de los centros de detención, encarcelamiento, internamiento o custodia de personas.
 
-> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2015)</small>
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE JULIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27295/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
+
+VII. LOS AUTORES O PARTICIPES COMETAN EL DELITO DE TORTURA, CON EL PROPÓSITO DE OCULTAR INFORMACIÓN O IMPEDIR QUE LAS AUTORIDADES COMPETENTES TENGAN CONOCIMIENTO SOBRE HECHOS QUE CONDUZCAN A LA INVESTIGACIÓN DE OTRO DELITO.
+
+(NOTA: EL 27 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE JULIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27295/LXII/19, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
 ###### Art. 154-J.
 
-El servidor público que en el ejercicio de sus funciones conozca de un hecho de tortura u otros tratos crueles, inhumanos o degradantes y no lo denuncie de inmediato ante la autoridad correspondiente, se le impondrán de dos a cinco años de prisión, de doscientos a quinientos días de multa e inhabilitación para el desempeño de cualquier empleo, cargo o comisión, hasta por dos tantos del lapso de pena de prisión impuesta, sin perjuicio de lo que establezcan otras disposiciones aplicables.
+El servidor público que en el ejercicio de sus funciones conozca de un hecho de tortura u otros tratos crueles, inhumanos o degradantes y no lo denuncie de inmediato ante la autoridad correspondiente, se le impondrán de tres a seis años de prisión, de doscientos cincuenta a quinientas veces el valor diario de la Unidad de Medida de (sic) Actualización de multa, e inhabilitación para el desempeño de cualquier empleo, cargo o comisión, hasta por dos tantos del lapso de pena de prisión impuesta, la cual empezará a correr una vez que ser (sic) haya cumplido la pena privativa de la libertad, sin perjuicio de lo que establezcan otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2015)</small>
 
@@ -2873,25 +3049,21 @@ El servidor público que en el ejercicio de sus funciones conozca de un hecho de
 
 Cuando la comisión de las conductas descritas en el artículo 154 H, sean parte de un ataque generalizado, sistemático, indiscriminado o desproporcionado contra un grupo o sector de la población civil, la pena se aumentará hasta en dos terceras partes.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
-
 ### CAPITULO XIII. Del ocultamiento o falsificación de rendimientos y tráfico de influencias
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Art. 154-L.
 
-Al particular que, en su carácter de contratista, permisionario, proveedor, asignatario o concesionario, con la finalidad de obtener un beneficio para sí o para un tercero, oculte o falsee información respecto de los rendimientos o beneficios que obtenga, se le impondrán de tres meses a nueve años de prisión y multa por el importe de treinta a cien veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+(DEROGADO, P.O. 11 DE JULIO DE 2019)
 
 ###### Art. 154-M.
 
-Al particular que en beneficio propio o de terceros, por sí o por interpósita persona, intervenga valiéndose de su influencia afectiva, política, laboral, familiar o moral ante los servidores públicos facultados para tomar decisiones en negocios públicos para promover la resolución de los mismos, a cambio de obtener un beneficio para sí o para otro se le impondrán de dos años a seis años de prisión y multa de treinta a cien veces el valor diario de la Unidad de Medida y Actualización.
+(DEROGADO, P.O. 11 DE JULIO DE 2019)
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
-## TITULO OCTAVO. RESPONSABILIDAD PROFESIONAL
+## TITULO SEPTIMO TER. Delitos Cometidos por Particulares en Contra de la Administración de Justicia y en Otros Ramos del Poder Público
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE SEPTIEMBRE DE 2015)</small>
 
 ### CAPITULO UNICO. Fraude procesal
 
@@ -2905,9 +3077,7 @@ Al que para obtener un beneficio indebido para sí o para otro, simule un acto j
 
 Si el beneficio es de carácter económico, se impondrán las penas previstas para el delito de fraude.
 
-## TITULO NOVENO. FALSEDAD
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2003)</small>
+## TITULO OCTAVO. RESPONSABILIDAD PROFESIONAL
 
 ### CAPITULO I. Delito de abogados, patronos y litigantes
 
@@ -2999,9 +3169,9 @@ Incurre en el delito de responsabilidad profesional o técnica, quien en el ejer
 
 Al responsable de este delito se le impondrán de tres meses a tres años de prisión e inhabilitación para ejercer la profesión, arte u oficio por el doble de la pena privativa de libertad impuesta.
 
-## TITULO DECIMO. DELITOS DE PELIGROSIDAD SOCIAL
+## TITULO NOVENO. FALSEDAD
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2003)</small>
 
 ### CAPITULO I. Falsificación de Documentos Expedidos por los Poderes del Estado, organismos autónomos, ayuntamientos o de los Documentos de Crédito
 
@@ -3221,9 +3391,9 @@ Las mismas penas se impondrán a quien utilice o revele indebidamente informaci�
 
 Para los efectos de este Título, se entiende por falsedad toda alteración de la verdad, que se produzca con fines ilícitos.
 
-## TITULO DECIMO PRIMERO. DELITOS CONTRA LA SEGURIDAD Y LIBERTAD SEXUAL
+## TITULO DECIMO. DELITOS DE PELIGROSIDAD SOCIAL
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ### CAPITULO UNICO. Explotación e Inducción a la Mendicidad
 
@@ -3241,9 +3411,9 @@ Al autor de este delito se le impondrán de tres a siete años de prisión, y mu
 
 La pena se aumentará al doble de la ya señalada, cuando el inculpado sea integrante de asociación delictuosa, sin perjuicio de la pena que le corresponda por ese ilícito, o cuando al pasivo se le obligue a fingir ante la sociedad ser menesteroso, desvalido o indigente.
 
-## TITULO DECIMO SEGUNDO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
+## TITULO DECIMO PRIMERO. DELITOS CONTRA LA SEGURIDAD Y LIBERTAD SEXUAL
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2017)</small>
 
 ### CAPITULO I. Abuso Sexual
 
@@ -3341,7 +3511,9 @@ Estos delitos sólo serán perseguidos por querella del ofendido o de su legíti
 
 ### CAPITULO III. Exposición de infantes
 
-## TITULO DECIMO TERCERO. VIOLACION A LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
+## TITULO DECIMO SEGUNDO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ### CAPITULO IV. Substracción, Robo y Tráfico de Menores
 
@@ -3499,7 +3671,7 @@ Para que el perdón concedido por el ofendido o su representante pueda producir 
 
 Art. 185 A. (DEROGADO, P.O. 8 DE ABRIL DE 2017)
 
-## TITULO DECIMO CUARTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
+## TITULO DECIMO TERCERO. VIOLACION A LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
 ### CAPITULO III. Chantaje
 
@@ -3529,7 +3701,7 @@ I. Que viole cualquier sepulcro, túmulo o féretro; y
 
 II. Que profane un cadáver o restos humanos con actos de vilipendio, obscenidad o brutalidad.
 
-## TITULO DECIMO QUINTO. DELITOS CONTRA EL HONOR
+## TITULO DECIMO CUARTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
 ### CAPITULO V. Asalto
 
@@ -3655,9 +3827,7 @@ La pena de prisión se aumentará hasta el doble, cuando la privación de la lib
 
 (DEROGADO, P.O. 27 DE MAYO DE 2008)
 
-## TITULO DECIMO SEXTO. DELITOS CONTRA LA VIDA E INTEGRIDAD CORPORAL
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2014)</small>
+## TITULO DECIMO QUINTO. DELITOS CONTRA EL HONOR
 
 ### CAPITULO IV BIS. De los Delitos contra la Dignidad de las Personas
 
@@ -3743,7 +3913,9 @@ No se procederá contra los autores de los delitos a que se refiere este título
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
-## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL PATRIMONIO
+## TITULO DECIMO SEXTO. DELITOS CONTRA LA VIDA E INTEGRIDAD CORPORAL
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 ### CAPITULO V. Parricidio
 
@@ -4147,7 +4319,7 @@ Además de las sanciones descritas en el presente artículo, el sujeto activo pe
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
-## TITULO DECIMO OCTAVO. ENCUBRIMIENTO Y ADQUISICION ILEGITIMA DE BIENES MATERIALES DE UN DELITO
+## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL PATRIMONIO
 
 ### CAPITULO VII. Administración Fraudulenta
 
@@ -5027,9 +5199,7 @@ Si el responsable de este delito fuere servidor público se le destituirá adem�
 
 > <small>(F. DE E., P.O. 28 DE OCTUBRE DE 1982)</small>
 
-## TITULO DECIMO NOVENO. DE LOS DELITOS ELECTORALES
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
+## TITULO DECIMO OCTAVO. ENCUBRIMIENTO Y ADQUISICION ILEGITIMA DE BIENES MATERIALES DE UN DELITO
 
 ### CAPITULO V. Delitos cometidos por los Servidores Públicos
 
@@ -5069,9 +5239,9 @@ Al que se dedique en forma habitual a la comercialización de objetos robados, a
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
 
-## TITULO VIGESIMO. DE LOS DELITOS FISCALES
+## TITULO DECIMO NOVENO. DE LOS DELITOS ELECTORALES
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ### CAPITULO UNICO. (ADICIONADO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
 
@@ -5155,9 +5325,9 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
-## TITULO VIGESIMO PRIMERO. DE LOS DELITOS CONTRA EL AMBIENTE
+## TITULO VIGESIMO. DE LOS DELITOS FISCALES
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 279.
 
@@ -5273,9 +5443,9 @@ Para los fines del artículo que antecede se tomará en cuenta el monto de lo de
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
-## TITULO DECIMO (SIC) SEGUNDO. DE LOS DELITOS EN MATERIA DE INFORMACION PUBLICA
+## TITULO VIGESIMO PRIMERO. DE LOS DELITOS CONTRA EL AMBIENTE
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2003)</small>
 
 ###### Art. 289.
 
@@ -5407,9 +5577,9 @@ No se aplicará pena alguna respecto a lo dispuesto por el párrafo primero del 
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
-## TITULO VIGESIMO TERCERO. DE LOS DELITOS EN MATERIA DE SEGURIDAD SOCIAL DE LOS SERVIDORES PUBLICOS
+## TITULO DECIMO (SIC) SEGUNDO. DE LOS DELITOS EN MATERIA DE INFORMACION PUBLICA
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2013)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Art. 298.
 
@@ -5447,9 +5617,9 @@ Para efectos de la fracción I se considera que una resolución es incumplida, c
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2013)</small>
 
-## TITULO VIGESIMO CUARTO. DE LA VIOLENCIA CONTRA LOS ANIMALES
+## TITULO VIGESIMO TERCERO. DE LOS DELITOS EN MATERIA DE SEGURIDAD SOCIAL DE LOS SERVIDORES PUBLICOS
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2013)</small>
 
 ###### Art. 299.
 
@@ -5505,9 +5675,9 @@ II. Mienta intencionalmente sobre su antigüedad de servicio o de cotización an
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2014)</small>
 
-## TÍTULO VIGÉSIMO CUARTO (SIC). DE LOS DELITOS CONTRA LA LIBERTAD DE EXPRESIÓN
+## TITULO VIGESIMO CUARTO. DE LA VIOLENCIA CONTRA LOS ANIMALES
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2014)</small>
 
 ###### Art. 305.
 
@@ -5570,6 +5740,10 @@ Quedan exceptuados de los delitos previstos en el presente Título los sacrifici
 Será excluyente de los delitos contemplados en el presente capítulo cuando prevalezca un riesgo inminente en la integridad física de las personas o los que se originen por accidentes sin que medie la intención de causar un daño al animal.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+## TÍTULO VIGÉSIMO CUARTO (SIC). DE LOS DELITOS CONTRA LA LIBERTAD DE EXPRESIÓN
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 309.
 
@@ -6686,5 +6860,11 @@ SEGUNDO. Los delitos cometidos antes de la entrada en vigor de la presente refor
 P.O. 11 DE MAYO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27265/LXII/19, QUE ADICIONA AL ARTÍCULO 21 LA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, ADICIONA LA FRACCIÓN VI AL ARTÍCULO 54 Y REFORMA EL ARTÍCULO 144, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; REFORMA LA FRACCIÓN IV DEL ARTÍCULO 52 Y EL ARTÍCULO 117 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ASÍMISMO SE ADICIONAN LAS FRACCIONES XXVIII Y XXIX DEL NUMERAL 4, DEL ARTÍCULO 11 DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 56 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO”.]
+
+Único. El presente decreto entra en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco''.
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27295/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 145, 146, 147, 148, 150, 151, 152, 153 Y 154 DEL TÍTULO SÉPTIMO "DE LOS DELITOS POR HECHOS DE CORRUPCIÓN", SE DEROGA EL ARTÍCULO 149, SE ADICIONAN LAS FRACCIONES VI DEL ARTÍCULO 145, V DEL ARTÍCULO 146; RECORRIÉNDOSE EN AMBOS CASOS LAS FRACCIONES SUBSECUENTES, LA FRACCIÓN II, AL ARTÍCULO 147 Y LA FRACCIÓN II DEL ARTÍCULO 148, LA FRACCIÓN IX DEL NUMERAL 1, ASÍ COMO EL NUMERAL 2 DEL ARTÍCULO 152 Y LA FRACCIÓN VII AL ARTÍCULO 154-I, SE MODIFICA LA DENOMINACIÓN DEL TÍTULO SÉPTIMO BIS DENOMINÁNDOLO "DE LOS DELITOS COMETIDOS POR SERVIDORES PÚBLICOS O PARTICULARES CONTRA LA INTEGRIDAD FÍSICA Y MENTAL DE LAS PERSONAS" DONDE SE INTEGRAN LOS DELITOS DE DESAPARICIÓN FORZADA DE PERSONAS, REFORMANDO LOS ARTÍCULOS 154-A, 154-B, 154-C, Y EL DELITO DE TORTURA, ARTÍCULOS 154-H, 154-I, 154-J; SE DEROGAN LOS ARTÍCULOS 154-L Y 154-M DEL CAPÍTULO XII, Y SE MODIFICA EL ACTUAL TÍTULO SÉPTIMO BIS PARA PASAR A SER EL TÍTULO SÉPTIMO TER DENOMINADO "DELITOS COMETIDOS POR PARTICULARES EN CONTRA DE LA ADMINISTRACIÓN DE JUSTICIA Y EN OTROS RAMOS DEL PODER PÚBLICO", TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 Único. El presente decreto entra en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco''.
