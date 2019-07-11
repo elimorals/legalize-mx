@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-fiscalia-del-estado-de-jalisco-131942"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2019-05-11"
+last_updated: "2019-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131942&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
 
 Ley publicada en la Quinquies Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -241,7 +241,9 @@ VII. Dirección General de Policía de Investigación.
 
 ###### Artículo 11.
 
-1. La Fiscalía Especializada en Combate a la Corrupción de conformidad con la Constitución Política del Estado de Jalisco, es la responsable de investigar y perseguir las conductas que el Código Penal del Estado y demás ordenamientos especiales tipifican como delitos relacionas (sic) con hecho de corrupción.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+
+1. La Fiscalía Especializada en Combate a la Corrupción de conformidad con la Constitución Política del Estado de Jalisco, es la responsable de investigar y perseguir las conductas que el Código Penal del Estado tipifica como “delitos relacionados con hecho (sic) de corrupción” previstos en los artículos 144, 145, 146 fracciones I, IV, VII, VIII, IX, XII, XIII, XIX, XXI, XXII, XXIII y XXIV, 147, 148, 149, 150, 151, 152, 153, 154 y demás ordenamientos especiales.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2018)</small>
 
@@ -415,7 +417,13 @@ IV. Coordinación de Atención Ciudadana;
 
 I. Centro de atención y protección a ofendidos, víctimas y testigos del delito;
 
-II. Vinculación y seguimiento en la defensa de los derechos humanos en especial sobre actos o hechos de tortura, además de lo dispuesto por el Código Nacional de Procedimientos Penales, una vez que tengan conocimiento de la probable comisión de algún delito.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+
+II. Vinculación y seguimiento en la defensa de los derechos humanos, además de lo dispuesto por el Código Nacional de Procedimientos Penales, una vez que tengan conocimiento de la probable comisión de algún delito;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
+
+III. Unidad Especializada en Delitos de Tortura.
 
 ###### Artículo 16.
 
@@ -932,3 +940,9 @@ P.O. 11 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27265/LXII/19, QUE ADICIONA AL ARTÍCULO 21 LA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, ADICIONA LA FRACCIÓN VI AL ARTÍCULO 54 Y REFORMA EL ARTÍCULO 144, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; REFORMA LA FRACCIÓN IV DEL ARTÍCULO 52 Y EL ARTÍCULO 117 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; ASÍMISMO SE ADICIONAN LAS FRACCIONES XXVIII Y XXIX DEL NUMERAL 4, DEL ARTÍCULO 11 DE LA LEY ORGÁNICA DE LA FISCALÍA DEL ESTADO DE JALISCO, Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 56 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO”.]
 
 Único. El presente decreto entra en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 11 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27295/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 145, 146, 147, 148, 150, 151, 152, 153 Y 154 DEL TÍTULO SÉPTIMO "DE LOS DELITOS POR HECHOS DE CORRUPCIÓN", SE DEROGA EL ARTÍCULO 149, SE ADICIONAN LAS FRACCIONES VI DEL ARTÍCULO 145, V DEL ARTÍCULO 146; RECORRIÉNDOSE EN AMBOS CASOS LAS FRACCIONES SUBSECUENTES, LA FRACCIÓN II, AL ARTÍCULO 147 Y LA FRACCIÓN II DEL ARTÍCULO 148, LA FRACCIÓN IX DEL NUMERAL 1, ASÍ COMO EL NUMERAL 2 DEL ARTÍCULO 152 Y LA FRACCIÓN VII AL ARTÍCULO 154-I, SE MODIFICA LA DENOMINACIÓN DEL TÍTULO SÉPTIMO BIS DENOMINÁNDOLO "DE LOS DELITOS COMETIDOS POR SERVIDORES PÚBLICOS O PARTICULARES CONTRA LA INTEGRIDAD FÍSICA Y MENTAL DE LAS PERSONAS" DONDE SE INTEGRAN LOS DELITOS DE DESAPARICIÓN FORZADA DE PERSONAS, REFORMANDO LOS ARTÍCULOS 154-A, 154-B, 154-C, Y EL DELITO DE TORTURA, ARTÍCULOS 154-H, 154-I, 154-J; SE DEROGAN LOS ARTÍCULOS 154-L Y 154-M DEL CAPÍTULO XII, Y SE MODIFICA EL ACTUAL TÍTULO SÉPTIMO BIS PARA PASAR A SER EL TÍTULO SÉPTIMO TER DENOMINADO "DELITOS COMETIDOS POR PARTICULARES EN CONTRA DE LA ADMINISTRACIÓN DE JUSTICIA Y EN OTROS RAMOS DEL PODER PÚBLICO", TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+Único. El presente decreto entra en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
