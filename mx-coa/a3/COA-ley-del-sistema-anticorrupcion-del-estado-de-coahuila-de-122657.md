@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-anticorrupcion-del-estado-de-coahuila-de-122657
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-14"
-last_updated: "2019-04-12"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 14 de julio de 2017.
 
@@ -265,7 +265,9 @@ Los integrantes del Consejo de Participación Ciudadana estarán sujetos al rég
 
 En relación con el párrafo anterior, le serán aplicables las obligaciones de confidencialidad, discreción, resguardo de información, y demás aplicables por el acceso que llegaren a tener a la información de las plataformas digitales de la Secretaría Ejecutiva del Sistema Nacional y demás información de carácter reservado y confidencial.
 
-En la conformación del Consejo de Participación Ciudadana se procurará que prevalezca la equidad de género.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
+En la conformación del Consejo de Participación Ciudadana se garantizará la paridad de género, por lo que deberá conformarse, en cualquier circunstancia, de tres ciudadanos de un mismo género.
 
 ###### Artículo 18.
 
@@ -278,6 +280,10 @@ a) Convocará a las instituciones de educación superior y de investigación del
 b) Convocará a organizaciones de la sociedad civil que tengan experiencia comprobada en materia de fiscalización, de rendición de cuentas y combate a la corrupción, para seleccionar a cuatro miembros, en los mismos términos del inciso anterior.
 
 El cargo de miembro de la Comisión de Selección será honorario. Quienes funjan como miembros no podrán ser designados como integrantes del Consejo de Participación Ciudadana por un periodo de seis años contados a partir de la disolución de la Comisión de selección.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+La Comisión de Selección se conformará atendiendo al principio de paridad de género, por lo que cinco de sus integrantes deberán pertenecer a un mismo género.
 
 II. La Comisión de Selección deberá emitir una convocatoria, con el objeto de realizar una amplia consulta pública en el estado, dirigida a toda la sociedad, para que presenten sus postulaciones de aspirantes a ocupar el cargo.
 
@@ -716,3 +722,13 @@ P.O. 12 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 238.- SE REFORMA EL CONTENIDO DEL PRIMER PÁRRAFO DEL ARTÍCULO 13 Y EL CONTENIDO DEL ARTÍCULO 20 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 306.- SE MODIFICA EL CONTENIDO DEL ÚLTIMO PÁRRAFO DEL ARTÍCULO 17 Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 18 DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para garantizar la equidad de género establecida en el presente Decreto, el Congreso del Estado, una vez que entre en vigor el presente mismo, cada vez que elija a un nuevo integrante de la Comisión de Selección, lo hará de tal forma que se cumpla con este principio.
+
+De igual forma y en los mismos términos se procederá en la integración de la (sic) Consejo de Participación Ciudadana para dar cumplimiento a la paridad de género.
