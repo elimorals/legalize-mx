@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2019-06-25"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -874,6 +874,10 @@ En el proceso descrito en el párrafo que antecede el ayuntamiento deberá tomar
 9. Organizar cursos, seminarios y programas de educación y capacitación continua tendientes a eficientar el cumplimiento de las funciones de los integrantes del ayuntamiento y demás servidores públicos municipales.
 
 10. Asegurar el régimen de seguridad social de los servidores públicos, empleados y trabajadores municipales.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+11. Promover la inclusión laboral de las personas con discapacidad en las dependencias y entidades de la administración pública municipal, a fin de generar plazas laborales que dependiendo de la capacidad presupuestaria de cada Municipio les permita.
 
 III. En materia de desarrollo urbano y obra pública:
 
@@ -3699,9 +3703,13 @@ Los trabajadores que sufran enfermedades no profesionales, tendrán derecho a qu
 
 I. A los empleados que tengan menos de un año de servicio se les podrá conceder licencia por enfermedad no profesional, hasta quince días con goce de medio sueldo y hasta quince días más, con una tercera parte del sueldo.
 
-II. A los que tengan de uno a dos años de servicio, hasta treinta días con goce de medio sueldo y hasta treinta días más, con una tercera parte del sueldo.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
 
-III. A los que tengan de cinco a diez años de servicio, hasta cuarenta y cinco días con goce de medio sueldo y hasta cuarenta y cinco días más, con una tercera parte del sueldo.
+II. A los que tengan de uno a cinco años de servicio, hasta treinta días con goce de medio sueldo y hasta treinta días más, con una tercera parte del sueldo.
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+
+III. A los que tengan más de cinco a diez años de servicio, hasta cuarenta y cinco días con goce de medio sueldo y hasta cuarenta y cinco días más, con una tercera parte del sueldo.
 
 IV. A los que tengan de diez años de servicio en adelante, hasta setenta días con goce de sueldo y hasta setenta días más, con goce de medio sueldo.
 
@@ -4693,7 +4701,7 @@ Tercero. Se derogan todas las disposiciones legales que se opongan al presente d
 
 P.O. 25 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 274.- SE REFORMAN LOS ARTÍCULOS 134-B Y 134-C DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 274.- SE REFORMAN LOS ARTÍCULOS 134-B Y 134-C DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4702,3 +4710,17 @@ El decreto entrará en vigor al día siguiente de su publicación en el Periódi
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 319.- SE ADICIONA EL NUMERAL 11 A LA FRACCIÓN II DEL ARTÍCULO 102 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 320.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 355 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
