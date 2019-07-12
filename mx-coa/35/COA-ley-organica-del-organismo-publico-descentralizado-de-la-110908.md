@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-organismo-publico-descentralizado-de-la-110908
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-12-29"
-last_updated: "2015-12-29"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADO DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 29 de diciembre de 2015.
 
@@ -65,7 +65,9 @@ Los beneficios y servicios sociales establecidos en esta ley se concederán:
 
 I. A los trabajadores al servicio del Municipio.
 
-II. A los trabajadores de los Organismos Descentralizados o Desconcentrados de la Administración Municipal que por ley sean incorporados a su régimen.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+
+II. A los trabajadores de los Organismos Descentralizados de la Administración Municipal que por ley sean incorporados a su régimen.
 
 III. A los jubilados.
 
@@ -75,35 +77,39 @@ V. A los beneficiarios, tanto de los trabajadores como de los jubilados y pensio
 
 No serán sujetos a los beneficios que se establecen en esta Ley, aquellas personas que perciban emolumentos mediante recibo de honorarios, por contrato de obra, mediante interinatos o a quienes el Municipio pague cuotas a otra Institución diversa de la Dirección de Pensiones y Otros Beneficios Sociales para los Trabajadores al Servicio del Municipio de Saltillo.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 5.
 
-Para los efectos de esta ley se entiende:
+Para los efectos de esta ley se entenderá por:
 
-I. Por patrón, el R. Ayuntamiento de Saltillo, sus órganos centralizados, descentralizados y desconcentrados.
+I. Patrón: el R. Ayuntamiento de Saltillo y sus Organismos Descentralizados;
 
-II. Por trabajador, toda persona física que presta un servicio físico o intelectual al municipio, en virtud de nombramiento expedido o por figurar en la nómina de pago de sueldos.
+II. Trabajador: toda persona física que presta un servicio físico o intelectual al municipio, en virtud de nombramiento expedido o por figurar en la nómina de pago de sueldos;
 
 Los trabajadores se dividirán en trabajadores en transición y trabajadores de nueva generación.
 
-III. Por trabajadores en transición, aquellos trabajadores que se encuentren en activo a la fecha de entrada en vigor de esta Ley.
+III. Trabajadores en transición: aquellos trabajadores que se encuentren en activo a la fecha en vigor de esta ley;
 
-IV. Por trabajadores de nueva generación, aquellos trabajadores que ingresen en fecha posterior a la entrada en vigor de esta Ley.
+IV. Trabajadores de nueva generación: aquellos trabajadores que ingresen en fecha posterior a la entra (sic) en vigor de esta ley;
 
-V. Por jubilado, toda persona que habiendo cumplido los años de servicio requeridos por esta Ley, tenga derecho a los beneficios correspondientes, así como aquellos que habiendo cumplido la edad prevista en este Ordenamiento, deban retirarse del servicio, para gozar de los mismos.
+V. Jubilado: el trabajador que cumpla con los años de cotización y la edad requerida por esta ley y que reciba una jubilación por parte del organismo;
 
-VI. Por pensionado, todo trabajador al que le sobrevenga una incapacidad física o mental, total o permanente, que lo imposibilite para el desempeño de cualquier actividad.
+VI. Pensionado: todo trabajador al que le sobrevenga una incapacidad física o mental, total o permanente, que lo imposibilite para el desempeño de cualquier actividad;
 
-VII. Por beneficiario, toda persona o personas que hayan sido designadas como tales por el trabajador, o aquellas personas que de acuerdo a lo dispuesto en el artículo 60, tengan derecho a una pensión cuando sobrevenga la muerte del trabajador.
+VII. Beneficiario: toda persona o personas que hayan sido designadas como tales por el trabajador, o aquellas personas que de acuerdo a lo dispuesto en el artículo 60, tengan derecho a una pensión cuando sobrevenga la muerte del trabajador;
 
-VIII. Por salario de cotización, el que sirve para el cálculo de las Aportaciones a la Dirección de Pensiones que será sobre la base del sueldo nominal del trabajador, identificado con la clave 01 y 05, siempre y cuando de este último concepto se hubieren realizado las aportaciones correspondientes, excluyéndose cualquier otra prestación que el trabajador perciba con motivo de su trabajo. Este sueldo en ningún caso podrá ser menor que un salario mínimo ni mayor a 15 salarios mínimos generales.
+VIII. Sueldo base de cotización: es la remuneración sobre el (sic) cual el patrón calcula y realiza las aportaciones propias y del trabajador, al organismo excluyendo cualquier otro tipo de percepción que devengue el trabajador. Este sueldo en ningún caso podrá ser menor al equivalente de un salario mínimo, ni mayor a 15 quince salarios mínimos diarios;
 
-IX. Por salario regulador, el promedio ponderado de los sueldos de cotización de toda la vida activa del trabajador, previa actualización con el Índice Nacional de Precios al Consumidor. Este no podrá ser superior al último salario neto que hubiera recibido el trabajador en activo.
+IX. Sueldo regulador: es la ponderación del sueldo base de cotización de la vida activa del trabajador, que sirve de base para el pago quincenal de las jubilaciones y pensiones, previa actualización conforme al Índice Nacional de Precios al Consumidor. Este no podrá ser superior al último sueldo neto que hubiera recibido el trabajador en activo;
 
-Si el servidor público desempeña varios puestos que devengan diversos salarios, se promediarán éstos, sumándolos entre sí y dividiéndolos entre el número de trabajos para calcular el salario regulador, con la condición de que el patrón aporte al fondo en cada uno de ellos la cuota equivalente.
+X. Año cotizado: espacio de tiempo compuesto por 24 quincenas efectivamente cotizadas al fondo de pensiones del municipio por el trabajador, el cual podrá ser interrumpido y continuado conforme a las disposiciones de esta ley;
 
-X. Por años de servicio, los años efectivamente cotizados por el trabajador al fondo de pensiones del municipio, el cómputo de los años de servicio se hará siempre basado en años naturales completos.
+XI. Derechos adquiridos: todos aquellos beneficios que el trabajador hubiere alcanzado previamente a la vigencia de esta ley;
 
-XI. Por derechos adquiridos, todos aquellos beneficios que el trabajador hubiere alcanzado previamente a la vigencia de esta Ley.
+XII. Organismo: es el Organismo Público Descentralizado de la Administración Municipal denominado Dirección de Pensiones y Otros Beneficios Sociales para los Trabajadores al Servicio del Municipio de Saltillo; y
+
+XIII. Consejo: es el ente colegiado encargado de la dirección, administración y operación del Organismo.
 
 C A P Í T U L O S E G U N D O
 
@@ -149,23 +155,55 @@ IV. Con los subsidios y aportaciones periódicas o eventuales hechas a su favor,
 
 V. Con todos los demás bienes que adquiera por cualquier medio legal.
 
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+ARTÍCULO 6 BIS. El patrimonio inmobiliario del Organismo será de dos tipos:
+
+I. El patrimonio inmobiliario de uso institucional que el Organismo destine para fines administrativos, así como al servicio de afiliados y pensionados, el cual no podrá ser enajenado sino con autorización previa del Consejo Directivo y subsecuentemente del H. Congreso del Estado; y
+
+II. El patrimonio inmobiliario general que el Organismo adquiera con fines de reserva e inversión.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+ARTÍCULO 6 TER. Respecto del patrimonio inmobiliario del Organismo, quedará prohibido lo siguiente:
+
+I. Conceder el uso, goce, disfrute o enajenación de bienes inmuebles propiedad del Organismo, a favor de partidos políticos, asociaciones, sociedades e instituciones en general que no sean de beneficencia pública o privada, de educación o investigación y reconocido prestigio y honorabilidad;
+
+II. Adquirir, enajenar o conceder el uso o disfrute de los bienes inmuebles a los miembros del Consejo, trabajadores, jubilados, pensionados, parientes en línea recta sin limitación de grado, colaterales o afines hasta el segundo grado; y
+
+III. Arrendar los inmuebles propiedad del Organismo, a un precio inferior al 10% del valor en el mercado.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+ARTÍCULO 6 QUATER. Toda adquisición de bienes inmuebles se sujetará a las siguientes disposiciones:
+
+I. Dictamen de valor de mercado emitido por alguna institución de crédito, corredores públicos u otros terceros capacitados para ello, expedido dentro de los seis meses anteriores y vigente al momento de la adquisición;
+
+II. Precio aceptable: Será aquel que derivado de la investigación de mercado no exceda al 10% al ofertado respecto del que se observa en dicha investigación; y
+
+III. Que el bien inmueble no cuente con gravamen alguno.
+
 ###### ARTÍCULO 7.
 
 Las aportaciones establecidas en la fracción I del artículo anterior, deberán ser validadas actuarialmente de manera que exista equilibrio entre los ingresos y egresos futuros del fondo de pensiones.
 
 Las valuaciones actuariales deberán realizarse al menos una vez cada 4 años.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 8.
 
-Los bienes, derechos y fondos pertenecientes al patrimonio del Organismo, sólo estarán afectos a la prestación de los servicios sociales previstos en esta Ley, quedando estrictamente prohibido a cualquier autoridad disponer de ellos a título de préstamo reiterable, ni aun cuando se estableciera el pago de intereses o renta. Salvo el caso previsto en el último párrafo del artículo 13 de la presente Ley.
+Los bienes, derechos y fondos pertenecientes al patrimonio del Organismo, estarán afectos a la prestación de los servicios sociales previstos en esta ley y al incremento de su patrimonio para cumplir su objeto, quedando estrictamente prohibido a cualquier autoridad disponer de este con fines diversos.
 
 ###### ARTÍCULO 9.
 
 Los trabajadores no adquirirán derecho alguno, ni individual ni colectivo, sobre el patrimonio del Organismo, sino exclusivamente el de gozar de los beneficios establecidos en este Ordenamiento.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 10.
 
-Queda prohibido a los integrantes del Consejo, otorgar fianza o avales que graven el patrimonio del Organismo.
+Queda prohibido al Consejo y a sus integrantes, otorgar fianza o avales que graven el patrimonio del Organismo.
 
 ###### ARTÍCULO 11.
 
@@ -175,27 +213,31 @@ Todo acto, contrato o documento que implique obligación o derecho inmediato, o 
 
 El Patrimonio del Organismo, será administrado por una Institución Bancaria, con quien los miembros del Consejo habrán de celebrar un contrato de Fideicomiso en cuyo clausulado será obligación consignar que la Institución Fiduciaria, únicamente cubrirá las cantidades que por concepto de beneficios se establecen en este Ordenamiento, mediante la orden de pago que en lo relativo formulen el Presidente y Tesorero del Consejo. En la orden de pago será obligación de los integrantes del Consejo, remitir copia certificada del acta de la Sesión correspondiente en la que se hubiese concedido el beneficio de que se trate.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 13.
 
-La Tesorería Municipal, los Organismos Centralizados, Descentralizados y los Desconcentrados tendrán la obligación de retener y consignar quincenalmente las cuotas y las aportaciones a la Institución Fiduciaria que designe el organismo, en los términos del artículo 6, fracción I de esta Ley.
+Son deberes del Patrón:
 
-El Tesorero Municipal y los responsables de las finanzas de los Organismos Centralizados, Descentralizados y Desconcentrados remitirán al organismo los documentos justificativos de las retenciones y las aportaciones, además deberán enviar una relación de los trabajadores a cuyo favor se hubiesen hecho.
+I. Inscribir a sus trabajadores en el Organismo, comunicar sus altas, bajas, licencias y modificaciones de sueldo, en la quincena siguiente a que se den, conforme a las disposiciones de esta ley;
 
-La Tesorería Municipal, los Organismos Centralizados, Descentralizados y los Desconcentrados deberán enterar y consignar las cuotas y aportaciones a que se refiere el primer párrafo de este artículo dentro de los 30 días naturales siguientes a su fecha correspondiente.
+II. Calcular y determinar las aportaciones a su cargo, así como las de sus trabajadores, ejecutar los descuentos correspondientes y enterarlos dentro de los 30 días naturales siguientes a su fecha correspondiente a la institución bancaria que designe el Organismo en los términos del artículo 6 fracción I y demás disposiciones aplicables de esta ley;
 
-Al incurrir en mora por causa grave y plenamente justificada, se procederá de la siguiente manera:
+III. Remitir al Organismo los documentos justificativos de las retenciones y las aportaciones que se apliquen;
 
-I.- El Consejo Directivo conocerá y valorará el incumplimiento a que se hace referencia en el presente artículo.
+IV. Dar aviso al Organismo de la existencia de incapacidades por enfermedad general y/o riesgos de trabajo que se hayan prolongado por seis meses y que puedan derivar en el otorgamiento de una pensión, dentro de los diez días hábiles siguientes a la fecha en que se completó el periodo anteriormente citado;
 
-II.- Si a juicio del Consejo Directivo se incurrió en responsabilidad, se dará vista a la Contraloría Municipal para que inicie el procedimiento administrativo correspondiente.
+V. Cubrir, conforme a la ley de Ingresos del Municipio de Saltillo, Coahuila de Zaragoza para el ejercicio fiscal que corresponda, con actualizaciones y recargos las aportaciones que no se hubieran enterado puntualmente al Organismo. Siendo imprescriptible la obligación de este pago; y
 
-De haber incurrido en mora, se deberá cubrir un interés similar a la tasa líder de los préstamos quirografarios que tenga establecida la Dirección de Pensiones.
+VI. Las demás que se deriven de la ley y de la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 14.
 
-Para el caso de que el Patrón, en perjuicio de algún trabajador, no hiciere ninguna de las aportaciones de las cuotas en los términos del artículo 6 fracción I de esta Ley, el derechohabiente o sus beneficiarios tendrán derecho a exigir del propio Municipio la indemnización correspondiente en los términos de la Ley.
+Cuando el Patrón omita inscribir o no hubiere realizado ninguna aportación en los términos del artículo 6 fracción I de esta ley, deberá enterar las aportaciones en los términos previstos en esta ley.
 
-En el caso de que el Patrón interrumpiera las aportaciones a su cargo, el derechohabiente o sus beneficiarios tendrán derecho a exigir del Organismo, que el patrón aporte las cuotas omitidas, a efecto de disfrutar del beneficio que proceda.
+Si el Patrón en perjuicio de algún trabajador hubiese dejado de pagar o interrumpiera las aportaciones a su cargo sin justificación, se procederá según lo establecido en el artículo 13 fracción V de la presente ley.
 
 C A P Í T U L O T E R C E R O
 
@@ -209,9 +251,13 @@ El Consejo Directivo se integrará de la siguiente manera:
 
 I. Por un Presidente, que lo será el Presidente Municipal, o excepcionalmente, para cubrir una ausencia temporal de éste, el miembro del Cabildo que él designe.
 
-II. Por un Secretario, que será nombrado por el Presidente del Consejo.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
 
-III. Por un Tesorero, que será designado por el Presidente del Consejo.
+II. Por un Secretario, que será el titular de la Secretaría del R. Ayuntamiento.
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+
+III. Por un Tesorero, que será titular de la Tesorería Municipal.
 
 IV. Por el titular del Órgano de Control Interno.
 
@@ -219,9 +265,13 @@ V. Por el Regidor que presida la Comisión de Hacienda.
 
 VI. Por dos vocales que serán:
 
-Un representante de los organismos sindicales, elegido entre ellos.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
-Un representante de los trabajadores, funcionarios o empleados no sindicalizados.
+a) Un representante de los organismos sindicales, elegido entre ellos; y
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
+b) Un representante de los trabajadores, funcionarios o empleados no sindicalizados.
 
 Los vocales suplentes serán designados en el mismo tiempo y formas en que lo sean los propietarios.
 
@@ -251,7 +301,9 @@ VIII. Vigilar la oportuna concentración de cuotas y demás recursos que ingrese
 
 IX. Conocer y aprobar los reglamentos internos del Organismo.
 
-X. Vigilar las operaciones de inversión que se realicen con recursos patrimoniales del Organismo.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+
+X. Proponer, analizar, aprobar y vigilar los procedimientos, políticas y operaciones de inversión que se realicen con recursos patrimoniales del Organismo;
 
 XI. Decidir, en caso de conflicto de intereses, a qué persona se tomará como beneficiario de algún trabajador, pensionado o jubilado.
 
@@ -275,9 +327,11 @@ Las sesiones de Consejo serán válidas cuando el quórum se integre con la mita
 
 Las votaciones para los acuerdos del Consejo, se tomarán por mayoría de votos de los miembros presentes. En caso de empate, el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 21.
 
-Las actas de las sesiones del Consejo se consignarán en un libro destinado especialmente para ese objeto, el cual estará bajo la custodia y conservación del Secretario.
+Las actas de las sesiones del Consejo se conservarán en un archivo especialmente destinado para tal objeto, el cual estará bajo la custodia y conservación del Director del Organismo.
 
 ###### ARTÍCULO 22.
 
@@ -381,7 +435,9 @@ XII. Decidir directa e inmediatamente responsabilidad sobre los asuntos que debi
 
 XIII. Rendir al Consejo Directivo, en el mes de noviembre de cada año, un informe general de las actividades del Organismo en el año anterior, acompañándolo de los datos financieros que procedan.
 
-XIV. Certificar las copias de los documentos originales que obren en el archivo y sistema electrónico de la Dirección de Pensiones, así como expedir testimonio de los mismos.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+
+XIV. Certificar las copias de los documentos originales que obren en el archivo y sistema electrónico del Organismo, así como expedir testimonio de los mismos;
 
 XV. Solicitar los estudios actuariales conforme a la presente Ley y someter los resultados a consideración del Consejo Directivo.
 
@@ -395,13 +451,17 @@ C A P Í T U L O Q U I N T O
 
 RELACIONES DE TRABAJO
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 31.
 
-Las relaciones jurídicas de trabajo ante el Organismo y su personal, se regirán por lo dispuesto en el Código Municipal del Estado de Coahuila de Zaragoza, y en todo lo no previsto por éste en su Reglamento Interior.
+Las relaciones jurídicas de trabajo entre el Organismo y su personal, se regirán por lo dispuesto en el Código Municipal para el Estado de Coahuila de Zaragoza, y en todo lo no previsto por éste en su Reglamento Interior.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 32.
 
-Por la naturaleza de las funciones del Organismo, son trabajadores de confianza todas las personas que presten sus servicios a la Dirección de Pensiones, en virtud de nombramiento expedido o por figurar en la nómina de pago de sueldos de éste.
+Por la naturaleza de las funciones del Organismo, son trabajadores de confianza todas las personas que presten sus servicios a éste, en virtud de nombramiento expedido o por figurar en la nómina de pago de sueldos del mismo.
 
 C A P Í T U L O S E X T O
 
@@ -415,9 +475,11 @@ Los bienes que integren el patrimonio del Organismo, así como los actos y contr
 
 No se aplicarán las exenciones a que se refiere el artículo anterior, en los supuestos consignados en la Fracción IV inciso c) del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 35.
 
-La Dirección prevista en este Ordenamiento se considera de acreditada solvencia para todos los efectos legales y no estará obligado a otorgar o constituir fianzas de depósito.
+El Organismo se considera de acreditada solvencia para todos los efectos legales y no estará obligado a otorgar o constituir fianzas de depósito.
 
 C A P Í T U L O S É P T I M O
 
@@ -433,13 +495,17 @@ a) Por retiro por antigüedad en el servicio
 
 b) Por retiro por edad
 
-II. PENSION POR INCAPACIDAD POR CAUSAS AJENAS AL SERVICIO
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
 
-III. PENSION POR INCAPACIDAD POR RIESGOS DE TRABAJO
+II. PENSIÓN POR INCAPACIDAD TOTAL PERMANENTE POR CAUSAS AJENAS AL SERVICIO;
 
-a) Incapacidad total y permanente
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
 
-IV. PENSION POR MUERTE DEL TRABAJADOR
+III. PENSIÓN POR INCAPACIDAD TOTAL PERMANENTE POR RIESGOS DE TRABAJO;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+
+IV. PENSIONES DERIVADAS POR MUERTE DEL TRABAJADOR, JUBILADO O PENSIONADO;
 
 a) Pensión por Viudez
 
@@ -447,13 +513,17 @@ b) Pensión por Orfandad
 
 c) Pensión a Ascendientes
 
-V. PENSION ANTICIPADA POR RETIRO.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+
+V. JUBILACIÓN ANTICIPADA;
 
 VI. SEGURO DE DEFUNCION
 
 VII. GASTOS DE FUNERAL
 
-VIII. DEVOLUCIÓN PARCIAL DE LAS CUOTAS ENTERADAS EXCLUSIVAMENTE POR EL TRABAJADOR, conforme a lo dispuesto en el artículo 85.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+
+VIII. DEVOLUCIÓN PARCIAL DE LAS APORTACIONES CUBIERTAS EXCLUSIVAMENTE POR EL TRABAJADOR;
 
 IX. PRESTAMOS QUIROGRAFARIOS
 
@@ -461,111 +531,153 @@ X. PRÉSTAMOS HIPOTECARIOS Y ADQUISICION DE INMUEBLES
 
 XI. SERVICIO MEDICO GRATUITO, proporcionado a través de la Institución con quien el organismo contrate el servicio.
 
-Los anteriores beneficios serán concedidos en el orden prescrito y en relación a los fondos que se dispongan, siendo invariablemente prioritario el pago de las pensiones y jubilaciones.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
+Los anteriores beneficios serán concedidos en relación a los fondos que se dispongan, siendo invariablemente prioritario el pago de las pensiones y jubilaciones.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 37.
 
-El derecho a la jubilación y a la pensión son imprescriptibles. Las pensiones caídas, las indemnizaciones globales y cualquier prestación de dinero a cargo de la Dirección que no se reclamen, prescribirán, a favor de la Dirección en dos años siguientes a la fecha en que fueran exigibles.
+El derecho a la jubilación y a la pensión es imprescriptible. Las pensiones caídas, las indemnizaciones globales y cualquier prestación de dinero a cargo del Organismo que no se reclamen, prescribirán, a favor de la misma en dos años siguientes a la fecha en que fueran exigibles.
+
+El Organismo estará obligado a contestar y resolver cualquier solicitud de los beneficios que señala esta ley dentro de los siguientes noventa días naturales.
+
+Los jubilados y pensionados deberán acreditar su supervivencia por lo menos dos veces al año en los términos y condiciones que para tal efecto se establezcan por el Organismo.
+
+El pago de los beneficios previstos en esta ley, se hará directamente al titular del derecho o bien a su representante legalmente acreditado.
+
+Todas las pensiones y jubilaciones se actualizarán anualmente en el mes de febrero conforme al Índice Nacional de Precios al Consumidor.
+
+La obligación de cubrir jubilaciones y pensiones concluye con el fallecimiento del jubilado o pensionado, salvo el caso de la pensión por viudez, orfandad y ascendientes de conformidad con lo señalado en la presente ley.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+ARTÍCULO 37 BIS. Las pensiones que otorga esta ley no podrán ser objeto de descuento, compensación o embargo, excepto para cubrir adeudos con el Organismo y cubrir obligaciones alimenticias decretadas por la autoridad judicial competente.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+ARTÍCULO 37 TER. Los pensionados, tendrán derecho al pago de un aguinaldo anual, equivalente a 34.5 días del sueldo regulador. En el caso de que el pensionado o sus beneficiarios, reciban una pensión menor a 1.5 salarios mínimos tendrán derecho al pago de un aguinaldo anual equivalente a 43 días de sueldo regulador.
+
+El Organismo otorgará anualmente a cada pensionado un bono de despensa equivalente a 2.5 veces el salario mínimo, siempre y cuando los fondos disponibles así lo permitan.
 
 C A P Í T U L O O C T A V O
 
 DE LAS JUBILACIONES
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 38.
 
-El derecho de la jubilación se adquiere por antigüedad en el servicio o por retiro por edad.
+El derecho a la jubilación se adquiere por años cotizados al Organismo y edad cumplida.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 39.
 
-La jubilación por antigüedad en el servicio, se concederá al servidor público que cumpla cuando menos 30 años de servicio y un mínimo de 65 años de edad.
+La jubilación, se concederá al trabajador que cumpla cuando menos 30 años cotizados y un mínimo de 65 años de edad.
 
-El monto de la pensión en este caso será del 100% del salario regulador definido en el artículo 5 fracción IX.
+El monto de la pensión en este caso será del 100% del sueldo regulador.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 40.
 
-La jubilación por retiro por edad se concederá al servidor público que haya cumplido cuando menos 65 años de edad y un mínimo de 15 años de servicio, el beneficio no podrá ser mayor al porcentaje del sueldo pensionable que se indica en la siguiente tabla:
+La jubilación se concederá al trabajador que haya cumplido cuando menos 65 años de edad y un mínimo de 15 años cotizados y será equivalente al porcentaje del sueldo regulador que se indica en la siguiente tabla:
 
-15 años de servicio 55% 23 años de servicio 79%
+Años cotizados Sueldo regulador Años cotizados Sueldo regulador
 
-16 años de servicio 58% 24 años de servicio 82%
+15 55% 23 79%
 
-17 años de servicio 61% 25 años de servicio 85%
+16 58% 24 82%
 
-18 años de servicio 64% 26 años de servicio 88%
+17 61% 25 85%
 
-19 años de servicio 67% 27 años de servicio 91%
+18 64% 26 88%
 
-20 años de servicio 70% 28 años de servicio 94%
+19 67% 27 91%
 
-21 años de servicio 73% 29 años de servicio 97%
+20 70% 28 94%
 
-22 años de servicio 76% 30 o más años de servicio 100%
+21 73% 29 97%
 
-Estos porcentajes serán con relación al salario regulador definido en la fracción IX del artículo 5.
+22 76% 30 en adelante 100%
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 41.
 
-Si el servidor público con 30 años o más de servicio continúa laborando, el Fondo de Pensiones le otorgará por su primer año un estímulo consistente en un 10 % de su salario de cotización, y adicionalmente, por cada año subsecuente un 2 % de dicho salario.
+El trabajador que cuente con 30 años o más de cotización y la edad requerida por esta Ley, y siga en activo será acreedor a un estímulo consistente en el 10% del sueldo base de cotización, en su primer año y adicionalmente, por cada año subsecuente 2% de dicho sueldo.
 
-Estos estímulos no forman parte del salario regulador definido en la fracción IX, del artículo 5 de esta Ley.
+Estos estímulos no forman parte del sueldo regulador definido en la fracción IX, del artículo 5 de esta ley.
 
 ###### ARTÍCULO 42.
 
-El monto de las jubilaciones por retiro por antigüedad en el servicio y por retiro por edad, se incrementará anualmente en el mes de febrero, en la misma proporción en que aumente el Índice Nacional de Precios al Consumidor, según la cuota diaria de su pensión. La pensión será vitalicia en años de servicio y antigüedad.
+(DEROGADO, P.O. 12 DE JULIO DE 2019)
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 43.
 
-El servidor público que cuente con al menos 15 años de servicio, podrá optar por una pensión anticipada a partir de los 60 años de edad, el monto de esta pensión se reducirá un 5% con respecto al beneficio que le hubiere correspondido en la pensión de jubilación por retiro por antigüedad en el servicio y por retiro por edad por cada año que le falte para cumplir con 65 años.
+Se requiere un mínimo de 15 años cotizados y cuando menos 60 años de edad para poder acceder a una jubilación anticipada. Esta jubilación se reducirá un 5% con respecto al porcentaje que le hubiere correspondido en la jubilación por cada año que le falte para cumplir 65 años.
 
 C A P Í T U L O N O V E N O
 
 PENSIÓN POR INCAPACIDAD POR CAUSAS AJENAS AL SERVICIO
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 44.
 
-El servidor público que se incapacite física o mentalmente, en forma total y permanente, por causas ajenas al desempeño de su cargo o empleo, tiene derecho a recibir una pensión por incapacidad por causas ajenas al servicio si tuviese diez años de aportación mínima y servicio ininterrumpido.
+El trabajador al que se le declare una incapacidad total permanente por causas ajenas al trabajo, tiene derecho a recibir una pensión siempre y cuando cumpla con los requisitos establecidos en esta ley.
 
 ###### ARTÍCULO 45.
 
 No habrá derecho a la pensión cuando la persona incapacitada pueda desempeñar algún puesto o trabajo diferente al que venía ejecutando, pues en este caso se le reinstalará en proporción a sus aptitudes.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 46.
 
-El otorgamiento de la pensión por incapacidad por causas ajenas al servicio queda sujeta al cumplimiento de los siguientes requisitos:
+El otorgamiento de la pensión por incapacidad total permanente por causas ajenas al servicio queda sujeto al cumplimiento de los siguientes requisitos:
 
-Solicitud del trabajador.
+I. Contar con un mínimo de 10 años de cotización;
 
-Dictamen del Perito Médico o Especialista en la materia, designado asesor del Consejo de Pensiones.
+II. Dictamen del perito médico o especialista en la materia, designado por el Consejo de Pensiones; y
 
-Cumplir con los requisitos administrativos necesarios para la pensión.
+III. Cumplir con los requisitos administrativos necesarios para tramitar la pensión, los cuales serán establecidos por el Organismo.
 
-En caso de desacuerdo ante el dictamen médico se procede de acuerdo al Artículo 57.
+En caso de desacuerdo con el dictamen médico se procederá de acuerdo al artículo 57 último párrafo de esta ley.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 47.
 
-La pensión por incapacidad por causas ajenas al servicio será de un porcentaje del salario regulador definido en la fracción IX del artículo 5. El monto de la pensión no podrá ser mayor al porcentaje del sueldo pensionable que se indica en la siguiente tabla:
+El monto de la pensión por incapacidad por causas ajenas al servicio, será con base en el sueldo regulador y se adecuará al porcentaje establecido en la siguiente tabla:
 
-10 años de servicio ---------- 50 % 21 años de servicio -------- 73 %
+Años cotizados Sueldo regulador Años cotizados Sueldo regulador
 
-11 años de servicio ---------- 51 % 22 años de servicio --------- 76 %
+10 50% 21 73%
 
-12 años de servicio ---------- 52 % 23 años de servicio --------- 79 %
+11 51% 22 76%
 
-13 años de servicio ---------- 53 % 24 años de servicio --------- 82 %
+12 52% 23 79%
 
-14 años de servicio ---------- 54 % 25 años de servicio --------- 85 %
+13 53% 24 82%
 
-15 años de servicio ---------- 55 % 26 años de servicio --------- 88 %
+14 54% 25 85%
 
-16 años de servicio ---------- 58 % 27 años de servicio --------- 91 %
+15 55% 26 88%
 
-17 años de servicio ---------- 61 % 28 años de servicio --------- 94 %
+16 58% 27 91%
 
-18 años de servicio ---------- 64 % 29 años de servicio --------- 97 %
+17 61% 28 94%
 
-19 años de servicio ---------- 67 % 30 años en adelante -------100 %
+18 64% 29 97%
 
-20 años de servicio ---------- 70 %
+19 67% 30 en adelante 100%
+
+20 70%
 
 ###### ARTÍCULO 48.
 
@@ -573,15 +685,13 @@ El monto de la pensión por incapacidad por causas ajenas al servicio se increme
 
 ###### ARTÍCULO 49.
 
-Los beneficios de la pensión por incapacidad por causas ajenas al servicio serán vitalicios, salvo lo que dispone el artículo siguiente, y en el capítulo relativo a pensión por muerte del trabajador.
+(DEROGADO, P.O. 12 DE JULIO DE 2019)
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 50.
 
-La pensión por incapacidad por causas ajenas al servicio será revocada cuando el trabajador recupere su capacidad de servicio.
-
-En tal caso el Patrón tendrá obligación de restituirlo al empleo si de nuevo es apto para el mismo, o en caso contrario, asignarle un trabajo que pueda desempeñar, debiendo ser, cuando menos, de un salario y categoría equivalente a los que disfrutaba al acontecer la incapacidad.
-
-Si el pensionado no fuese restituido a su empleo o no se le asignara otro en los términos del párrafo anterior por causa imputable al patrón, seguirá percibiendo el importe de su pensión hasta por un año con cargo a la Dirección de Pensiones. Transcurrido dicho plazo y si no se le hubiera restituido al empleo, el pago del salario será cubierto por el patrón, hasta en tanto reúna los requisitos previstos en la presente ley para su reingreso al fondo de pensiones.
+La pensión por incapacidad total permanente por causas ajenas al servicio será revocada cuando, el pensionado recupere su capacidad de servicio, en virtud de los tratamientos médicos o avances científicos. En tal caso es facultad del Patrón recontratarlo como empleado.
 
 ###### ARTÍCULO 51.
 
@@ -591,81 +701,129 @@ I. Cuando el estado de incapacidad sea consecuencia de un acto intencional del t
 
 II. Cuando el estado de invalidez sea anterior a la fecha de alta del trabajador en servicio.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 52.
 
-Será facultad de la Dirección de Pensiones constatar periódicamente la incapacidad del trabajador.
+Será facultad del Organismo constatar periódicamente la incapacidad del pensionado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JULIO DE 2019)</small>
 
 C A P Í T U L O D É C I M O
 
-PENSIÓN POR INCAPACIDAD POR RIESGOS DEL TRABAJO
+PENSIÓN POR INCAPACIDAD O MUERTE POR RIESGOS DE TRABAJO
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 53.
 
-Para los efectos de esta Ley se entenderán como riesgos de trabajo los accidentes y enfermedades a que se encuentran expuestos los servidores públicos en el ejercicio o con motivo del trabajo.
+Los riesgos de trabajo son los accidentes y enfermedades a que se encuentran expuestos los trabajadores en el ejercicio de sus funciones.
 
 ###### ARTÍCULO 54.
 
 Se considerarán para efectos de esta Ley:
 
-Accidentes de trabajo: toda lesión orgánica o perturbación funcional, inmediata o posterior, o la muerte producida repentinamente en el ejercicio o con motivo del trabajo cualquiera que sea el lugar y el tiempo en que se preste; así como aquellos que ocurran al trabajador al trasladarse directamente de su domicilio al lugar de trabajo, o viceversa.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
+Accidente de trabajo: es toda lesión orgánica o perturbación funcional, inmediata o posterior, o la muerte producida repentinamente en el ejercicio o con motivo del trabajo cualquiera que sea el lugar y el tiempo en que dicho trabajo se preste; así como aquellos que ocurran al trabajador al trasladarse directamente de su domicilio al lugar de trabajo, o viceversa.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+Enfermedad de trabajo: es todo estado patológico derivado de la acción continuada de una causa que tenga su origen o motivo en el trabajo, o en el medio en que el trabajador se vea obligado a prestar sus servicios.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 55.
 
-Incapacidad permanente total: es la pérdida de facultades o aptitudes de un servidor público que lo imposibilita para desempeñar sus actividades por el resto de su vida.
+Incapacidad total permanente es la pérdida de facultades o aptitudes de un trabajador que lo imposibilita para desempeñar sus actividades por el resto de su vida.
 
 ###### ARTÍCULO 56.
 
 No se considerarán riesgos de trabajo:
 
-I. Si el accidente ocurre encontrándose el servidor público en estado de embriaguez.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
 
-II. Si el accidente ocurre encontrándose el servidor público bajo la acción de algún narcótico o droga enervante, salvo que exista prescripción médica y que el servidor público hubiese puesto el hecho en conocimiento del jefe inmediato, presentándole la prescripción suscrita por el médico.
+I. Si el accidente ocurre encontrándose el trabajador en estado de embriaguez;
 
-III. Si el servidor público se ocasiona intencionalmente una lesión por sí mismo o de acuerdo con otra persona.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
 
-IV. Los que sean resultado de un intento de suicidio o efecto de una riña en que hubiere participado el servidor público u originados por algún delito cometido por éste, y
+II. Si el accidente ocurre encontrándose el trabajador bajo la acción de algún narcótico o droga enervante, salvo que exista prescripción médica y que el trabajador hubiese puesto el hecho en conocimiento del jefe inmediato, presentándole la prescripción suscrita por el médico;
 
-V. Cuando la incapacidad tenga su origen en actividades ajenas a las encomendadas al servidor público por la entidad de su adscripción.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+
+III. Si el trabajador se ocasiona intencionalmente una lesión por sí mismo o de acuerdo con otra persona;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+
+IV. Los que sean resultado de un intento de suicidio o efecto de una riña en que hubiere participado el trabajador u originados por algún delito cometido por éste; y
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+
+V. Cuando la incapacidad tenga su origen en actividades ajenas a las encomendadas al trabajador por la entidad de su adscripción.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 57.
 
-En el caso de que el trabajador esté inconforme con la calificación del Perito Médico o especialista, podrá en un plazo máximo de 15 días hábiles presentar escrito de inconformidad ante la Dirección de Pensiones, la cual dará vista a la Dirección de Salud Municipal, quien designará a un médico especialista en la materia, para que efectúe una revisión médica y emita el dictamen correspondiente, el cual será inapelable.
+El otorgamiento de la pensión por riesgo o enfermedad de trabajo queda sujeta al cumplimiento de los siguientes requisitos:
+
+I. Estar inscrito en el Organismo y acreditar el pago de las aportaciones correspondientes;
+
+II. Dictamen del perito médico o especialista en la materia, designado por el Consejo; y
+
+III. Cumplir con los requisitos administrativos necesarios para la pensión, los cuales serán establecidos por el Organismo.
+
+En el caso de que el trabajador esté inconforme con la calificación del perito médico o especialista, podrá en un plazo máximo de 15 días hábiles presentar escrito de inconformidad ante el Organismo, el cual dará vista a la Dirección de Salud Pública Municipal, quien designará a un médico tercero especialista en la materia, para que efectúe una revisión médica y emita el dictamen correspondiente, el cual será inapelable.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 58.
 
-Al ser declarada una incapacidad parcial será valorada según la Ley Federal del Trabajo en cuanto al porcentaje de su incapacidad. Para fines de pago se considerará el salario actual percibido por 30 días por el porcentaje de incapacidad valorada por 5 años. Este pago será liquidado por el R. Ayuntamiento directamente a través de la Dirección de Pensiones y liberará al patrón de las responsabilidades por dicho riesgo ocasionado. El trabajador será reasignado de acuerdo a sus características físicas a una nueva área laboral si es requerido.
+Al ser declarada una incapacidad permanente parcial, se aplicará el procedimiento establecido en la Ley Federal del Trabajo, en el Código Municipal para el Estado de Coahuila de Zaragoza y sus leyes supletorias.
 
-Si el porcentaje de valuación es mayor al 50% sería considerado como una pensión total cuyo monto será el 100% del salario regulador definido en la fracción IX, del artículo 5.
-
-Al igual que la pensión por incapacidad por causas ajenas al servicio, la pensión por incapacidad establecida en este artículo se sujetará a lo establecido en los artículos 50, 51 y 52 de esta Ley.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 59.
 
-Cuando el servidor público fallezca como consecuencia de un riesgo de trabajo, sus beneficiarios gozarán de una pensión equivalente al 100% del salario regulador definido en la fracción IX, del artículo 5.
+Cuando el trabajador se incapacite de forma total permanente o fallezca como consecuencia de un riesgo de trabajo, él o sus beneficiarios gozarán de una pensión equivalente al 100% del sueldo regulador.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 60.
 
-El importe de la pensión descrita en el Artículo anterior se distribuirá entre los dependientes económicos del servidor público de la siguiente manera:
+El importe de la pensión descrita en el artículo anterior se distribuirá entre los dependientes económicos del trabajador de la siguiente manera:
 
-I. El cónyuge supérstite o compañero (a) civil, en concurrencia con los hijos del trabajador, siempre que no viva en concubinato, contraiga nupcias o celebre el pacto civil de solidaridad.
+> <small>(REFORMADA [N. DE E. ÉSTE PÁRRAFO], P.O. 12 DE JULIO DE 2019)</small>
+
+I. El cónyuge supérstite o compañero (a) civil, en concurrencia con los hijos del trabajador que cumplan con lo establecido en la fracción III de este artículo, siempre que no viva en concubinato, contraiga nupcias o celebre el pacto civil de solidaridad.
 
 La pensión será vitalicia exclusivamente para el cónyuge o compañero (a) civil.
 
-II. A falta de cónyuge supérstite o compañero (a) civil, el concubinario o la concubina solo (a) o en concurrencia con los hijos; siempre que el trabajador o pensionado le hubiere dado el tratamiento de cónyuge cuando menos durante los últimos cinco años y ambos hayan permanecido libres de matrimonio durante el concubinato.
+> <small>(REFORMADA [N. DE E. ÉSTE PÁRRAFO], P.O. 12 DE JULIO DE 2019)</small>
+
+II. A falta de cónyuge supérstite o compañero (a) civil, el concubinario o la concubina solo (a) o en concurrencia con los hijos que cumplan con lo establecido en la fracción III de este articulo; siempre que el trabajador o pensionado le hubiere dado el tratamiento de cónyuge cuando menos durante los últimos cinco años y ambos hayan permanecido libres de matrimonio durante el concubinato.
 
 Si al morir el trabajador (a) o pensionado (a) tuviera varias concubinas o concubinarios, ninguna (o) tendrá derecho a la pensión.
 
-III. Los hijos menores de dieciocho años si los hay, siempre y cuando no hayan contraído matrimonio, o sean mayores de esa edad, pero estén incapacitados o imposibilitados totalmente para trabajar, o bien que tengan hasta veinticinco años previa comprobación de que están realizado estudios de nivel medio superior, acordes a su edad, en cualquier rama del conocimiento en planteles del sistema educativo nacional.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
 
-IV. A falta de hijos, cónyuge, compañero (a) civil, concubina o concubinario la pensión se entregará a los ascendientes directos cuando sean mayores de cincuenta y cinco años o estén incapacitados.
+III. Los hijos menores de dieciocho años si los hay, siempre y cuando no hayan contraído matrimonio, o sean mayores de esa edad, pero estén incapacitados o imposibilitados totalmente para trabajar, o bien que tengan hasta veinticinco años previa comprobación de que están realizado (sic) estudios de nivel medio superior, acordes a su edad, en cualquier rama del conocimiento en planteles del sistema educativo nacional que cuenten con registro de validez oficial emitido por la autoridad competente.
 
-En su defecto del inciso IV, a la persona o personas dependientes económicamente del servidor público o pensionista, en caso de que hubieren vivido con éste durante 3 años anteriores a su muerte, y que la Dirección de Pensiones tenga carta avalando dicho reconocimiento. La pensión por ascendientes tendrá como duración 2 años de beneficio como máximo.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
 
-Los hijos que hayan sido adoptados tendrán derecho a la pensión por orfandad, cuando la adopción se haya hecho por el servidor público o pensionista antes de haber cumplido cincuenta y cinco años de edad.
+IV. A falta de hijos, cónyuge, compañero (a) civil, concubina o concubinario la pensión se entregará a los ascendientes directos cuando sean mayores de cincuenta y cinco años o estén incapacitados de forma permanente total.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
+A falta de las personas establecidas en la fracción IV, a la persona o personas dependientes económicamente del trabajador, en caso de que hubieren vivido con éste durante 3 años anteriores a su muerte, y que la Dirección de Pensiones tenga carta avalando dicho reconocimiento. La pensión por ascendientes y dependientes económicos del trabajador tendrá como duración 2 años de beneficio como máximo.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 12 DE JULIO DE 2019)</small>
 
 La cantidad total a que tengan derecho los beneficiarios señalados en cada una de las fracciones anteriores, se dividirá por partes iguales entre ellos, cuando fueren varios los beneficiarios de una pensión o alguno de ellos perdiese el derecho, la parte que le corresponda será repartida proporcionalmente entre los restantes.
 
-En caso de fallecimiento del cónyuge supérstite o compañero (a) civil, entrará en vigor el inciso III.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
+En caso de fallecimiento del cónyuge supérstite o compañero (a) civil, entrará en vigor la fracción III de este artículo.
 
 ###### ARTÍCULO 61.
 
@@ -675,17 +833,25 @@ I. Cuando el cónyuge supérstite, compañero (a) civil o concubina (rio) en su 
 
 II. Cuando los hijos cumplan 18 años, contraigan matrimonio, celebren pacto civil de solidaridad o cese la incapacidad, salvo lo dispuesto en la fracción III del artículo 60.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JULIO DE 2019)</small>
+
+III. Por fallecimiento.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 62.
 
-Si otorgada una pensión aparecen otros dependientes económicos con derecho a la misma, se les hará extensiva, de acuerdo con el porcentaje que les corresponda y percibirán su parte a partir de la fecha en que sea recibida la solicitud en la Dirección de Pensiones, sin que pueda reclamar el pago de las cantidades cobradas por los primeros beneficiarios.
+Si otorgada una pensión aparecen otros dependientes económicos con derecho a la misma, se les hará extensiva, de acuerdo con el porcentaje que les corresponda y percibirán su parte a partir de la fecha en que sea autorizada la solicitud por el Organismo, sin que pueda reclamar el pago de las cantidades cobradas por los primeros beneficiarios.
 
-En caso de que dos o más interesados reclamen derecho a pensión como cónyuges supérstites o compañeros (as) civiles, del servidor público o pensionado exhibiendo su respectiva documentación se suspenderá el trámite del beneficio hasta que se defina judicialmente la situación, sin perjuicio de continuar por lo que respecta a los hijos, reservándose una parte de la cuota a quien acredite su derecho como cónyuge supérstite o compañero (a) civil.
+En caso de que dos o más interesados reclamen derecho a pensión como cónyuges supérstites o compañeros (as) civiles, del trabajador, exhibiendo su respectiva documentación se suspenderá el trámite del beneficio hasta que se defina judicialmente la situación, sin perjuicio de continuar por lo que respecta a los hijos, reservándose una parte de la aportación a quien acredite su derecho como cónyuge supérstite o compañero (a) civil.
 
-Cuando un solicitante, ostentándose como cónyuge supérstite o compañero (a) civil del servidor público o pensionista reclame un beneficio que se haya concedido a otra persona por el mismo concepto, sólo se revocará el anteriormente otorgado, si existe sentencia ejecutoriada en la que se declare la nulidad del matrimonio o pacto civil de solidaridad que sirvió de base para el otorgamiento de la pensión. Si el segundo solicitante reúne los requisitos que esta Ley establece, se le concederá la pensión, la cual percibirá a partir de la fecha en que se reciba la solicitud en el Organismo, sin que tenga derecho a reclamar las cantidades cobradas por el primer beneficiario.
+Cuando un solicitante, ostentándose como cónyuge supérstite o compañero (a) civil del trabajador o pensionado reclame un beneficio que se haya concedido a otra persona por el mismo concepto, sólo se revocará el anteriormente otorgado, si existe sentencia ejecutoriada en la que se declare la nulidad del matrimonio o pacto civil de solidaridad que sirvió de base para el otorgamiento de la pensión. Si el segundo solicitante reúne los requisitos que esta ley establece, se le concederá la pensión, la cual percibirá a partir de la fecha en que sea autorizada la solicitud por el Organismo, sin que tenga derecho a reclamar las cantidades cobradas por el primer beneficiario.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 63.
 
-Si el hijo pensionado llegare a los dieciocho años y no pudiere mantenerse por su propio trabajo, debido a una enfermedad duradera, defectos físicos o enfermedad psíquica, el pago de la pensión se prorrogará por el tiempo que subsista su incapacidad siempre y cuando ésta sea total permanente. En tal caso el hijo pensionado estará obligado a someterse a los reconocimientos y tratamientos que les prescriba la Institución que otorgue los servicios médicos y a las investigaciones que en cualquier tiempo ordene la Dirección de Pensiones para los efectos de determinar su estado de invalidez, haciéndose acreedor, en caso contrario, a la suspensión de la pensión.
+Si el hijo pensionado llegare a los dieciocho años y no pudiere mantenerse por su propio trabajo, debido a una enfermedad duradera, defecto físico o enfermedad psíquica que lo imposibilite para laborar en forma total, el pago de la pensión por orfandad se prorrogará por el tiempo que subsista su incapacidad. En tal caso el hijo pensionado estará obligado a someterse a los reconocimientos y tratamientos que les prescriba la Institución que otorgue los servicios médicos y a las investigaciones que en cualquier tiempo ordene el Organismo para los efectos de determinar su estado de invalidez, haciéndose acreedor, en caso contrario, a la suspensión de la pensión.
 
 ###### ARTÍCULO 64.
 
@@ -699,13 +865,17 @@ El divorciado (a) o ex compañero (a) civil no tendrá derecho a la pensión de 
 
 III. Fallecimiento.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JULIO DE 2019)</small>
+
 C A P Í T U L O D É C I M O P R I M E R O
 
-PENSIÓN POR MUERTE DEL TRABAJADOR
+PENSIÓN POR MUERTE DEL TRABAJADOR, JUBILADO O PENSIONADO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 65.
 
-Cuando ocurra la muerte del servidor público por causas ajenas al servicio, y siempre que hubiere aportado un mínimo de diez años ininterrumpidos al Fondo de Pensiones. Así como cuando se presente la muerte de un pensionista por antigüedad, vejez o invalidez, se dará origen a las siguientes prestaciones:
+Cuando ocurra la muerte del trabajador por causas ajenas al servicio, y siempre que hubiere cotizado un mínimo de 10 años al fondo de Pensiones. Así como cuando se presente la muerte de un jubilado o pensionado, se dará origen a las siguientes prestaciones:
 
 I. PENSIÓN POR VIUDEZ
 
@@ -749,113 +919,111 @@ Estas pensiones aumentarán anualmente en el mes de febrero en la misma proporci
 
 ###### ARTÍCULO 69.
 
-Los pensionados, tendrán derecho al pago de un Aguinaldo Anual, equivalente al 80 % de los días que reciben los trabajadores en activo. En el caso de que el pensionista o sus beneficiarios, reciban una pensión menor a 1.5 salarios mínimos tendrán derecho al pago de un Aguinaldo Anual equivalente al 100 % de los días que reciben los trabajadores no sindicalizados en activo.
+(DEROGADO, P.O. 12 DE JULIO DE 2019)
 
-La Dirección de Pensiones otorgara anualmente, a cada pensionado una despensa, cuyo costo, no deberá exceder de 2.5 veces el salario mínimo de esta zona económica, siempre y cuando los fondos disponibles así lo permitan.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 70.
 
-Los familiares beneficiarios del pensionista fallecido en el orden del artículo 60 de esta Ley, tienen derecho a una pensión equivalente al 75% del importe de la pensión que venía disfrutando el pensionista. En los términos del capítulo décimo de esta Ley.
+Los familiares beneficiarios del jubilado o pensionado fallecido en el orden del artículo 60 de esta ley, tienen derecho a una pensión equivalente al 75% del importe de la pensión que venía disfrutando el pensionista. En los términos del capítulo décimo primero de esta ley.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 71.
 
-Si otorgada una pensión aparecen otros familiares con derecho de la misma se les hará extensiva, pero percibirán su parte a partir de la fecha en que sea recibida la solicitud en la Dirección de Pensiones, sin que puedan reclamar el pago de las cantidades cobradas por los primeros beneficiarios.
+Si otorgada una pensión aparecen otros familiares con derecho de la misma se les hará extensiva, pero percibirán su parte a partir de la fecha en que sea autorizado el beneficio por el Organismo, sin que puedan reclamar el pago de las cantidades cobradas por los primeros beneficiarios.
 
-En caso de que dos o más interesados reclamen derecho a pensión como cónyuges supérstites o compañeros civiles del servidor público o pensionista, exhibiendo su respectiva documentación, se suspenderá el trámite del beneficio hasta que se defina judicialmente la situación, sin perjuicio de continuarlo por lo que respecta a los hijos, reservándose una parte de la cuota a quien acredite su derecho como cónyuge supérstite o compañero (a) civil.
+En caso de que dos o más interesados reclamen derecho a pensión como cónyuges supérstites o compañeros civiles del trabajador o pensionista, exhibiendo su respectiva documentación, se suspenderá el trámite del beneficio hasta que se defina judicialmente la situación, sin perjuicio de continuarlo por lo que respecta a los hijos, reservándose una parte de la aportación a quien acredite su derecho como cónyuge supérstite o compañero (a) civil.
 
-Cuando un solicitante, ostentándose como cónyuge supérstite o compañero (a) civil del servidor público o pensionista reclame beneficio que ya se haya concedido a otra persona por el mismo concepto, sólo se revocará el anteriormente otorgado, si existe sentencia ejecutoriada en la que se declare la nulidad del matrimonio o pacto civil de solidaridad que sirvió de base para la concesión de la pensión. Si el segundo solicitante reúne los requisitos que esta Ley establece, se le concederá pensión, la cual percibirá a partir de la fecha en que se reciba la solicitud en la Dirección de Pensiones, sin que tenga derecho a reclamar las cantidades cobradas por el primer beneficiario.
+Cuando un solicitante, ostentándose como cónyuge supérstite o compañero (a) civil del trabajador o pensionista reclame beneficio que ya se haya concedido a otra persona por el mismo concepto, sólo se revocará el anteriormente otorgado, si existe sentencia ejecutoriada en la que se declare la nulidad del matrimonio o pacto civil de solidaridad que sirvió de base para la concesión de la pensión. Si el segundo solicitante reúne los requisitos que esta ley establece, se le concederá pensión, la cual percibirá a partir de la fecha en que sea autorizada la solicitud por el Organismo, sin que tenga derecho a reclamar las cantidades cobradas por el primer beneficiario.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 72.
 
-Si el hijo pensionado llegare a los dieciocho años y no pudiere mantenerse por su propio trabajo debido a una enfermedad duradera, defectos físicos o enfermedad psíquica, el pago de la pensión por orfandad se prorrogará por el tiempo que subsista su incapacidad siempre y cuando ésta sea total y permanente. En tal caso el hijo pensionado estará obligado a someterse a los reconocimientos y tratamientos que la Dirección de Pensiones le prescriba y proporcione, y a las investigaciones que en cualquier tiempo ésta ordene para los efectos de determinar su estado de invalidez, haciéndose acreedor, en caso contrario, a la suspensión de la pensión.
+Si el hijo pensionado llegare a los dieciocho años y no pudiere mantenerse por su propio trabajo debido a una enfermedad duradera, defectos físicos o enfermedad psíquica, el pago de la pensión por orfandad se prorrogará por el tiempo que subsista su incapacidad siempre y cuando ésta sea total y permanente. En tal caso el hijo pensionado estará obligado a someterse a los reconocimientos y tratamientos que el Organismo le prescriba y proporcione, y a las investigaciones que en cualquier tiempo ésta ordene para los efectos de determinar su estado de invalidez, haciéndose acreedor, en caso contrario, a la suspensión de la pensión.
 
-Así mismo, continuarán disfrutando de la pensión los hijos solteros hasta los veinticinco años de edad, previa comprobación de que están realizando estudios, acordes a su edad, en cualquier rama del conocimiento en planteles del sistema educativo nacional.
+Así mismo, continuarán disfrutando de la pensión los hijos solteros hasta los veinticinco años de edad, previa comprobación de que están realizando estudios, acordes a su edad, en cualquier rama del conocimiento en planteles con reconocimiento de validez oficial de estudios del sistema educativo con (sic) nacional.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 73.
 
-Los derechos a percibir pensión por los familiares beneficiarios del servidor público o pensionista se pierden por alguna de las causas establecidas en el artículo 64 de esta Ley.
+Los derechos a percibir pensión por los familiares beneficiarios del trabajador o pensionista se pierden por alguna de las causas establecidas en el artículo 64 de esta ley.
 
 ###### ARTÍCULO 74.
 
-No se tendrá derecho a la pensión de viudez que establece este capítulo:
+(DEROGADO, P.O. 12 DE JULIO DE 2019)
 
-Cuando la muerte del servidor público acaeciere antes de cumplir cuatro meses de matrimonio o de haber celebrado el pacto civil de solidaridad.
-
-Cuando hubiese contraído matrimonio o de haber celebrado el pacto civil de solidaridad con el servidor público después de haber cumplido éste los cincuenta y cinco años de edad, a menos que a la fecha de la muerte haya transcurrido un año desde la celebración de enlace.
-
-Cuando al contraer matrimonio o de haber celebrado el pacto civil de solidaridad, el servidor público recibía ya una pensión de antigüedad, vejez o invalidez, a menos que a la fecha de la muerte haya transcurrido un año desde la celebración del matrimonio o de haber celebrado el pacto civil de solidaridad.
-
-Las limitaciones que establece este artículo no regirán cuando la muerte sea accidental o cuando el cónyuge supérstite o compañero (a) civil compruebe haber tenido hijos con el servidor público o pensionista.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 75.
 
-El derecho al goce de la pensión de viudez comenzará el día siguiente del fallecimiento del servidor público o pensionista, y cesará con la muerte del beneficiario, o cuando el cónyuge supérstite o compañero (a) civil o concubina (rio) contrajeren matrimonio o entraren en concubinato.
+El derecho al goce de la pensión de viudez comenzará el día siguiente del fallecimiento del trabajador, jubilado o pensionado, y cesará con la muerte del beneficiario, o cuando el cónyuge supérstite o compañero (a) civil o concubina (rio) contrajeren matrimonio o entraren en concubinato.
 
-Para tal efecto, la Dirección de Pensiones podrá ordenar en cualquier momento la verificación de la situación civil de la pensionada, para efectos de dar cumplimiento al párrafo anterior.
+Para tal efecto, el Organismo podrá ordenar en cualquier momento la verificación de la situación civil de la persona pensionada, para efectos de dar cumplimiento al párrafo anterior.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 76.
 
-El disfrute de una pensión de viudez, derivada de los derechos de un servidor público o pensionista en favor de sus beneficiarios será compatible con el disfrute de la pensión por antigüedad, vejez, riesgos de trabajo o invalidez que genere por derechos propios.
+El disfrute de una pensión por viudez es compatible con la jubilación o pensión por invalidez por derechos propios.
 
-No es compatible el disfrute de dos o más pensiones generadas por un trabajador. En caso de que cumpla con los requisitos para acceder a más de una pensión recibirá la de mayor cuantía sin que estas sean acumulables.
+No es compatible el disfrute de dos o más pensiones en un solo beneficiario. En caso de que cumpla con los requisitos para acceder a más de una pensión, recibirá la de mayor cuantía sin que estas sean acumulables.
 
 ###### ARTÍCULO 77.
 
 La percepción de una pensión por orfandad, es compatible con el disfrute de otra pensión igual proveniente de los derechos derivados del otro progenitor.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 78.
 
-Los servidores públicos en activo, podrán designar beneficiarios ante la Dirección de Pensiones, según lo descrito en el artículo 60 de esta ley, mismos que pueden ser sustituidos en cualquier tiempo, debiendo atenderse a los nombrados en las últimas fechas.
+Los trabajadores, jubilados o pensionados, podrán designar beneficiarios ante el Organismo, según lo descrito en el artículo 60 de esta ley, mismos que pueden ser sustituidos en cualquier tiempo, debiendo atenderse a los nombrados en las últimas fechas.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 79.
 
-Es nula toda enajenación, cesión o gravamen de las pensiones que esta Ley establece. Las devengadas o futuras serán inembargables y sólo podrán ser afectadas para hacer efectiva la obligación de ministrar alimentos por mandato judicial o para el pago de adeudos a la Dirección de Pensiones, con motivo de la aplicación de esta Ley.
+Es nula toda enajenación, cesión o gravamen de las pensiones que esta ley establece. Las devengadas o futuras serán inembargables y sólo podrán ser afectadas para hacer efectiva la obligación de ministrar alimentos por mandato judicial o para el pago de adeudos al Organismo, con motivo de la aplicación de esta ley.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 80.
 
-A los servidores públicos trabajadores que tengan derecho, tanto a jubilación por años de servicio y vejez, como a pensión de invalidez, se les otorgará solamente una de ellas a elección del interesado.
+A los trabajadores que tengan derecho, tanto a jubilación, como a pensión, se les otorgará solamente una de ellas a elección del interesado.
 
 C A P Í T U L O D É C I M O S E G U N D O
 
 SEGURO DE DEFUNCIÓN
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 81.
 
-Cuando fallece un servidor público en activo, teniendo una antigüedad mayor de 1 y menor de 10 años de servicio, tendrán derecho a un seguro de defunción equivalente a 15 meses de su último salario mensual que haya percibido al momento de su deceso, el cual será entregado a sus beneficiarios acreditados ante la Dirección de Pensiones y a falta de designación a sus herederos legítimos.
+Cuando fallece un trabajador, teniendo más de un año y menos de 10 años cotizados tendrá derecho al seguro de defunción equivalente a 20 meses del sueldo regulador, el cual será entregado a sus beneficiarios acreditados ante el Organismo y a falta de designación a sus herederos legítimos.
 
 ###### ARTÍCULO 82.
 
-Para fijar el monto del seguro de defunción, se tomará como base el salario que perciba el servidor público en la fecha del fallecimiento, pero si ese salario excede diez veces del salario mínimo mensual general vigente en el Estado, se considerará esta última cantidad como salario máximo.
+(DEROGADO, P.O. 12 DE JULIO DE 2019)
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 83.
 
-En los periodos de licencia sin goce de sueldo del servidor público, la Dirección de Pensiones se libera de la responsabilidad de pagar el seguro de defunción y gastos funerarios en caso de ocurrir el fallecimiento en este periodo.
-
-Así mismo, se computará como tiempo efectivo de servicios, en los siguientes casos:
-
-I. Cuando la licencia se conceda al trabajador para desempeñar cargos públicos o comisiones sindicales, mientras duren dichos cargos o comisiones.
-
-II. Cuando el trabajador sufra prisión preventiva seguida de sentencia absolutoria, mientras dure la privación de la libertad. Si el trabajador obró en defensa de su persona o los intereses del patrón.
-
-En los casos antes señalados, el Patrón deberá de pagar las cuotas a que se refiere el artículo 6, fracción I de esta Ley.
+En los periodos de licencia sin goce de sueldo el Organismo se libera de la responsabilidad de pagar el seguro de defunción en caso de ocurrir el fallecimiento en este periodo.
 
 C A P Í T U L O D É C I M O T E R C E R O
 
 GASTOS DE FUNERAL
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 84.
 
-Cuando fallezca un pensionista, los beneficiarios acreditados ante la Dirección de Pensiones podrán recibir el importe de estos gastos aplicando la siguiente tabla:
+Cuando fallezca un jubilado o pensionado, los beneficiarios acreditados ante el Organismo podrán recibir el importe equivalente a 15 unidades de medida de actualización para gastos de funeral.
 
-AÑOS DE SERVICIO AL R. AYUNTAMIENTO EQUIVALENTE A SALARIOS MÍNIMOS MENSUALES:
-
-De 0 años hasta 09 años de servicio ----- 5 salarios mínimos general de ésta zona económica.
-
-De 10 años hasta 20 años de servicio --- 10 salarios mínimos general de ésta zona económica.
-
-De 20 años hasta 30 años de servicio --- 15 salarios mínimos general de ésta zona económica.
-
-Así mismo, se otorgará este beneficio al fallecimiento del cónyuge o con quien haya vivido en concubinato e hijos incapacitados de los pensionados y jubilados. En estos casos, el beneficio no será mayor a 10 salarios mínimos mensuales y se otorga únicamente cuando el pensionado o jubilado titular no haya fallecido con anterioridad.
+Así mismo, se otorgará este beneficio al fallecimiento del cónyuge o con quien haya vivido en concubinato e hijos incapacitados. Y se otorga únicamente cuando el jubilado o pensionado titular no haya fallecido con anterioridad.
 
 C A P Í T U L O D É C I M O C U A R T O
 
@@ -871,59 +1039,101 @@ II. Dejar en el Fondo sus cuotas aportadas para conservar así su derecho a la a
 
 El trabajador tendrá un plazo de 12 meses a partir de la separación del cargo, para determinar cuál de las dos opciones anteriores seleccionó, concluido dicho plazo si el trabajador no optó por alguna de ellas, su aportación quedará a favor del fondo de pensiones.
 
-En caso de que el trabajador fallezca sin tener derecho a una pensión, los beneficiarios recibirán el beneficio descrito en el inciso a).
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
-El trabajador que sin tener derecho a pensión sea separado por causa imputable a su desempeño tendrá derecho únicamente a la devolución de hasta el 50% de las cuotas que realizó de acuerdo con la fracción I, del artículo 6 de esta Ley, sin incluir los intereses generados por éstas, los cuales seguirán formando parte del Fondo de Pensiones.
+En caso de que el trabajador fallezca sin tener derecho a una pensión, los beneficiarios recibirán el beneficio descrito en la fracción I de este artículo.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 12 DE JULIO DE 2019)</small>
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 86.
 
-La Dirección de Pensiones tiene la facultad de retener de las aportaciones del trabajador que se retire sin derecho a pensión los adeudos que este tenga con el organismo y que no hayan sido cubiertos previamente con su finiquito.
+El Organismo reconocerá las quincenas cotizadas que establece el artículo 85 fracción II, pero únicamente será procedente si el periodo de separación no es mayor a 4 años de su última cotización. Será requisito indispensable cotizar 1 año a partir del reingreso al sistema pensionario para que se actualice el supuesto señalado.
+
+El Organismo tiene la facultad de retener de las aportaciones del trabajador que se retire sin derecho a pensión, los adeudos que este tenga con el Organismo y que no hayan sido cubiertos previamente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JULIO DE 2019)</small>
 
 C A P Í T U L O D É C I M O Q U I N T O
 
-PRESTAMOS QUIROGRAFARIOS
+PRÉSTAMOS QUIROGRAFARIOS
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 87.
 
-Por préstamos quirografarios se entiende el crédito concedido por el Organismo a favor de un trabajador en activo, pensionado o jubilado, suscribiendo un documento a favor de ésta Institución, en la que se ampare la cantidad recibida, más los intereses correspondientes.
+Por préstamo quirografario se entiende el crédito concedido por el Organismo a favor de un trabajador, pensionado o jubilado.
+
+Todo préstamo requiere la suscripción de un documento a favor del Organismo en el que se ampare la cantidad recibida, más los intereses correspondientes y firmado también por un aval u obligado solidario, que tenga como mínimo 6 meses de cotización.
+
+Este requisito no se exigirá a los pensionados y jubilados, ni tampoco cuando el monto de las aportaciones acumuladas por el solicitante sea superior al importe del préstamo y el beneficiario autorice al Organismo el descuento de los mismos sobre sus aportaciones en caso de incumplimiento.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 88.
 
-Todo trabajador activo, pensionado o jubilado, tendrá derecho a que se le preste el equivalente a 4 meses de sueldo de cotización o de la pensión, de conformidad con las posibilidades económicas del Organismo, con la condición de no tener adeudo pendiente a favor de la Dirección y de que algún otro trabajador en activo avale su pago.
+De conformidad con las posibilidades económicas del Organismo, todo trabajador, pensionado o jubilado, tendrá derecho a que se le otorgue un crédito quirografario de acuerdo a la tabla siguiente:
 
-El monto anterior podrá ampliarse para los trabajadores activos hasta por 6 meses de sueldo de cotización, si el trabajador cuenta con una antigüedad mínima de 4 años, o bien hasta 8 meses si el trabajador cuenta con una antigüedad mínima de 8 años de servicio en alguna de las dependencias u Organismos Descentralizados y Desconcentrados del R. Ayuntamiento de Saltillo.
+Tiempo de Cotización Monto del préstamo otorgado en meses de sueldo
+
+De A
+
+6 meses 4 años 4
+
+4 años 8 años 8
+
+8 años en adelante 10
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 89.
 
-Será facultad del Consejo Directivo determinar los intereses de los préstamos quirografarios a corto plazo, ajustándolos cuando las condiciones financieras del mercado así lo ameriten, estos intereses no podrán ser inferiores a la tasa de inflación más 3 puntos porcentuales anuales.
+Será facultad del Consejo determinar los intereses de los préstamos quirografarios a corto plazo, ajustándolos cuando las condiciones financieras del mercado así lo ameriten, estos intereses no podrán ser inferiores a la tasa de inflación más 3 puntos porcentuales de los últimos 12 meses.
 
-Para todo lo anterior debe considerarse la necesidad de sustentabilidad del fondo y la viabilidad para adquirir un préstamo por parte del trabajador.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
+Para todo lo anterior debe considerarse la necesidad de sustentabilidad del fondo y la viabilidad para adquirir un préstamo por parte del trabajador, jubilado o pensionado.
 
 La existencia de ésta prestación dependerá de la liquidez en la reserva para el pago de las pensiones y el grado de riesgo que representara para el fondo.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 90.
 
-El trabajador en activo, para tener derecho a gozar del beneficio previsto en este capítulo, deberá tener una antigüedad efectiva de 6 meses posteriores de haber ingresado al trabajo al servicio del patrón.
+El trabajador, para tener derecho a gozar del beneficio previsto en este capítulo, deberá tener por lo menos 6 meses cotizados, posterior de haber ingresado a trabajar al servicio del patrón.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 91.
 
-El abono para este tipo de préstamos se hará quincenalmente, a partir de la quincena posterior a la recepción del préstamo, y los plazos máximos para su pago serán:
+El abono para este tipo de préstamos se hará quincenalmente, a partir de la quincena posterior a la recepción del préstamo, y los plazos máximos para su pago serán como se indica en la tabla siguiente:
 
-I. De 24 quincenas para los préstamos de hasta 4 meses de sueldo.
+Tiempo de cotización Quincenas de plazo
 
-II. De 36 quincenas para préstamos mayores a 4 meses y hasta 6 meses de sueldo.
+Más de A
 
-III. De 48 quincenas para los préstamos mayores a 6 meses y hasta 8 meses de sueldo.
+6 meses 4 años 24
+
+4 años 8 años 48
+
+8 años 96
 
 El capital y los intereses se prorratearán entre las quincenas respectivas para que así sean deducidos de su nómina quincenal.
 
-El monto de las deducciones por este concepto no podrá ser superior a lo que estipule el Código Municipal del Estado de Coahuila.
+El préstamo podrá renovarse por una única vez siempre y cuando el trabajador haya cubierto al menos el 50% de las quincenas prorrateadas de su préstamo. El monto de este nuevo préstamo no podrá ser superior a la cantidad ya cubierta y la tasa de interés aplicable será la que se encuentre vigente en el momento de la renovación más dos puntos porcentuales.
+
+El préstamo renovado deberá liquidarse en su totalidad, para estar en posibilidades de solicitar uno nuevo.
+
+El monto de las deducciones por este concepto no podrá ser superior a lo que estipula el Código Municipal para el Estado de Coahuila de Zaragoza.
 
 El plazo para la liquidación de los préstamos quirografarios, a personal no sindicalizado, en ningún momento podrá exceder del término de la administración municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 92.
 
-En caso de fallecer el trabajador, pensionado o jubilado, y tenga adeudos al Fondo de Pensiones, se descontará la cantidad adeudada de las que habrán de recibir los beneficiarios.
+En caso de fallecer el trabajador, pensionado o jubilado, y tenga adeudos al Fondo de Pensiones, se descontará la cantidad adeudada de los montos que habrán de recibir los beneficiarios.
 
 De no existir beneficiarios de pensionados o jubilados el adeudo se considerará como una cuenta incobrable y como una erogación para el organismo, misma que deberá ser autorizada por el Consejo Directivo del Organismo.
 
@@ -941,7 +1151,7 @@ El monto del interés por préstamos quirografarios para pensionados y jubilados
 
 ###### ARTÍCULO 96.
 
-Los pensionistas, al momento de solicitar un préstamo, no tendrán obligación de requerir a alguna persona para firmar como aval.
+(DEROGADO, P.O. 12 DE JULIO DE 2019)
 
 C A P Í T U L O D É C I M O SEXTO
 
@@ -951,15 +1161,53 @@ AYUDAS ESCOLARES
 
 El pensionado y/o jubilado tendrá derecho a ser considerado dentro del programa de ayuda escolar, si tiene hijos dependientes económicos en edad escolar y éste o éstos hayan aprobado el ciclo escolar pasado.
 
-La ayuda escolar consistirá en el pago del importe de 20 días de salario mínimo general, cantidad que será pagada al pensionista dentro del periodo comprendido del 15 de Agosto al 15 de Septiembre de cada año.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
+La ayuda escolar consistirá en el pago del importe de 20 unidades de medida de actualización cantidad que será pagada al pensionista dentro del periodo comprendido del 15 de agosto al 15 de septiembre de cada año.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 98.
 
-El importe de la ayuda escolar aumentará anualmente de acuerdo al incremento al salario mínimo regional.
+El importe de la ayuda escolar se actualizará anualmente conforme al Índice Nacional de Precios al Consumidor.
 
 ###### ARTÍCULO 99.
 
 El monto de la ayuda escolar, en ningún caso, será inferior al monto del año anterior.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JULIO DE 2019)</small>
+
+C A P Í T U L O D É C I M O S É P T I M O
+
+DE LAS INVERSIONES
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+###### ARTÍCULO 100.
+
+Las reservas del Organismo para financiar el régimen de seguridad social, se constituirán con las cantidades que resulten de las diferencias entre los ingresos y los egresos de acuerdo a las transferencias acordadas por el Consejo.
+
+El Organismo podrá realizar inversiones financieras con la finalidad de fortalecer sus reservas; estas inversiones deberán sujetarse a las siguientes disposiciones:
+
+I. La inversión debe hacerse en las mejores condiciones de seguridad, rendimiento, liquidez y diversificación de acuerdo a la situación de mercado prevaleciente;
+
+II. Su disponibilidad debe ser acorde con la liquidez requerida para hacer frente al pago de prestaciones económicas;
+
+III. Al concurrir similitud de circunstancias sobre seguridad, rendimiento, liquidez y diversificación en diferentes tipos de inversión, se preferirá la que garantice el rendimiento económico en un menor plazo;
+
+IV. Los rendimientos generados serán ingresados a la reserva de pensiones;
+
+V. Las reservas podrán ser utilizadas cuando los ingresos por conceptos de aportaciones sean inferiores a sus respectivos egresos del mismo mes y solamente podrán utilizarse hasta el monto de la diferencia que exista entre estos ingresos y los egresos;
+
+VI. La inversión de las reservas del Organismo se realizarán conforme a lo dispuesto por esta ley.
+
+Los órganos de control interno vigilarán las inversiones del Organismo, haciendo del conocimiento del Consejo las acciones correctivas y preventivas que, en su caso correspondan.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+###### ARTÍCULO 101.
+
+Las inversiones financieras deben realizarse en instrumentos de mercado de deuda pública, por medio de un portafolio de inversión practicada por entidades financieras autorizadas por la Comisión Nacional Bancaria y de Valores, conforme a las disposiciones legales aplicables.
 
 T R A N S I T O R I O S
 
@@ -1272,3 +1520,13 @@ EL SECRETARIO DE GOBIERNO
 VÍCTOR MANUEL ZAMORA RODRÍGUEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 311.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADO "DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO”."]
+
+PRIMERO.- El presente decreto entra en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los trabajadores que estén disfrutando de una pensión a la fecha de entrada en vigor de la presente Ley, o tengan derecho adquirido a disfrutar de alguna de ellas, la mantendrán en los términos y condiciones en los que las hayan adquirido.
