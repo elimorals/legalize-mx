@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2019-05-10"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -16581,9 +16581,25 @@ III. Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandan
 
 IV. En el supuesto del artículo 2998.
 
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
-El mandato a que se refiere el presente artículo tendrá una vigencia de tres años, a partir de que se dio la declaración unilateral del poderdante en favor del apoderado, salvo que antes de que se cumpla ese tiempo, el mandante lo revoque. Cualquier disposición que establezca un plazo superior se tendrá por no puesta.
+El mandato a que se refiere el presente artículo otorgado por persona física, tendrá una vigencia de tres años, contados a partir de la declaración unilateral del mandante en favor del mandatario. Cualquier disposición que establezca un plazo superior se tendrá por no puesta, salvo lo previsto en el antepenúltimo párrafo de este artículo.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+El mandato otorgado por persona moral, tendrá la vigencia que el mandante establezca en el instrumento que lo contenga. En caso de no establecer vigencia alguna se entenderá otorgado por tres años.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+El mandato otorgado por persona física o moral, según corresponda, conservará su vigencia aun y cuando hayan transcurrido más de tres años, en los supuestos de excepción previstos en la fracción IV del artículo 3054 y en los casos señalados en la fracción I del artículo 3057 de este Código, así como en la representación de la tutela auto designada instituida en la Ley para la Familia de Coahuila de Zaragoza y la establecida en el artículo 8 de la Ley Protectora de la Dignidad del Enfermo Terminal, para el Estado de Coahuila.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+Cuando un asunto o negocio en el que intervenga un mandatario, se encuentre en trámite ante autoridad administrativa o judicial, el mandato permanecerá vigente hasta que concluya en todas sus instancias el asunto o negocio, a menos que el mandante lo revoque antes de su terminación.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+Durante el tiempo de la vigencia del mandato, las partes podrán, en los términos de este Código, revocar o renunciar al mismo.
 
 > <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
@@ -21220,3 +21236,11 @@ P.O. 10 DE MAYO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 312.- SE REFORMA EL SEGUNDO PÁRRAFO Y SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO, QUINTO Y SEXTO DEL ARTÍCULO 3009, DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los mandatos convenidos con anterioridad a la vigencia de este decreto, que fueron otorgados por personas físicas o morales, salvo los supuestos exceptuados en la disposición objeto de la presente reforma, tendrán la vigencia de tres años contados a partir de su entrada en vigor.
