@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2018-12-11"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 8 de marzo de 2016.
 
@@ -319,9 +319,13 @@ IX. Violencia Feminicida: Es la forma extrema de violencia de género contra las
 
 X. Violencia Mediática o Publicitaria: Aquella difusión o publicación de imágenes estereotipadas y mensajes a través de anuncios publicitarios en exhibición al público en general, que de manera directa o indirectamente promueven la explotación de la mujer en imágenes sexistas que injurien, difamen, discriminen, deshonren, humillen y atenten contra la dignidad humana, legitimando la desigualdad de trato o construya parámetros sociales generadores de violencia contra la mujer.
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2019)</small>
 
-XI. Cualesquiera otras formas análogas que lesionen o sean susceptible (sic) de dañar la dignidad, integridad o libertad de las mujeres
+XI. Violencia Digital: Cualquier acto que se presenta a través de las tecnologías de la información y comunicación, mediante la divulgación sin consentimiento, de textos, videos u otras impresiones gráficas, de contenido íntimo, erótico o imágenes sugerentemente sexuales, verdaderas o alteradas, ya sean propias o de otra persona, que cause daño o perjuicio y que atenta contra la integridad y dignidad de las mujeres.
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+
+XII. Cualesquiera otras formas análogas que lesionen o sean susceptible (sic) de dañar la dignidad, integridad o libertad de las mujeres.
 
 Las políticas de prevención, atención, investigación, sanción y reparación integral del daño derivado de los tipos de violencia del presente Capítulo, atenderán y garantizarán en todo momento el cumplimiento de los principios del interés superior de la niñez y la autonomía progresiva en el ejercicio de los derechos de las niñas.
 
@@ -363,9 +367,11 @@ IX. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dig
 
 El Gobierno del Estado, a través de la Secretaría de Salud, deberá desarrollar programas que fomenten la atención integral de la mujer durante el embarazo, el parto, el puerperio o en emergencias obstétricas, e instrumentará políticas públicas transversales para prevenir, erradicar y sancionar la violencia obstétrica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### Artículo 9.
 
-Las modalidades de violencia son:
+Las modalidades de la violencia contra las mujeres son:
 
 I. Violencia en el ámbito familiar: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a las mujeres en cualquier etapa de su vida, mediante la realización de uno o varios tipos de violencia, dentro o fuera del domicilio familiar, cuando la persona agresora tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación afectiva o de hecho;
 
@@ -392,6 +398,10 @@ Constituye violencia laboral, la negativa ilegal a contratar a la víctima o a r
 Constituyen violencia escolar todas aquellas conductas, acciones u omisiones, infligidas por el personal docente o administrativo o cualquier integrante de la comunidad educativa que dañan la dignidad, salud, integridad, libertad y seguridad de las víctimas; y
 
 V. Violencia en la comunidad: Son los actos individuales o colectivos que transgreden o menoscaban los derechos fundamentales de las mujeres, sobre todo aquellas de origen indígena; propiciando su denigración, discriminación, marginación o exclusión en cualquier ámbito.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+Queda comprendido en cualquiera de las anteriores modalidades, la violencia digital que se presente a través de las Tecnologías de la Información y la Comunicación (TIC), plataformas de internet, redes sociales o correo electrónico, que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual; así como daño moral a ellas y/o (sic) su familia. Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, erótico o sexual, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas.
 
 ### CAPÍTULO III. DE LAS ACCIONES PARA LA PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
@@ -2066,3 +2076,11 @@ P.O. 11 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 95.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 50 Y LA FRACCIÓN II DEL ARTÍCULO 74 DE LA LEY DE ACCESO PARA LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 310.- SE ADICIONA LA FRACCIÓN XI Y SE RECORRE LA SIGUIENTE FRACCIÓN DEL ARTÍCULO 8 Y SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 9 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
