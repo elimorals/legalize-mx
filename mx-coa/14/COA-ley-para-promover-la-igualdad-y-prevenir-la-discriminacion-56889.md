@@ -4,7 +4,7 @@ identifier: "COA-ley-para-promover-la-igualdad-y-prevenir-la-discriminacion-5688
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-24"
-last_updated: "2019-05-28"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de agosto de 2007.
 
@@ -125,7 +125,9 @@ XXI. Trato diferenciado: La forma de considerar a las personas con discapacidad 
 
 ARTÍCULO 3 BIS. Se consideran tipos de discriminación las siguientes:
 
-a.- Discriminación racial o étnica: tiene lugar cuando una persona, o grupo humano, es tratada como inferior por su pertenencia a una determinada raza o etnia.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
+a.- Discriminación racial o étnica: tiene lugar cuando una persona, o grupo humano, es tratada como inferior o no se le reconocen sus derechos por razón a su pertenencia de origen a una determinada raza o etnia, o por las costumbres y tradiciones que guarde.
 
 b.- Discriminación por Provincia o localidad de origen: se da cuando existe un trato a alguien de manera menos favorable porque él o ella provienen de un lugar en particular, por su grupo étnico o acento o porque se cree que tienen antecedentes étnicos particulares. La discriminación por origen nacional también significa tratar a alguien de manera menos favorable en el trabajo debido a su matrimonio u otra relación con alguien de una nacionalidad en particular. Es el tipo de discriminación que sufren aquellos que no son originarios del país o lugar en el que residen, por aquellos que nacieron en el país o tienen mayor antigüedad en él o en un lugar específico
 
@@ -521,7 +523,9 @@ I. Incentivar la educación mixta, fomentando la permanencia en el sistema educa
 
 II. Establecer contenidos, métodos o instrumentos pedagógicos que difundan la condición de igualdad entre géneros;
 
-III. Establecer programas educativos bilingües, que promuevan el ingreso de personas indígenas y el intercambio cultural;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+
+III. Establecer programas educativos de enseñanza especial y programas de enseñanza bilingüe que promuevan el ingreso de personas indígenas al sector educativo y el intercambio pluricultural;
 
 IV. Instalar los mecanismos que sean necesarios para que las personas miembros de los sectores vulnerables puedan acceder plenamente a todos los niveles de educación incorporados a la Secretaría, promoviendo estas acciones en las universidades e instituciones de educación superior;
 
@@ -565,11 +569,11 @@ IV. Promover la instalación de centros de desarrollo infantil y guarderías en 
 
 V. Las demás que señalen esta ley y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 17.
 
-Para el cumplimiento del objeto de esta ley, la Secretaría de Medio Ambiente y Desarrollo Urbano llevara a cabo las siguientes acciones:
+Para el cumplimiento del objeto de esta ley, la Secretaría de Medio Ambiente llevará a cabo las siguientes acciones:
 
 I. Promover en colaboración con otras entidades públicas y con las organizaciones representativas de las personas con discapacidad y sus familias, la elaboración, desarrollo y ejecución de planes y programas en materia de accesibilidad y no discriminación;
 
@@ -581,7 +585,11 @@ IV. Garantizar, en coordinación con los municipios, la eliminación de obstácu
 
 V. Promover la participación de los sectores vulnerables de la población en las acciones y programas de educación y cultura ambiental así como de protección y preservación al medio ambiente que lleve a cabo, y
 
-VI. Las demás que señalen esta ley y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JULIO DE 2019)</small>
+
+VI. Promover la participación de los grupos étnicos e indígenas para la inclusión de programas de transformación de recursos naturales para autosustentabilidad de sus comunidades.
+
+VII. Las demás que señale esta ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -647,7 +655,9 @@ I. Destinar en forma equitativa a hombres y mujeres, los créditos que otorga el
 
 II. Gestionar ante las instancias municipales, estatales, federales y empresas privadas correspondientes, el otorgamiento de descuentos a personas miembros de sectores vulnerables, en el pago por suministro de energía eléctrica, teléfono, gas y agua, así como en los centros de recreación y cultura;
 
-III. Crear programas de capacitación para el empleo y fomento a la integración laboral;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE JULIO DE 2019)</small>
+
+III. Crear programas de inclusión cultural para los grupos étnicos en el Estado con el fin de fomentar una perspectiva de la realidad social.
 
 IV. Diseñar e instrumentar programas de apoyo a personas u organizaciones de sectores vulnerables;
 
@@ -1358,3 +1368,11 @@ P.O. 28 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 260.- SE ADICIONAN TRES PÁRRAFOS AL ARTÍCULO 57 DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 316.- SE REFORMA EL INCISO A) DEL ARTÍCULO 3 BIS; SE MODIFICA EL CONTENIDO DE LA FRACCIÓN III DEL ARTÍCULO 15, SE MODIFICA TAMBIÉN EL CONTENIDO DE LA FRACCIÓN VI, RECORRIENDO EL ACTUAL A LA FRACCIÓN VII, QUE SE CREA, Y SE ADICIONA UN NUEVO CONTENIDO A LA FRACCIÓN III DEL ARTÍCULO 21, TODOS DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
