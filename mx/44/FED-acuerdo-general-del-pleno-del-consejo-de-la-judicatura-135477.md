@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-135477"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-04-22"
-last_updated: "2019-04-22"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2019-04-09"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA DESIGNACION DE LOS CONSEJEROS QUE INTEGRARAN LA COMISION QUE DEBE PROVEER LOS TRAMITES Y RESOLVER LOS ASUNTOS DE NOTORIA URGENCIA QUE SE PRESENTEN DURANTE EL RECESO CORRESPONDIENTE AL PRIMER PERIODO DE SESIONES DE 2019]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE JULIO DE 2019 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DESIGNACIÓN DE LOS CONSEJEROS QUE INTEGRARÁN LA COMISIÓN QUE DEBE PROVEER LOS TRÁMITES Y RESOLVER LOS ASUNTOS DE NOTORIA URGENCIA QUE SE PRESENTEN DURANTE EL RECESO CORRESPONDIENTE AL PRIMER PERÍODO DE SESIONES DE 2019
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 12 DE JULIO DE 2019.]</small>
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 22 de abril de 2019.
 
@@ -53,7 +53,9 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
-PRIMERO.- El Pleno del Consejo de la Judicatura Federal designa a la Consejera Martha María del Carmen Hernández Álvarez y al Consejero Alejandro Sergio González Bernabé, para integrar la Comisión que deberá proveer los trámites y resolver los asuntos de notoria urgencia que se presenten durante el receso correspondiente al primer período de sesiones de 2019, quienes nombrarán a su presidente.
+> <small>(F. DE E., D.O.F. 12 DE JULIO DE 2019)</small>
+
+PRIMERO.- El Pleno del Consejo de la Judicatura Federal designa a la Consejera Martha María del Carmen Hernández Álvarez del 16 al 24 de julio de 2019, al Consejero Jorge Antonio Cruz Ramos del 25 al 31 de julio de 2019 y al Consejero Alejandro Sergio González Bernabé del 16 al 31 de julio de 2019, para integrar la Comisión que deberá proveer los trámites y resolver los asuntos de notoria urgencia que se presenten durante el receso correspondiente al primer período de sesiones de 2019, quienes nombrarán a su presidente.
 
 Con apoyo en lo dispuesto por el artículo 56 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo, la Comisión de Receso estará facultada para conocer de los asuntos previstos en las fracciones XXII, XXIII, XXXIII, XXXIX y XL del artículo 81 de la Ley Orgánica del Poder Judicial de la Federación y el previsto en la fracción VIII del artículo 85 del citado ordenamiento, así como los urgentes.
 
@@ -63,7 +65,9 @@ SEGUNDO.- Durante el período a que se refiere el considerando SEXTO de este acu
 
 Se faculta a la propia Comisión para determinar a las y los secretarios y empleados necesarios para el óptimo ejercicio de sus funciones.
 
-TERCERO.- Al concluir el receso e iniciar el segundo período ordinario de sesiones de 2019, la Consejera y el Consejero designados para integrar la Comisión a que se refiere el punto PRIMERO de este acuerdo, rendirán informe pormenorizado respecto de las medidas que hayan adoptado, así como de aquellas cuestiones cuya solución reserven para el conocimiento del Pleno del Consejo de la Judicatura Federal, a fin de que este Órgano Colegiado determine lo procedente.
+> <small>(F. DE E., D.O.F. 12 DE JULIO DE 2019)</small>
+
+TERCERO.- Al concluir el receso e iniciar el segundo período ordinario de sesiones de 2019, la Consejera y los Consejeros designados para integrar la Comisión a que se refiere el punto PRIMERO de este acuerdo, rendirán informe pormenorizado respecto de las medidas que hayan adoptado, así como de aquellas cuestiones cuya solución reserven para el conocimiento del Pleno del Consejo de la Judicatura Federal, a fin de que este Órgano Colegiado determine lo procedente.
 
 ## TRANSITORIOS
 
