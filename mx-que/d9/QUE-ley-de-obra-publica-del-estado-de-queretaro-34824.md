@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-obra-publica-del-estado-de-queretaro-34824"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-12"
-last_updated: "2019-06-30"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 12 de noviembre de 2003.
 
@@ -127,7 +127,9 @@ I.- La construcción, instalación, conservación, mantenimiento, reparación y 
 
 II.- Los servicios relacionados con la misma, incluidos los trabajos que tengan por objeto: concebir, diseñar, proyectar y calcular los elementos que integren un proyecto de obra pública, así como los relativos a la investigación, asesorías y consultorías, la dirección y supervisión de la ejecución de las obras, los estudios que tengan por objeto rehabilitar, corregir o incrementar las eficiencias de las instalaciones y los trabajos de exploración, conservación, rescate y desarrollo de los recursos naturales que se encuentren adheridos al suelo o inmersos en el subsuelo.
 
-III.- Los proyectos integrales que comprendan desde el diseño de la obra hasta su cabal terminación.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+
+III.- Los proyectos integrales que comprendan desde la ejecución de los estudios previos necesarios hasta su cabal terminación;
 
 IV.- Los trabajos de infraestructura urbana o agropecuaria.
 
@@ -303,7 +305,9 @@ La clasificación por especialidad requerida, a que se refiere el primer párraf
 
 Las personas interesadas en registrarse en el Padrón de Contratistas de Obra Pública en el Estado o de los municipios, deberán solicitarlo por escrito ante la dependencia u órgano interno de control que corresponda, cumpliendo con los requisitos que para tal efecto establezca la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo.
 
-La vigencia del registro en el Padrón será anual, del 1 de julio al 30 de junio del siguiente año.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
+La vigencia del registro en el Padrón será anual, del 1 de febrero al 31 de enero del siguiente año.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -391,9 +395,13 @@ En el caso de los concursos de obra pública bajo la modalidad de invitación re
 
 1. Para poder participar como candidato en el Comité de Selección para los concursos bajo esta modalidad, los interesados deberán estar inscritos en el Padrón de Contratistas del Gobierno del Estado de Querétaro, a cargo de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o en los padrones de contratistas de cada municipio y se trate exclusivamente de obras a ejecutarse con recursos propios del municipio, en los cuales no intervengan recursos estatales ni federales. Los registros deberán ser vigentes. Si no se contara con padrón de contratistas en el Municipio de que se trate, se atenderá al de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo.
 
-2. Cuando exista la necesidad de obras que requieran ser concursadas por invitación restringida a cuando menos tres contratistas, la dependencia, entidad o municipio interesado, deberá dirigirse por escrito a la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o a la dependencia responsable en cada municipio respectivo, para que convoque a la reunión del Comité de Selección, indicándole las características de aquellas, el origen de los recursos por invertir, la aprobación de los mismos, el presupuesto y el calendario de ejecución. Una vez cubierto lo anterior, la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o la dependencia responsable en cada municipio respectivo procederá a la citación del Comité a que se refiere esta fracción, señalando el lugar, la fecha y la hora para su desahogo a fin de proceder a la selección.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
-3. El Comité de Selección de Contratistas, con base en los inscritos en el· padrón respectivo, seleccionará a aquellos cuya capacidad técnica y financiera se adecue a las características de la obra pública por ejecutar, tomando en consideración, además, la experiencia y la especialidad requeridas, procurando diversificar dicha selección, para evitar el acaparamiento de las obras a favor de uno o más contratistas.
+2. Cuando exista la necesidad de obras que requieran ser concursadas por invitación restringida a cuando menos tres contratistas, la dependencia, entidad o municipio interesado, deberá dirigirse por escrito a la autoridad competente, según corresponda para que convoque a la reunión del Comité de Selección, indicándole las características de aquellas, el origen de los recursos por invertir, la aprobación de los mismos, el presupuesto y el calendario de ejecución. Una vez cubierto lo anterior, la autoridad competente según corresponda, procederá dentro de los siguientes 5 días hábiles a la citación del Comité a que se refiere esta fracción, señalando el lugar, la fecha y la hora para su desahogo, a fin de proceder a la selección.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
+3. El Comité de Selección de Contratistas, con base en los inscritos en el padrón respectivo, seleccionará a aquellos que cuenten con al menos el 30% de capital contable del monto aprobado de la obra, y cuya capacidad técnica y financiera se adecue a las características de la obra pública por ejecutar, tomando en consideración, además la experiencia y la especialidad requeridas, debiendo diversificar dicha selección, para evitar el acaparamiento de las obras a favor de uno o más contratistas. La Autoridad competente, según corresponda, emitirá los lineamientos para el control de los contratistas invitados, llevando un control de estos.
 
 4. Por cada una de las obras que fuesen a ejecutarse a cargo de las dependencias, entidades o municipios y que deban ser concursadas por invitación restringida, el Comité de Selección elegirá a tres o más contratistas, dependiendo el monto de que se trate.
 
@@ -479,9 +487,13 @@ III.- Licitación pública.
 
 Para la ejecución de obra pública, así como de servicios relacionados con ésta a realizarse por contrato con cargo a fondos estatales o municipales, se utilizarán los siguientes criterios:
 
-I.- Cuando el monto aprobado para la obra o servicios sea menor o igual a 0.002 por ciento del Presupuesto de Egresos del Estado para el ejercicio fiscal vigente, el contrato respectivo se celebrará mediante adjudicación directa,
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
 
-II.- Cuando el monto aprobado para la obra o servicios sea superior al 0.002 por ciento y menor o igual al 0.08 por ciento del Presupuesto de Egresos del Estado para el ejercicio fiscal vigente, el contrato se celebrará mediante invitación restringida a cuando menos tres personas físicas o morales; y
+I.- Cuando el monto aprobado para la obra o servicios sea menor o igual a 0.004 por ciento del Presupuesto de Egresos del Estado para el ejercicio fiscal vigente, el contrato respectivo se celebrará mediante adjudicación directa;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+
+II.- Cuando el monto aprobado para la obra o servicios sea superior al 0.004 por ciento y menor o igual al 0.08 por ciento del Presupuesto de Egresos del Estado para el ejercicio fiscal vigente, el contrato se celebrará mediante invitación restringida a cuando menos tres personas físicas o morales; y
 
 III.- Cuando el monto aprobado de la obra sea superior al 0.08 por ciento del Presupuesto de Egresos del Estado para el ejercicio fiscal vigente, el contrato se celebrará a través de licitación pública.
 
@@ -815,9 +827,11 @@ VI.- El fallo deberá contener el orden de prelación en el que la convocante de
 
 VII.- Contra el fallo emitido por la convocante, podrán interponerse el recurso señalado en el Capítulo VIII de esta ley.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 49.
 
-La convocante no adjudicara la obra cuando a su juicio las posturas presentadas no reúnan los requisitos de las bases de licitación o sus precios no fueren aceptables o remunerativos, obligándose a expedir una segunda convocatoria, en un término no menor a 30 días.
+La convocante no adjudicara la obra cuando a su juicio las posturas presentadas no reúnan los requisitos de las bases de licitación o sus precios no fueren aceptables o remunerativos, obligándose a expedir una segunda convocatoria, en un plazo no mayor a 30 días naturales.
 
 ###### ARTÍCULO 50.
 
@@ -1754,3 +1768,19 @@ Atento a lo establecido en los Artículos Transitorios Segundo y Cuarto, primer 
 ###### ARTÍCULO QUINTO.
 
 Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría, la dependencia, entidad encargada de las obras públicas, según corresponda, tendrán un plazo de 120 días naturales a partir de la publicación de la presente para emitir los lineamientos previstos por el numeral 3 del artículo 26 de esta Ley.
