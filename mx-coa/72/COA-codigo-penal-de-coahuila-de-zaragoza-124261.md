@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2019-07-05"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
 
 Código publicado en la Tercera Sección al Número 86 del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -1841,7 +1841,9 @@ III. (Dispositivo electrónico de localización como medida de seguridad).
 
 Siempre que se estime pertinente podrá acordarse el empleo de dispositivo electrónico de localización a distancia, por parte de la persona sentenciada, a efecto de que disfrute de la condena condicional, así como las condiciones en que aquél deba llevarse.
 
-El Estado sufragará los costos del sistema de monitoreo electrónico de localización a distancia y de los dispositivos correspondientes, pero el mantenimiento del dispositivo electrónico deberá pagarlo la persona sentenciada, salvo que pruebe su imposibilidad para tal efecto.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
+El Estado sufragará los costos del sistema de monitoreo electrónico de localización a distancia y de los dispositivos correspondientes, pero el mantenimiento del dispositivo electrónico deberá pagarlo la persona sentenciada, mientras haya datos o se pruebe su posibilidad para ese efecto.
 
 IV. (Legitimación para pedir la concesión de condena condicional y otros aspectos relacionados con ella)
 
@@ -3665,7 +3667,9 @@ Artículo 234 (Reparación del daño ampliada)
 
 Cuando a consecuencia de la comisión de alguno de los delitos previstos en este Título, resulta descendencia, la reparación del daño comprenderá, además, el pago de alimentos para el hijo o la hija y para la madre, en los términos de la Ley para la Familia de Coahuila de Zaragoza.
 
-### Capítulo Sexto. Estupro, acoso sexual y hostigamiento sexual
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JULIO DE 2019)</small>
+
+### Capítulo Sexto. Estupro, acoso sexual, hostigamiento sexual y violación a la intimidad sexual
 
 Artículo 235 (Estupro)
 
@@ -3677,7 +3681,9 @@ Si como consecuencia del estupro resulta descendencia, la reparación del daño 
 
 Sólo se procederá contra el estuprador por querella del ofendido o de sus representantes legítimos y si no los tuviera, por la dependencia que se encargue legalmente de los asuntos del menor o de la familia.
 
-Artículo 236 (Acoso sexual y hostigamiento sexual)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2019)</small>
+
+Artículo 236 (Acoso sexual, hostigamiento sexual y privacidad sexual)
 
 I. (Acoso sexual)
 
@@ -3706,6 +3712,44 @@ Las sanciones se aumentarán en un tercio más si el sujeto activo dado su posic
 Las mismas sanciones se aplicarán si el sujeto activo fuere servidor público y utilizaré los medios propios de su cargo jerárquico. Adicionalmente será destituido e inhabilitado para ocupar empleo, cargo o comisión en el servicio público por un período de tres a ocho años.
 
 Estos delitos se perseguirán por querella.
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2019)</small>
+
+III. (Violación a la intimidad sexual)
+
+Se impondrá de tres a seis años de prisión y multa de mil a dos mil unidades de medida y actualización, a quién con el fin de causar daño o la obtención de un beneficio sexual, por cualquier medio, divulgue, comparta, distribuya, compile, comercialice, solicite y/o publique o amenace con publicar imágenes, audios o videos de una persona desnuda parcial o totalmente, de contenido íntimo, erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima.
+
+Se aplicarán las mismas sanciones a quienes obtengan de dispositivos móviles o dispositivos de almacenamiento físico o virtual, cualquier imagen, vídeo, textos o audios sin la autorización del titular.
+
+Estas penas se aumentarán hasta en una mitad del máximo de la pena cuando:
+
+a) El delito sea cometido por el cónyuge o por persona con la que esté, o haya estado unida a la víctima por alguna relación de afectividad, aún sin convivencia.
+
+b) Cuando el sujeto activo dada su posición de ejercicio de poder pueda causar un daño personal, laboral, educativo, profesional o patrimonial. Si se tratare de un servidor público adicionalmente será destituido e inhabilitado para ocupar empleo, cargo o comisión públicos.
+
+c) Se cometa en contra de una persona que por su situación de discapacidad no comprenda el significado del hecho.
+
+d) Se cometa contra una persona en situación de vulnerabilidad social, por su condición cultural, étnica y/o su pertenencia a algún pueblo originario.
+
+e) Cuando se cometa con menores de edad.
+
+f) A quien con violencia obligue a la víctima a fabricar, hacer el contenido íntimo, sexual o erótico publicado sin consentimiento.
+
+g) Cuando se amenace con la publicación o bloqueo de la difusión del contenido a cambio de un nuevo intercambio sexual o económico.
+
+h) Cuando un medio de comunicación impreso o digital compile o reproduzca estos contenidos y/o los haga públicos.
+
+Este delito se perseguirá por querella con excepción de lo establecido en los supuestos contemplados en los incisos a) al h). De este artículo, en estos casos el delito se perseguirá de oficio.
+
+Para los efectos de las disposiciones anteriores, la autoridad competente ordenará a la empresa de prestación de servicios digitales o informáticos, servidor de internet, red social, administrador o titular de la plataforma digital, medio de comunicación o cualquier otro donde sea publicado o compilado el contenido íntimo no autorizado, el retiro inmediato de la publicación que se realizó sin consentimiento de la víctima.
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2019)</small>
+
+IV. (Difusión de imágenes falsificadas de personas)
+
+Se impondrá de tres a seis años de prisión y multa de setecientos (sic) a mil doscientas unidades de medida y actualización, a quien altere, edite o modifique imágenes o videos de una persona o falsifique su perfil o datos de identidad con ánimo de mostrarla en medios informáticos en situaciones íntimas o sexuales para causarle descrédito público, vergüenza, o afectación a su honor y reputación.
+
+Estas penas se aumentarán hasta en una mitad del máximo de la pena cuando el delito se cometa contra una persona menor de edad o que carezca de la capacidad de comprender el alcance del hecho.
 
 ## Título Sexto. Delitos contra el desarrollo de la personalidad de menores de edad
 
@@ -7692,3 +7736,19 @@ P.O. 5 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 305.- SE REFORMAN EL ARTÍCULO 341, EL ARTÍCULO 343, Y SE ADICIONA EL ARTÍCULO 343 BIS, DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 308.- SE REFORMA EL PÁRRAFO TERCERO, DE LA FRACCIÓN III, DEL ARTÍCULO 101, DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 309.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO SEXTO DEL TÍTULO QUINTO DEL LIBRO SEGUNDO, DEL APARTADO PRIMERO Y LA DENOMINACIÓN DEL ARTÍCULO 236; SE ADICIONAN LAS FRACCIONES III Y IV AL ARTÍCULO 236 AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE COAHUILA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
