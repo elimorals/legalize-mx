@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-etica-del-instituto-nacional-electoral-134549"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-03-22"
-last_updated: "2019-03-22"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134549&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-02-26"
 
 CÓDIGO DE ÉTICA DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2019.
 
 Código publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 22 de marzo de 2019.
 
@@ -615,9 +615,11 @@ Segundo.- Conforme a lo dispuesto por el artículo 82, inciso xx) del Reglamento
 
 Tercero.- La publicación del presente Código de Ética del INE, deja sin efectos el Código de Ética del Instituto Federal Electoral, aprobado en sesión extraordinaria del Consejo General celebrada el 12 de agosto de 2010, mediante acuerdo CG277/2010.
 
+> <small>(REFORMADO, D.O.F. 12 DE JULIO DE 2019)</small>
+
 Cuarto.- Para la aplicación del presente Código de Ética, en cumplimiento al artículo Décimo Primero de los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas; el Instituto Nacional Electoral emitirá un Código de Conducta, el cual deberá contar con la aprobación del Órgano Interno de Control, y en el que se especificará, de manera puntual y ante situaciones concretas, la forma en que las personas servidoras públicas aplicarán los principios, valores y reglas de integridad.
 
-El INE, deberá emitir el Código de Conducta a que se hace referencia en el párrafo anterior, en un plazo de ciento veinte días naturales a partir de la emisión del presente Código de Ética.
+El Instituto Nacional Electoral, deberá emitir el Código de Conducta a que se hace referencia en el párrafo anterior, a más tardar el 31 de agosto de 2019.
 
 Quinto.- Publíquese en la Gaceta del Instituto y medios electrónicos institucionales, para su difusión.
 
@@ -630,3 +632,15 @@ EL TITULAR DE LA UNIDAD DE ASUNTOS JURÍDICOS DEL ÓRGANO INTERNO DE CONTROL INS
 LIC. ROBERTO JAVIER ORTEGA PINEDA,
 
 Firma en suplencia por ausencia del Titular del Órgano Interno de Control, de conformidad con el artículo 82, apartado 4, del Reglamento Interior del Instituto Nacional Electoral, cuya última reforma se publicó en el Diario Oficial de la Federación el 8 de febrero de 2019; el Acuerdo INE/CG215/2017 del 28 de junio de 2017, expedido por el Consejo General del Instituto Nacional Electoral, publicado en el Diario Oficial de la Federación el 16 de agosto de 2017, en relación con el artículo 29, primer párrafo, del Acuerdo 1/2017, del Titular del Órgano Interno de Control del Instituto Nacional Electoral, por el que se expide el “Estatuto Orgánico que Regula la Autonomía Técnica y de Gestión Constitucional del Órgano Interno de Control del Instituto Nacional Electoral”, emitido el 21 de julio del 2017 y reformado por Acuerdo del 14 de noviembre de 2018 y cuyos avisos de expedición se publicaron en el Diario Oficial de la Federación el 24 de octubre de 2017 y 7 de diciembre de 2018, respectivamente.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE JULIO DE 2019.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL “AVISO A LOS SERVIDORES PÚBLICOS DEL INSTITUTO NACIONAL ELECTORAL Y PÚBLICO EN GENERAL, RESPECTO DE LA EXPEDICIÓN DEL ACUERDO 2/2019 DEL TITULAR DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE REFORMA EL TRANSITORIO CUARTO DEL CÓDIGO DE ÉTICA DEL INSTITUTO NACIONAL ELECTORAL EMITIDO EL 8 DE FEBRERO DE 2019”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Con fundamento en lo dispuesto por los artículos 6°, párrafos segundo y tercero, 41, párrafo segundo, fracción V, apartado A, párrafo segundo, 108, 109, 113, 114 y 134 de la Constitución Política de los Estados Unidos Mexicanos; 487, apartado 1 y 490 de la Ley General de Instituciones y Procedimientos Electorales; 82 del Reglamento Interior del Instituto Nacional Electoral, 16 de la Ley General de Responsabilidades Administrativas y décimo tercero de los “Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas” y, demás relativos aplicables de la Ley General del Sistema Nacional Anticorrupción, se informa:
+
+Que el 28 de mayo de 2019, se expidió el “ACUERDO 2/2019 DEL TITULAR DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE REFORMA EL TRANSITORIO CUARTO DEL CÓDIGO DE ÉTICA DEL INSTITUTO NACIONAL ELECTORAL EMITIDO EL 8 DE FEBRERO DE 2019”, por lo que su publicidad se hace a través de este medio oficial, quedando la versión íntegra del acuerdo a disposición de los servidores públicos del Instituto Nacional Electoral y del público en general en el portal de internet del Instituto Nacional Electoral, localizable en la página electrónica (https://www.ine.mx/,) específicamente en la ruta siguiente: “Sobre el INE”, “Norma INE”, “Normatividad del Instituto”, “Vigentes”, “Códigos”, “Código de Ética”, “Anexos”, “Descargar ZIP” o en la dirección electrónica siguiente: https://sidj.ine.mx/restWSsidj-nc/app/doc/2498/01-2019_Anexo_DJ, asimismo, se encuentra localizable en la siguiente liga electrónica www.dof.gob.mx/2019/INE/AcuerdoOIC_2-2019_Reforma_Codigo_de_Etica_280519.pdf
+
+El presente aviso, deberá publicarse en el Diario Oficial de la Federación, como en el portal de internet del Instituto Nacional Electoral, ello de conformidad con lo dispuesto en el punto cuarto del acuerdo que se informa, en el que se ordena hacer pública su expedición a través del Diario Oficial de la Federación, así como con fundamento en los párrafos segundo y tercero del artículo 6° de la Constitución Política de los Estados Unidos Mexicanos y el artículo 86 del Reglamento Interior del Instituto Nacional Electoral.
