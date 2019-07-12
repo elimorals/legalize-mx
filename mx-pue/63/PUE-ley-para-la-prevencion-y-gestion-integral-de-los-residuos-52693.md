@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-52693
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-11"
-last_updated: "2017-12-29"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 11 de diciembre de 2006.
 
@@ -39,7 +39,7 @@ EL HONORABLE QUINCUAGÉSIMO SEXTO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOB
 
 CONSIDERANDO
 
-...
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57 fracción I, 63 fracción II, y 64 de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y XV, 69 fracción II, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado; 20, 21 y 24 fracciones I y XV del Reglamento Interior del Honorable Congreso del Estado, se expide la siguiente:
 
@@ -225,9 +225,9 @@ XXXI.- Reutilización: El empleo de un material o residuo previamente usado, sin
 
 XXXII.- Riesgo: Probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición a un material o residuo, ocasionen efectos adversos en la salud pública, en los demás organismos vivos, en el agua, aire, suelo, en los ecosistemas, o en los bienes y propiedades pertenecientes a los particulares;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
 
-XXXIII.- Secretaría: Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial;
+XXXIII.- Secretaría: Secretaría de Medio Ambiente y Ordenamiento Territorial;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
@@ -893,9 +893,45 @@ La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencia
 
 Los Ayuntamientos regularán los usos del suelo, de conformidad con los programas de desarrollo urbano y ordenamiento ecológico, en los cuales se considerarán las áreas en las que se establecerán los sitios de disposición final de los residuos sólidos urbanos y de manejo especial, pudiendo solicitar para este efecto la asesoría de la Secretaría previa celebración del convenio correspondiente.
 
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
-ARTÍCULO 40 BIS.- Promover la reducción de las bolsas que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado del consumidor final y éstas deberán ser elaboradas con materiales preferentemente biodegradables, para su pronta biodegradación en los destinos finales. En el caso de las bolsas que cuenten con un aditivo que sea incompatible con el reciclaje, éstas deberán garantizar su pronta degradación.
+ARTÍCULO 40 BIS.- Se prohíbe a los establecimientos el uso y entrega de bolsas de plástico a título gratuito u oneroso, para transportación, carga o traslado de productos o mercancías.
+
+Los establecimientos deberán incentivar y brindar facilidades a los consumidores para llevar sus propias bolsas reutilizables o bien otros elementos que no sean de un solo uso, estando permitidas las bolsas de tela, canastas, redes, u otras hechas de material reutilizable, para fines de envoltura, transportación, carga o traslado de productos o mercancías.
+
+Quedan excluidas de esta prohibición aquéllas que se empleen por razones de higiene, salud o conservación de alimentos siempre y cuando sean hechas de material cien por ciento reciclable.
+
+Los establecimientos a los que hace referencia el presente artículo comprenden a tiendas departamentales, de autoservicio, de conveniencia, restaurantes, farmacias y comercios en general.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+ARTÍCULO 40 TER.- Queda prohibido el uso, o entrega ya sea gratuita u onerosa de popotes de plástico derivados de combustibles fósiles en establecimientos.
+
+Se excluyen de esta prohibición los popotes que se empleen en hospitales o por cuestiones médicas.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+ARTÍCULO 40 QUÁTER.- Se prohíbe la utilización de cualquier insumo que en su composición incluya aditivos oxo degradables u oxo biodegradables.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+ARTÍCULO 40 QUINQUIES.- Los Ayuntamientos deberán, en el ámbito de su competencia, emitir los reglamentos y programas municipales que coadyuven en la prohibición y eliminación del uso, o entrega ya sea gratuita u onerosa, de bolsas y popotes de plástico derivados de combustibles fósiles.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+ARTÍCULO 40 SEXIES.- La Secretaría debe emprender esfuerzos y elaborar políticas públicas para incorporar a los establecimientos y empresas correspondientes, sobre la base de la generación de un compromiso ambiental a los esfuerzos de eliminación en el uso de plásticos. Para ello, la Secretaría implementará en coordinación con las instancias competentes, sistemas de estímulos e incentivos fiscales y económicos que deberán dirigirse principalmente a los sistemas operadores del servicio de limpia de los municipios y a la iniciativa privada que participa en el presente rubro.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+ARTÍCULO 40 SEPTIES.- La Secretaría elaborará e implementará programas de eliminación de plástico que incluyan apoyos para investigación y desarrollo de materiales reutilizables para las empresas fabricantes.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+ARTÍCULO 40 OCTIES.- La Secretaría emprenderá esfuerzos mediante campañas de difusión, actividades de educación ambiental y capacitación y otras similares; para generar conciencia en la población de los efectos perjudiciales en el ambiente que produce el uso de bolsas plásticas y popotes de plástico derivados de combustibles fósiles; así como promover la investigación y desarrollo de materiales reutilizables y alternativas, convenios de cooperación con establecimientos para incentivar el uso de bolsas reutilizables y de la necesidad de eliminar el uso de plásticos de un sólo uso.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+ARTÍCULO 40 NONIES.- La Secretaría vigilará que los establecimientos pongan a disposición de los clientes, ya sea de manera gratuita u onerosa, bolsas reutilizables.
 
 ## TÍTULO SÉPTIMO. DEL MANEJO INTEGRAL DE RESIDUOS
 
@@ -1580,3 +1616,23 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXXIII DEL ARTÍCULO 2 Y EL 40 BIS, Y SE ADICIONAN EL 40 TER, 40 QUÁTER, 40 QUINQUIES, 40 SEXIES, 40 SEPTIES, 40 OCTIES Y 40 NONIES, TODOS DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Sin perjuicio de lo dispuesto en el artículo Primero transitorio, para la transición progresiva de sustitución de bolsas de plástico para transportación, carga o traslado de productos, o mercancías; así como de popotes plásticos derivados de combustibles fósiles, se permitirá temporalmente el uso, o entrega ya sea gratuita u onerosa de aquellos productos elaborados con materiales biodegradables, quedando lo anterior, sujeto a la gradualidad establecida en el siguiente artículo transitorio.
+
+TERCERO. A partir de la entrada en vigor de la restricción definitiva para el uso, o entrega ya sea gratuita u onerosa de bolsas plásticas para su progresiva eliminación, para fines de transportación, carga o traslado de productos o mercancías, e igualmente de popotes plásticos derivados de combustibles fósiles, se permitirá temporalmente el uso y facilitación ya sea gratuita u onerosa de aquellos productos elaborados con materiales biodegradables, que se ajustará a la siguiente gradualidad:
+
+En supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados, restaurantes y similares, en un plazo de dieciocho meses a la entrada en vigor del presente Decreto.
+
+CUARTO. Los Ayuntamientos, en un plazo no mayor a seis meses deberán generar o adecuar sus reglamentos para la gestión integral de residuos sólidos urbanos establecidos en el artículo 40 Quinquies de la presente Ley.
+
+QUINTO. Los establecimientos comerciales estarán obligados a proporcionar la infraestructura necesaria para el acopio y recuperación de los productos ya existentes.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Poder Ejecutivo Estatal y los Ayuntamientos de los Municipios del Estado, en el ámbito de su competencia, realizarán las acciones necesarias para el cumplimiento del presente Decreto.
