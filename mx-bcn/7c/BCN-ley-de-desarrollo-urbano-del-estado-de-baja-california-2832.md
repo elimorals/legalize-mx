@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2018-07-13"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -210,6 +210,10 @@ Los Planes y Programas de Desarrollo Urbano y las declaratorias sobre provisione
 > <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2015)</small>
 
 Quedan prohibidos los usos de suelo y de construcción para casinos, casas, centros o cualquier establecimiento que opere juego con apuestas, apuestas remotas, salas de sorteo de números, mesas de juego, máquinas electrónicas de juego, videojuegos electrónicos susceptibles de apuestas, máquinas de videojuegos electrónicos o electromecánicas de habilidad y destreza, juegos de azar y demás similares, salvo en aquellos casos en que el uso de suelo y construcción sea para un establecimiento de dicha naturaleza que ya se encuentre operando en la entidad y solo requiera reubicación dentro del municipio donde se ubique, y forme parte de un proyecto integral que propicie la generación de empleos, el desarrollo económico o turístico de una zona; siempre que su otorgamiento no contravenga la planeación urbana estatal y municipal.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+Queda prohibido utilizar como propaganda gubernamental en el equipamiento urbano y en la infraestructura expresiones, emblemas, símbolos, logotipos que impliquen promoción personalizada de cualquier servidor público o partido político, salvo en los casos de señalización conforme a las normas oficiales mexicanas y demás disposiciones que resulten aplicables.
 
 ###### ARTICULO 5.
 
@@ -2928,3 +2932,9 @@ P.O. 13 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 248 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 6, 10, 12, 117, 140, 150, 200, 240 Y SE ADICIONAN LOS ARTÍCULOS 117 BIS, 150 BIS, DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE REFORMAN LOS ARTÍCULO (SIC) 2, 60 Y SE ADICIONAN LOS ARTÍCULOS 66 BIS, 66 TER, 66 QUATER, 66 QUINQUIES, 66 SEXIES, 66 SEPTIES Y 66 OCTIES, DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LOS ARTÍCULOS 2, 28, 74, 80, 129 Y SE ADICIONAN LOS ARTÍCULOS 80 BIS, 80 TER, 80 QUATER Y 80 QUINQUIES, DE LA LEY DE PROTECCIÓN Y GESTIÓN INTEGRAL DE RIESGOS DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 347 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 4 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
