@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2019-07-05"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -2981,6 +2981,10 @@ V. Llevar un libro en que se asiente por orden cronológico, el registro de las 
 
 VI. Cumplir y dar seguimiento a los acuerdos del Pleno, de la Mesa Directiva del Congreso, de la Diputación Permanente, de la Junta de Gobierno, de las Comisiones y de los Comités;
 
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+Para el cumplimiento y seguimiento de los acuerdos que tienen que ver con los municipios del Estado, excepto los relativos al proceso de adiciones o reformas a la Constitución Política local, la Oficialía Mayor podrá convenir con los ayuntamientos que así lo soliciten, y previa firma de convenio, un sistema de comunicación vía correo electrónico, a través del cual se harán las notificaciones e intercambio de mensajes y documentos oficiales que de cada asunto deriven.
+
 VII. Dirigir los servicios administrativos de su competencia, cuidando de que sean desempeñados con eficiencia y eficacia;
 
 VIII. Determinar los sistemas, procedimientos y técnicas adecuadas que permitan simplificar las tareas del Congreso;
@@ -3328,3 +3332,11 @@ P.O. 5 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 286.- SE DEROGA EL ARTÍCULO 18º DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 314.- SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 278 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor 90 días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales que se opongan al presente decreto.
