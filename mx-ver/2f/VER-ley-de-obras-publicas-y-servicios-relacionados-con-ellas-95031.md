@@ -4,7 +4,7 @@ identifier: "VER-ley-de-obras-publicas-y-servicios-relacionados-con-ellas-95031"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-16"
-last_updated: "2019-06-21"
+last_updated: "2019-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 825 DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JULIO DE 2019.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 16 de abril de 2013.
 
@@ -1259,7 +1259,9 @@ En la fecha señalada el ente público, bajo su responsabilidad, recibirá los t
 
 Concluida la obra, no obstante su recepción formal, el contratista quedará obligado a responder de los defectos que resultaren en la misma, de los vicios ocultos, la falta de espacios destinados para la accesibilidad y movilidad de las personas con discapacidad y de cualquier otra responsabilidad en que hubiere incurrido en los términos señalados en el contrato respectivo.
 
-Los trabajos se garantizarán durante un plazo de doce meses para el cumplimiento de las obligaciones a que se refiere el párrafo anterior, por lo que previamente a la recepción de los trabajos, los contratistas, deberán constituir fianza por el equivalente al diez por ciento del monto total ejercido de los trabajos, o en su caso, podrá extenderse por igual plazo la vigencia de la fianza de cumplimiento para garantizar la calidad de la obra con respecto a los vicios ocultos.
+> <small>(REFORMADO, G.O. 12 DE JULIO DE 2019)</small>
+
+Los trabajos se garantizarán durante un plazo de veinticuatro meses, para el cumplimiento de las obligaciones a que se refiere el párrafo anterior, por lo que previamente a la recepción de los trabajos, los contratistas deberán constituir fianza por el equivalente al diez por ciento del monto total ejercido de los trabajos, o en su caso, podrá extenderse por un plazo de doce meses la vigencia de la fianza de cumplimiento para garantizar la calidad de la obra con respecto a los vicios ocultos.
 
 ###### Artículo 69.
 
@@ -1462,6 +1464,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 21 DE JUNIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 261 QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 72 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 263 QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 68 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
