@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-las-personas-con-discapacidad-del-estado-de-puebla-661
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2019-06-21"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -591,7 +591,9 @@ El sistema educativo estatal determinará el porcentaje del acervo que cada inst
 
 Las personas con discapacidad tienen derecho al trabajo y la capacitación, en términos de igualdad de oportunidades y equidad.
 
-La Comisión Estatal Coordinadora procurará la incorporación a los ámbitos laborales correspondientes de aquellas personas con discapacidad en edad de laborar, impedidas para hacerlo eficientemente, así mismo, vigilará y recomendará que las condiciones en que se desempeñe su trabajo no sean discriminatorias.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
+La Comisión Estatal Coordinadora procurará la incorporación de un tres por ciento como mínimo, en los ámbitos laborales correspondientes de aquellas personas con discapacidad en edad de laborar, así mismo, vigilará y recomendará que se garanticen las mismas condiciones y derechos laborales que la Ley Federal del Trabajo contempla sin discriminación alguna.
 
 ###### Artículo 44.
 
@@ -621,9 +623,11 @@ La Secretaría del Trabajo y Competitividad de forma conjunta y coordinada con l
 
 Los procesos de rehabilitación laboral y la capacitación permanente, serán proporcionados considerando la coordinación entre las áreas de salud, de educación y del trabajo.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### Artículo 48.
 
-La Comisión Estatal Coordinadora, propondrá a empresas y patrones, la consideración de un mínimo de empleos para personas que, por el tipo y grado de su discapacidad puedan ser desempeñadas por éstas, incorporándose a la actividad laboral.
+La Comisión Estatal Coordinadora, propondrá a empresas y patrones, la consideración de un tres por ciento como mínimo de empleos para personas que, por el tipo y grado de su discapacidad puedan ser desempeñadas (sic) por éstas, incorporándose a la actividad laboral.
 
 ###### Artículo 49.
 
@@ -633,9 +637,11 @@ La Comisión Estatal Coordinadora, atendiendo a los programas vigentes, apoyará
 
 Todo patrón deberá respetar la igualdad de oportunidades de las personas con discapacidad; las medidas encaminadas a lograr dicha igualdad entre trabajadores con discapacidad y los demás trabajadores, no se considerarán discriminatorias respecto a estos últimos.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### Artículo 51.
 
-Las organizaciones, organismos, consejos, cámaras empresariales y las dependencias y entidades de la administración pública estatal, deberán apoyar activamente la plena inclusión e integración de las personas con discapacidad al mercado laboral, por lo que procurarán la contratación de las mismas.
+Las organizaciones, organismos, consejos, cámaras empresariales y las dependencias y entidades de la administración pública estatal y municipal, deberán apoyar activamente la plena inclusión e integración de las personas con discapacidad al mercado laboral, por lo que procurarán la contratación de las mismas.
 
 ###### Artículo 52.
 
@@ -878,6 +884,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 21 DE JUNIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 4 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 43, EL 48 Y 51 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
