@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-agropecuario-del-estado-de-baja-california-76
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2018-11-30"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -759,9 +759,15 @@ La Secretaría no registrará ninguna marca de herrar de diseño o figura igual 
 
 Tampoco se registrará ninguna señal de sangre de diseño o figura igual o de fácil alteración o de estrecha semejanza a otra y registrada dentro de un Municipio, siendo potestativo para el propietario el uso de otros medios de identificación como tatuajes o fichas metálicas, siempre que estén registradas en la Secretaría.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 55.
 
-Cuando un ganadero desee dar de baja su marca de herrar, tatuaje o señal de sangre, deberá manifestarlo por escrito a la Secretaría y a la Unión Ganadera Regional o Asociación Local, para el tramite correspondiente.
+Cuando un ganadero tramite su título de registro o actualización de marca de herrar, tatuaje o señal de sangre, podrá elegir a un beneficiario o sucesor de este patrimonio, así como del ganado amparado por estos en caso de enfermedad o muerte, el cual deberá quedar por escrito en la certificación y cumplir los requisitos que exige el derecho civil para que tenga efectos contra terceros.
+
+El formato en el que se designe al beneficiario o sucesor, quedará bajo el resguardo de la secretaría, quien deberá integrarlo a un padrón de beneficiarios de estos derechos.
+
+Cuando un ganadero desee dar de baja su marca de herrar, tatuaje o señal de sangre deberá manifestarlo por escrito a la secretaría y a la Unión Ganadera Regional o Asociación Local, para el trámite correspondiente, quedando sin efecto la sucesión mencionada.
 
 ###### ARTÍCULO 56.
 
@@ -1586,3 +1592,19 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 343 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 55 DE LA LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTICULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La Secretaría de Desarrollo Agropecuario, dentro de un plazo que no excederán de 60 días, contados a partir de la entrada en vigor de la presente reforma, realizará las adecuaciones administrativas pertinentes a efecto de implementar la presente reforma.
+
+###### ARTICULO TERCERO.
+
+La Secretaría de Desarrollo Agropecuario, entrada en vigor la presente reforma, realizará una campaña de difusión para la designación de beneficiario o sucesor en caso de fallecimiento de marca de herrar, tatuaje o señal de sangre, entre las organizaciones ganaderas, para efecto de contar con un padrón estatal de beneficiarios.
