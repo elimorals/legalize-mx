@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-y-proteccion-de-derechos-del-87792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-27"
-last_updated: "2019-07-05"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de abril de 2012.
 
@@ -41,9 +41,11 @@ LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZAR
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de la presente ley son de orden público e interés social y tienen por objeto establecer las bases para la prestación de los servicios de asistencia social pública y privada, a fin de proteger los derechos de las personas en situación de vulnerabilidad y sus familias.
+Las disposiciones de la presente ley son de orden público e interés social y tienen por objeto establecer las bases para la prestación de los servicios de asistencia social pública y privada, así como regular y promover la protección, asistencia e integración social de las personas, familias o grupos que carecen de capacidad para su desarrollo autónomo o de los apoyos y condiciones para valerse por sí mismas, a fin de proteger los derechos de las personas en situación de vulnerabilidad y sus familias.
 
 ###### Artículo 2.
 
@@ -82,6 +84,10 @@ VI. Asistencia Social Pública: Los servicios temporales que promueven y prestan
 VII. Asistencia Social Privada: Los servicios temporales que promueven y prestan las personas físicas y morales sin propósito de lucro, destinados a la asistencia social.
 
 VIII. Personas en situación de vulnerabilidad: Aquellas que por diversas circunstancias se encuentran imposibilitadas para superar los efectos adversos causados por factores biopsicosociales o eventos naturales, económicos, culturales o sociales.
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2019)</small>
+
+IX. Integración social: es el proceso de desarrollo de capacidades y creación de oportunidades en los órdenes económico, social y político para que los individuos, familias o grupos, sujetos de asistencia social, puedan reincorporarse a la vida comunitaria con pleno respeto a su dignidad, identidad y derechos sobre la base de la igualdad y equidad de oportunidades para el acceso a los bienes y servicios sociales.
 
 ### CAPÍTULO SEGUNDO. DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS
 
@@ -1418,3 +1424,9 @@ P.O. 5 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 288.- SE REFORMAN LAS FRACCIONES III Y IX DEL INCISO D DEL ARTÍCULO 10 DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 317.- SE REFORMA EL ARTÍCULO 1º Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 3 DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
