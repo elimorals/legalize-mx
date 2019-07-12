@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-comision-de-derechos-humanos-del-distrito-federal-62"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-22"
-last_updated: "2015-11-18"
+last_updated: "2019-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "1993-06-21"
 ---
 # LEY DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL DECRETO QUE ABROGA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 12 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JULIO DE 2019 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes el 22 de junio de 1993.
 
@@ -957,3 +959,25 @@ G.O. 18 DE NOVIEMBRE DE 2015.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE ABROGA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México. En consecuencia, se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+SEGUNDO.- Las Delegaciones de la Comisión de Derechos Humanos de la Ciudad de México en cada una de las demarcaciones territoriales a las que hace mención el presente Decreto, deberán quedar instaladas en su totalidad a más tardar el 1° de enero de 2020.
+
+TERCERO.- A partir de la entrada en vigor del presente Decreto, la Comisión de Derechos Humanos del Distrito Federal cambiará su denominación por el (sic) de Comisión de Derechos Humanos de la Ciudad de México. Por lo que a la entrada en vigor del presente Decreto, todas las menciones a la Comisión de Derechos Humanos del Distrito Federal contenidas en cualquier disposición jurídica o en instrumentos vigentes, se entenderán referidas a la Comisión de Derechos Humanos de la Ciudad de México.
+
+CUARTO.- Los procedimientos que se encuentren sustanciando ante la Comisión de Derechos Humanos con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite hasta su conclusión en los términos establecidos en la normatividad vigente al momento de su inicio y en los términos sobre la retroactividad previstos en el artículo 14 de la Constitución General.
+
+QUINTO.- A la entrada en vigor del presente Decreto, los bienes y recursos humanos, materiales y presupuestales con que actualmente cuenta la Comisión de Derechos Humanos del Distrito Federal, pasarán a formar parte, sin más trámite o formalidad, de la Comisión de Derechos Humanos de la Ciudad de México. Las personas servidoras públicas de la Comisión preservarán sus derechos laborales adquiridos con antelación a la entrada en vigor del presente Decreto.
+
+SEXTO.- De conformidad con lo establecido en el párrafo segundo del artículo trigésimo tercero transitorio del decreto publicado en la Gaceta Oficial de la Ciudad de México del 5 de febrero de 2017 por el que se expide la Constitución Política de la Ciudad de México, la actual presidenta de la Comisión de Derechos Humanos permanecerá en dicho cargo hasta la conclusión del periodo para el que fue nombrada. En el caso de que opte por solicitar su reelección, ésta será desahogada en términos del procedimiento establecido en el artículo 10 de esta Ley. La misma regla aplicará para las personas consejeras de la Comisión actualmente en funciones, a quienes en caso de solicitar su reelección se les aplicará lo dispuesto en el artículo 20 de esta Ley.
+
+Las vacantes de personas consejeras de la Comisión que estén pendientes a la entrada en vigor de este ordenamiento, serán designadas de conformidad con el procedimiento establecido en el artículo 20 de esta Ley
+
+SÉPTIMO.- La Comisión de Derechos Humanos de la Ciudad de México deberá aprobar su nuevo Reglamento Interno dentro de los ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto. En el mismo plazo deberán hacerse las modificaciones a la demás normatividad interna
+
+OCTAVO.- Las relaciones laborales entre la Comisión y sus trabajadores se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, en tanto el Congreso Local expide la legislación que regule las relaciones laborales entre los entes públicos de la Ciudad de México y sus trabajadores.
