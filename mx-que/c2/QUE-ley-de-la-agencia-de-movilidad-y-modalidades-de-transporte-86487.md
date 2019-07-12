@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-8648
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-03"
-last_updated: "2018-12-19"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 3 de marzo de 2012.
 
@@ -3073,7 +3073,7 @@ III. No estar inhabilitado para conducir vehículos, por resolución judicial;
 
 IV. Contar con identificación vigente que lo acredite como conductor del servicio de transporte en la modalidad de que se trate;
 
-V. Haber concluido los estudios de nivel secundaria;
+V. (DEROGADA, P.O. 12 DE JULIO DE 2019)
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -3886,3 +3886,11 @@ Artículo Primero. La presente Ley entrará en vigor el día de su publicación 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE DEROGA LA FRACCIÓN V DEL ARTÍCULO 199, DE LA LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
