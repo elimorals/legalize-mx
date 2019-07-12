@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2019-05-29"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JULIO DE 2019.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -414,7 +414,9 @@ X. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento
 
 XI. Administrar con autonomía los recursos materiales y los bienes muebles e inmuebles de la Ciudad asignados a la Alcaldía, sujetándose a los mecanismos de rendición de cuentas establecidos en la Constitución Local;
 
-XII. Establecer la Unidad de Perspectiva de Género como parte de la estructura de la Alcaldía;
+> <small>(REFORMADA, G.O. 12 DE JULIO DE 2019)</small>
+
+XII. Establecer la Unidad de Igualdad Sustantiva como parte de la estructura de la Alcaldía;
 
 XIII. Designar a las personas servidoras públicas de la Alcaldía, sujetándose a las disposiciones del servicio profesional de carrera. En todo caso, los funcionarios de confianza, mandos medios y superiores, serán designados y removidos libremente por la Alcaldesa o el Alcalde;
 
@@ -816,11 +818,11 @@ Las solicitudes de licencia que presenten las y los Concejales, se harán por es
 
 ### CAPÍTULO I. DE LAS UNIDADES ADMINISTRATIVAS Y SUS NOMBRAMIENTOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE JULIO DE 2019)</small>
 
 ###### Artículo 71.
 
-Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, los titulares de la Alcaldía se auxiliarán de unidades administrativas, las que estarán subordinadas a este servidor público. El servidor público titular de las referidas Unidades Administrativas ejercerá las funciones propias de su competencia y será responsable por el ejercicio de dichas funciones y atribuciones contenidas en la Ley y demás ordenamientos jurídicos.
+Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, las personas titulares de las Alcaldías se auxiliarán de unidades administrativas. Las personas servidoras públicas titulares de las referidas Unidades Administrativas ejercerá las funciones propias de su competencia y será responsable por el ejercicio de dichas funciones y atribuciones contenidas en la Ley y demás ordenamientos jurídicos.
 
 > <small>(ADICIONADO, G.O. 12 DE OCTUBRE DE 2018)</small>
 
@@ -872,7 +874,9 @@ XI. Sustentabilidad;
 
 XII. Derechos Culturales, Recreativos y Educativos;
 
-XIII. Fomento a la Equidad de Género;
+> <small>(REFORMADA, G.O. 12 DE JULIO DE 2019)</small>
+
+XIII. De Igualdad Sustantiva.
 
 > <small>(ADICIONADA, G.O. 8 DE MAYO DE 2019)</small>
 
@@ -2225,3 +2229,11 @@ G.O. 29 DE MAYO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. Los (sic) Esterilizaciones Obligatorias Masivas y Gratuitas de Animales No Humanos, deberán iniciar, en un término no mayor a 90 días hábiles a partir de la aprobación del presente Decreto.
+
+G.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN EL ARTÍCULO 31, FRACCIÓN XII Y EL ARTÍCULO 71, PRIMER PÁRRAFO Y FRACCIÓN XIII DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
