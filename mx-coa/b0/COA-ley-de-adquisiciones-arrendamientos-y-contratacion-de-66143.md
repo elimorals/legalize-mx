@@ -4,7 +4,7 @@ identifier: "COA-ley-de-adquisiciones-arrendamientos-y-contratacion-de-66143"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-06"
-last_updated: "2017-11-21"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66143&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 6 de enero de 2009.
 
@@ -93,7 +93,9 @@ XI. Comité: Comité de Adquisiciones del Gobierno del Estado de Coahuila;
 
 XII. Unidad: Aquellas áreas de la administración pública del Estado que tengan a su cargo las acciones de administración relativas a adquisiciones, arrendamientos y servicios.
 
-XIII. (DEROGADA, P.O. 7 DE ABRIL DE 2017).
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JULIO DE 2019)</small>
+
+XIII. Órganos Internos de Control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, y que además son competentes para aplicar las leyes en materia de responsabilidades de Servidores Públicos, conforme a lo previsto en la Ley General;
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -541,9 +543,13 @@ Se cancelará la calidad de Salarialmente Responsable, a todos aquellos proveedo
 
 Contra las resoluciones que nieguen las solicitudes de inscripción o determinen la suspensión o la cancelación del Certificado de Aptitud, o en su caso de la calidad de Salarialmente Responsable, el interesado podrá interponer recurso de inconformidad, en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### Artículo 27.
 
 Los pedidos o contratos celebrados con proveedores no registrados en el Padrón de Proveedores de la Administración Pública, o cuyo registro no se encuentre vigente, serán nulos de pleno derecho, de conformidad con lo establecido en las disposiciones reglamentarias de esta Ley.
+
+Las autoridades competentes, fincarán las responsabilidades correspondientes a los servidores públicos involucrados, a los proveedores en lo que corresponda por las operaciones que se hayan hecho sin contar con la autorización de la exención de parte del Órgano de Control, y, en su caso, a los responsables de los Órganos Internos de Control, cuando se acredite que incumplieron dolosamente con sus deberes para favorecer este tipo de contratos.
 
 (REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
@@ -557,13 +563,17 @@ Para los efectos de este artículo, se consideran adquisiciones extraordinarias,
 
 Así mismo, las adquisiciones, arrendamientos de bienes y contratación de servicios, que tengan que ser contratadas para atender eventualidades y necesidades urgentes, que no sean recurrentes y que no fue posible detectarlas para ser programadas con oportunidad, por tratarse de únicas y ocasionales y cuyo monto de cada operación no exceda el equivalente a sesenta salarios mínimos diarios vigentes en la capital del Estado de Coahuila de Zaragoza, podrán contratarse sin que el proveedor se encuentre registrado en el padrón de proveedores, por lo que no resulta aplicable lo prescrito por el artículo 27 del presente ordenamiento.
 
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+Sin embargo, en los casos en los casos (sic) de excepciones previstas en el artículo 64 de esta ley en que el monto de la operación exceda de sesenta salarios mínimos, previa (sic) a la contratación la dependencia o entidad contratante deberá dar aviso al órgano interno de control a efecto de que éste realice una verificación del proveedor, comprobando que cumple con los requisitos básicos señalados en esta ley, en especial que no presente conflicto de intereses, así como el domicilio fiscal y, en su caso, el lugar donde realiza su actividad; rindiendo un informe al respecto, mismo que formará parte del expediente del procedimiento. Este informe tendrá carácter de público.
+
 ### CAPÍTULO CUARTO. DEL COMITÉ DE ADQUISICIONES
 
 ###### Artículo 29.
 
 Se crea el Comité de Adquisiciones del Gobierno del Estado de Coahuila como un órgano del Ejecutivo del Estado de carácter interinstitucional, de naturaleza técnica, consultiva y de opinión, el cual tiene por objeto, coadyuvar en el establecimiento de los criterios generales que regulen la aplicación de los recursos públicos destinados a las adquisiciones previstas por esta Ley, las cuales deberán utilizarse en forma racional y adecuada, con las siguientes facultades:
 
-I. Analizar la documentación previamente presentada por las Dependencias o Entidades, sobre los procedimientos de contratación de adquisiciones, arrendamientos y servicios, y en su caso, emitir su opinión a la instancia correspondiente,
+I. Analizar la documentación previamente presentada por las Dependencias o Entidades, sobre los procedimientos de contratación de adquisiciones, arrendamientos y servicios, y en su caso, emitir su opinión a la instancia correspondiente.
 
 II. Emitir opinión respecto de las políticas internas, bases y lineamientos que en materia de adquisiciones, arrendamientos y servicios requieran las Dependencias y Entidades.
 
@@ -585,9 +595,11 @@ IX. Las demás que le atribuya su instrumento de creación.
 
 Previo al inicio de los procedimientos de contratación y de la emisión del fallo de las adquisiciones de bienes o contratación servicios, las Dependencias y Entidades deberán enviar al Comité la documentación correspondiente.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
 ###### Artículo 31.
 
-Las entidades podrán establecer subcomités de adquisiciones con carácter técnico, consultivo y de opinión, que tendrán por objeto analizar y vigilar las acciones encaminadas a la planeación, programación, presupuestación y contratación de las adquisiciones, arrendamientos y servicios, en los términos de la presente Ley, sin perjuicio del dictamen en el que conste la opinión y recomendación que en su caso deberá emitir en uso de sus facultades, el Comité.
+Las entidades deberán establecer subcomités de adquisiciones con carácter técnico, consultivo y de opinión, que tendrán por objeto analizar y vigilar las acciones encaminadas a la planeación, programación, presupuestación y contratación de las adquisiciones, arrendamientos y servicios, en los términos de la presente Ley, sin perjuicio del dictamen en el que conste la opinión y recomendación que en su caso deberá emitir en uso de sus facultades, el Comité.
 
 ## TÍTULO SEGUNDO. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN
 
@@ -1891,7 +1903,13 @@ Las propuestas desechadas durante la licitación pública o invitación a cuando
 
 La Secretaría y el Órgano de Control, en el ejercicio de sus facultades, podrá verificar, en cualquier tiempo, que las adquisiciones, arrendamientos y servicios se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables. Si el Órgano de Control determina la nulidad total del procedimiento de contratación por causas imputables a la convocante, la dependencia o entidad reembolsará a los licitantes los gastos no recuperables en que hayan incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la operación correspondiente.
 
-La Secretaría y el Órgano de Control, en ejercicio de sus respectivas facultades, podrán realizar las acciones de supervisión, verificación, vigilancia y las visitas e inspecciones que estimen pertinentes a la unidad, las dependencias y entidades que realicen adquisiciones, arrendamientos y contratación de servicios e igualmente podrán solicitar de los servidores públicos y de los proveedores y contratistas que participen en ellas, todos los documentos, datos e informes relacionados con los actos de que se trate.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
+El Órgano Interno de Control, en ejercicio de sus respectivas facultades, deberán (sic) realizar las acciones de supervisión, verificación, vigilancia y las visitas e inspecciones que estimen pertinentes (sic) a las unidades, las dependencias y entidades que se encuentren bajo su responsabilidad, que realicen operaciones en materia de adquisiciones y/o arrendamientos de bienes muebles y contratación de servicios; e igualmente podrán (sic) solicitar de los servidores públicos y de los proveedores y contratistas que participen en ellas, todos los documentos, datos e informes que le sean necesarios relacionados con los actos de que se trate.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+Sin perjuicio de lo establecido en los párrafos anteriores, el Órgano Interno de Control, incluirá en su programa anual de actividades, revisión y verificación de todos los proveedores que realizaron operaciones de compra venta y/o prestación de servicios, con autorización de la exención a la inscripción en el Padrón de Proveedores de conformidad con los artículos 28 y 64 de la Ley a fin de comprobar que han cumplido con todos los requisitos establecidos en esta ley.
 
 (REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
@@ -2010,6 +2028,14 @@ En lo conducente, este artículo será aplicable en las rescisiones administrati
 Los servidores públicos de las Dependencias y Entidades que en el ejercicio de sus funciones tengan conocimiento de infracciones de esta Ley o a las disposiciones que de ella deriven, deberán comunicarlo a las autoridades que resulten competentes conforme a la misma.
 
 La omisión a lo dispuesto en el párrafo anterior será sancionada administrativamente conforme a la Ley aplicable.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+Los titulares de los Órganos Internos de Control serán responsables por las omisiones y acciones que realicen en contravención a sus deberes de vigilancia, verificación y supervisión establecidos en esta ley, en la Ley General de Responsabilidades Administrativas, y demás ordenamientos aplicables, y responderán ante los titulares de los poderes públicos y de los organismos autónomos y descentralizados, según corresponda de acuerdo a las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+El titular de la Secretaría de Fiscalización y Rendición de Cuentas responderá ante el gobernador del estado.
 
 ###### Artículo 92.
 
@@ -2313,10 +2339,18 @@ SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 21 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 998.- SE MODIFICAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL EQUILIBRIO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 998.- SE MODIFICAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL EQUILIBRIO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Las dependencias estatales y municipales correspondientes deberán llevar a cabo las adecuaciones necesarias en su reglamentación dentro de los 60 días naturales contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 307.- SE REFORMAN LA FRACCIÓN XIII DEL ARTÍCULO 2, LOS ARTÍCULOS 27, 31 EL SEGUNDO PÁRRAFO DEL ARTÍCULO 81; SE ADICIONAN EL PÁRRAFO CUARTO AL ARTÍCULO 28, LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 81 Y LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 91, DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
