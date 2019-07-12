@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fomento-a-la-lectura-y-el-libro-para-el-estado-de-79682"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-15"
-last_updated: "2017-01-17"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79682&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE FOMENTO A LA LECTURA Y EL LIBRO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Coahuila, el martes 15 de febrero de 2011.
 
@@ -49,15 +49,23 @@ I. Promover en el Estado de Coahuila de Zaragoza, políticas, programas y accion
 
 II. Impulsar la producción, edición, publicación y difusión de libros y hacer accesible el libro en igualdad de condiciones en todo el Estado para aumentar su disponibilidad y acercarlo al lector;
 
-> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
 
-III. Fomentar y apoyar el establecimiento y desarrollo de librerías, bibliotecas y otros espacios públicos y privados para la lectura y difusión del libro;
+III. Fomentar y apoyar el establecimiento y desarrollo de Ferias del Libro, incluyendo sus vertientes Infantil y Juvenil, exposiciones y eventos literarios, librerías, bibliotecas, círculos de lecturas y otros espacios públicos y privados para la lectura y difusión del libro, así como el acceso a las plataformas digitales de lectura;
 
 IV. Promover la participación social y de los sectores público y privado en las actividades de fomento a la lectura y el libro;
 
 V. Determinar la integración, facultades y ámbito de competencia del Consejo Estatal y los Consejos Regionales;
 
 VI. Registrar, enriquecer y preservar el acervo bibliográfico del Estado mediante el depósito legal, así como promover su difusión.
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2019)</small>
+
+VII. Fomentar la escritura creativa como medio de expresión, recreación y/o esparcimiento y liberación personal, en especial entre niñas, niños y jóvenes;
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2019)</small>
+
+VIII. Promover la lectura infantil y juvenil, fuera del ámbito escolar, con énfasis en contenidos que promuevan la inclusión y el fortalecimiento de la identidad en base a valores.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2015)</small>
 
@@ -66,6 +74,30 @@ VI. Registrar, enriquecer y preservar el acervo bibliográfico del Estado median
 El fomento a la lectura y el libro se establece en el marco de las garantías constitucionales de educación, acceso a la cultura, libre manifestación de ideas, la inviolable libertad de escribir, editar y publicar libros sobre cualquier materia, propiciando el acceso a la lectura y al libro a toda la población.
 
 Ninguna autoridad en el Estado podrá prohibir, restringir ni obstaculizar la creación, edición, producción, distribución, promoción o difusión de libros y de las publicaciones periódicas.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+###### Artículo 2 Bis.
+
+Para el cumplimiento del objeto de esta ley, el Estado y los municipios, en el ámbito de sus respectivas competencias, promoverán:
+
+I. La dotación y organización de los acervos escolares, el incremento y actualización permanente de sus catálogos bibliográficos y el desarrollo de los servicios de bibliografía, archivo y documentación, para lograr el acceso de todos los ciudadanos en igualdad de oportunidades;
+
+II. Programas encaminados a la formación y capacitación de escritores, editores, libreros, diseñadores gráficos, bibliotecarios y en general de quienes desarrollen actividades relacionadas con la escritura, edición, producción, ilustración y comercialización del libro y productos editoriales afines, así como las relacionadas con los servicios que brindan las bibliotecas públicas;
+
+III. El fomento del uso de bibliotecas y centros culturales, así como la ampliación de los servicios de plataformas digitales de lectura;
+
+IV. La gestión de recursos que propicien la adecuada operación de las bibliotecas escolares, públicas, municipales y de educación;
+
+V. La creación, ilustración y edición de libros infantiles y juveniles, y productos editoriales afines;
+
+VI. La edición y publicación de libros, cuentos, leyendas, poesía, antologías y demás productos afines escritos y/o ilustrados por niñas, niños y jóvenes;
+
+VII. La realización de campañas de fomento a la escritura y la lectura, especialmente entre niñas, niños y jóvenes, así como eventos de promoción del libro a nivel municipal, estatal, nacional e internacional;
+
+VIII. La organización de concursos y entrega de premios y estímulos para autores, ilustradores, editores y demás personas que contribuyan al objetivo de los fines de la presente ley;
+
+IX. La promoción del uso de materiales educativos diversos como fuentes complementarias de información y conocimiento.
 
 ###### Artículo 3.
 
@@ -114,6 +146,16 @@ En el ámbito de sus respectivas competencias y facultades, la Secretaría de Ed
 ###### Artículo 6.
 
 Será responsabilidad de la Secretaría de Educación, a través de la unidad administrativa correspondiente, oyendo al Consejo Estatal y de los Consejos Regionales, garantizar a la población el ejercicio real del derecho de acceso al libro y la lectura, así como el fomento de la producción, edición, distribución y difusión de cualquier obra literaria; y realizar las acciones necesarias para que se establezcan programas de fomento a la lectura en los planes de estudio del nivel básico hasta el nivel medio superior en la entidad.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+###### Artículo 6 Bis.
+
+La Secretaría de Cultura, en coordinación con la Secretaría de Educación, promoverá en las instituciones educativas el fomento del hábito de la escritura y la lectura creativa en los alumnos, como factor de atención prioritaria para el ejercicio del derecho a la educación y a la cultura.
+
+A tal fin, gestionará el establecimiento de talleres de escritura y círculos de lectura, que fortalezcan la comprensión lectora y la expresión oral y escrita en todos los niveles educativos, con especial atención en la educación preescolar y en los primeros grados de la educación básica.
+
+Las instituciones educativas deberán desarrollar anualmente planes de fomento a la escritura y la lectura, así como para el fortalecimiento de las bibliotecas escolares, de conformidad con lo establecido en el Programa Estatal.
 
 ### CAPÍTULO III. DE LA ORGANIZACIÓN
 
@@ -325,6 +367,10 @@ El programa contendrá, al menos, un diagnóstico estatal y regional de la lectu
 
 Las acciones que se realicen con base a este programa, privilegiarán la producción, distribución y fomento del libro coahuilense.
 
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+
+El Programa Estatal tendrá especial consideración con la población infantil, juvenil y con los sectores vulnerables, así como con el aprendizaje continuo de los ciudadanos de cualquier edad.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2015)</small>
 
 El Gobierno del Estado, de forma anual, asignará una partida presupuestal que sea suficiente para el cumplimiento de todos los objetivos y acciones del Programa Estatal para el Fomento de la Lectura y el Libro.
@@ -464,3 +510,11 @@ P.O. 17 DE ENERO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 315.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 1° Y SE LE ADICIONAN LAS FRACCIONES VII Y VIII, ASIMISMO SE ADICIONAN LOS ARTÍCULOS 2 BIS, 6 BIS Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 26, RECORRIÉNDOSE LOS ULTERIORES, DE LA LEY DE FOMENTO A LA LECTURA Y EL LIBRO PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
