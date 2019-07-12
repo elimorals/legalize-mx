@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2019-07-05"
+last_updated: "2019-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -163,9 +163,9 @@ Ninguna persona adulta mayor podrá ser socialmente marginada o discriminada en 
 
 La Comisión de los Derechos Humanos del Estado de Coahuila de Zaragoza, en el ámbito de su competencia, promoverá y difundirá la cultura de respeto a los derechos de las personas adultas mayores.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
 
-Artículo 8 bis.- Todas las instituciones de orden público y privado del Estado, procuraran que sus instalaciones existan las condiciones de infraestructura necesarias para el fácil acceso de las personas adultas mayores, otorgándoles por lo menos sillas de espera, y una fila preferencial para que se les dé a las personas adultas mayores un trato digno, especial y primordial al momento de realizar un trámite personal.
+Artículo 8 bis. Todas las instituciones de orden público y privado del Estado se asegurarán de que en sus instalaciones existan las condiciones de infraestructura necesarias para el fácil acceso, breve permanencia y libre movilidad de las personas adultas mayores, para lo cual se les deberá proveer, en cada caso, suficientes sillas de espera, dentro de un espacio techado y bien ventilado, así como un botiquín, agua potable, una fila preferencial y, de ser necesario, un módulo de orientación que permita otorgárseles un trato digno, eficiente, expedito y primordial al momento de realizar pagos, cobros o cualquier otra gestión ante entidades del sector gubernamental, privado o paraestatal.
 
 ### CAPÍTULO SEGUNDO. LOS PRINCIPIOS, DERECHOS Y OBLIGACIONES DE LAS PERSONAS ADULTAS MAYORES
 
@@ -253,9 +253,13 @@ III. A la salud, alimentación y a la familia, por tanto, se reconoce que tienen
 
 6. Gozar de calidad, calidez, paciencia y tolerancia en la atención especializada en gerontología y geriatría en los diversos niveles del sector salud.
 
-7. Tener acceso preferente a los servicios de salud, de conformidad con el párrafo tercero del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, con el objeto de que gocen cabalmente de bienestar físico, mental, sexual y psicoemocional, a fin de obtener el mejoramiento en su calidad de vida y la prolongación de ésta.
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE LA PARTE FINAL DEL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR AL CONTENIDO DEL PÁRRAFO QUE LE SIGUE.]</small>
 
-Los centros o servicios públicos de prevención y atención de la salud prestarán, en forma inmediata, el servicio que necesiten sin discriminación alguna, proporcionado las condiciones necesarias para la permanencia de las personas adultas mayores cuando sean internados.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+
+7. Tener acceso preferente a los servicios de salud, de conformidad con el párrafo tercero del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, con el objeto de que gocen cabalmente de bienestar físico, mental, sexual y psicoemocional, a fin de obtener el mejoramiento en su calidad de vida y la prolongación de ésta. Los centros o servicios públicos de prevención y atención de la salud prestarán, en forma inmediata, el servicio que necesiten sin discriminación alguna, proporcionando las condiciones necesarias para la permanencia de las personas adultas mayores cuando sean internados. (sic)
+
+Los centros o servicios públicos de prevención y atención de la salud prestarán, en forma inmediata, el servicio que necesiten sin discriminación alguna, proporcionando las condiciones necesarias para la permanencia de las personas adultas mayores cuando sean internadas. En caso de enfermedad terminal estarán incluidos los cuidados paliativos y aquellos que procuren evitar el aislamiento, el dolor, el sufrimiento innecesario y las intervenciones médicas fútiles e inútiles, de conformidad con el derecho de las personas mayores a expresar su consentimiento libre e informado.
 
 8. Recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a toda aquella instrucción que favorezca su autocuidado o cuidado personal, también participar en las decisiones sobre tratamiento de sus enfermedades, excepto en casos en que, judicialmente, sea declarado incapaz.
 
@@ -1522,5 +1526,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 5 DE JULIO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 287.- SE REFORMAN LOS ARTÍCULOS 13, 28 FRACCIÓN I, 30, 34 Y EL ÚLTIMO PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 79 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 318.- SE REFORMAN LOS ARTÍCULOS 8 BIS Y 10 FRACCIÓN III NUMERAL 7 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
