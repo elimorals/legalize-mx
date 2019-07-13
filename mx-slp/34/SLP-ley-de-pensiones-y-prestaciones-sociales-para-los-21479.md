@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-pensiones-y-prestaciones-sociales-para-los-21479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-21"
-last_updated: "2019-06-04"
+last_updated: "2019-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 21 de mayo de 2001.
 
@@ -711,21 +711,33 @@ servicios servicio
 
 III. Los derechohabientes de la Dirección de Pensiones que probaren haber prestado servicios a la administración pública estatal, o municipal en su caso, por treinta años los hombres y veintiocho las mujeres o más, y hubieren contribuido en igual forma al fondo de la Dirección de Pensiones, tendrán derecho a una pensión que se fijará de acuerdo a lo determinado en el primer párrafo del artículo 78 del presente ordenamiento;
 
-IV. Cuando el trabajador sea declarado incapacitado a causa del servicio o a consecuencia de él, sea cual fuere el tiempo que haya estado en servicio y sea cual fuere el tiempo que hubiere contribuido a un fondo de pensiones, la pensión será igual al cien porciento del salario base promedio a que se refiere el siguiente artículo;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2019)</small>
 
-V. Cuando el trabajador sea declarado incapacitado por causas ajenas al desempeño de su cargo o empleo, si tiene por lo menos diez años de servicio efectivos y hubiere contribuido a la formación de un fondo de pensiones durante el mismo período, se aplicará la tabla de porcentaje para determinar la cuantía en los términos fijados en la presente Ley;
+IV. Cuando el trabajador sea declarado incapacitado a causa del servicio o a consecuencia de él, sea cual fuere el tiempo que haya estado en servicio, sin importar el tiempo que hubiere contribuido al fondo de pensiones, la pensión será igual al cien por ciento del salario base promedio a que se refiere el siguiente artículo;
 
-VI. Cuando el trabajador fallezca a causa del servicio o a consecuencia de él, sus deudos, en los términos que esta Ley señala, gozarán de una pensión igual al último salario disfrutado, sin considerar los años de servicio ni aportaciones al fondo de pensiones respectivo;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2019)</small>
 
-VII. Cuando el trabajador falleciere después de quince años de contribuir al fondo correspondiente, sin haber solicitado pensión o antes de haber comenzado a disfrutarla, sus beneficiarios que esta Ley señala gozarán de la pensión que hubiere correspondido al trabajador por tiempo de servicios, conforme a la tabla de porcentajes de la Fracción I de este artículo, disminuida en un diez porciento cada año, hasta reducirla al cincuenta porciento de la cifra primitiva;
+V. Cuando el trabajador sea declarado incapacitado por causas ajenas al desempeño de su cargo o empleo, si tiene por lo menos diez años de servicio efectivos, y hubiere contribuido a la formación de un fondo de pensiones durante el mismo período, se aplicará la tabla de porcentaje para determinar la cuantía en los términos fijados en la presente Ley;
 
-VIII. Al fallecer un trabajador que haya pasado a ser pensionista por edad y tiempo de servicios, sus beneficiarios, en el orden establecido por esta Ley, continuarán disfrutando la pensión que haya venido percibiendo aquél a la fecha de su fallecimiento;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2019)</small>
 
-IX. Cuando fallezca un trabajador que haya pasado a ser pensionista por haber sido declarado incapacitado a causa del servicio, sus beneficiarios señalados por esta Ley continuarán percibiendo pensión en la cuantía fijada por la fracción IV de este artículo, y
+VI. Cuando el trabajador fallezca a causa del servicio, o a consecuencia de él, los beneficiarios, en los términos que esta Ley señala, gozarán de una pensión igual al último salario disfrutado, sin considerar los años de servicio ni aportaciones al fondo de pensiones respectivo;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2019)</small>
 
-X. Cuando fallezca un trabajador que hubiere pasado a ser pensionista por invalidez ajena al servicio, sus beneficiarios recibiraín (sic) una pensioín (sic) igual al noventa por ciento de la que hubiera correspondido al trabajador.
+VII. Cuando el trabajador fallezca después de quince años de contribuir al fondo correspondiente por causas ajenas al desempeño de su cargo o empleo, y sin que haya solicitado previamente la pensión o antes de haber comenzado a disfrutarla, los beneficiarios gozarán de la pensión que hubiere correspondido al trabajador por tiempo de servicios, conforme a la tabla de porcentajes que establece la fracción I de este artículo, disminuida en un diez por ciento cada año, hasta reducirla al cincuenta por ciento de la cifra primitiva;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2019)</small>
+
+VIII. Al fallecer un trabajador que haya pasado a ser pensionista por edad y tiempo de servicios, sus beneficiarios, en el orden establecido por esta Ley, continuarán disfrutando la pensión que haya venido percibiendo aquél, a la fecha de su fallecimiento;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2019)</small>
+
+IX. Cuando fallezca un trabajador que haya pasado a ser pensionista por haber sido declarado incapacitado a causa del servicio, los beneficiarios señalados por esta Ley continuarán percibiendo la pensión según la cuantía fijada por la fracción IV de este artículo, y
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2019)</small>
+
+X. Cuando fallezca un trabajador que hubiere pasado a ser pensionista por invalidez por causas ajenas al desempeño de su cargo o empleo, los beneficiarios recibirán una pensión igual al noventa por ciento de la que hubiera correspondido al trabajador.
 
 ###### ARTICULO 78.
 
@@ -2304,5 +2316,13 @@ P.O. 4 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0179.- SE DEROGA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0203.- SE REFORMA EL ARTÍCULO 77 DE LA LEY DE PENSIONES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis."
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
