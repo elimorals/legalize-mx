@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-pensiones-civiles-del-estado-de-chihuahua-96985"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-21"
-last_updated: "2016-10-03"
+last_updated: "2019-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2019.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 21 de diciembre de 2013.
 
@@ -283,7 +283,7 @@ La Institución podrá expedir a los asegurados de esta Ley, una cédula de iden
 
 En dichas cédulas se anotarán los nombres y datos que establezca el Reglamento.
 
-> <small>(REFORMADO, P.O, 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 ###### ARTÍCULO 18.
 
@@ -313,7 +313,7 @@ III. 1 % para gastos de administración.
 
 Los pensionados cubrirán una cuota del 12% de su pensión, que se aplicará al Fondo de Pensiones Garantizadas.
 
-Los trabajadores podrán aportar, de manera voluntaria, a su cuenta individual un porcentaje de su salario de cotización. Los patrones estarán obligados a depositar 1.25 veces lo que aporte el• trabajador, siempre que esta aportación obligatoria no exceda del 2.5% de dicho salario.
+Los trabajadores podrán aportar, de manera voluntaria, a su cuenta individual un porcentaje de su salario de cotización. Los patrones estarán obligados a depositar 1.25 veces lo que aporte el trabajador, siempre que esta aportación obligatoria no exceda del 2.5% de dicho salario.
 
 El ahorro solidario es el beneficio que tiene el trabajador que decida aportar, de manera voluntaria, a su cuenta individual un porcentaje de su salario sujeto a cotización, que estará acompañada por una aportación obligatoria por parte del empleador, con el propósito de incrementar el monto de la pensión y promover la cultura previsional.
 
@@ -708,6 +708,50 @@ El fallecimiento del pensionado dará derecho a que sus beneficiarios, determina
 ###### ARTÍCULO 68.
 
 Los beneficiarios establecidos en el artículo 57, de los pensionados que fallezcan, perderán el derecho a recibir las pensiones en los mismos casos que los señalados en el artículo 62.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2019)</small>
+
+APARTADO "E BIS"
+
+DEL RÉGIMEN DE EXCEPCIÓN PARA INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2019)</small>
+
+###### Artículo 68 Bis.
+
+El presente régimen de excepción será para quienes integren las Instituciones de Seguridad Pública del Estado y sus beneficiarios, los cuales podrán acceder a las pensiones previstas en las fracciones IV y V del artículo 26 de la presente Ley, siempre y cuando el derecho provenga de un riesgo de trabajo y en cumplimiento de su deber y, además, traiga como consecuencia una incapacidad total permanente que impida el desempeño del cargo ocupado, o la pérdida de la vida. La persona asegurada, deberá estar en servicio activo, no sujeto a comisión o licencia.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2019)</small>
+
+###### Artículo 68 Ter.
+
+Se podrá determinar la procedencia del régimen de excepción previsto en el presente Apartado, cuando se infiera que la incapacidad total permanente o pérdida de la vida del asegurado, haya sido en respuesta a decisiones o acciones realizadas en el desempeño de su encargo o donde estas se asuman o sean ejecutadas en la lucha contra las estructuras criminales.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2019)</small>
+
+###### Artículo 68 Quáter.
+
+Dichas circunstancias serán analizadas por la Institución, quien determinará en su momento la procedencia de la excepcionalidad de la pensión, previo análisis de los elementos de juicio que la Fiscalía General del Estado ponga a disposición de la misma.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2019)</small>
+
+Artículo 68 Quintus. La base para el cálculo de la pensión excepcionada prevista en el presente Apartado, será el salario sujeto a cotización que determine la Institución, integrando además al mismo, la compensación mensual, de acuerdo al monto al que ascendiera la misma cuando el derecho pensionario se vuelva exigible.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2019)</small>
+
+Artículo 68 Sextus. Quienes integren las Instituciones de Seguridad Pública del Estado o sus beneficiarios, en los términos del artículo 57 de esta Ley, en ningún caso, podrán verse privadas de la pensión ordinaria y/o excepcional correspondiente, derivada de un riesgo de trabajo, como consecuencia de cuotas omitidas en vida por la o el servidor público o aportaciones no enteradas por el patrón, incluidos los casos en que la Junta Directiva determine la improcedencia de la excepcionalidad del régimen.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2019)</small>
+
+Artículo 68 Séptimus. La pensión deberá resolverse dentro del plazo establecido en el artículo 28 de la presente Ley, una vez que hayan sido cumplidos los requisitos que para tal efecto requiera la Institución, en los cuales se incluirá el dictamen de la Fiscalía General del Estado, donde se haga constar la situación de hecho bajo la cual ocurrió la enfermedad, el accidente o la muerte de la o el integrante de las Instituciones de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2019)</small>
+
+Artículo 68 Octavus. La pensión se otorgará a quienes adquieran el carácter de beneficiario, en los términos y condiciones previstas en los artículos 57 y 58 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2019)</small>
+
+Artículo 68 Novenus. A este Apartado se aplicarán las disposiciones del "Título Tercero", denominado "De las Prestaciones", en cuanto fueren compatibles con este régimen excepcional.
 
 APARTADO "F"
 
@@ -1274,3 +1318,11 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 13 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVI/RFLEY/0358/2019 II P.O., POR MEDIO DEL CUAL SE ADICIONA AL TÍTULO TERCERO, CAPÍTULO SEGUNDO, SECCIÓN SEGUNDA, UN APARTADO CON SUS RESPECTIVOS ARTÍCULOS DE LA LEY DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
