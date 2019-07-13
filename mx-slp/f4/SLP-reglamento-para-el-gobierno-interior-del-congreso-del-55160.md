@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2019-05-02"
+last_updated: "2019-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2019.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -507,9 +507,11 @@ III. Ordenar el uso de la fuerza pública para desalojar a quienes alteren el or
 
 Son sesiones privadas aquéllas en las que se permite el acceso únicamente a los diputados de la Legislatura, y en su caso, al personal indispensable para el desarrollo de las mismas.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2019)</small>
+
 ###### ARTICULO 41.
 
-Son materia de sesión privada exclusivamente los asuntos relacionados con acusaciones que se hagan contra los servidores públicos, conforme a lo dispuesto por la Constitución, y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+Son materia de sesión privada exclusivamente los asuntos relacionados con acusaciones que se hagan contra los servidores públicos, conforme a lo dispuesto por la Constitución, y la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
 
 ###### ARTICULO 42.
 
@@ -843,7 +845,9 @@ Para discutir y votar toda iniciativa de ley, decreto, acuerdo administrativo o 
 
 Para adicionar o reformar la Constitución se requerirá de la aprobación por el voto de por lo menos las dos terceras partes del número total de los diputados; y el voto posterior de la mayoría de los ayuntamientos del Estado.
 
-Los ayuntamientos tendrán un plazo no mayor de tres meses para pronunciarse a favor o en contra de las adiciones o reformas que les sean enviadas por el Congreso; lapso que comenzará a partir de la recepción de las mismas. De no pronunciarse en el tiempo precisado, los cabildos serán sancionados de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2019)</small>
+
+Los ayuntamientos tendrán un plazo no mayor de dos meses para pronunciarse a favor o en contra de las adiciones o reformas que le sean enviadas por el Congreso; este plazo comenzará a partir de la recepción de las mismas. De no pronunciarse en el plazo estipulado se les tendrá por conformes con los términos y, por tanto, aprobadas las adiciones o reformas recibidas.
 
 Cumplida cualquiera de las hipótesis señaladas en los párrafos anteriores, el Congreso del Estado, o la Diputación Permanente, en su caso, harán el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
 
@@ -1375,7 +1379,9 @@ III. Una vez cumplidas las "formalidades que al efecto establezca la ley de la m
 
 IV. Previo estudio del expediente correspondiente, las comisiones señaladas en la fracción anterior, habrán de redactar el dictamen correspondiente, el cual manifestará, debidamente fundado:
 
-a) Si el inculpado se encuentra entre los servidores públicos a que se refiere la Constitución Política del Estado, y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2019)</small>
+
+a) Si el inculpado se encuentra entre los servidores públicos a que se refiere la Constitución Política del Estado, y la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
 
 b) Si la denuncia, queja o solicitud, contiene elementos de prueba que permitan presumir la existencia de la infracción y la probable responsabilidad del servidor público y, por tanto, amerita iniciar el procedimiento; en caso contrario, las comisiones desecharán la denuncia presentada.
 
@@ -1383,9 +1389,9 @@ c) Si la resolución determina el inicio del procedimiento, el Pleno, en sesión
 
 V. Recibido el expediente, la comisión jurisdiccional realizará todas las diligencias necesarias, a efecto de comprobar los hechos motivos de la denuncia, queja o solicitud, conforme a lo dispuesto por la legislación aplicable.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2019)</small>
 
-Tratándose de responsabilidades administrativas de los servidores públicos de elección popular, y magistrados, se estará a lo dispuesto en el artículo 209 de la Ley de Responsabilidades Administrativas del Estado y Municipios de San Luis Potosí.
+Tratándose de responsabilidades administrativas de los servidores públicos de elección popular, y magistrados, se estará a lo dispuesto en el artículo 209 de la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
 
 #### Sección Cuarta. De las Comisiones Especiales
 
@@ -2738,5 +2744,13 @@ P.O. 2 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0160.- SE DEROGA EN EL ARTÍCULO 7° EN SU FRACCIÓN III LOS INCISOS, D), Y E), DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0204.- SE REFORMAN LOS ARTÍCULOS 96 Y 126 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ Y SE REFORMAN LOS ARTÍCULOS 41, 81 Y 144 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis''.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
