@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2019-05-02"
+last_updated: "2019-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -323,9 +323,11 @@ II. Conceder amnistías e indultos por los delitos del orden común.
 
 ### Capítulo VII. De las Atribuciones en Materia de Responsabilidad Política, Administrativa y Penal
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2019)</small>
+
 ###### ARTICULO 21.
 
-Es atribución del Congreso del Estado instaurar los juicios políticos, juicios de responsabilidad administrativa y, en su caso, aplicar las sanciones a que se refiere el artículo 128 de la Constitución; y hacer la declaración de procedencia de las acusaciones penales contra servidores públicos a que se refiere la propia Constitución, conforme lo establezca la ley de la materia.
+Es atribución del Congreso del Estado instaurar los juicios políticos, juicios de responsabilidad administrativa y, en su caso, aplicar las sanciones a que se refiere el artículo 128 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
 ## TITULO CUARTO. DE LA DIPUTACION PERMANENTE
 
@@ -441,9 +443,11 @@ El Congreso tendrá anualmente dos periodos ordinarios de sesiones. El primero c
 
 En la apertura de los periodos ordinarios de sesiones, el quince de septiembre; y el uno de febrero, el Presidente de la Directiva declarará la apertura del respectivo periodo de sesiones del año de la Legislatura correspondiente.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2019)</small>
+
 ###### ARTICULO 37.
 
-Cuando concluido un periodo ordinario de sesiones el Congreso del Estado, erigido en jurado de sentencia o de procedencia se encuentre conociendo de un juicio político o una declaración de procedencia, lo prorrogará hasta pronunciar su resolución, sin ocuparse de ningún otro asunto.
+Cuando concluido un periodo ordinario de sesiones el Congreso del Estado, erigido en jurado de sentencia se encuentre conociendo de un juicio político, lo prorrogará hasta pronunciar su resolución sin ocuparse de ningún otro asunto.
 
 ### Capítulo III. De las Sesiones
 
@@ -512,6 +516,12 @@ h) Se rinda el informe de actividades del Congreso del Estado.
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
 
 i) Se conmemore anualmente la instalación del Primer Congreso de San Luis Potosí.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2019)</small>
+
+ARTICULO 40 BIS. Todas las sesiones del Pleno, con excepción de las privadas, se deberán interpretar simultáneamente a lengua de señas mexicanas.
+
+Las transmisiones que se realizan por los medios digitales del Congreso, deberán incluir a medida de las posibilidades técnicas y presupuestales, la lengua de señas mexicanas.
 
 ###### ARTICULO 41.
 
@@ -1061,9 +1071,9 @@ I. Solicitar, por conducto de su Presidente, la información o documentación a 
 
 II. Citar y entrevistarse, por conducto de su Presidente, con los funcionarios públicos para una mejor sustentación de su juicio en el estudio de los asuntos que les encomienden.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2019)</small>
 
-Las autoridades y funcionarios municipales, estatales y de sus organismos descentralizados, así como los organismos constitucionales autónomos, están obligados a proporcionar la información solicitada por las comisiones, en plazo no mayor de diez días hábiles contados a partir del día en que fueran notificados; apercibidos que para el caso de no hacerlo, o se negaren a entregarla dentro del término señalado, o no entreguen satisfactoriamente la información o documentos solicitados por las comisiones, el Presidente de éstas podrá dirigirse oficialmente en queja al superior jerárquico que corresponda, sin perjuicio de la responsabilidad administrativa aplicable a los funcionarios, en términos de la fracción XXIII Ter del artículo 56 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+Las autoridades y funcionarios municipales, estatales y de sus organismos descentralizados, así como los organismos constitucionales autónomos, están obligados a proporcionar la información solicitada por las comisiones, en plazo no mayor de diez días hábiles contados a partir del día en que fueran notificados; apercibidos que para el caso de no hacerlo, o se negaren a entregarla dentro del término señalado, o no entreguen satisfactoriamente la información o documentos solicitados por las comisiones, el Presidente de éstas podrá dirigirse oficialmente en queja al superior jerárquico que corresponda, sin perjuicio de la responsabilidad administrativa aplicable a los funcionarios, en términos del artículo 62 de la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí
 
 ###### ARTICULO 97.
 
@@ -1413,7 +1423,9 @@ XV. Los relativos a la creación, fusión o supresión de municipios;
 
 XVI. Los que se refieran a la suspensión y desaparición de ayuntamientos, así como a la designación de concejos municipales;
 
-XVII. En su carácter de comisión de examen previo conforme a la ley de la materia, los concernientes a los juicios políticos, de responsabilidad y de declaración de procedencia;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2019)</small>
+
+XVII. En su carácter de comisión de examen previo conforme a la ley de la materia, los concernientes a los juicios políticos, y de responsabilidad;
 
 XVIII. Los concernientes a las controversias que se susciten entre uno o más municipios, y entre éstos y el Poder Ejecutivo o el Poder Judicial del Estado, siempre y cuando no posean un carácter contencioso;
 
@@ -1859,9 +1871,9 @@ Los notificadores tendrán fe pública en el ejercicio de sus funciones.
 
 d) La Coordinación de Comunicación Social, dependiente de la Directiva: a la que corresponde la difusión de las actividades institucionales y de la legislación del Estado; la edición bimestral impresa de la Gaceta Parlamentaria; así como el apoyo en las relaciones públicas del Congreso.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2019)</small>
 
-e) La Contraloría Interna, dependiente de la Junta: a la que corresponde la evaluación y control del desempeño de los servidores públicos del Congreso; así como la sustanciación de los procedimientos de responsabilidad administrativa en que incurran los mismos y la imposición de las sanciones correspondientes, para lo cual deberá llevar un registro relativo a las sanciones impuestas e inhabilitación para desempeñar empleos, cargos o comisiones de los servidores públicos, así como los medios de impugnación y su resolución con carácter definitivo, responsabilizándose de realizar la captura, así como envío oportuno y veraz de la información a la Auditoría Superior del Estado, para ser inscrito en el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, en términos de la Ley de Responsabilidades de los Servidores Públicos. De su competencia quedan exceptuados los integrantes de la Asamblea Legislativa.
+e) La Contraloría Interna, dependiente de la Junta: a la que corresponde la evaluación y control del desempeño de los servidores públicos del Congreso; así como la sustanciación de los procedimientos de responsabilidad administrativa en que incurran los mismos y la imposición de las sanciones correspondientes, para lo cual deberá llevar un registro relativo a las sanciones impuestas e inhabilitación para desempeñar empleos, cargos o comisiones de los servidores públicos, así como los medios de impugnación y su resolución con carácter definitivo, responsabilizándose de realizar la captura, así como envío oportuno y veraz de la información al Comité Coordinador del Sistema Estatal Anticorrupción, para ser inscrito en el Sistema Estatal de Servidores Públicos y Particulares Sancionados de la Plataforma Digital Estatal, en términos de la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí; y la Ley del Sistema Estatal Anticorrupción de San Luis Potosí. De su competencia quedan exceptuados los integrantes de la Asamblea Legislativa.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -2021,7 +2033,9 @@ VII. El Diario de los Debates;
 
 VIII. El registro de asistencia de cada diputado a las sesiones del Pleno, y de las comisiones;
 
-IX. Las resoluciones definitivas sobre juicio político, declaración de procedencia y de sanciones administrativas, una vez que hayan causado estado;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2019)</small>
+
+IX. Las resoluciones definitivas sobre juicio político, y de sanciones administrativas, una vez que hayan causado estado;
 
 X. Los convenios celebrados con instituciones públicas o privadas;
 
@@ -2604,6 +2618,30 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE MAYO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0158.- SE REFORMA EL ARTÍCULO 133 EN SU PÁRRAFO SEGUNDO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 74 EN SU PÁRRAFO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE JULIO DE 2019.
+
+[TRANSITORIOS DEL "DECRETO 0201.- SE REFORMAN LOS ARTÍCULOS 21, 37, 109 Y 138 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0202.- SE ADICIONA EL ARTÍCULO 40 BIS, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0204.- SE REFORMAN LOS ARTÍCULOS 96 Y 126 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ Y SE REFORMAN LOS ARTÍCULOS 41, 81 Y 144 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
