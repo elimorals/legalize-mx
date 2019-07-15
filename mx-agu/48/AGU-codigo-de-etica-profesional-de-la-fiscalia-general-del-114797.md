@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-profesional-de-la-fiscalia-general-del-114797"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-23"
-last_updated: "2016-05-23"
+last_updated: "2019-07-15"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA PROFESIONAL DE LA FISCALIA GENERAL DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 15 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 CÓDIGO DE ÉTICA PROFESIONAL DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2019 (SIN EFECTOS).
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de mayo de 2016.
 
@@ -502,3 +504,13 @@ Aguascalientes, Aguascalientes, a 9 de mayo de 2016.
 Lic. Óscar Fidel González Mendívil,
 
 FISCAL GENERAL DEL ESTADO DE AGUASCALIENTES.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente Código de Ética de la Fiscalía General del Estado de Aguascalientes, iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- El presente Código de Ética de la Fiscalía General del Estado de Aguascalientes, deja sin efectos el Acuerdo 08-2016 que contiene el Código de Ética Profesional de la Fiscalía General del Estado, publicado el día 23 de mayo del 2016 en el Periódico Oficial del Estado de Aguascalientes.
