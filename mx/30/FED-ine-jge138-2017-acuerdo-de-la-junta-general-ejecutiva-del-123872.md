@@ -4,7 +4,7 @@ identifier: "FED-ine-jge138-2017-acuerdo-de-la-junta-general-ejecutiva-del-12387
 country: "mx"
 rank: "otro"
 publication_date: "2017-10-13"
-last_updated: "2017-10-13"
+last_updated: "2019-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123872&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-10-06"
 ---
 # INE/JGE138/2017 ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL MANUAL DE NORMAS ADMINISTRATIVAS EN MATERIA DE RECURSOS FINANCIEROS DEL INSTITUTO NACIONAL ELECTORAL
 
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 15 DE JULIO DE 2019, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
 INE/JGE138/2017. ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL MANUAL DE NORMAS ADMINISTRATIVAS EN MATERIA DE RECURSOS FINANCIEROS DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JULIO DE 2019.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de octubre de 2017.
 
@@ -66,3 +68,39 @@ Acuerdo: http://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/93
 Manual: http://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/93422/JGEex201707-18-ap-3-1-a1.pdf?sequence=2&isAllowed=y
 
 Ciudad de México, a 6 de octubre de 2017.- El Director Ejecutivo de Administración, Bogart Montiel Reyna.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE JULIO DE 2019.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO INE/JGE100/2019, QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO.- Se aprueba la modificación del Manual de Normas Administrativas en Materia de Recursos Financieros del Instituto Nacional Electoral, aprobado mediante Acuerdo INE/JGE138/2017, integrándose al presente Acuerdo como parte del mismo, la versión actualizada de dicho documento para su publicación.
+
+SEGUNDO.- Las modificaciones al presente Manual entrarán en vigor al día siguiente de su aprobación, por lo que se deberá actualizar el Manual de Normas Administrativas en Materia de Recursos Financieros del Instituto Nacional Electoral, aprobado mediante Acuerdo JGE138/2017, de fecha 18 de julio de 2017 y en consecuencia integrar los cambios para su publicación.
+
+TERCERO.- Los procedimientos y asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente Manual, continuarán hasta su conclusión en los términos y las disposiciones establecidas en el momento de su inicio.
+
+CUARTO.- Las disposiciones contenidas en el Manual a que se refiere el Punto de Acuerdo Primero, son de observancia general y carácter obligatorio para las Unidades Responsables del Instituto Nacional Electoral.
+
+QUINTO.- Se instruye a la Dirección Ejecutiva de Administración para que haga del conocimiento de todas las Unidades Responsables del Instituto Nacional Electoral el presente Acuerdo.
+
+SEXTO.- La interpretación para efectos administrativos del presente Acuerdo y Manual, así como la resolución de lo no previsto en el mismo, corresponderá a la Dirección Ejecutiva de Administración.
+
+SÉPTIMO.- Publíquese el presente Acuerdo en la NormaINE, en la Gaceta Electoral, así como un extracto del mismo en el Diario Oficial de la Federación con la liga electrónica para la ubicación del Anexo en el referido Diario Oficial.
+
+[…]
+
+El Acuerdo y su Anexo pueden ser consultados en las siguientes direcciones electrónicas:
+
+DOF: www.dof.gob.mx/2019/INE/JGEex201905_31_ap_2_5.pdf
+
+INE Acuerdo:
+
+https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/110032/JGEex201905-31-ap-2- 5.pdf?sequence=1&isAllowed=y
+
+INE Manual:
+
+https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/110032/JGEex201905-31-ap-2-5- a.pdf?sequence=2&isAllowed=y
