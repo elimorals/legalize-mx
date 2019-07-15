@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2019-07-03"
+last_updated: "2019-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE JULIO DE 2019.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -2063,7 +2063,13 @@ I. Ser ciudadano del Estado, mexicano por nacimiento, en pleno ejercicio de sus 
 
 II. Tener más de 35 años de edad;
 
-III. Haber servido en el Poder Judicial del Estado o tener méritos profesionales y académicos reconocidos;
+> <small>(REFORMADA, G.G. 15 DE JULIO DE 2019)</small>
+
+III. Haber servido como Juez de Primera Instancia y que haya sido ratificado por el Consejo de la Judicatura del Poder Judicial del Estado de México, o tener méritos profesionales y académicos reconocidos;
+
+> <small>(ADICIONADA, G.G. 15 DE JULIO DE 2019)</small>
+
+III. Bis. Haber aprobado un examen de admisión a un curso de capacitación para magistrado y aprobado éste, se tendrá derecho a presentar el concurso de oposición para tal designación;
 
 IV. Poseer título profesional de licenciado en derecho expedido por las instituciones de educación superior legalmente facultadas para ello, con una antigüedad mínima de 10 años al día de la designación;
 
@@ -2149,11 +2155,11 @@ Los magistrados y jueces estarán impedidos para el ejercicio de la abogacía, s
 
 Tampoco podrán desempeñar ningún otro cargo, empleo o comisión que sea remunerado e incompatible con su función.
 
-> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 15 DE JULIO DE 2019)</small>
 
 ###### Artículo 100.
 
-Los jueces de primera instancia y los titulares de los tribunales laborales, durarán en su encargo seis años y podrán ser ratificados por el Consejo de la Judicatura, por períodos iguales, previa aprobación de exámenes de actualización, de acuerdo con los mecanismos y demás requisitos que señale la ley, y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a la misma
+Los jueces de primera instancia y los titulares de los tribunales laborales durarán en su encargo seis años y podrán ser ratificados por el Consejo de la Judicatura al término de tal periodo previa aprobación de exámenes de actualización, de acuerdo con los mecanismos y demás requisitos que señale la ley, y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a la misma.
 
 > <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2167,11 +2173,11 @@ Los jueces de primera instancia y los titulares de los tribunales laborales debe
 
 En cada distrito o región judicial habrá un juez y tribunal laboral o los que sean necesarios, quienes conocerán de los asuntos para los que la ley les otorgue competencia.
 
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 15 DE JULIO DE 2019)</small>
 
 ###### Artículo 103.
 
-Los jueces de cuantía menor durarán en su encargo tres años y podrán ser ratificados por el Consejo de la Judicatura, por períodos iguales, previa aprobación de exámenes de actualización, de acuerdo con los mecanismos y demás requisitos que señale la ley, y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a la misma. Tendrán la competencia que le señale la Ley Orgánica del Poder Judicial y demás ordenamientos aplicables, ejerciendo su jurisdicción en el ámbito territorial que determine el Pleno del Tribunal.
+Los jueces de cuantía menor durarán en su encargo tres años y podrán ser ratificados por el Consejo de la Judicatura, al término de tal periodo previa aprobación de exámenes de actualización, de acuerdo con los mecanismos y demás requisitos que señale la ley, únicamente podrán ser suspendidos o destituidos en sus funciones conforme a la misma. Tendrán la competencia que les señale la Ley Orgánica del Poder Judicial y demás ordenamientos aplicables, ejerciendo su jurisdicción en el ámbito territorial que determine el Pleno del Tribunal.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2189,13 +2195,13 @@ Bis.- El proceso penal será acusatorio y oral. Se regirá por los principios de
 
 La imposición de las penas, su modificación y duración son propias y exclusivas del Poder Judicial del Estado.
 
-> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.G. 15 DE JULIO DE 2019)</small>
 
-Los jueces ejecutores de sentencias durarán en su encargo seis años y únicamente podrán ser suspendidos y destituidos en sus funciones conforme a la ley, en la que se determinarán los mecanismos de ratificación.
+Los jueces ejecutores de sentencias durarán en su encargo seis años, podrán ser ratificados en los mismos términos que los demás jueces de primera instancia, y únicamente podrán ser suspendidos y destituidos en sus funciones conforme a la ley.
 
-> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.G. 15 DE JULIO DE 2019)</small>
 
-Los jueces de ejecución de sentencias deberán reunir los mismos requisitos que por ley se establecen para los jueces de cuantía menor.
+Los jueces de ejecución de sentencias deberán reunir los mismos requisitos que la ley establece para los demás jueces de primera instancia.
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2239,29 +2245,29 @@ El Consejo de la Judicatura del Estado de México se integrará por:
 
 I. Un Presidente, que será el del Tribunal Superior de Justicia;
 
-> <small>(REFORMADA, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, G.G. 15 DE JULIO DE 2019)</small>
 
-II. Dos magistrados del pleno del Tribunal Superior de Justicia designados por el Consejo de la Judicatura;
+II. Dos Magistrados del Pleno del Tribunal Superior de Justicia designados por el Pleno del Tribunal Superior de Justicia;
 
-> <small>(REFORMADA, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, G.G. 15 DE JULIO DE 2019)</small>
 
-III. Un Juez de Primera Instancia designado por el Consejo de la Judicatura;
+III. Dos jueces de primera instancia designados por el propio Pleno del Tribunal Superior de Justicia;
 
 > <small>(ADICIONADA, G.G. 10 DE ENERO DE 2010)</small>
 
 IV. Uno designado por el titular del Ejecutivo del Estado; y
 
-> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, G.G. 15 DE JULIO DE 2019)</small>
 
-V. Dos designados por la Legislatura del Estado.
+V. Uno designado por la Legislatura del Estado.
 
 > <small>(ADICIONADO, G.G. 10 DE ENERO DE 2010)</small>
 
 Las personas designadas por el Ejecutivo y la Legislatura deberán cumplir con los requisitos que para magistrado señala esta Constitución, salvo el de haber servido en el Poder Judicial del Estado.
 
-> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, G.G. 15 DE JULIO DE 2019)</small>
 
-Los magistrados y el juez designados por el Consejo de la Judicatura deberán tener cuando menos cinco años en el cargo y cumplir con los requisitos que señale la Ley Orgánica del Poder Judicial del Estado.
+Los magistrados y los jueces designados por el Pleno del Tribunal Superior de Justicia deberán tener cuando menos cinco años en el cargo y cumplir con los requisitos que señale la Ley Orgánica del Poder Judicial del Estado.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -4660,3 +4666,13 @@ PRIMERO.- Una vez cumplido el procedimiento respectivo para reformar la Constitu
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 15 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 68.- POR EL QUE SE DECLARA APROBADA LA REFORMA A LA FRACCIÓN III DEL ARTÍCULO 91; EL ARTÍCULO 100; EL ARTÍCULO 103; LOS PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 104 BIS; LAS FRACCIONES II, III Y V Y SU ÚLTIMO PÁRRAFO DEL ARTÍCULO 107. SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 91 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO. Los procedimientos y actividades que se hayan iniciado previo a la entrada en vigor del presente Decreto, en relación con las disposiciones del mismo, deberán tramitarse hasta su conclusión en los términos de las normas que estuvieron vigentes en su inicio.
