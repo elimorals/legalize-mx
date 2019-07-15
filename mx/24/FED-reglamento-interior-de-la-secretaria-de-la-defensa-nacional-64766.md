@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-defensa-nacional-647
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-29"
-last_updated: "2016-06-15"
+last_updated: "2019-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-22"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA DEFENSA NACIONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JULIO DE 2019.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de diciembre de 2008.
 
@@ -1939,6 +1939,12 @@ El Jefe del Estado Mayor de la Fuerza Aérea será suplido en sus ausencias temp
 
 Los Directores Generales serán suplidos en sus ausencias temporales por los servidores públicos del nivel inmediato inferior que correspondan.
 
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2019)</small>
+
+###### ARTÍCULO 88.
+
+El Jefe de la Unidad de Asuntos Jurídicos será suplido en sus ausencias temporales por el Subjefe que de él dependa en los asuntos de su respectiva competencia, o a falta de estos por el servidor público adscrito a la Unidad de Asuntos Jurídicos más antiguo en el Ejército.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1988,3 +1994,13 @@ QUINTO.- Las referencias que se hagan y las atribuciones que se otorgan en otros
 SEXTO.- Los asuntos en trámite que son atendidos por unidades administrativas que modifican sus atribuciones en virtud de la entrada en vigor del presente Decreto, serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia correspondiente en este ordenamiento.
 
 SÉPTIMO.- Para efectos de lo previsto en el artículo 56 Bis, segundo párrafo del presente Decreto, en tanto no exista un General de Policía Militar, se podrá nombrar como Director General de Policía Militar a quien designe el Secretario de la Defensa Nacional.
+
+D.O.F. 15 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 88 AL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA DEFENSA NACIONAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
