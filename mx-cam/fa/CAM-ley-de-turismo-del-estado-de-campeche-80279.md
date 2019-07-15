@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-turismo-del-estado-de-campeche-80279"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-04"
-last_updated: "2016-08-05"
+last_updated: "2019-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE TURISMO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 4 de marzo de 2011.
 
@@ -95,7 +95,13 @@ XIII. El fomento a la formación de una cultura turística en la población camp
 
 XIV. El impulso de la profesionalización del sector turístico;
 
-XV. La definición de los criterios para la determinación de áreas consideradas y propuestas como Zonas de Desarrollo Turístico Sustentable en el Estado, fomentando la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales y culturales en beneficio de la población.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2019)</small>
+
+XV. La definición de los criterios para la determinación de áreas consideradas y propuestas como Zonas de Desarrollo Turístico Sustentable en el Estado, fomentando la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales y culturales en beneficio de la población; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2019)</small>
+
+XVI. El fomento de actividades turísticas en áreas naturales, mediante la práctica del ecoturismo sustentable en el Estado.
 
 ###### Artículo 5.
 
@@ -890,3 +896,11 @@ P.O. 5 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 15 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 59 POR EL QUE "SE REFORMA LA FRACCIÓN XV Y SE ADICIONA UNA FRACCIÓN XVI AL ARTÍCULO 4 DE LA LEY DE TURISMO DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.-·Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
