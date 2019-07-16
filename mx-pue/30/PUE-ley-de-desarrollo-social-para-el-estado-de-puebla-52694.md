@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-social-para-el-estado-de-puebla-52694"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-18"
-last_updated: "2019-04-26"
+last_updated: "2019-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2019.
 
 Ley publicada en la Cuarta Sección al Periódico Oficial del Estado de Puebla, el lunes 18 de diciembre de 2006.
 
@@ -258,6 +258,10 @@ VI.- Fortalecimiento y desarrollo municipal.
 ###### Artículo 16.
 
 El Ejecutivo Estatal y los Ayuntamientos de los Municipios, elaborarán y harán del conocimiento público cada año sus Programas de Desarrollo Social y las Reglas de Operación de los mismos, a través de los medios más accesibles a la población, en un plazo máximo de noventa días, a partir de la aprobación de sus respectivos presupuestos de egresos anuales.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2019)</small>
+
+Las Reglas de Operación de los Programas de Desarrollo Social se sujetarán a los principios de la Política de Desarrollo Social del Estado, establecidos en la presente Ley, y a su vez éstos, garantizarán la inclusión, tanto de las personas como de los grupos sociales, que se encuentren en situación de pobreza, marginación o vulnerabilidad, con el objetivo de que se garantice el ejercicio pleno, efectivo y en situación de igualdad de los derechos sociales.
 
 ###### Artículo 17.
 
@@ -756,6 +760,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 26 DE ABRIL DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 2 BIS A LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 16 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
