@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2019-03-13"
+last_updated: "2019-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,315 +21,95 @@ state: "PUE"
 ---
 # LEY ESTATAL DE SALUD, PUEBLA
 
-LEY ESTATAL DE SALUD DE PUEBLA
+LEY QUE APRUEBA LA ADHESION DE MEXICO AL CONVENIO CONSTITUTIVO DEL BANCO DE DESARROLLO DEL CARIBE Y SU EJECUCION
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1991.
 
-Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
+Ley publicada en el Diario Oficial de la Federación el martes 5 de enero de 1982.
 
-Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Congreso del Estado.- Puebla.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-MANUEL BARTLETT DIAZ, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a sus habitantes sabed:
+JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 
-Que por la Secretaría del H. Congreso, se me ha dirigido el siguiente:
+Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
 
-EL HONORABLE QUINCUAGESIMO SEGUNDO CONGRESO
+DECRETO:
 
-CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
+"El Congreso de los Estados Unidos Mexicanos, Decreta:
 
-CONSIDERANDO
-
-Que en la Sesión Pública Ordinaria de esta fecha, Vuestra Soberanía tuvo a bien aprobar el Dictamen emitido por la Comisión de Salubridad y Asistencia, Prevensión (sic), Mejoramiento y Rehabilitación Ambiental, en relación con la Iniciativa de Ley Estatal de Salud, enviada por el Ejecutivo del Estado.
-
-Es un deber permanente del Gobierno del Estado, vigilar acerca del orden jurídico de la entidad, para preservar y dar garantía formal a los poblanos en forma positiva y vigente del derecho a la protección de la salud, que en su beneficio consagra el artículo 4º de la Constitución General de la República.
-
-Atendiendo a estos principios de legalidad y de valor universal, se han ejecutado los trabajos concernientes para legislar positivamente en torno a esta materia. Así dentro del proceso legislativo conducente, establecer la normatividad que se propone, para regular las acciones que persigan el mejoramiento de las condiciones de salud colectivas y particulares en la entidad, y en un acto de jurisdicción concurrente con las facultades del Ejecutivo Federal, como lo dispone el artículo 124 de la Constitución General de la República, en relación al diverso artículo 13 inciso B de la Ley General de Salud; se de vigencia a los lineamientos legales que: previendo la enfermedad, combatiéndola, evitando la muerte prematura y controlando los factores de riesgo sanitario, hagan posible que los poblanos gocen cabalmente de todas sus capacidades físicas y mentales en beneficio propio, el de sus familias y el de la sociedad en general.
-
-Los conceptos de beneficio social y particular que se vienen citando surgen dentro del marco de la Ley General de Salud, cuya vigencia, como ordenamiento fundamental de la Nación, se establece a partir del día 1º de julio del año de 1984. En la que se establecen acciones concurrentes con las entidades federativas del Estado Mexicano, para la consolidación del Sistema Nacional de Salud, con arreglo a la soberanía interna de cada uno de los Estados.
-
-La dinámica constante de la ciencia del derecho, que atiende a la realidad social de los gobernados y de los principios universales pro-hombre, en la actualidad conciben a la salud no como atributo estrictamente derivado de la individualidad del ser humano, en cuanto a lo que biológicamente le es particular, sino como un bien colectivo, como parte del bienestar y la calidad de vida de los grandes grupos sociales que el Estado debe proteger y acrecentar, consignando además la garantía y derecho que el ser humano tiene de nacer y vivir sano, bajo el entorno de un ambiente de salud, propio de los avances científicos y tutela social que el Estado dispense en favor, con la participación activa y demandante de la sociedad.
-
-La presente Ley establece sus lineamientos formales, en un ordenamiento que consta de 15 títulos con sus respectivos capítulos, en un orden de 342 artículos, que pretenden dar plena vigencia a la normativa que se dicta en materia de salud, para el Estado de Puebla, resaltan entre otras reformas y adiciones que se incluyen en esta Ley, lo concerniente a la identidad y personalidad de las autoridades sanitarias estatales.
-
-De lo más relevante de esta Ley Estatal de Salud, destaca el Título concerniente a la disposición de órganos y tejidos de seres humanos, identificado bajo el rubro siguiente: "CONTROL SANITARIO DE LA DISPOSICION DE ORGANOS, TEJIDOS Y CADAVERES DE SERES HUMANOS"
-
-En éste Título, cuya composición consistente de tres capítulos, se establecen las medidas conducentes de observancia obligatoria para ejercer un control sanitario adecuado para la disposición de órganos, tejidos y cadáveres de seres humanos, observando el que se cumpla con las disposiciones terapéuticas y de orden civil, para el uso de estos disponentes humanos.
-
-En este título queda resuelto lo que se refiere al hecho de establecer el destino final de un cadáver humano y ahí se determina que éste no puede ser objeto de propiedad y se dictan medidas de carácter administrativas para regular el control sanitario de las empresas e instituciones públicas o privadas que se dediquen a la prestación de servicios funerarios.
-
-En el Título décimo segundo, concerniente a la prostitución, se dá una definición de ella y se establece que para proteger la salud de la población y prevenir los riesgos de enfermedades venéreas, contagiosas, infecto-contagiosas, transmisibles o de otro tipo en periodo infectante, la Secretaría de Salud propondrá la celebración de Programas de Educación Sexual en Instituciones de Educación Media y Superior, así como en Centros de Trabajo, difundiendo entre la población los riesgos que para las personas tiene el contraer una enfermedad de ese tipo.
-
-Atendiendo al criterio nacional de establecer uniformidad en las prácticas y metodologías de vigilancia para la regulación y verificación sanitaria en general, en el que se sustituya a los sistemas de autorizaciones previas y otras prácticas de administración que han demostrado obsolescencia, se dictan las normas y lineamientos formales que establecen un modelo de verificación sanitaria, con plena transparencia, apegado a criterios científicos, eliminando todo tipo de discrecionalidad en las acciones de regulación sanitaria; lo que afecta y modifica plenamente a los títulos décimo tercero y décimo cuarto de la Ley que se abroga, para quedar debidamente actualizados al derecho positivo que requiere la ciudadanía poblana para la preservación y protección de la salud y simplificación de las medidas administrativas del aparato burocrático, estimulando así a los sectores de la producción.
-
-En la presente Ley se define a los servicios de salud y en atención a su naturaleza, se clasifican en tres tipos: de atención médica, de salud pública y de asistencia social, extendiendo sus beneficios en forma cuantitativa y cualitativa a los grupos vulnerables de la sociedad. En esta Ley se significa la prioridad que merecen los servicios de medicina preventiva y de primer nivel, definiéndoles con carácter básico para la salud.
-
-En materia documental se contempla el celo y preocupación del Gobierno del Estado para que se instrumenten las medidas de vigilancia por parte de autoridades educativas y sanitarias, respecto del ejercicio de los profesionales, técnicos y auxiliares, que coadyuvan en la prestación de servicios para la salud, con el propósito de apoyarlos en el cumplimiento eficaz, responsable y ético de su alto cometido social. Es por estos medios de normatividad legítima como se preveé el fomento de actividades tendientes a obtener hábitos de conducta de la sociedad en general, que contribuyan al mejoramiento o solución de los problemas de salud.
-
-Intima relación guardan los conceptos de: manejo responsable, capacitación, actualización e investigación, ya que su propia literalidad denota acción de excelencia y adquiere mayor relevancia cuando se traduce en actividades para la salud, en esa razón práctica y científica se establecen los lineamientos normativos para regular eficazmente su ejercicio dentro del ámbito de nuestra entidad federativa, previniendo la impartición de cursos y otras actividades técnicas para capacitar y actualizar a las personas que realicen esas acciones. El propósito inmediato de estas disposiciones es hacer efectiva la promoción de la salud en el Estado, en sus ámbitos esenciales a saber: educación para la salud, nutrición, control de los efectos nocivos del ambiente y salud ocupacional.
-
-De ninguna manera quedan al margen de esta Ley los grupos vulnerables de la sociedad y aquellos otros que por condiciones socio-económico merecen atención preferente por parte de la acción tutelar del Estado, es así que en su favor se otorgan preceptos que dan iniciativa a los programas encaminados a proteger su asistencia física, mental y de salud en general, que les excluya de los riesgos propios de su quebrantada condición, proponiéndose el incorporarlos a una vida plena y productiva, para beneficio propio y de la sociedad.
-
-Tratándose de fenómenos de conducta de que perjudican gravemente a la salud pública, tales como el alcoholismo, el tabaquismo y la farmacodependencia, en este libro, se dictan medidas de iniciativa para instrumentación de programas para combatirlas fundamentalmente con aspectos preventivos. Todo lo que respecta a los actos de verificación y regulación sanitaria en materia de salubridad local, se ve directamente afectado en esta Ley en párrafos anteriores, se han resaltado los beneficios que se incluyen para su control normativo, resaltan entre otras cosas la distribución de competencias entre las autoridades sanitarias del Estado, para programas de singular importancia como el de proporcionar a la ciudadanía poblana un servicio de agua potable para uso y consumo humano, con índices de óptima calidad. En este título se incluyen normatividades de orden capitular, en el que se establecen con toda formalidad, medidas de carácter administrativo con el objeto de establecer el mecanismo denominado "Ventanilla Unica en materia de Construcción", respetando la autonomía de los Ayuntamientos. Respecto a cementerios, se regula lo concerniente a su funcionalidad, así como de los crematorios y funerarias, explicándose el concepto de cada uno de ellos, así sucesivamente y en lo que respecta a este título, se dictan un sinnúmero de preceptos de orden formal para la clarificación de la actividad reguladora del control sanitario local.
-
-Con arreglo a las modalidades circunstanciales en esta Ley, se contempla lo referente a las sanciones que se aplicarán en cada caso de contravención a los propósitos de la misma, adecuándose en su caso, lo que respecta a la competencia jurisdiccional que se debe atribuir a cada una de las autoridades concurrentes en la materia de que se trata.
-
-Que en virtud de lo anterior y con fundamento en lo dispuesto por los artículos 57 fracción I y 121 de la Constitución Política Local y satisfechos los requisitos de los diversos 64 y 67 del propio Ordenamiento Constitucional invocado y además en términos de los artículos 184 y 185 de la Ley Orgánica y Reglamentaria del Poder Legislativo, se expide la siguiente:
-
-LEY ESTATAL DE SALUD
+LEY QUE APRUEBA LA ADHESION DE MEXICOAL (SIC) CONVENIO CONSTITUTIVO DEL BANCO DEDESARROLLO (SIC) DEL CARIBE Y SU EJECUCION.
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPITULO UNICO
 
-###### ARTICULO 1º.
+###### ARTICULO 1o.
 
-La presente Ley reglamenta el derecho a la protección de la salud que toda persona tiene consagrado en el artículo 4º de la Constitución Política de los Estados Unidos Mexicanos y en los artículos 12 y 121 de la Constitución Política del Estado Libre y Soberano de Puebla, establece las bases y modalidades de acceso a los servicios de salud proporcionados por el Estado y la competencia de éste en materia de salubridad general y local, así como la forma en que los Municipios prestarán servicios de salud. Es de aplicación en toda la Entidad y sus disposiciones son de orden público e interés social.
+Se aprueba la adhesión de México al Banco de Desarrollo del Caribe.
 
-###### ARTICULO 2º.
+###### ARTICULO 2o.
 
-El derecho a la protección de la Salud, tiene las siguientes finalidades:
+La Secretaría de Hacienda y Crédito Público, será la única entidad autorizada y órgano de enlace para tratar todo lo relativo al Banco de Desarrollo del Caribe.
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
+###### ARTICULO 3o.
 
-I. El bienestar físico y mental del hombre y la mujer, para contribuir al ejercicio pleno de sus capacidades;
+El Banco de México hará, con la garantía del Gobierno Federal, la suscripción de acciones o partes sociales, del Banco de Desarrollo del Caribe, hasta por el equivalente de U.S. dls. 15.600,000.00 (quince millones seiscientos mil dólares, moneda de los Estados Unidos de América), de peso y ley vigentes al 1o. de septiembre de 1969, de los cuales serían pagaderos U.S. dls. 3.562,500.00 (tres millones quinientos sesenta y dos mil quinientos dólares, moneda de los Estados Unidos de América), mediante un pago inicial equivalente al 20% (veinte por ciento) y 5 (cinco) pagos anuales por el equivalente al 16% (dieciséis por ciento), cada uno.
 
-II. La prolongación y el mejoramiento de la calidad de la vida humana;
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1991)</small>
 
-III. La protección y el acrecentamiento de los valores que coadyuven a la creación, conservación y disfrute de condiciones de salud que contribuyan al desarrollo social;
+De igual manera, el Banco de México hará, con la Garantía del Gobierno Federal, la suscripción de acciones o partes sociales del Banco de Desarrollo del Caribe, hasta por el equivalente de U.S.DLS. 6'260,946.12 (SEIS MILLONES DOSCIENTOS SESENTA MIL NOVECIENTOS CUARENTA Y SEIS DOLARES 12/100, MONEDA DE LOS ESTADOS UNIDOS DE AMERICA), de los cuales serían pagaderos en efectivo U.S.DLS. 1'254,601.92 (UN MILLON DOSCIENTOS CINCUENTA Y CUATRO MIL SEISCIENTOS UN DOLARES 92/100 MONEDA DE LOS ESTADOS UNIDOS DE AMERICA), correspondientes al Primer Incremento General del Capital Social y Suscripciones de los Países Miembros del Banco de Desarrollo del Caribe, mediante cinco pagos anuales, equivalentes al 20% (VEINTE POR CIENTO) cada una a partir de 1991.
 
-IV. La extensión de actividades solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
+###### ARTICULO 4o.
 
-V. El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
+El Banco de México, S. A., cubrirá con la garantía del Gobierno Federal, el equivalente de U. S. dls. 7.000,000.00 (siete millones de dólares, moneda de los Estados Unidos de América) correspondiente a la contribución de México al Fondo Especial para el Desarrollo del Banco de Desarrollo del Caribe, a que se refiere el Artículo 8° del Convenio Constitutivo del propio Banco, mediante 5 (cinco) pagos anuales por el equivalente al 20% (veinte por ciento) cada uno.
 
-VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud y;
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 1985)</small>
 
-VII. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud;
+Asimismo, el Banco de México cubrirá, con la garantía del Gobierno Federal, el equivalente a U.S. Dls. 5'000,000.00 (cinco millones de dólares moneda de los Estados Unidos de América) correspondientes a la primera reposición de capital al citado Fondo Especial para el Desarrollo, mediante cinco pagos anuales a partir de 1985.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 1988)</small>
 
-VIII. El reconocimiento, promoción e investigación de la Medicina Tradicional, como un sistema alternativo y complementario en la atención de la salud de la Medicina Alópata, respetando el patrón cultural y sus costumbres étnicas establecidas.
+Asimismo el Banco de México cubrirá, con la garantía del Gobierno Federal, el equivalente a U.S. Dls. 3'333,000.00 (tres millones trescientos treinta y tres mil) dólares de los Estados Unidos de América, correspondientes a la segunda reposición adicional de capital al citado Fondo Especial de Desarrollo, mediante cuatro pagos anuales a partir de 1988.
 
-###### ARTICULO 3º.
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1991)</small>
 
-Son autoridades sanitarias estatales:
-
-I. El Gobernador del Estado;
-
-II. La Secretaría de Salud Pública del Estado;
-
-III. Los Ayuntamientos en el ámbito de su respectiva competencia.
-
-###### ARTICULO 4º.
-
-En los términos de la Ley General de Salud y de la presente Ley, corresponde al Estado de Puebla:
-
-A.- En materia de salubridad general:
-
-I. La atención médica, preferentemente en beneficio de grupos vulnerables;
-
-II. La atención materno-infantil;
-
-III. La prestación de servicios de planificación familiar;
-
-IV. La salud mental;
-
-V. La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
-
-VI. La promoción de la formación de recursos humanos para la salud;
-
-VII. La coordinación de la investigación para la salud y el control de ésta en los seres humanos;
-
-VIII. La información relativa a las condiciones, recursos y servicios de salud;
-
-IX. La educación para la salud;
-
-> <small>(REFORMADA, P.O 2 DE AGOSTO DE 2016)</small>
-
-X. La prevención, orientación, control y vigilancia en materia de nutrición, sobrepeso, obesidad y otros trastornos de la conducta alimentaria, enfermedades respiratorias, enfermedades cardiovasculares y aquellas atribuibles al tabaquismo;
-
-XI. La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
-
-XII. La salud ocupacional en los términos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
-
-XIII. La prevención y el control de enfermedades transmisibles;
-
-XIV. La prevención y el control de las enfermedades no transmisibles y accidentes;
-
-XV. La prevención de la invalidez y la rehabilitación de los inválidos;
-
-XVI. La asistencia social;
-
-XVII. La participación con las Autoridades Federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia, de conformidad con el acuerdo de coordinación específico que al efecto se celebre;
-
-XVIII. Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados para su consumo dentro o fuera del mismo establecimiento basándose en la Norma Oficial Mexicana;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-XIX. Reconocer, validar y aplicar la práctica de la Medicina Tradicional; y
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-XX. Las demás que establezcan la Ley General de Salud y otras disposiciones aplicables.
-
-B.- En materia de salubridad local:
-
-I. Mercados y centros de abasto;
-
-II. Construcciones excepto la de los establecimientos de salud;
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
-
-II Bis. Comercio Ambulante y Comercio en Puesto Semifijo;
-
-III. Cementerios, crematorios y funerarias;
-
-IV. Limpieza pública;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-V. Rastros, unidades de sacrificio o mataderos;
-
-VI. Agua potable y alcantarillado;
-
-VII. Establos, granjas avícolas, porcícolas, apiarios y establecimientos similares;
-
-VIII. Reclusorios o centros de readaptación social;
-
-IX. Baños públicos;
-
-X. Prostitución;
-
-XI. Centros de reunión y espectáculos;
-
-XII. Establecimientos dedicados a la prestación de servicios como peluquerías, salones de belleza o estéticas y otros similares;
-
-XIII. Establecimientos para el hospedaje;
-
-XIV. Transporte estatal y municipal;
-
-XV. Gasolinerías;
-
-XVI. Prevención y control de la rabia en animales y seres humanos, y;
-
-XVII. Las demás materias que determine esta Ley y las disposiciones legales aplicables.
+De igual manera, el Banco de México cubrirá, con la garantía del Gobierno Federal, el equivalente a 5.000,000.00 (cinco millones) de dólares de los Estados Unidos de América, correspondiente a la tercera reposición adicional de capital al citado Fondo Especial de Desarrollo, mediante cuatro pagos anuales, iguales y sucesivos a partir de 1992.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
-###### ARTICULO 5º.
+###### ARTICULO 5o.
 
-El Sistema Estatal de Salud está constituido por las dependencias y entidades de la Administración Pública Local y las personas físicas o morales de los sectores social y privado, que presten servicios de salud, así como por los mecanismos de coordinación de acciones y tiene por objeto dar cumplimiento al derecho a la protección de la salud en el territorio del Estado de Puebla.
-
-El sistema estatal de salud, con la intervención que corresponda al Comité de Planeación para el Desarrollo del Estado, definirá los mecanismos de coordinación y colaboración, en materia de planeación de los servicios de salud en el Estado de conformidad con las disposiciones de esta Ley y las que al respecto sean aplicables.
-
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2018)</small>
+El Banco de México, S. A., será el depositario en México de las disponibilidades del Banco de Desarrollo del Caribe, de conformidad con el Artículo 37 del Convenio Constitutivo del propio Banco.
 
 ###### ARTICULO 5º Bis.
 
 En las poblaciones o comunidades indígenas donde se encuentren habitantes que no hablen español, las autoridades sanitarias podrán promover la participación de sus miembros y darán a conocer las acciones y campañas a las que se hace referencia en las disposiciones previstas en esta Ley, en la lengua o lenguas de uso en la región o comunidad.
 
-###### ARTICULO 6º.
+###### ARTICULO 6o.
 
-El sistema estatal de salud tiene los siguientes objetivos:
+El Gobierno Federal garantizará al Banco de México, S. A., la suscripción de acciones o partes sociales del Banco de Desarrollo del Caribe, así como todas las operaciones que el Banco de México, S. A., realice con el citado Banco, en forma tal que el Banco de México, S. A., nunca resienta pérdida alguna con motivo de dicha suscripción y operaciones.
 
-I. Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
+###### ARTICULO 7o.
 
-II. Contribuir al desarrollo demográfico armónico del Estado;
+La Secretaría de Hacienda y Crédito Público, designará al Gobernador Propietario y al Gobernador Suplente, que fungirán con tal carácter en el Banco de Desarrollo del Caribe.
 
-III. Colaborar al bienestar social de la población del Estado mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos desamparados y minusválidos, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y lo social;
+###### ARTICULO 8o.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+La Secretaría de Hacienda y Crédito Público, designará al Director Ejecutivo y al Director Alterno, que fungirán con tal carácter en el Banco de Desarrollo del Caribe.
 
-IV. Dar impulso al bienestar de la familia y de la comunidad en general, prestando especial atención a la población Indígena, propiciando el desarrollo de sus potencialidades culturales tradicionales; mediante su participación de conformidad con sus valores y organización social; así como a la integración social y al crecimiento físico y mental de la niñez;
+###### ARTICULO 9o.
 
-V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que propicien el desarrollo satisfactorio de la vida;
+El Estado mexicano reconoce la personalidad jurídica del Banco de Desarrollo del Caribe, así como las inmunidades, excepciones fiscales y privilegios a que se refiere el capítulo VIII del Convenio Constitutivo del Banco.
 
-VI. Impulsar en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud y;
+Los tribunales federales serán los únicos competentes para conocer de los negocios en que sea parte el Banco de Desarrollo del Caribe, sus funcionarios o empleados residentes en México o que en alguna forma puedan afectar bienes propiedad de dicha Institución.
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2016)</small>
+Los tribunales en ningún caso podrán dictar mandamientos coercitivos en contra del Banco de Desarrollo de (sic) Caribe, contra sus funcionarios y empleados en su calidad de tales, o que en alguna forma afecten los bienes del Banco.
 
-VII. Promover el conocimiento, desarrollo e investigación de la Medicina Tradicional, así como su práctica en condiciones adecuadas en los espacios físicos e infraestructura proporcionados por el Estado en materia de atención a la salud, y aquellos que el Sistema Estatal de Salud reconozca; respetando la dignidad humana y el ejercicio adecuado de los conocimientos específicos en la materia;
+###### ARTICULO 10o.
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
-
-VIII. Coadyuvar en la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección;
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
-
-IX. Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud, y
-
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2018)</small>
-
-X. Elaborar y promover programas y servicios de salud especialmente dirigidos a las comunidades indígenas de acuerdo a sus tradiciones, usos y costumbres, respetando sus derechos humanos.
-
-###### ARTICULO 7º.
-
-La coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría de Salud Pública del Estado, correspondiéndole a ésta; lo siguiente:
-
-I. Establecer y conducir la política estatal en materia de salud, en los términos de esta Ley y demás disposiciones legales aplicables, de conformidad con las políticas del sistema nacional de salud y con lo dispuesto por el Ejecutivo Estatal;
-
-II. Coordinar los programas de servicios de salud de las dependencias y entidades de la administración pública estatal;
-
-III. Apoyar la coordinación de los programas y servicios de salud de toda dependencia o entidad pública estatal en los términos de la legislación aplicable y de los acuerdos de coordinación que en su caso se celebren.
-
-En tratándose de los programas y servicios de instituciones federales de seguridad social, el apoyo se realizará tomando en cuenta lo que establezcan las leyes que rigen el funcionamiento de dichas instituciones;
-
-IV. Impulsar en los términos de los convenios que al efecto se suscriban, la desconcentración y descentralización a los municipios de los servicios de salud;
-
-V. Promover, coordinar y realizar la evaluación de programas y servicios de salud que le sea solicitada por el Ejecutivo Estatal;
-
-VI. Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de salud del Estado, con sujeción a las disposiciones generales aplicables;
-
-VII. Coordinar el proceso de programación de las actividades de salud en el Estado, con sujeción a las disposiciones legales aplicables;
-
-VIII. Formular sugerencias a las dependencias competentes sobre la asignación de los recursos que requieran los programas de salud del Estado;
-
-IX. Impulsar, en el ámbito estatal, las actividades científicas y tecnológicas en el campo de la salud;
-
-X. Coadyuvar con las dependencias federales competentes a la regulación y control de la transferencia de tecnología en área de salud;
-
-XI. Promover el establecimiento de un sistema estatal de información básica en materia de salud;
-
-XII. Apoyar la coordinación entre las instituciones de salud y las educativas estatales y federales para formar y capacitar recursos humanos para la salud;
-
-XIII. Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del sistema estatal de salud;
-
-XIV. Promover e impulsar la participación de la comunidad del Estado en el cuidado de su salud;
-
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2005)</small>
-
-XV. Impulsar la permanente actualización de las disposiciones legales en materia de salud;
-
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2016)</small>
-
-XVI. Conocer de los casos clínicos que presenten muerte cerebral, pudiendo dar seguimiento a aquellos, cuando se trate de posibles donadores;
-
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2016)</small>
-
-XVII. Promover e impulsar programas y campañas de información sobre los buenos hábitos alimenticios, una buena nutrición y activación física; y
-
-> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2016)</small>
-
-XVIII. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema estatal de Salud, y las que determinen las disposiciones generales aplicables.
-
-###### ARTICULO 8º.
-
-La Secretaría de Salud Pública del Estado promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicio de salud de los sectores público, social y privado, así como sus trabajadores y de los usuarios de los mismos, en términos de las disposiciones que al efecto se expidan.
-
-Asimismo, fomentará la coordinación con los proveedores de insumos para la salud a fin de racionalizar y procurar la disponibilidad de éstos últimos.
-
-###### ARTICULO 9º.
-
-La concertación de acciones entre la Secretaría de Salud Pública del Estado y los integrantes de los sectores social y privado, se realizarán mediante convenios y contratos los cuales se ajustarán a las siguientes bases:
-
-I. Definición de las responsabilidades que suman los integrantes de los sectores social y privado.
-
-II. Determinación de las acciones de orientación, estímulo y apoyo que llevarán a cabo la Secretaría de Salud Pública del Estado.
-
-III. Especificación del carácter operativo de la concertación de acciones, con reserva de las funciones de autoridad de la Secretaría de Salud Pública en el Estado.
-
-IV. Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
+Los funcionarios y empleados del Banco de Desarrollo del Caribe, así como las propiedades y bienes de este Organismo, sus archivos y sus comunicaciones oficiales, disfrutarán de las inmunidades, privilegios y exenciones tributarias a que se refiere el texto del Acuerdo Constitutivo del Banco.
 
 ###### ARTICULO 10.
 
@@ -3103,7 +2883,37 @@ Cuando el presunto infractor impugnare los actos de la Autoridad Sanitaria, se i
 
 Los interesados podrán hacer valer la prescripción, por vía de excepción. La autoridad deberá declararla de oficio.
 
-## TRANSITORIOS
+## TRANSITORIO
+
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+México, D. F., a 29 de diciembre de 1981.- Blas Chumacero Sánchez, S.P.- Marco Antonio Aguilar Cortés, D.P.- Luis León Aponte, S.S.- Silvio Lagos Martínez, D.S.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la Fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y uno.- José López Portillo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Relaciones Exteriores, Jorge Castañeda.- Rúbrica.- El Secretario de Gobernación, Enrique Olivares Santana.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 14 DE ENERO DE 1985.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La primera reposición de capital de México al Fondo Especial de Desarrollo del Banco de Desarrollo del Caribe, se realizará en cinco pagos anuales, iguales y sucesivos a partir de 1985 y serán pagaderos 50% en dólares de los Estados Unidos de América y 50% en su equivalente en pesos mexicanos.
+
+D.O.F. 19 DE ENERO DE 1988.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La segunda reposición de capital de México al Fondo Especial de Desarrollo del Banco de Desarrollo del Caribe, se realizará en cuatro pagos anuales, iguales y sucesivos a partir de 1988 y serán pagaderos 50% en dólares de los Estados Unidos de América y 50% en pesos mexicanos.
+
+D.O.F. 4 DE ENERO DE 1991.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Primer Incremento General del Capital Social y Suscripciones de los Países Miembros del Banco de Desarrollo del Caribe, se realizará mediante cinco pagos anuales, iguales y sucesivos, a partir de 1991 y serán pagaderos 50% en Dólares de los Estados Unidos de América y 50% en pesos mexicanos, cada uno de ellos.
+
+D.O.F. 24 DE DICIEMBRE DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
