@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2018-07-28"
+last_updated: "2019-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -227,13 +227,19 @@ k) El Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades indí
 
 I) El Instituto de la Vivienda del Estado.
 
-m) La Junta Estatal de Caminos.
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2018)</small>
+m) El Instituto de las Mujeres del Estado.
 
-n) Quien presida la Comisión de Desarrollo Económico y Social del Congreso del Estado.
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2019)</small>
 
-ñ) Los secretarios del Ramo y titulares de las entidades de la administración pública del Estado, que acuerde el Presidente del Sistema.
+n) El Instituto Potosino de la Juventud.
+
+ñ) La Junta Estatal de Caminos.
+
+o) Quien presida la Comisión de Desarrollo Económico y Social del Congreso del Estado.
+
+p) Los secretarios del Ramo y titulares de las entidades de la administración pública del Estado, que acuerde el Presidente del Sistema.
 
 Los titulares que formen parte del Sistema Estatal, podrán nombrar representantes para participar en las comisiones de trabajo que se formen.
 
@@ -882,3 +888,11 @@ P.O. 28 DE JULIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 16 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0198.- SE ADICIONA AL ARTÍCULO 8 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
