@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2019-04-16"
+last_updated: "2019-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -109,9 +109,11 @@ En ningún caso el impuesto será menor a 11 veces el valor de la UMA vigente.
 
 La tasa del impuesto es el dos por ciento sobre la base indicada en el artículo anterior.
 
-###### ARTICULO 8º.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2019)</small>
 
-Se considera que el impuesto se causa y debe pagarse en el Estado, cuando la adquisición del vehículo se lleve a cabo dentro de su territorio o, en su defecto, cuando el adquirente efectúe el trámite de cambio de propietario, baja o dotación de placas, o pago del impuesto sobre tenencia o uso de vehículos, en alguna de las Oficinas Recaudadoras de la Entidad.
+###### ARTÍCULO 8º.
+
+Se considera que el impuesto se causa y debe pagarse en el Estado, cuando la adquisición del vehículo se lleve a cabo dentro de su territorio o, en su defecto, cuando el adquirente efectúe el trámite de cambio de propietario, baja o dotación de placas en alguna de las Oficinas Recaudadoras de la Entidad.
 
 ###### ARTICULO 9º.
 
@@ -806,6 +808,10 @@ XVII. Por el acuerdo administrativo para aclaración de libro original y duplica
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 XVIII. Por Divorcio vía administrativa se pagará 37.00.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2019)</small>
+
+La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -3329,8 +3335,24 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 16 DE ABRIL DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0154.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 9°, DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0154.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 9°, DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 16 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0199.- SE REFORMA EL ARTÍCULO 8° DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 16 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0200.- SE ADICIONA AL ARTÍCULO 38, PÁRRAFO ÚLTIMO, DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
