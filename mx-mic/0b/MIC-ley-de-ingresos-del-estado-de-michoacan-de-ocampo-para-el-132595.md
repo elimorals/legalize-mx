@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-13259
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-31"
-last_updated: "2019-06-12"
+last_updated: "2019-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO LEGISLATIVO NÚMERO 
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2019
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2019.
 
 Ley publicada en la Décima Cuarta Sección del Periódico Oficial del Estado, el lunes 31 de diciembre de 2018.
 
@@ -3403,25 +3403,37 @@ Artículo Noveno. Los ingresos por servicios que presta la Procuraduría General
 
 Lo anterior, de conformidad con lo dispuesto en las disposiciones transitorias Segunda y Tercera del Decreto Legislativo N° 631 publicado en la Séptima Sección, del Tomo CLXX del Periódico Oficial del Estado N° 53 del 13 de agosto de 2018.
 
-Artículo Décimo. Se implementará el programa de “borrón y cuenta nueva” durante los primeros cuatro meses del ejercicio 2019 en materia de Derechos de Control Vehicular, que consiste en la condonación de todos los derechos en materia de refrendo y placas de circulación vehicular, incluyendo sus accesorios, desde que se haya generado la obligación de pago y hasta el 2018, siempre y cuando se dé cumplimiento a lo siguiente:
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2019)</small>
 
-1. Se pague dentro de los primeros cuatro meses del ejercicio 2019, el derecho por concepto de placas, refrendo o ambos, según sea el caso;
+Artículo Décimo. Durante los meses del 15 de julio al 15 de diciembre del Ejercicio Fiscal del Año 2019, se condonarán los derechos en materia de control vehicular, incluyendo sus accesorios, tanto para vehículos particulares como los destinados al servicio público, en los siguientes términos:
+
+I. El 100% de los adeudos en materia de derechos de control vehicular del año 2018 y ejercicios anteriores, siempre que se cubran los derechos correspondientes al presente ejercicio fiscal, durante los meses del 15 de julio al 15 de octubre del año que transcurre;
+
+II. El 100% de los adeudos en materia de derechos de control vehicular del año 2017 y ejercicios anteriores, siempre que se pague lo correspondiente a los derechos de los ejercicios fiscales 2018 y 2019 durante el mes del 16 de octubre al 15 de noviembre del presente ejercicio fiscal; y,
+
+III. El 100% de los adeudos en materia de derechos de control vehicular del año 2016 y ejercicios anteriores, siempre que se pague lo correspondiente a los derechos de los ejercicios fiscales 2017 a 2019 durante el mes del 16 de noviembre al 15 de diciembre del presente ejercicio fiscal.
+
+Asimismo, se condonan las multas derivadas del pago de los derechos fuera de tiempo de la renovación anual de concesiones de servicio público, siempre que se encuentre al corriente en sus obligaciones fiscales en materia de control vehicular al año 2019, para lo cual podrán aprovechar el beneficio a que se refiere el presente artículo.
+
+Adicionalmente en todos los casos se deberán cumplir los requisitos previstos en los numerales siguientes:
+
+1. Pague dentro de la vigencia del presente artículo, el derecho por concepto de placas, refrendo o ambos, en los términos previstos en las fracciones I a III del presente artículo.
 
 2. Se solicite la condonación por parte del particular.
 
-3. En caso de que en ejercicio de las facultades de comprobación en esta materia, las autoridades fiscales determinen créditos fiscales que se hubieren causado hasta el ejercicio fiscal de 2018, el contribuyente, podrán incorporarse a los beneficios referidos en el párrafo que antecede.
+3. En caso de que en ejercicio de las facultades de comprobación en esta materia, las autoridades fiscales determinen créditos fiscales que se hubieren causado hasta el Ejercicio Fiscal de 2018, el contribuyente, podrá incorporarse a los beneficios referidos en el párrafo que antecede.
 
-4. Tratándose de créditos fiscales sobre la materia del presente programa, que hubiesen sido impugnados por algún medio de defensa, al momento de solicitar la condonación a que se refiere el numeral 2, el contribuyente deberá acompañar copia sellada del desistimiento correspondiente. Asimismo, en el supuesto de que se impugne el pago de los derechos correspondientes al ejercicio fiscal 2019, quedará sin efectos la condonación, y la autoridad podrá hacerlos exigibles a través del ejercicio de sus facultades.
+4. Tratándose de créditos fiscales sobre la materia del presente programa, que hubiesen sido impugnados por algún medio de defensa, al momento de solicitar la condonación a que se refiere el numeral 2, el contribuyente deberá acompañar copia sellada del desistimiento correspondiente. Asimismo, en el supuesto de que se impugne el pago de los derechos correspondientes al Ejercicio Fiscal 2019, quedará sin efectos la condonación, y la autoridad podrá hacerlos exigibles a través del ejercicio de sus facultades.
 
 5. En el caso de que las autoridades fiscales hayan iniciado procedimiento administrativo de ejecución, con motivo de los créditos fiscales generados por concepto de los derechos a que se refiere el presente programa, este se suspenderá desde el momento de presentación de solicitud de condonación. Durante todo el periodo que dure la suspensión a que se refiere este párrafo, se interrumpirá el término para que se consuma la prescripción a que se refiere el artículo 127 del Código Fiscal del Estado de Michoacán de Ocampo, relacionado con los créditos fiscales correspondientes.
 
-6. Los créditos generados por los automóviles que por abandono de los contribuyentes se encuentren en estado de chatarrización, solo se les condonaran los créditos a su cargo con el Estado en materia vehicular cuando acudan a dar su consentimiento para chatarrisar los mismos a las administraciones de rentas de que se trate, lo anterior con la finalidad de que no se siga contaminando los suelos por su situación material, y atendiendo a la situación jurídica en que se encuentren los mismos, en caso de ser materia de una investigación penal entre otros.
+6. Los créditos generados por los automóviles que por abandono de los contribuyentes se encuentren en estado de chatarrización, solo se les condonarán los créditos a su cargo con el Estado en materia vehicular cuando acudan a dar su consentimiento para chatarrizar los mismos a las administraciones de rentas de que se trate, lo anterior con la finalidad de que no se siga contaminando los suelos por su situación material, y atendiendo a la situación jurídica en que se encuentren los mismos, en caso de ser materia de una investigación penal entre otros.
 
 7. En ningún caso la condonación a que se refiere este artículo dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
 
 8. La solicitud de condonación a que se refiere el presente programa, no constituirá instancia y las resoluciones que dicte la autoridad fiscal al respecto, no podrán ser impugnadas por los medios de defensa.
 
-9. La Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán deberá expedir las disposiciones de carácter general que sean necesarias para la correcta y debida aplicación del presente programa de condonación.
+9. La Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán, deberá expedir las disposiciones de carácter general que sean necesarias para la correcta y debida aplicación del presente programa de condonación.
 
 Artículo Décimo primero. Para efectos del artículo 1° de la Ley de Ingresos del ejercicio fiscal 2019, se entenderá que forma parte de los Impuestos Ecológicos, los impuestos por Remediación Ambiental en la Extracción de Materiales, por la Emisión de Gases a la Atmósfera, por la Emisión de Contaminantes al Suelo, Subsuelo y Agua y por Depósito o Almacenamiento de Residuos; así mismo dentro del rubro Otros Impuestos se consideran los Impuestos por Prestación de Servicios Profesionales, por el Otorgamiento de Uso o Goce Temporal de Bienes Inmuebles, por Actividades Empresariales, que constituyen los Impuestos Cedulares, así como, los Impuestos sobre Negocios Jurídicos e Instrumentos Notariales.
 
@@ -3435,7 +3447,7 @@ El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
 DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 30 treinta días del mes de diciembre de 2018 dos mil dieciocho.
 
-ATENTAMENTE.- “SUFRAGIO EFECTIVO. NO REELECCIÓN”.- PRESIDENTE DE LA MESA DIRECTIVA.- DIP. JOSÉ ANTONIO SALAS VALENCIA.- PRIMER SECRETARIO.- DIP. OCTAVIO OCAMPO CÓRDOVA.- SEGUNDO SECRETARIO.- DIP. OMAR ANTONIO CARREÓN ABUD.- TERCER SECRETARIA.- DIP. MARÍA TERESA MORA COVARRUBIAS. (Firmados).
+ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECTIVA.- DIP. JOSÉ ANTONIO SALAS VALENCIA.- PRIMER SECRETARIO.- DIP. OCTAVIO OCAMPO CÓRDOVA.- SEGUNDO SECRETARIO.- DIP. OMAR ANTONIO CARREÓN ABUD.- TERCER SECRETARIA.- DIP. MARÍA TERESA MORA COVARRUBIAS. (Firmados).
 
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 31 treinta y un días del mes de diciembre del año 2018 dos mil dieciocho.
 
@@ -3456,3 +3468,13 @@ P.O. 12 DE JUNIO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos correspondientes.
+
+P.O. 16 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 163 POR EL QUE "SE REFORMA EL ARTÍCULO DÉCIMO TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 120, MEDIANTE EL CUAL SE EXPIDE LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO, PARA EL EJERCICIO FISCAL DEL AÑO 2019".]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Notifíquese el presente Decreto al titular de la Auditoría Superior de Michoacán, para conocimiento y efectos conducentes.
+
+Artículo Tercero. Dese cuenta del presente Decreto al titular del Poder Ejecutivo del Estado y al titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
