@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-trabajadores-al-servicio-del-estado-de-puebla-7738"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-18"
-last_updated: "2014-11-18"
+last_updated: "2019-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1966.
 
@@ -291,19 +291,23 @@ Cuando por circunstancias especiales deban aumentarse las horas de trabajo, ést
 
 Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2019)</small>
 
-###### ARTÍCULO 26.
+###### ARTICULO 26.
 
-Las mujeres embarazadas, disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo, con goce de sueldo íntegro en ambos casos. Durante la lactancia, tendrá dos descansos extraordinarios al día, de media hora cada uno, para amamantar a sus hijos, previos dictámenes médicos oficiales.
+Las mujeres embarazadas disfrutarán de seis semanas de descanso antes de la fecha que aproximadamente se fije para el parto y de otras ocho semanas después del mismo, con goce de sueldo íntegro en ambos casos.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
 
 Durante la lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia y tendrán acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento preferente durante los primeros seis meses y complementario hasta avanzado el segundo año de edad.
 
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2019)</small>
 
-Los hombres gozarán de cinco días hábiles de descanso con goce de sueldo, con motivo del parto de su esposa o concubina.
+Los hombres disfrutarán de diez días hábiles de descanso con goce de sueldo, por el nacimiento de sus hijas e hijos o la adopción de un infante.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2019)</small>
+
+Asimismo, se otorgará a las y los trabajadores un descanso con goce de sueldo de tres días hábiles, por el fallecimiento de su cónyuge, concubina o concubino, de sus hijas e hijos, así como de su padre o madre, para lo cual deberá hacerlo del conocimiento de su superior jerárquico el primer día de su ausencia y deberá exhibir copia simple del documento en que conste tal suceso en un plazo no mayor de quince días hábiles, contados a partir del primer día hábil de su reingreso.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2006)</small>
 
@@ -1082,3 +1086,23 @@ P.O. 18 DE NOVIEMBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 26 Y SE LE ADICIONA UN ÚLTIMO PÁRRAFO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Secretaría de Finanzas y Administración del Gobierno del Estado, a través de la instancia competente, preverá el impacto presupuestal necesario para la implementación de la presente reforma.
+
+P.O. 16 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 26 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Secretaría de Finanzas y Administración del Gobierno del Estado, a través de la instancia competente, preverá el impacto presupuestal necesario para la implementación de la presente reforma.
