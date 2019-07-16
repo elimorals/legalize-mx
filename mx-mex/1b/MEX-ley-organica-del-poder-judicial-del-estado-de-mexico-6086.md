@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2017-09-04"
+last_updated: "2019-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JULIO DE 2019.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -303,13 +303,13 @@ Los jueces serán los necesarios para el despacho de los asuntos que les corresp
 
 ### CAPITULO PRIMERO. De las designaciones
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 16 DE JULIO DE 2019)</small>
 
 ###### Artículo 16.
 
-Los Magistrados del Tribunal Superior de Justicia y los jueces serán designados por el Consejo de la Judicatura del Estado de México, previo concurso de oposición público y abierto.
+Los Magistrados del Tribunal Superior de Justicia y los Jueces serán designados por el Consejo de la Judicatura del Estado de México, previa aprobación de un examen de admisión a un curso de capacitación y aprobado éste, se tendrá derecho a presentar el concurso de oposición mismos que serán públicos y abiertos.
 
-El proceso de selección y nombramiento de magistrados se regirá por los principios de legalidad, veracidad, acceso a la información, publicidad, libre concurrencia, igualdad, transparencia, objetividad, razonabilidad, mérito, idoneidad y capacidad.
+El proceso de selección y nombramiento de los Magistrados que deberá recaer en Jueces de primera instancia que hayan sido ratificados por el Consejo de la Judicatura, o en Juristas con méritos profesionales y académicos reconocidos, se regirá por los principios de legalidad, veracidad, acceso a la información, publicidad, igualdad, transparencia, objetividad, razonabilidad, mérito, idoneidad y capacidad.
 
 ###### Artículo 17.
 
@@ -413,9 +413,9 @@ II. No ser ministro de algún culto religioso, a menos que se separe formal, mat
 
 III. No tener impedimento físico o enfermedad que lo imposibilite para el desempeño del cargo; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 16 DE JULIO DE 2019)</small>
 
-IV. (DEROGADA, G.G. 10 DE ENERO DE 2010)
+IV. Haber aprobado el curso de capacitación y el concurso de oposición correspondientes.
 
 ###### Artículo 31.
 
@@ -471,9 +471,21 @@ XI. Expedir y modificar el Reglamento de Selección y Nombramiento de Magistrado
 
 XII. Expedir y modificar el Reglamento de Selección y Nombramiento de Consejeros de la Judicatura;
 
-> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 16 DE JULIO DE 2019)</small>
 
-XIII. Ejercer las atribuciones que le señalen esta ley y otros ordenamientos.
+XIII. Nombrar a los Magistrados del Pleno y Jueces de primera instancia integrantes del Consejo de la Judicatura;
+
+> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2019)</small>
+
+XIV. Resolver sobre las licencias y renuncias que presenten los Magistrados y Jueces de primera instancia integrantes del Consejo de la Judicatura;
+
+> <small>(ADICIONADA, G.G. 16 DE JULIO DE 2019)</small>
+
+XV. Imponer a los Magistrados y Jueces de primera instancia integrantes del Consejo de la Judicatura, previa la garantía de audiencia y defensa, las sanciones que procedan conforme a la ley y que no estén encomendadas expresamente a otras autoridades, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 16 DE JULIO DE 2019)</small>
+
+XVI. Ejercer las atribuciones que le señalen esta ley y otros ordenamientos.
 
 ###### Artículo 34.
 
@@ -727,17 +739,13 @@ El Consejo de la Judicatura se integra por:
 
 I. Un presidente, que será el del Tribunal Superior de Justicia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2019)</small>
 
-> <small>(REFORMADA, G.G. 10 DE ENERO DE 2010)</small>
+II. Dos Magistrados del Pleno del Tribunal Superior de Justicia designados por el Pleno del Tribunal Superior de Justicia;
 
-II. Dos magistrados del pleno del Tribunal Superior de Justicia designados por el Consejo de la Judicatura;
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2019)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, G.G. 10 DE ENERO DE 2010)</small>
-
-III. Un Juez de Primera Instancia designado por el Consejo de la Judicatura;
+III. Dos jueces de primera instancia designados por el propio Pleno del Tribunal Superior de Justicia;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -745,11 +753,9 @@ III. Un Juez de Primera Instancia designado por el Consejo de la Judicatura;
 
 IV. Uno designado por el titular del Ejecutivo del Estado; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2019)</small>
 
-> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2010)</small>
-
-V. Dos designados por la Legislatura del Estado.
+V. Uno designado por la Legislatura del Estado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -757,19 +763,15 @@ V. Dos designados por la Legislatura del Estado.
 
 Las personas designadas por el Ejecutivo y la Legislatura deberán cumplir con los requisitos que para magistrado se exigen por la Constitución Política del Estado, salvo el de haber servido en el Poder Judicial del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, G.G. 16 DE JULIO DE 2019)</small>
 
-> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2010)</small>
+Los Magistrados y los Jueces designados por el Pleno del Tribunal Superior de Justicia, deberán tener cuando menos cinco años en esa categoría, no haber sido sancionado administrativamente con suspensión en el cargo y que se hayan distinguido por su capacidad profesional y honorabilidad en el ejercicio de sus actividades. El Consejo de la Judicatura emitirá acuerdo previo, que establezca los términos y procedimientos al que deberán sujetarse los interesados en participar en estas designaciones.
 
-Los magistrados y el juez designados por el Consejo de la Judicatura deberán tener cuando menos cinco años en esa categoría, no haber sido sancionados administrativamente con suspensión en el cargo y que se hayan distinguido por su capacidad profesional y honorabilidad en el ejercicio de sus actividades. El Consejo de la Judicatura emitirá acuerdo previo, que establezca los términos y procedimiento al que deberán sujetarse los interesados en participar en estas designaciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, G.G. 16 DE JULIO DE 2019)</small>
 
 ###### Artículo 54.
 
-Los integrantes del Consejo de la Judicatura durarán en su encargo cinco años y serán sustituidos de manera escalonada. Los magistrados y el juez consejeros al concluir su encargo se reintegrarán a la función jurisdiccional que les corresponda.
+Los integrantes del Consejo de la Judicatura durarán en su encargo cinco años y serán sustituidos de manera escalonada. Los Magistrados y los Jueces Consejeros al concluir su encargo se reintegrarán a la función jurisdiccional que les corresponda.
 
 ###### Artículo 55.
 
@@ -823,9 +825,9 @@ Son facultades del Consejo de la Judicatura:
 
 I. Velar por la autonomía y la independencia de los miembros del Poder Judicial y evitar que se afecte su imparcialidad y libertad para juzgar;
 
-> <small>(REFORMADA, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2019)</small>
 
-II. Designar a los jueces y al personal de los juzgados, mediante exámenes de oposición abiertos;
+II. Designar a los Jueces y al personal de los juzgados, mediante cursos de capacitación y concursos de oposición;
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -841,11 +843,13 @@ V. Solicitar a la Legislatura del Estado la destitución del magistrado que haya
 
 Para este efecto el Consejo de la Judicatura allegará los elementos que fundamenten y motiven su petición;
 
-VI. Resolver las renuncias que presenten los magistrados, remitiéndolas para su aprobación a la Legislatura o a la Diputación Permanente, así como las de los miembros del propio consejo, las de los jueces y demás servidores públicos del Poder Judicial;
+> <small>(REFORMADA, G.G. 16 DE JULIO DE 2019)</small>
+
+VI. Resolver las renuncias que presenten los Magistrados, remitiéndolas para su aprobación a la Legislatura o la Diputación Permanente; así como las de los Jueces y demás servidores públicos del Poder Judicial;
 
 VII. Imponer a los servidores públicos judiciales, previa la garantía de audiencia y defensa, las sanciones que procedan conforme a la ley y que no estén encomendadas expresamente a otras autoridades;
 
-VIII. Fijar las bases, convocar y realizar el procedimiento de insaculación para cubrir las plazas vacantes de sus miembros, de acuerdo con lo establecido por esta ley y establecer las previsiones para su sustitución, en casos de ausencia temporal o absoluta;
+VIII. (DEROGADA, G.G. 16 DE JULIO DE 2019)
 
 IX. Suspender o destituir en el ejercicio de sus cargos a los jueces, secretarios, ejecutores y demás servidores judiciales, previa la garantía de audiencia y defensa, cuando a su juicio y comprobación de los hechos, hayan realizado actos de indisciplina, mala conducta, faltas graves o cuando incurran en la comisión de delito en el desempeño de sus funciones, denunciando, en su caso, los hechos al Ministerio Público;
 
@@ -979,13 +983,9 @@ XIII. Las demás que le otorguen las leyes.
 
 En cada distrito o región judicial habrá el número de tribunales o juzgados de primera instancia que el Consejo de la Judicatura determine, los que tendrán competencia para conocer de los asuntos civiles, mercantiles, penales, de lo familiar, de justicia para adolescentes y demás materias en que ejerzan su jurisdicción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE JULIO DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 66.
-
-Los jueces de primera instancia durarán en su encargo seis años y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a ésta Ley. El Consejo de la Judicatura podrá ratificarlos por periodos iguales; previa aprobación de exámenes de actualización, cuando su función haya sido desempeñada con probidad, eficacia, profesionalismo y que su expediente no tenga notas de demérito.
+Artículo. 66.- Los Jueces de primera instancia durarán en su encargo seis años y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a esta ley. El Consejo de la Judicatura, al término de tal periodo, podrá ratificarlos previa aprobación de exámenes de actualización, cuando su función haya sido desempeñada con probidad, eficacia, profesionalismo y que su expediente no tenga notas de demerito.
 
 > <small>(REFORMADO, G.G. 3 DE OCTUBRE DE 2005)</small>
 
@@ -1005,13 +1005,11 @@ V. Los demás que el Consejo de la Judicatura estime pertinentes.
 
 Si por cualquier motivo superveniente el nombramiento de un juez quedare sin efecto, el Consejo de la Judicatura acordará lo conducente. En este caso, los actos en que hubiere intervenido serán legalmente válidos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.G. 16 DE JULIO DE 2019)</small>
 
 ###### Artículo 68.
 
-Los jueces de primera instancia deberán reunir los mismos requisitos que los magistrados, menos la edad, que bastará que sea de 28 años, cinco años de poseer título de licenciado en derecho y de ejercicio profesional y haber aprobado el examen de oposición.
+Los Jueces de primera instancia deberán reunir los mismos requisitos que los Magistrados, menos la edad, que bastará que sea de 28 años, cinco años de poseer título de licenciado en derecho y de ejercicio profesional, y haber aprobado el curso de capacitación y el concurso de oposición correspondientes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1185,11 +1183,13 @@ En cada distrito judicial habrá el número de juzgados de cuantía menor que de
 
 Los juzgados de cuantía menor ejercerán su jurisdicción en el ámbito territorial que determine el pleno del Tribunal Superior de Justicia y tendrán la competencia que señale esta ley y los demás ordenamientos aplicables.
 
-> <small>(REFORMADO, G.G. 3 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE JULIO DE 2019)</small>
 
 ###### Artículo 80.
 
-Los jueces de cuantía menor deberán cumplir los requisitos establecidos en la Constitución Política del Estado y aprobar el examen de oposición; durarán en su encargo tres años. El Consejo de la Judicatura podrá ratificarlos por periodos iguales, previa aprobación de exámenes de actualización, cuando su función haya sido desempeñada con probidad, eficiencia, profesionalismo y que su expediente no tenga notas de demérito.
+Los Jueces de cuantía menor deberán cumplir los requisitos establecidos en la Constitución Política del Estado y aprobar el curso de capacitación y el concurso de oposición; durarán en su encargo tres años. El Consejo de la Judicatura podrá ratificarlos, previa aprobación de exámenes de actualización, cuando su función haya sido desempeñada con probidad, eficiencia, profesionalismo y que su expediente no tenga notas de demérito.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], G.G. 3 DE OCTUBRE DE 2005)</small>
 
 Para la ratificación de los jueces de cuantía menor, el Consejo de la Judicatura tomará además en consideración, los siguientes elementos:
 
@@ -1450,6 +1450,10 @@ La emisión de los peritajes en los asuntos judiciales constituye una función p
 ###### Artículo 97.
 
 Las licencias para los servidores públicos del Poder Judicial, se concederán cuando estuvieren fundadas a juicio del Consejo de la Judicatura o conforme a las leyes laborales aplicables.
+
+> <small>(ADICIONADO, G.G. 16 DE JULIO DE 2019)</small>
+
+Las licencias para los Magistrados y Jueces de primera instancia integrantes del Consejo de la Judicatura se concederán por el Pleno del Tribunal Superior de Justicia cuando estuvieran fundadas y conforme a las leyes laborales aplicables.
 
 ###### Artículo 98.
 
@@ -2143,13 +2147,11 @@ IX. Cursos continuos de preparación para las distintas categorías de la Carrer
 
 ### CAPITULO UNICO. De la Carrera Judicial
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ES</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE JULIO DE 2019)</small>
 
 ###### Artículo 157.
 
-El ingreso y promoción para las categorías que conforman la Carrera Judicial, se realizarán invariablemente mediante concursos de oposición que serán abiertos, y en los que no sólo podrán participar los servidores públicos del Poder Judicial.
+El ingreso y la promoción para las categorías que conforman la Carrera Judicial, se realizarán cursos de capacitación e invariablemente mediante concursos de oposición que serán abiertos, y en los que no sólo podrán participar los servidores públicos del Poder Judicial.
 
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -2163,9 +2165,9 @@ La promoción de los servidores del Poder Judicial, se hará mediante el sistema
 
 La carrera judicial está integrada por las siguientes categorías:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 16 DE JULIO DE 2019)</small>
 
-I. (DEROGADA, G.G. 10 DE ENERO DE 2010)
+I. Magistrado;
 
 II. Juez de primera instancia;
 
@@ -3254,3 +3256,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 16 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 69.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 16; 30 EN SU FRACCIÓN IV; 33 EN SU FRACCIÓN XIII; 53 EN SUS FRACCIONES II, III Y V Y SU ÚLTIMO PÁRRAFO; 54; 63 EN SUS FRACCIONES II Y VI; 66 EN SU PRIMER PÁRRAFO; 68; 80 EN SU PRIMER PÁRRAFO; 157 EN SU PRIMER PÁRRAFO Y 159 EN SU FRACCIÓN I; SE ADICIONAN LAS FRACCIONES XIV, XV Y XVI AL ARTÍCULO 33; UN SEGUNDO PÁRRAFO AL ARTÍCULO 97, Y SE DEROGA LA FRACCIÓN VIII DEL ARTÍCULO 63 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los procedimientos y actividades que se hayan iniciado previo a la entrada en vigor del presente Decreto, en relación con las disposiciones del mismo, deberán tramitarse hasta su conclusión en los términos de las normas que estuvieron vigentes en su inicio.
