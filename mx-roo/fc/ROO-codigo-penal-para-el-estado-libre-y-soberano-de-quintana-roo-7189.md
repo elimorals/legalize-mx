@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2018-10-17"
+last_updated: "2019-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -3277,6 +3277,16 @@ Cuando la cuantía a que asciendan las operaciones a que hace referencia este ar
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
+ARTICULO 220 QUINQUIES. A quien, a través de una llamada telefónica o cualquier otro medio, realice un aviso falso a los servicios de emergencia o su equivalente que provoque la movilización de personal de emergencia, protección civil, bomberos o de las instituciones de seguridad pública, se le impondrá de seis meses a dos años de prisión y de cincuenta a quinientos días multa.
+
+La misma pena se impondrá a quien, a través de una llamada telefónica o cualquier otro medio, obstaculice la prestación de los servicios de emergencia o su equivalente.
+
+Además de la pena señalada, el sujeto activo será responsable de los daños o perjuicios ocasionados a un tercero, como consecuencia de la conducta descrita en el primer párrafo de este artículo.
+
+Este delito se perseguirá de oficio.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JULIO DE 2019)</small>
+
 ###### ARTICULO 209.
 
 Comete el delito de tráfico de influencias:
@@ -3293,7 +3303,15 @@ Al que cometa el delito de tráfico de influencia, se le impondrán de dos años
 
 ## TITULO CUARTO. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO I. FRAUDE PROCESAL
+### CAPÍTULO VIII. VENTA Y/O DISTRIBUCIÓN ILÍCITA DE BEBIDAS ALCOHÓLICAS
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2019)</small>
+
+ARTICULO 220 SEXIES.- Se le impondrá prisión de seis meses a un año y de cincuenta a doscientos días multa, a quien sin contar con la licencia o el permiso emitido por la autoridad facultada para ello o alterando los términos y condiciones que se contengan en la licencia o permiso, venda o distribuya bebidas alcohólicas. La misma pena se aplicará a quien venda o distribuya bebidas alcohólicas en horarios no permitidos de acuerdo con la licencia o permiso correspondiente.
+
+La sanción a que se refiere el párrafo anterior, se duplicará cuando se venda o distribuya bebidas alcohólicas a menores de dieciocho años de edad, aun cuando se efectúe en los establecimientos y horarios autorizados.
+
+Para efectos de este artículo, se entiende por bebidas alcohólicas las referidas en el artículo 3 de la Ley Sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo.
 
 ###### ARTICULO 210.
 
@@ -3315,7 +3333,7 @@ Al particular que estando obligado legalmente a la custodia, administración o a
 
 Las mismas penas se aplicarán al que, a sabiendas, adquiera indebidamente o haga figurar como suyos, bienes que un servidor público haya adquirido en contravención a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo.
 
-### CAPITULO II. FALSO TESTIMONIO
+### CAPITULO I. FRAUDE PROCESAL
 
 ###### ARTICULO 213.
 
@@ -3345,13 +3363,13 @@ Al que por medio de la violencia física o moral, exija a una autoridad la ejecu
 
 Cuando la ley autorice el empleo de apremio para hacer efectivas las determinaciones de la autoridad, se consumará el delito de desobediencia cuando se hubiere agotado uno de los medios de apremio.
 
-### CAPITULO III. DENUNCIAS FALSAS
+### CAPITULO II. FALSO TESTIMONIO
 
 ###### ARTICULO 218.
 
 Al que quebrante los sellos puestos por orden de la autoridad pública competente, se le impondrá prisión de seis meses a dos años y de veinte a sesenta días multa.
 
-### CAPITULO IV. EVASION DE PRESOS
+### CAPITULO III. DENUNCIAS FALSAS
 
 ###### ARTICULO 219.
 
@@ -3359,7 +3377,7 @@ Al que verbalmente o por medio de expresiones físicas, ultraje a un servidor p�
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
-### CAPITULO V. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
+### CAPITULO IV. EVASION DE PRESOS
 
 ###### ARTICULO 220.
 
@@ -3377,9 +3395,7 @@ V. Instale en las calles, avenidas, caminos, calzadas, plazas, paseos, pasajes, 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPITULO VI. ENCUBRIMIENTO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+### CAPITULO V. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 220
 
@@ -3391,9 +3407,15 @@ Además de la pena señalada, el sujeto activo será responsable de los daños o
 
 Este delito se perseguirá de oficio.
 
+### CAPITULO VI. ENCUBRIMIENTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2014)</small>
+
 ### CAPITULO VII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
 > <small>(REFORMADO, P.O. 27 DE ABRIL DE 2018)</small>
+
+## TITULO QUINTO. DELITOS CONTRA LA ECONOMIA PUBLICA ESTATAL
 
 ### CAPITULO VIII. DE LA OMISION DE LAS ORDENES DE PROTECCION
 
@@ -3403,7 +3425,11 @@ ARTICULO 235 BIS.- Se aplicará de uno a seis años de prisión y hasta cien dí
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2016)</small>
 
-## TITULO QUINTO. DELITOS CONTRA LA ECONOMIA PUBLICA ESTATAL
+###### ARTICULO 221.
+
+Al que para obtener un beneficio indebido para sí o para otro, simule un acto jurídico o un acto o escrito judicial o altere elementos de prueba en perjuicio de otro, se le impondrá de seis meses a cinco años de prisión y de veinte a doscientos días multa.
+
+Si el juicio que se sigue en contra de un depositario judicial resultare como consecuencia el secuestro de una cosa embargada o depositada con anterioridad, se presumirá que éste fue simulado.
 
 ### CAPITULO IX. DELITOS CONTRA LOS PRINCIPIOS DEL SISTEMA PENAL ACUSATORIO
 
@@ -3427,14 +3453,6 @@ VII. Estando legalmente obligado, dilate la puesta a disposición ante la autori
 
 La misma pena establecida en el primer párrafo de este artículo, se impondrá al Juez, Fiscal o Agente del Ministerio Público que se ausente de un acto procesal con el propósito de suspenderlo o diferirlo.
 
-###### ARTICULO 221.
-
-Al que para obtener un beneficio indebido para sí o para otro, simule un acto jurídico o un acto o escrito judicial o altere elementos de prueba en perjuicio de otro, se le impondrá de seis meses a cinco años de prisión y de veinte a doscientos días multa.
-
-Si el juicio que se sigue en contra de un depositario judicial resultare como consecuencia el secuestro de una cosa embargada o depositada con anterioridad, se presumirá que éste fue simulado.
-
-### CAPITULO I. DELITOS CONTRA LA RIQUEZA FORESTAL DEL ESTADO
-
 ###### ARTICULO 222.
 
 Al que interrogado por alguna autoridad en ejercicio de sus funciones o con motivo de ellas afirme una falsedad, niegue u oculte la verdad o alguna circunstancia que pruebe cualquier hecho, se le impondrá de seis meses a dos años de prisión y de diez a sesenta días multa. Lo previsto en este artículo no es aplicable al que tenga el carácter de inculpado.
@@ -3445,11 +3463,7 @@ La misma pena se impondrá al que a sabiendas presente testigos falsos o que por
 
 Al que espontáneamente se retracte de sus falsas declaraciones, siempre y cuando lo haga antes de que se dicte sentencia se le impondrá de seis meses a un año de prisión o de diez a cincuenta días multa.
 
-### CAPÍTULO I
-
-Ejercicio ilícito de servicio público.
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+### CAPITULO I. DELITOS CONTRA LA RIQUEZA FORESTAL DEL ESTADO
 
 ###### ARTICULO 224.
 
@@ -3461,7 +3475,11 @@ II.- Al que para que un inocente aparezca culpable de un delito ponga sobre él 
 
 En los casos precedentes, si el imputado es declarado penalmente responsable por razón de las falsas denuncias, se impondrá al denunciante o querella (sic), de dos a cinco años de prisión.
 
-### CAPITULO II. INCOMPATIBILIDAD DE LABORES
+### CAPÍTULO I
+
+Ejercicio ilícito de servicio público.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 225.
 
@@ -3487,7 +3505,7 @@ Si la reaprehensión del evadido se logra por gestiones del responsable de la ev
 
 Al evadido, no se le aplicará sanción alguna, pero si ejerciere violencia en las personas o fuerza en las cosas, o bien actuare de acuerdo con otro u otros detenidos, la pena será de cuatro meses a cuatro años de prisión.
 
-### CAPITULO III. DELITOS CONTRA EL BUEN DESPACHO DE LA ADMINISTRACIÓN
+### CAPITULO II. INCOMPATIBILIDAD DE LABORES
 
 ###### ARTICULO 230.
 
@@ -3497,7 +3515,7 @@ A quien quebrante una pena no privativa de libertad distinta a la prevista en el
 
 Al que favorezca el quebrantamiento de la pena o medida de seguridad, se le impondrá de seis meses a un año de prisión. Si se trata de un servidor público que tenga a su cargo el cumplimiento de la pena o medida, la pena de prisión será de un año a un año seis meses y privación del cargo.
 
-### CAPITULO IV. COALICION INDEBIDA
+### CAPITULO III. DELITOS CONTRA EL BUEN DESPACHO DE LA ADMINISTRACIÓN
 
 ###### ARTICULO 231.
 
@@ -3561,7 +3579,7 @@ Se presume que no se tomaron las precauciones ni las providencias indispensables
 
 El órgano jurisdiccional, teniendo en cuenta la naturaleza del hecho, las características personales del sujeto activo y las demás que consignan el Artículo 52 de este Código, podrá imponer en los casos de encubrimiento, la mitad de la sanción que corresponda, debiendo hacer constar las razones en que se funda para determinar tal sanción.
 
-### CAPITULO V. INFIDELIDAD DE LA CUSTODIA DE DOCUMENTOS
+### CAPITULO IV. COALICION INDEBIDA
 
 ###### ARTICULO 235.
 
@@ -3583,17 +3601,15 @@ Para efectos de la suspensión e inhabilitación señaladas en el párrafo anter
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-### CAPITULO I. ABANDONO DE EMPLEO
+### CAPITULO V. INFIDELIDAD DE LA CUSTODIA DE DOCUMENTOS
 
-### CAPITULO II. NEGLIGENCIA EN EL DESEMPEÑO DE FUNCION O CARGO
+### CAPITULO I. ABANDONO DE EMPLEO
 
 ## TITULO SEXTO. DELITOS CONTRA LA ADMINISTRACION PUBLICA
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
-### CAPITULO III. IRRESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO
-
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
+### CAPITULO II. NEGLIGENCIA EN EL DESEMPEÑO DE FUNCION O CARGO
 
 ###### ARTICULO 236.
 
@@ -3621,9 +3637,9 @@ Los productos explotados, transportados o adquiridos ilegalmente, así como los 
 
 ## TITULO SEPTIMO. IRRESPONSABILIDAD EN EL DESEMPEÑO DE EMPLEO, CARGO O COMISION
 
-### CAPITULO I. APROVECHAMIENTO ILICITO DEL PODER
+### CAPITULO III. IRRESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 238.
 
@@ -3651,7 +3667,9 @@ Al infractor de las fracciones III, IV, V y VI se le impondrán de dos a siete a
 
 Cuando en el ejercicio ilícito de servicio público se cause un daño a la administración pública o a los particulares, independientemente de las sanciones que correspondan por delitos que se integren, se podrá aumentar la pena señalada en el artículo anterior, hasta dos años más.
 
-### CAPITULO II. ABUSO DE AUTORIDAD
+### CAPITULO I. APROVECHAMIENTO ILICITO DEL PODER
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 240.
 
@@ -3661,9 +3679,7 @@ Se impondrá de seis meses a dos años de prisión, y de cinco a cincuenta días
 
 Sanción igual a la señalada por el artículo anterior, corresponderá al servidor público que por sí o por interpósita persona desempeñe la profesión que tenga, cuando le esté vedado su ejercicio por la Ley en razón del empleo, cargo o comisión que le haya sido conferido.
 
-### CAPITULO I. COHECHO
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+### CAPITULO II. ABUSO DE AUTORIDAD
 
 ###### ARTICULO 242.
 
@@ -3679,7 +3695,7 @@ En el caso en que sea un encargado de la fuerza pública quien niegue el auxilio
 
 Se sancionará con uno a cinco años de prisión, a los servidores públicos que teniendo a su cargo la prestación de un servicio público, lo suspenda en todo o en partes sin causa justificada, en perjuicio de los usuarios.
 
-### CAPITULO II. PECULADO
+### CAPITULO I. COHECHO
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -3691,7 +3707,7 @@ I.- Se coaliguen para tomar medidas contrarias a una Ley, Reglamento o cualquier
 
 II.- Abandone su cargo, comisión o empleo, sin causa legítima con el deliberado propósito de impedir, entorpecer o suspender la Administración Pública, en cualquiera de sus ramas.
 
-### CAPITULO III. CONCUSION
+### CAPITULO II. PECULADO
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -3705,7 +3721,7 @@ II.- Abran o permitan abrir sin orden legítima, documentos, cuya custodia les e
 
 ## TITULO OCTAVO. DELITO DE ABUSO DE AUTORIDAD
 
-### CAPITULO IV. INTIMIDACION
+### CAPITULO III. CONCUSION
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -3719,21 +3735,9 @@ Se presumirá que existe abandono de empleo cuando el servidor público no se pr
 
 No será punible el abandono de empleo, cuando la autoridad correspondiente omita resolver y notificar al interesado, dentro del término de treinta días a partir de que tomó conocimiento, el acuerdo recaído a la dimisión.
 
-### CAPÍTULO V. Enriquecimiento Ilícito
+### CAPITULO IV. INTIMIDACION
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
-
-ARTICULO 259 BIS. Se sancionará a quien, con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito.
-
-Existe enriquecimiento ilícito si durante el tiempo que el Servidor Público se encuentra en el desempeño de su cargo, o al separarse de él por haber terminado el período de sus funciones o por cualquier otro motivo estuviera en posesión de bienes, sea por sí o por interpósita persona, que sobrepase notoriamente las posibilidades económicas de acrecentar el patrimonio declarado o conocido a la fecha de su ingreso al servicio, por razón del importe de sus ingresos y de sus gastos ordinarios.
-
-Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
-
-I. Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar.
-
-II. Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización se impondrán de seis meses a dos años de prisión y de cien a doscientos días multa.
-
-III. Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización se impondrán de dos años a catorce años de prisión y multa de cien a ciento cincuenta días multa.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 248.
 
@@ -3756,6 +3760,22 @@ IV.- Los defensores de oficio que sin causa justificada abandonen la defensa, om
 Se impondrá de seis meses a dos años de prisión, y de diez a cincuenta días multa, a los servidores públicos que con el solo objeto de justificar el desempeño de su actividad, brinden informes o partes falsas e infundadas, cuando este último requisito sea indispensable y de práctica común en sus labores.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE JUNIO DE 2013)</small>
+
+### CAPÍTULO V. Enriquecimiento Ilícito
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+
+ARTICULO 259 BIS. Se sancionará a quien, con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito.
+
+Existe enriquecimiento ilícito si durante el tiempo que el Servidor Público se encuentra en el desempeño de su cargo, o al separarse de él por haber terminado el período de sus funciones o por cualquier otro motivo estuviera en posesión de bienes, sea por sí o por interpósita persona, que sobrepase notoriamente las posibilidades económicas de acrecentar el patrimonio declarado o conocido a la fecha de su ingreso al servicio, por razón del importe de sus ingresos y de sus gastos ordinarios.
+
+Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
+
+I. Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar.
+
+II. Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización se impondrán de seis meses a dos años de prisión y de cien a doscientos días multa.
+
+III. Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización se impondrán de dos años a catorce años de prisión y multa de cien a ciento cincuenta días multa.
 
 ###### ARTICULO 250
 
@@ -4482,3 +4502,9 @@ Tercero. La Secretaría de Finanzas y Planeación, realizará las acciones neces
 Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública, y organismos públicos autónomos, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes.
 
 Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 16 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 316 POR EL QUE SE ADICIONA EL CAPÍTULO VIII DENOMINADO "VENTA Y/O DISTRIBUCIÓN ILÍCITA DE BEBIDAS ALCOHÓLICAS" Y EL ARTÍCULO 220 SEXIES, AL TÍTULO TERCERO "DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA" DE LA SECCIÓN CUARTA "DELITOS CONTRA EL ESTADO" DEL LIBRO SEGUNDO "PARTE ESPECIAL" DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
