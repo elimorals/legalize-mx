@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-colegio-de-bachilleres-115705"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-07-20"
-last_updated: "2018-12-12"
+last_updated: "2019-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115705&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-12-29"
 ---
 # ESTATUTO ORGANICO DEL COLEGIO DE BACHILLERES
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE SEPTIEMBRE DE 2019 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JULIO DE 2019.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 20 de julio de 2016.
 
@@ -301,7 +303,9 @@ XXI. Emitir dictámenes, opiniones e informes, que le sean solicitados por otras
 
 XXII. Autorizar por escrito, a aquellos servidores del Colegio que podrán firmar la documentación relacionada con asuntos de la competencia de la Dirección General;
 
-XXIII. Ejecutar las sanciones laborales o administrativas a que se haga acreedor el personal del Colegio, de manera conjunta con el Abogado General o el OIC;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2019)</small>
+
+XXIII. Ejecutar las sanciones laborales o administrativas a que se haga acreedor el personal del Colegio, de manera conjunta con el Titular de la Unidad Encargada del Apoyo Jurídico o el OIC;
 
 XXIV. Ejecutar los acuerdos emanados de la Junta Directiva, y
 
@@ -317,9 +321,13 @@ I. La Secretaría General;
 
 II. La Secretaría de Servicios Institucionales;
 
-III. La Secretaría Administrativa;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2019)</small>
 
-IV. El Abogado General;
+III. La Unidad de Administración y Finanzas;
+
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2019)</small>
+
+IV. La Unidad Encargada del Apoyo Jurídico;
 
 V. Los Coordinadores Sectoriales, y
 
@@ -388,6 +396,10 @@ XXV. Normar la integración y conformación de la Gaceta (Órgano Informativo de
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
 
 XXVI. Supervisar el cumplimiento de lo establecido por la Ley General del Servicio Profesional Docente.
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2019)</small>
+
+XXVII. Expedir copias certificadas de las constancias que obran en los archivos de las áreas de su adscripción.
 
 ###### Artículo 19.
 
@@ -545,7 +557,9 @@ XXV. Promover la interacción con instituciones educativas para intercambiar inf
 
 XXVI. Participar en la concertación de los acuerdos y convenios institucionales en los que intervengan y forme parte el Colegio;
 
-XXVII. Coordinar el programa editorial de publicaciones y con el Abogado General el registro de éstas ante el Instituto Nacional de Derechos de Autor;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2019)</small>
+
+XXVII. Coordinar el programa editorial de publicaciones y con el Titular de la Unidad Encargada del Apoyo Jurídico, el registro de éstas ante el Instituto Nacional de Derechos de Autor;
 
 XXVIII. Vigilar que el diseño y la producción del repositorio de objetos de aprendizaje se apeguen a las disposiciones emitidas por las autoridades competentes;
 
@@ -655,6 +669,10 @@ XLV. Conducir dentro del ámbito de su competencia todas aquellas atribuciones q
 
 XLVI. Determinar los criterios y lineamientos para dar cumplimiento a las disposiciones en materia de atribuciones de las áreas a su cargo emitidas por las instancias correspondientes.
 
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2019)</small>
+
+XLVII. Expedir copias certificadas de las constancias que obran en los archivos de las áreas de su adscripción.
+
 ###### Artículo 24.
 
 La Secretaría de Servicios Institucionales está conformada por la Dirección de Estadística y Tecnología de Información y Comunicación y la Dirección de Administración y Servicios Escolares.
@@ -757,9 +775,11 @@ XXIII. Proponer y supervisar la realización de cursos de capacitación y actual
 
 XXIV. Proponer y supervisar la realización de cursos de capacitación y actualización para personal que atiende a los alumnos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2019)</small>
+
 ###### Artículo 27.
 
-Corresponde a la Secretaría Administrativa el ejercicio de las siguientes atribuciones:
+Corresponde a la Unidad de Administración y Finanzas el ejercicio de las siguientes atribuciones:
 
 I. Coadyuvar con el Director General en el despacho de los asuntos de las unidades administrativas adscritas a su responsabilidad;
 
@@ -817,6 +837,10 @@ XXVI. Establecer y evaluar los programas de promoción para el cumplimiento del 
 
 XXVII. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Director General y las que correspondan a las unidades administrativas que se le adscriban, excepto en los casos en que por disposición legal, deban ser ejercidas por los titulares de ellas directamente.
 
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2019)</small>
+
+XXVIII. Expedir copias certificadas de las constancias que obran en los archivos de las áreas de su adscripción.
+
 ###### Artículo 28.
 
 La Secretaría Administrativa está conformada por la Dirección de Administración Presupuestal y Recursos Financieros y por la Dirección de Servicios Administrativos y Bienes.
@@ -829,7 +853,9 @@ I. Programar, organizar, dirigir y controlar las actividades de programación, p
 
 II. Dirigir la planeación y vigilar que el desarrollo de los programas de actividades de las áreas que la integran se realice de acuerdo con los objetivos y políticas institucionales;
 
-III. Proponer y aplicar políticas, normas, sistemas y procedimientos para la administración de los recursos presupuestales y financieros aprobados por el Secretario Administrativo, así como emitir las disposiciones que regulen los procesos internos del ejercicio presupuestal y la evaluación de los mismos;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2019)</small>
+
+III. Proponer y aplicar políticas, normas, sistemas y procedimientos para la administración de los recursos presupuestales y financieros aprobados por el Titular de la Unidad de Administración y Finanzas, así como emitir las disposiciones que regulen los procesos internos del ejercicio presupuestal y la evaluación de los mismos;
 
 IV. Dirigir y coordinar con las áreas del Colegio, en el diseño y conformación del Anteproyecto de Presupuesto y gestionar ante las instancias competentes su aprobación;
 
@@ -857,7 +883,9 @@ XIV. Vigilar que se cumpla con el sistema integral de Información de acuerdo co
 
 Corresponde a la Dirección de Servicios Administrativos y Bienes el ejercicio de las siguientes atribuciones:
 
-I. Dirigir y controlar las actividades de las áreas que integran la Dirección de Servicios Administrativos y Bienes e informar a la Secretaría Administrativa del avance de su Programa Anual de Actividades;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2019)</small>
+
+I. Dirigir y controlar las actividades de las áreas que integran la Dirección de Servicios Administrativos y Bienes e informar a la Unidad de Administración y Finanzas del avance de su Programa Anual de Actividades;
 
 II. Plantear, establecer y difundir las políticas, normas y procedimientos para la operación del sistema de administración de personal y de los recursos materiales del Colegio, de acuerdo con la normativa del Gobierno Federal y con las políticas y lineamientos institucionales, vigilando su cumplimiento;
 
@@ -871,7 +899,9 @@ VI. Contribuir al funcionamiento del sistema de escalafón del Colegio, así com
 
 VII. Llevar la prestación de los servicios de limpieza, mensajería, vigilancia, jardinería, correspondencia, comunicaciones, mantenimiento, transportes y demás apoyos que requieran las áreas del Colegio para su operación;
 
-VIII. Plantear a la Secretaría Administrativa para su autorización los programas de obra pública y adquisiciones, arrendamiento y servicios que de acuerdo con las necesidades detectadas se requieran para el desarrollo de las actividades del Colegio y efectuar la contratación de los mismos con base en la normatividad establecida;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2019)</small>
+
+VIII. Plantear a la Unidad de Administración y Finanzas para su autorización los programas de obra pública y adquisiciones, arrendamiento y servicios que de acuerdo con las necesidades detectadas se requieran para el desarrollo de las actividades del Colegio y efectuar la contratación de los mismos con base en la normatividad establecida;
 
 IX. Coordinar el anteproyecto del Programa Anual de Adquisiciones del Colegio, de conformidad con las disposiciones internas y externas emitidas al respecto y vigilar su ejecución;
 
@@ -881,7 +911,9 @@ XI. Supervisar los inventarios físicos de los bienes y recursos del Colegio que
 
 XII. Supervisar que se instrumenten las acciones que se deriven de los acuerdos tomados en los diferentes Comités que operen en el Colegio y que incidan en el ámbito de competencia de las unidades administrativas que integran la Dirección;
 
-XIII. Intervenir dentro del ámbito de su competencia, en todas aquellas funciones que se deriven de los ordenamientos jurídico-administrativos del Colegio y concertar las acciones necesarias para ello con el Abogado General;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2019)</small>
+
+XIII. Intervenir dentro del ámbito de su competencia, en todas aquellas funciones que se deriven de los ordenamientos jurídico-administrativos del Colegio y concertar las acciones necesarias para ello con el Titular de la Unidad Encargada del Apoyo Jurídico;
 
 XIV. Diseñar y difundir los procedimientos para el pago de remuneraciones y la aplicación de descuentos al personal y verificar su cumplimiento; así como dictaminar la vigencia o prescripción del derecho del personal del Colegio para efectuar el cobro de remuneraciones omitidas;
 
@@ -915,9 +947,11 @@ XXVIII. Recomendar que las unidades administrativas del Colegio establezcan, dif
 
 XXIX. Promover el proceso de mejora continua; y difundir los procesos de cambio exitosos y el marco metodológico utilizado en los mismos, entre las unidades administrativas que integran al Colegio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2019)</small>
+
 ###### Artículo 31.
 
-Corresponde al Abogado General el ejercicio de las siguientes atribuciones:
+Corresponde al Titular de la Unidad Encargada del Apoyo Jurídico, el ejercicio de las siguientes atribuciones:
 
 I. Proponer proyectos de reglamentos, decretos, acuerdos, órdenes y demás disposiciones jurídicas relativas a los asuntos competencia del Colegio;
 
@@ -969,7 +1003,9 @@ V. Informar al Director General, cuando se lo solicite, sobre el desarrollo de l
 
 VI. Revisar junto con los directores de plantel el seguimiento del sistema de indicadores del Colegio;
 
-VII. Colaborar con la Secretaría General, la Secretaría de Servicios Institucionales y la Secretaría Administrativa para la construcción y operación del Programa de Desarrollo Institucional y del Programa Operativo Anual, y
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2019)</small>
+
+VII. Colaborar con la Secretaría General, la Secretaría de Servicios Institucionales y la Unidad de Administración y Finanzas para la construcción y operación del Programa de Desarrollo Institucional y del Programa Operativo Anual, y
 
 VIII. Vigilar el cumplimiento de las normas y las disposiciones reglamentarias del Colegio, dentro del ámbito de su competencia.
 
@@ -1005,7 +1041,9 @@ II. El Secretario General;
 
 III. El Secretario de Servicios Institucionales;
 
-IV. El Secretario Administrativo;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2019)</small>
+
+IV. El Titular de la Unidad de Administración y Finanzas;
 
 V. El Director de Planeación Académica;
 
@@ -1021,7 +1059,9 @@ X. El Director de Administración Presupuestal y Recursos Financieros;
 
 XI. El Director de Servicios Administrativos y Bienes;
 
-XII. El Abogado General, y
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2019)</small>
+
+XII. El Titular de la Unidad Encargada del Apoyo Jurídico, y
 
 XIII. Los Coordinadores Sectoriales.
 
@@ -1049,7 +1089,9 @@ II. El Secretario General;
 
 III. El Secretario de Servicios Institucionales;
 
-IV. El Secretario Administrativo;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2019)</small>
+
+IV. El Titular de la Unidad de Administración y Finanzas;
 
 V. Los Coordinadores Sectoriales;
 
@@ -1153,17 +1195,23 @@ El Colegio contará con un Comité de Transparencia que actuará con base en lo 
 
 Las ausencias del Director General que no excedan tres meses serán suplidas por el Servidor Público que designe la Junta Directiva. Cuando el periodo sea mayor a tres meses se designará nuevo Director General, en los términos de lo que establece el artículo 21 de la Ley Federal y 9 del Decreto.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 12 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2019)</small>
 
 ###### Artículo 45.
 
-El Secretario General, el Secretario de Servicios Institucionales, el Secretario Administrativo, los Coordinadores Sectoriales y los Directores de Área, serán sustituidos en ausencias que no excedan de tres meses por los servidores públicos que designe el Director General. En el caso de exceder dicho periodo se nombrarán nuevos titulares, en los términos de lo que establece los artículos 58, fracción IX, y 59, fracción VII de la Ley Federal de las Entidades Paraestatales.
+El Secretario General, el Secretario de Servicios Institucionales, el Titular de la Unidad de Administración y Finanzas, los Coordinadores Sectoriales y los Directores de Área, serán sustituidos en ausencias que no excedan de tres meses por los servidores públicos que designe el Director General. En el caso de exceder dicho periodo se nombrarán nuevos titulares, en los términos de lo que establece el artículo 58, fracción IX y 59, fracción VII de la Ley Federal de las Entidades Paraestatales.
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 46.
 
 La ausencia de un Director de Plantel que no exceda de tres meses, será suplida por el servidor público que designe el Director General, en caso de exceder el tiempo señalado, se nombrará un nuevo Director en términos de la Ley General del Servicio Profesional Docente o aquella normativa que para ese efecto sea publicada.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2019)</small>
+
+###### Artículo 46 Bis.
+
+Las ausencias de los Secretarios General y de Servicios Institucionales, así como de los titulares de las Unidades de Administración y Finanzas y de la Encargada del Apoyo Jurídico, para los efectos de expedir copias certificadas, serán suplidas por los servidores públicos de jerarquía inmediata inferior, de conformidad con el ámbito de su competencia.
 
 ### CAPÍTULO DÉCIMO. DEL RÉGIMEN LABORAL
 
@@ -1194,3 +1242,13 @@ Primero. El presente Acuerdo entrará en vigor al día hábil siguiente de su pu
 Segundo. El presente instrumento fue aprobado por el Acuerdo número 7.7 en la Cuarta Sesión Ordinaria de la Junta Directiva del Colegio de Bachilleres, celebrada el 8 de noviembre de 2018.
 
 Tercero. El Director General del Colegio de Bachilleres, deberá expedir en un plazo no mayor de seis meses, contados a partir de la fecha de entrada en vigor del presente Acuerdo, las reformas y adiciones al Manual General de Organización del Colegio.
+
+D.O.F. 17 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES”.]
+
+Primero. El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El presente instrumento fue aprobado por el Acuerdo número SO/II-19/11, R, en la Segunda Sesión Ordinaria de la Junta Directiva del Colegio de Bachilleres, celebrada el 20 de junio de 2019.
+
+Tercero. El Director General del Colegio de Bachilleres, deberá expedir en un plazo no mayor de seis meses, contados a partir de la fecha de entrada en vigor del presente Acuerdo, las reformas y adiciones al Manual de Organización del Colegio.
