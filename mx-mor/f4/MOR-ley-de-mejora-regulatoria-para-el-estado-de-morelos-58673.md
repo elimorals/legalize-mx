@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-mejora-regulatoria-para-el-estado-de-morelos-58673"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-19"
-last_updated: "2017-03-01"
+last_updated: "2019-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE MEJORA REGULATORIA PARA EL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA DÉCIMA PRIMERA DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE MORELOS Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 17 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de diciembre de 2007.
 
@@ -1292,3 +1294,37 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+G.O. 17 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE MEJORA REGULATORIA PARA EL ESTADO DE MORELOS Y SUS MUNICIPIOS".]
+
+PRIMERA. Túrnese la presente Ley al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+TERCERA. La Junta de Gobierno de la Comisión Estatal de Mejora Regulatoria deberá quedar instalada dentro de un plazo de 30 días hábiles contado a partir del inicio de vigencia de la presente Ley.
+
+CUARTA. El Consejo Estatal de Mejora Regulatoria deberá estar instalado en un plazo que no exceda los noventa días naturales a la entrada en vigor de la presente Ley por lo que, por única ocasión, los representantes de los sectores empresarial, educativo y social serán invitados directamente por la persona titular de la Secretaría de Desarrollo Económico y del Trabajo del Poder Ejecutivo Estatal.
+
+QUINTA. Las Autoridades de Mejora Regulatoria Estatal y Municipales y los Sujetos Obligados darán cumplimiento a las obligaciones establecidas en la presente Ley con cargo a sus respectivos presupuestos; que deberán integrar oportunamente en sus Programas Operativos Anuales (POA) y sus Leyes de Ingreso y Presupuestos anuales.
+
+SEXTA. A partir de la entrada de la (sic) esta Ley, los Municipios contarán con un plazo de seis meses para adecuar sus Reglamentos al contenido de dicha Ley.
+
+Los Consejos Municipales de Mejora Regulatoria deberán instalarse formalmente dentro de un plazo de noventa días naturales siguientes a la entrada en vigor de la presente Ley.
+
+SÉPTIMA. Las Manifestaciones de Impacto Regulatorio presentadas por las autoridades con anterioridad a la entrada en vigor de la presente Ley, serán concluidas conforme a las disposiciones aplicables vigentes a la fecha de su presentación.
+
+OCTAVA. La Comisión Estatal de Mejora Regulatoria emitirá los lineamientos que le competen y que señala la presente Ley, dentro del plazo que no exceda de ocho meses contado a partir de la entrada en vigor de esta Ley. Dichos lineamientos serán con relación, al menos, a las siguientes herramientas: Análisis de Impacto Regulatorio y Programas de Mejora Regulatoria.
+
+NOVENA. Dentro de un plazo de 90 días hábiles contado a partir del inicio de vigencia de la presente Ley deberán realizarán las adecuaciones normativas correspondientes al Estatuto Orgánico de la Comisión Estatal de Mejora Regulatoria.
+
+Asimismo, en el mismo plazo deberá expedirse el Reglamento de la Ley de Mejora Regulatoria para el Estado de Morelos y sus Municipios.
+
+Las referencias hechas en otros ordenamientos al Director General o a la Junta Directiva, ambos de la Comisión Estatal de Mejora Regulatoria se entenderán hechas al Comisionado Estatal o a la Junta de Gobierno, respectivamente. Para el caso del primero, deberá ratificarse el nombramiento correspondiente a partir del inicio de vigencia de la presente Ley.
+
+DÉCIMA. La figura jurídica de la protesta ciudadana contenida en los artículos 65 y 66 entrará en vigor hasta el 1º de enero del año 2020. La CEMER, por conducto de la Secretaría presentará para tal fin el anteproyecto de presupuesto del ejercicio fiscal 2020 que corresponda.
+
+DÉCIMA PRIMERA. Se abroga la Ley de Mejora Regulatoria para el Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad", número 4577, el 19 de diciembre de 2007, y se derogan las disposiciones jurídicas de igual o menor rango jerárquico que se opongan a la presente Ley. No obstante, las disposiciones normativas que no se opongan a lo previsto en la presente Ley, continuarán surtiendo sus efectos.
+
+DÉCIMA SEGUNDA. Inscríbase la presente Ley en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por los artículos 83 y 84, fracción I, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
