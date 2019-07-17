@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg1478-2018-del-consejo-general-del-instituto-13206
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-12-21"
-last_updated: "2018-12-21"
+last_updated: "2019-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132067&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2018-12-19"
 ---
 # ACUERDO INE/CG1478/2018 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EXPIDE EL INSTRUCTIVO QUE DEBERAN OBSERVAR LAS ORGANIZACIONES INTERESADAS EN CONSTITUIR UN PARTIDO POLITICO NACIONAL, ASI COMO DIVERSAS DISPOSICIONES RELATIVAS A LA REVISION DE LOS REQUISITOS QUE SE DEBEN CUMPLIR PARA DICHO FIN
 
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 17 DE JULIO DE 2019, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EXPIDE EL INSTRUCTIVO QUE DEBERÁN OBSERVAR LAS ORGANIZACIONES INTERESADAS EN CONSTITUIR UN PARTIDO POLÍTICO NACIONAL, ASÍ COMO DIVERSAS DISPOSICIONES RELATIVAS A LA REVISIÓN DE LOS REQUISITOS QUE SE DEBEN CUMPLIR PARA DICHO FIN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JULIO DE 2019.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 21 de diciembre de 2018.
 
@@ -56,3 +58,33 @@ Se aprobó en lo particular por lo que hace al numeral 64 del Instructivo que de
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
 > <small>[N. DE E. VÉASE ANEXOS EN LA SEGUNDA SECCIÓN DEL D.O.F DE 21 DE DICIEMBRE DE 2018, PÁGINAS DE LA 88 A LA 108.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE JULIO DE 2019.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO INE/CG302/2019, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO.- Se modifican los plazos y términos establecidos en el artículo 15, numeral 1, de la LGPP, y en los numerales 15, 16, 83, 87, 96, 98, 101, 110, 113 y 115 del Instructivo que deberán observar las organizaciones interesadas en constituir un Partido Político Nacional, así como los numerales 9, 27 y 30 de los Lineamientos para la operación de la Mesa de Control y la Garantía de Audiencia en el Proceso de Constitución de Partidos Políticos Nacionales 2019-2020, en los términos precisados en el considerando 17 del presente Acuerdo.
+
+SEGUNDO.- Se instruye a la DEPPP para que coordine las notificaciones del presente Acuerdo a las organizaciones que continúan en el proceso de constitución de Partidos Políticos Nacionales.
+
+TERCERO.- Se instruye a la DEPPP para que, en su caso, notifique a las organizaciones la cancelación de las asambleas ya programadas durante los periodos vacacionales del Instituto, con el fin de ser reprogramadas.
+
+CUARTO.- Hágase del conocimiento el contenido del presente Acuerdo a las Juntas Ejecutivas Locales y Distritales del Instituto, así como a las Direcciones Ejecutivas y Unidades Técnicas involucradas en el proceso de constitución de Partidos Políticos Nacionales.
+
+QUINTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en los estrados y en la página electrónica del Instituto Nacional Electoral, en el apartado correspondiente a la Formación de Nuevos Partidos Políticos Nacionales.
+
+El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 25 de junio de 2019, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Doctora Adriana Margarita Favela Herrera, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
+
+El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+Página INE:
+
+https://www.ine.mx/sesion-extraordinaria-del-consejo-general-25-junio-2019/
+
+Página DOF
+
+www.dof.gob.mx/2019/INE/CGex201906_25_ap_13.pdf
