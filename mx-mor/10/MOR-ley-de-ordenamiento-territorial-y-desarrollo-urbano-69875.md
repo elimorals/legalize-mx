@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ordenamiento-territorial-y-desarrollo-urbano-69875"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2017-03-16"
+last_updated: "2019-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de agosto de 2009.
 
@@ -33,7 +33,9 @@ Que el Congreso del Estado se ha servido enviarme para su promulgación lo sigui
 
 LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
-I.- DEL PROCESO LEGISLATIVO.
+I.- DEL PROCESO LEGISLATIVO
+
+[...]
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -95,7 +97,7 @@ XIII. Consejo Municipal: Consejo Municipal de Desarrollo Urbano, órgano institu
 
 XIV. Constancia de zonificación: Resolución administrativa por medio de la cual la autoridad municipal encargada de la administración de los programas de desarrollo urbano sustentable en un centro de población, hace constar los usos permitidos, prohibidos o condicionados y la reglamentación complementaria en un predio determinado, a solicitud de su propietario;
 
-XV. Derecho de vía: Franja de terreno que se requiere para la construcción, conservación, ampliación, protección y en general para el uso adecuado de una vía general de comunicación o carretera estatal, cuya anchura y dimensiones fija la autoridad competente, la cual no podrá ser inferior a 20 metros a cada lado del eje del camino. Tratándose de carreteras de dos cuerpos, se medirá a partir del eje de cada uno de ellos.
+XV. Derecho de vía: Franja de terreno que se requiere para la construcción, conservación, ampliación, protección y en general para el uso adecuado de una vía general de comunicación o carretera estatal, cuya anchura y dimensiones fija la autoridad competente, la cual no podrá ser inferior a 20 metros a cada lado del eje del camino. Tratándose de carreteras de dos cuerpos, se medirá a partir del eje de cada uno de ellos
 
 XVI. Desarrollo regional: Proceso de crecimiento económico, urbano y social en un territorio determinado, con el objeto de lograr el mejoramiento de la calidad de vida de la población, la preservación y conservación del medio ambiente;
 
@@ -127,9 +129,9 @@ XXIX. Licencia de uso de suelo: Documento expedido por la autoridad municipal o 
 
 XXX. Modificación de proyecto: Cambio total o parcial del proyecto aprobado o autorizado de una división, fusión, fraccionamiento, condominio o conjunto urbano;
 
-XXXI. Normas de Equipamiento Urbano: Las normas o lineamientos emitidos por la Secretaria de Desarrollo Urbano y Obras Públicas y la Secretaría de Desarrollo Social Federal, que determinan el equipamiento y la infraestructura urbana adecuada para el desarrollo sustentable;
+XXXI. Normas de Equipamiento Urbano: Las normas o lineamientos emitidos por la Secretaria de Desarrollo Urbano y Obras Públicas y la Secretaría de Desarrollo Social Federal, que determinan el equipamiento y la infraestructura urbana adecuada para el desarrollo sustentable.
 
-XXXII. Obras de Urbanización: Conjunto de obras consistentes en: red hidráulica, sanitaria, eléctrica, pavimentación de calles, guarniciones y planta de tratamiento, así como las demás que establezcan como obligación los oficios de autorización; a llevarse a cabo por las personas físicas o morales, que pretendan realizar alguna acción urbana;
+XXXII. Obras de Urbanización: Conjunto de obras consistentes en: red hidráulica, sanitaria, eléctrica, pavimentación de calles, guarniciones y planta de tratamiento, así como las demás que establezcan como obligación los oficios de autorización; a llevarse a cabo por las personas físicas o morales, que pretendan realizar alguna acción urbana.
 
 XXXIII. Ordenamiento ecológico: Instrumento de planeación ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, en las áreas localizadas fuera de los límites de los centros de población, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
 
@@ -147,7 +149,7 @@ XXXIX. Regularización: Proceso de autorización de cualquiera de las consumadas
 
 XL. Reservas Territoriales: Las áreas de un centro de población que serán utilizadas para su crecimiento, conforme a los programas de desarrollo urbano sustentable;
 
-XLI. Ribera o Zona Federal: Las fajas de diez metros de anchura contiguas al cauce de las corrientes o al vaso de los depósitos de propiedad nacional, medidas horizontalmente a partir del nivel de aguas máximas ordinarias y determinadas por la autoridad competente;
+XLI. Ribera o Zona Federal: Las fajas de diez metros de anchura contiguas al cauce de las corrientes o al vaso de los depósitos de propiedad nacional, medidas horizontalmente a partir del nivel de aguas máximas ordinarias y determinadas por la autoridad competente.
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
@@ -159,11 +161,11 @@ XLIV. Usos del suelo: Los fines particulares, actuales o futuros, a que se deter
 
 XLV. Vía pública: Es todo espacio de uso común que por disposición de la autoridad competente se encuentra destinado al libre tránsito de personas, bienes y servicios, a alojar redes de infraestructura, a dar acceso, iluminación, ventilación y asoleamiento a los predios que lo delimitan;
 
-XLVI. Vivienda económica: La denominada así por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit), cuyo valor máximo es el establecido así, por esta institución;
+XLVI. Vivienda económica: La denominada así por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit), cuyo valor máximo es el establecido así, por esta institución.
 
 XLVII. Zona Conurbada Interestatal: Continuidad física y demográfica que formen o tiendan a formar dos o más centros de población situados en territorios municipales de dos o más entidades federativas;
 
-XLVIII. Zona Conurbada Intermunicipal: Continuidad física y demográfica que formen o tiendan a formar dos o más centros de población de dos o más municipios;
+XLVIII. Zona Conurbada Intermunicipal: Continuidad física y demográfica que formen o tiendan a formar dos o más centros de población de dos o más municipios:
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -311,9 +313,9 @@ XII. Establecer los mecanismos que hagan efectiva la participación organizada d
 
 XIII. Integrar e instalar el Consejo Estatal de Ordenamiento Territorial, como órgano asesor auxiliar de los sectores público, social y privado;
 
-XIV. Asumir las facultades que expresamente le deleguen los municipios, mediante el Convenio de Coordinación correspondiente, en materia de planeación y administración urbana o cuando el Municipio solicite el auxilio de la Secretaría, o simplemente no ejerza sus funciones por causa de fuerza mayor o falta de capacidad administrativa; en este caso le corresponderá a la autoridad estatal un porcentaje del 12% por concepto de pago de derechos que se causen por las autorizaciones o licencias emitidas;
+XIV. Asumir las facultades que expresamente le deleguen los municipios, mediante el Convenio de Coordinación correspondiente, en materia de planeación y administración urbana o cuando el Municipio solicite el auxilio de la Secretaría, o simplemente no ejerza sus funciones por causa de fuerza mayor o falta de capacidad administrativa; en este caso le corresponderá a la autoridad estatal un porcentaje del 12% por concepto de pago de derechos que se causen por las autorizaciones o licencias emitidas.
 
-XV. Solicitar a la Comisión Estatal de Reservas Territoriales, la venta en subasta pública de bienes inmuebles o inmuebles territoriales, para la adquisición de reserva territorial o la venta de reserva territorial con destino de suelo condicionado, en términos del artículo 99;
+XV. Solicitar a la Comisión Estatal de Reservas Territoriales, la venta en subasta pública de bienes inmuebles o inmuebles territoriales, para la adquisición de reserva territorial o la venta de reserva territorial con destino de suelo condicionado, en términos del artículo 99.
 
 XVI. Imponer medidas de seguridad y sanciones administrativas a los infractores de las disposiciones jurídicas en la materia y del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable, conforme lo prevea esta Ley y las demás disposiciones legales aplicables;
 
@@ -785,7 +787,7 @@ VII. Una vez emitidas las observaciones por parte de la Secretaría y solventada
 
 VIII. Cumplidas y documentadas las formalidades anteriores y una vez que el Programa Municipal de Desarrollo Urbano Sustentable sea aprobado por el cabildo municipal, lo someterá a consideración del Gobernador del Estado para su publicación en el Periódico Oficial “Tierra y Libertad” mediante el decreto correspondiente, y en dos diarios de mayor circulación en la Entidad, y
 
-IX. El titular del Poder Ejecutivo Estatal enviará el programa para su inscripción en la Sección correspondiente del Instituto del Registro Público de la Propiedad y del Comercio, dentro de los veinte días hábiles siguientes a la publicación. El Municipio editará el programa para su difusión, y lo mantendrá a consulta permanente.
+IX. El titular del Poder Ejecutivo Estatal enviará el programa para su inscripción en la Sección correspondiente del Instituto del Registro Público de la Propiedad y del Comercio, dentro de los veinte días hábiles siguientes a la publicación. El Municipio editará el programa para su difusión, y lo mantendrá a consulta permanente;
 
 ###### Artículo 45.
 
@@ -1009,7 +1011,7 @@ g) Las zonas de desarrollo controlado y de salvaguarda, especialmente en áreas 
 
 h) Giros básicos que no requieren de Licencia de Uso de Suelo, y
 
-III. Los aprovechamientos predominantes de las distintas zonas de los centros de población;
+III. Los aprovechamientos predominantes de las distintas zonas de los centros de población:
 
 IV. Los usos o destinos que por su importancia, impacto o dimensiones requieren de un tratamiento especial;
 
@@ -1867,9 +1869,11 @@ I.- Sólo podrán desarrollarse en las zonas consideradas aptas para tal fin en 
 
 II.- Deberán sujetarse a las normas básicas que al respecto emita la Autoridad en cuanto a coeficiente de ocupación del suelo, coeficiente de uso de suelo, coeficiente de absorción;
 
-III.- Deberán cumplir los requerimientos de cajones de estacionamiento de acuerdo a los ordenamientos legales aplicables, mismos que deberán ser proporcionados de forma gratuita para los clientes o consumidores que así lo demuestren, sin fijar para ello cuotas mínimas o máximas de compra. El incumplimiento de esta disposición será considerado infracción administrativa sancionada por el Bando de Policía y Buen Gobierno, cuyo monto se fijara en las Leyes de Ingresos de los Municipios.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2019)</small>
 
-Los propietarios o poseedores de los estacionamientos en plazas y centros comerciales, podrán cobrar una contraprestación económica a quienes estacionen sus vehículos en los espacios respectivos y no demuestren ser clientes o consumidores.
+III.- Deberán cumplir los requerimientos de cajones de estacionamiento de acuerdo a los ordenamientos legales aplicables, mismos que deberán ser proporcionados de forma gratuita para los clientes o consumidores que así lo demuestren, por dos horas, sin fijar para ello cuotas mínimas o máximas de compra. El incumplimiento de esta disposición será considerado infracción administrativa sancionada por el Bando de Policía y Buen Gobierno, cuyo monto se fijará en las Leyes de Ingresos de los Municipios. Los propietarios o poseedores de los estacionamientos de los fraccionamientos y condominios comerciales y de servicios que se dediquen a cualquier giro y/o actividad podrán cobrar una contraprestación económica transcurridas las dos horas de gratuidad a quienes estacionen sus vehículos en los espacios respectivos y no demuestren ser clientes o consumidores, así mismo, no se cobrará ninguna cuota por boleto perdido, bastará con acreditar la propiedad del vehículo. Estas obligaciones incluyen al beneficiario de la concesión o derechos de explotación del estacionamiento de los fraccionamientos y condominios comerciales y de servicios.
+
+Los proyectos de los fraccionamientos y condominios comerciales y de servicios que se presenten ante los municipios para la obtención de licencias de construcción y uso de suelo, deberán contemplar el área destinada a los cajones de estacionamiento, los cuales deberán permanecer de manera gratuita y permanente a favor de los clientes de conformidad a lo establecido en esta fracción y en los ordenamientos municipales aplicables.
 
 IV.- Llevar a cabo soluciones de acceso viales y adecuaciones viales necesarias, resultado de un estudio de impacto vial realizado conforme lo dispuesto por esta Ley, que prevea la solución de la problemática actual y futura del funcionamiento vial en ese lugar;
 
@@ -2209,7 +2213,7 @@ Una vez que se publiquen en el periódico oficial Tierra y Libertad las modifica
 
 P.O. 8 DE DICIEMBRE DE 2015.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NUMERO CIENTO VEINTICINCO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES ESTATALES EN MATERIA DE ECOZONAS".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO CIENTO VEINTICINCO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES ESTATALES EN MATERIA DE ECOZONAS".]
 
 PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
@@ -2264,3 +2268,15 @@ TERCERO. A partir de la entrada en vigor del presente, se derogan todas y cada u
 CUARTO. Dentro de un plazo no mayor a 90 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, se deberán realizar, las adecuaciones a las disposiciones reglamentarias correspondientes.
 
 QUINTA (SIC). Dentro de un plazo no mayor a 150 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, los Ayuntamientos municipales del Estado de Morelos, deberán realizar en su caso, las adecuaciones necesarias a sus reglamentos de construcciones, así como al de ecología y protección al ambiente, según corresponda.
+
+P.O. 17 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS NOVENTA POR EL QUE SE REFORMA EL ARTÍCULO 184 BIS DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial “Tierra y Libertad”, Órgano de difusión del gobierno del Estado de Morelos.
+
+TERCERO.- A la entrada en vigor del presente Decreto, quedarán sin efecto todas aquellas disposiciones que contravengan o se opongan al mismo.
+
+CUARTO.- Los municipios del estado de Morelos, deberán realizar las modificaciones y/o actualizaciones a los Reglamentos correspondientes en la materia para su armonización, dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto.
