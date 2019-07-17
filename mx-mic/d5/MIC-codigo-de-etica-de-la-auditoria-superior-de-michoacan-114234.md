@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-etica-de-la-auditoria-superior-de-michoacan-114234"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-04-12"
-last_updated: "2016-04-12"
+last_updated: "2019-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # CODIGO DE ETICA DE LA AUDITORIA SUPERIOR DE MICHOACAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE ÉTICA DE LA AUDITORÍA SUPERIOR DE MICHOACÁN, PUBLICADO EN EL P.O. DE 17 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA AUDITORÍA SUPERIOR DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2019 (ABROGADO).
 
 Código publicado en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 12 de abril de 2016.
 
@@ -132,3 +134,19 @@ La Auditoría Superior de Michoacán, deberá publicar en su página oficial web
 Túrnese el presente Código a la Comisión Inspectora de la Auditoría Superior de Michoacán; y, a la Contraloría Interna del Congreso del Estado, para su conocimiento.
 
 C E R T I F I C A C I Ó N.- EL SUSCRITO CONTADOR PÚBLICO, JOSÉ LUIS LÓPEZ SALGADO, AUDITOR SUPERIOR DE MICHOACÁN, EN EJERCICIO DE LAS ATRIBUCIONES CONFERIDAS POR LOS ARTÍCULOS 1, 2, 3 Y 14 FRACCIÓN XX DE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE MICHOACÁN DE OCAMPO; Y, 7° FRACCIÓN XV DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE MICHOACÁN, HAGO CONSTAR Y CERTIFICO QUE: EL PRESENTE DOCUMENTO DENOMINADO «CÓDIGO DE ÉTICA DE LA AUDITORÍA SUPERIOR DE MICHOACÁN.», ES AUTÉNTICO, SE INTEGRA DE CINCO FOJAS ÚTILES Y FUE EMITIDO POR ESTA AUDITORÍA SUPERIOR DE MICHOACÁN; LA PRESENTE SE EXPIDE PARA LOS EFECTOS LEGALES PROCEDENTES, EN LA CIUDAD DE MORELIA, MICHOACÁN, SIENDO LAS 11:00 ONCE HORAS, DEL DÍA 10 DIEZ DE MARZO DE 2016 DOS MIL DIECISÉIS.- CONSTE.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA”.]
+
+PRIMERO.- El presente Código de Ética de la Auditoría Superior de Michoacán, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO.- El Código de Ética deberá ser difundido y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y en la página de internet institucional, a efecto de hacerlo del conocimiento de los servidores públicos de la Auditoría Superior de Michoacán.
+
+TERCERO.- Se abroga el Código de Ética de la Auditoría Superior de Michoacán, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 12 doce de abril del año 2016 dos mil dieciséis, en su sexta sección.
+
+CUARTO.- La Auditoría Superior de Michoacán deberá emitir las Directrices para Prevenir Conflictos de Intereses, dentro de los diez días hábiles siguientes, a partir de la entrada en vigor del presente Código, y publíquense en la página oficial web institucional.
+
+QUINTO.- Túrnese el presente Código al Presidente de la Comisión Inspectora de la Auditoría Superior de Michoacán del Congreso del Estado; a la Contraloría Interna del Congreso del Estado; y, a la Unidad de Evaluación y Control de la Comisión Inspectora de la Auditoría Superior de Michoacán para su conocimiento.
