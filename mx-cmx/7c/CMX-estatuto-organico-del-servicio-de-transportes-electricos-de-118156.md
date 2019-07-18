@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-servicio-de-transportes-electricos-de-118
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-12-19"
-last_updated: "2016-12-19"
+last_updated: "2019-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118156&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2016-11-25"
 ---
 # ESTATUTO ORGANICO DEL SERVICIO DE TRANSPORTES ELECTRICOS DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGÁNICO DEL SERVICIO DE TRANSPORTES ELÉCTRICOS DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 18 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL SERVICIO DE TRANSPORTES ELÉCTRICOS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 18 DE JULIO DE 2019 (ABROGADO).
 
 Estatuto publicado en la Gaceta Oficial de la Ciudad de México, el viernes 19 de diciembre de 2016.
 
@@ -1329,3 +1331,15 @@ CANCELA Y SUSTITUYE A: Estatuto Orgánico del Servicio de Transportes Eléctrico
 C. RUBÉN EDUARDO VENADERO MEDINILLA
 
 DIRECTOR GENERAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 18 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DA A CONOCER SU ESTATUTO ORGÁNICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Este aviso entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se derogan las disposiciones contenidas en el Estatuto Orgánico del Servicio de Transportes Eléctricos de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el día 19 de diciembre de 2016.
