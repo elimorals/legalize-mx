@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2019-06-14"
+last_updated: "2019-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JULIO DE 2019.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -12202,6 +12202,28 @@ V. Coordinarse y articularse con las instancias públicas, organizaciones civile
 
 VI. Las demás que se establezcan en otras leyes y disposiciones.
 
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2019)</small>
+
+###### Artículo 297 Bis.
+
+La Comisión de Búsqueda de Personas de la Ciudad de México es el Órgano Desconcentrado de la Administración Pública de la Ciudad de México adscrito a la Secretaría de Gobierno que tiene por objeto impulsar los esfuerzos de vinculación, operación, gestión, evaluación y seguimiento de las acciones entre autoridades que participan en la búsqueda, localización e identificación de personas.
+
+> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2019)</small>
+
+###### Artículo 297 Ter.
+
+Corresponde a la persona titular de la Comisión de Búsqueda de Personas de la Ciudad de México:
+
+I. Coordinar las actividades de la Comisión de Búsqueda y representarla legalmente;
+
+II. Participar con voz y voto en el Sistema Nacional de Búsqueda de Personas y nombrar a su suplente, quien deberá contar con el nivel jerárquico inmediato inferior, de conformidad con lo previsto en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+
+II (SIC). Instruir, en el ámbito de su competencia, el cumplimiento de las acciones y acuerdos que deriven del ejercicio de las atribuciones del Sistema Nacional;
+
+IV. Realizar las gestiones necesarias para acceder a los recursos previstos por parte del Sistema Nacional para la realización de las actividades de la Comisión de Búsqueda, de conformidad con los lineamientos que se emitan para tales efectos y demás disposiciones aplicables; y
+
+V. Las demás previstas en el Acuerdo por el que se crea la Comisión de Búsqueda de Personas de la Ciudad de México, publicado el 17 de mayo de 2019 en la Gaceta Oficial de la Ciudad de México, la Ley General en la materia y demás disposiciones aplicables.
+
 ###### Artículo 298.
 
 La Comisión de Filmaciones de la Ciudad de México es el Órgano Desconcentrado que tiene por objeto promover y regular el desarrollo del sector audiovisual en sus diversas manifestaciones de conformidad con la Ley de Filmaciones del Distrito Federal y con los demás ordenamiento aplicables.
@@ -13303,3 +13325,11 @@ G.O. 14 DE JUNIO DE 2019.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor el día dieciséis de junio de dos mil diecinueve.
+
+G.O. 18 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto amplía el publicado el día catorce de junio de dos mil diecinueve en la Gaceta Oficial de la Ciudad de México, por lo que para la constitución y funcionamiento de la Comisión de Búsqueda de la Ciudad de México, se atenderá la entrada en vigor del mismo.
