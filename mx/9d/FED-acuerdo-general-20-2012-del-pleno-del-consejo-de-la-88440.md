@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-20-2012-del-pleno-del-consejo-de-la-88440"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-06-29"
-last_updated: "2012-06-29"
+last_updated: "2019-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88440&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-06-21"
 ---
 # ACUERDO GENERAL 20/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [ESTABLECE EN RAZON DE CAUSAS EXCEPCIONALES LA SUSPENSION INDEFINIDA DEL TURNO DE NUEVOS ASUNTOS A LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE NAYARIT, CON RESIDENCIA EN EL RINCON, MUNICIPIO DE TEPIC, Y DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE VERACRUZ, CON RESIDENCIA EN VILLA ALDAMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 7/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 19 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL 20/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE, EN RAZÓN DE CAUSAS EXCEPCIONALES, LA SUSPENSIÓN INDEFINIDA DEL TURNO DE NUEVOS ASUNTOS A LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE NAYARIT, CON RESIDENCIA EN EL RINCÓN, MUNICIPIO DE TEPIC, Y DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE VERACRUZ, CON RESIDENCIA EN VILLA ALDAMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JULIO DE 2019 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de junio de 2012.
 
@@ -98,3 +100,21 @@ TERCERO. Durante el lapso de la vigencia de la presente medida los Juzgados de D
 CUARTO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 20/2012, del Pleno del Consejo de la Judicatura Federal, que establece, en razón de causas excepcionales, la suspensión indefinida del turno de nuevos asuntos a los Juzgados de Distrito de Procesos Penales Federales en el Estado de Nayarit, con residencia en el Rincón, municipio de Tepic, y de los Juzgados de Distrito de Procesos Penales Federales en el Estado de Veracruz, con residencia en Villa Aldama, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de seis de junio de dos mil doce, por mayoría de seis votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, César Esquinca Muñoa, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Manuel Ernesto Saloma Vera, en contra del voto del señor Consejero Juan Carlos Cruz Razo.- México, Distrito Federal, a veintiuno de junio de dos mil doce.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 7/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CONCLUYE LA SUSPENSIÓN INDEFINIDA DEL TURNO DE NUEVOS ASUNTOS A LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE NAYARIT, CON RESIDENCIA EN EL RINCÓN, MUNICIPIO DE TEPIC, Y DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE VERACRUZ, CON RESIDENCIA EN VILLA ALDAMA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en internet.
+
+TERCERO. Se abroga el Acuerdo General 20/2012, del Pleno del Consejo de la Judicatura Federal, que establece, en razón de causas excepcionales, la suspensión indefinida del turno de nuevos asuntos a los Juzgados de Distrito de Procesos Penales Federales en el Estado de Nayarit, con residencia en El Rincón, Municipio de Tepic, y de los Juzgados de Distrito de Procesos Penales Federales en el Estado de Veracruz, con residencia en Villa Aldama.
+
+CUARTO. A partir del inicio de la vigencia del presente Acuerdo, el personal de las Oficinas de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales en el Estado de Nayarit, con residencia en El Rincón, Municipio de Tepic, y de los Juzgados de Distrito de Procesos Penales Federales en el Estado de Veracruz, con residencia en Villa Aldama; así como los secretarios autorizados para recepcionar asuntos en horas y días inhábiles, de los órganos jurisdiccionales citados, deberán recibir los nuevos asuntos que se presenten.
+
+Los asuntos que se encuentren radicados en los órganos jurisdiccionales de la República Mexicana, con motivo de la aplicación del Acuerdo General 20/2012 del Pleno del Consejo de la Judicatura Federal, deberán continuar su trámite y resolución en los Juzgados de Distrito a los que, por razón de turno, correspondió su conocimiento, con excepción de los asuntos que se encuentren en conflicto competencial pendiente de resolución, en los que deberá estarse a lo que resuelva el órgano revisor.
+
+QUINTO. Los Juzgados de Distrito de Procesos Penales Federales en el Estado de Veracruz, con residencia en Villa Aldama, conocerán de los nuevos asuntos que correspondan a los internos en el Centro Federal de Readaptación Social Número Cinco Oriente, en Villa Aldama, Veracruz, en términos del Acuerdo General 37/2010, del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia y fecha de inicio de funcionamiento de los Juzgados Primero y Segundo de Distrito de Procesos Penales Federales en el Estado de Veracruz, con residencia en Villa Aldama; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre éstos.
