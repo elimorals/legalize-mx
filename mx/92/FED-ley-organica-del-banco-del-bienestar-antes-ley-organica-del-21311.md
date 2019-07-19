@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-banco-del-bienestar-antes-ley-organica-del-213
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-06-01"
-last_updated: "2014-01-10"
+last_updated: "2019-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21311&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2001-05-30"
 ---
 # LEY ORGANICA DEL BANCO DEL BIENESTAR -- ANTES LEY ORGANICA DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS --
 
-LEY ORGÁNICA DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS
+LEY ORGÁNICA DEL BANCO DEL BIENESTAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JULIO DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el viernes 1 de junio de 2001.
 
@@ -35,47 +35,57 @@ DECRETO
 
 "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
 
-LEY ORGÁNICA DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS
+> <small>(REFORMADA EN SU DENOMINACIÓN, D.O.F. 19 DE JULIO DE 2019)</small>
+
+LEY ORGÁNICA DEL BANCO DEL BIENESTAR
 
 ### CAPÍTULO I. Denominación, definiciones, objeto y domicilio
 
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2019)</small>
+
 ###### Artículo 1.
 
-La presente Ley rige al Banco del Ahorro Nacional y Servicios Financieros, con el carácter de Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, con personalidad jurídica y patrimonio propios.
+La presente Ley rige al Banco del Bienestar, con el carácter de Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, con personalidad jurídica y patrimonio propios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE JULIO DE 2019)</small>
 
 ###### Artículo 2.
 
-Para los efectos de esta Ley se entenderá por:
+Para efectos de la presente Ley se entenderá por:
 
-I. Ley: A la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+I. Ley: A la Ley Orgánica del Banco del Bienestar;
 
 II. Secretaría: A la Secretaría de Hacienda y Crédito Público;
 
-III. Institución: Al Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, y
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+III. Institución: Al Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, y
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
 IV. Sector: Al conformado por las personas físicas y morales que, de acuerdo con los criterios definidos por el Consejo Directivo, tengan acceso limitado a los servicios financieros por su condición socioeconómica o ubicación geográfica, y a las personas morales a que se refieren la Ley de Ahorro y Crédito Popular y la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE JULIO DE 2019)</small>
 
 ###### Artículo 3.
 
-El Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, debería realizar funciones de banca social, para lo cual tendría por objeto promover y facilitar el ahorro, el acceso al financiamiento, la inclusión financiera, el fomento de la innovación, la perspectiva de género y la inversión entre los integrantes del Sector, ofrecer instrumentos y servicios financieros de primer y segundo piso entre los mismos, así como canalizar apoyos financieros y técnicos necesarios para fomentar el hábito del ahorro y el sano desarrollo del Sector y en general, al desarrollo económico nacional y regional del país, así como proporcionar asistencia técnica y capacitación a los integrantes del Sector.
+El Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, realizará funciones de banca social, para lo cual tendrá por objeto promover y facilitar el ahorro, el acceso al financiamiento en condiciones equitativas, la inclusión financiera, el uso y fomento de la innovación tecnológica a fin de procurar mejores condiciones a los integrantes del Sector, la perspectiva de género y la inversión entre los integrantes del Sector, ofrecer instrumentos y servicios financieros de primer y segundo piso entre los mismos, canalizar apoyos financieros y técnicos necesarios para fomentar el uso de productos y servicios financieros que atiendan las necesidades del Sector y que promuevan la adopción de modelos de negocio y tecnologías financieras innovadoras que impacten en el sano desarrollo del Sector y, en general, que la actividad de la Institución contribuya al desarrollo económico a nivel nacional y regional, proporcionar asistencia técnica y capacitación a los integrantes del Sector, así como dispersar los recursos destinados a subsidios y programas sujetos a reglas de operación de las dependencias y entidades.
 
-(ADICIONADO, D.O.F. 10 DE ENERO DE 2014) N. DE E. EN SU CONTENIDO.
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2019)</small>
 
-El Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, podrá operar bajo cualquier nombre comercial.
+El Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, podrá operar bajo cualquier nombre comercial.
 
 > <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS A LA ADICIÓN DEL SEGUNDO PÁRRAFO DE FECHA 10 DE ENERO DE 2014, PASÓ A SER TERCER PÁRRAFO.</small>
 
 La operación y funcionamiento de la Institución se realizará con apego al marco legal aplicable y a las sanas prácticas y usos bancarios para alcanzar en colaboración con el Sector, los objetivos de carácter general señalados en el artículo 4o. de la Ley de Instituciones de Crédito.
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2019)</small>
 
 ###### Artículo 4.
 
-El domicilio de la Institución será la ciudad de México, Distrito Federal. Podrá establecer, clausurar o reubicar sucursales o agencias o cualquier otra clase de oficinas y nombrar corresponsales en el país o en el extranjero, informando a la Secretaría. Tratándose del establecimiento de sucursales, agencias y oficinas en el extranjero, deberá contar con autorización de la misma.
+El domicilio de la Institución será la Ciudad de México. Podrá establecer, clausurar o reubicar sucursales o agencias o cualquier otra clase de oficinas y nombrar corresponsales en el país o en el extranjero, informando a la Secretaría. Tratándose del establecimiento de sucursales, agencias y oficinas en el extranjero, deberá contar con autorización de la misma.
 
 ###### Artículo 5.
 
@@ -103,9 +113,9 @@ I. Promover, gestionar y financiar proyectos que, en cumplimiento con su objeto,
 
 II. Promover, encauzar y coordinar la inversión de capitales en el Sector;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
 
-III. Promover el desarrollo tecnológico, la capacitación, la asistencia técnica y el incremento de la productividad de los integrantes del Sector;
+III. Promover el desarrollo tecnológico y la adopción de modelos novedosos en términos de la Ley para Regular las Instituciones de Tecnología Financiera, la capacitación, la asistencia técnica, el incremento de la productividad y del bienestar de los integrantes del Sector, pudiendo ejercer las facultades que resulten imprescindibles o necesarias para ello;
 
 IV. Ser agente financiero del Gobierno Federal en lo relativo a la negociación, contratación y manejo de créditos del exterior, cuyo objetivo sea fomentar el desarrollo del Sector, que se otorguen por instituciones extranjeras privadas, gubernamentales o intergubernamentales, así como por cualquier otro organismo de cooperación financiera internacional.
 
@@ -117,9 +127,9 @@ V. Gestionar y, en su caso, obtener concesiones, permisos y autorizaciones para 
 
 VI. Realizar los estudios económicos, sociales y financieros necesarios para el desarrollo del Sector;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
 
-VII. Propiciar acciones conjuntas de financiamiento y asistencia con otras instituciones de crédito, fondos de fomento, fideicomisos, organizaciones auxiliares del crédito, con los sectores indígena, social y privado y con los integrantes del Sector;
+VII. Propiciar acciones conjuntas de financiamiento, modelos novedosos en términos de la Ley para Regular las Instituciones de Tecnología Financiera y asistencia con otras instituciones de crédito, fondos de fomento, fideicomisos, organizaciones auxiliares del crédito, con los sectores indígena, social y privado y con los integrantes del Sector;
 
 > <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
@@ -129,13 +139,33 @@ VIII. Ser administradora y fiduciaria de fideicomisos, mandatos y comisiones que
 
 IX. Promover, facilitar, gestionar y financiar toda clase de proyectos, operaciones y actividades que atiendan las necesidades de servicios financieros, tecnológicos, de capacitación, de asesoría, de administración de riesgos financieros, de innovación, entre otros, de los integrantes del Sector;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
 
-X. Participar en las actividades inherentes a la promoción y conformación del Sector, y
+X. Participar en las actividades inherentes a la promoción y conformación del Sector;
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
 
-XI. Diseñar y ejecutar programas que promuevan el ahorro y la inversión dentro de las comunidades indígenas, con apoyo del Sector.
+XI. Diseñar y ejecutar programas que promuevan el ahorro, la inversión y la adopción de medios de pago electrónicos dentro de las comunidades indígenas, con apoyo del Sector;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+XII. Distribuir y reportar los recursos de programas sociales de dependencias y entidades de acuerdo con la normatividad aplicable, así como las reglas de operación respectivas;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+XIII. Diseñar y ejecutar programas que promuevan el ahorro y la inversión de los integrantes del Sector;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+XIV. Diseñar y ofertar productos de crédito, inversión y ahorro para el Sector, así como prestar los servicios financieros y desarrollar los modelos novedosos previstos en la Ley para Regular las Instituciones de Tecnología Financiera;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+XV. Suscribir convenios de coordinación en apego a la normatividad aplicable, para incluir servicios financieros de los programas y productos diseñados por la Institución, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+XVI. Difundir a través de sus programas de publicidad y propaganda, los productos financieros diseñados por la Institución.
 
 La Institución deberá contar con la infraestructura necesaria para la adecuada prestación de servicios y realización de operaciones, en las distintas regiones del país y en su caso, en el extranjero.
 
@@ -147,7 +177,9 @@ I. Realizar las operaciones y prestar los servicios a que se refiere el artícul
 
 Las operaciones señaladas en el citado artículo 46, fracciones I y II, las realizará en los términos del artículo 47 de dicho ordenamiento;
 
-II. Establecer planes de ahorro;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+II. Establecer planes de ahorro y crédito, así como redes digitales, que permitan la inclusión de servicios financieros y el fomento a la captación de recursos;
 
 III. Emitir o garantizar valores, así como garantizar obligaciones de terceros, ya sea a través de operaciones particulares o de programas masivos de garantías, sin que sean aplicables las limitantes previstas en el artículo 46 fracción VIII de la Ley de Instituciones de Crédito;
 
@@ -181,21 +213,37 @@ XI. Actuar como cámara de compensación y liquidador de las operaciones que rea
 
 XI Bis. Realizar las inversiones previstas en los artículos 75, 88 y 89 de la Ley de Instituciones de Crédito;
 
-> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
 
-XII. Participar en el capital social de sociedades de inversión, así como de sociedades operadoras de éstas, y en el de sociedades distribuidoras de acciones, además de prestar el servicio de distribución de acciones a sociedades de inversión propias o de terceros, y
+XII. Participar en el capital social de sociedades de inversión, así como de sociedades operadoras de éstas, y en el de sociedades distribuidoras de acciones, además de prestar el servicio de distribución de acciones a sociedades de inversión propias o de terceros;
 
-(REUBICADA, D.O.F. 23 DE FEBRERO DE 2005)
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
 
-XIII. Realizar las demás operaciones y servicios de naturaleza análoga o conexa que autorice y regule la Secretaría.
+XIII. Fomentar el crédito de consumo, considerando condiciones financieras óptimas que permitan tener alcance y apoyo para el Sector, con el fin de cumplir con la inclusión financiera y bajo las consideraciones que en su caso estime el Consejo Directivo;
 
-> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2002)</small>
+> <small>(ADICIONADA, D.O.F. 19 DE JULIO DE 2019)</small>
 
-Artículo 8 bis.- La institución podrá ser depositaria de los títulos, valores o sumas en efectivo que tengan que hacerse por o ante las autoridades administrativas, o judiciales de la Federación y por o ante las autoridades administrativas del Distrito Federal, así como de las sumas en efectivo, títulos o valores, que secuestren las autoridades judiciales o administrativas de la Federación y aquellas que secuestren las autoridades administrativas del Distrito Federal.
+XIV. Actuar como fiduciaria en fideicomisos emisores de certificados bursátiles en los términos de las disposiciones de la Ley del Mercado de Valores;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+XV. Recibir mandatos para administrar recursos de terceros, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+XVI. Realizar las demás operaciones y servicios de naturaleza análoga o conexa que autorice y regule la Secretaría, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE JULIO DE 2019)</small>
+
+###### Artículo 8 Bis.
+
+La Institución podrá ser depositaria de los títulos, valores o sumas en efectivo que tengan que hacerse por o ante las autoridades administrativas, o judiciales de la Federación y por o ante las autoridades administrativas de la Ciudad de México, así como de las sumas en efectivo, títulos o valores, que secuestren las autoridades judiciales o administrativas de la Federación y aquellas que secuestren las autoridades administrativas de la Ciudad de México.
 
 Las autoridades mencionadas estarán obligadas a entregar a la institución dichos bienes en su indicado carácter de depositaria.
 
-También podrán realizar en la institución, los depósitos para el otorgamiento de la suspensión del acto reclamado en el juicio de amparo y, en general, los depósitos de garantía que deban constituirse conforme a las disposiciones de las leyes federales, y en su caso, del Distrito Federal o por órdenes o contratos de autoridades de la Federación, y en su caso, del Distrito Federal.
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2019)</small>
+
+También podrán realizar en la institución, los depósitos para el otorgamiento de la suspensión del acto reclamado en el juicio de amparo y, en general, los depósitos de garantía que deban constituirse conforme a las disposiciones de las leyes federales y, en su caso, la Ciudad de México o por órdenes o contratos de autoridades de la Federación y, en su caso, la Ciudad de México.
 
 ###### Artículo 9.
 
@@ -247,7 +295,9 @@ La administración de la Institución, estará encomendada a un Consejo Directiv
 
 El Consejo Directivo estará integrado por nueve consejeros propietarios conforme a lo siguiente:
 
-I. Cinco consejeros propietarios representarán a la serie "A" de certificados de aportación patrimonial que serán:
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+I. Cinco consejeros propietarios que representarán a la serie "A" de los certificados de aportación patrimonial que serán:
 
 a) El Secretario de Hacienda y Crédito Público, quien presidirá el Consejo Directivo y el Subsecretario de Hacienda y Crédito Público.
 
@@ -259,7 +309,7 @@ Por cada consejero propietario de esta serie, se deberá nombrar preferentemente
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2014)</small>
 
-En ausencia del Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público tendrá carácter de presidente del Consejo Directivo, en ausencia de este último, tendrá el carácter de presidente el suplente del Secretario de Hacienda y Crédito Público y a falta de todos los anteriores, quien designen los consejeros presentes de entre los consejeros de la serie “A”.
+En ausencia del Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público tendrá carácter de presidente del Consejo Directivo, en ausencia de este último, tendrá el carácter de presidente el suplente del Secretario de Hacienda y Crédito Público y a falta de todos los anteriores, quien designen los consejeros presentes de entre los consejeros de la serie "A".
 
 II. Dos consejeros propietarios de la serie "B" designados en asamblea por las personas físicas o morales mexicanas tenedoras de los certificados de aportación patrimonial de esta serie y por el Ejecutivo Federal, a través de la Secretaría, para el caso de que el Gobierno Federal suscriba certificados de esta serie. Los consejeros de la serie "B" no tendrán suplentes, y
 
@@ -475,9 +525,11 @@ En caso de ausencia del Subsecretario de Hacienda y Crédito Público, sin perju
 
 El Director General será designado por el Ejecutivo Federal a través del Secretario de Hacienda y Crédito Público, debiendo recaer ese nombramiento en persona que reúna los requisitos que establece el artículo 24 de la Ley de Instituciones de Crédito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE JULIO DE 2019)</small>
+
 ###### Artículo 25.
 
-El Director General tendrá a su cargo la administración y representación legal del Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, sin perjuicio de las atribuciones que correspondan al Consejo Directivo; al efecto tendrá las siguientes facultades y funciones:
+El Director General tendrá a su cargo la administración y representación legal del Banco del Bienestar, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, sin perjuicio de las atribuciones que correspondan al Consejo Directivo; al efecto tendrá las siguientes facultades y funciones:
 
 I. En el ejercicio de sus atribuciones de representación legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Institución. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas, aun de aquellas que requieran autorización especial según otras disposiciones legales o reglamentarias. En tal virtud y de manera enunciativa y no limitativa, podrá emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales inclusive en el juicio de amparo, comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan, aun las que requieran cláusula especial, sustituirlos y revocarlos, y otorgar facultades de sustitución a los apoderados debiendo obtener autorización expresa del Consejo Directivo cuando se trate de otorgar poderes generales para actos de dominio;
 
@@ -601,6 +653,12 @@ XXXI. Las que le confiera el Reglamento Orgánico, y
 
 XXXII. Las demás que le delegue el Consejo Directivo o que sea necesario desarrollar para el cumplimiento de lo dispuesto en las fracciones anteriores; o aquellas que le confieran otras leyes, reglamentos, decretos, acuerdos y disposiciones administrativas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 19 DE JULIO DE 2019)</small>
+
+###### Artículo 25 Bis.
+
+El Director General, así como los funcionarios de los dos niveles jerárquicos inferiores a éste, podrán expedir certificaciones de los documentos existentes en los archivos de las direcciones a su cargo.
+
 ###### Artículo 26.
 
 Los Consejeros, el Director General y los Delegados Fiduciarios de la Institución, sólo estarán obligados a absolver posiciones o rendir testimonio en juicio en representación de la misma, cuando las posiciones y las preguntas se formulen por medio de oficio, el que contestarán por escrito dentro del término que señalen las autoridades respectivas.
@@ -689,7 +747,9 @@ VI. Los financiamientos conjuntos a que se refiere la fracción VII del artícul
 
 VII. Los financiamientos a las Entidades de Ahorro y Crédito Popular destinados a proveerlas de liquidez.
 
-Tratándose de los financiamientos que tengan por objeto proveer de liquidez a las Entidades de Ahorro y Crédito deberán quedar garantizados por el fondo de protección, que tengan constituido conforme a la Ley de Ahorro y Crédito Popular, en los términos y con las limitaciones que se establecen en esa misma Ley. El Consejo Directivo determinará en cada caso, las características de las garantías que las Entidades tendrán que otorgar.
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2019)</small>
+
+Tratándose de los financiamientos que tengan por objeto proveer de liquidez a las Entidades de Ahorro y Crédito deberán quedar garantizados por el fondo de protección a que se refiere la Ley de Ahorro y Crédito Popular y cuya administración estará a cargo de la Institución. El Consejo Directivo determinará en cada caso, las características de las garantías que las Entidades tendrán que otorgar.
 
 ###### Artículo 37.
 
@@ -860,3 +920,17 @@ VI. Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones 
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 19 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, modificará el Reglamento Orgánico del Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en un plazo no mayor a sesenta días hábiles, a fin de armonizar la presente reforma.
+
+Tercero.- La Secretaría de Hacienda y Crédito Público proveerá los recursos necesarios para la modernización del Banco del Bienestar con motivo de la entrada en vigor del presente Decreto, sujeto a la Ley de Ingresos de la Federación, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como a la disponibilidad, ampliaciones y adecuaciones presupuestarias previstas en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
+
+Cuarto.- Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones jurídicas emitidas con anterioridad al presente Decreto, así como todos los contratos, convenios y demás actos jurídicos celebrados por la Institución, hagan referencia al Banco del Ahorro Nacional y Servicios Financieros, se entenderá la remisión al Banco del Bienestar.
