@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-fomento-educativo-117
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-11-29"
-last_updated: "2016-11-29"
+last_updated: "2019-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117420&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-09-19"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE FOMENTO EDUCATIVO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JULIO DE 2019.
 
 Estatuto publicado en la Primera Sección al Número 22 del Diario Oficial de la Federación, el martes 29 de noviembre de 2016.
 
@@ -39,13 +39,17 @@ ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE FOMENTO EDUCATIVO
 
 El presente Estatuto Orgánico tiene por objeto establecer la estructura y normar la organización y funcionamiento del Consejo Nacional de Fomento Educativo (CONAFE); así como determinar las facultades y funciones de las unidades administrativas, de conformidad con la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley General de Educación, el Decreto que rige al CONAFE y las demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 2.
 
-El Consejo Nacional de Fomento Educativo es un organismo descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, agrupado en el sector coordinado por la Secretaría de Educación Pública, creado por Decreto presidencial publicado en el Diario Oficial de la Federación el 10 de septiembre de 1971 y que actualmente se rige por el Decreto por el que se reorganiza el Consejo Nacional de Fomento Educativo, el cual tiene por objeto prestar servicios de educación inicial y básica bajo el modelo de educación comunitaria con equidad educativa e inclusión social, a menores de cero a tres años once meses y a niñas, niños y adolescentes, así como promover el desarrollo de competencias parentales en madres, padres y cuidadores que habitan en localidades preferentemente rurales e indígenas que registran altos y muy altos niveles de marginación y/o rezago social, en lo sucesivo la población potencial.
+El Consejo Nacional de Fomento Educativo es un organismo descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, agrupado en el sector coordinado por la Secretaría de Educación Pública, creado por Decreto presidencial publicado en el Diario Oficial de la Federación el 10 de septiembre de 1971 y que actualmente se rige por el Decreto por el que se reorganiza el Consejo Nacional de Fomento Educativo, el cual tiene por objeto prestar servicios de educación comunitaria con equidad educativa e inclusión social, a menores de cero a tres años once meses y a niñas, niños y adolescentes, así como promover el desarrollo de competencias parentales en madres, padres y cuidadores que habitan en localidades preferentemente rurales e indígenas que registran altos y muy altos niveles de marginación y/o rezago social, en lo sucesivo la población potencial.
+
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 3.
 
-El CONAFE a través de sus unidades administrativas y las Delegaciones Estatales ejecutará sus actividades de manera programada, de acuerdo con los lineamientos y disposiciones que emita su Junta de Gobierno y conforme a las políticas que en la materia establezca la Secretaría de Educación Pública.
+El CONAFE a través de sus unidades administrativas ejecutarán sus actividades de manera programada, de acuerdo con los lineamientos y disposiciones que emita su Junta de Gobierno y conforme a las políticas que en la materia establezca la Secretaría de Educación Pública y demás Autoridades competentes.
 
 ###### ARTÍCULO 4.
 
@@ -59,7 +63,7 @@ III. CONAFE: El Consejo Nacional de Fomento Educativo;
 
 IV. Junta de Gobierno u Órgano de Gobierno: A la Junta de Gobierno del CONAFE;
 
-V. Delegaciones: A las representaciones del CONAFE que de manera desconcentrada son responsables de la operación de los servicios de educación inicial y básica bajo el modelo de educación comunitaria que presta en los Estados del País.
+V. (DEROGADA, D.O.F. 19 DE JULIO DE 2019)
 
 ###### ARTÍCULO 5.
 
@@ -73,19 +77,25 @@ III. Unidades Administrativas:
 
 a) Dirección de Educación Comunitaria e Inclusión Social.
 
-b) Dirección de Educación Inicial.
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2019)</small>
 
-c) Dirección de Comunicación y Cultura.
+b) Dirección de Cultura y Difusión.
+
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2019)</small>
+
+c) Dirección de Operación Territorial.
 
 d) Dirección de Delegaciones y Concertación con el Sector Público.
 
-e) Dirección de Planeación y Evaluación.
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2019)</small>
+
+e) Unidad de Administración y Finanzas
 
 f) Dirección de Administración y Finanzas.
 
 g) Dirección de Asuntos Jurídicos.
 
-IV. Delegaciones Estatales.
+IV. (DEROGADA, D.O.F. 19 DE JULIO DE 2019)
 
 ### CAPÍTULO SEGUNDO. DE LA JUNTA DE GOBIERNO
 
@@ -185,9 +195,13 @@ El CONAFE contará con un Comisario Público Propietario y un Suplente, de confo
 
 El Director General de la Entidad tendrá, sin perjuicio de las previstas en los artículos 22 y 59 de la Ley Federal de las Entidades Paraestatales y 12 del Decreto del CONAFE las siguientes facultades y obligaciones:
 
-I. Dirigir técnica y administrativamente al CONAFE;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
 
-II. Autorizar modelos pedagógicos, planes y programas de estudio, oferta curricular, métodos, contenidos, materiales, módulos de aprendizaje, cursos y acciones de diagnóstico, mejora de los servicios y modelos educativos para la población objetivo, así como estrategias, metodologías y programas de investigación en dicha materia;
+I. Representar legalmente y Administrar al CONAFE;
+
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+II. Autorizar en materia de educación básica e inicial los modelos pedagógicos, planes, programas de estudio, oferta curricular, métodos, contenidos, materiales, módulos de aprendizaje, cursos, acciones de diagnóstico, mejora de los servicios y modelos educativos para la educación comunitaria;
 
 III. Proponer a la aprobación de la Junta de Gobierno, la concertación de préstamos para el financiamiento del CONAFE con créditos internos y externos;
 
@@ -205,7 +219,9 @@ IX. Establecer y promover las políticas y directrices para la instrumentación 
 
 X. Presidir los comités internos institucionales, conforme a las atribuciones establecidas en los ordenamientos que los rigen;
 
-XI. Proponer a la Junta de Gobierno, el nombramiento de los servidores públicos que ocupen los cargos con las dos jerarquías inmediatas inferiores a la de Director General del CONAFE; y los nombramientos de los Titulares de las Delegaciones Estatales del Consejo;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+XI. Proponer a la Junta de Gobierno, el nombramiento de los servidores públicos que ocupen los cargos con las dos jerarquías inmediatas inferiores a la de Director General del CONAFE. Salvo aquellas propuestas que por disposición de la ley se confieran a otras autoridades; excepto la Dirección de Asuntos Jurídicos, Unidad de Administración y Finanzas; y la Dirección de Cultura y Difusión;
 
 XII. Establecer la coordinación conducente con la Secretaría de Relaciones Exteriores, en los asuntos de su competencia, para difundir y fomentar en el ámbito internacional, los programas y acciones del CONAFE;
 
@@ -219,11 +235,19 @@ XVI. Establecer las instancias de asesoría, de coordinación y de consulta que 
 
 XVII. Designar a los representantes suplentes del CONAFE, ante los órganos de gobierno de las entidades en las que participa como consejero;
 
-XVIII. Realizar todas aquellas que le señalen otras leyes, reglamentos, decretos, acuerdos y demás disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE JULIO DE 2019)</small>
+
+XVIII. Proporcionar al Órgano Interno de Control, de conformidad con las disposiciones aplicables, los recursos humanos y materiales para la atención de los asuntos a su cargo. Asimismo, los servidores públicos del CONAFE facilitarán, dentro del ámbito de su competencia, el auxilio que requiera el titular de dicho órgano para el desempeño de sus facultades
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 19 DE JULIO DE 2019)</small>
+
+XIX. Realizar todas aquellas que le señalen otras leyes, reglamentos, decretos, acuerdos y demás disposiciones legales.
 
 ### CAPÍTULO CUARTO
 
-#### SECCIÓN PRIMERA. DE LAS UNIDADES ADMINISTRATIVAS CENTRALES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE JULIO DE 2019)</small>
+
+#### SECCIÓN PRIMERA. DE LAS UNIDADES ADMINISTRATIVAS
 
 ###### ARTÍCULO 15.
 
@@ -235,15 +259,21 @@ Para el estudio, coordinación, planeación y despacho de los asuntos de su comp
 
 I. Dirección de Educación Comunitaria e Inclusión Social.
 
-II. Dirección de Educación Inicial.
+II. (DEROGADA, D.O.F. 19 DE JULIO DE 2019)
 
-III. Dirección de Comunicación y Cultura.
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
 
-IV. Dirección de Delegaciones y Concertación con el Sector Público.
+III. Dirección de Cultura y Difusión.
+
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+IV. Dirección de Operación Territorial.
 
 V. Dirección de Planeación y Evaluación.
 
-VI. Dirección de Administración y Finanzas.
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+VI. Unidad de Administración y Finanzas.
 
 VII. Dirección de Asuntos Jurídicos.
 
@@ -269,13 +299,17 @@ VI. Coordinar acciones con los demás directores de área y participar en los co
 
 VII. Atender las comisiones que el Director General le encomiende y mantenerlo informado sobre el desarrollo de las mismas;
 
-VIII. Seleccionar al personal a su cargo con apego a las disposiciones, normas y lineamientos establecidos por el CONAFE;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+VIII. Proponer al Director General el personal que ocupará empleos o cargos en sus áreas, con apego a las disposiciones, normas y lineamientos establecidos por el CONAFE;
 
 IX. Vigilar que se cumpla estrictamente con las disposiciones legales aplicables a los asuntos asignados a la Dirección de Área a su cargo;
 
 X. Dar la información solicitada por las dependencias de la Administración Pública Federal, de conformidad con las políticas establecidas;
 
-XI. Emitir copias certificadas de los documentos originales que obren en los archivos de la dirección a su cargo; excepto cuando deban ser exhibidas en procesos judiciales o contencioso-administrativos y en general, para cualquier proceso o averiguación; ya que en estos supuestos serán emitidas por la Dirección de Asuntos Jurídicos; de conformidad a la normatividad aplicable en la materia;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+XI. Emitir copias certificadas de los documentos originales que obren en los archivos de la dirección a su cargo incluidos aquellos que requieran las Autoridades en el ejercicio de las facultades de auditoría, revisiones y demás actos de fiscalización; excepto cuando deban ser exhibidas en procesos judiciales, jurisdiccionales, administrativos, de presunta responsabilidad administrativa y en general, para cualquier proceso o averiguación; ya que en estos supuestos serán emitidas por la Dirección de Asuntos Jurídicos; de conformidad a la normatividad aplicable en la materia;
 
 XII. Dirigir la vinculación, negociación, cooperación con Instituciones Públicas del Gobierno Federal, organismos internacionales, multilaterales, embajadas, organizaciones de la sociedad civil y empresas, para la implementación de programas, convenios y acuerdos que aporten recursos técnicos, materiales, logísticos y financieros para el mejoramiento de las diferentes acciones y programas del CONAFE, y
 
@@ -311,17 +345,25 @@ XI. Determinar los criterios para verificar y asegurar el cumplimiento de los tr
 
 XII. Formular estrategias de innovación educativa que fortalezcan la calidad de la educación básica considerando los contextos donde operan los servicios educativos;
 
-XIII. Formular actualizaciones a la currícula de la educación básica comunitaria, así como proponer metodologías de intervención didáctica pertinentes a los contextos sociales y culturales donde operan los servicios educativos;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+XIII. Formular actualizaciones a la currícula de la educación comunitaria, así como proponer metodologías de intervención didáctica pertinentes a los contextos sociales y culturales donde operan los servicios educativos;
 
 XIV. Proponer contenidos y estrategias de formación para la práctica educativa de calidad y desarrollo profesional de las figuras educativas, así como del personal que desempeña funciones de apoyo técnico;
 
 XV. Desarrollar los recursos, materiales educativos y de difusión dirigidos tanto a la (sic) figuras educativas como a las niñas, niños, adolescentes y padres de familia, para apoyar la prestación de los servicios educativos con un enfoque de pertinencia, interculturalidad, equidad de género y respeto a la diversidad, acordes con el objeto del Consejo;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 19 DE JULIO DE 2019)</small>
+
 XVI. Establecer y mantener actualizados los lineamientos, manuales, orientaciones y guías para la organización, funcionamiento y seguimiento de los procesos pedagógicos en los servicios de educación básica bajo el modelo de educación comunitaria a cargo del Consejo;
 
-XVII. Desarrollar esquemas de gestión educativa de servicios educativos que fortalezcan los apoyos destinados a la educación básica bajo el modelo de educación comunitaria a cargo del Consejo;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
 
-XVIII. Fomentar e implementar esquemas de evaluación de la calidad educativa de los programas que opera el Consejo, de acuerdo a las directrices que establezca la Secretaría de Educación Pública y el Instituto Nacional para la Evaluación de la Educación;
+XVII. Desarrollar esquemas de gestión educativa de servicios educativos que fortalezcan los apoyos destinados a la educación comunitaria a cargo del Consejo;
+
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+XVIII. Fomentar e implementar esquemas de evaluación de la calidad educativa de los programas que opera el Consejo, de acuerdo a las directrices que establezca la Secretaría de Educación Pública;
 
 XIX. Promover la equidad y la inclusión educativa en las aulas comunitarias para garantizar la igualdad entre los niños, niñas y jóvenes de las comunidades más vulnerables;
 
@@ -329,7 +371,9 @@ XX. Proponer e implementar programas, proyectos y estrategias para que los niño
 
 XXI. Establecer mecanismos para dar seguimiento a los resultados del aprovechamiento escolar de los alumnos así como determinar estrategias pedagógicas para la mejora de la calidad educativa, los aprendizajes y el logro educativo;
 
-XXII. Realizar acompañamiento y asesoría a las Delegaciones Estatales en aspectos relacionados al desarrollo de los programas de educación básica comunitaria y a la formación de las figuras;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+XXII. Acompañar y asesorar a las Coordinaciones Territoriales para el Servicio Educativo en las Entidades Federativas en aspectos relacionados al desarrollo de los programas de educación comunitaria y a la formación de las figuras;
 
 XXIII. Proponer y coordinar los procesos para otorgar a las figuras, agentes, organizaciones y beneficiarios los incentivos que fomenten su permanencia, mejora y participación en la educación;
 
@@ -339,49 +383,19 @@ XXV. Establecer los lineamientos en coordinación con las diversas unidades admi
 
 XXVI. Operar el Sistema de Estudios a Docentes en la Ciudad de México;
 
-XXVII. Las demás que establezcan la Junta de Gobierno, el Director General de la Entidad y las disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
 
-###### ARTÍCULO 19.
+XXVII. Las demás que establezcan la Junta de Gobierno, el Titular de la Entidad y las disposiciones legales aplicables.
 
-Corresponden a la Dirección de Educación Inicial las siguientes funciones:
+###### ARTICULO 19.
 
-I. Definir lineamientos y criterios de intervención pedagógica para la educación inicial bajo el modelo de educación comunitaria, destinada a la población rural y migrante que habita en localidades preferentemente rurales e indígenas que registran altos y muy altos niveles de marginación y/o rezago social, intervención pedagógica para la educación inicial bajo el modelo de educación comunitaria, destinada a la población rural, indígena y de zonas urbano-marginadas, así como los criterios de organización, gestión y funcionamiento de los servicios educativos;
+(DEROGADO, D.O.F. 19 DE JULIO DE 2019)
 
-II. Definir y gestionar los mecanismos para dar seguimiento y evaluar los procesos en la educación inicial bajo el modelo de educación comunitaria a cargo de las Delegaciones Estatales;
-
-III. Establecer lineamientos y estándares de calidad para el desempeño de las figuras educativas y los equipos de apoyo técnico en los servicios de educación inicial bajo el modelo de educación comunitaria, así como vigilar y evaluar su aplicación en las Delegaciones Estatales;
-
-IV. Determinar los criterios para asegurar la continuidad y la progresión entre las disposiciones y lineamientos pedagógicos de la educación inicial bajo el modelo de educación comunitaria a cargo del Consejo, destinada a la población rural, indígena y de zonas urbano-marginadas;
-
-V. Proponer contenidos y estrategias de formación y desarrollo profesional de la cadena operativa de educación inicial bajo el modelo de educación comunitaria, así como del personal que desempeña funciones de apoyo técnico-pedagógico;
-
-VI. Definir y desarrollar los recursos materiales educativos y de difusión dirigidos tanto a las figuras educativas, como a las niñas, niños, y madres, padres y cuidadores, para apoyar la prestación de los servicios educativos con un enfoque de pertinencia, inclusión, equidad de género y respeto a la diversidad, acordes con el objeto del Consejo;
-
-VII. Elaborar estrategias de educación inicial bajo el modelo de educación comunitaria que favorezcan el desarrollo integral de niñas y niños menores de 4 años que habitan en localidades tanto rurales, indígenas y urbano marginadas;
-
-VIII. Desarrollar estrategias para el fortalecimiento de competencias de padres, madres y cuidadores con la finalidad de enriquecer sus prácticas de crianza, así como para el desarrollo de sus competencias parentales, que promuevan el autocuidado, autogestión, el apego y los vínculos afectivos, en beneficio de los menores de cero a tres años once meses de edad;
-
-IX. Definir estrategias educativas específicas para mujeres embarazadas y hombres responsables en la crianza, para el desarrollo de competencias en aspectos de maternidad y paternidad que promuevan el autocuidado, autogestión, el apego y los vínculos afectivos, en beneficio de los niños y niñas desde la gestación hasta los tres años once meses;
-
-X. Establecer y mantener actualizados los lineamientos de organización y funcionamiento de los servicios de educación inicial bajo el modelo de educación comunitaria a cargo del Consejo, acordes con los contextos rurales, indígenas y de zonas urbano-marginadas;
-
-XI. Desarrollar los esquemas de gestión de servicios educativos que optimicen los recursos disponibles destinados a la educación inicial bajo el modelo de educación comunitaria a cargo del Consejo;
-
-XII. Promover la equidad y la inclusión social en las sesiones de Educación inicial bajo el modelo de educación comunitaria para garantizar la igualdad entre los niños y las niñas de las comunidades más vulnerables;
-
-XIII. Dar acompañamiento y asesoría a las Delegaciones Estatales en aspectos relacionados al desarrollo de los programas de Educación inicial bajo el modelo de educación comunitaria y a la formación de las figuras educativas;
-
-XIV. Diseñar e implementar acciones para fortalecer las experiencias de aprendizaje de niños y a las niñas desde la primera infancia, asumiéndoles como sujetos y personas con derechos;
-
-XV. Proponer acciones que impacten sobre el desarrollo comunitario y la cohesión familiar, en torno a la consolidación de una sociedad inclusiva de los menores de cero a tres años once meses de edad;
-
-XVI. Desarrollar esquemas de protección para asegurar entornos seguros desde la gestación y la atención a la primera infancia y
-
-XVII. Las demás que establezcan la Junta de Gobierno, el Director General de la Entidad y las disposiciones aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 20.
 
-Corresponden a la Dirección de Comunicación y Cultura, las siguientes funciones:
+Corresponden a la Dirección de Cultura y Difusión, las siguientes funciones:
 
 I. Dirigir la elaboración del Programa Anual de Comunicación Social de conformidad con las políticas y lineamientos que determinen las autoridades competentes en la materia y los criterios que al respecto establezca el Director General del CONAFE; así como, vigilar su cumplimiento por parte de las Unidades Administrativas Centrales y las Delegaciones Estatales;
 
@@ -397,7 +411,9 @@ VI. Establecer los criterios y estrategias para instrumentar acciones de promoci
 
 VII. Asegurar la calidad de la producción de los materiales didácticos y promocionales, tanto impresos como audiovisuales que proyecten la imagen o la misión del Consejo;
 
-VIII. Asegurar el cumplimiento de las disposiciones legales vigentes, para la producción de los materiales editoriales y audiovisuales que se elaboran, diseñan y difunden en las diversas áreas del Consejo, tanto en Oficinas Centrales como en las Delegaciones Estatales;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+VIII. Asegurar el cumplimiento de las disposiciones legales vigentes, para la producción de los materiales editoriales y audiovisuales que se elaboran, diseñan y difunden en las diversas áreas del Consejo;
 
 IX. Coordinar la promoción de los materiales editoriales, artísticos y de difusión producidos por el Consejo ante foros nacionales e internacionales;
 
@@ -423,29 +439,49 @@ XIX. Elaborar estrategias para la realización de actividades para el uso recrea
 
 XX. Propiciar el uso constante y adecuado de los acervos con los que cuentan las bibliotecas comunitarias para brindar un servicio a los habitantes de las comunidades con servicio educativo CONAFE, y
 
-XXI. Las demás que establezcan la Junta de Gobierno, el Director General de la Entidad y las disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+XXI. Las demás que le establezcan la Junta de Gobierno, el Titular de la Entidad y las disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 21.
 
-Corresponden a la Dirección de Delegaciones y Concertación con el Sector Público las siguientes funciones:
+Corresponden a la Dirección de Operación Territorial las siguientes funciones:
 
-I. Asesorar a las Delegaciones Estatales en la elaboración de su programa anual de trabajo;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
 
-II. Evaluar, en coordinación con la Dirección de Planeación y Evaluación el desempeño de los responsables de las Delegaciones Estatales con base en indicadores de resultados;
+I. Elaborar y coordinar el Programa Anual de Trabajo de Educación Comunitaria de las Entidades Federativas de conformidad con las políticas y lineamientos que determinen las autoridades competentes en la materia y los criterios que al respecto establezca la Dirección General del CONAFE; así como, vigilar y evaluar su cumplimiento;
 
-III. Coordinar a las Delegaciones Estatales en el desarrollo de sus funciones sustantivas y adjetivas, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+II. Evaluar, en coordinación con la Dirección de Planeación y Evaluación los indicadores de desempeño para el cumplimiento de objetivos y metas;
+
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+III. Coordinar y dar cumplimiento al servicio educativo en cada una de las Entidades Federativas de conformidad con la normatividad aplicable
 
 IV. Colaborar con las diversas unidades administrativas del Consejo, en las evaluaciones para la prestación de los servicios de educación inicial y educación básica compensada bajo el modelo de educación comunitaria en términos de cobertura, equidad, calidad y pertinencia, así como proponer alternativas de mejora;
 
-V. Integrar las propuestas de mejora formuladas por las Delegaciones Estatales para modificar o actualizar normas, lineamientos, procesos y disposiciones establecidas por las unidades administrativas centrales correspondientes;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
 
-VI. Retroalimentar a las Delegaciones Estatales con base en los resultados de los diagnósticos, estudios y valoraciones que se realizan a nivel central, relativos a procesos sustantivos, de regulación y adjetivos, conjuntamente con las diversas unidades administrativas del Consejo;
+V. Instruir a las Coordinaciones Territoriales para el Servicio Educativo en las Entidades Federativas las líneas de acción para modificar o actualizar normas, lineamientos y procesos;
 
-VII. Promover, en coordinación con la Dirección de Planeación y Evaluación, el uso de los sistemas de información estratégica, regional y local para apoyar el desarrollo de las acciones de las Delegaciones Estatales;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
 
-VIII. Contribuir al cumplimiento de los objetivos y metas institucionales, mediante la mejora en la organización y operación de las Delegaciones Estatales;
+VI. Implementar acciones con base en los resultados de los diagnósticos, estudios y valoraciones que se realizan a nivel central, relativos a procesos sustantivos, de regulación y adjetivos, conjuntamente con las Coordinaciones Territoriales para el Servicio Educativo;
 
-IX. Asesorar a las Delegaciones Estatales para que apliquen de manera racional y óptima los recursos asignados para el cumplimiento de las metas institucionales;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+VII. Promover, en coordinación con la Dirección de Planeación y Evaluación, el uso de los sistemas de información estratégica, regional y local para apoyar el desarrollo de las acciones de las Coordinaciones Territoriales para el Servicio Educativo en las Entidades Federativas del CONAFE;
+
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+VIII. Contribuir al cumplimiento de los objetivos y metas institucionales, mediante la mejora en la organización y operación de las Coordinaciones Territoriales para el Servicio Educativo en las Entidades federativas del CONAFE.
+
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+IX. Aplicar de manera racional y óptima los recursos que le sean asignados para el cumplimiento de las metas institucionales;
 
 X. Promover la difusión de Programas y convenios de fortalecimiento institucional;
 
@@ -459,23 +495,31 @@ XIV. Apoyar a las figuras educativas para que obtengan estándares de competenci
 
 XV. Proponer acciones que permitan reorientar la labor de las figuras educativas;
 
-XVI. Apoyar los procesos de gestión de las Delegaciones Estatales, para contribuir a elevar la eficacia y eficiencia de su desarrollo;
+XVI. (DEROGADA, D.O.F. 19 DE JULIO DE 2019)
 
-XVII. Establecer, conjuntamente con las diversas unidades administrativas del Consejo, los criterios y mecanismos de interrelación de las Delegaciones con los Gobiernos Estatales y Municipales para la prestación de servicios de educación inicial y de educación básica bajo el modelo de educación comunitaria;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+XVII. Establecer, conjuntamente con las diversas unidades administrativas del Consejo, los criterios y mecanismos de interrelación y de gestión con los Gobiernos Estatales y Municipales para la prestación de servicios de educación comunitaria;
 
 XVIII. Aportar elementos necesarios para la evaluación de los procesos de fortalecimiento, concertación y vinculación institucional que lleve a cabo el CONAFE;
 
 XIX. Promover la vinculación con organismos del sector público para fortalecer las acciones del CONAFE;
 
-XX. Coordinar con instituciones estatales apoyos para la implementación y fortalecimiento de las líneas de acción del Consejo: Educación Inicial y Educación Básica bajo el modelo de educación comunitaria;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
 
-XXI. Promover la concertación con Instituciones educativas estatales en beneficio de las líneas de acción del CONAFE;
+XX. Gestionar con instituciones estatales apoyos para la implementación y fortalecimiento de las líneas de acción del Consejo para la prestación de servicios de educación comunitaria;
 
-XXII. Supervisar y monitorear el cumplimiento de los apoyos convenidos, así como la reanudación de los mismos;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
 
-XXIII. Implementar estrategias de concertación con órganos estatales y municipales, para asegurar la concurrencia de programas, proyectos y recursos para la atención de los municipios con mayor rezago social y educativo;
+XXI. Realizar la concertación con Instituciones educativas estatales en beneficio de las líneas de acción del CONAFE;
 
-XXIV. Dar seguimiento y evaluar la operación de las acciones de fortalecimiento, concertación y vinculación, que acuerden unidades administrativas con instancias federales, estatales, municipales, del sector público o privado; y/o educativas;
+XXII. (DEROGADA, D.O.F. 19 DE JULIO DE 2019)
+
+XXIII. (DEROGADA, D.O.F. 19 DE JULIO DE 2019)
+
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+XXIV. Dar seguimiento y evaluar la operación de las acciones de fortalecimiento, concertación y vinculación, que lleven a cabo las Coordinaciones Territoriales para el Servicio Educativo en las Entidades Federativas con instancias federales, estatales, municipales, del sector público o privado; y/o educativas;
 
 XXV. Promover la vinculación y comunicación con unidades administrativas y Órganos Ejecutores Estatales (OEE), a fin de generar una buena coordinación en el desarrollo y ejecución de los programas;
 
@@ -489,7 +533,7 @@ XXIX. Coordinar y validar el programa de Mobiliario Escolar y su aplicación y/o
 
 XXX. Establecer y difundir estrategias para impulsar la concurrencia de recursos y esfuerzos de los gobiernos estatales y municipales en materia de construcción y rehabilitación de los espacios educativos y técnicos administrativos;
 
-XXXI. Programar y coordinar cursos de capacitación a las Delegaciones Estatales y a los Presidentes de las APEC para difundir la normatividad vigente del CONAFE e INIFED para la construcción y la rehabilitación de espacios educativos y técnicos administrativos;
+XXXI. (DEROGADA, D.O.F. 19 DE JULIO DE 2019)
 
 XXXII. Emitir información estadística, avances físicos y financieros a fin de respaldar la toma de decisiones en materia de construcción y rehabilitación de espacios educativos y técnico administrativos;
 
@@ -505,13 +549,17 @@ XXXVII. Participar en el diseño, organización y capacitación de las figuras o
 
 XXXVIII. Impulsar los procesos de formación de padres de familia a través de las Asociaciones de Padres de Familia;
 
-XXXIX. Asistir a los eventos de formación de figuras con motivo de la implementación de las estrategias compensadas;
+XXXIX. (DEROGADA, D.O.F. 19 DE JULIO DE 2019)
 
 XL. Diagnosticar, evaluar, definir y proponer Auxiliares Didácticos para la mejora de los aprendizajes de niños, niñas y adolescentes beneficiados por el Consejo;
 
-XLI. Promover la coordinación y concertación de acciones entre el Órgano Ejecutor Estatal y Delegaciones Estatales del CONAFE;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
 
-XLII. Evaluar el impacto de los Programas Compensatorios que promuevan mejores condiciones de equidad para la educación básica bajo el modelo de educación comunitaria en las localidades con mayor rezago educativo y social;
+XLI. Promover la coordinación y concertación de acciones entre la Autoridad Educativa Estatal;
+
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+XLII. Evaluar el impacto de los Programas Compensatorios que promuevan mejores condiciones de equidad para la educación comunitaria en las localidades con mayor rezago educativo y social
 
 XLIII. Validar la proyección y programación de útiles escolares del universo compensado y comunitario;
 
@@ -521,253 +569,247 @@ XLV. Establecer seguimientos a los lineamientos políticas y procedimientos esta
 
 XLVI. Dirigir la vinculación, negociación y cooperación con organismos internacionales, multilaterales, embajadas, organizaciones de la sociedad civil y empresas para la implementación de programas, convenios y acuerdos que aporten recursos técnicos, materiales logísticos y financieros para el mejoramiento de las diferentes acciones, programas y figuras operativas del Consejo;
 
-XLVII. Colaborar con la Dirección de Planeación y Evaluación y la Dirección de Administración y Finanzas, en el análisis de correspondencia entre metas y recursos destinados a la operación de las Delegaciones Estatales, para proponer la elaboración y asignación del presupuesto orientado a resultados;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
 
-XLVIII. Proponer y coordinar los procesos para otorgar a las figuras, agentes educativos comunitarios, organizaciones y beneficiarios los incentivos que fomenten su permanencia, mejora y participación en la educación, en las localidades con mayor rezago educativo y social;
+XLVII. Colaborar con la Dirección de Planeación y Evaluación y la Unidad de Administración y Finanzas, en el análisis de correspondencia entre metas y recursos destinados a su operación, para proponer la elaboración y asignación del presupuesto orientado a resultados;
 
-XLIX. Coordinar las acciones de contraloría social en servicios de educación inicial, de educación básica bajo el modelo de educación comunitaria y en escuelas compensadas, de acuerdo con la normatividad vigente;
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+XLVIII. Proponer y realizar los procesos para otorgar a las figuras educativas, organizaciones y beneficiarios los incentivos que fomenten su permanencia, mejora y participación en la educación, en las localidades con mayor rezago educativo y social;
+
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+XLIX. Promover y Coordinar las acciones de contraloría social en servicios de educación comunitaria y en escuelas compensadas, de acuerdo con la normatividad vigente;
 
 L. Establecer estrategias para estimular la corresponsabilidad de los miembros de la comunidad y de las autoridades locales en la gestión educativa;
 
 LI. Coordinar el Proyecto de Enlace Institucional cuyo objetivo es brindar orientación y atención a las unidades administrativas, derivado de los procesos operativos de los servicios de educación inicial bajo el modelo de educación comunitaria y programas compensatorios, así como el seguimiento de las acciones estatales, y
 
-LII. Las demás que establezcan la Junta de Gobierno, el Director General de la Entidad y las disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE JULIO DE 2019)</small>
+
+LII. Expedir los certificados y demás documentación que acrediten conocimientos, habilidades, aptitudes adquiridos en los servicios de Educación Básica bajo el modelo de educación comunitaria del CONAFE;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+LIII. Presentar semestralmente al Director General y a las unidades administrativas, informes de la operación de los programas y del estado que guarda la prestación de Servicios Educativos a su cargo;
+
+> <small>(REFORMADA, D.O.F. 19 DE JULIO DE 2019)</small>
+
+LIV. Las demás que le establezcan la Junta de Gobierno, la Dirección General de la Entidad y las disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 22.
 
 Corresponden a la Dirección de Planeación y Evaluación las siguientes funciones:
 
-I. Coordinar la formulación del Programa Institucional de Mediano Plazo del CONAFE y la actualización del sistema de evaluación del organismo;
+I. Elaborar y coordinar el Programa Anual de Trabajo de Planeación y Evaluación de conformidad con las políticas y lineamientos que determinen las autoridades competentes en la materia y los criterios que al respecto establezca la Dirección General del CONAFE; así como, vigilar y evaluar su cumplimiento;
 
-II. Participar en la elaboración de las estrategias para determinar las necesidades en materia de educación inicial y de educación básica bajo el modelo de educación comunitaria conforme a las disposiciones aplicables;
+II. Representar al Consejo en el ámbito de sus funciones; así como en aquellos otros asuntos que le asigne de manera expresa la Dirección General;
 
-III. Evaluar en conjunto con la Dirección de Administración y Finanzas la correspondencia entre metas y recursos destinados a los programas que opera el CONAFE;
+III. Anunciar a cada una de las Unidades Administrativas del Consejo el Programa-Presupuesto autorizado para cada ejercicio fiscal;
 
-IV. Elaborar y proponer el sistema de indicadores de evaluación y desempeño del CONAFE en coordinación con las unidades administrativas e instancias correspondientes;
+IV. Realizar, con base en las solicitudes presentadas por las Unidades Administrativas del Consejo, las gestiones necesarias para el trámite de las modificaciones a su presupuesto que deban realizarse de manera regular durante cada ejercicio fiscal, observando la normatividad aplicable y manteniendo informado en todo momento a la Junta de Gobierno;
 
-V. Definir las metas de corto y mediano plazo de los programas educativos del CONAFE;
+V. Normar la operación y el control del ejercicio del presupuesto del Consejo conforme a las disposiciones aplicables;
 
-VI. Coordinar las evaluaciones externas dictadas por las instancias normativas a los programas presupuestarios a cargo del CONAFE;
+VI. Revisar los recursos autorizados y los requerimientos de las unidades administrativas para asignar el presupuesto;
 
-VII. Establecer los lineamientos para los procesos de microplaneación y programación detallada de los servicios de educación inicial y de educación básica bajo el modelo de educación comunitaria a cargo del Consejo en coordinación con las Delegaciones;
+VII. Promover el control del presupuesto y auxiliarse de la Unidad de Administración y Finanzas para llevar el registro del ejercicio de aquél conforme a las disposiciones aplicables;
 
-VIII. Coordinar la participación de las unidades administrativas en la integración del Programa Anual del CONAFE, con base en las prioridades establecidas en el Plan Nacional de Desarrollo, el Programa Sectorial de Educación y el Programa Institucional del CONAFE, de conformidad con el marco legal aplicable;
+VIII. Coordinar la formulación del Programa Institucional de Mediano Plazo del CONAFE y la actualización del sistema de evaluación del organismo;
 
-IX. Coordinar la integración de la información estadística institucional de educación inicial y básica bajo el modelo comunitario y de las acciones compensatorias;
+IX. Participar en la elaboración de las estrategias para determinar las necesidades en materia de educación comunitaria conforme a las disposiciones aplicables
 
-X. Integrar los Lineamientos de Operación de los programas institucionales del CONAFE y promover su difusión en coordinación con las unidades administrativas y con las instancias correspondientes de acuerdo con las disposiciones normativas aplicables;
+X. Evaluar en conjunto con la Unidad de Administración y Finanzas el cumplimiento de metas y objetivos, así como los recursos destinados a los programas que opera el CONAFE;
 
-XI. Normar, coordinar la operación y evaluar el sistema de control escolar en el ámbito institucional con el propósito de acreditar y certificar los estudios que ofrece el CONAFE;
+XI. Elaborar y proponer el sistema de indicadores de evaluación y desempeño del CONAFE en coordinación con las unidades administrativas e instancias correspondientes;
 
-XII. Dirigir y coordinar con las unidades administrativas e instancias correspondientes la integración de los padrones institucionales de beneficiarios de los programas del CONAFE;
+XII. Definir las metas de corto y mediano plazo de los programas educativos del CONAFE;
 
-XIII. Elaborar en coordinación con las áreas emisoras las propuestas de Manuales Generales y específicos de Organización, de Procedimientos y Operación que rigen al Consejo, así como tramitar su autorización y difusión correspondiente;
+XIII. Coordinar las evaluaciones externas dictadas por las instancias normativas a los programas presupuestarios a cargo del CONAFE;
 
-XIV. Participar como Prosecretario de la Junta de Gobierno del CONAFE, previa propuesta del Director General de la Entidad, aprobada por la Junta de Gobierno;
+XIV. Establecer los lineamientos para los procesos de micro planeación y programación detallada de los servicios de educación comunitaria a cargo del Consejo en coordinación con la Dirección de Operación Territorial;
 
-XV. Coordinar la integración y el desarrollo del Orden del Día con los asuntos a tratar en las sesiones ordinarias y extraordinarias del Órgano de Gobierno;
+XV. Coordinar la participación de las unidades administrativas en la integración del Programa Anual del CONAFE, con base en las prioridades establecidas en el Plan Nacional de Desarrollo, el Programa Sectorial de Educación y el Programa Institucional del CONAFE, de conformidad con el marco legal aplicable;
 
-XVI. Supervisar la elaboración de las actas y los acuerdos del Órgano de Gobierno para su debido seguimiento;
+XVI. Coordinar la integración de la información estadística institucional de educación comunitaria y de las acciones compensatorias;
 
-XVII. Establecer los mecanismos que garanticen el acceso a la información pública y a la protección de datos personales previstos en la Ley de la materia y demás ordenamientos legales aplicables;
+XVII. Integrar los Lineamientos de Operación de los programas institucionales del CONAFE y promover su difusión en coordinación con las unidades administrativas y con las instancias correspondientes de acuerdo con las disposiciones normativas aplicables;
 
-XVIII. Desarrollar estrategias para la implementación de los mecanismos de transparencia y combate a la corrupción establecidos por el Gobierno Federal, en el ámbito de acción del CONAFE;
+XVIII. Normar y coordinar la operación y evaluar el sistema de control escolar en el ámbito institucional con el propósito de acreditar y certificar los estudios que ofrece el CONAFE;
 
-XIX. Establecer y supervisar los criterios para la clasificación y organización de los archivos del CONAFE;
+XIX. Dirigir y coordinar con las unidades administrativas e instancias correspondientes la integración de los padrones institucionales de beneficiarios de los programas del CONAFE;
 
 XX. Establecer y coordinar los servicios de tecnologías de la información y comunicación que requieran las Unidades Administrativas del CONAFE;
 
 XXI. Coordinar el análisis, diseño, desarrollo e implementación de los sistemas informáticos del CONAFE;
 
-XXII. Fungir como enlace entre el CONAFE y el Registro Público de Organismos Descentralizados (REPODE);
+XXII. Elaborar en coordinación con las áreas emisoras las propuestas de Manuales Generales y específicos de Organización, de Procedimientos y Operación que rigen al Consejo, así como tramitar su autorización y difusión correspondiente;
 
-XXIII. Participar como Secretario Ejecutivo en las Sesiones del Comité de Mejora Regulatoria Interna y como Secretario Técnico en las Sesiones de la Comisión Interna de Administración y Programación;
+XXIII. Participar como Prosecretario de la Junta de Gobierno del CONAFE, previa propuesta del Director General de la Entidad, aprobada por la Junta de Gobierno;
 
-XXIV. Elaborar las propuestas de actualización de la Estructura Organizacional de las Oficinas Centrales y Delegaciones, y
+XXIV. Coordinar la integración y el desarrollo del Orden del Día con los asuntos a tratar en las sesiones ordinarias y extraordinarias del Órgano de Gobierno;
 
-XXV. Las demás que establezcan la Junta de Gobierno, el Director General de la Entidad y las disposiciones aplicables.
+XXV. Supervisar la elaboración de las actas y los acuerdos del Órgano de Gobierno para su debido seguimiento;
+
+XXVI. Establecer los mecanismos que garanticen el acceso a la información pública y a la protección de datos personales;
+
+XXVII. Desarrollar estrategias para la implementación de los mecanismos de transparencia y combate a la corrupción establecidos por el Gobierno Federal, en el ámbito de acción del CONAFE;
+
+XXVIII. Fungir como enlace entre el CONAFE y el Registro Público de Organismos Descentralizados (REPODE);
+
+XXIX. Participar como Secretario Ejecutivo en las Sesiones del Comité de Mejora Regulatoria Interna y como Secretario Técnico en las Sesiones de la Comisión Interna de Administración y Programación;
+
+XXX. Elaborar las propuestas de actualización de la Estructura Organizacional del CONAFE; y
+
+XXXI. Las demás que establezcan la Junta de Gobierno, la Dirección General de la Entidad y las disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 23.
 
-Corresponden a la Dirección de Administración y Finanzas las siguientes funciones:
+Corresponden a la Unidad de Administración y Finanzas las siguientes funciones:
 
-I. Establecer las normas y los lineamientos en materia de personal, de recursos materiales, financieros y presupuestales del Consejo, y evaluar su cumplimiento;
+I. Elaborar y coordinar el Programa Anual de Trabajo de Administración y Finanzas de conformidad con las políticas y lineamientos que determinen las autoridades competentes en la materia y los criterios que al respecto establezca la Dirección General del CONAFE; así como, vigilar y evaluar su cumplimiento;
 
-II. Conducir los procesos de administración del personal del Consejo;
+II. Establecer las normas y los lineamientos en materia de recursos humanos, materiales y financieros, y evaluar su cumplimiento;
 
-III. Coordinar la integración y operación del programa de capacitación y desarrollo profesional del personal del Consejo;
+III. Conducir los procesos de administración del personal del Consejo;
 
-IV. Vigilar, en coordinación con la Dirección de Asuntos Jurídicos, la vigencia y observancia de las Condiciones Generales de Trabajo y el Reglamento de Escalafón;
+IV. Coordinar la integración y operación del programa de capacitación y desarrollo profesional del personal del Consejo;
 
-V. Representar al Consejo ante la organización sindical de los trabajadores;
+V. Vigilar la vigencia y observancia de las Condiciones Generales de Trabajo y del Reglamento de Escalafón;
 
-VI. Integrar, en coordinación con las diversas unidades administrativas del Consejo y las Delegaciones Estatales, el Anteproyecto de Programa–Presupuesto y el gasto relacionado con los programas de Inversión y de Obra Pública;
+VI. Representar al Consejo ante la organización sindical del Consejo;
 
-VII. Proponer ante las instancias competentes la aprobación del Anteproyecto del Programa–Presupuesto autorizado por la Junta de Gobierno;
+VII. Participar junto con las diversas unidades administrativas del Consejo en la integración que realice la Dirección de Planeación y Evaluación del Anteproyecto de Programa–Presupuesto y el gasto relacionado con los programas de Inversión y de Obra Pública;
 
-VIII. Anunciar a cada una de las Unidades Administrativas del Consejo y las Delegaciones Estatales el Programa Presupuesto autorizado para cada ejercicio fiscal;
+VIII. Proponer ante las instancias competentes la aprobación del Anteproyecto del Programa–Presupuesto autorizado por la Junta de Gobierno;
 
-IX. Realizar, con base en las solicitudes presentadas por las Unidades Administrativas del Consejo y las Delegaciones Estatales, las gestiones necesarias para el trámite de las modificaciones a su presupuesto que deban realizarse de manera regular durante cada ejercicio fiscal, observando la normatividad aplicable y manteniendo informado en todo momento a la Junta de Gobierno;
+IX. Ejecutar el programa-presupuesto autorizado para cada ejercicio fiscal
 
-X. Normar la operación y el control del ejercicio del presupuesto del Consejo conforme a las disposiciones aplicables;
+X. Ejecutar las modificaciones al presupuesto;
 
-XI. Revisar los recursos autorizados y los requerimientos de las unidades administrativas para asignar el presupuesto;
+XI. Observar la normatividad para la operación y el control del ejercicio del presupuesto del Consejo;
 
-XII. Coordinar los trámites para el cobro del presupuesto autorizado a los programas del Consejo y los programas administrados;
+XII. Ejercer los recursos autorizados conforme a los requerimientos de las unidades administrativas y la asignación presupuestaria;
 
-XIII. Promover el control y el registro del ejercicio del presupuesto del Consejo conforme a las disposiciones aplicables;
+XIII. Remitir la información que en el ámbito de sus atribuciones la Dirección genere a la Dirección de Planeación y Evaluación para que ésta realice los trámites para el cobro del presupuesto autorizado a los programas del Consejo y los programas administrados;
 
-XIV. Emitir los estados financieros, derivados de la contabilidad general del Consejo;
+XIV. Realizar el registro del ejercicio del presupuesto del Consejo conforme a las disposiciones aplicables;
 
-XV. Coordinar la integración de información para presentar a los Auditores Externos para que emitan su opinión a través de los Dictámenes: Financiero, Presupuestal, Estatales, Fiscal y demás informes normativos;
+XV. Emitir los estados financieros, derivados de la contabilidad general del Consejo;
 
-XVI. Integrar la información para la elaboración del dictamen financiero;
+XVI. Coordinar la integración de información para presentar a los Auditores Externos para que emitan su opinión a través de los Dictámenes: Financiero, Presupuestal, Estatales, Fiscal y demás informes normativos;
 
-XVII. Presentar el informe para la Cuenta de la Hacienda Pública Federal para su autorización ante las instancias correspondientes;
+XVII. Integrar la información para la elaboración del dictamen financiero;
 
-XVIII. Normar, controlar y vigilar el cumplimiento de las disposiciones en materia de recursos financieros y materiales que provengan de fuentes externas al presupuesto;
+XVIII. Presentar el informe para la Cuenta de la Hacienda Pública Federal para su autorización ante las instancias correspondientes;
 
-XIX. Representar al Director General ante las instancias y organismos nacionales e internacionales que intervienen en la contratación y ejecución de créditos externos a favor del Consejo;
+XIX. Normar, controlar y vigilar el cumplimiento de las disposiciones en materia de recursos financieros y materiales que provengan de fuentes externas al presupuesto;
 
-XX. Coordinar con las diversas unidades administrativas del Consejo el seguimiento y operación de los proyectos financiados con crédito externo;
+XX. Representar al Director General ante las instancias y organismos nacionales e internacionales que intervienen en la contratación y ejecución de créditos externos a favor del Consejo;
 
-XXI. Coordinar la ejecución de los procesos de adquisición, almacenamiento, distribución y control de los recursos materiales requeridos por las unidades administrativas, de conformidad con las disposiciones establecidas;
+XXI. Coordinar con las diversas unidades administrativas del Consejo el seguimiento y operación de los proyectos financiados con crédito externo;
 
-XXII. Coordinar la operación del sistema de control de inventarios e impulsar medidas para la conservación y mantenimiento de los bienes;
+XXII. Ejecutar y coordinar los procesos de adquisición, almacenamiento, distribución y control de los recursos materiales, requeridos por las unidades administrativas, de conformidad con el presupuesto asignado y las disposiciones legales vigentes;
 
-XXIII. Coordinar el registro y mantener actualizada la valuación de los bienes del Consejo de acuerdo a la normatividad aplicable;
+XXIII. Operar, Coordinar y mantener actualizado el sistema de control de inventarios y realizar las acciones y medidas para la conservación y mantenimiento de los bienes de la Entidad;
 
-XXIV. Representar al Consejo ante las diversas instancias de fiscalización, coordinar el desarrollo de las auditorías y revisiones, y apoyar a las diversas unidades administrativas a solventar las observaciones y atender las recomendaciones;
+XXIV. Llevar el registro y mantener actualizada la valuación e Información de los bienes del Consejo de acuerdo a la normatividad aplicable;
 
-XXV. Coordinar la prestación de los servicios generales en las unidades administrativas centrales;
+XXV. Representar al Consejo ante las diversas instancias de fiscalización, coordinar el desarrollo de las auditorías y revisiones, y apoyar a las diversas unidades administrativas para atender las observaciones y recomendaciones;
 
-XXVI. Celebrar en representación del Consejo, los convenios y contratos de cuya ejecución se desprendan obligaciones patrimoniales y los demás que impliquen actos de administración;
+XXVI. Coordinar la prestación de los servicios generales en las unidades administrativas del CONAFE;
 
-XXVII. Llevar a cabo los procedimientos de rescisión con prestadores de servicios y proveedores del Consejo, en términos de la normatividad aplicable, y
+XXVII. Celebrar en representación del Consejo, los convenios y contratos de cuya ejecución se desprendan obligaciones patrimoniales y los demás que impliquen actos de administración;
 
-XXVIII. Las demás que establezcan la Junta de Gobierno, el Director General de la Entidad y las disposiciones aplicables.
+XXVIII. Realizar la contratación del personal del Consejo previa autorización de la Dirección General o de la persona en quien ésta asigne tal responsabilidad, salvo de aquellos servidores públicos cuya propuesta o autorización esté conferida a otras instancias conforme a la normatividad vigente;
+
+XXIX. Llevar a cabo los procedimientos de rescisión con prestadores de servicios y proveedores del Consejo, en términos de la normatividad aplicable; y
+
+XXX. Las demás que establezcan la Junta de Gobierno, la Dirección General de la Entidad y las disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 24.
 
 Corresponden a la Dirección de Asuntos Jurídicos las siguientes funciones:
 
-I. Establecer los criterios de interpretación que las unidades administrativas del CONAFE deberán seguir en la aplicación de las disposiciones legales en materia laboral, civil, penal y administrativa;
+I. Elaborar y coordinar el Programa Anual de Trabajo de Asuntos Jurídicos de conformidad con las políticas y lineamientos que determinen las autoridades competentes en la materia y los criterios que al respecto establezca la Dirección General del CONAFE; así como, vigilar y evaluar su cumplimiento;
 
-II. Asesorar en materia de su competencia, a las Unidades Administrativas del CONAFE, a fin de que los procedimientos legales que dichas unidades llevan a cabo, se cumplan con las formalidades previstas en las disposiciones que los regulan;
+II. Establecer los criterios de interpretación que las unidades administrativas del CONAFE deberán seguir en la aplicación de las disposiciones legales en materia laboral, civil, penal y administrativa;
 
 III. Participar en materia de su competencia, en la formulación de los convenios y acuerdos de coordinación con las Autoridades Federales;
 
-IV. Resolver las consultas que formulen las Unidades Administrativas en situaciones reales y concretas sobre la aplicación de las disposiciones legales, así como las solicitudes que presenten respecto a las autorizaciones en el área de su responsabilidad, que no sean competencia de otras unidades administrativas del CONAFE;
+IV. Asesorar y Resolver las consultas que formulen las Unidades Administrativas en situaciones reales y concretas sobre la aplicación de las disposiciones legales, así como las solicitudes que presenten respecto a las autorizaciones en el área de su responsabilidad, que no sean competencia de otras unidades administrativas del CONAFE;
 
-V. Coordinar la elaboración o revisión de los contratos, convenios y en general, de toda clase de actos jurídicos, directamente vinculados con el desarrollo de las atribuciones del Consejo;
+V. Coordinar la elaboración y revisar los contratos, convenios, o cualesquiera acuerdos de voluntades vinculados con el desarrollo de las atribuciones del Consejo que le sean requeridos en tiempo por las unidades administrativas del CONAFE;
 
-VI. Representar al Director General y a las Unidades Administrativas del Consejo, en toda clase de juicios ante diversas autoridades;
+VI. Realizar toda clase de actos jurídicos vinculados con las atribuciones del Consejo y aquellos que le sean encomendados por la Dirección General y las Autoridades competentes;
 
-VII. Interponer en representación del Director General del CONAFE, los recursos que procedan contra las sentencias y resoluciones que pongan fin a juicios dictados por las autoridades federales, así como comparecer en los juicios de amparo que interpongan los particulares en contra de las sentencias y resoluciones definitivas dictadas por los tribunales;
+VII. Representar al CONAFE, al Director General y a las Unidades Administrativas del Consejo, en toda clase de juicios ante diversas autoridades; Interponiendo en representación de aquellos, los recursos que procedan contra las sentencias y resoluciones dictados por las autoridades competentes, así como comparecer en los juicios de amparo en los que CONAFE sea parte;
 
-VIII. Representar al CONAFE y a las autoridades dependientes de éste, en controversias relativas a los Derechos Humanos, así como en toda clase de investigaciones y procedimientos;
+VIII. Representar al CONAFE y a las autoridades dependientes de éste, en los asuntos relativos a los Derechos Humanos, así como en toda clase de investigaciones y procedimientos de la materia;
 
-IX. Certificar y expedir copias de los documentos que obren en poder del Consejo, para ser exhibidos en asuntos judiciales y contencioso-administrativos;
+IX. Certificar y expedir copias de los documentos que obren en poder del Consejo, para ser exhibidos en asuntos judiciales, contencioso-administrativos y Jurisdiccionales;
 
-X. Allanarse y transigir previa autorización, en toda clase de juicios, así como abstenerse de interponer los recursos, incluyendo el de revisión contra sentencias o resoluciones dictadas por los Tribunales Federales;
+X. Allanarse y transigir previa autorización, en toda clase de juicios, así como abstenerse de interponer los recursos, incluyendo el de revisión contra sentencias o resoluciones dictadas por los Tribunales Federales, cuando así convenga a los intereses del CONAFE;
 
-XI. Dar vista al Titular del Órgano Interno de Control de los actos y omisiones que en el ejercicio de sus funciones llegase a advertir respeto de cualquier Servidor Público, y que pueda ser causa de responsabilidad administrativa;
+XI. Dar vista al Órgano Interno de Control de los actos y omisiones que en el ejercicio de sus funciones llegase a advertir respecto de cualquier Servidor Público, que pudiera ser constitutiva de responsabilidad administrativa;
 
 XII. Participar en la instrumentación de la política de integridad, responsabilidad, ética y conducta de su personal;
 
-XIII. Participar y asesorar en la elaboración de los contratos y licitaciones públicas que deba llevar a cabo el CONAFE, para dar transparencia a los mismos, de conformidad con la normatividad vigente;
+XIII. Llevar el registro y control de los contratos y convenios que celebre el CONAFE;
 
-XIV. Proponer al Director General del Consejo el otorgamiento del perdón legal y, en su caso, pedir al Ministerio Público que solicite el sobreseimiento en los procesos penales, si así procede y siempre y cuando lo permita la norma;
+XIV. Otorgar en Representación del Consejo el perdón ante la Fiscalía o Autoridad Penal competente y, en su caso, pedir a aquéllas que se solicite el sobreseimiento conforme a la norma aplicable
 
-XV. Participar en la elaboración o modificación de los documentos que sustenten jurídicamente la operación de los programas educativos del Consejo y asesorar a las Delegaciones Estatales en su instrumentación;
+XV. Participar en la elaboración o modificación de los documentos que sustenten jurídicamente la operación de los programas educativos del Consejo y asesorar a las unidades administrativas en su instrumentación;
 
-XVI. Determinar y dirigir las acciones de custodiar y administrar el patrimonio cultural propiedad del CONAFE y de los derechos patrimoniales de autor, con base en las disposiciones legales vigentes en la materia;
+XVI. Determinar y dirigir las acciones de custodiar y administrar el patrimonio cultural del CONAFE y de los derechos patrimoniales de autor, con base en las disposiciones legales vigentes en la materia;
 
 XVII. Dar seguimiento a las gestiones conducentes para obtener los permisos de importación y de exención de impuestos de los equipos y materiales adquiridos por el Consejo, ante las Secretarías de Hacienda y Crédito Público y de Economía;
 
-XVIII. Participar en los Comités de Adquisiciones, Arrendamientos y Servicios, Mejora Regulatoria, Transparencia, Combate a la Corrupción, Editorial, de Bienes Muebles y de Ética y de Prevención de Conflictos de Interés del CONAFE, asesorándolos jurídicamente;
+XVIII. Participar en los Comités de Adquisiciones, Arrendamientos y Servicios, Mejora Regulatoria, Información y Transparencia, Combate a la Corrupción, Informática, Editorial, de Bienes Muebles, Ética y de Prevención de Conflictos de Interés del CONAFE y demás que se creen, asesorándolos jurídicamente;
 
-XIX. Participar en los Comités de Adquisiciones, Arrendamientos y Servicios, Mejora Regulatoria, Información y Transparencia, Combate a la Corrupción, Informática, Editorial, de Bienes Muebles y de Ética y de Prevención de Conflictos de Interés del CONAFE, asesorándolos jurídicamente;
+XIX. Proponer actividades preventivas o negociaciones en el ámbito laboral, a fin de evitar en lo posible, determinaciones adversas (sic) contra del CONAFE o realizar acciones conforme a la recomendación de las autoridades competentes;
 
-XX. Participar en los Comités de Adquisiciones, Arrendamientos y Servicios, Mejora Regulatoria, Información y Transparencia, Combate a la Corrupción, Informática, Editorial y de Bienes Muebles del CONAFE, asesorándolos jurídicamente;
+XX. Coordinar los trámites necesarios para hacer efectivas las pólizas de fianza que otorgan los proveedores, en caso de incumplimiento de las obligaciones contratadas por el Consejo;
 
-XXI. Proponer actividades preventivas en el ámbito laboral, a fin de evitar en lo posible las acciones jurisdiccionales en contra del CONAFE;
+XXI. Aplicar la política, los programas, procedimientos, métodos de trabajo, las reglas generales y los criterios que establezca el Consejo Nacional de Fomento Educativo en materia de su competencia, o por las Unidades Administrativas del mismo; así como coordinarse con las Autoridades Federales para el mejor ejercicio de sus facultades;
 
-XXII. Coordinar los trámites necesarios para hacer efectivas las pólizas de fianza que otorgan los proveedores, en caso de incumplimiento de las obligaciones contratadas por el Consejo;
+XXII. Participar en el procedimiento para destrucción de los documentos oficiales de certificación;
 
-XXIII. Aplicar la política, los programas, procedimientos, métodos de trabajo, las reglas generales y los criterios que establezca el Consejo Nacional de Fomento Educativo en materia de su competencia, o por las Unidades Administrativas del mismo; así como coordinarse con las Autoridades Federales para el mejor ejercicio de sus facultades;
+XXIII. Administrar y actualizar la Normateca Interna del CONAFE;
 
-XXIV. Participar en el procedimiento para destrucción de los documentos oficiales de certificación;
+XXIV. Emitir dictamen fundado y motivado sobre las solicitudes de Acuerdo que se presenten a consideración de la Junta de Gobierno; y
 
-XXV. Administrar y actualizar la Normateca Interna del CONAFE;
-
-XXVI. Emitir dictamen fundado y motivado sobre las solicitudes de Acuerdo que se presenten a la consideración de la Junta de Gobierno, y
-
-XXVII. Las demás que establezcan la Junta de Gobierno, el Director General de la Entidad y las disposiciones aplicables.
+XXV. Las demás que establezcan la Junta de Gobierno, el Titular de la Entidad y las disposiciones legales aplicables.
 
 #### SECCIÓN TERCERA. DE LAS DELEGACIONES
 
 ###### ARTÍCULO 25.
 
-Para el debido cumplimiento de su objeto, el CONAFE contará con Delegaciones Estatales y con las áreas subordinadas que se le adscriban, las que operarán los servicios que le sean encomendados en su circunscripción territorial.
-
-Al frente de cada Delegación habrá un delegado, quien dentro de su ámbito de responsabilidad, tendrá las siguientes facultades:
-
-I. Representar al CONAFE en la entidad federativa ante las autoridades federales, estatales y municipales, las instituciones públicas y privadas y las personas físicas, con facultades para actos de administración, pleitos y cobranzas;
-
-II. Dirigir técnica y administrativamente las actividades que se desarrollan en la delegación para la prestación de los servicios de educación inicial y de educación básica bajo el modelo de educación comunitaria, así como de las acciones compensatorias a cargo del CONAFE;
-
-III. Expedir los certificados y demás documentación que acrediten los conocimientos, habilidades y aptitudes adquiridos en los servicios de educación básica bajo el modelo de educación comunitaria a cargo del CONAFE;
-
-IV. Elaborar y proponer al Director General de la Entidad el Plan de Trabajo de la Delegación;
-
-V. Coordinar y vigilar el cumplimiento del Plan de Trabajo aprobado por el Director General de la Entidad;
-
-VI. Determinar y presentar a la Dirección de Administración y Finanzas los requerimientos presupuestales de la Delegación a su cargo, para lo procedente;
-
-VII. Ejercer y controlar el presupuesto asignado a la Delegación Estatal para la operación de los programas;
-
-VIII. Presentar al Director General de la Entidad y a las unidades administrativas, informes periódicos de la operación de los programas y del estado que guarda la Delegación y aquellos extraordinarios que se le requieran;
-
-IX. Designar al personal de la Delegación Estatal, en acuerdo con la unidad administrativa correspondiente y conforme a las disposiciones, normas y lineamientos aplicables;
-
-X. Supervisar las acciones de comunicación y difusión del quehacer del CONAFE en la entidad federativa, así como las actividades que promuevan la comercialización del fondo editorial;
-
-XI. Contratar los servicios que se requieran para el funcionamiento de la Delegación Estatal, conforme al presupuesto asignado y a la normatividad vigente;
-
-XII. Representar al CONAFE en la entidad federativa ante las autoridades federales, estatales y municipales, las instituciones públicas y privadas y las personas físicas, con facultades para actos de administración, pleitos y cobranzas, y
-
-XIII. Las demás que establezcan la Junta de Gobierno, el Director General de la Entidad y las disposiciones aplicables.
+(DEROGADO, D.O.F. 19 DE JULIO DE 2019)
 
 ###### ARTÍCULO 26.
 
-Corresponden a cada una de las Delegaciones Estatales las siguientes funciones:
-
-I. Organizar, operar y controlar los servicios y acciones educativas responsabilidad del CONAFE en la entidad federativa, de conformidad con las disposiciones vigentes;
-
-II. Vigilar el cumplimiento de la normatividad curricular, las estrategias pedagógicas, la organización y el funcionamiento de los servicios de educación inicial y básica bajo el modelo de educación comunitaria que opera el CONAFE en la entidad;
-
-III. Administrar con eficacia y eficiencia los recursos humanos, financieros y materiales autorizados a la delegación estatal, de conformidad con las disposiciones aplicables en la materia;
-
-IV. Priorizar las necesidades de infraestructura educativa, de conformidad con el Universo de atención focalizado;
-
-V. Participar en la actualización de Lineamientos, Manuales de Organización y Procedimientos, Sistemas Informáticos y demás instrumentos necesarios para el funcionamiento de la delegación estatal y de los programas que opera el CONAFE;
-
-VI. Coordinar las acciones de comunicación y difusión del quehacer del CONAFE en la entidad federativa, así como las actividades que promuevan la comercialización del fondo editorial;
-
-VII. Promover las acciones de Contraloría Social en servicios de educación inicial, educación básica bajo el modelo de educación comunitaria y en servicios apoyados con acciones compensatorias, de acuerdo con la normatividad vigente;
-
-VIII. Las demás que establezcan la Junta de Gobierno, el Director General de la Entidad y las disposiciones aplicables.
+(DEROGADO, D.O.F. 19 DE JULIO DE 2019)
 
 #### SECCIÓN CUARTA. DE LAS SUPLENCIAS
 
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 27.
 
-El Director General de la Entidad será suplido en sus ausencias por el servidor público que designe; a falta de designación, será suplido por el servidor público de nivel jerárquico inmediato inferior, en el siguiente orden de prelación: Dirección de Planeación y Evaluación; Dirección de Administración y Finanzas; Dirección de Delegaciones y Concertación con el Sector Público; Dirección de Educación Comunitaria e Inclusión Social; Dirección de Educación Inicial; Dirección de Comunicación y Cultura y Dirección de Asuntos Jurídicos.
+La Dirección General de la Entidad será suplido (sic) en sus ausencias por el servidor público que designe; a falta de designación, será suplido por el servidor público de nivel jerárquico inmediato inferior, en el siguiente orden de prelación: Dirección de Planeación y Evaluación; Dirección de Operación Territorial; Dirección de Educación Comunitaria e Inclusión Social; Dirección de Cultura y Difusión, Unidad de Administración y Finanzas; y, Dirección de Asuntos Jurídicos.
 
-###### ARTICULO 28.
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2019)</small>
 
-Las ausencias de los directores de área y delegados estatales del CONAFE, serán suplidos por los servidores públicos de nivel jerárquico inmediato inferior, en los asuntos de sus respectivas competencias.
+###### ARTÍCULO 28.
+
+Las ausencias de los directores de área y de los (sic) Coordinaciones Territoriales para el Servicio Educativo en las Entidades Federativas del CONAFE, serán suplidos (sic) por los servidores públicos de nivel jerárquico inmediato inferior, en los asuntos de sus respectivas competencias.
 
 ###### ARTÍCULO 29.
 
@@ -775,15 +817,15 @@ Las modificaciones al Estatuto Orgánico podrán realizarse a propuesta del Dire
 
 ### CAPÍTULO QUINTO. DEL ÓRGANO INTERNO DE CONTROL
 
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 30.
 
-El CONAFE contará con un Órgano Interno de Control, al frente del cual su Titular será designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal; en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de responsabilidades, auditoría interna, auditoría para desarrollo y mejora de la gestión pública y quejas, designados en los mismos términos.
+El CONAFE contará con un Órgano Interno de Control, al frente del cual su Titular será designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal; en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de responsabilidades, auditoría interna y quejas, designados en los mismos términos.
 
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley General de Responsabilidades Administrativas y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
 
-Las ausencias del Titular del Órgano Interno de Control, así como de los titulares de las áreas de responsabilidades, auditoría interna, auditoría para desarrollo y mejora de la gestión pública y quejas, serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
-
-El CONAFE proporcionará al Titular del Órgano Interno de Control, de conformidad con las disposiciones aplicables, los recursos humanos y materiales para la atención de los asuntos a su cargo. Asimismo, los servidores públicos del CONAFE facilitarán, dentro del ámbito de su competencia, el auxilio que requiera el titular de dicho órgano para el desempeño de sus facultades.
+Las ausencias del Titular del Órgano Interno de Control, así como de los titulares de las áreas de responsabilidades, auditoría interna y quejas, serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
 
 ### CAPÍTULO SEXTO. DE LOS COMITÉS Y DE LA COMISIÓN INTERNA DE ADMINISTRACIÓN Y PROGRAMACIÓN
 
@@ -815,9 +857,13 @@ La Comisión Interna de Administración y Programación funcionará como un órg
 
 La Comisión Interna de Administración y Programación regirá su funcionamiento conforme a la normatividad aplicable.
 
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 35.
 
 El Comité de Mejora Regulatoria Interna es la instancia facultada para revisar y dictaminar los proyectos normativos del CONAFE como parte del proceso de calidad regulatoria interna, bajo principios básicos de simplificación y modernización, para asegurar la certeza jurídica y contribuir a incrementar la eficiencia y eficacia de la gestión institucional.
+
+Lo anterior sin perjuicio de la facultad directa que para aprobar normativa interna detenta el Órgano de Gobierno de la Entidad.
 
 ## TRANSITORIOS
 
@@ -832,3 +878,15 @@ CUARTO.- Los nombres de los puestos en vigor, hasta antes de la publicación del
 Los asuntos en proceso de atención por las áreas del Estatuto que se abroga, serán atendidos hasta su conclusión por las áreas a las que se les reasigne o en las que se transformaron de acuerdo a la nueva nomenclatura del presente Estatuto Orgánico.
 
 En la Ciudad de México, a los 19 días del mes de septiembre de dos mil dieciséis.- El Director General del Consejo Nacional de Fomento Educativo, Simón Iván Villar Martínez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE FOMENTO EDUCATIVO -CONAFE-”.]
+
+PRIMERO.- El presente Estatuto Orgánico una vez aprobado por la Junta de Gobierno, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se Reforman los artículos: 2; 3; 14, fracciones I, II, XI y XVII; 15; 16 fracciones III, IV y VI; 17 fracciones VIII y XI; 18, fracciones XIII, XVI, XVII, XVIII, XXII y XXVII; 20, fracciones I, VIII y XXI; 21, fracciones I, II, III, V, VI, VII, VIII, IX, XVII, XX, XXI, XXIV, XLI, XLII, XLVII, XLVIII, XLIX y LII; 22; 23; 24; 27; 28; 30 y 35; Se adicionan los artículos: 14, fracción XVIII; 21, fracciones LII y LIII; Se derogan los artículos: 4, fracción V; 5 fracción IV; 16 Fracción II; 19; 20 fracción XVI; 21, fracciones XVI, XXII, XXIII, XXXI y XXXIX; 25 y 26 del Estatuto Orgánico del Consejo Nacional de Fomento Educativo, así como aquéllas disposiciones internas que se opongan al presente ordenamiento.
+
+TERCERO.- El presente Estatuto Orgánico fue aprobado por la Junta de Gobierno del Consejo Nacional de Fomento Educativo, en su Segunda Sesión Extraordinaria, celebrada el día 3 de junio de 2019, mediante Acuerdo número SE/II-19/04, R.
