@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2019-04-06"
+last_updated: "2019-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -967,19 +967,19 @@ ART. 59.- Cuando de la declaración de quienes presenten al hijo, se desprende q
 
 ART. 60.- En los casos de los hijos nacidos fuera de matrimonio, además de los nombres y domicilios de los padres que concurrieran al acto, se harán constar en el acta, los nombres, domicilios y nacionalidad de los abuelos respecto del padre o la madre que presenten al hijo.
 
-Siempre se asentará el nombre de la madre en el acta de nacimiento respectiva salvo lo dispuesto por el artículo 62 de este Código.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2019)</small>
+
+Siempre se asentará el nombre de la madre en el acta de nacimiento respectiva.
 
 Queda absolutamente prohibido asentar en el acta que el hijo es natural, nacido fuera de matrimonio, o hijo de madre desconocida.
 
 ART. 61.- Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos la presencia del oficial del Registro, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre; todo lo cual se asentará en el acta.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
-
-ART. 62.- Si el hijo fuera adulterio, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere, pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, salvo que éste haya desconocido el hijo y exista sentencia ejecutoria que así lo declare. No se expresará en el acta que el hijo es adulterio.
+ART. 62.- (DEROGADO, P.O. 20 DE JULIO DE 2019)
 
 ART. 63.- Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso ni a petición de persona alguna, podrá el oficial del Registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
 
-ART. 64.- Podrá reconocerse al hijo incestuoso. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta, pero en ella no se expresará que el hijo es incestuoso.
+ART. 64.- (DEROGADO, P.O. 20 DE JULIO DE 2019)
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -1045,9 +1045,9 @@ IV. En estas actas queda prohibido expresar que el hijo es natural.
 
 ART. 79.- Lo dispuesto en el Artículo anterior se observará también, cuando se haya omitido la presentación para el registro del nacimiento del hijo, o esa presentación se haya hecho después del término de Ley.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2019)</small>
 
-ART. 80.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará al encargado del Registro, dentro del término de quince días, en original o copia certificada del documento firmado en forma autógrafa o con la firma electrónica certificada que lo compruebe. En el acta se insertará la parte relativa de dicho documento en el que se omitirá cualesquiera de las menciones prohibidas por los artículos 58, 60, 62, 63, 64, 78 y 370, observándose las demás prescripciones contenidas en este capítulo y en el IV del título séptimo de este libro.
+ART. 80.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará al encargado del Registro, dentro del término de quince días, en original o copia certificada del documento firmado en forma autógrafa o con la firma electrónica certificada que lo compruebe. En el acta se insertará la parte relativa de dicho documento en el que se omitirá cualesquiera de las menciones prohibidas por los artículos 58, 60, 63, 78 y 370, observándose las demás prescripciones contenidas en este capítulo y en el IV del título séptimo de este libro.
 
 ART. 81.- La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de veinte a cien pesos, que impondrá y hará efectiva el juez ante quien se haga valer el reconocimiento.
 
@@ -1137,15 +1137,15 @@ II.- (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2016)
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2019)</small>
 
-IV.- Un certificado suscrito por un médico titulado, que asegure, bajo protesta de decir verdad, que los pretendientes no padecen sífilis, tuberculosis, ni enfermedad alguna crónica e incurable que sea, además, contagiosa y hereditaria.
+IV.- Un certificado suscrito por un médico titulado, que asegure, bajo protesta de decir verdad, si los pretendientes padecen o no enfermedad incurable, contagiosa o hereditaria.
 
 Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial;
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2019)</small>
 
-Se exceptúa este requisito, cuando los solicitantes firmen de conformidad de celebrar el matrimonio aún cuando uno o ambos solicitantes se encontraren en el supuesto del primer párrafo de esta fracción.
+Procederá el matrimonio cuando los solicitantes firmen de conformidad celebrar dicho acto, aun cuando uno o ambos si se encontraren en el supuesto del primer párrafo de esta fracción.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1653,9 +1653,7 @@ III.- El parentesco de consanguinidad legítima o natural, sin limitación de gr
 
 IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
-
-V.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
+V.- (DEROGADA, P.O. 20 DE JULIO DE 2019)
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -1726,6 +1724,10 @@ ART. 164.- Los cónyuges contribuirán económicamente al sostenimiento del hoga
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
 Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2019)</small>
+
+El trabajo doméstico o el cuidado de las hijas e hijos se estimarán como contribución económica al sostenimiento del hogar.
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
@@ -2023,11 +2025,7 @@ ART. 241.- El parentesco de consanguinidad no dispensado anula el matrimonio; pe
 
 ART. 242.- La acción que nace de esta clase de nulidad y la que dimana del parentesco de afinidad en línea recta, pueden ejercitarse por cualesquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
-ART. 243.- La acción de nulidad que nace de la causa prevista en la fracción V del artículo 156 de este Código podrá deducirse por el cónyuge ofendido o por el Ministerio Público en el caso de disolución del matrimonio anterior por causa de divorcio; y sólo por el Ministerio Público, si éste matrimonio se ha disuelto por muerte del cónyuge ofendido.
-
-En uno y en otro caso, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio de los adúlteros.
+ART. 243.- (DEROGADO, P.O. 20 DE JULIO DE 2019)
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -2475,7 +2473,9 @@ ART. 307.- El adoptante y el adoptado tienen obligación de darse alimentos, en 
 
 ART. 308.- Los alimentos comprenden:
 
-I.- La comida, el vestido, la habitación, la atención médica, incluyendo la hospitalaria y en su caso, los gastos de embarazo y parto;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2019)</small>
+
+I. La comida, el vestido, la habitación, la atención médica, incluyendo la hospitalaria y en su caso, los gastos de gestación, de embarazo y de parto, así como las erogaciones económicas por concepto de cuidados y atención médica de la mujer, por un periodo de tres meses posteriores al nacimiento de la hija o hijo;
 
 II.- Respecto de los menores y mayores de 18 hasta los 25 años de edad, los alimentos comprenderán además, los gastos para su educación y para proporcionarles algún oficio, arte o profesión adecuados a sus circunstancias personales;
 
@@ -2501,9 +2501,9 @@ Estas prevenciones deberán expresarse siempre en la sentencia o convenio corres
 
 La pensión alimenticia determinada en cualquiera de las modalidades citadas podrá modificarse cuando cambien las circunstancias de la acción que se dedujo en el juicio correspondiente, especialmente tratándose de menores de 18 años.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2019)</small>
 
-ART. 311 BIS.- Los menores, las personas con discapacidad, los sujetos a estado de interdicción, el cónyuge o concubina que se dedique al hogar, gozan de la presunción de necesitar alimentos.
+ART. 311 BIS.- Los menores, las personas con discapacidad, los sujetos a estado de interdicción, los adultos mayores, el cónyuge o concubina que se dedique al hogar, gozan de la presunción de necesitar alimentos.
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
 
@@ -6821,7 +6821,9 @@ ART. 1544.- Pueden aceptar o repudiar la herencia todos los que tienen la libre 
 
 ART. 1545.- La herencia dejada a los menores y demás incapacitados será aceptada por sus tutores, quienes podrán repudiarla con autorización judicial, previa audiencia del Ministerio Público.
 
-ART. 1546.- La mujer casada no necesita la autorización del marido para aceptar o repudiar la herencia que le corresponda. La herencia común será aceptada o repudiada por los dos cónyuges, y en caso de discrepancia, resolverá el juez.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2019)</small>
+
+ART. 1546.- La herencia común será aceptada o repudiada por los dos cónyuges y, en caso de discrepancia, resolverá el juez.
 
 ART. 1547.- La aceptación puede ser expresa o tácita. Es expresa la aceptación si el heredero acepta con palabras terminantes, y tácita, si ejecuta algunos hechos de que se deduzca necesariamente la intención de aceptar, o aquellos que no podría ejecutar sino con su calidad de heredero.
 
@@ -9605,6 +9607,10 @@ II.- Cuando el interés del negocio para el que se confiere sea superior al equi
 
 III.- Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2019)</small>
+
+El mandato otorgado en términos del presente artículo tendrá una duración de hasta cinco años, y en el documento en que conste se asentará la fecha de inicio y terminación de su vigencia, cuyo cómputo debe comenzar a partir de que se dio la declaración del mandante en favor del mandatario.
+
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ART. 2446.- El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para el que se confiere no exceda de mil unidades de medida y actualización.
@@ -9759,9 +9765,15 @@ III.- Por la muerte del mandante o del mandatario;
 
 IV.- Por la interdicción de uno u otro;
 
-V.- Por el vencimiento del plazo y por la conclusión del negocio para el que fue concedido;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2019)</small>
+
+V.- Por conclusión de su vigencia legal, por vencimiento del plazo por el que fue otorgado o por la conclusión del negocio para el que fue concedido;
 
 VI.- En los casos previstos por los artículos 670, 671 y 672.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2019)</small>
+
+Si el objeto específico por el que se otorgó el poder y fue asentado en el mismo, trasciende la vigencia de éste, se entenderán por prorrogadas las facultades otorgadas hasta su conclusión.
 
 ART. 2486.- El mandante puede revocar el mandato cuando y como le parezca; menos en aquellos casos en que su otorgamiento se hubiere estipulado como una condición en un contrato bilateral, o como un medio para cumplir una obligación contraída.
 
@@ -11682,3 +11694,9 @@ P.O. 6 DE ABRIL DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- El Poder Ejecutivo del Estado, contará con un plazo de 120 días naturales contados a partir de la entrada en vigor del presente Decreto, para que proceda con las actualizaciones reglamentarias derivadas de su vigencia.
+
+P.O. 20 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 101 POR EL QUE SE REFORMAN LOS ARTÍCULOS 60 SEGUNDO PÁRRAFO, 80, 98, EN SU FRACCIÓN IV PRIMER Y TERCER PÁRRAFOS, 308, FRACCIÓN I, 311 BIS, 1546 Y 2485, FRACCIÓN V; SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 164, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 2445 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 2485; Y SE DEROGAN LOS ARTÍCULOS 62, 64, FRACCIÓN V DEL ARTÍCULO 156 Y 243, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
