@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2019-06-20"
+last_updated: "2019-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -284,6 +284,10 @@ DE LA MESA DIRECTIVA.
 ###### ARTICULO 34.
 
 La Directiva del Congreso se integrará con un Presidente, un Vicepresidente, un Secretario y un Prosecretario, que serán electos por mayoría y en votación por cédula.
+
+> <small>(ADICIONADO, B.O. 20 DE JULIO DE 2019)</small>
+
+Para garantizar el principio de paridad de género en la Presidencia de las Mesas Directivas de los Periodos Ordinarios de Sesiones, deberá alternarse el género en cada uno de los periodos ordinarios.
 
 ###### ARTICULO 35.
 
@@ -2835,9 +2839,15 @@ DE LA CALIFICACION DE LA ELECCION DE AYUNTAMIENTOS.
 
 DEL NOMBRAMIENTO E INSTALACION DE LA DIPUTACION PERMANENTE.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JULIO DE 2019)</small>
+
 ###### ARTICULO 222.
 
-El mismo día en que el Congreso deba cerrar sus Sesiones, antes de entrar en receso, eligirá (sic) por cédula a mayoría de votos una Diputación Permanente, compuesta de tres miembros. El primero de los nombrados será el Presidente, los siguientes dos Secretarios. Por cada propietario se designará un suplente.
+El día de la clausura del período ordinario de sesiones, el Congreso del Estado elegirá mediante votación por cédula y por mayoría de votos, una diputación permanente compuesta de tres miembros, que funcionará durante el receso ocurrido entre los periodos ordinarios de sesiones. El primero de los nombrados será el Presidente, el segundo el Primer Secretario y el Tercero el Segundo Secretario. Así mismo, se elegirán cinco suplentes, los cuales cubrirán las ausencias de los propietarios, conforme sean requeridos en el orden en que fueron electos.
+
+> <small>(ADICIONADO, B.O. 20 DE JULIO DE 2019)</small>
+
+Para garantizar el principio de paridad de género en la Presidencia de las Mesas Directivas de los Periodos de Recesos, deberá alternarse el género en cada uno de los periodos de receso.
 
 ###### ARTICULO 223.
 
@@ -3325,7 +3335,7 @@ B.O. 10 DE MARZO DE 2008.
 
 B.O. 10 DE JUNIO DE 2008.
 
-ÚNICO.- El presente decreto entrará en vigor el día siguiente el de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 10 DE JULIO DE 2008.
 
@@ -3601,8 +3611,30 @@ El presente decreto entrará en vigor el día de su publicación en el Boletín 
 
 B.O. 20 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 2607 SE REFORMA Y ADICIONA LA FRACCIÓN XVIII DEL ARTÍCULO 55 DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 2607 SE REFORMA Y ADICIONA LA FRACCIÓN XVIII DEL ARTÍCULO 55 DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrara en vigor al día siguiente de su aprobación. Publíquese en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2622.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, sin perjuicio de lo establecido en los siguientes artículos transitorios.
+
+Artículo Segundo.- La Presidencia de la Mesa directiva de la Diputación permanente del segundo periodo de receso del primer año de ejercicio constitucional de la XV Legislatura del Congreso del Estado deberá recaer en el género masculino.
+
+Artículo Tercero.- La presidencia de las mesas directivas de los periodos ordinarios de sesiones y de los periodos de receso, correspondientes al segundo año de ejercicio constitucional de la XV Legislatura, deberán recaer en el género femenino.
+
+Artículo Cuarto.- Para el tercer año de ejercicio constitucional de la XV Legislatura, las presidencias de las mesas directivas de los periodos ordinarios de sesiones y de los periodos de receso, se determinarán conforme a lo siguiente:
+
+a) Para el primer periodo ordinario de sesiones, comprendido del día 01 de septiembre al 15 de diciembre del año 2020, la presidencia de la mesa directiva deberá recaer en el género masculino.
+
+b) Para el primer periodo de receso, comprendido del día 16 de diciembre de 2020 al 14 de marzo del año 2021, la presidencia de la mesa directiva deberá recaer en el género femenino.
+
+c) Para el segundo periodo ordinario de sesiones, comprendido del día 15 de marzo al 30 de junio del año 2021, la presidencia de la mesa directiva deberá recaer en el género femenino.
+
+d) Para el segundo periodo de receso, comprendido del día 01 de julio al 31 de agosto del año 2021, la presidencia de la mesa directiva deberá recaer en el género masculino.
+
+Artículo Quinto.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
