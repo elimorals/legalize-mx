@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2018-12-18"
+last_updated: "2019-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -1466,6 +1466,10 @@ XVII.- Complementación de actas del Registro Civil 1,000
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 1996)</small>
 
 XVIII.- Por solicitud de actas o constancias que obran en las oficinas registradoras de otras Entidades Federativas 2,700
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2019)</small>
+
+XVIII Bis.- Por el derecho de reconocimiento de la Identidad de Género 7.00
 
 XIX.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2011)
 
@@ -6344,3 +6348,9 @@ P.O. 18 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 09 POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO Y LOS INCISOS B), C), D), E), F) Y J) DE LA FRACCIÓN I DEL ARTÍCULO 55; EL ARTÍCULO 55 B; EL INCISO A) DE LA FRACCIÓN IV DEL ARTÍCULO 62 BIS; EL INCISO C) DE LA FRACCIÓN XIX Y EL INCISO A) DE LA FRACCIÓN XXXIII DEL ARTÍCULO 62 BIS 1; EL NUMERAL 2 DE LA FRACCIÓN IV Y LA FRACCIÓN XI DEL ARTÍCULO 62 BIS 2; SE ADICIONAN LAS FRACCIONES XXXIII, XXXIV Y XXXV AL ARTÍCULO 48; LAS FRACCIONES V, VI Y VII AL ARTÍCULO 53; EL INCISO K) A LA FRACCIÓN I DEL ARTÍCULO 55; LOS NUMERALES 19, 20, 21, 22, 23, 24, 25, 26, 27 Y 28 AL INCISO A) DE LA FRACCIÓN I, EL INCISO B) A LA FRACCIÓN II Y LA FRACCIÓN V DEL ARTÍCULO 59; EL INCISO C) A LA FRACCIÓN XXIX DEL ARTÍCULO 62 BIS 1; EL INCISO D) A LA FRACCIÓN III DEL ARTÍCULO 62 BIS 2; EL ARTÍCULO 62 BIS 2 B; Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 77; Y SE DEROGAN LA FRACCIÓN V DEL ARTÍCULO 55; Y EL INCISO B) DE LA FRACCIÓN I DEL ARTÍCULO 59, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día 1° de enero del año 2019, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE JULIO DE 2019.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Dentro de un término de 30 días naturales siguientes a la publicación de este Decreto, las y los ciudadanos interesados en formalizar el derecho de reconocimiento de la identidad de Género gozarán de gratuidad en el trámite respectivo, ante la Dirección Estatal del Registro Civil del Estado de Colima, y de gratuidad igualmente ante las Oficialías del Registro Civil de los 10 diez Ayuntamientos del Estado de Colima, con motivo del levantamiento del acta para el reconocimiento de identidad de género.
