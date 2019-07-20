@@ -4,7 +4,7 @@ identifier: "COL-ley-de-movilidad-sustentable-para-el-estado-de-colima-118706"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-30"
-last_updated: "2019-06-29"
+last_updated: "2019-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICAL: 29 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2019.
 
 Ley publicada en la Edición Especial Extraordinaria al Número 7 del Periódico Oficial del Estado de Colima, el lunes 30 de enero de 2017.
 
@@ -1905,11 +1905,11 @@ a. Disminuir la velocidad del vehículo a treinta kilómetros por hora, a una di
 
 b. Realizar alto total a una distancia de cinco metros antes de las vías y mantenerse en esa forma si el ferrocarril se encuentra a una distancia menor a doscientos metros en dirección al crucero.
 
-XXV. Ascender o descender del vehículo sobre el carril contiguo a la acera, en caso de encontrarse un carril confinado para transporte público o ciclista se realizará en la calle transversal siguiente. En caso de que tenga que hacerlo del lado izquierdo extremara´ precauciones al abrir o cerrar las portezuelas, sin sobrepasar las rayas de división de carril de manera que no haga un corte de circulación y con las luces de advertencia o intermitencia; y
+XXV. Ascender o descender del vehículo sobre el carril contiguo a la acera, en caso de encontrarse un carril confinado para transporte público o ciclista se realizará en la calle transversal siguiente. En caso de que tenga que hacerlo del lado izquierdo extremaraí (sic) precauciones al abrir o cerrar las portezuelas, sin sobrepasar las rayas de división de carril de manera que no haga un corte de circulación y con las luces de advertencia o intermitencia; y
 
 XXVI. Respetar los límites de velocidad establecidos en la señalización vial. A falta de señalamiento restrictivo específico, se estará a los límites de velocidad establecidos en la presente Ley.
 
-2. El incumplimiento de las obligaciones dispuestas en este artículo por parte de conductores de vehículos motorizados se sancionara´ de acuerdo a la Ley y el Reglamento correspondiente.
+2. El incumplimiento de las obligaciones dispuestas en este artículo por parte de conductores de vehículos motorizados se sancionaraí (sic) de acuerdo a la Ley y el Reglamento correspondiente.
 
 ###### Artículo 83.
 
@@ -2303,7 +2303,7 @@ IX. Las demás que se determinen en los reglamentos, políticas, programas y pro
 
 Infraestructura para la transferencia entre modos de transporte
 
-1. La infraestructura para la movilidad contara´ con áreas de transferencia destinadas a la conexión de los diversos modos de transporte que permitan un adecuado funcionamiento del tránsito peatonal y vehicular.
+1. La infraestructura para la movilidad contará con áreas de transferencia destinadas a la conexión de los diversos modos de transporte que permitan un adecuado funcionamiento del tránsito peatonal y vehicular.
 
 2. El Gobierno del Estado y los municipios en el ámbito de su competencia deberán establecer y mantener la infraestructura para la movilidad y sus servicios. Se garantizaraí (sic) la estancia y tránsito en la vía pública en condiciones de seguridad y accesibilidad de las vialidades y de los servicios de transporte.
 
@@ -2471,13 +2471,13 @@ III. Dispositivos de movilidad: Elementos destinados al control del tránsito, p
 
 (NOTA: EL 18 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 91/2017, DECLARÓ LA INVALIDEZ DEL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA”. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 2. LA SECRETARÍA SERÁ LA RESPONSABLE DE ESTABLECER Y APROBAR EL MOBILIARIO URBANO UTILIZADO PARA SUJETAR, RESGUARDAR Y/O CUSTODIAR BICICLETAS POR TIEMPO DETERMINADO, JUNTO CON LAS CARACTERÍSTICAS DE FABRICACIÓN Y MANTENIMIENTO.
 
 (NOTA: EL 18 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 91/2017, DECLARÓ LA INVALIDEZ DEL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA”. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 3. LA SECRETARÍA SERÁ LA RESPONSABLE DE DETERMINAR Y APROBAR TODAS AQUELLAS ESTRUCTURAS, OBJETOS Y ELEMENTOS DE CREACIÓN HUMANA, INSTALADOS EN EL ESPACIO PÚBLICO PARA SU USO, DELIMITACIÓN, SERVICIO U ORNAMENTACIÓN, TALES COMO: PLACAS DE NOMENCLATURA, BANCAS, LUMINARIAS, DEPÓSITOS DE BASURA, CASETAS, PARADEROS ENTRE OTROS.
 
@@ -6063,7 +6063,9 @@ OCTAVO. Los titulares de concesiones otorgadas antes de la publicación de la pr
 
 NOVENO. Los títulos de concesión que cuenten con una cotitularidad con anterioridad a la entrada en vigor de la presente Ley, persistirán sus efectos mientras sobrevivan los cotitulares.
 
-DÉCIMO. Con la finalidad de apoyar la consolidación de empresas de transporte público colectivo y el ajuste interno, escisión o fusión de las sociedades existentes, la Secretaría fungirá como facilitador de los procesos, ajustando el pago de las transmisiones que tenga dicho fin a un diez por ciento de su costo vigente durante los ciento ochenta días a la entrada en vigor de la Ley.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2019)</small>
+
+DÉCIMO. Con la finalidad de apoyar la consolidación de empresas de transporte público colectivo y el ajuste interno, escisión o fusión de las sociedades existentes, la Secretaría fungirá como facilitador de los procesos, ajustando el pago de las transmisiones que tenga dicho fin a un diez por ciento de su costo vigente.
 
 DÉCIMO PRIMERO. A partir de la entrada en vigor de la presente Ley, se promoverá que los vehículos de transporte público motorizado individual (taxi) contengan en lo posible los dispositivos mínimos de seguridad que se establecen en la presente Ley para cada modalidad. Aquellos que se encuentren ya registrados podrán ser reemplazados por vehículos autorizados, cuando las condiciones físico-mecánicas requieran de la renovación anticipada del vehículo, o cuando cumplan con 9 años de servicio de acuerdo al año de fabricación, cualquiera que ocurra primero.
 
@@ -6156,3 +6158,9 @@ P.O. 29 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 100 POR EL QUE SE REFORMAN LOS ARTÍCULOS 27, EN SUS INCISOS G., H., E I.; 373 EN SU PUNTO 2, ADICIONANDO UN SEGUNDO PÁRRAFO AL MISMO; 374 EN SU PUNTO 1, TODOS DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA Y SE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚM. 79 QUE SE PUBLICÓ EN EL PERIÓDICO OFICIAL “EL ESTADO DE COLIMA”, EDICIÓN NÚMERO 46, DE FECHA 19 DE JUNIO DE 2019”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al inicio del ciclo escolar 2019-2020, de conformidad con el Acuerdo número 13/05/19, expedido por la Secretaría de Educación Pública, que establece el calendario escolar aplicable en toda la República para las escuelas de educación básica (preescolar, primaria y secundaria), públicas y particulares, incorporadas al Sistema Educativo Nacional, y deberá publicarse en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 20 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 104 POR EL QUE SE REFORMA EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"; y estará vigente durante los 90 días naturales siguientes.
