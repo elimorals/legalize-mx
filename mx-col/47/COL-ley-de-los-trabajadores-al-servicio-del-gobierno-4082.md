@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2018-10-20"
+last_updated: "2019-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -503,9 +503,23 @@ Durante su embarazo, las mujeres no realizarán trabajos que exijan un esfuerzo 
 
 Durante la lactancia, las madres trabajadoras tendrán derecho a dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos.
 
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2019)</small>
 
-ARTICULO 54 BIS.- Los trabajadores varones, por el nacimiento de sus hijos o en su caso de adopción de un infante, tendrán derecho a que les sea otorgado un permiso de paternidad de cinco días laborables con goce de sueldo, posteriores al alumbramiento o al día en que lo reciban.
+ARTICULO 54 BIS.- Los trabajadores varones, por el nacimiento de sus hijos o en su caso de adopción de un infante, tendrán derecho a que les sea otorgado un permiso de paternidad de quince días laborables continuos con goce de sueldo, posteriores al alumbramiento o al día en que lo reciban.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2019)</small>
+
+Ante el otorgamiento del permiso señalado en el párrafo anterior, las entidades o dependencias públicas no tendrán la obligación de contratar personal temporal para cubrir la vacante respectiva, a excepción de que el trabajador se encuentre en algún supuesto del artículo 54 TER y la naturaleza de sus funciones lo requiera.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2019)</small>
+
+ARTICULO 54 TER.- Los trabajadores podrán solicitar una ampliación del permiso de paternidad, con goce de sueldo, conforme a los periodos y circunstancias siguientes:
+
+I. Por cinco días laborables continuos, en caso de enfermedad grave del hijo o hija recién nacido, así como por complicaciones graves de salud que pongan en riesgo la vida de la madre;
+
+II. Por cinco días laborables continuos, en caso de nacimiento múltiple, debiendo presentar la constancia respectiva; y
+
+III. Diez días laborables continuos, si la madre fallece durante los primeros quince días posteriores al nacimiento, debiendo presentar el acta de defunción dentro de los cinco días siguientes a la conclusión de este permiso.
 
 ###### ARTICULO 55.
 
@@ -1806,3 +1820,9 @@ P.O. 20 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 563 POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 36 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 20 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 103 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 54 BIS, Y SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 54 BIS Y EL ARTÍCULO 54 TER, TODOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
