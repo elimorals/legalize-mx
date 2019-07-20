@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2018-12-12"
+last_updated: "2019-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2019.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -911,6 +911,10 @@ IV.- Al reanudarse el período de sesiones ordinarias, presentarán al Congreso 
 
 A convocatoria del Gobernador o de la Diputación Permanente, los Periodos de Sesiones del Congreso del Estado, podrán iniciarse hasta 15 días antes de la fecha establecida en el párrafo que precede.
 
+> <small>(ADICIONADO, B.O. 20 DE JULIO DE 2019)</small>
+
+Para garantizar el principio de paridad de género en la Presidencia de las Mesas Directivas de los Periodos Ordinarios de Sesiones, deberá alternarse el género en cada uno de los periodos ordinarios.
+
 > <small>(REFORMADO, B.O. 30 DE ABRIL DE 1981)</small>
 
 51.- El Congreso del Estado celebrará Período Extraordinario de Sesiones, a convocatoria del Gobernador o la Diputación Permanente. En la convocatoria correspondiente se señalarán el motivo y la finalidad de los Períodos Extraordinarios.
@@ -1320,6 +1324,10 @@ L (SIC).- Expedir todas las leyes con perspectiva de género, logrando la transv
 65.- El día de la clausura del período ordinario de sesiones, el Congreso del Estado elegirá mediante votación por cédula y por mayoría de votos, una diputación permanente compuesta de tres miembros, que funcionará durante el receso ocurrido entre los periodos ordinarios de sesiones. El primero de los nombrados será el Presidente, el segundo el Primer Secretario y el Tercero el Segundo Secretario.
 
 Asimismo, se elegirán cinco suplentes, los cuales cubrirán las ausencias de los propietarios, conforme sean requeridos en el orden en que fueron electos.
+
+> <small>(ADICIONADO, B.O. 20 DE JULIO DE 2019)</small>
+
+Para garantizar el principio de paridad de género en la Presidencia de las Mesas Directivas de los Periodos de Recesos, deberá alternarse el género en cada uno de los periodos de receso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -4286,3 +4294,25 @@ El Gobierno del Estado y los Ayuntamientos de Baja California Sur, deberán armo
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 20 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2622.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, sin perjuicio de lo establecido en los siguientes artículos transitorios.
+
+Artículo Segundo.- La Presidencia de la Mesa directiva de la Diputación permanente del segundo periodo de receso del primer año de ejercicio constitucional de la XV Legislatura del Congreso del Estado deberá recaer en el género masculino.
+
+Artículo Tercero.- La presidencia de las mesas directivas de los periodos ordinarios de sesiones y de los periodos de receso, correspondientes al segundo año de ejercicio constitucional de la XV Legislatura, deberán recaer en el género femenino.
+
+Artículo Cuarto.- Para el tercer año de ejercicio constitucional de la XV Legislatura, las presidencias de las mesas directivas de los periodos ordinarios de sesiones y de los periodos de receso, se determinarán conforme a lo siguiente:
+
+a) Para el primer periodo ordinario de sesiones, comprendido del día 01 de septiembre al 15 de diciembre del año 2020, la presidencia de la mesa directiva deberá recaer en el género masculino.
+
+b) Para el primer periodo de receso, comprendido del día 16 de diciembre de 2020 al 14 de marzo del año 2021, la presidencia de la mesa directiva deberá recaer en el género femenino.
+
+c) Para el segundo periodo ordinario de sesiones, comprendido del día 15 de marzo al 30 de junio del año 2021, la presidencia de la mesa directiva deberá recaer en el género femenino.
+
+d) Para el segundo periodo de receso, comprendido del día 01 de julio al 31 de agosto del año 2021, la presidencia de la mesa directiva deberá recaer en el género masculino.
+
+Artículo Quinto.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
