@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2019-05-15"
+last_updated: "2019-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2019.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -1237,19 +1237,27 @@ En lo no previsto, expresamente, para estos cuerpos colegiados, se estará a lo 
 
 Los Comités del Congreso, son órganos auxiliares integrados por diputadas y diputados, que realizan tareas diferentes a las de las Comisiones.
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2019)</small>
+
+En la integración del Comité de Adquisiciones, Arrendamientos y Servicios, se atenderá lo dispuesto por el artículo 123 Bis de esta Ley.
+
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 118.
 
 El Comité de Biblioteca se conformará con un máximo de cinco miembros y un mínimo de tres, y el Comité de Administración se integrará hasta por tantos Partidos Políticos se encuentren representados en la Legislatura. En su integración, se reflejará la paridad de género, y tendrán las atribuciones que esta Ley, sus reglamentos y demás normatividad les señalen.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 119.
 
-Quienes integren los Comités serán designados por el Pleno, a propuesta de la Junta de Coordinación Política, y desempeñarán sus trabajos durante todo el período de la Legislatura.
+Quienes integren los Comités de Administración y de Biblioteca, serán designados por el Pleno, a propuesta de la Junta de Coordinación Política, y desempeñarán sus trabajos durante todo el período de la Legislatura.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 120.
 
-Los Comités se reunirán, para la atención y desahogo de sus asuntos, en la medida que su carga de trabajo así lo requiera, previa convocatoria emitida por quien presida, conjuntamente con su secretaría.
+Los Comités de Administración y de Biblioteca se reunirán, para la atención y desahogo de sus asuntos, en la medida que su carga de trabajo así lo requiera, previa convocatoria emitida por quien presida, conjuntamente con su secretaría.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1262,6 +1270,10 @@ El Congreso contará con los siguientes Comités:
 I.- De Administración.
 
 II.- De Biblioteca.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2019)</small>
+
+III. De Adquisiciones, Arrendamientos y Servicios.
 
 ### CAPÍTULO VI. DEL COMITÉ DE ADMINISTRACIÓN
 
@@ -1307,11 +1319,39 @@ VI.- Promover la traducción y difusión de leyes y decretos a las lenguas de lo
 
 VII.- Promover la traducción y difusión al lenguaje Braille u otras formas de expresión audiovisual, cuando se trate de disposiciones legales orientadas a la protección de los derechos de las personas con discapacidad.
 
-### CAPÍTULO I. DE LOS ÓRGANOS TÉCNICOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2019)</small>
+
+### CAPÍTULO VIII. DEL COMITÉ DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2019)</small>
+
+###### ARTÍCULO 123 Bis.
+
+El Comité de Adquisiciones, Arrendamientos y Servicios, se integrará por:
+
+I. La persona titular de la Secretaría de Administración, quien lo presidirá.
+
+II. La persona titular de la Secretaría de Asuntos Legislativos y Jurídicos, como vocal.
+
+III. La persona titular de la Dirección de Finanzas de la Secretaría de Administración, como vocal.
+
+IV. La o el Diputado que presida el Comité de Administración, como vocal.
+
+V. La o el Diputado que presida la Comisión de Transparencia, Acceso a la Información Pública y Parlamento Abierto, como vocal.
+
+Tratándose de contrataciones que requieran un grado de especialidad por el tipo de adquisición, arrendamiento o servicio de que se trate, deberá asistir la persona titular del área técnica correspondiente, quien contará con voz pero sin voto.
+
+En los actos de los procedimientos que lleve a cabo el Comité podrán participar, previa invitación o solicitud por escrito, personas de los sectores social y privado, siempre y cuando acrediten tener interés en los asuntos que se deban tratar.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2019)</small>
+
+###### ARTÍCULO 123 Ter.
+
+El Comité de Adquisiciones, Arrendamientos y Servicios tendrá las atribuciones descritas en el artículo 29 de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Chihuahua.
 
 ## TÍTULO SEXTO. DE LOS ÓRGANOS AUXILIARES
 
-### CAPÍTULO II. DE LA SECRETARÍA DE ADMINISTRACIÓN
+### CAPÍTULO I. DE LOS ÓRGANOS TÉCNICOS
 
 ###### ARTÍCULO 124.
 
@@ -1399,9 +1439,7 @@ VI.- No ser ministro de culto religioso.
 
 Quien ocupe el cargo de titular de la Auditoría Superior del Estado deberá cumplir con los requisitos previstos en la Constitución Política del Estado y sujetarse al procedimiento señalado en el Capítulo V de este Título.
 
-### CAPÍTULO III. DE LA SECRETARÍA DE ASUNTOS LEGISLATIVOS Y JURÍDICOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
+### CAPÍTULO II. DE LA SECRETARÍA DE ADMINISTRACIÓN
 
 ###### ARTÍCULO 129.
 
@@ -1473,7 +1511,9 @@ XXVII.- Llevar a cabo la elaboración de lineamientos, circulares, manuales de o
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ENERO DE 2019)</small>
 
-### CAPÍTULO IV. DE LA SECRETARÍA DE ASUNTOS INTERINSTITUCIONALES
+### CAPÍTULO III. DE LA SECRETARÍA DE ASUNTOS LEGISLATIVOS Y JURÍDICOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 130.
 
@@ -1575,13 +1615,13 @@ XXX.- Atender las demás actividades que le señalen la presente Ley, sus reglam
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE ENERO DE 2019)</small>
 
-### CAPÍTULO V. DE LA AUDITORÍA SUPERIOR
+### CAPÍTULO IV. DE LA SECRETARÍA DE ASUNTOS INTERINSTITUCIONALES
 
 ###### ARTÍCULO 131.
 
 (DEROGADO, P.O. 26 DE ENERO DE 2019)
 
-### CAPÍTULO VI. UNIDAD DE TRANSPARENCIA
+### CAPÍTULO V. DE LA AUDITORÍA SUPERIOR
 
 ###### ARTÍCULO 132.
 
@@ -1683,9 +1723,7 @@ El desempeño del cargo de Auditor Superior es incompatible con cualquier otro e
 
 No es aplicable lo dispuesto en el artículo anterior, a quien ejerza, cuando menos desde dos años antes al día de su designación, actividades docentes en instituciones educativas oficiales de cualquier nivel e instituciones de investigación científica.
 
-### CAPÍTULO VII. DEL INSTITUTO DE ESTUDIOS E INVESTIGACIÓN LEGISLATIVA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
+### CAPÍTULO VI. UNIDAD DE TRANSPARENCIA
 
 ###### ARTÍCULO 136.
 
@@ -1701,7 +1739,7 @@ Su Titular será nombrado(a) por el Pleno, a propuesta de la Junta de Coordinaci
 
 Quien funja como responsable de la Unidad de Transparencia, dependerá directamente de quien sea titular de la Secretaría de Asuntos Legislativos y Jurídicos y deberá contar, además de los requisitos establecidos en el artículo 128 de esta Ley, con experiencia en la materia.
 
-### CAPÍTULO VIII. DE LA UNIDAD DE IGUALDAD DE GÉNERO
+### CAPÍTULO VII. DEL INSTITUTO DE ESTUDIOS E INVESTIGACIÓN LEGISLATIVA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
 
@@ -1771,6 +1809,52 @@ En función de las necesidades del Instituto y de acuerdo al área de estudio e 
 
 El Instituto de Estudios e Investigación Legislativa se regulará por el Reglamento que para tal efecto emita el Congreso.
 
+### CAPÍTULO VIII. DE LA UNIDAD DE IGUALDAD DE GÉNERO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
+
+###### ARTÍCULO 143.
+
+En el Congreso se conformará la Unidad de Igualdad de Género, que desempeñará sus funciones bajo el control y supervisión de la Secretaría de Administración, como un mecanismo de coordinación para la institucionalización de la perspectiva de género, misma que será la encargada de diseñar e implementar las estrategias para la transversalización de la misma; sus funciones serán las siguientes:
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
+
+a) Proponer acciones orientadas a la igualdad sustantiva en el H. Congreso del Estado;
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
+
+b) Coadyuvar con los diferentes órganos del H. Congreso del Estado para promover ambientes libres de acoso laboral, así como de acoso y hostigamiento sexual;
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
+
+c) Proponer ante las instancias competentes políticas laborales orientadas a la igualdad sustantiva, sin menoscabo de los principios de imparcialidad, objetividad, productividad, disposición y compromiso institucional;
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
+
+d) Contribuir en la formación y especialización del personal de todos los niveles en materia de perspectiva de género e igualdad sustantiva;
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
+
+e) Ser la responsable de la producción y sistematización de información con perspectiva de género;
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
+
+f) Generar el Programa anual de trabajo de la Unidad para calendarizar los objetivos y las acciones que tiendan a lograr la igualdad de derechos y oportunidades entre mujeres y hombres, y
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
+
+g) Vigilar que se cumplan los objetivos y las acciones del Programa anual de trabajo, en la Unidad y en el Congreso.
+
+###### ARTÍCULO 144.
+
+Su Titular será nombrado(a) por el Pleno, a propuesta de la Junta de Coordinación Política, y percibirá la remuneración que se le fije en los términos de la normatividad correspondiente.
+
+###### ARTÍCULO 145.
+
+El personal operativo de dicha Unidad será seleccionado por parte de la Secretaría de Administración, debiendo elegirse entre quienes laboran en el Congreso y recibirán una compensación por sus servicios.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 2017)</small>
+
 ### CAPÍTULO IX. DE LA DIRECCIÓN DE ARCHIVOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2019)</small>
@@ -1829,55 +1913,11 @@ IX. Coordinar con el Departamento de Tecnologías de la Información, la gestió
 
 X. Las demás que deriven de las disposiciones legales aplicables.
 
-###### ARTÍCULO 143.
-
-En el Congreso se conformará la Unidad de Igualdad de Género, que desempeñará sus funciones bajo el control y supervisión de la Secretaría de Administración, como un mecanismo de coordinación para la institucionalización de la perspectiva de género, misma que será la encargada de diseñar e implementar las estrategias para la transversalización de la misma; sus funciones serán las siguientes:
-
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
-
-a) Proponer acciones orientadas a la igualdad sustantiva en el H. Congreso del Estado;
-
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
-
-b) Coadyuvar con los diferentes órganos del H. Congreso del Estado para promover ambientes libres de acoso laboral, así como de acoso y hostigamiento sexual;
-
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
-
-c) Proponer ante las instancias competentes políticas laborales orientadas a la igualdad sustantiva, sin menoscabo de los principios de imparcialidad, objetividad, productividad, disposición y compromiso institucional;
-
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
-
-d) Contribuir en la formación y especialización del personal de todos los niveles en materia de perspectiva de género e igualdad sustantiva;
-
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
-
-e) Ser la responsable de la producción y sistematización de información con perspectiva de género;
-
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
-
-f) Generar el Programa anual de trabajo de la Unidad para calendarizar los objetivos y las acciones que tiendan a lograr la igualdad de derechos y oportunidades entre mujeres y hombres, y
-
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2017)</small>
-
-g) Vigilar que se cumplan los objetivos y las acciones del Programa anual de trabajo, en la Unidad y en el Congreso.
-
-###### ARTÍCULO 144.
-
-Su Titular será nombrado(a) por el Pleno, a propuesta de la Junta de Coordinación Política, y percibirá la remuneración que se le fije en los términos de la normatividad correspondiente.
-
-###### ARTÍCULO 145.
-
-El personal operativo de dicha Unidad será seleccionado por parte de la Secretaría de Administración, debiendo elegirse entre quienes laboran en el Congreso y recibirán una compensación por sus servicios.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 2017)</small>
-
 ### CAPÍTULO ÚNICO. DEL OTORGAMIENTO DE ESTÍMULOS Y RECOMPENSAS
-
-### CAPÍTULO I. DE LAS SESIONES
 
 ## TÍTULO SÉPTIMO. DE LOS ESTÍMULOS Y RECOMPENSAS
 
-### CAPÍTULO II. DEL ORDEN DEL DÍA
+### CAPÍTULO I. DE LAS SESIONES
 
 ###### ARTÍCULO 146.
 
@@ -1909,7 +1949,7 @@ La cantidad deberá ser entregada dentro del mes siguiente a que se tenga derech
 
 ## TÍTULO OCTAVO. DEL PROCEDIMIENTO LEGISLATIVO
 
-### CAPÍTULO III. DE LAS INICIATIVAS
+### CAPÍTULO II. DEL ORDEN DEL DÍA
 
 ###### ARTÍCULO 147.
 
@@ -1999,7 +2039,7 @@ La duración del receso será establecido por quien presida la Mesa Directiva.
 
 En lo relativo a las formalidades del desarrollo de las sesiones, se estará a lo dispuesto en el Reglamento Interior y de Prácticas Parlamentarias.
 
-### CAPÍTULO IV. DE LA CONSULTA
+### CAPÍTULO III. DE LAS INICIATIVAS
 
 ###### ARTÍCULO 165.
 
@@ -2025,7 +2065,7 @@ La Mesa Directiva podrá reunirse, antes del inicio de cada sesión, para conoce
 
 El orden del día deberá enviarse, vía correo electrónico, a las diputadas y diputados, cuando menos con doce horas de anticipación a la fijada para que se lleven a cabo las sesiones del Congreso.
 
-### CAPÍTULO V. DE LAS DISCUSIONES
+### CAPÍTULO IV. DE LA CONSULTA
 
 ###### ARTÍCULO 167.
 
@@ -2151,7 +2191,7 @@ Si el proyecto de ley o decreto devuelto al Congreso fuere confirmado por el vot
 
 En la abrogación, derogación, reforma o adición de cualquier Ley o Decreto, se observará lo dispuesto en el artículo 77 de la Constitución Política del Estado.
 
-### CAPÍTULO VI. DE LAS MOCIONES
+### CAPÍTULO V. DE LAS DISCUSIONES
 
 ###### ARTÍCULO 185.
 
@@ -2177,7 +2217,7 @@ IV.- Bases que regirán su desarrollo.
 
 Una vez concluida la consulta y previo informe que al respecto se presente ante el Pleno, el Congreso podrá ordenar la publicación de la memoria de la referida consulta o de las conclusiones, en su caso.
 
-### CAPÍTULO VII. DE LAS VOTACIONES
+### CAPÍTULO VI. DE LAS MOCIONES
 
 ###### ARTÍCULO 189.
 
@@ -2217,7 +2257,7 @@ VIII.- Quien presida la Mesa Directiva, si así lo considera, declarará suficie
 
 IX.- Las y los integrantes de la Comisión Dictaminadora podrán emitir votos particulares o, en su caso, podrán hacerse propuestas alternativas de redacción y contenido de uno o varios artículos del dictamen.
 
-### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
+### CAPÍTULO VII. DE LAS VOTACIONES
 
 ###### ARTÍCULO 193.
 
@@ -2247,7 +2287,7 @@ X. Hacer proposiciones análogas a las anteriores.
 
 Las mociones se podrán hacer de viva voz y desde su curul por la diputada o el diputado que las proponga, y su aprobación se hará por mayoría de votos.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES EN MATERIA DE ACCESO A LA INFORMACIÓN
+### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
 
 ###### ARTÍCULO 195.
 
@@ -2333,13 +2373,11 @@ En caso necesario, quien presida la Mesa Directiva podrá solicitar por sí, o a
 
 Las características particulares y el procedimiento para emitir las votaciones serán reguladas en los términos del Reglamento Interior y de Prácticas Parlamentarias.
 
-### CAPÍTULO I. DEL PROCEDIMIENTO JURISDICCIONAL
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES EN MATERIA DE ACCESO A LA INFORMACIÓN
 
 ## TÍTULO NOVENO. DEL SERVICIO CIVIL
 
-### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+### CAPÍTULO I. DEL PROCEDIMIENTO JURISDICCIONAL
 
 ###### ARTÍCULO 209.
 
@@ -2355,7 +2393,9 @@ Las normas y procedimientos del Servicio Civil de Carrera Parlamentaria, se plas
 
 ## TÍTULO DÉCIMO. TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
-### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE ELECCIÓN
+### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 212.
 
@@ -2387,13 +2427,13 @@ Cuando se presente el caso, el(la) Titular del Sujeto obligado, tendrá que nomb
 
 ## TÍTULO UNDÉCIMO. DEL JUICIO POLÍTICO, DECLARACIÓN DE PROCEDENCIA Y RESPONSABILIDADES ADMINISTRATIVAS
 
-### CAPÍTULO ÚNICO. DE LAS FORMAS DEL CEREMONIAL
+### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE ELECCIÓN
 
 ###### ARTÍCULO 218.
 
 Las solicitudes de denuncia de Juicio Político y de Declaración de Procedencia, que se presenten en contra de las y los servidores públicos mencionados en el artículo 179 de la Constitución Política del Estado, se sujetarán a lo dispuesto en la Ley que expida el Poder Legislativo, para tales efectos.
 
-### CAPÍTULO I. SERVIDORES PÚBLICOS OBLIGADOS
+### CAPÍTULO ÚNICO. DE LAS FORMAS DEL CEREMONIAL
 
 ###### ARTÍCULO 219.
 
@@ -2407,9 +2447,7 @@ Una vez ratificadas las denuncias, la Secretaría de Asuntos Legislativos y Jur�
 
 ## TÍTULO DUODÉCIMO. DE LA ELECCIÓN DE SERVIDORES PÚBLICOS
 
-### CAPÍTULO II. DE LAS DENUNCIAS
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
+### CAPÍTULO I. SERVIDORES PÚBLICOS OBLIGADOS
 
 ###### ARTÍCULO 221.
 
@@ -2425,7 +2463,9 @@ TÍTULO DECIMOTERCERO
 
 DEL CEREMONIAL
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LAS DENUNCIAS
+
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2019)</small>
 
 ###### ARTÍCULO 223.
 
@@ -2474,6 +2514,8 @@ En los períodos de receso del Congreso, las protestas que deban rendir quien en
 TÍTULO DECIMOCUARTO
 
 DE LA DECLARACIÓN PATRIMONIAL
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 234.
 
@@ -2856,3 +2898,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La conformación de la Comisión Jurisdiccional a que se hace referencia en el presente Decreto, se mantendrá, durante la Sexagésima Sexta Legislatura de este H. Congreso, de conformidad a lo dispuesto por el Decreto No. LXVI/ITCYC/0312/2019 II P.O., publicado en el Periódico Oficial del Estado número 22, el día 16 de marzo de 2019.
+
+P.O. 20 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXVI/RFLEY/0367/2019 II P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA, ASÍ COMO DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Comité de Adquisiciones, Arrendamientos y Servicios del Poder Legislativo, deberá constituirse y celebrar su primera reunión en un plazo no mayor de treinta días naturales contados a partir de la entrada en vigor del presente Decreto.
