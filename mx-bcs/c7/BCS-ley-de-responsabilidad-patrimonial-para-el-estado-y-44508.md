@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-responsabilidad-patrimonial-para-el-estado-y-44508"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-20"
-last_updated: "2016-10-31"
+last_updated: "2019-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de marzo de 2005.
 
@@ -133,13 +133,17 @@ Las dependencias o entidades estarán obligadas a denunciar ante el Ministerio P
 
 Para que proceda una reclamación de indemnización se requiere cumplir con los siguientes requisitos:
 
-I.- Que la indemnización que se reclame no sea en ningún caso inferior a veinticinco unidades;
+I.- (DEROGADA, B.O. 20 DE JULIO DE 2019)
 
-II.- Que el reclamante se encuentre al corriente en el pago de todas sus contribuciones federales, estatales y municipales al momento de generarse el derecho de reclamar el pago de la indemnización;
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2019)</small>
 
-III.- Que los daños que se reclamen no sean imputables al reclamante, por haber infringido las leyes y reglamentos del Estado y Municipios de Baja California Sur; y
+II.- Que el reclamante se encuentre al corriente en el pago de todas sus contribuciones federales, estatales y municipales al momento de generarse el derecho de reclamar el pago de la indemnización; y
 
-III (sic).- Ser persona física o moral con residencia en el Estado de Baja California Sur.
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2019)</small>
+
+III.- Que los daños que se reclamen no sean imputables al reclamante, por haber infringido las leyes y reglamentos del Estado y Municipios de Baja California Sur.
+
+III (SIC).- (DEROGADA, B.O. 20 DE JULIO DE 2019)
 
 ### CAPÍTULO II. DE LAS INDEMNIZACIONES
 
@@ -206,6 +210,10 @@ Los procedimientos de responsabilidad patrimonial del Estado se iniciarán por r
 ###### Artículo 26.
 
 La parte interesada podrá presentar indistintamente su reclamación ante la dependencia o entidad presuntamente responsable o bien ante el órgano contencioso administrativo competente que indiquen las leyes de la materia.
+
+> <small>(ADICIONADO, B.O. 20 DE JULIO DE 2019)</small>
+
+Cuando la reclamación sea presentada ante una instancia que no sea la responsable de la actividad irregular que se reclama, ésta tendrá la obligación de remitirla en un término no mayor a tres días hábiles al ente público competente debiendo notificar de manera inmediata al reclamante, por lo que el término de substanciación empezará a correr a partir de que la autoridad competente lo reciba.
 
 ###### Artículo 27.
 
@@ -384,3 +392,9 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 20 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 2617.- SE DEROGAN LAS FRACCIONES I Y SEGUNDA III (SIC) DEL ARTÍCULO 16, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 26, AMBOS DE LA LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
