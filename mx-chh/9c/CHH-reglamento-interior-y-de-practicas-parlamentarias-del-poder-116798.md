@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-y-de-practicas-parlamentarias-del-poder-116
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-01"
-last_updated: "2019-03-13"
+last_updated: "2019-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de octubre de 2016.
 
@@ -235,7 +235,9 @@ I.- Ejercer los recursos financieros, humanos y materiales que les proporcione e
 
 II.- Contratar, en su caso, asesoría especializada y personal de confianza, con cargo a las subvenciones de cada grupo.
 
-III.- Proponer, de entre sus miembros, a quienes integrarán las comisiones o Comités.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2019)</small>
+
+III.- Proponer, de entre sus miembros, a quienes integrarán las comisiones o Comités, a excepción del Comité referido en el artículo 121, fracción III de la Ley.
 
 IV.- Presentar iniciativas en conjunto.
 
@@ -563,6 +565,10 @@ Las ausencias temporales de la o el Presidente de las comisiones o comités ser�
 
 Las ausencias de las y los vocales no podrán ser cubiertas.
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2019)</small>
+
+Tratándose del Comité de Adquisiciones, Arrendamientos y Servicios, cada integrante designará por escrito a su respectiva persona suplente, quien deberá pertenecer al mismo órgano que su titular.
+
 ###### ARTÍCULO 56.
 
 Las reuniones de comisión se desarrollarán de conformidad con el orden del día, el cual deberá adjuntarse a la convocatoria respectiva y contendrá, entre otros, lo siguiente:
@@ -699,9 +705,11 @@ III.- Para su instalación se requerirá la presencia de la mayoría de los inte
 
 IV.- Una vez instalada, funcionará como una comisión ordinaria y le será aplicable lo previsto para dichas comisiones.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 70.
 
-Los comités del Congreso a que se refiere el Capítulo V del Título Quinto de la Ley le será aplicable, en lo conducente, lo dispuesto para las comisiones.
+A los comités del Congreso previstos en las fracciones I y II del artículo 121 de la Ley le será aplicable, en lo conducente, lo dispuesto para las comisiones.
 
 ###### ARTÍCULO 71.
 
@@ -1738,3 +1746,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las Comisarías de las entidades paraestatales de la Administración Pública Estatal seguirán desempeñando sus funciones hasta en tanto la Secretaría de la Función Pública del Estado designe a las personas titulares de los Órganos Internos de Control.
+
+P.O. 20 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFLEY/0367/2019 II P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA, ASÍ COMO EL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Comité de Adquisiciones, Arrendamientos y Servicios del Poder Legislativo, deberá constituirse y celebrar su primera reunión en un plazo no mayor de treinta días naturales contados a partir de la entrada en vigor del presente Decreto.
