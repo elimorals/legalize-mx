@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-procedimiento-administrativo-del-estado-de-jalisco-1746
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-15"
-last_updated: "2019-05-11"
+last_updated: "2019-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de julio del 2000.
 
@@ -1317,57 +1317,29 @@ La administración puede imponer multas reiteradas por periodos suficientes para
 
 ### Capítulo I. De la Mejora Regulatoria
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
-
 ###### Artículo 154.
 
-Se entiende por mejora regulatoria el proceso de desregulación que tiene por objeto:
-
-I. La simplificación o eliminación, de manera parcial o total, de determinadas regulaciones, procedimientos o normas que inhiben el desarrollo económico;
-
-II. La creación o reforma del marco normativo que rige la actividad de sectores económicos o áreas reguladas específicamente, con el fin de eliminar los vacíos jurídicos provocados por cambios económicos, sociales y tecnológicos; y
-
-III. La mejora en los procesos mediante los cuales se elaboran y aplican las regulaciones a que se refiere este artículo.
-
-Las dependencias y organismos estatales y municipales, dentro de la esfera de su competencia, promoverán la realización de un proceso continuo y permanente de mejora regulatoria, buscando agilizar, eficientar y dotar de mayor seguridad jurídica los procedimientos administrativos que realicen.
-
-Para tal efecto, (sic) titular del Poder Ejecutivo del Estado y los ayuntamientos deberán expedir los reglamentos, decretos, circulares y demás ordenamientos que estimen pertinentes, a fin de establecer reglas claras y sencillas que reduzcan la discrecionalidad de las autoridades administrativas y eviten que se obligue al particular a presentar documentos o a realizar trámites ajenos a la naturaleza del acto administrativo por él solicitado.
-
-Asimismo, el Estado y los ayuntamientos podrán celebrar convenios que les permitan coordinarse, evaluar y realizar de manera conjunta los procesos de mejora regulatoria y crear un registro único de trámites.
+(DEROGADO, P.O. 20 DE JULIO DE 2019)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2008)</small>
 
 ### Capítulo II. Del Registro Público de Trámites Estatales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
-
 ###### Artículo 155.
 
-El Gobierno del Estado, a través de la Secretaria de Desarrollo Económico, estará a cargo del Registro Público de Trámites Estatales, mediante el cual se registrarán y harán públicos los datos e información relativa a los trámites vigentes del Poder Ejecutivo estatal, sus organismos públicos descentralizados y entidades paraestatales, así como de los municipios con los que se hubiere suscrito convenio de coordinación.
-
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2008)</small>
-
-Los procedimientos para el registro y actualización de los datos e información objeto de registro, así como el funcionamiento y operación del Registro Público de Trámites Estatales, se establecerán en el reglamento correspondiente.
-
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2008)</small>
+(DEROGADO, P.O. 20 DE JULIO DE 2019)
 
 ###### Artículo 156.
 
-Las secretarías, organismos públicos descentralizados y entidades paraestatales adscritas al Poder Ejecutivo del Estado, enviarán y actualizarán mensualmente la información concerniente a los trámites y servicios que brindan.
-
-En caso de realizarse modificaciones a los procedimientos de los trámites o servicios antes del término referido anteriormente para la actualización, los mismos deberán informarse al Registro Público de Trámites Estatales dentro de los cinco días hábiles siguientes a su aplicación.
-
-(ADICIONADO, P.O. 12 DE JUNIO DE 2008) (F. DE E., P.O. 5 DE JULIO DE 2008)
+(DEROGADO, P.O. 20 DE JULIO DE 2019)
 
 ###### Artículo 157.
 
-Los datos e información relativa a los trámites vigentes resguardada en el Registro Público de Trámites Estatales será congruente con la que publíciten directamente dichas entidades.
-
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2008)</small>
+(DEROGADO, P.O. 20 DE JULIO DE 2019)
 
 ###### Artículo 158.
 
-Los servidores públicos que soliciten requisitos adicionales, distintos o menores a los inscritos en el Registro Público de Trámites Estatales, serán sujetos al procedimiento establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+(DEROGADO, P.O. 20 DE JULIO DE 2019)
 
 T R A N S I T O R I O S
 
@@ -1472,3 +1444,33 @@ P.O. 11 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27256/LXII/19, QUE REFORMA EL ARTÍCULO 136 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; LOS ARTÍCULOS 36, 63, 318, 319 Y 320 DE LA LEY DE HACIENDA MUNICIPAL; EL ARTÍCULO 70 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD; ARTÍCULOS 3° Y 57 DE LA LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LOS ARTÍCULOS 7°, 18, 28, 117, 140 BIS, 141 Y 142 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO, TODAS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 20 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE "DECRETO 27307/LXII/19 QUE ABROGA LA LEY DE MEJORA REGULATORIA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, EXPEDIDA MEDIANTE DECRETO 22692/LVIII/09 Y SUS REFORMAS; Y CREA LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; Y DEROGA LOS ARTÍCULOS 154, 155, 156, 157 Y 158 DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto el Comité de Mejora Regulatoria se denominará Consejo Estatal.
+
+TERCERO. El Consejo Estatal previsto en esta Ley, deberá ser instalado dentro de los noventa días naturales siguientes a la entrada en vigor del presente decreto, mediante convocatoria previa que realice a sus integrantes el Titular del Poder Ejecutivo del Estado, a través del Secretario Ejecutivo del Sistema Estatal de Mejora Regulatoria.
+
+CUARTO. Las menciones contenidas en cualquier ordenamiento jurídico respecto al Comité Estatal de Mejora Regulatoria, se entenderán referidas al Consejo Estatal.
+
+QUINTO. Los sujetos obligados deberán designar a su Enlace Responsable de Mejora Regulatoria en un plazo que no exceda los cuarenta y cinco días naturales, a partir de la entrada en vigor del presente Decreto, asimismo deberán informar al Titular del Poder Ejecutivo dicha designación mediante oficio.
+
+SEXTO. El Titular del Ejecutivo del Estado y los Municipios deberán expedir y adecuar sus reglamentos y disposiciones generales en el ámbito de su competencia en los términos del presente decreto, en un plazo que no exceda de 180 días naturales a partir de la entrada en vigor del presente decreto.
+
+SÉPTIMO. El Consejo Estatal deberá aprobar la Estrategia Estatal con base en la Estrategia Nacional adaptada a las necesidades y requerimientos del ámbito estatal y municipal, en un plazo no mayor a 180 días naturales posteriores a la expedición de esta última.
+
+OCTAVO. La implementación y uso de la herramienta tecnológica del Catálogo prevista en el presente ordenamiento, deberá adecuarse a los plazos previstos en el Artículo Sexto Transitorio del decreto que expide la Ley General de Mejora Regulatoria.
+
+NOVENO. Las Autoridades de Mejora Regulatoria deberán expedir los lineamientos de los programas aplicables a la materia, dentro de un plazo no mayor a 180 días naturales, posteriores a la expedición de los lineamientos que señala el artículo décimo primero transitorio del decreto que expide la Ley General de Mejora Regulatoria, publicado el 18 de mayo de 2018.
+
+DÉCIMO. Los procesos, programas y acciones iniciados con anterioridad a la entrada en vigor de la presente Ley se solventarán y resolverán de conformidad con las disposiciones vigentes al momento de su inicio.
+
+DÉCIMO PRIMERO. El Titular del Poder Ejecutivo del Estado deberá de hacer las adecuaciones presupuestales que requieran para la observancia y cumplimiento del presente decreto.
+
+DÉCIMO SEGUNDO. Los Ayuntamientos deberán instalar los Consejos Municipales dentro de un plazo que no exceda de 180 días a partir de la entrada en vigor del presente decreto.
+
+DÉCIMO TERCERO. Los poderes Legislativo y Judicial y los Órganos Constitucionales Autónomos deberán realizar las adecuaciones reglamentarias necesarias para la implementación de las disposiciones que en materia de mejora regulatoria les correspondan.
