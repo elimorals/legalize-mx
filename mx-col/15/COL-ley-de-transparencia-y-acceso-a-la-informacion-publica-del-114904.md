@@ -4,7 +4,7 @@ identifier: "COL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1149
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-30"
-last_updated: "2018-12-29"
+last_updated: "2019-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2019.
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el lunes 30 de mayo de 2016.
 
@@ -647,9 +647,19 @@ d) El nombre, denominación o razón social y clave del registro federal de los 
 
 e) Nombre, domicilio, teléfono y número de Fiat notarial de las personas a quienes se habilitó para ejercer como notarios públicos, tanto del titular como del adscrito y de quienes temporalmente se encuentren ejerciendo dicha función, así como la información relacionada con el proceso de otorgamiento de la patente y las sanciones que se les hubieran aplicado;
 
-f) La información detallada que contengan los planes de desarrollo urbano, ordenamiento territorial y ecológico, así como los tipos y usos de suelo; y
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2019)</small>
 
-g) Las disposiciones administrativas, con el plazo de anticipación que prevea la normatividad aplicable, salvo que su difusión pueda comprometer los efectos que se pretenden lograr con su omisión o se trate de situaciones de emergencia, de conformidad con dichas disposiciones.
+f) La información detallada que contengan los planes de desarrollo urbano, ordenamiento territorial y ecológico, así como los tipos y usos de suelo;
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2019)</small>
+
+g) Las disposiciones administrativas, con el plazo de anticipación que prevea la normatividad aplicable, salvo que su difusión pueda comprometer los efectos que se pretenden lograr con su omisión o se trate de situaciones de emergencia, de conformidad con dichas disposiciones; y
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2019)</small>
+
+h) La información detallada que contenga los gastos de los viajes fuera del territorio estatal con cargo al erario: órdenes de pago, facturas, montos del gasto, adjudicaciones directas, licitaciones, contratos y servicios especializados para contratación de lo mismo.
+
+Así como el objeto de la comisión, gestión o encargo realizado; incorporando, según el caso, el nombre de todas las personas que con cargo al erario del Poder Ejecutivo participen en las actividades señaladas con anterioridad.
 
 II. Por conducto de la Secretaría General de Gobierno y de Seguridad Pública, la siguiente información relacionada con los cuerpos de Policía de Procuración de Justicia, Preventiva y Estatal Acreditable:
 
@@ -2667,8 +2677,8 @@ P.O. 3 DE JUNIO DE 2017.
 
 ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “El Estado de Colima”.
 
-P.O. 29 DE DICIEMBRE DE 2018.
+P.O. 20 DE JULIO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 621 POR EL QUE SE APRUEBA REFORMAR LA FRACCIÓN IX DEL ARTÍCULO 29 Y ADICIONAR LA FRACCIÓN IX BIS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PUBLICA DEL ESTADO DE COLIMA”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 102 POR EL QUE SE REFORMAN LOS INCISOS F) Y G) DE LA FRACCIÓN I DEL ARTÍCULO 30 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA Y SE ADICIONA UN INCISO H) A LA FRACCIÓN ANTES MENCIONADA”.]
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
