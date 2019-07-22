@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2018-10-03"
+last_updated: "2019-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2019.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -1573,8 +1573,6 @@ Al que habiendo atropellado a una persona, no le preste auxilio o solicite la as
 
 ### CAPITULO IV. DESAPARICION FORZADA DE PERSONAS
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2013)</small>
-
 ###### ARTICULO 162.
 
 Al que teniendo la obligación de hacerse cargo de un incapaz de cuidarse por sí mismo, lo entregue a una institución o a cualquier otra persona, contraviniendo la ley o contra la voluntad de quien se lo confió o sin la anuencia del juez de lo familiar, se le aplicará prisión de tres meses a un año, o trabajo en favor de la comunidad hasta por seis meses y privación de la patria potestad o tutela del incapaz si la tuviera.
@@ -1781,71 +1779,31 @@ La misma medida podrá imponerse de manera cautelar tratándose de inculpados en
 
 (DEROGADO, P.O. 29 DE ENERO DE 2018)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE AGOSTO DE 2013)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2019)</small>
 
 ### CAPITULO I. ALLANAMIENTO DE MORADA
 
 ###### ARTICULO 172 Bis.
 
-Comete el delito de desaparición forzada de personas el servidor público o la persona o grupo de personas que actuando con la autorización, el apoyo o la aquiescencia del Estado o sus servidores públicos, arreste, detenga, secuestre o prive de cualquier otra forma de su libertad a una persona, seguida de la negativa a reconocer dicha privación de libertad o del ocultamiento o el paradero de la persona desaparecida, con lo cual se le impide a ésta el ejercicio de recursos legales y las garantías procesales procedentes.
+(DEROGADO, P.O. 22 DE JULIO DE 2019)
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2013)</small>
+ARTICULO 172 Bis A.- (DEROGADO, P.O. 22 DE JULIO DE 2019)
 
-ARTICULO 172 Bis A.- A quien cometa el delito de desaparición forzada de personas, se le sancionará con pena de veinticinco a cuarenta años de prisión y de quinientos a dos mil días multa; en caso de ser servidor público se le impondrá también inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos de diez a veinte años.
+ARTICULO 172 Bis B.- (DEROGADO, P.O. 22 DE JULIO DE 2019)
 
-Lo anterior, con independencia de las demás sanciones que conforme a este Código le correspondan por otros delitos que de su conducta resulten.
+ARTICULO 172 Bis C.- (DEROGADO, P.O. 22 DE JULIO DE 2019)
 
-El delito de desaparición forzada de personas se considerará permanente e imprescriptible.
+ARTICULO 172 Bis D.- (DEROGADO, P.O. 22 DE JULIO DE 2019)
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2013)</small>
+ARTICULO 172 Bis E.- (DEROGADO, P.O. 22 DE JULIO DE 2019)
 
-ARTICULO 172 Bis B.- Al responsable de la comisión del delito de desaparición forzada de personas, se le incrementará la pena de prisión en una tercera parte de la que le corresponda, cuando:
+ARTICULO 172 Bis F.- (DEROGADO, P.O. 22 DE JULIO DE 2019)
 
-I. Sea superior jerárquico de un servidor público participante en la comisión del delito y haya tenido conocimiento de su comisión y no ejerciere su autoridad para evitarlo;
+ARTICULO 172 Bis G.- (DEROGADO, P.O. 22 DE JULIO DE 2019)
 
-II. El sujeto pasivo del delito sea persona con discapacidad, inmigrante, desplazada, menor de dieciocho años, mayor de sesenta años, indígena, mujer embarazada, víctima de trata o se encuentre en estado particularmente vulnerable;
+ARTICULO 172 Bis H.- (DEROGADO, P.O. 22 DE JULIO DE 2019)
 
-III. Cuando el acto realizado intencionalmente tenga una connotación de carácter sexual por medio del cual se degrade a la víctima;
-
-IV. Se cometa con el propósito de ocultar o asegurar la impunidad de otro delito; o
-
-V. Se cometa como parte de un ataque generalizado o sistemático contra una población civil y con conocimiento de dicho ataque.
-
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2013)</small>
-
-ARTICULO 172 Bis C.- Quien cometa el delito de desaparición forzada de personas no tendrá derecho a gozar de la amnistía, indulto o cualquier otra medida análoga que tenga por efecto exonerarlo de su responsabilidad penal.
-
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2013)</small>
-
-ARTICULO 172 Bis D.- Ninguna orden o instrucción de una autoridad pública, sea civil, militar o de otra índole o cualquier otra circunstancia, podrá ser invocada para justificar un delito de desaparición forzada de personas.
-
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2013)</small>
-
-ARTICULO 172 Bis E.- Se impondrá de cuatro a doce años de prisión y de cien a trescientos días multa, y en caso de ser servidor público se le impondrá también la inhabilitación de cuatro a doce años para el desempeño de cualquier cargo, empleo o comisión públicos, a quien:
-
-I. Teniendo conocimiento de la comisión del delito de desaparición forzada de personas, sin concierto previo, ayude a eludir la aplicación de la justicia o a entorpecer la investigación del mismo; o
-
-II. Conociendo los planes para la comisión del delito de desaparición forzada de personas, sin ser partícipe, no diere aviso a la autoridad.
-
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2013)</small>
-
-ARTICULO 172 Bis F.- Los servidores públicos que teniendo a su cargo la investigación del delito de desaparición forzada de personas o sus auxiliares, la obstruyan o eviten hacerla, se le aplicará pena de cuatro a siete años de prisión y de doscientos a cuatrocientos días multa, además de la inhabilitación de cinco a diez años para el ejercicio de cargos públicos.
-
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2013)</small>
-
-ARTICULO 172 Bis G.- La oposición o negativa a la autoridad competente para tener libre e inmediato acceso al lugar donde haya motivos para creer que se pueda encontrar a una persona desaparecida, por parte del servidor público responsable del mismo, será sancionada con la destitución de su cargo, comisión o empleo, sin perjuicios de la aplicación de las penas de los demás delitos en que pudiera incurrir con motivo de su conducta.
-
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2013)</small>
-
-ARTICULO 172 Bis H.- Si la víctima fuera liberada espontáneamente dentro de los tres días siguientes a su privación, la pena será de ocho meses a cuatro años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
-
-Si la liberación ocurriera dentro de los diez días siguientes a su privación, la pena aplicable será de dos a ocho años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
-
-Las penas previstas en este artículo podrán ser disminuidas hasta en una tercera parte en beneficio de aquel que hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos, identificar a los autores o recuperar los restos de la víctima; y hasta en una mitad cuando contribuya a lograr la reaparición con vida de la víctima.
-
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2013)</small>
-
-ARTICULO 172 Bis I.- El Estado y los Municipios responderán solidariamente ante la víctima u ofendido del delito por la comisión del mismo por parte de sus servidores públicos. Dicha responsabilidad incluirá el pago de los daños y perjuicios, para lo cual, el Ministerio Público estará obligado a solicitar al Juez dicha reparación y éste a resolver en la sentencia fijando la misma en cantidad líquida en beneficio de la víctima o del ofendido.
+ARTICULO 172 Bis I.- (DEROGADO, P.O. 22 DE JULIO DE 2019)
 
 ## TITULO QUINTO. DELITOS CONTRA LA PAZ Y LA SEGURIDAD DE LAS PERSONAS
 
@@ -3839,59 +3797,31 @@ Al que cometa alguno de los delitos a que se refiere el artículo anterior, se l
 
 Además de las penas establecidas en el párrafo que antecede, el agente sufrirá privación del cargo y podrá ser inhabilitado para obtener otro cargo público hasta por un término igual al doble de la pena de prisión señalada por la ley para el delito cometido.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2019)</small>
+
 ###### ARTICULO 328.
 
-Comete delito de tortura, el servidor público que, por sí, o valiéndose de terceros y en el ejercicio de sus funciones inflija intencionalmente a una persona dolores o sufrimientos graves o la coaccione física o moralmente con el fin de obtener de ella o de un tercero información o una confesión, de inducirla a un comportamiento determinado o de castigarla por un acto que haya cometido, o se sospeche que ha cometido.
-
-No se considerarán tortura las penalidades o sufrimientos que sean consecuencia únicamente de sanciones legítimas o que sean inherentes a éstas.
+(DEROGADO, P.O. 22 DE JULIO DE 2019)
 
 ###### ARTICULO 329.
 
-Al que cometa el delito de tortura se le sancionará con pena privativa de libertad de tres a doce años, de doscientos a quinientos días multa, privación de su cargo e inhabilitación para el desempeño de cualquier cargo, empleo o comisión hasta por dos tantos del tiempo de duración de la pena privativa de libertad impuesta.
-
-Las penas previstas en este artículo se aplicarán también al servidor público que, con motivo del ejercicio de su cargo, con cualesquiera de las finalidades señaladas en el artículo anterior instigue, compela o autorice a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos graves, sean físicos o psíquicos, o no evite que se inflijan dichos dolores o sufrimientos a una persona que está bajo su custodia.
-
-Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigado o autorizado, explícita o implícitamente, por un servidor público, inflija dolores o sufrimientos graves, sean físicos o psíquicos a un detenido.
-
-Si además de tortura, resulta delito diverso, se estará a las reglas del concurso de delitos.
+(DEROGADO, P.O. 22 DE JULIO DE 2019)
 
 ###### ARTICULO 330.
 
-No justifica la tortura que se invoquen o existan circunstancias excepcionales, como inestabilidad política interna, urgencia en las investigaciones o cualquier otra emergencia. Tampoco podrá invocarse como justificación la orden de superior jerárquico o de cualquier otra autoridad.
+(DEROGADO, P.O. 22 DE JULIO DE 2019)
 
 ###### ARTICULO 331.
 
-En el momento que lo solicite cualquier detenido o reo, deberá ser reconocido por perito médico legista o por un facultativo médico de su elección. El que haga el reconocimiento queda obligado a expedir, de inmediato, el certificado del mismo, y en caso de apreciar que se han inflijido (sic) dolores o sufrimientos, de los comprendidos en el primer párrafo del artículo 328 deberá comunicarlo a la autoridad competente.
-
-La solicitud de reconocimiento médico puede formularla el defensor del detenido o reo, o un tercero.
+(DEROGADO, P.O. 22 DE JULIO DE 2019)
 
 ###### ARTICULO 332.
 
-Ninguna declaración que haya sido obtenida mediante tortura, podrá invocarse como prueba.
+(DEROGADO, P.O. 22 DE JULIO DE 2019)
 
 ###### ARTICULO 333.
 
-Cualquier autoridad que conozca de un hecho de tortura está obligada a denunciarla de inmediato, si no lo hiciera, se le impondrán de tres meses a tres años de prisión, y de quince a sesenta días multa, sin perjuicio de lo que establezcan otras leyes.
-
-El responsable de alguno de los delitos previstos en este capítulo estará obligado a cubrir los gastos de asesoría legal, médicos, funerarios, de rehabilitación o de cualquier otra índole, en que hayan incurrido la víctima o sus familiares, como consecuencia del delito. Asimismo, estará obligado a reparar el daño y a indemnizar por los perjuicios causados a la víctima o a sus dependientes económicos, en los siguientes casos:
-
-I.- Pérdida de la vida;
-
-II.- Alteración de la salud;
-
-III.- Pérdida de la libertad;
-
-IV.- Pérdida de ingresos económicos;
-
-V.- Incapacidad laboral;
-
-VI.- Pérdida o el daño a la propiedad; o
-
-VII.- Menoscabo de la reputación.
-
-Para fijar los montos correspondientes, el juzgador tomará en cuenta la magnitud del daño causado.
-
-El Estado estará obligado subsidiariamente a la reparación del daño, por sus servidores públicos.
+(DEROGADO, P.O. 22 DE JULIO DE 2019)
 
 ###### ARTICULO 334.
 
@@ -4686,3 +4616,63 @@ P.O. 3 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 843 QUE REFORMA LOS ARTÍCULOS 336 Y 338 DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 22 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 260 DEL H. CONGRESO DEL ESTADO.- QUE EXPIDE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA ESTATAL DE BÚSQUEDA DE PERSONAS; REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL, DE LA LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y DE LA LEY DE SEGURIDAD PÚBLICA; Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, TODAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+A partir de la entrada en vigor del presente Decreto y hasta la emisión de los protocolos y demás instrumentos a que se refiere la presente Ley, la Fiscalía General y demás autoridades deberán cumplir con las obligaciones de búsqueda conforme a los ordenamientos que se hayan expedido con anterioridad, siempre que no se opongan a la misma.
+
+La Fiscalía General, además de los protocolos previstos en esta Ley, continuará aplicando los protocolos existentes de búsqueda de personas en situación de vulnerabilidad.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Fiscalías Especializadas en Materia de Desapariciones Forzadas y de Tortura, entrarán en funcionamiento dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, en tanto se adecuan las condiciones materiales y humanas necesarias para su establecimiento.
+
+Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, la Comisión Estatal de Búsqueda deberá emitir los protocolos rectores a que alude esta Ley, para su funcionamiento; así como el Programa Estatal de Búsqueda.
+
+Los servidores públicos que integren las Fiscalías Especializadas y la Comisión Estatal de Búsqueda deberán estar certificados. En caso de que ningún servidor público cuente con certificación, se dará una prórroga de un año para tal efecto.
+
+Para los efectos de lo dispuesto en el párrafo anterior, la Comisión Estatal de Búsqueda emitirá los criterios previstos en esta Ley, dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
+
+La Comisión Estatal de Búsqueda podrá, a partir de que entre en funcionamiento, ejercer las atribuciones que esta Ley les confiere con relación a los procesos de búsqueda que se encuentren pendientes.
+
+La persona titular de la Comisión Estatal de Búsqueda, cuyo nombramiento otorgó el Gobernador Constitucional del Estado de Sinaloa, el día 2 de mayo de 2019, continuará en el cargo, en los términos previstos en la Ley en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Estatal de Búsqueda de Personas en Sinaloa.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Estatal Ciudadano deberá estar conformado dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
+
+En un plazo de treinta días posteriores a su confirmación el Consejo Ciudadano deberá emitir sus reglas de funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+El Sistema Estatal de Búsqueda de Personas deberá quedar instalado dentro de los ciento ochenta días posteriores a la publicación del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, deberá expedir y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+La Fiscalía General del Estado, con la participación que corresponda a la Secretaría de Innovación del Ejecutivo Estatal, deberá emitir los lineamientos tecnológicos necesarios para garantizar que los registros y el Banco Estatal de Datos Forenses cuenten con las características técnicas y soporte tecnológico adecuado, dentro del plazo de ciento ochenta días a partir de la entrada en vigor de esta Ley.
+
+Dentro del plazo previsto en el párrafo anterior la Fiscalía General del Estado emitirá los lineamientos necesarios para que las autoridades de los distintos órdenes de gobierno remitan en forma homologada la información que será integrada al Registro Estatal de Personas Fallecidas No Identificadas y No Reclamadas y al Banco Estatal de Datos Forenses previstos en la Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Estatal de Búsqueda deberá emitir los lineamientos correspondientes a que se refiere la Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Los procedimientos iniciados por el delito de desaparición forzada de personas antes de la entrada en vigor del presente Decreto, se seguirán conforme a lo establecido en el Artículo Décimo Transitorio de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+Los procedimientos iniciados por el delito de tortura antes de la entrada en vigor del presente Decreto, se seguirán conforme a lo establecido en el Artículo Segundo Transitorio de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
