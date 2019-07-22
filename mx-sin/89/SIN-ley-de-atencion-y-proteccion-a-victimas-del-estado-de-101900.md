@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-atencion-y-proteccion-a-victimas-del-estado-de-101900"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-30"
-last_updated: "2017-11-01"
+last_updated: "2019-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2019.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Sinaloa, el miércoles 30 de julio de 2014.
 
@@ -853,9 +853,9 @@ Las víctimas tendrán derecho a la restitución en sus derechos conculcados as�
 
 Las medidas de restitución comprenden lo siguiente:
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2019)</small>
 
-I. Restablecimiento de la libertad, en caso de secuestro o desaparición de persona;
+I. Restablecimiento inmediato de la libertad, en caso de secuestro o desaparición forzada, desaparición cometida por particulares, así como de tortura;
 
 II. Restablecimiento de los derechos jurídicos;
 
@@ -2077,7 +2077,9 @@ El reconocimiento de la calidad de víctima tendrá como efecto:
 
 I. El acceso a los derechos, garantías, acciones, mecanismos y procedimientos, (sic) los términos de esta Ley y las disposiciones reglamentarias; y
 
-II. En el caso de las lesiones graves, delitos contra la libertad psicosexual, violencia familiar, trata de personas, secuestro, tortura, tratos crueles, inhumanos o degradantes, desaparición, privación de la libertad y todos aquellos que impidan a la víctima por la naturaleza del daño de atender adecuadamente la defensa de sus derechos; que el juez de la causa o la autoridad responsable del procedimiento, de inmediato suspendan todos los juicios y procedimientos administrativos y detengan los plazos de prescripción y caducidad, así como todos los efectos que de estos se deriven, en tanto su condición no sea superada, siempre que se justifique la imposibilidad de la víctima de ejercer adecuadamente sus derechos en dichos juicios y procedimientos.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2019)</small>
+
+II. En el caso de las lesiones graves, delitos contra la libertad psicosexual, violencia familiar, trata de personas, secuestro, tortura, tratos crueles, inhumanos o degradantes, desaparición forzada de personas, desaparición de personas cometida por particulares, privación de la libertad y todos aquellos que impidan a la víctima por la naturaleza del daño de atender adecuadamente la defensa de sus derechos, que el juez de la causa o la autoridad responsable del procedimiento, de inmediato suspendan todos los juicios y procedimientos administrativos y detendrán los plazos de prescripción y caducidad, así como todos los efectos que de estos se deriven, en tanto su condición no sea superada, siempre que se justifique la imposibilidad de la víctima de ejercer adecuadamente sus derechos en dichos juicios y procedimientos.
 
 Al reconocer su calidad de víctima, ésta podrá acceder a los recursos del Fondo y la reparación integral, de conformidad con lo previsto en la presente Ley y en el Reglamento.
 
@@ -2576,3 +2578,63 @@ OCTAVO. El Ejecutivo del Estado deberá realizar las reformas al Reglamento de l
 NOVENO. El Fondo deberá ser constituido atendiendo lo dispuesto en los artículos 157 Ter y 157 Quáter de la Ley General, así como 139 Bis y 139 Ter de la presente Ley, dentro de un plazo de 180 días posteriores al inicio de vigencia del presente Decreto.
 
 DÉCIMO. El Comisionado Estatal deberá nombrar a los titulares del Fondo, Registro Estatal y Asesoría Jurídica en un plazo que no deberá exceder de 180 días posteriores al inicio de vigencia del presente Decreto.
+
+P.O. 22 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 260 DEL H. CONGRESO DEL ESTADO.- QUE EXPIDE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA ESTATAL DE BÚSQUEDA DE PERSONAS; REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL, DE LA LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y DE LA LEY DE SEGURIDAD PÚBLICA; Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, TODAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+A partir de la entrada en vigor del presente Decreto y hasta la emisión de los protocolos y demás instrumentos a que se refiere la presente Ley, la Fiscalía General y demás autoridades deberán cumplir con las obligaciones de búsqueda conforme a los ordenamientos que se hayan expedido con anterioridad, siempre que no se opongan a la misma.
+
+La Fiscalía General, además de los protocolos previstos en esta Ley, continuará aplicando los protocolos existentes de búsqueda de personas en situación de vulnerabilidad.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Fiscalías Especializadas en Materia de Desapariciones Forzadas y de Tortura, entrarán en funcionamiento dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, en tanto se adecuan las condiciones materiales y humanas necesarias para su establecimiento.
+
+Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, la Comisión Estatal de Búsqueda deberá emitir los protocolos rectores a que alude esta Ley, para su funcionamiento; así como el Programa Estatal de Búsqueda.
+
+Los servidores públicos que integren las Fiscalías Especializadas y la Comisión Estatal de Búsqueda deberán estar certificados. En caso de que ningún servidor público cuente con certificación, se dará una prórroga de un año para tal efecto.
+
+Para los efectos de lo dispuesto en el párrafo anterior, la Comisión Estatal de Búsqueda emitirá los criterios previstos en esta Ley, dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
+
+La Comisión Estatal de Búsqueda podrá, a partir de que entre en funcionamiento, ejercer las atribuciones que esta Ley les confiere con relación a los procesos de búsqueda que se encuentren pendientes.
+
+La persona titular de la Comisión Estatal de Búsqueda, cuyo nombramiento otorgó el Gobernador Constitucional del Estado de Sinaloa, el día 2 de mayo de 2019, continuará en el cargo, en los términos previstos en la Ley en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Estatal de Búsqueda de Personas en Sinaloa.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Estatal Ciudadano deberá estar conformado dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
+
+En un plazo de treinta días posteriores a su conformación el Consejo Ciudadano deberá emitir sus reglas de funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+El Sistema Estatal de Búsqueda de Personas deberá quedar instalado dentro de los ciento ochenta días posteriores a la publicación del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, deberá expedir y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+La Fiscalía General del Estado, con la participación que corresponda a la Secretaría de Innovación del Ejecutivo Estatal, deberá emitir los lineamientos tecnológicos necesarios para garantizar que los registros y el Banco Estatal de Datos Forenses cuenten con las características técnicas y soporte tecnológico adecuado, dentro del plazo de ciento ochenta días a partir de la entrada en vigor de esta Ley.
+
+Dentro del plazo previsto en el párrafo anterior la Fiscalía General del Estado emitirá los lineamientos necesarios para que las autoridades de los distintos órdenes de gobierno remitan en forma homologada la información que será integrada al Registro Estatal de Personas Fallecidas No Identificadas y No Reclamadas y al Banco Estatal de Datos Forenses previstos en la Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Estatal de Búsqueda deberá emitir los lineamientos correspondientes a que se refiere la Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Los procedimientos iniciados por el delito de desaparición forzada de personas antes de la entrada en vigor del presente Decreto, se seguirán conforme a lo establecido en el Artículo Décimo Transitorio de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+Los procedimientos iniciados por el delito de tortura antes de la entrada en vigor del presente Decreto, se seguirán conforme a lo establecido en el Artículo Segundo Transitorio de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
