@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-familiares-del-estado-de-sinaloa-96788
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-27"
-last_updated: "2017-06-26"
+last_updated: "2019-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2019.
 
 Código publicado en la Edición Extraordinaria, Tercera Sección Parte Uno del Periódico Oficial del Estado de Sinaloa, el miércoles 27 de noviembre de 2013.
 
@@ -5067,7 +5067,9 @@ La resolución que niegue la adopción, será apelable en ambos efectos.
 
 Cuando se apruebe la adopción o se deje sin efecto el juez cumplirá lo que previenen los artículos 1122, 1146 y 1149 del Código Familiar.
 
-### Capítulo VII. De la Declaración de Ausencia o de Presunción de Muerte
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JULIO DE 2019)</small>
+
+### Capítulo VII. De la Declaración de Ausencia, Presunción de Muerte y de la Declaración Especial de Ausencia por Desaparición Forzada
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -5110,6 +5112,106 @@ V. La sentencia que declare la presunción del fallecimiento pone término a la 
 ###### Artículo 674.
 
 El Ministerio Público velará por los intereses del ausente, será oído en todos los juicios que tengan relación con él, y en las declaraciones de ausencia y presunción de muerte.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2019)</small>
+
+###### Artículo 674 Bis.
+
+Los familiares, otras personas legitimadas por la Ley y el Ministerio Público podrán solicitar al órgano jurisdiccional en materia familiar que corresponda, según la competencia, se emita una Declaración Especial de Ausencia por Desaparición Forzada, en términos de lo dispuesto en este Código y demás leyes aplicables.
+
+El procedimiento de Declaración Especial de Ausencia por Desaparición Forzada, podrá pedirse que se inicie por quien tenga derecho a ello y será estrictamente voluntario. Las autoridades en contacto con los familiares deberán informar del procedimiento y efectos de la declaración a estos.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2019)</small>
+
+Artículo 674 Bis A. Para determinar la competencia del juzgado que conozca de la Declaración Especial de Ausencia por Desaparición Forzada, se estará a cualquiera de los criterios siguientes:
+
+I. El último domicilio de la persona desaparecida;
+
+II. El domicilio de la persona quien promueva la acción;
+
+III. El lugar en donde se presuma que ocurrió la desaparición; y
+
+IV. El lugar en donde se esté llevando a cabo la investigación.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2019)</small>
+
+Artículo 674 Bis B. El plazo para resolver sobre la Declaración Especial de Ausencia por Desaparición Forzada, no podrá exceder de seis meses a partir de iniciado el procedimiento.
+
+El procedimiento deberá contemplar aquellos casos en los cuales se haya declarado la presunción de ausencia o de muerte de una persona desaparecida, para permitirle acceder a la Declaratoria Especial de Ausencia por Desaparición Forzada y corregir su estatus legal.
+
+El procedimiento de Declaración Especial de Ausencia de Desaparición Forzada, podrá solicitarse a partir de los tres meses de que se haya hecho la denuncia o reporte de desaparición o la presentación de queja ante las Comisiones Nacional o Estatal de los Derechos Humanos.
+
+Este procedimiento se regirá bajo los principios de inmediatez, celeridad y gratuidad. Los gastos derivados de este procedimiento, incluyendo publicación de edictos, no causarán contribución alguna en el caso de publicación en medios oficiales. El titular del Juzgado que conozca del procedimiento, solicitará a la Comisión de Víctimas que otorgue las medidas de asistencia necesarias a los familiares, incluido el gasto que se genere con motivo del mismo, de conformidad con lo dispuesto en la Ley de Atención y Protección a Víctimas del Estado de Sinaloa y en la Ley General de Víctimas y demás normativa aplicable.
+
+El juzgador deberá contemplar la posibilidad de emitir medidas provisionales cautelares durante el procedimiento y omitir requisitos que resulten onerosos para la emisión de las declaratorias. Los familiares podrán en cualquier momento antes de emitida la declaratoria, desistirse de continuar con el mismo.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2019)</small>
+
+Artículo 674 Bis C. La Declaración Especial de Ausencia por Desaparición Forzada, tiene como finalidad lo siguiente:
+
+I. Reconocer y proteger la personalidad jurídica y los derechos de la persona desaparecida; y
+
+II. Otorgar las medidas apropiadas para asegurar la protección más amplia a los familiares de la persona desaparecida.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2019)</small>
+
+Artículo 674 Bis D. La Declaración Especial de Ausencia por Desaparición Forzada, tendrá como mínimo, los efectos siguientes:
+
+I. Garantizar la conservación de la patria potestad de la Persona Desaparecida y la protección de los derechos y bienes de las y los hijos menores de dieciocho años de edad a través de quien pueda ejercer la patria potestad o, en su caso, a través de la designación de un tutor, atendiendo al principio del interés superior de la niñez;
+
+II. Fijar los derechos de guarda y custodia de las personas menores de dieciocho años de edad en los términos de la legislación familiar aplicable;
+
+III. Proteger el patrimonio de la persona desaparecida, incluyendo los bienes adquiridos a crédito y cuyos plazos de amortización se encuentren vigentes, así como de los bienes sujetos a hipoteca;
+
+IV. Fijar la forma y plazos para que los familiares u otras personas legitimadas por la ley, pueden acceder, previo control judicial, al patrimonio de la persona desaparecida;
+
+V. Permitir que los beneficiarios de un régimen de seguridad social derivado de una relación de trabajo de la persona desaparecida, continúen gozando de todos los beneficios aplicables a este régimen;
+
+VI. Suspender de forma provisional los actos judiciales, mercantiles, civiles o administrativos en contra de los derechos o bienes de la persona desaparecida;
+
+VII. Declarar la inexigibilidad temporal de deberes o responsabilidades que la persona desaparecida tenía a su cargo;
+
+VIII. Proveer sobre la representación legal de la persona ausente cuando corresponda; y
+
+IX. Establecer las reglas aplicables en caso de que la persona sea localizada con vida para el restablecimiento de sus derechos y cumplimiento de obligaciones.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2019)</small>
+
+Artículo 674 Bis E. La Declaración Especial de Ausencia por Desaparición Forzada, sólo tiene efectos de carácter civil y familiar, por lo que no produce efectos de prescripción penal ni constituye prueba plena en otros procesos judiciales.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2019)</small>
+
+Artículo 674 Bis F. La Declaración Especial de Ausencia protegerá los derechos laborales de la Persona Desaparecida en los siguientes términos:
+
+I. Se le tendrá en situación de permiso sin goce de sueldo. En el supuesto de que la víctima fuera localizada con vida, el patrón deberá reinstalarlo en el puesto que ocupaba en su centro de trabajo antes de la desaparición;
+
+II. Si es localizada con vida, recuperará su posición, escalafón y derechos de antigüedad de conformidad con la legislación aplicable;
+
+III. A las personas beneficiarias en materia de seguridad social, se les reconocerán y conservarán los derechos y beneficios que establece el orden jurídico aplicable; y
+
+IV. Se suspenderán los pagos con motivo del crédito para la adquisición de viviendas.
+
+La medida de protección prevista en la fracción I del presente artículo se mantendrá hasta por cinco años, pasados los cuales no habrá obligación para el empleador.
+
+Por lo que hace a lo previsto en las demás fracciones, las medidas de protección se mantendrán hasta la localización, con o sin vida, de la Persona Desaparecida.
+
+Por lo que hace a las fracciones III y IV del presente artículo, las autoridades competentes en la materia en el Estado, serán las encargadas de garantizar que dichas protecciones continúen, en términos de la legislación aplicable.
+
+Si la Persona Desaparecida laboraba al servicio del Gobierno del Estado los Gobiernos Municipales, la Declaración Especial de Ausencia protegerá los derechos laborales en el mismo sentido que establece este artículo hasta su localización con o sin vida.
+
+Los órganos jurisdiccionales competentes en el Estado solo podrán pronunciarse en materia de derecho laborales para los efectos de lo dispuesto en este procedimiento, respecto de aquellas empresas que no se encuentren establecidas en el artículo 123, inciso A, fracción XXXI de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2019)</small>
+
+Artículo 674 Bis G. El Titular del Órgano Jurisdiccional deberá tener contacto permanente con la Comisión Estatal de Búsqueda a efecto de conminarla a continuar con la búsqueda, de conformidad con la ley de la materia; así como con la Fiscalía Especializada de la Fiscalía General para que continúe con la investigación y persecución de los delitos previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, aun cuando alguno de los familiares o persona legitimada haya solicitado la declaración especial de ausencia.
+
+Lo anterior a efecto de que si en el transcurso del procedimiento, se encuentra a la persona desaparecida dejar sin efectos el mismo y darlo por terminado.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2019)</small>
+
+Artículo 674 Bis H. Si la persona desaparecida declarada ausente es localizada con vida, ésta puede solicitar, ante el órgano jurisdiccional que declaró la ausencia, la recuperación de sus bienes.
+
+Si la persona declarada ausente es encontrada sin vida, sus familiares pueden solicitar al juez familiar competente, iniciar los procedimientos que sean conformes a la legislación aplicable.
 
 ### Capítulo VIII. De la Protección de Personas Menores o Incapaces Maltratadas, Habilitación de Edad y Autorización para salir del País
 
@@ -5316,3 +5418,63 @@ P.O. 26 DE JUNIO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 260 QUE EXPIDE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA ESTATAL DE BÚSQUEDA DE PERSONAS; REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL, DE LA LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y DE LA LEY DE SEGURIDAD PÚBLICA; Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, TODAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+A partir de la entrada en vigor del presente Decreto y hasta la emisión de los protocolos y demás instrumentos a que se refiere la presente Ley, la Fiscalía General y demás autoridades deberán cumplir con las obligaciones de búsqueda conforme a los ordenamientos que se hayan expedido con anterioridad, siempre que no se opongan a la misma.
+
+La Fiscalía General, además de los protocolos previstos en esta Ley, continuará aplicando los protocolos existentes de búsqueda de personas en situación de vulnerabilidad.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Fiscalías Especializadas en Materia de Desapariciones Forzadas y de Tortura, entrarán en funcionamiento dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, en tanto se adecuan las condiciones materiales y humanas necesarias para su establecimiento.
+
+Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, la Comisión Estatal de Búsqueda deberá emitir los protocolos rectores a que alude esta Ley, para su funcionamiento; así como el Programa Estatal de Búsqueda.
+
+Los servidores públicos que integren las Fiscalías Especializadas y la Comisión Estatal de Búsqueda deberán estar certificados. En caso de que ningún servidor público cuente con certificación, se dará una prórroga de un año para tal efecto.
+
+Para los efectos de lo dispuesto en el párrafo anterior, la Comisión Estatal de Búsqueda emitirá los criterios previstos en esta Ley, dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
+
+La Comisión Estatal de Búsqueda podrá, a partir de que entre en funcionamiento, ejercer las atribuciones que esta Ley les confiere con relación a los procesos de búsqueda que se encuentren pendientes.
+
+La persona titular de la Comisión Estatal de Búsqueda, cuyo nombramiento otorgó el Gobernador Constitucional del Estado de Sinaloa, el día 2 de mayo de 2019, continuará en el cargo, en los términos previstos en la Ley en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Estatal de Búsqueda de Personas en Sinaloa.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Estatal Ciudadano deberá estar conformado dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
+
+En un plazo de treinta días posteriores a su conformación el Consejo Ciudadano deberá emitir sus reglas de funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+El Sistema Estatal de Búsqueda de Personas deberá quedar instalado dentro de los ciento ochenta días posteriores a la publicación del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, deberá expedir y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+La Fiscalía General del Estado, con la participación que corresponda a la Secretaría de Innovación del Ejecutivo Estatal, deberá emitir los lineamientos tecnológicos necesarios para garantizar que los registros y el Banco Estatal de Datos Forenses cuenten con las características técnicas y soporte tecnológico adecuado, dentro del plazo de ciento ochenta días a partir de la entrada en vigor de esta Ley.
+
+Dentro del plazo previsto en el párrafo anterior la Fiscalía General del Estado emitirá los lineamientos necesarios para que las autoridades de los distintos órdenes de gobierno remitan en forma homologada la información que será integrada al Registro Estatal de Personas Fallecidas No Identificadas y No Reclamadas y al Banco Estatal de Datos Forenses previstos en la Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Estatal de Búsqueda deberá emitir los lineamientos correspondientes a que se refiere la Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Los procedimientos iniciados por el delito de desaparición forzada de personas antes de la entrada en vigor del presente Decreto, se seguirán conforme a lo establecido en el Artículo Décimo Transitorio de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+Los procedimientos iniciados por el delito de tortura antes de la entrada en vigor del presente Decreto, se seguirán conforme a lo establecido en el Artículo Segundo Transitorio de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
