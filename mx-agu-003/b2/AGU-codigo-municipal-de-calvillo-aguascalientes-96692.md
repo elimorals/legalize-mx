@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2018-12-31"
+last_updated: "2019-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2019.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -8645,6 +8645,10 @@ VI.- Ratificar los nombramientos del personal de la categoría siguiente al Dire
 
 VII.- Expedir los nombramientos del personal que labore en el OOSAC.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JULIO DE 2019)</small>
+
+VIII.- Nombrar al Encargado de Despacho del OOSAC a falta de Director General.
+
 ###### Artículo 889.
 
 Corresponde a los Consejeros:
@@ -8751,9 +8755,15 @@ IX.- Las demás que le señale el presente Título o les delegue el H. Ayuntamie
 
 #### SECCIÓN TERCERA. Del Director General
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 22 DE JULIO DE 2019)</small>
+
 ###### Artículo 897.
 
 El Director General será nombrado por el Consejo Directivo a propuesta del Presidente Municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JULIO DE 2019)</small>
+
+A falta de Director General el Presidente del Consejo Directivo nombrará Encargado de Despacho, el cual tendrá todas las facultades y/o funciones del Director General.
 
 ###### Artículo 898.
 
@@ -24518,5 +24528,15 @@ P.O. 31 DE DICIEMBRE DE 2018.
 Artículo Segundo.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Tercero.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Cuarto.- Cúmplase.
+
+P.O. 22 DE JULIO DE 2019.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE CALVILLO, AGUASCALIENTES”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- Las presentes adiciones y reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Cuarto.- Cúmplase.
