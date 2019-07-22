@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-fiscalia-general-del-estado-de-sinaloa-12332
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-08"
-last_updated: "2017-09-08"
+last_updated: "2019-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE FEBRERO DE 2020 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 8 de septiembre de 2017.
 
@@ -299,9 +301,19 @@ XXVII. Impulsar las acciones necesarias para promover la cultura de la denuncia 
 
 XXVIII. Constituir y administrar su archivo;
 
-XXIX. Colaborar con el Ministerio Público Federal proporcionando los datos, registros y actuaciones de la investigación de delitos relacionados o cometidos contra algún periodista, persona o instalación que atenten contra el derecho a la información o las libertades de expresión o imprenta; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2019)</small>
 
-XXX. Las demás que prevean otras disposiciones jurídicas aplicables.
+XXIX. Colaborar con el Ministerio Público Federal proporcionando los datos, registros y actuaciones de la investigación de delitos relacionados o cometidos contra algún periodista, persona o instalación que atenten contra el derecho a la información o las libertades de expresión o imprenta;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2019)</small>
+
+XXX. Investigar y perseguir los delitos en el ámbito de su competencia, conforme a las Leyes Generales relacionadas con la materia de desaparición forzada y en materia de tortura;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2019)</small>
+
+XXXI. Celebrar acuerdos interinstitucionales con autoridades e instituciones para coordinar las acciones de investigación de mexicanos en el extranjero y migrantes extranjeros en el Estado; y
+
+XXXII. Las demás que prevean otras disposiciones jurídicas aplicables.
 
 ###### Artículo 9.
 
@@ -313,17 +325,25 @@ II. Fiscalía Especializada en Combate a la Corrupción;
 
 III. Fiscalía Especializada en Atención de Delitos Electorales;
 
-IV. Órgano Interno de Control;
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2019)</small>
 
-V. Policías de Investigación;
+IV. Fiscalía Especializada en Desapariciones Forzadas;
 
-VI. Direcciones Generales, Direcciones de Unidad, Ministerios Públicos y Peritos;
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2019)</small>
 
-VII. Los órganos auxiliares encargados de impartir educación superior, realizar investigación académica, contribuir en la formulación de políticas públicas en materia de justicia penal y seguridad pública, los cuales participan en la capacitación y formación ética y profesional del personal de la Fiscalía General;
+V. Fiscalía Especializada en Materia de Tortura;
 
-VIII. La Oficialía Mayor, órgano encargado de la administración de la Fiscalía General; y
+VI. Órgano Interno de Control;
 
-IX. Los demás órganos o unidades creadas por mandato legal o que determine el Fiscal General en el Reglamento o en otras disposiciones de su normatividad interna.
+VII. Policías de Investigación;
+
+VIII. Direcciones Generales, Direcciones de Unidad, Ministerios Públicos y Peritos;
+
+IX. Los órganos auxiliares encargados de impartir educación superior, realizar investigación académica, contribuir en la formulación de políticas públicas en materia de justicia penal y seguridad pública, los cuales participan en la capacitación y formación ética y profesional del personal de la Fiscalía General;
+
+X. La Oficialía Mayor, órgano encargado de la administración de la Fiscalía General; y
+
+XI. Los demás órganos o unidades creadas por mandato legal o que determine el Fiscal General en el Reglamento o en otras disposiciones de su normatividad interna.
 
 ###### Artículo 10.
 
@@ -519,23 +539,51 @@ II. El servidor público suplente del Fiscal General resolverá sobre el inicio 
 
 El Fiscal General será representado ante las autoridades judiciales, administrativas y del trabajo por los servidores públicos que determine el Reglamento o por los Ministerios Públicos que designe para el caso concreto y con las formalidades que para el caso establezca la legislación aplicable.
 
-## TÍTULO IV. DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JULIO DE 2019)</small>
 
-### CAPÍTULO ÚNICO. DE LA FISCALÍA ESPECIALIZADA
+## TÍTULO IV. DE LAS FISCALÍAS ESPECIALIZADAS EN COMBATE A LA CORRUPCIÓN, DE DESAPARICIÓN FORZADA DE PERSONAS Y DE TORTURA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JULIO DE 2019)</small>
+
+### CAPÍTULO ÚNICO. DE LAS FISCALÍAS ESPECIALIZADAS
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2019)</small>
 
 ###### Artículo 21.
 
-La Fiscalía Especializada es el órgano encargado de investigar y perseguir los hechos que la Ley respectiva considera como delitos por hechos de corrupción en el Estado, tendrá el nivel de Vicefiscal General.
+Las Fiscalías Especializadas son órganos encargados de investigar y perseguir los hechos o actos que las Leyes Generales y la del Estado consideran como delitos, en materia de corrupción, de desapariciones forzadas de personas y de tortura en el Estado, respectivamente.
+
+Por su competencia y relevancia, todas tienen el nivel de Vicefiscalía General.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2019)</small>
+
+###### Artículo 21 Bis.
+
+Los servidores públicos que integren las Fiscalías Especializadas deberán cumplir como mínimo, los siguientes requisitos:
+
+I. Tener acreditados los requisitos de ingreso y permanencia de la institución respectiva, de conformidad con la Ley General del Sistema Nacional de Seguridad Pública, Ley de Seguridad Pública del Estado de Sinaloa, y la Ley Orgánica de la Fiscalía General del Estado de Sinaloa;
+
+II. Tener el perfil que establezca la Conferencia Nacional de Procuración de Justicia; y
+
+III. Acreditar los cursos de especialización, capacitación y de actualización que establezca la Conferencia Nacional de Procuración de Justicia, según corresponda.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2019)</small>
+
+Artículo 21 Bis A. La Fiscalía General debe capacitar, conforme a los más altos estándares internacionales, a los servidores públicos adscritos a las Fiscalías Especializadas en materia de derechos humanos, perspectiva de género, interés superior de la niñez, atención a las víctimas, sensibilización y relevancia específica en la materia de su competencia, aplicación del Protocolo Homologado para la investigación, identificación forense, cadena de custodia, entre otros. De igual forma, podrán participar con las autoridades competentes, en la capacitación de los servidores públicos conforme a los lineamientos que sobre la materia emita el Sistema Nacional, en términos de la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2019)</small>
 
 ###### Artículo 22.
 
-El Fiscal Especializado en combate a la corrupción será designado y removido por el Fiscal General. El nombramiento y remoción podrán ser objetados por el Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes, dentro de un plazo de diez días hábiles posteriores a su designación. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción.
+Los Fiscales Especializados en Combate a la Corrupción, de Desapariciones Forzadas de Personas, y de Tortura serán designados y removidos por el Fiscal General. El Congreso del Estado, podrá objetar los nombramientos y remociones dentro del plazo de diez (sic) hábiles, en la forma dispuesta en el artículo 76 Bis A de la Constitución Política del Estado de Sinaloa.
 
-Para tal efecto, una vez que se realice el nombramiento respectivo se deberá comunicar al Congreso del Estado.
+Para tal efecto, una vez que se realicen los nombramientos respectivos, el Fiscal General los remitirá al Congreso del Estado conjuntamente con los expedientes que contengan la documentación correspondiente para la acreditación del cumplimiento de los requisitos para ocupar el cargo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2019)</small>
 
 ###### Artículo 23.
 
-Corresponde a la Fiscalía Especializada:
+Corresponde a la Fiscalía Especializada en Combate a la Corrupción, la realización de las atribuciones siguientes:
 
 I. Ejercer las atribuciones que la Constitución Federal, las leyes Generales, la Constitución del Estado, las leyes, los reglamentos y demás disposiciones jurídicas confieren al Ministerio Público, en lo relativo a los hechos que la Ley considera como delitos en materia de corrupción, con excepción de los cometidos por servidores públicos de la propia Fiscalía General, supuesto en el cual conocerá el Órgano Interno de Control;
 
@@ -591,9 +639,131 @@ XXV. Colaborar con el Fiscal General en el ejercicio de las facultades que le ot
 
 XXVI. Las demás que en su caso le confieran el Fiscal General u otras disposiciones legales aplicables.
 
-El Reglamento establecerá las funciones y atribuciones de esta Fiscalía Especializada y sus servidores públicos, garantizando la adecuada operación, eficacia y eficiencia en el desempeño de sus funciones, a fin de cumplir en todo momento con la legislación en materia de combate a la corrupción y las tareas que tiene encomendadas.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE JULIO DE 2019)</small>
 
-Los acuerdos, circulares, instructivos, bases y demás normas administrativas emitidas por parte del Fiscal Especializado, que sean necesarios para regular la actuación de la Fiscalía Especializada a su cargo en ningún caso podrán contradecir las normas administrativas emitidas por el Fiscal General.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 22 DE JULIO DE 2019)</small>
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2019)</small>
+
+###### Artículo 23 Bis.
+
+Corresponde a la Fiscalía Especializada en Desaparición Forzada de Personas, la realización de las atribuciones siguientes:
+
+I. Recibir las Denuncias relacionadas con la probable comisión de hechos constitutivos de los delitos materia de desaparición forzada e iniciar la carpeta de investigación correspondiente;
+
+II. Mantener coordinación con la Comisión Estatal de Búsqueda para realizar todas las acciones relativas a la investigación y persecución de los delitos materia de desaparición forzada, conforme al Protocolo Homologado de Investigación y demás disposiciones aplicables;
+
+III. Dar aviso de manera inmediata, a través del Registro Estatal, a la Comisión Estatal de Búsqueda sobre el inicio de una investigación de los delitos materia de su competencia, a fin de que se inicien las acciones correspondientes a la búsqueda; así como compartir la información relevante, de conformidad con el Protocolo Homologado de Investigación y demás disposiciones aplicables;
+
+IV. Mantener comunicación continua y permanente con la Comisión Nacional de Búsqueda y las Comisiones Estatales de Búsqueda, a fin de compartir información que pudiera contribuir en las acciones para la búsqueda y localización de personas, en términos de las disposiciones aplicables;
+
+V. Informar de manera inmediata a la Comisión Nacional de Búsqueda, o a la Comisión Estatal de Búsqueda, según sea el caso, la localización o identificación de una persona;
+
+VI. Mantener comunicación continua y permanente con el Mecanismo de Apoyo Exterior y la Unidad de Investigación de Delitos para Personas Migrantes para recibir, recabar y proporcionar información sobre las acciones de investigación y persecución de los delitos materia de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, cometidos en contra de personas migrantes;
+
+VII. Solicitar directamente la localización geográfica en tiempo real o la entrega de los datos conservados, en los términos establecidos en el Código Nacional de Procedimientos Penales;
+
+VIII. Solicitar a la autoridad judicial competente la autorización para ordenar la intervención de comunicaciones, en términos de las disposiciones aplicables;
+
+IX. Realizar y comunicar sin dilación todos aquellos actos que requieran de autorización judicial que previamente hayan sido solicitados por la Comisión que corresponda para la búsqueda y localización de una persona desaparecida;
+
+X. Conformar grupos de trabajo interinstitucionales y multidisciplinarios para la coordinación de la investigación de hechos probablemente constitutivos de los delitos materia de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, cuando de la información con la que cuente la autoridad se desprenda que pudieron ocurrir en dos o más entidades federativas o se trata de una persona extranjera en situación de migración, independientemente de su situación migratoria;
+
+XI. Solicitar el apoyo policial a las autoridades competentes, para realizar las tareas de investigación en campo;
+
+XII. Recabar la información necesaria para la persecución e investigación de los delitos previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, u otras leyes;
+
+XIII. Remitir la investigación y las actuaciones realizadas a las autoridades competentes cuando advierta la comisión de uno o varios delitos diferentes a los previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+
+XIV. Solicitar al Juez de Control competente las medidas cautelares que sean necesarias, de conformidad con el Código Nacional de Procedimientos Penales;
+
+XV. Solicitar la participación de la Comisión Ejecutiva Nacional de Atención de Víctimas y de las Comisiones de Víctimas de las Entidades Federativas; así como a las instituciones y organizaciones de derechos humanos y de protección civil, en los términos de las disposiciones jurídicas aplicables;
+
+XVI. Establecer mecanismos de cooperación destinados al intercambio de información y adiestramiento continuo de los servidores públicos especializados en la materia;
+
+XVII. Localizar a las familias de las personas fallecidas identificadas no reclamadas, en coordinación con las instituciones correspondientes, para poder hacer la entrega de cadáveres o restos humanos, conforme a lo señalado por el Protocolo Homologado de Investigación y demás normas aplicables;
+
+XVIII. Solicitar a las autoridades jurisdiccionales competentes la autorización para la realización de las exhumaciones en cementerios, fosas o de otros sitios en los que se encuentren o se tengan razones fundadas para creer que se encuentran cadáveres o restos humanos de personas desaparecidas;
+
+XIX. Solicitar a las autoridades jurisdiccionales competentes el traslado de las personas internas a otros centros de reclusión salvaguardando sus derechos humanos, siempre que esta medida favorezca la búsqueda o localización de las personas desaparecidas o a la investigación de los delitos materia de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, en términos de la Ley Nacional de Ejecución Penal;
+
+XX. Facilitar la participación de los familiares en la investigación de los delitos previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, incluido brindar información periódicamente a los familiares sobre los avances en el proceso de la investigación y persecución en términos del Código Nacional de Procedimientos Penales;
+
+XXI. Celebrar, conjuntamente con el Fiscal General, convenios de colaboración o cooperación, para el óptimo cumplimiento de las atribuciones que le corresponden conforme a la Ley;
+
+XXII. Brindar la información que la Comisión Ejecutiva y la Comisión de Víctimas le soliciten para mejorar la atención a las Víctimas, en términos de lo que establezcan las disposiciones aplicables;
+
+XXIII. Brindar la información que el Consejo Estatal Ciudadano le solicite para el ejercicio de sus funciones, en términos de lo que establezcan las disposiciones aplicables;
+
+XXIV. Proporcionar información y asistencia técnica a las Fiscalías Especializadas de las (sic) Fiscalía General de la Republica que lo soliciten;
+
+XXV. Realizar la investigación y persecución de los delitos de desaparición forzada de personas cometidas tanto por servidores públicos como particulares, con la coordinación debida de la Fiscalía Especializada de la Fiscalía General de la República y las Fiscalías Especializadas de las demás Entidades Federativas, a efecto de dar impulso permanente a la búsqueda de personas desaparecidas;
+
+XXVI. Contar con los recursos humanos, financieros, materiales y técnicos especializados, multidisciplinarios y una unidad de análisis de contexto que se requieran para su efectiva operación, tales como personal sustantivo ministerial, policial, pericial y de apoyo psicosocial;
+
+XXVII. Contar con el apoyo de todas las autoridades de la entidad, en el ámbito de sus competencias, para los efectos de una coordinación y colaboración de forma eficaz para el cumplimiento de Ley;
+
+XXVIII. Remitir inmediatamente a la Fiscalía Especializada de la Fiscalía General de la República los expedientes de los que conozca cuando se actualicen los supuestos previstos en el artículo 24 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, o iniciar inmediatamente la carpeta de investigación cuando el asunto no esté contemplado expresamente como competencia de la Federación;
+
+XXIX. Solicitar al órgano jurisdiccional competente el establecimiento de medidas cautelares como la suspensión temporal de su encargo, entre otras, de conformidad con el Código Nacional de Procedimientos Penales, para el servidor público que sea señalado como imputado por el delito de desaparición forzada de personas, y que por razón de su encargo o influencia pueda interferir u obstaculizar las acciones de búsqueda o las investigaciones.
+
+Adicionalmente a lo previsto en el párrafo anterior, podrá solicitar al superior jerárquico del servidor público la adopción de las medidas administrativas necesarias para impedir que el servidor público no interfiera con las investigaciones;
+
+XXX. Generar criterios y metodología específica para la investigación y persecución de los delitos de desaparición forzada de personas.
+
+En el caso de las desapariciones forzadas por motivos políticos de décadas pasadas, de conformidad con el Protocolo Homologado de Investigación y esta Ley, la Fiscalía Especializada deberá emitir criterios y metodología específicos que deberán permitir realizar, al menos, lo siguiente:
+
+A. Los procedimientos de búsqueda permanente que se lleven a cabo para buscar personas en cualquier lugar donde se presuma pudieran estar privadas de libertad, como son centros penitenciarios, centros clandestinos de detención, estaciones migratorias, centros de salud y cualquier otro lugar en donde se pueda presumir pueda estar la persona desaparecida, y
+
+B. Cuando se sospeche que la Víctima ha sido privada de la vida, realizar las diligencias pertinentes para la exhumación de los restos en los lugares que se presume pudieran estar, de acuerdo a los estándares internacionales, siendo derecho de los familiares solicitar la participación de peritos especializados independientes, en términos de las disposiciones legales aplicables. En la generación de los criterios y metodología específicos, se tomarán en cuenta las sentencias y resoluciones nacionales e internacionales en materia de búsqueda e investigación de los casos de desaparición forzada.
+
+XXXI. Continuar sin interrupción, en el ámbito de su competencia, la investigación de los delitos previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, en términos de lo que establezca el Protocolo Homologado de Investigación y el Código Nacional de Procedimientos Penales;
+
+XXXII. Solicitar a las autoridades del Estado el auxilio y que se le proporcione información para la investigación y persecución de los delitos previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+Para estos efectos, las autoridades estarán obligadas, en el ámbito de su competencia, a auxiliar y proporcionar dicha información. De igual manera las personas físicas o jurídicas que cuenten con información que pueda contribuir a la investigación y persecución de los delitos en la materia, estarán obligadas a proporcionarla a la Fiscalía Especializada directamente, a través del número telefónico previsto para tal efecto o a través de cualquier otro medio, en términos de la normatividad aplicable;
+
+XXXIII. Recibir toda la información a que se refiere el artículo 22 de la Ley del Sistema Estatal de Coordinación y Búsqueda en Materia de Desapariciones Forzadas de Personas del Estado de Sinaloa, sin condicionarla al cumplimiento de formalidad alguna; y
+
+XXXIV. Las demás que establezcan otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2019)</small>
+
+Artículo 23 Bis A. Corresponde a la Fiscalía Especializada en Materia de Tortura, la realización de las atribuciones siguientes:
+
+I. Iniciar y desarrollar la investigación y persecución de hechos delictivos relacionados con los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+II. Requerir a las instancias del sector público competentes, y del sector privado en los casos que disponga la Ley General de Víctimas, a que se le brinde atención médica, psicológica y jurídica a las personas Víctimas de las conductas previstas en la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+III. Requerir la participación de las autoridades en materia de atención a Víctimas, en términos de las disposiciones aplicables;
+
+IV. Ejecutar, supervisar y evaluar el Protocolo Homologado mencionado en la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes; así como los protocolos de actuación y para la investigación a que se refieren los artículos 60 y 61 de la misma Ley;
+
+V. Pedir a las autoridades competentes su colaboración y apoyo para la investigación y persecución de los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+VI. Decretar las medidas de protección en favor de la vida o la integridad de las Víctimas, de conformidad con la legislación aplicable;
+
+VII. Solicitar las medidas cautelares aplicables al imputado por los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, y de conformidad con la misma, así como en (sic) la demás legislación aplicable;
+
+VIII. Establecer mecanismos de cooperación con otras autoridades competentes para el intercambio de plataformas de información y de la capacitación continua para dichos efectos;
+
+IX. Colaborar con otras autoridades competentes a efecto de sistematizar la información obtenida durante la investigación y promover su intercambio con otras Fiscalías Especiales con el fin de fortalecer el seguimiento y control de las conductas delictivas previstas en la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, y mantener actualizado tanto el Registro Nacional como el Estatal;
+
+X. Llevar a cabo análisis de contextos y patrones sobre la comisión del delito de tortura, con base en los datos del Registro Nacional y otra información disponible;
+
+XI. Ingresar a cualquiera de los lugares de privación de libertad en donde se presuma que se cometió el delito de tortura;
+
+XII. Proponer políticas para la prevención de las conductas previstas en esta Ley; y
+
+XIII. Las demás que dispongan esta Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2019)</small>
+
+Artículo 23 Bis B. El Reglamento establecerá los recursos humanos, materiales y estructura de las Fiscalías Especializadas, así como las funciones de sus servidores públicos, garantizando la adecuada operación, eficacia y eficiencia en su desempeño, a fin de cumplir en todo momento con la legislación en la materia que tienen competencia y las tareas encomendadas.
+
+Los acuerdos, circulares, instructivos, bases y demás normas administrativas emitidas por parte de las Fiscalías Especializadas, que sean necesarios para regular la actuación de las instituciones a su cargo, en ningún caso podrán contradecir las normas administrativas emitidas por el Fiscal General.
+
+Las Fiscalías Especializadas se sujetarán a lo que expresamente establecen las Leyes Generales de la materia de su competencia, al Código Nacional de Procedimientos Penales, en materia de investigación y persecución de los delitos que deban realizar conforme a las mismas, y demás disposiciones aplicables.
 
 ## TÍTULO V. DEL CONSEJO CONSULTIVO DE LA FISCALÍA GENERAL
 
@@ -1428,3 +1598,65 @@ QUIRINO ORDAZ COPPEL
 El Secretario General de Gobierno
 
 GONZALO GÓMEZ FLORES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 260 DEL H. CONGRESO DEL ESTADO.- QUE EXPIDE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA ESTATAL DE BÚSQUEDA DE PERSONAS; REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL, DE LA LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y DE LA LEY DE SEGURIDAD PÚBLICA; Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, TODAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+A partir de la entrada en vigor del presente Decreto y hasta la emisión de los protocolos y demás instrumentos a que se refiere la presente Ley, la Fiscalía General y demás autoridades deberán cumplir con las obligaciones de búsqueda conforme a los ordenamientos que se hayan expedido con anterioridad, siempre que no se opongan a la misma.
+
+La Fiscalía General, además de los protocolos previstos en esta Ley, continuará aplicando los protocolos existentes de búsqueda de personas en situación de vulnerabilidad.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Fiscalías Especializadas en Materia de Desapariciones Forzadas y de Tortura, entrarán en funcionamiento dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, en tanto se adecuan las condiciones materiales y humanas necesarias para su establecimiento.
+
+Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, la Comisión Estatal de Búsqueda deberá emitir los protocolos rectores a que alude esta Ley, para su funcionamiento; así como el Programa Estatal de Búsqueda.
+
+Los servidores públicos que integren las Fiscalías Especializadas y la Comisión Estatal de Búsqueda deberán estar certificados. En caso de que ningún servidor público cuente con certificación, se dará una prórroga de un año para tal efecto.
+
+Para los efectos de lo dispuesto en el párrafo anterior, la Comisión Estatal de Búsqueda emitirá los criterios previstos en esta Ley, dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
+
+La Comisión Estatal de Búsqueda podrá, a partir de que entre en funcionamiento, ejercer las atribuciones que esta Ley les confiere con relación a los procesos de búsqueda que se encuentren pendientes.
+
+La persona titular de la Comisión Estatal de Búsqueda, cuyo nombramiento otorgó el Gobernador Constitucional del Estado de Sinaloa, el día 2 de mayo de 2019, continuará en el cargo, en los términos previstos en la Ley en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Estatal de Búsqueda de Personas en Sinaloa.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Estatal Ciudadano deberá estar conformado dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
+
+En un plazo de treinta días posteriores a su conformación el Consejo Ciudadano deberá emitir sus reglas de funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+El Sistema Estatal de Búsqueda de Personas deberá quedar instalado dentro de los ciento ochenta días posteriores a la publicación del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, deberá expedir y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+La Fiscalía General del Estado, con la participación que corresponda a la Secretaría de Innovación del Ejecutivo Estatal, deberá emitir los lineamientos tecnológicos necesarios para garantizar que los registros y el Banco Estatal de Datos Forenses cuenten con las características técnicas y soporte tecnológico adecuado, dentro del plazo de ciento ochenta días a partir de la entrada en vigor de esta Ley.
+
+Dentro del plazo previsto en el párrafo anterior la Fiscalía General del Estado emitirá los lineamientos necesarios para que las autoridades de los distintos órdenes de gobierno remitan en forma homologada la información que será integrada al Registro Estatal de Personas Fallecidas No Identificadas y No Reclamadas y al Banco Estatal de Datos Forenses previstos en la Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Estatal de Búsqueda deberá emitir los lineamientos correspondientes a que se refiere la Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Los procedimientos iniciados por el delito de desaparición forzada de personas antes de la entrada en vigor del presente Decreto, se seguirán conforme a lo establecido en el Artículo Décimo Transitorio de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+Los procedimientos iniciados por el delito de tortura antes de la entrada en vigor del presente Decreto, se seguirán conforme a lo establecido en el Artículo Segundo Transitorio de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
