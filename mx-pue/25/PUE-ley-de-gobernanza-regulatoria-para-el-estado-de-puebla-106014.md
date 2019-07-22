@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-gobernanza-regulatoria-para-el-estado-de-puebla-106014"
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-11"
-last_updated: "2015-02-11"
+last_updated: "2019-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE GOBERNANZA REGULATORIA PARA EL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO OCTAVO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 22 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE GOBERNANZA REGULATORIA PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2019 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 11 de febrero de 2015.
 
@@ -37,7 +39,9 @@ Que por la secretaría del H. Congreso se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 44 fracción II, 102, 115, 119, 123 fracción XVIII, 134 y 135 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 45, 46, 47 y 48 fracción XVIII del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
 
@@ -177,7 +181,7 @@ La Secretaría será la encargada de vigilar el cumplimiento de esta Ley, y fung
 
 Corresponde a la Secretaría a través de la Unidad de Mejora Regulatoria:
 
-l. Elaborar y dar seguimiento al Plan Estatal de Mejora Regulatoria en congruencia con los objetivos, políticas, estrategia, lineamientos y metas previstos en los Planes Nacional y Estatal de Desarrollo y con los programas federales y estatales de la materia;
+I. Elaborar y dar seguimiento al Plan Estatal de Mejora Regulatoria en congruencia con los objetivos, políticas, estrategia, lineamientos y metas previstos en los Planes Nacional y Estatal de Desarrollo y con los programas federales y estatales de la materia;
 
 II. Emitir los lineamientos y recomendaciones para dar cumplimiento a la presente Ley y su Reglamento;
 
@@ -215,7 +219,7 @@ Se crea el Consejo Estatal de Mejora Regulatoria que fungirá como Órgano Consu
 
 El Consejo de Mejora Regulatoria se integrará por:
 
-l. El Titular de la Secretaría, quien fungirá como Presidente;
+I. El Titular de la Secretaría, quien fungirá como Presidente;
 
 II. El Titular de la Unidad de Mejora Regulatoria, quien fungirá como Vicepresidente;
 
@@ -237,7 +241,7 @@ Los cargos de los integrantes del Consejo serán honoríficos por lo que no reci
 
 Serán invitados permanentes del Consejo, a propuesta del Presidente:
 
-l. Tres representantes del sector empresarial;
+I. Tres representantes del sector empresarial;
 
 II. Tres representantes de instituciones de educación superior; y
 
@@ -267,7 +271,7 @@ De toda sesión, se levantará acta circunstanciada.
 
 Corresponde al Consejo:
 
-l. Emitir opiniones y formular propuestas sobre la aplicación y orientación de las políticas públicas en materia de mejora regulatoria, así como de la operación y funcionamiento de los instrumentos de mejora regulatoria;
+I. Emitir opiniones y formular propuestas sobre la aplicación y orientación de las políticas públicas en materia de mejora regulatoria, así como de la operación y funcionamiento de los instrumentos de mejora regulatoria;
 
 II. Analizar y proponer programas y acciones que incidan en el cumplimiento de la Ley;
 
@@ -283,7 +287,7 @@ VI. Las demás que le confieran esta Ley y su Reglamento.
 
 Corresponde al Presidente del Consejo:
 
-l. Instalar y presidir las Sesiones Ordinarias y Extraordinarias;
+I. Instalar y presidir las Sesiones Ordinarias y Extraordinarias;
 
 II. Iniciar, concluir, y en su caso, suspender las sesiones en los casos que así sea necesario;
 
@@ -299,7 +303,7 @@ VI. Las demás que le confieran esta Ley y su Reglamento.
 
 Corresponde al Secretario Técnico del Consejo:
 
-l. Convocar a las Sesiones Ordinarias y Extraordinarias, a solicitud de su Presidente;
+I. Convocar a las Sesiones Ordinarias y Extraordinarias, a solicitud de su Presidente;
 
 II. Dar lectura al Orden del Día;
 
@@ -335,7 +339,7 @@ El Titular de la Unidad de Mejora Regulatoria, podrá crear los grupos de trabaj
 
 Son atribuciones del Titular de la Unidad de Mejora Regulatoria, las siguientes:
 
-l. Someter a consideración y aprobación del Secretario el Plan Estatal de Mejora Regulatoria, así como sus modificaciones;
+I. Someter a consideración y aprobación del Secretario el Plan Estatal de Mejora Regulatoria, así como sus modificaciones;
 
 II. Aprobar las acciones tendentes a la instrumentación y desarrollo de las políticas de mejora regulatoria;
 
@@ -351,13 +355,13 @@ VII. Fomentar la simplificación administrativa y la reingeniería de procesos e
 
 VIII. Aprobar las propuestas que se realizan a las Instancias Gubernamentales, así como en su caso las actualizaciones reglamentarias conducentes;
 
-IX. Aprobar el informe trimestral que sobre sus atribuciones le presente la Secretaria Ejecutiva; y
+IX. Aprobar el informe trimestral que sobre sus atribuciones le presente la Secretaría Ejecutiva; y
 
 X. Las demás que prevea esta Ley y su Reglamento.
 
 ###### ARTÍCULO 28.
 
-Corresponde a la Secretaria Ejecutiva de la Unidad de Mejora Regulatoria:
+Corresponde a la Secretaría Ejecutiva de la Unidad de Mejora Regulatoria:
 
 I. Desarrollar investigaciones y diagnósticos, a fin de determinar la efectividad de las disposiciones legales internas existentes;
 
@@ -405,7 +409,7 @@ Los Enlaces de Mejora Regulatoria, elaborarán los Programas Operativos de Mejor
 
 Corresponde a los Enlaces de Mejora Regulatoria:
 
-l. Instrumentar y evaluar el proceso de mejora regulatoria en la Instancia Gubernamental y supervisar su ejecución, de conformidad con la presente Ley, su Reglamento y los lineamientos que al efecto apruebe la Unidad de Mejora Regulatoria;
+I. Instrumentar y evaluar el proceso de mejora regulatoria en la Instancia Gubernamental y supervisar su ejecución, de conformidad con la presente Ley, su Reglamento y los lineamientos que al efecto apruebe la Unidad de Mejora Regulatoria;
 
 II. Presentar a la Secretaría Ejecutiva, un informe trimestral de la aplicación del Plan Estatal de Mejora Regulatoria, en el ámbito de su respectiva competencia;
 
@@ -435,7 +439,7 @@ El Plan Estatal de Mejora Regulatoria se integra por los Programas Operativos de
 
 El Plan Estatal de Mejora Regulatoria comprende los objetivos, estrategias, acciones, indicadores y metas de las Instancias Gubernamentales, y deberá contener al menos lo siguiente:
 
-l. Estrategias, objetivos, metas y acciones de las Instancias Gubernamentales, tendentes a la eliminación, reducción de costos o mejora de sus trámites y servicios;
+I. Estrategias, objetivos, metas y acciones de las Instancias Gubernamentales, tendentes a la eliminación, reducción de costos o mejora de sus trámites y servicios;
 
 II. Programa de difusión;
 
@@ -443,7 +447,7 @@ III. Programa de capacitación; y
 
 IV. Mecanismos de seguimiento y evaluación.
 
-Deberá elaborarse dentro de los primeros seis meses del inicio de cada periodo constitucional de gobierno, tendrá una vigencia de seis años, y será publicado en el Periódico Oficial del Estado.
+Deberá elaborarse dentro de los primeros seis meses del inicio de cada período constitucional de gobierno, tendrá una vigencia de seis años, y será publicado en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO 35.
 
@@ -465,7 +469,7 @@ Para los efectos de este artículo, en su caso, los programas operativos de mejo
 
 Los programas operativos de mejora regulatoria deberán contener al menos, lo siguiente:
 
-l. Catálogo de trámites y servicios vigentes y su proceso de actualización;
+I. Catálogo de trámites y servicios vigentes y su proceso de actualización;
 
 II. Estrategias, objetivos, metas y acciones de las Instancias Gubernamentales, tendentes a la eliminación, reducción de costos o mejora de sus trámites y servicios;
 
@@ -485,7 +489,7 @@ La MIR tiene por objeto la verificación y seguimiento de la relación costo ben
 
 La MIR deberá contener, al menos:
 
-l. Generalidades;
+I. Generalidades;
 
 II. Fundamento jurídico;
 
@@ -585,13 +589,13 @@ La Unidad de Mejora Regulatoria, a través del área responsable de tecnologías
 
 ###### ARTÍCULO 54.
 
-Para la integración del Rupa, el área responsable de tecnologías de la información de la Secretaría, podrá celebrar convenios con las instancias competentes en materia de tecnologías de la información a través de la Secretarla.
+Para la integración del Rupa, el área responsable de tecnologías de la información de la Secretaría, podrá celebrar convenios con las instancias competentes en materia de tecnologías de la información a través de la Secretaría.
 
 ###### ARTÍCULO 55.
 
 Corresponde al área responsable de tecnologías de la información de la Secretaría:
 
-l. Diseñar, administrar, y actualizar el Rupa, previo acuerdo con la Unidad de Mejora Regulatoria;
+I. Diseñar, administrar, y actualizar el Rupa, previo acuerdo con la Unidad de Mejora Regulatoria;
 
 II. Expedir, modificar, revocar o cancelar la Credencial Rupa y la Llave Rupa;
 
@@ -599,13 +603,13 @@ III. Establecer lineamientos para la operación e interconexión de la Secretar�
 
 IV. Informar periódicamente a la Unidad de Mejora Regulatoria el estado que guardan el Tramitapue y el Rupa, en los términos establecidos por el Reglamento;
 
-Para el cumplimiento de lo establecido por este artículo, el área responsable de tecnologías de la información de la Secretaria, deberá coordinarse con los Enlaces de Mejora Regulatoria correspondientes.
+Para el cumplimiento de lo establecido por este artículo, el área responsable de tecnologías de la información de la Secretaría, deberá coordinarse con los Enlaces de Mejora Regulatoria correspondientes.
 
 ###### ARTÍCULO 56.
 
 Para la inscripción en el Rupa, los interesados deberán presentar solicitud mediante el formato autorizado por el área responsable de tecnologías de la información de la Secretaría, en las oficinas de la misma o en los lugares determinados para este propósito, así como los siguientes documentos en original:
 
-l. Personas morales: Testimonio del acta constitutiva y estatutos vigentes inscritos en el Registro Público de la Propiedad que corresponda y Registro Federal de Contribuyentes, así como los poderes de los representantes y su identificación oficial;
+I. Personas morales: Testimonio del acta constitutiva y estatutos vigentes inscritos en el Registro Público de la Propiedad que corresponda y Registro Federal de Contribuyentes, así como los poderes de los representantes y su identificación oficial;
 
 II. Personas físicas: Identificación oficial con fotografía y la Clave Única de Registro de Población; y
 
@@ -673,7 +677,7 @@ La Unidad de Mejora Regulatoria, en coordinación con la Comisión Federal de Me
 
 El SARE será instrumentado por los Ayuntamientos en coordinación con la Secretaría y la Comisión Federal de Mejora Regulatoria, y deberá en su caso, estar instalado dentro de la Oficina Municipal de Negocios con base en los convenios signados al respecto, conforme a los siguientes lineamientos:
 
-l. Se determinará un Formato Único de Apertura para la solicitud del trámite, impreso o en forma electrónica;
+I. Se determinará un Formato Único de Apertura para la solicitud del trámite, impreso o en forma electrónica;
 
 II. El Formato Único de Apertura se publicará en los portales oficiales de los Municipios, así como en el de Tramitapue;
 
@@ -697,7 +701,7 @@ Para la instrumentación del SARE, las Instancias Gubernamentales procurarán co
 
 Corresponde a la Oficina Municipal de Negocios, de manera enunciativa y no limitativa:
 
-l. Asesorar a las personas interesadas en emprender operaciones relacionadas con actividades económicas;
+I. Asesorar a las personas interesadas en emprender operaciones relacionadas con actividades económicas;
 
 II. Asesorar a las personas interesadas en la obtención de la Credencial Rupa y la LLave Rupa;
 
@@ -789,7 +793,7 @@ Son sujetos de responsabilidad administrativa por infracciones a la presente Ley
 
 Sin perjuicio de las previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, se consideran infracciones administrativas las siguientes:
 
-l. Incumplimiento de plazos de respuesta establecidos en el Tramitapue;
+I. Incumplimiento de plazos de respuesta establecidos en el Tramitapue;
 
 II. Solicitud de información y documentos adicionales a los establecidos en el Tramitapue;
 
@@ -805,7 +809,7 @@ VI. Solicitud de gratificaciones o prebendas;
 
 Además de lo previsto por el artículo anterior, serán causales de responsabilidad administrativa en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, el incurrir en los supuestos que a continuación se establecen:
 
-l. Los Enlaces de Mejora Regulatoria que omitan notificar al área responsable de tecnologías de la información de la Secretaría, la información a inscribirse o modificarse en el Tramitapue, respecto de trámites a realizar por los particulares para cumplir una obligación, dentro de los cinco días hábiles siguientes a aquél en que entre en vigor la disposición que regule dicho trámite;
+I. Los Enlaces de Mejora Regulatoria que omitan notificar al área responsable de tecnologías de la información de la Secretaría, la información a inscribirse o modificarse en el Tramitapue, respecto de trámites a realizar por los particulares para cumplir una obligación, dentro de los cinco días hábiles siguientes a aquél en que entre en vigor la disposición que regule dicho trámite;
 
 II. Los Enlaces de Mejora Regulatoria que no entreguen a la Secretaría Ejecutiva, los estudios de impacto regulatorio a que se refiere esta Ley;
 
@@ -831,7 +835,7 @@ QUINTO. El Tramitapue, y el RUPA, deberán estar operando en los términos presc
 
 SEXTO. La Unidad de Mejora Regulatoria se integrará por los servidores públicos con los que actualmente cuenta la Dirección General de Desarrollo Administrativo y Mejora Regulatoria, de la Secretaría.
 
-SÉPTIMO. La Secretaría Ejecutiva se integrará por los servidores públicos con los que actualmente cuenta la Dirección de Eficiencia Gubernamental, de la Secretaria.
+SÉPTIMO. La Secretaría Ejecutiva se integrará por los servidores públicos con los que actualmente cuenta la Dirección de Eficiencia Gubernamental, de la Secretaría.
 
 OCTAVO. Las erogaciones que se deriven de la aplicación de esta Ley, estarán sujetas a la suficiencia presupuestal correspondiente.
 
@@ -840,3 +844,29 @@ NOVENO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los cuatro días del mes de febrero de dos mil quince. Diputada Presidenta. PATRICIA LEAL ISLAS. Rúbrica. Diputado Vicepresidente. CARLOS IGNACIO MIER BAÑUELOS. Rúbrica. Diputado Secretario. PABLO MONTIEL SOLANA. Rúbrica. Diputada Secretaria. GERALDINE GONZÁLEZ CERVANTES. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los cinco días del mes de febrero de dos mil quince. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Secretario General de Gobierno. C. LUIS MALDONADO VENEGAS. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. El Consejo Estatal de Mejora Regulatoria deberá estar instalado en un plazo que no exceda los noventa días naturales a la entrada en vigor de la presente Ley.
+
+TERCERO. Se derogan, todas aquellas disposiciones que se contrapongan a lo dispuesto en el presente Decreto.
+
+CUARTO. En un término no mayor a ciento veinte días se deberán publicar las reformas o emisiones de la normatividad o instrumentos pertinentes para dar cumplimiento a la entrada en vigor de la presente Ley.
+
+QUINTO. A partir de la entrada en vigor de esta Ley, los Ayuntamientos contarán con un plazo de un año para adecuar la normatividad correspondiente al contenido de dicha Ley.
+
+SEXTO. Los Consejos Municipales de Mejora Regulatoria deberán instalarse formalmente dentro de un plazo de noventa días naturales siguientes a la entrada en vigor de la legislación municipal antes referida.
+
+SÉPTIMO. La Comisión Estatal deberá expedir, en un plazo que no exceda de un año a partir de su instalación, su Reglamento Interior, así como los lineamientos de al menos el Análisis de Impacto Regulatorio y el Programa Estatal de Mejora Regulatoria.
+
+OCTAVO. Se abroga la Ley de Gobernanza Regulatoria para el Estado de Puebla, publicada en el Periódico Oficial del Estado de Puebla el once de febrero de dos mil quince.
+
+NOVENO. Las erogaciones que se deriven de la aplicación del presente Decreto estarán sujetas a la suficiencia presupuestaria.
+
+DÉCIMO. Lo previsto en el artículo 63 de la presente Ley, entrará en vigor hasta el año 2020.
