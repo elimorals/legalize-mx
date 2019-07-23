@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-yucateco-de-emprendedores-10248
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-09-25"
-last_updated: "2014-09-25"
+last_updated: "2019-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO YUCATECO DE EMPRENDEDORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2019.
 
 Estatuto publicado en el Diario Oficial del estado de Yucatán, el jueves 25 de septiembre de 2014.
 
 La Junta de Gobierno del Instituto Yucateco de Emprendedores, con fundamento en lo dispuesto por los artículos 68, 71 y 115, fracción VII, del Código de la Administración Pública de Yucatán; y 10, fracción IV, del Decreto 422 que crea el Instituto Yucateco de Emprendedores, y
 
-Considerando:…
+Considerando:
+
+[...]
 
 Por las consideraciones expuestas, esta junta de gobierno ha tenido a bien expedir el presente:
 
@@ -51,31 +53,41 @@ Naturaleza del instituto
 
 El Instituto Yucateco de Emprendedores es un organismo público descentralizado del Gobierno del Estado de Yucatán, con personalidad jurídica y patrimonio propio, con domicilio en la ciudad de Mérida, Yucatán, o en la localidad que en su caso determine su junta de gobierno.
 
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2019)</small>
+
 ###### Artículo 3.
 
 Objeto del instituto
 
-El Instituto Yucateco de Emprendedores, en los términos del artículo 3 del Decreto 422 que crea el Instituto Yucateco de Emprendedores, tiene por objeto desarrollar, proponer y ejecutar políticas públicas de apoyo al desarrollo de los emprendedores y de las micro, pequeñas y medianas empresas, e impulso a la innovación y calidad de las mismas, para elevar su competitividad y propiciar su crecimiento económico, así como el del estado.
+El Instituto Yucateco de Emprendedores, en los términos del artículo 3 del Decreto 229/1999 que crea el Instituto Yucateco de Emprendedores, tiene por objeto desarrollar, proponer y ejecutar políticas públicas de apoyo al desarrollo de los emprendedores y de las micro, pequeñas y medianas empresas, e impulso a la innovación y calidad de las mismas, para elevar su competitividad y propiciar su crecimiento económico, así como el del estado.
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2019)</small>
 
 ###### Artículo 4.
 
 Definiciones
 
-Para los efectos de este estatuto orgánico se tendrán por reproducidas las definiciones contenidas en el artículo 4 del Decreto 422 que crea el Instituto Yucateco de Emprendedores.
+Para los efectos de este estatuto orgánico se tendrán por reproducidas las definiciones contenidas en el artículo 4 del Decreto 229/1999 que crea el Instituto Yucateco de Emprendedores.
 
 ### Capítulo II. Atribuciones y organización del instituto
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2019)</small>
 
 ###### Artículo 5.
 
 Atribuciones del instituto
 
-El instituto para el cumplimiento de su objeto tendrá las atribuciones establecidas en el artículo 5 del Decreto 422 que crea el Instituto Yucateco de Emprendedores y las demás que le confieran otras disposiciones legales y normativas aplicables.
+El instituto para el cumplimiento de su objeto tendrá las atribuciones establecidas en el artículo 5 del Decreto 229/1999 que crea el Instituto Yucateco de Emprendedores y las demás que le confieran otras disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2019)</small>
 
 ###### Artículo 6.
 
 Sectorización del instituto
 
-El instituto forma parte de la Administración Pública estatal, por tanto, estará sectorizada a la Secretaría de Fomento Económico del Gobierno del Estado de Yucatán.
+El instituto forma parte de la Administración Pública estatal, por tanto, estará sectorizada a la Secretaría de Fomento Económico y Trabajo del Gobierno del Estado de Yucatán.
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2019)</small>
 
 ###### Artículo 7.
 
@@ -91,17 +103,17 @@ b) Director general.
 
 II. Unidades administrativas:
 
-a) Subdirección de innovación y competitividad empresarial.
+a) Dirección de Innovación y Competitividad Empresarial.
 
-1. Departamento de desarrollo competitivo.
+1. Departamento de Desarrollo Competitivo.
 
-b) Subdirección de emprendedores.
+b) Dirección de Emprendedores.
 
-1. Departamento de acompañamiento en incubación, transferencia y aceleramiento.
+1. Departamento de Acompañamiento en Incubación y Transferencia.
 
-c) Departamento de administración.
+c) Departamento de Administración y Operaciones.
 
-d) Departamento jurídico.
+d) Departamento Jurídico.
 
 ### Capítulo III. Funcionamiento del instituto
 
@@ -111,7 +123,9 @@ d) Departamento jurídico.
 
 Integración
 
-La junta de gobierno, en los términos del artículo 9 del Decreto 422 que crea el Instituto Yucateco de Emprendedores, estará conformada de la siguiente manera:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JULIO DE 2019)</small>
+
+La junta de gobierno, en los términos del artículo 9 del Decreto 229/1999 que crea el Instituto Yucateco de Emprendedores, estará conformada de la siguiente manera:
 
 I. El Gobernador del Estado de Yucatán o la persona que éste designe, quien será el presidente.
 
@@ -119,19 +133,23 @@ II. El Secretario General de Gobierno.
 
 III. El Secretario de Administración y Finanzas.
 
-IV. El Secretario Técnico del Gabinete, Planeación y Evaluación.
+IV. (DEROGADA, D.O. 23 DE JULIO DE 2019)
 
 V. El Consejero Jurídico.
 
 VI. El Secretario de Educación.
 
-VII. El Secretario de Fomento Económico.
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2019)</small>
+
+VII. El Secretario de Fomento Económico y Trabajo.
 
 VIII. El Secretario de Fomento Turístico.
 
 IX. El Secretario de Desarrollo Rural.
 
-X. El Secretario del Trabajo y Previsión Social.
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2019)</small>
+
+X. El Secretario de Investigación, Innovación y Educación Superior.
 
 El Gobernador del estado presidirá la junta de gobierno y en los casos de ausencia será suplido por el Secretario General de Gobierno.
 
@@ -161,11 +179,13 @@ Carácter de los cargos
 
 Los cargos de los integrantes de la junta de gobierno son de carácter honorífico, por tanto, quienes lo ocupen no recibirán retribución alguna por su desempeño.
 
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2019)</small>
+
 ###### Artículo 13.
 
 Atribuciones
 
-La junta de gobierno tendrá las atribuciones establecidas en el artículo 10 del Decreto 422 que crea el Instituto Yucateco de Emprendedores y las demás que le confieran otras disposiciones legales y normativas aplicables.
+La junta de gobierno tendrá las atribuciones establecidas en el artículo 10 del Decreto 229/1999 que crea el Instituto Yucateco de Emprendedores y las demás que le confieran otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 14.
 
@@ -281,11 +301,13 @@ IV. Solicitar la intervención de invitados en las sesiones de la junta de gobie
 
 V. Las demás que le confiera este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2019)</small>
+
 ###### Artículo 24.
 
 Disposiciones complementarias a la regulación de las sesiones
 
-En todo lo relativo a las sesiones de la junta de gobierno, se estará a lo dispuesto en el Código de la Administración Pública de Yucatán, su reglamento, el Decreto 422 que crea el Instituto Yucateco de Emprendedores, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+En todo lo relativo a las sesiones de la junta de gobierno, se estará a lo dispuesto en el Código de la Administración Pública de Yucatán, su reglamento, el Decreto 229/1999 que crea el Instituto Yucateco de Emprendedores, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
 #### Sección segunda. Director general
 
@@ -311,7 +333,9 @@ II. No encontrarse en alguno de los impedimentos señalados por el Código de la
 
 Facultades del director general
 
-El director general, tendrá las facultades y obligaciones establecidas en el artículo 17 del Decreto 422 que crea el Instituto Yucateco de Emprendedores, este estatuto orgánico y demás disposiciones legales y normativas aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JULIO DE 2019)</small>
+
+El director general, tendrá las facultades y obligaciones establecidas en el artículo 17 del Decreto 229/1999 que crea el Instituto Yucateco de Emprendedores, este estatuto orgánico y demás disposiciones legales y normativas aplicables.
 
 Las facultades y obligaciones establecidas en este estatuto orgánico para los titulares de las unidades administrativas, se entenderán como delegadas para todos los efectos legales por lo que podrán ser asumidas, en todo momento, por el director general.
 
@@ -325,17 +349,23 @@ El instituto contará con las unidades administrativas establecidas en el artíc
 
 De igual forma, los titulares de las unidades administrativas del instituto estarán auxiliados por el personal que requieran las necesidades del servicio, siempre que lo permita su presupuesto.
 
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 23 DE JULIO DE 2019)</small>
+
 ###### Artículo 29.
 
-Facultades y obligaciones generales de los subdirectores
+Facultades y obligaciones generales de los directores
 
-Los subdirectores tendrán las siguientes facultades y obligaciones de carácter general:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JULIO DE 2019)</small>
+
+Los directores tendrán las siguientes facultades y obligaciones de carácter general:
 
 I. Planear, organizar, dirigir y controlar el desempeño de las funciones de la unidad administrativa a su cargo.
 
 II. Acordar con el director general, los asuntos a su cargo que requieran de su intervención.
 
-III. Observar y hacer cumplir, en el ámbito de sus respectivas competencias, el Decreto 422 que crea el Instituto Yucateco de Emprendedores, el Código de la Administración Pública de Yucatán, su reglamento, este estatuto orgánico y demás disposiciones legales y normativas aplicables.
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2019)</small>
+
+III. Observar y hacer cumplir, en el ámbito de sus respectivas competencias, el Decreto 229/1999 que crea el Instituto Yucateco de Emprendedores, el Código de la Administración Pública de Yucatán, su reglamento, este estatuto orgánico y demás disposiciones legales y normativas aplicables.
 
 IV. Coordinar sus actividades con las demás unidades administrativas del instituto para el mejor cumplimiento de los programas, proyectos y acciones a su cargo.
 
@@ -381,11 +411,15 @@ VI. Apoyar al subdirector de su área administrativa en la formulación del ante
 
 VII. Las demás que le confiera este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 23 DE JULIO DE 2019)</small>
+
 ###### Artículo 31.
 
-Facultades y obligaciones del subdirector de innovación y competitividad empresarial
+Facultades y obligaciones del director de Innovación y Competitividad Empresarial
 
-El subdirector de innovación y competitividad empresarial tendrá las siguientes facultades y obligaciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JULIO DE 2019)</small>
+
+El director de Innovación y Competitividad Empresarial tendrá las siguientes facultades y obligaciones:
 
 I. Coordinar y supervisar las funciones sobre consultoría, capacitación y vinculación del instituto en el sector empresarial y organizaciones privadas que lo soliciten.
 
@@ -395,7 +429,7 @@ III. Desarrollar y proponer modelos de asociatividad empresarial, enfocados a la
 
 IV. Proponer la conformación de alianzas tecnológicas que incrementen la capacidad productiva y económica de las micro, pequeñas y medianas empresas.
 
-V. Diseñar estrategias que impulsen el desarrollo y fortalecimiento de los programas sobre mentoría, así como la implementación y operación de una red en la materia.
+V. (DEROGADA, D.O. 23 DE JULIO DE 2019)
 
 VI. Diseñar y proponer programas y políticas públicas para el fortalecimiento de las micro, pequeñas y medianas empresas.
 
@@ -415,17 +449,35 @@ XIII. Organizar el Premio Yucatán a la Calidad, de acuerdo a la normatividad vi
 
 XIV. Promover la participación de las organizaciones públicas y privadas en el Premio Yucatán a la Calidad.
 
-XV. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2019)</small>
+
+XV. Fomentar y apoyar la creación y operación de esquemas y productos financieros orientados a brindar el acceso al capital en sus diversas modalidades a proyectos de micro, pequeñas y medianas empresas.
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2019)</small>
+
+XVI. Proponer los mecanismos que faciliten el acceso de las micro, pequeñas y medianas empresas al financiamiento a través de esquemas de crédito o capital.
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2019)</small>
+
+XVII. Someter a consideración del director general el presupuesto y las metas que permitirán fomentar el acceso al financiamiento, con el objeto de incrementar la productividad en los emprendimientos de alto impacto y en las micro, pequeñas y medianas empresas.
+
+XVIII. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 23 DE JULIO DE 2019)</small>
 
 ###### Artículo 32.
 
-Facultades y obligaciones del jefe de departamento de desarrollo competitivo
+Facultades y obligaciones del jefe del Departamento de Desarrollo Competitivo
 
-El jefe de departamento de desarrollo competitivo tendrá las siguientes facultades y obligaciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JULIO DE 2019)</small>
+
+El jefe del Departamento de Desarrollo Competitivo tendrá las siguientes facultades y obligaciones:
 
 I. Llevar un registro de consultores vinculados al instituto, de conformidad con las normas y políticas que establezca el director general.
 
-II. Instrumentar mecanismos que impulsen la consolidación de los programas de consultoría e incubación de empresas.
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2019)</small>
+
+II. Instrumentar mecanismos que impulsen la consolidación de los programas de consultoría y aceleración de empresas.
 
 III. Diseñar estrategias de reconocimiento a las acciones de innovación empresarial en el sector productivo.
 
@@ -449,57 +501,61 @@ XII. Coordinar el establecimiento de mecanismos que permitan la transferencia de
 
 XIII. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2019)</small>
+
 ###### Artículo 33.
 
-Facultades y obligaciones del subdirector de emprendedores
+Facultades y obligaciones del director de Emprendedores
 
-El subdirector de emprendedores tendrá las siguientes facultades y obligaciones:
+El director de Emprendedores tendrá las siguientes facultades y obligaciones:
 
-I. Proponer los mecanismos que faciliten el acceso de las micro, pequeñas y medianas empresas y los emprendedores al financiamiento a través de esquemas de crédito o capital.
+I. Promover estrategias que permitan fortalecer las capacidades de los emprendedores, mediante el apoyo a la transferencia de mejores prácticas de operación y gestión, así como la realización y participación en eventos que impulsen la actividad emprendedora de alto impacto en el estado.
 
-II. Someter a consideración del director general el presupuesto y las metas que permitirán fomentar el acceso al financiamiento, con el objeto de incrementar la productividad en los emprendimientos de alto impacto y en las micro, pequeñas y medianas empresas.
+II. Promover la participación de empresarios, consultores y asesores en el diseño y ejecución de proyectos dirigidos a los emprendedores y las micro empresas del estado.
 
-III. Proponer programas dirigidos a incrementar la productividad y la competitividad de los emprendimientos de alto impacto y sus cadenas de valor.
+III. Integrar y mantener actualizada la información sobre los servicios que ofrece el instituto y otras instancias públicas y privadas para el desarrollo de los emprendedores y las micro empresas del estado
 
-IV. Promover estrategias que permitan fortalecer las capacidades de los emprendedores, mediante el apoyo a la transferencia de mejores prácticas de operación y gestión, así como la realización y participación en eventos que impulsen la actividad emprendedora de alto impacto en el estado.
+IV. Promover la capacitación constante de los emprendedores y de las micro empresas del estado.
 
-V. Fomentar y apoyar la creación y operación de esquemas y productos financieros orientados a brindar el acceso al capital en sus diversas modalidades a proyectos de emprendedores y micro, pequeñas y medianas empresas.
+V. Impulsar y, en su caso, organizar ferias, exposiciones, convenciones, seminarios y demás eventos que contribuyan a promover el espíritu emprendedor, así como el sector empresarial.
 
-VI. Promover la participación de empresarios, consultores y asesores en el diseño y ejecución de proyectos dirigidos a los emprendedores y las micro, pequeñas y medianas empresas del estado.
+VI. Proponer programas dirigidos a incrementar la productividad y la competitividad de los emprendimientos de alto impacto y sus cadenas de valor.
 
-VII. Integrar y mantener actualizada la información sobre los servicios que ofrece el instituto y otras instancias públicas y privadas para el desarrollo de los emprendedores y las micro, pequeñas y medianas empresas del estado.
+VII. Diseñar estrategias que impulsen el desarrollo y fortalecimiento de los programas sobre mentoría, así como la implementación y operación de una red en la materia.
 
-VIII. Promover la capacitación constante de los emprendedores y de las micro, pequeñas y medianas empresas del estado.
+VIII. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
-IX. Impulsar y, en su caso, organizar ferias, exposiciones, convenciones, seminarios y demás eventos que contribuyan a promover el espíritu emprendedor, así como el sector empresarial.
-
-X. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2019)</small>
 
 ###### Artículo 34.
 
-Facultades y obligaciones del jefe de departamento de acompañamiento en incubación, transferencia y aceleramiento
+Facultades y obligaciones del jefe del Departamento de Acompañamiento en Incubación y Transferencia
 
-El jefe de departamento de acompañamiento en incubación, transferencia y aceleramiento tendrá las siguientes facultades y obligaciones:
+El jefe del Departamento de Acompañamiento en Incubación y Transferencia tendrá las siguientes facultades y obligaciones:
 
-I. Implementar los mecanismos que propicien la innovación, la aceleración de empresas, la incubación, la realización de eventos y caravanas para impulsar la actividad emprendedora, así como otros apoyos para las micro, pequeñas y medianas empresas y los emprendedores del estado.
+I. Implementar los mecanismos que propicien la innovación, la incubación, la realización de eventos y caravanas para impulsar la actividad emprendedora, así como otros apoyos para las micro empresas y los emprendedores del estado.
 
-II. Gestionar los apoyos a la innovación y desarrollo tecnológico, aceleración e incubación de empresas, eventos de promoción y premios a emprendedores y a las micro, pequeñas y medianas empresas, programas de educación a distancia, Red Mover a México, y cualquier otro que considere conveniente para el cumplimiento del objeto del instituto.
+II. Gestionar los apoyos a la innovación y desarrollo tecnológico, incubación de empresas, eventos de promoción y premios a emprendedores y a las micro empresas, programas de educación a distancia, Red Mover a México y cualquier otro que considere conveniente para el cumplimiento del objeto del Instituto.
 
-III. Otorgar asesoría y asistencia técnica en general a los emprendedores y a las micro, pequeñas y medianas empresas.
+III. Otorgar asesoría y asistencia técnica en general a los emprendedores y a las micro empresas.
 
 IV. Vigilar que los fondos de financiamiento que opera o en los que participa el instituto, se apliquen de conformidad con los proyectos que motivaron su asignación y con base en las disposiciones aplicables.
 
-V. Asesorar y apoyar a los emprendedores y a las micro, pequeñas y medianas empresas en las gestiones para su instalación y funcionamiento, de conformidad con las disposiciones legales en la materia.
+V. Asesorar y apoyar a los emprendedores y a las micro, empresas en las gestiones para su instalación y funcionamiento, de conformidad con las disposiciones legales en la materia.
 
 VI. Dar seguimiento a los proyectos en lo relativo a su integración y proponer, en su caso, acciones que permitan consolidar su operación.
 
 VII. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 23 DE JULIO DE 2019)</small>
+
 ###### Artículo 35.
 
-Facultades y obligaciones del jefe de departamento de administración
+Facultades y obligaciones del jefe del Departamento de Administración y Operaciones
 
-El jefe de departamento de administración tendrá las siguientes facultades y obligaciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JULIO DE 2019)</small>
+
+El jefe del Departamento de Administración y Operaciones tendrá las siguientes facultades y obligaciones:
 
 I. Coordinar las funciones relativas a la planeación, presupuestación y administración de ingresos, egresos, recursos humanos y materiales, de conformidad con lo que acuerde con el director general.
 
@@ -531,15 +587,21 @@ XIV. Celebrar convenios y contratos dentro de su ámbito de competencia, previo 
 
 XV. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 23 DE JULIO DE 2019)</small>
+
 ###### Artículo 36.
 
-Facultades y obligaciones del jefe de departamento jurídico
+Facultades y obligaciones del jefe del Departamento Jurídico
 
-El jefe de departamento jurídico tendrá las siguientes facultades y obligaciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JULIO DE 2019)</small>
+
+El jefe del Departamento Jurídico tendrá las siguientes facultades y obligaciones:
 
 I. Asesorar jurídicamente al director general y actuar como órgano de consulta y asesoría jurídica de las demás unidades administrativas del instituto.
 
-II. Representar al director general, o a los subdirectores, en los trámites dentro de los juicios de amparo, así como suscribir promociones, desahogar trámites y asistir a audiencias y diligencias, que exija el trámite procesal de cualquier otra instancia de carácter judicial o contencioso administrativo en la que sean parte dichos servidores públicos.
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2019)</small>
+
+II. Representar al director general, o a los directores, en los trámites dentro de los juicios de amparo, así como suscribir promociones, desahogar trámites y asistir a audiencias y diligencias, que exija el trámite procesal de cualquier otra instancia de carácter judicial o contencioso administrativo en la que sean parte dichos servidores públicos.
 
 III. Promover la celebración de convenios y acuerdos entre instituciones públicas o privadas para realizar acciones encaminadas al cumplimiento del objeto del instituto.
 
@@ -563,11 +625,13 @@ XII. Las demás que le asigne el director general, este estatuto orgánico y otr
 
 ### Capítulo IV. Patrimonio
 
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2019)</small>
+
 ###### Artículo 37.
 
 Patrimonio
 
-El patrimonio del instituto se integrará en los términos del artículo 6 del Decreto 422 que crea el Instituto Yucateco de Emprendedores.
+El patrimonio del instituto se integrará en los términos del artículo 6 del Decreto 229/1999 que crea el Instituto Yucateco de Emprendedores.
 
 ### Capítulo V. Vigilancia y supervisión
 
@@ -593,11 +657,13 @@ Suplencias del director general
 
 El director general será suplido en sus ausencias por el subdirector de innovación y competitividad empresarial, cuando no excedan de quince días, y por la persona nombrada por la junta de gobierno, cuando se exceda de dicho término.
 
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2019)</small>
+
 ###### Artículo 41.
 
-Suplencias de los subdirectores
+Suplencias de los directores
 
-Las ausencias temporales de los subdirectores de innovación y competitividad empresarial; y de emprendedores, serán suplidas por los titulares de las unidades administrativas dependientes o por quien designe el director general.
+Las ausencias temporales del director de Innovación y Competitividad Empresarial y del director de Emprendedores, serán suplidas por los titulares de las unidades administrativas dependientes o por quien designe el director general.
 
 ## Artículos transitorios
 
@@ -620,3 +686,17 @@ Aprobado por la Junta de Gobierno del Instituto Yucateco de Emprendedores, en su
 ING. HÉCTOR MIGUEL ENRÍQUEZ LÓPEZ
 
 DIRECTOR GENERAL DEL IYEM
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 23 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO IYEM 01/2019 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO YUCATECO DE EMPRENDEDORES”.]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El Director General del Instituto Yucateco de Emprendedores deberá realizar la inscripción de la modificación de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo.
