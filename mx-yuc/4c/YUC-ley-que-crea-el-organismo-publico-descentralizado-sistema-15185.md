@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-organismo-publico-descentralizado-sistema-15185
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-31"
-last_updated: "1999-08-31"
+last_updated: "2019-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TIXKOKOB
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 91/2019, PUBLICADO EN EL D.O. DE 23 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TIXKOKOB, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2019 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 31 de agosto de 1999.
 
@@ -178,3 +180,17 @@ C. VÍCTOR MANUEL CERVERA PACHECO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JULIO DE 2019.
+
+> <small>[N. DE E. SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO 91/2019 POR EL QUE SE ABROGA LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TIXKOKOB, YUCATÁN.]</small>
+
+Artículo único.- Se abroga la Ley que crea el Organismo Público Descentralizado Sistema de Agua Potable y Alcantarillado del Municipio de Tixkokob, Yucatán, aprobado el 30 de Agosto de 1999, y publicado en el Diario Oficial del Gobierno del Estado el 31 de Agosto de 1999 mediante el decreto número 219.
+
+## [N. DE E. TRANSITORIO DEL " DECRETO 91/2019 POR EL QUE SE ABROGA LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TIXKOKOB, YUCATÁN”.]
+
+Artículo Único. Entrada en vigor.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno de (sic) estado de Yucatán.
