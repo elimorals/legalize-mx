@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-para-el-estado-de-coahuila-de-zaragoza-115892"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-08-01"
-last_updated: "2019-07-05"
+last_updated: "2019-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2019.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el lunes 1 de agosto de 2016.
 
@@ -245,9 +245,9 @@ c) No ser secretario ejecutivo, director ejecutivo o integrante del cuerpo del s
 
 d) No ser consejero del Instituto, salvo que se separe del cargo dos años antes de la fecha de inicio del proceso electoral de que se trate;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2019)</small>
 
-e) No ser Secretario de la Administración Pública Estatal, Fiscal General del Estado, Magistrado del Poder Judicial, Presidente Municipal, Síndico o Regidor, Legislador federal o local, Consejero o integrante del órgano de dirección de los organismos públicos autónomos, titulares de los organismos descentralizados, salvo que se separen de su encargo cuando menos quince días antes del inicio de la precampaña que corresponda.
+e) No ser Secretario de la Administración Pública Estatal, Fiscal General del Estado, Magistrado del Poder Judicial, Presidente Municipal, Síndico o Regidor, Legislador federal o local, Consejero o integrante del órgano de dirección de los organismos públicos autónomos, titulares de los organismos descentralizados, salvo que se separen de su encargo cuando menos quince días antes del inicio de la precampaña que corresponda. Los Diputados del Congreso del Estado, no requerirán separarse de sus funciones cuando busquen la reelección del cargo; así mismo los síndicos y regidores tampoco requerirán separarse de sus funciones a menos de que contiendan al cargo de Presidente Municipal, para lo cual deberán pedir licencia en los términos de la presente fracción;
 
 (NOTA: EL 27 DE OCTUBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 76/2016 Y SUS ACUMULADAS 79/2016, 80/2016 Y 81/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO F) DEL PÁRRAFO 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE OCTUBRE DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1235,7 +1235,9 @@ d) El registro de candidatos independientes.
 
 ###### Artículo 92.
 
-1. El Consejo General del Instituto emitirá, el 01 de diciembre del año previo al de la elección, la convocatoria dirigida a los ciudadanos interesados en postularse como candidatos independientes, señalando los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los plazos para recabar el apoyo ciudadano correspondiente, los topes de gastos que pueden erogar y los formatos para ello.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2019)</small>
+
+1. El Consejo General del Instituto emitirá, treinta días antes del inicio de las precampañas, la convocatoria dirigida a los ciudadanos interesados en postularse como candidatos independientes, señalando los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los plazos para recabar el apoyo ciudadano correspondiente, los topes de gastos que pueden erogar y los formatos para ello.
 
 2. El Instituto dará amplia difusión a la convocatoria.
 
@@ -1839,7 +1841,9 @@ c) Un 33.3 por ciento que se distribuirá de manera igualitaria entre todas las 
 
 ###### Artículo 167.
 
-1. El proceso electoral ordinario se inicia con la sesión que celebre el Consejo General del Instituto el primer día del mes de noviembre del año previo al de la elección y concluye al resolverse el último de los medios de impugnación que se hayan interpuesto o cuando se tenga constancia de que no se presentó ninguno.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2019)</small>
+
+1. El proceso electoral ordinario se inicia con la sesión que celebre el Consejo General del Instituto el primer día del mes de enero del año correspondiente a la elección y concluye al resolverse el último de los medios de impugnación que se hayan interpuesto o cuando se tenga constancia de que no se presentó ninguno.
 
 2. Para los efectos de este Código, el proceso electoral ordinario comprende las etapas siguientes:
 
@@ -1885,13 +1889,21 @@ d) Dictamen y declaración de validez de la elección.
 
 1. Al menos treinta días antes del inicio formal de los procesos internos para la selección de candidatos, cada partido político determinará, conforme a sus Estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate. La determinación deberá ser comunicada al Consejo General del Instituto dentro de las setenta y dos horas siguientes a su aprobación, señalando la fecha para la expedición de la convocatoria correspondiente; los plazos que comprenderá cada fase del proceso interno; los órganos de dirección responsables de su conducción y vigilancia; la fecha de celebración de la asamblea electoral estatal, distrital o municipal, o en su caso, de realización de la jornada comicial interna, conforme a lo siguiente:
 
-a) Las precampañas en el caso de que se renueve el Poder Ejecutivo, Poder Legislativo y Ayuntamientos, iniciarán ochenta días después de iniciado el proceso. No podrán durar más de cuarenta días.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2019)</small>
 
-b) Respecto a las precampañas en que se renueve el Poder Legislativo, darán inicio ciento once días después de iniciado el proceso. No podrán durar más de veinte días.
+a) Las precampañas en el caso de que se renueve, en el mismo proceso electoral, el Poder Ejecutivo, Poder Legislativo y Ayuntamientos, iniciarán cuarenta días después de iniciado el proceso. No podrán durar más de cuarenta días.
 
-c) Respecto a las precampañas en que se renueve el Poder Ejecutivo en concurrencia con el Poder Legislativo, darán inicio ochenta días después de iniciado el proceso. No podrán durar más de cuarenta días.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2019)</small>
 
-d) Respecto a las precampañas en las que se renueve el Poder Ejecutivo o Ayuntamientos en concurrencia con elecciones federales, darán inicio ochenta días después de iniciado el proceso. No podrán durar más de cuarenta días.
+b) Respecto a las precampañas en que se renueve, únicamente, el Poder Legislativo, darán inicio sesenta días después de iniciado el proceso. No podrán durar más de veinticinco días.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2019)</small>
+
+c) Respecto a las precampañas en que se renueve el Poder Ejecutivo en concurrencia con el Poder Legislativo, darán inicio cuarenta días después de iniciado el proceso. No podrán durar más de cuarenta días.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2019)</small>
+
+d) Respecto a las precampañas en las que se renueve el Poder Ejecutivo o Ayuntamientos en concurrencia con elecciones federales, darán inicio cuarenta días después de iniciado el proceso. No podrán durar más de cuarenta días.
 
 e) La duración de las precampañas no podrá ser mayor de las dos terceras partes de las campañas.
 
@@ -1973,7 +1985,9 @@ f) Cuando dentro de los procesos a que se refiere este artículo exista un solo 
 
 1. Para el registro de candidaturas a todo cargo de elección popular, el partido político postulante deberá presentar y obtener el registro de la plataforma electoral que sus candidatos sostendrán a lo largo de las campañas políticas.
 
-2. La plataforma electoral deberá presentarse para su registro ante el Consejo General del Instituto, a más tardar el quince de diciembre del año previo al de la elección. Del registro se expedirá constancia.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2019)</small>
+
+2. La plataforma electoral deberá presentarse para su registro ante el Consejo General del Instituto, a más tardar el quince de enero del año de la elección. Del registro se expedirá constancia.
 
 ###### Artículo 180.
 
@@ -2169,7 +2183,9 @@ e) El Consejo General del Instituto determinará los montos a que se refiere est
 
 1. En el año en que se renueve el Poder Ejecutivo, Legislativo y Ayuntamientos, tendrán una duración de sesenta días.
 
-2. Las campañas en que se renueve el Poder Legislativo, tendrán una duración de treinta días.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2019)</small>
+
+2. Las campañas en que se renueve el Poder Legislativo, tendrán una duración de cuarenta días.
 
 3. Las campañas en que se renueve el Poder Ejecutivo y el Poder Legislativo, tendrán una duración de 60 días.
 
@@ -4013,7 +4029,9 @@ aa) Ejercitar las facultades delegadas por el Consejo General del Instituto Naci
 
 bb) Aprobar la realización de estudios demoscópicos, basados en actas de escrutinio y cómputo de casilla, a fin de conocer las tendencias de los resultados de las elecciones locales el día de la jornada electoral que proponga el presidente. Los resultados de dichos estudios deberán ser difundidos conforme a los lineamientos emitidos para tal efecto;
 
-cc) Resolver respecto a los proyectos de dictamen, acuerdo o resolución que se sometan a su consideración por la presidencia del Consejo General, las Comisiones o el Secretario Ejecutivo del Instituto, en la esfera de su competencia, y
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2019)</small>
+
+cc) Resolver respecto a los proyectos de dictamen, acuerdo o resolución que se sometan a su consideración por la presidencia del Consejo General, las Comisiones o el Secretario Ejecutivo del Instituto, en la esfera de su competencia; y
 
 dd) Las demás que le confiera este Código u otras disposiciones legales aplicables.
 
@@ -5582,3 +5600,27 @@ P.O. 5 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 297.- SE ADICIONA EL NUMERAL 9 AL ARTÍCULO 203 DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 329.- SE MODIFICA EL NUMERAL 1 DEL ARTÍCULO 92; EL NUMERAL 1 DEL ARTÍCULO 167; LOS INCISOS A, B, C Y D DEL NUMERAL 1 DEL ARTÍCULO 169; EL NUMERAL 2 DEL ARTÍCULO 179, EL NUMERAL 2 DEL ARTÍCULO 193 Y EL INCISO CC DEL ARTÍCULO 344, DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 330.- SE REFORMA EL INCISO E) DEL ARTÍCULO 10 DEL CÓDIGO ELECTORAL PARA EL ESTADO LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Presente decreto será aplicable para los Diputados que forman parte de la Sexagésima Primera Legislatura del Honorable Congreso del Estado Independiente Libre y Soberano de Coahuila de Zaragoza.
