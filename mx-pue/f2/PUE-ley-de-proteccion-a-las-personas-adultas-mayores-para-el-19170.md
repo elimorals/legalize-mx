@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-personas-adultas-mayores-para-el-19170"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2019-02-07"
+last_updated: "2019-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 29 de diciembre de 2000.
 
@@ -175,7 +175,9 @@ X.- Participar en actividades cívicas y tradicionales, si así lo consideran co
 
 XI.- Disfrutar de asistencia social, de acuerdo con lo establecido en las leyes de la materia;
 
-XII.- Alcanzar los beneficios a la salud, para lograr el bienestar físico y mental;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2019)</small>
+
+XII.- Alcanzar los beneficios a la salud, para lograr el bienestar físico y mental, así como recibir orientación y capacitación para tener una nutrición adecuada y apropiada;
 
 XIII.- Obtener atención de calidad con componentes gerontológicos y geriátricos en los diversos niveles de atención a la salud;
 
@@ -229,11 +231,17 @@ IX.- Llevar a cabo las acciones procedentes para su afiliación al Instituto y a
 
 X.- Promover y gestionar en colaboración con las dependencias o entidades competentes, créditos accesibles para que adquieran una vivienda propia, o realicen mejoras en caso de que ya cuenten con una;
 
-XI.- Darles a conocer, así como a la sociedad en general, el contenido de la presente Ley y de otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+XI.- Darles a conocer, así como a la sociedad en general, el contenido de la presente Ley y de otras disposiciones legales aplicables;
 
-XII.- Desarrollar acciones tendientes a combatir la violencia de cualquier tipo en contra de los adultos mayores, a través de los programas y políticas que para tal efecto se establezcan.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2019)</small>
+
+XII.- Desarrollar acciones tendientes a combatir la violencia de cualquier tipo en contra de los adultos mayores, a través de los programas y políticas que para tal efecto se establezcan; y
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2019)</small>
+
+XIII.- Diseñar y ejecutar las acciones necesarias para que los adultos mayores tengan acceso a una alimentación adecuada y acorde a su edad.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
@@ -584,3 +592,13 @@ P.O. 7 DE FEBRERO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 4 Y LAS FRACCIONES XI Y XII DEL ARTÍCULO 6, Y ADICIONA LA FRACCIÓN XIII DEL ARTÍCULO 6 DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El Poder Ejecutivo Estatal, en el ámbito de su competencia, realizará las acciones necesarias para el cumplimiento del presente Decreto, de acuerdo con su disponibilidad presupuestal.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
