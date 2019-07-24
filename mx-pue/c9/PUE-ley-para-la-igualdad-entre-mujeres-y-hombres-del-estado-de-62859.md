@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6285
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-22"
-last_updated: "2017-11-16"
+last_updated: "2019-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 22 de agosto de 2008.
 
@@ -129,6 +129,10 @@ IV.- Ley: La Ley para la Igualdad entre Mujeres y Hombres del Estado de Puebla;
 
 V.- Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
 
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2019)</small>
+
+V Bis.- Presupuestos con perspectiva de género: Presupuestos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la igualdad e integración transversal de la política de género en planes, programas y acciones gubernamentales.
+
 VI.- Poderes Públicos del Estado: Los Poderes Ejecutivo, Legislativo y Judicial del Estado, de acuerdo a su organización y funcionamiento conforme a su normatividad aplicable y los demás que la legislación reconozca como autoridad;
 
 VII.- Principio de Igualdad: Posibilidad y capacidad de ser titulares cualitativamente de los mismos derechos, sin importar las diferencias del género al que pertenezcan;
@@ -205,7 +209,9 @@ I.- Implementar la Política Municipal en materia de igualdad entre mujeres y ho
 
 II.- Coadyuvar con los diversos órdenes de gobierno en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
 
-III.- Realizar las previsiones presupuestarias para la ejecución de los programas de igualdad, en términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2019)</small>
+
+III.- Realizar las previsiones presupuestarias con perspectiva de género para la ejecución de los programas de igualdad, en términos de la legislación aplicable;
 
 IV.- Diseñar, formular y aplicar campañas de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta Ley le confiere;
 
@@ -363,7 +369,9 @@ II.- Impulsar el progreso legislativo en materia de igualdad, a fin de armonizar
 
 III.- Diseñar las políticas públicas, el programa y servicios en materia de igualdad;
 
-IV.- Evaluar la necesidad específica de las asignaciones presupuestarías destinadas a ejecutar el programa y planes estratégicos en materia de igualdad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2019)</small>
+
+IV.- Evaluar la necesidad específica de las asignaciones de presupuestos con perspectiva de género, destinados a ejecutar el programa y planes estratégicos en materia de igualdad entre mujeres y hombres;
 
 V.- Organizar a la sociedad civil en la participación de debates públicos con la finalidad de promover la igualdad entre mujeres y hombres;
 
@@ -690,6 +698,14 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 P.O. 16 DE NOVIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 9, LA FRACCIÓN IV DEL 21 Y ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 4, TODOS DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
