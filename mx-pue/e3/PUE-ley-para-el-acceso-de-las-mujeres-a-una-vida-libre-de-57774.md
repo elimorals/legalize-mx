@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2019-03-28"
+last_updated: "2019-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2019.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -118,6 +118,10 @@ IX.- Víctima: La mujer de cualquier edad a quien se le causa algún tipo de vio
 IX Bis.- Persona en condición de vulnerabilidad: aquella que, por razón de su edad, género, estado físico o mental, o por circunstancias sociales, económicas, étnicas y/o culturales, encuentra especial dificultad para ejercitar con plenitud ante el sistema de justicia sus derechos humanos;
 
 X.- Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquía de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2019)</small>
+
+X Bis.- Presupuestos con perspectiva de género: Presupuestos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la igualdad e integración transversal de la política de género en planes, programas y acciones gubernamentales;
 
 > <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
 
@@ -627,7 +631,9 @@ VII.- Promover, en coordinación con la Federación, programas y proyectos de at
 
 VIII.- Impulsar programas locales para el adelanto y desarrollo de las mujeres y mejorar su calidad de vida;
 
-IX.- Proveer de los recursos presupuestarios, humanos y materiales, en coordinación con las autoridades que integran el Sistema Estatal, a los Programas Estatal e Integral, sujeto a la suficiencia presupuestal respectiva y conforme a las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2019)</small>
+
+IX.- Proveer de los recursos presupuestarios, humanos y materiales con perspectiva de género, en coordinación con las autoridades que integran el Sistema Estatal, a los Programas Estatal e Integral, sujeto a la suficiencia presupuestal respectiva y conforme a las disposiciones legales aplicables;
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -1232,3 +1238,11 @@ PRIMERO. El presente Decreto entrara en vigor el día siguiente de su publicaci�
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto dentro del presente Decreto.
 
 TERCERO. El Titular del Poder Ejecutivo del Estado realizará las modificaciones reglamentarias necesarias en términos del presente Decreto, en un plazo no mayor a 30 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+P.O. 24 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCION IX DEL ARTÍCULO 38 Y ADICIONA LA FRACCIÓN X BIS AL ARTÍCULO 6 DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
