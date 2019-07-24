@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-uso-y-operacion-de-la-firma-electronica-9658
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-14"
-last_updated: "2013-11-14"
+last_updated: "2019-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96580&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-10-28"
 ---
 # REGLAMENTO PARA EL USO Y OPERACION DE LA FIRMA ELECTRONICA AVANZADA EN EL INSTITUTO FEDERAL ELECTORAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL EXTRACTO DEL ACUERDO INE/CG345/2019 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 24 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA EL USO Y OPERACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA EN EL INSTITUTO FEDERAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JULIO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 14 de noviembre de 2013.
 
@@ -442,3 +444,29 @@ I. La implementación como autoridad registradora y certificadora en el Institut
 II. Para los actos y actuaciones electrónicas la implementación de la Firma Electrónica Avanzada estará sujeta a la emisión de los lineamientos correspondientes a cada materia, en la que se determine el uso de la misma, por parte de la Junta General Ejecutiva.
 
 TERCERO. La Dirección Ejecutiva de Administración en coordinación con la Unidad Técnica de Servicios de Informática, deberán presupuestar los recursos necesarios para el uso y operación de la Firma Electrónica Avanzada; (sic)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE JULIO DE 2019.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL "EXTRACTO DEL ACUERDO INE/CG345/2019 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL REGLAMENTO PARA EL USO Y OPERACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA EN EL INSTITUTO NACIONAL ELECTORAL", QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDOS
+
+PRIMERO.- Se dejan sin efectos los acuerdos CG314/2013 y JGE26/2014, emitidos por el otrora Instituto Federal Electoral, y se abrogan el Reglamento para el uso y operación de la firma electrónica avanzada en el Instituto Federal Electoral y los Lineamientos para la implementación de la firma electrónica avanzada en el Instituto Federal Electoral, aprobados mediante dichos acuerdos, respectivamente.
+
+SEGUNDO.- Se aprueba el Reglamento para el uso y operación de la firma electrónica avanzada en el Instituto Nacional Electoral, así como sus anexos; el cual se adjunta al presente y forma parte integral del presente Acuerdo.
+
+(…)
+
+El Acuerdo podrá consultarse de manera íntegra en la siguiente dirección electrónica:
+
+Páginas INE:
+
+https://www.ine.mx/sesion-extraordinaria-del-consejo-general-08-julio-2019/
+
+https://norma.ine.mx/normatividad-del-instituto/vigente/normativo/reglamentos
+
+Página DOF:
+
+www.dof.gob.mx/2019/INE/CGex201907_08_ap_13.pdf
