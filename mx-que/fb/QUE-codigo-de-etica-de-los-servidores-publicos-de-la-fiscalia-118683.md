@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-etica-de-los-servidores-publicos-de-la-fiscalia-11868
 country: "mx"
 rank: "codigo"
 publication_date: "2017-01-27"
-last_updated: "2017-01-27"
+last_updated: "2019-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LA FISCALIA GENERAL DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DEL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 24 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2019 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Querétaro, el viernes 27 de enero de 2017.
 
@@ -532,3 +534,21 @@ M. en C.P. Alejandro Echeverría Cornejo
 Fiscal General del Estado de Querétaro
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO”.]
+
+Primero. El presente Código entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Segundo. El Comité de Ética instalado en la Primera Sesión Ordinaria y de Instalación, celebrada el 21 de febrero de 2017, seguirá en funcionamiento en términos de lo dispuesto en el presente Código.
+
+Tercero. Las investigaciones por presunta responsabilidad administrativa iniciadas con anterioridad a la entrada en vigor del presente Código, por la autoridad competente de la Contraloría o por el Titular de la Unidad de Asuntos Internos, ambos de la Fiscalía General del Estado de Querétaro, con motivo del incumplimiento a los principios, valores y conductas previstas en el Código de Ética de los Servidores Públicos de la Fiscalía General del Estado de Querétaro, a que se hace referencia en el transitorio segundo, deberán ser concluidas conforme a las disposiciones aplicables en el presente Código de Ética.
+
+Cuarto. Los procedimientos de presunta responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente Código, por la autoridad competente de la Contraloría y de la Comisión de Honor y Justicia de la Fiscalía General del Estado de Querétaro, con motivo del incumplimiento a los principios, valores y conductas previstas en el Código de Ética de los Servidores Públicos de la Fiscalía General, a que se hace referencia en el transitorio segundo, deberán ser concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+Quinto. Dentro de los treinta días siguientes a la entrada en vigor del presente Código, el Fiscal General con la aprobación del titular de la Contraloría, deberá emitir el Código de Conducta de los Servidores Públicos de la Fiscalía General del Estado de Querétaro.
+
+Sexto. Hasta en tanto no entre en vigor el Código de Conducta a que se refiere el artículo transitorio anterior, seguirá en aplicación lo dispuesto en el Código de Ética de los Servidores Públicos de la Fiscalía General del Estado, publicado en el Periódico Oficial del Gobierno del Estado de Querétaro, “La Sombra de Arteaga” el 27 de enero de 2017, y una vez que inicie su vigencia, éste quedará abrogado.
