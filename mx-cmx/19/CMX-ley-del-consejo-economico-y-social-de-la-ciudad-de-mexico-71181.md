@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-consejo-economico-y-social-de-la-ciudad-de-mexico-71181
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-30"
-last_updated: "2009-12-30"
+last_updated: "2019-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71181&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2009-12-28"
 ---
 # LEY DEL CONSEJO ECONOMICO Y SOCIAL DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE ABROGA LA LEY DE (SIC) CONSEJO ECONÓMICO Y SOCIAL DE LA CIUDAD DE MÉXICO Y SE EXPIDE LA LEY DEL CONSEJO, ECONÓMICO, SOCIAL Y AMBIENTAL DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 25 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL CONSEJO ECONOMICO Y SOCIAL DE LA CIUDAD DE MEXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JULIO DE 2019 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 30 de diciembre de 2009.
 
@@ -291,3 +293,63 @@ Cuarto.- Cada que se destinen recursos del fondo, el Consejo deberá enviar un i
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintidós días del mes de diciembre del año dos mil nueve.- POR LA MESA DIRECTIVA.- DIP. LIZBETH EUGENIA ROSAS MONTERO, PRESIDENTA.- DIP. MARÍA DE LOURDES AMAYA REYES, SECRETARIA.- RAFAEL CALDERÓN JIMÉNEZ, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO MIGUEL CARRILLO HUERTA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 25 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE ABROGA LA LEY DE (SIC) CONSEJO ECONÓMICO Y SOCIAL DE LA CIUDAD DE MÉXICO Y SE EXPIDE LA LEY DEL CONSEJO, ECONÓMICO, SOCIAL Y AMBIENTAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se abroga la Ley del Consejo Económico y Social de la Ciudad de México, publicada en la Gaceta Oficial de la Ciudad de México el 30 de diciembre de 2009.
+
+CUARTO.- El Reglamento interno del Consejo deberá expedirse a más tardar a los treinta días hábiles de su integración.
+
+En tanto no se expida el Reglamento Interno del Consejo se aplicará el Reglamento Interior del Consejo Económico y Social de la Ciudad de México.
+
+QUINTO.- A partir de la entrada en vigor del presente Decreto, las referencias hechas al Consejo Económico y Social de la Ciudad de México en otras normas locales vigentes, se entienden hechas al Consejo.
+
+Asimismo, las referencias hechas al Fondo para el Desarrollo Económico y Social de la Ciudad de México.
+
+SEXTO.- Para la integración del Consejo Económico, Social y Ambiental de la Ciudad de México, la distribución de los espacios para nombrar consejeros correspondientes a cada una de las Organizaciones de la Sociedad Civil, Empresariales, de Trabajadores, de Profesionistas y de Instituciones Académicas, se realizará por única ocasión por invitación de la Jefa de Gobierno de la Ciudad de México, a propuesta de la Comisión de Desarrollo Económico del Congreso de la Ciudad de México; quien para tal efecto y a fin de salvaguardar la operatividad y representatividad deberá observar la actual conformación del Consejo para quedar como sigue:
+
+I. 5 representantes de organizaciones de la sociedad civil;
+
+II. 5 representantes de organizaciones empresariales;
+
+III. 5 representantes de organizaciones de trabajadores;
+
+IV. 5 representantes de organizaciones de profesionistas;
+
+V. 5 representantes de instituciones académicas; y
+
+Las personas Titulares de las Alcaldías deberán ser notificadas de su nombramiento en un plazo no mayor a sesenta días hábiles posteriores a la entrada en vigor de la presente Ley, quienes a efecto de nombrar a su suplente deberán observar que dicha persona ostente el cargo de Director General y que la denominación de su encargo corresponda a las atribuciones del Consejo; dicho acuerdo deberá ser validado por el Concejo de la Alcaldía.
+
+Asimismo, las referencias hechas al Fondo para el Desarrollo Económico y Social de la Ciudad de México en otras normas locales vigentes, se entienden hechas al Fondo.
+
+SÉPTIMO.- Para la integración del Consejo Económico, Social y Ambiental, la designación de los Consejeros representantes de las Organizaciones de la Sociedad Civil, Empresariales, de Trabajadores, de Profesionistas y de Instituciones Académicas, se realizará por única ocasión por invitación de la Jefa de Gobierno de la Ciudad de México, quien para tal efecto y a fin de salvaguardar la operatividad y representatividad deberá observar la actual conformación del Consejo.
+
+Las personas Titulares de las Alcaldías deberán ser notificadas de su nombramiento en un plazo no mayor a sesenta días hábiles posteriores a la entrada en vigor de la presente Ley, quienes a efecto de nombrar a su suplente deberán observar que dicha persona ostente el cargo de Director General y que la denominación de su encargo corresponda a las atribuciones del Consejo; dicho acuerdo deberá ser validado por el Concejo de la Alcaldía.
+
+Asimismo, las referencias hechas al Fondo para el Desarrollo Económico y Social de la Ciudad de México en otras normas locales vigentes, se entienden hechas al Fondo.
+
+OCTAVO.- El Consejo deberá quedar constituido e instalado en un plazo no mayor a treinta días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+Los asuntos que a la entrada en vigor de la presente Ley se encuentren pendientes de trámite por parte del Consejo Económico y Social de la Ciudad de México seguirán a cargo del Consejo hasta su total conclusión.
+
+NOVENO.- El Consejo establecerá en su reglamento los mecanismos que impulsen la paridad de género en su integración.
+
+DÉCIMO.- El Fondo se integrará con los recursos financieros, materiales y humanos que actualmente están asignados al Fondo para el Desarrollo Económico y Social de la Ciudad de México, así como con los recursos financieros que le sean asignados anualmente en el Presupuesto de Egresos.
+
+La plantilla laboral que, en virtud de esta Ley pase del Fondo para el Desarrollo Económico y Social de la Ciudad de México al Fondo, de ninguna forma resultará afectada en las prerrogativas y derechos laborales que hayan adquirido conforme a la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables en la materia.
+
+Los asuntos que a la entrada en vigor de la presente Ley se encuentren pendientes de trámite por parte del Fondo para el Desarrollo Económico y Social de la Ciudad de México seguirán a cargo del Fondo hasta su total conclusión.
+
+DÉCIMO PRIMERO.- A partir de la entrada en vigor del presente Decreto, en un plazo no mayor a 180 días naturales, deberá ser modificado el Contrato de Fideicomiso Público denominado Fondo para el Desarrollo Económico y Social de la Ciudad de México, de fecha 09 de junio de 2010, y su Primer Convenio Modificatorio, de fecha 19 de junio de 2014, lo anterior a fin de cambiar la denominación del Fondo para el Desarrollo Económico y Social de la Ciudad de México hacia Fondo y de armonizar, de conformidad con la presente Ley, sus fines, atribuciones, integración y operación.
+
+DÉCIMO SEGUNDO.- En tanto no se expidan las disposiciones correspondientes, continuarán aplicándose, en lo que no se opongan a esta Ley, las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor de la presente Ley.
+
+DÉCIMO TERCERO.- El Congreso de la Ciudad, deberá asignar de manera anual en el Presupuesto de Egresos, los recursos necesarios para la operación del Fondo.
