@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-local-de-la-infraestructura-122
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-08-16"
-last_updated: "2017-08-16"
+last_updated: "2019-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122868&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-08-04"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO LOCAL DE LA INFRAESTRUCTURA FISICA EDUCATIVA DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO LOCAL DE LA INFRAESTRUCTURA FÍSICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 25 DE JULIO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO LOCAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JULIO DE 2019 (ABROGADO).
 
 Estatuto publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -659,3 +661,21 @@ DIRECTOR GENERAL DEL INSTITUTO LOCAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DE 
 (Firma)
 
 LIC. DAVID ARTURO ZORRILLA COSÍO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 25 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO LOCAL DE LA INFRAESTRUCTURA FÍSICA DE LA CIUDAD DE MÉXICO”.]
+
+Artículo Primero.- El presente Estatuto Orgánico entrará en vigor a partir del día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Artículo Segundo.- Se deroga el Estatuto Orgánico del Instituto publicado en la Gaceta Oficial de la Ciudad de México el 16 de agosto de 2017, y se derogan todas las disposiciones contenidas en manuales administrativos del Instituto que se opongan a lo establecido en el presente Estatuto.
+
+Artículo Tercero.- Para las cuestiones no previstas en el presente Estatuto Orgánico, y en las que se presente controversia en cuanto a su aplicación, observancia e interpretación, la Junta de Gobierno resolverá lo conducente.
+
+Artículo Cuarto.- Las funciones del personal adscrito a las Unidades Administrativas del Instituto se detallarán en los Manuales Administrativos que apruebe la Junta de Gobierno.
+
+Artículo Quinto.- En tanto se expide el Manual Administrativo respectivo, la persona titular de la Dirección General resolverá las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Sexto.- Se abroga el Estatuto Orgánico del Instituto Local de la Infraestructura Física Educativa de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el 16 de agosto de 2017. Las unidades administrativas contempladas en el Estatuto Orgánico que se abroga ejercerán las facultades y continuarán en el conocimiento de los asuntos en trámite, hasta en tanto se realicen los trámites administrativos necesarios para que entren en funciones las nuevas unidades administrativas que se crean.
