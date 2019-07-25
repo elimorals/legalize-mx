@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-estadistica-y-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-31"
-last_updated: "2019-06-25"
+last_updated: "2019-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2009-03-25"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JULIO DE 2019.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de marzo de 2009.
 
@@ -3057,7 +3057,7 @@ Para el desahogo de las atribuciones que este numeral confiere a la Coordinació
 
 De la Vigilancia del Instituto.
 
-> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 46 Bis.
 
@@ -3215,241 +3215,265 @@ XXIV. Las facultades que expresamente le otorga a su Titular el artículo 13 de 
 
 De la Suplencia de los Servidores Públicos de la Contraloría Interna.
 
-> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 47.
 
 En términos de lo dispuesto por el artículo 91 de la Ley, la vigilancia del Instituto estará a cargo de:
 
-Un Órgano Interno de Control dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones; tendrá competencia territorial en toda la República Mexicana para prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas administrativas graves; para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; auditar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos federales; así como presentar ante la Fiscalía Especializada en Combate a la Corrupción las denuncias por hechos u omisiones que pudieran ser constitutivos de delito.
+Un Órgano Interno de Control dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones, que tendrá competencia territorial en toda la República Mexicana para prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Instituto y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; para revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como para presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la instancia competente.
 
-Asimismo, el Órgano Interno de Control deberá establecer y llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Instituto.
+Asimismo, el Órgano Interno de Control deberá establecer y llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Instituto y promover, evaluar y fortalecer el buen funcionamiento del control interno que implemente el Instituto.
 
-El Órgano Interno de Control tendrá un Titular que lo representará y contará con la estructura orgánica y recursos necesarios para el cumplimiento de su objeto.
+El Órgano Interno de Control tendrá un Titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
 
-En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a lo previsto en la Ley General de Responsabilidades Administrativas.
+En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas y la Ley General del Sistema Nacional Anticorrupción.
 
 ARTICULO 47 bis.- (DEROGADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 48.
 
-Son atribuciones del Titular del Órgano Interno de Control del Instituto, las siguientes:
+El Órgano Interno de Control tendrá las atribuciones que señala el artículo 91 de la Ley y las que establece la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional Anticorrupción y la Ley General de Responsabilidades Administrativas.
 
-I. Vigilar que las operaciones, programas y proyectos del Instituto se desarrollen de conformidad con la Ley y demás normatividad que le sea aplicable, así como, llevar a cabo programas específicos tendientes a verificar el cumplimiento de las obligaciones a cargo de los servidores públicos del Instituto y de los particulares con que éste tenga relación con motivo de sus funciones;
+Para el cumplimiento de sus atribuciones el Titular del Órgano Interno de Control contará con los titulares de las áreas de Denuncias, Investigaciones y Evolución Patrimonial; de Responsabilidades, y de Auditoría Interna, quienes tendrán el carácter de autoridad con las atribuciones a que se refiere el artículo 49 de este Reglamento.
 
-II. Planear, dirigir y supervisar la gestión del Órgano Interno de Control en las materias de su competencia;
+Asimismo, para efectos de las atribuciones que la Ley General de Responsabilidades Administrativas y la Ley le confiere al Órgano Interno de Control, serán consideradas como Autoridades Investigadoras, Substanciadoras y Resolutoras, las siguientes:
 
-III. Aprobar los manuales de organización, normas y procedimientos correspondientes al Órgano Interno de Control;
+I. Autoridades Investigadoras:
 
-IV. Presentar a la Unidad Administrativa correspondiente, el Anteproyecto de Presupuesto para cubrir los recursos humanos, materiales y financieros para el adecuado funcionamiento del Órgano Interno de Control, para su aprobación por la Junta de Gobierno;
+a) Titular del Órgano Interno de Control;
 
-V. Promover los Programas de Capacitación de los servidores públicos del Órgano Interno de Control, en coordinación con la Dirección General de Administración;
+b) Titular del Área de Denuncias, Investigaciones y Evolución Patrimonial, y
 
-VI. Coordinar la realización de auditorías, investigaciones o visitas de inspección para verificar la correcta y legal aplicación de los recursos y bienes del Instituto, en su caso, determinar sus desviaciones y las causas que les dieron origen y promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+c) Titular de la Dirección de Investigaciones y Auditoría;
 
-VII. Coordinar la atención de las denuncias; las investigaciones y procedimientos administrativos; la imposición de sanciones inherentes a las responsabilidades administrativas de los servidores públicos y el otorgamiento de medidas cautelares de conformidad con la Ley General de Responsabilidades Administrativas; las acciones y concertaciones con otras autoridades competentes, relacionadas con el cobro de las multas que imponga el Órgano Interno de Control en el ámbito de sus respectivas atribuciones, con motivo de infracciones a la Ley y a las Normas en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Estadística y Geografía y en las Normas en Materia de Obras Públicas y Servicios Relacionados con las Mismas del Instituto Nacional de Estadística y Geografía;
+II. Autoridades Substanciadoras:
 
-VIII. Resolver el recurso de revocación previsto en la Ley General de Responsabilidades Administrativas, que interpongan los servidores públicos sancionados del Instituto en contra de las resoluciones que emita la Autoridad Resolutora, en su caso, delegar dicha facultad en el servidor público que designe para el efecto;
+a) Titular del Órgano Interno de Control, y
 
-IX. Resolver los recursos de revisión que se hagan valer en contra de las resoluciones de las inconformidades previstas en las Normas en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Estadística y Geografía y en las Normas en Materia de Obras Públicas y Servicios Relacionados con las Mismas del Instituto Nacional de Estadística y Geografía, así como en contra de aquellas resoluciones emitidas por la Autoridad Resolutora que sancionen a licitantes, proveedores y contratistas;
+b) Titular del Área de Responsabilidades.
 
-X. Realizar ante las diversas instancias jurisdiccionales, por sí o por conducto del servidor público del propio Órgano Interno de Control que determine, la defensa jurídica de las resoluciones que emita, así como, expedir copias certificadas de los documentos que obren en los archivos del Órgano Interno de Control del Instituto;
+III. Autoridades Resolutoras en materia de faltas administrativas no graves:
 
-XI. Denunciar ante las autoridades competentes, por sí o por conducto del servidor público que el propio Titular del Órgano Interno de Control determine, los hechos de los que tenga conocimiento y que puedan ser constitutivos de delito o, en su defecto, instar a la Coordinación General de Asuntos Jurídicos a formular las querellas a que haya lugar, cuando las conductas ilícitas requieran de este requisito de procedibilidad;
+a) Titular del Órgano Interno de Control, y
 
-XII. Atender las normas y formatos para el seguimiento de la evolución patrimonial de los servidores públicos del Instituto, de conformidad con la Ley General de Responsabilidades Administrativas;
+b) Titular del Área de Responsabilidades.
 
-XIII. Proporcionar la información que le sea requerida, de acuerdo con las políticas y normas institucionales y con la legislación vigente en materia de transparencia, acceso a la información pública y protección a datos personales;
+El Titular del Órgano Interno de Control, en ningún caso podrá ejercer las funciones de Autoridad Investigadora y Autoridad Substanciadora o Resolutora en un mismo asunto.
 
-XIV. Asistir como invitado a las sesiones de la Junta de Gobierno, con voz y sin voto, cuando la Junta de Gobierno así lo determine;
-
-XV. Coordinar, con la participación de la Dirección General de Administración, los trabajos a desarrollar por el auditor externo;
-
-XVI. Representar al Instituto ante las Unidades del Estado, el medio académico, las organizaciones empresariales, los organismos no gubernamentales, organizaciones de otros países y organismos internacionales en el ámbito de su competencia;
-
-XVII. Suscribir los documentos relativos al ejercicio de las facultades que le correspondan a la Unidad Administrativa a su cargo;
-
-XVIII. Guardar los principios de confidencialidad y reserva que la Ley establece respecto de los datos que los informantes del Sistema proporcionen para fines estadísticos al Instituto, así como, respecto de la información de carácter confidencial que provenga de registros administrativos de las Unidades del Estado;
-
-XIX. Ejercer el presupuesto autorizado a la Unidad Administrativa a su cargo y adquirir con cargo al mismo, los bienes y servicios necesarios para el cumplimiento de sus funciones, de acuerdo a las disposiciones normativas aplicables;
-
-XX. Suscribir los acuerdos, contratos o convenios, y sus modificaciones, que afecten el presupuesto de la Unidad Administrativa a su cargo y supervisar su cumplimiento, así como dictaminar sobre la terminación anticipada o rescisión de los mismos;
-
-XXI. Administrar los recursos humanos de su adscripción de acuerdo a la normatividad vigente;
-
-XXII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, así como el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto;
-
-XXIII. Coordinar la intervención en los actos de entrega-recepción de los servidores públicos del Instituto de mandos medios y superiores, al separarse del cargo, en los términos de la normatividad aplicable;
-
-XXIV. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
-
-XXV. Atender las solicitudes de las diferentes Unidades Administrativas del Instituto en los asuntos de su competencia;
-
-XXVI. Proponer a la Junta de Gobierno los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
-
-XXVII. Presentar a la Junta de Gobierno del Instituto los informes previo y anual de resultados de su gestión y comparecer ante ésta cuando la misma o el Presidente lo requiera del Instituto; así como rendir informe semestral y anual de actividades al Instituto, del cual marcará copia a la Cámara de Diputados;
-
-XXVIII. Presentar a la Junta de Gobierno del Instituto los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas, y
-
-XXIX. Las demás que le confiera la Ley, la Ley General de Responsabilidades Administrativas, el presente Reglamento y las demás disposiciones legales y administrativas aplicables en el marco del Sistema Nacional Anticorrupción.
-
-Para el mejor desempeño de sus facultades, el Titular del Órgano Interno de Control se auxiliará del Coordinador de Denuncias y Responsabilidades, del Titular de Auditoría Interna, así como de las Autoridades Investigadora y la Substanciadora y Resolutora.
-
-> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 48 Bis.
 
-Son facultades del Coordinador de Denuncias y Responsabilidades, las siguientes:
+El Titular del Órgano Interno de Control en el Instituto tiene, en adición a lo establecido en el artículo 91 de la Ley, las facultades siguientes:
 
-I. Dar seguimiento a la atención de las consultas, sugerencias y denuncias relacionadas con el desempeño de los servidores públicos del Instituto, así como la substanciación y resolución de los procedimientos de imposición de sanciones administrativas a particulares y servidores públicos; de sanción a licitantes, proveedores o contratistas; de inconformidades, y de conciliaciones;
+I. Emitir lineamientos generales necesarios para el ejercicio de las atribuciones que las leyes otorgan al Órgano Interno de Control del Instituto, entre otras, en las materias de evaluación de la gestión gubernamental y del control interno institucional, auditorías, responsabilidades administrativas de los servidores públicos, integridad, ética y prevención de conflictos de intereses, adquisiciones, arrendamientos, obras públicas y servicios relacionados con las mismas, considerando, en su caso, las políticas que emita el Comité Coordinador del Sistema Nacional Anticorrupción en estas materias;
 
-II. Establecer y promover los medios para la orientación y recepción de denuncias y peticiones, a efecto de facilitar su presentación;
+II. Aprobar los manuales de organización y funcionamiento del Órgano Interno de Control del Instituto y adscribir orgánicamente sus áreas administrativas, así como encomendarles funciones adicionales y que sean necesarias para el despacho de los asuntos de su competencia;
 
-III. Recibir y turnar a la Autoridad Investigadora las denuncias presentadas en contra de particulares y servidores públicos del Instituto y llevar su registro, así como de los procedimientos de imposición de sanciones administrativas a particulares y servidores públicos; de sanción a licitantes, proveedores o contratistas; de inconformidades, y de conciliaciones;
+III. Planear, dirigir y supervisar la gestión del Órgano Interno de Control en las materias de su competencia;
 
-IV. Dirigir y vigilar la atención de las solicitudes de información y datos personales requeridos al Órgano Interno de Control en materia de transparencia y acceso a la información pública;
+IV. Presentar a la Unidad Administrativa correspondiente, el Anteproyecto de Presupuesto para cubrir los recursos humanos, materiales y financieros para el adecuado funcionamiento del Órgano Interno de Control, para su aprobación por la Junta de Gobierno;
 
-V. Actualizar el Sistema de Denuncias Públicas de Faltas Administrativas y Hechos de Corrupción; el Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, y el Sistema nacional de servidores públicos y particulares sancionados de la Plataforma Digital Nacional;
+V. Coordinar la elaboración y actualización de la normatividad interna del Órgano Interno de Control para el adecuado ejercicio de facultades, así como expedir y publicar la misma en el medio de comunicación oficial correspondiente;
 
-VI. Instrumentar y operar el Registro de Licitantes, Proveedores y Contratistas Sancionados, que estará disponible en materia de transparencia y acceso a la información pública, así como, expedir constancias respectivas al referido registro;
+VI. Suscribir, en el ámbito de su competencia, los instrumentos jurídicos con los poderes Ejecutivo, Legislativo y Judicial, órganos constitucionales autónomos, gobiernos de las entidades federativas, municipios y alcaldías de la Ciudad de México, y el Tribunal Federal de Justicia Administrativa, organizaciones empresariales, la academia, organizaciones de otros países, organismos internacionales y no gubernamentales, previa revisión de la Coordinación General de Asuntos Jurídicos;
 
-VII. Coordinar que en los procedimientos administrativos se cumplan las disposiciones establecidas en la Ley General de Responsabilidades Administrativas; Normas en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Estadística y Geografía; Normas en Materia de Obras Públicas y Servicios Relacionados con las Mismas del Instituto Nacional de Estadística y Geografía; Ley del Sistema Nacional de Información Estadística y Geográfica, y demás disposiciones legales, reglamentarias y administrativas aplicables, y
+VII. Proponer a la Junta de Gobierno a los candidatos a ocupar como Titular las áreas de Denuncias, Investigaciones y Evolución Patrimonial; de Responsabilidades, y de Auditoría Interna; así como, designar y remover libremente a los Directores de área del Órgano Interno de Control en el Instituto;
 
-VIII. Las demás que le confiera el Titular del Órgano Interno de Control, o establezcan las disposiciones legales o administrativas, dentro del ámbito de su competencia.
+VIII. Coordinar la elaboración del Plan Anual de Trabajo del Órgano Interno de Control en el Instituto, su evaluación y aprobar el mismo;
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE CATORCE A TRECE FRACCIONES.</small>
+IX. Coordinar que las metas y objetivos del Órgano Interno de Control se cumplan y sean congruentes con sus atribuciones;
+
+X. Coordinar que los papeles de trabajo y expedientes, integrados en las áreas del Órgano Interno de Control, se apeguen a la normatividad correspondiente;
+
+XI. Coordinar la elaboración de los informes de gestión y reportes del Órgano Interno de Control;
+
+XII. Coordinar el programa de capacitación de los servidores públicos adscritos al Órgano Interno de Control, su supervisión y cumplimiento;
+
+XIII. Recibir denuncias por hechos probablemente constitutivos de faltas administrativas a cargo de los servidores públicos o de los particulares por conductas sancionables; investigar y calificar las faltas administrativas que detecte, así como llevar a cabo las acciones que procedan en términos de la Ley General de Responsabilidades Administrativas;
+
+XIV. Llevar el seguimiento de la evolución y verificación de la situación patrimonial de los Declarantes y verificar que las declaraciones sean integradas al sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, con facultades para solicitar información a las autoridades competentes, en términos del artículo 38 de la Ley General de Responsabilidades Administrativas;
+
+XV. Substanciar el procedimiento de responsabilidad administrativa e imponer las sanciones respectivas, cuando se trate de faltas administrativas no graves, así como remitir al Tribunal Federal de Justicia Administrativa los procedimientos de responsabilidad administrativa cuando se refieran a faltas administrativas graves y por conductas de particulares sancionables conforme a la Ley General de Responsabilidades Administrativas, para su resolución;
+
+XVI. Analizar y verificar aleatoriamente las declaraciones de situación patrimonial, de intereses y la constancia de presentación de declaración fiscal de los servidores públicos, y en caso de no existir anomalías, expedir la certificación correspondiente, o habiéndolas, iniciar la investigación que permita identificar la existencia de presuntas faltas administrativas;
+
+XVII. Programar, ordenar y realizar auditorías, revisiones y visitas de verificación al Instituto, y apoyar, verificar y evaluar las acciones que promuevan la mejora de su gestión y la correcta aplicación de los recursos y bienes del Instituto, en su caso determinar desviaciones o hallazgos, las causas de origen y promover ante las instancias correspondientes, las acciones administrativas o legales que de ello resulten.
+
+Las auditorías, revisiones y visitas de verificación a que se refiere esta fracción podrán realizarse por los propios titulares o por conducto de sus respectivas áreas de Denuncias, Investigaciones y Evolución Patrimonial, y Auditoría Interna o bien, en coordinación con otras instancias externas de fiscalización;
+
+XVIII. Dar seguimiento a las observaciones determinadas en las auditorías o visitas de verificación que practiquen las unidades administrativas competentes al Instituto en los casos en que así se determine;
+
+XIX. Conocer, investigar, substanciar y resolver los procedimientos de sanción a proveedores, licitantes o contratistas;
+
+XX. Emitir las resoluciones que procedan respecto de los recursos de revocación que interpongan los servidores públicos;
+
+XXI. Emitir las resoluciones que correspondan respecto de los recursos de revisión que se interpongan en contra de las resoluciones emitidas por el Titular del Área de Responsabilidades en los procedimientos de inconformidad, intervenciones de oficio y sanciones a licitantes, proveedores y contratistas previstos en las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas;
+
+XXII. Realizar la defensa jurídica de las resoluciones que emitan las Autoridades Investigadoras, Substanciadoras y Resolutoras del Órgano Interno de Control, ante las diversas instancias jurisdiccionales, llevar los registros de los asuntos de su competencia, así como expedir las copias certificadas de los documentos que se encuentren en sus archivos;
+
+XXIII. Coordinar los trabajos a desarrollar por el auditor externo;
+
+XXIV. Coadyuvar al funcionamiento del sistema de control interno del Instituto y la evaluación de la gestión gubernamental; vigilar el cumplimiento de las normas que en esas materias se expidan, la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos;
+
+XXV. Verificar que se dé cumplimiento a las políticas que establezca el Comité Coordinador del Sistema Nacional Anticorrupción, así como los requerimientos de información que en su caso soliciten los Entes Públicos, en el marco de dicho Sistema;
+
+XXVI. Coordinar la formulación de los proyectos de programas y presupuesto del Órgano Interno de Control y proponer las adecuaciones que requiera el correcto ejercicio del presupuesto;
+
+XXVII. Ejercer el presupuesto autorizado a la Unidad Administrativa a su cargo y adquirir con cargo al mismo, los bienes y servicios necesarios para el cumplimiento de sus funciones, de acuerdo a las disposiciones normativas aplicables;
+
+XXVIII. Suscribir los acuerdos, contratos o convenios, y sus modificaciones, que afecten el presupuesto de la Unidad Administrativa a su cargo y supervisar su cumplimiento, así como dictaminar sobre la terminación anticipada o rescisión de los mismos;
+
+XXIX. Administrar los recursos humanos de su adscripción de acuerdo con la normatividad vigente y proponer las modificaciones a su estructura orgánica, personal y/o recursos, para el despacho de los asuntos materia de su competencia, de conformidad con la disponibilidad presupuestaria;
+
+XXX. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, así como el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto;
+
+XXXI. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte o sea invitado, e intervenir en los actos que se deriven de los mismos;
+
+XXXII. Presentar denuncias por los hechos que las leyes señalen como delitos ante la Fiscalía Especializada en Combate a la Corrupción o, en su caso, ante la instancia competente, dando vista de la misma a la Coordinación General de Asuntos Jurídicos;
+
+XXXIII. Requerir a las Unidades Administrativas del Instituto, la información necesaria para cumplir con sus atribuciones y brindar la asesoría que se requiera en el ámbito de su competencia, así como atender las solicitudes de las diferentes Unidades Administrativas del Instituto en los asuntos de su competencia;
+
+XXXIV. Atender y, en su caso, proporcionar la información que le sea requerida por la Unidad de Transparencia del Instituto, en términos de las disposiciones jurídicas en materia de acceso a la información y de datos personales que genere, obtenga, adquiera, transforme o conserve por cualquier causa;
+
+XXXV. Llevar a cabo programas específicos tendientes a verificar el cumplimiento de las obligaciones a cargo de los servidores públicos del Instituto;
+
+XXXVI. Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir faltas administrativas, en los términos establecidos por el Sistema Nacional Anticorrupción;
+
+XXXVII. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos del Instituto, según corresponda en el ámbito de su competencia;
+
+XXXVIII. Proponer la implementación de las herramientas de planeación estratégica que contemplen la identificación y administración de riesgos para la entidad y el propio Órgano Interno de Control;
+
+XXXIX. Asistir como invitado a las sesiones de la Junta de Gobierno, con voz y sin voto, cuando la misma lo convoque;
+
+XL. Delegar cualquiera de sus facultades, con excepción de aquéllas que por disposición de ley o reglamentaria sean indelegables, a servidores públicos subalternos, sin perjuicio de su ejercicio directo, y
+
+XLI. Las demás que le confieran otras disposiciones jurídicas.
+
+Para el mejor desempeño de sus facultades, el Titular del Órgano Interno de Control se auxiliará de los titulares de las áreas de Denuncias, Investigaciones y Evolución Patrimonial, de Responsabilidades y de Auditoría Interna.
+
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 49.
 
-El Titular de Auditoría Interna tendrá las siguientes facultades:
+Los Titulares de las Áreas de Denuncias, Investigaciones y Evolución Patrimonial; Responsabilidades, y Auditoría Interna, del Órgano Interno de Control en el Instituto, tendrán sin perjuicio de las que corresponden al Titular del Órgano Interno de Control, las facultades siguientes:
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+I. El Titular del Área de Denuncias, Investigaciones y Evolución Patrimonial:
 
-I. Proponer al Titular del Órgano Interno de Control, las auditorías y visitas de inspección que deban integrarse al Programa Anual de Trabajo, así como los recursos necesarios para tal efecto;
+a) Recibir las denuncias que se formulen por posibles actos u omisiones que pudieran constituir faltas administrativas cometidas por servidores públicos o particulares por conductas sancionables, de conformidad con la Ley General de Responsabilidades Administrativas, incluidas las que deriven de los resultados de las auditorías practicadas por las autoridades competentes, o en su caso, de auditores externos;
 
-II. Ordenar la realización de auditorías y visitas de inspección a las Unidades Administrativas del Instituto y comisionar al personal que habrá de realizarlas, a efecto de:
+b) Practicar de oficio, por denuncia o derivado de auditorías realizadas por las autoridades competentes, las investigaciones por posibles actos u omisiones que pudieran constituir faltas administrativas por parte de los servidores públicos o de los particulares por conductas sancionables, en términos de la Ley General de Responsabilidades Administrativas;
 
-a) Verificar el logro eficiente, eficaz y económico de sus metas y objetivos; el cumplimiento de las disposiciones de la Ley, así como de la demás normatividad que le sea aplicable, y
+c) Citar, en términos de ley, a cualquier persona que pueda tener conocimiento de hechos relacionados con presuntas responsabilidades administrativas a fin de constatar la veracidad de los mismos, así como solicitarles que aporten, en su caso, elementos, datos o indicios que permitan advertir la presunta responsabilidad administrativa del servidor público o del particular por conductas sancionables en términos de la Ley General de Responsabilidades Administrativas;
 
-b) Verificar que la información contable y presupuestal del Instituto refleje en forma razonable su situación financiera conforme a los postulados básicos de contabilidad gubernamental y demás normas que le sean aplicables;
+d) Practicar las actuaciones y diligencias que se estimen procedentes, a fin de integrar debidamente los expedientes relacionados con las investigaciones que realice con motivo de actos u omisiones que pudieran constituir faltas administrativas, de conformidad con la Ley General de Responsabilidades Administrativas;
 
-III. Designar al Jefe de Grupo del personal comisionado que practicará la auditoría o visita de inspección de que se trate, quien ejercerá las facultades a que se refieren las fracciones IV y V de este artículo;
+e) Solicitar la información necesaria para el esclarecimiento de los hechos materia de la investigación en términos de la Ley General de Responsabilidades Administrativas, incluyendo aquélla que las disposiciones jurídicas en la materia consideren con carácter de reservada o confidencial, siempre que esté relacionada con la comisión de faltas administrativas a que se refiere la citada Ley, con la obligación de mantener la misma con reserva o secrecía, conforme a dichas disposiciones;
 
-IV. Requerir información y documentación a las Unidades Administrativas del Instituto que sean necesarias para el cumplimiento de sus facultades, así como, solicitar a proveedores y contratistas los datos e informes que requiera, en términos de las disposiciones legales y normativas aplicables;
+f) Ordenar la práctica de visitas de verificación, las cuales se sujetarán a lo previsto en la Ley Federal de Procedimiento Administrativo;
 
-V. Certificar copias de la documentación que se requiera agregar a los papeles de trabajo, de la que se tenga acceso con motivo de las auditorías y visitas de inspección que se practiquen;
+g) Formular requerimientos de información a particulares, que sean sujetos de investigación por haber cometido presuntas faltas administrativas, en términos de la Ley General de Responsabilidades Administrativas;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+h) Dictar los acuerdos que correspondan en los procedimientos de investigación que realice, incluido el de conclusión y archivo del expediente cuando así proceda, así como el Informe de Presunta Responsabilidad Administrativa para turnarlo a la Autoridad Substanciadora, en el que se incluirá la calificación de la Falta Administrativa;
 
-VI. Coordinar la elaboración y entrega del Informe preliminar de auditoría a las Unidades Administrativas auditadas, para dar a conocer los resultados y recomendaciones de las auditorías o visitas de inspección, a fin de que éstas emitan sus comentarios, previo a la emisión del informe final;
+i) Formular los requerimientos de información y demás actos necesarios para la atención de los asuntos en la materia, así como solicitar a las unidades administrativas del Instituto, entes públicos en los términos de la Ley General de Responsabilidades Administrativas y a cualquier persona física o moral, la información que se requiera para el esclarecimiento de los hechos;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+j) Asesorar, gestionar, promover y dar seguimiento a las peticiones sobre los trámites y servicios que presenten los servidores públicos del Instituto o la ciudadanía en general, y recomendar al Instituto la implementación de mejoras cuando así proceda;
 
-VII. Verificar y promover que las Unidades Administrativas responsables en el Instituto, cumplan las recomendaciones a que hace referencia la fracción VI de este artículo, las de la Auditoría Superior de la Federación y las del Auditor Externo;
+k) Llevar los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que se encuentren en sus archivos;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+l) Promover los recursos que como Autoridad Investigadora le otorga la Ley General de Responsabilidades Administrativas y demás disposiciones jurídicas aplicables;
 
-VIII. Integrar los expedientes de presuntas responsabilidades de los servidores públicos del Instituto, detectadas en las auditorías o visitas de inspección y remitirlos a la Autoridad Investigadora para los efectos de su competencia;
+m) Imponer las medidas de apremio que establece la Ley General de Responsabilidades Administrativas para las Autoridades Investigadoras para hacer cumplir sus determinaciones, y solicitar las medidas cautelares que se estimen necesarias para la mejor conducción de sus investigaciones;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+n) Formular denuncias ante el Ministerio Público, cuando de sus investigaciones advierta la presunta comisión de delitos y coadyuvar en el procedimiento penal respectivo cuando exista enriquecimiento inexplicable de servidores públicos;
 
-IX. Emitir los dictámenes técnicos y contables que soliciten las autoridades competentes;
+o) Llevar el seguimiento de la evolución y verificación de la situación patrimonial de los servidores públicos obligados del Instituto y verificar que las declaraciones sean integradas al sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal que para tales efectos se determine;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+p) Realizar la verificación aleatoria de las declaraciones de situación patrimonial, de intereses y la constancia de presentación de declaración fiscal de los servidores públicos, así como de su evolución patrimonial, emitiendo en su caso la certificación correspondiente por no detectarse anomalía o iniciar la investigación respectiva, en caso de detectarlas;
 
-X. Supervisar los avances de las auditorías que practique el auditor externo, verificar su conclusión y la entrega de los informes respectivos;
+q) Solicitar a los Declarantes la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+r) Proponer al Titular del Órgano Interno de Control las actividades que en el ámbito de su competencia se deban integrar al Plan Anual de Trabajo del Órgano Interno de Control y su evaluación;
 
-XI. Coordinar la participación del personal del Órgano Interno de Control en los actos de entrega-recepción de los servidores públicos del Instituto, para verificar que se cumpla con la normatividad aplicable;
+s) Designar auxiliares para la atención, instrucción y substanciación de todos los asuntos y procedimientos a su cargo, y
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+t) Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende el Titular del Órgano Interno de Control.
 
-XII. Llevar los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que obren en sus archivos, y
+II. El Titular del Área de Responsabilidades:
 
-> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2016)</small>
+a) Dirigir y substanciar los procedimientos de responsabilidades administrativas a partir de la recepción del Informe de Presunta Responsabilidad Administrativa y sancionar las conductas que constituyan faltas administrativas no graves;
 
-XIII. Verificar que los indicadores de desempeño y las metas de las Unidades Administrativas sean congruentes con el Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica; el Programa Nacional de Estadística y Geografía, y el Programa Anual de Trabajo del Instituto, sugiriendo, en su caso, las adecuaciones necesarias a dichos indicadores y metas;
+b) Ordenar el emplazamiento del presunto responsable de una Falta Administrativa para que comparezca a la celebración de la audiencia inicial, citando a las demás partes, en términos de la Ley General de Responsabilidades Administrativas;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+c) Emitir los acuerdos y resoluciones correspondientes en los procedimientos de responsabilidad administrativa que hayan substanciado, incluido el envío de los autos originales de los expedientes de responsabilidad administrativa al Tribunal Federal de Justicia Administrativa para su resolución, cuando dichos procedimientos se refieran a faltas administrativas graves y de particulares por conductas sancionables en términos de la Ley General de Responsabilidades Administrativas;
 
-XIV. Asistir con la representación del Órgano Interno de Control en comités y subcomités institucionales, así como en los procesos de adquisición o arrendamiento de bienes y contratación de servicios, de obras públicas, baja y destino final de bienes;
+d) Formular requerimientos, llevar a cabo los actos necesarios para la atención de los asuntos en materia de responsabilidades, así como solicitar a los entes públicos en los términos de la Ley General de Responsabilidades Administrativas la información que se requiera para el cumplimiento de sus facultades;
 
-XV. (DEROGADA, D.O.F. 29 DE SEPTIEMBRE DE 2017).
+e) Recibir y dar trámite a las impugnaciones presentadas a través de los recursos de inconformidad o reclamación en los términos previsto (sic) en la Ley General de Responsabilidades Administrativas;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+f) Imponer los medios de apremio establecidos en la Ley General de Responsabilidades Administrativas, para hacer cumplir sus determinaciones;
 
-XVI. Las demás que le confiera el Titular del Órgano Interno de Control, o establezcan las disposiciones legales y administrativas, dentro del ámbito de su competencia.
+g) Imponer las medidas cautelares a que se refiere la Ley General de Responsabilidades Administrativas;
 
-> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+h) Llevar los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que se encuentren en sus archivos, así como las constancias de no inhabilitación y de no sanción respecto a los servidores públicos que laboren o hayan laborado en el Instituto;
+
+i) Dictar las resoluciones en los recursos de revocación interpuestos por los servidores públicos respecto de la imposición de sanciones administrativas;
+
+j) Realizar ante las diversas instancias jurisdiccionales la defensa jurídica de las resoluciones que emita la Autoridad Resolutora; interponer el recurso de revisión previsto en el artículo 63 de la Ley Federal de Procedimiento Contencioso Administrativo; y representar legalmente al Órgano Interno de Control en los procedimientos administrativos y jurisdiccionales en que éste sea parte;
+
+k) Recibir, instruir y resolver las inconformidades interpuestas por los actos que contravengan las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas.
+
+Iniciar, instruir y resolver el procedimiento de intervenciones de oficio, si así lo considera conveniente por presumir la inobservancia de las disposiciones en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas;
+
+l) Tramitar, instruir y resolver los procedimientos administrativos de sanción a personas físicas o morales por infracciones a las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas y demás disposiciones en materia de contrataciones públicas, e imponer las sanciones correspondientes;
+
+m) Registrar y mantener actualizado el Sistema de Proveedores y Contratistas Sancionados, sobre los asuntos a su cargo;
+
+n) Tramitar los procedimientos de conciliación en materia de adquisiciones, arrendamientos, servicios y obras públicas y servicios relacionados con las mismas, que deriven de las solicitudes de conciliación que presenten los proveedores o contratistas por incumplimiento a los contratos o pedidos celebrados con el Instituto.
+
+Para efectos de lo anterior, podrán emitir todo tipo de acuerdos, así como presidir y conducir las sesiones de conciliación y llevar a cabo las diligencias, requerimientos, citaciones, notificaciones y prevenciones a que haya lugar;
+
+o) Instruir los recursos de revisión que se hagan valer en contra de las resoluciones de inconformidades e intervenciones de oficio, así como en contra de las resoluciones por las que se impongan sanciones a los licitantes, proveedores y contratistas en los términos de las Normas en materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Estadística y Geografía y las Normas en materia de Obras públicas y Servicios relacionados con las mismas del Instituto Nacional de Estadística y Geografía y demás normatividad aplicable en la materia, y someterlos a la resolución del Titular del Órgano Interno de Control, y
+
+p) Proponer al Titular del Órgano Interno de Control las actividades que en el ámbito de su competencia se deban integrar al Plan Anual de Trabajo del Órgano Interno de Control y su evaluación;
+
+q) Designar auxiliares para la atención, instrucción y substanciación de todos los asuntos y procedimientos a su cargo, y
+
+r) Las demás que le confieran otras disposiciones jurídicas y aquellas funciones que le encomiende el Titular del Órgano Interno de Control.
+
+III. El Titular del Área de Auditoría Interna:
+
+a) Elaborar y modificar cuando se justifique el Plan Anual de Auditorías, a ejecutar en el Instituto;
+
+b) Ordenar y realizar, por sí o en coordinación con otras instancias externas de fiscalización, las auditorías y visitas de verificación contempladas en el Plan Anual de Auditoría y aquellas que instruya el Titular del Órgano Interno de Control para determinar si el Instituto, cumple con la (sic) normas, programas y metas establecidos e informar los resultados al Presidente del Instituto y a los titulares de las áreas auditadas, además de proponer las medidas preventivas y correctivas para su solventación;
+
+c) Vigilar la aplicación oportuna de las medidas correctivas y recomendaciones derivadas de las auditorías o revisiones practicadas, por sí o por las diferentes instancias externas de fiscalización, hasta su total solventación o, en su caso, remitir, por si, o a través del Titular del Órgano Interno de Control, los resultados al Área de Denuncias, Investigaciones y Evolución Patrimonial para el inicio del procedimiento respectivo.
+
+d) Requerir a las unidades administrativas del Instituto la información, documentación y su colaboración para el cumplimiento de sus atribuciones;
+
+e) Proponer al Titular del Órgano Interno de Control las actividades que en el ámbito de su competencia se deban incorporar al Plan Anual de Trabajo del Órgano Interno de Control y su evaluación;
+
+f) Llevar los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que se encuentren en sus archivos;
+
+g) Intervenir en los actos de entrega recepción que le sean asignados conforme a las facultades previstas en el marco legal y reglamentario aplicable;
+
+h) Designar auxiliares para la atención, instrucción y substanciación de todos los asuntos y procedimientos a su cargo, y
+
+i) Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende el Titular del Órgano Interno de Control.
+
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 50.
 
-La Autoridad Investigadora tendrá las siguientes facultades:
-
-I. Practicar investigaciones sobre hechos irregulares, integrar los correspondientes expedientes conforme a la Ley General de Responsabilidades Administrativas e informar, en su caso, al denunciante, a los servidores públicos y particulares sujetos a investigación, el acuerdo de conclusión y archivo del expediente;
-
-II. Solicitar información y efectuar visitas de verificación a las áreas y Unidades Administrativas del Instituto, así como a los particulares sujetos a investigación por presuntas irregularidades o a cualquier persona física o moral con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
-
-III. Efectuar el seguimiento de la evolución patrimonial mediante una verificación aleatoria de las declaraciones patrimoniales de los servidores públicos del Instituto; realizar las investigaciones o solicitar las auditorías correspondientes; requerir al servidor público las aclaraciones pertinentes, y en caso de encontrar elementos que presuman la existencia de alguna irregularidad administrativa iniciar la investigación correspondiente y formular, en su caso, denuncia al Ministerio Público cuando el sujeto a la verificación de la evolución de su patrimonio no justifique la procedencia lícita del incremento notoriamente desproporcionado de éste.
-
-Expedir las certificaciones a que se refiere el artículo 30 de la Ley General de Responsabilidades Administrativas;
-
-IV. Ordenar, de oficio o derivado de auditorías, la práctica de investigaciones respecto de la conducta de servidores públicos del Instituto o particulares, que pueda implicar inobservancia de las obligaciones previstas por la Ley General de Responsabilidades Administrativas;
-
-V. Celebrar convenios de colaboración con las autoridades correspondientes, para solicitar información en materia fiscal, bursátil, fiduciario o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios;
-
-VI. Solicitar a la Autoridad Substanciadora y Resolutora decrete las medidas cautelares a que hace referencia la Ley General de Responsabilidades Administrativas;
-
-VII. Determinar la existencia o inexistencia de actos u omisiones que la Ley General de Responsabilidades Administrativas señale como falta administrativa y, en su caso, calificarla como grave o no grave.
-
-Elaborar el informe de presunta responsabilidad administrativa en términos del artículo 194 de la Ley General de Responsabilidades Administrativas;
-
-VIII. Rendir informe justificado a la Sala Especializada en materia de Responsabilidades Administrativas que corresponda, respecto del recurso de inconformidad promovido por el Denunciante por la calificación de la gravedad en la conducta;
-
-IX. Impugnar la abstención de iniciar el procedimiento de responsabilidad administrativa o de imponer sanciones administrativas a un servidor público, por parte de la Autoridad Substanciadora y Resolutora;
-
-X. Expedir las copias certificadas de los documentos que obren en sus archivos;
-
-XI. Designar auxiliares para la atención, instrucción y substanciación de todos los asuntos y procedimientos a su cargo, y
-
-XII. Las demás que le confiera el Titular del Órgano Interno de Control, o establezcan las disposiciones legales y administrativas, dentro del ámbito de su competencia.
-
-> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+Los Titulares de las Áreas de Denuncias, Investigaciones y Evolución Patrimonial y Auditoría contarán con el auxilio del Titular de la Dirección de Investigaciones y Auditoría, quien tendrá las facultades señaladas en la fracción I y III del artículo 49 del presente ordenamiento con competencia en las circunscripciones territoriales de la Ciudad de México, Estado de México, Hidalgo, Morelos, Puebla, Querétaro, Tlaxcala y Veracruz.
 
 ###### ARTICULO 50 Bis.
 
-La Autoridad Substanciadora y Resolutora tendrá las siguientes facultades:
-
-I. Pronunciarse sobre la admisión del informe de presunta responsabilidad administrativa, o prevenir a la Autoridad Investigadora, para que subsane las omisiones que advierta, o que aclare los hechos narrados en el informe;
-
-II. Decretar las medidas cautelares a que hace referencia la Ley General de Responsabilidades Administrativas;
-
-III. Rendir informe justificado a la Sala Especializada en materia de Responsabilidades Administrativas que corresponda, respecto del recurso de inconformidad promovido por la Autoridad Investigadora o por el denunciante, por la abstención de iniciar un procedimiento de responsabilidad administrativa o imponer sanciones;
-
-Recibir el recurso de reclamación, correr traslado a las partes y dar cuenta a la Sala mencionada en el párrafo que antecede, para su resolución;
-
-IV. Emplazar y citar al presunto responsable a la audiencia inicial a que hacen referencia los artículos 208 y 209 de la Ley General de Responsabilidades Administrativas e instaurar el procedimiento a que se refiere el Capítulo II, del Título Segundo, del Libro Segundo de ese Ordenamiento Legal;
-
-V. Fincar responsabilidades por infracciones imputables a los servidores públicos del Instituto e imponer las sanciones a que haya lugar, con fundamento en lo establecido por los artículos 104, 105, 108, 109, 110 y 112 de la Ley, conforme a las disposiciones administrativas aplicables; o en lo dispuesto en los artículos 75 y 76 de la Ley General de Responsabilidades Administrativas;
-
-VI. Tramitar y resolver, en los términos de las Normas en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Estadística y Geografía; Normas en Materia de Obras Públicas y Servicios Relacionados con las Mismas del Instituto Nacional de Estadística y Geografía; y demás disposiciones legales, reglamentarias y administrativas aplicables, los procedimientos de conciliación y los de sanción a licitantes, proveedores o contratistas previstos en dichos ordenamientos legales;
-
-VII. Tramitar el recurso de revocación previsto en la Ley General de Responsabilidades Administrativas, que interpongan los servidores públicos sancionados del Instituto;
-
-VIII. Tramitar y resolver, en los términos de las Normas en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Estadística y Geografía; de las Normas en Materia de Obras Públicas y Servicios Relacionados con las Mismas del Instituto Nacional de Estadística y Geografía; y demás disposiciones legales, reglamentarias y administrativas aplicables, las inconformidades que formulen los particulares, así como, substanciar las intervenciones de oficio previstas en dichos ordenamientos legales;
-
-IX. Instruir los recursos de revisión que se interpongan en contra de las resoluciones que se emitan en las inconformidades y someter los proyectos de resolución a la consideración del Titular del Órgano Interno de Control;
-
-X. Realizar ante las diversas instancias jurisdiccionales la defensa jurídica de las resoluciones que emita la Autoridad Substanciadora y Resolutora; interponer el recurso de revisión previsto en el artículo 63 de la Ley Federal de Procedimiento Contencioso Administrativo; y representar legalmente al Órgano Interno de Control en los procedimientos administrativos y jurisdiccionales en que éste sea parte;
-
-XI. Expedir las copias certificadas de los documentos que obren en sus archivos;
-
-XII. Designar auxiliares para la atención, instrucción y substanciación de todos los asuntos y procedimientos a su cargo, y
-
-XIII. Las demás que le confiera el Titular del Órgano Interno de Control, o establezcan las disposiciones legales y administrativas, dentro del ámbito de su competencia.
+(DEROGADO, D.O.F. 25 DE JULIO DE 2019)
 
 ###### ARTICULO 51.
 
@@ -3475,9 +3499,11 @@ Las ausencias de los Jefes de Departamento y Enlaces, serán suplidas por el ser
 
 ###### ARTICULO 54.
 
-Las ausencias del Titular del Órgano Interno de Control, serán suplidas por el Coordinador de Denuncias y Responsabilidades y por el Titular de Auditoría Interna, en ese orden, o por los servidores públicos que designe.
+Las ausencias del Titular del Órgano Interno de Control serán suplidas por el Titular del Área de Denuncias, Investigaciones y Evolución Patrimonial, por el Titular del Área de Auditoría Interna y por el Titular del Área de Responsabilidades, todos ellos del Órgano Interno de Control en el Instituto, en ese orden.
 
-Las ausencias del Coordinador de Denuncias y Responsabilidades serán suplidas por las Autoridades Substanciadora y Resolutora y la Investigadora, y las del Titular de Auditoría Interna, por el Director de Auditoría Interna A y el Director de Auditoría Interna B, en ese orden; en ambos casos, por los servidores públicos que designe el Titular del Órgano Interno de Control.
+> <small>(REFORMADO, D.O.F. 25 DE JULIO DE 2019)</small>
+
+Las ausencias de los Titulares de las Áreas de Denuncias, Investigaciones y Evolución Patrimonial; de Auditoría Interna, y de Responsabilidades del Órgano Interno de Control en el Instituto, serán suplidas por el servidor público adscrito a su área que éstos designen, los cuales no podrán ostentar un nivel jerárquico inferior al de director de área.
 
 Las ausencias de las Autoridades Substanciadora y Resolutora e Investigadora serán suplidas por los servidores públicos que designe el Titular del Órgano Interno de Control.
 
@@ -3602,3 +3628,13 @@ D.O.F. 25 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE APRUEBA LA REFORMA AL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA”.]
 
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE APRUEBA LA REFORMA AL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día 1 de agosto de 2019.
+
+SEGUNDO.- Para efectos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos se entenderá que las Autoridades Investigadoras, serán las competentes para llevar a cabo investigaciones debidamente motivadas respecto de las conductas de los servidores públicos que puedan constituir responsabilidades administrativas por los hechos realizados durante su vigencia; asimismo las Autoridades Substanciadoras y Resolutoras, serán las competentes para tramitar, substanciar y resolver los procedimientos administrativos de responsabilidades de los servidores públicos del Instituto, e imponer las sanciones correspondientes.
+
+TERCERO.- La Dirección General de Administración deberá realizar las gestiones necesarias para realizar la adecuación de la estructura ocupacional conforme a las reformas aprobadas.
