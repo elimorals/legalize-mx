@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-696-de-la-comision-de-los-derechos-humanos-del-10726
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-20"
-last_updated: "2017-12-01"
+last_updated: "2019-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 696 DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 20 de marzo de 2015.
 
@@ -236,6 +236,10 @@ II. Un Consejo Consultivo;
 III. Un Secretario Técnico;
 
 IV. Los Visitadores Generales especializados por materia;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2019)</small>
+
+V. Un órgano Interno de Control.
 
 Demás personal profesional, técnico y administrativo necesario para el adecuado cumplimiento de sus funciones.
 
@@ -793,9 +797,113 @@ VII. Aceptar la injerencia de los partidos políticos en el ejercicio de sus fun
 
 Asimismo, podrán ser removidos por violaciones a la Constitución Política Federal, leyes federales, conforme a los procedimientos previstos en el Título Décimo Tercero de la Constitución Política del Estado y demás leyes locales aplicables.
 
-### CAPITULO VI. DEL PROCEDIMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. DEL ANÁLISIS SE ADVIERTE QUE DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO. 230, SE ADICIONARON AL PRESENTE CAPÍTULO LOS ARTÍCULOS DEL 63 BIS AL 63 NONIES], P.O. 26 DE JULIO DE 2019)</small>
 
-### CAPITULO VII. DE LA DESAPARICIÓN FORZADA DE PERSONAS
+### CAPITULO VI. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2019)</small>
+
+ARTÍCULO 63 BIS. El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Comisión y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado de Guerrero; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía de Combate a la Corrupción del Estado de Guerrero.
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2019)</small>
+
+ARTÍCULO 63 TER.- El Órgano Interno de Control tendrá las siguientes atribuciones:
+
+I. Las que contempla la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero;
+
+II. Verificar que el ejercicio de gasto de la Comisión se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
+
+III. Presentar a la Comisión los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los bienes y recursos de la Comisión;
+
+IV. Revisar que las operaciones presupuestales que realice la Comisión, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
+V. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+VI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Comisión;
+
+VII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine;
+
+VIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos de la Comisión, empleando la metodología que determine;
+
+IX. Recibir quejas y denuncias conforme a las leyes aplicables;
+
+X. Solicitar la información y efectuar visitas a las áreas y órganos de la Comisión para el cumplimento de sus funciones;
+
+XI. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en términos de la Ley Número 230 de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Guerrero y la Ley de Obras Públicas y sus Servicios del Estado de Guerrero Número 266 y sus Reglamentos;
+
+XII. Intervenir en los actos de entrega-recepción de los servidores públicos de la Comisión de mandos medios y superiores, en los términos de la normativa aplicable;
+
+XIII. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
+
+XIV. Atender las solicitudes de los diferentes órganos de la Comisión en los asuntos de su competencia;
+
+XV. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
+
+XVI. Formular el anteproyecto de presupuesto del Órgano Interno de Control;
+
+XVII. Presentar a la Comisión los informes previo y anual de resultados de su gestión, y comparecer ante la misma, cuando así lo requiera el Presidente;
+
+XVIII. Presentar a la Comisión los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas, y
+
+XIX. Las demás que le confieran otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2019)</small>
+
+ARTÍCULO 63 QUÁTER. El Titular del Órgano Interno de Control será designado por las dos terceras partes de los miembros presentes del Congreso del Estado, conforme al procedimiento establecido en la Ley Orgánica del Poder Legislativo del Estado de Guerrero, Número 231.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2019)</small>
+
+ARTÍCULO 63 QUINQUIES. El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos el día de la designación;
+
+II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
+III. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
+
+IV. Tener al día de su designación, una antigüedad mínima de cinco años, con título profesional relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
+
+V. Contar con reconocida capacidad moral;
+
+VI. No pertenecer o haber pertenecido en los cinco años anteriores a su designación, a despachos de consultoría o auditoría que haya prestado sus servicios a la Comisión o haber fungido como consultor o auditor externo de la misma, en lo individual durante ese periodo;
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VIII. No haber sido Secretario de Estado, Fiscal General del Estado, Titular de las áreas encargadas de las finanzas y administración de las secretarías, dependencias y entidades, Diputado Local, Gobernador de Estado, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2019)</small>
+
+ARTÍCULO 63 SEXIES. La Comisión deberá poner en conocimiento de las autoridades superiores competentes, los actos u omisiones en que incurran autoridades y servidores públicos, durante y con motivo de las investigaciones que realiza dicha Comisión, para efectos de la aplicación de las sanciones administrativas que deban imponerse. La autoridad superior deberá informar a la Comisión sobre las medidas o sanciones disciplinarias impuestas.
+
+La Comisión solicitará al Órgano Interno de Control correspondiente, en cualquier caso, el inicio del procedimiento de responsabilidades que de conformidad con lo previsto en la Ley Número 465 de Responsabilidades Administrativas del Estado de Guerrero deba instruirse en contra del servidor público respectivo.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2019)</small>
+
+ARTÍCULO 63 SEPTIES.- El titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Poder Legislativo del Estado de Guerrero, Número 231.
+
+Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica de la Comisión, y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado a que se refieren los artículos 150, 151, 152, 153 de la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+El titular del Órgano Interno de Control deberá rendir informe semestral y anual de actividades a la Comisión, del cual marcará copia al Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2019)</small>
+
+ARTÍCULO 63 OCTIES.- El titular del Órgano Interno de Control de la Comisión será sujeto de responsabilidad en términos de la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero; y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
+
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control de la Comisión serán sancionados por el titular del Órgano Interno de Control, o el servidor público en quien delegue la facultad, en términos de la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2019)</small>
+
+ARTÍCULO 63 NONIES.- El Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos de la Comisión, de conformidad con la Ley Número 464 del Sistema Estatal Anticorrupción y la Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero.
+
+El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO EN SU NUMERACIÓN CON ARTÍCULOS 64 A 103, ANTES CAPÍTULO VI], P.O. 26 DE JULIO DE 2019)</small>
+
+### CAPITULO VII. DEL PROCEDIMIENTO
 
 #### SECCIÓN PRIMERA. GENERALIDADES
 
@@ -1011,7 +1119,9 @@ Una vez aceptadas las medidas a que se refiere este capítulo, las autoridades o
 
 En contra de las resoluciones definitivas o de los informes definitivos de las autoridades sobre el cumplimiento de las recomendaciones; así como por omisiones o inacción de la Comisión, los quejosos pueden interponer los recursos de impugnación o de queja, que se sustancian ante la Comisión Nacional de los Derechos Humanos en los términos de su ley y reglamento interno.
 
-### CAPITULO VIII. DE LA VIGILANCIA DE LAS CORPORACIONES POLICIALES
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO EN SU NUMERACIÓN CON ARTÍCULOS 104 AL 111, ANTES CAPÍTULO VII], P.O. 26 DE JULIO DE 2019)</small>
+
+### CAPÍTULO VIII. DE LA DESAPARICIÓN FORZADA DE PERSONAS
 
 #### SECCIÓN PRIMERA. DE SU DEFINICIÓN Y LEGITIMACIÓN
 
@@ -1085,7 +1195,9 @@ Si además, hubiere elementos para identificar a los presuntos responsables de l
 
 Las acciones, trámites, acuerdos y resoluciones que la Comisión y el Visitador General tomen y realicen en esta materia, no tendrán efectos jurídicos sobre las determinaciones que realice el Ministerio Público en la averiguación previa, o las resoluciones que el órgano jurisdiccional competente en su caso emita; ni sobre declaraciones de ausencia o presunción de muerte, pues no tendrán más valor que las de meras probanzas, mismas que las leyes penales o civiles les otorguen y quedarán a la valoración de la autoridad administrativa o jurisdiccional que conozca del asunto.
 
-### CAPITULO IX. DEL RECURSO EXTRAORDINARIO DE EXHIBICIÓN DE PERSONAS
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO EN SU NUMERACIÓN CON ARTÍCULOS 112 AL 118, ANTES CAPÍTULO VIII], P.O. 26 DE JULIO DE 2019)</small>
+
+### CAPITULO IX. DE LA VIGILANCIA DE LAS CORPORACIONES POLICIALES
 
 ###### ARTÍCULO 112.
 
@@ -1126,6 +1238,10 @@ El Poder Ejecutivo dispondrá la creación y operación del Sistema Estatal del 
 ###### ARTÍCULO 118.
 
 A ninguna persona podrá incorporarse al servicio policial del estado, sin la previa consulta y aprobación de este sistema.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO EN SU NUMERACIÓN, ANTES CAPÍTULO IX], P.O. 26 DE JULIO DE 2019)</small>
+
+### CAPITULO X. DEL RECURSO EXTRAORDINARIO DE EXHIBICIÓN DE PERSONAS
 
 #### SECCIÓN ÚNICA. DEL OBJETO Y PROCEDIMIENTO
 
@@ -1268,3 +1384,17 @@ PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicaci�
 SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales conducentes
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero y en la página Web de este Honorable Congreso para el conocimiento.
+
+P.O. 26 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 230 POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO SEXTO, SÉPTIMO, OCTAVO Y NOVENO Y SE ADICIONAN UNA FRACCIÓN V AL ARTÍCULO 18, LOS ARTÍCULOS 63 BIS AL 63 NONIES AL CAPÍTULLO VI Y EL CAPÍTULO X DEL RECURSO EXTRAORDINARIO DE EXHIBICIÓN DE PERSONAS DE LA LEY NÚMERO 696 DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El Congreso del Estado de Guerrero, dentro de los 180 días naturales siguientes a la publicación de este Decreto, iniciará el proceso de designación del titular del Órgano Interno de Control de la Comisión de los Derechos Humanos del Estado de Guerrero.
+
+TERCERO. La Comisión de los Derechos Humanos del Estado de Guerrero tendrá un plazo de ciento ochenta días naturales, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
+
+CUARTO. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a la Contraloría Interna de la Comisión, se entenderán asignados al Órgano Interno de Control a que se refiere el presente Decreto.
+
+QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
