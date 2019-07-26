@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2019-05-10"
+last_updated: "2019-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JULIO DE 2019.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -7077,6 +7077,8 @@ DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al ini
 
 > <small>[N. DE E. VÉASE ANEXO 4.1 DOCUMENTOS Y MATERIALES ELECTORALES, EN LA QUINTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 27 A LA 96.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 4.1 EN EL D.O.F. DE 26 DE JULIO DE 2019, PÁGINA 163.]</small>
+
 > <small>[N. DE E. VÉASE ANEXO 4.2 PROCEDIMIENTO DE VERIFICACIÓN DE LAS MEDIDAS DE SEGURIDAD EN LA DOCUMENTACIÓN ELECTORAL Y EL LÍQUIDO INDELEBLE, EN LA QUINTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 97 A LA 98.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 5 BITÁCORA DE APERTURA DE BODEGAS ELECTORALES Y PROCEDIMIENTO PARA EL CONTEO, SELLADO Y AGRUPAMIENTO DE BOLETAS ELECTORALES, EN LA QUINTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 99 A LA 106.]</small>
@@ -7954,5 +7956,145 @@ Página DOF:
 www.dof.gob.mx/2019/INE/CF_005_2019.pdf
 
 Ciudad de México, 26 de marzo de 2019.- El Encargado del Despacho de la Unidad Técnica de Fiscalización, Carlos Alberto Morales Domínguez.- Rúbrica.
+
+D.O.F. 26 DE JULIO DE 2019.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL "EXTRACTO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APROBÓ MODIFICAR EL ANEXO 4.1 APARTADO 5 DENOMINADO CRITERIOS DE DOTACIÓN DE DOCUMENTOS ELECTORALES DEL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL", QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Primero. Se aprueba con fundamento en el artículo 443, párrafo primero del RE modificar el anexo 4.1 apartado 5 denominado "criterios de dotación de documentos electorales" del RE, respecto a los supuestos, la cantidad y el criterio de distribución de la boleta en cada elección, en los siguientes términos:
+
+DOCUMENTO CANTIDAD CRITERIO DE
+
+DISTRIBUCIÓN
+
+1 Boleta de cada
+
+elección 1 Por cada elector registrado
+
+en el listado nominal de
+
+las casillas básicas,
+
+contiguas y extraordinarias
+
+(en entidades con
+
+elecciones federales,
+
+elecciones locales y
+
+elecciones concurrentes).
+
+4 Por cada partido político
+
+con registro nacional,
+
+en casillas básicas,
+
+contiguas, extraordinarias
+
+y especiales (en entidades
+
+con elecciones concurrentes).
+
+2 Por cada partido político
+
+con registro nacional,
+
+en casillas básicas,
+
+contiguas, extraordinarias
+
+y especiales (en
+
+entidades con
+
+elecciones únicamente
+
+federales o locales).
+
+750 Por cada Casilla Especial
+
+(en entidades con
+
+elecciones federales,
+
+elecciones locales y
+
+elecciones concurrentes).
+
+2 Por candidatura
+
+independiente aprobada
+
+para elecciones federales,
+
+en casillas básicas,
+
+contiguas, extraordinarias
+
+y especiales del ámbito
+
+geográfico del cargo
+
+por el que contienda
+
+(en entidades
+
+donde haya elecciones
+
+concurrentes o
+
+únicamente federales).
+
+2 Por candidatura
+
+independiente aprobada
+
+para elecciones locales,
+
+en casillas básicas,
+
+contiguas, extraordinarias
+
+y especiales, del ámbito
+
+geográfico del cargo
+
+por el que contienda,
+
+(ya sea estatal, distrital
+
+o municipal) en entidades
+
+con elecciones
+
+concurrentes o locales.
+
+2 Por cada partido político
+
+con registro local,
+
+en casillas básicas,
+
+contiguas, extraordinarias
+
+y especiales, (en
+
+entidades con
+
+elecciones concurrentes
+
+o locales).
+
+(.)
+
+El Acuerdo podrá consultarse de manera íntegra en la siguiente dirección electrónica:
+
+Página INE:
+
+https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/106769/CGex201903-21-ap-15.pdf
+
+Página DOF: www.dof.gob.mx/2019/INE/CGex201903_21_ap_15.pdf
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
