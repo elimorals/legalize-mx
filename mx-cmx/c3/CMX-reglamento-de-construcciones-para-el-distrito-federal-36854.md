@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-construcciones-para-el-distrito-federal-36854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-29"
-last_updated: "2019-04-02"
+last_updated: "2019-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36854&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-27"
 
 REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 26 DE JULIO DE 2019.
 
 Reglamento publicado en el Número Ter de la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
@@ -1848,11 +1848,15 @@ I. La Administración otorgará la autorización de uso y ocupación, para lo cu
 
 II. La Administración autorizará diferencias en la obra ejecutada con respecto al proyecto presentado, siempre que no se afecten las condiciones de seguridad, estabilidad, destino, uso, servicio, habitabilidad e higiene, se respeten las restricciones indicadas en el certificado único de zonificación de uso de suelo, la constancia de alineamiento y las características de la manifestación de construcción registrada o de la licencia de construcción especial respectiva, y las tolerancias que fijan este Reglamento y sus Normas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 71.
 
-Para las construcciones del grupo A y subgrupo B1, a las que se refiere el artículo 139 de este Reglamento, se debe registrar ante la Administración una Constancia de Seguridad Estructural, renovada cada cinco años o después de un sismo cuando la misma lo determine, en la que un Corresponsable en Seguridad Estructural haga constar que dicha construcción se encuentra en condiciones adecuadas de seguridad, de acuerdo con las disposiciones de este Reglamento y sus Normas.
+Para las construcciones del Grupo A y subgrupo B1, a las que se refiere el artículo 139 de este Reglamento, se debe registrar ante la Alcaldía correspondiente la Constancia de Seguridad Estructural, renovada cada cinco años, en la que un Corresponsable en Seguridad Estructural haga constar que dicha construcción se encuentra en condiciones adecuadas de seguridad, de acuerdo con las disposiciones de este Reglamento y sus Normas.
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2019)</small>
+
+En caso de ocurrir un sismo de magnitud importante se deberá iniciar el procedimiento de revisión de seguridad estructural en los planteles educativos de cualquier nivel en términos de lo establecido en el artículo 177 BIS de este Reglamento y conforme a los Lineamientos que para tal efecto sean publicados en la Gaceta Oficial de la Ciudad de México.
 
 Si la constancia del Corresponsable determina que la construcción no cumple con las condiciones de seguridad, ésta debe reforzarse o modificarse para satisfacerlas.
 
@@ -2736,9 +2740,7 @@ II. Que existan defectos en la calidad de los materiales y en la ejecución de l
 
 III. Que el sistema estructural no sea idóneo para resistir fuerzas sísmicas o presente excesivas asimetrías, discontinuidades e irregularidades en planta o elevación que pudieran ser perjudiciales;
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
-
-IV. Que se trate de una escuela de educación inicial, preescolar, primaria, media, media superior, o superior, después de un sismo, cuando así lo determine la Administración.
+IV. (DEROGADA, G.O. 26 DE JULIO DE 2019)
 
 > <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -2747,6 +2749,30 @@ V. Que se hayan modificado sus muros u otros elementos estructurales o se hayan 
 > <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 La verificación de que la edificación se encuentra en alguna de las condiciones anteriores deberá asentarse en el dictamen técnico de estabilidad o de seguridad estructural suscrito por un Corresponsable en Seguridad Estructural.
+
+> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2019)</small>
+
+ARTÍCULO 177 BIS.- Para el caso de planteles escolares donde se imparta educación a nivel inicial, preescolar, primaria, secundaria, media, media superior y superior, se deberá realizar un Levantamiento Físico de conformidad con los Lineamientos para la revisión estructural de planteles escolares en la Ciudad de México después de un sismo, que para tal efecto sean publicados en la Gaceta Oficial de la Ciudad de México, siempre y cuando la “estación acelerométrica SCT” de la Red Acelerográfica de la Ciudad de México registre aceleraciones en los siguientes supuestos:
+
+a) En las escuelas de la Ciudad de México que reporten daños, cuando se registren aceleraciones de 30 a 60 gal;
+
+b) En las escuelas referidas en el inciso anterior y aquellas que se encuentren localizadas dentro de la zona de actuación prioritaria a que se refiere el último párrafo del presente artículo, cuando se registren aceleraciones de 61 a 90 gal;
+
+c) En todas las escuelas de la Ciudad de México, cuando se registren aceleraciones mayores a 90 gal y/o la Administración haya emitido la Declaratoria de Emergencia correspondiente.
+
+En cualquier caso, con base en el Levantamiento Físico del plantel educativo, se procederá conforme a los Lineamientos ya citados.
+
+La zona de actuación prioritaria (Figura 1) está delimitada por la siguiente poligonal:
+
+-Al Norte: Eje 3 Norte y Avenida 602 en la Alcaldía Gustavo A. Madero; y Calle Oriente 16 y Vía Tapo, en el límite de la Ciudad de México.
+
+-Al Oriente: Eje 4 Oriente en las Alcaldías Venustiano Carranza e Iztacalco; y Eje 3 Oriente en las Alcaldías Iztapalapa y Coyoacán.
+
+-Al Sur: Anillo Periférico en las Alcaldías Tlalpan y Coyoacán.
+
+-Al Poniente: Av. Insurgentes Sur en la Alcaldía Coyoacán; Av. Revolución en la Alcaldía Benito Juárez; y Eje 4 Poniente en las Alcaldías Miguel Hidalgo y Azcapotzalco.
+
+> <small>[N. DE E. VÉASE MAPA EN LA G.O. DE 26 DE JULIO DE 2019, PÁGINA 14.]</small>
 
 ###### ARTÍCULO 178.
 
@@ -3789,3 +3815,13 @@ CUARTO.- Se establece un plazo máximo de 60 días naturales contados a partir d
 QUINTO.- Las Bases Generales para la Contratación de los Directores Responsables de Obra y Corresponsables de la Ciudad de México que servirán como base para los aranceles a que hace referencia este Reglamento serán publicados dentro de los 90 días naturales siguientes a la publicación del presente Decreto.
 
 SEXTO.- El Manual de Funcionamiento de la Comisión de Admisión de Directores Responsables de Obra y Corresponsables a que hace referencia este Reglamento será publicado dentro de los 90 días naturales siguientes a la publicación del presente Decreto.
+
+G.O. 26 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se establece un plazo máximo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto para que sean publicados los Lineamientos para la Revisión de la Seguridad Estructural de Planteles Escolares en la Ciudad de México después de un sismo.
