@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-del-distrito-federal-16351"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-08"
-last_updated: "2019-04-17"
+last_updated: "2019-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16351&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-05-05"
 
 LEY DE EDUCACIÓN DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE JULIO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de junio de 2000.
 
@@ -210,11 +210,11 @@ XXIV. Desarrollar programas educativos tendientes a crear y fortalecer una cultu
 
 > <small>(REFORMADA, G.O. 13 DE JULIO DE 2017)</small>
 
-XXV.- Desarrollar programas educativos tendientes a la prevención y detección temprana del cáncer de mama y cérvico uterino;
+XXV. Desarrollar programas educativos tendientes a la prevención y detección temprana del cáncer de mama y cérvico uterino;
 
-> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, G.O. 26 DE JULIO DE 2019)</small>
 
-XXVI. Fomentar la autoestima del estudiante, promoviendo valores como el respeto, la justicia, la solidaridad, la igualdad; y
+XXVI. Fomentar la autoestima del estudiante, promoviendo valores como el respeto, la justicia, la solidaridad, la igualdad, entre otros y la observancia de la ley, la cultura de la legalidad y la no violencia en cualquier tipo de sus manifestaciones, con la impartición de actividades extracurriculares específicas, así como una estrecha vinculación entre los padres de familia o quienes ejerzan la patria potestad, tutela o guarda y custodia y los docentes, reforzando todos los valores dentro de las escuelas de todos los niveles, con el fin de evitar la violencia en la infancia, adolescencia y juventud; y
 
 > <small>(ADICIONADA, G.O. 13 DE JULIO DE 2017)</small>
 
@@ -336,9 +336,11 @@ XXXVII. Celebrar convenios con los comités ejecutivos seccionales del SNTE en e
 
 XXXVIII. Elaborar el Programa Escolar de Educación en la Sexualidad del Distrito Federal, mismo que contemplará los aspectos de la planificación familiar, la paternidad y la maternidad responsables, las enfermedades de transmisión sexual; y la prevención y detección temprana del cáncer de mama y cérvico uterino.
 
-> <small>(ADICIONADA, G.O. 8 DE MAYO DE 2008)</small>
+> <small>(ADICIONADA, G.O. 26 DE JULIO DE 2019)</small>
 
-XXXIX. Las demás que establezcan otras disposiciones legales en materia educativa.
+XXXIX. Elaborar programas o campañas locales con acciones específicas que permitan prevenir y erradicar la violencia en cualquier tipo de sus manifestaciones, en las que se promuevan valores éticos y sociales que desarrollen conocimientos, capacidades y actitudes positivas, que permitan a los niños, adolescentes, jóvenes y adultos, prevenir los conflictos y la violencia.
+
+XL. Las demás que establezcan otras disposiciones legales en materia educativa.
 
 ### CAPÍTULO III. DE LOS INTEGRANTES DEL SISTEMA EDUCATIVO
 
@@ -1751,6 +1753,16 @@ G.O. 13 DE JULIO DE 2017.
 G.O. 17 DE ABRIL DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- Dentro de los noventa días siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México, a través de la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México, realizará la actualización y armonización necesaria de los Reglamentos y marco normativo aplicable.
+
+G.O. 26 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 10 FRACCIÓN XXVI Y SE ADICIONA UNA FRACCIÓN AL ARTÍCULO 13, RECORRIENDO LA SUBSECUENTE, DE LA LEY DE EDUCACIÓN DEL DISTRITO FEDERAL".]
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
