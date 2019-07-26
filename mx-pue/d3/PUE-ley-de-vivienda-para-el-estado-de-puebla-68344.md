@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-vivienda-para-el-estado-de-puebla-68344"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-17"
-last_updated: "2016-08-04"
+last_updated: "2019-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2019.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 17 de abril de 2009.
 
@@ -159,7 +159,9 @@ El Estado y los Municipios orientarán su política de vivienda al cumplimiento 
 
 En la formulación, ejecución y control de la política de vivienda, deberán respetarse los Planes de Desarrollo Urbano, tanto Estatal como Municipal, el Plan Estatal de Ordenamiento Territorial y Ecológico, y demás reglamentación aplicable en la materia, además de los contenidos en los siguientes lineamientos generales:
 
-I.- Propiciar que las acciones de vivienda sean un factor de ordenamiento territorial, del desarrollo urbano y de la preservación de los recursos y características del medio ambiente en un entorno urbano y regional;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2019)</small>
+
+I.- Propiciar que las acciones de vivienda sean un factor de ordenamiento territorial, planeación y desarrollo urbano, sustentabilidad, procurando el aprovechamiento y explotación racional de los recursos naturales y preservación de las características del medio ambiente en un entorno urbano y regional;
 
 II.- Promover oportunidades de acceso a la vivienda para la población, preferentemente para aquella que se encuentre en situación de pobreza, marginación o vulnerabilidad;
 
@@ -1034,6 +1036,14 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenami
 P.O. 4 DE AGOSTO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 2, LAS FRACCIONES IV A XIX DEL 4, Y LAS FRACCIONES XVIII Y XIX DEL 7; Y ADICIONA LA FRACCIÓN XX AL ARTÍCULO 4, Y LA FRACCIÓN XX AL 7, TODOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 7 DE LA LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
