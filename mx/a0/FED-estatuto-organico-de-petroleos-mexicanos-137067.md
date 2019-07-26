@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-petroleos-mexicanos-137067"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-06-28"
-last_updated: "2019-06-28"
+last_updated: "2019-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137067&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,11 @@ issue_date: "2019-06-24"
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA EL 28 DE JUNIO DE 2019 EN: www.pemex.com/acerca/marco_normativo/Documents/estatutos/eopmx_201907.pdf Y www.dof.gob.mx/2019/PEMEX/eopmx_201907.pdf]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JULIO DE 2019 EN EL D.OF., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 26 DE JULIO DE 2019.]
 
 Estatuto publicado en la Primera Sección al Número 22 del Diario Oficial de la Federación, el viernes 28 de junio de 2019.
 
@@ -809,7 +809,9 @@ VII. Auditoría Interna
 
 5. Delegación en Transformación Industrial
 
-### CAPÍTULO SEGUNDO
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN CORPORATIVA DE ADMINISTRACIÓN Y SERVICIOS
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN CORPORATIVA DE ADMINISTRACIÓN Y SERVICIOS
 
@@ -1883,7 +1885,9 @@ La Subdirección de Servicios Corporativos tendrá las funciones siguientes:
 
 I. Coordinar la prestación de los servicios generales dentro de los bienes inmuebles con fines administrativos o distintos a los del objeto de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
-II. Coordinar la vigilancia, monitoreo, control de accesos y salidas en los bienes inmuebles con fines administrativos o distintos a los del objeto de Pemex, sus Empresas Productivas
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+II. Coordinar la vigilancia, monitoreo, control de accesos y salidas en los bienes inmuebles con fines administrativos o distintos a los del objeto de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, de conformidad con la estrategia y directrices generales que establezca la Subdirección de Salvaguardia Estratégica;
 
 III. Coordinar la administración de los contratos de arrendamiento de servicios de transportación aérea privada y comercial para Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales; el parque vehicular de Pemex y el arrendado de Pemex y sus Empresas Productivas Subsidiarias, así como la gestión de la contratación y supervisión de los servicios de transportación de personal y terrestre requeridos para la operación de las áreas de Pemex y sus Empresas Productivas Subsidiarias;
 
@@ -2897,21 +2901,21 @@ XIII. Coordinar el análisis del entorno económico y financiero nacional e inte
 
 XIV. Coordinar la instancia de aprobación de fórmulas de los precios y tarifas de los bienes y servicios que comercialicen Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, y validar las propuestas de fórmulas de los precios y tarifas de los bienes y servicios que comercialicen las mismas, así como sus aspectos económicos de política comercial;
 
-XV. Coordinar la elaboración de la metodología para la cuantificación de costos de eficiencia en mercados sociales y gestionar las contraprestaciones por la participación de Pemex y sus Empresas Productivas Subsidiarias;
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
 
-XVI. Determinar el impacto económico de las adecuaciones al diseño del régimen fiscal de Pemex y sus Empresas Productivas Subsidiarias;
+XV. Determinar el impacto económico de las adecuaciones al diseño del régimen fiscal de Pemex y sus Empresas Productivas Subsidiarias;
 
-XVII. Coordinar la elaboración de la propuesta para la cuantificación de costos de eficiencia en mercados sociales y gestionar las contraprestaciones por la participación de Pemex y sus Empresas Productivas Subsidiarias, cuando sea necesario;
+XVI. Coordinar la elaboración de la propuesta para la cuantificación de costos de eficiencia en mercados sociales y gestionar las contraprestaciones por la participación de Pemex y sus Empresas Productivas Subsidiarias, cuando sea necesario;
 
-XVIII. Coordinar la integración de la información relacionada con la definición del monto del dividendo estatal anual a cargo de Pemex y sus Empresas Productivas Subsidiarias, y participar en el análisis y negociaciones del mismo;
+XVII. Coordinar la integración de la información relacionada con la definición del monto del dividendo estatal anual a cargo de Pemex y sus Empresas Productivas Subsidiarias, y participar en el análisis y negociaciones del mismo;
 
-XIX. Representar a Pemex y sus Empresas Productivas Subsidiarias ante la Secretaría de Hacienda y Crédito Público, en materia de precios;
+XVIII. Representar a Pemex y sus Empresas Productivas Subsidiarias ante la Secretaría de Hacienda y Crédito Público, en materia de precios;
 
-XX. Coordinar la elaboración de los pronósticos de precios y tarifas de los productos y servicios de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+XIX. Coordinar la elaboración de los pronósticos de precios y tarifas de los productos y servicios de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
-XXI. Negociar las metodologías de precios de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, ante la Secretaría de Hacienda y Crédito Público, y
+XX. Negociar las metodologías de precios de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, ante la Secretaría de Hacienda y Crédito Público, y
 
-XXII. Coordinar el establecimiento de la metodología para el cálculo de las contraprestaciones de los servicios administrativos comunes que Pemex presta a sus áreas, así como a las Empresas Productivas Subsidiarias, en su caso, Empresas Filiales y terceros, y validar su aplicación.
+XXI. Coordinar el establecimiento de la metodología para el cálculo de las contraprestaciones de los servicios administrativos comunes que Pemex presta a sus áreas, así como a las Empresas Productivas Subsidiarias, en su caso, Empresas Filiales y terceros, y validar su aplicación.
 
 ###### Artículo 100.
 
@@ -2991,7 +2995,9 @@ I. Integrar la información relacionada con la definición del monto del dividen
 
 II. Participar en la instancia de aprobación de fórmulas de los precios y tarifas de los bienes y servicios que comercialicen Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, y validar las propuestas de fórmulas de los precios y tarifas de los bienes y servicios que comercialicen Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, así como sus aspectos económicos de política comercial;
 
-III. Desarrollar la metodología para el cálculo de las contraprestaciones de los servicios administrativos comunes y especializados que Pemex presta a sus áreas, así como a las Empresas Productivas Subsidiarias, en su caso, Empresas Filiales, y terceros, y validar su aplicación;
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+III. Desarrollar la metodología para el cálculo de las contraprestaciones de los servicios administrativos comunes que Pemex presta a sus áreas, así como a las Empresas Productivas Subsidiarias, en su caso, Empresas Filiales, y terceros, y validar su aplicación;
 
 IV. Participar en la negociación de las metodologías de precios de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, ante la Secretaría de Hacienda y Crédito Público;
 
@@ -3011,7 +3017,9 @@ IX. Evaluar el impacto económico de las adecuaciones al diseño del régimen fi
 
 La Subdirección de Administración de Riesgos y Aseguramiento tendrá las funciones siguientes:
 
-I. Proponer, en coordinación con la Subdirección de Desarrollo de Proyectos y Esquemas de Negocio de la Dirección Corporativa de Planeación, Coordinación y Desempeño la normatividad interna aplicable en materia de inversiones de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+I. Proponer, en coordinación con la Subdirección de Desarrollo de Proyectos y Nuevos Modelos de Negocio de la Dirección Corporativa de Planeación, Coordinación y Desempeño la normatividad interna aplicable en materia de inversiones de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
 II. Coordinar la implementación del marco de administración de riesgos empresariales de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
@@ -3935,7 +3943,9 @@ X. Coordinar la conducción de las relaciones y enlace con órganos de derechos 
 
 XI. Coordinar el apoyo jurídico que requiera la conducción del gobierno corporativo en Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales;
 
-XII. Supervisar la negociación de los aspectos jurídicos de las operaciones financieras relacionadas con proyectos de inversiones y Esquemas de Negocio;
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+XII. Supervisar la negociación de los aspectos jurídicos de las operaciones financieras relacionadas con proyectos de inversiones y Esquemas de Negocio, así como la revisión y, en su caso, el diseño y elaboración de los proyectos de los instrumentos jurídicos relacionados con operaciones financieras;
 
 XIII. Coordinar la integración de la información jurídica que se deba entregar a autoridades reguladoras financieras y terceros, en conjunto con la Gerencia de Contabilidad Central, así como supervisar la elaboración de las opiniones jurídicas que deban presentarse;
 
@@ -4039,7 +4049,9 @@ VII. Apoyar en la conducción del gobierno corporativo en Pemex, sus Empresas Pr
 
 VIII. Participar con las áreas competentes de la Subdirección Jurídica de Contratos y Convenios en la constitución de vehículos de propósito específico para la realización de los Esquemas de Negocio de exploración y extracción, de transformación industrial y de otras líneas de negocio;
 
-IX. Negociar los aspectos jurídicos de las operaciones financieras relacionadas con proyectos de inversiones y Esquemas de Negocio, en coordinación con las áreas competentes;
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+IX. Negociar los aspectos jurídicos de las operaciones financieras relacionadas con proyectos de inversiones y Esquemas de Negocio, en coordinación con las áreas competentes, así como revisar y, en su caso, diseñar y elaborar los proyectos de los instrumentos jurídicos relacionados con operaciones financieras;
 
 X. Integrar la información jurídica que se deba entregar a reguladores financieros y terceros, así como elaborar las opiniones legales que deban presentarse;
 
@@ -4145,27 +4157,45 @@ XVI. Las demás que determinen el Director Jurídico y el Subdirector Jurídico 
 
 La Gerencia de Contratos y Convenios "B" ejercerá la función jurídica institucional a nivel nacional en materia de contratos y convenios, en actos y procedimientos relacionados con los mismos, con las funciones siguientes:
 
-I. Brindar asesoría jurídica a Pemex y sus Empresas Productivas Subsidiarias en el diseño, implementación y ejecución de los servicios y proyectos relacionados con los servicios de soporte y de salud, las operaciones financieras, así como la producción de amoniaco, fertilizantes y sus derivados;
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
 
-II. Revisar jurídicamente los proyectos de contratos y convenios relacionados con los servicios de soporte y de salud, las operaciones financieras, así como la producción de amoniaco, fertilizantes y sus derivados, y los generales de colaboración, que pretendan celebrar Pemex y sus Empresas Productivas Subsidiarias;
+I. Brindar asesoría jurídica a Pemex y sus Empresas Productivas Subsidiarias en el diseño, implementación y ejecución de los servicios y proyectos relacionados con los servicios de soporte y de salud, así como la producción de amoniaco, fertilizantes y sus derivados;
 
-III. Participar en la negociación, diseño y elaboración de los proyectos de contratos y convenios relacionados con los servicios de soporte y de salud, de las operaciones financieras, así como la producción de amoniaco, fertilizantes y sus derivados, y los generales de colaboración, que pretendan celebrar Pemex y sus Empresas Productivas Subsidiarias, los cuales se redactarán en idioma español, estipulándose la jurisdicción mexicana.
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+II. Revisar jurídicamente los proyectos de contratos y convenios relacionados con los servicios de soporte y de salud, así como la producción de amoniaco, fertilizantes y sus derivados, y los generales de colaboración, que pretendan celebrar Pemex y sus Empresas Productivas Subsidiarias;
+
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+III. Participar en la negociación, diseño y elaboración de los proyectos de contratos y convenios relacionados con los servicios de soporte y de salud, así como la producción de amoniaco, fertilizantes y sus derivados, y los generales de colaboración, que pretendan celebrar Pemex y sus Empresas Productivas Subsidiarias, los cuales se redactarán en idioma español, estipulándose la jurisdicción mexicana.
 
 De manera excepcional, podrán ser redactados en otro idioma, pactándose una jurisdicción distinta a la mexicana, previa autorización que otorgue el Titular de la Dirección Jurídica, con base en el análisis que en forma conjunta elaboren las áreas que participen en el diseño y elaboración de los proyectos de contratos y convenios;
 
-IV. Asesorar en los procedimientos de contratación y en la ejecución de los contratos y convenios relacionados con los servicios de soporte y de salud, de las operaciones financieras, así como la producción de amoniaco, fertilizantes y sus derivados, y los generales de colaboración, que lleven a cabo Pemex y sus Empresas Productivas Subsidiarias;
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
 
-V. Atender las consultas de carácter jurídico de Pemex y sus Empresas Productivas Subsidiarias en materia de contratos y convenios, relacionados con los servicios de soporte y de salud, de las operaciones financieras, así como la producción de amoniaco, fertilizantes y sus derivados;
+IV. Asesorar en los procedimientos de contratación y en la ejecución de los contratos y convenios relacionados con los servicios de soporte y de salud, así como la producción de amoniaco, fertilizantes y sus derivados, y los generales de colaboración, que lleven a cabo Pemex y sus Empresas Productivas Subsidiarias;
 
-VI. Asesorar en la resolución de controversias derivadas de los contratos y convenios relacionados con los servicios de soporte y de salud, de las operaciones financieras, así como la producción de amoniaco, fertilizantes y sus derivados, incluyendo la celebración de los acuerdos de voluntades que diriman las mismas;
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
 
-VII. Participar en el procedimiento para la autorización de las cesiones de derechos y obligaciones de los contratos relacionados con los servicios de soporte y de salud, de las operaciones financieras, así como la producción de amoniaco, fertilizantes y sus derivados;
+V. Atender las consultas de carácter jurídico de Pemex y sus Empresas Productivas Subsidiarias en materia de contratos y convenios, relacionados con los servicios de soporte y de salud, así como la producción de amoniaco, fertilizantes y sus derivados;
 
-VIII. Asesorar en el otorgamiento de Pemex y sus Empresas Productivas Subsidiarias, del consentimiento para llevar a cabo la cesión de los derechos de cobro de los contratos relacionados con los servicios de soporte y de salud, las operaciones financieras, así como la producción de amoniaco, fertilizantes y sus derivados;
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+VI. Asesorar en la resolución de controversias derivadas de los contratos y convenios relacionados con los servicios de soporte y de salud, así como la producción de amoniaco, fertilizantes y sus derivados, incluyendo la celebración de los acuerdos de voluntades que diriman las mismas;
+
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+VII. Participar en el procedimiento para la autorización de las cesiones de derechos y obligaciones de los contratos relacionados con los servicios de soporte y de salud, así como la producción de amoniaco, fertilizantes y sus derivados;
+
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+VIII. Asesorar en el otorgamiento de Pemex y sus Empresas Productivas Subsidiarias, del consentimiento para llevar a cabo la cesión de los derechos de cobro de los contratos relacionados con los servicios de soporte y de salud, así como la producción de amoniaco, fertilizantes y sus derivados;
 
 IX. Intervenir en los procedimientos de conciliación, mecanismos y medios alternativos de solución de controversias;
 
-X. Elaborar modelos de contrato y cláusulas tipo relacionados con los servicios de soporte y de salud, de las operaciones financieras, así como la producción de amoniaco, fertilizantes y sus derivados para los procedimientos de contratación, y generales de colaboración, patrimoniales y de confidencialidad;
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+X. Elaborar modelos de contrato y cláusulas tipo relacionados con los servicios de soporte y de salud, así como la producción de amoniaco, fertilizantes y sus derivados para los procedimientos de contratación, y generales de colaboración, patrimoniales y de confidencialidad;
 
 XI. Participar con el área de Abastecimiento en la elaboración de los modelos de contratos preparatorios, acuerdos referenciales, así como otros que se requieran, relacionados con los servicios de soporte y de salud, así como la producción de amoniaco, fertilizantes y sus derivados, y generales de colaboración;
 
@@ -4205,19 +4235,19 @@ X. Elaborar modelos de contrato y cláusulas tipo relacionados con las actividad
 
 XI. Asesorar, revisar y proponer cambios a los instrumentos jurídicos relacionados con actividades permisionadas previstas en la Ley de Hidrocarburos, su reglamento y demás normatividad aplicable;
 
-XII. Asesorar, revisar y proponer cambios a los instrumentos jurídicos relacionados con actividades permisionadas, previstos en la Ley de Hidrocarburos, su reglamento y demás normativa aplicable;
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
 
-XIII. Elaborar los modelos de contratos comerciales;
+XII. Elaborar los modelos de contratos comerciales;
 
-XIV. Participar con el área de Abastecimiento en la elaboración de los modelos de contratos preparatorios, acuerdos referenciales, así como otros que se requieran, relacionados con las actividades de refinación, transformación, procesamiento, importación y exportación;
+XIII. Participar con el área de Abastecimiento en la elaboración de los modelos de contratos preparatorios, acuerdos referenciales, así como otros que se requieran, relacionados con las actividades de refinación, transformación, procesamiento, importación y exportación;
 
-XV. Revisar jurídicamente los proyectos de contratos regulados de transporte de combustible relacionados con el combate al mercado ilícito de combustibles que representen riesgo o urgencia, que pretendan suscribir Pemex o sus Empresas Productivas Subsidiarias;
+XIV. Revisar jurídicamente los proyectos de contratos regulados de transporte de combustible relacionados con el combate al mercado ilícito de combustibles que representen riesgo o urgencia, que pretendan suscribir Pemex o sus Empresas Productivas Subsidiarias;
 
-XVI. Supervisar el ejercicio de la función jurídica institucional, en el ámbito de su competencia, a través de las representaciones a nivel nacional;
+XV. Supervisar el ejercicio de la función jurídica institucional, en el ámbito de su competencia, a través de las representaciones a nivel nacional;
 
-XVII. Elaborar los proyectos de opinión jurídica de los asuntos que se sometan al Consejo de Administración y a los consejos de administración de las Empresas Productivas Subsidiarias y, en su caso, de las Empresas Filiales, correspondientes a las materias de su competencia, y
+XVI. Elaborar los proyectos de opinión jurídica de los asuntos que se sometan al Consejo de Administración y a los consejos de administración de las Empresas Productivas Subsidiarias y, en su caso, de las Empresas Filiales, correspondientes a las materias de su competencia, y
 
-XVIII. Las demás que determinen el Director Jurídico y el Subdirector Jurídico de Contratos y Convenios.
+XVII. Las demás que determinen el Director Jurídico y el Subdirector Jurídico de Contratos y Convenios.
 
 ###### Artículo 145.
 
@@ -4275,7 +4305,9 @@ XXI. Las demás que determinen el Director Jurídico y el Subdirector Jurídico 
 
 La Subdirección Jurídica Contenciosa tendrá las funciones siguientes:
 
-I. Ejercer la función jurídica institucional en Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, en relación con la atención de los asuntos de naturaleza contenciosa ante los diversos órganos jurisdiccionales, en el ámbito de su competencia que comprende los estados de Hidalgo, México, Morelos, Puebla, Tlaxcala y la entidad federativa Ciudad de México, y a nivel internacional, así como de los procedimientos arbitrales y de los mecanismos alternativos de solución de controversias y, en el ámbito de su competencia, tratándose de los medios alternativos de solución de controversias, llevando la coordinación y administración de la cartera asociada a dichos asuntos;
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+I. Ejercer la función jurídica institucional en Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, en relación con la atención de los asuntos de naturaleza contenciosa ante los diversos órganos jurisdiccionales, en el ámbito de su competencia que comprende el estado de México y la entidad federativa Ciudad de México, y a nivel internacional, así como de los procedimientos arbitrales y de los mecanismos alternativos de solución de controversias y, en el ámbito de su competencia, tratándose de los medios alternativos de solución de controversias, llevando la coordinación y administración de la cartera asociada a dichos asuntos;
 
 II. Coordinar la atención de procedimientos judiciales, administrativos, arbitrales, conciliaciones, mecanismos y medios alternativos de solución de controversias o controversias en materia laboral, civil, mercantil, fiscal, administrativa, penal, agraria, seguridad industrial y protección ambiental, así como procedimientos constitucionales, y administrar la cartera correspondiente, así como determinar en forma conjunta con el titular de la gerencia jurídica contenciosa que corresponda, la excepción de ejercer algún recurso o medio de defensa;
 
@@ -4307,7 +4339,9 @@ XIV. Las demás que determine el Director Jurídico.
 
 La Gerencia Jurídica Contenciosa de Derecho Privado tendrá las funciones siguientes:
 
-I. Atender los procedimientos jurisdiccionales en materia civil y mercantil, en el ámbito de su competencia, que comprende los estados de Hidalgo, México, Morelos, Puebla, Tlaxcala y la entidad federativa Ciudad de México, agotando los recursos ordinarios o medios legales de defensa; de manera excepcional se podrá determinar no ejercer algún recurso o medio de defensa, conforme al análisis de costo-beneficio que se realice;
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+I. Atender los procedimientos jurisdiccionales en materia civil y mercantil, en el ámbito de su competencia, que comprende el estado de México y la entidad federativa Ciudad de México, agotando los recursos ordinarios o medios legales de defensa; de manera excepcional se podrá determinar no ejercer algún recurso o medio de defensa, conforme al análisis de costo-beneficio que se realice;
 
 II. Atender los procedimientos jurisdiccionales de carácter internacional;
 
@@ -4335,7 +4369,9 @@ XII. Las demás que determinen el Director Jurídico y el Subdirector Jurídico 
 
 La Gerencia Jurídica Contenciosa Administrativa tendrá las funciones siguientes:
 
-I. Atender los procedimientos judiciales, administrativos y controversias en materia fiscal, administrativa, agraria, seguridad industrial y ambiental, en el ámbito de su competencia que comprende los estados de Hidalgo, México, Morelos, Puebla, Tlaxcala y la entidad federativa Ciudad de México, agotando los recursos ordinarios o medios legales de defensa; de manera excepcional se podrá determinar no ejercer algún recurso o medio de defensa, conforme al análisis de costo-beneficio que se realice;
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+I. Atender los procedimientos judiciales, administrativos y controversias en materia fiscal, administrativa, agraria, seguridad industrial y ambiental, en el ámbito de su competencia que comprende el estado de México y la entidad federativa Ciudad de México, agotando los recursos ordinarios o medios legales de defensa; de manera excepcional se podrá determinar no ejercer algún recurso o medio de defensa, conforme al análisis de costo-beneficio que se realice;
 
 II. Atender las visitas de inspección o verificación, los procedimientos judiciales, administrativos y controversias en materia de seguridad industrial y operativa, salud en el trabajo y protección ambiental;
 
@@ -4365,7 +4401,9 @@ XIII. Las demás que determinen el Director Jurídico y el Subdirector Jurídico
 
 La Gerencia Jurídica Contenciosa Laboral tendrá las funciones siguientes:
 
-I. Atender los procedimientos judiciales, administrativos y controversias en materia laboral, en el ámbito de su competencia que comprende los estados de Hidalgo, México, Morelos, Puebla, Tlaxcala y la entidad federativa Ciudad de México, agotando los recursos ordinarios o medios legales de defensa; de manera excepcional se podrá determinar no ejercer algún recurso o medio de defensa, conforme al análisis de costo-beneficio que se realice;
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+I. Atender los procedimientos judiciales, administrativos y controversias en materia laboral, en el ámbito de su competencia que comprende el estado de México y la entidad federativa Ciudad de México, agotando los recursos ordinarios o medios legales de defensa; de manera excepcional se podrá determinar no ejercer algún recurso o medio de defensa, conforme al análisis de costo-beneficio que se realice;
 
 II. Llevar a cabo las conciliaciones de asuntos contenciosos en materia laboral;
 
@@ -4395,7 +4433,9 @@ XIII. Las demás que determinen el Director Jurídico y el Subdirector Jurídico
 
 La Gerencia Jurídica Contenciosa Penal tendrá las funciones siguientes:
 
-I. Atender los procedimientos en materia penal, en el ámbito de su competencia que comprende los estados de Hidalgo, México, Morelos, Puebla, Tlaxcala y la entidad federativa Ciudad de México, agotando los recursos ordinarios o medios legales de defensa; de manera excepcional se podrá determinar no ejercer algún recurso o medio de defensa, conforme al análisis de costo-beneficio que se realice;
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+I. Atender los procedimientos en materia penal, en el ámbito de su competencia que comprende el estado de México y la entidad federativa Ciudad de México, agotando los recursos ordinarios o medios legales de defensa; de manera excepcional se podrá determinar no ejercer algún recurso o medio de defensa, conforme al análisis de costo-beneficio que se realice;
 
 II. Proponer las estrategias y programas relacionados con la prevención y abatimiento de procedimientos en materia penal, así como ejecutar los mismos;
 
@@ -4411,9 +4451,13 @@ VII. Participar en los juicios de amparo en materia penal, así como formular lo
 
 VIII. Coordinar las acciones para la implementación de las estrategias jurídicas para la atención del mercado ilícito de combustibles;
 
-XI (SIC). Elaborar los proyectos de opinión jurídica de los asuntos que se sometan al Consejo de Administración y a los consejos de administración de las Empresas Productivas Subsidiarias y, en su caso, de las Empresas Filiales, correspondientes a las materias de su competencia, y
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
 
-IX (SIC). Las demás que determinen el Director Jurídico y el Subdirector Jurídico Contencioso.
+IX. Elaborar los proyectos de opinión jurídica de los asuntos que se sometan al Consejo de Administración y a los consejos de administración de las Empresas Productivas Subsidiarias y, en su caso, de las Empresas Filiales, correspondientes a las materias de su competencia, y
+
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+X. Las demás que determinen el Director Jurídico y el Subdirector Jurídico Contencioso.
 
 #### SECCIÓN QUINTA. DE LA GERENCIA JURÍDICA DE CUMPLIMIENTO LEGAL Y TRANSPARENCIA
 
@@ -4719,7 +4763,17 @@ Pemex contará con mecanismos y sistemas para el registro, control y difusión d
 
 La representación de Pemex para la defensa jurídica estará a cargo de su Director General, del Director Jurídico, representantes y apoderados de Pemex, conforme al Estatuto y disposiciones jurídicas aplicables.
 
-En toda clase de juicios y procedimientos en que deba intervenir el Director General, incluyendo los de amparo y en materia laboral, será representado por el Director Jurídico o, en su defecto, por quien éste designe.
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+En toda clase de juicios y procedimientos en que deba intervenir el Director General, incluyendo los de amparo y en materia laboral, será representado por el Director Jurídico, subdirectores o gerentes jurídicos o, en su defecto, por quien designe el Director Jurídico.
+
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+El Director Jurídico, los subdirectores y los gerentes de la Dirección Jurídica, ejercerán, conjunta o separadamente, la representación jurídica, de conformidad con el artículo 13, fracción XVI, de la Ley, y en adición a lo dispuesto en los artículos 14, fracción VII; 16, fracción V, y 19, fracción IV, del Estatuto, respectivamente, estarán facultados para aplicar mecanismos alternativos de solución de controversias en materia penal, soluciones alternas o formas de terminación anticipada, y estarán facultados para sustanciar y resolver reclamaciones en términos de la Ley Federal de Responsabilidad Patrimonial del Estado. Adicionalmente, los subdirectores y gerentes jurídicos gozarán de las más amplias facultades en términos de los tres primeros párrafos del artículo 2554 del Código Civil Federal y sus correlativos en los códigos civiles de las entidades federativas, incluso las que requieran autorización, poder o cláusula especial conforme al artículo 2587, del Código Civil citado y otras disposiciones aplicables; asimismo, contarán con la representación legal y patronal en términos del artículo 11 de la Ley Federal del Trabajo, incluyendo la facultad para formular querellas en casos de delitos que sólo se pueden perseguir a petición de parte afectada; para otorgar el perdón; para ejercitar y desistirse de acciones judiciales y administrativas, inclusive en el juicio de amparo, y para emitir, suscribir, endosar, avalar, librar y negociar títulos de crédito.
+
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+El Director Jurídico contará con facultades para otorgar y revocar toda clase de poderes generales o especiales.
 
 ###### Artículo 170.
 
