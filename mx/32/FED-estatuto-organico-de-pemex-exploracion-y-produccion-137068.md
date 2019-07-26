@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-exploracion-y-produccion-137068"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-06-28"
-last_updated: "2019-06-28"
+last_updated: "2019-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137068&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2019-06-24"
 ---
 # ESTATUTO ORGANICO DE PEMEX EXPLORACION Y PRODUCCION
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JULIO DE 2019 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE PEMEX EXPLORACIÓN Y PRODUCCIÓN
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 26 DE JULIO DE 2019]</small>
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de junio de 2019.
 
@@ -359,7 +359,9 @@ Las sesiones del Consejo de Administración se celebrarán en el domicilio legal
 
 Las sesiones del Consejo de Administración se celebrarán a puerta cerrada y a las mismas asistirán los Consejeros, el Secretario, el Prosecretario y los invitados permanentes, así como el personal de apoyo necesario para el desarrollo de las mismas.
 
-El Director General y el Director Jurídico serán invitados permanentes a las sesiones, los cuales tendrán voz pero no voto.
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+El Director Jurídico será invitado permanente a las sesiones, el cual tendrá voz pero no voto.
 
 El Director General podrá ser asistido en las sesiones del Consejo de Administración por directivos de Pemex, de Pemex Exploración y Producción y, en su caso, Empresas Filiales, cuando la naturaleza del asunto así lo requiera, quienes deberán abandonar la sesión al concluir su intervención.
 
@@ -2901,7 +2903,9 @@ El Titular de la Unidad de Responsabilidades podrá contar con un delegado y tit
 
 PRIMERO. El presente Estatuto entrará en vigor el 1 de julio de 2019.
 
-SEGUNDO. Se abroga el Estatuto Orgánico de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, publicado en el Diario Oficial de la Federación el día 30 de diciembre de 2016.
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+SEGUNDO. Se abroga el Estatuto Orgánico de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, publicado en el Diario Oficial de la Federación el día 5 de enero de 2017.
 
 TERCERO. La estructura orgánica básica autorizada se remitirá, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Petróleos Mexicanos.
 
