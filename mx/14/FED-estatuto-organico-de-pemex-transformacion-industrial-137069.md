@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-transformacion-industrial-137069"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-06-28"
-last_updated: "2019-06-28"
+last_updated: "2019-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137069&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2019-06-24"
 ---
 # ESTATUTO ORGANICO DE PEMEX TRANSFORMACION INDUSTRIAL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JULIO DE 2019 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 26 DE JULIO DE 2019.]</small>
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de junio de 2019.
 
@@ -363,6 +363,10 @@ Las sesiones del Consejo de Administración se celebrarán en el domicilio legal
 
 Las sesiones del Consejo de Administración se celebrarán a puerta cerrada y a las mismas asistirán los Consejeros, el Secretario, el Prosecretario y los invitados permanentes, así como el personal de apoyo necesario para el desarrollo de las mismas.
 
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+El Director Jurídico será invitado permanente a las sesiones, el cual tendrá voz pero no voto.
+
 El Director General y el Director Jurídico serán invitados permanentes a las sesiones, los cuales tendrán voz pero no voto.
 
 El Director General podrá ser asistido en las sesiones del Consejo de Administración por directivos de Pemex, de Pemex Transformación Industrial y, en su caso, Empresas Filiales, cuando la naturaleza del asunto así lo requiera, quienes deberán abandonar la sesión al concluir su intervención.
@@ -575,7 +579,9 @@ El informe anual que rinda el Director General al Consejo de Administración, en
 
 El Director General suscribirá los instrumentos públicos o privados para el otorgamiento y revocación de poderes generales o especiales, facultad que será indelegable.
 
-### CAPÍTULO SEGUNDO. DE LOS SUBDIRECTORES Y GERENTES
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+### CAPÍTULO SEGUNDO. DE LOS SUBDIRECTORES, GERENTES Y COORDINADORES
 
 #### SECCIÓN PRIMERA. DE LOS SUBDIRECTORES
 
@@ -705,11 +711,15 @@ Son indelegables las funciones señaladas en las fracciones I, III, VI, VII, VII
 
 Para la realización de sus actividades, los subdirectores se auxiliarán de las gerencias y demás áreas adscritas a su subdirección.
 
-#### SECCIÓN SEGUNDA. DE LOS GERENTES
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS GERENTES Y COORDINADORES
+
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
 
 ###### Artículo 40.
 
-Cada uno de los gerentes tendrá, en el ámbito de su competencia, las funciones siguientes:
+Cada uno de los gerentes y coordinadores tendrá, en el ámbito de su competencia, las funciones siguientes:
 
 I. Representar a Pemex Transformación Industrial, en el ámbito de sus funciones, con facultades para actos de administración, en términos del artículo 2554, segundo párrafo, del Código Civil Federal, y sus correlativos en los códigos civiles de las entidades federativas, y con las facultades especiales de pleitos y cobranzas, para transigir y para recibir pagos, en términos del artículo 2587, fracciones II y VII del Código Civil Federal y sus correlativos en los códigos civiles de las entidades federativas, así como en aquellos otros asuntos que le asignen o deleguen indistintamente y de manera expresa sus superiores jerárquicos; asimismo tendrá la naturaleza de encargado de la defensa jurídica de Pemex Transformación Industrial para efectos del artículo 5 de la Ley Federal de Procedimiento Contencioso Administrativo y demás ordenamientos aplicables;
 
@@ -822,6 +832,10 @@ LIII. Vigilar, monitorear y controlar los accesos y salidas de las Instalaciones
 LIV. Las demás que sean necesarias para el cumplimiento de su cargo, las que le instruya el Consejo de Administración, el Director General, su subdirector, así como aquéllas establecidas en otros artículos del Estatuto y en otras disposiciones aplicables.
 
 Son indelegables las funciones señaladas en las fracciones I, III, VIII, IX, X, XIV, XVII, XXVI, XXXIV, XL, XLVII, L y LI del presente artículo.
+
+> <small>(F. DE E., D.O.F. 26 DE JULIO DE 2019)</small>
+
+Cualquier mención que de manera genérica se haga a los gerentes, se entenderá referida también a los coordinadores.
 
 ### CAPÍTULO TERCERO. DEL PERSONAL DE PEMEX TRANSFORMACIÓN INDUSTRIAL
 
@@ -2514,3 +2528,17 @@ DÉCIMO. Los asuntos, procedimientos, trámites o instrumentos de cualquier natu
 DÉCIMO PRIMERO. Los titulares de las áreas de Pemex Transformación Industrial deberán atender a la definición de los casos, criterios, formatos y plazos en los que deba realizarse la entrega de recursos, información y documentación, derivado de la reubicación o desaparición de las áreas de la estructura orgánica básica de Pemex Transformación Industrial que emita la Auditoría Interna, así como participar en los actos de entrega y recepción, con motivo de la entrada en vigor del presente Estatuto.
 
 El presente Estatuto Orgánico de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Transformación Industrial, fue aprobado por el Consejo de Administración de Pemex Transformación Industrial, con fundamento en el artículo 12, fracción VI, del Acuerdo de Creación de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Transformación Industrial, en sesión 27 extraordinaria celebrada el día 24 de junio de 2019, mediante acuerdo número CAEPS-PTRI-019/2019.
+
+D.O.F. 26 DE JULIO DE 2019.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE LA PARTE FINAL DE LA "NOTA ACLARATORIA AL AVISO POR EL QUE SE DAN A CONOCER LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁ SER CONSULTADO EL ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL, PUBLICADO EL 28 DE JUNIO DE 2019." QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Las direcciones electrónicas en donde podrá ser consultado el Estatuto Orgánico de Pemex Transformación Industrial con las aclaraciones anteriormente señaladas son:
+
+www.pemex.com/acerca/marco_normativo/Documents/estatutos/eoptr_20190702.pdf
+
+www.dof.gob.mx/2019/PEMEX/eoptr_20190702.pdf
+
+EL CONSEJO DE ADMINISTRACIÓN DE PEMEX TRANSFORMACIÓN INDUSTRIAL, con fundamento en el artículo 12, fracción VI, del Acuerdo de Creación de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Transformación Industrial, aprobó el Estatuto Orgánico de Pemex Transformación Industrial, en sesión 27 Extraordinaria celebrada el día 24 de junio de 2019, mediante acuerdo número CAEPS-PTRI-019/2019.
+
+Ciudad de México, a 23 de julio de 2019.- La Directora Jurídica, Luz María Zarza Delgado.- Rúbrica.
