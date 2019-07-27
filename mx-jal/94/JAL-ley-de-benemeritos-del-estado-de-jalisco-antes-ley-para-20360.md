@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-benemeritos-del-estado-de-jalisco-antes-ley-para-20360"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-13"
-last_updated: "2017-07-25"
+last_updated: "2019-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE BENEMÉRITOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
 
 Ley publicada en la Sección Décimo Primera del Periódico Oficial del Estado de Jalisco, el martes 13 de marzo de 2001.
 
@@ -93,23 +93,25 @@ El honor de inscribir el nombre de alguna persona en letras doradas en el muro c
 
 ### CAPITULO III. De la integración del expediente y la declaración de Beneméritos
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 9.
 
-Una vez presentada ante el Congreso del Estado la iniciativa que declare Benemérito de Jalisco a una persona, dicha iniciativa será turnada, de manera conjunta, a las Comisiones de Cultura y de Educación del Congreso, las cuales deberán integrar un expediente previo a su estudio y dictaminación, pudiéndose solicitar la colaboración de los proponentes.
+Una vez presentada ante el Congreso del Estado la iniciativa que declare Benemérito de Jalisco a una persona, dicha iniciativa será turnada a la Comisión de Educación, Cultura y Deporte, la cual deberá integrar un expediente previo a su estudio y dictaminación, pudiéndose solicitar la colaboración de los proponentes.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 Los ayuntamientos de la entidad podrán presentar las iniciativas a que se refiere el párrafo anterior del presente artículo.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 10.
 
-Para la integración del expediente a que se refiere el artículo anterior, las comisiones legislativas procurarán allegarse las pruebas que acrediten el mérito suficiente para declarar Benemérito del Estado de Jalisco al personaje propuesto.
+Para la integración del expediente a que se refiere el artículo anterior, la comisión legislativa procurará allegarse las pruebas que acrediten el mérito suficiente para declarar Benemérito del Estado de Jalisco al personaje propuesto.
 
-Las comisiones conjuntas podrán solicitar la opinión de la comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco y deberán realizar las consultas a los especialistas que estimen necesarios para motivar el dictamen.
+La comisión podrá solicitar la opinión de la comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco y deberá realizar las consultas a los especialistas que estimen necesarios para motivar el dictamen.
 
-Una vez integrado el expediente correspondiente, estudiarán todos los elementos de prueba, valorarán las opiniones vertidas y emitirán dictamen.
+Una vez integrado el expediente correspondiente, estudiará todos los elementos de prueba, valorará las opiniones vertidas y emitirá dictamen.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
 
@@ -117,9 +119,11 @@ Una vez integrado el expediente correspondiente, estudiarán todos los elementos
 
 Cuando una persona física o jurídica solicite la declaración de benemérito a favor de determinada persona, deberá hacerlo saber por escrito al Congreso del Estado. La solicitud se turnará a todos los diputados para que valoren la pertinencia de la solicitud, y en su caso, eleven al pleno la iniciativa correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 12.
 
-El dictamen que presenten las Comisiones conjuntas de Cultura y de Educación para su aprobación ante el Pleno del Congreso del Estado rechazará la iniciativa en los siguientes casos:
+El dictamen que presente la Comisión de Educación, Cultura y Deporte para su aprobación ante el Pleno del Congreso del Estado rechazará la iniciativa en los siguientes casos:
 
 a) Por no cumplir en forma y fondo con cualquiera de los requisitos de esta Ley.
 
@@ -135,17 +139,25 @@ c) Si la persona que se pretende declarar como Benemérito del Estado de Jalisco
 
 d) Si se probara con elementos suficientes que la persona que se pretende declarar como Benemérito del Estado de Jalisco, en cualquier caso, a pesar de que resultara merecedora de tal distinción, tuviera actos en su vida que cuestionaran su buen nombre.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 13.
 
-Las comisiones dictaminadoras para trasladar restos mortales a alguna de las rotondas que aquí se mencionan, deberán solicitar el consentimiento definitivo de los familiares del difunto, con la siguiente prelación:
+La comisión dictaminadora para trasladar restos mortales a alguna de las rotondas que aquí se mencionan, deberá solicitar el consentimiento definitivo de los familiares del difunto, con la siguiente prelación:
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
 
 Cónyuge, a falta de éste a los hijos, si no hay hijos, a los padres, si faltan los padres, a los hermanos, a falta de hermanos a los nietos, si no hubiere nietos a los sobrinos y si no hubiere sobrinos a los descendientes que subsistan, en línea recta.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
+
 A falta de los anteriores, resolverá la Comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
+
 En el caso de hijos, hermanos, nietos, o sobrinos con la prelación señalada, cuando subsistan más de uno y exista constancia de que la mayoría de éstos se oponen al traslado y depósito de los restos mortales en alguna de las rotondas que en esta Ley se mencionan, así se establecerá en el dictamen y se respetará la decisión de los familiares, sin que ello impida la declaración de Benemérito, en caso de merecer una persona, tal honor.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2017)</small>
 
 Una vez que los restos mortales del personaje sean depositados en el lugar que albergue a los Beneméritos de la entidad, estos serán responsabilidad del Estado de Jalisco, por el valor histórico y cultural que representan, por lo que su disposición se sujetará a los decretos que para ese fin emita la Comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco.
 
@@ -185,7 +197,9 @@ II. Un representante de la Secretaría de Educación;
 
 III. Un representante de la Secretaría de Innovación, Ciencia y Tecnología;
 
-IV. Un miembro de la Comisión Legislativa de Cultura;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+IV. Un miembro de la Comisión Legislativa de Educación, Cultura y Deporte;
 
 V. Un representante del Ayuntamiento de Guadalajara;
 
@@ -255,7 +269,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 DR. MAURICIO LIMÓN AGUIRRE
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 29 DE DICIEMBRE DE 2009.
 
@@ -274,3 +288,9 @@ P.O. 25 DE JULIO DE 2017.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. A partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado deberá hacer las adecuaciones reglamentarias respectivas, en un término de sesenta días.
+
+P.O. 27 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27314/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA; LA LEY DE ATENCIÓN A LA JUVENTUD; LEY DE BENEMÉRITOS; LEY DE BIBLIOTECAS; LEY DE FOMENTO A LA CULTURA; LEY DE CULTURA FÍSICA Y DEPORTE, TODAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
