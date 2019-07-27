@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2017-10-26"
+last_updated: "2019-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -117,15 +117,21 @@ Con el objeto de simplificar, facilitar y agilizar las comunicaciones, actos jur
 
 Para el ingreso, promoción y permanencia de los servidores públicos del Poder Judicial, se estará a lo dispuesto por la Constitución Política del Estado, esta ley, su reglamento y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 7.
 
-Los magistrados del Poder Judicial del Estado, previamente a ejercer su cargo, rendirán la protesta de ley ante el Congreso del Estado; los jueces protestarán ante el Pleno del Consejo General del Poder Judicial y los demás servidores públicos del Poder Judicial, lo harán ante la autoridad de quien dependan.
+Los magistrados del Poder Judicial del Estado, previamente a ejercer su cargo, rendirán la protesta de ley ante el Congreso del Estado; los jueces protestarán ante el Pleno del Consejo de la Judicatura y los demás servidores públicos del Poder Judicial, lo harán ante la autoridad de quien dependan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 8.
 
-Los jueces de primera instancia, especializados y mixtos, menores y de paz serán electos por el Consejo General y durarán en el ejercicio de su cargo cuatro años.
+Los jueces de primera instancia, especializados y mixtos, menores y de paz serán electos por el Consejo de la Judicatura y durarán en el ejercicio de su cargo cuatro años.
 
-El plazo se computará a partir de la fecha en que rindan la protesta, el cual deberá ser de servicio efectivo y, si a su vencimiento fueren ratificados, sólo podrán ser privados de su cargo en los términos que establece la Constitución Política del Estado y las leyes secundarias en materia de responsabilidad de los servidores públicos. Durante su ejercicio, los jueces sólo podrán ser removidos o cambiados de adscripción por acuerdo del Consejo General del Poder Judicial, dictado en los términos que establezca esta ley.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
+El plazo se computará a partir de la fecha en que rindan la protesta, el cual deberá ser de servicio efectivo y, si a su vencimiento fueren ratificados, sólo podrán ser privados de su cargo en los términos que establece la Constitución Política del Estado de Jalisco y las leyes secundarias en materia de responsabilidad de los servidores públicos. Durante su ejercicio, los jueces sólo podrán ser removidos o cambiados de adscripción por acuerdo del Consejo de la Judicatura, dictado en los términos que establezca esta ley.
 
 En los casos de promoción, la inamovilidad en el nuevo empleo se adquirirá al transcurrir el plazo correspondiente a su ejercicio.
 
@@ -135,13 +141,17 @@ En los casos de promoción, la inamovilidad en el nuevo empleo se adquirirá al 
 
 Los magistrados, consejeros, jueces y demás servidores públicos del Poder Judicial percibirán una remuneración adecuada e irrenunciable, misma que deberá encontrarse establecida en el Presupuesto de Egresos respectivo y ser acorde a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables, sin que bajo ninguna circunstancia, puedan recibir ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 9.
 
-El retiro de los magistrados será forzoso en los términos que establece la Constitución Política del Estado; mientras que para los jueces será voluntario al cumplir sesenta y cinco años y, forzoso a los setenta, para cuyo efecto hará la declaración correspondiente el Consejo General a instancia del interesado o de oficio. En ambos casos los funcionarios judiciales tendrán derecho a un haber por retiro, conforme lo disponga la ley.
+El retiro de los magistrados será forzoso en los términos que establece la Constitución Política del Estado de Jalisco; mientras que para los jueces será voluntario al cumplir sesenta y cinco años y, forzoso a los setenta, para cuyo efecto hará la declaración correspondiente el Consejo de la Judicatura a instancia del interesado o de oficio. En ambos casos los funcionarios judiciales tendrán derecho a un haber por retiro, conforme lo disponga la ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 10.
 
-Se consideran empleados de confianza a los servidores públicos que indique esta ley, y su reglamento, la de los Servidores Públicos del Estado de Jalisco y sus Municipios; así como los directores, subdirectores, jefes de departamento, coordinadores o encargados de oficialías comunes de partes, personal técnico adscrito a la Dirección de Administración, de Finanzas e Informática, pagadores y encargados de inventario, jefes de sección, el personal de apoyo y asesoría a los magistrados, Secretario General de Acuerdos, Oficial Mayor, así como el personal que labore en las presidencias de cada tribunal y la del Consejo General.
+Se consideran empleados de confianza a los servidores públicos que indique esta ley, su reglamento, y la de los Servidores Públicos del Estado de Jalisco y sus Municipios; así como los directores, subdirectores, jefes de departamento, coordinadores o encargados de oficialías comunes de partes, personal técnico adscrito a la Dirección de Administración, de Finanzas e Informática, pagadores y encargados de inventario, jefes de sección, el personal de apoyo y asesoría a los magistrados, Secretario General de Acuerdos, Oficial Mayor, así como el personal que labore en las presidencias de cada tribunal y la del Consejo de la Judicatura.
 
 El personal no especificado como de confianza en este precepto será considerado de base.
 
@@ -177,9 +187,9 @@ Serán inhábiles los sábados, domingos y demás días que establezca el Códig
 
 Los servidores públicos del Poder Judicial disfrutarán anualmente de dos períodos de vacaciones con goce de sueldo. El primero, será del dieciséis al treinta y uno de julio, y el segundo, del dieciséis al treinta y uno de diciembre.
 
-Los juzgados penales, mixtos, familiares y civiles que por disposición de la ley deban conocer actuaciones para las cuales no haya días y horas inhábiles, harán uso de ese derecho conforme lo disponga el Consejo General.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
+Los juzgados penales, mixtos, familiares y civiles que por disposición de la ley deban conocer actuaciones para las cuales no haya días y horas inhábiles, harán uso de ese derecho conforme lo disponga el Consejo de la Judicatura.
 
 ###### Artículo 14.
 
@@ -189,7 +199,9 @@ Quedan exceptuados de esta prohibición los cargos docentes, siempre y cuando no
 
 La infracción de estas disposiciones será sancionada con la separación definitiva del infractor, mediante el procedimiento que esta ley señale.
 
-El Magistrado, Juez y Secretario que pasen a formar parte del Consejo General del Poder Judicial del Estado, disfrutarán de licencia por el tiempo y términos que prevé la Constitución local; al concluir su encargo, en su caso, podrán reintegrarse a la actividad jurisdiccional.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
+El Magistrado, Juez y Secretario que pasen a formar parte del Consejo de la Judicatura, disfrutarán de licencia por el tiempo y términos que prevé la Constitución local; al concluir su encargo, en su caso, podrán reintegrarse a la actividad jurisdiccional.
 
 ### CAPÍTULO IV. DE LOS ÓRGANOS ADMINISTRATIVOS AUXILIARES DE LOS TRIBUNALES
 
@@ -219,9 +231,11 @@ Artículo 16 B.- El Supremo Tribunal de Justicia y el Consejo de la Judicatura p
 
 Artículo 16 C.- Las previsiones del Plan General del Poder Judicial se referirán a las medidas administrativas para el mejoramiento del servicio público de justicia.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
 
-Artículo 16 D.- Los acuerdos tomados por el Comité de Planeación del Poder Legislativo o el COPLADE, deberán respetar íntegramente el Programa Operativo Anual del Poder Judicial, por lo que cualquiera de ellos se pueda afectar la esfera competencial de los Tribunales del Estado o al Consejo General del Poder Judicial, se harán del conocimiento de estos, para su correspondiente aceptación y aprobación.
+Artículo 16 D.- Los acuerdos tomados por el Comité de Planeación del Poder Legislativo o el COPLADE, deberán respetar íntegramente el Programa Operativo Anual del Poder Judicial, por lo que cualquiera de ellos que pueda afectar la esfera competencial de los Tribunales del Estado o al Consejo de la Judicatura, se harán del conocimiento de estos, para su correspondiente aceptación y aprobación.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
 
 En caso de rechazo por parte del Poder Judicial en lo que le afecte no surtirán efecto alguno.
 
@@ -237,23 +251,27 @@ Artículo 16 F.- Previo a la aprobación de su Programa Operativo Anual, el Supr
 
 Artículo 16 G.- El proceso de planeación del Poder Judicial será conducido por el Presidente del Supremo Tribunal de Justicia, quien presidirá el Comité de Planeación del Poder Judicial.
 
+> <small>[N. DE E. ESTE ARTÍCULO CONSTABA DE 5 FRACCIONES, QUEDANDO EN 3 FRACCIONES VÉASE P.O. 27 DE JULIO DE 2019, PÁGINAS 12 Y 13. SE SUGIERE CONSULTAR LA PÁGINA DEL CONGRESO WWW.CONGRESOJAL.GOB.MX]</small>
+
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
 
 Artículo 16 H.- El Comité de Planeación del Poder Judicial estará integrado de la siguiente forma:
 
 I. El Presidente del Supremo Tribunal de Justicia;
 
-II. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2017)
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN IV], P.O. 27 DE JULIO DE 2019)</small>
 
-III. (DEROGADA, P.O. 8 DE JULIO DE 2014)
+II. Un magistrado del Supremo Tribunal de Justicia electo por el Pleno; y
 
-IV. Un magistrado del Supremo Tribunal de Justicia electo por el Pleno; y
+> <small>(REFORMADA [N. DE E. Y REUBICADA ANTES FRACCIÓN V], P.O. 27 DE JULIO DE 2019)</small>
 
-V. Un consejero ciudadano del Consejo General del Poder Judicial.
+III. Un consejero ciudadano del Consejo de la Judicatura.
 
 El comité sesionará con la presencia de todos sus integrantes y sus decisiones se aprobarán por mayoría simple de votos.
 
-En caso de ausencia de alguno de los integrantes señalados en las fracciones I, II y III, deberán acudir el Suplente por Ministerio de Ley, y en caso de ausencia de los integrantes indicados en las fracciones IV y V deberán ser suplidos por los que designen los Plenos respectivos.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
+En caso de ausencia de alguno del (sic) integrante señalado en la fracción I, deberá acudir el suplente por Ministerio de Ley, y en caso de ausencia de los integrantes indicados en las fracciones II y III deberán ser suplidos por los que designen los Plenos respectivos.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
 
@@ -337,9 +355,9 @@ III. Poseer el día de la elección, con una antigüedad mínima de diez años, 
 
 IV. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal;
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Fiscal General del Estado, integrante del Consejo General del Poder Judicial, Diputado local, o Presidente, Síndico o Regidor de ayuntamiento, durante el año previo al día del nombramiento, y
+V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Fiscal General del Estado, integrante del Consejo de la Judicatura, Diputado local, o Presidente, Síndico o Regidor de ayuntamiento, durante el año previo al día del nombramiento, y
 
 VI. No haber sido secretario de Estado o jefe de departamento administrativo de la Federación, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes al día que tenga verificativo el nombramiento.
 
@@ -415,7 +433,9 @@ XII. (DEROGADA, P.O. 22 DE ENERO DE 2008)
 
 XIII. Nombrar a propuesta de su Presidente, a los servidores públicos de carácter judicial, y administrativo del Supremo Tribunal, con excepción de los secretarios relatores adscritos a los magistrados que serán nombrados a propuesta de éstos y el personal de cada Sala que lo hará su Presidente previo consenso de sus integrantes. Así como removerlos en los términos que determinen las leyes.
 
-Para estos efectos, antes de designar a la persona que deba ocupar el cargo, el Supremo Tribunal, su Presidente, las salas o el magistrado respectivo, deberán solicitar al Consejo General la relación de las personas que se encuentren en aptitud de ocupar la vacante;
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
+Para estos efectos, antes de designar a la persona que deba ocupar el cargo, el Supremo Tribunal, su Presidente, las salas o el magistrado respectivo, deberán solicitar al Consejo de la Judicatura la relación de las personas que se encuentren en aptitud de ocupar la vacante;
 
 XIV. Aprobar, modificar o rechazar, los convenios que el Presidente en representación del Supremo Tribunal de Justicia celebre;
 
@@ -429,7 +449,9 @@ XVII. Presentar al Poder Legislativo iniciativas de ley, en el ramo de justicia;
 
 XVIII. Formular y expedir el reglamento y demás disposiciones necesarias para el funcionamiento interno del Supremo Tribunal de Justicia;
 
-XIX. Conceder licencia al magistrado que pase a formar parte del Consejo General del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+XIX. Conceder licencia al magistrado que pase a formar parte del Consejo de la Judicatura;
 
 XX. Nombrar las comisiones que sean necesarias para la atención de los asuntos de su competencia;
 
@@ -443,7 +465,9 @@ XXIII. Establecer los criterios y las medidas conducentes para el mejoramiento d
 
 XXIV. Emitir las bases mediante acuerdos generales, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Supremo Tribunal de Justicia, se ajusten a los criterios contemplados en la ley de la materia;
 
-XXV. Solicitar al Consejo General del Poder Judicial, el cambio de adscripción de jueces y en su caso, su remoción del cargo por causa justificada;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+XXV. Solicitar al Consejo de la Judicatura el cambio de adscripción de jueces y, en su caso, su remoción del cargo por causa justificada;
 
 > <small>(ADICIONADA, P.O. 1 DE MAYO DE 2003)</small>
 
@@ -583,9 +607,9 @@ VIII. Sugerir al Pleno las medidas necesarias para la organización y funcionami
 
 IX. (DEROGADA, P.O. 22 DE ENERO DE 2008)
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-X. Formular anualmente el proyecto del Presupuesto de Egresos para someterlo a la aprobación del Tribunal Pleno y enviarlo conjuntamente con el del Tribunal Administrativo y Consejo General, al Titular del Poder Ejecutivo para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
+X. Formular anualmente el proyecto del Presupuesto de Egresos para someterlo a la aprobación del Tribunal Pleno y enviarlo, conjuntamente con el del Consejo de la Judicatura, al Titular del Poder Ejecutivo para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
 
 XI. Integrar y presidir la Comisión de Gobierno y Administración del Supremo Tribunal de Justicia;
 
@@ -823,11 +847,11 @@ Durante las ausencias por menos de quince días hábiles de los magistrados que 
 
 Cuando el Magistrado que deba suplirse sea Presidente de Sala del Supremo Tribunal de Justicia, sus funciones serán ejercidas rotatoriamente por los demás magistrados que integren la misma, siguiendo un orden alfabético.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 55.
 
-En las salas regionales, el Consejo General del Poder Judicial adscribirá a los jueces de primera instancia que deban suplir a los magistrados; cuando no sea posible tal adscripción por cualquier causa, el quórum se integrará con el Secretario de Acuerdos de la Sala respectiva, previa decisión plenaria.
+En las salas regionales, el Consejo de la Judicatura adscribirá a los jueces de primera instancia que deban suplir a los magistrados; cuando no sea posible tal adscripción por cualquier causa, el quórum se integrará con el Secretario de Acuerdos de la Sala respectiva, previa decisión plenaria.
 
 ###### Artículo 56.
 
@@ -1153,7 +1177,9 @@ IV. Un Secretario o secretarios;
 
 V. Un Notificador o notificadores;
 
-VI. Los servidores públicos de la administración de justicia que determinen el Consejo General y el Presupuesto de Egresos.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+VI. Los servidores públicos de la administración de justicia que determinen el Consejo de la Judicatura y el Presupuesto de Egresos.
 
 ###### Artículo 104.
 
@@ -1169,7 +1195,9 @@ II. Un Secretario o secretarios;
 
 III. Un Notificador o notificadores; y
 
-IV. Los servidores públicos de la administración de justicia que autorice el Consejo General y que permita el Presupuesto de Egresos.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+IV. Los servidores públicos de la administración de justicia que autorice el Consejo de la Judicatura y que permita el Presupuesto de Egresos.
 
 ###### Artículo 106.
 
@@ -1217,9 +1245,11 @@ Para el nombramiento de jueces, en igualdad de circunstancias, se preferirá al 
 
 Para ser Secretario de Acuerdos o Conciliador, es necesario satisfacer los mismos requisitos exigidos para ser Secretario de Acuerdos de Sala.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 108.
 
-Para ser Secretario de juzgado de primera instancia se requieren los mismos requisitos exigidos en el artículo anterior de esta ley, con excepción de la edad mínima, que será de veinticinco años y de la práctica profesional. El Pleno del Consejo General podrá dispensar el requisito del título en caso de designaciones en los juzgados mixtos.
+Para ser Secretario de juzgado de primera instancia se requieren los mismos requisitos exigidos en el artículo anterior de esta ley, con excepción de la edad mínima, que será de veinticinco años y de la práctica profesional. El Pleno del Consejo de la Judicatura podrá dispensar el requisito del título en caso de designaciones en los juzgados mixtos.
 
 ###### Artículo 109.
 
@@ -1227,7 +1257,9 @@ Para ser Notificador se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Haber cursado cuando menos la mitad del plan de estudios de la carrera de abogado o licenciado en derecho. El Pleno del Consejo General podrá dispensar este requisito cuando por los conocimientos y capacidad que resulte de los exámenes aplicados, se le considere apto para el desempeño de la función; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+II. Haber cursado cuando menos la mitad del plan de estudios de la carrera de abogado o licenciado en derecho. El Pleno del Consejo de la Judicatura podrá dispensar este requisito cuando por los conocimientos y capacidad que resulte de los exámenes aplicados, se le considere apto para el desempeño de la función; y
 
 III. No haber sido condenado por delito doloso que amerite pena corporal.
 
@@ -1257,9 +1289,9 @@ IX. Cursar la correspondencia del juzgado;
 
 X. Acatar la jurisprudencia de la Suprema Corte de Justicia de la Nación y del Supremo Tribunal de Justicia del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-XI. Proponer al Pleno del Consejo General, el personal del juzgado a su cargo;
+XI. Proponer al Pleno del Consejo de la Judicatura, el personal del juzgado a su cargo;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2007)</small>
 
@@ -1271,11 +1303,11 @@ XIII. Las demás que les impongan las leyes.
 
 En el caso de la fracción XI, los jueces al proponer el personal del juzgado deberán hacerlo preferentemente a favor de quien tenga mejor derecho de acuerdo al sistema de Carrera Judicial, de no ser así, podrán hacerlo a favor de persona ajena al Poder Judicial, en cuyo caso deberá motivarse la propuesta. Si el Consejo no aprueba al candidato, el juez presentará otra y hasta una tercera propuesta, de ser necesario. De ser rechazadas el Consejo elegirá para el cargo a quien hubiere obtenido mayor votación.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 111.
 
-El Juez Mixto de Primera Instancia o Especializado en materia penal del distrito judicial que corresponda, propondrá candidatos al Pleno del Consejo General para que se elija a los jueces menores o de paz.
+El Juez Mixto de Primera Instancia o Especializado en materia penal del distrito judicial que corresponda, propondrá candidatos al Pleno del Consejo de la Judicatura para que se elija a los jueces menores o de paz.
 
 ###### Artículo 112.
 
@@ -1421,6 +1453,8 @@ Por cada Juez Menor o de Paz propietario, se nombrará un suplente que lo sustit
 
 ### CAPÍTULO IV. DE LAS AUSENCIAS Y SUPLENCIAS DE LOS JUECES Y DEMÁS SERVIDORES
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 121.
 
 En el Estado se establecerán jurados, solamente para conocer de los procesos que se instruyan por delitos cometidos por medio de la prensa, contra el orden público.
@@ -1471,9 +1505,11 @@ III. Tanto el acusado o su defensor podrán recusar sin expresión de causa, has
 
 IV. Concluida la diligencia se ordenará se cite a los jurados designados, para la audiencia que deba celebrarse en lugar, día y hora determinados, a efecto de substanciar el juicio respectivo.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 126.
 
-El Consejo General y el Juez, tomarán las medidas necesarias para la seguridad y sigilo que deben tener los miembros del Jurado durante el proceso de insaculación y la instrucción de la causa.
+El Consejo de la Judicatura y el Juez, tomarán las medidas necesarias para la seguridad y sigilo que deben tener los miembros del Jurado durante el proceso de insaculación y la instrucción de la causa.
 
 ###### Artículo 127.
 
@@ -1503,7 +1539,7 @@ El procedimiento, recusación, el orden que debe seguirse en las audiencias y en
 
 ###### Artículo 130.
 
-Los jueces de primera instancia del Estado serán suplidos en sus faltas temporales o absolutas por los que nombre el Consejo General del Poder Judicial. En tanto se haga el nombramiento, en los juzgados especializados los sustituirán los secretarios de acuerdos, y en los juzgados mixtos el Secretario.
+Los jueces de primera instancia del Estado serán suplidos en sus faltas temporales o absolutas por los que nombre el Consejo de la Judicatura. En tanto se haga el nombramiento, en los juzgados especializados los sustituirán los secretarios de acuerdos, y en los juzgados mixtos el Secretario.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -1537,9 +1573,11 @@ Los notificadores de salas y juzgados especializados, en caso de faltas temporal
 
 De presentarse esa hipótesis en salas regionales mixtas, lo suplirá el Secretario de la misma.
 
-## TÍTULO SEXTO. DEL CONSEJO GENERAL DEL PODER JUDICIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JULIO DE 2019)</small>
 
-### CAPÍTULO II. DEL PLENO DEL CONSEJO GENERAL
+## TÍTULO SEXTO. DEL CONSEJO DE LA JUDICATURA
+
+### CAPÍTULO II. DEL PLENO DEL CONSEJO DE LA JUDICATURA
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
 
@@ -1547,13 +1585,17 @@ De presentarse esa hipótesis en salas regionales mixtas, lo suplirá el Secreta
 
 La administración, vigilancia, disciplina y Carrera Judicial del Poder Judicial del Estado de Jalisco, con excepción del Supremo Tribunal de Justicia, estarán a cargo del Consejo de la Judicatura, en los términos que establecen la Constitución Política del Estado de Jalisco y la presente ley.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 137.
 
-El Consejo General del Poder Judicial velará en todo momento por la autonomía de los órganos jurisdiccionales y por la independencia e imparcialidad de sus integrantes.
+El Consejo de la Judicatura velará en todo momento por la autonomía de los órganos jurisdiccionales y por la independencia e imparcialidad de sus integrantes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 138.
 
-El Consejo General del Poder Judicial estará integrado por siete consejeros, de los cuales, uno será el Presidente del Supremo Tribunal de Justicia, y los seis restantes, serán electos por votación de cuando menos las dos terceras partes de los diputados presentes del Congreso del Estado, a propuesta de los grupos parlamentarios, previa convocatoria a la sociedad, de conformidad a lo que establezcan la Constitución Política del Estado y la Ley Orgánica del Poder Legislativo de la Entidad. Uno de los consejeros deberá ser Magistrado del Supremo Tribunal de Justicia, otro se elegirá de entre los jueces de primera instancia y uno más de entre los secretarios de juzgado.
+El Consejo de la Judicatura estará integrado por siete consejeros, de los cuales, uno será el Presidente del Supremo Tribunal de Justicia, y los seis restantes, serán electos por votación de cuando menos las dos terceras partes de los diputados presentes del Congreso del Estado, a propuesta de los grupos parlamentarios, previa convocatoria a la sociedad, de conformidad a lo que establezcan la Constitución Política del Estado de Jalisco y la Ley Orgánica del Poder Legislativo de la Entidad. Uno de los consejeros deberá ser Magistrado del Supremo Tribunal de Justicia, otro se elegirá de entre los jueces de primera instancia y uno más de entre los secretarios de juzgado.
 
 En la licencia que se otorgue al Secretario, Juez y Magistrado electos como consejeros, deberá garantizarse el cargo y adscripción que vinieren desempeñando.
 
@@ -1569,29 +1611,41 @@ El Consejo de la Judicatura funcionará en Pleno o a través de comisiones, sus 
 
 Las resoluciones del Pleno, constarán en acta y deberán contar siempre con las firmas de los consejeros asistentes y del secretario, debiendo notificarse a la brevedad posible a las partes interesadas.
 
-La notificación y ejecución de las resoluciones que emita el Consejo General funcionando en Pleno o en comisiones, deberán realizarse por conducto de los órganos del propio Consejo o del juzgado que actúe en auxilio de éste.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
+La notificación y ejecución de las resoluciones que emita el Consejo de la Judicatura funcionando en Pleno o en comisiones, deberán realizarse por conducto de los órganos del propio Consejo o del juzgado que actúe en auxilio de éste.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 141.
 
-Cuando a juicio del Pleno del Consejo General del Poder Judicial, los reglamentos, acuerdos o resoluciones que emita sean de interés general, deberán publicarse en el Boletín Judicial.
+Cuando a juicio del Pleno del Consejo de la Judicatura, los reglamentos, acuerdos o resoluciones que emita sean de interés general, deberán publicarse en el Boletín Judicial.
 
-### CAPÍTULO III. DEL PRESIDENTE DEL PLENO DEL CONSEJO DEL PODER JUDICIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JULIO DE 2019)</small>
+
+### CAPÍTULO III. DEL PRESIDENTE DEL PLENO DEL CONSEJO DE LA JUDICATURA
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 142.
 
 El Pleno del Consejo de la Judicatura se integrará con los cinco consejeros; pero bastará la presencia de tres de ellos, para funcionar legalmente. En el supuesto de que no se encuentre el Consejero Presidente, de entre los presentes se nombrará a quien deba desempeñar esa función para dirigir la sesión por única ocasión.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 143.
 
-Las sesiones del pleno del Consejo General serán públicas y por excepción reservadas, cuando así lo acuerden la mayoría de sus integrantes y se celebrarán en los días y horas que el mismo Consejo determine, mediante acuerdos generales.
+Las sesiones del pleno del Consejo de la Judicatura serán públicas y por excepción reservadas, cuando así lo acuerden la mayoría de sus integrantes y se celebrarán en los días y horas que el mismo Consejo determine, mediante acuerdos generales.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
 
 Las discusiones y documentos relacionados con las sesiones reservadas, sólo pueden ponerse a la vista de quienes demuestren su interés jurídico y no son susceptibles de publicarse, salvo las resoluciones finales, que tienen carácter público, con excepción de aquellas que de conformidad con la ley, reciban clasificación distinta.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 144.
 
-El Pleno del Consejo General podrá sesionar de manera extraordinaria a solicitud de cualquiera de sus integrantes. Dicha solicitud deberá presentarse por escrito ante el Presidente del propio Consejo a fin de que emita la convocatoria correspondiente.
+El Pleno del Consejo de la Judicatura podrá sesionar de manera extraordinaria a solicitud de cualquiera de sus integrantes. Dicha solicitud deberá presentarse por escrito ante el Presidente del propio Consejo a fin de que emita la convocatoria correspondiente.
 
 ###### Artículo 145.
 
@@ -1657,7 +1711,9 @@ XI. Aprobar el proyecto del Presupuesto de Egresos del Poder Judicial del Estado
 
 XII. Dictar las bases generales de organización y funcionamiento de sus órganos auxiliares;
 
-XIII. Nombrar, a propuesta que haga su Presidente, al Secretario General, a los directores y a los titulares de los órganos auxiliares del Consejo General del Poder Judicial del Estado; resolver sobre sus renuncias y licencias; removerlos por causa justificada o suspenderlos en los términos que determinen las leyes y los acuerdos correspondientes, y formular denuncia o querella en los casos que procedan;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+XIII. Nombrar, a propuesta que haga su Presidente, al Secretario General, a los directores y a los titulares de los órganos auxiliares del Consejo de la Judicatura; resolver sobre sus renuncias y licencias; removerlos por causa justificada o suspenderlos en los términos que determinen las leyes y los acuerdos correspondientes, y formular denuncia o querella en los casos que procedan;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1679,13 +1735,15 @@ XX. Dictar las disposiciones necesarias para regular el turno de los asuntos de 
 
 XXI. Resolver los conflictos de trabajo suscitados entre el Poder Judicial del Estado y sus servidores públicos en términos de la fracción XII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Substanciadora del Consejo de la Judicatura, con excepción de los conflictos relativos a los servidores públicos del Supremo Tribunal de Justicia;
 
-XXII. Designar, a propuesta de su Presidente, al representante del Consejo General ante la Comisión Substanciadora para los efectos señalados en la fracción anterior;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+XXII. Designar, a propuesta de su Presidente, al representante del Consejo de la Judicatura ante la Comisión Substanciadora para los efectos señalados en la fracción anterior;
 
 XXIII. Convocar a congresos estatales o regionales de jueces, asociaciones profesionales representativas e instituciones de educación superior, a fin de evaluar el funcionamiento de los órganos del Poder Judicial de la Entidad y proponer las medidas pertinentes para mejorarlos;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-XXIV. Apercibir, amonestar e imponer multas, hasta de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a quienes falten al respeto a algún órgano o miembro del Poder Judicial del Estado en las promociones que hagan ante el Consejo General del Poder Judicial del Estado;
+XXIV. Apercibir, amonestar e imponer multas, hasta de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a quienes falten al respeto a algún órgano o miembro del Poder Judicial del Estado en las promociones que hagan ante el Consejo de la Judicatura;
 
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -1695,9 +1753,13 @@ XXV. Elaborar anualmente una lista con los nombres de las personas que puedan fu
 
 XXVI. Ejercer el Presupuesto de Egresos del Poder Judicial del Estado, con excepción del que corresponde al Supremo Tribunal de Justicia;
 
-XXVII. Coordinar y supervisar el funcionamiento de los órganos auxiliares del Consejo General del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-XXVIII. Nombrar a los servidores públicos de los órganos auxiliares del Consejo General del Poder Judicial del Estado, y acordar lo relativo a sus ascensos, licencias, remociones y renuncias;
+XXVII. Coordinar y supervisar el funcionamiento de los órganos auxiliares del Consejo de la Judicatura;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+XXVIII. Nombrar a los servidores públicos de los órganos auxiliares del Consejo de la Judicatura, y acordar lo relativo a sus ascensos, licencias, remociones y renuncias;
 
 XXIX. Fijar los períodos vacacionales de los jueces de primera instancia, menores y de paz;
 
@@ -1711,7 +1773,9 @@ XXXII. Investigar y determinar las responsabilidades de los servidores públicos
 
 XXXIII. Realizar visitas extraordinarias o integrar comités de investigación, cuando estime que se ha cometido una falta grave o cuando así lo solicite el Pleno del Supremo Tribunal de Justicia, sin perjuicio de las facultades que correspondan a la Visitaduría Judicial o a la Contraloría del Poder Judicial del Estado;
 
-XXXIV. Dictar las medidas que exijan el buen servicio y la disciplina en las oficinas de los juzgados de primera instancia, menores y de paz y órganos auxiliares del Consejo General del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+XXXIV. Dictar las medidas que exijan el buen servicio y la disciplina en las oficinas de los juzgados de primera instancia, menores y de paz y órganos auxiliares del Consejo de la Judicatura;
 
 XXXV. Regular las autorizaciones para abandonar el lugar de residencia de los funcionarios judiciales en los casos contemplados en el presente ordenamiento;
 
@@ -1737,11 +1801,15 @@ XXXIX. Desempeñar cualquier otra función que la ley encomiende al Consejo de l
 
 El Pleno del Consejo de la Judicatura contará con los servidores públicos superiores que establece el presente ordenamiento y el personal subalterno que permita el Presupuesto, los cuales podrán ser nombrados y removidos de conformidad con lo previsto en la presente ley.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JULIO DE 2019)</small>
+
 ### CAPÍTULO IV. DE LAS COMISIONES DEL CONSEJO
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 150.
 
-El Pleno del Consejo General del Poder Judicial del Estado estará presidido por el magistrado que funja como Presidente del Supremo Tribunal de Justicia, quien ejercerá las atribuciones que le confiere el presente ordenamiento.
+El Pleno del Consejo de la Judicatura estará presidido por el magistrado que funja como Presidente del Supremo Tribunal de Justicia, quien ejercerá las atribuciones que le confiere el presente ordenamiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2007)</small>
 
@@ -1785,9 +1853,11 @@ X. Las demás que determinen las leyes, los correspondientes reglamentos interio
 
 ### CAPÍTULO V. DE LA SECRETARIA GENERAL DEL CONSEJO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 152.
 
-El Consejo General del Poder Judicial del Estado contará con las comisiones permanentes o transitorias que determine el Pleno del mismo, debiendo existir en todo caso las de administración, Carrera Judicial, disciplina, creación de nuevos órganos y la de adscripción.
+El Consejo de la Judicatura contará con las comisiones permanentes o transitorias que determine el Pleno del mismo, debiendo existir en todo caso las de administración, carrera judicial, disciplina, creación de nuevos órganos y la de adscripción.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
 
@@ -1823,37 +1893,57 @@ Cada comisión nombrará su respectivo presidente y determinarán de conformidad
 
 ### CAPÍTULO VI. DE LA CAPACITACIÓN DE LOS INTEGRANTES DEL PODER JUDICIAL
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 158.
 
-El Consejo General del Poder Judicial del Estado contará con un Secretario General que se encargará de:
+El Consejo de la Judicatura contará con un Secretario General que se encargará de:
 
 I. Formular las actas de las sesiones y presentarlas a los consejeros para que las revisen y en su caso las firmen;
 
-II. Coordinar las actividades de las direcciones y organismos auxiliares del Consejo General;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+II. Coordinar las actividades de las direcciones y organismos auxiliares del Consejo de la Judicatura;
 
 III. Actuar como jefe de personal, asumiendo la responsabilidad de los trabajos encargados a éste;
 
-IV. Cuidar que se cumplimenten los acuerdos del Consejo General del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-V. Dar cuenta al Pleno del Consejo General de las faltas cometidas por los empleados en el desempeño de sus funciones para que acuerde lo conducente;
+IV. Cuidar que se cumplimenten los acuerdos del Consejo de la Judicatura;
 
-VI. Llevar al corriente el libro de actas de sesiones y el registro de los documentos recibidos por el Consejo General, así como de los documentos que se turnen a los consejeros para su estudio y proyecto;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+V. Dar cuenta al Pleno del Consejo de la Judicatura de las faltas cometidas por los empleados en el desempeño de sus funciones para que acuerde lo conducente;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+VI. Llevar al corriente el libro de actas de sesiones y el registro de los documentos recibidos por el Consejo de la Judicatura, así como de los documentos que se turnen a los consejeros para su estudio y proyecto;
 
 VII. Asistir y colaborar con la Presidencia para el desarrollo de las sesiones y ejecutar las órdenes que ésta le dicte;
 
 VIII. Asistir a los consejeros para el correcto desarrollo de sus funciones, ya sea en comisiones o individualmente;
 
-IX. Elaborar programas de trabajo administrativo de conformidad con los acuerdos y disposiciones aprobadas por el Pleno del Consejo General del Poder Judicial;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-X. Coordinar, supervisar y evaluar el trabajo de las diversas direcciones y demás dependencias integrantes del Consejo General;
+IX. Elaborar programas de trabajo administrativo, de conformidad con los acuerdos y disposiciones aprobadas por el Pleno del Consejo de la Judicatura;
 
-XI. Por acuerdo del Pleno, certificar los originales y copias de los documentos que obren en el archivo del Consejo General del Poder Judicial; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-XII. Las demás que le sean conferidas por la presente ley, el reglamento interno del Consejo General del Poder Judicial y los acuerdos que el Pleno del mismo emita.
+X. Coordinar, supervisar y evaluar el trabajo de las diversas direcciones y demás dependencias integrantes del Consejo de la Judicatura;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+XI. Por acuerdo del Pleno, certificar los originales y copias de los documentos que obren en el archivo del Consejo de la Judicatura; y
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+XII. Las demás que le sean conferidas por la presente ley, el reglamento interno del Consejo de la Judicatura y los acuerdos que el Pleno del mismo emita.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 159.
 
-Para el adecuado funcionamiento de sus atribuciones, el Consejo General del Poder Judicial del Estado, contará con las direcciones de Investigación y Capacitación, de Visitaduría, de Administración y Contraloría del Poder Judicial, de Disciplina, Responsabilidades y Carrera Judicial, y la Dirección de Archivo, Ediciones y Boletín Judicial.
+Para el adecuado funcionamiento de sus atribuciones, el Consejo de la Judicatura, contará con las direcciones de Investigación y Capacitación, de Visitaduría, de Administración y Contraloría del Poder Judicial, de Disciplina, Responsabilidades y Carrera Judicial, y la Dirección de Archivo, Ediciones y Boletín Judicial.
 
 ###### Artículo 160.
 
@@ -1879,9 +1969,9 @@ El Secretario General del Consejo y los directores de Visitaduría, Disciplina y
 
 ###### Artículo 162.
 
-Corresponde a la Dirección de Investigación y Capacitación auxiliar al Consejo General del Poder Judicial del Estado en materia de investigación, formación, capacitación y actualización de los miembros del Poder Judicial y de quienes aspiren a pertenecer a éste.
+Corresponde a la Dirección de Investigación y Capacitación auxiliar al Consejo de la Judicatura en materia de investigación, formación, capacitación y actualización de los miembros del Poder Judicial y de quienes aspiren a pertenecer a éste.
 
-El Consejo General del Poder Judicial podrá coordinarse y convenir con el Instituto General de Capacitación del Consejo de la Judicatura Federal y con las universidades del Estado, para que auxilien a la Dirección de Investigación y Capacitación con apoyos académicos para la realización de las tareas señaladas en el párrafo anterior.
+El Consejo de la Judicatura podrá coordinarse y convenir con el Instituto General de Capacitación del Consejo de la Judicatura Federal y con las universidades del Estado, para que auxilien a la Dirección de Investigación y Capacitación con apoyos académicos para la realización de las tareas señaladas en el párrafo anterior.
 
 ###### Artículo 163.
 
@@ -1921,11 +2011,11 @@ La dirección contará con un área de investigación, la cual tendrá como func
 
 La Dirección de Visitaduría Judicial es el órgano encargado de inspeccionar el funcionamiento de los juzgados de primera instancia, menores y de paz y para supervisar la conducta de los integrantes de éstos órganos.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 168.
 
-La Dirección de Visitaduría contará con un cuerpo de servidores públicos denominados visitadores, quienes tendrán el carácter de autoridad del Consejo General del Poder Judicial para los efectos de sus funciones.
+La Dirección de Visitaduría contará con un cuerpo de servidores públicos denominados visitadores, quienes tendrán el carácter de autoridad del Consejo de la Judicatura para los efectos de sus funciones.
 
 ###### Artículo 169.
 
@@ -1949,9 +2039,11 @@ La designación de los visitadores se hará por el Pleno del Consejo de la Judic
 
 El Pleno del Consejo de la Judicatura establecerá mediante acuerdos generales, los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de los visitadores para los efectos del adecuado cumplimiento de sus funciones.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 171.
 
-Los visitadores deberán inspeccionar de manera ordinaria los juzgados de primera instancia, menores y de paz, cuando menos dos veces por año, de acuerdo con los sorteos periódicos que realice el Director. Las visitas se realizarán ajustándose en todo momento con las disposiciones generales que emita el Pleno del Consejo General del Poder Judicial al respecto.
+Los visitadores deberán inspeccionar de manera ordinaria los juzgados de primera instancia, menores y de paz, cuando menos dos veces por año, de acuerdo con los sorteos periódicos que realice el Director. Las visitas se realizarán ajustándose en todo momento con las disposiciones generales que emita el Pleno del Consejo de la Judicatura al respecto.
 
 ###### Artículo 172.
 
@@ -1977,7 +2069,9 @@ V. Hacer constar el número de asuntos penales y civiles, mercantiles y de lo fa
 
 VI. Examinar los expedientes formados con motivo de las causas penales, civiles mercantiles y de lo familiar que estimen convenientes a fin de verificar que se llevan con arreglo a la ley; si las resoluciones y acuerdos han sido dictados y cumplidos oportunamente; si las notificaciones y diligencias se efectuaron en los plazos legales; si los exhortos y despachos han sido diligenciados y se han observado los términos constitucionales y demás garantías procesales; y
 
-VII. Las demás que le determine el Pleno del Consejo General por medio de acuerdos generales.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+VII. Las demás que le determine el Pleno del Consejo de la Judicatura por medio de acuerdos generales.
 
 ###### Artículo 174.
 
@@ -2003,11 +2097,11 @@ VI. La firma del Visitador y del titular del órgano jurisdiccional correspondie
 
 Del acta elaborada por el Visitador, deberán ser entregadas copias al titular del órgano jurisdiccional visitado y al Director de Disciplina y Responsabilidades, para que proceda de conformidad con sus facultades y obligaciones.
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 177.
 
-El Pleno del Consejo General del Poder Judicial y el Titular de la Dirección de Visitaduría podrán ordenar en cualquier momento la celebración de visitas extraordinarias de inspección, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por cualquier servidor público adscrito al Juzgado de Primera Instancia, Menor o de Paz.
+El Pleno del Consejo de la Judicatura y el Titular de la Dirección de Visitaduría podrán ordenar en cualquier momento la celebración de visitas extraordinarias de inspección, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por cualquier servidor público adscrito al Juzgado de Primera Instancia, Menor o de Paz.
 
 ### CAPÍTULO VIII bis. DE LA ORGANIZACIÓN Y LOGÍSTICA DE LA FUNCIÓN JURISDICCIONAL
 
@@ -2035,9 +2129,13 @@ Las Direcciones de Planeación, Administración y Finanzas y de Contraloría y E
 
 La Dirección de Administración y Contraloría del Poder Judicial contará con las siguientes atribuciones:
 
-I. Vigilar el cumplimiento de las normas de control establecidas por el Consejo General del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-II. Elaborar los dictámenes de proyectos de Presupuesto de Egresos, planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos de los órganos jurisdiccionales dependientes del Consejo General del Poder Judicial, para que sean sometidos a la aprobación del Pleno del propio Consejo; y
+I. Vigilar el cumplimiento de las normas de control establecidas por el Consejo de la Judicatura;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+II. Elaborar los dictámenes de proyectos de Presupuesto de Egresos, planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos de los órganos jurisdiccionales dependientes del Consejo de la Judicatura, para que sean sometidos a la aprobación del Pleno del propio Consejo; y
 
 III. Comprobar el cumplimiento por parte de los órganos administrativos de cada órgano jurisdiccional, respecto de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos.
 
@@ -2046,6 +2144,8 @@ III. Comprobar el cumplimiento por parte de los órganos administrativos de cada
 ### CAPÍTULO IX. DE LA CARRERA JUDICIAL
 
 ### CAPÍTULO X. DEL INGRESO A LA CARRERA JUDICIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 180.
 
@@ -2079,29 +2179,35 @@ X. Juez Menor.
 
 No se considerará como parte de la carrera judicial, el cargo de Secretario General de Acuerdos de Tribunal, cuando recaiga en persona que ostente el nombramiento de Juez de Primera Instancia.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 182.
 
-El Consejo General del Poder Judicial del Estado establecerá, de acuerdo con su Presupuesto de Egresos y la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos de especialización realizados, la antigüedad, grado académico, arraigo y los demás que el propio Consejo estime necesarios, respetando los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación.
+El Consejo de la Judicatura establecerá, de acuerdo con su Presupuesto de Egresos y la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos de especialización realizados, la antigüedad, grado académico, arraigo y los demás que el propio Consejo estime necesarios, respetando los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación.
 
 ### CAPÍTULO XI. DE LA ADSCRIPCIÓN Y RATIFICACIÓN DE FUNCIONARIOS JUDICIALES
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 183.
 
-El ingreso y promoción para las categorías de Juez de Primera Instancia, especializados y mixtos, se realizará a través de concurso interno de oposición y oposición libre en la proporción que fije el Pleno del Consejo General del Poder Judicial del Estado.
+El ingreso y promoción para las categorías de Juez de Primera Instancia, especializados y mixtos, se realizará a través de concurso interno de oposición y oposición libre en la proporción que fije el Pleno del Consejo de la Judicatura.
 
 En los concursos internos de oposición para la plaza de Juez de Primera Instancia Especializado, únicamente podrán participar los jueces de primera instancia mixtos.
 
 Para los concursos internos de plaza de Juez Mixto de Primera Instancia, podrán participar el Secretario General de Acuerdos de Tribunal, el Subsecretario General de Acuerdos de Tribunal, los secretarios relatores de magistrados, los secretarios de acuerdos de Sala, los secretarios de juzgado de primera instancia, los notificadoree (sic), actuarios y los jueces menores y de paz.
 
-El Consejo General del Poder Judicial del Estado tendrá la facultad de obtener y verificar, en todo momento, la información que los aspirantes le hubieren proporcionado.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
+El Consejo de la Judicatura tendrá la facultad de obtener y verificar, en todo momento, la información que los aspirantes le hubieren proporcionado.
 
 ###### Artículo 184.
 
 Los concursos de oposición para el ingreso a las categorías de Juez Especializado o Juez Mixto de Primera Instancia, se sujetarán al siguiente procedimiento:
 
-I. El Consejo General del Poder Judicial del Estado emitirá una convocatoria que deberá ser publicada por una vez en el Boletín Judicial, y en tres de los diarios de mayor circulación en el Estado. En la convocatoria, se deberá especificar si el concurso se trata de concurso abierto de oposición o de concurso interno de oposición.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+I. El Consejo de la Judicatura emitirá una convocatoria que deberá ser publicada por una vez en el Boletín Judicial, y en tres de los diarios de mayor circulación en el Estado. En la convocatoria se deberá especificar si el concurso se trata de concurso abierto de oposición o de concurso interno de oposición.
 
 La convocatoria señalará las categorías y número de vacantes sujetas a concurso, el lugar, día y hora en que se llevarán a cabo los exámenes, así como el plazo, lugar de inscripción y demás elementos que se estimen necesarios;
 
@@ -2111,25 +2217,33 @@ De entre el número total de aspirantes sólo tendrán derecho a pasar a la sigu
 
 III. Los aspirantes seleccionados, en términos de la fracción anterior, resolverán los casos prácticos que se les asignen mediante la redacción de sentencias. Posteriormente se procederá a la realización del examen oral y público que practique el jurado, mediante preguntas e interpelaciones que realicen sus miembros sobre toda clase de cuestiones relativas a la función que se les encomendaría. La calificación final se determinará con el promedio de los puntos que cada miembro del jurado le asigne al sustentante.
 
-Al llevar a cabo su evaluación, el Jurado tomará en consideración los cursos y estudios que haya realizado el sustentante, la antigüedad en el Poder Judicial del Estado, el desempeño, el grado académico y los cursos de actualización y especialización que haya acreditado, en términos del reglamento que dicte el Consejo General del Poder Judicial. Cuando ningún sustentante alcance el puntaje mínimo requerido, el concurso se declarará desierto; y
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
-IV. Concluidos los exámenes orales, se levantará un acta final y el presidente del Jurado declarará quienes son los concursantes que hubieren resultado aprobados y el medio de selección utilizado, e informará de inmediato al Consejo General para que expida los nombramientos respectivos y los publique en el Boletín Judicial del Estado.
+Al llevar a cabo su evaluación, el Jurado tomará en consideración los cursos y estudios que haya realizado el sustentante, la antigüedad en el Poder Judicial del Estado, el desempeño, el grado académico y los cursos de actualización y especialización que haya acreditado, en términos del reglamento que dicte el Consejo de la Judicatura. Cuando ningún sustentante alcance el puntaje mínimo requerido, el concurso se declarará desierto; y
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+IV. Concluidos los exámenes orales, se levantará un acta final y el presidente del Jurado declarará quienes son los concursantes que hubieren resultado aprobados y el medio de selección utilizado, e informará de inmediato al Consejo de la Judicatura para que expida los nombramientos respectivos y los publique en el Boletín Judicial del Estado.
 
 ###### Artículo 185.
 
 Para acceder a las categorías de Secretario General de Acuerdos de Tribunal, Subsecretario General de Acuerdos de Tribunal, Secretario Relator, Secretario de Acuerdos de Sala, Secretario de Juzgado Especializado de Primera Instancia, Secretario de Juzgado Mixto de Primera Instancia, Notificador, Actuario del Poder Judicial del Estado, Juez Menor y Juez de Paz, se requerirá el acreditamiento de un examen de aptitud.
 
-El Consejo General del Poder Judicial del Estado tendrá la facultad de obtener y verificar, en todo momento, la información que los aspirantes le hubieren proporcionado.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
+El Consejo de la Judicatura tendrá la facultad de obtener y verificar, en todo momento, la información que los aspirantes le hubieren proporcionado.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 186.
 
-La celebración y organización de los exámenes de aptitud para las categorías a que se refiere el artículo anterior, estarán a cargo de la Dirección de Investigación y Capacitación en términos de las bases que determine el Consejo General del Poder Judicial del Estado, de conformidad con lo que disponen esta ley y el reglamento respectivo.
+La celebración y organización de los exámenes de aptitud para las categorías a que se refiere el artículo anterior, estarán a cargo de la Dirección de Investigación y Capacitación en términos de las bases que determine el Consejo de la Judicatura, de conformidad con lo que disponen esta ley y el reglamento respectivo.
 
-Los exámenes de aptitud se realizarán a petición del titular del órgano que deba llevar a cabo la correspondiente designación, debiendo preferir a quienes se encuentren en las categorías inmediatas inferiores. Igualmente podrán solicitar que se practique un examen de aptitud, las personas interesadas en ingresar a las categorías señaladas en el primer párrafo de este artículo, quienes de aprobarlo serán consideradas en la lista que deba integrar el Consejo General del Poder Judicial del Estado, para ser tomados en cuenta en caso de presentarse una vacante en alguna de esas categorías.
+Los exámenes de aptitud se realizarán a petición del titular del órgano que deba llevar a cabo la correspondiente designación, debiendo preferir a quienes se encuentren en las categorías inmediatas inferiores. Igualmente podrán solicitar que se practique un examen de aptitud, las personas interesadas en ingresar a las categorías señaladas en el primer párrafo de este artículo, quienes de aprobarlo serán consideradas en la lista que deba integrar el Consejo de la Judicatura, para ser tomados en cuenta en caso de presentarse una vacante en alguna de esas categorías.
 
-El Consejo General del Poder Judicial del Estado establecerá, mediante disposiciones generales, el tiempo máximo en que las personas aprobadas en los términos del párrafo anterior permanezcan en dicha lista.
+El Consejo de la Judicatura establecerá, mediante disposiciones generales, el tiempo máximo en que las personas aprobadas en los términos del párrafo anterior permanezcan en dicha lista.
 
-Antes de designar a la persona que deba ocupar el cargo, el titular del órgano deberá solicitar al Consejo General del Poder Judicial del Estado, que le ponga a la vista la relación de las personas que se encuentren en aptitud de ocupar la vacante.
+Antes de designar a la persona que deba ocupar el cargo, el titular del órgano deberá solicitar al Consejo de la Judicatura, que le ponga a la vista la relación de las personas que se encuentren en aptitud de ocupar la vacante.
 
 ###### Artículo 187.
 
@@ -2159,13 +2273,15 @@ Por cada miembro titular se nombrará un suplente designado en los términos que
 
 ###### Artículo 189.
 
-Corresponde al Pleno del Consejo General del Poder Judicial del Estado, asignar la competencia territorial y el órgano en que deban ejercer sus funciones los jueces especializados y mixtos de primera instancia y jueces menores y de paz. Asimismo, le corresponde readscribirlos a una competencia territorial o a un órgano de materia distinta, siempre que las necesidades del servicio así lo requieran y exista causa fundada y suficiente para ello.
+Corresponde al Pleno del Consejo de la Judicatura, asignar la competencia territorial y el órgano en que deban ejercer sus funciones los jueces especializados y mixtos de primera instancia y jueces menores y de paz. Asimismo, le corresponde readscribirlos a una competencia territorial o a un órgano de materia distinta, siempre que las necesidades del servicio así lo requieran y exista causa fundada y suficiente para ello.
 
-Siempre que fuere posible, y en términos de lo dispuesto en este capítulo, el Consejo General del Poder Judicial del Estado establecerá las bases para que los jueces puedan elegir la plaza y materia del órgano de adscripción.
+Siempre que fuere posible, y en términos de lo dispuesto en este capítulo, el Consejo de la Judicatura establecerá las bases para que los jueces puedan elegir la plaza y materia del órgano de adscripción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 190.
 
-En aquellos casos en que para la primera adscripción de jueces hubieran varias plazas vacantes, el Consejo General del Poder Judicial del Estado tomará en consideración, de conformidad con el acuerdo respectivo, los siguientes elementos:
+En aquellos casos en que para la primera adscripción de jueces hubieran varias plazas vacantes, el Consejo de la Judicatura tomará en consideración, de conformidad con el acuerdo respectivo, los siguientes elementos:
 
 I. La calificación obtenida en el concurso de oposición;
 
@@ -2197,9 +2313,11 @@ VII. La cantidad de resoluciones dictadas que resulten infundadas o notoriamente
 
 El valor de cada elemento se determinará en el reglamento respectivo y deberá constar en las resoluciones del Consejo de la Judicatura en que se acuerde un cambio de adscripción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 192.
 
-Para la ratificación de los jueces de primera instancia, el Consejo General del Poder Judicial del Estado tomará en consideración, de conformidad con el reglamento respectivo, los siguientes elementos:
+Para la ratificación de los jueces de primera instancia, el Consejo de la Judicatura tomará en consideración, de conformidad con el reglamento respectivo, los siguientes elementos:
 
 I. El desempeño que se haya tenido en el ejercicio de su función;
 
@@ -2235,9 +2353,11 @@ III. Editar el boletín Judicial, cuyo objeto es publicitar ciertos actos y con 
 
 IV. Operar la Oficialía de Partes Común, que deberá recibir promociones y escritos de término judicial, fuera de las horas hábiles, entregando copias con el acuse de recibo, y remitirlos al día siguiente hábil, a primera hora a la autoridad correspondiente.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 194.
 
-El Consejo General del Poder Judicial podrá concesionar a particulares, la edición y venta del Boletín Judicial.
+El Consejo de la Judicatura podrá concesionar a particulares, la edición y venta del Boletín Judicial.
 
 ###### Artículo 195.
 
@@ -2279,7 +2399,9 @@ V. Conocer de algún asunto o participar en algún acto para el cual se encuentr
 
 VI. Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones generales correspondientes;
 
-VII. No poner en conocimiento del Consejo General del Poder Judicial del Estado cualquier acto tendiente a vulnerar la independencia de la función judicial;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+VII. No poner en conocimiento del Consejo de la Judicatura cualquier acto tendiente a vulnerar la independencia de la función judicial;
 
 VIII. No preservar la dignidad, imparcialidad y profesionalismo propios de la función judicial en el desempeño de sus labores;
 
@@ -2295,9 +2417,9 @@ XI. Dictar resoluciones o trámites infundados o notoriamente improcedentes o in
 
 XII. Fijar cauciones o fianzas notoriamente excesivas o insuficientes;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-XIII. Desobedecer injustificadamente las circulares expedidas por el Supremo Tribunal de Justicia y Tribunal Administrativo, así como las expedidas por el Consejo General;
+XIII. Desobedecer injustificadamente las circulares expedidas por el Supremo Tribunal de Justicia y el Consejo de la Judicatura;
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
@@ -2403,6 +2525,8 @@ VII. Retirarse de su área de trabajo sin autorización o causa justificada.
 
 ### CAPÍTULO V. DEL PROCEDIMIENTO EN CONFLICTOS LABORALES
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 201.
 
 Serán competentes para conocer de las responsabilidades de los servidores públicos del Poder Judicial del Estado:
@@ -2415,13 +2539,19 @@ I. El Supremo Tribunal de Justicia funcionando en Pleno, tratándose de faltas d
 
 II. El Presidente del Supremo Tribunal de Justicia cuando se trate de servidores públicos de ese órgano, en los casos no comprendidos en la fracción anterior;
 
-III. El Pleno del Consejo General del Poder Judicial del Estado, tratándose de faltas graves de jueces de primera instancia, menores y de paz, cuando las sanciones aplicables sean las de destitución o inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-IV. El órgano colegiado que determine el Consejo General del Poder Judicial del Estado, en los casos no comprendidos en la fracción anterior.
+III. El Pleno del Consejo de la Judicatura, tratándose de faltas graves de jueces de primera instancia, menores y de paz, cuando las sanciones aplicables sean las de destitución o inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público; y
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+IV. El órgano colegiado que determine el Consejo de la Judicatura, en los casos no comprendidos en la fracción anterior.
 
 Siempre que de un mismo acto se derive responsabilidad por una falta grave de un Juez de Primera Instancia, Menor o de Paz, y otro u otros servidores públicos del Poder Judicial del Estado, se estará a lo previsto en la fracción III de este artículo.
 
-El Consejo General del Poder Judicial del Estado podrá señalar, mediante acuerdos generales, los casos en que la Contraloría del Poder Judicial sea competente para conocer de los procedimientos de responsabilidad comprendidos en la fracción IV de este artículo.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
+El Consejo de la Judicatura podrá señalar, mediante acuerdos generales, los casos en que la Contraloría del Poder Judicial sea competente para conocer de los procedimientos de responsabilidad comprendidos en la fracción IV de este artículo.
 
 ###### Artículo 202.
 
@@ -2477,13 +2607,13 @@ V. Cese o destitución; y
 
 VI. Destitución con inhabilitación hasta por seis años.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 205.
 
-Con independencia de si el motivo de la queja da o no lugar a responsabilidad, el Presidente del Tribunal correspondiente o del Consejo General del Poder Judicial del Estado, en su caso, dictará las providencias oportunas para su corrección o remedio inmediato, y si de la propia queja se desprende la realización de una conducta que pudiera dar lugar a responsabilidad, dará cuenta al Pleno del órgano que corresponda para que proceda en los términos previstos en este Título.
+Con independencia de si el motivo de la queja da o no lugar a responsabilidad, el Presidente del Tribunal correspondiente o del Consejo de la Judicatura, en su caso, dictará las providencias oportunas para su corrección o remedio inmediato, y si de la propia queja se desprende la realización de una conducta que pudiera dar lugar a responsabilidad, dará cuenta al Pleno del órgano que corresponda para que proceda en los términos previstos en este Título.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
-
-Si el Pleno de los Tribunales correspondientes, el Consejo General del Poder Judicial del Estado o sus presidentes estimaren que la queja fue interpuesta sin motivo, se impondrá al quejoso o a su representante, o abogado, o a ambos, una multa de diez a ciento veinte veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción.
+Si el Pleno de los Tribunales correspondientes, el Consejo de la Judicatura o sus presidentes estimaren que la queja fue interpuesta sin motivo, se impondrá al quejoso o a su representante, o abogado, o a ambos, una multa de diez a ciento veinte veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
@@ -2543,7 +2673,7 @@ La interposición de la revisión administrativa no interrumpirá en ningún cas
 
 ###### Artículo 214.
 
-Tratándose de conflictos relacionados con los servidores públicos de base, el procedimiento se substanciará a través de una comisión constituida con carácter permanente, la cual emitirá un dictamen que pasará al Pleno del Tribunal correspondiente o del Consejo General, para que éste resuelva lo conducente.
+Tratándose de conflictos relacionados con los servidores públicos de base, el procedimiento se substanciará a través de una comisión constituida con carácter permanente, la cual emitirá un dictamen que pasará al Pleno del Tribunal correspondiente o del Consejo de la Judicatura, para que éste resuelva lo conducente.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
@@ -2559,9 +2689,11 @@ La Comisión Substanciadora funcionará con un Secretario de Acuerdos que autori
 
 Los miembros de la Comisión Substanciadora que no sean magistrados, deberán reunir, para ser designados los requisitos que para ser Secretario del Supremo Tribunal, durarán en su cargo tres años y podrán ser removidos libremente por quienes los designaron.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 218.
 
-En el caso de servidores públicos de confianza, el procedimiento se substanciará por los magistrados instructores que designe el Pleno respectivo, sus resoluciones, serán autorizadas por el Secretario General de Acuerdos del respectivo Tribunal o del Consejo General.
+En el caso de servidores públicos de confianza, el procedimiento se substanciará por los magistrados instructores que designe el Pleno respectivo, sus resoluciones, serán autorizadas por el Secretario General de Acuerdos del respectivo Tribunal o del Consejo de la Judicatura.
 
 ###### Artículo 219.
 
@@ -2615,7 +2747,9 @@ I. Integrar y mantener actualizados los expedientes de los auxiliares de la admi
 
 II. Vigilar la conducta de los auxiliares de la administración de justicia en los términos del reglamento de esta ley; y
 
-III. Las demás que le asignen las leyes, el reglamento y el Pleno del Consejo General del Poder Judicial o la comisión respectiva.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+III. Las demás que le asignen las leyes, el reglamento y el Pleno del Consejo de la Judicatura o la comisión respectiva.
 
 ###### Artículo 224.
 
@@ -2629,13 +2763,17 @@ III. Los albaceas, interventores, depositarios, tutores y curadores.
 
 Estos auxiliares quedan obligados al cabal cumplimiento del cargo de acuerdo a la ley y serán responsables de los daños y perjuicios que causaren, con independencia de las sanciones procesales y administrativas.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 225.
 
-El Pleno del Consejo General del Poder Judicial determinará el número de auxiliares, sancionará su ingreso y permanencia, y para ello, formulará anualmente en el mes de abril, una lista de las personas que pueden ejercer dichas funciones, según las diversas ramas del conocimiento humano.
+El Pleno del Consejo de la Judicatura determinará el número de auxiliares, sancionará su ingreso y permanencia, y para ello, formulará anualmente en el mes de abril, una lista de las personas que pueden ejercer dichas funciones, según las diversas ramas del conocimiento humano.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 226.
 
-Los jueces únicamente deben designar como auxiliares de la justicia a las personas que haya autorizado el Pleno del Consejo General.
+Los jueces únicamente deben designar como auxiliares de la justicia a las personas que haya autorizado el Pleno del Consejo de la Judicatura.
 
 Sólo en el caso de que no existiere lista de peritos en el arte o ciencia de que trate, o que los enlistados estuvieren impedidos para ejercer el cargo, las autoridades podrán nombrarlos libremente.
 
@@ -2657,7 +2795,7 @@ Los peritajes que versen sobre materias relativas a una profesión, deberán enc
 
 En los casos de extrema pobreza, a criterio del juzgador, los servicios que presten los peritos se estimarán de asistencia social, por lo que se otorgarán gratuitamente.
 
-### CAPÍTULO ÚNICO. DE LA JURISPRUDENCIA DEL SUPREMO TRIBUNAL DE JUSTICIA Y DEL TRIBUNAL DE LO ADMINISTRATIVO
+### CAPÍTULO ÚNICO. DE LA JURISPRUDENCIA DEL SUPREMO TRIBUNAL DE JUSTICIA
 
 ###### Artículo 231.
 
@@ -2712,6 +2850,8 @@ Los albaceas, interventores, depositarios, tutores y curadores desempeñan una f
 Quedan sujetos a las determinaciones de esta ley, su reglamento y las demás leyes aplicables.
 
 ## TÍTULO NOVENO. DE LA JURISPRUDENCIA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JULIO DE 2019)</small>
 
 ### CAPÍTULO II. DEL HABER POR RETIRO DE LOS JUECES DEL PODER JUDICIAL
 
@@ -3276,3 +3416,9 @@ P.O. 26 DE OCTUBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que contravengan el presente decreto.
+
+P.O. 27 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27313/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL Y LA FRACCIÓN II DEL ARTÍCULO 60 DE LA LEY DE ATENCIÓN A VÍCTIMAS, AMBAS DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
