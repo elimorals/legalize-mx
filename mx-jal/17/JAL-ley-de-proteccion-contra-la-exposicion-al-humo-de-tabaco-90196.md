@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco-90196"
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-17"
-last_updated: "2016-10-11"
+last_updated: "2019-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 17 de noviembre del 2012.
 
@@ -67,9 +65,11 @@ VII. Las demás que sean necesarias para el cumplimiento de sus objetivos.
 
 ° A falta de disposición expresa se aplicará, en lo sustantivo la Ley Estatal de Salud, y en todo lo demás, la Ley de Procedimiento Administrativo, ambos ordenamientos del Estado de Jalisco.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 3.
 
-° Para los efectos de la presente ley se entenderá por:
+º Para los efectos de la presente ley se entenderá por:
 
 I. Denuncia ciudadana: notificación hecha a la autoridad competente por cualquier persona respecto de actos o hechos que pudieran constituir infracciones a las disposiciones contenidas en esta ley;
 
@@ -81,7 +81,9 @@ IV. Fumador activo: persona que inhala y exhala, intencionalmente, el humo gener
 
 V. Fumador pasivo: a quien inhala el humo exhalado por el fumador activo;
 
-VI. La Secretaría: a la Secretaría de Salud del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+VI. La Secretaría: a la Secretaría de Salud;
 
 VII. Ley: a la Ley de Protección contra la Exposición al Humo de Tabaco para el Estado de Jalisco;
 
@@ -280,3 +282,11 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27312/LXII/19 QUE REFORMA EL ARTÍCULO 3 DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DEL TABACO PARA EL ESTADO DE JALISCO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
