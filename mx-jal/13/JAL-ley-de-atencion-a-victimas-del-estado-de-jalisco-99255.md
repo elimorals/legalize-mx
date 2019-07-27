@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-atencion-a-victimas-del-estado-de-jalisco-99255"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-27"
-last_updated: "2019-05-18"
+last_updated: "2019-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 27 de febrero de 2014.
 
@@ -887,7 +887,9 @@ b) El Secretario General de Gobierno; y
 
 c) El Fiscal General;
 
-II. Poder Legislativo: Los presidentes de las Comisiones de Justicia, Derechos Humanos y Seguridad Pública;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+II. Poder Legislativo: Los presidentes de las Comisiones de Seguridad y Justicia y Derechos humanos y pueblos originarios;
 
 III. Poder Judicial:
 
@@ -1754,3 +1756,9 @@ P.O. 18 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27278/LXII/19 QUE REFORMA EL ARTÍCULO 62, FRACCIONES II Y III DE LA LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 27 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27313/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL Y LA FRACCIÓN II DEL ARTÍCULO 60 DE LA LEY DE ATENCIÓN A VÍCTIMAS, AMBAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
