@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-cultura-fisica-y-deporte-del-estado-de-jalisco-87613"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-19"
-last_updated: "2017-09-19"
+last_updated: "2019-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 19 de abril de 2012.
 
@@ -171,9 +171,13 @@ II. La Secretaría de Educación;
 
 III. La Secretaría de Salud;
 
-IV. El Instituto Jalisciense de la Juventud;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-V. La Comisión de Juventud y Deporte del Poder Legislativo del Estado;
+IV. La Secretaría de Planeación y Participación Ciudadana;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+V. La Comisión de Educación, Cultura y Deporte del Poder Legislativo del Estado;
 
 VI. La Delegación de la Confederación Deportiva Mexicana en el estado de Jalisco;
 
@@ -325,17 +329,17 @@ El Consejo Directivo del Code Jalisco se conformará por el Director General del
 
 I. Secretaría de Educación;
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-II. Secretaría de Planeación, Administración y Finanzas;
+II. Secretaría de Planeación y Participación Ciudadana;
 
 III. Secretaría de Salud;
 
-IV. Instituto Estatal de la Juventud;
+IV. (DEROGADA, P.O. 27 DE JULIO DE 2019)
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-V. Secretaría de Desarrollo e Integración Social;
+V. Secretaría de Igualdad Sustantiva entre Hombres y Mujeres;
 
 VI. Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco;
 
@@ -1070,3 +1074,9 @@ P.O. 19 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26428/LXI/17 QUE REFORMA EL ARTÍCULO 3° DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 27 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27314/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA; LA LEY DE ATENCIÓN A LA JUVENTUD; LEY DE BENEMÉRITOS, LEY DE BIBLIOTECAS; LEY DE FOMENTO A LA CULTURA; LEY DE CULTURA FÍSICA Y DEPORTE, TODAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
