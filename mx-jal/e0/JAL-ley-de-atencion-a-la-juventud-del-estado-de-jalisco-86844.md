@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-atencion-a-la-juventud-del-estado-de-jalisco-86844"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-24"
-last_updated: "2018-09-13"
+last_updated: "2019-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ATENCIÓN A LA JUVENTUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
 
 Ley publicada en la sección III del Periódico Oficial del Estado de Jalisco, el sábado 24 de marzo de 2012.
 
@@ -81,7 +81,9 @@ IV. La Ley de los Derechos de las Niñas, los Niños y Adolescentes en el Estado
 
 V. La Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios;
 
-VI. La Ley de Planeación para el Estado de Jalisco y sus Municipios;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+VI. La Ley de Planeación Participativa para el Estado de Jalisco y sus Municipios;
 
 VII. La Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, y
 
@@ -97,13 +99,13 @@ II. Estado: el estado libre y soberano de Jalisco;
 
 III. Instancias municipales: cualquier organismo, secretaría o dependencia de atención a la juventud al interior de los municipios;
 
-IV. Instituto: el Instituto Jalisciense de la Juventud:
+IV. (DEROGADA, P.O. 27 DE JULIO DE 2019)
 
 V. Joven: a la mujer u hombre cuya edad se comprenda entre los doce y veintinueve años;
 
 VI. Ley: la presente Ley de Atención a la Juventud del Estado de Jalisco;
 
-VII. Ley Orgánica: la Ley Orgánica del Instituto Jalisciense de la Juventud;
+VII. (DEROGADA, P.O. 27 DE JULIO DE 2019)
 
 VIII. Programa: el Programa Estatal de la Juventud;
 
@@ -311,39 +313,55 @@ Los que realicen funciones dentro de los consejos que conforman el Sistema Estat
 
 El Sistema Estatal de la Juventud se integra por:
 
-I. El Instituto Jalisciense de la Juventud, representado por su Director General;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-II. El Consejo Técnico de la Juventud;
+I. La Secretaría General de Gobierno, representada por su Titular;
 
-III. El Consejo Estatal de la Juventud, y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-IV. La Junta Directiva del Instituto Jalisciense de la Juventud.
+II. El Consejo Técnico de la Juventud; y
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+III. El Consejo Estatal de la Juventud.
+
+IV. (DEROGADA, P.O. 27 DE JULIO DE 2019)
 
 #### SECCIÓN PRIMERA. DEL INSTITUTO JALISCIENSE DE LA JUVENTUD
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 19.
 
-El Instituto Jalisciense de la Juventud es el organismo público descentralizado del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propios, responsable de la definición e instrumentación de las políticas públicas en el estado en materia de juventud.
+La Secretaría General de Gobierno será la responsable de la definición e instrumentación de las políticas públicas en el Estado en materia de juventud.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 20.
 
-El Instituto tiene por objeto, además de lo señalado en la Ley Orgánica, lo siguiente:
+La Secretaría General de Gobierno, tendrá las siguientes atribuciones:
 
 I. Dirigir y vincular los esfuerzos de las entidades que conforman el Sistema Estatal de Juventud, así como proponer, realizar y dar seguimiento al programa;
 
-II. Participar con el Ejecutivo en el diseño de políticas presupuestales del instituto, buscando garantizar el desarrollo de sus programas y acciones en beneficio de los jóvenes de Jalisco;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+II. Participar en el diseño de políticas presupuestales que garanticen el desarrollo de programas y acciones en beneficio de los jóvenes de Jalisco;
 
 III. Actuar como órgano de consulta y asesoría de las dependencias y entidades integrantes del sistema;
 
 IV. Promover coordinadamente con los integrantes del sistema, en el ámbito de sus respectivas competencias, las acciones destinadas a mejorar el nivel de vida de la juventud, así como sus expectativas sociales, culturales y derechos, y
 
-V. Las demás que le establece para el cumplimiento de sus fines la Ley Orgánica del Instituto Jalisciense de la Juventud.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+V. Las demás que le establece para el cumplimiento de sus fines la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco.
 
 #### SECCIÓN SEGUNDA. DEL CONSEJO TÉCNICO DE LA JUVENTUD
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 21.
 
-El Consejo Técnico de la Juventud es el órgano colegiado que coadyuva con el instituto orientando y brindando asesoría especializada y técnica para el cumplimiento de sus fines.
+El Consejo Técnico de la Juventud es el órgano colegiado que coadyuva con la Secretaría General de Gobierno orientando y brindando asesoría especializada y técnica para el cumplimiento de sus fines.
 
 ###### Artículo 22.
 
@@ -351,9 +369,13 @@ Son atribuciones del Consejo Técnico de la Juventud las siguientes:
 
 I. Vigilar y coadyuvar al cumplimiento de los objetivos de esta ley, del sistema y del programa;
 
-II. Asesorar al instituto en el cumplimiento de sus tareas, y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-III. Coadyuvar con el instituto para los efectos de coordinación entre los diferentes poderes del Estado en los temas de juventud.
+II. Brindar asesoría a la Secretaría General de Gobierno en materia de atención a la juventud; y
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+III. Coadyuvar con la Secretaría General de Gobierno para los efectos de coordinación entre los diferentes poderes del Estado en los temas de juventud.
 
 ###### Artículo 23.
 
@@ -365,13 +387,21 @@ I. La Secretaría General de Gobierno;
 
 II. La Secretaria de Desarrollo Económico;
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-III. La Secretaría de Planeación, Administración y Finanzas;
+III. La Secretaría de la Hacienda Pública;
 
-IV. La Comisión de Juventud y Deporte del H. Congreso del Estado de Jalisco, y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-V. El Consejo Estatal de Población.
+IV. La Secretaría de Planeación y Participación Ciudadana;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+V. La Comisión de Educación, Cultura y Deporte del Congreso del Estado de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2019)</small>
+
+VI. El Instituto de Información Estadística y Geográfica del Estado de Jalisco.
 
 Los titulares a que se refiere el presente artículo deberán nombrar por escrito a sus suplentes para que acudan en su nombre y representación, cuando sea el caso, en las sesiones del consejo.
 
@@ -393,9 +423,9 @@ II. Vigilar el cumplimiento de los objetivos del programa.
 
 El Consejo Estatal de la Juventud se encuentra conformado por:
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-I. El Director General del Instituto.
+I. El titular de la Secretaría General de Gobierno;
 
 II. Los integrantes de la sociedad civil, representados por los titulares de:
 
@@ -409,15 +439,19 @@ d) Hasta cinco jóvenes destacados en los diferentes ámbitos sociales, cultural
 
 e) Hasta cinco asociaciones civiles u organizaciones no gubernamentales.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 27.
 
-Los representantes de la sociedad civil que conformen el Consejo Estatal de la Juventud serán elegidos por la junta directiva del Instituto, previa convocatoria abierta emitida por el Instituto Jalisciense de la Juventud, a través de su Director General.
+Los representantes de la sociedad civil que conformen el Consejo Estatal de la Juventud serán elegidos por el Titular del Poder Ejecutivo, previa convocatoria abierta emitida por la Secretaría General de Gobierno, a través de su titular.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2017)</small>
 
 Los representantes de la sociedad civil durarán en su cargo tres años, con posibilidad de reelección por un periodo igual.
 
-Los periodos para el que son electos los representantes de la sociedad civil deberán coincidir con los periodos de las gestiones municipales en el Estado, y podrán ser removidos libremente por acuerdo de las dos terceras partes de los integrantes de la Junta Directiva del Instituto.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
+Los periodos para el que son electos los representantes de la sociedad civil deberán coincidir con los periodos de las gestiones municipales en el Estado, y podrán ser removidos libremente por el Titular del Poder Ejecutivo.
 
 #### SECCIÓN CUARTA. DE LA COORDINACIÓN INSTITUCIONAL
 
@@ -431,21 +465,29 @@ Los poderes públicos del Estado de Jalisco, los organismos auxiliares de la adm
 
 Las dependencias y entidades estatales y municipales podrán:
 
-I. Proponer al Instituto las políticas públicas de atención a la juventud con el objetivo de integrarlas en el programa, y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+I. Proponer a la Secretaría General de Gobierno, las políticas públicas de atención a la juventud con el objetivo de integrarlas en el programa; y
 
 II. Ejecutar las políticas públicas establecidas en el programa y en los planes municipales de desarrollo, en sus respectivas áreas de competencia.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 30.
 
-Para garantizar la coordinación entre el instituto y las instancias estatales y municipales, manteniendo una vinculación estrecha entre todas las partes del sistema, el instituto procurará establecer enlaces regionales de acuerdo con las necesidades que resulten del establecimiento de políticas públicas en apoyo a la juventud.
+Para garantizar la coordinación entre la Secretaría General de Gobierno y las instancias estatales y municipales, manteniendo una vinculación estrecha entre todas las partes del sistema, la Secretaría General de Gobierno procurará establecer enlaces regionales de acuerdo con las necesidades que resulten del establecimiento de políticas públicas en apoyo a la juventud.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 31.
 
-Las entidades integrantes del sistema deberán presentar al instituto las propuestas de políticas públicas que consideren pertinentes en base a diagnósticos especializados en el área de su competencia. Estas deberán ser presentadas con antelación a efecto de que sean evaluadas y, en su caso, integradas al programa y a los planes municipales de desarrollo.
+Las entidades integrantes del sistema deberán presentar a la Secretaría General de Gobierno las propuestas de políticas públicas que consideren pertinentes en base a diagnósticos especializados en el área de su competencia. Estas deberán ser presentadas con antelación a efecto de que sean evaluadas y, en su caso, integradas al programa y a los planes municipales de desarrollo.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 32.
 
-Las entidades integrantes del sistema deberán presentar al instituto los resultados y avances del programa en el ámbito de su competencia.
+Las entidades integrantes del sistema deberán presentar a la Secretaría General de Gobierno los resultados y avances del programa en el ámbito de su competencia.
 
 ## TÍTULO CUARTO. DEL PROGRAMA ESTATAL DE LA JUVENTUD
 
@@ -479,9 +521,11 @@ III. Diseñar los mecanismos de coordinación entre las entidades integrantes de
 
 IV. Garantizar en su más amplia dimensión el desarrollo integral de la juventud a través de la implementación de un modelo de participación en el que los jóvenes se posicionen como un grupo de la sociedad que ejerza plenamente sus derechos y deberes, reivindicando su posición social y manteniendo su identidad individual y colectiva.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 38.
 
-El programa, como instrumento de planeación integral del Plan Estatal de Desarrollo en el estado, deberá publicarse en el sitio oficial del instituto y difundirse a través de los medios pertinentes que garanticen el conocimiento y la aplicación de su contenido.
+El programa, como instrumento de planeación integral del Plan Estatal de Desarrollo en el Estado, deberá publicarse en el sitio oficial de la Secretaría General de Gobierno y difundirse a través de los medios pertinentes que garanticen el conocimiento y la aplicación de su contenido.
 
 ###### Artículo 39.
 
@@ -493,15 +537,25 @@ Las disposiciones contenidas en el programa serán de carácter obligatorio para
 
 El programa deberá desarrollarse de la siguiente manera:
 
-I. El instituto, en coordinación con el consejo técnico, deberá establecer las bases metodológicas para el desarrollo del programa y hacerlas del conocimiento de los integrantes del sistema;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-II. Para los efectos de trabajo coordinado, el Consejo Estatal de la Juventud formalizará una agenda de trabajo, la cual presentará tanto al instituto como al consejo técnico para su conocimiento;
+I. La Secretaría General de Gobierno, en coordinación con el consejo técnico, deberá establecer las bases metodológicas para el desarrollo del programa y hacerlas del conocimiento de los integrantes del sistema;
 
-III. El Consejo Estatal de la Juventud propondrá, en un periodo definido por el instituto, las políticas públicas, estrategias, programas y acciones que en el área de su competencia considere pertinentes;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-IV. Una vez agotado el periodo de discusión de propuestas, los integrantes del sistema deberán hacerlas llegar al instituto para que éste, en coordinación con el consejo técnico, integre la propuesta de programa, y
+II. Para los efectos de trabajo coordinado, el Consejo Estatal de la Juventud formalizará una agenda de trabajo, la cual presentará tanto a la Secretaría General de Gobierno como al consejo técnico para su conocimiento;
 
-V. La propuesta de programa deberá ser presentada a la junta directiva del instituto para su aprobación inicial y enviada al Ejecutivo para su valoración y, en su caso, inclusión en el Plan Estatal de Desarrollo.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+III. El Consejo Estatal de la Juventud propondrá, en un periodo definido por la Secretaría General de Gobierno, las políticas públicas, estrategias, programas y acciones que en el área de su competencia considere pertinentes;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+IV. Una vez agotado el periodo de discusión de propuestas, los integrantes del sistema deberán hacerlas llegar a la Secretaría General de Gobierno para que ésta, en coordinación con el consejo técnico, integre la propuesta de programa; y
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+V. La propuesta de programa deberá ser enviada al Ejecutivo para su valoración y, en su caso, inclusión en el Plan Estatal de Desarrollo.
 
 ###### Artículo 41.
 
@@ -553,9 +607,11 @@ I. Desarrollar programas y servicios partiendo de las necesidades de los jóvene
 
 II. Valorar las experiencias previas a fin de procurar que la creación o modificación de políticas públicas sean vanguardistas y que tiendan a la mejora continua de sus resultados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 45.
 
-Será obligación del instituto y de las instancias municipales especializadas en materia de juventud elaborar los informes correspondientes, que entre otras cosas deberán contener:
+Será obligación de la Secretaría General de Gobierno y de las instancias municipales especializadas en materia de juventud elaborar los informes correspondientes, que entre otras cosas deberán contener:
 
 I. El diagnóstico sobre los problemas de la juventud en el área de su competencia, y
 
@@ -706,3 +762,9 @@ P.O. 13 DE SEPTIEMBRE DE 2018.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. La Comisaría de Justicia para Adolescentes del Estado, como Órgano Desconcentrado Especializado de la Fiscalía de Reinserción Social operará con los recursos asignados previo a esta reforma, y se deberán respetar los derechos laborales del personal a su cargo.
+
+P.O. 27 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27314/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA; LA LEY DE ATENCIÓN A LA JUVENTUD; LEY DE BENEMÉRITOS; LEY DE BIBLIOTECAS; LEY DE FOMENTO A LA CULTURA; LEY DE CULTURA FÍSICA Y DEPORTE, TODAS DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
