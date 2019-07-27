@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2018-12-11"
+last_updated: "2019-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -203,7 +203,11 @@ La Fiscalía General en el ejercicio de sus atribuciones podrá requerir la inte
 
 Todos los vehículos blindados deberán estar inscritos en el registro que al efecto lleve a cabo el Consejo Estatal, conforme al reglamento respectivo.
 
-## Título Segundo. Del Sistema Estatal de Seguridad Pública
+Tíitulo Segundo
+
+Del Sistema Estatal de Seguridad Pública
+
+## Título Tercero. Del Programa Estatal de Seguridad Pública
 
 ### Capítulo I. Del Consejo Estatal de Seguridad Pública
 
@@ -313,7 +317,9 @@ f) La Comisaria;
 
 III. De los poderes Legislativo y Judicial del Estado:
 
-a) Los diputados presidentes de las comisiones legislativas de Seguridad Pública y Protección Civil, de Readaptación Social y de Justicia del Congreso del Estado, y
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
+a) El diputado presidente de la comisión legislativa de Seguridad y Justicia del Congreso del Estado; y
 
 b) El Presidente del Supremo Tribunal de Justicia del Estado.
 
@@ -469,7 +475,7 @@ XV. Las demás que le asigne el Consejo Estatal o le confieran otros ordenamient
 
 El Secretario Ejecutivo deberá llevar a cabo la administración de los recursos que el Gobierno del Estado de Jalisco y la Federación aporten mediante los convenios de coordinación que en la materia se suscriban, así como verificar la ejecución y cumplimiento de los objetivos previstos en los mismos. En este caso, deberá integrarse una comisión en los términos del reglamento respectivo.
 
-## Título Tercero. Del Programa Estatal de Seguridad Pública
+## Título Cuarto. Disposiciones comunes a los integrantes de las instituciones de seguridad pública del Estado
 
 ### Capítulo Único
 
@@ -481,7 +487,7 @@ Corresponde a la Secretaría coordinar a las dependencias y corporaciones respec
 
 El programa deberá contener las bases de concertación entre los gobiernos estatal y sus dependencias, federal y municipales, así como con los órganos consultivos del Gobierno del Estado y la ciudadanía en general, con la finalidad de mejorar la función.
 
-## Título Cuarto. Disposiciones comunes a los integrantes de las instituciones de seguridad pública del Estado
+## Título Quinto. Del desarrollo policial y del servicio profesional de carrera ministerial y pericial de las instituciones de seguridad pública
 
 ### Capítulo I. Disposiciones generales
 
@@ -665,7 +671,7 @@ VI. Del pago de abonos para cubrir obligaciones derivadas de la adquisición, co
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-El monto total de los descuentos será el que convengan el elemento operativo y la institución de seguridad, sin que pueda ser mayor de treinta por ciento de excedente de valor diario de la Unidad de Medida y Actualización, excepto en los casos a que se refieren las fracciones III, IV y VI de este precepto.
+El monto total de los descuentos será el que convengan el elemento operativo y la institución de seguridad, sin que pueda ser mayor de treinta por ciento del excedente de valor diario de la Unidad de Medida y Actualización, excepto en los casos a que se refieren las fracciones III, IV y VI de este precepto.
 
 ###### Artículo 40.
 
@@ -1129,7 +1135,7 @@ Los cursos de capacitación tendientes a fortalecer la cultura de la legalidad, 
 
 Artículo 68 Undecies. Los municipios podrán celebrar convenios con el Estado para que, a través de éste se brinde la capacitación referida en el presente capítulo.
 
-## Título Quinto. Del desarrollo policial y del servicio profesional de carrera ministerial y pericial de las instituciones de seguridad pública
+## Título Sexto. Del sistema disciplinario y responsabilidad administrativa
 
 ### Capítulo I. Disposiciones generales
 
@@ -1445,7 +1451,7 @@ El Centro y las unidades de control de confianza son los órganos encargados de 
 
 De conformidad con la coordinación que debe prevalecer entre el Estado y la Federación en la materia, el Centro Nacional de Certificación y Acreditación supervisará que los procedimientos de evaluación se desarrollen conforme a los lineamientos establecidos en esta ley y las demás disposiciones que de ellos deriven.
 
-## Título Sexto. Del sistema disciplinario y responsabilidad administrativa
+## Título Séptimo. De la información sobre seguridad pública
 
 ### Capítulo I. Generalidades
 
@@ -1977,7 +1983,9 @@ Si después de concluidas las causas de suspensión, el elemento no informa en e
 
 El elemento operativo deberá entregar su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de sus funciones mientras se resuelve su situación jurídica.
 
-## Título Séptimo. De la información sobre seguridad pública
+## Título Octavo. Del uso de la tecnología y redes de telecomunicación para la seguridad pública
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
 
 ### Capítulo I. De la estadística de seguridad pública
 
@@ -2127,9 +2135,9 @@ Cualquier interesado que estime falsa o errónea alguna información, podrá sol
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
 
-## Título Octavo. Del uso de la tecnología y redes de telecomunicación para la seguridad pública
+## Título Noveno. De la participación ciudadana en las instituciones de seguridad pública
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
 ### Capítulo I. Disposiciones generales
 
@@ -2699,7 +2707,7 @@ La interposición del recurso suspenderá la ejecución de las sanciones pecunia
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
-## Título Noveno. De la participación ciudadana en las instituciones de seguridad pública
+## Título Noveno (Sic). De los servicios de seguridad privada
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -2865,7 +2873,7 @@ La respectiva unidad de la Fiscalía General utilizará los métodos de investig
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
-## Título Noveno (Sic). De los servicios de seguridad privada
+## Título Décimo. De los delitos contra el funcionamiento del Sistema Estatal de Seguridad Pública
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2018)</small>
 
@@ -3300,3 +3308,9 @@ de Justicia 2 1
 SEXTO. Quienes hayan desempeñado un cargo de los enunciados en el articulo que anteceden (sic) podrán solicitar la distribución de horarios del personal asignado o la disminución de este, pero no se le asignara mayor personal del señalado en el mismo.
 
 SEPTIMO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27313/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL Y LA FRACCIÓN II DEL ARTÍCULO 60 DE LA LEY DE ATENCIÓN A VÍCTIMAS, AMBAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
