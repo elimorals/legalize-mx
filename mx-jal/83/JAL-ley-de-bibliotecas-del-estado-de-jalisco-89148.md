@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-bibliotecas-del-estado-de-jalisco-89148"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-23"
-last_updated: "2017-03-04"
+last_updated: "2019-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE BIBLIOTECAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 23 de agosto de 2012.
 
@@ -323,9 +323,9 @@ d) Un representante de las instituciones educativas de nivel básico, y
 
 e) Un representante de los municipios del estado;
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-III. Un diputado integrante de la Comisión de Cultura del Congreso del Estado, designado por la misma comisión;
+III. Un diputado integrante de la Comisión de Educación, Cultura y Deporte del Congreso del Estado, designado por la misma comisión;
 
 > <small>(ADICIONADA, P.O. 17 DE MAYO DE 2016)</small>
 
@@ -434,3 +434,9 @@ P.O. 4 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26272/LXI/17 QUE REFORMA LOS ARTÍCULOS 9° Y 10 DE LA LEY DE BIBLIOTECAS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 27 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27314/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA; LA LEY DE ATENCIÓN A LA JUVENTUD; LEY DE BENEMÉRITOS; LEY DE BIBLIOTECAS; LEY DE FOMENTO A LA CULTURA; LEY DE CULTURA FÍSICA Y DEPORTE, TODAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
