@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2019-04-09"
+last_updated: "2019-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -835,9 +835,21 @@ XV. Ser responsable de la Unidad de Transparencia;
 
 XVI. Recibir y custodiar los ingresos económicos del Congreso del Estado y llevar la contabilidad de las operaciones derivadas del ejercicio presupuestal;
 
-XVII. Fungir como el Secretario Técnico de la Junta de Coordinación Política, cuando así se le requiera; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-XVIII. Las demás que señalen esta ley y las disposiciones reglamentarias.
+XVII. Fungir como el Secretario Técnico de la Junta de Coordinación Política cuando así se le requiera;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2019)</small>
+
+XVIII. Vigilar el cumplimiento de los programas de retiro voluntario instrumentados al interior del Congreso del Estado;
+
+> <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2019)</small>
+
+XIX. Cuidar que preferentemente no se contrate bajo ninguna modalidad a personal beneficiado por los referidos programas; y
+
+> <small>(REFORMADA, [N. DE E. REUBICADA], P.O. 27 DE JULIO DE 2019)</small>
+
+XX. Las demás que señalen esta ley y las disposiciones reglamentarias.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -1147,7 +1159,9 @@ III. No haber sido condenado por delito intencional que amerite pena de privaci�
 
 ###### Artículo 70.
 
-1. El Servicio Civil de Carrera es el instrumento que tiene como objetivo el desarrollo profesional y personal de los servidores públicos de confianza del Congreso del Estado, a través de procedimientos y mecanismos transparentes, justos y equitativos. Además, tiene como propósito reconocer y aprovechar la experiencia, conocimiento y capacidades de los servidores públicos de confianza del Congreso del Estado, para que el Poder Legislativo alcance sus metas con apoyo del personal calificado que, de manera continua, uniforme, regular y permanente, preste servicios de calidad, con imparcialidad, libre de prejuicios y lealtad a la institución.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
+1. El Servicio Civil de Carrera es el instrumento que tiene como objetivo el desarrollo profesional y personal de los servidores públicos del Congreso del Estado, a través de procedimientos y mecanismos transparentes, justos y equitativos. Además, tiene como propósito reconocer y aprovechar la experiencia, conocimiento y capacidades de los servidores públicos del Congreso del Estado, para que el Poder Legislativo alcance sus metas con apoyo del personal calificado que, de manera continua, uniforme, regular y permanente, preste servicios de calidad, con imparcialidad, libre de prejuicios y lealtad a la institución.
 
 2. La organización, desarrollo y funcionamiento del Servicio Civil de Carrera se lleva a cabo en los términos establecidos por la ley en la materia, el reglamento y lineamientos correspondientes.
 
@@ -1465,9 +1479,17 @@ IV. Los planes, programas y políticas de apoyo financiero a las actividades par
 
 I. La legislación en materia de educación, de promoción de las bellas artes, manifestaciones artísticas, culturales y de patrimonio cultural; de apoyo a la juventud y fomento al deporte; así como de los asuntos relacionados con el Sistema Educativo Estatal;
 
-II. Los planes, programas, políticas y proyectos en las materias anteriores; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-III. El otorgamiento de reconocimientos y declaración de beneméritos, conforme a las leyes correspondientes.
+II. Los planes, programas, políticas y proyectos en las materias anteriores;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+III. El otorgamiento de reconocimientos y declaración de beneméritos, conforme a las leyes correspondientes; y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2019)</small>
+
+IV. Establecer las bases y organizar anualmente el Parlamento Infantil del estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -1721,9 +1743,17 @@ IV. La elección del Auditor Superior y los Auditores Especiales;
 
 V. La solicitud de licencia o remoción del Auditor Superior;
 
-VI. La elección de los integrantes de la Comisión de Selección del Sistema Anticorrupción del Estado de Jalisco; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-VII. La elección de los titulares de los órganos internos de control previstos por el artículo 106, fracción IV de la Constitución Política del Estado de Jalisco.
+VI. La elección de los integrantes de la Comisión de Selección, del Comité de Participación Social del Sistema Anticorrupción del Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+
+VII. La elección de los titulares de los órganos internos de control previstos por el artículo 106, fracción IV de la Constitución Política del Estado de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JULIO DE 2019)</small>
+
+VIII. Las solicitudes de prórroga para la presentación de las respectivas cuentas públicas que realicen al Congreso el Gobernador del Estado y los presidentes municipales, de conformidad con las reglas establecidas por la ley en la materia.
 
 2. La Comisión de Vigilancia y Sistema Anticorrupción tiene además las atribuciones siguientes:
 
@@ -3556,3 +3586,9 @@ SEXTO. Las reformas en materia de revocación de mandato entrarán en vigor una 
 Una vez entrando en vigor el mecanismo de revocación de mandato, su regulación se ajustará en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos.
 
 SÉPTIMO. El Consejo deberá expedir su reglamento interno dentro de los 90 días hábiles siguientes a su instalación.
+
+P.O. 27 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27311/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
