@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-cultura-del-estado-de-jalisco-19325"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-21"
-last_updated: "2018-12-05"
+last_updated: "2019-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY DE FOMENTO A LA CULTURA
+LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
 
-Ley Publicada en el Periódico Oficial el 21 de diciembre de 2000 Sección II.
+Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2000.
 
 Al margen un sello que dice: Gobierno del Estado de Jalisco, Poder Ejecutivo, Secretaria General de Gobierno. Estados Unidos Mexicanos.
 
@@ -37,11 +37,11 @@ NUMERO 18673.- EL CONGRESO DEL ESTADO DECRETA:
 
 LEY DE FOMENTO A LA CULTURA
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
 Se modifica el Diverso 18435 que crea la Ley Fomento a la Cultura, con base a las observaciones que formuló el ciudadano Gobernador Constitucional del Estado, ingeniero Alberto Cárdenas Jiménez, en ejercicio de la facultad que le confiere el artículo 33 de la Constitución Política del Estado de Jalisco, para quedar como sigue:
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### Capítulo Único
 
@@ -79,7 +79,7 @@ e) Garantizar la creación y permanencia de los grupos artísticos profesionales
 
 f) Garantizar el cuidado, mantenimiento y conservación de la infraestructura cultural del Estado;
 
-IV, Establecer los mecanismos de coordinación, vinculación y coparticipación entre los gobiernos federal, estatal, municipales, organizaciones culturales y la sociedad en general;
+IV. Establecer los mecanismos de coordinación, vinculación y coparticipación entre los gobiernos federal, estatal, municipales, organizaciones culturales y la sociedad en general;
 
 V. Promover la participación de los individuos, grupos, instituciones y organizaciones de los sectores social y privado en la promoción, fomento y difusión en materia de cultura;
 
@@ -141,9 +141,9 @@ X. Cultura: Entre otras cosas se entenderá como el conjunto de los rasgos disti
 
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
-XI. Atlas Cultural: El registro sistemático de carácter público y georeferenciado de todos los bienes y recursos culturales, así como los sitios y en general todas aquellas zonas y áreas territoriales en las que estos se ubican dentro del Estado de Jalisco, presentado en forma digital;
+XI. Atlas Cultural: El registro sistemático de carácter público y georeferenciado (sic) de todos los bienes y recursos culturales, así como los sitios y en general todas aquellas zonas y áreas territoriales en las que estos se ubican dentro del Estado de Jalisco, presentado en forma digital;
 
-## TITULO SEGUNDO. DE LAS COMPETENCIAS Y ATRIBUCIONES DE LAS AUTORIDADES
+## TÍTULO SEGUNDO. DE LAS COMPETENCIAS Y ATRIBUCIONES DE LAS AUTORIDADES
 
 ### Capítulo I. De las Autoridades
 
@@ -319,13 +319,15 @@ IV. Los procedimientos de evaluación y revisión pertinentes para su mejora.
 
 Las autoridades encargadas de la aplicación de esta ley, procurarán coordinarse para la elaboración de los programas estatal y municipales, y para su aplicación en el ámbito respectivo, a fin de que la política cultural en la Entidad sea eficiente y eficaz.
 
-## TITULO TERCERO. DEL SISTEMA ESTATAL DE CULTURA
+## TÍTULO TERCERO. DEL SISTEMA ESTATAL DE CULTURA
 
 ### Capítulo I. De la integración y atribuciones del sistema
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
+
 ###### Artículo 10.
 
-El Sistema es la instancia que servirá de vinculación y coordinación entre las autoridades estatales y municipales en materia cultural y estará integrado por:
+El Sistema es la instancia que servirá de vinculación y coordinación entre las autoridades estatales y municipales en materia cultural, y estará integrado por:
 
 I. El titular de la Secretaría, quien será el Presidente y que no podrá delegar o designar representante;
 
@@ -349,7 +351,9 @@ e) La Comisión Estatal Indígena;
 
 f) El Instituto Cultural Cabañas;
 
-g) El Patronato de las Fiestas de Octubre;
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+
+g) La Agencia Estatal de Entretenimiento de Jalisco;
 
 h) El Sistema Jalisciense de Radio y Televisión;
 
@@ -375,15 +379,15 @@ n) Un representante por cada uno de los consejos municipales de cultura;
 
 ñ) El Colegio de Jalisco;
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
-o) El presidente de la Comisión de Cultura del Congreso del Estado;
+o) El presidente de la Comisión de Educación, Cultura y Deporte del Congreso del Estado;
 
 p) (DEROGADO, P.O. 11 DE OCTUBRE DE 2016)
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
-r) Un representante de la Delegación Jalisco del Instituto Nacional de Antropología e Historia, previa aceptación.
+q) Un representante de la Delegación Jalisco del Instituto Nacional de Antropología e Historia, previa aceptación.
 
 Por cada representante de las dependencias o entidades, éstas designarán un suplente. El cargo de representante en el Sistema será honorífico y, por tanto, no remunerado. Todos los miembros participarán con derecho a voz y voto.
 
@@ -447,7 +451,7 @@ El Presidente del Sistema tendrá voto de calidad en caso de empate.
 
 Las sesiones del Sistema se asentarán en actas dentro del libro oficial, mismas que serán firmadas por los que en ellas hayan intervenido.
 
-## TITULO CUARTO. DEL PROGRAMA ESTATAL DE CULTURA
+## TÍTULO CUARTO. DEL PROGRAMA ESTATAL DE CULTURA
 
 ### Capítulo Único
 
@@ -471,9 +475,9 @@ Para la elaboración del Programa Estatal deberán considerarse los requerimient
 
 El Consejo convocará a la sociedad en general, a la comunidad cultural y artística en particular, a participar con propuestas en la elaboración del Programa Estatal, las cuales deberá presentar a consideración de la Secretaría.
 
-## TITULO QUINTO. DEL CONSEJO ESTATAL PARA LA CULTURA Y LAS ARTES
+## TÍTULO QUINTO. DEL CONSEJO ESTATAL PARA LA CULTURA Y LAS ARTES
 
-### Capítulo Unico
+### Capítulo Único
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -499,9 +503,9 @@ b) Secretaría de Educación;
 
 c) Secretaría de Turismo;
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
-d) Secretaría de Planeación, Administración y Finanzas;
+d) Secretaría de la Hacienda Pública;
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -643,7 +647,7 @@ I. Los bienes que le sean destinados por la Secretaría y los recursos financier
 
 II. El personal administrativo que le sea comisionado por la Secretaría, el cual será asignado de acuerdo con su perfil y responsabilidades.
 
-## TITULO SEXTO. DEL FONDO ESTATAL PARA LA CULTURA Y LAS ARTES
+## TÍTULO SEXTO. DEL FONDO ESTATAL PARA LA CULTURA Y LAS ARTES
 
 ### Capítulo I. De su Integración y fines
 
@@ -731,7 +735,7 @@ III. Dar crédito al Gobierno del Estado y a la Secretaría en los productos y p
 
 En caso de que los beneficiarios del fondo no cumplan con los compromisos señalados en este artículo, ya no podrán solicitar recursos del mismo en años posteriores.
 
-## TITULO SEPTIMO. DEL SISTEMA ESTATAL DE CREADORES
+## TÍTULO SEPTIMO. DEL SISTEMA ESTATAL DE CREADORES
 
 ### Capítulo Unico
 
@@ -789,7 +793,7 @@ REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE DICIEMBRE DE 2010)
 
 La Secretaría emitirá una constancia de inscripción al registro a los nuevos creadores y a los creadores eméritos que así lo soliciten.
 
-## TITULO OCTAVO. DE LAS ACCIONES ESPECIALES DE FOMENTO A LA CULTURA
+## TÍTULO OCTAVO. DE LAS ACCIONES ESPECIALES DE FOMENTO A LA CULTURA
 
 ### Capítulo I. De la cultura indígena
 
@@ -901,19 +905,21 @@ La Secretaría procurará el fomento de la cinematografía mediante actividades 
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2012)</small>
 
-## TITULO NOVENO. DEL FIDEICOMISO DE APOYO SOCIAL Y ECONOMICO PARA LOS AGENTES DEL SECTOR CULTURAL DEL ESTADO DE JALISCO
+## TÍTULO NOVENO. DEL FIDEICOMISO DE APOYO SOCIAL Y ECONÓMICO PARA LOS AGENTES DEL SECTOR CULTURAL DEL ESTADO DE JALISCO
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2012)</small>
 
 ### Capítulo Único. De la integración y administración del fideicomiso
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
+Artículo 42 (sic).- (DEROGADO, P.O. 27 DE JULIO DE 2019)
 
-Artículo 42 (sic).- El Fideicomiso de Apoyo Social y Económico para los Agentes del Sector Cultural del Estado de Jalisco, será establecido a través de un fideicomiso creado por el Poder Ejecutivo del Estado de Jalisco.
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 43.
+
+El Fideicomiso de Apoyo Social y Económico para los Agentes del Sector Cultural del Estado de Jalisco, será establecido a través de un fideicomiso creado por el Poder Ejecutivo del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
 
 El fideicomiso en cuestión tendrá el objeto de garantizar la seguridad social de aquellos artistas, gestores culturales, y demás individuos que realicen actividades culturales y que cumplan con los requisitos que establece el presente ordenamiento jurídico.
 
@@ -933,9 +939,9 @@ I. Un representante de la Secretaría de Cultura;
 
 II. Un representante del Consejo Estatal para la Cultura y las Artes;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
-III. Un representante de la Secretaría de Planeación, Administración y Finanzas; y
+III. Un representante de la Secretaría de la Hacienda Pública; y
 
 IV. Un representante de la institución fiduciaria.
 
@@ -1047,7 +1053,7 @@ Si en los siguientes meses no se desahogan los supuestos antes establecidos, se 
 
 En caso de que vuelva a estar en el supuesto de ser beneficiario, realizará un trámite por el cual se vuelva a incorporar de los derechos que tenía adquiridos el fideicomisario al momento de rescindir la relación jurídica; sin embargo, esto excluye aquellos recursos que haya perdido en el transcurso del tiempo.
 
-## Transitorios
+T r a n s i t o r i o s
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -1059,33 +1065,33 @@ CUARTO.- El Consejo Estatal para la Cultura y las Artes deberá constituirse den
 
 QUINTO.- El Fondo Estatal para la Cultura y las Artes, que se establezca en el Presupuesto de Egresos, deberá ser ejercido una vez creada la figura jurídica que acuerde el Ejecutivo.
 
-Salón de Sesiones del Congreso del Estado
+SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
-Guadalajara, Jalisco, 16 de noviembre de 2000
+GUADALAJARA, JALISCO, 16 DE NOVIEMBRE DE 2000
 
-Diputado Presidente
+DIPUTADO PRESIDENTE
 
-Abundio Gómez Meléndrez
+ABUNDIO GOMEZ MELENDREZ
 
-Diputado Secretario
+DIPUTADO SECRETARIO
 
-Francisco Javier Bravo Carbajal
+FRANCISCO JAVIER BRAVO CARBAJAL
 
-Diputado Secretario
+DIPUTADO SECRETARIO
 
-Salvador Arellano Guzmán
+SALVADOR ARELLANO GUZMAN
 
 En mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
 
 Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 29 veintinueve días del mes de noviembre de 2000 dos mil.
 
-El Gobernador Constitucional del Estado
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
-Ing. Alberto Cárdenas Jiménez
+ING. ALBERTO CÁRDENAS JIMÉNEZ
 
-El Secretario General de Gobierno
+EL SECRETARIO GENERAL DE GOBIERNO
 
-Lic. Felipe de Jesús Preciado Coronado
+LIC. FELIPE DE JESÚS PRECIADO CORONADO
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
@@ -1146,3 +1152,9 @@ P.O. 5 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27187/LXII/18 QUE REFORMA EL ARTÍCULO 3°, ADICIONA LA FRACCIÓN XI Y MODIFICA LA FRACCIÓN III DEL ARTÍCULO 6° DE LA LEY DE FOMENTO A LA CULTURA DEL ESTADO DE JALISCO”.]
 
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 27 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27314/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA; LA LEY DE ATENCIÓN A LA JUVENTUD; LEY DE BENEMÉRITOS; LEY DE BIBLIOTECAS; LEY DE FOMENTO A LA CULTURA; LEY DE CULTURA FÍSICA Y DEPORTE, TODAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
