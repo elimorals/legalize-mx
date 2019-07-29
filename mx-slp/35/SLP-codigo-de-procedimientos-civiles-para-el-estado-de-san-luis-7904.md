@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2019-07-03"
+last_updated: "2019-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -5211,11 +5211,15 @@ Tratándose de violencia familiar prevista en el artículo 12 del Código Famili
 
 Al efecto, verificará el contenido de los informes que al respecto hayan sido elaborados por las instituciones públicas o privadas que hubieren intervenido y escuchará al Ministerio Público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2019)</small>
+
+ART. 1140.- Podrá acudirse al Juez de lo Familiar, por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Con las copias respectivas de esa comparecencia y de los documentos que, en su caso, le presenten, se correrá traslado a la parte demandada, la que deberá comparecer, en la misma forma, dentro del término de nueve días; en tales comparecencias las partes deberán ofrecer las pruebas respectivas al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva. Tratándose de alimentos, ya sea provisionales o los que se deban por contrato, por testamento, o por disposición de la Ley, el Juez fijará en el auto de admisión de la demanda, a petición del acreedor, sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional, en tanto se resuelve el Juicio. Tratándose de niños; niñas; adolescentes; o incapaces, la pensión provisional alimenticia se fijará de oficio en cuyo caso, el juez también de oficio y a efecto de que cuente con los elementos necesarios para resolver sobre la pensión alimenticia definitiva, recabará las pruebas necesarias para conocer con toda certeza la capacidad económica del deudor. En su caso, se comunicará de inmediato mediante oficio a la persona física o moral de quien perciba el ingreso el deudor alimentista, para que consigne el porcentaje correspondiente a la pensión alimenticia provisional en el Juzgado y hacer entrega de la misma al que tiene derecho a los alimentos, e incluirá todas aquellas prestaciones ordinarias y extraordinarias que obtenga el deudor como producto de su trabajo. Lo mismo se observará respecto de cualquier otro emolumento o crédito que exista en favor del deudor.
+
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2019)</small>
 
-ART. 1140.- Podrá acudirse al Juez de lo Familiar, por escrito o por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate. Con las copias respectivas de esa comparecencia y de los documentos que, en su caso, le presenten, se correrá traslado a la parte demandada, la que deberá comparecer, en la misma forma, dentro del término de nueve días; en tales comparecencias las partes deberán ofrecer las pruebas respectivas al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva. Tratándose de alimentos, ya sea provisionales o los que se deban por contrato, por testamento, o por disposición de la Ley, el Juez fijará en el auto de admisión de la demanda, a petición del acreedor, sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional, en tanto se resuelve el Juicio. Tratándose de niños; niñas; adolescentes; o incapaces, la pensión provisional alimenticia se fijará de oficio. Lo anterior se comunicará de inmediato mediante oficio a la persona física o moral de quien perciba el ingreso el deudor alimentista, para que consigne el porcentaje correspondiente a la pensión alimenticia provisional en el Juzgado y hacer entrega de la misma al que tiene derecho a los alimentos, e incluirá todas aquellas prestaciones ordinarias y extraordinarias que obtenga el deudor como producto de su trabajo; lo anterior, siempre y cuando el promovente proporcione los datos necesarios del empleador en el escrito inicial de demanda. Lo mismo se observará respecto de cualquier otro emolumento o crédito que exista en favor del deudor.
-
 Tratándose de deudores alimentarios que hayan dejado de cumplir con sus obligaciones en materia de alimentos por un período mayor de sesenta días, el Juez competente hará tal circunstancia del conocimiento del Instituto Nacional de Migración, así como al Instituto de Migración y Enlace Internacional del Estado, mediante oficio, para que procedan conforme al artículo 48 fracción VI, de la Ley de Migración.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2019)</small>
 
 Será optativo para las partes acudir asesoradas y, en este supuesto, quien les asesore, necesariamente deberá ser abogado o licenciado en derecho, con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor público, el que deberá acudir desde luego a enterarse del asunto, disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón se diferirá la audiencia en un término igual.
 
@@ -5952,6 +5956,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE JULIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0192.- SE REFORMA EL ARTÍCULO 357 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0213.- SE REFORMA EL ARTÍCULO 1140 EN SU PÁRRAFO PRIMERO, DEL CÓDIGO DE PROCEDIMIENTO CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
