@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2019-05-30"
+last_updated: "2019-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE JULIO DE 2019.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -661,11 +661,21 @@ La Secretaría, en coordinación con las autoridades federales y municipales, im
 
 Con el concurso de los Ayuntamientos, operadores turísticos, organizaciones sociales y privadas, autoridades educativas y del ramo ambiental, implementará acciones para la limpieza y conservación de los atractivos turísticos que promuevan el pleno respeto de su entorno natural y arquitectónico.
 
-### CAPÍTULO I. Del Programa Sectorial de Turismo
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 29 DE JULIO DE 2019)</small>
+
+### CAPITULO VII. Del Turismo Rural Comunitario
+
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2019)</small>
+
+###### Artículo 37 Bis.
+
+El turismo rural comunitario es aquel que tiene como finalidad realizar actividades de convivencia e interacción con una comunidad rural, en todas aquellas expresiones sociales, culturales y productivas cotidianas de la misma, con el compromiso del pleno respeto de los usos y costumbres de la comunidad así como de la conservación de los recursos naturales y culturales que promuevan la generación de ingresos adicionales a la economía rural y a la conservación del hábitat natural.
+
+La Secretaría impulsará y promoverá el turismo rural comunitario en coordinación con las dependencias y entidades de la administración pública del Estado, los ayuntamientos y las comunidades rurales, otorgando facilidades a éstas para el establecimiento de proyectos turísticos rurales sustentables.
 
 ## TÍTULO QUINTO. De la planeación gubernamental, la vocación turística de los municipios y el ordenamiento territorial
 
-### CAPÍTULO II. Del índice de vocación turística de los municipios del estado
+### CAPÍTULO I. Del Programa Sectorial de Turismo
 
 ###### Artículo 38.
 
@@ -677,7 +687,7 @@ La Secretaría, al especificar en el programa las políticas, objetivos, priorid
 
 El Programa Sectorial deberá incluir el Inventario Municipal de Proyectos, que se propondrá al titular del Ejecutivo para considerarse en el apartado de infraestructura del Plan Veracruzano de Desarrollo. Para la formulación del Inventario de Proyectos, la Secretaría se coordinará con los municipios con vocación turística del Estado.
 
-### CAPÍTULO III. Del Programa de Ordenamiento Turístico del Territorio del Estado
+### CAPÍTULO II. Del índice de vocación turística de los municipios del estado
 
 ###### Artículo 39.
 
@@ -715,9 +725,7 @@ La Secretaría emitirá la denominación de "Municipio con Vocación Turística"
 
 Los municipios que no aprobaren la evaluación de la Secretaría podrán solicitar a ésta un informe de las razones que justificaron esta decisión y pedir su incorporación un año después.
 
-### CAPÍTULO I. De las regiones turísticas
-
-> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2014)</small>
+### CAPÍTULO III. Del Programa de Ordenamiento Turístico del Territorio del Estado
 
 ###### Artículo 45.
 
@@ -769,7 +777,9 @@ El resultado de la evaluación será remitido a la Secretaría y al titular del 
 
 ## TÍTULO SEXTO. De las regiones, los municipios y las zonas de desarrollo turístico sustentable
 
-### CAPÍTULO II. De los municipios con vocación turística
+### CAPÍTULO I. De las regiones turísticas
+
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 54.
 
@@ -805,7 +815,7 @@ IV. De Reuniones; y
 
 V. Náutico y deportivo.
 
-### CAPÍTULO III. De las zonas de desarrollo turístico sustentable
+### CAPÍTULO II. De los municipios con vocación turística
 
 ###### Artículo 55.
 
@@ -843,9 +853,7 @@ III. Elaborar su inventario turístico, con base en los parámetros del Índice 
 
 IV. Destinar recursos presupuestales para el fomento de la actividad y desarrollo de infraestructura turística, así como participar en el financiamiento del Programa de Ordenamiento Turístico de su territorio.
 
-### CAPÍTULO I. De la promoción turística
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE AGOSTO DE 2013)</small>
+### CAPÍTULO III. De las zonas de desarrollo turístico sustentable
 
 ###### Artículo 58.
 
@@ -869,7 +877,9 @@ En el Reglamento de la presente Ley se establecerán los lineamientos de coordin
 
 ## TÍTULO SÉPTIMO. De la promoción, fomento y estímulos a la actividad turística
 
-### CAPÍTULO II. Del fomento a la inversión turística y cultural
+### CAPÍTULO I. De la promoción turística
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 63.
 
@@ -907,7 +917,7 @@ La Secretaría impulsará y promoverá las locaciones cinematográficas de Verac
 
 Cuando se trate de inversiones en el sector turístico, la Secretaría podrá, en apego a las disposiciones legales que correspondan, proponer al titular del Ejecutivo del Estado el otorgamiento de incentivos para la inversión turística en Veracruz.
 
-### CAPÍTULO III. Del Premio Veracruz a la Calidad Turística
+### CAPÍTULO II. Del fomento a la inversión turística y cultural
 
 ###### Artículo 71.
 
@@ -961,7 +971,7 @@ El funcionamiento del Fondo será normado por lo establecido en el contrato de f
 
 La Secretaría operará el Fondo y promoverá la integración de asociaciones, comités, patronatos, uniones de crédito, fideicomisos y cualquier otro organismo que contribuya al desarrollo turístico y cultural del Estado.
 
-### CAPÍTULO I. De la competitividad y profesionalización en la actividad turística
+### CAPÍTULO III. Del Premio Veracruz a la Calidad Turística
 
 ###### Artículo 77.
 
@@ -981,7 +991,7 @@ El presidente del Consejo entregará el premio cada veintisiete de septiembre, D
 
 ## TÍTULO OCTAVO. De la capacitación y certificación de los prestadores de servicios turísticos
 
-### CAPÍTULO II. De la capacitación turística
+### CAPÍTULO I. De la competitividad y profesionalización en la actividad turística
 
 ###### Artículo 81.
 
@@ -1011,7 +1021,7 @@ Además, promoverá el establecimiento de escuelas y centros de educación y cap
 
 La Secretaría, conjuntamente con la Secretaria de Trabajo, Previsión Social y Productividad, establecerá lineamientos, contenidos y alcances, a fin de promover y facilitar la certificación de competencias laborales.
 
-### CAPÍTULO III. De la certificación de los prestadores de servicios turísticos
+### CAPÍTULO II. De la capacitación turística
 
 ###### Artículo 84.
 
@@ -1037,7 +1047,7 @@ La Secretaría propondrá al titular del Ejecutivo del Estado la celebración de
 
 En los acuerdos señalados en el párrafo anterior se promocionará incluir una cláusula para promover la capacitación de empresarios, trabajadores y servidores públicos del ramo turístico que presenten alguna discapacidad.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. De la certificación de los prestadores de servicios turísticos
 
 ###### Artículo 87.
 
@@ -1063,7 +1073,7 @@ Los prestadores de servicios turísticos que cuenten con la Certificación Labor
 
 ## TÍTULO NOVENO. Del Registro Nacional de Turismo
 
-### CAPÍTULO I. De los prestadores de servicios turísticos
+### CAPÍTULO ÚNICO
 
 ###### Artículo 92.
 
@@ -1079,7 +1089,7 @@ La base de datos de los prestadores de servicios turísticos del Estado será re
 
 ## TÍTULO DÉCIMO. De los prestadores de servicios turísticos y de los visitantes
 
-### CAPÍTULO II. De los visitantes
+### CAPÍTULO I. De los prestadores de servicios turísticos
 
 ###### Artículo 95.
 
@@ -1177,9 +1187,7 @@ XXV. Coadyuvar con la Secretaría en los programas que promuevan la donación de
 
 XXVI. Las demás que establezcan los ordenamientos federales y estatales.
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE AGOSTO DE 2013)</small>
+### CAPÍTULO II. De los visitantes
 
 ###### Artículo 98.
 
@@ -1221,6 +1229,8 @@ IV. Pagar el precio de los servicios turísticos utilizados.
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE AGOSTO DE 2013)</small>
+
 ###### Artículo 100.
 
 La Secretaría, con el fin de evaluar los alcances de las políticas públicas de fomento de la actividad, medir la evolución del sector y contar con mayores herramientas para la toma de decisiones, integrará información sobre diversas variables socioeconómicas de la actividad turística en el Estado, tales como la generación de empleos, perfil y grado de satisfacción del turista, la afluencia de visitantes, derrama económica, el número de establecimientos, el inventario de habitaciones y las inversiones públicas y privadas en el rubro turístico, entre otras.
@@ -1243,7 +1253,7 @@ Los prestadores de servicios deberán proporcionar a la Secretaría, a petición
 
 ## TÍTULO DÉCIMO SEGUNDO. De la situación de emergencia y desastre
 
-### CAPÍTULO I. De la protección y orientación al visitante
+### CAPÍTULO ÚNICO
 
 ###### Artículo 103.
 
@@ -1263,7 +1273,7 @@ La Secretaría y los Ayuntamientos vigilarán que los prestadores de servicios t
 
 ## TÍTULO DÉCIMO TERCERO. De la protección al visitante
 
-### CAPÍTULO II. De la verificación
+### CAPÍTULO I. De la protección y orientación al visitante
 
 ###### Artículo 107.
 
@@ -1287,7 +1297,7 @@ La Secretaría contará con un grupo de auxilio turístico de primer contacto qu
 
 Al efecto, la Secretaría podrá celebrar convenios de coordinación con los municipios correspondientes y con los prestadores de servicios turísticos, a fin de dotar de mayores recursos al grupo de auxilio.
 
-### CAPÍTULO III. De las sanciones y del recurso de revisión
+### CAPÍTULO II. De la verificación
 
 ###### Artículo 109.
 
@@ -1338,6 +1348,8 @@ Una vez elaborada el acta, el verificador proporcionará una copia de la misma a
 ###### Artículo 115.
 
 Concluida la verificación, la Secretaría turnará copia del acta circunstanciada de la actuación realizada a la dependencia competente, para efecto de que valore los hechos u omisiones asentados en la misma y determine la sanción que, en su caso, corresponda.
+
+### CAPÍTULO III. De las sanciones y del recurso de revisión
 
 ###### Artículo 116.
 
@@ -1500,3 +1512,11 @@ G.O. 30 DE MAYO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 271 QUE ADICIONA UN CAPÍTULO VII AL TÍTULO CUARTO, ASÍ COMO EL ARTÍCULO 37 BIS A LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
