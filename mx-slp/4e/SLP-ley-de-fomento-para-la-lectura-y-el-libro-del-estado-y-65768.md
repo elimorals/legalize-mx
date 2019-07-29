@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-para-la-lectura-y-el-libro-del-estado-y-65768"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-18"
-last_updated: "2017-05-13"
+last_updated: "2019-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, DEL ESTADO Y MUNICIPIOS DE SAN LUlS POTOSÍ
+LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -33,9 +33,11 @@ DECRETO 551
 
 LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS
 
-LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, DEL ESTADO Y MUNICIPIOS DE SAN LUlS POTOSI
+[...]
+
+LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
 ### Capítulo I. Disposiciones Generales
 
@@ -89,9 +91,11 @@ X. Autor: persona que realiza alguna obra destinada a ser difundida en forma de 
 
 XI. Biblioteca pública: todo establecimiento que contenga un acervo de carácter general superior a quinientos títulos, catalogados y clasificados, y que se encuentren destinados a atender en forma gratuita a toda persona que solicite la consulta o préstamo del mismo, en los términos de las normas administrativas aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2019)</small>
+
 ###### ARTICULO 4°.
 
-Consagrada por la Constitución Política de los Estados Unidos Mexicanos, la autonomía de imprenta garantiza que es inviolable la libertad de escribir, editar y publicar libros sobre cualquier materia. Ninguna autoridad estatal o municipal puede, prohibir, restringir, ni obstaculizar, la promoción, creación, edición, producción, distribución o difusión de libros.
+Consagrada por la Constitución Política de los Estados Unidos Mexicanos, la autonomía de imprenta garantiza que es inviolable la libertad de escribir, editar y publicar libros sobre cualquier materia. Ninguna autoridad estatal o municipal puede por vías o medios directos o indirectos, prohibir, restringir, ni obstaculizar, la promoción, creación, edición, producción, distribución o difusión de libros.
 
 ### Capítulo II. Actividades Relacionadas de Fomento a la Lectura y al Libro
 
@@ -115,9 +119,15 @@ VII. Realizar, fortalecer y evaluar los talleres literarios, rincones, círculos
 
 VIII. Promocionar en los niveles de enseñanza básica, métodos que faciliten la comprensión en la lectura;
 
-IX. Crear textos en lenguas autóctonas del Estado, y promoción, fomento y distribución entre las etnias indígenas de la Entidad, y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
 
-X. Cualquier otra medida conducente al fomento de la lectura y del libro.
+IX. Crear textos en lenguas autóctonas del Estado, y promoción, fomento y distribución entre las etnias indígenas de la Entidad;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2019)</small>
+
+X. Realizar campañas para que la población y organizaciones de la sociedad civil donen libros, para incrementar el acervo de las bibliotecas públicas del Estado, y
+
+XI. Cualquier otra medida conducente al fomento de la lectura y del libro.
 
 ###### ARTICULO 6°.
 
@@ -142,6 +152,10 @@ V. Realizar campañas de difusión acerca de la ubicación de las bibliotecas p�
 ###### ARTICULO 7º.
 
 Corresponde al Ejecutivo Estatal, a través de la Secretaría de Educación de Gobierno del Estado, y de la Secretaría de Cultura, poner en práctica las políticas y estrategias que se establezcan en el Programa Estatal de Fomento a la Lectura y al Libro; así como impulsar la creación, edición, producción, difusión, venta y exportación del libro mexicano, y potosino, de buena calidad.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2019)</small>
+
+Podrá celebrar convenios por medio de las dependencias estatales referidas en el párrafo que antecede de este precepto con los entes editoriales del Gobierno Federal o de alguna otra Entidad Federativa, con la finalidad de acrecentar las políticas y estrategias previstas en el programa de la materia.
 
 ###### ARTICULO 8°.
 
@@ -258,5 +272,13 @@ P.O. 13 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0625.- SE REFORMA (SIC) LOS ARTÍCULOS, 3º EN SUS FRACCIONES, IX, Y X, Y 6º EN SUS FRACCIONES, III, Y IV; Y ADICIONA A LOS ARTÍCULOS, 3º LA FRACCIÓN XI, Y 6º LA FRACCIÓN V, DE Y A LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, DEL ESTADO Y MUNICIPIOS”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0210.- SE REFORMAN LOS ARTÍCULOS 4° Y 5°; Y ADICIONA A LOS ARTÍCULOS 5° UNA FRACCIÓN Y 7° EL PÁRRAFO SEGUNDO, DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
