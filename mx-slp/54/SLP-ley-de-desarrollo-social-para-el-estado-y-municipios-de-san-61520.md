@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2019-07-16"
+last_updated: "2019-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -629,6 +629,10 @@ La evaluación de la política de desarrollo social del Estado estará a cargo d
 
 La evaluación será cuando menos anual y tendrá como propósito, revisar sistemáticamente los avances y resultados en el cumplimiento de los objetivos sociales de los programas, proyectos y acciones de política social, para corregirlos, modificarlos, adicionarlos, reorientarlos, o suspenderlos, total o parcialmente.
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2019)</small>
+
+La evaluación anual de las políticas de desarrollo social del Estado, deberá incluir tanto la modalidad interna como externa, en los términos de la fracción II del artículo 36 de esta Ley.
+
 ###### ARTICULO 35.
 
 Los ayuntamientos deberán evaluar anualmente los avances y resultados de la política de desarrollo social de sus respectivos municipios, sin perjuicio de que puedan realizarse evaluaciones previas. Al efecto, podrán solicitar a la Secretaría Ejecutiva la orientación técnica que requieran.
@@ -639,7 +643,9 @@ La evaluación podrá ser:
 
 I. Interna: la que realizan directamente quienes implementan los programas, proyectos y acciones, y
 
-II. Externa: la que realizan los organismos evaluadores independientes a solicitud del Sistema Estatal; y podrán ser instituciones de educación superior, de investigación científica, u otras organizaciones competentes.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
+
+II. Externa: la que realizan los organismos evaluadores independientes a solicitud del Sistema Estatal; y podrán ser instituciones de educación superior, de investigación científica, organizaciones sociales u organizaciones de la iniciativa privada que estén debidamente constituidas y acreditadas, y que demuestren contar con la experiencia comprobable en evaluación de políticas públicas. Para ser consideradas por el Sistema Estatal como entidades evaluadoras, las mismas deberán presentar además su metodología de trabajo, así como los recursos técnicos, humanos y materiales con que cuenten para su aplicación, debiendo considerar como parámetros mínimos la determinación del cumplimiento de objetivos establecidos en la política social o los programas que se evalúen, indicadores de resultados y gestión, y la aplicación del criterio de presupuesto basado en resultados.
 
 En ambos casos, la evaluación incluirá la opinión de los beneficiarios y deberá darse a conocer al Sistema Estatal, a través de la Secretaría Ejecutiva.
 
@@ -896,3 +902,11 @@ P.O. 16 DE JULIO DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0212.- SE REFORMA EL ARTÍCULO 36 EN SU FRACCIÓN II; Y ADICIONA AL ARTÍCULO 34 EL PÁRRAFO TERCERO, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
