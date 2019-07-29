@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2019-07-03"
+last_updated: "2019-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -609,9 +609,11 @@ XIII.- Mediante engaños, presentando documentos o testimonios falsos o cualquie
 
 XIV.- Realice actos u omisiones cuya gravedad y consecuencias sean análogas a las causales anteriores en lo que al servicio se refiere.
 
-###### ARTICULO 56.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2019)</small>
 
-Cuando el trabajador incurra en cualquiera de las causas de cese previstas en esta ley, el titular de la institución pública de gobierno procederá a levantar acta administrativa en la que se oirá en defensa al trabajador y en la que deberá intervenir la representación sindical. Se asentarán en el acta los hechos con la mayor precisión, tomándosele declaración al afectado; se oirá a los testigos de cargo y descargo; y se recibirán también las demás pruebas pertinentes, firmándose las actuaciones con dos testigos de asistencia.
+###### ARTÍCULO 56.
+
+Cuando el trabajador incurra en cualquiera de las causales de cese previstas en esta Ley, el servidor público facultado por los ordenamientos de la institución pública de que se trate, citará al trabajador, así como a su representante sindical, por lo menos con veinticuatro horas de anticipación al levantamiento del acta administrativa. El servidor público facultado procederá a la realización del acta administrativa, en la que se oirá en defensa al trabajador y dándosele intervención a su representación sindical. Se asentarán en el acta los hechos con la mayor precisión, tomándosele la declaración al afectado, escuchando a los testigos de cargo y descargo, y se recibirán además las demás pruebas pertinentes dentro del plazo improrrogable de tres días hábiles; firmándose cada una de las actuaciones con dos testigos de asistencia.
 
 ###### ARTICULO 57.
 
@@ -1940,3 +1942,11 @@ P.O. 3 DE JULIO DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0207.- SE REFORMA EL ARTÍCULO 56, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PIMERO (SIC). Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
