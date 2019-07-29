@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2019-04-16"
+last_updated: "2019-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -513,11 +513,25 @@ XII. La prevención y el control de los efectos nocivos de los factores ambienta
 
 XIII. El control sanitario de los bienes y servicios contenidos en las fracciones XXI, XXII, XXIII, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII y XXXV contenidas en el Apartado A del artículo 5º. de esta Ley;
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
 
-XIV. La coordinación con las autoridades municipales para implementar brigadas médicas, mismas que, en la medida de sus posibilidades presupuestales, recorrerán cada tres meses las comunidades más alejadas de los centros de salud, con el fin de atender y proporcionar los medicamentos del cuadro básico de salud, así como difundir medidas de prevención para generar estilos de vida saludables, privilegiando a los grupos vulnerables de dichas comunidades, y
+XIV. La coordinación con las autoridades municipales para implementar brigadas médicas, mismas que, en la medida de sus posibilidades presupuestales, recorrerán cada tres meses las comunidades más alejadas de los centros de salud, con el fin de atender y proporcionar los medicamentos del cuadro básico de salud, así como difundir medidas de prevención para generar estilos de vida saludables, privilegiando a los grupos vulnerables de dichas comunidades;
 
-XV. Las demás que establezcan la Ley General de Salud y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2019)</small>
+
+XV. Integrar y operar el Registro Estatal del Cáncer, que debe incluir cuando menos los siguientes datos:
+
+a) Información del paciente, incluyendo perfil sociodemográfico.
+
+b) Información del tumor.
+
+c) Datos y observaciones médicas relevantes, como fecha de diagnóstico, etapa de detección, tratamiento y recuperación.
+
+d) Fuente de información de los datos.
+
+e) Toda aquella información que considere la Secretaría, para lo cual se podrá solicitar está a instituciones de salud pública, social y privada. El Registro debe ser operado en apego a los principios de protección de datos personales, y
+
+XVI. Las demás que establezcan la Ley General de Salud y otras disposiciones legales aplicables.
 
 ###### ARTICULO 15.
 
@@ -4455,8 +4469,16 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 16 DE ABRIL DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0152 BIS.- SE REFORMA EL ARTÍCULO 71 QUÁTER; Y ADICIONA AL ARTÍCULO 71 PÁRRAFO SEGUNDO, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0152 BIS.- SE REFORMA EL ARTÍCULO 71 QUÁTER; Y ADICIONA AL ARTÍCULO 71 PÁRRAFO SEGUNDO, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0208.- SE REFORMA EL ARTÍCULO 14 EN SU FRACCIÓN XIV; Y ADICIONA (SIC) FRACCIÓN AL MISMO ARTÍCULO 14, DE LA LEY DE SALUD PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
