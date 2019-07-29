@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2018-12-27"
+last_updated: "2019-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2019.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -3947,9 +3947,7 @@ II. Cuando el maltrato implique lesiones que produzcan un menoscabo físico perm
 
 III. Cuando el maltrato produzca la muerte, se impondrá pena de uno a dos años de prisión, y sanción pecuniaria de doscientos a cuatrocientos días del valor de la unidad de medida y actualización vigente; e inhabilitación hasta por tres años para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2017)</small>
-
-Este delito será castigado con pena de tres meses a un año de prisión y sanción pecuniaria de diez a cuarenta días del valor de la unidad de medida y actualización; e inhabilitación hasta por un año para el ejercicio de la profesión si el delito lo cometiere un profesional en veterinaria.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 29 DE JULIO DE 2019)</small>
 
 Para los efectos de este artículo se entiende por animal doméstico, a aquél que se ha adaptado a vivir y convivir con las personas.
 
@@ -5200,6 +5198,14 @@ TERCERO. El Ejecutivo del Estado deberá armonizar los reglamentos correspondien
 P.O. 27 DE DICIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0022.- SE ADICIONA DE LA PARTE ESPECIAL AL TÍTULO OCTAVO UN CAPÍTULO DENOMINADO "INSOLVENCIA FRAUDULENTA", Y EL ARTÍCULO 242 BIS DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0214-. SE DEROGA, DEL ARTÍCULO 317, SU PÁRRAFO QUINTO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
