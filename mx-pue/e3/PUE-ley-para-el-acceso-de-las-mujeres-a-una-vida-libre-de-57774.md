@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2019-07-24"
+last_updated: "2019-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2019.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -69,17 +69,29 @@ Las medidas previstas en esta Ley garantizarán la prevención, atención, sanci
 
 En la instrumentación y ejecución de las políticas públicas estatales y municipales para el acceso de las mujeres a una vida libre de violencia, deberán ser observados los principios rectores siguientes:
 
-I.- La igualdad jurídica entre la mujer y el hombre;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
 
-II.- El respeto a la dignidad humana de las mujeres;
+I.- La igualdad jurídica entre la mujer y el hombre.
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
+
+II.- El respeto a la dignidad humana de las mujeres.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE JULIO DE 2019)</small>
 
 III.- La no discriminación, sea directa o indirecta, especialmente aquella que pueda derivar de la condición de maternidad, estado civil o asunción de obligaciones familiares.
 
-IV.- La equidad; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
+
+IV.- La equidad.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE JULIO DE 2019)</small>
 
 V.- La libertad de las mujeres.
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2019)</small>
+
+VI.- La protección y garantía de los derechos humanos.
 
 ###### ARTÍCULO 6.
 
@@ -1242,6 +1254,14 @@ TERCERO. El Titular del Poder Ejecutivo del Estado realizará las modificaciones
 P.O. 24 DE JULIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCION IX DEL ARTÍCULO 38 Y ADICIONA LA FRACCIÓN X BIS AL ARTÍCULO 6 DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I, II, III, IV, V, Y ADICIONA LA FRACCIÓN VI AL ARTÍCULO 5 DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
