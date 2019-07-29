@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2019-06-20"
+last_updated: "2019-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE JULIO DE 2019.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -471,11 +471,13 @@ La violación a estas disposiciones será sancionada conforme a la ley.
 
 El Poder Legislativo se deposita en una asamblea denominada Congreso del Estado.
 
-> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2019)</small>
 
 ###### Artículo 21.
 
-El Congreso del Estado se compondrá por cincuenta diputados, de los cuales treinta serán electos por el principio de mayoría relativa en los distritos electorales uninominales, y veinte por el principio de representación proporcional, conforme a las listas que presenten los partidos políticos en la circunscripción plurinominal que se constituya en el territorio del Estado.
+El Congreso del Estado se integrará por cincuenta diputados y diputadas bajo el principio de paridad, de los cuales treinta se elegirán por el principio de mayoría relativa en los distritos electorales uninominales y veinte por el principio de representación proporcional, conforme a las listas que presenten los partidos políticos en la circunscripción plurinominal que se constituya en el territorio del Estado.
+
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
 
 El Congreso se renovará en su totalidad cada tres años y se instalará el día cinco de noviembre inmediato posterior a las elecciones.
 
@@ -483,7 +485,11 @@ El Congreso se renovará en su totalidad cada tres años y se instalará el día
 
 La ley desarrollará la fórmula de asignación de diputados electos por el principio de representación proporcional, con base en lo previsto en este artículo. La demarcación de los distritos electorales uninominales estará a cargo del Instituto Nacional Electoral, como lo dispone el artículo 41, apartado B, de la Constitución federal.
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2012)</small>
+
 La elección de diputados según el principio de representación proporcional y el sistema de asignación se sujetarán a las siguientes bases y a lo que disponga la ley:
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2012)</small>
 
 I. Un partido político, para obtener el registro de sus listas, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos veinte de los distritos uninominales;
 
@@ -491,13 +497,19 @@ I. Un partido político, para obtener el registro de sus listas, deberá acredit
 
 II. Sólo los partidos políticos que alcancen por lo menos el tres por ciento del total de la votación válida emitida para las listas tendrán derecho a participar en la asignación de diputados según el principio de representación proporcional;
 
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2012)</small>
+
 III. Al partido político que cumpla con las dos bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubieren obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su porcentaje de la votación estatal emitida, el número de diputados de su lista que le correspondan;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2012)</small>
 
 IV. Ningún partido político podrá contar con más de treinta diputados por ambos principios;
 
 > <small>(REFORMADA, G.O. 9 DE ENERO DE 2015)</small>
 
 V. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que represente un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento. El porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales, y
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2012)</small>
 
 VI. En los términos de lo establecido en las bases contenidas en las fracciones III, IV y V anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de las fracciones IV o V, se adjudicarán a los demás partidos con derecho a ello, en proporción directa con las respectivas votaciones estatales efectivas de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
 
@@ -13031,10 +13043,18 @@ Tercero. En un plazo no mayor de sesenta días posteriores al inicio de vigencia
 
 G.O. 20 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 257 QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 33 Y QUE ADICIONA LAS FRACCIONES XXIV BIS Y XXIV TER AL ARTÍCULO 33 Y LA FRACCIÓN VII BIS AL ARTÍCULO 41 TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 257 QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 33 Y QUE ADICIONA LAS FRACCIONES XXIV BIS Y XXIV TER AL ARTÍCULO 33 Y LA FRACCIÓN VII BIS AL ARTÍCULO 41 TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El Congreso del Estado deberá adecuar las leyes relativas, conforme a lo dispuesto en este Decreto, dentro de los sesenta días naturales siguientes al inicio de su vigencia.
+
+G.O. 29 DE JULIO DE 2019.
+
+[N. DE E TRANSITORIOS DEL “DECRETO NÚMERO 269 QUE REFORMA EL ARTÍCULO 21 PÁRRAFO PRIMERO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
