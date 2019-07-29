@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2017-07-05"
+last_updated: "2019-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -345,13 +345,29 @@ XL. Diseñar indicadores de gestión que permitan evaluar la eficiencia de los p
 
 XLI. Desarrollar programas de capacitación y adiestramiento para las personas que laboren en los organismos operadores del Estado, y las dependencias de los ayuntamientos que presten los mismos servicios;
 
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
+
+XLII. Capacitar y certificar las competencias técnicas de la persona que aspira a se (sic) titular de la Dirección General de los organismos operadores, a petición de los ayuntamientos de los municipios cuya población sea menor de cincuenta mil habitantes, para lo cual tomará en consideración la experiencia profesional comprobada en la materia;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2019)</small>
+
+XLIII. Expedir permisos a particulares para realizar transporte y venta de agua a través de cisternas en vehículos;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2019)</small>
+
+XLIV. Conformar y mantener un padrón de los particulares que realicen transporte y venta de agua a través de cisternas en vehículos, que incluya cuando menos: datos generales y fuente de abastecimiento autorizada;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2019)</small>
+
+XLV. Realizar revisiones a particulares que realicen transporte y venta de agua a través de cisternas en vehículos;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2019)</small>
+
+XLVI. Establecer límites superiores de precios en que particulares oferten el agua a través de cisternas en vehículos, y
+
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
 
-XLII. Capacitar y certificar las competencias técnicas de la persona que aspira a se (sic) titular de la Dirección General de los organismos operadores, a petición de los ayuntamientos de los municipios cuya población sea menor de cincuenta mil habitantes, para lo cual tomará en consideración la experiencia profesional comprobada en la materia, y
-
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
-
-XLIII. Las demás atribuciones que le confieran esta Ley y otros ordenamientos jurídicos, así como las que en materia de agua le sean transferidas por la Federación al Gobierno del Estado, en los términos de ley y de los convenios que al efecto se celebren.
+XLVII. Las demás atribuciones que le confieran esta Ley y otros ordenamientos jurídicos, así como las que en materia de agua le sean transferidas por la Federación al Gobierno del Estado, en los términos de ley y de los convenios que al efecto se celebren.
 
 ###### ARTICULO 9°.
 
@@ -1229,7 +1245,11 @@ VIII. Elaborar los programas y presupuestos anuales de ingresos y egresos deriva
 
 IX. Determinar con base en las fórmulas elaboradas por la Comisión y aprobadas por el Congreso, las adecuaciones a las cuotas y tarifas relativas a los servicios públicos, y proponerlas en su ley de ingresos;
 
-X. Presentar al Congreso, en forma de iniciativa, la propuesta de cuotas y tarifas que le remita el organismo operador, cuando lo hubiere, respetando la estructura y montos propuestos. Tratándose de organismos operadores intermunicipales, la presentación al Congreso correrá a cargo del ayuntamiento cuyo municipio cuente con el mayor número de habitantes;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
+
+X. Cuando no hubiere organismo operador, presentar al Congreso dentro de su proyecto de ley de ingresos de cada ejercicio fiscal, la propuesta de cuotas y tarifas para el servicio de agua, alcantarillado y saneamiento; y cuando lo hubiere, presentar en forma de iniciativa, la propuesta de cuotas y tarifas que le remita el organismo operador, respetando la estructura y montos propuestos. Tratándose de organismos operadores intermunicipales, la presentación al Congreso correrá a cargo del ayuntamiento cuyo municipio cuente con el mayor número de habitantes.
+
+La iniciativa de propuesta de cuotas y tarifas presentada por los ayuntamientos, deberá incluir como justificación un plan de trabajo anual, que priorice la eficacia y la eficiencia para la mejora en la calidad de la prestación de los servicios públicos de agua potable, alcantarillado sanitario, alcantarillado pluvial, tratamiento y disposición de aguas residuales;
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -2183,6 +2203,10 @@ Firmado el contrato correspondiente y pagado el importe del costo de la instalac
 
 Cuando se trate de tomas solicitadas por giros o establecimientos ubicados en forma temporal, los solicitantes deberán otorgar, como requisito previo para la instalación, la garantía que fije el prestador de servicios.
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2019)</small>
+
+Los usuarios deberán ser enterados en la firma del contrato respectivo, de la obligación que se contrae para reusar el agua conforme al artículo 163 fracción I de la Ley de Aguas del Estado de San Luis Potosí.
+
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 143.
@@ -2242,6 +2266,10 @@ Todo lo relacionado con los predios o establecimientos; la forma en que otras au
 Los organismos operadores y, en general, los prestadores de los servicios, autorizarán la ampliación de su infraestructura hidráulica y sanitaria, exclusivamente en el territorio ubicado en el área de factibilidad de los servicios.
 
 Para efectos de lo anterior, los prestadores de los servicios informarán, a través del Periódico Oficial del Estado y por lo menos uno de los diarios de mayor circulación en la localidad, el área definida como factible para la prestación de los servicios, cada vez que ésta se actualice o modifique.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2019)</small>
+
+Los organismos operadores y los prestadores de servicios deberán incluir como parte de la factibilidad de nuevos fraccionamientos o desarrollos urbanos, las descargas y, en su caso, alimentación de tomas domiciliarias de aguas grises que permitan el reuso de agua en los proyectos de construcción.
 
 ###### ARTICULO 154.
 
@@ -2811,11 +2839,27 @@ XV. Inobservar las obligaciones que establezcan los títulos de concesión, asig
 
 XVI. Emplear mecanismos para succionar agua sin la autorización correspondiente;
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
 
-XVII. No utilizar aguas residuales tratadas cuando haya disponibilidad, en los supuestos señalados en el artículo 163 del presente Ordenamiento, y
+XVII. No utilizar aguas residuales tratadas cuando haya disponibilidad, en los supuestos señalados en el artículo 163 del presente Ordenamiento;
 
-XVIII. Las demás que se deriven de la presente Ley y sus reglamentos.
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2019)</small>
+
+XVIII. En el caso de particulares que realicen transporte y venta de agua a través de cisternas en vehículos, operar sin autorización;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2019)</small>
+
+XIX. En el caso de los particulares referidos en la fracción anterior, no cumplir con los requisitos de desinfección de agua y de transporte de agua para uso y consumo humano, de acuerdo a la Norma Oficial Mexicana vigente;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2019)</small>
+
+XX. En el caso de los particulares referidos en la fracción XVIII, abastecerse de fuente distinta a la autorizada y registrada por la Comisión;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2019)</small>
+
+XXI. En el caso de los particulares referidos en la fracción XVIII, no respetar los límites establecidos por la Comisión para los precios del agua, y
+
+XXII. Las demás que se deriven de la presente Ley y sus reglamentos.
 
 ###### ARTICULO 207.
 
@@ -2829,13 +2873,13 @@ I. En los casos de las fracciones II, VI, XI, XII y XV del citado artículo, se 
 
 II. En los casos de las fracciones III, IV, VII, X y XIII se aplicarán multas por un monto entre quinientos a seiscientos días de la unidad de medida y actualización vigente;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
 
-III. En los casos de las fracciones I, V, VIII, IX, XIV y XVI se aplicarán multas por un monto entre mil a mil quinientos días de la unidad de medida y actualización vigente, y
+III. En los casos de las fracciones I, V, VIII, IX, XIV, XVI, XX y XXI se aplicarán multas por un monto de entre mil a mil quinientas unidades de medida y actualización vigente, y
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
 
-IV. En el caso de la fracción XVII se aplicarán las multas por un monto entre cien a mil días de la unidad de medida y actualización vigente y, en caso de reincidencia, se impondrá a los infractores la clausura temporal o definitiva, parcial o total del predio, construcción, establecimiento, giro mercantil o industria.
+IV. En el caso de las fracciones XVII, XVIII y XIX, se aplicarán las multas por un monto de entre cien a mil unidades de medida y actualización vigente y, en caso de reincidencia, se impondrá a los infractores la clausura temporal o definitiva, parcial o total del predio, construcción, establecimiento, giro mercantil o industria.
 
 ###### ARTICULO 208.
 
@@ -3482,5 +3526,29 @@ P.O. 5 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL DECRETO 0669.- SE REFORMA LOS ARTÍCULOS, 31, 33, Y 35 TER EN SUS PÁRRAFOS, PRIMERO, Y SEGUNDO, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto estará vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0205.- SE REFORMA EL ARTÍCULO 79 EN SU FRACCIÓN X, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 206.- SE ADICIONA A LOS ARTÍCULOS, 142 EL PÁRRAFO TERCERO, Y 153 EL PÁRRAFO TERCERO, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0211.- SE REFORMAN LOS ARTÍCULOS 8°, 206 Y 207; Y ADICIONA A LOS ARTÍCULOS 8° CUATRO FRACCIONES, Y AL ARTÍCULO 206 CUATRO FRACCIONES, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
