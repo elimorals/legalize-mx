@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-para-el-estado-y-municipios-de-san-luis-61711"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-10"
-last_updated: "2018-10-01"
+last_updated: "2019-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 10 de mayo de 2008.
 
@@ -495,9 +495,17 @@ IX. Impulsar acciones que reconozcan el papel de la mujer en la transmisión y d
 
 X. Propiciar el intercambio cultural entre los habitantes del Estado de San Luis Potosí y sus emigrantes que, por diversas razones, viven fuera del mismo y del país, con especial atención a las comunidades establecidas en Estados Unidos de Norteamérica, con la finalidad de estimular y fortalecer los lazos de identidad cultural;
 
-XI. Propiciar el acercamiento de los diversos sectores de la población, al desarrollo de las nuevas tecnologías y su aplicación como medio de expresión artística y cultural, y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
 
-XII. Impulsar la creación de circuitos que acerquen actividades de animación y divulgación cultural, a aquéllas comunidades y núcleos urbanos alejados de los espacios y de la infraestructura.
+XI. Propiciar el acercamiento de los diversos sectores de la población, al desarrollo de las nuevas tecnologías y su aplicación como medio de expresión artística y cultural;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
+
+XII. Impulsar la creación de circuitos que acerquen actividades de animación y divulgación cultural, a aquéllas comunidades y núcleos urbanos alejados de los espacios y de la infraestructura, y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2019)</small>
+
+XIII. Establecer el acceso gratuito a los museos un día a la semana, que será los domingos.
 
 ## TITULO CUARTO
 
@@ -862,3 +870,15 @@ P.O. 1 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0209.- SE REFORMA EL ARTÍCULO 19 EN SUS FRACCIONES, XI, Y XII; Y ADICIONA AL MISMO ARTÍCULO 19 LA FRACCIÓN XIII, DE LA LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis."
+
+SEGUNDO. El cobro por la entrada a los museos previsto en el anexo respectivo de la Ley de Ingresos del Estado, para el Ejercicio Fiscal 2019, tendrá como excepción el día gratuito que contempla la fracción XIII del artículo 19, de la Ley de Cultura del Estado y Municipios de San Luis Potosí; por tanto, el museo respectivo o quien realice los cobros por la entrada, deberá establecer los mecanismos de control a fin de reflejar este incentivo en los estados financieros correspondientes.
+
+Para los ejercicios subsecuentes, se deberá de establecer en la parte correspondiente del anexo de la Ley de Ingresos del Estado respectiva, este incentivo.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
