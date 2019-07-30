@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-los-derechos-de-las-personas-con-8424
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-21"
-last_updated: "2019-04-29"
+last_updated: "2019-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 21 de diciembre de 2011.
 
@@ -69,7 +69,7 @@ V.- Comunicación: el Lenguaje escrito y oral, el Lenguaje de Señas Mexicana, l
 
 VI.- Comunidad de sordos: todo aquel grupo social cuyos miembros tienen alguna deficiencia del sentido auditivo que les limita sostener una Comunicación y socialización regular y fluida en lengua oral;
 
-VII.- Consejo: el Consejo Promotor de los Derechos de las Personas con Discapacidad del Estado de Yucatán;
+VII.- (DEROGADA, D.O. 30 DE JULIO DE 2019)
 
 VIII.- DIF: el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Yucatán;
 
@@ -79,9 +79,13 @@ X.- Discriminación por motivos de discapacidad: cualquier distinción, exclusi�
 
 XI.- Diseño universal: el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas con discapacidad, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El Diseño universal no excluirá las Ayudas técnicas para grupos particulares de personas con discapacidad, cuando se necesiten;
 
-XII.- Educación especial: es aquella destinada a individuos con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género;
+> <small>(REFORMADA, D.O. 30 DE JULIO DE 2019)</small>
 
-XIII.- Educación inclusiva: es la educación que propicia la integración de personas con discapacidad a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos;
+XII.- Educación especial: Es aquella destinada a individuos con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con igualdad social incluyente y con perspectiva de género;
+
+> <small>(REFORMADA, D.O. 30 DE JULIO DE 2019)</small>
+
+XIII.- Educación inclusiva: Es la educación que propicia la inclusión de personas con discapacidad a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos;
 
 XIV.- Estenografía proyectada: es el oficio y la técnica de transcribir un monólogo o un diálogo oral de manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales;
 
@@ -129,11 +133,17 @@ XXXV.- Sistema de escritura braille: sistema para la Comunicación representado 
 
 XXXVI.- Transversalidad: es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
 
+> <small>(ADICIONADA, D.O. 30 DE JULIO DE 2019)</small>
+
+XXXVII.- Instituto.- Instituto para la Inclusión de las Personas con Discapacidad del estado de Yucatán creado por decreto del Poder Ejecutivo.
+
 ###### Artículo 3.
 
 La aplicación de las disposiciones de esta Ley corresponde al Poder Ejecutivo, y a los ayuntamientos, en el ámbito de sus respectivos territorios.
 
-El Poder Ejecutivo realizará lo previsto en esta Ley por sí y por conducto de las dependencias y entidades que forman parte del Consejo.
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 2019)</small>
+
+El Poder Ejecutivo realizará lo previsto en esta Ley por sí y por conducto del Instituto.
 
 Los ayuntamientos, en su respectivo ámbito de competencia, cumplirán las atribuciones que les confiere esta Ley por medio de las direcciones y entidades paramunicipales correspondientes.
 
@@ -191,7 +201,11 @@ III.- Realizarán acciones tendientes a la recuperación, Rehabilitación y la r
 
 IV.- Realizar las acciones necesarias para que los servicios de salud que se brinden sean de calidad, y
 
-V.- Las demás que señale esta Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, D.O. 30 DE JULIO DE 2019)</small>
+
+V.- Expedir constancias o certificados médicos que acrediten la discapacidad de una persona, a su solicitud o por medio de sus padres, tutores o quienes tengan la patria potestad para la realización de trámites o solicitudes de su interés.
+
+VI.- Las demás que señale esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 7.
 
@@ -267,7 +281,9 @@ II.- Integrar y actualizar de manera permanente el Registro Estatal de Personas 
 
 III.- Promover la difusión de los derechos de las personas con discapacidad, así como de las disposiciones legales que los contemplan, a fin de garantizar su efectiva aplicación, y al mismo tiempo hacer campañas destinadas a la sociedad que tengan como finalidad la sensibilización en cuanto a los derechos de las personas con discapacidad.
 
-IV.- Planear, elaborar, ejecutar y difundir, con la participación de los integrantes del Consejo, el Programa, y el contenido de esta Ley;
+> <small>(REFORMADA, D.O. 30 DE JULIO DE 2019)</small>
+
+IV.- Ejecutar y difundir, con la participación del Instituto, el Programa, y el contenido de esta Ley;
 
 V.- Realizar acciones, con la colaboración de otras dependencias u organismos públicos o privados, en materia de Prevención, Rehabilitación, habilitación, Igualdad de oportunidades y orientación para las personas con discapacidad;
 
@@ -281,7 +297,15 @@ VIII.- Las demás que señale esta Ley y otras disposiciones aplicables.
 
 El Instituto del Deporte del Estado de Yucatán, en materia de esta Ley, tiene las siguientes atribuciones:
 
-I.- Promover el derecho de las personas con discapacidad al deporte;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 30 DE JULIO DE 2019)</small>
+
+I.- Garantizar el derecho al deporte de las personas con discapacidad, promoviendo el desarrollo de su potencial físico, creativo, artístico e intelectual, mediante:
+
+a) La entrega de estímulos, becas, premios y toda clase de apoyo para su disfrute,
+
+b) Libre acceso a instalaciones, servicios, instrucción, preparación y formación, y
+
+c) La implementación de políticas públicas que les permitan organizar, desarrollar y participar en actividades deportivas y recreativas.
 
 II.- Participar en la elaboración de políticas públicas en la materia, y
 
@@ -595,9 +619,11 @@ III.- Las instalaciones y los servicios comunitarios para la población en gener
 
 ### CAPÍTULO XI. Derecho a la movilidad personal
 
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 2019)</small>
+
 ###### Artículo 55.
 
-Las personas con discapacidad tendrán derecho a gozar de movilidad personal con la mayor independencia posible.
+Las personas con discapacidad tendrán derecho a gozar de movilidad personal con la mayor independencia posible; por lo cual se les brindarán condiciones de accesibilidad para quienes requieran la asistencia de algún aparato ortopédico, silla de ruedas o perro guía o animal de servicio.
 
 ###### Artículo 56.
 
@@ -641,7 +667,9 @@ Para regular dicha situación, la Secretaría de Desarrollo Urbano y la autorida
 
 Para que las personas con discapacidad gocen de movilidad personal con la mayor independencia posible, las autoridades competentes, realizarán entre otras acciones, las siguientes:
 
-I.- Promover el acceso de las personas con discapacidad a formas de asistencia humana o animal e intermediarios, tecnologías de apoyo, dispositivos técnicos y ayudas para la movilidad de calidad;
+> <small>(REFORMADA, D.O. 30 DE JULIO DE 2019)</small>
+
+I.- Promover y permitir el acceso de las personas con discapacidad a formas de asistencia humana o animal e intermediarios, tecnologías de apoyo, dispositivos técnicos y ayudas para la movilidad de calidad
 
 II.- Impulsar que se otorgue a un costo asequible, cualquier tipo de apoyo o ayuda que facilite la movilidad personal;
 
@@ -680,6 +708,10 @@ V.- Promover el otorgamiento de estímulos fiscales a las empresas concesionaria
 VI.- Promover el otorgamiento de beneficios en el costo del servicio de transporte a favor de las personas con discapacidad, y
 
 VII.- Promover acciones permanentes de orientación y capacitación a conductores de vehículos del servicio público de transporte, con el objeto de brindar una atención adecuada a las personas con discapacidad.
+
+> <small>(ADICIONADA, D.O. 30 DE JULIO DE 2019)</small>
+
+VIII.- Permitir el acceso de perros guía o animal de asistencia, silla de ruedas o aparatos ortopédicos, en el transporte público, para facilitar la movilidad de las personas con discapacidad.
 
 ### CAPÍTULO XIII. Derecho a la libertad de expresión, opinión y acceso a la información
 
@@ -1113,101 +1145,47 @@ El reglamento de esta Ley, establecerá las autoridades, mecanismos y trámites 
 
 Las dependencias y entidades que integran la Administración Pública Estatal y Municipal, en la medida de lo posible, otorgarán una atención preferencial a las personas con discapacidad, a efecto de agilizar los trámites y procedimientos administrativos que las mismas realicen.
 
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O. 30 DE JULIO DE 2019)</small>
+
 ## TÍTULO CUARTO. CONSEJO PROMOTOR DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 30 DE JULIO DE 2019)</small>
 
 ### CAPÍTULO ÚNICO
 
 ###### Artículo 107.
 
-Se crea el Consejo Promotor de los Derechos de las Personas con Discapacidad del Estado de Yucatán, que tendrá por objeto intervenir como un órgano auxiliar encargado de promover y fomentar las políticas públicas para hacer efectivo el cumplimiento de los derechos establecidos en esta Ley.
+(DEROGADO, D.O. 30 DE JULIO DE 2019)
 
 ###### Artículo 108.
 
-El Consejo tendrá las siguientes funciones:
-
-I.- Participar en la elaboración del Programa, y sus modificaciones o actualizaciones;
-
-II.- Propiciar la participación y colaboración interinstitucional activa entre el Gobierno del Estado, las Organizaciones de la Sociedad Civil y la sociedad, con el objetivo de actualizar e incluir en el Programa cualquier proyecto de desarrollo integral que contribuya a hacer efectivo el cumplimiento de los derechos a favor de las personas con discapacidad;
-
-III.- Promover la elaboración de proyectos a efecto de que sean considerados como Política pública para la protección de los derechos de las personas con discapacidad;
-
-IV.- Promover la preparación de proyectos en materia de Prevención de discapacidades, prestación de los servicios de salud, educación, empleo y vivienda para las personas con discapacidad, a efecto de incluirlos en el Programa;
-
-V.- Coadyuvar en el desarrollo y observancia del Programa y de los proyectos sobre discapacidad en el Estado;
-
-VI.- Propiciar la participación ciudadana y de las organizaciones civiles en el seguimiento, operación y evaluación del Programa;
-
-VII.- Promover y fomentar la cultura de la dignidad, respeto y solidaridad de los derechos de las personas con discapacidad, a través de programas y campañas de sensibilización y concientización;
-
-VIII.- Promover la ejecución de proyectos y actividades que propicien la participación plena de las personas con discapacidad en la vida económica, social, política y cultural del Estado;
-
-IX.- Promover la elaboración, publicación y difusión de estudios, investigaciones, obras y materiales en la materia, especialmente, sobre el desarrollo e inclusión social, económico, político y cultural de las personas con discapacidad;
-
-X.- Promover la celebración de convenios con dependencias y entidades del Poder Ejecutivo, municipios y Organizaciones de la Sociedad Civil, para la instrumentación de las acciones relacionadas con el desarrollo y la inclusión social de las personas con discapacidad;
-
-XI.- Promover acciones de difusión y defensa de los derechos de las personas con discapacidad, así como las disposiciones legales que los contemplan, a fin de garantizar su aplicación;
-
-XII.- Promover la instrumentación de una Política pública económica que contemple el financiamiento de programas, subsidios y fondos especiales para estimular y apoyar el desarrollo de las personas con discapacidad;
-
-XIII.- Difundir las políticas públicas, planes y acciones a desarrollar, de acuerdo con las disposiciones de esta Ley;
-
-XIV.- Solicitar información a las instituciones públicas, sociales y privadas que le permitan el cumplimiento de las atribuciones que le confiere esta Ley;
-
-XV.- Proponer modificaciones al marco jurídico local de la materia;
-
-XVI.- Elaborar en el mes de enero el programa anual de actividades correspondiente e informar de su realización en el mes de diciembre de cada año, y
-
-XVII.- Las demás que resulten necesarias para el cumplimiento de su objeto.
+(DEROGADO, D.O. 30 DE JULIO DE 2019)
 
 ###### Artículo 109.
 
-El Consejo se conformará de la siguiente manera:
-
-I.- Un Presidente, designado por el Titular del Poder Ejecutivo;
-
-II.- Un Secretario, que será el Director General del DIF, y
-
-III.- Como vocales:
-
-a) Un representante de la Secretaría General de Gobierno del Estado de Yucatán;
-
-b) Un representante de la Secretaría de Salud;
-
-c) Un representante de la Secretaría de Educación;
-
-d) Un representante de la Secretaría de Seguridad Pública;
-
-e) Un representante de la Secretaría de Fomento Turístico;
-
-f) Un representante de la Secretaría de Desarrollo Urbano y Medio Ambiente;
-
-g) Un representante de la Secretaría de Trabajo y Previsión Social;
-
-h) Un representante de la Secretaría de la Cultura y las Artes;
-
-i) Un representante del Instituto del Deporte del Estado de Yucatán;
-
-j) Un representante del Instituto de Vivienda del Estado de Yucatán;
-
-k) Un representante de las personas con discapacidad, y
-
-l) Cuatro representantes de las Organizaciones de la Sociedad Civil.
+(DEROGADO, D.O. 30 DE JULIO DE 2019)
 
 ###### Artículo 110.
 
-Con la finalidad de cumplir con sus funciones, el Consejo podrá establecer comités de trabajo, en coordinación con el DIF.
+(DEROGADO, D.O. 30 DE JULIO DE 2019)
 
 ###### Artículo 111.
 
-Las facultades y obligaciones de los integrantes del Consejo, así como todo lo relativo a su funcionamiento, deberán estar establecidas en el reglamento de esta Ley.
+(DEROGADO, D.O. 30 DE JULIO DE 2019)
 
-## TÍTULO QUINTO. DEL PROGRAMA PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE JULIO DE 2019)</small>
 
-### CAPÍTULO ÚNICO
+## TÍTULO QUINTO. PROGRAMA E INSTITUTO PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
+
+> <small>(REFORMADO EN SU NUMERACIÓN, D.O. 30 DE JULIO DE 2019)</small>
+
+### CAPÍTULO I. Programa para la Protección de los Derechos de las Personas con Discapacidad
+
+> <small>(REFORMADO, D.O. 30 DE JULIO DE 2019)</small>
 
 ###### Artículo 112.
 
-El Programa para la Protección de los Derechos de las Personas con Discapacidad tiene por objeto contribuir a la protección de los Derechos de las Personas con Discapacidad y será elaborado por el DIF, con la participación de las dependencias y entidades integrantes del Consejo.
+El Programa para la Protección de los Derechos de las Personas con Discapacidad tiene por objeto contribuir a la protección de los Derechos de las Personas con Discapacidad y será elaborado por el Instituto.
 
 ###### Artículo 113.
 
@@ -1219,9 +1197,19 @@ Corresponde a las dependencias y entidades del Poder Ejecutivo previstas en esta
 
 El Programa será revisado y actualizado anualmente a efecto de ser modificado en los rubros en que no se presenten los avances proyectados en el propio Programa.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 30 DE JULIO DE 2019)</small>
+
+### CAPÍTULO II. Instituto para la Inclusión de las Personas con Discapacidad del Estado de Yucatán
+
+> <small>(ADICIONADO, D.O. 30 DE JULIO DE 2019)</small>
+
+###### Artículo 114 Bis.
+
+A fin de garantizar la inclusión y el desarrollo de las personas con discapacidad en el Estado, el Poder Ejecutivo contará con un organismo público descentralizado cuyas funciones y características sean definidas en su decreto de creación.
 
 ## TÍTULO SEXTO. RESPONSABILIDADES Y SANCIONES
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 115.
 
@@ -1352,3 +1340,11 @@ Primero.- El presente decreto entrará en vigor el día siguiente al de su publi
 Segundo.- La disposición establecida en el presente decreto, únicamente será aplicable en aquellos parques, jardines o plazas públicas juegos infantiles que se construyan con posterioridad, en el entendido de que los ya existentes, se adecuarán en forma gradual, conforme a la capacidad presupuestaria
 
 Tercero.- El Poder Ejecutivo y los ayuntamientos del estado deberán adecuar sus disposiciones reglamentarias relacionadas con el presente decreto, dentro de los ciento ochenta días siguientes a su entrada en vigor.
+
+D.O. 30 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 92/2019 POR EL QUE SE MODIFICA LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN".]
+
+Primero. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Para todo lo relativo al Instituto para la Inclusión de las Personas con Discapacidad del Estado de Yucatán se mantiene en vigor el Decreto 9/2018 por el que se regula el Instituto para la Inclusión de las Personas con Discapacidad del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado el 3 de diciembre de 2018 con las previsiones presupuestales establecidas en el Presupuesto de Egresos del Gobierno del Estado de Yucatán para el ejercicio fiscal 2019, en cumplimiento del artículo 114 bis de este Decreto.
