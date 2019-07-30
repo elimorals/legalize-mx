@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-conducta-de-la-coordinacion-general-de-137301"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-29"
-last_updated: "2019-05-29"
+last_updated: "2019-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137301&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,79 +20,113 @@ state: "VER"
 ---
 # CODIGO DE CONDUCTA DE LA COORDINACION GENERAL DE COMUNICACION SOCIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CÓDIGO DE CONDUCTA DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL DEL ESTADO DE VERACRUZ
+> <small>[N. DE E. LAS REFORMAS APROBADAS MODIFICARON DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL TEXTO DEL ESTATUTO DEL 29 DE MAYO DE 2019, Y SI BIEN DIVERSOS ARTÍCULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN LA GACETA OFICIAL DEL 30 DE JULIO DE 2019.]</small>
 
-TEXTO ORIGINAL.
+CÓDIGO DE CONDUCTA DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JULIO DE 2019.
 
 Código publicado en el Núm. Ext. 214 de la Gaceta Oficial del Estado de Veracruz, el miércoles 29 de mayo de 2019.
 
-Í N D I C E
+GOBIERNO DEL ESTADO
 
-I. Presentación.
+PODER EJECUTIVO
 
-II. Misión y Visión Institucional.
+Coordinación General de Comunicación Social
 
-III. Principios y Valores establecidos en el Código de Ética de los Servidores Públicos y las Reglas de Integridad para el ejercicio de la Función Pública del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave.
+CÓDIGO DE CONDUCTA DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
 
-IV. Mecanismos de Implementación del Código de Conducta
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2019)</small>
+
+ÍNDICE
+
+I. Presentación
+
+II. Misión y Visión Institucional
+
+III. Marco Normativo
+
+IV. Principios y Valores establecidos en el Código de Ética de los Servidores Públicos y las Reglas de Integridad para el Ejercicio de la Función Pública del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave.
+
+V. Mecanismos de Implementación del Código de Conducta
 
 A) Políticas de Cumplimiento.
 
 B) Procedimiento para la aplicación del Código de Conducta.
 
-C) Responsabilidad de las y los servidores públicos.
+C) Responsabilidad de los servidores públicos y Titulares.
 
 D) Políticas de no aplicar represalias.
 
 E) Procedimiento para formular preguntas, presentar inquietudes y recibir orientación.
 
-V. Descripción de Conductas Éticas.
+VI. Descripción de Conductas Éticas
 
 A) Integridad Pública.
 
-B) Desempeño Público.
+B) Cumplimiento al Marco Normativo.
 
-C) Uso y asignación de recursos.
+C) Desempeño Público.
 
-D) Acceso a la Información.
+D) Uso y asignación de recursos.
 
-E) Relaciones Interpersonales.
+E) Acceso a la Información.
 
-F) Respeto a los demás.
+F) Relaciones Interpersonales.
 
-G) Desarrollo Integral.
+G) Respeto a los demás.
 
-H) Relación con la Ciudadanía.
+H) Desarrollo Integral.
 
-I) Cumplimiento al Marco Normativo.
+I) Relación con la Ciudadanía.
 
-J) Transitorios.
+VII. Transitorios
 
-VI. Firmas de Adhesión.
+VIII. Firmas de Adhesión
+
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2019)</small>
 
 I. PRESENTACIÓN
 
-El acuerdo por el que se establece el Código de Ética de los y las Servidores Públicos y las Reglas de Integridad para el Ejercicio de la Función Pública del Poder Ejecutivo del Estado de Veracruz, de fecha de publicación en la Gaceta Oficial del Estado, con fecha diecisiete de enero de dos mil diecinueve, en sus artículos Cuarto y Quinto Transitorios al referir que: “Artículo Cuarto. En un plazo de treinta días naturales, la Contraloría General expedirá y publicará en su página web, la guía para la Actualización de los Códigos de Conducta”; y, “Artículo Quinto. Los Comités de Ética de las Dependencias y Entidades, en coordinación con la Subdirección de Ética Pública y Normatividad, de la Dirección General de Transparencia, Anticorrupción y Función Pública de la Contraloría General, actualizarán sus Códigos de Conducta en un plazo no mayor a treinta días naturales a partir del siguiente día de la publicación de la Guía mencionada en el artículo anterior”; generan la obligación a las dependencias centralizadas y entidades paraestatales a llevar a cabo estrategias suficientes para actualizar los Códigos de Conducta que existan en cada una de estas unidades administrativas, teniendo como base los objetivos, valores y principios de esta nueva administración gubernamental.
+El acuerdo por el que se establece el Código de Ética de los y las Servidores Públicos y las Reglas de Integridad para el Ejercicio de la Función Pública del Poder Ejecutivo del Estado de Veracruz, de fecha de publicación en la Gaceta Oficial del Estado, con fecha diecisiete de enero de dos mil diecinueve, en sus artículos Transitorios al referir que: “Artículo Cuarto. En un plazo de treinta días naturales, la Contraloría General expedirá y publicará en su página web, la guía para la Actualización de los Códigos de Conducta”; y, “Artículo Quinto. Los Comités de Ética de las Dependencias y Entidades, en coordinación con la Subdirección de Ética Pública y Normatividad, de la Dirección General de Transparencia, Anticorrupción y Función Pública de la Contraloría General, actualizarán sus Códigos de Conducta en un plazo no mayor a treinta días naturales a partir del siguiente día de la publicación de la Guía mencionada en el artículo anterior”; generan la obligación a las dependencias centralizadas y entidades paraestatales a llevar a cabo estrategias suficientes para actualizar los Códigos de Conducta que existan en cada una de estas unidades administrativas, teniendo como base los objetivos, valores y principios de esta nueva administración gubernamental.
 
 En razón a ello, dentro de la Coordinación General de Comunicación Social del Estado de Veracruz, en uso de la herramienta existente y en conducción de una gestión pública moderna y ordenada y, conforme a las directrices para el actuar de servidoras y servidores públicos en el ejercicio de sus funciones, ha inducido en el actuar mismo de su plantilla laboral, actitudes de responsabilidad, respeto, legalidad y transparencia, que eviten conductas deshonestas y las circunstancias que puedan generarlas o condicionarlas; ello, fomentando la constante capacitación y actualización del personal en las diferentes áreas que la conforman.
 
-La conducta de las y los funcionarios públicos representa un elemento primordial e indispensable para atender de manera adecuada las necesidades sociales, consolidando un régimen de valores y normas que dignifiquen la gestión del servicio público en favor de la población veracruzana; convivir y comulgar con los principios éticos de esta nueva administración, materializa en acciones concretas que la información a la sociedad de las acciones, obras y servicios de las diferentes dependencias se realice de manera oportuna y veraz, lo que garantizara un Gobierno Estatal empático y respetuoso de la Ciudadanía que tutela.
+La conducta de las y los servidores públicos representa un elemento primordial e indispensable para atender de manera adecuada las necesidades sociales, consolidando un régimen de valores y normas que dignifiquen la gestión del servicio público en favor de la población veracruzana; convivir y comulgar con los principios éticos de esta nueva administración, materializa en acciones concretas que la información a la sociedad de las acciones, obras y servicios de las diferentes dependencias se realice de manera oportuna y veraz, lo que garantizará un Gobierno Estatal empático y respetuoso de la Ciudadanía que tutela.
 
 Coordinador General de Comunicación Social
 
 Lic. Iván Joseph Luna Landa
 
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2019)</small>
+
 II. MISIÓN Y VISIÓN INSTITUCIONAL
 
 MISIÓN
 
-Coordinar la Difusión Informativa, Publicitaria y Promocional de manera Veraz, Transparente, Oportuna, Clara y Directa de las actividades, Obras, Servicios y Logros que realiza el Gobierno del Estado de Veracruz de Ignacio de la Llave, sustentada en el análisis de la información generada por los diferentes medios de Comunicación que lleven a tomar decisiones eficientes en la Administración Pública.
+Coordinar la difusión informativa, publicitaria y promocional de las actividades, obras y servicios de la Administración Pública del Estado, a través de los distintos medios de comunicación.
 
 VISIÓN
 
-Al ser la Institución garante de la Dirección y Ejecución de la Política de Comunicación Social y de las Relaciones Públicas de los diferentes Entes de la Administración Pública del Gobierno del Estado de Veracruz de Ignacio de la Llave, la Coordinación General de Comunicación Social planteará, normará y orientará las actividades de Difusión, Comunicación y Publicidad Social de la Administración Pública del Estado evaluando la aplicación y resultados de los programas y servicios gubernamentales.
+Ser la Institución que responda a la dinámica de la realidad social y garantice una comunicación eficiente, incluyente, honesta y confiable, sobre las políticas públicas que lleva a cabo el Gobierno para contribuir al bienestar de la sociedad veracruzana.
 
-III. Principios y Valores establecidos en el Código de Ética de los Servidores Públicos y las Reglas de Integridad para el ejercicio de la Función Pública del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave.
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2019)</small>
+
+III. MARCO NORMATIVO
+
+- Constitución Política de los Estados Unidos Mexicanos artículos 109 fracción III.
+
+- Constitución Política del Estado de Veracruz de Ignacio de la Llave, en su artículo 79.
+
+- Ley General de Responsabilidades Administrativas artículos 6 y 7.
+
+- Ley de Responsabilidades Administrativas de Veracruz de Ignacio de la Llave, en su artículo 5.
+
+- Ley General del Sistema Nacional Anticorrupción artículo 5.
+
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2019)</small>
+
+IV. PRINCIPIOS Y VALORES ESTABLECIDOS EN EL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS Y LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 Principios Constitucionales que todo servidor y servidora público debe observar en el desarrollo de su empleo, cargo o comisión.
 
@@ -112,7 +146,7 @@ Principios Constitucionales que todo servidor y servidora público debe observar
 
 8. Disciplina: Desempeñar su empleo, cargo o comisión, de manera ordenada, metódica y perseverante, con el propósito de obtener los mejores resultados en el servicio o bienes ofrecidos.
 
-9. Profesionalismo: Conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto, tanto a los demás servidores públicos como a las y los particulares con los que llegare a tratar.
+9. Profesionalismo: Conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas atribuibles a su empleo, cargo o comisión, observando en todo momento disciplina, integridad y respeto, tanto a los demás servidores públicos como a las y los particulares con los que llegase a tratar.
 
 10. Objetividad: Preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general, actuando de manera neutral e imparcial en la toma de decisiones, que a su vez deberán de ser informadas en estricto apego a la legalidad.
 
@@ -148,7 +182,7 @@ Así también, las servidoras y servidores públicos tienen la obligación de ac
 
 10. Competitividad: Alcanzar mayores niveles de preparación y desarrollo de aptitudes y habilidades en la gestión pública, a través de la participación en las diversas ofertas de capacitación que ofrece el Estado.
 
-En el mismo sentido, las Servidoras y Servidores Públicos requieren de patrones de conducta para optimizar y dar certeza de su comportamiento, por lo que también se incluyen; las REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA, que constituyen guías para identificar acciones que vulneren lo previsto en el Código de Ética de los Servidores Públicos del Poder Ejecutivo del Estado de Veracruz. Dichas reglas tienen por objeto regir la conducta de quienes se desempeñan al servicio de la Administración Pública Estatal.
+LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA, que constituyen guías para identificar acciones que vulneren lo previsto en el Código de Ética de los Servidores Públicos del Poder Ejecutivo del Estado de Veracruz. Dichas reglas tienen por objeto regir la conducta de quienes se desempeñan al servicio de la Administración Pública Estatal.
 
 Dichas REGLAS se emiten de manera enunciativa, más no limitativa, toda persona servidora pública debe moderar su conducta en aspectos que deriven de:
 
@@ -164,7 +198,7 @@ Dichas REGLAS se emiten de manera enunciativa, más no limitativa, toda persona 
 
 6. Recursos Humanos.
 
-7. Administración de Bienes Muebles e Inmuebles.
+7. Administración de bienes Muebles e Inmuebles.
 
 8. Procesos de Evaluación.
 
@@ -172,209 +206,217 @@ Dichas REGLAS se emiten de manera enunciativa, más no limitativa, toda persona 
 
 10. Procedimientos Administrativos.
 
-11. Desempeño Permanente con Integridad
+11. Desempeño Permanente con Integridad.
 
 12. Cooperación con la Integridad Pública.
 
 13. Comportamiento digno.
 
-Nota: Las conductas que vulneran las Reglas de Integridad de los 13 temas enunciados se encuentran descritas en el Acuerdo por el que se Establece el Código de Ética de los Servidores Públicos y las Reglas de Integridad para el Ejercicio de la Función Pública del Poder Ejecutivo del Estado de Veracruz., Publicados en la Gaceta Oficial del 17 de enero de 2019, Núm. Ext. 026.
+Nota: Las conductas que vulneran las Reglas de Integridad de los 13 temas enunciados se encuentran descritas en el Acuerdo por el que se Establece el Código de Ética de los Servidores Públicos y las Reglas de Integridad para el Ejercicio de la Función Pública del Poder Ejecutivo del Estado de Veracruz, publicados en la Gaceta Oficial del 17 de enero de 2019, Núm. Ext. 026.
 
-IV. MECANISMOS DE IMPLEMENTACIÓN DEL CÓDIGO DE CONDUCTA.
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2019)</small>
 
-- El Personal de la Coordinación General de Comunicación Social debe realizar sus funciones conforme a las leyes aplicables, con integridad y con el compromiso de actuar con ética pública, tal y como lo demanda la sociedad, por ello debe tomar como referencia el presente Código de Conducta.
+V. MECANISMOS DE IMPLEMENTACIÓN DEL CÓDIGO DE CONDUCTA
 
-- Para el cumplimiento de los principios, valores y reglas de integridad, así como los mecanismos que se establezcan en el presente Código de Conducta, se requiere del compromiso de las y los servidores públicos que integra esta dependencia.
+A. El Personal de la Coordinación General de Comunicación Social debe realizar sus funciones conforme a las leyes aplicables, con integridad y con el compromiso de actuar con ética pública, tal y como lo demanda la sociedad, por ello debe tomar como referencia el presente Código de Conducta.
 
-- Todo el personal debe conocer el contenido del presente Código de Conducta, aquel que infrinja las disposiciones aquí establecidas será acreedor a una sanción de acuerdo a la normatividad aplicable.
+B. Para el cumplimiento de los principios, valores y reglas de integridad, así como los mecanismos que se establezcan en el presente Código de Conducta, se requiere del compromiso de las y los servidores públicos que integran esta dependencia.
+
+C. Todo el personal debe conocer el contenido del presente Código de Conducta, aquel que infrinja las disposiciones aquí establecidas será acreedor a una sanción de acuerdo a la normatividad aplicable.
 
 Para llevar a cabo lo anterior, se establecen las Políticas de Cumplimiento, el procedimiento para la aplicación del Código de Conducta, las responsabilidades que en ese sentido asume el personal administrativo, las políticas de no aplicar represalias; así como, el procedimiento para formular preguntas, presentar inquietudes y recibir orientación.
 
 A) POLÍTICAS DE CUMPLIMIENTO
 
-- Para dar cumplimiento a lo establecido en este Código de Conducta se requiere que las y los servidores públicos acaten puntualmente las leyes aplicables a los servidores públicos.
+1. Para dar cumplimiento a lo establecido en este Código de Conducta se requiere que las y los servidores públicos acaten puntualmente las leyes aplicables a ellos.
 
-- Actuar con Ética en el ejercicio de sus funciones, evitando cualquier conducta que represente una infracción al presente código y a las demás leyes aplicables a los servidores públicos.
+2. Actuar con Ética en el ejercicio de sus funciones, evitando cualquier conducta que represente una infracción al presente código y a las demás leyes aplicables a los servidores públicos.
 
-- Además de conocer este Código de Conducta, es su responsabilidad conocer las leyes, reglamentos, normas, programas, manuales administrativos, prácticas y demás pautas que son inherentes al desarrollo de las actividades de su empleo cargo o comisión.
+3. Además de conocer este Código de Conducta, es su responsabilidad conocer las leyes, reglamentos, normas, programas, manuales administrativos, prácticas y demás pautas que son inherentes al desarrollo de las actividades de su empleo cargo o comisión de la Coordinación General de Comunicación Social.
 
 B) PROCEDIMIENTO PARA LA APLICACIÓN DEL CÓDIGO DE CONDUCTA
 
-- El presente Código es complementario y consistente con todas las Leyes aplicables y obligaciones legales de la Coordinación General de Comunicación Social del Gobierno del Estado de Veracruz de Ignacio de la Llave, si hubiera alguna inconsistencia entre el Código de Conducta y cualquier Ley vigente, toda persona servidora pública deberá inclinarse por el cumplimiento de la Ley.
+1. El presente Código es complementario y consistente con todas las Leyes aplicables y obligaciones legales de la Coordinación General de Comunicación Social del Gobierno del Estado de Veracruz de Ignacio de la Llave, si hubiera alguna inconsistencia entre el Código de Conducta y cualquier Ley vigente, toda persona servidora pública deberá inclinarse por el cumplimiento de la Ley.
 
-C) RESPONSABILIDAD DE LAS Y LOS SERVIDORES PÚBLICOS
+C) RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS Y TITULARES
 
-- Es responsabilidad de los titulares de las diferentes áreas que integran la Coordinación General de Comunicación Social proporcionar las herramientas necesarias que promuevan la comprensión y cumplimiento de este Código a las y los servidores públicos a través de la capacitación.
+1. Es responsabilidad de los titulares de las diferentes áreas que integran la Coordinación General de Comunicación Social proporcionar las herramientas necesarias que promuevan la comprensión y cumplimiento de este Código a las y los servidores públicos a través de la capacitación.
 
-- Fomentar una cultura de ética y de respeto a la legalidad que aliente a las y los servidores públicos a manifestar sus preguntas e inquietudes y prohíba represalias o censuras.
+2. Fomentar una cultura de ética y de respeto a la legalidad que aliente a las y los servidores públicos a manifestar sus preguntas e inquietudes y prohíba represalias o censuras.
 
-- Reconocer a las y los servidores públicos que cumplan y promuevan la cultura de la legalidad y el comportamiento ético en su diario actuar.
+3. Reconocer a las y los servidores públicos que cumplan y promuevan la cultura de la legalidad y el comportamiento ético en su diario actuar.
 
-- Proteger a las y los servidores públicos que denuncien faltas administrativas o actos de corrupción dentro de la institución.
+4. Proteger a las y los servidores públicos que denuncien faltas administrativas o actos de corrupción dentro de la institución.
 
-- Difundir los logros y prácticas de éxito de cualquier persona servidora pública de la Coordinación General de Comunicación Social.
+5. Difundir los logros y prácticas de éxito de cualquier persona servidora pública de la Coordinación General de Comunicación Social.
 
-- Solicitar apoyo o asesoría al área Jurídica, al Departamento de Recursos Humanos o al Comité de Ética cuando tengan preguntas al respecto a la aplicación de las Políticas de cumplimiento de este Código de Conducta y Ética.
+6. Solicitar apoyo o asesoría al área Jurídica, al Departamento de Recursos Humanos o al Comité de Ética cuando tengan preguntas al respecto a la aplicación de las Políticas de cumplimiento de este Código de Conducta y Ética.
 
 D) POLITÍCAS DE NO APLICAR REPRESALIAS
 
-- No habrá represalias, castigos u hostigamientos en contra de las y los servidores público (sic) que, de buena fe, realice preguntas o presente inquietudes respecto al comportamiento ético o al cumplimiento de las responsabilidades.
+1. No habrá represalias, castigos u hostigamientos en contra de las y los servidores público (sic) que, de buena fe, realice preguntas o presente inquietudes respecto al comportamiento ético o al cumplimiento de las responsabilidades.
 
-E) PROCEDIMIENTO PARA FORMULAR PREGUNTAS, PRESENTAR INQUIETUDES Y RECIBIR ORIENTACIÓN
+E) PROCEDIMIENTO PARA PRESENTAR UNA PREGUNTA, INQUIETUD O SOLICITUD DE ORIENTACIÓN
 
-- Las y los servidores públicos de la Coordinación General de Comunicación Social, podrán acercarse directamente al Comité de Ética para recibir orientación o formular preguntas e inquietudes sobre la aplicación del presente Código.
+1. Las y los servidores públicos de la Coordinación General de Comunicación Social, podrán acercarse directamente al Comité de Ética para recibir orientación o formular preguntas e inquietudes sobre la aplicación del presente Código.
 
-- El Comité de Ética pone a disposición del Funcionariado el correo electrónico codigoconductacgcs@ver.gob.mx; instrumento de contacto que estará en operación los 365 días del año en horas hábiles.
+2. El Comité de Ética pone a disposición de los Servidores Públicos el correo electrónico codigoconductacgcs@ver.gob.mx, así como el número telefónico 228 2 03 94 00 ext. 2004 instrumento de contacto que estará en operación los 365 días del año en horas hábiles.
 
-- Las preguntas, inquietudes y orientación requerida por las y los servidores públicos, cuando así lo prefieran, podrán realizarse en forma anónima.
+3. Las preguntas, inquietudes y orientación requerida por las y los servidores públicos, cuando así lo prefieran, podrán realizarse en forma anónima.
 
-- El Presidente del Comité de Ética y Titular de la Unidad Administrativa, o el suplente del Presidente del Comité y Director Jurídico, darán respuesta puntual a las inquietudes que le sean manifestadas por parte de los servidores públicos en un plazo no mayor a cinco días hábiles una vez recibida la solicitud del interesado.
+4. El Presidente del Comité de Ética y Titular de la Unidad Administrativa, o el suplente del Presidente del Comité y Director Jurídico, darán respuesta puntual a las inquietudes que le sean manifestadas por parte de los servidores públicos en un plazo no mayor a cinco días hábiles una vez recibida la solicitud del interesado.
 
-V. DESCRIPCIÓN DE CONDUCTAS ÉTICAS
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2019)</small>
+
+VI. DESCRIPCIÓN DE CONDUCTAS ÉTICAS
+
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2019)</small>
 
 A) INTEGRIDAD PÚBLICA
 
-- Conocer y actuar conforme a los principios y reglas establecidos en el Código de Conducta de la Coordinación General de Comunicación Social del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+1. Conocer y actuar conforme a los principios y reglas establecidos en el Código de Conducta de la Coordinación General de Comunicación Social del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
-- Denunciar cualquier abuso y proteger a toda persona que denuncie un acto ilegal al interior de la dependencia en lo señalado en el artículo 19 de este Código.
+2. Denunciar cualquier abuso y proteger a toda persona que denuncie un acto ilegal al interior de la dependencia.
 
-B) DESEMPEÑO PÚBLICO
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2019)</small>
 
-- El funcionariado debe organizar su tiempo de forma que pueda cumplir las obligaciones que le hayan sido encomendadas.
+B) CUMPLIMIENTO AL MARCO NORMATIVO
 
-- Observar y dar cumplimiento a lo establecido en los Manuales Administrativos de la Coordinación General de Comunicación Social del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+1. Conocer y cumplir la normatividad vigente que rige el actuar del personal de la Coordinación General de Comunicación Social del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
-- Portar el gafete de identificación que nos acredita como Servidores Públicos en un lugar visible en horario de trabajo.
+2. Conocer y aplicar los Manuales Administrativos de la Dependencia, a fin de favorecer una mayor productividad.
 
-C) USO Y ASIGNACIÓN DE RECURSOS PÚBLICOS
+3. Conocer el Programa Sectorial que rige el actuar de los Servidores Públicos de la Coordinación General de Comunicación Social.
 
-- Disponer dentro de la legalidad y de manera eficiente los recursos humanos, materiales y financieros para cumplir con las obligaciones y objetivos establecidos.
+4. Contribuir con la Misión y la Visión de la Coordinación General de Comunicación Social para alcanzar los resultados deseados.
 
-- Emplear de manera institucional, adecuada y racional el internet, generando consultas, envíos y recepción de información que permita desarrollar las actividades laborales de la mejor manera, apegándose en todo momento a la Ley de Austeridad y Políticas que emita el Departamento de Informática.
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2019)</small>
 
-- Utilizar con moderación los servicios de teléfono, correo electrónico, impresión, escáner y fotocopiado apegados a la Ley de Austeridad.
+C) DESEMPEÑO PÚBLICO
 
-- Utilizar racionalmente la energía eléctrica de las oficinas, apagando la luz, las computadoras y demás aparatos electrónicos cuando no se utilicen apegados a la Ley de Austeridad.
+1. Organizar todos los servidores y servidoras públicas su tiempo de forma que pueda cumplir las obligaciones que le hayan sido encomendadas.
 
-D) ACCESO A LA INFORMACIÓN
+2. Observar y dar cumplimiento a lo establecido en los Manuales Administrativos de la Coordinación General de Comunicación Social del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
-- Cuidar la información evitando la sustracción, destrucción, ocultamiento o utilización indebida de la misma.
+3. Portar el gafete de identificación que nos acredita como Servidores Públicos en un lugar visible en horario de trabajo.
 
-- Difundir mediante conductos adecuados, la información que necesite conocer el personal, para el cumplimiento de objetivos.
+4. Desempeñar todos los servidores públicos sus funciones con integridad, compromiso y diligencia.
 
-E) RELACIONES INTERPERSONALES
+5. Proporcionar a los servidores y servidoras públicas planes de trabajo, que permitan el cumplimiento del horario laboral, a fin de conciliar la vida familiar y el trabajo.
 
-- Los principios de respeto, igualdad de género y no discriminación serán la base fundamental de las relaciones entre el funcionariado de la Coordinación General de Comunicación Social.
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2019)</small>
 
-- Evitar aquellos actos que distraiga, moleste o perturbe las actividades del personal de la Coordinación General de Comunicación Social.
+D) USO Y ASIGNACIÓN DE RECURSOS PÚBLICOS
 
-- Abstenerse de propagar rumores, comentarios o lenguaje vulgar que lesionen la reputación de los compañeros y compañeras de trabajo.
+1. Disponer dentro de la legalidad y de manera eficiente los recursos humanos, materiales y financieros para cumplir con las obligaciones y objetivos establecidos.
 
-- Mantener una colaboración en asuntos de interés común.
+2. Emplear de manera institucional, adecuada y racional el internet, generando consultas, envíos y recepción de información que permita desarrollar las actividades laborales de la mejor manera, apegándose en todo momento a la Ley de Austeridad y Políticas que emita el Departamento de Informática.
 
-- Generar igualdad de oportunidades en el crecimiento profesional asistiendo a cursos de capacitación.
+3. Utilizar con moderación los servicios de teléfono, correo electrónico, impresión, escáner y fotocopiado apegados a la ley de austeridad.
 
-- Todos los servidores y servidoras públicas desempeñarán sus funciones con integridad, compromiso y diligencia.
+4. Utilizar racionalmente la energía eléctrica de las oficinas, apagando la luz, las computadoras y demás aparatos electrónicos cuando no se utilicen apegados a la Ley de Austeridad.
 
-F) RESPETO A LOS DEMÁS
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2019)</small>
 
-- Los servidores y servidoras públicas se abstendrán de cometer cualquier práctica de injusticia o discriminación.
+E) ACCESO A LA INFORMACIÓN
 
-- El funcionariado, será solidario con aquellos compañeros y compañeras que sean víctimas de faltas al respeto, acoso en cualquiera de sus modalidades o discriminación.
+1. Cuidar la información evitando la sustracción, destrucción, ocultamiento o utilización indebida de la misma.
 
-- La Dependencia proporcionará planes de trabajo, que permitan el cumplimiento del horario laboral, a fin de conciliar la vida familiar y el trabajo.
+2. Difundir mediante conductos adecuados, la información que necesite conocer el personal, para el cumplimiento de objetivos.
 
-G) DESARROLLO INTEGRAL
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2019)</small>
 
-- Los servidores y servidoras públicas de la Coordinación General de Comunicación Social buscarán su capacitación y actualización en el desarrollo de las actividades que realicen dentro de esta Unidad Administrativa Centralizada, procurando la eficacia, legalidad, responsabilidad y honestidad de su actuar.
+F) RELACIONES INTERPERSONALES
 
-- Trabajar en equipo para la implementación de medidas de mejora continua e impulsar el reconocimiento a la dedicación de compañeros y compañeras en la mejora del ambiente laboral y cumplimiento de metas establecidas en los Programas de Comunicación Social del Gobierno del Estado de Veracruz.
+1. Manejar los principios de respeto, igualdad de género y no discriminación como base fundamental de las relaciones entre el funcionariado de la Coordinación General de Comunicación Social.
 
-H) RELACIÓN CON LA CIUDADANÍA
+2. Evitar aquellos actos que distraiga, moleste o perturbe (sic) las actividades del personal de la Coordinación General de Comunicación Social.
 
-- Atender con igualdad e imparcialidad a la ciudadanía sin distinción ni preferencias.
+3. Evitar la propagación de rumores, contarios o lenguaje vulgar que lesionen la reputación de las compañeras y compañeros de trabajo.
 
-- Atender con diligencia, los requerimientos que formulen los ciudadanos, con motivo de quejas y denuncias presentadas, canalizándolas adecuadamente a las Áreas correspondientes para su debida atención.
+4. Mantener una colaboración en asuntos de interés común.
 
-- Atender y entregar la información que sea requerida a petición de la Unidad de Acceso a la Información Pública de la Coordinación General de Comunicación Social y derivadas de Solicitudes de Información realizadas por la ciudadanía, de acuerdo al marco normativo vigente.
+5. Generar igualdad de oportunidades en el crecimiento profesional asistiendo a cursos de capacitación.
 
-I) CUMPLIMIENTO AL MARCO NORMATIVO
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2019)</small>
 
-Para la elaboración del presente Código de Conducta se atendió la normativa siguiente:
+G) RESPETO A LOS DEMÁS
 
-Ámbito Internacional
+1. Evitar que los servidores y servidoras públicas cometan cualquier práctica de injusticia o discriminación.
 
-- Convención Interamericana Contra la Corrupción. Artículos II y III.
+2. Actuar de manera solidaria con los compañeros que sean víctimas de faltas de respeto y acoso en cualquiera de sus modalidades.
 
-- Convención de las Naciones Unidas Contra la Corrupción. Artículos 5 y 8.
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2019)</small>
 
-Ámbito Nacional
+H) DESARROLLO INTEGRAL
 
-- Constitución Política de los Estados Unidos Mexicanos. Artículo 109, fracción III.
+1. Buscar a los servidores y servidoras públicas de la Coordinación General de Comunicación Social capacitación y actualización en el desarrollo de las actividades que realicen dentro de esta Unidad Administrativa Centralizada, procurando la eficacia, legalidad, responsabilidad y honestidad de su actuar.
 
-- Ley del Sistema Nacional Anticorrupción, Artículo 5.
+2. Trabajar en equipo para la implementación de medidas de mejora continua e impulsar el reconocimiento a la dedicación de compañeros y compañeras en la mejora del ambiente laboral y cumplimiento de metas establecidas en los Programas de Comunicación Social del Gobierno del Estado de Veracruz.
 
-- Ley General de Responsabilidades Administrativas. Artículo 6 y 7.
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2019)</small>
 
-- Acuerdo por el que se dan a conocer los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas.
+I) RELACIÓN CON LA CIUDADANÍA
 
-Ámbito Estatal
+1. Atender con igualdad e imparcialidad a la ciudadanía sin distinción ni preferencias.
 
-- Constitución Política de los Estados Unidos Mexicanos. Artículo 79.
+2. Atender con diligencia, los requerimientos que formulen los ciudadanos, con motivo de quejas y denuncias presentadas, canalizándolas adecuadamente a las Áreas correspondientes para su debida atención.
 
-- Ley del Sistema Estatal Anticorrupción de Veracruz de Ignacio de la Llave. Artículo 5
+3. Atender y entregar la información que sea requerida a petición de la Unidad de Acceso a la Información Pública de la Coordinación General de Comunicación Social y derivadas de Solicitudes de Información realizadas por la ciudadanía, de acuerdo al marco normativo vigente.
 
-- Ley de Responsabilidades Administrativas de Veracruz de Ignacio de la Llave, Artículo 5.
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2019)</small>
 
-- Plan Veracruzano de Desarrollo 2016-2018.
+VII. TRANSITORIOS
 
-- Reglamento Interior de la Contraloría General, Artículos 23, fracciones XLVI, XLVII.
+Primero. El presente Código de Conducta es la actualización al publicado en la Gaceta Oficial del Estado de Veracruz de fecha 29 de mayo 2019 Núm. Ext. 214 de las y los servidores públicos de la Coordinación General de Comunicación Social del Gobierno del Estado de Veracruz de Ignacio de la Llave y fue creado y validado por la Subdirección de Ética Pública y Normatividad de la Contraloría General del Estado.
 
-- Decreto por el que se establece el Código de Ética de los Servidores Públicos y las Reglas de Integridad para el Ejercicio de la Función Pública del Poder Ejecutivo del Estado de Veracruz.
+Segundo. Con base en la actualización señalada en el transitorio anterior, se derogan las disposiciones normativas que se opongan al presente Código de Conducta de las y los servidores públicos de la Coordinación General de Comunicación Social del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
-J) TRANSITORIOS
+Tercero. El presente Código de Conducta de las y los servidores públicos de la Coordinación General de Comunicación Social del Gobierno del Estado de Veracruz de Ignacio de la Llave entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz.
 
-Primero. El presente Código de Conducta de las y los Servidores Públicos de la Coordinación General de Comunicación Social del Gobierno del Estado de Veracruz de Ignacio de la Llave fue creado de conformidad con el Reglamento Interior de la dependencia y disposiciones administrativas de observancia general.
+> <small>(REFORMADO, G.O. 30 DE JULIO DE 2019)</small>
 
-Segundo. Se derogan las disposiciones normativas que se opongan al presente Código de Conducta de las y los Servidores Públicos de la Coordinación General de Comunicación Social del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+VIII. FIRMAS DE ADHESIÓN
 
-Tercero. Este Código de Conducta de las y los servidores públicos de la Coordinación General de Comunicación Social del Gobierno del Estado de Veracruz de Ignacio de la Llave, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz.
+Es así que como muestra del compromiso asumido por las y los servidores públicos de la Coordinación General de Comunicación Social del Gobierno del Estado de Veracruz de Ignacio de la Llave firman el presente Código de Conducta.
 
-VI. FIRMAS DE ADHESIÓN
+LIC. IVÁN JOSEPH LUNA LANDA
 
-Es así que como muestra del compromiso asumido por las y los Servidores Públicos de la Coordinación General de Comunicación Social del Gobierno del Estado de Veracruz de Ignacio de la Llave, firman el presente Código de Conducta.
-
-Lic. Iván Joseph Luna Landa
-
-Coordinador General
+Coordinador General de la Coordinación General de Comunicación Social
 
 Rúbrica.
 
-C.P.A. Alfonso Galicia
+C.P.A. ALFONSO GALICIA
 
 Jefe de la Unidad Administrativa
 
 Rúbrica.
 
-Ing. Luis Alberto López Casas
+ING. LUIS ALBERTO LÓPEZ CASAS
 
 Director General de Información Institucional
 
 Rúbrica.
 
-Lic. Lázaro Espinosa Carrillo
+LIC. LÁZARO ESPINOSA CARRILLO
 
 Director General de Comunicación Directa
 
 Rúbrica.
 
-Lic. Estefanía Yépez Luna
+LIC. ESTEFANÍA YÉPEZ LUNA
 
 Directora General de Monitoreo
 
 Rúbrica.
 
-Lic. María Antonieta Vera Hernández
+LIC. ANDREA KARINA ARIAS ZAPATA
+
+Jefa de la Unidad de Género
+
+Rúbrica.
+
+LIC. MARÍA ANTONIETA VERA HERNÁNDEZ
 
 Directora Jurídica y Encargada de la Unidad de Transparencia
 
