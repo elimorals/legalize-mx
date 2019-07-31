@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-desarrollos-inmobiliarios-del-estado-de-yucatan-77611"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-07"
-last_updated: "2018-07-25"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE DESARROLLOS INMOBILIARIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 7 de diciembre de 2010.
 
@@ -83,7 +83,9 @@ XIII. Municipalización del Desarrollo Inmobiliario de tipo Fraccionamiento: el 
 
 XIV. Persona con discapacidad: toda persona que presenta una deficiencia física, mental, intelectual o sensorial, de naturaleza permanente o de largo plazo, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico y social;
 
-XV. Secretaría: la Secretaría de Desarrollo Urbano y Medio Ambiente;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+XV. Secretaría: la Secretaría de Desarrollo Sustentable;
 
 XVI. Servicios Públicos Urbanos: las actividades operativas públicas prestadas directamente por las autoridades competentes o concesionados para satisfacer necesidades colectivas en los centros de población;
 
@@ -113,21 +115,25 @@ III. El mantenimiento, preservación y cuidado bajo criterios de un Desarrollo s
 
 La aplicación de esta Ley corresponde, en el ámbito de sus respectivas competencias, al Poder Ejecutivo del Estado y los ayuntamientos, de conformidad con lo siguiente:
 
-l. Al Poder Ejecutivo:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 31 DE JULIO DE 2019)</small>
 
-a) Incentivar la participación de los desarrolladores inmobiliarios en el Estado, mediante esquemas financieros;
+I. Al Poder Ejecutivo:
 
-b) Proponer al Instituto de Vivienda la construcción de desarrollos inmobiliarios para la gente de escasos recursos;
+a) Por conducto del Instituto de Movilidad y Desarrollo Urbano Territorial:
 
-c) Instrumentar mecanismos que permitan el cumplimiento de las disposiciones en materia de desarrollo urbano y de medio ambiente, en lo referente a los desarrollos inmobiliarios;
+1. Incentivar la participación de los desarrolladores inmobiliarios en el Estado, mediante esquemas financieros;
 
-d) Emitir la factibilidad urbana-ambiental para determinar que una obra o actividad es compatible con el uso del suelo donde se pretende realizar;
+2. Proponer al Instituto de Vivienda del Estado de Yucatán la construcción de desarrollos inmobiliarios para la gente de escasos recursos;
 
-e) Supervisar que los desarrolladores inmobiliarios cumplan con las disposiciones en materia de medio ambiente;
+3. Instrumentar, en coordinación con la Secretaría, mecanismos que permitan el cumplimiento de las disposiciones en materia de desarrollo urbano y de medio ambiente, en lo referente a los desarrollos inmobiliarios;
 
-f) Emitir las normas reglamentarias de su competencia, y
+4. Apoyar a la Secretaría, dentro del ámbito de su competencia, en la definición de la factibilidad urbana-ambiental para determinar que una obra o actividad es compatible con el uso del suelo donde se pretende realizar;
 
-g) Las demás que señalen otras disposiciones legales aplicables.
+5. Emitir las normas reglamentarias de su competencia, y
+
+6. Las demás que señalen otras disposiciones legales aplicables.
+
+b) La Secretaría supervisará que los desarrolladores inmobiliarios cumplan con las disposiciones en materia de medio ambiente y emitirá las normas reglamentarias de su competencia.
 
 II. A los ayuntamientos:
 
@@ -407,7 +413,9 @@ Se considerará infractor habitual al Desarrollador Inmobiliario que en un perí
 
 En este caso el Desarrollador Inmobiliario será sancionado con la negación de permisos, licencias, concesiones o autorizaciones hasta por un período de seis años.
 
-El Ayuntamiento deberá notificar a la Secretaría la existencia de esta circunstancia para los efectos legales que procedan.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+El Ayuntamiento deberá notificar a la Secretaría o, en su caso, al Instituto de Movilidad y Desarrollo Urbano Territorial, la existencia de esta circunstancia, para los efectos legales que procedan.
 
 ###### Artículo 33.
 
@@ -526,3 +534,19 @@ La Secretaría de Seguridad Pública deberá emitir los lineamientos en los cual
 Quinto. Aplicación de norma técnica
 
 En tanto se emiten los lineamientos previstos en el artículo transitorio anterior de este decreto, la Secretaría de Seguridad Pública aplicará, en lo conducente, la Norma Técnica para Estandarizar las Características Técnicas y de Interoperabilidad de los Sistemas de Video-vigilancia para la Seguridad Pública.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
