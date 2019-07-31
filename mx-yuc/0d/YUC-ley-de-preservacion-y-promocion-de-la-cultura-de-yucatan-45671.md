@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-preservacion-y-promocion-de-la-cultura-de-yucatan-45671"
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-08"
-last_updated: "2005-08-08"
+last_updated: "2019-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE PRESERVACION Y PROMOCION DE LA CULTURA DE YUCATAN
 
-LEY DE PRESERVACION Y PROMOCION DE LA CULTURA DE YUCATAN
+LEY DE PRESERVACIÓN Y PROMOCIÓN DE LA CULTURA DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 8 de agosto de 2005.
 
@@ -109,11 +109,11 @@ XI. ARCHIVO: Archivo General del Estado; o el que haga sus veces;
 
 XII. AYUNTAMIENTO: Las autoridades electas en Ayuntamientos de los Municipios del Estado, y
 
-XIII. SECRETARÍA: Secretaría de Desarrollo Urbano, Obras Públicas y Vivienda.
+XIII. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
 Las obligaciones que impone la presente ley a los sujetos antes citados, le serán conferidas a quienes los sustituyan en sus funciones y atribuciones.
 
-###### ARTICULO 4.
+###### ARTÍCULO 4.
 
 Se entiende por cultura el conjunto de valores, abstracciones, rasgos, creencias, tradiciones y costumbres que distinguen e identifican a la población del estado; las expresiones de su arquitectura tradicional y urbana, y la creación artística; así como las diversas manifestaciones cotidianas, mediante la aplicación de los conocimientos ancestrales, su difusión y la promoción de los procesos de enseñanza aprendizaje.
 
@@ -305,7 +305,9 @@ b) El Instituto de Cultura de Yucatán;
 
 c) La Secretaría de Educación Pública del Estado;
 
-d) La Secretaría de Desarrollo Urbano, Obras Públicas y Vivienda.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+d) El Instituto de Movilidad y Desarrollo Urbano Territorial;
 
 e) El Archivo General del Estado, y
 
@@ -331,7 +333,9 @@ VI (SIC). Procurar la coordinación entre las distintas dependencias y entidades
 
 VII. Procurar el intercambio de los bienes culturales tangibles e Intangibles, con las otras entidades o incluso con otros países, a través del Ejecutivo Federal. Y en todos los casos, se tomarán las medidas necesarias para el retorno de los mismos al territorio del estado;
 
-VIII. Preservar los bienes que forman parte del patrimonio cultural del estado, a través de la Secretaría de Desarrollo Urbano, Obras Públicas y Vivienda, del Instituto de Cultura de Yucatán y el Archivo General del Estado;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VIII. Preservar los bienes que forman parte del patrimonio cultural del estado, a través del Instituto de Movilidad y Desarrollo Urbano Territorial, del Instituto y del Archivo General del Estado;
 
 IX. Procurar la aplicación de las disposiciones legales, que protegen los bienes que forman parte del patrimonio cultural del estado, y de los acuerdos de coordinación celebrados con la federación, en esta materia;
 
@@ -393,9 +397,11 @@ III. Fomentar la entrega de reconocimientos y estímulos, en favor de las person
 
 IV. Editar libros, revistas, folletos y cualquier otro documento que promueva y fomente la cultura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 24.
 
-La Secretaría de Desarrollo Urbano, Obras Públicas y Vivienda es competente, para:
+El Instituto de Movilidad y Desarrollo Urbano Territorial es competente para:
 
 I. Formular los lineamientos y políticas en materia de conservación y preservación del patrimonio cultural arquitectónico;
 
@@ -403,7 +409,9 @@ II. Elaborar, ejecutar y evaluar el Programa Estatal de Preservación del Patrim
 
 III. Integrar y regular en coordinación con el Instituto, el Registro del Patrimonio Cultural del Estado;
 
-IV. Realizar investigaciones y proyectos o estudios relacionados con la preservación del patrimonio cultural arquitectónico;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IV. Realizar investigaciones, proyectos o estudios relacionados con la preservación del patrimonio cultural arquitectónico y apoyar las acciones técnicas para su rescate que presenten los particulares, en función de sus posibilidades presupuestales;
 
 V. La administración y supervisión de las obras de construcción, mejora y remodelación, en los bienes catalogados o susceptibles de ser considerados como patrimonio cultural propiedad del Estado, y en coordinación con las autoridades competentes;
 
@@ -419,9 +427,11 @@ X. Concertar con los sectores privado y social, convenios y esquemas financieros
 
 XI. Las demás que le fijen esta ley u otros ordenamientos.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 25.
 
-La Secretaría de Desarrollo Urbano, Obras Públicas y Vivienda, es la autoridad normativa, técnica y ejecutiva competente, en materia de preservación del patrimonio cultural arquitectónico del estado, con el apoyo del Consejo Consultivo y el Instituto.
+El Instituto de Movilidad y Desarrollo Urbano Territorial es la autoridad normativa, técnica y ejecutiva competente en materia de preservación del patrimonio cultural arquitectónico del estado, con el apoyo del Consejo Consultivo y del Instituto.
 
 ###### ARTÍCULO 26.
 
@@ -461,9 +471,11 @@ VII. Coordinarse o asociarse con otros municipios para el establecimiento y cump
 
 VIII. Las demás que le señale esta ley y demás leyes aplicables.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 29.
 
-Los municipios, para los efectos de expedir las licencias que señala la fracción VI del artículo anterior, solicitarán la colaboración de la Secretaría de Desarrollo Urbano, Obra Públicas (sic) y Vivienda, en sus ámbitos de competencia.
+Los municipios, para los efectos de expedir las licencias que señala la fracción VI del artículo anterior, solicitarán la colaboración del Instituto de Movilidad y Desarrollo Urbano Territorial, en sus ámbitos de competencia.
 
 ## TÍTULO TERCERO. DEL PATRIMONIO CULTURAL DEL ESTADO Y LOS MECANISMOS DE
 
@@ -519,9 +531,11 @@ V. Recibir los apoyos y estímulos fiscales, financieros y técnicos, que se est
 
 VI. Permitir condiciones de accesibilidad y disponibilidad en los términos que fijen las autoridades competentes, para los fines de esta ley.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 34.
 
-Para los efectos del artículo anterior, los propietarios o posesionarios deberán suscribir un convenio de colaboración con el Ejecutivo del Estado, por conducto del Instituto y la Secretaría de Desarrollo Urbano, Obras Públicas y Vivienda, en su caso.
+Para los efectos del artículo anterior, quien tenga la propiedad o posesión deberá suscribir un convenio de colaboración con el Ejecutivo del Estado, por conducto del Instituto y del Instituto de Movilidad y Desarrollo Urbano Territorial, en su caso.
 
 ###### ARTÍCULO 35.
 
@@ -537,25 +551,33 @@ Las personas que observen o tengan conocimiento de peligro de destrucción, pér
 
 Para el control estadístico y administrativo por parte del Instituto, de los elementos considerados Patrimonio Cultural Mueble del Estado, se deberá solicitar la colaboración de las instancias normativas competentes; particularmente de aquellos bienes, que carecen de un registro actualizado.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 38.
 
-Las instituciones competentes integrarán el Registro Cultural del Estado y estará a cargo del Instituto y la Secretaría, cuando se trate de muebles e inmuebles, respectivamente, que lo mantendrá permanentemente actualizado. Ese registro podrá incrementarse mediante la aportación de datos que realicen los particulares, las Universidades o los organismos no gubernamentales vinculados a la cultura o las artes, previo análisis del valor artístico, histórico, que se determine conforme a lo que establezca esta Ley.
+Las instituciones competentes integrarán el Registro Cultural del Estado, el cual estará a cargo del Instituto y del Instituto de Movilidad y Desarrollo Urbano Territorial, cuando se trate de muebles e inmuebles, respectivamente, quienes lo mantendrán permanentemente actualizado. Este registro podrá incrementarse mediante la aportación de datos que realicen los particulares, las universidades o los organismos no gubernamentales vinculados con la cultura o las artes, previo análisis del valor artístico, histórico, que se determine conforme a lo que establezca esta Ley.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 39.
 
-Con objeto de contar con un control de los bienes culturales existentes y contribuir a su preservación, el Ejecutivo del Estado, por conducto del Instituto y la Secretaría, conformará un Registro del Patrimonio Cultural del Estado, que contendrá la relación ordenada y clasificada de dichos bienes, tanto públicos como privados, muebles e inmuebles.
+Con objeto de contar con un control de los bienes culturales existentes y contribuir a su preservación, el Ejecutivo del Estado, por conducto del Instituto y del Instituto de Movilidad y Desarrollo Urbano Territorial, conformará un Registro del Patrimonio Cultural del Estado, que contendrá la relación ordenada y clasificada de dichos bienes, tanto públicos como privados, muebles e inmuebles.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 40.
 
-Para cumplir con lo señalado en este Capítulo, el Instituto y la Secretaría deberá convenir con las autoridades competentes, sobre todo lo relativo para integrar dicho registro, con la finalidad de fortalecer la preservación de esos bienes.
+Para cumplir con lo señalado en este Capítulo, el Instituto y el Instituto de Movilidad y Desarrollo Urbano Territorial deberán convenir con las autoridades competentes sobre todo lo relativo para integrar dicho registro, con la finalidad de fortalecer la preservación de los bienes culturales del estado.
 
 ### CAPÍTULO III. DE LA DECLARATORIA DE PATRIMONIO CULTURAL Y FECHAS
 
 CONMEMORATIVAS DEL ESTADO
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 41.
 
-El Ejecutivo del Estado formulará mediante Decreto, la Declaratoria para determinar como Patrimonio Cultural del Estado, a las propuestas que se le presenten, con la opinión favorable del Instituto, la Secretaría, el Consejo Consultivo y la Secretaría de Desarrollo Urbano, Obras Públicas y Vivienda, así como la de la Secretaría de Educación, en su caso; conforme a los términos que para el efecto se establezcan.
+El Ejecutivo del Estado formulará, mediante Decreto, la Declaratoria para determinar como Patrimonio Cultural del Estado las propuestas que se le presenten, con la opinión favorable del Instituto, el Instituto de Movilidad y Desarrollo Urbano Territorial, el Consejo Consultivo, así como de la Secretaría de Educación, en su caso, conforme a los términos que para el efecto se establezcan.
 
 ###### ARTÍCULO 42.
 
@@ -595,9 +617,11 @@ La resolución que recaiga en este procedimiento administrativo, podrá ser recu
 
 PATRIMONIO CULTURAL
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 45.
 
-Quien traslade el domino de algún bien inmueble, declarado como Patrimonio Cultural del Estado, deberá así manifestarlo ante el Fedatario Público autorizante, con el fin de que dé aviso al Registro Público de la Propiedad del Estado y a la Secretaría de Desarrollo Urbano, Obras Públicas y Vivienda.
+Quien traslade el dominio de algún bien inmueble declarado como Patrimonio Cultural del Estado, deberá así manifestarlo ante el Fedatario Público autorizante, con el fin de que este dé aviso al Registro Público de la Propiedad del Estado y al Instituto de Movilidad y Desarrollo Urbano Territorial.
 
 ###### ARTÍCULO 46.
 
@@ -611,9 +635,11 @@ Los bienes declarados Patrimonio Cultural del Estado, solamente podrán salir de
 
 Los bienes muebles declarados Patrimonio Cultural, podrán ser enajenados previa comunicación al Ejecutivo del Estado. El Gobierno del Estado, tendrá en todo momento el derecho de preferencia sobre dicha enajenación.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 49.
 
-En los casos que por accidente o hechos de carácter fortuito o delictivo, se dañe irremediablemente un bien u objeto declarado patrimonio cultural, obra, su propietario o responsable, deberá informar inmediatamente y mediante escrito al Ejecutivo del Estado, que previa verificación por conducto del Instituto o la Secretaría y el apoyo de las autoridades competentes, levantará la correspondiente acta circunstanciada y el oficio de cancelación respectivo, en el Registro del Patrimonio Cultural, notificando el hecho al Registro Público de la Propiedad en su caso para los efectos correspondientes.
+En los casos que, por accidente o hechos de carácter fortuito o delictivo, se dañe irremediablemente un bien u objeto declarado patrimonio cultural, obra, su propietario o responsable deberá informar inmediatamente y mediante escrito al Ejecutivo del Estado, quien, previa verificación por conducto del Instituto o del Instituto de Movilidad y Desarrollo Urbano Territorial y el apoyo de las autoridades competentes, levantará la correspondiente acta circunstanciada y el oficio de cancelación respectivo en el Registro del Patrimonio Cultural, notificando el hecho al Registro Público de la Propiedad, en su caso, para los efectos correspondientes.
 
 ###### ARTÍCULO 50.
 
@@ -715,9 +741,11 @@ El Ejecutivo del Estado, a través del Instituto y la Secretaría de Educación,
 
 El Ejecutivo del Estado, por conducto del Instituto y de la Secretaría de Educación, promoverá el fortalecimiento de los valores cívicos, principalmente entre la población escolar, mediante la celebración de actos solemnes en homenaje a ilustres y destacados yucatecos, a fin de consolidar la identidad y riqueza cultural propias.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 64.
 
-El Ejecutivo del Estado por conducto de la Secretaría de Desarrollo Industrial y Comercial, diseñará las políticas y lineamientos necesarios para que las empresas que funcionen en el Estado y las que en el futuro se instalen, elaboren sus proyectos productivos o de servicios respetando los valores culturales establecidos en esta Ley.
+El Ejecutivo del Estado, por conducto del Instituto de Movilidad y Desarrollo Urbano Territorial, diseñará, en coordinación con la Secretaría de Fomento Económico y Trabajo, las políticas y lineamientos necesarios para que las empresas que funcionen en el Estado y las que en el futuro se instalen, elaboren sus proyectos productivos o de servicios, respetando los valores culturales establecidos en esta Ley.
 
 ## TÍTULO SEXTO. DEL PROGRAMA ESTATAL DE CULTURA
 
@@ -805,9 +833,11 @@ El Gobierno Estatal, a través de los medios de comunicación visuales, auditivo
 
 El Ejecutivo del Estado creará un Consejo Consultivo de Cultura el cual funcionará con el carácter de órgano colegiado y honorario de colaboración, orientación y consulta, que coadyuvará en la planeación, desarrollo y gestión de la política cultural de la entidad.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 73.
 
-Este Consejo Consultivo coadyuvará con el Instituto y la Secretaría de Desarrollo Urbano y Obras Públicas, en la realización de dictámenes de viabilidad sobre las declaratorias de obras y objetos, y sitios que deban ser considerados patrimonio cultural del estado, así como aportar opiniones, para la elaboración de los programas y proyectos, orientados a la preservación y promoción de la cultura.
+Este Consejo Consultivo coadyuvará con el Instituto y el Instituto de Movilidad y Desarrollo Urbano Territorial en la realización de dictámenes de viabilidad sobre las declaratorias de obras y objetos, y sitios que deban ser considerados patrimonio cultural del estado, así como en la aportación de opiniones para la elaboración de los programas y proyectos orientados a la preservación y promoción de la cultura.
 
 ###### ARTÍCULO 74.
 
@@ -854,3 +884,21 @@ EL SECRETARIO GENERAL DE GOBIERNO
 (RÚBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
