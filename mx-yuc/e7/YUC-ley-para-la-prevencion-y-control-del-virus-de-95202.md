@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-prevencion-y-control-del-virus-de-95202"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-26"
-last_updated: "2013-07-26"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PREVENCIÓN Y CONTROL DEL VIRUS DE INMUNODEFICIENCIA HUMANA, SÍNDROME DE INMUNODEFICIENCIA ADQUIRIDA Y OTRAS INFECCIONES DE TRANSMISIÓN SEXUAL DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 26 de julio de 2013.
 
@@ -71,9 +71,11 @@ V. Secretaría de Salud: la Secretaría de Salud del Estado de Yucatán;
 
 VI. Secretaría de Desarrollo Social: la Secretaría de Desarrollo Social del Estado de Yucatán;
 
-VII. Secretaría de la Juventud: la Secretaría de la Juventud del Estado de Yucatán;
+VII. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
-VIII. Secretaría del Trabajo y Previsión Social: la Secretaría del Trabajo y Previsión Social del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VIII. Secretaría de Fomento Económico y Trabajo: la Secretaría de Fomento Económico y Trabajo del Estado de Yucatán;
 
 IX. SIDA: el Síndrome de Inmunodeficiencia Adquirida, y
 
@@ -153,7 +155,9 @@ II. La Secretaría de Salud;
 
 III. La Secretaría de Educación, y
 
-IV. La Secretaría del Trabajo y Previsión Social.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IV. La Secretaría de Fomento Económico y Trabajo.
 
 Para el cumplimiento de sus atribuciones las autoridades a que se refiere este artículo podrán coordinarse con otras dependencias y entidades de la Administración Pública Estatal y Municipal, así como con los organismos constitucionales autónomos del estado.
 
@@ -229,11 +233,15 @@ IV. Vigilar que en los centros educativos públicos y privados del estado, no ex
 
 V. Las demás que le confiera esta Ley y otras disposiciones legales y normativas aplicables.
 
-Atribuciones de la Secretaría del Trabajo y Previsión Social
+> <small>(REFORMADO SU ACÁPITE, D.O. 31 DE JULIO DE 2019)</small>
+
+Atribuciones de la Secretaría de Fomento Económico y Trabajo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 11.
 
-La Secretaría del Trabajo y previsión Social tendrá, en materia de prevención y control del VIH, SIDA y otras ITS, las atribuciones siguientes:
+La Secretaría de Fomento Económico y Trabajo tendrá, en materia de prevención y control del VIH, SIDA y otras ITS, las atribuciones siguientes:
 
 I. Vigilar que las empresas constituidas en el estado incluyan en sus políticas laborales, la no discriminación hacia las personas con VIH, SIDA y otras ITS;
 
@@ -373,7 +381,7 @@ V. El Secretario de Educación;
 
 VI. El Secretario de Desarrollo Social;
 
-VII. El Secretario de la Juventud;
+VII. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
 VIII. El Director del Sistema para el Desarrollo Integral de la Familia en Yucatán;
 
@@ -522,3 +530,21 @@ DIRECTOR GENERAL DEL INSTITUTO DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTAD
 C. ELIZABETH GAMBOA SOLÍS
 
 DIRECTORA GENERAL DEL INSTITUTO PARA EL DESARROLLO DE LA CULTURA MAYA DEL ESTADO DE YUCATÁN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
