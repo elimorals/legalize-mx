@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-responsabilidades-administrativas-del-estado-de-122695"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2017-11-24"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 18 de julio de 2017.
 
@@ -2737,7 +2737,9 @@ Suspensión de actividades o disolución de personas morales sancionadas
 
 Cuando el particular tenga carácter de persona moral, sin perjuicio de lo establecido en el artículo que antecede, el Tribunal del Estado girará oficio por el que comunicará la sentencia respectiva así como los puntos resolutivos de ésta para su cumplimiento, de conformidad con las siguientes reglas:
 
-I. Cuando se decrete la suspensión de actividades de la sociedad respectiva, se dará vista a la Secretaría de Fomento Económico del Gobierno del Estado de Yucatán, al Servicio de Administración Tributaria y a la Agencia de Administración Fiscal de Yucatán, se inscribirá en el Registro Público de Comercio y se hará publicar un extracto de la sentencia que decrete esta medida en el Diario Oficial del Gobierno del Estado de Yucatán y en uno de los diarios de mayor circulación en la localidad donde tenga su domicilio fiscal el particular, y
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+I. Cuando se decrete la suspensión de actividades de la sociedad respectiva, se dará vista a la Secretaría de Fomento Económico y Trabajo del Gobierno del Estado de Yucatán, al Servicio de Administración Tributaria y a la Agencia de Administración Fiscal de Yucatán, se inscribirá en el Registro Público de la Propiedad y el Comercio y se hará publicar un extracto de la sentencia que decrete esta medida en el Diario Oficial del Gobierno del Estado de Yucatán y en uno de los diarios de mayor circulación en la localidad donde tenga su domicilio fiscal el particular, y
 
 II. Cuando se decrete la disolución de la sociedad respectiva, los responsables procederán de conformidad con la Ley General de Sociedades Mercantiles en materia de disolución y liquidación de las sociedades, o en su caso, conforme al Código Civil del Estado de Yucatán, según corresponda, y las demás disposiciones aplicables.
 
@@ -2830,3 +2832,19 @@ D.O. 24 DE NOVIEMBRE DE 2017.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
