@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-mejora-regulatoria-del-estado-de-yucatan-113950"
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-09"
-last_updated: "2016-04-09"
+last_updated: "2019-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE MEJORA REGULATORIA DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 12 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEJORA REGULATORIA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 9 de abril de 2016.
 
@@ -107,11 +109,13 @@ Lineamientos en materia de mejora regulatoria
 
 La secretaría emitirá los lineamientos que considere necesarios para garantizar la correcta aplicación de esta ley en el ámbito estatal.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 8.
 
 Fomento a la apertura rápida de empresas
 
-El Gobierno del estado, a través de la Secretaría de Fomento Económico, así como los ayuntamientos, implementarán mecanismos para propiciar la apertura rápida de empresas en el estado, para lo cual promoverá el uso adecuado de los instrumentos establecidos en esta ley y la coordinación con las dependencias y entidades federales y municipales relacionadas.
+La persona titular del Poder Ejecutivo del estado, a través de la Secretaría de Fomento Económico y Trabajo, y los ayuntamientos implementarán mecanismos para propiciar la apertura rápida de empresas en el estado, para lo cual promoverán el uso adecuado de los instrumentos establecidos en esta ley y la coordinación con las dependencias y entidades federales, estatales y municipales relacionadas, según corresponda.
 
 ###### Artículo 9.
 
@@ -167,7 +171,9 @@ II. El Secretario de Administración y Finanzas.
 
 III. El Consejero Jurídico.
 
-IV. El Secretario de Fomento Económico.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IV. El Secretario de Fomento Económico y Trabajo.
 
 V. El Secretario de la Contraloría General.
 
@@ -702,3 +708,21 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
