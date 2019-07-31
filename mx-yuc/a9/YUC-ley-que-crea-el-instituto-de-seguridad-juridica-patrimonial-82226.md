@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-instituto-de-seguridad-juridica-patrimonial-822
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-19"
-last_updated: "2018-12-17"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 19 de julio de 2011.
 
@@ -49,7 +49,9 @@ Las disposiciones de esta Ley, son de orden público e interés general y tienen
 
 l. La creación del Instituto de Seguridad Jurídica Patrimonial de Yucatán, así como las bases para su organización y funcionamiento;
 
-II. Las normas y principios básicos de acuerdo con los cuales se llevarán a cabo las funciones del Registro Público, de la Dirección de Catastro y las que realiza la Dirección del Archivo Notarial, todos del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+II. Las normas y principios básicos de acuerdo con los cuales se llevarán a cabo las funciones del Registro Público y de la Dirección de Catastro;
 
 III. Las normas y lineamientos de carácter técnico para la formulación del inventario de los bienes inmuebles ubicados en los Municipios del Estado, tendientes a su identificación, registro y valuación, y
 
@@ -67,13 +69,13 @@ II. A los Ayuntamientos en el ámbito de su competencia funcional y jurisdiccion
 
 Para los efectos de esta Ley, deberá entenderse por:
 
-I. Archivo Notarial: el archivo centralizado donde por disposición legal se depositan los documentos que se generan en las notarías y escribanías públicas del Estado, así como cualquier otro, que por mandato de la Ley, deban permanecer bajo custodia y conservación de la Dirección del Archivo Notarial, para asegurar la factibilidad de su futura reproducción;
+I. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
 II. Catastro: el censo analítico de los bienes inmuebles localizados en el Estado, estructurado por los padrones relativos a su identificación, registro, ubicación y valuación, para fines fiscales, estadísticos, socioeconómicos, jurídicos e históricos y para la formulación e instrumentación de políticas públicas, planes estatales y municipales de desarrollo;
 
 III. Consejería: la Consejería Jurídica del Poder Ejecutivo del Gobierno del Estado de Yucatán;
 
-IV. Dirección del Archivo Notarial: la Dirección del Archivo Notarial del Instituto de Seguridad Jurídica Patrimonial de Yucatán;
+IV. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
 V. Dirección del Catastro: la Dirección del Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán;
 
@@ -95,7 +97,7 @@ XIII. Registro Público: el Registro Público de la Propiedad y del Comercio del
 
 XIV. Reglamento: el Reglamento de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán;
 
-XV. Titular del Archivo Notarial: al Director de la Dirección del Archivo Notarial;
+XV. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
 XVI. Titular del Catastro: al Director de la Dirección del Catastro, y
 
@@ -1121,7 +1123,9 @@ VIII. Establecer las normas técnicas para la formación, mejoramiento y conserv
 
 IX. Recopilar de los catastros municipales toda la información de datos geográficos, alfanuméricos y documentales relacionados entre sí, que contienen los registros relativos a la identificación plena y datos reales de los inmuebles en el Estado, y
 
-X. Recopilar del Registro Público y el Archivo Notarial, toda la información que sea necesaria para los efectos catastrales.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+X. Recopilar, del Registro Público y de la Dirección del Archivo Notarial de la Consejería Jurídica, toda la información que sea necesaria para los efectos catastrales.
 
 ###### Artículo 126.
 
@@ -1135,7 +1139,9 @@ III. Las obligaciones que en materia catastral tienen los propietarios o poseedo
 
 IV. El establecimiento de las normas técnicas que considere necesarias para la formación, mejoramiento y conservación de los registros para el control de las operaciones catastrales de los inmuebles en el Estado, y
 
-V. El establecimiento de las normas técnicas y procedimentales necesarias para el intercambio de información con la Dirección del Registro Público y de la Dirección del Archivo Notarial.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+V. El establecimiento de las normas técnicas y procedimentales necesarias para el intercambio de información con la Dirección del Registro Público.
 
 ###### Artículo 127.
 
@@ -1391,7 +1397,7 @@ El fraccionador dará aviso a las autoridades estatales y municipales, una vez a
 
 Cuando se trate de predios sujetos a régimen de propiedad en Condominio, los propietarios o poseedores del mismo deberán solicitar a la autoridad catastral municipal o estatal según corresponda, la expedición de la constancia de factibilidad, antes de la inscripción del título correspondiente.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO I
 
 ###### Artículo 158.
 
@@ -1507,7 +1513,7 @@ Los distintos levantamientos técnicos catastrales se efectuarán de acuerdo a l
 
 Si las dimensiones manifestadas o las que aparezcan en el documento de propiedad o posesión de un bien inmueble, son diferentes a las dimensiones que resulten de un levantamiento técnico catastral efectuado por métodos topográficos convencionales o aerofotograméticos, se ordenará el deslinde catastral, cuyo costo será cubierto por el propietario o posesionario del bien inmueble de que se trate conforme a la ley aplicable a la materia.
 
-### CAPÍTULO II. Del Registro de Fedatarios Públicos
+### CAPÍTULO II
 
 ###### Artículo 171.
 
@@ -1535,9 +1541,9 @@ El Gobierno del Estado y los Ayuntamientos podrán celebrar convenios entre sí 
 
 La información que generen en materia catastral las dependencias y organismos auxiliares de Administración Pública Estatal y Municipal de carácter interno y que forme parte de sus registros administrativos, será responsabilidad de cada una de ellas y la pondrán a disposición de la Dirección del Catastro para la constitución del acervo catastral del Estado, cuando sea de interés general.
 
-### CAPÍTULO III. Del Acervo del Archivo Notarial
+### CAPÍTULO III
 
-### CAPÍTULO IV. De los Instrumentos Notariales
+### CAPÍTULO IV
 
 ###### Artículo 176.
 
@@ -1575,169 +1581,109 @@ Para los efectos de la presentación y resolución de la aclaración, todos los 
 
 Compete al Titular de la Dirección del Catastro, resolver la aclaración en un término no mayor de treinta días hábiles, contados a partir de la fecha de recepción de la solicitud.
 
-## TÍTULO CUARTO. ARCHIVO NOTARIAL
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
-### CAPÍTULO V. De los Trámites
+## TÍTULO CUARTO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
+
+### CAPÍTULO V
 
 ###### Artículo 179.
 
-Las disposiciones contenidas en este Título tienen por objeto regular las funciones de salvaguardar, conservar y reproducir los instrumentos que obren en el Acervo del Archivo Notarial del Estado.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 180.
 
-Para efectos de este Título, se entiende por:
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
-l. Acervo: conjunto de bienes y documentos físicos o electrónicos en custodia de la Dirección del Archivo Notarial;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
-II. Acta Notarial o Escritura Pública: instrumento original autorizado, en el que se relaciona un acto o hecho jurídico que el fedatario público asienta en el protocolo, bajo su fe, a solicitud de parte interesada;
-
-III. Apéndice: la integración de los documentos, notas complementarias y los demás elementos relativos a cada acta notarial o escritura pública, los que a su vez, se considerarán parte integrante de la misma;
-
-IV. Aviso Fedatario: la comunicación oficial que remite el fedatario público a la Dirección del Archivo Notarial en los casos establecidos en esta Ley;
-
-V. Escribano Público: el Abogado o Licenciado en Derecho a quien el Poder Ejecutivo del Estado, le delega fe pública para que dé constancia y formalidad de los actos jurídicos cuyo límite de cuantía no exceda la prevista en esta ley, y los demás que se encuentren previstos en la legislación estatal;
-
-VI. Fedatario Público: al Notario o Escribano en funciones;
-
-VII. Folio: número asignado a cada una de las doscientas hojas que integran un libro;
-
-VIII. Instrumentos Notariales: los folios, sellos de autorización, tomos del protocolo, apéndices e índices de las actas notariales o escrituras públicas, documentos impresos o digitales, que el Fedatario Público usa o requiere para el ejercicio de sus funciones, exceptuando los documentos expedidos y autorizados por ellos;
-
-IX. Libro de Registro de Cotejos: conjunto de los folios encuadernados, con su respectivo apéndice, en el que el Notario Público anota los registros de los cotejos de los documentos que le presenten para dicho efecto, considerándose como documento original para el cotejo no sólo el documento público o privado que así lo sea, sino también su copia certificada por Fedatario Público o por autoridad legítimamente autorizada para expedirla y las impresiones hechas vía electrónica o con cualquier otra tecnología, y se regirá por lo dispuesto en el reglamento de esta Ley;
-
-X. Libro: conjunto de doscientos folios ordenados sucesivamente y encuadernados, en los que el Notario Público, observando los requisitos establecidos en esta Ley, asienta las actas notariales o escrituras públicas que se otorguen ante su fe pública;
-
-XI. Notario Público: el Abogado o Licenciado en Derecho a quien el Poder Ejecutivo del Estado le delega fe pública, para que dé constancia y formalidad a los actos y hechos jurídicos ante él celebrados, a los que los interesados quieran o deban dar autenticidad conforme a las leyes, así como de dotarlos de la solemnidad que establezca la ley;
-
-XII. Protocolo: el conjunto de tomos ordenados numérica y cronológicamente, en los que el Notario Público, observando los requisitos establecidos en la presente ley, asienta las actas notariales y escrituras públicas que se otorguen ante su fe pública. El Protocolo es abierto por cuanto lo forman folios encuadernables;
-
-XIII. Protocolo Electrónico: el conjunto de documentos, implementos y archivos electrónicos en que constan los hechos y actos autorizados por el Notario Público por cualquier medio electrónico, óptico o magnético, los libros que se formen con la impresión de ellos, sus índices y constancias de apertura y cierre;
-
-XIV. Registro de Fedatarios Públicos: documento en donde se asientan los datos que identifican a los fedatarios públicos del Estado;
-
-XV. Registro de Poderes: documento en donde se asientan los datos contenidos en los avisos remitidos por los fedatarios públicos al otorgarse un poder ante su fe;
-
-XVI. Registro de Testamentos: documento en donde se asientan los datos contenidos en los avisos remitidos por los notarios públicos al otorgarse un testamento ante su fe;
-
-XVII. Testimonio: la transcripción íntegra en un sólo documento formando un legajo de un acta notarial o escritura pública y de los documentos anexos que obran en el apéndice de dicha acta, y
-
-XVIII. Tomo: el conjunto de libros numerados ordinalmente.
-
-### CAPÍTULO VI. De la Coadyuvancia del Titular del Archivo Notarial
+### CAPÍTULO VI
 
 ###### Artículo 181.
 
-La Dirección del Archivo Notarial contará con el Registro de Fedatarios Públicos, el cual contendrá la relación de Fedatarios Públicos que ejerzan la fe pública en el Estado.
-
-El Registro de Fedatarios Públicos tendrá al menos, por cada fedatario:
-
-l. El nombre completo del Fedatario Público;
-
-II. Dirección de la oficina donde presta sus servicios;
-
-III. Fotografía y firma registrada;
-
-IV. Modelo de su sello para autorizar;
-
-V. Copia de su patente o nombramiento, según corresponda, y
-
-VI. La demás información que resulte necesaria para el control del registro.
-
-Cuando el Fedatario Público requiera modificar alguno de los elementos del Registro de Fedatarios Públicos, deberá dar aviso a la Dirección del Archivo Notarial con al menos cinco días hábiles de anticipación a su uso.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 182.
 
-Los cambios de la firma del Notario Público, deberán además ser registrados ante el Ejecutivo del Estado y el Consejo de Notarios, en los términos del Reglamento de la Ley del Notariado del Estado de Yucatán y se publicarán en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Tratándose de cambio de firma del Notario Público, deberá registrar la nueva firma en términos de la Ley del Notariado del Estado de Yucatán.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 183.
 
-La Dirección del Archivo Notarial dará trámite y actualizará el Registro de Fedatarios Públicos, dentro del término de cinco días hábiles posteriores a la presentación de la solicitud, a fin de que el solicitante inicie la prestación de sus servicios con sus nuevos datos, en el tiempo y forma previstos en su aviso.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 184.
 
-La Dirección del Archivo Notarial proporcionará a los Jueces o a los Notarios Públicos que lo requieran, informe sucinto respecto de la existencia relativa al otorgamiento de algún poder general existente en el Registro de Poderes.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
 ### CAPÍTULO I. De la Creación, Organización e Integración del Instituto
 
 ###### Artículo 185.
 
-El Acervo de la Dirección del Archivo Notarial es público en relación con los documentos con más de cincuenta años de antigüedad. Estos documentos podrán expedirse en copias certificadas, previo pago de los derechos correspondientes, con excepción de aquellos que estén sujetos a disposiciones legales que limiten o prohíban su reproducción.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 186.
 
-El Acervo de la Dirección del Archivo Notarial estará integrado por:
-
-I. Documentos y avisos que los Fedatarios Públicos remitan, según las prevenciones de la ley de la materia;
-
-II. Instrumentos Notariales y de otra naturaleza que deba resguardar, en caso de que los Fedatarios Públicos cesen en el ejercicio de su función, y
-
-III. Aquellos documentos que reciba por disposición legal o reglamentaria, y los documentos que se generen en la Dirección del Archivo Notarial con motivo de su funcionamiento.
-
-El Titular del Archivo Notarial y los demás empleados del área a su cargo, tendrán la obligación de guardar secreto de la información y trámites relacionados con la documentación que obre en la misma.
-
-El incumplimiento de estas obligaciones será sancionado administrativamente en los términos de las leyes que corresponda, sin perjuicio de las responsabilidades penales o civiles a que haya lugar.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 187.
 
-Los expedientes y documentos que entreguen los Fedatarios Públicos para su salvaguarda, deberán constar en forma impresa y estar en algún medio electrónico señalado en el Reglamento. Dicha información será clasificada y archivada en la Dirección del Archivo Notarial para su conservación y posterior consulta o reproducción.
-
-Los tomos del Protocolo y demás Instrumentos Notariales, deberán ser entregados a la Dirección del Archivo Notarial en condiciones que permitan su adecuado depósito, resguardo, custodia y consulta.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 188.
 
-La Dirección del Archivo Notarial llevará un registro digital de los avisos notariales de las actas que contengan testamentos y poderes generales y se otorguen ante la fe de los Notarios Públicos, quienes deberán presentarlo dentro de los cinco días hábiles siguientes a su otorgamiento.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
-De igual forma llevarán un registro electrónico de los avisos de las actas que se otorguen ante la fe de los Escribanos Públicos.
-
-El Reglamento establecerá los requisitos que los Fedatarios Públicos deberán cumplir respecto de los avisos a que se refiere este artículo.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
 ### CAPÍTULO II. Del Órgano de Gobierno
 
 ###### Artículo 189.
 
-La Dirección del Archivo Notarial vigilará que los Fedatarios Públicos, cuenten con un sello con las características previstas en la Ley del Notariado del Estado de Yucatán y su Reglamento.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 190.
 
-Si se extravía, se altera o se deteriora el sello, el Fedatario Público lo comunicará al Titular de la Dirección del Archivo Notarial, quien autorizará la adquisición de otro sello a su costa. En el caso que apareciere el antiguo sello de inmediato y sin usar lo entregará personalmente a la Dirección el (sic) Archivo Notarial para que ésta lo inutilice.
-
-Cuando se cancele la patente de algún Fedatario Público, éste entregará su sello a la Dirección del Archivo Notarial para su invalidación, levantándose el acta respectiva.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 191.
 
-La Dirección del Archivo Notarial contará con un sello de goma, con las características que establezca el Reglamento.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
 ### CAPÍTULO III. De la Dirección General del Instituto
 
 ###### Artículo 192.
 
-La Dirección del Archivo Notarial proporcionará a los Jueces o a los Notarios Públicos ante quienes se denuncie una sucesión, el informe respecto de cualquier Anotación relativa al otorgamiento de testamento de la persona de cuya sucesión se trate, previa solicitud.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 193.
 
-La Dirección del Archivo Notarial es la instancia ante la cual se depositan los testamentos ológrafos y públicos cerrados que los ciudadanos elaboran en términos del Código Civil del Estado de Yucatán, debiendo resguardar y conservar los mismos e incluirlos en el Registro de Testamentos.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 194.
 
-Siempre que algún particular solicite información respecto de algún documento que obre en el Acervo de la Dirección del Archivo Notarial, previa acreditación sobre su interés jurídico, el Titular del Archivo Notarial deberá dar respuesta sobre la procedencia o no de la solicitud en un término no mayor a tres días hábiles al de su presentación.
-
-En caso de que la solicitud sea procedente, se entregarán los documentos solicitados dentro de los cinco días siguientes al de la notificación prevista en el párrafo anterior, previo pago de los derechos respectivos, mismos que deberán informarse al interesado con oportunidad.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 195.
 
-Cuando al expedir algún testimonio de Acta Notarial o Escritura Pública o copia certificada que obre en el Acervo de la Dirección del Archivo Notarial, se detecte que el documento de referencia carece de algún requisito de los que señala la Ley del Notariado del Estado de Yucatán, el Titular del Archivo Notarial expedirá el testimonio o copia certificada solicitados, con la mención en la certificación de tales omisiones. Señalará también que se trata de una escritura irregular y sin prejuzgar sobre las consecuencias legales de las mismas y sin que esto se traduzca en alguna responsabilidad para el Titular del Archivo Notarial.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
 ### CAPÍTULO IV. Del Patrimonio del Instituto
 
 ###### Artículo 196.
 
-Tratándose de revocación de patente, el Titular del Archivo Notarial se encargará de concluir los trámites pendientes del ejercicio del Fedatario Público y cerrará e inutilizará las hojas y los folios sobrantes que obren en los libros del Protocolo y asentará la razón de la causa de ese acto, para luego proceder a encuadernar el último Libro que haya estado vigente, juntamente con las actas que se hayan levantado.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 197.
 
-En caso de que se resuelva la revocación de la patente de Notario Público o del nombramiento de Escribano Público, el Titular del Archivo Notarial procederá a recoger los libros del Protocolo, en el caso de los notarios y el sello para autorizar de ambos, los que concentrará en la Dirección a su cargo. En estos casos, se levantará acta circunstanciada en la que se indicará el número de la última acta, escritura o documento autorizado y las que estén pendientes de autorizar, para el efecto de que a partir de este último acto de ejecución, el Notario o Escribano Público estará impedido para asentar y autorizar actos o hechos jurídicos.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ## TÍTULO QUINTO. INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN
 
@@ -1747,9 +1693,11 @@ En caso de que se resuelva la revocación de la patente de Notario Público o de
 
 Se crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán, como un organismo público descentralizado de la Administración Pública de Yucatán, con personalidad jurídica, patrimonio propio y autonomía de gestión, sectorizado a la Consejería Jurídica, el cual se regirá por lo previsto en esta Ley, su Estatuto Orgánico, el Reglamento y las demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 199.
 
-El Instituto tiene por objeto llevar a cabo las funciones públicas correspondientes al Registro Público, Catastro y al Archivo Notarial, en el Estado, mediante la coordinación de estos servicios, en los términos de los planes y programas de la Administración Pública de Yucatán, de esta Ley, su Reglamento y demás disposiciones legales aplicables.
+El Instituto tiene por objeto llevar a cabo las funciones públicas correspondientes al Registro Público y al Catastro en el estado, mediante la coordinación de estos servicios, en los términos de los planes y programas de la Administración Pública estatal, de esta Ley, de su Reglamento y de las demás disposiciones legales aplicables.
 
 ###### Artículo 200.
 
@@ -1759,9 +1707,13 @@ El Instituto tendrá el carácter de autoridad fiscal, con atribuciones para det
 
 Para el cumplimiento de su objeto, el Instituto tendrá las siguientes atribuciones:
 
-l. Ser el conducto del Ejecutivo del Estado para prestar los servicios de las materias del Registro Público, del Catastro y del funcionamiento del Archivo Notarial;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-II. Dirigir, coordinar, organizar, ejercer, vigilar y evaluar el funcionamiento del Registro Público, del Catastro y del Archivo Notarial, en el Estado;
+I. Ser el conducto del Ejecutivo del Estado para prestar los servicios de las materias del Registro Público y del Catastro.
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+II. Dirigir, coordinar, organizar, ejercer, vigilar y evaluar el funcionamiento del Registro Público y del Catastro en el estado;
 
 III. Fungir como órgano de consulta para los titulares de las dependencias y entidades de la Administración Pública de Yucatán, respecto de las materias señaladas en la fracción que antecede;
 
@@ -1772,6 +1724,8 @@ V. Celebrar y suscribir acuerdos y convenios con las autoridades federales, esta
 VI. Las demás que esta Ley y otras disposiciones legales le otorguen.
 
 ### CAPÍTULO VI. De la Profesionalización
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 202.
 
@@ -1789,15 +1743,17 @@ l. El Titular del Poder Ejecutivo del Estado, quien lo presidirá o la persona a
 
 II. El Secretario General de Gobierno, quien suplirá las ausencias del Presidente;
 
-III. El Secretario de Planeación y Presupuesto;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+III. El Secretario de Administración y Finanzas;
 
 IV. El Consejero Jurídico del Poder Ejecutivo;
 
-V. El Secretario de Hacienda;
+V. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
-VI. El Secretario de Desarrollo Urbano y Medio Ambiente, y
+VI. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
-VII. El Oficial Mayor del Gobierno del Estado.
+VII. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
 El Secretario de General del Gobierno, designará al Secretario de Actas y Acuerdos quien deberá asistir a todas las reuniones pero no formará parte de la Junta de Gobierno.
 
@@ -1837,11 +1793,17 @@ El Presidente o el Secretario de Actas y Acuerdos por instrucciones de éste, po
 
 La Junta de Gobierno tendrá las siguientes atribuciones:
 
-l. Aprobar y celebrar todo tipo de convenios, contratos y actos con las instituciones federales, estatales, municipales, sociales y privadas, que intervengan en programas del Registro Público, del Catastro y del funcionamiento del Archivo Notarial, a fin de lograr el objeto del Instituto;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-II. Aprobar el establecimiento y difusión de normas, técnicas y procedimientos para la unificación y modernización de los sistemas registral y catastral, así como para la actualización y modernización del Registro Público, del Catastro y del Archivo Notarial, ejecutando acciones para su cumplimiento;
+I. Aprobar y celebrar todo tipo de convenios, contratos y actos con las instituciones federales, estatales, municipales, sociales y privadas que intervengan en programas del Registro Público y del Catastro, a fin de lograr el objeto del Instituto;
 
-III. Determinar las políticas encaminadas a promover la prestación de los trámites y servicios del Registro Público, del Catastro y del Archivo Notarial, a fin de que estos se realicen de manera oportuna, transparente, ágil y sencilla;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+II. Aprobar el establecimiento y difusión de normas, técnicas y procedimientos para la unificación y modernización de los sistemas registral y catastral, así como para la actualización y modernización del Registro Público y del Catastro, ejecutando las acciones tendientes a su cumplimiento;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+III. Determinar las políticas encaminadas a promover la prestación de los trámites y servicios del Registro Público y del Catastro, a fin de que estos se realicen de manera oportuna, transparente, ágil y sencilla;
 
 IV. Aprobar e impulsar los programas, proyectos, manuales y demás disposiciones jurídicas y administrativas, que le sean presentadas por el Director General, relacionadas con el funcionamiento del Instituto, así como la incorporación de tecnologías de la información;
 
@@ -1905,9 +1867,7 @@ XXX. Las demás que esta Ley, el Código de la Administración Pública de Yucat
 
 Artículo 228 bis. Para ser designado director del Registro Público de la Propiedad y del Comercio, además de cumplir con los requisitos establecidos en las fracciones I, III, IV, VI, VII y VIII del artículo 212 de esta ley, se deberá contar con título y cédula profesional de abogado o licenciado en derecho, expedidos por autoridad o institución legalmente facultada para ello, con antigüedad mínima de tres años.
 
-> <small>(ADICIONADO, D.O. 17 DE DICIEMBRE DE 2018)</small>
-
-Artículo 228 ter. Para ser designado director del Archivo Notarial, además de cumplir con los requisitos establecidos el artículo 212 de esta ley, deberá ser un aspirante a notario público o, notario público del Estado con licencia.
+Artículo 228 ter. (DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 > <small>(ADICIONADO, D.O. 17 DE DICIEMBRE DE 2018)</small>
 
@@ -1915,7 +1875,11 @@ Artículo 228 Cuáter. Para ser designado titular del Catastro del Estado, adem�
 
 Catastro, expedidos por autoridad o institución legalmente facultada para ello, con antigüedad mínima de cinco años y contar con experiencia acreditada en las áreas de cartografía, valuación inmobiliaria y en sistemas de información catastral.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2019)</small>
+
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 211.
 
@@ -1979,13 +1943,17 @@ XIV. Elaborar y someter a la aprobación de la Junta de Gobierno, los manuales d
 
 XV. Fomentar, promover y difundir la cultura registral, determinando los avances en sus programas,
 
-XVI. Proyectar, desarrollar, acondicionar, arrendar y dotar de infraestructura, equipamiento y mejora, a los inmuebles del Registro Público, del Catastro y del Archivo Notarial, dedicados a la prestación de los servicios, interviniendo en la adquisición y venta de los mismos, así como celebrar toda clase de actos o contratos relacionados con dichos bienes y en su caso, establecer o reubicar sus oficinas, previo acuerdo de la Junta de Gobierno, y en atención a los requerimientos de los servicios;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+XVI. Proyectar, desarrollar, acondicionar, arrendar y dotar de infraestructura, equipamiento y mejora a los inmuebles del Registro Público y del Catastro dedicados a la prestación de los servicios, interviniendo en su adquisición y venta, así como celebrar toda clase de actos y contratos relacionados con dichos bienes y, en su caso, establecer o reubicar sus oficinas, previo acuerdo de la Junta de Gobierno, y en atención a los requerimientos de los servicios;
 
 XVII. Formular a consideración de la Junta de Gobierno, programas, proyectos, manuales y demás disposiciones jurídicas y administrativas, para mejorar el funcionamiento del Instituto;
 
 XVIII. Implementar en el Instituto, el servicio encaminado a profesionalizar al personal en la Función Registral, catastral y del Archivo Notarial, previa aprobación de la Junta de Gobierno;
 
-XIX. Supervisar la coordinación de las operaciones del Registro Público de Comercio y del Registro de Crédito Rural, así como las demás que se le encomienden al Instituto, conforme a lo dispuesto en los ordenamientos legales aplicables y en los convenios y contratos que suscriba con autoridades federales y estatales, para realizar los actos registrales en estas materias;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+XIX. Implementar en el Instituto el servicio encaminado a profesionalizar al personal en la función registral y catastral, previa aprobación de la Junta de Gobierno;
 
 XX. Instrumentar y ejecutar programas de Registro Público y del Catastro, para regularizar vivienda y desarrollos inmobiliarios, dirigidos a personas de escasos recursos económicos;
 
@@ -1993,7 +1961,9 @@ XXI. Coadyuvar en la regularización de la propiedad inmueble del Estado, en coo
 
 XXII. Coordinar sus actividades con los fedatarios públicos, asociaciones de abogados, instituciones crediticias, cámaras de comercio o de la industria, así como con organismos públicos y privados, relacionados con el desarrollo urbano y la vivienda;
 
-XXIII. Realizar propuestas para actualizar el sistema registral, catastral y del archivo notarial y someterlas a la aprobación de la Junta de Gobierno;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+XXIII. Realizar propuestas para actualizar el sistema registral y catastral, y someterlas a la aprobación de la Junta de Gobierno;
 
 XXIV. Promover el intercambio de información con las autoridades catastrales de los Municipios;
 
@@ -2073,6 +2043,8 @@ El Instituto deberá publicar sus balances consolidados anuales en el Diario Ofi
 
 ### CAPÍTULO II. De las Notificaciones
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 225.
 
 Las relaciones laborales del Instituto con sus trabajadores, cualquiera que sea la naturaleza de la contratación de los mismos, se regirá por lo dispuesto en el artículo 123 Apartado A de la Constitución Política de los Estados Unidos Mexicanos, en la Ley Federal del Trabajo y en las demás disposiciones legales aplicables.
@@ -2081,7 +2053,7 @@ Las relaciones laborales del Instituto con sus trabajadores, cualquiera que sea 
 
 ###### Artículo 226.
 
-Con el fin de garantizar que los trabajadores al servicio del Instituto realicen sus funciones con eficiencia, eficacia y certeza, la Junta de Gobierno dictará, de conformidad con el Reglamento y el Estatuto Orgánico, las medidas necesarias para profesionalizar los servicios públicos registral, catastral y del Archivo Notarial.
+Con el fin de garantizar que los trabajadores al servicio del Instituto realicen sus funciones con eficiencia, eficacia y certeza, la Junta de Gobierno dictará, de conformidad con el Reglamento y el Estatuto Orgánico, las medidas necesarias para profesionalizar los servicios públicos registrales y catastrales.
 
 ###### Artículo 227.
 
@@ -2095,27 +2067,37 @@ Los trabajadores del Instituto, tendrán la obligación de participar en los pro
 
 ### CAPÍTULO ÚNICO
 
-## TÍTULO SEXTO. VINCULACIÓN DEL REGISTRO PÚBLICO, CATASTRO Y EL ARCHIVO NOTARIAL
+## TÍTULO SEXTO. VINCULACIÓN DEL REGISTRO PÚBLICO Y DEL CATASTRO
 
 ###### Artículo 229.
 
-El Registro Público, el Catastro y el Archivo Notarial, compartirán información de sus acervos para el logro de los siguientes fines:
+El Registro Público y el Catastro compartirán información de sus acervos para el logro de los siguientes fines:
 
 l. Elevar la eficiencia en la prestación de los servicios que el Instituto brinda a la sociedad;
 
 II. Generar la certeza jurídica que otorga el Instituto;
 
-III. Otorgar congruencia entre la información jurídica existente en el Registro Público y el Archivo Notarial, con la física y técnica con la que cuenta el Catastro;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-IV. Impulsar la integración del Sistema Estatal de Gestión Catastral, y
+III. Otorgar congruencia entre la información jurídica existente en el Registro Público y la información física y técnica con la que cuenta el Catastro;
 
-V. Incrementar la recaudación de contribuciones que se generen en materia registral, catastral y del Archivo Notarial.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-Para ello las Direcciones del Registro Público, del Catastro y del Archivo Notarial, se coordinarán para diseñar los mecanismos tecnológicos y procedimentales que garanticen recíprocamente los flujos de información necesaria y que permitan reforzar la seguridad jurídica y propiciar la consolidación y actualización permanente del Instituto.
+IV. Impulsar la integración del Sistema Estatal de Gestión Catastral, e
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+V. Incrementar la recaudación de contribuciones que se generen en materia registral y catastral.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Para ello, las direcciones del Registro Público y del Catastro se coordinarán para diseñar los mecanismos tecnológicos y procedimentales que garanticen recíprocamente los flujos de información necesaria y que permitan reforzar la seguridad jurídica y propiciar la consolidación y actualización permanente del Instituto.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 230.
 
-El Registro Público podrá promover la celebración de convenios con las Dependencias y Entidades Federales o Estatales, relacionadas con la actividad inmobiliaria, mediante los cuales se establezcan (sic) la obligación recíproca de proporcionar la información a que se refiere el presente Capítulo, a través de normas y principios homogéneos establecidos por el propio Instituto.
+El Instituto podrá promover la celebración de convenios con la Consejería Jurídica y las demás dependencias y entidades federales o estatales relacionadas con la actividad inmobiliaria, mediante los cuales se establezca la obligación recíproca de proporcionar la información a que se refiere el presente capítulo, a través de normas y principios homogéneos.
 
 ## TÍTULO SÉPTIMO. PROCEDIMIENTOS ADMINISTRATIVOS
 
@@ -2125,7 +2107,7 @@ Contra los actos y resoluciones que emitan las autoridades del Instituto procede
 
 ###### Artículo 232.
 
-Las notificaciones de las operaciones y resoluciones, así como de los trámites que se consideren necesarios en las materias registral, catastral y del Archivo Notarial, se practicarán en los términos establecidos la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán, por el personal que para tal efecto designe el Instituto de conformidad con el Reglamento de esta Ley.
+Las notificaciones de las operaciones y resoluciones así como de los trámites que se consideren necesarios en las materias registral y catastral se practicarán en los términos establecidos en la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán, por el personal que para tal efecto designe el Instituto de conformidad con el Reglamento de esta Ley.
 
 ## TÍTULO OCTAVO. RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO
 
@@ -2352,3 +2334,19 @@ Primero. Este decreto entrará en vigor el día siguiente al de su publicación 
 Segundo. Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 228 ter que se adiciona, serán aplicables a partir de las subsecuentes designaciones que a efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
 
 Tercero. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
