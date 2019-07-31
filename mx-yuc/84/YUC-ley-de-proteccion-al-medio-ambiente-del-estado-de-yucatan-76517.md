@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proteccion-al-medio-ambiente-del-estado-de-yucatan-76517
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-08"
-last_updated: "2018-03-21"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 8 de septiembre de 2010.
 
@@ -229,7 +229,9 @@ LXII.- Restauración: conjunto de actividades tendentes a la recuperación y al 
 
 LXIII.- Riesgo: probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición a un material o residuos, ocasionen efectos adversos en la salud humana, en los demás organismos vivos, en el agua, aire, suelo, en los ecosistemas o en las propiedades pertenecientes a los particulares;
 
-LXIV.- Secretaría: Secretaría de Desarrollo Urbano y Medio Ambiente;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+LXIV.- Secretaría: Secretaría de Desarrollo Sustentable;
 
 LXV.- Talud: inclinación del paramento de un muro o de un terreno; vertiente rápida submarina que desciende desde el borde de la plataforma continental hasta profundidades de 2000 metros o más, y
 
@@ -263,7 +265,9 @@ IV.- Aplicar los instrumentos de la política ambiental previstos en esta Ley y 
 
 V.- Celebrar convenios, acuerdos de coordinación, o de colaboración con la Federación, los estados o los municipios para la realización de acciones para la protección del ambiente y el desarrollo sustentable;
 
-VI.- Formular, expedir, ejecutar y evaluar, en coordinación con el Subcomité de Desarrollo Territorial del Comité de Planeación para el Desarrollo del Estado de Yucatán, los objetivos del Programa Sectorial de Desarrollo Territorial Sustentable;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VI.- Formular, expedir, ejecutar y evaluar, en coordinación con las autoridades competentes, los objetivos del programa sectorial que se establezca en materia de desarrollo sustentable;
 
 VII.- Celebrar convenios o acuerdos de coordinación con la Federación, para que el Estado ejerza las funciones previstas en las leyes ambientales de carácter federal, en los términos que al efecto se convengan;
 
@@ -301,7 +305,9 @@ XXIII.- Prevenir y controlar la contaminación atmosférica generada por fuentes
 
 XXIV.- Autorizar el funcionamiento y mantener actualizado el inventario de fuentes fijas de contaminantes en el Estado de Yucatán;
 
-XXV.- Establecer programas de verificación vehicular; instalar y operar centros de verificación vehicular; asignar o concesionar la prestación de dicho servicio, así como supervisar su funcionamiento con el fin de procurar que los automotores que circulen en el territorio del Estado de Yucatán, no rebasen los niveles máximos permisibles que determinen las normas oficiales vigentes y normas técnicas ambientales;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+XXV.- Establecer programas de verificación vehicular, instalar y operar centros de verificación vehicular, asignar o concesionar la prestación de dicho servicio, así como supervisar su funcionamiento con el fin de procurar que los automotores que circulen en el territorio del Estado de Yucatán, a excepción de los destinados al transporte público de pasajeros, no rebasen los niveles máximos permisibles que determinen las normas oficiales vigentes y normas técnicas ambientales;
 
 XXVI.- Promover la participación ciudadana en materia de protección al ambiente;
 
@@ -495,7 +501,9 @@ El Poder Ejecutivo y los ayuntamientos promoverán, en el ámbito de sus respect
 
 La Secretaría publicará el aviso de inicio de consulta pública del Programa de Ordenamiento Ecológico del Territorio del Estado de Yucatán, así como de las modificaciones a que sea sujeto dicho ordenamiento, para que en el término de 30 días hábiles se emitan los comentarios u observaciones correspondientes.
 
-La publicación deberá realizarse en el Diario Oficial del Gobierno del Estado de Yucatán y los medios que sean más idóneos para su mejor difusión, con la convocatoria a los agentes económicos involucrados y a las Secretarías de Fomento Económico y a la de Fomento Agropecuario y Pesquero, para que aporten lo que estimen necesario.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+La publicación deberá realizarse en el diario oficial del estado y los medios que sean más idóneos para su mejor difusión, con la convocatoria de los agentes económicos involucrados y de las secretarías de Fomento Económico y Trabajo, de Desarrollo Rural, y de Pesca y Acuacultura Sustentables, para que aporten lo que estimen necesario.
 
 Concluido el plazo otorgado para la consulta pública, la Secretaría incorporará al proyecto del Programa de Ordenamiento o sus modificaciones, según el caso, las observaciones que fueren procedentes. Integrado todo el proyecto, se publicará en el Diario Oficial del Gobierno del Estado de Yucatán su terminación, para luego inscribirlo en el Registro Público.
 
@@ -1153,15 +1161,23 @@ I.- Requerir a quienes realicen actividades con emisiones contaminantes y, en su
 
 II.- Autorizar el funcionamiento de fuente fija e integrar y mantener actualizados los inventarios de fuentes fijas de contaminación a la atmósfera;
 
-III.- Establecer, concesionar, asignar y supervisar los centros de verificación de emisiones de automotores registrados en el Estado, de conformidad con las normas oficiales y estatales correspondientes;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+III.- Establecer, concesionar, asignar y supervisar los centros de verificación de emisiones de automotores registrados en el Estado, a excepción de los destinados al transporte público de pasajeros, de conformidad con las normas oficiales y estatales correspondientes;
 
 IV.- Proponer a la autoridad competente el monto de las tarifas que deben aplicar los centros de verificación que establezca la Secretaría, los asignados y los que operen de manera concesionada;
 
-V.- Integrar y controlar el registro de los centros de verificación vehicular;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-VI.- Integrar y mantener actualizado un informe de los resultados obtenidos en la medición de las emisiones contaminantes en los Centros de Verificación;
+V.- Integrar y controlar el registro de los centros de verificación vehicular, a excepción de los destinados al transporte público de pasajeros;
 
-VII.- Solicitar a la autoridad competente el retiro de la circulación de los automotores cuyos niveles de emisión de contaminantes, rebasen los límites máximos permisibles determinados en las normas estatales y normas oficiales vigentes en la Entidad;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VI.- Integrar y mantener actualizado un informe de los resultados obtenidos en la medición de las emisiones contaminantes en los Centros de Verificación, a excepción de los destinados al transporte público de pasajeros;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VII.- Solicitar a la autoridad competente el retiro de la circulación de los automotores cuyos niveles de emisión de contaminantes rebasen los límites máximos permisibles determinados en las normas estatales y normas oficiales vigentes en la Entidad, a excepción de los destinados al transporte público de pasajeros;
 
 > <small>(REFORMADA, D.O. 25 DE ABRIL DE 2014)</small>
 
@@ -1190,6 +1206,10 @@ XIII.- Formular y aplicar programas de gestión de calidad del aire, con base en
 > <small>(REFORMADA, D.O. 25 DE ABRIL DE 2014)</small>
 
 XIV.- Ejercer las demás facultades que le confieran otras disposiciones en materia ambiental.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Artículo 100 bis.- El Instituto de Movilidad y Desarrollo Urbano Territorial establecerá centros de verificación de emisiones de automotores destinados al transporte público de pasajeros registrados en el estado, de conformidad con las normas oficiales y estatales correspondientes, llevará su registro y podrá solicitar a la autoridad responsable el retiro de la circulación de los automotores destinados al transporte público de pasajeros cuyos niveles de emisión de contaminantes rebasen los límites máximos permisibles determinados en las normas estatales y oficiales aplicables.
 
 ###### Artículo 101.
 
@@ -1580,3 +1600,19 @@ Este decreto entrará en vigor el día de su publicación en el diario oficial d
 Segundo. Obligación normativa
 
 El gobernador deberá adecuar el Reglamento de la Ley de Protección al Medio Ambiente del Estado de Yucatán, en un plazo de ciento ochenta días naturales contado a partir de la entrada en vigor de este decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
