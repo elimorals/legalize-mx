@@ -4,7 +4,7 @@ identifier: "LGT"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-06-17"
-last_updated: "2018-04-13"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68848&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGT"
 
 LEY GENERAL DE TURISMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 17 de junio de 2009.
 
@@ -110,7 +110,7 @@ III. Comisión: La Comisión Ejecutiva de Turismo;
 
 IV. Consejo: El Consejo Consultivo de Turismo;
 
-V. Consejo de Promoción: El Consejo de Promoción Turística de México;
+V. (DEROGADA, D.O.F. 31 DE JULIO DE 2019)
 
 VI. Consejo Local: Los Consejos Consultivos Locales de Turismo;
 
@@ -160,7 +160,9 @@ Son atribuciones del Poder Ejecutivo Federal, que se ejercerán a través de la 
 
 I. Formular y conducir la política turística nacional;
 
-II. Promover, a través del Consejo de Promoción, la actividad turística, nacional e internacional;
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2019)</small>
+
+II. Promover y coordinar la actividad turística de México a nivel nacional e internacional;
 
 > <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
 
@@ -626,31 +628,19 @@ Los Estados, los Municipios y la Ciudad de México deberán coordinarse con la S
 
 ###### Artículo 38.
 
-La Secretaría en el ejercicio de sus atribuciones en materia de promoción turística, nacional e internacional, determinará las políticas que aplicará a través de la empresa de participación estatal mayoritaria denominada Consejo de Promoción Turística de México.
-
-(NOTA: EL 24 DE ENERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 71/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 28 DE MAYO DE 2013, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+(DEROGADO, D.O.F. 31 DE JULIO DE 2019)
 
 ###### Artículo 39.
 
-El Consejo de Promoción se integrará por representantes de los sectores público y privado, teniendo por objeto diseñar y realizar, las estrategias de promoción turística a nivel nacional e internacional, en coordinación con la Secretaría.
-
-El Consejo de Promoción tendrá una Junta de Gobierno que se integra por veintinueve miembros; quince designados por el gobierno federal, uno de la Secretaría, uno de la Secretaría de Hacienda y Crédito Público, uno del Fondo, ocho rotatorios por cada tres años de las entidades federativas y cuatro rotatorios por tres años de los municipios turísticos. Los catorce restantes provendrán de los representantes de las organizaciones de prestadores de servicios turísticos.
+(DEROGADO, D.O.F. 31 DE JULIO DE 2019)
 
 ###### Artículo 40.
 
-El Consejo de Promoción, previo acuerdo con la Secretaría, podrá tener representantes en el extranjero para el cumplimiento de su objeto.
+(DEROGADO, D.O.F. 31 DE JULIO DE 2019)
 
 ###### Artículo 41.
 
-El Consejo de Promoción tendrá el patrimonio, atribuciones, estructura orgánica, órganos de dirección e integrantes de los mismos que se establezcan en su Estatuto Orgánico y se regirá por esta Ley, así como por la Ley Federal de Entidades Paraestatales.
-
-> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2013)</small>
-
-Al patrimonio del Consejo de Promoción se integrará el porcentaje referido al derecho por la autorización de la condición de estancia a visitantes sin permiso para realizar actividades remuneradas que ingresen al país con fines turísticos, establecido en la Ley Federal de Derechos. Este porcentaje se destinará para la promoción turística del país.
-
-El Consejo estará sectorizado, en el ámbito de la Secretaría. El titular del Consejo de Promoción será nombrado por el Presidente de la República.
+(DEROGADO, D.O.F. 31 DE JULIO DE 2019)
 
 ### CAPÍTULO II. Del Fomento a la Actividad Turística
 
@@ -1101,3 +1091,29 @@ D.O.F. 13 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 63 DE LA LEY GENERAL DE TURISMO".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE TURISMO, SE DESINCORPORA EL CONSEJO DE PROMOCIÓN TURÍSTICA DE MÉXICO, S.A. DE C.V. COMO EMPRESA DE PARTICIPACIÓN ESTATAL MAYORITARIA Y SE ORDENA SU DISOLUCIÓN Y LIQUIDACIÓN".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se ordena la desincorporación de la empresa de participación estatal mayoritaria denominada Consejo de Promoción Turística de México, S.A. de C.V. de la Administración Pública Federal, así mismo, la Asamblea General de Accionistas del Consejo de Promoción Turística de México, S.A. de C.V. deberá sesionar dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, a efecto de aprobar su disolución y nombrar a su liquidador, quien tendrá las más amplias facultades para actos de administración, dominio y pleitos y cobranzas, y para suscribir u otorgar títulos de crédito, incluyendo aquellas que, en cualquier materia, requieran poder o cláusula especial en términos de las disposiciones aplicables, así como para realizar cualquier acción que coadyuve a un expedito y eficiente proceso de liquidación, en términos de las disposiciones administrativas y presupuestables aplicables.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a la Secretaría de Turismo para el presente ejercicio fiscal 2019 y los subsecuentes, por lo que no se incrementará el presupuesto regularizable del ramo 21. Turismo, y en su caso de llegarse a realizar alguna modificación a la estructura orgánica del citado ramo, como resultado de la desincorporación del Consejo de Promoción Turística de México S.A. de C.V., ésta deberá llevarse a cabo mediante movimientos compensados, conforme a las disposiciones jurídicas aplicables, que serán cubiertos por el mismo ramo a costo compensado, toda vez que, no se autorizarán ampliaciones al presupuesto de dicha dependencia.
+
+Cuarto. El Consejo de Promoción Turística de México, S.A. de C.V. conservará su personalidad jurídica exclusivamente para efectos del proceso de disolución y liquidación, conforme a la Ley Federal de las Entidades Paraestatales, su Reglamento, la Ley General de Sociedades Mercantiles y los demás instrumentos aplicables a su forma societaria.
+
+Quinto. La Secretaría de Turismo, en su carácter de dependencia coordinadora sectorial publicará, dentro de los treinta días siguientes al reconocimiento de la disolución y nombramiento del liquidador del Consejo de Promoción Turística de México, S.A. de C.V. por su Asamblea General de Accionistas, las bases para el proceso de liquidación de dicha empresa de participación estatal mayoritaria, atendiendo lo dispuesto en sus estatutos orgánico y sociales, y la normativa aplicable.
+
+Sexto. Los asuntos del Consejo de Promoción Turística de México, S.A. de C.V. que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán con su sustanciación de conformidad con la normativa jurídica aplicable al inicio de los mismos, hasta su conclusión por el liquidador.
+
+Los derechos y obligaciones que en materia de promoción turística haya contraído el Consejo de Promoción Turística de México, S.A. de C.V. y se encuentren vigentes a la entrada en vigor del presente Decreto, serán ejercidos y, en su caso, asumidos por la coordinadora de sector, en términos de la normativa aplicable y de las bases para la liquidación que se emitan para tal efecto.
+
+Los remanentes del proceso de liquidación del Consejo de Promoción Turística de México, S.A. de C.V., consistentes en activos, muebles e inmuebles y derechos de carácter patrimonial, podrán ser transferidos por el liquidador, para los efectos legales a los que haya lugar, al Servicio de Administración y Enajenación de Bienes o, en su caso, a la Tesorería de la Federación, previo a la conclusión de dicho proceso y en términos de las bases de liquidación y de la normativa aplicable.
+
+Séptimo. La Secretaría de Hacienda y Crédito Público y la de Turismo realizarán, en el ámbito de sus respectivas competencias, las gestiones que resulten necesarias para desincorporar al Consejo de Promoción Turística de México, S.A. de C.V., e intervenir en el proceso de liquidación, en términos de la normativa aplicable.
+
+Octavo. Los derechos de los trabajadores del Consejo de Promoción Turística de México, S.A. de C.V. serán respetados conforme a la legislación y normativa aplicables.
+
+Noveno. Se derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto.
