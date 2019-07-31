@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-patronato-de-las-unidades-de-servicios-culturales-y-886
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-20"
-last_updated: "2012-07-20"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL PATRONATO DE LAS UNIDADES DE SERVICIOS CULTURALES Y TURÍSTICOS DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 20 de julio de 2012.
 
@@ -91,7 +91,9 @@ II. Adquirir, construir, edificar y administrar las Unidades y Paradores, así c
 
 III. Fomentar, incentivar y desarrollar actividades educativas y de difusión de los valores arqueológicos, antropológicos, históricos, culturales y turísticos del Estado de Yucatán, en coordinación con el INAH, el INBA, la Secretaría y los integrantes de los sectores turístico y económico del Estado;
 
-IV. Promover el incremento del número de visitantes a Yucatán, en coordinación con la Secretaría de Fomento Turístico, la Secretaría de Fomento Económico y, en su caso, con la Secretaría de Turismo Federal, para ofrecer una mejor y mayor calidad de los servicios en las Unidades y Paradores, así como en las instalaciones que administre, mediante la realización de promociones, eventos, y acciones, que al efecto considere en su programa operativo anual;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IV. Promover el incremento del número de visitantes a Yucatán, en coordinación con la Secretaría de Fomento Turístico, la Secretaría de Fomento Económico y Trabajo, y, en su caso, con la Secretaría de Turismo federal, para ofrecer una mejor y mayor calidad de los servicios en las Unidades y Paradores, así como en las instalaciones que administre, mediante la realización de promociones, eventos, y acciones, que al efecto considere en su programa operativo anual;
 
 V. Aumentar la captación de los recursos provenientes de la actividad turística y destinarlos a la conservación, restauración, ampliación y mejoramiento de las Unidades y Paradores y demás instalaciones que administre, para elevar la calidad de los servicios a los visitantes;
 
@@ -147,23 +149,31 @@ I. Un Presidente, que será el Gobernador del Estado, o la persona a quien éste
 
 II. El Secretario General de Gobierno, quien suplirá las ausencias del Presidente;
 
-III. El Secretario de Hacienda;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-IV. El Secretario de Planeación y Presupuesto;
+III. El Secretario de Administración y Finanzas;
+
+IV. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
 V. El Secretario de Educación;
 
 VI. El Secretario de Obras Públicas;
 
-VII. El Secretario de Fomento Económico;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VII.- El Secretario de Fomento Económico y Trabajo;
 
 VIII. El Secretario de Fomento Turístico;
 
-IX. El Secretario de Desarrollo Urbano y Medio Ambiente;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-X. El Secretario de Cultura y Artes;
+IX. El Secretario de Desarrollo Sustentable.
 
-XI. El Director General del Sistema para el Financiamiento del Desarrollo del Estado de Yucatán “Fondo Yucatán”;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+X. El Secretario de la Cultura y las Artes;
+
+XI. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
 XII. El Director del Centro Regional del INAH en el Estado;
 
@@ -225,7 +235,9 @@ XVI. Elaborar la propuesta de tarifas para los usuarios de los servicios que pre
 
 XVII. Acordar los donativos, subsidios o pagos extraordinarios para instituciones públicas, los municipios, empresas y personas físicas o morales, y verificar que los mismos se apliquen a los fines autorizados;
 
-XVIII. Aprobar las bases y normas para la cancelación de adeudos a cargo de terceros cuando fuere notoria la imposibilidad de su cobro o se estime que el beneficio será menor a la cantidad que sea posible recuperar por medios judiciales o extrajudiciales, e informar a la Secretaría de Hacienda, Secretaría de Planeación y Presupuesto y a la Contraloría General del Estado;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+XVIII. Aprobar las bases y normas para la cancelación de adeudos a cargo de terceros cuando fuere notoria la imposibilidad de su cobro o se estime que el beneficio será menor a la cantidad que sea posible recuperar por medios judiciales o extrajudiciales, e informar a la Secretaría de Administración y Finanzas, y, en su caso, a la Secretaría de la Contraloría General;
 
 XIX. Conocer y autorizar la contratación de los créditos y las fuentes de financiamiento que sean necesarios para la consecución de sus objetivos, de conformidad con la normatividad aplicable;
 
@@ -544,3 +556,21 @@ C E R T I F I C O:
 QUE LAS PRESENTES COPIAS FOTOSTÁTICAS CONSISTENTES EN VEINTISEIS FOJAS ÚTILES, SON FIEL REPRODUCCIÓN DEL ORIGINAL QUE OBRA EN EL TOMO DEL MES DE JULIO DEL AÑO DOS MIL DOCE MISMO QUE SE ENCUENTRA EN LA HEMEROTECA DE ESTA DIRECCIÓN.
 
 SE EXPIDE LA PRESENTE CERTIFICACIÓN EN LA CIUDAD DE MÉRIDA, CAPITAL DEL ESTADO DE YUCATÁN, A LOS NUEVE DIAS DEL MES DE OCTUBRE DE AÑO DOS MIL DOCE.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
