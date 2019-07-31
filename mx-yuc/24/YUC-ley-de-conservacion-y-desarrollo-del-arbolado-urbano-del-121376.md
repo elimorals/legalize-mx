@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-conservacion-y-desarrollo-del-arbolado-urbano-del-121376
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-10"
-last_updated: "2017-05-10"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE CONSERVACIÓN Y DESARROLLO DEL ARBOLADO URBANO DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento II, del Diario Oficial del Estado de Yucatán, el miércoles 10 de mayo de 2017.
 
@@ -131,7 +131,9 @@ Replantación: Reposición de plantas muertas en una plantación.
 
 Restitución: Restablecimiento de la situación ambiental, mediante compensación física o económica, por el daño ocasionado en áreas arboladas por el incumplimiento de las disposiciones en la materia.
 
-Secretaría: Secretaría de Desarrollo Urbano y Medio Ambiente del Estado de Yucatán.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Secretaría: Secretaría de Desarrollo Sustentable.
 
 ### CAPÍTULO II. De las Autoridades Competentes
 
@@ -143,7 +145,13 @@ I.- El Titular del Ejecutivo del Estado.
 
 II.- La Secretaría, quien coordinará cada una de las dependencias y organismos estatales que señale esta Ley.
 
-III.- Los Ayuntamientos, a través de la unidad administrativa con atribuciones en materia de regulación del medio ambiente.
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2019)</small>
+
+III.- El Instituto de Movilidad y Desarrollo Urbano Territorial.
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IV.- Los ayuntamientos, a través de la unidad administrativa con atribuciones en materia de regulación del medio ambiente.
 
 ###### Artículo 11.
 
@@ -157,9 +165,13 @@ I.- En coordinación con las entidades estatales y federales competentes, los ay
 
 a) Elaborar y coordinar el reglamento de la presente ley.
 
-b) Incluir en la planeación y regulación del ordenamiento territorial de los asentamientos humanos y de desarrollo urbano estrategias encaminadas a la conservación del arbolado urbano.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
-c) Asesorar y coordinarse técnicamente con los ayuntamientos, para la observación de la presente ley en la elaboración de los correspondientes Programas de Desarrollo Urbano y de Medio Ambiente.
+b) Procurar la inclusión de estrategias encaminadas a la conservación del arbolado urbano en la planeación y regulación del ordenamiento territorial de los asentamientos humanos y de desarrollo urbano.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+c) Asesorar y coordinarse técnicamente con los ayuntamientos y con las autoridades estatales competentes, para la observación de la presente ley en la elaboración de los correspondientes programas en materia de desarrollo urbano y de medio ambiente.
 
 d) Promover prácticas, métodos y técnicas que permitan el cuidado, conservación y protección del arbolado urbano.
 
@@ -169,17 +181,23 @@ f) Fomentar la cultura, educación, capacitación e investigación para la conse
 
 g) Promover la participación ciudadana en materia de cuidado, conservación y protección del arbolado urbano.
 
-h) Suscribir convenios y acuerdos de coordinación con la federación, otros estados, ayuntamientos y organismos auxiliares, para el cumplimiento de los objetivos de esta ley.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+h) Fomentar la suscripción de convenios y acuerdos de coordinación con la federación, otros estados, ayuntamientos y organismos auxiliares, para el cumplimiento de los objetivos de esta ley.
 
 II.- Fomentar y establecer mecanismos de coordinación con los ayuntamientos para elaborar, monitorear y actualizar los Inventarios municipales del arbolado urbano.
 
 III.- Fomentar el establecimiento y operación de viveros públicos y comunitarios, que garanticen el abastecimiento en cantidad y calidad de los árboles de especies adecuadas para la arborización, según los parámetros requeridos en la presente Ley.
 
-IV.- Capacitar, regular y autorizar el registro de las personas autorizadas como dictaminadores técnicos de los ayuntamientos para el tratamiento y manejo del arbolado urbano en el Estado, así como para la aplicación de las medidas preventivas y de seguridad.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IV.- Capacitar, regular y autorizar el registro de las personas autorizadas como dictaminadores técnicos de los ayuntamientos para el tratamiento y manejo sustentable del arbolado urbano en el Estado, así como para la aplicación de las medidas preventivas y de seguridad.
 
 V.- Coadyuvar con Protección Civil en la atención de emergencias y contingencias suscitadas por el arbolado urbano.
 
-VI.- Aplicar y evaluar los programas, planes y acciones en materia de arbolado urbano, y los que se deriven de los convenios celebrados para el cumplimiento de esta Ley, en términos de su competencia.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VI.- Vigilar la aplicación de los programas, planes y acciones en materia de arbolado urbano, y los que se deriven de los convenios celebrados para el cumplimiento de esta Ley, en términos de su competencia.
 
 VII.- Aplicar en el ámbito de su competencia, las medidas de seguridad y las sanciones administrativas por infracciones a la presente Ley y demás disposiciones legales aplicables.
 
@@ -195,11 +213,15 @@ I.- Establecer en el reglamento municipal correspondiente las normas para la pro
 
 II.- Coadyuvar y coordinarse con la Secretaría, en:
 
-a) Las acciones tendientes al manejo, tratamiento y administración del arbolado urbano, dentro de su ámbito de competencia, para el cumplimiento de la presente Ley.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+a) Las acciones tendientes al manejo, tratamiento y administración sustentable del arbolado urbano, dentro de su ámbito de competencia, para el cumplimiento de la presente Ley.
 
 b) La actualización y aplicación de los programas, planes y acciones, que promuevan los objetivos de esta Ley.
 
-c) La realización y actualización del Inventario Municipal del Arbolado Urbano, en aportación al Sistema Estatal de Información de Desarrollo Urbano y Medio ambiente.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+c) La realización y actualización del Inventario Municipal del Arbolado Urbano, en aportación al Sistema Estatal de Información Ambiental.
 
 d) Desarrollar y promover programas de participación ciudadana que promuevan los objetivos de esta Ley.
 
@@ -215,7 +237,9 @@ V.- Solicitar y exigir a la persona que cause daño al arbolado urbano, el cumpl
 
 VI.- Celebrar acuerdos y convenios de coordinación, cooperación y concentración para el cumplimiento de los objetivos de este ordenamiento.
 
-VII.- Evaluar, otorgar o negar la autorización de las solicitudes presentadas en el municipio respecto a la poda, derribo o trasplante del arbolado urbano presente en el mismo municipio, en los términos de esta Ley y su reglamento.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VII.- Evaluar, otorgar o negar, en coordinación con las autoridades competentes en materia de desarrollo urbano, la autorización de las solicitudes presentadas en el municipio respecto a la poda, derribo o trasplante del arbolado urbano presente en el mismo municipio, en los términos de esta Ley y su reglamento.
 
 VIII.- Promover la construcción de áreas arboladas y el mantenimiento de su infraestructura.
 
@@ -239,9 +263,11 @@ XIV.- Las demás que conforme a la presente Ley y su Reglamento les establezcan.
 
 La Secretaría deberá establecer el indicador de densidad y calidad de arbolado urbano más adecuado a la región; proponiendo a cada uno de los ayuntamientos aquél que sea el adecuado para cada uno, con el fin de que estos puedan fijar en sus respectivos reglamentos, los programas y las metas anuales de establecimiento y preservación del arbolado urbano.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 15.
 
-La Secretaría deberá solicitar periódicamente a los ayuntamientos la actualización de sus Inventarios Municipales del Arbolado Urbano, analizar la información y ponerla a disposición a través del Sistema Estatal de Información de Desarrollo Urbano y Medio Ambiente.
+La Secretaría deberá solicitar periódicamente a los ayuntamientos la actualización de sus Inventarios Municipales del Arbolado Urbano, analizar la información y ponerla a disposición a través del Sistema Estatal de Información Ambiental.
 
 ###### Artículo 16.
 
@@ -1148,3 +1174,21 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
