@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2019-01-15"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,9 +24,7 @@ issue_date: "2009-12-28"
 
 CÓDIGO FISCAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 31 DE DICIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 15 DE ENERO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 31 DE JULIO DE 2019.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -9596,11 +9594,13 @@ Los aprovechamientos a que se refiere este artículo, deberán aplicarse íntegr
 
 La autoridad competente dará el visto bueno respecto a que el particular cumplió con las medidas de mitigación, previo a la ocupación de la obra. Los aprovechamientos a que se refiere este artículo, no podrán ser pagados en especie, no generarán privilegio alguno para los particulares ni compromiso alguno para la autoridad.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, G.O. 31 DE JULIO DE 2019)</small>
 
-Los desarrolladores podrán solicitar al Sistema de Aguas que el monto de los aprovechamientos a que se hace mención en el párrafo que antecede pueda ser cubierto directamente mediante la realización de la obra de reforzamiento hidráulico que se requiera para la prestación del servicio. El Sistema de Aguas determinará la procedencia o no de dicha solicitud, en su caso, definirá y supervisará la naturaleza y especificaciones técnicas de dicha obra de conformidad con los lineamientos que para tal efecto emita. Si optan por la realización de obra de reforzamiento hidráulico y el monto neto de ésta resulta mayor al del cálculo de los aprovechamientos, no se generará derecho de devolución o compensación a favor del contribuyente, en caso de que sea menor la diferencia se enterará a la Tesorería.
+> <small>(DEROGADO OCTAVO PÁRRAFO, G.O. 31 DE JULIO DE 2019)</small>
 
-El monto de los aprovechamientos que sean cubiertos mediante la realización de la obra de reforzamiento deberá considerar los costos por el proyecto ejecutivo, ejecución de la obra de reforzamiento, supervisión, trámites necesarios y demás inherentes a la obra.
+> <small>(ADICIONADO, G.O. 31 DE JULIO DE 2019)</small>
+
+Una vez que la autoridad competente dé el visto bueno respecto a que el particular cumplió con las medidas de mitigación, previo a la ocupación de la obra; el Sistema de Aguas deberá publicar en su portal oficial, a más tardar en los 5 días posteriores, la versión pública del documento que acredite dicho cumplimiento, así como el monto de los aprovechamientos pagados por parte del desarrollador.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -20461,3 +20461,15 @@ Tratándose del trámite de actualización de datos catastrales mediante avalúo
 ###### ARTICULO VIGÉSIMO CUARTO.
 
 La Secretaría de Administración y Finanzas implementará un Programa General de Regularización Fiscal de la Ciudad de México para el Ejercicio Fiscal 2019, consistente en la condonación al 100% de los adeudos de los accesorios generados por el Impuesto Predial, respecto de aquéllos inmuebles que se hubieran construido bajo la modalidad del Régimen de Propiedad en Condominio hasta antes del 31 de diciembre de 2015.
+
+G.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE ADICIONA UN PÁRRAFO NOVENO, Y DEROGAN LOS PÁRRAFOS SÉPTIMO Y OCTAVO, TODOS DEL ARTÍCULO 302 DEL CÓDIGO FISCAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Se derogan todas las disposiciones que se opongan a lo contenido en el presente decreto;
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, y en el Diario Oficial de la Federación para su mayor difusión;
+
+TERCERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México; y
+
+CUARTO.- Las solicitudes de desarrolladores para cubrir el pago de aprovechamientos a que se refiere el artículo 302 de este Código, mediante el pago en especie tramitados ante el Sistema de Aguas de la Ciudad de México con anterioridad a la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión de conformidad con la legislación vigente al momento de su iniciación.
