@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-reclutamiento-de-personal-para-el-ejercito-42391"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-20"
-last_updated: "2015-07-24"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42391&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-01-14"
 
 REGLAMENTO DE RECLUTAMIENTO DE PERSONAL PARA EL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2019.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 20 de enero de 2005.
 
@@ -273,7 +273,21 @@ IMC (KG/M2) = _____________peso_____________
 
 estatura al cuadrado
 
-II. Los aspirantes no deberán presentar tatuajes, ni perforaciones en cualquier parte del cuerpo.
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2019)</small>
+
+II. Los aspirantes que presenten tatuajes podrán ingresar al Ejército y Fuerza Aérea Mexicanos, siempre y cuando:
+
+a) No se encuentren en lugares visibles con el uso de uniforme;
+
+b) Tenga una dimensión máxima de 10 x 10 centímetros;
+
+c) Las imágenes no sean ofensivas a la moral o hagan apología del delito, y
+
+d) En caso de que tengan más de un tatuaje, estos no sean mayor del 10% de la superficie corporal, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2019)</small>
+
+III. Los aspirantes no deberán presentar perforaciones en cualquier parte del cuerpo.
 
 Al personal femenino únicamente se le autorizarán las horadaciones lobulares normales.
 
@@ -577,9 +591,9 @@ XI. Los demás supuestos previstos en la Ley Orgánica del Ejército y Fuerza A�
 
 XII. Las causales de rescisión que se establezcan en otras disposiciones jurídicas, y
 
-> <small>(ADICIONADA, D.O.F. 4 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2019)</small>
 
-XIII. Presentar tatuajes y/o perforaciones en cualquier parte del cuerpo durante su permanencia en el Ejército y Fuerza Aérea Mexicanos; con excepción de las horadaciones lobulares permitidas al personal femenino.
+XIII. Presentar, durante su permanencia en el Ejército y Fuerza Aérea Mexicanos, tatuajes que no se ajusten a lo previsto en el artículo 21, fracción II de este Reglamento, así como perforaciones en cualquier parte del cuerpo, con excepción de las horadaciones lobulares permitidas al personal femenino.
 
 La Secretaría de la Defensa Nacional podrá dejar sin efectos y sin responsabilidad para ella, las Cartas Compromiso suscritas por los alumnos de los Establecimientos de Educación Militar, cuando éstos se ubiquen en alguno de los supuestos de rescisión previstos en este artículo.
 
@@ -845,47 +859,15 @@ CUARTO.- Los trámites de desistimiento de los aspirantes a ingresar al Ejércit
 
 Los procedimientos de rescisión del contrato de enganche que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto se ajustarán en lo conducente a lo previsto en el presente ordenamiento.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 57. POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL "GACETA DE GOBIERNO" DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS".]
+D.O.F. 31 DE JULIO DE 2019.
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE RECLUTAMIENTO DE PERSONAL PARA EL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
 
-CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
-
-> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
-
-El Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Gobierno Digital del Estado de México y Municipios en un plazo no mayor a ciento veinte días hábiles a la entrada en vigor del presente Decreto.
-
-QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos, para su posterior publicación.
-
-SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
-
-SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
-
-OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
-
-NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
-
-> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
-
-DÉCIMO.- Para que las dependencias establecidas en el artículo 67 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
-
-DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
-
-DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
-
-> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
-
-DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial "Gaceta del Gobierno" el tres de septiembre de dos mil diez y se deroga el Libro Décimo Quinto del Código Administrativo del Estado de México publicado en el periódico oficial "Gaceta del Gobierno" el cinco de enero de dos mil seis.
-
-DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
-
-G.G. 20 DE DICIEMBRE DE 2016.
+TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
 
