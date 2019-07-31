@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-transporte-del-estado-de-yucatan-14429"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-15"
-last_updated: "2016-12-28"
+last_updated: "2019-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE TRANSPORTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Diario Oficial del estado de Yucatán, el sábado 15 de Mayo de 1999.
 
@@ -119,9 +119,9 @@ XV. Empresa de redes de transporte: la persona moral que, basándose en el desar
 
 XVI. Constancia: el documento, expedido por el Titular del Ejecutivo del Estado, mediante el cual se autoriza a una empresa de redes de transporte para promover, administrar u operar plataformas tecnológicas, y
 
-> <small>(ADICIONADA, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-XVII. Certificado vehicular: el documento, expedido por la Dirección de Transporte, mediante el cual se autoriza a un operador, y su vehículo, para prestar el servicio de transporte de pasajeros contratado a través de plataformas tecnológicas.
+XVII. Certificado vehicular: el documento, expedido por el Instituto de Movilidad y Desarrollo Urbano Territorial, mediante el cual se autoriza a un operador, y su vehículo, para prestar el servicio de transporte de pasajeros contratado a través de plataformas tecnológicas.
 
 ###### ARTÍCULO 7.
 
@@ -137,25 +137,27 @@ Asimismo, el Titular del Ejecutivo del Estado podrá convenir con los municipios
 
 El Titular del Ejecutivo dispondrá las medidas conducentes para que los medios de transporte utilicen en forma adecuada las vías terrestres del Estado, a fin de obtener un mayor aprovechamiento de las mismas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 10.
 
-Los vehículos procedentes de otras entidades federativas o del extranjero, autorizados en su lugar de procedencia para prestar algún servicio de transporte, tanto público como particular, para poder proporcionarlo en el Estado de Yucatán, deberán registrarse ante la Dirección de Transporte, la cual, previo cumplimiento de las condiciones que establezca el reglamento de esta Ley, y mediante el pago de los derechos correspondientes, le otorgará un permiso especial.
+Los vehículos procedentes de otras entidades federativas o del extranjero autorizados en su lugar de procedencia para prestar algún servicio de transporte, tanto público como particular, para poder proporcionarlo en el Estado de Yucatán, deberán registrarse ante el Instituto de Movilidad y Desarrollo Urbano Territorial, el cual, previo cumplimiento de las condiciones que establezca el reglamento de esta Ley, y mediante el pago de los derechos correspondientes, le otorgará un permiso especial.
 
 Los titulares de los permisos especiales a que se refiere el párrafo anterior, deberán sujetarse a las disposiciones de esta Ley, su reglamento y demás ordenamientos aplicables.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 11.
 
-Son autoridades estatales en materia de transporte:
+Son autoridades estatales en materia de transporte, las personas que ostentan la titularidad de:
 
-I. El Titular del Ejecutivo del Estado;
+I. El Poder Ejecutivo del estado.
 
-II. El Secretario General de Gobierno;
+II. La Secretaría de Seguridad Pública.
 
-III. El Secretario de Protección y Vialidad; y
-
-IV. El Director de Transporte.
+III. El Instituto de Movilidad y Desarrollo Urbano Territorial.
 
 ###### ARTÍCULO 12.
 
@@ -187,15 +189,19 @@ XI. Establecer mecanismos de consulta tendientes a mejorar el servicio público 
 
 XII. Expedir reglamentos, acuerdos y demás disposiciones normativas necesarias para el cumplimiento de esta Ley;
 
-XIII. Ordenar la ocupación temporal del servicio público de transporte en los casos en que el concesionario no lo preste eficazmente o niegue el servicio;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-XIV. Nombrar al Director de Transporte; y
+XIII. Ordenar la ocupación temporal del servicio público de transporte cuando las personas titulares de las concesiones no lo presten eficazmente o lo nieguen;
+
+XIV. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
 XV. Las demás que le confieran esta Ley y su reglamento u otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 13.
 
-Corresponde al Secretario General de Gobierno, por sí o por medio del Director de Transporte o, en su caso, de los Inspectores de Transporte, ejercer las siguientes atribuciones:
+Corresponde a la persona titular del Instituto de Movilidad y Desarrollo Urbano Territorial ejercer las siguientes atribuciones:
 
 I. Coordinar con los concesionarios y permisionarios la elaboración de programas que tiendan a mejorar el desarrollo del transporte en el Estado de Yucatán;
 
@@ -209,15 +215,21 @@ V. Implementar las medidas necesarias para evitar que se preste el servicio púb
 
 VI. Nombrar a los Inspectores de Transporte;
 
-VII. Determinar y autorizar, conjuntamente con la Secretaría de Protección y Vialidad, la ubicación de los sitios o terminales para la prestación del servicio de transporte así como la reubicación de los mismos; y
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VII. Determinar y autorizar, conjuntamente con la Secretaría de Seguridad Pública, la ubicación de los sitios o terminales para la prestación del servicio de transporte así como su reubicación; y
 
 VIII. Las demás que le confieran esta Ley y su reglamento u otras disposiciones legales aplicables así como aquellas que le delegue el Titular del Ejecutivo del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 14.
 
-Corresponde al Secretario de Protección y Vialidad, por sí o, en su caso, por medio de los Agentes de Policía bajo su mando:
+Corresponde a la persona titular de la Secretaría de Seguridad Pública, por sí o, en su caso, por medio de agentes de policía bajo su mando:
 
-I. Hacer del conocimiento del Secretario General de Gobierno las infracciones que se cometan en contra de las disposiciones contenidas en esta Ley y en su Reglamento;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+I. Hacer del conocimiento de la persona titular del Instituto de Movilidad y Desarrollo Urbano Territorial, las infracciones que se cometan en contra de las disposiciones contenidas en esta ley y en su reglamento;
 
 II. Vigilar el cumplimiento de esta Ley y su Reglamento;
 
@@ -229,17 +241,25 @@ V. Expedir los certificados que se requieren para la inscripción de los vehícu
 
 VI. Expedir las placas de circulación específicas para la prestación del servicio público o particular de transporte;
 
-VII. Determinar y autorizar, conjuntamente con la Secretaría General de Gobierno, la ubicación de los sitios o terminales para la prestación del servicio público o particular de transporte así como la reubicación de los mismos;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VII. Determinar y autorizar, conjuntamente con el Instituto de Movilidad y Desarrollo Urbano Territorial, la ubicación de los sitios o terminales para la prestación del servicio público o particular de transporte así como su reubicación;
 
 VIII. Autorizar, excepcionalmente, los sitios de la vía pública en los que se puedan efectuar el ascenso y descenso de pasajeros así como las maniobras de carga y descarga de bienes; y
 
-IX. Las demás que le confieran esta Ley, su reglamento u otras disposiciones legales aplicables así como aquellas que le delegue el Titular del Ejecutivo del Estado o el Secretario General de Gobierno.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IX. Las demás que le confieran esta ley, su reglamento u otras disposiciones legales aplicables, así como aquellas que le delegue la persona titular del Poder Ejecutivo del estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 15.
 
-Son atribuciones del Director de Transporte, dependiente del Secretario General de Gobierno, por sí, o en su caso, por medio de los Inspectores de Transporte:
+Son atribuciones del Instituto de Movilidad y Desarrollo Urbano Territorial:
 
-I. Proponer al Secretario General de Gobierno el nombramiento de los Inspectores de Transporte;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+I. Designar a quienes realicen las inspecciones de transporte;
 
 II. Determinar los exámenes médicos a que deberán sujetarse los operadores del servicio de transporte, así como la forma en que éstos deberán ser acreditados;
 
@@ -281,19 +301,21 @@ XIV. Solicitar fundada y motivadamente la información necesaria para el adecuad
 
 XV. Determinar el número de vehículos que podrán prestar el servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, según las necesidades de dicho servicio; y
 
-XVI. Las demás que le señalen esta Ley, su reglamento y otros ordenamientos legales aplicables, así como las que le delegue el Secretario General de Gobierno.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+XVI. Las demás que le señalen esta ley, su reglamento y otros ordenamientos legales aplicables.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 16.
 
-El Titular del Ejecutivo Estatal podrá delegar las facultades que le confieren esta Ley y su reglamento, en los demás servidores públicos que esta Ley señala como autoridades en materia de transporte.
+La persona titular del Poder Ejecutivo podrá delegar las facultades que le confieren esta ley y su reglamento en los demás servidores públicos que esta señala como autoridades en materia de transporte.
 
-Las facultades que esta Ley y su reglamento otorgan al Secretario General de Gobierno, podrán ser delegadas, en lo que fuere aplicable, en el Director o en los Inspectores de Transporte.
+Las facultades que esta ley y su reglamento otorgan a la persona titular del Instituto de Movilidad y Desarrollo Urbano Territorial podrán ser delegadas, en lo que fuere aplicable, al personal subordinado bajo su mando.
 
-Las facultades conferidas al Secretario de Protección y Vialidad por esta Ley y su reglamento podrán ser delegadas en algún otro servidor público de la dependencia a su cargo o en los Agentes de Policía bajo su mando.
+Las facultades conferidas a la persona titular de la Secretaría de Seguridad Pública por esta ley y su reglamento podrán ser delegadas en algún otro servidor público de la dependencia a su cargo o en las o los agentes de policía bajo su mando.
 
-Las facultades que esta Ley y su reglamento otorgan al Director de Transporte, podrán ser delegadas en lo que fuere aplicable, en los Inspectores de Transporte.
-
-Las facultades conferidas por esta Ley y su reglamento a las dependencias y unidades administrativas que se señalen, serán ejercidas por sus titulares o por las personas en las que se deleguen tales facultades, de conformidad con los párrafos anteriores.
+Las facultades conferidas por esta ley y su reglamento a las dependencias y unidades administrativas que se señalen serán ejercidas por sus titulares o por las personas en las que se deleguen tales facultades, de conformidad con los párrafos anteriores.
 
 ## TÍTULO SEGUNDO. DEL SERVICIO DE TRANSPORTE
 
@@ -313,15 +335,17 @@ El tipo de transporte de pasajeros se subdivide en público, particular y contra
 
 Las clasificaciones específicas de cada tipo de transporte, las características de los servicios y de los vehículos así como las restricciones para cada caso se establecerán en el reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 18.
 
-La Secretaría General de Gobierno, a través de la Dirección de Transporte integrará y mantendrá actualizado el Registro de Vehículos de Transporte en el Estado, en el que deberán inscribirse:
+El Instituto de Movilidad y Desarrollo Urbano Territorial integrará y mantendrá actualizado el Registro de Vehículos de Transporte en el Estado, en el que deberán inscribirse:
 
 I. Los documentos por los cuales se adquiera, transmita, modifique, grave o extinga la propiedad, la posesión y los demás derechos reales sobre los vehículos y sus motores, así como el arrendamiento de éstos mismos;
 
-> <small>(F. DE E., P.O. 23 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-II. Los certificados a que se refieren los artículos 53 y 54 de esta Ley, y los números de placas de circulación que porten estas unidades, las cuales deberán ser expedidas por la Secretaría de Protección y Vialidad;
+II. Los certificados a que se refieren los artículos 53 y 54 de esta ley, y los números de placas de circulación que porten estas unidades, las cuales deberán ser expedidas por la Secretaría de Seguridad Pública;
 
 > <small>(REFORMADA, D.O. 22 DE JUNIO DE 2016)</small>
 
@@ -385,17 +409,21 @@ Los vehículos e instalaciones del servicio de transporte de pasajeros deberán 
 
 El transporte de carga tiene por objeto el traslado de mercancías, materiales de construcción, animales y, en general, de objetos, utilizando vehículos abiertos o cerrados que garanticen debidamente la entrega oportuna de los mismos, así como su conservación durante el trayecto.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 27.
 
-Las maniobras de carga y descarga deben realizarse dentro de predios o negociaciones que cuenten con rampa o acceso adecuado y con espacio interior suficiente. Como excepción, la Secretaría de Protección y Vialidad podrá autorizar la realización de dichas maniobras en las vías públicas en los lugares y horarios apropiados a fin de evitar de que se entorpezcan los flujos peatonales y de automotores.
+Las maniobras de carga y descarga deben realizarse dentro de predios o negociaciones que cuenten con rampa o acceso adecuado y con espacio interior suficiente. Como excepción, la Secretaría de Seguridad Pública podrá autorizar la realización de dichas maniobras en las vías públicas en los lugares y horarios apropiados, a fin de evitar que se entorpezcan los flujos peatonales y de automotores.
 
 ###### ARTÍCULO 28.
 
 Se prohibe la circulación de vehículos destinados a la prestación del servicio de transporte de carga, tanto público como particular, cuando ésta no cumpla las condiciones que establezca el reglamento de esta Ley.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 29.
 
-Los Inspectores de Transporte y los agentes de la Secretaría de Protección y Vialidad podrán impedir la circulación de un vehículo destinado al servicio público o particular de carga, cuando éste se preste fuera de ruta u horario, con exceso de peso o dimensiones o cuando se viole de manera flagrante alguna disposición de esta Ley y su reglamento.
+Las personas encargadas de la inspección de transporte, y las y los agentes de la Secretaría de Seguridad Pública podrán impedir la circulación de un vehículo destinado al servicio público o particular de carga, cuando este se preste fuera de ruta u horario, con exceso de peso o dimensiones, o cuando se viole de manera flagrante alguna disposición de esta ley o su reglamento.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 22 DE JUNIO DE 2016)</small>
 
@@ -447,13 +475,17 @@ I. Hubiere cumplido con las obligaciones señaladas en esta Ley, en su reglament
 
 II. La solicite en un plazo máximo de seis meses antes de la conclusión de la concesión que estuviere vigente;
 
-III. Hubiere cumplido, durante la vigencia de la concesión, con las recomendaciones que la Dirección de Transporte le hubiere formulado, de acuerdo con las verificaciones sistemáticas practicadas conforme a los indicadores de eficiencia y seguridad que se determinen; y
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+III. Hubiere cumplido, durante la vigencia de la concesión, con las recomendaciones que el Instituto de Movilidad y Desarrollo Urbano Territorial le hubiere formulado, de acuerdo con las verificaciones sistemáticas practicadas conforme a los indicadores de eficiencia y seguridad que se determinen; y
 
 IV. Acepte expresamente las modificaciones que, en su caso, se establezcan a la concesión que se pretende renovar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 34.
 
-Otorgada la concesión, el concesionario deberá presentar a la Secretaría de Protección y Vialidad, dentro de los diez días hábiles siguientes a la fecha de otorgamiento de la misma, el o los vehículos que se destinarán al servicio, para su inspección, a fin de acreditar que reúnen los requisitos para la prestación del mismo, de conformidad con lo establecido en la concesión, en esta Ley y en su reglamento. Satisfechos estos requisitos, la misma Secretaría expedirá un certificado que el concesionario presentará para inscribir él o los vehículos en el Registro que al efecto lleve la Dirección de Transporte.
+Otorgada la concesión, la parte concesionaria deberá presentar a la Secretaría de Seguridad Pública, dentro de los diez días hábiles siguientes a la fecha de su otorgamiento, el vehículo o los vehículos que se destinarán al servicio, para su inspección, a fin de acreditar que reúnen los requisitos para su prestación, de conformidad con lo establecido en la concesión, en esta ley y en su reglamento. Satisfechos estos requisitos, esta Secretaría expedirá un certificado que la parte concesionaria presentará para inscribir él vehículo o los vehículos en el Registro que al efecto lleve el Instituto de Movilidad y Desarrollo Urbano Territorial.
 
 Si el concesionario no cumpliere la disposición a que se refiere el párrafo anterior, la concesión le será revocada.
 
@@ -473,15 +505,23 @@ V. Prestar servicio gratuito en caso de emergencia, desastre o cualquier problem
 
 VI. Entregar, en el caso de transporte público de carga, los bienes en el tiempo convenido y en buen estado;
 
-VII. Someter periódicamente, a su costa, a los operadores de las unidades que se destinen a la prestación del servicio concesionado, a los exámenes médicos que determine la Dirección de Transporte, informando los resultados oportunamente a ésta, de conformidad con lo que establezca el reglamento de esta Ley;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-VIII. Inscribir los vehículos que se destinen a la prestación del servicio concesionado en el Registro que al efecto lleve la Dirección de Transporte;
+VII. Someter periódicamente, a su costa, a quienes operen las unidades que se destinen a la prestación del servicio concesionado y a los exámenes médicos que determine el Instituto de Movilidad y Desarrollo Urbano Territorial, informando los resultados oportunamente a éste, de conformidad con lo que establezca el reglamento de esta ley;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VIII. Inscribir los vehículos que se destinen a la prestación del servicio concesionado en el Registro que al efecto lleve el Instituto de Movilidad y Desarrollo Urbano Territorial;
 
 IX. Vigilar escrupulosamente que el manejo y control efectivo de sus unidades quede encomendado sólo a operadores que posean la licencia correspondiente y cumplan con el perfil y demás requisitos que establezca el reglamento de esta Ley;
 
-X. Integrar y poner a disposición de la Dirección de Transporte, cuando les sean requeridos, los expedientes individuales de sus operadores, los cuales deberán contener la documentación y registros relativos a los hechos de tránsito en que cada uno de ellos haya participado y el resultado de los exámenes médicos a que se hayan sometido, así como las anotaciones pertinentes derivadas de la observación y vigilancia de la conducta y eficacia de dichos operadores;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-XI. Informar, mediante escrito motivado, a la Secretaría General de Gobierno, cuando vayan a dejar de operar el servicio público de transporte en las rutas o zonas otorgadas, con anticipación no menor de treinta días a que ello ocurra, o noventa días si son los únicos prestadores del mismo;
+X. Integrar y poner a disposición del Instituto de Movilidad y Desarrollo Urbano Territorial, cuando les sean requeridos, los expedientes individuales de sus operadores, los cuales deberán contener la documentación y registros relativos a los hechos de tránsito en que cada uno de ellos haya participado y el resultado de los exámenes médicos a que se hayan sometido, así como las anotaciones pertinentes derivadas de la observación y vigilancia de la conducta y eficacia de dichos operadores;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+XI. Informar, mediante escrito motivado, al Instituto de Movilidad y Desarrollo Urbano Territorial cuando vayan a dejar de operar el servicio público de transporte en las rutas o zonas otorgadas, con anticipación no menor de treinta días a que ello ocurra, o noventa días, si son los únicos prestadores;
 
 XII. Someter las unidades destinadas a la prestación del servicio público de transporte a verificación periódica, a efecto de controlar la emisión de contaminantes a la atmósfera, de acuerdo con lo que establezca la legislación en materia ambiental;
 
@@ -519,9 +559,13 @@ ARTÍCULO 40 QUATER. Las empresas de redes de transporte tienen las siguientes o
 
 I. Contar con la constancia vigente;
 
-II. Permitir el uso de sus plataformas tecnológicas únicamente a las personas que cuenten con el certificado vehicular expedido por la Dirección de Transporte;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-III. Proporcionar mensualmente a la Dirección de Transporte el registro de operadores y vehículos inscritos en sus bases de datos, así como cualquier otra información disponible que le solicite por motivos de seguridad o de control fiscal;
+II. Permitir el uso de sus plataformas tecnológicas únicamente a las personas que cuenten con el certificado vehicular expedido por el Instituto de Movilidad y Desarrollo Urbano Territorial;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+III. Proporcionar mensualmente al Instituto de Movilidad y Desarrollo Urbano Territorial el registro de operadores y vehículos inscritos en sus bases de datos, así como cualquier otra información disponible que le solicite por motivos de seguridad o de control fiscal;
 
 IV. Informar oportunamente a la autoridad competente sobre cualquier irregularidad en la prestación del servicio de transporte de pasajeros contratado a través de plataformas tecnológicas o el incumplimiento de esta ley u otras disposiciones legales y normativas aplicables, particularmente, en materia de tránsito y vialidad de la que tengan conocimiento, y
 
@@ -567,9 +611,11 @@ I. Hubiere cumplido con las obligaciones señaladas en esta Ley, en su reglament
 
 II. Lo solicite a más tardar treinta días antes de la conclusión del permiso vigente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 39.
 
-Otorgado el permiso, su titular deberá presentar a la Secretaría de Protección y Vialidad, para su inspección, el o los vehículos que se destinarán al servicio particular de transporte, dentro de los diez días hábiles siguientes al otorgamiento, a fin de acreditar que reúnen los requisitos para su prestación, en los términos de esta Ley y su reglamento. Satisfechos estos requisitos, la misma Secretaría expedirá un certificado que el permisionario presentará para inscribir él o los vehículos en el Registro que al efecto lleve la Dirección de Transporte.
+Otorgado el permiso, su titular deberá presentar a la Secretaría de Seguridad Pública, para su inspección, el vehículo o los vehículos que se destinarán al servicio particular de transporte, dentro de los diez días hábiles siguientes al otorgamiento, a fin de acreditar que reúnen los requisitos para su prestación, en los términos de esta ley y su reglamento. Satisfechos estos requisitos, dicha Secretaría expedirá un certificado que la o el permisionario presentará para inscribir él vehículo o los vehículos en el Registro que al efecto lleve el Instituto de Movilidad y Desarrollo Urbano Territorial.
 
 Si el permisionario no cumpliere con las disposiciones a que se refiere el párrafo anterior, el permiso será revocado.
 
@@ -585,13 +631,21 @@ III. Mantener en buen estado de funcionamiento las unidades de servicio;
 
 IV. Vigilar escrupulosamente que el manejo y control efectivo de sus unidades quede encomendado sólo a operadores que posean la licencia correspondiente y cumplan con el perfil y demás requisitos que establezca el reglamento de esta Ley;
 
-V. Someter periódicamente, a su costa, a los operadores de las unidades que se destinen a la prestación del servicio objeto del permiso, a los exámenes médicos que determine la Dirección de Transporte, informando los resultados oportunamente a ésta, de conformidad con lo que establezca el reglamento de esta Ley;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-VI. Integrar y poner a disposición de la Dirección de Transporte, cuando le sean requeridos, los expedientes individuales de sus operadores, los cuales deberán contener la documentación y registros relativos a los hechos de tránsito en que cada uno de ellos haya participado y el resultado de los exámenes médicos a que se hayan sometido, así como las anotaciones pertinentes derivadas de la observación y vigilancia de la conducta y eficacia de dichos operadores;
+V. Someter periódicamente, a su costa, a quienes operen las unidades que se destinen a la prestación del servicio objeto del permiso y a los exámenes médicos que determine el Instituto de Movilidad y Desarrollo Urbano Territorial, informando los resultados oportunamente a este, de conformidad con lo que establezca el reglamento de esta ley;
 
-VII. Inscribir los vehículos que destine a la prestación del servicio particular de transporte en el Registro que al efecto lleve la Dirección de Transporte;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-VIII. Informar, mediante escrito motivado, a la Secretaría General de Gobierno, cuando vayan a dejar de operar el servicio de transporte en las rutas o zonas otorgadas, cuando menos con treinta días de anticipación a que ello ocurra;
+VI. Integrar y poner a disposición del Instituto de Movilidad y Desarrollo Urbano Territorial, cuando le sean requeridos, los expedientes individuales de sus operadores, los cuales deberán contener la documentación y registros relativos a los hechos de tránsito en que cada uno de ellos haya participado y el resultado de los exámenes médicos a que se hayan sometido, así como las anotaciones pertinentes derivadas de la observación y vigilancia de la conducta y eficacia de dichos operadores;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VII. Inscribir los vehículos que destine a la prestación del servicio particular de transporte en el Registro que al efecto lleve el Instituto de Movilidad y Desarrollo Urbano Territorial;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VIII. Informar, mediante escrito motivado, al Instituto de Movilidad y Desarrollo Urbano Territorial cuando vayan a dejar de operar el servicio de transporte en las rutas o zonas otorgadas, cuando menos con treinta días de anticipación a que ello ocurra;
 
 IX. Someter las unidades destinadas a la prestación del servicio particular a verificación periódica, a efecto de controlar la emisión de contaminantes a la atmósfera, de acuerdo con lo que establezca la legislación en materia ambiental;
 
@@ -605,9 +659,11 @@ XII. Las demás que señalen esta Ley, su reglamento, el permiso y otras disposi
 
 ### CAPÍTULO II TER. DEL CERTIFICADO VEHICULAR
 
-> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
-ARTÍCULO 40 QUINQUIES. El servicio de transporte de pasajeros contratado a través de plataformas tecnológicas solo podrá ser prestado por quienes cuenten con certificado vehicular, expedido por la Dirección de Transporte, previo cumplimiento del procedimiento establecido en el reglamento de esta Ley.
+ARTÍCULO 40 QUINQUIES. El servicio de transporte de pasajeros contratado a través de plataformas tecnológicas solo podrá ser prestado por quienes cuenten con certificado vehicular, expedido por el Instituto de Movilidad y Desarrollo Urbano Territorial, previo cumplimiento del procedimiento establecido en el reglamento de esta ley.
+
+> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2016)</small>
 
 El certificado vehicular tendrá una vigencia de un año y podrá ser renovado siempre que se cumplan los mismos requisitos previstos en esta Ley para su expedición.
 
@@ -643,7 +699,9 @@ II. Abstenerse de prestar el servicio bajo la influencia de alcohol o sustancias
 
 III. Prestar el servicio de conformidad con la tarifa, la ruta y demás términos y condiciones del contrato, así como con las disposiciones establecidas en la Ley de Tránsito y Vialidad del Estado de Yucatán, y su reglamento;
 
-IV. Someterse a las inspecciones que requiera la Dirección de Transporte para verificar el cumplimiento de esta ley y demás disposiciones legales y normativas aplicables;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IV. Someterse a las inspecciones que requiera el Instituto de Movilidad y Desarrollo Urbano Territorial para verificar el cumplimiento de esta ley y demás disposiciones legales y normativas aplicables;
 
 V. Informar a la autoridad competente sobre cualquier irregularidad en la prestación del servicio de transporte de pasajeros contratado mediante plataformas tecnológicas o el incumplimiento de esta ley u otras disposiciones legales y normativas aplicables;
 
@@ -664,6 +722,8 @@ IX. Entregar una copia de la póliza del seguro vehicular a que se refiere el ar
 ### CAPÍTULO I. DE LAS TARIFAS
 
 ### CAPÍTULO II. DE LOS PESOS Y MEDIDAS Y DE LAS DEMÁS CARACTERÍSTICAS DE LOS VEHÍCULOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
 ### CAPÍTULO III. DE LAS MEDIDAS DE SEGURIDAD
 
@@ -689,9 +749,11 @@ IV. La ruta o el municipio en el que se prestará el servicio, en términos del 
 
 V. Su vigencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 42.
 
-Los vehículos autorizados mediante concesión o permiso, para la prestación de algún servicio de transporte, no podrán proporcionarlo hasta en tanto no cuenten con placa de circulación específica para el servicio que se preste, cuya expedición estará a cargo de la Secretaría de Protección y Vialidad, de conformidad con lo que establezca la legislación aplicable.
+Los vehículos autorizados mediante concesión o permiso para la prestación de algún servicio de transporte no podrán proporcionarlo hasta en tanto no cuenten con placa de circulación específica para el servicio que se preste, cuya expedición estará a cargo de la Secretaría de Seguridad Pública, de conformidad con lo que establezca la legislación aplicable.
 
 La expedición y renovación de la placa a que se refiere el párrafo anterior, se sujetará a lo que disponga la legislación aplicable.
 
@@ -799,21 +861,27 @@ Las tarifas, una vez aprobadas, se publicarán para su cumplimiento en el Diario
 
 ### CAPÍTULO I. DE LA INSPECCIÓN Y VIGILANCIA
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 52.
 
-Cuando se requiera transportar maquinaria pesada u otros objetos cuyas dimensiones o peso excedan de lo autorizado en el reglamento de esta Ley, los concesionarios o permisionarios deberán obtener un permiso especial que será expedido por la Dirección de Transporte, mismo que tendrá una vigencia limitada y contendrá las especificaciones siguientes:
+Cuando se requiera transportar maquinaria pesada u otros objetos cuyas dimensiones o peso excedan de lo autorizado en el reglamento de esta ley, las personas concesionarias o permisionarias deberán obtener un permiso especial que será expedido por el Instituto de Movilidad y Desarrollo Urbano Territorial, el cual tendrá una vigencia limitada y contendrá las especificaciones siguientes:
 
 a) Tipo de carga a transportar; y
 
 b) Ruta a seguir.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 53.
 
-Para que transiten en las vías terrestres estatales los vehículos destinados al servicio público o particular, de transporte de carga cuya capacidad útil mínima sea de tres mil kilogramos o mayor, los concesionarios deberán obtener un certificado de pesos, dimensiones y medidas, expedido por la Secretaría de Protección y Vialidad.
+Para que transiten en las vías terrestres estatales los vehículos destinados al servicio público o particular de transporte de carga cuya capacidad útil mínima sea de tres mil kilogramos o mayor, quienes sean concesionarios deberán obtener un certificado de pesos, dimensiones y medidas, expedido por la Secretaría de Seguridad Pública.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 54.
 
-Para que las unidades destinadas al servicio público o particular de transporte de pasajeros puedan prestar el servicio autorizado, los concesionarios o permisionarios deberán obtener un certificado de capacidad, dimensiones y medidas de dichas unidades, expedido por la Dirección de Transporte.
+Para que las unidades destinadas al servicio público o particular de transporte de pasajeros puedan prestar el servicio autorizado, las o los concesionarios o permisionarios deberán obtener un certificado de capacidad, dimensiones y medidas de dichas unidades, expedido por el Instituto de Movilidad y Desarrollo Urbano Territorial.
 
 ###### ARTÍCULO 55.
 
@@ -823,9 +891,11 @@ Los certificados a que hacen referencia los artículos anteriores deberán ser r
 
 Los vehículos que se destinen al servicio público o particular de transporte de carga o de pasajeros no podrán excederse de las medidas de ancho, alto y largo que establezca para cada caso el reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 57.
 
-Los vehículos que se destinen al servicio público o particular de transporte de carga cuya capacidad exceda de diez mil kilogramos no podrán circular en el interior de los centros de población. En los casos en que por circunstancias especiales, sea necesaria la carga o descarga, en dicha área, de bienes contenidos en este tipo de unidades, la Secretaría de Protección y Vialidad, podrá autorizar que tales maniobras se realicen en la misma, de conformidad con lo que establezca la legislación aplicable, comunicándolo a la Dirección de Transporte.
+Los vehículos que se destinen al servicio público o particular de transporte de carga cuya capacidad exceda de diez mil kilogramos no podrán circular en el interior de los centros de población. En los casos en que, por circunstancias especiales, sea necesaria la carga o descarga, en dichas áreas, de bienes contenidos en este tipo de unidades, la Secretaría de Seguridad Pública podrá autorizar que tales maniobras se realicen, de conformidad con lo que establezca la legislación aplicable, comunicándolo al Instituto de Movilidad y Desarrollo Urbano Territorial.
 
 Estas autorizaciones contendrán los datos de los vehículos a los que se permita circular en el interior de los centros de población así como del tipo de carga que se transporte, serán intransferibles y dichos vehículos no podrán transportar carga distinta de la que señale la autorización respectiva.
 
@@ -839,6 +909,8 @@ Los vehículos destinados a la prestación de los servicios públicos de pasajer
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 60.
 
 Todo concesionario o permisionario deberá observar las medidas pertinentes de seguridad a fin de evitar daños a los pasajeros, a los operadores, a la carga que transporten, a la vía pública y a los bienes o personas que se encuentren en la misma.
@@ -847,17 +919,21 @@ Todo concesionario o permisionario deberá observar las medidas pertinentes de s
 
 Queda prohibido conducir vehículos destinados a los servicios de transporte que establece esta Ley, a personas que hayan consumido bebidas alcohólicas o cualquier otra droga o medicamento que disminuya sus facultades físicas o mentales.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 62.
 
-Los concesionarios o permisionarios deberán acreditar, cuando sean requeridos por la Dirección de Transporte y a satisfacción de ésta, el adecuado funcionamiento de los vehículos destinados al servicio de transporte, además de cumplir con las disposiciones que se refieran a la protección del medio ambiente, en los términos que establezca la Ley de la materia.
+Las o los concesionarios o permisionarios deberán acreditar, cuando sea requerido por el Instituto de Movilidad y Desarrollo Urbano Territorial y a satisfacción de este, el adecuado funcionamiento de los vehículos destinados al servicio de transporte, además de cumplir con las disposiciones que se refieran a la protección del medio ambiente, en los términos que establezca la legislación aplicable.
 
 ###### ARTÍCULO 63.
 
 Los operadores de cualquier tipo de vehículos de transporte en el Estado deberán observar y cumplir las disposiciones de vialidad vigentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 64.
 
-La Dirección de Transporte, diseñará e instrumentará programas permanentes de seguridad en materia de transporte con el fin de mejorar de manera permanente la prestación del servicio, orientados a las siguientes personas:
+El Instituto de Movilidad y Desarrollo Urbano Territorial diseñará e instrumentará programas permanentes de seguridad en materia de transporte, con el fin de mejorar de manera permanente la prestación del servicio, orientados a las siguientes personas:
 
 I. A los concesionarios y permisionarios;
 
@@ -869,23 +945,27 @@ III. A los Inspectores de Transporte.
 
 El Ejecutivo del Estado podrá construir y operar terminales de pasajeros y de carga, las cuales podrán ser concesionadas a particulares previa satisfacción de los requisitos que establezca el reglamento de esta Ley.
 
-Los concesionarios del servicio público de transporte están obligados a construir o habilitar, a su costa, terminales de pasajeros o de carga, según sea el caso, previa autorización de la Secretaría General de Gobierno en coordinación con la Secretaría de Protección y Vialidad, para el ascenso y descenso de pasajeros y para la realización de las maniobras de carga y descarga. El reglamento de esta Ley establecerá las condiciones de construcción, habilitación y conservación de las terminales.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Quien tenga la concesión del servicio público de transporte están obligados a construir o habilitar, a su costa, terminales de pasajeros o de carga, según sea el caso, previa autorización del Instituto de Movilidad y Desarrollo Urbano Territorial, en coordinación con la Secretaría de Seguridad Pública, para el ascenso y descenso de pasajeros y para la realización de las maniobras de carga y descarga. El reglamento de esta ley establecerá las condiciones de construcción, habilitación y conservación de las terminales.
 
 Se exceptúan de la obligación establecida en el párrafo anterior, los concesionarios que utilicen las terminales que opere o concesione el Ejecutivo del Estado.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 66.
 
-No podrán utilizarse las vías públicas como terminales, salvo por autorización expresa de la Secretaría de Protección y Vialidad, la cual se otorgará en los términos y condiciones que establezca la legislación aplicable, comunicándose dicha autorización a la Dirección de Transporte.
+No podrán utilizarse las vías públicas como terminales, salvo por autorización expresa de la Secretaría de Seguridad Pública, la cual se otorgará en los términos y condiciones que establezca la legislación aplicable, y se hará del conocimiento del Instituto de Movilidad y Desarrollo Urbano Territorial.
 
 ###### ARTÍCULO 67.
 
 Los concesionarios del servicio público de transporte deberán adoptar en sus terminales las medidas necesarias para que puedan atender adecuadamente a las personas con discapacidad y a las de edad avanzada, en los términos que establecen las leyes de la materia.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 68.
 
-Los concesionarios deberán elaborar programas indicativos de inversiones en materia de construcción, conservación y mantenimiento de los sitios y terminales en los que deberán incluir las medidas específicas relacionadas con la seguridad y la protección al ambiente, y ponerlos a disposición de la Dirección de Transporte.
-
-Para realizar modificaciones distintas a las estipuladas en los programas respectivos, deberá solicitarse una autorización especial.
+Quienes tengan la concesión deberán elaborar programas indicativos de inversiones en materia de construcción, conservación y mantenimiento de los sitios y terminales, en los cuales deberán incluir las medidas específicas relacionadas con la seguridad y la protección al ambiente, y ponerlos a disposición del Instituto de Movilidad y Desarrollo Urbano Territorial.
 
 ###### ARTÍCULO 69.
 
@@ -903,17 +983,21 @@ III. No hacer reparaciones o lavar los vehículos en la vía pública; y
 
 IV. Conservar limpia el área designada para los vehículos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 71.
 
-La Secretaría General de Gobierno, en coordinación con la Secretaría de Protección y Vialidad podrá determinar el cambio de cualquier sitio o terminal de vehículos que presten servicio público o particular de transporte de pasajeros, en los siguientes casos:
+El Instituto de Movilidad y Desarrollo Urbano Territorial, en coordinación con la Secretaría de Seguridad Pública, podrá determinar el cambio de cualquier sitio o terminal de vehículos que presten servicio público o particular de transporte de pasajeros, en los siguientes casos:
 
 I. Cuando se originen molestias al público u obstaculicen la circulación de peatones y vehículos; y
 
 II. Por causa de interés público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 72.
 
-La Secretaría de Protección y Vialidad, en coordinación con la Secretaría General de Gobierno, determinará los lugares destinados para las paradas momentáneas en la vía pública que deberán efectuar los vehículos que presten el servicio público de transporte de pasajeros, las cuales deberán contar con cobertizos o con zonas delimitadas de ascenso y descenso de pasaje.
+La Secretaría de Seguridad Pública, en coordinación con el Instituto de Movilidad y Desarrollo Urbano Territorial, determinará los lugares destinados para las paradas momentáneas en la vía pública que deberán efectuar los vehículos que presten el servicio público de transporte de pasajeros, las cuales deberán contar con cobertizos o con zonas delimitadas de ascenso y descenso de pasaje.
 
 En ningún caso podrá autorizarse a los operadores la realización de paradas de ascenso o descenso en la vía pública a menos de veinte metros respecto del final o inicio de una esquina.
 
@@ -1013,33 +1097,39 @@ V. Cuando sean falsas las declaraciones o instrucciones del usuario, o destinata
 
 ###### ARTÍCULO 85.
 
-La Secretaría General de Gobierno, a través de la Dirección de Transporte, con el auxilio de la Secretaría de Protección y Vialidad, tendrá a su cargo la inspección y vigilancia de los servicios de transporte a fin de garantizar el cumplimiento de esta Ley, su reglamento y demás disposiciones legales aplicables. Para tal efecto, podrán requerir en cualquier tiempo, a los concesionarios o permisionarios informes con los datos técnicos, administrativos y estadísticos, que le permitan conocer la situación como están operando las concesiones y permisos que han recibido.
+El Instituto de Movilidad y Desarrollo Urbano Territorial, con el auxilio de la Secretaría de Seguridad Pública, tendrá a su cargo la inspección y vigilancia de los servicios de transporte, a fin de garantizar el cumplimiento de esta ley, su reglamento y demás disposiciones legales aplicables. Para tal efecto, podrán requerir, en cualquier tiempo, a las y los concesionarios o permisionarios informes con los datos técnicos, administrativos y estadísticos que le permitan conocer la situación de cómo están operando las concesiones y permisos que han recibido.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 86.
 
-La Secretaría General de Gobierno podrá ordenar la realización de visitas de inspección general y de verificación de vehículos, las cuales podrán ser ordinarias y extraordinarias; las primeras se efectuarán, previo aviso, en días y horas hábiles, y las segundas en cualquier tiempo dentro del horario de servicio autorizado.
+El Instituto de Movilidad y Desarrollo Urbano Territorial podrá ordenar la realización de visitas de inspección general y de verificación de vehículos, las cuales podrán ser ordinarias y extraordinarias. Las primeras se efectuarán, previo aviso, en días y horas hábiles, y las segundas en cualquier tiempo dentro del horario de servicio autorizado.
 
 ###### ARTÍCULO 87.
 
 Las visitas deberán ajustarse a las disposiciones reglamentarias, y deberá levantarse un acta circunstanciada de las mismas, de la cual se dejará copia a la persona con quien se haya entendido la diligencia.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 88.
 
-Las Autoridades competentes en materia de Salud, en coordinación con la Secretaría General de Gobierno, vigilarán las condiciones y medios de control en el transporte de comestibles y bebidas con base en el convenio que suscriban al efecto.
+Las autoridades competentes en materia de salud, en coordinación con el Instituto de Movilidad y Desarrollo Urbano Territorial, vigilarán las condiciones y medios de control en el transporte de comestibles y bebidas, con base en el convenio que suscriban al efecto.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 89.
 
-La Secretaría de Ecología, en coordinación con las Secretarías General de Gobierno y de Protección y Vialidad realizará el control y revisión de los vehículos en lo relativo a la protección del medio ambiente, con base en el convenio que suscriban al efecto.
+La Secretaría de Desarrollo Sustentable, en coordinación con el Instituto de Movilidad y Desarrollo Urbano Territorial y la Secretaría de Seguridad Pública, realizará el control y revisión de los vehículos en lo relativo a la protección del medio ambiente, con base en el convenio que suscriban al efecto.
 
 ###### ARTÍCULO 90.
 
-Las infracciones a lo dispuesto por esta Ley y su reglamento, serán sancionadas por la Secretaría General de Gobierno, a través de la Dirección de Transporte, con el auxilio de la Secretaría de Protección y Vialidad en el desempeño de su labor de vigilancia y verificación. Las sanciones pecuniarias se harán efectivas por la Secretaría de Hacienda y Planeación del Gobierno del Estado de acuerdo con el procedimiento que establezca la legislación respectiva.
+Las infracciones a lo dispuesto por esta ley y su reglamento serán sancionadas por el Instituto de Movilidad y Desarrollo Urbano Territorial, con el auxilio de la Secretaría de Seguridad Pública en el desempeño de su labor de vigilancia y verificación. Las sanciones pecuniarias se harán efectivas por la Secretaría de Administración y Finanzas, de acuerdo con el procedimiento que establezca la legislación respectiva.
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 91.
 
-Independientemente de la suspensión o revocación de las concesiones o permisos, en los casos en que tales medidas fueren procedentes, la Secretaria General de Gobierno, a través de la Dirección de Transporte, con el auxilio de la Secretaria de Seguridad Pública del Estado, estará facultada para imponer multas de veinticinco a mil unidades de medida y actualización por infracciones a esta ley, de acuerdo con lo que establezca de manera particular el reglamento de esta ley.
+Independientemente de la suspensión o revocación de las concesiones o permisos, en los casos en que tales medidas fueren procedentes, el Instituto de Movilidad y Desarrollo Urbano Territorial, con el auxilio de la Secretaría de Seguridad Pública, estará facultada (sic) para imponer multas de veinticinco a mil unidades de medida y actualización por infracciones a esta ley, de acuerdo con lo que establezca de manera particular su reglamento.
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
@@ -1057,9 +1147,11 @@ Para efectos de esta Ley, se considera que existe reincidencia cuando se comete 
 
 Las sanciones que se señalan en este Capítulo se aplicarán sin perjuicio de la responsabilidad civil o penal que resulte, ni de la suspensión o revocación que proceda.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTÍCULO 95.
 
-Cuando además de las infracciones a que se refiere este Capítulo resultare cometido algún delito, la Secretaría General de Gobierno, a través de la Dirección de Transporte o la Secretaría de Protección y Vialidad pondrán en conocimiento de la autoridad competente los hechos para los efectos legales que correspondan.
+Cuando, además de las infracciones a que se refiere este capítulo, se cometiera algún delito, el Instituto de Movilidad y Desarrollo Urbano Territorial o la Secretaría de Seguridad Pública, según corresponda, harán del conocimiento de la autoridad competente los hechos, para los efectos legales que correspondan.
 
 ###### ARTÍCULO 96.
 
@@ -1116,3 +1208,19 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
