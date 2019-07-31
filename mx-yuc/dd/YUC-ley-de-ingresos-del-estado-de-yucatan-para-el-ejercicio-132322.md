@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-ingresos-del-estado-de-yucatan-para-el-ejercicio-132322"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE INGRESOS DEL ESTADO DE YUCATÁN PARA EL EJERCICIO FISCAL 2019
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 31 de diciembre de 2018.
 
@@ -58,6 +58,8 @@ Ingresos
 Los ingresos que el estado de Yucatán perciba durante el ejercicio fiscal 2019 serán los provenientes de los rubros, tipos y en las cantidades estimadas, que a continuación se enumeran:
 
 > <small>[N. DE E. VÉASE TABLA EN D.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 26 A LA 32.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, D.O. DE 31 DE JULIO DE 2019, PÁGINAS DE LA 81 A LA 82.]</small>
 
 Cuando una ley que establezca alguno de los ingresos previstos en este artículo, contenga disposiciones que señalen otros ingresos, estos últimos se considerarán comprendidos en el rubro, tipo o clase que corresponda a los ingresos del primero.
 
@@ -330,3 +332,39 @@ Gobernador del Estado de Yucatán
 Abog. María Dolores Fritz Sierra
 
 Secretaria general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 98/2019 POR EL QUE SE AUTORIZA AL PODER EJECUTIVO DEL ESTADO DE YUCATÁN PARA CONTRATAR EMPRÉSTITOS QUE SE DESTINARÁN A INVERSIONES PÚBLICAS PRODUCTIVAS CUYO OBJETIVO SERÁ LA IMPLEMENTACIÓN DEL SISTEMA INTEGRAL DE SEGURIDAD ELECTRÓNICA DENOMINADO “FORTALECIMIENTO TECNOLÓGICO DE SEGURIDAD Y MONITOREO, YUCATÁN SEGURO”, Y PARA AFECTAR INGRESOS Y DERECHOS CORRESPONDIENTES AL FONDO GENERAL DE PARTICIPACIONES, COMO FUENTE DE PAGO DE LA OPERACIÓN DE FINANCIAMIENTO; Y SE MODIFICA LA LEY DE INGRESOS DEL ESTADO DE YUCATÁN PARA EL EJERCICIO FISCAL 2019".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el registro
+
+El o los financiamientos que se contraten al amparo de este decreto se deberán inscribir en el Registro de Empréstitos y Obligaciones del Estado de Yucatán, a cargo de la Secretaría de Administración y Finanzas, así como en el Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios, a cargo de la Secretaría de Hacienda y Crédito Público.
+
+Tercero. Adecuaciones presupuestales
+
+El Poder Ejecutivo del Estado, con base en esta autorización y a efecto de prever el monto o partidas para el servicio de la deuda que contraiga al contratar el financiamiento autorizado, deberá realizar las adecuaciones presupuestales y las relativas al ejercicio de los recursos derivados de este financiamiento, de conformidad con las disposiciones establecidas en la Ley de Presupuesto y Contabilidad Gubernamental del Estado de Yucatán y su reglamento.
+
+Cuarto. Informes trimestrales
+
+La Secretaría de Administración y Finanzas deberá incorporar a los informes trimestrales de las finanzas públicas un mecanismo en el que se informe sobre la aplicación y destino de los recursos objeto de la autorización a que se refiere este decreto.
+
+Quinto. Comité de seguimiento
+
+El Poder Ejecutivo del estado conformará un comité, que tenga como objeto dar seguimiento al ejercicio, aplicación, desarrollo del proyecto y destino de los recursos autorizados en este decreto. Se convocará a participar a este comité entre otros, a los representantes de las principales cámaras empresariales del estado, a organizaciones de la sociedad civil, así como al Colegio de Contadores Públicos de Yucatán, el Centro de Investigación y Estudios de Antropología Social (CIESAS), y una institución de educación superior del estado.
+
+A las reuniones convocadas por dicho comité concurrirán por lo menos dos diputados designados por la Junta de Gobierno y Coordinación Política en representación del Congreso del Estado.
+
+Este órgano deberá constituirse y sesionar máximo 30 días posteriores al ejercicio inicial de los recursos.
+
+El comité deberá de aprobar su reglamento interno dentro de los 30 días siguientes a su instalación, y publicarse en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Sexto. De las economías o ahorros
+
+Una vez cumplidos los objetivos y metas del Programa Yucatán Seguro, a que se refiere el presente Decreto, y para el caso de que existan economías o ahorros en el ejercicio de los recursos autorizados, estas se destinarán para la adquisición de vehículos Z BACKSCATTER VAN ZBV clase S con sistema de inspección de carga y vehículos no intrusiva, equipados con rayos X para la detección y prevención de delitos, así como para la adquisición de carro patrullas destinadas a municipios del Estado de Yucatán.
