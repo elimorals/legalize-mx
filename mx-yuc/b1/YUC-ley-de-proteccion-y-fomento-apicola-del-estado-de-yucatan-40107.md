@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proteccion-y-fomento-apicola-del-estado-de-yucatan-40107
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-06"
-last_updated: "2016-12-28"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 6 de julio de 2004.
 
@@ -161,9 +161,9 @@ XVI.- COMITÉ SISTEMA PRODUCTO APÍCOLA DEL ESTADO DE YUCATÁN: Es un órgano es
 
 XVII.- SAGARPA: A la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-XVIII.- SECRETARIA: Secretaría de Desarrollo Rural y Pesca del Gobierno del Estado de Yucatán;
+XVIII.- SECRETARIA: la Secretaría de Desarrollo Rural;
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
@@ -177,7 +177,9 @@ Son autoridades competentes para la aplicación de esta ley, en los términos qu
 
 I.- El Ejecutivo del Estado.
 
-II.- La Secretaría de Desarrollo Rural y Pesca del Gobierno del Estado.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+II.- La Secretaría de Desarrollo Rural.
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
@@ -233,13 +235,15 @@ XV.- La Representación Estatal de la Comisión Nacional Forestal.
 
 XVI.- La Comisión Nacional de Derechos Indígenas.
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES DE LA SECRETARÍA DE DESARROLLO RURAL Y PESCA
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE DICIEMBRE DE 2006)</small>
+### CAPÍTULO III. DE LAS ATRIBUCIONES DE LA SECRETARÍA DE DESARROLLO RURAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 7.
 
-La Secretaría de Desarrollo Rural y Pesca, tendrá las siguientes facultades y obligaciones:
+La Secretaría de Desarrollo Rural, tendrá las siguientes atribuciones:
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
@@ -855,9 +859,9 @@ Los recursos que hasta la entrada en vigor del presente Decreto se encuentren en
 
 El Ejecutivo del Estado deberá expedir las reformas al Reglamento de la Ley en un término que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
 
-D.O. 28. DE DICIEMBRE DE 2016.
+D.O. 28 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
 
 Primero. Entrada en vigor
 
@@ -866,3 +870,19 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
