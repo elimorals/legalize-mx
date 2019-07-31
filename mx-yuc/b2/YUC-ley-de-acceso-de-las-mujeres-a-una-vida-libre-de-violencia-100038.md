@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1000
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-01"
-last_updated: "2019-07-03"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
-Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de Abril de 2014.
+Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de abril de 2014.
 
 Rolando Rodrigo Zapata Bello, Gobernador del Estado de Yucatán, con fundamento en los artículos 38 y 60 de la Constitución Política del Estado de Yucatán; y 14, fracciones VII y IX, del Código de la Administración Pública de Yucatán, a sus habitantes hago saber, que el H. Congreso del Estado de Yucatán se ha servido dirigirme el siguiente decreto:
 
@@ -63,7 +63,9 @@ II. Bienestar Obstétrico: el conjunto de factores que participan en el respeto 
 
 III. Consejo estatal: el Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres.
 
-IV. Derechos humanos de las mujeres: los derechos humanos enunciados en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado mexicano sea parte y en la Constitución Política del Estado de Yucatán.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IV. Derechos humanos de las mujeres: los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados y convenciones internacionales de los que el Estado mexicano sea parte, así como en la Constitución Política del Estado de Yucatán y en las leyes locales en la materia.
 
 > <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -77,9 +79,9 @@ VI. Misoginia: la aversión u odio a las mujeres que pueden derivar en alguno de
 
 VII. Modalidades de violencia: las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres, a que se refiere el artículo 7.
 
-> <small>(REFORMADA, D.O. 22 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-VIII. Perspectiva de género: la visión científica, analítica y política sobre las mujeres y los hombres, direccionada a eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género.
+VIII. Perspectiva de género: la visión científica, analítica y política encaminada a promover la igualdad entre mujeres y hombres a través de la transversalidad de género, igualdad de trato y oportunidades que permitan a la mujer acceder a los recursos económicos, a la representación política y social y en general a su empoderamiento, procurando eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género.
 
 IX. Programa especial: el Programa Especial para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado de Yucatán.
 
@@ -89,9 +91,9 @@ X. Sistema estatal: el Sistema Estatal para Prevenir, Atender, Sancionar y Errad
 
 XI. Víctima: la niña, adolescente o mujer de cualquier edad a quien se le inflige algún tipo de violencia contra las mujeres.
 
-> <small>(REFORMADA, D.O. 22 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-XII. Violencia contra las mujeres: la acción u omisión, por motivos de género, de violencia económica, física, patrimonial, psicológica o sexual contra las mujeres, en términos del artículo 6 de esta ley.
+XII. Violencia contra las mujeres: la acción u omisión por motivo de género, que tenga como resultado violencia económica, física, psicológica, sexual, estética, obstétrica o cause la muerte de la mujer, en términos del artículo 6 de esta ley; tanto en el ámbito privado como en el público.
 
 ###### Artículo 3.
 
@@ -185,7 +187,15 @@ Asimismo, será considerado como violencia, cualquier acción discriminatoria, q
 
 VI. Violencia feminicida: es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en el ámbito público y privado, conformada por el conjunto de conductas misóginas que pueden llevar a la impunidad y a una perturbación social en un territorio determinado.
 
-VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VII. Violencia obstétrica: es la acción u omisión por parte del personal de salud que cause daño físico o psicológico a la mujer durante el embarazo, parto o la etapa del puerperio o posparto, ocasionada, entre otros, por la falta de acceso a servicios de salud reproductiva, tratos crueles, inhumanos o degradantes.
+
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VIII. Violencia estética: es cualquier acción u omisión que ejerce una persona sobre otra, sin su consentimiento o bajo amenazas, para realizar un cambio físico con el objeto de cumplir con modelos, estereotipos y patrones de belleza, que pueden tener como resultado un daño permanente, psicológico, físico o la muerte.
+
+IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -241,6 +251,14 @@ En la aplicación de la ley deberán tomarse en cuenta los principios consagrado
 
 Cuando exista alguna controversia durante la aplicación de esta ley, con relación a las diferentes interpretaciones derivadas de los instrumentos internacionales aplicables en la materia, se deberá preferir aquella que proteja con mayor eficacia a las mujeres y a los grupos que sean afectados por conductas discriminatorias inequitativas o violentas.
 
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Artículo 8 bis. Alerta de violencia de género
+
+La alerta de violencia de género contra las mujeres es el conjunto de acciones gubernamentales de emergencia, emitida por la Secretaría de Gobernación Federal, que tienen como objetivo fundamental garantizar la seguridad de las mujeres, el cese de la violencia en su contra y eliminar las desigualdades producidas por una legislación que agravia sus derechos humanos.
+
+En caso de que una alerta de violencia de género contra las mujeres sea notificada al estado, derivado del cumplimiento de alguno de los supuestos previstos en el artículo 24 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, el Gobierno estatal deberá proceder en términos del artículo 23 de la ley general referida.
+
 ## Título segundo. Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
 
 ### Capítulo I. Disposiciones generales
@@ -271,17 +289,23 @@ e) La Secretaría de Seguridad Pública.
 
 f) La Fiscalía General del Estado.
 
-g) La Secretaría del Trabajo y Previsión Social.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
-> <small>(REFORMADO, D.O. 4 DE MARZO DE 2016)</small>
+g) La Secretaría de Fomento Económico y Trabajo.
 
-h) El Instituto para la Igualdad entre Mujeres y Hombres en Yucatán.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+h) La Secretaría de las Mujeres.
 
 i) El Sistema para el Desarrollo Integral de la Familia.
 
 > <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
 j) La Comisión Ejecutiva Estatal de Atención a Víctimas.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
+k) La Consejería Jurídica.
 
 II. El Poder Judicial del Estado de Yucatán.
 
@@ -315,9 +339,9 @@ III. Mantener en estricta confidencialidad la identidad de las víctimas, así c
 
 IV. Llevar un registro estadístico de los casos de violencia que sean de su conocimiento y de las medidas de atención aplicadas.
 
-> <small>(REFORMADA, D.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-V. Proporcionar la información y los datos estadísticos que requieran las autoridades e instituciones encargadas de efectuar investigaciones en materia de violencia contra las mujeres, particularmente la requerida por el Instituto para la Igualdad entre Mujeres y Hombres en Yucatán para la integración del Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
+V. Proporcionar la información y los datos estadísticos que requieran las autoridades e instituciones encargadas de efectuar investigaciones en materia de violencia contra las mujeres, particularmente la requerida por la Secretaría de las Mujeres para la integración del Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
 
 VI. Canalizar a las víctimas a los servicios de atención prestados por otras autoridades, a los refugios temporales o a cualquier institución que preste asistencia y protección.
 
@@ -328,6 +352,10 @@ VIII. Capacitar a los servidores públicos adscritos en materia de derechos huma
 > <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
 IX. Participar, dentro del ámbito de su competencia, en la Red Interinstitucional de Atención a Hombres que ejercen Violencia de Género.
+
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2019)</small>
+
+X. Establecer unidades especializadas de atención a la violencia de género, en caso de que proporcionen acompañamiento legal a las mujeres, a excepción de la Secretaría de las Mujeres.
 
 ###### Artículo 13.
 
@@ -367,7 +395,15 @@ VI. Difundir, a través de los medios de comunicación, los resultados del siste
 
 VII. Coordinar, diseñar e implementar programas y acciones orientados a la prevención de los delitos relacionados con la violencia contra las mujeres.
 
-VIII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VIII. Supervisar, coordinar y operar el Centro de Atención y Reeducación para Hombres que ejercen Violencia de Género.
+
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IX. Supervisar y coordinar las actividades de la Red Interinstitucional de Atención a Hombres que ejercen Violencia de Género.
+
+X. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 15.
 
@@ -377,9 +413,9 @@ La Secretaría de Salud, en el ámbito de su competencia, tendrá las atribucion
 
 I. Otorgar, a través de las instituciones del sector salud, atención médica y psicológica con perspectiva de género a las víctimas.
 
-> <small>(REFORMADA, D.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-II. Colaborar con el Instituto para la Igualdad entre Mujeres y Hombres en Yucatán en la prestación de servicios reeducativos integrales para las víctimas y los agresores.
+II. Colaborar con la Secretaría de las Mujeres en la prestación de servicios reeducativos integrales para las víctimas y los agresores.
 
 > <small>(ADICIONADA, D.O. 22 DE MARZO DE 2016)</small>
 
@@ -471,11 +507,15 @@ VII. Elaborar y aplicar protocolos especializados de investigación y resolució
 
 VIII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 20.
 
-Secretaría del Trabajo y Previsión Social
+Secretaría de Fomento Económico y Trabajo
 
-La Secretaría de Trabajo y previsión Social, en el ámbito, de su competencia, tendrá las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
+La Secretaría de Fomento Económico y Trabajo, en el ámbito de su competencia, tendrá las atribuciones siguientes:
 
 I. Desarrollar programas y acciones dirigidos a prevenir, atender, sancionar o erradicar la violencia laboral.
 
@@ -483,9 +523,9 @@ II. Otorgar asesoría jurídica a las víctimas de violencia laboral, para la pr
 
 III. Establecer mecanismos que favorezcan la erradicación de conductas de hostigamiento y acoso sexual en centros laborales públicos y privados.
 
-> <small>(REFORMADA, D.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-IV. Promover, en coordinación con el Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, la realización de cursos y talleres en los centros de trabajo para prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
+IV. Promover, en coordinación con la Secretaría de las Mujeres, la realización de cursos y talleres en los centros de trabajo para prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
 
 V. Diseñar campañas de difusión para impulsar la igualdad de género salarial y prevenir que las empresas exijan certificados de no gravidez para otorgar empleos.
 
@@ -495,15 +535,15 @@ VI. Promover políticas de igualdad de condiciones y oportunidades entre mujeres
 
 VII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
-> <small>(REFORMADO SU EPÍGRAFE, D.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 21.
 
-Instituto para la Igualdad entre Mujeres y Hombres en Yucatán
+Secretaría de las Mujeres
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
-El Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, en el ámbito de su competencia, tendrá las atribuciones siguientes:
+La Secretaría de las Mujeres, en el ámbito de su competencia, tendrá las atribuciones siguientes:
 
 I. Implementar y, en su caso, proponer a las autoridades encargadas de la aplicación de esta ley, las políticas, los programas y las acciones que consideren pertinentes, con la finalidad de prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
 
@@ -531,9 +571,7 @@ XI. Promover una imagen de las mujeres libres de prejuicios y estereotipos, así
 
 XII. Implementar políticas públicas orientadas a los agresores y encaminadas a la erradicación de los estereotipos que permiten la perpetuación de los patrones de conducta que legitiman la violencia de género.
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
-
-XIII. Supervisar y coordinar las actividades de la Red Interinstitucional de Atención a Hombres que ejercen Violencia de Género.
+XIII. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
 XIV. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
@@ -547,9 +585,9 @@ El Sistema para el Desarrollo Integral de la Familia en Yucatán, en el ámbito 
 
 I. Proporcionar atención psicológica y legal, especializada y gratuita, a las mujeres que sean víctimas de violencia familiar, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia.
 
-> <small>(REFORMADA, D.O. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-II. Colaborar con el Instituto para la Igualdad entre Mujeres y Hombres en Yucatán en el diseño e implementación de programas y acciones para la reeducación de los agresores.
+II. Colaborar con la Secretaría de las Mujeres en el diseño e implementación de programas y acciones para la reeducación de los agresores.
 
 III. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
@@ -607,7 +645,11 @@ VII. Implementar políticas públicas orientadas a los agresores y encaminadas a
 
 VIII. Implementar lactarios para garantizar a las madres la protección adecuada de su maternidad, en su centro de trabajo.
 
-IX. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IX. Crear instancias de las mujeres.
+
+X. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
 ### Capítulo III. Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres
 
@@ -673,7 +715,9 @@ V. La Secretaría de Seguridad Pública.
 
 VI. La Fiscalía General del Estado.
 
-VII. La Secretaría del Trabajo y Previsión Social.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VII. La Secretaría de Fomento Económico y Trabajo.
 
 VIII. El Sistema para el Desarrollo Integral de la Familia en Yucatán.
 
@@ -689,7 +733,9 @@ XI. Tres organizaciones de la sociedad civil, debidamente constituidas conforme 
 
 Secretaria ejecutiva
 
-El consejo estatal contará con una secretaria ejecutiva, con derecho a voz y voto, que será la Directora General del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+El consejo estatal contará con una secretaría ejecutiva, con derecho a voz y voto, que será la titular de la Secretaría de las Mujeres.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -753,9 +799,13 @@ El programa especial tiene por objeto establecer las acciones que, en forma plan
 
 Elaboración del programa especial
 
-La elaboración del anteproyecto del programa especial estará a cargo del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, quien lo presentará al Gobernador del estado para su aprobación y emisión.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
-El Instituto para la Igualdad entre Mujeres y Hombres en Yucatán procurará la participación de los sectores público, social y privado, especialmente de los órganos de participación ciudadana en la formulación, ejecución, evaluación y modificación del programa especial.
+La elaboración del anteproyecto del programa especial estará a cargo de la Secretaría de las Mujeres, quien lo presentará a la persona titular del Poder Ejecutivo del estado para su aprobación y emisión.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+La Secretaría de las Mujeres procurará la participación de los sectores público, social y privado, especialmente de los órganos de participación ciudadana en la formulación, ejecución, evaluación y modificación del programa especial.
 
 ###### Artículo 36.
 
@@ -915,7 +965,9 @@ Legitimación
 
 Las órdenes de protección pueden ser solicitadas por la víctima, su representante legal o el Ministerio Público.
 
-En caso de que la víctima se encuentre impedida física o psicológicamente, podrán solicitarla quienes ejerzan la patria potestad o tutela, la Procuraduría de la Defensa del Menor y la Familia o cualquier persona que tenga conocimiento de los hechos.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+En caso de que la víctima se encuentre impedida o imposibilitada para solicitarla, podrán hacerlo quienes ejerzan la patria potestad o tutela, la Procuraduría de la Defensa del Menor y la Familia o cualquier persona que tenga conocimiento de los hechos.
 
 ###### Artículo 48.
 
@@ -945,11 +997,15 @@ I. El riesgo o peligro existente.
 
 II. La seguridad de la víctima.
 
-III. Los antecedentes violentos del agresor.
+III. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
-IV. El tipo y la modalidad de violencia.
+IV. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
-V. La relación entre la víctima y el agresor.
+V. (DEROGADA, D.O. 31 DE JULIO DE 2019)
+
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VI. Los elementos con que se cuente.
 
 ###### Artículo 50.
 
@@ -983,7 +1039,13 @@ VII. El juez o tribunal decidirá la procedencia o no de la orden de emergencia 
 
 Órdenes de emergencia otorgadas por el Ministerio Público
 
-Los fiscales del Ministerio Público podrán otorgar las órdenes de protección inmediata de emergencia señaladas en las fracciones I, II, III, IV y V del artículo 45, para lo cual se ajustarán a los procedimientos y formalidades establecidas en el artículo anterior, pero no podrá otorgarlas sin la solicitud oral o escrita de la víctima.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Los fiscales del Ministerio Público deberán otorgar las órdenes de protección inmediata de emergencia señaladas en las fracciones I, II, III, IV y V del artículo 45, para lo cual se ajustarán a los procedimientos y formalidades establecidas en el artículo anterior. Para otorgar las órdenes a que se refiere este artículo se requerirá la solicitud oral o escrita de la víctima o, en caso de que esta se encuentre imposibilitada para solicitarla, lo podrán hacer su representante legal, su apoderado, quienes ejerzan la patria potestad o tutela, la Procuraduría de la Defensa del Menor y la Familia o cualquier persona que tenga conocimiento de los hechos, aunque sea una persona menor de edad.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Para formular la solicitud para el otorgamiento de las órdenes previstas en este artículo bastará con proporcionar el nombre y dirección de la víctima y los hechos que la motivan.
 
 Solo la autoridad jurisdiccional podrá prorrogar la duración de las órdenes de emergencia que otorgue el ministerio púbico (sic).
 
@@ -1324,3 +1386,43 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Derogación Expresa
 
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 97/2019 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN Y SE EXTINGUE Y LIQUIDA EL INSTITUTO PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligación de la dependencia coordinadora de sector
+
+La Secretaría General de Gobierno, en su carácter de dependencia coordinadora de sector, una vez concluido el proceso de desincorporación del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, deberá informar este hecho a la Secretaría de Administración y Finanzas dentro de los treinta días naturales siguientes, para los efectos que correspondan.
+
+Tercero. Asuntos pendientes
+
+Los acuerdos, convenios, así como los asuntos, expedientes y demás actos jurídicos y administrativos, pendientes y en trámite, que se encuentren bajo cualquier concepto en el Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, se transferirán y quedarán a cargo de la Secretaría de las Mujeres, a partir de la entrada en vigor de este decreto.
+
+Cuarto. Transferencia de recursos
+
+A partir de la entrada en vigor de este decreto, el patrimonio, el presupuesto del ejercicio fiscal en curso, las economías, recursos en cuentas, bienes muebles e inmuebles del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán pasarán al dominio y uso de la Secretaría de las Mujeres.
+
+Quinto. Procedimientos, juicios y asuntos en trámite
+
+Todos los procedimientos, juicios y demás asuntos relacionados con las materias relacionadas con este decreto que se encuentren en trámite a su entrada en vigor, se substanciarán y resolverán hasta su total conclusión de conformidad con las normas aplicables al momento en que fueron iniciados.
