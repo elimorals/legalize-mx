@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-juventud-del-estado-de-yucatan-64497"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2017-12-04"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE JUVENTUD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 20 de noviembre de 2008.
 
@@ -55,7 +55,9 @@ V.- Establecer el conjunto de instituciones y organizaciones, estatales y munici
 
 VI.- Establecer las sanciones a que se harán acreedoras las autoridades que cometan acciones u omisiones en contravención a lo dispuesto en esta ley.
 
-Son autoridades responsables de ejecutar y vigilar el cumplimiento de lo dispuesto en esta ley, el Poder Ejecutivo a través de la Secretaría de la Juventud y los Ayuntamientos, en sus respectivos ámbitos de competencia.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Son autoridades responsables de ejecutar y vigilar el cumplimiento de lo dispuesto en esta ley, el Poder Ejecutivo, a través de la Secretaría de Desarrollo Social, y los ayuntamientos, en sus respectivos ámbitos de competencia.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 4 DE DICIEMBRE DE 2017)</small>
 
@@ -101,9 +103,9 @@ VI.- Red Juvenil Estatal: El conjunto de personas encargadas de coordinar la par
 
 VII.- Red Juvenil Municipal: El conjunto de personas encargadas de coordinar la participación de los jóvenes en el municipio, y
 
-> <small>(REFORMADA, D.O. 4 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-VIII.- SEJUVE: La Secretaría de la Juventud del Gobierno del Estado de Yucatán.
+VIII.- Secretaría: La Secretaría de Desarrollo Social.
 
 ### CAPÍTULO II. De los Principios Rectores de la Ley
 
@@ -137,13 +139,17 @@ El Sistema Estatal de la Juventud es el conjunto de políticas públicas, progra
 
 El Sistema Estatal de la Juventud funcionará como instrumento de coordinación administrativa e institucional entre las entidades, organismos autónomos, administraciones públicas federal, estatal y municipal, instituciones privadas, así como los organismos no gubernamentales responsables de la promoción, protección y respeto de los derechos de la población juvenil en la Entidad.
 
-El Sistema Estatal de la Juventud estará coordinado por la Red Juvenil Estatal y Municipales y sus resoluciones serán ejercidas por la SEJUVE y los Comités Municipales de Desarrollo Juvenil en el ámbito de su competencia.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+El Sistema Estatal de la Juventud estará coordinado por la Red Juvenil Estatal y Municipales y sus resoluciones serán ejercidas por la secretaría y los comités municipales de desarrollo juvenil, en sus respectivos ámbitos de competencia.
 
 ###### Artículo 7.
 
 El Sistema Estatal de la Juventud se integrará con:
 
-I.- El Ejecutivo del Estado, a través de la Secretaría de la Juventud del Estado;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+I.- El Ejecutivo del Estado, a través de la secretaría;
 
 II.- La Red Juvenil Estatal;
 
@@ -151,11 +157,15 @@ III.- Las Redes Juveniles Municipales, y
 
 IV.- Los Comités Municipales de Desarrollo Juvenil.
 
-### CAPÍTULO II. De la Secretaría de la Juventud del Estado de Yucatán
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2019)</small>
+
+### CAPÍTULO II. De la Secretaría de Desarrollo Social
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 8.
 
-La SEJUVE es la institución garante de los derechos fundamentales de los jóvenes en el Estado y velará por el cumplimiento de los mismos, para lo cual deberá:
+La secretaría es la dependencia encargada de la protección y el fomento de los derechos de la juventud en el estado, para lo cual deberá:
 
 I.- Implementar en el Estado, todas aquéllas políticas públicas de nivel nacional e internacional de juventud con un resultado exitoso y que sean susceptibles de aplicarse en el Estado;
 
@@ -189,13 +199,15 @@ XV.- Observar las demás disposiciones establecidas en esta Ley y otras aplicabl
 
 ###### Artículo 9.
 
-La SEJUVE, su personal y los jóvenes voluntarios no podrán ser utilizados para realizar actividades con fines partidistas o de interés personal.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ### CAPÍTULO III. De la Red Juvenil Estatal
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 10.
 
-La Red Juvenil Estatal es la encargada de vincular y organizar la participación de los jóvenes en el Estado de Yucatán y se integrará con los Comités Municipales de Desarrollo Juvenil y representantes de organismos de la sociedad civil, que así lo soliciten; así como por agrupaciones juveniles y jóvenes que invite el Titular de la SEJUVE.
+La Red Juvenil Estatal es la encargada de vincular y organizar la participación de jóvenes, y se integrará con los comités municipales de desarrollo juvenil y los representantes de organismos de la sociedad civil que así lo soliciten, así como por las agrupaciones juveniles y las y los jóvenes que invite la persona titular de la secretaría.
 
 ###### Artículo 11.
 
@@ -211,17 +223,23 @@ IV.- Intercambiar experiencias exitosas con otros Estados, respecto de los benef
 
 V.- Promover la difusión de los derechos de los jóvenes en el Estado, y
 
-VI.- Coordinarse con la SEJUVE para organizar las celebraciones relacionadas con el Día Estatal de la Juventud y demás eventos juveniles.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VI.- Coordinarse con la secretaría para organizar las celebraciones relacionadas con el Día Estatal de la Juventud y demás eventos juveniles.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 12.
 
-La Coordinación General de la Red Juvenil Estatal estará a cargo del Titular de la SEJUVE.
+La coordinación general de la Red Juvenil Estatal estará a cargo de quien ocupe la titularidad de la secretaría.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 13.
 
-Los integrantes de la Red Juvenil Estatal elaborarán un catálogo que contendrá un directorio de los servicios, programas, objetivos y metas destinados a los jóvenes, mismo que deberá ser publicado en la página electrónica oficial de la SEJUVE.
+Los integrantes de la Red Juvenil Estatal elaborarán un catálogo que contendrá un directorio de los servicios, programas, objetivos y metas destinados a la juventud, el cual deberá ser publicado en el sitio web oficial de la secretaría.
 
-La SEJUVE implementará mecanismos de intercambio de información entre los integrantes de la Red Juvenil Estatal, organizaciones no gubernamentales juveniles, instituciones homólogas de nivel nacional, local, municipal e instituciones privadas.
+La secretaría implementará mecanismos de intercambio de información entre los integrantes de la Red Juvenil Estatal, organizaciones no gubernamentales juveniles, instituciones homólogas de nivel nacional, local y municipal, e instituciones privadas.
 
 ### CAPÍTULO IV. De los Comités Municipales de Desarrollo Juvenil y Redes Juveniles Municipales
 
@@ -235,13 +253,17 @@ El Comité Municipal de Desarrollo Juvenil, tendrá las siguientes funciones:
 
 I.- Diseñar actividades que tengan por objeto desarrollar el potencial de los jóvenes dentro del Municipio, respetando los usos, costumbres y la identidad de los jóvenes mayas;
 
-II.- Vincularse con la SEJUVE, participando en sus programas y actividades;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+II.- Vincularse con la secretaría, participando en sus programas y actividades;
 
 III.- Establecer acciones para el cumplimiento de los derechos de los jóvenes dentro del Municipio;
 
 IV.- Consultar la opinión de los jóvenes del Municipio, respecto de los programas municipales relacionados con ellos;
 
-V.- Organizar y coordinarse con la SEJUVE para vigilar el funcionamiento del Centro de Información y Documentación Municipal;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+V.- Organizar y coordinarse con la secretaría para vigilar el funcionamiento del Centro de Información y Documentación Municipal;
 
 VI.- Promover la integración de jóvenes a la Red Juvenil Municipal, y
 
@@ -281,13 +303,17 @@ Los jóvenes tienen derecho a la salud y la prevención, tratamiento, atención 
 
 Asimismo tienen derecho a disfrutar plenamente de los beneficios que brinda el Sistema de Seguridad Social, de conformidad con las leyes respectivas.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 18.
 
-El Poder Ejecutivo del Estado, por conducto de la SEJUVE, deberá vigilar las condiciones políticas, materiales, jurídicas y sociales que permitan el acceso a la atención básica de la salud, con servicios orientados a los jóvenes.
+El Poder Ejecutivo del Estado, por conducto de la secretaría, deberá vigilar las condiciones políticas, materiales, jurídicas y sociales que permitan el acceso a la atención básica de la salud, con servicios orientados a la juventud.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 19.
 
-La SEJUVE, en coordinación con instancias de salud estatal y con la participación activa de jóvenes voluntarios, llevará a cabo una política estatal integral de salud de los jóvenes, que abarque los problemas relacionados con las enfermedades de transmisión sexual, el consumo de drogas, los trastornos alimenticios, la higiene, el abuso y la explotación sexual, la salud mental y el medio ambiente.
+La secretaría, en coordinación con instancias de salud estatal y con la participación activa de jóvenes voluntarios, llevará a cabo una política estatal integral de salud para la juventud, la cual abarcará los problemas relacionados con las enfermedades de transmisión sexual, el consumo de drogas, los trastornos alimenticios, la higiene, el abuso y la explotación sexual, la salud mental y el medio ambiente.
 
 ###### Artículo 20.
 
@@ -305,13 +331,17 @@ El estado de gravidez de las jóvenes no será considerado impedimento alguno pa
 
 Los jóvenes tienen el derecho a ser informados debidamente acerca de los efectos y daños irreversibles a la salud que producen el consumo de alcohol, tabaco y drogas, y sobre como evitar su consumo.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 24.
 
-El Poder Ejecutivo del Estado a través de la Secretaría de Salud en coordinación con la SEJUVE y los Ayuntamientos, en el ámbito de su competencia, promoverán entre los jóvenes, hábitos de vida saludable y la prevención de los riesgos a los que están expuestos, a través de programas, proyectos o campañas, fomentando su compromiso solidario con la sociedad y su medio ambiente y difundiendo sus derechos como consumidores y usuarios.
+El Poder Ejecutivo del Estado, a través de la Secretaría de Salud, y en coordinación con la secretaría y los ayuntamientos, en el ámbito de su competencia, promoverá entre la juventud hábitos de vida saludable y la prevención de los riesgos a los que están expuestos, a través de programas, proyectos o campañas, fomentando su compromiso solidario con la sociedad y su medio ambiente y difundiendo sus derechos como consumidores y usuarios.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 25.
 
-La SEJUVE promoverá, en colaboración con otras instituciones públicas y privadas, la creación de espacios o foros para el desarrollo efectivo y eficaz de las políticas o programas cuyo objeto sea la salud de los jóvenes.
+La secretaría promoverá, en colaboración con otras instituciones públicas y privadas, la creación de espacios o foros para el desarrollo efectivo y eficaz de las políticas o programas cuyo objeto sea la salud de la juventud.
 
 ### CAPÍTULO III. Del Derecho y las Políticas de Educación
 
@@ -323,9 +353,11 @@ Los jóvenes menores de 18 años de edad con autorización para contraer matrimo
 
 Los jóvenes tienen el derecho a ser informados debidamente en materia de sexualidad, incluyendo los riesgos de las enfermedades de transmisión sexual, la salud reproductiva y la planificación familiar.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 28.
 
-La SEJUVE promoverá programas de responsabilidad sexual dirigido (sic) a los jóvenes para concientizarlos del daño moral, psicológico y a su salud, que implica el ejercicio irresponsable de su sexualidad.
+La secretaría promoverá programas de responsabilidad sexual dirigidos a las y los jóvenes, para concientizarlos del daño moral, psicológico y a su salud que implica el ejercicio irresponsable de su sexualidad.
 
 ### CAPÍTULO IV. Del Derecho y las Políticas en Materia de Familia
 
@@ -347,9 +379,11 @@ La educación que se imparta en el Estado a los jóvenes fomentará la práctica
 
 La educación sexual que se imparta en las instituciones educativas del Estado procurará fomentar una conducta responsable en el ejercicio de la sexualidad, orientada a la plena aceptación y preferencias de los jóvenes, así como, a la prevención de las enfermedades de transmisión sexual, el VIH/Sida, los embarazos no deseados y el abuso sexual.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 33.
 
-Para la eficacia del derecho a la educación de los jovenes, la SEJUVE deberá:
+Para la eficacia del derecho a la educación de la juventud, la secretaría deberá:
 
 I.- Promover la importancia de cumplir con la educación básica y secundaria, dando a conocer las alternativas que otorguen las instituciones educativas públicas y privadas, en especial entre los jóvenes que trabajan;
 
@@ -385,9 +419,11 @@ Las instituciones de educación media superior y superior promoverán que la for
 
 Para tal efecto, los planes de estudio deberán incluir una formación práctica y de emprendimiento para que los jóvenes adquieran experiencia laboral antes de finalizar sus estudios así como los procesos de creación de empresas innovadoras, creativas y competitivas.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 36.
 
-La SEJUVE apoyará las actividades juveniles que fomenten la cultura de la paz, estimulen la creatividad, el espíritu emprendedor, la formación de valores como la tolerancia, la amistad y la solidaridad.
+La secretaría apoyará las actividades juveniles que fomenten la cultura de la paz y estimulen la creatividad, el espíritu emprendedor y la formación de valores como la tolerancia, la amistad y la solidaridad.
 
 ###### Artículo 37.
 
@@ -441,11 +477,13 @@ Los jóvenes tendrán las mismas oportunidades de ocupar cargos de dirección y 
 
 Se considera una medida discriminatoria, y por tanto prohibida por esta Ley, toda solicitud de empleo en el que se solicite el requisito de la experiencia necesaria para la contratación de jóvenes.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 46.
 
-La SEJUVE tendrá como uno de sus principales ejes de acción el fomento, ampliación del diseño, ejecución de políticas y programas para promover el empleo de los jóvenes, para lo cual llevará a cabo una evaluación comparativa de la situación de los programas de empleo juvenil en diversos países y a nivel nacional, respecto de la sostenibilidad y calidad de los empleos creados en virtud de los programas implementados y la contribución al desarrollo social.
+La secretaría deberá fomentar, diseñar y ejecutar políticas y programas para promover el empleo de las y los jóvenes, para lo cual llevará a cabo una evaluación comparativa de la situación de los programas de empleo juvenil en diversos países y a nivel nacional, respecto de la sostenibilidad y calidad de los empleos creados en virtud de los programas implementados y la contribución al desarrollo social.
 
-Se tendrá especial preferencia a los programas que promuevan el empleo para los jóvenes, la capacitación laboral en donde se atienda de manera especial a los temporalmente desocupados, los jóvenes con discapacidad y los jóvenes mayas.
+Se tendrá especial preferencia a los programas que promuevan el empleo para las y los jóvenes, especialmente, para aquellos temporalmente desocupados, jóvenes con discapacidad y jóvenes mayas.
 
 > <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
 
@@ -459,17 +497,19 @@ Artículo 46 ter.- El primer empleo joven es la política pública que impulsa l
 
 Las actividades que se desempeñen en el marco de esta política pública deberán corresponder con el nivel de formación académica del joven, por lo que bajo ninguna circunstancia serán en su detrimento.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 4 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 47.
 
-El Poder Ejecutivo del Estado, a través de la SEJUVE, implementará acciones que promuevan el empleo juvenil, considerando las particularidades de los diversos grupos poblacionales, mediante bolsas de trabajo, capacitación laboral, autoempleo, financiamiento para proyectos juveniles, incubadoras de empresas y negocios o estímulos fiscales; para tal efecto, podrá celebrar convenios con instituciones de los sectores público, privado y social.
+La secretaría implementará acciones que promuevan el empleo juvenil, considerando las particularidades de los diversos grupos poblacionales, mediante bolsas de trabajo, capacitación laboral, autoempleo, financiamiento para proyectos juveniles e incubadoras de empresas y negocios o estímulos fiscales; para tal efecto, podrá celebrar convenios con instituciones de los sectores público, privado y social.
 
-Asimismo, en coordinación con las autoridades estatales en materia del trabajo, realizará investigaciones sobre el desempleo juvenil, con lo cual presentará ante las autoridades competentes propuestas sobre políticas y programas de empleo para jóvenes.
+Asimismo, en coordinación con las autoridades estatales en materia de trabajo, realizará investigaciones sobre el desempleo juvenil, con base en las cuales presentará, ante las autoridades competentes, propuestas sobre políticas y programas de empleo para jóvenes.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 48.
 
-En las ferias del empleo que celebren las autoridades estatales en materia del trabajo, participará la SEJUVE organizando el catálogo de empleos y los perfiles de puestos dirigidos a los jóvenes.
+En las ferias del empleo que celebren las autoridades estatales en materia de trabajo, participará la secretaría organizando el catálogo de empleos y perfiles de puestos dirigidos a la juventud.
 
 > <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
 
@@ -479,15 +519,15 @@ Artículo 48 bis.- Los poderes del Estado, los Ayuntamientos y los organismos co
 
 Artículo 48 ter.- Tendrán preferencia a un puesto vacante o de nueva creación los jóvenes que hayan realizado su servicio social o prácticas profesionales dentro de la empresa, negocio, dependencia o entidad del sector público o privado que corresponda, siempre y cuando se hayan destacado por su desempeño.
 
-> <small>(REFORMADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 49.
 
-El Poder Ejecutivo del Estado, a través de la SEJUVE, y los Ayuntamientos planearán y aplicarán los programas, las acciones y los instrumentos necesarios que permitan la inserción laboral, el desarrollo y la capacitación adecuada de los jóvenes, y procuren su continuo desarrollo educativo y formativo.
+El Poder Ejecutivo del Estado, a través de la secretaría, y los ayuntamientos planearán y aplicarán los programas, las acciones y los instrumentos necesarios que permitan la inserción laboral, el desarrollo y la capacitación adecuada de las y los jóvenes, y procuren su continuo desarrollo educativo y formativo.
 
-> <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
-Artículo 49 bis.- El Poder Ejecutivo del Estado, a través de la SEJUVE, en coordinación con los Ayuntamientos, implementarán programas de sensibilización dirigidos a funcionarios, empresarios y público en general, para el fomento del servicio social y las prácticas profesionales así como para la inclusión de los jóvenes en el mercado laboral, mediante el primer empleo, y la erradicación de prácticas discriminatorias en el trabajo.
+Artículo 49 bis.- La secretaría, en coordinación con los ayuntamientos, implementará programas de sensibilización dirigidos a funcionarios, empresarios y público en general, para el fomento del servicio social y las prácticas profesionales así como para la inclusión de las y los jóvenes en el mercado laboral, mediante el primer empleo, y la erradicación de prácticas discriminatorias en el trabajo.
 
 ### CAPÍTULO VII. Del Derecho y las Políticas de Información
 
@@ -513,17 +553,23 @@ VI.- Trabajar en forma voluntaria en distintas actividades de índole social, de
 
 VII.- Las demás que contribuyan a su desarrollo armónico e integral.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 52.
 
-El Poder Ejecutivo del Estado, a través de la SEJUVE, y los Ayuntamientos, en el ámbito de su competencia, promoverán programas y acciones de cooperación dirigidos a los jóvenes para que se relacionen con jóvenes de otros estados de la República Mexicana para fomentar vínculos históricos, sociales y culturales.
+La secretaría y los ayuntamientos, en el ámbito de su competencia, promoverán programas y acciones de cooperación dirigidos a la juventud, para que se relacionen con jóvenes de otras entidades federativas, a efecto de fomentar vínculos históricos, sociales y culturales
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 53.
 
-La SEJUVE fomentará aquellos programas y acciones de cooperación que favorezcan el conocimiento de la juventud yucateca de otras sociedades y culturas como forma de promover valores de tolerancia y de respeto.
+La secretaría fomentará aquellos programas y acciones de cooperación que favorezcan el conocimiento de la juventud yucateca y de otras sociedades y culturas, como forma de promover valores de tolerancia y de respeto.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 54.
 
-La SEJUVE realizará programas y acciones que fomenten el espíritu solidario entre la juventud yucateca, en especial respecto a los jóvenes en circunstancias de vulnerabilidad.
+La secretaría realizará programas y acciones que fomenten el espíritu solidario entre la juventud yucateca, en especial respecto a las y los jóvenes en circunstancias de vulnerabilidad.
 
 ### CAPÍTULO VIII. Del Derecho y las Políticas de Asociación
 
@@ -531,9 +577,11 @@ La SEJUVE realizará programas y acciones que fomenten el espíritu solidario en
 
 Los jóvenes tienen el derecho de recibir, analizar y sistematizar información objetiva y oportuna que les sea de importancia para su proyecto de vida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 56.
 
-El Poder Ejecutivo del Estado a través de la SEJUVE, y los Ayuntamientos, en el ámbito de su competencia, promoverán y desarrollarán programas y mecanismos que garanticen la igualdad de oportunidades en el acceso a la información de interés para los jóvenes.
+La secretaría y los ayuntamientos, en el ámbito de su competencia, promoverán y desarrollarán programas y mecanismos que garanticen la igualdad de oportunidades en el acceso a la información de interés para la juventud.
 
 Asimismo, elaborarán estructuras que coordinen las actuaciones en materia de información juvenil para lograr los siguientes objetivos:
 
@@ -543,9 +591,11 @@ II.- La garantía de que la prestación de servicios de información a los jóve
 
 III.- La coordinación eficaz en relación con la información juvenil.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 57.
 
-El Poder Ejecutivo del Estado a través de la SEJUVE y los Ayuntamientos, en el ámbito de su competencia, fomentarán el acceso de los jóvenes a las tecnologías de la información y las comunicaciones, como medio de información y cauce de participación en la vida política, económica, social y cultural, con especial consideración hacia aquellos jóvenes en condiciones de vulnerabilidad, mediante el diseño de acciones y programas de ayudas para el acceso a los recursos materiales necesarios.
+La secretaría y los ayuntamientos, en el ámbito de su competencia, fomentarán el acceso de las y los jóvenes a las tecnologías de la información y las comunicaciones, como medio de información y cauce de participación en la vida política, económica, social y cultural, con especial consideración hacia aquellos jóvenes en condiciones de vulnerabilidad, mediante el diseño de acciones y programas de ayuda para el acceso a los recursos materiales necesarios.
 
 ### CAPÍTULO IX. Del Derecho y las Políticas de Identidad
 
@@ -553,9 +603,11 @@ El Poder Ejecutivo del Estado a través de la SEJUVE y los Ayuntamientos, en el 
 
 Todos los jóvenes tienen derecho a formar asociaciones u organizaciones autónomas que busquen hacer realidad sus demandas, aspiraciones y proyectos colectivos, contando con el reconocimiento y apoyo del Gobierno y de otros actores sociales e institucionales.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 59.
 
-El Poder Ejecutivo del Estado a través de la SEJUVE y los Ayuntamientos, en el ámbito de su competencia, establecerán mecanismos que propicien la creación de asociaciones u organizaciones de jóvenes, así como el fortalecimiento de las agrupaciones ya existentes con la finalidad de facilitar la participación de los jóvenes en la sociedad y de fomentar la responsabilidad social.
+La secretaría y los ayuntamientos, en el ámbito de su competencia, establecerán mecanismos que propicien la creación de asociaciones u organizaciones de la juventud, así como el fortalecimiento de las agrupaciones ya existentes, con la finalidad de facilitar la participación de las y los jóvenes en la sociedad y de fomentar la responsabilidad social.
 
 ### CAPÍTULO X. Del Derecho y las Políticas de Cultura y Recreación
 
@@ -563,13 +615,17 @@ El Poder Ejecutivo del Estado a través de la SEJUVE y los Ayuntamientos, en el 
 
 Todos los jóvenes como miembros de una sociedad pluricultural y como integrantes de una comunidad en constante cambio tienen el derecho de fortalecer y expresar los diferentes elementos de identidad que los distinguen de otros sectores y grupos sociales y que, a la vez, los cohesionan con otros.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 61.
 
-El Poder Ejecutivo del Estado a través de la SEJUVE y los Ayuntamientos, en el ámbito de su competencia, establecerán estrategias con el propósito de preservar y fomentar las costumbres, tradiciones y la lengua maya, promoviendo el legado de los mayas.
+La secretaría y los ayuntamientos, en el ámbito de su competencia, establecerán estrategias con el propósito de preservar y fomentar las costumbres, tradiciones y la lengua maya, promoviendo el legado de los mayas.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 62.
 
-La SEJUVE en coordinación con el Instituto para el Desarrollo de la Cultura Maya del Estado de Yucatán, realizará acciones para fortalecer la identidad yucateca, a través de campañas educativas y publicitarias que divulguen la imagen positiva del Estado de Yucatán y su gente.
+La secretaría, en coordinación con el Instituto para el Desarrollo de la Cultura Maya del Estado de Yucatán, realizará acciones para fortalecer la identidad yucateca, a través de campañas educativas y publicitarias que divulguen la imagen positiva del estado de Yucatán y su gente.
 
 ### CAPÍTULO XI. Del Derecho y las Políticas de Deporte
 
@@ -633,13 +689,17 @@ Los Ayuntamientos en la medida de sus posibilidades presupuestarias y de conform
 
 Los jóvenes tienen derecho a contar con tiempo libre en beneficio de su enriquecimiento personal y del disfrute de la vida en forma individual o colectiva, que tiene como funciones básicas el descanso, la diversión, el complemento de la formación, la socialización, la creatividad, el desarrollo personal, la liberación en el trabajo y la recuperación psicobiológica.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 73.
 
-La SEJUVE y los Comités Municipales de Desarrollo Juvenil propiciarán la adecuada utilización del tiempo libre de los jóvenes, ampliando espacios de encuentro y reconocimiento entre los distintos sectores sociales a los que pertenezcan, para favorecer el deporte, la convivencia y el intercambio cultural.
+La secretaría y los comités municipales de desarrollo juvenil propiciarán la adecuada utilización del tiempo libre de las y los jóvenes, ampliando espacios de encuentro y reconocimiento entre los distintos sectores sociales a los que pertenezcan, para favorecer el deporte, la convivencia y el intercambio cultural.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 74.
 
-La SEJUVE en la implementación de políticas y acciones en materia de tiempo libre deberá:
+La secretaría, en la implementación de políticas y acciones en materia de tiempo libre, deberá:
 
 I.- Mantener permanentemente diversas actividades de tiempo libre;
 
@@ -699,11 +759,11 @@ V.- Realización de investigaciones que permitan definir políticas y acciones p
 
 En el Programa Estatal de la Juventud deberá incluirse indicadores precisos sobre la situación de los jóvenes en circunstancias de vulnerabilidad.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 81.
 
-El Poder Ejecutivo del Estado y los Ayuntamientos, dispondrán del servicio de atención integral en forma gratuita mediante programas que promuevan su recuperación física y psicológica de los jóvenes víctimas de violencia física o sexual.
-
-Cuando una institución de salud reciba a un joven en estas circunstancias, deberá coordinarse con la SEJUVE para el cumplimiento de este artículo.
+El Poder Ejecutivo del Estado y los ayuntamientos dispondrán del servicio correspondiente de atención integral, en forma gratuita, mediante programas que promuevan la recuperación física y psicológica de las y los jóvenes víctimas de violencia física o sexual. En estos casos, las instituciones de salud deberán coordinarse con la secretaría.
 
 ###### Artículo 82.
 
@@ -719,11 +779,13 @@ Los Comités Municipales de Desarrollo Juvenil llevarán a cabo campañas perman
 
 El Poder Ejecutivo del Estado y los Ayuntamientos apoyarán el tratamiento y rehabilitación de los jóvenes toxicómanos orientados a su reintegración social.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 85.
 
-El Poder Ejecutivo a través de la Procuraduría General de Justicia, la Secretaría de Seguridad Pública y la SEJUVE; y los Ayuntamientos, realizarán las acciones preventivas con la finalidad de informar de las consecuencias negativas que conlleva la realización de conductas antisociales e ilícitas.
+El Poder Ejecutivo, a través de la Secretaría General de Gobierno, la Fiscalía General del Estado, la Secretaría de Seguridad Pública y la secretaría, y los ayuntamientos realizarán las acciones preventivas que permitan informar las consecuencias negativas que conlleva la realización de conductas antisociales e ilícitas.
 
-En la ejecución de estas acciones se diseñará un mecanismo que permita la amplia participación de los jóvenes.
+En la ejecución de estas acciones, se diseñará un mecanismo que permita la amplia participación de la juventud.
 
 ### CAPÍTULO XVI. Del Derecho y las Políticas de Vivienda
 
@@ -741,11 +803,13 @@ Ninguna autoridad deberá establecer algún tipo de sanción en contra de algún
 
 Tampoco podrá ser ordenada la aplicación de alguna medida de persecución, represión de pensamiento y en general, todo acto que atente en contra de la integridad y seguridad física y mental de los jóvenes.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 89.
 
-La Secretaría de Seguridad Pública del Estado y las instancias correspondientes en los Municipios, intensificarán las medidas de seguridad en áreas destinadas al descanso, deporte y recreación, sin que su actividad afecte el disfrute de este derecho.
+La Secretaría de Seguridad Pública y las instancias de seguridad pública municipales intensificarán las medidas de seguridad en áreas destinadas al descanso, deporte y recreación, sin que su actividad afecte el disfrute de este derecho.
 
-La SEJUVE solicitará el apoyo de la Secretaría de Seguridad Pública del Estado en los eventos que lleve a cabo, en el ejercicio de sus funciones.
+La secretaría solicitará el apoyo de la Secretaría de Seguridad Pública en los eventos que lleve a cabo, en el ejercicio de sus funciones.
 
 ### CAPÍTULO XVII. Del Derecho al Desarrollo Económico y Social
 
@@ -781,9 +845,13 @@ El Poder Ejecutivo del Estado y los Ayuntamientos procurarán que los jóvenes e
 
 El Programa Estatal de la Juventud será elaborado en cada período gubernamental y tendrá como objetivo primordial, conjuntar las políticas y estrategias que contribuyan al cumplimiento de esta Ley y garanticen el mejoramiento de la condición social y económica de los jóvenes en el Estado.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 95.
 
-El Programa Estatal será elaborado por el Ejecutivo del Estado, a través de la SEJUVE, en colaboración con especialistas, asociaciones civiles e instituciones públicas y privadas relacionadas. La SEJUVE garantizará la participación de los jóvenes yucatecos, en especial de aquéllos que se encuentran en circunstancias de vulnerabilidad y los jóvenes integrantes del pueblo maya.
+El Programa Estatal será elaborado por el Ejecutivo del Estado, a través de la secretaría, en colaboración con especialistas, asociaciones civiles e instituciones públicas y privadas relacionadas.
+
+La secretaría garantizará la participación de las y los jóvenes yucatecos, en especial de aquellos que se encuentren en circunstancias de vulnerabilidad integrantes del pueblo maya.
 
 ###### Artículo 96.
 
@@ -815,9 +883,11 @@ IV.- Las demás problemáticas relacionadas directamente con la juventud.
 
 El Programa Estatal deberá contemplar mecanismos para el estudio, la sistematización, la promoción y el fortalecimiento de las diferentes identidades juveniles, y en especial tomará en consideración la identidad de los jóvenes pertenecientes al pueblo maya. Asimismo deberá contener acciones que generen un ambiente de equidad para aquellos jóvenes en circunstancias de vulnerabilidad.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 99.
 
-La SEJUVE se encargará de evaluar los avances del Programa Estatal y elaborará un informe respecto de las metas y objetivos planteados, así como de la situación de los jóvenes en el Estado, en forma semestral. Los resultados se distribuirán ampliamente entre la juventud y se utilizarán como referencia al evaluar la ejecución de las políticas estatales relativas a la juventud, modificando acciones, en caso de ser necesario.
+La secretaría se encargará de evaluar los avances del Programa Estatal y elaborará un informe respecto de las metas y objetivos planteados, así como de la situación de las y los jóvenes en el estado, en forma semestral. Los resultados se distribuirán ampliamente entre la juventud y se utilizarán como referencia al evaluar la ejecución de las políticas estatales relativas a la juventud, modificando acciones, en caso de ser necesario.
 
 ###### Artículo 100.
 
@@ -825,7 +895,7 @@ Los Ayuntamientos observarán para el diseño y elaboración de sus Programas Mu
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 101.
 
@@ -867,19 +937,17 @@ Ningún abuso o violación de sus derechos podrá considerarse válido ni justif
 
 ### CAPÍTULO II. Autoridades Competentes
 
-> <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
-Artículo 104 quinquies.- El Poder Ejecutivo del Estado se encargará de velar por el fomento y la promoción al joven emprendedor, por conducto de las siguientes dependencias:
+Artículo 104 quinquies.- El Poder Ejecutivo del estado se encargará de velar por el fomento y la promoción de la juventud emprendedora, por conducto de las siguientes dependencias y entidades:
 
-I.- Secretaría de Educación;
+I.- La secretaría;
 
-II.- Secretaría de la Juventud;
+II.- La Secretaría de Educación;
 
-III.- Secretaria de Fomento Económico;
+III.- La Secretaria de Fomento Económico y Trabajo, y
 
-IV.- Secretaría del Trabajo y Previsión Social; y
-
-V.- Instituto Yucateco de Emprendedores.
+IV.- El Instituto Yucateco de Emprendedores.
 
 > <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
 
@@ -893,35 +961,49 @@ III.- Impulsar el acercamiento de las instituciones educativas con las instituci
 
 IV.- Fomentar el vínculo entre el sistema educativo y el sistema de desarrollo económico y productivo estatal mediante la formación en competencias, las prácticas laborales, sociales y empresariales; y el desarrollo de actividades emprendedoras.
 
-> <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
-Artículo 104 septies.- A la Secretaría de la Juventud le corresponde:
+Artículo 104 septies.- A la secretaría le corresponde:
+
+> <small>(ADICIONADA, D.O. 4 DE DICIEMBRE DE 2017)</small>
 
 I.- Desarrollar estrategias orientadas a motivar el espíritu emprendedor de los jóvenes en coordinación con las diferentes instancias educativas y los sectores público, privado y social; y
 
+> <small>(ADICIONADA, D.O. 4 DE DICIEMBRE DE 2017)</small>
+
 II.- Dar seguimiento e impulsar la incubación de proyectos que cuenten con objetivos e ideas de negocios definidos, así como de las propuestas sobre nuevas empresas generadas por los jóvenes emprendedores.
 
-> <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
-Artículo 104 octies.- A la Secretaría de Fomento Económico le corresponde:
+Artículo 104 octies.- A la Secretaría de Fomento Económico y Trabajo le corresponde:
+
+> <small>(ADICIONADA, D.O. 4 DE DICIEMBRE DE 2017)</small>
 
 I.- Establecer mecanismos orientados al desarrollo de la cultura emprendedora y empresarial entre los jóvenes.
 
+> <small>(ADICIONADA, D.O. 4 DE DICIEMBRE DE 2017)</small>
+
 II.- Fortalecer el desarrollo económico mediante el impulso de la actividad productiva, el establecimiento de las políticas empresariales y el desarrollo productivo de nuevas micro y pequeñas empresas innovadoras y competitivas en el Estado;
 
-III.- Impulsar la creación de programas de microcréditos para los jóvenes emprendedores, de acuerdo con la disponibilidad presupuestal, así como el acceso a los apoyos e incentivos destinados para las actividades de emprendimiento en el Estado; y
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-IV.- Coordinar esfuerzos con las instituciones gubernamentales, empresariales y asociaciones civiles, con la finalidad de desarrollar estrategias de financiamiento y vinculación para la consolidación competitiva de los proyectos emprendedores.
+III.- Impulsar la creación de programas de microcréditos para las y los jóvenes emprendedores, de acuerdo con la disponibilidad presupuestal, así como el acceso a los apoyos e incentivos destinados para las actividades de emprendimiento en el Estado;
 
-> <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-Artículo 104 nonies.- La Secretaría del Trabajo y Previsión Social será responsable, en coordinación con la Secretaría de Fomento Económico, de promover y desarrollar las estrategias y los programas de capacitación para el manejo de las relaciones laborales y la orientación jurídica y administrativa, mediante enlaces con organizaciones y dependencias afines, priorizando la atención en los jóvenes que requieran la orientación en dichos rubros para lograr la consolidación de sus proyectos productivos o nuevas empresas.
+IV.- Coordinar esfuerzos con las instituciones gubernamentales, empresariales y asociaciones civiles, con la finalidad de desarrollar estrategias de financiamiento y vinculación para la consolidación competitiva de los proyectos emprendedores; y
+
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2019)</small>
+
+V.- Promover y desarrollar las estrategias y los programas de capacitación para el manejo de las relaciones laborales y la orientación jurídica y administrativa de la juventud, mediante enlaces con organizaciones y dependencias afines, priorizando la atención en las y los jóvenes que requieran la orientación en dichos rubros para lograr la consolidación de sus proyectos productivos o nuevas empresas.
+
+Artículo 104 nonies.- (DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 4 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 102.
 
-El Poder Ejecutivo del Estado, a través de la SEJUVE, promoverá y fomentará la integración de los jóvenes al campo laboral, mediante el establecimiento de estímulos para el desarrollo de la cultura empresarial y la constitución de los fideicomisos y fondos para el financiamiento de las empresas e industrias juveniles, que tengan por objetivo la proyección de beneficios sociales y productivos, con la participación y coordinación de los sectores público, privado y social, bajo los términos y condiciones que se establezcan.
+La secretaría promoverá y fomentará la integración de las y los jóvenes en el campo laboral, mediante el establecimiento de estímulos para el desarrollo de la cultura empresarial y la constitución de los fideicomisos y fondos para el financiamiento de las empresas e industrias juveniles que tengan por objetivo la proyección de beneficios sociales y productivos, con la participación y coordinación de los sectores público, privado y social, bajo los términos y condiciones que se establezcan.
 
 > <small>(REFORMADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
 
@@ -931,11 +1013,11 @@ Los recursos para la constitución de los fideicomisos y fondos a los que se ref
 
 Las autoridades estatales competentes podrán gestionar ante las autoridades fiscales correspondientes, que los recursos aportados por parte de las personas físicas o morales y el sector privado para la constitución de los fideicomisos y fondos, puedan ser susceptibles de deducción de impuestos.
 
-> <small>(REFORMADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 104.
 
-El Poder Ejecutivo del Estado, a través de la SEJUVE, deberá impulsar el fomento emprendedor mediante el desarrollo de competencias que estimulen la creatividad y el interés de los jóvenes para convertirse en empresarios consolidados o agentes de cambio que aporten al sostenimiento de las fuentes productivas, el desarrollo regional equilibrado y la cultura emprendedora.
+La secretaría deberá impulsar el fomento emprendedor mediante el desarrollo de competencias que estimulen la creatividad y el interés de la juventud para convertirse en empresarios consolidados o agentes de cambio que aporten al sostenimiento de las fuentes productivas, el desarrollo regional equilibrado y la cultura emprendedora.
 
 > <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
 
@@ -961,13 +1043,19 @@ Artículo 104 quater.- El Poder Ejecutivo del Estado, a través de las diversas 
 
 ### CAPÍTULO III. Incentivos Fiscales
 
-> <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
-Artículo 104 decies.- El Poder Ejecutivo del Estado, a través de la Secretaría de Fomento Económico, gestionará la propuesta de incentivos fiscales para contribuir al fomento y la promoción de los jóvenes emprendedores, mediante el otorgamiento de los siguientes beneficios:
+Artículo 104 decies.- El Poder Ejecutivo del Estado, a través de la Secretaría de Fomento Económico y Trabajo, gestionará la propuesta de incentivos fiscales para contribuir al fomento y la promoción de la juventud emprendedora, mediante el otorgamiento de los siguientes beneficios:
+
+> <small>(ADICIONADA, D.O. 4 DE DICIEMBRE DE 2017)</small>
 
 I.- Tasas preferenciales en el pago de actos o contratos;
 
+> <small>(ADICIONADA, D.O. 4 DE DICIEMBRE DE 2017)</small>
+
 II.- Condonación o reducción en el pago de contribuciones estatales, y
+
+> <small>(ADICIONADA, D.O. 4 DE DICIEMBRE DE 2017)</small>
 
 III.- Los demás que se determine por el titular del Poder Ejecutivo.
 
@@ -991,41 +1079,37 @@ VI.- El uso racional de recursos hídricos y la aplicación de sistemas de trata
 
 ### CAPÍTULO IV. Fondo de Promoción al Joven Emprendedor
 
-> <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
-Artículo 104 duodecies.- El Poder Ejecutivo del Estado, a través de la SEJUVE, constituirá el Fondo de Promoción al Joven Emprendedor que tendrá por objeto financiar las ideas o los proyectos productivos de creación de negocios y empresas generadoras de empleos por los jóvenes yucatecos.
+Artículo 104 duodecies.- El Poder Ejecutivo del Estado, a través de la secretaría, constituirá el Fondo de Promoción al Joven Emprendedor, que tendrá por objeto financiar las ideas o los proyectos productivos de creación de negocios y empresas generadoras de empleos por las y los jóvenes yucatecos.
 
-> <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
-Artículo 104 terdecies.- El Fondo de Promoción al Joven Emprendedor contará con un comité técnico que será el órgano responsable de determinar los proyectos a financiar y estará integrado de la siguiente manera:
+Artículo 104 terdecies.- El Fondo de Promoción al Joven Emprendedor contará con un comité técnico, que será el órgano responsable de determinar los proyectos a financiar y estará integrado por los titulares de las dependencias y entidades siguientes:
 
-I.- El secretario de la Juventud, quien será el presidente.
+I.- La Secretaría de Desarrollo Social, quien tendrá la presidencia.
 
-II.- El secretario de Administración y Finanzas.
+II.- La Secretaría de Administración y Finanzas.
 
-III.- El secretario de Educación.
+III.- La Secretaría de Educación.
 
-IV.- El secretario de Desarrollo Social.
+IV.- La Secretaría de Fomento Económico y Trabajo.
 
-V.- El secretario de Fomento Económico.
+V.- La Dirección General del Instituto Yucateco de Emprendedores.
 
-VII.- El secretario del Trabajo y Previsión Social.
+VI.- Un representante del sector empresarial.
 
-VIII.- El Instituto Yucateco de Emprendedores.
+VII.- Un representante de una institución educativa de nivel superior.
 
-IX.- Un representante del sector empresarial.
-
-X.- Un representante de una institución educativa de nivel superior.
-
-XI.- Un representante de una institución de investigación.
+VIII.- Un representante de una institución de investigación.
 
 Los integrantes del comité técnico designarán a sus suplentes, quienes los sustituirán en caso de ausencia.
 
-El Poder Ejecutivo, por conducto de la SEJUVE, determinará, previa convocatoria pública, a la empresa, la institución educativa de nivel superior y la institución de investigación a que se refieren las fracciones VIII, IX y X, las cuales nombrarán a sus representantes, conformarán el comité técnico por un periodo de tres años y podrán ser removidas por la falta injustificada de sus representantes a dos sesiones consecutivas.
+El Poder Ejecutivo, por conducto de la secretaría, determinará, previa convocatoria pública, a la empresa, la institución educativa de nivel superior y la institución de investigación a que se refieren las fracciones VI, VII y VIII, las cuales nombrarán a sus representantes, conformarán el comité técnico por un periodo de tres años y podrán ser removidas por la falta injustificada de sus representantes a dos sesiones consecutivas.
 
 Los cargos de los integrantes del comité técnico son de carácter honorífico, por lo tanto quienes los ocupen no devengarán retribución alguna por su desempeño.
 
-El comité técnico contará con un secretario técnico, quien será nombrado por el presidente y participará en las sesiones únicamente con derecho a voz.
+El comité técnico contará con una secretaría técnica, cuyo titular será nombrado por el presidente y participará en las sesiones únicamente con derecho a voz.
 
 > <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
 
@@ -1067,11 +1151,15 @@ El Poder Ejecutivo del Estado fomentará la constitución y la inclusión de aso
 
 Asimismo potenciará la inclusión de aquellas organizaciones de carácter general, sin ánimo de lucro, cuyos destinatarios sean mayoritariamente los jóvenes y en las que tengan participación las Redes Juveniles Estatal y Municipales, constituyéndose éstas como auténticos cauces para la participación efectiva en las políticas de juventud.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 110.
 
-La SEJUVE y los Ayuntamientos promoverán el voluntariado juvenil, de conformidad con lo establecido en la normatividad vigente en esta materia, desarrollando acciones como el apoyo de actividades y el fomento de proyectos destinados a la creación de asociaciones orientadas al servicio voluntario en el Estado y los Municipios, acciones innovadoras en la creación de redes de solidaridad y cooperación y apoyo a procesos específicos de formación y preparación de jóvenes en el espíritu voluntario.
+La secretaría y los ayuntamientos promoverán el voluntariado juvenil, de conformidad con lo establecido en la normatividad vigente en esta materia, desarrollando acciones como el apoyo de actividades y el fomento de proyectos destinados a la creación de asociaciones orientadas al servicio voluntario en el estado y los municipios, acciones innovadoras en la creación de redes de solidaridad y cooperación, y apoyo en procesos específicos de formación y preparación de jóvenes en el espíritu voluntario.
 
 ### CAPÍTULO IV. Del Día Estatal de la Juventud
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 111.
 
@@ -1099,15 +1187,19 @@ El Reglamento de esta Ley deberá prever las modalidades, composición del jurad
 
 ###### Artículo 114.
 
-Se establece el 12 de agosto de cada año como el “Día Estatal de la Juventud”, fecha en la cual se otorgarán premios y reconocimientos a los jóvenes yucatecos destacados por su contribución a la sociedad, así como a la juventud maya, para tal efecto, la SEJUVE emitirá la convocatoria correspondiente.
+Se establece el 12 de agosto de cada año como el "Día Estatal de la Juventud", fecha en la cual se otorgarán premios y reconocimientos a las y los jóvenes yucatecos destacados por su contribución a la sociedad así como a la juventud maya; para tal efecto, la secretaría emitirá la convocatoria correspondiente.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 115.
 
-El Poder Ejecutivo del Estado, a través de la SEJUVE, celebrará durante el mes de agosto, actos y ceremonias que promuevan el desarrollo integral de los jóvenes.
+El Poder Ejecutivo del Estado, a través de la secretaría, celebrará, durante el mes de agosto, actos y ceremonias que promuevan el desarrollo integral de las y los jóvenes.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 116.
 
-Se faculta a la SEJUVE para solicitar de las dependencias y entidades de las Administraciones Públicas Estatal y Federal, colaboración en los actos con que deberá conmemorarse el "Día Estatal de la Juventud" y para convenir con los Ayuntamientos del Estado las actividades que hayan de celebrarse en cada municipio.
+Se faculta a la secretaría para solicitar de las dependencias y entidades de las Administraciones Públicas estatal y federal, colaboración en los actos con que deberá conmemorarse el "Día Estatal de la Juventud" y para convenir con los ayuntamientos del Estado las actividades que hayan de celebrarse en cada municipio.
 
 ## TÍTULO SEXTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -1232,3 +1324,19 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el dia
 Segundo. Obligación normativa
 
 El gobernador deberá expedir las modificaciones al Reglamento de la Ley de la Juventud del Estado de Yucatán, para ajustarlo a las disposiciones de este decreto, dentro de un plazo de ciento veinte días naturales contados a partir de su entrada en vigor.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
