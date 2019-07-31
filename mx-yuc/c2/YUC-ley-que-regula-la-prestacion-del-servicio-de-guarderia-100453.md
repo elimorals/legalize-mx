@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-regula-la-prestacion-del-servicio-de-guarderia-100453"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-25"
-last_updated: "2016-12-28"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100453&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY QUE REGULA LA PRESTACIÓN DEL SERVICIO DE GUARDERÍA INFANTIL EN EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 25 de abril de 2014.
 
@@ -573,7 +573,9 @@ II. La información relativa a las guarderías infantiles ya registradas, deber�
 
 Programas
 
-La Secretaría General de Gobierno, por conducto de la Unidad de Protección Civil, la Secretaría de Educación, la Secretaría del Trabajo y Previsión Social y el Sistema para el Desarrollo Integral de la Familia en Yucatán implementarán programas de capacitación y certificación de competencias en materia de protección civil, educativa, laboral, así como de atención a niñas y niños con discapacidad, aplicables a las modalidades, tipos y modelos de atención de las guarderías infantiles.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
+La Secretaría General de Gobierno, por conducto de la Coordinación Estatal de Protección Civil, la Secretaría de Educación, la Secretaría de Fomento Económico y Trabajo, y el Sistema para el Desarrollo Integral de la Familia en Yucatán implementarán programas de capacitación y certificación de competencias en materia de protección civil, educativa, laboral, así como de atención a niñas y niños con discapacidad, aplicables a las modalidades, tipos y modelos de atención de las guarderías infantiles.
 
 Los prestadores de servicios, así como el personal que labore en las guarderías infantiles, deberán cursar y acreditar los programas de capacitación y certificación de competencias que determinen las autoridades competentes.
 
@@ -808,3 +810,19 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
