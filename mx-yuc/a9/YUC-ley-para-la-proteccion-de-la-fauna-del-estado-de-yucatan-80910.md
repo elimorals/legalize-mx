@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-la-fauna-del-estado-de-yucatan-80910"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-19"
-last_updated: "2016-12-28"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LA FAUNA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 19 de abril de 2011.
 
@@ -39,7 +39,9 @@ QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA SERVIDO DIRIGIRME EL SIGU
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO, EMITE LA LEY PARA LA PROTECCIÓN DE LA FAUNA DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-EXPOSICIÓN DE MOTIVOS:...
+EXPOSICIÓN DE MOTIVOS:
+
+[...]
 
 Por todo lo expuesto y fundado, los integrantes de las comisiones permanentes de Puntos Constitucionales y Gobernación y la de Medio Ambiente, en el estudio y análisis de la ésta (sic) Ley para la Protección de la Fauna del Estado de Yucatán, nos pronunciamos a favor con los razonamientos y adecuaciones planteadas. En tal virtud, con fundamento en los artículos 30, fracción V de la Constitución Política, 18 y 43 de la Ley de Gobierno del Poder Legislativo, ambas del Estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -127,9 +129,11 @@ II.- A los ayuntamientos.
 
 Las autoridades señaladas en el artículo anterior aplicarán en el ámbito de sus respectivas competencias, las sanciones que correspondan por el incumplimiento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 6.
 
-Para la aplicación de esta Ley, la Secretaría de Desarrollo Urbano y Medio Ambiente del Estado de Yucatán, tendrá las siguientes atribuciones:
+Para la aplicación de esta Ley, la Secretaría de Desarrollo Sustentable tendrá las siguientes atribuciones:
 
 I.- Contribuir en el diseño de las políticas públicas que se emitan en esta materia;
 
@@ -241,7 +245,7 @@ V.- Respetar la Fauna Silvestre en su ambiente natural;
 
 VI.- Brindar alimentación y el reposo correspondiente a las características físicas del Animal;
 
-VlI.- Contribuir para la sobrevivencia de la especie en los casos de peligro de extinción, y
+VII.- Contribuir para la sobrevivencia de la especie en los casos de peligro de extinción, y
 
 VIII.- Proteger a los animales, en caso de abandono.
 
@@ -539,7 +543,9 @@ Se procurará en términos de este artículo, aplicar los principios bioéticos 
 
 Las escuelas, universidades y centros de investigación procurarán integrar un Comité de Bioética para aprobar los protocolos, supervisar las condiciones y desarrollo de todo experimento en animales, y verificar se cumplan las Normas Oficiales Mexicanas de la materia.
 
-Asimismo podrán contar con bioterios para el desarrollo de sus actividades, los cuales deberán contar para su funcionamiento con una certificación expedida por la Secretaría de Desarrollo Urbano y Medio Ambiente del Estado.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Asimismo, podrán contar con bioterios para el desarrollo de sus actividades, los cuales deberán contar, para su funcionamiento, con una certificación expedida por la Secretaría de Desarrollo Sustentable.
 
 ###### Artículo 58.
 
@@ -593,7 +599,7 @@ V.- Realizar, en su caso, el Sacrificio Humanitario;
 
 VI.- Aplicar las vacunas, desparasitar y esterilizar a los animales bajo su cuidado y resguardo, y
 
-VlI.- Las demás que se establezcan en los reglamentos y disposiciones de las autoridades competentes.
+VII.- Las demás que se establezcan en los reglamentos y disposiciones de las autoridades competentes.
 
 ###### Artículo 65.
 
@@ -601,9 +607,11 @@ Las personas que presten sus servicios en los Centros de Control Animal deberán
 
 ### CAPÍTULO II. Del Fondo Económico para la Protección de la Fauna del Estado
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 66.
 
-La Secretaría de Desarrollo Urbano y Medio Ambiente administrará un Fondo Económico para la Protección de la Fauna del Estado, cuyo objeto será la protección y cuidado de la Fauna, y en general, apoyar el cumplimiento de esta Ley.
+La Secretaría de Desarrollo Sustentable administrará un Fondo Económico para la Protección de la Fauna del Estado, cuyo objeto será la protección y el cuidado de la Fauna, y, en general, el cumplimiento de esta Ley.
 
 ###### Artículo 67.
 
@@ -615,9 +623,11 @@ II.- Los recursos que el Gobierno Federal, Estatal y Municipal otorguen para tal
 
 III.- Los recursos que se generen por la aplicación o infracción a esta Ley.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 68.
 
-La Secretaría de Desarrollo Urbano y Medio Ambiente creará un Consejo Técnico en el que participarán las sociedades protectoras de animales, universidades, clínicas y hospitales veterinarias y organizaciones de la sociedad civil relacionadas con la materia de esta Ley, para la administración del Fondo para la Protección de la Fauna del Estado.
+La Secretaría de Desarrollo Sustentable creará un Consejo Técnico en el que participarán las sociedades protectoras de animales, universidades, clínicas y hospitales veterinarias, y organizaciones de la sociedad civil relacionadas con la materia de esta Ley, para la administración del Fondo para la Protección de la Fauna del Estado.
 
 ## TÍTULO CUARTO. DE LAS RESPONSABILIDADES DERIVADAS DE LA LEY
 
@@ -651,9 +661,11 @@ III.- El carácter intencional o negligente de la acción u omisión constitutiv
 
 IV.- La Reincidencia o Habitualidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 74.
 
-Las violaciones a los preceptos de esta Ley y su reglamento, podrán ser sancionadas administrativamente por la Secretaría de Desarrollo Urbano y Medio Ambiente o por los ayuntamientos en asuntos de su competencia, con las siguientes sanciones:
+Las violaciones a los preceptos de esta Ley y su reglamento podrán ser sancionadas administrativamente por la Secretaría de Desarrollo Sustentable o por los ayuntamientos, en asuntos de su competencia, con las siguientes sanciones:
 
 I.- Amonestación por escrito, por parte de la autoridad;
 
@@ -742,3 +754,19 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
