@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-el-fomento-y-desarrollo-del-turismo-en-yucatan-82271"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-26"
-last_updated: "2011-07-26"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA EL FOMENTO Y DESARROLLO DEL TURISMO EN YUCATAN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Diario Oficial del estado de Yucatán, martes 26 de julio de 2011
 
@@ -741,9 +741,11 @@ El Turismo ecológico es el que tiene como fin realizar las actividades turísti
 
 Quien preste algún servicio turístico que esté relacionado con el Turismo ecológico, o quien realice actividades en materia de Turismo ecológico, está obligado a preservar los recursos naturales, a no alterar los procesos biológicos y ecológicos, así como a respetar las diversas expresiones históricas, artísticas, arquitectónicas, arqueológicas y culturales del Estado.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 56.
 
-Las empresas que desarrollen actividades turísticas ecológicas, las deberán realizar con apego a las leyes de la materia y se someterán a las limitaciones impuestas por la Secretaría de Desarrollo Urbano y Medio Ambiente y por aquellas autoridades federales, estatales y municipales que tengan competencia en materia ecológica y de protección al ambiente.
+Las empresas que desarrollen actividades turísticas ecológicas las deberán realizar con apego en las leyes de la materia y se someterán a las limitaciones impuestas por la Secretaría de Desarrollo Sustentable y por aquellas autoridades federales, estatales y municipales que tengan competencia en materia ecológica y de protección al ambiente.
 
 ###### Artículo 57.
 
@@ -800,3 +802,21 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
