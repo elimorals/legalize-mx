@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-prevencion-y-control-de-enfermedades-117856"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2016-12-27"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PREVENCIÓN Y CONTROL DE ENFERMEDADES TRANSMITIDAS POR MOSQUITOS EN EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 27 de diciembre de 2016.
 
@@ -47,7 +47,7 @@ Por el que se expide la Ley para la Prevención y Control de Enfermedades Transm
 
 Se expide la Ley para la Prevención y Control de Enfermedades Transmitidas por Mosquitos en el Estado de Yucatán, para quedar como sigue:
 
-Ley para la Prevención y Control de Enfermedades Transmitidas por Mosquitos en el Estado de Yucatán.
+Ley para la Prevención y Control de Enfermedades Transmitidas por Mosquitos en el Estado de Yucatán
 
 ### Capítulo I. Disposiciones Generales
 
@@ -57,7 +57,7 @@ Objeto
 
 Esta ley es de orden público, interés social y observancia general en todo el estado de Yucatán y tiene por objeto establecer los criterios, procedimientos y acciones para prevenir y controlar las enfermedades transmitidas por mosquitos.
 
-Para efectos de esta ley, se entenderá por ley a la Ley para la Prevención y Control de Enfermedades Transmitidas por Mosquitos en el Estado de Yucatán, y por consejo al Consejo lnterinstitucional para la Prevención y Control de Enfermedades Transmitidas por Mosquitos en el Estado de Yucatán.
+Para efectos de esta ley, se entenderá por ley a la Ley para la Prevención y Control de Enfermedades Transmitidas por Mosquitos en el Estado de Yucatán, y por consejo al Consejo Interinstitucional para la Prevención y Control de Enfermedades Transmitidas por Mosquitos en el Estado de Yucatán.
 
 Objetivos
 
@@ -103,7 +103,9 @@ IV. La Secretaría de Desarrollo Social.
 
 V. La Secretaría de Seguridad Pública.
 
-VI. La Secretaría de Desarrollo Urbano y Medio Ambiente.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VI. La Secretaría de Desarrollo Sustentable.
 
 VII. La Secretaria de Investigación, Innovación y Educación Superior.
 
@@ -175,7 +177,9 @@ IV. El secretario de Desarrollo Social.
 
 V. El secretario de Seguridad Pública.
 
-VI. El secretario de Desarrollo Urbano y Medio Ambiente.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VI. El Secretario de Desarrollo Sustentable.
 
 VII. El secretario de Investigación, Innovación y Educación Superior.
 
@@ -183,7 +187,9 @@ VIII. El director de la Unidad Estatal de Protección Civil.
 
 IX. El Instituto para el Desarrollo de la Cultura Maya del Estado de Yucatán.
 
-X. Un representante de la Comisión de Salud y Seguridad Social del Congreso del Estado de Yucatán.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+X. El director general del Instituto de Movilidad y Desarrollo Urbano Territorial.
 
 XI. Cinco presidentes de los municipios con mayor población en el Estado.
 
@@ -572,3 +578,21 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
