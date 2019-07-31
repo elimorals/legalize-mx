@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-vivienda-del-estado-de-yucatan-80537"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-01"
-last_updated: "2011-04-01"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE VIVIENDA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 1 de abril de 2011.
 
@@ -97,7 +97,7 @@ VI.- Construcción social de vivienda: aquella que se realiza bajo el control de
 
 VII.- Estímulo: la medida de carácter jurídico, administrativo, fiscal o financiero, que aplican las entidades y dependencias de la administración pública federal, estatal y municipal, a fin de promover y facilitar la ejecución de acciones, procesos o programas habitacionales;
 
-VIII.-Instituto: el Instituto de Vivienda del Estado de Yucatán;
+VIII.- Instituto: el Instituto de Vivienda del Estado de Yucatán;
 
 IX.- Personas de bajos recursos económicos: aquellas que perciben menos de dos salarios mínimos diarios vigentes en el Estado de Yucatán;
 
@@ -105,7 +105,7 @@ X.- Ley: la Ley de Vivienda del Estado de Yucatán;
 
 XI.- Política Estatal de Vivienda: el conjunto de disposiciones, criterios, lineamientos y medidas de carácter general que establece el gobierno del Estado, en coordinación con los gobiernos municipales y los sectores privado y social, para garantizar el acceso al derecho a una vivienda digna y decorosa;
 
-XII.- Secretaría: la Secretaría de Desarrollo Urbano y Medio Ambiente del Estado;
+XII.- (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
 XIII.- Suelo para vivienda: los terrenos que física y legalmente son susceptibles de ser destinados preferentemente al uso habitacional, conforme a las disposiciones aplicables, y
 
@@ -187,9 +187,11 @@ El Titular del Poder Ejecutivo del Estado aprobará mediante Decreto el Programa
 
 El Programa Estatal de Vivienda, una vez aprobado y publicado, se inscribirá en el Registro de Planes de Desarrollo Urbano y Declaratorias, como una modalidad del Plan Estatal de Desarrollo y será obligatorio para las dependencias y entidades de la administración pública estatal y de la municipal, en el ámbito de sus respectivas competencias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 11.
 
-El Programa Estatal de Vivienda será evaluado anualmente, por la Secretaría de Desarrollo Urbano y Medio Ambiente, para determinar el cumplimiento de sus objetivos y conocer el impacto de la estrategia implementada.
+El Programa Estatal de Vivienda será evaluado anualmente por el Instituto de Movilidad y Desarrollo Urbano Territorial, para determinar el cumplimiento de sus objetivos y conocer el impacto de la estrategia implementada.
 
 Los resultados de dicha evaluación serán públicos y obligatorios para las dependencias y entidades de la administración pública estatal y de la municipal.
 
@@ -253,9 +255,13 @@ El Consejo Estatal de Vivienda estará integrado por:
 
 I.- El Titular del Poder Ejecutivo del Estado, quien será el Presidente;
 
-II.- El Secretario de Desarrollo Urbano y Medio Ambiente del Estado;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-III.- El Director General del Instituto de Vivienda del Estado, y (sic)
+II.- El Secretario de Desarrollo Sustentable;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+III.- La persona que ocupe, en su caso, la dirección general del Instituto de Movilidad y Desarrollo Urbano Territorial;
 
 IV.- El Presidente del Comité Estatal de Vivienda, quien fungirá como Coordinador General, y
 
@@ -267,7 +273,9 @@ El reglamento de esta Ley establecerá la forma y términos en que deberán llev
 
 ### CAPÍTULO II. De las Competencias
 
-### CAPÍTULO III. De la Secretaría de Desarrollo Urbano y Medio Ambiente
+### CAPÍTULO III. Del Instituto de Movilidad y Desarrollo Urbano Territorial
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 17.
 
@@ -293,11 +301,13 @@ Las dependencias y organismos de la administración pública estatal y de la mun
 
 En su caso, los gobiernos estatal y municipal gestionarán la asignación de recursos federales para complementar sus proyectos de vivienda y suelo.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2019)</small>
+
 ### CAPÍTULO IV. Del Instituto de Vivienda del Estado de Yucatán
 
 ###### Artículo 20.
 
-La Secretaría de Desarrollo Urbano y Medio Ambiente del Estado, en materia de vivienda, tendrá las siguientes atribuciones:
+El Instituto de Movilidad y Desarrollo Urbano Territorial, en materia de vivienda, tendrá las siguientes atribuciones:
 
 I.- Coordinarse con el Instituto para diseñar el Programa Estatal de Vivienda;
 
@@ -315,7 +325,9 @@ VII.- Fomentar estudios y procesos de planeación para el establecimiento y oper
 
 VIII.- Proponer políticas económicas para estimular la construcción de vivienda;
 
-IX.- Elaborar la normatividad reglamentaria en materia de uso de suelo y ambientales con fines habitacionales y remitirla al Titular del Poder Ejecutivo para los fines correspondientes, y
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IX.- Elaborar, en coordinación con la Secretaría de Desarrollo Sustentable, la normativa reglamentaria en materia de uso de suelo y ambiental con fines habitacionales y remitirla al Titular del Poder Ejecutivo para los fines correspondientes, y
 
 X.- Aplicar, en cooperación con el gobierno federal y los ayuntamientos, programas emergentes de vivienda que se requieran en casos de desastres naturales.
 
@@ -331,7 +343,9 @@ Para los efectos de esta Ley, el Instituto tendrá las siguientes atribuciones:
 
 I.- Ejecutar, coordinar, impulsar y dar seguimiento a los programas de construcción, adquisición y mejoramiento de la vivienda en el Estado, con particular atención a las necesidades de la población de bajos recursos económicos;
 
-II.- Proponer a la Secretaría los programas y sistemas de ejecución en materia de vivienda, necesarios para el adecuado desarrollo de ésta;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+II.- Proponer al Instituto de Movilidad y Desarrollo Urbano Territorial los programas y sistemas de ejecución en materia de vivienda necesarios para el adecuado desarrollo de esta;
 
 III.- Coadyuvar con las instituciones públicas federales, estatales y municipales, así como con los sectores social y privado, en el desarrollo de programas habitacionales y la correcta ejecución de los proyectos de vivienda;
 
@@ -515,9 +529,11 @@ Los créditos de vivienda de los diversos programas se otorgarán en relación c
 
 Por concepto de amortizaciones e intereses, ningún crédito de vivienda otorgado por el Instituto deberá superar el veinte por ciento de los ingresos nominales mensuales de la familia beneficiaria.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 40.
 
-En el caso de que el pago del crédito de vivienda otorgado por el Instituto llegare a representar más del treinta por ciento de los ingresos nominales mensuales de la familia beneficiaria, el deudor podrá acogerse a las soluciones que la Secretaría y el Instituto en forma coordinada establezca, teniendo como límite máximo este porcentaje. Ésta excepción será, solo en caso de los programas gubernamentales dirigidos a Personas de bajos recursos económicos, debiendo el instituto publicar el rango de ingresos de las personas o familias beneficiarias por dichos programas y los requisitos para la obtención de los mencionados créditos.
+En el caso de que el pago del crédito de vivienda otorgado por el Instituto llegare a representar más del treinta por ciento de los ingresos nominales mensuales de la familia beneficiaria, el deudor podrá acogerse a las soluciones que el Instituto de Movilidad y Desarrollo Urbano Territorial y el Instituto, en forma coordinada establezcan, teniendo como límite máximo este porcentaje. Esta excepción será solo en caso de los programas gubernamentales dirigidos a personas de bajos recursos económicos, debiendo el instituto publicar el rango de ingresos de las personas o familias beneficiarias por dichos programas y los requisitos para la obtención de los mencionados créditos.
 
 ###### Artículo 41.
 
@@ -559,9 +575,11 @@ II.- Establecer, fomentar, administrar proyectos y programas que permitan recaud
 
 III.- Satisfacer las necesidades de suelo para la ejecución de acciones en materia de vivienda, llevadas a cabo por organismos públicos, privados o sociales que lo soliciten y en congruencia con los ordenamientos y programas aplicables.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 48.
 
-En la adquisición de suelo o constitución de reservas territoriales para uso habitacional deberá de observarse lo dispuesto en los programas estatal y municipal de vivienda, Programa de Desarrollo Urbano y de Medio Ambiente, la Ley de Asentamientos Humanos y Ley de Desarrollos Inmobiliarios del Estado de Yucatán, así como las demás disposiciones vigentes en materia ambiental y agraria.
+En la adquisición de suelo o constitución de reservas territoriales para uso habitacional deberá de observarse lo dispuesto en los programas estatal y municipal de vivienda, programa de desarrollo urbano, programa de medio ambiente, la Ley de Asentamientos Humanos y Ley de Desarrollos Inmobiliarios del Estado de Yucatán, así como las demás disposiciones vigentes en materia ambiental y agraria.
 
 ###### Artículo 49.
 
@@ -850,3 +868,21 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
