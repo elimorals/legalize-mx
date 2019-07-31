@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108625"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2019-04-29"
+last_updated: "2019-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el viernes 12 de junio de 2015.
 
@@ -169,7 +169,9 @@ VI. El Secretario de Desarrollo Social.
 
 VII. El Fiscal General.
 
-VIII. El Secretario del Trabajo y Previsión Social.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VIII. El Secretario de Fomento Económico y Trabajo.
 
 IX. El Director General del Sistema para el Desarrollo Integral de la Familia en Yucatán.
 
@@ -528,3 +530,19 @@ D.O. 29 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 69/2019 POR EL QUE SE MODIFICA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN".]
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
