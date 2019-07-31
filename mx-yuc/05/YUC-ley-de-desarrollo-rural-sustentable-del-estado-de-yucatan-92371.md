@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-desarrollo-rural-sustentable-del-estado-de-yucatan-92371
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-15"
-last_updated: "2013-02-15"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 15 de febrero de 2013.
 
@@ -33,7 +33,9 @@ CIUDADANO ROLANDO RODRIGO ZAPATA BELLO, GOBERNADOR DEL ESTADO DE YUCATÁN, CON F
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, Y 3 FRACCIÓN IV DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO DE YUCATÁN, EMITE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-E X P O S I C I Ó N DE M O T I V O S:.
+E X P O S I C I Ó N DE M O T I V O S:
+
+[...]
 
 En tal virtud, con fundamento en los artículos 30 fracción V de la Constitución Política, 18 y 43 fracción VI de la Ley de Gobierno del Poder Legislativo y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todas del Estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -587,11 +589,15 @@ V.- Secretaría de Desarrollo Social;
 
 VI.- Secretaría de Obras Públicas;
 
-VII.- Secretaría de Fomento Económico;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-VIII.- Secretaría de Desarrollo Urbano y Medio Ambiente;
+VII.- Secretaría de Fomento Económico y Trabajo;
 
-IX.- Secretaría del Trabajo y Previsión Social;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VIII.- Secretaría de Desarrollo Sustentable;
+
+IX.- (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
 X.- Instituto de Vivienda del Estado de Yucatán;
 
@@ -1141,7 +1147,7 @@ El Poder Ejecutivo deberá destinar recursos acorde a su disponibilidad presupue
 
 Funciones del Sistema Estatal de Sanidad, Inocuidad y Calidad Agroalimentaria
 
-###### Articulo 84.
+###### Artículo 84.
 
 La Secretaría integrará el Sistema Estatal de Sanidad, Inocuidad y
 
@@ -1708,3 +1714,21 @@ DIRECTOR GENERAL DEL INSTITUTO PARA EL DESARROLLO DE LA CULTURA MAYA DEL ESTADO 
 C. MANUEL ALBERTO BONILLA CAMPO
 
 DIRECTOR GENERAL DE LA JUNTA DE AGUA POTABLE Y ALCANTARILLADO DE YUCATÁN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
