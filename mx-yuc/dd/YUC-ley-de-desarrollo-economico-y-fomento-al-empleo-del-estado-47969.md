@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-desarrollo-economico-y-fomento-al-empleo-del-estado-4796
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-21"
-last_updated: "2013-02-15"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "YUC"
 ---
 # LEY DE DESARROLLO ECONOMICO Y FOMENTO AL EMPLEO DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 41, PUBLICADO EN EL D.O. DE 15 DE FEBRERO DE 2013, LAS REFERENCIAS QUE SE HAGAN AL CONSEJO ESTATAL CONSULTIVO PARA EL DESARROLLO ECONÓMICO Y/O CONSEJO ESTATAL CONSULTIVO PARA EL DESARROLLO ECONÓMICO Y FOMENTO AL EMPLEO; SE ENTENDERÁ QUE SE REFIEREN AL CONSEJO CONSULTIVO PARA EL DESARROLLO ECONÓMICO DE YUCATÁN.]</small>
+
 LEY DE DESARROLLO ECONÓMICO Y FOMENTO AL EMPLEO DEL ESTADO DE YUCATÁN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 41, PUBLICADO EN EL D.O. DE 15 DE FEBRERO DE 2013, LAS REFERENCIAS QUE SE HAGAN AL CONSEJO ESTATAL CONSULTIVO PARA EL DESARROLLO ECONÓMICO Y/O CONSEJO ESTATAL CONSULTIVO PARA EL DESARROLLO ECONÓMICO Y FOMENTO AL EMPLEO; SE ENTENDERÁ QUE SE REFIEREN AL CONSEJO CONSULTIVO PARA EL DESARROLLO ECONÓMICO DE YUCATÁN.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el miércoles 21 de diciembre de 2005.
 
@@ -53,13 +53,11 @@ LEY DE DESARROLLO ECONÓMICO Y FOMENTO AL EMPLEO DEL ESTADO DE YUCATÁN.
 
 Las disposiciones de esta ley son de orden público, interés social y de observancia general, en todo el territorio estatal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 2.
 
-La aplicación de este ordenamiento corresponde al Poder Ejecutivo del Gobierno del Estado, quien ejercerá sus atribuciones por conducto de la Secretaría de Fomento Económico del Poder Ejecutivo del Gobierno del Estado de Yucatán.
-
-Concurren en su aplicación y en el ámbito de su jurisdicción, los municipios del estado.
+La aplicación de este ordenamiento corresponde al Poder Ejecutivo del Gobierno del Estado, quien ejercerá sus atribuciones por conducto de la Secretaría de Fomento Económico y Trabajo. Los municipios del estado concurrirán en su aplicación, en el ámbito de sus competencias.
 
 > <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
 
@@ -67,7 +65,9 @@ Concurren en su aplicación y en el ámbito de su jurisdicción, los municipios 
 
 Para los efectos de esta Ley, se entenderá por:
 
-I.- Ciudad Industrial: el núcleo urbano delimitado físicamente en el que se asientan o se establecen un conjunto de empresas o unidades económicas de naturaleza diversa o uniforme, dotado de infraestructura física e instalaciones industriales registrado como tal ante la Secretaría de Fomento Económico del Poder Ejecutivo del Gobierno del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+I.- Ciudad Industrial: el núcleo urbano, delimitado físicamente, en el que se asientan o se establecen un conjunto de empresas o unidades económicas de naturaleza diversa o uniforme, dotado de infraestructura física e instalaciones industriales y registrado como tal ante la Secretaría de Fomento Económico y Trabajo;
 
 II.- Consejo Consultivo: el Consejo Consultivo para el Desarrollo Económico de Yucatán;
 
@@ -75,13 +75,19 @@ III.- Desarrollo Económico: el cambio favorable en las condiciones cualitativas
 
 IV.- Ley: la Ley de Desarrollo Económico y Fomento al Empleo del Estado de Yucatán;
 
-V.- Microparque: la superficie de terreno de propiedad pública o privada destinada al establecimiento de microempresas, dividida en lotes de entre 250 y 1,000 metros cuadrados, con infraestructura física, tales como calles, alumbrado público, energía eléctrica, teléfono, agua y drenaje, que se encuentre registrada en la Secretaría de Fomento Económico del Poder Ejecutivo del Gobierno del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-VI.- Parque Industrial: la superficie de terreno con un mínimo de 10 hectáreas con otras 10 para futuras extensiones, de propiedad pública o privada, destinada al establecimiento de industrias, dividida en lotes mayores a los 1,000 metros cuadrados, con servicios de infraestructura física, tales como calles, alumbrado público, energía eléctrica, teléfono, agua y drenaje, que se encuentre registrada en la Secretaría de Fomento Económico del Poder Ejecutivo del Gobierno del Estado de Yucatán;
+V.- Microparque: la superficie de terreno de propiedad pública o privada destinada al establecimiento de microempresas, dividida en lotes de entre doscientos cincuenta y mil metros cuadrados, con infraestructura física tal como calles, alumbrado público, energía eléctrica, teléfono, agua y drenaje, que se encuentre registrada en la Secretaría de Fomento Económico y Trabajo;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VI.- Parque Industrial: la superficie de terreno con un mínimo de diez hectáreas con otras diez para futuras extensiones, de propiedad pública o privada, destinada al establecimiento de industrias, dividida en lotes mayores a los mil metros cuadrados, con servicios de infraestructura física tales como calles, alumbrado público, energía eléctrica, teléfono, agua y drenaje, que se encuentre registrada en la Secretaría de Fomento Económico y Trabajo;
 
 VII.- Programa Rector: el Programa Rector para el Desarrollo Económico del Estado de Yucatán;
 
-VIII.- Secretaría: la Secretaría de Fomento Económico del Poder Ejecutivo del Gobierno del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VIII.- Secretaría: la Secretaría de Fomento Económico y Trabajo;
 
 IX.- Sujetos de apoyo: las personas físicas o morales con actividad empresarial, establecidas o por establecerse en el Estado, cuyos proyectos de inversión sean detonantes para el desarrollo o generen empleos directos, y
 
@@ -609,11 +615,11 @@ V.- Promover la cooperación solidaria entre las empresas, los colegios de profe
 
 ### CAPÍTULO II. De la Preservación del Medio Ambiente
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 45.
 
-La Secretaría coadyuvará con la Secretaría de Desarrollo Urbano y Medio Ambiente, en el cuidado y preservación del medio ambiente, para tal fin, fomentará:
+La Secretaría coadyuvará con la Secretaría de Desarrollo Sustentable en el cuidado y preservación del medio ambiente. Para tal fin, fomentará:
 
 I.- El impulso de una cultura sobre el cuidado y preservación de los recursos naturales renovables y no renovables y el patrimonio cultural;
 
@@ -621,11 +627,11 @@ II.- La racionalización en el uso y explotación de los recursos naturales, y
 
 III.- Se garantice el desarrollo económico sustentable del Estado.
 
-> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 46.
 
-La Secretaría, de manera conjunta con la Secretaría de Desarrollo Urbano y Medio Ambiente, impulsarán el desarrollo de los estudios socioeconómicos y ambientales, que permitan desarrollar proyectos económicos que sean ecológicamente viables, según la legislación aplicable.
+La Secretaría, de manera conjunta con la Secretaría de Desarrollo Sustentable, impulsará el desarrollo de los estudios socioeconómicos y ambientales que permitan desarrollar proyectos económicos que sean ecológicamente viables, según la legislación aplicable.
 
 ###### Artículo 47.
 
@@ -838,3 +844,19 @@ Artículo Cuarto.- Cuando en las leyes, reglamentos y demás instrumentos normat
 Artículo Quinto.- El Poder Ejecutivo del Gobierno del Estado implementará mecanismos que garanticen la existencia de recursos económicos para el beneficio de las empresas del Estado.
 
 Artículo Sexto.- Se derogan todas las disposiciones de igual o menor rango que se opongan a este Decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
