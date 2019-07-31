@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-fomento-a-las-actividades-de-las-organizaciones-de-12926
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-22"
-last_updated: "2018-06-22"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento II del Diario Oficial del Estado de Yucatán, el viernes 22 de junio de 2018.
 
@@ -243,7 +243,13 @@ b) La Secretaría de Administración y Finanzas.
 
 c) La Secretaría de Desarrollo Social.
 
-d) La Secretaría de Desarrollo Urbano y Medio Ambiente.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+d) La Secretaría de Desarrollo Sustentable.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
+e) El Instituto de Movilidad y Desarrollo Urbano Territorial.
 
 II.- Tres representantes de las organizaciones inscritas en el registro.
 
@@ -580,3 +586,21 @@ Gobernador del Estado de Yucatán
 Martha Leticia Góngora Sánchez
 
 Secretaria general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
