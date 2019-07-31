@@ -4,7 +4,7 @@ identifier: "YUC-ley-ganadera-del-estado-de-yucatan-8244"
 country: "mx"
 rank: "ley"
 publication_date: "1972-10-16"
-last_updated: "2016-12-28"
+last_updated: "2019-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY GANADERA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 16 de octubre de 1972.
 
@@ -323,11 +323,11 @@ El Gobierno del Estado podrá en cualquier tiempo retener los subsidios otorgado
 
 La Secretaría de Desarrollo Rural llevará un registro de las personas físicas o morales que directa o indirecta, permanente o transitoriamente, se dediquen a la cría, reproducción, mejoramiento o explotación de especies animales; y de quienes comercien, transporten, industrialicen o transformen sus productos y subproductos.
 
-> <small>(REFORMADO, D.O. 6 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 18.
 
-Los ganaderos están obligados a manifestar por escrito el inicio de sus actividades pecuarias al Ayuntamiento de la jurisdicción en que tengan su negociación. En dicha manifestación se especificará el nombre y datos generales del ganadero, nombre y ubicación del predio que ocupe su negocio, fierro y marca de sangre de su uso, clase de explotación a que se dedique o se dedicará, y número y especie de sus animales de su propiedad. Asimismo, expresará el número de la credencial y del registro que le corresponda de la Asociación Ganadera Local a que pertenezca. La manifestación deberá presentarse por sextuplicado, y una vez sellada por el Ayuntamiento será distribuida en la forma siguiente: original para el Ayuntamiento; dos copias a la Secretaría de Desarrollo Rural y Pesca; una copia a la Unión Ganadera Regional a que pertenezca; una copia a la Asociación Ganadera Local a que pertenezca; una copia para el interesado.
+Los ganaderos están obligados a manifestar por escrito el inicio de sus actividades pecuarias al Ayuntamiento de la jurisdicción en que tengan su negociación. En dicha manifestación se especificará el nombre y datos generales de la ganadera o ganadero, nombre y ubicación del predio que ocupe su negocio, fierro y marca de sangre de su uso, clase de explotación a que se dedique o se dedicará, y número y especie de sus animales de su propiedad. Asimismo, expresará el número de la credencial y del registro que le corresponda de la Asociación Ganadera Local a que pertenezca. La manifestación deberá presentarse por sextuplicado, y una vez sellada por el Ayuntamiento será distribuida en la forma siguiente: original para el Ayuntamiento; dos copias a la Secretaría de Desarrollo Rural; una copia a la Unión Ganadera Regional a que pertenezca; una copia a la Asociación Ganadera Local a que pertenezca; una copia para la parte interesada.
 
 > <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
@@ -1626,3 +1626,19 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
