@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-cultura-fisica-y-deporte-del-estado-de-yucatan-84033"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-02"
-last_updated: "2017-07-07"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 2 de diciembre de 2011.
 
@@ -35,7 +35,9 @@ QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA SERVIDO DIRIGIRME EL SIGU
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO DE YUCATÁN, EMITE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-E X P O S I C I Ó N D E M O T I V O S:.
+E X P O S I C I Ó N D E M O T I V O S:
+
+[...]
 
 En tal virtud con fundamento en el artículo 30, fracción V de la Constitución Política, 18 y 43, fracción VIII de la Ley de Gobierno del Poder Legislativo, ambas del Estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -187,7 +189,9 @@ IV. El secretario de Educación;
 
 V. El secretario de Obras Públicas;
 
-VI. El secretario de la Juventud;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VI. El secretario de Desarrollo Social;
 
 VII. Los presidentes municipales de las cabeceras de cada una de las regiones en las que se distribuye el Estado, de conformidad a lo previsto en el Reglamento de la Ley de Planeación para el Desarrollo del Estado de Yucatán, y
 
@@ -313,7 +317,9 @@ IV. El secretario de Educación;
 
 V. El secretario de Salud, y
 
-VI. El secretario de la Juventud.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VI. El secretario de Desarrollo Social.
 
 Los integrantes del consejo directivo tendrán derecho a voz y voto durante sus sesiones.
 
@@ -1296,3 +1302,19 @@ El director general del Instituto del Deporte del Estado de Yucatán deberá ins
 Octavo. Adecuación de reglamentos municipales
 
 Los ayuntamientos deberán adecuar o, en su caso, emitir sus reglamentos de cultura física y deporte, para ajustarse a las disposiciones de este decreto, dentro del primer año siguiente a su entrada en vigor.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
