@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1133
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-04"
-last_updated: "2016-03-04"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 4 de marzo de 2016.
 
@@ -61,13 +61,25 @@ Para los efectos de esta ley, además de los conceptos previstos en el artículo
 
 I. Consejo estatal: el Consejo Estatal para la Igualdad entre Mujeres y Hombres.
 
-II. Instituto: el Instituto para la Igualdad entre Mujeres y Hombres en Yucatán.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+II. Igualdad sustantiva: el acceso al mismo trato, oportunidades, goce o ejercicio de los derechos humanos, en donde lo que se prioriza son los resultados, los cuales carecen de desigualdades y son libres de discriminación.
 
 III. Ley general: la Ley General para la Igualdad entre Mujeres y Hombres.
 
 IV. Programa especial: el Programa Especial para la Igualdad entre Mujeres y Hombres.
 
-V. Sistema estatal: el Sistema Estatal para la Igualdad entre Mujeres y Hombres.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE JULIO DE 2019)</small>
+
+V. Secretaría: la Secretaría de las Mujeres.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O. 31 DE JULIO DE 2019)</small>
+
+VI. Sistema estatal: el Sistema Estatal para la Igualdad entre Mujeres y Hombres.
+
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VII. Transversalidad: el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres la realización de acciones, las modificaciones a la legislación vigente, la implementación de políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
 
 ###### Artículo 3.
 
@@ -101,27 +113,39 @@ En lo no previsto por esta ley, se aplicarán, en forma supletoria, las disposic
 
 Competencias
 
-Corresponde al Gobierno del Estado de Yucatán las competencias previstas en el artículo 15 de la ley general y a los ayuntamientos, las previstas en el artículo 16 de la propia ley.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
-### Capítulo III. Instituto para la Igualdad entre Mujeres y Hombres en Yucatán
+Corresponde al Gobierno del Estado de Yucatán las competencias previstas en el artículo 15 de la ley general y a los ayuntamientos, las previstas en el artículo 16 de la propia ley y las establecidas, en materia de igualdad de género en la Ley de Gobierno de los Municipios del Estado de Yucatán.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2019)</small>
+
+### Capítulo III. Secretaría de las Mujeres
+
+> <small>(DEROGADA, D.O. 31 DE JULIO DE 2019)</small>
 
 #### Sección primera. Disposiciones generales
 
 ###### Artículo 8.
 
-Objeto
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
-El Instituto para la Igualdad entre Mujeres y Hombres en Yucatán es un organismo público descentralizado de la Administración Pública estatal, con personalidad jurídica y patrimonio propios, que tiene por objeto promover y fomentar las condiciones que posibiliten la no discriminación y la igualdad sustantiva y de género; así como el ejercicio pleno de todos los derechos de las mujeres y su participación equitativa en la vida política, cultural, económica y social en el estado.
+> <small>(REFORMADO EPÍGRAFE, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 9.
 
-Atribuciones
+Secretaría de las Mujeres
 
-El instituto, para el cumplimiento de su objeto, tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
-I. Fomentar la creación de políticas públicas que promuevan la igualdad entre la mujer y el hombre en la Administración Pública del estado y los municipios.
+La secretaría, en el ámbito de su competencia, tendrá las atribuciones siguientes:
 
-II. Promover la incorporación de la perspectiva de género, la igualdad sustantiva y la de género, y la transversalidad en las políticas públicas, programas y demás instrumentos de planeación del Gobierno del estado.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+I. Fomentar la creación de políticas públicas que promuevan la igualdad entre mujeres y hombres en la Administración Pública del estado y los municipios.
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+II. Promover la incorporación transversal de la perspectiva de género, el enfoque de derechos humanos, la interculturalidad, la justicia y la educación para la paz en las políticas públicas, programas y demás instrumentos de planeación del Gobierno del estado.
 
 III. Procurar, impulsar y apoyar el ejercicio pleno de los derechos de las mujeres, la promoción de la igualdad entre mujeres y hombres, así como el fortalecimiento de mecanismos administrativos para el mismo fin.
 
@@ -129,7 +153,9 @@ IV. Elaborar el proyecto del programa especial en coordinación con las demás a
 
 V. Concertar la celebración de convenios, contratos y acuerdos entre los Gobiernos federal, estatal y municipal, así como con instituciones públicas o privadas, para el cumplimiento del objeto de esta ley.
 
-VI. Promover, entre los tres poderes del estado y la sociedad organizada, acciones dirigidas a mejorar la condición social de la población femenina y la erradicación de todas las formas de discriminación contra las mujeres, en los ámbitos de la vida social, económica, política y cultural.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VI. Promover, entre los tres poderes del estado y la sociedad organizada, acciones dirigidas a mejorar la condición social de las mujeres y la erradicación de todas las formas de discriminación contra las mujeres, en los ámbitos de la vida social, económica, política y cultural.
 
 VII. Promover acciones legislativas que garanticen a la mujer el acceso igualitario y no discriminatorio al desarrollo y la tutela efectiva de sus derechos humanos.
 
@@ -153,7 +179,11 @@ XVI. Promover la creación de instancias de atención a la mujer en las diferent
 
 XVII. Promover ante las autoridades competentes que los contenidos y materiales educativos estén libres de prejuicios discriminatorios contra las mujeres y fomenten la igualdad sustantiva y de género.
 
-XVIII. Las demás previstas en esta ley, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia en el Estado de Yucatán, y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2019)</small>
+
+XVIII. Dar seguimiento a las medidas, acciones, planes y programas en materia de igualdad entre mujeres y hombres que implementen las dependencias y entidades del Gobierno del estado, así como llevar a cabo el procesamiento de la información y sistematización de dichas acciones.
+
+XIX. Las demás previstas en esta ley, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia en el Estado de Yucatán, y otras disposiciones legales y normativas aplicables.
 
 ### Capítulo IV. Sistema Estatal para la Igualdad entre Mujeres y Hombres
 
@@ -161,157 +191,43 @@ XVIII. Las demás previstas en esta ley, la Ley de Acceso de las Mujeres a una V
 
 ###### Artículo 10.
 
-Patrimonio
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
-El patrimonio del instituto se integrará con:
-
-I. Los recursos que les sean asignados o transferidos conforme al Presupuesto de Egresos del Gobierno del Estado de Yucatán.
-
-II. Los recursos que les transfieran o les asignen los Gobiernos federal, estatal o municipales y organismos nacionales o internacionales.
-
-III. Los bienes muebles e inmuebles y derechos que adquieran por cualquier título legal.
-
-IV. Los ingresos que perciba por la prestación de sus servicios y operación.
-
-V. Las utilidades, intereses, dividendos y rendimientos de sus bienes y derechos.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 11.
 
-Estructura orgánica
-
-El instituto estará conformado por:
-
-I. La junta de gobierno.
-
-II. La directora general.
-
-III. Las unidades administrativas, a cargo de la dirección general, que establezca su estatuto orgánico.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 12.
 
-Atribuciones de la junta de gobierno
-
-La junta de gobierno del instituto tendrá las siguientes atribuciones:
-
-I. Aprobar y evaluar las políticas generales y programas del instituto para el eficaz desarrollo de sus actividades.
-
-II. Evaluar, aprobar y dar seguimiento a los anteproyectos de presupuestos de ingresos y egresos del instituto, presentados por la directora general.
-
-III. Examinar y, en su caso, aprobar anualmente, previo informe del comisario y dictamen de los auditores externos, los estados financieros del instituto.
-
-IV. Aprobar la estructura orgánica del instituto.
-
-V. Aprobar el estatuto orgánico así como los reglamentos, manuales de organización y demás instrumentos que regulen la organización y el funcionamiento del instituto.
-
-VI. Requerir, analizar y, en su caso, aprobar, los informes periódicos que rinda la directora general del instituto.
-
-VII. Determinar la creación de comités o grupos de trabajo para el cumplimiento del objeto del instituto.
-
-VIII. Vigilar la aplicación de los donativos o pagos extraordinarios, con base en las disposiciones legales y normativas aplicables.
-
-IX. Requerir a la directora general informes sobre el estado que guardan los programas y actividades del instituto.
-
-X. Las demás que le confiere el Código de la Administración Pública de Yucatán, su reglamento, el estatuto orgánico y otras disposiciones legales y normativas aplicables.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 13.
 
-Integración de la junta de gobierno
-
-La junta de gobierno será la máxima autoridad del instituto y estará integrada por la o el titular de:
-
-I. El Poder Ejecutivo, o la persona que este designe, quien será el presidente.
-
-II. La Secretaría General de Gobierno.
-
-III. La Secretaría de Administración y Finanzas.
-
-IV. La Secretaría de Salud.
-
-V. La Secretaría de Educación.
-
-VI. La Secretaría de Desarrollo Social.
-
-VII. La Secretaría de Seguridad Pública.
-
-VIII. La Fiscalía General del Estado.
-
-IX. La Secretaría de Fomento Económico.
-
-X. La Secretaría de Desarrollo Rural.
-
-XI. La Secretaría del Trabajo y Previsión Social.
-
-XII. La Secretaría de la Cultura y las Artes.
-
-Quienes integren la junta de gobierno tendrán derecho a voz y voto durante las sesiones.
-
-La junta de gobierno contará con un secretario de actas y acuerdos, quien será designado por el Secretario General de Gobierno, el cual, para el desempeño de sus funciones, asistirá a las sesiones de la junta de gobierno con derecho a voz, pero no a voto.
-
-Los integrantes de la junta de gobierno, a excepción del presidente, quien será suplido por el Secretario General de Gobierno, nombrarán, por escrito dirigido al secretario de actas y acuerdos, a sus suplentes, quienes los sustituirán en sus ausencias con las facultades y obligaciones que establecen el Reglamento del Código de la Administración Pública de Yucatán y otras disposiciones legales y normativas aplicables.
-
-Los cargos de los integrantes de la junta de gobierno son de carácter honorífico, por tanto, quienes los ocupen no recibirán retribución alguna por su desempeño.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 14.
 
-Estatuto orgánico
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
-En el estatuto orgánico se deberán establecer las bases para la organización y el funcionamiento de la junta de gobierno, así como las atribuciones que correspondan a las unidades administrativas que integren el instituto.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 15.
 
-Nombramiento y remoción del Titular de la Dirección general
-
-El Titular de la dirección general del instituto será nombrado y removido por el Gobernador del Estado de Yucatán.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 16.
 
-Facultades y obligaciones de la directora general
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
-La directora general del instituto tendrá las siguientes facultades y obligaciones:
-
-I. Representar al instituto con todas las facultades de apoderado general para pleitos y cobranzas, actos de administración y de dominio, y sustituir o delegar esta representación en uno o más apoderados para que la ejerzan individual o conjuntamente.
-
-II. Conducir el funcionamiento del instituto así como vigilar y evaluar el cumplimiento de su objeto, programas y proyectos.
-
-III. Celebrar convenios, contratos y acuerdos con los sectores público, privado, social y académico, dando cuenta de ello a la junta de gobierno.
-
-IV. Emitir, avalar y negociar títulos de crédito.
-
-V. Formular querellas, otorgar perdón y promover o desistirse de ejercer acciones judiciales, inclusive si corresponden a juicios de amparo.
-
-VI. Asistir con voz, pero sin voto, a todas las sesiones de la junta de gobierno.
-
-VII. Expedir certificaciones de los documentos que obren en los archivos a su cargo.
-
-VIII. Ejercer directamente las atribuciones de las unidades administrativas del instituto.
-
-IX. Nombrar y remover a los servidores públicos adscritos a las unidades administrativas del instituto.
-
-X. Autorizar y certificar con su firma las asignaciones, permisos, licencias y demás documentos que le competan.
-
-XI. Formular los dictámenes, opiniones e informes que le sean solicitados por el Gobernador del estado.
-
-XII. Presentar a la junta de gobierno los programas y los proyectos de presupuesto de ingresos y egresos del instituto.
-
-XIII. Someter a la aprobación de la junta de gobierno los proyectos de reglamentos, manuales y programas del instituto, en términos de las disposiciones aplicables.
-
-XIV. Presentar un informe anual a la junta de gobierno sobre las actividades realizadas por el instituto.
-
-XV. Ejecutar los acuerdos y disposiciones que emita la junta de gobierno.
-
-XVI. Administrar el patrimonio del instituto conforme a los programas y el presupuesto autorizado por la junta de gobierno.
-
-XVII. Proponer a la junta de gobierno políticas y lineamientos generales para el funcionamiento del instituto.
-
-XVIII. Las demás que le confieran esta ley, el Código de la Administración Pública de Yucatán, su reglamento, el estatuto orgánico y otras disposiciones legales y normativas aplicables, así como las que le encomiende la junta de gobierno para cumplir con el objeto del instituto.
-
-En todo caso, para ejercer las facultades establecidas en las fracciones I, IV y V deberá contar con la autorización expresa de la junta de gobierno.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 17.
 
-Órgano de vigilancia y supervisión
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
-Las funciones de vigilancia del instituto estarán a cargo de un comisario público, quien será designado por la Secretaría de la Contraloría General y tendrá las facultades y obligaciones necesarias para el desempeño de las funciones de vigilancia que le correspondan, en los términos del Código de la Administración Pública de Yucatán y su reglamento. El comisario público no formará parte de la junta de gobierno del instituto, pero podrá asistir a las sesiones únicamente con derecho a voz.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 31 DE JULIO DE 2019)</small>
 
 #### Sección quinta. Régimen laboral
 
@@ -319,9 +235,7 @@ Las funciones de vigilancia del instituto estarán a cargo de un comisario públ
 
 ###### Artículo 18.
 
-Régimen laboral
-
-Las relaciones laborales entre el instituto y sus trabajadores, independientemente de la naturaleza de su contratación, se regirán por lo dispuesto en el artículo 123, apartado A, de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones legales y normativas aplicables.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ### Capítulo V. Política estatal en materia de igualdad entre mujeres y hombres
 
@@ -375,7 +289,9 @@ El consejo estatal se integra por las y los titulares de las autoridades del sis
 
 I. La Secretaría General de Gobierno, quien lo presidirá.
 
-II. La Dirección General del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, quien será la secretaria ejecutiva.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+II. La Secretaría de las Mujeres, quien será la secretaría ejecutiva.
 
 III. La Secretaría de Administración y Finanzas.
 
@@ -389,13 +305,17 @@ VII. La Secretaría de Seguridad Pública.
 
 VIII. La Fiscalía General del Estado.
 
-IX. La Secretaría de Fomento Económico.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IX. La Secretaría de Fomento Económico y Trabajo.
 
 X. La Secretaría de Desarrollo Rural.
 
-XI. La Secretaría de Desarrollo Urbano y Medio Ambiente.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-XII. La Secretaría del Trabajo y Previsión Social.
+XI. La Secretaría de Desarrollo Sustentable.
+
+XII. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
 XIII. La Secretaría de la Cultura y las Artes.
 
@@ -417,7 +337,9 @@ XXI. La Presidencia de la Junta de Gobierno y Coordinación Política del Congre
 
 XXII. La Presidencia de la Comisión de Igualdad de Género del Congreso del Estado.
 
-Cuando el Gobernador asista a las sesiones del consejo estatal, asumirá el cargo de presidente y el Secretario General de Gobierno fungirá como secretario ejecutivo, conservando el derecho a voz y voto, ambos con las facultades y obligaciones establecidas para tal efecto en esta ley.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Cuando la persona Titular del Poder Ejecutivo asista a las sesiones del consejo estatal, asumirá el cargo de presidente y el Secretario General de Gobierno fungirá como secretario ejecutivo, conservando el derecho a voz y voto, ambos con las facultades y obligaciones establecidas para tal efecto en esta ley.
 
 ###### Artículo 23.
 
@@ -437,7 +359,9 @@ El reglamento interno del consejo deberá establecer lo relativo a la organizaci
 
 Consejo consultivo
 
-El instituto, por conducto de su junta de gobierno, regulará, mediante acuerdo, el Consejo Consultivo del Sistema Estatal para la Igualdad entre Mujeres y Hombres, el cual será presidido por la directora general y deberá contar con la participación de representantes de los diferentes sectores de la sociedad, de las organizaciones públicas y privadas, de las asociaciones civiles y de las instituciones académicas.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+El Consejo Consultivo del Sistema Estatal para la Igualdad entre Mujeres y Hombres será regulado por la persona titular del Poder Ejecutivo, mediante decreto; será presidido por la Secretaría de las Mujeres y deberá contar con la participación de representantes de los diferentes sectores de la sociedad, de las organizaciones públicas y privadas, de las asociaciones civiles y de las instituciones académicas.
 
 ### Capítulo VI. Observancia en materia de igualdad entre mujeres y hombres
 
@@ -449,7 +373,9 @@ La política estatal en materia de igualdad entre mujeres y hombres deberá esta
 
 I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida.
 
-II. Vigilar que, en la planeación presupuestal, se incorpore la perspectiva de género, se apoye la transversalidad y se prevea el cumplimiento de los programas, proyectos y acciones para la igualdad entre mujeres y hombres.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+II. Vigilar que, en la planeación presupuestal, se incorpore la perspectiva de género, se apoye la transversalidad y se prevea el cumplimiento de los programas, proyectos, acciones y medidas para la igualdad entre mujeres y hombres.
 
 III. Fomentar la participación y representación política equilibrada entre mujeres y hombres.
 
@@ -487,9 +413,13 @@ El programa especial tiene por objeto establecer las acciones que, en forma plan
 
 Elaboración del programa especial
 
-La elaboración del anteproyecto del programa especial estará a cargo del instituto, quien lo presentará al Gobernador del estado para su aprobación y emisión.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
-El instituto tomará en cuenta las necesidades y particularidades en materia de desigualdad de género de cada región del estado y procurará la participación de los sectores público, social y privado, especialmente de los órganos de participación ciudadana en la formulación, ejecución, evaluación y modificación del programa especial.
+La elaboración del anteproyecto del programa especial estará a cargo de la secretaría, quien lo presentará a la persona titular del Poder Ejecutivo para su aprobación y emisión.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+La secretaría tomará en cuenta las necesidades y particularidades en materia de desigualdad de género de cada región del estado y procurará la participación de los sectores público, social y privado, especialmente de los órganos de participación ciudadana en la formulación, ejecución, evaluación y modificación del programa especial.
 
 ###### Artículo 30.
 
@@ -640,3 +570,45 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario General de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 97/2019 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN Y SE EXTINGUE Y LIQUIDA EL INSTITUTO PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligación de la dependencia coordinadora de sector
+
+La Secretaría General de Gobierno, en su carácter de dependencia coordinadora de sector, una vez concluido el proceso de desincorporación del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, deberá informar este hecho a la Secretaría de Administración y Finanzas dentro de los treinta días naturales siguientes, para los efectos que correspondan.
+
+Tercero. Asuntos pendientes
+
+Los acuerdos, convenios, así como los asuntos, expedientes y demás actos jurídicos y administrativos, pendientes y en trámite, que se encuentren bajo cualquier concepto en el Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, se transferirán y quedarán a cargo de la Secretaría de las Mujeres, a partir de la entrada en vigor de este decreto.
+
+Cuarto. Transferencia de recursos
+
+A partir de la entrada en vigor de este decreto, el patrimonio, el presupuesto del ejercicio fiscal en curso, las economías, recursos en cuentas, bienes muebles e inmuebles del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán pasarán al dominio y uso de la Secretaría de las Mujeres.
+
+Quinto. Procedimientos, juicios y asuntos en trámite
+
+Todos los procedimientos, juicios y demás asuntos relacionados con las materias relacionadas con este decreto que se encuentren en trámite a su entrada en vigor, se substanciarán y resolverán hasta su total conclusión de conformidad con las normas aplicables al momento en que fueron iniciados.
