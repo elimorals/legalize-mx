@@ -4,7 +4,7 @@ identifier: "NAY-ley-laboral-burocratica-del-estado-de-nayarit-136466"
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-31"
-last_updated: "2019-05-31"
+last_updated: "2019-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY LABORAL BUROCRATICA DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE JULIO DE 2019 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY LABORAL BUROCRÁTICA DEL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE JULIO DE 2019.]
 
 Ley publicada en la Sección Tercera del Número 106 del Periódico Oficial del Estado de Nayarit, el viernes 31 de mayo de 2019.
 
@@ -45,9 +45,11 @@ Ley Laboral Burocrática del Estado de Nayarit
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 1.
 
-Naturaleza y objeto. La presente Ley es de observancia general y rige, en sus términos, las relaciones de trabajo entre los Poderes Legislativo, Ejecutivo y Judicial y los Municipios; así como las instituciones descentralizadas de carácter estatal y municipal, Organismos Constitucionalmente Autónomos y Empresas y fideicomisos de carácter estatal y municipal, hacía con sus trabajadores, independientemente de lo que dispongan sus normas de creación.
+Naturaleza y objeto. La presente Ley es de observancia general y rige, en sus términos, las relaciones de trabajo entre los Poderes Legislativo, Ejecutivo y Judicial y los Municipios; así como las instituciones descentralizadas de carácter estatal y municipal, Organismos Constitucionalmente Autónomos y Empresas de participación estatal y fideicomisos de carácter estatal y municipal, hacía con sus trabajadores, independientemente de lo que dispongan sus normas de creación.
 
 ###### Artículo 2.
 
@@ -415,9 +417,11 @@ Las mujeres embarazadas podrán, mediante certificado médico, justificar su inc
 
 Descanso. A la mitad de la jornada de trabajo se concederá al trabajador un descanso de media hora por lo menos.
 
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 39.
 
-Tiempo efectivo de trabajo por descanso. Cuando el trabajador no pueda salir del lugar donde preste sus servicios durante las horas de reposo o de comida, el tiempo correspondiente le será computado como tiempo efectivo de la jornada de trabajo.
+Tiempo efectivo de trabajo por descanso. Cuando el trabajador no pueda salir del lugar donde preste sus servicios durante el tiempo de reposo o de comida, este le será computado como tiempo efectivo de la jornada de trabajo.
 
 ###### Artículo 40.
 
@@ -463,7 +467,9 @@ VIII. El 25 de diciembre,
 
 IX. El que determinen las leyes federales y locales electorales, en el caso de elecciones ordinarias, para efectuar la jornada electoral; y
 
-X. Los que conceda el Titular del Poder Ejecutivo.
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
+
+X. Los que concedan los titulares u órganos competentes de los Entes Públicos.
 
 ###### Artículo 45.
 
@@ -501,13 +507,17 @@ II. Voluntarias y,
 
 III. Necesarias.
 
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 51.
 
-Licencias económicas. Las licencias económicas serán con goce de sueldo hasta por seis días distribuidas por periodos de tres días y por dos veces al año, siempre que no sean consecutivas.
+Licencias económicas. Las licencias económicas serán con goce de sueldo hasta por tres días y por tres veces al año, siempre que no sean consecutivas.
+
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 52.
 
-Licencias voluntarias. Son licencias voluntarias las que soliciten los trabajadores para la atención de asuntos particulares. Deberán concederse sin goce de sueldo y hasta por seis meses. En casos especiales que beneficien la prestación del servicio encomendado, se podrán otorgar a juicio del Ente Público.
+Licencias voluntarias. Son licencias voluntarias las que soliciten los trabajadores para la atención de asuntos particulares. Deberán concederse sin goce de sueldo y hasta por seis meses. En casos especiales que beneficien la prestación del servicio encomendado, se podrán otorgar, con goce de sueldo, a juicio del Ente Público.
 
 ###### Artículo 53.
 
@@ -711,7 +721,9 @@ I. Por renuncia,
 
 II. Por abandono de empleo,
 
-III. Por más de tres faltas de asistencia injustificadas en un periodo de treinta días.
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
+
+III. Por más de tres faltas injustificadas en un periodo de treinta días.
 
 IV. Por la falta de la atención a personas que pongan en peligro, su vida o sus bienes o que cause la suspensión o deficiencia grave de un servicio público.
 
@@ -1321,7 +1333,9 @@ Prohibiciones de los Sindicatos. Queda prohibido a los sindicatos:
 
 I. Hacer propaganda de carácter electoral o religioso;
 
-II. Ejercer la función de comerciantes, o cualquier otra autoridad (sic) con fines de lucro;
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
+
+II. Ejercer la función de comerciantes, o cualquier otra actividad con fines de lucro;
 
 III. Usar la violencia con los trabajadores libres para obligarlos a que se sindicalicen;
 
@@ -1521,7 +1535,9 @@ III. Por el allanamiento de los Entes Públicos;
 
 IV. Por declaración de ilicitud o inexistencia, y
 
-VII. (Sic) Por Resolución de la Sala Laboral competente.
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
+
+V. Por resolución de la Sala Laboral competente.
 
 ###### Artículo 162.
 
@@ -1701,7 +1717,9 @@ Las decisiones de la Junta de Gobierno serán tomadas por mayoría de votos de l
 
 La Junta de Gobierno hará pública, para consulta de cualquier persona, la información de los contratos colectivos de trabajo que se encuentren depositados ante el Instituto. Asimismo, deberá expedir copias de dichos documentos, en términos de lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit.
 
-De preferencia, el texto íntegro de las versiones públicas de los contratos colectivos de trabajo deberá estar disponible en forma gratuita en el sitio de Internet de la Autoridad Registral.
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
+
+De preferencia, el texto íntegro de las versiones públicas de los contratos colectivos de trabajo deberá estar disponible en forma gratuita en el sitio de Internet del Instituto.
 
 Las atribuciones y acuerdos tomados por la Junta de Gobierno del Instituto serán ejecutados por su Presidente.
 
@@ -1783,7 +1801,9 @@ El resultado se dará a conocer a cada uno de los aspirantes, de manera privada.
 
 III. Transcurrido el término indicado en la fracción anterior, o resuelto el o los recursos de revisión que se hubieran interpuesto, el Comité elaborará un pre dictamen en torno de los resultados obtenidos y lo remitirá formalmente al Congreso del Estado.
 
-IV. Una vez recibido el pre dictamen, el Presidente del congreso lo turnará a la Comisión legislativa que corresponda; ésta, convocará a las personas aspirantes para entrevistarlas en torno de aquellas cuestiones relacionadas con su trayectoria laboral y profesional y de los temas que consideren necesarios.
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
+
+IV. Una vez recibido el pre dictamen, el Presidente de la Mesa Directiva lo turnará a la Comisión legislativa que corresponda; ésta, convocará a las personas aspirantes para entrevistarlas en torno de aquellas cuestiones relacionadas con su trayectoria laboral y profesional y de los temas que consideren necesarios.
 
 V. Concluida la etapa de entrevistas, la Comisión Legislativa del Congreso contará con cinco días hábiles para presentar al pleno, por conducto de su Presidente, un dictamen conclusivo del procedimiento, en el cual se propondrá de entre los aspirantes que hayan obtenido la mayor puntuación, una terna para que, de entre ellos, sea designado por voto mayoritario de los Diputados presentes, el Presidente del Instituto.
 
@@ -1829,7 +1849,7 @@ Facultades. El Director General tendrá las siguientes facultades y obligaciones
 
 I. Representar legalmente a la Unidad;
 
-II. Elaborar un Plan de Trabajo en el que se plantee las modalidades para ejercer efectivamente las actividades de resolución de conflictos mediantes (sic) los procedimientos establecidos en la presente Ley, así como, de los cursos de capacitación de los especialistas;
+II. Elaborar un Plan de Trabajo en el que se plantee las modalidades para ejercer efectivamente las actividades de resolución de conflictos mediante (sic) los procedimientos establecidos en la presente Ley, así como, de los cursos de capacitación de los especialistas;
 
 III. Presentar en el mes de diciembre de cada año al Presidente del Instituto, un informe de los trabajos desarrollados durante el periodo que corresponda, en donde se detalle el grado de cumplimiento del Plan de Trabajo, y
 
@@ -2107,7 +2127,9 @@ Regularización del procedimiento. Los Especialistas o Presidentes de las Salas 
 
 Medios de apremio. Los Presidentes de las Salas Laborales para hacer cumplir sus determinaciones podrán emplear, sin sujetarse al orden, cualquiera de los siguientes medios de apremio:
 
-I. Multa hasta por hasta por (sic) treinta veces la UMA, teniendo en cuenta lo que al respecto dispone el artículo 21 Constitucional, la cual podrá duplicarse en caso de reincidencia;
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
+
+I. Multa hasta por treinta veces la UMA, teniendo en cuenta lo que al respecto dispone el artículo 21 Constitucional, la cual podrá duplicarse en caso de reincidencia;
 
 II. Auxilio de la fuerza Pública y la ruptura de cerraduras si fuese necesario;
 
@@ -2161,9 +2183,11 @@ Mientras subsista la omisión, en el primer caso se entenderá en los estrados y
 
 Autorizados. Las partes podrán autorizar para oír y recibir notificaciones en su nombre a una persona capaz.
 
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 214.
 
-Autorizados judiciales. Cuando la autorización a que se refiere el artículo anterior, se otorgue a un abogado con Título o Cédula Profesional registrada, o cuya existencia justifique, salvo las limitaciones que expresamente le imponga el autorizante, podrá:
+Autorizados Procesales. Cuando la autorización a que se refiere el artículo anterior, se otorgue a un abogado con Título o Cédula Profesional registrada, o cuya existencia justifique, salvo las limitaciones que expresamente le imponga el autorizante, podrá:
 
 I. Interponer, y en su caso proseguir, recursos o incidentes;
 
@@ -2211,7 +2235,9 @@ IV. Por otros medios, si los interesados así lo solicitan y siempre que se refi
 
 Personales. Las notificaciones personales se harán bajo las siguientes formalidades:
 
-I. Si se tratara de la primera notificación o emplazamiento, quien la practique, deberá cerciorarse previamente que la casa u oficina pública señalada para hacerla es el domicilio de la persona, Ente Público que ha de ser notificado y asentará en la razón correspondiente los medios de que se valió para tal efecto.
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
+
+I. Si se tratara de la primera notificación o emplazamiento, quien la practique, deberá cerciorarse previamente que la casa u oficina pública señalada para hacerla es el domicilio de la persona o Ente Público que ha de ser notificado y asentará en la razón correspondiente los medios de que se valió para tal efecto.
 
 II. Encontrando presente al interesado o a su Representante legal en términos de la normativa aplicable, y previa identificación, le entregará copia de la determinación o resolución que notifica y en su caso, de la demanda y documentos que con ésta se hubieren exhibido. Si la persona se identifica, pero se niega a recibir o a firmar la notificación, la negativa se asentará en autos y la notificación se tendrá por hecha. Si no se identifica, se procederá en términos de la fracción siguiente.
 
@@ -2323,7 +2349,9 @@ El escrito por el cual se presente la solicitud para tramitar los medios alterno
 
 I. Nombre y domicilio del Solicitante, así como de la Persona o Ente Público cuya comparecencia solicita;
 
-V. (Sic). Puesto, cargo o carácter con el que comparece;
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
+
+II. Puesto, cargo o carácter con el que comparece;
 
 III. Nombre y domicilio del Ente Público donde presta sus servicios o a quien representa.
 
@@ -2505,7 +2533,9 @@ Conclusión del procedimiento de mediación. El procedimiento de mediación se t
 
 I. Por solución del conflicto entre las partes, lo que en su caso, se hará constar en el acta que al efecto se redacte y que surtirá efectos de cosa juzgada;
 
-VI. (Sic) Por convenio que establezca la solución del conflicto;
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
+
+II. Por convenio que establezca la solución del conflicto;
 
 III. Por decisión del especialista, si a su criterio la mediación se ha dilatado por conducta irresponsable de las partes en conflicto;
 
@@ -2967,9 +2997,13 @@ II. De no ser el caso previsto en la fracción precedente, cada parte presentar�
 
 III. Los peritos protestarán de desempeñar su cargo con arreglo a la ley e inmediatamente rendirán su dictamen; a menos que por causa justificada soliciten se señale nueva fecha para rendir su dictamen;
 
-IV. La prueba se desahogará con el perito que concurra, salvo el caso de la fracción II del artículo que antecede, la Sala señalará nueva fecha, y dictará los medios de apremio necesarios para que comparezca el perito;
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
 
-V. Las partes, la Sala podrá hacer a los peritos las preguntas que juzguen convenientes; y
+IV. La prueba se desahogará con el perito que concurra, salvo el caso de la fracción II del artículo 304 de esta Ley, la Sala señalará nueva fecha, y dictará los medios de apremio necesarios para que comparezca el perito;
+
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
+
+V. Las partes y el Presidente de la Sala Laboral podrán hacer a los peritos las preguntas que juzguen convenientes; y
 
 VI. En caso de existir discrepancia en los dictámenes, y considerarlo necesario la Sala designará un perito tercero en discordia, cuyo pago será por conducto de ambas partes.
 
@@ -3099,7 +3133,9 @@ IX. Los documentos provenientes de terceros, cuando no fueren objetados o habié
 
 X. El reconocimiento o inspección judicial cuando se haya practicado en objetos que no requieran conocimientos especiales o científicos;
 
-XI. Las actuaciones judiciales;
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
+
+XI. Las actuaciones procesales;
 
 XII. Las presunciones legales; y
 
@@ -3415,17 +3451,17 @@ Segundo. Se abroga el Estatuto Jurídico de los Trabajadores al servicio del Est
 
 No obstante, continuará vigente, para los efectos precisados en el artículo transitorio sexto de la presente Ley.
 
-Tercero. Dentro del plazo de 180 días naturales posteriores a la entrada en vigor de la presente Ley, se deberá tener debidamente integrado el Instituto de Justicia Laboral Burocrática del Estado de Nayarit.
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
 
-Dentro de dicho término, se deberán emitir las siguientes normas reglamentarias necesarias para dar total cumplimiento a las disposiciones previstas en la presente Ley:
+Tercero. Dentro del plazo de 180 días naturales posteriores a la designación del titular del Instituto de Justicia Laboral Burocrática del Estado de Nayarit, se deberá tener debidamente integrado el Instituto de Justicia Laboral Burocrática del Estado de Nayarit.
 
-I. Reglamento Interior del Instituto de Justicia Laboral Burocrática.
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
 
-II. Reglamento de Escalafón de los trabajadores al servicio del Estado de Nayarit.
+Dentro de dicho término, se deberán emitir las normas reglamentarias necesarias para dar total cumplimiento a las disposiciones previstas en la presente Ley.
 
-III. Reglamento.
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
 
-Cuarto. Dentro del Plazo de 30 días posteriores a la entrada en vigor de la presente Ley el H. Congreso del Estado deberá designar a quien fungirá como titular del Instituto de Justicia Laboral Burocrática del Estado de Nayarit de conformidad con el procedimiento previsto en la presente Ley.
+Cuarto. Dentro del Plazo de 120 días posteriores a la entrada en vigor de la presente Ley el H. Congreso del Estado deberá designar a quien fungirá como titular del Instituto de Justicia Laboral Burocrática del Estado de Nayarit de conformidad con el procedimiento previsto en la presente Ley.
 
 Una vez designado el titular del Instituto de Justicia Laboral Burocrática del Estado de Nayarit, deberá, éste, iniciar de inmediato el procedimiento para la integración de la Junta de Gobierno que deberá estar constituida en un plazo no mayor de treinta días naturales.
 
@@ -3441,11 +3477,23 @@ Quinto. En tanto se integra el Instituto de Justicia Laboral y sus órganos, con
 
 Sexto. Los procedimientos que a la entrada en vigor de la presente Ley se encuentren en trámite o en proceso de ejecución ante el Tribunal de Conciliación y Arbitraje del Estado de Nayarit, o las Juntas Local o especiales de Conciliación y Arbitraje en materia laboral burocrática, continuarán rigiéndose hasta su conclusión, por la Ley que se abroga.
 
-Séptimo. Las demandas o procedimientos que se interpongan en el lapso que medie entre la entrada en vigor de la presente Ley y la Integración e inicio de funciones del Instituto de Justicia Laboral del Estado de Nayarit, deberán ser incoadas y tramitadas por el Tribunal de Conciliación y Arbitraje aplicando la Ley aprobada mediante la presente Ley, con la salvedad de que no será necesario para los actores, acreditar haber agotado el procedimiento ante la Unidad de Medios Alternos de Solución de Conflictos laborales a que se refiere el Artículo 259 fracción VII de la presente Ley.
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
 
-Octavo. Una vez que sea formalmente instalado e inicie sus funciones el Instituto de Justicia Laboral para el Estado de Nayarit, tanto el Tribunal de Conciliación y Arbitraje, como la Junta Local y las Especiales de Conciliación y Arbitraje, remitirán al Presidente del Instituto, debidamente inventariados los Expedientes y documentos de sus respectivas competencias en materia laboral burocrática, para que continúe, según corresponda, con su resguardo y en su caso continuación procesal a que se refieren los dos artículos transitorios precedentes en los términos precisados.
+Séptimo. Las demandas o procedimientos que se interpongan en el lapso que medie entre la entrada en vigor de la presente Ley y la Integración e inicio de funciones del Instituto de Justicia Laboral del Estado de Nayarit, deberán ser incoadas y tramitadas por el Tribunal de Conciliación y Arbitraje aplicando la presente Ley, con la salvedad de que no será necesario para los actores, acreditar haber agotado el procedimiento ante la Unidad de Medios Alternos de Solución de Conflictos laborales a que se refiere el Artículo 259 fracción VII de la presente Ley.
+
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
+
+Octavo. La Junta Local y las Especiales de Conciliación y Arbitraje continuarán conociendo hasta su conclusión de los procedimientos que se encuentran en trámite hasta el día de la entrada en vigor de la Ley Laboral Burocrática del Estado de Nayarit.
+
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
+
+Una vez que sea formalmente instalado e inicie sus funciones el Instituto de Justicia Laboral para el Estado de Nayarit, el Tribunal de Conciliación y Arbitraje remitirá al Presidente del Instituto, debidamente inventariados los Expedientes y documentos de su competencia en materia laboral burocrática, para que continúe, según corresponda, con su resguardo y en su caso continuación procesal a que se refieren los dos artículos transitorios precedentes.
+
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
 
 El Presidente del Instituto, proveerá de inmediato su recepción y, procederá dentro de los cinco días siguientes, a su distribución, a las Salas que correspondan conforme a la competencia fijada en la presente Ley.
+
+> <small>(F. DE E., P.O. 31 DE JULIO DE 2019)</small>
 
 Una vez recibidos por el Presidente del Instituto, los expedientes a que se refiere el presente artículo transitorio, cesará en sus funciones el Tribunal de Conciliación y Arbitraje del Estado de Nayarit.
 
