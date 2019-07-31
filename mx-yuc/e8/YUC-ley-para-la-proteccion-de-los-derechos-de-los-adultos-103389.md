@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-los-derechos-de-los-adultos-103389"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-03"
-last_updated: "2016-12-28"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 3 de noviembre de 2014.
 
@@ -33,7 +33,9 @@ Rolando Rodrigo Zapata Bello, Gobernador del Estado de Yucatán, con fundamento 
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 29 Y 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA, 18 Y 34 FRACCIÓN XIII DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, 117 Y 118 DEL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, TODOS DEL ESTADO DE YUCATÁN, EMITE EL SIGUIENTE;
 
-E X P O S I C I Ó N D E M O T I V O S:…
+E X P O S I C I Ó N D E M O T I V O S:
+
+[...]
 
 En tal virtud, con fundamento en el artículo 30 fracción V de la Constitución Política, y artículos 18, 43 fracción XII inciso a) y 44 fracción VIII de la Ley de Gobierno del Poder Legislativo, y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos los ordenamientos del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -159,11 +161,11 @@ Atribuciones de la Secretaría General de Gobierno
 
 La Secretaría General de Gobierno, para contribuir con el cumplimiento del objeto de esta ley, tendrá las atribuciones siguientes:
 
-I. Garantizar y vigilar que los concesionarios del servicio público de transporte de pasajeros otorguen el acceso oportuno y seguro a los adultos mayores.
+I. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
-II. Verificar que las unidades de transporte público estén equipadas con las adaptaciones necesarias que garanticen la seguridad y comodidad para los adultos mayores.
+II. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
-III. Promover el establecimiento, en el transporte público, de tarifas preferenciales a los adultos mayores.
+III. (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
 IV. Concertar convenios con instituciones públicas o privadas para la capacitación continua en materia de atención y sensibilización hacia el trato digno de los adultos mayores.
 
@@ -213,11 +215,15 @@ V. Elaborar material educativo que incorpore información sobre los adultos mayo
 
 VI. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 11.
 
-Atribuciones de la Secretaría del Trabajo y Previsión Social
+Atribuciones de la Secretaría de Fomento Económico y Trabajo.
 
-La Secretaría del Trabajo y Previsión, para contribuir con el cumplimiento del objeto de esta ley, tendrá las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
+La Secretaría de Fomento Económico y Trabajo, para contribuir con el cumplimiento del objeto de esta ley, tendrá las atribuciones siguientes:
 
 I. Implementar acciones encaminadas a disminuir los índices de desempleo y de marginación ocupacional en los adultos mayores, mediante la aplicación de programas que permitan la evaluación de sus capacidades y aptitudes, procurando su integración e incorporación a la planta laboral.
 
@@ -235,7 +241,9 @@ VII. Otorgar asesoría jurídica gratuita a los adultos mayores que decidan reti
 
 VIII. Otorgar asesoría jurídica gratuita en materia laboral en los términos de la ley federal de trabajo a los adultos mayores.
 
-IX. Promover, en coordinación con la Secretaría de Fomento Económico, el otorgamiento de incentivos o estímulos para las personas físicas o morales que contraten o consideren un mínimo de empleos para los adultos mayores.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IX. Promover el otorgamiento de incentivos o estímulos para las personas físicas o morales que contraten o consideren un mínimo de empleos para los adultos mayores.
 
 X. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
@@ -296,6 +304,20 @@ VI. Promover la creación y asignación de apoyos para motivar y estimular a los
 VII. Brindar asesoría e información a los adultos mayores, asociaciones o instituciones que lo requieran, en cuanto a las actividades físicas, de recreación o deportivas que pueden desarrollar de manera segura.
 
 VIII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
+###### Artículo 14 Bis.
+
+Atribuciones del Instituto de Movilidad y Desarrollo Urbano Territorial.
+
+El Instituto de Movilidad y Desarrollo Urbano Territorial, para contribuir con el cumplimiento del objeto de esta ley, tendrá las atribuciones siguientes:
+
+I. Garantizar y vigilar que las y los concesionarios del servicio público de transporte de pasajeros otorguen el acceso oportuno y seguro a los adultos mayores.
+
+II. Verificar que las unidades de transporte público estén equipadas con las adaptaciones necesarias que garanticen la seguridad y comodidad para los adultos mayores.
+
+III. Promover el establecimiento, en el transporte público, de tarifas preferenciales a los adultos mayores.
 
 ###### Artículo 15.
 
@@ -373,7 +395,9 @@ III. El Secretario de Salud.
 
 IV. El Secretario de Educación.
 
-V. El Secretario del Trabajo y Previsión Social.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+V. El Secretario de Fomento Económico y Trabajo.
 
 VI. El Secretario de la Cultura y las Artes.
 
@@ -385,7 +409,9 @@ IX. El Director General del Instituto de Educación para Adultos del Estado de Y
 
 X. El Director General del Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán.
 
-XI. Un representante del Instituto Nacional de los adultos mayores en el estado, previa invitación del presidente.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+XI. El Director General del Instituto de Movilidad y Desarrollo Urbano Territorial.
 
 XII. Dos profesionales de reconocido prestigio, especializados en geriatría y gerontología.
 
@@ -630,3 +656,19 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
