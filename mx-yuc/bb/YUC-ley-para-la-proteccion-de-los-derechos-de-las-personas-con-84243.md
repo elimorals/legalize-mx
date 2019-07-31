@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-los-derechos-de-las-personas-con-8424
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-21"
-last_updated: "2019-07-30"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 21 de diciembre de 2011.
 
@@ -73,7 +73,7 @@ VII.- (DEROGADA, D.O. 30 DE JULIO DE 2019)
 
 VIII.- DIF: el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Yucatán;
 
-IX.- Dirección de Transporte: la Dirección de Transporte de la Secretaría General de Gobierno del Estado de Yucatán;
+IX.- (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
 X.- Discriminación por motivos de discapacidad: cualquier distinción, exclusión o restricción por motivos de discapacidad, que tenga el propósito o el efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio de algún derecho humano o libertad fundamental en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación, entre ellas, la denegación de Ajustes razonables;
 
@@ -115,7 +115,7 @@ XXVI.- Programa: el Programa para la Protección de los Derechos de las Personas
 
 XXVII.- Rehabilitación: proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una Persona con discapacidad alcance un nivel físico, mental y sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social;
 
-XXVIII.- Secretaría de Desarrollo Urbano: la Secretaría de Desarrollo Urbano y Medio Ambiente del Estado de Yucatán;
+XXVIII.- (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
 XXIX.- Secretaría de Educación: la Secretaría de Educación del Estado de Yucatán;
 
@@ -127,7 +127,9 @@ XXXII.- Secretaría de Salud: la Secretaría de Salud del Estado de Yucatán;
 
 XXXIII.- Secretaría de Seguridad Pública: la Secretaría de Seguridad Pública del Estado de Yucatán;
 
-XXXIV.- Secretaría del Trabajo y Previsión Social: la Secretaría del Trabajo y Previsión Social del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+XXXIV.- Secretaría de Fomento Económico y Trabajo: la Secretaría de Fomento Económico y Trabajo del Estado de Yucatán;
 
 XXXV.- Sistema de escritura braille: sistema para la Comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas, y
 
@@ -175,9 +177,11 @@ X.- Impulsar la participación solidaria de la sociedad y la familia en la prese
 
 XI.- Las demás que otros ordenamientos le confieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 5.
 
-La Secretaría General de Gobierno del Estado de Yucatán, a través de la Dirección de Transporte, tiene las siguientes atribuciones:
+El Instituto de Movilidad y Desarrollo Urbano Territorial tiene las siguientes atribuciones:
 
 I.- Coordinar con los concesionarios y permisionarios la realización de acciones que tiendan a mejorar la Accesibilidad, seguridad, comodidad, calidad y funcionalidad en los medios de transporte público, para beneficio de las personas con discapacidad;
 
@@ -235,9 +239,11 @@ III.- Promover ante las autoridades correspondientes la construcción o adaptaci
 
 IV.- Las demás que señale esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 10.
 
-La Secretaría de Desarrollo Urbano, en materia de esta Ley, tiene las siguientes atribuciones:
+El Instituto de Movilidad y Desarrollo Urbano Territorial, en materia de esta Ley, tiene las siguientes atribuciones:
 
 I.- En la medida de sus posibilidades, hacer compatible el desarrollo urbano con los requerimientos necesarios para proteger y respetar el derecho a la Accesibilidad de las personas con discapacidad;
 
@@ -245,9 +251,11 @@ II.- Establecer los lineamientos a que deben sujetarse los proyectos de construc
 
 III.- Las demás que señale esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 11.
 
-La Secretaría del Trabajo y Previsión Social, en materia de esta Ley, tiene las siguientes atribuciones:
+La Secretaría de Fomento Económico y Trabajo, en materia de esta Ley, tiene las siguientes atribuciones:
 
 I.- Promover el derecho al trabajo y empleo de las personas con discapacidad en Igualdad de oportunidades y equidad;
 
@@ -479,7 +487,9 @@ Las personas con discapacidad tienen derecho al acceso a la información públic
 
 Las obras de construcción, públicas y privadas, deberán sujetarse a las disposiciones que en materia de Accesibilidad y desarrollo urbano se establezcan a favor de las personas con discapacidad en la normatividad vigente.
 
-Para regular dicha situación, la Secretaría de Desarrollo Urbano y la autoridad competente a nivel municipal, determinarán las normas básicas a que deben sujetarse los proyectos de construcción públicos y privados de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 31 DE JULIO DE 2019)</small>
+
+Para regular dicha situación, el Instituto de Movilidad y Desarrollo Urbano Territorial, y la autoridad competente a nivel municipal determinarán las normas básicas a que deben sujetarse los proyectos de construcción públicos y privados de:
 
 I.- Urbanización, fraccionamiento y construcción, y
 
@@ -489,7 +499,9 @@ II.- Ampliaciones, reparaciones y reformas de edificios existentes.
 
 Toda vivienda destinada para las personas con discapacidad, deberá cumplir en su infraestructura interior y exterior con los elementos necesarios para el acceso y libre desplazamiento de las personas con discapacidad.
 
-Para regular dicha situación, la Secretaría de Desarrollo Urbano y la autoridad competente a nivel municipal, determinarán las normas básicas a que deben sujetarse los proyectos de construcción de viviendas y conjuntos habitacionales.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Para regular dicha situación, el Instituto de Movilidad y Desarrollo Urbano Territorial, y la autoridad competente a nivel municipal determinarán las normas básicas a que deben sujetarse los proyectos de construcción de viviendas y conjuntos habitacionales.
 
 ###### Artículo 34.
 
@@ -661,7 +673,9 @@ Asimismo, tendrán derecho a que en los sitios públicos se respete todo tipo de
 
 Los espacios destinados a prestar servicios al público, deberán cumplir con los elementos necesarios que permitan la movilidad y Accesibilidad de las personas con discapacidad.
 
-Para regular dicha situación, la Secretaría de Desarrollo Urbano y la autoridad competente a nivel municipal, determinarán las normas básicas a que deben sujetarse los proyectos de construcción, adaptación o remodelación.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Para regular dicha situación, el Instituto de Movilidad y Desarrollo Urbano Territorial, y la autoridad competente a nivel municipal determinarán las normas básicas a que deben sujetarse los proyectos de construcción, adaptación o remodelación.
 
 ###### Artículo 60.
 
@@ -691,9 +705,11 @@ El sistema de transporte público deberá cumplir con las especificaciones técn
 
 Los concesionarios del servicio de taxis y camiones deberán prestar el servicio de manera eficiente, evitando cualquier riesgo a las personas con discapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 64.
 
-Para garantizar el respeto al derecho a que se refiere este capítulo, la Dirección de Transporte y la autoridad competente a nivel municipal, deberán realizar las siguientes acciones:
+Para garantizar el respeto al derecho a que se refiere este capítulo, el Instituto de Movilidad y Desarrollo Urbano Territorial, y la autoridad competente a nivel municipal deberán realizar las siguientes acciones:
 
 I.- Establecer mecanismos de coordinación con autoridades competentes y empresas privadas, a fin de promover programas que garanticen a las personas con discapacidad, la Accesibilidad, seguridad, comodidad, calidad y funcionalidad en los medios de transporte público, para beneficio de las personas con discapacidad;
 
@@ -935,9 +951,11 @@ El DIF incluirá en sus programas de asistencia acciones para facilitar a la pob
 
 Las personas con discapacidad tienen el derecho a trabajar en igualdad de condiciones con las demás, ello incluye el derecho a tener la oportunidad de ganarse la vida mediante un trabajo libremente elegido o aceptado en un mercado y un entorno laborales que sean abiertos, inclusivos y accesibles a las personas con discapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 90.
 
-La Secretaría del Trabajo y Previsión Social, de acuerdo con su disponibilidad presupuestal, promoverá el derecho al trabajo y empleo de las personas con discapacidad en Igualdad de oportunidades y equidad. Para tal efecto, realizará las siguientes acciones:
+La Secretaría de Fomento Económico y Trabajo, de acuerdo con su disponibilidad presupuestal, promoverá el derecho al trabajo y empleo de las personas con discapacidad en Igualdad de oportunidades y equidad. Para tal efecto, realizará las siguientes acciones:
 
 I.- Vigilar que a los trabajadores se le brinden condiciones de trabajo justas y favorables, Igualdad de oportunidades y de remuneración por trabajo de igual valor, así como que se le otorguen condiciones de trabajo seguras y saludables;
 
@@ -1165,6 +1183,28 @@ Las dependencias y entidades que integran la Administración Pública Estatal y 
 
 (DEROGADO, D.O. 30 DE JULIO DE 2019)
 
+[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL PRESENTE ARTÍCULO FUE DEROGADO POR DECRETO 92/2019 PUBLICADO EN EL D.O. DE 30 DE JULIO DE 2019 Y REFORMADO POR DECRETO 94/2019 DE FECHA 31 DE JULIO DE 2019, EL SEGUNDO DE ELLOS A LA LETRA DICE:
+
+“Artículo 109.-…[…]
+
+I.- y II.-…[…]
+
+III.-…[…]
+
+a) al e)…[…]
+
+f) [derogado]
+
+g) Un representante de la Secretaría de Fomento Económico y Trabajo.[reformado]
+
+h) al j)…[…]
+
+k) Un representante del Instituto de Movilidad y Desarrollo Urbano Territorial; [reformado]
+
+l)…[…]"
+
+BAJO ESE CONTEXTO, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE DICHAS FECHAS.]
+
 ###### Artículo 110.
 
 (DEROGADO, D.O. 30 DE JULIO DE 2019)
@@ -1348,3 +1388,19 @@ D.O. 30 DE JULIO DE 2019.
 Primero. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Segundo. Para todo lo relativo al Instituto para la Inclusión de las Personas con Discapacidad del Estado de Yucatán se mantiene en vigor el Decreto 9/2018 por el que se regula el Instituto para la Inclusión de las Personas con Discapacidad del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado el 3 de diciembre de 2018 con las previsiones presupuestales establecidas en el Presupuesto de Egresos del Gobierno del Estado de Yucatán para el ejercicio fiscal 2019, en cumplimiento del artículo 114 bis de este Decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
