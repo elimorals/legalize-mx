@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-75635"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-06"
-last_updated: "2018-04-12"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 6 de julio de 2010.
 
@@ -161,9 +161,9 @@ XXXVII.- Repoblación: Es el acto de introducir organismos acuáticos vivos nati
 
 XXXVIII.- Sanidad acuícola: Es el conjunto de prácticas y medidas establecidas en normas oficiales, encaminadas a la prevención, diagnóstico, control y erradicación de las enfermedades que afectan a dichas especies;
 
-> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-XXXIX.- Secretaría: La Secretaría de Desarrollo Rural, por conducto de la Comisión de Pesca y Acuacultura Sustentable del Estado de Yucatán;
+XXXIX.- Secretaría: La Secretaría de Pesca y Acuacultura Sustentables del Estado de Yucatán.
 
 XL.- Sistema Estatal: El Sistema Estatal de Información Pesquera y Acuícola;
 
@@ -415,77 +415,29 @@ El Poder Ejecutivo del Estado y los Ayuntamientos podrán celebrar los instrumen
 
 Cuando, por razón de la materia y de conformidad con el Código de la Administración Pública de Yucatán u otras disposiciones similares, se requiera la intervención de otras dependencias, la Secretaría ejercerá sus atribuciones en coordinación con las mismas.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
-### CAPÍTULO IV. De la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán
-
-> <small>(ADICIONADO, D.O. 15 DE FEBRERO DE 2013)</small>
+### CAPÍTULO IV
 
 ###### Artículo 16 Bis.
 
-Se crea la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán como un órgano desconcentrado de la Secretaría de Desarrollo Rural, que tiene por objeto desempeñar las funciones que corresponden al Poder Ejecutivo Estatal, en materia de pesca y acuacultura, de conformidad con la normatividad aplicable.
-
-> <small>(ADICIONADO, D.O. 15 DE FEBRERO DE 2013)</small>
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 16 Ter.
 
-La Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán para cumplir con el objeto de su creación, tendrá a su cargo el ejercicio de las atribuciones establecidas en el artículo 8 de esta Ley y en otras disposiciones legales y normativas aplicables.
-
-La Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán, para el cumplimiento de sus atribuciones, se apoyará del Consejo.
-
-> <small>(ADICIONADO, D.O. 15 DE FEBRERO DE 2013)</small>
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 16 Quater.
 
-La Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán, estará a cargo de un Comisionado que será designado por el Secretario de Desarrollo Rural, previo acuerdo con el Gobernador del Estado.
-
-> <small>(ADICIONADO, D.O. 15 DE FEBRERO DE 2013)</small>
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 16 Quinquies.
 
-El Comisionado tendrá las siguientes facultades y obligaciones:
-
-I.- Planear, desarrollar y operar los programas de fomento pesquero y acuícola;
-
-II.- Apoyar la industrialización y comercialización de los productos pesqueros que se obtengan en el litoral yucateco, en coordinación con las autoridades federales, de conformidad con la ley en materia de pesca y demás disposiciones legales y normativas aplicables;
-
-III.- Promover y fomentar el desarrollo de la acuacultura en coordinación con las instancias competentes;
-
-IV.- Vigilar el cumplimiento de las normas que la ley en materia de pesca establezca, y cuidar en todo tiempo la conservación de las especies marinas;
-
-V.- Capacitar y asesorar a los diversos grupos de pescadores, para la explotación racionalizada de los recursos pesqueros;
-
-VI.- Evaluar, dictaminar y gestionar, en su caso, los recursos que requieren los proyectos y solicitudes propuestos por los productores, que por sus características de elegibilidad puedan recibir apoyo gubernamental;
-
-VII.- Coordinarse con las dependencias del Ejecutivo Federal relacionadas con la materia pesquera y con los municipios del Estado, para vigilar el cumplimiento de las normas relativas a la flora y fauna acuáticas;
-
-VIII.- Colaborar con las autoridades de los órdenes de gobierno federal, estatal y municipal, en la regulación, conservación, integración y organización de la flota pesquera, y en la promoción, financiamiento y asistencia técnica de las actividades del sector;
-
-IX.- Colaborar con las autoridades en la instrumentación de las medidas de protección social vinculadas con el sector pesquero;
-
-X.- Planear, proyectar, organizar, asesorar, orientar y evaluar técnicamente las actividades pesqueras del Estado, que contribuyan a la producción de alimentos nutritivos y económicos y a la creación de empleos en las comunidades rurales;
-
-XI.- Coadyuvar con la autoridad federal, dentro de su marco normativo, en la consecución y mantenimiento del ordenamiento pesquero en el Estado;
-
-XII.- Participar en el mantenimiento de la infraestructura pesquera en el litoral del Estado de Yucatán, mediante la implementación de obras y proyectos en beneficio de las comunidades pesqueras;
-
-XIII.- Elaborar propuestas y, en su caso, participar en la implementación de acciones orientadas a la solución de los principales problemas que afectan a las comunidades que forman parte del litoral yucateco;
-
-> <small>(REFORMADA, D.O. 12 DE ABRIL DE 2018)</small>
-
-XIV.- Promover, mediante políticas públicas a cargo de la Secretaría, el desarrollo sustentable y acciones articuladas para el uso y aprovechamiento de los recursos costeros;
-
-> <small>(ADICIONADA, D.O. 12 DE ABRIL DE 2018)</small>
-
-XV.- Impulsar, dentro del ámbito de su competencia, la creación de figuras organizativas para la promoción comercial de los productos pesqueros y acuícolas en los mercados nacional e internacional, y
-
-XVI.- Las demás que le asigne el Secretario y las que le confieran otras disposiciones legales y normativas aplicables.
-
-> <small>(ADICIONADO, D.O. 15 DE FEBRERO DE 2013)</small>
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 ###### Artículo 16 Sexies.
 
-El Comisionado, para el cumplimiento de sus facultades y obligaciones, se auxiliará de las unidades administrativas que establezca el Reglamento Interior de la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 15 DE FEBRERO DE 2013)</small>
 
@@ -519,9 +471,13 @@ I.- El Gobernador del Estado, quien fungirá como Presidente;
 
 II.- El Titular de la Secretaría;
 
-III.- El Titular de la Secretaría de Desarrollo Urbano y Medio Ambiente;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-IV.- El Titular de la Secretaría de Fomento Económico;
+III.- El Titular de la Secretaría de Desarrollo Sustentable;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IV.- El Titular de la Secretaría de Fomento Económico y Trabajo;
 
 V.- Un Representante de la Cámara Nacional de la Industria Pesquera;
 
@@ -547,9 +503,9 @@ Los representantes del sector social y privado serán propuestos por las organiz
 
 Cada miembro propietario designará un suplente, quien asistirá a las sesiones del Consejo en ausencia del primero, con todas las facultades y derechos que a éste correspondan.
 
-> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
-El Comisionado de Pesca y Acuacultura Sustentables del Estado de Yucatán, será el Secretario Técnico del Consejo.
+La persona quien ocupe la presidencia del consejo designará al responsable de la secretaría técnica.
 
 > <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
 
@@ -1080,3 +1036,19 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 Segundo. Derogación tacita
 
 Se derogan las disposiciones de igual o menor jerarquía en lo que se oponga a lo establecido en este decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
