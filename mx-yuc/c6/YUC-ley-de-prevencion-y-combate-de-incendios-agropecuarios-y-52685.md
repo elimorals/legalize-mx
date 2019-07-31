@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-prevencion-y-combate-de-incendios-agropecuarios-y-52685"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-13"
-last_updated: "2016-12-28"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PREVENCIÓN Y COMBATE DE INCENDIOS AGROPECUARIOS Y FORESTALES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 13 de diciembre de 2006.
 
@@ -31,7 +31,7 @@ CIUDADANO PATRICIO JOSÉ PATRÓN LAVIADA, GOBERNADOR DEL ESTADO DE YUCATÁN, A S
 
 EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN EL ARTÍCULO 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 97, 150 Y 156 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, AMBAS DEL ESTADO DE YUCATÁN, EMITE LA SIGUIENTE:
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 7 DE MAYO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 7 DE MAYO DE 2009)</small>
 
 LEY DE PREVENCIÓN Y COMBATE DE INCENDIOS AGROPECUARIOS Y FORESTALES DEL ESTADO DE YUCATÁN
 
@@ -55,9 +55,9 @@ Para los efectos de esta ley, se entenderá por:
 
 I.- Ley Forestal: La Ley General de Desarrollo Forestal Sustentable;
 
-> <small>(REFORMADA, D.O. 7 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-II.- Secretaría: La Secretaría de Fomento Agropecuario y Pesquero;
+II.- Secretaría: la Secretaría de Desarrollo Rural;
 
 > <small>(REFORMADA, D.O. 7 DE MAYO DE 2009)</small>
 
@@ -101,13 +101,13 @@ II.- Los titulares de las siguientes Secretarías:
 
 a) Secretaría General de Gobierno;
 
-> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
-b) Secretaría de Fomento Agropecuario y Pesquero;
+b) Secretaría de Desarrollo Rural;
 
-REFORMADO, D.O. 7 DE MAYO DE 2009)
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
-c) Secretaría de Desarrollo Urbano y Medio Ambiente, y
+c) Secretaría de Desarrollo Sustentable, y
 
 > <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
 
@@ -121,7 +121,7 @@ V.- El personal técnico designado por la Secretaría, en su papel de Coordinado
 
 VI.- Los directores o personal técnico nombrados por el Presidente Municipal para coadyuvar con el Comité.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE MAYO DE 2009)</small>
 
 ###### Artículo 6.
 
@@ -235,11 +235,11 @@ XVI.- Las demás que le concedan esta Ley y otros ordenamientos aplicables, y qu
 
 Se crea el Comité Estatal de Prevención y Combate de Incendios, como órgano operativo estatal, para la planeación, coordinación y ejecución de acciones permanentes, relacionadas con el objeto de esta Ley.
 
-> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 9.
 
-El Comité será presidido por el Gobernador del Estado, quien podrá delegar su coordinación general en el Secretario de Fomento Agropecuario y Pesquero, en materia de planeación, coordinación y ejecución de acciones permanentes, relacionadas con el objeto de esta Ley.
+El Comité será presidido por la persona titular del Poder Ejecutivo del Estado, quien podrá delegar su coordinación general en el Secretario de Desarrollo Rural, en materia de planeación, coordinación y ejecución de acciones permanentes relacionadas con el objeto de esta Ley.
 
 ###### Artículo 10.
 
@@ -263,13 +263,13 @@ f) Procuraduría Federal de Protección al Ambiente.
 
 III.- Un representante de cada una de las dependencias y organismos estatales siguientes:
 
-> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
-a) Secretaría de Fomento Agropecuario y Pesquero;
+a) Secretaría de Desarrollo Rural;
 
-> <small>(REFORMADO, D.O. 7 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
-b) Secretaría de Desarrollo Urbano y Medio Ambiente;
+b) Secretaría de Desarrollo Sustentable;
 
 c) Heroico Cuerpo de Bomberos, y
 
@@ -381,7 +381,7 @@ La Secretaría llevará el registro numerado y circunstanciado de las autorizaci
 
 ###### Artículo 23.
 
-Los Presidentes Municipales deberán enviar a la Secretaría, al final del período establecido en el Calendario de Quemas correspondiente, un informe con la evaluación general de las acciones de prevención y combate de incendios desplegadas en el área de su demarcación, Dicho (sic) informe deberá contener la evaluación general de acciones, su impacto en el municipio y, en su caso, las propuestas de mejora tanto en materia de prevención como en combate de incendios.
+Los Presidentes Municipales deberán enviar a la Secretaría, al final del período establecido en el Calendario de Quemas correspondiente, un informe con la evaluación general de las acciones de prevención y combate de incendios desplegadas en el área de su demarcación, Dicho informe deberá contener la evaluación general de acciones, su impacto en el municipio y, en su caso, las propuestas de mejora tanto en materia de prevención como en combate de incendios.
 
 ###### Artículo 24.
 
@@ -601,7 +601,7 @@ El SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 D.O. 7 DE MAYO DE 2009.
 
@@ -628,3 +628,19 @@ Este decreto entrará en vigor al día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
