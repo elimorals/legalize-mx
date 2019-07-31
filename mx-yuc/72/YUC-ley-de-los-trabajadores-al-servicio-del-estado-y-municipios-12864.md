@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-128
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-03"
-last_updated: "2019-03-01"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 3 de diciembre de 1987.
 
@@ -67,9 +67,11 @@ Son trabajadores de confianza los que realizan funciones de dirección, inspecci
 
 I.- En el Poder Legislativo: el Secretario General del Poder Legislativo, el Auditor Superior del Estado y los auditores adscritos a la misma; el titular del Instituto de Investigaciones Legislativas, el Director de Evaluación del Presupuesto, así como el Director General de Administración y Finanzas, los directores, jefes de departamento y demás personal que desempeñe alguna de las funciones señaladas en el párrafo anterior.
 
-II.- En el Poder Ejecutivo: los titulares de las dependencias que señala el Código de la Administración Pública de Yucatán y el Fiscal General del Estado, los secretarios particular y privado del Gobernador del Estado y sus correspondientes auxiliares; los secretarios particulares y demás personal adscrito a las secretarías particulares de los titulares de las dependencias que señala el Código de la Administración Pública de Yucatán; el del Fiscal General del Estado, los titulares de las unidades de asesoría, de apoyo técnico y administrativo, de coordinación, de control de gestión, de tecnología de información y de comunicación social, los ayudantes, operadores y todos aquellos que laboren bajo las ·órdenes inmediatas del gobernador; así como los titulares de las oficinas de representación del Gobierno del Estado fuera del propio territorio estatal.
+II.- En el Poder Ejecutivo: los titulares de las dependencias que señala el Código de la Administración Pública de Yucatán y el Fiscal General del Estado, los secretarios particular y privado del Gobernador del Estado y sus correspondientes auxiliares; los secretarios particulares y demás personal adscrito a las secretarías particulares de los titulares de las dependencias que señala el Código de la Administración Pública de Yucatán; el del Fiscal General del Estado, los titulares de las unidades de asesoría, de apoyo técnico y administrativo, de coordinación, de control de gestión, de tecnología de información y de comunicación social, los ayudantes, operadores y todos aquellos que laboren bajo las órdenes inmediatas del gobernador; así como los titulares de las oficinas de representación del Gobierno del Estado fuera del propio territorio estatal.
 
-Los subsecretarios, subconsejeros, directores y jefes de departamento de las dependencias del Gobierno del Estado; los vice fiscales; los presidentes y secretarios de la Junta de Conciliación y Arbitraje; los registradores públicos de la propiedad; el Procurador de la Defensa de los Trabajadores al Servicio del Estado y Municipios, así como sus procuradores auxiliares; los defensores de oficio y los asesores jurídicos y mandatarios, en términos del Código Civil; los directores de los hospitales oficiales; el coordinador y los jefes de las oficinas recaudadoras; los auditores de las secretarías, de Hacienda y de la Contraloría General; y el personal directivo de las instituciones educativas del sistema educativo estatal.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Las personas que ocupen la titularidad de las subsecretarías, subconsejerías, direcciones y jefaturas de departamento de las dependencias del Gobierno del estado; vicefiscalías; presidencias y secretarías de la Junta de Conciliación y Arbitraje; así como los cargos de registradurías públicas de la propiedad; procuraduría de la Defensa de los Trabajadores al Servicio del Estado y Municipios así como el de sus procuradurías auxiliares; defensorías de oficio, asesorías jurídicas y mandatarias en términos del Código Civil; directivos de los hospitales oficiales; coordinaciones y jefaturas de las oficinas recaudadoras; auditorías de las secretarías de Administración y Finanzas, y de la Contraloría General; y el personal directivo de las instituciones educativas del sistema educativo estatal.
 
 III.- En el Poder Judicial: los Magistrados, los Consejeros de la Judicatura Estatal, los Jueces de Primera Instancia, los secretarios generales de acuerdos y los titulares de las Unidades del Tribunal Superior de Justicia, el Secretario Ejecutivo y los titulares de las Direcciones, Unidades y Órganos Técnicos y del Consejo de la Judicatura; los secretarios de la presidencia, los secretarios de acuerdos y los secretarios de estudio y cuenta, y demás personal que establece la Ley Orgánica del Poder Judicial del Estado, y
 
@@ -107,9 +109,7 @@ La renuncia de cualesquiera de los derechos que la presente Ley otorga a los tra
 
 En lo no previsto por esta Ley o disposiciones especiales, se aplicará supletoriamente y en su orden, la Ley Federal del Trabajo, el Código Federal de Procedimientos Civiles, las Leyes del orden común, la costumbre, el uso, los principios generales del derecho y la equidad.
 
-## TITULO SEGUNDO. DERECHOS Y OBLIGACIONES
-
-DE LOS TRABAJADORES
+## TITULO SEGUNDO. DERECHOS Y OBLIGACIONES DE LOS TRABAJADORES
 
 ### CAPITULO I
 
@@ -287,9 +287,9 @@ Por cada cinco años de servicio efectivo prestado hasta llegar a veinticinco, l
 
 Los niveles salariales del tabulador que consignen sueldos equivalentes al salario mínimo deberán incrementarse en el mismo porcentaje en que se aumente éste.
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
-La Secretaría de Hacienda fijará las normas, lineamientos y política que permitan establecer las diferencias en las remuneraciones asignadas para los casos de alcances en los niveles de tabulador que se originen con motivo de los incrementos a que se refiere el párrafo anterior.
+La Secretaría de Administración y Finanzas fijará las normas, lineamientos y política que permitan establecer las diferencias en las remuneraciones asignadas para los casos de alcances en los niveles de tabulador que se originen con motivo de los incrementos a que se refiere el párrafo anterior.
 
 ###### ARTICULO 39.
 
@@ -337,11 +337,7 @@ Los trabajadores que hubiesen prestado sus servicios en un período menor de un 
 
 Los trabajadores de confianza podrán ser removidos sin expresión de causa ni responsabilidad alguna por los jefes de las entidades a las que presten sus servicios.
 
-### CAPITULO IV. OBLIGACIONES DE LOS TITULARES
-
-DE LAS DEPENDENCIAS
-
-GUBERNAMENTALES
+### CAPITULO IV. OBLIGACIONES DE LOS TITULARES DE LAS DEPENDENCIAS GUBERNAMENTALES
 
 ###### ARTICULO 45.
 
@@ -413,9 +409,9 @@ VII.- No hacer propaganda de ninguna clase dentro de los edificios o lugares de 
 
 VIII.- Asistir a los Institutos de capacitación para mejorar su preparación y eficiencia.
 
-### CAPITULO VI. SUSPENSION DE LOS EFECTOS
+### CAPITULO VI
 
-DE LAS RELACIONES DE TRABAJO.
+SUSPENSION DE LOS EFECTOS DE LAS RELACIONES DE TRABAJO.
 
 ###### ARTICULO 47.
 
@@ -431,9 +427,7 @@ II.- La prisión preventiva del trabajador seguida de sentencia absolutoria o el
 
 Los trabajadores que tengan encomendado manejo de fondos, valores o bienes, podrán ser suspendidos hasta por 60 días por el Titular de la Dependencia respectiva, cuando apareciese alguna irregularidad en su gestión, mientras se practica la investigación y se resuelve lo conducente.
 
-### CAPITULO VII. RESCISION DE LAS RELACIONES
-
-DE TRABAJO
+### CAPITULO VII. RESCISION DE LAS RELACIONES DE TRABAJO
 
 > <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
@@ -549,9 +543,7 @@ En igualdad de condiciones tendrá preferencia el trabajador que acredite ser la
 
 Corrido el escalafón en la forma apuntada las plazas de los promovidos a la nueva categoría, serán cubiertas en un 50% por los Titulares y el restante 50% por los que proponga el Sindicato.
 
-### CAPITULO II. DE LAS COMISIONES MIXTAS DE
-
-ESCALAFON
+### CAPITULO II. DE LAS COMISIONES MIXTAS DE ESCALAFON
 
 ###### ARTICULO 56.
 
@@ -611,11 +603,7 @@ Las vacantes temporales mayores de seis meses serán las que se originen por lic
 
 El procedimiento para resolver las permutas de empleos, así como las disconformidades de los trabajadores afectados por trámites o movimientos escalafonarios, quedará previsto en los reglamentos.
 
-## TITULO CUARTO. DE LA ORGANIZACION COLECTIVA
-
-DE LOS TRABAJADORES Y DE LAS
-
-CONDICIONES GENERALES
+## TITULO CUARTO. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES Y DE LAS CONDICIONES GENERALES
 
 ### CAPITULO I
 
@@ -865,9 +853,9 @@ IV.- Por laudo de la persona o del Tribunal, que a solicitud de las partes y con
 
 Para garantizar la estabilidad de las Instituciones, la conservación de las instalaciones o evitar el peligro que signifique para la salud pública la suspensión de labores, al declararse legal la huelga, el Tribunal, a petición de las Autoridades correspondientes y con base en las pruebas presentadas, fijará el número de trabajadores que los huelguistas estarán obligados a mantener en el desempeño de sus labores.
 
-## TITULO QUINTO. DE LOS RIESGOS PROFESIONALES Y DE LAS
+## TITULO QUINTO
 
-ENFERMEDADES NO PROFESIONALES.
+DE LOS RIESGOS PROFESIONALES Y DE LAS ENFERMEDADES NO PROFESIONALES.
 
 ### CAPITULO I
 
@@ -1059,17 +1047,25 @@ El Magistrado Presidente del Tribunal de los Trabajadores al Servicio del Estado
 
 El Secretario General de Acuerdos, Secretarios de Estudio y Cuenta y los Actuarios del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, además de los requisitos que establece la Ley Orgánica del Poder Judicial del Estado, deberán acreditar al menos un año de experiencia en materia laboral.
 
-> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### ARTICULO 134.
 
-La Procuraduría de la Defensa de los Trabajadores al Servicio del Estado y Municipios, queda adscrita a la Secretaría del Trabajo y Previsión Social del Poder Ejecutivo, como órgano de buena fe, de interés público y de carácter permanente, que tiene por objeto defender los derechos de los trabajadores al servicio del Estado y los Municipios de Yucatán.
+La Procuraduría de la Defensa de los Trabajadores al Servicio del Estado y Municipios queda adscrita a la Secretaría General de Gobierno, como órgano de buena fe, de interés público y de carácter permanente, que tiene por objeto defender los derechos de los trabajadores al servicio del Estado y los Municipios de Yucatán.
+
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
 Para ello, cuenta con las facultades de representación ante conflictos individuales y colectivos suscitados con motivo de la relación laboral de los trabajadores con el Estado o municipios, cuando éstos actúan como patrón.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+
 La Procuraduría de la Defensa de los Trabajadores al Servicio del Estado y Municipios estará integrada por un Procurador, por los Procuradores Auxiliares y demás personal administrativo de apoyo que sean necesarios para atender los asuntos de su competencia, conforme al presupuesto asignado.
 
-El Procurador de la Defensa de los Trabajadores al Servicio del Estado y Municipios de Yucatán, será nombrado por el Gobernador del Estado. Los Procuradores Auxiliares serán designados por el Secretario del Trabajo y Previsión Social, a propuesta del Procurador.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+La persona titular de la Procuraduría de la Defensa de los Trabajadores al Servicio del Estado y Municipios de Yucatán será nombrado (sic) por el Ejecutivo del estado. Los cargos de las procuradurías auxiliares serán designados por la o el Secretario General de Gobierno, a propuesta del o la procuradora.
+
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
 Las autoridades están obligadas a proporcionar a la Procuraduría los datos e informes que solicite para el mejor desempeño de sus funciones.
 
@@ -1231,9 +1227,9 @@ Las autoridades están obligadas a prestar auxilio al Tribunal de los Trabajador
 
 ARTICULO 160 bis.- El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, para hacer cumplir sus determinaciones, podrán imponer las mismas sanciones a que hace referencia el artículo 157 de esta Ley.
 
-> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
-ARTICULO 160 ter.- Las multas se harán efectivas por la Secretaría de Hacienda; para lo cual el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios girará el oficio correspondiente. La Secretaría aludida informará al Tribunal de haber hecho efectiva la multa, señalando los datos relativos que acrediten su cobro.
+ARTICULO 160 ter.- Las multas se harán efectivas por la Agencia de Administración Fiscal de Yucatán; para lo cual el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios girará el oficio correspondiente. La agencia informará al tribunal de haber hecho efectiva la multa, señalando los datos relativos que acrediten su cobro.
 
 > <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
@@ -1381,8 +1377,24 @@ Segundo. El beneficio otorgado en el presente decreto, podrá ser extensivo a to
 
 D.O. 1 DE MARZO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 46/2019 POR EL QUE SE MODIFICA LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE YUCATÁN, EN MATERIA DE SALARIOS CAÍDOS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 46/2019 POR EL QUE SE MODIFICA LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE YUCATÁN, EN MATERIA DE SALARIOS CAÍDOS”.]
 
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Estado de Yucatán.
 
 Articulo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
