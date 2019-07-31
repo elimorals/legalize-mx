@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-para-la-igualdad-entre-117601"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-12-02"
-last_updated: "2018-03-08"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO DEL DECRETO 97/2019, PUBLICADO EN EL D.O. DE 31 DE JULIO DE 2019, SE EXTINGUE Y LIQUIDA EL INSTITUTO PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN YUCATÁN.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Estatuto publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 2 de diciembre de 2016.
 
@@ -736,3 +738,61 @@ Este acuerdo entrará en vigor el día siguiente al de su publicación en el dia
 Segundo. Inscripción en el Registro de Entidades Paraestatales
 
 La directora general del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán deberá realizar la inscripción de la modificación de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo.
+
+D.O. 31 DE JULIO DE 2019.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO CUARTO DEL DECRETO 97/2019 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Artículo cuarto. La extinción y liquidación del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán se llevará a cabo con base en las siguientes disposiciones:
+
+###### Artículo 1.
+
+Extinción
+
+Se extingue el organismo público descentralizado denominado Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, el cual conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación.
+
+###### Artículo 2.
+
+Liquidador
+
+La Junta de Gobierno del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, deberá designar, mediante acuerdo, a la persona responsable de realizar las acciones previstas en el artículo 640 del Reglamento del Código de la Administración Pública de Yucatán, para lo cual tendrá las más amplias facultades para actos de administración, dominio y pleitos y cobranzas, y para suscribir u otorgar títulos de crédito, incluyendo aquellas que, en cualquier materia, requieran poder o cláusula especial en términos de las disposiciones aplicables, así como para realizar cualquier acción que coadyuve a un expedito y eficiente proceso de liquidación.
+
+###### Artículo 3.
+
+Derechos laborales
+
+Las y los trabajadores del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán pasarán a formar parte de la Secretaria de las Mujeres, por lo que conservarán sus derechos laborales conforme a lo establecido en las disposiciones aplicables.
+
+###### Artículo 4.
+
+Remanentes
+
+Los remanentes que resulten con la conclusión del proceso de desincorporación tendrán el tratamiento que corresponda en términos de las disposiciones legales y normativas aplicables.
+
+###### Artículo 5.
+
+Vigilancia
+
+La Secretaría de la Contraloría General, en ejercicio de las atribuciones que la ley le confiere, vigilará el desarrollo del proceso de extinción y liquidación, así como el respeto a las disposiciones legales y normativas aplicables en la materia.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 97/2019 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN Y SE EXTINGUE Y LIQUIDA EL INSTITUTO PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligación de la dependencia coordinadora de sector
+
+La Secretaría General de Gobierno, en su carácter de dependencia coordinadora de sector, una vez concluido el proceso de desincorporación del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, deberá informar este hecho a la Secretaría de Administración y Finanzas dentro de los treinta días naturales siguientes, para los efectos que correspondan.
+
+Tercero. Asuntos pendientes
+
+Los acuerdos, convenios, así como los asuntos, expedientes y demás actos jurídicos y administrativos, pendientes y en trámite, que se encuentren bajo cualquier concepto en el Instituto para la Igualdad entre Mujeres y Hombres en Yucatán, se transferirán y quedarán a cargo de la Secretaría de las Mujeres, a partir de la entrada en vigor de este decreto.
+
+Cuarto. Transferencia de recursos
+
+A partir de la entrada en vigor pe este decreto, el patrimonio, el presupuesto del ejercicio fiscal en curso, las economías, recursos en cuentas, bienes muebles e inmuebles del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán pasarán al dominio y uso de la Secretaría de las Mujeres.
+
+Quinto. Procedimientos, juicios y asuntos en trámite
+
+Todos los procedimientos, juicios y demás asuntos relacionados con las materias relacionadas con este decreto que se encuentren en trámite a su entrada en vigor, se substanciarán y resolverán hasta su total conclusión de conformidad con las normas aplicables al momento en que fueron iniciados.
