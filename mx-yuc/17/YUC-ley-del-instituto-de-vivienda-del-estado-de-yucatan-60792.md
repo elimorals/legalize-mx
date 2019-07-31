@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-instituto-de-vivienda-del-estado-de-yucatan-60792"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-15"
-last_updated: "2008-04-15"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL INSTITUTO DE VIVIENDA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 15 de abril de 2008.
 
@@ -51,7 +51,7 @@ Para los efectos de esta Ley, se entenderá por:
 
 I.- Instituto, el Instituto de Vivienda del Estado de Yucatán;
 
-II.- Secretaría, la Secretaría de Desarrollo Urbano y Medio Ambiente;
+II.- (DEROGADA, D.O. 31 DE JULIO DE 2019)
 
 III.- Junta de Gobierno, la Junta de Gobierno del Instituto, y
 
@@ -61,7 +61,9 @@ IV.- Director General, el Director General del Instituto.
 
 El Instituto tiene los siguientes objetivos y tareas:
 
-I.- Formular en coordinación con la Secretaría el Plan Estatal de Vivienda;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+I.- Formular, en coordinación con el Instituto de Movilidad y Desarrollo Urbano Territorial, el Plan Estatal de Vivienda;
 
 II.- Proporcionar asesoría en materia de planeación, desarrollo urbano y vivienda a los Ayuntamientos de los Municipios del Estado, cuando éstos lo soliciten, para la formulación, programación y ejecución de sus programas de desarrollo urbano congruentes con los niveles de planeación federal y estatal;
 
@@ -143,23 +145,37 @@ I.- La Junta de Gobierno, y
 
 II.- El Director General quien será nombrado en los términos del Artículo 75 del Código de la Administración Pública de Yucatán.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 7.
 
-La Junta de Gobierno del Instituto está conformada por:
+La Junta de Gobierno del Instituto está conformada por las personas titulares de:
 
-I.- El Titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-II.- El Secretario General de Gobierno;
+I.- El Poder Ejecutivo del Estado.
 
-III.- El Secretario de Hacienda;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-IV.- El Secretario de Planeación y Presupuesto;
+II.- La Secretaría General de Gobierno.
 
-V.- El Secretario de Desarrollo Urbano y Medio Ambiente;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-VI.- El Secretario de Obras Públicas, y
+III.- La Secretaría de Administración y Finanzas.
 
-VII.- El Secretario de Fomento Económico.
+IV.- (DEROGADA, D.O. 31 DE JULIO DE 2019)
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+V.- La Secretaría de Desarrollo Sustentable.
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VI.- La Secretaría de Obras Públicas.
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VII.- La Secretaría de Fomento Económico y Trabajo.
 
 El Titular del Poder Ejecutivo del Estado presidirá la Junta de Gobierno y en los casos de ausencia del Presidente, éste será suplido por el Secretario General de Gobierno.
 
@@ -175,7 +191,9 @@ II.- Analizar y en su caso, aprobar, con las modificaciones que estime pertinent
 
 III.- Aprobar las normas de calidad y la tabla de valores de precios unitarios que debe cumplir el Instituto en ejercicio de sus funciones, a propuesta del Director General;
 
-IV.- Analizar y aprobar en su caso, el proyecto del Plan Estatal de Vivienda que le presente el Director General el cual deberá acordarse conjuntamente con la Secretaría;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IV.- Analizar y aprobar, en su caso, el proyecto del Plan Estatal de Vivienda que le presente el Director General, el cual deberá acordarse conjuntamente con el Instituto de Movilidad y Desarrollo Urbano Territorial;
 
 V.- Analizar y en su caso aprobar, el proyecto de constitución de reservas territoriales que le presente el Director General, para dar cumplimiento a lo dispuesto en la fracción III del Artículo 4 de esta Ley;
 
@@ -219,7 +237,9 @@ II. Elaborar y someter a conocimiento y aprobación de la Junta de Gobierno, los
 
 III. Presentar a la Junta de Gobierno, un proyecto que establezca las normas de calidad y la tabla de valores de precios unitarios, a los cuales deberá de apegarse el Instituto al llevar a cabo su programa operativo anual;
 
-IV.- Elaborar para su presentación a la Junta de Gobierno, el proyecto de Plan Estatal de Vivienda, que una vez aprobado deberá de presentarse a la Secretaría;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IV.- Elaborar, para su presentación a la Junta de Gobierno, el proyecto de Plan Estatal de Vivienda que, una vez aprobado, deberá de presentarse al Instituto de Movilidad y Desarrollo Urbano Territorial;
 
 V. Elaborar los proyectos que estime pertinentes para la constitución de reservas territoriales y presentarlos a la Junta de Gobierno;
 
@@ -622,3 +642,21 @@ GOBERNADORA DEL ESTADO
 C. ROLANDO RODRIGO ZAPATA BELLO
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
