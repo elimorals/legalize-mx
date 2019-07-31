@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-notariado-del-estado-de-yucatan-76541"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-31"
-last_updated: "2018-08-27"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 31 de agosto de 2010.
 
@@ -33,9 +33,11 @@ C. IVONNE ARACELLY ORTEGA PACHECO, GOBERNADORA DEL ESTADO DE YUCATÁN, CON FUNDA
 
 QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA SERVIDO DIRIGIRME EL SIGUIENTE DECRETO:
 
-"EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTICULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLITICA; 97, 150 Y 156 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO, EMITE LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN, EN BASE A LO SIGUIENTE:
+"EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 97, 150 Y 156 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO, EMITE LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN, EN BASE A LO SIGUIENTE:
 
-E X P O S I C I Ó N D E M O T I V O S:...
+E X P O S I C I Ó N D E M O T I V O S:
+
+[...]
 
 Por todo lo anteriormente expuesto y con fundamento a lo dispuesto en los artículos 29 y 30, fracción V de la Constitución Política, y 64 fracción I, 97, 100 y 101 de la Ley Orgánica del Poder Legislativo, ambas del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -139,9 +141,9 @@ El Fedatario Público tendrá la disposición, posesión, mando, uso y traslado 
 
 En caso de pérdida, extravío o robo de cualquier instrumento notarial, el Fedatario Público deberá dar aviso de inmediato al titular del Poder Ejecutivo del Estado, al Consejo de Notarios y dar parte al Ministerio Público.
 
-> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
-Los notarios también podrán designar hasta tres personas para que realicen trámites ante las diversas oficinas del Instituto de Seguridad Jurídica Patrimonial de Yucatán, las cuales deberán registrarse ante el Consejo de Notarios y la Dirección del Archivo Notarial.
+Las y los notarios también podrán designar hasta tres personas para que realicen trámites ante las diversas oficinas del Instituto de Seguridad Jurídica Patrimonial de Yucatán y de la Dirección del Archivo Notarial, las cuales deberán registrarse ante el Consejo de Notarios y la referida dirección.
 
 ###### Artículo 10.
 
@@ -599,6 +601,10 @@ De existir causa justificada para no presentarse a reanudar sus funciones transc
 
 #### Sección Segunda. Del Protocolo Electrónico
 
+#### Sección Primera. Disposiciones generales
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ### CAPÍTULO VI. De la Suspensión y Terminación de la Función Notarial
 
 > <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
@@ -659,21 +665,29 @@ El Oficial del Registro Civil que levante el acta de defunción de un Notario P�
 
 En caso de que alguna autoridad judicial dictare medidas provisionales en un procedimiento de interdicción contra algún fedatario público que se encuentre en ejercicio de sus funciones o dicte un auto de vinculación a proceso con medida cautelar de prisión preventiva, deberá notificarlo al Consejo de Notarios y al Poder Ejecutivo del Estado, quien a su vez publicará en el Diario Oficial del Gobierno del Estado la suspensión a que se refiere la fracción II o la fracción I del artículo 67 de esta ley, según corresponda.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 74.
 
-El Consejo de Notarios y la Dirección de Archivo Notarial, deberán comunicar al titular del Poder Ejecutivo del Estado, toda falta definitiva que ocurra en alguna de las notarías públicas dentro de los diez días hábiles siguientes a su conocimiento.
+El Consejo de Notarios y la Dirección de Archivo Notarial deberán comunicar al titular del Poder Ejecutivo del Estado toda falta definitiva que ocurra en alguna de las notarías públicas, dentro de los diez días hábiles siguientes a su conocimiento.
 
-En estos casos, el Director del Archivo Notarial, se hará cargo provisionalmente del despacho de la notaría vacante, sin perjuicio de atender la propia.
+En los casos que ocurra una falta definitiva en alguna de las notarías públicas, quien ocupe la titularidad de la Dirección del Archivo Notarial se hará cargo provisionalmente del despacho de la notaría vacante, sin perjuicio de atender la propia, en caso de tener una notaría a su cargo.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 75.
 
-En caso de que el Poder Ejecutivo del Estado resuelva la terminación de la función de un Notario Público, éste lo comunicará de inmediato al Director del Archivo Notarial para que éste se haga cargo de la notaría correspondiente y proceda en los términos de esta ley y su reglamento.
+En caso de que el Poder Ejecutivo del Estado resuelva la terminación de la función de un Notario Público, este lo comunicará de inmediato a quien ocupe la titularidad de la Dirección del Archivo Notarial para que proceda en los términos de esta ley y de su reglamento.
 
 ###### Artículo 76.
 
 Cuando el Notario Público deje de estar en funciones por licencia, suspensión o terminación, se debe dar publicidad al hecho mediante publicación en el Diario Oficial del Gobierno del Estado.
 
 ### CAPÍTULO VII. Del Protocolo
+
+#### Sección Segunda. Del acervo notarial
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 77.
 
@@ -744,6 +758,36 @@ El índice referido en el párrafo anterior, podrá ser llevado en forma manuscr
 Los notarios públicos guardarán en su archivo, durante su ejercicio, los libros que integren los tomos de su protocolo, así como los apéndices e índices de lo actuado, levantándose un inventario que podrá ser llevado mediante cualquier sistema electrónico o informático.
 
 Los notarios públicos deberán llevar y conservar los archivos que contengan el texto de las actas notariales y escrituras públicas pasadas en su protocolo en medios electrónicos, digitales, ópticos o de cualquier otra tecnología que permitan su reproducción y enviar un soporte electrónico a la Dirección del Archivo Notarial, cada diez años.
+
+#### Sección Tercera. Registro de Fedatarios Públicos
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Artículo 118 Undecies.- La Dirección del Archivo Notarial llevará un registro de las y los fedatarios públicos, el cual contendrá, por cada fedatario público, al menos, lo siguiente:
+
+I.- El nombre completo;
+
+II.- La dirección de la oficina donde presta sus servicios;
+
+III.- Su fotografía y firma registrada;
+
+IV.- El modelo de su sello para autorizar;
+
+V.- La copia de su patente o nombramiento, según corresponda, y
+
+VI.- La demás información que resulte necesaria para el control del registro.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Artículo 118 Duodecies.- Cuando la o el fedatario público requiera modificar alguno de los elementos del registro, deberá dar aviso a la Dirección del Archivo Notarial con, al menos, cinco días hábiles de anticipación a su uso.
+
+Los cambios de la firma de la o el notario público deberán, además, ser registrados ante el Consejo de Notarios, en los términos de esta ley y de su reglamento, y se publicarán en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+La Dirección del Archivo Notarial dará trámite y actualizará el Registro de Fedatarios Públicos, dentro del término de cinco días hábiles posteriores a la presentación de la solicitud, a fin de que el solicitante inicie la prestación de sus servicios con sus nuevos datos, en el tiempo y forma previstos en su aviso.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Artículo 118 Terdecies.- La Dirección del Archivo Notarial es la instancia ante la cual se depositan los testamentos ológrafos y públicos abiertos que los ciudadanos elaboran en términos del Código de Familia del Estado de Yucatán, debiendo resguardarlos y conservarlos, así como incluirlos en el registro de testamentos que lleve al efecto.
 
 ###### Artículo 88.
 
@@ -1025,11 +1069,109 @@ XIII.- Las demás que le confieran las disposiciones legales y reglamentarias ap
 
 El Presidente del Consejo de Notarios será sustituido en caso de impedimento o de falta temporal o definitiva, por el vocal propietario que sea más antiguo en el ejercicio de la función notarial; el secretario será suplido por el vocal propietario menos antiguo y en su caso el tesorero será suplido por el vocal suplente en ejercicio más antiguo.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
+
+### CAPÍTULO XII BIS. Del Archivo Notarial
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
+
+###### Artículo 118 Bis.
+
+La Dirección del Archivo Notarial es la unidad administrativa de la Consejería Jurídica que tiene a su cargo la salvaguarda, conservación y reproducción de los instrumentos que obren en el acervo del archivo notarial.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
+###### Artículo 118 Ter.
+
+Para ser titular de la Dirección del Archivo Notarial, se requiere:
+
+I.- Tener la ciudadanía mexicana en pleno ejercicio de sus derechos;
+
+II.- Contar con título de abogada o abogado, o licenciada o licenciado en derecho con título y cédula profesional legalmente expedidos, cuando menos, cinco años antes de la fecha del nombramiento;
+
+III.- No haber sido sentenciado con resolución firme de autoridad judicial competente por delitos dolosos, en términos de la legislación penal;
+
+IV.- No tener padecimiento físico o intelectual que le impida el ejercicio de las funciones del cargo;
+
+V.- Haber residido en el estado, cuando menos cinco años antes de la fecha del inicio de las funciones;
+
+VI.- Ser aspirante a notario público; o notario público con licencia.
+
+VII.- No ser ministra o ministro de culto religioso;
+
+VIII.- No estar impedido para efectuar actos de comercio, y
+
+IX.- Ser de reconocida probidad.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
+###### Artículo 118 Quater.
+
+La Dirección del Archivo Notarial vigilará que las y los fedatarios públicos, cuenten con un sello con las características previstas en esta ley y su reglamento.
+
+En caso de que el sello de la o el fedatario público se extravíe, altere o deteriore, éste lo comunicará a la Dirección del Archivo Notarial, quien autorizará la adquisición de otro sello a costa de la o el fedatario público. En caso de que aparezca el antiguo sello la o el fedatario público, de inmediato y sin usar, lo entregará personalmente a la Dirección el (sic) Archivo Notarial para que lo inutilice.
+
+La Dirección del Archivo Notarial contará con un sello de goma, con las características que establezca el reglamento de esta ley.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
+###### Artículo 118 Quinquies.
+
+La Dirección del Archivo Notarial proporcionará a las y los jueces o a las y los notarios públicos que lo requieran, informe sucinto respecto al otorgamiento de algún poder general existente en el registro que lleve para tal efecto, así como los informes que se soliciten respecto de cualquier anotación relativa al otorgamiento de testamento de la persona de cuya sucesión se trate.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
+
+###### Artículo 118 Sexies.
+
+El acervo de la Dirección del Archivo Notarial es público en relación con los documentos con más de cincuenta años de antigüedad. Estos documentos podrán expedirse en copias certificadas, previo pago de los derechos correspondientes, con excepción de aquellos que estén sujetos a disposiciones legales que limiten o prohíban su reproducción.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
+###### Artículo 118 Septies.
+
+El acervo de la Dirección del Archivo Notarial estará integrado por:
+
+I.- Los documentos y avisos que las y los fedatarios públicos remitan, según las prevenciones de las disposiciones legales y normativas aplicables;
+
+II.- Los instrumentos notariales y de otra naturaleza que deba resguardar, en caso de que las y los fedatarios públicos cesen en el ejercicio de su función, y
+
+III.- Los documentos que reciba la Dirección del Archivo Notarial por disposición legal o reglamentaria, y aquellos que se generen en esta dirección con motivo de su funcionamiento.
+
+La o el director del Archivo Notarial y los demás empleados de la dirección tendrán la obligación de guardar secreto de la información y trámites relacionados con la documentación que obre en el acervo.
+
+El incumplimiento de estas obligaciones será sancionado administrativamente en los términos de las leyes que correspondan, sin perjuicio de las responsabilidades penales o civiles a que haya lugar.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
+###### Artículo 118 Octies.
+
+Los expedientes y documentos que entreguen las y los fedatarios públicos para su salvaguarda deberán constar en forma impresa y estar en algún medio electrónico señalado en el reglamento de esta ley. Dicha información será clasificada y archivada en la Dirección del Archivo Notarial para su conservación y posterior consulta o reproducción.
+
+Los tomos del protocolo y demás instrumentos notariales deberán ser entregados a la Dirección del Archivo Notarial en condiciones que permitan su adecuado depósito, resguardo, custodia y consulta.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
+###### Artículo 118 Nonies.
+
+La Dirección del Archivo Notarial llevará un registro digital de los avisos notariales de las actas que contengan testamentos y poderes generales, y se otorguen ante la fe de las y los notarios públicos, quienes deberán presentarlos dentro de los cinco días hábiles siguientes a su otorgamiento.
+
+De igual forma, llevarán un registro electrónico de los avisos de las actas que se otorguen ante la fe de las y los escribanos públicos.
+
+El reglamento de esta ley establecerá los requisitos que las y los fedatarios públicos deberán cumplir respecto de los avisos a que se refiere este artículo.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
+###### Artículo 118 Decies.
+
+Siempre que algún particular solicite información respecto de algún documento que obre en el acervo de la Dirección del Archivo Notarial, previa acreditación sobre su interés jurídico, el director deberá dar respuesta sobre la procedencia o no de la solicitud en un término no mayor a tres días hábiles al de su presentación.
+
+En caso de que la solicitud sea procedente, se entregarán los documentos solicitados dentro de los cinco días hábiles siguientes al de la notificación prevista en el párrafo anterior, previo pago de los derechos respectivos, situación que deberá informarse al interesado con oportunidad.
+
+Cuando, al expedir algún testimonio de acta notarial o escritura pública, o copia certificada que obre en el acervo de la Dirección del Archivo Notarial, se detecte que el documento de referencia carece de algún requisito de los que señala esta ley, el director expedirá el testimonio o copia certificada solicitados, con la mención en la certificación de tales omisiones y, sin prejuzgar sobre sus consecuencias legales, señalará que se trata de una escritura irregular. La expedición del documento solicitado en los términos dispuestos en este párrafo exime al titular de la dirección de responsabilidad.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
+
 ### CAPÍTULO XIII. De los Escribanos Públicos
-
-### CAPÍTULO XIV. Del Ejercicio de las Funciones de los Escribanos Públicos
-
-> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 119.
 
@@ -1085,7 +1227,9 @@ Los escribanos públicos en funciones seguirán en ejercicio de la función nota
 
 El Reglamento de esta Ley, deberá establecer lo relativo a las ausencias y licencias de los escribanos públicos.
 
-### CAPÍTULO XV. De las Visitas a las Notarías y Escribanías Públicas
+### CAPÍTULO XIV. Del Ejercicio de las Funciones de los Escribanos Públicos
+
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 124.
 
@@ -1123,9 +1267,7 @@ Si no cumpliere con esta obligación será requerido por escrito para que cumpla
 
 El ejemplar a que se refiere el artículo anterior será conservado en la Dirección del Archivo Notarial y servirá de base en caso de discusión acerca de los contratos que contenga, para dirimir los derechos controvertidos.
 
-### CAPÍTULO XV BIS. De los Medios de Apremio
-
-> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
+### CAPÍTULO XV. De las Visitas a las Notarías y Escribanías Públicas
 
 ###### Artículo 128.
 
@@ -1175,9 +1317,9 @@ Cuando como resultado de la visita a que se refieren los artículos anteriores, 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 27 DE AGOSTO DE 2018)</small>
 
-### CAPÍTULO XVI. De las Responsabilidades de los Fedatarios Públicos
+### CAPÍTULO XV BIS. De los Medios de Apremio
 
-> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+> <small>(ADICIONADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 138 Bis.
 
@@ -1199,9 +1341,9 @@ Las multas a las que se refiere esta ley se fijarán en cantidad líquida, tendr
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 27 DE AGOSTO DE 2018)</small>
 
-### CAPÍTULO XVII. De las Sanciones
+### CAPÍTULO XVI. De las Responsabilidades de los Fedatarios Públicos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 27 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 139.
 
@@ -1293,9 +1435,9 @@ Si las partes no llegan a un acuerdo mediante el procedimiento de conciliación 
 
 Las reglas específicas de los procedimientos previstos en este capítulo se detallarán en el reglamento de esta ley.
 
-### CAPÍTULO XVIII. De Los Delitos en Materia Notarial
+### CAPÍTULO XVII. De las Sanciones
 
-> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 27 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 148.
 
@@ -1417,6 +1559,10 @@ Las responsabilidades penales, civiles y administrativas de los fedatarios públ
 
 El inicio de un procedimiento para reclamar la responsabilidad penal, civil o administrativa de un fedatario público no suspenderá los procedimientos que se instruyan en términos de esta ley.
 
+### CAPÍTULO XVIII. De Los Delitos en Materia Notarial
+
+> <small>(REFORMADO, D.O. 27 DE AGOSTO DE 2018)</small>
+
 ###### Artículo 151.
 
 Se aplicará pena de prisión de tres meses a tres años y de diez a cincuenta días-multa además de las previstas en el artículo 290 del Código Penal del Estado, a quien careciendo de la patente de Fedatario Público en términos de esta ley se ostente como tal para ejercer en cualquier medio publicitario o por simular funciones inherentes a un Fedatario Público.
@@ -1512,8 +1658,6 @@ Los protocolos cerrados que posean los notarios públicos al momento de entrar e
 ###### ARTÍCULO DÉCIMO TERCERO.
 
 Por única ocasión, el Consejo de Notarios a elegirse en el mes de diciembre de 2010, se conformará por un Presidente, un Secretario, un Tesorero, 4 vocales propietarios y 4 vocales suplentes.
-
-ESTA HOJA DE FIRMAS FORMA PARTE DEL DECRETO MEDIANTE EL CUAL EL PODER EJECUTIVO DEL ESTADO DE YUCATÁN PROMULGA LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN.
 
 DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS VEINTISÉIS DÍAS DEL MES DE AGOSTO DEL AÑO DOS MIL DIEZ. PRESIDENTE DIPUTADO VÍCTOR EDMUNDO CABALLERO DURÁN, SECRETARIO DIPUTADO RENÁN ALBERTO BARRERA CONCHA, Y SECRETARIA DIPUTADA MARTHA LETICIA GÓNGORA SÁNCHEZ. RÚBRICAS."
 
@@ -1638,3 +1782,19 @@ Este decreto entrará en vigor al día siguiente de su publicación en el diario
 Segundo. Derogación tácita.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
