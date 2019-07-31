@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-servicios-postpenales-del-estado-de-yucatan-124242"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-31"
-last_updated: "2017-10-31"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124242&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE SERVICIOS POSTPENALES DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 31 de octubre de 2017.
 
@@ -73,7 +73,9 @@ IV. Reinserción social: el proceso sistemático de acciones que tiene por objet
 
 Aplicación
 
-La aplicación de esta ley corresponde al Gobierno del estado, por conducto de la Secretaría General de Gobierno, y a la Secretaría de Salud; la Secretaría de Educación; la Secretaría de Desarrollo Social; la Secretaría de Fomento Económico; la Secretaría del Trabajo y Previsión Social; la Secretaría de la Cultura y las Artes; el Instituto del Deporte del Estado de Yucatán; y el Sistema para el Desarrollo Integral de la Familia en Yucatán, quienes serán consideradas autoridades corresponsables.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+La aplicación de esta ley corresponde al Gobierno del estado, por conducto de la Secretaría General de Gobierno, y a la Secretaría de Salud; la Secretaría de Educación; la Secretaría de Desarrollo Social; la Secretaría de Fomento Económico y Trabajo; la Secretaría de la Cultura y las Artes; el Instituto del Deporte del Estado de Yucatán; y el Sistema para el Desarrollo Integral de la Familia en Yucatán, quienes serán consideradas autoridades corresponsables.
 
 El Gobierno del estado y las autoridades corresponsables, deberán tener una coordinación y colaboración, con la federación y otras entidades federativas para el cumplimiento de los servicios postpenales.
 
@@ -320,3 +322,21 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
