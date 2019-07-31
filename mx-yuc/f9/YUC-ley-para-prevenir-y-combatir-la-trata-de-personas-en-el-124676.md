@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-prevenir-y-combatir-la-trata-de-personas-en-el-124676"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-04"
-last_updated: "2017-12-04"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento No. 33,492 del Periódico Oficial del Estado de Yucatán, el lunes 4 de diciembre de 2017.
 
@@ -55,7 +55,7 @@ Definiciones
 
 Para efectos de esta ley, además de los conceptos previstos en el artículo 4 de la Ley general, se entenderá por:
 
-I.- Comisión intersecretarial: la Comisión lntersecretarial para Prevenir y Combatir la Trata de Personas en el Estado de Yucatán.
+I.- Comisión intersecretarial: la Comisión Intersecretarial para Prevenir y Combatir la Trata de Personas en el Estado de Yucatán.
 
 II.- Fondo estatal: el Fondo para la Protección y Asistencia de Víctimas de Trata de Personas.
 
@@ -167,9 +167,13 @@ VI. El Fiscal General.
 
 VII. El Secretario de Turismo.
 
-VIII. El director general de la Comisión Ejecutiva Estatal de Atención a Víctimas.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-IX. La directora general del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán.
+VIII. La Secretaría de las Mujeres.
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IX. El titular de la dirección general de la Comisión Ejecutiva Estatal de Atención a Víctimas.
 
 X. El director general del Sistema para el Desarrollo Integral de la Familia en Yucatán.
 
@@ -229,7 +233,7 @@ Las decisiones sobre los asuntos que conozca la Comisión intersecretarial se ap
 
 Reglamento interno
 
-El Reglamento Interno de la Comisión lntersecretarial para Prevenir y Combatir la Trata de Personas en el Estado de Yucatán establecerá las disposiciones específicas que regulen su organización y funcionamiento.
+El Reglamento Interno de la Comisión Intersecretarial para Prevenir y Combatir la Trata de Personas en el Estado de Yucatán establecerá las disposiciones específicas que regulen su organización y funcionamiento.
 
 ### Capítulo IV. Prevención de los Delitos en materia de Trata de Personas
 
@@ -359,11 +363,11 @@ A partir de la entrada en vigor de este decreto, quedará abrogada la Ley para P
 
 Tercero. Instalación de la comisión intersecretarial
 
-La Comisión lntersecretarial para Prevenir y Combatir la Trata de Personas en el Estado de Yucatán se instalará en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+La Comisión Intersecretarial para Prevenir y Combatir la Trata de Personas en el Estado de Yucatán se instalará en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
 
 Cuarto. Expedición del reglamento interno
 
-La Comisión lntersecretarial para Prevenir y Combatir la Trata de Personas en el Estado de Yucatán deberá expedir su reglamento interno en un plazo de ciento ochenta días naturales, contado a partir de su instalación.
+La Comisión Intersecretarial para Prevenir y Combatir la Trata de Personas en el Estado de Yucatán deberá expedir su reglamento interno en un plazo de ciento ochenta días naturales, contado a partir de su instalación.
 
 DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS VEINTIOCHO DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL DIECISIETE. PRESIDENTE DIPUTADO MARCO ALONSO VELA REYES.- SECRETARIO DIPUTADO MANUEL ARMANDO DÍAZ SUÁREZ.- SECRETARIO DIPUTADO JESÚS ADRIÁN QUINTAL IC(SIC).- RUBRICAS."
 
@@ -382,3 +386,21 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
