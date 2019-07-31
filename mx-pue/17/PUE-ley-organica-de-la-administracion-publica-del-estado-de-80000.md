@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2019-07-01"
+last_updated: "2019-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2019 (ABROGADA).
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -2772,3 +2772,39 @@ PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Est
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
 
 TERCERO. La Secretaría de Finanzas y Administración del Gobierno del Estado prevendrá las erogaciones presupuestales que deriven de la aplicación de este Decreto.
+
+P.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se abroga la Ley Orgánica de la Administración Pública del Estado de Puebla, publicada en el Periódico Oficial del Estado el 11 de febrero de 2011, y se derogan todas aquellas disposiciones que contravengan lo dispuesto por la presente Ley.
+
+TERCERO. Para el cumplimiento de esta Ley, el Gobernador, a través de las instancias competentes, podrá reorganizar la estructura de las dependencias creando, fusionando, escindiendo o disolviendo las unidades administrativas y oficinas necesarias, asimismo deberá crear las nuevas dependencias trasladando o creando las nuevas unidades administrativas y oficinas que resulten necesarias, realizando las adecuaciones presupuestales de conformidad con lo estipulado en la Ley de Egresos del Estado de Puebla para el ejercicio fiscal que corresponda.
+
+CUARTO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente ordenamiento, la Consejería Jurídica y las Secretarías de Planeación y Finanzas y la de Administración, en el ámbito de sus respectivas competencias, coordinarán el proceso de transferencia de atribuciones, asuntos y recursos humanos, materiales y financieros existentes, hacia las dependencias reorganizadas o hacia las de nueva creación, representadas por sus titulares, el personal adscrito o comisionado para auxiliarles administrativamente y las unidades administrativas de origen, los cuales ejercerán tanto las nuevas atribuciones, como aquellas para las que los recursos fueron originalmente asignados, bajo la vigilancia de la Secretaría de la Función Pública y el cumplimiento de las disposiciones generales y especiales emitidas por ésta, para su entrega-recepción.
+
+Los asuntos y recursos con que cuenten las unidades administrativas cuya adscripción cambie por disposición o consecuencia del presente ordenamiento, serán transferidos a su nueva dependencia en un plazo máximo de sesenta días a partir de la entrada en vigor del mismo y su nuevo registro contable dará inicio a partir del 1 de enero de 2020.
+
+Los titulares de las dependencias y unidades administrativas de origen y de nueva creación, con el apoyo de las dependencias coordinadoras del proceso de transferencia, proveerán y acordarán lo necesario para cumplir oportunamente el mismo.
+
+La Secretaría de Administración determinará y dispondrá de instalaciones y recursos materiales, para habilitar las oficinas públicas de las dependencias que carezcan de ellas y dictará los lineamientos y disposiciones de carácter general que juzgue necesarios para el cumplimiento del proceso de transferencia y la debida ejecución de lo dispuesto en este artículo.
+
+La Consejería Jurídica y las Secretarías de Planeación y Finanzas, de Administración y de la Función Pública, en el ámbito de sus respectivas competencias, resolverán sobre los aspectos administrativos no contemplados en el presente ordenamiento, escuchando previamente la opinión de la dependencia involucrada.
+
+QUINTO. Cuando algún órgano desconcentrado o unidad administrativa deba pasar de una dependencia a otra, conforme a lo establecido en esta Ley, la transferencia se realizará incluyendo los recursos humanos, financieros y materiales que el órgano desconcentrado o la unidad administrativa utilice para la atención de los asuntos de su conocimiento.
+
+SEXTO. Los procedimientos y demás asuntos que con motivo de la entrada en vigor de esta Ley deban pasar de una dependencia o entidad a otra, continuarán tramitándose por las unidades administrativas de origen hasta que éstas se incorporen a las nuevas dependencias o entidades o, en su caso, se establezcan las unidades administrativas que deban conocer aquéllos, en términos de esta Ley.
+
+Las personas titulares o encargadas del despacho de las áreas o unidades jurídicas o equivalentes, de las dependencias y entidades de la Administración Pública Estatal, deberán informar de inmediato a la Consejería Jurídica respecto de los asuntos a su cargo y los que deriven de la entrada en vigor del presente ordenamiento.
+
+SÉPTIMO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada del presente ordenamiento, se refiera a las dependencias que modifican su denominación, se extinguen o dejan de tener a su cargo el despacho de los asuntos respectivos, se entenderá atribuido a las dependencias a que se refiere el presente ordenamiento y a las que se asignen las facultades específicas que en cada caso se relacionen, incluidas las de coordinación de sector de las entidades respectivas y participación en sus órganos de gobierno, siendo facultad del Gobernador, por conducto de la Consejería Jurídica, hacer la interpretación legal correspondiente y aclarar cualquier duda al respecto.
+
+OCTAVO. Los derechos y obligaciones contractuales, contraídos por las dependencias cuya denominación se haya modificado por la presente ley serán atribuidos a la instancia que las sustituye.
+
+NOVENO. Los derechos laborales del personal que, en virtud de lo dispuesto en la presente Ley, pasen de una dependencia a otra se respetarán en términos de la Ley de los Trabajadores al Servicio del Estado, así como de los lineamientos para el Servicio Civil de Carrera vigentes.
+
+DÉCIMO. El Gobernador dentro los ciento veinte días naturales a partir de la entrada en vigor de la presente Ley, expedirá los reglamentos interiores correspondientes a las dependencias comprendidas en esta Ley.
+
+En tanto no se expidan los reglamentos a que se refiere el párrafo anterior, las dependencias previstas por esta Ley, seguirán aplicando los reglamentos vigentes en todo aquello que no la contravengan.
