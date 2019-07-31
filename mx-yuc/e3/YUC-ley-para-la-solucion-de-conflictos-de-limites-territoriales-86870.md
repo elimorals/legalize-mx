@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-solucion-de-conflictos-de-limites-territoriales-868
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-27"
-last_updated: "2016-12-28"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA SOLUCIÓN DE CONFLICTOS DE LÍMITES TERRITORIALES INTERMUNICIPALES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 27 de marzo de 2012.
 
@@ -425,9 +425,13 @@ II.- Del Instituto Nacional de Estadística y Geografía;
 
 III.- Del Registro Agrario Nacional;
 
-IV.- De la Secretaría de Desarrollo Urbano y Medio Ambiente del Estado;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-V.- Del Centro Estatal de Desarrollo Municipal del Estado;
+IV.- Del Instituto de Movilidad y Desarrollo Urbano Territorial;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+V.- Del Instituto de Desarrollo Regional y Municipal;
 
 VI.- Del Instituto para el Desarrollo de la Cultura Maya del Estado, y
 
@@ -494,3 +498,19 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
