@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-reclutamiento-de-personal-para-el-ejercito-42391"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-20"
-last_updated: "2015-07-24"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42391&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-01-14"
 
 REGLAMENTO DE RECLUTAMIENTO DE PERSONAL PARA EL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2019.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 20 de enero de 2005.
 
@@ -273,7 +273,21 @@ IMC (KG/M2) = _____________peso_____________
 
 estatura al cuadrado
 
-II. Los aspirantes no deberán presentar tatuajes, ni perforaciones en cualquier parte del cuerpo.
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2019)</small>
+
+II. Los aspirantes que presenten tatuajes podrán ingresar al Ejército y Fuerza Aérea Mexicanos, siempre y cuando:
+
+a) No se encuentren en lugares visibles con el uso de uniforme;
+
+b) Tenga una dimensión máxima de 10 x 10 centímetros;
+
+c) Las imágenes no sean ofensivas a la moral o hagan apología del delito, y
+
+d) En caso de que tengan más de un tatuaje, estos no sean mayor del 10% de la superficie corporal, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE JULIO DE 2019)</small>
+
+III. Los aspirantes no deberán presentar perforaciones en cualquier parte del cuerpo.
 
 Al personal femenino únicamente se le autorizarán las horadaciones lobulares normales.
 
@@ -577,9 +591,9 @@ XI. Los demás supuestos previstos en la Ley Orgánica del Ejército y Fuerza A�
 
 XII. Las causales de rescisión que se establezcan en otras disposiciones jurídicas, y
 
-> <small>(ADICIONADA, D.O.F. 4 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 31 DE JULIO DE 2019)</small>
 
-XIII. Presentar tatuajes y/o perforaciones en cualquier parte del cuerpo durante su permanencia en el Ejército y Fuerza Aérea Mexicanos; con excepción de las horadaciones lobulares permitidas al personal femenino.
+XIII. Presentar, durante su permanencia en el Ejército y Fuerza Aérea Mexicanos, tatuajes que no se ajusten a lo previsto en el artículo 21, fracción II de este Reglamento, así como perforaciones en cualquier parte del cuerpo, con excepción de las horadaciones lobulares permitidas al personal femenino.
 
 La Secretaría de la Defensa Nacional podrá dejar sin efectos y sin responsabilidad para ella, las Cartas Compromiso suscritas por los alumnos de los Establecimientos de Educación Militar, cuando éstos se ubiquen en alguno de los supuestos de rescisión previstos en este artículo.
 
@@ -844,3 +858,13 @@ TERCERO.- Se derogan las disposiciones administrativas que se opongan al present
 CUARTO.- Los trámites de desistimiento de los aspirantes a ingresar al Ejército y Fuerza Aérea Mexicanos, iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite hasta su conclusión conforme a las disposiciones aplicables al momento en que se presentaron.
 
 Los procedimientos de rescisión del contrato de enganche que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto se ajustarán en lo conducente a lo previsto en el presente ordenamiento.
+
+D.O.F. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE RECLUTAMIENTO DE PERSONAL PARA EL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
+
+TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
