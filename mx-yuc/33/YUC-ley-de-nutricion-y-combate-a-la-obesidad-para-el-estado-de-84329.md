@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-nutricion-y-combate-a-la-obesidad-para-el-estado-de-8432
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-05"
-last_updated: "2016-12-28"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84329&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE NUTRICIÓN Y COMBATE A LA OBESIDAD PARA EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 5 de enero de 2012.
 
@@ -71,17 +71,23 @@ La aplicación de esta Ley corresponde a:
 
 I. Poder Ejecutivo del Estado;
 
-II. La Secretaría de Planeación y Presupuesto;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+II. La Secretaría de Administración y Finanzas;
 
 III. La Secretaría de Salud;
 
 IV. La Secretaría de Educación;
 
-V. La Secretaría de la Juventud;
+V. (DEROGADA, D.O. 31 DE JULIO DE 2019);
 
-VI. La Secretaría de Fomento Económico;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-VII. La Secretaría de Fomento Agropecuario y Pesquero;
+VI. La Secretaría de Fomento Económico y Trabajo;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VII. La Secretaría de Desarrollo Rural;
 
 VIII. El Sistema para el Desarrollo Integral de la Familia;
 
@@ -269,15 +275,19 @@ II. El Titular de la Secretaría de Salud, como Vicepresidente;
 
 III. El Titular de la Secretaría de Educación; como Secretario;
 
-IV. El Titular de la Secretaría de Planeación y Presupuesto, como
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-Vocal;
+IV. El Titular de la Secretaría de Administración y Finanzas, como Vocal;
 
-V. El Titular de la Secretaría de la Juventud, como Vocal;
+V. (DEROGADA, D.O. 31 DE JULIO DE 2019);
 
-VI. El Titular de la Secretaría de Fomento Económico, como Vocal;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-VII. El Titular de la Secretaría de Fomento Agropecuario y Pesquero, como Vocal;
+VI. El Titular de la Secretaría de Fomento Económico y Trabajo, como Vocal;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+VII. El Titular de la Secretaría de Desarrollo Rural, como Vocal;
 
 VIII. El Titular del Sistema Integral para el Desarrollo Integral de la Familia del Estado de Yucatán; como Vocal;
 
@@ -631,11 +641,15 @@ II. Verificar que los alimentos que se preparen en las tienditas o cafeterías e
 
 III. Preferir la venta de productos propios de la región siempre y cuando cumplan con los lineamientos que emita el Consejo.
 
-#### Sección Cuarta. De la Secretaría de Planeación y Presupuesto
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2019)</small>
+
+#### Sección Cuarta. De la Secretaría de Administración y Finanzas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 38.
 
-La Secretaría de Planeación y Presupuesto tendrá a su cargo las siguientes obligaciones:
+La Secretaría de Administración y Finanzas tendrá a su cargo las siguientes obligaciones:
 
 I. Impulsar el desarrollo de la política pública en materia de nutrición, combate a la obesidad y Trastornos de la Conducta Alimentaria;
 
@@ -647,27 +661,23 @@ IV. Coordinar esfuerzos para la difusión de los resultados obtenidos de la impl
 
 V. Las demás que le confiera esta Ley y otras disposiciones legales y normativas aplicables.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 31 DE JULIO DE 2019)</small>
+
 #### Sección Quinta. De la Secretaría de Juventud
 
 ###### Artículo 39.
 
-La Secretaría de la Juventud tendrá a su cargo las siguientes obligaciones:
+(DEROGADO, D.O. 31 DE JULIO DE 2019)
 
-I. Promover el consumo de alimentos naturales entre la población juvenil;
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2019)</small>
 
-II. Fomentar la salud y el autocuidado, a través de programas promocionales que influyan de manera radical a la población juvenil;
+#### Sección Sexta. De la Secretaría de Fomento Económico y Trabajo
 
-III. Difundir información acerca de las consecuencias dañinas para la salud provocadas por una mala nutrición;
-
-IV. Promover la práctica de diversas actividades deportivas entre la población juvenil del Estado, y
-
-V. Las demás que le confiera esta Ley y otras disposiciones legales y normativas aplicables.
-
-#### Sección Sexta. De la Secretaría de Fomento Económico
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 40.
 
-La Secretaría de Fomento Económico tendrá a su cargo las siguientes obligaciones:
+La Secretaría de Fomento Económico y Trabajo tendrá a su cargo las siguientes obligaciones:
 
 I. Proporcionar apoyo a las cadenas de distribución y al acceso a frutas, verduras, leguminosas y cereales enteros;
 
@@ -677,11 +687,15 @@ III. Difundir información sobre mercados de productos saludables, y
 
 IV. Las demás que le confiera esta Ley y otras disposiciones legales y normativas aplicables.
 
-#### Sección Séptima. De la Secretaría de Fomento Agropecuario y Pesquero
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2019)</small>
+
+#### Sección Séptima. De la Secretaría de Desarrollo Rural
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 41.
 
-La Secretaría de Fomento Agropecuario y Pesquero tendrá a su cargo las siguientes obligaciones:
+La Secretaría de Desarrollo Rural tendrá a su cargo las siguientes obligaciones:
 
 I. Promover usos alternativos de la caña de azúcar;
 
@@ -942,3 +956,19 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
