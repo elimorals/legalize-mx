@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2019-04-22"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -249,9 +249,9 @@ IV.- desempeñar las funciones electorales y las de jurado en los términos de l
 
 V.- inscribirse en las Juntas Municipales de Reclutamiento para el servicio de las armas;
 
-(REFORMADA, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 26 DE MARZO DE 2019)
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-VI.- votar en los procedimientos de elección y consulta popular, en los términos que señale la ley;
+VI.- Votar en los procedimientos de elección, consulta popular y el de revocación de mandato, en los términos que señale la ley;
 
 VII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
@@ -269,13 +269,29 @@ La calidad de ciudadano yucateco se pierde por la pérdida de la ciudadanía mex
 
 (DEROGADO, D.O. 26 DE JULIO DE 2013)
 
-(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 26 DE MARZO DE 2019) (F. DE E., D.O. 26 DE MARZO DE 2019)
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 31 DE JULIO DE 2019)</small>
 
 ### CAPITULO III. De los Medios de Participación Ciudadana
 
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### Artículo 11 Bis.
 
-(F. DE E., D.O. 26 DE MARZO DE 2019)
+Son mecanismos de participación ciudadana los siguientes:
+
+A.- El plebiscito, a través del cual, los ciudadanos ejercen su participación opinando sobre los actos y acciones gubernamentales de los Poderes Ejecutivo, Legislativo y de los Municipios; calificadas como trascendentales para la vida pública y el interés social.
+
+B.- El referéndum, a través del cual, se garantiza la participación ciudadana para recabar su opinión sobre el contenido total o parcial de las reformas a la Constitución, así como de la creación, derogación o reformas a las leyes o decretos, que acuerde el Poder Legislativo. De los Ayuntamientos, cuando se trate del Bando de Policía y Gobierno, y los reglamentos municipales.
+
+C.- La iniciativa popular, por medio de la cual la ciudadanía tiene el derecho de presentar proyectos de creación, reforma o adición a la Constitución, a las leyes, decretos, Bando de Policía y Gobierno o reglamentos municipales.
+
+D.- La revocación de mandato de los representantes populares electos.
+
+La ley establecerá el porcentaje de ciudadanos que deberán solicitar la revocación de mandato, así como el porcentaje de votación ciudadana que se requiere para que dicha consulta adquiera fuerza vinculante y por tanto obligatoria, tomando como base el listado nominal de la elección que corresponda.
+
+Los requisitos, procedimientos y demás regulación en la materia se establecerán en la ley reglamentaria.
+
+La organización, el desarrollo, el cómputo y declaración de los resultados que se obtengan de los mecanismos de participación ciudadana son una función estatal, que corresponde al Instituto Electoral y de Participación Ciudadana de Yucatán.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1219,11 +1235,11 @@ XIII.- estar inscrito en el Registro Federal del (sic) Electores y contar con Cr
 
 Para ser Gobernador Interino del Estado, se requieren los mismos requisitos que para ser Gobernador Constitucional.
 
-(REFORMADO, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 26 DE MARZO DE 2019)
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 48.
 
-El Gobernador Constitucional del Estado entrará en funciones el día 1 de octubre y durará en su encargo seis años.
+El Gobernador Constitucional del Estado entrará en funciones el día 1 de octubre y podrá durar en su encargo hasta seis años.
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1971,7 +1987,7 @@ El Consejo General del Instituto Electoral y de Participación Ciudadana de Yuca
 
 La ley determinará las bases del servicio profesional electoral nacional y las relaciones laborales de los servidores públicos del Instituto Electoral y de Participación Ciudadana de Yucatán.
 
-El plebiscito, el referéndum y la iniciativa popular son mecanismos de participación ciudadana. Su organización, desarrollo, cómputo y declaración de los resultados es una función estatal que corresponde al Instituto Electoral y de Participación Ciudadana de Yucatán.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
 > <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2014)</small>
 
@@ -4346,3 +4362,23 @@ Artículo primero. El presente Decreto entrará en vigor al día siguiente al de
 Derogación expresa
 
 Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 96/2019 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE REVOCACIÓN DE MANDATO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor y será aplicable a los presidentes municipales, regidores y síndicos a partir del uno de septiembre del 2021, siempre y cuando no hayan resultado reelectos.
+
+Para el caso de los diputados locales, este decreto entrará en vigor y será aplicable a partir del uno de septiembre del 2021, siempre y cuando no hayan resultado reelectos.
+
+Para el caso de la figura del Gobernador Constitucional del Estado, este decreto entrará en vigor y será aplicable a partir del uno de octubre del 2024. En todos los casos, previa publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Adecuación normativa
+
+El congreso deberá realizar las adecuaciones normativas correspondientes, dentro de los 180 días siguientes a la declaratoria constitucional que para tal efecto haga este o la Diputación Permanente, en su caso.
+
+Tercero. Derogación expresa
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
