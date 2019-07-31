@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-asentamientos-humanos-del-estado-de-yucatan-11957"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-30"
-last_updated: "2017-12-22"
+last_updated: "2019-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 30 de junio de 1995.
 
@@ -51,7 +51,9 @@ I. Establecer las normas conforme a las cuales el Estado y los municipios partic
 
 II. Fijar las normas a las que se sujetará la planeación, fundación, mejoramiento, conservación y crecimiento de los centros de población de la Entidad.
 
-III. Definir las normas conforme a las cuales el Gobernador del Estado, la Secretaría de Desarrollo Urbano, Obras Públicas y Vivienda y los ayuntamientos ejercerán sus atribuciones para determinar las correspondientes provisiones, usos, destinos y reservas de áreas, zonas y predios, que regulen la propiedad en el territorio del Estado.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+III. Definir las normas conforme a las cuales la o el Gobernador, el Instituto de Movilidad y Desarrollo Urbano Territorial, así como los ayuntamientos ejercerán sus atribuciones para determinar las correspondientes provisiones, usos, destinos, reservas de áreas, zonas y predios que regulen la propiedad en el territorio del estado.
 
 IV. Determinar las bases para la participación social en materia de asentamientos humanos.
 
@@ -133,9 +135,9 @@ XVII. RESERVAS.- Las áreas de un centro de población que serán utilizadas par
 
 XVII Bis.- RESILIENCIA.- Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, para lograr una mejor protección futura y mejorar las medidas de reducción de riesgos;
 
-> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-XVIII.- SECRETARIA.- La Secretaría de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado.
+XVIII. INSTITUTO.- El Instituto de Movilidad y Desarrollo Urbano Territorial.
 
 XIX. SERVICIOS URBANOS.- Las servicios públicos prestados directamente por la autoridad competente o concesionados para satisfacer necesidades colectivas en los centros de población.
 
@@ -157,7 +159,9 @@ I. El Gobernador del Estado.
 
 II. Los ayuntamientos.
 
-III. La Secretaría de Desarrollo Urbano, Obras Públicas y Vivienda.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+III. El Instituto.
 
 ###### ARTICULO 5.
 
@@ -239,11 +243,15 @@ XVIII. Instalar los consejos municipales de desarrollo urbano.
 
 XIX. Las demás que le señale esta Ley y otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTICULO 7.
 
-Son atribuciones y obligaciones de la Secretaría:
+Son atribuciones y obligaciones del Instituto:
 
-I. Ejecutar, administrar, controlar y evaluar el cumplimiento del programa estatal de desarrollo urbano.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+I. Formular, ejecutar, administrar, controlar y evaluar el cumplimiento del programa estatal de desarrollo urbano.
 
 II. Proponer los lineamientos técnicos para la formulación, evaluación y actualización del programa estatal de desarrollo urbano.
 
@@ -269,9 +277,11 @@ I. El Consejo Estatal de desarrollo urbano.
 
 II. Los consejos municipales de desarrollo urbano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTICULO 9.
 
-El Consejo Estatal de desarrollo urbano, tendrá carácter permanente, será presidido por el titular de la Secretaría y se integrará por:
+El Consejo Estatal de desarrollo urbano tendrá carácter permanente, será presidido por la persona titular del Instituto y se integrará por:
 
 I. Un representante propietario y un suplente de cada una de las dependencias del Gobierno del Estado que tengan relación directa con el desarrollo urbano.
 
@@ -787,9 +797,11 @@ II. Reducir y abatir los procesos de ocupación irregular de áreas y predios me
 
 III. Asegurar la disponibilidad del suelo para los diferentes usos y destinos que determinen los programas de desarrollo urbano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTICULO 55.
 
-El Estado por conducto de la Secretaría suscribirá acuerdos de coordinación con los municipios y en su caso, convenios de concertación con los sectores social y privado, en los que se especificará:
+El Estado, por conducto del Instituto, suscribirá acuerdos de coordinación con los municipios y en su caso, convenios de concertación con los sectores social y privado, en los que se especificará:
 
 I. Los requerimientos de suelo y reservas territoriales para el desarrollo urbano y la vivienda, conforme a lo previsto en los programas de desarrollo urbano.
 
@@ -1017,9 +1029,11 @@ La autoridad municipal estará obligada a expedir las licencias de uso del suelo
 
 Las licencias de uso del suelo tendrán una vigencia de un año contado a partir de la fecha de su expedición, a menos que los programas de desarrollo urbano en los cuales se funden, fueren modificados durante dicho plazo.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTICULO 71.
 
-Los municipios podrán celebrar convenios de coordinación administrativa con la Secretaría, con el objeto de que ésta coadyuve a la expedición de las licencias de uso del suelo a que se refiere el presente capítulo.
+Los municipios podrán celebrar convenios de coordinación administrativa con el Instituto, con el objeto de que ésta coadyuve a la expedición de las licencias de uso del suelo a que se refiere el presente capítulo.
 
 ### Capítulo III. DE LAS CONSTANCIAS DE FACTIBILIDAD DE USO DEL SUELO
 
@@ -1057,9 +1071,11 @@ Ninguna autoridad podrá expedir permisos, autorizaciones y licencias relacionad
 
 Cuando se estén llevando a cabo construcciones, fraccionamientos, condominios, cambios de uso o destino del suelo u otros aprovechamientos de áreas y predios que contravengan las disposiciones de la presente Ley, de sus reglamentos y de los programas de desarrollo urbano, los residentes del área que resulten directamente afectados tendrán derecho a exigir que se realicen las inspecciones correspondientes y se apliquen las medidas de seguridad y sanciones procedentes.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTICULO 78.
 
-El Gobernador, la Secretaría y los ayuntamientos en la esfera de sus respectivas competencias, podrán ordenar la realización de visitas de inspección para verificar el cumplimiento de las disposiciones contenidas en la presente Ley y los reglamentos que de ella se deriven.
+La persona titular de la Gubernatura del Estado, el Instituto, así como de los ayuntamientos, en la esfera de sus respectivas competencias, podrán ordenar la realización de visitas de inspección para verificar el cumplimiento de las disposiciones contenidas en la presente Ley y los reglamentos que de ella se deriven.
 
 ###### ARTICULO 79.
 
@@ -1103,9 +1119,11 @@ III. Exigir, a título de cooperación o colaboración u otra finalidad semejant
 
 ### Capítulo II. DE LAS MEDIDAS DE SEGURIDAD Y DE LAS SANCIONES
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTICULO 84.
 
-El Gobernador del Estado, la Secretaría y las autoridades municipales podrán adoptar y ejecutar las medidas de seguridad, calificar las infracciones e imponer las sanciones administrativas que correspondan, conforme a esta Ley.
+La persona titular de la Gubernatura del Estado, el Instituto, así como las autoridades municipales podrán adoptar y ejecutar las medidas de seguridad, calificar las infracciones e imponer las sanciones administrativas que correspondan conforme a esta Ley.
 
 ###### ARTICULO 85.
 
@@ -1131,9 +1149,11 @@ VII. Cualesquiera otras que tiendan a lograr los fines expresados en el artícul
 
 Antes de adoptarse las medidas relacionadas, se concederá al interesado un plazo de cinco días para que por si mismo evite los daños a que se refiere el artículo inmediato anterior. Se exceptúan de lo anterior las medidas señaladas en las fracciones primera y sexta de este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
 ###### ARTICULO 87.
 
-Las infracciones a las disposiciones de esta Ley y su reglamentación, de los programas de desarrollo urbano, de los acuerdos y de las resoluciones administrativas relativas al desarrollo urbano, se sancionarán por el Gobernador del Estado, la Secretaría o los ayuntamientos, según corresponda, con:
+Las infracciones a las disposiciones de esta Ley y su reglamentación, de los programas de desarrollo urbano, de los acuerdos y de las resoluciones administrativas relativas al desarrollo urbano se sancionarán por la persona titular de la Gubernatura del Estado, el Instituto o los ayuntamientos, según corresponda, con:
 
 I. Revocaciones de las autorizaciones, permisos o licencias otorgados.
 
@@ -1234,3 +1254,19 @@ D.O. 22 DE DICIEMBRE DE 2017.
 Único. Entrada en vigor.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
