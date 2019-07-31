@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-desarrollo-forestal-sustentable-del-estado-de-yucatan-12
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-08"
-last_updated: "2017-05-08"
+last_updated: "2019-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121248&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
 
 Ley publicada en la Edición Especial del Diario Oficial del Estado de Yucatán, el lunes 8 de mayo de 2017.
 
@@ -71,7 +71,9 @@ II.- Ley general: la Ley General de Desarrollo Forestal Sustentable.
 
 III.- Programa especial: el programa especial de desarrollo forestal.
 
-IV.- Secretaría: la Secretaría de Desarrollo Urbano y Medio Ambiente.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IV.- Secretaría: la Secretaría de Desarrollo Sustentable.
 
 ###### Artículo 3.
 
@@ -601,11 +603,15 @@ Integración
 
 El consejo estará integrado por:
 
-I.- El secretario de Desarrollo Urbano y Medio Ambiente, quién será el presidente.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+I.- El Secretario de Desarrollo Sustentable, quién será el presidente.
 
 II.- El secretario de Desarrollo Rural.
 
-III.- El titular de la Unidad Estatal de Protección Civil de la Secretaría General de Gobierno.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+III.- El Titular de la Coordinación General de Protección Civil de la Secretaría General de Gobierno.
 
 IV.- Los presidentes municipales de cada una de las cabeceras de las regiones que se establezcan para efectos del Sistema de Planeación del Desarrollo Estatal.
 
@@ -617,7 +623,9 @@ VII.- El delegado de la Procuraduría Federal de Protección al Ambiente en Yuca
 
 VIII.- Los representantes de ejidos, comunidades indígenas, pequeños propietarios, prestadores de servicios técnicos forestales, industriales, y demás personas físicas o morales relacionadas e interesadas que determine el presidente.
 
-Cuando el Gobernador del Estado asista a las sesiones del consejo asumirá el cargo de Presidente y el Secretario de Desarrollo Urbano y Medio Ambiente fungirá como secretario técnico, conservando el derecho a voz y voto, ambos con las facultades y obligaciones establecidas para tal efecto en esta ley y en las demás disposiciones aplicables.
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Cuando la persona titular del Poder Ejecutivo del Estado asista a las sesiones del consejo asumirá el cargo de Presidente y el secretario de Desarrollo Sustentable fungirá como secretario técnico, conservando el derecho a voz y voto, ambos con las facultades y obligaciones establecidas para tal efecto en esta ley y en las demás disposiciones aplicables.
 
 El presidente nombrará al secretario técnico del consejo y este participará en las sesiones únicamente con derecho a voz.
 
@@ -682,3 +690,21 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Derechos adquiridos
+
+Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
+
+Artículo tercero. Obligación normativa
+
+La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
