@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-136644"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-07"
-last_updated: "2019-06-07"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136644&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-06-07"
 ---
 # LEY DE CULTURA CIVICA DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE NOVIEMBRE DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE AGOSTO DE 2019.
 
 Ley publicada en el Número 108 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 7 de junio de 2019.
 
@@ -580,6 +582,10 @@ IX. Proferir silbidos o expresiones verbales de connotación sexual a una person
 
 X. Realizar la exhibición de órganos sexuales con la intención de molestar o agredir a otra persona. Sólo procederá la presentación de la persona probable infractora cuando exista queja de la persona agredida o molestada.
 
+> <small>(ADICIONADA, G.O. 1 DE AGOSTO DE 2019)</small>
+
+XI. Vejar, intimidar, maltratar físicamente o incitar a la violencia contra un integrante de las instituciones de Seguridad Ciudadana.
+
 > <small>(REFORMADO, G.O. 7 DE JUNIO DE 2019)</small>
 
 ###### Artículo 27.
@@ -716,6 +722,10 @@ Infracciones tipo D, se sancionarán con arresto de 20 a 36 horas o de 10 a 18 h
 
 La Persona Juzgadora, dependiendo de la gravedad de la infracción podrá imponer como sanción la amonestación, cuando en el registro del juzgado no existan antecedentes de la Persona Infractora.
 
+> <small>(ADICIONADO, G.O. 1 DE AGOSTO DE 2019)</small>
+
+Infracciones tipo E, se sancionarán de 20 y hasta 36 horas, inconmutables de trabajo en favor de la comunidad;
+
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 7 DE JUNIO DE 2019)</small>
 
 ###### Artículo 32.
@@ -724,7 +734,7 @@ Para efectos del artículo anterior las infracciones se clasificarán de acuerdo
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 7 DE JUNIO DE 2019, PÁGINA 25.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.O. DE 7 DE JUNIO DE 2019, PÁGINA 49.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.O. DE 7 DE JUNIO DE 2019, PÁGINA 49; 1 DE AGOSTO DE 2019, PÁGINA 50.]</small>
 
 ###### Artículo 33.
 
@@ -1763,3 +1773,11 @@ G.O. 7 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE MODIFICA LOS ARTÍCULOS 26, 27 Y 32 DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO Y SE ABROGA LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO, DEL 29 DE DICIEMBRE DE 2017”.]
 
 ÚNICO. Remítase a la Jefa de Gobierno, para su conocimiento y efectos legales.
+
+G.O. 1 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA, DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL DISTRITO FEDERAL Y DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO: Publíquese en la Gaceta Oficial de la Ciudad de México.
