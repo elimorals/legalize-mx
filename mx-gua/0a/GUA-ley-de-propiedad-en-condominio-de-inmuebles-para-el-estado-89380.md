@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-propiedad-en-condominio-de-inmuebles-para-el-estado-8938
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-11"
-last_updated: "2016-07-01"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89380&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre del 2012.
 
@@ -344,6 +344,18 @@ III. Respetar los derechos de los demás condóminos o poseedores; y
 IV. En caso de conflicto con otros condóminos o poseedores, con el administrador o con el Comité de Vigilancia, acudir a la mediación y conciliación ante el Centro Estatal de Justicia Alternativa, conforme a lo pactado en el contrato traslativo de dominio de la unidad de propiedad privativa.
 
 En caso de incumplimiento grave y reiterado de las obligaciones o se comprometa la seguridad y tranquilidad de los condóminos y poseedores, el administrador, por acuerdo tomado en Asamblea General Extraordinaria, por mayoría especial de por lo menos el setenta y cinco por ciento de votos de la totalidad de los condóminos, podrá demandar judicialmente, al condómino la venta en subasta pública de su unidad de propiedad privativa o, en su caso, al poseedor, la desocupación de la misma.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Obligaciones respecto a las cuotas de agua
+
+###### Artículo 19 Bis.
+
+Los condóminos o poseedores pagarán la tarifa de agua teniendo como base las lecturas contenidas en el aparato medidor que se instale para tales efectos y además cubrirán por medio de las cuotas ordinarias, las aportaciones que proporcionalmente les correspondan por el consumo de agua que se haga para el servicio común.
+
+De este último pago responden solidariamente todos los propietarios.
+
+Mientras no se instalen aparatos medidores individuales, la tarifa se pagará de conformidad con los acuerdos tomados por la Asamblea General.
 
 Prohibiciones
 
@@ -1252,3 +1264,19 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 89, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 318 DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; Y SE ADICIONA EL ARTÍCULO 19 BIS A LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia del decreto
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Actualización de los reglamentos municipales
+
+Artículo Segundo. Los ayuntamientos deberán actualizar los reglamentos y demás disposiciones a que se refiere este decreto, a más tardar en ciento ochenta días posteriores a su entrada en vigor.
+
+Programa de actualización de micro medición
+
+Artículo Tercero. Los organismos operadores contarán con un periodo de ciento ochenta días posteriores a la entrada en vigor del presente decreto para crear, impulsar e implementar un programa de actualización de micro medición para los usuarios que no cuenten con este servicio, generando acciones que faciliten la incorporación a este nuevo sistema.
