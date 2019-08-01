@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-organizaciones-de-asistencia-social-para-el-estado-10127
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-10"
-last_updated: "2015-10-02"
+last_updated: "2019-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE ORGANIZACIONES DE ASISTENCIA SOCIAL PARA EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE ORGANIZACIONES DE ASISTENCIA SOCIAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 2 DE OCTUBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 10 de junio de 2014.
 
@@ -45,35 +45,39 @@ LEY DE ORGANIZACIONES DE ASISTENCIA SOCIAL PARA EL ESTADO DE GUANAJUATO
 
 ### Capítulo Único. Disposiciones generales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 Naturaleza y objeto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social. Tiene por objeto regular el funcionamiento de los centros de asistencia social, así como de instituciones, casas hogar, refugios y albergues que tengan bajo su custodia a personas en estado de vulnerabilidad y sean sujetos de asistencia social.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La presente Ley es de orden público e interés social. Tiene por objeto regular el funcionamiento de las instituciones, refugios y albergues que tengan bajo su custodia a personas en estado de vulnerabilidad y sean sujetos de asistencia social, a excepción de los centros de asistencia social.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 Finalidades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 2.
 
-La presente Ley tiene como finalidades, en el marco de respeto a los derechos humanos, el garantizar la seguridad y el desarrollo integral físico, emocional y jurídico de los menores, personas con discapacidad, adultas mayores, mujeres víctimas de violencia intrafamiliar, omisas de cuidados, expósitos o en abandono y, en general, toda aquella persona que requiere de la asistencia social y se encuentren bajo el resguardo de centros de asistencia social, instituciones, casas hogar, refugios y albergues.
+La presente Ley tiene como finalidades, en el marco de respeto a los derechos humanos, el garantizar la seguridad y el desarrollo integral físico, emocional y jurídico de personas con discapacidad, personas adultas mayores, mujeres víctimas de violencia familiar, omisas de cuidados, o en abandono y, en general, de toda aquella persona que requiera de la asistencia social y se encuentre bajo el resguardo de instituciones, refugios o albergues.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Cuando la persona que requiera de la asistencia social sea niña, niño o adolescente, se estará a lo dispuesto en la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Guanajuato.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 Interpretación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 3.
 
-Las disposiciones de la presente Ley se interpretarán bajo los principios pro persona y del interés superior del menor.
+Las disposiciones de la presente Ley se interpretarán bajo el principio pro persona.
 
 Glosario
 
@@ -83,19 +87,11 @@ Para los efectos de lo establecido en la presente Ley, se entiende por:
 
 I. Abandono. Conducta consistente en dejar de proporcionar a una persona que tiene necesidad de asistencia social, los medios necesarios para su supervivencia y desarrollo integral;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-II. Acogimiento residencial. El brindado por centros de asistencia social como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;
+II. (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
 III. Autoridades. Las referidas en el artículo 5 de esta Ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-IV. Centro de asistencia social. El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
+IV. (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
 V. Certificado de Registro y Funcionamiento. Documento de autorización intransferible expedido por el Consejo Estatal de Asistencia Social a favor de la organización de asistencia social que cumpla con los requisitos establecidos en la presente Ley;
 
@@ -107,19 +103,17 @@ VIII. DIF Estatal. El Sistema para el Desarrollo Integral de la Familia del Esta
 
 IX. DIF Municipal. El Sistema para el Desarrollo Integral de la Familia de cada municipio del Estado;
 
-X. Menores. A las personas menores de dieciocho años de edad que se encuentren internos en alguna Organización de Asistencia Social;
+X. (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
 XI. Organizaciones de Asistencia Social. Las personas físicas y morales sin propósito de lucro, que tengan como objeto procurar el asilo, alojamiento, abastecimiento alimentario, apoyo y bienestar físico y mental de personas que por sus condiciones físicas, mentales, jurídicas o sociales, requieran de asistencia social, contempladas en el artículo 4 de la Ley Sobre el Sistema Estatal de Asistencia Social;
 
 XII. Persona Adulta Mayor. El que señala la Ley de los Derechos de las Personas Adultas Mayores para el Estado de Guanajuato;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XIII. (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-XIII. Procuraduría Estatal. La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes;
-
-XIV. Protección Civil. La unidad administrativa responsable de las tareas de protección civil, dependiente de la Secretaría de Seguridad Pública;
+XIV. Protección Civil. La unidad administrativa responsable de las tareas de protección civil, en el ámbito estatal o municipal;
 
 XV. Secretaría de Educación. La Secretaría de Educación del Estado de Guanajuato;
 
@@ -141,17 +135,13 @@ III. A la Secretaría de Educación;
 
 IV. A la Secretaría de Salud;
 
-V. A la Procuraduría General de Justicia del Estado;
+V. (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
 VI. Al DIF Estatal;
 
 VII. A Protección Civil;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-VIII. A la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes;
+VIII. (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
 IX. Al Consejo Estatal de Asistencia Social;
 
@@ -183,23 +173,27 @@ III. Un representante de la Secretaría de Desarrollo Social y Humano;
 
 IV. Un representante de la Secretaría de Salud;
 
-V. Un representante de la Procuraduría General de Justicia del Estado;
+V. (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VI. (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-VI. El Procurador de Protección de Niñas, Niños y Adolescentes del Estado;
+VII. El titular de la Dirección de Fortalecimiento Familiar del DIF Estatal;
 
-VII. El titular de la Dirección de Protección Jurídica Familiar del DIF Estatal;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-VIII. El titular de la Procuraduría Social, quien fungirá como Secretario Técnico;
+VIII. El titular de la Dirección de Fortalecimiento Comunitario del DIF Estatal, quien fungirá como Secretario Técnico;
 
-IX. El titular de la Dirección de Acciones en Favor de la Infancia del DIF Estatal;
+IX. (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
-X. El titular de la Dirección de Adultos Mayores y Participación Social del DIF Estatal;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-XI. Un representante de Protección Civil; y
+X. El titular de la Dirección de Atención a Personas Adultas Mayores del DIF Estatal;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+XI. Un representante de la Coordinación Estatal de Protección Civil; y
 
 XII. Dos representantes de la sociedad civil, designados por el Gobernador del Estado de entre los directivos de las Organizaciones de Asistencia Social, quienes deberán cubrir los perfiles establecidos en la reglamentación de esta Ley.
 
@@ -305,29 +299,17 @@ V. Informar al Consejo Estatal de Asistencia Social el resultado de las Visitas 
 
 VI. Las demás que establezcan otras disposiciones jurídicas en la materia.
 
-Apoyo de la Procuraduría General de Justicia
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Apoyo de la Fiscalía General del Estado de Guanajuato
 
 ###### Artículo 16.
 
-La Procuraduría General, de Justicia del Estado auxiliará, en el ámbito de su competencia, a las autoridades en el cumplimiento de sus atribuciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-Atribuciones de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes
+La Fiscalía General del Estado de Guanajuato auxiliará, en el ámbito de su competencia, a las autoridades en el cumplimiento de sus atribuciones.
 
 ###### Artículo 16 Bis.
 
-La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes tiene las siguientes atribuciones:
-
-I. Coadyuvar con el Sistema Estatal para el Desarrollo Integral de la Familia en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, así como para emitir los certificados de idoneidad;
-
-II. Proporcionar información para integrar y sistematizar el Registro Nacional de Centros de Asistencia Social;
-
-III. Supervisar en coordinación con la Procuraduría Federal de Protección de Niñas, Niñas (sic) y Adolescentes, el debido funcionamiento de los Centros de Asistencia Social y, en su caso, ejercer las acciones legales que correspondan por el incumplimiento de los requisitos que establece la presente Ley y demás disposiciones aplicables; y
-
-IV. Reportar semestralmente a la Procuraduría Federal de Protección de Niñas. Niños y Adolescentes, la actualización de sus registros, así como los resultados de las visitas de supervisión efectuadas como coadyuvantes.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
 Atribuciones del DIF Estatal
 
@@ -337,7 +319,9 @@ El DIF Estatal tiene las siguientes atribuciones:
 
 I. Vigilar la observancia de las normas oficiales mexicanas en materia de asistencia social y, en su caso, generar las recomendaciones para su cumplimiento;
 
-II. Promover e impulsar el sano crecimiento físico, mental y social de los residentes en las Organizaciones de Asistencia Social;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+II. Promover e impulsar el desarrollo integral de los residentes en las Organizaciones de Asistencia Social;
 
 III. Hacer del conocimiento de la autoridad competente las irregularidades que, en el ejercicio de sus atribuciones, detecte en el funcionamiento de las Organizaciones de Asistencia Social;
 
@@ -365,11 +349,15 @@ IV. Informar al Consejo Estatal de Asistencia Social el resultado de las Visitas
 
 V. Las demás que establezcan otras disposiciones jurídicas en la materia.
 
-Atribuciones de la Procuraduría Social
+> <small>(REFORMADO SU ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Atribuciones de la Dirección de Fortalecimiento Comunitario
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 19.
 
-La Procuraduría Social tiene las siguientes atribuciones:
+La Dirección de Fortalecimiento Comunitario del DIF Estatal tiene las siguientes atribuciones:
 
 I. Realizar las Visitas de Verificación que en el ámbito de su competencia le correspondan;
 
@@ -389,7 +377,9 @@ VIII. Ejecutar, hacer cumplir y notificar las sanciones, recomendaciones, observ
 
 IX. Las demás que establezcan otras disposiciones jurídicas en la materia.
 
-Para el cumplimiento de las atribuciones que en este artículo se establecen, la Procuraduría Social se podrá auxiliar de las Procuradurías de los DIF Municipal.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Para el cumplimiento de las atribuciones que en este artículo se establecen, la Dirección de Fortalecimiento Comunitario se podrá auxiliar de los DIF Municipal (sic).
 
 Atribuciones del Consejo
 
@@ -397,11 +387,9 @@ Atribuciones del Consejo
 
 El Consejo Estatal de Asistencia Social tiene las siguientes atribuciones:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-I. Supervisar el cumplimiento de los objetivos, metas, estrategias, acciones y normas en materia de protección civil, salud, educación y desarrollo humano, en las Organizaciones de Asistencia Social; así como dar cumplimiento a las obligaciones que respecto de los Centros de Asistencia Social señalan la Ley General de los Derechos de Niñas, Niños y Adolescentes, y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+I. Supervisar el cumplimiento de los objetivos, metas, estrategias, acciones y normas en materia de protección civil, salud, educación y desarrollo humano, en las Organizaciones de Asistencia Social;
 
 II. Promover políticas públicas, proyectos y acciones en materia de protección y defensa de los derechos humanos y libertades fundamentales de los residentes en las Organizaciones de Asistencia Social;
 
@@ -451,13 +439,11 @@ Las Organizaciones de Asistencia Social, sus titulares o representantes legales,
 
 Obligaciones de las Organizaciones de Asistencia Social
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 24.
 
-Las Organizaciones de Asistencia Social y los Centros de Asistencia Social, son responsables de garantizar la integridad física y psicológica de las personas que requieran de asistencia social, y de niñas, niños y adolescentes que tengan bajo su custodia, respectivamente, y tendrán las siguientes obligaciones:
+Las Organizaciones de Asistencia Social, son responsables de garantizar la integridad física y psicológica de las personas que requieran de asistencia social y tendrán las siguientes obligaciones:
 
 I. Estar inscritas en el Padrón de Organizaciones de Asistencia Social;
 
@@ -481,43 +467,17 @@ X. Contar con asesoría profesional en materia jurídica, psicológica y de trab
 
 XI. Proporcionar a los residentes educación, atención médica, psicológica, jurídica y social adecuada a su condición de custodia; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-XII. En el caso de los Centros de Asistencia Social, estarán orientados a brindar, en cumplimiento a sus derechos:
-
-a) Un entorno seguro, afectivo y libre de violencia;
-
-b) Cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica;
-
-c) Alimentación que les permita tener una nutrición equilibrada y que cuente con la periódica certificación de la autoridad sanitaria;
-
-d) Atención integral y multidisciplinaria que le brinde servicio médico integral, atención de primeros auxilios, seguimiento psicológico, social, jurídico, y cualquier otro necesario para su bienestar, protección y desarrollo integral;
-
-e) Orientación y educación apropiada a su edad, encaminadas a lograr un desarrollo físico, cognitivo, afectivo y social hasta el máximo de sus posibilidades, así como a la comprensión y el ejercicio de sus derechos;
-
-f) Disfrutar en su vida cotidiana, del descanso, recreación, juego, esparcimiento y actividades que favorezcan su desarrollo integral; y
-
-g) Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez; y
+XII. (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
 XIII. Las demás que establezcan otras disposiciones jurídicas en la materia.
 
-Requisitos para las Organizaciones que tramitan adopciones
-
 ###### Artículo 25.
 
-Las Organizaciones de Asistencia Social que tengan dentro de su objeto llevar a cabo o colaborar en la integración de expedientes técnicos para que se emita el certificado de idoneidad para la de adopción de menores e incapaces bajo su resguardo, deberán satisfacer además de los requisitos señalados en la presente Ley, las contempladas (sic) en el artículo 451 del Código Civil para el Estado de Guanajuato.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-Expediente de niñas, niños y adolescentes
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
 ###### Artículo 25 Bis.
 
-La niña, niño o adolescente deberá contar con expediente completo para efectos de que su situación sea revisada y valorada de manera particular, así como para determinar procedimientos de ingreso y egreso con el apoyo de las autoridades competentes que faciliten su reincorporación familiar o social.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
 Responsabilidad de los Directores
 
@@ -533,19 +493,27 @@ El Reglamento Interno de las Organizaciones de Asistencia Social, deberá conten
 
 I. Los requisitos de admisión de los residentes;
 
-II. Las obligaciones para los padres, tutores o personas que tengan a su cargo a los residentes, de ser el caso;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-III. El horario de actividades educativas, recreativas, de alimento, de aseo, de terapia, de salidas, de servicios médicos, de visita y convivencia de los residentes con sus padres, tutores, familiares y personas que los tengan a su cargo;
+II. Las obligaciones para los tutores o personas que tengan a su cargo a los residentes, de ser el caso;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+III. El horario de actividades educativas, recreativas, de alimento, de aseo, de terapia, de salidas, de servicios médicos, de visita y convivencia de los residentes con sus tutores, familiares y personas que los tengan a su cargo;
 
 IV. Los casos y las condiciones bajo las cuales se podrán permitir salidas temporales a los residentes;
 
-V. Las medidas de disciplina para los menores, que estarán basadas en estímulos de respuesta. Las correcciones disciplinarias nunca consistirán en maltrato físico o psicológico, atendiendo siempre a los principios consagrados en la Convención sobre los Derechos del Niño y demás disposiciones que resulten aplicables; y
+V. (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
 VI. Las medidas de disciplina para el personal operativo.
 
-Las Organizaciones de Asistencia Social deberán pedir autorización a la Procuraduría Social, para realizar convivencias con los residentes fuera del domicilio de la institución, debiendo acompañar a la solicitud el nombre, domicilio, antecedentes y el resultado de las valoraciones psicológica y socioeconómica, así como otros datos que permitan identificar a los terceros que pretendan realizar la convivencia.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-Las Organizaciones de Asistencia Social deberán obtener de los terceros interesados, el consentimiento por escrito a efecto de que puedan ser supervisadas las convivencias por parte de la misma organización, así como por la Procuraduría Social.
+Las Organizaciones de Asistencia Social deberán pedir autorización a la Dirección de Fortalecimiento Comunitario del DIF Estatal para realizar convivencias con los residentes fuera del domicilio de la institución, debiendo acompañar a la solicitud el nombre, domicilio, antecedentes y el resultado de las valoraciones psicológica y socioeconómica, así como otros datos que permitan identificar a los terceros que pretendan realizar la convivencia.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Las Organizaciones de Asistencia Social deberán obtener de los terceros interesados, el consentimiento por escrito a efecto de que puedan ser supervisadas las convivencias por parte de la misma organización, así como por la Dirección de Fortalecimiento Comunitario del DIF Estatal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -553,79 +521,21 @@ Las Organizaciones de Asistencia Social deberán obtener de los terceros interes
 
 #### Sección Única. Centros de Asistencia Social
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-Personal de los centros de asistencia social
-
 ###### Artículo 27 Bis.
 
-Los centros de asistencia Social contarán, con independencia de lo que establezcan otros ordenamientos jurídicos, con por lo menos, el siguiente personal:
-
-I. Responsable de la coordinación o dirección;
-
-II. Especializado en proporcionar atención en actividades de estimulación, formación, promoción y autocuidado de la salud; atención médica y actividades de orientación social y de promoción de la cultura de protección civil, conforme a las disposiciones aplicables; y
-
-III. El número de personas que presten sus servicios en cada centro de asistencia social será determinado en función de la capacidad económica de éstos, así como del número de niñas, niños y adolescentes que tengan bajo su custodia en forma directa e indirecta, debiendo contar con, por lo menos, una persona de atención por cada cuatro niñas o niños menores de un año, y una persona de atención por cada ocho mayores de esa edad.
-
-Además del personal señalado en el presente artículo, el Centro de Asistencia Social podrá solicitar la colaboración de instituciones, organizaciones o dependencias que brinden apoyo en psicología, trabajo social, derecho, pedagogía, y otros para el cuidado integral de las niñas, niños y adolescentes;
-
-El personal de los centros de asistencia social deberá recibir de manera permanente capacitación y formación especializada para el mejor desempeño de sus funciones. Asimismo, los encargados de los centros deberán supervisar y evaluar de manera periódica a su personal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-Obligaciones de los titulares o responsables de los centros de asistencia social
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
 ###### Artículo 27 Ter.
 
-Son obligaciones de los titulares o responsables legales de los centros de asistencia social:
-
-I. Garantizar el cumplimiento de los requisitos establecidos por esta Ley y demás disposiciones aplicables para formar parte del Registro Nacional de Centros de Asistencia Social del Sistema Nacional DIF;
-
-II. Llevar un registro de niñas, niños y adolescentes bajo su custodia con la información de la situación jurídica en la que se encuentren, y remitirlo semestralmente a la Procuraduría Estatal de Protección;
-
-III. Asegurar que las instalaciones tengan en lugar visible, la constancia de registro de incorporación al Registro Nacional de Centros de Asistencia Social;
-
-IV. Garantizar que el Centro de Asistencia Social cuente con un Reglamento Interno, aprobado por el Sistema Nacional DIF;
-
-V. Contar con un programa interno de protección civil en términos de las disposiciones aplicables;
-
-VI. Brindar las facilidades a la Procuraduría Estatal de Protección para que realice la verificación periódica que corresponda en términos de las disposiciones aplicables; y, en su caso, atender sus recomendaciones;
-
-Esta verificación deberá observar el seguimiento de la situación jurídica y social, así como la atención médica y psicológica de la niña, niño o adolescente y el proceso de reincorporación familiar o social;
-
-VII. Informar oportunamente a la autoridad competente, cuando el ingreso de una niña, niño o adolescente corresponda a una situación distinta de la derivación por parte de una autoridad o tenga conocimiento de que peligra su integridad física estando bajo su custodia, a fin de iniciar los procedimientos de protección especial de forma oportuna, identificar la mejor solución para el niño, niña o adolescente y, en su caso, evitar su permanencia en el Centro de Asistencia Social, dado su carácter de último recurso y excepcional;
-
-VIII. Proporcionar a niñas, niños y adolescentes bajo su custodia, a través del personal capacitado, atención médica;
-
-IX. Dar puntual seguimiento a las recomendaciones emitidas por las autoridades competentes; y
-
-X. Las demás obligaciones establecidas en la presente Ley y demás disposiciones aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-Coordinación entre Procuradurías de Protección
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
 ###### Artículo 27 Quater.
 
-La Procuraduría Estatal de Protección en coordinación con la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, es la autoridad competente para autorizar, registrar, certificar y supervisar los centros de asistencia a los que se refiere esta Ley, para lo cual conformarán el Registro Nacional de Centros de Asistencia Social, en términos de lo que dispone la Ley General de los Derechos de Niñas, Niños y Adolescente (sic), y demás ordenamientos jurídicos aplicables.
-
-La Procuraduría Estatal hará público y consultable en la página de internet del Sistema el padrón de los centros de asistencia social a los que se refiere esta Ley, correspondientes al Estado de Guanajuato.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-Ejercicio de acciones legales por parte de la Procuraduría Estatal de Protección
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
 ###### Artículo 27 Quinquies.
 
-Sin perjuicio de las atribuciones que las disposiciones aplicables establezcan a otras autoridades, corresponderá a la Procuraduría Estatal de Protección, ejercerlas (sic) acciones legales que correspondan por el incumplimiento de los requisitos que establece la presente Ley y demás disposiciones aplicables.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
 ### Capítulo II. Características de los espacios de las Organizaciones de Asistencia Social
 
@@ -635,11 +545,9 @@ Servicios indispensables para prestar el servicio
 
 Los inmuebles donde las Organizaciones de Asistencia Social realicen sus actividades, deberán contar con los servicios indispensables para proporcionar a los residentes la comodidad e higiene necesarios conforme a su edad y sexo, y que cumplan con las medidas de seguridad, protección y vigilancia establecidas en la presente Ley, así como en las normas oficiales mexicanas y otras disposiciones jurídicas aplicables.
 
-Áreas específicas
-
 ###### Artículo 29.
 
-Las Organizaciones de Asistencia Social deberán contar con áreas específicas para niñas, niños, adolescentes e incapaces; los albergues mixtos deberán contar con dormitorios separados para cada sexo y etapas de crecimiento.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
 Requerimientos de los espacios físicos
 
@@ -683,9 +591,11 @@ XVI. Señalización para ruta de evacuación.
 
 Cantidad de personal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 31.
 
-El número de personas que presten sus servicios en cada Organización de Asistencia Social será determinado en función del número de residentes y por la capacidad económica de cada institución. El Consejo Estatal de Asistencia Social llevará a cabo, por conducto de la Procuraduría Social, la revisión de las Instituciones y realizará las observaciones que estimen necesarias.
+El número de personas que presten sus servicios en cada Organización de Asistencia Social será determinado en función del número de residentes y por la capacidad económica de cada institución. El Consejo Estatal de Asistencia Social llevará a cabo, por conducto de la Dirección de Fortalecimiento Comunitario, la revisión de las instituciones y realizará las observaciones que estime necesarias.
 
 Recomendaciones a los perfiles.
 
@@ -703,9 +613,11 @@ Las Organizaciones de Asistencia Social deberán contar con el número de reside
 
 Diversidad de los residentes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 34.
 
-Una misma Organización de Asistencia Social podrá admitir residentes menores, personas con discapacidad y adultas mayores, de diferente sexo y edad, siempre y cuando cuente con áreas divididas para la atención de cada uno de ellos.
+Una misma Organización de Asistencia Social podrá admitir personas con discapacidad y adultas mayores, de diferente sexo y edad, siempre y cuando cuente con áreas divididas para la atención de cada uno de ellos.
 
 Atención médica
 
@@ -717,9 +629,11 @@ En el caso de presentarse alguna enfermedad contagiosa en alguno de los resident
 
 Obligación respecto a los expósitos o abandonados
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 36.
 
-De conformidad a lo establecido en el Código Civil para el Estado de Guanajuato, los directores de los Organizaciones de Asistencia Social deberán dar aviso de inmediato a la Procuraduría Social cuando tengan conocimiento sobre los menores que dejen en condición de expósitos o abandonados en la institución.
+De conformidad con lo establecido en el Código Civil para el Estado de Guanajuato, los directores de las Organizaciones de Asistencia Social deberán dar aviso de inmediato a la Procuraduría Estatal sobre los menores que dejen en condición de expósitos o abandonados en las Organizaciones.
 
 ### Capítulo V. Requisitos para la expedición del Certificado de Registro y Funcionamiento
 
@@ -745,9 +659,13 @@ b) Acta constitutiva como asociación civil y su registro ante la Secretaría de
 
 c) Identificación oficial de los representantes y directivos de la Organización de Asistencia Social; y
 
-d) Carta de antecedentes penales expedida por la Procuraduría General de Justicia del Estado de los directivos y representante de las Organizaciones de Asistencia Social;
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-III. Disponer de un inmueble adecuado y funcional que sea de uso exclusivo para el objeto de asistencia social de lo organización; lo cual se acreditará, lo primero, a través de la escritura pública correspondiente o contrato que garantice el uso del mismo y, lo segundo, con el dictamen que emita la Procuraduría Social sobre su idoneidad, en los términos (sic) los artículos 28 a 30 de esta Ley;
+d) Carta de antecedentes penales expedida por la Fiscalía General del Estado de Guanajuato de los directivos y representante de las Organizaciones de Asistencia Social;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+III. Disponer de un inmueble adecuado y funcional que sea de uso exclusivo para el objeto de asistencia social de la organización; lo cual se acreditará, lo primero, a través de la escritura pública correspondiente o contrato que garantice el uso del mismo y, lo segundo, con el dictamen que emita la Dirección de Fortalecimiento Comunitario del DIF Estatal sobre su idoneidad, en los términos (sic) los artículos 28 y 30 de esta Ley;
 
 IV. Contar con personal que cumpla con el perfil establecido por el Consejo Estatal de Asistencia Social, lo que se acreditará con títulos profesionales o constancias, según corresponda, que evidencien tener los conocimientos para el desempeño de su encargo;
 
@@ -763,9 +681,11 @@ Cuando alguno de los representantes o directivos tuvieran antecedentes penales p
 
 Revisión de los requisitos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 38.
 
-La solicitud y documentación correspondiente deberán ser entregadas a la Procuraduría Social, quien revisará el cumplimiento de los requisitos señalados y hará los requerimientos pertinentes; una vez satisfechos éstos, propondrá el dictamen correspondiente al Consejo Estatal de Asistencia Social para la aprobación y, en su caso, expedición del Certificado de Registro y Funcionamiento.
+La solicitud y documentación correspondiente deberán ser entregadas a la Dirección de Fortalecimiento Comunitario del DIF Estatal, quien revisará el cumplimiento de los requisitos señalados y hará los requerimientos pertinentes; una vez satisfechos éstos, propondrá el dictamen correspondiente al Consejo Estatal de Asistencia Social para la aprobación y, en su caso, expedición del Certificado de Registro y Funcionamiento.
 
 Vigencia de los certificados
 
@@ -803,11 +723,13 @@ Las autoridades, por conducto del personal autorizado o previsto por ley, quiene
 
 Dichas Visitas se sujetarán a los principios de unidad, funcionalidad, honestidad, coordinación, profesionalización, simplificación, agilidad, precisión, legalidad, transparencia e imparcialidad.
 
-Periodicidad de las Visitas de la Procuraduría Social
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Periodicidad de las Visitas
 
 ###### Artículo 44.
 
-La Procuraduría Social deberá realizar Visitas de Verificación a las Organizaciones de Asistencia Social por lo menos una vez cada semestre.
+La Dirección de Fortalecimiento Comunitario del DIF Estatal deberá realizar Visitas de Verificación a las Organizaciones de Asistencia Social por lo menos una vez cada semestre.
 
 Visitas de la Secretaría de Salud
 
@@ -865,31 +787,41 @@ Denuncia penal
 
 Cuando de la Visita de Verificación se desprenda la posible comisión de uno o varios delitos, el visitador formulará inmediatamente la denuncia de hechos ante la autoridad que corresponda.
 
-#### Sección Segunda. Visita de Verificación de la Procuraduría Social
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
+
+#### Sección Segunda. Visita de Verificación
 
 Auxilio de la fuerza pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 53.
 
-En caso de estar cerrada la Organización de Asistencia Social, negarse el acceso o no atender al llamado del visitador de la Procuraduría Social, éste con el auxilio de la fuerza pública, podrá romper cerraduras y dispondrá las acciones para la salvaguarda de los residentes.
+En caso de estar cerrada la Organización de Asistencia Social, negarse el acceso o no atender al llamado del visitador de la Dirección de Fortalecimiento Comunitario del DIF Estatal, éste con el auxilio de la fuerza pública, podrá romper cerraduras y dispondrá las acciones para la salvaguarda de los residentes.
 
 Obligaciones para coadyuvar con la Visita
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 54.
 
-El Director de la Organización de Asistencia Social o, en su caso, la persona con la que se entienda la Visita de Verificación, deberá proporcionar al visitador de la Procuraduría Social y mantener o su disposición, desde su inicio y hasta la terminación de ésta, el acceso a todas las áreas de la Organización, así como a la totalidad de los documentos, personas residentes y personal que labore dentro de la misma, los soportes electrónicos y demás objetos sobre los que deba practicarse la Visita de Verificación, así como a proporcionar toda clase de información que le sea requerida y conduzca a la verificación del cumplimiento de la presente Ley y demás disposiciones en la materia.
+El Director de la Organización de Asistencia Social o, en su caso, la persona con la que se entienda la Visita de Verificación, deberá proporcionar al visitador de la Dirección de Fortalecimiento Comunitario del DIF Estatal y mantener a su disposición, desde su inicio y hasta la terminación de ésta, el acceso a todas las áreas de la Organización, y a la totalidad de los documentos, personas residentes y personal que labore dentro de la misma, los soportes electrónicos y demás objetos sobre los que deba practicarse la Visita de Verificación, así como toda clase de información que le sea requerida y conduzca a la verificación del cumplimiento de la presente Ley y demás disposiciones en la materia.
 
 Acceso a copias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 55.
 
-El visitador de la Procuraduría Social podrá obtener copia de la documentación que tenga a la vista.
+El visitador de la Dirección de Fortalecimiento Comunitario del DIF Estatal podrá obtener copia de la documentación que tenga a la vista.
 
 Contenido del Acta
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 56.
 
-En toda Visita de Verificación, el visitador de la Procuraduría Social levantará un acta circunstanciada por duplicado, en la que se asentarán los hechos u omisiones que se hubiesen presentado durante la diligencia, haciéndose constar:
+En toda Visita de Verificación, el visitador de la Dirección de Fortalecimiento Comunitario del DIF Estatal levantará un acta circunstanciada por duplicado, en la que se asentarán los hechos u omisiones que se hubiesen presentado durante la diligencia, haciéndose constar:
 
 I. Nombre, denominación o razón social de la Organización de Asistencia Social;
 
@@ -919,9 +851,11 @@ Concluida la Visita de Verificación se entregará por el visitador un tanto ori
 
 Confidencialidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 58.
 
-El visitador de la Procuraduría Social y demás servidores públicos que conozcan del contenido de las actas, están obligados a guardar total confidencialidad respecto de los actos descritos y documentos inspeccionados.
+El visitador de la Dirección de Fortalecimiento Comunitario del DIF Estatal y demás servidores públicos que conozcan del contenido de las actas, están obligados a guardar total confidencialidad respecto de los actos descritos y documentos inspeccionados.
 
 ## Título Quinto. Procedimiento de responsabilidad y sanciones a las Organizaciones de Asistencia Social
 
@@ -929,9 +863,11 @@ El visitador de la Procuraduría Social y demás servidores públicos que conozc
 
 Inicio del procedimiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 59.
 
-Cuando del acta de la Visita de Verificación o por cualquier otro medio, la Procuraduría Social tenga conocimiento que presuntamente la Organización de Asistencia Social ha incurrido en alguna causa de suspensión o revocación del Certificado de Registro y Funcionamiento, el titular acordará el inicio e instruirá el procedimiento para imponer sanciones.
+Cuando del acta de la Visita de Verificación o por cualquier otro medio, la Dirección de Fortalecimiento Comunitario del DIF Estatal tenga conocimiento de que presuntamente la Organización de Asistencia Social ha incurrido en alguna causa de suspensión o revocación del Certificado de Registro y Funcionamiento, el titular de la Dirección acordará el inicio e instruirá el procedimiento para imponer sanciones.
 
 Procedimiento
 
@@ -939,15 +875,21 @@ Procedimiento
 
 El procedimiento para imponer sanciones por responsabilidad a las Organizaciones de Asistencia Social conforme a esta Ley, se sujetará a lo siguiente:
 
-I. El personal de la Procuraduría Social notificará a la Organización de Asistencia Social el inicio del procedimiento, por conducto de su representante registrado, y se le requerirá para que dentro del término de cinco días hábiles, contados a partir del día siguiente al de la notificación, rinda un informe justificado, al que agregará todas las constancias y ofrecerá las pruebas que estime convenientes para justificar los hechos y expresará lo que a su interés convenga;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+I. El personal de la Dirección de Fortalecimiento Comunitario del DIF Estatal notificará a la Organización de Asistencia Social el inicio del procedimiento, por conducto de su representante registrado, y se le requerirá para que dentro del término de cinco días hábiles, contados a partir del día siguiente al de la notificación, rinda un informe justificado, al que agregará todas las constancias y ofrecerá las pruebas que estime convenientes para justificar los hechos y expresará lo que a su interés convenga;
 
 II. Vencido el término a que se refiere la fracción I de este artículo, se abrirá el periodo probatorio por el término de quince días hábiles, a efecto de resolver sobre la admisión y, en su caso, desahogar las pruebas que hubiesen sido aportadas por la Organización de Asistencia Social y las que obren en el expediente derivadas de la Visita de Verificación.
 
 Serán admitidas todas las pruebas a que se refiere el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato, a excepción de la confesional;
 
-III. Cerrado el periodo probatorio a que se refiere la fracción II de este artículo, el titular de (sic) Procuraduría Social, citará una audiencia de alegatos, la que deberá celebrarse después de cinco y antes de diez días hábiles siguientes al de la citación; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-IV. Transcurrida la audiencia a que se refiere la fracción III de este artículo, el titular de (sic) Procuraduría Social elaborará el proyecto de resolución correspondiente dentro de los diez días hábiles siguientes, que someterá a la consideración del Consejo Estatal de Asistencia Social y cuya determinación será firmada por su Presidente y Secretario Técnico.
+III. Cerrado el periodo probatorio a que se refiere la fracción II de este artículo, el titular de la Dirección de Fortalecimiento Comunitario del DIF Estatal, citará a una audiencia de alegatos, la que deberá celebrarse después de cinco y antes de diez días hábiles siguientes al de la citación; y
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+IV. Transcurrida la audiencia a que se refiere la fracción III de este artículo, la persona titular de la Dirección de Fortalecimiento Comunitario del DIF Estatal elaborará el proyecto de resolución correspondiente dentro de los diez días hábiles siguientes, que someterá a la consideración del Consejo Estatal de Asistencia Social y cuya determinación será firmada por su Presidente y la Secretaría Técnica.
 
 Supletoriedad
 
@@ -969,7 +911,9 @@ I. Cuando el Director o la persona responsable de la Organización de Asistencia
 
 II. Por la negativa para permitir se realice alguna Visita de Verificación;
 
-III. Por no acatar de manera consecutiva las recomendaciones que le haga la Procuraduría Social, la Secretaría de Salud, Protección Civil o las autoridades correspondientes, en sus respectivos ámbitos de competencia;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+III. Por no acatar por dos veces consecutivas las recomendaciones que le haga la Dirección de Fortalecimiento Comunitario del DIF Estatal, la Secretaría de Salud, Protección Civil o las autoridades correspondientes, en sus respectivos ámbitos de competencia;
 
 IV. Cuando exista mal manejo o manipulación, alteración o falsificación de los registros de estancia de los residentes;
 
@@ -989,7 +933,9 @@ Son causas de revocación del Certificado de Registro y Funcionamiento expedido,
 
 I. No subsanar las causales previstas en el artículo 62 de esta Ley, en un plazo de treinta días naturales;
 
-II. Suspender sin causa justificada las actividades por un lapso mayor de treinta días naturales y sin dar aviso por escrito a la Procuraduría Social y al Consejo Estatal de Asistencia Social;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+II. Suspender sin causa justificada las actividades por un lapso mayor de treinta días naturales y sin dar aviso por escrito a la Dirección de Fortalecimiento Comunitario del DIF Estatal y al Consejo Estatal de Asistencia Social;
 
 III. Poner en peligro la seguridad o la salud de los residentes de modo irreparable;
 
@@ -999,13 +945,9 @@ V. Cuando las autoridades competentes determinen que algún directivo, asociado,
 
 #### Sección Tercera. Disposiciones complementarias
 
-Causal de separación de personal
-
 ###### Artículo 64.
 
-En el supuesto de que la persona responsable de la atención a menores se encuentre sujeta a auto de formal prisión o a auto de vinculación a proceso por delito doloso imputado respecto a delitos que puedan afectar la integridad de los menores, el Consejo Estatal de Asistencia Social podrá ordenar al Director, la separación inmediata de dicha persona de la atención a éstos.
-
-Tratándose del Director, procederá la suspensión por el Consejo Estatal de Asistencia Social de los servicios que presta la Organización de Asistencia Social.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
 Reubicación de los residentes en caso de suspensión o revocación
 
@@ -1043,7 +985,9 @@ II. Motivo y fecha de ingreso;
 
 III. Nombre y domicilio de la persona que en su caso realizó la entrega del residente a la Organización de Asistencia Social;
 
-IV. Nombre y domicilio de las personas que ejerzan en su caso la guarda, tutela o patria potestad, sobre el residente;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+IV. Nombre y domicilio de las personas que ejerzan en su caso la guarda o tutela sobre el residente;
 
 V. Grado escolar y nombre de la institución donde lo cursa;
 
@@ -1065,9 +1009,11 @@ Las Organizaciones de Asistencia Social llevarán un Padrón de Residentes que d
 
 Confidencialidad de datos personales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 70.
 
-Los datos referentes al nombre, fotografías y filiación de los menores e incapaces resguardados en una Organización de Asistencia Social, no podrán ser públicos.
+Los datos personales de las personas residentes de una Organización de Asistencia Social tienen el carácter de confidenciales por lo que no podrán ser públicos.
 
 T R A N S I T O R I O S
 
@@ -1156,3 +1102,49 @@ Artículo Octavo. Las organizaciones de asistencia social que realicen cualquier
 Designación de representantes de la sociedad civil ante el Sistema
 
 Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 91.
+
+P.O. 1 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 90, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE DIVERSAS LEYES, PARA EL FORTALECIMIENTO DE LAS INSTITUCIONES ESPECIALIZADAS EN LA PROTECCIÓN Y RESTITUCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Adecuación orgánica de estructuras para la conformación de la Procuraduría
+
+Artículo Segundo. El Ejecutivo del Estado en un plazo no mayor a ciento ochenta días a partir de la entrada en vigencia del presente Decreto, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, como organismo público descentralizado, conforme a la estructura de la Procuraduría de Protección adscrita a la estructura orgánica del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato.
+
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la unidad administrativa del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, identificada como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, estarán a cargo del organismo público descentralizado de la administración pública estatal denominado como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Adecuaciones a reglamentos y decretos
+
+Artículo Tercero. El Ejecutivo del Estado en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigencia de este decreto deberá realizar las modificaciones a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de su vigencia.
+
+Instalación del Consejo Directivo de la Procuraduría Estatal de Protección
+
+Artículo Cuarto. El Consejo Directivo del organismo público descentralizado de la Administración Pública Estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato que se constituye mediante el presente Decreto, deberá instalarse dentro de los noventa días siguientes a que esté constituida ésta.
+
+Designación del titular de la Procuraduría Estatal de Protección
+
+Artículo Quinto. El Gobernador del Estado designará al titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, dentro de los treinta días siguientes a la conformación de ésta, en los términos del Artículo Segundo Transitorio.
+
+Instalación del Consejo Consultivo del Sistema para la Atención de las Familias Guanajuatenses
+
+Artículo Sexto. La integración e instalación del Consejo Consultivo del organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, deberá efectuarse dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, en los términos de lo dispuesto en el artículo 23 de la Ley sobre el Sistema Estatal de Asistencia Social que se reforma mediante el presente Decreto.
+
+Asignación de recursos a la Procuraduría Estatal de Protección
+
+Artículo Séptimo. La Secretaría de Finanzas y Administración definirá y aplicará los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Los recursos presupuestales de la unidad administrativa del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato se reasignarán al organismo público descentralizado de la administración pública estatal denominada como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Asuntos en trámite
+
+Artículo Octavo. Los asuntos y la documentación vigente o en trámite ante los Centros Multidisciplinarios para la Atención Integral de la Violencia previstos en la Ley para Prevenir, Atender y Erradicar la Violencia en el Estado de Guanajuato, se turnarán según corresponda a su competencia, a los institutos municipales para las mujeres, a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, por conducto de las procuradurías auxiliares, o al (sic) Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, según corresponda a la naturaleza y estado en que se encuentren los asuntos relativos, para su seguimiento y conclusión.
+
+Procesos de entrega recepción
+
+Artículo Noveno. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato transferirá al organismo público descentralizado de la administración pública estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y a la Secretaría de Gobierno, respectivamente y desde el ámbito de las competencias que les correspondan conforme al presente Decreto, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato haya venido destinando para la atención de las funciones que desempeñaba la unidad administrativa de dicho organismo denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y de la unidad administrativa de dicho organismo denominada Secretaría Ejecutiva del Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato hasta antes de la entrada en vigencia del presente Decreto, a través de la entrega-recepción respectiva.
+
+El Comité Interno de entrega-recepción, para cada unidad administrativa, deberá quedar conformado dentro de los cuarenta y cinco días siguientes a la entrada en vigencia del presente Decreto, en el que participarán las unidades administrativas competentes del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, el órgano interno de control de éste, la unidad administrativa (sic) Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Secretaría de Gobierno y su órgano interno de control, la Secretaría de Finanzas, Inversión y Administración y de la Secretaría de la Transparencia y Rendición de Cuentas.
