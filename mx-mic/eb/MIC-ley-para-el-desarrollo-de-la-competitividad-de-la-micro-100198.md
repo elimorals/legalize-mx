@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-el-desarrollo-de-la-competitividad-de-la-micro-100198"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-27"
-last_updated: "2016-01-21"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,23 +21,23 @@ state: "MIC"
 ---
 # LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE MICHOACAN
 
-LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE MICHOACÁN
+LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2016.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
-(REPUBLICADO EL DECRETO NÚMERO 99, P.O. 21 DE ENERO DE 2016)
+Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 3 de octubre de 2007.
 
-Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 27 de marzo de 2014.
+Juan Sabines Guerrero, Gobernador del Estado de Chiapas, a sus habitantes hace saber: Que la Honorable Sexagésima Segunda Legislatura del mismo, se ha servido dirigir al Ejecutivo a su cargo el siguiente:
 
-FAUSTO VALLEJO FIGUEROA, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
+Decreto Número 293
 
-El H. Congreso del Estado, se ha servido dirigirme el siguiente:
+La Sexagésima Segunda Legislatura Constitucional del Honorable Congreso del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política local; y,
 
-DECRETO
+Considerando.
 
-EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA:
+Por las consideraciones expuestas, el Honorable Congreso del Estado de Chiapas, ha tenido a bien emitir el siguiente Decreto de:
 
-NÚMERO 291
+"Ley que Regula las Casas de Empeño en el Estado de Chiapas"
 
 ###### ARTÍCULO ÚNICO.
 
@@ -45,197 +45,135 @@ Se expide la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y
 
 LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE MICHOACÁN
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### Capítulo I. Disposiciones Generales
 
-(REFORMADO, P.O. 1 DE ENERO DE 2016) (REPUBLICADO, P.O. 21 DE ENERO DE 2016)
+###### Artículo 1°.
 
-###### ARTÍCULO 1.
+La presente Ley es de orden público e interés social, de observancia general y de aplicación en el territorio del Estado de Chiapas. Tiene por objeto regular la apertura, instalación y funcionamiento de establecimientos cuya finalidad sea ofertar al público la celebración de contratos de mutuo con interés y garantía prendaria.
 
-La presente Ley es de orden público e interés social y tiene por objeto, fomentar la creación de las micro, pequeñas y medianas empresas, así como impulsar la creación de incubadoras de negocios en los centros de educación media superior y superior, que faciliten el establecimiento de empresas formales y competitivas, y brindar el apoyo para su viabilidad, productividad, competitividad y sustentabilidad, a través de una política que establezca, programas, acciones y objetivos.
+###### Artículo 2°.
 
-###### ARTÍCULO 2.
+Son sujetos de esta Ley, las personas físicas y morales que tengan como actividad ofertar al público la celebración de contratos de mutuo con interés y garantía prendaría, a través de las llamadas Casas de Empeño.
 
-La autoridad competente para la aplicación de esta Ley es el Titular del Poder Ejecutivo Estatal por medio de la Secretaría de Desarrollo Económico Estatal, quien en el ámbito de su competencia, celebrará convenios para establecer los procedimientos de coordinación en materia de apoyo a las MIPYMES, entre autoridades federales, estatales, municipales y particulares.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-###### ARTÍCULO 3.
+###### Artículo 3°.
 
-El Presupuesto de Egresos para el Estado de Michoacán de Ocampo, Estatal aprobado por el Congreso del Estado para apoyar a la Micro, Pequeña y Mediana empresa no podrá ser inferior, al presupuesto autorizado en el ejercicio fiscal anterior.
+Las personas físicas y morales que desempeñen las actividades descritas en el artículo anterior, independientemente de las obligaciones que otras leyes o reglamentos les impongan, deben obtener permiso del Ejecutivo del Estado, por conducto de la Secretaría de Hacienda para su apertura, instalación y funcionamiento.
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2016)
+Corresponde la aplicación de lo dispuesto en esta Ley, al Ejecutivo del Estado, a través de la Secretaría de Hacienda.
 
-###### ARTÍCULO 4.
+Para efectos administrativos, la Secretaría de Hacienda podrá efectuar la interpretación de este ordenamiento, siguiendo los principios del último párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Para los efectos de esta Ley, se entiende por:
+###### Artículo 4°.
 
-I. Actividades de Fomento: Acciones económicas, jurídicas, sociales, comerciales, de capacitación o tecnológicas, que contribuyen al desarrollo y competitividad de las MIPYMES, que establezca el Reglamento de esta Ley;
+Se aplicarán supletoriamente las disposiciones relativas al Código Civil y del Código de Procedimientos Civiles para el Estado de Chiapas, en lo no previsto en esta Ley.
 
-II. Agrupamientos Empresariales: MIPYMES interconectadas, proveedores especializados y de servicios, así como instituciones asociadas dentro de una región del territorio estatal;
+###### Artículo 5°.
 
-III. Cadenas Productivas: Sistemas productivos que integran conjuntos de empresas que añaden valor agregado a productos o servicios a través de las fases del proceso económico;
+Para efectos de la presente Ley, se entenderá por:
 
-IV. Capacitación: Servicio empresarial que consiste en la impartición de cursos, talleres y metodologías, con la finalidad de mejorar las capacidades y habilidades de los recursos humanos de las empresas que reciben la atención;
+I. Boleta de empeño.- Documento único que ampara la operación prendaría realizada entre la casa de empeño y el deudor prendario.
 
-V. Competitividad: La calidad del ambiente económico e institucional para el desarrollo sostenible y sustentable de las actividades privadas y el aumento de la productividad, y a nivel empresa, la capacidad para mantener y fortalecer su rentabilidad y participación de las MIPYMES en los mercados, con base en ventajas asociadas a sus productos o servicios, así como a las condiciones en que los ofrecen;
+II. Casa de Empeño.- La persona física o moral que tiene como actividad ofertar al público la celebración de contrato de mutuo con interés y garantía prendaría.
 
-VI. Consejo: El Consejo Estatal para la Competitividad de la Micro, Pequeña y Mediana Empresa;
+III. Contrato.- Contrato de adhesión que deberá registrarse ante la Procuraduría Federal del Consumidor (PROFECO).
 
-VII. Consultoría: Servicio empresarial que consiste en la transferencia de conocimientos, metodologías y aplicaciones, con la finalidad de mejorar los procesos de la empresa que recibe la atención;
+IV. Costo de almacenaje.- Porcentaje mensual nominal que se cobra sobre la base del préstamo, cuando las prendas pignoradas no son recogidas en los tres días hábiles siguientes a la liquidación del contrato.
 
-(ADICIONADA, P.O. 1 DE ENERO DE 2016) (REPUBLICADA, P.O. 21 DE ENERO DE 2016)
+V. Depósito.- Almacenaje y custodia de las prendas pignoradas.
 
-VIII. Incubadora: Centro de apoyo que brinda asesorías especializadas para evaluar una idea de negocio y lograr que se convierta en una empresa formal;
+VI. Desempeño.- Proceso mediante el cual, el pignorante, cumpliendo lo pactado en el contrato, recupera la prenda depositada en garantía mediante el pago del préstamo, los intereses devengados y lo correspondiente a los gastos de almacenaje.
 
-(REPUBLICADA, P.O. 21 DE ENERO DE 2016)
+VII. Días hábiles.- Se considerarán los establecidos en el artículo 21, del Código de la Hacienda Pública para el Estado de Chiapas.
 
-IX. Ley: La Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa del Estado de Michoacán;
+VIII. Empeño por refrendo.- Operación que se realiza con referencia a lo establecido en la fracción XXIII.
 
-(REPUBLICADA, P.O. 21 DE ENERO DE 2016)
+IX. Gastos de almacenaje.- Porcentaje mensual nominal que se cobra sobre la base del avalúo determinado en la boleta de empeño.
 
-X. Mediana empresa: La unidad económica que cuenta para el desarrollo de su actividad de 31 a 100 empleados en el caso de actividad comercial, de 51 a 100 empleados en el caso de servicios y de 51 a 250 empleados en el caso de la industria;
+X. Gastos de operación.- Porcentaje único que se carga sobre el precio de venta de las prendas de cumplido.
 
-(REPUBLICADA, P.O. 21 DE ENERO DE 2016)
+XI. Interés mensual.- Tasa de interés calculada por meses completos independientemente de la fecha en que se realice la pignoración o refrendo.
 
-XI. Micro empresa: La unidad económica que para el desarrollo de su actividad cuenta hasta con 10 empleados en el caso de actividad comercial, de servicios e industria;
+XII. Interés prendario.- Porcentaje mensual nominal que se cobra sobre la base del préstamo determinado en el boleta de empeño.
 
-(REPUBLICADA, P.O. 21 DE ENERO DE 2016)
+XIII. Ley.- La Ley que Regula las Casas de Empeño en el Estado de Chiapas.
 
-XII. MIPYMES: Micro, pequeñas y medianas empresas, legalmente constituidas, con base en la estratificación establecida por la Secretaría, de común acuerdo con la Secretaría de Hacienda y Crédito Público;
+XIV. Liquidación de desempeño.- Monto de la liquidación del préstamo prendario integrado por la cantidad prestada más los intereses devengados, más gastos de almacenaje.
 
-(REPUBLICADA, P.O. 21 DE ENERO DE 2016)
+XV. Oferta.- Acto por el cual se exhiben al público en general para efectos de su enajenación, las prendas pignoradas.
 
-XIII. Organizaciones Empresariales: Las cámaras empresariales y sus confederaciones en su carácter de organismos de interés público, así como las asociaciones, instituciones y agrupamientos que representen a las MIPYMES como interlocutores ante el Estado y los municipios;
+XVI. Permisionario.- Persona física o moral que obtenga el permiso a que se refiere el artículo 3º, de la Ley.
 
-(REPUBLICADA, P.O. 21 DE ENERO DE 2016)
+XVII. Permiso.- Autorización que se expide al permisionario de conformidad con el artículo 8°, de la Ley.
 
-XIV. Pequeña empresa: La unidad económica que cuenta para el desarrollo de su actividad de 11 a 30 empleados en el caso de actividad comercial, de 11 a 50 empleados en el caso de servicios e industria;
+XVIII. Peticionario.- Persona física o moral que conforme a la Ley solicite la expedición, revalidación o modificación del permiso.
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2016)</small>
+XIX. Pignoración o Empeño.- Proceso mediante el cual, el pignorante recibe en forma inmediata una suma de dinero en efectivo a cambio de dejar en depósito y como garantía una prenda de su propiedad.
 
-XV. Programas: Esquemas para la ejecución de acciones y participación del gobierno del Estado y de los municipios;
+XX. Pignorante.- Persona que solicita un préstamo con garantía prendaría.
 
-(REPUBLICADA, P.O. 21 DE ENERO DE 2016)
+XXI. Pignorar.- Dejar en prenda un objeto como garantía de un préstamo.
 
-XVI. Sectores: Los sectores privado, social, del conocimiento y educativo;
+XXII. Prendas de cumplido.- Traslado de prendas no desempeñadas o refrendadas a las almonedas.
 
-(REPUBLICADA, P.O. 21 DE ENERO DE 2016)
+XXIII. Refrendo.- Proceso mediante el cual el pignorante, cumpliendo lo pactado en el contrato de prenda y de acuerdo a las condiciones de la boleta de empeño puede, mediante el pago de los intereses devengados y lo correspondiente al costo del almacenaje, mantener la prenda empeñada.
 
-XVII. Sector Público: Dependencias y Entidades de la Administración Pública Estatal y Municipal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-(REPUBLICADA, P.O. 21 DE ENERO DE 2016)
+XXIV. Secretaría.- La Secretaría de Hacienda.
 
-XVIII. Reglamento: El Reglamento de esta Ley; y,
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2016)</small>
+XXV. Valuador.- Persona física que posee los conocimientos necesarios, habilidades y experiencia para emitir el valor de los bienes muebles para transacciones con transferencia de dominio y/o posesión.
 
-XIX. Secretaría: La Secretaría de Desarrollo Económico.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-###### ARTÍCULO 5.
+XXVI. Venta con billete.- Preferencia otorgada al pignorante con el fin de recuperar su prenda, mediante la presentación de su boleta de empeño para la adquisición.
 
-Son objetivos de esta Ley:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-I. Establecer:
+###### Artículo 6º.
 
-a) Las bases para la planeación y ejecución de las actividades encaminadas al desarrollo de las MIPYMES en el marco de esta Ley;
+Las casas de empeño, además de los libros auxiliares que deban llevar como comerciantes, deben incluir otros en los que asentarán por orden correlativo los números de las boletas de empeño, fecha del empeño, nombre del pignorante, detalle de los objetos dados en prenda, valor de avalúo de éstos, importe del préstamo, intereses y gastos de almacenaje, la fecha de vencimiento, cancelación o refrendo del préstamo y en su caso, precio de la venta de los objetos.
 
-b) Las bases para la participación Estatal, de los Municipios y de los sectores para el desarrollo de las MIPYMES;
+Estos libros auxiliares podrán llevarse en forma digital, siempre y cuando los programas de cómputo respectivos hayan sido previamente aprobados por la Secretaría, a solicitud expresa de parte interesada.
 
-c) Los instrumentos para la evaluación y actualización de las políticas, programas, instrumentos y actividades de fomento para la productividad y competitividad de las MIPYMES, que proporcionen la información necesaria para la toma de decisiones en materia de apoyo empresarial; y,
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-d) Las bases para que la Secretaría elabore las políticas con visión de largo plazo, para elevar la productividad y competitividad Estatal de las MIPYMES.
+Asimismo, los permisionarios informarán dentro de los diez días hábiles siguientes, de la sustitución o adición de Valuadores en sus establecimientos, conforme a la normatividad aplicable.
 
-II. Promover:
-
-a) Un entorno favorable para que las MIPYMES sean competitivas en los mercados estatales, nacionales e internacionales;
-
-b) La creación de una cultura empresarial globalizada y de procedimientos, prácticas y normas que contribuyan al avance de la calidad en los procesos de producción, distribución, mercadeo y servicio al cliente de las MIPYMES;
-
-c) El acceso al financiamiento para las MIPYMES, la capitalización de las empresas, incremento de la producción, constitución de nuevas empresas y consolidación de las existentes;
-
-d) Apoyos para el desarrollo de las MIPYMES en todo el territorio estatal, basados en la participación de los Sectores;
-
-e) La compra de productos y servicios estatales competitivos de las MIPYMES por parte del Sector Público, los consumidores michoacanos, inversionistas y compradores nacionales y extranjeros, en el marco de la normativa aplicable;
-
-f) Las condiciones para la creación y consolidación de las cadenas productivas;
-
-g) Esquemas para la modernización, innovación y desarrollo tecnológico en las MIPYMES;
-
-h) La creación y desarrollo de las MIPYMES en el marco de la normativa ecológica y que éstas contribuyan al desarrollo sustentable y equilibrado de largo plazo; y,
-
-i) La cooperación y asociación de las MIPYMES, a través de sus organizaciones empresariales en el ámbito estatal, regional y municipal, así como de sectores productivos y cadenas productivas.
-
-### CAPÍTULO II. POLÍTICA PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE MICHOACÁN
+### Capítulo II. De los Permisos
 
 ###### ARTÍCULO 6.
 
 La Política para el Desarrollo de la Competitividad de las MIPYMES es el instrumento que contiene el conjunto de objetivos, acciones y programas que encausaran, darán rumbo y seguimiento a las MIPYMES estatales, con el objeto de fomentar su competitividad y desarrollo económico a través de mecanismos, programas y acciones que fortalezcan y promocionen la Vocación Regional, con base en la asignación de prioridades, que permitan detectar y aprovechar las inversiones municipales, regionales, estatales, nacionales y extranjeras.
 
-###### ARTÍCULO 7.
+###### Artículo 7°.
 
-La Política para el Desarrollo de la Competitividad de las MIPYMES debe atender los siguientes criterios:
+Las casas de empeño exhibirán en lugar visible, lista detallada de los servicios que ofrecen y costo de los mismos.
 
-I. Propiciar la participación y toma de decisiones del Estado y de los Municipios;
+###### Artículo 8°.
 
-II. Procurar esquemas de apoyo a las MIPYMES a través de la concurrencia de recursos del Estado y de los Municipios, así como de los Sectores;
+La expedición, revalidación, modificación y cancelación de los permisos a que se refiere el artículo 3°, de esta Ley, corresponde al Ejecutivo del Estado, a través de la Secretaría.
 
-III. Enfocar los esfuerzos de acuerdo con las necesidades, el potencial y las vocaciones estatales, regionales y municipales;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-IV. Objetivos a corto, mediano y largo plazo;
+El permiso expedido autoriza la apertura, instalación y funcionamiento de un establecimiento. En caso de que el interesado desee constituir sucursales u otro establecimiento similar, debe solicitar en los términos de esta Ley, un permiso adicional al otorgado.
 
-V. Propuestas de mejora y simplificación normativa en materia de desarrollo y apoyo a las MIPYMES;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-VI. Estrategias y proyectos de modernización, innovación y desarrollo tecnológico para las MIPYMES;
+Ninguna persona física o moral se dedicará al negocio de casa de empeño, sin haber obtenido previamente permiso del Ejecutivo del Estado, a través de la Secretaría.
 
-VII. Aplicar y mejorar instrumentos de apoyo a las MIPYMES considerando las tendencias internacionales;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-VIII. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES; y,
+###### Artículo 9º.
 
-IX. Promover que las dependencias y entidades de la Administración Pública Estatal realicen la planeación de sus adquisiciones de bienes, contratación de servicios y realización de obra pública para destinarlas a las MIPYMES de manera gradual.
+La expedición, revalidación o modificación de los permisos para el funcionamiento de las casas de empeño, deben pagar los derechos establecidos en la Ley correspondiente del ejercicio fiscal de que se trate.
 
-Los objetivos de la Política para el Desarrollo de la Competitividad de las MIPYMES deberán ser congruentes con el Plan Integral de Desarrollo Estatal.
+Los permisos deben revalidarse anualmente.
 
-###### ARTÍCULO 8.
-
-Para dar cumplimiento a los objetivos de esta ley, la Secretaría además de las atribuciones conferidas por la Ley Orgánica de la Administración Pública del Estado de Michoacán tendrá las siguientes:
-
-I. Diseñar, elaborar y difundir la Política para el Desarrollo de la Competitividad de las MIPYMES, en el marco de la normativa aplicable, tomando en cuenta los objetivos y criterios establecidos en la presente Ley, así como los acuerdos que tome el Consejo;
-
-II. Promover la participación de los sectores para facilitar a las MIPYMES el acceso a programas previstos en la presente Ley;
-
-III. Diseñar, fomentar y promover en coordinación con el Consejo, la creación de instrumentos y mecanismos de garantía, así como de otros esquemas que faciliten el acceso al financiamiento a las MIPYMES. Esquemas que podrán ser acordados con los organismos empresariales, el Ejecutivo Estatal y de los Municipios, así como con entidades financieras;
-
-IV. Promover ante las instancias competentes que los programas y apoyos previstos en esta Ley a favor de las MIPYMES, sean canalizados a las mismas, para lo cual tomará las medidas necesarias conforme al Reglamento;
-
-V. Impulsar un entorno favorable para la creación, desarrollo y crecimiento con calidad de las MIPYMES;
-
-VI. Promover con los Municipios, la celebración de convenios para coordinar las acciones e instrumentos de apoyo a las MIPYMES de conformidad con los objetivos de la presente Ley;
-
-VII. Crear y operar un sistema de información que permita evaluar el impacto de las políticas de apoyo a las MIPYMES, que cuente con una base de datos Estatal por tipo de actividad económica, de programas o financiamientos que accedió para su seguimiento e indicadores de eficiencia.
-
-El sistema tendrá por objeto la articulación de los distintos apoyos y programas que el gobierno implementa para las MIPYMES y como mínimo deberá contener lo siguiente:
-
-a) Obtención y registro de información básica de las MIPYMES: nombre, giro, domicilio, número de empleados, fuentes de financiamiento, mercados;
-
-b) Diagnóstico de la empresa al ingresar: planta productiva, capacidad de producción, capacidad instalada, infraestructura, limitantes, requerimientos técnicos y financieros, recursos humanos;
-
-c) Historial de apoyos solicitados, tipología de requerimientos y apoyos, impacto generado por los apoyos recibidos; y,
-
-d) Resultados de evaluaciones y seguimiento de las MIPYMES: empleos generados, índices de producción y productividad.
-
-VIII. Evaluar de manera conjunta con los Municipios, los resultados de los convenios para formular nuevas acciones. Lo anterior, sin perjuicio de las facultades de las autoridades competentes en la materia;
-
-IX. Colaborar con el Consejo proporcionando datos que se desprendan del sistema de información, que contribuya a evaluar anualmente el desempeño de la competitividad estatal de las MIPYMES, en relación al entorno nacional;
-
-X. Proponer la actualización de los programas de manera continua para establecer objetivos en el corto, mediano y largo plazo;
-
-XI. Realizar la función de coordinación a que se refiere la presente Ley, para el desarrollo de la competitividad de las MIPYMES;
-
-XII. Desarrollar a través de los instrumentos con que cuenta y los que genere, un sistema general de información y consulta para la planeación sobre los sectores productivos y cadenas productivas;
-
-XIII. Proponer a través de las instancias competentes, la homologación de la normativa y trámites, por lo que se refiere a la materia de la presente Ley; y,
-
-XIV. Diseñar un esquema de seguimiento e identificación de resultados de los programas de apoyo establecidos.
-
-(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2016) (REPUBLICADO, P.O. 21 DE ENERO DE 2016)
+La Secretaría publicará en el Periódico Oficial durante el mes de febrero de cada año, la lista actualizada de los establecimientos que cuentan con el permiso para ejercer dicha actividad.
 
 ###### ARTÍCULO 9.
 
@@ -283,343 +221,553 @@ XVIII. Impulsar la creación, desarrollo y crecimiento de MIPYMES localizadas en
 
 Para tal efecto, las dependencias y entidades de la Administración Pública Estatal y Municipal proporcionarán la información para el impulso de las MIPYMES en términos de la normativa aplicable.
 
-### CAPÍTULO III. PROGRAMAS DE LA POLÍTICA PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
+### Capítulo III. De los Contrato y de la Boleta de Empeño
 
-###### ARTÍCULO 10.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Los programas referidos en esta Ley, deberán contener, entre otros:
+###### Artículo 10.
 
-I. La definición de los sectores prioritarios para el desarrollo económico;
+Para obtener el permiso para la apertura, instalación y funcionamiento de los establecimientos que rige la presente Ley, el interesado, con independencia de lo dispuesto en otros ordenamientos legales debe cumplir con los siguientes requisitos:
 
-II. Las líneas estratégicas para el desarrollo empresarial;
+I. Nombre, razón social o denominación del Permisionario.
 
-III. Los mecanismos y esquemas mediante los cuales se ejecutarán las líneas estratégicas;
+II. Registro del Contribuyente Federal y Estatal.
 
-IV. Los informes de evaluación y resultados de la aplicación de los mismos; y,
+III. Cédula de Identificación Fiscal.
 
-V. Los criterios, mecanismos y procedimientos para dar seguimiento, a la evolución y desempeño de los beneficios previstos en esta Ley.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-###### ARTÍCULO 11.
+IV. Clave Única de Registro de Población (CURP), del Permisionario o representante legal, en su caso.
 
-Con el objeto de lograr la coordinación efectiva de los programas de fomento a las MIPYMES y lograr una mayor efectividad en la aplicación de los recursos, todos los convenios serán firmados por el titular del Poder Ejecutivo de manera directa con los municipios y los Sectores.
+V. Domicilio fiscal, para oír y recibir notificaciones y persona autorizada para recibirlas en su nombre y representación.
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2016)
+VI. Mención de ser Casa de Empeño.
 
-###### ARTÍCULO 12.
+VII. Fecha y lugar de la solicitud; y,
 
-Para la ejecución de la política para el desarrollo de la competitividad de las MIPYMES, se deberán considerar los siguientes programas:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-I. Capacitación y formación empresarial, así como de asesoría y consultoría para las MIPYMES;
+VIII. Declarar que cuenta con los servicios de Valuador.
 
-II. Procesos de certificación de calidad y competitividad para las MIPYMES, de acuerdo a su actividad económica;
+###### Artículo 11.
 
-(REFORMADA, P.O. 1 DE ENERO DE 2016) (REPUBLICADA, P.O. 21 DE ENERO DE 2016)
+Los permisos se cancelarán en los supuestos previstos en la presente ley.
 
-III. El fomento para la constitución de incubadoras de empresas y formación de emprendedores de los sectores social, privado, educativo medio superior y superior;
+#### Sección Primera. De la Solicitud del Permiso
 
-IV. Formación, integración y apoyo a las cadenas productivas, agrupamientos empresariales y vocaciones productivas locales y regionales;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-V. Promoción de una cultura tecnológica en las MIPYMES, como lo es la modernización, innovación y desarrollo tecnológico;
+###### Artículo 12.
 
-VI. Desarrollo de proveedores y distribuidores con las MIPYMES;
+El interesado en obtener un permiso para la apertura, instalación y funcionamiento de una casa de empeño, además de los requisitos señalados en el artículo 10, de la presente Ley, debe presentar ante la Secretaría lo siguiente:
 
-VII. Consolidación de oferta exportable;
+I. Original y dos copias de la solicitud de permiso con los datos y documentos señalados en el artículo 10, de la Ley;
 
-VIII. Información general en materia económica acordes a las necesidades de las MIPYMES;
+II. Original de recibo oficial de pago de derechos;
 
-IX. Fomento para el desarrollo sustentable en el marco de la normativa ecológica aplicable; y,
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
-X. Otorgamiento de estímulos fiscales y no fiscales.
+IV. Copia del formato del contrato que utilizarán para la celebración de los servicios ofertados al público, registrado ante la Procuraduría Federal del Consumidor.
 
-Adicionalmente, la Secretaría promoverá esquemas para facilitar el acceso al financiamiento público y privado a las MIPYMES.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-### CAPÍTULO IV. CONSEJO ESTATAL PARA LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
+V. Si el solicitante es persona moral, debe acompañar copia certificada del acta constitutiva, así como del Poder Notarial otorgado al representante legal; y,
 
-###### ARTÍCULO 13.
+VI. Comprobante de domicilio fiscal.
 
-El Consejo es la instancia que promueve, analiza, evalúa y da seguimiento a los esquemas, programas, instrumentos y acciones que deben desarrollarse en apoyo a las MIPYMES en el ámbito regional, municipal, estatal, nacional e internacional, a través del análisis de las propuestas surgidas del sector público y de los Sectores.
+### Capítulo IV. Del Procedimiento de Empeño, Desempeño, Refrendo y Venta de los Objetos Pignorados
 
-###### ARTÍCULO 14.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-El Consejo estará conformado por:
+###### Artículo 35.
 
-I. El titular del Poder Ejecutivo del Estado quien lo presidirá;
+Además de lo previsto en otras disposiciones legales aplicables, en el procedimiento de empeño se observarán las reglas siguientes:
 
-II. El titular de la Secretaría de Desarrollo Económico quien fungirá como Secretario Técnico;
+I. El pignorante presentará al valuador la prenda que va a empeñar.
 
-III. El titular de la Secretaría de Finanzas y Administración;
+II. El valuador procederá a verificar la autenticidad de la prenda; si no es auténtica la devuelve al pignorante; si lo es, procede a valuarla y a ofrecer la cantidad que presta por ella.
 
-IV. El titular de la Secretaría de Educación Pública en el Estado;
+III. Si el pignorante no la acepta, se le devuelve la prenda; si la acepta se procede a la identificación y almacenamiento de la prenda.
 
-V. El Director del Servicio Estatal del Empleo;
+IV. Se solicita identificación al pignorante y se procede a elaborar la boleta de empeño.
 
-VI. El titular de la Secretaría de Desarrollo Rural;
+V. Se entrega la boleta al pignorante para que cobre; y
 
-VII. El titular de la Secretaría de Urbanismo y Medio Ambiente;
+VI. El cajero de empeño, revisa, firma y paga el préstamo, al pignorante.
 
-VIII. El titular de la Secretaría de Comunicaciones y Obras Públicas;
+###### Artículo 36.
 
-IX. El titular de la Secretaría de Turismo;
+El procedimiento de desempeño se sujetará a las reglas siguientes:
 
-X. El Subsecretario para la Pequeña y Mediana Empresa de la Secretaría de Desarrollo Económico;
+I. El pignorante presenta al cajero boleta de empeño con el pago correspondiente.
 
-XI. El titular de la Dirección General del Consejo Estatal de Ciencia, Tecnología e Innovación;
+II. El cajero verifica datos.
 
-XII. Un regidor integrante de la Comisión de Fomento Industrial y Comercio, del municipio con mayor densidad poblacional de cada región económica en las que se divide el Estado;
+III. Se cobra el importe y entrega comprobante para entrega de la prenda.
 
-XIII. Cinco miembros de asociaciones o cámaras estatales de los sectores que incidan en el cumplimiento de los objetivos de esta Ley; y,
+IV. El pignorante acude a entrega de la prenda; y,
 
-XIV. Cinco académicos de diferentes universidades del Estado especialistas en el tema de competitividad.
+V. Si el pignorante no está de acuerdo con la prenda que se le entrega, se tramita su inconformidad.
 
-Los miembros de las fracciones XIII y XIV de este artículo serán designados por el H. Congreso del Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Los cargos de los integrantes del Consejo serán honoríficos, por lo que no percibirán retribución, emolumento o compensación alguna por su desempeño.
+###### Artículo 37.
 
-Durarán en su cargo la periodicidad de la administración a su cargo, a excepción de los miembros o presidentes de asociaciones o cámaras estatales y académicos que se renovarán según lo establezca el reglamento.
+Los permisionarios quedan obligados a indemnizar a los pignorantes en los casos de pérdida, extravío, deterioro, incendio o cualquier otra causa que les impida hacer entrega de la cosa empeñada en la misma forma en que la recibieron, por un importe igual al valor del avalúo practicado por el Valuador, declarado en el contrato respectivo.
 
-###### ARTÍCULO 15.
+###### Artículo 38.
 
-El Consejo podrá invitar a participar en las sesiones, con voz pero sin voto, a servidores públicos de dependencias, entidades, miembros de los consejos estatales y especialistas en los temas a discusión.
+El procedimiento de refrendo se sujetará a las reglas siguientes:
 
-###### ARTÍCULO 16.
+I. El pignorante entrega la boleta de empeño y el dinero al cajero.
 
-Por cada uno de los miembros propietarios se deberá nombrar un representante, en el caso de las dependencias y entidades de la Administración Pública Estatal, deberá tener al menos un nivel jerárquico inferior inmediato al del titular. Cada titular es el responsable de nombrar a su representante.
+II. El cajero verifica datos de la boleta de empeño.
 
-###### ARTÍCULO 17.
+III. Se acepta el refrendo, procesa cobro y entrega comprobante de pago al pignorante; y,
 
-En ausencia del Presidente del Consejo, el representante del mismo, asumirá dichas funciones.
+IV. Se entrega al pignorante nueva boleta de empeño.
 
-###### ARTÍCULO 18.
+###### Artículo 39.
 
-El Secretario Técnico, informará semestralmente al Congreso del Estado sobre la evolución de los programas y los resultados alcanzados; y se coordinará con los municipios en lo conducente.
+Los objetos pignorados en garantía de préstamos que no fueren redimidos a su vencimiento o refrendados, serán ofertados, sobre la base que se forme con el capital prestado, intereses y gastos de almacenaje. Si de la venta resultare alguna demasía, una vez cubierto el capital prestado, intereses y gastos, el excedente quedará a disposición del pignorante por el término de un año, contado a partir de la fecha de la venta. Si ese excedente no es reclamado, quedará en favor de la casa de empeño.
 
-###### ARTÍCULO 19.
+###### Artículo 13.
 
-El Consejo se reunirá trimestralmente de manera ordinaria, de acuerdo con el calendario que se apruebe en la primera sesión ordinaria del ejercicio, pudiendo celebrar las reuniones extraordinarias que se requieran.
+La Secretaría tendrá un plazo de diez días hábiles contados a partir de la recepción de la solicitud, para realizar el estudio y análisis de la documentación, y la práctica de la visita de verificación.
 
-###### ARTÍCULO 20.
+Cuando la documentación presentada no cumpla con cualquiera de los requisitos señalados en la Ley, la Secretaría requerirá al peticionario la presentación de los documentos omitidos, otorgándole un plazo de diez días hábiles contados a partir de la notificación para que dé cumplimiento; apercibiéndolo que en caso de no hacerlo, se tendrá por no presentada su solicitud.
 
-El Consejo sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros, siempre que se cuente con la asistencia del presidente o su representante, y que la mayoría de los asistentes sean representantes de la Administración Pública Estatal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Las resoluciones se tomarán por mayoría de votos de los miembros presentes, teniendo el presidente el voto de calidad en caso de empate.
+###### Artículo 14.
 
-###### ARTÍCULO 21.
+La Secretaría, recibida la solicitud de permiso en los términos previstos en el segundo párrafo del artículo anterior, debe resolver la petición en un plazo no mayor de diez días hábiles contados a partir del día siguiente a la recepción integral de la documentación; la cual deberá notificarse al peticionario personalmente.
 
-El Presidente, a través del Secretario Técnico, convocará a las sesiones ordinarias con un mínimo de cinco días hábiles de anticipación. En el caso de las extraordinarias, se convocará con tres días hábiles de anticipación.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-###### ARTÍCULO 22.
+###### Artículo 15.
 
-El domicilio del Consejo será en la ciudad de Morelia y sesionará en las instalaciones de la Secretaría, siempre que éste no acuerde una sede alterna.
+La existencia de un dato falso en la solicitud, será motivo suficiente para negar el permiso.
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2016)
+###### Artículo 16.
 
-###### ARTÍCULO 23.
+En caso de que la resolución notificada niegue el otorgamiento del permiso, el solicitante podrá inconformarse en los términos previstos por el artículo 57, de la Ley.
 
-El Consejo tendrá por objeto:
+#### Sección Segunda. De la Expedición del Permiso
 
-I. Estudiar, proponer, evaluar y difundir medidas de apoyo para la política de desarrollo de la competitividad en las MIPYMES a través del análisis de propuestas que realicen los municipios, y los sectores para el desarrollo y cumplimiento de los objetivos de esta Ley;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-II. Evaluar anualmente los mecanismos, programas y acciones de la política para el desarrollo de la competitividad en las MIPYMES a partir de la información generada y proporcionada por la Secretaría.
+###### Artículo 17.
 
-III. Desarrollar mecanismos para que las MIPYMES reciban consultoría y capacitación en áreas de comercialización y mercadeo, tecnología y procesos de producción, diseño de producto y financiamiento, así como en materia de normalización y certificación;
+La Secretaría, al resolver favorablemente la solicitud de un permiso, requerirá al peticionario para que dentro del término de cinco días hábiles contados a partir de la notificación de la resolución, exhiba póliza de fianza otorgada a favor de Gobierno del Estado cuyo monto sea equivalente a veinte mil veces el salarlo mínimo diario vigente en el Estado. Dicha póliza tendrá vigencia de un año y debe ser refrendada anualmente para efectos de la revalidación del permiso correspondiente, así como el recibo oficial de pago de los derechos por concepto de expedición de permiso de apertura, instalación y funcionamiento correspondiente.
 
-(REFORMADA, P.O. 1 DE ENERO DE 2016) (REPUBLICADA, P.O. 21 DE ENERO DE 2016)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-IV. Fomentar la constitución de incubadoras de empresas, y la iniciativa y creatividad de los emprendedores de los sectores social, privado, educativo medio superior y superior;
+###### Artículo 18.
 
-V. Procurar la formación de especialistas en consultoría y capacitación;
+Exhibidos los documentos señalados en el artículo anterior, la Secretaría debe expedir y hacer entrega del permiso al peticionario o a quién para tal efecto se autorice, recabando constancia de su entrega en la copia del mismo, debiéndola anexar al expediente del permisionario.
 
-VI. Promover la certificación de especialistas que otorguen servicios de consultoría y capacitación a las MIPYMES;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-VII. Facilitar la integración entre las MIPYMES;
+###### Artículo 19.
 
-VIII. Impulsar la vinculación de las MIPYMES con la gran empresa;
+El permiso debe contener:
 
-IX. Estimular la integración y eficiencia de las cadenas productivas, con la participación de los sectores, con una visión de corto, mediano y largo plazo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-X. Formular mecanismos y estrategias de promoción a la exportación directa e indirecta de las MIPYMES;
+I. Autorización de la Secretaría.
 
-(REFORMADA, P.O. 1 DE ENERO DE 2016) (REPUBLICADA, P.O. 21 DE ENERO DE 2016)
+II. Fundamento legal para la expedición, especificando que se ha cumplido con los requisitos exigidos por la Ley.
 
-XI. Impulsar esquemas que faciliten el acceso al financiamiento de las MIPYMES, y de las empresas constituidas como resultado de los programas de incubadoras de empresas en las instituciones públicas y privadas de educación media superior y superior;
+III. Número y clave de identificación del permiso.
 
-(REFORMADA, P.O. 1 DE ENERO DE 2016) (REPUBLICADA, P.O. 21 DE ENERO DE 2016)
+IV. Nombre, razón social o denominación del permisionario.
 
-XII. Instituir los premios estatales y que reconozcan la competitividad de las MIPYMES, y de las empresas constituidas como resultado de los programas de incubadoras de empresas en las instituciones públicas y privadas, en los términos que él mismo determine;
+V. Registro del contribuyente federal y estatal.
 
-(REFORMADA, P.O. 1 DE ENERO DE 2016) (REPUBLICADA, P.O. 21 DE ENERO DE 2016)
+VI. Cédula de identificación fiscal.
 
-XIII. Proponer los incentivos necesarios que permitan potencializar la competitividad de las MIPYMES, así como las empresas que surjan de las iniciativas en las instituciones públicas y privadas de educación media superior y superior; y,
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-(ADICIONADA, P.O. 1 DE ENERO DE 2016) (REPUBLICADA, P.O. 21 DE ENERO DE 2016)
+VII. Clave Única del Registro de Población (CURP), del permisionario o representante legal, en su caso.
 
-XIV. Promover en las instituciones de educación media superior y superior, la incorporación al Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas, del Consejo Nacional de Ciencia y Tecnología, para la continuidad de apoyos a las empresas en temas de investigación científica, desarrollo tecnológico e innovación.
+VIII. Domicilio legal.
 
-###### ARTÍCULO 24.
+IX. Mención de ser casa de empeño.
 
-Los servidores públicos que formen parte del Consejo, que no apliquen, no estimulen, no le den continuidad a lo establecido en esta Ley, o que obstaculicen su aplicación, se les integrará el Procedimiento Administrativo de Responsabilidad o el de la materia que corresponda por la autoridad competente.
+X. La obligación del Permisionario de revalidar anualmente el permiso en los términos que establezca la Ley.
 
-### CAPÍTULO V. ESTÍMULOS PARA LAS MIPYMES
+XI. Vigencia del permiso.
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2016)
+XII. Nombre y firma del servidor público autorizado para expedir el permiso; y,
 
-###### ARTÍCULO 25.
+XIII. Fecha y lugar de expedición.
 
-Los Estímulos que se otorguen conforme a las disposiciones de esta Ley serán:
+###### Artículo 20.
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2016)
+El Permiso que se expida será personal e intransferible y con vigencia de un año fiscal.
 
-I. Estímulos:
+#### Sección Tercera. De la Modificación del Permiso
 
-a) De Gestión. Que consistirá en la intervención de la Secretaría ante instancias Federales, Estatales y Municipales para:
+###### Artículo 21.
 
-1. Coadyuvar en la gestión de trámites para la constitución, establecimiento y funcionamiento de actividades empresariales; y,
+El Ejecutivo del Estado por conducto de la Secretaría, podrá autorizar la modificación de un permiso expedido en los términos de la Ley, por cambio del domicilio legal del establecimiento autorizado.
 
-2. La obtención de asesoría para la solución de problemáticas que inhiben la competitividad de las empresas y afecten su operación.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2016) (REPUBLICADO, P.O. 21 DE ENERO DE 2016)
+###### Artículo 22.
 
-b) De Desarrollo Empresarial. Que consistirá en apoyos directos a las MIPYMES, así como a las empresas surgidas en las instituciones de educación media y educación media superior, a través de los programas de fomento enfocados a la:
+El Permisionario debe solicitar la modificación del permiso en un plazo que no exceda de diez días hábiles, contados a partir de que se dé el supuesto previsto en el artículo que antecede.
 
-(REFORMADO, P.O. 1 DE ENERO DE 2016) (REPUBLICADO, P.O. 21 DE ENERO DE 2016)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-1. Formación de emprendedores de los sectores social, privado, educativo medio superior y superior.
+###### Artículo 23.
 
-2. Capacitación, adiestramiento y certificación.
+Para la modificación de un permiso, el interesado debe presentar ante la Secretaría los siguientes documentos:
 
-3. Consultoría especializada.
+I. Solicitud por escrito expresando la causa que motiva la petición.
 
-4. Acceso al financiamiento.
+II. El permiso original.
 
-5. Articulación de los programas, instrumentos, productos, herramientas y acciones para elevar su competitividad.
+III. Los documentos idóneos que acrediten la causa invocada: y,
 
-6. Información estadística, sectorial y económica para la toma de decisiones.
+IV. El recibo oficial del pago de derechos correspondientes.
 
-c) De Acceso a Mercados. Que consistirá en la intervención de la Secretaría en coordinación con las instancias competentes, para estimular la participación de Empresas, especialmente de MIPYMES, en los mercados externos, mediante las siguientes acciones:
+###### Artículo 24.
 
-1. Apoyar mediante asistencia técnica a las empresas que cuenten con potencial exportador.
+Recibida la solicitud de modificación de un permiso en los términos previstos en el artículo anterior, dentro de los diez días hábiles siguientes, la Secretaria dictaminará sobre la procedencia de la solicitud; de aprobarse se expedirá un nuevo permiso con las modificaciones solicitadas y cancelará el anterior dejando constancia de ello en el expediente respectivo y notificará al peticionario personalmente o por correo certificado con acuse de recibo.
 
-2. Apoyar la participación de empresas en ferias y eventos nacionales e internacionales para promocionar productos.
+### Capítulo V. De las Facultades de la Secretaría
 
-3. Establecer programas específicos por sector y grupos de empresas para promover exportaciones.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-d) De Infraestructura Pública. Que consistirá en la canalización de recursos de la Secretaría de Comunicaciones y Obras Públicas, para el apoyo en la realización de obras de infraestructura pública que faciliten el establecimiento y funcionamiento de las empresas.
+###### Artículo 40.
 
-II. Fiscales: Los previstos en la normativa aplicable del Estado de Michoacán de Ocampo.
+La Secretaría, para la atención de los asuntos que tiene encomendados por la Ley, se auxiliará de los Órganos Administrativos que determine el Secretario de Hacienda, para la recepción y trámite de las solicitudes, expedición, revalidación, modificación y cancelación del permiso para la apertura, instalación y funcionamiento de las Casas de Empeño en el Estado.
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2016)
+###### Artículo 41.
 
-###### ARTÍCULO 26.
+La Secretaría corresponderá realizar las siguientes funciones:
 
-Podrán ser objeto de estímulos las empresas que realicen:
+I. La recepción; análisis y calificación de las solicitudes para la expedición, revalidación y modificación de permiso para la instalación y funcionamiento de Casas de Empeño, así como la integración del expediente correspondiente.
 
-a) Un proyecto de Inversión;
+II. Elaboración de los proyectos de resolución correspondientes a las solicitudes de expedición, modificación, revalidación y cancelación de permiso para la instalación y funcionamiento de Casas de Empeño.
 
-b) Operen sistemas para el tratamiento de aguas residuales y las reutilicen totalmente, siempre que su descarga final no se realice en el sistema de alcantarillado;
+III. Sancionar a los permisionarios por infracción a la Ley, conforme al procedimiento administrativo previsto en el Capítulo VI, de éste último ordenamiento.
 
-c) Contratación de personas adultas mayores o personas productivas con capacidades diferentes;
+IV. Notificar las sanciones por infracciones a las disposiciones de la Ley.
 
-d) Proyectos de consumo y uso de energías renovables no contaminantes, aplicadas al consumo de energía proveniente de fuentes renovables no contaminantes, desarrollo de auditorías de eficiencia energética, así como las demás relacionadas con este tipo de proyectos; y,
+V. Notificar las resoluciones sobre la expedición, modificación, revalidación y cancelación del permiso.
 
-e) Contraten e inscriban en régimen de seguridad social, de 5 a más empleados.
+VI. Elaborar formatos de documentos relativos a la solicitud de expedición, revalidación, modificación de permiso y demás papelería oficial necesaria para el cumplimiento del objeto de la Ley.
 
-(ADICIONADO, P.O. 1 DE ENERO DE 2016) (REPUBLICADO, P.O. 21 DE ENERO DE 2016)
+VII. Llevar a cabo las visitas de verificación, con las formalidades que establece el Código de la Hacienda Pública para el Estado de Chiapas; y,
 
-f) Su constitución formal como resultado de las incubadoras de negocios en las instituciones de educación media superior y superior.
+VIII. Las demás que sean necesarias para el debido cumplimiento de la Ley.
 
-###### ARTÍCULO 27.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Podrán ser objeto de estímulos no fiscales, las empresas que:
+###### Artículo 42.
 
-I. Requieran orientación para realizar trámites ante los diversos órdenes de gobierno;
+La vigilancia para el exacto cumplimiento de la presente Ley, corresponde a la Secretaría, mediante la práctica de verificaciones, conforme a las formalidades previstas en el Código de la Hacienda Pública para el Estado de Chiapas.
 
-II. Inviertan en la capacitación de recursos humanos y que se vinculen con las instituciones educativas públicas o privadas alineadas a la Política para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa del Estado;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-III. Se integren a cadenas productivas, agrupamientos empresariales y/o a los programas y lineamientos que establezca la Secretaría para mejorar su productividad y competitividad;
+###### Artículo 43.
 
-IV. Contribuyan al avance de la calidad en los procesos de producción, distribución, mercadeo y servicio al cliente y que promuevan la cultura de la calidad en el Estado;
+Si del resultado de la diligencia de verificación, la Secretaría determina infracciones cometidas por los permisionarios, debe imponer la sanción que corresponda en los términos previstos en la presente Ley.
 
-V. Inviertan o participen en programas destinados a impulsar el desarrollo de proveedores ubicados en el Estado;
+###### Artículo 44.
 
-VI. Promuevan e inviertan en esquemas y programas de investigación para modernizar y desarrollar tecnología;
+El permisionario está obligado a permitir el acceso y facilitar las verificaciones que pretenda realizar la Secretaría, siempre y cuando medie orden de verificación y se desarrolle con las formalidades del procedimiento, que se establecen en el Código de la Hacienda Pública para el Estado de Chiapas.
 
-VII. Sustituyan importaciones mediante el consumo de insumos, componentes, servicios o productos que se generen en el Estado;
+###### Artículo 25.
 
-VIII. Sean identificadas con posibilidades de participar exitosamente en los mercados internacionales, incluyendo aquellas que en forma complementaria importen insumos indirectamente para la producción de bienes en el Estado;
+En caso de que la resolución notificada niegue la modificación del permiso, el interesado podrá inconformarse en los términos previstos por el artículo 57 de la Ley.
 
-IX. Sean identificadas como estratégicas o necesitadas de apoyos especiales, incluyendo obras de infraestructura; y,
+#### Sección Cuarta. De la Revalidación del Permiso
 
-X. Inviertan en proyectos que contribuyan al mejoramiento y conservación del medio ambiente, así como en sistemas de eficiencia energética a través de la implementación de fuentes de energía renovable no contaminante.
+###### Artículo 26.
 
-Los anteriores pueden ser adicionales a los estímulos fiscales, de los que puedan ser beneficiados.
+El Permisionario tiene la obligación de revalidar anualmente su permiso dentro del mes de junio de cada nuevo ejercicio fiscal, debiendo presentar ante la Secretaría lo siguiente:
 
-###### ARTÍCULO 28.
+I. Solicitud por escrito.
 
-Los estímulos fiscales a los proyectos de inversión, se orientarán al impuesto sobre erogaciones por remuneraciones al trabajo personal, prestado bajo la dirección y dependencia de un patrón y al derecho de prestación de servicio de abastecimiento de agua potable, alcantarillado y saneamiento, sin perjuicio de que dichos estímulos puedan comprender otras contribuciones, según se establezca en las disposiciones fiscales de carácter estatal.
+II. El permiso original sujeto a revalidación.
 
-###### ARTÍCULO 29.
+III. El recibo de pago de los derechos correspondientes; y,
 
-Los estímulos fiscales a proyectos de inversión se otorgarán considerando los siguientes criterios:
+IV. El refrendo de la póliza prevista en el artículo 17, de la Ley.
 
-I. Generación de empleos. En función del número de empleos directos e indirectos que se generen a partir de la implementación del proyecto, así como el número de estudiantes y recién egresados de acuerdo a su perfil, de los niveles medio superior y superior, que no cuente con registro previo al régimen obligatorio establecido en la Ley del Seguro Social y se les provea del mismo, así como la contratación de personas adultas mayores y personas productivas con capacidad diferente;
+En caso de que la petición de revalidación del permiso sea en forma extemporánea, se impondrá la sanción establecida en la presente Ley. Una vez cubierta la multa se dará el trámite que corresponda.
 
-II. Nivel salarial de los nuevos empleos;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-III. Montos y origen de la Inversión. Inversión nueva o ampliación, si el origen de la misma es nacional o extranjera;
+###### Artículo 27.
 
-IV. Inversión en tecnología, respecto a su venta anual;
+Recibida la solicitud de revalidación de un permiso en los términos previstos en el artículo anterior, debe resolverse la petición en un plazo no mayor de diez días hábiles; de aprobarse, se expedirá la constancia de revalidación correspondiente y se hará la devolución del permiso original, conservando copia de la constancia de revalidación en el expediente respectivo y se notificará al Permisionario en forma personal o por correo certificado con acuse de recibo.
 
-V. Proveeduría Estatal. El monto de adquisición de insumos a empresas instaladas en la entidad; e,
+Transcurrido el plazo sin que se haya emitido resolución, el Permisionario podrá solicitar mediante escrito las causas o razones por las cuáles no se la (sic) dado contestación, debiendo la Secretaría contestar en un plazo no mayor a diez días hábiles, el sentido de la respuesta a la solicitud.
 
-VI. Implementación de fuentes de energía renovables no contaminantes.
+###### Artículo 28.
 
-La empresa que presente un proyecto de inversión para establecerlo fuera de la cabecera municipal, tendrá atención adicional en el otorgamiento de incentivos.
+Si la resolución niega la revalidación del permiso el interesado podrá inconformarse en los términos previstos por el artículo 57, de la Ley.
 
-### CAPÍTULO VI. EXTINCIÓN DE LOS ESTÍMULOS
+###### Artículo 29.
 
-###### ARTÍCULO 30.
+Las personas físicas y morales a que se refiere el artículo 1 de esta Ley, deben sujetar los contratos de mutuo con interés y garantía prendaría que celebren, a las formalidades que se establecen en la Ley Federal de Protección al Consumidor y demás leyes aplicables.
 
-En cualquier tiempo, la Secretaría podrá verificar o inspeccionar que la empresa observe los requisitos y las condiciones generales y particulares que sirvieron de base para el otorgamiento de los estímulos.
+### Capítulo VI. De las Sanciones
 
-Las empresas estarán obligadas a presentar la información que le sea requerida, en un término no mayor a 5 días hábiles, contados a partir de dicho requerimiento. Asimismo estarán obligadas a brindar todas las facilidades para la realización de la verificación o inspección en su caso.
+###### Artículo 45.
 
-###### ARTÍCULO 31.
+Corresponde a la Secretaría, mediante la práctica de verificaciones vigilar el exacto cumplimiento de la presente Ley por parte de los permisionarios.
 
-Procede la cancelación de los estímulos, cuando la empresa:
+Cualquier infracción a las disposiciones de esta Ley, será sancionada por la Secretaría en los términos previstos por este ordenamiento.
 
-I. Aporte información falsa para su obtención;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-II. Suspenda sus actividades durante seis meses sin causa justificada;
+###### Artículo 46.
 
-III. Los destine a una finalidad diversa para la que se le otorgaron;
+Para sancionar al permisionario por infracciones a las disposiciones de esta ley, se le debe notificar el inicio del procedimiento de imposición de sanciones, para que dentro de los cinco días hábiles siguientes contados a partir de la fecha en que se tenga conocimiento de la violación que se le atribuye, haga las manifestaciones que a su derecho convenga y en su caso aporte los elementos necesarios para desvirtuar la infracción que se le imputa.
 
-IV. Incumpla los requisitos y las condiciones generales y particulares que sirvieron de base para su otorgamiento;
+Concluido el término que señala en el párrafo anterior, se le tendrá por precluido el derecho para aportar sus pruebas.
 
-V. No se encuentre al corriente de sus obligaciones fiscales;
+En el escrito de inicio de Imposición de sanciones, la Secretaría le hará saber:
 
-VI. Los transfiera por cualquier medio;
+I. La autoridad o persona que le imputa la responsabilidad administrativa,
 
-VII. Simule acciones para hacerse acreedor a los mismos; y,
+II. La infracción que se le imputa,
 
-VIII. No proporcione la información que se le sea requerida por la Secretaría en los tiempos estipulados en esta Ley.
+III. La descripción de las circunstancias de modo, tiempo y lugar donde presuntamente se cometieron las infracciones; y,
 
-###### ARTÍCULO 32.
+IV. El día, hora y lugar en que tendrá verificativo la audiencia de declaración y pruebas en relación a los hechos constitutivos de la infracción, y alegatos.
 
-Los afectados por la cancelación de un estímulo u otros actos definitivos derivados de la aplicación de la presente Ley, diversos de los relacionados con los estímulos fiscales, podrán interponer el recurso de revocación previsto en el Código de Justicia Administrativa del Estado de Michoacán de Ocampo o el que corresponda de acuerdo a la materia.
+###### Artículo 47.
 
-### CAPÍTULO VII. FOMENTO A LA COMPETITIVIDAD DE LAS MIPYMES EN EL ÁMBITO MUNICIPAL
+Desahogada la audiencia a que se refiere la fracción IV, del artículo anterior, la Secretaría dentro de los diez días hábiles siguientes a su celebración, resolverá sobre la procedencia o improcedencia de la sanción y notificará al permisionario la resolución.
 
-###### ARTÍCULO 33.
+###### Artículo 48.
 
-Los Ayuntamientos en el ámbito de sus competencias, dictarán la normatividad que deberá regir esta materia, señalando de conformidad con las siguientes bases:
+Se impondrá multa de cincuenta a quinientos salarios mínimos diarios vigente en el Estado, cuando:
 
-I. Las autoridades responsables, régimen de actuación y los procedimientos para fomentar la competitividad de las MIPYMES en el municipio;
+I. Una persona física o moral instale y haga funcionar una casa de empeño sin contar con el permiso expedido por el Ejecutivo del Estado, a través de la Secretaría.
 
-II. En su caso, los esquemas necesarios para estimular e incentivar a las empresas, y las autoridades u organismos facultados para gestionarlos, otorgando los estímulos que procedan, de conformidad con las actividades sujetas a fomento económico, según lo determine dicho orden de Gobierno; y,
+II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
-III. Las demás disposiciones que consideren necesarias para lograr el cumplimiento del objeto de la Ley.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-T R A N S I T O R I O S
+III. El permisionario realice avalúos y operaciones de empeño sin contar con Valuador.
+
+IV. El permisionario cancele con anticipación a la fecha de conclusión del período de vigencia, la póliza de fianza para garantizar los daños y perjuicios que pudieran ocasionarse a los pignorantes.
+
+V. El permisionario omita anexar al contrato de mutuo con interés y garantía prendaría, los documentos que amparen la identidad del pignorante, o la factura que ampare la propiedad del bien pignorado.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+VI. El permisionario realice operaciones de pignoración o empeño sin el avalúo practicado por el Valuador.
+
+VII. El permisionario se oponga sin causa justificada, a la práctica de verificación de la operación del establecimiento.
+
+VIII. El permisionario solicite extemporáneamente la revalidación del permiso; y,
+
+IX. Incumplir con las disposiciones establecidas en la presente Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 49.
+
+Se impondrá suspensión temporal para celebrar contratos de mutuo con interés y garantía prendaria hasta por treinta días hábiles cuando:
+
+l. Permisionario no revalide el permiso.
+
+II. El permisionario no modifique el permiso dentro del término establecido por la Ley.
+
+III. El permisionario acumule dos multas por la misma causa dentro de un ejercicio fiscal.
+
+IV. El permisionario no renueve la póliza de fianza para garantizar los daños y perjuicios a los pignorantes, dentro del término de tres días hábiles contados a partir de que haya recibido personalmente y por escrito el requerimiento para ello por parte de la Secretaría.
+
+###### Artículo 50.
+
+Los permisos a que se refiere esta Ley podrán cancelarse por:
+
+I. El permisionario cometa acciones fraudulentas realizadas con motivo de las actividades reguladas en este ordenamiento previa resolución de la autoridad competente que así lo determiné.
+
+II. El permisionario acumule dos sanciones de suspensión temporal dentro de un ejercicio fiscal; y,
+
+III. El permisionario sin causa justificada suspenda las operaciones del establecimiento autorizado al público por más de diez días hábiles.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 51.
+
+Para imponer la sanción que corresponda, la autoridad debe tomar en cuenta lo siguiente:
+
+I. La gravedad de la infracción cometida.
+
+II. Las condiciones del infractor.
+
+III. La conveniencia de evitar prácticas tendientes a contravenir las disposiciones de la Ley.
+
+IV. La reincidencia.
+
+###### Artículo 30.
+
+La boleta de empeño contendrá:
+
+I. Nombre comercial o razón social de la casa de empeño.
+
+II. Leyenda de la institución de ser boleta de empeño.
+
+III. Folio progresivo.
+
+IV. El número de autorización expedida por la Secretaría.
+
+V. Domicilio Legal.
+
+VI. Lugar y fecha de la operación.
+
+VII. Descripción de la cosa pignorada y en su caso, los datos que la individualicen.
+
+VIII. Datos de la factura que ampare la propiedad de la prenda.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+IX. Valor de avalúo de los objetos pignorados emitido por el Valuador.
+
+X. Monto de la operación de crédito y cantidad que se entrega al prestatario.
+
+XI. Importe de los gastos por avalúo, almacenaje del bien dado en prenda y el importe de la prima de seguro.
+
+XII. Cantidad que debe pagarse por concepto de interés.
+
+XIII. Plazo para pago de refrendos, capital y/o de interés.
+
+XIV. Valor de remate asignado de común acuerdo al bien dado en prenda.
+
+XV. Término de vencimiento del préstamo; y,
+
+XVI. Firma de la persona autorizada por la casa de empeño y del prestatario.
+
+###### Artículo 31.
+
+Las Casas de Empeño tienen la obligación de proporcionar al pignorante, al momento de formalizar la operación, copia del respectivo contrato, sin espacios en blanco y debidamente firmado por ambas partes, así como original de la boleta de empeño.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 32.
+
+Los documentos que amparen la identidad del pignorante así como la propiedad del bien pignorado deben anexarse al contrato correspondiente en copia simple debidamente cotejada.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+### Capítulo VII. De las Notificaciones
+
+###### Artículo 52.
+
+Las notificaciones, citatorios, solicitud de informes o documentos y resoluciones administrativas podrán realizarse:
+
+I Personalmente con quién debe entenderse la diligencia, en el domicilio del interesado.
+
+II. Mediante oficio entregado por mensajero o correo certificado con acuse de recibo; o,
+
+III. Por edicto cuando a quién deba notificarse se ignore su domicilio.
+
+Tratándose de actos distintos a los señalados anteriormente, las notificaciones podrán realizarse por correo ordinario, mensajería haciendo constar los datos de la persona que confirme la recepción de la notificación por este último medio.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 53.
+
+Las notificaciones personales se harán en el domicilio señalado por el interesado o en su defecto en el domicilio donde se encuentre el establecimiento. En todo caso, el notificador debe cerciorarse del domicilio del interesado y debe entregar copia del acto que se notifique y señalar fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quién se entienda la diligencia.
+
+De toda diligencia de notificación personal se levantará acta circunstanciada firmada por las personas que intervengan y por dos testigos que nombre la persona con quien se entienda la diligencia, en el entendido, que el notificador o inspector podrá nombrarlos si la persona con quién se entiende, se niega a hacerlo.
+
+Si la persona con quién se entiende la diligencia se niega a firmar, se hará constar en el acta de notificación, sin que ello afecte su validez.
+
+Las notificaciones personales, se entenderán con la persona que debe ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará en el lugar más visible de éste.
+
+Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibir la notificación, o en caso de encontrarse cerrado el domicilio, se realizará por conducto del vecino más cercano a dicho domicilio.
+
+De las diligencias en que conste la notificación, el notificador tomará razón por escrito.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 54.
+
+Las notificaciones por edicto se realizarán haciendo publicaciones que contendrán un resumen de las resoluciones por notificar. Dichas publicaciones deben efectuarse por tres veces consecutivas en el Periódico Oficial y en uno de los diarios de mayor circulación en la ciudad en que se encuentre el domicilio del establecimiento de que se trate.
+
+###### Artículo 55.
+
+Las notificaciones personales surtirán sus efectos al día siguiente en que hubieren sido realizadas. Los plazos empezarán a correr a partir del día siguiente a aquel en que haya surtido efecto la notificación.
+
+Se tendrá como fecha de notificación por correo certificado la que conste en el acuse de recibo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 56.
+
+Toda notificación debe efectuarse en el plazo máximo de diez días hábiles a partir de la emisión de la resolución o acto que se notifique, y deberá contener el texto integro del acto, así como el fundamento en que se apoye.
+
+### Capítulo VIII. De los Recursos
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 57.
+
+En caso de inconformidad por la aplicación de alguna de las disposiciones o resoluciones contenidas en esta Ley, los permisionarios podrán interponer cualquier medio de defensa señalado en el Código de la Hacienda Pública para el Estado de Chiapas.
+
+## Transitorios
+
+Artículo Primero.- Esta ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las Casas de Empeño ya instaladas y que se encuentren funcionando en el Estado con anterioridad a la vigencia de este ordenamiento, deberán cumplir con las disposiciones de esta ley en un plazo que no exceda de los 60 días hábiles siguientes a la entrada en vigor de la ley.
+
+El Ejecutivo dispondrá se publique, circule y se dé el debido cumplimiento.
+
+Dado en el Salón de Sesiones del Honorable Congreso del Estado de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 27 días del mes de septiembre de dos mil siete.- D.P.C. Juan Antonio Castillejos Castellanos.- D.S.C. Noé López Corzo.- Rúbricas.
+
+De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintiocho días del mes de septiembre del año dos mil siete.
+
+Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### Artículo 33.
+
+Además de los datos contenidos en el artículo 30 de esta Ley, la boleta de empeño debe contener al reverso las declaraciones siguientes:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+I. Que el deudor prendario acepta el avalúo de la prenda practicado por el Valuador de la casa de empeño.
+
+II. Que la casa de empeño no se hace responsable de los daños y deterioros que por el transcurso del tiempo, caso fortuito o de fuerza mayor, sufran las prendas empeñadas durante el almacenamiento. Tampoco será responsable del saneamiento en caso de evicción de las prendas que se rematen o vendan.
+
+III. Que en caso de pérdida de la prenda, la casa de empeño pagará al deudor prendario el importe (en efectivo) fijado por el avalúo practicado menos el préstamo, los intereses devengados y los gastos de almacenaje. Cuando haya faltantes parciales, el pago será proporcional.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+IV. Que para realizar el desempeño de las prendas se debe exhibir la boleta de empeño, pagar la cantidad prestada, los intereses devengados y los gastos de almacenaje. De no hacerlo, la casa de empeño procederá a su elección, al remate o venta en almoneda o extrajudicial. Si no ha sido vendida, el titular podrá rescatarla pagando su precio.
+
+V. Que la casa de empeño podrá hacer incrementos o decrementos del precio de la prenda en el tiempo y porcentaje que determine, con lo cual el deudor manifiesta su conformidad.
+
+VI. Que la tasa de interés por el préstamo otorgado será la que se señala en el anverso, la cual se calculará por mes nominal hasta el vencimiento del contrato.
+
+VII. Que el titular de la boleta de empeño tiene derecho a hacer el refrendo del contrato tres veces como máximo, previa entrega de la boleta de empeño y pago de los intereses devengados y de los gastos de almacenaje; y,
+
+VII. Las demás que considere pertinentes establecer el Permisionario y que previamente se encuentren previstas en el contrato de adhesión.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 34.
+
+Las casas de empeño deben registrar el contrato de prenda ante la Procuraduría Federal del Consumidor.
 
 ###### ARTÍCULO PRIMERO.
 
