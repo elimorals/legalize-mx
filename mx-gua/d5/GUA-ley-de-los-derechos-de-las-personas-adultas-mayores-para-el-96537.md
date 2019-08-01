@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-los-derechos-de-las-personas-adultas-mayores-para-el-965
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-08"
-last_updated: "2017-12-08"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de noviembre de 2013.
 
@@ -493,9 +493,13 @@ I. Prestar los servicios de asistencia y orientación jurídica en forma gratuit
 
 II. Realizar programas de prevención, atención y protección para las personas adultas mayores en situación de riesgo, desamparo, marginación, con discapacidad o sujetas a maltrato, para incorporarlas al núcleo familiar o albergarlas en instituciones adecuadas;
 
-III. Coadyuvar con la Procuraduría General de Justicia del Estado y las de las entidades federativas, en la atención y protección jurídica de las personas adultas mayores víctimas de cualquier delito;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-IV. Promover, a través de la Procuraduría en Materia de Asistencia Social, mediante la vía conciliatoria, la solución a la problemática familiar;
+III. Coadyuvar con la Fiscalía General del Estado de Guanajuato y las de las entidades federativas, en la atención y protección jurídica de las personas adultas mayores víctimas de cualquier delito;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+IV. Promover la solución a la problemática familiar;
 
 V. La atención y seguimiento de quejas, denuncias e informes, sobre la violación de los derechos de las personas adultas mayores, haciéndolos del conocimiento de las autoridades competentes y de ser procedente, ejercitar las acciones legales correspondientes;
 
@@ -523,11 +527,15 @@ XVI. Impulsar y promover el reconocimiento y ejercicio de los derechos de las pe
 
 XVII. Las demás que le otorgue la presente Ley u otras disposiciones legales.
 
-Atribuciones de la Comisión Estatal de Cultura Física y Deporte
+> <small>(REFORMADO ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Atribuciones de la Comisión de Deporte
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 17.
 
-La Comisión Estatal de Cultura Física y Deporte tendrá las siguientes atribuciones:
+La Comisión de Deporte del Estado de Guanajuato tendrá las siguientes atribuciones:
 
 I. Vigilar las instalaciones y espacios para la realización del deporte adaptado y de personas adultas mayores;
 
@@ -541,11 +549,15 @@ V. Brindar asesoría e información a las personas adultas mayores, asociaciones
 
 VI. Las demás que le otorgue la presente Ley u otras disposiciones legales.
 
-Atribuciones del Instituto de la Mujer Guanajuatense
+> <small>(REFORMADO ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Atribuciones del Instituto para las Mujeres Guanajuatenses
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 18.
 
-El Instituto de la Mujer Guanajuatense tendrá las siguientes atribuciones:
+El Instituto para las Mujeres Guanajuatenses tendrá las siguientes atribuciones:
 
 I. Promover, coordinar, operar y evaluar políticas y programas de apoyo para las mujeres adultas mayores y su bienestar social;
 
@@ -647,9 +659,13 @@ VI. El titular de la Secretaría de Desarrollo Económico Sustentable;
 
 VII. El Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, quien fungirá como secretario técnico;
 
-VIII. El Director General de la Comisión Estatal de Cultura Física y Deporte;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-IX. El Director General del Instituto de la Mujer Guanajuatense;
+VIII. El Director General de la Comisión de Deporte del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+IX. El Director General del Instituto para las Mujeres Guanajuatenses;
 
 X. El Procurador de los Derechos Humanos del Estado de Guanajuato; y
 
@@ -1174,3 +1190,49 @@ P.O. 8 DE DICIEMBRE DE 2017.
 Inicio de vigencia del Decreto
 
 Artículo Único. El presente Decreto entrará en vigor el 1 de enero de 2018.
+
+P.O. 1 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 90, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE DIVERSAS LEYES, PARA EL FORTALECIMIENTO DE LAS INSTITUCIONES ESPECIALIZADAS EN LA PROTECCIÓN Y RESTITUCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Adecuación orgánica de estructuras para la conformación de la Procuraduría
+
+Artículo Segundo. El Ejecutivo del Estado en un plazo no mayor a ciento ochenta días a partir de la entrada en vigencia del presente Decreto, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, como organismo público descentralizado, conforme a la estructura de la Procuraduría de Protección adscrita a la estructura orgánica del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato.
+
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la unidad administrativa del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, identificada como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, estarán a cargo del organismo público descentralizado de la administración pública estatal denominado como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Adecuaciones a reglamentos y decretos
+
+Artículo Tercero. El Ejecutivo del Estado en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigencia de este decreto deberá realizar las modificaciones a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de su vigencia.
+
+Instalación del Consejo Directivo de la Procuraduría Estatal de Protección
+
+Artículo Cuarto. El Consejo Directivo del organismo público descentralizado de la Administración Pública Estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato que se constituye mediante el presente Decreto, deberá instalarse dentro de los noventa días siguientes a que esté constituida ésta.
+
+Designación del titular de la Procuraduría Estatal de Protección
+
+Artículo Quinto. El Gobernador del Estado designará al titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, dentro de los treinta días siguientes a la conformación de ésta, en los términos del Artículo Segundo Transitorio.
+
+Instalación del Consejo Consultivo del Sistema para la Atención de las Familias Guanajuatenses
+
+Artículo Sexto. La integración e instalación del Consejo Consultivo del organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, deberá efectuarse dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, en los términos de lo dispuesto en el artículo 23 de la Ley sobre el Sistema Estatal de Asistencia Social que se reforma mediante el presente Decreto.
+
+Asignación de recursos a la Procuraduría Estatal de Protección
+
+Artículo Séptimo. La Secretaría de Finanzas y Administración definirá y aplicará los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a (sic) Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Los recursos presupuestales de la unidad administrativa del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato se reasignarán al organismo público descentralizado de la administración pública estatal denominada como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Asuntos en trámite
+
+Artículo Octavo. Los asuntos y la documentación vigente o en trámite ante los Centros Multidisciplinarios para la Atención Integral de la Violencia previstos en la Ley para Prevenir, Atender y Erradicar la Violencia en el Estado de Guanajuato, se turnarán según corresponda a su competencia, a los institutos municipales para las mujeres, a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, por conducto de las procuradurías auxiliares, o al Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, según corresponda a la naturaleza y estado en que se encuentren los asuntos relativos, para su seguimiento y conclusión.
+
+Procesos de entrega recepción
+
+Artículo Noveno. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato transferirá al organismo público descentralizado de la administración pública estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y a la Secretaría de Gobierno, respectivamente y desde el ámbito de las competencias que les correspondan conforme al presente Decreto, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato haya venido destinando para la atención de las funciones que desempeñaba la unidad administrativa de dicho organismo denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y de la unidad administrativa de dicho organismo denominada Secretaría Ejecutiva del Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato hasta antes de la entrada en vigencia del presente Decreto, a través de la entrega-recepción respectiva.
+
+El Comité Interno de entrega-recepción, para cada unidad administrativa, deberá quedar conformado dentro de los cuarenta y cinco días siguientes a la entrada en vigencia del presente Decreto, en el que participarán las unidades administrativas competentes del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, el órgano interno de control de éste, la unidad administrativa Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Secretaría de Gobierno y su órgano interno de control, la Secretaría de Finanzas, Inversión y Administración y de la Secretaría de la Transparencia y Rendición de Cuentas.
