@@ -4,7 +4,7 @@ identifier: "GUA-codigo-territorial-para-el-estado-y-los-municipios-de-89555"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-25"
-last_updated: "2018-10-10"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "GUA"
 
 CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE OCTUBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -5683,6 +5681,10 @@ Aparatos medidores
 
 Es obligatoria la instalación de aparatos medidores para la verificación del consumo del servicio público de agua para todos los usuarios. Al efecto, las tomas deberán instalarse en la entrada de los predios o establecimientos, y los medidores en lugares accesibles, junto a dicha entrada, en forma tal que se puedan llevar a cabo sin dificultad las lecturas de consumo, las pruebas de funcionamiento de los aparatos y, cuando sea necesario, el cambio de los medidores. Los usuarios cuidarán que no se deterioren los medidores.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Para aquellos desarrollos en condominio, para las viviendas construidas en privadas y para todos aquéllos que siendo varios usuarios se suministren de una toma común, deberá instalarse para cada vivienda o lote un medidor individual. Además, se les instalará un medidor patrón, a fin de contabilizar el agua entregada y la diferencia que existiera entre el volumen registrado en el medidor patrón y la suma de los consumos individuales se cargará al desarrollador conforme al importe que resulte, hasta la entrega de las obras de urbanización al Municipio.
+
 Instalación y operación de aparatos medidores
 
 ###### Artículo 319.
@@ -8834,3 +8836,19 @@ Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como 
 En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
 
 Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 89, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 318 DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; Y SE ADICIONA EL ARTÍCULO 19 BIS A LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia del decreto
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Actualización de los reglamentos municipales
+
+Artículo Segundo. Los ayuntamientos deberán actualizar los reglamentos y demás disposiciones a que se refiere este decreto, a más tardar en ciento ochenta días posteriores a su entrada en vigor.
+
+Programa de actualización de micro medición
+
+Artículo Tercero. Los organismos operadores contarán con un periodo de ciento ochenta días posteriores a la entrada en vigor del presente decreto para crear, impulsar e implementar un programa de actualización de micro medición para los usuarios que no cuenten con este servicio, generando acciones que faciliten la incorporación a este nuevo sistema.
