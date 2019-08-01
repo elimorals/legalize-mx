@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109822"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-11"
-last_updated: "2018-09-21"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de septiembre de 2015.
 
@@ -57,7 +57,9 @@ I. Reconocer a niñas, niños y adolescentes, como titulares de derechos en los 
 
 II. Garantizar el pleno ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes;
 
-III. Establecer las bases para el Sistema Estatal de Protección;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+III. Establecer las bases de los sistemas estatal y municipales de protección;
 
 IV. Establecer los principios rectores y criterios que orientarán la política pública en materia de derechos de niñas, niños y adolescentes, así como las facultades, competencias, concurrencia y bases de coordinación entre el Estado y los municipios y la actuación de los Poderes Legislativo y Judicial, y los organismos autónomos; y
 
@@ -69,7 +71,9 @@ Acciones y medidas de las autoridades
 
 Para garantizar la protección de los derechos de niñas, niños y adolescentes, las autoridades estatales y municipales, así como los organismos autónomos, realizarán acciones y tomarán medidas, de conformidad con los principios establecidos en la presente Ley. Para tal efecto, deberán:
 
-I. Garantizar un enfoque integral y transversal en el diseño y la instrumentación de políticas y programas en su ámbito de competencia;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos, de género, interculturalidad y no discriminación en el diseño y la instrumentación de políticas y programas de gobierno en su ámbito de competencia;
 
 II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez; y
 
@@ -449,21 +453,351 @@ VI. Las demás que les otorgue esta Ley u otros ordenamientos aplicables.
 
 ### Capítulo III. Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes
 
-Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Naturaleza de la Procuraduría de Protección
 
 ###### Artículo 27.
 
-Para una efectiva protección y restitución de los derechos de niñas, niños y adolescentes, el Sistema, cuenta con una Procuraduría de Protección.
+Se crea la Procuraduría de Protección como un organismo público descentralizado de la administración pública estatal con personalidad jurídica y patrimonio propios que tendrá por objeto la protección y restitución de los derechos de niñas, niños y adolescentes.
+
+La dirección y administración de la Procuraduría de Protección estará a cargo del Consejo Directivo y del titular de la Procuraduría de Protección.
+
+El control y vigilancia de la Procuraduría de Protección estará a cargo del órgano interno de control.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Atribuciones de la Procuraduría de Protección
+
+###### Artículo 27
+
+1. La Procuraduría de Protección tendrá las atribuciones siguientes:
+
+I. Procurar la protección integral de niñas, niños y adolescentes que prevé la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Constitución Política para el Estado de Guanajuato, esta Ley y demás disposiciones aplicables.
+
+Dicha protección integral deberá abarcar, por lo menos:
+
+a) Atención médica y psicológica;
+
+b) Seguimiento a las actividades académicas y entorno social y cultural; y
+
+c) La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia;
+
+II. Establecer contacto y trabajar conjuntamente con las autoridades administrativas y judiciales correspondientes para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes;
+
+III. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, en los casos en donde falte la representación originaria o así lo determine el órgano jurisdiccional o autoridad administrativa competente, sin perjuicio de las atribuciones que le correspondan al Ministerio Público; así como intervenir oficiosamente con representación coadyuvante en todos los procedimientos jurisdiccionales o administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables;
+
+IV. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia;
+
+V. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
+
+VI. Solicitar al Ministerio Público la imposición de medidas urgentes de protección especial contenidas en la Ley General y el Código Nacional de Procedimientos Penales, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes. El Ministerio Público deberá decretarlas a más tardar, dentro de las tres horas siguientes a la recepción de la solicitud.
+
+La Procuraduría de Protección podrá ordenar fundada y motivadamente, bajo su más estricta responsabilidad, la imposición de medidas urgentes de protección cuando las condiciones climatológicas, de medios de comunicación, de vías de comunicación o cualquier otra, impida realizar la solicitud al Ministerio Público, requiriendo, en su caso, el auxilio de las instituciones policiales competentes, quedando obligada a dar aviso al Ministerio Público de manera inmediata.
+
+En ambos supuestos, se deberá dar aviso inmediato de la imposición de la medida a la autoridad jurisdiccional competente, a fin de que ésta se pronuncie sobre la cancelación, ratificación o modificación de la medida impuesta;
+
+VII. Solicitar a la autoridad competente que se dicten los medios de apremio que procedan, en caso de incumplimiento de las medidas urgentes de protección;
+
+VIII. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones en favor de la atención, defensa y protección de niñas, niños y adolescentes;
+
+IX. Asesorar a las autoridades competentes para la aplicación de la presente Ley y a los sectores público, social y privado sobre el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes;
+
+X. Desarrollar los lineamientos y procedimientos para la restitución de los derechos de niñas, niños y adolescentes;
+
+XI. Coadyuvar con el Sistema en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento preadoptivo, así como para emitir los certificados de idoneidad;
+
+XII. Proporcionar y actualizar la información para integrar y sistematizar el Registro Nacional de Centros de Asistencia Social;
+
+XIII. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial;
+
+XIV. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos;
+
+XV. Recibir las solicitudes de adopción de las niñas, niños y adolescentes que se encuentren bajo su tutela;
+
+XVI. Realizar las valoraciones psicológica, económica, de trabajo social y todas aquéllas que sean necesarias para determinar la idoneidad de quienes soliciten la adopción, en los términos de lo dispuesto en las leyes aplicables;
+
+XVII. Emitir o negar la emisión de certificados de idoneidad, así como formular recomendaciones para posibilitar la adopción, por parte de las personas solicitantes;
+
+XVIII. Solicitar, para el cumplimento de sus atribuciones, el auxilio de autoridades estatales y municipales, las que estarán obligadas a proporcionarlo de conformidad con las disposiciones aplicables;
+
+XIX. Promover ante el órgano jurisdiccional o administrativo competente las acciones legales y administrativas conducentes, cuando se estime que el contenido de la información que difundan los medios de comunicación contraviene lo dispuesto por esta Ley y demás disposiciones aplicables, a efecto de promover el libre desarrollo armónico e integral de niñas, niños y adolescentes;
+
+XX. Ejercer la tutela de niñas, niños y adolescentes en los términos de las disposiciones legales aplicables;
+
+XXI. Capacitar, asesorar, fortalecer y supervisar a las autoridades de primer contacto con niñas, niños y adolescentes, en los términos de los programas y convenios de colaboración correspondientes;
+
+XXII. Colaborar y auxiliar a las autoridades laborales competentes en la vigilancia y aplicación de la legislación laboral aplicable a niñas, niños y adolescentes; y
+
+XXIII. Las demás que le otorgue esta Ley u otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Requisitos del titular de la Procuraduría de Protección
+
+###### Artículo 27
+
+2. El titular de la Procuraduría de Protección deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Tener cuando menos treinta y cinco años cumplidos al día de su designación;
+
+III. Contar con título profesional de Licenciatura en Derecho o su equivalente, así como con la correspondiente cédula profesional, expedidos y registrados legalmente;
+
+IV. Contar con al menos cinco años de experiencia en materia de procuración o impartición de justicia, asistencia social o defensa de niñas, niños y adolescentes;
+
+(NOTA: EL 27 DE SEPTIEMBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI, VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 96/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+V. NO HABER SIDO SENTENCIADO POR DELITO DOLOSO NI ESTAR SUJETO A PROCESO PENAL POR DELITO DOLOSO; y
+
+(NOTA: EL 27 DE SEPTIEMBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI, VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 96/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+VI. No estar suspendido NI HABER SIDO DESTITUIDO O INHABILITADO POR RESOLUCIÓN FIRME COMO SERVIDOR PÚBLICO NI ESTAR SUJETO A PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA, en los términos de las normas aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Designación del titular de la Procuraduría de Protección
+
+###### Artículo 27
+
+3. El titular de la Procuraduría de Protección será designado y removido libremente por el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Integración del Consejo Directivo de la Procuraduría de Protección
+
+###### Artículo 27
+
+4. El Consejo Directivo de la Procuraduría de Protección estará integrado por:
+
+I. El titular de la Secretaría de Desarrollo Social y Humano, quien asumirá la presidencia;
+
+II. El titular de la Secretaría de Educación;
+
+III. El titular de la Secretaría de Salud;
+
+IV. El titular de la Secretaría del Migrante y Enlace Internacional;
+
+V. El titular del Instituto Guanajuatense para las Personas con Discapacidad;
+
+VI. El titular del Instituto para las Mujeres Guanajuatenses;
+
+VII. El titular del Instituto Estatal de Capacitación;
+
+VIII. El titular de la Secretaría Ejecutiva del Sistema Estatal de Protección; y
+
+IX. El titular del Sistema.
+
+Los titulares de la Fiscalía General del Estado de Guanajuato, de la Procuraduría de los Derechos Humanos del Estado de Guanajuato, y de la Secretaría de la Transparencia y Rendición de Cuentas serán invitados permanentes a las sesiones del Consejo Directivo.
+
+Asimismo, a propuesta de su Presidente, podrá invitarse a las sesiones del Consejo Directivo a las personas cuyos conocimientos o experiencia profesional se considere valiosa, cuando se discuta un asunto o tema en particular.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Carácter honorífico del cargo
+
+###### Artículo 27
+
+5. El cargo de los integrantes del Consejo Directivo será honorífico, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Suplentes
+
+###### Artículo 27
+
+6. Los integrantes e invitados permanentes del Consejo Directivo serán suplidos en sus ausencias por los representantes que al efecto designen cada uno de ellos.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Secretaría técnica
+
+###### Artículo 27
+
+7. El Consejo Directivo contará con una secretaría técnica designada por éste, a propuesta del titular de la Procuraduría de Protección. Sus atribuciones estarán contenidas en el reglamento interior de la Procuraduría de Protección.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Derecho a voz y voto
+
+###### Artículo 27
+
+8. Los integrantes del Consejo Directivo tendrán derecho a voz y voto. Sus invitados solo tendrán derecho a voz.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Sesiones
+
+###### Artículo 27
+
+9. El Consejo Directivo deberá celebrar por lo menos cuatro sesiones ordinarias al año y las extraordinarias que se requieran a petición de su presidente, de la secretaría técnica o de la mayoría de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Quorum
+
+###### Artículo 27
+
+10. El Consejo Directivo sesionará con la mayoría de sus integrantes, en la que invariablemente deberán estar presentes su presidente y la secretaría técnica.
+
+Si no se integra el quorum a que se refiere el párrafo anterior, de inmediato el presidente emitirá una segunda convocatoria para celebrar la sesión dentro de los cinco días hábiles siguientes a la fecha programada para la primera sesión. Esta sesión será válida con los integrantes presentes, entre los que deberán estar tanto el presidente, como la secretaría técnica.
+
+El Consejo Directivo aprobará sus decisiones por mayoría de votos de los integrantes presentes. El presidente tendrá voto dirimente en caso de empate.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Reglamento interior
+
+###### Artículo 27
+
+11. El Consejo Directivo se regirá en su organización y funcionamiento, además de lo dispuesto por esta Ley, por el reglamento interior de la Procuraduría de Protección.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Atribuciones del Consejo Directivo
+
+###### Artículo 27
+
+12. El Consejo Directivo tendrá las atribuciones siguientes:
+
+I. Aprobar el programa operativo anual de la Procuraduría de Protección;
+
+II. Aprobar el anteproyecto del presupuesto de egresos de la Procuraduría de Protección;
+
+III. Aprobar los estados financieros de la Procuraduría de Protección;
+
+IV. Aprobar el proyecto de reglamento interior de la Procuraduría de Protección y remitirlo al ejecutivo para su expedición;
+
+V. Aprobar los manuales de organización, lineamientos, reglas de operación y manuales de procedimientos y servicios al público, a propuesta del titular de la Procuraduría de Protección;
+
+VI. Nombrar y remover a los titulares de las unidades administrativas de la Procuraduría de Protección, a propuesta del titular de la Procuraduría de Protección;
+
+VII. Autorizar la práctica de auditorías externas para vigilar la correcta aplicación de los recursos de la Procuraduría de Protección;
+
+VIII. Aprobar la suscripción de convenios de colaboración y coordinación con autoridades de los tres ámbitos de gobierno, así como con instituciones y organismos privados;
+
+IX. Autorizar actos y contratos en los términos de la Ley de Contrataciones Públicas para el Estado de Guanajuato;
+
+X. Autorizar actos de dominio sobre el patrimonio inmobiliario de la Procuraduría de Protección, sujetándose a las disposiciones aplicables;
+
+XI. Analizar y aprobar los informes periódicos que rinda el titular de la Procuraduría de Protección;
+
+XII. Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades que se hagan a favor de la Procuraduría de Protección;
+
+XIII. Aprobar la integración de comités y grupos de trabajo temporales; y
+
+XIV. Las demás que le otorgue esta Ley u otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Atribuciones del titular de la Procuraduría de Protección
+
+###### Artículo 27
+
+13. El titular de la Procuraduría de Protección tendrá las atribuciones siguientes:
+
+I. Ejecutar los acuerdos del Consejo Directivo;
+
+II. Presentar al Consejo Directivo los informes y estados financieros, así como las observaciones y recomendaciones del órgano interno de control y, en su caso, de los auditores externos;
+
+III. Presentar para conocimiento y aprobación del Consejo Directivo, los programas de trabajo, presupuestos, informes de actividades y estados financieros anuales de la Procuraduría de Protección;
+
+IV. Proponer al Consejo Directivo el nombramiento y remoción de los titulares de las unidades administrativas de la Procuraduría de Protección;
+
+V. Expedir o autorizar los nombramientos del personal y conducir las relaciones laborales de acuerdo con las disposiciones legales aplicables;
+
+VI. Celebrar convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos de la Procuraduría de Protección, aprobados previamente por el Consejo Directivo;
+
+VII. Representar jurídicamente a la Procuraduría de Protección como apoderado general para pleitos y cobranzas, con facultades de administración y aquéllas que requieran cláusula especial de acuerdo con la Ley y delegar o sustituir esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente; así como para ejercer actos de dominio, con autorización expresa del Consejo Directivo;
+
+VIII. Formular los proyectos de reformas al reglamento interior y demás instrumentos normativos que competan a la Procuraduría de Protección, y someterlos para su aprobación al Consejo Directivo;
+
+IX. Autorizar constancias y certificar copias de los documentos originales que obran en los archivos de la Procuraduría de Protección; y
+
+X. Las demás que le otorgue esta Ley u otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Órgano interno de control
+
+###### Artículo 27
+
+14. El órgano interno de control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros de la Procuraduría de Protección, con el fin de determinar su correcto desempeño.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Atribuciones del órgano interno de control
+
+###### Artículo 27
+
+15. El órgano interno de control tendrá las atribuciones siguientes:
+
+I. Inspeccionar el ejercicio del gasto público de la Procuraduría de Protección y su congruencia con el presupuesto de egresos y validar los indicadores para la evaluación del funcionamiento y operación de la Procuraduría de Protección, en los términos de las disposiciones aplicables;
+
+II. Proponer las normas que regulen los instrumentos y procedimientos de control interno de la Procuraduría de Protección. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+III. Establecer las bases generales para la realización de auditorías internas y externas; así como proponer las normas que regulen los instrumentos y procedimientos en dichas materias;
+
+IV. Realizar auditorías, revisiones y evaluaciones, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
+
+V. Fiscalizar que la Procuraduría de Protección cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
+
+VI. Designar y remover a los titulares de las áreas a su cargo, quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los tribunales estatales, representando al titular de la Procuraduría de Protección;
+
+VII. Llevar y normar el registro de servidores públicos de la Procuraduría de Protección; recibir y registrar las declaraciones patrimoniales y de intereses, así como la constancia de declaración fiscal que deban presentar; y verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, hayan sido impuestas;
+
+VIII. Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con la Procuraduría de Protección, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
+
+IX. Establecer y conducir la política general de las contrataciones públicas reguladas por la Ley de Contrataciones Públicas para el Estado de Guanajuato y la Ley de Obra Pública y Servicios relacionados con la misma para el Estado y los Municipios de Guanajuato, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; así como emitir los lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de dichas contrataciones públicas;
+
+X. Definir la política de gestión digital y datos abiertos en el ámbito de la Procuraduría de Protección;
+
+XI. Ejercer las facultades que la Constitución le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos; y
+
+XII. Conocer e investigar las conductas de los servidores públicos de la Procuraduría de Protección que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la ley de responsabilidades aplicable, así como realizar la defensa jurídica de sus resoluciones; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa y cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2019)</small>
+
+### Capítulo IV. Del Cuerpo Especializado de Seguridad
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Del Cuerpo Especializado de Seguridad
+
+###### Artículo 27
+
+16. La Procuraduría de Protección, para el ejercicio de sus atribuciones contará con un Cuerpo Especializado de Seguridad adscrito a la Secretaría de Seguridad Pública, con la finalidad de prevenir e investigar las afectaciones a derechos de niños, niñas y adolescentes.
+
+Los elementos del Cuerpo Especializado de Seguridad actuarán bajo el mando directo del titular de la Procuraduría de Protección.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Requisitos de los elementos del Cuerpo Especializado
+
+###### Artículo 27
+
+17. Los requisitos de ingreso y permanencia para ser elemento del Cuerpo Especializado de Seguridad serán los mismos que se establecen en el artículo 80 de la Ley del Sistema de Seguridad Pública del Estado de Guanajuato, salvo lo referente al grado de estudios, para lo cual será necesario la especialización para el tratamiento de hechos relacionados con niños, niñas y adolescentes, la cual será acreditada con la condición de:
+
+I. Ser pasante o licenciado en Derecho, Psicología o carrera afín; y
+
+II. Haber cursado y aprobado el curso de especialización respectivo.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+investigación por la afectación de derechos
+
+###### Artículo 27
+
+18. Cuando la Procuraduría de Protección tenga información sobre un posible riesgo, amenaza, afectación restricción o vulneración de los derechos de un niño, niña, o adolescente, podrá solicitar al personal del cuerpo especializado de seguridad que realicen la investigación que sea necesaria para diagnosticar la situación de sus derechos.
+
+La Procuraduría de Protección en conjunto con el cuerpo especializado de seguridad creará los mecanismos de investigación, necesarios y eficaces, para identificar oportunamente y prevenir conductas tipificadas como delito.
+
+## Título Segundo. Derechos y deberes de Niñas, Niños y Adolescentes
 
 ### Capítulo I. Derechos de Niñas, Niños y Adolescentes
 
 Derechos de niñas, niños y adolescentes
-
-## Título Segundo. Derechos y deberes de Niñas, Niños y Adolescentes
-
-### Capítulo II. Derecho a la vida, a la supervivencia y al desarrollo
-
-Derecho a la vida, a la supervivencia y al desarrollo
 
 ###### Artículo 28.
 
@@ -515,9 +849,9 @@ Los derechos de niñas, niños y adolescentes se ejercerán conforme a su edad, 
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin menoscabo de ningún tipo o condición; en aquellos de competencia federal, se coordinará con el ámbito que señalen las disposiciones aplicables.
 
-### Capítulo III. Derecho de Prioridad
+### Capítulo II. Derecho a la vida, a la supervivencia y al desarrollo
 
-Derecho de Prioridad
+Derecho a la vida, a la supervivencia y al desarrollo
 
 ###### Artículo 29.
 
@@ -531,13 +865,15 @@ Niñas, niños y adolescentes deberán disfrutar de una vida plena y a vivir en 
 
 No privación de la vida
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 31.
 
-Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, ni a ser utilizados en conflictos armados o violentos, ni ser utilizados en los mismos.
+Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos.
 
-### Capítulo IV. Derecho a la Identidad
+### Capítulo III. Derecho de Prioridad
 
-Derecho a la identidad
+Derecho de Prioridad
 
 ###### Artículo 32.
 
@@ -549,9 +885,9 @@ II. Se les atienda antes que a las personas adultas en todos los servicios, en i
 
 III. Se les considere para el diseño y ejecución de las políticas públicas necesarias para la protección de sus derechos.
 
-### Capítulo V. Derecho a vivir en familia
+### Capítulo IV. Derecho a la Identidad
 
-Derecho a vivir en familia
+Derecho a la identidad
 
 ###### Artículo 33.
 
@@ -577,9 +913,9 @@ Niñas, niños y adolescentes de nacionalidad extranjera que se encuentren en te
 
 En los casos en que niñas, niños y adolescentes cumplan con los requisitos para obtener la nacionalidad mexicana, se les brindarán todas las facilidades a efecto de darles un trato prioritario.
 
-### Capítulo VI. Derecho a la Igualdad
+### Capítulo V. Derecho a vivir en familia
 
-Derecho a la Igualdad
+Derecho a vivir en familia
 
 ###### Artículo 35.
 
@@ -631,9 +967,9 @@ Otorgamiento de medidas especiales de protección
 
 El Sistema Estatal de Protección deberá otorgar medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
 
-### Capítulo VII. Derecho a no ser Discriminado
+### Capítulo VI. Derecho a la Igualdad
 
-Derecho a la no discriminación
+Derecho a la Igualdad
 
 ###### Artículo 42.
 
@@ -641,13 +977,15 @@ Niñas, niños y adolescentes tienen derecho al acceso al mismo trato y oportuni
 
 Progresividad normativa en materia de igualdad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 43.
 
-Las normas aplicables a las niñas y a las adolescentes deberán estar dirigidas a visibilizar, promover, respetar, proteger y garantizar en todo momento sus derechos en aras de alcanzar la igualdad entre ellas y en general, con toda la sociedad.
+Las normas aplicables a las niñas y a las adolescentes deberán estar dirigidas a visibilizar, promover, respetar, proteger y garantizar en todo momento sus derechos en aras de alcanzar la igualdad entre ellas, con respecto a los niños y los adolescentes y, en general, con toda la sociedad.
 
-### Capítulo VIII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral
+### Capítulo VII. Derecho a no ser Discriminado
 
-Derecho a un medio ambiente sano
+Derecho a la no discriminación
 
 ###### Artículo 44.
 
@@ -665,13 +1003,15 @@ Dichos reportes deberán desagregar la información, por lo menos, en razón de 
 
 Medidas de eliminación de usos, costumbres, prácticas culturales o discriminatorias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 46.
 
-Las autoridades estatales y municipales, adoptarán las medidas para la eliminación de usos, costumbres o prácticas culturales que atenten contra la igualdad de niñas, niños y adolescentes o que promuevan cualquier tipo de discriminación, atendiendo al interés superior de la niñez.
+Las autoridades estatales y municipales adoptarán medidas para la eliminación de usos, costumbres, prácticas culturales o religiosas, estereotipos sexistas o prejuicios que atenten contra la igualdad de niñas, niños y adolescentes por razón de género, o que promuevan cualquier tipo de discriminación, atendiendo al interés superior de la niñez.
 
-### Capítulo IX. Derecho de acceso a una vida libre de violencia y a la integridad personal
+### Capítulo VIII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral
 
-Derecho a una vida libre de violencia
+Derecho a un medio ambiente sano
 
 ###### Artículo 47.
 
@@ -679,17 +1019,9 @@ Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y
 
 Corresponde en principio y directamente a quienes ejerzan la patria potestad, tutela, guarda o custodia de niñas, niños y adolescentes, proporcionar en la medida de sus posibilidades, las condiciones de vida suficientes para su desarrollo integral. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas a través de las instituciones y programas establecidos.
 
-### Capítulo VI (SIC). Derecho a la Igualdad
+### Capítulo IX. Derecho de acceso a una vida libre de violencia y a la integridad personal
 
-Derecho a la Igualdad
-
-Artículo 42 (SIC). Niñas, niños y adolescentes tienen derecho al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales. Las autoridades estatales y municipales, así como los organismos autónomos, implementarán políticas públicas transversales que garanticen y fomenten la igualdad en favor de los mismos.
-
-Progresividad normativa en materia de igualdad
-
-Artículo 43 (SIC). Las normas aplicables a las niñas y a las adolescentes deberán estar dirigidas a visibilizar, promover, respetar, proteger y garantizar en todo momento sus derechos en aras de alcanzar la igualdad entre ellas y en general, con toda la sociedad.
-
-Salud materno-infantil y esperanza de vida
+Derecho a una vida libre de violencia
 
 ###### Artículo 48.
 
@@ -707,25 +1039,33 @@ Otorgamiento de medidas especiales de protección
 
 Artículo 41 (SIC). El Sistema Estatal de Protección deberá otorgar medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
 
-### Capítulo XI. Derecho a la inclusión de Niñas, Niños y Adolescentes con Discapacidad
+### Capítulo VI (SIC). Derecho a la Igualdad
 
-Derecho a la igualdad e inclusión por condiciones de discapacidad
+Derecho a la Igualdad
+
+Artículo 42 (SIC). Niñas, niños y adolescentes tienen derecho al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales. Las autoridades estatales y municipales, así como los organismos autónomos, implementarán políticas públicas transversales que garanticen y fomenten la igualdad en favor de los mismos.
+
+Progresividad normativa en materia de igualdad
+
+Artículo 43 (SIC). Las normas aplicables a las niñas y a las adolescentes deberán estar dirigidas a visibilizar, promover, respetar, proteger y garantizar en todo momento sus derechos en aras de alcanzar la igualdad entre ellas y en general, con toda la sociedad.
+
+Salud materno-infantil y esperanza de vida
 
 ###### Artículo 53.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materno infantil y aumentar la esperanza de vida, en los términos de la Ley General de Salud.
 
-### Capítulo XII. Derecho a la Educación
+### Capítulo XI. Derecho a la inclusión de Niñas, Niños y Adolescentes con Discapacidad
 
-Derecho a la educación
+Derecho a la igualdad e inclusión por condiciones de discapacidad
 
 ###### Artículo 54.
 
 Las niñas, niños y adolescentes con discapacidad tienen derecho a la igualdad, a vivir incluidos en la comunidad en igualdad de condiciones que las demás niñas, niños y adolescentes y a disfrutar de los derechos contenidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales la Constitución Política para el Estado de Guanajuato, y la Ley de Inclusión para las Personas con Discapacidad en el Estado de Guanajuato.
 
-### Capítulo XIII. Derecho al Descanso y al Esparcimiento
+### Capítulo XII. Derecho a la Educación
 
-Derecho al esparcimiento
+Derecho a la educación
 
 ###### Artículo 55.
 
@@ -733,9 +1073,9 @@ Las niñas, niños y adolescentes, tienen derecho a una educación de calidad qu
 
 Quienes ejerzan la patria potestad o tutela tienen derecho a participar en el proceso de educación de niñas, niños y adolescentes en los términos que dispone la Ley de Educación para el Estado de Guanajuato, esta Ley y demás disposiciones aplicables.
 
-### Capítulo XIV. Derecho a la Libertad de Pensamiento, Conciencia, Religión y Cultura
+### Capítulo XIII. Derecho al Descanso y al Esparcimiento
 
-Derecho al ejercicio de las libertades de pensamiento, conciencia, religión y cultura
+Derecho al esparcimiento
 
 ###### Artículo 56.
 
@@ -743,9 +1083,9 @@ Las niñas, niños y adolescentes tienen derecho al descanso, al esparcimiento, 
 
 Quienes ejerzan la patria potestad, tutela, guarda o custodia de las niñas, niños y adolescentes deberán cuidar que el ejercicio de estos derechos no impida su adecuada preparación, formación y educación, por lo que deberán establecer regímenes de vida, estudio, trabajo y reglas de disciplina adecuadas a su edad, desarrollo evolutivo, cognoscitivo y madurez, para logar dicho objetivo.
 
-### Capítulo XV. Derechos a la Libertad de Expresión y de Acceso a la Información
+### Capítulo XIV. Derecho a la Libertad de Pensamiento, Conciencia, Religión y Cultura
 
-Libertad de expresión
+Derecho al ejercicio de las libertades de pensamiento, conciencia, religión y cultura
 
 ###### Artículo 57.
 
@@ -761,11 +1101,11 @@ Identidad cultural
 
 Las niñas, niños y adolescentes tienen derecho a disfrutar libremente de su lengua, cultura, usos, costumbres, prácticas culturales, religión, recursos y formas específicas de organización social y todos los elementos que constituyan su identidad cultural, así como al acceso a espacios culturales y a expresar sus manifestaciones culturales de acuerdo a sus propios intereses y expectativas.
 
-### Capítulo XVI. Derecho a la Participación
+### Capítulo XV. Derechos a la Libertad de Expresión y de Acceso a la Información
 
-Derecho a la participación
+Libertad de expresión
 
-###### Articulo 59.
+###### Artículo 59.
 
 Las niñas, niños y adolescentes tienen derecho a expresar por cualquier medio, libremente sus pensamientos, ideas u opiniones, tanto en el ámbito público como privado. El ejercicio de este derecho se llevará a cabo conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, y no tendrá más límites que los establecidos en la Ley. Los padres o quienes ejerzan la patria potestad, tutela, guarda o custodia tienen el deber de orientar a niñas, niños y adolescentes en el ejercicio de este derecho a fin de que contribuya a su desarrollo integral.
 
@@ -807,9 +1147,9 @@ V. El enfoque de inclusión, igualdad, no discriminación y respeto de sus derec
 
 VI. Los demás que sean acordes a los fines y principios establecidos en esta Ley.
 
-### Capítulo XVII. Derecho de Asociación o Reunión
+### Capítulo XVI. Derecho a la Participación
 
-Derecho de asociación o reunión
+Derecho a la participación
 
 ###### Artículo 63.
 
@@ -833,9 +1173,9 @@ Derecho a la información
 
 Las niñas, niños y adolescentes tienen derecho a que las autoridades estatales y municipales, les informen de qué manera su opinión ha sido valorada y tomada en cuenta su solicitud, en los procesos de participación en los que hayan intervenido.
 
-### Capítulo XVIII. Derecho a la Intimidad
+### Capítulo XVII. Derecho de Asociación o Reunión
 
-Derecho a la intimidad
+Derecho de asociación o reunión
 
 ###### Artículo 67.
 
@@ -843,9 +1183,9 @@ Las niñas, niños y adolescentes tienen derecho a asociarse o reunirse, sin má
 
 Quienes ejerzan la patria potestad, tutela, guarda o custodia representarán a niñas, niños y adolescentes para el ejercicio del derecho de asociación, cuando ello sea necesario para satisfacer las formalidades legales.
 
-### Capítulo XIX. Derecho a la Seguridad Jurídica y al Debido Proceso
+### Capítulo XVIII. Derecho a la Intimidad
 
-Derecho a la seguridad jurídica y al debido proceso
+Derecho a la intimidad
 
 ###### Artículo 68.
 
@@ -887,9 +1227,9 @@ En caso de incumplimiento a lo establecido en el presente artículo, las niñas,
 
 Las niñas, niños y adolescentes afectados podrán solicitar la intervención de la Procuraduría de Protección.
 
-### Capítulo XX. Niñas, niños y adolescentes Migrantes
+### Capítulo XIX. Derecho a la Seguridad Jurídica y al Debido Proceso
 
-Derechos de las niñas, niños y adolescentes migrantes
+Derecho a la seguridad jurídica y al debido proceso
 
 ###### Artículo 73.
 
@@ -909,9 +1249,9 @@ Deber de notificación
 
 Siempre que se encuentre alguna niña, niño y adolescente en el contexto de la comisión de un delito, se notificará de inmediato a quienes ejerzan sobre el la patria potestad, tutela, guarda o custodia, así como a la Procuraduría de Protección.
 
-### Capítulo XXI. Deberes de Niñas, Niños y Adolescentes
+### Capítulo XX. Niñas, niños y adolescentes Migrantes
 
-Deberes de niñas, niños y adolescentes
+Derechos de las niñas, niños y adolescentes migrantes
 
 ###### Artículo 76.
 
@@ -921,11 +1261,13 @@ Las autoridades estatales y municipales, en el marco de sus respectivas competen
 
 El Sistema y los Sistemas Municipales brindarán en el ámbito de sus competencias los servicios correspondientes a niñas, niños y adolescentes en situación de migración, independientemente de su nacionalidad o su situación migratoria, debiendo garantizar el principio del interés superior de la niñez y los estándares internacionales en la materia.
 
-Medidas de protección establecidas por los Sistemas
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Medidas de protección
 
 ###### Artículo 77.
 
-El Sistema y los Sistemas Municipales, una vez en contacto con niñas, niños y adolescentes a que se refiere éste capítulo, adoptarán las medidas para la protección de sus derechos. En consecuencia, darán una solución que resuelva todas sus necesidades de protección, teniendo en cuenta sus opiniones y privilegiando la reunificación familiar, excepto que sea contrario a su interés superior o voluntad. Sobre el dictado de las medidas se informará al titular de la Procuraduría de Protección, así como al Instituto Nacional de Migración, para los efectos conducentes.
+La Procuraduría de Protección, el Sistema y los Sistemas Municipales, una vez en contacto con niñas, niños y adolescentes migrantes, adoptarán las medidas para la protección de sus derechos. En consecuencia, darán una solución que resuelva todas sus necesidades de protección, se tomarán en cuenta sus opiniones y se privilegiará la reunificación familiar, excepto que sea contrario a su interés superior o voluntad. Sobre el dictado de las medidas se informará al Instituto Nacional de Migración, para los efectos conducentes.
 
 Espacios de alojamiento o albergues
 
@@ -953,19 +1295,29 @@ La decisión sobre la devolución de niñas, niños y adolescentes al país de o
 
 Comunicación entre autoridades y medidas de protección integral
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 82.
 
-En caso de que el Sistema y los Sistemas Municipales identifiquen, mediante una evaluación inicial, a niñas, niños y adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración a fin de adoptar medidas de protección integral.
+En caso de que la Procuraduría de Protección, el Sistema y los Sistemas Municipales identifiquen, mediante una evaluación inicial, a niñas, niños y adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración a fin de adoptar medidas de protección integral.
 
-El Sistema, en coordinación con el Instituto Nacional de Migración, deberá identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiado o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado mediante la adopción de medidas de protección integral.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-El Sistema coadyuvará con el Sistema Nacional DIF, con la información que posea en el momento en que se genere a fin de que se incorpore en las bases de datos de las niñas, niños y adolescentes migrantes no acompañados.
+La Procuraduría de Protección y el Sistema, en coordinación con el Instituto Nacional de Migración, deberán identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiado (sic) o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado mediante la adopción de medidas de protección integral.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+La Procuraduría de Protección y el Sistema coadyuvarán con el Sistema Nacional DIF, con la información que posean en el momento en que se genere a fin de que se incorpore en las bases de datos de las niñas, niños y adolescentes migrantes no acompañados.
 
 Situación migratoria irregular
 
 ###### Artículo 83.
 
 En ningún caso una situación migratoria irregular de niñas, niños y adolescentes, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
+
+### Capítulo XXI. Deberes de Niñas, Niños y Adolescentes
+
+Deberes de niñas, niños y adolescentes
 
 ### Capítulo Único. Obligaciones de quienes ejercen la patria potestad, tutela, guarda o custodia de Niñas, Niños y Adolescentes
 
@@ -975,9 +1327,7 @@ Asistencia a quienes ejerzan la patria potestad, tutela, guarda o custodia de ni
 
 Centros de Asistencia Social
 
-### Capítulo I. Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes
-
-Integrantes del Sistema
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 84.
 
@@ -1003,9 +1353,11 @@ La familia, la sociedad y el estado deberán realizar las acciones que permitan 
 
 ## Título Tercero. Obligaciones
 
-### Capítulo II. Secretaría Ejecutiva
+### Capítulo I. Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes
 
-Atribuciones de la Secretaría Ejecutiva
+> <small>(REFORMADO SU ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Integrantes del Sistema Estatal de Protección
 
 ###### Artículo 85.
 
@@ -1055,25 +1407,143 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## Título Cuarto. Protección de Niñas, Niños y Adolescentes
 
-### Capítulo III. Atribuciones del Sistema Estatal de Protección
+### Capítulo II. Secretaría Ejecutiva
 
-Atribuciones del Sistema Estatal de Protección
+Atribuciones de la Secretaría Ejecutiva
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 89.
 
-Los centros de asistencia social son los establecimientos, lugares o espacios de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones, y estarán administradas por una institución pública o privada en los términos de lo que disponga para tal efecto la Ley de Organizaciones de Asistencia Social para el Estado de Guanajuato, y demás disposiciones aplicables.
+Los centros de asistencia social serán administrados por una institución pública o privada, o por una asociación que brinde el servicio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar.
 
-Requerimientos físicos de los Centros de Asistencia Social
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Requisitos de las instalaciones de los centros de asistencia social
 
 ###### Artículo 90.
 
-Los centros de asistencia social deberán establecer la organización de sus espacios físicos conforme a lo que establece la Ley de Organizaciones de Asistencia Social para el Estado de Guanajuato, y demás disposiciones aplicables.
+Las instalaciones de los centros de asistencia social observarán, además de lo señalado en la legislación aplicable, los siguientes requisitos:
+
+I. Contar con infraestructura inmobiliaria que cumpla con las dimensiones físicas acordes a los servicios que proporcionan y con las medidas de seguridad y protección civil en términos de la legislación aplicable;
+
+II. Cumplir con las condiciones de accesibilidad y diseño universal, en términos de la legislación aplicable;
+
+III. Cumplir con medidas de seguridad, protección y vigilancia necesarias para garantizar la comodidad, higiene y espacio idóneo de acuerdo a la edad, sexo o condición física o mental de niñas, niños y adolescentes alojados, de manera tal que se permita un entorno afectivo y libre de violencia, en los términos de las disposiciones aplicables;
+
+IV. Alojar y agrupar a niñas, niños y adolescentes de acuerdo a su edad y sexo en las áreas de dormitorios, sin que por ningún motivo éstos puedan ser compartidos por adultos, salvo que necesiten ser asistidos;
+
+V. Contar con espacios destinados especialmente para cada una de las actividades en las que participen niñas, niños y adolescentes;
+
+VI. Atender los requerimientos establecidos por las autoridades de protección civil, salud y asistencia social; y
+
+VII. Procurar un entorno que provea los apoyos necesarios para que niñas, niños y adolescentes con discapacidad vivan incluidos en su comunidad.
+
+Niñas, niños y adolescentes con discapacidad temporal o permanente, sin distinción entre motivo o grado de discapacidad, no deberán ser discriminados para ser recibidos o permanecer en los centros de asistencia social.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Servicios de los centros de asistencia social
+
+###### Artículo 90
+
+1. Todo centro de asistencia social es responsable de garantizar la integridad física y psicológica de las niñas, niños y adolescentes que tengan bajo su custodia y que en la atención que se les brinde se tomen en cuenta sus necesidades.
+
+En cumplimiento a los derechos de las niñas, niños y adolescentes, los servicios que presten los centros de asistencia social deberán orientarse a brindar, en especial:
+
+I. Un entorno seguro, afectivo y libre de violencia;
+
+II. Cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica;
+
+III. Alimentación que les permita tener una nutrición equilibrada y que cuente con una certificación periódica;
+
+IV. Atención integral y multidisciplinaria que les brinde servicio médico, seguimiento psicológico, social, jurídico, entre otros;
+
+V. Orientación y educación apropiada a su edad, encaminadas a lograr un desarrollo físico, cognitivo, afectivo y social hasta el máximo de sus posibilidades, así como a la comprensión y el ejercicio de sus derechos;
+
+VI. Descanso, recreación, juego, esparcimiento y actividades que favorezcan su desarrollo integral;
+
+VII. Calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez;
+
+VIII. Espacios de participación para expresar libremente sus ideas y opiniones sobre los asuntos que les atañen y que dichas opiniones sean tomadas en cuenta;
+
+IX. La posibilidad de realizar actividades externas que les permitan tener contacto con su comunidad; y
+
+X. La inclusión de las niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable.
+
+Las personas responsables y el personal de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes tenga contacto con éstos.
+
+Con la finalidad de brindar a niñas, niños y adolescentes mejores alternativas de protección de sus derechos, se deberá llevar a cabo la revisión periódica de su situación, la de su familia y de la medida especial de protección por la cual ingresó al centro de asistencia social, garantizando el contacto con su familia y personas significativas siempre que esto sea posible, atendiendo a su interés superior.
+
+La niña, niño o adolescente deberá contar con expediente completo para efectos de que su situación sea revisada y valorada de manera particular, así como para determinar procedimientos de ingreso y egreso con el apoyo de las autoridades competentes que faciliten su reincorporación familiar o social. Asimismo, se le deberá garantizar la protección de sus datos personales conforme a la legislación de la materia.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Personal de los centros de asistencia social
+
+###### Artículo 90
+
+2. Los centros de asistencia social deberán contar, por lo menos, con el siguiente personal:
+
+I. Coordinador o Director; y
+
+II. Especialistas en proporcionar atención en actividades de estimulación, formación, promoción y autocuidado de la salud; atención médica; y actividades de orientación social y de promoción de la cultura de protección civil, conforme a las disposiciones aplicables.
+
+El número de personas que presten sus servicios en cada centro de asistencia social será determinado en función de la capacidad económica de éstos, así como del número de niñas, niños y adolescentes que tengan bajo su custodia en forma directa e indirecta, debiendo contar con, por lo menos, una persona de atención por cada cuatro niños o niñas menores de un año, y una persona de atención por cada ocho mayores de esa edad.
+
+Además del personal señalado en el presente artículo, el centro de asistencia social podrá solicitar la colaboración de instituciones, organizaciones o dependencias que brinden apoyo en psicología, trabajo social, derecho, pedagogía y otros para el cuidado integral de las niñas, niños y adolescentes.
+
+Los centros de asistencia social deberán proporcionar, de manera permanente, capacitación y formación especializada a su personal, así como supervisarlos y evaluarlos de manera periódica.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Obligaciones del coordinador o director del centro de asistencia social
+
+###### Artículo 90
+
+3. Son obligaciones del coordinador o director del centro de asistencia social:
+
+I. Garantizar el cumplimiento de los requisitos establecidos por esta Ley y demás disposiciones aplicables para el funcionamiento de los centros de asistencia social;
+
+II. Llevar un registro de niñas, niños y adolescentes bajo su custodia con la información de la situación jurídica en la que se encuentren, y remitirlo semestralmente a la Procuraduría de Protección;
+
+III. Asegurar que las instalaciones tengan en lugar visible la constancia de registro de incorporación al Registro Nacional de Centros de Asistencia Social;
+
+IV. Garantizar que el centro de asistencia social cuente con un reglamento interno;
+
+V. Contar con un programa interno de protección civil en términos de las disposiciones aplicables;
+
+VI. Brindar las facilidades a la Procuraduría de Protección para que realice la verificación periódica que corresponda en términos de las disposiciones aplicables y, en su caso, atender sus recomendaciones.
+
+Esta verificación deberá observar el seguimiento de la situación jurídica y social, así como la atención médica y psicológica de la niña, niño o adolescente y el proceso de reincorporación familiar o social;
+
+VII. Informar oportunamente a la autoridad competente cuando el ingreso de una niña, niño o adolescente corresponda a una situación distinta de la derivación por parte de una autoridad o tenga conocimiento de que peligra su integridad física estando bajo su custodia, a fin de iniciar los procedimientos de protección especial de forma oportuna, identificar la mejor solución para el niño, niña o adolescente y, en su caso, evitar su permanencia en el centro de asistencia social, dado su carácter de último recurso y excepcional;
+
+VIII. Proporcionar a niñas, niños y adolescentes bajo su custodia, a través de personal capacitado, atención médica;
+
+IX. Dar puntual seguimiento a las recomendaciones emitidas por las autoridades competentes;
+
+X. Realizar acciones específicas para fortalecer la profesionalización del personal de los centros de asistencia social; y
+
+XI. Dar vista al Ministerio Público cuando se tenga conocimiento de la comisión de un delito en los centros de asistencia social; y
+
+XII. Las demás que le otorgue esta Ley u otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Autorización, registro, certificación y supervisión
+
+###### Artículo 90
+
+4. La Procuraduría de Protección, en coordinación con la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, es la autoridad competente para autorizar, registrar, certificar y supervisar los centros de asistencia social y, en su caso, ejercitar las acciones legales que correspondan por el incumplimiento de los requisitos establecidos en términos de la Ley General y la presente Ley.
+
+La Procuraduría de Protección hará público y consultable en la página de internet del Sistema, el registro de los centros de asistencia social a los que se refiere esta Ley.
 
 ## Título Quinto. Protección y restitución integral de los derechos de las Niñas, Niños y Adolescentes
 
-### Capítulo IV. Sistemas Municipales de Protección
+### Capítulo III. Atribuciones del Sistema Estatal de Protección
 
-Integración de los Sistemas Municipales de Protección
+Atribuciones del Sistema Estatal de Protección
 
 ###### Artículo 91.
 
@@ -1091,7 +1561,9 @@ V. El Titular de la Secretaría de Salud;
 
 VI. El Titular de la Secretaría de Seguridad Pública;
 
-VII. El Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+VII. El Fiscal General del Estado de Guanajuato;
 
 VIII. El titular del Instituto Guanajuatense para las Personas con Discapacidad;
 
@@ -1109,9 +1581,11 @@ XIII. El Director General del Sistema Estatal para el Desarrollo Integral de la 
 
 XIV. Tres representantes de la sociedad civil, designados por el Gobernador en los términos de la convocatoria que para tal efecto se emita, y de conformidad con el Reglamento de esta Ley.
 
-El Sistema Estatal de Protección contará además con una Secretaría Ejecutiva, cuyo titular será nombrado y removido libremente por el Presidente del mismo, y deberá reunir los mismos requisitos que para ser Procurador Estatal de Protección.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-Los integrantes del Sistema Estatal de Protección, deberán nombrar un suplente, mediante comunicación por escrito dirigida al Secretario Ejecutivo, quienes desempeñarán el cargo en forma honorífica por lo que no recibirán retribución, emolumento ni compensación alguna por su labor.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Los integrantes del Sistema Estatal de Protección desempeñarán el cargo en forma honorífica por lo que no recibirán retribución, emolumento ni compensación alguna por su labor. Deberán nombrar un suplente, lo que deberá ser comunicado por escrito a la Secretaría Ejecutiva.
 
 Serán invitados permanentes a las sesiones del Sistema Estatal de Protección con voz pero sin voto, representantes de niñas, niños y adolescentes designados por el Sistema en los términos de la convocatoria que para tal efecto se emita, de conformidad con lo que establezca el Reglamento de esta Ley.
 
@@ -1135,13 +1609,13 @@ Invitados a las sesiones del Sistema Estatal de Protección
 
 A las sesiones del Sistema Estatal de Protección, el Presidente podrá invitar con carácter permanente o temporal, a servidores públicos de otros poderes, de dependencias o entidades, a representantes de instituciones públicas y privadas, así como a ciudadanos, con actividades afines a su objeto; quienes únicamente tendrán derecho a voz.
 
-### Capítulo V. Programas Estatal y Municipales de Protección
+### Capítulo IV. Sistemas Municipales de Protección
 
-Programa Estatal y municipal
+Integración de los Sistemas Municipales de Protección
 
 ###### Artículo 95.
 
-La coordinación operativa del Sistema Estatal de Protección recaerá en una Secretaría Ejecutiva, cuya organización y funcionamiento se determinará en el Reglamento de esta Ley, y que tendrá las atribuciones siguientes:
+La coordinación operativa del Sistema Estatal de Protección recaerá en una Secretaría Ejecutiva, que será un órgano desconcentrado de la Secretaría de Gobierno, cuya organización y funcionamiento se determinará en el reglamento de esta Ley, y tendrá las atribuciones siguientes:
 
 I. Coordinar las acciones entre las dependencias y las entidades competentes de la Administración Pública Estatal que deriven de la presente Ley;
 
@@ -1157,9 +1631,33 @@ VI. Apoyar al Sistema Estatal de Protección en la ejecución y seguimiento de l
 
 VII. Las demás que le confiera esta Ley y demás ordenamientos legales.
 
-### Capítulo VI. Responsabilidades
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-Responsabilidad administrativa
+Secretaría Ejecutiva del Sistema Estatal de Protección
+
+###### Artículo 95
+
+1. El titular de la Secretaría Ejecutiva será nombrado y removido libremente por el Presidente del Sistema Estatal de Protección, y deberá reunir los requisitos siguientes:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Tener cuando menos treinta y cinco años cumplidos al día de su designación;
+
+III. Contar con título de licenciatura, así como con la correspondiente cédula profesional, expedidos y registrados legalmente;
+
+IV. Contar con al menos cinco años de experiencia en el diseño, implementación y evaluación de políticas públicas, así como en difusión, promoción o defensa de los derechos humanos de niñas, niños y adolescentes;
+
+(NOTA: EL 27 DE SEPTIEMBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI, VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 96/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+V. NO HABER SIDO SENTENCIADO POR DELITO DOLOSO, NI ESTAR SUJETO A PROCESO PENAL POR DELITO DOLOSO; Y
+
+(NOTA: EL 27 DE SEPTIEMBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI, VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 96/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+VI. No estar suspendido NI HABER SIDO DESTITUIDO O INHABILITADO POR RESOLUCIÓN FIRME COMO SERVIDOR PÚBLICO NI ESTAR SUJETO A PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA, en los términos de las normas aplicables.
+
+### Capítulo V. Programas Estatal y Municipales de Protección
+
+Programa Estatal y municipal
 
 ###### Artículo 96.
 
@@ -1202,6 +1700,10 @@ XVII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento d
 XVIII. Auxiliar a la Procuraduría de Protección en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones; y
 
 XIX. Las demás que le confiera ésta Ley y otras disposiciones aplicables.
+
+### Capítulo VI. Responsabilidades
+
+Responsabilidad administrativa
 
 ###### Artículo 97.
 
@@ -1318,3 +1820,49 @@ Artículo Cuarto. El Gobernador del Estado expedirá el Reglamento de la Ley par
 En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
 
 Artículo Quinto. El Gobernador del Estado expedirá el Programa Estatal de Migración, Hospitalidad, e Interculturalidad, en un plazo que no exceda de ciento ochenta días, contados a partir de la constitución de la Secretaría del Migrante y Enlace Internacional.
+
+P.O. 1 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 90, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE DIVERSAS LEYES, PARA EL FORTALECIMIENTO DE LAS INSTITUCIONES ESPECIALIZADAS EN LA PROTECCIÓN Y RESTITUCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Adecuación orgánica de estructuras para la conformación de la Procuraduría
+
+Artículo Segundo. El Ejecutivo del Estado en un plazo no mayor a ciento ochenta días a partir de la entrada en vigencia del presente Decreto, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, como organismo público descentralizado, conforme a la estructura de la Procuraduría de Protección adscrita a la estructura orgánica del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato.
+
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la unidad administrativa del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, identificada como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, estarán a cargo del organismo público descentralizado de la administración pública estatal denominado como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Adecuaciones a reglamentos y decretos
+
+Artículo Tercero. El Ejecutivo del Estado en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigencia de este decreto deberá realizar las modificaciones a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de su vigencia.
+
+Instalación del Consejo Directivo de la Procuraduría Estatal de Protección
+
+Artículo Cuarto. El Consejo Directivo del organismo público descentralizado de la Administración Pública Estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato que se constituye mediante el presente Decreto, deberá instalarse dentro de los noventa días siguientes a que esté constituida ésta.
+
+Designación del titular de la Procuraduría Estatal de Protección
+
+Artículo Quinto. El Gobernador del Estado designará al titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, dentro de los treinta días siguientes a la conformación de ésta, en los términos del Artículo Segundo Transitorio.
+
+Instalación del Consejo Consultivo del Sistema para la Atención de las Familias Guanajuatenses
+
+Artículo Sexto. La integración e instalación del Consejo Consultivo del organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, deberá efectuarse dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, en los términos de lo dispuesto en el artículo 23 de la Ley sobre el Sistema Estatal de Asistencia Social que se reforma mediante el presente Decreto.
+
+Asignación de recursos a la Procuraduría Estatal de Protección
+
+Artículo Séptimo. La Secretaría de Finanzas y Administración definirá y aplicará los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a (sic) Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Los recursos presupuestales de la unidad administrativa del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato se reasignarán al organismo público descentralizado de la administración pública estatal denominada como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Asuntos en trámite
+
+Artículo Octavo. Los asuntos y la documentación vigente o en trámite ante los Centros Multidisciplinarios para la Atención Integral de la Violencia previstos en la Ley para Prevenir, Atender y Erradicar la Violencia en el Estado de Guanajuato, se turnarán según corresponda a su competencia, a los institutos municipales para las mujeres, a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, por conducto de las procuradurías auxiliares, o al Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, según corresponda a la naturaleza y estado en que se encuentren los asuntos relativos, para su seguimiento y conclusión.
+
+Procesos de entrega recepción
+
+Artículo Noveno. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato transferirá al organismo público descentralizado de la administración pública estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y a la Secretaría de Gobierno, respectivamente y desde el ámbito de las competencias que les correspondan conforme al presente Decreto, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato haya venido destinando para la atención de las funciones que desempeñaba la unidad administrativa de dicho organismo denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y de la unidad administrativa de dicho organismo denominada Secretaría Ejecutiva del Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato hasta antes de la entrada en vigencia del presente Decreto, a través de la entrega-recepción respectiva.
+
+El Comité Interno de entrega-recepción, para cada unidad administrativa, deberá quedar conformado dentro de los cuarenta y cinco días siguientes a la entrada en vigencia del presente Decreto, en el que participarán las unidades administrativas competentes del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, el órgano interno de control de éste, la unidad administrativa (sic) Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Secretaría de Gobierno y su órgano interno de control, la Secretaría de Finanzas, Inversión y Administración y de la Secretaría de la Transparencia y Rendición de Cuentas.
