@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2019-07-01"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -619,11 +619,9 @@ I. Denunciar los hechos inmediatamente ante el Ministerio Público;
 
 II. Presentarlo ante el Oficial del Registro Civil para que se levante el acta correspondiente, si procede cuando se haya definido la situación jurídica del menor;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-III. Entregar la custodia temporal del menor a una institución de asistencia social o a una Familia de Acogida que pueda atenderlo adecuadamente;
+III. Entregar la custodia temporal del menor a un centro de asistencia social o a una familia de acogida que pueda atenderlo adecuadamente;
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2008)</small>
 
@@ -633,11 +631,9 @@ IV. Promover y tramitar la adopción pronta del menor que resulte expósito; y
 
 V. Promover y tramitar el juicio de pérdida de la patria potestad contra quienes hayan abandonado al menor; así como la adopción del mismo a falta de sucesores idóneos para el ejercicio de la patria potestad; o según el caso, asegurarse de la reincorporación o incorporación del menor con el o los familiares que correspondan legalmente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-Para los efectos de la fracción III, el Procurador de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato o los procuradores auxiliares, en su caso, tendrán la tutela del menor.
+Para los efectos de la fracción III, la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato o las procuradurías auxiliares, en su caso, tendrán la tutela del menor.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -3203,27 +3199,37 @@ Son requisitos para adoptar:
 
 I.- Tener el adoptante diecisiete años más que el adoptado;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2019)</small>
 
-II. Presentar el adoptante un certificado de idoneidad expedido por el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, por el que se acredite:
+II. Presentar el adoptante un certificado de idoneidad expedido por la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, por el que se acredite:
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
 a) Que el adoptante cuenta con preparación psicológica para adoptar;
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
 b) Que el adoptante es idóneo jurídica, social, física, psicológica, económica y moralmente para adoptar; y
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
 c) Tener el adoptante condiciones apropiadas para proveer al cuidado y educación del adoptado.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
 El certificado de idoneidad deberá ser tramitado con antelación al inicio del procedimiento judicial de adopción, por el o los que quieran adoptar.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato emitirá el certificado de idoneidad por conducto del órgano colegiado establecido para atender el tema de adopción y unificar los programas que se apliquen en el Estado, el que contendrá su conformidad con la adopción y determinará su vigencia. El certificado de idoneidad tendrá su base en el expediente técnico integrado para verificar que se cumplen los supuestos de los incisos previstos en la presente fracción. La integración de los expedientes técnicos respectivos podrá realizarse mediante el apoyo de instituciones públicas o asociaciones civiles autorizadas por el mismo órgano colegiado, conforme a la normatividad que para ello emita, sin menoscabo de que éste pueda repetir de manera directa todos aquellos estudios correspondientes y necesarios para verificar la correcta integración del expediente técnico.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-El órgano colegiado en materia de adopción podrá autorizar a otras instituciones públicas y a asociaciones civiles constituidas legalmente, a que tengan en custodia a menores susceptibles de ser adoptados, a realizar la preparación psicológica para adoptar y a colaborar en la integración del expediente para emitir el certificado de idoneidad previa conformidad que aquél manifieste con la adopción correspondiente, cuando satisfagan los requisitos contemplados en la normativa que establezca el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, la que al menos incluirá: la exigencia del cumplimiento de todas las disposiciones legales y normativas aplicable para su apertura y funcionamiento; contar con un programa de adopciones; las características y forma de comprobación de la solvencia patrimonial y técnica de las instituciones a autorizar, así como moral para el caso de instituciones privadas, incluyendo de quienes las conforman y de sus directivos; y las condiciones adecuadas que deben guardar su personal, al igual que instalaciones y servicios para el modelo de atención. Dicha normativa también contemplará la temporalidad de la autorización; las características, periodicidad y modalidades de las verificaciones obligatorias a las organizaciones autorizadas, para renovar la autorización; la periodicidad de los registros e informe de las niñas, niños y adolescentes susceptibles de adopción;
+La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato emitirá el certificado de idoneidad, el que contendrá su conformidad con la adopción y determinará su vigencia. El certificado de idoneidad tendrá su base en el expediente técnico integrado para verificar que se cumplen los supuestos de los incisos previstos en la presente fracción. La integración de los expedientes técnicos respectivos podrá realizarse mediante el apoyo de instituciones públicas o asociaciones civiles autorizadas por la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, conforme a la normatividad que para ello emita, sin menoscabo de que ésta pueda repetir de manera directa todos aquellos estudios correspondientes y necesarios para verificar la correcta integración del expediente técnico.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato podrá autorizar a otras instituciones públicas y a asociaciones civiles constituidas legalmente, a que tengan en custodia a menores susceptibles de ser adoptados, a realizar la preparación psicológica para adoptar y a colaborar en la integración del expediente para emitir el certificado de idoneidad previa conformidad que aquella manifieste con la adopción correspondiente, cuando satisfagan los requisitos contemplados en la normativa que la Procuraduría establezca, la que al menos incluirá: la exigencia del cumplimiento de todas las disposiciones legales y normativas aplicables para su apertura y funcionamiento; contar con un programa de adopciones; las características y forma de comprobación de la solvencia patrimonial y técnica de las instituciones a autorizar, así como moral para el caso de instituciones privadas, incluyendo de quienes las conforman y de sus directivos; y las condiciones adecuadas que deben guardar su personal, al igual que instalaciones y servicios para el modelo de atención. Dicha normativa también contemplará la temporalidad de la autorización; las características, periodicidad y modalidades de las verificaciones obligatorias a las organizaciones autorizadas, para renovar la autorización; la periodicidad de los registros e informe de las niñas, niños y adolescentes susceptibles de adopción;
 
-Durante el procedimiento para la adopción ante el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Guanajuato, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato podrá autorizar familias de acogimiento pre-adoptivo para que acoja provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, conforme a los procedimientos que prevea su reglamento; la que asumirá todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez. Asimismo se preverá en el Reglamento el procedimiento de reincorporación de los menores al sistema que corresponda.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato podrá autorizar familias de acogimiento preadoptivo para que acoja provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, conforme a los procedimientos que prevea el reglamento respectivo; la que asumirá todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez. Asimismo se preverá en el Reglamento el procedimiento de reincorporación de los menores al Sistema Estatal de Protección que corresponda.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -17500,3 +17506,49 @@ P.O. 1 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 85, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 331 Y 365-A; SE ADICIONAN UN TERCER PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 66 Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 497; Y SE DEROGA EL ARTÍCULO 329, DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 1 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 90, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE DIVERSAS LEYES, PARA EL FORTALECIMIENTO DE LAS INSTITUCIONES ESPECIALIZADAS EN LA PROTECCIÓN Y RESTITUCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Adecuación orgánica de estructuras para la conformación de la Procuraduría
+
+Artículo Segundo. El Ejecutivo del Estado en un plazo no mayor a ciento ochenta días a partir de la entrada en vigencia del presente Decreto, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, como organismo público descentralizado, conforme a la estructura de la Procuraduría de Protección adscrita a la estructura orgánica del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato.
+
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la unidad administrativa del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, identificada como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, estarán a cargo del organismo público descentralizado de la administración pública estatal denominado como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Adecuaciones a reglamentos y decretos
+
+Artículo Tercero. El Ejecutivo del Estado en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigencia de este decreto deberá realizar las modificaciones a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de su vigencia.
+
+Instalación del Consejo Directivo de la Procuraduría Estatal de Protección
+
+Artículo Cuarto. El Consejo Directivo del organismo público descentralizado de la Administración Pública Estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato que se constituye mediante el presente Decreto, deberá instalarse dentro de los noventa días siguientes a que esté constituida ésta.
+
+Designación del titular de la Procuraduría Estatal de Protección
+
+Artículo Quinto. El Gobernador del Estado designará al titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, dentro de los treinta días siguientes a la conformación de ésta, en los términos del Artículo Segundo Transitorio.
+
+Instalación del Consejo Consultivo del Sistema para la Atención de las Familias Guanajuatenses
+
+Artículo Sexto. La integración e instalación del Consejo Consultivo del organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, deberá efectuarse dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, en los términos de lo dispuesto en el artículo 23 de la Ley sobre el Sistema Estatal de Asistencia Social que se reforma mediante el presente Decreto.
+
+Asignación de recursos a la Procuraduría Estatal de Protección
+
+Artículo Séptimo. La Secretaría de Finanzas y Administración definirá y aplicará los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a (sic) Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Los recursos presupuestales de la unidad administrativa del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato se reasignarán al organismo público descentralizado de la administración pública estatal denominada como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Asuntos en trámite
+
+Artículo Octavo. Los asuntos y la documentación vigente o en trámite ante los Centros Multidisciplinarios para la Atención Integral de la Violencia previstos en la Ley para Prevenir, Atender y Erradicar la Violencia en el Estado de Guanajuato, se turnarán según corresponda a su competencia, a los institutos municipales para las mujeres, a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, por conducto de las procuradurías auxiliares, o al Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, según corresponda a la naturaleza y estado en que se encuentren los asuntos relativos, para su seguimiento y conclusión.
+
+Procesos de entrega recepción
+
+Artículo Noveno. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato transferirá al organismo público descentralizado de la administración pública estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y a la Secretaría de Gobierno, respectivamente y desde el ámbito de las competencias que les correspondan conforme al presente Decreto, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato haya venido destinando para la atención de las funciones que desempeñaba la unidad administrativa de dicho organismo denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y de la unidad administrativa de dicho organismo denominada Secretaría Ejecutiva del Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato hasta antes de la entrada en vigencia del presente Decreto, a través de la entrega-recepción respectiva.
+
+El Comité Interno de entrega-recepción, para cada unidad administrativa, deberá quedar conformado dentro de los cuarenta y cinco días siguientes a la entrada en vigencia del presente Decreto, en el que participarán las unidades administrativas competentes del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, el órgano interno de control de éste, la unidad administrativa Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Secretaría de Gobierno y su órgano interno de control, la Secretaría de Finanzas, Inversión y Administración y de la Secretaría de la Transparencia y Rendición de Cuentas.
