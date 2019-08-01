@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-seguridad-publica-del-distrito-federal-125"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-19"
-last_updated: "1993-07-19"
+last_updated: "2019-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "1993-07-12"
 ---
 # LEY DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
-LEY DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DEL 1 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE AGOSTO DE 2019 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 19 de julio de 1993.
 
@@ -801,3 +803,51 @@ SEXTO.- Los ordenamientos en materia de Seguridad Pública expedidos con anterio
 México, D.F., a 6 de julio de 1993.- Dip. Juan Ramiro Robledo Ruiz, Presidente- Sen. Mauricio Valdés Rodríguez, Presidente.- Dip. Alicia Montaño Villalobos, Secretaria.- Sen. Ramón Serrano Ahumada, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de julio de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 1 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente del (sic) de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. Se abroga la Ley de Seguridad Pública del Distrito Federal, publicada en el Diario Oficial de la Federación el día 19 de julio de 1993 y se derogan todas las demás disposiciones legales que se opongan a la presente Ley.
+
+Tercero. La Ley Orgánica de la Secretaría de Seguridad Pública del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 20 de mayo de 2003, mantendrá su vigencia en todo aquello que no se oponga a la presente Ley, hasta en tanto el Congreso de la Ciudad de México emita la Ley Orgánica de la Secretaría de Seguridad Ciudadana.
+
+Cuarto. Quedan en vigor las Reglas para el Establecimiento de la Carrera Policial de la Policía del Distrito Federal y el Reglamento que Establece el Procedimiento para la Conclusión de la Carrera Policial de la Secretaría de Seguridad Pública del Distrito Federal, en lo que no se opongan a la presente Ley, hasta en tanto se emitan los ordenamientos legales que los sustituyan.
+
+Quinto. Las disposiciones de otros ordenamientos legales que beneficien al servicio y a los integrantes de las Instituciones de Seguridad Ciudadana, conservarán su vigencia, hasta en tanto emitan las que las sustituyan.
+
+Sexto. Las alcaldías en un plazo que no exceda de sesenta días a partir de la entrada en vigor de esta Ley, deberán adecuar sus ordenamientos jurídicos a las prescripciones contenidas en la misma, sin perjuicio de sus facultades constitucionales.
+
+Séptimo. Para el cumplimiento de las acciones derivadas por la entrada en vigor de la Ley, la Secretaría, la Fiscalía General, la Secretaría de Administración y Finanzas, la Secretaría de la Contraloría General, las alcaldías y el Consejo de Seguridad Ciudadana, en el ámbito de sus respectivas competencias, establecerán y desarrollarán los mecanismos de programación, ejecución e inversión presupuestaria.
+
+Octavo. Todas las referencias hechas en otros ordenamientos legales, reglamentarios o administrativos, a la Secretaría de Seguridad Pública del Distrito Federal o a la Secretaría de Seguridad Pública de la Ciudad de México, se entenderán a la Secretaría de Seguridad Ciudadana conforme al Artículo 16, párrafo primero, fracción XVI, y segundo párrafo, de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
+
+Noveno. Las referencias hechas en esta Ley a la Fiscalía General de Justicia de la Ciudad de México se entenderán realizadas a la Procuraduría General de Justicia del Distrito Federal, hasta en tanto aquella no entre en funciones de conformidad con el Transitorio Décimo Séptimo de la Constitución Política de la Ciudad de México y la Ley de Transición de la Procuraduría General de Justicia a la Fiscalía General de Justicia de la Ciudad de México.
+
+Décimo. Todas las referencias hechas en otros ordenamientos legales, reglamentarios o administrativos, al Instituto Técnico de Formación Policial para la Policía del Distrito Federal o Instituto Técnico de Formación Policial, se entenderán hechas a la Universidad de la Policía de la Ciudad de México, hasta en tanto se expida la normatividad que rija su integración y funcionamiento.
+
+Décimo Primero. Todas las referencias hechas al Consejo Ciudadano de Seguridad Pública y Procuración de Justicia del Distrito Federal en otros ordenamientos legales, reglamentarios o administrativos, se entenderán al Consejo Ciudadano para la Seguridad Ciudadana y Procuración de Justicia de la Ciudad de México, hasta en tanto se expida la normatividad que rija su integración y funcionamiento.
+
+Décimo Segundo. Los órganos colegiados que se creen o modifiquen en virtud de la presente Ley, deberán quedar instalados a más tardar en 60 días a partir de la entrada en vigor de esta Ley. En el caso del Consejo de Seguridad Ciudadana, su presidencia convocará a una sesión solemne de instalación.
+
+Décimo Tercero. El Programa de Seguridad Ciudadana de la Ciudad de México, deberá aprobarse y expedirse a más tardar en el mes de enero de 2020 conforme a los requisitos previstos en esta Ley.
+
+Décimo Cuarto. Las leyes, reglamentos, decretos, acuerdos y demás normatividad que regule la prestación del servicio de seguridad privada en la Ciudad de México, continuarán vigentes en todo lo que no se opongan a la presente Ley y a la Ley General del Sistema Nacional de Seguridad Pública.
+
+Décimo Quinto. Sin perjuicio de lo previsto en esta Ley, la persona titular de la Jefatura de Gobierno, con la participación que corresponda a la Secretaría de Seguridad Ciudadana y a la Fiscalía General de Justicia, deberá cumplir en tiempo y forma con lo dispuesto en el Transitorio Séptimo del “DECRETO por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional”, publicado en el Diario Oficial de la Federación el 26 de marzo de 2019.
+
+Décimo Sexto. Los procedimientos administrativos disciplinarios que se hayan iniciado o se encuentren en trámite en los órganos colegiados de las instituciones policiales, antes de la entrada en vigor de la presente Ley, continuarán su trámite hasta su total conclusión de conformidad con la normativa vigente en el momento de su inicio. Igual disposición aplicará para los recursos de revisión y de rectificación interpuestos antes de la entrada en vigor de esta Ley.
+
+Décimo Séptimo. Al personal de las Instituciones de Seguridad Ciudadana que actualmente esté en activo, le será aplicable la Ley, sin menoscabo de sus derechos derivados de la relación por la prestación del servicio.
+
+Décimo Octavo. Los empleados de base que al momento de la entrada en vigor de la presente Ley laboren en las instituciones de seguridad ciudadana de la Ciudad de México, podrán participar en las evaluaciones de control de confianza para su permanencia, sujetándose al régimen administrativo que esta Ley establece. La Secretaría de Administración y Finanzas y la Secretaría de Seguridad Ciudadana determinarán los procedimientos para la reubicación del personal de base que sea necesario, respetando los derechos laborales adquiridos.
+
+Décimo Noveno. La persona titular de la Jefatura de Gobierno de la Ciudad de México deberá expedir, en un plazo no mayor a noventa días naturales, el Reglamento del Secretariado Ejecutivo del Sistema de Seguimiento para la Seguridad Ciudadana.
+
+Vigésimo. Las disposiciones relativas a la policía cívica serán reguladas en la normatividad correspondiente, en tanto se expida la Ley General de la materia prevista en la fracción XXIX-Z del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Vigésimo Primero. Lo dispuesto en esta Ley respecto del Consejo de Evaluación de la Ciudad de México quedará sujeto a la entrada en vigor de las disposiciones jurídicas que lo regulen.
