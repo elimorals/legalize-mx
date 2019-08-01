@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-68085"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-27"
-last_updated: "2016-01-29"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 29 DE ENERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
 
 Ley publicada en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el 27 de marzo de 2009.
 
@@ -77,7 +75,7 @@ Glosario
 
 Para los efectos de esta Ley se entenderá por:
 
-I. CEMAIV: Los Centros Multidisciplinarios para la Atención Integral de la Violencia;
+I. (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
 II. Consejo Estatal: El Consejo Estatal para Prevenir, Atender y Erradicar la Violencia en el Estado de Guanajuato;
 
@@ -137,7 +135,9 @@ La administración pública estatal y municipal, asumirán los principios rector
 
 Los ámbitos en donde se presenta violencia son:
 
-I. Intrafamiliar;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+I. Familiar;
 
 II. Laboral;
 
@@ -145,13 +145,19 @@ III. Educativo; y
 
 IV. Comunitario.
 
-### Capítulo II. De la Violencia en el ámbito Intrafamiliar
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
 
-Violencia en el ámbito Intrafamiliar.
+### Capítulo II. De la Violencia en el ámbito familiar
+
+> <small>(REFORMADO SU ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Violencia en el ámbito familiar
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 7.
 
-Es toda violencia que se da entre personas con la que exista o haya existido una relación de parentesco, matrimonio, concubinato o con la que se tenga una relación interpersonal análoga o aún no teniendo alguna de las calidades anteriores habite de manera permanente en el mismo domicilio de la persona receptora de violencia intrafamiliar.
+Es toda violencia que se da entre personas con la que exista o haya existido una relación de parentesco, matrimonio, filiación, concubinato o con la que se tenga una relación interpersonal análoga o aun no teniendo alguna de las calidades anteriores habite de manera permanente en el mismo domicilio de la persona receptora de violencia familiar.
 
 ### Capítulo III. De la Violencia en el ámbito laboral
 
@@ -327,11 +333,17 @@ III. De la Secretaría de Desarrollo Social y Humano;
 
 IV. De la Secretaría de Seguridad Pública;
 
-V. De la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+V. De la Fiscalía General del Estado de Guanajuato;
 
 VI. De la Secretaría de Educación;
 
 VII. De la Secretaría de Salud;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+VII bis. De la Secretaría de Innovación, Ciencia y Educación Superior;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -346,6 +358,18 @@ IX. Del Instituto para las Mujeres Guanajuatenses;
 X. Del Instituto de la Juventud Guanajuatense;
 
 XI. Del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+XI bis. De la Secretaría Ejecutiva del Sistema de Protección de los derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+XI ter. De la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+XI quater. De la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
 
 XII. Del Consejo de la Familia; y
 
@@ -375,7 +399,9 @@ VI. Vigilar que todas la dependencias y entidades de la administración pública
 
 VII. Rendir anualmente al Titular del Poder Ejecutivo del Estado, un informe de actividades del Programa Estatal;
 
-VIII. Estudiar e investigar las causas y consecuencias que generan la violencia en los ámbitos intrafamiliar, laboral, educativo y comunitario para su prevención atención y erradicación;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+VIII. Estudiar e investigar las causas y consecuencias que generan la violencia en los ámbitos familiar, laboral, educativo y comunitario para su prevención, atención y erradicación;
 
 IX. Proponer al Titular del Poder Ejecutivo del Estado, anteproyectos de iniciativas que contengan las adecuaciones al marco jurídico estatal para prevenir y atender la violencia, así como las adecuaciones pertinentes a los planes y programas en materia de violencia y a sus reglamentos;
 
@@ -501,13 +527,19 @@ II. Implementar las acciones y medidas para la reeducación y reinserción de la
 
 III. Capacitar a promotores comunitarios para la ejecución de programas preventivos de la violencia.
 
-#### Sección Séptima. Del Titular de la Procuraduría General de Justicia del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
 
-Facultades del Procurador
+#### Sección Séptima. Del Titular de la Fiscalía General del Estado de Guanajuato
+
+> <small>(REFORMADO SU ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Facultades del Fiscal General
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 34.
 
-El Titular de la Procuraduría General de Justicia del Estado de Guanajuato tendrá las siguientes facultades:
+El Fiscal General del Estado de Guanajuato tendrá las siguientes facultades:
 
 I. Ejecutar la política en materia de procuración de justicia para la atención y erradicación de la violencia en el Estado;
 
@@ -611,19 +643,31 @@ El Titular del Sistema para el Desarrollo Integral de la Familia del Estado de G
 
 I. Vigilar que la organización y modelos de atención en los refugios se apeguen a lo señalado en esta ley, así como supervisar su correcta aplicación;
 
-II. Auxiliar a los CEMAIV en la implementación de los modelos de atención que aprueba el Sistema Estatal;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-III. Apoyar de manera subsidiaria y coordinada a los CEMAIV; y
+II. Auxiliar a las autoridades a las que se refiere el artículo 53 en la implementación de los modelos de atención que apruebe el Sistema Estatal;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+III. Apoyar de manera subsidiaria y coordinada a las autoridades a las que se refiere el artículo 53; y
 
 IV. Promover el desarrollo de la familia y de la comunidad en un ambiente libre de violencia.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+#### Sección Décima Tercera Bis. Del Titular del Instituto para las Mujeres Guanajuatenses
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Facultades del Titular del Instituto para las Mujeres Guanajuatenses
+
+###### Artículo 40 Bis.
+
+El Titular del Instituto para las Mujeres Guanajuatenses, tendrá las mismas facultades que el Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, en el ámbito de su respectiva competencia.
 
 #### Sección Décima Cuarta. Del Titular del Consejo Estatal de la Familia
 
 Facultades del Titular del Consejo Estatal de la Familia
-
-#### Sección Décima Quinta. De los Ayuntamientos
-
-Atribuciones de los Ayuntamientos
 
 ###### Artículo 41.
 
@@ -635,9 +679,9 @@ II. Promover el desarrollo integral de la familia y de la comunidad en un ambien
 
 III. Capacitar a los servidores y funcionarios públicos que atiendan a las personas receptoras y generadoras de violencia.
 
-#### Sección Primera. Del Área de Atención a las Personas Receptoras de Violencia
+#### Sección Décima Quinta. De los Ayuntamientos
 
-Área de Atención
+Atribuciones de los Ayuntamientos
 
 ###### Artículo 42.
 
@@ -653,7 +697,9 @@ IV. Difundir y fomentar campañas para la prevención y atención de la violenci
 
 V. Incluir en el presupuesto de egresos de cada año los recursos necesarios para el cumplimiento de esta Ley;
 
-VI. Auxiliar a través de la dependencia encargada de la prestación del servicio de seguridad pública, al personal del CEMAIV en el cumplimiento de sus funciones y en los términos que establezcan los ordenamientos jurídicos estatales aplicables;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+VI. Auxiliar a través de la dependencia encargada de la prestación del servicio de seguridad pública, al personal de los institutos municipales para las mujeres u equivalentes y a los sistemas municipales para el desarrollo integral de la familia en el cumplimiento de sus funciones que tiene asignadas en materia de violencia;
 
 VII. Generar y aplicar los programas de capacitación para el personal de seguridad pública para la adecuada prevención, atención, apoyo, auxilio y canalización de los casos de violencia que tenga conocimiento;
 
@@ -671,9 +717,11 @@ El Consejo Estatal celebrará sesiones ordinarias de manera cuatrimestral y extr
 
 Derecho a voz y voto y suplencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 44.
 
-Todos los integrantes del Consejo Estatal tendrán derecho a voz y voto, a excepción del integrante señalado en la fracción VIII del artículo 26 de la Ley. En caso de empate el presidente tendrá voto de calidad.
+Todos los integrantes del Consejo Estatal tendrán derecho a voz y voto, a excepción del integrante señalado en la fracción VIII del artículo 26 de la Ley. En caso de empate el presidente tendrá voto dirimente.
 
 Los cargos en el Consejo Estatal serán honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
 
@@ -771,6 +819,8 @@ III. Los servicios reeducativos integrales especializados y gratuitos a las pers
 
 Autoridades para la Atención de la Violencia
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 52.
 
 Los integrantes del Sistema Estatal, para el desarrollo de una cultura de paz, llevarán a cabo las siguientes acciones y campañas, de conformidad con el Programa Estatal:
@@ -787,89 +837,87 @@ V. La promoción de la igualdad.
 
 ## Título Octavo. De la Atención de la Violencia
 
-### Capítulo II. De los Centros Multidisciplinarios para la Atención Integral de la Violencia
+### Capítulo II. De la atención a las personas receptoras y generadoras de violencia
 
-CEMAIV
+> <small>(REFORMADO SU ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Atención a personas receptoras y generadoras de violencia
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 53.
 
-Los sistemas municipales para el Desarrollo Integral de la Familia, a través de los CEMAIV serán los encargados de la atención de la violencia, en los términos de esta ley.
+La atención de la violencia corresponde, dentro de sus respectivos ámbitos de competencia, a las autoridades siguientes:
 
-### Capítulo III. De las Atribuciones de los CEMAIV
+I. A los institutos municipales para las mujeres o sus equivalentes;
 
-Atribuciones del CEMAIV
+II. A los sistemas municipales para el desarrollo integral de la familia;
+
+III. A la Procuraduría de Protección; y
+
+IV. A la Fiscalía General del Estado de Guanajuato.
+
+Las autoridades a que se refiere este artículo deberán celebrar convenios y protocolos de derivación y atención conjunta.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
+
+### Capítulo III. Atribuciones de las autoridades competentes para la atención de la violencia
+
+> <small>(REFORMADO SU ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Atribuciones de las autoridades Competentes para la atención de la violencia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 54.
 
-Los CEMAIV son instituciones en donde se atenderá a las personas receptoras y generadoras de violencia, los cuales deberán atender los casos de violencia que se presenten de acuerdo a las atribuciones previstas en la Ley y demás disposiciones jurídicas aplicables. Los servicios proporcionados por los CEMAIV serán gratuitos.
-
-Integración de los CEMAIV
+Las autoridades a las que se refiere el artículo anterior deberán atender a las personas receptoras y generadoras de violencia de conformidad con sus atribuciones previstas en la Ley y demás disposiciones jurídicas aplicables. Sus servicios serán gratuitos.
 
 ###### Artículo 55.
 
-Los CEMAIV contarán al menos con:
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
-I. Una Dirección;
+> <small>(REFORMADO SU ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
 
-II. Un área de atención a las personas receptoras de violencia; y
+Infraestructura
 
-III. Un área de rehabilitación a las personas generadoras de violencia.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
-
-Las áreas señaladas en las fracciones II y III, dependerán de la misma Dirección.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
-
-Estructura de las áreas de los CEMAIV
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 56.
 
-Las áreas señaladas en las fracciones II y III del artículo anterior tendrán la estructura orgánica que se establezca en su ordenamiento jurídico respectivo y deberán:
-
-I. Encontrarse en diferentes espacios un área de la otra;
-
-II. Ser delimitados para el cumplimiento de sus funciones;
-
-III. Contar con la infraestructura necesaria para brindar una atención adecuada, que garantice la privacidad; y
-
-IV. Proporcionar por separado la atención a mujeres y a hombres.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
-
-Integración de los CEMAIV
+Las autoridades a que se refiere el artículo 53 deberán contar con espacios diferenciados para la atención a las personas receptoras de violencia y para la rehabilitación de las personas generadoras de violencia, que garanticen la privacidad y la atención por separado a mujeres y a hombres.
 
 ###### Artículo 56 Bis.
 
-Los CEMAIV contarán con la estructura orgánica y funcional que se establezca en su ordenamiento jurídico de creación, el cual deberá observar la integración mínima a que se refiere el artículo 55.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
-
-Responsable del CEMAIV
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
 ###### Artículo 57.
 
-Los CEMAIV estarán a cargo de la persona responsable de la unidad administrativa, quien tendrá las más amplias facultades para el funcionamiento de los mismos. Los CEMAIV contarán con el personal debidamente capacitado y especializado en las materias relacionadas con la atención que brindan.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO SU ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
 
-Personal de los CEMAIV
+Personal de las autoridades competentes para la atención de la violencia
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 58.
 
-Los CEMAIV contarán con personal debidamente capacitado, así como con el perfil y aptitudes adecuados para la atención y el tratamiento de los casos de violencia.
+Las autoridades a las que se refiere el artículo 53 contarán con personal debidamente capacitado y especializado en las materias relacionadas con la atención que brinden, así como con el perfil y aptitudes adecuados para la atención y el tratamiento de los casos de violencia.
 
-El personal de cada una de las áreas del CEMAIV deberá contar con especialización en las materias relacionadas con la atención que se brinda. Tratándose de las áreas jurídica, psicológica y de trabajo social, dicho personal deberá contar con experiencia en materia de asistencia social y, en su caso, con cédula profesional legalmente expedida por la autoridad competente.
+Tratándose de atención jurídica, psicológica y de trabajo social, el personal deberá contar con experiencia en materia de asistencia social y, en su caso, con cédula profesional legalmente expedida por la autoridad competente.
 
-El personal de los CEMAIV deberá sujetarse como mínimo a programas de capacitación y, en su caso, de profesionalización, de manera permanente, acordes a los aprobados por el Consejo Estatal y el Consejo Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, y de conformidad a los instrumentos internaciones (sic) en la materia.
+El personal de las autoridades competentes para la atención de la violencia deberá sujetarse como mínimo a programas de capacitación y, en su caso, de profesionalización, certificación, que deberán cumplir conforme al enfoque de género, especial diferenciado de interculturalidad y no discriminación, así como de evaluación de manera permanente, acordes a los aprobados por el Consejo Estatal y el Consejo Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, y de conformidad a los instrumentos internacionales en la materia.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 Capacitación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 58 Bis.
 
-Tratándose de violencia de género, el personal del CEMAIV deberá contar con una capacitación para prevenir, atender y erradicar la violencia, que incluirá como mínimo aspectos formativos en:
+Tratándose de violencia de género, la capacitación del personal incluirá además, como mínimo, los siguientes aspectos formativos en:
 
 I. Perspectiva de Género;
 
@@ -891,7 +939,9 @@ IX. Técnicas de intervención psicológica y nuevos métodos terapéuticos; y
 
 X. Técnicas de orientación civil y penal, y en caso de litigio.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato podrá brindar al personal de los CEMAIV la capacitación para la prevención, atención y erradicación de la violencia, así como su actualización.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato y el Instituto para las Mujeres Guanajuatenses podrán brindar al personal municipal competente para la atención de la violencia la capacitación para la prevención, atención y erradicación de la violencia, así como su actualización.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
@@ -901,17 +951,23 @@ Atención femenina
 
 Cuando la persona víctima de violencia sea del género femenino, preferentemente deberá ser atendida por una persona del mismo género.
 
-### Capítulo IV. De las Áreas de los CEMAIV
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
+
+### Capítulo IV. De los Servicios para las personas receptoras y generadoras de violencia
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 59.
 
-Los CEMAIV tendrán las siguientes atribuciones:
+Las autoridades a las que se refiere el artículo 53 tendrán las siguientes atribuciones:
 
 I. Ejercer las acciones tendientes a prevenir la violencia;
 
 II. Prestar los servicios de atención psicológica, legal, educativa, médica y social a las personas receptoras y generadoras de violencia;
 
-III. Dar seguimiento a los procedimientos iniciados con motivo de violencia que sean competencia del CEMAIV;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+III. Dar seguimiento a los procedimientos iniciados con motivo de violencia que sean de su competencia;
 
 IV. Rendir los informes que les sean solicitados por las autoridades competentes sobre los asuntos de violencia;
 
@@ -929,19 +985,25 @@ X. Las demás establecidas en otras disposiciones legales estatales.
 
 El seguimiento a que se refiere la fracción III de este artículo, consiste en evaluar el resultado de la atención integral multidisciplinaria y, en su caso, implementar las acciones conducentes que eviten violencia; así como en atender el desarrollo de los casos en que se requiera intervención de la autoridad judicial, acompañando y, en su caso, representando al receptor de violencia, hasta su conclusión, en los términos de esta Ley.
 
-Facultades del Director del CEMAIV
+> <small>(REFORMADO SU ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Facultades del personal de las autoridades competentes para la atención de la violencia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 60.
 
-El Director del CEMAIV tendrá las siguientes facultades:
+El personal de las autoridades a las que se refiere el artículo 53 tendrán (sic) las siguientes facultades:
 
-I. Coordinar las áreas que integran el CEMAIV;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+I. Coordinar sus áreas de atención;
 
 II. Vigilar que se integre un expediente de cada caso denunciado;
 
 III. Ordenar, en cualquier momento, la práctica de estudios y la elaboración de informes o dictámenes relativos a los hechos constitutivos de la denuncia;
 
-IV. Representar, en su caso, a las personas receptoras de violencia intrafamiliar;
+IV. (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
 V. Resguardar a las personas que requieran un lugar provisional de protección, o en su caso, remitirlas a los refugios existentes;
 
@@ -955,65 +1017,89 @@ IX. Denunciar ante el Ministerio Público aquellos casos de violencia que pudier
 
 X. Procurar que el personal a su cargo cuente con una capacitación, preparación y atención adecuada, oportuna, integral y permanente para conservar su estabilidad emocional;
 
-XI. Llevar y coordinar el archivo del CEMAIV, así como expedir las copias certificadas que le soliciten sobre los asuntos que conozca; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+XI. Llevar y coordinar su archivo, así como expedir las copias certificadas que le soliciten sobre los asuntos que conozca; y
 
 XII. Las demás que establezcan esta Ley y las establecidas en otras disposiciones legales estatales.
 
-Estas facultades podrán ser delegadas a los titulares de las áreas de atención a las personas receptoras de violencia y de rehabilitación a las personas generadoras de violencia, a excepción de las señaladas en las fracciones I, XI Y XII del presente artículo.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-Las facultades de los demás integrantes del CEMAIV se establecerán en el ordenamiento jurídico correspondiente.
+Estas facultades podrán ser delegadas a excepción de las señaladas en las fracciones I, XI y XII del presente artículo.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ### Capítulo Único. De los Refugios para la Atención a los Receptores de Violencia
 
 Creación de los Refugios
 
-#### Sección Segunda. Del Área de Rehabilitación de las Personas Generadoras de Violencia
+#### Sección Primera. De la Atención a las Personas Receptoras de Violencia
 
-Área de Rehabilitación
+> <small>(REFORMADO SU ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Atención
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 61.
 
-El área de atención a las personas receptoras de violencia será la encargada de prestarles atención. Esta atención debe iniciarse con la evaluación del impacto psicológico y del riesgo que sufra para estar en posibilidad de que el Director tome las mejores medidas para su protección.
+La atención de las personas receptoras de violencia debe iniciarse con la evaluación del impacto psicológico y del riesgo que sufra para estar en posibilidad de que el personal de las autoridades a las que se refiere el artículo 53 tome las mejores medidas para su protección.
 
-Por cada persona receptora de violencia se abrirá un expediente, que deberá contener toda la información respecto del proceso integral y multidisciplinario que se llevó a cabo. Cuando la persona receptora de violencia tenga antecedentes de generador de violencia, la determinación de su tratamiento se realizará de manera conjunta con el área de rehabilitación a las personas generadoras de violencia.
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+Por cada persona receptora de violencia se abrirá un expediente, que deberá contener toda la información respecto del proceso integral y multidisciplinario que se llevó a cabo. Cuando la persona receptora de violencia tenga antecedentes de generador de violencia, la determinación de su tratamiento se realizará de manera conjunta con los servicios de rehabilitación a las personas generadoras de violencia.
 
 Representación Jurídica
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 62.
 
-La representación jurídica de las personas receptoras de violencia que carezcan de capacidad de ejercicio y tengan conflicto de intereses con quien ejerza la patria potestad o la tutela, la tendrá:
-
-I. Quien dirija el CEMAIV, para actuar ante cualquier autoridad y ejercer las acciones conducentes en los términos del Código Civil para el Estado de Guanajuato;
-
-II. Quien tuviese la patria potestad de acuerdo al Código Civil para el Estado de Guanajuato y no tenga conflicto de intereses; y
-
-III. El Ministerio Público.
+La representación jurídica de las personas receptoras de violencia con restricción a la capacidad de ejercicio y tengan conflicto de intereses con quien ejerza la patria potestad o la tutela, se ejercerá en los términos de las disposiciones aplicables.
 
 Resguardo de las Personas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 63.
 
-El director del CEMAIV podrá acordar en cualquier momento el resguardo de personas en refugios, en los siguientes casos:
+Las autoridades a las que se refiere el artículo 53 podrán acordar en cualquier momento el resguardo de personas en refugios, en los siguientes casos:
 
-I. Cuando lo solicite la persona receptora de violencia y esté en peligro su integridad; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+I. Cuando lo solicite la persona receptora de violencia, por sí misma o por conducto de su representante legal, y esté en peligro su integridad; y
 
 II. Cuando se trate de personas que carezcan de capacidad de ejercicio y exista conflicto de intereses entre éste y quien ejerza la patria potestad o la tutela, para salvaguardar su integridad, debiendo promover la medida legal conducente dentro de los cinco días siguientes.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
+
+#### Sección Segunda. De los Servicios para la Rehabilitación de las Personas Generadoras de Violencia
+
+> <small>(REFORMADO SU ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Rehabilitación
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 64.
 
-El área de rehabilitación será la encargada de atender a las personas generadoras de violencia.
+Las personas generadoras de violencia tienen derecho a obtener la asistencia adecuada e integrarse nuevamente a la sociedad, sin perjuicio de las responsabilidades de carácter penal. Estarán obligados a recibir la asistencia referida cuando esta situación sea ordenada por determinación judicial, sin perjuicio de que las personas generadoras de violencia puedan solicitarla de manera voluntaria.
 
-Las personas generadoras de violencia podrán acudir al CEMAIV para obtener la asistencia adecuada e integrarse nuevamente a la sociedad, sin perjuicio de las responsabilidades de carácter penal o de las que deriven de la conducta tipificada como delito en las leyes del Estado. Estarán obligados a asistir a dichos centros cuando esta situación sea ordenada por determinación judicial.
+> <small>(REFORMADO SU ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
 
-Servicios del Área de Rehabilitación
+Tipos de servicios
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 65.
 
-El área de rehabilitación de las personas generadoras de violencia podrá brindar a éstas los siguientes servicios:
+Las personas generadoras de violencia tienen derecho a los servicios siguientes:
 
 I. Tratamiento psicológico o psiquiátrico; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+I Bis. Intervención psicoeducativa;
 
 II. Información jurídica sobre las consecuencias legales de sus conductas.
 
@@ -1105,6 +1191,8 @@ En ningún caso se podrá mantener a las personas receptoras de violencia en los
 
 Responsabilidades
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 74.
 
 Las autoridades, dependencias e instituciones señaladas en esta ley deberán coordinarse a través de convenios de colaboración o mediante los mecanismos legales conducentes, a efecto de instrumentar y ejecutar las acciones derivadas del Programa Estatal, así como para la asistencia y atención de receptores y generadores de la misma y en general para el cumplimiento del objeto de esta Ley.
@@ -1113,13 +1201,11 @@ Las autoridades, dependencias e instituciones señaladas en esta ley deberán co
 
 ###### Artículo 75.
 
-Al personal de los CEMAIV y de los refugios, y en general a cualquier servidor público que no actúe con la diligencia debida en el cumplimiento de las obligaciones que esta Ley les impone, serán sancionados de acuerdo con la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, sin menoscabo de las acciones penales, civiles o cualquier otra que se derive de su incumplimiento.
-
-Falta grave
+El personal de las autoridades a las que se refiere el artículo 53, de los refugios y en general cualquier servidor público que no actúe con la diligencia debida en el cumplimiento de las obligaciones que esta Ley les impone, serán sancionados de acuerdo con la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, sin menoscabo de las acciones penales, civiles o cualquier otra que se derive de su incumplimiento.
 
 ###### Artículo 76.
 
-Se considerará falta grave, el incumplimiento reiterado de las obligaciones que establece esta Ley, para los efectos establecidos en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
 ## TRANSITORIOS
 
@@ -1310,3 +1396,49 @@ Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Rec
 Término para la adecuación reglamentaria
 
 Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 90, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE DIVERSAS LEYES, PARA EL FORTALECIMIENTO DE LAS INSTITUCIONES ESPECIALIZADAS EN LA PROTECCIÓN Y RESTITUCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Adecuación orgánica de estructuras para la conformación de la Procuraduría
+
+Artículo Segundo. El Ejecutivo del Estado en un plazo no mayor a ciento ochenta días a partir de la entrada en vigencia del presente Decreto, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, como organismo público descentralizado, conforme a la estructura de la Procuraduría de Protección adscrita a la estructura orgánica del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato.
+
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la unidad administrativa del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, identificada como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, estarán a cargo del organismo público descentralizado de la administración pública estatal denominado como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Adecuaciones a reglamentos y decretos
+
+Artículo Tercero. El Ejecutivo del Estado en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigencia de este decreto deberá realizar las modificaciones a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de su vigencia.
+
+Instalación del Consejo Directivo de la Procuraduría Estatal de Protección
+
+Artículo Cuarto. El Consejo Directivo del organismo público descentralizado de la Administración Pública Estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato que se constituye mediante el presente Decreto, deberá instalarse dentro de los noventa días siguientes a que esté constituida ésta.
+
+Designación del titular de la Procuraduría Estatal de Protección
+
+Artículo Quinto. El Gobernador del Estado designará al titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, dentro de los treinta días siguientes a la conformación de ésta, en los términos del Artículo Segundo Transitorio.
+
+Instalación del Consejo Consultivo del Sistema para la Atención de las Familias Guanajuatenses
+
+Artículo Sexto. La integración e instalación del Consejo Consultivo del organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, deberá efectuarse dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, en los términos de lo dispuesto en el artículo 23 de la Ley sobre el Sistema Estatal de Asistencia Social que se reforma mediante el presente Decreto.
+
+Asignación de recursos a la Procuraduría Estatal de Protección
+
+Artículo Séptimo. La Secretaría de Finanzas y Administración definirá y aplicará los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a (sic) Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Los recursos presupuestales de la unidad administrativa del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato se reasignarán al organismo público descentralizado de la administración pública estatal denominada como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Asuntos en trámite
+
+Artículo Octavo. Los asuntos y la documentación vigente o en trámite ante los Centros Multidisciplinarios para la Atención Integral de la Violencia previstos en la Ley para Prevenir, Atender y Erradicar la Violencia en el Estado de Guanajuato, se turnarán según corresponda a su competencia, a los institutos municipales para las mujeres, a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, por conducto de las procuradurías auxiliares, o al Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, según corresponda a la naturaleza y estado en que se encuentren los asuntos relativos, para su seguimiento y conclusión.
+
+Procesos de entrega recepción
+
+Artículo Noveno. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato transferirá al organismo público descentralizado de la administración pública estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y a la Secretaría de Gobierno, respectivamente y desde el ámbito de las competencias que les correspondan conforme al presente Decreto, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato haya venido destinando para la atención de las funciones que desempeñaba la unidad administrativa de dicho organismo denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y de la unidad administrativa de dicho organismo denominada Secretaría Ejecutiva del Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato hasta antes de la entrada en vigencia del presente Decreto, a través de la entrega-recepción respectiva.
+
+El Comité Interno de entrega-recepción, para cada unidad administrativa, deberá quedar conformado dentro de los cuarenta y cinco días siguientes a la entrada en vigencia del presente Decreto, en el que participarán las unidades administrativas competentes del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, el órgano interno de control de éste, la unidad administrativa Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Secretaría de Gobierno y su órgano interno de control, la Secretaría de Finanzas, Inversión y Administración y de la Secretaría de la Transparencia y Rendición de Cuentas.
