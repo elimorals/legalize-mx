@@ -4,7 +4,7 @@ identifier: "GUA-ley-sobre-el-sistema-estatal-de-asistencia-social-guanajuato-55
 country: "mx"
 rank: "ley"
 publication_date: "1986-09-19"
-last_updated: "2015-10-02"
+last_updated: "2019-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE OCTUBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de septiembre de 1986.
 
@@ -57,15 +55,15 @@ II.- La promoción y prestación de los servicios de asistencia social que estab
 
 III.- Coordinar el acceso a los servicios de asistencia social, garantizando a través de los convenios respectivos, la concurrencia y colaboración de los Gobiernos Federal, Estatal y Municipal, en el ámbito de sus respectivas competencias, así como la participación de los sectores social y privado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-IV. Establecer las bases de creación, organización y funcionamiento del Sistema Estatal y de los Sistemas Municipales de Protección de los derechos de Niñas, Niños y Adolescentes, en términos de los que dispone la Ley General de Protección de los Derechos de Niñas, Niños y Adolescentes, y esta Ley.
+IV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
 ###### ARTICULO 2o.
 
 El Gobierno del Estado en forma prioritaria proporcionará servicios de asistencia social, encaminados al desarrollo integral de la familia, entendida ésta como la célula de la sociedad que provee a sus miembros de los elementos que requieren en las diversas circunstancias de su desarrollo, y también a apoyar, en su formación, subsistencia y desarrollo a individuos con carencias familiares esenciales no superables en forma autónoma.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Los servicios de asistencia social deberán prestarse con perspectiva de derechos humanos y de familia. Para tal efecto, el organismo a que se refiere el artículo 16 de esta Ley debe evaluar las circunstancias personales y el entorno familiar de las personas en situación de vulnerabilidad y proponer, coordinar y dar seguimiento a respuestas integrales para la satisfacción de sus derechos humanos y el fortalecimiento de su entorno familiar.
 
 > <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
@@ -93,9 +91,9 @@ III.- Adolescentes que estén sujetos a proceso y a quienes se les haya impuesto
 
 IV.- Mujeres en períodos de gestación o lactancia;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-V.- Adultos mayores en desamparo, marginación, con discapacidad o sujetos a maltrato;
+V.- Personas adultas mayores en desamparo, marginación, con discapacidad o sujetas a maltrato;
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
@@ -109,9 +107,9 @@ IX.- Víctimas de la comisión de delitos en estado de abandono;
 
 X.- Familiares que dependen económicamente de quienes se encuentran detenidos por causas penales y que queden en estado de abandono;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-XI.- Alcohólicos, farmacodependientes e individuos en condiciones de vagancia;
+XI.- Personas alcohólicas, farmacodependientes y en condiciones de vagancia;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
@@ -121,11 +119,7 @@ XII.- Habitantes del medio rural, suburbano y urbano, marginados que carezcan de
 
 XIII.- Personas afectadas por desastres.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-Asimismo, en términos de la Ley sobre los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes ejercerá las atribuciones que le mandata.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 5o.
 
@@ -203,19 +197,19 @@ Para los efectos de esta ley; se entienden como servicios en materia de asistenc
 
 I.- La atención a personas que, por sus carencias socio-económicas o por problemas de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-II.- La atención en establecimientos especializados a menores y adultos mayores en estado de abandono o desamparo;
+II.- La atención en establecimientos especializados a menores y personas adultas mayores en estado de abandono o desamparo;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-III.- La promoción del bienestar del adulto mayor y el desarrollo de acciones de preparación para la etapa de la vejez;
+III.- La promoción del bienestar de la persona adulta mayor y el desarrollo de acciones de preparación para la vejez;
 
-IV.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
+IV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-V.- La prestación de servicios de asistencia jurídica, psicológica y de orientación social, especialmente a menores, adultos mayores o personas con discapacidad, sin recursos;
+V.- La prestación de servicios de asistencia jurídica, psicológica y de orientación social, especialmente a menores, personas adultas mayores o personas con discapacidad, sin recursos;
 
 VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -237,7 +231,7 @@ XIII.- La promoción e impulso del sano crecimiento físico, mental y social de 
 
 XIV.- El establecimiento y manejo del Sistema Estatal de Información Básica en materia de Asistencia Social;
 
-XV.- La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a los menores;
+XV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
 XVI.- El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental; y
 
@@ -275,11 +269,7 @@ III.- La prestación de servicios municipales que revisten características de A
 
 IV.- Aquellos servicios que por sus características requieran de atención especial en la localidad; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-V.- La supervisión de los servicios que se presten en los centros de asistencia social; y
+V.- (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
 VI.- Las demás que las disposiciones generales le otorguen.
 
@@ -319,9 +309,9 @@ V.- Coordinar las funciones relacionadas con la Beneficencia Pública y la Asist
 
 VI.- Fomentar, apoyar, coordinar y evaluar las actividades que lleven a cabo las instituciones de asistencia o asociaciones civiles y todo tipo de entidades privadas cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-VII.- Normar, supervisar y en su caso operar establecimientos de asistencia social en beneficio de menores en estado de abandono, de adultos mayores desamparados y de personas con discapacidad;
+VII.- Operar centros y organizaciones de asistencia social;
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
@@ -335,11 +325,11 @@ XI.- Realizar y promover la capacitación de recursos humanos para la asistencia
 
 XII.- Operar el Sistema Estatal de Información Básica en Materia de Asistencia Social a que se refiere la fracción XIV del Artículo 13 de esta Ley;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-XIII.- Prestar servicios de asistencia jurídica, psicológica y de orientación social a menores, adultos mayores y personas con discapacidad, sin recursos;
+XIII.- Prestar servicios de asistencia jurídica, psicológica y de orientación social a menores, personas adultas mayores y personas con discapacidad, sin recursos;
 
-XIV.- Apoyar el ejercicio de la tutela de los incapaces, que corresponda al Estado, en los términos de la Ley respectiva;
+XIV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
 XV.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
 
@@ -395,37 +385,47 @@ VI.- En general, los demás bienes, derechos e ingresos que obtenga por cualquie
 
 Para el estudio, planificación y despacho de los asuntos que le competen, el Organismo contará con los siguientes órganos superiores:
 
-I.- Patronato;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+I.- Consejo Consultivo;
 
 II.- Junta de Gobierno; y
 
 III.- Dirección General.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-El control y vigilancia del Organismo estará a cargo de un órgano de vigilancia.
+El control y vigilancia del Organismo estará a cargo del órgano interno de control.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-El órgano de vigilancia tendrá el carácter de contraloría interna, la cual será la responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros con el fin de determinar el correcto desempeño del Organismo.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 23.
 
-El Patronato estará integrado por cinco miembros designados y removidos libremente por el Gobernador del Estado, de los cuales uno tendrá el carácter de Presidente del mismo y los cuatro restantes serán vocales.
+El Consejo Consultivo estará integrado por cinco personas con experiencia en salud pública, asistencia social, atención de personas en situación de vulnerabilidad, programas sociales, combate a la pobreza o promoción y defensa de derechos humanos. Los consejeros serán designados y removidos libremente por el Gobernador del Estado, uno de los cuales tendrá el carácter de Presidente y los cuatro restantes serán vocales.
 
-Los miembros del Patronato no recibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores público, social y privado.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
-El Director General del Organismo representará a la Junta de Gobierno ante el Patronato.
+Los consejeros no recibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores público, social y privado.
 
-En los municipios, los integrantes de los patronatos de los sistemas municipales para el desarrollo integral de la familia, no recibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores público, social y privado.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+El Director General del Organismo representará a la Junta de Gobierno ante el Consejo Consultivo.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+En los municipios, los integrantes de los órganos consultivos de los sistemas municipales para el desarrollo integral de la familia no recibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores público, social y privado.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 El Director General será nombrado por el Presidente Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 24.
 
-El Patronato tendrá las siguientes facultades:
+El Consejo Consultivo tendrá las siguientes facultades:
 
 I.- Emitir opinión y recomendaciones sobre los planes de labores, presupuestos, informes y estados financieros anuales del Organismo;
 
@@ -437,9 +437,11 @@ IV.- Designar a su Presidente y al Secretario de Sesiones; y
 
 V.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 25.
 
-El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que se requieran de conformidad con el Reglamento respectivo.
+El Consejo Consultivo celebrará cuatro sesiones ordinarias al año y las extraordinarias que se requieran de conformidad con el reglamento respectivo.
 
 > <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
@@ -457,9 +459,37 @@ III.- El Titular de la Secretaría de Educación;
 
 IV.- El Titular de la Secretaría de la Transparencia y Rendición de Cuentas;
 
-V.- El Procurador General de Justicia del Estado; y
+V.- (DEROGADA, P.O. 1 DE AGOSTO DE 2019)
 
 VI.- El Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato.
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+VII.- El Titular de la Secretaría del Migrante y Enlace Internacional;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+VIII.- El Titular del Instituto Guanajuatense para las Personas con Discapacidad;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+IX.- El Titular del Instituto para las Mujeres Guanajuatenses;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+X.- El Titular del Instituto de la Juventud Guanajuatense;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+XI.- El Titular del Instituto Estatal de Capacitación;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+XII.- El Titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+XIII.- El Titular de la Secretaría Ejecutiva del Sistema de Protección de los derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato.
 
 Los miembros de la Junta de Gobierno serán suplidos por los Representantes que al efecto designen cada uno de los miembros propietarios de la misma.
 
@@ -487,9 +517,9 @@ III.- Aprobar los reglamentos y disposiciones administrativas de observancia gen
 
 IV.- Designar y remover, a propuesta del Director General del Organismo, a los servidores públicos superiores;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-V.- Conocer los informes, dictámenes y recomendaciones del Contralor Interno y de auditores externos, en caso de que se considere necesaria su contratación;
+V.- Conocer los informes, dictámenes y recomendaciones del órgano interno de control, y de los auditores externos, en caso de que se considere necesaria su contratación;
 
 VI.- Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades que se hagan a favor del Organismo;
 
@@ -525,7 +555,9 @@ El Director General tendrá las siguientes atribuciones:
 
 I.- Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
 
-II.- Presentar a la Junta de Gobierno, los informes y estados financieros bimestrales, acompañados de los comentarios que estime pertinentes a los reportes, informes y recomendaciones que al efecto formulen el Comisario y el Auditor Externo;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+II.- Presentar a la Junta de Gobierno los informes y estados financieros bimestrales, acompañados de los comentarios que estime pertinentes a los reportes, informes y recomendaciones que al efecto formulen el órgano interno de control y el auditor externo, en su caso;
 
 III.- Presentar al conocimiento y aprobación de la Junta de Gobierno, los planes de labores, presupuestos, informes de actividades y estados financieros anuales del Organismo;
 
@@ -555,27 +587,41 @@ XI.- Autorizar constancias y certificar copias de los documentos originales que 
 
 XII.- Las demás que sean necesarias para el ejercicio de las anteriores.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 32.
 
-El Contralor Interno será designado y removido libremente por el Secretario de la Transparencia y Rendición de Cuentas y será ciudadano mexicano por nacimiento y con experiencia profesional no menor de cinco años.
+El órgano interno de control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del Organismo, con el fin de determinar su correcto desempeño.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 33.
 
-El Contralor Interno tendrá las siguientes atribuciones:
+El órgano interno de control tendrá las siguientes atribuciones:
 
-I.- Vigilar la correcta aplicación del presupuesto de egresos del Organismo;
+I.- Inspeccionar el ejercicio del gasto público del Organismo y su congruencia con el presupuesto de egresos y validar los indicadores para la evaluación del funcionamiento y operación del Organismo, en los términos de las disposiciones aplicables;
 
-II.- Verificar que se cuente con el registro e inventario actualizado de los bienes muebles e inmuebles del Organismo;
+II.- Proponer las normas que regulen los instrumentos y procedimientos de control interno del Organismo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
 
-III.- Participar en la entrega-recepción de la administración del Organismo;
+III.- Establecer las bases generales para la realización de auditorías internas y externas; así como proponer las normas que regulen los instrumentos y procedimientos en dichas materias;
 
-IV.- Verificar los estados financieros del Organismo; y
+IV.- Realizar auditorías, revisiones y evaluaciones, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
 
-V.- Las demás que otras leyes le atribuyan y las que sean necesarias para el ejercicio de las anteriores.
+V.- Fiscalizar que el Organismo cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
+
+VI.- Designar y remover a los titulares de las áreas a su cargo, quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los tribunales estatales, representando al titular del Organismo;
+
+VII.- Llevar y normar el registro de servidores públicos del Organismo; recibir y registrar las declaraciones patrimoniales y de intereses, así como la constancia de declaración fiscal que deban presentar; y verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, hayan sido impuestas;
+
+VIII.- Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con el Organismo, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
+
+IX.- Establecer y conducir la política general de las contrataciones públicas reguladas por la Ley de Contrataciones Públicas para el Estado de Guanajuato y la Ley de Obra Pública y Servicios relacionados con la misma para el Estado y los Municipios de Guanajuato, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; así como emitir los lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de dichas contrataciones públicas;
+
+X.- Definir la política de gestión digital y datos abiertos en el ámbito del Organismo;
+
+XI.- Ejercer las facultades que la Constitución le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos; y
+
+XII.- Conocer e investigar las conductas de los servidores públicos del Organismo que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la ley de responsabilidades aplicable, así como realizar la defensa jurídica de sus resoluciones; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa y cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables.
 
 ###### ARTICULO 34.
 
@@ -597,213 +643,129 @@ Las relaciones de trabajo entre el Organismo y sus trabajadores se sujetarán a 
 
 Los trabajadores del Organismo estarán incorporados al régimen de Seguridad Social que corresponda a los trabajadores al servicio del Gobierno del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
-### CAPITULO TERCERO. De la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+### CAPITULO TERCERO. De la Procuración en Materia de Asistencia Social
 
 ###### ARTICULO 39.
 
-Para una efectiva protección y restitución de los derechos de niñas, niños y adolescentes, el Sistema Estatal para el Desarrollo Integral de la Familia, cuenta con una Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes, la cual además, para los efectos de la fracción V del artículo 13 de esta ley, presta servicios jurídicos en favor de las personas a que se refiere el artículo 4 de este ordenamiento, con excepción de las señaladas en la Ley de Justicia para Adolescentes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
 ###### ARTICULO 40.
 
-La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes, tiene las atribuciones siguientes:
-
-I. Procurar la protección integral de niñas, niños y adolescentes que prevé la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Constitución Política para el Estado de Guanajuato, esta Ley y demás disposiciones aplicables.
-
-Dicha protección integral deberá abarcar, por lo menos:
-
-a) Atención médica y psicológica;
-
-b) Seguimiento a las actividades académicas y entorno social y cultural; y
-
-c) La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia.
-
-II. Establecer contacto y trabajar conjuntamente para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, con las autoridades administrativas y judiciales correspondientes para garantizar los derechos de éstos;
-
-III. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, en los casos en donde falte la representación originaria o así lo determine el órgano jurisdiccional, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente con representación coadyuvante en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables;
-
-IV. Coordinar la ejecución y dar seguimiento a las medidas de protección para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada;
-
-V. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia;
-
-VI. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
-
-VII. Solicitar al Ministerio Público la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes tres horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en (sic) Normatividad Procesal Penal del Estado y en su caso, del Código Nacional de Procedimientos Penales Único, las siguientes:
-
-a) El ingreso de una niña, niño o adolescente a un centro de asistencia social; y
-
-b) La atención médica inmediata por parte de alguna institución del Sistema Nacional de Salud.
-
-Dentro de las veinticuatro horas siguientes a la imposición de la medida urgente de protección el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
-
-VIII. Ordenar fundada y motivadamente, bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial establecidas en la fracción anterior, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes, dando aviso de inmediato al Ministerio Público y a la autoridad jurisdiccional competente.
-
-Dentro de las veinticuatro horas siguientes a la imposición de la medida urgente de protección el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
-
-Para la imposición de las medidas urgentes de protección el Procurador de Protección podrá solicitar el auxilio de las instituciones policiales competentes.
-
-En caso de incumplimiento de las medidas urgentes de protección, el Procurador de Protección podrá solicitar la imposición de las medidas de apremio correspondientes a la autoridad competente.
-
-IX. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones en favor de la atención, defensa y protección de niñas, niños y adolescentes;
-
-X. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
-
-XI. Desarrollar los lineamentos y procedimientos a los que se sujetarán para la restitución de los derechos de niñas, niños y adolescentes;
-
-XII. Coadyuvar con el Sistema Estatal para el Desarrollo Integral de la Familia en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, así como para emitir los certificados de idoneidad;
-
-XIII. Proporcionar información para integrar y sistematizar el Registro Nacional de Centros de Asistencia Social;
-
-XIV. Supervisar en coordinación con la Procuraduría Federal de Protección a niñas, niños y adolescentes, el debido funcionamiento de los Centros de Asistencia Social y, en su caso, ejercer las acciones legales que correspondan por el incumplimiento de los requisitos que establece la presente Ley y demás disposiciones aplicables;
-
-XV. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial;
-
-XVI. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos;
-
-XVII. Recibir las solicitudes de adopción de las niñas, niños y adolescentes que se encuentren bajo su tutela;
-
-XVIII. Realizar las valoraciones psicológica, económica, de trabajo social y todas aquéllas que sean necesarias para determinar la idoneidad de quienes soliciten la adopción, en los términos de lo dispuesto por esta ley, el Código Civil para el Estado de Guanajuato, y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato;
-
-XIX. Emitir certificados de idoneidad;
-
-XX. Autorizar, registrar y supervisar los Centros de Asistencia Social;
-
-XXI. Reportar semestralmente a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, la actualización de sus registros, así como los resultados de las visitas de supervisión efectuadas como coadyuvantes;
-
-XXII. Solicitar el auxilio de autoridades federales, estatales y municipales, las que estarán obligadas a proporcionarlo de conformidad con las disposiciones aplicables;
-
-XXIII. Promover ante las autoridades administrativas competentes la imposición de sanciones a los medios de comunicación, en los términos que establece esta Ley y demás disposiciones aplicables;
-
-XXIV. Promover acciones colectivas ante el órgano jurisdiccional competente, con objeto de que éste ordene a los medios de comunicación locales que se abstengan de difundir información o contenidos que pongan en peligro de forma individual o colectiva, la vida, la integridad, la dignidad u otros derechos de niñas, niños y adolescentes y, en su caso, reparen los daños que se hubieren ocasionado, lo anterior, sin perjuicio de cualquier otra responsabilidad a la que hubiere lugar; y
-
-XXV. Las demás que le otorgue esta Ley u otros ordenamientos legales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
 ###### ARTICULO 41.
 
-Para ser Procurador Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes, se requiere:
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
-
-II. Tener cuando menos treinta y cinco años cumplidos al día de su designación;
-
-III. Contar con título de Licenciado en Derecho o su equivalente, así como con la correspondiente cédula profesional, expedidos y registrados legalmente;
-
-IV. Contar con al menos cinco años de experiencia en materia de procuración de justicia, asistencia social o defensa de niñas, niños y adolescentes;
-
-V. No haber sido sentenciado por delito doloso, ni estar sujeto a proceso penal por delito doloso; y
-
-VI. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público; ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables
-
-El nombramiento de Procurador de Protección lo realizará la Junta de Gobierno del Sistema Estatal, a propuesta del Gobernador del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 42.
 
-En materia de asistencia social, la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes, tendrá las siguientes atribuciones:
+En materia de asistencia social, el Organismo, por conducto de la unidad administrativa que se determine en su reglamento interior, tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 I. Otorgar la asistencia jurídica que soliciten las personas a que se refiere el artículo 4 de esta ley; de conformidad con la legislación aplicable y en los términos del reglamento interior;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 II. Dar seguimiento a las asesorías y orientaciones jurídicas para evaluar resultados e incrementar la eficiencia del servicio;
 
-III. Atender con oportunidad y eficacia los juicios en los cuales tengan la representación del interés jurídico de las personas referidas en la fracción (sic) de este artículo;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+III. Atender con oportunidad y eficacia los juicios en los cuales tengan la representación del interés jurídico de las personas a que se refiere el artículo 4 de esta Ley, con excepción de las referidas en las fracciones I, II y III;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 IV. Recibir, investigar y atender, o en su caso, canalizar ante las autoridades competentes las quejas y denuncias de la ciudadanía en materia de asistencia social;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 V. Promover la participación y responsabilidad de la sociedad en la formulación y aplicación de la política y de las acciones en materia de asistencia social;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 VI. Coadyuvar con las autoridades federales, estatales o municipales, en el ámbito de su competencia, respecto de los programas de asistencia jurídica en favor de los beneficiarios de la asistencia social;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 VII. Resolver sobre las consultas planteadas por la ciudadanía, en asuntos de su competencia;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 VIII. Promover y procurar, cuando esto sea posible, la conciliación de intereses entre particulares y en sus relaciones con las autoridades, en asuntos que de acuerdo con esta ley le competan;
 
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 IX. Denunciar ante el Ministerio Público los actos, omisiones o hechos ilícitos que impliquen la comisión de delitos de los que tenga conocimiento en el cumplimiento de sus funciones, así como coadyuvar y representar, en su caso, los intereses de las personas presuntas víctimas de los delitos;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 X. Denunciar ante la Procuraduría de los Derechos Humanos del Estado de Guanajuato, los actos, omisiones o hechos que pudieran significar violación a los derechos humanos de las personas tuteladas por esta ley y de los cuales tengan conocimiento;
 
-XI. Coadyuvar, en los términos que se convenga, con la Dirección de Atención a las Víctimas del Delito de la Procuraduría General de Justicia del Estado, para eficientar el servicio respecto de las personas beneficiarias de la asistencia social, que requieran del mismo; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+XI. Coadyuvar, en los términos que se convenga, con la Coordinación de Atención a Víctimas y Ofendidos del Delito de la Fiscalía General del Estado de Guanajuato, para eficientar el servicio respecto de las personas beneficiarias de la asistencia social, que requieran del mismo; y
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 XII. Las demás que le otorgue el reglamento interior y otras disposiciones jurídicas aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
-
 ###### ARTICULO 43.
 
-La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes, contará (sic) el personal que sea necesario para el cumplimiento de sus funciones, los cuales serán designados por el procurador.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
 ###### ARTICULO 44.
 
-La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes, contará con las unidades administrativas necesarias para el cumplimiento de sus atribuciones, en los términos del reglamento interior.
-
-En su reglamento se establecerán, además, las disposiciones generales, los mecanismos, instancias y procedimientos administrativos que procuren el cumplimiento de las atribuciones que le señala este capítulo y demás disposiciones aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
 ###### ARTICULO 45.
 
-En aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de la presunta comisión o participación de una niña o niño en un hecho que la ley señale como delito, de manera inmediata dará aviso a la Procuraduría Estatal de Protección.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
-Niñas o niños, en ningún caso podrán ser detenidos, retenidos o privados de su libertad por la supuesta comisión o participación en un hecho que la ley señale como delito.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
 
-La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes, en el marco de sus atribuciones, deberá, en su caso, solicitar a la autoridad competente de manera inmediata las medidas para la protección integral, de asistencia social y en su caso, restitución de sus derechos y garantizar que niñas y niños no sean objeto de discriminación.
+### CAPITULO CUARTO. Del Fortalecimiento Familiar
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
-
-### CAPITULO CUARTO. De la Orientación Familiar
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 46.
 
-Con el objeto de contribuir al establecimiento de bases sólidas para el desarrollo integral de la familia, se promoverá la creación de centros de orientación familiar, los cuales encauzarán sus actividades a la promoción de los valores en los que se sustente el desarrollo familiar y la atención de la familia, a través de programas interinstitucionales de atención.
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+Con el objeto de contribuir al establecimiento de bases sólidas para el desarrollo integral de la familia, el Organismo debe implementar programas interinstitucionales de fortalecimiento familiar.
 
 ###### ARTICULO 47.
 
-Los centros de orientación familiar, de acuerdo con las posibilidades del Organismo, se instalarán en aquellos lugares que decida la Junta de Gobierno por sí o en coordinación con los sistemas para el desarrollo integral de la familia de los municipios.
+(DEROGADO, P.O. 1 DE AGOSTO DE 2019)
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 48.
 
-Los centros de orientación familiar tendrán los objetivos siguientes:
+Los programas de fortalecimiento familiar tendrán, entre otros, los objetivos siguientes:
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1994)</small>
 
 I.- Procurar el bienestar familiar, en una relación de respeto y convivencia mutua;
 
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1994)</small>
+
 II.- Promover la comunicación constante dentro del núcleo familiar;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1994)</small>
 
 III.- Sensibilizar al padre y a la madre, o a quienes ejerzan la patria potestad o tengan la custodia, respecto de la función educativa para los hijos y menores a su cargo;
 
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1994)</small>
+
 IV.- Contribuir a la integración conyugal, a través de la información y la educación;
 
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1994)</small>
+
 V.- Fomentar la paternidad y la maternidad responsable;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1994)</small>
 
 VI.- Asesorar a los padres de familia para atender problemas de alcoholismo, drogadicción y otros semejantes, que atenten contra la integridad de la familia tanto de alguno de los cónyuges como de los hijos; y
 
@@ -811,17 +773,17 @@ VI.- Asesorar a los padres de familia para atender problemas de alcoholismo, dro
 
 VII.- En general, brindar la atención a todas las familias a través de programas interinstitucionales de atención.
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 49.
 
-Los centros de orientación familiar se sujetarán en cuanto a su integración, organización y funcionamiento a las disposiciones contenidas en el Reglamento Interior, que para tal efecto expida la Junta de Gobierno.
+Los programas de fortalecimiento familiar se sujetarán a las reglas de operación que para tal efecto expida la Junta de Gobierno.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 50.
 
-Los sistemas para el desarrollo integral de la familia de los municipios, procurarán la creación, en el ámbito de su competencia, de centros de orientación familiar de conformidad con lo que dispone el presente capítulo.
+El Organismo podrá coordinarse con los sistemas para el desarrollo integral de la familia de los municipios, para la implementación de los programas de fortalecimiento familiar.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 1994)</small>
 
@@ -1040,3 +1002,49 @@ Artículo Octavo. Las organizaciones de asistencia social que realicen cualquier
 Designación de representantes de la sociedad civil ante el Sistema
 
 Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 91.
+
+P.O. 1 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 90, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE DIVERSAS LEYES, PARA EL FORTALECIMIENTO DE LAS INSTITUCIONES ESPECIALIZADAS EN LA PROTECCIÓN Y RESTITUCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Adecuación orgánica de estructuras para la conformación de la Procuraduría
+
+Artículo Segundo. El Ejecutivo del Estado en un plazo no mayor a ciento ochenta días a partir de la entrada en vigencia del presente Decreto, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, como organismo público descentralizado, conforme a la estructura de la Procuraduría de Protección adscrita a la estructura orgánica del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato.
+
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la unidad administrativa del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, identificada como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, estarán a cargo del organismo público descentralizado de la administración pública estatal denominado como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Adecuaciones a reglamentos y decretos
+
+Artículo Tercero. El Ejecutivo del Estado en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigencia de este decreto deberá realizar las modificaciones a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de su vigencia.
+
+Instalación del Consejo Directivo de la Procuraduría Estatal de Protección
+
+Artículo Cuarto. El Consejo Directivo del organismo público descentralizado de la Administración Pública Estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato que se constituye mediante el presente Decreto, deberá instalarse dentro de los noventa días siguientes a que esté constituida ésta.
+
+Designación del titular de la Procuraduría Estatal de Protección
+
+Artículo Quinto. El Gobernador del Estado designará al titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, dentro de los treinta días siguientes a la conformación de ésta, en los términos del Artículo Segundo Transitorio.
+
+Instalación del Consejo Consultivo del Sistema para la Atención de las Familias Guanajuatenses
+
+Artículo Sexto. La integración e instalación del Consejo Consultivo del organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, deberá efectuarse dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, en los términos de lo dispuesto en el artículo 23 de la Ley sobre el Sistema Estatal de Asistencia Social que se reforma mediante el presente Decreto.
+
+Asignación de recursos a la Procuraduría Estatal de Protección
+
+Artículo Séptimo. La Secretaría de Finanzas y Administración definirá y aplicará los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a (sic) Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Los recursos presupuestales de la unidad administrativa del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato se reasignarán al organismo público descentralizado de la administración pública estatal denominada como Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Asuntos en trámite
+
+Artículo Octavo. Los asuntos y la documentación vigente o en trámite ante los Centros Multidisciplinarios para la Atención Integral de la Violencia previstos en la Ley para Prevenir, Atender y Erradicar la Violencia en el Estado de Guanajuato, se turnarán según corresponda a su competencia, a los institutos municipales para las mujeres, a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, por conducto de las procuradurías auxiliares, o al Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, según corresponda a la naturaleza y estado en que se encuentren los asuntos relativos, para su seguimiento y conclusión.
+
+Procesos de entrega recepción
+
+Artículo Noveno. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato transferirá al organismo público descentralizado de la administración pública estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y a la Secretaría de Gobierno, respectivamente y desde el ámbito de las competencias que les correspondan conforme al presente Decreto, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato haya venido destinando para la atención de las funciones que desempeñaba la unidad administrativa de dicho organismo denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y de la unidad administrativa de dicho organismo denominada Secretaría Ejecutiva del Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato hasta antes de la entrada en vigencia del presente Decreto, a través de la entrega-recepción respectiva.
+
+El Comité Interno de entrega-recepción, para cada unidad administrativa, deberá quedar conformado dentro de los cuarenta y cinco días siguientes a la entrada en vigencia del presente Decreto, en el que participarán las unidades administrativas competentes del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, el órgano interno de control de éste, la unidad administrativa (sic) Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Secretaría de Gobierno y su órgano interno de control, la Secretaría de Finanzas, Inversión y Administración y de la Secretaría de la Transparencia y Rendición de Cuentas.
