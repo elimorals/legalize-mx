@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2018-12-31"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,11 @@ issue_date: "2002-07-11"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE NOVIEMBRE DE 2019 EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE AGOSTO DE 2019.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -343,6 +345,16 @@ IV.- (Inexigibilidad de otra conducta). Cuando el agente, en atención a las cir
 Las causas de exclusión del delito se resolverán de oficio, en cualquier estado del proceso.
 
 Si el agente se excede en los casos de legítima defensa, estado de necesidad justificante, ejercicio de un deber y cumplimiento de un deber sé estará a lo previsto en último párrafo del artículo 83 de este Código.
+
+> <small>(ADICIONADO, G.O. 1 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 29 BIS. Se considera reincidente a la persona que haya sido condenada en virtud de sentencia que haya causado ejecutoria o terminación anticipada en materia penal, dictada por cualquier juez o tribunal, y que se le condene por la comisión de un nuevo delito doloso calificado como grave o que amerite prisión preventiva oficiosa, siempre y cuando no haya transcurrido, desde el cumplimiento de la condena, un término igual al de la prescripción de la sanción penal, salvo el caso de los delitos imprescriptibles establecidos en leyes generales.
+
+> <small>(ADICIONADO, G.O. 1 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 29 TER. La reincidencia será tomada en cuenta para la individualización judicial de la pena y para el otorgamiento o no de los beneficios o de los sustitutivos penales establecidos en las disposiciones legales correspondientes.
+
+En caso de que el imputado por algún delito doloso calificado por la ley como grave o que amerite prisión preventiva oficiosa, según corresponda, fuese reincidente por delitos de dicha naturaleza, la sanción aplicable por el nuevo delito cometido se incrementará en dos terceras partes y hasta en un tanto más de la pena máxima prevista para éste, sin que exceda del máximo señalado en el artículo 33 del presente Código.
 
 ## TÍTULO TERCERO. CONSECUENCIAS JURÍDICAS DEL DELITO
 
@@ -1390,6 +1402,10 @@ VII. Existe estado de alteración voluntaria: Cuando el agente lo comete en esta
 
 VIII. Existe odio cuando el agente lo comete por la condición social o económica; vinculación, pertenencia o relación con un grupo social definido; origen étnico o social; la nacionalidad o lugar de origen; el color o cualquier otra característica genética; sexo; lengua; género; religión; edad; opiniones; discapacidad; condiciones de salud; apariencia física; orientación sexual; identidad de genero; estado civil; ocupación o actividad de la víctima.
 
+> <small>(ADICIONADO, G.O. 1 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 138 BIS. Cuando la víctima sea integrante de alguna institución de seguridad ciudadana en el ejercicio de sus funciones o con motivo de ellas, la pena se agravará en una tercera parte; además se impondrán de 48 a 360 horas de trabajo en favor de la comunidad.
+
 ###### ARTÍCULO 139.
 
 No se impondrá pena alguna a quien por culpa ocasione lesiones u homicidio en agravio de un ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, cónyuge, concubina, concubinario o cuando entre el agente y el pasivo exista relación de pareja permanente, amistad o de familia, salvo que el agente se encuentre bajo el efecto de bebidas embriagantes, de estupefacientes o psicotrópicos, sin que medie prescripción médica, o bien que se diere a la fuga y no auxiliare a la víctima.
@@ -1420,27 +1436,33 @@ Cuando por culpa se causen a dos o más personas, lesiones de las previstas en l
 
 ### CAPITULO VI. FEMINICIDIO
 
-> <small>(ADICIONADO, G.O. 26 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2019)</small>
 
-###### Artículo 148 Bis.
-
-Comete el delito de feminicidio quien, por razones de género, prive de la vida a una mujer.
+ARTÍCULO 148 BIS. Comete el delito de feminicidio quien, por razones de género, prive de la vida a una mujer.
 
 Existen razones de género cuando se presente cualquiera de los siguientes supuestos:
 
 I. La víctima presente signos de violencia sexual de cualquier tipo;
 
-II. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previas o posteriores a la privación de la vida;
+II. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previas o posteriores a la privación de la vida o actos de necrofilia;
 
-III. Existan datos que establezcan que se han cometido amenazas, acoso, violencia o lesiones del sujeto activo en contra de la víctima;
+III. Existan antecedentes o datos que establezcan que el sujeto activo ha cometido amenazas, acoso, violencia, lesiones o cualquier otro tipo de violencia en el ámbito familiar, laboral o escolar de la víctima;
 
-IV. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar público; o
+IV. Haya existido entre el activo y la víctima una relación sentimental, afectiva laboral, docente o de confianza;
 
-V. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento.
+V. Exista, o bien, haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, noviazgo o cualquier otra relación de hecho o amistad; subordinación o superioridad.
 
-A quien cometa feminicidio se le impondrán de veinte a cincuenta años de prisión.
+VI. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar público;
 
-Si entre el activo y la víctima existió una relación sentimental, afectiva o de confianza; de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, y se acredita cualquiera de los supuestos establecidos en las fracciones anteriores, se impondrán de treinta a sesenta años de prisión.
+VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento.
+
+VIII. La víctima se haya encontrado en un estado de indefensión, entendiéndose éste como la situación de desprotección real o incapacidad que imposibilite su defensa, ya sea por la dificultad de comunicación para recibir auxilio, por razón de la distancia a un lugar habitado o por que exista algún impedimento físico o material para solicitar el auxilio.
+
+A quien cometa feminicidio se le impondrán de treinta y cinco a setenta años de prisión.
+
+En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+
+Tratándose de las fracciones IV y V el sujeto activo perderá todos los derechos en relación con la víctima incluidos los de carácter sucesorio.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -2552,7 +2574,11 @@ Los delitos previstos en este Capítulo, se perseguirán por querella.
 
 ### CAPÍTULO VI. EXTORSIÓN
 
+> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2019)</small>
+
 ### CAPÍTULO VII. DESPOJO
+
+> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2019)</small>
 
 ## TÍTULO DÉCIMO TERCERO. INVIOLABILIDAD DEL SECRETO
 
@@ -2642,9 +2668,9 @@ III. Prisión de dos a cuatro años y de ciento cincuenta a cuatrocientos días 
 
 IV. Prisión de cuatro a diez años y de cuatrocientos a seiscientos días multa, cuando el valor de lo robado exceda de setecientas cincuenta veces la Unidad de Cuenta de la Ciudad de México vigente.
 
-> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2019)</small>
 
-Para determinar la cuantía del robo, se atenderá únicamente al valor de mercado que tenga la cosa en el momento del apoderamiento.
+Para determinar la cuantía del robo, se atenderá únicamente al valor de mercado que tenga la cosa en el momento del apoderamiento, mismo valor que será considerado para efectos de la reparación integral del daño.
 
 ###### ARTÍCULO 221.
 
@@ -2686,63 +2712,65 @@ IX. En contra de persona con discapacidad o de más de sesenta años de edad; o
 
 X. Respecto de vales de papel, o cualquier dispositivo en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 224.
 
-Además de las penas previstas en el artículo 220 de este Código, se impondrá de dos a seis años de prisión, cuando el robo se cometa:
+Además de las penas previstas en el artículo 220 de este Código:
 
-I. En lugar habitado o destinado para habitación, o en sus dependencias, incluidos los movibles;
+A) Se impondrá de dos a seis años de prisión, cuando el robo se cometa:
 
-II. En una oficina bancaria, recaudadora, u otra en que se conserven caudales o valores, o contra personas que las custodien o transporten;
+I. Aprovechando la situación de confusión causada por una catástrofe, desorden público o la consternación que una desgracia privada cause al ofendido o a su familia;
 
-III. Encontrándose la víctima o el objeto del apoderamiento en un vehículo particular o de transporte público;
+II. En despoblado o lugar solitario;
 
-IV. Aprovechando la situación de confusión causada por una catástrofe, desorden público o la consternación que una desgracia privada cause al ofendido o a su familia;
+III. En contra del equipamiento y mobiliario urbano de la Ciudad de México.
 
-V. En despoblado o lugar solitario;
-
-> <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
-
-VI. Por quien haya sido o sea miembro de algún cuerpo de seguridad pública o personal operativo de empresas que presten servicios de seguridad privada, aunque no esté en servicio;
-
-VII. Valiéndose el agente de identificaciones falsas o supuestas órdenes de la autoridad;
-
-> <small>(ADICIONADA, G.O. 15 DE MAYO DE 2003)</small>
-
-VIII. Respecto de vehículo automotriz o parte de éste; o
-
-> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
-
-IX. En contra de transeúnte, entendiéndose por éste a quien se encuentre en la vía pública o en espacios abiertos que permitan el acceso público.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 8 DE MARZO DE 2017)</small>
-
-X. En contra del equipamiento y mobiliario urbano de la ciudad de méxico.
-
-(NOTA: EL 7 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 23/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE MARZO DE 2017 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-[N. DE E. PERTENECE A LA FRACCIÓN X, G.O. 8 DE MARZO DE 2017)
+(NOTA: EL 7 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 23/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN III DEL APARTADO A DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 2 DE AGOSTO DE 2019 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 Se entiende por equipamiento urbano: el conjunto de inmuebles, instalaciones, construcciones y mobiliario urbano, destinados a prestar a la población servicios públicos, de administración pública, de educación y cultura; de comercio, de salud y asistencia; de deporte y de recreación, de traslado y de transporte Y OTROS, para satisfacer sus necesidades y su bienestar.
 
-(NOTA: EL 7 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 23/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE MARZO DE 2017 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-[N. DE E. PERTENECE A LA FRACCIÓN X, G.O. 8 DE MARZO DE 2017)
+(NOTA: EL 7 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 23/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE LA FRACCIÓN III DEL APARTADO A DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 2 DE AGOSTO DE 2019 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 Se entiende por mobiliario urbano: Los elementos complementarios al equipamiento urbano, ya sean fijos, móviles, permanentes o temporales, ubicados en la vía pública o en espacios públicos formando parte de la imagen de la Ciudad, los que, según su función, se aplican para el descanso, comunicación, información, necesidades fisiológicas, comercio, seguridad, higiene, servicio, jardinería, ASÍ COMO AQUELLOS OTROS MUEBLES QUE DETERMINEN LA SECRETARÍA DE DESARROLLO URBANO Y VIVIENDA Y LA COMISIÓN MIXTA DE MOBILIARIO URBANO;
 
-> <small>(ADICIONADO, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
+IV. Valiéndose el agente de identificaciones falsas o supuestas órdenes de la autoridad;
 
-Tratándose de la fracción II de este artículo, además de las penas previstas en el artículo 220 de este Código, se impondrá de cinco a nueve años de prisión.
+V. Encontrándose la víctima o el objeto del apoderamiento en un vehículo particular o de transporte público;
+
+VI. Respecto de partes de vehículo automotriz;
+
+VII. Por quien haya sido o sea miembro de algún cuerpo de seguridad ciudadana o personal operativo de empresas que presten servicios de seguridad privada, aunque no esté en servicio.
+
+VIII. En contra de transeúnte, entendiéndose por éste a quien se encuentre en la vía pública o en espacios abiertos que permitan el acceso público;
+
+IX. Respecto de teléfonos celulares;
+
+X. En contra de persona que realice operaciones bancarias o financieras; depósito o retiro de efectivo o de títulos de crédito; al interior de un inmueble; en cajero automático o inmediatamente después de su salida.
+
+La misma pena se impondrá al empleado de la institución bancaria o financiera que colabore para la realización del robo.
+
+XI. Utilizando como medio comisivo, una motocicleta.
+
+B) Se impondrá de cuatro a ocho años, cuando se trate de vehículo automotriz.
+
+C) Se impondrá de cinco a nueve años de prisión cuando el robo se cometa en una oficina bancaria, recaudadora, u otra en que se conserven caudales o valores, o contra personas que las custodien o transporten.
+
+D) Cuando el robo se comenta (sic) en lugar habitado o destinado para habitación, o en sus dependencias, incluidos los movibles, se sancionará con pena de 4 a 10 años de prisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 225.
 
-Las penas previstas en los artículos anteriores, se incrementarán con prisión de dos a seis años, cuando el robo se cometa:
+Las penas previstas en los artículos anteriores, se incrementarán con prisión de dos a ocho años, cuando el robo se cometa:
 
-I. Con violencia física o moral, o cuando se ejerza violencia para darse a la fuga o defender lo robado; o
+> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2019)</small>
 
-II. Por una o más personas armadas o portando instrumentos peligrosos.
+I. Con violencia física o moral, o cuando se ejerza violencia para darse a la fuga o defender lo robado;
+
+> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2019)</small>
+
+II. Por una o más personas armadas; portando instrumentos peligrosos u otro objeto de apariencia similar que produzca en la victima coacción en su ánimo, o bien, empleándose arma blanca u otro instrumento punzo cortante o punzo penetrante.
 
 > <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -2912,61 +2940,57 @@ Al que se coloque en estado de insolvencia, con el objeto de eludir las obligaci
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE JUNIO DE 2004)</small>
 
-###### ARTÍCULO 236.
+###### Artículo 236.
 
-Al que obligue a otro a dar, hacer, dejar de hacer o tolerar algo, obteniendo un lucro para sí o para otro causando a alguien un perjuicio patrimonial, se le impondrán de dos a ocho años de prisión y de cien a ochocientos días multa.
+Al que obligue a otro a dar, hacer, dejar de hacer o tolerar algo, obteniendo un lucro para sí o para otro causando a alguien un perjuicio patrimonial, se le impondrán de cinco a diez años de prisión y de mil a dos mil unidades de medida y actualización.
 
-Cuando el delito se cometa en contra de persona mayor de sesenta años de edad, las penas se incrementarán en un tercio.
+(NOTA: EL 8 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS III Y IV, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 97/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 2 DE AGOSTO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO IMPUGNADO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-Las penas se aumentarán en dos terceras partes cuando el delito se realice por servidor público o miembro o ex-miembro de alguna corporación de seguridad pública o privada. Se impondrán además al servidor o ex-servidor público, o al miembro o exmiembro de corporación de seguridad pública o privada, la destitución del empleo, cargo o comisión público, y se le inhabilitará de uno a cinco años para desempeñar cargos o comisión públicos; también se le suspenderá el derecho para ejercer actividades en corporaciones de seguridad privada.
+Cuando el delito se cometa en contra de persona mayor de sesenta años de edad, las penas se incrementarán en un tercio. Las penas se aumentarán al doble cuando el delito se realice por servidor público miembro o ex-miembro de alguna corporación de seguridad ciudadana de cualquier nivel de gobierno. Se impondrán además al servidor o ex-servidor público, o al miembro o ex miembro de corporación de seguridad ciudadana o privada, la destitución del empleo, cargo o comisión público, y se le inhabilitará de cinco a diez años para desempeñar cargos o comisión públicos; TAMBIÉN SE LE SUSPENDERÁ EL DERECHO PARA EJERCER ACTIVIDADES EN CORPORACIONES DE SEGURIDAD PRIVADA.
 
-Además de las penas señaladas en el primer párrafo, se impondrá de dos a seis años de prisión, cuando en la comisión del delito:
+Además de las penas señaladas en el primer párrafo del presente artículo se impondrá de tres a ocho años de prisión, cuando en la comisión del delito:
 
-> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2016)</small>
+I. Intervenga una o más personas armadas, o portando instrumentos peligrosos; o
 
-I. Intervenga una o más personas armadas, o portando instrumentos peligrosos;
-
-> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2016)</small>
-
-II. Se emplee violencia física; o
-
-> <small>(ADICIONADA, G.O. 16 DE JUNIO DE 2016)</small>
+II. Se emplee violencia física.
 
 III. Se emplee cualquier mecanismo o amenaza, para hacer creer a la víctima, la supuesta intervención en el delito de algún grupo vinculado a la delincuencia organizada o asociación delictuosa sin ser ello cierto, aún y cuando ello sea solo para lograr que la víctima no denuncie el hecho.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 8 DE ENERO DE 2008)</small>
-
-Asimismo, las penas se incrementarán en una mitad cuando se utilice como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica.
+Asimismo, las penas se incrementarán en dos terceras partes cuando se utilice como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica.
 
 ### CAPÍTULO VI. INTIMIDACIÓN
 
 ###### ARTÍCULO 237.
 
-Se impondrán de tres meses a cinco años de prisión y de cincuenta a quinientos días multa:
+Se impondrán de dos a cinco años de prisión y de cien a quinientas unidades de medida y actualización:
 
 I. Al que de propia autoridad, por medio de violencia física o moral, el engaño o furtivamente, ocupe un inmueble ajeno, haga uso de él o de un derecho real que no le pertenezca;
 
-II. Al que de propia autoridad y haciendo uso de cualquiera de los medios indicados en la fracción anterior o furtivamente, ocupe un inmueble de su propiedad, en los casos en que la ley no lo permite por hallarse en poder de otra persona o ejerza actos de dominio que lesionen derechos legítimos del ocupante; o
+II. Al que de propia autoridad y haciendo uso de cualquiera de los medios indicados en la fracción anterior o furtivamente, ocupe un inmueble de su propiedad, en los casos en que la ley no lo permite por hallarse en posesión de otra persona o ejerza actos de dominio que lesionen derechos legítimos del ocupante; o
 
 III. Al que en los términos de las fracciones anteriores, cometa despojo de aguas.
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
-
 El delito se sancionará sin importar si el derecho a la posesión de la cosa usurpada sea dudosa o esté en disputa.
 
-###### ARTÍCULO 238.
+> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2019)</small>
 
-Cuando el despojo se realice por grupo o grupos, que en conjunto sean mayores de cinco personas, además de la pena señalada en el artículo anterior, se impondrá a los autores intelectuales y a quienes dirijan la invasión, de uno a seis años de prisión.
+###### Artículo 238.
 
-Cuando el delito se cometa en contra de persona mayor de sesenta años de edad o con discapacidad, las penas previstas en el artículo anterior, se incrementarán en una tercera parte.
+Además de la pena señalada en el artículo anterior, se impondrá de seis a diez años de prisión y de quinientas a dos mil unidades de medida y actualización:
 
-A quienes cometan en forma reiterada despojo de inmuebles urbanos en el Distrito Federal, se les impondrán de dos a nueve años de prisión y de cien a mil días multa.
+I. Cuando el despojo se realice por grupo o grupos de tres o más personas;
 
-> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 13 DE ENERO DE 2004)</small>
+II. Cuando el delito se cometa en contra de persona mayor de sesenta años de edad o con discapacidad;
 
-> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 13 DE ENERO DE 2004)</small>
+III. Cuando se simulen actos de autoridad;
 
-> <small>(DEROGADO SEXTO PÁRRAFO, G.O. 13 DE ENERO DE 2004)</small>
+IV. Cuando se utilice documentación falsa;
+
+V. Cuando participe un servidor público;
+
+VI. Cuando se cometa en contra de un ascendente.
+
+A quienes cometan en forma reiterada el despojo de inmuebles urbanos en la Ciudad de México, se les impondrán de dos a nueve años de prisión y de dos mil a cinco mil unidades de medida y actualización.
 
 ### CAPÍTULO VII. NEGACIÓN DEL SERVICIO PÚBLICO
 
@@ -3080,7 +3104,9 @@ Igualmente se requerirá querella para la persecución de terceros que hubiesen 
 
 Se investigarán por querella los delitos previstos en los artículos:
 
-a) 220, sin importar el monto de lo robado, salvo que concurra alguna de las agravantes a que se refieren las fracciones VIII y IX del artículo 223 o las previstas en las fracciones I y VIII del artículo 224, o cualquiera de las calificativas a que se refiere el artículo 225;
+> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2019)</small>
+
+a) 220, sin importar el monto de lo robado, salvo que concurra alguna de las agravantes a que se refieren las fracciones VIII y IX del artículo 223 o las previstas en las fracciones I, VIII, IX, X, XI e inciso D) del artículo 224, o cualquiera de las calificativas a que se refiere el artículo 225;
 
 b) 221 fracción II, 222, 227, 228, 229, 230, 231, 232, 233 bis, 234 y 235;
 
@@ -3434,8 +3460,6 @@ III. Las mismas sanciones se impondrán al servidor público que por sí o por i
 
 ### CAPÍTULO V. ULTRAJES A LA AUTORIDAD
 
-> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2012)</small>
-
 ###### ARTÍCULO 270.
 
 Se impondrá prisión de dos a ocho años, al servidor público que:
@@ -3634,7 +3658,7 @@ III. Se trate de obras de construcción que requiriendo dictamen de impacto urba
 
 ###### ARTÍCULO 287.
 
-Al que ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrán de seis meses a dos años de prisión y multa de veinte a cien días multa.
+(DEROGADO, G.O. 1 DE AGOSTO DE 2019)
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -3698,9 +3722,13 @@ I. Se abstenga, sin tener impedimento legal, de conocer un asunto que le corresp
 
 II. Omita dictar deliberadamente, dentro del plazo legal, una sentencia definitiva o cualquier otra resolución de fondo o de trámite;
 
-III. Retarde o entorpezca indebidamente la administración de justicia; o
+III. (DEROGADA, G.O. 1 DE AGOSTO DE 2019)
 
 IV. Bajo cualquier pretexto, se niegue injustificadamente a despachar, dentro del plazo legal, un asunto pendiente ante él.
+
+> <small>(ADICIONADO, G.O. 1 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 292 BIS. Al servidor público que retarde o entorpezca indebidamente la procuración o administración de justicia, se le impondrá pena de prisión de tres a ocho años y de trescientas a mil unidades de medida y actualización, además, será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos
 
 ### CAPÍTULO II. USURPACIÓN DE PROFESIÓN
 
@@ -5893,3 +5921,11 @@ SEXTO. Se abroga la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México
 SÉPTIMO. El Reglamento de la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México, se continuará aplicando en lo que no se contraponga con la presente Ley, hasta en tanto el titular de la Jefatura de Gobierno, emita el Reglamento de esta Ley, en un plazo no mayor a 90 días naturales.
 
 OCTAVO. Se derogan las normas jurídicas que se opongan al presente Decreto.
+
+G.O. 1 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA, DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL DISTRITO FEDERAL Y DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO: Publíquese en la Gaceta Oficial de la Ciudad de México.
