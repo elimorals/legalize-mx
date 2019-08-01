@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fomento-al-primer-empleo-y-a-la-primera-empresa-para-123
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-13"
-last_updated: "2017-10-13"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FOMENTO AL PRIMER EMPLEO Y A LA PRIMERA EMPRESA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
 
 Ley publicada en la Décima Tercera Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 13 de octubre de 2017.
 
@@ -133,15 +133,37 @@ I. Mecanismos para promover y financiar primeras empresas sostenibles;
 
 II. La educación en la cultura emprendedora en los jóvenes a través de acciones que impulsen la constitución de nuevas primeras empresas y su consolidación;
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 1 DE AGOSTO DE 2019)</small>
+
+II. Bis. Un manual informativo elaborado por la Secretaría, el cual será difundido gratuitamente por medios impresos y electrónicos, cuyo fin será el de auxiliar, agilizar, capacitar y apoyar en los tópicos básicos para la instalación de la Primera Empresa. Dicho manual deberá contener al menos de forma específica:
+
+a) Los requisitos elementales y plazos para establecer una Primera Empresa;
+
+b) Las reglas de operación del Programa de Fomento a la Primera Empresa, los presupuestos destinados por parte de la Secretaría y el Instituto para este fin;
+
+c) Los estímulos, incentivos y beneficios fiscales;
+
+d) Obtención de certificaciones;
+
+e) Mejora de la calidad;
+
+f) Técnicas de ventas y establecimientos de nichos de mercado;
+
+g) Estudios de mercado en los cuales se refleje las potencialidades empresariales por región y por producto; y,
+
+h) Listado de convenios instituciones académicas, con proveedores y con cadenas comerciales por región.
+
 III. Políticas de corto, mediano y largo plazo, para elevar la productividad y competitividad de las primeras empresas;
 
 IV. Esquemas que faciliten a las primeras empresas el abastecimiento de bienes y servicios al sector público estatal y municipal, en el marco de la normatividad aplicable; y,
 
 V. Apoyos técnicos y económicos con tasa preferencial, para la creación y consolidación de las primeras empresas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 13.
 
-Para el cumplimiento del objetivo de esta Ley y el Programa de Primera Empresa, la Secretaría de Desarrollo Económico y el Instituto de la Juventud implementarán acciones que faciliten su conocimiento, así como brindar información y orientación a los jóvenes interesados en participar en dicho Programa, con la finalidad de coadyuvar en la generación y fortalecimiento de empresas juveniles.
+Para el cumplimiento del objetivo de esta Ley y el Programa de Primera Empresa, la Secretaría de Desarrollo Económico y el Instituto de la Juventud implementarán acciones que faciliten su conocimiento, así como brindar información y orientación, a los jóvenes interesados en participar en dicho Programa, así como la publicación y difusión permanente de los manuales informativos establecidos, con la finalidad de coadyuvar en la generación y fortalecimiento de empresas juveniles.
 
 Para la constitución de las Primeras Empresas se desarrollarán y brindarán programas de capacitación y asesoría gratuita en materia:
 
@@ -268,3 +290,15 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 31 treinta y un días del mes de agosto de 2017 dos mil diecisiete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- LIC. ADRIÁN LÓPEZ SOLÍS.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 136 POR EL QUE “SE ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 12; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 13, DE LA LEY DE FOMENTO AL PRIMER EMPLEO Y A LA PRIMERA EMPRESA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos correspondientes.
+
+TERCERO. La Secretaría de Desarrollo Económico del Gobierno del Estado contará con un término de sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto para su cumplimiento. En caso de que, derivado de su asignación presupuestal no contara con el recurso económico necesario para dicho efectos, podrá auxiliarse de la Secretaría de Finanzas y Administración del Gobierno del Estado.
