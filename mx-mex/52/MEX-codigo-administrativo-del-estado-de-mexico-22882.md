@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2019-06-12"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE AGOSTO DE 2019.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -8781,7 +8781,11 @@ II. Adoptar las medidas necesarias para llevar a cabo la verificación e inspecc
 
 III. Vigilar el control sanitario en la movilización de la agricultura, acuacultura, apicultura y el agave, sus productos y subproductos y demás actividades agropecuarias dentro del Estado de México.
 
-IV. Las demás que señale este Libro, su Reglamento y otras disposiciones jurídicas aplicables en la materia.
+> <small>(ADICIONADA, G.G. 1 DE AGOSTO DE 2019)</small>
+
+IV. Fomentar la rotación, asociación de cultivos y cultivos múltiples para la conservación del suelo y sostenibilidad del campo mexiquense.
+
+V. Las demás que señale este Libro, su Reglamento y otras disposiciones jurídicas aplicables en la materia.
 
 ###### Artículo 9.
 
@@ -8827,11 +8831,15 @@ VIII. Los mecanismos que permitan la obtención de financiamientos con tasas pre
 
 IX. La utilización de instrumentos de mercado para la administración de riesgos. Lo anterior, sin perjuicio de gestionar recursos y apoyos ante los gobiernos federal y municipales para atender a los productores afectados por desastres naturales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(ADICIONADA, G.G. 1 DE AGOSTO DE 2019)</small>
+
+X. La producción agroecológica en el Estado de México, desarrollando programas de capacitación, investigación e inversión para implementar la rotación, cultivos múltiples y asociación de cultivos buscando el equilibrio entre la responsabilidad ecológica, la viabilidad económica y la justicia social en la producción agropecuaria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 9.
 
-7.- El impulso del desarrollo agropecuario, de la acuacultura, apicultura y el agave tendrá presente en todo momento el desarrollo sustentable de la producción primaria bajo criterios de conservación, recuperación, rehabilitación y uso óptimo de los suelos, el agua y demás recursos naturales, así como de prevención y mitigación del impacto ambiental y de las emisiones de gases de efecto invernadero de las actividades productivas en los ecosistemas y la biodiversidad.
+7. El impulso del desarrollo agropecuario, de la acuacultura, apicultura y el agave tendrá presente en todo momento el desarrollo sustentable de la producción primaria bajo criterios de conservación, recuperación, rehabilitación y uso óptimo de los suelos con rotación y asociación de cultivos, del agua y demás recursos naturales, así como de prevención y mitigación del impacto ambiental y de las emisiones de gases de efecto invernadero de las actividades productivas en los ecosistemas y la biodiversidad.
 
 Para tal efecto, la Secretaría de Desarrollo Agropecuario promoverá:
 
@@ -8842,6 +8850,10 @@ II. La reconversión productiva de zonas en las que se pueda atender de manera p
 III. Que los programas para la tecnificación del riego que realicen los diferentes ámbitos de gobierno den atención prioritaria a las regiones en las que se registre sobreexplotación de los acuíferos o degradación de la calidad de las aguas, en correspondencia con los compromisos de organizaciones y productores de ajustar la explotación de los recursos en términos que garanticen la sustentabilidad de la producción;
 
 IV. La erradicación del sistema de rosa, tumba y quema y de incendios inducidos para fines de explotación agropecuarias.
+
+> <small>(ADICIONADA, G.G. 1 DE AGOSTO DE 2019)</small>
+
+V. Un modelo de agricultura sostenible, inclusiva y eficaz en el uso de los recursos, a través de la implementación de rotación, asociación de cultivos y cultivos múltiples que lleve a la adaptación de la agroecología.
 
 ### CAPITULO CUARTO
 
@@ -8883,9 +8895,9 @@ VIII. La certificación en la calidad, inocuidad y producción orgánica de los 
 
 9.- La Secretaría de Desarrollo Agropecuario promoverá:
 
-> <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.G. 1 DE AGOSTO DE 2019)</small>
 
-I. Proyectos de investigación científica y desarrollo tecnológico en materia agropecuaria, de la acuacultura, apicultura y el agave.
+I. Proyectos de investigación científica y desarrollo tecnológico en materia agropecuaria, de la acuacultura, apicultura, el agave e investigación de la simbiosis de cultivos para su asociación, cultivos múltiples y rotación.
 
 > <small>(REFORMADA, G.G. 6 DE JUNIO DE 2016)</small>
 
@@ -11837,7 +11849,7 @@ Las infracciones cometidas por los informantes serán sancionadas conforme al ar
 
 59.- Para efectos de este Libro comete una infracción en materia de informática, la persona que dolosamente y sin derecho realice cualquiera de las siguiente (sic) conductas:
 
-I. Acceder a algún banco de datos, sistema de cómputo o red del IGECEM, sin autorización legal o expresa emitida por autoridad competente del IGECEM;
+I. Acceder a algún banco de datos, sistema de cómputo o red del IGECEM sin autorización legal o expresa emitida por autoridad competente del IGECEM;
 
 II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alterar, dañar o destruir de forma directa o indirecta, total o parcial, algún soporte lógico, programa, o dato contenido en los equipos, sistemas, bancos de datos o redes del IGECEM, sin autorización legal o expresa emitida por autoridad competente del IGECEM.
 
@@ -18248,3 +18260,13 @@ G.G. 12 DE JUNIO DE 2019.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno” del Estado de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno" del Estado de México.
+
+G.G. 1 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 72.- POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 9.7 Y LA FRACCIÓN I DEL ARTÍCULO 9.9. SE ADICIONAN LA FRACCIÓN IV RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 9.3, LA FRACCIÓN X DEL ARTÍCULO 9.6, LA FRACCIÓN V DEL ARTÍCULO 9.7, DEL LIBRO NOVENO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los procedimientos y actividades que se hayan iniciado previo a la entrada en vigor del presente Decreto, en relación con las disposiciones del mismo, deberán tramitarse hasta su conclusión en los términos de las normas que estuvieron vigentes en su inicio.
