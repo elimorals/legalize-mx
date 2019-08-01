@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-el-desarrollo-de-la-competitividad-de-la-micro-100198"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-27"
-last_updated: "2016-01-21"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
 
 (REPUBLICADO EL DECRETO NÚMERO 99, P.O. 21 DE ENERO DE 2016)
 
@@ -231,9 +231,37 @@ XI. Realizar la función de coordinación a que se refiere la presente Ley, para
 
 XII. Desarrollar a través de los instrumentos con que cuenta y los que genere, un sistema general de información y consulta para la planeación sobre los sectores productivos y cadenas productivas;
 
-XIII. Proponer a través de las instancias competentes, la homologación de la normativa y trámites, por lo que se refiere a la materia de la presente Ley; y,
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-XIV. Diseñar un esquema de seguimiento e identificación de resultados de los programas de apoyo establecidos.
+XIII. Proponer a través de las instancias competentes, la homologación de la normativa y trámites, por lo que se refiere a la materia de la presente Ley;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+XIV. Diseñar un esquema de seguimiento e identificación de resultados de los programas de apoyo establecidos; y,
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 1 DE AGOSTO DE 2019)</small>
+
+XV. Elaborar, actualizar y difundir gratuitamente por medios impresos y electrónicos, al menos anualmente, un manual informativo que será propuesto al Consejo para su aprobación, que busque auxiliar, agilizar, capacitar y apoyar en los tópicos básicos para la instalación de una micro, pequeña y mediana empresa. Dicho manual deberá contener de forma específica y sencilla lo siguiente:
+
+a) Los requisitos elementales y plazos para establecer una micro, pequeña y mediana empresa;
+
+b) Un directorio de las dependencias gubernamentales estatales y municipales a las cuales acudir para recibir información, capacitación y asesoría, en el diseño, instalación y seguimiento de las micros, pequeñas y medianas empresas.
+
+La capacitación y asesoría que se les brindará a los interesados será gratuita y principalmente en materia: evaluación de proyectos, jurídica, contable, administrativa, financiera y seguridad social;
+
+c) Los programas vigentes, sus reglas de operación y presupuestos destinados, por parte de la Secretaría para este fin, los cuales deberán ser de manera preferente para jóvenes universitarios y recién egresados, madres jefas de familia y personas adultas mayores;
+
+d) Los estímulos establecidos en la presente Ley;
+
+e) Obtención de certificaciones;
+
+f) Mejora de la calidad de sus productos;
+
+g) Técnicas de ventas y establecimientos de nichos de mercado;
+
+h) Estudios de mercado en los cuales se refleje las potencialidades empresariales por región y por producto; y,
+
+i) Listado de convenios con instituciones académicas, con proveedores y con cadenas comerciales por región.
 
 (REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2016) (REPUBLICADO, P.O. 21 DE ENERO DE 2016)
 
@@ -269,9 +297,9 @@ XII. La ejecución y evaluación de una estrategia para generar las condiciones 
 
 XIII. Un entorno favorable para la creación, desarrollo y crecimiento con calidad de las MIPYMES considerando las necesidades, el potencial y vocación de cada región;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-XIV. La celebración de acuerdos con las dependencias y entidades de la Administración Pública Estatal, las instituciones públicas y privadas de educación media superior y superior, los Ayuntamientos o grupos de Ayuntamientos, para una promoción coordinada de las acciones de fomento para la competitividad de las MIPYMES, que desarrollen las propuestas regionales y la concurrencia de programas y proyectos.
+XIV. La celebración de acuerdos con las dependencias y entidades de la Administración Pública Estatal, las instituciones públicas y privadas de educación media superior y superior, los Ayuntamientos o grupos de Ayuntamientos, para una promoción permanente y coordinada de los manuales de información establecidos en la presente Ley, de las acciones de fomento para la competitividad de las MIPYMES, que desarrollen las propuestas regionales y la concurrencia de programas y proyectos;
 
 XV. Participar en el desarrollo de un sistema general de información y consulta para la planeación sobre los sectores productivos y cadenas productivas;
 
@@ -327,9 +355,17 @@ VII. Consolidación de oferta exportable;
 
 VIII. Información general en materia económica acordes a las necesidades de las MIPYMES;
 
-IX. Fomento para el desarrollo sustentable en el marco de la normativa ecológica aplicable; y,
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-X. Otorgamiento de estímulos fiscales y no fiscales.
+IX. Fomento para el desarrollo sustentable en el marco de la normativa ecológica aplicable;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+X. Otorgamiento de estímulos fiscales y no fiscales; y,
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+XI. Elaboración al menos de forma anual, de los manuales informativos establecidos en la presente Ley.
 
 Adicionalmente, la Secretaría promoverá esquemas para facilitar el acceso al financiamiento público y privado a las MIPYMES.
 
@@ -360,6 +396,10 @@ VII. El titular de la Secretaría de Urbanismo y Medio Ambiente;
 VIII. El titular de la Secretaría de Comunicaciones y Obras Públicas;
 
 IX. El titular de la Secretaría de Turismo;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+IX. Bis. El Diputado presidente de la Comisión de Industria, Comercio y Servicios del Congreso del Estado;
 
 X. El Subsecretario para la Pequeña y Mediana Empresa de la Secretaría de Desarrollo Económico;
 
@@ -442,6 +482,10 @@ X. Formular mecanismos y estrategias de promoción a la exportación directa e i
 (REFORMADA, P.O. 1 DE ENERO DE 2016) (REPUBLICADA, P.O. 21 DE ENERO DE 2016)
 
 XI. Impulsar esquemas que faciliten el acceso al financiamiento de las MIPYMES, y de las empresas constituidas como resultado de los programas de incubadoras de empresas en las instituciones públicas y privadas de educación media superior y superior;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+XI. Bis. Aprobar y en su caso hacer las modificaciones que consideren pertinentes a los manuales informativos contemplados en la presente Ley, para que sean ejecutados por la Secretaría;
 
 (REFORMADA, P.O. 1 DE ENERO DE 2016) (REPUBLICADA, P.O. 21 DE ENERO DE 2016)
 
@@ -654,3 +698,13 @@ REPUBLICADO, P.O. 21 DE ENERO DE 2016.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 136 POR EL QUE “SE REFORMAN LAS FRACCIONES XIII Y XIV; Y SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 8; SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 9; SE REFORMAN LAS FRACCIONES IX Y X; Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 12; SE ADICIONA LA FRACCIÓN IX BIS AL ARTÍCULO 14; Y SE ADICIONA LA FRACCIÓN XI BIS AL ARTÍCULO 23, DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE MICHOACÁN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos correspondientes.
+
+TERCERO. La Secretaría de Desarrollo Económico del Gobierno del Estado contará con un término de sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto para su cumplimiento. En caso de que, derivado de su asignación presupuestal no contara con el recurso económico necesario para dicho (sic) efectos, podrá auxiliarse de la Secretaría de Finanzas y Administración del Gobierno del Estado.
