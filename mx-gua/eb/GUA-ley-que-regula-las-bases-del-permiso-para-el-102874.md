@@ -4,7 +4,7 @@ identifier: "GUA-ley-que-regula-las-bases-del-permiso-para-el-102874"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-17"
-last_updated: "2016-07-01"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY QUE REGULA LAS BASES DEL PERMISO PARA EL ESTABLECIMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de octubre de 2014.
 
@@ -55,7 +55,9 @@ Fines de la Ley
 
 Son fines de la presente Ley:
 
-I. Establecer las bases para la expedición del permiso estatal relacionado a los establecimientos mercantiles cuyo propósito sea realizar u ofertar al público la celebración de contratos de mutuo con interés y garantía prendaria; lo correspondiente al refrendo, modificación, reposición y cancelación del mismo; así como establecer las medidas tendientes a evitar que artículos de procedencia ilícita sean depositados en esos establecimientos; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+I. Establecer las bases para la expedición del permiso estatal relacionado a los establecimientos mercantiles cuyo propósito sea realizar u ofertar al público la celebración de contratos de mutuo con interés y garantía prendaria; lo correspondiente al refrendo, modificación, reposición y cancelación del mismo; así como dictar las medidas de seguridad tendientes a evitar que artículos de procedencia ilícita sean depositados en esos establecimientos; y
 
 II. Regular los mecanismos mínimos de cooperación y auxilio de las autoridades ministeriales en el desahogo de sus tareas relativas a los expedientes de investigación, que permitan agilizar la identificación pronta y expedita de los presuntos responsables, así como de los bienes sujetos a la determinación en la comisión de algún delito.
 
@@ -65,21 +67,35 @@ Glosario
 
 Para efectos de esta Ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN II], P.O. 1 DE AGOSTO DE 2019)</small>
 
-I. Permiso: acto administrativo personal e intransferible por medio del cual la Secretaría de Finanzas, Inversión y Administración, autoriza el establecimiento en el territorio del estado de los establecimientos cuyo propósito es realizar y ofertar la celebración de contratos de mutuo con interés y garantía prendaria;
+I. Casas de empeño: establecimientos mercantiles que realizan u ofertan al público contratos de mutuo con interés y garantía prendaria;
 
-II. Casas de empeño: establecimientos mercantiles que realizan u ofertan al público contratos de mutuo con interés y garantía prendaria;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2019)</small>
+
+II. Fiscalía: la Fiscalía General del Estado de Guanajuato;
 
 III. Ley: la Ley que Regula las Bases del Permiso para el Establecimiento de las Casas de Empeño en el Estado de Guanajuato y sus Municipios;
 
-IV. Procuraduría: la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2019)</small>
 
-V. Peticionario: persona física o jurídico colectiva que conforme a esta Ley solicite la expedición del permiso, así como el refrendo, modificación o reposición del mismo; y
+IV. Organismos garantes en materia de protección de datos personales: el Instituto de Acceso a la Información Pública para el Estado de Guanajuato y el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN I], P.O. 1 DE AGOSTO DE 2019)</small>
 
-VI. Secretaría: la Secretaría de Finanzas, Inversión y Administración.
+V. Permiso: acto administrativo personal e intransferible por medio del cual la Secretaría de Finanzas, Inversión y Administración, autoriza el establecimiento en el territorio del estado de los establecimientos cuyo propósito es realizar y ofertar la celebración de contratos de mutuo con interés y garantía prendaria;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+VI. Peticionario: persona física o jurídico colectiva que conforme a esta Ley solicite la expedición del permiso, así como del refrendo, modificación o reposición del mismo;
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VI], P.O. 1 DE AGOSTO DE 2019)</small>
+
+VII. Secretaría: la Secretaría de Finanzas, Inversión y Administración; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2019)</small>
+
+VIII. Sistemas de reconocimiento de huellas dactilares: los dispositivos y aplicaciones tecnológicas empleadas en el procedimiento de registro, conversión, almacenamiento, comparación y decisión utilizado para la identificación de las huellas dactilares de una persona.
 
 Sujetos obligados
 
@@ -98,6 +114,14 @@ Coordinación entre autoridades
 ###### Artículo 5.
 
 Las entidades y dependencias del Poder Ejecutivo y los ayuntamientos deberán coordinarse entre sí para el cumplimiento del objeto y fines de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+La Fiscalía y la Secretaría deberán coordinarse con los organismos garantes en materia de protección de datos personales, para contar con su asistencia técnica y asesoría para el cumplimiento de los objetivos de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+El Instituto de Acceso a la Información Pública para el Estado de Guanajuato deberá coadyuvar con la Secretaría para la elaboración de lineamientos en los que se determinen las características y medidas de seguridad de los sistemas de reconocimiento de huellas dactilares, con los que deberán contar las casas de empeño para los fines señalados en la presente Ley, así como formatos y documentos que correspondan a la transmisión de huellas dactilares y datos personales.
 
 Supletoriedad
 
@@ -119,7 +143,9 @@ I. El Ejecutivo del Estado;
 
 II. La Secretaría de Finanzas, Inversión y Administración;
 
-III. La Procuraduría General de Justicia; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+III. La Fiscalía; y
 
 IV. Los ayuntamientos.
 
@@ -129,37 +155,83 @@ Atribuciones del Titular del Poder Ejecutivo
 
 Corresponde al Titular del Poder Ejecutivo expedir el permiso para el establecimiento en el territorio del estado de las casas de empeño en el Estado de Guanajuato, así como el refrendo, modificación, reposición y cancelación del mismo, actos que realizarán por conducto de la Secretaría.
 
-> <small>(REFORMADO SU ACÁPITE, P.O. 21 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 1 DE AGOSTO DE 2019)</small>
 
-Atribuciones de la Secretaría de Finanzas, Inversión y Administración
+Atribuciones de la Secretaría
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 9.
 
-Corresponde a la Secretaría de Finanzas, Inversión y Administración lo siguiente:
+Corresponde a la Secretaría lo siguiente:
 
 I. Recibir, analizar y resolver sobre las solicitudes de expedición, refrendo, modificación, reposición y cancelación del permiso para la instalación y funcionamiento de casas de empeño;
 
-II. Integrar un padrón de los permisos expedidos para la instalación y funcionamiento de las casas de empeño;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+II. Integrar un padrón de los permisos expedidos para la instalación y funcionamiento de las casas de empeño, así como de los sistemas de reconocimiento de huellas dactilares autorizados;
 
 III. Publicar anualmente en el Periódico Oficial del Gobierno del Estado el padrón de los permisos expedidos a las casas de empeño establecidas en el estado. La publicación también deberá realizarse en la página oficial de la Secretaría y deberá ser actualizada periódicamente y estar disponible de manera permanente para su consulta;
 
-IV. Realizar las visitas de verificación e inspección a las casas de empeño con el objeto de constatar el cumplimiento de las disposiciones contenidas en la presente Ley. Dicha facultad podrá ser delegada a los ayuntamientos mediante convenios de coordinación;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2019)</small>
+
+IV. Realizar las visitas de verificación e inspección a las casas de empeño y a los sistemas de reconocimiento de huellas dactilares con que operen, con el objeto de constatar el cumplimiento de las disposiciones contenidas en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Mediante convenios de coordinación, la Secretaría podrá delegar a los ayuntamientos la facultad para realizar visitas de inspección y verificación, con excepción de la facultad para inspeccionar y verificar los sistemas de reconocimiento de huellas dactilares con que cuenten las casas de empeño;
 
 V. Cancelar los permisos en los términos que establece el presente ordenamiento;
 
-VI. Comunicar a la Procuraduría sobre el cambio de domicilio o de propietario, así como en los de clausura o suspensión del servicio prestado por las casas de empeño; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+VI. Comunicar a la Fiscalía:
+
+a) Los cambios de domicilio o de propietario de las casas de empeño;
+
+b) Las casas de empeño que hayan sido objeto de clausura o suspensión del servicio prestado; y
+
+c) Los sistemas de reconocimiento de huellas dactilares que hayan sido objeto de aseguramiento por incumplir las disposiciones de esta Ley y demás normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+VI bis. Expedir los lineamientos en los que se especifiquen las características y medidas de seguridad de los sistemas de reconocimiento de huellas dactilares con los que deberán contar las casas de empeño para su autorización, y las condiciones a las que se sujetarán para su inspección y verificación periódicas.
+
+Dichos lineamientos deberán contener al menos:
+
+a) Las características técnicas de los sistemas de reconocimiento de huellas dactilares;
+
+b) Las medidas necesarias para garantizar la integridad, confiabilidad, confidencialidad, disponibilidad y seguridad de los sistemas de reconocimiento de huellas dactilares tanto por los particulares como por las autoridades;
+
+c) El contenido del formato del registro de las personas responsables de la recopilación de las huellas dactilares y datos personales por parte de las casas de empeño; y
+
+d) El contenido del modelo de aviso de privacidad con el que deberán contar las casas de empeño;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+VI bis. 1. Autorizar los sistemas de reconocimiento de huellas dactilares que se utilizarán por las casas de empeño para los fines especificados en esta Ley, de conformidad con los lineamientos a que se refiere la fracción anterior; y
 
 VII. Las demás que establezca la Ley y otros ordenamientos legales.
 
-Atribuciones de la Procuraduría
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Atribuciones de la Fiscalía
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 10.
 
-Corresponde a la Procuraduría General de Justicia:
+Corresponde a la Fiscalía:
 
 I. Realizar el cotejo de los datos de identificación de los bienes que le sean reportados por las casas de empeño con la información que conste en las investigaciones por la comisión de delitos que se encuentren en trámite; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+I bis. Acceder conforme a la normativa aplicable a la información que esté disponible en los sistemas de reconocimiento de huellas dactilares de las casas de empeño;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+I bis 1. Efectuar el cotejo y verificación de las huellas dactilares que le sean transferidas por las casas de empeño con las bases de datos criminológicas, cuando medie el consentimiento expreso y por escrito del titular de las huellas dactilares o cuando cuente con la orden de la autoridad judicial para dicho propósito, en términos de la legislación procesal penal correspondiente, con observancia además de lo dispuesto en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Guanajuato y las demás leyes aplicables; y
 
 II. Las demás que establezca la presente Ley y otros ordenamientos legales.
 
@@ -187,19 +259,41 @@ Son obligaciones de las casas de empeño:
 
 I. Exhibir en un lugar visible el permiso, modificación, reposición y refrendo que le fue expedido para su instalación y funcionamiento;
 
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+I bis. Exhibir, en lugar visible, el aviso de privacidad y darlo a conocer a los titulares de las huellas dactilares y datos personales, previamente a su tratamiento. Lo anterior con independencia del aviso que corresponda a las casas de empeño;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+I bis 1. Efectuar el tratamiento al nombre, domicilio, imagen de la identificación, firma, huella dactilar, fotografía del pignorante e imagen de los objetos dejados en prenda de las personas que empeñen bienes o artículos, cuando éstos lo autoricen por escrito o en cumplimiento de una orden judicial en los términos de la legislación procesal correspondiente, a través de la plataforma informática determinada por la Secretaría;
+
 II. Proporcionar la información que le sea solicitada por la Secretaría y ayuntamientos;
 
 III. Permitir los actos de inspección y verificación ordenados por la Secretaría y ayuntamientos;
 
 IV. Dar aviso a la Secretaría sobre la imposición de las sanciones a que se refiere la Ley Federal de Protección al Consumidor que impliquen una suspensión, prohibición, cesación temporal o definitiva de las actividades mercantiles para la cual se constituyó, así como de cualquier cambio en su denominación o propietarios del establecimiento; y
 
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+IV bis. Registrar en la plataforma informática determinada por la Secretaría el nombre, domicilio, imagen de la identificación, firma, huella dactilar, fotografía del pignorante e imagen de los objetos dejados en prenda, el mismo día que se realice la operación;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+IV bis 1. Implementar los mecanismos de máxima seguridad que se determinen en los lineamientos referidos en el artículo 9, para asegurar la confidencialidad de las huellas dactilares y los demás datos personales, y los informes que se remitan a la Fiscalía; y
+
 V. Las demás que establezca la presente Ley y otros ordenamientos legales.
 
 Reporte
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 13.
 
-Las casas de empeño deberán hacer de conocimiento de la Procuraduría los actos o hechos relacionados con las operaciones que realizan, atendiendo lo establecido por el artículo 65 bis 7 de la Ley Federal de Protección al Consumidor.
+Las casas de empeño, dentro de los primeros cinco días de cada mes, deberán hacer de conocimiento de la Fiscalía los actos o hechos relacionados con las operaciones que realizan, atendiendo lo establecido por el artículo 65 bis 7 de la Ley Federal de Protección al Consumidor.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Asimismo, a través de los sistemas y procedimientos que determine la Fiscalía, las casas de empeño deberán remitir a esta última, el informe sobre las personas titulares de las huellas dactilares, que hayan sido tratadas.
 
 Deber de denunciar
 
@@ -240,6 +334,10 @@ II. Comprobante del domicilio del establecimiento principal y de las sucursales,
 III. Copia certificada del acta constitutiva, así como del poder notarial otorgado al representante legal, en el caso de que el peticionario sea persona moral, y copia simple de una identificación oficial tratándose de una persona física;
 
 IV. Copia simple, así como el original para su cotejo de la constancia que ampare la inscripción del establecimiento en el Registro de Casas de Empeño a cargo de la Procuraduría Federal del Consumidor;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+IV bis. La autorización y validación de los sistemas de reconocimiento de huellas dactilares que se emplearán en las casas de empeño, que reúnan las características y medidas de seguridad;
 
 V. Autorización de ocupación y uso expedida por la autoridad municipal;
 
@@ -284,6 +382,10 @@ II. Nombre, razón social o denominación del peticionario;
 III. Domicilio del establecimiento señalado en el permiso de autorización de ocupación y uso expedido por la autoridad municipal;
 
 IV. Mención de ser casa de empeño;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+IV bis. Los datos de identificación y especificaciones del sistema de reconocimiento de huellas dactilares autorizados;
 
 V. La obligación del peticionario de refrendar el permiso en los términos que establezca la Ley;
 
@@ -379,7 +481,9 @@ Para obtener la reposición del permiso, el peticionario deberá presentar una s
 
 I. Permiso original, en los casos de deterioro grave; o
 
-II. Copia de la denuncia presentada con motivo del robo o extravío, expedida por la Procuraduría.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+II. Copia de la denuncia presentada con motivo del robo o extravío, expedida por la Fiscalía.
 
 Plazo para resolver la solicitud de reposición
 
@@ -431,6 +535,10 @@ X. El visitado, su representante o la persona con la que se haya entendido la vi
 
 La Secretaría o los ayuntamientos, según sea el caso, para la ejecución de la facultad de verificar e inspeccionar, podrán hacerse auxiliar de la fuerza pública.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+
+La Secretaría realizará visitas de verificación sobre los sistemas de reconocimiento de huellas dactilares autorizados a las casas de empeño en los términos de las fracciones anteriores.
+
 ### Capítulo IX. Sanciones
 
 Tipos de sanciones
@@ -455,13 +563,19 @@ I. Solicite extemporáneamente el refrendo o la modificación del permiso;
 
 II. Omita exhibir en un lugar visible el permiso, modificación, reposición y refrendo que le fue expedido para su instalación y funcionamiento;
 
-III. Se niegue a proporcionar la información que le sea solicitada por la Secretaría o el Ayuntamiento;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+III. Se niegue a proporcionar la información que le sea solicitada por la Secretaría, la Fiscalía o el Ayuntamiento;
 
 IV. Obstaculice los actos de inspección y verificación ordenados por la Secretaría o Ayuntamiento;
 
-V. Remita de manera extemporánea a la Procuraduría, el reporte mensual señalado en esta Ley; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
-VI. La falta de entrega a la Procuraduría del reporte mensual que refiere esta Ley.
+V. Remita de manera extemporánea a la Fiscalía, los reportes e informes señalados en esta Ley; y
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+VI. La falta de entrega a la Fiscalía de los reportes e informes a que refiere esta Ley.
 
 Cancelación
 
@@ -471,7 +585,17 @@ Son causas de la cancelación del permiso expedido a las casas de empeño, las s
 
 I. Que los apoderados legales o las personas que laboren en las casas de empeño cometan actos o hechos ilícitos con motivo de los servicios que prestan;
 
-II. Que proporcione datos falsos a la Procuraduría, en el reporte mensual señalado en esta Ley; y
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+I bis. Que no registre, en la plataforma informática determinada por la Secretaría, el nombre, domicilio, imagen de la identificación, firma, huella dactilar, fotografía del pignorante e imagen de los objetos dejados en prenda;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+II. Que proporcionen datos falsos a la Fiscalía, en los reportes e informes señalados en esta Ley;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+
+II bis. Que realice operaciones sin recabar los avisos de privacidad y los consentimientos a que hace referencia esta Ley; y
 
 III. En caso de reincidencia, entendiéndose ésta cuando el mismo infractor incurra en dos o más violaciones del mismo precepto legal durante el transcurso de un año, contado a partir del día en que se cometió la primera infracción en los supuestos establecidos en el artículo 36 de esta Ley, excepto el relativo a la solicitud extemporánea del refrendo, en cuyo caso la reincidencia operará cuando la solicitud extemporánea se presente durante dos años consecutivos.
 
@@ -546,3 +670,33 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 88, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY QUE REGULA LAS BASES DEL PERMISO PARA EL ESTABLECIMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS; Y DE LA LEY QUE REGULA LOS ESTABLECIMIENTOS DEDICADOS A LA COMPRAVENTA O ADQUISICIÓN DE VEHÍCULOS AUTOMOTORES EN DESUSO Y SUS AUTOPARTES, ASÍ COMO EN LOS QUE SE COMERCIALIZAN, MANEJAN O DISPONEN DE METALES PARA RECICLAJE, PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Plazos para que los establecimientos y peticionarios de los permisos se ajusten a las disposiciones del presente decreto
+
+Artículo Segundo. Para el cumplimiento de las disposiciones contenidas en el presente Decreto, por parte de los propietarios o responsables de las casas de empeño y de los establecimientos dedicados a la compraventa o adquisición de vehículos automotores en desuso y sus autopartes, así como en los que se comercializan, manejan o disponen de metales para reciclaje, particularmente para la instalación, registro y operación de los sistemas de reconocimiento de huellas dactilares, se estará a lo siguiente:
+
+I. Para quienes soliciten por primera vez el permiso para la instalación y funcionamiento de los establecimientos objeto del presente Decreto, se sujetarán a los requisitos establecidos en los artículos 18 y 17 de las leyes que Regula las Bases del Permiso para el Establecimiento de las Casas de Empeño en el Estado de Guanajuato y sus Municipios; así como que Regula los Establecimientos dedicados a la Compraventa o Adquisición de Vehículos Automotores en Desuso y sus Autopartes, así como en los que se Comercializan, Manejan o Disponen de Metales para Reciclaje, para el Estado de Guanajuato y sus Municipios, respectivamente, reformados mediante el presente Decreto.
+
+II. Para los establecimientos que cuenten con permiso vigente de la Secretaría de Finanzas, Inversión y Administración para su funcionamiento, esta dependencia deberá emitir dentro de los noventa días hábiles siguientes a la entrada en vigencia del presente Decreto, un programa para que dichos establecimientos den cumplimiento a las disposiciones del presente Decreto, como parte de los requisitos necesarios para el refrendo anual del permiso de operación.
+
+Plazo para que la Secretaría de Finanzas, Inversión y Administración emita los lineamientos de su competencia
+
+Artículo Tercero. La Secretaría de Finanzas, Inversión y Administración contará con un plazo de ciento veinte días hábiles a partir del inicio de la vigencia del presente Decreto, para emitir los lineamientos técnicos que determinen las características y medidas de seguridad de los sistemas de reconocimiento de huellas dactilares para su tratamiento que deberán instalar las casas de empeño y los establecimientos dedicados a la compraventa o adquisición de vehículos automotores en desuso y sus autopartes, así como en los que se comercializan, manejan o disponen de metales para reciclaje y publicarlos en el Periódico Oficial del Gobierno del Estado.
+
+Derogación tácita de normas que contravengan al presente decreto
+
+Artículo Cuarto. Se derogan las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+Programa de acompañamiento y asistencia técnica para coadyuvar al cumplimiento a las disposiciones del presente decreto
+
+Artículo Quinto. El Ejecutivo del Estado, por conducto de las dependencias y entidades de la Administración Pública Estatal competentes, implementará un programa de acompañamiento, asistencia y asesoría tecnológica y, en su caso, de esquemas de financiamiento, para coadyuvar tanto con las personas que inicien o tengan iniciados, a la fecha de la entrada en vigencia del presente Decreto, los trámites para la obtención de los permisos, como con los actuales propietarios o responsables permisionarios, para que cumplan con los requisitos y condiciones que se establecen en el presente Decreto para la obtención o el refrendo de los permisos, respectivamente, a que se refieren las leyes que Regula las Bases del Permiso para el Establecimiento de las Casas de Empeño en el Estado de Guanajuato y sus Municipios; y la que Regula los Establecimientos dedicados a la Compraventa o Adquisición de Vehículos Automotores en Desuso y sus Autopartes, así como los que se Comercializan, Manejan o Disponen de Metales para Reciclaje, para el Estado de Guanajuato y sus Municipios.
+
+El programa a que se refiere este artículo, se deberá emitir dentro de los ciento veinte días hábiles siguientes a la entrada en vigencia del presente Decreto y se publicará en el Periódico Oficial del Gobierno del Estado.
