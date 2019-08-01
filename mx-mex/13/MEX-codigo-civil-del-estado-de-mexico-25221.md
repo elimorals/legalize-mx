@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2018-07-12"
+last_updated: "2019-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE AGOSTO DE 2019.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -514,6 +514,10 @@ Contenido del acta de nacimiento
 ###### Artículo 3.
 
 10.- El acta de nacimiento contendrá lugar y fecha de registro, fecha, hora y lugar del nacimiento, el sexo del presentado, el nombre del registrado, de conformidad con las reglas establecidas en este Código, la razón de si es presentado vivo o muerto, la impresión de la huella digital si está vivo y la Clave Única de Registro de Población.
+
+> <small>(ADICIONADO, G.G. 1 DE AGOSTO DE 2019)</small>
+
+Las copias certificadas de las actas de nacimiento expedidas por el Registro Civil tendrán vigencia permanente, en tanto mantengan lo establecido en el párrafo primero de este artículo; por lo que, para la realización de trámites y servicios ante cualquier institución pública o privada, bastará con que sean legibles y no presenten alteraciones que dañen el estado físico del documento.
 
 Por ningún motivo se asentará en el acta que el presentado es adulterino o incestuoso, aún cuando así apareciere de las declaraciones.
 
@@ -18441,10 +18445,18 @@ CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan 
 
 G.G. 12 DE JULIO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 307.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 5.141 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 307.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 5.141 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO".]
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 1 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 71.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 3.10, RECORRIÉNDOSE LOS SUBSECUENTES DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO."]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno".
