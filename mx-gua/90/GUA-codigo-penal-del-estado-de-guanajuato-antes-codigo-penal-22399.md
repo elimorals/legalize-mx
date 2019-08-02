@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2019-08-01"
+last_updated: "2019-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2019.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -2203,6 +2203,14 @@ XI.- El objeto del robo sean documentos que integren prestaciones a favor del tr
 
 En los casos de robo calificado las sanciones correspondientes al robo simple se aumentarán con prisión hasta de cinco años.
 
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2019)</small>
+
+Si en la ejecución del robo se utilizan armas, la sanción de prisión que corresponda se aumentará hasta ocho años.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2019)</small>
+
+Se entiende por armas, además de las de fuego, no sólo los objetos o instrumentos destinados a atacar o defenderse, sino también los que, por su elaboración original o por su adecuación artificiosa, sean de potencial lesividad y se les dé igual aplicación que a aquéllos.
+
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 194
@@ -2651,7 +2659,9 @@ b.- Cuando la violencia se haga consistir en lesiones que por lo menos tarden en
 
 ### CAPÍTULO I. INFORMACIÓN PARA QUE SE COMETA UN DELITO
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+(NOTA: EL 6 DE MARZO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 94/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 3 DE AGOSTO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 93, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 221
 
@@ -2689,7 +2699,37 @@ Cuando se realice cualquiera de las conductas previstas en el párrafo anterior,
 
 ###### Artículo 222
 
-a.- Al servidor público que proporcione información que conozca con motivo de sus funciones para que se cometa cualquier hecho delictuoso, se le sancionará con tres a nueve años de prisión y de treinta a noventa días multa.
+a.- Al servidor público que proporcione información que conozca con motivo de sus funciones para que se cometa cualquier hecho delictuoso o para entorpecer el cumplimiento de funciones de seguridad pública, procuración o impartición de justicia, o de ejecución de penas, se le sancionará con tres a nueve años de prisión y de treinta a noventa días multa.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2019)</small>
+
+Si el hecho delictuoso se actualiza, se aplicarán las reglas del Capítulo IV del Título Segundo del Libro Primero de este Código.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2019)</small>
+
+Si el sujeto activo del delito es integrante de institución de seguridad pública, procuración o impartición de justicia, o de ejecución de penas, la sanción se aumentará hasta con una mitad del máximo.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2019)</small>
+
+Además de las penas referidas en los párrafos anteriores, se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro hasta por un tiempo igual al de la pena de prisión impuesta.
+
+(NOTA: EL 6 DE MARZO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 94/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 3 DE AGOSTO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 93, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2019)</small>
+
+###### Artículo 222
+
+b.- A quien realice cualquier acto tendente a obtener y proporcionar información sobre las actividades de los servidores públicos de las instituciones de seguridad pública, procuración o administración de justicia, o de ejecución de penas para que se cometa cualquier hecho delictuoso o para entorpecer el cumplimiento de funciones de seguridad pública, procuración o impartición de justicia, o de ejecución de penas, se le impondrá prisión de dos a siete años y de veinte a setenta días de multa.
+
+La pena se aumentará hasta en una mitad del máximo cuando:
+
+I.- Sea cometido por exintegrantes de las instituciones de seguridad pública, procuración o administración de justicia, o de ejecución de penas, además se impondrá inhabilitación para desempeñar cargo público hasta por un tiempo igual al de la pena de prisión impuesta.
+
+II.- Sea cometido a través de menores de dieciocho años o incapaces.
+
+III.- Utilice equipos o artefactos que permitan la intervención o inhibición de comunicaciones de instituciones de seguridad pública, procuración o administración de justicia, o de ejecución de penas.
+
+Si el hecho delictuoso se llega a actualizar, se aplicarán las reglas del Capítulo IV del Título Segundo del Libro Primero de este Código.
 
 (REUBICADO, ANTES CAPÍTULO I, P.O. 3 DE JUNIO DE 2011)
 
@@ -4135,7 +4175,7 @@ Artículo Único. El presente Decreto entrará en vigor a los ciento ochenta dí
 
 P.O. 19 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 74, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 187 -D DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 74, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 187 -D DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
@@ -4146,3 +4186,15 @@ P.O. 1 DE AGOSTO DE 2019.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+P.O. 2 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 93, QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 2 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 94, QUE EMITE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN DOS ÚLTIMOS PÁRRAFOS AL ARTÍCULO 194 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
