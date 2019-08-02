@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2019-02-01"
+last_updated: "2019-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA PARLAMENTARIA: 2 DE AGOSTO DE 2019.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -471,9 +471,13 @@ Los Diputados con igual afiliación de partido, podrán organizarse en Grupos Pa
 
 Los Diputados que no deseen o dejen de pertenecer a un Grupo Parlamentario o no puedan formar un Grupo Parlamentario por los requisitos establecidos en esta Ley, se les guardarán las consideraciones que a los Diputados coordinados, y apoyándolos en lo individual, conforme a las posibilidades y presupuesto del Congreso del Estado, para que puedan desempeñar sus funciones de representación popular.
 
-El órgano de gobierno denominado Junta de Coordinación Política se integra con cada uno de los diputados coordinadores de los grupos parlamentarios de los partidos políticos con representación en el Congreso, así como por los diputados pertenecientes a partidos políticos que cuenten con un solo escaño. La Junta de Coordinación Política expresa la pluralidad del Congreso del Estado y toma sus resoluciones por el voto ponderado de sus integrantes, quienes se constituyen en representantes de su Grupo Parlamentario, procurando el máximo consenso posible.
+> <small>(REFORMADO, G.P. 2 DE AGOSTO DE 2019)</small>
 
-La Presidencia de la Junta de Coordinación Política y la Presidencia de la Mesa Directiva serán rotativas y no podrán recaer en Diputados del mismo grupo parlamentario.
+El Órgano de Gobierno denominado Junta de Coordinación Política se integra con cada uno de los Diputados Coordinadores de los Grupos Parlamentarios de los Partidos Políticos con representación en el Congreso, así como por los Diputados pertenecientes a Partidos Políticos que cuenten con un solo escaño. La Junta de Coordinación Política expresa la pluralidad del Congreso del Estado y toma sus resoluciones por el voto ponderado de sus integrantes, quienes se constituyen en representantes de su Grupo Parlamentario, procurando el máximo consenso posible.
+
+> <small>(REFORMADO, G.P. 2 DE AGOSTO DE 2019)</small>
+
+La Presidencia de la Junta de Coordinación Política y la Presidencia de la Mesa Directiva serán rotativas.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
@@ -3063,7 +3067,7 @@ P.O. 29 DE NOVIEMBRE DE 2018.
 
 P.O. 1 DE FEBRERO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 261 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 109 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 261 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 109 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3076,3 +3080,9 @@ Esta Soberanía en ejercicio de las facultades que le confiere la Constitución 
 ###### ARTÍCULO TERCERO.
 
 Publíquese el presente Decreto en la Gaceta Parlamentaria y en el Periódico Oficial del Estado.
+
+G.P. 2 DE AGOSTO DE 2019.
+
+> <small>[N. DE E. TRANSITORIO POR MEDIO DEL CUAL "SE SUPRIME LA ÚLTIMA PARTE DEL CUARTO PÁRRAFO DEL ARTÍCULO 27 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]</small>
+
+ÚNICO.- Toda vez que las presentes reformas solo implican modificaciones al régimen interno del Poder Legislativo, entrarán en vigor al momento de su aprobación por la mayoría calificada del Pleno de este Honorable Congreso del Estado y se publicarán en la Gaceta del Poder Legislativo.
