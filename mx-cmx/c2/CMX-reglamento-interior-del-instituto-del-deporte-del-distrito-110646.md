@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-del-deporte-del-distrito-1106
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-12-01"
-last_updated: "2015-12-01"
+last_updated: "2019-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110646&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2015-12-01"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 2 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE AGOSTO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 1 de diciembre de 2015.
 
@@ -509,3 +511,25 @@ SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a
 SÉPTIMO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
 
 Dado en la residencia oficial del Jefe de Gobierno del Distrito Federal, e la Ciudad de México Distrito Federal, al primer día del mes de diciembre de dos mil quince.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MIGUEL ANGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, MARÍA ALEJANDRA BARRALES MAGDALENO.- FIRMA.- EL SECRETARIO DE FINANZAS, ÉDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO JURÍDICO.]</small>
+
+G.O. 2 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR MEDIO DEL CUAL SE DA A CONOCER EL ENLACE ELECTRÓNICO EN EL QUE SE PODRÁ CONSULTAR SU ESTATUTO ORGÁNICO”.]
+
+PRIMERO.- Publíquese el vínculo electrónico en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Estatuto Orgánico del Instituto del Deporte de la Ciudad de México, entrará en vigor el día siguiente de la publicación del vínculo electrónico.
+
+TERCERO.- Se abroga el Reglamento Interior del Instituto del Deporte del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el primero de diciembre de dos mil quince, . (sic)
+
+CUARTO.- A las Unidades Administrativas de nueva creación, se les transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezca la Secretaría de Administración y Finanzas.
+
+QUINTO.- El Instituto del Deporte de la Ciudad de México, deberá adecuar su estructura orgánica y actualizar su Manual Administrativo en los plazos y condiciones que se establezcan para ello.
+
+SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Dependencias y Unidades Administrativas que por virtud de este Estatuto hubieren dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes y en su caso a la Dirección General.
+
+SÉPTIMO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Estatuto.
+
+OCTAVO.- El responsable de mantener el vinculo en la pagina web del Instituto es la Coordinación de Comunicación y Alianzas Estratégicas a cargo de Pablo Macedo Angulo, teléfono 56-04-87-05 y 56-04-87-30.
