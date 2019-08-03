@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2019-06-15"
+last_updated: "2019-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3501,13 +3501,13 @@ X.- Cuando se trate de productos agrícolas endémicos y de cultivo intensivo pr
 
 Abigeato.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-370.- Comete el delito de abigeato el que se apodere, posea, se encuentre destazando o seccionando una o más cabezas de ganado sin derecho y sin consentimiento de la persona que pueda disponer de ellas de acuerdo con la ley, tenga o no la calidad de ganadero.
+370.- Comete el delito de abigeato, quien por sí o por interpósita persona se apodere, posea, se encuentre destazando o seccionando una o más cabezas de ganado sin derecho y sin consentimiento de la persona que pueda disponer de ellas de acuerdo con la ley, tenga o no la calidad de ganadero.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, el caballar, el mular y el asnar; y, como ganado menor: al cabrío, el lanar y el porcino.
+371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, caballar, asnal y mular y; como ganado menor: el ovino, caprino, porcino. Se equipara a ganado menor las colonias de abejas en un apiario y las especies de una granja acuícola.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2015)</small>
 
@@ -4132,6 +4132,26 @@ I. Dolosamente realice actos de sufrimiento que no lleven a una muerte inmediata
 II. Cause lesiones que pongan en peligro la vida del animal vertebrado.
 
 III. Cause lesiones y/o marcas de por vida que generen una agonía permanente para el animal vertebrado.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+419 Bis.- Se impondrá pena de seis meses a cinco años de prisión y el equivalente de doscientos a dos mil Unidades de Medida y Actualización a quien:
+
+l. Críe o entrene a un perro con el propósito de hacerlo participar en cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros para fines recreativos, de entretenimiento o de cualquier otra índole;
+
+II. Posea, transporte, compre o venda perros con el fin de involucrarlos en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros;
+
+III. Organice, promueva, anuncie, patrocine o venda entradas para asistir a espectáculos que impliquen peleas de perros;
+
+IV. Posea o administre una propiedad en la que se realicen peleas de perros con conocimiento de dicha actividad;
+
+V. Ocasione que menores de edad asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, o
+
+VI. Realice con o sin fines de lucro cualquier acto con el objetivo de involucrar a perros en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros.
+
+La sanción a que se hace mención en el párrafo anterior, se incrementará en una mitad cuando se trate de servidores públicos.
+
+Incurre en responsabilidad penal, asimismo, quien asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, a sabiendas de esta circunstancia. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
@@ -4828,3 +4848,19 @@ P.O. 15 DE JUNIO DE 2019.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 662: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 649: MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Remítase al Titular del Poder Ejecutivo del Estado, para los efectos constitucionales y legales procedentes.
