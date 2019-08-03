@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2019-05-15"
+last_updated: "2019-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -83,13 +83,17 @@ II. La constancia que emitan él o los ayuntamientos respectivos en donde se hag
 
 III. La copia certificada del acta de la sesión de Cabildo en la que conste la opinión del Ayuntamiento o Ayuntamientos implicados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 7.
 
-Una vez que el pleno del Congreso conozca de la solicitud de creación de un Municipio, decidirá si se turna o no a la Comisión de Gobernación para su conocimiento, trámite y dictamen.
+Una vez que el pleno del Congreso conozca de la solicitud de creación de un Municipio, decidirá si se turna o no a la Comisión Permanente de Gobernación y Asuntos Agrarios para su conocimiento, trámite y dictamen.
 
 El trámite será el siguiente:
 
-I.- Se radicará el expediente en la Comisión de Gobernación;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+I.- Se radicará el expediente en la Comisión Permanente de Gobernación y Asuntos Agrarios;
 
 II.- Ésta acordará su inicio, ordenando la ratificación de los promoventes, sino ratificaran en la diligencia que se señale para tal efecto, se desechará la petición, ordenándose el archivo del expediente;
 
@@ -101,7 +105,9 @@ V.- Si los Ayuntamientos de los Municipios a los que les resulte interés manifi
 
 VI.- Si alguno de los Ayuntamientos de los Municipios a lo que les resulte interés manifiestan su inconformidad, se les solicitará que funden y motiven ésta si en el escrito de informe no lo hubieren hecho, a la que deberán de acompañar los medios de convicción que estimen necesarios; y
 
-VII.- Si la opinión no fuere favorable, en los términos de la fracción anterior, se estimará que existe controversia entre municipios, declarándolo así el Congreso del Estado, mediante dictamen de la Comisión de Gobernación, dejando a salvo los derechos de los interesados y los Ayuntamientos de los Municipios, para que promuevan en términos del artículo 106 fracción IV de la Constitución Local, si a sus intereses conviene; el Congreso podrá dar vista al Poder Judicial si alguno de los Ayuntamientos de los Municipios lo solicita.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+VII.- Si la opinión no fuere favorable, en los términos de la fracción anterior, se estimará que existe controversia entre municipios, declarándolo así el Congreso del Estado, mediante dictamen de la Comisión Permanente de Gobernación y Asuntos Agrarios, dejando a salvo los derechos de los interesados y los Ayuntamientos de los Municipios, para que promuevan en términos del artículo 106 fracción IV de la Constitución Local, si a sus intereses conviene; el Congreso podrá dar vista al Poder Judicial si alguno de los Ayuntamientos de los Municipios lo solicita.
 
 ###### ARTÍCULO 8.
 
@@ -243,17 +249,21 @@ II.- No genera conflictos de cualquier naturaleza; incluyendo problemas de índo
 
 III.- El cambio propicia la pacificación de los conflictos o problemas existentes en su caso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 23.
 
-Una vez acreditados los requisitos señalados, los interesados presentaran la solicitud escrita correspondiente al Pleno del Congreso del Estado, para que si procediere se turne a la Comisión de Gobernación para su conocimiento.
+Una vez acreditados los requisitos señalados, los interesados presentaran la solicitud escrita correspondiente al Pleno del Congreso del Estado, para que si procediere se turne a la Comisión Permanente de Gobernación y Asuntos Agrarios para su conocimiento.
 
 El Congreso para determinar lo conducente, oirá a los municipios involucrados por conducto de sus Ayuntamientos, para que manifiesten su opinión al respecto.
 
 Cuando el Congreso apruebe el cambio de un centro de población de un municipio a otro, emitirá el Decreto correspondiente, fundado y motivado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 24.
 
-Si la opinión que uno o ambos Ayuntamientos Municipales involucrados no fuere favorable, en los términos del párrafo tercero del artículo anterior, se estimará que existe controversia entre municipios, declarándolo así el Congreso del Estado, mediante dictamen de la Comisión de Gobernación, dejando a salvo los derechos de los interesados y los Ayuntamientos de los Municipios, para que promuevan si a sus intereses conviene, en términos del artículo 106 fracción IV de la Constitución Local; el Congreso podrá dar vista al Poder Judicial si alguno de los Ayuntamientos así lo solicita.
+Si la opinión que uno o ambos Ayuntamientos Municipales involucrados no fuere favorable, en los términos del párrafo tercero del artículo anterior, se estimará que existe controversia entre municipios, declarándolo así el Congreso del Estado, mediante dictamen de la Comisión Permanente de Gobernación y Asuntos Agrarios, dejando a salvo los derechos de los interesados y los Ayuntamientos de los Municipios, para que promuevan si a sus intereses conviene, en términos del artículo 106 fracción IV de la Constitución Local; el Congreso podrá dar vista al Poder Judicial si alguno de los Ayuntamientos así lo solicita.
 
 Si al resolver el Tribunal Superior de Justicia del Estado el procedimiento al que se refiere el párrafo que antecede, estima que es procedente la segregación del centro de población de un Municipio para trasladarse política y administrativamente a un nuevo Municipio, así lo notificará al Poder legislativo, estándose el Congreso del Estado, a la sentencia definitiva que aquel dicte; El Tribunal Superior de Justicia del Estado, conocerá con la vista que le de el Congreso o con la petición de los interesados o de los Ayuntamientos involucrados, en los términos de la Ley respectiva.
 
@@ -1047,27 +1057,33 @@ V.- Las pruebas que sirven de base a la petición y anunciar aquéllas que requi
 
 VI.- A la solicitud deberán acompañarse para efectos de emplazamiento copias simples de cada uno de los documentos exhibidos.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 64.
 
-El Titular de la Secretaría de Servicios Parlamentarios dará cuenta al Pleno del Congreso del Estado o en su caso a la Diputación Permanente de la solicitud y anexos presentados, para que se turne a la Comisión Permanente de Gobernación. Esta Comisión estará a cargo de la instrucción del caso, en su actuación deberá cuidar que se cumplan las formalidades del procedimiento y se respete la garantía de audiencia.
+El Titular de la Secretaría de Servicios Parlamentarios dará cuenta al Pleno del Congreso del Estado o en su caso a la Diputación Permanente de la solicitud y anexos presentados, para que se turne a la Comisión Permanente de Gobernación y Asuntos Agrarios. Esta Comisión estará a cargo de la instrucción del caso, en su actuación deberá cuidar que se cumplan las formalidades del procedimiento y se respete la garantía de audiencia.
 
 ###### ARTÍCULO 65.
 
 El procedimiento y las reglas que observara en el mismo serán las siguientes:
 
-A) Una vez radicado el expediente en la Comisión de Gobernación, ésta determinará si la solicitud satisface los requisitos de ley; puede también la Comisión prevenir a los solicitantes que subsanen algún requisito.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+A) Una vez radicado el expediente en la Comisión Permanente de Gobernación y Asuntos Agrarios, ésta determinará si la solicitud satisface los requisitos de ley; puede también la Comisión prevenir a los solicitantes que subsanen algún requisito.
 
 B) Satisfechos los requisitos de la solicitud, la Comisión citará a los denunciantes para ratificarla. Si así lo hicieren, la Comisión ordenará notificar personalmente, correr traslado y emplazar a él o a los integrantes del Ayuntamiento, para que en un término de diez días produzcan su contestación, so pena de declararlos en rebeldía y presuntamente confesos.
 
 Si transcurrido el plazo para contestar sin que se hubiere producido ésta, y sin necesidad de acuse, se hará la declaración de rebeldía y se presumirán confesos los hechos de la solicitud que se dejaron de contestar.
 
-C) Concluido el plazo para de (sic) la contestación, la Comisión de Gobernación dentro de los diez días siguientes fijará día y hora para una audiencia de pruebas, la cual se efectuará ante el Presidente de la Comisión y los integrantes de ésta que deseen estar presentes. Si las pruebas ofrecidas en la audiencia lo requieren se fijará un término de hasta veinte días naturales para su desahogo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE AGOSTO DE 2019)</small>
+
+C) Concluido el plazo para de (sic) la contestación, la Comisión Permanente de Gobernación y Asuntos Agrarios dentro de los diez días siguientes fijará día y hora para una audiencia de pruebas, la cual se efectuará ante el Presidente de la Comisión y los integrantes de ésta que deseen estar presentes. Si las pruebas ofrecidas en la audiencia lo requieren se fijará un término de hasta veinte días naturales para su desahogo.
 
 Podrán aceptarse pruebas supervenientes a juicio de la Comisión cuando fuesen desconocidas a la fecha de la presentación de la solicitud o habiéndose anunciado hubiesen motivos justificados para no haberlos exhibido en tiempo. La Comisión, en todo tiempo tiene amplia facultad para allegarse los elementos probatorios que estime eficaces e idóneos.
 
-D) Una vez agotado el término de prueba, se concederá a las partes un término de cinco días para presentar por escrito sus alegatos. Trascurrido este término, la Comisión de Gobernación formulará su dictamen dentro de un plazo de veinte días naturales, el cual puede ser ampliado por autorización expresa del Congreso. El dictamen debe satisfacer los requisitos de una resolución judicial, resultandos, considerandos y puntos resolutivos.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+D) Una vez agotado el término de prueba, se concederá a las partes un término de cinco días para presentar por escrito sus alegatos. Trascurrido este término, la Comisión Permanente de Gobernación y Asuntos Agrarios formulará su dictamen dentro de un plazo de veinte días naturales, el cual puede ser ampliado por autorización expresa del Congreso. El dictamen debe satisfacer los requisitos de una resolución judicial, resultandos, considerandos y puntos resolutivos.
 
 E) El dictamen con propuesta de suspensión o desaparición de ayuntamiento, suspensión o revocación de mandato de alguno de sus integrantes, requerirá para su aprobación del voto de las dos terceras partes de los Diputados que integran el Congreso del Estado. La resolución del Congreso se publicará en el Periódico Oficial de Estado. En este procedimiento la parte demandada podrán (sic) asistirse de abogado.
 
@@ -2071,7 +2087,9 @@ X.- Evaluar, supervisar, verificar, física y financieramente, el avance e infor
 
 XI.- Revisar y auditar la ejecución física y financiera de los programas de inversión y obra pública, que se realicen en el Municipio con recursos propios o con recursos provenientes de convenios con el Estado, con la federación o de cualquier otra índole;
 
-XII.- Vigilar el cumplimiento de las observaciones y recomendaciones emitidas por la Auditoría Superior de Fiscalización del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+XII.- Vigilar el cumplimiento de las observaciones y recomendaciones emitidas por el Órgano Superior de Fiscalización del Estado de Oaxaca;
 
 XIII.- Supervisar que los proveedores de bienes y servicios, y contratistas, cumplan lo estipulado en los contratos que celebren con el Ayuntamiento del Municipio o sus dependencias y entidades;
 
@@ -2473,15 +2491,21 @@ V.- La propuesta concreta de conciliación para resolver el conflicto.
 
 Deberá anexarse el convenio que se proponga para resolver el conflicto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 155.
 
-Recibida la solicitud por la Oficialía Mayor del Congreso, la turnará con todos y cada uno de sus anexos si los hubiere, a la Secretaría de la mesa directiva del Congreso para dar cuenta al Pleno y en los recesos del mismo a la Diputación Permanente.
+Recibida la solicitud por la Secretaría de Servicios Parlamentarios del Congreso, la turnará con todos y cada uno de sus anexos si los hubiere, a la Secretaría de la Mesa Directiva del Congreso para dar cuenta al Pleno y en los recesos del mismo a la Diputación Permanente.
 
-El Congreso o la Comisión Permanente en su caso, la turnarán a la Comisión de Gobernación para su trámite y resolución.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+El Congreso o la Comisión Permanente en su caso, la turnarán a la Comisión Permanente de Gobernación y Asuntos Agrarios para su trámite y resolución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 156.
 
-Recibida La solicitud por la Comisión de Gobernación, ésta la registrará en el libro correspondiente y dictará acuerdo que contendrá:
+Recibida la solicitud por la Comisión Permanente de Gobernación y Asuntos Agrarios ésta la registrará en el libro correspondiente y dictará acuerdo que contendrá:
 
 I.- La orden de formar el expediente;
 
@@ -2503,9 +2527,11 @@ III.- En caso de presentarse otra propuesta por las partes se suspenderá la aud
 
 IV.- El día y hora señalados para la reanudación de la audiencia las partes expresarán una en pos de la otra si están de acuerdo con la nueva propuesta, en caso afirmativo se levantará el acta respectiva y se dará por terminada la audiencia y en caso de no aceptar la conciliación se dará por terminada la audiencia y se dejarán a salvo los derechos de las partes.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 158.
 
-La Comisión de Gobernación dará cuenta del resultado de la audiencia con el dictamen respectivo para que el Pleno del Congreso lo apruebe en su caso.
+La Comisión Permanente de Gobernación y Asuntos Agrarios dará cuenta del resultado de la audiencia con el dictamen respectivo para que el Pleno del Congreso lo apruebe en su caso.
 
 ### CAPÍTULO VII. DE LA SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL MUNICIPALES
 
@@ -3332,3 +3358,15 @@ P.O. 15 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 621.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 713: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 714: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
