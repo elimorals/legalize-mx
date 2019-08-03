@@ -4,7 +4,7 @@ identifier: "COL-ley-de-desarrollo-rural-sustentable-del-estado-de-colima-96836"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2018-09-29"
+last_updated: "2019-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 07 de diciembre de 2013.
 
@@ -71,11 +71,17 @@ II. Incorporar a la sociedad rural al desarrollo económico del Estado, de maner
 
 III. Fomentar la protección y mejoramiento de los recursos naturales y los servicios ambientales en el medio rural del Estado;
 
-IV. Coadyuvar con el cumplimiento de las normas que aseguren la sanidad, inocuidad y calidad agroalimentaria; y,
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2016)</small>
+IV. Coadyuvar con el cumplimiento de las normas que aseguren la sanidad, inocuidad y calidad agroalimentaria;
 
-V. Contribuir a la seguridad y autosuficiencia alimentaria en el Estado.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+V. Contribuir a la seguridad y autosuficiencia alimentaria en el Estado; y
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+VI. Fomentar el empleo de estrategias de mitigación y adaptación a los efectos del cambio climático.
 
 ###### Artículo 3.
 
@@ -91,89 +97,107 @@ I. Actividades Agropecuarias: Las actividades y los productivos (sic) primarios 
 
 II. Actividades Económicas de la Sociedad Rural: Las actividades agropecuarias y otras actividades productivas, industriales, comercialización y de servicios; entiéndase también como las actividades no agropecuarias que se desarrollan en el medio rural, incluida su comunidad rural urbana;
 
-III. Agentes o Productores del Sector Rural: Las personas físicas o morales de los sectores social y privado que integran a la sociedad rural;
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2019)</small>
 
-IV. Agroforestal: El proceso productivo desarrollado mediante la combinación de agricultura o, la ganadería conjuntamente con el cultivo y aprovechamiento de especies forestales;
+III. Adaptación: Medidas y ajustes en sistemas humanos o naturales, como respuesta a estímulos climáticos, proyectados o reales, o sus efectos, que pueden moderar el daño, o aprovechar sus aspectos beneficiosos.
 
-V. Alimentos básicos y estratégicos: Los calificados por su importancia en la alimentación de la mayoría de la población o su importancia en la economía de los productores del campo o de la industria;
+IV. Agentes o Productores del Sector Rural: Las personas físicas o morales de los sectores social y privado que integran a la sociedad rural;
 
-VI. Autosuficiencia Alimentaria: La capacidad del Estado para satisfacer las necesidades alimentarias de su población mediante su producción estatal;
+V. Agroforestal: El proceso productivo desarrollado mediante la combinación de agricultura o, la ganadería conjuntamente con el cultivo y aprovechamiento de especies forestales;
 
-VII. Bienestar Social: La satisfacción de las necesidades materiales y culturales de la población incluidas, entre otras: la seguridad social, vivienda, educación, salud e infraestructura básica;
+VI. Alimentos básicos y estratégicos: Los calificados por su importancia en la alimentación de la mayoría de la población o su importancia en la economía de los productores del campo o de la industria;
 
-VIII. Comisión Estatal Intersecretarial: La Comisión Estatal Intersecretarial para el Desarrollo Rural Sustentable del Estado de Colima;
+VII. Autosuficiencia Alimentaria. La capacidad del Estado para satisfacer las necesidades alimentarias de su población mediante su producción estatal;
 
-IX. Comisión Estatal de Comercialización: La Comisión Estatal de Impulso y Consolidación en Materia de Comercialización de Productos del Sector Rural;
+VIII. Bienestar Social: La satisfacción de las necesidades materiales y culturales de la población incluidas, entre otras: la seguridad social, vivienda, educación, salud e infraestructura básica;
 
-X. Consejo Mexicano: El Consejo Mexicano para el Desarrollo Rural Sustentable;
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2019)</small>
 
-XI. Consejo Estatal: El Consejo del Estado de Colima para el Desarrollo Rural Sustentable;
+IX. Cambio climático: Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables.
 
-XII. Consejo Distrital: El Consejo para el Desarrollo Rural Sustentable del Distrito de Desarrollo Rural;
+X. Comisión Estatal Intersecretarial: La Comisión Estatal Intersecretarial para el Desarrollo Rural Sustentable del Estado de Colima;
 
-XIII. Consejo Municipal: El Consejo Municipal para el Desarrollo Rural Sustentable;
+XI. Comisión Estatal de Comercialización: La Comisión Estatal de Impulso y Consolidación en Materia de Comercialización de Productos del Sector Rural;
 
-XIV. Cosecha Estatal: El resultado de la producción acuícola, agropecuaria y silvícola del Estado de Colima;
+XII. Consejo Mexicano: El Consejo Mexicano para el Desarrollo Rural Sustentable;
 
-XV. Concurrencia: La acción e inversión conjunta de esfuerzos y recursos entre la sociedad y diferentes órdenes de Gobierno; teniendo como objetivo el logro del desarrollo rural sustentable;
+XIII. Consejo Estatal: El Consejo del Estado de Colima para el Desarrollo Rural Sustentable;
 
-XVI. Desarrollo Rural Sustentable: El mejoramiento integral del bienestar social de la población y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
+XIV. Consejo Distrital: El Consejo para el Desarrollo Rural Sustentable del Distrito de Desarrollo Rural;
 
-XVII. Desertificación: La pérdida de la capacidad productiva de las tierras, causadas por el hombre, en cualquiera de los ecosistemas existentes en el territorio del Estado de Colima;
+XV. Consejo Municipal: El Consejo Municipal para el Desarrollo Rural Sustentable;
 
-XVIII. Figuras Asociativas: Los ejidos, comunidades y las organizaciones y asociaciones de carácter nacional, estatal, regional, distrital, municipal o comunitario de productores del medio rural, pequeñas unidades de producción y, en su caso, las ramas de producción, que se constituyan o estén constituidas, de conformidad con las leyes vigentes y las demás disposiciones aplicables;
+XVI. Cosecha Estatal: El resultado de la producción acuícola, agropecuaria y silvícola del Estado de Colima;
 
-XIX. Gobierno del Estado: El Gobierno del Estado de Colima;
+XVII. Concurrencia: La acción e inversión conjunta de esfuerzos y recursos entre la sociedad y diferentes órdenes de Gobierno; teniendo como objetivo el logro del desarrollo rural sustentable;
 
-XX. Ley: La Ley de Desarrollo Rural Sustentable del Estado de Colima;
+XVIII. Desarrollo Rural Sustentable: El mejoramiento integral del bienestar social de la población y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
 
-XXI. Ley Federal: La Ley de Desarrollo Rural Sustentable;
+XIX. Desertificación: La pérdida de la capacidad productiva de las tierras, causadas por el hombre, en cualquiera de los ecosistemas existentes en el territorio del Estado de Colima;
 
-XXII. Ley de Planeación: La Ley de Planeación para el Desarrollo del Estado de Colima;
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2019)</small>
 
-XXIII. Ley Orgánica de la Administración Pública: La Ley Orgánica de la Administración Pública del Estado Colima;
+XX. Gases de efecto invernadero: Aquellos componentes gaseosos de la atmósfera, tanto naturales como antropógenos, que absorben y emiten radiación infrarroja.
 
-XXIV. Marginalidad: La definida de acuerdo con los criterios dictados por el Instituto Nacional de Estadística, Geografía e Informática;
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚM. 110, PUBLICADO EN EL P.O. DE 3 DE AGOSTO DE 2019, PÁGINA 2333.]</small>
 
-XXV. Órdenes de Gobierno: Los Gobiernos Federal, del Estado y de los Municipios de Colima;
+XXI. Gobierno del Estado: El Gobierno del Estado de Colima;
 
-XXVI. Organismos genéticamente modificados: El organismo que posea una combinación de material genético que se haya obtenido mediante la aplicación de biotecnología moderna;
+XXII. Ley: La Ley de Desarrollo Rural Sustentable del Estado de Colima;
 
-XXVII. Potencial Productivo: La identificación de áreas o zonas donde se puede realizar con mayor probabilidad de éxito y rentabilidad las diferentes actividades agropecuarias y forestales, aplicando Sistemas de Información Geográfica (SIG) y herramientas de planeación integral;
+XXIII. Ley Federal: La Ley de Desarrollo Rural Sustentable;
 
-XXVIII. Productos básicos y estratégicos: Los alimentos que son parte de la dieta de la mayoría de la población en general o diferenciada por regiones, y por los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos del Estado de Colima;
+XXIV. Ley de Planeación: La Ley de Planeación para el Desarrollo del Estado de Colima;
 
-XXIX. Programas Especiales: Los programas que por sus aspectos prioritarios, en materia de desarrollo rural sustentable y que por su importancia estratégica requieran un tratamiento diferenciado e incidan en el desarrollo rural sustentable del estado;
+XXV. Ley Orgánica de la Administración Pública: La Ley Orgánica de la Administración Pública del Estado Colima;
 
-XXX. Programa Estatal Concurrente: El Programa Estatal Concurrente para el Desarrollo Rural Sustentable del Estado, que es el programa de coordinación entre las dependencias del gobierno estatal que establece políticas, objetivos, presupuestos e instrumentos que incluyen el conjunto de acciones que se plasman en los programas sectoriales y especiales relacionados con el desarrollo del Sector Rural y la Secretaría;
+XXVI. Marginalidad: La definida de acuerdo con los criterios dictados por el Instituto Nacional de Estadística, Geografía e Informática;
 
-XXXI. Programas Sectoriales: Los Programas específicos del Gobierno del Estado que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del desarrollo rural sustentable;
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2019)</small>
 
-XXXII. Programa Operativo Anual: El programa operativo anual para el Desarrollo Rural Sustentable, será el proyectado en función de los programas estatal concurrente (sic) y sectoriales, bajo el cual se programarán los recursos presupuestales, humanos y materiales que permitan el cumplimiento de las metas, acciones y objetivos proyectados en los programas;
+XXVII. Mitigación: Aplicación de políticas y acciones destinadas a reducir las emisiones de las fuentes, o mejorar los sumideros de gases y compuestos de efecto invernadero.
 
-XXXIII. Recursos Naturales: Los bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos culturales productivos rurales y proveedores de servicios ambientales; tierras, bosques, selvas, recursos minerales, especies vegetales, animales y sus recursos genéticos;
+XXVIII. Órdenes de Gobierno: Los Gobiernos Federal, del Estado y de los Municipios de Colima;
 
-XXXIV. Seguridad Alimentaria: Las estrategias y medidas para garantizar el abasto oportuno, suficiente e incluyente de alimentos a la población;
+XXIX. Organismos genéticamente modificados: El organismo que posea una combinación de material genético que se haya obtenido mediante la aplicación de biotecnología moderna;
 
-XXXV. Servicios Ambientales o beneficios ambientales: Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
+XXX. Potencial Productivo: La identificación de áreas o zonas donde se puede realizar con mayor probabilidad de éxito y rentabilidad las diferentes actividades agropecuarias y forestales, aplicando Sistemas de Información Geográfica (SIG) y herramientas de planeación integral;
 
-XXXVI. Secretaría: La Secretaría de Desarrollo Rural del Gobierno del Estado de Colima;
+XXXI. Productos básicos y estratégicos: Los alimentos que son parte de la dieta de la mayoría de la población en general o diferenciada por regiones, y por los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos del Estado de Colima;
 
-XXXVII. Sagarpa: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación del Gobierno Federal;
+XXXII. Programas Especiales: Los programas que por sus aspectos prioritarios, en materia de desarrollo rural sustentable y que por su importancia estratégica requieran un tratamiento diferenciado e incidan en el desarrollo rural sustentable del estado;
 
-XXXVIII. Sistema: El mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencia para lograr un determinado propósito;
+XXXIII. Programa Estatal Concurrente: El Programa Estatal Concurrente para el Desarrollo Rural Sustentable del Estado, que es el programa de coordinación entre las dependencias del gobierno estatal que establece políticas, objetivos, presupuestos e instrumentos que incluyen el conjunto de acciones que se plasman en los programas sectoriales y especiales relacionados con el desarrollo del Sector Rural y la Secretaría;
 
-XXXIX. Sistema Estatal de Información: El Sistema Estatal de Información para el Desarrollo Rural Sustentable, que integra la información general del sector rural, en el marco de las disposiciones estatales y federales en materia de registros de actividades productivas, identificación de productor, unidades productivas, y demás información de los programas sectoriales y concurrentes y de los sujetos de apoyo de los programas en concurrencia, en función de los mismos;
+XXXIV. Programas Sectoriales: Los Programas específicos del Gobierno del Estado que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del desarrollo rural sustentable;
 
-XL. Sistema-Producto: El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
+XXXV. Programa Operativo Anual: El programa operativo anual para el Desarrollo Rural Sustentable, será el proyectado en función de los programas estatal concurrente (sic) y sectoriales, bajo el cual se programarán los recursos presupuestales, humanos y materiales que permitan el cumplimiento de las metas, acciones y objetivos proyectados en los programas;
 
-XLI. Sustentabilidad: El resultado positivo del actuar humano sobre los diferentes ecosistemas, logrando la utilidad en su uso y la supervivencia de las especies vegetales y animales endémicas de cada microrregión. La prolongación por tiempo indefinido de una actividad agropecuaria; y
+XXXVI. Recursos Naturales: Los bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos culturales productivos rurales y proveedores de servicios ambientales; tierras, bosques, selvas, recursos minerales, especies vegetales, animales y sus recursos genéticos;
 
-XLII. Unidad productiva: El conjunto de recursos naturales, técnicos y económicos de uso racional que, a través de sistemas de producción basados en tecnologías, permitan una explotación eficiente con el propósito de satisfacer las necesidades individuales o colectivas de productores, integrados o no, bajo un régimen legal, con el objeto de realizar actividades de producción, distribución y consumo de bienes y servicios que propicien un desarrollo rural sustentable.
+XXXVII. Seguridad Alimentaria: Las estrategias y medidas para garantizar el abasto oportuno, suficiente e incluyente de alimentos a la población;
+
+XXXVIII. Servicios Ambientales o beneficios ambientales: Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
+
+XXXIX. Secretaría: La Secretaría de Desarrollo Rural del Gobierno del Estado de Colima;
+
+XL. Sagarpa: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación del Gobierno Federal;
+
+XLI. Sistema: El mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencia para lograr un determinado propósito;
+
+XLII. Sistema Estatal de Información: El Sistema Estatal de Información para el Desarrollo Rural Sustentable, que integra la información general del sector rural, en el marco de las disposiciones estatales y federales en materia de registros de actividades productivas, identificación de productor, unidades productivas, y demás información de los programas sectoriales y concurrentes y de los sujetos de apoyo de los programas en concurrencia, en función de los mismos;
+
+XLIII. Sistema-Producto: El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
+
+XLIV. Sustentabilidad: El resultado positivo del actuar humano sobre los diferentes ecosistemas, logrando la utilidad en su uso y la supervivencia de las especies vegetales y animales endémicas de cada microrregión. La prolongación por tiempo indefinido de una actividad agropecuaria; y
+
+XLV. Unidad productiva: El conjunto de recursos naturales, técnicos y económicos de uso racional que, a través de sistemas de producción basados en tecnologías, permitan una explotación eficiente con el propósito de satisfacer las necesidades individuales o colectivas de productores, integrados o no, bajo un régimen legal, con el objeto de realizar actividades de producción, distribución y consumo de bienes y servicios que propicien un desarrollo rural sustentable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 5.
 
-El Gobierno del Estado impulsará, con el concurso de las organizaciones y agentes productivos, económicos y sociales, un proceso de transformación, tendiente a lograr el desarrollo rural sustentable que mejore la calidad de vida de la población rural, promoviendo la diversificación de las actividades productivas, propiciando el uso óptimo, la conservación y el mejoramiento de los recursos naturales.
+El Gobierno del Estado impulsará, con el concurso de las organizaciones y agentes productivos, económicos y sociales, un proceso de transformación, tendente a lograr el desarrollo rural sustentable que mejore la calidad de vida de la población rural, promoviendo la diversificación de las actividades productivas, propiciando el uso óptimo, la conservación y el mejoramiento de los recursos naturales; así como el empleo de estrategias de mitigación y adaptación a los efectos del cambio climático.
 
 Los principios rectores que orientaran el fomento a la transformación y desarrollo económico y social, serán la promoción de la sustentabilidad, productividad, competitividad y rentabilidad del sector rural.
 
@@ -195,7 +219,9 @@ IV. Promover la concurrencia y la transversalidad de las políticas públicas de
 
 V. Contribuir en la implementación de programas, proyectos y acciones orientadas a lograr la soberanía, seguridad y autosuficiencia alimentaria en el Estado mediante el impulso de la producción agropecuaria; y
 
-VI. Fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales en el Estado, mediante su aprovechamiento sustentable.
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+VI. Fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales en el Estado, mediante su aprovechamiento sustentable y el empleo de estrategias de mitigación y adaptación a los efectos del cambio climático.
 
 ###### Artículo 7.
 
@@ -215,9 +241,15 @@ II. Lograr que los productores y demás agentes de la sociedad rural cuenten con
 
 III. Incrementar, diversificar, reconvertir y mejorar las actividades productivas en el medio rural, para fortalecer la economía campesina, el auto-abasto, la ampliación y fortalecimiento del mercado interno y el desarrollo de mercados regionales, que mejoren el acceso de la población rural a la alimentación y los términos de intercambio comercial con el exterior;
 
-IV. Fomentar el aprovechamiento sustentable de los recursos naturales productivos, que permitan ampliar y diversificar las actividades productivas en el medio rural, a fin de incrementar las fuentes de empleo e ingreso de la población; y
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
 
-V. Mejorar la cantidad y la calidad de los servicios a la población del sector rural.
+IV. Fomentar el aprovechamiento sustentable de los recursos naturales productivos, que permitan ampliar y diversificar las actividades productivas en el medio rural, a fin de incrementar las fuentes de empleo e ingreso de la población;
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+V. Promover el empleo de estrategias de mitigación y adaptación a los efectos del cambio climático; y
+
+VI. Mejorar la cantidad y la calidad de los servicios a la población del sector rural.
 
 ###### Artículo 9.
 
@@ -231,9 +263,11 @@ Los programas y acciones de desarrollo rural sustentable que implemente y ejecut
 
 La diferenciación de productores se hará basándose en la tipología que establezca la Comisión Estatal Intersecretarial, con la participación del Consejo Estatal, en coordinación con el gobierno federal y el Consejo Mexicano, utilizando la información y metodología disponibles en las dependencias y entidades públicas y privadas competentes.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 11.
 
-Todas las acciones para el desarrollo rural sustentable que se realicen en el Estado de Colima, se llevarán a cabo conforme a criterios de preservación, restauración, aprovechamiento sustentable de los recursos naturales y la biodiversidad, así como la prevención y mitigación del impacto ambiental.
+Todas las acciones para el desarrollo rural sustentable que se realicen en el Estado de Colima se llevarán a cabo conforme a criterios de protección, conservación, restauración, aprovechamiento sustentable de los recursos naturales y la biodiversidad, así como la prevención y mitigación del impacto ambiental y cambio climático.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES COMPETENTES, CONCURRENTES Y COADYUVANTES
 
@@ -327,7 +361,9 @@ VII. Coadyuvar en el fomento, la planeación y la organización de la producció
 
 VIII. Procurar y vigilar el abasto de producción en todas las regiones y municipios del Estado, cuidando el estricto cumplimiento de calidad y sanidad establecidas;
 
-IX. Promover y coadyuvar en la generación y uso de energías renovables, alternativas a las derivadas de fósiles;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+IX.- Promover y coadyuvar en la generación y uso de energías renovables, alternativas a las derivadas de fósiles; así como promover y coadyuvar en el diseño e implementación de estrategias de mitigación y adaptación a los efectos del cambio climático;
 
 X. Establecer medidas de control de entrada y salida del Estado, así como en el tránsito interno de los productos o subproductos agropecuarios en concordancia con las leyes, normas y disposiciones federales y estatales aplicables;
 
@@ -629,11 +665,15 @@ XI. Promover la concurrencia de los órdenes de gobierno y sectores en la gesti�
 
 XII. Promover en coordinación con las instancias correspondientes, la investigación y transferencia de tecnología, educación y capacitación en el sector rural;
 
-XIII. Instrumentar sistemas de seguimiento, control y evaluación de planes y programas del sector rural;
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2019)</small>
 
-XIV. Procurar la continuidad y suficiencia de los planes y programas de trabajo con una visión de largo alcance a través de trienios y sexenios gubernamentales; y
+XIII. Coadyuvar en la instrumentación de las acciones para la mitigación y adaptación al cambio climático en materia de ganadería, agricultura, desarrollo rural, forestal, pesca y acuacultura;
 
-XV. Generar, integrar y hacer accesible la información requerida para el seguimiento de la gestión y la toma de decisiones de todos los agentes vinculados al desarrollo rural.
+XIV. Instrumentar sistemas de seguimiento, control y evaluación de planes y programas del sector rural;
+
+XV. Procurar la continuidad y suficiencia de los planes y programas de trabajo con una visión de largo alcance a través de trienios y sexenios gubernamentales; y
+
+XVI. Generar, integrar y hacer accesible la información requerida para el seguimiento de la gestión y la toma de decisiones de todos los agentes vinculados al desarrollo rural.
 
 > <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2016)</small>
 
@@ -807,13 +847,15 @@ IX. La inversión tanto pública como privada para la ampliación y mejoramiento
 
 X. Promover la conservación, mejoramiento y uso racional de los suelos, el agua y demás recursos naturales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
 
-XI. Fomentar el extensionísmo rural sustentable y a la vinculación con Instituciones nacionales mediante especialidades sectoriales, de salud, educación, agrícola, pecuario, acuícola, pesquera, industrial, minera, energía y comunicación, a fin de incrementar la producción y productividad de alimentos en la entidad para un desarrollo rural integral sustentable y sostenible; y
+XI. Fomentar el extensionismo rural respetable y a la vinculación con instituciones nacionales mediante especialidades sectoriales, de salud, educación, agrícola, pecuario, acuícola, pesquera, industrial, minera, energía y comunicación, a fin de incrementar la producción y productividad de alimentos en la entidad para un desarrollo rural integral sustentable y sostenible;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2019)</small>
 
-XII. Todas las demás que deriven del cumplimiento de la Ley Federal, de esta Ley y demás ordenamientos aplicables.
+XII. Fomentar el diseño e implementación de las estrategias de mitigación y adaptación, regionales y locales, a los efectos del cambio climático; y
+
+XIII. Todas las demás que deriven del cumplimiento de la Ley Federal, de esta Ley y demás ordenamientos aplicables.
 
 ### CAPÍTULO II. DE LA INVESTIGACIÓN Y TRANSFERENCIA DE TECNOLOGÍA
 
@@ -865,7 +907,9 @@ El Gobierno Estatal fomentará la generación de capacidades de asistencia técn
 
 La política, programas, acciones, inversiones y apoyos del Gobierno del Estado para estimular la reconversión productiva agropecuaria, se realizarán bajo criterios de eficiencia, eficacia y economía, que contemplen priorizar y lograr los propósitos que se indican:
 
-I. Promover la adopción de las tecnologías que conserven y mejoren la productividad de las tierras, la biodiversidad, los servicios ambientales y la sustentabilidad;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+I. Promover la adopción de las tecnologías que conserven y mejoren la productividad de las tierras, la biodiversidad, los servicios ambientales y la sustentabilidad; así como de mitigación y adaptación a los efectos del cambio climático;
 
 II. Promover la producción que genere mayor rentabilidad mediante la creación de nuevos empleos, ingresos e integración al desarrollo estatal, aprovechando las ventajas y oportunidades de los mercados de exportación;
 
@@ -891,7 +935,9 @@ I. La constitución de empresas o desarrollo de proyectos de carácter individua
 
 II. El establecimiento de convenios entre los actores de las redes de valor, tanto para la adquisición de materias primas, bienes y servicios, como para la comercialización que aprovechen la sinergia de la competitividad.;
 
-III. La adopción de tecnologías sustentables; y
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+III. La adopción de tecnologías sustentables y de mitigación y adaptación a los efectos del cambio climático; y
 
 IV. La modernización de infraestructura y equipo que eleve su competitividad.
 
@@ -929,9 +975,17 @@ IX. Lograr el uso eficiente de los recursos económicos, naturales y productivos
 
 X. Impulsar cultivos alternativos para producción de bioenergeticos;
 
-XI. Mejorar la estructura de costos; y
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
 
-XII. Planear la producción bajo criterios que conserven y mejoren la productividad de las tierras, la biodiversidad y los servicios ambientales.
+XI. Mejorar la estructura de costos;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+XII. Planear la producción bajo criterios que conserven y mejoren la productividad de las tierras, la biodiversidad y los servicios ambientales; y
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+XIII. Coadyuvar en la instrumentación de las acciones para la mitigación y adaptación al cambio climático en materia de ganadería, agricultura, desarrollo rural, forestal, pesca y acuacultura.
 
 ###### Artículo 73.
 
@@ -1009,7 +1063,9 @@ IV. La asociación de productores mediante la figura jurídica que más convenga
 
 V. La inversión en restauración y mejoramiento del suelo, recursos naturales y servicios ambientales;
 
-VI. El establecimiento de tecnologías sustentables ahorradoras de energía; y que permitan la conservación de los recursos naturales renovables y no renovables; y
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+VI. El establecimiento de tecnologías sustentables ahorradoras de energía; y que permitan la conservación de los recursos naturales renovables y no renovables; además de incidir en las estrategias de mitigación y adaptación del cambio climático; y
 
 VII. Los demás que establezca la Secretaría, con la participación del Consejo Estatal.
 
@@ -1045,9 +1101,11 @@ De igual forma se promoverá la construcción y mantenimiento de sistemas de tel
 
 El Gobierno del Estado con la participación y aprobación de los consejos estatal y municipales, atenderá prioritariamente a aquellos productores y demás sujetos de la sociedad rural que, teniendo potencial productivo, carecen de condiciones para el desarrollo rural sustentable, con objeto de impulsar la productividad de las unidades económicas, capitalizar las explotaciones e implantar medidas de mejoramiento tecnológico que hagan más eficientes, competitivas y sustentables las actividades económicas de los productores.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 92.
 
-Para impulsar la productividad rural, los apoyos a los productores prioritariamente se orientarán a complementar sus capacidades económicas a fin de realizar inversiones para la tecnificación del riego y la reparación y adquisición de equipos e implementos, así como la adquisición de material vegetativo mejorado para su utilización en la producción, la implantación de agricultura bajo condiciones controladas, el desarrollo de plantaciones, la implementación de normas sanitarias y de inocuidad y técnicas de control biológico, el impulso a la ganadería, la adopción de prácticas ecológicamente pertinentes y la conservación de los recursos naturales, así como la contratación de servicios de asistencia técnica y las demás que resulten necesarias para fomentar el desarrollo rural sustentable.
+Para impulsar la productividad rural, los apoyos a los productores prioritariamente se orientarán a complementar sus capacidades económicas a fin de realizar inversiones para la tecnificación del riego y la reparación y adquisición de equipos e implementos, así como la adquisición de material vegetativo mejorado para su utilización en la producción, la implantación de agricultura bajo condiciones controladas, el desarrollo de plantaciones, la implementación de normas sanitarias y de inocuidad y técnicas de control biológico, el impulso a la ganadería, la adopción de prácticas ecológicamente pertinentes y la conservación de los recursos naturales y el fomento a las estrategias de mitigación y adaptación al cambio climático, así como la contratación de servicios de asistencia técnica y las demás que resulten necesarias para fomentar el desarrollo rural sustentable.
 
 ###### Artículo 93.
 
@@ -1465,9 +1523,11 @@ El Consejo Estatal, promoverá un programa tendiente a la formación de una cult
 
 Los programas para la tecnificación del riego darán atención prioritaria a las regiones en las que se registre sobreexplotación de los recursos hidráulicos subterráneos o degradación de la calidad de las aguas, en correspondencia con los compromisos de organizaciones de productores de procurar el aprovechamiento de este recurso garantizando la sustentabilidad de la producción.
 
+> <small>(REFORMADO P.O. 3 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 139.
 
-El Gobierno Estatal, a través de los programas de fomento productivo estimulará a los prestadores de bienes y servicios para la adopción de tecnologías que optimicen el uso del agua y la energía e incrementen la productividad sustentable.
+El Gobierno Estatal, a través de los programas de fomento productivo estimulará a los prestadores de bienes y servicios para la adopción de tecnologías que optimicen el uso del agua y la energía, incrementen la productividad sustentable y contribuyan a la mitigación y adaptación a los efectos del cambio climático.
 
 ###### Artículo 140.
 
@@ -1516,6 +1576,10 @@ El Gobierno del Estado propiciará las condiciones para prever los recursos nece
 ###### Artículo 148.
 
 La política que implemente el gobierno del Estado en materia del financiamiento del sector rural, tendrá como objetivo coadyuvar en el establecimiento de las condiciones para que todos los proyectos sustentables de los micro, pequeños y medianos empresarios del sector rural del estado cuenten con la posibilidad de tener acceso a formas de financiamiento suficiente y oportuno.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Tendrán preferencia los pequeños productores y agentes económicos con bajos ingresos, las zonas del estado con menor desarrollo económico y social y con mayor vulnerabilidad a los efectos del cambio climático, los proyectos productivos rentables o los que sean altamente generadores de empleo y los que empleen estrategias de mitigación y adaptación a los efectos del cambio climático.
 
 ###### Artículo 149.
 
@@ -1602,3 +1666,9 @@ P.O. 29 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 545 POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 4; LA FRACCIÓN III DEL ARTÍCULO 6; LAS FRACCIONES X Y XI AL ARTÍCULO 59; LOS ARTÍCULOS 121 Y 127; ASÍ COMO LA FRACCIÓN XII DEL ARTÍCULO 59 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚM. 110 POR EL QUE SE REFORMAN LOS ARTÍCULOS 2 FRACCIONES IV Y V, 5 PÁRRAFO PRIMERO, 6 FRACCIÓN VI, 8 FRACCIÓN IV, 11, 16 FRACCIÓN IX, 59 FRACCIÓN XI, 67 FRACCIÓN I, 69 FRACCIÓN III, 72 FRACCIONES XI Y XII, 85 FRACCIÓN VI, 92 Y 139, Y SE; ADICIONAN UNA FRACCIÓN VI AL ARTÍCULO 2, LAS FRACCIONES III, IX, XX Y XXVII AL ARTÍCULO 4 CON EL CORRIMIENTO SUBSECUENTE, UNA FRACCIÓN V AL ARTÍCULO 8 CON EL CORRIMIENTO DE LA SUBSECUENTE, UNA FRACCIÓN XIII AL ARTÍCULO 44 CON EL CORRIMIENTO SUBSECUENTE, UNA FRACCIÓN XII AL ARTICULO 59 CON EL CORRIMIENTO SUBSECUENTE, UNA FRACCIÓN XIII AL ARTICULO 72 Y UN· PÁRRAFO SEGUNDO AL ARTÍCULO 148; TODOS DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
