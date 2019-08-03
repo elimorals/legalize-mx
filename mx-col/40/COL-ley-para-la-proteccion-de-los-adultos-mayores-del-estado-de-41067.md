@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-adultos-mayores-del-estado-de-410
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2019-07-03"
+last_updated: "2019-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2004.
 
@@ -133,15 +133,13 @@ Corresponde a las Secretarías de Desarrollo Social y de Salud y Bienestar Socia
 
 El Ejecutivo del Estado a través del Instituto, promoverá, ejecutará y coordinará con la Federación y los Municipios convenios de colaboración, para que las Instituciones Públicas de Salud y Asistencia Social implementen programas preventivos hacia los adultos mayores, brinden información gerontológica disponible en los ámbitos médico, socioeconómico, jurídico y demás relativos, con el objeto de incrementar la cultura del adulto mayor.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 8°.
 
-Corresponderá al titular del Poder Ejecutivo a través del Instituto, a los Ayuntamientos, a los sistemas DIF, Estatal y Municipales, a las instituciones públicas y privadas en el ámbito de su competencia y a las familias de los adultos mayores, verificar e informar sobre la calidad de la sobrevivencia de los adultos mayores, así como conocer y difundir la presente Ley.
+Corresponderá al titular del Poder Ejecutivo a través del Instituto, a los Ayuntamientos, a los sistemas DIF, Estatal y Municipales, a las instituciones públicas y privadas en el ámbito de su competencia y a las familias de los adultos mayores, informar sobre el nivel de bienestar y calidad de vida de los adultos mayores, así como conocer y difundir la presente Ley.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2019)</small>
-
-La información obtenida de lo previsto en el párrafo anterior, se adicionará al padrón de adultos mayores con el fin de que las autoridades, en el ámbito de sus competencias, brinden y presten los servicios que señala esta Ley, en favor de los adultos mayores que así lo requieran.
+La información obtenida deberá utilizarse para actualizar el padrón de beneficiarios de adultos mayores con el fin de que las autoridades, en el ámbito de sus competencias, brinden y presten los servicios que señala esta Ley, en favor de los adultos mayores que así lo requieran.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JULIO DE 2019)</small>
 
@@ -311,9 +309,9 @@ XVII. Promover la suscripción de convenios para acceder a empleos temporales;
 
 XVIII. Otorgar pensiones a los adultos mayores, en los términos establecidos en esta Ley y su reglamento;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
 
-XIX. Llevar un padrón de adultos mayores actualizado y con transparencia;
+XIX. Llevar un padrón de beneficiarios de adultos mayores actualizado y con transparencia, observando las disposiciones generales en materia de transparencia;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
 
@@ -505,9 +503,9 @@ Este Consejo se integrará con diez adultos mayores de sobresaliente trayectoria
 
 El cargo de Consejero será de carácter honorario. Los requisitos, atribuciones, tiempo de duración del encargo, procedimiento para su designación y funcionamiento del Consejo se establecerán en el reglamento correspondiente.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-En materia de responsabilidad administrativa, el Consejo Técnico podrá solicitar la remoción del Director General cuando considere que ha actuado contraviniendo los fines del programa y apoyo del Instituto.
+El Consejo Técnico podrá solicitar al órgano interno de control respectivo que inicie la investigación correspondiente, cuando considere que el Director General ha actuado contraviniendo los fines del Instituto.
 
 ### CAPÍTULO IV. Del patrimonio del Instituto
 
@@ -581,15 +579,17 @@ XI. Vivienda Digna: Promover créditos a bajas tasas o subsidios, para el mejora
 
 XII. Premios y Reconocimientos: Reconocer y premiar a los adultos mayores más destacados dentro de las siguientes categorías:
 
-a) Hombres y Mujeres de más de 100 años de edad;
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-b) Hombres y Mujeres de 65 años de edad o más, que se hayan destacado por su labor humanística o profesional.
+a) Hombres y Mujeres de más de 100 años de edad; y
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+b) Hombres y Mujeres de 65 años de edad o más, que se hayan destacado por su labor humanística o profesional, en el deporte, en la ciencia o en el arte.
 
 ###### Artículo 30.
 
-El otorgamiento de estímulos, premios y reconocimientos, se hará a aquellos hombres y mujeres adultos mayores que se hayan distinguido en el trabajo, deporte, ciencia, arte, labor humanística y profesional.
+(DEROGADO, P.O. 3 DE AGOSTO DE 2019)
 
 ### CAPÍTULO II. De los Deberes del Estado
 
@@ -1195,10 +1195,26 @@ Segundo. A partir del inicio de vigencia del presente Decreto, toda mención en 
 
 P.O. 3 DE JULIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 73 POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 1°; 2° FRACCIONES I, II Y V, 4° FRACCIÓN III, 5°, 6°, 7°, 8°; LA NOMENCLATURA DEL CAPÍTULO II, DEL TÍTULO PRIMERO, 9° PÁRRAFO PRIMERO Y LAS FRACCIONES XIII, XVIII Y XXV, 10, LA NOMENCLATURA DEL TÍTULO SEGUNDO, 11, 12, 14 FRACCIONES I, II, III, IV, V, VI, VII, VIII, XI, XIII, XIV, XV, XVI, XVIII, XIX, XX, XXI, XXII y XXIV, 16, 17 PÁRRAFO PRIMERO Y LAS FRACCIONES IV Y V, 24 FRACCIÓN V, LA NOMENCLATURA DEL CAPÍTULO III, DEL TÍTULO SEGUNDO, 27 PÁRRAFOS PRIMERO Y SEGUNDO, 29 PÁRRAFO PRIMERO Y LAS FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX, XI Y XII, 30, 31, 32 FRACCIÓN I, 33, 34, 35, 36 PÁRRAFO PRIMERO, 37, 38, 39, 40, 41, 42 PÁRRAFO PRIMERO, 43, 44, 45, 46,47, 48, 49, 50, 51, 52 PÁRRAFO PRIMERO, 53 PÁRRAFO PRIMERO, 55 PÁRRAFO PRIMERO Y LAS FRACCIONES IX Y X, 56, 57, 58, 59 PÁRRAFO PRIMERO, 60, 61, 62 FRACCIÓN I, 65, 66, 67 BIS 1 PÁRRAFO SEGUNDO, 67 BIS 2, 69, 70 Y 75 PÁRRAFO SEGUNDO; ASIMISMO, SE APRUEBA ADICIONAR LAS FRACCIONES I, II Y III AL ARTICULO 1°, UN SEGUNDO PÁRRAFO AL ARTÍCULO 8°, UNA FRACCIÓN VI AL ARTÍCULO 17, UN CUARTO PÁRRAFO AL ARTICULO 27 Y EL ARTICULO 36 BIS; TODOS DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 73 POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 1°; 2° FRACCIONES I, II Y V, 4° FRACCIÓN III, 5°, 6°, 7°, 8°; LA NOMENCLATURA DEL CAPÍTULO II, DEL TÍTULO PRIMERO, 9° PÁRRAFO PRIMERO Y LAS FRACCIONES XIII, XVIII Y XXV, 10, LA NOMENCLATURA DEL TÍTULO SEGUNDO, 11, 12, 14 FRACCIONES I, II, III, IV, V, VI, VII, VIII, XI, XIII, XIV, XV, XVI, XVIII, XIX, XX, XXI, XXII y XXIV, 16, 17 PÁRRAFO PRIMERO Y LAS FRACCIONES IV Y V, 24 FRACCIÓN V, LA NOMENCLATURA DEL CAPÍTULO III, DEL TÍTULO SEGUNDO, 27 PÁRRAFOS PRIMERO Y SEGUNDO, 29 PÁRRAFO PRIMERO Y LAS FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX, XI Y XII, 30, 31, 32 FRACCIÓN I, 33, 34, 35, 36 PÁRRAFO PRIMERO, 37, 38, 39, 40, 41, 42 PÁRRAFO PRIMERO, 43, 44, 45, 46,47, 48, 49, 50, 51, 52 PÁRRAFO PRIMERO, 53 PÁRRAFO PRIMERO, 55 PÁRRAFO PRIMERO Y LAS FRACCIONES IX Y X, 56, 57, 58, 59 PÁRRAFO PRIMERO, 60, 61, 62 FRACCIÓN I, 65, 66, 67 BIS 1 PÁRRAFO SEGUNDO, 67 BIS 2, 69, 70 Y 75 PÁRRAFO SEGUNDO; ASIMISMO, SE APRUEBA ADICIONAR LAS FRACCIONES I, II Y III AL ARTICULO 1°, UN SEGUNDO PÁRRAFO AL ARTÍCULO 8°, UNA FRACCIÓN VI AL ARTÍCULO 17, UN CUARTO PÁRRAFO AL ARTICULO 27 Y EL ARTICULO 36 BIS; TODOS DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA".]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Dentro de los 60 días naturales siguientes a la entrada en vigor del presente Decreto, el Poder Ejecutivo, el Instituto y los Ayuntamientos de la Entidad, en su caso, deberán adecuar sus reglamentos internos de conformidad con lo que se dispone en el mismo.
 
-TERCERO.- En atención a lo dispuesto en el artículo 8º, dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto, el titular del Poder Ejecutivo a través del Instituto y en coordinación con los sistemas DIF, Estatal y Municipales, los Ayuntamientos y las instituciones públicas y privadas en el ámbito de sus competencias, deberá verificar e informar sobre la calidad de sobrevivencia de los adultos mayores e incluir esa información al padrón de la materia, que permita conocer y ubicar en el Estado, a los adultos mayores con alguna carencia y que requieran de los servicios que se brindan por mandato de la Ley de Protección del Adulto Mayor del Estado de Colima, lo anterior e (sic) términos de las (sic) previsto en el presente Decreto.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+TERCERO.- En atención a lo dispuesto en el artículo 8º, dentro de los 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, el titular del Poder Ejecutivo del Estado a través del Instituto deberá coordinarse con los sistemas DIF, Estatal y Municipales, los Ayuntamientos, las instituciones públicas y privadas en el ámbito de sus competencias y con la Secretaría de Bienestar, para actualizar su padrón de beneficiarios de adultos mayores.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 111 POR EL QUE SE REFORMAN LOS INCISOS A) Y B) DE LA FRACCIÓN XII DEL ARTÍCULO 29 Y SE DEROGA EL ARTÍCULO 30, AMBOS DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA; SE ABROGAN LOS DECRETOS NÚMERO 148 Y 179, PUBLICADOS EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA" EL 13 DE SEPTIEMBRE DE 2007 Y 31 DE JULIO DE 2010, RESPECTIVAMENTE, ADEMÁS, SE APRUEBA ADICIONAR UNA FRACCIÓN X AL ARTÍCULO 1, ASÍ COMO, EL ARTÍCULO 10 A LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- La emisión de la Convocatoria para la edición 2019 de la entrega anual del Premio Estatal a los Adultos Mayores se realizará, por esta ocasión, una vez que entre en vigor lo señalado en el presente Decreto.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 112 POR EL QUE SE REFORMAN LOS ARTÍCULOS 8°, 14 EN SU FRACCIÓN XIX, Y 27 PÁRRAFO CUARTO, TODOS DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA Y SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚM. 73 APROBADO POR LA LIX LEGISLATURA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
