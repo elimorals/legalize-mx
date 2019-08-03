@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-agua-potable-y-alcantarillado-para-el-estado-de-9039"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-13"
-last_updated: "2016-10-22"
+last_updated: "2019-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de febrero de 1993.
 
@@ -1275,11 +1275,15 @@ Queda prohibido a los organismos descentralizados a que se refiere la presente l
 
 Las cuotas o tarifas que cobran los organismos operadores municipales, intermunicipales o en su defecto, la Comisión Estatal del Agua, será independiente de los pagos que se establezcan en la legislación fiscal.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 113.
 
-La falta de pago de dos o más mensualidades, faculta al organismo operador municipal, intermunicipal, o en su defecto, la Comisión Estatal del Agua, para suspender el servicio al usuario, hasta que regularice su pago.
+La falta de pago de dos o más mensualidades, faculta al organismo operador municipal, intermunicipal, o en su defecto, la Comisión Estatal del Agua, para suspender el servicio al usuario, hasta que regularice su pago; excepto el supuesto contemplado en el artículo 113 Bis.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 113 BIS.- El organismo operador municipal, intermunicipal o en su defecto, la Comisión Estatal del Agua, bajo ninguna circunstancia puede restringir o suspender el servicio al usuario, por falta de pago de cuotas o tarifas por servicio público de agua potable, siempre y cuando este sea empleado para uso personal y doméstico.
 
 ###### ARTÍCULO 114.
 
@@ -1740,3 +1744,13 @@ P.O. 22 DE OCTUBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que contravengan y se opongan al mismo.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 665.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 113; SE ADICIONAN (SIC) EL ARTÍCULO 113 BIS, AMBOS DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO.- Dentro de los noventa días posteriores a la publicación del presente Decreto, los organismos operadores municipales, intermunicipales, así como, la Comisión Estatal del Agua, deberán realizar las adecuaciones normativas correspondientes a su normatividad interna.
