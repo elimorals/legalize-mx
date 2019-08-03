@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2018-10-20"
+last_updated: "2019-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -122,6 +122,22 @@ La entrega de este premio se realizará en el marco del festejo del día interna
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 IX.- Presea "Dr. Miguel Trejo Ochoa", al mérito médico, la cual se entregará (sic) aquellas personas que tengan una destacada trayectoria y aportaciones en el ámbito médico.
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+X.- Se establece el Premio Estatal a los Adultos Mayores, para Hombres y Mujeres de más de 100 años de edad.
+
+Se instituye la entrega anual del Premio Estatal a los Adultos Mayores para Hombres y Mujeres de 65 años de edad o más, como reconocimiento público a dicho sector de la población, considerando los más destacados en sus trayectorias y aportaciones sociales, en las siguientes categorías:
+
+a) Labor Humanística o Profesional;
+
+b) El Deporte;
+
+c) La Ciencia; y
+
+d) El Arte;
+
+La entrega de los premios contenidos en esta fracción se llevará a cabo en Sesión Solemne que al efecto convoque el H. Congreso del Estado, preferentemente el día 28 de agosto de cada año, fecha en que se celebra el Día Nacional del Adulto Mayor.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
@@ -221,6 +237,100 @@ Para elegir a la persona que será distinguida con la Presea "Dr. Miguel Trejo O
 
 Para determinar a la persona merecedora de dicha Presea, se integrará un Comité por un representante de la Comisión de Salud y Bienestar Social del Congreso, del Colegio de Médicos del Estado de Colima y de la Secretaría de Salud y Bienestar Social, quien se encargará de revisar y calificar la idoneidad de cada una de las personas propuestas; siendo la Comisión de Salud y Bienestar Social la encargada de elaborar y presentar el dictamen al Pleno del Congreso.
 
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+###### Artículo 10.
+
+El Premio Estatal a los Adultos Mayores, a que hace referencia la fracción X del artículo 1o, de esta Ley, estará abierto para los hombres y mujeres de más de 100 años de edad, y para hombres y mujeres de 65 años de edad o más, cumplidos antes de la emisión de la convocatoria, y nacidos en el Estado de Colima, o que tengan una residencia efectiva en él mayor de 20 años.
+
+Las propuestas al Premio Estatal a los Adultos Mayores podrán ser hechas por las personas interesadas, colegios de profesionistas, organismos públicos, sociales o privados, instituciones educativas, ciudadanía y demás organizaciones relacionadas con la categoría de que se trate.
+
+Para emitir la convocatoria y seleccionar las propuestas de los candidatos al Premio Estatal a los Adultos Mayores, se crea un Comité Técnico del H. Congreso del Estado, que se integrará en la forma siguiente:
+
+I. Una Presidenta o Presidente: Que corresponderá a la Diputada o Diputado que presida la Comisión de Niñez, Juventud, Adultos Mayores y Discapacidad;
+
+II. Una Secretaría Ejecutiva: Que será ocupada por la Diputada Secretaria o el Diputado Secretario de la Comisión de Educación y Cultura;
+
+III. Una Secretaría Técnica: Que será ocupada por la Diputada o Diputado que presida la Comisión de Educación y Cultura; y
+
+IV. Tres vocalías: Que serán ocupadas por una Diputada o un Diputado, respectivamente, de las Comisiones de Trabajo y Previsión Social; de Ciencia, Tecnología e Innovación Gubernamental; y del Deporte y Fomento del Sano Esparcimiento,
+
+Corresponde al Comité Técnico el ejercicio de las siguientes funciones:
+
+I. Instruir a la Oficialía Mayor para que en la Oficialía de Partes se reciban todas las solicitudes a obtener el Premio Estatal a los Adultos Mayores;
+
+II. Recibir los expedientes de las solicitudes al Premio Estatal a los Adultos Mayores de Oficialía Mayor;
+
+III. Designar un subcomité de apoyo especializado para el estudio de las propuestas correspondientes; y
+
+IV. Aprobar el Dictamen de los acreedores al Premio Estatal a los Adultos Mayores, el cual será aprobado por la mayoría de los integrantes del Comité Técnico para su presentación y aprobación del Pleno por mayoría simple de los asistentes.
+
+Corresponde a la Presidenta o Presidente del Comité Técnico las siguientes atribuciones:
+
+I. Representar al Comité Técnico;
+
+II. Convocar a reuniones de trabajo del Comité Técnico, a través de la Secretaría Técnica;
+
+III. Presidir las reuniones de trabajo del Comité Técnico;
+
+IV. Elaborar el Dictamen de manera conjunta con la Secretaría Técnica, sobre los ganadores de las diversas categorías al Premio Estatal a los Adultos Mayores; y
+
+V. Tener voto de calidad en el Comité Técnico, en caso de empate para la aprobación del Dictamen del Premio Estatal a los Adultos Mayores.
+
+Corresponde a la Secretaría Ejecutiva:
+
+I. Hacer las minutas de trabajo de las sesiones del Comité Técnico; y
+
+II. Asumir las funciones de la Presidenta o Presidente, en caso de ausencia.
+
+Son facultades de la Secretaría Técnica:
+
+I. Expedir la convocatoria que deberá publicarse en los periódicos de mayor circulación del Estado, en la página web del H. Congreso del Estado de Colima y medios de difusión con los que disponga, a más tardar el 30 de junio de cada año, teniendo como fecha límite hasta el 10 de agosto del mismo año, para la recepción de las propuestas;
+
+II. Entregar a los integrantes del Comité Técnico los citatorios para la realización de reuniones de trabajo;
+
+III. Coordinar el subcomité de apoyo para el estudio de las propuestas al Premio Estatal a los Adultos Mayores; y
+
+IV. Elaborar el Dictamen de manera conjunta con la presidencia del Comité Técnico, sobre los ganadores de las diversas categorías al Premio Estatal a los Adultos Mayores.
+
+Son requisitos para ser acreedores al Premio Estatal a los Adultos Mayores en las categorías de Hombres y Mujeres de 100 años de edad o más, los siguientes:
+
+I. Tener 100 años de edad o más;
+
+II. Ser originario u originaria del Estado de Colima, o que tengan su residencia efectiva en él mayor de 20 años;
+
+III. Entregar copia certificada del acta de nacimiento o, en su caso, exhibir el acta original acompañada de una copia simple para cotejo;
+
+IV. Presentar carta de residencia expedida por el municipio en el que tenga su domicilio, que acredite un mínimo de 20 años;
+
+V. No haber sido reconocido con anterioridad por el H. Congreso del Estado en la categoría de 100 años o más, ni en las categorías señaladas en ediciones anteriores.
+
+Son requisitos para ser acreedores al Premio Estatal a los Adultos Mayores, en las categorías de Hombres y Mujeres de 65 años de edad o más, que se hayan destacado en labor humanística o profesional, el deporte, en la ciencia o en el arte, los siguientes:
+
+I. Contar con 65 años o más;
+
+II. Ser originario u originaria del Estado de Colima, o que tengan su residencia efectiva en él mayor de 20 años;
+
+III. Entregar copia certificada del acta de nacimiento o, en su caso, exhibir el acta original acompañada de una copia simple para cotejo;
+
+IV. Presentar carta de residencia expedida por el municipio en el que tenga su domicilio, que acredite un mínimo de 20 años;
+
+V. Haber contribuido en la categoría que participan a enaltecer, preservar y ser ejemplo de vida de las nuevas generaciones en el Estado de Colima;
+
+VI. Entregar una reseña personal de los aspirantes, en la que se fundamenten los méritos para ser acreedor al premio en la categoría de su elección, así como los reconocimientos, logros y actividades que acrediten su aportación a la sociedad;
+
+VII. Llenar un formato preestablecido con datos personales de los postulantes y aspirantes; y
+
+VIII. No haber sido reconocido por el H. Congreso del Estado en la categoría de 100 años o más, ni en las categorías señaladas en ediciones anteriores.
+
+La entrega del Premio Estatal a los Adultos Mayores se hará en Sesión Solemne que al efecto convoque el H. Congreso del Estado, preferentemente el día 28 de agosto de cada año, fecha en que se celebra el Día Nacional del Adulto Mayor, extendiendo invitación a los Titulares de los Poderes Ejecutivo y Judicial del Estado, Secretarías de Estado, Delegaciones Federales, DIF estatal y municipales, Presidentes y Presidentas municipales, al Instituto para la Atención de los Adultos Mayores, representantes de partidos políticos, homenajeados, familiares, organismos públicos, sociales y privados, instituciones educativas y público en general.
+
+El Premio Estatal a los Adultos Mayores consistirá, para cada categoría, en el otorgamiento de un estímulo económico consistente en el valor de 50 Unidades de Medida y Actualización. En caso de que la Unidad de Medida y Actualización desaparezca, se adoptará el esquema que la sustituya. En el mismo acto se hará entrega de un reconocimiento por escrito.
+
+Sólo en la categoría deportiva, la premiación podrá ser individual o en equipo, dependiendo de la disciplina de que se trate. En el caso de ser un equipo el merecedor al premio, el estímulo económico se entregará de conformidad con la suficiencia presupuestal, y el reconocimiento será de carácter grupal.
+
+Los reconocimientos se otorgarán sin perjuicio de otras distinciones que sean entregadas por las instituciones públicas, privadas y sociales de la entidad.
+
 TRANSITORIOS:
 
 ###### Artículo 1o.
@@ -284,3 +394,11 @@ P.O. 20 DE OCTUBRE DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Por única ocasión en el año 2018, la convocatoria prevista en el artículo 9 del presente decreto, se emitirá por el Colegio de Médicos del Estado de Colima, el que revisará y calificará la idoneidad de cada una de las personas propuestas, y posteriormente remitirá a la Comisión de Salud y Bienestar Social del Congreso la propuesta de la persona merecedora de la Presea "Dr. Miguel Trejo Ochoa", para efectos de su dictamen correspondiente.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 111 POR EL QUE SE REFORMAN LOS INCISOS A) Y B) DE LA FRACCIÓN XII DEL ARTÍCULO 29 Y SE DEROGA EL ARTÍCULO 30, AMBOS DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA; SE ABROGAN LOS DECRETOS NÚMERO 148 Y 179, PUBLICADOS EN EL PERIÓDICO OFICIAL “EL ESTADO DE COLIMA” EL 13 DE SEPTIEMBRE DE 2007 Y 31 DE JULIO DE 2010, RESPECTIVAMENTE, ADEMÁS, SE APRUEBA ADICIONAR UNA FRACCIÓN X AL ARTÍCULO 1, ASÍ COMO, EL ARTÍCULO 10 A LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- La emisión de la Convocatoria para la edición 2019 de la entrega anual del Premio Estatal a los Adultos Mayores se realizará, por esta ocasión, una vez que entre en vigor lo señalado en el presente Decreto.
