@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2019-05-15"
+last_updated: "2019-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -63,7 +63,7 @@ Las facultades que la Constitución Política de los Estados Unidos Mexicanos no
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
-El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deben hacer, lo que la Ley les ordena. Los particulares pueden hacer, lo que la Ley no les prohibe y deben hacer, lo que la Ley les ordena.
+El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deben hacer, lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohibe y deben hacer, lo que la Ley les ordena.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -421,9 +421,11 @@ El patrimonio familiar es inalienable, imprescriptible e inembargable.
 
 Las niñas y los niños nacidos en el matrimonio o fuera de él tienen derecho a igual protección. La Ley posibilitará la investigación de la paternidad.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL PROCESO LEGISLATIVO DEL DECRETO NO. 651 PUBLICADO EN EL P.O. DE 3 DE AGOSTO DE 2019, LA MODIFICACIÓN CORRESPONDE AL PRESENTE PÁRRAFO]</small>
 
-Es derecho correlativo a la calidad de padres la determinación libre, informada y responsable acerca del número y espaciamiento de los hijos y su educación.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Es derecho correlativo a la calidad de padres la determinación libre, voluntaria, responsable, informada, acerca de tener hijos de forma segura; además del número y espaciamiento de los mismos y su educación; así como, recibir servicios integrales en materia de salud reproductiva. Las autoridades deberán adoptar medidas para garantizar la atención ginecológica y obstétrica conforme a las leyes en la materia.
 
 > <small>(ADICIONADO, P.O. 23 DE MARZO DE 2018)</small>
 
@@ -493,9 +495,17 @@ Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y 
 
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-El Estado brindara asistencia integral a los migrantes y a sus familias, fortaleciendo las diversas manifestaciones de identidad cultural de la población indígena y afromexicana migrante en los lugares de destino, con acciones que fortalezcan la vinculación familiar y comunitaria de la población migrante, para erradicar la discriminación motivada por condición migratoria.
+El Estado dentro de su territorio velará por el respeto irrestricto de los derechos humanos de los migrantes y brindará asistencia integral a ellos y a sus familias, tanto nacionales como extranjeros, sea cual fuera su origen, nacionalidad, género, etnia, edad y situación migratoria, con especial atención a menores de edad, mujeres, indígenas, adolescentes, personas de la tercera edad y víctimas de delito. Así mismo, fortalecerá las diversas manifestaciones de identidad cultural de la población indígena y afromexicana migrante en los lugares de destino, con acciones que fortalezcan la vinculación familiar y comunitaria de esa población.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Toda persona tiene derecho a la movilidad en condiciones de seguridad, accesibilidad, eficiencia, comodidad, igualdad y calidad. Se concederá prioridad a los peatones y conductores de vehículos no motorizados, y se promoverá una cultura de movilidad sustentable.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Las autoridades adoptarán las medidas necesarias para asegurar el ejercicio de este derecho, especialmente en el uso del espacio vial en condiciones de equidad, así como garantizar el respeto de los derechos de los usuarios más vulnerables de la vía, el cual será adecuado a las necesidades sociales y ambientales del Estado.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -568,6 +578,10 @@ Se reconocen los sistemas normativos internos y comunidades indígenas y afromex
 El Estado, en el ámbito de su competencia, reconoce a los pueblos y comunidades indígenas y afromexicano el derecho social al uso y disfrute de los recursos naturales de sus tierras y territorios, en los términos de la ley reglamentaria; asimismo, de acuerdo a sus programas presupuestales, dictará medidas tendientes a procurar el desarrollo económico, social y cultural de los pueblos y comunidades indígenas y afromexicano.
 
 La ley reglamentaria establecerá normas y procedimientos que permitan la eficaz prestación de los servicios del Registro Civil y de otras instituciones vinculadas con dichos servicios a los pueblos y comunidades indígenas y al pueblo y comunidades afromexicanas, así como las sanciones que procedan para el caso de incumplimiento.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas y afromexicanas, el Estado tiene la obligación de asegurar el acceso efectivo a los servicios de salud, aprovechando debidamente la medicina tradicional.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -667,7 +681,9 @@ El ejercicio de la acción penal ante los tribunales corresponde al Ministerio P
 
 La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
 
-Compete a la Autoridad Administrativa la aplicación de las sanciones por las infracciones a los reglamentos gubernativos y de policía. Las que únicamente consistirán en multa, arresto hasta por treinta seis horas o en trabajo a favor de la comunidad; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Compete a la Autoridad Administrativa la aplicación de las sanciones por las infracciones a los reglamentos gubernativos y de policía. Las que únicamente consistirán en multa, arresto hasta por treinta y seis horas o en su caso de aceptarlo el infractor podrá realizar actividades en favor de la comunidad; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta de aceptarlo el infractor, por actividades en favor de la comunidad o por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
 
 Si el infractor de los reglamentos gubernativos o de policía fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
 
@@ -1252,6 +1268,10 @@ El Congreso elaborará su propio proyecto de presupuesto en los términos de la 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 Una vez aprobado el Presupuesto de Egresos del Estado, las erogaciones previstas para el Poder Legislativo no podrán ser reducidas ni transferidas, salvo en los casos de ajuste presupuestal general previstos en la Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+El Poder Legislativo se regirá por los principios de Congreso abierto, para tal efecto las Diputadas y los Diputados establecerán mecanismos de audiencia y rendición de cuentas que garanticen su responsabilidad frente a los ciudadanos oaxaqueños.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -2399,9 +2419,9 @@ XXI. Nombrar instructores de la Guardia Nacional del Estado;
 
 XXII. Visitar continuamente las regiones del Estado y procurar resolver los problemas socio-económicos y administrativos que afecten a las mismas y que por su naturaleza merezcan la atención preferente del Poder Público;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
 
-XXIII. En la cabecera de cada Distrito rentístico o judicial, según proceda, el Gobernador establecerá una Oficina permanente para atender los asuntos que sean sometidos a su autoridad;
+XXIII. En la cabecera de cada Distrito rentístico o judicial, según proceda, el Gobernador establecerá una Oficina permanente para atender los asuntos que sean sometidos a su autoridad. Procurando que la atención a las autoridades municipales, agrarias y comunitarias, cuando así se requiera, sea en su lengua materna, con el objeto de garantizar el diálogo y la preservación de las lenguas originarias.
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -3653,9 +3673,9 @@ El procedimiento de juicio político sólo podrá iniciarse durante el periodo e
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE OCTUBRE DE 2016)</small>
 
-> <small>(F. DE E., P.O. 28 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 116. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
+La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 116 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -5223,6 +5243,62 @@ TERCERO.- Con copia certificada del Decreto que se expida, notifíquese al Juzga
 
 P.O. 15 DE MAYO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 602.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 602.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 651: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 670: MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 671: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas de igual o menor rango que se opongan al presente decreto.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 672: MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan todas aquellas normas de igual o menor jerarquía que se opongan al presente Decreto, aunque no estén expresamente derogadas.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 673: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 674: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 669: MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 709: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
