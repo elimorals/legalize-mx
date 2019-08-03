@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "2018-12-29"
+last_updated: "2019-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -411,9 +411,11 @@ Tampoco se pagará el impuesto establecido en esta Ley en las adquisiciones de i
 
 Para los efectos de esta Ley, se entienden por bienes del dominio público lo dispuesto por la Ley General de bienes Nacionales.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 31.
 
-Los funcionarios del Registro Público de la Propiedad y de Comercio no harán inscripción o anotación alguna de escrituras, actos o contratos sin que el solicitante compruebe haber cubierto el impuesto sobre traslación de dominio.
+Las y los funcionarios del Instituto de la Función Registral del Estado de Oaxaca no harán inscripción o anotación alguna de escrituras, actos o contratos sin que la o el solicitante compruebe haber cubierto el impuesto sobre traslación de dominio.
 
 ###### ARTICULO 32.
 
@@ -1728,3 +1730,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil diecinueve, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 724: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Publíquese en el Período (sic) Oficial del Gobierno del Estado.
