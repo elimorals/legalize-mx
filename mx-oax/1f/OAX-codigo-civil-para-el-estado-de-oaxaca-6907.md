@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2019-05-29"
+last_updated: "2019-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -421,6 +421,10 @@ Ninguna otra autoridad, podrá expedir certificaciones de las actas del Registro
 
 El estado civil de las personas sólo se comprueba con las actas y sus certificaciones, inscritas y expedidas en los términos previstos en el artículo anterior, por el Registro Civil. Ningún otro medio de prueba es admisible para ese efecto, salvo los casos expresamente previstos por la Ley.
 
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Las actas relativas al estado civil de las personas que sean expedidas en los términos establecidos en este Código, gozarán de manera permanente de validez ante todas las autoridades del Estado, siempre y cuando se encuentren legibles por lo que ninguna autoridad podrá negar darle valor jurídico a dichas actas so pretexto de no encontrarse actualizada la fecha de expedición o el formato respectivo.
+
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
 ###### Artículo 54.
@@ -521,11 +525,11 @@ La Dirección del Registro civil, para garantizar el derecho a la identidad, rea
 
 La vigencia de las actas de nacimiento y las copias certificadas de las mismas que expida el registro civil y se encuentren en buen estado, sin tachaduras, borraduras o enmiendas y legibles, no estarán sujetos a plazo de caducidad alguna y los datos asentados en ellas se presumirán actualizados, salvo prueba en contrario.
 
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 67.
 
-Tienen obligación de declarar el nacimiento el padre y la madre o cualquiera de ellos, a falta de estos, los abuelos, dentro de los ciento ochenta días de ocurrido. Si el menor no es registrado dentro de este plazo, hasta los seis años, se aplicará a los responsables una multa de uno a diez días de salarios mínimos; después de transcurrido este plazo, el registro se considerará extemporáneo y se realizara previa autorización emitida en los términos establecidos por el reglamento del Registro Civil. La multa que se aplicará en este último caso, será de diez a veinticinco salarios mínimos.
+Tienen obligación de declarar el nacimiento el padre y la madre o cualquiera de ellos, a falta de estos, los abuelos, dentro de los ciento ochenta días de ocurrido. Si el menor no es registrado dentro de ese plazo, y hasta los seis años, el registro se considerará extemporáneo y se realizará previa autorización emitida en los términos establecidos por el reglamento del registro civil.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
@@ -1160,6 +1164,10 @@ Ha lugar a pedir la rectificación o modificación:
 I. Por error de los datos contenidos en el acta respectiva;
 
 II. Por enmienda, cuando se solicite variar, agregar o suprimir un nombre o alguna otra circunstancia esencial del acto registrado.
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+III. Cuando el nombre propio puesto a una persona le cause afrenta o constituya causa de burla.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -15803,7 +15811,7 @@ No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, a
 
 ### CAPITULO IV. Del registro de las informaciones de dominio
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 2889.
 
@@ -15943,11 +15951,13 @@ El reglamento especial establecerá los derechos y obligaciones de los registrad
 
 ###### Artículo 2902.
 
-El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1158, por no estar inscrita en el Registro la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el juez competente, que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Instituto de la Función Registral, que demuestre que los bienes no están inscritos.
+El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1158, por no estar inscrita en el Registro la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el juez competente, que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Instituto de la Función Registral, que demuestre que los bienes no están inscritos y documental que exprese que el inmueble se encuentra excluido del régimen de propiedad social.
 
 La información se recibirá con citación del Ministerio Público, del respectivo registrador de la propiedad y de los colindantes.
 
-Los testigos deben ser por lo menos tres de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Los testigos deben ser por lo menos tres de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere, acreditad·con (sic) documental fehaciente, y sus declaraciones versarán sobre el hecho de la posesión y sobre el origen de la posesión.
 
 No se recibirá la información sin que previamente se haya dado una amplia publicidad por medio de la prensa y de avisos fijados en los lugares públicos, a la solicitud del promovente.
 
@@ -16668,3 +16678,31 @@ P.O. 29 DE MAYO DE 2019.
 PRIMERO.-·El presente Decreto surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 643.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos constitucionales y legales procedentes.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 646: MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: Remítase al Titular del Poder Ejecutivo del Estado, para los efectos constitucionales y legales procedentes.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 647: MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 663: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
