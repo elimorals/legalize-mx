@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-al-primer-empleo-para-el-estado-de-oaxaca-126108
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-08"
-last_updated: "2017-12-08"
+last_updated: "2019-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FOMENTO AL PRIMER EMPLEO PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
 
 Ley publicada en el Extra al Periódico Oficial del Estado de Oaxaca, el viernes 8 de diciembre de 2017.
 
@@ -103,9 +103,11 @@ La Secretaría de Finanzas, verificará que se cumplan con los requisitos e info
 
 El Instituto de la Juventud en coordinación con la Secretaría de Finanzas, inscribirá, mantendrá y actualizará el padrón de beneficiarios.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 7.
 
-El Instituto de la Juventud y la Comisión Permanente de Juventud y Deporte del Congreso del Estado deberán evaluar cada año los resultados que surjan de la aplicación de la presente Ley.
+El Instituto de la Juventud y la Comisión Permanente de Trabajo y Seguridad Social del Congreso del Estado deberán evaluar cada año los resultados que surjan de la aplicación de la presente Ley.
 
 ###### Artículo 8.
 
@@ -272,3 +274,13 @@ CUARTO. La Secretaría de Economía creará el padrón único de registro de los
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 30 de septiembre de 2017.- Dip. Samuel Gurrión Matías, Presidente.- Dip. Hilda Graciela Pérez Luis, Secretaria.- Dip. Leslie Vibsania Mendoza Zavaleta, Secretaria.- Dip. María Mercedes Rojas Saldaña, Secretaria.- Rúbricas.”
 
 Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 20 de Octubre de 2017. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 707: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO AL PRIMER EMPLEO PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
