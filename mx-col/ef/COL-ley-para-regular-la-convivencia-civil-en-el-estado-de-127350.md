@@ -4,7 +4,7 @@ identifier: "COL-ley-para-regular-la-convivencia-civil-en-el-estado-de-127350"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-24"
-last_updated: "2018-03-24"
+last_updated: "2019-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127350&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 24 de marzo de 2018.
 
@@ -343,9 +343,17 @@ Son infracciones contra la dignidad de las personas:
 
 I. Maltratar física o verbalmente a cualquier persona;
 
-II. Permitir a menores de edad el acceso a lugares a los que expresamente les esté prohibido; y
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
 
-III. Golpear a una persona, en forma intencional y fuera de riña, sin causarle lesión.
+II. Permitir a menores de edad el acceso a lugares a los que expresamente les esté prohibido;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+III. Golpear a una persona, en forma intencional y fuera de riña, sin causarle lesión; y
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+IV. Manifestar expresiones verbales de connotación sexual a una persona que molesten y dañen su dignidad, y/ o realizar señales obscenas con intención lujuriosa.
 
 ###### Artículo 17.
 
@@ -353,7 +361,9 @@ Las infracciones contra la dignidad de las personas establecidas en el artículo
 
 En caso de actualizarse lo dispuesto en la fracción I, se impondrá multa por el equivalente de 1 a 10 veces el valor diario de la Unidad de Medida y Actualización o arresto de 6 a 12 horas.
 
-Las conductas señaladas en las fracciones II y III, con multa por el equivalente de 11 a 20 veces el valor diario de la Unidad de Medida y Actualización o arresto de 13 a 24 horas.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Las conductas señaladas en las fracciones II, III y IV, con multa por el equivalente de 10 a 20 veces el valor diario de la Unidad de Medida y Actualización o arresto de 12 a 24 horas.
 
 ###### Artículo 18.
 
@@ -924,3 +934,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 ARNOLDO OCHOA GONZÁLEZ
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 115 POR EL QUE SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 16 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 17, Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 16, TODOS DE LA LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS”.]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
