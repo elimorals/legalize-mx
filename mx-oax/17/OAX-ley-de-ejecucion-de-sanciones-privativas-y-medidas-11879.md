@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ejecucion-de-sanciones-privativas-y-medidas-11879"
 country: "mx"
 rank: "ley"
 publication_date: "1973-01-27"
-last_updated: "2018-11-10"
+last_updated: "2019-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y MEDIDAS RESTRICTIVAS DE LIBERTAD, PARA EL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO NO.701, PUBLICADO EN EL P.O. DE 3 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO SE ABROGA, SALVO PARA LO SEÑALADO EN EL PÁRRAFO SEGUNDO DEL ARTÍCULO TRANSITORIO TERCERO DE LA LEY NACIONAL DE EJECUCIÓN PENAL.]</small>
+
 LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y MEDIDAS RESTRICTIVAS DE LIBERTAD, PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de enero de 1973.
 
@@ -978,3 +980,17 @@ P.O. 10 NOVIEMBRE DE 2018.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 Segundo. Se derogan todas las disposiciones expedidas con anterioridad en lo que se opongan a esta reforma.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+> <small>[N. DE E. SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 701 QUE SE RELACIONA CON LA REFORMA DEL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+El Estado de Oaxaca se anexa a la Declaratoria de la entrada en vigor de la Ley Nacional de Ejecución Penal emitida por el Congreso de la Unión, con fundamento en el párrafo quinto del Artículo Transitorio Segundo de la Ley Nacional de Ejecución Penal.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 701.- MEDIANTE EL CUAL EL ESTADO DE OAXACA SE ANEXA A LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA LEY NACIONAL DE EJECUCIÓN PENAL EMITIDA POR EL CONGRESO DE LA UNIÓN, CON FUNDAMENTO EN EL PÁRRAFO QUINTO DEL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY NACIONAL DE EJECUCIÓN PENAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado. Publíquese.
+
+SEGUNDO.- Se Abroga la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad para el Estado de Oaxaca, salvo para lo señalado en el párrafo segundo del Artículo Transitorio Tercero de la Ley Nacional de Ejecución Penal.
