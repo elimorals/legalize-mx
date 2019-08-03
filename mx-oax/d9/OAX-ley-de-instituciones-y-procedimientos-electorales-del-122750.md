@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2019-03-22"
+last_updated: "2019-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -1725,11 +1725,15 @@ Artículo 71
 
 1.- La Contraloría General es el órgano de control interno del Instituto Estatal, el cual tendrá a su cargo la fiscalización de los ingresos y egresos del mismo. En el ejercicio de sus atribuciones estará dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
 
-2.- El titular de la Contraloría General tendrá el nivel jerárquico de Director Ejecutivo, será designado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, mediante los procedimientos y en los plazos que fije la Ley Orgánica del Poder Legislativo del Estado de Oaxaca. Durará tres años en el cargo pudiendo ser reelecto una sola vez, estará adscrito administrativamente a la Presidencia del Consejo General.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+2.- El titular de la Contraloría General tendrá el nivel jerárquico de Director Ejecutivo, será designado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, mediante convocatoria pública en términos de lo que disponga la normatividad del congreso. De la convocatoria emanara una terna de candidatos que deberán de cumplir con los requisitos que establezca esta Ley, para ser presentada al Pleno. Durará tres años en el cargo pudiendo ser reelecto una sola vez, estará adscrito administrativamente a la Presidencia del Consejo General.
 
 3.- La Contraloría General contará con la estructura orgánica, personal y recursos de acuerdo con la disponibilidad presupuestaria del Instituto Estatal.
 
-4.- La Contraloría General mantendrá la coordinación necesaria con la Auditoría Superior del Estado, y con los órganos que marque la ley, con la finalidad de cumplir sus funciones.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+4.- La Contraloría General mantendrá la coordinación necesaria con el Órgano Superior de Fiscalización del Estado de Oaxaca, así como los órganos que integran el Sistema Estatal de Combate a la Corrupción, con la finalidad de cumplir sus funciones.
 
 5.- En su desempeño la Contraloría General se sujetará a los principios de imparcialidad, máxima publicidad, independencia, legalidad, objetividad, certeza, honestidad, exhaustividad y transparencia.
 
@@ -1749,7 +1753,9 @@ V.- No pertenecer o haber pertenecido en los cuatro años anteriores a su design
 
 Artículo 73
 
-1.- Son causas de responsabilidad del Contralor, además de las que señala la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, las siguientes:
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+1.- El Titular del Órgano Interno de Control del Instituto será sujeto de responsabilidad en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca. Además de las que señala la Ley son causas de responsabilidad las siguientes:
 
 I.- Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley y de la legislación en la materia;
 
@@ -1815,7 +1821,13 @@ XIX.- Presentar al Consejo General los informes previo y anual de resultados de 
 
 XX.- Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que corresponda; y
 
-XXI.- Las demás que le otorgue esta Ley o las leyes aplicables en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE AGOSTO DE 2019)</small>
+
+XXI.- Inscribir la información correspondiente al sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de todos los servidores públicos del Instituto, de conformidad con lo previsto por la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2019)</small>
+
+XXII.- Las demás que le otorgue esta Ley o las leyes aplicables en la materia.
 
 Artículo 76
 
@@ -5568,6 +5580,14 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 P.O. 22 DE MARZO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 585.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA".]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 666: MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA".]
 
 PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
