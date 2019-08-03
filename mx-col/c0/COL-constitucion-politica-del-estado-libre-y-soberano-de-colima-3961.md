@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2019-05-18"
+last_updated: "2019-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -60,6 +60,10 @@ Las normas relativas a los derechos humanos se interpretarán de conformidad con
 Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquiera otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+La paridad de género se instituye como un principio fundamental en el Estado de Colima, que garantizará la igualdad sustantiva entre mujeres y hombres en el ejercicio del poder público, en términos de esta Constitución y las leyes secundarias.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -95,7 +99,21 @@ Siempre que no se afecte la igualdad entre las partes, el debido proceso u otros
 
 VIII. A resolver sus controversias de carácter jurídico a través de la justicia alternativa, mediante procedimientos no jurisdiccionales, en la forma y los términos que establezca la ley;
 
-IX. A vivir en un medio ambiente sano y seguro para su desarrollo y bienestar.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+IX. A vivir en un medio ambiente sano y seguro para su desarrollo y bienestar:
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+a) La naturaleza, conformada por todos sus ecosistemas y especies como un ente colectivo sujeto de derechos, deberá ser respetada en su existencia, en su restauración y en la regeneración de sus ciclos naturales, así como la conservación de su estructura y funciones ecológicas, en los términos que la ley lo establezca;
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+b) La biodiversidad, los ecosistemas naturales, el patrimonio genético y las especies nativas son bienes comunes y de interés público, por lo que su aprovechamiento será en los términos que la ley lo señale; su protección, preservación y recuperación es corresponsabilidad entre los sectores público, privado y social; y
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+c) El Estado promoverá el derecho al uso y acceso a las ecotecnologías aplicadas que garanticen el uso de los recursos naturales de manera limpia y cuyo objetivo sea satisfacer las necesidades humanas minimizando el impacto ambiental.
 
 El daño y deterioro ambiental generará responsabilidad para quien lo provoque, en términos de lo dispuesto por la ley;
 
@@ -191,19 +209,23 @@ El Estado y los municipios, con el fin de promover la igualdad de oportunidades 
 
 Igualmente promoverán, en el ámbito de sus competencias, la participación de la sociedad en el rescate, preservación y difusión de la cultura, las lenguas, los usos y costumbres, y las tradiciones indígenas.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
 Artículo 7°
 
-Todos los ciudadanos tienen el derecho y la libertad de participar en la dirección de los asuntos públicos, de modo directo o por medio de representantes libremente elegidos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Toda la ciudadanía tiene el derecho y la libertad de participar en la dirección de los asuntos públicos, de modo directo o por medio de representantes libremente elegidos, en condiciones de igualdad, libre de todo tipo de violencia y discriminación, en los términos que señale la ley.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 Este derecho incluye el de votar y ser votado en elecciones periódicas y auténticas, mediante sufragio universal, igual y secreto, que garantice la libre expresión de la voluntad de los electores, así como el de tener acceso, en condiciones generales de igualdad, a las funciones públicas en el Estado, siempre que se reúnan los requisitos que establezcan esta Constitución y las leyes de la materia.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 La participación de los ciudadanos en la formación, ejecución, evaluación y control de la gestión pública es un medio necesario para lograr su pleno desarrollo, tanto individual como colectivo. Es obligación del Estado y deber de la sociedad promover la generación de condiciones favorables para su ejercicio.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-Los ciudadanos tienen derecho a solicitar la revocación del mandato del Gobernador Constitucional del Estado y sus resultados serán obligatorios, en la forma y términos que señala la Ley.
+Los ciudadanos tienen derecho a solicitar la revocación del mandato de la Gobernadora o Gobernador Constitucional del Estado y sus resultados serán obligatorios, en la forma y términos que señala la ley.
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -299,19 +321,33 @@ Todo servidor público está obligado a responder a las recomendaciones que le p
 
 La Comisión tendrá facultad para ejercitar acción de inconstitucionalidad ante la Suprema Corte de Justicia de la Nación, contra leyes expedidas por el Congreso del Estado que violen derechos humanos, en términos de la fracción II, inciso g) del artículo 105 de la Constitución Federal.
 
-El presidente y los consejeros de la Comisión serán elegidos por el Congreso, a propuesta de los diputados, por mayoría calificada de sus integrantes y de conformidad con un procedimiento de consulta pública que deberá ser transparente, en los términos que establezca su ley orgánica.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-El presidente durará en su encargo cuatro años, podrá ser reelegido para un periodo igual y presentará anualmente al Congreso un informe de las actividades del organismo a su cargo. Comparecerá también ante el Congreso en los términos que disponga la ley.
+La presidenta o presidente, las consejeras y los consejeros de la Comisión serán elegidos por el Congreso, a propuesta de las diputadas y los diputados, por mayoría calificada de sus integrantes y de conformidad con un procedimiento de consulta pública que deberá ser transparente, en los términos que establezca su ley orgánica.
 
-La ley orgánica determinará la forma de integración, la estructura y el funcionamiento de la Comisión, así como las responsabilidades en que incurrirán las autoridades, los servidores públicos y los particulares que no atiendan los requerimientos de dicho organismo.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+La presidenta o presidente durará en su encargo cuatro años, se podrá reelegir para un periodo igual y presentará anualmente al Congreso un informe de las actividades del organismo a su cargo. Comparecerá también ante el Congreso en los términos que disponga la ley.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+La ley orgánica determinará la forma de integración, que observará el principio de paridad de género, la estructura y el funcionamiento de la Comisión, así como las responsabilidades en que incurrirán las autoridades, los servidores públicos y los particulares que no atiendan los requerimientos de dicho organismo.
 
 B. Corresponderá al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima garantizar el derecho de acceso a la información pública y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios y las bases establecidos por el artículo 6° de la Constitución Federal, esta Constitución, la ley general que emita el Congreso de la Unión y la ley estatal de la materia.
 
 El Instituto se constituirá como un organismo autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propio, y tendrá las atribuciones que le señalen las leyes de la materia.
 
-El Instituto se integrará por tres comisionados, quienes durarán en su encargo seis años y no podrán ser reelegidos. Serán nombrados a propuesta del titular del Poder Ejecutivo, con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, siguiendo el procedimiento establecido en la ley de la materia. En la conformación del organismo se procurará la equidad de género.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-El comisionado presidente será designado por un periodo de tres años mediante el voto secreto de los propios comisionados y podrá ser reelegido por un periodo igual; estará obligado a rendir un informe anual ante el Congreso del Estado en la fecha y en los términos que disponga la ley.
+El Instituto se integrará por tres comisionados, quienes durarán en su encargo seis años y no podrán ser reelegidos. Serán nombrados a propuesta del titular del Poder Ejecutivo, con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, siguiendo el procedimiento establecido en la ley de la materia.
+
+> <small>(ADICIONADO [N. DE E. ANTES ÚLTIMA PARTE DEL PÁRRAFO TERCERO DEL APARTADO B DEL PRESENTE ARTÍCULO], P.O. 3 DE AGOSTO DE 2019)</small>
+
+En la conformación del organismo se deberá observar la paridad de género.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+La comisionada o el comisionado presidente será designado por un periodo de tres años mediante el voto secreto de los propios comisionados y podrá ser reelegido por un periodo igual; estará obligado a rendir un informe anual ante el Congreso del Estado en la fecha y en los términos que disponga la ley.
 
 El Instituto tendrá un Consejo Consultivo, integrado por tres consejeros que serán elegidos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado. La ley determinará los procedimientos para la presentación de las propuestas por el propio Congreso. El cargo de integrante del Consejo Consultivo será honorífico.
 
@@ -373,7 +409,25 @@ a) Acatar puntualmente lo establecido en la Constitución Federal, en la present
 
 b) Contribuir para los gastos públicos que dispongan las leyes; y
 
-c) Obedecer y respetar las instituciones, leyes y autoridades del Estado, sujetándose a los fallos y sentencias de los tribunales, sin intentar otros recursos que los que se conceden a los mexicanos.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+c) Obedecer y respetar las instituciones, leyes y autoridades del Estado, sujetándose a los fallos y sentencias de los tribunales, sin intentar otros recursos que los que se conceden a los mexicanos; y
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE AGOSTO DE 2019)</small>
+
+III. Proteger, respetar, defender y contribuir al mejoramiento del medio ambiente, a través de:
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+a) La participación en la toma de decisiones públicas que generen impactos ambientales;
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+b) La salvaguarda de los recursos naturales y su aprovechamiento de manera sostenible; y
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+c) El respeto a la integridad de los animales como seres sintientes; su protección, cuidado y conservación son de responsabilidad común.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -469,7 +523,9 @@ En el régimen interior del Estado, los órganos autónomos son instituciones qu
 
 Esta Constitución y las leyes de la materia establecerán las bases de la integración, coordinación, organización, funcionamiento, modalidades, límites y formas de control y de rendición de cuentas de los órganos autónomos del Estado. Dichos órganos se regirán por los principios de certeza, legalidad, independencia, imparcialidad, eficiencia, objetividad, profesionalismo, transparencia, máxima publicidad y respeto a los derechos humanos.
 
-El nombramiento de sus titulares deberá recaer en aquellas personas que se hayan distinguido por su honorabilidad, imparcialidad, competencia y antecedentes profesionales en la materia de la función que se pretenda ocupar.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+El nombramiento de sus titulares deberá recaer en aquellas personas que se hayan distinguido por su honorabilidad, imparcialidad, competencia y antecedentes profesionales en la materia de la función que se pretenda ocupar, atendiendo el principio de paridad de género.
 
 Los titulares de los órganos internos de control serán nombrados en los términos de las leyes respectivas.
 
@@ -511,13 +567,17 @@ Las funciones que competen al Poder Legislativo se ejercen por una cámara que s
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN, INSTALACIÓN Y SESIONES DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
 Artículo 24
 
-El Congreso del Estado estará integrado por dieciséis diputados electos según el principio de mayoría relativa, y por nueve diputados electos según el principio de representación proporcional; la elección se sujetará al procedimiento que disponga el Código Electoral del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-Por cada diputado propietario electo por el principio de mayoría relativa se elegirá un suplente. Los diputados electos por el principio de representación proporcional no tendrán suplente; la vacante de uno de ellos será cubierta por el candidato del mismo partido que siga en el orden de la lista plurinominal respectiva.
+El Congreso del Estado estará integrado por dieciséis diputadas y diputados electos según el principio de mayoría relativa, y por nueve diputadas y diputados electos según el principio de representación proporcional; la elección se sujetará al procedimiento que disponga el Código Electoral del Estado.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Por cada diputada o diputado propietario electo por el principio de mayoría relativa se elegirá un suplente. Las diputadas y diputados electos por el principio de representación proporcional no tendrán suplente; la vacante de uno de ellos será cubierta por la candidata o candidato del mismo partido y género vacante que siga en el orden de la lista plurinominal respectiva.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 Al efecto, el Estado se dividirá en dieciséis distritos electorales uninominales, cuya demarcación será determinada por el Instituto Nacional Electoral con base en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales, y una circunscripción plurinominal que comprenderá la extensión territorial del Estado.
 
@@ -593,29 +653,41 @@ No podrá el Congreso abrir sus sesiones sin la concurrencia de la mayoría de s
 
 Fuera de los periodos que señala el párrafo segundo, el Congreso celebrará sesiones o periodos extraordinarios sólo cuando sea convocado al efecto por la Comisión Permanente, debiendo ocuparse en ellos únicamente de los asuntos materia de la convocatoria.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
-
 Artículo 31
 
-En sesión solemne del 1° de octubre, con motivo de la apertura de sesiones ordinarias del primer periodo de cada año de ejercicio del Congreso, a la que asistirán el Presidente del Supremo Tribunal de Justicia y los integrantes de la Legislatura, en la sede del Poder Legislativo, el Gobernador del Estado presentará un informe por escrito, en el que manifieste el estado general que guarda la administración pública de la entidad y el cumplimiento del Plan Estatal de Desarrollo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-En dicha sesión solemne hará uso de la palabra un Diputado por cada uno de los grupos parlamentarios y diputados únicos con representación en el Congreso para emitir sus posicionamientos respecto del informe que entrega el titular del Ejecutivo, en los términos de Ley.
+En sesión solemne del 1° de octubre, con motivo de la apertura de sesiones ordinarias del primer período de cada año de ejercicio del Congreso, a la que asistirán la Presidenta o Presidente del Supremo Tribunal de Justicia y los integrantes de la Legislatura, en la sede del Poder Legislativo, la Gobernadora o el Gobernador del Estado presentará un informe por escrito, en el que manifieste el estado general que guarda la administración pública de la entidad y el cumplimiento del Plan Estatal de Desarrollo.
 
-Concluidas las intervenciones de los legisladores, el Gobernador del Estado deberá hacer uso de la palabra para expresar un mensaje con respecto al informe que entrega al Congreso.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-Enseguida, el Presidente de la Mesa Directiva emitirá un mensaje respecto del informe del Ejecutivo y al término de éste declarará concluida la Sesión.
+En dicha sesión solemne hará uso de la palabra una Diputada o Diputado por cada uno de los grupos parlamentarios y las diputadas o diputados únicos con representación en el Congreso para emitir sus posicionamientos respecto del informe que entrega el titular del Ejecutivo, en los términos de ley.
 
-Posteriormente, el Congreso realizará el análisis del informe, acordará solicitar al Ejecutivo del Estado la ampliación de la información por escrito y citará a comparecer a los Secretarios de la Administración Pública, al Consejero Jurídico y al Fiscal General del Estado para el mismo propósito.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-El Gobernador también podrá ser citado a comparecer cuando así lo decida una mayoría de dos tercios de los diputados presentes.
+Concluidas las intervenciones de los legisladores, la Gobernadora o Gobernador del Estado deberá hacer uso de la palabra para expresar un mensaje con respecto al informe que entrega al Congreso.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Enseguida, la Presidenta o Presidente de la Mesa Directiva emitirá un mensaje respecto del informe del Ejecutivo y al término de éste declarará concluida la Sesión.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Posteriormente, el Congreso realizará el análisis del informe, acordará solicitar al Ejecutivo del Estado la ampliación de la información por escrito y citará a comparecer a las Secretarias y Secretarios de la Administración Pública, a la Consejera o Consejero Jurídico y al Fiscal General del Estado para el mismo propósito.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+La Gobernadora o Gobernador también podrá ser citado a comparecer cuando así lo decida una mayoría de dos tercios de los diputados presentes.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
 
 La Ley Orgánica del Poder Legislativo y su Reglamento establecerán los términos en que se desarrollarán las comparecencias.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 Artículo 32
 
-Corresponde al Congreso dictar las disposiciones generales que regulen su organización y funcionamiento internos.
+Corresponde al Congreso dictar las disposiciones generales que regulen su organización y funcionamiento internos, en las que deberá observar el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -791,11 +863,13 @@ El Congreso evaluará el desempeño del Órgano Superior de Auditoría y Fiscali
 
 ### CAPÍTULO IV. DE LA COMISIÓN PERMANENTE
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
 Artículo 37
 
-En los recesos del Congreso funcionará una Comisión Permanente integrada por siete diputados, que serán electos en la forma y términos que señala la Ley Orgánica del Poder Legislativo y su Reglamento, dentro de los tres días anteriores a la clausura de un periodo ordinario de sesiones. Si el día en que deba clausurarse el periodo ordinario no ha sido electa la Comisión Permanente, sus integrantes serán designados por insaculación.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+En los recesos del Congreso funcionará una Comisión Permanente integrada, en forma paritaria, por siete diputadas y diputados, que serán electos en la forma y términos que señala la Ley Orgánica del Poder Legislativo y su Reglamento, dentro de los tres días anteriores a la clausura de un periodo ordinario de sesiones. Si el día en que deba clausurarse el periodo ordinario no ha sido electa la Comisión Permanente, sus integrantes serán designados por insaculación.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 La Comisión Permanente no podrá tener acuerdos sin la concurrencia de cinco de sus miembros.
 
@@ -931,201 +1005,319 @@ Los asuntos que sean materia de acuerdo económico se sujetarán a los trámites
 
 ### CAPÍTULO I. DEL PODER EJECUTIVO
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 Artículo 50
 
-El ejercicio del Poder Ejecutivo se deposita en una persona que se denomina Gobernador del Estado de Colima.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+El ejercicio del Poder Ejecutivo se deposita en una persona que se denomina Gobernadora o Gobernador del Estado de Colima.
 
 Artículo 51
 
-Para ser Gobernador se requiere:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-I. Ser colimense por nacimiento con residencia inmediata anterior al día de la elección de cinco años ininterrumpidos en el Estado; o ser hijo de padre o madre mexicanos y haber residido en el Estado al menos durante doce años anteriores al día de la elección;
+Para ser Gobernadora o Gobernador se requiere:
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+I. Ser colimense por nacimiento con residencia inmediata anterior al día de la elección de cinco años ininterrumpidos en el Estado; o ser hija o hijo de padre o madre mexicanos y haber residido en el Estado al menos durante doce años anteriores al día de la elección;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 II. Tener por lo menos treinta años cumplidos al día de la elección;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 III. Estar en pleno goce de sus derechos e inscrito en la lista nominal de electores, y no poseer otra nacionalidad;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 IV. Tener un modo honesto de vivir;
 
-V. No ser ministro de algún culto religioso;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+V. No ser Ministra o Ministro de algún culto religioso;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 VI. No estar en servicio activo de las Fuerzas Armadas y de los cuerpos de seguridad pública, a menos que se separe de la función por lo menos un día antes del inicio del registro de candidatos;
 
-VII. No ser Secretario de la Administración Pública, Consejero Jurídico, Fiscal General, Magistrado del Supremo Tribunal de Justicia o Presidente Municipal, a menos que se separe del cargo por lo menos un día antes del inicio del registro de candidatos; y
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
 
-VIII. No haberse desempeñado como Gobernador del Estado de Colima electo popularmente, o de otra entidad federativa, ni como Jefe de Gobierno de la Ciudad de México, o haber ejercido cualquier otra atribución relacionada con las mismas funciones.
+VII. No ocupar la titularidad de una secretaría de la Administración Pública, de la Consejería Jurídica, de la Fiscalía General, Magistratura del Supremo Tribunal de Justicia o Presidencia Municipal, a menos que se separe del cargo por lo menos un día antes del inicio del registro de candidaturas; y
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+VIII. No haberse desempeñado como Gobernadora o Gobernador del Estado de Colima electo popularmente, o de otra entidad federativa, ni como Jefa o Jefe de Gobierno de la Ciudad de México, o haber ejercido cualquier otra atribución relacionada con las mismas funciones.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 Artículo 52
 
-El Gobernador será elegido popular y directamente y entrará en ejercicio de sus funciones el día primero de noviembre del año de su elección; durará en su encargo seis años y no podrá volver a ser electo.
+La Gobernadora o Gobernador será elegido popular y directamente y entrará en ejercicio de sus funciones el día primero de noviembre del año de su elección; durará en su encargo seis años y no podrá volver a ser electo.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2019)</small>
-
-El Gobernador podrá ser removido de su cargo a través del procedimiento de revocación de mandato, en los términos de esta Constitución y Leyes aplicables, independientemente de las responsabilidades en las que pudiera haber incurrido durante su encargo.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+La Gobernadora o Gobernador podrá ser removido de su cargo a través del procedimiento de revocación de mandato, en los términos de esta Constitución y leyes aplicables, independientemente de las responsabilidades en las que pudiera haber incurrido durante su encargo.
 
 Artículo 53
 
-Antes de tomar posesión de su cargo, el Gobernador rendirá la protesta de ley ante el Congreso del Estado, en los siguientes términos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Antes de tomar posesión de su cargo, la Gobernadora o Gobernador rendirá la protesta de ley ante el Congreso del Estado, en los siguientes términos:
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, así como la Constitución y las leyes del Estado, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y la prosperidad del Estado. Si no lo hiciere así, que el pueblo me lo demande".
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
 Artículo 54
 
-El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aun con el carácter de interino, provisional, sustituto o encargado del Despacho.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+La Gobernadora o Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aun con el carácter de interino, provisional, sustituto o encargado del Despacho.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 Nunca podrán ser elegidos para el periodo inmediato:
 
-I. El Gobernador sustituto o el designado para concluir el periodo en caso de falta absoluta del constitucional, aun cuando tenga distinta denominación; y
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
 
-II. El Gobernador interino, el provisional o el ciudadano que bajo cualquiera denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los últimos dos últimos años del periodo.
+I. La Gobernadora o Gobernador sustituto o el designado para concluir el periodo en caso de falta absoluta del constitucional, aun cuando tenga distinta denominación; y
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+II. La Gobernadora o Gobernador interino, el provisional o el ciudadano que bajo cualquiera denominación supla las faltas temporales de la Gobernadora o Gobernador, siempre que desempeñe el cargo en los últimos dos últimos (sic) años del período.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 Artículo 55
 
-Las faltas temporales del Gobernador, hasta por treinta días, serán suplidas por el Secretario General de Gobierno con el carácter de encargado del Despacho, y las que excedan de tal periodo serán cubiertas por un Gobernador interino que nombrará el Congreso a mayoría de votos de los diputados presentes, debiendo cumplir el nombrado los requisitos que señala el artículo 51 de esta Constitución.
+Las faltas temporales de la Gobernadora o Gobernador, hasta por treinta días, serán suplidas por quien presida la Secretaría General de Gobierno con el carácter de encargado del Despacho, y las que excedan de tal periodo serán cubiertas por una Gobernadora o Gobernador interino que nombrará el Congreso a mayoría de votos de las diputadas y los diputados presentes, debiendo cumplir el nombrado los requisitos que señala el artículo 51 de esta Constitución.
 
-Si la falta es absoluta y tiene lugar dentro de los dos primeros años del periodo constitucional, el Congreso nombrará un Gobernador interino de una terna propuesta por el grupo legislativo del partido político a que pertenezca el Gobernador que falte, y quien hará entrega del poder al ciudadano que haya resultado electo en la elección extraordinaria. Para tal efecto, el Congreso expedirá, conforme a sus facultades y dentro de un plazo de diez días a partir de que haya nombrado al Gobernador interino, convocatoria para elección extraordinaria de Gobernador, la cual deberá celebrarse en un plazo máximo de un mes a partir de la expedición de aquélla.
+Si la falta es absoluta y tiene lugar dentro de los dos primeros años del período constitucional, el Congreso nombrará una Gobernadora o Gobernador interino de una terna propuesta por el grupo legislativo del partido político a que pertenezca la Gobernadora o Gobernador que falte, y quien hará entrega del poder al ciudadano que haya resultado electo en la elección extraordinaria. Para tal efecto, el Congreso expedirá, conforme a sus facultades y dentro de un plazo de diez días a partir de que haya nombrado a la Gobernadora o Gobernador interino, convocatoria para la elección extraordinaria respectiva, la cual deberá celebrarse en un plazo máximo de un mes a partir de la expedición de aquélla.
 
-Cuando la falta absoluta ocurra en los cuatro últimos años del periodo constitucional, el Congreso nombrará un Gobernador sustituto que desempeñe el cargo hasta que termine dicho periodo.
+Cuando la falta absoluta ocurra en los cuatro últimos años del período constitucional, el Congreso nombrará una Gobernadora o Gobernador sustituto que desempeñe el cargo hasta que termine dicho período.
 
-Llegado el caso previsto en la fracción V del artículo 76 de la Constitución Federal, el Gobernador provisional convocará a elecciones extraordinarias dentro de un término que no excederá de quince días, y el electo tomará posesión de su cargo inmediatamente que se haga la declaratoria respectiva.
+Llegado el caso previsto en la fracción V del artículo 76 de la Constitución Federal, la Gobernadora o Gobernador provisional convocará a elecciones extraordinarias dentro de un término que no excederá de quince días, y el electo tomará posesión de su cargo inmediatamente que se haga la declaratoria respectiva.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2019)</small>
+La Gobernadora o Gobernador deberá informar al Congreso del Estado de sus ausencias del territorio estatal con motivo del ejercicio de su función, cuando éstas sean mayores a dos días, señalando el motivo de la ausencia y los gastos que se generen.
 
-El Gobernador deberá informar al Congreso del Estado de sus ausencias del territorio estatal con motivo del ejercicio de su función, cuando éstas sean mayores a dos días, señalando el motivo de la ausencia y los gastos que se generen.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 Artículo 56
 
-Cuando se nombre un Gobernador interino bajo la consideración de que es temporal la falta del electo, y se tenga después conocimiento de que es absoluta, el Congreso nombrará un Gobernador sustituto, o bien, confirmará con tal carácter el nombramiento del interino; respecto de él se observará lo dispuesto en el artículo anterior.
+Cuando se nombre una Gobernadora o Gobernador interino bajo la consideración de que es temporal la falta del electo, y se tenga después conocimiento de que es absoluta, el Congreso nombrará una Gobernadora o Gobernador sustituto, o bien, confirmará con tal carácter el nombramiento del interino; respecto de él se observará lo dispuesto en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 Artículo 57
 
-Si por cualquier motivo la elección de Gobernador no está hecha y publicada para el día primero de noviembre en que debe efectuarse la renovación, o el electo no está en posibilidad de tomar posesión de su cargo, no obstante lo cual, cesará en sus funciones el Gobernador que esté desempeñando el puesto, y el Congreso nombrará un interino de una terna propuesta por el grupo legislativo del partido político al que pertenezca el Gobernador que por cualquier motivo no pueda tomar posesión del cargo, y convocará a elecciones, no debiendo exceder el interinato de dos meses.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+Si por cualquier motivo la elección de Gobernador no está hecha y publicada para el día primero de noviembre en que debe efectuarse la renovación, o el electo no está en posibilidad de tomar posesión de su cargo, no obstante lo cual, cesará en sus funciones la Gobernadora o Gobernador que esté desempeñando el puesto, y el Congreso nombrará un interino de una terna propuesta por el grupo legislativo del partido político al que pertenezca la Gobernadora o Gobernador que por cualquier motivo no pueda tomar posesión del cargo, y convocará a elecciones, no debiendo exceder el interinato de dos meses.
 
 Artículo 58
 
-Son facultades y obligaciones del Gobernador:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Son facultades y obligaciones de la Gobernadora o Gobernador:
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 I. En el orden federal, las que determinen la Constitución y las leyes federales;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 II. Mantener relaciones políticas con el Gobierno Federal y con los órganos de gobierno de las demás entidades federativas;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 III. Promulgar, publicar, ejecutar y hacer que se ejecuten las leyes y los decretos, haciendo uso, en su caso, de todas las facultades que le concede esta Constitución;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 IV. Formar los reglamentos y dictar las providencias que demande la mejor ejecución de las leyes;
 
-V. Nombrar y remover libremente a los Secretarios de la Administración Pública del Estado, al Consejero Jurídico y a los demás servidores públicos cuyo nombramiento y remoción no correspondan, conforme a la ley, a otra autoridad;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+V. Nombrar y remover libremente a las Secretarias y Secretarios de la Administración Pública del Estado, a la Consejera o Consejero Jurídico y a los demás servidores públicos cuyo nombramiento y remoción no correspondan, conforme a la ley, a otra autoridad. En el nombramiento de quienes hayan de ocupar la titularidad de los cargos antes mencionados, se atenderá el principio de paridad de género;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 VI. Suspender, cuando falten a sus deberes, a los empleados nombrados por él y promover, conforme a la ley, la responsabilidad consiguiente;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 VII. Conceder licencias con goce de sueldo o sin él, y aceptar las renuncias de los funcionarios y empleados a que se refiere la fracción V de este artículo;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 VIII. Proponer al Fiscal General del Estado para su aprobación al Congreso y, en su caso, removerlo en los términos prescritos por esta Constitución;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 IX. Pedir a la Comisión Permanente convoque al Congreso a sesión o periodo extraordinario;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 X. Convocar al Congreso al desempeño de sus funciones cuando por algún motivo no haya Comisión Permanente;
 
-XI. Expedir los nombramientos de los magistrados del Supremo Tribunal de Justicia y someterlos para su aprobación al Congreso del Estado;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+XI. Expedir los nombramientos de las magistradas y magistrados del Supremo Tribunal de Justicia y someterlos para su aprobación al Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 XII. Aceptar las renuncias y las licencias de los funcionarios a que se refiere la fracción anterior, dando cuenta con ellas al Congreso o a la Comisión Permanente en su caso;
 
-XIII. Proponer los nombramientos de los magistrados del Tribunal de Justicia Administrativa y someterlos a la aprobación del Congreso del Estado en los términos previstos por esta Constitución;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
 
-XIV. Proponer al Congreso del Estado, mediante el procedimiento que establezca la ley de la materia, al presidente del Tribunal de Arbitraje y Escalafón;
+XIII. Proponer los nombramientos de las magistradas y magistrados del Tribunal de Justicia Administrativa y someterlos a la aprobación del Congreso del Estado en los términos previstos por esta Constitución;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+XIV. Proponer al Congreso del Estado, mediante el procedimiento que establezca la ley de la materia, a la presidenta o presidente del Tribunal de Arbitraje y Escalafón;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 XV. Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones, y hacer que se cumplan las sentencias de los tribunales;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 XVI. Tener el mando de la fuerza pública del Estado y transmitir órdenes a las policías preventivas municipales sólo en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 XVII. Conceder indultos conforme a la ley;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 XVIII. Celebrar convenios con los gobiernos Federal y de las demás entidades federativas, para que los reos sentenciados por delitos del orden común puedan cumplir sus sanciones privativas de libertad en establecimientos ubicados fuera de la Entidad;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 XIX. Remitir cada año para su aprobación al Congreso del Estado, a más tardar el 31 de octubre, y en su caso hasta el 15 de noviembre de cada seis años, con motivo del cambio del Ejecutivo, los proyectos de Ley de Ingresos y Presupuesto de Egresos del Estado;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 XX. Vigilar la recaudación de los impuestos y contribuciones, y disponer su inversión según lo determinen las leyes;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 XXI. Cuidar de que el manejo de los fondos públicos se asegure conforme a las leyes y de que los empleados rindan cuenta en la forma y tiempo prescritos por las mismas;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 XXII. Presentar al Congreso del Estado, para su revisión y fiscalización, el resultado de la cuenta pública anual del Gobierno, a más tardar el 30 de abril del ejercicio siguiente.
 
 Dichos resultados se elaborarán por los meses comprendidos de enero a diciembre de cada año, debiendo integrar las cifras consolidadas anuales de los resultados de la gestión;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 XXIII. Dirigir y fomentar, por todos los medios lícitos posibles, la educación pública, de acuerdo con esta Constitución y la Federal; y procurar el adelanto y mejoramiento social en todos los órdenes;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 XXIV. Expedir títulos profesionales a quienes hayan justificado haber sido aprobados en los exámenes correspondientes, conforme a los reglamentos vigentes en las escuelas profesionales establecidas en el Estado;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 XXV. Visitar el Estado en sus correspondientes municipios, ya sea personalmente o por medio de servidores públicos en los que delegue su representación, realizando recorridos o reuniones de consulta y diálogo popular, así como el inicio o puesta en servicio de acciones y obras públicas;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 XXVI. Inspeccionar las obras de mejoras materiales costeadas por los ingresos del Estado, cuidando de que no se dilapiden los mismos;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 XXVII. Celebrar, con aprobación del Congreso, los convenios de carácter financiero con la Federación; y con los Estados en materia de conurbación y límites, en términos de las fracciones VIII y IX del artículo 34 de esta Constitución;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 XXVIII. Enajenar, con autorización del Congreso, los bienes que según las leyes pertenezcan al Estado;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 XXIX. Recibir la protesta de todos los funcionarios y empleados nombrados por él que, conforme a las leyes, no deban otorgarla ante otra autoridad;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 XXX. Ejercitar los derechos a que se refieren los artículos 41 y 44 de esta Constitución;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 XXXI. Otorgar a los particulares, mediante concesión, la explotación de bienes propiedad del Estado o la prestación de servicios públicos, cuando así proceda con arreglo a la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 XXXII. Rendir ante el Congreso del Estado el informe a que se refiere el artículo 31 de esta Constitución;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 XXXIII. Asistir a la apertura del primer periodo ordinario de sesiones del Congreso;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 XXXIV. Autorizar, expedir y cancelar patentes para el desempeño de la función notarial en los términos de la legislación respectiva;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 XXXV. Presidir todas las reuniones oficiales a que concurra, a excepción de las del Congreso y tribunales;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 XXXVI. Prestar, previa solicitud de las autoridades electorales, el auxilio de la fuerza pública, así como los apoyos que requieran para la preservación del orden público en los procesos electorales;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 XXXVII. Participar, en los términos que establezcan las leyes de la materia, en acciones de desarrollo urbano y asentamientos humanos;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 XXXVIII. Asumir facultades especiales o extraordinarias conforme a la fracción XII del artículo 34 de esta Constitución, cuando, en virtud de las circunstancias, no se pueda recabar la autorización del Congreso, a quien dará cuenta de lo que haga, para su aprobación o reprobación;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 XXXIX. Decretar la expropiación por causa de utilidad pública, en la forma que determinen las leyes;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 XL. Siempre que esté en goce de facultades extraordinarias en el ramo de hacienda, condonar contribuciones cuando lo considere justo y equitativo;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 XLI. Organizar y conducir la planeación democrática del desarrollo del Estado, y establecer los medios para la participación ciudadana y la consulta popular;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 XLII. Promover el desarrollo del Estado en materia económica, social y cultural;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 XLIII. Solicitar al Instituto Electoral del Estado someta a plebiscito, en los términos que disponga la ley, propuestas de actos o decisiones de gobierno considerados como trascendentes para la vida pública del Estado; y
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 XLIV. Las demás que le confiera esta Constitución.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
 Artículo 59
 
-El Gobernador no puede:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+La Gobernadora o Gobernador no puede:
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 I. Negarse a publicar las leyes y los decretos del Congreso sólo en el caso de que le parezcan contrarios a la Constitución del Estado, a la Federal, o restrinjan las facultades del Ejecutivo, notificándolo a la Legislatura para que se proceda en los términos del artículo 41 de esta Constitución;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 II. Distraer los caudales públicos de los objetos a que están destinados por la ley;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 III. Imponer contribución alguna, a no ser que esté extraordinariamente facultado para ello;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 IV. Ocupar la propiedad de persona alguna, ni perturbarla en la posesión, uso o aprovechamiento, sino en los términos que prevenga la ley;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 V. Intervenir en las elecciones para que recaigan en determinada persona, ya sea por sí o por medio de otras autoridades o agentes, siendo este motivo de nulidad de la elección y causa de responsabilidad;
 
@@ -1151,47 +1343,49 @@ Artículo 60
 
 La Administración Pública del Estado será centralizada y paraestatal conforme a su Ley Orgánica y las demás leyes que expida el Congreso del Estado.
 
-En el ejercicio de sus atribuciones y para el despacho de los asuntos que son competencia del Poder Ejecutivo del Estado, éste se auxiliará de un Secretario General de Gobierno y de los Secretarios, Consejero Jurídico, Contralor General y demás servidores públicos de las dependencias y entidades que integran la Administración Pública centralizada y paraestatal, en los términos que dispongan las leyes respectivas.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+En el ejercicio de sus atribuciones y para el despacho de los asuntos que son competencia del Poder Ejecutivo del Estado, éste se auxiliará de una Secretaría General de Gobierno y de las Secretarías, Consejería Jurídica, Contraloría General y demás dependencias y entidades que integran la Administración Pública centralizada y paraestatal, debiendo observar para su integración la paridad de género, así como los términos que dispongan las leyes respectivas.
 
 Formarán parte de la Administración Pública del Estado las empresas productivas de bienes o de servicios que contribuyan directamente a los fines establecidos en el artículo 11 de esta Constitución.
 
 La ley señalará los requisitos de ingreso, permanencia y profesionalización de los servidores públicos de mando que lleven a cabo tareas especializadas.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 Artículo 61
 
-Las Secretarías tendrán igual rango, por lo que no habrá entre ellas preeminencia alguna. Al frente de cada Secretaría habrá un Secretario, que será nombrado y removido libremente por el Gobernador del Estado y que, para el despacho de los asuntos de su competencia, se auxiliará de las unidades administrativas y de los demás servidores públicos que requiera el desempeño de sus funciones.
+Las Secretarías tendrán igual rango, por lo que no habrá entre ellas preeminencia alguna. Al frente de cada Secretaría habrá una Secretaria o Secretario, que será nombrado y removido libremente por la Gobernadora o Gobernador del Estado y que, para el despacho de los asuntos de su competencia, se auxiliará de las unidades administrativas y de los demás servidores públicos que requiera el desempeño de sus funciones.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 Artículo 62
 
-Para ser Secretario de la Administración Pública del Estado se exigen los mismos requisitos que señala el artículo 26 de esta Constitución, exceptuando el de la vecindad.
+Para ser Secretaria o Secretario de la Administración Pública del Estado se exigen los mismos requisitos que señala el artículo 26 de esta Constitución, exceptuando el de la vecindad.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 Artículo 63
 
-Todos los reglamentos, decretos, acuerdos y órdenes del Ejecutivo deberán ser refrendados con carácter obligatorio por el Secretario General de Gobierno y por los Secretarios del ramo a que el asunto corresponda.
+Todos los reglamentos, decretos, acuerdos y órdenes del Ejecutivo deberán ser refrendados con carácter obligatorio por la Secretaria o Secretario General de Gobierno y por las Secretarias o Secretarios del ramo a que el asunto corresponda.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 Artículo 64
 
-Mientras se encuentren en ejercicio de su cargo, los Secretarios de la Administración Pública del Estado, el Consejero Jurídico y el Contralor General no podrán desempeñar actividades profesionales que impliquen el ejercicio libre de su profesión o el notariado.
+Mientras se encuentren en ejercicio de su cargo, las Secretarias o Secretarios de la Administración Pública del Estado, la Consejera o Consejero Jurídico y la Contralora o el Contralor General no podrán desempeñar actividades profesionales que impliquen el ejercicio libre de su profesión o el notariado.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 Artículo 65
 
-La función de Consejería Jurídica del Poder Ejecutivo del Estado estará a cargo de un Consejero, quien dependerá directamente del Gobernador y será nombrado y removido libremente por éste.
+La función de Consejería Jurídica del Poder Ejecutivo del Estado estará a cargo de una Consejera o Consejero, quien dependerá directamente de la Gobernadora o Gobernador y será nombrado y removido libremente por éste.
 
-Para ser Consejero Jurídico se deben cumplir los mismos requisitos que para ser Fiscal General del Estado, previstos por el artículo 83 de esta Constitución.
+Para ser Consejera o Consejero Jurídico se deben cumplir los mismos requisitos que para ser Fiscal General del Estado, previstos por el artículo 83 de esta Constitución.
 
-El Consejero Jurídico dará opinión sobre los proyectos de ley y decreto, así como sobre las propuestas de nombramiento que el Gobernador deba presentar al Congreso del Estado; representará jurídicamente al titular del Ejecutivo del Estado en cualquier juicio o asunto en que éste intervenga o deba intervenir con cualquier carácter, así como en las acciones y controversias constitucionales en las que el Estado sea parte. Estas facultades podrán ser delegadas.
+La Consejera o Consejero Jurídico dará opinión sobre los proyectos de ley y decreto, así como sobre las propuestas de nombramiento que la Gobernadora o Gobernador del Estado deba presentar al Congreso del Estado, representará jurídicamente al titular del Ejecutivo del Estado, en cualquier juicio o asunto en que intervenga o deba intervenir con cualquier carácter, así como en las acciones y controversias constitucionales en las que el Estado sea parte. Estas facultades podrán ser delegadas.
 
-Sin perjuicio de lo anterior, el Gobernador podrá ser representado jurídicamente por los Secretarios de la Administración Pública del Estado en los términos que disponga la ley.
+Sin perjuicio de lo anterior, la Gobernadora o Gobernador podrá ser representado jurídicamente por las Secretarias o Secretarios de la Administración Pública del Estado en los términos que disponga la ley.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -1213,63 +1407,91 @@ Artículo 67
 
 El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, en Juzgados de Primera Instancia, Juzgados Especializados en Justicia para Adolescentes, Juzgados de Control, Tribunales de Enjuiciamiento, Juzgados de Ejecución de Penas y Medidas de Seguridad, Juzgados de Paz, y en los demás órganos auxiliares de la administración de justicia que señale su Ley Orgánica. Dicha ley fijará las atribuciones de los tribunales y juzgados, y establecerá los procedimientos a que deben sujetarse en la impartición de justicia.
 
-Los nombramientos de los magistrados y jueces integrantes del Poder Judicial del Estado serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-La independencia de los magistrados y jueces en el ejercicio de sus funciones será garantizada por esta Constitución y la ley orgánica respectiva, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado; éstos ejercerán las funciones jurisdiccionales y su ejecución con autonomía absoluta y con apego a los principios rectores de la carrera judicial, como lo son la excelencia, la objetividad, la imparcialidad, el profesionalismo y la independencia.
+Los nombramientos de las magistradas, magistrados, juezas y jueces integrantes del Poder Judicial del Estado serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+La independencia de las magistradas, magistrados, juezas y jueces en el ejercicio de sus funciones será garantizada por esta Constitución y la ley orgánica respectiva, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado; éstos ejercerán las funciones jurisdiccionales y su ejecución con autonomía absoluta y con apego a los principios rectores de la carrera judicial, como lo son la excelencia, la objetividad, la imparcialidad, el profesionalismo y la independencia.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Los (sic) magistradas, magistrados, juezas y jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
 Los recintos del Pleno del Supremo Tribunal, de sus salas y de los juzgados, son inviolables.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
 Artículo 68
 
-El Supremo Tribunal de Justicia estará integrado por el número de magistrados que fije la Ley Orgánica del Poder Judicial del Estado y funcionará en pleno o en sala colegiada.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+El Supremo Tribunal de Justicia estará integrado por el número de magistradas y magistrados que fije la Ley Orgánica del Poder Judicial del Estado y funcionará en pleno o en sala colegiada.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 El Supremo Tribunal, actuando en Pleno, tendrá a su cargo la representación jurídica del Poder Judicial. Esta representación podrá delegarla, indistintamente, en favor de su presidente, de algún servidor público del Poder Judicial o comisión de éstos, en los términos que señalen la Ley Orgánica y el Reglamento.
 
-La buena marcha del Poder Judicial corresponde al Magistrado Presidente, quien será designado por el Pleno para un periodo de dos años y podrá ser reelecto.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+La buena marcha del Poder Judicial corresponde a la Magistrada o Magistrado Presidente, quien será designado por el Pleno para un periodo de dos años y podrá ser reelecto.
 
 Artículo 69
 
-Para ser magistrado del Supremo Tribunal de Justicia se requiere:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Para ser magistrada o magistrado del Supremo Tribunal de Justicia se requiere:
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 II. Tener por lo menos treinta y cinco años de edad el día de la designación;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 III. Poseer al día de la designación, con antigüedad mínima de diez años, título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 V. Haber residido en el país durante los dos años anteriores al día de la designación.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 Artículo 70
 
-Los nombramientos de magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado y sometidos a la aprobación del Congreso, el cual otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si el Congreso no resuelve dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Congreso no podrán tomar posesión los magistrados nombrados.
+Los nombramientos de magistradas o magistrados del Supremo Tribunal de Justicia serán hechos por la Gobernadora o Gobernador del Estado y sometidos a la aprobación del Congreso, el cual otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si el Congreso no resuelve dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Congreso no podrán tomar posesión las magistradas o magistrados nombrados.
 
-En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento, que surtirá sus efectos desde luego como provisional, y que será sometido a la aprobación de la Cámara en el siguiente periodo ordinario de sesiones.
+En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, la Gobernadora o Gobernador hará un tercer nombramiento, que surtirá sus efectos desde luego como provisional, y que será sometido a la aprobación de la Cámara en el siguiente periodo ordinario de sesiones.
 
-En dicho periodo, dentro de los primeros ocho días, el Congreso deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso desecha el nombramiento, cesará desde luego en sus funciones el magistrado provisional, y el Gobernador del Estado someterá nuevo nombramiento a la aprobación de dicho cuerpo colegiado, en los términos señalados.
+En dicho período, dentro de los primeros ocho días, el Congreso deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, la magistrada o magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso desecha el nombramiento, cesará desde luego en sus funciones la magistrada o magistrado provisional, y la Gobernadora o Gobernador del Estado, someterá nuevo nombramiento a la aprobación de dicho cuerpo colegiado, en los términos señalados.
 
-Si falta un magistrado por defunción o por cualquier causa de separación definitiva, el Gobernador del Estado someterá un nuevo nombramiento a la aprobación del Congreso, quedando este nombramiento limitado al resto del correspondiente periodo a que se refiere el artículo 73 de esta Constitución. Si el Congreso no está en sesiones, la Comisión Permanente dará su aprobación provisional mientras se reúne aquél y da la aprobación definitiva.
+Si falta una magistrada o magistrado por defunción o por cualquier causa de separación definitiva, la Gobernadora o Gobernador del Estado someterá un nuevo nombramiento a la aprobación del Congreso, quedando este nombramiento limitado al resto del correspondiente periodo a que se refiere el artículo 73 de esta Constitución. Si el Congreso no está en sesiones, la Comisión Permanente dará su aprobación provisional mientras se reúne aquél y da la aprobación definitiva.
 
-Las faltas temporales de un magistrado que no excedan de tres meses se suplirán en la forma que determine la Ley Orgánica del Poder Judicial.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+Las faltas temporales de una magistrada o un magistrado que no excedan de tres meses se suplirán en la forma que determine la Ley Orgánica del Poder Judicial.
 
 Artículo 71
 
-Los jueces de Primera Instancia, los de Paz y los que con cualquiera otra denominación se creen en el Estado, serán nombrados y ratificados por el Supremo Tribunal de Justicia, observando las normas y requisitos que establece la Ley Orgánica respectiva.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-La administración de justicia en primera instancia estará a cargo de jueces. La ley determinará el número de éstos, su residencia, su competencia, sus atribuciones y la manera de cubrir sus faltas absolutas y temporales. Los Juzgados de Primera Instancia residirán en la cabecera de distrito o región que señale la Ley Orgánica.
+Las juezas o jueces de Primera Instancia, los de Paz y los que con cualquiera otra denominación se creen en el Estado, serán nombrados y ratificados por el Supremo Tribunal de Justicia, observando que su integración sea de forma paritaria, así como las normas y requisitos que establece la Ley Orgánica respectiva.
 
-En materia penal, la primera instancia corresponde, además, a los jueces de Control, Tribunales de Enjuiciamiento y Juzgados de Ejecución de Penas y Medidas de Seguridad.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+La administración de justicia en primera instancia estará a cargo de juezas o jueces. La ley determinará el número de éstos, su residencia, su competencia, sus atribuciones y la manera de cubrir sus faltas absolutas y temporales. Los Juzgados de Primera Instancia residirán en la cabecera de distrito o región que señale la Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+En materia penal, la primera instancia corresponde, además, a las juezas o jueces de Control, Tribunales de Enjuiciamiento y Juzgados de Ejecución de Penas y Medidas de Seguridad.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+En los nombramientos que se realicen para ocupar la titularidad de los Juzgados de Primera Instancia señalados en los párrafos anteriores, se observará el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -1277,15 +1499,17 @@ Artículo 72
 
 El Poder Judicial del Estado contará con un Centro de Justicia Alternativa y Resolución de Conflictos, el cual actuará bajo los principios de equidad, imparcialidad, celeridad, profesionalismo, confidencialidad y gratuidad, de conformidad con lo que establezca la ley.
 
-El director general del Centro será nombrado por el Pleno del Supremo Tribunal de Justicia del Estado a propuesta de su presidente; los demás servidores públicos del Centro se nombrarán entre aquellos que aprueben satisfactoriamente el curso de formación para mediadores, conciliadores o árbitros, mediante un proceso riguroso de oposición. Las bases, los requisitos y procedimientos serán establecidos por el Pleno del Supremo Tribunal.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+La directora o director general del Centro será nombrado por el Pleno del Supremo Tribunal de Justicia del Estado a propuesta de su presidenta o presidente; los demás servidores públicos del Centro se nombrarán entre aquellos que aprueben satisfactoriamente el curso de formación para mediadores, conciliadores o árbitros, mediante un proceso riguroso de oposición, observando el principio de paridad de género, las bases, los requisitos y procedimientos que serán establecidos por el Pleno del Supremo Tribunal.
 
 Tratándose de la materia penal, los mecanismos alternativos de solución de conflictos se regirán por las bases y lineamientos que establece la Constitución Federal y demás legislación aplicable.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 Artículo 73
 
-Los magistrados y los jueces durarán seis años en el ejercicio de su encargo, que se contarán desde el día primero de noviembre en que se inicia el periodo constitucional del Ejecutivo; podrán ser reelectos, y si lo son, sólo podrán ser privados de sus puestos en los términos de esta Constitución y la Ley General de Responsabilidades Administrativas. Si por cualquier motivo no se hace la elección de magistrados o jueces, o los designados no se presentan al desempeño de sus cargos, continuarán ejerciendo las funciones judiciales quienes se encuentren desempeñándolas, hasta que tomen posesión los que se nombren.
+Las magistradas, magistrados, juezas y jueces durarán seis años en el ejercicio de su encargo, que se contarán desde el día primero de noviembre en que se inicia el periodo constitucional del Ejecutivo; podrán ser reelectos, y si lo son, sólo podrán ser privados de sus puestos en los términos de esta Constitución y la Ley General de Responsabilidades Administrativas. Si por cualquier motivo no se hace la elección de magistradas, magistrados, juezas y jueces, o los designados no se presentan al desempeño de sus cargos, continuarán ejerciendo las funciones judiciales quienes se encuentren desempeñándolas, hasta que tomen posesión los que se nombren.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -1333,11 +1557,11 @@ XI. Salvaguardar, aún con el uso de la fuerza pública, la inviolabilidad de lo
 
 XII. Conocer de todas las controversias jurisdiccionales entre trabajadores y patrones, derivados de las relaciones de trabajo o de hechos relacionados con ellas.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 Artículo 75
 
-Los magistrados rendirán su protesta ante el Congreso del Estado en sesión pública extraordinaria que para tal efecto se convoque. Los jueces lo harán ante el Supremo Tribunal de Justicia.
+Las magistradas o magistrados rendirán su protesta ante el Congreso del Estado en sesión pública extraordinaria que para tal efecto se convoque. Las juezas y jueces lo harán ante el Supremo Tribunal de Justicia.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -1379,7 +1603,9 @@ A. El Tribunal Electoral del Estado será la máxima autoridad jurisdiccional el
 
 Se organizará en los términos que señale la ley; los mecanismos de vigilancia y disciplina se establecerán en la ley electoral. Regirá sus relaciones de trabajo conforme a las leyes aplicables, en las que se establecerá que los derechos de sus trabajadores no podrán ser menores a los preceptuados por el artículo 123, Apartado B, de la Constitución Federal.
 
-B. Los magistrados del Tribunal Electoral serán elegidos por la Cámara de Senadores, de conformidad con lo previsto en la Constitución Federal, esta Constitución y la ley de la materia; responderán sólo al mandato de la ley y deberán acreditar los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+B. Las Magistradas y Magistrados del Tribunal Electoral serán elegidos por la Cámara de Senadores, de conformidad con lo previsto en la Constitución Federal, esta Constitución y la ley de la materia; responderán sólo al mandato de la ley y deberán acreditar los siguientes requisitos:
 
 I. Ser mexicano y vecino de la Entidad, con una residencia efectiva acreditada de por lo menos cinco años anteriores a su elección;
 
@@ -1473,17 +1699,25 @@ Artículo 82
 
 Al mando de la Fiscalía General del Estado estará un Fiscal General que durará en su encargo seis años, podrá ser reelegido y será designado conforme a lo siguiente:
 
-I. El Gobernador del Estado propondrá al Congreso del Estado a la persona que considere idónea para ocupar el cargo de Fiscal General, quien deberá cumplir con los requisitos señalados en el siguiente artículo;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+
+I. La Gobernadora o Gobernador del Estado propondrá al Congreso del Estado a la persona que considere idónea para ocupar el cargo de Fiscal General, quien deberá cumplir con los requisitos señalados en el siguiente artículo; y
 
 II. El Congreso, previa comparecencia de la persona propuesta, designará al Fiscal General con el voto de las dos terceras partes de sus miembros presentes, dentro del plazo de diez días hábiles.
 
-Si el Congreso no resuelve dentro del plazo indicado, se tendrá por aprobada la propuesta de Fiscal General presentada por el Gobernador.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-El Fiscal General podrá ser removido por el Gobernador por las causas previstas en esta Constitución. La remoción podrá ser objetada por el voto de las dos terceras partes de los miembros presentes del Congreso dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
+Si el Congreso no resuelve dentro del plazo indicado, se tendrá por aprobada la propuesta de Fiscal General presentada por la Gobernadora o Gobernador.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+El Fiscal General podrá ser removido por la Gobernadora o Gobernador por las causas previstas en esta Constitución. La remoción podrá ser objetada por el voto de las dos terceras partes de los miembros presentes del Congreso dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
 
 En los recesos del Congreso, la Comisión Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General. En este caso, los plazos de diez días hábiles previstos en la fracción II y el párrafo anterior, se computarán a partir de la convocatoria a sesiones extraordinarias.
 
-El nombramiento y remoción de los demás servidores públicos de la Fiscalía General se realizará en los términos de su propia ley orgánica.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+El nombramiento y remoción de los demás servidores públicos de la Fiscalía General se realizará en los términos de su propia ley orgánica, atendiendo el principio de paridad de género.
 
 Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
 
@@ -1509,23 +1743,37 @@ VI. Tener perfil idóneo para el cargo en razón de sus antecedentes laborales y
 
 Durante el ejercicio de su cargo, el Fiscal General no podrá desempeñar actividades profesionales que impliquen el ejercicio libre de su profesión o el notariado.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
 Artículo 84
 
-El Fiscal General del Estado podrá ser removido por el Gobernador por cualquiera de las siguientes causas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+El Fiscal General del Estado podrá ser removido por la Gobernadora o Gobernador por cualquiera de las siguientes causas:
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 I. Incapacidad total o permanente sobrevenida que le impida el correcto ejercicio de su cargo, por más de treinta días;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 II. Incumplimiento, durante su desempeño, de alguno de los requisitos establecidos para su designación, previstos en el artículo 83 de esta Constitución;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 III. No aprobación de los exámenes y evaluaciones de control de confianza a cargo de las instituciones de seguridad pública competentes en términos de las leyes de la materia;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 IV. Abuso o ejercicio indebido del cargo; y
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 V. Realización de actos u omisiones que ocasionen la suspensión o deficiencia del servicio público o el incumplimiento de las disposiciones jurídicas relacionadas con sus funciones.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 El acuerdo de remoción será notificado al Congreso del Estado a más tardar al día siguiente de su emisión, para efectos de lo dispuesto por el artículo 82 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 Lo señalado en las fracciones anteriores se aplicará sin perjuicio de lo establecido en el Título Cuarto de la Constitución Federal y en el Título Undécimo de esta Constitución, en materia de responsabilidades de los servidores públicos.
 
@@ -1657,13 +1905,17 @@ De igual manera, la ley establecerá el procedimiento para la liquidación de la
 
 #### SECCIÓN III. DE LOS CANDIDATOS INDEPENDIENTES
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
-
 Artículo 88
 
-Los ciudadanos colimenses podrán contender en los procesos electorales para todos los cargos de elección popular, de manera independiente de los partidos políticos, siempre que satisfagan los requisitos, condiciones y términos que establezca la ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Los ciudadanos colimenses podrán contender en los procesos electorales para todos los cargos de elección popular, de manera independiente de los partidos políticos, siempre que satisfagan los requisitos, condiciones y términos que establezca la ley. En el caso de las candidaturas independientes a los ayuntamientos, se atenderá el principio de la paridad de género, en los términos que disponga la ley.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 Los ciudadanos que participen como candidatos independientes tendrán derecho a recibir financiamiento público y privado en la forma y términos que establezca la ley.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 La ley establecerá las reglas y límites a que se sujetará el financiamiento de las actividades de los ciudadanos que obtengan registro como candidatos independientes dentro de un proceso electoral, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado; asimismo, regulará los procedimientos para el control y vigilancia de todos los recursos con los que cuenten, incluyendo los recursos privados que se hayan utilizado para financiar las actividades tendientes a obtener dicho registro.
 
@@ -1723,11 +1975,15 @@ Artículo 90
 
 El Estado de Colima adopta para su régimen interior la forma de gobierno republicano, representativo y popular, y tiene al Municipio Libre como base de su división territorial y de su organización política y administrativa, conforme a las siguientes bases:
 
-I. Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal, un Síndico y regidores propietarios y suplentes, en los términos de esta Constitución, electos de conformidad con la ley electoral.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+I. Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una Presidenta o Presidente Municipal, una Síndica o Síndico y Regidoras y Regidores propietarios y suplentes, en los términos de esta Constitución, electos de conformidad con la ley electoral.
 
 La competencia que la Constitución Federal y esta Constitución otorgan al gobierno municipal, será ejercida exclusivamente por el Ayuntamiento y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
 
-Los presidentes municipales, síndicos y regidores de los ayuntamientos de elección popular directa durarán tres años en su cargo y tendrán derecho a ser electos consecutivamente para el mismo cargo por un periodo adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hayan postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser electas en el mismo cargo para el periodo inmediato.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Las presidentas y presidentes municipales, las síndicas y los síndicos, así como las regidoras y los regidores de los ayuntamientos de elección popular directa durarán tres años en su cargo y tendrán derecho a ser electos consecutivamente para el mismo cargo por un periodo adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hayan postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser electas en el mismo cargo para el período inmediato.
 
 En caso de que no se realicen las elecciones municipales o éstas se declaren nulas, el Congreso designará un Concejo Municipal que estará en funciones hasta que tomen posesión los integrantes del Ayuntamiento que hayan sido electos en los comicios extraordinarios.
 
@@ -1871,7 +2127,9 @@ El Ayuntamiento es depositario de la función pública municipal y constituye la
 
 Los ayuntamientos deberán instalarse en todo el Estado el día 15 de octubre del año de su elección.
 
-Los ayuntamientos crearán las dependencias y entidades de la administración pública municipal necesarias para cumplir con las atribuciones de su competencia.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+Los ayuntamientos crearán las dependencias y entidades de la administración pública municipal necesarias para cumplir con las atribuciones de su competencia, observando en su integración el principio de paridad de género.
 
 Las comisarías, juntas, delegaciones, en su caso, serán autoridades auxiliares municipales. Sus integrantes serán electos mediante el voto universal, libre, secreto y directo de los ciudadanos residentes en la localidad, de conformidad con las bases y procedimientos que aprueben para tal efecto cada uno de los ayuntamientos, asegurando y garantizando la participación ciudadana y vecinal. Las autoridades auxiliares municipales durarán en su encargo tres años y su elección será en los primeros sesenta días después de la toma de posesión del Ayuntamiento respectivo.
 
@@ -1881,7 +2139,9 @@ Artículo 92
 
 Los ayuntamientos se integrarán de acuerdo con las normas que establezca la ley de la materia, observando las bases siguientes:
 
-I. Además del Presidente Municipal y un Síndico, los ayuntamientos contarán con el siguiente número de regidores:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2019)</small>
+
+I. Además de la Presidenta o Presidente Municipal y una Síndica o Síndico, los ayuntamientos contarán con el siguiente número de regidoras o regidores:
 
 a) En municipios con población hasta veinticinco mil habitantes, cuatro de mayoría relativa y cuatro de representación proporcional;
 
@@ -1889,9 +2149,11 @@ b) En municipios con población entre veinticinco mil uno y cincuenta mil habita
 
 c) En municipios con población entre cincuenta mil uno y cien mil habitantes, cinco de mayoría relativa y cinco de representación proporcional; y
 
-e) (sic) En municipios con población superior a cien mil habitantes, seis de mayoría relativa y cinco de representación proporcional.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
-La determinación del número de regidores que corresponda a cada Municipio se hará de conformidad con el último Censo General de Población.
+d) En municipios con población superior a cien mil habitantes, seis de mayoría relativa y cinco de representación proporcional.
+
+La determinación del número de regidoras o regidores que corresponda a cada Municipio se hará de conformidad con el último Censo General de Población.
 
 II. Todo partido político, coalición o planilla de candidatos independientes, que alcance por lo menos el tres por ciento de la votación emitida en el Municipio respectivo, tendrá derecho a participar en la asignación de regidores de representación proporcional, a excepción del partido, coalición o planilla de candidatos independientes que haya obtenido el triunfo por mayoría relativa.
 
@@ -3496,6 +3758,20 @@ P.O. 18 DE MAYO DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El Congreso del Estado deberá adecuar la legislación secundaria a más tardar dentro de los siguientes 120 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 3 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM.113 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Congreso del Estado de Colima, deberá en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de observar el principio de paridad de género establecido en esta Constitución.
+
+Con respecto a los derechos de la naturaleza en términos de lo dispuesto en el presente Decreto, el Congreso del Estado de Colima deberá realizar las adecuaciones correspondientes a la legislación local en un plazo no mayor a 120 días hábiles contados a partir de la entrada en vigor del mismo.
+
+TERCERO.- La observancia del principio de paridad de género a que se refiere el artículo 1° de esta Constitución, será aplicable a quienes tomen posesión de su encargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente Decreto, según corresponda.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
 ###### ARTÍCULO ÚNICO.
 
