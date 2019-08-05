@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-pensiones-y-prestaciones-sociales-para-los-21479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-21"
-last_updated: "2019-07-13"
+last_updated: "2019-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 21 de mayo de 2001.
 
@@ -43,11 +43,13 @@ LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL E
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 1°.
 
-La presente Ley es de orden público e interés general; tiene por objeto regular las pensiones, jubilaciones, servicios y demás prestaciones de los servidores públicos al servicio de la administración pública estatal, y municipal, en su caso, que contribuyan con aportaciones a la Dirección de Pensiones del Estado y que formen parte de cualquiera de los sectores cotizantes; así como las particularidades en cuanto a derechos y obligaciones de las pensiones que otorguen los sectores cotizantes y que se encuentran contenidos en esta Ley.
+La presente Ley es de orden público e interés general; tiene por objeto regular las pensiones, jubilaciones, servicios y demás prestaciones de los servidores públicos al servicio de las instituciones de la administración pública estatal, y municipal, en su caso, que contribuyan con aportaciones a la Dirección de Pensiones y que formen parte de cualquiera de los sectores cotizantes; así como las particularidades en cuanto a derechos y obligaciones de las pensiones que otorguen los sectores cotizantes y que se encuentran contenidos en esta Ley.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 Los servidores públicos de elección popular no quedan comprendidos en la presente Ley.
 
@@ -101,9 +103,11 @@ XVI. TRABAJADOR DEL SECTOR TELESECUNDARIA, SINDICALlZADO. Servidor público del 
 
 XVII. TRABAJADOR DEL SEER, SINDICALlZADO: Servidor Público adscrito al Sistema Educativo Estatal Regular, sindicalizado.
 
-###### ARTICULO 3º.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
 
-La presente Ley será aplicable a funcionarios y empleados dependientes de la administración pública estatal, o municipal en su caso, cuando expresamente manifiesten aportar a un fondo las cuotas establecidas por esta Ley y por el reglamento respectivo.
+###### ARTICULO 3°.
+
+La presente Ley será aplicable a funcionarios y empleados dependientes de las instituciones de la administración pública estatal, o municipal en su caso, cuando expresamente manifiesten aportar a un fondo las cuotas establecidas por esta Ley y por el reglamento respectivo.
 
 ###### ARTICULO 4º.
 
@@ -133,13 +137,17 @@ X. Las demás que conceda esta Ley.
 
 La administración y el otorgamiento de las prestaciones y servicios que esta Ley y los reglamentos respectivos establezcan, estarán a cargo de la Dirección de Pensiones como organismo público descentralizado, de la administración pública estatal, cuyo gobierno, organización y funcionamiento dependerán de la Junta Directiva, que resolverá mediante acuerdos tomados en sesiones, que ejecutará un Director General.
 
-###### ARTICULO 6º.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
 
-Las oficinas administrativas de la administración pública estatal, o municipal en su caso, enviarán al Director General de Pensiones, en el mes de enero de cada año, una relación del personal sujeto a los descuentos para el sostenimiento de los fondos de pensiones; asimismo, comunicarán los movimientos de altas y bajas correspondientes.
+###### ARTICULO 6°.
 
-###### ARTICULO 7º.
+Los encargados de las oficinas administrativas de la administración pública estatal, o municipal en su caso, enviarán al Director General de Pensiones, en el mes de enero de cada año, una relación del personal sujeto a los descuentos para el sostenimiento de los fondos de pensiones; asimismo, comunicarán los movimientos de altas y bajas correspondientes.
 
-Los pagadores y en general todos los encargados de cubrir sueldos al personal sujeto a esta Ley, están obligados a efectuar los descuentos que la Dirección de Pensiones les solicite por adeudos de los trabajadores, siendo responsables en caso de no hacerlo, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2019)</small>
+
+###### ARTICULO 7°.
+
+Los pagadores y en general todos los encargados de cubrir sueldos al personal sujeto a esta Ley, están obligados a efectuar los descuentos que la Dirección de Pensiones les solicite por adeudos de los trabajadores, siendo responsables en caso de no hacerlo, en términos de la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
 
 También tendrán la obligación de remitir a la propia Dirección las nóminas y recibos en que figuren los descuentos, dentro de los cinco días siguientes a la quincena en que deba hacerse, y a expedir los certificados o informes que se les soliciten. De no efectuarlos, la Dirección de Pensiones podrá amonestarlos para que den cumplimiento en el término de veinticuatro horas, en caso de no hacerlo o si se tratará de una conducta reincidente, se podrá sancionar a la oficina responsable con una multa hasta por el 5 porciento del importe de las cantidades dejadas de descontar, multa que hará efectiva la Secretaría de Finanzas del Estado, independientemente de la responsabilidad a que la persona que haya incurrido en la omisión se haya hecho acreedora.
 
@@ -171,13 +179,17 @@ II. Con la misma cantidad o porcentaje, con cargo al Gobierno del Estado.
 
 Adicionalmente el Gobierno Estatal aportará el cinco porciento del total del sueldo base del trabajador, para uso exclusivo del otorgamiento de créditos hipotecarios, y
 
-III. Las pensiones y jubilaciones de los trabajadores de la Dirección de Pensiones del Estado, se harán con cargo a un fondo especial para jubilación y retiro de ese organismo descentralizado. El Gobierno del Estado cubrirá a ese fondo la aportación patronal que se hubiere dejado de cotizar antes de la vigencia de esta Ley, a valor actualizado; de igual forma se hará con los porcentajes de descuento del trabajador que fueron retenidos en su momento por la Dirección de Pensiones.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2019)</small>
+
+III. Las pensiones y jubilaciones de los trabajadores de la Dirección de Pensiones, se harán con cargo a un fondo especial para jubilación y retiro de ese organismo descentralizado. El Gobierno del Estado cubrirá a ese fondo la aportación patronal que se hubiere dejado de cotizar antes de la vigencia de esta Ley, a valor actualizado; de igual forma se hará con los porcentajes de descuento del trabajador que fueron retenidos en su momento por la Dirección de Pensiones.
 
 El mecanismo para esta situación administrativa deberá ser resuelto en su momento por la Junta Directiva, de acuerdo a la reglamentación correspondiente.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 13.
 
-El Periódico Oficial del Estado realizará las publicaciones que para el cumplimiento de los preceptos de esta Ley, de sus reglamentos interiores y de los acuerdos de la Junta Directiva, le envíe la Dirección de Pensiones.
+El Periódico Oficial del Gobierno (sic) Estado “Plan de San Luis” realizará las publicaciones que para el cumplimiento de los preceptos de esta Ley, de sus reglamentos interiores y de los acuerdos de la Junta Directiva, le envíe la Dirección de Pensiones.
 
 ###### ARTICULO 14.
 
@@ -187,9 +199,11 @@ Las controversias que surjan en relación con la aplicación de la presente Ley,
 
 ### CAPITULO I. DEL FONDO DE CONTIGENCIA (SIC), Y DE CADA UNO DE LOS GRUPOS COTIZADORES
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 15.
 
-El patrimonio de la Dirección de Pensiones se integrará con las aportaciones ordinarias y extraordinarias de los derechohabientes, y las que deberán entregar cuando menos en la misma proporción la administración pública estatal o, municipal en su caso; con las reservas constituidas para los grupos cotizadores y sus intereses; así como con los bienes muebles e inmuebles; y cualquier otra percepción de carácter civil, mercantil o administrativa en que la Dirección de Pensiones resulte beneficiada.
+El patrimonio de la Dirección de Pensiones se integrará con las aportaciones ordinarias y extraordinarias de los derechohabientes, y las que deberán entregar cuando menos en la misma proporción las instituciones de la administración pública estatal o, municipal en su caso; con las reservas constituidas para los grupos cotizadores y sus intereses; así como con los bienes muebles e inmuebles; y cualquier otra percepción de carácter civil, mercantil o administrativa en que la Dirección de Pensiones resulte beneficiada.
 
 ###### ARTICULO 16.
 
@@ -239,23 +253,27 @@ II. La política de administración al fondo sectorizado correspondiente, y
 
 III. Los procedimientos, límites, condiciones, plazos, intereses y demás lineamientos a que lo faculte la presente Ley.
 
-Dicho instrumento será propuesto por el grupo cotizador, por conducto de la Junta Directiva quien lo analizará, y en caso de encontrar que es procedente, lo remitirá al Gobernador del Estado para su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
+Dicho instrumento será propuesto por el grupo cotizador, por conducto de la Junta Directiva quien lo analizará, y en caso de encontrar que es procedente, lo remitirá al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno (sic) Estado “Plan de San Luis.”
 
 ###### ARTICULO 20.
 
 Cada grupo cotizador propondrá a la Junta Directiva de la Dirección de Pensiones, las medidas y/o incrementos que se intenten llevar a cabo para el fortalecimiento de su fondo sectorizado, de conformidad con las disposiciones establecidas en este ordenamiento y en el reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 21.
 
-Cada vez que un grupo cotizador incremente sus aportaciones para el fortalecimiento de su fondo, la administración pública estatal o, municipal en su caso, llevará a cabo el mismo incremento de acuerdo al porcentaje que les corresponda aplicar.
+Cada vez que un grupo cotizador incremente sus aportaciones para el fortalecimiento de su fondo, las instituciones de la administración pública estatal o, municipal, en su caso, llevarán a cabo el mismo incremento de acuerdo al porcentaje que les corresponda aplicar.
 
 ### CAPITULO II. DE LOS DESCUENTOS Y APORTACIONES
 
-> <small>(REFORMADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 22.
 
-El descuento a los trabajadores para el fortalecimiento de cada fondo podrá ser hasta el catorce por ciento del sueldo, sin tomar en consideración su edad; por lo que se refiere a las prestaciones que comprende los diversos conceptos a cotizar, quedarán reguladas en el reglamento de cada uno de los grupos cotizadores. Los trabajadores que desempeñen dos o más empleos en la administración pública estatal, o municipal, en su caso, cubrirán el descuento establecido en este artículo sobre el total de los sueldos efectivamente percibidos.
+El descuento a los trabajadores para el fortalecimiento de cada fondo podrá ser hasta el catorce por ciento del sueldo, sin tomar en consideración su edad; por lo que se refiere a las prestaciones que comprende (sic) los diversos conceptos a cotizar, quedarán reguladas en el reglamento de cada uno de los grupos cotizadores. Los trabajadores que desempeñen dos o más empleos en las instituciones de la administración pública estatal, o municipal, en su caso, cubrirán el descuento establecido en este artículo sobre el total de los sueldos efectivamente percibidos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, PO. 13 DE OCTUBRE DE 2011)</small>
 
@@ -265,17 +283,23 @@ Las aportaciones para cada fondo con que deben contribuir las instituciones de l
 
 Adicionalmente, y para ser utilizado en forma exclusiva en el otorgamiento de créditos hipotecarios a los servidores públicos al servicio del Gobierno del Estado, éste aportará un 5 porciento del total del sueldo base que perciba su personal.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 24.
 
-Los tesoreros o pagadores de las entidades a que se refiere el artículo anterior, entregarán quincenalmente los porcentajes de los artículos 22 y 23 a la Dirección de Pensiones sobre los sueldos de los trabajadores comprendidos en esta Ley, correspondiente al descuento obligatorio destinado al fondo de pensión, así como el importe de los descuentos que la Dirección les ordene se hagan a los trabajadores por otros adeudos en la propia Dirección.
+Los tesoreros o pagadores de las instituciones a que se refiere el artículo anterior, entregarán quincenalmente los porcentajes de los artículos 22 y 23 a la Dirección de Pensiones, sobre los sueldos de los trabajadores comprendidos en esta Ley, correspondiente al descuento obligatorio destinado al fondo de pensión, así como el importe de los descuentos que la Dirección de Pensiones les ordene se hagan a los trabajadores por otros adeudos en la propia Dirección de Pensiones.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 25.
 
-Cuando por cualquier motivo no se hubieren hecho a los trabajadores los descuentos procedentes conforme a esta Ley, la Dirección acordará, a petición de los mismos realizarlos, los cuales podrán ser hasta de un 50 porciento de los sueldos mientras el adeudo no esté totalmente cubierto.
+Cuando por cualquier motivo no se hubieren hecho a los trabajadores los descuentos procedentes conforme a esta Ley, la Dirección de Pensiones acordará, a petición de los mismos realizarlos, los cuales podrán ser hasta de un cincuenta por ciento de los sueldos mientras el adeudo no esté totalmente cubierto.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 26.
 
-Los trabajadores que ingresen al servicio cumpliendo los requisitos establecidos por sus dependencias respectivas, quedarán sujetos a los descuentos para los fondos y tendrán derecho a recibir todos los beneficios que esta Ley y el reglamento respectivo conceden.
+Los trabajadores que ingresen al servicio cumpliendo los requisitos establecidos por la institución respectiva, quedarán sujetos a los descuentos para los fondos, y tendrán derecho a recibir todos los beneficios que esta Ley y el reglamento correspondiente conceden.
 
 ###### ARTICULO 27.
 
@@ -303,11 +327,11 @@ Todo acto, contrato o documento que implique obligación o derecho inmediato o e
 
 La Dirección de Pensiones dará a conocer con toda oportunidad a los grupos cotizadores, los estados mensuales de sus operaciones y sus estados financieros anuales, autorizados por la Junta Directiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 33.
 
-Las cuentas de los fondos quedarán sujetas a la revisión y fiscalización de la Contraloría General del Estado, y del Congreso del Estado, a través de la Auditoría Superior del Estado, pudiendo ser auditados cuando éstas lo estimen pertinente. La Dirección General de Pensiones remitirá a la Contraloría, y al Congreso del Estado, dentro de los tres primeros meses de cada año, un informe general sobre su situación contable.
+Las cuentas de los fondos quedarán sujetas a la revisión y fiscalización de la Contraloría General del Estado, y del Congreso del Estado, a través de la Auditoría Superior del Estado, pudiendo ser auditados cuando éstas lo estimen pertinente. La Dirección de Pensiones remitirá a la Contraloría, y al Congreso del Estado, dentro de los tres primeros meses de cada año, un informe general sobre su situación contable.
 
 Cada grupo cotizador cuando lo estime necesario, podrá llevar a cabo la auditoría de su fondo la cual se hará con cargo al grupo solicitante.
 
@@ -415,11 +439,13 @@ La Junta Directiva y el órgano de gobierno de los fideicomisos constituidos, qu
 
 Los créditos hipotecarios serán debidamente justificados por los grupos cotizadores ante la Junta Directiva, quien elaborará las tablas para determinar las cantidades máximas que puedan ser prestadas a cada servidor público, según su sueldo en los términos de la presente Ley y de los reglamentos respectivos.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 46.
 
-El préstamo hipotecario no excederá del ochenta porciento del valor comercial fijado por la Dirección al inmueble, a menos que el interesado proporcione otras garantías adicionales bastantes para garantizar el excedente.
+El préstamo hipotecario no excederá del ochenta por ciento del valor comercial fijado por la Dirección de Pensiones al inmueble, a menos que el interesado proporcione otras garantías adicionales bastantes para garantizar el excedente.
 
-Cuando el trabajador no estuviere de acuerdo con el avalúo practicado por la Dirección podrá designar por su cuenta un perito que practique uno nuevo, y en caso de discrepar los peritajes, se podrá nombrar un tercero por ambas partes cuyos honorarios se cubrirán por partes iguales. La Junta Directiva resolverá en definitiva.
+Cuando el trabajador no estuviere de acuerdo con el avalúo practicado por la Dirección de Pensiones, podrá designar por su cuenta un perito que practique uno nuevo; y en caso de discrepar los peritajes, se podrá nombrar un tercero por ambas partes, cuyos honorarios se cubrirán por partes iguales. La Junta Directiva resolverá en definitiva.
 
 ###### ARTICULO 47.
 
@@ -441,7 +467,9 @@ Cada grupo cotizador de la Dirección de Pensiones, con la expresa aprobación d
 
 I. Adquisición o urbanización de terrenos destinados a formar colonias para los contribuyentes a los fondos;
 
-II. Compra de bonos hipotecarios destinados a financiar la adquisición, construcción, acondicionamiento, conservación, arrendamiento y explotación de inmuebles destinados a solucionar el problema de la habitación para los trabajadores sujetos a esta Ley. La Dirección podrá actuar como administradora en operaciones con fines análogos a los enumerados en esta fracción;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2019)</small>
+
+II. Compra de bonos hipotecarios destinados a financiar la adquisición, construcción, acondicionamiento, conservación, arrendamiento y explotación de inmuebles destinados a solucionar el problema de la habitación para los trabajadores sujetos a esta Ley. La Dirección de Pensiones podrá actuar como administradora en operaciones con fines análogos a los enumerados en esta fracción;
 
 III. Adquisición de acciones, obligaciones y valores de compañías que no sean mineras, petroleras o que funden sus utilidades en circunstancias imprevistas o de azar;
 
@@ -481,13 +509,17 @@ Cuando un trabajador a quien se haya otorgado una pensión siga en servicio sin 
 
 Cuando un pensionista reingrese al servicio activo no podrá renunciar a la pensión que le hubiere sido concedida, para solicitar y obtener otra nueva, salvo el caso de inhabilitados que quedaren aptos para el servicio. Tales trabajadores y pensionistas que sigan prestando servicios al Estado, quedarán sujetos a los descuentos para el fondo de pensiones si desean disfrutar de los demás beneficios que esta Ley establece, incluso la devolución de los nuevos descuentos que se les hagan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 54.
 
-La percepción de una pensión otorgada según esta Ley, es incompatible con la percepción de cualquier otra pensión concedida por la administración pública estatal, y municipal en su caso, y con el desempeño de cualquier cargo, empleo o comisión remunerados en la misma. En caso de contravención quedará en suspenso la pensión mientras el beneficiario se encuentre percibiendo alguna otra o desempeñando algún empleo, cargo o comisión del carácter antes expresado, a reserva de gozar nuevamente de la pensión al desaparecer la incompatibilidad.
+La percepción de una pensión otorgada según esta Ley, es incompatible con la percepción de cualquier otra pensión concedida por las instituciones de la administración pública estatal, y municipal en su caso, y con el desempeño de cualquier cargo, empleo o comisión remunerados en la misma. En caso de contravención quedará en suspenso la pensión mientras el beneficiario se encuentre percibiendo alguna otra o desempeñando algún empleo, cargo o comisión del carácter antes expresado, a reserva de gozar nuevamente de la pensión al desaparecer la incompatibilidad.
 
 El infractor estará obligado a reintegrar las cantidades percibidas indebidamente, en el plazo más corto, que le será fijado por la Junta Directiva pero nunca será menor al tiempo en que las hubiere recibido.
 
-Desaparecida la incompatibilidad y reintegradas las cantidades indebidamente recibidas, el pensionista puede volver a disfrutar de la pensión otorgada. Si no hiciere el reintegro en los términos de este artículo perderá todo derecho sobre la pensión. Los pensionistas quedan obligados a dar aviso inmediato a la Dirección cuando acepten cualquiera de los empleos, cargos o comisiones a que se ha hecho referencia; igualmente quedan obligados a dar aviso en caso de aceptar alguna otra pensión. Si no lo hicieren, la Dirección puede ordenar la cancelación de la pensión otorgada si así lo acuerda la Junta Directiva.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
+Desaparecida la incompatibilidad y reintegradas las cantidades indebidamente recibidas, el pensionista puede volver a disfrutar de la pensión otorgada. Si no hiciere el reintegro en los términos de este artículo perderá todo derecho sobre la pensión. Los pensionistas quedan obligados a dar aviso inmediato a la Dirección de Pensiones cuando acepten cualquiera de los empleos, cargos o comisiones a que se ha hecho referencia; igualmente quedan obligados a dar aviso en caso de aceptar alguna otra pensión. Si no lo hicieren, la Dirección de Pensiones puede ordenar la cancelación de la pensión otorgada si así lo acuerda la Junta Directiva.
 
 ###### ARTICULO 55.
 
@@ -541,9 +573,11 @@ Los trabajadores que sean declarados inválidos por causas ajenas a su cargo o e
 
 Para los efectos de la fracción III del artículo anterior, la declaración de invalidez de un trabajador será hecha por peritos médicos designados por las instituciones de seguridad social correspondientes y validados por la Junta Directiva; se considerará inválido al derechohabiente que por enfermedad o accidente no profesionales, por agotamiento de las fuerzas físicas o mentales, o por defectos físicos o mentales, padezca una afección o se encuentre en un estado que se pueda estimar de naturaleza permanente, por el cual se halle imposibilitado para procurarse mediante un trabajo proporcionado a sus fuerzas, a sus capacidades, a su formación profesional u ocupación anterior, una remuneración superior al cincuenta porciento de la remuneración habitual que en la misma región perciba un trabajador sano del mismo sexo, semejante capacidad, igual categoría y formación profesional análoga.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 63.
 
-La pensión por invalidez se suspenderá cuando desaparezca el motivo que le dio origen. La Dirección queda facultada para mandar practicar los reconocimientos necesarios a los pensionistas cada vez que lo juzgue necesario; pero por regla general se llevarán a cabo cada seis meses. Cesará también la pensión cuando el pensionista vuelva a desempeñar cargo o empleo en las instituciones de la administración pública estatal, o municipal en su caso, o cualquier otra, siempre que se demuestre haber cesado la invalidez.
+La pensión por invalidez se suspenderá cuando desaparezca el motivo que le dio origen. La Dirección de Pensiones queda facultada para mandar practicar los reconocimientos necesarios a los pensionistas cada vez que lo juzgue necesario; pero por regla general se llevarán a cabo cada seis meses. Cesará también la pensión cuando el pensionista vuelva a desempeñar cargo o empleo en las instituciones de la administración pública estatal, o municipal en su caso, o cualquier otra, siempre que se demuestre haber cesado la invalidez.
 
 ###### ARTICULO 64.
 
@@ -561,9 +595,11 @@ Cuando un pensionista por incapacidad física o mental recupere sus facultades, 
 
 En la concesión de pensiones por incapacidad física o mental transitoria no será necesario que el trabajador cause baja en el servicio, pues podrá otorgarse aunque esté disfrutando de la licencia temporal correspondiente.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 68.
 
-Se establece un seguro de salud para la familia proporcionado por una institución de seguridad social en favor de los jubilados y pensionados por la Dirección de Pensiones del Estado, a fin de que reciban la asistencia médica, quirúrgica, farmacéutica y hospitalaria que sea necesaria en caso de enfermedad, derecho que se hace extensivo a la esposa o concubina de cada derechohabiente. Para tal efecto, la administración pública estatal, o municipal en su caso, cubrirán las cuotas correspondientes.
+Se establece un seguro de salud para la familia proporcionado por una institución de seguridad social en favor de los jubilados y pensionados por la Dirección de Pensiones, a fin de que reciban la asistencia médica, quirúrgica, farmacéutica y hospitalaria que sea necesaria en caso de enfermedad, derecho que se hace extensivo a la esposa o concubina de cada derechohabiente. Para tal efecto, las instituciones de la administración pública estatal, o municipal en su caso, cubrirán las cuotas correspondientes.
 
 ### CAPITULO VI. DE LAS PENSIONES A LOS FAMILIARES DE LOS TRABAJADORES
 
@@ -601,15 +637,19 @@ a). Que tanto el trabajador como el concubinario hayan permanecido libres de mat
 
 b). Que el trabajador contribuyente al fondo haya vivido con el concubinario los cinco años que precedieron inmediatamente a su muerte.
 
-Si al morir el trabajador tenía varias concubinas o concubinos, y éstos demuestran que se encuentran en las circunstancias señaladas en los incisos a) y b) anteriores, se estará a lo dispuesto en el Código Civil del Estado.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
+Si al morir el trabajador tenía varias concubinas o concubinos, y éstos demuestran que se encuentran en las circunstancias señaladas en los incisos a), y b) anteriores, se estará a lo dispuesto en el Código Familiar del Estado.
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2012)</small>
 
 Se observará lo conducente, en el caso de beneficiarios del trabajador que hubiere desaparecido de su domicilio por más de un mes sin que se tengan noticias de su paradero.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 71.
 
-Los trabajadores antes y después de ser pensionados, declararán por escrito ante la Dirección, cual será su voluntad acerca de los deudos enumerados en el artículo 70 de esta Ley, a quienes al fallecer se concederá o se transmitirá la pensión o gozarán de los beneficios que para ello se concede. No obstante este señalamiento, quien tenga derecho de alimentos de acuerdo con la ley civil, gozará de los beneficios de la pensión en la proporción que les corresponda.
+Los trabajadores antes y después de ser pensionados, declararán por escrito ante la Dirección de Pensiones, cuál será su voluntad acerca de los deudos enumerados en el artículo 70 de esta Ley, a quienes al fallecer se concederá o se transmitirá la pensión, o gozarán de los beneficios que para ello se concede. No obstante este señalamiento, quien tenga derecho de alimentos de acuerdo con la ley civil, gozará de los beneficios de la pensión en la proporción que les corresponda.
 
 El trabajador tiene la obligación de hacer las designaciones por lo menos cada cinco años y para obligarlo la Junta Directiva podrá dictar las disposiciones conducentes.
 
@@ -793,9 +833,11 @@ Se exceptúa de lo anterior lo dispuesto en la fracción V del artículo 52 de l
 
 Los créditos respecto de los cuales la Dirección de Pensiones tenga el carácter de acreedora, cualquiera que sea su especie, prescribirán en diez años a contar de la fecha en que la propia Dirección pueda conforme a la ley, ejercitar sus derechos.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 85.
 
-Las obligaciones de la administración pública estatal, o municipal en su caso, de aportar para el sostenimiento de los fondos las cantidades que esta Ley señala, serán imprescriptibles.
+Las obligaciones de las instituciones de la administración pública estatal, o municipal en su caso, de aportar para el sostenimiento de los fondos las cantidades que esta Ley señala, serán imprescriptibles.
 
 ## TITULO CUARTO. DE LOS GASTOS DE FUNERAL
 
@@ -825,7 +867,9 @@ Cuando los familiares del pensionista fallecido tuvieren derecho a pensión, les
 
 El trabajador que sin tener derecho a pensión se separe definitivamente del servicio, tendrá derecho a la devolución de los descuentos hechos para la contribución de uno de los fondos. Esta devolución se hará dentro de los treinta días siguientes a la fecha de la separación del trabajador, y sólo podrán afectarse los descuentos si el interesado tiene algún adeudo con la Dirección de Pensiones.
 
-También podrán afectarse dichos descuentos cuando el interesado tenga responsabilidades con la administración pública estatal, o municipal en su caso.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
+También podrán afectarse dichos descuentos cuando el interesado tenga responsabilidades con la respectiva institución de la administración pública estatal, o municipal en su caso.
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2012)</small>
 
@@ -839,17 +883,21 @@ Al trabajador suspendido o cesado por imputársele la comisión de algún delito
 
 Si el trabajador separado del servicio, reingresare y quisiere que el tiempo durante el que trabajó con anterioridad se le compute para los efectos de esta Ley, reintegrarán en un plazo no mayor de 60 días a la Dirección de Pensiones, las cantidades que se le hubieran entregado, más los intereses a la taza que opere en el mercado, la cual será determinada por los grupos cotizadores. Si falleciere antes de concluir el reintegro, sus deudos conforme a esta Ley, tendrán derecho a la devolución de todos los descuentos que se les hubieren practicado, o bien a cubrir íntegramente los adeudos para disfrutar de la pensión, en los casos en que ésta proceda.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 93.
 
-Cuando un trabajador contribuyente al fondo de pensiones falleciere, sin que los beneficiarios que esta Ley señala tengan derecho a pensión, la Dirección les entregará el importe de los descuentos hechos al mismo.
+Cuando un trabajador contribuyente al fondo de pensiones falleciere, sin que los beneficiarios que esta Ley señala tengan derecho a pensión, la Dirección de Pensiones les entregará el importe de los descuentos hechos al mismo.
 
 ## TITULO SEXTO. DEL GOBIERNO Y ADMINISTRACION DE LA DIRECCION
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 94.
 
-Para el gobierno y administración de la Dirección de Pensiones habrá un órgano denominado Junta Directiva la cual se compondrá de seis miembros; uno nombrado por el Gobernador Constitucional del Estado; otro por la Secretaría de Finanzas; y otro por cada uno de los grupos cotizadores afiliados a la Dirección de Pensiones del Estado; así como por un Director General.
+Para el gobierno y administración de la Dirección de Pensiones habrá un órgano denominado Junta Directiva, la cual se compondrá de seis miembros; uno nombrado por el Gobernador del Estado; otro por la Secretaría de Finanzas; y otro por cada uno de los grupos cotizadores afiliados a la Dirección de Pensiones; así como por un Director General.
 
 Si dentro del mismo sector existen varios sindicatos, será parte de la Junta Directiva y tendrá la representación que al sector corresponda, aquél que tenga mayor número de trabajadores afiliados que aporten cotizaciones a los fondos de la Dirección de Pensiones.
 
@@ -875,7 +923,9 @@ II. No estar desempeñando cargo alguno de elección popular, aun en caso de no 
 
 III. Ser de reconocida honorabilidad y no haber sido condenado por delitos contra la propiedad.
 
-No pueden ser miembros de la Junta, el Secretario General de Gobierno, el Oficial Mayor y el Procurador General de Justicia.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
+No pueden ser miembros de la Junta, el Secretario General de Gobierno; el Oficial Mayor; y el Fiscal General del Estado.
 
 ###### ARTICULO 99.
 
@@ -937,23 +987,35 @@ El Director General de Pensiones tendrá las obligaciones y facultades siguiente
 
 I. Ejecutar los acuerdos de la Junta;
 
-II. Presentar cada año, en el mes de octubre, ante la Junta Directiva y Contraloría General del Estado, un informe pormenorizado del estado de la Dirección;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2019)</small>
 
-III. Presentar al Subdirector Administrativo de cada uno de los grupos cotizadores, un informe del estado financiero de la Dirección, en los primeros cinco días hábiles de cada mes;
+II. Presentar cada año, en el mes de octubre, ante la Junta Directiva y la Contraloría General del Estado, un informe pormenorizado del estado de la Dirección de Pensiones;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2019)</small>
+
+III. Presentar al Subdirector Administrativo de cada uno de los grupos cotizadores, un informe del estado financiero de la Dirección de Pensiones, en los primeros cinco días hábiles de cada mes;
 
 IV. Otorgar información y todas las facilidades necesarias para que el Subdirector Administrativo, que sea nombrado por cada uno de los grupos cotizadores ante la Dirección de Pensiones, realice sus funciones de inspección y vigilancia;
 
 V. Someter a la decisión de la Junta Directiva todas aquellas cuestiones que sean de su competencia;
 
-VI. Concurrir con el Presidente de la Junta Directiva a la firma de escrituras públicas en que la Dirección intervenga;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2019)</small>
 
-VII. Representar a la Dirección en toda gestión judicial, extrajudicial y administrativa;
+VI. Concurrir con el Presidente de la Junta Directiva a la firma de escrituras públicas en que la Dirección de Pensiones intervenga;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2019)</small>
+
+VII. Representar a la Dirección de Pensiones en toda gestión judicial, extrajudicial y administrativa;
 
 VIII. Formular y presentar en el mes de diciembre, ante la Junta Directiva, el presupuesto anual de egresos para el funcionamiento necesario de la Dirección de Pensiones;
 
-IX. Proponer ante la Junta Directiva, la adquisición de bienes o servicios necesarios para el funcionamiento de la Dirección no contemplados en el presupuesto anual de egresos;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2019)</small>
 
-X. Presentar el calendario oficial de la Dirección y autorizar en casos extraordinarios la suspensión de labores;
+IX. Proponer ante la Junta Directiva, la adquisición de bienes o servicios necesarios para el funcionamiento de la Dirección de Pensiones, no contemplados en el presupuesto anual de egresos;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2019)</small>
+
+X. Presentar el calendario oficial de la Dirección de Pensiones y autorizar en casos extraordinarios, la suspensión de labores;
 
 XI. Conceder al personal a su cargo licencias en los términos de las leyes correspondientes;
 
@@ -987,17 +1049,21 @@ VI. Coordinar sus funciones con las que desempeñe la Junta Directiva y el Direc
 
 VII. Las demás que le confieran la presente Ley y los reglamentos respectivos.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 109.
 
-El personal administrativo de la Dirección de Pensiones, así como los miembros que integran la Junta Directiva de la propia Dirección, serán los responsables por su desempeño en los términos establecidos por la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí, y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, con independencia que de que, si durante su desempeño cometieren algún ilícito, serán sancionados además conforme a lo establecido en el Código Penal del Estado de San Luis Potosí.
+El personal administrativo de la Dirección de Pensiones, así como los miembros que integran la Junta Directiva de la misma, serán los responsables por su desempeño en los términos establecidos por la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí; y la Ley de Responsabilidades Administrativas del Estado de San Luis Potosí, con independencia que (sic) de que, si durante su desempeño cometieren algún ilícito, serán sancionados además conforme a lo establecido en el Código Penal del Estado de San Luis Potosí.
 
 ## TITULO SEPTIMO. DE LOS RECURSOS
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 110.
 
-En las resoluciones tomadas por la Junta Directiva en las que se considere que se afectan intereses, la persona que se encuentra legitimada podrá recurrirlas en los términos que establece la Ley de Procedimientos Administrativos para el Estado y Municipios de San Luis Potosí, o en su caso, ocurrir directamente ante el Tribunal Estatal de lo Contencioso Administrativo.
+En las resoluciones tomadas por la Junta Directiva en las que se considere que se afectan intereses, la persona que se encuentra legitimada podrá recurrirlas en los términos que establece el Código Procesal Administrativo para el Estado San Luis Potosí o, en su caso, ocurrir directamente ante el Tribunal Estatal de Justicia Administrativa.
 
 ###### ARTICULO 111.
 
@@ -2324,5 +2390,13 @@ P.O. 13 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0203.- SE REFORMA EL ARTÍCULO 77 DE LA LEY DE PENSIONES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0220.- SE REFORMAN LOS ARTÍCULOS 1°, 3°, 7°, 12, 13, 15, 19, 21, 22, 24, 25, 26, 33, 46, 50, 54, 63, 68, 70, 70, 71, 85, 90, 93, 94, 98, 106, 109 Y 110 DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
