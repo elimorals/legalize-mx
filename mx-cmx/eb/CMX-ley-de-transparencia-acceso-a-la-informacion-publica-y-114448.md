@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-acceso-a-la-informacion-publica-y-114448"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-06"
-last_updated: "2019-05-29"
+last_updated: "2019-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114448&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2016-05-06"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE AGOSTO DE 2019.
 
 Ley publicada en el No. Bis de la Gaceta Oficial de la Ciudad de México, el viernes 6 de mayo de 2016.
 
@@ -1978,7 +1978,9 @@ I. Los indicadores oficiales de los servicios públicos que presten;
 
 II. El calendario con las actividades culturales, deportivas y recreativas a realizar; así como el presupuesto y acciones para la rehabilitación y mantenimiento de su infraestructura;
 
-III. Relación de los integrantes de los comités y subcomités establecidos por la normatividad vigente, actas de las sesiones y sus acuerdos;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2019)</small>
+
+III. Relación de las personas integrantes de los comités y subcomités establecidos por la normatividad vigente, actas de las sesiones y sus acuerdos;
 
 IV. Sobre el ejercicio del presupuesto deberá publicarse el calendario trimestral sobre la ejecución de las aportaciones federales y locales, pudiendo identificar el programa para el cual se destinaron y, en su caso, el monto del gasto asignado;
 
@@ -2014,13 +2016,55 @@ XIX. Las autorizaciones de los números oficiales y alineamientos;
 
 XX. Los permisos para el uso de la vía pública;
 
-XXI. Los programas y acciones de apoyo que incentivende (sic) la equidad de género en los diversos ámbitos del desarrollo;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2019)</small>
+
+XXI. Los programas y acciones de apoyo que incentiven de (sic) la equidad de género en los diversos ámbitos del desarrollo;
 
 XXII. Los programas y acciones relacionados con la preservación del equilibrio ecológico; la adquisición de reservas territoriales en su caso; y la protección al ambiente, en su ámbito de competencia;
 
-XXIII. Calendario de audiencias públicas y de recorridos del titular del órgano político administrativo, alcaldía o demarcación territorial; y
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2019)</small>
 
-XXIV. El informe de labores presentado ante el Consejo Ciudadano Delegacional.
+XXIII. Calendario de audiencias públicas y de recorridos del titular del órgano político administrativo, alcaldía o demarcación territorial;
+
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2019)</small>
+
+XXIV. El informe de labores presentado ante el Consejo Ciudadano Delegacional;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2019)</small>
+
+XXV. Publicar el directorio de las personas integrantes del consejo, indicando las comisiones a las que pertenece; el calendario de las sesiones del pleno y de las comisiones, así como las actas correspondientes, adicional a sus informes;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2019)</small>
+
+XXVI. Los reglamentos, bandos y acuerdos aprobados por el concejo;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2019)</small>
+
+XXVII. Toda aquella información sobre las acciones institucionales, sus montos y padrón de personas beneficiarias;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2019)</small>
+
+XXVIII. La estrategia anual en materia anticorrupción, que incluya los indicadores públicos de evaluación y mecanismos de participación ciudadana, así como los controles institucionales implementados para prevenir actos de corrupción; mecanismos de seguimiento, evaluación y observación pública de las licitaciones, contrataciones y concesiones que realicen; y los tabuladores de precios máximos;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2019)</small>
+
+XXIX. El programa provisional de gobierno y el programa de gobierno, así como los programas específicos de la demarcación territorial;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2019)</small>
+
+XXX. El atlas de riesgo y el cronograma de protección civil de la demarcación territorial y;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2019)</small>
+
+XXXI. La ubicación de los estacionamientos públicos de la demarcación territorial y las tarifas que se aplicarán.
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2019)</small>
+
+XXXII.- La retribución a que refiere el artículo 82 de la Ley Orgánica de las Alcaldías de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2019)</small>
+
+Los consejos deberán dar cumplimiento a las obligaciones establecidas en esta Ley y demás disposiciones aplicables en los términos que las mismas determinen, a través del Secretario Técnico respecto de aquella información a la que se refiere el artículo 95 de (sic) Ley Orgánica de las Alcaldías de la Ciudad de México, y por los propios concejales en relación con aquella que solo a ellos competa poseer, debiendo tramitarse los procedimientos por la Unidad de Transparencia de la Alcaldía que le corresponda.
 
 #### Sección Tercera. Poder Legislativo
 
@@ -2642,7 +2686,9 @@ La verificación que realice el Instituto en el ámbito de sus respectivas compe
 
 I. Constatar que la información esté completa, publicada y actualizada en tiempo y forma;
 
-II. Emitir un dictamen en el que podrán determinar que el sujeto obligado se ajusta a lo establecido por esta Ley y demás disposiciones, o contrariamente determinar que existe incumplimiento a lo previsto por la Ley y demás normatividad aplicable, en cuyo caso formulará los requerimientos que procedan a efecto de que el sujeto obligado subsane las inconsistencias detectadas dentro de un plazo no mayor a veinte días;
+> <small>(REFORMADA, G.O. 5 DE AGOSTO DE 2019)</small>
+
+II. Emitir un dictamen en el que podrán determinar que el sujeto obligado se ajusta a lo establecido por esta Ley y demás disposiciones, o contrariamente determinar que existe incumplimiento a lo previsto por la Ley y demás normatividad aplicable, en cuyo caso formulará los requerimientos que procedan a efecto de que el sujeto obligado subsane las inconsistencias detectadas dentro de un plazo no mayor a quince días;
 
 III. Constatar que los comités y unidades de transparencia de los sujetos obligados cuenten con las condiciones mínimas de operación para asegurar el cumplimiento de sus funciones y obligaciones establecidas en esta Ley;
 
@@ -2762,7 +2808,17 @@ El Instituto notificará la resolución al denunciante y al sujeto obligado, den
 
 Las resoluciones que emitan (sic) el Instituto, a que se refiere este Capítulo, son definitivas e inatacables para los sujetos obligados. El particular podrá impugnar la resolución por la vía del juicio de amparo que corresponda, en los términos de la legislación aplicable.
 
-El sujeto obligado deberá cumplir con la resolución en un plazo de quince días, a partir del día siguiente al en que se le notifique la misma.
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2019)</small>
+
+El sujeto obligado deberá cumplir con la resolución en un plazo de diez días, a partir del día siguiente al en que se le notifique la misma.
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2019)</small>
+
+Excepcionalmente, el plazo referido en el párrafo anterior podrá ampliarse hasta por diez días más, siempre y cuando existan razones fundadas y motivadas.
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2019)</small>
+
+En su caso, el sujeto obligado deberá comunicar, antes del vencimiento del plazo, las razones por las cuales hará uso de la ampliación excepcional.
 
 ###### Artículo 167.
 
@@ -3080,11 +3136,19 @@ Tratándose de documentos que por su naturaleza no sean normalmente substituible
 
 Las Unidades de Transparencia deberán garantizar que las solicitudes se turnen a todas las Áreas competentes que cuenten con la información o deban tenerla de acuerdo a sus facultades, competencias y funciones, con el objeto de que realicen una búsqueda exhaustiva y razonable de la información solicitada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 212.
 
 La respuesta a la solicitud deberá ser notificada al interesado en el menor tiempo posible, que no podrá exceder de nueve días, contados a partir del día siguiente a la presentación de aquélla.
 
-Excepcionalmente, el plazo referido en el párrafo anterior podrá ampliarse hasta por nueve días más, siempre y cuando existan razones fundadas y motivadas. En su caso, el sujeto obligado deberá comunicar, antes del vencimiento del plazo, las razones por las cuales hará uso de la ampliación excepcional.
+> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2019)</small>
+
+Excepcionalmente, el plazo referido en el párrafo anterior podrá ampliarse hasta por siete días más, siempre y cuando existan razones fundadas y motivadas.
+
+> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2019)</small>
+
+En su caso, el sujeto obligado deberá comunicar, antes del vencimiento del plazo, las razones por las cuales hará uso de la ampliación excepcional.
 
 No podrán invocarse como causales de ampliación del plazo aquellos motivos que supongan negligencia o descuido del sujeto obligado en el desahogo de la solicitud.
 
@@ -3739,3 +3803,19 @@ G.O. 29 DE MAYO DE 2019.
 PRIMERO.- Publíquese en el Diario Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su públicación en el Diario Oficial de la Ciudad de México.
+
+G.O. 5 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 154, EL TERCER PÁRRAFO DEL ARTÍCULO 166, PRIMER PÁRRAFO DEL ARTÍCULO 212 TODOS DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en el Diario Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Ciudad de México.
+
+G.O. 5 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES XXV; XXVI; XXVII; XXVIII; XXIX; XXX; XXXI; Y XXXII, ASÍ COMO UN PÁRRAFO AL ARTÍCULO 124 DE LA LEY DE TRANSPARENCIA ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
