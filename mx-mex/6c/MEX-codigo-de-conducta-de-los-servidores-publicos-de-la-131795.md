@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-los-servidores-publicos-de-la-131795"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-11-21"
-last_updated: "2018-11-21"
+last_updated: "2019-08-05"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "MEX"
 
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE AGOSTO DE 2019 (SIN EFECTOS).
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 21 de noviembre de 2018.
 
@@ -619,3 +619,15 @@ C. Margarita Becerril Gómez
 Secretaria de la Coordinación de Acción Cívica y Eventos Especiales y Vocal Suplente del Comité de Ética y de Prevención de Conflicto de Intereses
 
 (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 5 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA GENERAL DE GOBIERNO”.]
+
+PRIMERO. Publíquese el presente Código en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se deja sin efectos el Código de Conducta de los Servidores Públicos de la Secretaría General de Gobierno, publicado mediante el Periódico Oficial "Gaceta del Gobierno", en fecha 21 de noviembre de 2018.
