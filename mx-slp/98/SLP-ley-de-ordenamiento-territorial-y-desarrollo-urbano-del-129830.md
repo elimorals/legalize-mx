@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2019-03-22"
+last_updated: "2019-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -217,7 +217,7 @@ XXIX. Crecimiento: acción tendente a ordenar y regular la expansión física de
 
 XXX. CUS: Coeficiente de utilización del suelo: la relación aritmética existente entre la superficie total construida en todos los niveles de la construcción y la superficie total del terreno;
 
-XXXI. Densificación: acción urbanística cuya finalidad es incrementar el número de habitantes y la población flotante por unidad de superficie, considerando la capacidad de soporte del territorio y, en su caso, adecuando los espacios públicos y sus infraestructuras;
+XXXI. Densificación: acción urbanística cuya finalidad es incrementar el número de habitantes y la población flotante por unidad de superficie, considerando la capacidad de soporte del territorio y. en su caso, adecuando los espacios públicos y sus infraestructuras;
 
 XXXII. Derecho de vía: la franja de terreno de restricción federal, estatal o municipal que, en las dimensiones correspondientes, se requiere para la construcción, conservación, ampliación, protección y en general para el uso adecuado de una vía de comunicación terrestre;
 
@@ -3621,7 +3621,7 @@ III. A asegurar la disponibilidad del suelo y reservas territoriales para la eje
 
 IV. A facilitar los trámites expropiatorios de terrenos destinados a satisfacer necesidades de tierra para vivienda de interés social y popular;
 
-V. Facilitar la regeneración de inmuebles de la zonas con valores históricos y culturales para adecuación de vivienda en sus tres tipologías;
+V. Facilitar la regeneración de inmuebles de la (sic) zonas con valores históricos y culturales para adecuación de vivienda en sus tres tipologías;
 
 VI. Promover la incentivación de la vivienda y usos mixtos en las zonas con valores históricos y culturales. Promover la adecuación de vivienda en corazones de manzana y zonas abandonadas de valor histórico y cultural, y
 
@@ -4669,7 +4669,9 @@ VI. Para urbanización de fraccionamientos, condominios y desarrollos inmobiliar
 
 a. La autorización del fraccionamiento.
 
-b. Las escrituras de donación a favor del Municipio de las áreas correspondientes a áreas verdes y equipamiento.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
+b. Las escrituras de donación a favor del Municipio de las áreas correspondientes a áreas verdes y equipamiento, debidamente inscritas ante el Instituto Registral y Catastral del Estado.
 
 c. Los documentos que comprueben la entrega de garantías a que se encuentre obligado de conformidad con la autorización del fraccionamiento respectivo.
 
@@ -5529,9 +5531,11 @@ El área verde en condominios horizontales será el resultado de aplicar el quin
 
 Las áreas verdes que sean donadas a los municipios al interior de los fraccionamientos especiales, serán entregadas en concesión gratuita a la administración de los mismos, con la obligación de conservarlas y únicamente aprovecharlas para ese destino, a fin de incrementar la calidad del ambiente en la zona. Esta obligación y restricción deberá señalarse en la autorización respectiva.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 382.
 
-Los fraccionadores y promotores de fraccionamientos especiales podrán formalizar en escritura pública las donaciones por etapas, previa autorización de la Dirección Municipal.
+Los fraccionadores y promotores de fraccionamientos especiales podrán formalizar en escritura pública las donaciones por etapas, previa autorización de la Dirección Municipal. En todos los casos, la escritura pública se llevará a cabo con el Notario Público que autorice la Dirección Municipal, y los gastos y honorarios de escrituración serán cubiertos en su totalidad por los fraccionadores al momento de la firma de las escrituras.
 
 ###### ARTÍCULO 383.
 
@@ -5721,7 +5725,9 @@ a. Plano de lotificación a escala legible, que marque lo siguiente:
 
 3. Zonificación interna, que especifique los usos y destinos de suelo, así como las restricciones de uso o destino del suelo federales, estatales y municipales.
 
-4. Áreas de donación propuestas, especificando las que corresponden a equipamiento y servicios y las de áreas verdes.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
+4. Áreas de donación propuestas, especificando las que corresponden a equipamiento y servicios y las de áreas verdes, acompañando los proyectos de forestación, equipamiento, acondicionamiento, tomas de agua, descargas, alumbrado y aljibes.
 
 b. Plano en el que se indique el número total de lotes del fraccionamiento; señalando además, el número de éstos en cada una de las manzanas, el lote tipo y el uso o destino de cada uno de ellos, así como los lotes propuestos para viviendas multifamiliares o lotes condominales.
 
@@ -6053,7 +6059,9 @@ El fraccionador o promotor ejecutará las obras de urbanización del fraccionami
 
 Obtenida la licencia de construcción de las edificaciones en un fraccionamiento, condominio o desarrollo inmobiliario especial autorizado, el propietario del mismo contará con un plazo de dos años para terminar las obras de edificación y urbanización de la etapa correspondiente, contados a partir del día siguiente a la fecha en que se notifique dicha autorización; si vencido el plazo no se han concluido dichas obras en su totalidad o parcialmente, se podrá conceder una prórroga hasta por el mismo período, en términos del artículo 446 de esta Ley.
 
-Durante dicho plazo, el promotor deberá dotar de los servicios necesarios a las viviendas que se encuentren ocupadas aun cuando no se hubiera concluido la urbanización en la totalidad del fraccionamiento.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
+Durante dicho plazo, el promotor deberá dotar de los servicios necesarios a las viviendas que se encuentren ocupadas aun cuando no se hubiera concluido la urbanización en la totalidad del fraccionamiento. Asimismo, y en todos los casos, las obras de equipamiento de las áreas verdes comprendidas en la autorización del fraccionamiento, deberán estar concluidas y en funcionamiento inmediatamente antes de que el promotor o fraccionador haga entrega de la primera vivienda de la etapa de que se trate.
 
 En caso de no concluir dichas obras al fenecer el plazo antes señalado, incluyendo en su caso la prórroga, la Dirección municipal procederá a hacer efectivas las fianzas correspondientes y podrá concluir las obras faltantes o incompletas utilizando las mismas, o si estas no fueran suficientes, con cargo al fraccionador.
 
@@ -6804,5 +6812,13 @@ P.O. 22 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0138.- SE REFORMA EL ARTÍCULO 169 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0219.- SE REFORMAN LOS ARTÍCULOS 305, 382, 401 Y 440, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
