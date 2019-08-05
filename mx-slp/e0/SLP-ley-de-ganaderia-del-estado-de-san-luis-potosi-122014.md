@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ganaderia-del-estado-de-san-luis-potosi-122014"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-20"
-last_updated: "2019-07-03"
+last_updated: "2019-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Gobierno del Estado de San Luis Potosí, el sábado 20 de mayo de 2017.
 
@@ -485,7 +485,9 @@ II. Las demás que señalen las leyes, y normatividad aplicable.
 
 Corresponde a la Secretaría de Seguridad Pública del Estado, además de las atribuciones que le confiere la Ley del Sistema Seguridad Pública del Estado de San Luis Potosí, las siguientes:
 
-I. Coordinarse con la SEDARH en la ejecución de operativos conjuntos para el control de la movilización de animales, sus productos y subproductos, así como operativos contra el abigeato y de control de ingreso a rastro, y
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2019)</small>
+
+I. Coordinarse con la SEDARH en la ejecución de vigilancia en los puntos de verificación e inspección prioritarios; y de operativos conjuntos para el control de la movilización de animales, sus productos y subproductos; así como operativos contra el abigeato y de control de ingreso a rastro, y
 
 II. Las demás que señalen las Leyes, reglamentos y normatividad aplicable.
 
@@ -2124,5 +2126,13 @@ P.O. 3 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0189.- SE ADICIONA AL ARTÍCULO 163 LOS PÁRRAFOS, TERCERO, CUARTO, Y QUINTO, DE LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0222.- SE REFORMA EL ARTÍCULO 17 DE LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
