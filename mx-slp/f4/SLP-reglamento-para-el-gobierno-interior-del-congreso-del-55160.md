@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2019-07-13"
+last_updated: "2019-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2019.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -69,9 +69,17 @@ VI. Ley Orgánica: la Ley Orgánica del Poder Legislativo;
 
 VII. Pleno: la Asamblea de Diputados que integra el Congreso del Estado;
 
-VIII. Quórum: el número de diputados que se requiere para sesionar válidamente, tanto en el Pleno, como en comisiones y comités, de conformidad con la Ley y este Reglamento, y
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2019)</small>
 
-IX. Reglamento: el Reglamento para el Gobierno Interior del Congreso del Estado.
+VIII. Quórum: el número de diputados que se requiere para sesionar válidamente, tanto en el Pleno, como en comisiones y comités, de conformidad con la Ley y este Reglamento;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2019)</small>
+
+IX. Reglamento: el Reglamento para el Gobierno Interior del Congreso del Estado, y
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2019)</small>
+
+X. Urgencia: es la circunstancia por la que se otorga preferencia a conocer y despachar asuntos que, de no atenderlos, causaría perjuicios irreversibles; trámites que al omitirse no afectan a principios o valores democráticos.
 
 ###### ARTICULO 3°.
 
@@ -1521,41 +1529,121 @@ La presentación del orden del día y la elaboración del acta de cada reunión,
 
 En el caso de que un diputado forme parte de dos o más comisiones que trabajen conjuntamente, su asistencia se anotará por separado por cada una de esas comisiones al hacer el cómputo a que se refiere este artículo, consecuentemente, en la votación respectiva su voto se tomará en cuenta tantas veces como comisiones integre.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
 
-ARTICULO 154 BIS. Las comparecencias de los funcionarios públicos ante los diputados son un ejercicio de diálogo, para demandar explicaciones, justificar lo realizado, precisar datos, argumentar posiciones, aclarar equívocos, analizar la situación que guarda la administración pública y rendir cuentas; los legisladores tienen plena libertad de formular, preguntas, dudas, interpelaciones, y requerimientos de información derivadas del informe que rinda el titular del Poder Ejecutivo del Estado, sobre temas concretos y la política gubernamental, o de cualquier otro asunto de interés público y general de la materia que se trate.
+ARTICULO 154 BIS. Las comparecencias de las o los funcionarios públicos ante los diputados son un ejercicio de diálogo, para demandar explicaciones, justificar lo realizado, precisar datos, argumentar posiciones, aclarar equívocos, analizar la situación que guarda la institución pública a su cargo, y rendir cuentas; los legisladores tienen plena libertad de formular, preguntas, dudas, interpelaciones, y requerimientos de información, sobre temas concretos; la política gubernamental; o de cualquier otro asunto de interés público y, en general, de la materia que se trate.
 
-Las comparecencias se desarrollarán conforme lo siguiente:
+Las comparecencias, según su modalidad, se desarrollarán conforme a las siguientes bases:
 
-I. La Junta de Coordinación Política acordará qué funcionarios públicos serán citados en fecha y hora que se señale para tal efecto; éstos deben ser notificados, a través de su superior jerárquico, por lo menos con cuarenta y ocho horas de anticipación, expresándose claramente el objetivo de las mismas;
+A. Las que se desarrollan en el Pleno:
 
-II. Los funcionarios públicos deberán asistir personalmente; podrán ser asistidos por los asesores que considere convenientes, sin que éstos puedan hacer uso de la voz en la comparecencia. Como máximo serán citados dos funcionarios públicos por día;
+I. Se inicia cuando se cumple con el Quórum legal;
 
-III. Los funcionarios públicos citados, por una sola ocasión podrán solicitar el diferimiento de la fecha y hora para su presentación, siempre y cuando lo hagan del conocimiento de la Legislatura, por escrito y dentro de las veinte cuatro (sic) horas anteriores a la comparecencia; fundarán y motivarán las causas que se lo impidan;
+II. El Diputado o Diputada que presida la Directiva dará a conocer a los legisladores y a los funcionarios públicos la dinámica de la comparecencia, para lo cual expresará la razón y motivo de la misma;
 
-IV. Las comparecencias serán públicas y podrán participar todos los diputados que lo deseen. En las comparecencias se elaborará el acta y versión audiográfica para constar.
+III. El o la Diputada secretaria de la Directiva, tomará la protesta de ley al o la funcionaria compareciente, para que se conduzca con verdad, advirtiéndole de las penas en que incurren quienes lo hagan con falsedad;
 
-Las comparecencias deben realizarse con respeto y libertad, sin que ningún legislador, incluso los que presidan la comparecencia, pueda censurar, descalificar o restringir la expresión de otros, salvo que se haya agotado el tiempo convenido para cada intervención;
+IV. Para dar a conocer al Poder Legislativo la situación que guarda la institución pública y rendir cuentas de los temas relevantes en el ejercicio de su encargo, el o la compareciente podrá hacer uso de la voz por un tiempo improrrogable de quince minutos;
 
-V. El Presidente y el Secretario de la comisión que guarde mayor relación con la rama o materia del funcionario público citado, serán los responsables de moderar la comparecencia;
+V. La o el Presidente de la Directiva instruirá a la o el Secretario a inscribir a los diputados que vayan a formular las preguntas, dudas, interpelaciones o requerimientos de información;
 
-VI. El Presidente de la comisión dará a conocer la dinámica de la comparecencia a los funcionarios públicos y a los asistentes, para lo cual expresará la razón y motivo de la misma;
+VI. El uso de la palabra será concedido por Grupo Parlamentario o por Representación Parlamentaria.
 
-VII. El Presidente de la comisión instruirá al Secretario inscriba a los diputados que vayan a formular preguntas, dudas, interpelaciones, o requerimientos de información; registro que determinará el orden en que ejercerán ese derecho;
+Cada Grupo o Representación Parlamentaria, deberá señalar el orden de intervención de sus legisladores.
 
-VIII. El Secretario de la comisión protestará al compareciente para que se conduzca con verdad, advirtiéndole de las penas en que incurren aquéllos que lo hagan con falsedad;
+La Directiva concederá el uso de la voz en el orden acordado por los grupos o representaciones parlamentarias, y se harán las rondas necesarias para que los legisladores interesados puedan intervenir.
 
-IX. Para dar a conocer al Poder Legislativo la situación que guarda la administración pública y rendir cuentas de los temas relevantes en el ejercicio de su encargo, el compareciente podrá hacer uso de la voz por un tiempo de hasta quince minutos. A solicitud del compareciente, y previa aprobación de la mayoría de los diputados de la comisión que presida, podrá continuar con la palabra por un tiempo igual al establecido, siempre que la situación lo amerite:
+Sin que ello obligue a todos los grupos o representaciones parlamentarias, a participar en todas las rondas.
 
-X. Los diputados que hagan uso de la voz podrán intervenir por un tiempo máximo de cinco minutos; de exceder el tiempo señalado, el Presidente de la Comisión lo exhortará para que concluya;
+El orden de intervención será concedido intercalando a los grupos y representaciones parlamentarias.
 
-XI. El funcionario público compareciente debe dar respuesta sucesivamente a los cuestionamientos formulados por los diputados, por un tiempo máximo de diez minutos por cada pregunta. En caso de que requiera mayor tiempo para responder, podrá solicitar la duplicidad del término señalado;
+Las intervenciones de los legisladores se harán con un tiempo máximo de cinco minutos, mismo que será improrrogable;
 
-XII. Una vez que el funcionario público haya dado respuesta a los cuestionamientos iniciales, los diputados podrán hacer uso de su derecho de réplica hasta por tres minutos, a fin de, aclarar conceptos, interrogar, o solicitar información complementaria sobre la materia objeto de la comparecencia. El compareciente para la contrarréplica contará con tiempo de hasta diez minutos;
+VII. La o el funcionario compareciente, dará respuesta inmediata a los cuestionamientos formulados por los diputados.
 
-XIII. Los diputados que así lo deseen podrán intervenir de nueva cuenta, para lo cual solicitarán el uso de la palabra al Secretario de la comisión a efecto ser inscritos, contarán con el tiempo señalado en la fracción X de este artículo, y
+Dicha intervención no podrá exceder de un tiempo de diez minutos; de ser necesario, podrá solicitar la duplicidad del tiempo;
 
-XIV. La comparecencia se declara concluida una vez que se considere agotada la materia de la misma, a propuesta del Presidente de la Comisión y si así lo decide la mayoría de los integrantes de la comisión.
+VIII. Una vez que la o el compareciente dé respuesta a los cuestionamientos de los legisladores, los mismos podrán hacer uso de su derecho de réplica hasta por tres minutos a fin de, aclarar conceptos, interrogar, o solicitar información complementaria sobre la materia objeto de la comparecencia;
+
+IX. La o el compareciente tendrá un tiempo máximo de hasta diez minutos para la contrarréplica;
+
+X. Si a juicio de la o el presidente, o a solicitud de la o el diputado, la o el compareciente no respondió de manera concisa o clara; se le concederá nuevamente el uso de la palabra hasta por tres minutos a la o el legislador que formuló la pregunta o interpelación, a fin de señalar las omisiones de la respuesta.
+
+La o el compareciente tendrá el mismo tiempo que se le concedió a la o el legislador, para dar respuesta;
+
+XI. Los diputados podrán intervenir cuantas veces sean necesarias, siempre con previo acuerdo entre los integrantes de su respectivo grupo parlamentario;
+
+XII. De ninguna manera la presidencia de la Directiva permitirá que exista diálogo directo entre la o el compareciente y los legisladores, y
+
+XIII. La comparecencia se declara concluida una vez que se considere agotada la materia de la misma, a propuesta del Presidente de la Directiva y si así lo decide la mayoría de los presentes.
+
+De toda comparecencia se elaborará acta, y su respectiva versión videográfica, para constancia.
+
+B. Las que se desarrollan en las comisiones, tratándose de titulares de secretarías de Estado; directores generales; o directores de área:
+
+I. Las comparecencias que se realicen en las comisiones, podrán ser de comisión única o, en comisiones unidas.
+
+En los casos en que se realizan de comisiones unidas, moderará la comparecencia el presidente de la Comisión que guarde mayor relación con la rama o materia de la o el funcionario público citado; y la o el secretario, será quien presida la otra Comisión que convoca;
+
+II. Quienes presidan las comisiones convocantes invitarán a sus integrantes, con los requisitos establecidos para las reuniones ordinarias;
+
+III. La Junta de Coordinación Política acordará cuáles funcionarios públicos serán citados en fecha y hora que se señale para tal efecto; éstos deben ser notificados, a través de su superior jerárquico, por lo menos con cuarenta y ocho horas de anticipación, expresándose claramente el objetivo de las mismas;
+
+IV. Los funcionarios públicos deberán asistir personalmente; podrán ser apoyados por los asesores que considere convenientes, sin que éstos puedan hacer uso de la voz en la comparecencia. Sólo será citado un funcionario público por comparecencia, y podrá haber hasta dos comparecencias por día;
+
+V. Los funcionarios públicos citados, por una sola ocasión podrán solicitar el diferimiento de la fecha y hora para su presentación, siempre y cuando lo hagan del conocimiento de la Legislatura, por escrito y dentro de las veinte cuatro horas anteriores a la comparecencia; fundarán y motivarán las causas del impedimento;
+
+VI. Las comparecencias serán públicas y podrán participar todos los diputados que lo deseen.
+
+Las comparecencias deben realizarse con respeto y libertad, sin que ningún legislador o legisladora, incluso quienes presidan la comparecencia, pueda censurar, descalificar o restringir la expresión de otros, salvo que se haya agotado el tiempo convenido para cada intervención;
+
+VII. La o el Presidente de la Comisión que modera, dará a conocer la dinámica de la comparecencia a las o los funcionarios públicos, para lo cual expresará la razón y motivo de la misma;
+
+VIII. El Presidente de la Comisión que modera instruirá al Secretario inscriba a los diputados que vayan a formular preguntas, dudas, interpelaciones, o requerimientos de información; registro que determinará el orden en que ejercerán ese derecho;
+
+IX. La o el Secretario de la comisión protestará al compareciente para que se conduzca con verdad, advirtiéndole de las penas en que incurren aquéllos que lo hagan con falsedad;
+
+X. Para dar a conocer al Poder Legislativo la situación que guarda la administración pública y rendir cuentas de los temas relevantes en el ejercicio de su encargo, la o el compareciente podrá hacer uso de la voz por un tiempo de hasta diez minutos. A solicitud de la o el compareciente, y previa aprobación de la mayoría de los diputados de la comisión que modera, podrá continuar con la palabra por un tiempo de cinco minutos, siempre que la situación lo amerite. Lo anterior no aplicará en los casos en los que las comparecencias sean con motivo de la glosa del informe de Gobierno que rinda el titular del Poder Ejecutivo del Estado;
+
+XI. Los diputados que hagan uso de la voz podrán intervenir por un tiempo máximo de cinco minutos; de exceder el tiempo señalado, el Presidente de la Comisión lo exhortará para que concluya;
+
+XII. El funcionario público compareciente debe dar respuesta inmediata a cada cuestionamiento formulado individualmente por los diputados, en el orden en el que se hayan inscrito, y no en forma global; responderá en un tiempo de tres minutos por cada pregunta. En caso de que requiera mayor tiempo para responder, podrá solicitar la duplicidad del término señalado;
+
+XIII. Una vez que el funcionario público haya dado respuesta al cuestionamiento de una o un legislador, la o el mismo diputado podrán hacer uso de su derecho de réplica hasta por tres minutos, a fin de, aclarar conceptos, interrogar, o solicitar información complementaria sobre la materia objeto de la comparecencia. El compareciente para la contrarréplica contarán con tiempo de hasta tres minutos;
+
+XIV. Los diputados que así lo deseen podrán intervenir de nueva cuenta, para lo cual solicitarán el uso de la palabra al Secretario de la comisión a efecto ser inscritos, contarán con el tiempo señalado en la fracción XI de este apartado, y
+
+XV. La comparecencia se declara concluida una vez que se considere agotada la materia de la misma, a propuesta del Diputado o Diputada que preside, y si así lo decide la mayoría de los integrantes de la Comisión que modera.
+
+Ambas modalidades deberán ser públicas, facilitando el acceso de las personas a los recintos legislativos; así mismo, cuando las condiciones lo permitan, deberán transmitirse en los medios digitales propios del Congreso.
+
+De toda comparecencia, la Comisión que modera elaborará Minuta; y la versión videográfica el área de Comunicación Social del Congreso, la cual hará llegar a la primera, para constancia.
+
+En ningún caso, se censurará, descalificará, o restringirá la expresión de otros, salvo que se haya agotado el tiempo convenido por cada intervención.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
+ARTICULO 154 TER. El Congreso realiza el análisis del informe anual que el titular del Ejecutivo presenta en los términos del artículo 80 fracción V de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, respecto de la situación general que guarda la administración pública estatal.
+
+Con la finalidad de verificar el cumplimiento del Plan Estatal de Desarrollo, el análisis se efectuará por las siguientes materias, o sus similares:
+
+I. Desarrollo económico; turístico; agropecuario; y urbano;
+
+II. Agua; ecología y medio ambiente; y energías renovables;
+
+III. Seguridad Pública; prevención del delito; y protección civil;
+
+IV. Gobernabilidad; responsabilidad financiera, y
+
+V. Derechos humanos, y desarrollo social.
+
+La Junta de Coordinación Política, en consulta con los presidentes de las comisiones, determinará cuáles funcionarios serán citados a comparecer.
+
+El acuerdo de la Junta de Coordinación Política señalará el calendario para el desahogo de la glosa del informe; y se precisará la modalidad de la comparecencia, la cual podrá ser ante el Pleno o en comisiones.
+
+El acuerdo de calendario deberá darse a conocer al Pleno, y al titular del Poder Ejecutivo, en un término no mayor a cuarenta y ocho horas; los legisladores o las comisiones podrán solicitar en ese momento, la modificación o la inclusión de otros servidores públicos.
+
+Será derecho de los comparecientes, por una sola ocasión, el diferimiento de fecha y hora en que deberán presentarse; siempre y cuando lo hagan del conocimiento de la Legislatura, por escrito y dentro de las veinticuatro horas previas a la comparecencia; fundarán y motivarán las causas que se lo impidan.
 
 #### Sección Octava. De la Tramitación de los Asuntos Turnados
 
@@ -2752,5 +2840,21 @@ P.O. 13 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0204.- SE REFORMAN LOS ARTÍCULOS 96 Y 126 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ Y SE REFORMAN LOS ARTÍCULOS 41, 81 Y 144 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis''.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0217.- SE REFORMA Y ADICIONA EL ARTÍCULO 2°, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0218.- SE REFORMA EL ARTÍCULO 154 BIS; Y ADICIONA EL ARTÍCULO 154 TER, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
