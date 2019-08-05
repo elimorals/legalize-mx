@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2019-07-03"
+last_updated: "2019-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1057,9 +1057,9 @@ XXXI. Informar al Ejecutivo del Estado o al Congreso del Estado, sobre cualquier
 
 XXXII. Proveer lo relativo al fomento, construcción, mantenimiento, control y vigilancia de los espacios destinados a prestar al público el servicio de estacionamiento de vehículos;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2019)</small>
 
-XXXIII. Ordenar la publicación mensual de los estados financieros en la forma que determine el Cabildo;
+XXXIII. Ordenar la publicación trimestral de los estados financieros en la forma que determine el Cabildo;
 
 XXXIV. Expedir o negar permisos y licencias para la construcción y demoliciones, debiendo solicitar la autorización del Instituto Nacional de Antropología e Historia cuando el caso lo requiera;
 
@@ -1189,7 +1189,9 @@ III. Vigilar la correcta aplicación del presupuesto municipal;
 
 IV. Asistir en coordinación con el Contralor Interno, a las visitas de inspección que se hagan a la Tesorería Municipal;
 
-V. Vigilar con la oportunidad necesaria, que se presente al Congreso del Estado en tiempo y forma la cuenta pública anual; asimismo, cerciorarse de que se ordene la publicación de los estados financieros mensuales, previo conocimiento del Ayuntamiento;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2019)</small>
+
+V. Vigilar con la oportunidad necesaria, que se presente al Congreso del Estado en tiempo y forma la cuenta pública anual; asimismo, cerciorarse de que se ordene la publicación de los estados financieros trimestrales, previo conocimiento del Ayuntamiento;
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2019)</small>
 
@@ -1369,9 +1371,11 @@ VII. Ejercer la facultad para hacer efectivo el pago de las contribuciones cuyo 
 
 VIII. Llevar la contabilidad del municipio;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2019)</small>
 
-IX. Formular mensualmente un estado financiero de los recursos municipales, y presentarlo al Cabildo, debiendo enviarlo posteriormente para su fiscalización al Congreso del Estado; asimismo, en los términos acordados por el Ayuntamiento, deberá publicarlo en los primeros diez días del mes siguiente y exhibirlo en los estrados del ayuntamiento;
+IX. Formular trimestralmente un estado financiero de los recursos municipales, y presentarlo al Cabildo, debiendo enviarlo posteriormente para su fiscalización al Congreso del Estado; asimismo, en los términos acordados por el Ayuntamiento, deberáì (sic) publicarlo en los primeros diez días del mes siguiente y exhibirlo en los estrados del ayuntamiento.
+
+Cuando el ayuntamiento se encuentre en su último año de Ejercicio Legal, deberá formular de manera mensual la información financiera de los meses de julio y agosto del año respectivo, debiendo enviarlos posteriormente para su fiscalización al Congreso del Estado; el ayuntamiento entrante deberá formular el informe trimestral de julio a septiembre, antes de los diez días del mes siguiente;
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
@@ -3150,5 +3154,13 @@ P.O. 3 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0195.- SE REFORMAN LOS ARTÍCULOS 163 Y 167; Y SE DEROGAN LOS ARTÍCULOS 164, 165, Y 166, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0221.- SE REFORMAN LOS ARTÍCULOS 70, 75 Y 81 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
