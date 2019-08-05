@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ciencia-y-tecnologia-del-estado-de-san-luis-potosi-34229
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-30"
-last_updated: "2018-07-11"
+last_updated: "2019-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de agosto de 2003.
 
@@ -583,7 +583,9 @@ En el proceso de vinculación se buscará, preferentemente, la multidisciplina e
 
 En la asignación de los apoyos a que se refiere esta Ley, se concederá prioridad a los proyectos que promuevan la innovación y el desarrollo tecnológico en la pequeña y mediana empresa.
 
-De igual forma, serán prioritarios los proyectos que se propongan lograr un uso racional, eficiente y ambientalmente sustentable de los recursos naturales.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
+
+De igual forma, serán prioritarios los proyectos que se propongan lograr un uso racional, eficiente y ambientalmente sustentable de los recursos naturales, así como aquellos que contribuyan al combate de los efectos del cambio climático, y los relativos a la generación de energías renovables.
 
 Del mismo modo, se concederá prioridad a los proyectos cuyo propósito sea la creación y funcionamiento de redes científicas y tecnológicas.
 
@@ -678,3 +680,11 @@ P.O. 11 DE JULIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0216.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 51, DE LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
