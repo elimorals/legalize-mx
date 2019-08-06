@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2019-04-02"
+last_updated: "2019-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -216,6 +216,10 @@ I. Accesibilidad: medidas pertinentes para asegurar el acceso de las personas co
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2012)</small>
 
 I Bis. Aforo: a la cantidad de usuarios transportados por un vehículo de transporte público de pasajeros en un periodo determinado;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2019)</small>
+
+I. Ter. Aplicaciones de servicio y evaluación: son las aplicaciones informáticas autorizadas por la Secretaría, que puedan ser descargadas en dispositivos móviles sin costo para el usuario de transporte, que sean utilizadas de manera obligatoria por los concesionarios y operadores de las modalidades a las que se refieren los incisos c) y d) de la fracción I del artículo 21 de esta Ley, en la zona metropolitana del municipio de San Luis Potosí y su zona conurbada, otorgando la facultad a la Secretaría para determinar en qué otros municipios será necesaria la utilización de estas tecnologías, con el fin de que los usuarios soliciten la prestación del servicio, tengan la posibilidad de hacer el pago de la tarifa de manera electrónica, y evalúen el mismo;
 
 II. Ayuntamientos: a los ayuntamientos del Estado de San Luis Potosí;
 
@@ -1761,9 +1765,33 @@ Una vez calculados los incrementos que resulten a las tarifas, la Secretaría de
 
 La Secretaría establecerá los sistemas para el cobro de tarifas del servicio público, y los sistemas de prepago, incorporando, en lo posible, los avances tecnológicos existentes. En la aplicación de tarifas, los sistemas de prepago son obligatorios para los concesionarios del servicio urbano colectivo de primera y segunda clase, e interurbano.
 
-> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2019)</small>
 
-Respecto a los servicios de automóvil de alquiler en sitio y ruleteo, es obligatoria la utilización del taxímetro para la zona conurbada, o cualquier otro dispositivo que establezca la propia Secretaría, así como la expedición de recibos de pago, cuando el usuario lo solicite; en el caso de sitio específico, la Secretaría determinará las tarifas por zonas aplicables según distancia partiendo de la base, calculadas tomando como referencia la tarifa en el uso de taxímetro; en caso que no se encuentren determinadas o autorizadas, se sujetarán al uso del taxímetro o cualquier otro dispositivo que establezca la propia Secretaría.
+Respecto a los servicios de automóvil de alquiler en sitio y ruleteo, es obligatoria la utilización del taxímetro, así como de aplicaciones de servicio y evaluación, en la zona metropolitana del municipio de San Luis Potosí y su zona conurbada, otorgando la facultad a la Secretaría para determinar en qué otros municipios será necesaria la utilización de estas tecnologías o cualquier otro dispositivo que establezca la propia Secretaría, así como la expedición de recibos de pago cuando el usuario lo solicite; en el caso de sitio específico, la Secretaría determinará las tarifas por zonas aplicables según distancia partiendo de la base, calculadas tomando como referencia la tarifa en el uso de taxímetro; en caso que no se encuentren determinadas o autorizadas, se sujetarán al uso del taxímetro o cualquier otro dispositivo que establezca la propia Secretaría. El incumplimiento de estas disposiciones será causa de retiro del vehículo, y de no acreditación de la revista.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2019)</small>
+
+En el caso de las aplicaciones de servicio y evaluación, la Secretaría podrá proveerlas por sí, o bien, mediante autorización a la, o las personas morales que determine; en este caso, quienes pretendan la autorización deberán cumplir con los parámetros y requisitos que determine la Secretaría, siendo por lo menos los siguientes:
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2019)</small>
+
+I. Contar con domicilio social y fiscal en San Luis Potosí;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2019)</small>
+
+II. Tener oficina de atención en la ciudad de San Luis Potosí, para soporte técnico, y contar con equipo de desarrollo en sitio;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2019)</small>
+
+III. Tener derechos de propiedad industrial respecto del software y su código fuente, al que deberá tener acceso la Secretaría;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2019)</small>
+
+IV. Contar con capacidad técnica para soportar un mínimo de cuatro mil usuarios en forma simultánea, y
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2019)</small>
+
+V. Disponer de capacidad de generar reportes y monitoreo en tiempo real, respecto del total de usuarios.
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2015)</small>
 
@@ -1854,6 +1882,10 @@ g) La publicidad.
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 h) Los sistemas de prepago.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2019)</small>
+
+i) Las aplicaciones de servicio y evaluación.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2015)</small>
 
@@ -2801,9 +2833,9 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 13 DE ABRIL DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 0607.- SE REFORMA (SIC) LOS ARTÍCULOS 81, 129 Y 132 DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ; ASI (SIC) MISMO EL ARTÍCULO 93 DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ; LOS ARTÍCULOS 61 Y 68 DE LA LEY PARA LA REGULARIZACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE SAN LUIS POTOSÍ, Y LOS ARTÍCULOS 37, 38, Y 40 DE LA LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS TERRESTRES DE COMUNICACIÓN ESTATAL”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0607.- SE REFORMA (SIC) LOS ARTÍCULOS 81, 129 Y 132 DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ; ASI MISMO EL ARTÍCULO 93 DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ; LOS ARTÍCULOS 61 Y 68 DE LA LEY PARA LA REGULARIZACIÓN DE LA FIRMA ELECTRÓNICA AVANZADA DEL ESTADO DE SAN LUIS POTOSÍ, Y LOS ARTÍCULOS 37, 38, Y 40 DE LA LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS TERRESTRES DE COMUNICACIÓN ESTATAL".]
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
 
@@ -2912,3 +2944,13 @@ PRIMERO. Este Decreto entrará en vigor sesenta días después de su publicació
 SEGUNDO. La Secretaría de Comunicaciones y Transportes del Ejecutivo del Estado de San Luis Potosí, deberá dar a conocer la programación pormenorizada del servicio exclusivo en cada ruta, por lo menos con setenta y dos horas de anticipación a la entrada en vigor de este Decreto.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 6 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0227.- SE REFORMA EL ARTÍCULO 95; Y ADICIONA A LOS ARTÍCULOS 12 LA FRACCIÓN I TER, 95 SEIS PÁRRAFOS Y 99 UN PÁRRAFO DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. La Secretaría de Comunicaciones y Transportes del Estado de San Luis Potosí, deberá implementar el cumplimiento de las aplicaciones de servicio y evaluación a que se refiere el presente Decreto, en un plazo de hasta ocho meses contados a partir de la entrada en vigor del mismo.
+
+TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
