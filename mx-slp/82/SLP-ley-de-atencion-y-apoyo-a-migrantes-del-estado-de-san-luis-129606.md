@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-atencion-y-apoyo-a-migrantes-del-estado-de-san-luis-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-13"
-last_updated: "2018-07-13"
+last_updated: "2019-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 13 de julio de 2018.
 
@@ -95,9 +95,17 @@ VII. Junta Directiva: la Junta Directiva del Instituto de Migración y Enlace In
 
 VIII. Migrante: (de conformidad con la fracción XVII, del artículo tercero, de la Ley de Migración) al individuo que sale, transita o llega al territorio de un Estado distinto al de su residencia, por cualquier tipo de motivación;
 
-IX. Programa Estatal de Migración: el Programa de Migración del Estado de San Luis Potosí, y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2019)</small>
 
-X. Registro Estatal: el Registro de Personas Migrantes del Estado de San Luis Potosí.
+IX. Programa Estatal de Migración: el Programa de Migración del Estado de San Luis Potosí;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2019)</small>
+
+X. Registro Estatal: el Registro de Personas Migrantes del Estado de San Luis Potosí, y
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2019)</small>
+
+XI. Situación migratoria: hipótesis jurídica en la que se ubica un migrante en función del cumplimiento o incumplimiento de las disposiciones migratorias para su internación y estancia en el Estado. Se considera que el migrante tiene situación migratoria regular cuando ha cumplido dichas disposiciones; y que tiene situación migratoria irregular cuando haya incumplido con las mismas.
 
 ###### ARTÍCULO 6°.
 
@@ -560,3 +568,13 @@ Juan Manuel Carreras López
 El Secretario General de Gobierno
 
 Alejandro Leal Tovías
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0223.- SE REFORMA Y ADICIONA EL ARTÍCULO 5° DE LA LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
