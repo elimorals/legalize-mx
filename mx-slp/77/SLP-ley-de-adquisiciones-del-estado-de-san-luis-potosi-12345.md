@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-adquisiciones-del-estado-de-san-luis-potosi-12345"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2018-10-02"
+last_updated: "2019-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 29 de enero de 1997.
 
@@ -233,9 +233,9 @@ En los casos no previstos por esta Ley serán aplicables, en cuanto procedan, la
 
 En la planeación, programación y presupuestación de las adquisiciones, arrendamientos y servicios, las instituciones deberán ajustarse a la observancia y cumplimiento de:
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2019)</small>
 
-I.- Los objetivos y prioridades contenidos en el Plan Estatal de Desarrollo y en los programas sectoriales e institucionales, incluyendo sus programas anuales; así como en el Programa Estatal de Infraestructura contemplado en la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí; y
+I.- Los objetivos y prioridades contenidos en el Plan Estatal de Desarrollo, el Plan Municipal de Desarrollo y en los programas sectoriales e institucionales, incluyendo sus programas anuales; así como en el Programa Estatal de Infraestructura contemplado en la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado y Municipios de San Luis Potosí, y
 
 II.- Los objetivos, metas y previsiones de aplicación de los recursos financieros establecidos en los presupuestos de egresos de cada una de las instituciones.
 
@@ -896,3 +896,11 @@ P.O. 2 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 6 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0224.- SE REFORMA EL ARTÍCULO 14 DE LA LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
