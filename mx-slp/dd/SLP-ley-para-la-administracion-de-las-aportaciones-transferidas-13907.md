@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2018-07-28"
+last_updated: "2019-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -683,6 +683,10 @@ Los presidentes municipales, por acuerdo de cabildo, emitirán convocatoria para
 
 El Consejo deberá celebrar asambleas ordinarias una vez al mes y de carácter extraordinario cuantas veces sea necesario.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2019)</small>
+
+La Secretaría de Desarrollo Social y Regional en el ámbito de su competencia, capacitará cuando menos una vez por año a los consejos de desarrollo social municipal, a fin de que se mantengan actualizados en lo relativo al ejercicio de recursos del Ramo 33, Fondo para la Infraestructura Social Municipal; y del Fondo para el Fortalecimiento de los Municipios.
+
 ###### ARTICULO 70.
 
 El Titular del Ejecutivo del Estado o los funcionarios estatales que designe, podrán acudir como invitados a las asambleas ordinarias y extraordinarias de los Consejos, para evaluar y dar seguimiento a las obras y acciones en cada Municipio.
@@ -1006,3 +1010,11 @@ P.O. 28 DE JULIO DE 2018.
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0226.- SE ADICIONA AL ARTÍCULO 69 EL PÁRRAFO SEGUNDO, DE LA LEY PARA LA ADMINISTRACIÓN DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
