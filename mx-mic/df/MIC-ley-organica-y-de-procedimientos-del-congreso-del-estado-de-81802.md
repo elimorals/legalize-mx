@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2019-04-16"
+last_updated: "2019-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2019.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -801,7 +801,9 @@ Cuando alguno de sus integrantes sea recusado, a propuesta del Grupo Parlamentar
 
 En el estudio y análisis de los asuntos de su competencia, las Comisiones mediante acuerdo y por conducto de su Presidente, pueden solicitar oficialmente a cualquier servidor público, la información y copias certificadas de documentos que estimen necesarias para ilustrar su juicio en el despacho de los negocios.
 
-Queda obligado todo servidor público a proporcionar la información en un plazo no mayor a treinta días naturales, y si la misma no fuere remitida, la Comisión respectiva podrá emitir acuerdo de queja que se remitirá a la brevedad al Poder Ejecutivo por conducto de la Presidencia del Congreso, para efectos de ley.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2019)</small>
+
+Queda obligado todo servidor público a proporcionar la información en un plazo no mayor a veinte días naturales, y si la misma no fuere remitida, la Comisión respectiva podrá emitir acuerdo de queja que se remitirá a la brevedad al Poder Ejecutivo por conducto de la Presidencia del Congreso, para efectos de Ley.
 
 A las reuniones de Comisión, previo acuerdo, se podrá invitar a personas o representantes de organismos públicos, privados, sociales y académicos a que participen en la discusión de los asuntos.
 
@@ -861,9 +863,9 @@ IX. Desarrollo Urbano, Obra Pública y Vivienda;
 
 X. Educación;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2019)</small>
 
-XI. Igualdad de Género;
+XI. Igualdad Sustantiva y de Género;
 
 XII. Fortalecimiento Municipal y Límites Territoriales;
 
@@ -1223,45 +1225,45 @@ VII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, s
 
 VIII. Emitir convocatoria pública para el otorgamiento de la Medalla Michoacán al Mérito Docente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 77.
 
-Corresponde a la Comisión de Igualdad de Género, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+Corresponde a la Comisión de Igualdad Sustantiva y de Género, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2019)</small>
 
-I. Las propuestas tendientes a garantizar la igualdad entre la mujer y el hombre en la sociedad, así como aquellas que tengan por objeto garantizar la tolerancia y evitar la discriminación;
+I. Las propuestas tendientes a garantizar la igualdad sustantiva entre la mujer y el hombre en la sociedad, así como aquellas que tengan por objeto garantizar la tolerancia y evitar la discriminación;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2019)</small>
 
-II. Las propuestas y medidas legislativas para dar cumplimiento a los acuerdos, convenios y convenciones internacionales suscritos y ratificados por México en materia de apoyo a la mujer, a la igualdad de género;
+II. Las propuestas y medidas legislativas para dar cumplimiento a los acuerdos, convenios y convenciones internacionales suscritos y ratificados por México en materia de apoyo a la mujer, a la igualdad sustantiva de género;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2019)</small>
 
-III. Elaborar una agenda parlamentaria que promueva iniciativas y proyectos para la igualdad de género y de manera sustancial los tendientes a erradicar cualquier forma de discriminación y violencia contra las mujeres;
+III. Elaborar una agenda parlamentaria que promueva iniciativas y proyectos para la igualdad sustantiva de género y de manera sustancial los tendientes a erradicar cualquier forma de discriminación y violencia contra las mujeres;
 
 IV. Crear espacios de diálogo, así como de intercambio parlamentario con las instancias gubernamentales, académicas, organizaciones de la sociedad civil, entre otros, con el propósito de intercambiar conocimientos, experiencias y buenas prácticas que ayuden al avance de las mujeres;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2019)</small>
 
-V. Promover la cultura de igualdad de género, mediante acciones que se vinculen con las actividades de los sectores público, privado y social;
+V. Promover la cultura de igualdad sustantiva de género, mediante acciones que se vinculen con las actividades de los sectores público, privado y social;
 
 VI. Promover las medidas de acción positiva que garantice la igualdad sustantiva entre mujeres y hombres en los ámbitos públicos y privados;
 
 VII. Apoyar, cuando se le solicite, a las demás Comisiones en lo relativo a evitar el lenguaje sexista en los proyectos legislativos;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2019)</small>
 
-VIII. Dictaminar, en unión con las comisiones legislativas respectivas, sobre la Legislación, así como su reforma, modificación o adición, que se relacione con la igualdad de género;
+VIII. Dictaminar, en unión con las comisiones legislativas respectivas, sobre la Legislación, así como su reforma, modificación o adición, que se relacione con la problemática de género;
 
 IX. La atención de asuntos relativos a la discriminación o maltrato de la mujer, por razón de raza, edad, ideología política, creencia religiosa, preferencias o situación socioeconómica, entre otros;
 
 X. Participar, en representación del Congreso del Estado, cuando así corresponda en los organismos públicos o sociales que atiendan la problemática de género;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2019)</small>
 
-XI. Igualdad de Género;
+XI. Igualdad sustantiva y de género;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2018)</small>
 
@@ -1465,13 +1467,13 @@ II. Los que se refieren a la Legislación Civil, Penal y Administrativa;
 
 III. Las iniciativas relacionadas con la organización y estructura del Poder Judicial;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2019)</small>
 
-IV. Evaluar y dictaminar el informe anual que rinda el Procurador General de Justicia del Estado;
+IV. Evaluar y dictaminar el informe anual que rinda el Fiscal General del Estado;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2019)</small>
 
-V. Observar el desempeño de los integrantes de la Procuraduría General de Justicia del Estado y opinar lo que corresponda, así como solicitar al Pleno del Congreso del Estado, la comparecencia de su titular;
+V. Observar el desempeño de los integrantes de la Fiscalía General del Estado y opinar lo que corresponda, así como solicitar al Pleno del Congreso del Estado, la comparecencia de su titular;
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
 
@@ -1479,9 +1481,7 @@ VI. La elección de los integrantes del Consejo del Poder Judicial, así como, l
 
 VII. Los relacionados con la procuración e impartición de justicia;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
-
-VIII. Lo referente a la ratificación del Procurador General de Justicia del Estado; y,
+VIII. (DEROGADA, P.O. 6 DE AGOSTO DE 2019)
 
 IX. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
@@ -1757,7 +1757,9 @@ V. Presentar al Pleno para su conocimiento el proyecto de inversión del Fondo p
 
 VI. Supervisar el ejercicio del Presupuesto de Egresos del Poder Legislativo aprobado;
 
-VII. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2012)
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2019)</small>
+
+VII. Requerir a la Secretaría de Administración y Finanzas, el informe trimestral cuando haya rebasado la fecha límite de su entrega;
 
 VIII. Rendir informe trimestral al Pleno con los estados financieros sobre el ejercicio del presupuesto del Poder Legislativo;
 
@@ -2065,9 +2067,13 @@ V. Proponer a la Comisión de Régimen Interno y Prácticas Parlamentarias las d
 
 VI. Realizar estudios de carácter administrativo y financiero del Congreso del Estado;
 
-VII. Cumplimentar los requerimientos de la Contraloría Interna; y,
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2019)</small>
 
-VIII. Cumplir las demás funciones que le confieren esta Ley y los ordenamientos relativos a la actividad administrativa y financiera.
+VII. Elaborar el informe trimestral sobre el ejercicio del presupuesto del Poder Legislativo y entregarlo al Comité de Administración y Control, dentro de los quince días posteriores de concluido el trimestre;
+
+VIII. Cumplimentar los requerimientos de la Contraloría Interna; y,
+
+IX. Cumplir las demás funciones que le confieren esta Ley y los ordenamientos relativos a la actividad administrativa y financiera.
 
 ### CAPÍTULO CUARTO. DE LA CONTRALORÍA INTERNA
 
@@ -2187,9 +2193,17 @@ I. Un Director;
 
 II. Un Consejo Académico;
 
-III. Un Secretario Académico; y,
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2019)</small>
 
-IV. Investigadores.
+III. Un Secretario Académico;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2019)</small>
+
+IV. Investigadores; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE AGOSTO DE 2019)</small>
+
+V. Dos investigadoras especialistas en igualdad de género.
 
 ###### ARTÍCULO 121.
 
@@ -2250,6 +2264,18 @@ V. Cualquier forma de invitación que determine el Consejo Académico, previa au
 ###### ARTÍCULO 126.
 
 Son investigadores externos quienes laborando en otras instituciones o tengan experiencia en la investigación realicen trabajos académicos para el Congreso solicitados por el Consejo Académico del Instituto previa autorización de la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 126 BIS. Las dos investigadoras especialistas en igualdad de género conformarán la Unidad de Igualdad de Género y podrán ser titulares, adjuntas, invitadas o externas, de acuerdo a las necesidades y organización interna que disponga el Instituto de Investigaciones y Estudios Legislativos. Se especializarán en la elaboración de estudios, análisis, investigaciones y publicaciones con perspectiva de género, como insumo de la consolidación del proceso de implementación de la transversalidad de la perspectiva de género en el quehacer legislativo y en la totalidad del trabajo administrativo del Congreso. Entre sus funciones se encuentran:
+
+I. Plantear la estandarización conforme a los Instrumentos internacionales en materia de derechos humanos de las mujeres de todos los procedimientos y actuaciones administrativas y laborales;
+
+II. Promover la formación y capacitación del personal con relación al alcance y significado del principio de igualdad, mediante la formulación de propuestas de acciones formativas;
+
+III. Asesorar en el planteamiento de las reformas necesarias a los instrumentos normativos internos a fin de incorporarle la perspectiva de género y de derechos humanos; y,
+
+IV. Promover el cumplimiento de los principios contenidos en la Ley por una Vida Libre de Violencia para las Mujeres y la Ley para la Igualdad entre Mujeres y Hombres, ambas del Estado de Michoacán.
 
 ###### ARTÍCULO 127.
 
@@ -4049,10 +4075,44 @@ P.O. 30 DE OCTUBRE DE 2018.
 
 P.O. 16 DE ABRIL DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 127 POR EL QUE “SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 7, EL PRIMER PÁRRAFO DEL ARTÍCULO 26, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 66, LA FRACCIÓN III DEL ARTÍCULO 99, EL PRIMER PÁRRAFO DEL ARTÍCULO 116, EL PRIMER PÁRRAFO DEL ARTÍCULO 212, EL PRIMER PÁRRAFO DEL ARTÍCULO 227, EL TERCER PÁRRAFO DEL ARTÍCULO 235, LA FRACCIÓN II DEL ARTÍCULO 236, LAS FRACCIONES III, V Y VI DEL ARTÍCULO 236 BIS, LAS FRACCIONES I Y II DEL ARTÍCULO 241, EL PRIMER PÁRRAFO DEL ARTÍCULO 247, EL ARTÍCULO 249, EL PRIMER PÁRRAFO DEL ARTÍCULO 250; SE ADICIONA UNA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 7, UNA FRACCIÓN IV, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 99, UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES AL ARTICULO 251, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 265; Y, SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 111, TODOS DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 127 POR EL QUE “SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 7, EL PRIMER PÁRRAFO DEL ARTÍCULO 26, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 66, LA FRACCIÓN III DEL ARTÍCULO 99, EL PRIMER PÁRRAFO DEL ARTÍCULO 116, EL PRIMER PÁRRAFO DEL ARTÍCULO 212, EL PRIMER PÁRRAFO DEL ARTÍCULO 227, EL TERCER PÁRRAFO DEL ARTÍCULO 235, LA FRACCIÓN II DEL ARTÍCULO 236, LAS FRACCIONES III, V Y VI DEL ARTÍCULO 236 BIS, LAS FRACCIONES I Y II DEL ARTÍCULO 241, EL PRIMER PÁRRAFO DEL ARTÍCULO 247, EL ARTÍCULO 249, EL PRIMER PÁRRAFO DEL ARTÍCULO 250; SE ADICIONA UNA FRACCIÓN X, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 7, UNA FRACCIÓN IV, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 99, UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES AL ARTÍCULO 251, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 265; Y, SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 111, TODOS DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
 
 TERCERO. El Congreso del Estado, dispondrá lo conducente a efecto de realizar las modificaciones reglamentarias conforme a lo dispuesto en el presente Decreto.
+
+P.O. 6 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 160 POR EL QUE “SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 62; EL PRIMER PÁRRAFO DEL ARTÍCULO 77 Y SUS FRACCIONES I, II, III, V, VIII Y XI, TODOS DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo, en términos del segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+Todos los asuntos turnados a la actual Comisión de Igualdad de Género, se entenderán remitidos a la Comisión de Igualdad Sustantiva y de Género.
+
+P.O. 6 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 161.- SE REFORMA EL ARTÍCULO 120 Y SE ADICIONA EL ARTÍCULO 126 BIS DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al momento de su aprobación. Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 6 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 162 POR EL QUE “SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 58 Y LAS FRACCIONES IV Y V DEL ARTÍCULO 85; SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 100 Y LA FRACCIÓN VII, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, AL ARTÍCULO 112; SE DEROGA LA FRACCIÓN VIII DEL ARTÍCULO 85; DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo, en términos del segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
