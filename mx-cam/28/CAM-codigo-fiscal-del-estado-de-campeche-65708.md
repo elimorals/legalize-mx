@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-del-estado-de-campeche-65708"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-08"
-last_updated: "2018-06-15"
+last_updated: "2019-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2019.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Campeche, el lunes 8 de diciembre de 2008.
 
@@ -397,7 +397,7 @@ El monto de las contribuciones, aprovechamientos, así como de las devoluciones 
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
-El índice nacional de precios al consumidor será el que publique el Instituto Nacional de Estadística y Geografía en el Diario Oficial de la Federación y calculado en los términos del artículo 20 Bis del Código Fiscal de la Federación. En los casos en que el índice correspondiente al mes anterior al más reciente del periodo, no haya sido publicado, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+El índice nacional de precios al consumidor será el que publique el Instituto Nacional de Estadística y Geografía en el Diario Oficial de la Federación y calculado en los términos del artículo 20 Bis del Código Fiscal de la Federación. En los casos en que el índice correspondiente al mes anterior al más reciente del (sic) periodo, no haya sido publicado, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
 Los valores de bienes u operaciones se actualizarán de acuerdo con lo dispuesto por este artículo, cuando las leyes fiscales así lo establezcan. Las disposiciones señalarán en cada caso el período de que se trate.
 
@@ -695,7 +695,7 @@ Las autoridades fiscales podrán compensar de oficio las cantidades que los cont
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2018)</small>
 
-Artículo 37 bis.- Los contribuyentes obligados a pagar mediante declaración periódica podrán acreditar el importe de los estímulos fiscales a que tengan derecho, contra las cantidades que están obligados a pagar, siempre que presenten aviso ante las autoridades competentes en materia de estímulos fiscales y, en su caso, cumplan con los demás requisitos formales que se establezcan en las disposiciones que otorguen los estímulos.
+Artículo 37 bis. - Los contribuyentes obligados a pagar mediante declaración periódica podrán acreditar el importe de los estímulos fiscales a que tengan derecho, contra las cantidades que están obligados a pagar, siempre que presenten aviso ante las autoridades competentes en materia de estímulos fiscales y, en su caso, cumplan con los demás requisitos formales que se establezcan en las disposiciones que otorguen los estímulos.
 
 Los contribuyentes podrán acreditar el importe de los estímulos a que tengan derecho, a más tardar en un plazo de cinco años contados a partir del último día en que venza el plazo para presentar la declaración del periodo en que nació el derecho a obtener el estímulo; si el contribuyente no tiene obligación de presentar declaración del periodo, el plazo contará a partir del día siguiente a aquél en que nazca el derecho a obtener el estímulo.
 
@@ -1129,7 +1129,7 @@ V. Practicar u ordenar se practique avalúo o verificación física de toda clas
 
 VI. Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones; y
 
-VII. Allegarse de los datos para formular la denuncia o querella ante el Ministerio Público para que ejercite la acción penal por la comisión de hechos que constituyen delitos fiscales. Las actuaciones que practiquen las autoridades fiscales tendrán el valor probatorio que les otorgue la legislación penal vigente, y el Servicio de Administración Fiscal del Estado de Campeche será coadyuvante del Ministerio Público Estatal.
+VII. (DEROGADA), P.O. 6 DE AGOSTO DE 2019)
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
@@ -1179,11 +1179,11 @@ V. En el caso en que no hayan solicitado su inscripción en el registro estatal 
 
 La determinación presuntiva realizada por la autoridad fiscal de conformidad con las fracciones anteriores, procederá independientemente de las sanciones a que haya lugar.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2019)</small>
 
 Artículo 63 bis.- Para los efectos de la determinación presuntiva de la base gravable para el pago de las contribuciones a cargo de los contribuyentes, las autoridades fiscales podrán basarse en los elementos siguientes:
 
-I. Los contenidos en la contabilidad del contribuyente,
+I. Los contenidos en la contabilidad del contribuyente;
 
 II. Los contenidos en las declaraciones correspondientes a cualquier contribución, con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación;
 
@@ -1192,22 +1192,6 @@ III. La información proporcionada por terceros a solicitud de las autoridades f
 IV. Cualquier otra información obtenida por la autoridad fiscal en el ejercicio de sus facultades de comprobación; y
 
 V. Los medios indirectos de investigación económica o de cualquier otra clase.
-
-Para practicar la determinación presuntiva a que se refiere este artículo, se tendrá en cuenta lo siguiente:
-
-a) Las erogaciones realizadas, declaradas en los últimos doce meses;
-
-b) Las manifestaciones presentadas por concepto de Impuesto sobre la Renta o sobre Productos del Trabajo, que correspondan a los últimos doce meses;
-
-c) La información contenida en los dictámenes que para efectos fiscales hubieren presentado los contribuyentes conforme a las disposiciones fiscales federales;
-
-d) Los hechos que conozcan las autoridades fiscales con motivo del ejercicio de sus facultades de comprobación previstas en este Código, o bien que consten en los expedientes o documentos que lleven o tengan en su poder, así como aquellos proporcionados por otras autoridades del nivel federal, estatal o municipal;
-
-e) Las actividades realizadas por el contribuyente y otros datos que puedan utilizarse, obtenidos a través de las facultades de comprobación de la autoridad fiscal;
-
-f) Las cantidades que resulten de aplicar la tasa del impuesto sobre nóminas sobre el salario de cotización de cada uno de los trabajadores manifestado por el patrón al Instituto Mexicano del Seguro Social; y
-
-g) En el caso de que el patrón no haya efectuado el pago de cotizaciones por sus trabajadores al Instituto Mexicano del Seguro Social, se considerará que el impuesto sobre nóminas omitido asciende al importe que resulte de aplicar la tasa del impuesto sobre nóminas sobre una cantidad equivalente a cinco Unidades de Medida y Actualización elevado al período que se revisa, por cada trabajador a su servicio.
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2018)</small>
 
@@ -1721,19 +1705,29 @@ III. Incumplir el pago de las obligaciones fiscales, como consecuencia de inexac
 
 ### CAPÍTULO V. De las Infracciones y Sanciones Relacionadas con la Obligación de Llevar Contabilidad
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 92.
 
-Son infracciones relacionadas con la obligación del pago de las contribuciones las que a continuación se indican, y les corresponderá la sanción que en cada caso se señala:
+Son infracciones relacionadas con la obligación de llevar la contabilidad, las que a continuación se indican, y les corresponderá la sanción que en cada caso se señala:
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2018)</small>
 
 I. No llevar contabilidad en los términos que requieran las disposiciones fiscales, llevarla en forma distinta o en lugar distinto al señalado en dichas disposiciones: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2018)</small>
+
 II. No llevar algún libro a que obliguen las disposiciones fiscales estatales; no hacer los asientos correspondientes a las operaciones efectuadas o hacerlos incompletos, inexactos o fuera de los plazos respectivos: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2018)</small>
 
 III. Destruir, inutilizar o no conservar la contabilidad, por el plazo que establezcan las disposiciones fiscales: multa de 50 hasta 500 veces el valor diario de la Unidad de Medida y Actualización;
 
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2018)</small>
+
 IV. No realizar los registros correspondientes a las operaciones efectuadas, hacerlos incompletos, inexactos o fuera de los plazos respectivos: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2018)</small>
 
 V. No expedir los comprobantes cuando las disposiciones fiscales lo establezcan: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización.
 
@@ -3127,7 +3121,9 @@ procedimiento, deberá cumplirse en un plazo de tres meses, contados a partir de
 
 Para proceder penalmente por los delitos fiscales previstos en este Capítulo será necesario que previamente el Servicio de Administración Fiscal del Estado de Campeche formule querella.
 
-Los procesos por los delitos fiscales se sobreseerán a petición del Servicio de Administración Fiscal del Estado de Campeche, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción del propio Servicio de Administración Fiscal del Estado de Campeche. La petición anterior se hará discrecionalmente antes de que el Ministerio Público formule alegatos de clausura y surtirá efectos respecto de las personas a que la misma se refiera.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2019)</small>
+
+Los procesos por los delitos fiscales se sobreseerán a petición del Servicio de Administración Fiscal del Estado de Campeche, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción del propio Servicio de Administración Fiscal del Estado de Campeche. La petición anterior se hará discrecionalmente antes de que el Ministerio Público formule alegatos de clausura y surtirá efectos respecto de las personas a que la misma se refiera. El Servicio de Administración Fiscal del Estado de Campeche, con el fin de formular ante el Ministerio Público el requisito de procedibilidad que corresponda, podrá allegarse de los datos necesarios para documentar hechos probablemente constitutivos de delitos fiscales.
 
 En los delitos fiscales en que el daño o el perjuicio sea cuantificable, el Servicio de Administración Fiscal del Estado de Campeche, hará la cuantificación correspondiente en la propia denuncia o querella. La citada cuantificación sólo surtirá efectos en el procedimiento penal.
 
@@ -3452,3 +3448,13 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- En un plazo no mayor a 90 días posteriores a la entrada en vigor del presente decreto, deberá adecuarse la Ley para el Fomento de las Actividades Económicas y Empresariales en el Estado de Campeche y la demás legislación estatal que corresponda.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
+
+P.O. 6 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE “SE DEROGA LA FRACCIÓN VII DEL ARTÍCULO 61 Y SE REFORMAN LOS ARTÍCULOS 63 BIS; EL PÁRRAFO PRIMERO DEL ARTÍCULO 92 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 215 TODOS DEL CÓDIGO FISCAL DEL ESTADO DE CAMPECHE”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+Tercero. Se autoriza a la Secretaría de Finanzas con el propósito de que lleve a cabo las adecuaciones al presupuesto del Poder Ejecutivo a efecto de que cubra los montos que correspondan al ejercicio fiscal 2019 de los contratos plurianuales a que hacen referencia los párrafos segundo y tercero del artículo 25 de la Ley de Presupuesto de Egresos del Estado de Campeche para el ejercicio fiscal 2019.
