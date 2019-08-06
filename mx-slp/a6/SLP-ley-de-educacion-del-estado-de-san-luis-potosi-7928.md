@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2019-04-12"
+last_updated: "2019-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -151,11 +151,11 @@ V.- Infundir el conocimiento y práctica de la democracia como la forma de gobie
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-VI. Promover el valor de la justicia, de la observancia de la ley, y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la inclusión y no discriminación, de la paz y la no violencia en cualquier tipo de sus manifestaciones; de la equidad de género; y de la riqueza multicultural y pluriétnica de la nación; así como propiciar el conocimiento de los derechos humanos, y el respeto a los mismos;
+VI.- Promover el valor de la justicia, de la observancia de la ley, y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la inclusión y no discriminación, de la paz y la no violencia en cualquier tipo de sus manifestaciones; de la equidad de género; y de la riqueza multicultural y pluriétnica de la nación; así como propiciar el conocimiento de los derechos humanos, y el respeto a los mismos;
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-VI Bis. Fomentar la valoración de la diversidad y la cultura de inclusión como condiciones para el enriquecimiento social y cultural;
+VI Bis.- Fomentar la valoración de la diversidad y la cultura de inclusión como condiciones para el enriquecimiento social y cultural;
 
 VII.- Fomentar actitudes que estimulen la investigación y la innovación científica y tecnológica;
 
@@ -171,9 +171,9 @@ X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia so
 
 XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sostenible, la prevención del cambio climático, así como de la valoración de la protección y conservación del ambiente, como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representan el cambio climático y otros fenómenos naturales;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2019)</small>
 
-XII.- Fomentar actitudes solidarias y positivas hacia el trabajo, la productividad, el ahorro y el bienestar general; así como la cultura emprendedora;
+XII.- Fomentar actitudes solidarias y positivas hacia el trabajo, la productividad, el ahorro y el bienestar general; e incluir en las acciones que implemente la Secretaría de Educación, los temas de habilidades que fomenten la creatividad, la planeación y la actitud emprendedora desde la educación básica;
 
 > <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
 
@@ -2498,3 +2498,11 @@ P.O. 12 DE ABRIL DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis“.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0225.- SE REFORMA EL ARTÍCULO 9° DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
