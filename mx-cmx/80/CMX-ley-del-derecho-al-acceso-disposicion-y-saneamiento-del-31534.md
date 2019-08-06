@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-derecho-al-acceso-disposicion-y-saneamiento-del-31534"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2019-07-04"
+last_updated: "2019-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31534&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2003-05-09"
 ---
 # LEY DEL DERECHO AL ACCESO, DISPOSICION Y SANEAMIENTO DEL AGUA DE LA CIUDAD DE MEXICO -- ANTES LEY DEL DERECHO A LOS SERVICIOS PUBLICOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO Y TECNOLOGIA HIDRICA DE LA CIUDAD DE MEXICO -- ANTES LEY DE AGUAS DEL DISTRITO FEDERAL --
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE AGOSTO DE 2019 EN G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL DERECHO AL ACCESO, DISPOSICIÓN Y SANEAMIENTO DEL AGUA DE LA CIUDAD DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE JULIO DE 2019.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.O. EL 6 DE AGOSTO DE 2019 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN LA G.O. DE 4 DE JULIO DE 2019.]</small>
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2003.
 
@@ -592,7 +592,7 @@ I. Promover la cultura, educación y capacitación ambientales, así como la par
 
 II. Armonizar las políticas de ordenamiento territorial y ecológico con el manejo integral de los recursos hídricos, identificando áreas apropiadas para la ubicación de infraestructura para su manejo;
 
-III. Fomentar el desarrollo (sic) uso de tecnologías, métodos, prácticas y procesos de producción y comercialización que favorezcan un manejo integral y sustentable de los recursos hídricos;
+III. Fomentar el desarrollo uso de tecnologías, métodos, prácticas y procesos de producción y comercialización que favorezcan un manejo integral y sustentable de los recursos hídricos;
 
 IV. Proyectar acciones y obras tendientes al mejoramiento y ampliación de la infraestructura hidráulica en el Distrito Federal con base en indicadores de sustentabilidad;
 
@@ -2239,3 +2239,9 @@ G.O. 4 DE JULIO DE 2019.
 PRIMERO.- Túrnese a la Jefa de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 6 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DE LA “FE DE ERRATAS AL DECRETO QUE MODIFICA LOS ARTÍCULOS 4 FRACCIÓN XIX; 11 FRACCIONES II Y VII; 12 Y 13 DE LA LEY DE (SIC) DERECHO AL ACCESO, DISPOSICIÓN Y SANEAMIENTO DEL AGUA DE LA CIUDAD DE MÉXICO, PUBLICADO EN EL NÚMERO 127 BIS, DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DE FECHA 4 DE JULIO DE 2019”.]
+
+Único.- Publíquese en la Gaceta Oficial de la Ciudad de México.
