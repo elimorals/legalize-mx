@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-sistema-de-coordinacion-fiscal-del-estado-de-125262"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2019-01-31"
+last_updated: "2019-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DEL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2019.
 
 Ley publicada en la Segunda Sección al Número 592 del Periódico Oficial de Campeche, el miércoles 27 de diciembre de 2017.
 
@@ -215,17 +215,53 @@ a) Daño al entorno social derivado de las actividades de exploración y extracc
 
 b) Daño al entorno ecológico derivado de las actividades de exploración y extracción de hidrocarburos.- Pérdida, cambio, deterioro, menoscabo, afectación o modificación adversos y mensurable del hábitat, de los ecosistemas, de los elementos y recursos naturales, de sus condiciones químicas, físicas o biológicas, de las relaciones de interacción que se dan entre éstos, así como de los servicios ambientales que proporcionan, derivado de las actividades de exploración y extracción de hidrocarburos.
 
-2.- La distribución a los Municipios será de la siguiente forma:
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 6 DE AGOSTO DE 2019)</small>
 
-a) El 70% en proporción directa al número de habitantes que tenga el Municipio que registre los daños al entorno social y ecológico derivado de las actividades de exploración y extracción de hidrocarburos;
+2. La distribución a los municipios será de conformidad con la siguiente fórmula:
 
-b) El 15% en la proporción que representen los daños al entorno social que registre; y
+1. El 15% en la proporción que representen los daños al entorno social que registre;
 
-c) El 15% en la proporción que representen los daños al entorno ecológico que registre.
+2. El 15% en la proporción que representen los daños al entorno ecológico que registre; y
+
+3. El 70% en proporción directa al número de habitantes que tenga el municipio que registre los daños al entorno social y ecológico derivado de las actividades de exploración y extracción de hidrocarburos.
+
+I.- DAÑOS AL ENTORNO SOCIAL:
+
+Se aplica el 15% en la proporción que representen los daños al entorno social; considerando las siguientes variables:
+
+1. Número de delitos por Municipio, de acuerdo a la última información oficial disponible (INEGI);
+
+2. Número de personas dedicadas a la actividad de Pesca por Municipio, de acuerdo a la última información oficial disponible (Censos Económicos, INEGI);
+
+3. Número de personas por Municipio con carencia de acceso a servicios básicos, de acuerdo a la última información oficial disponible (medición de la Pobreza por Municipio, Consejo Nacional para la Evaluación de la Política Social).
+
+Cada una de estas variables tendrán la ponderación que se muestra en la siguiente fórmula para la determinación del Factor Social para la distribución de los recursos del Fondo:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 6 DE AGOSTO DE 2019, PÁGINA 8.]</small>
+
+II. DAÑOS AL ENTORNO ECOLÓGICO:
+
+Se aplica el 15% en la proporción que representen los daños al entorno ecológico que registre, mediante la siguiente fórmula:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 6 DE AGOSTO DE 2019, PÁGINA 8.]</small>
+
+III. NÚMERO DE HABITANTES DE LOS MUNICIPIOS QUE REGISTREN DAÑOS AL ENTORNO SOCIAL Y ECOLÓGICO, DERIVADO DE LAS ACTIVIDADES DE EXPLORACIÓN Y EXTRACCIÓN DE HIDROCARBUROS.
+
+a) La fórmula para la determinación del 70% en proporción directa al número de habitantes que tenga el Municipio que registre los daños al entorno social y ecológico derivado de las actividades de exploración y extracción de hidrocarburos, es la siguiente:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 6 DE AGOSTO DE 2019, PÁGINA 9.]</small>
+
+b) La fórmula para la determinación del 15 % en la proporción que representen los daños al entorno social que registre, es la siguiente:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 6 DE AGOSTO DE 2019, PÁGINA 9.]</small>
+
+c) La fórmula para la determinación del 15 % en la proporción que representen los daños al entorno ecológico que registre, es la siguiente:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN LA SEGUNDA SECCIÓN DEL P.O. DE 6 DE AGOSTO DE 2019, PÁGINA 9.]</small>
 
 3.- La Secretaría publicará anualmente en el POE, durante el mes de enero, la composición por Municipio de las variables establecidas en el apartado anterior, con base en la información que para ello le proporcione de manera tripartita, el Instituto de Información Estadística, Geográfica y Catastral del Estado de Campeche, la Secretaría de Medio Ambiente y Recursos Naturales y, la Secretaría de Desarrollo Social y Humano, sujetándose a lo siguiente:
 
-a) Para la medición de los daños al entorno social y ecológico deberá tomarse en cuenta los indicadores de medición establecidos por el INEGI, en los temas de “Medio Ambiente” y “Asentamientos Humanos y Actividades Humanas” según estos sean modificados de tiempo en tiempo o aquellos que los sustituyan, derivado de las actividades de exploración y extracción de hidrocarburos.
+a) Para la medición de los daños al entorno social y ecológico deberá tomarse en cuenta los indicadores de medición establecidos por el INEGI, en los temas de "Medio Ambiente" y "Asentamientos Humanos y Actividades Humanas" según estos sean modificados de tiempo en tiempo o aquellos que los sustituyan, derivado de las actividades de exploración y extracción de hidrocarburos.
 
 b) Cuando no se conozcan los precitados indicadores de medición que emite el INEGI, las precitadas instancias estatales podrán proceder conforme a las disposiciones jurídicas aplicables a la medición a través de los indicadores y sistemas que demuestren los daños al entorno social y ecológico, derivado de las actividades de exploración y extracción de hidrocarburos.
 
@@ -255,7 +291,15 @@ La Secretaría calculará y entregará provisionalmente a los Municipios, con pe
 
 En los términos del penúltimo párrafo del artículo 6 de la Ley de Coordinación Fiscal, el Estado a través de la Secretaria deberá publicar en el POE el Calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como los montos estimados de las Participaciones que el Estado reciba y de las que tenga obligación de participar a sus Municipios para el ejercicio fiscal, a más tardar el día 15 de febrero. Asimismo, deberá publicar trimestralmente en el POE, así como en la página oficial de internet del Estado, el importe de las Participaciones entregadas y en su caso, el ajuste realizado al término de cada ejercicio fiscal. Asimismo, aplicará para estos efectos lo dispuesto en el Acuerdo 02/2014 por el que se expiden los Lineamientos para la publicación de la información a que se refiere el artículo 6o. de la Ley de Coordinación Fiscal.
 
-Cuando durante el ejercicio fiscal se actualice la información con que se calculan los coeficientes de cada fórmula, la Secretaría realizará los ajustes correspondientes a las participaciones pagadas, debiendo publicar en el POE los datos y fórmulas en el informe trimestral. Para estos efectos, cuando los Municipios presenten al H. Congreso del Estado sus cuentas públicas deberán entregar un ejemplar en versión impresa y en medio electrónico a la Secretaría.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2019)</small>
+
+Cuando durante el ejercicio fiscal se actualice la información con que se calculan los coeficientes de cada fórmula, la Secretaría realizará los ajustes correspondientes a las participaciones pagadas, debiendo publicar en el Periódico Oficial del Estado los datos, fórmulas y variables utilizadas, a más tardar el día 15 del mes siguiente a aquél en que se termine el segundo trimestre.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 15 BIS.- Se autoriza al Ejecutivo del Estado por conducto de la Secretaría, para que celebre en representación del Estado, Convenios de Coordinación en Gasto Público con los Municipios para cubrir necesidades a corto plazo, entendiendo dichas necesidades, como insuficiencias de liquidez de carácter temporal. Los Convenios de Coordinación en Gasto Público se realizarán a través de mecanismos de adelanto de participaciones de cada Municipio y condicionado a que exista disponibilidad financiera por parte del Estado. El adelanto de participaciones estará también condicionado a que el Municipio, a través de su H. Cabildo, otorgue su consentimiento para la afectación de sus participaciones para el reintegro de los recursos adelantados, con su respectivo costo de actualización, en términos de la legislación fiscal, debiendo fijarse un plazo no mayor a 11 meses contados a partir de la fecha del otorgamiento del adelanto y sin exceder el ejercicio fiscal.
+
+En el caso de que el adelanto se otorgue en el año de conclusión de la administración pública municipal, el adelanto con su actualización deberán ser cubiertos en su totalidad 3 meses antes de la conclusión de la administración municipal que corresponda.
 
 ###### ARTÍCULO 16.
 
@@ -269,6 +313,8 @@ La liquidación y el cálculo definitivo de los Fondos a distribuir a los Munici
 
 Para efectos de la aplicación de las fórmulas de distribución de los Fondos señalados en este capítulo, se utilizarán los datos más recientes de población de los Municipios del Estado de Campeche que haya publicado el INEGI.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 18.
 
 Las cuentas públicas que los Municipios presenten al H. Congreso del Estado, además de los requisitos que deban contener conforme a la Ley General de Contabilidad Gubernamental y la Ley de Disciplina Financiera, así como otras disposiciones generales que le sean aplicables, deberán contener un apartado en que se considere lo siguientes:
@@ -281,11 +327,13 @@ Los precitados montos deberán ser desglosados por su recaudación mensual, conf
 
 Será obligación de los Municipios incluir esta información en su cuenta pública. El incumplimiento a esta disposición dará lugar a las sanciones correspondientes. La Auditoría Superior del Estado vigilará el cumplimiento de esta disposición, sin perjuicio de las facultades que correspondan a otras instancias de fiscalización.
 
-Del mismo modo, los Municipios deberán publicar estos Anexos 1, 2, 3 y 4 con la información requerida en sus páginas oficiales de internet, así como en el POE dentro de los 30 días naturales siguientes a la conclusión del ejercicio fiscal respectivo. La Secretaría publicará en el POE la lista de los Municipios que, derivado de la revisión de la información, se observe que incumplieron con esta obligación.
+Del mismo modo, los Municipios deberán publicar estos Anexos 1, 2, 3 y 4 con la información requerida en sus páginas oficiales de internet, así como en el Periódico Oficial del Estado dentro de los 30 días naturales siguientes a la presentación de su cuenta pública al Congreso del Estado de conformidad con la fracción XXII del artículo 54 de la Constitución Política del Estado de Campeche. La Secretaría publicará en el Periódico Oficial del Estado la lista de los Municipios que, derivado de la revisión de la información, se observe que incumplieron con esta obligación.
 
 En caso de que el Municipio no remita la información que deba contener los Anexos 1, 2, 3 y 4 de esta Ley, la Secretaría estimará la recaudación y procederá a calcular y liquidar sus Participaciones con base a la última estimación con la que cuente, sin responsabilidad para la Secretaría.
 
 Con independencia de lo anterior, durante la primera quincena de cada mes, los Municipios deberán proporcionar a la Secretaría copia del informe mensual de la recaudación captada en el mes anterior enviado al H. Congreso del Estado.
+
+Cuando los Municipios presenten al H. Congreso del Estado sus cuentas públicas dentro del plazo establecido en el artículo 54 de la Constitución Política del Estado de Campeche, deberán entregar un ejemplar grabado en medio electrónico a la Secretaría, para los efectos de la actualización de la información a que se refiere el artículo 15 de esta Ley.
 
 ###### ARTÍCULO 19.
 
@@ -602,3 +650,13 @@ P.O. 16 DE AGOSTO DE 2018.
 P.O. 31 DE ENERO DE 2019.
 
 > <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.]</small>
+
+P.O. 6 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 72 POR EL QUE SE "REFORMAN EL NUMERAL 2 DE LA FRACCIÓN II DEL ARTÍCULO 11; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 15 Y EL ARTÍCULO 18 Y, SE ADICIONA UN ARTÍCULO 15 BIS A LA LEY DEL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO DE CAMPECHE".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+Tercero. Se autoriza a la Secretaría de Finanzas con el propósito de que lleve a cabo las adecuaciones al presupuesto del Poder Ejecutivo a efecto de que cubra los montos que correspondan al ejercicio fiscal 2019 de los contratos plurianuales a que hacen referencia los párrafos segundo y tercero del artículo 25 de la Ley de Presupuesto de Egresos del Estado de Campeche para el ejercicio fiscal 2019.
