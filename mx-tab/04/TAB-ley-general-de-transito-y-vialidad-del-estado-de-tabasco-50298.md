@@ -4,7 +4,7 @@ identifier: "TAB-ley-general-de-transito-y-vialidad-del-estado-de-tabasco-50298"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-03-29"
-last_updated: "2017-07-05"
+last_updated: "2019-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 29 de marzo de 2006.
 
@@ -67,6 +67,14 @@ III. Peatón: Toda persona que transita a pie por la vía pública;
 
 IV. Prescripción: Extinción de una acción o sanción por el efecto del paso del tiempo;
 
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2019)</small>
+
+IV bis. Registro Estatal de Vehículos: El establecido en el artículo 81 de la Ley de Hacienda del Estado de Tabasco;
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2019)</small>
+
+IV ter. REPUVE: El Registro establecido en la Ley del Registro Público Vehicular;
+
 V. Sanción: Pena corporal, administrativa o pecuniaria aplicada por actos u omisiones que infrinjan la normatividad en materia de tránsito y vialidad;
 
 VI. Tránsito.- Es la acción o efecto de trasladarse por la vía pública;
@@ -77,7 +85,15 @@ VIII. Vía pública: Todo espacio de uso común destinado al tránsito, entre lo
 
 IX. Vialidad: Es el sistema de vías públicas utilizado para el tránsito de vehículos, peatones y animales; y
 
-X. Vehículo: Todo medio de tracción mecánica, humana o animal, que se utiliza para transportar personas, animales o cosas.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
+
+X. Vehículo: Todo medio de transporte terrestre humano, mecánico o animal, independientemente de su fuente de energía, que se utiliza para transportar personas o cosas, y pueden ser en forma enunciativa más no limitativa, los siguientes:
+
+a) Vehículo motorizado, aquellos vehículos de transporte terrestre de pasajeros o carga, que para su tracción dependen de un motor de combustión interna, eléctrica o de cualquier otra tecnología que le proporciona velocidad a más de 25 kilómetros por hora;
+
+b) Vehículo no motorizado, aquellos vehículos que utilizan tracción humana, pedaleo asistido y/o propulsión eléctrica para su desplazamiento con una velocidad máxima de 25 kilómetros por hora; y
+
+c) Vehículo recreativo, aquellos utilizados de manera recreativa o lúdica.
 
 ###### ARTÍCULO 3.
 
@@ -87,9 +103,9 @@ I.- Autoridad Estatal:
 
 a) El Gobernador del Estado;
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
-b) El Secretario de Seguridad Pública;
+b) El Secretario de Seguridad y Protección Ciudadana;
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
@@ -105,11 +121,11 @@ b) El Presidente Municipal o Primer Concejal; y
 
 c) La Policía de Tránsito y Vialidad Municipal.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 4.
 
-La autoridad facultada para expedir, suspender, revocar o cancelar definitivamente la licencia o permiso de manejo a persona determinada, será la Secretaría de Seguridad Pública, a través de la Dirección General de la Policía Estatal de Caminos, de manera acorde a las demás facultades y obligaciones que le confiere ésta misma Ley, su Reglamento, la Ley Orgánica del Poder Ejecutivo del Estado y demás normatividad en vigor que le resulte aplicable.
+La autoridad facultada para expedir, suspender, revocar o cancelar definitivamente la licencia o permiso de manejo a persona determinada, será la Secretaría de Seguridad y Protección Ciudadana a través de la Dirección General de la Policía Estatal de Caminos, acorde a las demás facultades y obligaciones que le confiere esta Ley, su Reglamento, la Ley Orgánica del Poder Ejecutivo del Estado y demás normatividad en vigor que le resulte aplicable.
 
 ###### ARTÍCULO 5.
 
@@ -151,11 +167,11 @@ V. Dirigir y administrar a la Policía de Tránsito y Vialidad Municipal, así c
 
 VI. Las demás que les confiera expresamente esta Ley y demás ordenamientos legales.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 7.
 
-Corresponde a la Secretaría de Seguridad Pública establecer las medidas que requiera en caso de urgencia o necesidad que se susciten en la jurisdicción local; siempre que estas sean accesorias a las ya previstas en esta Ley y se refieran al tránsito, vialidad y control vehicular.
+Corresponde a la Secretaría de Seguridad y Protección Ciudadana establecer las medidas que requiera en caso de urgencia o necesidad que se susciten en la jurisdicción local; siempre que estas sean accesorias a las ya previstas en esta Ley y se refieran al tránsito, vialidad y control vehicular.
 
 ###### ARTÍCULO 8.
 
@@ -455,9 +471,19 @@ La instrucción privada sin fines lucrativos no tendrá mayor requisito en térm
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 35.
 
-Todo vehículo, para poder circular por las vías públicas de comunicación terrestre en el Estado, requiere del correspondiente registro e inscripción en el Padrón Vehicular Estatal y deberá portar placas metálicas, calcomanías de identificación y tarjeta de circulación, todos ellos vigentes, independientemente de que cumpla con las disposiciones relativas a las medidas de seguridad, preservación del medio ambiente y protección ecológica que a tal efecto determine la autoridad competente y la legislación aplicable en la materia.
+Todo vehículo para poder circular por las vías públicas de comunicación terrestre en el Estado, deberá portar placas metálicas, calcomanías de identificación y tarjeta de circulación, todos ellos vigentes.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2019)</small>
+
+Los vehículos que conforme a la Ley del Registro Público Vehicular estén obligados a inscribirse, deberán portar en el parabrisas, o en su caso en el lugar que la autoridad determine, la calcomanía que contiene el dispositivo electrónico que permita consultar de forma remota y a través de sistemas los datos del REPUVE.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2019)</small>
+
+Además de lo anterior, deberá cumplir con las disposiciones relativas a las medidas de seguridad; y de protección, preservación y cuidado del medio ambiente que para tal efecto determine la autoridad competente y la legislación aplicable en la materia.
 
 Los vehículos que utilicen gas L. P. como combustible deberán contar con la autorización correspondiente, así como dictamen vigente expedido por una unidad de verificación acreditada por la autoridad en materia.
 
@@ -521,9 +547,9 @@ La diversidad de los vehículos que se derivan de la anterior clasificación, se
 
 Todos los vehículos que circulan por la vía pública del Estado y que en razón de su actividad y domicilio no pertenezcan a esta entidad federativa, deberán efectuar su registro ante la autoridad competente; las condiciones y requisitos para cada tipo y clase de vehículo son las que al respecto señalen esta Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
-Las Secretarías de Seguridad Pública y de Administración y Finanzas del Estado establecerán los mecanismos de coordinación para eficientar el Padrón Vehicular Estatal.
+Las Secretarías de Seguridad y Protección Ciudadana y de Finanzas del Estado establecerán los mecanismos de coordinación para actualizar el Registro Estatal de Vehículos.
 
 ### Capítulo II. De los vehículos automotrices de servicio particular y de servicio público de transporte de personas
 
@@ -633,9 +659,25 @@ VII. Que el vehículo y lo que transporta tenga las dimensiones, peso y potencia
 
 VIII. Que posea los sistemas de seguridad originales, en buen estado de funcionamiento;
 
-IX. Que sus ocupantes usen los cinturones de seguridad en los vehículos. En caso de vehículos destinados al servicio público, se estará a lo dispuesto por la ley y ordenamientos en la materia; y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
 
-X. Que tratándose de una motocicleta, sus ocupantes lleven puestos cascos normalizados, y si la misma no tiene parabrisa, que su conductor use anteojos.
+IX. Que sus ocupantes usen los cinturones de seguridad en los vehículos. En caso de vehículos destinados al servicio público, se estará a lo dispuesto por la ley y ordenamientos en la materia;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
+
+X. Que tratándose de una motoneta o motocicleta, sus ocupantes lleven puestos cascos normalizados, y si esta no tiene parabrisas, que su conductor use anteojos;
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2019)</small>
+
+XI. Los usuarios de bicicletas, motonetas y motocicletas deberán usar como parte de su vestimenta y en lugares visibles, aditamentos luminosos o bandas reflejantes; y
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2019)</small>
+
+XII. Los usuarios de bicicletas, motonetas y motocicletas que se dediquen al reparto de mercancías o a la prestación de servicios deberán portar chaleco reflejante.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2019)</small>
+
+Además de los casos establecidos en el artículo 68 de la presente Ley, el incumplimiento de alguna de las disposiciones establecidas en las fracciones I, II, IV, V, VI y X del presente artículo dará lugar a la retención del vehículo.
 
 ###### ARTÍCULO 51.
 
@@ -703,9 +745,23 @@ XXVI. Conducir utilizando audífonos y sistemas de comunicación de operación m
 
 XXVII. Circular con vehículos que utilicen gas L. P. como combustible, sin contar con dictamen vigente expedido por una unidad de verificación acreditada por la autoridad en la materia;
 
-XXVIII. Tirar o arrojar basura u objetos desde el interior del vehículo; y
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
+
+XXVIII. Tirar o arrojar basura u objetos desde el interior del vehículo;
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2019)</small>
+
+XXVIII bis. Que los conductores de motonetas y motocicletas transporten pasajeros menores de 12 años de edad;
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2019)</small>
+
+XXVIII ter. Que los conductores de motonetas y motocicletas transporten algún pasajero entre el manubrio y el conductor; y
 
 XXIX. Demás prohibiciones que al efecto establezca la autoridad competente y de acuerdo a la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2019)</small>
+
+Además de los casos establecidos en el artículo 68 de la presente Ley, el incumplimiento de alguna de las disposiciones establecidas en las fracciones I, XVIII, XXII, XXIV, XXV, XXVII, XXVIII bis y XXVIII ter, del presente artículo dará lugar a la retención del vehículo.
 
 ### Capítulo V. De las reglas de velocidad
 
@@ -825,7 +881,7 @@ Igualmente tendrán previstos operativos institucionales para ubicar, perseguir 
 
 ###### ARTÍCULO 66.
 
-Los incidentes que ocurran entre vehículos de tracción mecánica, humana o animal, o de estos con peatones, serán competencia de la autoridad estatal o municipal, sin importar el origen del registro o procedencia de los vehículos implicados, cuando se presenten en la red de carretera estatal, caminos pavimentados o de terracería, fuera de asentamientos humanos, colonias poblados (sic), zonas urbanas o urbanizadas de los municipios; sobre las cuales la autoridad competente será la facultada para conocer y resolver de los hechos e incidentes de tránsito; independientemente de la responsabilidad civil o penal que pueda acumulársele al presunto responsable.
+Los incidentes que ocurran entre vehículos de tracción mecánica, humana o animal, o de estos con peatones, serán competencia de la autoridad estatal o municipal, sin importar el origen del registro o procedencia de los vehículos implicados, cuando se presenten en la red de carretera estatal, caminos pavimentados o de terracería, fuera de asentamientos humanos, colonias poblados, zonas urbanas o urbanizadas de los municipios; sobre las cuales la autoridad competente será la facultada para conocer y resolver de los hechos e incidentes de tránsito; independientemente de la responsabilidad civil o penal que pueda acumulársele al presunto responsable.
 
 ## TÍTULO SÉPTIMO. DE LAS BASES PARA EL PROCEDIMIENTO ADMINISTRATIVO RESULTANTE DE INCIDENTES E INFRACCIONES DE TRÁNSITO
 
@@ -890,6 +946,12 @@ b) Esté alterada o no haya congruencia entre lo declarado y las condiciones rea
 c) Se infrinjan normas referidas especialmente a la circulación de los mismos o su habilitación; y
 
 d) Cuando esté prestando un servicio de transporte público de pasajeros careciendo de permiso, autorización, concesión, habilitación o inscripción exigidos en la normatividad vigente sin prejuicio de la sanción pertinente.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2019)</small>
+
+###### Artículo 68-A.
+
+Las autoridades en materia de tránsito, vialidad y control vehicular, transcurrido el plazo de tres meses al que se refiere el artículo 32 de la Ley para la Administración y Destino de Bienes Asegurados, Abandonados o Decomisados, del Estado de Tabasco, pondrán a disposición del Servicio Estatal de Administración de Bienes Asegurados, Abandonados o Decomisados, del Estado de Tabasco, los vehículos cuyos legítimos propietarios o posesionarios no hayan comparecido a recogerlos o regularizarlos, con la finalidad de iniciar el procedimiento al que se refiere el Capítulo Quinto de la citada legislación.
 
 ###### ARTÍCULO 69.
 
@@ -1104,3 +1166,19 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 7 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 112 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN X; 3, FRACCIÓN I, INCISO B); 4; 7; 35, PÁRRAFO PRIMERO; 37, PÁRRAFO SEGUNDO; 50, FRACCIONES IX Y X; 52, FRACCIÓN XXVIII; Y SE ADICIONAN LAS FRACCIONES IV BIS Y IV TER AL ARTÍCULO 2; UN PÁRRAFO SEGUNDO Y UN PÁRRAFO TERCERO AL ARTÍCULO 35, PASANDO EL ACTUAL SEGUNDO A SER CUARTO; LAS FRACCIONES XI Y XII, Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 50; LAS FRACCIONES XXVIII BIS Y XXVIII TER, Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 52; Y EL ARTÍCULO 68-A; TODOS DE LA LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco, salvo lo dispuesto en el artículo 81-A de la Ley de Hacienda del Estado de Tabasco, el cual entrará en vigor a partir del 1 de enero de 2020.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. El titular del Poder Ejecutivo deberá emitir dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, las adecuaciones conducentes al Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco.
+
+CUARTO. Las Reglas de Carácter General para la aplicación de lo dispuesto en el artículo 81-A de la Ley de Hacienda del Estado de Tabasco, que emita la Secretaría de Finanzas, deberán entrar en vigor el 1 de enero de 2020.
+
+QUINTO. Los sistemas a que se refiere el artículo 81-A de la Ley de Hacienda del Estado de Tabasco, deberán entrar en funcionamiento el 1 de enero de 2020.
+
+SEXTO. La Secretaría de Finanzas realizará las previsiones presupuestales necesarias para el cumplimiento de lo establecido en el presente Decreto.
