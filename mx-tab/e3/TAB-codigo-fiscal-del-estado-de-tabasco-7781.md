@@ -4,7 +4,7 @@ identifier: "TAB-codigo-fiscal-del-estado-de-tabasco-7781"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-09-25"
-last_updated: "2017-12-09"
+last_updated: "2019-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO FISCAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 25 de septiembre de 1993.
 
@@ -389,7 +389,9 @@ c) No lleve contabilidad, la oculte, altere o la destruya; y
 
 d) Desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio en los términos del presente Código.
 
-V. La persona o personas a quienes se imponga la obligación de retener o recaudar créditos a cargo de terceros;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
+
+V. Las personas físicas o jurídicas colectivas a quienes se imponga la obligación de informar, retener o recaudar contribuciones a cargo de terceros;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -4107,25 +4109,21 @@ DÉCIMO. El 30% del coeficiente de distribución de la recaudación excedente de
 
 DÉCIMO PRIMERO. Las promociones a que se refiere el artículo 19 del Código Fiscal del Estado de Tabasco, que se hubieran presentado con anterioridad a la entrada en vigor del presente decreto, continuarán su trámite hasta su resolución conforme a las disposiciones vigentes a la fecha de su presentación.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO”.]
+P.O. 7 DE AGOSTO DE 2019.
 
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación salvo lo previsto en el siguiente artículo.
+## [N. DE E. TRANSITORIOS DEL DECRETO 112 POR EL QUE "SE REFORMA EL ARTÍCULO 18, FRACCIÓN V, DEL CÓDIGO FISCAL DEL ESTADO DE TABASCO”.]
 
-Segundo.- Las reformas al Código Nacional de Procedimientos Penales, al Código Penal Federal, a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 2, 13, 44 y 49 de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y los artículos 21 en su fracción X, 50 Bis y 158 de la Ley Orgánica del Poder Judicial de la Federación, entrarán en vigor en términos de lo previsto por el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación el 5 de marzo de 2014.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco, salvo lo dispuesto en el artículo 81-A de la Ley de Hacienda del Estado de Tabasco, el cual entrará en vigor a partir del 1 de enero de 2020.
 
-Los procedimientos que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
-Tercero.- Dentro de los 180 días naturales a la entrada en vigor del presente Decreto, la Federación y las entidades federativas en el ámbito de sus respectivas competencias, deberán contar con una Autoridad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
+TERCERO. El titular del Poder Ejecutivo deberá emitir dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, las adecuaciones conducentes al Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco.
 
-Asimismo, dentro de los 30 días siguientes a la fecha de creación de las autoridades de medidas cautelares y de la suspensión condicional del proceso de la Federación y de las entidades federativas, se deberán emitir los acuerdos y lineamientos que regulen su organización y funcionamiento.
+CUARTO. Las Reglas de Carácter General para la aplicación de lo dispuesto en el artículo 81-A de la Ley de Hacienda del Estado de Tabasco, que emita la Secretaría de Finanzas, deberán entrar en vigor el 1 de enero de 2020.
 
-Cuarto.- Las disposiciones del presente Decreto relativas a la ejecución penal, entrarán en vigor una vez que entre en vigor la legislación en la materia prevista en el artículo 73, fracción XXI, inciso c) de la Constitución Política de los Estados Unidos Mexicanos.
+QUINTO. Los sistemas a que se refiere el artículo 81-A de la Ley de Hacienda del Estado de Tabasco, deberán entrar en funcionamiento el 1 de enero de 2020.
 
-Quinto.- Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la revisión de dichas medidas, para efecto de que, el juez de la causa, en los términos de los artículos 153 a 171 del Código Nacional de Procedimientos Penales, habiéndose dado vista a las partes, para que el Ministerio Público investigue y acredite lo conducente, y efectuada la audiencia correspondiente, el órgano jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva sobre la imposición, revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en términos de los artículos 176 a 182 del citado Código.
-
-Sexto.- La Procuraduría General de la República propondrá al seno del Consejo Nacional de Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
-
-D.O.F. 18 DE JULIO DE 2016.
+SEXTO. La Secretaría de Finanzas realizará las previsiones presupuestales necesarias para el cumplimiento de lo establecido en el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL " DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL FEDERAL EN MATERIA DE COMBATE A LA CORRUPCIÓN".]
 
