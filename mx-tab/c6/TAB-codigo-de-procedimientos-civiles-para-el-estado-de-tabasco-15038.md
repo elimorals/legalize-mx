@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-civiles-para-el-estado-de-tabasco-1503
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-12"
-last_updated: "2017-07-05"
+last_updated: "2019-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de abril de 1997.
 
@@ -229,7 +229,7 @@ Por consiguiente, no habrá prórroga de competencia:
 
 I.- En todos los asuntos concernientes a la familia y al estado civil y condición de las personas;
 
-II.- En todos los asuntos de la competencia de los jueces de paz;
+II.- (DEROGADA, P.O. 7 DE AGOSTO DE 2019)
 
 III.- Cuando el deudor señale un domicilio para el cumplimiento de la obligación o para ser requerido judicialmente de pago; y
 
@@ -311,9 +311,9 @@ Competencia exclusiva de los juzgadores de primera instancia
 
 Cualquiera que sea el valor del negocio, los jueces de primera instancia, conocerán de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
 
-I.- Del estado civil y la capacidad de las personas, a excepción de los juicios de registro extemporáneo y de rectificación de actas del estado civil;
+I.- Del estado civil y la capacidad de las personas;
 
 II.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2008)
 
@@ -335,9 +335,9 @@ VII.- De los juicios de arrendamiento;
 
 VIII.- De los juicios que versen sobre la propiedad, los posesorios y demás derechos reales sobre inmuebles;
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
 
-IX.- De los procedimientos judiciales no contenciosos, a excepción de las informaciones ad perpetuam rei memoriam y del apeo o deslinde;
+IX.- De los procedimientos judiciales no contenciosos;
 
 > <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -1129,11 +1129,15 @@ II.- Cuando se exhiba constancia o certificado del Registro Público de la Propi
 
 III.- Las tercerías excluyentes no suspenderán el curso del procedimiento en que se interpongan. Cuando sean de dominio, el juicio principal seguirá sus trámites hasta antes del remate, momento en el que se suspenderá hasta que se decida la tercería. También se suspenderá el procedimiento si la tercería se hace valer antes de que se haya dado posesión de los bienes al rematante o al actor, en su caso.
 
-Cuando la tercería fuera de preferencia, se continuará el juicio principal en el que se haya interpuesto hasta la enajenación de los bienes embargados, pero se suspenderá la entrega del precio de la enajenación del bien respecto del cual se haya ejercido la tercería, el cual se depositará a disposición del juzgador, hasta que la sentencia determine cuál es el acreedor que tenga mejor derecho a recibirlo;
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
-IV.- En caso de que se declare fundada una tercería excluyente o que con motivo de ella se levante el embargo de bienes embargados, el actor en el juicio podrá solicitar al juzgador que ordene la ampliación del embargo o un nuevo embargo de bienes sobre los cuales pueda ejecutarse la sentencia o el auto de ejecución; y
+Cuando la tercería fuera de preferencia, se continuará el juicio principal en el que se haya interpuesto hasta la enajenación de los bienes embargados, pero se suspenderá la entrega del precio de la enajenación del bien respecto del cual se haya ejercido la tercería, el cual se depositará a disposición del juzgador, hasta que la sentencia determine cuál es el acreedor que tenga mejor derecho a recibirlo; y
 
-V.- Cuando se interponga una tercería excluyente de preferencia en un juicio que se siga ante un Juez de paz, y el interés de ella exceda la competencia por cuantía que la ley atribuya a dicho juzgador, éste remitirá lo actuado en el juicio principal y en la tercería al Juez que sea competente para conocer del asunto que represente mayor cuantía. Una vez recibidos los expedientes, el Juez competente correrá traslado de la demanda de tercería y la substanciará y decidirá de acuerdo con las reglas anteriores.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
+
+IV.- En caso de que se declare fundada una tercería excluyente o que con motivo de ella se levante el embargo de bienes embargados, el actor en el juicio podrá solicitar al juzgador que ordene la ampliación del embargo o un nuevo embargo de bienes sobre los cuales pueda ejecutarse la sentencia o el auto de ejecución.
+
+V.- (DEROGADA, P.O. 7 DE AGOSTO DE 2019)
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -1359,17 +1363,13 @@ Una vez que la sentencia en la que se haga la condena en costas haya adquirido l
 
 Esta sentencia interlocutoria podrá ser apelada en el efecto devolutivo, cuando la sentencia definitiva fuere apelable por la cuantía de la suerte principal.
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 99.
 
-Procesos en los que no se causarán costas
+Procesos en los que no se causarán costas.
 
-No se condenará en costas a ninguna de las partes:
-
-I.- En los procesos que versen sobre cuestiones familiares y del estado civil; y
-
-II.- En los procesos de la competencia de los jueces de paz.
+No se condenará en costas a ninguna de las partes en los procesos que versen sobre cuestiones familiares del estado civil.
 
 ## TITULO SEXTO. ACTOS PROCESALES
 
@@ -1451,9 +1451,9 @@ Se entenderá por corrección disciplinaria:
 
 I.- La amonestación;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
 
-II.- La multa, que en los juzgados de paz será hasta por el equivalente de sesenta veces el valor diario de la Unidad de Medida y Actualización al momento de la comisión de la falta; en los de primera instancia, será hasta por el equivalente de ciento veinte veces el valor diario de la Unidad de Medida y Actualización, y en el Tribunal Superior de Justicia, hasta por el equivalente de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización; y
+II.- La multa, que, en los asuntos cuyo monto no exceda del importe de doscientos cincuenta veces el valor diario de la Unidad de Medida y Actualización, así como en los de apeo y deslinde, será hasta por el equivalente de sesenta veces el valor diario de la Unidad de Medida y Actualización al momento de la falta; en los demás asuntos, será hasta por el equivalente de ciento veinte veces el valor diario de la Unidad de Medida y Actualización, y en el Tribunal Superior de Justicia, hasta por el equivalente de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización; y
 
 III.- La suspensión, que no podrá exceder de ocho días de trabajo.
 
@@ -2093,7 +2093,9 @@ e) La caducidad de los incidentes se causará por el transcurso de treinta días
 
 f) La caducidad de la segunda instancia o de los recursos de que conozca el Tribunal Superior de Justicia, operará por el transcurso de sesenta días hábiles, contados a partir de que haya surtido efectos la notificación de la última resolución, sin promoción, y dejará firme la resolución impugnada. Así lo declarará el Tribunal;
 
-g) No tendrá lugar la declaración de caducidad en los juicios universales de concursos y sucesiones; pero sí en los juicios con ellos relacionados que se tramiten independientemente, los que de ellos surjan o los que por ellos se motiven; tampoco tendrá lugar en los juicios de alimentos, y en los juicios seguidos ante los jueces de paz;
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
+
+g) No tendrá lugar la declaración de caducidad en los juicios universales de concursos y sucesiones; pero sí en los juicios con ellos relacionados que se tramite (sic) independientemente, los que de ellos surjan o los que por ellos se motiven; tampoco tendrá lugar en los juicios de alimentos;
 
 h) La suspensión del procedimiento producirá la interrupción del plazo de la caducidad;
 
@@ -2355,13 +2357,13 @@ El Notario se limitará a hacer el ofrecimiento y expedir al deudor la certifica
 
 ### CAPITULO IV. SEPARACION DE PERSONAS
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 171.
 
 Juez competente.
 
-El que intente demandar, denunciar o querellarse contra su cónyuge, concubina o concubinario, podrá solicitar su separación al Juez de primera instancia, donde tengan establecido su domicilio común. Sólo que por circunstancias especiales no pueda ocurrirse al Juez de primera instancia competente, el Juez de Paz del lugar podrá decretar la separación provisionalmente, remitiéndole las diligencias practicadas.
+El que intente demandar, denunciar o querellarse contra su cónyuge, concubina o concubinario, podrá solicitar su separación al Juez de primera instancia, donde tengan establecido su domicilio común.
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -4571,9 +4573,7 @@ II.- Los autos, cuando expresamente lo disponga este Código, y
 
 III.- Las resoluciones que dicten los jueces para resolver las reclamaciones que se hagan valer contra las medidas cautelares, conforme al artículo 185.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-No serán apelables las sentencias y demás resoluciones que se dicten en los juicios de la competencia de los juzgados de paz, con excepción de las que se dicten en los juicios del registro extemporáneo de actas del estado civil, en los términos previstos en el artículo 481 Bis 2 de este Código.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -6197,423 +6197,175 @@ V.- Si una sentencia, laudo o resolución jurisdiccional extranjera no pudiera t
 
 # LIBRO CUARTO. PROCEDIMIENTOS ESPECIALES
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2019)</small>
+
 ## TITULO PRIMERO. JUSTICIA DE PAZ
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
 ###### ARTICULO 457.
 
-Competencia de los jueces de paz
-
-En el Estado de Tabasco habrá los juzgados de paz que determine la Ley Orgánica del Poder Judicial del Estado.
-
-Los jueces de paz, conocerán de los siguientes asuntos:
-
-I.- De la conciliación en materia civil y familiar fuera de juicio, a excepción de los asuntos relativos a interdicción, pérdida, suspensión o restricción de la patria potestad, cuestiones del estado civil, nulidad de actos jurídicos, nulidad de cosa juzgada, sucesiones, nombramiento de tutor o curador, autorización que afecte derecho de incapaz o ausente, y todos aquellos casos análogos en que por su naturaleza o por disposición de la ley no ha lugar a la conciliación;
-
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
-
-II.- De los juicios civiles cuyo monto no exceda del importe de doscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
-
-III.- De los actos preparatorios a juicio en su competencia, salvo consignaciones de rentas;
-
-IV.- De la rectificación y registro extemporáneo de actas del estado civil;
-
-V.- Del apeo o deslinde;
-
-VI.- De la información ad perpetuam rei memoriam; y
-
-VII.- De los demás asuntos que le correspondan de acuerdo a la Ley.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 458.
 
-Cuantía
-
-Para estimar el interés del negocio se atenderá al monto total de las prestaciones que el actor demande. Los réditos, daños y perjuicios, serán tomados en consideración para la determinación de la cuantía, si se encuentran liquidados al momento de la presentación de la demanda.
-
-Cuando se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las prestaciones de un año, a no ser que se trate de prestaciones vencidas, en cuyo caso se estará a su monto total.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 459.
 
-Juez competente cuando sea dudosa la cuantía
-
-Si se dudare del valor de la cosa demandada o del interés del litigio, o no existan datos en el expediente para establecer la cuantía, el juicio será competencia del Juez de primera instancia.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 460.
 
-Incompetencia
-
-Cuando el juzgador, en cualquier estado del negocio, encuentre que éste no es de su competencia, suspenderá de plano el procedimiento y remitirá lo actuado al juzgador competente.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 461.
 
-Competencia por territorio
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
-Cada juzgado conocerá de los negocios relativos a predios ubicados dentro de su jurisdicción, cuando se trate de acciones reales sobre bienes inmuebles. Conocerá también de aquellos en que el demandado sea citado en lugar que se encuentre comprendido dentro de la misma jurisdicción.
+ARTICULO 461 BIS.- (DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
-En caso de duda será competente, por razón de territorio, el Juez de paz que haya prevenido, y en ningún caso se dará entrada a cuestión relativa a competencia de jurisdicción por aquel concepto; por el hecho de haber conocido indebidamente de casos correspondientes a otras jurisdicciones, será motivo de corrección disciplinaria que impondrá el Pleno del Tribunal Superior de Justicia, mediante queja del agraviado.
-
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-###### ARTICULO 461 Bis.
-
-Del procedimiento conciliatorio fuera de juicio.
-
-La conciliación ante los jueces de paz se iniciará a petición verbal o escrita de cualquier interesado, siempre que el mismo asunto no se encuentre en trámite o haya sido resuelto por otra autoridad jurisdiccional. Recibida la solicitud, se examinará la controversia y se determinará si la naturaleza de ésta permite ser resuelta a través de este medio; en su caso, se invitará a otros interesados a la audiencia inicial, que se llevará a cabo dentro de los diez días siguientes, en donde se les hará saber en qué consiste el procedimiento de conciliación.
-
-La invitación contendrá el nombre y domicilio de los interesados, el conflicto que se pretende resolver, la hora y fecha de la audiencia la que sólo se efectuará con consentimiento de ambos y que deberán presentar identificación a satisfacción del juzgado.
-
-En los asuntos del orden familiar se dará la intervención que la ley conceda al Sistema para el Desarrollo Integral de la Familia y al Ministerio Público.
-
-La conciliación se desarrollará en una o varias sesiones, a las que acudirán los interesados, de quienes el juez examinará su legitimación. En caso de que alguna sesión concluya con un acuerdo, se redactará un convenio que lo refleje con exactitud, el cual será ratificado y firmado por los interesados, ante el propio juez, quien lo aprobará si lo encuentra ajustado a derecho.
-
-Estos convenios tendrán la categoría de cosa juzgada.
-
-Si alguno de los interesados no sabe firmar, estampará su huella digital, firmando a su ruego otra persona, cuyos datos aparecerán en el lugar correspondiente.
-
-Practicada la conciliación y elevado el convenio a categoría de cosa juzgada se radicará un expediente debidamente identificado, diferenciado de los formatos para la actuación jurisdiccional.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ### CAPITULO II. DEMANDA Y EMPLAZAMIENTO
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
 ###### ARTICULO 462.
 
-Demanda
-
-En las demandas ante los jueces de paz, bastará que el actor exprese el nombre y domicilio del demandado, lo que pide y la causa. Las demandas podrán formularse por escrito o verbalmente; en este último caso, se levantará un acta en la que conste la fecha de comparecencia del actor y las demás particularidades a que se refiere este artículo, que firmarán el mismo promovente y el personal del juzgado. Cuando el compareciente no sepa firmar, se hará constar esta circunstancia y al margen del acta imprimirá su huella digital del pulgar derecho.
-
-El actor deberá exhibir los documentos justificativos de su demanda, mismos que le serán devueltos al terminarse el juicio.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 463.
 
-Citación para la audiencia
-
-Formulada la demanda, el juzgado señalará día y hora para la celebración de la audiencia de contestación, pruebas, alegatos y sentencia. La audiencia no se celebrará antes de los cinco días ni después de los veinte de presentada la demanda, salvo que el demandado resida fuera del lugar del juicio, en cuyo caso el juzgador hará la citación atendiendo a la distancia y a la mayor o menor facilidad de las comunicaciones, sin que el retardo pueda exceder de otros diez días más. En el auto respectivo se mandará emplazar al interesado para que comparezca el día y hora de la audiencia a contestar la demanda, y a presentar las pruebas que tuviere y se citará así mismo al actor. El señalamiento de fecha para la audiencia y la expedición de citación de emplazamiento para el demandado, se hará el mismo día de la presentación de la demanda y en presencia del actor, si éste lo pidiere.
-
-Para que se pueda celebrar válidamente la audiencia, la cita de emplazamiento deberá entregarse al demandado cuando menos con una anticipación de cinco días hábiles a la fecha señalada para que tenga verificativo aquélla.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 464.
 
-Domicilio
-
-La citación de emplazamiento se le entregará la (sic) demandado en su domicilio, por medio del actuario del juzgado. El domicilio señalado para entregar la cita al demandado, deberá ser:
-
-I.- El domicilio del demandado, su despacho, su establecimiento mercantil o su taller; o
-
-II.- El lugar en que habitualmente trabaje o tenga el principal asiento de sus negocios.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 465.
 
-Citación de emplazamiento
-
-La citación del emplazamiento se practicará observando lo siguiente:
-
-I.- El actuario se cerciorará si el demandado se encuentra en el lugar designado, y en este caso le entregará la citación personalmente;
-
-II.- Si no lo encontrare, se cerciorará que el lugar designado es alguno de los que se enumeran en el artículo anterior, y hecho esto, entregará la citación a cualquier persona adulta que habite en la casa;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
-
-III.- El recibo de la citación se firmará por la persona a quien se entregue, a menos de que no supiere o no pudiere firmar, en cuyo caso lo hará a su ruego un testigo; si no quisiere firmar o presentar testigo que lo hagan (sic), firmará el testigo requerido al efecto por el notificador. El testigo no podrá negarse, bajo multa hasta de veinte veces el valor diario de la Unidad de Medida y Actualización.
-
-En el duplicado de la citación y en la libreta se asentará razón de lo ocurrido, y se pondrán en su caso las firmas que procedan;
-
-IV.- Si no se encontrare el demandado, y apareciere que el lugar designado no reúne los requisitos enumerados en cualquiera de las fracciones del artículo anterior, no se dejará citación, reservándose para expedirla de nuevo cuando lo promueva el actor;
-
-V.- Cuando no se conociere el lugar donde habite el demandado o desempeñe habitualmente su trabajo o tenga el principal asiento de sus negocios, o cuando en el que trabaje se negaren las personas requeridas por el encargado de hacer la notificación a recibir la citación de emplazamiento, se podrá hacer la notificación en el lugar donde se le encuentre. En este caso quien lleve a cabo la notificación deberá identificar plenamente a la persona con la que entienda la diligencia;
-
-VI.- El actor tendrá el derecho de acompañar al actuario que lleve la citación para hacerle las indicaciones que faciliten la entrega; y
-
-VII.- El notificador que entregue la citación recogerá, además, en una libreta especial, recibo de ella, procediéndose en la forma que se indica en la fracción III.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 466.
 
-Forma de la citación de emplazamiento
-
-Las citas de emplazamiento se extenderán preferentemente en esqueletos impresos, tomados de libros talonarios, y deberán contener:
-
-I.- El nombre y domicilio del actor y del demandado;
-
-II.- Lo que pida el actor en su demanda, y la causa o título de la misma;
-
-III.- La citación al demandado para que se presente el día de la audiencia a contestar la demanda y la advertencia de que las pruebas deberán presentarse en la misma audiencia; y
-
-IV.- El apercibimiento de que si no comparece a la audiencia, se dará por contestada la demanda en sentido afirmativo, y en su caso, la citación para absolver posiciones, con el apercibimiento de que si no comparece, el Juez podrá tener por ciertas las afirmaciones de la otra parte.
-
-Las citaciones de emplazamiento se expedirán por duplicado para el efecto de que el original se entregue al demandado, y el duplicado se agregue al expediente con la constancia y firmas de haberse hecho la entrega.
-
-En caso de no existir dichos esqueletos impresos, la citación de emplazamiento se hará por cédula que contendrá mención del juicio de que se trate y la inserción del auto o proveído que deba notificarse, entregándose, además, a la parte demandada copia simple de la demanda y de los documentos en que se funde. Cuando la demanda se hubiere formulando verbalmente, el juzgador ordenará la expedición de la copia del acta en que se hizo constar y la entrega de la misma al demandado.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 467.
 
-Citación de testigos y terceros
-
-Cuando lo pidan las partes o el Juez lo estime necesario, se citará a los testigos y en general a terceros, por correo, telégrafo y aun por teléfono, cerciorándose el secretario previamente de la exactitud de la dirección o teléfono de la persona citada. La petición de las partes debe hacerse antes de la audiencia, y la citación se hará inmediatamente que se pida.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 468.
 
-Identidad de las partes
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
-Cuando se presente como actor o como demandado alguien que no sea personalmente conocido por el juzgador ni por el secretario, se procederá a su identificación por medio de documento bastante, o por cualquier otro medio que fuere suficiente a juicio del juzgador.
-
-No será necesaria la identificación aunque se trate de personas desconocidas, cuando por la naturaleza o circunstancia del caso no hubiere peligro de suplantación de la persona.
-
-El que se presente como actor o como demandado usando el nombre de otro para hacerse pasar por él, y quedará sujeto a las sanciones que determine el Código Penal.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ### CAPITULO III. JUICIO
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
-
 ###### ARTICULO 469.
 
-Incomparecencia del actor
-
-Si al anunciar el despacho del negocio no estuviere presente el actor injustificadamente y sí el demandado, se impondrá a aquél una multa de hasta veinte veces el valor diario de la Unidad de Medida y Actualización, que se aplicará al demandado por vía de indemnización. Sin que se justifique haberse hecho el pago, no se citará de nuevo para juicio.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 470.
 
-Declaración de rebeldía
-
-Si al ser llamado a contestar la demanda no estuviere presente el demandado, y constare que fue debidamente citado, se dará por contestada la demanda en sentido afirmativo y se continuará la audiencia. Cuando se presente durante ella el demandado, continuará ésta con su intervención según el estado en que se halle.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 471.
 
-Incomparecencia de ambas partes
-
-Si no comparecen el actor ni el demandado no se celebrará la audiencia, la cual podrá señalarse de nuevo si el actor lo solicita dentro del plazo de un mes contado a partir de la fecha de la primera audiencia. Si el actor no lo hace, se declarará extinguida la instancia y se mandará archivar el expediente.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 472.
 
-Audiencia
-
-Concurriendo al juzgado las partes, en virtud de la citación, se abrirá la audiencia y en ella se observarán las siguientes prevenciones:
-
-I.- Expondrán, el actor su demanda y el demandado su contestación, y ofrecerán los medios de prueba conducentes;
-
-II.- Las partes podrán hacerse mutuamente las preguntas que quieran, interrogar a los testigos y peritos, y, en general, presentar todas las pruebas que se puedan rendir;
-
-III.- Todas las acciones y excepciones o defensas se harán valer en el acto mismo de la audiencia, sin substanciar artículo de previo pronunciamiento. Si de lo que expongan o prueben las partes, resultara demostrada la procedencia de una excepción previa, el juzgador lo declarará así, desde luego, y dará por terminada la audiencia. Ante los jueces de paz sólo se admitirá reconvención hasta por el monto de su competencia;
-
-IV.- El juzgador podrá hacer libremente las preguntas que juzgue oportunas a cuantas personas estuvieren presentes en la audiencia, carear a las partes entre sí o con los testigos y a éstos los unos con los otros, examinar documentos, objetos o lugares y hacerlos reconocer por peritos;
-
-V.- En cualquier estado de la audiencia y en todo caso antes de pronunciar el fallo, el juzgador exhortará a las partes a una conciliación, y si se lograre la avenencia, se dará por terminado el juicio;
-
-VI.- El juzgador oirá los alegatos de las partes, concediendo hasta diez minutos a cada una, y en seguida pronunciará su fallo en presencia de ellas, de manera clara y sucinta; y
-
-VII.- De lo ocurrido en la audiencia se levantará acta en la que bastará que se asiente la razón de comparecencia de las partes, las defensas hechas valer, las pruebas que se rindieron, su resultado y el fallo del juzgador.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 473.
 
-Sentencias
-
-Las sentencias se dictarán sujetándose a las reglas establecidas en el Capítulo III, Título Quinto del Libro Primero de este Código.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 474.
 
-Costas
-
-En los asuntos ante los jueces de paz no se causarán costas, cualquiera que sea la naturaleza del juicio.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 475.
 
-Irrecurribilidad de las resoluciones.
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
-Contra las resoluciones pronunciadas por los jueces de paz no procederá recurso alguno, a excepción de las sentencias que se dicten en los juicios de rectificación y registro extemporáneo de actas del estado civil, así como en los procedimientos judiciales no contenciosos de su competencia.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ### CAPITULO IV. EJECUCION
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
 ###### ARTICULO 476.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-Ejecución de las sentencias y convenios
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-Los jueces de paz tendrán obligación de proveer a la eficaz e inmediata ejecución de sus sentencias y convenios; a ese efecto, dictarán todas las medidas necesarias, en la forma y términos que a su juicio fueren procedentes, sin contrariar las reglas siguientes:
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-I.- Si al pronunciarse la sentencia, ó aprobarse el convenio, en su caso, estuvieren presentes ambas partes, el juzgador las interrogará acerca de la forma que cada una proponga para el cumplimiento de la misma y procurará que lleguen a un avenimiento a ese respecto;
-
-II.- Si las partes no se ponen de acuerdo o el juzgador no fijó plazo para el cumplimiento de la sentencia, se entenderá que debe cumplirse la misma dentro del plazo de cinco días;
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-III.- El condenado podrá garantizar el pago a través de cualquiera de las formas permitidas por la ley y el juzgador, con audiencia de la parte que obtuvo, la calificará según su arbitrio, y si la aceptare podrá conceder un plazo hasta de diez días para el cumplimiento y aún mayor tiempo, si el que obtuvo estuviere conforme con ello. Si vencido el plazo el ejecutado no hubiere cumplido, se procederá de plano haciendo efectiva la garantía, y en su caso contra el fiador, quien no gozará de beneficio alguno; y
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-IV.- Llegado el caso, el ejecutor, asociado de la parte que obtuvo y sirviendo de mandamiento en forma la sentencia condenatoria, o el convenio respectivo, procederá al embargo de bienes conforme a los artículos relativos a esta materia; continuando la ejecución siguiendo las reglas generales establecidas por este Código.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 477.
 
-Revisión de los actos del ejecutor
-
-Todos los actos del ejecutor serán revisables, sea de oficio o a petición de parte, por el juzgador, quien podrá confirmarlos, modificarlos o revocarlos, conforme a las reglas de este Código.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 478.
 
-Facultades del juzgador para dar por extinguidos los juicios
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
-Cuando la sentencia condene a entregar cosa determinada, para obtener el cumplimiento, se podrán emplear los medios de apremio que prevé este Código.
-
-Si ni aun así se obtuviera la entrega, el Juez fijará la cantidad que como reparación se deba resarcir a la parte que obtuvo, procediéndose a exigir su pago con arreglo a la ejecución de sentencia.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ### CAPITULO V. EJECUCIÓN
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
 ###### ARTICULO 479.
 
-Resolución de cuestiones incidentales
-
-Las cuestiones incidentales que se susciten ante los jueces de paz, se resolverán juntamente con la principal, a menos que por su naturaleza sea forzoso decidirlas antes, o que se promuevan después de la sentencia; pero en ningún caso se formará artículo, sino que se decidirán de plano.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 480.
 
-Conexidad en la causa
-
-La conexidad sólo procederá cuando se trate de juicios que se sigan ante un mismo juzgador, y se resolverá luego que se promueva, sin necesidad de audiencia especial ni otra actuación. No se podrán promover acumulaciones de expedientes llevados ante juzgados menores diferentes.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 481.
 
-Nulidad de actuaciones
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
-Las promociones de nulidad de actuaciones por falta o defecto de citación o notificación, o por defectos u omisiones procesales, serán resueltas de plano por el juzgador, sin formar artículo ni suspender el procedimiento.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE MAYO DE 2007)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ### CAPITULO VI. DEL REGISTRO EXTEMPORANEO DE LAS ACTAS DEL ESTADO CIVIL
 
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2007)</small>
-
 ###### ARTICULO 481 Bis.
 
-Legitimación.
-
-Podrán pedir el registro extemporáneo de un acta del estado civil, las personas mayores de trece y menores de sesenta años, de conformidad con lo que establece el artículo 87 del Código Civil para el Estado de Tabasco.
-
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2007)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 481 Bis 1.
 
-Tramitación del juicio.
-
-En el escrito de demanda de registro extemporáneo de actas del estado civil, se ofrecerán las pruebas y con el auto de admisión del mismo se dará vista al Ministerio Público y se correrá traslado al Registro Civil, por el término de cinco días hábiles para que se produzca su contestación.
-
-Una vez contestada la demanda o dada por contestada en sentido afirmativo al no haber contestación, se citará a las partes para el desahogo de pruebas y alegatos, debiéndose fijar la audiencia en un plazo que no exceda de diez días hábiles a partir de que venza el término para contestar la demanda.
-
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2007)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 481 Bis 2.
 
-Sentencia y medios de de (sic) impugnación.
-
-La sentencia definitiva se pronunciará de manera breve y concisa, en el mismo momento de la audiencia, de ser así posible, o dentro de los ocho días hábiles siguientes.
-
-La sentencia será apelable en efecto suspensivo.
-
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2007)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 481 Bis 3.
 
-Comunicación oficial del Registro Civil.
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
-Una vez que la sentencia haya adquirido autoridad de cosa juzgada, se enviará copia autorizada al Oficial del Registro Civil para que levante el acta respectiva.
-
-> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO VI], P.O. 2 DE MAYO DE 2007)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ### CAPITULO VII. REGLAS GENERALES
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
 ###### ARTICULO 482.
 
-Aplicabilidad del Código
-
-En los negocios de la competencia de los jueces de paz, únicamente se aplicarán las disposiciones de este Código y de la Ley Orgánica del Poder Judicial de Tabasco, en lo que fuere indispensable para complementar las disposiciones de este Título y no se opongan a las mismas.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 483.
 
-Suspensión de las audiencias
-
-Cuando fuere necesario esperar alguna persona a quien se hubiere llamado a la audiencia, o conceder tiempo a los peritos para que examinen las cosas acerca de las que hayan de emitir dictamen u ocurriera algún otro caso que lo exija, a juicio del juzgador, se suspenderá la audiencia por un plazo prudente, no mayor de una hora, y si fuere enteramente indispensable, dispondrá el juzgador la continuación para el día siguiente, a más tardar. La violación de este precepto amerita corrección disciplinaria que impondrá el superior y será anotada en el expediente que a cada funcionario judicial corresponda.
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 484.
 
-Cuestiones de mínima cuantía
-
-En los asuntos de menos de cien veces el valor diario de la Unidad de Medida y Actualización, no se requerirá ni la formación de expedientes, bastando con asentar en el libro de gobierno el asunto de la demanda y la contestación que se diere, sucintamente relatadas, y los puntos resolutivos de la sentencia con los preceptos legales que le sirvieron de fundamento.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 485.
 
-Devolución de documentos
-
-Los documentos y objetos presentados por las partes, les serán devueltos al terminar la audiencia, tomándose razón de ello. Si el juzgador lo estima pertinente, podrá autorizar también que se entregue al demandado el documento presentado por el actor que hubiere quedado solventado por aquél.
-
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### ARTICULO 486.
 
-Irrecusabilidad de los jueces de paz
-
-Los jueces de paz no serán recusables, pero deberán excusarse cuando estén impedidos; en tal caso el negocio pasará a otro juzgado del mismo partido judicial, si lo hubiere, y si no, al juzgador de primera instancia de número menor. Si los jueces impedidos no se excusaren, a queja de parte, el superior, impondrá una corrección disciplinaria y hará la anotación en el expediente del funcionario.
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ## TITULO SEGUNDO. JUICIOS DEL ORDEN FAMILIAR Y DEL ESTADO CIVIL DE LAS PERSONAS
 
@@ -7083,7 +6835,9 @@ Sanciones en caso del ejercicio doloso de la acción
 
 El que promueva dolosamente el juicio de interdicción, incurrirá en las penas que la ley impone por falsedad y calumnia; responderá civilmente de los daños y perjuicios que cause al supuesto incapaz, y se le impondrá además una multa hasta de quinientas veces el valor diario de la Unidad de Medida y Actualización. El demandante deberá, además, pagar los gastos y costas del juicio.
 
-### CAPITULO VII. DE LA RECTIFICACION Y DEL REGISTRO EXTEMPORANEO DE ACTAS DEL ESTADO CIVIL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE AGOSTO DE 2019)</small>
+
+### CAPITULO VII. DE LA RECTIFICACIÓN Y DEL REGISTRO EXTEMPORÁNEO DE LAS ACTAS DEL ESTADO CIVIL
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -7091,9 +6845,9 @@ El que promueva dolosamente el juicio de interdicción, incurrirá en las penas 
 
 Legitimación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2019)</small>
 
-Podrán pedir la rectificación de un acta del estado civil:
+Podrán pedir la rectificación de un acta y el registro extemporáneo de un acta del estado civil:
 
 I.- Las personas de cuyo estado se trate;
 
@@ -7109,7 +6863,9 @@ IV.- Las personas que señale el Código Civil.
 
 Tramitación del juicio
 
-En el escrito de demanda de rectificación de actas del estado civil, se ofrecerán las pruebas y con el auto de admisión del mismo se dará vista al Ministerio Público y se correrá traslado al Registro Civil por el término de cinco días para que produzca su contestación.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2019)</small>
+
+En el escrito de demanda de rectificación o de registro extemporáneo de actas del estado civil, se ofrecerán las pruebas y con el auto de admisión del mismo se dará vista al Ministerio Público y se correrá traslado al Registro Civil por el término de cinco días para que produzca su contestación.
 
 Una vez contestada la demanda o dada por contestada en sentido afirmativo al no haber contestación, se citará a las partes para el desahogo de pruebas y alegatos debiéndose fijar la audiencia en un plazo que no exceda de diez días a partir de que venza el término para contestar la demanda.
 
@@ -7119,19 +6875,29 @@ Una vez contestada la demanda o dada por contestada en sentido afirmativo al no 
 
 Sentencia y medios de impugnación
 
-Concluida la audiencia a que se refiere el artículo anterior de oficio se citará para oír sentencia definitiva, la que se pronunciará dentro del término de quince días.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2019)</small>
+
+En el caso de las rectificaciones de actas, concluida la audiencia a que se refiere el artículo anterior de oficio se citará para oír sentencia definitiva, la que se pronunciará dentro del término de quince días.
 
 > <small>(REFORMADO, P.O. 2 DE MAYO DE 2007)</small>
 
 La sentencia será revisable de oficio.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2019)</small>
+
+En el caso de registros extemporáneos la sentencia definitiva se pronunciará de manera breve y concisa, en el mismo momento de la audiencia, de ser así posible, o dentro de los ocho días hábiles siguientes.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2019)</small>
+
+La sentencia será apelada en efecto suspensivo.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 529.
 
-Comunicación al Oficial del Registro Civil
+Comunicación al oficial del Registro Civil.
 
-Una vez que la sentencia haya adquirido autoridad de cosa juzgada, se comunicará al Oficial del Registro Civil para que haga referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+Una vez que la sentencia haya adquirido autoridad de cosa juzgada, se comunicará al Oficial del Registro Civil para que haga referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación. De la que conceda el registro extemporáneo de un acta, se enviará copia autorizada al oficial del Registro Civil para que levante el acta respectiva.
 
 ### CAPITULO VIII. JUICIO DE ALIMENTOS
 
@@ -10120,3 +9886,19 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 7 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 109 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 24, FRACCIONES I Y IX; 81, FRACCIONES III, PÁRRAFO SEGUNDO Y IV; 99; 107, FRACCIÓN II; 150, FRACCIÓN II, INCISO G); 171; LA DENOMINACIÓN DEL CAPÍTULO VII, DEL TÍTULO SEGUNDO DEL LIBRO CUARTO; 526, PÁRRAFO PRIMERO; 527, PÁRRAFO PRIMERO; 528, PÁRRAFO PRIMERO; Y 529; SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 528; Y SE DEROGAN LA FRACCIÓN II DEL ARTÍCULO 17; LA FRACCIÓN V DEL ARTÍCULO 81; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 352; EL TÍTULO PRIMERO DEL LIBRO CUARTO, INTEGRADO POR LOS CAPÍTULOS I, II, III, IV, V, VI Y VII, CONFORMADOS POR LOS ARTÍCULOS 457, 458, 459, 460, 461, 461 BIS, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 481 BIS, 481 BIS 1, 481 BIS 2, 481 BIS 3, 482, 483, 484, 485 Y 486, TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de los cuarenta y cinco días hábiles posteriores a su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Los procedimientos y juicios en materia penal que se encuentren en trámite ante los Juzgados de Paz serán concluidos de conformidad con las disposiciones vigentes al momento de su inicio, para lo cual serán turnados a los juzgados penales existentes del sistema tradicional.
+
+TERCERO. En lo concerniente a los asuntos en materia civil tramitados en los Juzgados de Paz de Centro, serán declinados a los juzgados civiles y familiares de ese distrito judicial.
+
+Los expedientes civiles de los Juzgados de Paz foráneos se declinarán a los juzgados civiles o mixtos, según sea el caso, del mismo distrito judicial.
+
+CUARTO. Los derechos laborales del personal que se desempeña en los Juzgados de Paz serán respetados en su totalidad. Para tales efectos, el Consejo de la Judicatura llevará a cabo las acciones administrativas que considere necesarias, con la finalidad de satisfacer eficazmente la operatividad de los restantes órganos jurisdiccionales, ponderando la carrera judicial y la experiencia de las y los trabajadores.
+
+QUINTO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente Decreto.
