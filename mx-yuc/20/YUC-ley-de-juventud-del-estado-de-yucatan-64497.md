@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-juventud-del-estado-de-yucatan-64497"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2019-07-31"
+last_updated: "2019-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE JUVENTUD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE AGOSTO DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 20 de noviembre de 2008.
 
@@ -95,17 +95,19 @@ IV.- Ley: Ley de Juventud del Estado de Yucatán;
 
 V.- Programa Estatal: El Programa Estatal para el Desarrollo de los Jóvenes;
 
-> <small>(REFORMADA, D.O. 4 DE DICIEMBRE DE 2017)</small>
+VI.- (DEROGADA, D.O. 7 DE AGOSTO DE 2019)
 
-VI.- Red Juvenil Estatal: El conjunto de personas encargadas de coordinar la participación de los jóvenes en el estado de Yucatán;
+> <small>(REFORMADA, D.O. 7 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADA, D.O. 4 DE DICIEMBRE DE 2017)</small>
+VII.- Red Juvenil Municipal: El conjunto de personas encargadas de coordinar la participación de la juventud en el municipio,
 
-VII.- Red Juvenil Municipal: El conjunto de personas encargadas de coordinar la participación de los jóvenes en el municipio, y
+> <small>(REFORMADA, D.O. 7 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+VIII.- Secretaría: La Secretaría de Desarrollo Social, y
 
-VIII.- Secretaría: La Secretaría de Desarrollo Social.
+> <small>(ADICIONADA, D.O. 7 DE AGOSTO DE 2019)</small>
+
+IX.- Consejo: El Consejo Estatal de la Juventud.
 
 ### CAPÍTULO II. De los Principios Rectores de la Ley
 
@@ -117,7 +119,9 @@ I.- Universalidad. Las acciones en política de juventud deben ir destinadas en 
 
 II.- Igualdad. Todos los jóvenes tienen derecho al acceso en igualdad de condiciones a los programas y acciones que les afecten, teniendo especial consideración con aquellos que viven en zonas rurales y en circunstancias de vulnerabilidad;
 
-III.- Participación democrática. Los jóvenes participarán en la planificación y desarrollo de estas políticas a través de las Redes Juveniles Estatal y Municipales, en la forma que se determine reglamentariamente;
+> <small>(REFORMADA, D.O. 7 DE AGOSTO DE 2019)</small>
+
+III.- Participación democrática. La Juventud participará en la planificación y desarrollo de estas políticas a través del Consejo y las Redes Juveniles Municipales, en la forma que se determine reglamentariamente.
 
 IV.- Solidaridad. Deberá fomentarse la solidaridad en las relaciones entre los jóvenes y los grupos sociales, con la finalidad de superar las condiciones que crean marginación y desigualdades;
 
@@ -139,9 +143,9 @@ El Sistema Estatal de la Juventud es el conjunto de políticas públicas, progra
 
 El Sistema Estatal de la Juventud funcionará como instrumento de coordinación administrativa e institucional entre las entidades, organismos autónomos, administraciones públicas federal, estatal y municipal, instituciones privadas, así como los organismos no gubernamentales responsables de la promoción, protección y respeto de los derechos de la población juvenil en la Entidad.
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, D.O. 7 DE AGOSTO DE 2019)</small>
 
-El Sistema Estatal de la Juventud estará coordinado por la Red Juvenil Estatal y Municipales y sus resoluciones serán ejercidas por la secretaría y los comités municipales de desarrollo juvenil, en sus respectivos ámbitos de competencia.
+El Sistema Estatal de la Juventud estará coordinado por el Consejo y la Red Municipal de la Juventud; y sus resoluciones serán ejercidas por la Secretaría y los Comités Municipales de Desarrollo Juvenil en el ámbito de su competencia
 
 ###### Artículo 7.
 
@@ -151,11 +155,15 @@ El Sistema Estatal de la Juventud se integrará con:
 
 I.- El Ejecutivo del Estado, a través de la secretaría;
 
-II.- La Red Juvenil Estatal;
+II.- (DEROGADA, D.O. 7 DE AGOSTO DE 2019)
 
 III.- Las Redes Juveniles Municipales, y
 
 IV.- Los Comités Municipales de Desarrollo Juvenil.
+
+> <small>(ADICIONADA, D.O. 7 DE AGOSTO DE 2019)</small>
+
+V.- El Consejo
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -201,45 +209,25 @@ XV.- Observar las demás disposiciones establecidas en esta Ley y otras aplicabl
 
 (DEROGADO, D.O. 31 DE JULIO DE 2019)
 
-### CAPÍTULO III. De la Red Juvenil Estatal
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 7 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+### CAPÍTULO III. De la Red Juvenil Estatal
 
 ###### Artículo 10.
 
-La Red Juvenil Estatal es la encargada de vincular y organizar la participación de jóvenes, y se integrará con los comités municipales de desarrollo juvenil y los representantes de organismos de la sociedad civil que así lo soliciten, así como por las agrupaciones juveniles y las y los jóvenes que invite la persona titular de la secretaría.
+(DEROGADO, D.O. 7 DE AGOSTO DE 2019)
 
 ###### Artículo 11.
 
-La Red Juvenil Estatal tendrá las siguientes atribuciones:
-
-I.- Motivar a la sociedad para que participe en las actividades que fomenten los derechos y el desarrollo integral de los jóvenes;
-
-II.- Fomentar la integración de asociaciones sociales a la Red Juvenil Estatal;
-
-III.- Promover programas de nivel regional o estatal que contribuyan al desarrollo laboral, educativo, social, cultural y deportivo de los jóvenes;
-
-IV.- Intercambiar experiencias exitosas con otros Estados, respecto de los beneficios alcanzados en favor de los jóvenes yucatecos;
-
-V.- Promover la difusión de los derechos de los jóvenes en el Estado, y
-
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
-
-VI.- Coordinarse con la secretaría para organizar las celebraciones relacionadas con el Día Estatal de la Juventud y demás eventos juveniles.
-
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+(DEROGADO, D.O. 7 DE AGOSTO DE 2019)
 
 ###### Artículo 12.
 
-La coordinación general de la Red Juvenil Estatal estará a cargo de quien ocupe la titularidad de la secretaría.
-
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+(DEROGADO, D.O. 7 DE AGOSTO DE 2019)
 
 ###### Artículo 13.
 
-Los integrantes de la Red Juvenil Estatal elaborarán un catálogo que contendrá un directorio de los servicios, programas, objetivos y metas destinados a la juventud, el cual deberá ser publicado en el sitio web oficial de la secretaría.
-
-La secretaría implementará mecanismos de intercambio de información entre los integrantes de la Red Juvenil Estatal, organizaciones no gubernamentales juveniles, instituciones homólogas de nivel nacional, local y municipal, e instituciones privadas.
+(DEROGADO, D.O. 7 DE AGOSTO DE 2019)
 
 ### CAPÍTULO IV. De los Comités Municipales de Desarrollo Juvenil y Redes Juveniles Municipales
 
@@ -275,7 +263,9 @@ El Centro de Información y Documentación a que se refiere la fracción V de es
 
 La Red Juvenil Municipal se integrará por jóvenes voluntarios e integrantes de organizaciones juveniles municipales y tendrá las siguientes atribuciones:
 
-I.- Motivar a la sociedad para que participe en las actividades que fomenten los derechos y el desarrollo integral de los jóvenes;
+> <small>(REFORMADA, D.O. 7 DE AGOSTO DE 2019)</small>
+
+I.- Motivar a la sociedad para que participe en las actividades que fomenten los derechos y el desarrollo integral de la juventud;
 
 II.- Fomentar la integración de asociaciones sociales a la Red Juvenil Municipal;
 
@@ -285,17 +275,135 @@ IV.- Intercambiar experiencias con otros municipios, respecto de los beneficios 
 
 V.- Promover la difusión de los derechos de los jóvenes en el Municipio;
 
-VI.- Solicitar ser parte de la Red Juvenil Estatal, y
+> <small>(REFORMADA, D.O. 7 DE AGOSTO DE 2019)</small>
+
+VI.- Solicitar ser parte del Consejo, y
 
 VII.- Coordinarse con el Comité Municipal de Desarrollo Juvenil para organizar las celebraciones relacionadas con el Día Estatal de la Juventud y demás eventos juveniles.
 
 La Coordinación General de la Red Juvenil Municipal estará a cargo del Presidente del Comité Municipal de Desarrollo Juvenil.
 
-### CAPÍTULO I. Del Derecho y las Políticas de Salud
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 7 DE AGOSTO DE 2019)</small>
+
+### Capítulo V. Consejo Estatal de la Juventud
+
+> <small>(ADICIONADO, D.O. 7 DE AGOSTO DE 2019)</small>
+
+###### Artículo 16 Bis.
+
+El Consejo tiene por objeto promover, consultar, coordinar y evaluar las políticas públicas estatales procurando el cumplimiento de los derechos de la juventud y la participación de los sectores público, social y privado.
+
+> <small>(ADICIONADO, D.O. 7 DE AGOSTO DE 2019)</small>
+
+###### Artículo 16 Ter.
+
+El Consejo, para el cumplimiento de su objeto, tendrá las atribuciones siguientes:
+
+I.- Proponer, monitorear y evaluar las políticas públicas en materia de derechos de la juventud, a fin de analizar su viabilidad, valorar y retroalimentar sus resultados, con especial atención a la juventud en situación de vulnerabilidad;
+
+II.- Fungir como órgano de consulta y cooperación de la administración pública estatal para generar o mejorar las políticas públicas dirigidas a la juventud del estado, así como de los Ayuntamientos, cuando así lo solicite;
+
+III.- Colaborar en el diseño de proyectos que permitan la obtención de recursos que contribuyan a la implementación de políticas públicas en favor de la juventud;
+
+IV.- Difundir y publicar los programas, acciones y resultados que se desarrollen en las dependencias y entidades, promoviendo el interés y acceso para incrementar las y los jóvenes beneficiados.
+
+V.- Acordar la creación e integración de comisiones para la atención de asuntos específicos relacionados con los problemas que enfrenta la juventud, dañen su integridad personal o impidan desarrollar sus potencialidades;
+
+VI.- Promover la efectiva participación de la sociedad y de las y los jóvenes en las actividades que fomenten el desarrollo integral, la inclusión, la no discriminación, la igualdad de género; y en general los derechos humanos de la juventud yucateca;
+
+VII.- Intercambiar experiencias exitosas con otros Estados, respecto de los beneficios alcanzados en favor de la juventud yucateca;
+
+VIII.- Promover la difusión y respeto de los derechos de la juventud en el Estado;
+
+IX.- Coordinarse con la Secretaría para organizar las celebraciones relacionadas con la Juventud;
+
+X.- Impulsar la efectiva coordinación entre las autoridades federales, estatales y municipales para la búsqueda de mecanismos enfocados a la eficacia de los derechos de la juventud;
+
+XI.- Emitir un informe público anual, el cual contenga las acciones realizadas y resultados alcanzados;
+
+XII.- Expedir el Reglamento Interno del Consejo y demás normativa interna que requiera para el cumplimiento de su objeto, y
+
+XIII.- Las demás previstas en esta Ley y demás normas aplicables.
+
+> <small>(ADICIONADO, D.O. 7 DE AGOSTO DE 2019)</small>
+
+###### Artículo 16 Quater.
+
+El Consejo estará integrado por representantes de las dependencias y entidades siguientes:
+
+I.- Secretaría de Desarrollo Social, quien tendrá la Presidencia;
+
+II.- Secretaría de Salud;
+
+III.- Secretaría de Educación;
+
+IV.- Secretaría de Fomento Económico y Trabajo;
+
+V.- Secretaría de Desarrollo Sustentable;
+
+VI.- Secretaría de las Mujeres;
+
+VII.- Secretaría Técnica de Planeación y Evaluación;
+
+VIII.- Subsecretaría de la Juventud;
+
+IX.- Instituto para la Inclusión de las Personas con Discapacidad:
+
+X.- Instituto del Deporte;
+
+XI.- Instituto para el Desarrollo de la Cultura Maya, y
+
+XII.- Instituto Yucateco de Emprendedores.
+
+También, formarán parte del Consejo, cuatro personas representantes de:
+
+I.- Instituciones públicas de educación superior;
+
+II.- Instituciones privadas de educación superior;
+
+III.- Asociaciones civiles u organizaciones no gubernamentales, que cuenten con programas de atención o apoyo para la juventud;
+
+IV.- Cámaras empresariales, a través de sus comités de jóvenes empresarios; y
+
+V.- Cinco jóvenes representantes de las regiones geográficas del estado de Yucatán.
+
+Igualmente, se incluirá la participación de un representante de la juventud con discapacidad, uno perteneciente a los pueblos originarios que se encuentren en el estado, y procurar que, en su integración, se respete la igualdad de género.
+
+El carácter de consejero será honorífico.
+
+> <small>(ADICIONADO, D.O. 7 DE AGOSTO DE 2019)</small>
+
+###### Artículo 16 Quinquies.
+
+La Secretaria Técnica es el órgano de asistencia y seguimiento de las sesiones y acuerdos que en ella se tomen, de conformidad con lo establecido en el Reglamento Interno. Asimismo, tendrá derecho a voz, pero no voto.
+
+> <small>(ADICIONADO, D.O. 7 DE AGOSTO DE 2019)</small>
+
+Artículo 16 Sexties.- El reglamento interno del Consejo establecerá las disposiciones específicas siguientes:
+
+I.- El procedimiento para la designación de los representantes del Consejo y de la Secretaria Técnica;
+
+II.- Las formalidades para la toma de decisiones, organización y funcionamiento;
+
+III.- Las formalidades en la conformación del Consejo, en sus decisiones, organización y funcionamiento;
+
+IV.- Las disposiciones relativas al nombramiento de sus representantes;
+
+V.- Las formalidades de las convocatorias;
+
+VI.- La organización, el desarrollo de las sesiones y el sistema de votaciones del Consejo;
+
+VII.- Las facultades y obligaciones de la Presidencia, Secretaría Técnica y demás integrantes;
+
+VIII.- Régimen de suplencias;
+
+IX.- La determinación de las comisiones de trabajo, en su caso, y
+
+X.- Las demás necesarias para el cumplimiento de su objeto.
 
 ## TÍTULO TERCERO. DE LOS DERECHOS Y POLÍTICAS PARA EL DESARROLLO DE LA JUVENTUD
 
-### CAPÍTULO II. De los Derechos Sexuales y Reproductivos
+### CAPÍTULO I. Del Derecho y las Políticas de Salud
 
 ###### Artículo 17.
 
@@ -343,7 +451,7 @@ El Poder Ejecutivo del Estado, a través de la Secretaría de Salud, y en coordi
 
 La secretaría promoverá, en colaboración con otras instituciones públicas y privadas, la creación de espacios o foros para el desarrollo efectivo y eficaz de las políticas o programas cuyo objeto sea la salud de la juventud.
 
-### CAPÍTULO III. Del Derecho y las Políticas de Educación
+### CAPÍTULO II. De los Derechos Sexuales y Reproductivos
 
 ###### Artículo 26.
 
@@ -359,7 +467,7 @@ Los jóvenes tienen el derecho a ser informados debidamente en materia de sexual
 
 La secretaría promoverá programas de responsabilidad sexual dirigidos a las y los jóvenes, para concientizarlos del daño moral, psicológico y a su salud que implica el ejercicio irresponsable de su sexualidad.
 
-### CAPÍTULO IV. Del Derecho y las Políticas en Materia de Familia
+### CAPÍTULO III. Del Derecho y las Políticas de Educación
 
 ###### Artículo 29.
 
@@ -429,7 +537,7 @@ La secretaría apoyará las actividades juveniles que fomenten la cultura de la 
 
 Las instituciones públicas y privadas realizarán sus servicios de orientación vocacional, conforme las necesidades de los jóvenes e integrarán en el programa de actividades extraescolares, la promoción de la participación estudiantil en las escuelas.
 
-### CAPÍTULO V. Del Derecho y las Políticas de Trabajo
+### CAPÍTULO IV. Del Derecho y las Políticas en Materia de Familia
 
 ###### Artículo 38.
 
@@ -463,7 +571,7 @@ III.- La motivación de medidas conducentes a la instalación y el aprovechamien
 
 IV.- La creación de programas de ayuda y apoyo para la familia joven monoparental.
 
-### CAPÍTULO VI. Del Derecho y las Políticas de Participación Social y de Solidaridad
+### CAPÍTULO V. Del Derecho y las Políticas de Trabajo
 
 ###### Artículo 44.
 
@@ -529,7 +637,7 @@ El Poder Ejecutivo del Estado, a través de la secretaría, y los ayuntamientos 
 
 Artículo 49 bis.- La secretaría, en coordinación con los ayuntamientos, implementará programas de sensibilización dirigidos a funcionarios, empresarios y público en general, para el fomento del servicio social y las prácticas profesionales así como para la inclusión de las y los jóvenes en el mercado laboral, mediante el primer empleo, y la erradicación de prácticas discriminatorias en el trabajo.
 
-### CAPÍTULO VII. Del Derecho y las Políticas de Información
+### CAPÍTULO VI. Del Derecho y las Políticas de Participación Social y de Solidaridad
 
 ###### Artículo 50.
 
@@ -571,7 +679,7 @@ La secretaría fomentará aquellos programas y acciones de cooperación que favo
 
 La secretaría realizará programas y acciones que fomenten el espíritu solidario entre la juventud yucateca, en especial respecto a las y los jóvenes en circunstancias de vulnerabilidad.
 
-### CAPÍTULO VIII. Del Derecho y las Políticas de Asociación
+### CAPÍTULO VII. Del Derecho y las Políticas de Información
 
 ###### Artículo 55.
 
@@ -597,7 +705,7 @@ III.- La coordinación eficaz en relación con la información juvenil.
 
 La secretaría y los ayuntamientos, en el ámbito de su competencia, fomentarán el acceso de las y los jóvenes a las tecnologías de la información y las comunicaciones, como medio de información y cauce de participación en la vida política, económica, social y cultural, con especial consideración hacia aquellos jóvenes en condiciones de vulnerabilidad, mediante el diseño de acciones y programas de ayuda para el acceso a los recursos materiales necesarios.
 
-### CAPÍTULO IX. Del Derecho y las Políticas de Identidad
+### CAPÍTULO VIII. Del Derecho y las Políticas de Asociación
 
 ###### Artículo 58.
 
@@ -609,7 +717,7 @@ Todos los jóvenes tienen derecho a formar asociaciones u organizaciones autóno
 
 La secretaría y los ayuntamientos, en el ámbito de su competencia, establecerán mecanismos que propicien la creación de asociaciones u organizaciones de la juventud, así como el fortalecimiento de las agrupaciones ya existentes, con la finalidad de facilitar la participación de las y los jóvenes en la sociedad y de fomentar la responsabilidad social.
 
-### CAPÍTULO X. Del Derecho y las Políticas de Cultura y Recreación
+### CAPÍTULO IX. Del Derecho y las Políticas de Identidad
 
 ###### Artículo 60.
 
@@ -627,7 +735,7 @@ La secretaría y los ayuntamientos, en el ámbito de su competencia, establecer�
 
 La secretaría, en coordinación con el Instituto para el Desarrollo de la Cultura Maya del Estado de Yucatán, realizará acciones para fortalecer la identidad yucateca, a través de campañas educativas y publicitarias que divulguen la imagen positiva del estado de Yucatán y su gente.
 
-### CAPÍTULO XI. Del Derecho y las Políticas de Deporte
+### CAPÍTULO X. Del Derecho y las Políticas de Cultura y Recreación
 
 ###### Artículo 63.
 
@@ -659,7 +767,7 @@ III.- Se promocionará el desarrollo artístico y cultural de los jóvenes, esta
 
 Es obligación de las estaciones radiofónicas y televisivas que reciban recursos estatales, el contar con barras programáticas con el objeto de fomentar los conocimientos necesarios para el desarrollo integral, educativo y cultural de los jóvenes.
 
-### CAPÍTULO XII. Del Derecho y las Políticas de Tiempo Libre
+### CAPÍTULO XI. Del Derecho y las Políticas de Deporte
 
 ###### Artículo 69.
 
@@ -683,7 +791,7 @@ V.-Fomentará y promoverá certámenes y competencias deportivas juveniles de á
 
 Los Ayuntamientos en la medida de sus posibilidades presupuestarias y de conformidad con los planes de desarrollo urbano, fomentarán la construcción de espacios públicos, programas de esparcimiento y para la realización del deporte en sus Municipios, tomando en cuenta las medidas de seguridad debidas.
 
-### CAPÍTULO XIII. Del Derecho y las Políticas de Medio Ambiente
+### CAPÍTULO XII. Del Derecho y las Políticas de Tiempo Libre
 
 ###### Artículo 72.
 
@@ -713,7 +821,7 @@ V.- Garantizar la igualdad de oportunidades de los jóvenes en el uso y disfrute
 
 VI.- Fomentar el turismo e intercambio juvenil como medio de enriquecimiento cultural y humano.
 
-### CAPÍTULO XIV. De los Derechos y las Políticas para los Jóvenes en Circunstancias de Vulnerabilidad
+### CAPÍTULO XIII. Del Derecho y las Políticas de Medio Ambiente
 
 ###### Artículo 75.
 
@@ -731,7 +839,7 @@ III.- La extensión entre los jóvenes de los hábitos de conservación de su en
 
 IV.- El desarrollo de programas destinados al adecuado uso de espacios naturales y sus instalaciones por parte de las asociaciones juveniles, de conformidad con lo establecido en la normatividad aplicable.
 
-### CAPÍTULO XV. Del Derecho a una Vida Digna
+### CAPÍTULO XIV. De los Derechos y las Políticas para los Jóvenes en Circunstancias de Vulnerabilidad
 
 ###### Artículo 77.
 
@@ -787,7 +895,7 @@ El Poder Ejecutivo, a través de la Secretaría General de Gobierno, la Fiscalí
 
 En la ejecución de estas acciones, se diseñará un mecanismo que permita la amplia participación de la juventud.
 
-### CAPÍTULO XVI. Del Derecho y las Políticas de Vivienda
+### CAPÍTULO XV. Del Derecho a una Vida Digna
 
 ###### Artículo 86.
 
@@ -811,7 +919,7 @@ La Secretaría de Seguridad Pública y las instancias de seguridad pública muni
 
 La secretaría solicitará el apoyo de la Secretaría de Seguridad Pública en los eventos que lleve a cabo, en el ejercicio de sus funciones.
 
-### CAPÍTULO XVII. Del Derecho al Desarrollo Económico y Social
+### CAPÍTULO XVI. Del Derecho y las Políticas de Vivienda
 
 ###### Artículo 90.
 
@@ -829,7 +937,7 @@ III.- Se fomentará la rehabilitación de viviendas para el uso de los jóvenes 
 
 IV.- Se establecerán y fomentarán subsidios y ayudas para los jóvenes, así como la promoción de incentivos y créditos con entidades financieras, para la adquisición de viviendas y para la autoconstrucción.
 
-### CAPÍTULO XVIII. De los Programas Estatal y Municipales de la Juventud
+### CAPÍTULO XVII. Del Derecho al Desarrollo Económico y Social
 
 ###### Artículo 92.
 
@@ -839,7 +947,7 @@ Los jóvenes tienen derecho al Desarrollo Económico y Social, mediante el uso, 
 
 El Poder Ejecutivo del Estado y los Ayuntamientos procurarán que los jóvenes en circunstancias de vulnerabilidad cuenten con oportunidades que les permitan desarrollarse en un medio equitativo para incorporarse al crecimiento del Estado.
 
-### CAPÍTULO XIX. De los Deberes de los Jóvenes
+### CAPÍTULO XVIII. De los Programas Estatal y Municipales de la Juventud
 
 ###### Artículo 94.
 
@@ -893,9 +1001,7 @@ La secretaría se encargará de evaluar los avances del Programa Estatal y elabo
 
 Los Ayuntamientos observarán para el diseño y elaboración de sus Programas Municipales de Juventud todo lo contenido en el presente capítulo.
 
-### CAPÍTULO I. Disposiciones Generales
-
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+### CAPÍTULO XIX. De los Deberes de los Jóvenes
 
 ###### Artículo 101.
 
@@ -934,6 +1040,50 @@ Ningún abuso o violación de sus derechos podrá considerarse válido ni justif
 ## TÍTULO CUARTO. FOMENTO Y PROMOCIÓN AL JOVEN EMPRENDEDOR
 
 > <small>(REFORMADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+###### Artículo 102.
+
+La secretaría promoverá y fomentará la integración de las y los jóvenes en el campo laboral, mediante el establecimiento de estímulos para el desarrollo de la cultura empresarial y la constitución de los fideicomisos y fondos para el financiamiento de las empresas e industrias juveniles que tengan por objetivo la proyección de beneficios sociales y productivos, con la participación y coordinación de los sectores público, privado y social, bajo los términos y condiciones que se establezcan.
+
+> <small>(REFORMADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 103.
+
+Los recursos para la constitución de los fideicomisos y fondos a los que se refiere el artículo anterior, podrán provenir de aportaciones en dinero o en especie de los sectores público, privado y social que tengan interés en apoyar a los jóvenes emprendedores de quince a veintinueve años de edad para convertir una idea en un proyecto concreto que genere innovación y empleos.
+
+Las autoridades estatales competentes podrán gestionar ante las autoridades fiscales correspondientes, que los recursos aportados por parte de las personas físicas o morales y el sector privado para la constitución de los fideicomisos y fondos, puedan ser susceptibles de deducción de impuestos.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+###### Artículo 104.
+
+La secretaría deberá impulsar el fomento emprendedor mediante el desarrollo de competencias que estimulen la creatividad y el interés de la juventud para convertirse en empresarios consolidados o agentes de cambio que aporten al sostenimiento de las fuentes productivas, el desarrollo regional equilibrado y la cultura emprendedora.
+
+> <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
+
+Artículo 104 bis.- Para los efectos de este capítulo, se le considera a un joven como un empresario consolidado a la persona de quince a veintinueve años de edad, que ejerza y desarrolle una actividad empresarial de forma habitual, con la adquisición de la titularidad en las obligaciones y los derechos derivados; y que de dicha actividad se obtenga como resultado una producción o un intercambio de bienes y servicios en el mercado.
+
+> <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
+
+Artículo 104 ter.- Las actividades emprendedoras a que se refiere este capítulo deberán regirse por los siguientes principios:
+
+I.- Formación integral en valores humanos, preponderando el sentido de la igualdad y equidad entre los jóvenes;
+
+II.- Fortalecimiento a los procesos de emprendimiento sostenible, mediante el trabajo en equipo enfocado a proyectos productivos con responsabilidad social y cultura ambiental;
+
+III.- Reconocimiento a las ideas creativas e innovadoras, la conciencia y la responsabilidad del desarrollo emprendedor de los jóvenes de forma individual y colectiva como integrantes de una comunidad, y
+
+IV.- Responsabilidad por el entorno, la protección y el cuidado del medio ambiente, la naturaleza, los recursos y la comunidad.
+
+> <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
+
+Artículo 104 quater.- El Poder Ejecutivo del Estado, a través de las diversas dependencias y entidades, fomentará y promoverá el desarrollo productivo de las micro y pequeñas empresas o industrias innovadoras, creativas y competitivas creadas por los jóvenes emprendedores.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 4 DE DICIEMBRE DE 2017)</small>
 
 ### CAPÍTULO II. Autoridades Competentes
 
@@ -998,46 +1148,6 @@ IV.- Coordinar esfuerzos con las instituciones gubernamentales, empresariales y 
 V.- Promover y desarrollar las estrategias y los programas de capacitación para el manejo de las relaciones laborales y la orientación jurídica y administrativa de la juventud, mediante enlaces con organizaciones y dependencias afines, priorizando la atención en las y los jóvenes que requieran la orientación en dichos rubros para lograr la consolidación de sus proyectos productivos o nuevas empresas.
 
 Artículo 104 nonies.- (DEROGADO, D.O. 31 DE JULIO DE 2019)
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 4 DE DICIEMBRE DE 2017)</small>
-
-###### Artículo 102.
-
-La secretaría promoverá y fomentará la integración de las y los jóvenes en el campo laboral, mediante el establecimiento de estímulos para el desarrollo de la cultura empresarial y la constitución de los fideicomisos y fondos para el financiamiento de las empresas e industrias juveniles que tengan por objetivo la proyección de beneficios sociales y productivos, con la participación y coordinación de los sectores público, privado y social, bajo los términos y condiciones que se establezcan.
-
-> <small>(REFORMADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
-
-###### Artículo 103.
-
-Los recursos para la constitución de los fideicomisos y fondos a los que se refiere el artículo anterior, podrán provenir de aportaciones en dinero o en especie de los sectores público, privado y social que tengan interés en apoyar a los jóvenes emprendedores de quince a veintinueve años de edad para convertir una idea en un proyecto concreto que genere innovación y empleos.
-
-Las autoridades estatales competentes podrán gestionar ante las autoridades fiscales correspondientes, que los recursos aportados por parte de las personas físicas o morales y el sector privado para la constitución de los fideicomisos y fondos, puedan ser susceptibles de deducción de impuestos.
-
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
-
-###### Artículo 104.
-
-La secretaría deberá impulsar el fomento emprendedor mediante el desarrollo de competencias que estimulen la creatividad y el interés de la juventud para convertirse en empresarios consolidados o agentes de cambio que aporten al sostenimiento de las fuentes productivas, el desarrollo regional equilibrado y la cultura emprendedora.
-
-> <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
-
-Artículo 104 bis.- Para los efectos de este capítulo, se le considera a un joven como un empresario consolidado a la persona de quince a veintinueve años de edad, que ejerza y desarrolle una actividad empresarial de forma habitual, con la adquisición de la titularidad en las obligaciones y los derechos derivados; y que de dicha actividad se obtenga como resultado una producción o un intercambio de bienes y servicios en el mercado.
-
-> <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
-
-Artículo 104 ter.- Las actividades emprendedoras a que se refiere este capítulo deberán regirse por los siguientes principios:
-
-I.- Formación integral en valores humanos, preponderando el sentido de la igualdad y equidad entre los jóvenes;
-
-II.- Fortalecimiento a los procesos de emprendimiento sostenible, mediante el trabajo en equipo enfocado a proyectos productivos con responsabilidad social y cultura ambiental;
-
-III.- Reconocimiento a las ideas creativas e innovadoras, la conciencia y la responsabilidad del desarrollo emprendedor de los jóvenes de forma individual y colectiva como integrantes de una comunidad, y
-
-IV.- Responsabilidad por el entorno, la protección y el cuidado del medio ambiente, la naturaleza, los recursos y la comunidad.
-
-> <small>(ADICIONADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
-
-Artículo 104 quater.- El Poder Ejecutivo del Estado, a través de las diversas dependencias y entidades, fomentará y promoverá el desarrollo productivo de las micro y pequeñas empresas o industrias innovadoras, creativas y competitivas creadas por los jóvenes emprendedores.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 4 DE DICIEMBRE DE 2017)</small>
 
@@ -1121,15 +1231,13 @@ Artículo 104 quindecies.- Los jóvenes emprendedores y empresarios de quince a 
 
 > <small>(REFORMADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO I. De la Colaboración
-
 ###### Artículo 105.
 
 El Reglamento de esta Ley deberá prever el funcionamiento y la operación del Fondo de Promoción y Fomento al Joven Emprendedor.
 
 ## TÍTULO QUINTO. DE LA COLABORACIÓN, LA PARTICIPACIÓN Y LOS RECONOCIMIENTOS
 
-### CAPÍTULO II. De la Participación
+### CAPÍTULO I. De la Colaboración
 
 ###### Artículo 106.
 
@@ -1139,7 +1247,7 @@ Las políticas de juventud deberán fomentar la participación y colaboración d
 
 La participación y colaboración señalada en el artículo anterior, se formalizará mediante convenios, de conformidad con lo dispuesto en la normativa aplicable.
 
-### CAPÍTULO III. De los Reconocimientos
+### CAPÍTULO II. De la Participación
 
 ###### Artículo 108.
 
@@ -1157,9 +1265,7 @@ Asimismo potenciará la inclusión de aquellas organizaciones de carácter gener
 
 La secretaría y los ayuntamientos promoverán el voluntariado juvenil, de conformidad con lo establecido en la normatividad vigente en esta materia, desarrollando acciones como el apoyo de actividades y el fomento de proyectos destinados a la creación de asociaciones orientadas al servicio voluntario en el estado y los municipios, acciones innovadoras en la creación de redes de solidaridad y cooperación, y apoyo en procesos específicos de formación y preparación de jóvenes en el espíritu voluntario.
 
-### CAPÍTULO IV. Del Día Estatal de la Juventud
-
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+### CAPÍTULO III. De los Reconocimientos
 
 ###### Artículo 111.
 
@@ -1183,7 +1289,9 @@ Asimismo, se considerará en ambas modalidades, la entrega del Premio Estatal de
 
 El Reglamento de esta Ley deberá prever las modalidades, composición del jurado y cuantía de los premios.
 
-### CAPÍTULO I. De las Causales de Responsabilidad
+### CAPÍTULO IV. Del Día Estatal de la Juventud
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 114.
 
@@ -1203,7 +1311,7 @@ Se faculta a la secretaría para solicitar de las dependencias y entidades de la
 
 ## TÍTULO SEXTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
-### CAPÍTULO II. De las Sanciones
+### CAPÍTULO I. De las Causales de Responsabilidad
 
 ###### Artículo 117.
 
@@ -1223,7 +1331,7 @@ VI.- Aplicar selectivamente alguna de las acciones o políticas, en perjuicio de
 
 Los servidores públicos considerados en la presente ley, que incurran en las responsabilidades a que se refiere este artículo, serán sujetos de responsabilidad administrativa y serán sancionados por la Secretaría de la Contraloría General del Estado y los órganos de control interno de los Ayuntamientos, en el ámbito de su competencia; de conformidad con los procedimientos dispuestos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
 
-### CAPÍTULO III. Del Recurso de Revocación
+### CAPÍTULO II. De las Sanciones
 
 ###### Artículo 118.
 
@@ -1250,6 +1358,8 @@ V.- En caso de reincidencia de cualquiera de las acciones u omisiones señaladas
 Las multas a que se refiere este artículo, se aplicarán de acuerdo con el valor actualizado de la unidad de medida y actualización.
 
 Las responsabilidades administrativas que se generen por el incumplimiento de las obligaciones a que se refiere este artículo, son independientes de las de orden civil o penal que procedan.
+
+### CAPÍTULO III. Del Recurso de Revocación
 
 ###### Artículo 119.
 
@@ -1340,3 +1450,13 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 7 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 100/2019 POR EL QUE SE MODIFICA LA LEY DE JUVENTUD DEL ESTADO DE YUCATÁN”.]
+
+Artículo Primero: El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo: El Consejo Estatal de la Juventud se instalará en un plazo máximo de treinta días hábiles contados a partir de la entrada en vigor de este decreto.
+
+Artículo Tercero: El Consejo Estatal de la Juventud deberá expedir su Reglamento interno en un plazo no mayor de ciento veinte días naturales, contados a partir de su instalación.
