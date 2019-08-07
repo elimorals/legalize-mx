@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-110872"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-30"
-last_updated: "2019-03-16"
+last_updated: "2019-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 2015.
 
@@ -2327,6 +2327,20 @@ cada establecimiento. 100.0 UMA
 
 La Secretaría establecerá un registro estatal de vehículos, con la finalidad de llevar un control de los contribuyentes tenedores, usuarios o propietarios de vehículos automotores, emisión de tarjetas de circulación y otorgamiento de juego de placas, calcomanías y demás comprobantes de pago de impuestos y derechos establecidos en las leyes estatales y federales.
 
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2019)</small>
+
+###### Artículo 81-A.
+
+La Secretaría proporcionará a los establecimientos que comercialicen motocicletas, motocarros o motonetas, los sistemas necesarios para iniciar la inscripción de la información correspondiente de dichos vehículos y de sus compradores en el Registro Estatal de Vehículos, mediante las disposiciones que para tal efecto establezca en Reglas de Carácter General.
+
+Conforme a lo establecido en la fracción I del artículo 82 de la presente Ley, los contribuyentes que adquieran motocicletas, motocarros o motonetas, deberán acudir a la Secretaría de Seguridad y Protección Ciudadana a través de la Dirección General de la Policía Estatal de Caminos y a la Secretaría a concluir el trámite de inscripción en el Registro Estatal de Vehículos.
+
+Las personas físicas y jurídicas colectivas propietarias de los establecimientos que comercialicen motocicletas, motocarros o motonetas, se cerciorarán previo a la entrega de dichos vehículos, que el adquirente haya realizado el pago del derecho establecido en el artículo 85, fracción I, inciso b) de esta Ley, informando a la Secretaría dentro de las 48 horas siguientes a su enajenación.
+
+En caso de que el contribuyente omita el cumplimiento de la obligación de pago del derecho a que se refiere en el párrafo anterior, las personas físicas o jurídicas colectivas propietarias de los establecimientos que comercialicen motocicletas, motocarros o motonetas, retendrán, enterarán e informarán dentro de las 48 horas siguientes a su enajenación a la Secretaría dicho derecho.
+
+En términos de la fracción V del artículo 18 del Código Fiscal del Estado de Tabasco, serán responsables solidarios las personas físicas y jurídicas colectivas obligadas a informar, retener y enterar el derecho establecido en el artículo 85 fracción I, inciso b) de esta Ley.
+
 ###### Artículo 82.
 
 Los contribuyentes con domicilio en esta entidad que detenten la propiedad, posesión o el uso de vehículos, deben solicitar su inscripción en el registro estatal de vehículos ante la Secretaría, a través de las receptorías de rentas.
@@ -2356,6 +2370,18 @@ g) Cuando el propietario, usuario o tenedor de un vehículo destinado al servici
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
 
 Cuando el propietario, usuario o tenedor de un vehículo destinado al servicio público, pretenda realizar el cambio a servicio particular deberá acreditarlo con la manifestación de baja expedida por la Secretaría de Movilidad.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2019)</small>
+
+###### Artículo 82-A.
+
+Las autoridades fiscales en términos del artículo 18 de la Ley del Registro Público Vehicular, exigirán como requisito previo para los trámites relacionados al pago de contribuciones estatales vehiculares, que estos se encuentren inscritos en el Registro Público Vehicular.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2019)</small>
+
+###### Artículo 82-B.
+
+Las autoridades de tránsito, vialidad y control vehicular verificarán que los vehículos que circulen en el Estado o pretendan inscribirse en el Registro Estatal de Vehículos, cuenten con el dispositivo electrónico a que se refiere el artículo 18 del Reglamento de la Ley del Registro Público Vehicular y este permita consultar de forma remota y a través de sistemas, los datos del Registro Público Vehicular.
 
 ###### Artículo 83.
 
@@ -5155,8 +5181,24 @@ Con la finalidad de vigilar el cumplimiento de las disposiciones fiscales relati
 
 P.O. 16 DE MARZO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 073 POR EL QUE "SE REFORMAN EL ARTÍCULO 82, PÁRRAFO TERCERO; LA DENOMINACIÓN DEL CAPÍTULO OCTAVO, DEL TÍTULO TERCERO; EL ARTÍCULO 93, EN SU PÁRRAFO PRIMERO, EN EL PÁRRAFO SEGUNDO DE LA FRACCIÓN II, Y EN EL SUB INCISO (B), DEL INCISO J), DE SU FRACCIÓN IV; TODOS DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO".]
+## [N. DE E. TRANSITORIOS DEL DECRETO 073 POR EL QUE “SE REFORMAN EL ARTÍCULO 82, PÁRRAFO TERCERO; LA DENOMINACIÓN DEL CAPÍTULO OCTAVO, DEL TÍTULO TERCERO; EL ARTÍCULO 93, EN SU PÁRRAFO PRIMERO, EN EL PÁRRAFO SEGUNDO DE LA FRACCIÓN II, Y EN EL SUB INCISO (B), DEL INCISO J), DE SU FRACCIÓN IV; TODOS DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 7 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 112 POR EL QUE "SE ADICIONAN LOS ARTÍCULOS 81-A, 82-A Y 82-B; TODOS DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco, salvo lo dispuesto en el artículo 81-A de la Ley de Hacienda del Estado de Tabasco, el cual entrará en vigor a partir del 1 de enero de 2020.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. El titular del Poder Ejecutivo deberá emitir dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, las adecuaciones conducentes al Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco.
+
+CUARTO. Las Reglas de Carácter General para la aplicación de lo dispuesto en el artículo 81-A de la Ley de Hacienda del Estado de Tabasco, que emita la Secretaría de Finanzas, deberán entrar en vigor el 1 de enero de 2020.
+
+QUINTO. Los sistemas a que se refiere el artículo 81-A de la Ley de Hacienda del Estado de Tabasco, deberán entrar en funcionamiento el 1 de enero de 2020.
+
+SEXTO. La Secretaría de Finanzas realizará las previsiones presupuestales necesarias para el cumplimiento de lo establecido en el presente Decreto.
