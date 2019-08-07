@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2019-07-18"
+last_updated: "2019-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2019.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -1718,19 +1718,29 @@ La Subsecretaría de Protección Civil tendrá las siguientes atribuciones:
 
 I. Suplir en sus ausencias a la persona Titular de la Secretaría de Gestión Integral de Riesgo y Protección Civil, en el Secretariado Ejecutivo del Consejo de Protección Civil de la Ciudad de México;
 
-II. Supervisar las acciones para la elaboración de los proyectos de programas de Gestión Integral de Riesgos y Protección Civil;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
-III. Mantener vinculación con las Dependencias, Unidades Administrativas, Alcaldías y Entidades de la Administración Pública, en la ejecución de los programas de protección civil;
+II. Coordinar y supervisar el desarrollo de proyectos de planes y programas de Gestión Integral de Riesgos y Protección Civil, y su puesta en marcha;
 
-IV. Coordinar y hacer el seguimiento de los programas y acciones en materia de Gestión Integral de Riesgos y Protección Civil de las Dependencias, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública, en razón de sus características geográficas o de vulnerabilidad a riegos y emergencias;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
-V. Supervisar la actualización del registro de las organizaciones civiles, empresas capacitadoras, así como a las empresas de consultaría (sic) y estudio de riesgo y vulnerabilidad, que por sus características se vinculen a la materia de protección civil;
+III. Mantener vinculación con las Dependencias, Unidades Administrativas, Alcaldías y Entidades de la Administración Pública, y los sectores privado, social y académico, para la ejecución de los programas de Gestión Integral de Riesgos y Protección Civil;
 
-VI. Proponer a la persona Titular de la Secretaría de Gestión Integral de Riesgos y Protección Civil, políticas públicas para establecer acciones preventivas en la materia;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
+
+IV. Coordinar los programas y acciones de Gestión Integral de Riesgos y Protección Civil de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México y Alcaldías, responsables de los Servicios Vitales y Sistemas Estratégicos;
+
+V. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
+
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
+
+VI. Proponer a la persona titular de la Secretaría de Gestión Integral de Riesgos y Protección Civil, políticas públicas para establecer acciones de previsión, prevención, mitigación, respuesta y resiliencia táctica operativa en Gestión Integral de Riesgos y Protección Civil;
 
 VII. Certificar los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo;
 
-VIII. Promover la creación de instrumentos y procedimientos de planeación, técnicos y operativos, que permitan prevenir y atender la eventualidad de una emergencia o desastre;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
+
+VIII. Promover la creación de protocolos, procedimientos y acciones tácticas operativas, que permitan prever, prevenir y atender la eventualidad de una emergencia o desastre, tanto natural como antrópica;
 
 IX. Estudiar y evaluar riesgos, peligros y vulnerabilidades, integrando y ampliando los conocimientos de tales acontecimientos en coordinación con las Dependencias responsables;
 
@@ -6962,45 +6972,61 @@ XVI. Las demás que le sean encomendadas por la persona titular de la Secretarí
 
 Corresponde a la Dirección General Táctico Operativa:
 
-I. Elaborar modelos matemáticos de medición, simulación y respuesta ante emergencias en la Ciudad de México;
+I. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
 
-II. Realizar y difundir programas de orientación, capacitación a los habitantes de la Ciudad de México, antes, durante y después de una emergencia;
+II. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
 
-III. Elaborar, operar, evaluar y actualizar la información de análisis de riesgos e inteligencia de emergencias mayores del Registro Estadístico Único de Situaciones de Emergencia de la Ciudad de México;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
+
+III. Elaborar, operar, evaluar y actualizar la información del Registro Estadístico Único de Situaciones de Emergencia de la Ciudad de México;
 
 IV. Recabar, captar y sistematizar la información, para conocer la situación de la Ciudad de México en condiciones normales y de emergencia;
 
-V. Normar los establecimientos temporales para el auxilio de los habitantes de la Ciudad de México, en situaciones de emergencia o de desastre;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
-VI. Coordinar los dispositivos de apoyo para tender (sic) situaciones de emergencia o desastre;
+V. Proponer las normas de los establecimientos temporales para el auxilio de los habitantes de la Ciudad de México, en situaciones de emergencia o de desastre;
 
-VII. Asegurar la operación del sistema de alerta de conformidad con la estructuras funcional (sic) del Sistema de Gestión Integral de Riesgo y Protección Civil en la Ciudad de México;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
-VIII. Evaluar los mecanismos establecidos para determinar la dimensión física y social de las emergencias o desastres, las necesidades prioritarias y los riesgos secundarios;
+VI. Coordinar los dispositivos de apoyo para atender situaciones de emergencia o desastre;
+
+VII. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
+
+VIII. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
 
 IX. Aplicar los planes de emergencia establecidos y coordinar los mecanismos de acción en caso de emergencia o desastre;
 
-X. Coordinar los dispositivos de seguridad;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
+
+X. Coordinar y aplicar medidas de seguridad;
 
 XI. Establecer y coordinar los planes de seguridad, búsqueda, salvamento y asistencia, servicios estratégicos, equipamiento y bienes; salud, aprovisionamiento y reconstrucción inicial;
 
 XII. Elaborar el Manual de Organización del Sistema, en la parte de atención de situaciones de emergencia o desastre;
 
-XIII. Establecer en coordinación con las Dependencias, Órganos Desconcentrados, Entidades, órganos e instituciones del sector Público y Privado, los lineamientos para la prestación de los servicios públicos que deben ofrecerse a la población en caso de situaciones de riesgo, siniestro, o desastre;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
+
+XIII. Establecer en coordinación con las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, Alcaldías, órganos e instituciones del sector público y privado, los lineamientos para la prestación de los servicios públicos que deben ofrecerse a la población en caso de situaciones de emergencia o desastre;
 
 XIV. Evaluar los planes de respuesta existentes, ratificando y en su caso rectificando los procedimientos y contenidos de los mismos;
 
-XV. Planear con base en la regionalización de riesgo-respuesta, manteniéndola actualizada;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
+
+XV. Proponer planes de emergencia con base en regionalización de riesgo-respuesta, manteniéndola actualizada;
 
 XVI. Recomendar y evaluar la realización de simulacros en las áreas clasificadas de alto riesgo de ocurrencia de fenómenos naturales o antropogénicos;
 
-XVII. Elaborar, analizar proponer, evaluar y actualizar los instrumentos, sistemas y procedimientos relativos a la información y análisis de los riesgos sus causas preexistentes y posibles estrategias para su mitigación alimentando el registro estadístico único de las situaciones de emergencias;
+XVII. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
 
-XVIII. Generar los reportes estadísticos requeridos para informar a las autoridades superiores;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
-XIX. Aplicar medidas de seguridad ante alto riesgo, emergencia o desastre; y
+XVIII. Generar los reportes estadísticos requeridos para informar a las autoridades superiores; y
 
-XX. Las demás que la presente ley, así como otras disposiciones le asignen.
+XIX. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
+
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
+
+XX. Las demás que el presente Reglamento así como otras disposiciones le asignen.
 
 ###### Artículo 167.
 
@@ -7010,63 +7036,107 @@ I. Supervisar que la operación y acciones cumplan con los fines de la protecci�
 
 II. Auxiliar en labores de coordinación y vigilancia de los programas y acciones en la materia;
 
-III. Elaborar el Manual de Organización del Sistema, en la parte de acciones de prevención;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
-IV. Elaborar Normas Técnicas y Términos de Referencia para la Elaboración de Programas Internos, Específicos y Especiales de Protección Civil;
+III. Promover la cultura de Gestión Integral de Riesgos y Protección Civil, para la capacitación a brigadistas comunitarios y Comités de Prevención de Riesgos;
 
-V. Promover la cultura de la gestión integral de riesgos y protección civil, en programas educativos y capacitación de la población;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
-VI. Registrar, publicar y actualizar mensualmente en su portal institucional el padrón de terceros acreditados registrados y grupos voluntarios;
+IV. Capacitar al personal operativo de las Unidades de Gestión Integral de Riesgos y Protección Civil, de las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México y de las Alcaldías; así como a la población en general en materia de Gestión Integral de Riesgos y Protección Civil;
+
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
+
+V. Brindar, en los términos establecidos en la Ley de la materia, capacitación a los integrantes del Sistema que lo soliciten y vigilar el cumplimiento de las disposiciones correspondientes;
+
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
+
+VI. Registrar, publicar y actualizar mensualmente en su portal institucional el padrón de Terceros Acreditados, registrados, grupos voluntarios, Comités de Apoyo Mutuo y Comités de Prevención de Riesgos;
 
 VII. Establecer anualmente los programas y cursos de capacitación y actualización obligatoria para los terceros acreditados;
 
 VIII. Promover y apoyar la capacitación de asociaciones y grupos voluntarios en materia de gestión de riesgo y protección civil;
 
-IX. Coordinar y vincular acciones entre Dependencias y Entidades de la Administración Pública local, federal y de representación internacional dentro de la entidad; y
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
-X. Las demás que la presente ley, así como otras disposiciones le asignen.
+IX. Proponer Normas Técnicas y Términos de Referencia para la Elaboración de Programas Especiales de Protección Civil con enfoque de inclusión e interculturalidad;
+
+> <small>(REFORMADA, [N. DE E. ADICIONADA], G.O. 7 DE AGOSTO DE 2019)</small>
+
+X. Registrar, vigilar y autorizar el cumplimiento de los Programas Especiales que presenten los respectivos obligados;
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2019)</small>
+
+XI. Registrar y autorizar a los Terceros Acreditados;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 7 DE AGOSTO DE 2019)</small>
+
+XII. Las demás que el presente Reglamento, así como las disposiciones le asignen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 168.
 
-Corresponde a la Dirección General de Resiliencia tendrá (sic) las siguientes funciones:
+Corresponde a la Dirección General de Resiliencia:
 
 I. Diseñar, implementar y coordinar políticas públicas, programas y acciones que incidan en mejorar la capacidad de la Ciudad de México, para sobrevivir, resistir, recuperarse, adaptarse y crecer ante riesgos, tensiones crónicas, impactos agudos o amenazas múltiples que experimente en el presente y futuro;
 
-II. Elaborar, emitir y actualizar la Estrategia de Resiliencia de la Ciudad de México, así como las políticas públicas, programas y acciones relacionadas con la materia;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
-III. Monitorear, reportar, verificar y evaluar los ejes, las metas, las acciones y demás actividades de la Estrategia de Resiliencia de la Ciudad de México, así como de las políticas públicas, programas y acciones relacionadas con la materia;
+II. Fomentar y fortalecer alianzas estratégicas y de cooperación multisectorial para facilitar el intercambio y movilización de conocimientos, tecnología y recursos para el fortalecimiento de la resiliencia en la Ciudad de México;
 
-IV. Solicitar a los órganos de la Administración Pública Local, Federal, Estatal, Municipal, sector académico, social y privado, la información que contribuya a generar diagnósticos y soluciones para la construcción de resiliencia;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
-V. Requerir la información necesaria de las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública de la Ciudad de México, para la construcción de resiliencia;
+III. Coordinar la elaboración y actualización de la Estrategia de Resiliencia de la Ciudad de México, así como las políticas públicas, programas, normas y acciones relacionadas con la materia;
 
-VI. Establecer mecanismos de coordinación con las Alcaldías en el ámbito de su competencia, para el diseño y ejecución de acciones relacionadas con la construcción de resiliencia en las demarcaciones territoriales;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
-VII. Identificar mejores prácticas globales e impulsar proyectos de innovación en materia de resiliencia, para su implementación en la Ciudad de México;
+IV. Colaborar en el desarrollo y coordinación de la política de adaptación frente al cambio climático en el componente de reducción del riesgo de desastres y resiliencia;
 
-VIII. Promover la asistencia técnica y colaboración en materia de resiliencia con las instancias competentes de la Ciudad de México;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
-IX. Diseñar e implementar procesos de continuo aprendizaje en materia de resiliencia para las instancias competentes de la Ciudad de México;
+V. Solicitar a las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, Alcaldías, así como los entes de la Administración Pública Federal, Estatal, Municipal, sector académico, social y privado, la información que contribuya a generar diagnósticos y soluciones para la construcción de resiliencia;
 
-X. Emitir opinión respecto de las políticas, programas y acciones públicas que contribuyan a la construcción de resiliencia en la Ciudad de México;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
-XI. Implementar y dar seguimiento a las acciones en materia de resiliencia, para reducir las tensiones crónicas y mejorar la respuesta ante impactos mediante la colaboración con los diferentes sectores de la Administración Pública, el sector público, social, privado, la comunidad científica;
+VI. Identificar mejores prácticas globales e impulsar productos de innovación en materia de resiliencia, para su implementación en la Ciudad de México;
 
-XII. Opinar, en el ámbito de su competencia, respecto de los actos administrativos que tengan impacto en materia de resiliencia;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
-XIII. Proponer normas y demás disposiciones administrativas, que se consideren convenientes para la realización de acciones en materia de resiliencia;
+VII. Promover y proporcionar la asistencia técnica para la incorporación de acciones y análisis de resiliencia en los instrumentos de planeación y regulación del ordenamiento territorial; y en los instrumentos de planeación y programación institucional;
 
-XIV. Participar en la elaboración de estudios, programas y proyectos relacionados con la planeación urbana y territorial en materia de resiliencia;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
-XV. Promover el posicionamiento de la Ciudad de México en materia de resiliencia;
+VIII. Emitir opinión respecto al diseño, implementación y coordinación de políticas públicas y acciones que contribuyan a la construcción de resiliencia en la Ciudad de México;
 
-XVI. Promover las acciones necesarias para fomentar e incrementar la resiliencia en los habitantes de la Ciudad de México; y
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
-XVII. Las demás que la presente ley, así como otras disposiciones le asignen.
+IX. Promover el posicionamiento de la Ciudad de México en materia de resiliencia;
+
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
+
+X. Desarrollar el Sistema de Monitoreo, Reporte y Verificación, el cual fungirá como una herramienta dinámica para evaluar el impacto de la implementación de políticas y acciones de construcción de resiliencia; y
+
+XI. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
+
+XII. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
+
+XIII. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
+
+XIV. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
+
+XV. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
+
+XVI. (DEROGADA, G.O. 7 DE AGOSTO DE 2019)
+
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
+
+XVII. Las demás que el presente Reglamento, así como otras disposiciones le asignen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 169.
 
-La Dirección General de Análisis de Riesgos tendrá las siguientes funciones:
+Corresponde a la Dirección General de Análisis de Riesgos:
 
 I. Proponer el establecimiento y modificación de normas en materia de Gestión Integral de Riesgos y Protección Civil;
 
@@ -7090,13 +7160,35 @@ X. Certificar los documentos que obren en los expedientes que sean integrados co
 
 XI. Recabar, clasificar y analizar información para evaluar riesgos y daños provenientes de fenómenos de origen natural o antropogénico que puedan ocasionar desastres;
 
-XII. Realizar las funciones de verificación a cargo de la Secretaría de Gestión Integral de Riesgos y Protección Civil; y
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2019)</small>
 
-XIII. Las demás que el presente Reglamento y otras disposiciones le asignen.
+XII. Realizar las funciones de verificación de riesgo a cargo de la Secretaría de Gestión Integral de Riesgos y Protección Civil;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 7 DE AGOSTO DE 2019)</small>
+
+XIII. Proponer Normas Técnicas y Términos de Referencia para la Elaboración de Programas Internos de Protección Civil con enfoque de inclusión e interculturalidad;
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2019)</small>
+
+XIV. Operar la Plataforma Digital para el ingreso de los Programas Internos de Protección Civil;
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2019)</small>
+
+XV. Revisar, registrar y autorizar los Programas Internos de los inmuebles que ocupen las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, las Alcaldías, Órganos Autónomos y del Poder Legislativo y Judicial de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2019)</small>
+
+XVI. Registrar y revisar los Programas Internos de Protección Civil que presenten los respectivos obligados; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 7 DE AGOSTO DE 2019)</small>
+
+XVII. Las demás que el presente Reglamento y otras disposiciones le asignen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 170.
 
-La Dirección Ejecutiva de Asuntos Jurídicos tendrá las siguientes funciones:
+Corresponde a la Dirección Ejecutiva de Asuntos Jurídicos:
 
 I. Representar legalmente a la Secretaría de Gestión Integral de Riesgos y Protección Civil en las controversias judiciales, en materia civil, laboral, administrativa, mercantil y penal, elaborando demandas, denuncias y contestaciones ante las autoridades judiciales del fuero local, federal o municipal; Rendir los informes previos y justificados en los amparos en los que la Dependencia sea señalada como autoridad responsable;
 
@@ -13333,3 +13425,11 @@ G.O. 18 DE JULIO DE 2019.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto amplía el publicado el día catorce de junio de dos mil diecinueve en la Gaceta Oficial de la Ciudad de México, por lo que para la constitución y funcionamiento de la Comisión de Búsqueda de la Ciudad de México, se atenderá la entrada en vigor del mismo.
+
+G.O. 7 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación.
