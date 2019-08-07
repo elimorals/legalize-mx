@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-del-sistema-de-proteccion-civil-del-123247
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-06"
-last_updated: "2019-06-05"
+last_updated: "2019-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123247&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,11 @@ issue_date: "2017-01-31"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO SEXTO TRANSITORIO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 5 DE JUNIO DE 2019, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 60 DÍAS NATURALES POSTERIORES A SU PUBLICACIÓN.]</small>
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, PUBLICADA EN LA G.O. DE 7 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE JUNIO DE 2019 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 6 de septiembre de 2017.
 
@@ -2237,3 +2239,53 @@ DÉCIMO QUINTO. Una vez que entre en vigor la presente Ley, se abrogan las dispo
 DÉCIMO SEXTO. Una vez que entre en vigor la presente Ley, se abroga la Ley del Sistema de Protección Civil del Distrito Federal publicada en la Gaceta Oficial de la Ciudad de México el veintisiete de noviembre de dos mil catorce, así como las disposiciones del Reglamento de la Ley del Sistema de Protección Civil del Distrito Federal, publicado en la Gaceta Oficial de la Ciudad de México el seis de septiembre de dos mil diecisiete, y cualquier disposición que contravenga lo dispuesto por la presente Ley.
 
 DÉCIMO SÉPTIMO. De conformidad con la Constitución Política de la Ciudad de México, se velará por erradicar cualquier práctica monopólica respecto de la aplicación de la presente Ley.
+
+P.O. 7 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Reglamento entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se abroga el REGLAMENTO DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL, publicado en la Gaceta Oficial de la Ciudad de México el 6 de septiembre de 2017, así como el AVISO POR EL QUE SE DA A CONOCER LOS TÉRMINOS DE REFERENCIA PARA LA ELABORACIÓN DE PROGRAMAS INTERNOS DE PROTECCIÓN CIVIL, TR-SPC-001-PIPC-2016, publicado en la Gaceta Oficial de la Ciudad de México el 22 de febrero de 2016.
+
+CUARTO.- Se derogan todas aquéllas disposiciones que se opongan al presente Reglamento.
+
+QUINTO.- Los Programas Internos que hayan sido aprobados antes de la entrada en vigor del presente Reglamento permanecerán vigentes hasta la fecha que se señale en el respectivo oficio de aprobación.
+
+SEXTO.- Los Programas Internos que hayan sido presentados a trámite previo a la entrada en vigor del presente Reglamento, se sustanciarán en los términos previstos en el Reglamento y en los Términos de Referencia para la Elaboración de Programas Internos de Protección Civil que se abrogan.
+
+SÉPTIMO.- Las Alcaldías tendrán un término máximo de 30 (treinta) días naturales para resolver las solicitudes de aprobación a que se refiere el artículo transitorio anterior. En caso de que no emitan resolución, la persona obligada podrá iniciar el trámite de registro del Programa Interno en los términos previstos en el presente Reglamento.
+
+OCTAVO.- Las previsiones a que se refieren las fracciones IV y V del artículo 47, entrarán en vigor 150 (ciento cincuenta) días después a la entrada en vigor del presente Reglamento.
+
+NOVENO.- Las previsiones a que se refieren las fracciones IV y V del artículo 48, entrarán en vigor 150 (ciento cincuenta) días después a la entrada en vigor del presente Reglamento.
+
+DÉCIMO.- Los Programas Especiales que hayan ingresado a trámite previo a la entrada en vigor del presente Reglamento se sustanciarán en los términos previstos en el Reglamento que se abroga.
+
+UNDÉCIMO.- En tanto se expide la Norma Técnica correspondiente para la utilización de artificios pirotécnicos la Norma Técnica NTCP-010-PIROTECNIA-2017.- “Instalación y Quema de Artificios Pirotécnicos en Espectáculos Públicos y Tradicionales en la Ciudad de México", permanecerá vigente.
+
+DUODÉCIMO.- Para el caso de Centros de Educación Inicial que estén operando previo al inicio de vigencia del presente Reglamento, tendrán un término de 120 (ciento veinte) días naturales a partir de la entrada en vigor del presente Reglamento, para realizar las adecuaciones a que se refiere la NOM-009-SEGOB-2015.
+
+DÉCIMO TERCERO.- Los responsables de la administración y funcionamiento de los Centros de Educación Inicial tendrán un término de 150 (ciento cincuenta) días naturales a partir de la entrada en vigor del presente Reglamento, para registrar el correspondiente Programa Interno, conforme lo establece la NOM-009-SEGOB-2015.
+
+DÉCIMO CUARTO.- Los estudios de riesgos a que se refiere el presente Reglamento, se elaborarán conforme los Lineamientos que al efecto se expidan.
+
+DÉCIMO QUINTO.- La certificación de los estándares de competencia a que se refiere el artículo 128 será exigible a partir del 1 de octubre de 2021.
+
+DÉCIMO SEXTO.- La certificación de los estándares de competencia a que se refiere este Reglamento en los artículos 145, 151 y 163 fracciones II, IV, V y VII, 188 fracción III y 189 fracción III, serán exigibles dentro de un año posterior a la entrada en vigor del presente instrumento y una vez que la Secretaría informe a los obligados, mediante aviso publicado en la Gaceta Oficial de la Ciudad de México que la Escuela Nacional de Protección Civil está en posibilidad de otorgar la certificación requerida. Dentro del citado aviso se establecerán los plazos máximos para que dichas obligaciones sean exigibles.
+
+DÉCIMO SÉPTIMO.- Hasta en tanto sean exigibles las certificaciones a que se refiere el TRANSITORIO DÉCIMO SEXTO, la Secretaría otorgará los registros y autorizaciones a grupos voluntarios y Terceros Acreditados con el cumplimiento del resto de las obligaciones y requisitos señalados en el presente Reglamento.
+
+DÉCIMO OCTAVO.- La certificación del estándar de competencia a que se refiere el artículo 187, será exigible en un año, contado a partir de la fecha de publicación del presente Reglamento, mientras tanto la Secretaría otorgará el registro y autorización a Terceros Acreditados con el cumplimiento del resto de las obligaciones y requisitos señalados en el presente Reglamento.
+
+DÉCIMO NOVENO.- El cumplimiento de las obligaciones establecidas para los grupos voluntarios en el artículo 163, fracciones III y IV del presente Reglamento se hará mediante los cursos que al efecto establezca la Secretaría, mismos que se notificarán a los interesados mediante aviso que se publique en la Gaceta Oficial de la Ciudad de México.
+
+VIGÉSIMO.- Las solicitudes de Registro como Terceros Acreditados que hayan ingresado a la Secretaría antes de la entrada en vigor del presente Reglamento, se sustanciarán conforme el Reglamento que se abroga.
+
+VIGÉSIMO PRIMERO.- El Acuerdo a que se refiere el artículo 51 del presente Reglamento se publicará a los treinta días posteriores a la fecha de entrada en vigor del presente instrumento.
+
+VIGÉSIMO SEGUNDO.- Se abroga el AVISO POR EL QUE SE DA A CONOCER LA “NORMA TÉCNICA COMPLEMENTARIA NTCPC-008-APED- 2016.- QUE ESTABLECE LOS LINEAMIENTOS DE ATENCIÓN PSICOSOCIAL EN EMERGENCIAS Y DESASTRES”, publicado en la Gaceta Oficial de la Ciudad de México el 7 de abril de 2016.
+
+VIGÉSIMO TERCERO.- Se abroga el AVISO POR EL QUE SE DA A CONOCER LOS TÉRMINOS DE REFERENCIA PARA LA ELABORACIÓN DE PROGRAMAS INTERNOS DE PROTECCIÓN CIVIL PARA OBRAS EN PROCESO DE CONSTRUCCIÓN, REMODELACIÓN Y DEMOLICIÓN TR-SPC-003-PIPC-OBRAS-2017”, publicado en la Gaceta Oficial de la Ciudad de México el 2 de marzo de 2017.
