@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-judicial-del-estado-de-tabasco-114915"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-28"
-last_updated: "2019-03-16"
+last_updated: "2019-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2019.
 
 Ley publicada en el Suplemento “B” del Periódico Oficial del Estado de Tabasco, el sábado 28 de mayo de 2016.
 
@@ -91,13 +91,15 @@ f) Mixtos;
 
 g) De control;
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
-h) De enjuiciamiento;
+h) De enjuiciamiento; y
 
-i) De ejecución; y,
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
-j) De paz.
+i) De ejecución.
+
+j) (DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### Artículo 3.
 
@@ -165,11 +167,37 @@ Los auxiliares de la Administración de Justicia están obligados a cumplir con 
 
 ### CAPÍTULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 10.
 
-El Tribunal Superior de Justicia del Estado se integra por veinte Magistrados y funcionará en Pleno o en Salas; y en el Sistema Procesal Penal Acusatorio y Oral, en forma Colegiada o Unitaria.
+El Tribunal Superior de Justicia del Estado se integra por veintiún Magistrados y funcionará en Pleno o en Salas; y en el Sistema Procesal Penal Acusatorio y Oral, en forma Colegiada o Unitaria.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 7 DE AGOSTO DE 2019)</small>
+
+A propuesta del Presidente el Pleno del Tribunal comisionará a uno de ellos para que auxilie en la Presidencia, con las funciones siguientes:
+
+I. Asistir en el desarrollo de las audiencias y en general, apoyar al público que asiste al Tribunal Superior de Justicia y que le comisione el Presidente;
+
+II. Representar al Presidente del Tribunal en los eventos que le comisione;
+
+III. Colaborar, en su caso, como enlace interno en la coordinación de programas y trabajos que le encomiende el Presidente del Tribunal y el Pleno del Tribunal; así como los que se desarrollen entre este y el Pleno del Consejo;
+
+IV. Coadyuvar en la revisión de las actas del Pleno del Tribunal hasta ponerlas en estado de firma;
+
+V. Colaborar en el cumplimiento de las atribuciones internas y funciones que le encomiende el Presidente del Tribunal y el Pleno del Tribunal;
+
+VI. Contribuir al servicio de las áreas de la Presidencia para concretar y optimizar las acciones internas entre los órganos y áreas del Poder Judicial;
+
+VII. Coadyuvar en la atención y coordinación de la agenda del Presidente del Tribunal; y
+
+VIII. Las demás que determine el Presidente del Tribunal.
+
+(REPUBLICADO, P.O. 7 DE AGOSTO DE 2019)
 
 El número de Magistrados podrá aumentarse o disminuirse conforme a las necesidades del servicio público de administración de justicia, quienes serán nombrados en los términos del artículo 56 de la Constitución del Estado.
+
+(REPUBLICADO, P.O. 7 DE AGOSTO DE 2019)
 
 Los Magistrados interinos o suplentes, que por necesidad de la administración de justicia sean designados por el Pleno del Tribunal o por el Congreso del Estado, según corresponda, durarán en su encargo únicamente por el tiempo que dure la causa que lo originó, sin que pueda exceder de los plazos previstos por la ley para el caso respectivo, por lo que su naturaleza es eventual.
 
@@ -203,9 +231,9 @@ El Pleno del Tribunal Superior de Justicia se integra por su Presidente y los Ma
 
 El Pleno del Tribunal tendrá las facultades siguientes:
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
 
-I. Conocer, en el ámbito de su competencia, de los juicios políticos en los términos de los artículos 67, 68 y 69 de la Constitución del Estado; los aplicables de la Ley de Responsabilidades de los Servidores Públicos, Reglamentaria de los Artículos 68 y 69, del Título VII, de la Constitución Política del Estado de Tabasco;
+I. Conocer, en el ámbito de su competencia, de los juicios políticos, en los términos de los artículos 67 y 68 de la Constitución del Estado; los aplicables de la Ley de Responsabilidades de los Servidores Públicos, Reglamentaria de los artículos 68 y 69, del Título VII, de la Constitución Política del Estado de Tabasco;
 
 II. Elegir a su Presidente;
 
@@ -221,7 +249,7 @@ VII. Vigilar, con el auxilio de la Dirección de Contraloría del Poder Judicial
 
 VIII. Revisar y aprobar anualmente, previo conocimiento del Consejo de la Judicatura, el proyecto del Presupuesto de Egresos del Poder Judicial para su remisión por el Magistrado Presidente al titular del Poder Ejecutivo;
 
-IX. Recibir y acatar, conforme a lo dispuesto por el artículo 69 de la Constitución del Estado, la declaración de procedencia emitida por el Congreso del Estado respecto de los Magistrados del Tribunal Superior de Justicia;
+IX. (DEROGADA, P.O. 7 DE AGOSTO DE 2019)
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
@@ -487,9 +515,9 @@ V. De los demás asuntos que le señalen las leyes.
 
 En lo conducente de las fracciones que preceden, se deberá de resolver en forma colegiada cuando el asunto provenga de un Tribunal de Enjuiciamiento Colegiado o de un Juez del Sistema Mixto Tradicional, y de manera unitaria cuando el asunto emane de un Juez de Control, de Ejecución, de Justicia para Adolescentes o de un Tribunal de Enjuiciamiento Unitario.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
-Asimismo, será competencia de la Primera Sala de lo Penal, fungir como tribunal de enjuiciamiento; y del tribunal compuesto por los tres magistrados presidentes de las Salas Segunda, Tercera y Cuarta de la misma materia, conocer en alzada en los juicios penales en los que se impute la responsabilidad de los servidores públicos señalados en el artículo 69 de la Constitución del Estado, una vez emitida la respectiva declaración de procedencia. Dichos tribunales serán igualmente competentes para conocer de juicios en los que se impute la comisión de cualquiera de los delitos establecidos en el Título Segundo del Código Penal para el Estado de Tabasco, denominado Delitos contra el Erario y el Servicio Públicos, por hechos de Corrupción; en ambos supuestos el juez de control de mayor antigüedad con sede en la capital del Estado será competente para sustanciar la etapa inicial del proceso.
+Asimismo, será competencia de la Primera Sala de lo Penal, fungir como tribunal de enjuiciamiento; y del tribunal compuesto por los tres magistrados presidentes de las Salas Segunda, Tercera y Cuarta de la misma materia, conocer de juicios en los que se impute la comisión de cualquiera de los delitos establecidos en el Título Segundo del Código Penal para el Estado de Tabasco, denominado Delitos contra el Erario y el Servicio Públicos, por hechos de Corrupción; en este caso el juez de control de mayor antigüedad con sede en la capital del Estado será competente para sustanciar la etapa inicial del proceso.
 
 ###### Artículo 29.
 
@@ -751,7 +779,9 @@ III. Los interdictos;
 
 IV. La diligenciación de exhortos, cartas rogatorias, requisitorias o despachos;
 
-V. Los procedimientos judiciales no contenciosos, a excepción de los de información de dominio y del apeo o deslinde; y,
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
+
+V. Los procedimientos judiciales no contenciosos; y
 
 VI. Los demás asuntos que les encomienden las leyes.
 
@@ -857,27 +887,11 @@ XVI. Las demás que les imponga la Ley.
 
 Los Juzgados residirán y funcionarán en los lugares y cabeceras de distrito que el Consejo de la Judicatura determine.
 
-Los Juzgados de Paz en su organización y funcionamiento se ajustarán a lo dispuesto por la presente Ley para los de Primera Instancia.
+> <small>(DEROGADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 55.
 
-Los Jueces de Paz deberán reunir los siguientes requisitos:
-
-I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
-
-II. Tener treinta años cumplidos;
-
-III. Ser de reconocida honorabilidad;
-
-IV. Poseer título de Licenciado en Derecho y cédula profesional;
-
-V. No haber sido condenado por delitos intencionales;
-
-VI. No estar mentalmente impedido para el ejercicio de su cargo;
-
-VII. No ser Ministro de algún culto religioso; y,
-
-VIII. Cumplir con los demás requisitos que para su designación señale el Consejo de la Judicatura.
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
 
@@ -885,45 +899,13 @@ VIII. Cumplir con los demás requisitos que para su designación señale el Cons
 
 Para el despacho de los asuntos de su competencia, cada juzgado contará con el personal que para el caso determine el Consejo, de acuerdo a la disponibilidad presupuestal.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE NOVIEMBRE DE 2017)</small>
-
 ###### Artículo 57.
 
-Los Jueces de Paz conocerán de la conciliación en toda controversia civil y familiar fuera de juicio, en su competencia, o penal que se persiga por querella y les sea planteada. Asimismo, de los asuntos siguientes:
-
-I. De los juicios cuyo monto no exceda del importe de doscientos cincuenta veces el valor diario de la Unidad de Medida y Actualización;
-
-II. De las diligencias preliminares de consignación cuando el valor de la cosa o la cantidad no exceda del monto fijado en la fracción anterior;
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE NOVIEMBRE DE 2017)</small>
-
-III. De los delitos contemplados en el Código Penal vigente en el Estado de Tabasco, que a continuación se listan: Lesiones, previsto y sancionado en el artículo 116, fracciones I y II; Omisión de auxilio, previsto y sancionado en los artículos 137 y 138; Hostigamiento Sexual, previsto y sancionado en el artículo 159 bis; Amenazas, previsto y sancionado en el artículo 161; Discriminación, previsto y sancionado en el artículo 161 bis; Allanamiento de morada, previsto y sancionado en el artículo 162, primer párrafo; Revelación de secreto, previsto y sancionado en el artículo 164; Robo, previsto y sancionado en el artículo 175, fracciones I y II, 176 y 178 cuando se relacione con el 175, fracciones I y II; Robo de Aves de Corral, previsto y sancionado en el artículo 186; Abuso de Confianza, previsto y sancionado en el artículo 187, fracciones I y II, así como el 188, cuando se relacione con el precepto anterior; Retención Indebida, previsto y sancionado con el artículo 189 con relación al 187, fracciones I y II; Fraude, previsto y sancionado en el artículo 190, fracciones I y II y 191 cuando se relacione con el artículo antes mencionado; Administración Fraudulenta, previsto en el artículo 192 y sancionado en el 190, fracciones I y II; Delitos cometidos por Fraccionadores, previsto en el artículo 193 y sancionado en el 190, fracciones I y II; Insolvencia Fraudulenta, previsto en el artículo 194 y sancionado en el 190, fracciones I y II; Daños, previsto y sancionado en el artículo 200, primer párrafo, con relación al 175, fracciones I y II; Incumplimiento de las Obligaciones de Asistencia Familiar, previsto y sancionado en el artículo 206; Violencia Familiar, previsto y sancionado en los artículos 208 Bis y 208 Bis 1; Ejercicio Ilícito de Servicio Público, previsto en las fracciones I y II del artículo 235 y sancionado conforme al segundo párrafo del propio dispositivo; Concusión, previsto en el primer párrafo del artículo 238 y sancionado en el segundo y tercero párrafos del propio numeral; Ejercicio Abusivo de Funciones, previsto y sancionado en el artículo 240, fracciones I y II, con relación al penúltimo párrafo del propio numeral; Cohecho, previsto y sancionado en el artículo 242, párrafo tercero; Peculado, previsto y sancionado en el artículo 243, fracciones I y II con relación al antepenúltimo párrafo del propio numeral; Enriquecimiento Ilícito, previsto y sancionado en el artículo 244, párrafos primero, segundo y tercero, con relación al sexto párrafo del propio numeral; Delitos Cometidos por Particulares en Relación con Servidores Públicos, previsto y sancionado en los numerales 246 en relación con el 242, párrafo tercero, 248, fracción I, 249 con relación al 187, fracciones I y II; y 250, fracción I; Obstrucción de la Justicia, previsto y sancionado en el artículo 273, párrafo primero, primer caso; Quebrantamiento de Sanciones, previsto y sancionado en el artículo 280; Ejercicio Indebido del Propio Derecho, previsto y sancionado en el artículo 282; Variación del Nombre o Domicilio, previsto y sancionado en el artículo 292; Desobediencia y Resistencia de Particulares, previsto y sancionado en los artículos 295 y 297; Oposición a que se Ejecute Alguna Obra o Trabajo Públicos, previsto y sancionado en el artículo 299, párrafo primero y primer caso del segundo párrafo; Quebrantamiento de Sellos, previsto y sancionado en el artículo 300; Ultrajes a la Autoridad, previsto y sancionado en el artículo 301; Uso Indebido de Condecoraciones o Uniformes, previsto y sancionado en el artículo 302; Ultrajes y Uso Indebido de Insignias Públicas, previsto y sancionado en el artículo 303; Interrupción o Dificultamiento del Servicio Público de Comunicación, previsto y sancionado en los artículos 309 y 310; Supresión de Dispositivos o de Señales de Seguridad, previsto y sancionado en el artículo 313; Conducción Indebida de Vehículos, previsto y sancionado en el artículo 314; Violación de Correspondencia, previsto y sancionado en el artículo 315; Incumplimiento del Deber de Trasladar Comunicaciones al Destinatario, previsto y sancionado en el artículo 317; Falsificación de Documentos, previsto y sancionado en el artículo 322; Acceso sin Autorización, previsto y sancionado en el artículo 326 bis 1; Profanación de Tumba, previsto y sancionado en el artículo 337; Portación y Fabricación de Armas Prohibidas, previsto y sancionado en el artículo 338; Requerimiento Arbitrario de la Contraprestación, previsto y sancionado en el artículo 342; Retención de Cadáver, previsto y sancionado en el artículo 343; Enajenación Fraudulenta de Medicinas Nocivas o Inapropiadas, previsto y sancionado en el artículo 344; Provocación a la Comisión de un Delito o Apología del Delito, previsto y sancionado en el artículo 230; todos ellos cuando resulten accesorios de cualesquiera de los comprendidos en este listado.
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
-
-De igual manera, conocerán de los delitos culposos, previstos en el artículo 61 del Código Penal para el Estado de Tabasco y de las tentativas que se relacionen con los citados en esta fracción, así como todos aquellos que puedan agravarse o calificarse, pero cuyo tipo básico no amerite pena privativa de libertad.
-
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
-
-Además, podrán conocer de aquellos asuntos penales que, por acuerdo general del Consejo, así lo determine.
-
-IV. De los actos preparatorios a juicio en su competencia, salvo consignaciones de rentas;
-
-V. De la rectificación y del registro extemporáneo de las actas del estado civil;
-
-VI. De las informaciones de dominio;
-
-VII. Del apeo o deslinde; y,
-
-VIII. Los demás asuntos que le correspondan de acuerdo a la ley.
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ###### Artículo 58.
 
-Los Jueces de Paz se abstendrán de conocer:
-
-I. De los juicios que versen sobre propiedad y demás derechos reales sobre inmuebles, de arrendamiento de inmueble y de los posesorios; y,
-
-II. De los que versen sobre el estado y condición de las personas y derecho de familia, con excepción de lo establecido en la fracción IV del artículo anterior.
+(DEROGADO, P.O. 7 DE AGOSTO DE 2019)
 
 ### CAPÍTULO II. DEL PERSONAL JUDICIAL DE PRIMERA INSTANCIA EN EL PROCESO ESCRITO
 
@@ -2369,7 +2351,7 @@ DE LA DIRECCIÓN JURÍDICA
 
 ### CAPITULO I. DE LAS RESPONSABILIDADES
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 169.
 
@@ -2544,6 +2526,8 @@ VI. Revisar y validar los dictámenes técnicos que en materia de obra pública 
 VII. Las demás que le encomiende el Pleno del Tribunal Superior de Justicia, el Consejo, el Presidente y las que se determinen en el Reglamento y normatividad aplicable.
 
 ### CAPITULO IV. DE LAS SANCIONES
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 180.
 
@@ -2725,9 +2709,9 @@ Asimismo, la Visitaduría Judicial podrá auxiliar al Magistrado que el Pleno de
 
 ###### Artículo 191.
 
-Los Magistrados, miembros del Consejo de la Judicatura, Jueces y demás servidores públicos del Poder Judicial, serán sujetos de responsabilidad y sancionados por las faltas, actos u omisiones y delitos que cometan durante el ejercicio de su cargo, conforme lo dispuesto por los artículos del 108 al 111 de la Constitución Federal; 62, del 66 al 73 de la Constitución del Estado; las leyes penales; la Ley General de Responsabilidades Administrativas; la Ley de Responsabilidades Administrativas, Reglamentaria de los Artículos 68 y 69, del Título VII, de la Constitución Política del Estado de Tabasco; esta Ley, sus disposiciones reglamentarias, acuerdos generales, lineamientos o manuales de organización interna y demás ordenamientos aplicables.
+Los Magistrados, miembros del Consejo de la Judicatura, Jueces y demás servidores públicos del Poder Judicial, serán sujetos de responsabilidad y sancionados por las faltas, actos u omisiones y delitos que cometan durante el ejercicio de su cargo, conforme lo dispuesto por los artículos del 108 al 111 de la Constitución Federal; 62, del 66 al 68 y del 70 al 73 de la Constitución del Estado; las leyes penales; la Ley General de Responsabilidades Administrativas; la Ley de Responsabilidades Administrativas, Reglamentaria de los artículos 68 y 69, del Título VII, de la Constitución Política del Estado de Tabasco; esta Ley, sus disposiciones reglamentarias, acuerdos generales, lineamientos o manuales de organización interna y demás ordenamientos aplicables.
 
-Cuando a dichos servidores públicos se les instruya proceso penal por la posible comisión de algún delito, quedarán separados provisionalmente de sus cargos a partir de la declaración de procedencia si ésta se requiere y en los demás casos, a partir de que se dicte auto de vinculación a proceso, previa declaración del Pleno del Tribunal o del Consejo de la Judicatura, según el caso. Si la sentencia es condenatoria ameritará la separación definitiva, pero si es absolutoria podrán reasumir su función.
+Cuando a dichos servidores públicos se les instruya proceso penal por la posible comisión de algún delito, quedarán separados provisionalmente de sus cargos a partir de que se dicte auto de vinculación a proceso, previa declaración del Pleno del Tribunal o del Consejo de la Judicatura, según el caso. Si la sentencia es condenatoria ameritará la separación definitiva, pero si es absolutoria podrán reasumir su función.
 
 ### CAPÍTULO VII. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
 
@@ -2781,9 +2765,7 @@ IV. Respecto del personal que se encuentre comisionado dentro del mismo Poder Ju
 
 ###### Artículo 194.
 
-Para que los Magistrados puedan ser privados de su libertad y procesados, previamente deben ser separados del cargo por el Congreso del Estado, conforme a lo dispuesto por el artículo 69 de la Constitución del Estado.
-
-En los procedimientos administrativos solamente se les podrá imponer las sanciones referidas en las fracciones I a la IV del artículo siguiente.
+En los procedimientos administrativos solamente se les podrá imponer a los Magistrados, las sanciones referidas en las fracciones I a la IV del artículo siguiente.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
@@ -4020,3 +4002,19 @@ SEGUNDO. Los asuntos que se encuentren en trámite a la entrada en vigor del pre
 TERCERO. El Pleno del Tribunal Superior de Justicia y del Consejo de la Judicatura, ambos del Poder Judicial del Estado de Tabasco, emitirán los acuerdos generales que sean necesarios, para el cumplimiento de las disposiciones del presente Decreto.
 
 CUARTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 109 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN II, INCISOS H) E I); 10, PÁRRAFO PRIMERO; 16, FRACCIÓN I; 28, PÁRRAFO ÚLTIMO; 47, FRACCIÓN V; 191; Y 194; SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 10, RECORRIÉNDOSE LOS SUBSECUENTES PÁRRAFOS EN SU ORDEN; Y SE DEROGAN EL INCISO J) DE LA FRACCIÓN II DEL, ARTÍCULO 2; LA FRACCIÓN IX, DEL ARTÍCULO 16; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 54; 55; 57 Y 58; TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de los cuarenta y cinco días hábiles posteriores a su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Los procedimientos y juicios en materia penal que se encuentren en trámite ante los Juzgados de Paz serán concluidos de conformidad con las disposiciones vigentes al momento de su inicio, para lo cual serán turnados a los juzgados penales existentes del sistema tradicional.
+
+TERCERO. En lo concerniente a los asuntos en materia civil tramitados en los Juzgados de Paz de Centro, serán declinados a los juzgados civiles y familiares de ese distrito judicial.
+
+Los expedientes civiles de los Juzgados de Paz foráneos se declinarán a los juzgados civiles o mixtos, según sea el caso, del mismo distrito judicial.
+
+CUARTO. Los derechos laborales del personal que se desempeña en los Juzgados de Paz serán respetados en su totalidad. Para tales efectos, el Consejo de la Judicatura llevará a cabo las acciones administrativas que considere necesarias, con la finalidad de satisfacer eficazmente la operatividad de los restantes órganos jurisdiccionales, ponderando la carrera judicial y la experiencia de las y los trabajadores.
+
+QUINTO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente Decreto.
