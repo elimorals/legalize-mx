@@ -4,7 +4,7 @@ identifier: "TAB-codigo-fiscal-del-estado-de-tabasco-7781"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-09-25"
-last_updated: "2017-12-09"
+last_updated: "2019-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO FISCAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 25 de septiembre de 1993.
 
@@ -389,7 +389,9 @@ c) No lleve contabilidad, la oculte, altere o la destruya; y
 
 d) Desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio en los términos del presente Código.
 
-V. La persona o personas a quienes se imponga la obligación de retener o recaudar créditos a cargo de terceros;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
+
+V. Las personas físicas o jurídicas colectivas a quienes se imponga la obligación de informar, retener o recaudar contribuciones a cargo de terceros;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -4106,3 +4108,19 @@ Con la finalidad de vigilar el cumplimiento de las disposiciones fiscales relati
 DÉCIMO. El 30% del coeficiente de distribución de la recaudación excedente del Fondo de Fomento Municipal con respecto a 2013, y el año en que se efectúe el cálculo, en términos de la fórmula establecida en el artículo 2-A, fracción III, de la Ley de Coordinación Fiscal, que a la entrada en vigor del presente decreto le corresponda a los municipios, se distribuirá en términos de lo dispuesto en el artículo 16 Quáter de la presente Ley.
 
 DÉCIMO PRIMERO. Las promociones a que se refiere el artículo 19 del Código Fiscal del Estado de Tabasco, que se hubieran presentado con anterioridad a la entrada en vigor del presente decreto, continuarán su trámite hasta su resolución conforme a las disposiciones vigentes a la fecha de su presentación.
+
+P.O. 7 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 112 POR EL QUE "SE REFORMA EL ARTÍCULO 18, FRACCIÓN V, DEL CÓDIGO FISCAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco, salvo lo dispuesto en el artículo 81-A de la Ley de Hacienda del Estado de Tabasco, el cual entrará en vigor a partir del 1 de enero de 2020.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. El titular del Poder Ejecutivo deberá emitir dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, las adecuaciones conducentes al Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco.
+
+CUARTO. Las Reglas de Carácter General para la aplicación de lo dispuesto en el artículo 81-A de la Ley de Hacienda del Estado de Tabasco, que emita la Secretaría de Finanzas, deberán entrar en vigor el 1 de enero de 2020.
+
+QUINTO. Los sistemas a que se refiere el artículo 81-A de la Ley de Hacienda del Estado de Tabasco, deberán entrar en funcionamiento el 1 de enero de 2020.
+
+SEXTO. La Secretaría de Finanzas realizará las previsiones presupuestales necesarias para el cumplimiento de lo establecido en el presente Decreto.
