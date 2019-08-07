@@ -4,7 +4,7 @@ identifier: "TAB-ley-sobre-los-derechos-de-las-personas-con-discapacidad-81674"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-01"
-last_updated: "2018-10-20"
+last_updated: "2019-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2019.
 
 Ley publicada en el suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 1 de junio de 2001.
 
@@ -35,7 +35,9 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA SEXAGÉSIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS POR EL ARTÍCULO 36, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO, Y CON BASE EN LOS SIGUIENTES:
 
-ANTECEDENTES.
+ANTECEDENTES
+
+[...]
 
 VIGÉSIMO.- Que en virtud de lo anterior, estando facultado el Honorable Congreso del Estado Libre y Soberano de Tabasco, conforme a lo establecido en el artículo 36, fracción I, de la Constitución local, para expedir, reformar y adicionar, leyes y decretos para la mejor administración del Estado, esta Soberanía, ha tenido a bien emitir el siguiente:
 
@@ -75,6 +77,10 @@ V. Ayudas técnicas: Dispositivos tecnológicos y materiales que permiten habili
 
 VI. Barreras arquitectónicas: Todos aquellos elementos de construcción del sector público o privado con acceso al público que dificulten, entorpezcan o impidan el libre desplazamiento a personas con discapacidad en espacios interiores o exteriores, así como el uso de los servicios e instalaciones;
 
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2019)</small>
+
+VI Bis. Comunidad de Sordos. Todo aquel grupo social cuyos miembros tienen alguna deficiencia del sentido auditivo que les limita sostener una comunicación y socialización regular y fluida en lengua oral;
+
 VII. Comunicación: Se entenderá el lenguaje escrito, oral y la lengua de señas mexicana, la visualización de textos, sistema Braille, la comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
 
 VIII. Consejo: Consejo Estatal para el Desarrollo e Inclusión de las Personas Con Discapacidad del Estado de Tabasco;
@@ -99,7 +105,9 @@ XVII. Habilitación: Proceso de orden médico, social y educativo, entre otros, 
 
 XVIII. Igualdad de oportunidades: Proceso de adecuaciones, ajustes y mejoras necesarias en todos los ámbitos, que faciliten a las personas con discapacidad una inclusión, convivencia y participación con las mismas oportunidades y posibilidades que el resto de la población;
 
-XIX. Lengua de Señas Mexicana: Consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
+
+XIX. Lengua de Señas Mexicana: Consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística; forma parte del patrimonio lingüístico de la comunidad de sordos y es tan rica y compleja en gramática y vocabulario como cualquier otra lengua oral;
 
 XX. Ley: Ley Sobre los Derechos de las Personas con Discapacidad para el Estado de Tabasco;
 
@@ -109,7 +117,9 @@ XXII. Obstáculos viales: Todos aquellos elementos que entorpezcan el libre desp
 
 XXIII. Organizaciones: Todas aquellas organizaciones sociales constituidas legalmente para el cuidado, atención o salvaguarda de los derechos de las personas con discapacidad o que busquen apoyar y facilitar su participación en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para su desarrollo e inclusión social;
 
-XXIV. Personas con discapacidad: Son aquellas que presentan deficiencias físicas, mentales, intelectuales o sensoriales, temporales o permanentes, que al interactuar o no con diversas barreras ven impedida su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
+
+XXIV. Personas con discapacidad: Son aquellas que presentan deficiencias físicas, mentales, intelectuales o sensoriales, temporales o permanentes, así como con trastorno de talla y peso congénito o adquirido, que al interactuar o no con diversas barreras ven impedida su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás;
 
 XXV. Perro de asistencia: Animal que haya sido entrenado por un profesional para el acompañamiento, conducción y auxilio de personas con discapacidad;
 
@@ -229,9 +239,11 @@ XI. Negar la inscripción a instituciones o asociaciones públicas o privadas po
 
 XII. Las demás que afecten los derechos de las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 10.
 
-Será causa de responsabilidad administrativa, los actos u omisiones de carácter discriminatorio en que incurran los servidores públicos estatales y municipales, por lo que serán sancionados en términos de la Ley de Responsabilidades de los Servidores Públicos.
+Será causa de responsabilidad administrativa, los actos u omisiones de carácter discriminatorio en que incurran los servidores públicos estatales y municipales, por lo que serán sancionados en términos de la Ley General de Responsabilidades Administrativas.
 
 ###### ARTÍCULO 11.
 
@@ -251,17 +263,17 @@ El Consejo estará integrado por:
 
 I. Un Presidente, que será el Gobernador del Estado Libre y Soberano de Tabasco o el servidor público que éste designe;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
 
-II. Un Secretario Ejecutivo, que será el titular de la Secretaría de Desarrollo Social;
+II. Un secretario ejecutivo, que será el titular de la Secretaría de Bienestar, Sustentabilidad y Cambio Climático;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
 
-III. Un Secretario Técnico, designado por el Secretario Ejecutivo de entre el personal de la Secretaría de Desarrollo Social;
+III. Un Secretario Técnico, designado por el Secretario Ejecutivo de entre el personal de la Secretaria de Bienestar, Sustentabilidad y Cambio Climático;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2019)</small>
 
-IV. Los titulares de las Secretarías de Educación, de Salud, de Ordenamiento Territorial y Obras Públicas, de Comunicaciones y Transportes, de Desarrollo Económico y Turismo, de Planeación y Finanzas, y de Seguridad Pública; del Instituto Estatal de Cultura, del Instituto de la Juventud, del Instituto del Deporte y del Sistema Estatal para el Desarrollo Integral de la Familia;
+IV. Los titulares de las Secretarías de Educación, de Salud, de Ordenamiento Territorial y Obras Públicas, de Movilidad, para el Desarrollo Económico y la Competitividad, de Finanzas, de Seguridad y Protección Ciudadana, y de Cultura; del Instituto de la Juventud y el Deporte, y del Sistema Estatal para el Desarrollo Integral de la Familia;
 
 V. Un representante de la Comisión Estatal de Derechos Humanos;
 
@@ -419,11 +431,11 @@ IX. Promover que en los diferentes sectores se destinen áreas adecuadas a las n
 
 X. Las demás que resulten de la aplicación de la presente Ley, y los ordenamientos legales aplicables en la materia.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 25.
 
-La Secretaría de Educación en coordinación con la Secretaría de Desarrollo Social, fomentará diversas actividades que permitan un desarrollo integral a las personas con algún tipo de discapacidad ante la familia, escuela, trabajo, así como en la recreación.
+La Secretaría de Educación en coordinación con la Secretaría de Bienestar, Sustentabilidad y Cambio Climático, fomentará diversas actividades que permitan un desarrollo integral a las personas con algún tipo de discapacidad ante la familia, escuela, trabajo, así como en la recreación.
 
 ### CAPÍTULO II. DE LA SECRETARÍA DE SALUD
 
@@ -541,11 +553,11 @@ Las bases y modalidades del ejercicio coordinado de las atribuciones del Ejecuti
 
 ### CAPÍTULO ÚNICO. DEL PROGRAMA ESTATAL PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 32.
 
-El Programa para el Desarrollo e Inclusión de las Personas con Discapacidad, se conformará con los subprogramas que elaboren tanto la Secretaría de Desarrollo Social en su calidad de Secretariado Ejecutivo, como la Secretaría de Salud y la Secretaría de Desarrollo Económico y Turismo.
+El Programa para el Desarrollo e Inclusión de las Personas con Discapacidad, se conformará con los subprogramas que elaboren tanto la Secretaría de Bienestar, Sustentabilidad y Cambio Climático, en su calidad de Secretario Ejecutivo, la Secretaría de Salud y la Secretaría para el Desarrollo Económico y la Competitividad.
 
 ###### ARTÍCULO 33.
 
@@ -653,11 +665,11 @@ La orientación y tratamiento psicológico de las personas con discapacidad, ten
 
 ### CAPÍTULO I
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 46.
 
-El Ejecutivo del Estado a través de la Secretaría de Desarrollo Social organizará, intensificará y ampliará servicios y programas generales para los procesos de habilitación y rehabilitación socioeconómica y laboral o profesional, comprendiendo entre otros, los siguientes:
+El Ejecutivo del Estado a través de la Secretaría de Bienestar, Sustentabilidad y Cambio Climático organizará, intensificará y ampliará servicios y programas generales para los procesos de habilitación y rehabilitación socioeconómica y laboral o profesional, comprendiendo entre otros, los siguientes:
 
 I. Los tratamientos de habilitación y rehabilitación médico-funcional, específicos para el desempeño de la función laboral;
 
@@ -679,11 +691,11 @@ La formación para el trabajo procurará la adquisición de conocimientos, habil
 
 ### CAPÍTULO II. DE LOS EQUIPOS MULTIPROFESIONALES
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 49.
 
-Corresponde al Ejecutivo del Estado a través de las Secretarías de Desarrollo Social y de Desarrollo Económico y Turismo, impulsar y promover entre las instituciones públicas y privadas, así como entre la propia comunidad, la creación de unidades de habilitación y rehabilitación socioeconómica y laboral con equipos multiprofesionales, que actuando en un ámbito sectorial del Estado presten la atención a las personas con discapacidad para garantizar su inclusión al entorno socioeconómico. El personal que integre los equipos multiprofesionales deberá contar con la formación profesional y la capacidad necesaria para cumplir con la función encomendada.
+Corresponde al Ejecutivo del Estado a través de las Secretarías de Bienestar, Sustentabilidad y Cambio Climático, y para el Desarrollo Económico y la Competitividad, impulsar y promover entre las instituciones públicas y privadas, así como entre la propia comunidad, la creación de unidades de habilitación y rehabilitación socioeconómica y laboral con equipos multiprofesionales, que actuando en un ámbito sectorial del Estado presten la atención a las personas con discapacidad para garantizar su inclusión al entorno socioeconómico. El personal que integre los equipos multiprofesionales, deberá contar con la formación profesional y la capacidad necesaria para cumplir con la función encomendada.
 
 ###### ARTÍCULO 50.
 
@@ -801,11 +813,11 @@ La finalidad primordial de la política de trabajo y capacitación de las person
 
 Los poderes del Estado y los ayuntamientos deberán contratar por lo menos el dos por ciento de personas con discapacidad del total de los trabajadores al servicio que realicen la misma labor profesional, técnica o manual que cualquier otro, atendiendo al principio de progresividad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 65.
 
-El Ejecutivo del Estado a través de la Secretaría de Desarrollo Económico y Turismo establecerá entre otras, las siguientes medidas:
+El Ejecutivo del Estado a través de la Secretaría para el Desarrollo Económico y la Competitividad establecerá entre otras, las siguientes medidas:
 
 I. Diseñar, ejecutar, evaluar y promover el establecimiento de políticas públicas en materia de trabajo encaminadas a la inclusión laboral de las personas con discapacidad; en ningún caso la discapacidad será motivo de discriminación para el otorgamiento de un empleo;
 
@@ -827,17 +839,17 @@ IX. Salvaguardar el ejercicio de los derechos laborales de las personas con disc
 
 X. Las demás que el Ejecutivo del Estado determine.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 66.
 
-El Consejo, en coordinación con la Secretaría de Desarrollo Económico y Turismo, coadyuvará al fomento y desarrollo de programas de trabajo y capacitación de las personas con discapacidad, mediante el establecimiento de sistemas que faciliten su inclusión laboral; éstos podrán consistir en el cumplimiento de la presente Ley para los ajustes razonables de los centros de trabajo, la eliminación de barreras arquitectónicas que dificulten su movilidad en centros de producción y la posibilidad de establecerse como trabajadores autónomos.
+El Consejo, en coordinación con la Secretaría para el Desarrollo Económico y la Competitividad, coadyuvará al fomento y desarrollo de programas de trabajo y capacitación de las personas con discapacidad, mediante el establecimiento de sistemas que faciliten su inclusión laboral; éstos podrán consistir en el cumplimiento de la presente Ley para los ajustes razonables de los centros de trabajo, la eliminación de barreras arquitectónicas que dificulten su movilidad en centros de producción y la posibilidad de establecerse como trabajadores autónomos.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 67.
 
-La Secretaría de Desarrollo Económico y Turismo incluirá a las personas con discapacidad, que lo soliciten, en programas de promoción del trabajo.
+La Secretaría para el Desarrollo Económico y la Competitividad incluirá a las personas con discapacidad, que lo soliciten, en programas de promoción del trabajo.
 
 ###### ARTÍCULO 68.
 
@@ -865,11 +877,11 @@ Las empresas, industrias, comercios y establecimientos en general cuyo capital s
 
 ### CAPÍTULO I. DE LAS ACTIVIDADES DEPORTIVAS, CULTURALES, RECREATIVAS Y TURÍSTICAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 73.
 
-El Ejecutivo del Estado, a través del Instituto de la Juventud y del Instituto del Deporte, y los ayuntamientos en el ámbito de sus competencias, formularán y desarrollarán políticas públicas, programas y acciones para la inclusión de las personas con discapacidad a la práctica deportiva, mediante facilidades administrativas y las ayudas técnicas, humanas y financieras necesarias, así como para acceder y disfrutar de la cultura, el esparcimiento, la recreación y el deporte.
+El Ejecutivo del Estado, a través del Instituto de la Juventud y el Deporte, y los ayuntamientos en el ámbito de sus competencias, formularán y desarrollarán políticas públicas, programas y acciones para la inclusión de las personas con discapacidad a la práctica deportiva, mediante facilidades administrativas y las ayudas técnicas, humanas y financieras necesarias, así como para acceder y disfrutar de la cultura, el esparcimiento, la recreación y el deporte.
 
 Se otorgarán becas para deportistas con discapacidad, con el fin de apoyar su preparación, desarrollo y participación estatal, nacional e internacional, incluyendo nuevos valores y prospectos, de conformidad con las disposiciones legales aplicables.
 
@@ -877,9 +889,11 @@ En el caso de los seleccionados estatales para participar en competencias region
 
 Así mismo, se propiciará la creación de espacios para facilitar el desarrollo de los deportes, tomando en cuenta las diferentes discapacidades que existen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 74.
 
-El Ejecutivo del Estado, a través del Instituto Estatal de Cultura, y los ayuntamientos en el ámbito de sus competencias, fomentarán y promoverán el desarrollo de las capacidades artísticas y culturales de las personas con discapacidad, así como la protección de sus derechos de propiedad de autor. Además procurarán la definición de políticas para:
+El Ejecutivo del Estado, a través de la Secretaría de Cultura, y los ayuntamientos en el ámbito de sus competencias, fomentarán y promoverán el desarrollo de las capacidades artísticas y culturales de las personas con discapacidad, así como la protección de sus derechos de propiedad de autor. Además procurarán la definición de políticas para:
 
 I. Establecer programas para apoyar el desarrollo artístico y cultural de las personas con discapacidad;
 
@@ -893,11 +907,11 @@ V. Establecer condiciones de inclusión de las personas con discapacidad para lo
 
 VI. Las demás que dispongan otros ordenamientos.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 75.
 
-La Secretaría de Desarrollo Económico y Turismo y los ayuntamientos en el ámbito de sus competencias, promoverán el derecho de las personas con discapacidad para que se les brinde preferencia y accesibilidad para el fácil desplazamiento a los servicios turísticos, recreativos o de esparcimiento.
+La Secretaría para el Desarrollo Económico y la Competitividad y los ayuntamientos en el ámbito de sus competencias, promoverán el derecho de las personas con discapacidad para que se les brinde preferencia y accesibilidad para el fácil desplazamiento a los servicios turísticos, recreativos o de esparcimiento.
 
 ###### ARTÍCULO 76.
 
@@ -953,27 +967,37 @@ Los albergues establecidos por organizaciones de la sociedad civil o por familia
 
 Sin perjuicio de lo dispuesto en otros ordenamientos legales, las personas con discapacidad tienen derecho a la accesibilidad al transporte, comunicaciones y la vialidad.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 86.
 
-La Secretaría de Comunicaciones y Transportes será la encargada de supervisar que se realicen los ajustes razonables al sistema de transporte público, de acuerdo al principio de progresividad, para el acceso y uso de las personas con discapacidad en los términos de la legislación aplicable.
+La Secretaría de Movilidad será la encargada de supervisar que se realicen los ajustes razonables al sistema de transporte público, de acuerdo al principio de progresividad, para el acceso y uso de las personas con discapacidad en los términos de la legislación aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 87.
 
-La Secretaría de Comunicaciones y Transportes vigilará que el servicio de transporte público proporcione sin costo adicional alguno para las personas con discapacidad, el transporte de los equipos biomecánicos o de cualquier otra ayuda técnica directamente relacionada con la discapacidad, así como los perros de asistencia que los acompañen, ya que serán considerados como una unidad.
+La Secretaría de Movilidad vigilará que el servicio de transporte público proporcione sin costo adicional alguno para las personas con discapacidad, el transporte de los equipos biomecánicos o de cualquier otra ayuda técnica directamente relacionada con la discapacidad, así como los perros de asistencia que los acompañen, ya que serán considerados como una unidad.
 
 Asimismo, deberán reservar asientos preferenciales cercanos y accesibles para que las personas con discapacidad puedan hacer uso del servicio.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 88.
 
-La Secretaría de Comunicaciones y Transportes, será la encargada de promover que los medios de comunicación implementen el uso de tecnología y, en su caso, de intérpretes de la Lengua de Señas Mexicana, que permitan a la comunidad de sordos las facilidades de comunicación y el acceso al contenido de su programación.
+La Secretaría de Movilidad, será la encargada de promover que los medios de comunicación implementen el uso de tecnología y, en su caso, de intérpretes de la Lengua de Señas Mexicana, que permitan a la comunidad de sordos las facilidades de comunicación y el acceso al contenido de su programación.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 89.
 
-La Secretaría de Comunicaciones y Transportes, promoverá e impulsará convenios con los concesionarios del transporte público a fin de que las personas con discapacidad, gocen de descuentos en las tarifas de los servicios de transporte público.
+La Secretaría de Movilidad, promoverá e impulsará convenios con los concesionarios del transporte público a fin de que las personas con discapacidad, gocen de descuentos en las tarifas de los servicios de transporte público.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 90.
 
-La Secretaría de Seguridad Pública a través de la Dirección General de la Policía Estatal de Caminos y los ayuntamientos en el ámbito de sus respectivas competencias, dispondrán de las medidas necesarias a efecto de facilitar el estacionamiento de vehículos de los cuales tengan que descender o ascender personas con discapacidad, tanto en la vía pública como en lugares con acceso al público, inclusive podrán aplicarse en zonas de estacionamiento restringido, siempre y cuando no se afecte gravemente el libre tránsito de vehículos y peatones.
+La Secretaría de Seguridad y Protección Ciudadana a través de la Dirección General de la Policía Estatal de Caminos y los ayuntamientos en el ámbito de sus respectivas competencias, dispondrán de las medidas necesarias a efecto de facilitar el estacionamiento de vehículos de los cuales tengan que descender o ascender personas con discapacidad, tanto en la vía pública como en lugares con acceso al público, inclusive podrán aplicarse en zonas de estacionamiento restringido, siempre y cuando no se afecte gravemente el libre tránsito de vehículos y peatones.
 
 ###### ARTÍCULO 91.
 
@@ -983,19 +1007,25 @@ Las personas con discapacidad tendrán derecho exclusivo a ocupar los espacios d
 
 Los propietarios, responsables, encargados o administradores de los inmuebles donde se ubiquen los espacios a que se refiere el párrafo anterior, deberán solicitar el apoyo y/o permitir el acceso de las autoridades de la policía estatal de caminos o de tránsito municipal cuando alguien más lo solicite, a efectos de que puedan ejercer sus atribuciones, retirar los vehículos con grúa e infraccionar a los conductores de vehículos que sin tener ninguna discapacidad los obstruyan estacionando sus vehículos en dichos lugares. El incumplimiento de las disposiciones a que se refiere este párrafo será sancionado en términos del artículo 140 de esta Ley.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 92.
 
-La Secretaría de Seguridad Pública a través de la Dirección General de la Policía Estatal de Caminos, implementará programas especiales de circulación vehicular que faciliten el libre desplazamiento de las personas con discapacidad.
+La Secretaría de Seguridad y Protección Ciudadana a través de la Dirección General de la Policía Estatal de Caminos, implementará programas especiales de circulación vehicular que faciliten el libre desplazamiento de las personas con discapacidad.
 
 ### CAPÍTULO II. DE LA VIALIDAD
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 93.
 
-La Secretaría de Seguridad Pública a través de la Dirección General de la Policía Estatal de Caminos, diseñará e instrumentará programas y campañas permanentes de educación vial, cortesía urbana y respeto hacia las personas con discapacidad en su tránsito por la vía pública y en lugares de acceso al público. Estos programas y campañas se difundirán ampliamente por los medios masivos de comunicación existentes en la Entidad.
+La Secretaría de Seguridad y Protección Ciudadana a través de la Dirección General de la Policía Estatal de Caminos, diseñará e instrumentará programas y campañas permanentes de educación vial, cortesía urbana y respeto hacia las personas con discapacidad en su tránsito por la vía pública y en lugares de acceso al público. Estos programas y campañas se difundirán ampliamente por los medios masivos de comunicación existentes en la Entidad.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 94.
 
-La Secretaría de Seguridad Pública a través de la Dirección General de la Policía Estatal de Caminos y los ayuntamientos en el ámbito de sus respectivas competencias, supervisarán que se mantengan en óptimas condiciones de funcionalidad los señalamientos viales y mobiliarios urbanos propios de la discapacidad.
+La Secretaría de Seguridad y Protección Ciudadana a través de la Dirección General de la Policía Estatal de Caminos y los ayuntamientos en el ámbito de sus respectivas competencias, supervisarán que se mantengan en óptimas condiciones de funcionalidad los señalamientos viales y mobiliarios urbanos propios de la discapacidad.
 
 ## TÍTULO XII. DE LA OBRA PÚBLICA
 
@@ -1441,11 +1471,11 @@ III. Transcurrido el término antes señalado, si el presunto infractor hubiese 
 
 IV. Concluido el período probatorio o vencido el término de la fracción I de este artículo, en el supuesto de que el presunto infractor no comparezca o no ofrezca pruebas, la autoridad emitirá resolución, en un término no mayor de diez días hábiles, contados a partir del siguiente al término de su comparecencia, determinando si ha lugar o no a la aplicación de la sanción.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 150.
 
-El cobro de las multas que imponga la Dirección de Obras y Servicios Municipales corresponderá a la Dirección de Finanzas del respectivo ayuntamiento, y las que impongan las autoridades dependientes del Ejecutivo del Estado corresponderá a la Secretaría de Planeación y Finanzas, quienes para ello harán uso del procedimiento económico coactivo, previsto en la legislación fiscal que resulte aplicable.
+El cobro de las multas que imponga la Dirección de Obras y Servicios Municipales, corresponderá a la Dirección de Finanzas del respectivo ayuntamiento, y las que impongan las autoridades dependientes del Ejecutivo del Estado corresponderá a la Secretaría de Finanzas, quienes para ello harán uso del procedimiento económico coactivo, previsto en la legislación fiscal que resulte aplicable.
 
 ### CAPÍTULO IV. DEL PROCEDIMIENTO
 
@@ -1620,3 +1650,11 @@ Se derogan todas las disposiciones que se opongan al contenido de la presente re
 ###### ARTÍCULO TERCERO.
 
 El Poder Ejecutivo del Estado tendrá 90 días naturales para realizar las adecuaciones necesarias al Reglamento de la Ley de Desarrollo Social del Estado de Tabasco, y demás disposiciones legales y reglamentarias aplicables, contados a partir de su entrada en vigor.
+
+P.O. 7 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 111 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 3, FRACCIONES XIX Y XXIV, 10, 13, FRACCIONES II, III Y IV, 25, 32, 46, PÁRRAFO PRIMERO, 49, 65, PÁRRAFO PRIMERO, 66, 67, 73, PÁRRAFO PRIMERO, 74, PÁRRAFO PRIMERO, 75, 86, 87, PÁRRAFO PRIMERO, 88, 89, 90, 92, 93, 94 Y 150; Y SE ADICIONA LA FRACCIÓN VI BIS AL ARTÍCULO 3; TODOS DE LA LEY SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
