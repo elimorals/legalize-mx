@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-561-de-transito-y-seguridad-vial-para-el-estado-1072
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-13"
-last_updated: "2018-11-29"
+last_updated: "2019-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "VER"
 
 LEY NÚMERO 561 DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 13 de abril de 2015.
 
-Al margen un sello que dice: Estados Unidos Mexicanos.—Gobernador del Estado de Veracruz de Ignacio de la Llave.
+Al margen un sello que dice: Estados Unidos Mexicanos.— Gobernador del Estado de Veracruz de Ignacio de la Llave.
 
 Xalapa-Enríquez, marzo 30 de 2015
 
@@ -493,7 +493,9 @@ En las vías públicas de carácter municipal, los ayuntamientos, en el ámbito 
 
 Las personas que en calidad de peatones transiten por las vías públicas están obligadas a cumplir las disposiciones de esta Ley y su Reglamento, así como las de los ordenamientos municipales que, en su caso, se expidan.
 
-Los peatones tienen derecho de preferencia al transitar por las vías públicas del Estado, cruzarán de manera obligatoria por las zonas de paso peatonal y tendrán preferencia de paso en los cruceros que carezcan de señales o de dispositivos para el control de la seguridad vial, excepto cuando sean controlados por personal operativo de la policía vial, en cuyo caso cumplirán las indicaciones de éste.
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2019)</small>
+
+Los peatones y las personas con discapacidad, tienen derecho de preferencia al transitar por las vías públicas del Estado, cruzarán de manera obligatoria por las zonas de paso peatonal y tendrán preferencia de paso en los cruceros que carezcan de señales o de dispositivos para el control de la seguridad vial, los conductores de vehículos y motocicletas les guardarán la consideración debida y tomarán las precauciones necesarias para la protección y seguridad de su integridad física, cediéndoles el paso, cuando éstos se encuentren cruzando las calles y sobrevenga un cambio de señal de paso de los semáforos que regulan la circulación; excepto cuando sean controlados por personal operativo de la policía vial, en cuyo caso cumplirán las indicaciones de éste.
 
 ###### Artículo 29.
 
@@ -869,7 +871,9 @@ VII. Motocicletas, bicimotos, trimotos, cuatrimotos y de ruedas motorizadas para
 
 Se exceptúan de lo anterior los vehículos de tracción humana y animal.
 
-Las mujeres embarazadas dispondrán de espacios exclusivos de estacionamiento en la vía pública y en zonas privadas; al efecto, podrán contar con tarjetones especiales, expedidos por la autoridad competente.
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2019)</small>
+
+Las mujeres embarazadas y las personas con discapacidad, dispondrán de espacios exclusivos de estacionamiento en la vía pública y en zonas privadas, al efecto, podrán contar con tarjetones especiales, expedidos por la autoridad competente.
 
 La vigencia de las placas de circulación podrá ser permanente o provisional.
 
@@ -1283,9 +1287,11 @@ El Secretario podrá otorgar autorizaciones para el establecimiento de estaciona
 
 Aquellos estacionamientos privados que den un servicio complementario, podrán operar como públicos, con apego a la reglamentación respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 102.
 
-Los estacionamientos tendrán las instalaciones necesarias para garantizar la seguridad de las personas y los vehículos; contarán con espacios exclusivos para uso de personas con discapacidades y mujeres embarazadas y tendrán, en su caso, rampas, escaleras o elevadores para ellas; deberán estar debidamente iluminados y señalados los espacios de estacionamiento para cada vehículo, y contarán con sanitarios.
+Los estacionamientos tendrán las instalaciones necesarias para garantizar la seguridad de las personas y los vehículos; contarán con espacios exclusivos para uso de personas con discapacidad y mujeres embarazadas y tendrán, en su caso, rampas, escaleras o elevadores para ellas, deberán estar debidamente iluminados y señalados los espacios de estacionamiento para cada vehículo, y contarán con sanitarios.
 
 Asimismo, deberán disponer de las instalaciones necesarias para proporcionar el servicio de manera segura a los usuarios de motocicletas y bicicletas.
 
@@ -1721,9 +1727,17 @@ Las siguientes medidas preventivas podrán ser impuestas con el carácter de san
 
 I. La detención del vehículo, por consecuencia del incumplimiento de los preceptos de esta Ley y su Reglamento, se realizará cuando pueda derivarse un riesgo grave para la circulación, las personas o sus bienes, en los casos en que:
 
-a) El conductor se niegue a someterse a las pruebas que se establezcan para la detección de posibles intoxicaciones por alcohol, drogas, psicotrópicos y demás sustancias similares, o
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2019)</small>
 
-b) El vehículo no cuente con la póliza de seguro a que se refiere esta Ley; y
+a) El conductor se niegue a someterse a las pruebas que se establezcan para la detección de posibles intoxicaciones por alcohol, drogas, psicotrópicos y demás sustancias similares;
+
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2019)</small>
+
+b) El vehículo no cuente con la póliza de seguro a que se refiere esta Ley; o
+
+> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2019)</small>
+
+c) El conductor se estacione en un lugar exclusivo para personas con discapacidad o mujeres embarazadas, sin acreditar fehacientemente que el conductor o alguno de sus ocupantes se encuentra en ese supuesto, además será acreedor a la sanción económica que se establece en el Reglamento de esta Ley, sanción que no podrá ser condonada ni reducida; y
 
 II. El retiro del vehículo de la vía pública, siempre que éste constituya un peligro, cause graves perturbaciones a la circulación de vehículos, peatones o al funcionamiento de algún servicio público o pueda presumirse racionalmente su abandono; en este último caso, deberá mediar queja vecinal, de acuerdo al procedimiento siguiente:
 
@@ -1942,3 +1956,13 @@ G.O. 29 DE NOVIEMBRE DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 279 POR EL QUE SE REFORMAN LOS ARTÍCULOS 28, 50, 102 Y 154 Y ADICIONA UN INCISO AL ARTÍCULO 154, TODOS DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El titular del Ejecutivo Estatal contará con un plazo de treinta días hábiles para que reforme el Reglamento de la Ley de Tránsito y Seguridad Vial para el Estado de Veracruz de Ignacio de la Llave, a fin de establecer la sanción económica a que hace mención el inciso c) de la fracción I del párrafo primero del artículo 154 de esta Ley, la cual no podrá ser menor a diez Unidades de Medida y Actualización (UMA).
