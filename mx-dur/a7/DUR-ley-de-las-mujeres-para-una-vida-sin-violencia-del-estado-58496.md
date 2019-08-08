@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2019-03-31"
+last_updated: "2019-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -209,11 +209,19 @@ IX. Acoso Sexual: Forma de violencia en la que, si bien no existe la subordinaci
 
 X. Violencia Política: Es el acto u omisión que constituye violencia física, psicológica o sexual cometida por los sujetos a que hace mención el artículo 442 de la Ley General de Instituciones y Procedimientos Electorales, en forma individual o colectivamente, por si o a través de terceros, en contra de una o varias mujeres o de sus familias, antes, durante o después de las precampañas y campañas políticas; al momento de ser electas; en ejercicio de la función o representación pública; con la finalidad de limitar, suspender, impedir o restringir el ejercicio de su cargo o para inducirla u obligarla a que realice, en contra de su voluntad, una acción o incurra en una omisión, en el cumplimiento de sus funciones o en el ejercicio de sus derechos;
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2019)</small>
 
-XI. Violencia simbólica: la que se ejerza a través de patrones estereotipados, mensajes, valores, íconos o signos transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad, y
+XI. Violencia simbólica: la que se ejerza a través de patrones estereotipados, mensajes, valores, íconos o signos, transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad;
 
-XII. Cualquier otra acción, conducta u omisión que provoque violencia en cualquiera de sus formas contra las mujeres.
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2019)</small>
+
+XII. Violencia Mediática: Toda aquella publicación o difusión de mensajes e imágenes a través de cualquier medio masivo de comunicación, que de manera directa o indirecta promueva la explotación de mujeres o sus imágenes, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las mujeres;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2019)</small>
+
+XIII. Violencia Digital: Toda aquella agresión psicológica o emocional que realiza una persona a través y por el uso de las nuevas tecnologías de la información y comunicación, contra su pareja, ex pareja o (sic) contra de cualquier mujer, con la finalidad de discriminación, dominación sometimiento, acoso, extorción, intromisión o cualquiera otra que ponga en riesgo la salud y/o la seguridad de la víctima; y
+
+XIV. Cualquier otra acción, conducta u omisión que provoque violencia en cualquiera de sus formas contra las mujeres.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -1820,6 +1828,18 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 31 DE MARZO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 76.- QUE CONTIENE LA ADICIÓN DE UNA FRACCIÓN XI AL ARTÍCULO 6 DE LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 116.- QUE CONTIENEN REFORMAS Y ADICIONES A LA LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA”.]
 
 ###### ARTICULO PRIMERO.
 
