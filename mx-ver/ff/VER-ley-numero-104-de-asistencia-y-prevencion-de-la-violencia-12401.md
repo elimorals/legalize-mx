@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-104-de-asistencia-y-prevencion-de-la-violencia-12401
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-08"
-last_updated: "2007-07-19"
+last_updated: "2019-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 104 DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE VERACRUZ
 
-LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE VERACRUZ
+LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JULIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 8 de septiembre de 1998.
 
@@ -215,13 +215,19 @@ Para los efectos de esta ley se entiende por prevención el conjunto de medidas 
 
 Las partes en un conflicto de violencia familiar podrán resolver sus diferencias mediante el procedimiento de conciliación.
 
-Quedan exceptuadas aquellas controversias que versen sobre acciones o derechos del estado civil irrenunciables o delitos que se persigan de oficio.
+(NOTA: EL 22 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 99/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2019)</small>
+
+QUEDAN EXCEPTUADAS AQUELLAS CONTROVERSIAS QUE VERSEN SOBRE ACCIONES O DERECHOS DEL ESTADO CIVIL IRRENUNCIABLES O DELITOS QUE SE PERSIGAN DE OFICIO, ASÍ COMO AQUELLAS QUE DERIVEN DE VIOLENCIA FAMILIAR O DE GÉNERO CONTRA MUJERES Y NIÑAS.
 
 Tratándose de incapacitados, menores y ancianos, éstos comparecerán asistidos de representante legal. En caso de carecer de él, el Juez llamará al Sindico Municipal para que asista legalmente a esos receptores de la violencia familiar en términos de lo dispuesto por la fracción IX del artículo 39 de la Ley Orgánica del Municipio Libre. Si el caso se refiere a indígenas, además del representante legal, se les asignará, de ser necesario, el intérprete correspondiente.
 
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 18.
 
-Corresponde conocer de los conflictos de violencia familiar en cada municipio a los Jueces de Paz o, en su caso, a los Jueces Menores.
+Corresponde conocer de los conflictos de violencia familiar en cada municipio y/o Distrito Judicial a los Jueces de Primera Instancia de lo familiar o, en su caso, a los Jueces de Primera Instancia que asuman dicha competencia.
 
 ###### ARTÍCULO 19.
 
@@ -263,7 +269,7 @@ GUILLERMO ZÚÑIGA MARTÍNEZ
 
 Secretario de Educación y Cultura
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 G.O. 15 DE AGOSTO DE 2005.
 
@@ -276,3 +282,11 @@ G.O. 19 DE JULIO DE 2007.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 8 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 276 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES, ASÍ COMO DE LAS LEYES DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS, DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR; Y DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, TODOS LOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ, EN MATERIA DE RESTRICCIÓN DEL USO DE CONCILIACIÓN, MEDIACIÓN Y EN GENERAL, TODAS LAS FORMAS DE TERMINACIÓN DE PROCEDIMIENTOS EN CASOS DE VIOLENCIA FAMILIAR O DE GÉNERO CONTRA LAS MUJERES Y NIÑAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
