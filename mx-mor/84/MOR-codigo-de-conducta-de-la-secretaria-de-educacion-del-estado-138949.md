@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-secretaria-de-educacion-del-estado-138
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-07"
-last_updated: "2019-08-07"
+last_updated: "2019-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE EDUCACION DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE AGOSTO DE 2019 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO DE MORELOS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 8 DE AGOSTO DE 2019 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 7 DE AGOSTO DE 2019.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 7 de agosto de 2019.
 
@@ -357,7 +357,7 @@ En caso de inobservancia del presente Código de Conducta, cuando la infracción
 
 DISPOSICIONES TRANSITORIAS
 
-PRIMERA.- El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+PRIMERA.- El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDA.- Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Código.
 
