@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-834-de-medios-alternativos-para-la-solucion-de-94311
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-10"
-last_updated: "2018-11-29"
+last_updated: "2019-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 834 DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2019.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 10 de mayo de 2013.
 
@@ -126,6 +126,10 @@ V. De manipulación y aleccionamiento parental.
 VI. Indígena, en la que los agentes municipales o jueces auxiliares nombrados por la comunidad colaborarán para la aplicación de los medios alternativos, procurando que en la solución de los conflictos se apliquen sus usos y costumbres. En caso de ser necesario, se utilizará la ayuda de un traductor proporcionado por el Estado; y
 
 VII. En cualquiera otra, cuando lo soliciten las partes y siempre que el objeto no sea contrario a la moral ni a las buenas costumbres.
+
+> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2019)</small>
+
+En casos de violencia familiar o de género contra las mujeres y niñas quedan prohibidos los procedimientos de mediación, de conciliación y de justicia restaurativa a que hace referencia esta Ley, en cualquier materia o asunto.
 
 ###### Artículo 7.
 
@@ -566,5 +570,13 @@ G.O. 29 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 766 QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 38 DE LA LEY DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 276 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES, ASÍ COMO DE LAS LEYES DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS, DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR; Y DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, TODOS LOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ, EN MATERIA DE RESTRICCIÓN DEL USO DE CONCILIACIÓN, MEDIACIÓN Y EN GENERAL, TODAS LAS FORMAS DE TERMINACIÓN DE PROCEDIMIENTOS EN CASOS DE VIOLENCIA FAMILIAR O DE GÉNERO CONTRA LAS MUJERES Y NIÑAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
