@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-v-2008-del-comite-de-61957"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-07-22"
-last_updated: "2010-04-19"
+last_updated: "2019-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61957&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-07-11"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION V/2008 DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [NOMBRAMIENTOS Y LICENCIAS; READSCRIPCION, SUSPENSION Y REMOCION DE SERVIDORES PUBLICOS]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACIÓN VI/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE ONCE DE JULIO DE 2019, POR EL QUE SE ESTABLECEN LAS NORMAS RELATIVAS A LAS PLAZAS, INGRESOS, NOMBRAMIENTOS, LICENCIAS, COMISIONES, READSCRIPCIONES, SUSPENSIÓN Y TERMINACIÓN DEL NOMBRAMIENTO DE LOS SERVIDORES PÚBLICOS Y QUE REGULA LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS DE ESTE ALTO TRIBUNAL, SALVO LOS DE SUS SALAS, PUBLICADO EN EL D.O.F. DE 8 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACION V/2008, DEL DOCE DE JUNIO DE DOS MIL OCHO, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ESTABLECEN LOS REQUISITOS Y LOS PROCEDIMIENTOS PARA LA CREACION DE PLAZAS, EL OTORGAMIENTO DE NOMBRAMIENTOS Y DE LICENCIAS, ASI COMO PARA LA COMISION, LA READSCRIPCION, LA SUSPENSION Y LA REMOCION DE LOS SERVIDORES PUBLICOS DE ESTE ALTO TRIBUNAL, SALVO LOS DE SUS SALAS
 
-ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA: TOMO XXXI, ABRIL DE 2010, PAGINA 2843.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2019 (ABROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 22 de julio de 2008.
 
@@ -714,3 +716,23 @@ S.J.F.G, TOMO XXXI, ABRIL DE 2010, PAGINA 2843.
 PRIMERO. La modificación de los artículos 34 y 42 del Acuerdo General de Administración V/2008, entrará en vigor a partir del nueve de octubre de dos mil nueve.
 
 SEGUNDO. Publíquese esta modificación en el Semanario Judicial de la Federación y su Gaceta; y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; sin menoscabo de difundir en éstos el texto íntegro del Acuerdo General de Administración V/2008.
+
+D.O.F. 8 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN VI/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE ONCE DE JULIO DE 2019, POR EL QUE SE ESTABLECEN LAS NORMAS RELATIVAS A LAS PLAZAS, INGRESOS, NOMBRAMIENTOS, LICENCIAS, COMISIONES, READSCRIPCIONES, SUSPENSIÓN Y TERMINACIÓN DEL NOMBRAMIENTO DE LOS SERVIDORES PÚBLICOS Y QUE REGULA LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS DE ESTE ALTO TRIBUNAL, SALVO LOS DE SUS SALAS.”]
+
+PRIMERO. Este Acuerdo entrará en vigor el primero de agosto de dos mil diecinueve.
+
+SEGUNDO. Se abroga el Acuerdo General de Administración V/2008, del doce de junio de dos mil ocho, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se establecen los requisitos y los procedimientos para la creación de plazas, el otorgamiento de nombramientos y de licencias, así como para la comisión, la readscripción, la suspensión y la remoción de los servidores públicos de este Alto Tribunal, salvo los de sus Salas.
+
+TERCERO. Se abrogan los lineamientos para la ocupación de los puestos de mando superior, mando medio y operativos, del Presidente de la Suprema Corte de Justicia de la Nación de fecha veintiséis de marzo de dos mil quince y todas las disposiciones jurídicas que se opongan a lo previsto en el presente Acuerdo General de Administración.
+
+CUARTO. Hasta en tanto no se expida el Catálogo General de Puestos, se estará a lo previsto en el Anexo I del Acuerdo General Número 10/2009 del seis de octubre de dos mil nueve, del Pleno de la Suprema Corte de Justicia de la Nación, relativo a la estructura y a las plazas del personal de la Suprema Corte de Justicia de la Nación (versión actualizada considerando la modificación al punto cuarto mediante instrumento normativo del dieciséis de marzo de dos mil diez) y en el acuerdo del Comité de Gobierno y Administración de fecha veintiocho de junio de dos mil once, en relación con el punto tres.
+
+QUINTO. Los servidores públicos que a la entrada en vigor del presente Acuerdo, se encuentren cubriendo de manera interina o provisional una plaza cuyo titular tenga una licencia con goce de sueldo o por comisión sindical continuarán ocupando la plaza respectiva por el tiempo que dure la licencia o la comisión sindical correspondiente.
+
+Los servidores públicos de confianza que cuenten con licencia sin goce de sueldo para ocupar otra plaza diversa de confianza, deberán optar por alguna de ellas, decisión que deberán presentar por escrito en un término no mayor a 10 días hábiles a partir del inicio de la vigencia del presente Acuerdo General de Administración; de no hacerlo, se entenderá que conservarán la que actualmente ocupan quedando sin efectos la licencia sin goce de sueldo.
+
+SEXTO. La expedición de los lineamientos establecidos en el presente Acuerdo General de Administración deberá realizarse en un término no mayor a 30 días hábiles.
+
+SÉPTIMO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación, así como en el portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación. CÚMPLASE.
