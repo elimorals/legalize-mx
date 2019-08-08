@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2019-07-05"
+last_updated: "2019-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2019.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -2437,7 +2437,7 @@ Este delito se perseguirá por querella.
 
 ### CAPÍTULO VIII. EXTORSIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 216.
 
@@ -2513,11 +2513,29 @@ A quien, artificiosamente, se coloque en estado de insolvencia, con el objeto de
 
 ###### Artículo 220.
 
-A quien por cualquier medio obligue a otro a dar, hacer, o dejar de hacer algo, contra sus propios bienes patrimoniales o los de un tercero, para procurarse a sí mismo o a otro un lucro indebido, se le impondrán de tres a diez años de prisión y multa hasta de quinientos días de salario.
+A quien por cualquier medio obligue a otro a dar, hacer o dejar de hacer algo contra sus propios bienes patrimoniales o los de un tercero, para procurarse a sí mismo o a otro un lucro indebido, se le impondrán de cuatro a diez años de prisión y multa hasta de quinientas unidades de medida y actualización.
 
-> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+Se le aplicará al responsable de este delito, además de las sanciones anteriores, de dos a seis años de prisión cuando se actualice cualquiera de las siguientes hipótesis:
 
-Las penas se duplicarán si la extorsión se comete por un servidor público, a quien se le sancionará además, sin perjuicio de las sanciones administrativas que correspondan, con destitución e inhabilitación de tres a seis años para desempeñar empleo, cargo o comisión públicos.
+I. Intervenga más de una persona;
+
+II. Se realice por una o más personas armadas o bien portando instrumentos peligrosos;
+
+III. Se emplee violencia física o moral;
+
+IV. Se emplee cualquier mecanismo o amenaza, para hacer creer a la víctima la supuesta intervención en el delito de algún grupo vinculado a la delincuencia organizada, sin que ello sea cierto, aun cuando sea únicamente para lograr que la víctima acceda de manera pronta y con mayor facilidad a alguna de las peticiones que se le hagan o bien para que no denuncie el hecho;
+
+V. Cuando la víctima sea una persona de sesenta años o mayor, o sea mujer y se encuentre en estado de gravidez;
+
+VI. Que se allane el inmueble de la víctima o donde ésta se encuentre para ejercer la conducta delictiva;
+
+VII. Que el o los autores tengan vínculos de parentesco, amistad, gratitud, confianza o relación laboral con la víctima o persona relacionada con ésta, o
+
+VIII. Si el sujeto activo por extorsión telefónica o por cualquier medio electrónico fuere interno procesado o sentenciado.
+
+Las penas se duplicarán cuando el o los autores sean servidores públicos, además se impondrá la destitución del empleo, cargo o comisión, y se inhabilitará de uno a seis años para desempeñarse en cualquier cargo público de los tres órdenes de Gobierno.
+
+Igualmente se duplicarán las penas cuando el o los autores sean o hayan sido integrantes de alguna institución o corporación de seguridad pública o privada, de procuración o administración de justicia, o de las Fuerzas Armadas, o se ostenten como tales sin serlo. También se impondrá la destitución del empleo, cargo o comisión, y se inhabilitará de uno a seis años para desempeñarse en cualquier cargo público de los tres órdenes de Gobierno.
 
 > <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2008)</small>
 
@@ -3513,7 +3531,7 @@ Se impondrán las mismas sanciones que señala el artículo anterior al servidor
 
 Se impondrán de dos a ocho años de prisión y multa hasta de doscientos días de salario al servidor público que ilegalmente ordene o ejecute un acto o inicie un procedimiento, en beneficio propio o ajeno o en perjuicio de alguien.
 
-((REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 318.
 
@@ -5193,35 +5211,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 13, 16, 21, 32, 55, 73, 76, 78, 82, 89, 123 Y 129 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE GUARDIA NACIONAL”.]
+G.O. 8 DE AGOSTO DE 2019.
 
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 280 QUE REFORMA EL ARTÍCULO 220 DEL CÓDIGO PENAL PARA EL ESTADO DE VERACRUZ”.]
 
-Segundo.- Dentro del plazo de 180 días siguientes a la entrada en vigor de este Decreto, el Congreso de la Unión debe armonizar el marco jurídico en la materia para adecuarlo al contenido del presente Decreto. En tanto se realice la armonización del marco jurídico correspondiente, la organización y funcionamiento de la Guardia Nacional continuará operando con apego a las disposiciones legales vigentes antes de la entrada en vigor del presente Decreto.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
-Tercero.- El personal militar y naval que integra la Guardia Nacional, será reclasificado de la Fuerza Armada a la que pertenezca a dicha Guardia Nacional; la nueva patente o nombramiento se expedirá con la antigüedad que posea el interesado en su grado, conforme a la escala jerárquica del Ejército y Fuerza Aérea, adicionando su nueva especialidad. Deben respetarse en todo momento los derechos que posea el interesado en la Fuerza Armada de su origen.
-
-Cuarto.- La persona titular de la Comandancia de la Guardia Nacional, que debe ostentar el grado de General de División de la Guardia Nacional en activo, será designada por la persona titular de la Presidencia de la República, a propuesta de la persona titular de la Secretaría de la Defensa Nacional.
-
-En tanto no exista personal con formación de Guardia Nacional con la mencionada jerarquía, dicha designación recaerá en un General de División del Ejército, capacitado en materia de seguridad pública.
-
-Quinto.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento del inicio de su tramitación.
-
-Sexto.- El Ejecutivo Federal dispondrá lo conducente para que:
-
-I. El personal procedente de la extinta Policía Federal cese de prestar sus servicios en la Guardia Nacional y quede adscrito a la Secretaría del ramo de Seguridad Pública, conservando sus derechos laborales adquiridos. El personal que pertenezca a los organismos especializados, podrá continuar prestando sus servicios en la Guardia Nacional de manera temporal, conforme a los convenios de colaboración que para tal efecto se formalicen entre las Secretarías de Defensa Nacional y la de Seguridad y Protección Ciudadana.
-
-II. Se transfieran a la Secretaría de la Defensa Nacional, los recursos presupuestarios y financieros que correspondan para cubrir las erogaciones por concepto de servicios personales de la última plantilla general de plazas aprobada a la extinta Policía Federal y de confianza, así como los gastos de operación de la Guardia Nacional y los recursos materiales destinados a su operación, con excepción de aquellos requeridos para el personal que continuará, bajo la adscripción de la Secretaría del ramo de Seguridad Pública.
-
-Conforme se queden vacantes las plazas de los integrantes de la extinta Policía Federal, la Secretaría del ramo de Seguridad Pública, debe transferir los recursos presupuestales a la Secretaría de la Defensa Nacional.
-
-III. El personal naval que actualmente forma parte de la Guardia Nacional permanecerá integrado a esta, conforme a la reclasificación señalada en el Transitorio Tercero del presente Decreto.
-
-Séptimo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
-
-Octavo.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a su contenido, establecidas en leyes secundarias, reglamentos, acuerdos y cualquier otra de carácter administrativo.
-
-D.O.F. 30 DE SEPTIEMBRE DE 2024.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 2o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANOS".]
 
