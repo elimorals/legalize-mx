@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-555-de-desarrollo-forestal-sustentable-para-el-51196
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-14"
-last_updated: "2019-06-19"
+last_updated: "2019-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 14 de julio de 2006.
 
@@ -773,11 +773,15 @@ La Secretaría y la CONAFOR, escuchando la opinión de los Consejos Forestales y
 
 Las acciones de dichos programas y los instrumentos económicos a que se refiere el párrafo anterior, serán incorporados en los Programas para el Desarrollo Rural, incluyendo las previsiones presupuestarias de corto y mediano plazo, necesarias para su instrumentación, dando preferencia a los propios dueños y poseedores de los recursos forestales para su ejecución.
 
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 54.
 
-Cuando se presenten procesos de degradación, desertificación o graves desequilibrios ecológicos en terrenos forestales o preferentemente forestales, la Secretaría, con el apoyo de la CONAFOR, formulará y ejecutará, en coordinación con los propietarios, programas de restauración ecológica con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ellos se desarrollaban, incluyendo el mantenimiento del régimen hidrológico y la prevención de la erosión y la restauración de los suelos forestales degradados.
+Cuando se presenten procesos de degradación, desertificación o graves desequilibrios ecológicos en terrenos forestales o preferentemente forestales, la Secretaría, con el apoyo de CONAFOR, formulará y ejecutará, en coordinación con los propietarios, programas de restauración ecológica, en caso de terrenos o predios dedicados a las actividades agropecuarias, la Secretaría se apoyará con la Secretaría de Desarrollo Agropecuario, Rural y Pesca del Estado, con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ellos se desarrollaban, incluyendo el mantenimiento del régimen hidrológico y la prevención de la erosión y la restauración de los suelos forestales y agropecuarios degradados.
 
-Los propietarios, poseedores, usufructuarios o usuarios de terrenos forestales o preferentemente forestales están obligados a realizar las acciones de restauración y conservación pertinentes y aquellas que para tal caso dicte la Secretaría o la CONAFOR. En el caso de que éstos demuestren carecer de recursos, la Secretaría los incorporará a los programas de apoyo que instrumente, de acuerdo a las asignaciones que para tal fin se contemplen en los Presupuestos de Egresos correspondientes y los recursos del Fondo Forestal Estatal que se asignen para tales casos. Los trabajos de restauración se realizarán con acuerdo de los obligados.
+Los propietarios, poseedores, usufructuarios o usuarios de terrenos forestales o preferentemente forestales y los destinados a actividades agropecuarias, están obligados a realizar acciones de restauración y conservación pertinentes y aquellas que para tal caso dicte la Secretaría o la CONAFOR, y en su caso la Secretaría de Desarrollo Agropecuario, Rural y Pesca. En el caso de que aquéllos demuestren carecer de recursos, podrán incorporarse a los programas que las dependencias en la materia instrumenten, de acuerdo a las asignaciones que para tal fin se contemplen en los Presupuestos de Egresos correspondientes y los recursos del Fondo Forestal Estatal que se asignen para tales casos. Los trabajos de restauración se realizarán con acuerdo de los obligados.
+
+Con respecto a la restauración de los predios con actividad agropecuaria los productores estarán obligados a destinar el 10% de su superficie para realizar trabajos de reforestación, preferentemente en forma compacta o en cortinas de árboles de usos múltiples, que pueden colocar alrededor de sus linderos. Podrán incluirse bancos forrajeros con leguminosas; así como la superficie reforestada alrededor de las ollas de agua, arroyos, manantiales o cualquier cuerpo de agua existente dentro del predio. Las responsables de verificar que esto se cumpla serán la Secretaría de Medio Ambiente y la Secretaría de Desarrollo Agropecuario, Rural y Pesca.
 
 ###### Artículo 55.
 
@@ -1268,6 +1272,14 @@ SÉPTIMO. Las donaciones, compensaciones, multas o cuotas voluntarias de los tr�
 G.O. 19 DE JUNIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 252 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 278 QUE REFORMA EL ARTÍCULO 54 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
