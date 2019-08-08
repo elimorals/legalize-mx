@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2019-03-20"
+last_updated: "2019-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2019.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -883,9 +883,13 @@ ARTICULO 117
 
 Los Jueces de primera instancia de lo familiar conocerán de las cuestiones inherentes a la familia, así como de la Declaración Especial de Ausencia por Desaparición prevista en la Ley para la Declaración Especial de Ausencia por Desaparición de Personas para el Estado de Veracruz.
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2019)</small>
 
-Del procedimiento de conciliación previsto en la Ley de Asistencia y Prevención de la Violencia Familiar, conocerán los jueces de paz o, en su caso, los jueces menores.
+Del procedimiento de conciliación previsto en la Ley de Asistencia y Prevención de la Violencia Familiar, conocerán los Jueces de Primera Instancia de lo familiar.
+
+> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2019)</small>
+
+Queda prohibida la mediación, conciliación y, en general, todas las formas de solución extrajudiciales en casos de violencia familiar cuando exista una relación de subordinación o sometimiento de la víctima hacia la persona agresora.
 
 > <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
@@ -1581,6 +1585,10 @@ ARTICULO 209
 
 El Juez examinará de oficio la demanda y si la encontrare obscura o irregular o no estuviere acreditada la personalidad del actor, le prevendrá que la aclare, corrija o complete de acuerdo con la Ley en los primeros casos, señalando en concreto los defectos y en el último, se negará a darle curso. El Juez puede hacer la prevención que se indica por una sola vez, y verbalmente.
 
+> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2019)</small>
+
+El Juez, al examinar la demanda, si detecta que en la narración de la misma se advierte que existe violencia de género, de oficio, deberá dar vista al Fiscal Adscrito, con el escrito de demanda, quien denunciará los hechos constitutivos del delito ante la Fiscalía Especializada en Investigación de Delitos de Violencia Contra la Familia, Mujeres, Niñas y Niños, y de trata de Personas que corresponda.
+
 ARTICULO 210
 
 Presentada la demanda con los documentos y copias prevenidas, se correrá traslado de ella a la persona o personas contra quienes se proponga, y se les emplazará para que contesten dentro de nueve días.
@@ -1662,6 +1670,10 @@ Cuando sin justa causa, después de hacerse el emplazamiento, el emplazado dejar
 ARTICULO 218 BIS
 
 Vencido el plazo previsto en el artículo 217 de este Código, de oficio o a petición de parte, el juez remitirá el conflicto al Centro Estatal de Justicia Alternativa de Veracruz, con el fin de que las partes lleguen a un arreglo; de no producirse éste, se procederá conforme a lo establecido en el numeral siguiente.
+
+> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2019)</small>
+
+Cuando se trate de casos de violencia familiar o violencia de género contra las mujeres o niñas, el juez se abstendrá de remitir el conflicto al Centro Estatal de Justicia Alternativa de Veracruz, debiendo proseguir con el procedimiento.
 
 > <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2016)</small>
 
@@ -6240,3 +6252,11 @@ G.O. 20 DE MARZO DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 276 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES, ASÍ COMO DE LAS LEYES DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS, DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR Y DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, TODOS LOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE EN MATERIA DE RESTRICCIÓN DEL USO DE CONCILIACIÓN, MEDIACIÓN Y EN GENERAL, TODAS LAS FORMAS DE TERMINACIÓN DE PROCEDIMIENTOS EN CASOS DE VIOLENCIA FAMILIAR O DE GÉNERO CONTRA LAS MUJERES Y NIÑAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
