@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de-599
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2018-11-29"
+last_updated: "2019-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2019.
 
 Ley publicada en el Núm. Ext. 65 a la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2008.
 
@@ -587,7 +587,9 @@ II. Promover la formación y especialización con perspectiva de género de las 
 
 III. Brindar a las mujeres víctimas de violencia la asistencia y orientación jurídica adecuada, de conformidad con los ordenamientos aplicables;
 
-IV. Evitar la conciliación en los casos de violencia contra las mujeres, en tanto dure la situación de violencia;
+> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2019)</small>
+
+IV. Evitar procedimientos de mediación, conciliación o cualquier otro alternativo, por ser inviables en una relación de sometimiento entre el agresor y la víctima;
 
 V. Alimentar el Banco Estatal de Datos en coordinación con el Instituto Veracruzano de las Mujeres;
 
@@ -799,9 +801,11 @@ VIII. Ser valoradas y educadas libres de estereotipos de comportamiento y práct
 
 IX. Los demás que deriven de esta Ley.
 
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 25.
 
-Se prohíbe someter a la víctima a mecanismos de conciliación, de mediación y/o cualquier otro alternativo con la persona agresora, en tanto dure la situación de violencia.
+Se prohíbe someter a la víctima a mecanismos de conciliación, de mediación o cualquier otro alternativo con la persona agresora, por ser inviables en una relación de sometimiento entre el agresor y la víctima.
 
 ###### Artículo 26.
 
@@ -1122,3 +1126,11 @@ G.O. 29 DE NOVIEMBRE DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 276 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES, ASÍ COMO DE LAS LEYES DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS, DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR Y DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, TODOS LOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE EN MATERIA DE RESTRICCIÓN DEL USO DE CONCILIACIÓN, MEDIACIÓN Y EN GENERAL, TODAS LAS FORMAS DE TERMINACIÓN DE PROCEDIMIENTOS EN CASOS DE VIOLENCIA FAMILIAR O DE GÉNERO CONTRA LAS MUJERES Y NIÑAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
