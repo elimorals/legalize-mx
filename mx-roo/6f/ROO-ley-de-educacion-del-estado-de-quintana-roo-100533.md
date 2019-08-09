@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-100533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-27"
-last_updated: "2019-04-22"
+last_updated: "2019-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2019.
 
 Ley Publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 27 de febrero de 2014.
 
@@ -299,9 +299,25 @@ XVIII. Apoyarán y desarrollarán programas, cursos y actividades que fortalezca
 
 XIX. Establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural;
 
-XX. Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria, y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2019)</small>
 
-XXI. Llevarán a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
+XX. Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2019)</small>
+
+XXI. Llevarán a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2019)</small>
+
+XXII. Expedir el Programa Especial de Seguridad de Emergencia Escolar, en coordinación con las determinaciones de la Secretaría de Educación Pública y conforme a las determinaciones técnicas que establezca el Instituto de Infraestructura Física Educativa del Estado y el Sistema Estatal de Protección Civil, a través del cual se organice a la comunidad escolar para su seguridad, de tal manera que cada una de las escuelas tenga conocimiento de las situaciones de riesgo en las que se encuentra y cuente con los elementos indispensables para adoptar las medidas preventivas y correctivas necesarias;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2019)</small>
+
+XXIII. Vigilar que tanto en el interior como en los alrededores de los planteles escolares se garantice la integridad física y moral de la comunidad educativa en materia de protección civil y señalamientos viales, con la finalidad de que exista un entorno seguro para la misma, y
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2019)</small>
+
+XXIV. Realizar en los planteles educativos con apoyo del Sistema Estatal de Protección Civil de Quintana Roo, y/o Sistemas Municipales de Protección Civil cuando menos una vez cada seis meses, simulacros que permitan la prevención de riesgos, emergencias o desastres, así como orientar al personal directivo, administrativo y académico del plantel educativo sobre métodos y acciones para evitar o minimizar los daños y riesgos en caso de que éstos se presenten.
 
 ###### Artículo 17.
 
@@ -695,7 +711,7 @@ El alumno es sujeto activo en el proceso formativo, tanto en lo individual como 
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
 
-Para que éste logre el desarrollo armónico de su personalidad, deberá asegurársele la participación activa en dicho proceso, estimulando su iniciativa, su sentido de responsabilidad social, el cuidado de su cuerpo mediante la sana práctica del deporte en cualquiera de sus expresiones y su espiritu creador, a fin de alcanzar los fines a que se refiere el artículo 12 de esta Ley. Para ello, el Sistema Educativo implementará el Marco de Convivencia Escolar y los Protocolos respectivos, según corresponda.
+Para que éste logre el desarrollo armónico de su personalidad, deberá asegurársele la participación activa en dicho proceso, estimulando su iniciativa, su sentido de responsabilidad social, el cuidado de su cuerpo mediante la sana práctica del deporte en cualquiera de sus expresiones y su espíritu creador, a fin de alcanzar los fines a que se refiere el artículo 12 de esta Ley. Para ello, el Sistema Educativo implementará el Marco de Convivencia Escolar y los Protocolos respectivos, según corresponda.
 
 Se consideran alumnos de una escuela a quienes habiendo cumplido con todos los requisitos para ingresar al plantel educativo, hayan quedado inscritos en la misma.
 
@@ -2320,3 +2336,9 @@ P.O. 22 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 312 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 9 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 341 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO, EN MATERIA DE PROTECCIÓN CIVIL ESCOLAR”.]
+
+ÚNICO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
