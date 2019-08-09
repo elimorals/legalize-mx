@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-lazaro-cardenas-del-estado-111
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2017-12-27"
+last_updated: "2019-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 2015.
 
@@ -1389,17 +1389,31 @@ Los derechos que establece este capítulo se causarán por la ejecución de sane
 
 Están obligados a pagar los derechos de saneamiento ambiental el o los usuarios de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, mismo derecho que será retenido por los prestadores de servicios del ramo.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2019)</small>
+
+Tratándose de los visitantes que no se hospeden en algún establecimiento de los referidos en el párrafo anterior, el pago lo deberán realizar a través de la operadora marítima de transporte de pasajeros con ruta dentro del ámbito territorial del municipio.
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 132 Quáter.
 
-El pago del derecho de saneamiento ambiental se causará en razón de $20.00 (VEINTE PESOS 00/100 M.N.) por cuarto y/o habitación, por noche de ocupación, al momento en el que el pago de la ocupación de la habitación se efectúe por adelantado, o al momento del Registro (check in), o al momento de la salida (check out) si el pago es después de prestado el servicio.
+El pago del derecho de saneamiento ambiental se causará en razón del 30% del valor correspondiente a la Unidad de Medida y Actualización diaria por cuarto y/o habitación, por noche de ocupación, al momento en el que el pago de la ocupación de la habitación se efectúe por adelantado, o al momento del registro (check in), o al momento de la salida (check out) si el pago es después de prestado el servicio.
+
+Tratándose de los visitantes a la parte insular del Municipio, que no se hospeden, el pago será del 20% del valor correspondiente a la Unidad de Medida y Actualización diaria, el cual se enterará a la operadora marítima de transporte de pasajeros cuya ruta esté dentro del ámbito territorial del municipio.
+
+En el caso de los visitantes a la parte insular que utilicen el medio de transporte marítimo, además de cubrir el pago establecido en el párrafo anterior, deberán cubrir un pago correspondiente al 10% del valor correspondiente a la Unidad de Medida y Actualización diaria, al momento de hospedarse en cualquiera de los establecimientos previstos en el artículo 132 TER de esta Ley.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 132 Quinquies.
 
 Los retenedores deberán de proporcionar mensualmente, mediante formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información que se refiere a las habitaciones ocupadas por la prestación de ese servicio, de las operaciones practicadas con personas físicas y morales, a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2019)</small>
+
+###### Artículo 132 Sexies.
+
+Quedan exentos del pago de este derecho los visitantes que acrediten, mediante identificación oficial ser ciudadanos quintanarroenses.
 
 ## TÍTULO CUARTO. PRODUCTOS
 
@@ -1618,3 +1632,11 @@ P.O. 27 DE DICIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor a partir del 1o. de enero del año 2018, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. La recaudación del derecho de saneamiento ambiental que prevé el presente decreto, iniciará una vez constituido el fideicomiso para su correcta administración, el cual estará regido por un Comité Técnico.
+
+P.O. 9 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 350 POR EL QUE SE REFORMA EL ARTÍCULO 132 QUÁTER Y SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 132 TER Y EL ARTÍCULO 132 SEXIES DE LA LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día 1° de enero del año 2020, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
