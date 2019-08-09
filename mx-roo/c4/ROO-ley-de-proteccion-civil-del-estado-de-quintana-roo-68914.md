@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-civil-del-estado-de-quintana-roo-68914"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-01"
-last_updated: "2017-05-08"
+last_updated: "2019-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2019.
 
 Ley Publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 1 de junio del 2009.
 
@@ -239,7 +239,7 @@ VII.- La representación de los sectores social y privado, de las instituciones 
 
 ###### ARTÍCULO 13.
 
-El Estado, por si o a través la (sic) Coordinación Estatal previa autorización de la Secretaria de Gobierno, podrá suscribir convenios, acuerdos de coordinación, cooperación y concertación, con la Federación, Entidades Federativas, Municipios de la Entidad, organismos e instituciones de los sectores social, privado y educativo, para la planeación y desarrollo de las actividades de protección civil de la entidad.
+El Estado, por si o a través (sic) la Coordinación Estatal previa autorización de la Secretaria de Gobierno, podrá suscribir convenios, acuerdos de coordinación, cooperación y concertación, con la Federación, Entidades Federativas, Municipios de la Entidad, organismos e instituciones de los sectores social, privado y educativo, para la planeación y desarrollo de las actividades de protección civil de la entidad.
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
 
@@ -271,7 +271,7 @@ II.- El Secretario de Gobierno, quien fungirá como Secretario Ejecutivo;
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-III.- El Director General la (sic) Coordinación Estatal, quien fungirá como Secretario Técnico;
+III.- El Director General (sic) la Coordinación Estatal, quien fungirá como Secretario Técnico;
 
 IV.- Los titulares de las dependencias de la Administración Pública del Estado, cuyo ámbito de responsabilidades tenga relación con los objetivos del Sistema Estatal de Protección Civil, a invitación del presidente del Consejo;
 
@@ -877,11 +877,11 @@ Las dependencias, entidades y unidades administrativas de la Administración Pú
 
 En los inmuebles que por su naturaleza o el uso al que se han destinado, reciban una afluencia masiva de personas, deberán contar con un Programa Interno de Protección Civil, acorde con los lineamientos que establezca el Programa Especial.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 56.
 
-El Sistema Educativo Estatal instrumentará en todos los niveles y modalidades educativas a cargo del Estado, el Programa Especial de Seguridad de Emergencia Escolar, el cual será coordinado por la Secretaría de Educación Pública, en coordinación con la Coordinación Estatal.
+El Sistema Educativo Estatal instrumentará en todos los niveles y modalidades educativas a cargo del Estado, el Programa Especial de Emergencia Escolar, el cual será coordinado por la Secretaría de Educación del Estado de Quintana Roo, con apoyo de la Secretaría de Educación Pública y del Instituto de Infraestructura Física Educativa del Estado de Quintana Roo, en conjunto con la Coordinación Estatal.
 
 ###### ARTÍCULO 57.
 
@@ -1061,7 +1061,9 @@ De igual forma, los organizadores de ferias y espectáculos de concentración de
 
 Las personas a que se refiere el artículo anterior, bajo la supervisión de la Coordinación Estatal, por sí o a través de la instancia Municipal que corresponda, practicarán, cuando menos una vez cada seis meses, simulacros que permitan la prevención de riesgos, emergencias o desastres, así como orientar a los usuarios del inmueble sobre métodos y acciones para evitar o minimizar los daños y riesgos en caso de que éstos se presenten, en la forma que determine la normatividad y las reglas técnicas correspondientes.
 
-De igual forma, las escuelas, fábricas, industrias, comercios, oficinas, unidades habitacionales otros establecimientos en los que haya afluencia de público, en coordinación con las autoridades competentes, deberán practicar simulacros de protección civil, cuando menos una vez cada seis meses, de conformidad con lo señalado en el párrafo anterior, excepción hecha de las casas habitación unifamiliares.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2019)</small>
+
+De igual forma, todas las escuelas de nivel básico, media superior y superior en sus modalidades pública o privada, fábricas, industrias, comercios, oficinas, unidades habitacionales u otros establecimientos en los que haya afluencia de público, en coordinación con las autoridades competentes, deberán practicar simulacros de protección civil, cuando menos una vez cada seis meses, de conformidad con lo señalado en el párrafo anterior, a excepción hecha de las casas habitación unifamiliares.
 
 ###### ARTÍCULO 74.
 
@@ -1728,3 +1730,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su public
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
 
 TERCERO. Los Ayuntamientos dentro del término de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto deberán expedir su reglamento municipal para regular la organización y funcionamiento de los cuerpos de bomberos de conformidad al artículo 40 BIS del presente Decreto o en su caso adecuar sus reglamentos municipales vigentes en (sic) materia.
+
+P.O. 9 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 341 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO, EN MATERIA DE PROTECCIÓN CIVIL ESCOLAR”.]
+
+ÚNICO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
