@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-movilidad-del-estado-de-quintana-roo-129124"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-14"
-last_updated: "2019-01-16"
+last_updated: "2019-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 14 de junio de 2018.
 
@@ -1629,7 +1629,9 @@ XI. Cumplir con las disposiciones jurídicas y administrativas aplicables en mat
 
 XII. Vigilar que los conductores de sus vehículos, cuenten con la licencia de conducir del tipo servicio público exigida por las disposiciones jurídicas y administrativas aplicables para operar unidades de transporte público y con los requisitos y documentos necesarios para desempeñar esta actividad e informar por escrito al Instituto y a cualquier otra dependencia o entidad de la Administración Pública del Estado que lo requiera, los datos de identificación y localización de sus conductores;
 
-XIII. Contar con póliza de seguro vigente de cobertura amplia para responder por los daños que con motivo de la prestación del servicio, pudieran ocasionarse a los usuarios y terceros en su persona y/o patrimonio, conforme a lo dispuesto por el Reglamento;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2019)</small>
+
+XIII. Contar con póliza de seguro vigente que garantice a los usuarios y a terceros de los daños que se les pudiera causar con motivo de la prestación del servicio, conforme a lo dispuesto en el reglamento;
 
 XIV. Acatar los protocolos de comportamiento y actuación que emita el Instituto;
 
@@ -1691,7 +1693,9 @@ IV. La desaparición del objeto de la concesión;
 
 V. La quiebra, liquidación o disolución, en caso de personas morales;
 
-VI. La muerte del titular de la concesión, salvo las excepciones previstas en la presente Ley;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2019)</small>
+
+VI. La muerte del titular de la concesión, salvo las excepciones previstas en la presente ley o su reglamento;
 
 VII. Declaratoria de rescate;
 
@@ -2877,13 +2881,25 @@ III. Por exceder la antigüedad máxima permitida establecida por el Instituto, 
 
 El Instituto estará facultado para imponer multas por infracciones listadas en esta Ley o por el incumplimiento de cualquiera de sus disposiciones.
 
-Los montos de las multas se fijarán entre 25 (veinticinco) y 1000 (mil) veces el valor diario de la Unidad de Medida y Actualización, de acuerdo a lo siguiente:
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2019)</small>
+
+Los montos de las multas se fijarán entre 1 (Una) y 700 (setecientas) veces el valor diario de la Unidad de Medida y Actualización, de acuerdo a lo siguiente:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE AGOSTO DE 2019)</small>
 
 I. Las infracciones leves se sancionarán con multa de 1 (una) a 25 (veinticinco) veces el valor diario de la Unidad de Medida y Actualización;
 
-II. Las infracciones medias se sancionarán con multa de 25 (veinticinco) a 300 (trescientas) veces el valor diario de la Unidad de Medida y Actualización, y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2019)</small>
 
-III. Las infracciones graves se sancionarán con multa de 300 (trescientas) a 1000 (mil) veces el valor diario de la Unidad de Medida y Actualización.
+II. Las infracciones medias se sancionarán con multa de 26 (veintiséis) a 150 (ciento cincuenta) veces el valor diario de la Unidad de Medida y Actualización, y
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2019)</small>
+
+III. Las infracciones graves se sancionarán con multa de 151 (ciento cincuenta y uno) a 700 (setecientas) veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2019)</small>
+
+Se hará efectivo un descuento en la multa hasta por el 40% del monto de la sanción que corresponda a una infracción en caso de que el infractor no se hubiere inconformado de la misma y efectúe el pago correspondiente dentro de los 10 días hábiles contados a partir de la fecha de infracción.
 
 En la determinación del monto de las multas se deberán considerar las resoluciones anuales del Instituto Nacional de Estadística y Geografía, en las que fija la Unidad de Medida y Actualización vigente en todo el territorio nacional.
 
@@ -3426,3 +3442,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las facultades de administración y representación legal establecidas en el artículo 30 fracción XXIII de este decreto, podrán ser ejercidas por el titular de la Dirección General, de conformidad al Decreto 213 emitido por la Honorable XV Legislatura del Estado Libre y Soberano de Quintana Roo por el que se expide la Ley de Movilidad del Estado de Quintana Roo, por medio de la cual se creó el Instituto de Movilidad del Estado de Quintana Roo, publicado en el Periódico Oficial del Estado en fecha 14 de junio de 2018.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto, de igual o inferior jerarquía.
+
+P.O. 9 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 347 POR EL QUE SE REFORMAN LA FRACCIÓN XIII DEL 117, LA FRACCIÓN VI DEL ARTÍCULO 120 Y EL PÁRRAFO SEGUNDO Y LAS FRACCIONES I, II Y III DEL ARTÍCULO 204, TODOS DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
