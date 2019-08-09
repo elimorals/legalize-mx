@@ -4,7 +4,7 @@ identifier: "LFAEBSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-12-19"
-last_updated: "2012-04-09"
+last_updated: "2019-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26816&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFAEBSP"
 
 LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE AGOSTO DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 19 de diciembre de 2002.
 
@@ -48,9 +48,11 @@ Se expide la siguiente:
 
 ## TÍTULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, de observancia general en toda la República y tiene por objeto regular la administración y destino, por parte del SAE, de los bienes siguientes:
+La presente Ley es de orden e interés público, de observancia general en toda la República y tiene por objeto regular la administración y destino, por parte del Instituto de Administración de Bienes y Activos, de los Bienes, activos y empresas siguientes:
 
 I.- Los asegurados y decomisados en los procedimientos penales federales;
 
@@ -60,35 +62,67 @@ III.- Los que habiendo sido embargados por autoridades federales, hayan sido adj
 
 IV.- Los que sean abandonados a favor del Gobierno Federal;
 
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-V.- Los que estando sujetos a uno de los procedimientos establecidos en la legislación aduanera, en la legislación fiscal federal o en otros ordenamientos jurídicos aplicables a las Entidades Transferentes, deban ser vendidos, destruidos, donados o asignados, en virtud de ser inflamables, fungibles, perecederos, de fácil descomposición o deterioro, así como cuando se trate de animales vivos y vehículos;
+V.- Los que estando sujetos a uno de los procedimientos establecidos en la legislación aduanera, en la legislación fiscal federal o en otros ordenamientos jurídicos aplicables a las Entidades Transferentes, deban ser vendidos, destruidos, donados o asignados, en virtud de ser inflamables, fungibles, perecederos, de fácil descomposición o deterioro, de mantenimiento o conservación de alta especialización, se trate de animales vivos y vehículos, o bien, cuya administración resulte incosteable para la Federación. En estos casos, se estará a la disponibilidad de recursos para su administración;
 
 VI.- Los que pasen a ser propiedad del Fisco Federal;
 
 VII.- Los títulos, valores, activos y demás derechos que sean susceptibles de enajenación, cuando así se disponga por las autoridades competentes;
 
-VIII.- Los bienes del dominio privado de la Federación y los que constituyan el patrimonio de las entidades paraestatales;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-IX.- Cualquier bien que, sin ser propiedad de la Federación, en términos de la legislación aplicable, el Gobierno Federal, sus entidades o dependencias puedan disponer de él, y
+VIII.- Los Bienes desincorporados del régimen de dominio público de la Federación y los que constituyan el patrimonio de las entidades paraestatales;
 
-X.- Los demás que determinen la Secretaría y la Contraloría dentro del ámbito de sus atribuciones y conforme a las disposiciones legales aplicables.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-Los bienes a que se refiere este artículo deberán ser transferidos al SAE cuando así lo determinen las leyes o cuando así lo ordenen las autoridades judiciales. En los demás casos, las entidades transferentes determinarán de conformidad con las disposiciones aplicables para tal efecto, la conveniencia de transferir los bienes al SAE o bien, de llevar a cabo por sí mismas la administración, destrucción o enajenación correspondientes, en cuyo caso aplicarán la normativa que corresponda de acuerdo a los bienes de que se trate.
+IX.- Cualquier bien que, sin ser propiedad de la Federación, en términos de la legislación aplicable, el Gobierno Federal, sus entidades o dependencias puedan disponer de él;
 
-El SAE podrá administrar, enajenar o destruir directamente los bienes que le sean transferidos o nombrar depositarios, liquidadores, interventores o administradores de los mismos, así como encomendar a terceros la enajenación y destrucción de éstos.
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+X.- Los Bienes, activos o empresas sobre los cuales se haya declarado la extinción de dominio, mediante sentencia firme, o bien, sobre los cuales se hayan decretado medidas cautelares;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+XI.- Las empresas que hayan sido transferidas al Instituto de Administración de Bienes y Activos, y éste haya aceptado el cargo de liquidador o responsable del proceso de desincorporación, liquidación o extinción y reciba recursos para la consecución de su encargo;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+XII.- Cualquier bien que reciban las personas servidoras públicas de manera gratuita, de un particular, con motivo del ejercicio de sus funciones, y
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+XIII.- Los demás que determinen la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública dentro del ámbito de sus atribuciones y conforme a las disposiciones legales aplicables; así como aquellos que reciba en encargo por parte de la Federación, estados y municipios.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Los Bienes, activos o empresas a que se refiere este artículo, deberán ser transferidos al Instituto de Administración de Bienes y Activos, cuando así lo determinen las leyes o cuando así lo ordenen las autoridades judiciales. En los demás casos, las Entidades Transferentes determinarán, de conformidad con las disposiciones aplicables para tal efecto, la conveniencia de transferir los Bienes al Instituto de Administración de Bienes y Activos, o bien, de llevar a cabo por sí mismas la administración, destrucción o enajenación correspondientes, en cuyo caso aplicarán la normativa que corresponda de acuerdo a los Bienes de que se trate.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+El Instituto de Administración de Bienes y Activos, podrá administrar, enajenar, usar, usufructuar, monetizar, dar destino o destruir directamente los Bienes, activos o empresas que le sean transferidos o nombrar depositarios, liquidadores, interventores o administradores de los mismos, así como encomendar a terceros la enajenación y destrucción de éstos.
 
 Los depositarios, liquidadores, interventores o administradores, así como los terceros a que hace referencia el párrafo anterior, serán preferentemente las dependencias o entidades de la Administración Pública Federal, o las autoridades estatales y municipales, previa solicitud o acuerdo correspondiente, sin perjuicio de que puedan ser designadas otras personas profesionalmente idóneas.
 
-Hasta que se realice la transferencia de los bienes al SAE, éstos se regirán por las disposiciones aplicables de acuerdo a su naturaleza.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+Hasta que se realice la Transferencia de los Bienes al Instituto de Administración de Bienes y Activos, éstos se regirán por las disposiciones aplicables de acuerdo a su naturaleza.
 
-La presente Ley será aplicable a los bienes desde que éstos sean transferidos al SAE y hasta que el SAE realice la destrucción, enajenación o termine la administración de los mismos, inclusive tratándose de bienes de Entidades Transferentes cuyo marco legal aplicable establezca requisitos o procedimientos de administración, enajenación y control especiales o particulares, en las materias que regula esta Ley. Habiéndose presentado cualquiera de estos supuestos, se estará a las disposiciones aplicables para el entero, destino y determinación de la naturaleza de los ingresos correspondientes.
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-Los bienes inmuebles del Gobierno Federal que se transfieran al SAE continuarán sujetos al régimen jurídico que establece la Ley General de Bienes Nacionales.
+Los Bienes provenientes de las entidades en desincorporación, liquidación o extinción a cargo del Instituto de Administración de Bienes y Activos, se entenderán transferidos a partir de la designación del cargo correspondiente.
 
-La interpretación de los preceptos de esta Ley, para efectos administrativos, corresponderá a la Secretaría y a la Contraloría, en el ámbito de sus respectivas competencias.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+La presente Ley será aplicable a los Bienes, activos o empresas desde que éstos sean formal y materialmente transferidos al Instituto de Administración de Bienes y Activos y hasta que éste determine su destino, realice la destrucción, enajenación, Monetización o termine su administración, inclusive tratándose de Bienes de Entidades Transferentes cuyo marco legal aplicable establezca requisitos o procedimientos de administración, enajenación y control especiales o particulares, en las materias que regula esta Ley. Habiéndose presentado cualquiera de estos supuestos, se estará a las disposiciones aplicables para el entero, destino y determinación de la naturaleza de los ingresos correspondientes.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Los bienes inmuebles del Gobierno Federal que se transfieran al Instituto de Administración de Bienes y Activos, continuarán sujetos al régimen jurídico que establece la Ley General de Bienes Nacionales; con excepción de los que correspondan a empresas en proceso de desincorporación, los cuales se entenderán desincorporados desde el momento en que se publique el acuerdo por el que se autorice la desincorporación del ente correspondiente, los que se regirán por lo dispuesto en el propio acuerdo, las disposiciones de esta Ley y demás normativa aplicable.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+La interpretación de los preceptos de esta Ley, para efectos administrativos, corresponderá a la Secretaría de Hacienda y Crédito Público y a la Secretaría de la Función Pública, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 2.
 
@@ -96,139 +130,199 @@ Para los efectos de esta Ley, se entiende por:
 
 I.- Autoridades Aduaneras: Las que de acuerdo con el Reglamento Interior de la Secretaría, el Reglamento Interior del Servicio de Administración Tributaria y demás disposiciones aplicables tienen competencia para ejercer las facultades que la Ley Aduanera establece;
 
-II.- Bienes: Los bienes mencionados en el artículo 1 de esta Ley;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-III.- Bienes incosteables: Aquellos cuyo valor sea menor al importe de seis meses de salario mínimo general vigente para el Distrito Federal, así como aquellos que, de conformidad con lo que al respecto disponga el Reglamento, tengan un valor comercial inferior a sus costos de administración;
+II.- Bienes: Todas las cosas materiales que no estén excluidas del comercio, ya sean muebles o inmuebles y todo aquel derecho real o personal, sus objetos, productos, rendimientos y frutos, susceptibles de apropiación; de manera enunciativa a los señalados en el artículo 1o. de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-IV.- Contraloría: La Secretaría de la Función Pública;
+III.- Bienes incosteables: Aquellos cuyo valor sea menor al equivalente a seis meses de Unidades de Medida y Actualización, así como aquellos que, de conformidad con lo que al respecto disponga el Reglamento, tengan un valor comercial inferior a sus costos de administración;
 
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-V.- Entidades Transferentes: Las Autoridades Aduaneras; la Tesorería de la Federación; la Procuraduría; las Autoridades Judiciales Federales; las entidades paraestatales, incluidas las instituciones de banca de desarrollo y las organizaciones auxiliares nacionales de crédito; los fideicomisos públicos, tengan o no el carácter de entidad paraestatal, las dependencias de la Administración Pública Federal, la oficina de la Presidencia de la República, la Consejería Jurídica del Ejecutivo Federal, el Banco de México, el Instituto Federal Electoral, los gobiernos de las Entidades Federativas y de los Municipios, así como los demás organismos públicos autónomos, que en términos de las disposiciones aplicables transfieran para su administración, enajenación o destrucción los bienes a que se refiere el artículo 1o. de esta Ley al SAE.
+IV.- Empresa: A las entidades paraestatales, las sociedades mercantiles, sociedades o asociaciones civiles, fideicomisos públicos y aquellos fideicomisos públicos que sean análogos a entidad paraestatal, fideicomisos privados que cuenten con estructura propia en proceso de desincorporación, liquidación o extinción, según sea el caso, que hayan sido transferidos al Instituto, salvo aquellas sujetas a un procedimiento penal federal;
 
-Tratándose de inmuebles cuya administración competa a la Contraloría, se entenderá como Entidad Transferente, exclusivamente a esa Dependencia;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-VI.- Interesado: La persona que conforme a derecho, tenga interés jurídico sobre los bienes a que se refiere el artículo 1 de esta Ley o, en su caso, aquella que tenga interés en participar en los procedimientos de enajenación previstos en la misma;
+V.- Entidades Transferentes: Las Autoridades Aduaneras; la Tesorería de la Federación; la Fiscalía General de la República, o bien las fiscalías generales de las entidades federativas; las dependencias y entidades de las administraciones públicas Federal, del Gobierno de la Ciudad de México, Estatales y Municipales; las unidades administrativas de la Presidencia de la República; los órganos reguladores coordinados en materia energética; las empresas productivas del Estado y sus empresas productivas subsidiarias y empresas filiales; la Cámara de Diputados y la Cámara de Senadores del Poder Legislativo; los órganos del Poder Judicial de la Federación, de la Ciudad de México y de los Estados; las instituciones de carácter federal o local con autonomía otorgada por la Constitución Política de los Estados Unidos Mexicanos o por las Constituciones de los Estados; los fideicomisos en los que alguna de las anteriores instituciones sea fideicomitente o fideicomisaria; y cualquier otra institución que llegase a tener el carácter de pública en términos de disposición constitucional o legal; que en términos de las disposiciones aplicables transfieran para su administración, enajenación o destrucción los Bienes a que se refiere el artículo 1o. de esta Ley al Instituto de Administración de Bienes y Activos.
 
-VII.- Junta de Gobierno: La Junta de Gobierno del SAE;
+Tratándose de inmuebles cuya administración competa a la Secretaría de la Función Pública, se entenderá como Entidad Transferente, exclusivamente a esa dependencia;
 
-VIII.- Ministerio Público: El Ministerio Público de la Federación;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-IX.- Procuraduría: La Procuraduría General de la República;
+VI.- Instituto: Al organismo descentralizado de la Administración Pública Federal, denominado Instituto de Administración de Bienes y Activos, previsto en el Título Sexto de la presente Ley;
 
-X.- Reglamento: El Reglamento de esta Ley, que al efecto emita el Presidente de la República;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+VII.- Interesado: La persona que acredite ser titular de un derecho subjetivo o de un interés legítimo sobre los Bienes, activos o empresas a que se refiere el artículo 1o. de esta Ley;
 
-XI.- SAE: El organismo descentralizado de la Administración Pública Federal, denominado Servicio de Administración y Enajenación de Bienes, previsto en el Título Sexto de la presente Ley;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+VIII.- Junta de Gobierno: La Junta de Gobierno del Instituto de Administración de Bienes y Activos;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+IX.- Ministerio Público: El Ministerio Público de la Federación o de la entidad federativa de que se trate, conforme a su competencia y que comprende a los órganos que ejercen la función fiscal;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+X.- Monetización: El producto de la conversión de un bien o activo, en su valor en dinero;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+XI.- Reglamento: El Reglamento de esta Ley;
 
 > <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 XII.- Secretaría: La Secretaría de Hacienda y Crédito Público, y
 
-> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-XIII.- Transferencia: El procedimiento por el cual una Entidad Transferente entrega uno o más bienes al SAE para su administración, enajenación o destrucción, sin que dicha entrega implique transmisión de propiedad alguna ni genere el pago de impuestos.
+XIII.- Transferencia: El procedimiento por el cual una Entidad Transferente entrega uno o más Bienes, activos o empresas al Instituto, para su administración, enajenación, destino o destrucción, sin que dicha entrega implique transmisión de propiedad alguna ni genere el pago de impuestos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 3.
 
-Para la transferencia de los bienes al SAE las entidades transferentes deberán:
+Para la Transferencia de los Bienes, activos o empresas al Instituto, las Entidades Transferentes deberán:
 
-I.- Entregar acta que incluya inventario con la descripción y el estado en que se encuentren los bienes, en la que se señale si se trata de bienes propiedad o al cuidado de la entidad transferente, agregando original o copia certificada del documento en el que conste el título de propiedad o del que acredite la legítima posesión y la posibilidad de disponer de los bienes. La Junta de Gobierno determinará los documentos adicionales que permitan realizar una transferencia ordenada y transparente de los bienes;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+I.- Entregar acta que incluya inventario con la descripción y el estado en que se encuentren los Bienes, activos o empresas, señalando si se trata de Bienes propiedad o al cuidado de la Entidad Transferente, agregando original o copia certificada del documento en el que conste el título de propiedad o del que acredite la legítima posesión y la posibilidad de disponer de los Bienes. La Junta de Gobierno determinará los documentos adicionales que permitan realizar una Transferencia ordenada y transparente de los Bienes;
 
 II.- Identificar los bienes con sellos, marcas, cuños, fierros, señales u otros medios adecuados;
 
-III.- Señalar si los bienes se entregan para su administración, venta, donación y/o destrucción, solicitando, en su caso, al SAE que ordene la práctica del avalúo correspondiente, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-IV.- Poner los bienes a disposición del SAE, en la fecha y lugares que previamente se acuerden con éste.
+III.- Señalar si los Bienes, activos o empresas se entregan para su administración, venta, donación y/o destrucción, solicitando, en su caso, al Instituto, que ordene la práctica del avalúo correspondiente, y
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+IV.- Poner los Bienes, activos y empresas a disposición del Instituto, en la fecha y lugares que previamente se acuerden con éste.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 4.
 
-El SAE integrará una base de datos con el registro de los bienes, que podrá ser consultada por la autoridad judicial federal, la Procuraduría, las dependencias y entidades de la Administración Pública Federal, autoridades del fuero común encargadas de la procuración e impartición de justicia, así como por las personas que acrediten un interés legítimo para ello.
+El Instituto, diseñará e implementará los sistemas de información que le permitan gestionar estratégicamente los Bienes, activos y empresas, los cuales podrán ser consultados por la autoridad judicial federal, la Fiscalía General de la República, las dependencias y entidades de la Administración Pública Federal, las autoridades del fuero común encargadas de la procuración e impartición de justicia y las personas que acrediten un interés legítimo para ello.
+
+El diseño considerará la infraestructura de información que le permita rendir cuentas del cumplimiento de sus objetivos y de los resultados obtenidos.
+
+Toda la información que se genere, administre u obtenga con motivo de la observancia y cumplimiento del presente ordenamiento, se regirá en términos de las leyes generales y federales aplicables en materia de transparencia y acceso a la información pública, y de protección de datos personales.
 
 ## TÍTULO SEGUNDO. De la Administración de Bienes
 
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 5.
 
-El SAE administrará los bienes que para tales efectos le entreguen las entidades transferentes, que tengan un valor mayor al importe de seis meses de salario mínimo general vigente para el Distrito Federal. Dicha administración se realizará de conformidad con las disposiciones de la presente Ley, en tanto no exista resolución definitiva emitida por autoridad administrativa o judicial competente que determine el destino de dichos bienes, salvo que se trate de los referidos en la fracción V del artículo 1 de esta Ley.
+El Instituto, administrará los Bienes, activos y empresas que para tales efectos le entreguen las Entidades Transferentes, y que tengan un valor mayor al equivalente a seis meses de Unidades de Medida y Actualización.
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+En tanto no exista resolución definitiva emitida por autoridad administrativa o judicial competente que determine el destino de los Bienes, activos y empresas asegurados, la administración a cargo del Instituto, se realizará conforme a las disposiciones aplicables de la presente Ley, salvo que se trate de los señalados en la fracción V, del artículo 1o.
 
-Se encuentran exceptuados de la administración a que se refiere el párrafo anterior, los billetes y monedas de curso legal, divisas, metales preciosos, los bienes numismáticos o filatélicos, y los bienes con valor artístico o histórico, los cuales serán administrados conforme a las disposiciones aplicables por la entidad que corresponda, según el caso, salvo que las autoridades competentes determinen lo contrario.
+Se encuentran exceptuados de la administración a que se refiere el párrafo anterior, los billetes y monedas de curso legal, divisas, metales preciosos, los bienes numismáticos o filatélicos, y los Bienes con valor artístico o histórico, los cuales serán administrados conforme a las disposiciones aplicables por la entidad que corresponda, según el caso, salvo que la autoridad competente determine lo contrario, según la naturaleza del bien.
 
-Respecto de los bienes que no son susceptibles de administración en los términos de este artículo, las entidades transferentes, de conformidad con las disposiciones aplicables, procederán a ordenar su asignación; destrucción; enajenación, de conformidad con los ordenamientos aplicables para cada tipo de bien, o donación a instituciones autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta, que lo requieran para el desarrollo de sus actividades; o bien a determinar un fin específico que ofrezca la mayor utilidad para el Gobierno Federal.
+Respecto de los Bienes que no son susceptibles de administración en los términos de este artículo, las Entidades Transferentes, de conformidad con las disposiciones aplicables, procederán a ordenar su asignación, destrucción, enajenación, de conformidad con los ordenamientos aplicables para cada tipo de bien, o donación a instituciones autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto Sobre la Renta, que lo requieran para el desarrollo de sus actividades; o bien a determinar un fin específico que ofrezca la mayor utilidad para el Gobierno Federal.
 
-Los bienes muebles e inmuebles que se encuentren al servicio de las entidades transferentes, no podrán ser transferidos para su administración al SAE en los términos del presente Título.
+Los bienes muebles e inmuebles que se encuentren al servicio de las Entidades Transferentes, no podrán ser transferidos para su administración al Instituto, en los términos del presente Título, hasta en tanto se emita el acuerdo de desincorporación correspondiente.
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 6.
 
-Todos los bienes asegurados, incluyendo los billetes y monedas de curso legal, divisas, metales preciosos, los bienes numismáticos o filatélicos y los bienes con valor artístico o histórico, serán administrados por el SAE.
+Todos los Bienes, activos y empresas asegurados, incluyendo los billetes y monedas de curso legal, divisas, metales preciosos, los bienes numismáticos o filatélicos y los Bienes con valor artístico o histórico, serán administrados por el Instituto.
+
+La autoridad competente depositará el numerario asegurado, decomisado, abandonado y el que esté sujeto al procedimiento de extinción de dominio en las cuentas que para tal efecto el Instituto determine.
+
+El Instituto podrá enajenar, convertir en numerario o liquidar los Bienes a que se refiere el primer párrafo, a fin de que, una vez que se levante el aseguramiento, se decrete su abandono o el decomiso, disponga del numerario conforme corresponda, sin perjuicio de que, en tanto ello sucede, administre y disponga de los recursos en los términos de esta Ley. Lo anterior, salvo cuando se trate de Bienes respecto de los cuales exista resolución de autoridad competente o disposición legal que ordene su conservación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Artículo 6 bis.- Todos los Bienes provenientes de comercio exterior, incluidos los sujetos a un procedimiento establecido en la legislación aduanera, los recibidos por cualquier título por la Tesorería de la Federación, incluidas las daciones en pago y los sujetos a un procedimiento establecido en la legislación fiscal federal, los abandonados a favor del Gobierno Federal, excepto los previstos en el tercer párrafo del artículo 5o. de esta Ley, así como los Bienes que estén sujetos a un proceso de extinción de dominio o respecto de los cuales se haya declarado la extinción de dominio, deberán ser transferidos al Instituto para su administración y destino en términos de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
-
-Artículo 6 bis.- Todos los bienes provenientes de comercio exterior, incluidos los sujetos a un procedimiento establecido en la legislación aduanera, los recibidos por cualquier título por la Tesorería de la Federación, incluidas las daciones en pago y los sujetos a un procedimiento establecido en la legislación fiscal federal, así como los abandonados a favor del Gobierno Federal, excepto los previstos en el segundo párrafo del artículo 5 de esta Ley, deberán ser transferidos al SAE para su administración y destino en términos de esta Ley.
 
 Quedan exceptuados de lo previsto en el párrafo anterior, los bienes perecederos provenientes de comercio exterior, que vayan a ser donados o destruidos directamente por la autoridad aduanera competente.
 
-> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-Artículo 6 ter.- Las Entidades Transferentes contarán con un plazo de 30 días naturales, contados a partir de la fecha de adjudicación o de que legalmente puedan disponer de los bienes a que se refiere el artículo anterior, para llevar a cabo la transferencia de los mismos al SAE.
+Artículo 6 ter.- Las Entidades Transferentes contarán con un plazo de 30 días naturales, contados a partir de la fecha de adjudicación o de que legalmente puedan disponer de los Bienes a que se refiere el artículo anterior, para llevar a cabo la Transferencia de los mismos al Instituto.
 
-Una vez concluido el plazo a que se refiere al párrafo anterior, el SAE contará con un plazo de 540 días naturales para enajenar los bienes o los derechos litigiosos sobre los mismos, de acuerdo con los procedimientos de enajenación establecidos en el Título Cuarto de la presente Ley.
+Una vez concluido el plazo a que se refiere al párrafo anterior, el Instituto, contará con un plazo de 540 días naturales, contados a partir de la primera publicación del evento comercial, para enajenar los Bienes o los derechos litigiosos sobre los mismos, de acuerdo con los procedimientos de enajenación establecidos en el Título Cuarto de la presente Ley.
 
-> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+Si el Instituto excede los plazos establecidos en el presente artículo, deberá exponer las razones en los informes correspondientes.
 
-Artículo 6 quáter.- Los bienes provenientes de comercio exterior que sean puestos a disposición del SAE para su transferencia, deberán ser retirados del lugar en que se ubiquen dentro de los 60 días naturales siguientes a la recepción de la solicitud de entrega que efectúe la Entidad Transferente, debidamente acompañada de la documentación complementaria.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-El plazo a que se refiere el párrafo anterior, empezará a correr siempre y cuando, la solicitud de entrega y la documentación complementaria que reciba el SAE, cumplan con todos los requisitos que para tal efecto establecen esta Ley, el Reglamento y los lineamientos que expida la Junta de Gobierno.
+Artículo 6 quáter.- Los Bienes provenientes de comercio exterior que sean puestos a disposición del Instituto, para su Transferencia, deberán ser retirados del lugar en que se ubiquen dentro de los 60 días naturales siguientes a la recepción de la solicitud de entrega que efectúe la Entidad Transferente, debidamente acompañada de la documentación complementaria.
 
-En caso de que el SAE no efectúe el retiro de los bienes dentro del plazo a que se refiere el primer párrafo del presente artículo sin causa justificada, éstos podrán ser donados o destruidos directamente por la autoridad aduanera competente.
+El plazo a que se refiere el párrafo anterior, empezará a correr siempre y cuando, la solicitud de entrega y la documentación complementaria que reciba el Instituto, cumplan con todos los requisitos que para tal efecto establecen esta Ley, el Reglamento y los lineamientos que expida la Junta de Gobierno.
+
+En caso de que el Instituto no efectúe el retiro de los Bienes dentro del plazo a que se refiere el primer párrafo del presente artículo sin causa justificada, éstos podrán ser donados o destruidos directamente por la autoridad aduanera competente.
+
+En ningún caso, el Instituto podrá realizar gastos de administración respecto de Bienes que no hayan sido transferidos.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 7.
 
-La administración de los bienes comprende su recepción, registro, custodia, conservación y supervisión. Serán conservados en el estado en que se hayan recibido por el SAE, para ser devueltos en las mismas condiciones, salvo el deterioro normal que se les cause por el transcurso del tiempo. Dichos bienes podrán ser utilizados, destruidos o enajenados en los casos y cumpliendo los requisitos establecidos en esta Ley y en el Reglamento, para lo cual, en su caso, el SAE podrá llevar a cabo los actos conducentes para la regularización de dichos bienes, de conformidad con las disposiciones aplicables para tal efecto.
+La administración de los Bienes, activos o empresas comprende su recepción, registro, custodia, conservación, supervisión y depósito de numerario. Serán conservados en el estado en que se hayan recibido por el Instituto, para que, en caso de ser devueltos en las mismas condiciones, salvo el deterioro normal que se les cause por el transcurso del tiempo. Dichos Bienes, activos o empresas podrán ser utilizados, destruidos, enajenados o monetizados en los casos y conforme a los requisitos establecidos en esta Ley y en el Reglamento, para lo cual, en su caso, el Instituto podrá llevar a cabo los actos conducentes para la regularización de dichos Bienes, activos o empresas de conformidad con las disposiciones aplicables para tal efecto.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 8.
 
-Los depositarios, liquidadores, interventores o administradores, que reciban bienes en depósito, intervención, liquidación o administración, están obligados a rendir al SAE un informe mensual sobre los mismos, y a darle todas las facilidades para su supervisión y vigilancia.
+Los depositarios, liquidadores, interventores o administradores, que reciban Bienes en depósito, intervención, liquidación o administración, están obligados a rendir al Instituto un informe mensual sobre los mismos y a darle todas las facilidades para su supervisión, vigilancia y evaluación del desempeño.
 
 ###### Artículo 9.
 
 Las armas de fuego, municiones y explosivos serán administradas por la Secretaría de la Defensa Nacional. En todo caso deberá observarse, además, lo dispuesto en la Ley Federal de Armas de Fuego y Explosivos.
 
-Tratándose de narcóticos, flora y fauna protegidos, materiales peligrosos y demás bienes cuya propiedad o posesión se encuentre prohibida, restringida o especialmente regulada, se procederá en los términos de la legislación federal aplicable.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-Los bienes que resulten del dominio público de la Federación, de los estados, del Distrito Federal o de los municipios, se restituirán a la dependencia o entidad correspondiente, de acuerdo con su naturaleza y a lo que dispongan las normas aplicables.
+Tratándose de substancias psicotrópicas, estupefacientes, psicoactivas, drogas, narcóticos, flora y fauna protegidos o en peligro de extinción, materiales o substancias peligrosos y demás Bienes cuya propiedad o posesión se encuentre prohibida, restringida o especialmente regulada, se procederá en los términos de la legislación federal aplicable.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Los Bienes que resulten del dominio público de la Federación, de las entidades federativas o de los municipios, se restituirán a la dependencia o entidad correspondiente, de acuerdo con su naturaleza y a lo que dispongan las normas aplicables, por la autoridad que los tenga en administración o bajo resguardo.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 10.
 
-Se hará constar en los registros públicos que correspondan, de conformidad con las disposiciones aplicables, el nombramiento del depositario, interventor, liquidador o administrador de los bienes.
+La autoridad competente o, en su caso, el Instituto hará constar en los registros públicos que correspondan, de conformidad con las disposiciones aplicables, el nombramiento del depositario, interventor, liquidador o administrador de los Bienes, activos o empresas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 11.
 
-El SAE, o el depositario, interventor, liquidador o administrador de los bienes contratarán seguros para el caso de pérdida o daño de los mismos.
+El Instituto, o el depositario, comodatario, interventor, liquidador o administrador de los Bienes, contratarán seguros para el caso de pérdida o daño de los mismos.
 
 > <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 Lo dispuesto en el párrafo anterior, no será aplicable cuando por razón de la naturaleza jurídica, características o el tipo de riesgos a los que están expuestos los bienes, el costo de aseguramiento no guarde relación directa con el beneficio que pudiera obtenerse.
 
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 12.
 
-A los frutos o rendimientos de los bienes durante el tiempo que dure la administración, se les dará el mismo tratamiento que a los bienes que los generen.
+A los frutos o rendimientos de los Bienes, activos o empresas durante el tiempo que dure la administración, se les dará el mismo tratamiento que a los Bienes que los generen.
 
-En todo caso, los recursos que se obtengan de la administración de los bienes se destinarán a resarcir el costo de mantenimiento y administración de los mismos y el remanente, si lo hubiera, se depositará en el fondo a que se refiere el artículo 89 y se entregará a quien en su momento acredite tener derecho en términos las (sic) disposiciones aplicables.
+En todo caso, los recursos que se obtengan de la administración de los Bienes, activos o empresas, se destinarán a resarcir el costo de mantenimiento y administración de los mismos y el remanente, si lo hubiera, se depositará en el fondo a que se refiere el artículo 89 del presente ordenamiento y se entregará a quien en su momento acredite tener derecho, en términos de las disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 13.
 
-Respecto de los bienes, el SAE y en su caso los depositarios, interventores, liquidadores o administradores que haya designado tendrán, además de las obligaciones previstas en esta Ley, las que señala el Código Civil Federal para el depositario.
+Respecto de los Bienes, activos o empresas, el Instituto y, en su caso, los depositarios, comodatarios, interventores, liquidadores o administradores que hayan designado tendrán, además de las obligaciones previstas en esta Ley, las que señala el Código Civil Federal para el depositario, comodatario y, en general, para los usufructuarios.
 
-Para la debida conservación y en su caso buen funcionamiento de los bienes, incluyendo el de los inmuebles destinados a actividades agropecuarias, empresas, negociaciones y establecimientos, el SAE tendrá todas las facultades y obligaciones de un mandatario para pleitos y cobranzas, actos de administración, para otorgar y suscribir títulos de crédito y, en los casos previstos en esta Ley, actos de dominio.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-Los depositarios, interventores, liquidadores o administradores que el SAE designe, tendrán, dentro de las siguientes, sólo las facultades que éste les otorgue:
+Para la debida conservación y, en su caso, buen funcionamiento de los Bienes, activos o empresas, incluyendo el de los inmuebles destinados a actividades agropecuarias, empresas, negociaciones o establecimientos, el Instituto tendrá todas las facultades y obligaciones de un mandatario para pleitos y cobranzas, actos de administración, para otorgar y suscribir títulos de crédito y, en los casos previstos en esta Ley, actos de dominio.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Los depositarios, interventores, liquidadores o administradores que el Instituto designe, tendrán, dentro de las siguientes, sólo las facultades que éste les otorgue:
 
 I.- Poder general para pleitos y cobranzas y actos de administración en los términos del artículo 2554, primero y segundo párrafos, del Código Civil Federal.
 
@@ -240,115 +334,165 @@ IV.- Poder para otorgar y suscribir títulos de crédito, en los términos del a
 
 Las facultades a que se refiere este artículo se podrán ejercitar ante cualquier autoridad jurisdiccional, sea civil, penal, administrativa, laboral, militar, federal, estatal o municipal.
 
-Las facultades previstas en este artículo se otorgarán a los depositarios, interventores, liquidadores o administradores, por parte del SAE, de acuerdo a lo que éstos requieran para el adecuado ejercicio de sus atribuciones.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Las facultades previstas en este artículo se otorgarán a los depositarios, interventores, liquidadores o administradores, por parte del Instituto, de acuerdo a lo que éstos requieran para el adecuado ejercicio de sus atribuciones.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 14.
 
-El SAE, así como los depositarios, liquidadores, administradores o interventores de los bienes darán todas las facilidades para que las autoridades competentes que así lo requieran, practiquen con dichos bienes todas las diligencias que resulten necesarias.
+El Instituto, así como los depositarios, liquidadores, administradores o interventores de los Bienes, activos o empresas, darán todas las facilidades para que las autoridades competentes que así lo requieran, practiquen con dichos Bienes todas las diligencias que resulten necesarias.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 15.
 
-Los bienes serán custodiados y conservados en los lugares que determine el SAE.
+Los Bienes, activos o empresas serán recibidos, custodiados y conservados en los lugares que determine el Instituto.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 16.
 
-Los bienes a que se refiere la fracción V del artículo 1 de esta Ley y los que sean incosteables, serán destruidos o enajenados por el SAE a través de los procedimientos previstos en el Título Cuarto de esta Ley.
+Los Bienes, activos o empresas a que se refiere la fracción V del artículo 1o. de esta Ley y los que sean incosteables, serán destruidos o enajenados por el Instituto, a través de los procedimientos previstos en el Título Cuarto de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 17.
 
-Los depositarios, liquidadores, interventores y administradores designados por el SAE no podrán enajenar o gravar los inmuebles a su cargo. En todo caso, se respetarán los derechos de terceros.
+Los depositarios, liquidadores, interventores y administradores designados por el Instituto, no podrán enajenar o gravar los inmuebles a su cargo. En todo caso, se respetarán los derechos de terceros.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 18.
 
-Los inmuebles susceptibles de destinarse a actividades lícitas que sean entregados al SAE, serán administrados a fin de mantenerlos productivos o, en su caso, hacerlos productivos.
+Los bienes inmuebles susceptibles de destinarse a actividades lícitas que sean entregados al Instituto, serán administrados a fin de mantenerlos productivos o, en su caso, hacerlos productivos.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 19.
 
-El SAE nombrará un administrador para las empresas, negociaciones o establecimientos objeto de esta Ley.
+El Instituto nombrará un administrador para las empresas objeto de esta Ley.
 
-El administrador de los bienes a que se refiere el párrafo anterior, tendrá las facultades necesarias, en términos de las disposiciones aplicables, para mantenerlos en operación y buena marcha, pero no podrá enajenar ni gravar los bienes que constituyan parte del activo fijo de la empresa, negociación o establecimiento.
+El administrador de las empresas a que se refiere el párrafo anterior, tendrá las facultades necesarias, en términos de las disposiciones aplicables, para mantenerlos en operación y buena marcha, pero no podrá enajenar ni gravar los Bienes que constituyan parte del activo fijo de la Empresa.
 
-La Junta de Gobierno podrá autorizar al administrador que proceda a la suspensión o cierre definitivo de las empresas, negociaciones o establecimientos, cuando las actividades de éstos resulten incosteables y por consecuencia se procederá a la disolución, liquidación, concurso mercantil, quiebra, fusión, escisión o venta según sea el caso.
+La Junta de Gobierno podrá autorizar al administrador que proceda a la suspensión o cierre definitivo de las empresas, cuando las actividades de éstos resulten incosteables y, por consecuencia, se procederá a la disolución, liquidación, concurso mercantil, quiebra, fusión, escisión o venta, según sea el caso.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 20.
 
-Tratándose de empresas, negociaciones o establecimientos que no cuenten con las licencias, autorizaciones, permisos, concesiones o cualquier otro tipo de requisito necesario para operar lícitamente, el administrador procederá a su regularización. Si ello no fuere posible, procederá a la suspensión, cancelación y liquidación de dichas actividades en cuyo caso tendrá, únicamente para tales efectos, las facultades necesarias para la enajenación de activos, la que realizará de acuerdo con los procedimientos previstos en el Título Cuarto de esta Ley.
+Tratándose de empresas que no cuenten con las licencias, autorizaciones, permisos, concesiones o cualquier otro tipo de requisito necesario para operar lícitamente, el administrador procederá a su regularización. Si ello no fuere posible, procederá a la suspensión, cancelación y liquidación de dichas actividades en cuyo caso tendrá, únicamente para tales efectos, las facultades necesarias para la enajenación de activos, la que realizará de acuerdo con los procedimientos previstos en el Título Cuarto de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 21.
 
-El administrador tendrá independencia respecto del propietario, los órganos de administración, asambleas de accionistas, de socios o partícipes, así como de cualquier otro órgano de las empresas, negociaciones o establecimientos que se le otorguen en administración. El administrador responderá de su actuación únicamente ante el SAE y, en el caso de que incurra en responsabilidad penal, se estará a las disposiciones aplicables.
+El administrador tendrá independencia respecto del propietario, los órganos de administración, asambleas de accionistas, de socios o partícipes, así como de cualquier otro órgano de las empresas que se le otorguen en administración. El administrador responderá de su actuación únicamente ante el Instituto y, en el caso de que incurra en responsabilidad penal, se estará a las disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 22.
 
-La Junta de Gobierno podrá autorizar a los depositarios, administradores o interventores a que se refiere el artículo 8 de esta Ley para que éstos utilicen los bienes que hayan recibido, lo que en su caso harán de conformidad con lo que al respecto establezca el Reglamento, así como los lineamientos que expida dicha Junta.
+La Junta de Gobierno podrá autorizar a los depositarios, administradores o interventores a que se refiere el artículo 8o. de esta Ley para que éstos utilicen los Bienes, activos o empresas que hayan recibido, lo que en su caso harán de conformidad con lo que al respecto establezca el Reglamento, así como los lineamientos que expida dicha Junta.
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+La Junta de Gobierno fijará el monto de la contraprestación que los depositarios, administradores o interventores deban cubrir por el uso que se otorgue de acuerdo con el párrafo anterior. Dicha contraprestación se considerará como fruto de los Bienes, activos o empresas. El uso de flora, fauna, piezas de arte, piezas arqueológicas e inmuebles con alguna limitación de dominio, que sea otorgado a depositarios, administradores o interventores, no generará el pago de contraprestación alguna.
 
-La Junta de Gobierno fijará el monto de la contraprestación que los depositarios, administradores o interventores deban cubrir por el uso que se otorgue de acuerdo con el párrafo anterior. Dicha contraprestación se considerará como fruto de los bienes. El uso de flora, fauna, piezas de arte, piezas arqueológicas e inmuebles con alguna limitación de dominio, que sea otorgado a depositarios, administradores o interventores, no generará el pago de contraprestación alguna.
+El Instituto podrá otorgar, previa autorización de la Junta de Gobierno, los Bienes en depósito a las dependencias, entidades paraestatales o a la Fiscalía General de la República, cuando así lo solicite por escrito el titular de dichas instancias, o el servidor público en quien delegue esta función y, en su caso, les autorizará mediante comodato la utilización de dichos Bienes para el desarrollo de sus funciones.
 
-El SAE podrá otorgar, previa autorización de la Junta de Gobierno, los bienes en depósito a las dependencias, entidades paraestatales o a la Procuraduría, cuando así lo solicite por escrito el titular de dichas instancias, o el servidor público en quien delegue esta función, y, en su caso, les autorizará mediante comodato la utilización de dichos bienes para el desarrollo de sus funciones.
+Los depositarios, administradores o interventores rendirán al Instituto un informe mensual pormenorizado sobre la utilización de los Bienes, en los términos que al efecto establezca.
 
-Los depositarios, administradores o interventores rendirán al SAE un informe mensual pormenorizado sobre la utilización de los bienes, en los términos que al efecto establezca el SAE.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 23.
 
-Cuando proceda la devolución de los bienes que se hayan utilizado conforme al artículo anterior, el depositario, administrador o interventor cubrirá los daños ocasionados por su uso.
+Cuando proceda la devolución de los Bienes, activos o empresas que se hayan utilizado conforme al artículo anterior, el depositario, administrador o interventor cubrirá los daños ocasionados por su uso.
 
-El seguro correspondiente a estos bienes deberá cubrir la pérdida y los daños que se originen por el uso de los mismos.
+El seguro correspondiente a estos Bienes, activos o empresas, deberá cubrir la pérdida y los daños que se originen por el uso de los mismos.
 
-> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-Artículo 23 bis.- En caso de que una empresa en liquidación tenga pasivos fiscales de carácter federal, y el accionista único sea el Gobierno Federal, operará de pleno derecho la cancelación de dichos créditos fiscales, sin necesidad de autorización alguna, siempre y cuando se cumplan los siguientes requisitos:
+Artículo 23 bis.- En caso de que una Empresa en liquidación tenga pasivos fiscales de carácter federal, y el accionista único sea el Gobierno Federal, o bien, se trate de una entidad paraestatal en proceso de desincorporación, operará de pleno derecho la cancelación de dichos créditos fiscales, sin necesidad de autorización alguna, siempre y cuando se cumplan los siguientes requisitos:
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 I.- Que exista previo dictamen de auditor externo, y
 
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
 II.- Que sea la última actividad pendiente para concluir el proceso de liquidación.
 
-En estos casos se deberá remitir la documentación respectiva al Servicio de Administración Tributaria, incluyendo el acta de la última sesión del órgano de gobierno de la empresa.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+En estos casos se deberá remitir la documentación respectiva al Servicio de Administración Tributaria, incluyendo el acta de la última sesión del órgano de gobierno de la Empresa en la que se concluya el proceso de liquidación para la cancelación de su registro, de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Los créditos transferidos al Instituto podrán condonarse en atención al monto, fecha de su otorgamiento, prescripción, costeabilidad, incobrabilidad y condiciones de bienestar social, en los términos de los lineamientos que al efecto emita la Junta de Gobierno.
 
 ## TÍTULO TERCERO. De la Devolución de Bienes en Administración
 
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 24.
 
-Cuando proceda la devolución de los bienes la autoridad competente informará tal situación al SAE a efecto de que queden a disposición de quien acredite tener derecho a ellos. La autoridad competente notificará su resolución al interesado o al representante legal, de conformidad con lo previsto por las disposiciones aplicables, para que en el plazo señalado en las mismas a partir de la notificación, se presente a recogerlos, bajo el apercibimiento que de no hacerlo los bienes causarán abandono a favor del Gobierno Federal.
+Cuando proceda la devolución de los Bienes, activos o empresas, la autoridad competente notificará personalmente tal situación al Instituto, a efecto de que queden a disposición de quien determine dicha autoridad. La autoridad competente notificará su resolución al Interesado o al representante legal, de conformidad con lo previsto por las disposiciones aplicables, para que, en el plazo señalado en las mismas a partir de la notificación, se presente a recibirlo, bajo apercibimiento que de no hacerlo, los Bienes causarán abandono a favor del Gobierno Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 25.
 
-El SAE, al momento en que el interesado o su representante legal se presenten a recoger los bienes, deberá:
+El Instituto, al momento en que el Interesado o su representante legal se presenten a recibir los Bienes, activos y empresas, deberá:
 
 I.- Levantar acta en la que se haga constar el derecho del interesado o de su representante legal a recibir los bienes;
 
 II.- Realizar un inventario de los bienes, y
 
-III.- Entregar los bienes al interesado o a su representante legal.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+III.- Entregar los Bienes, activos o empresas al Interesado o a su representante legal.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+En caso de oposición del Interesado o su representante legal, serán puestos a disposición de la autoridad competente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 26.
 
-La devolución de los bienes incluirá la entrega de los frutos que, en su caso, hubieren generado.
+La devolución de los Bienes, activos o empresas incluirá la entrega de los frutos que, en su caso, hubieren generado.
 
 La devolución de numerario comprenderá la entrega del principal y de sus rendimientos durante el tiempo en que haya sido administrado, conforme a los términos y condiciones que corresponda de conformidad con las disposiciones aplicables.
 
-El SAE al devolver empresas, negociaciones o establecimientos, rendirá cuentas de la administración que hubiere realizado a la persona que tenga derecho a ello, y le entregará los documentos, objetos, numerario y, en general, todo aquello que haya comprendido la administración.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+El Instituto, al devolver empresas, rendirá cuentas de la administración que hubiere realizado a la persona que tenga derecho a ello, y le entregará los documentos, objetos, numerario y, en general, todo aquello que haya comprendido la administración.
 
 Previo a la recepción de los bienes por parte del interesado, se dará oportunidad a éste para que revise e inspeccione las condiciones en que se encuentren los mismos, a efecto de que verifique el inventario a que se refiere el artículo 25 de esta Ley y, en su caso, se proceda conforme a lo establecido por el artículo 28 de la misma.
 
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 27.
 
-Cuando conforme a lo previsto en el artículo 24 de esta Ley, se determine por la autoridad competente la devolución de los bienes que hubieren sido enajenados por el SAE, o haya imposibilidad para devolverlos, deberá cubrirse con cargo al fondo previsto en el artículo 89, a la persona que tenga la titularidad del derecho de devolución, el valor de los mismos de conformidad con las disposiciones aplicables.
+Cuando conforme a lo previsto en el artículo 24 de esta Ley, se determine por la autoridad competente la devolución de los Bienes, activos o empresas que hubieren sido enajenados por el Instituto, o haya imposibilidad para devolverlos, siempre que los mismos hayan sido transferidos al Instituto, deberá cubrirse con cargo al fondo previsto en el artículo 89 de esta Ley, a la persona que tenga la titularidad del derecho de devolución, el valor de los mismos de conformidad con las disposiciones aplicables.
 
-> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+Para efectos del pago de resarcimiento de Bienes provenientes de comercio exterior, de los Bienes a los que se refiere el artículo 22 de la Constitución, así como los Bienes asegurados y decomisados en los procesos penales federales, el Instituto solo podrá pagar hasta la cantidad del valor de los Bienes que hayan sido vendidos, previa Transferencia, descontando los costos, honorarios y pagos a que se refiere el primer párrafo del artículo 89 de la presente Ley.
 
-Para efectos de lo dispuesto en el párrafo que antecede, el valor de los bienes que hayan sido vendidos, será aquél que se obtenga por la venta, descontando los costos, honorarios y pagos a que se refiere el primer párrafo del artículo 89 de la presente Ley, más los rendimientos generados a partir de la fecha de venta.
+Los costos, honorarios y pagos antes referidos, no serán descontados cuando la devolución proceda de una determinación donde se declare la nulidad lisa y llana o ilegalidad del procedimiento origen de la Transferencia al Instituto de los Bienes descritos en el artículo 1o. de la presente Ley; en cuyo caso, serán cubiertos al Instituto por la entidad transferente que sustanció el procedimiento respectivo.
+
+Los Bienes destruidos o donados serán resarcidos de conformidad con la legislación correspondiente.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 28.
 
-El SAE será responsable de los daños derivados de la pérdida, extravío o deterioro inusual de los bienes que administre. Quien tenga derecho a la devolución de bienes que se hubieran perdido, extraviado o deteriorado, podrá reclamar su pago al SAE.
+El Instituto será responsable de los daños derivados de la pérdida, extravío o deterioro inusual de los Bienes que administre. Quien tenga derecho a la devolución de Bienes que se hubieran perdido, extraviado o deteriorado, podrá reclamar su pago al Instituto.
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 29.
 
-Los frutos y productos de los bienes serán enajenados por el SAE de conformidad con los procedimientos previstos en el Título Cuarto de esta Ley, con excepción de lo dispuesto por el tercer párrafo del artículo 39 de esta Ley.
+Los frutos y productos de los Bienes, activos o empresas serán enajenados por el Instituto, de conformidad con los procedimientos previstos en el Título Cuarto de esta Ley, con excepción de lo dispuesto por el tercer párrafo, del artículo 39 de esta Ley.
 
 ###### Artículo 30.
 
@@ -358,21 +502,31 @@ Los frutos y productos de los bienes serán enajenados por el SAE de conformidad
 
 ### CAPÍTULO I. Generalidades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 31.
 
-Los procedimientos de enajenación previstos en esta Ley, son de orden público y tienen por objeto enajenar de forma económica, eficaz, imparcial y transparente los bienes que sean transferidos al SAE; asegurar las mejores condiciones en la enajenación de los bienes; obtener el mayor valor de recuperación posible y las mejores condiciones de oportunidad, así como la reducción de los costos de administración y custodia a cargo de las entidades transferentes.
+Los procedimientos de enajenación previstos en esta Ley son de orden público y tienen por objeto enajenar de forma económica, eficaz, imparcial y transparente los Bienes que sean transferidos al Instituto; asegurar las mejores condiciones en la enajenación de los Bienes; obtener el mayor valor de recuperación posible y las mejores condiciones de oportunidad, así como la reducción de los costos de administración y custodia a cargo de las Entidades Transferentes.
 
 Los procedimientos de enajenación serán los siguientes:
 
-I.- Donación, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+I.- Donación,
 
 II.- Compraventa, que incluye la permuta y cualesquiera otras formas jurídicas de transmisión de la propiedad, a través de licitación pública, subasta, remate o adjudicación directa.
 
-Para la realización de las enajenaciones a que se refieren las fracciones anteriores, el SAE tendrá todas las facultades y obligaciones de un mandatario para pleitos y cobranzas, actos de administración, actos de dominio y para otorgar y suscribir títulos de crédito.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-Los terceros a que se refiere el artículo 38 de esta Ley, a quienes el SAE encomiende la enajenación de los bienes tendrán, en su caso, de las facultades señaladas en el artículo 13, fracciones I a III de este ordenamiento, sólo las que el mencionado organismo descentralizado les otorgue.
+Para la realización de las enajenaciones a que se refieren las fracciones anteriores, el Instituto tendrá todas las facultades y obligaciones de un mandatario para pleitos y cobranzas, actos de administración, actos de dominio y para otorgar y suscribir títulos de crédito.
 
-Tratándose de bienes que la Tesorería de la Federación o sus auxiliares legalmente facultados, obtengan en dación en pago y se transfieran al SAE para su enajenación, no se aplicará el plazo a que se refiere la Ley del Servicio de Tesorería de la Federación.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Los terceros a que se refiere el artículo 38 de esta Ley, a quienes el Instituto encomiende la enajenación de los Bienes, tendrán las facultades que el Instituto expresamente les otorgue.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Aquellos Bienes que la Tesorería de la Federación o sus auxiliares legalmente facultados, obtengan en dación en pago y se transfieran al Instituto para su enajenación, se regirán por las disposiciones de esta Ley.
 
 ###### Artículo 32.
 
@@ -394,57 +548,67 @@ VI.- Los terceros a que se refiere el artículo 38 de esta Ley, respecto de los 
 
 VII.- Los agentes aduanales y dictaminadores aduaneros, respecto de los bienes de procedencia extranjera;
 
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-VIII.- Los servidores públicos que por sus funciones hayan tenido acceso a información privilegiada, y
+VIII.- Los servidores públicos y terceros especializados que por sus funciones hayan tenido acceso a información privilegiada, o bien, tengan un conflicto de intereses, y
 
 IX.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de Ley.
 
-Para los efectos de las fracciones III y IV, el SAE llevará un registro de las personas que se ubiquen en los supuestos previstos por las mismas.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Para los efectos de las fracciones III y IV, el Instituto llevará un registro de las personas que se ubiquen en los supuestos previstos por las mismas.
 
 ###### Artículo 33.
 
 Cualquier procedimiento de enajenación o acto que se realice en contra de lo dispuesto en este Título será nulo de pleno derecho.
 
-Los servidores públicos que participen en la realización de los procedimientos de enajenación previstos en esta Ley, serán responsables por la inobservancia de las disposiciones establecidas en la misma, en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, sin perjuicio de la responsabilidad penal que corresponda conforme a las leyes.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Las personas servidoras públicas y terceros especializados que participen en la realización de los procedimientos de enajenación previstos en esta Ley, serán responsables por la inobservancia de las disposiciones establecidas en la misma, en términos de la Ley General de Responsabilidades Administrativas, sin perjuicio de la responsabilidad penal que corresponda conforme a las leyes.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 ### CAPÍTULO II. De la Asignación y Donación
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 34.
 
-En casos excepcionales, de conformidad con lo que establezcan para tal efecto las disposiciones aplicables y previo cumplimiento de los requisitos que, en su caso, prevean las mismas, tales como los relativos al monto, plazo o tipo de bienes, éstos podrán ser donados o asignados, según corresponda, a favor de las dependencias y entidades paraestatales de la Administración Pública Federal, así como de los gobiernos de las entidades federativas y municipios, para que los utilicen en los servicios públicos locales, en fines educativos o de asistencia social, o a instituciones autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta, que lo requieran para el desarrollo de sus actividades.
+En casos excepcionales, de conformidad con lo que establezcan para tal efecto las disposiciones aplicables y previo cumplimiento de los requisitos que, en su caso, prevean las mismas, tales como los relativos al monto, plazo o tipo de Bienes, éstos podrán ser donados o asignados, según corresponda, a favor de las dependencias y entidades paraestatales de la Administración Pública Federal, así como de los gobiernos de las entidades federativas y municipios, para que los utilicen en los servicios públicos locales, en fines educativos o de asistencia social, u otras políticas públicas prioritarias, o a instituciones autorizadas para recibir donativos deducibles, en los términos de la Ley del Impuesto Sobre la Renta, que lo requieran para el desarrollo de sus actividades.
 
-Tratándose de bienes provenientes de comercio exterior, sólo podrán donarse los inflamables, explosivos, contaminantes, radioactivos, corrosivos, perecederos, de fácil descomposición o deterioro, flora, animales vivos, aquéllos que se utilicen para la prevención o atención de los efectos derivados de desastres naturales y los destinados para la atención de zonas determinadas de alta marginalidad.
+Tratándose de Bienes provenientes de comercio exterior, sólo podrán donarse aquellos que se utilicen para la prevención o atención de los efectos derivados de desastres naturales y los destinados para la atención de zonas determinadas de alta marginalidad.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 35.
 
-Para la donación de los bienes, el SAE se apoyará del Comité de Donaciones, el cual se integrará y regirá de acuerdo con lo que al respecto se establezca en el Reglamento.
+Para la donación de los Bienes, el Instituto, se apoyará del Comité de Donaciones, el cual se integrará y regirá de acuerdo con lo que al respecto se establezca en el Reglamento.
 
 ### CAPÍTULO III. De la Venta
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 36.
 
-El SAE podrá vender los bienes que le sean transferidos, cuando el precio sea igual o superior al determinado por un avalúo vigente, o bien sea el ofrecido por el mercado, siempre y cuando, en este último supuesto, la venta se realice mediante los procedimientos de licitación pública o subasta. Tratándose del procedimiento de remate, se estará a lo dispuesto por los artículos 57, 59 y 60 de este ordenamiento.
+El Instituto podrá vender los Bienes que le sean transferidos, a excepción de aquellos Bienes que deban conservarse por determinación judicial, cuando el precio sea igual o superior al determinado por un avalúo vigente, o bien sea el ofrecido por el mercado, siempre y cuando, en este último supuesto, la venta se realice mediante los procedimientos de licitación pública o subasta. Tratándose del procedimiento de remate, se estará a lo dispuesto por los artículos 57, 59 y 60 de este ordenamiento.
 
-Cuando se requieran avalúos, éstos serán practicados por el Instituto de Administración y Avalúos de Bienes Nacionales o por peritos, instituciones de crédito, agentes especializados o corredores públicos y deberán consignar al menos el valor comercial y el de realización inmediata, en los términos que determine la Junta de Gobierno.
+Cuando se requieran avalúos, éstos serán practicados por el Instituto o por peritos, instituciones de crédito, agentes especializados o corredores públicos y deberán consignar al menos el valor comercial y el de realización inmediata, en los términos que determine la Junta de Gobierno.
 
-El SAE estará facultado para mantener en reserva el precio base de venta hasta el acto de presentación de ofertas de compra, en aquellos casos en que se considere que dicha reserva coadyuvará a estimular la competitividad entre los interesados y a maximizar el precio de venta.
+El Instituto estará facultado para mantener en reserva el precio base de venta hasta el acto de presentación de ofertas de compra, en aquellos casos en que se considere que dicha reserva coadyuvará a estimular la competitividad entre los interesados y a maximizar el precio de venta.
 
-En caso de ser utilizado el valor de mercado, se deberá incorporar a las bases de la licitación pública o subasta, que el SAE podrá declarar desierto, parcial o totalmente, el procedimiento de venta, sin necesidad de justificación alguna. La Junta de Gobierno podrá emitir lineamientos para regular esta facultad.
+Las personas servidoras públicas que intervengan en el proceso deberán guardar absoluta secrecía de la información que con motivo de su empleo, cargo o comisión tengan acceso. Su incumplimiento será motivo de responsabilidad en los términos que disponga la legislación general en la materia.
+
+En caso de ser utilizado el valor de mercado, se deberá incorporar a las bases de la licitación pública o subasta, que el Instituto podrá declarar desierto, parcial o totalmente, el procedimiento de venta, sin necesidad de justificación alguna. La Junta de Gobierno podrá emitir lineamientos para regular esta facultad.
 
 ###### Artículo 37.
 
 (DEROGADO, D.O.F. 23 DE FEBRERO DE 2005)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 38.
 
-El SAE podrá vender los bienes a través de los siguientes procedimientos:
+El Instituto, podrá vender los Bienes a través de los siguientes procedimientos:
 
 I.- Licitación Pública;
 
@@ -454,21 +618,27 @@ III.- Remate, o
 
 IV.- Adjudicación directa.
 
-El SAE podrá encomendar la enajenación de los bienes a que se refiere este Capítulo, a las dependencias o entidades de la Administración Pública Federal, a las autoridades estatales o municipales, o a personas, empresas o instituciones especializadas en la promoción y venta de los mismos, cuando estime que su intervención, permitirá eficientar el procedimiento de venta, así como aumentar las alternativas de compradores potenciales y maximizar los precios.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-Los terceros a que se refiere el párrafo anterior, al concluir la enajenación que se les encomiende están obligados a rendir al SAE un informe sobre la misma, y a darle todas las facilidades para su supervisión y vigilancia.
+El Instituto podrá encomendar la enajenación de los Bienes a que se refiere este Capítulo, a las dependencias o entidades de la Administración Pública Federal, a las autoridades estatales o municipales o a personas, empresas o instituciones especializadas u organismos internacionales, en la promoción y venta de los mismos, cuando estime que su intervención, por la infraestructura tecnológica de que disponen, canales de venta y operación logística, entre otros, permitirá eficientar el procedimiento de venta, así como aumentar las alternativas de compradores potenciales y maximizar los precios.
 
-En la venta de los bienes, que se realice conforme a los procedimientos referidos, el SAE, así como los terceros señalados en los párrafos anteriores, deberán atender a las características comerciales de las operaciones, las sanas prácticas y usos bancarios y mercantiles.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+Los terceros a que se refiere el párrafo anterior, al concluir la enajenación que se les encomiende, están obligados a rendir al Instituto un informe sobre la misma y a darle todas las facilidades para su supervisión y vigilancia.
 
-Artículo 38 bis.- Tratándose de la enajenación a través del procedimiento de licitación pública, los participantes deberán entregar al SAE su postura en sobre cerrado y la postura más alta determinará el ganador y el precio de la transacción.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+En la venta de los Bienes que se realice conforme a los procedimientos referidos, el Instituto, así como los terceros señalados en los párrafos anteriores, deberán atender a las características comerciales de las operaciones, las sanas prácticas y usos bancarios y mercantiles.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Artículo 38 bis.- Tratándose de la enajenación a través del procedimiento de licitación pública, los participantes deberán entregar al Instituto su postura en sobre cerrado y la postura más alta determinará el ganador y el precio de la transacción.
 
 > <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 Artículo 38 ter.- Tratándose de la enajenación a través del procedimiento de subasta, los participantes ajustarán sus posturas en función de la de los competidores hasta llegar a un nivel donde ningún postor está dispuesto a ofrecer más. La última postura determina al ganador y el precio de transacción.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 ###### Artículo 39.
 
@@ -480,65 +650,97 @@ El procedimiento de remate se podrá llevar a cabo en los siguientes casos:
 
 I.- Cuando así lo establezcan otras disposiciones legales;
 
-II.- Cuando el valor de enajenación de los bienes no exceda de los montos que se establezcan para tal efecto en el Reglamento;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-III.- Cuando a juicio del SAE estos procedimientos aseguren las mejores condiciones al Estado, o
+II.- Cuando el valor de enajenación de los Bienes no exceda de los valores que se establezcan para tal efecto en el Reglamento;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+III.- Cuando, a juicio del Instituto, estos procedimientos aseguren las mejores condiciones al Estado, o
 
 IV.- En los demás casos que se prevean en el Reglamento.
 
-En estos casos y en el procedimiento de adjudicación directa a que se refiere el artículo 68 de esta Ley, el SAE deberá acreditar bajo su responsabilidad que dichos procedimientos aseguran las mejores condiciones para el Estado, conforme a lo previsto en el artículo 31 de este ordenamiento.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+En estos casos y en el procedimiento de adjudicación directa a que se refiere el artículo 68 de esta Ley, el Instituto deberá acreditar, bajo su responsabilidad, que dichos procedimientos aseguran las mejores condiciones para el Estado, conforme a lo previsto en el artículo 31 de este ordenamiento.
 
 Tratándose de los frutos que se generen por la administración de empresas o propiedades en producción, la enajenación se realizará mediante adjudicación directa, conforme a lo dispuesto por la Sección IV del presente Capítulo.
 
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 40.
 
-El SAE se abstendrá de formalizar alguna venta, cuando de la información proporcionada por autoridad competente se tengan elementos para presumir que los recursos con los que se pagará el bien correspondiente, no tienen un origen lícito.
+El Instituto se abstendrá de formalizar alguna venta, cuando de la información proporcionada por autoridad competente se tengan elementos para presumir que los recursos con los que se pagará el bien correspondiente, no tienen un origen lícito.
+
+Al efecto, el Instituto incorporará los mecanismos de prevención e identificación de operaciones con recursos de procedencia ilícita en los procedimientos de venta, de conformidad con las disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 41.
 
-En las ventas que realice el SAE, debe pactarse preferentemente el pago en una sola exhibición. La Junta de Gobierno emitirá los lineamientos para la venta en varias exhibiciones, las que considerarán las condiciones de mercado en operaciones similares, así como las garantías que en su caso procedan.
+En las ventas que realice el Instituto, debe pactarse preferentemente el pago en una sola exhibición. La Junta de Gobierno emitirá los lineamientos para la venta en varias exhibiciones, las que considerarán las condiciones de mercado en operaciones similares, así como las garantías que en su caso procedan.
 
 > <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 Artículo 41 bis.- Una vez que la venta ha sido realizada y pagada la totalidad del precio, en caso de que el valor de venta sea menor al valor de registro contable, se considerará como minusvalía, la cual opera de manera automática y sin necesidad de procedimiento alguno, debiendo registrarse en la contabilidad respectiva.
 
-Tratándose de activos financieros incosteables e incobrables, el SAE deberá evaluar el costo beneficio de venderlos mediante el procedimiento de licitación pública, subasta o remate. En caso de que dicha evaluación sea positiva, procederá a su venta a través del procedimiento que se haya determinado y en caso de que éste resultare desierto o la evaluación negativa, el SAE los dará de baja de la contabilidad respectiva, debiendo mantener dichos activos en cuentas de orden únicamente para efectos de liberación de garantías, posibles pagos y afrontar contingencias.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-Los activos financieros incosteables son aquellos a que se refiere la fracción III del artículo 2o. del presente ordenamiento, en relación con la fracción II del artículo 17 del Reglamento de esta Ley.
+Tratándose de activos financieros incosteables e incobrables, el Instituto deberá evaluar el costo beneficio de venderlos mediante el procedimiento de licitación pública, subasta o remate. En caso de que dicha evaluación sea positiva, procederá a su venta a través del procedimiento que se haya determinado y en caso de que éste resultare desierto o la evaluación negativa, el Instituto los dará de baja de la contabilidad respectiva, debiendo mantener dichos activos en cuentas de orden únicamente para efectos de liberación de garantías, posibles pagos y afrontar contingencias.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Para determinar si un activo financiero es incosteable, se estará a los valores a que se refiere la fracción III, del artículo 2o. del presente ordenamiento, en relación con la fracción II, del artículo 17 del Reglamento de esta Ley.
 
 Los activos financieros incobrables, son aquellos que por falta de documentación o defectos en ésta; por falta de garantías; por prescripción o por carecer de información acerca del domicilio del deudor, no puedan recuperarse.
 
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 42.
 
-El SAE podrá establecer penas convencionales a cargo del adjudicatario por atraso en sus obligaciones de pago.
+El Instituto determinará las penas convencionales a cargo del adjudicatario por atraso en el cumplimiento de sus obligaciones de pago.
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 43.
 
-El pago de los bienes muebles deberá realizarse en el plazo de cinco días hábiles contados a partir del día en que se dé a conocer la adjudicación.
+El pago de los Bienes deberá realizarse en la forma y plazos que se establezcan en las bases de licitación o avisos respectivos, a partir del día siguiente a aquél en que se dé a conocer la adjudicación.
 
-Tratándose de bienes inmuebles, el primer pago deberá cubrirse en el plazo de cinco días hábiles contados a partir del día en que se dé a conocer la adjudicación y representar por lo menos el 25% del valor de la operación, más el Impuesto al Valor Agregado que en su caso se genere, y el resto deberá quedar cubierto a la firma de la escritura pública correspondiente. Tratándose de adjudicaciones directas, el primer pago deberá representar cuando menos el 40% del valor de la operación.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-La entrega y recepción física de los bienes muebles deberá realizarse dentro de los cinco días hábiles posteriores a la fecha en que se cubra la totalidad de su importe. Tratándose de activos financieros, la Junta de Gobierno determinará los términos y plazos para el pago, la entrega y la recepción de los mismos.
+Tratándose de bienes inmuebles, el primer pago deberá cubrirse en el plazo de cinco días hábiles contados a partir del día en que se dé a conocer la adjudicación y representar, por lo menos, el 25% del valor de la operación, más el Impuesto al Valor Agregado que, en su caso, se genere, y el resto deberá quedar cubierto a la firma de la escritura pública correspondiente, o bien, en el plazo previsto en las bases de licitación para la venta de Bienes. Tratándose de adjudicaciones directas, el primer pago deberá representar, cuando menos, el 40% del valor de la operación.
 
-Se dará posesión de los bienes inmuebles dentro de los 30 días hábiles siguientes a la fecha en que sea cubierta la totalidad del precio de los mismos, salvo que se trate de operaciones a plazo, en cuyo caso la posesión será otorgada dentro de los 30 días hábiles siguientes al momento de cubrir el primer pago.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-El envío de las instrucciones para la escrituración correspondiente no podrá exceder de un plazo superior a treinta días naturales contados a partir del día siguiente de la fecha de adjudicación, salvo causa debidamente justificada.
-
-Durante dicho plazo el comprobante de pago, así como el instrumento en el que conste la adjudicación del bien, serán los documentos que acrediten los derechos del adquirente.
-
-En caso de que la entrega recepción de los bienes y la escrituración en el caso de inmuebles no se efectúe por causas imputables al comprador, éste asumirá cualquier tipo de riesgo inherente a los mismos, salvo que obedezca a causas atribuibles al SAE.
-
-#### Sección I. Licitación Pública
-
-###### Artículo 44.
-
-La licitación pública se realizará a través de convocatoria en la que se establecerá, en su caso, el costo y la forma de pago de las bases, mismo que será fijado en atención a la recuperación de las erogaciones por publicación de la convocatoria y por los documentos que al efecto se entreguen. Los interesados podrán revisar las bases, en su caso, previo pago de las mismas.
+La entrega y recepción física de los bienes muebles deberá realizarse con posterioridad a la fecha en que se cubra la totalidad de su importe. Tratándose de activos financieros, la Junta de Gobierno determinará los términos y plazos para el pago, la entrega y la recepción de los mismos.
 
 > <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-La publicación de la convocatoria, así como sus modificaciones, podrá hacerse en el Diario Oficial de la Federación, en al menos un diario de circulación nacional y deberá divulgarse a través de medios electrónicos, ópticos o de cualquier otra tecnología que permitan la expresión de la oferta.
+Se dará posesión de los bienes inmuebles dentro de los 30 días hábiles siguientes a la fecha en que sea cubierta la totalidad del precio de los mismos, salvo que se trate de operaciones a plazo, en cuyo caso la posesión será otorgada dentro de los 30 días hábiles siguientes al momento de cubrir el primer pago.
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+El envío de las instrucciones para la escrituración correspondiente no podrá exceder de un plazo superior a treinta días naturales contados a partir del día siguiente de la fecha de adjudicación, salvo causa debidamente justificada.
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+Durante dicho plazo el comprobante de pago, así como el instrumento en el que conste la adjudicación del bien, serán los documentos que acrediten los derechos del adquirente.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+En caso de que la entrega recepción de los Bienes y la escrituración en el caso de inmuebles no se efectúe por causas imputables al comprador, éste asumirá cualquier tipo de riesgo inherente a los mismos, salvo que obedezca a causas atribuibles al Instituto.
+
+#### Sección I. Licitación Pública
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+###### Artículo 44.
+
+La licitación pública se realizará a través de convocatoria en la que se establecerá, en su caso, el precio o precios y la forma de pago de las bases, mismo que será fijado en atención a la recuperación de las erogaciones por publicación de la convocatoria y por los documentos que al efecto se entreguen, así como de las circunstancias del procedimiento y bien o Bienes a licitar. Los interesados podrán revisar las bases, en su caso, previo pago de las mismas.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+La publicación de un extracto de la convocatoria, así como sus modificaciones, podrán hacerse en el Diario Oficial de la Federación, en al menos un diario de circulación nacional y deberá divulgarse íntegramente a través de medios electrónicos, ópticos o de cualquier otra tecnología de la información y de la comunicación que permitan la difusión de la oferta.
 
 Tratándose de títulos valor, créditos o cualquier bien comerciable en bolsas, mercados de valores o esquemas similares, podrá utilizarse un medio de difusión distinto a los señalados en el párrafo anterior, sujeto a que los valores respectivos se encuentren inscritos en el Registro Nacional de Valores en los términos de la Ley del Mercado de Valores.
 
@@ -546,9 +748,13 @@ Tratándose de títulos valor, créditos o cualquier bien comerciable en bolsas,
 
 En las convocatorias se incluirá cuando menos:
 
-I.- El nombre, denominación o razón social de la entidad transferente;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-II.- La descripción, condición física y ubicación de los bienes. En caso de bienes muebles, adicionalmente se señalarán sus características, cantidad y unidad de medida, y en tratándose de bienes inmuebles la superficie total, linderos y colindancias;
+I.- El nombre, denominación o razón social de la Entidad Transferente;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+II.- La descripción, condición física y ubicación de los Bienes. En caso de bienes muebles, adicionalmente, se señalarán sus características, cantidad y unidad de medida; y tratándose de bienes inmuebles, la superficie total, linderos y colindancias, mismos que podrán difundirse entre los interesados mediante el uso de las tecnologías de la información;
 
 III.- (DEROGADA, D.O.F. 23 DE FEBRERO DE 2005)
 
@@ -598,13 +804,17 @@ III.- Que las ofertas de compra que se presenten no sean aceptables.
 
 Se considera que las ofertas de compra no son aceptables cuando no cubran el precio base de venta del bien o no cumplan con la totalidad de los requisitos establecidos en la convocatoria y en las bases.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 47.
 
-Las bases estarán a disposición de los interesados a partir de la fecha de publicación de la convocatoria y hasta cinco días naturales previos al acto de presentación de ofertas de compra y contendrán como mínimo lo siguiente:
+Las bases estarán a disposición de los interesados a partir de la fecha de publicación de la convocatoria y hasta antes del acto de presentación de ofertas de compra y contendrán, como mínimo, lo siguiente:
 
 I.- La referencia exacta de la convocatoria a la cual corresponden las mismas;
 
-II.- Los elementos a que se refieren las fracciones II, VII, X, XIII, XVII y XVIII del artículo 45 de esta Ley;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+II.- Los elementos a que se refieren las fracciones II, VII, X y XIII, del artículo 45 de esta Ley;
 
 III.- Los documentos por los cuales el interesado acreditará su personalidad jurídica;
 
@@ -622,15 +832,29 @@ IX.- La indicación de que ninguna de las condiciones de las bases de licitació
 
 X.- La indicación de que no podrán participar las personas que se encuentren en los supuestos previstos en el artículo 32 de la Ley;
 
-XI.- La indicación de que el fallo se dará a conocer por el mismo medio en que se hubiera hecho la convocatoria o en junta pública, según se determine, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-XII.- Cualquier otra que de acuerdo a la naturaleza de los bienes o su condición de venta señale el SAE.
+XI.- La indicación de que el fallo se dará a conocer por el mismo medio en que se hubiera hecho la convocatoria en junta pública, o mediante el uso de las tecnologías de la información y comunicación, según se determine;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+XII.- Cualquier otra que de acuerdo a la naturaleza de los Bienes o su condición de venta señale el Instituto;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+XIII.- Forma y monto de la garantía de seriedad de ofertas y de cumplimiento de las obligaciones que se deriven de los contratos de compraventa que, en su caso, deberán otorgar los interesados, de conformidad con las disposiciones establecidas por la Ley de Tesorería de la Federación, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+XIV.- Criterios para la evaluación de las ofertas de compra y para la adjudicación.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 48.
 
-El plazo para la presentación de las ofertas de compra no podrá ser mayor a diez días hábiles contados a partir de la fecha de publicación de la convocatoria de la licitación, salvo que por la naturaleza de los bienes, el SAE considere conveniente establecer un plazo mayor.
+El plazo para la presentación de las ofertas de compra no podrá ser mayor a diez días hábiles contados a partir de la fecha de publicación de la convocatoria de la licitación, salvo que, por la naturaleza de los Bienes, el Instituto considere conveniente establecer un plazo mayor.
 
-El SAE retendrá las garantías que se hubieren presentado, de conformidad con las disposiciones establecidas por la Ley del Servicio de la Tesorería de la Federación, hasta que se emita el fallo. A partir de esa fecha, procederá a la devolución de las garantías a cada uno de los interesados, salvo la de aquél a quien se hubiere adjudicado el bien, misma que se retendrá como garantía de cumplimiento de la obligación y podrá aplicarse como parte del precio de venta.
+El Instituto retendrá las garantías que se hubieren presentado, de conformidad con las disposiciones establecidas por la Ley de Tesorería de la Federación, hasta que se emita el fallo. A partir de esa fecha, procederá a la devolución de las garantías a cada uno de los interesados, salvo la de aquél a quien se hubiere adjudicado el bien, misma que se retendrá como garantía de cumplimiento de la obligación y podrá aplicarse como parte del precio de venta.
 
 ###### Artículo 49.
 
@@ -646,29 +870,37 @@ III.- La convocante en un plazo no mayor de tres días hábiles, contados a part
 
 Concluido el análisis de las ofertas de compra, se procederá de inmediato a emitir el fallo;
 
-IV.- El fallo se dará a conocer por el mismo medio en que se hubiera hecho la convocatoria o en junta pública, según se determine en las bases, haciendo del conocimiento público el nombre del ganador y el monto de la oferta de compra ganadora. Asimismo, en su caso, se deberá informar a la dirección electrónica de las personas interesadas, por correo certificado con acuse de recibo u otros medios que determine para tal efecto el SAE, que sus propuestas fueron desechadas y las causas que motivaron tal determinación, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-V.- El SAE levantará acta en la que se dejará constancia de la participación de los licitantes, del monto de sus ofertas de compra, de las ofertas aceptadas o desechadas, de las razones por las que en su caso fueron desechadas, del precio base de venta, del nombre del ganador por cada bien, del importe obtenido por cada venta, así como de aquellos aspectos que en su caso sean relevantes y dignos de consignar en dicha acta.
+IV.- El fallo se dará a conocer por el mismo medio en que se hubiera hecho la convocatoria, en junta pública o mediante el uso de las tecnologías de la información y comunicación, según se determine en las bases, haciendo del conocimiento público el nombre del ganador y el monto de la oferta de compra ganadora. Asimismo, en su caso, se deberá informar a la dirección electrónica de las personas interesadas, por correo certificado con acuse de recibo u otros medios que determine para tal efecto el Instituto, que sus propuestas fueron desechadas y las causas que motivaron tal determinación, y
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+V.- El Instituto levantará acta en la que se dejará constancia de la participación de los licitantes, del monto de sus ofertas de compra, de las ofertas aceptadas o desechadas, de las razones por las que en su caso fueron desechadas, del precio base de venta, del nombre del ganador por cada bien, del importe obtenido por cada venta, así como de aquellos aspectos que, en su caso, sean relevantes y dignos de consignar en dicha acta.
 
 ###### Artículo 50.
 
 En caso de empate en el procedimiento de licitación pública, el bien se adjudicará al licitante que primero haya presentado su oferta.
 
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 51.
 
-El adjudicatario perderá en favor del SAE, la garantía que hubiere otorgado si, por causas imputables a él, la operación no se formaliza dentro del plazo a que se refiere el artículo 43, quedando el SAE en posibilidad de adjudicar el bien al participante que haya presentado la segunda oferta de compra más alta que no hubiere sido descalificada, y así sucesivamente, en caso de que no se acepte la adjudicación, siempre que su postura sea mayor o igual al precio base de venta fijado.
+El adjudicatario perderá, en favor del Instituto, la garantía que hubiere otorgado si, por causas imputables a él, la operación no se formaliza dentro del plazo a que se refiere el artículo 43, quedando el Instituto en posibilidad de adjudicar el bien al participante que haya presentado la segunda oferta de compra más alta que no hubiere sido descalificada, y así sucesivamente, en caso de que no se acepte la adjudicación, siempre que su postura sea mayor o igual al precio base de venta fijado.
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+En el supuesto de que la falta de formalización de la adjudicación sea imputable al Instituto, el licitante ganador podrá solicitar que le sean reembolsados los gastos no recuperables en que hubiera incurrido, derivados del procedimiento de licitación pública, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
 
-En el supuesto de que la falta de formalización de la adjudicación sea imputable al SAE, el licitante ganador podrá solicitar que le sean reembolsados los gastos no recuperables en que hubiera incurrido, derivados del procedimiento de licitación pública, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
+En el caso de enajenaciones no concretadas por causas atribuibles al Instituto, los compradores podrán solicitar que dichas operaciones queden sin efecto, y solicitar la devolución del importe pagado, observando las disposiciones emitidas para su enajenación.
 
-El atraso del SAE en la formalización de la operación de compraventa, prorrogará en igual plazo la fecha de cumplimiento de las obligaciones asumidas por ambas partes.
+El atraso del Instituto en la formalización de la operación de compraventa, prorrogará en igual plazo la fecha de cumplimiento de las obligaciones asumidas por ambas partes.
 
 #### Sección II. De la Subasta
 
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 52.
 
-El SAE, de acuerdo con lo dispuesto por el artículo 39 de esta Ley llevará a cabo el procedimiento de subasta pública, el cual deberá efectuarse dentro de los diez días hábiles siguientes a la publicación de la convocatoria.
+El Instituto, de acuerdo con lo dispuesto por el artículo 39 de esta Ley, llevará a cabo el procedimiento de subasta pública, electrónica o presencial, el cual deberá efectuarse dentro de los diez días hábiles siguientes a la publicación de la convocatoria.
 
 > <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
@@ -676,15 +908,25 @@ El SAE, de acuerdo con lo dispuesto por el artículo 39 de esta Ley llevará a c
 
 El procedimiento se desarrollará en los siguientes términos:
 
-I. El SAE deberá mostrar a través de medios electrónicos el bien objeto de la subasta debiendo proporcionar una descripción del mismo;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-II. El SAE establecerá un período de al menos 240 horas para que los postores realicen sus ofertas a través de los medios electrónicos y de acuerdo con el formato que para tal efecto determine el SAE;
+I. El Instituto deberá mostrar a través de medios electrónicos el bien objeto de la subasta debiendo proporcionar una descripción del mismo;
 
-III. Los interesados podrán mejorar sus ofertas durante la celebración de la subasta, para lo cual deberán manifestarlo en forma escrita a través de los medios electrónicos, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-IV. Transcurrido el período que el SAE determine para la realización de la subasta, el bien se adjudicará a la oferta que signifique las mejores condiciones de precio y oportunidad, atendiendo al tipo de subasta que se haya seguido;
+II. El Instituto establecerá un período de al menos 240 horas para que los postores realicen sus ofertas a través de los medios electrónicos y de acuerdo con el formato que para tal efecto determine el Instituto;
 
-En las bases de la subasta se establecerán las instrucciones para presentar ofertas de compra así como la documentación y requisitos necesarios que el SAE podrá exigir a los postores que hayan de participar en la subasta, a fin de garantizar el cumplimiento de sus ofertas.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+III. Los interesados podrán mejorar sus ofertas durante la celebración de la subasta, para lo cual deberán manifestarlo en forma escrita a través de los medios electrónicos autentificados mediante controles de seguridad, y
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+IV. Transcurrido el período que el Instituto determine para la realización de la subasta, el bien se adjudicará a la oferta que signifique las mejores condiciones de precio y oportunidad, atendiendo al tipo de subasta que se haya seguido.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+En las bases de la subasta se establecerá su tipo, las instrucciones para presentar ofertas de compra, así como la documentación y requisitos necesarios que el Instituto podrá exigir a los postores que hayan de participar en la subasta, a fin de garantizar el cumplimiento de sus ofertas.
 
 ###### Artículo 54.
 
@@ -698,11 +940,11 @@ Sin perjuicio de la aplicación de las disposiciones previstas en los Capítulos
 
 El procedimiento de remate se realizará de acuerdo con lo dispuesto por el artículo 39 de esta Ley. Todo remate de bienes será público y deberá efectuarse dentro de los diez días hábiles siguientes a la publicación del aviso a que se refiere el artículo siguiente.
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 56.
 
-Para la realización del remate de bienes se anunciará su venta mediante la publicación de un aviso en el Diario Oficial de la Federación, en al menos un diario de circulación nacional y a través de medios electrónicos, ópticos o de cualquier otra tecnología.
+Para la realización del remate de Bienes se anunciará su venta mediante la publicación de un aviso, indistintamente, en el Diario Oficial de la Federación, en al menos un diario de circulación nacional o a través de medios electrónicos, ópticos o de cualquier otra tecnología de la información y comunicación.
 
 ###### Artículo 57.
 
@@ -716,25 +958,25 @@ I.- El nombre, capacidad legal y domicilio del postor, y
 
 II.- La cantidad que se ofrezca por los bienes.
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-El oferente, al formular su postura, deberá entregar como garantía al SAE en el acto del remate, el porcentaje de la cantidad ofertada que el SAE fije en el aviso correspondiente, el cual no podrá ser inferior al diez por ciento de dicha cantidad, en cheque certificado o efectivo. Dicho organismo descentralizado retendrá el importe referido hasta que se declare fincado el remate y después de esa fecha lo regresará a los oferentes que no hayan resultado ganadores. El porcentaje otorgado en garantía de la postura ganadora se aplicará al pago del bien adjudicado.
+El oferente, al formular su postura, deberá entregar como garantía al Instituto en el acto del remate, el porcentaje de la cantidad ofertada que el Instituto fije en el aviso correspondiente, el cual no podrá ser inferior al diez por ciento de dicha cantidad, en cheque certificado o efectivo. Dicho organismo descentralizado retendrá el importe referido hasta que se declare fincado el remate y después de esa fecha lo regresará a los oferentes que no hayan resultado ganadores. El porcentaje otorgado en garantía de la postura ganadora se aplicará al pago del bien adjudicado.
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 59.
 
-Si en la primera almoneda no hubiere postura legal, se citará a otra, para lo cual dentro de los cinco días hábiles siguientes se publicará el aviso correspondiente, de manera que entre la publicación del aviso y la fecha del remate, medie un término que no sea mayor de tres días hábiles. En la almoneda se tendrá como precio inicial el precio base de venta del bien, con deducción de un veinte por ciento.
+Si en la primera almoneda no hubiere postura legal, se citará a otra, para lo cual se publicará un nuevo aviso. En la almoneda se tendrá como precio inicial el precio base de venta del bien, con deducción de un veinte por ciento.
 
 ###### Artículo 60.
 
 Si en la segunda almoneda no hubiere postura legal, se citará a la tercera en la forma que dispone el artículo anterior, y de igual manera se procederá para las ulteriores, cuando obrare la misma causa, hasta efectuar legalmente el remate. En cada una de las almonedas se deducirá un cinco por ciento del precio que, en la anterior, haya servido de base.
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 61.
 
-Si el postor ganador no cumpliere sus obligaciones, el SAE declarará sin efecto el remate para citar, nuevamente, dentro de los cinco días hábiles siguientes a partir de declarado desierto el remate, a la misma almoneda, y el postor perderá la garantía exhibida, la cual se aplicará, como pena, a favor del SAE.
+Si el postor ganador no cumpliere sus obligaciones, el Instituto declarará sin efecto el remate y podrá convocar a un nuevo remate. El postor perderá la garantía exhibida, la cual se aplicará, como pena, a favor del Instituto.
 
 ###### Artículo 62.
 
@@ -744,35 +986,47 @@ El postor no puede rematar para un tercero, sino con poder bastante, quedando pr
 
 Los postores tendrán la mayor libertad para hacer sus propuestas.
 
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 64.
 
-El SAE decidirá de plano conforme a las disposiciones aplicables, bajo su responsabilidad, cualquier asunto que se suscite, relativo al remate.
+El Instituto decidirá de plano conforme a las disposiciones aplicables, bajo su responsabilidad, cualquier asunto que se suscite, relativo al remate.
 
 ###### Artículo 65.
 
 El día del remate, a la hora señalada, se pasará lista a los postores iniciándose el remate. A partir de ese momento, no se admitirán nuevos postores. Acto seguido, se revisarán las propuestas, desechando, las que no contengan postura legal y las que no estuvieren debidamente garantizadas.
 
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 66.
 
-Calificadas de legales las posturas, se dará lectura de ellas, por el funcionario del SAE que sea designado para tales efectos, para que los postores presentes puedan mejorarlas. Si hay varias posturas legales, se declarará preferente la que importe mayor cantidad y si varias se encontraren exactamente en las mismas condiciones, la preferencia se establecerá por sorteo, que se realizará en presencia de los postores asistentes al remate.
+Calificadas de legales las posturas, se dará lectura de ellas, para que los postores presentes puedan mejorarlas. Si hay varias posturas legales, se declarará preferente la que importe mayor cantidad y si varias se encontraren exactamente en las mismas condiciones, la preferencia se establecerá por sorteo, que se realizará en presencia de los postores asistentes al remate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 67.
 
-Declarada preferente una postura, el servidor público del SAE designado al efecto, preguntará si alguno de los postores la mejora. En caso de que alguno la mejore antes de transcurrir cinco minutos de hecha la pregunta, interrogará si algún postor puja la mejora, y así sucesivamente, se procederá con respecto a las pujas que se hagan. En cualquier momento en que, pasados cinco minutos de hecha cualquiera de las mencionadas preguntas, no se mejorare la última postura o puja, se declarará fincado el remate en favor del postor que hubiere hecho aquélla.
+Declarada preferente una postura, el servidor público del Instituto preguntará si alguno de los postores la mejora. En caso de que alguno la mejore antes de transcurrir cinco minutos de hecha la pregunta, interrogará si algún postor puja la mejora, y así sucesivamente, se procederá con respecto a las pujas que se hagan. En cualquier momento en que, pasados cinco minutos de hecha cualquiera de las mencionadas preguntas, no se mejorare la última postura o puja, se declarará fincado el remate en favor del postor que hubiere hecho aquélla.
 
 No procederá recurso ni medio de impugnación alguno contra la resolución que finque el remate.
 
 #### Sección IV. Adjudicación Directa
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 68.
 
-Los bienes podrán enajenarse mediante adjudicación directa, previo dictamen del SAE, el cuál se emitirá de acuerdo con lo que al respecto disponga el Reglamento, que deberá constar por escrito, en los siguientes casos:
+Los Bienes podrán enajenarse mediante adjudicación directa, previo dictamen del Instituto, el cual se emitirá de acuerdo con lo que al respecto disponga el Reglamento, que deberá constar por escrito, en los siguientes casos:
 
 I.- Se trate de bienes de fácil descomposición o deterioro, o de materiales inflamables, o no fungibles, siempre que en la localidad no se puedan guardar o depositar en lugares apropiados para su conservación;
 
-II.- Se trate de bienes cuya conservación resulte incosteable para el SAE;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-III.- El valor de los bienes sea menor al equivalente a 150,000 unidades de inversión;
+II.- Se trate de Bienes cuya conservación resulte incosteable para el Instituto;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+III.- El valor de los Bienes sea menor al equivalente a 150,000 Unidades de Medida y Actualización;
 
 > <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
@@ -782,17 +1036,17 @@ IV.- Se trate de bienes que habiendo salido a subasta pública, remate en primer
 
 V.- Se trate de los frutos a que se refiere el último párrafo del artículo 39 de la Ley;
 
-> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-VI.- Se trate créditos administrados o propiedad del SAE, cuya propuesta de pago individualizada sea hecha por un tercero distinto al acreditado;
+VI.- Se trate créditos administrados o propiedad del Instituto, cuya propuesta de pago individualizada sea hecha por un tercero distinto al acreditado;
 
-> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-VII.- Se trate de bienes sobre los que exista oferta de compra presentada por alguna entidad paraestatal de la Administración Pública Federal, por el gobierno de alguna entidad federativa o municipio, o
+VII.- Se trate de Bienes sobre los que exista oferta de compra presentada por alguna dependencia, entidad paraestatal u órgano de la Administración Pública Federal, de las entidades federativas o municipios, así como cualquier otro órgano de gobierno, constitucional autónomo o con autonomía derivada de los órdenes constitucionales Federal o de alguna entidad federativa o municipio, y
 
-> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-VIII.- Se trate de los supuestos previstos en los lineamientos que expida la Junta de Gobierno para tal efecto.
+VIII.- Se trate de Bienes provenientes de procesos de desincorporación, liquidación o extinción de empresas, así como de aquellos que determine la Junta de Gobierno.
 
 > <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
@@ -800,23 +1054,35 @@ A la propuesta de pago a que se refiere la fracción VI de este artículo, se le
 
 ## TÍTULO QUINTO. De la Destrucción de Bienes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 69.
 
-El SAE podrá llevar a cabo la destrucción de los bienes en los casos que establezca el Reglamento y las disposiciones que regulen los bienes de que se trate.
+El Instituto podrá llevar a cabo la destrucción de los Bienes en los casos que establezca el Reglamento y las disposiciones que regulen los Bienes de que se trate.
 
 En toda destrucción se deberán observar las disposiciones de seguridad, salud, protección al medio ambiente y demás que resulten aplicables.
 
-La destrucción de los narcóticos y precursores químicos, se sujetará a lo dispuesto en el Código Penal Federal y el Código Federal de Procedimientos Penales.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-En todas las destrucciones, el SAE deberá seleccionar el método o la forma de destrucción menos contaminante, a fin de minimizar los riesgos que pudieren ocasionar emisiones dañinas para el ser humano, así como para su entorno. Asimismo, el método de destrucción que se seleccione no deberá oponerse a las normas oficiales expedidas por los Gobiernos Federal, estatales y municipales.
+La destrucción de las substancias psicotrópicas, psicoactivas, estupefacientes, drogas, narcóticos y precursores químicos, se sujetará a lo dispuesto en el Código Penal Federal y el Código Nacional de Procedimientos Penales.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+En todas las destrucciones, el Instituto deberá seleccionar el método o la forma de destrucción menos contaminante, a fin de minimizar los riesgos que pudieren ocasionar emisiones dañinas para el ser humano, así como para su entorno. Asimismo, el método de destrucción que se seleccione no deberá oponerse a las normas oficiales expedidas por los Gobiernos Federal, estatales y municipales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 70.
 
-Sin perjuicio de lo dispuesto en el artículo anterior, se consideran como bienes respecto de los cuales el SAE podrá proceder a su destrucción los siguientes:
+Sin perjuicio de lo dispuesto en el artículo anterior, se consideran como Bienes respecto de los cuales el Instituto podrá proceder a su destrucción los siguientes:
 
-I.- Bienes decomisados o abandonados relacionados con la comisión de delitos de propiedad industrial o derechos de autor;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-II.- Bienes que por su estado de conservación no se les pueda dar otro destino;
+I.- Bienes asegurados, decomisados o abandonados relacionados con la comisión de delitos de propiedad industrial o derechos de autor;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+II.- Bienes que por su estado de conservación no se les pueda dar otro destino, así como aquellos de uso personal que sean usados o que exista el riesgo de daños a la salud pública;
 
 III.- Objetos, productos o sustancias que se encuentren en evidente estado de descomposición, adulteración o contaminación que no los hagan aptos para ser consumidos o que puedan resultar nocivos para la salud de las personas. En estos casos, deberá darse intervención inmediata a las autoridades sanitarias para que, dentro del ámbito de sus atribuciones, autoricen la destrucción de este tipo de bienes;
 
@@ -824,75 +1090,109 @@ IV.- Productos o subproductos de flora y fauna silvestre o productos forestales,
 
 V.- Todos aquellos bienes, que las entidades transferentes pongan a su disposición para su destrucción.
 
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 71.
 
-Para la destrucción de bienes se estará a lo dispuesto por la Ley del Servicio de Tesorería de la Federación y su Reglamento, requiriéndose adicionalmente la autorización previa del Director General del SAE.
+Para la destrucción de Bienes se estará a lo dispuesto por la Ley de Tesorería de la Federación y su reglamento, requiriéndose adicionalmente la autorización previa del Director General del Instituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 72.
 
-Con independencia de lo que al respecto dispone la Ley del Servicio de Tesorería de la Federación y su Reglamento, el SAE deberá integrar un expediente para proceder a la destrucción de los bienes correspondientes, el cual deberá contener la siguiente documentación:
+Con independencia de lo que al respecto dispone la Ley de Tesorería de la Federación y su reglamento, el Instituto deberá integrar un expediente para proceder a la destrucción de los Bienes correspondientes, el cual deberá contener la siguiente documentación:
 
 I.- Oficio de la dependencia o entidad facultada para autorizar la destrucción de los bienes, en los casos en que sea necesario obtenerla.
 
-II.- Oficio de autorización del Director General del SAE.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-III.- Notificación a la Procuraduría, a la Autoridad Judicial que conozca del procedimiento o, en su caso, a las Autoridades Aduaneras, de la destrucción de bienes, para que los Agentes del Ministerio Público o la autoridad judicial recaben, cuando sea factible, las muestras necesarias para que obren en la averiguación previa o expediente correspondiente.
+II.- Oficio de autorización del Director General del Instituto;
 
-IV.- Acta de la destrucción del bien, que deberán suscribir los servidores públicos facultados del SAE, así como otras autoridades que deban participar y un representante del órgano interno de control en el SAE, quien en ejercicio de sus atribuciones se cerciorará de que se observen estrictamente las disposiciones legales aplicables al caso.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+III.- Notificación a la Fiscalía General de la República y/o a la autoridad judicial que conozca del procedimiento o, en su caso, a las Autoridades Aduaneras, de la destrucción de Bienes, para que los agentes del Ministerio Público o la autoridad judicial recaben, cuando sea factible, las muestras necesarias para que obren en la carpeta de investigación o expediente correspondiente, y
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+IV.- Acta de la destrucción del bien, que deberán suscribir los servidores públicos facultados del Instituto, así como otras autoridades que deban participar y un representante del órgano interno de control del Instituto, quien en ejercicio de sus atribuciones, se cerciorará de que se observen estrictamente las disposiciones legales aplicables al caso.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 73.
 
-El SAE llevará el registro y control de todos los bienes que haya destruido, así como de aquéllos que hayan sido destruidos por otras autoridades a petición suya en el ámbito de sus respectivas atribuciones; el Director General del SAE deberá informar a la Junta de Gobierno sobre cualquier operación de destrucción de bienes que se haya llevado a cabo en estos términos.
+El Instituto llevará el registro y control de todos los Bienes que haya destruido, así como de aquéllos que hayan sido destruidos por otras autoridades a petición suya en el ámbito de sus respectivas atribuciones; el Director General del Instituto, deberá informar a la Junta de Gobierno sobre cualquier operación de destrucción de Bienes que se haya llevado a cabo en estos términos.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 74.
 
-Los gastos en que incurra el SAE derivados de los procedimientos de destrucción se considerarán como costos de administración de los bienes, en términos del artículo 30 de esta Ley.
+Los gastos en que incurra el Instituto derivados de los procedimientos de destrucción, se considerarán como costos de administración de los Bienes.
+
+En caso de que del producto de la destrucción se obtengan recursos a favor, el Instituto podrá destinarlos para gastos de administración y destino de los Bienes.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 75.
 
-Tratándose de bienes relacionados con la comisión de delitos o infracciones relativos a propiedad industrial o derechos de autor, el SAE, antes de proceder a su destrucción, deberá verificar la resolución definitiva que declare que se ha cometido una infracción administrativa o un delito, en términos de la Ley de la Propiedad Industrial y la Ley Federal del Derecho de Autor, y que el Instituto Mexicano de la Propiedad Industrial o, en su caso, el Instituto Nacional del Derecho de Autor hayan decidido poner los bienes a disposición de la autoridad judicial competente.
+Tratándose de Bienes relacionados con la comisión de delitos o infracciones relativos a propiedad industrial o derechos de autor, el Instituto procederá a su destrucción, una vez que le sea notificada o se haga de su conocimiento la resolución definitiva firme que declare que se ha cometido una infracción administrativa o un delito, en términos de la Ley de la Propiedad Industrial y la Ley Federal del Derecho de Autor, y que el Instituto Mexicano de la Propiedad Industrial o, en su caso, el Instituto Nacional del Derecho de Autor hayan decidido poner los Bienes a disposición de la autoridad judicial competente.
 
-Tratándose de los bienes cuya importación esté prohibida o sean objeto de ilícitos, el SAE, antes de proceder a su destrucción, deberá verificar con las Autoridades Aduaneras la resolución definitiva que declare que se ha cometido una infracción o delito, en términos de la Ley Aduanera.
+Tratándose de los Bienes cuya importación esté prohibida o sean objeto de ilícitos, el Instituto, antes de proceder a su destrucción, deberá verificar con las Autoridades Aduaneras la resolución definitiva que declare que se ha cometido una infracción o delito, en términos de la Ley Aduanera y de las leyes en materia penal que correspondan.
 
-## TÍTULO SEXTO. Del SAE
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+## TÍTULO SEXTO. Del Instituto
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 76.
 
-El SAE será un organismo descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, con domicilio en el Distrito Federal, el cual tendrá por objeto la administración, enajenación y destino de los bienes señalados en el artículo 1 de esta Ley, así como el cumplimiento de las atribuciones establecidas en el artículo 78 de la misma.
+El Instituto es un organismo descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, con domicilio en la Ciudad de México, el cual tendrá por objeto la administración, enajenación, destrucción y destino de los Bienes, activos o empresas, señalados en el artículo 1o. de esta Ley, así como el cumplimiento de las atribuciones establecidas en el presente ordenamiento.
 
-El SAE estará agrupado en el sector coordinado por la Secretaría.
+El Instituto estará agrupado en el sector coordinado por la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 77.
 
-El patrimonio del SAE está integrado por:
+El patrimonio del Instituto está integrado por:
 
-I.- Los bienes muebles, inmuebles y demás derechos que le sean asignados;
+I.- Los bienes muebles, inmuebles y demás derechos que le sean asignados o que por cualquier título adquiera para sí;
 
-II.- Los recursos que le sean asignados en el Decreto de Presupuesto de Egresos de la Federación;
+II.- Los recursos que le sean asignados en el Decreto de Presupuesto de Egresos de la Federación, así como los que obtenga en cumplimiento de su objeto público, y
 
-III.- Cualquier otro ingreso que la autoridad competente o las disposiciones aplicables, destinen al SAE.
+III.- Cualquier otro ingreso que la autoridad competente o las disposiciones aplicables destinen al Instituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 78.
 
-Para el cumplimiento de su objeto, el SAE contará con las siguientes atribuciones:
+Para el cumplimiento de su objeto, el Instituto contará con las siguientes atribuciones:
 
-I.- Recibir, administrar, enajenar y destruir los bienes de las entidades transferentes conforme a lo previsto en la presente Ley. Así como, realizar todos los actos de administración, pleitos y cobranzas y de dominio respecto de los bienes, aun y cuando se trate de entidades paraestatales en proceso de desincorporación, en aquellos casos en que así lo determine la Secretaría;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-II.- Administrar y enajenar los bienes, que previa instrucción de autoridad competente, se le encomienden por la naturaleza especial que guardan los mismos;
+I.- Recibir, administrar, enajenar, monetizar, y destruir los Bienes de las Entidades Transferentes conforme a lo previsto en la presente Ley, así como realizar todos los actos de administración, pleitos y cobranzas y de dominio respecto de los Bienes, activos o empresas, aun y cuando se trate de entidades paraestatales en proceso de desincorporación, en aquellos casos en que así lo determine la Secretaría;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+II.- Administrar, enajenar y monetizar los Bienes, activos o empresas, que previa instrucción de autoridad competente, se le encomienden por la naturaleza especial que guardan los mismos.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Tratándose de numerario asegurado, decomisado, abandonado o sujeto a extinción de dominio, será captado y administrado en las cuentas que determine el Instituto;
 
 III.- Optimizar los bienes para darles un destino, de conformidad con las disposiciones contenidas en el Reglamento;
 
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-IV.- Fungir como visitador, conciliador y síndico en concursos mercantiles y quiebras de conformidad con las disposiciones aplicables, debiendo recaer tales designaciones en el SAE, invariablemente, tratándose de empresas aseguradas;
+IV.- Fungir como visitador, conciliador y síndico en concursos mercantiles y quiebras, de conformidad con las disposiciones aplicables y, supletoriamente, con lo dispuesto en el presente ordenamiento en materia de enajenación de Bienes que conformen la masa concursal, debiendo recaer tales designaciones en el Instituto, invariablemente, tratándose de empresas aseguradas;
 
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-V.- Liquidar las empresas de participación estatal mayoritaria, sociedades nacionales de crédito y organismos descentralizados de la Administración Pública Federal, así como toda clase de sociedades mercantiles, sociedades o asociaciones civiles;
+V.- Fungir como liquidador único del Gobierno Federal de las empresas de participación estatal mayoritaria, sociedades nacionales de crédito y organismos descentralizados de la Administración Pública Federal, organismos autónomos, entidades de interés público, empresas productivas del estado, así como toda clase de sociedades mercantiles, sociedades o asociaciones civiles;
 
-VI.- Ejecutar los mandatos en nombre y representación del Gobierno Federal, incluyendo todos los actos jurídicos que le sean encomendados;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+VI.- Ejecutar los mandatos y encargos en nombre y representación del Gobierno Federal, incluyendo todos los actos jurídicos que les sean inherentes;
 
 VII.- Manejar los créditos que el Gobierno Federal destine o haya destinado para otorgar su apoyo financiero a las instituciones de crédito y organizaciones auxiliares del crédito, así como la celebración de todos los actos necesarios para la recuperación de tales créditos, bien sea que las instituciones se rehabiliten o liquiden;
 
@@ -904,55 +1204,75 @@ VIII.- Celebrar convenios de coordinación y colaboración con los gobiernos de 
 
 IX.- Extinguir los fideicomisos públicos y privados;
 
-> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-X.- Fungir como fiduciario sustituto en los fideicomisos constituidos en instituciones de crédito, instituciones de seguros, instituciones de fianzas, sociedades financieras de objeto limitado y almacenes generales de depósito, cuya liquidación sea encomendada al SAE, así como, en aquellos en los que actúe con el carácter de fideicomitente o fideicomisario el Gobierno Federal o alguna entidad paraestatal de la Administración Pública Federal;
+X.- Fungir como fiduciario sustituto en los fideicomisos constituidos en instituciones de crédito, instituciones de seguros, instituciones de fianzas, sociedades financieras de objeto limitado y almacenes generales de depósito, cuya liquidación sea encomendada al Instituto, así como, en aquellos en los que actúe con el carácter de fideicomitente o fideicomisario el Gobierno Federal o alguna entidad paraestatal de la Administración Pública Federal;
 
-> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-XI.- Celebrar contratos de prestación de servicios necesarios para la atención de los Encargos que le sean conferidos cuyo cumplimiento de pago sea con cargo a recursos de los mismos; su duración podrá ser superior al ejercicio fiscal de que se trate, por lo que en caso de que el ingreso neto sea insuficiente, la diferencia se cubrirá con cargo a la cuenta especial destinada a financiar las operaciones del SAE a que se refiere el artículo 89 de esta Ley, en los términos que para tal efecto determine la Junta de Gobierno, de acuerdo con los esquemas autorizados por la Secretaría, y
+XI.- Celebrar contratos de prestación de servicios necesarios para la atención de los Encargos que le sean conferidos cuyo cumplimiento de pago sea con cargo a recursos de los mismos; su duración podrá ser superior al ejercicio fiscal de que se trate, por lo que en caso de que el ingreso neto sea insuficiente, la diferencia se cubrirá con cargo a la cuenta específica destinada a financiar las operaciones del Instituto, a que se refiere el artículo 89 de esta Ley, en los términos que para tal efecto determine la Junta de Gobierno, de acuerdo con los esquemas autorizados por la Secretaría, y
 
 > <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 XII.- Realizar todos los actos, contratos y convenios necesarios para llevar a cabo las atribuciones anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 79.
 
-La administración del SAE estará a cargo de:
+La administración del Instituto estará a cargo de:
 
 I.- La Junta de Gobierno, y
 
-II.- El Director General.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+II.- La persona Titular de la Dirección General.
 
 ###### Artículo 80.
 
 La Junta de Gobierno se integrará de la siguiente manera:
 
-I.- El Secretario de Hacienda y Crédito Público, quien la presidirá;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-II.- Dos Subsecretarios de la Secretaría;
+I.- La persona servidora pública Titular de la Secretaría de Hacienda y Crédito Público, quien la presidirá;
 
-III.- El Tesorero de la Federación, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-IV.- El Presidente de la Comisión Nacional Bancaria y de Valores.
+II.- Las personas servidoras públicas titulares de dos Subsecretarías de la Secretaría;
 
-Los integrantes de la Junta de Gobierno designarán y acreditarán a su respectivo suplente, quien deberá contar con, al menos, el nivel jerárquico equivalente al de Director General de la Administración Pública Federal Centralizada.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+III.- La persona servidora pública Titular de la Tesorería de la Federación, y
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+IV.- La persona servidora pública que ocupe la Presidencia de la Comisión Nacional Bancaria y de Valores.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Las personas servidoras públicas integrantes de la Junta de Gobierno designarán y acreditarán a su respectivo suplente.
 
 La Junta de Gobierno contará con un Secretario Técnico y un Prosecretario. El Secretario Técnico, tendrá la representación de la misma para todos sus efectos legales, rendirá los informes previos y justificados en los juicios de amparo en que la propia Junta sea señalada como autoridad responsable.
 
-El Secretario Técnico y el Prosecretario de la Junta de Gobierno, asistirán a las sesiones con voz pero sin voto.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+Las personas servidoras públicas a cargo de la Secretaría Técnica y la Prosecretaría de la Junta de Gobierno, asistirán indistintamente a las sesiones con voz, pero sin voto.
 
-La Junta de Gobierno se reunirá una vez cada tres meses, cuando menos, de acuerdo con un calendario que será aprobado en la primera sesión ordinaria del ejercicio, pudiéndose además celebrar reuniones extraordinarias, conforme a lo previsto en el Estatuto Orgánico del SAE. Sus reuniones serán válidas con la asistencia de por lo menos la mitad de sus miembros. Las resoluciones se tomarán por la mayoría de los votos de los miembros presentes, teniendo el Presidente voto de calidad para el caso de empate.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+La Junta de Gobierno se reunirá, de manera ordinaria, cuando menos cuatro veces al año, de acuerdo con el calendario que apruebe en la última sesión ordinaria del ejercicio anterior, pudiéndose además celebrar reuniones extraordinarias, conforme a lo previsto en el Estatuto Orgánico del Instituto. Sus reuniones podrán ser presenciales o mediante el auxilio de las tecnologías de la información y comunicación, conforme lo disponga el Estatuto Orgánico; serán válidas con la asistencia de por lo menos la mitad de sus miembros con la asistencia del Presidente. Las resoluciones se tomarán por mayoría de los votos, teniendo el Presidente voto de calidad para el caso de empate.
 
 ###### Artículo 81.
 
 La Junta de Gobierno tendrá las facultades siguientes:
 
-I.- Establecer en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse el SAE;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-II.- Aprobar con sujeción a las disposiciones aplicables, las políticas, bases y programas generales, que regulen los convenios, contratos, o acuerdos que deba celebrar el SAE con terceros para obras públicas, adquisiciones, arrendamientos y prestación de servicios. El Director General y, en su caso, los servidores públicos que sean competentes en términos de la legislación de la materia, realizarán tales actos bajo su responsabilidad y con sujeción a las directrices que les hayan sido fijadas por la Junta de Gobierno;
+I.- Establecer, en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse el Instituto;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+II.- Aprobar con sujeción a las disposiciones aplicables, las políticas, bases y programas generales, que regulen los convenios, contratos, o acuerdos que deba celebrar el Instituto con terceros para obras públicas, adquisiciones, arrendamientos y prestación de servicios. El Director General y, en su caso, los servidores públicos que sean competentes en términos de la legislación de la materia, realizarán tales actos bajo su responsabilidad y con sujeción a las directrices que les hayan sido fijadas por la Junta de Gobierno;
 
 III.- Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los Comisarios;
 
@@ -962,81 +1282,113 @@ V.- Determinar los lineamientos generales a los que deberán ajustarse los depos
 
 VI.- Dictar los lineamientos relativos a la supervisión de la base de datos a que se refiere el artículo 4 de esta Ley;
 
-VII.- Aprobar los programas y presupuestos del SAE, propuestos por el Director General, así como sus modificaciones, en términos de la legislación aplicable;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-VIII.- Aprobar anualmente, previo informe de los comisarios, y dictamen de los auditores externos, los estados financieros del SAE y autorizar la publicación de los mismos;
+VII.- Aprobar los programas y presupuestos del Instituto, propuestos por el Director General, así como sus modificaciones, en términos de la legislación aplicable;
 
-IX.- Aprobar el Estatuto Orgánico del SAE y la estructura orgánica básica del mismo, así como las modificaciones que procedan a éstos;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-X.- Nombrar y remover a propuesta del Director General, a los servidores públicos del SAE que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, aprobar la fijación de sus sueldos y prestaciones, y a los demás que señale el Estatuto Orgánico, conforme a las disposiciones que emita la Secretaría para tal efecto;
+VIII.- Aprobar anualmente, previo informe de los comisarios y dictamen de los auditores externos, los estados financieros del Instituto y autorizar la publicación de los mismos;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+IX.- Aprobar el Estatuto Orgánico del Instituto y la estructura orgánica básica del mismo, así como las modificaciones que procedan a éstos;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+X.- Nombrar y remover, a propuesta del Director General, a los servidores públicos del Instituto que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, con excepción de aquellos servidores públicos cuyo nombramiento corresponda a otra dependencia o entidad en términos de las disposiciones legales, reglamentarias y administrativas aplicables, así como aprobar la fijación de sus sueldos y prestaciones, y a los demás que señale el Estatuto Orgánico, conforme a las disposiciones que emita la Secretaría para tal efecto;
 
 XI.- Nombrar y remover al Secretario Técnico y Prosecretario de la propia Junta de Gobierno;
 
 XII.- Autorizar los diferentes procedimientos de venta de conformidad con el Reglamento de la presente Ley;
 
-XIII.- Emitir los lineamientos necesarios para la destrucción de los bienes en los términos de la presente Ley y el Reglamento, así como para las demás actividades relacionadas con el objeto del SAE;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+XIII.- Emitir los lineamientos necesarios para la destrucción de los Bienes en los términos de la presente Ley y el Reglamento, así como para las demás actividades relacionadas con el objeto del Instituto;
 
 XIV.- Emitir los lineamientos para la venta en varias exhibiciones, para lo cual considerará las condiciones de mercado en operaciones similares;
 
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-XV.- Designar y facultar a las personas que realizarán las notificaciones respectivas en representación de SAE en términos de la legislación penal aplicable;
+XV.- Designar y facultar a las personas que realizarán las notificaciones respectivas en representación del Instituto, en términos de la legislación penal aplicable;
 
-> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-XVI.- Dictar los lineamientos a fin de que la estructura administrativa del SAE opere con los recursos estrictamente necesarios para la realización de sus funciones en un principio de austeridad y eficiencia, y
+XVI.- Dictar los lineamientos a fin de que la estructura administrativa del Instituto opere con los recursos estrictamente necesarios para la realización de sus funciones en un principio de austeridad y eficiencia;
 
-> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-XVII.- Las demás que se señalen en esta Ley y otras disposiciones jurídicas aplicables.
+XVII.- Aprobar los lineamientos para la condonación, por parte del Instituto, de créditos transferidos, y
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+XVIII.- Las demás que se señalen en esta Ley, la Ley Federal de las Entidades Paraestatales y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 82.
 
-El Director General del SAE deberá remitir semestralmente a la Secretaría y a la Contraloría, un informe en donde se detalle su operación, avances en los procedimientos a que se refiere esta Ley, así como respecto de la enajenación de los bienes que fueron puestos a su disposición.
+El Director General del Instituto deberá remitir semestralmente a la Secretaría y a la Secretaría de la Función Pública, un informe en donde se detalle su operación, avances en los procedimientos a que se refiere esta Ley, así como respecto de la enajenación de los Bienes que fueron puestos a su disposición.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 83.
 
-El SAE rendirá un informe anual detallado a las entidades transferentes, respecto de los bienes que cada una le haya transferido.
+El Instituto rendirá un informe anual detallado a las Entidades Transferentes, respecto de los Bienes, activos o empresas que cada una le haya transferido.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 84.
 
-El SAE contará con un órgano de vigilancia integrado por un Comisario Público y un Suplente, designados por la Contraloría, quienes tendrán a su cargo las atribuciones que les confieren los artículos 60 de la Ley Federal de las Entidades Paraestatales, 29 y 30 de su Reglamento y demás disposiciones aplicables.
+El Instituto contará con un órgano de vigilancia integrado por un Comisario Público y un Suplente, designados por la Secretaría de la Función Pública, quienes tendrán a su cargo las atribuciones que les confieren la Ley Federal de las Entidades Paraestatales, su reglamento y demás disposiciones aplicables.
 
-El Comisario asistirá, con voz pero sin voto, a las sesiones de la Junta de Gobierno del SAE.
+El Comisario asistirá, con voz, pero sin voto, a las sesiones de la Junta de Gobierno del Instituto.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 85.
 
-El SAE contará con una Contraloría Interna, denominada Órgano Interno de Control, al frente de la cual estará el Contralor Interno, Titular de dicho órgano, mismo que será designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, y que en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de responsabilidades, auditoría, y quejas, designados en los mismos términos.
+El Instituto contará con una Contraloría Interna, denominada Órgano Interno de Control, al frente de la cual estará el Contralor Interno, Titular de dicho órgano, mismo que será designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal y que, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de responsabilidades, auditoría y quejas, designados en los mismos términos.
 
-El Titular del órgano de control interno, así como los de sus áreas de auditoría, quejas y responsabilidades dependerán de la Contraloría. Dicho órgano desarrollará sus funciones conforme a los lineamientos que emita esta última.
+El Titular del órgano de control interno, así como los de sus áreas de auditoría, quejas y responsabilidades, dependerán de la Secretaría de la Función Pública. Dicho órgano desarrollará sus funciones conforme a los lineamientos que emita esta última.
 
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el artículo 47, fracciones III y IV del Reglamento Interior de la Contraloría.
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley General de Responsabilidades Administrativas, el Reglamento Interior de la Secretaría de la Función Pública, y en los demás ordenamientos legales y administrativos aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 86.
 
-El Director General del SAE será designado por el titular de la Secretaría, previo acuerdo del Ejecutivo Federal, debiendo recaer en la persona que cumpla con los siguientes requisitos:
+El Director General del Instituto será designado por el titular de la Secretaría, previo acuerdo del Ejecutivo Federal, debiendo recaer en la persona que cumpla con los siguientes requisitos:
 
 I.- Ser ciudadano mexicano por nacimiento, que no adquiera otra nacionalidad y esté en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II.- Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa;
 
-III.- No encontrarse en alguno de los impedimentos para ser miembro del órgano de gobierno que señalan las fracciones II, III y V del artículo 19 de la Ley Federal de las Entidades Paraestatales, y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+III.- No encontrarse en alguno de los impedimentos que para ser miembro del Órgano de Gobierno que señalan las fracciones II, III, IV y V, del artículo 19 de la Ley Federal de las Entidades Paraestatales, y
 
 IV.- No formar parte de las instituciones autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 87.
 
-El Director General del SAE tendrá las facultades siguientes:
+El Director General del Instituto tendrá las facultades siguientes:
 
-I.- Representar al SAE para todos los efectos legales, incluyendo los laborales y delegar esa representación en los términos que señale su Estatuto Orgánico;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+I.- Representar al Instituto, para todos los efectos legales, incluyendo los laborales y delegar esa representación en los términos que señale su Estatuto Orgánico;
 
 II.- Rendir los informes previos y justificados en los juicios de amparo cuando sea señalado como autoridad responsable;
 
-III.- Administrar el presupuesto del SAE, de conformidad con las disposiciones aplicables. En caso de ser necesarias erogaciones de partidas no previstas en el presupuesto, el Director General deberá previamente obtener la aprobación de la Junta de Gobierno;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-IV.- Dirigir y coordinar las actividades del SAE, de conformidad con lo dispuesto en esta Ley, en el Reglamento y en los acuerdos que al efecto apruebe la Junta de Gobierno;
+III.- Administrar el presupuesto del Instituto, de conformidad con las disposiciones aplicables. En caso de ser necesarias erogaciones de partidas no previstas en el presupuesto, el Director General deberá previamente obtener la aprobación de la Junta de Gobierno;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+IV.- Dirigir y coordinar las actividades del Instituto, de conformidad con lo dispuesto en esta Ley, en el Reglamento y en los acuerdos que al efecto apruebe la Junta de Gobierno;
 
 V.- Asistir, con voz pero sin voto, a las sesiones de la Junta de Gobierno;
 
@@ -1046,15 +1398,23 @@ VI.- Nombrar y remover depositarios, interventores o administradores de los bien
 
 VII.- Ejecutar los acuerdos de la Junta de Gobierno;
 
-VIII.- Presentar a la Junta de Gobierno para su aprobación, los programas y presupuestos del SAE;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-IX.- Proponer a la Junta de Gobierno el nombramiento o remoción de los servidores públicos de las dos jerarquías administrativas inferiores a la del propio Director General, así como nombrar y contratar a los demás empleados del SAE;
+VIII.- Presentar a la Junta de Gobierno para su aprobación, los programas y presupuestos del Instituto;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+IX.- Proponer a la Junta de Gobierno el nombramiento o remoción de los servidores públicos de las dos jerarquías administrativas inferiores a la del propio Director General, con excepción de aquellos servidores públicos cuyo nombramiento corresponda a otra dependencia o entidad en términos de las disposiciones legales, reglamentarias o administrativas aplicables, así como nombrar y contratar a los demás empleados del Instituto;
 
 X.- Rendir los informes a la Junta de Gobierno relacionados con la administración y manejo de los bienes; respecto de la administración, enajenación o destino, así como del desempeño de los depositarios, liquidadores, interventores o administradores designados y de los terceros a que se refiere el artículo 1 de esta Ley;
 
-XI.- Establecer los métodos que permitan el óptimo aprovechamiento de los bienes del SAE;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-XII.- Recabar información y elementos estadísticos que reflejen el estado de las funciones del SAE para así poder mejorar su gestión;
+XI.- Establecer los métodos que permitan el óptimo aprovechamiento de los Bienes del Instituto;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+XII.- Recabar información y elementos estadísticos que reflejen el estado de las funciones del Instituto, para así poder mejorar su gestión;
 
 XIII.- Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
 
@@ -1062,33 +1422,79 @@ XIV.- Establecer los mecanismos de evaluación que destaquen la eficiencia y la 
 
 XV.- Las demás que señalen esta Ley u otras disposiciones aplicables, o las que mediante acuerdo de la Junta de Gobierno, le sean otorgadas.
 
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 88.
 
-Las relaciones de trabajo entre el SAE y sus servidores públicos se regularán por la Ley Federal del Trabajo, Reglamentaria del Apartado A) del Artículo 123 Constitucional y las condiciones de trabajo que al efecto se establezcan. Los trabajadores del SAE quedan incorporados al régimen del Instituto Mexicano del Seguro Social.
+Las relaciones de trabajo entre el Instituto y sus servidores públicos se regularán por la Ley Federal del Trabajo, Reglamentaria del Apartado A del Artículo 123 Constitucional y las condiciones de trabajo que al efecto se establezcan. Los trabajadores del Instituto quedan incorporados al régimen del Instituto Mexicano del Seguro Social.
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 89.
 
-A los recursos obtenidos por los procedimientos de venta a que se refiere el artículo 38 de esta Ley, así como a los frutos que generen los bienes que administre el SAE, se descontarán los costos de administración, gastos de mantenimiento y conservación de los bienes, honorarios de comisionados especiales que no sean servidores públicos encargados de dichos procedimientos, así como los pagos de las reclamaciones procedentes que presenten los adquirentes o terceros, por pasivos ocultos, fiscales o de otra índole, activos inexistentes, asuntos en litigio y demás erogaciones análogas a las antes mencionadas o aquellas que determine la Ley de Ingresos de la Federación u otro ordenamiento aplicable.
+A los recursos obtenidos por los procedimientos de venta a que se refiere el artículo 38 de esta Ley, así como a los frutos que generen los Bienes que administre el Instituto, se descontarán los costos de administración, gastos de mantenimiento y conservación de los Bienes, honorarios de comisionados especiales que no sean servidores públicos encargados de dichos procedimientos, así como los pagos de las reclamaciones procedentes que presenten los adquirentes o terceros, por pasivos ocultos, fiscales o de otra índole, activos inexistentes, asuntos en litigio y demás erogaciones análogas a las antes mencionadas o aquellas que determine la Ley de Ingresos de la Federación del ejercicio correspondiente u otro ordenamiento aplicable.
 
-Los recursos derivados por los procedimientos de venta junto con los frutos que generen los bienes administrados por el SAE, se destinarán a un fondo, el cual contará con dos subcuentas generales, una correspondiente a los frutos y otra a las ventas.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Los recursos derivados por los procedimientos de venta junto con los frutos que generen los Bienes administrados por el Instituto, se destinarán a un fondo, el cual contará con dos subcuentas generales, una correspondiente a los frutos y otra a las ventas.
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 Cada subcuenta general contará con subcuentas específicas correspondientes a cada bien o conjunto de bienes entregados en administración o a cada uno de los procedimientos de venta indicados en el párrafo anterior, por lo que se podrá realizar el traspaso de los recursos obtenidos de la subcuenta general a las diferentes subcuentas.
 
-Los recursos de las subcuentas específicas, serán entregados por el SAE a quien tenga derecho a recibirlos, en los plazos que al efecto convenga con la Entidad Transferente o con la Tesorería de la Federación y de conformidad con las disposiciones aplicables. Una vez entregados tales recursos, el SAE no tendrá responsabilidad alguna en caso de reclamaciones.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+Los recursos de las subcuentas específicas, serán entregados por el Instituto, a quien tenga derecho a recibirlos, en los plazos que al efecto convenga con la Entidad Transferente o con la Tesorería de la Federación y de conformidad con las disposiciones aplicables. Una vez entregados tales recursos, el Instituto no tendrá responsabilidad alguna en caso de reclamaciones.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Para efectos de la captación y administración de activos, Bienes y empresas, así como numerario asegurado, decomisado, abandonado o afecto a un procedimiento de extinción de dominio, el Instituto establecerá las cuentas necesarias para tal efecto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 90.
 
-Para efectos de lo dispuesto en el último párrafo del artículo anterior, y en tratándose de los bienes propiedad o al cuidado del Gobierno Federal, los recursos correspondientes serán depositados, hasta por la cantidad que determine la Junta de Gobierno, en un fondo destinado a financiar, junto con los recursos fiscales del ejercicio de que se trate y los patrimoniales del SAE, las operaciones de este Organismo, y el remanente será concentrado en la Cuenta General Moneda Nacional de la Tesorería de la Federación, en los términos acordados con esta última.
+Para efectos de lo dispuesto en el penúltimo párrafo del artículo anterior, y tratándose de los Bienes propiedad o al cuidado del Gobierno Federal, los recursos correspondientes serán depositados, hasta por la cantidad que determine la Junta de Gobierno, en un fondo destinado a financiar, junto con los recursos fiscales del ejercicio de que se trate y los patrimoniales del Instituto, las operaciones de este organismo, y el remanente será concentrado en la Cuenta General Moneda Nacional de la Tesorería de la Federación, en los términos acordados con esta última.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 Semestralmente será revisado el saldo del fondo a que se refiere el párrafo anterior, a efecto de que, en caso de ser necesario, se depositen los recursos necesarios para alcanzar la cantidad fijada por la Junta de Gobierno.
 
-En el caso de bienes abandonados, una vez obtenidos los recursos por su venta, se descontarán los costos de administración, gastos de mantenimiento y conservación de los bienes, honorarios de comisionados especiales que no sean servidores públicos encargados de dichos procedimientos, así como los pagos de las reclamaciones procedentes que presenten los adquirentes o terceros, por pasivos ocultos, fiscales o de otra índole, activos inexistentes, asuntos en litigio y demás erogaciones análogas a las antes mencionadas o aquellas que determine la Ley de Ingresos de la Federación u otro ordenamiento aplicable, y el producto obtenido se destinará a financiar las operaciones del SAE.
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-Los recursos del fondo a que se refiere el primer párrafo de este artículo, así como los derivados de la venta de bienes abandonados, no podrán utilizarse para financiar transferencias deficitarias, a excepción de aquellos mandatos y demás operaciones que recibió el SAE del Fideicomiso Liquidador de Instituciones y Organizaciones Auxiliares de Crédito, con base en el artículo octavo transitorio del Decreto por el que se expide la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y se adiciona el Código Federal de Procedimientos Penales.
+En el caso de extinción de dominio, los remanentes del valor de los Bienes que resulten una vez aplicados los recursos federales correspondientes en términos de la legislación única en materia de extinción de dominio, se depositarán en una cuenta especial administrada por el Instituto.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+En el caso de bienes abandonados, una vez obtenidos los recursos por su venta, se descontarán los costos de administración, gastos de mantenimiento y conservación de los Bienes, honorarios de comisionados especiales que no sean servidores públicos encargados de dichos procedimientos, así como los pagos de las reclamaciones procedentes que presenten los adquirentes o terceros, por pasivos ocultos, fiscales o de otra índole, activos inexistentes, asuntos en litigio y demás erogaciones análogas a las antes mencionadas o aquellas que determine la Ley de Ingresos de la Federación para el ejercicio correspondiente u otro ordenamiento aplicable, y el producto obtenido se destinará a financiar las operaciones del Instituto.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+El Instituto, por sus actividades de administración, particularmente en el caso de procedimientos de desincorporación, liquidación, aseguramiento o análogos a éstos, no asumirá sustitución patronal alguna, no será garante, ni dispondrá de recursos públicos de su patrimonio para cubrir cualquier obligación.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Los recursos del fondo a que se refiere el primer párrafo de este artículo, así como los derivados de la venta de bienes abandonados, no podrán utilizarse para financiar transferencias deficitarias, a excepción de aquellos mandatos y demás operaciones que recibió el Instituto del Fideicomiso Liquidador de Instituciones y Organizaciones Auxiliares de Crédito, con base en el artículo octavo transitorio del Decreto por el que se expide la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y se adiciona el Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+###### Artículo 91.
+
+Los recursos obtenidos por la venta de los Bienes y activos decomisados serán depositados en una cuenta específica de conformidad a lo establecido en el artículo 89 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+###### Artículo 92.
+
+Corresponde al Gabinete Social de la Presidencia de la República la asignación y Transferencia de los Bienes a los que se refiere el párrafo cuarto del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como de los Bienes asegurados, abandonados y decomisados en los procedimientos penales federales, en los términos que disponga la legislación única en materia de extinción de dominio. Respecto de los Bienes decomisados, se deberá observar, además, lo previsto en el artículo 250 del Código Nacional de Procedimientos Penales.
+
+Los recursos obtenidos de la venta de los Bienes y activos respecto de los cuales se haya dictado la extinción de dominio o la Venta Anticipada, serán depositados, previo descuento de los gastos de administración y operación, en una cuenta específica de conformidad a lo establecido en el artículo 89 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+###### Artículo 93.
+
+De los recursos obtenidos de la venta de Bienes, activos o empresas, el Instituto deberá prever un Fondo de Reserva para restituir aquellos que ordene la autoridad judicial mediante sentencia firme, los cuales no podrán ser menores al diez por ciento del producto de la venta. En el caso de Bienes en proceso de extinción conforme a la Ley Nacional de Extinción de Dominio, la reserva no podrá ser menor al treinta por ciento del producto de la venta.
 
 ## Transitorios
 
@@ -1153,3 +1559,35 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 9 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO, Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY DE CONCURSOS MERCANTILES Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la entrada en vigor del presente Decreto, se abroga la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como las leyes de extinción de dominio de las Entidades Federativas, y se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. En un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, las Legislaturas de las Entidades Federativas deberán armonizar su legislación respectiva con el presente Decreto.
+
+Cuarto. Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y en la legislación de las Entidades Federativas, deberán concluirse y ejecutarse conforme a la legislación vigente al momento de su inicio; las sentencias dictadas con base en los ordenamientos que dejarán de tener vigencia a la entrada del presente Decreto surtirán todos sus efectos jurídicos. Las investigaciones en preparación de la acción de extinción de dominio deberán continuarse con la presente Ley.
+
+Quinto. Los recursos que actualmente administra el Servicio de Administración y Enajenación de Bienes en materia de extinción de dominio y aquellos que eventualmente reciba con motivo del inicio de la acción en términos de la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos que se abroga, continuarán bajo su administración y serán destinados a la cuenta especial a que se refiere el artículo 239 de la Ley Nacional de Extinción de Dominio, previa constitución del diez por ciento de estos recursos para el Fondo de Reserva a que se refiere el diverso 237, de dicho ordenamiento nacional.
+
+El producto de la venta de los Bienes en proceso de extinción o que hayan sido declarados extintos conforme a los procedimientos de la legislación vigente aplicable.
+
+Los recursos destinados o pendientes de destinarse al Fondo a que se refiere el artículo Segundo Transitorio del Decreto por el que se expide la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos; y se reforma y adiciona la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el veintinueve de mayo de dos mil nueve, serán transferidos a la cuenta especial.
+
+Sexto. El presente Decreto será aplicable para los procedimientos de preparación de la acción de extinción de dominio que se inicien a partir de su entrada en vigor, con independencia de que los supuestos para su procedencia hayan sucedido con anterioridad, siempre y cuando no se haya ejercido la acción de extinción de dominio.
+
+Séptimo. Todas las referencias que hagan mención al Servicio de Administración y Enajenación de Bienes en la normatividad vigente, se entenderán realizadas al Instituto de Administración de Bienes y Activos, por lo que las obligaciones a cargo de dicho organismo que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado para el ejercicio fiscal en curso, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto del organismo descentralizado, y en caso de que se realice alguna modificación a su estructura orgánica, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, los cuales serán cubiertos por el Instituto de Administración de Bienes y Activos a costo compensado, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
+
+Octavo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+Noveno. El Consejo de la Judicatura Federal contará con un plazo que no podrá exceder de seis meses contados a partir de la publicación del presente Decreto, para crear los juzgados competentes en materia de extinción de dominio a que se refiere la Ley Nacional de Extinción de Dominio, mientras tanto, serán competentes los jueces de distrito en materia civil y que no tengan jurisdicción especial, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura Federal, aplicando similares términos para el fuero común; debiendo utilizarse para el desahogo de las audiencias a que se refiere la Ley Nacional de Extinción de Dominio las salas existentes en los Centros de Justicia Federales y en los centros de justicia respectivos de las Entidades Federativas, en las que actualmente se desahogan las audiencias con la característica de oralidad.
+
+Décimo. El titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las adecuaciones correspondientes a las disposiciones reglamentarias respectivas.
+
+Décimo Primero. El Gabinete Social de la Presidencia de la República, por conducto de su Secretaría Técnica expedirá en los noventa días naturales posteriores a la entrada en vigor del presente Decreto, su reglamento interior.
+
+Décimo Segundo. Dentro del año siguiente a la entrada en vigor de la Ley Nacional de Extinción de Dominio, la persona titular de la Fiscalía General de la República, realizará una convocatoria pública para la revisión del marco constitucional y jurídico en materia de extinción de dominio. Dicha convocatoria tendrá como objetivo la identificación, discusión y formulación de las reformas constitucionales y de la Ley Nacional de Extinción de Dominio para su óptimo funcionamiento. Los resultados obtenidos serán públicos y se comunicarán al Congreso de la Unión con el fin de que éste realice las adecuaciones al marco jurídico que considere sean necesarias y pertinentes.
