@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-y-fomento-apicola-del-estado-de-quintana-9613
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-06"
-last_updated: "2019-05-29"
+last_updated: "2019-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2019.
 
 Ley publicada en Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 6 de septiembre de 2013.
 
@@ -98,6 +98,10 @@ c) Encolmenado: Que viven dentro de una colmena.
 IX.- ESTADO: Estado Libre y Soberano de Quintana Roo;
 
 X.- LEY: Ley de Protección y Fomento Apícola del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2019)</small>
+
+X. Bis.- MELIPONICULTURA: Se refiere a la cría y manejo de abejas meliponas o abejas sin aguijón.
 
 XI.- MIEL: Es la sustancia dulce natural producida por las abejas a partir del néctar de las flores o por otras partes vivas de las plantas, que las abejas recogen, transforman y combinan con sustancias específicas propias y almacenan en panales;
 
@@ -213,7 +217,13 @@ XVIII.- Promover acciones de coordinación con las autoridades competentes para 
 
 XIX.- Expedir los permisos correspondientes para la instalación de apiarios en los municipios, y
 
-XX.- Las demás que establezca el reglamento de la presente ley, así como las demás que le confieran otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2019)</small>
+
+XX.- Establecer los mecanismos conducentes para el fomento de la meliponicultura, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE AGOSTO DE 2019)</small>
+
+XXI.- Las demás que establezca el reglamento de la presente ley, así como las demás que le confieran otras disposiciones legales aplicables.
 
 ###### Artículo 11.
 
@@ -417,9 +427,15 @@ La Secretaría se coordinará con las autoridades de otras áreas productivas, p
 
 ### CAPÍTULO OCTAVO. DE LA PROTECCIÓN APÍCOLA
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 31.
 
-La Secretaría, en coordinación con el Comité, establecerá los programas permanentes para la cría de abejas reinas seleccionadas.
+La Secretaría, en coordinación con el Comité, establecerá los Programas Permanentes siguientes:
+
+I. Para la cría de abejas reinas seleccionadas, y
+
+II. De capacitación, investigación, difusión y financiamiento, con el fin de conservar y proteger los usos y costumbres de las comunidades mayas.
 
 ###### Artículo 32.
 
@@ -728,3 +744,11 @@ P.O. 29 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 323 POR EL QUE SE ADICIONA UN PARRAFO SEGUNDO AL ARTICULO 56 DE LA LEY DE PROTECCION Y FOMENTO APICOLA DEL ESTADO DE QUINTANA ROO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 9 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 343, POR EL QUE SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 10 Y EL ARTÍCULO 31; Y SE ADICIONA UNA FRACCIÓN X BIS AL ARTÍCULO 4 Y LA FRACCIÓN XXI AL ARTÍCULO 10, TODOS DE LA LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE QUINTANA ROO".]
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
