@@ -4,7 +4,7 @@ identifier: "LCM"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-12"
-last_updated: "2014-01-10"
+last_updated: "2019-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16134&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCM"
 
 LEY DE CONCURSOS MERCANTILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE AGOSTO DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 12 de mayo de 2000.
 
@@ -72,6 +72,14 @@ I. Acreedores Reconocidos, a aquéllos que adquieran tal carácter por virtud de
 
 II. Comerciante, a la persona física o moral que tenga ese carácter conforme al Código de Comercio. Este concepto comprende al patrimonio fideicomitido cuando se afecte a la realización de actividades empresariales. Igualmente, comprende a las sociedades mercantiles controladoras o controladas a que se refiere el artículo 15 de esta Ley;
 
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+El término podrá comprender igualmente a las empresas de participación estatal mayoritaria, cuando inicien procesos de desincorporación o extinción y sean administradas por el Instituto de Administración de Bienes y Activos.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+En ningún caso el Instituto de Administración de Bienes y Activos destinará recursos públicos al procedimiento concursal, salvo en los casos necesarios para conservación de los Bienes en términos de las disposiciones aplicables, y siempre y cuando cuente con los recursos para tal fin, además de la autorización previa del juez concursal que garantice que estos serán reconocidos como créditos contra la masa y se obtendrá su recuperación con la prelación que les corresponde, cumpliendo con el procedimiento que se establezca en la presente Ley;
+
 III. Domicilio, el domicilio social y en caso de irrealidad de éste, el lugar donde tenga la administración principal la empresa. En caso de sucursales de empresas extranjeras será el lugar donde se encuentre su establecimiento principal en la República Mexicana. Tratándose de Comerciante persona física, el establecimiento principal de su empresa y, en su defecto, en donde tenga su domicilio;
 
 > <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
@@ -93,6 +101,10 @@ VI. UDIs, a las Unidades de Inversión a las que se refiere el decreto publicado
 Los pequeños comerciantes sólo podrán ser declarados en concurso mercantil, cuando acepten someterse voluntariamente y por escrito a la aplicación de la presente Ley. Para efectos de esta Ley se entenderá como pequeño comerciante al Comerciante cuyas obligaciones vigentes y vencidas, en conjunto, no excedan el equivalente de 400 mil UDIs al momento de la solicitud o demanda.
 
 Las empresas de participación estatal constituidas como sociedades mercantiles podrán ser declaradas en concurso mercantil.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+Las empresas de participación estatal mayoritaria podrán ser declaradas en concurso mercantil.
 
 ###### Artículo 6o.
 
@@ -128,9 +140,17 @@ Será declarado en concurso mercantil, el Comerciante que incumpla generalizadam
 
 Se entenderá que un Comerciante incumplió generalizadamente en el pago de sus obligaciones cuando:
 
-I. El Comerciante solicite su declaración en concurso mercantil y se ubique en alguno de los supuestos consignados en las fracciones I o II del artículo siguiente, o
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
-II. Cualquier acreedor o el Ministerio Público hubiesen demandado la declaración de concurso mercantil del Comerciante y éste se ubique en los dos supuestos consignados en las fracciones I y II del artículo siguiente.
+I. El Comerciante solicite su declaración en concurso mercantil y se ubique en alguno de los supuestos consignados en las fracciones I o II del artículo siguiente;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+II. Cualquier acreedor o el Ministerio Público hubiesen demandado la declaración de concurso mercantil del Comerciante y éste se ubique en los dos supuestos consignados en las fracciones I y II del artículo siguiente, o
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+III. Cuando así lo determine el acuerdo de desincorporación o extinción de cualquier entidad paraestatal considerada en la Ley Federal de las Entidades Paraestatales.
 
 ###### Artículo 10.
 
@@ -318,9 +338,11 @@ El Comerciante podrá también solicitar el concurso mercantil, manifestando baj
 
 Se entenderá que el Comerciante caerá de manera inminente en los supuestos de incumplimiento generalizado en el pago de las obligaciones cuando se presuma que cualquiera de dichos supuestos se actualizará de manera inevitable dentro de los noventa días siguientes a la solicitud. En este caso, el Comerciante deberá realizar la solicitud de declaración de concurso mercantil conforme a lo previsto en el artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 21.
 
-Podrán demandar la declaración de concurso mercantil cualquier acreedor del Comerciante o el Ministerio Público.
+Podrán demandar la declaración de concurso mercantil cualquier acreedor del Comerciante, el Instituto de Administración de Bienes y Activos o el Ministerio Público.
 
 Si un juez, durante la tramitación de un juicio mercantil, advierte que un Comerciante se ubica en cualquiera de los supuestos de los artículos 10 u 11, procederá de oficio a hacerlo del conocimiento de las autoridades fiscales competentes y del Ministerio Público para que, en su caso, este último demande la declaración de concurso mercantil. Las autoridades fiscales sólo procederán a demandar el concurso mercantil de un Comerciante en su carácter de acreedores.
 
@@ -400,11 +422,11 @@ En caso de que la demanda la presente el Ministerio Público no se requerirá la
 
 El acreedor que demande la declaración de concurso mercantil de un Comerciante, podrá solicitar al juez la adopción de providencias precautorias o, en su caso, la modificación de las que se hubieren adoptado. La constitución, modificación o levantamiento de dichas providencias se regirán por lo dispuesto al efecto en el Código de Comercio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 26.
 
-Admitida la demanda de concurso mercantil, el juez mandará citar al Comerciante, corriéndole traslado con la demanda y sus anexos, concediéndole un término de nueve días para contestar, debiendo acompañar a su escrito de contestación la relación de acreedores que al efecto alude la fracción III del artículo 20 de la Ley. El Comerciante deberá ofrecer, en el escrito de contestación, las pruebas que esta Ley le autoriza.
+Admitida la demanda de concurso mercantil, el juez mandará citar al Comerciante, o al Instituto de Administración de Bienes y Activos, en el caso del párrafo segundo, fracción II, del artículo 4o., corriéndole traslado con la demanda y sus anexos, concediéndole un término de nueve días para contestar, debiendo acompañar a su escrito de contestación la relación de acreedores que al efecto alude la fracción III, del artículo 20 de la Ley. El Comerciante deberá ofrecer, en el escrito de contestación, las pruebas que esta Ley le autoriza.
 
 El juez, a solicitud del Comerciante, o de oficio, dictará las providencias precautorias que considere necesarias a fin de evitar que se ponga en riesgo la viabilidad de la empresa con motivo de la demanda o de otras que se presenten durante la visita, o que se agrave dicho riesgo, para lograr salvaguardar el interés público previsto en el artículo primero de la presente Ley.
 
@@ -689,6 +711,10 @@ La sentencia de revocación del concurso mercantil se notificará y publicará e
 ###### Artículo 54.
 
 El visitador, el conciliador y el síndico tendrán las obligaciones y facultades que expresamente les confiere esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2019)</small>
+
+En el caso al que se refiere el párrafo segundo, fracción II, del artículo 4o., las funciones de visitador, conciliador y síndico serán asumidas por el Instituto de Administración de Bienes y Activos.
 
 ###### Artículo 55.
 
@@ -3423,3 +3449,35 @@ X. La Junta de Gobierno del Instituto para la Protección al Ahorro Bancario exp
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen.
+
+D.O.F. 9 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO, Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO, DE LA LEY DE CONCURSOS MERCANTILES Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la entrada en vigor del presente Decreto, se abroga la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como las leyes de extinción de dominio de las Entidades Federativas, y se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. En un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, las Legislaturas de las Entidades Federativas deberán armonizar su legislación respectiva con el presente Decreto.
+
+Cuarto. Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y en la legislación de las Entidades Federativas, deberán concluirse y ejecutarse conforme a la legislación vigente al momento de su inicio; las sentencias dictadas con base en los ordenamientos que dejarán de tener vigencia a la entrada del presente Decreto surtirán todos sus efectos jurídicos. Las investigaciones en preparación de la acción de extinción de dominio deberán continuarse con la presente Ley.
+
+Quinto. Los recursos que actualmente administra el Servicio de Administración y Enajenación de Bienes en materia de extinción de dominio y aquellos que eventualmente reciba con motivo del inicio de la acción en términos de la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos que se abroga, continuarán bajo su administración y serán destinados a la cuenta especial a que se refiere el artículo 239 de la Ley Nacional de Extinción de Dominio, previa constitución del diez por ciento de estos recursos para el Fondo de Reserva a que se refiere el diverso 237, de dicho ordenamiento nacional.
+
+El producto de la venta de los Bienes en proceso de extinción o que hayan sido declarados extintos conforme a los procedimientos de la legislación vigente aplicable.
+
+Los recursos destinados o pendientes de destinarse al Fondo a que se refiere el artículo Segundo Transitorio del Decreto por el que se expide la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos; y se reforma y adiciona la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el veintinueve de mayo de dos mil nueve, serán transferidos a la cuenta especial.
+
+Sexto. El presente Decreto será aplicable para los procedimientos de preparación de la acción de extinción de dominio que se inicien a partir de su entrada en vigor, con independencia de que los supuestos para su procedencia hayan sucedido con anterioridad, siempre y cuando no se haya ejercido la acción de extinción de dominio.
+
+Séptimo. Todas las referencias que hagan mención al Servicio de Administración y Enajenación de Bienes en la normatividad vigente, se entenderán realizadas al Instituto de Administración de Bienes y Activos, por lo que las obligaciones a cargo de dicho organismo que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado para el ejercicio fiscal en curso, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto del organismo descentralizado, y en caso de que se realice alguna modificación a su estructura orgánica, ésta deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, los cuales serán cubiertos por el Instituto de Administración de Bienes y Activos a costo compensado, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
+
+Octavo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+Noveno. El Consejo de la Judicatura Federal contará con un plazo que no podrá exceder de seis meses contados a partir de la publicación del presente Decreto, para crear los juzgados competentes en materia de extinción de dominio a que se refiere la Ley Nacional de Extinción de Dominio, mientras tanto, serán competentes los jueces de distrito en materia civil y que no tengan jurisdicción especial, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura Federal, aplicando similares términos para el fuero común; debiendo utilizarse para el desahogo de las audiencias a que se refiere la Ley Nacional de Extinción de Dominio las salas existentes en los Centros de Justicia Federales y en los centros de justicia respectivos de las Entidades Federativas, en las que actualmente se desahogan las audiencias con la característica de oralidad.
+
+Décimo. El titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las adecuaciones correspondientes a las disposiciones reglamentarias respectivas.
+
+Décimo Primero. El Gabinete Social de la Presidencia de la República, por conducto de su Secretaría Técnica expedirá en los noventa días naturales posteriores a la entrada en vigor del presente Decreto, su reglamento interior.
+
+Décimo Segundo. Dentro del año siguiente a la entrada en vigor de la Ley Nacional de Extinción de Dominio, la persona titular de la Fiscalía General de la República, realizará una convocatoria pública para la revisión del marco constitucional y jurídico en materia de extinción de dominio. Dicha convocatoria tendrá como objetivo la identificación, discusión y formulación de las reformas constitucionales y de la Ley Nacional de Extinción de Dominio para su óptimo funcionamiento. Los resultados obtenidos serán públicos y se comunicarán al Congreso de la Unión con el fin de que éste realice las adecuaciones al marco jurídico que considere sean necesarias y pertinentes.
