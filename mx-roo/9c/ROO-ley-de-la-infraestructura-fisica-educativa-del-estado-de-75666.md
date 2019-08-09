@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-infraestructura-fisica-educativa-del-estado-de-75666"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-28"
-last_updated: "2010-06-28"
+last_updated: "2019-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DE LA INFRAESTRUCTURA FISICA EDUCATIVA DEL ESTADO DE QUINTANA ROO
 
-LEY DE LA INFRAESTRUCTURA FISICA EDUCATIVA DEL ESTADO DE QUINTANA ROO
+LEY DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2019.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 28 de junio de 2010.
 
@@ -193,6 +193,10 @@ XI. Coadyuvar con el Instituto Nacional de la Infraestructura Física Educativa 
 
 XII. Actuar como una instancia asesora del Sistema Estatal de Protección Civil para la prevención y auxilio en los casos de alertas, amenazas, emergencias, calamidades o riesgos que enfrente la infraestructura física educativa y la aplicación de acciones que contribuyan al restablecimiento de la normalidad en las instalaciones educativas ubicadas en las zonas afectadas por algún desastre;
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2019)</small>
+
+Asimismo, participará en los simulacros realizados en los planteles escolares del Estado en términos del párrafo anterior.
+
 XIII. Celebrar convenios de investigación, desarrollo e intercambio de tecnología en materia de infraestructura física educativa con organismos e instituciones académicas;
 
 XIV. Realizar actividades que tengan por objeto la investigación, la innovación, el desarrollo o el intercambio tecnológico en materia de infraestructura física educativa de sistemas constructivos y proyectos arquitectónicos, con el propósito de incorporar y promover técnicas, materiales, diseños y equipos de vanguardia, seguros, ecológicos, regionales y accesibles;
@@ -360,3 +364,11 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 LIC. EDUARDO OVANDO MARTINEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 341, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE QUINTANA ROO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO, EN MATERIA DE PROTECCIÓN CIVIL ESCOLAR”.]
+
+ÚNICO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
