@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-prevenir-atender-y-erradicar-la-violencia-entre-95023"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-19"
-last_updated: "2015-11-17"
+last_updated: "2019-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ENTRE ESTUDIANTES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2019.
 
 Ley publicada en el Número 46 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 19 de junio de 2013.
 
@@ -49,7 +49,9 @@ Las disposiciones de esta Ley son de orden público, interés social y observanc
 
 Para efectos de la presente Ley, se entenderá por:
 
-I. Comisión: La Comisión de Derechos Humanos del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2019)</small>
+
+I. Comisión: La Comisión de los Derechos Humanos del Estado de Quintana Roo;
 
 II. Comunidad educativa: La conformada por las y los estudiantes, así como por los maestros y maestras, directivos estudiantes, personal administrativo de las escuelas, padres y madres de familia y/o tutores;
 
@@ -63,9 +65,13 @@ VI. Discriminación entre estudiantes: Toda distinción, exclusión o restricci�
 
 VII. Estudiante: persona que curse sus estudios en los niveles básico y medio superior que se imparten en el Estado de Quintana Roo;
 
-VIII. Estudiante generador de violencia: Estudiante o estudiantes, que individual o conjuntamente infligen algún tipo de violencia o cooperen en su ejecución en cualquiera de sus tipos o modalidades mediante actos u omisiones anteriores, simultáneos o posteriores al hecho contra otra integrante o integrantes de la comunidad educativa;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2019)</small>
 
-IX. Estudiante receptor de violencia: Cualquier estudiante que sufra algún tipo de violencia por parte de un compañero o compañera de su comunidad educativa;
+VIII. Estudiante generador de violencia: Estudiante o estudiantes, que individual o conjuntamente infligen algún tipo de violencia o cooperen en su ejecución en cualquiera de sus tipos o modalidades, mediante actos u omisiones anteriores, simultáneos o posteriores al hecho contra otro estudiante o estudiantes realizado bajo el cuidado de las instituciones escolares;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2019)</small>
+
+IX. Estudiante receptor de violencia: Cualquier estudiante que sufra algún tipo de violencia por parte de otro estudiante de su comunidad educativa;
 
 X. Ley: Ley para Prevenir, Atender y Erradicar la Violencia entre Estudiantes del Estado de Quintana Roo;
 
@@ -73,25 +79,57 @@ XI. Medidas de prevención: Son aquellas que desde las competencias de las autor
 
 XII. Modelo Único de Atención Integral: El que establece el conjunto de procedimientos y mecanismos específicos que buscan prevenir y atender la violencia entre estudiantes;
 
-XIII. Prevención: Conjunto de acciones que deberán llevar a cabo las autoridades educativas, los padres de familia y/o tutores, para evitar la violencia entre estudiantes, atendiendo a los posibles factores de riesgos tanto sociales como culturales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2019)</small>
 
-XIV. Procuraduría del Estado: La Procuraduría General de Justicia del Estado de Quintana Roo;
+XIII. Persona Generadora de Violencia en el Entorno Escolar: El estudiante o estudiantes, personal docente, directivos escolares, personal administrativo de las escuelas, padres y madres de familia o tutores que, individual o conjuntamente, infringen algún tipo de violencia o cooperación en su ejecución en cualquiera de sus tipos o modalidades mediante actos u omisiones anteriores, simultáneos o posteriores al hecho contra otro integrante o integrantes de la comunidad educativa.
 
-XV. Programa: El Programa para la Prevención, Atención y Erradicación de la Violencia entre Estudiantes del Estado de Quintana Roo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2019)</small>
 
-XVI. Receptor indirecto de la violencia entre estudiantes: Los familiares del estudiante receptor de violencia entre estudiantes y/o personas que tengan o hayan tenido relación o convivencia con él mismo y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida entre estudiantes; se considerarán también a aquellos estudiantes que presencien la violencia que ejerce un compañero contra otro, en calidad de testigos;
+XIV. Persona receptora de violencia en el Entorno Escolar: El integrante de la comunidad educativa que sufra algún tipo de violencia en cualquiera de sus tipos o modalidades por parte de otro integrante o integrantes de la comunidad educativa;
 
-XVII. Registro Estatal para el Control de la Violencia entre Estudiantes: La compilación detallada de la incidencia de la violencia entre estudiantes en el Estado, que realizará la Secretaría de Educación, mismo que deberá contemplar la información que le señale el Reglamento de la presente ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE AGOSTO DE 2019)</small>
 
-XVIII. Reglamento: Reglamento de la Ley para Prevenir, Atender y Erradicar la Violencia entre Estudiantes del Estado de Quintana Roo;
+XV. Prevención: Conjunto de acciones que deberán llevar a cabo las autoridades educativas, los padres de familia y/o tutores, para evitar la violencia entre estudiantes, atendiendo a los posibles factores de riesgos tanto sociales como culturales;
 
-XIX. La Secretaría de Educación: La Secretaría de Educación del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2019)</small>
 
-XX. Secretaría de Salud: La Secretaría de Salud del Estado de Quintana Roo;
+XVI. Fiscalía del Estado: La Fiscalía General del Estado de Quintana Roo;
 
-XXI. Secretaría de Seguridad Pública: La Secretaría de Seguridad Pública del Estado de Quintana Roo; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE AGOSTO DE 2019)</small>
 
-XXII. Sistema para el Desarrollo Integral de la Familia: El Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo.
+XVII. Programa: El Programa para la Prevención, Atención y Erradicación de la Violencia entre Estudiantes del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2019)</small>
+
+XVIII. Receptor Indirecto de la Violencia entre Estudiantes: Los familiares del estudiante receptor de violencia entre estudiantes y/o personas que tengan o hayan tenido relación o convivencia con él mismo y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida entre estudiantes; se considerarán también a aquellos estudiantes que presencien la violencia que ejerce un estudiante contra otro, en calidad de testigos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2019)</small>
+
+XIX. Receptor Indirecto de la Violencia en el Entorno Escolar. Los familiares y en su caso tutores de la persona receptora de la violencia de la comunidad educativa; las personas que tengan o hayan tenido relación o convivencia con aquella y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida en el entorno escolar; se considerarán también a aquellas personas que presencien la violencia que ejerce un integrante contra otro integrante de la comunidad educativa, en calidad de testigos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE AGOSTO DE 2019)</small>
+
+XX. Registro Estatal para el Control de la Violencia entre Estudiantes: La compilación detallada de la incidencia de la violencia entre estudiantes en el Estado, que realizará la Secretaría de Educación, mismo que deberá contemplar la información que le señale el Reglamento de la presente ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE AGOSTO DE 2019)</small>
+
+XXI. Reglamento: Reglamento de la Ley para Prevenir, Atender y Erradicar la Violencia entre Estudiantes del Estado de Quintana Roo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE AGOSTO DE 2019)</small>
+
+XXII. La Secretaría de Educación: La Secretaría de Educación del Estado de Quintana Roo;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE AGOSTO DE 2019)</small>
+
+XXIII. Secretaría de Salud: La Secretaría de Salud del Estado de Quintana Roo;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE AGOSTO DE 2019)</small>
+
+XXIV. Secretaría de Seguridad Pública: La Secretaría de Seguridad Pública del Estado de Quintana Roo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE AGOSTO DE 2019)</small>
+
+XXV. Sistema para el Desarrollo Integral de la Familia: El Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo.
 
 ###### Artículo 3.
 
@@ -153,9 +191,11 @@ En todo lo no previsto por la presente Ley, se observarán las disposiciones nor
 
 ### CAPÍTULO II. DE LA VIOLENCIA ENTRE ESTUDIANTES Y SUS TIPOS
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 6.
 
-Se considera violencia entre estudiantes, todas aquellas conductas de maltrato, intimidación y discriminación que se presenten al interior de una comunidad educativa, así como las acciones negativas y/o actos violentos de tipo físico, verbales, sexuales, psicoemocionales o a través de los medios tecnológicos, que ocurren dos o más veces, y que tienen como intención causar daño, al herir, amenazar o discriminar por parte de uno o varios estudiantes a otro en el entorno escolar.
+Se considera violencia entre estudiantes, todos aquellos actos u omisiones que de manera reiterada agreda (sic) física, psicoemocional, patrimonial o sexual a una niña, niño o adolescente, que se presentan al interior y bajo el cuidado de las instituciones escolares, sean públicas o privadas.
 
 ###### Artículo 7.
 
@@ -191,7 +231,9 @@ V. Recibir información, atención y acompañamiento médico y psicológico de p
 
 VI. Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia;
 
-VII. A ser canalizados a la Procuraduría del Estado, Secretaría de Educación, Secretaría de Salud, Secretaría de Seguridad Pública, Comisión de Derechos Humanos y al Sistema para el Desarrollo Integral de la Familia, para su atención oportuna, según sean las circunstancias y las necesidades de cada caso; y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2019)</small>
+
+VII. A ser canalizados a la Fiscalía del Estado, Secretaría de Educación, Secretaría de Salud, Secretaría de Seguridad Pública, Comisión de los Derechos Humanos y al Sistema para el Desarrollo Integral de la Familia, para su atención oportuna, según sean las circunstancias y las necesidades de cada caso, y
 
 VIII. En caso de riesgo grave, a que se dicten medidas cautelares tendientes a salvaguardar su integrad física y asegurar su derecho a la vida, integridad y dignidad.
 
@@ -227,13 +269,17 @@ b) La Secretaría de Salud del Estado de Quintana Roo;
 
 c) La Secretaría de Seguridad Pública del Estado de Quintana Roo;
 
-d) La Procuraduría General de Justicia del Estado de Quintana Roo;
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2019)</small>
+
+d) La Fiscalía General del Estado de Quintana Roo.
 
 II. El Poder Judicial, por conducto del Tribunal Unitario para Adolescentes.
 
 III. El Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo;
 
-IV. La Comisión de Derechos Humanos del Estado de Quintana Roo; y
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2019)</small>
+
+IV. La Comisión de los Derechos Humanos del Estado de Quintana Roo; y
 
 V. Los Ayuntamientos del Estado de Quintana Roo.
 
@@ -271,7 +317,9 @@ XIII. Implementar una encuesta anual dirigida a estudiantes, personal docente, d
 
 XIV. Impulsar, conjuntamente con las autoridades respectivas, la capacitación sobre el conocimiento, prevención, combate y erradicación de la violencia en el entorno escolar al personal docente, directivos escolares, personal administrativo de las escuelas, padres y madres de familia o tutores de instituciones educativas públicas y privadas y, a las personas que voluntariamente deseen recibirla;
 
-XV. Realizar en coordinación con la Comisión de Derechos Humanos, Secretaría de Seguridad Pública, Procuraduría del Estado, Sistema para el Desarrollo Integral de la Familia y la Secretaría de Salud, diplomados, cursos, talleres, conferencias, mesas redondas, actividades extraescolares, ejercicios, dinámicas, medios audiovisuales y cualquier otra actividad, dirigidos a los estudiantes, padres de familia y personal escolar del centro educativo, con la finalidad de propiciar la prevención, combate y erradicación de la violencia en el entorno escolar;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2019)</small>
+
+XV. Realizar en coordinación con la Comisión de los Derechos Humanos, Secretaría de Seguridad Pública, Fiscalía General del Estado, Sistema para el Desarrollo Integral de la Familia y la Secretaría de Salud, diplomados, cursos, talleres, conferencias, mesas redondas, actividades extraescolares, ejercicios, dinámicas, medios audiovisuales y cualquier otra actividad, dirigidos a los estudiantes, padres de familia y personal escolar del centro educativo, con la finalidad de propiciar la prevención, combate y erradicación de la violencia en el entorno escolar;
 
 XVI. Diseñar e instrumentar estrategias educativas tendientes a la generación de ambientes basados en una cultura de paz, prevención de la violencia, fortalecimiento de la cohesión comunitaria educativa y convivencia armónica dentro de los centros educativos del Estado;
 
@@ -325,11 +373,15 @@ IV. Brindar apoyo a los centros educativos, a fin de vigilar y prevenir conducta
 
 V. Las demás que le señale esta Ley, su Reglamento y demás disposiciones legales aplicables.
 
-### CAPÍTULO V. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2019)</small>
+
+### CAPÍTULO V. DE LA FISCALÍA GENERAL DEL ESTADO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 14.
 
-Corresponde a la Procuraduría General de Justicia del Estado:
+Corresponde a la Fiscalía General del Estado:
 
 I. Elaborar e instrumentar acciones de política de prevención social que incidan en la prevención de la violencia entre estudiantes, dando prioridad a las zonas de mayor incidencia;
 
@@ -367,11 +419,15 @@ IV. Coordinar y promover campañas de información sobre los tipos y modalidades
 
 V. Las demás que le señale esta Ley, su reglamento y demás disposiciones legales aplicables.
 
-### CAPÍTULO VII. DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2019)</small>
+
+### CAPÍTULO VII. DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 16.
 
-Corresponde a la Comisión de Derechos Humanos del Estado:
+Corresponde a la Comisión de los Derechos Humanos del Estado:
 
 I. Recibir, conocer, investigar y en su caso, formular recomendaciones públicas, a las quejas recibidas por presuntas situaciones de violencia en el entorno escolar, por parte de servidores públicos de las instituciones educativas establecidas en el Estado;
 
@@ -439,9 +495,11 @@ Las instituciones públicas y privadas que presten servicios educativos en el Es
 
 ### CAPÍTULO II. DE LA ATENCIÓN DE LA VIOLENCIA ENTRE ESTUDIANTES
 
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 21.
 
-La atención en materia de violencia entres las y los estudiantes se llevará a través de servicios psicológicos, médicos y jurídicos que permitan a todos los involucrados en una situación de violencia entre estudiantes desarrollar las habilidades psicosociales para reparar las experiencias de violencia vividas, fomentando el empoderamiento de las y los estudiantes receptores de violencia y entre las y los estudiantes generadores de violencia, la modificación de actitudes y comportamientos en quien violenta y el cambio en los patrones de convivencia de los integrantes de las comunidades educativas de los centros escolares involucrados. La atención médica y psicológica será brindada por la Secretaria de Salud; la atención jurídica será brindada de acuerdo a las circunstancias, por la Procuraduría del Estado y la Comisión de Derechos Humanos.
+La atención en materia de violencia entre las y los estudiantes se llevará a través de servicios psicológicos, médicos y jurídicos que permitan a todos los involucrados en una situación de violencia entre estudiantes desarrollar las habilidades psicosociales para reparar las experiencias de violencia vividas, fomentando el empoderamiento de las y los estudiantes receptores de violencia y entre las y los estudiantes generadores de violencia, la modificación de actitudes y comportamientos en quien violenta y el cambio en los patrones de convivencia de los estudiantes de las comunidades educativas de los centros escolares involucrados. La atención médica y psicológica será brindada por la Secretaria de Salud; la atención jurídica será brindada de acuerdo a las circunstancias, por la Fiscalía General del Estado y la Comisión de los Derechos Humanos.
 
 ###### Artículo 22.
 
@@ -521,7 +579,9 @@ II. El Titular de la Secretaría de Salud del Estado, vocal;
 
 III. El Titular de la Secretaría de Seguridad Pública del Estado, vocal;
 
-IV. El Titular de la Procuraduría General de Justicia del Estado, vocal;
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2019)</small>
+
+IV. El Titular de la Fiscalía General del Estado, vocal;
 
 V. El Director General del Sistema para el Desarrollo Integral de la Familia del Estado, vocal;
 
@@ -856,3 +916,11 @@ P.O. 17 DE NOVIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 340, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ENTRE ESTUDIANTES DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan al presente Decreto.
