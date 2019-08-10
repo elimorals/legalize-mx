@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2019-07-11"
+last_updated: "2019-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección II al Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
@@ -55,9 +55,11 @@ Las políticas de desarrollo rural sustentable en el Estado, serán congruentes 
 
 Las políticas de desarrollo rural sustentable en el Estado estarán encausadas atendiendo al principio de corresponsabilidad de la comunidad y gobierno, por lo que deberá estimularse la participación ciudadana en los actos que signifiquen bienestar para su propia comunidad.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 5.
 
-Para el desarrollo rural sustentable del Estado, se tomará como base la división territorial que realice el Comité de Planeación para el Desarrollo del Estado de Jalisco, de acuerdo a las disposiciones relativas de la Ley de Planeación para el Estado de Jalisco y sus Municipios.
+Para el desarrollo rural sustentable del Estado, se tomará como base la división territorial que realice el Consejo de Participación y Planeación para el Desarrollo del Estado de Jalisco, de acuerdo a las disposiciones relativas de la Ley de Planeación Participativa para el Estado de Jalisco y sus Municipios.
 
 ###### Artículo 6.
 
@@ -117,7 +119,9 @@ XX. Programa Especial Concurrente. El programa Especial Concurrente para el Desa
 
 XXI. Programas Sectoriales. Los programas específicos del Gobierno Estatal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del Desarrollo Rural Sustentable;
 
-XXII. Secretaría. La Secretaría de Desarrollo Rural del Gobierno del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+XXII. Secretaría. La Secretaría de Agricultura y Desarrollo Rural del Gobierno del Estado de Jalisco;
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
 
@@ -155,7 +159,9 @@ XXX. Jornalero Agrícola. Toda persona que percibe un salario por su fuerza de t
 
 La aplicación de esta ley, en coordinación con la federación, corresponde:
 
-I. Al Titular del Ejecutivo del Estado a través de la Secretaría de Desarrollo Rural; y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+I. Al Titular del Ejecutivo del Estado a través de la Secretaría de Agricultura y Desarrollo Rural; y
 
 II. A los Ayuntamientos.
 
@@ -187,9 +193,13 @@ En contra de los actos o resoluciones que se dicten en los términos de esta ley
 
 La planeación, programación y evaluación del Desarrollo Rural Sustentable se realizará conforme a:
 
-I. La Ley de Planeación del Estado;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-II. La Ley de Fomento Económico del Estado;
+I. La Ley de Planeación Participativa para el Estado de Jalisco y sus Municipios;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+II. La Ley para el Desarrollo Económico del Estado de Jalisco;
 
 III. Los programas sectoriales, especiales y el concurrente;
 
@@ -275,7 +285,9 @@ El Programa para el Desarrollo Rural Sustentable, es el instrumento rector de la
 
 Dicho programa se elaborará a partir de matrices de indicadores para resultados, durante el mes de septiembre de cada año y estará listo para su aplicación en enero del año siguiente.
 
-Cuando en el transcurso de su vigencia sea necesario modificar el Programa para el Desarrollo Rural Sustentable, se ajustará al procedimiento señalado en la Ley de Planeación para el Estado de Jalisco.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
+Cuando en el transcurso de su vigencia sea necesario modificar el Programa para el Desarrollo Rural Sustentable, se ajustará al procedimiento señalado en la Ley de Planeación Participativa para el Estado de Jalisco y sus Municipios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2017)</small>
 
@@ -313,21 +325,29 @@ b) Los programas sectoriales se coordinarán y darán congruencia a las acciones
 
 c) Los programas sectoriales, concurrentes y los que se implementen, considerarán las propuestas de las organizaciones y agentes productivos que operen y tengan representación formal en la entidad, y se integrarán al programa los compromisos derivados de convenios o acuerdos formales o establecidos con el Gobierno Federal y Municipal.
 
-## TITULO TERCERO. Distribución de competencias y coordinación
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 2019)</small>
 
-### Capítulo I. De la Secretaría de Desarrollo Rural
+## TÍTULO TERCERO. Distribución de Competencias y Coordinación
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 2019)</small>
+
+### Capítulo I. De la Secretaría de Agricultura y Desarrollo Rural
 
 ###### Artículo 21.
 
 El Gobierno del Estado a través de la Secretaría, impulsará los programas de fomento agropecuario y de Desarrollo Rural Sustentable, con la colaboración del Consejo Estatal y los organismos e instancias de representación de los diversos agentes y actores de la sociedad rural.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 22.
 
-La Secretaría tendrá, además de las señaladas en la Ley Orgánica del Poder Ejecutivo, las siguientes atribuciones:
+La Secretaría tendrá, además de las señaladas en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, las siguientes atribuciones:
 
 I. Formular y conducir la política estatal de desarrollo rural sustentable en congruencia con la de la federación;
 
-II. Implementar las acciones y los programas previstos en esta Ley, en el Plan Estatal de Desarrollo con la participación de los municipios;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+II. Implementar las acciones y los programas previstos en esta Ley, en el Plan Estatal de Desarrollo y Gobernanza con la participación de los municipios;
 
 III. Proponer al Titular del Ejecutivo la celebración de convenios en la materia con la Federación, los Ayuntamientos, así como con otras instituciones públicas, personas físicas o jurídicas de los sectores social y privado;
 
@@ -437,7 +457,9 @@ La Comisión Intersecretarial coordinará la participación de las diversas depe
 
 La Comisión Intersecretarial estará integrada por los titulares de las siguientes dependencias del Gobierno del Estado:
 
-I. Secretaría de Desarrollo Rural;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+I. Secretaría de Agricultura y Desarrollo Rural;
 
 II. Secretaría General de Gobierno;
 
@@ -445,31 +467,53 @@ II. Secretaría General de Gobierno;
 
 III. Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2019)</small>
 
-IV. Secretaría de Planeación, Administración y Finanzas;
+IV. Secretaría de la Hacienda Pública;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2019)</small>
 
-V. Secretaría de Desarrollo e Integración Social;
+V. Secretaría de Administración;
 
-VI. Secretaría del Trabajo y Previsión Social;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-VII. Secretaría de Salud;
+VI. Secretaría de Planeación y Participación Ciudadana;
 
-VIII. Secretaría de Educación;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2014)</small>
+VII. Secretaría del Sistema de Asistencia Social;
 
-IX. Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+VIII. Secretaría del Trabajo y Previsión Social;
 
-X. El Director de la Unidad Estatal de Protección Civil y Bomberos; y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-XI. Los demás organismos y dependencias estatales y federales que se consideren necesarias.
+IX. Secretaria de Salud;
 
-El titular de la secretaria de Desarrollo Rural, presidirá la comisión.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+X. Secretaria de Educación;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+XI. Secretaría de Desarrollo Económico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XII. Secretaría de Igualdad Sustantiva entre Mujeres y Hombres;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+XIII. El Director de la Unidad Estatal de Protección Civil y Bomberos; y
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+XIV. Los demás organismos y dependencias estatales y federales que se consideren necesarias.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
+El titular de la Secretaría de Agricultura y Desarrollo Rural presidirá la comisión.
 
 Cada uno de los integrantes de la Comisión Intersecretarial, nombrará un representante suplente, que será el funcionario que tenga mayor relación con actividades y aspectos del desarrollo rural.
 
@@ -813,7 +857,9 @@ En los programas, recursos y acciones que se orienten a la infraestructura y equ
 
 Con el objeto de otorgar certeza y seguridad jurídica a los productores rurales, la Secretaría proporcionará, en la medida de las posibilidades institucionales, asesoría técnica y orientación jurídica en la realización de negocios conexos a la actividad productiva del medio rural para la prevención de afectaciones patrimoniales en contra de los productores; derivándolos, en su caso, a las autoridades competentes.
 
-La asesoría que otorgue la Secretaría no implica la aceptación obligada del productor, ya que éste será el responsable de su decisión; salvo aquellas que se deriven de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
+La asesoría que otorgue la Secretaría no implica la aceptación obligada del productor, ya que éste será el responsable de su decisión; salvo aquellas que se deriven de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 ## TITULO QUINTO. Del Impulso a la Formación y Consolidación de las Empresas Agropecuarias
 
@@ -991,9 +1037,11 @@ IV. Actuar como árbitro, conciliador o mediador, a solicitud de las partes, en 
 
 ### Capítulo V. Del Financiamiento Rural
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 87.
 
-El Ejecutivo del Estado, promoverá una partida presupuestal a través del Comité de Planeación para el Estado de Jalisco COPLADE, para el apoyo a programas productivos para el desarrollo rural.
+El Ejecutivo del Estado, promoverá una partida presupuestal a través del Consejo de Participación y Planeación para el Desarrollo del Estado de Jalisco, para el apoyo a programas productivos para el desarrollo rural.
 
 ###### Artículo 88.
 
@@ -1375,11 +1423,13 @@ Las políticas y programas de fomento a la producción agropecuaria atenderán p
 
 En atención al criterio de sustentabilidad, el Gobierno del Estado en coordinación con el Gobierno Federal promoverá la reestructuración de unidades de producción rural en el marco previsto por la legislación aplicable en la materia, con objeto de que el tamaño de las unidades productivas resultantes, permita una explotación rentable mediante la utilización de técnicas productivas adecuadas a la conservación de los recursos naturales, conforme a la aptitud de los suelos y a consideraciones de mercado.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 140.
 
-Los núcleos agrarios, los pueblos indígenas y los propietarios podrán realizar las acciones que se admitan en los términos de la presente Ley, la de Equilibrio Ecológico y Protección Ambiental, la Ley Federal de Vida Silvestre y toda la normatividad aplicable sobre el uso, extracción, aprovechamiento y apropiación de la biodiversidad y los recursos naturales.
+Los núcleos agrarios, los pueblos indígenas y los propietarios podrán realizar las acciones que se admitan en los términos de la presente Ley, de las leyes general y estatal en materia de equilibrio ecológico y la protección al ambiente, la Ley General de Vida Silvestre y toda la normatividad aplicable sobre el uso, extracción, aprovechamiento y apropiación de la biodiversidad y los recursos naturales.
 
-La Comisión Intersecretarial, con la participación del Consejo Estatal, establecerá las recomendaciones y medidas necesarias para garantizar la integridad del patrimonio de biodiversidad estatal, incluidos los organismos generados en condiciones naturales y bajo cultivo por los productores, así como la defensa, que la Ley Federal de Propiedad Intelectual marca para los derechos de propiedad intelectual de los Pueblos Indígenas y sociedad rural.
+La Comisión Intersecretarial, con la participación del Consejo Estatal, establecerá las recomendaciones y medidas necesarias para garantizar la integridad del patrimonio de biodiversidad estatal, incluidos los organismos generados en condiciones naturales y bajo cultivo por los productores, así como la defensa, que la legislación en materia de propiedad intelectual marca en favor de los derechos de los Pueblos Indígenas y sociedad rural.
 
 ### Capítulo IV. De la Seguridad y Soberanía Alimentaria
 
@@ -1535,8 +1585,14 @@ P.O. 5 DE DICIEMBRE DE 2018.
 
 P.O. 11 DE JULIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 27283/LXII/19 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS A LA LEY ORGÁNICA DEL PODER EJECUTIVO Y LA LEY DE DESARROLLO RURAL SUSTENTABLE AMBAS DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27283/LXII/19 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS A LA LEY ORGÁNICA DEL PODER EJECUTIVO Y LA LEY DE DESARROLLO RURAL SUSTENTABLE AMBAS DEL ESTADO DE JALISCO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. La Secretaría del Trabajo y Previsión Social tendrá 180 días naturales para elaborar y presentar a los municipios el Convenio de Colaboración
+
+P.O. 10 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27300/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
