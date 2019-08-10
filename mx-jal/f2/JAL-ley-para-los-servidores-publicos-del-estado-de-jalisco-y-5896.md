@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2019-07-11"
+last_updated: "2019-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -755,7 +755,7 @@ III. A los que tengan más de diez años de servicio, hasta 120 días con goce d
 
 Los cómputos deberán hacerse por servicios continuos o cuando, de existir una interrupción en la prestación de dichos servicios ésta no sea mayor de seis meses.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
 Las licencias podrán dividirse o fragmentarse durante el lapso de un año, de acuerdo a las necesidades médicas del servidor público.
 
@@ -1009,7 +1009,7 @@ Los servicios de salud otorgados en los términos de la presente ley, deberán p
 
 Los gastos del otorgamiento de los servicios de salud, sea cual fuere la forma que se elija, correrán a cargo del erario público, pero por ningún motivo se contratarán pólizas con pacto de reembolso a favor de los servidores públicos asegurados.
 
-Cuando deba operar un reembolso con motivo de la suscripción de un contrato de seguro, aquél siempre será en beneficio del erario público.
+Cuando deba operar un reembolso con motivo de la suscripción de un contrato de seguro, aquel siempre será en beneficio del erario público.
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
@@ -1397,7 +1397,7 @@ Los servidores públicos, que por su conducta o falta de solidaridad fueran expu
 
 ###### Art. 79.
 
-Los directivos sindicales designados por elección directa de los miembros de la organización, durará en su cargo por el término que fijen sus propios estatutos.
+Los directivos sindicales designados por elección directa de los miembros de la organización, durará (sic) en su cargo por el término que fijen sus propios estatutos.
 
 ###### Art. 80.
 
@@ -1597,7 +1597,7 @@ V. Por desistimiento.
 
 ###### Art. 105.
 
-Las acciones que nazcan de esa ley, o del nombramiento expedido en favor de los servidores públicos prescribirán en un año, con excepción de los casos señalados en los artículos siguientes.
+Las acciones que nazcan de esa ley o del nombramiento expedido en favor de los servidores públicos prescribirán en un año, con excepción de los casos señalados en los artículos siguientes.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -2237,9 +2237,9 @@ Los servidores públicos de base se regirán por el Reglamento de Escalafón res
 
 Los servidores públicos incorporados a los Servicios de Salud Jalisco y a la Secretaría de Educación del Estado, que cuenten con un sistema propio de profesionalización y desarrollo, se regirán por sus reglamentos y normas de operación respectivos.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
 
-Los servidores públicos de la Fiscalía General del Estado y los elementos de la Policía Investigadora, en cuestión de promoción, ascenso y capacitación especializada, se regirán por lo establecido en la Ley Orgánica de la Fiscalía General del Estado de Jalisco y su reglamento.
+Los servidores públicos de la Fiscalía Estatal y los elementos de la Policía Investigadora, en cuestión de promoción, ascenso y capacitación especializada, se regirán por lo establecido en la Ley Orgánica de la Fiscalía General del Estado de Jalisco y su reglamento.
 
 Los elementos de los cuerpos de seguridad pública del Estado y municipios que cuenten con reglamentos y programas en materia de promoción, ascenso y capacitación especializada, se regirán, en su caso, por lo establecido en los mismos.
 
@@ -2323,13 +2323,13 @@ II. Tomar los acuerdos que sean necesarios para la consecución de los fines del
 
 III. Autorizar la creación de subcomisiones de apoyo;
 
-IV. Proponer al Titular de la Entidad Pública modificaciones al Reglamento Interno;
+IV. Validar los resultados de los exámenes de admisión, concursos de oposición y solicitudes de promoción remitidos por el Organo de Administración Interna, previo a su publicidad y ejecución;
 
-V. Crear el Reglamento Interno; y
+V. Proponer al Titular de la Entidad Pública modificaciones al Reglamento Interno;
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
-VI. Las demás que establezca esta Ley, los Reglamentos Internos correspondientes y las políticas administrativas a que se refiere el Capítulo III del presente Título.
+VI. Las demás que establezca esta Ley, los Reglamentos Internos correspondientes y las políticas administrativas a que se refiere el Capítulo III del Presente Título.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -2545,11 +2545,17 @@ Se entiende por separación el acto voluntario u obligatorio por el que se deja 
 
 Para los efectos del artículo anterior, se consideran causas de separación del Servicio, las siguientes:
 
-I. La solicitud expresa del servidor público; y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-II. El cese del servicio público por causa justificada o si fuere sancionado en los términos del artículo 64 Fracciones IV y V de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+I. La solicitud expresa del servidor público;
 
-Si al servidor público le fuera aplicada diversa sanción de las previstas en el artículo 64 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, su incorporación al Servicio quedará condicionado al dictamen de la Comisión, considerando la gravedad de la falta y la afectación a la administración pública.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+II. La destitución, en los términos de la Ley General de Responsabilidades Administrativas o de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+III. El cese justificado del servidor público, de conformidad con esta ley.
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
@@ -2934,3 +2940,15 @@ P.O. 11 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27293/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 152 Y 153 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 10 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27301/LXII/19 QUE REFORMA LOS ARTÍCULOS 10 Y 149 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 2, 15, 18, 20, 21, 22 Y 24 DE LA LEY DE INCOMPATIBILIDADES PARA LOS SERVIDORES PÚBLICOS REGLAMENTARIA DEL ARTÍCULO 112 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO; SE REFORMA 34 Y 52 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 158 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; SE REFORMAN LOS ARTÍCULOS 47 Y 108 DE LA LEY PARA EL EJERCICIO DE ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 10 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27302/LXII/19 QUE REFORMA EL ARTÍCULO 189 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
