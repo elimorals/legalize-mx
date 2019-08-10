@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-mejora-regulatoria-del-estado-de-chihuahua-109400"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-08"
-last_updated: "2016-10-03"
+last_updated: "2019-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE MEJORA REGULATORIA DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 10 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 10 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE MEJORA REGULATORIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2019 (ABROGADA).
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 8 de agosto de 2015.
 
@@ -842,3 +842,65 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 10 DE AGOSTO DE 2019
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE MEJORA REGULATORIA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Mejora Regulatoria del Estado de Chihuahua publicada en el Periódico Oficial del Estado No. 63 el 8 de agosto de 2015.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones normativas vigentes, que no se contrapongan a lo dispuesto por la Ley General de Mejora Regulatoria, continuarán surtiendo sus efectos.
+
+###### ARTÍCULO CUARTO.
+
+Los Sujetos Obligados darán cumplimiento a las obligaciones establecidas en la presente Ley con cargo a sus respectivos presupuestos.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo expedirá los lineamientos del Catálogo, a propuesta de la Comisión Estatal, en un plazo que no exceda de ciento ochenta días hábiles después de la publicación de la Estrategia. Hasta en tanto se emitan dichos lineamientos, seguirán aplicándose las disposiciones reglamentarias que en su caso se encontraran vigentes en todo aquello que no la contravengan. La falta de cumplimiento del presente artículo se sancionará de conformidad con la Ley General de Responsabilidades Administrativas.
+
+###### ARTÍCULO SEXTO.
+
+Los Sujetos Obligados de la Administración Pública Estatal y Municipal elaborarán y enviarán a la Autoridad de Mejora Regulatoria su respectivo Programa de Mejora Regulatoria, en un término de un año posterior a la instalación formal de la Autoridad de Mejora Regulatoria.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Comisión Estatal deberá presentar al Consejo Estatal la Estrategia Estatal, dentro de los noventa días hábiles posteriores a la publicación de la Estrategia.
+
+###### ARTÍCULO OCTAVO.
+
+El Consejo Estatal de Mejora Regulatoria deberá instalarse formalmente en un plazo de noventa días hábiles siguientes a la entrada en vigor de la Ley emitida mediante el presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Todos los asuntos pendientes de resolución en materia de Mejora Regulatoria, pasarán a la Comisión Estatal, una vez que esta se haya instalado.
+
+###### ARTÍCULO DÉCIMO.
+
+La Comisión Estatal publicará los lineamientos conforme lo establecido en el artículo 87 de la Ley, dentro de un plazo que no exceda de un año contado a partir de la entrada en vigor de los lineamientos de la Comisión Nacional, de al menos los siguientes programas:
+
+I. Sistema de Apertura Rápida de Empresas.
+
+II. Programa de Reconocimiento y Operación del Sistema de Apertura Rápida de Empresas.
+
+III. Programa de Simplificación de cargas administrativas.
+
+IV. Ventanilla de Construcción Simplificada.
+
+V. Método Económico y Jurídico de Reforma Administrativa.
+
+VI. Programa Nacional de Juicios Orales Mercantiles, en coordinación con las autoridades competentes.
+
+VII. Programa de Reforma a Sectores Prioritarios, en coordinación con las autoridades competentes.
+
+###### ARTÍCULO UNDÉCIMO.
+
+El Catálogo iniciará su funcionamiento al año siguiente de inicio de la actividad del Catálogo Nacional. Para los Sujetos Obligados del orden Municipal, iniciará a los dos años siguientes a la entrada en funcionamiento de la herramienta nacional.
