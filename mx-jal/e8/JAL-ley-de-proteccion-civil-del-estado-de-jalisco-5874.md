@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-civil-del-estado-de-jalisco-5874"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2019-07-11"
+last_updated: "2019-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 10 de julio de 1993.
 
@@ -101,69 +101,137 @@ XI. Atlas de Riesgos: documento que establece los peligros y estudios de vulnera
 
 XII. Auxilio: al conjunto de acciones destinadas primordialmente a rescatar y salvaguardar la integridad física de las personas, sus bienes y el medio ambiente;
 
-XIII. Castillería pirotécnica: artificios pirotécnicos que por sus riesgos; su uso, venta, transporte, almacenamiento y exhibición quedan reservados a los profesionales de la pirotecnia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2019)</small>
 
-XIV. Consultor: persona experta en la materia de protección civil con capacidad debidamente acreditada ante la Unidad Estatal de Protección Civil y Bomberos o la Unidad Municipal conforme a la competencia que señalan los reglamentos para la realización de estudios de riesgos y programas específicos en materia de protección civil y que presta sus servicios profesionales a terceros;
+XIII. Brigadas Comunitarias: Grupo de personas voluntariamente organizadas, preparadas, adiestradas, capacitadas, especializadas y certificadas en materias afines de protección civil que colaboran en subordinación con las Unidades de Protección Civil del Estado o de los Municipios, en caso de desastres o eventos catastróficos;
 
-XV. Desastre: determinado evento concentrado en tiempo y espacio en el cual una sociedad o una parte de ella sufre un daño severo o pérdidas humanas o materiales, de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad, afectándose el funcionamiento vital de la misma;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
 
-XVI. Emergencia: situación súbita que requiere de atención urgente e inmediata;
+XIV. Castillería pirotécnica: artificios pirotécnicos que por sus riesgos; su uso, venta, transporte, almacenamiento y exhibición quedan reservados a los profesionales de la pirotecnia;
 
-XVII. Establecimiento pirotécnico: espacio físico donde se fabrican, almacena (sic) y comercializan objetos pirotécnicos.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
 
-XVIII. Estudio de riesgo: documento que integra la caracterización de riesgos, y la información técnica empleada en su evaluación; las premisas y criterios aplicados; la metodología de análisis empleada; limitaciones del estudio y el catálogo de los escenarios de riesgos, entre otros, que debe considerar los riesgos internos y externos de origen antropogénicos y naturales, además de que debe identificar peligros o condiciones peligrosas en los materiales y sustancias o en los procesos; analizar y modelar las consecuencias en caso de fuga o falla y la frecuencia con que pueden ocurrir, y caracterizar y jerarquizar el riesgo resultante a fin de determinar la posibilidad de pérdida tanto en vidas humanas como en bienes o en capacidad de producción;
+XV. Consultor: persona experta en la materia de protección civil con capacidad debidamente acreditada ante la Unidad Estatal de Protección Civil y Bomberos o la Unidad Municipal conforme a la competencia que señalan los reglamentos para la realización de estudios de riesgos y programas específicos en materia de protección civil y que presta sus servicios profesionales a terceros;
 
-XIX. Exposición: se refiere a la cantidad de personas, bienes y sistemas que se encuentran en el sitio y que son factibles de ser dañados;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
 
-XX. Fenómenos destructivos: los enunciados en los grupos del orden geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico y socio-organizativo y las subdivisiones de éstos;
+XVI. Desastre: determinado evento concentrado en tiempo y espacio en el cual una sociedad o una parte de ella sufre un daño severo o pérdidas humanas o materiales, de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad, afectándose el funcionamiento vital de la misma;
 
-XXI. Grupo de Voluntarios: asociación de personas que coadyuvan en las tareas operativas de protección civil, generalmente durante la emergencia; junto con la población, integran la organización participativa del Sistema Nacional de Protección Civil;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
 
-XXII. Juguetería pirotécnica: artificios pirotécnicos que por sus características, puede ser de acceso generalizado;
+XVII. Emergencia: situación súbita que requiere de atención urgente e inmediata;
 
-XXIII. Materias pirotécnicas: materias o mezclas de materias destinadas a producir efectos caloríficos, luminosos, sonoros, gaseosos o fumígenos, o con una combinación de estos efectos, como consecuencia de reacciones químicas exotérmicas o autosostenidas detonantes y no detonantes;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-XXIV. Objetos pirotécnicos: materiales, artificios, juguetería y castillería pirotécnicos;
+XVIII. Establecimiento pirotécnico: espacio físico donde se fabrican, almacena (sic) y comercializan objetos pirotécnicos;
 
-XXV. Peligro: es la probabilidad de que un área en particular sea afectada por algunas de las manifestaciones destructivas de la calamidad; ya sea por la ocurrencia de un proceso o un evento, natural o inducido por el hombre, con el potencial de crear pérdidas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
 
-XXVI. Prevención: las acciones dirigidas a identificar y controlar riesgos, evitar o mitigar el impacto destructivo de los siniestros o desastres sobre la población, sus bienes, los servicios públicos, la planta productiva y el medio ambiente;
+XIX. Estudio de riesgo: documento que integra la caracterización de riesgos, y la información técnica empleada en su evaluación; las premisas y criterios aplicados; la metodología de análisis empleada; limitaciones del estudio y el catálogo de los escenarios de riesgos, entre otros, que debe considerar los riesgos internos y externos de origen antropogénicos y naturales, además de que debe identificar peligros o condiciones peligrosas en los materiales y sustancias o en los procesos; analizar y modelar las consecuencias en caso de fuga o falla y la frecuencia con que pueden ocurrir, y caracterizar y jerarquizar el riesgo resultante a fin de determinar la posibilidad de pérdida tanto en vidas humanas como en bienes o en capacidad de producción;
 
-XXVII. Programa de Protección Civil: documento elaborado para hacer frente a los fenómenos destructivos cuyo contenido refiere las acciones preventivas, de respuesta a la emergencia, de recuperación inicial y de reconstrucción;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
 
-XXVIII. Programa Específico de Protección Civil: aquel que se circunscribe al ámbito de una dependencia, entidad, institución y organismo, pertenecientes a los sectores público (sic) en sus tres ámbitos de gobierno, privado y social y se aplica en los inmuebles correspondientes con el fin de salvaguardar la integridad física de los empleados y de las personas que concurren a ellos, así como de proteger las instalaciones, bienes e información vital ante la ocurrencia de una calamidad.
+XX. Exposición: se refiere a la cantidad de personas, bienes y sistemas que se encuentran en el sitio y que son factibles de ser dañados;
 
-XXIX. Programa Externo de Protección Civil o Programa General: el que se dirige a proteger a la población, sus bienes y su entorno ante la presencia de fenómenos destructivos de origen natural o humano. De conformidad con su ámbito de acción, estos programas pueden ser:
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XXI. Fenómenos destructivos: los enunciados en los grupos del orden geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico y socio-organizativo y las subdivisiones de éstos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XXII. Grupo de Voluntarios: asociación de personas que coadyuvan en las tareas operativas de protección civil, generalmente durante la emergencia; junto con la población, integran la organización participativa del Sistema Nacional de Protección Civil;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XXIII. Juguetería pirotécnica: artificios pirotécnicos que, por sus características, puede ser de acceso generalizado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XXIV. Materias pirotécnicas: materias o mezclas de materias destinadas a producir efectos caloríficos, luminosos, sonoros, gaseosos o fumígenos, o con una combinación de estos efectos, como consecuencia de reacciones químicas exotérmicas o autosostenidas detonantes y no detonantes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XXV. Objetos pirotécnicos: materiales, artificios, juguetería y castillería pirotécnicos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XXVI. Peligro: es la probabilidad de que un área en particular sea afectada por algunas de las manifestaciones destructivas de la calamidad; ya sea por la ocurrencia de un proceso o un evento, natural o inducido por el hombre, con el potencial de crear pérdidas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XXVII. Prevención: las acciones dirigidas a identificar y controlar riesgos, evitar o mitigar el impacto destructivo de los siniestros o desastres sobre la población, sus bienes, los servicios públicos, la planta productiva y el medio ambiente;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+XXVIII. Programa de Protección Civil: documento elaborado para hacer frente a los fenómenos destructivos cuyo contenido refiere las acciones preventivas, de respuesta a la emergencia, de recuperación inicial y de reconstrucción;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XXIX. Programa Específico de Protección Civil: aquel que se circunscribe al ámbito de una dependencia, entidad, institución y organismo, pertenecientes a los sectores público en sus tres ámbitos de gobierno, privado y social y se aplica en los inmuebles correspondientes con el fin de salvaguardar la integridad física de los empleados y de las personas que concurren a ellos, así como de proteger las instalaciones, bienes e información vital ante la ocurrencia de una calamidad;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XXX. Programa Externo de Protección Civil o Programa General: el que se dirige a proteger a la población, sus bienes y su entorno ante la presencia de fenómenos destructivos de origen natural o humano. De conformidad con su ámbito de acción, estos programas pueden ser:
 
 a) Estatal, que contiene acciones de protección civil determinadas en función de la problemática que en la materia se presenta en el área de una entidad federativa, y conlleva la participación de las autoridades gubernamentales y de los sectores privado y social correspondientes; y
 
 b) Municipal, que contiene acciones de protección civil determinadas en función de la problemática que en la materia se presenta en el área del municipio, y conlleva la participación de las autoridades, de los sectores privado y social y de la población en general circunscrita a ese ámbito;
 
-XXX. Recuperación o restablecimiento: a las acciones encaminadas a volver a las condiciones de normalidad, una vez que ha pasado el siniestro o desastre;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
 
-XXXI. Refugio temporal o transitorio: aquel, que dependiendo del tipo de calamidad, opera por tiempos cortos definidos y no rebasa una semana de instalación;
+XXXI. Recuperación o restablecimiento: a las acciones encaminadas a volver a las condiciones de normalidad, una vez que ha pasado el siniestro o desastre;
 
-XXXII. Reglamento: el Reglamento de la Ley Estatal de Protección Civil del Estado de Jalisco.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2019)</small>
 
-XXXIII. Requisa: acto unilateral de la administración pública consistente en posesionarse de bienes de los particulares o en exigirles a estos mismos la prestación de algún trabajo lícito o servicio para asegurar el cumplimiento de algún servicio de interés público, en casos extraordinarios y urgentes;
+XXXII. Red Estatal de Brigadistas Comunitarias es una estructura organizada y formada por voluntarios con el fin de capacitarse y trabajar coordinadamente con las autoridades de protección civil para enfrentar en su entorno riesgos causados por los diversos agentes perturbadores;
 
-XXXIV. Riesgo: es el resultado de calcular la potencial acción de una amenaza con las condiciones de vulnerabilidad de una comunidad o sistema; de manera cualitativa es la probabilidad de ocurrencia de daños, pérdidas o efectos indeseables sobre sistemas constituidos por personas, comunidades o sus bienes, como consecuencia del impacto de eventos o fenómenos perturbadores, y de manera cuantitativa se puede representar de forma matemática como: riesgo = vulnerabilidad x valor x peligro;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
 
-XXXV. Siniestro: determinado evento concentrado en tiempo y espacio, en el cual uno o varios miembros de la población sufren un daño violento en su integridad física o patrimonial, de tal manera que afecta su vida normal;
+XXXIII. Refugio temporal o transitorio: aquel, que dependiendo del tipo de calamidad, opera por tiempos cortos definidos y no rebasa una semana de instalación;
 
-XXXVI. Unidad Estatal: Unidad Estatal de Protección Civil y Bomberos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
 
-XXXVII. Voluntario: persona que por propia voluntad participa en las actividades operativas de la protección civil, generalmente recibe una capacitación básica para cumplir con eficiencia las labores que se le asignan;
+XXXIV. Reglamento: el Reglamento de la Ley Estatal de Protección Civil del Estado de Jalisco;
 
-XXXVIII. Vulnerabilidad: es la susceptibilidad o propensión de los sistemas expuestos a ser afectados o dañados por el efecto de un fenómeno perturbador, es decir, el grado de pérdidas esperadas, que puede ser expresado en porcentaje;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
 
-XXXIX. Vulnerable: ente o ser que es propenso de afectación, susceptible de sufrir daños por situación de riesgo;
+XXXV. Requisa: acto unilateral de la administración pública consistente en posesionarse de bienes de los particulares o en exigirles a estos mismos la prestación de algún trabajo lícito o servicio para asegurar el cumplimiento de algún servicio de interés público, en casos extraordinarios y urgentes;
 
-XL. Zona de amortiguamiento: el espacio que debe de existir para evitar que se intercepten dos o más áreas que puedan representar riesgo o peligro;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
 
-XLI. Zona de Riesgo: espacio territorial donde persiste amenaza de un accidente o acción susceptible de causar daño o perjuicio a alguien o a algo, derivado de circunstancias que se pueden prever pero no eludir; y
+XXXVI. Riesgo: es el resultado de calcular la potencial acción de una amenaza con las condiciones de vulnerabilidad de una comunidad o sistema; de manera cualitativa es la probabilidad de ocurrencia de daños, pérdidas o efectos indeseables sobre sistemas constituidos por personas, comunidades o sus bienes, como consecuencia del impacto de eventos o fenómenos perturbadores, y de manera cuantitativa se puede representar de forma matemática como: riesgo = vulnerabilidad x valor x peligro;
 
-XLII. Zonas pirotécnicas de riesgo: espacios físicos, no urbanos en los que se procesan o almacenan sustancias pirotécnicas consideradas como productos controlados o de riesgo por parte de las Autoridades Federales competentes mediante la emisión de Normas Oficiales.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XXXVII. Siniestro: determinado evento concentrado en tiempo y espacio, en el cual uno o varios miembros de la población sufren un daño violento en su integridad física o patrimonial, de tal manera que afecta su vida normal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XXXVIII. Unidad Estatal: Unidad Estatal de Protección Civil y Bomberos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XXXIX. Voluntario: persona que por propia voluntad participa en las actividades operativas de la protección civil, generalmente recibe una capacitación básica para cumplir con eficiencia las labores que se le asignan;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XL. Vulnerabilidad: es la susceptibilidad o propensión de los sistemas expuestos a ser afectados o dañados por el efecto de un fenómeno perturbador, es decir, el grado de pérdidas esperadas, que puede ser expresado en porcentaje;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XLI. Vulnerable: ente o ser que es propenso de afectación, susceptible de sufrir daños por situación de riesgo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XLII. Zona de amortiguamiento: el espacio que debe de existir para evitar que se intercepten dos o más áreas que puedan representar riesgo o peligro;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+XLIII. Zona de Riesgo: espacio territorial donde persiste amenaza de un accidente o acción susceptible de causar daño o perjuicio a alguien o a algo, derivado de circunstancias que se pueden prever, pero no eludir; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XLIV. Zonas pirotécnicas de riesgo: espacios físicos, no urbanos en los que se procesan o almacenan sustancias pirotécnicas consideradas como productos controlados o de riesgo por parte de las Autoridades Federales competentes mediante la emisión de Normas Oficiales.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2012)</small>
 
@@ -431,11 +499,17 @@ XIX. Vigilar a través de la Unidad Municipal de Protección Civil, el cumplimie
 
 XX. Tramitar y resolver el recurso administrativo previsto en esta Ley; y
 
-XXI. Las demás que le señalen esta Ley y otras normas y reglamentos aplicables;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+XXI. Establecer los albergues y refugios temporales de su comunidad;
 
-XXII. Establecer los albergues y refugios temporales de su comunidad.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XXII. Firmar convenios de colaboración con la Unidad Estatal de Protección Civil para el debido registro, certificación, capacitación, formación y coordinación de los Brigadistas Comunitarios; y
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+XXIII. Las demás que le señalen esta Ley y otras normas y reglamentos aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
@@ -459,7 +533,9 @@ El ejecutivo estatal promoverá la celebración de convenios de coordinación co
 
 Son organismos auxiliares y de participación social:
 
-I. Los grupos voluntarios que prestan sus servicios en actividades de protección civil de manera solidaria sin recibir remuneración económica alguna;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+I. Los voluntarios y brigadas comunitarias que prestan sus servicios en actividades de protección civil de manera solidaria sin recibir remuneración económica alguna;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
@@ -559,9 +635,9 @@ IV. La agencia del Ministerio Público adscrita permanentemente a la Unidad Esta
 
 V. Las unidades internas; y
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-VI. La organización estatal de los grupos voluntarios registrados ante protección civil.
+VI. La organización estatal de los voluntarios y brigadas comunitarias registrados ante protección civil.
 
 ###### Artículo 21.
 
@@ -603,9 +679,9 @@ II. La Unidad Municipal de Protección Civil;
 
 III. Las unidades internas; y
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-IV. Los grupos voluntarios registrados ante la autoridad de protección civil correspondiente.
+IV. Los voluntarios y brigadas comunitarias registrados ante la autoridad de protección civil correspondiente.
 
 ### CAPITULO IV. Del Consejo Estatal de protección Civil
 
@@ -663,13 +739,13 @@ XV. Formular, aprobar y modificar el reglamento interior para la organización y
 
 XVI. Designar a los vocales del Comité Estatal de Emergencia;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-XVII. Organizar la celebración de entrega del premio anual y reconocimientos a los voluntarios que por sus méritos, desempeño, heroísmo o sacrificio se hayan destacado a favor de la sociedad, en su actividad permanente u ocasional;
+XVII. Organizar la celebración de entrega del premio anual y reconocimientos a los voluntarios y brigadas comunitarias que por sus méritos, desempeño, heroísmo o sacrificio se hayan destacado a favor de la sociedad, en su actividad permanente u ocasional;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-XVIII. Fomentar la realización de convenios con instituciones de educación superior, organismos internacionales y gobiernos extranjeros, para que los mejores elementos adscritos a las unidades de protección civil o a los cuerpos voluntarios se puedan capacitar tanto en México como en el extranjero a través de becas de intercambios o participación; y
+XVIII. Fomentar la realización de convenios con instituciones de educación superior, organismos internacionales y gobiernos extranjeros, para que los mejores elementos adscritos a las unidades de protección civil, voluntarios o brigadas comunitarias se puedan capacitar tanto en México como en el extranjero a través de becas de intercambios o participación; y
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
 
@@ -853,7 +929,9 @@ i) Las dos organizaciones mayoritarias de asociaciones de vecinos en el Estado, 
 
 j) El Consejo de la Cruz Roja Mexicana Delegación Estatal Jalisco; y
 
-k) De los dos grupos voluntarios incorporados al Voluntariado Estatal de Protección Civil que conforme a su registro acrediten mayor membresía; y
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
+k) De los voluntarios o brigadas comunitarias incorporados al Voluntariado Estatal de Protección Civil que conforme a su registro acrediten mayor membresía; y
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
 
@@ -929,7 +1007,9 @@ IV. Los representantes de instituciones académicas y colegios de profesionistas
 
 V. Los investigadores y especialistas en materia de protección civil; y
 
-VI. Representantes de grupos voluntarios o personas que estén en condiciones de coadyuvar con los objetivos del Sistema Estatal de Protección Civil.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+VI. Representantes de brigadas comunitarias o personas que estén en condiciones de coadyuvar con los objetivos del Sistema Estatal de Protección Civil.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2004)</small>
 
@@ -937,9 +1017,9 @@ VI. Representantes de grupos voluntarios o personas que estén en condiciones de
 
 El Consejo se reunirá en sesiones ordinarias mínimo tres veces al año y extraordinarias, cuando el caso así lo requiera, a convocatoria de su presidente. Deberá sesionar en el mes de septiembre para la elaboración del presupuesto del Sistema Estatal de Protección Civil.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
 
-El Reglamento Interior del Consejo Estatal de Protección Civil dispondrá lo relativo a procedimientos para ratificar o relevar a los representantes, integración de sus comisiones y las normas que regulen el funcionamiento del pleno, del Comité Estatal de Emergencia y de sus comisiones. También establecerá los criterios para la premiación y entrega de reconocimientos a los voluntarios que se hayan destacado en el año, conforme a lo establecido en el artículo 52 bis de la presente ley.
+El Reglamento Interior del Consejo Estatal de Protección Civil dispondrá lo relativo a procedimientos para ratificar o relevar a los representantes, integración de sus comisiones y las normas que regulen el funcionamiento del pleno, del Comité Estatal de Emergencia y de sus comisiones. También establecerá los criterios para la premiación y entrega de reconocimientos a los voluntarios y brigadas comunitarias que se hayan destacado en el año, conforme a lo establecido en el artículo 52 bis de la presente ley.
 
 De conformidad a los asuntos específicos que se vayan a analizar en el Consejo Estatal, en el Comité Estatal de Emergencia o en sus comisiones, mediante invitación expresa de su Presidente, podrán participar:
 
@@ -1177,13 +1257,17 @@ XXVIII. Promover ante las instancias competentes, la realización de estudios e 
 
 XXIX. Coordinarse, en el ámbito de sus atribuciones, con las autoridades competentes para desarrollar programas y acciones de difusión, capacitación, especialización, formación y asistencia técnica, dirigidos a los agentes pirotécnicos, así como a la población en general;
 
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-XXX. Coordinarse con las autoridades competentes para instrumentar las acciones necesarias para el cumplimiento de esta ley; y
+XXX. Coordinarse con las autoridades competentes para instrumentar las acciones necesarias para el cumplimiento de esta ley;
 
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2019)</small>
 
-XXXI. Las demás que dispongan los reglamentos, programas y convenios o que le asigne el Consejo Estatal de Protección Civil.
+XXXI. Integrar y certificar a las brigadas comunitarias en apoyo, a la Red Nacional de Brigadistas Comunitarios, así como tener actualizado el padrón de la Red Estatal de Brigadas Comunitarias; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE AGOSTO DE 2019)</small>
+
+XXXII. Las demás que dispongan los reglamentos, programas y convenios o que le asigne el Consejo Estatal de Protección Civil.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
@@ -1327,11 +1411,11 @@ Las empresas industriales, de servicio y Centros laborales deberán contar con u
 
 Estas empresas están obligadas a colaborar y cumplir con la Unidad Estatal, para integrar los mecanismos propios de seguridad que apliquen a sus operaciones, con las normas de protección civil que establezcan las disposiciones legales y reglamentarias aplicables a su localidad.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 47.
 
-La Unidad Estatal y las unidades municipales de protección civil, asesorarán gratuitamente a las empresas, asociaciones, organismos y entidades de los sectores privado y social, para integrar sus unidades internas y organizar grupos voluntarios, atendiendo la distribución de actividades que se defina en el Reglamento de la Unidad Estatal y los acuerdos que celebre el Ejecutivo Estatal con los gobiernos municipales.
+La Unidad Estatal y las unidades municipales de protección civil, asesorarán gratuitamente a las empresas, asociaciones, organismos y entidades de los sectores privado y social, para integrar sus unidades internas y organizar voluntarios o brigadas comunitarias, atendiendo la distribución de actividades que se defina en el Reglamento de la Unidad Estatal y los acuerdos que celebre el Ejecutivo Estatal con los gobiernos municipales.
 
 ### CAPITULO VIII. De la organización voluntaria
 
@@ -1339,21 +1423,23 @@ La Unidad Estatal y las unidades municipales de protección civil, asesorarán g
 
 Los habitantes del Estado de Jalisco podrán organizarse de manera libre y voluntaria para participar y apoyar, coordinadamente, las acciones de protección civil previstas en el Programa Estatal y los Programas Municipales.
 
-Los grupos voluntarios se integrarán con personas que tengan interés en participar en acciones de prevención y auxilio a la población, ante condiciones de alto riesgo, siniestro o desastre.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2006)</small>
+Las brigadas comunitarias se integrarán por grupos de voluntarios organizados y certificados por la Unidad Estatal, que tengan interés en participar en acciones de prevención y auxilio a la población, ante condiciones de alto riesgo, siniestro o desastre.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 49.
 
-Los grupos voluntarios ya constituidos que se desempeñen en la entidad deberán registrarse ante la Unidad Estatal o municipal, en los términos que señale el Reglamento. Sólo la Unidad Estatal podrá dispensar dicho registro en los casos especiales que señale el reglamento, con motivo de una situación de riesgo o desastre.
+Los grupos voluntarios ya constituidos en brigadas comunitarias que se desempeñen en la entidad deberán ser registrados por Unidad Estatal en la Red Estatal de Brigadas Comunitarias. Sólo la Unidad Estatal podrá dispensar dicho registro en los casos especiales que señale el reglamento, con motivo de una situación de riesgo o desastre.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1998)</small>
+Las unidades municipales de Protección Civil deberán informar a la Unidad Estatalde (sic) los gruposde (sic) voluntarios que pretendan constituirse como brigadas comunitarias, a efecto de que la Unidad Estatal tramite la certificación correspondiente e identifique los recursos humanos y materiales disponibles en el Estado.
 
-Las unidades municipales de protección Civil deberán informar a la Unidad Estatal de los grupos voluntarios registrados en el municipio, a efecto de que la Unidad Estatal identifique los recursos humanos y materiales disponibles.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 50.
 
-Los grupos voluntarios deberán organizarse con base en los aspectos siguientes:
+Las brigadas comunitarias deberán organizarse con base en los aspectos siguientes:
 
 I. Territorial. Formados por los habitantes de una colonia, zona, centro de población, municipio, región del Estado en su conjunto;
 
@@ -1365,27 +1451,27 @@ III. Actividad específica. Atendiendo a la función de auxilio que desempeñen,
 
 IV. Capacitación y enseñanza. Preparados y acreditados para impartir cursos y talleres a la población en general, sobre el conocimiento de los fenómenos destructivos y de la identificación y control de riesgos, así como de las acciones destinadas a evitar o mitigar el impacto destructivo de los siniestros o desastres.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 51.
 
-El registro de grupos voluntarios se verificará ante la Unidad Estatal o Municipal que corresponda a las categorías descritas en el artículo anterior, en los términos y exigencias que establezca el reglamento respectivo.
+El registro de brigadas comunitarias se verificará ante la Unidad Estatal que corresponda, de acuerdo a las categorías descritas en el artículo anterior, en los términos y exigencias que establezca el reglamento respectivo.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 52.
 
-Los particulares que desempeñen labores de rescate y auxilio, deberán agruparse en grupos voluntarios, organizados conforme a las disposiciones de la Ley y el Reglamento.
+Los particulares que desempeñen labores de rescate y auxilio, deberán agruparse en brigadas comunitarias, organizados conforme a las disposiciones de la Ley y el Reglamento.
 
 ###### Artículo 52 Bis.
 
 (DEROGADO, P.O. 3 DE OCTUBRE DE 2006)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 53.
 
-Los grupos voluntarios deberán:
+Las brigadas comunitarias deberán:
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2006)</small>
 
@@ -1397,17 +1483,77 @@ II. Colaborar y participar en la difusión de campañas, planes, estrategias y a
 
 III. Informar con oportunidad a los Sistemas Municipal o Estatal en su caso, la presencia de una situación de alto riesgo, siniestro o desastre;
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-IV. Portar la identificación que autorice y proporcione la Unidad de Protección Civil en la que se registre el grupo voluntario; y
+IV. Portar la certificación o identificación que autorice y proporcione la Unidad de Protección Civil en la que se registre la brigada comunitaria; y
 
 V. Las demás que les señale su reglamento y acuerdos autorizados por la Unidad de Protección Civil responsable de coordinar sus actividades.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 2019)</small>
+
+### CAPÍTULO VIII Bis. De La Red Estatal de Brigadas Comunitarias
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
+###### Artículo 53 Bis.
+
+La Red Estatal de Brigadas Comunitarias, será una estructura ciudadana, organizada y compuesta de personas voluntarias conformados en brigadas, con el fin de trabajar de manera solidaria, mismos que tendrán que capacitarse y certificarse permanentemente por la Unidad Estatal de Protección Civil, para enfrentar dentro de su comunidad o entorno, los riesgos o peligros causados por los diversos agentes perturbadores.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
+###### Artículo 53 Ter.
+
+Las Brigadas Comunitarias, serán debidamente registradas en la Red Estatal de Brigadas y serán certificados en diversas materias de Protección Civil; bajo la coordinación y supervisión de la autoridad competente en su comunidad, en tareas de alertamiento, evacuación, búsqueda y rescate, primeros auxilios, acciones preventivas, refugios temporales y otras similares.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
+Artículo 53 Cuarter. (sic) La Unidad Estatal de Protección Civil, se encargará de organizar el funcionamiento de esta Red; para tal efecto, las autoridades Estatales y Municipales en la materia, promoverán en el marco de su competencia, la capacitación y certificación de los grupos de voluntarios que deseen constituirse en brigadas comunitarias, debiendo registrar los grupos que se conformen en el estado de Jalisco e informar de ellos a la Red Nacional.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
+###### Artículo 53 Quinquies.
+
+Para obtener la certificación de la Unidad Estatal de Protección Civil, las brigadas comunitarias deberán cumplir con los siguientes requisitos:
+
+I. Presentar el formato establecido que para tal efecto entregue la Unidad Estatal de Protección Civil, con firma autógrafa;
+
+II. Constancia de capacitación del curso para brigadistas comunitarios o copia de documentos que acrediten los conocimientos en protección civil;
+
+III. Documentos de identificación oficial; y
+
+IV. Comprobante de domicilio.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
+###### Artículo 53 Sexies.
+
+La Unidad Estatal de Protección Civil, entregará al representante de la brigada debidamente registrada y capacitada, una certificación oficial, la cual fungirá como su medio público de identificación, en un plazo no mayor de treinta días hábiles a la presentación de su solicitud de registro.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
+###### Artículo 53 Septies.
+
+Los Brigadistas Comunitarios del Estado de Jalisco únicamente deberán desempeñar las funciones de:
+
+I. Acciones de prevención de riesgo en el lugar donde habitan;
+
+II. Identificación de riesgos;
+
+III. Alertamiento;
+
+IV. Evacuación;
+
+V. Participación en centros de acopio;
+
+VI. Participación en la administración de refugios temporales;
+
+VII. Participación en eventos socio-organizativos; y
+
+VIII. De apoyo.
 
 ### CAPITULO IX. De los programas de protección civil
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
-
-### CAPITULO X. De la coordinación del Sistema Estatal con los Sistemas Nacional y municipales
 
 ###### Artículo 54.
 
@@ -1483,9 +1629,9 @@ VI. El inventario de recursos disponibles;
 
 VII. Las previsiones para organizar albergues y vivienda emergente;
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-VIII. Los lineamientos para la elaboración de los manuales de capacitación a la población, grupos voluntarios e integrantes de instituciones;
+VIII. Los lineamientos para la elaboración de los manuales de capacitación a la población, voluntarios, brigadas comunitarias e integrantes de instituciones;
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
 
@@ -1507,9 +1653,9 @@ I. Las acciones que desarrollarán las dependencias y organismos de la administr
 
 II. Los mecanismos de concertación y coordinación con los sectores social y privado;
 
-> <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-III. Los medios de coordinación con los grupos voluntarios; y
+III. Los medios de coordinación con los voluntarios y brigadas comunitarias; y
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
 
@@ -1539,7 +1685,7 @@ Los Programas Específicos precisarán las acciones de protección a cargo de la
 
 Los programas y planes de protección civil previstos en este capítulo tendrán la vigencia que se determine en cada caso cuando no se establezca un término de vigencia, el programa se mantendrá en vigor, hasta que sea modificado, sustituido o cancelado, conforme las disposiciones de esta ley.
 
-### CAPITULO XI. De la educación y la capacitación en materia de protección civil
+### CAPITULO X. De la coordinación del Sistema Estatal con los Sistemas Nacional y municipales
 
 ###### Artículo 67.
 
@@ -1575,7 +1721,7 @@ Cuando la situación de emergencia lo amerite, el Comité Estatal de Emergencia 
 
 La Unidad Estatal, con base en los acuerdos que celebre con las dependencias federales competentes, llevará un control de las empresas que dentro del territorio del Estado, realicen actividades con materiales peligrosos y explosivos.
 
-### CAPITULO XII. De la declaratoria de emergencia
+### CAPITULO XI. De la educación y la capacitación en materia de protección civil
 
 ###### Artículo 71.
 
@@ -1633,9 +1779,7 @@ Los espacios oficiales en los medios de difusión, podrán ser utilizados median
 
 La Unidad Estatal realizará lo conducente para la difusión de las acciones mencionadas.
 
-### CAPITULO XIII. De las inspecciones
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2006)</small>
+### CAPITULO XII. De la declaratoria de emergencia
 
 ###### Artículo 75.
 
@@ -1693,9 +1837,9 @@ V. Instrucciones dirigidas a la población, de acuerdo al Programa Estatal.
 
 Cuando la gravedad del siniestro lo requiera, el Titular de la Unidad Municipal solicitará al Titular de la Unidad Estatal, el auxilio de las dependencias y entidades de la Administración Pública Estatal. En su caso, cuando la gravedad del desastre lo requiera, el Presidente del Comité Estatal de Emergencia solicitará al Ejecutivo Federal el auxilio de las dependencias federales y en particular, la participación de la Secretaría de la Defensa Nacional mediante los programas de auxilio a la población civil.
 
-### CAPITULO XIV. De las medidas de seguridad y de las sanciones
+### CAPITULO XIII. De las inspecciones
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 78.
 
@@ -1759,7 +1903,9 @@ En los casos en que lo estime pertinente, el Director General de la Unidad Estat
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2006)</small>
 
-### CAPITULO XV. De las notificaciones
+### CAPITULO XIV. De las medidas de seguridad y de las sanciones
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 80 Bis.
 
@@ -1871,9 +2017,7 @@ Las sanciones impuestas conforme a ésta Ley son independientes de las que pueda
 
 La responsabilidad por daños o perjuicios causados por acciones u omisiones que deriven en siniestros o desastres, se determinará y hará efectiva, conforme las disposiciones de la legislación constitucional, penal, civil, Ley de Responsabilidades para los Servidores Públicos del Estado de Jalisco y demás aplicables al caso.
 
-### CAPITULO XVI. Del recurso de revisión
-
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
+### CAPITULO XV. De las notificaciones
 
 ###### Artículo 86.
 
@@ -1896,6 +2040,10 @@ I. Nombre de la persona a quien se notifica;
 II. Motivo por el cual se coloca la cédula, haciendo referencia a los fundamentos y antecedentes; y
 
 III. El tiempo por el que debe permanecer la cédula en el lugar donde se fije.
+
+### CAPITULO XVI. Del recurso de revisión
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 90.
 
@@ -2160,3 +2308,19 @@ P.O. 11 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DE "DECRETO 27292/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5°, 7°, 15, 53 Y EL CAPÍTULO IV DE LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD ANIMAL PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; 6° DE LA LEY DE COORDINACIÓN EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO; 5° Y 7° DE LA LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; 26 Y 83 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; Y EL 41 DE LA LEY PARA LA ACCIÓN ANTE EL CAMBIO CLIMÁTICO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 10 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27303/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+###### ARTÍCULO SEGUNDO.
+
+A la publicación del presente decreto, las autoridades competentes, contarán con un periodo de ciento veinte días naturales para emitir los lineamientos, documentos, programas y marco reglamentario para efectos de dar cumplimiento en lo establecido en el presente decreto e iniciar los programas o campañas de difusión para que la ciudadanía interesada pueda acudir a formar parte de las brigadas comunitarias.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
