@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-ejercicio-de-las-actividades-profesionales-del-1106
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2017-10-31"
+last_updated: "2019-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el martes 1 de diciembre de 2015.
 
@@ -619,9 +619,13 @@ V. Secretaría de Desarrollo Económico;
 
 VI. Secretaría de Trabajo y Previsión Social;
 
-VII. Fiscalía General del Estado;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-VIII. El Presidente de la Comisión de Educación del Poder Legislativo;
+VII. Fiscalía Estatal;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+VIII. El Presidente de la Comisión de Educación, Cultura y Deporte del Poder Legislativo;
 
 IX. El Presidente del Supremo Tribunal de Justicia del Estado;
 
@@ -1195,11 +1199,13 @@ Cuando para obtener la renovación de la autorización para operar como colegio 
 
 ### Capítulo II. Del Procedimiento de Ejecución de las Infracciones Administrativas
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 108.
 
-Las sanciones previstas en el artículo 90 fracciones I, II, IV, V y VI de esta Ley serán aplicadas por la Dirección, de conformidad con lo previsto en la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
+Las sanciones previstas en el artículo 90 fracciones I, II, IV, V y VI de esta Ley serán aplicadas por la Dirección, de conformidad con lo previsto en la Ley del Procedimiento Administrativo del Estado de Jalisco.
 
-Las sanciones económicas previstas en esta Ley serán consideradas créditos fiscales y ejecutados por la Secretaría de Planeación, Administración y Finanzas, de conformidad con las disposiciones aplicables.
+Las sanciones económicas previstas en esta Ley serán consideradas créditos fiscales y ejecutados por la Secretaría de la Hacienda Pública, de conformidad con las disposiciones aplicables.
 
 ###### Artículo 109.
 
@@ -1312,3 +1318,9 @@ P.O. 31 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26500/LXI/17 QUE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO 25559 MEDIANTE EL QUE SE EXPIDIÓ LA LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; Y SE ADICIONA UN PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 23 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2017”.]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 10 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27301/LXII/19 QUE REFORMA LOS ARTÍCULOS 10 Y 149 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 2, 15, 18, 20, 21. 22 Y 24 DE LA LEY DE INCOMPATIBILIDADES PARA LOS SERVIDORES PÚBLICOS REGLAMENTARIA DEL ARTÍCULO 112 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO; SE REFORMA 34 Y 52 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 158 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; SE REFORMAN LOS ARTÍCULOS 47 Y 108 DE LA LEY PARA EL EJERCICIO DE ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
