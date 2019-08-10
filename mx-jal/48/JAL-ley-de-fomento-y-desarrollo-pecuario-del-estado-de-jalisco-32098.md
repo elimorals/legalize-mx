@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-jalisco-3209
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-24"
-last_updated: "2019-05-11"
+last_updated: "2019-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 24 de junio de 2003.
 
@@ -125,7 +125,9 @@ IV. Productos: se consideran los resultados de la producción primaria de las es
 
 V. Subproductos: es el resultado de la producción primaria de las especies domésticas productivas que han sufrido un proceso de transformación e industrialización destinados al consumo humano, tales como: queso, crema, fórmulas lácteas y sus derivados, huevo procesado, carne procesada en jamones y embutidos, excretas, así como los esquilmos agrícolas que contengan excretas y que fueran utilizados como camas o suplemento de alimento para las especies domésticas productivas, entre otros;
 
-VI. Secretaría: a la Secretaría de Desarrollo Rural del Estado de Jalisco.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+VI. Secretaría: a la Secretaría de Agricultura y Desarrollo Rural del Estado de Jalisco.
 
 ###### Artículo 6.
 
@@ -139,21 +141,23 @@ Son autoridades competentes para la aplicación de esta ley:
 
 I. El titular del Poder Ejecutivo del Estado, y
 
-II. La Secretaría de Desarrollo Rural del Estado.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+ll. La Secretaría de Agricultura y Desarrollo Rural del Estado.
 
 ###### Artículo 8.
 
 Son autoridades auxiliares para la aplicación de esta ley y su reglamento, en el ámbito de sus respectivas competencias:
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-I. La Fiscalía General del Estado;
+I. La Fiscalía Estatal;
 
 II. (DEROGADA, P.O. 22 DE FEBRERO DE 2014)
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-III. La secretaría de Planeación, Administración y Finanzas;
+III. La Secretaría de la Hacienda Pública;
 
 IV. La Secretaría de Salud;
 
@@ -177,9 +181,9 @@ III. Coadyuvar con los productores, industriales y comercializadores pecuarios q
 
 IV. Celebrar convenios con las organizaciones pecuarias y organismos auxiliares de cooperación a nivel nacional, estatal, municipal o local, así como con las autoridades federales, municipales y de otras entidades federativas, para el establecimiento de programas de control de la movilización y la implementación de medidas zoosanitarias, de calidad genética de las especies domésticas productivas y de inocuidad de sus productos y subproductos;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-V. Determinar y aplicar las sanciones que correspondan a los infractores de esta ley y sus reglamentos, a través de la Secretaría de Planeación, Administración y Finanzas;
+V. Determinar y aplicar las sanciones que correspondan a los infractores de esta ley y sus reglamentos, a través de la Secretaría y de la Secretaría de la Hacienda Pública;
 
 VI. Expedir los reglamentos que se deriven de esta ley, para su exacta aplicación y el logro de los objetivos que se establezcan en los planes y programas, sobre la actividad pecuaria del Estado;
 
@@ -247,9 +251,9 @@ XX. Llevar el registro y control de la documentación emitida por los expeditore
 
 XXI. Otorgar los permisos para el establecimiento de expendios de productos y subproductos, previa autorización de la Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-XXII. Aplicar, a través del supervisor regional pecuario o inspector de ganadería, las sanciones establecidas en la presente ley, sus reglamentos y demás normatividad vigente, comunicando las mismas a la Secretaría de Planeación, Administración y Finanzas para que, a través de sus recaudadoras municipales, aplique la sanción económica que se determine, efectuando, de ser necesario, el procedimiento de ejecución;
+XXII. Aplicar, a través del supervisor regional pecuario o inspector de ganadería, las sanciones establecidas en la presente ley, sus reglamentos y demás normatividad vigente, comunicando las mismas a la Secretaría de la Hacienda Pública para que, a través de sus recaudadoras municipales, aplique la sanción económica que se determine, efectuando, de ser necesario, el procedimiento de ejecución;
 
 XXIII. Admitir y resolver el recurso administrativo previsto en esta ley y su reglamento;
 
@@ -277,9 +281,9 @@ XXXIV. Inspeccionar los rastros y otros lugares donde se sacrifiquen especies do
 
 XXXV. Autorizar el ingreso o restricción al Estado de animales, productos y subproductos provenientes de otras entidades o del extranjero, una vez comprobado el cumplimiento de los requisitos legales de propiedad y en materia zoosanitaria,
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-XXXVI. Aplicar las sanciones económicas establecidas en la presente ley, su reglamento y demás normatividad vigente, comunicando las mismas a la Secretaría de Planeación, Administración y Finanzas para que, por conducto de sus recaudadoras municipales se hagan efectivas;
+XXXVI. Aplicar las sanciones económicas establecidas en la presente ley, su reglamento y demás normatividad vigente, comunicando las mismas a la Secretaría de la Hacienda Pública para que, por conducto de sus recaudadoras municipales, se hagan efectivas;
 
 > <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2004)</small>
 
@@ -291,31 +295,31 @@ XXXVIII. Promover la constitución de sociedades cooperativas; y
 
 XXXIX. Las demás que establezca la presente ley, su reglamento, los convenios que celebre el Titular del Poder Ejecutivo del Estado y demás normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 11.
 
-La Fiscalía General del Estado, las dependencias estatales o municipales, las organizaciones pecuarias y los organismos auxiliares de cooperación que señala la ley, apoyarán a la Secretaría, en las actividades que sean de su competencia.
+La Fiscalía Estatal, las dependencias estatales o municipales, las organizaciones pecuarias y los organismos auxiliares de cooperación que señala la ley, apoyarán a la Secretaría, en las actividades que sean de su competencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 12.
 
-Corresponde a la Secretaría de Planeación, Administración y Finanzas del Estado, las siguientes atribuciones:
+Corresponde a la Secretaría de la Hacienda Pública del Estado, las siguientes atribuciones:
 
 I. Elaborar los formatos de transmisión de propiedad de las especies domésticas productivas, productos y subproductos, las órdenes de sacrificio y el formato único de guía de tránsito, con base en los requisitos que establezca la Secretaría, cobrando por los mismos el monto señalado en la Ley de Ingresos del Estado;
 
 (F. DE. E., P.O. 16 DE DICIEMBRE DE 2003)
 
-II. Expedir a través de sus oficinas de recaudación municipales a las organizaciones ganaderas locales generales y especializadas, los formatos de la guía de transito y el de transmisión de propiedad; así como, el de las órdenes de sacrificio a través de los inspectores de ganadería; y
+II. Expedir a través de sus oficinas de recaudación municipales a las organizaciones ganaderas locales generales y especializadas, los formatos de la guía de tránsito y el de transmisión de propiedad; así como, el de las órdenes de sacrificio a través de los inspectores de ganadería; y
 
 III. Hacer efectivas las multas impuestas por la Secretaría por las violaciones a la presente Ley y su reglamento, a través de las oficinas de recaudación municipal.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 13.
 
-La Fiscalía General del Estado, a petición de la Secretaría, prestará apoyo y auxilio a los supervisores regionales pecuarios, inspectores de ganadería y al personal adscrito a los puntos de verificación zoosanitarios ubicados en el interior del Estado, proporcionando elementos de seguridad en cada uno de ellos para el cumplimiento de sus objetivos y atribuciones.
+La Fiscalía Estatal, a petición de la Secretaría, prestará apoyo y auxilio a los supervisores regionales pecuarios, inspectores de ganadería y al personal adscrito a los puntos de verificación zoosanitarios ubicados en el interior del Estado, proporcionando elementos de seguridad en cada uno de ellos para el cumplimiento de sus objetivos y atribuciones.
 
 ###### Artículo 14.
 
@@ -449,11 +453,11 @@ La contravención a esta disposición será motivo de aplicación de las sancion
 
 Los productores pecuarios invariablemente deberán presentar su Credencial Única Agroalimentaria vigente expedida por la Secretaría, como requisito previo para realizar los trámites de facturación, compra, venta, movilización o sacrificio de las especies domésticas productivas que se encuentren marcadas con el medio de identificación previamente registrado ante la propia Secretaría.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 22.
 
-La expedición de la Credencial Única Agroalimentaria causará el pago que señala la Ley de Ingresos del Estado, debiendo cubrirse el mismo en las oficinas de recaudación estatal, ubicadas en los municipios, dependientes de la Secretaría de Planeación, Administración y Finanzas.
+La expedición de la Credencial Única Agroalimentaria causará el pago que señala la Ley de Ingresos del Estado, debiendo cubrirse el mismo en las oficinas de recaudación estatal, ubicadas en los municipios, dependientes de la Secretaría de la Hacienda Pública.
 
 ###### Artículo 23.
 
@@ -655,9 +659,9 @@ Los animales cuyo medio de identificación sea alterado, modificado o encimado s
 
 La propiedad de las especies domésticas productivas, productos y subproductos para fines de sacrificio, movilización, explotación o comercialización, se acreditará con los documentos que a continuación se describen:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE AGOSTO DE 2019)</small>
 
-I. El documento de transmisión pecuaria de las especies domésticas productivas, productos y subproductos que expide la Secretaría de Planeación, Administración y Finanzas o, en su caso, el original de la factura fiscal. El documento de transmisión o la factura fiscal, deberá ser validado debidamente con el nombre, firma y sello del expeditor, expedida en el lugar de procedencia de los animales, productos o subproductos.
+l. El documento de transmisión pecuaria de las especies domésticas productivas, productos y subproductos que expide la Secretaría de la Hacienda Pública o, en su caso, el original de la factura fiscal. El documento de transmisión o la factura fiscal, deberá ser validado debidamente con el nombre, firma y sello del expeditor, expedida en el lugar de procedencia de los animales, productos o subproductos.
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -683,9 +687,9 @@ I. Las solicitudes deberán presentarse ante el inspector de ganadería municipa
 
 II. La figura de herrar, las marcas, señales y cualquier otro medio de identificación debidamente registrados, serán de uso exclusivo de su propietario y quien permita que los mismos sean utilizados en otras explotaciones pecuarias, será sancionado en los términos de esta ley;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-III. Se prohíbe el uso de medios de identificación no registrados y los animales que se marquen contraviniendo esta disposición, serán turnados a la Fiscalía General del Estado, para que se realicen la (sic) investigaciones pertinentes respecto a su legal propiedad y una vez resuelto el caso, le será aplicada una sanción administrativa independientemente de la sanción penal, y
+III. Se prohíbe el uso de medios de identificación no registrados y los animales que se marquen contraviniendo esta disposición, serán turnados a la Fiscalía Estatal, para que se realicen las investigaciones pertinentes respecto a su legal propiedad y una vez resuelto el caso, le será aplicada una sanción administrativa independientemente de la sanción penal; y
 
 IV. Deberá acreditar la propiedad o posesión del predio donde se desarrolle la actividad o explotación pecuaria.
 
@@ -735,7 +739,9 @@ III. Aquellos sobre los que su poseedor no pueda demostrar su legítima propieda
 
 IV. Los animales abandonados intencionalmente o perdidos cuyo dueño se ignore, y
 
-V. Aquellos que hubiesen sido declarados como tal o que ostenten medios de identificación que no se encuentren debidamente registrados ante la Secretaria de Desarrollo Rural, en los términos de esta Ley y su reglamento.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+V. Aquellos que hubiesen sido declarados como tal o que ostenten medios de identificación que no se encuentren debidamente registrados ante la Secretaría de Agricultura y Desarrollo Rural, en los términos de esta Ley y su reglamento.
 
 ###### Artículo 44.
 
@@ -873,7 +879,7 @@ c) Prever la colocación de señalamientos de seguridad cuando crucen o circulen
 
 ###### Artículo 54.
 
-Se prohibe el tránsito de animales enfermos; si alguno de ellos se enfermara durante la movilización, será detenida toda la partida en los puntos de verificación zoosanitaria, cuyo personal deberá proceder de la siguiente manera:
+Se prohíbe el tránsito de animales enfermos; si alguno de ellos se enfermara durante la movilización, será detenida toda la partida en los puntos de verificación zoosanitaria, cuyo personal deberá proceder de la siguiente manera:
 
 I. Solicitar el apoyo del supervisor regional pecuario para que conozca los hechos y proceda a la toma de acciones pertinentes;
 
@@ -883,7 +889,7 @@ III. Reportar y solicitar el apoyo en forma inmediata a la autoridad municipal p
 
 ###### Artículo 55.
 
-Se prohibe apacentar animales a orillas de las carreteras, calles, caminos vecinales y demás vías públicas; los que se encuentren serán recogidos por las autoridades municipales correspondientes y el dueño será sancionado conforme lo señale la ley y su reglamento.
+Se prohíbe apacentar animales a orillas de las carreteras, calles, caminos vecinales y demás vías públicas; los que se encuentren serán recogidos por las autoridades municipales correspondientes y el dueño será sancionado conforme lo señale la ley y su reglamento.
 
 ### CAPÍTULO V. De los Recuentos y Realeos
 
@@ -1261,15 +1267,15 @@ III. En el campo o potreros donde se encuentren animales que representen un peli
 
 ###### Artículo 108.
 
-Sólo podrán sacrificarse los animales sometidos a encierro veinticuatro horas antes del mismo o de acuerdo a lo previsto en la norma oficial mexicana respectiva, con el objeto de efectuar la inspección antemorten (sic) por los médicos veterinarios zootecnistas oficiales o particulares aprobados, dándoles un descanso adecuado, y sólo después de realizar la revisión administrativa de la documentación y verificación del medio de identificación de los animales por parte del inspector de ganadería y de las autoridades municipales.
+Sólo podrán sacrificarse los animales sometidos a encierro veinticuatro horas antes del mismo o de acuerdo a lo previsto en la norma oficial mexicana respectiva, con el objeto de efectuar la inspección antemorten por los médicos veterinarios zootecnistas oficiales o particulares aprobados, dándoles un descanso adecuado, y sólo después de realizar la revisión administrativa de la documentación y verificación del medio de identificación de los animales por parte del inspector de ganadería y de las autoridades municipales.
 
 ###### Artículo 109.
 
-Se prohibe el sacrificio de animales en estado de gestación, así como en estado de desnutrición o acentuada flacura, a menos que un médico veterinario zootecnista oficial o particular aprobado lo autorice mediante la justificación técnica debidamente sustentada.
+Se prohíbe el sacrificio de animales en estado de gestación, así como en estado de desnutrición o acentuada flacura, a menos que un médico veterinario zootecnista oficial o particular aprobado lo autorice mediante la justificación técnica debidamente sustentada.
 
 ###### Artículo 110.
 
-Los animales no podrán permanecer por más de cuarenta y ocho horas en los rastros sin que hayan sido sacrificados; por lo que se prohibe sacar animales vivos una vez que hayan ingresado y utilizado sus instalaciones para efectuar operaciones de compra venta de las especies domésticas productivas.
+Los animales no podrán permanecer por más de cuarenta y ocho horas en los rastros sin que hayan sido sacrificados; por lo que se prohíbe sacar animales vivos una vez que hayan ingresado y utilizado sus instalaciones para efectuar operaciones de compra venta de las especies domésticas productivas.
 
 ###### Artículo 111.
 
@@ -1279,9 +1285,11 @@ El administrador del rastro será responsable si autoriza el sacrificio de anima
 
 Si se sacrifica algún animal sano y se comprueba que en el acto se procedió con dolo o mala fe, haciéndolo pasar como sacrifico (sic) emergente, se considerará como sacrificio clandestino y se aplicarán las sanciones correspondientes.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 113.
 
-Corresponde a la autoridad municipal prestar el servicio de rastro o lugares de sacrificio. En aquellos municipios que así lo determinen, se apoyará la creación de rastros regionales, con intervención de las Secretarías de Desarrollo Rural, Salud y la del Medio Ambiente para el Desarrollo Sustentable del Estado, aplicando los ordenamientos federales de la materia.
+Corresponde a la autoridad municipal prestar el servicio de rastro o lugares de sacrificio. En aquellos municipios que así lo determinen, se apoyará la creación de rastros regionales, con intervención de las Secretarías de Agricultura y Desarrollo Rural, de Salud y la de Medio Ambiente y Desarrollo Territorial del Estado, aplicando los ordenamientos federales de la materia.
 
 ###### Artículo 114.
 
@@ -1399,9 +1407,9 @@ Las denuncias, serán presentadas ante la Secretaría o, en su caso, ante la Con
 
 Las sanciones por las violaciones a esta ley, serán determinadas en base a la misma, por la Secretaría.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
 
-Las oficinas recaudadoras de la Secretaría de Planeación, Administración y Finanzas, serán las encargadas de recibir el pago de dichas sanciones.
+Las oficinas recaudadoras de la Secretaría de la Hacienda Pública, serán las encargadas de recibir el pago de dichas sanciones.
 
 Las sanciones serán impuestas, independientemente de las que resulten de la aplicación de la legislación penal o civil, debiéndose tomar en cuenta la gravedad de la infracción y las circunstancias económicas del infractor.
 
@@ -1483,11 +1491,11 @@ II. Cuando por error, dolo u otra circunstancia, se haga mal uso de la Credencia
 
 III. Los expendios de carne clasificada que expendan carne diferente a la autorizada, serán clausurados y cancelado el permiso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 131.
 
-Las sanciones pecuniarias a que se refiere este capítulo se considerarán créditos fiscales y serán hechos efectivos por la Secretaría de Planeación, Administración y Finanzas a través de sus oficinas de recaudación fiscal municipales.
+Las sanciones pecuniarias a que se refiere este capítulo se considerarán créditos fiscales y serán hechos efectivos por la Secretaría de la Hacienda Pública, a través de sus oficinas de recaudación fiscal municipales.
 
 El procedimiento de notificación, ejecución y extinción de las sanciones pecuniarias, así como los recursos administrativos para oponerse al procedimiento económico coactivo, se sujetará a las disposiciones del Código Fiscal y a la Ley de Hacienda, ambos ordenamientos del Estado.
 
@@ -1654,5 +1662,11 @@ P.O. 7 DE DICIEMBRE DE 2017.
 P.O. 11 DE MAYO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27256/LXII/19, QUE REFORMA EL ARTÍCULO 136 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; LOS ARTÍCULOS 36, 63, 318, 319 Y 320 DE LA LEY DE HACIENDA MUNICIPAL; EL ARTÍCULO 70 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD; ARTÍCULOS 3° Y 57 DE LA LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LOS ARTÍCULOS 7°, 18, 28, 117, 140 BIS, 141 Y 142 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO, TODAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 10 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27299/LXII/19 QUE REFORMA LOS ARTÍCULOS 5, 7, 8, 9, 10, 11, 12, 13, 22, 36, 38, 43, 113, 128 Y 131 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO EL (SIC) ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
