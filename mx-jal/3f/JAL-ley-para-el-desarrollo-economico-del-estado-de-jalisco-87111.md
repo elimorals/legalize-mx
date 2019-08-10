@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-economico-del-estado-de-jalisco-87111"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2017-12-14"
+last_updated: "2019-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -735,9 +735,9 @@ III. Los titulares, o sus respectivos representantes debidamente acreditados, de
 
 a. Secretaría de Desarrollo Económico;
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
 
-b. Secretaría de Planeación, Administración y Finanzas;
+b. Secretaría de Planeación y Participación Ciudadana;
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -745,11 +745,13 @@ c. Secretaría de Medio Ambiente y Desarrollo Territorial;
 
 d. Secretaría de Turismo;
 
-e. Secretaría de Desarrollo Rural;
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+e. Secretaría de Agricultura y Desarrollo Rural;
 
-f. Secretaría de Desarrollo e Integración Social;
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
+f. Secretaría del Sistema de Asistencia Social;
 
 g. Secretaría del Trabajo y Previsión Social;
 
@@ -979,9 +981,9 @@ IV. Los presidentes municipales del área metropolitana de Guadalajara;
 
 V. El Secretario General de Gobierno;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-VI. El Secretario de Planeación, Administración y Finanzas, quien fungirá como Secretario Técnico;
+VI. El Secretario de Planeación y Participación Ciudadana, quien fungirá como Secretario Técnico;
 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -993,7 +995,9 @@ VIII. El Secretario de Educación;
 
 IX. (DEROGADA, P.O. 14 DE JUNIO DE 2014)
 
-X. El Secretario de Desarrollo Rural;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+X. El Secretario de Agricultura y Desarrollo Rural;
 
 XI. El Secretario de Turismo;
 
@@ -1005,9 +1009,9 @@ XIII. El Secretario de Trabajo y Previsión Social;
 
 XIV. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-XV. El Secretario de Movilidad;
+XV. El Secretario del Transporte;
 
 XVI. (DEROGADA, P.O. 14 DE JUNIO DE 2014)
 
@@ -1540,3 +1544,9 @@ P.O. 14 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26592/LXI/17 QUE REFORMA LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial “El Estado de Jalisco.”
+
+P.O. 10 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27301/LXII/19 QUE REFORMA LOS ARTÍCULOS 10 Y 149 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 2, 15, 18, 20, 21, 22 Y 24 DE LA LEY DE INCOMPATIBILIDADES PARA LOS SERVIDORES PÚBLICOS REGLAMENTARIA DEL ARTÍCULO 112 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO; SE REFORMA 34 Y 52 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 158 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; SE REFORMAN LOS ARTÍCULOS 47 Y 108 DE LA LEY PARA EL EJERCICIO DE ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
