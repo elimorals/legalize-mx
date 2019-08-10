@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2019-07-11"
+last_updated: "2019-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -4287,12 +4287,24 @@ P.O. 13 DE ABRIL DE 2019.
 
 P.O. 11 DE JULIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 27288/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 54 PRIMER PÁRRAFO, 57 FRACCIÓN IV, 62 FRACCIÓN I, Y SE DEROGA LA FRACCIÓN III, 174 TERCER PÁRRAFO Y SE LE ADICIONA UN PÁRRAFO CUARTO RECORRIÉNDOSE SUBSECUENTEMENTE LOS PÁRRAFOS YA EXISTENTES, 176 FRACCIÓN I, 178 FRACCIONES III Y VI, Y 199 ADICIONÁNDOLE UN PÁRRAFO SEGUNDO RECORRIÉNDOSE SUBSECUENTEMENTE LOS PÁRRAFOS YA EXISTENTES Y SE REFORMA EL ÚLTIMO PÁRRAFO, TODOS DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO.”]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27288/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 54 PRIMER PÁRRAFO, 57 FRACCIÓN IV, 62 FRACCIÓN I, Y SE DEROGA LA FRACCIÓN III, 174 TERCER PÁRRAFO Y SE LE ADICIONA UN PÁRRAFO CUARTO RECORRIÉNDOSE SUBSECUENTEMENTE LOS PÁRRAFOS YA EXISTENTES, 176 FRACCIÓN I, 178 FRACCIONES III Y VI, Y 199 ADICIONÁNDOLE UN PÁRRAFO SEGUNDO RECORRIÉNDOSE SUBSECUENTEMENTE LOS PÁRRAFOS YA EXISTENTES Y SE REFORMA EL ÚLTIMO PÁRRAFO, TODOS DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO."]
 
-PRIMERO. El presente decreto entrará en vigor el primero de enero del 2020, previa publicación en el periódico oficial “El Estado de Jalisco.”
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
+PRIMERO. El presente decreto se publicará en el periódico oficial "El Estado de Jalisco"; y su vigencia será de conformidad con lo siguiente:
+
+I. El artículo 174, con excepción de su párrafo cuarto, entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco"; y
+
+II. El resto del Decreto entrará en vigor el día 1 de enero de 2020.
 
 SEGUNDO. Las licencias de conducir que se hubieran expedido con anterioridad a la entrada en vigor del presente decreto, continuarán siendo válidas hasta que venza el plazo de su vigencia. Para el trámite de refrendo, podrán realizarlo dentro de los treinta días naturales anteriores a la fecha de vencimiento y el tiempo que transcurra desde la fecha de su expedición hasta la fecha próxima inmediata de su cumpleaños, se reconocerá como vigente, iniciando el período de cuatro años el día y mes de nacimiento. Si el trámite lo realiza con fecha posterior al vencimiento, deberá reunir los requisitos establecidos en el artículo 57 de la presente Ley.
 
 TERCERO. El Gobierno del Estado de Jalisco, durante el periodo comprendido entre la publicación y entrada en vigor de este decreto, deberá realizar una campaña de comunicación, socialización y concientización de la presente reforma.
 
 CUARTO. A partir de la entrada en vigor del presente decreto, la Secretaría del Transporte deberá implementar en el Área Metropolitana de Guadalajara y en el interior del Estado de manera intermitente y aleatoria, el servicio de expedición de licencias de conducir para su entrega inmediata.
+
+P.O. 10 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27335/LXII/19 QUE REFORMA EL PRIMER ARTÍCULO TRANSITORIO DEL DECRETO NÚMERO 27288/LXII/2019 PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE JALISCO" EL DÍA 11 DE JULIO DEL 2019, QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO.”]
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial "El Estado de Jalisco".
