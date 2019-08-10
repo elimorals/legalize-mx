@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-catastro-municipal-del-estado-de-jalisco-12360"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-18"
-last_updated: "2017-04-08"
+last_updated: "2019-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de noviembre de 1997.
 
@@ -197,9 +197,9 @@ XXXVIII. Conservación del catastro: la actualización de la información de los
 
 XXXIX. Zona Conurbada: el área urbanizada que determine el Plan de Ordenamiento de la Zona Conurbada de que se trate;
 
-(REFORMADA, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 2015)
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
 
-XL. Secretaría: la Secretaría de Planeación, Administración y Finanzas;
+XL Secretaría: la Secretaría de la Hacienda Pública;
 
 > <small>(ADICIONADA, P.O. 25 DE JULIO DE 2000)</small>
 
@@ -527,7 +527,9 @@ El Consejo Técnico Catastral del Estado se integrará con los titulares de las 
 
 I. El titular de la Secretaría, quien lo presidirá;
 
-II. El Secretario de Desarrollo Rural;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+II. El Secretario de Agricultura y Desarrollo Rural;
 
 (REFORMADA, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
@@ -875,7 +877,9 @@ La iniciativa deberá ser presentada a más tardar el 31 de agosto del año prev
 
 Dentro del proceso legislativo, en tratándose de aprobación de las tablas de valores unitarios, el Congreso del Estado sólo tendrá facultades de aprobar o rechazar los proyectos contenidos en la iniciativa respectiva, pero en ningún caso y bajo ninguna circunstancia tendrá facultades de realizar modificaciones a los valores contenidos en el proyecto presentado mediante la iniciativa respectiva.
 
-Si por cualquier circunstancia el Congreso del Estado no se pronuncia legalmente respecto de la aprobación o rechazo de la tabla de valores unitarios de algún municipio antes del día 16 de noviembre del año previo a su aplicación, procederá la positiva ficta, dándose por entendido que el proyecto remitido se aprueba, para lo cual se solicitará ante el Tribunal de lo Administrativo la declaratoria jurisdiccional correspondiente.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
+Si por cualquier circunstancia el Congreso del Estado no se pronuncia legalmente respecto de la aprobación o rechazo de la tabla de valores unitarios de algún municipio antes del día 16 de noviembre del año previo a su aplicación, procederá la positiva ficta, dándose por entendido que el proyecto remitido se aprueba, para lo cual se solicitará ante el Tribunal de Justicia Administrativa la declaratoria jurisdiccional correspondiente.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
@@ -1209,9 +1213,11 @@ b) Por violaciones graves o reiteradas a las normas técnicas sobre la práctica
 
 ### CAPÍTULO IX. De los medios de defensa
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 92.
 
-Para combatir las resoluciones que dicte la autoridad catastral y los actos u omisiones de las autoridades responsables de aplicar la presente Ley, independientemente de los recursos que procedan ante el Tribunal de lo Administrativo, los contribuyentes que resultaren afectados en sus derechos podrán interponer los siguientes medios de defensa:
+Para combatir las resoluciones que dicte la autoridad catastral y los actos u omisiones de las autoridades responsables de aplicar la presente Ley, independientemente de los recursos que procedan ante el Tribunal de Justicia Administrativa, los contribuyentes que resultaren afectados en sus derechos podrán interponer los siguientes medios de defensa:
 
 I. La rectificación, y
 
@@ -1297,7 +1303,9 @@ V. La autoridad catastral podrá pedir que se le rindan los informes que estime 
 
 VI. La autoridad catastral resolverá sobre la admisión del medio de defensa y de las pruebas que el promovente hubiese ofrecido, si fueren pertinentes e idóneas para dilucidar las cuestiones controvertidas, ordenando su desahogo y resolviendo lo que proceda dentro de un plazo que no excederá de cuarenta y cinco días, y
 
-VII. El contribuyente deberá esperar la resolución expresa dentro del término legal, o bien impugnar la negativa ficta una vez que hubiese transcurrido este término, ante el Tribunal de lo Administrativo.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+
+VII. El contribuyente deberá esperar la resolución expresa dentro del término legal, o bien impugnar la negativa ficta una vez que hubiese transcurrido este término, ante el Tribunal de Justicia Administrativa.
 
 ###### Artículo 101.
 
@@ -1313,9 +1321,11 @@ IV. Dejar sin efecto el acto impugnado, y
 
 V. Modificar el acto impugnado.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 102.
 
-Contra las resoluciones de la autoridad catastral emitidas con motivo de la rectificación, el contribuyente podrá interponer la revisión ante el síndico del ayuntamiento; sin embargo, el afectado podrá optar entre interponer este medio de defensa, dentro de un plazo de veinte días hábiles a partir de la notificación, o demandar lo que proceda ante el Tribunal de lo Administrativo.
+Contra las resoluciones de la autoridad catastral emitidas con motivo de la rectificación, el contribuyente podrá interponer la revisión ante el síndico del ayuntamiento; sin embargo, el afectado podrá optar entre interponer este medio de defensa, dentro de un plazo de veinte días hábiles a partir de la notificación, o demandar lo que proceda ante el Tribunal de Justicia Administrativa.
 
 ###### Artículo 103.
 
@@ -1478,3 +1488,9 @@ P.O. 8 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26313/LXI/17 QUE REFORMA LOS ARTÍCULOS 15 Y 44, FRACCIÓN II, DE LA LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. EI presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
+
+P.O. 10 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27304/LXII/19 QUE REFORMA LOS ARTÍCULOS 4, 19, 55, 92, 100 Y 102 DE LA LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “EI Estado de Jalisco”.
