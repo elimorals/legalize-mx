@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-instituto-de-pensiones-del-estado-de-jalisco-71070"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-19"
-last_updated: "2019-05-11"
+last_updated: "2019-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 19 de noviembre de 2009.
 
@@ -145,9 +145,9 @@ Quien haga el pago de aportaciones o retenciones deberá obtener del Instituto l
 
 También podrán determinarse otros medios de pago y documentación del mismo, conforme a las bases que de forma general establezca el Consejo Directivo.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
 
-La falta de pago de aportaciones, retenciones, actualizaciones o recargos dará lugar a la ejecución forzosa mediante retención en aportaciones, participaciones y cualesquiera otros recursos líquidos, que se efectuará a petición del Instituto y se aplicará por la Secretaría de la Hacienda Pública del Estado.
+La falta de pago de aportaciones, retenciones, actualizaciones, o recargos dará lugar a la ejecución forzosa mediante retención en aportaciones, participaciones y cualesquiera otros recursos líquidos, que se efectuará a petición del Instituto y se aplicará por la Secretaría de la Hacienda Pública.
 
 ###### Artículo 11.
 
@@ -1421,7 +1421,7 @@ II. Realizar las actividades de servicio y de autoridad tendientes a cumplir y h
 
 III. Verificar y requerir el cumplimiento de las obligaciones de las entidades públicas patronales y de los afiliados, dictando medidas correctivas, determinando los créditos y requiriendo su pago. Para tal efecto podrá ordenar las visitas de verificación establecidas en esta Ley;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE AGOSTO DE 2019)</small>
 
 IV. Requerir a la Secretaría de la Hacienda Pública la afectación, retención y entero de cuotas omitidas con cargo a subsidios, aportaciones, participaciones y demás recursos de la hacienda federal, estatal o municipal;
 
@@ -1838,3 +1838,9 @@ P.O. 11 DE MAYO DE 2019.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27301/LXII/19 QUE REFORMA LOS ARTÍCULOS 10 Y 149 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 2, 15, 18, 20, 21, 22 Y 24 DE LA LEY DE INCOMPATIBILIDADES PARA LOS SERVIDORES PÚBLICOS REGLAMENTARIA DEL ARTÍCULO 172 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO; SE REFORMA 34 Y 52 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 158 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; SE REFORMAN LOS ARTICULEOS 47 Y 108 DE LA LEY PARA EL EJERCICIO DE ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
