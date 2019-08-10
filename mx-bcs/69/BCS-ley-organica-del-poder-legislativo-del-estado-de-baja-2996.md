@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2019-07-20"
+last_updated: "2019-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE AGOSTO DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -497,7 +497,9 @@ I.- Impulsar la conformación de acuerdos relacionados con el contenido de las p
 
 II.- Designar delegaciones para atender la celebración de reuniones interparlamentarias con órganos de representación popular de otras entidades federativas o el Congreso de la Unión; con respecto a estas reuniones, en los periodos de receso, el Presidente de la Junta de Gobierno y Coordinación Política hará la designación respectiva.
 
-III.- Proponer a los Diputados que integran las Comisiones Permanentes, Especiales y el Gran Jurado, y expedir los nombramientos correspondientes, una vez que fueren aprobados por la asamblea; así como llevar a cabo la sustitución justificada de los integrantes de las mismas.
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2019)</small>
+
+III.- Proponer a los Diputados que integran las Comisiones Permanentes, Especiales y el Gran Jurado, y expedir los nombramientos correspondientes, una vez que fueren aprobados por la asamblea.
 
 IV.- Conceder licencias a los Diputados en los casos previstos en el Artículo 27 y demás relativos de esta Ley Reglamentaria.
 
@@ -1361,9 +1363,11 @@ Igualmente podrán solicitar a los Servidores Públicos, personas o representant
 
 Cualquier miembro de la Legislatura puede reunirse con las Comisiones a que no pertenezca y discutir en ellas, pero sin voto.
 
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 64.
 
-Los integrantes de las Comisiones Permanentes o Especiales podrán ser removidos de su cargo por acuerdo de la Asamblea.
+Los integrantes de las Comisiones Permanentes o Especiales únicamente podrán dejar de formar parte de las mismas, por renuncia al cargo y así lo comuniquen a la Mesa Directiva.
 
 ###### ARTICULO 65.
 
@@ -1379,9 +1383,13 @@ En la formulación y presentación de los Dictámenes, se observarán los trámi
 
 DE LAS FRACCIONES PARLAMENTARIAS.
 
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 67.
 
-Cada Fracción Parlamentaria estará constituída por un número de Diputados no menor de dos, electos según el principio de Mayoría Relativa o de Representación Proporcional que en cada Partido hayan resultado electos.
+Cada Fracción Parlamentaria estará constituida por un número de Diputados no menor de dos, electos según el principio de Mayoría Relativa o de Representación Proporcional que en cada Partido Político, Coalición o Candidatura Común hayan resultado electos o cuando así lo determine cada Diputado en términos del tercer párrafo del Artículo 73 de esta Ley.
+
+Sin menoscabo de lo establecido por los Artículos 68 y 69 de esta Ley, las Diputadas y los Diputados sin Partido o que no integran Fracción, podrán conformar una única Fracción Parlamentaria Mixta, y así lo comuniquen a la Mesa Directiva.
 
 ###### ARTICULO 68.
 
@@ -1407,9 +1415,15 @@ Los Coordinadores de las Fracciones Parlamentarias serán el conducto de estas c
 
 Los Coordinadores de las Fracciones Parlamentarias podrán convocar a reuniones con los demás Coordinadores de las otras Fracciones para considerar conjuntamente, las acciones específicas que propicien el mejor desarrollo de sus labores.
 
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 73.
 
-Cuando un Partido Político cambie de denominación o se disuelva, se hará del conocimiento del Congreso del Estado y en todo caso la Fracción Parlamentaria correspondiente adoptará la nueva denominación o no se le considerará constituída.
+Cuando un Partido Político cambie de denominación se hará del conocimiento del Congreso del Estado y en todo caso la Fracción Parlamentaria correspondiente adoptará la nueva denominación.
+
+Cuando un Partido Político por cualquier causa se disuelva o pierda su registro, la Fracción Parlamentaria previamente constituida en los términos de los Artículos 68 y 69 de esta Ley, conservará sus derechos hasta la conclusión de la Legislatura.
+
+Los Diputados sin Partido o que no conformen Fracción, podrán incorporarse a alguna de las Fracciones que se hayan constituido en términos de lo que disponen los Artículos 68 y 69 de esta Ley.
 
 ### CAPITULO VIII
 
@@ -2483,9 +2497,13 @@ El nuevo dictamen de la Comisión será leído o discutido con las mismas formal
 
 Para ratificar un proyecto de Ley o de Decreto devuelto por el Ejecutivo con observaciones, o aprobar estas, se requiere el voto afirmativo de las dos terceras partes de los Diputados presentes.
 
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 170.
 
-Respecto de las demás resoluciones del Congreso que no constituyan Ley o Decreto, se observará lo dispuesto en el Artículo 61 de la Constitución del Estado.
+Respecto de las demás resoluciones del Congreso que no constituyan Ley o Decreto, se observará lo dispuesto en el Artículo 61 de la Constitución del Estado Libre y Soberano de Baja California Sur.
+
+Esta Ley, solo podrá ser reformada, adicionada o derogada, por el voto de las dos terceras partes de los miembros de la Legislatura.
 
 ### CAPITULO VIII
 
@@ -3619,7 +3637,7 @@ El presente decreto entrara en vigor al día siguiente de su aprobación. Publí
 
 B.O. 20 DE JULIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 2622.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2622.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, sin perjuicio de lo establecido en los siguientes artículos transitorios.
 
@@ -3638,3 +3656,13 @@ c) Para el segundo periodo ordinario de sesiones, comprendido del día 15 de mar
 d) Para el segundo periodo de receso, comprendido del día 01 de julio al 31 de agosto del año 2021, la presidencia de la mesa directiva deberá recaer en el género masculino.
 
 Artículo Quinto.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 10 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 2626 POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 51 FRACCIÓN III, 64, 67, 73 Y 170 DE LA LEY REGLAMENTARÍA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA DE SU APROBACIÓN Y SE ENVIARÁ PARA SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+SEGUNDO.- EN VIRTUD DE LAS PRESENTES REFORMAS Y ADICIONES, POR ÚNICA OCASIÓN, Y UNA VEZ APROBADAS LAS MISMAS, QUEDAN RECONOCIDAS LAS FRACCIONES PARLAMENTARIAS DE LOS PARTIDOS POLÍTICOS ENCUENTRO SOCIAL Y ACCIÓN NACIONAL QUE EN TÉRMINOS DE LOS ARTÍCULOS 68 Y 69 DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR, ASÍ LO COMUNICARON A LA MESA DIRECTIVA AL INICIO DEL PRIMER PERÍODO ORDINARIO DE SESIONES DEL PRIMER AÑO DE EJERCICIO CONSTITUCIONAL, POR LO QUE A PARTIR DEL DÍA PRIMERO DE SEPTIEMBRE DEL PRESENTE AÑO Y HASTA EL TREINTA Y UNO DE AGOSTO DEL AÑO DOS MIL VEINTE, PRESIDIRÁ LA JUNTA DE GOBIERNO Y COORDINACIÓN POLÍTICA LA FRACCIÓN DEL PARTIDO ENCUENTRO SOCIAL Y A PARTIR DEL PRIMERO DE SEPTIEMBRE DEL AÑO DOS MIL VEINTE Y HASTA LA CONCLUSIÓN DE ESTA XV LEGISLATURA, PRESIDIRÁ LA JUNTA DE GOBIERNO Y COORDINACIÓN POLÍTICA, QUIÉN COORDINE LOS TRABAJOS DE LA FRACCIÓN PARLAMENTARIA DEL PARTIDO ACCIÓN NACIONAL.
+
+TERCERO.- POR ÚNICA OCASIÓN EN TÉRMINOS DE LO ESTABLECIDO POR EL SEGUNDO PÁRRAFO DEL ARTÍCULO 67 DE LA PRESENTE REFORMA, Y CON LA FINALIDAD DE QUE HAYA MAYOR PARTICIPACIÓN DE LAS CORRIENTES IDEOLÓGICAS REPRESENTADAS EN ESTE PODER LEGISLATIVO EN LOS ÓRGANOS DE GOBIERNO DE ESTA XV LEGISLATURA, LAS DIPUTADAS Y DIPUTADOS QUE NO CONFORMAN FRACCIÓN O SIN PARTIDO, PODRÁN INTEGRAR UNA FRACCIÓN PARLAMENTARIA MIXTA QUIENES NO PODRÁN PRESIDIR LA JUNTA DE GOBIERNO Y COORDINACIÓN POLÍTICA DE LA XV LEGISLATURA DEL CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR.
