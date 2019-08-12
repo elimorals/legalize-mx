@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-13678
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-06-14"
-last_updated: "2019-06-14"
+last_updated: "2019-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2019.
 
 Ley publicada en el Número 11 del Periódico Oficial del Estado de Quintana Roo, el viernes 14 de junio de 2019.
 
@@ -161,21 +161,29 @@ D) Diputado sin partido: Es aquel que haya manifestado por escrito su voluntad d
 
 Al renovarse la Legislatura, la comisión permanente en funciones se constituirá en Comisión Instaladora.
 
-A más tardar el día 2 de septiembre del año que corresponda al inicio del primer año de ejercicio constitucional de una nueva Legislatura, la Comisión Instaladora deberá contar con los resultados definitivos de la elección de diputados con la indicación del porcentaje de votación por partido político así como la relación de diputados electos por ambos principios con la especificación del partido político del que procedan o en el que hayan determinado permanecer durante el ejercicio del cargo. Dicha información deberá ser requerida a la autoridad electoral correspondiente.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2019)</small>
+
+A más tardar el día 1 de septiembre del año que corresponda al inicio del primer año de ejercicio constitucional de una nueva Legislatura, la Comisión Instaladora deberá contar con los resultados definitivos de la elección de diputados con la indicación del porcentaje de votación por partido político, así como la relación de diputados electos por ambos principios con la especificación del partido político del que procedan o en el que hayan determinado permanecer durante el ejercicio del cargo. Dicha información deberá ser requerida a la autoridad electoral correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 20.
 
-A más tardar el día 3 de septiembre del año que corresponda al inicio del primer año de ejercicio constitucional de una nueva Legislatura, los diputados electos deberán presentar a la comisión instaladora su constancia emitida por la autoridad electoral y los grupos legislativos deberán acreditar su conformación mediante acta suscrita por los diputados que aceptan constituirse en grupo legislativo. El documento deberá contener el nombre del grupo, los nombres de los diputados que la integran así como la determinación de aquel que se desempeñará como coordinador del grupo legislativo, de conformidad con las normas del partido político que corresponda o por acuerdo del grupo legislativo, en caso de que no se encuentre regulado.
+A más tardar el día 2 de septiembre del año que corresponda al inicio del primer año de ejercicio constitucional de una nueva Legislatura, los diputados electos deberán presentar a la comisión instaladora su constancia emitida por la autoridad electoral y los grupos legislativos deberán acreditar su conformación mediante acta suscrita por los diputados que aceptan constituirse en grupo legislativo. El documento deberá contener el nombre del grupo, los nombres de los diputados que la integran así como la determinación de aquel que se desempeñará como coordinador del grupo legislativo, de conformidad con las normas del partido político que corresponda o por acuerdo del grupo legislativo, en caso de que no se encuentre regulado.
 
-La Comisión Instaladora, el día 3 de septiembre del año que corresponda al inicio del primer año de ejercicio constitucional de una nueva Legislatura, deberá publicar en los estrados del Poder Legislativo, la lista de diputados electos indicando si son un grupo legislativo, una representación legislativa, diputado independiente o diputado sin partido. Asimismo, deberá publicarse la referencia de los tres grupos legislativos con derecho a presidir la Junta de Gobierno y Coordinación Política indicando el grupo legislativo con mayor representación en la Legislatura.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2019)</small>
+
+La Comisión Instaladora, el día 2 de septiembre del año que corresponda al inicio del primer año de ejercicio constitucional de una nueva Legislatura, deberá publicar en los estrados del Poder Legislativo, la lista de diputados electos indicando si son un grupo legislativo, una representación legislativa, diputado independiente o diputado sin partido. Asimismo, deberá publicarse la referencia de los tres grupos legislativos con derecho a presidir la Junta de Gobierno y Coordinación Política indicando el grupo legislativo con mayor representación en la Legislatura.
 
 Para definir la mayor representación de los grupos legislativos se atenderá primeramente al número de diputados con los que cuente el grupo legislativo y en caso de un empate entre dos o más grupos legislativos, se tomará en cuenta los porcentajes de votación obtenidos en la elección correspondiente.
 
 La comisión instaladora podrá convocar a los diputados electos a celebrar las reuniones que se requieran previamente a la sesión constitutiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 21.
 
-El 4 de septiembre del año que corresponda al inicio del primer año de ejercicio constitucional de una nueva Legislatura, los diputados electos, a convocatoria de la comisión instaladora, celebrarán la sesión constitutiva con la asistencia de cuando menos catorce diputados miembros de la Legislatura, elegirán a una mesa instaladora presentando sus propuestas organizados por grupos legislativos, representación legislativa, diputados independientes y sin partido, para que mediante votación nominal y por mayoría de votos de los presentes, sea electa la fórmula de presidente, vicepresidente y secretarios.
+El 3 de septiembre del año que corresponda al inicio del primer año de ejercicio constitucional de una nueva Legislatura, los diputados electos, a convocatoria de la comisión instaladora, celebrarán la sesión constitutiva con la asistencia de cuando menos catorce diputados miembros de la Legislatura, elegirán a una mesa instaladora presentando sus propuestas organizados por grupos legislativos, representación legislativa, diputados independientes y sin partido, para que mediante votación nominal y por mayoría de votos de los presentes, sea electa la fórmula de presidente, vicepresidente y secretarios.
 
 La comisión instaladora concluirá sus funciones, una vez electa la mesa instaladora, misma que funcionará con la finalidad de dirigir la sesión de instalación de la Legislatura. Una vez concluida la instalación de la legislatura la mesa instaladora quedará sin efecto.
 
@@ -867,7 +875,7 @@ XXII. Comisión de Movilidad;
 
 XXIII. Comisión de Seguridad Pública y Protección Civil;
 
-XXIV. Comisión (sic) Anticorrupción, Participación Ciudadana y Órganos Autónomos, y
+XXIV. Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, y
 
 XXV. Comisión de Defensa de los Límites de Quintana Roo y Asuntos Fronterizos.
 
@@ -2256,3 +2264,13 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS TREINTA Y UN DÍAS DEL MES DE MAYO DEL AÑO DOS MIL DIECINUEVE
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, LIC. FRANCISCO XAVIER LÓPEZ MENA, RUBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 348, POR EL QUE SE REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 19, LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 20 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 21 TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
