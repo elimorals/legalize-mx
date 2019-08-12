@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-rural-sustentable-del-estado-de-morelos-67318
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2019-07-10"
+last_updated: "2019-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de marzo de 2009.
 
@@ -759,7 +759,9 @@ XIII. Las demás que conforme a la presente Ley, les correspondan.
 
 La Secretaría planeará y preverá antes de cada ciclo agrícola y permanentemente, de manera obligada, mediante un Programa Agrícola, que atienda lo establecido y los objetivos del Programa Especial Concurrente de la Entidad, mismo que deberá estar elaborado en el primer cuatrimestre de cada año y que deberá contener, entre otros, los elementos siguientes:
 
-I. La identificación de la demanda estatal, nacional e internacional, de consumo de productos básicos y estratégicos. Principalmente en lo que se refiere a maíz, sorgo, fríjol, arroz, así como lo que se refiere a frutas y hortalizas;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2019)</small>
+
+I. La identificación de la demanda estatal, nacional e internacional, de consumo de productos básicos y estratégicos. Principalmente en lo que se refiere a maíz, sorgo, fríjol, arroz y nopal, así como lo que se refiere a frutas y hortalizas;
 
 II. Las expectativas de producción estatal, nacional e internacional, de granos básicos, frutas y de los principales vegetales;
 
@@ -1611,11 +1613,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 6 DE JULIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS TREINTA Y CUATRO POR EL QUE SE REFORMA EL ARTÍCULO 3 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS, CON LA FINALIDAD DE INCLUIR COMO BENEFICIARIOS DE ESTA LEY A LOS PEQUEÑOS PRODUCTORES, ASÍ COMO TAMBIÉN A LOS DE AUTOCONSUMO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SETECIENTOS TREINTA Y CUATRO POR EL QUE SE REFORMA EL ARTÍCULO 3 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS, CON LA FINALIDAD DE INCLUIR COMO BENEFICIARIOS DE ESTA LEY A LOS PEQUEÑOS PRODUCTORES, ASÍ COMO TAMBIÉN A LOS DE AUTOCONSUMO".]
 
 PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XXVII, incisos a), b) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
 
 P.O. 10 DE JULIO DE 2019.
 
@@ -1624,5 +1626,15 @@ P.O. 10 DE JULIO DE 2019.
 PRIMERA.- Aprobado que sea el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión oficial del gobierno del estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS VEINTICUATRO POR EL QUE SE REFORMA LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Aprobado que sea el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones que se opongan al presente Decreto.
