@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2019-06-10"
+last_updated: "2019-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -1109,11 +1109,15 @@ II.- Estar en pleno ejercicio de sus derechos; y
 
 III.- Ser mayor de 30 años.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 49.
 
 Todos los despachos del Gobernador deberán ser firmados por el Secretario General de Gobierno.
+
+El Decreto promulgatorio de leyes, será refrendado únicamente por el Secretario General de Gobierno.
+
+Los Decretos, acuerdos y reglamentos que el Gobernador del Estado promulgue, para que sean obligatorios, deberán estar refrendados por el Secretario General de Gobierno y por el encargado del ramo según corresponda, de conformidad con la ley de la materia.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
 
@@ -1563,7 +1567,7 @@ Dicha remuneración será determinada anual y equitativamente en los presupuesto
 
 I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
-II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente y este a su vez no podrá percibir un ingreso mayor al del Presidente de la República en términos de lo establecido en el Articulo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente y este a su vez no podrá percibir un ingreso mayor al del Presidente de la República en términos de lo establecido en el Artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
 
 III. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado (sic) así lo requieran.
 
@@ -1813,7 +1817,7 @@ Serán sujetos de Juicio Político el Gobernador, los Diputados a la Legislatura
 
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular denuncia ante el Congreso del Estado por conductas que impliquen una responsabilidad política de los sujetos a que se refiere este articulo, y previo trámite que señale la Ley de Responsabilidades de los Servidores Públicos, el Congreso por el voto de las dos terceras partes de sus miembros determinará si es culpable, en cuyo caso será destituido del cargo e inhabilitado para desempeñar una función, cargo o comisión dentro del servicio público.
+Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular denuncia ante el Congreso del Estado por conductas que impliquen una responsabilidad política de los sujetos a que se refiere este artículo, y previo trámite que señale la Ley de Responsabilidades de los Servidores Públicos, el Congreso por el voto de las dos terceras partes de sus miembros determinará si es culpable, en cuyo caso será destituido del cargo e inhabilitado para desempeñar una función, cargo o comisión dentro del servicio público.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
@@ -3231,7 +3235,7 @@ El Artículo Primero del presente Decreto iniciará su vigencia el día siguient
 
 ###### ARTÍCULO SEGUNDO.
 
-El Articulo Segundo del presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, no obstante lo dispuesto por el Artículo Tercero Transitorio
+El Artículo Segundo del presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, no obstante lo dispuesto por el Artículo Tercero Transitorio
 
 ###### ARTÍCULO TERCERO.
 
@@ -3255,8 +3259,16 @@ Cumplidos los extremos legales que establece el Artículo 94 de la Constitución
 
 P.O. 10 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 141.- SE REFORMAN EL CUARTO Y QUINTO PÁRRAFOS DEL ARTÍCULO 6° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 141.- SE REFORMAN EL CUARTO Y QUINTO PÁRRAFOS DEL ARTÍCULO 6° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 172.- SE REFORMA EL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
