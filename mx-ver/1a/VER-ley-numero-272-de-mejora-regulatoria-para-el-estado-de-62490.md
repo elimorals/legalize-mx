@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-272-de-mejora-regulatoria-para-el-estado-de-62490"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-13"
-last_updated: "2010-08-10"
+last_updated: "2019-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 272 DE MEJORA REGULATORIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DE LA LEY NÚMERO 281 DE MEJORA REGULATORIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 12 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY NUMERO 272 DE MEJORA REGULATORIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 2019 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el miércoles 13 de agosto de 2008.
 
@@ -127,11 +129,11 @@ El Consejo Estatal de Mejora Regulatoria decidirá en definitiva los casos de co
 
 Artículo 8
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 Los portales de Internet de las dependencias y entidades deberán crear un apartado de mejora regulatoria, en el cual se incorporará toda su información sobre la materia y una liga al portal de la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 El portal de Internet de la Secretaría incluirá un banner alusivo a la mejora regulatoria, que contendrá como mínimo:
 
@@ -153,13 +155,13 @@ VI. Los Programas, los comentarios que formulen los particulares o la Secretarí
 
 ## Título Segundo. DE LOS RESPONSABLES DE LA MEJORA REGULATORIA
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE AGOSTO DE 2010)</small>
 
 ### CAPÍTULO PRIMERO. De la Mejora Regulatoria
 
 Artículo 9
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 En materia de mejora regulatoria, la Secretaría de Desarrollo Económico y Portuario tendrá las siguientes atribuciones:
 
@@ -193,7 +195,7 @@ Artículo 11 (DEROGADO, G.O. 10 DE AGOSTO DE 2010)
 
 Artículo 12
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 Se crea el Consejo Estatal de Mejora Regulatoria como una instancia consultiva de la Secretaría en materia de mejora regulatoria, en el que participarán los diversos sectores de la sociedad y que tendrá las siguientes atribuciones:
 
@@ -373,7 +375,7 @@ De no realizarse la prevención mencionada en el párrafo anterior dentro del pl
 
 Artículo 23
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 La Secretaría integrará y administrará el Registro, el cual contendrá todos los trámites y servicios vigentes en la administración pública estatal centralizada y paraestatal.
 
@@ -383,7 +385,7 @@ Las personas que lleven a cabo trámites y servicios tendrán derecho a que los 
 
 Artículo 24
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 La información contenida en el Registro, así como su actualización, serán de responsabilidad exclusiva de la dependencia o entidad que la presente ante la Secretaría, debiéndose entregar dicha información de conformidad con los lineamientos que para el efecto emita la propia Secretaría.
 
@@ -399,7 +401,7 @@ Los procedimientos de las dependencias y entidades para realizar sus contratacio
 
 Artículo 25
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 El Registro será público y deberá cumplir con las disposiciones que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Veracruz de Ignacio de la Llave, asimismo, se hará del conocimiento general a través de un portal de Internet y de aquellos medios que la Secretaría considere idóneos para el mayor conocimiento público.
 
@@ -451,7 +453,7 @@ Bajo la coordinación de la Secretaría, las dependencias y entidades, en el pro
 
 Artículo 28
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 Las dependencias y entidades, cuando elaboren anteproyectos de regulación que se ubiquen en los supuestos del artículo 1, los presentarán a la Secretaría, junto con una manifestación, la cual será un análisis que tendrá como principal objetivo desarrollar, mediante investigaciones analíticas y transparentes, los aspectos siguientes:
 
@@ -477,7 +479,7 @@ La dependencia o entidad podrá solicitar la exención de la obligación de elab
 
 Artículo 30
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 La Secretaría hará públicos, a través de su portal de Internet, los anteproyectos y manifestaciones, a más tardar dos días después de aquel en que los reciba.
 
@@ -485,7 +487,7 @@ De igual forma los enviará a las partes que identifique como afectadas y emplea
 
 Artículo 31
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 En caso de que un anteproyecto pretenda resolver o prevenir una situación de emergencia, la dependencia o entidad podrá solicitar a la Secretaría que se emita el dictamen reconociendo dicha situación, para lo cual se acompañará la justificación de la solicitud y los efectos que podría tener de no expedirse en la fecha en que se pretende.
 
@@ -505,7 +507,7 @@ La dependencia o entidad contará con un plazo máximo de diez días hábiles pa
 
 Artículo 32
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 Cuando los anteproyectos pretendan modificar disposiciones que por su naturaleza deban actualizarse periódicamente, sin imponer obligaciones adicionales a las ya existentes, las dependencias y entidades podrán elaborar una manifestación de actualización periódica, de conformidad con los lineamientos que emita la Secretaría.
 
@@ -539,7 +541,7 @@ III. Una opinión de la manifestación.
 
 Artículo 35
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 En caso de controversia entre la dependencia o entidad y la Secretaría respecto del contenido de la manifestación y el anteproyecto, a petición de cualquiera de las partes se podrá solicitar, con cargo al presupuesto de la primera, la opinión de un experto en la materia, el cual será designado de común acuerdo.
 
@@ -547,7 +549,7 @@ El experto deberá entregar su opinión en un término máximo de 20 días hábi
 
 Artículo 36
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 Si la dependencia o entidad no desea incorporar al anteproyecto las observaciones del dictamen, deberá comunicar a la Secretaría por escrito las razones respectivas dentro de los diez días hábiles siguientes, la cual emitirá en los cinco días hábiles siguientes un dictamen final, que analizará los argumentos planteados.
 
@@ -577,7 +579,7 @@ Para el efecto, se emitirá una clave de identificación personalizada y se inte
 
 Artículo 40
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 La Secretaría tendrá a su cargo el Registro de Personas Acreditadas, integrado en una base de datos única, emitirá los lineamientos correspondientes y proveerá lo necesario para integrar las fichas de usuarios y las claves de identificación personalizada que cada dependencia o entidad genere.
 
@@ -663,7 +665,7 @@ Tercero. Las dependencias o entidades deberán hacer del conocimiento de la Secr
 
 Al término de dicho plazo, la Secretaría publicará en la Gaceta Oficial del estado el listado de responsables oficiales.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 Cuarto. Lo previsto en el Título Tercero, Capítulos Primero y Tercero, entrará en vigor al día hábil siguiente del en que la Secretaría publique en la Gaceta Oficial del estado los acuerdos mediante los que informe que están operando el Registro y el Registro de Personas Acreditadas.
 
@@ -707,7 +709,7 @@ Gobernador del Estado
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.O. 10 DE AGOSTO DE 2010.
 
@@ -716,3 +718,19 @@ Primero. El presente Decreto entrará en vigor al día hábil siguiente de su pu
 Segundo. Se establece el término de treinta días hábiles, a partir de la entrada en vigor de la presente reforma, para implementar lo establecido por el artículo Séptimo Transitorio de la Ley que se reforma por el presente Decreto.
 
 Tercero. La Secretaría de Desarrollo Económico y Portuario realizará las acciones necesarias para modificar su Reglamento Interior y otorgar a sus áreas las obligaciones que esta Ley establece.
+
+G.O. 12 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 281 DE MEJORA REGULATORIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. El Consejo Estatal de Mejora Regulatoria deberá estar instalado en un plazo que no exceda los noventa días naturales a la entrada en vigor de la presente Ley.
+
+Tercero. Las autoridades de mejora regulatoria y los Sujetos Obligados darán cumplimiento a las obligaciones establecidas en la presente ley con cargo a sus respectivos presupuestos.
+
+Cuarto. En un término que no exceda los ciento ochenta días deberán publicarse los respectivos reglamentos y normatividad relativa con esta ley.
+
+Quinto. A partir de la entrada en vigor de esta ley, los municipios contarán con un plazo de ciento ochenta días para adecuar su normatividad local aplicable con las disposiciones de esta ley. Los Consejos Municipales de Mejora Regulatoria deberán instalarse formalmente dentro de un plazo de noventa días naturales siguientes a la entrada en vigor de las adecuaciones correspondientes en su normativa.
+
+Sexto. Se abrogan la Ley de Mejora Regulatoria para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, el miércoles 13 de agosto de 2008 No. Ext. 261; el Decreto por el que se establece el Programa de Mejora de Trámites Estatales del Estado de Veracruz de Ignacio de la Llave, publicado el miércoles 6 de marzo de 2013 en la Gaceta Oficial del Estado Número Extraordinario 086, el Decreto por el que se establece el Registro Estatal de Trámites y Servicios del Poder Ejecutivo del Gobierno del Estado de Veracruz (RETS), publicado el viernes 27 de junio de 2014 en la Gaceta Oficial del Estado Número Extraordinario 256, el Decreto por el que se establece la Actualización del Registro Estatal de Trámites y Servicios (RETS), publicado el miércoles 12 de septiembre de 2018 en la Gaceta Oficial del Estado Número Extraordinario 366, y la Fe de Erratas al Acuerdo que establece la Actualización del Registro Estatal de Trámites y Servicios (RETS), publicada el miércoles 24 de junio de 2018 en la Gaceta Oficial del Estado Número Extraordinario 426.
