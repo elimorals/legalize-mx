@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2018-07-27"
+last_updated: "2019-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el día 30 de abril de 1985.
 
@@ -6018,6 +6018,14 @@ IV.- Los que, según los artículos 575 y 576, pueden intentar la acción que en
 Cuando se trate de enmendar errores, yerros o defectos mecanográficos, ortográficos, numéricos y otros meramente accidentales del acta asentada, procede su aclaración ante el Director del Registro del Estado Civil.
 
 De resultar procedente la aclaración, el Director del Registro del Estado Civil remitirá una copia certificada de la resolución al Archivo Estatal a efecto de hacer las anotaciones que correspondan al libro duplicado, y otra al Juzgado del Registro del Estado Civil en el que fue expedida, para que se proceda a realizar las anotaciones en el libro original de actas.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2019)</small>
+
+Tratándose de personas adultas mayores, la persona que ocupe la Dirección del Registro del Estado Civil resolverá lo que proceda con relación a la solicitud de aclaración, en un término que no deberá exceder de tres días hábiles contados a partir del momento en el que ésta fue turnada para su conocimiento. Por su parte, en los casos donde se acredite la existencia de una emergencia, independientemente de quien solicite la aclaración, el término para resolver lo procedente no deberá exceder de un día hábil a partir del momento en el que ésta fue turnada para su conocimiento.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2019)</small>
+
+En caso de que las solicitudes referidas en el párrafo anterior sean presentadas ante la persona que ocupe la titularidad del Juzgado del Registro Civil, éste deberá turnarlo de manera inmediata a la Dirección del Registro del Estado Civil.
 
 ###### Artículo 937.
 
@@ -18945,11 +18953,13 @@ Si después de la muerte del testador y antes de elevarse a formal testamento la
 
 Lo dispuesto en el artículo anterior, se observará también en el caso de que alguno o algunos de los testigos no se encuentren en el lugar de la información testimonial, sin perjuicio de que, en su caso, se examinen por exhorto.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 13 DE AGOSTO DE 2019)</small>
+
 #### Sección Quinta.- Testamento militar y marítimo
 
 ###### Artículo 3318.
 
-El testamento militar y el marítimo, otorgados conforme a las disposiciones del Código del Distrito Federal, producirán efectos en el Estado de Puebla, respecto a las disposiciones testamentarias que deban ejecutarse en éste.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2019)
 
 #### Sección Sexta.- Testamento hecho fuera del Estado
 
@@ -20544,6 +20554,22 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto p
 P.O. 27 DE JULIO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 64, LAS FRACCIONES VIII Y IX DEL 1961, Y ADICIONA LA FRACCIÓN X AL ARTÍCULO 1961 Y EL 1996 QUATER, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DEROGA LA SECCIÓN QUINTA, DEL CAPÍTULO DÉCIMO, DEL LIBRO SEXTO Y EL ARTÍCULO 3318 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN TERCER Y UN CUARTO PÁRRAFO AL ARTÍCULO 936 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
