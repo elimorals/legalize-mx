@@ -4,7 +4,7 @@ identifier: "LDCMPME"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2017-05-19"
+last_updated: "2019-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26811&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDCMPME"
 
 LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE AGOSTO DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 2002.
 
@@ -122,9 +122,7 @@ XVI. Consejo Estatal: El Consejo que en cada Entidad Federativa se establezca pa
 
 XVII. Reglamento: El Reglamento de esta Ley, y
 
-> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
-
-XVIII. INADEM: Instituto Nacional del Emprendedor.
+XVIII. (DEROGADA, D.O.F. 13 DE AGOSTO DE 2019)
 
 ###### Artículo 4.
 
@@ -366,9 +364,11 @@ El Sistema comprende el conjunto de acciones que realice el Sector Público y lo
 
 El Consejo es la instancia que promueve, analiza y da seguimiento a los esquemas, Programas, instrumentos y acciones que deben desarrollarse en apoyo a las MIPYMES.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 18.
 
-El Consejo estará conformado por 31 integrantes:
+El Consejo estará conformado por los integrantes siguientes:
 
 I. El Secretario de Economía, quien lo presidirá;
 
@@ -378,7 +378,9 @@ III. El Secretario de Educación Pública;
 
 IV. El Secretario del Trabajo y Previsión Social;
 
-V. El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2019)</small>
+
+V. El Secretario de Agricultura y Desarrollo Rural;
 
 VI. El Secretario de Medio Ambiente y Recursos Naturales;
 
@@ -388,9 +390,7 @@ VIII. El Secretario de Comunicaciones y Transportes;
 
 IX. El Secretario de Turismo;
 
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
-
-X. El Presidente del INADEM;
+X. (DEROGADA, D.O.F. 13 DE AGOSTO DE 2019)
 
 XI. El Director General de Nacional Financiera, S.N.C.;
 
@@ -398,7 +398,9 @@ XII. El Director General del Banco Nacional de Comercio Exterior, S.N.C.;
 
 XIII. El Director General del Consejo Nacional de Ciencia y Tecnología;
 
-XIV. Seis representantes de los Secretarios de Desarrollo Económico o su equivalente en el Distrito Federal y en las Entidades Federativas;
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2019)</small>
+
+XIV. Seis representantes de los Secretarios de Desarrollo Económico o su equivalente en la Ciudad de México y en las Entidades Federativas;
 
 XV. El Presidente de la Confederación Nacional de Cámaras Industriales de los Estados Unidos Mexicanos;
 
@@ -420,15 +422,15 @@ El Consejo podrá invitar a participar en las sesiones, con voz pero sin voto, a
 
 Por cada uno de los miembros propietarios se deberá nombrar un suplente, en el caso de las dependencias y entidades de la Administración Pública Federal, deberá tener al menos el nivel de director general o su equivalente.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2019)</small>
 
-En las ausencias del presidente del Consejo, el Presidente del INADEM asumirá dichas funciones.
+En las ausencias del presidente del Consejo, asumirá sus funciones el Subsecretario que designe la persona titular de la Secretaría.
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 19.
 
-El Consejo contará con un secretario técnico, a cargo del Presidente del INADEM, quien dará seguimiento a los acuerdos que emanen de dicha instancia; informará semestralmente al Congreso de la Unión sobre la evolución de los Programas y los resultados alcanzados; y se coordinará con los Consejos Estatales en lo conducente.
+El Consejo contará con un secretario técnico, que será designado por la persona titular de la Secretaría quien deberá tener nivel mínimo de titular de Unidad. El secretario técnico será quien dará seguimiento a los acuerdos que emanen de dicha instancia; informará semestralmente al Congreso de la Unión sobre la evolución de los Programas y los resultados alcanzados, y se coordinará con los Consejos Estatales en lo conducente.
 
 ###### Artículo 20.
 
@@ -490,17 +492,19 @@ El Consejo Estatal será presidido por el secretario de desarrollo económico o 
 
 Para que sesione válidamente, el Consejo Estatal deberá contar con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que se cuente con la asistencia del secretario técnico del Consejo Estatal, o su suplente. Dicho Consejo se reunirá trimestralmente de manera ordinaria, de acuerdo con el calendario que se apruebe en la primera sesión ordinaria del ejercicio, pudiendo celebrar las reuniones extraordinarias que se requieran.
 
-> <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 13 DE AGOSTO DE 2019)</small>
 
-El Consejo Estatal contará con un secretario técnico, que será el delegado de la Secretaría en la Entidad Federativa de que se trate, quien tendrá la función de dar seguimiento a los acuerdos que de él emanen, así como apoyar al secretario técnico del Consejo para coordinar acciones con el Consejo Estatal.
+El Consejo Estatal contará con un secretario técnico, que será designado por la persona titular de la Secretaría en la Entidad Federativa de que se trate, quien tendrá la función de dar seguimiento a los acuerdos que de él emanen, así como apoyar al secretario técnico del Consejo para coordinar acciones con el Consejo Estatal.
 
 > <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2017)</small>
 
 Por cada uno de los miembros propietarios se deberá nombrar un suplente, en el caso del Gobierno de las Entidades Federativas, deberá tener al menos un nivel jerárquico inferior inmediato al del propietario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 25.
 
-El Consejo Estatal deberá integrarse por un número no mayor al establecido para el Consejo, debiendo estar representados cada uno de los Sectores y delegados en la Entidad Federativa de las dependencias y entidades de la Administración Pública Federal que tengan Programas para las MIPYMES.
+El Consejo Estatal deberá integrarse por un número no mayor al establecido para el Consejo, debiendo estar representados cada uno de los Sectores, representantes de la Secretaría y de las dependencias y entidades de la Administración Pública Federal que tengan Programas para las MIPYMES.
 
 > <small>(REFORMADO, D.O.F. 19 DE MAYO DE 2017)</small>
 
@@ -575,3 +579,13 @@ D.O.F. 19 DE MAYO DE 2017.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- El Ejecutivo Federal y las Secretarías del ramo competentes, deberán realizar las adecuaciones normativas al Reglamento de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.
+
+D.O.F. 13 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Dentro del término de 180 días posterior a la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá realizar las reformas que se requieran al Reglamento de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.
+
+En tanto no se realicen las modificaciones a las que se refiere el párrafo anterior, respecto a las facultades y obligaciones del Instituto Nacional del Emprendedor, continuarán aplicándose las mismas en lo que no contravengan al presente Decreto.
