@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-856-de-proteccion-civil-y-la-reduccion-del-95677"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-01"
-last_updated: "2019-05-20"
+last_updated: "2019-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 856 DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE AGOSTO DE 2019.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 1 de agosto de 2013.
 
@@ -134,6 +134,10 @@ XXIV. Fenómeno socio-organizativo: Agente perturbador que se genera con motivo 
 XXV. Gestión integral del riesgo: Conjunto de acciones cuyo objeto es prevenir, mitigar y reducir el riesgo de desastres, fortalecer la resiliencia o resistencia de la sociedad e impulsar el desarrollo sostenible, mediante la identificación de los riesgos, las vulnerabilidades y su formación y el proceso de previsión, prevención, mitigación, preparación, auxilio, recuperación y, en su caso, reconstrucción;
 
 XXVI. Grupos voluntarios: Instituciones, organizaciones o asociaciones sociales o privadas, acreditadas ante la Secretaría o las autoridades federales competentes, y que cuentan con personal, conocimientos, experiencia y equipo necesarios, para prestar, de manera altruista y comprometida, servicios en acciones de protección civil;
+
+> <small>(ADICIONADA, G.O. 14 DE AGOSTO DE 2019)</small>
+
+XXVI Bis. Guardavidas: persona que cuenta con la acreditación necesaria para ejercer actividades de prevención, salvamento y rescate acuático y que tiene conocimientos básicos en primeros auxilios;
 
 XXVII. Inventario estatal de infraestructura: Conjunto de obras y bienes públicos de competencia estatal o municipal;
 
@@ -1235,11 +1239,31 @@ En el Reglamento de esta Ley se precisará la clasificación de las empresas y a
 
 Para la autorización de nuevos asentamientos humanos, la autoridad responsable deberá solicitar a la Secretaría el dictamen de riesgo por uso del suelo, sin perjuicio de lo que establece la Ley de Desarrollo Urbano, Ordenamiento Territorial y Vivienda para el Estado.
 
-### CAPÍTULO ÚNICO. De la Cultura de la Protección Civil y la Reducción del Riesgo de Desastres
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 14 DE AGOSTO DE 2019)</small>
+
+### CAPÍTULO III. Salvamento y Rescate Acuático
+
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2019)</small>
+
+###### Artículo 88 Bis.
+
+La Secretaría y los Ayuntamientos, conforme a sus atribuciones, son las instancias facultadas para prevenir, mantener y preservar el orden, la seguridad, el salvamento y el rescate, en su caso, de las personas que utilicen los cuerpos de agua, naturales y artificiales, dentro de la Entidad, sin menoscabo de la competencia federal en otros ámbitos.
+
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2019)</small>
+
+###### Artículo 88 Ter.
+
+Los sujetos obligados que cuenten en sus instalaciones con cuerpos de agua artificiales y/o tengan acceso a cuerpos de agua naturales, deberán cumplir con las especificaciones contenidas en los Lineamientos para la Atención y Rescate Acuático emitidos por la Secretaría.
+
+> <small>(ADICIONADO, G.O. 14 DE AGOSTO DE 2019)</small>
+
+###### Artículo 88 Quáter.
+
+La acreditación para realizar la función de guardavidas será expedida por la Secretaría en los términos previstos por los Lineamientos citados en el artículo que antecede.
 
 ## TÍTULO QUINTO. Cultura y Profesionalización
 
-### CAPÍTULO I. De las Declaratorias de Emergencia y Desastre
+### CAPÍTULO ÚNICO. De la Cultura de la Protección Civil y la Reducción del Riesgo de Desastres
 
 ###### Artículo 89.
 
@@ -1277,7 +1301,7 @@ La Secretaría podrá llevar a cabo las acciones de capacitación, enseñanza, p
 
 ## TÍTULO SEXTO. Gestión Financiera y Transferencia del Riesgo
 
-### CAPÍTULO II. De la Transferencia del Riesgo
+### CAPÍTULO I. De las Declaratorias de Emergencia y Desastre
 
 ###### Artículo 94.
 
@@ -1291,7 +1315,7 @@ La Declaratoria de Desastre natural es el acto mediante el cual el Gobierno Fede
 
 En caso de que la capacidad operativa y presupuestal de uno o más municipios se vea rebasada y luego de recibir la información a la que se refiere el artículo 45 de esta Ley, es responsabilidad de la Secretaría disponer de las medidas preventivas y de respuesta necesarias ante la inminencia, alta probabilidad o presencia de un fenómeno perturbador, para brindar el apoyo que se requiera o, en su caso, proponer al Gobernador del Estado su inclusión en la Declaratoria de Emergencia o Desastre, según corresponda.
 
-### CAPÍTULO III. Del Fondo Estatal de Protección Civil y la Reducción del Riesgo de Desastres
+### CAPÍTULO II. De la Transferencia del Riesgo
 
 ###### Artículo 96.
 
@@ -1303,7 +1327,7 @@ Para el cumplimiento de lo dispuesto en el párrafo anterior, las dependencias y
 
 Es responsabilidad del Poder Ejecutivo, conforme a su disponibilidad presupuestaria, la contratación de seguros y demás instrumentos de administración y transferencia de riesgos para la cobertura de daños causados por un desastre natural en los bienes y servicios estratégicos del Estado.
 
-### CAPÍTULO IV. De los Donativos y las Donaciones
+### CAPÍTULO III. Del Fondo Estatal de Protección Civil y la Reducción del Riesgo de Desastres
 
 ###### Artículo 98.
 
@@ -1319,7 +1343,7 @@ El patrimonio del Fondo se integrará en términos de lo dispuesto por la Ley Ge
 
 La administración y aplicación de este Fondo se determinarán de acuerdo a las reglas definidas en el Reglamento de la presente Ley.
 
-### CAPÍTULO I. De los Medios de Apremio y Sanciones
+### CAPÍTULO IV. De los Donativos y las Donaciones
 
 ###### Artículo 99.
 
@@ -1335,7 +1359,7 @@ En el Reglamento de la presente Ley se normarán los criterios y lineamientos pa
 
 ## TÍTULO SÉPTIMO. Medios legales
 
-### CAPÍTULO II. De los Recursos
+### CAPÍTULO I. De los Medios de Apremio y Sanciones
 
 ###### Artículo 101.
 
@@ -1395,7 +1419,7 @@ V. De manera dolosa expida Carta de Corresponsabilidad y omita, tergiverse o pro
 
 Cuando la Secretaría y las Unidades Municipales tengan conocimiento de una actividad que implique daños a la integridad física de las personas, los servicios estratégicos o el medio ambiente, además de aplicar las medidas de seguridad a que se refieren los artículos 109 y 110 de esta Ley, solicitarán a la autoridad competente que promueva la realización de acciones correctivas y de mitigación necesarias para la reducción del riesgo.
 
-### CAPÍTULO III. De las Medidas de Seguridad
+### CAPÍTULO II. De los Recursos
 
 ###### Artículo 108.
 
@@ -1406,6 +1430,8 @@ La sola presentación del recurso no interrumpirá o cancelará las medidas prev
 No se otorgará suspensión respecto de las medidas dictadas por la Secretaría o las Unidades Municipales cuando se adviertan condiciones provocadas por la acción humana, que pongan en riesgo inminente a la población.
 
 Para la interposición, tramitación y resolución de recurso de revocación se estará a lo dispuesto por el Código de Procedimientos Administrativos para el Estado.
+
+### CAPÍTULO III. De las Medidas de Seguridad
 
 ###### Artículo 109.
 
@@ -1522,3 +1548,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. Se concede un plazo de noventa días, a partir de la entrada en vigor de este Decreto, para que el Ejecutivo realice las adecuaciones al Reglamento de la Ley de Protección Civil y la Reducción del Riesgo de Desastres para el Estado de Veracruz de Ignacio de la Llave.
+
+G.O. 14 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 283 QUE ADICIONA LA FRACCIÓN XXVI BIS, AL ARTÍCULO 5 Y ADICIONA EL CAPÍTULO III AL TÍTULO CUARTO Y LOS ARTÍCULOS 88 BIS, 88 TER, 88 QUÁTER DE LA LEY DE PROTECCIÓN CIVIL Y LA REDUCCIÓN DEL RIESGO DE DESASTRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se establece un plazo de noventa días naturales para que la Secretaría de Protección Civil expida los Lineamientos para la Atención y Rescate Acuático.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
