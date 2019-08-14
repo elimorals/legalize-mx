@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-comision-estatal-de-agua-del-137649"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-07-24"
-last_updated: "2019-07-24"
+last_updated: "2019-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137649&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA COMISION ESTATAL DE AGUA DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE AGOSTO DE 2019 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA DE LA COMISIÓN ESTATAL DEL AGUA DEL ESTADO DE MORELOS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE AGOSTO DE 2019.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 24 de julio de 2019.
 
@@ -63,9 +63,11 @@ Es obligación de cada persona que labora en la Comisión Estatal del Agua conoc
 
 El presente ordenamiento tiene por objeto especificar la manera en que las personas servidores públicos adscritos a la Comisión Estatal del Agua, cualquiera que sea su nivel jerárquico y tipo de contratación durante el ejercicio de sus funciones, deben actuar, cumpliendo con los principios, valores y reglas de integridad que rigen a la Administración Pública Estatal.
 
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 3.
 
-Los actos u omisiones que se cometan, contrarios a lo contemplado en este Código de Conducta, deben ser reportados a través de los mecanismos institucionales ante el Comité de Ética de la Comisión Estatal del Agua, en la forma señalada en el capítulo VI de este Código.
+Los actos u omisiones que se cometan, contrarios a lo contemplado en este Código de Conducta, deben ser reportados a través de los mecanismos institucionales ante el Comité de Ética de la Comisión Estatal del Agua, en la forma señalada en el capítulo V de este Código.
 
 GLOSARIO DE TÉRMINOS
 
@@ -245,9 +247,11 @@ Las personas servidores públicos de la Comisión, deberán ofrecer a todos los 
 
 ### CAPITULO V.. DE LA VIGILANCIA, CUMPLIMIENTO, Y SEGUIMIENTO DE QUEJAS
 
+> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 14.
 
-El Comité de Ética de la Comisión Estatal del Agua, se constituye como el Órgano encargado de fomentar y vigilar el cumplimiento del presente Código, por lo que cualquier persona que conozca de posibles incumplimientos al Código de Ética y Reglas de Integridad a las que deben de sujetarse los servidores públicos de la Administración Pública Estatal y al presente Código de Conducta, deberá de hacerlo del conocimiento del Presidente del Comité de Ética de esta Comisión en la forma establecida en el artículo 19 de este Código.
+El Comité de Ética de la Comisión Estatal del Agua, se constituye como el Órgano encargado de fomentar y vigilar el cumplimiento del presente Código, por lo que cualquier persona que conozca de posibles incumplimientos al Código de Ética y Reglas de Integridad a las que deben de sujetarse los servidores públicos de la Administración Pública Estatal y al presente Código de Conducta, deberá de hacerlo del conocimiento del Presidente del Comité de Ética de esta Comisión en la forma establecida en el artículo 18 de este Código.
 
 ###### Artículo 15.
 
