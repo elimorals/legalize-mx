@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-integracion-y-desarrollo-de-las-89343"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2019-06-12"
+last_updated: "2019-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89343&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "MEX"
 LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JUNIO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 14 DE AGOSTO DE 2019.]</small>
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el viernes 31 de agosto de 2012.
 
@@ -203,9 +205,11 @@ VII. Prestar servicios de atención a las personas con discapacidad con fundamen
 
 ### CAPÍTULO I. DENOMINACIÓN, OBJETO Y PATRIMONIO
 
+> <small>(F. DE E., G.G. 14 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 11.
 
-Se crea el Instituto Mexiquense para la Protección y e Integración al Desarrollo de las Personas con Discapacidad como un organismo público descentralizado, con personalidad jurídica y patrimonio propios; sectorizado a la Secretaría de Salud, que para el cumplimiento de sus atribuciones gozará de autonomía técnica y de gestión para formular políticas, acciones, estrategias y programas derivados de ésta Ley.
+Se crea el Instituto Mexiquense para la protección e Integración al Desarrollo de las Personas con Discapacidad como un organismo público descentralizado, con personalidad jurídica y patrimonio propios; sectorizado a la Secretaría de Salud, que para el cumplimiento de sus atribuciones gozará de autonomía técnica y de gestión para formular políticas, acciones, estrategias y programas derivados de esta Ley.
 
 ###### Artículo 12.
 
