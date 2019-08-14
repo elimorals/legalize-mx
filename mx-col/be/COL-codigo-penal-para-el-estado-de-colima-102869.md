@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2019-06-29"
+last_updated: "2019-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2019.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -3903,6 +3903,26 @@ A quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
 
+### CAPÍTULO X. DE LOS DELITOS CONTRA LOS ARCHIVOS
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 275 BIS. (SIC) Será sancionado con pena de tres días a diez años de prisión y multa de tres mil a cinco mil veces el valor diario de la unidad de medida y actualización a quien sustraiga, oculte, altere, mutile, destruya o inutilice, total o parcialmente, información y documentos de los archivos que se encuentren bajo su resguardo, salvo en los casos que no exista responsabilidad determinada en la Ley de Archivos del Estado de Colima; y a quien destruya documentos considerados patrimonio documental del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 275 BIS 1. Será sancionado con pena de tres a diez años de prisión y multa de tres mil veces la unidad de medida y actualización hasta el valor del daño causado, a la persona que destruya documentos relacionados con violaciones graves a derechos humanos, alojados en algún archivo, que así hayan sido declarados previamente por autoridad competente.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
+
+###### ARTÍCULO 267.
+
+Cometen el delito de coalición de servidores públicos, los que teniendo tal carácter, se coaliguen para tomar medidas contrarias a una ley, reglamento o cualquier disposición de carácter general, impedir su ejecución o para hacer dimisión de sus puestos con perjuicio de la función pública.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+A quien cometa este delito se le impondrán de dos a siete años de prisión, multa de cien a trescientas unidades de medida y actualización e inhabilitación de dos a siete años para desempeñar otra función pública.
+
 ### CAPÍTULO I. LESIONES Y HOMICIDIO AGRAVADOS EN CONTRA DE MIEMBROS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
@@ -3913,18 +3933,6 @@ ARTÍCULO 275 BIS. Cuando se infiera lesiones dolosas a un miembro de las instit
 
 ARTÍCULO 275 TER. Cuando de manera dolosa se cometa homicidio en contra de un miembro de las instituciones de seguridad pública, se impondrá sanción de 40 a 50 años de prisión.
 
-###### ARTÍCULO 267.
-
-Cometen el delito de coalición de servidores públicos, los que teniendo tal carácter, se coaliguen para tomar medidas contrarias a una ley, reglamento o cualquier disposición de carácter general, impedir su ejecución o para hacer dimisión de sus puestos con perjuicio de la función pública.
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
-A quien cometa este delito se le impondrán de dos a siete años de prisión, multa de cien a trescientas unidades de medida y actualización e inhabilitación de dos a siete años para desempeñar otra función pública.
-
-### CAPÍTULO I. FALSEDAD ANTE LA AUTORIDAD
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
 ###### ARTÍCULO 268.
 
 Comete el delito de usurpación de funciones y se le impondrán de dos a siete años de prisión y multa por un importe equivalente de cien a doscientas unidades de medida y actualización a quien:
@@ -3933,9 +3941,9 @@ I. Sin ser servidor público se atribuya ese carácter y ejerza o ejecute alguna
 
 II. Al servidor público, que ejerza funciones públicas distintas o que no le hubieren sido conferidas legalmente.
 
-### CAPÍTULO II. EVASIÓN DE PRESOS
+### CAPÍTULO I. FALSEDAD ANTE LA AUTORIDAD
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 269.
 
@@ -3945,7 +3953,7 @@ A quien ultraje a un servidor público en el acto de ejercer sus funciones o con
 
 No se considera ultraje a la autoridad cuando se trate de una video-grabación o tomas fotográficas realizadas por un espectador, en un espacio público o al que tenga derecho a acceder, y que no impidan el libre ejercicio de sus funciones como servidor público.
 
-### CAPÍTULO III. ENCUBRIMIENTO
+### CAPÍTULO II. EVASIÓN DE PRESOS
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -3963,25 +3971,25 @@ III. A la persona o servidor público que no proporcione o se niegue a proporcio
 
 Cuando la ley autorice el empleo de los medios de apremio para hacer efectivas las determinaciones de la autoridad, deberá agotar previamente alguno de aquellos, antes de dar vista al ministerio público para los efectos correspondientes.
 
-### CAPÍTULO IV. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+### CAPÍTULO III. ENCUBRIMIENTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 271.
 
 A quien empleando la violencia se oponga a que la autoridad ejerza alguna de sus funciones o resista el cumplimiento de una orden legítima cuya ejecución se lleve a cabo en forma legal, se le aplicarán de seis meses a cuatro años de prisión, y multa por un importe equivalente de cincuenta a cien unidades de medida y actualización.
 
-### CAPÍTULO ÚNICO. DELITOS AMBIENTALES
+### CAPÍTULO IV. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 272.
 
 A quien quebrante los sellos puestos por orden de la autoridad, se le aplicarán de seis meses a dos años de prisión, y multa por un importe equivalente de cincuenta a cien unidades de medida y actualización.
 
-### CAPÍTULO ÚNICO. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD ANIMAL
+### CAPÍTULO ÚNICO. DELITOS AMBIENTALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 273.
 
@@ -4000,6 +4008,10 @@ V. Cambie dolosamente los formatos o etiquetamientos de la cadena de custodia;
 VI. No aplique dolosamente los exámenes correctos de los indicios por parte de los peritos; o
 
 VII. Realice acciones u omisiones dentro del lugar destinado para el resguardo de evidencias, con el propósito de alterar, sustraer o destruir los indicios.
+
+### CAPÍTULO ÚNICO. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD ANIMAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 274.
 
@@ -4027,7 +4039,7 @@ Igualmente, se sancionará con una pena de tres a siete años de prisión, y mul
 
 Además de la pena y sanción que corresponda por la realización de la conducta descrita en los dos párrafos anteriores, el servidor público será destituido del empleo, cargo o comisión, e inhabilitado para desempeñar cualquier empleo relacionado con las funciones propias de las instituciones de seguridad pública, de procuración e impartición de justicia, y de ejecución de las penas, de cualquier ámbito.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2019)</small>
 
 ## TÍTULO TERCERO. DELITOS CONTRA LA IMPARTICIÓN DE JUSTICIA
 
@@ -4410,3 +4422,29 @@ P.O. 29 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 87 POR EL QUE SE REFORMAN LOS ARTÍCULOS 76, PRIMER PÁRRAFO, 190, FRACCIÓN III, 229, PRIMER PÁRRAFO, 233, PÁRRAFO CUARTO Y SEXTO, QUE POR VIRTUD DEL CORRIMIENTO PASA A SER NOVENO; Y SE ADICIONAN UN CUARTO PÁRRAFO AL ARTÍCULO 127 Y LOS PÁRRAFOS QUINTO, SEXTO Y SÉPTIMO AL ARTÍCULO 233, HACIÉNDOSE EL CORRIMIENTO RESPECTIVO DE LOS SUBSECUENTES, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 14 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 108 POR EL QUE SE APRUEBA LA LEY DE ARCHIVOS DEL ESTADO DE COLIMA Y SE ADICIONA EL CAPÍTULO X AL TÍTULO SEGUNDO DENOMINADO "DELITOS CONTRA LA FUNCIÓN PÚBLICA" DE LA SECCIÓN CUARTA TITULADA "DELITOS CONTRA EL ESTADO" DEL LIBRO SEGUNDO INTITULADO "DE LOS DELITOS EN PARTICULAR" CON LOS ARTÍCULOS 275 BIS, Y 275 BIS 1 AL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley de Archivos del Estado de Colima, publicada en el Periódico Oficial "El Estado de Colima" el 26 de noviembre del 2005.
+
+TERCERO. Se concede el periodo que resta del presente ejercicio fiscal para que los Sujetos Obligados planifiquen y proyecten las erogaciones que se generarán con motivo de la entrada en vigor del presente Decreto, mismas que empezarán a cubrirse a partir del ejercicio Fiscal 2020 con cargo a sus respectivos presupuestos y los subsecuentes, a efectos de asegurar la correcta aplicación de la presente ley.
+
+CUARTO. A partir del ejercicio fiscal 2020, se deberán hacer las previsiones y adecuaciones presupuestales necesarias, y en los subsecuentes, para el cumplimiento de las obligaciones establecidas en este; para lo anterior, deberán hacerse las previsiones que correspondan
+
+QUINTO. Los sujetos obligados estarán facultados para emitir los reglamentos, acuerdos, decretos, protocolos y lineamientos necesarios para proveer en su esfera administrativa la exacta observancia de las disposiciones contenidas en el presente Decreto.
+
+SEXTO. El Consejo Estatal deberá constituirse y comenzar a sesionar dentro de los seis meses posteriores a la entrada en vigor del presente Decreto.
+
+SÉPTIMO. Los sujetos obligados deberán implementar su sistema institucional dentro los seis meses posteriores a la entrada en vigor del presente Decreto.
+
+OCTAVO. El Archivo General del Estado pondrá en operación la plataforma del Registro Estatal de Archivos, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+
+NOVENO. En un plazo de un año, contado a partir de la entrada en vigor del presente Decreto, los sujetos obligados deberán establecer programas anuales de capacitación y actualización en materia de gestión documental y administración de archivos.
+
+DÉCIMO. El monto del Fondo de Apoyo Económico para Archivos, establecido en el artículo 91 de la Ley de Archivos del Estado de Colima, se constituirá por lo menos con el importe correspondiente al 0.0005 del total de ingresos a recibir en cada ejercicio Fiscal.
+
+DÉCIMO PRIMERO.- Los recursos humanos, materiales y financieros con los que venía operando la Dirección del Archivo Histórico del Estado de Colima, dependiente de la Secretaría de Cultura, así como el Fondo Documental, se trasferirán al Archivo General del Estado en los términos que establezcan en sus respectivos ámbitos de competencia.
