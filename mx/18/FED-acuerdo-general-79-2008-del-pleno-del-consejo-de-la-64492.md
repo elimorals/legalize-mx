@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-79-2008-del-pleno-del-consejo-de-la-64492"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-11-27"
-last_updated: "2008-11-27"
+last_updated: "2019-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64492&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-11-26"
 
 ACUERDO GENERAL 79/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA LOS CONCURSOS DE OPOSICION PARA LA DESIGNACION DE VISITADORES JUDICIALES "B"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE AGOSTO DE 2019.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de noviembre de 2008.
 
@@ -63,15 +63,21 @@ V. "Consejo": al Consejo de la Judicatura Federal;
 
 VI. "Pleno": al Pleno del Consejo de la Judicatura Federal;
 
-VII. "Comisión": a la Comisión de Disciplina del Consejo de la Judicatura Federal;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2019)</small>
+
+VII. “Comisión”: a la Comisión de Vigilancia del Consejo de la Judicatura Federal;
 
 VIII. "Instituto": al Instituto de la Judicatura Federal;
 
 IX. "Visitaduría": a la Visitaduría Judicial del Consejo de la Judicatura Federal;
 
-X. "Comité": al órgano representativo del Consejo de la Judicatura Federal, integrado por el Presidente de la Comisión de Disciplina, el Visitador General y un miembro del Comité Académico del Instituto de la Judicatura Federal;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2019)</small>
 
-XI. "Jurado": al órgano representativo del Consejo de la Judicatura Federal, integrado por el Presidente de la Comisión de Disciplina, el Visitador General y un miembro del Comité Académico del Instituto de la Judicatura Federal;
+X. “Comité”: al órgano representativo del Consejo de la Judicatura Federal, integrado por el Presidente de la Comisión, el Visitador General y un miembro del Comité Académico del Instituto de la Judicatura Federal;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2019)</small>
+
+XI. “Jurado”: al órgano representativo del Consejo de la Judicatura Federal, integrado por el Presidente de la Comisión, el Visitador General y un miembro del Comité Académico del Instituto de la Judicatura Federal;
 
 XII. "Organos jurisdiccionales": tribunal colegiado de Circuito, tribunal unitario de Circuito y juzgado de Distrito;
 
@@ -89,7 +95,9 @@ Judiciales "B";
 
 XVIII. "Página web del Instituto": a la página web del Instituto de la Judicatura Federal, www.ijf.cjf.gob.mx; y,
 
-XIX. "Secretaría Ejecutiva": a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2019)</small>
+
+XIX. “Secretaría Ejecutiva”: a la Secretaría Ejecutiva de Carrera Judicial.
 
 ###### Artículo 2.
 
@@ -131,7 +139,9 @@ En caso de empate en las calificaciones de los aspirantes, el Pleno podrá acudi
 
 II. Segunda etapa (OPOSICION): consistente en solucionar un caso práctico y realizar examen oral y público, mediante los cuales se evaluará el conocimiento de los aspirantes seleccionados, relacionados con la función de los Visitadores "B", las atribuciones que tiene la Visitaduría y las obligaciones de los servidores judiciales que la integran.
 
-Los factores de desempeño, señalados en el párrafo segundo de la fracción III del artículo 114 de la Ley, relativos a los cursos que haya recibido en el Instituto, la antigüedad en el Poder Judicial de la Federación, el grado académico y los cursos de actualización y especialización que haya acreditado el aspirante, serán tomados en cuenta para determinar la puntuación de cada uno de los participantes en el concurso.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2019)</small>
+
+Los factores de desempeño, señalados, según la ponderación y procedimiento previstos en los artículos 41 a 44 de este acuerdo, en la parte aplicable, así como el artículo 100, séptimo párrafo de la Constitución, relativos a los cursos que haya recibido en el Instituto, la antigüedad en el Poder Judicial de la Federación, el grado académico y los cursos de actualización y especialización que haya acreditado el aspirante, serán tomados en cuenta para determinar la puntuación de cada uno de los participantes en el concurso.
 
 Los criterios para la evaluación final serán los siguientes: hasta 90 puntos de la calificación obtenida en la segunda etapa (promedio del resultado del caso práctico y examen oral) y hasta 10 puntos los factores del desempeño.
 
@@ -287,11 +297,15 @@ El caso práctico que habrá de aplicarse en el concurso consistirá en un dicta
 
 La selección del caso práctico se hará conforme a los siguientes lineamientos:
 
-I. La Comisión solicitará a la Secretaría Ejecutiva de Disciplina, envíe al Comité un máximo de cincuenta expedientes de visita en los que se hayan detectado errores de distinta índole, que hayan motivado alguna sugerencia, observación o recomendación a los titulares de los órganos jurisdiccionales de la República Mexicana.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2019)</small>
+
+I. La Comisión solicitará a la Secretaría Ejecutiva de Vigilancia, envíe al Comité un máximo de cincuenta expedientes de visita en los que se hayan detectado errores de distinta índole, que hayan motivado alguna indicación preventiva, recomendación correctiva o solicitud a los titulares de los órganos jurisdiccionales de la República Mexicana.
 
 II. El Comité del concurso deberá:
 
-a) Realizar un análisis y revisión de los expedientes de visita propuestos por la Secretaría Ejecutiva de Disciplina;
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2019)</small>
+
+a) Realizar un análisis y revisión de los expedientes de visita propuestos por la Secretaría Ejecutiva de Vigilancia;
 
 b) Seleccionar cuál de ellos se aplicará como caso práctico; y,
 
@@ -427,9 +441,11 @@ Al finalizar el examen oral, se levantará acta circunstanciada en forma de list
 
 Factores del Desempeño.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 40.
 
-Para llevar a cabo la evaluación de los factores del desempeño, señalados en el artículo 114, fracción III, párrafo segundo, de la Ley, previamente a la designación de vencedores, la Comisión expresará en puntos dentro de una escala de 0 a 100 los siguientes elementos: hasta con 30 puntos la antigüedad en el Poder Judicial de la Federación; hasta con 40 puntos la carrera judicial; y, hasta 30 puntos los cursos que haya recibido en el Instituto, en la Suprema Corte, en el Tribunal Electoral o diversos de actualización y especialización, exclusivamente, en el ámbito jurídico.
+Para llevar a cabo la evaluación de los factores del desempeño, previstos en los artículos 41 a 44 de este acuerdo, en la parte aplicable, así como el artículo 100, séptimo párrafo de la Constitución, previamente a la designación de vencedores, la Comisión expresará en puntos dentro de una escala de 0 a 100 los siguientes elementos: hasta con 30 puntos la antigüedad en el Poder Judicial de la Federación; hasta con 40 puntos la carrera judicial; y, hasta 30 puntos los cursos que haya recibido en el Instituto, en la Suprema Corte, en el Tribunal Electoral o diversos de actualización y especialización, exclusivamente, en el ámbito jurídico.
 
 ###### Artículo 41.
 
@@ -551,9 +567,11 @@ Amonestación pública menos 5 puntos
 
 Suspensión menos 8 puntos
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 43.
 
-La evaluación se llevará a cabo por la Comisión, con apoyo de la Secretaría Ejecutiva y de la Dirección General de Adscripciones y Desempeño Judicial, así como de las áreas directamente involucradas, aplicando el siguiente procedimiento:
+La evaluación se llevará a cabo por la Comisión, con apoyo de la Secretaría Ejecutiva, así como de las áreas directamente involucradas, aplicando el siguiente procedimiento:
 
 I. Elaborará el perfil del aspirante que consiste en pormenorizar sus antecedentes laborales y profesionales, a los que se asignarán los puntos que correspondan;
 
@@ -589,13 +607,17 @@ La lista definitiva del concurso se publicará, con efectos de notificación a l
 
 El Instituto, por correo certificado, enviará únicamente para conocimiento de los interesados un solo documento en el que conste la puntuación obtenida en el concurso y si resultó o no vencedor.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 48.
 
-Publicada la lista definitiva, el Consejo organizará y citará a los recién designados Visitadores "B" para que participen en cursos informativos, los que serán impartidos por el Visitador General, el Director General de Estadística y Planeación Judicial, y los demás funcionarios que se considere pertinentes, con el fin de que aquéllos puedan formular sus dudas sobre aspectos del funcionamiento de la Visitaduría Judicial y del Sistema Integral de Seguimiento de Expedientes; se les proporcione la normatividad administrativa aplicable; y se les oriente sobre sus funciones y deberes.
+Publicada la lista definitiva, el Consejo organizará y citará a los recién designados Visitadores "B" para que participen en cursos informativos, los que serán impartidos por el Visitador General, el Director General de Estadística Judicial, y los demás funcionarios que se considere pertinentes, con el fin de que aquéllos puedan formular sus dudas sobre aspectos del funcionamiento de la Visitaduría Judicial y del Sistema Integral de Seguimiento de Expedientes; se les proporcione la normatividad administrativa aplicable; y se les oriente sobre sus funciones y deberes.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 8/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 49.
 
-A los Visitadores "B" designados como consecuencia del concurso, se les expedirá el nombramiento en cuanto el Consejo así lo determine conveniente e iniciarán el ejercicio de sus funciones hasta en tanto les sea asignada su adscripción, previa toma de protesta del cargo. La vigencia del cargo estará sujeta a la duración a la que hace referencia en artículo 10 del Acuerdo General 7/2008 del Pleno.
+A los Visitadores "B" designados como consecuencia del concurso, se les expedirá el nombramiento en cuanto el Consejo así lo determine conveniente e iniciarán el ejercicio de sus funciones hasta en tanto les sea asignada su adscripción, previa toma de protesta del cargo. La vigencia del cargo estará sujeta a la duración a la que hace referencia en artículo 122 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
 
 ### CAPITULO SEPTIMO. Normas Complementarias
 
@@ -630,3 +652,13 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en la página web del Consejo de la Judicatura Federal.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 79/2008, del Pleno del Consejo de la Judicatura Federal, que Fija las Bases para los Concursos de Oposición para la Designación de Visitadores Judiciales "B", fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veintiséis de noviembre de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Indalfer Infante Gonzales y Oscar Vázquez Marín.- México, Distrito Federal, a veintiséis de noviembre de dos mil ocho.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 14 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 8/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 79/2008 QUE FIJA LAS BASES PARA LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE VISITADORES JUDICIALES B, RESPECTO A LA ELABORACIÓN DE LAS BASES DEL CONCURSO DE OPOSICIÓN PARA LA DESIGNACIÓN DE LOS VISITADORES JUDICIALES B, CONFORME A LAS NUEVAS ATRIBUCIONES DE LA COMISIÓN DE VIGILANCIA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
