@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adquisiciones-arrendamientos-y-contratacion-de-126512"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-17"
-last_updated: "2018-02-17"
+last_updated: "2019-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE AGOSTO DE 2019 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2019.
 
 Ley publicada en Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 17 de febrero de 2018.
 
@@ -97,7 +99,9 @@ VIII. Comité.- El Comité de Adquisiciones, Arrendamientos y Servicios del ente
 
 IX. Compras consolidadas.- Aquellas que pueden licitarse en forma conjunta por varios entes públicos a un mismo bien o servicio.
 
-X. Contrato.- Es el acuerdo de dos o más voluntades, que se expresa de manera formal y que tiene por objeto transmitir la propiedad, el uso o goce temporal de bienes muebles o la prestación de servicios, a los entes públicos, por parte de los proveedores, creando derechos y obligaciones para ambas partes y que se deriva de alguno de los procedimientos de contratación que regula esta Ley.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2019)</small>
+
+X. Contrato o pedido.- Es el acuerdo de dos o más voluntades, que se expresa de manera formal, mediante documento y que tiene por objeto transmitir la propiedad, el uso o goce temporal de bienes muebles o la prestación de servicios, a los entes públicos, por parte de los proveedores, creando derechos y obligaciones para ambas partes y que se deriva de alguno de los procedimientos de contratación que regula esta Ley.
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2018)</small>
 
@@ -180,6 +184,10 @@ IV. Los servicios de traslado, hospedaje y alimentos de personal.
 V. Los servicios básicos de electricidad, agua, drenaje y gas.
 
 VI. Los servicios profesionales de peritaje y arbitraje.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2019)</small>
+
+VII. Los servicios prestados por instituciones privadas dedicadas a la atención médica hospitalaria, únicamente cuando medie una situación que ponga en peligro inminente la vida de las personas y que por razón de dicha situación deban ser atendidas de manera inmediata. Esta situación deberá acreditarse a través de un dictamen médico debidamente justificado.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2018)</small>
 
@@ -1067,7 +1075,9 @@ XIII. Los servicios contratados directamente con la persona que posee la titular
 
 No quedarán comprendidos en los supuestos a que se refiere este artículo los requerimientos administrativos que tengan los entes públicos, conforme a lo dispuesto por el Reglamento de esta Ley.
 
-La dictaminación sobre la procedencia de la contratación y de que esta se ubica en alguno de los supuestos contenidos en este artículo estará a cargo del Comité de Adquisiciones, Arrendamientos y Servicios correspondiente, salvo que se trate de las fracciones XII y XIII, en cuyo caso se estará al procedimiento establecido por el Reglamento.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2019)</small>
+
+La dictaminación sobre la procedencia de la contratación y de que esta se ubica en alguno de los supuestos contenidos en este artículo estará a cargo del Comité de Adquisiciones, Arrendamientos y Servicios correspondiente, salvo que se trate de las fracciones II, XII y XIII, en cuyo caso será responsabilidad del área usuaria o requirente conforme al procedimiento establecido por el Reglamento.
 
 Las contrataciones a que se refiere este artículo se realizarán preferentemente a través del procedimiento de invitación a cuando menos tres proveedores.
 
@@ -1084,6 +1094,10 @@ Las operaciones no podrán ser fraccionadas para quedar comprendidas en los supu
 Para contratar adjudicaciones directas, cuyo monto sea igual o superior a la cantidad de trescientas veces el valor diario de la Unidad de Medida y Actualización vigente, se deberá contar con al menos tres cotizaciones con las mismas condiciones, que se hayan obtenido en los treinta días previos al de la adjudicación, y consten en documento en el cual se identifiquen indubitablemente al proveedor oferente.
 
 Lo dispuesto en el quinto párrafo del artículo 72 resultará aplicable a la contratación mediante los procedimientos de invitación a cuando menos tres proveedores y de adjudicación directa que se fundamenten en este artículo.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2019)</small>
+
+Tratándose de adjudicaciones directas relacionadas con la contratación de medicamentos e insumos para la salud requeridos por el sector público de salud, el monto no podrá exceder de cincuenta y cuatro veces el valor anual de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE FEBRERO DE 2018)</small>
 
@@ -1135,9 +1149,11 @@ Tratándose de bienes o servicios sujetos a precios oficiales, se reconocerán l
 
 Los entes públicos, con la aceptación del proveedor, podrán realizar modificaciones a los contratos o pedidos hasta en un veinte por ciento de la cantidad o presupuesto máximo de alguna partida originalmente pactada, utilizando para su pago el presupuesto de otra u otras partidas previstas en el propio contrato, siempre que no resulte un incremento en el monto máximo total del contrato, sin perjuicio de lo dispuesto en el artículo 88 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 79.
 
-El contrato contendrá, en lo aplicable, lo siguiente:
+El contrato o pedido, contendrá, en lo aplicable, lo siguiente:
 
 I. El nombre, denominación o razón social del ente público convocante.
 
@@ -2004,3 +2020,15 @@ P.O. 17 DE FEBRERO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLEY/0372/2019 II P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado realizará las adecuaciones pertinentes al Reglamento de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado, en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente Decreto.
