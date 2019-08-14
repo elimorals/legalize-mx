@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2019-07-29"
+last_updated: "2019-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE AGOSTO DE 2019.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -425,7 +425,9 @@ II. Cooperar con los gobiernos estatales y municipales, en el estudio de las Ley
 
 III. Integrar Comités especializados por cada segmento turístico que se practique en el Estado para el cumplimiento de sus objetivos y funciones;
 
-IV. Colaborar con la Secretaría para la creación y fomento de la marca turística estatal;
+> <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2019)</small>
+
+IV. Determinará a la Secretaría la creación de la marca turística estatal;
 
 V. Proponer las necesidades de capacitación prioritarias en sus regiones e impulsar la competitividad turística de Veracruz;
 
@@ -879,13 +881,17 @@ En el Reglamento de la presente Ley se establecerán los lineamientos de coordin
 
 ### CAPÍTULO I. De la promoción turística
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 14 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 63.
 
-Con las sugerencias del Consejo, la Secretaría promoverá el desarrollo de la marca turística Veracruz y que podrá ser aplicado en los municipios para una mejor promoción de sus potencialidades.
+A fin de cumplir con los objetivos de la promoción turística del Estado, la Secretaría, con la determinación del Consejo, establecerá una marca turística que genere al Estado una identidad, misma que será de carácter permanente. El Gobierno del Estado, los prestadores de servicios turísticos, los Consejos Regionales, los Consejos Municipales y los Ayuntamientos, deberán utilizar la marca turística estatal de acuerdo a los lineamientos establecidos en esta Ley, y su Reglamento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE AGOSTO DE 2013)</small>
+La Secretaría, considerando la opinión de los prestadores de servicios turísticos del Estado, propondrá al Consejo una terna, éste la analizará y determinará cuál será la marca turística estatal. Dicho fallo será inapelable.
+
+En el Reglamento de la Ley se determinarán los requisitos que deberán cumplir los prestadores de servicios turísticos para ostentar esa marca.
+
+La Secretaría realizará los trámites correspondientes ante el Instituto Mexicano de la Propiedad Intelectual para el registro de la marca turística estatal.
 
 Asimismo, generará la política marco de promoción de la oferta turística, la cual podrá aplicar, por sí o con la colaboración de otras instituciones públicas o privadas, apoyándose para ello en el Fideicomiso Público del Impuesto por la Prestación de Servicios de Hospedaje y en los presupuestos que para tal efecto se determinen.
 
@@ -1520,3 +1526,13 @@ G.O. 29 DE JULIO DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 270 POR EL QUE SE REFORMAN LOS ARTÍCULOS 13 EN SU FRACCIÓN IV, Y 63 DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. A partir de la vigencia del presente Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para que realice las adecuaciones correspondientes al Reglamento de la Ley.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
