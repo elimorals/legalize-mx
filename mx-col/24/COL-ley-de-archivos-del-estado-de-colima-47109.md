@@ -4,7 +4,7 @@ identifier: "COL-ley-de-archivos-del-estado-de-colima-47109"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-26"
-last_updated: "2016-11-22"
+last_updated: "2019-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47109&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE ARCHIVOS DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ARCHIVOS DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 14 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ARCHIVOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2019 (ABROGADA).
 
 Ley publicada en el Suplemento No. 2 al Periódico Oficial del Estado de Colima, el sábado 26 de noviembre de 2005.
 
@@ -376,3 +378,29 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 14 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 108 POR EL QUE SE APRUEBA LA LEY DE ARCHIVOS DEL ESTADO DE COLIMA Y SE ADICIONA EL CAPÍTULO X AL TÍTULO SEGUNDO DENOMINADO "DELITOS CONTRA LA FUNCIÓN PÚBLICA" DE LA SECCIÓN CUARTA TITULADA "DELITOS CONTRA EL ESTADO" DEL LIBRO SEGUNDO INTITULADO "DE LOS DELITOS EN PARTICULAR" CON LOS ARTÍCULOS 275 BIS, Y 275 BIS 1 AL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley de Archivos del Estado de Colima, publicada en el Periódico Oficial "El Estado de Colima" el 26 de noviembre del 2005.
+
+TERCERO. Se concede el periodo que resta del presente ejercicio fiscal para que los Sujetos Obligados planifiquen y proyecten las erogaciones que se generarán con motivo de la entrada en vigor del presente Decreto, mismas que empezarán a cubrirse a partir del ejercicio Fiscal 2020 con cargo a sus respectivos presupuestos y los subsecuentes, a efectos de asegurar la correcta aplicación de la presente ley.
+
+CUARTO. A partir del ejercicio fiscal 2020, se deberán hacer las previsiones y adecuaciones presupuestales necesarias, y en los subsecuentes, para el cumplimiento de las obligaciones establecidas en este; para lo anterior, deberán hacerse las previsiones que correspondan
+
+QUINTO. Los sujetos obligados estarán facultados para emitir los reglamentos, acuerdos, decretos, protocolos y lineamientos necesarios para proveer en su esfera administrativa la exacta observancia de las disposiciones contenidas en el presente Decreto.
+
+SEXTO. El Consejo Estatal deberá constituirse y comenzar a sesionar dentro de los seis meses posteriores a la entrada en vigor del presente Decreto.
+
+SÉPTIMO. Los sujetos obligados deberán implementar su sistema institucional dentro (sic) los seis meses posteriores a la entrada en vigor del presente Decreto.
+
+OCTAVO. El Archivo General del Estado pondrá en operación la plataforma del Registro Estatal de Archivos, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+
+NOVENO. En un plazo de un año, contado a partir de la entrada en vigor del presente Decreto, los sujetos obligados deberán establecer programas anuales de capacitación y actualización en materia de gestión documental y administración de archivos.
+
+DÉCIMO. El monto del Fondo de Apoyo Económico para Archivos, establecido en el artículo 91 de la Ley de Archivos del Estado de Colima, se constituirá por lo menos con el importe correspondiente al 0.0005 del total de ingresos a recibir en cada ejercicio Fiscal.
+
+DÉCIMO PRIMERO. Los recursos humanos, materiales y financieros con los que venía operando la Dirección del Archivo Histórico del Estado de Colima, dependiente de la Secretaría de Cultura, así como el Fondo Documental, se trasferirán al Archivo General del Estado en los términos que establezcan en sus respectivos ámbitos de competencia.
