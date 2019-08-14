@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2019-07-03"
+last_updated: "2019-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2019.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -3191,6 +3191,22 @@ XII.- Reciba, ministre, aproveche, o realice actos de intermediario en el comerc
 
 XIII.- Legalice o intervenga en la realización, de documentos para acreditar la propiedad o posesión de animales producto del abigeato.
 
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2019)</small>
+
+XIV.- El que movilice ganado de un municipio a otro, o introduzca al Estado, cualquiera que sea la forma, sin la documentación que acredite su legal procedencia, trazabilidad o permiso de introducción expedido por la autoridad competente.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2019)</small>
+
+XV.- El que comercie, detente, enajene, trafique o almacene aretes del Sistema Nacional de Identificación Individual de Ganado, sin que acredite su legal procedencia, uso o la autorización de la institución correspondiente.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2019)</small>
+
+XVI.- El que arete animales ajenos o modifique aretes del Sistema Nacional de Identificación Individual de ganado, con el fin de apropiarse del semoviente u obtener un beneficio.
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2019)</small>
+
+XVII.- El que movilice sin justificación ganado declarado en cuarentena por autoridad agropecuaria competente, con el fin de comercializarlo.
+
 ### Capítulo VI. Despojo
 
 ###### Artículo 296.
@@ -6015,7 +6031,7 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispu
 
 P.O. 3 DE JULIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 214 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 214 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS”.]
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
@@ -6024,3 +6040,11 @@ Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarqu�
 Artículo Tercero.- La Secretaría de Seguridad y Protección Ciudadana, dispondrá de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, para proponer al Titular del Poder Ejecutivo del Estado las modificaciones legales pertinentes, a efecto de asumir o, en su caso, adherirse a la planeación, programación y ejecución del Plan de Reeducación para Personas Generadoras de Violencia, actualmente a cargo de la Secretaría de Salud y/o Instituto de Salud, en cumplimiento a lo dispuesto en el artículo 49, fracción XII de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 Artículo Cuarto.- Las autoridades correspondientes, en el ámbito de sus respectivas competencias, llevarán a cabo las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en observancia a las disposiciones aplicables.
+
+P.O. 14 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 232 POR EL QUE SE ADICIONAN LAS FRACCIONES XIV, XV, XVI Y XVII AL ARTÍCULO 295 DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
