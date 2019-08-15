@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2019-08-13"
+last_updated: "2019-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el día 30 de abril de 1985.
 
@@ -12993,6 +12993,10 @@ II.- Si el donatario acusa judicialmente al donante de algún delito que pudiera
 
 III.- Si el donatario rehusa socorrer, según el valor de la donación, al donante que haya venido a pobreza.
 
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2019)</small>
+
+IV.- En el supuesto del incumplimiento, a lo establecido en el artículo 487, cuando el donatario es descendiente del donante.
+
 ###### Artículo 2223.
 
 Son aplicables a la acción de revocación por causa de ingratitud, las siguientes disposiciones:
@@ -20570,6 +20574,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 13 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN TERCER Y UN CUARTO PÁRRAFO AL ARTÍCULO 936 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 2222 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
