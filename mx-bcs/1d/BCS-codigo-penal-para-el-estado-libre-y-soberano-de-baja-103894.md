@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2019-06-20"
+last_updated: "2019-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE AGOSTO DE 2019.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -1757,41 +1757,23 @@ IV. Sea ejecutado allanando el domicilio de la víctima o en paraje solitario.
 
 Arrepentimiento. Si el sujeto activo libera espontáneamente a la víctima dentro de las veinticuatro horas siguientes al momento del inicio de la privación de la libertad, se impondrá la mitad de la pena prevista.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE AGOSTO DE 2019)</small>
+
 ### CAPÍTULO II. DISCRIMINACIÓN
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ABRIL DE 2019)</small>
 
 ###### Artículo 191.
 
-Desaparición forzada de personas. Se considerará desaparición forzada de personas el arresto, la detención o cualquier otra forma de privación de la libertad que sean obra de servidores públicos o por personas o grupos de personas que actúan con la autorización, el apoyo o la aquiescencia del Estado, seguida de la negativa a reconocer dicha privación de libertad o del ocultamiento de la suerte o el paradero de la persona desaparecida, sustrayéndola a la protección de la ley.
-
-A quienes teniendo la calidad de servidores públicos, participen en los actos descritos en el párrafo anterior, se le impondrán de diez a veinte años de prisión y multa de doscientos a ochocientos días y destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión de carácter público hasta por el mismo tiempo de la pena de prisión impuesta, con independencia de las penas que le correspondan por los demás delitos que pudieran concurrir.
-
-A quien sin tener la calidad de servidor público y por orden, autorización o con el apoyo de un servidor público, participe en los actos descritos en este artículo, se le impondrán de siete a quince años de prisión y de cien a trescientos días multa.
-
-El servidor público que en el ejercicio de sus funciones conozca de un hecho de desaparición forzada de persona o el paradero de la víctima, está obligado a denunciarlo de inmediato, si no lo hiciere se le impondrán de ocho a quince años prisión y multa de cien a quinientos días y destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión de carácter público, hasta por el mismo tiempo de la pena impuesta.
-
-La pena prevista en el párrafo que antecede se impondrá así mismo al servidor público que teniendo conocimiento de la privación de la libertad o del paradero de la víctima, se niegue a proporcionar los datos de ubicación de la misma.
+(DEROGADO, B.O. 16 DE AGOSTO DE 2019)
 
 ###### Artículo 192.
 
-Agravantes. Las sanciones previstas en el artículo anterior se aumentarán en una mitad cuando:
-
-I. Recaiga sobre víctimas de delitos de trata de personas;
-
-II. Se realicen sobre la víctima delitos contra la libertad sexual o se atente contra su dignidad;
-
-III. Sea llevado a cabo sobre la víctima, derivado de su preferencia sexual;
-
-IV. Se cometa como parte de un ataque generalizado o sistemático contra una población civil y con conocimiento de dicho ataque;
-
-V. Se cometa sobre persona desplazada o inmigrante; o
-
-VI. Se cometa sobre personas pertenecientes (sic) grupos vulnerables;
+(DEROGADO, B.O. 16 DE AGOSTO DE 2019)
 
 ###### Artículo 193.
 
-Atenuantes y exclusión de la prescripción. Las sanciones previstas en el artículo anterior se disminuirán en una tercera parte cuando el sujeto activo suministre información que permita esclarecer los hechos y en una mitad cuando contribuya a lograr la aparición con vida de la víctima.
+(DEROGADO, B.O. 16 DE AGOSTO DE 2019)
 
 ### CAPÍTULO ÚNICO
 
@@ -4294,3 +4276,63 @@ B.O. 20 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2612 SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 17 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 89 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMA EL ARTÍCULO 369 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
 
 Único.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 16 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2621 SE EXPIDE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO DE BAJA CALIFORNIA SUR; Y SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+TRANSITORIOS RELACIONADOS CON LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo segundo.- En un plazo que no exceda de quince días posteriores a la conformación del Consejo Estatal Ciudadano, el Titular del Poder Ejecutivo Estatal nombrará a la o al Titular de la Comisión Estatal de Búsqueda, atendiendo a lo previsto en los artículos 31 y 32 de esta Ley.
+
+Artículo tercero.- Dentro de los treinta días posteriores a la entrada en vigor del presente decreto, deberán ser nombrados por el Congreso del Estado, los integrantes del Consejo Estatal Ciudadano, previa convocatoria pública, de conformidad a lo establecido en el artículo 40 de esta Ley.
+
+En un plazo de treinta días posteriores a su conformación el Consejo Estatal Ciudadano deberá emitir sus reglas de funcionamiento.
+
+El nombramiento de los integrantes del Consejo Estatal Ciudadano será de forma escalonada, con la finalidad de no interrumpir los proyectos de trabajo que se planteen, siguiendo la siguiente formula:
+
+a.- Respecto a los cinco representantes de familiares de cada uno de los cinco municipios;
+
+El primer nombramiento será por el periodo de un año;
+
+El segundo y tercer nombramiento será por el periodo de dos años; y
+
+El Cuarto y Quinto nombramiento será por el periodo de tres años.
+
+b.- Respecto a los integrantes del Consejo Estatal Ciudadano en su carácter de especialistas en la protección y defensa de los derechos humanos, la búsqueda de Personas desaparecidas o no localizadas o en la investigación y persecución de los delitos previstos en la Ley General. El primer nombramiento será por un periodo de tres años, el segundo por un lapso de dos años.
+
+c.- en el caso de los representantes de organizaciones de la sociedad civil de derechos humanos, el primer cargo será de un año, el segundo por dos años y el tercero de tres años, y
+
+d.- Esta fórmula se aplicara para la renovación del Consejo Estatal Ciudadano, de tal manera que se alcance un equilibrio entre sus integrantes.
+
+Artículo cuarto.- El Mecanismo Estatal deberá quedar instalado a más tardar dentro de los treinta días naturales posteriores al nombramiento del o la Comisionada Estatal de Búsqueda.
+
+Artículo quinto.- Dentro de los treinta días posteriores a la entrada en vigor del presente Decreto, la Procuraduría General del Estado deberá hacer las adecuaciones necesarias a su reglamento a fin de atender con lo mandatado en el capítulo sexto del título tercero de esta Ley.
+
+Artículo sexto.- En la propuesta del presupuesto de egresos para el ejercicio fiscal del año 2020, que envié el Poder Ejecutivo al Poder Legislativo para su aprobación, deberá venir incluida la creación de la partida y la suficiencia presupuestal para el fondo estatal de desaparición a que hace referencia el artículo 49 de esta Ley.
+
+Artículo séptimo.- Dentro de treinta días siguientes a que la Comisión Estatal de Búsqueda inicie sus funciones, ésta deberá emitir los protocolos rectores para su funcionamiento previstos en el artículo 33 fracción VII, de esta Ley.
+
+Artículo octavo.- Los servidores públicos que integren la Fiscalía Especializada y la Comisión de Búsqueda deberán estar certificados dentro del año posterior a su creación.
+
+La Comisión Estatal de Búsqueda podrá, a partir de que entre en funcionamiento, ejercer las atribuciones que esta Ley y La Ley General le confieren con relación a los procesos de Búsqueda que se encuentren pendientes.
+
+Artículo noveno.- El Ejecutivo del Estado, en un plazo de treinta días a partir de la entrada en vigor del presente decreto, deberá expedir el reglamento de ésta y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en la presente Ley.
+
+TRANSITORIOS RELACIONADOS CON LA FISCALÍA ESPECIALIZADA PARA LA INVESTIGACIÓN Y PERSECUCIÓN DE LOS DELITOS DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DELITOS VINCULADOS.
+
+Artículo decimo.- Las y los servidores públicos adscritos a la Fiscalía Especializada para la investigación y persecución de los delitos de desaparición forzada de personas, desaparición cometida por particulares y delitos vinculados, deberán estar certificados dentro del año posterior a la entrada en vigor del presente Decreto.
+
+Artículo décimo primero.- La Procuraduría General de Justicia del Estado deberá realizar las gestiones necesarias para que se provea de recursos materiales, humanos, técnicos, presupuestales para el correcto funcionamiento y capacitación de la Fiscalía Especializada para la investigación y persecución de los delitos de desaparición forzada de personas, desaparición cometida por particulares y delitos vinculados.
+
+Hasta en tanto se tenga la suficiencia presupuestal para la operación y funcionamiento de la Fiscalía Especializada, se continuará con la estructura y presupuesto con que contaba la Unidad de Investigación y Judicialización Especializada en Búsqueda de Personas Desaparecidas.
+
+Artículo décimo segundo.- Para los efectos de la continuación del trámite y conclusión de los asuntos ya radicados por la Unidad de Investigación y Judicialización Especializada en Búsqueda de Personas Desaparecidas, con asignación de número único de caso y pendientes de resolver, el personal adscrito a la Fiscalía Especializada que se crea, serán los responsables de las mismas, quienes asumirán de manera inmediata su legal conocimiento y seguimiento; dichos asuntos continuarán con el mismo número único de caso que se les diere desde su radicación primigenia.
+
+Artículo décimo tercero.- Una vez que se dé la creación de la Comisión Estatal de Búsqueda de Personas y se integre y empiece operaciones la Fiscaliza (sic) Especializada, el ACUERDO 165/2017 emitido por la Procuraduría General de Justicia de Baja California Sur, por el que se crea la Unidad de Investigación y Judicialización Especializada en Búsqueda de Personas Desaparecidas, publicadas en el Boletín Oficial del Gobierno del Estado de Baja California Sur No. 24 de fecha 30 de junio de 2017, quedara abrogado.
+
+TRANSITORIOS RELACIONADOS CON LA DEROGACIÓN DEL DELITO DE DESAPARICION FORZADA DE PERSONAS.
+
+Artículo décimo cuarto.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto y que se encuentren en trámite o pendientes de resolución, por el delito previsto en los artículos 191,192 y 193 del Código Penal para el Estado Libre y Soberano de Baja California Sur que se derogan, se seguirán substanciando hasta su conclusión con esa disposición vigente y demás relativas y aplicables al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
