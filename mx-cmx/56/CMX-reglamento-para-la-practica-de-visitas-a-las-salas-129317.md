@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-la-practica-de-visitas-a-las-salas-129317"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-06-27"
-last_updated: "2018-06-27"
+last_updated: "2019-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129317&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-06-07"
 
 REGLAMENTO PARA LA PRÁCTICA DE VISITAS A LAS SALAS ORDINARIAS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2019.
 
 Reglamento publicado en el Número 352 de la Gaceta Oficial de la Ciudad de México, el miércoles 27 de junio de 2018.
 
@@ -48,19 +48,25 @@ La Junta de Gobierno y Administración del Tribunal de Justicia Administrativa d
 
 REGLAMENTO PARA LA PRÁCTICA DE VISITAS A LAS SALAS ORDINARIAS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ## TÍTULO PRIMERO
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento es de observancia general y obligatoria para la realización de las visitas a las Salas Ordinarias del Tribunal de Justicia Administrativa de la Ciudad de México.
+El presente Reglamento es de observancia general y obligatoria para la realización de las visitas a las Salas Ordinarias del Tribunal de Justicia Administrativa de la Ciudad de México, a que se refiere el artículo 25 de su Ley Orgánica.
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 2.
 
-El presente Reglamento tiene por objeto:
-
-I. Establecer las bases conforme a las cuales se llevará a cabo la vigilancia y supervisión permanente del desempeño jurisdiccional y administrativo de las Salas Ordinarias del Tribunal de Justicia Administrativa de la Ciudad de México, a que hace alusión el artículo 19, inciso b), párrafo segundo del Reglamento Interior del referido órgano impartidor de justicia;
+El presente Reglamento tiene por objeto: I. Establecer las bases conforme a las cuales se llevará a cabo la vigilancia y supervisión permanente del desempeño jurisdiccional y administrativo de las Salas Ordinarias del Tribunal de Justicia Administrativa de la Ciudad de México, en términos de lo dispuesto por el artículo 34 inciso b) del Reglamento Interior del referido órgano impartidor de justicia;
 
 II. Supervisar que los actos y funciones jurisdiccionales y administrativas se realicen por los servidores públicos del Tribunal de Justicia Administrativa de la Ciudad de México, de conformidad con lo establecido en el Manual Administrativo de las Salas Ordinarias del Tribunal de Justicia Administrativa de la Ciudad de México o en su caso por el dispositivo legal que regule los procesos administrativos y las formalidades inherentes a los aspectos jurisdiccionales, así como por aquellos ordenamientos legales que resulten aplicables;
 
@@ -72,17 +78,23 @@ V. Permitir la evaluación del desempeño de los servidores públicos que integr
 
 VI. Permitir la evaluación de la Sala visitada desde el punto de vista del trabajo colectivo que se desempeña.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 3.
 
 Las visitas que se realicen a las Salas Ordinarias tendrán por objeto verificar el buen funcionamiento de las mismas, así como proponer las medidas preventivas y correctivas necesarias para mejorar su desempeño jurisdiccional y administrativo, permitiendo a los Magistrados Visitados y al personal adscrito a cada Ponencia advertir las deficiencias en dicho desempeño y llevar a cabo su oportuna atención dentro de la temporalidad concedida para tales fines en el acta circunstanciada correspondiente, sin que la existencia de recomendaciones implique por sí misma la actualización de responsabilidad administrativa a cargo de servidor público alguno, debiendo atenderse en todo caso al contenido de los artículos 35 y 36 del presente Reglamento.
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 4.
 
 En las visitas que se realicen a las Salas Ordinarias del Tribunal de Justicia Administrativa de la Ciudad de México, se respetará en todo momento la autonomía e independencia jurisdiccional de los Magistrados de cada Ponencia, por cuanto hace a los criterios para el dictado de las resoluciones correspondientes.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 5.
 
-Para los efectos de la aplicación e interpretación de las disposiciones del presente Reglamento, se atenderá en lo conducente a las definiciones que establece el artículo 3 del Reglamento Interior del Tribunal de Justicia Administrativa de la Ciudad de México y adicionalmente se entenderá por:
+Para los efectos de la aplicación e interpretación de las disposiciones del presente Reglamento, se atenderá en lo conducente a las definiciones que establece el artículo 2 del Reglamento Interior del Tribunal de Justicia Administrativa de la Ciudad de México y adicionalmente se entenderá por:
 
 I. Desempeño cuantitativo: El parámetro de medición del desempeño de las Salas Ordinarias relativo a la cantidad de asuntos tramitados y resueltos conforme a las disposiciones aplicables y a la actividad que cada una de las Ponencias que conforman las Salas Ordinarias desempeña.
 
@@ -96,9 +108,13 @@ III. Desempeño administrativo: El parámetro de medición del desempeño de las
 
 IV. Desempeño normativo: El parámetro de medición del desempeño de las Salas Ordinarias relativo al cumplimiento de la Ley para el procedimiento aplicable en cada juicio, vigente al momento de su presentación ante este Tribunal, en la tramitación de los expedientes a su cargo, mismo que versará sobre el seguimiento del procedimiento establecido para cada caso en concreto, sin que ello implique la evaluación de los criterios empleados en la resolución de los asuntos.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 6.
 
 Las Visitas que se realicen a las Salas Ordinarias del Tribunal de Justicia Administrativa de la Ciudad de México, serán substanciadas por el Magistrado Integrante de la Junta de Gobierno y Administración que sea designado para tal efecto. En ese sentido, también participarán en la realización de las mismas, el Secretario Técnico de la Junta de Gobierno y Administración, así como los Visitadores adscritos a la Junta, los cuales fungirán como personal de apoyo del Magistrado Visitador tanto en los actos previos, durante su substanciación y en aquellos posteriores y relacionados con la visita de que se trate.
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 7.
 
@@ -108,11 +124,13 @@ I. Ordinarias: Aquellas que se realicen de conformidad con el Calendario estable
 
 II. Extraordinarias: Las que sea necesario llevar a cabo, de conformidad con lo establecido por el artículo 37 del presente Reglamento.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 8.
 
 En las visitas que se realicen a las Salas Ordinarias del Tribunal de Justicia Administrativa de la Ciudad de México, se deberá:
 
-I. Revisar físicamente los expedientes que por los datos recabados, ameriten su verificación presencial y confronta con los registros en el Sistema Digital de Juicios (SIDIJ), debiendo valorarse para efectos de verificar el tiempo de incorporación a dicho sistema, la fecha en que la promoción respectiva se turnó al Secretario de Acuerdos que le corresponda;
+I. Revisar físicamente los expedientes que, por los datos recabados, ameriten su verificación presencial y confronta con los registros en el Sistema Digital de Juicios (SIDIJ), debiendo valorarse para efectos de verificar el tiempo de incorporación a dicho sistema, desde la fecha en que la promoción respectiva se turnó al Secretario de Acuerdos que le corresponda;
 
 II. Revisar físicamente los expedientes que determine el Magistrado Visitador, siempre atendiendo a lo dispuesto por el artículo 5, fracción II, inciso a) de este Reglamento;
 
@@ -122,9 +140,11 @@ IV. Transmitir a Magistrados y Secretarios de Acuerdos la importancia de la buen
 
 V. Conceder audiencia a los litigantes, personal jurisdiccional y administrativo que lo solicite.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 9.
 
-Al término de la visita, se levantará un acta circunstanciada en la que se harán constar:
+Al término de la visita, se levantará acta circunstanciada en la que se harán constar:
 
 I. Las recomendaciones formuladas en la visita correspondiente a la anualidad anterior, asentando cuáles fueron solventadas, así como aquéllas que aún se encuentren pendientes y el motivo por el cual no han sido atendidas;
 
@@ -140,7 +160,11 @@ VI. Las manifestaciones, escritos o cualquier otro elemento que se aporte durant
 
 VII. Las conclusiones de la visita, en las que se advierta la situación que guarda la Sala visitada, debiendo hacerse constar el trabajo jurisdiccional y los aspectos administrativos vinculados a la misma.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ### CAPÍTULO II. DE LA FUNCIÓN DE VIGILANCIA
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 10.
 
@@ -148,13 +172,21 @@ La función de vigilancia es la actividad dirigida a supervisar que los actos y 
 
 La vigilancia es una función de carácter continuo y dinámico, que la Junta de Gobierno y Administración del Tribunal de Justicia Administrativa de la Ciudad de México realiza a través de los Magistrados Visitadores designados cada año con esa finalidad. Los Magistrados Visitadores al inicio de su función de vigilancia, deberán realizar un diagnóstico preliminar sobre la actuación de las Salas a visitar en el año inmediato anterior, para tal efecto, podrán apoyarse en la información jurisdiccional estadística que proporcione la Secretaría General de Compilación y Difusión, así como aquella que se desprenda del Sistema Digital de Juicios (SIDIJ).
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ## TÍTULO SEGUNDO
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ### CAPÍTULO I. ACTIVIDADES PREVIAS A LA VISITA
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 11.
 
 En la primera sesión de la Junta de Gobierno y Administración celebrada durante el mes de enero de cada año, se establecerá el calendario para la realización de las visitas, el horario en que éstas se llevarán a cabo y se designará de entre los Magistrados que integran dicho órgano colegiado, la Sala que a cada uno de ellos corresponderá visitar, excluyéndose de la referida designación al Magistrado Presidente del Tribunal de Justicia Administrativa de la Ciudad de México y de su Junta de Gobierno y Administración, atendiendo a la naturaleza de las funciones que éste desempeña.
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 12.
 
@@ -162,23 +194,25 @@ El Secretario Técnico de la Junta de Gobierno y Administración, hará del cono
 
 En ese sentido, con una anticipación mínima de diez días hábiles previos al inicio de la visita, también hará del conocimiento de la Secretaría General de Compilación y Difusión, del titular de la Dirección General de Administración, del titular de la Dirección de Informática y del titular de la Unidad de Transparencia, lo establecido en el párrafo anterior, a efecto de que en el ámbito de sus competencias, realicen la publicación de los avisos pertinentes en la página de internet de este órgano jurisdiccional, en el pizarrón que se coloca en el acceso principal del edificio donde se ubica este órgano jurisdiccional, en el letrero electrónico que se encuentra en el área de Oficialía de Partes del propio Tribunal y para la remisión de la información que corresponda al Magistrado Visitador.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 13.
 
-La Secretaria General de Compilación y Difusión de este Tribunal, deberá enviar al Magistrado Visitador con una anticipación mínima de diez días hábiles previos al inicio de la visita correspondiente, los siguientes documentos:
+La Secretaría General de Compilación y Difusión de este Tribunal, deberá enviar al Magistrado Visitador con una anticipación mínima de tres días hábiles previos al inicio de la visita correspondiente, los siguientes documentos:
 
-I. Informes presentados por cada una de las Ponencias que conforman la Sala visitada, correspondientes al periodo anterior a la fecha de realización de la visita;
+I. Copia de los informes presentados por cada una de las Ponencias que conforman la Sala visitada, correspondientes al último informe mensual al mes anterior a la fecha de realización de la visita, cuya información se encuentre procesada;
 
-II. Análisis de los informes mensuales presentados por las Ponencias de la Sala a visitar, en el año inmediato anterior;
+II. Análisis de los informes mensuales presentados por las Ponencias de la Sala a visitar, en el año calendario inmediato anterior;
 
-III. Informe de los juicios radicados en cada una de las Ponencias de la Sala que será visitada, respecto de los cuales el Tablero de Control reporte la falta de documentos por subir al Sistema Digital de Juicios (SIDIJ);
+III. Informe con la cantidad total de los acuerdos, sentencias y notificaciones pendientes por subir al Sistema Digital de Juicios, respecto de cada una de las actuaciones registradas en los diversos juicios radicados en las ponencias de la Sala que será visitada, en el año calendario inmediato anterior, mismo que será generado por la Dirección de Informática a solicitud de dicha Secretaría;
 
-IV. Informe por Ponencia de los Recursos de Apelación que se encuentran pendientes por ser remitidos a la Secretaría General de Acuerdos (I);
+IV. Informe con las variantes significativas que se desprendan del Sistema Digital de Juicios, en relación con las actuaciones registradas en los juicios radicados en cada una de las ponencias de la Sala que será visitada, en el año calendario inmediato anterior, mismo que será generado por la Dirección de Informática a solicitud de dicha Secretaría;
 
-V. Informe por Ponencia respecto del número de quejas presentadas en contra de los servidores públicos que la integran, en el año inmediato anterior, en el que se detalle el resultado de las mismas;
+V. Informe que genere la Secretaría General de Acuerdos (I), con la cantidad de Recursos de Apelación que se encuentran pendientes de remitir por las Ponencias de la Sala que será visitada; y
 
-VI. Informe de todas las variantes que se desprendan de los Tableros de Control, así como al cumplimiento que se da a los plazos para la celebración de las audiencias, en los casos que éstas procedan; y,
+VI. Informe del número de expedientes que cada Ponencia visitada ha concluido y remitido al archivo de concentración, durante el año inmediato anterior.
 
-VII. Informe del número de expedientes que cada Ponencia visitada ha concluido y remitido al archivo de concentración, durante el ejercicio inmediato anterior.
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 14.
 
@@ -191,6 +225,8 @@ II. Plantilla del personal de servicio social, prácticas profesionales o estudi
 III. Informe de la asistencia del personal, en donde deberá detallar aquellos servidores públicos que presentan faltas constantes, ya sean justificadas o injustificadas, a efecto de que pueda evaluarse la cantidad exacta de personal con el que realmente opera la Sala a visitar; y,
 
 IV. Informe de los cambios de personal que se hayan efectuado durante el ejercicio inmediato anterior.
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 15.
 
@@ -206,37 +242,57 @@ IV. Listado de asuntos en los que se ha diferido la audiencia, en los casos que 
 
 V. Informe del ambiente laboral y necesidades de la Ponencia.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 16.
 
 El Magistrado Presidente de la Sala visitada fijará en un lugar visible del Local que ocupa la misma, el aviso de audiencia correspondiente, lo cual deberá hacer con tres días hábiles de anticipación a la fecha de inicio de la visita, el cual deberá permanecer publicado durante el desarrollo de esta. En dicho aviso, se establecerá el día de inicio, hora, lugar y periodo de tiempo en que la visita se desarrollará. El primer Secretario de Acuerdos de la Ponencia del Magistrado Presidente de la Sala visitada, dará fe de lo anterior.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ### CAPÍTULO II. INICIO DE LA VISITA
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 17.
 
 El Magistrado Visitador dará inicio a la visita, para lo cual reunirá al personal que integra la Sala visitada, haciendo constar su asistencia mediante las listas de cada una de las Ponencias.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 18.
 
 El Magistrado Visitador indicará el orden en que se practicará la visita, y solicitará al Magistrado Presidente de la Sala visitada, que designe al Secretario de Acuerdos que fungirá como enlace durante el desarrollo de la misma, el cual dará fe de las actuaciones que el Magistrado Visitador considere necesarias.
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 19.
 
 El Magistrado Visitador solicitará a los Magistrados Visitados, que indiquen las medidas adoptadas respecto de las recomendaciones que fueron realizadas en la visita inmediata anterior y que aporten evidencia documental que acredite su cumplimiento. En ese sentido, se les dará el uso de la voz y lo que manifiesten se asentará en el acta circunstanciada respectiva, adjuntándose también las documentales que para tal efecto exhiban.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 20.
 
 El Magistrado Visitador exhortará a los servidores públicos adscritos a la Ponencia visitada, a fin de que cumplan con la ley y los ordenamientos aplicables, haciendo particular énfasis en el respeto a los derechos humanos de quienes acuden a este Tribunal, como es el derecho a la igualdad y no discriminación, al trato puntual y respetuoso, así como a la equidad de género.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ### CAPÍTULO III. REVISIÓN DE PONENCIA
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 21.
 
 El Magistrado Titular o en su caso el Encargado de la Ponencia de que se trate, deberá otorgar todas las facilidades al Magistrado Visitador, al Secretario Técnico de la Junta de Gobierno y Administración y a los Visitadores adscritos a la Junta, para la realización de la visita, así como proporcionar toda la información y documentación que les sea requerida.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 22.
 
 El Magistrado Visitador auxiliado por el Secretario Técnico de la Junta de Gobierno y Administración y los Visitadores adscritos a la Junta, revisará todos y cada uno de los libros de gobierno y demás controles que se lleven en las áreas que conforman la Ponencia de que se trate.
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 23.
 
@@ -258,6 +314,8 @@ Lo anterior, con independencia de que el Magistrado Visitador podrá entrevistar
 
 Lo manifestado y en su caso documentado por dichos servidores públicos, formará parte del acta circunstanciada que se origine con motivo de la visita, y glosados los anexos correspondientes.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 24.
 
 El Magistrado Visitador requerirá al Actuario que integra la Ponencia de que se trate, a efecto de que, previo a la conclusión de la visita, rinda un informe debidamente signado, en el que:
@@ -278,9 +336,13 @@ Lo anterior, con independencia de que el Magistrado Visitador podrá entrevistar
 
 Lo manifestado y en su caso documentado por dichos servidores públicos, formará parte del acta circunstanciada que se origine con motivo de la visita, y glosados los anexos correspondientes.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 25.
 
 La disposición anterior, será aplicable al actuario de apoyo que se encuentre adscrito a la Sala visitada.
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 26.
 
@@ -292,7 +354,7 @@ II. Que se inicien con la foja de recepción de la Oficialía de Partes de este 
 
 III. Que de existir diferimientos de audiencia, en los casos que esta proceda, se encuentre debidamente justificada su motivación;
 
-IV. Que los actos intra-procesales se realicen dentro de los plazos establecidos en la Ley vigente al momento del ingreso del juicio a este Tribunal;
+IV. Que los actos intraprocesales se realicen dentro de los plazos establecidos en la Ley vigente al momento del ingreso del juicio a este Tribunal;
 
 V. Que las constancias de notificación se encuentren debidamente integradas, y que las mismas y demás diligencias se hayan efectuado en tiempo y forma de ley;
 
@@ -301,6 +363,8 @@ VI. Que las promociones de las partes se encuentren acordadas y glosadas a los a
 VII. Que las actuaciones acaecidas durante el proceso, se encuentren debidamente incorporadas en el Sistema Digital de Juicios (SIDIJ), con la modificación del estado procesal respectivo; y,
 
 VIII. Las demás que resulten necesarias para el adecuado desarrollo de la visita.
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 27.
 
@@ -314,13 +378,21 @@ III. Que las fechas de notificación se encuentren registradas en las libretas f
 
 IV. Las demás que resulten necesarias para el adecuado desarrollo de la visita.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ### CAPÍTULO IV. REVISIÓN DEL TRABAJO COLEGIADO
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 28.
 
 El Magistrado Visitador revisará la forma en que se lleva a cabo el trabajo colegiado, los tiempos de revisión, firmas, y demás formalidades que se requieran, para determinar si se ajusta a lo señalado en el Manual Administrativo de las Salas Ordinarias del Tribunal de Justicia Administrativa de la Ciudad de México o en su caso por el dispositivo legal que regule los procesos administrativos y las formalidades inherentes a los aspectos jurisdiccionales.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ### CAPÍTULO V. REVISIÓN DE ÁREAS DE APOYO
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 29.
 
@@ -362,11 +434,17 @@ El informe rendido, deberá ser glosado como anexo al acta circunstanciada que s
 
 De considerarlo oportuno, el Magistrado Visitador podrá entrevistar a los servidores públicos integrantes de dichas áreas.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 30.
 
-En el caso de que durante el desarrollo de la visita, los litigantes o ciudadanos realicen comentarios, quejas o sugerencias al Magistrado Visitador, dichas manifestaciones formarán parte del acta circunstanciada que se origine con motivo de la visita.
+En el caso de que, durante el desarrollo de la visita, los litigantes o ciudadanos realicen comentarios, quejas o sugerencias al Magistrado Visitador, dichas manifestaciones formarán parte del acta circunstanciada que se origine con motivo de la visita.
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ### CAPÍTULO VI. EVALUACIÓN DEL FUNCIONAMIENTO DE LA SALA
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 31.
 
@@ -385,6 +463,10 @@ e) Periodicidad de envío de expedientes al archivo de concentración.- Se anali
 f) Uso del Sistema.- Se analizará el avance de las Ponencias que integran la Sala visitada, a efecto de lograr que el expediente físico se encuentre debidamente homologado con el expediente electrónico; y,
 
 g) Áreas de Apoyo: Se analizará el desempeño del área de archivo, fotocopiado y digitalización de la Sala visitada, a efecto de implementar medidas dirigidas a la mejora de las mismas.
+
+Asimismo, el Magistrado Visitador, de ser el caso, solicitará el informe de las quejas administrativas presentadas en contra de los servidores públicos que integran la sala visitada, en el año calendario inmediato anterior, de las que haya conocido la Junta de Gobierno y Administración, en el que se detalle el resultado de las mismas.
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 32.
 
@@ -424,6 +506,8 @@ Una vez concluida la visita, el Magistrado Visitador, asistido por el Secretario
 
 6. Plazo para atender Recomendaciones.- El cual podrá ser de hasta treinta días hábiles, ampliable por quince días hábiles más, según se requiera; durante el cual la Ponencia visitada deberá realizar las acciones tendientes a solventar las recomendaciones asentadas en el acta circunstanciada.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 33.
 
 El acta que se levante en la visita, deberá contener los elementos necesarios para que la Junta de Gobierno y Administración como órgano colegiado:
@@ -440,6 +524,8 @@ VI (SIC). Verifique la equidad en la asignación de Turnos a cada Sala Ordinaria
 
 VII. Evalúe la asertividad del Sistema Tecnológico de Información Estandarizada sobre el Desempeño de las Salas Ordinarias.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 34.
 
 Una vez elaborada el acta circunstanciada, la misma deberá ser signada por quintuplicado por el Magistrado Visitador, por los tres Magistrados Integrantes de la Sala Visitada, por el Secretario Técnico de la Junta de Gobierno y Administración y por el Secretario de Acuerdos enlace designado para dar fe. La elaboración del acta y su firma no podrá exceder de cuarenta y cinco días hábiles posteriores a la fecha de conclusión de la visita.
@@ -448,27 +534,43 @@ El Secretario Técnico de la Junta de Gobierno y Administración será el encarg
 
 El acta circunstanciada en la que conste el resultado de la visita, deberá hacerse del conocimiento de la Junta de Gobierno y Administración en la Sesión siguiente a la fecha en que la misma haya sido signada.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ## TÍTULO TERCERO
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ### CAPÍTULO ÚNICO. SANCIONES
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 35.
 
 Derivado de los resultados obtenidos en las visitas que se realicen a las Salas Ordinarias y de no ser atendidas las recomendaciones realizadas en el acta circunstanciada correspondiente dentro de la temporalidad concedida para tales fines, sin que exista causa justificada para ello, la Junta de Gobierno y Administración emprenderá las medidas correctivas que considere oportunas para garantizar el adecuado funcionamiento del área, Ponencia o Sala de que se trate, esto, acorde con lo dispuesto por la Ley Orgánica del Tribunal de Justicia Administrativa de la Ciudad de México, dando intervención al Órgano Interno de Control del Tribunal, de conformidad con lo dispuesto por la Ley de Responsabilidades Administrativas de la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 36.
 
-Si durante el desarrollo de la visita fuera detectada alguna irregularidad, se procederá en términos de lo dispuesto por la Ley de Responsabilidades Administrativas de la Ciudad de México.
+Si durante el desarrollo de la visita fuera detectada alguna irregularidad, se procederá en términos de lo dispuesto por la Ley de Responsabilidades Administrativas de la Ciudad de México, con independencia de cualquier otro tipo de responsabilidad.
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ## TÍTULO CUARTO
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ### CAPÍTULO ÚNICO. VISITAS EXTRAORDINARIAS
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 37.
 
 Los Magistrados Visitadores podrán practicar visitas extraordinarias, cuando así lo determine la Junta de Gobierno y Administración, de advertirse indicios de alguna irregularidad grave y/o mal funcionamiento jurisdiccional o administrativo de la Sala visitada; así como cuando acontezca cualquier eventualidad que impida el desarrollo normal de sus actividades o bien para realizar alguna investigación, desahogar una queja que la propia Junta estime de urgente atención por la peculiaridad de la cuestión planteada, para lograr un mejor funcionamiento de la misma, o de existir incumplimiento de la Sala visitada a las recomendaciones realizadas en el acta circunstanciada correspondiente, durante el plazo concedido para ser solventadas.
 
 Cualquiera de los Magistrados de las Salas que integran el Tribunal de Justicia Administrativa de la Ciudad de México, podrán solicitar a la Junta de Gobierno y Administración la realización de una visita extraordinaria, expresando por escrito los motivos y su finalidad.
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 38.
 
@@ -497,3 +599,13 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN
 JOACIM BARRIENTOS ZAMUDIO
 
 SECRETARIO TÉCNICO DE LA JUNTA DE GOBIERNO Y ADMINISTRACIÓN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 16 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO EMITIDO POR LA JUNTA DE GOBIERNO Y ADMINISTRACIÓN DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO EN SESIÓN DE FECHA ONCE DE JULIO DE DOS MIL DIECINUEVE, POR EL QUE SE APRUEBA LA ACTUALIZACIÓN AL "REGLAMENTO PARA LA PRÁCTICA DE VISITAS A LAS SALAS ORDINARIAS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. La presente actualización entrará en vigor desde el momento de su aprobación por parte de la Junta de Gobierno y Administración, llevada a cabo el once de julio de dos mil diecinueve, con fundamento en lo dispuesto por el artículo 37 del Reglamento Interior del Tribunal de Justica Administrativa de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México, el once de junio de dos mil diecinueve.
+
+SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México.
