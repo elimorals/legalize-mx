@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-procuraduria-general-de-justicia-del-103900"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-30"
-last_updated: "2019-04-30"
+last_updated: "2019-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 30 DE ABRIL DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE AGOSTO DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -149,81 +147,85 @@ La Procuraduría General de Justicia es la dependencia del Ejecutivo del Estado,
 
 I. Procurador General de Justicia;
 
+> <small>(ADICIONADA, B.O. 16 DE AGOSTO DE 2019)</small>
+
+II. Fiscalía Especializada para la investigación y persecución de los delitos de desaparición forzada de personas, desaparición cometida por particulares y delitos vinculados;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-II. Fiscalía Especializada en materia de Combate a la Corrupción;
+III. Fiscalía Especializada en materia de Combate a la Corrupción;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-III. Subprocuraduría Regional de Procedimientos Penales Zona Centro;
+IV. Subprocuraduría Regional de Procedimientos Penales Zona Centro;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-IV. Subprocuraduría Regional de Procedimientos Penales Zona Sur;
+V. Subprocuraduría Regional de Procedimientos Penales Zona Sur;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-V. Subprocuraduría Regional de Procedimientos Penales Zona Norte;
+VI. Subprocuraduría Regional de Procedimientos Penales Zona Norte;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-VI. Subprocuraduría de Justicia Alternativa;
+VII. Subprocuraduría de Justicia Alternativa;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-VII. Subprocuraduría de Atención a Delitos de Alto Impacto;
+VIII. Subprocuraduría de Atención a Delitos de Alto Impacto;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-VIII. Subprocuraduría de Atención a Víctimas de Delitos contra la Libertad Sexual y la Familia;
+IX. Subprocuraduría de Atención a Víctimas de Delitos contra la Libertad Sexual y la Familia;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-IX. Subprocuraduría Jurídica y de Amparo;
+X. Subprocuraduría Jurídica y de Amparo;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-X. Dirección de Servicios Periciales;
+XI. Dirección de Servicios Periciales;
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XI. Dirección de la Agencia Estatal de Investigación Criminal;
+XII. Dirección de la Agencia Estatal de Investigación Criminal;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-XII. Dirección de Atención a Víctimas del Delito;
+XIII. Dirección de Atención a Víctimas del Delito;
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-XIII. Órgano Interno de Control;
+XIV. Órgano Interno de Control;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-XIV. Visitaduría;
+XV. Visitaduría;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-XV. Oficialía Mayor;
+XVI. Oficialía Mayor;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-XVI. Instituto Interdisciplinario de Ciencias Penales;
+XVII. Instituto Interdisciplinario de Ciencias Penales;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-XVII. Coordinaciones Regionales;
+XVIII. Coordinaciones Regionales;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-XVIII. Unidad de Análisis de Información;
+XIX. Unidad de Análisis de Información;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-XIX. Unidad de Política Criminal y Estadística, y
+XX. Unidad de Política Criminal y Estadística, y
 
 > <small>(REFORMADA [N. DE E. REUBICADA], B.O. 27 DE JUNIO DE 2017)</small>
 
-XX. Las demás áreas que establezca el Reglamento Interior.
+XXI. Las demás áreas que establezca el Reglamento Interior.
 
 ###### ARTÍCULO 7.
 
@@ -1757,89 +1759,17 @@ VI. Adquisición, construcción o remodelación de inmuebles para el establecimi
 
 VII. Las demás que determine el Comité.
 
-### CAPÍTULO XV. DE LA FISCALÍA ESPECIALIZADA EN EL COMBATE A LA CORRUPCIÓN
+### CAPÍTULO XV
 
-> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2017)</small>
+DE LA FISCALÍA ESPECIALIZADA PARA LA INVESTIGACIÓN Y PERSECUCIÓN DE LOS DELITOS DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDAS POR PARTICULARES Y DELITOS VINCULADOS.
 
-ARTÍCULO 79 BIS. La Fiscalía especializada en el combate a la corrupción, es el órgano con autonomía técnica y operativa para investigar y perseguir los hechos que las leyes del estado consideran como delitos en materia de corrupción.
+> <small>(ADICIONADA, B.O. 16 DE AGOSTO DE 2019)</small>
 
-Contará con el personal capacitado para el debido cumplimiento de sus funciones, los fiscales especializados en combate a los hechos que las leyes estatales consideran como delitos en materia de corrupción y las unidades administrativas necesarias para el seguimiento de las investigaciones.
+ARTÍCULO 79 BIS.- La Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y Delitos Vinculados, estará a cargo de un titular, que será nombrado y removido libremente por el Procurador, de quien dependerá directamente.
 
-> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2017)</small>
+Las atribuciones de la fiscalía, serán las establecidas en el capítulo sexto de la Ley en Materia de Desaparición Forzada de Personas y Desaparición Cometida por Particulares para el Estado de Baja California Sur y las demás aplicables en el ámbito de sus respectivas competencias de conformidad a lo dispuesto por la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
 
-ARTÍCULO 79 TER. La Fiscalía Especializada o las homologas en otras especializaciones, se equiparán jerárquica y administrativamente a una Subprocuraduría y sus titulares deberán cumplir con los requisitos establecidos en la Constitución Política del Estado Libre y Soberano de Baja California Sur.
-
-> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2017)</small>
-
-ARTÍCULO 79 QUATER. La Fiscalía Especializada en el combate a la corrupción contará con las siguientes atribuciones:
-
-I. Ejercer las facultades que la Constitución, las leyes, los reglamentos y demás disposiciones jurídicas confieren al Fiscal Especializado o Ministerio Público en lo relativo a los hechos que la ley considera hechos de corrupción constitutivos de delito, cometidos por servidores públicos o por particulares;
-
-II. Participar como integrante en el Comité Coordinador del Sistema Estatal Anticorrupción;
-
-III. Diseñar e implementar estrategias y líneas de acción para combatir los hechos que la ley considera como delitos en materia de corrupción;
-
-IV. Implementar programas destinados a detectar la comisión de los hechos que las leyes estatales consideran como delitos en materia de corrupción. Dichos programas deberán ser aprobados por el Procurador General de Justicia del Estado;
-
-> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
-
-V. Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los hechos que las leyes consideran como delitos en materia de corrupción;
-
-> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
-
-VI. Emitir los acuerdos internos, circulares, instructivos, bases, lineamientos, reglas de operación, Manuales de Organización, de Procedimientos técnicos, guías y demás normas administrativas necesarias que rijan la actuación de la Fiscalía en el ámbito de su competencia. En ningún caso podrán contradecir las normas administrativas emitidas por el Procurador General de Justicia Estado;
-
-> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
-
-VII. Fortalecer e implementar en materia de su competencia, mecanismos de cooperación y colaboración con otras autoridades;
-
-> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
-
-VIII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que la ley considera como delitos en materia de corrupción;
-
-IX. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones;
-
-X. Requerir a las instancias de gobierno la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada;
-
-XI. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable para que pueda ser utilizada por ésta y otras unidades competentes de la Procuraduría General de Justicia del Estado, en especial la relacionada con la investigación de los hechos que la ley considera como delitos en materia de corrupción;
-
-XII. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos en materia de corrupción;
-
-XIII. Nombrar, previo acuerdo con el Procurador General de Justicia (sic) Estado, a los titulares de las unidades administrativas de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción, salvo aquellas que no realicen funciones sustantivas, en cuyo caso, el nombramiento y su remoción serán exclusivos del Fiscal Especializado;
-
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XIV. Contar con los agentes del Ministerio Público y Agentes Estatales de Investigación Criminal, que le estarán adscritos y resulten necesarios para la atención de los casos que correspondan a la Fiscalía, sobre los que ejercerá mando directo;
-
-XV. Proponer a la unidad administrativa competente el contenido teórico práctico de los programas de capacitación, actualización y especialización para los agentes del Ministerio Público adscritos a la Fiscalía Especializada;
-
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
-
-XVI. Coordinar y supervisar la actuación de los Agentes Estatales de Investigación Criminal en materia de su competencia;
-
-XVII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que la ley considera como delitos en materia de corrupción;
-
-XVIII. Coadyuvar con otras áreas competentes de la Procuraduría General de Justicia del Estado, en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con los hechos que la ley considera como delitos en materia de corrupción;
-
-XIX. Generar sus propias herramientas metodológicas para el efecto de identificar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita;
-
-XX. Emitir guías y manuales técnicos, en conjunto con las demás unidades administrativas de la Procuraduría General de Justicia del Estado para la formulación de dictámenes en materia de análisis fiscal, financiero y contable que requieran los agentes del Ministerio Público en el cumplimiento de sus funciones de investigación y persecución de los hechos que la ley considera como delitos en materia de corrupción;
-
-XXI. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos en materia de corrupción;
-
-XXII. Proponer al Procurador General de Justicia del Estado la celebración de convenios con las diferentes instancias de Gobierno en la entidad y de otras entidades federativas para el intercambio de información, así como para tener acceso directo a la información disponible en los Registros Públicos de la Propiedad así como de las unidades de inteligencia patrimonial de las entidades federativas, para la investigación y persecución de los hechos que la ley considera como delitos en materia de corrupción;
-
-XXIII. Dirigir, coordinar y realizar la investigación de los hechos que la Ley señale como delitos del fuero Común en materia de su competencia;
-
-XXIV. Ordenar el aseguramiento de bienes muebles e inmuebles propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado;
-
-XXV. Solicitar las providencias precautorias establecidas en el artículo 138 del Código Nacional de Procedimientos Penales;
-
-XXVI. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la Ley aplicable, y
-
-XXVII. Las demás que en su caso le confieran otras disposiciones legales aplicables.
-
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 77.
 
@@ -1909,17 +1839,99 @@ XXIII. Participar en los procesos de evaluación de conocimientos y, en su caso 
 
 XXIV. Las demás que de acuerdo a sus funciones le ordene el Procurador, así como las que determinen las disposiciones legales aplicables, la presente Ley Orgánica y el Reglamento Interior.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE JUNIO DE 2017)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 16 DE AGOSTO DE 2019)</small>
 
-### CAPÍTULO XVI. DE LA UNIDAD DE ANÁLISIS DE LA INFORMACIÓN, Y DE LA UNIDAD DE POLÍTICA CRIMINAL Y ESTADISTICA
+### CAPÍTULO XVI. DE LA FISCALÍA ESPECIALIZADA EN MATERIA DE COMBATE A LA CORRUPCIÓN
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 79 TER. La Fiscalía especializada en el combate a la corrupción, es el órgano con autonomía técnica y operativa para investigar y perseguir los hechos que las leyes del estado consideran como delitos en materia de corrupción.
+
+Contará con el personal capacitado para el debido cumplimiento de sus funciones, los fiscales especializados en combate a los hechos que las leyes estatales consideran como delitos en materia de corrupción y las unidades administrativas necesarias para el seguimiento de las investigaciones.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 79 QUATER. La Fiscalía Especializada o las homologas en otras especializaciones, se equiparán jerárquica y administrativamente a una Subprocuraduría y sus titulares deberán cumplir con los requisitos establecidos en la Constitución Política del Estado Libre y Soberano de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2017)</small>
+
+ARTÍCULO 79 QUINQUIES. La Fiscalía Especializada en el combate a la corrupción contará con las siguientes atribuciones:
+
+I. Ejercer las facultades que la Constitución, las leyes, los reglamentos y demás disposiciones jurídicas confieren al Fiscal Especializado o Ministerio Público en lo relativo a los hechos que la ley considera hechos de corrupción constitutivos de delito, cometidos por servidores públicos o por particulares;
+
+II. Participar como integrante en el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+III. Diseñar e implementar estrategias y líneas de acción para combatir los hechos que la ley considera como delitos en materia de corrupción;
+
+IV. Implementar programas destinados a detectar la comisión de los hechos que las leyes estatales consideran como delitos en materia de corrupción. Dichos programas deberán ser aprobados por el Procurador General de Justicia del Estado;
+
+> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
+
+V. Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los hechos que las leyes consideran como delitos en materia de corrupción;
+
+> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
+
+VI. Emitir los acuerdos internos, circulares, instructivos, bases, lineamientos, reglas de operación, Manuales de Organización, de Procedimientos técnicos, guías y demás normas administrativas necesarias que rijan la actuación de la Fiscalía en el ámbito de su competencia. En ningún caso podrán contradecir las normas administrativas emitidas por el Procurador General de Justicia Estado;
+
+> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
+
+VII. Fortalecer e implementar en materia de su competencia, mecanismos de cooperación y colaboración con otras autoridades;
+
+> <small>(F. DE E., B.O. 20 DE JULIO DE 2017)</small>
+
+VIII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que la ley considera como delitos en materia de corrupción;
+
+IX. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones;
+
+X. Requerir a las instancias de gobierno la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada;
+
+XI. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable para que pueda ser utilizada por ésta y otras unidades competentes de la Procuraduría General de Justicia del Estado, en especial la relacionada con la investigación de los hechos que la ley considera como delitos en materia de corrupción;
+
+XII. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos en materia de corrupción;
+
+XIII. Nombrar, previo acuerdo con el Procurador General de Justicia (sic) Estado, a los titulares de las unidades administrativas de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción, salvo aquellas que no realicen funciones sustantivas, en cuyo caso, el nombramiento y su remoción serán exclusivos del Fiscal Especializado;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XIV. Contar con los agentes del Ministerio Público y Agentes Estatales de Investigación Criminal, que le estarán adscritos y resulten necesarios para la atención de los casos que correspondan a la Fiscalía, sobre los que ejercerá mando directo;
+
+XV. Proponer a la unidad administrativa competente el contenido teórico práctico de los programas de capacitación, actualización y especialización para los agentes del Ministerio Público adscritos a la Fiscalía Especializada;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2018)</small>
+
+XVI. Coordinar y supervisar la actuación de los Agentes Estatales de Investigación Criminal en materia de su competencia;
+
+XVII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que la ley considera como delitos en materia de corrupción;
+
+XVIII. Coadyuvar con otras áreas competentes de la Procuraduría General de Justicia del Estado, en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con los hechos que la ley considera como delitos en materia de corrupción;
+
+XIX. Generar sus propias herramientas metodológicas para el efecto de identificar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita;
+
+XX. Emitir guías y manuales técnicos, en conjunto con las demás unidades administrativas de la Procuraduría General de Justicia del Estado para la formulación de dictámenes en materia de análisis fiscal, financiero y contable que requieran los agentes del Ministerio Público en el cumplimiento de sus funciones de investigación y persecución de los hechos que la ley considera como delitos en materia de corrupción;
+
+XXI. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos en materia de corrupción;
+
+XXII. Proponer al Procurador General de Justicia del Estado la celebración de convenios con las diferentes instancias de Gobierno en la entidad y de otras entidades federativas para el intercambio de información, así como para tener acceso directo a la información disponible en los Registros Públicos de la Propiedad así como de las unidades de inteligencia patrimonial de las entidades federativas, para la investigación y persecución de los hechos que la ley considera como delitos en materia de corrupción;
+
+XXIII. Dirigir, coordinar y realizar la investigación de los hechos que la Ley señale como delitos del fuero Común en materia de su competencia;
+
+XXIV. Ordenar el aseguramiento de bienes muebles e inmuebles propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado;
+
+XXV. Solicitar las providencias precautorias establecidas en el artículo 138 del Código Nacional de Procedimientos Penales;
+
+XXVI. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la Ley aplicable, y
+
+XXVII. Las demás que en su caso le confieran otras disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 27 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO XVII. DE LA UNIDAD DE ANÁLISIS DE LA INFORMACIÓN, Y DE LA UNIDAD DE POLÍTICA CRIMINAL Y ESTADISTICA
 
 > <small>(REFORMADO, B.O. 27 DE JUNIO DE 2017)</small>
 
-### CAPITULO XVII. DE LOS REQUISITOS DE INGRESO Y PERMANENCIA DE MINISTERIOS PÚBLICOS, PERITOS Y AGENTES ESTATALES DE INVESTIGACIÓN CRIMINAL
+### CAPITULO XVIII. DE LOS REQUISITOS DE INGRESO Y PERMANENCIA DE MINISTERIOS PÚBLICOS, PERITOS Y AGENTES ESTATALES DE INVESTIGACIÓN CRIMINAL
 
-### CAPÍTULO XVIII. DEL SERVICIO CIVIL Y PROFESIONAL DE CARRERA
-
-### CAPÍTULO XIX. DE LA SECRETARÍA TÉCNICA
+### CAPÍTULO XIX. DEL SERVICIO CIVIL Y PROFESIONAL DE CARRERA
 
 ###### ARTÍCULO 80.
 
@@ -1947,7 +1959,9 @@ Para el desempeño de sus funciones la Unidad de Análisis de la Información co
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
-### CAPÍTULO IV (SIC). INCOMPATIBILIDADES, IMPEDIMENTOS Y EXCUSAS
+### CAPÍTULO XX. DE LA SECRETARÍA TÉCNICA
+
+### CAPÍTULO XXI. INCOMPATIBILIDADES, IMPEDIMENTOS Y EXCUSAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2316,3 +2330,63 @@ Las referencias o actos realizados por el Área de Inteligencia se entenderán c
 ###### ARTÍCULO OCTAVO.
 
 Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+
+B.O. 16 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2621 SE EXPIDE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO DE BAJA CALIFORNIA SUR; Y SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+TRANSITORIOS RELACIONADOS CON LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo segundo.- En un plazo que no exceda de quince días posteriores a la conformación del Consejo Estatal Ciudadano, el Titular del Poder Ejecutivo Estatal nombrará a la o al Titular de la Comisión Estatal de Búsqueda, atendiendo a lo previsto en los artículos 31 y 32 de esta Ley.
+
+Artículo tercero.- Dentro de los treinta días posteriores a la entrada en vigor del presente decreto, deberán ser nombrados por el Congreso del Estado, los integrantes del Consejo Estatal Ciudadano, previa convocatoria pública, de conformidad a lo establecido en el artículo 40 de esta Ley.
+
+En un plazo de treinta días posteriores a su conformación el Consejo Estatal Ciudadano deberá emitir sus reglas de funcionamiento.
+
+El nombramiento de los integrantes del Consejo Estatal Ciudadano será de forma escalonada, con la finalidad de no interrumpir los proyectos de trabajo que se planteen, siguiendo la siguiente formula:
+
+a.- Respecto a los cinco representantes de familiares de cada uno de los cinco municipios;
+
+El primer nombramiento será por el periodo de un año;
+
+El segundo y tercer nombramiento será por el periodo de dos años; y
+
+El Cuarto y Quinto nombramiento será por el periodo de tres años.
+
+b.- Respecto a los integrantes del Consejo Estatal Ciudadano en su carácter de especialistas en la protección y defensa de los derechos humanos, la búsqueda de Personas desaparecidas o no localizadas o en la investigación y persecución de los delitos previstos en la Ley General. El primer nombramiento será por un periodo de tres años, el segundo por un lapso de dos años.
+
+c.- en el caso de los representantes de organizaciones de la sociedad civil de derechos humanos, el primer cargo será de un año, el segundo por dos años y el tercero de tres años, y
+
+d.- Esta fórmula se aplicara para la renovación del Consejo Estatal Ciudadano, de tal manera que se alcance un equilibrio entre sus integrantes.
+
+Artículo cuarto.- El Mecanismo Estatal deberá quedar instalado a más tardar dentro de los treinta días naturales posteriores al nombramiento del o la Comisionada Estatal de Búsqueda.
+
+Artículo quinto.- Dentro de los treinta días posteriores a la entrada en vigor del presente Decreto, la Procuraduría General del Estado deberá hacer las adecuaciones necesarias a su reglamento a fin de atender con lo mandatado en el capítulo sexto del título tercero de esta Ley.
+
+Artículo sexto.- En la propuesta del presupuesto de egresos para el ejercicio fiscal del año 2020, que envié el Poder Ejecutivo al Poder Legislativo para su aprobación, deberá venir incluida la creación de la partida y la suficiencia presupuestal para el fondo estatal de desaparición a que hace referencia el artículo 49 de esta Ley.
+
+Artículo séptimo.- Dentro de treinta días siguientes a que la Comisión Estatal de Búsqueda inicie sus funciones, ésta deberá emitir los protocolos rectores para su funcionamiento previstos en el artículo 33 fracción VII, de esta Ley.
+
+Artículo octavo.- Los servidores públicos que integren la Fiscalía Especializada y la Comisión de Búsqueda deberán estar certificados dentro del año posterior a su creación.
+
+La Comisión Estatal de Búsqueda podrá, a partir de que entre en funcionamiento, ejercer las atribuciones que esta Ley y La Ley General le confieren con relación a los procesos de Búsqueda que se encuentren pendientes.
+
+Artículo noveno. El Ejecutivo del Estado, en un plazo de treinta días a partir de la entrada en vigor del presente decreto, deberá expedir el reglamento de ésta y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en la presente Ley.
+
+TRANSITORIOS RELACIONADOS CON LA FISCALÍA ESPECIALIZADA PARA LA INVESTIGACIÓN Y PERSECUCIÓN DE LOS DELITOS DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DELITOS VINCULADOS.
+
+Artículo decimo. Las y los servidores públicos adscritos a la Fiscalía Especializada para la investigación y persecución de los delitos de desaparición forzada de personas, desaparición cometida por particulares y delitos vinculados, deberán estar certificados dentro del año posterior a la entrada en vigor del presente Decreto.
+
+Artículo décimo primero. La Procuraduría General de Justicia del Estado deberá realizar las gestiones necesarias para que se provea de recursos materiales, humanos, técnicos, presupuestales para el correcto funcionamiento y capacitación de la Fiscalía Especializada para la investigación y persecución de los delitos de desaparición forzada de personas, desaparición cometida por particulares y delitos vinculados.
+
+Hasta en tanto se tenga la suficiencia presupuestal para la operación y funcionamiento de la Fiscalía Especializada, se continuará con la estructura y presupuesto con que contaba la Unidad de Investigación y Judicialización Especializada en Búsqueda de Personas Desaparecidas.
+
+Artículo décimo segundo.- Para los efectos de la continuación del trámite y conclusión de los asuntos ya radicados por la Unidad de Investigación y Judicialización Especializada en Búsqueda de Personas Desaparecidas, con asignación de número único de caso y pendientes de resolver, el personal adscrito a la Fiscalía Especializada que se crea, serán los responsables de las mismas, quienes asumirán de manera inmediata su legal conocimiento y seguimiento; dichos asuntos continuarán con el mismo número único de caso que se les diere desde su radicación primigenia.
+
+Artículo décimo tercero.- Una vez que se dé la creación de la Comisión Estatal de Búsqueda de Personas y se integre y empiece operaciones la Fiscaliza Especializada, el ACUERDO 165/2017 emitido por la Procuraduría General de Justicia de Baja California Sur, por el que se crea la Unidad de Investigación y Judicialización Especializada en Búsqueda de Personas Desaparecidas, publicadas en el Boletín Oficial del Gobierno del Estado de Baja California Sur No. 24 de fecha 30 de junio de 2017, quedara abrogado.
+
+TRANSITORIOS RELACIONADOS CON LA DEROGACIÓN DEL DELITO DE DESAPARICIÓN FORZADA DE PERSONAS
+
+Artículo décimo cuarto.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto y que se encuentren en trámite o pendientes de resolución por el delito previsto en los artículos 191, 192 y 193 del Código Penal para el Estado Libre y Soberano de Baja California Sur que se derogan, se seguirán substanciando hasta su conclusión con esa disposición vigente y demás relativas y aplicables al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
