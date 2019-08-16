@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-301-de-desarrollo-social-y-humano-para-el-estado-836
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-01"
-last_updated: "2018-11-21"
+last_updated: "2019-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 301 DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 301 DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 301 DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE AGOSTO DE 2019.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 1 de noviembre de 2011.
 
@@ -111,45 +111,53 @@ II. Consejo: El Consejo Estatal de Desarrollo Social;
 
 III. Desarrollo Humano: El proceso mediante el cual se generan, fomentan y fortalecen las oportunidades y posibilidades de las personas para desplegar sus potencialidades y capacidades humanas, para el logro de un mejoramiento y realización personal y de la sociedad en su conjunto;
 
-IV. Desarrollo Social: Es el proceso de realización de los derechos de la población, mediante el cual se fomenta el mejoramiento integral de las condiciones de vida, a través de la obtención y desarrollo de habilidades, así como la creación de oportunidades sociales, la erradicación de la desigualdad y de la exclusión e inequidad social entre individuos y grupos, con el fin de lograr su incorporación plena a la vida económica, social y cultural;
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2019)</small>
 
-V. Derechos sociales: La salud, la alimentación, la educación, el trabajo y la seguridad social, la vivienda y el disfrute de un medio ambiente sano, así como los relativos a la no discriminación, en términos de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave;
+IV. Desarrollo Regional: El proceso localizado de cambio social sostenido que tiene como finalidad última el progreso permanente de la región y de cada individuo residente en ella;
 
-VI. Estado: El Estado de Veracruz de Ignacio de la Llave;
+V. Desarrollo Social: Es el proceso de realización de los derechos de la población, mediante el cual se fomenta el mejoramiento integral de las condiciones de vida, a través de la obtención y desarrollo de habilidades, así como la creación de oportunidades sociales, la erradicación de la desigualdad y de la exclusión e inequidad social entre individuos y grupos, con el fin de lograr su incorporación plena a la vida económica, social y cultural;
 
-VII. Ley: La Ley de Desarrollo Social y Humano para el Estado de Veracruz de Ignacio de la Llave;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2019)</small>
 
-VIII. Ley General: La Ley General de Desarrollo Social;
+VI. Derechos Sociales: La salud, la alimentación, la educación, el trabajo y la seguridad social, la vivienda y el disfrute de un medio ambiente sano, así como los relativos a la no discriminación, en términos de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave;
 
-IX. Organizaciones Sociales vulnerables: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo, desamparo o discriminación que les impide alcanzar mejores niveles de vida;
+VII. Estado: El Estado de Veracruz de Ignacio de la Llave;
 
-X. Padrón Único de Beneficiarios: Relación oficial de beneficiarios que incluye a las personas atendidas por los diferentes programas de desarrollo social que se ejecuten en el Estado y cuyo perfil socioeconómico se establece en la normatividad correspondiente;
+VIII. Ley: La Ley de Desarrollo Social y Humano para el Estado de Veracruz de Ignacio de la Llave;
 
-XI. Política Social: El conjunto de políticas, estrategias, programas y acciones de gobierno y de la sociedad que, de manera integral y con una visión común, articulan procesos que potencien y garanticen el desarrollo sostenible y con equidad, que se transforme en bienestar y calidad de vida para la sociedad;
+IX. Ley General: La Ley General de Desarrollo Social;
 
-XII. Políticas Asistenciales: Aquellas dirigidas a proporcionar el apoyo, la integración social y el sano desarrollo, a los individuos y grupos vulnerables o en situación de riesgo, por su situación de desventaja, abandono o desprotección física, mental, jurídica o social. Asimismo, las acciones dirigidas a enfrentar situaciones de urgencia o a fortalecer la capacidad de los individuos para resolver necesidades de supervivencia, ejercer sus derechos y, de ser posible, procurar su reintegración al seno familiar, laboral y social;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2019)</small>
 
-XIII. Políticas Compensatorias: Aquellas orientadas a beneficiar a un grupo social en un territorio determinado, para lograr equiparlo e incluirlo en las mismas condiciones y oportunidades que el promedio que la población tiene;
+X. Organizaciones Sociales Vulnerables: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo, desamparo o discriminación que les impide alcanzar mejores niveles de vida;
 
-XIV. Políticas de Desarrollo Regional: Aquellas dirigidas a promover el desarrollo equilibrado entre las regiones del Estado, procurando la sustentabilidad de las obras y acciones de desarrollo social;
+XI. Padrón Único de Beneficiarios: Relación oficial de beneficiarios que incluye a las personas atendidas por los diferentes programas de desarrollo social que se ejecuten en el Estado y cuyo perfil socioeconómico se establece en la normatividad correspondiente;
 
-XV. Políticas de Fomento: Aquellas orientadas a beneficiar a un grupo social en un territorio determinado, generando las condiciones necesarias para incorporarlo al sector productivo y lograr su autosuficiencia económica;
+XII. Política Social: El conjunto de políticas, estrategias, programas y acciones de gobierno y de la sociedad que, de manera integral y con una visión común, articulan procesos que potencien y garanticen el desarrollo sostenible y con equidad, que se transforme en bienestar y calidad de vida para la sociedad;
 
-XVI. Programas Sociales: Aquellos programas públicos, privados o mixtos, que sustenten la operación de alguna de las políticas definidas en el marco de esta Ley;
+XIII. Políticas Asistenciales: Aquellas dirigidas a proporcionar el apoyo, la integración social y el sano desarrollo, a los individuos y grupos vulnerables o en situación de riesgo, por su situación de desventaja, abandono o desprotección física, mental, jurídica o social. Asimismo, las acciones dirigidas a enfrentar situaciones de urgencia o a fortalecer la capacidad de los individuos para resolver necesidades de supervivencia, ejercer sus derechos y, de ser posible, procurar su reintegración al seno familiar, laboral y social;
 
-XVII. Reglas de Operación: El conjunto de normas que rigen a cada uno de los programas sociales;
+XIV. Políticas Compensatorias: Aquellas orientadas a beneficiar a un grupo social en un territorio determinado, para lograr equiparlo e incluirlo en las mismas condiciones y oportunidades que el promedio que la población tiene;
+
+XV. Políticas de Desarrollo Regional: Aquellas dirigidas a promover el desarrollo equilibrado entre las regiones del Estado, procurando la sustentabilidad de las obras y acciones de desarrollo social;
+
+XVI. Políticas de Fomento: Aquellas orientadas a beneficiar a un grupo social en un territorio determinado, generando las condiciones necesarias para incorporarlo al sector productivo y lograr su autosuficiencia económica;
+
+XVII. Programas Sociales: Aquellos programas públicos, privados o mixtos, que sustenten la operación de alguna de las políticas definidas en el marco de esta Ley;
+
+XVIII. Reglas de Operación: El conjunto de normas que rigen a cada uno de los programas sociales;
 
 > <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-XVIII. Secretaría: La Secretaría de Desarrollo Social del Gobierno del Estado;
+XIX. Secretaría: La Secretaría de Desarrollo Social del Gobierno del Estado;
 
 > <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
-XIX. Sistema: El Sistema Estatal de Desarrollo Social; y
+XX. Sistema: El Sistema Estatal de Desarrollo Social; y
 
-> <small>(ADICIONADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2019)</small>
 
-XX. Seguridad Humana: Política integral de desarrollo humano que, permite identificar y responder a las vulnerabilidades, múltiples e interconectadas, y a las amenazas críticas que afectan a los humanos bajo los principios de centralidad en las personas, multisectorialidad, integralidad, contextualización y enfoque en la prevención. Comprende siete dimensiones: seguridad económica, seguridad alimentaria, seguridad de la salud, seguridad ambiental, seguridad personal, seguridad comunitaria y seguridad política.
+XXI. Seguridad Humana: Política integral de desarrollo humano que, permite identificar y responder a las vulnerabilidades, múltiples e interconectadas, y a las amenazas críticas que afectan a los humanos bajo los principios de centralidad en las personas, multisectorialidad, integralidad, contextualización y enfoque en la prevención. Comprende siete dimensiones: Seguridad económica, seguridad alimentaria, seguridad de la salud, seguridad ambiental, seguridad personal, seguridad comunitaria y seguridad política.
 
 ###### Artículo 4.
 
@@ -237,9 +245,11 @@ IX. Cumplir la normatividad de los programas de desarrollo social y humano.
 
 ### CAPÍTULO III. DE LA POLÍTICA ESTATAL DE DESARROLLO SOCIAL Y HUMANO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 10.
 
-La política estatal de desarrollo social del Estado y los Municipios tiene los siguientes objetivos:
+La Política Estatal de Desarrollo Social, deberá ser congruente con los Planes Nacional, Estatal y Municipales de Desarrollo, así como con los programas que deriven de ellos, y tiene los siguientes objetivos:
 
 > <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
@@ -247,9 +257,13 @@ I. Propiciar las condiciones que aseguren el disfrute de los derechos sociales, 
 
 II. Promover un desarrollo económico con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso y mejore su distribución;
 
-III. Fortalecer el desarrollo estatal, regional y municipal equilibrado;
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2019)</small>
 
-IV. Fomentar el desarrollo de la familia como célula básica de la sociedad, especialmente en las localidades con mayores índices de rezago, marginación y pobreza;
+III. Impulsar y fortalecer el desarrollo estatal, regional y municipal de manera equilibrada y sostenible;
+
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2019)</small>
+
+IV. Orientar las acciones en beneficio de la población ubicada en las zonas de atención prioritaria;
 
 > <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
@@ -259,7 +273,7 @@ VI. Fomentar la igualdad de oportunidades económicas y aprovechar la capacidad 
 
 VII. Propiciar la participación de los migrantes veracruzanos, canalizando sus remesas en beneficio del desarrollo de sus comunidades y del Estado;
 
-VIII. Impulsar el desarrollo municipal, como estrategia de equilibrio entre las regiones;
+VIII. (DEROGADA, G.O. 16 DE AGOSTO DE 2019)
 
 > <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
@@ -301,17 +315,17 @@ VII. Fomento del sector social de la economía.
 
 ### CAPÍTULO IV. DE LA PLANEACIÓN DEL DESARROLLO SOCIAL
 
-> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 13.
 
-La planeación del desarrollo social y la seguridad humana en el Estado estará a cargo del Titular del Poder Ejecutivo y los Ayuntamientos, en el ámbito de sus respectivas competencias y con apego a lo establecido en esta Ley, la Ley de Planeación del Estado, la Ley General y demás disposiciones aplicables en la materia.
+La planeación del desarrollo social y la seguridad humana en el Estado estará a cargo del Ejecutivo Estatal, por conducto de la Secretaría, y los Ayuntamientos, en el ámbito de sus respectivas competencias y con apego a lo establecido en esta Ley, la Ley de Planeación del Estado, la Ley General y demás disposiciones aplicables en la materia.
 
-> <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 14.
 
-La planeación del desarrollo social y la seguridad humana incluirá los programas sectoriales de las dependencias del Poder Ejecutivo que guarden relación con el desarrollo social; los institucionales, regionales y especiales en esta materia; el Programa Sectorial de Desarrollo Social; y el Plan Estatal de Desarrollo.
+La planeación del desarrollo social y la seguridad humana incluirá los programas que guardan relación con la materia, así como los planes de desarrollo de los tres órdenes de gobierno.
 
 ###### Artículo 15.
 
@@ -423,9 +437,11 @@ En el Presupuesto de Egresos del Estado se determinarán el monto y las reglas a
 
 ### CAPÍTULO V. DE LAS ZONAS DE ATENCIÓN PRIORITARIA
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 26.
 
-Son zonas de atención prioritaria las zonas rurales que se encuentren en condiciones de pobreza extrema y las zonas urbanas que presenten muy alto y alto grado de rezago social y marginación.
+Son zonas de atención prioritaria, las zonas rurales o urbanas cuya población se encuentre en situación de desigualdad, pobreza o presenten grado muy alto o alto de rezago social y marginación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
@@ -517,13 +533,17 @@ II. Establecer la colaboración entre las dependencias y entidades estatales en 
 
 III. Promover la concurrencia, vinculación y congruencia de los programas, acciones e inversiones de las dependencias y entidades del Estado y los gobiernos municipales, con los objetivos, estrategias y prioridades de la Política Estatal de Desarrollo Social;
 
-> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2019)</small>
 
-IV. Fomentar la participación de las personas, familias y organizaciones y, en general, de los sectores social y privado en el desarrollo social y la seguridad humana; y
+IV. Fomentar la participación de las personas, familias y organizaciones y, en general, de los sectores social y privado en el desarrollo social y la seguridad humana;
 
-> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2019)</small>
 
-V. Coordinar las acciones orientadas a la consecución de los objetivos, estrategias y prioridades de la Política Estatal de Desarrollo Social y Seguridad Humana.
+V. Coordinar las acciones orientadas a la consecución de los objetivos, estrategias y prioridades de la Política Estatal de Desarrollo Social y Seguridad Humana; y
+
+> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2019)</small>
+
+VI. Concentrar la información relativa a las obras y acciones planeadas y realizadas.
 
 > <small>(REFORMADO, G.O. 21 DE NOVIEMBRE DE 2018)</small>
 
@@ -922,5 +942,13 @@ G.O. 21 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 776 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE VERACRUZ”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 16 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 284 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
