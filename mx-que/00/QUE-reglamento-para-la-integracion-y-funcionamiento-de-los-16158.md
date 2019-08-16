@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-para-la-integracion-y-funcionamiento-de-los-16158"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-14"
-last_updated: "2011-10-28"
+last_updated: "2019-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO PARA LA INTEGRACION Y FUNCIONAMIENTO DE LOS COMITES DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL PODER EJECUTIVO Y ENTIDADES PARAESTATALES DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 14 de abril de 2000.
 
@@ -47,13 +47,29 @@ I.- El Oficial Mayor del Poder Ejecutivo o la persona que designe, como Presiden
 
 II.- El Director de Adquisiciones de la Oficialía Mayor del Poder Ejecutivo, como Secretario Ejecutivo;
 
-III.- Un representante de la Secretaría de Planeación y Finanzas y un representante de la Secretaría de la Contraloría, como Vocales; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2019)</small>
 
-IV.- Un representante de la Dependencia solicitante de la adquisición, enajenación o arrendamiento de bienes, o contratación de servicios, que haya de conocer el propio Comité, como Vocal.
+III. Un representante del Órgano Interno de Control de la Oficialía Mayor del Poder Ejecutivo, como vocal;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2019)</small>
+
+IV. Un representante de la Dependencia solicitante de la adquisición, enajenación o arrendamiento de bienes, o contratación de servicios, que haya de conocer el propio Comité, como vocal.
+
+En el caso de compras consolidadas asistirá la Dependencia o unidad consolidadora, y
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2019)</small>
+
+V. Un representante del Área Jurídica de la Oficialía Mayor del Poder Ejecutivo, como vocal.
 
 Los miembros propietarios del Comité deberán nombrar a su respectivo suplente.
 
-La persona que en su caso se designe por el Oficial Mayor del Poder Ejecutivo, los representantes a que se refiere las fracciones III y IV anteriores, y los suplentes de los miembros propietarios del Comité, deberán ser servidores públicos cuyo nivel jerárquico no sea inferior al de Jefe de Departamento.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2019)</small>
+
+La persona que en su caso se designe por el Oficial Mayor del Poder Ejecutivo como su suplente deberá tener cuando menos el nivel de Jefe de Departamento.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2019)</small>
+
+El representante de la Dependencia a que se refiere la fracción IV, deberá tener cuando menos el nivel jerárquico de Jefe de Departamento, siendo necesaria su asistencia a la sesión.
 
 ###### Artículo 3.
 
@@ -65,11 +81,13 @@ II.- El titular de su Oficialía Mayor o su equivalente, en los términos señal
 
 III.- Un representante de la Dependencia Coordinadora del sector al que pertenezca la Entidad Paraestatal, como Vocal;
 
-IV.- Un representante de la Secretaría de Planeación y Finanzas, como Vocal; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
+IV. El titular de su área de Finanzas o su equivalente, como vocal, y
 
-V.- Un representante de la Oficialía Mayor del Poder Ejecutivo, como Vocal.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2019)</small>
+
+V. El titular de su Área Jurídica o su equivalente, como vocal;
 
 Los miembros propietarios del Comité deberán nombrar a su respectivo suplente.
 
@@ -83,7 +101,13 @@ Los Comités se establecerán por conducto de la Oficialía Mayor en el caso del
 
 Los Comités sesionarán cuantas veces sea necesario y por lo menos una vez al mes, pudiendo invitar a sus sesiones a las personas que estimen conveniente, las cuales tendrán voz pero no voto.
 
-A las sesiones de los Comités de las Entidades Paraestatales deberá asistir un representante de la Secretaría de la Contraloría, quien tendrá voz pero no voto.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2019)</small>
+
+A las sesiones de los Comités de las Entidades Paraestatales deberá asistir un representante del Órgano Interno de Control de la Entidad, quien tendrá voz pero no voto.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2019)</small>
+
+En los casos en que no exista Órgano Interno de Control, asistirá un representante del Órgano Interno de Control de la dependencia coordinadora del sector, de conformidad con el acuerdo de sectorización de los Órganos Internos de Control emitido por la Secretaría de la Contraloría. En caso de que no exista Órgano Interno de Control en la dependencia coordinadora, asistirá un representante de la Secretaría de la Contraloría, quien tendrá voz pero no voto.
 
 ###### Artículo 6.
 
@@ -123,9 +147,11 @@ Los Comités podrán en una sola de sus sesiones llevar a cabo el acto de apertu
 
 Los contratos respectivos deberán celebrarse en el plazo que establezcan los Comités al dictarse el fallo y siempre y cuando se cumpla por el proveedor con lo dispuesto por la normatividad aplicable. De no suceder así, deberá procederse en los términos previstos por el artículo 22 fracción VII de la Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 10.
 
-Las Entidades Paraestatales deberán remitir al Titular de la Oficialía Mayor del Poder Ejecutivo, copia de todos los fallos que emitan y los contratos que se celebren derivado de los mismos, dentro de los diez días hábiles siguientes a la fecha en que hayan celebrado el contrato respectivo.
+Las entidades paraestatales deberán remitir mensualmente a la Oficialía Mayor del Poder Ejecutivo copia de los fallos que emitan, así como la información y documentación que determine dicha Dependencia.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
@@ -160,3 +186,13 @@ OFICIAL MAYOR
 P.O. 28 DE OCTUBRE DE 2011.
 
 Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 16 DE AGOSTO DE 2019.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL REGLAMENTO PARA LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS COMITÉS DE ADQUISIONES (SIC), ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL PODER EJECUTIVO Y ENTIDADES PARAESTATALES DEL ESTADO DE QUERÉTARO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Segundo. Se derogan todas las disposiciones de menor o igual jerarquía que se opongan al presente Decreto.
+
+Tercero. Los Comités de adquisiciones, enajenaciones, arrendamientos y contratación de servicios integrados conforme a las disposiciones vigentes hasta antes de la entrada en vigor del presente Decreto, seguirán conociendo de los procedimientos de adquisiciones, arrendamientos y contratación de servicios que se encuentren en trámite a la fecha en que cobre vigencia este instrumento, hasta su total conclusión.
