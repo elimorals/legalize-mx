@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-extincion-de-dominio-para-el-estado-de-oaxaca-94438"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-27"
-last_updated: "2018-11-10"
+last_updated: "2019-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2013.
 
@@ -149,11 +149,13 @@ VII. La que en materia de prevención de conductas relativas al lavado de activo
 
 VIII. De cualquier otra fuente que esté relacionada con el objeto de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+(NOTA: EL 20 DE JULIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 103/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JULIO DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 10.
 
-La acción se ejercerá respecto de los bienes relacionados o vinculados con los delitos de secuestro, robo de vehículos, trata de personas, asociación delictuosa, delitos en materia de operaciones con recursos de procedencia ilícita, enriquecimiento ilícito, peculado, cohecho y delitos contra la salud en su modalidad de narcomenudeo a que se refiere la fracción II del artículo 6 de la Constitución Política del Estado Libre y Soberano de Oaxaca y las demás disposiciones aplicables en cualquiera de los supuestos siguientes:
+La acción se ejercerá respecto de los bienes relacionados o vinculados con los delitos de secuestro, robo de vehículos, trata de personas, asociación delictuosa, delitos en materia de operaciones con recursos de procedencia ilícita, enriquecimiento ilícito, peculado, cohecho, EJERCICIO ILÍCITO DE SERVICIO PÚBLICO, USO ILÍCITO DE ATRIBUCIONES Y FACULTADES, ABUSO DE AUTORIDAD, COALICIÓN DE SERVIDORES PÚBLICOS, TRÁFICO DE INFLUENCIAS, CONCUSIÓN, INTIMIDACIÓN, EJERCICIO ABUSIVO DE FUNCIONES y delitos contra la salud en su modalidad de narcomenudeo a que se refiere la fracción II del artículo 6º de la Constitución Política del Estado Libre y Soberano de Oaxaca y las demás disposiciones aplicables en cualquiera de los supuestos siguientes:
 
 I. Aquéllos que sean instrumento, objeto o producto del delito, aun cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió;
 
@@ -784,3 +786,11 @@ SEGUNDO. Se derogan todas aquellas normas de igual o menor rango que se opongan 
 TERCERO. La Unidad Administrativa encargada de la realización de las atribuciones concedidas a la Secretaría de Finanzas por virtud del presente Decreto deberá iniciar su operación en un plazo no mayor de 90 días hábiles contados a partir de la publicación del mismo, para lo cual deberán asignarse los recursos humanos, materiales, financieros y presupuestales necesarios, para su adecuada operación.
 
 Todos los servidores públicos que presten sus servicios en la referida Unidad deberán someterse a la certificación de control de confianza a la que se refiere la Ley General del Sistema Nacional de Seguridad Pública, para cuyo efecto, la Secretaría de Finanzas podrá celebrar los convenios correspondientes con las entidades facultadas para la realización de dicha certificación.
+
+P.O. 17 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 661.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
