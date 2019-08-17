@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2018-06-23"
+last_updated: "2019-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -135,7 +135,13 @@ XXII.- El control sanitario de la publicidad de las actividades, productos y ser
 
 XXIII.- El control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres de seres humanos; y
 
-XXIV.- Las demás que establezca la Ley General de Salud, esta Ley y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE AGOSTO DE 2019)</small>
+
+XXIV.- Reconocer y promover la participación activa de las personas que practiquen la medicina tradicional y alternativa en la ejecución de los programas de salud en el Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE AGOSTO DE 2019)</small>
+
+XXV.- Las demás que establezca la Ley General de Salud, esta Ley y otras disposiciones jurídicas aplicables.
 
 B.- En materia de Salubridad Local, el control sanitario de:
 
@@ -203,7 +209,17 @@ V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, que
 
 VI.- Impulsar, en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud; y
 
-VII.- Apoyar la práctica de la medicina tradicional indígena, de acuerdo a sus características específicas en cada Región del Estado.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2019)</small>
+
+VII.- Apoyar la práctica de la medicina tradicional indígena de acuerdo a sus características específicas en cada región del Estado, así como otorgar las facilidades necesarias para la asistencia y colaboración a médicos o a parteras tradicionales en sus respectivas actividades.
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2019)</small>
+
+VIII.- Promover la realización de programas de fomento y mejoramiento de la salud, en los que participen activamente las personas que practican la medicina tradicional indígena, alternativa y complementaria.
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2019)</small>
+
+IX.- Regular, registrar y supervisar la medicina tradicional indígena, alternativa y complementaria.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2567,17 +2583,13 @@ V. Los demás que determine la Ley General de Salud, esta Ley y demás disposici
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
 
-###### ARTICULO 260 Bis.
-
-El certificado de nacimiento se expedirá para cada nacido vivo una vez comprobado el hecho. Para tales efectos, se entenderá por nacido vivo, al producto de la concepción expulsado o extraído de forma completa del cuerpo de su madre, independientemente de la duración del embarazo, que después de dicha separación respire o dé cualquier otra señal de vida como frecuencia cardiaca, pulsaciones de cordón umbilical o movimientos efectivos de los músculos de contracción voluntaria, tanto si se ha cortado o no el cordón umbilical y esté o no desprendida la placenta.
+ARTICULO 260 BIS.- El certificado de nacimiento se expedirá para cada nacido vivo una vez comprobado el hecho. Para tales efectos, se entenderá por nacido vivo, al producto de la concepción expulsado o extraído de forma completa del cuerpo de su madre, independientemente de la duración del embarazo, que después de dicha separación respire o dé cualquier otra señal de vida como frecuencia cardiaca, pulsaciones de cordón umbilical o movimientos efectivos de los músculos de contracción voluntaria, tanto si se ha cortado o no el cordón umbilical y esté o no desprendida la placenta.
 
 El certificado de nacimiento será expedido por profesionales de la medicina o personas autorizadas para ello por la autoridad sanitaria competente.
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
 
-###### ARTICULO 260 Ter.
-
-El certificado de nacimiento será requerido por las autoridades del Registro Civil a quienes pretendan declarar el nacimiento de una persona.
+ARTICULO 260 TER.- El certificado de nacimiento será requerido por las autoridades del Registro Civil a quienes pretendan declarar el nacimiento de una persona.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3488,3 +3500,9 @@ P.O. 23 DE JUNIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1474.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 17 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 657.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
