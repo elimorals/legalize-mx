@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-11"
-last_updated: "2018-11-10"
+last_updated: "2019-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 11 de marzo de 2016.
 
@@ -2025,13 +2025,13 @@ II. El acceso suponga el pago de una contraprestación en los términos de los o
 
 III. No se requiera acreditar interés alguno.
 
-(REFORMADO, P.O. 16 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 123.
 
-La respuesta a una solicitud de acceso a la información, deberá ser notificada al interesado en el menor tiempo posible, dicho plazo no podrá exceder de quince días, contados a partir del día siguiente a la presentación de aquella, precisando la modalidad en que será entregada la información, además del costo que en su caso pueda generarse.
+La respuesta a una solicitud de acceso a la información, deberá ser notificada al interesado en el menor tiempo posible, dicho plazo no podrá exceder de diez días hábiles, contados a partir del día siguiente a la presentación de aquella, precisando la modalidad en que será entregada la información, además del costo que en su caso pueda generarse.
 
-Excepcionalmente, el plazo a que se refiere el párrafo anterior, podrá ampliarse hasta por diez días más cuando existan razones que lo motiven. La ampliación del plazo se notificará al solicitante a más tardar el octavo día del plazo descrito. No podrán invocarse como causales de ampliación del plazo aquellos motivos que supongan negligencia o descuido del sujeto obligado en el desahogo de la solicitud.
+Excepcionalmente, el plazo a que se refiere el párrafo anterior, podrá ampliarse hasta por cinco días hábiles, cuando existan razones que lo motiven. La ampliación del plazo se notificará al solicitante a más tardar el segundo día del plazo descrito. No podrán invocarse como causales de ampliación del plazo aquellos motivos que supongan negligencia o descuido del sujeto obligado en el desahogo de la solicitud.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -2718,3 +2718,15 @@ P.O. 10 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1543.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Estado de Oaxaca.
+
+P.O. 17 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 698.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
+
+CUARTO. Las solicitudes de información que se encuentren en trámite, seguirán su curso hasta antes de la entrada en vigor del presente Decreto.
