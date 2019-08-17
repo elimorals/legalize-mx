@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2019-08-03"
+last_updated: "2019-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -2831,13 +2831,13 @@ Los delitos previstos en este artículo se perseguirán por querella.
 
 280.- Cuando concurra una sola de las circunstancias a que se refiere el artículo 299 se aumentará en un tercio la sanción que correspondería, si la lesión fuere simple; cuando concurren dos, se aumentará la sanción en una mitad y si concurren más de dos de las circunstancias dichas se aumentará la pena en dos terceras partes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2019)</small>
 
-281.- Al que en ejercicio de la tutela o estando encargado de la guarda de un menor, por cualquier motivo, lo maltrate, alterando su salud física, mental o emocional, se le impondrá la pena correspondiente a las lesiones que infiera, la que se aumentará hasta tres años de prisión, con privación de la tutela, o derechos derivados de la situación generadora de la guarda del menor. En todo caso, se dictarán las medidas necesarias e inmediatas para el tratamiento psicoterapéutico del sujeto activo del delito debiendo el Juez y Agente del Ministerio Público, proveer lo conducente para que se cumpla con esta medida.
+281.- Al que en ejercicio de la tutela o estando encargado de la guarda de un menor, por cualquier motivo, lo maltrate, alterando su salud física, mental o emocional, se le impondrá la pena correspondiente a las lesiones que infiera, la que se aumentará hasta cinco años de prisión, con privación de la tutela, o derechos derivados de la situación generadora de la guarda del menor, y se decretarán a favor del menor las medidas de protección conforme a lo establecido por la legislación en la materia. En todo caso, se dictarán las medidas necesarias e inmediatas para el tratamiento psicoterapéutico del sujeto activo del delito debiendo el Juez y Agente del Ministerio Público, proveer lo conducente para que se cumpla con esta medida.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2019)</small>
 
-Decretado auto de formal prisión en contra del agresor, se le suspenderá en el ejercicio de la patria potestad, de la tutela o de la guarda del menor.
+Decretado auto de vinculación a proceso en contra del agresor, se le suspenderá en el ejercicio de la patria potestad, de la tutela o de la guarda del menor.
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 1997)</small>
 
@@ -4851,7 +4851,7 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 P.O. 3 DE AGOSTO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 662: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 662: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -4864,3 +4864,11 @@ P.O. 3 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Remítase al Titular del Poder Ejecutivo del Estado, para los efectos constitucionales y legales procedentes.
+
+P.O. 17 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 645.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Oaxaca.
