@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2019-08-03"
+last_updated: "2019-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -3057,9 +3057,9 @@ Los integrantes de los Ayuntamientos electos por el régimen de sistemas normati
 
 La asamblea general o la institución encargada de elegir a las autoridades indígenas, podrá decidir por mayoría calificada la terminación anticipada del periodo para el que fueron electas, de conformidad con sus sistemas normativos y la Ley Orgánica Municipal.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2019)</small>
 
-Los municipios con comunidades indígenas y afromexicanas integrarán sus Ayuntamientos con representantes de éstas, que serán electos de conformidad con sus sistemas normativos y tomarán participación conforme lo establezca la ley.
+Los municipios con comunidades indígenas y afromexicanas integrarán sus Ayuntamientos con representantes de estas, que serán electos de conformidad con sus sistemas normativos, procurando en todo momento la paridad y alternancia de género y tomarán participación conforme lo establezca la ley.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -3793,11 +3793,11 @@ Los trabajadores al servicio de los Poderes del Estado y sus Ayuntamientos, tend
 
 En el Estado, la vagancia se considera como un delito; en consecuencia, todos sus habitantes están obligados a trabajar para subvenir a sus propias necesidades y a las de sus familias. La ley determinará los casos de excepción.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 130.
 
-El Estado está obligado a entregar sin demora a los indiciados, procesados o sentenciados, así como, practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad de cualquier otra Entidad Federativa o del Distrito Federal que los requiera. Estas diligencias se practicarán con la intervención de la Fiscalía General del Estado de Oaxaca, en coordinación con la Fiscalía General de la República, y sus homólogas de las Entidades Federativas, en los términos de los convenios de colaboración, que para este efecto se celebren.
+El Estado está obligado a entregar sin demora a los Indiciados, procesados o sentenciados, así como a practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito a la autoridad de cualquier otra Entidad Federativa o de la Ciudad de México que los requiera. Estas diligencias se practicarán con la Intervención de la Fiscalía General del Estado de Oaxaca, en coordinación con la Fiscalía General de la República, y sus homólogas de las Entidades Federativas, en los términos de los convenios de colaboración, que para este efecto se celebren.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 154], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -5300,5 +5300,19 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 P.O. 3 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 709: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 17 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 711.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 675.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
