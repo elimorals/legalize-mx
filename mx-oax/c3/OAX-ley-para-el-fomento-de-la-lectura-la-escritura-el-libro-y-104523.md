@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-fomento-de-la-lectura-la-escritura-el-libro-y-10452
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-10"
-last_updated: "2014-10-10"
+last_updated: "2019-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL FOMENTO DE LA LECTURA, LA ESCRITURA, EL LIBRO Y EL USO DE LAS BIBLIOTECAS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 10 de octubre de 2014.
 
@@ -208,6 +208,10 @@ El Estado promoverá las bibliotecas públicas y las bibliotecas comunitarias co
 ###### Artículo 10.
 
 Es responsabilidad del Ejecutivo del Estado y de los Gobiernos Municipales, en el ámbito de sus respectivas competencias, garantizar a las personas el ejercicio efectivo del derecho de acceso y participación en las actividades de fomento a la lectura, la escritura y la producción, edición, distribución y difusión de libros u obras escritas.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2019)</small>
+
+El Instituto, las instituciones de educación media superior y las universidades deberán implementar programas y actividades permanentes de fomento a la lectura y la escritura en las escuelas de educación básica, media superior y superior, con el objeto de lograr el desarrollo educativo y cultural de los estudiantes en el Estado.
 
 ### CAPÍTULO III. DEL CONSEJO ESTATAL
 
@@ -658,3 +662,13 @@ Tlalixtac de Cabrera, Centro, Oax., a 06 de Octubre de 2014.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 668.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL FOMENTO DE LA LECTURA, LA ESCRITURA, EL LIBRO Y EL USO DE LAS BIBLIOTECAS DEL ESTADO Y MUNICIPIOS DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
