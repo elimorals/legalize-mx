@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2019-04-20"
+last_updated: "2019-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -303,7 +303,17 @@ XIV. Ejecutar las órdenes de verificación a que haya lugar, en términos de lo
 
 XV. Establecer los mecanismos necesarios y pertinentes para la simplificación administrativa en apertura de establecimientos que brinden servicios turísticos;
 
-XVI. Las demás previstas en éste y otros ordenamientos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE AGOSTO DE 2019)</small>
+
+XVI. Fomentar el turismo accesible y sostenible, así como una cultura de hospitalidad turística entre la población;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2019)</small>
+
+XVII. Instalar la señalética de los atractivos turísticos con los qe (sic) cuenta el municipio, alineada a los estándares y disposiciones legales aplicables dentro de su jurisdicción, y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE AGOSTO DE 2019)</small>
+
+XVIII. Las demás previstas en este y otros ordenamientos.
 
 ### CAPÍTULO TERCERO
 
@@ -996,3 +1006,9 @@ P.O. 20 DE ABRIL DE 2019.
 > <small>[N. DE E. TRANSITORIO "DECRETO NÚM. 594.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]</small>
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 659.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES EN LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
