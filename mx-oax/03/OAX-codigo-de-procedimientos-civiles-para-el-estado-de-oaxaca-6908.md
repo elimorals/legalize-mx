@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2019-05-29"
+last_updated: "2019-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -4015,9 +4015,11 @@ El avalúo se practicará de acuerdo con las reglas establecidas para la prueba 
 
 Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por dos veces, de siete en siete días en el Periódico Oficial del Estado y fijándose edicto en los sitios públicos de costumbre. A petición de cualquiera de las partes y a su costa el Juez puede usar además de los dichos, algún otro medio de publicidad para convocar postores.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 557.
 
-Antes de fincarse el remate o declararse la adjudicación podrá el deudor librar sus bienes pagando principal y costas. Después de fincado, quedará la venta irrevocable.
+Antes de fincarse el remate o declararse la adjudicación podrá el deudor librar sus bienes pagando principal, intereses y costas. Después de fincado, quedará la venta irrevocable.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -7196,3 +7198,13 @@ P.O. 29 DE MAYO DE 2019.
 PRIMERO.- El presente Decreto surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 17 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 644.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
+
+Primero. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Tercero. Se derogan todas aquellas normas que se opongan al presente Decreto.
