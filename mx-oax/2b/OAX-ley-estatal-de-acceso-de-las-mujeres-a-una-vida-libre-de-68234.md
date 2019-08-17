@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2018-11-10"
+last_updated: "2019-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -469,11 +469,15 @@ VI. Atención en un refugio temporal; y
 
 VII. Las demás que establezcan esta Ley, su reglamento y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 22.
 
-El Estado y los Municipios, impulsarán programas para difundir la cultura de defensa y protección a los derechos humanos de las mujeres y la no discriminación hacia ellas, además contarán con instancias especializadas y personal calificado para la atención de las víctimas de violencia.
+El Estado y los Municipios, impulsarán programas para difundir la cultura de defensa y protección a los derechos humanos de las mujeres y la no discriminación hacia ellas, debiendo contar para ello con instancias especializadas y personal calificado para la atención de las víctimas y supervivientes directas e indirectas de violencia por situación de género, además deberán coordinarse para la implementación de acciones y programas de desarrollo social y empoderamiento económico de los dependientes y familiares de las víctimas de feminicidio.
 
-Artículo. 23. Para enfrentar y erradicar la violencia feminicida en un territorio determinado, la Declaratoria de Alerta de Violencia de Género, se solicitará y estará a lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+###### Artículo 23.
+
+Para enfrentar y erradicar la violencia feminicida en un territorio determinado, la Declaratoria de Alerta de Violencia de Género, se solicitará y estará a lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 ### Capítulo Primero. Del Sistema
 
@@ -509,7 +513,9 @@ II. Prohibición inmediata al probable responsable de acercarse al domicilio, lu
 
 III. Reingreso de la víctima al domicilio, una vez que se salvaguarde de su seguridad; y
 
-IV. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2019)</small>
+
+IV. Prohibición de intimidar o molestar a la Víctima en su entorno social, así como a cualquier integrante de su familia, incluidos la vía telefónica o cualquier otro medio electrónico de comunicación.
 
 ###### Artículo 27.
 
@@ -1073,11 +1079,11 @@ II. Aprobar en el presupuesto anual de egresos del Gobierno del Estado, recursos
 
 III. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] [N. DE E. REPUBLICADO], P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 57.
 
-Son atribuciones de la Fiscalía General del Estado de Oaxaca:
+Son obligaciones de la Fiscalía General del Estado de Oaxaca:
 
 I. Participar en la elaboración y ejecución del Programa y en el diseño de nuevos modelos de erradicación de la violencia contra las mujeres;
 
@@ -1101,25 +1107,29 @@ VIII. Promover la cultura de denuncia de la violencia contra las mujeres garanti
 
 IX. Informar al Consejo sobre la ejecución de las actividades de su competencia contenidas en el Programa;
 
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2019)</small>
+
+X. Iniciar los procesos de investigación de todas las muertes violentas de mujeres desde la perspectiva de género y bajo la presunción de feminicidio.
+
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-X. Evaluar, analizar y, en ·su caso, realizar la activación del programa "Alerta Rosa” en el Estado;
+XI. Evaluar, analizar y, en su caso, realizar la activación del programa "Alerta Rosa” en el Estado;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XI. Otorgar órdenes de protección en los términos de esta Ley;
+XII. Otorgar órdenes de protección en los términos de esta Ley;
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XII. Llevar un registro de las órdenes de protección que otorgue, así como la que dicten los jueces y tribunales, vigilar su cumplimiento y perseguir penalmente su incumplimiento;
+XIII. Llevar un registro de las órdenes de protección que otorgue, así como la que dicten los jueces y tribunales, vigilar su cumplimiento y perseguir penalmente su incumplimiento;
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XIII. Participar en la elaboración de protocolos para la atención de denuncias de hostigamiento, abuso y violencia sexual en las instituciones educativas públicas y privadas del estado;
+XIV. Participar en la elaboración de protocolos para la atención de denuncias de hostigamiento, abuso y violencia sexual en las instituciones educativas públicas y privadas del estado;
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XIV. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes en:
+XV. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes en:
 
 a) Derechos humanos y género;
 
@@ -1131,25 +1141,23 @@ d) Eliminación de estereotipos sobre el rol social de las mujeres, entre otros;
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XV. Crear un sistema de datos de los delitos cometidos en contra de mujeres, el cual deberá contener los hechos de los que se tenga conocimiento, lugar de ocurrencia, especificando la tipología del delito, características de la víctima y del sujeto activo, relación entre el sujeto activo y pasivo, índice de incidencia y reincidencia, consignación, sanción, reparación del daño y demás información necesaria. Este sistema se deberá tomar en cuenta para definir políticas y acciones en materia de prevención del delito, procuración y administración de justicia;
+XVI. Crear un sistema de datos de los delitos cometidos en contra de mujeres, el cual deberá contener los hechos de los que se tenga conocimiento, lugar de ocurrencia, especificando la tipología del delito, características de la víctima y del sujeto activo, relación entre el sujeto activo y pasivo, índice de incidencia y reincidencia, consignación, sanción, reparación del daño y demás información necesaria. Este sistema se deberá tomar en cuenta para definir políticas y acciones en materia de prevención del delito, procuración y administración de justicia;
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XVI. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
+XVII. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2019)</small>
+
+XVIII. Crear una base estatal de información genética que contenga la información personal disponible de mujeres y niñas desaparecidas a nivel estatal; la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares provenientes de los cuerpos de cualquier mujer o niña no identificada; La información integrada en esta base deberá ser resguardada y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2019)</small>
+
+XIX. Mantener información actualizada en su página de internet con los datos generales de las mujeres y niñas que se encuentran desaparecidas, y;
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XVII. Crear una base estatal de información genética que contenga la información personal disponible de mujeres y niñas desaparecidas a nivel estatal, la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares provenientes de los cuerpos de cualquier mujer o niña no identificada.
-
-La información integrada en esta base deberá ser resguardada y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas;
-
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
-
-XVIII. Mantener información actualizada en su página de internet con los datos generales de las mujeres y niñas que se encuentran desaparecidas; y
-
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
-
-XIX. Las demás que esta Ley y otras disposiciones aplicables le señalen.
+XX. Las demás que esta Ley y otras disposiciones aplicables le señalen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -1960,3 +1968,25 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 17 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 650.- MEDIANTE EL CUAL SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO."]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: Remítase al Titular del Poder Ejecutivo del Estado, para los efectos constitucionales y legales procedentes.
+
+TERCERO: Se derogan todas aquellas normas que se opongan al presente Decreto.
+
+P.O. 17 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 656.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 654.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO."]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
