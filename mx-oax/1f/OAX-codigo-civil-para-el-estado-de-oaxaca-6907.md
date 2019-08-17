@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2019-08-03"
+last_updated: "2019-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -2451,6 +2451,10 @@ Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibil
 
 Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos lo están los descendientes más próximos en grado.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2019)</small>
+
+Será caso de excepción a la obligación mencionada en el párrafo que antecede, cuando consta judicialmente o se pruebe mediante juicio que los padres no hubieren cumplido con proporcionar alimentos a sus hijos cuando estos fueron menores de edad o los necesitaron o conste judicialmente que los hubieran abandonado. Subsistiendo en todo momento la decisión voluntaria del descendiente para proporcionar los alimentos demandados.
+
 ###### Artículo 317.
 
 A falta o por imposibilidad de los ascendientes o descendientes, la obligación recae en los hermanos de padre y madre; en defecto de éstos, en los que fueren de madre solamente, y en defecto de ellos, en los que fueren sólo de padre.
@@ -2499,11 +2503,11 @@ El obligado a dar alimentos cumple la obligación, asignando una pensión compet
 
 El deudor alimentista no podrá pedir que se incorpore a su familia al que deba recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, o cuando haya inconveniente legal para hacer esa incorporación.
 
-> <small>[N. DE E. SE ADVIERTE QUE MEDIANTE DECRETO NÚMERO 1985 APROBADO POR EL PODER LEGISLATIVO ESTATAL EL 17 DE ABRIL DE 2013, SE ADICIONA UN SEGUNDO PÁRRAFO AL PRESENTE ARTÍCULO, SIN EMBARGO SE DESCONOCE LA FECHA DE SU PUBLICACIÓN. SE SUGIERE CONSULTAR LA PÁGINA DEL H. CONGRESO DEL ESTADO DE OAXACA: http://www.congresooaxaca.gob.mx]</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 323.
 
-Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a las necesidades del que deba recibirlos.
+Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y las necesidades del que deba recibirlos. Para el caso de ascendientes, además de lo anterior, deberán manifestar bajo protesta de decir verdad el derecho a la reciprocidad alimentaria.
 
 > <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
@@ -7647,29 +7651,19 @@ Si el legado consistiere en prestación periódica, el legatario hará suyas tod
 
 Toda persona tiene derecho de disponer libremente de sus bienes por testamento, a título de herencia o de legado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 1274.
 
 El testador debe dejar alimentos a las personas que se mencionan en las Fracciones siguientes:
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2001)</small>
+I. A las y los descendientes, menores de dieciocho años;
 
-I. A los descendientes varones, menores de dieciocho años;
+II. A las y los descendientes varones que estén imposibilitados de trabajar, y a las hijas que no hayan contraído matrimonio y vivan honestamente; unos y otras aun cuando fueren mayores de dieciocho años;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2001)</small>
-
-II. A los descendientes varones que estén imposibilitados de trabajar, y a las hijas que no hayan contraído matrimonio y vivan honestamente; unos y otras aún cuando fueren mayores de dieciocho años;
-
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1998)</small>
-
-III. El cónyuge supérstite que permanezca libre de matrimonio o concubinato y no tenga bienes; y
-
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 1998)</small>
+III. Al cónyuge supérstite que permanezca libre de matrimonio o concubinato y no tenga bienes;
 
 IV. A los ascendientes; y
-
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 1998)</small>
 
 V. A la concubina o concubino que permanezcan libres de matrimonio o de otro concubinato o que estén impedidos para trabajar y no tengan bienes.
 
@@ -16706,3 +16700,21 @@ P.O. 3 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 663: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 664.- MEDIANTE EL CUAL SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 17 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 660.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
