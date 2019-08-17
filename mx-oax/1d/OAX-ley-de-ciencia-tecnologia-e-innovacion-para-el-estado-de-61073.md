@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ciencia-tecnologia-e-innovacion-para-el-estado-de-61073"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-12"
-last_updated: "2018-09-29"
+last_updated: "2019-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de abril de 2008.
 
@@ -133,7 +133,9 @@ II. Los resultados de las actividades de investigación científica, desarrollo 
 
 III. La toma de decisiones, desde la determinación de políticas generales y presupuestales en materia de ciencia y tecnología, hasta las orientaciones de asignación de recursos a programas y proyectos específicos, se llevará a cabo con la participación de personas físicas y morales, particularmente aquellas dedicadas o vinculadas con actividades relacionadas con la materia;
 
-IV. Los instrumentos de apoyo a la ciencia y la tecnología, deberán procurar el desarrollo sistémico de la potencialidad científica y tecnológica del estado, buscando, asimismo, el crecimiento y la consolidación de las comunidades científica y académica en beneficio del desarrollo económico y social de la Entidad;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2019)</small>
+
+IV. Los instrumentos de apoyo a la ciencia y tecnología, deberán procurar el desarrollo sistémico de la potencialidad científica y tecnológica del Estado, buscando el crecimiento y la consolidación de las comunidades científica y académica en beneficio del medio ambiente, el desarrollo económico y social de la entidad;
 
 V. Las políticas, instrumentos y criterios con los que se fomente y apoye la investigación científica, el desarrollo y la innovación tecnológica, deberán buscar el mayor efecto benéfico de estas actividades en la enseñanza y el aprendizaje de la ciencia y la tecnología, en la calidad de la educación, particularmente de la educación superior, así como motivar la participación y desarrollo de las nuevas generaciones de investigadores y tecnólogos;
 
@@ -151,7 +153,9 @@ XI. Las políticas y estrategias de apoyo para el desenvolvimiento sistémico de
 
 XII. La difusión y divulgación de la ciencia y la tecnología deberá orientarse a fortalecer la cultura científica y tecnológica en la sociedad;
 
-XIII. Las actividades de investigación científica, desarrollo e innovación tecnológica que realicen las personas físicas y morales de los sectores público y privado, se orientarán, preferentemente a identificar y resolver problemas y retos de interés general, contribuyendo significativamente al avance del conocimiento, mejorando la calidad de vida de la población con respeto al ambiente, y apoyando la formación de personal especializado en ciencia y tecnología;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2019)</small>
+
+XIII. Las actividades de investigación científica, desarrollo e innovación tecnológica que realicen las personas físicas y morales del sector público y privado, se orientarán, preferentemente a identificar y resolver los problemas de interés general, a efecto de contribuir significativamente al avance del conocimiento, para mejorar la calidad de vida de la población, el rescate y protección del medio ambiente;
 
 XIV. Los apoyos a las actividades de ciencia y tecnología deberán ser oportunos y suficientes, con el fin de garantizar la puntualidad y continuidad de las investigaciones en beneficio de sus resultados;
 
@@ -201,7 +205,9 @@ III. Secretario de Finanzas, Vocal;
 
 IV. (DEROGADA, P.O. 4 DE MARZO DE 2010)
 
-V. Secretario de Desarrollo Rural, Vocal;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2019)</small>
+
+V. El Titular de la Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura, Vocal;
 
 VI. Secretario de Salud, Vocal;
 
@@ -209,7 +215,9 @@ VII. Director General del Instituto Estatal de Educación Pública del Estado de
 
 VIII. Coordinador del Comité Estatal de Planeación para el Desarrollo de Oaxaca, Vocal;
 
-IX. Director General del Instituto Estatal de Ecología, Vocal;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2019)</small>
+
+IX. El Titular de la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, Vocal;
 
 X. Representante del CONACYT, Vocal;
 
@@ -223,11 +231,13 @@ XIV. Por el sector social: Tres representantes de instituciones sociales, como c
 
 XV. Tres representantes de las instituciones de investigación, propuestos por los rectores o directores de las instituciones de educación superior inscritas en el RENIECyT y/o en el RECyT conforme a lo que establezca el reglamento de la presente Ley, Vocales; y
 
-XVI. Secretario de la Contraloría, en carácter de Comisario.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2017)</small>
+XVI. El Titular de la Secretaría de la Contraloría y Transparencia Gubernamental, en carácter de Comisario, y;
 
-XVII.- El Presidente de la Comisión Permanente de Ciencia, Tecnología e Innovación del Honorable Congreso del Estado, Vocal.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2019)</small>
+
+XVII. El Presidente de la Comisión Permanente de Educación, Ciencia, Tecnología e Innovación, Vocal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2017)</small>
 
@@ -243,13 +253,17 @@ II. Impulsar y fomentar el desarrollo científico y tecnológico en el Estado, t
 
 III. Promover la realización de los programas de investigación científica y tecnológica, vinculados a los objetivos de desarrollo económico y social en el Estado;
 
-IV. Promover mediante la investigación científica y tecnológica la búsqueda de mejores alternativas de solución a los problemas del desarrollo, y en su caso, la elaboración de los diagnósticos necesarios;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2019)</small>
+
+IV. Promover mediante la investigación científica e innovación tecnológica la búsqueda de solución a los problemas del desarrollo y del medio ambiente; en su caso, la elaboración de los diagnósticos necesarios para su atención;
 
 V. Promover la capacitación, especialización y actualización de conocimientos en ciencia y tecnología, aprovechando al máximo los recursos de las instituciones de educación superior y centros de investigación en el Estado;
 
 VI. Promover y gestionar el otorgamiento de becas para estudios de educación superior en áreas científicas y tecnológicas en el país y en el extranjero;
 
-VII. Promover, crear y otorgar reconocimientos y estímulos al mérito de investigación, a instituciones, empresas e investigadores distinguidos por su desempeño sobresaliente en la materia;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2019)</small>
+
+VII. Promover, crear y otorgar reconocimientos y estímulos de investigación, a personas físicas y morales que se distingan por su excelente desempeño sobresaliente en la materia, así como, aquellas que contribuyan al rescate y a la protección del medio ambiente;
 
 VIII. Fomentar y fortalecer la investigación científica y tecnológica, promoviendo acciones concertadas entre los sectores público y privado, instituciones de educación superior y centros de investigación;
 
@@ -271,7 +285,9 @@ XVI. Promover la integración de bolsas de trabajo que permitan el mejor y mayor
 
 XVII. Apoyar en las gestiones para obtener la exención del pago de impuestos a la importación de equipo científico;
 
-XVIII. Gestionar y proponer la protección de áreas geográficas del territorio del Estado que sean de interés primordial para la investigación científica;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2019)</small>
+
+XVIII. Gestionar y proponer la protección de áreas geográficas del Territorio del Estado que sean objeto de investigación científica;
 
 XIX. Aprobar el proyecto de presupuesto correspondiente, así como autorizar la estructura administrativa necesaria para el cumplimiento de sus funciones, con apego a los principios generales de austeridad, racionalidad y control presupuestal;
 
@@ -717,15 +733,21 @@ Los premios serán entregados anualmente por el monto que determine el COCITel; 
 
 Las bases y términos a que se someterán los candidatos, serán establecidas por el COCITel en la convocatoria que formule, asegurando que en el jurado calificador participen mayoritariamente distinguidos investigadores y tecnólogos de los ampos (sic) del conocimiento motivo de la investigación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 43.
 
-El Gobierno del Estado reconocerá los logros sobresalientes de quienes realicen investigación científica tecnológica, y procurará apoyos para que la actividad de investigación de dichos individuos contribuya a mantener y fortalecer la calidad de la educación y de la industria.
+El Gobierno del Estado reconocerá los logros sobresalientes de quienes realicen investigación científica y tecnológica, y procurará apoyos para que la actividad de Investigación de estos contribuya a mantener y fortalecer la calidad de la educación y de la industria, así como, al rescate y la protección del medio ambiente.
 
 Los estímulos y reconocimientos que el Gobierno Estatal otorgue a los académicos por su labor de investigación científica y tecnológica, también propiciarán y reconocerán la labor docente de quienes los reciban.
 
 ## TÍTULO QUINTO. DE LA VINCULACIÓN, INNOVACIÓN Y DESARROLLO TECNOLÓGICO
 
-### CAPÍTULO PRIMERO. DE LA VINCULACIÓN DE LA CIENCIA Y TECNOLOGÍA CON EL DESARROLLO SOCIAL Y ECONÓMICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE AGOSTO DE 2019)</small>
+
+### CAPÍTULO PRIMERO
+
+DE LA VINCULACIÓN DE LA CIENCIA, TECNOLOGÍA E INNOVACIÓN CON EL DESARROLLO SOCIAL, ECONÓMICO Y EL MEDIO AMBIENTE.
 
 ###### ARTÍCULO 44.
 
@@ -739,11 +761,11 @@ Las IES y el COCITel, establecerán los mecanismos de vinculación, coordinació
 
 Con el objeto de vincular la investigación con la educación, los CI y las IES, promoverán a través de sus ordenamientos internos, que sus académicos docentes e investigadores, participen en actividades de enseñanza frente a grupo, tutorías, investigación o aplicación innovadora del conocimiento.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 46.
 
-La incidencia de la ciencia y la tecnología en el desarrollo sociocultural y económico se desarrollará a través de cuatro mecanismos de inducción: programación, financiamiento, formación de recursos humanos y estímulos, bajo la coordinación del COCITel.
+La incidencia de la ciencia, tecnología e innovación en el desarrollo sociocultural, económico y el medio ambiente, se realizarán a través de cuatro mecanismos de Inducción: programación, financiamiento, formación de recursos humanos y estímulos, bajo la coordinación del COCITeI.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
@@ -902,3 +924,11 @@ P.O. 29 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1553.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 17 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 667.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CIENCIA Y TECNOLOGÍA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
