@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-instituto-de-transparencia-del-estado-13063
 country: "mx"
 rank: "codigo"
 publication_date: "2018-09-17"
-last_updated: "2018-09-17"
+last_updated: "2019-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO MEDIANTE EL CUAL SE ABROGA EL CÓDIGO DE ÉTICA DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2019 (ABROGADO).
 
 Código publicado en la Cuarta Sección al Número 38 del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de septiembre de 2018.
 
@@ -700,3 +702,15 @@ COMISIONADA
 LIC. RUBÉN DIAZ LÓPEZ
 
 COMISIONADO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE AGOSTO DE 2019.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.]</small>
+
+PRIMERO. Se abroga el Código de Ética del Instituto de Transparencia del Estado de Aguascalientes aprobado en sesión ordinaria de fecha doce de septiembre de dos mil dieciocho y publicado en el Periódico Oficial del Estado de Aguascalientes en fecha diecisiete de septiembre de dos mil dieciocho.
+
+SEGUNDO. El presente Acuerdo surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+TERCERO. Se instruye a la Contraloría Interna de este Instituto a efecto de que emita el Código de Ética de acuerdo con los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas.
