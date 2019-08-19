@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2019-06-17"
+last_updated: "2019-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -2459,7 +2459,7 @@ I. Fungir como Secretario del H. Ayuntamiento.
 
 II. Vigilar el adecuado funcionamiento del archivo general del H. Ayuntamiento.
 
-III. Coordinar a las dependencias de la administración pública municipal a fin de mantener el orden público, vigilando que las actividades de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública, de igual manera, en todo momento velará que se garantice el derecho de las personas a una vida libre de violencia en el municipio con (sic) especial atención y cuidado hacia las mujeres;
+III. Coordinar a las dependencias de la administración pública municipal a fin de mantener el orden público, vigilando que las actividades de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública, de igual manera, en todo momento velará que se garantice el derecho de las personas a una vida libre de violencia en el municipio con especial atención y cuidado hacia las mujeres;
 
 IV. Organizar, vigilar y coordinar las funciones de la Junta Municipal de Reclutamiento.
 
@@ -2599,7 +2599,7 @@ XXXVII. Autorizar a los Servidores Públicos encargados de realizar el desahogo 
 
 XXXVIII. Proponer y gestionar la actualización de las disposiciones reglamentarias relacionadas con las actividades de la Secretaría de Finanzas Públicas, que incidan de manera positiva en el logro de finanzas sanas y la eficiencia y eficacia administrativa; y
 
-XXXIX. Las demás previstas en la normatividad o (sic) le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XXXIX. Las demás previstas en la normatividad o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 APARTADO DÉCIMO
 
@@ -5347,9 +5347,11 @@ Los médicos durante su turno serán responsables del buen uso o cuidado del equ
 
 Proporcionar atención libre de cualquier tipo de discriminación, o estereotipos de sumisión de un género hacia otro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 314.
 
-Son atribuciones del personal de psicología y trabajo social:
+Son atribuciones del personal del DIF Municipal:
 
 I. Pasar lista a los detenidos en celdas al inicio de cada turno.
 
@@ -5359,15 +5361,17 @@ II. Orientar a detenidos, infractores y a la población en general, en la soluci
 
 Tratándose de mujeres que vivan violencia familiar se abstendrán de orientaciones en pareja o familia, así como de conciliación, mediación o negociación.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE AGOSTO DE 2019)</small>
 
 III. Atender y encauzar a la autoridad competente a las personas extraviadas, en desventaja social, menores de edad y enfermos mentales que sean presentados por los integrantes operativos de la Secretaría de Seguridad Pública o remitidos por el Juez Municipal.
 
 IV. Llevar el registro de actividad diaria.
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2019)</small>
 
-V. Proponer y elaborar planes y programas de atención a personas y familias con problemas sociales, familiares, de adicción, entre otros, respetando en todo caso la autonomía e independencia de las mujeres, sin asignación de consideraciones sobre la responsabilidad de cuidado de la familia de manera exclusiva a estas.
+V. Proponer y elaborar planes y programas de atención a personas y familias con problemas sociales, familiares, de adicción, entre otros, respetando en todo caso la autonomía e independencia de las mujeres, sin asignación de consideraciones sobre la responsabilidad de cuidado de la familia de manera exclusiva a éstas.
+
+En el caso de menores de edad, adicionalmente a lo que dispone la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Aguascalientes se aplicará el Protocolo de Intervención Integral a Menores Infractores, previsto en el reglamento aprobado por el H. Ayuntamiento.
 
 VI. Atender casos urgentes de violencia familiar, desamparo, intentos de suicidio, protección y asesoramiento a víctimas de faltas administrativas.
 
@@ -5441,35 +5445,69 @@ Los detenidos serán atendidos sucesivamente por el receptor de detenidos, segú
 
 Antes de ser puesto a disposición del Juez, el detenido será identificado ante el receptor de detenidos mediante la aportación de nombre, datos personales, señas particulares y domicilio, acreditándose, de existir, con una identificación personal.
 
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 320
 
-BIS.- En caso de que la infracción sea cometida por un menor de dieciséis años pero mayor de doce, la autoridad administrativa correspondiente citará a la persona que ejerza la patria potestad, la tutela o la custodia del menor y se entenderá con ella las actuaciones conducentes. Asimismo, se oirá al menor por sí mismo, para que exprese lo que considere pertinente o responda a las preguntas de la autoridad o de la persona que por él comparezca.
+BIS.- En caso de que la infracción sea cometida por un menor de dieciséis años, la autoridad administrativa correspondiente pondrá a disposición de la Procuraduría de Protección de Niñas, Niños y Adolescentes de Estado de Aguascalientes al menor para su resguardo y atención en términos del artículo 84 de la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Aguascalientes.
 
-En caso de no existir una persona que ejerza la patria potestad, la tutela o la custodia del menor, el Juez Municipal procederá a nombrar a una persona de trabajo social adscrita a la Dirección de Justicia Municipal o al DIF Municipal para efecto del párrafo anterior.
+En todos los casos se dará aviso a quien ejerza la patria potestad o custodia de los menores infractores en términos del artículo citado en el párrafo anterior.
 
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 320
 
-TER.- Cuando se determine la responsabilidad del menor y se emita la resolución que proceda, imponiendo la sanción aplicable, la autoridad deberá, en todo caso, imponer adicionalmente una medida correctiva de naturaleza formativa, instructiva o educativa, de conformidad con los programas que para tal efecto apruebe la Dirección de Justicia Municipal.
+TER.- Cuando la autoridad administrativa determine la responsabilidad de un menor de edad, emitirá la resolución respectiva imponiendo la sanción aplicable por la falta administrativa.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES PARTE FINAL DEL PRIMER PÁRRAFO], P.O. 19 DE AGOSTO DE 2019)</small>
+
+La autoridad administrativa en base a los elementos que arroje la investigación de los hechos atribuibles a un menor, podrá declarar procedente la imposición de una medida correctiva de naturaleza formativa, instructiva o educativa, de conformidad con los programas que para tal efecto apruebe la Dirección de Justicia Municipal independientemente de la sanción aplicable por la falta administrativa.
+
+> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 En caso de que el menor infractor no cumpla con la medida correctiva mencionada en el párrafo anterior, se procederá a la detención inmediata del menor para la aplicación de la sanción que determine el Juez Municipal en los términos del presente Código.
 
-> <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 320
 
-QUATER.- Cuando el menor sea sancionado con arresto, en ningún caso, lo purgará en una celda con personas mayores de edad.
+QUATER.- Cuando el menor de edad sea resguardado por el departamento de psicología y trabajo social adscrito a la Dirección de Justicia Municipal, en ningún caso se internará en ninguna celda con personas mayores de edad.
 
 Para efectos del presente artículo, el Juez Municipal clasificará la custodia preventiva del menor de la siguiente manera:
 
-I.- En el caso de menores de 18 años pero mayores de 16, se internarán en celdas preventivas.
+I.- En el caso de menores de 18 años pero mayores de 16, se internarán en zonas de resguardo en las que en ningún caso podrán estar internados con personas mayores de edad, dando aviso en todos los casos a quienes ejerzan la custodia o la patria potestad del menor.
 
-II.- En el caso de menores de 16 años pero mayores de 12, se confinarán en áreas de observación.
+II.- En el caso de menores de 16 años pero mayores de 12, se pondrán a disposición de la Procuraduría de Protección de Niñas, Niños y Adolescentes, dando en todos los casos aviso a quienes ejerzan la patria potestad o tutela del menor.
 
-III.- En el caso de menores de 12 años, se remitirán a las áreas de psicología y trabajo social de la Dirección de Justicia Municipal.
+III.- En el caso de menores de 12 años, estos se consideran como niñas o niños, se dará aviso inmediatamente a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes, en términos de los artículos 81 y 82 de la Ley de los Derechos de Las Niñas, Niños y Adolescentes del Estado de Aguascalientes, poniéndolos bajo su resguardo.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 320
+
+QUINTUS.- Cuando la conducta que sea objeto de una sanción administrativa sea realizada por un menor de edad; será obligación de quienes ejerzan la Patria Potestad o Tutela, asistir a un curso especializado y participar en los programas psicoeducativos previstos en el Protocolo de Atención Integral a Menores Infractores que al efecto implementen las dependencias del Municipio dependiendo la índole de la infracción cometida por el menor.
+
+El Juez calificador ante quien se presente el menor, citará a quienes ejerzan la patria potestad del menor emplazándolos a su asistencia ante la instancia correspondiente señalando fecha y hora, para que asistan al curso y participen en los programas psicoeducativos a que se refiere el párrafo anterior. En caso de inasistencia, el obligado se hará acreedor a una multa de hasta 10 unidades de medida de actualización; en caso de que nuevamente se incumpla con la asistencia, se utilizará el apoyo de los elementos de seguridad pública para su presentación, en términos de los establecido por el artículo 60 fracciones I y II del Código de Procedimientos Civiles aplicado supletoriamente.
+
+Se tendrá por cumplida la obligación a que se refiere el párrafo primero de este artículo, una vez que se obtenga la constancia de cumplimiento emitida por la instancia correspondiente.
+
+En caso de que el menor de edad no cuente con ingresos previos y la causa de su presentación no constituya falta grave, la obligación mencionada en el párrafo primero del presente artículo para quien ejerza la patria potestad o tutela podrá tenerse por cumplida mediante el pago de una multa y la reparación del daño según preceda. En el caso del pago de la multa en ningún caso podrá ser mayor a la que se establezca la Ley de Ingresos del Municipio de Aguascalientes al autor de la conducta cometida por el menor.
+
+En el caso de que el menor sea reincidente en ingresos, sin importar el tipo de infracción que cometa, la obligación a que se refiere el párrafo primero del presente artículo será inconmutable y no podrá tenerse por cumplida a través de multa o cualquier otro medio, pudiendo la autoridad tomar las medias que resulten necesarias conforme a la Ley para presentar a los obligados a cumplir con esta disposición, si aun así el obligado incumple con su asistencia, inmediatamente se dará aviso al Ministerio Público adscrito a los Juzgados Familiares para que se inicie el proceso correspondiente.
+
+Lo establecido en este artículo es independiente de la obligación de quienes ejercen la patria potestad de los menores de responder por daños y perjuicios causados por los menores, establecida en la fracción XIV del artículo 96 de la Ley de los Derechos de Las Niñas, Niños y Adolescentes del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 320
+
+SEXTUS.- Cuando se trate de un menor infractor reincidente en ingresos a la Dirección de Justicia Municipal, será obligación del Gobierno Municipal a través del Dif (sic) Municipal, así como cualquier otra dependencia municipal involucrada en atención a menores y adolescentes ya establecido en el Protocolo de Atención Integral a Menores Infractores realizar una visita al domicilio particular del menor para realizar una inspección de las condiciones en que vive el menor y tomar las medidas necesarias para dar apoyo a los Padres, tomando en consideración cada caso se procederá a:
+
+I.- Canalizar para su atención a las dependencias de los gobiernos Municipal, Estatal y Federal según sea el caso; o bien, con Instituciones de Educación Superior públicas o privadas con las que se tenga convenio de colaboración celebrado;
+
+II.- Dar parte al Ministerio Público de los hechos para que se inicie el procedimiento que corresponda. O bien,
+
+III.- El Municipio, en caso de ser necesario pondrá en funcionamiento el Protocolo de Atención Integral a Menores Infractores.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
@@ -9971,7 +10009,7 @@ b) Acreditar que posee cédula profesional correspondiente alguna de las siguien
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
-4) Para especializado en Urbanismo y Diseño Urbano: (sic)
+4) Para especializado en Urbanismo y Diseño Urbano: (Sic)
 
 5) Para Especializado en Geología o Geofísica: Ingeniero Geólogo o Ingeniero Geofísico.
 
@@ -19675,23 +19713,19 @@ Será potestativo del propietario de cualquier establecimiento, mientras dure la
 
 Las disposiciones de este Título son de interés público y de observancia general en el Municipio de Aguascalientes, y tienen como finalidad la administración de la actividad comercial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 1357.
 
-Corresponde a la Dirección de Mercados, Estacionamientos y Áreas Comerciales la administración y regulación del comercio en los mercados, vía pública y estacionamientos del Municipio de Aguascalientes.
+Corresponde a la Dirección de Mercados, Estacionamientos y Áreas Comerciales la administración y regulación del comercio en los mercados públicos, vía pública y estacionamientos del Municipio de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
-
-En el caso de los comercios establecidos cuyo mobiliario ocupe parte de la vía pública, la autorización emitida por la Secretaría de Desarrollo Urbano deberá contar con el aval de la Dirección de Mercados.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
+En el caso de los comercios establecidos cuyo mobiliario ocupe parte de la vía pública, la autorización emitida por la Secretaría de Desarrollo Urbano deberá contar con el aval de la Dirección de Mercados
 
 Queda prohibido otorgar permisos para ejercer cualquier tipo de actividad comercial en la vía pública dentro de las zonas o bienes que hayan sido declarados como patrimonio histórico por parte del Gobierno Federal, Estatal o Municipal, con las excepciones que establece el artículo 1384 de este Código.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
+De igual manera, la Dirección de Mercados deberá contar con la autorización del área encargada de imagen urbana dentro de la Secretaría de Desarrollo Urbano para el otorgamiento de permisos nuevos en la vía pública, considerando que la ubicación solicitada se encuentre fuera de las restricciones que contempla el artículo 1384 del Código Municipal de Aguascalientes, con las excepciones que en dicho artículo se especifican.
 
-De igual manera, la Dirección de Mercados deberá contar con la autorización del área encargada de imagen urbana dentro de la Secretaría de Desarrollo Urbano para el otorgamiento de permisos nuevos en la vía pública.
+Para los existentes dentro de la Zona de Restricción Comercial dentro del Centro Histórico de la ciudad de Aguascalientes, no se podrá llevar acabo cambio de giro, metraje, ni modificación alguna a las especificaciones del permiso para ejercer la actividad comercial en la vía pública, tratándose de traspasos de derechos de permisos dentro de la Zona de Restricción Comercial dentro del Centro Histórico de la ciudad de Aguascalientes se ajustarán a las condiciones que se estipulan dentro del artículo 1389 del presente Código.
 
 ###### ARTÍCULO 1358.
 
@@ -19719,9 +19753,9 @@ III. Tianguista.- Persona física, sea el titular o sus suplentes, que ha adquir
 
 IV. Tianguis.- lugar o espacio determinado en la vía pública ó terreno específico en el que se ejerce una actividad de comercio, con el fin de atender las necesidades de las colonias aledañas, una o dos veces por semana y con número mínimo de veinticinco puestos y un máximo que será determinado para cada tianguis.
 
-V. Credencial o Gafete.- Es el documento que da derecho exclusivo para ejercer el comercio en la vía pública, con una duración máxima de un año calendario y que tendrán que renovar después de éste tiempo en un plazo no mayor de treinta días.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2019)</small>
 
-El titular de este documento podrá designar dos suplentes mismos que serán acreditados por la autoridad, previo cumplimiento de lo establecido en el presente artículo.
+V. Credencial o Gafete.- Es el documento que acredita el registro dentro del padrón de comerciantes de la Dirección de Mercados, Estacionamientos y Áreas Comerciales del Municipio de Aguascalientes, el cual, por sí solo no representa o acredita el permiso vigente para ejercer la actividad comercial en la vía pública, mismo documento que no genera ni ampara ningún derecho o antigüedad superior a los señalados dentro del presente título.
 
 VI. Comité Dictaminador.- Será el órgano encargado de analizar, discutir y en su caso aprobar permisos para ejercer el comercio en la vía pública, exclusivamente de proyectos que por su importancia y trascendencia para el municipio se consideren especiales o extraordinarios y ameriten la valoración del mismo. Así mismo tendrá la facultad de ordenar la disposición final de bienes no perecederos que por su condición o estado no puedan ser objeto de donación, conforme a lo dispuesto por el artículo 1596 del presente Código.
 
@@ -19757,11 +19791,15 @@ h) Un representante de la Contraloría Municipal, que tendrá participación con
 
 i) (DEROGADO, P.O. 13 DE ENERO DE 2014)
 
-VII. Se consideran zonas prohibidas: aquellas donde no se podrá autorizar actividad de comercio en vía pública.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 19 DE AGOSTO DE 2019)</small>
 
-a) Zonas restringidas: aquellas donde sólo se pueden autorizar determinados giros comerciales.
+VII. Para efectos del presente título, se consideran zonas permitidas y prohibidas para ejercer la actividad comercial en la vía pública;
 
-b) Zonas permitidas: aquellas donde se pueden autorizar los giros comerciales para la actividad de comercio en la vía pública.
+a) Zona de Restricción Comercial dentro del Centro Histórico de la ciudad de Aguascalientes: Aquellas donde no se podrá autorizar actividad de comercio en vía pública, con las excepciones y modalidades que establecen los artículos 1384 y 1384 Bis del presente Código.
+
+b) Zonas restringidas: aquellas donde sólo se pueden autorizar determinados giros comerciales.
+
+c) Zonas permitidas: aquellas donde se pueden autorizar los giros comerciales para la actividad de comercio en la vía pública.
 
 VIII. Mercado Público Municipal: Al lugar o local que sea propiedad del Municipio, donde concurra una diversidad de comerciantes y consumidores en libre competencia, cuya oferta y demanda se refieran primordialmente a artículos de primera necesidad.
 
@@ -19771,13 +19809,23 @@ X. Comedores Populares: Los locales especiales dentro de un mercado, que el H. A
 
 XI. Padrón de Locatarios: Es el registro de comerciantes o locatarios de mercado, en donde se especifica su nombre, domicilio, ubicación, número de local, piedra o mesa, giro y demás datos relevantes.
 
-XII. Permiso: Documento público intransferible que autoriza a su titular, a ejercer el comercio por tiempo determinado, en un lugar asignado en la vía pública con los derechos y obligaciones que en el mismo se especifiquen.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2019)</small>
+
+XII. (sic) Documento público intransferible que autoriza a su titular, a ejercer el comercio por tiempo determinado, en un lugar asignado en la vía pública con los derechos y obligaciones que en el mismo se especifiquen, debiendo ser expedido por la Dirección de Mercados, Estacionamientos y Áreas Comerciales del Municipio de Aguascalientes, el cual deberá contener la siguiente información; nombre del comerciante titular de los derechos, domicilio particular y de la ubicación comercial exacta, giros, metraje, suplencia autorizada, vigencia del permiso, fecha de expedición y firma de la autoridad facultada para la aprobación del permiso.
 
 XIII. Licencia: Documento público intransferible que otorga a su titular, ejercer el comercio por tiempo determinado, en un local o piedra, dentro de un mercado, con los derechos y obligaciones que en el mismo se especifiquen.
 
 XIV. Local: Lugar o espacio asignado al titular de una licencia dentro del mercado para ejercer actividad o giro comercial.
 
-XV. Zonificación de Giros: Agrupamiento de locatarios que en un área del mercado comercialicen productos o mercancías similares.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2019)</small>
+
+XV. Recibo de Pago.- Es el documento expedido por la Secretaría de Finanzas Públicas Municipales que acredita haber efectuado el pago por la carga impositiva referente al uso de suelo, documento que por sí solo no acredita contar con permiso para ejercer la actividad comercial en la vía pública.
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2019)</small>
+
+XVI. Se considera como Zona de Restricción Comercial dentro del Centro Histórico de la Ciudad de Aguascalientes, la que corresponde a las siguientes colindancias:
+
+El primer punto inicia rumbo norte entre el INADE y el fraccionamiento cerrado llamado La Mancha, el punto 2 al 10 en línea quebrada al nor-poniente con la Calle Urbanistas junto al INADE, el punto 11 y 12 en línea quebrada al sur-oriente sobre Avenida Tecnológico, el punto 13 subiendo en línea recta al nor-oriente por la Calle Balnearios contiguo al Condominio Misión La Alameda, punto 14 en línea recta rumbo nor-poniente sobre avenida tecnológico contiguo al Ejido Ojocaliente, punto 15 en línea recta entre manzanas rumbo nor-oriente hasta Alameda, punto 16 en línea recta rumbo al nor-oriente sobre Alameda, punto 17 y 18 en quebrada rumbo al nor-poniente sobre Avenida Aguascalientes junto al fraccionamiento Fidel Velázquez, punto 19, 20 y 21 en quebrada entre manzanas rumbo al nor-poniente entre La Pona y el fraccionamiento Lomas de Santa Anita, punto 22 y 23 rumbo al sur-poniente entre manzanas en Bosques de la Alameda III y el condominio Bosques de la Alameda, punto 24 rumbo al nor-poniente sobre Canal Interceptor contiguo al fraccionamiento Nueva Alameda, punto 25 rumbo sur-poniente sobre la calle 1810 por Lomas de Santa Anita, punto 26 rumbo nor-poniente sobre la calle Paileros entre Lomas de Santa Anita y Colonia Del Trabajo, punto 27 sobre la Avenida Siglo XIX rumbo sur poniente entre Lomas de Santa Anita y Colonia Del Trabajo, punto 28, 29, 30 y 31 en quebrada sobre Avenida Convención de 1914 Ote en el Fraccionamiento Santa Anita, punto 32 sobre la calle Albéniz al sur-poniente, punto 33, 34, 35 36, y 37 en quebrada al nor-poniente sobre Heroico Colegio Militar en el fraccionamiento Lomas de Santa Anita, punto 38, 39, 40 y 41 en quebrada al sur-poniente sobre Gabriela Mistral entre fraccionamiento Lomas de Santa Anita y Colonia Gremial, punto 42 rumbo al poniente sobre la Avenida Lic. Manuel Gómez Morín entre fraccionamiento Lomas de Santa Anita y Colonia Gremial, punto 43, 44, 45, 46, 47 en quebrada sobre la calle 28 de Agosto al sur-oriente entre las vías férreas y colonia Gremial, punto 48 rumbo al sur-poniente sobre la calle Decreto 27 de Septiembre entre colonia Gremial y colonia La Purísima, punto 49 rumbo al nor-poniente sobre la calle General Francisco Villa entre la colonia Gremial y Zona Centro, punto 50 rumbo al sur-poniente sobre la calle Independencia de México entre la colonia Gremial y Zona Centro, punto 51 rumbo al nor-poniente sobre la calle Liberato Santacruz a un lado de la colonia Primavera, punto 52 rumbo al sur-poniente sobre la calle Doctor Gerónimo de Orozco colindante a la colonia Primavera, punto 53 rumbo al nor-poniente sobre la calle Gran Avenida entre la colonia Gremial y la colonia La Fe, punto 54, 55 y 56 en quebrada sobre la calle Petróleos Mexicanos rumbo al nor-oriente entre la colonia Gremial y colonia La Fe, punto 57 rumbo al sur-poniente sobre la calle Norberto Gómez Hornedo Ote en la colonia Industrial, punto 58 rumbo al sur-oriente sobre la calle José Bolado en la colonia Industrial, punto 59 rumbo al sur-poniente sobre la calle Saltillo en la colonia Industrial, punto 60 rumbo al sur-poniente sobre la Avenida Independencia en la colonia Industrial, punto 61 rumbo al sur-poniente en Sección entre manzanas entre colonia La Fe y condominio vertical Bugambilias, punto 62 rumbo al nor-poniente sobre la calle General Ignacio Zaragoza en la colonia San Pablo, punto 63 rumbo al poniente sobre la calle Rio Morcinique en la colonia San Pablo, punto 64 con rumbo al nor-poniente sobre la calle Marina Nacional en la colonia San Pablo, punto 65 y 66 en quebrada rumbo al sur-poniente sobre la calle Rio Papaloapan entre la colonia Altavista y San Pablo, punto 67 rumbo al sur-poniente sobre la calle Alberto Davalos en la colonia Del Carmen, punto 68 con rumbo al sur-poniente sobre la calle Alaman en la colonia Altavista, punto 69 y 70 en quebrada rumbo al nor-poniente sobre la calle La Luz en la colonia Del Carmen, punto 71, 72, 73 y 74 en quebrada rumbo al sur-poniente sobre la calle Arroyo de los Arellano en la colonia Miravalle, punto 75 rumbo al sur sobre la Avenida Convención de 1914 PTE en la colonia Miravalle, punto 76 sección entre manzanas rumbo al oriente hacia el fraccionamiento Heliodoro García, punto 77 y 78 en quebrada rumbo al sur-poniente sobre la calle Felipe Ángeles en el fraccionamiento Heliodoro García, punto 79 con rumbo al sur-oriente sobre la calle Guadalupe en el fraccionamiento Heliodoro García, punto 80 y 81 quebrada entre manzanas rumbo al sur-poniente entre la colonia San Marcos y la colonia Gómez, punto 82 con rumbo al sur-oriente sobre la calle General Emiliano Zapata en la colonia San Marcos, punto 83, 84, 85, 86, 87 y 88 en quebrada rumbo al sur-oriente sobre la calle Doctor Pedro de Alba entre la colonia San Marcos, fraccionamiento Modelo, Barrio de San Marcos y fraccionamiento Vivienda Popular, punto 89 rumbo al sur-poniente sobre la calle Rafael Rodríguez Domínguez en el fraccionamiento Vivienda Popular, punto 90 y 91 en quebrada rumbo al sur-poniente sobre la calle Nogal en la colonia Circunvalación Poniente, punto 92, 93, 94 y 95 en quebrada rumbo al sur-oriente sobre la Avenida Lienzo Charro colindante al Perímetro Ferial, punto 96 y 97 en quebrada rumbo al nor-oriente sobre la calle Los Laureles en el fraccionamiento Las Flores, punto 98 y 99 en quebrada rumbo al sur-oriente sobre la calle José F. Elizondo en la colonia Las Flores, punto 100 sección entre manzanas rumbo al sur-oriente entre colonia Obraje y fraccionamiento Santa Elena, punto 101 rumbo al sur-oriente sobre la calle República de Chile en el fraccionamiento Santa Elena, punto 102, 103, 104, 105 y 106 en quebrada entre manzanas rumbo al sur-oriente entre la colonia Obraje y fraccionamiento Santa Elena, punto 107 rumbo al sur-oriente sobre la calle Bogotá en el fraccionamiento Santa Elena, punto 108, 109, 110 y 111 sección entre manzanas rumbo al sur-oriente entre la colonia Obraje y fraccionamiento Las Américas, punto 112 y 113 en quebrada rumbo al poniente sobre la calle Republica de Ecuador en el fraccionamiento Las Américas, punto 114 rumbo al sur-poniente sobre la calle Republica de Brasil en el fraccionamiento Las Américas, punto 115 sección entre manzanas rumbo al oriente entre colonia Obraje y fraccionamiento Las Américas, punto 116 y 117 en quebrada rumbo al nor-oriente sobre la calle Quinta Avenida en la colonia Obraje y fraccionamiento Las Américas, punto 118 rumbo al nor-oriente sobre la calle Republica de Ecuador en el fraccionamiento Las Américas, punto 119 y 120 en quebrada rumbo al sur-poniente sobre la calle República de Argentina entre la colonia Obraje y fraccionamiento Las Américas, punto 121 y 122 sección entre manzanas en quebrada rumbo al oriente e (sic) entre la colonia Obraje y fraccionamiento Las Américas, punto 123, 124 y 125 en quebrada rumbo al nor-oriente sobre la Avenida Mahatma Gandhi en la colonia Obraje, punto 126, 127, 128 y 129 en quebrada rumbo al norte sobre la calle José María Chávez colindante a la colonia Los Cedros, punto 130, 131, 132 y 133 en quebrada rumbo al sur-oriente sobre la Avenida Ayuntamiento entre el Barrio El Encino y Los Cedros, punto 134 rumbo al sur-oriente en intersección entre Avenida Ayuntamiento y Avenida Paseo de la Cruz en el Barrio El Encino, punto 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146 y 147 en quebrada rumbo al sur-oriente sobre la Avenida Ayuntamiento entre la colonia Los Cerdos, el Barrio El Encino, Caminero, Barrio de La Salud y Lindavista, punto 148 con rumbo al poniente sobre Avenida Convención de 1914 Sur en la colonia Caminero y Barrio de La Salud, punto 149, 150, 151, 152, 153 y 154 en quebrada rumbo al sur-oriente en la calle Fuente del Ebro en el fraccionamiento Jardines de Las Fuentes y Barrio de La Salud, punto 155 rumbo al norte sobre Avenida Héroe de Nacozari Sur en el fraccionamiento INFONAVIT Ojo de Agua, punto 156, 157, 158, 159, 160, 161, 162, 163, 164 y 165 con rumbo al nor-oriente en la Avenida Ayuntamiento entre la colonia Ojo de agua y el fraccionamiento INFOVANIT Ojo de Agua, punto 166 con rumbo al sur-oriente en la intersección con vías del tren entre el fraccionamiento Jardines del Sol y la Colonia Ojo de Agua, punto 167, 168, 169, 170 y 171 en quebrada con rumbo al nor-oriente sobre Arroyo del Cedazo en el fraccionamiento Jardines del Sol, punto 172 con rumbo al nor-oriente sobre la Avenida General Mariano Escobedo en la colonia La Cruz, punto 173, 174, 175 y 176 en quebrada rumbo al nor-oriente sobre el Arroyo del Cedazo en el fraccionamiento Misión de Santa Fe, punto 177, 178, 179, 180 y 181 en quebrada rumbo al nor-oriente sobre la Avenida Misioneros en el fraccionamiento Misión de Santa Fe, punto 182 con rumbo al nor-oriente sobre la Avenida Arqueros en el fraccionamiento Vista del Sol III, punto 183, 184, 185 y 186 en quebrada rumbo al nor-oriente sobre la Avenida Misioneros en el fraccionamiento Vista del Sol III, punto 187, 188 y 189 en quebrada con rumbo al sur-oriente en el Arroyo del Cedazo con la empresa Sensata, punto 190, 191, 192 y 193 en quebrada con rumbo al norte sobre el Arroyo del Cedazo contiguo al Parque el Cedazo, punto 194 con rumbo al nor-poniente sobre la Avenida Paseo Ojocaliente en el fraccionamiento Jesús Gomes Portugal, punto 195, 196, 197, 198, 199, 200, 201, 202 y 203 en quebrada con rumbo al poniente sobre la calle Cáncer en el fraccionamiento Jesús Gómez Portugal, punto 204 sección entre manzanas con rumbo al sur-poniente en el fraccionamiento Jesús Gómez Portugal, punto 205, 206, 207, 208 y 209 en quebrada con rumbo al sur-poniente en el Arroyo del Cedazo en el fraccionamiento Jesús Gómez Portugal, punto 210 con rumbo al sur-poniente sobre la Avenida Arqueros entre el condominio vertical Primo Verdad INEGI y el fraccionamiento Jesús Gómez Portugal, punto 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226 y 227 en quebrada con rumbo al sur-oriente sobre el Arroyo del Cedazo en el condominio vertical Primo Verdad INEGI, punto 228, 229 y 230 sección entre manzanas en quebrada con rumbo al sur-poniente en el condominio vertical Primo Verdad INEGI, punto 231 con rumbo al sur-poniente sobre el Arroyo del Cedazo en la colonia Jardines de la Convención 2ª Sección, punto 232 y 233 sección entre manzanas quebrada con rumbo al sur-poniente en la Rinconada los Manantiales, punto 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245 y 246 en quebrada con rumbo al sur-poniente sobre el Arroyo del Cedazo entre Rinconada los Manantiales y colonia Ojo de Agua, punto 247 y 248 sección entre manzanas en quebrada con rumbo al nor-poniente en la colonia Ojo de Agua, punto 249 con rumbo al poniente en la intersección de las vías férreas entre colonia Ojo de Agua y Condominio Horizontal Rinconada del Cedazo, punto 250 y 251 sección entre manzanas en quebrada con rumbo al nor-poniente entre colonia Ojo de Agua y Condominio Horizontal Rinconada del Cedazo, punto 252 con rumbo al nor-poniente sobre la calle Nayarit en el Condominio Horizontal Rinconada del Cedazo, punto 253 sección entre manzanas con rumbo al nor-poniente en la colonia Ojo de Agua, punto 254 con rumbo al nor-poniente sobre la calle Los Díaz en la colonia Ojo de Agua, punto 255, 256, 257, 258, 259, 260, 261 y 262 sección entre manzanas en quebrada con rumbo al nor-poniente en la colonia Ojo de Agua, punto 263 con rumbo al nor-oriente sobre la Avenida Convención de 1914 Sur entre colonia Ojo de Agua y el Barrio de La Salud, punto 264, 265, 266 y 267 en quebrada con rumbo al nor-poniente sobre la calle Delicias en la U. H. IV Centenario, punto 268 con rumbo al norte sobre la Avenida Héroes de Nacozari Sur entre el Barrio de La Salud, U. H. IV Centenario, La Huerta, Gámez, Héroes de Aguascalientes y Lázaro Cárdenas, punto 269 con rumbo al oriente sobre la Avenida Licenciado Adolfo López Mateos OTE entre la Colonia Jardines de la Cruz, Colonia Héroes, Colonia San Luis, Barrio de la Estación y fraccionamiento Bona Gens, punto 270 sección entre manzanas con rumbo al nor-oriente entre el INADE y la Hacienda.
 
 ### CAPÍTULO III. De las Autoridades que Reglamentan el Comercio en la Vía Pública
 
@@ -19801,7 +19849,9 @@ La Dirección de Mercados, Estacionamientos y Áreas Comerciales, es la autorida
 
 I. Vigilar el cumplimiento de las disposiciones de este capítulo y del Código.
 
-II. Limitar, restringir o prohibir giros comerciales o de servicios que están ubicados en lugares inadecuados, o que por su naturaleza representan un riesgo para la seguridad de los locatarios y del público en general.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2019)</small>
+
+II. Limitar, restringir o prohibir giros comerciales, cambios de giro o de servicios que están ubicados en lugares inadecuados o prohibidos como dentro de la Zona de Restricción Comercial dentro del Centro Histórico de la ciudad de Aguascalientes, o bien que por su naturaleza representan un riesgo para la seguridad de los locatarios y del público en general.
 
 III. Elaborar un padrón de locatarios, mantenerlo actualizado y establecer programas de regularización del mismo.
 
@@ -20009,15 +20059,21 @@ I. Orientar y proporcionar información a los comerciantes en vía pública para
 
 II. Promover y ejecutar programas de reordenamiento del comercio en vía pública.
 
-III. Reubicar a los comerciantes a zonas distintas cuando hubiere necesidad de realizar obras de construcción, conservación, reparación, mejoras de los servicios públicos, en beneficio de la comunidad o cuando por interés público se requiera.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2019)</small>
+
+III. Reubicar a los comerciantes a zonas distintas cuando hubiere necesidad de realizar obras de construcción, conservación de la vía o infraestructura pública o de la imagen urbana, reparación, mejoras de los servicios públicos, en beneficio de la comunidad o cuando por interés público se requiera.
+
+De igual forma, la Dirección de Mercados, Estacionamientos y Áreas Comerciales contara con la facultad para reubicar puestos instalados sobre la vía pública cuando; la Secretaría de Desarrollo Urbano del Municipio de Aguascalientes determine que algún puesto o permiso afecte o contamine la imagen urbana
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
 IV. Expedir y/o revocar las licencias de funcionamiento y/o permisos para el ejercicio del comercio en la vía pública, de conformidad con lo establecido en el presente ordenamiento y demás disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2019)</small>
 
-V. Cuando se trate de autorizar permisos para el ejercicio del comercio en vía pública o autorización de cambios de giro, se deberá garantizar que no se afecten derechos de terceros o de la sociedad. En caso de que se trate de ejercer cualquier giro en la vía pública no deberá de exceder de 3 giros por permiso autorizado, y estos deberán de ser autorizados conforme a las zonas, ubicaciones y compatibilidad que determine la autoridad;
+V. Cuando se trate de autorizar permisos para el ejercicio del comercio en vía pública o autorización de cambios de giro, se deberá garantizar que no se afecten derechos de terceros o de la sociedad. En caso de que se trate de ejercer cualquier giro en la vía pública no deberá de exceder de 3 giros por permiso autorizado, y estos deberán de ser autorizados conforme a las zonas, ubicaciones, compatibilidad que determine la autoridad y que se encuentren contemplados en los artículos 1401 y 1402 dentro del presente Código.
+
+No podrá autorizarse cambio de giro en permisos para el ejercicio del comercio en la vía pública cuando estos se encuentren dentro de la Zona de Restricción Comercial dentro del Centro Histórico de la ciudad de Aguascalientes, bajo las excepciones consideradas por los artículos 1384 y 1384 Bis del presente Código.
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2016)</small>
 
@@ -20035,9 +20091,11 @@ VIII. Empadronar y registrar a todas las personas que realicen la actividad come
 
 IX. La administración de la actividad comercial en los tianguis.
 
-(REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2019)</small>
 
 X. Autorizar y expedir los permisos para el uso de piso y ejercer el comercio, previo cumplimiento de los requisitos que establece este capítulo y el pago de los derechos correspondientes.
+
+El número de permisos que se pueden autorizar en ubicación determinada, será tomando en consideración la preservación patrimonial y la imagen urbana, así como deberá de garantizar la accesibilidad peatonal y evitar conflictos en materia de movilidad; de conformidad a los lineamientos previstos en las disposiciones administrativas autorizadas por el Ayuntamiento.
 
 (REPUBLICADA, P.O. 24 DE OCTUBRE DE 2016)
 
@@ -20107,53 +20165,47 @@ I. Realizar acciones preventivas y/o correctivas con el objeto de mantener la se
 
 II. Auxiliar a las autoridades facultadas para la aplicación del presente Código en el ejercicio de sus funciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 1373.
 
 Son requisitos para solicitar el permiso en vía pública:
 
-I. Acreditar la mayoría de edad.
+I. Identificación oficial con fotografía donde se acredite la mayoría de edad.
 
 II. Ser persona física o moral en pleno uso de sus derechos.
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
-
-III. Acreditar la necesidad de dedicarse a la actividad comercial en la vía pública;
-
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+III. Acreditar la necesidad de dedicarse a la actividad comercial en la vía pública, mediante estudio socioeconómico tramitado ante la Dirección de Mercados.
 
 IV. Solicitar el trámite de apertura ante la Dirección de Mercados, Estacionamientos y Áreas Comerciales, el cual consistirá en:
 
-a) La integración de la Lista de Firmas de aceptación o de conformidad por parte de los vecinos casa/habitación, oficinas, establecimientos o locales comerciales cuya instalación en la vía publica pudiese afectarles;
+a) La integración de la Lista de Firmas de aceptación o de conformidad por parte de los vecinos casa/habitación, oficinas, establecimientos o locales comerciales cuya instalación en la vía pública pudiese afectarles;
 
-b) Copia simple de Identificación Oficial;
+b) Dictamen de Factibilidad que a tal efecto deberá de ser expedido por la Secretaria de Desarrollo Urbano y la Secretaria de Seguridad Pública y Tránsito Municipal.
 
-c) Croquis de la ubicación comercial en la vía publica solicitada;
+c) Croquis de la ubicación comercial en la vía pública solicitada;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+d) Acreditar el curso de manejo de alimentos, impartido por Salubridad en su caso; el cual será previo a la presentación de la solicitud.
 
-V. Dictamen de Factibilidad que a tal efecto deberá de ser expedido por la Secretaria de Desarrollo Urbano y la Secretaria de Seguridad Pública y Tránsito Municipal.
+e) Constancia de no adeudos municipales.
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+f) El visto bueno de Protección Civil Municipal tratándose de comercio en puestos fijos, semifijos o ambulantes.
 
-VI. Acreditar el curso de manejo de alimentos, impartido por Salubridad en su caso; el cual será previo a la presentación de la solicitud;
+g) Escrito bajo protesta de decir verdad que la mercancía que se pretende comercializar no contraviene disposición alguna.
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+h) Documento donde se garantice cubrir los probables daños o deterioros que se pudieren ocasionar en las instalaciones, infraestructura, servicios públicos y demás bienes del Municipio por la actividad comercial en la vía pública;
 
-VII. El metraje máximo que se deberá de autorizar para ejercer el comercio en la vía pública, será de 3 metros de frente por 2 metros de fondo;
+V.- El horario para ejercer la actividad comercial en la vía pública, no deberá de exceder de ocho horas continúas por día.
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+VI.- Cuando el comerciante con puesto fijo o semifijo se encuentre en esquina con una avenida primaria o principal, deberá recorrerse a una distancia de cinco metros de dicha avenida principal, exceptuando a los vendedores de periódicos y revistas; y
+
+VII. El metraje máximo que se deberá de autorizar para ejercer el comercio en la vía pública, será de 3 metros de frente por 2 metros de fondo, y con una altura no mayor a dos metros.
 
 VIII. La ubicación solicitada deberá de estar fuera de las restricciones que contempla el artículo 1384 del Código Municipal de Aguascalientes;
 
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+IX.- No deberá entorpecer el tránsito ni obstruir la visibilidad del arroyo vial, la vista o luz de las fincas inmediatas, el paso peatonal, no invadir áreas verdes, banquetas, glorietas, camellones y pasos señalados por la autoridad. Debiendo mantener limpia un área mínima de 5 metros alrededor del lugar autorizado.
 
-IX. Cuando el comerciante con puesto fijo o semifijo se encuentre en esquina con una avenida primaria o principal, deberá recorrerse a una distancia de cinco metros de dicha avenida principal, exceptuando a los vendedores de periódicos y revistas; y
-
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
-
-X. El horario para ejercer la actividad comercial en la vía pública, no deberá de exceder de ocho horas continuas por día.
+Por ningún motivo, se otorgará por anticipado ningún permiso, si no se ha cumplido con la solicitud, documentación, procedimiento o dictamen de aprobación.
 
 ### CAPÍTULO V. De los Permisos para el Comercio en la Vía Pública
 
@@ -20305,15 +20357,39 @@ El H. Ayuntamiento proporcionará la seguridad en los tianguis a través de la S
 
 Todos los comerciantes tienen los mismos derechos y obligaciones ante la Dirección de Mercados, Estacionamientos y Áreas Comerciales, pero siempre tendrán preferencia los nativos y/o residentes del Municipio de Aguascalientes, las personas con capacidades especiales, los pensionados y personas de la tercera edad y personas que atraviesen por una situación económica apremiante para solicitar un permiso de tianguista, en algún mercado, o como comerciante ambulante, fijo o semifijo.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 1384.
 
-No se podrá otorgar permiso para comerciantes en vía pública en la zona que sea considerada por acuerdo de Cabildo como Poligonal del Centro Histórico así como las zonas o bienes que hayan sido declarados como Patrimonio Cultural Histórico por parte del Gobierno Federal, Estatal o Municipal, salvo que se trate de permisos temporales para la venta de bienes culturales o por la celebración de alguna festividad tradicional.
+No se podrá otorgar permiso para comerciantes en vía pública en la zona de Restricción Comercial dentro del Centro Histórico de la ciudad de Aguascalientes, así ´ como las zonas o bienes que hayan sido declarados como Patrimonio Cultural Histórico por parte del Gobierno Federal, Estatal o Municipal salvo que se trate de permisos temporales para la venta de bienes culturales o por la celebración de alguna festividad tradicional.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
 La temporalidad de estos permisos estará condicionada, tratándose de festividades tradicionales, al periodo de su duración, y respecto a la comercialización de bienes culturales, a su ejercicio en 8 días por cada mes.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2018)</small>
+
 El Instituto Municipal Aguascalentense para la Cultura brindará apoyo y asesorías para la elaboración de las solicitudes, de los permisos temporales, para la comercialización de bienes culturales, así mismo emitirá una opinión sobre su idoneidad en cuanto a los objetos que se comercializan y la y la (sic) cualidad del o la solicitante, correspondiéndole exclusivamente a la Dirección de Mercados, Estacionamientos y Áreas Comerciales la resolución sobre el otorgamiento de este permiso.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 19 DE AGOSTO DE 2019)</small>
+
+De igual forma, no se podrán otorgar permisos para comerciantes en vía pública:
+
+I. Sobre avenidas o cruceros principales;
+
+II. En los accesos y frente a instituciones religiosas y públicas;
+
+III. A menos de cien metros de coladeras, caimanes y contenedores;
+
+IV. A menos de cinco metros de distancia de una avenida primaria o principal;
+
+V. A menos de cien metros a la redonda de centros de salud.
+
+VI.- Sobre banquetas o arroyo peatonal.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2019)</small>
+
+Queda exceptuando de lo anterior a los vendedores de periódicos y revistas.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2018)</small>
 
@@ -20407,15 +20483,15 @@ Será nulo de pleno derecho y no producirá efecto jurídico alguno, los actos o
 
 La autoridad municipal procederá desde luego con audiencia de los afectados a la cancelación del permiso que otorgue cuando la sustitución de los titulares de los establecimientos, se realice en fraude, abuso de confianza o en abuso del espíritu de esta disposición.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 1389.
 
-El titular del permiso autorizado podrá nombrar a dos suplentes quienes lo podrán cubrir ocasionalmente en los casos de enfermedad o por causa fortuita o de fuerza mayor, debiendo acreditarlo ante el Departamento de Áreas Comerciales. Se podrá cambiar suplentes a solicitud del titular firmando la petición por escrito y aprobación del Departamento de Áreas Comerciales. El titular del permiso podrá efectuar traspaso de los derechos del mismo, cuando se trate de familiares en primer grado o en línea directa, y de conformidad con la Ley de Ingresos (sic) cubra el pago correspondiente al municipio.
+El titular del permiso autorizado podrá nombrar a dos suplentes quienes lo podrán cubrir ocasionalmente en los casos de enfermedad o por causa fortuita o de fuerza mayor, siempre y cuando no exceda de 30 días naturales la suplencia, debiendo acreditarlo ante el Departamento de Áreas Comerciales. Se podrá cambiar suplentes a solicitud del titular firmando la petición por escrito y aprobación del Departamento de Áreas Comerciales. El titular del permiso podrá efectuar traspaso de los derechos del mismo, cuando se trate de familiares en primer grado o en línea directa, y de conformidad con la Ley de Ingresos (sic) cubra el pago correspondiente al municipio.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE AGOSTO DE 2019)</small>
 
-Cuando se trate de supuestos distintos al mencionado con anterioridad, para poder realizar el traspaso de los derechos del permiso deberá de cumplir con cualquiera de los siguientes casos:
+Cuando se trate de supuestos distintos al mencionado con anterioridad, siempre y cuando no se trate de permisos dentro de la Zona de Restricción Comercial dentro del Centro Histórico de la ciudad de Aguascalientes, para poder realizar el traspaso de los derechos del permiso deberá de cumplir con cualquiera de los siguientes casos:
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
@@ -20469,9 +20545,9 @@ IV.- Si se lleva acabo (sic) la actividad comercial en la vía publica 1 día a 
 
 Son obligaciones de los comerciantes y tianguistas en la vía pública, las siguientes:
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2019)</small>
 
-I. Responder de los daños y perjuicios que ocasionen por sujetar cuerdas y tirantes de las ventanas, árboles y postes, o cuando los ocasionen de cualquier forma con motivo de su actividad comercial;
+I. Deberá de contar con el permiso correspondiente expedido por la Dirección de Mercados, Estacionamientos y Áreas Comerciales del Municipio de Aguascalientes para ejercer el comercio en la vía pública.
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
@@ -20523,13 +20599,35 @@ X. Respetar los horarios de carga y descarga de mercancías que determine la aut
 
 XI. En caso de que se utilice un vehículo para el ejercicio del comercio, sus dimensiones no podrán ser mayores a tres metros de largo por un metro cincuenta centímetros de ancho. Sin perjuicio de lo dispuesto anteriormente, el Comité Dictaminador podrá a petición de la dirección o del propio interesado analizar el caso concreto, y de considerarlo viable autorizar una medida superior a la referida anteriormente, valorando en todo momento las circunstancias especiales del caso tales como las molestias que se pudieran generar a los vecinos y la dimensión, tránsito vehicular y peatonal de la vialidad propuesta.
 
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2019)</small>
+
+XII. Responder de los daños y perjuicios que ocasionen por sujetar cuerdas y tirantes de las ventanas, árboles y postes, o cuando los ocasionen de cualquier forma con motivo de su actividad comercial.
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2019)</small>
+
+XIII. No instalar mesas ni sillas en la vía pública.
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2019)</small>
+
+XIV. No instalar carpas, malla sombra, lonas, sombrillas o cualquier otro objeto en el puesto que suponga exceder el metraje autorizado.
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2019)</small>
+
+XV.- Los establecimientos autorizados para ejercer el comercio en la vía pública no podrán proporcionar bolsas de plástico para carga, envoltura o empaque, así como también, entregar o suministrar popotes plásticos, contenedores o utensilios de plástico o poli estireno (sic) expandido.
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2019)</small>
+
+XVI. Queda prohibido el uso de carbón o leña como medios de cocción o preparación de alimentos en la vía pública.
+
 Los puestos que se instalen en un tianguis, en donde se expenda comida, deberán cumplir con todas las normas de seguridad e higiene señaladas para este tipo de comercio, en las disposiciones contenidas en las leyes y reglamentos vigentes en materia de salubridad.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2016)</small>
 
 Su inobservancia será motivo de infracción y en su caso de clausura, hasta en tanto se cumpla con tales disposiciones y las directrices que se impongan como obligatorias, tanto en materia de seguridad por el uso de combustibles, como de higiene y sanidad, por un máximo de cuarenta y cinco días del año calendario, justificando el motivo de la suspensión.
 
-### CAPÍTULO IX. De los Estacionamientos y Pensiones
+### CAPÍTULO IX. De los Giros para ejercer el Comercio en la Vía Pública
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 1395.
 
@@ -20581,17 +20679,55 @@ Las violaciones a cualquiera de las obligaciones de este capítulo, se sancionar
 
 El Cabildo determinará y modificará las tarifas a que deberán ajustarse los aseadores de calzado y de vehículos así como los términos de vigencia de éstas.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE AGOSTO DE 2019)</small>
+
 ### CAPÍTULO I. Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2014)</small>
 
 ###### ARTÍCULO 1401.
 
-(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
+Se consideran giros comerciales permitidos para (sic) todos aquellos permisos dentro de la Zona de Restricción Comercial dentro del Centro Histórico de la ciudad de Aguascalientes a la que hace referencia el artículo 1384 del presente Código, los siguientes:
+
+I.- Aguas Frescas.
+
+II.- Algodones.
+
+III.- Artesanías Textiles.
+
+IV.- Dulces envueltos.
+
+V.- Dulces Típicos.
+
+VI.- Duros. (Harina de cerdo)
+
+VII.- Elotes y Chascas.
+
+VIII.- Frituras.
+
+IX.- Fruta de Horno.
+
+X.- Fruta Preparada. (Biónicos, Fruta Rebanada, Por Temporada, etc.)
+
+XI.- Globos y Rehiletes.
+
+XII.- Nieve.
+
+XIII.- Tamales y Atole.
+
+XIV.- Plantas de Ornato.
+
+XV.- Guantes y Bufandas.
+
+XVI.- Artesanías.
+
+Para los permisos señalados dentro del presente artículo, queda prohibido ejercer cualquier otro giro a los señalados con anterioridad.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 1402.
 
-(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
+Los tianguis instalados en las Fiestas Tradicionales del Municipio de Aguascalientes, los giros autorizados deberán de ser única y exclusivamente alusivos a la fiesta tradicional de que se trate.
 
 ###### ARTÍCULO 1403.
 
@@ -22429,9 +22565,11 @@ XI. Por causa de interés general, orden público o bienestar colectivo; y
 
 XII. Por no contar con el permiso ambiental de funcionamiento.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 1563.
 
-Del procedimiento de cancelación de licencias y permisos, conocerá y resolverá el funcionario titular de la dependencia que haya dado la licencia o permiso, iniciando el trámite y emplazando al titular de los derechos, en los términos de las reglas que establece el presente Libro, haciéndole saber la causa o causas que originaron el procedimiento y requiriéndolo para que comparezca mediante escrito a oponerse al trámite si existiere razón para ello y ofrecer pruebas, en un término de cinco días hábiles siguientes al emplazamiento.
+Del procedimiento de cancelación de licencias y/o reubicación de permisos o puestos ya instalados para ejercer la actividad comercial en la vía pública; conocerá y resolverá el funcionario titular de la dependencia que haya dado la licencia o permiso, iniciando el trámite y emplazando al titular de los derechos, en los términos de las reglas que establece el presente Libro, haciéndole saber la causa o causas que originaron el procedimiento y requiriéndolo para que comparezca mediante escrito a oponerse al trámite si existiere razón para ello y ofrecer pruebas, en un término de cinco días hábiles siguientes al emplazamiento.
 
 ###### ARTÍCULO 1564.
 
@@ -22449,9 +22587,13 @@ Para el desahogo de la prueba testimonial, será obligación del oferente presen
 
 Concluido el desahogo de las pruebas y emitidos los alegatos correspondientes o renunciado el derecho para hacerlo, la autoridad que conozca del trámite resolverá en un término que no exceda de diez días hábiles.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 1568.
 
 Si la resolución determina procedente la cancelación y una vez que haya causado estado se ejecutará de inmediato la misma, previa notificación al interesado.
+
+Si la resolución determina procedente la reubicación, y una vez que haya causado estado, se otorgara un término no mayor a cinco días hábiles para que el titular de los derechos reubicados presente por escrito posibles ubicaciones en donde reubicar el puesto, en caso contrario, se suspenderán actividades comerciales en el puesto objeto del procedimiento de reubicación hasta en tanto se cumplan con las disposiciones señaladas dentro de la misma resolución.
 
 ###### ARTÍCULO 1569.
 
@@ -23737,7 +23879,7 @@ SE TRANSCRIBEN LOS PUNTOS RESOLUTIVOS QUE SE RELACIONAN CON EL PRESENTE ORDENAMI
 
 PRIMERO.- Se aprueban las modificaciones, reformas y adiciones al Código Municipal de Aguascalientes en el siguiente orden:
 
-a) Se modifica la denominación del Capítulo II del Libro I para quedar: "Del Nombre Oficial y Escudo de Armas del Municipio (sic);
+a) Se modifica la denominación del Capítulo II del Libro I para quedar: "Del Nombre Oficial y Escudo de Armas del Municipio;
 
 b) Se reforma el artículo 4° y se adicionan los artículos 4°-Bis, 4°-Ter, 4°-Quater y 4°-Quinquies; y
 
@@ -24411,6 +24553,18 @@ SEGUNDO.- La o el Jefe del Archivo elaborará un programa de administración de 
 
 P.O. 17 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIO DE LA "REFORMA DEL PÁRRAFO SEGUNDO Y CUARTO, DE LA FRACCIÓN XVI DEL ARTÍCULO 98 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIO DE LA “REFORMA DEL PÁRRAFO SEGUNDO Y CUARTO, DE LA FRACCIÓN XVI DEL ARTÍCULO 98 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
 ÚNICO. Las modificaciones, adiciones y derogaciones que se establecen en la presente reforma, entrará (sic) en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
+
+P.O. 19 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL TÍTULO SEGUNDO DE LOS MERCADOS, ESTACIONAMIENTOS, COMERCIO Y OTRAS ACTIVIDADES EN LA VÍA PÚBLICA, DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO: Las presentes reformas al Código Municipal de Aguascalientes, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA A LOS ARTÍCULOS 314, APARTADOS III Y IV, 320 BIS, TER Y QUATER Y LA ADICIÓN DE LOS ARTÍCULOS 320 QUINTUS Y SEXTUS, ASÍ COMO LA FRACCIÓN XVII DEL ARTÍCULO 342 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+ÚNICO: Las presentes reformas al Código Municipal de Aguascalientes, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
