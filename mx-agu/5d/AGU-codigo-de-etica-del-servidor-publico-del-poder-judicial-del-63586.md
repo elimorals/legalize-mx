@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-servidor-publico-del-poder-judicial-del-635
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-29"
-last_updated: "2008-09-29"
+last_updated: "2019-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63586&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DEL SERVIDOR PUBLICO DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CODIGO DE ETICA DEL SERVIDOR PUBLICO DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2019 (ABROGADO).
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 29 de septiembre de 2008.
 
@@ -284,3 +286,19 @@ Aguascalientes, Ags., 22 de septiembre de 2008.
 EL C. MAGISTRADO PRESIDENTE DEL H. SUPREMO TRIBUNAL DE JUSTICIA,
 
 Lic. Juan Arturo Muñíz Candelas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, quedando con ello abrogado el Código de Ética vigente aprobado en Sesión Ordinaria de Pleno de fecha 30 de agosto de 2007.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Judicial, previa aprobación del Pleno del H. Supremo Tribunal de Justicia y de la Contraloría Interna, en un término no mayor a ciento veinte días naturales contados a partir de que inicie su vigencia este ordenamiento, emitirá el Código de Conducta, que especificará la forma en que el Personal Judicial observará los principios, valores y reglas de integridad que les resulten aplicables.
+
+El Código de Conducta y en su caso sus reformas, deberán difundirse utilizando los mecanismos previstos en los artículos 23 y 24 de éste Código.
