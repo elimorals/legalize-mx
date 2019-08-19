@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2019-07-01"
+last_updated: "2019-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE AGOSTO DE 2019.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -758,6 +758,10 @@ La Comisión Permanente para la Igualdad de Género cada año organizará el Par
 > <small>(ADICIONADO, G.O. 24 DE JUNIO DE 2016)</small>
 
 La Comisión Permanente de Trabajo y Previsión Social implementará la semana de la Seguridad Social la última semana del mes de abril de cada año, realizando coloquios o cursos que atañan al tema antes mencionado.
+
+> <small>(ADICIONADO, G.O. 19 DE AGOSTO DE 2019)</small>
+
+La Comisión Permanente de Turismo implementará en las regiones turísticas en las que se divide el Estado, en la última semana del mes de septiembre de cada año, “La Semana del Turismo”, realizando eventos, conferencias, seminarios, presentaciones académicas, foros de consulta, entre otras actividades, amparada bajo el lema que la Organización Mundial de (sic) Turismo anticipadamente haya declarado para la conmemoración del Día Mundial del Turismo en ese mismo año.
 
 ###### Artículo 62.
 
@@ -1854,6 +1858,14 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 1 DE JULIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 265 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 19 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 286 POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 61 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVODEL (SIC) ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
