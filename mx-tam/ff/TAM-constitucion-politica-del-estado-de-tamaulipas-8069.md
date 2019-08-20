@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2019-01-09"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -307,7 +307,7 @@ IV. El derecho a un medio ambiente adecuado para su desarrollo y bienestar y al 
 
 > <small>(REFORMADA, P.O. 27 DE ABRIL DE 2016)</small>
 
-V.- La libertad de información y, en particular de sus ciudadanos para asuntos políticos, así como para utilizar y divulgar la información pública que reciban. El Estado garantizará el acceso a la información pública. Todo ente público, entidad, órgano y organismo de los Poderes Legislativo, Ejecutivo y Judicial, y municipios; órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal; respetará esta libertad y pondrá a disposición del público la información con que cuente en virtud de sus actividades; salvo aquellas excepciones que se señalen expresamente en las leyes de la materia, o aquellas relativas a la intimidad, privacidad y dignidad de las personas, en los términos que señale la ley. La libertad de información comprende la protección del secreto profesional, sin demérito del derecho de réplica de toda persona ante la divulgación de información inexacta que le agravie.
+V. La libertad de información y, en particular de sus ciudadanos para asuntos políticos, así como para utilizar y divulgar la información pública que reciban. El Estado garantizará el acceso a la información pública. Todo ente público, entidad, órgano y organismo de los Poderes Legislativo, Ejecutivo y Judicial, y municipios; órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal; respetará esta libertad y pondrá a disposición del público la información con que cuente en virtud de sus actividades; salvo aquellas excepciones que se señalen expresamente en las leyes de la materia, o aquellas relativas a la intimidad, privacidad y dignidad de las personas, en los términos que señale la ley. La libertad de información comprende la protección del secreto profesional, sin demérito del derecho de réplica de toda persona ante la divulgación de información inexacta que le agravie.
 
 Para garantizar el derecho de acceso a la información y de protección de datos personales en posesión de los sujetos obligados establecidos en la presente fracción, el Estado contará con un organismo autónomo, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, el cual regirá su funcionamiento y actuación conforme a los principios y bases establecidos en el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública y en la Ley que para tales efectos deberá expedir el Congreso del Estado de Tamaulipas.
 
@@ -321,19 +321,23 @@ VII. El derecho a la identidad y a ser registrado de manera inmediata a su nacim
 
 > <small>(REFORMADA, P.O. 28 DE MARZO DE 2017)</small>
 
-VIII.- El derecho a la cultura física y la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia;
+VIII. El derecho a la cultura física y la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia;
 
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
 
-IX.- El derecho de acceder de manera libre y universal a internet;
+IX. El derecho de acceder de manera libre y universal a internet;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-X.- El derecho de acceso a la cultura y el disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones, con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural; y
+X. El derecho de acceso a la cultura y el disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones, con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural;
 
-> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-XI.- El derecho a la alimentación adecuada, nutritiva, suficiente y de calidad; el Estado establecerá como garantía para ello, los mecanismos necesarios y suficientes para su desarrollo, promoción, fomento, estímulo y abasto oportuno conforme a las leyes en la materia.
+XI. El derecho a la alimentación adecuada, nutritiva, suficiente y de calidad; el Estado establecerá como garantía para ello, los mecanismos necesarios y suficientes para su desarrollo, promoción, fomento, estímulo y abasto oportuno conforme a las leyes en la materia; y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+XII. El derecho a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica. El Estado apoyará la investigación e innovación científica, humanística y tecnológica.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
 
@@ -4051,7 +4055,7 @@ Las reformas a que se contrae el presente Decreto entrarán en vigor a los trein
 
 ###### ARTÍCULO SEGUNDO.
 
-Los asuntos de naturaleza familiar que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán desahogándose en los Juzgados que sean especializados por acuerdo Plenario. los que a su vez entregarán los de índole patrimonial de que estén conociendo por los de contenido familiar con los Jueces que conserven la competencia civil patrimonial; igual procedimiento se observará en tratándose de los negocios que se encuentren en trámite en la Segunda Instancia.
+Los asuntos de naturaleza familiar que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán desahogándose en los Juzgados que sean especializados por acuerdo Plenario, los que a su vez entregarán los de índole patrimonial de que estén conociendo por los de contenido familiar con los Jueces que conserven la competencia civil patrimonial; igual procedimiento se observará en tratándose de los negocios que se encuentren en trámite en la Segunda Instancia.
 
 P.O. 3 DE JUNIO DE 2003.
 
@@ -5054,6 +5058,18 @@ P.O. 9 DE ENERO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-819 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES X Y XI, Y SE ADICIONA LA FRACCIÓN XII, AL ARTÍCULO 17, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAUUPAS (SIC)”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Estado habrá de proveer los recursos y estímulos suficientes, conforme a las bases de coordinación, vinculación y participación que establezcan las leyes respectivas en la materia y con base en las previsiones presupuestarias aprobadas para el cumplimiento progresivo del derecho establecido en el presente Decreto.
 
 ###### ARTÍCULO NOVENO.
 
