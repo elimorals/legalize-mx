@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2019-08-06"
+last_updated: "2019-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -57,31 +57,27 @@ Esta Ley es de observancia general, de orden público e interés social; regula 
 
 La educación que se imparta en la Entidad se sustentará en los principios y lineamientos establecidos en el artículo 3° y demás relativos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Ley del Instituto Nacional para la Evaluación de la Educación, la Ley General del Servicio Profesional Docente, la Constitución Política del Estado de San Luis Potosí, los contenidos en la presente Ley, las normas, convenios y demás disposiciones que de ella se deriven.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 3º.
 
-La educación es el medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad: es factor determinante para la adquisición de conocimientos y para la formación de valores en la mujer y el hombre, de manera que tenga sentido de solidaridad social.
+La educación es el medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo de las personas, y a la transformación de la sociedad: es factor determinante para la adquisición de conocimientos y para la formación de valores en la mujer y el hombre, de manera que tenga sentido de solidaridad social.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 2014)</small>
 
 En el sistema educativo estatal deberá asegurarse que la participación del educando sea activa, así como la de todos los involucrados en el proceso educativo, estimulando su iniciativa y sentido de responsabilidad social, privilegiando la participación de los educandos, padres de familia y docentes, a efecto de alcanzar los fines establecidos en el artículo 9° de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### ARTICULO 4º.
+
+Todas las personas tienen derecho a recibir educación de calidad, en condiciones de equidad y tránsito, con las mismas oportunidades de acceso al sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
+
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2018)</small>
-
-###### ARTICULO 4°.
-
-Todos los individuos tienen derecho a recibir educación de calidad, en condiciones de equidad y tránsito, con las mismas oportunidades de acceso al sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
 
 Los docentes procurarán diseñar y aplicar las medidas conducentes a crear y propiciar relaciones de igualdad entre los educandos, hombres y mujeres al interior de las aulas, a fin de identificar y prevenir situaciones violentas por cuestiones de género y, en consecuencia, evitar la discriminación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2014)</small>
-
-###### ARTICULO 4º.
-
-Todos los individuos tienen derecho a recibir educación, con las mismas oportunidades de acceso al sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 5°.
 
@@ -133,9 +129,9 @@ La educación que el Gobierno del Estado imparta será laica y por tanto se mant
 
 La educación que el Gobierno del Estado y los municipios impartan; los organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios tendrá, además de los fines establecidos en los párrafos segundo y tercero del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-I.- Contribuir al desarrollo integral del individuo, para que ejerza responsable y plenamente sus capacidades humanas;
+I.- Contribuir al desarrollo integral de las personas, para que ejerzan responsable y plenamente sus capacidades humanas;
 
 II.- Favorecer el desarrollo de facultades para adquirir conocimientos, así como la capacidad de observación, análisis y reflexión crítica;
 
@@ -149,9 +145,9 @@ Los hablantes de lenguas indígenas tendrán acceso a la educación obligatoria 
 
 V.- Infundir el conocimiento y práctica de la democracia como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-VI.- Promover el valor de la justicia, de la observancia de la ley, y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la inclusión y no discriminación, de la paz y la no violencia en cualquier tipo de sus manifestaciones; de la equidad de género; y de la riqueza multicultural y pluriétnica de la nación; así como propiciar el conocimiento de los derechos humanos, y el respeto a los mismos;
+VI.- Promover el valor de la justicia, de la observancia de la ley, y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la inclusión y no discriminación, de la paz y la no violencia en cualquier tipo de sus manifestaciones; la protección a la vida y respeto de los animales; de la equidad de género; y de la riqueza multicultural y pluriétnica de la nación; así como propiciar el conocimiento de los derechos humanos, y el respeto a los mismos;
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -163,13 +159,13 @@ VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquec
 
 IX.- Estimular la educación física y la práctica del deporte, así como fomentar la recreación y la cultura orientados hacia la integridad individual y social;
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, el ejercicio responsable de la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
+X.- Desarrollar actitudes solidarias en las personas, para crear conciencia sobre la preservación de la salud, el ejercicio responsable de la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sostenible, la prevención del cambio climático, así como de la valoración de la protección y conservación del ambiente, como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representan el cambio climático y otros fenómenos naturales;
+XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sostenible, la prevención del cambio climático, así como de la valoración de la protección y conservación del ambiente, como elementos esenciales para el desenvolvimiento armónico e integral de las personas y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representan el cambio climático y otros fenómenos naturales;
 
 > <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2019)</small>
 
@@ -191,9 +187,9 @@ XV.- Coordinar con las diversas autoridades de la Entidad, programas permanentes
 
 XVI.- Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-XVII.- Fomentar los valores y principios del cooperativismo;
+XVII. Fomentar los valores y principios del cooperativismo, así como los del emprendimiento social;
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
 
@@ -227,19 +223,19 @@ XXV.- Participar y realizar campañas de educación e información para sensibil
 
 XXVI.- Coordinar con las diversas autoridades de la Entidad, programas permanentes de educación en materia de primeros auxilios y prevención de accidentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 10.
 
-La educación -preescolar, primaria, secundaria, media superior, normal y demás para la formación de maestros de educación básica- que impartan el Gobierno del Estado, municipios, organismos descentralizados, órganos desconcentrados y los particulares con autorización o reconocimiento de validez oficial de estudios, estará orientada por un criterio que se basará en los resultados del progreso científico, luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación, el acoso escolar, y la violencia, especialmente la que se ejerce contra las mujeres, niñas, niños, debiendo instrumentar políticas públicas orientadas a la transversalidad de criterios en los órdenes de gobierno estatal y municipal; además:
+La educación-preescolar, primaria, secundaria, media superior, normal y demás para la formación de maestros de educación básica que impartan el Gobierno del Estado, municipios, organismos descentralizados, órganos desconcentrados y los particulares con autorización o reconocimiento de validez oficial de estudios, estará orientada por un criterio que se basará en los resultados del progreso científico, luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación por motivos de origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier motivo, el acoso escolar, y la violencia, especialmente la que se ejerce contra las mujeres, niñas, niños, y promoverá la protección a la vida y respeto de los animales en términos de la Ley Estatal de Protección a los Animales, debiendo instrumentar políticas públicas orientadas a la transversalidad de criterios en los órdenes de gobierno estatal y municipal; además:
 
 I.- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
 II.- Será nacional, en cuanto - sin hostilidades ni exclusivismos - atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica, a la continuidad y acrecentamiento de nuestra cultura; y
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte, a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios o discriminación de razas, de religión, de grupos, de sexos o de individuos, y
+III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte, a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la protección a la vida y respeto de los animales, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todas las personas, evitando los privilegios o discriminación por motivos de origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier motivo, y
 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -807,11 +803,11 @@ La educación superior que se imparta en el Estado será incluyente, y garantiza
 
 Los alumnos de las escuelas normales públicas que integran el sistema educativo estatal, prestarán un servicio social obligatorio para obtener su título de acuerdo con la reglamentación respectiva.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 40.
 
-La educación para adultos está destinada a individuos de quince años o más, que no hayan cursado o concluido la educación primaria y secundaria. Se presta a través de servicios de alfabetización, educación primaria y secundaria, así como de formación para el trabajo, con las particularidades adecuadas a dicha población. Esta educación se apoyará en la participación y la solidaridad social.
+La educación para adultos está destinada para las personas de quince años o más, que no hayan cursado o concluido la educación primaria y secundaria. Se presta a través de servicios de alfabetización, educación primaria y secundaria, así como de formación para el trabajo, con las particularidades adecuadas a dicha población. Esta educación se apoyará en la participación y la solidaridad social.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -845,9 +841,11 @@ En caso de que las y los educadores, así como las autoridades educativas, tenga
 
 De los Planes y Programas de Estudio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 42.
 
-Se entiende por contenidos de la educación el conjunto de conocimientos, valores, destrezas y actitudes que se proponen al individuo para su aprendizaje en los planes y programas de estudio.
+Se entiende por contenidos de la educación el conjunto de conocimientos, valores, destrezas y actitudes que se proponen a las personas para su aprendizaje en los planes y programas de estudio.
 
 Los contenidos de la educación serán definidos en los planes y programas de estudio.
 
@@ -1229,11 +1227,11 @@ De la Equidad en la Educación.
 
 De la Equidad.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 74.
 
-Las autoridades educativas de la Entidad establecerán condiciones que permitan el ejercicio pleno del derecho a la educación de calidad, de cada individuo, mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso, tránsito y permanencia en los servicios educativos, adaptando escuelas y aulas accesibles y adecuadas para todos, eliminando todo tipo de violencia de género.
+Las autoridades educativas de la Entidad establecerán condiciones que permitan el ejercicio pleno del derecho a la educación de calidad, de cada persona, mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso, tránsito y permanencia en los servicios educativos, adaptando escuelas y aulas accesibles y adecuadas para todos, eliminando todo tipo de violencia de género.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2018)</small>
 
@@ -2506,3 +2504,19 @@ P.O. 6 DE AGOSTO DE 2019.
 PRIMERO. Este decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0232.- SE REFORMAN LOS ARTÍCULOS 3°, 4°, 9°, 10, 40, 42 Y 74 DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0233.- SE REFORMA EL ARTÍCULO 9° DE LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
