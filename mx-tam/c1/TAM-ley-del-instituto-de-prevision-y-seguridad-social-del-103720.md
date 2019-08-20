@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-instituto-de-prevision-y-seguridad-social-del-103720"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-26"
-last_updated: "2014-11-26"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 1 ENERO DE 2015.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 26 de noviembre de 2014.
 
@@ -1587,9 +1587,11 @@ Corresponde al Tribunal de Arbitraje para los Trabajadores al Servicio del Estad
 
 ### CAPÍTULO TERCERO. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 162.
 
-Los servidores públicos o trabajadores del Instituto y los miembros de la Junta de Gobierno que dejen de cumplir con alguna de las obligaciones que les impone la presente ley, serán sancionados en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado o la que resulte aplicable.
+Los servidores públicos o trabajadores del Instituto y los miembros de la Junta de Gobierno que dejen de cumplir con alguna de las obligaciones que les impone la presente ley, serán sancionados en términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas o la que resulte aplicable.
 
 ###### ARTÍCULO 163.
 
@@ -1960,3 +1962,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veinticinco días del mes de noviembre del año dos mil catorce.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
