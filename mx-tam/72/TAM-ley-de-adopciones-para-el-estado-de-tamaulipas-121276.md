@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-adopciones-para-el-estado-de-tamaulipas-121276"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-08"
-last_updated: "2017-05-08"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ADOPCIONES PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Gobierno Constitucional del Estado de Tamaulipas, publicado el lunes 8 de mayo de 2017.
 
@@ -33,7 +33,7 @@ Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decr
 
 Al margen un sello que dice: – “Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-LA SEXAGÉSIMA TERCERA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 58 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL Y 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS,TIENE A BIEN EXPEDIR EL SIGUIENTE:
+LA SEXAGÉSIMA TERCERA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 58 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL Y 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
 DECRETO No. LXIII-159
 
@@ -563,13 +563,17 @@ En igualdad de circunstancias se dará preferencia en la adopción a mexicanos s
 
 A los solicitantes que falseen en cualquier información proporcionada o intencionalmente oculten otra que debiesen presentar al Consejo para la integración de su solicitud de Certificado de Idoneidad, se les cancelará su solicitud y no se les admitirá una nueva, haciendo del conocimiento del Ministerio Público, para los efectos legales que procedan.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 49.
 
-Los servidores públicos que intervengan en los procesos de adopción, que contravengan lo dispuesto en la presente Ley, se les aplicarán las sanciones que, en su caso, señale la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, sin perjuicio de la responsabilidad penal en que incurran.
+Los servidores públicos que intervengan en los procesos de adopción, que contravengan lo dispuesto en la presente Ley, se les aplicarán las sanciones que, en su caso, señale la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, sin perjuicio de la responsabilidad penal en que incurran.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 50.
 
-Los Jueces que conozcan el procedimiento jurisdiccional de adopción que contravengan lo dispuesto por la presente Ley, se sancionarán conforme lo establecido en la Ley Orgánica del Poder Judicial del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas. El Sistema, el Procurador o cualquier autoridad que en el ámbito de su competencia tenga conocimiento de cualquier actuación judicial contraria a la presente Ley, deberá hacerlo del conocimiento del Consejo de la Judicatura.
+Los Jueces que conozcan el procedimiento jurisdiccional de adopción que contravengan lo dispuesto por la presente Ley, se sancionarán conforme lo establecido en la Ley Orgánica del Poder Judicial del Estado y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas. El Sistema, el Procurador o cualquier autoridad que en el ámbito de su competencia tenga conocimiento de cualquier actuación judicial contraria a la presente Ley, deberá hacerlo del conocimiento del Consejo de la Judicatura.
 
 ### CAPÍTULO SEGUNDO. DE LOS RECURSOS
 
@@ -637,10 +641,20 @@ A la entrada en vigor de la presente Ley, se abroga la Ley de Adopciones para el
 
 Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
 
-SALÓN DE SESIONES DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- Cd. Victoria, Tam., a 21 de abril del año 2017.- DIPUTADO PRESIDENTE.- JOAQUÍN ANTONIO HERNÁNDEZ CORREA.- Rúbrica.- DIPUTADO SECRETARIO.- VÍCTOR ADRIÁN MERAZ PADRÓN.- Rúbrica.- DIPUTADA SECRETARIA.- NANCY DELGADO NOLAZCO.- Rúbrica."
+SALÓN DE SESIONES DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- Cd. Victoria, Tam., a 21 de abril del año 2017.- DIPUTADO PRESIDENTE.- JOAQUÍN ANTONIO HERNÁNDEZ CORREA.- Rúbrica.- DIPUTADO SECRETARIO.- VÍCTOR ADRIÁN MERAZ PADRÓN.- Rúbrica.- DIPUTADA SECRETARIA.- NANCY DELGADO NOLAZCO.- Rúbrica.”
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintiún días del mes de abril del año dos mil diecisiete.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
