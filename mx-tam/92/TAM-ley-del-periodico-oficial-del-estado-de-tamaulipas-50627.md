@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-periodico-oficial-del-estado-de-tamaulipas-50627"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-10"
-last_updated: "2017-04-27"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 10 de mayo de 2006.
 
@@ -203,7 +203,9 @@ d) Señalar la fecha y lugar de su emisión.
 
 ###### ARTICULO 10.
 
-1. El Periódico Oficial del Estado se publicará de manera ordinaria los días martes, miércoles y jueves de cada semana, sin perjuicio de que se ordene su publicación otro día. Para este efecto, se consideran hábiles todos los días del año, aún los inhábiles y festivos, cuando fuere necesario.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+1. El Periódico Oficial del Estado se publicará de manera ordinaria los días martes, miércoles y jueves de cada semana, sin perjuicio de que se ordene su publicación otro día, y en el caso de así requerirse, la autoridad podrá ordenar más de una publicación por día. Para este efecto, se consideran hábiles todos los días del año, aún los inhábiles y festivos, cuando fuere necesario.
 
 2. A los números del Periódico Oficial del Estado que se publiquen en días diferentes a los indicados en el párrafo procedente, se les denominará Periódico Oficial extraordinario y se les asignará el número consecutivo que le siga en su orden, el cual será independiente al del Periódico Oficial ordinario.
 
@@ -313,7 +315,15 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 
 P.O. 27 DE ABRIL DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-154 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3; 4 PÁRRAFO 1; 6 PÁRRAFO 1; 7 INCISOS E), H), J), L) Y M); 21 PÁRRAFO 3; Y 22; SE ADICIONAN LOS INCISOS N) Y Ñ) Y SE DEROGA EL INCISO I) DEL ARTÍCULO 7, DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-154 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3; 4 PÁRRAFO 1; 6 PÁRRAFO 1; 7 INCISOS E), H), J), L) Y M); 21 PÁRRAFO 3; Y 22; SE ADICIONAN LOS INCISOS N) Y Ñ) Y SE DEROGA EL INCISO I) DEL ARTÍCULO 7, DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-816 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 10, PÁRRAFO 1, DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
