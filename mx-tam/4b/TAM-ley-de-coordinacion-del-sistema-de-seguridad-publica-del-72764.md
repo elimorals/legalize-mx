@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2017-12-15"
+last_updated: "2019-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -1853,6 +1853,12 @@ El personal de las empresas que presten servicios de seguridad privada en el Est
 
 El Centro Estatal de Evaluación y Control de Confianza, emitirá y notificará en un plazo no mayor de noventa días el dictamen señalado en el párrafo anterior a los particulares que presten los servicios de seguridad privada.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### ARTICULO 142.
+
+La persona física o moral que preste servicios privados de seguridad en el Estado, sin detrimento de lo establecido en el presente capítulo, deberá observar y cumplir con las obligaciones previstas en la Ley para regular los Servicios Privados de Seguridad en el Estado de Tamaulipas.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -2064,3 +2070,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones legales aplicables que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-812 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 142, A LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de (sic) Estado de Tamaulipas.
