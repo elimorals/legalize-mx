@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2018-08-20"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -63,11 +63,11 @@ b) La Oficialía Mayor;
 
 c) (DEROGADO, P.O. 20 DE AGOSTO DE 2018)
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
 d) La Contraloría General del Estado, y
 
-> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
 e) Consejería Jurídica del Estado, y
 
@@ -154,6 +154,10 @@ Al frente de cada dependencia habrá un titular, quien, para el despacho de los 
 ###### ARTICULO 19.
 
 Las dependencias y entidades de la administración pública podrán contar con las unidades administrativas desconcentradas que el Gobernador del Estado disponga por decreto, que les estarán jerárquicamente subordinadas y tendrán facultades específicas para resolver sobre la materia que se determine en su caso.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Las dependencia (sic) y entidades de la administración pública estatal que cuenten (sic) una Dirección, Subdirección, Área o Unidad de Asuntos Jurídicos, deberán tener la denominación posterior a la definición orgánica antes señalada según sea el caso, de "Asuntos Jurídicos y Derechos Humanos" con el objetivo de que las mismas asuman y promuevan dicho enfoque, para respetar, proteger, promover y garantizar derechos humanos, mediante la atención, opiniones, y coadyuvancia en el cumplimiento a las recomendaciones en la materia; así como la implementación de políticas públicas; y la resolución de aquellos asuntos relacionados con el cumplimiento de los derechos humanos; lo anterior, en coordinación con la Secretaría General de Gobierno.
 
 ###### ARTICULO 20.
 
@@ -2010,3 +2014,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Ejecutivo del Estado deberá armonizar los reglamentos correspondientes dentro de los 180 días siguientes a la entrada en vigor de este Decreto.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0229.- SE ADICIONA AL ARTÍCULO 19 EL PÁRRAFO SEGUNDO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Se exceptúa del cumplimiento de la disposición del párrafo segundo del artículo 19 de este Decreto, a la Dirección General de Asuntos Jurídicos de la Secretaría General de Gobierno, en virtud de la existencia de la Subsecretaría de Derechos Humanos y Asuntos Jurídicos, dependiente de esa misma Secretaría, de la que a su vez depende la Dirección General de Derechos Humanos.
+
+CUARTO. La Oficialía Mayor del Poder Ejecutivo del Estado se coordinará con la Comisión Estatal de Derechos Humanos, o con las universidades o instituciones académicas públicas que considere, a fin de garantizar que el personal adscrito a las direcciones, subdirecciones, unidades o áreas de Asuntos Jurídicos y Derechos Humanos de las dependencias y entidades de la administración pública a que se refiere el presente Decreto, se encuentre debidamente capacitado en la materia de derechos humanos.
