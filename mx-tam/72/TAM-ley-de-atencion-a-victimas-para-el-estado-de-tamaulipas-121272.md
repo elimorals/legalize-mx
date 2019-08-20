@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-atencion-a-victimas-para-el-estado-de-tamaulipas-121272"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-08"
-last_updated: "2018-01-09"
+last_updated: "2019-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "TAM"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 9 DE ENERO DE 2018.]</small>
-
-Ley publicada en el Anexo al Extraordinario número 6 del Periódico Oficial del Estado de Tamaulipas, el lunes 8 de mayo de 2017.
+Ley publicada en el Anexo al Extraordinario Número 6 del Periódico Oficial del Estado de Tamaulipas, el lunes 8 de mayo de 2017.
 
 FRANCISCO JAVIER GARCÍA CABEZA DE VACA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
@@ -579,7 +577,9 @@ Las organizaciones de la sociedad civil, tales como asociaciones profesionales, 
 
 Las autoridades están obligadas a la preservación de los archivos relativos a las violaciones de los derechos humanos así como a respetar y garantizar el derecho de acceder a los mismos.
 
-El Estado tiene el deber de garantizar la preservación de dichos archivos y de impedir su sustracción, destrucción, disimulación o falsificación, así como de permitir su consulta pública, particularmente en interés de las víctimas y sus familiares con el fin de garantizar el pleno ejercicio de sus derechos, en los términos que establece la Ley de Transparencia y Acceso a la Información Pública del Estado, y sujetándose a las sanciones previstas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, así como el Código Penal y de Procedimientos Penales del Estado.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+El Estado tiene el deber de garantizar la preservación de dichos archivos y de impedir su sustracción, destrucción, disimulación o falsificación, así como de permitir su consulta pública, particularmente en interés de las víctimas y sus familiares con el fin de garantizar el pleno ejercicio de sus derechos, en los términos que establece la Ley de Transparencia y Acceso a la Información Pública del Estado, y sujetándose a las sanciones previstas por la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, así como el Código Penal y de Procedimientos Penales del Estado.
 
 Cuando la consulta de los archivos persiga favorecer la investigación histórica, las formalidades de autorización tendrán por única finalidad salvaguardar la integridad y la seguridad de las víctimas y de otras personas y, en ningún caso, podrán aplicarse las formalidades de autorización con fines de censura.
 
@@ -1877,9 +1877,11 @@ Para el cumplimiento de lo descrito se aplicarán los programas existentes en lo
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 155.
 
-El incumplimiento o inobservancia respecto de las obligaciones previstas en el texto de la presente Ley, imputable a los servidores públicos del Estado y sus Municipios, sujetarán a quienes lo cometan a la responsabilidad penal o administrativa que determinen la Constitución Política del Estado, la Ley de Responsabilidades de los Servidores Públicos del Estado y demás normatividad aplicable.
+El incumplimiento o inobservancia respecto de las obligaciones previstas en el texto de la presente Ley, imputable a los servidores públicos del Estado y sus Municipios, sujetarán a quienes lo cometan a la responsabilidad penal o administrativa que determinen la Constitución Política del Estado, la Ley de Responsabilidades Administrativas del Estado de Tamaulipas y demás normatividad aplicable.
 
 T R A N S I T O R I O S
 
@@ -1914,3 +1916,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los once días del mes de abril del año dos mil diecisiete.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
