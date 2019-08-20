@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-entidades-paraestatales-del-estado-de-tamaulipas-89270"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-30"
-last_updated: "2015-07-07"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 30 de agosto de 2012.
 
@@ -97,9 +97,11 @@ Las entidades paraestatales gozarán de autonomía de gestión para el cabal cum
 
 Durante el mes de enero de cada año, la Contraloría Gubernamental publicará en el Periódico Oficial del Estado, la relación de las entidades paraestatales que formen parte de la administración pública estatal.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 10.
 
-Las infracciones a la presente ley serán sancionadas en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas.
+Las infracciones a la presente ley serán sancionadas en los términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ### CAPÍTULO II. DE LOS ORGANISMOS DESCENTRALIZADOS
 
@@ -259,7 +261,9 @@ XI. Las demás que le determine el instrumento de creación de la entidad estata
 
 1. Los organismos descentralizados deberán inscribirse en el Registro Estatal de Organismos Descentralizados, que estará a cargo de la Contraloría Gubernamental.
 
-2. Los Directores Generales o quienes realicen funciones similares en los organismos descentralizados, que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones, reformas ó liquidación, serán responsables en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+2. Los Directores Generales o quienes realicen funciones similares en los organismos descentralizados, que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones, reformas o liquidación, serán responsables en los términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### ARTÍCULO 23.
 
@@ -479,7 +483,9 @@ Las entidades remitirán a la Secretaría de Finanzas del Poder Ejecutivo la inf
 
 2. Asimismo, deberán examinar, revisar y auditar el ámbito total de la operación de las entidades, las diversas áreas, programas y recursos que la integran, verificando sistemática y permanentemente el cumplimiento de las disposiciones legales, reglamentarías y administrativas; la política sectorial e Institucional por parte de las áreas responsables y de las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, ingresos, egresos, financiamiento, inversión, obra pública, adquisiciones y patrimonio de las entidades.
 
-3. Así como, recibir y desahogar las quejas y denuncias que se presenten respecto a la conducta o desempeño de los servidores públicos, y aquellas derivadas de acuerdos, contratos o convenios que hubiese celebrado la entidad o las que procedan de las revisiones de conformidad con los lineamientos que emita la Contraloría Gubernamental y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+3. Así como, recibir y desahogar las quejas y denuncias que se presenten respecto a la conducta o desempeño de los servidores públicos, y aquellas derivadas de acuerdos, contratos o convenios que hubiese celebrado la entidad o las que procedan de las revisiones de conformidad con los lineamientos que emita la Contraloría Gubernamental y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### ARTÍCULO 55.
 
@@ -594,3 +600,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las reformas que mediante el presente Decreto se efectúan a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, entrarán en vigor a partir de la expedición del mismo.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
