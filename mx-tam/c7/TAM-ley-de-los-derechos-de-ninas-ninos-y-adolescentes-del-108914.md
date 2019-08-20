@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2018-10-30"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -1427,13 +1427,17 @@ VIII.- Los Tribunales del Trabajo en los términos de sus respectivas Legislacio
 
 IX.- El Sistema Estatal DIF, en los casos que resulte competente.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 102.
 
-Contra las sanciones que las autoridades estatales impongan en cumplimiento de esta Ley, se podrán interponer los recursos y procedimientos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas.
+Contra las sanciones que las autoridades estatales impongan en cumplimiento de esta Ley, se podrán interponer los recursos y procedimientos establecidos en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### ARTÍCULO 103.
 
-1. En cuanto a las sanciones que resulten aplicables en el ámbito de sus respectivas competencias y los procedimientos para su imposición e impugnación, así como las autoridades competentes para ello, se estará a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, independientemente de las sanciones que correspondan por la comisión de delitos de acuerdo a la legislación penal.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+1. En cuanto a las sanciones que resulten aplicables en el ámbito de sus respectivas competencias y los procedimientos para su imposición e impugnación, así como las autoridades competentes para ello, se estará a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, independientemente de las sanciones que correspondan por la comisión de delitos de acuerdo a la legislación penal.
 
 2. No se considerarán como negación al ejercicio de un derecho las molestias que sean consecuencia de sanciones legales, que sean inherentes o incidentales a éstas o derivadas de un acto legítimo de autoridad.
 
@@ -1502,6 +1506,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 30 DE OCTUBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-520 MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS 2, 3, Y 4, Y SE DEROGAN LOS PÁRRAFOS 5, Y 6 DEL ARTÍCULO 37 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
 
 ###### ARTÍCULO ÚNICO.
 
