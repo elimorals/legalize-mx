@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-catastro-del-estado-de-tamaulipas-22487"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-30"
-last_updated: "2016-12-21"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 30 de octubre del 2001.
 
@@ -1103,7 +1103,9 @@ XI.- Proporcionar o difundir la información catastral, contraviniendo lo que di
 
 XII.- No salvaguardar la información catastral bajo su custodia.
 
-Las infracciones a que se refiere este artículo serán sancionadas de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado y, en su caso, el Código Municipal para el Estado y los demás ordenamientos aplicables.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Las infracciones a que se refiere este artículo serán sancionadas de acuerdo a la Ley de Responsabilidades Administrativas del Estado de Tamaulipas y, en su caso, el Código Municipal para el Estado y los demás ordenamientos aplicables.
 
 ### CAPITULO III. DEL RECURSO ADMINISTRATIVO
 
@@ -1202,3 +1204,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
