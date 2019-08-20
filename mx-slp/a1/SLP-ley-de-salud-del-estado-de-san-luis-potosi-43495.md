@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2019-07-29"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -137,9 +137,17 @@ XVII. Salubridad local: el ejercicio de facultades exclusivas del Estado previst
 
 XVIII. Secretaría de Salud federal: la dependencia centralizada de la administración pública de la Federación;
 
-XIX. Secretaría de Salud del Estado: la dependencia centralizada de la administración pública del Estado de San Luis Potosí, y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-XX. Servicios de Salud: el organismo público descentralizado del gobierno del Estado, con personalidad jurídica y patrimonio propio, responsable de operar los servicios de salud a la población abierta.
+XIX. Secretaría de Salud del Estado: la dependencia centralizada de la administración pública del Estado de San Luis Potosí;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+XX. Servicios de Salud: el organismo público descentralizado del gobierno del Estado, con personalidad jurídica y patrimonio propio, responsable de operar los servicios de salud a la población abierta, y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+XXI. Síndrome alcohólico fetal: conjunto de alteraciones que presentan algunos de los neonatos que estuvieron expuestos al alcohol durante el embarazo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
@@ -1091,13 +1099,17 @@ IV. Acciones para implementar programas de estimulación temprana en el primer n
 
 V. Fomentar en los padres o responsables las medidas higiénicas personales indispensables en la preparación de los alimentos, lavado de manos y aislamiento preventivo del contagio de padecimientos infecciosos;
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-VI. Proporcionar a los padres información suficiente y sencilla sobre el manejo de alimentos, como medida que favorezca un crecimiento adecuado y prevenga trastornos relacionados con la nutrición, y
+VI. Proporcionar a los padres información suficiente y sencilla sobre el manejo de alimentos, como medida que favorezca un crecimiento adecuado y prevenga trastornos relacionados con la nutrición;
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-VII. Incluir y documentar en el expediente clínico, todos los parámetros que permitan dar un seguimiento apropiado del crecimiento y desarrollo del menor.
+VII. Incluir y documentar en el expediente clínico, todos los parámetros que permitan dar un seguimiento apropiado del crecimiento y desarrollo del menor, y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+VIII. Fomentar que los hospitales públicos y privados dedicados a la atención materno-infantil, cuenten con la certificación "Hospital amigo del niño" de la Organización Mundial de la Salud, y el Fondo de las Naciones Unidas para la Infancia.
 
 ###### ARTICULO 55.
 
@@ -2117,9 +2129,15 @@ Las autoridades sanitarias del Estado se coordinarán con las autoridades federa
 
 I. La prevención y el tratamiento del alcoholismo y la rehabilitación de los alcohólicos;
 
-II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigidas especialmente a grupos escolares, familiares, así como a los grupos más vulnerables, a través de métodos individuales, sociales o de comunicación masiva, y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales e indígenas, y en los grupos de población considerados de alto riesgo.
+II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigidas especialmente a grupos escolares, familiares, así como a los grupos más vulnerables, a través de métodos individuales, sociales o de comunicación masiva;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+III. Prevención e información a la población sobre el Síndrome Alcohólico Fetal, y
+
+IV. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales e indígenas, y en los grupos de población considerados de alto riesgo.
 
 ###### ARTICULO 141.
 
@@ -4480,5 +4498,21 @@ P.O. 29 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0208.- SE REFORMA EL ARTÍCULO 14 EN SU FRACCIÓN XIV; Y ADICIONA (SIC) FRACCIÓN AL MISMO ARTÍCULO 14, DE LA LEY DE SALUD PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0235.- SE REFORMA Y ADICIONA EL ARTÍCULO 54 DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0242.- SE REFORMAN LOS ARTÍCULOS 4° Y 140; Y ADICIONA A LOS ARTÍCULOS 4° LA FRACCIÓN XXI, 140 UNA FRACCIÓN, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
