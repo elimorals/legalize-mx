@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-247-de-educacion-del-estado-de-veracruz-de-99579"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2019-06-25"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 247 DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 5 de marzo de 2014.
 
@@ -258,6 +258,10 @@ III. Proponer a las autoridades educativas federales contenidos regionales para 
 IV. Fortalecer los sistemas de educación a distancia, mediante la utilización de las tecnologías de la información, a fin de ampliar la cobertura, calidad y equidad en la prestación del servicio público educativo;
 
 V. Establecer programas que involucren a los padres de familia o tutores en la atención a sus hijos o pupilos, y promover la participación social en favor de los servicios educativos;
+
+> <small>(ADICIONADA, G.O. 20 DE AGOSTO DE 2019)</small>
+
+V Bis. En preescolar y primaria, establecer programas de educación sobre salud bucodental, así como hábitos de higiene dental;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE AGOSTO DE 2018)</small>
 
@@ -2198,3 +2202,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. En un plazo de sesenta días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Educación del Estado expedirá el “Protocolo de atención para menores víctimas de maltrato infantil”.
+
+G.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 287 QUE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 18 DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
