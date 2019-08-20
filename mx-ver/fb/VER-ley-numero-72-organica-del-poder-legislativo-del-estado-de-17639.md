@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2019-05-20"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -803,13 +803,13 @@ Es obligación de las Comisiones permanentes y especiales, publicar la lista de 
 
 Las obligaciones establecidas en los dos párrafos anteriores, deberán ser publicadas en el Portal Oficial del Congreso del Estado dentro de las cuarenta y ocho horas siguientes a la celebración de las sesiones.
 
-> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 39.
 
 Serán permanentes las Comisiones siguientes:
 
-I. Administración y Presupuesto;
+l. Administración y Presupuesto;
 
 II. Agua Potable y Saneamiento;
 
@@ -817,81 +817,77 @@ III. Asuntos Indígenas;
 
 IV. Atención y Protección de Periodistas;
 
-V. Comunicaciones;
+V. Ciencia y Tecnología;
 
-VI. Ciencia y Tecnología;
+VI. Comunicaciones;
 
-VII. Derechos de la Niñez y la Familia;
+VII. Corredor Interoceánico, Zonas Libres y Desarrollo Económico;
 
-VIII. Derechos Humanos y Atención a Grupos Vulnerables;
+VIII. Derechos de la Niñez y la Familia;
 
-IX. Desarrollo Agropecuario, Rural y Forestal;
+IX. Derechos Humanos y Atención a Grupos Vulnerables;
 
-X. Desarrollo Artesanal;
+X. Desarrollo Agropecuario, Rural y Forestal;
 
-XI. Desarrollo Metropolitano;
+XI. Desarrollo Artesanal;
 
-XII. Desarrollo Social, Humano y Regional;
+XII. Desarrollo Metropolitano;
 
-XIII. Desarrollo Urbano, Ordenamiento Territorial, Vivienda y Fundo Legal;
+XIII. Desarrollo Social, Humano y Regional;
 
-XIV. Desarrollo y Fortalecimiento Municipal;
+XIV. Desarrollo Urbano, Ordenamiento Territorial, Vivienda y Fundo Legal;
 
-XV. Educación y Cultura;
+XV. Desarrollo y Fortalecimiento Municipal;
 
-XVI. Gobernación;
+XVI. Educación y Cultura;
 
-XVII. Hacienda del Estado;
+XVII. Gobernación;
 
-XVIII. Hacienda Municipal;
+XVIII. Hacienda del Estado;
 
-XIX. Instructora;
+XIX. Hacienda Municipal;
 
-XX. Justicia y Puntos Constitucionales;
+XX. Instructora;
 
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2017)</small>
+XXI. Justicia y Puntos Constitucionales;
 
-XXI. Juventud, Deporte y Atletas con Discapacidad.
+XXII. Juventud, Deporte y Atletas con Discapacidad;
 
-XXII. Límites Territoriales Intermunicipales;
+XXIII. Límites Territoriales lntermunicipales;
 
-XXIII. Medio Ambiente, Recursos Naturales y Cambio Climático;
+XXIV. Medio Ambiente, Recursos Naturales y Cambio Climático;
 
-XXIV. Organización Política y Procesos Electorales;
+XXV. Organización Política y Procesos Electorales;
 
-XXV. Para la Igualdad de Género;
+XXVI. Para la Igualdad de Género;
 
-XXVI. Participación Ciudadana, Gestoría y Quejas;
+XXVII. Participación Ciudadana, Gestoría y Quejas;
 
-XXVII. Pesca y Acuacultura;
+XXVIII. Pesca y Acuacultura;
 
-XXVIII. Población y Atención a Migrantes;
+XXIX. Población y Atención a Migrantes;
 
-XXIX. Procuración de Justicia;
+XXX. Procuración de Justicia;
 
-XXX. Promoción Comercial y Fomento a la Inversión;
+XXXI. Promoción Comercial y Fomento a la Inversión;
 
-XXXI. Protección Civil;
+XXXII. Protección Civil;
 
-XXXII. Salud y Asistencia;
+XXXIII. Salud y Asistencia;
 
-XXXIII. Seguridad Pública;
+XXXIV. Seguridad Pública;
 
-XXXIV. Seguridad Social;
+XXXV. Seguridad Social;
 
-XXXV. Trabajo y Previsión Social;
+XXXVI. Trabajo y Previsión Social;
 
-> <small>(REFORMADA, G.O. 22 DE MARZO DE 2017)</small>
+XXXVII. Transparencia, Acceso a la Información y Parlamento Abierto;
 
-XXXVI. De Transparencia, Acceso a la Información y Parlamento Abierto.
+XXXVIII. Transporte, Tránsito y Vialidad;
 
-XXXVII. Transporte, Tránsito y Vialidad;
+XXXIX. Turismo; y
 
-XXXVIII. Turismo;
-
-XXXIX. Vigilancia; y
-
-XL. Zonas Especiales y Desarrollo Económico.
+XL. Vigilancia
 
 > <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2017)</small>
 
@@ -1880,5 +1876,13 @@ G.O. 20 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 241 QUE REFORMA LA FRACCIÓN XXIX DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 290 QUE REFORMA EL ARTÍCULO 39 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
