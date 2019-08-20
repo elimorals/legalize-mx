@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-defensoria-publica-para-el-estado-de-tamaulipas-94639
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-07"
-last_updated: "2017-03-23"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA DEFENSORÍA PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Anexo al Extraordinario No. 3 del Periódico Oficial del Estado de Tamaulipas, el viernes 7 de junio de 2013.
 
@@ -797,9 +797,11 @@ III. Se preverán estímulos económicos para el personal cuyo desempeño lo ame
 
 ### CAPÍTULO I. DE LAS RESPONSABILIDADES Y SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 50.
 
-1. El Director General, los directores de área, los coordinadores regionales, los supervisores, los defensores públicos, los defensores especializados en justicia para adolescentes, los asesores públicos y demás personal administrativo será responsable (sic) de las faltas administrativas en que incurran en el ejercicio de su cargo y se les aplicarán las sanciones que, en su caso, señale la Ley de Responsabilidades para los Servidores Públicos del Estado.
+1. El Director General, los directores de área, los coordinadores regionales, los supervisores, los defensores públicos, los defensores especializados en justicia para adolescentes, los asesores públicos y demás personal administrativo será responsable de las faltas administrativas en que incurran en el ejercicio de su cargo y se les aplicarán las sanciones que, en su caso, señale la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 2. Cuando las infracciones a la presente ley impliquen la posible comisión de una conducta sancionada en los términos de la legislación civil, penal o de cualquier otra naturaleza, el servidor público que conozca de ellos lo hará del conocimiento de las autoridades competentes.
 
@@ -825,9 +827,11 @@ III.- La suspensión de labores, hasta por tres días sin goce de sueldo.
 
 2. El Director General pronunciará resolución sujetándose a la verdad sabida y buena fe guardada, dentro del término de 72 horas siguientes a la audiencia, a menos que a su juicio se requiera mayor tiempo para resolver la controversia, el cual no excederá de diez días hábiles.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 54.
 
-En los procedimientos que se sigan para la investigación y aplicación de las correcciones o sanciones de tipo disciplinario, se observarán en todo cuanto sea aplicable y no se oponga al presente Título, las reglas relativas al procedimiento contenidas en el Título Tercero, Capítulo Segundo, de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas.
+En los procedimientos que se sigan para la investigación y aplicación de las correcciones o sanciones de tipo disciplinario, se observarán en todo cuanto sea aplicable y no se oponga al presente Título, las reglas relativas al procedimiento dispuesto en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 T R A N S I T O R I O S
 
@@ -904,3 +908,11 @@ P.O. 23 DE MARZO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
