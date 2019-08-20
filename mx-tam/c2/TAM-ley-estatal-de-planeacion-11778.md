@@ -4,7 +4,7 @@ identifier: "TAM-ley-estatal-de-planeacion-11778"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-19"
-last_updated: "2018-09-28"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ESTATAL DE PLANEACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el 19 de septiembre de 1984.
 
@@ -517,13 +517,17 @@ Las políticas que normen el ejercicio de las atribuciones que las leyes confier
 
 ### CAPITULO SÉPTIMO. RESPONSABILIDADES
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 58.
 
-A los Servidores de la Administración Pública Estatal, que en el ejercicio de sus funciones contravengan las disposiciones de esta Ley, las que de ellas se deriven, o de los objetivos y prioridades del Plan Estatal y de los Programas que de él se desprendan, se les impondrán las sanciones que correspondan en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+A los Servidores de la Administración Pública Estatal, que en el ejercicio de sus funciones contravengan las disposiciones de esta Ley, las que de ellas se deriven, o de los objetivos y prioridades del Plan Estatal y de los Programas que de él se desprendan, se les impondrán las sanciones que correspondan en los términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 59.
 
-A los Servidores de la Administración Pública Municipal, que en el ejercicio de sus funciones contravengan las disposiciones de esta Ley, las que de ella se deriven, o de los objetivos y prioridades de los Planes Municipales y de los programas que de ellos se desprendan, se les impondrá las medidas disciplinarias en los términos del Código Municipal y la Ley de Responsabilidades de los Servidores Públicos.
+A los Servidores de la Administración Pública Municipal, que en el ejercicio de sus funciones contravengan las disposiciones de esta Ley, las que de ella se deriven, o de los objetivos y prioridades de los Planes Municipales y de los programas que de ellos se desprendan, se les impondrá las medidas disciplinarias en los términos del Código Municipal y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### ARTICULO 60.
 
@@ -660,6 +664,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 28 DE SEPTIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-464 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PLANEACIÓN Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIII-817”.]
 
 ###### ARTÍCULO ÚNICO.
 
