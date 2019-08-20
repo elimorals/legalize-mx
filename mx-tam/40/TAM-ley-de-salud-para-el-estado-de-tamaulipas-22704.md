@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2019-03-06"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -293,9 +293,9 @@ XIV.- Observación personal.- La supervisión sanitaria de los presuntos portado
 
 XV.- Reglamento.- El Reglamento de la Ley de Salud para el Estado de Tamaulipas;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-XVI.- Responsabilidad de los servidores públicos.- Las señaladas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas;
+XVI.- Responsabilidad de los servidores públicos.- Las señaladas en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas;
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -3616,6 +3616,14 @@ Dentro de un plazo de no más de treinta días naturales a partir de la entrada 
 P.O. 6 DE MARZO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-775 MEDIANTE EL CUAL SE REFORMAN LOS INCISOS D) Y E), Y SE ADICIONA UN INCISO F) A LA FRACCIÓN I, DEL ARTÍCULO 190 BIS, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-817”.]
 
 ###### ARTÍCULO ÚNICO.
 
