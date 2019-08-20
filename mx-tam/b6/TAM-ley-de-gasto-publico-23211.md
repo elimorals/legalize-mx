@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-gasto-publico-23211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2018-04-05"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE GASTO PUBLICO
 
-LEY DE GASTO PÚBLICO
+LEY DE GASTO PÚBLICO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre de 2001.
 
@@ -893,13 +893,17 @@ IV.- Servir de información para la evaluación de los programas y para la plane
 
 V.-Informar al Congreso del Estado el destino y manejo del gasto público, a través de la cuenta pública.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 70.
 
-Se sancionará en los términos del artículo 53 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, las conductas previstas en el artículo 85 de la Ley General de Contabilidad Gubernamental consistentes en:
+Se sancionará en los términos de las disposiciones aplicables en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, las conductas previstas en el artículo 85 de la Ley General de Contabilidad Gubernamental consistentes en:
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
 I.- Omitir realizar los registros de la contabilidad de los entes públicos, así como la difusión de la información financiera en los términos a que se refiere la Ley General de Contabilidad Gubernamental;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 7 DE JULIO DE 2015)</small>
 
 II.- Cuando de manera dolosa:
 
@@ -907,13 +911,23 @@ a).- Omitan o alteren los documentos o registros que integran la contabilidad co
 
 b).- Incumplan con la obligación de difundir la información financiera en los términos a que se refiere la Ley General de Contabilidad Gubernamental.
 
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
 III.- No realizar los registros presupuestarios y contables en la forma y términos que establece la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables, con información confiable y veraz;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
 IV.- Cuando por razón de la naturaleza de sus funciones tengan conocimiento de la alteración o falsedad de la documentación o de la información que tenga como consecuencia daños a la hacienda pública o al patrimonio de cualquier ente público y, estando dentro de sus atribuciones, no lo eviten o no lo hagan del conocimiento a su superior jerárquico o autoridad competente; y
 
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
 V.- No tener o no conservar, en los términos de la normatividad aplicable, la documentación comprobatoria del patrimonio, así como de los ingresos y egresos de los entes públicos.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 Las sanciones administrativas a que se refiere este artículo se impondrán y exigirán con independencia de las responsabilidades de carácter político, penal o civil que, en su caso, lleguen a determinarse por las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 Se considerará como infracción grave, para efecto de la imposición de las sanciones administrativas correspondientes, cuando el servidor público incurra en cualquiera de los supuestos establecidos en las fracciones II y IV del presente artículo, así como las reincidencias en las conductas señaladas en las demás fracciones.
 
@@ -1156,3 +1170,11 @@ P.O. 5 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
