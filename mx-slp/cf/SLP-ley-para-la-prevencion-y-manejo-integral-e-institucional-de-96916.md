@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-prevencion-y-manejo-integral-e-institucional-de-969
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-06"
-last_updated: "2016-12-20"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 6 de diciembre de 2013.
 
@@ -547,9 +547,17 @@ La autoridad competente, fundamentando y motivando plenamente su decisión, podr
 
 Los ingresos por concepto de multas, que los municipios obtengan por infracciones a las disposiciones de esta Ley, deberán destinarse a la formación de fondos para:
 
-I. La capacitación, adiestramiento y equipamiento del personal que interviene en las quemas, y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-II. El otorgamiento de estímulos para el personal operativo.
+I. La capacitación, adiestramiento y equipamiento del personal que interviene en las quemas;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+II. El otorgamiento de estímulos para el personal operativo, y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+III. El otorgamiento de donaciones en especie a las asociaciones civiles de bomberos, brigadistas y voluntarios, paramédicos; así como a los propietarios y poseedores de terrenos forestales, coadyuvantes en las acciones de prevención y combate de incendios forestales.
 
 ###### ARTÍCULO 47.
 
@@ -602,3 +610,11 @@ P.O. 20 DE DICIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0237.- SE REFORMA Y ADICIONA EL ARTÍCULO 46 DE LA LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
