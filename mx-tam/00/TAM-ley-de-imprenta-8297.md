@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-imprenta-8297"
 country: "mx"
 rank: "ley"
 publication_date: "1925-10-28"
-last_updated: "2018-05-03"
+last_updated: "2019-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE IMPRENTA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. LXIII-779 MEDIANTE EL CUAL SE ABROGA LA LEY DE IMPRENTA, PUBLICADO EN EL P.O. DE 20 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE IMPRENTA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno de Tamaulipas, los días 28 y 31 de octubre de 1925.
 
@@ -684,5 +686,13 @@ P.O. 3 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXlll-398 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE IMPRENTA Y DE LA LEY ESTATAL DE PLANEACIÓN”.]
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-779 MEDIANTE EL CUAL SE ABROGA LA LEY DE IMPRENTA”.]
+
+###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
