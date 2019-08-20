@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2018-11-22"
+last_updated: "2019-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -493,9 +493,11 @@ La Secretaría de Seguridad Pública es la dependencia encargada de la función 
 
 > <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
 
-2.- Asimismo, la Dirección de Asuntos Internos verificará el cumplimiento de las obligaciones de los integrantes de las instituciones de seguridad pública estatales, a través de la realización de revisiones permanentes en los establecimientos y lugares en que se desarrollen sus actividades, dando seguimiento a las mismas e informando de los resultados al Secretario de Seguridad Pública. De igual forma conocerá de quejas y denuncias, incluso anónimas, con motivo de faltas administrativas o infracciones disciplinarias cometidas por los integrantes de las instituciones, preservando la reserva de las actuaciones.
+2. Asimismo, la Dirección de Asuntos Internos verificará el cumplimiento de las obligaciones de los integrantes de las instituciones de seguridad pública estatales, a través de la realización de revisiones permanentes en los establecimientos y lugares en que se desarrollen sus actividades, dando seguimiento a las mismas e informando de los resultados al Secretario de Seguridad Pública. De igual forma conocerá de quejas y denuncias, incluso anónimas, con motivo de faltas administrativas o infracciones disciplinarias cometidas por los integrantes de las instituciones, preservando la reserva de las actuaciones.
 
-3. El Órgano de Control Interno de la Contraloría Gubernamental adscrito a la Secretaría, tendrá las atribuciones conferidas por la Ley Orgánica de la Administración Pública del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+3. El Órgano de Control Interno de la Contraloría Gubernamental adscrito a la Secretaría, tendrá las atribuciones conferidas por la Ley Orgánica de la Administración Pública del Estado y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ### CAPITULO II. DE LAS INSTITUCIONES PREVENTIVAS DE SEGURIDAD PUBLICA
 
@@ -2364,3 +2366,11 @@ Dentro de un plazo de no más de sesenta días naturales a partir de la entrada 
 ###### ARTÍCULO CUARTO.
 
 Dentro de un plazo de no más de treinta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá las reglas de carácter general para la emisión del dictamen de viabilidad financiera para instalación de establecimientos operadores de cruces y captación de apuestas; para la emisión de la opinión favorable de la entidad para la instalación de establecimientos operadores de cruces y captación de apuestas; y, para la creación y operación del registro estatal de máquinas, equipos y terminales electrónicas utilizadas para el cruce de apuestas, así como para la supervisión de las mismas.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-817".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
