@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2019-07-13"
+last_updated: "2019-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -54,6 +54,10 @@ La presente Ley es de orden público y establece las bases para la organización
 ###### ARTICULO 2°.
 
 El ejercicio del Poder Legislativo se deposita en una asamblea de diputados que se denomina Congreso del Estado; la que se renovará totalmente cada tres años, constituyendo durante ese periodo una Legislatura.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+El Congreso del Estado se regirá por el principio de parlamento abierto, que se refiere a los mecanismos que garantizan la promoción del derecho a la información, la participación ciudadana, y la rendición de cuentas, a través de esquemas que privilegien el acceso de manera sencilla a la información generada al interior.
 
 ###### ARTICULO 3°.
 
@@ -2642,6 +2646,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 13 DE JULIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0204.- SE REFORMAN LOS ARTÍCULOS 96 Y 126 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ Y SE REFORMAN LOS ARTÍCULOS 41, 81 Y 144 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0230.- SE ADICIONA (SIC) PÁRRAFO AL ARTÍCULO 2°, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
