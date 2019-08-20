@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-procuraduria-general-de-justicia-del-76520"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-02"
-last_updated: "2019-03-14"
+last_updated: "2019-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "TAM"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 20 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de septiembre de 2010.
 
@@ -4246,3 +4250,127 @@ P.O. 14 DE MARZO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-810 MEDIANTE EL CUAL SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a los noventa días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se instruye a la Procuraduría General de Justicia, Contraloría Gubernamental, Secretaría de Finanzas y a la Secretaría de Administración, realizar las adecuaciones presupuestales, financieras y de recursos humanos, a efecto de dar cumplimiento a lo establecido en el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Una vez entrada en vigor la presente Ley, se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tamaulipas, expedida mediante Decreto LX-117 del 1° de septiembre de 2010, publicado en el Periódico Oficial del Estado número 105, de fecha 2 de septiembre del mismo año.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado Libre y Soberano de Tamaulipas, en un plazo no mayor a treinta días posteriores a la entrada en vigor del presente Decreto, deberá emitir la convocatoria pública para la elección del Titular del Órgano Interno de Control de la Fiscalía General de Justicia del Estado de Tamaulipas.
+
+###### ARTÍCULO QUINTO.
+
+A los treinta días de la entrada en vigor de este Decreto, deberá constituirse una Unidad Técnica para la implementación del nuevo modelo de procuración de justicia, en la cual deberán estar representadas la Fiscalía General de Justicia del Estado de Tamaulipas, la Secretaría General de Gobierno, la Secretaría de Finanzas, la Secretaría de Administración, la Contraloría Gubernamental, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, cuyos representantes deberán tener por lo menos el rango de subsecretarios y los tres Consejeros designados en el artículo segundo del decreto número LXIII-776 del Congreso del Estado Libre y Soberano de Tamaulipas.
+
+###### ARTÍCULO SEXTO.
+
+A efecto de constituir la Unidad Técnica, el titular del Ejecutivo estatal, en un plazo no mayor a diez días posteriores a la entrada en vigor de este Decreto, remitirá al Poder Legislativo del Estado la propuesta del titular, que será designado por las dos terceras partes de los miembros presentes del Congreso del Estado Libre y Soberano de Tamaulipas, y deberá acreditar los siguientes requisitos:
+
+I. Ser ciudadana o ciudadano mexicano, en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II. Tener cuando menos treinta años cumplidos el día de la designación;
+
+III. Contar con título profesional de licenciado en derecho, abogado, ciencias jurídicas o equivalente, expedido por autoridad o institución legalmente facultada para ello y cédula profesional que acredite su registro ante autoridad competente, así como contar con una experiencia mínima de cinco años en el ejercicio de la profesión;
+
+IV. Gozar de buena reputación y no haber sido condenado por la comisión de delito doloso mediante sentencia condenatoria que haya causado ejecutoria, o estar sujeto a proceso penal;
+
+V. En su caso, tener acreditado el Servicio Militar Nacional;
+
+VI. No haber sido suspendido, destituido ni inhabilitado por resolución firme como tal, en los términos de las normas relativas a las responsabilidades administrativas de las y los servidores públicos; y
+
+VII. Acreditar las evaluaciones de control de confianza previstas en la legislación aplicable.
+
+La Unidad Técnica estará adscrita a la Fiscalía General, contará con el personal y recursos que se le asignen en el presupuesto de egresos de la Fiscalía General, su titular contará con un plazo de treinta días a partir de su designación para presentar al Fiscal General el Plan de Transición, así como proponer la emisión de reglamentos, acuerdos, manuales de organización o protocolos de actuación.
+
+Tendrá a su cargo los procedimientos de certificación, capacitación, evaluación y transferencia de personal de la Procuraduría General de Justicia del Estado de Tamaulipas a la nueva Fiscalía General. La selección y reclutamiento de nuevo personal se hará conforme a los principios, reglas y procedimientos previstos en la normatividad que regule el Servicio de Carrera.
+
+###### ARTÍCULO SÉPTIMO.
+
+A la entrada en vigor de este Decreto, el titular del Poder Ejecutivo del Estado deberá constituir el fondo para la terminación de las relaciones con respecto al personal que no cumpla con los requisitos, capacitación y evaluaciones. El fondo de referencia estará bajo la administración y ejercicio de la Unidad Técnica.
+
+###### ARTÍCULO OCTAVO.
+
+La Unidad Técnica deberá presentar al Fiscal General y al Consejo de Fiscales, en un plazo no mayor de ciento cuarenta días a partir de su constitución, el proyecto de Reglamento de la presente Ley Orgánica, quienes contarán con un plazo no mayor a treinta días para su revisión, aprobación y remisión al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado, en un plazo no mayor a diez días a partir de su recepción.
+
+###### ARTÍCULO NOVENO.
+
+A la entrada en vigor del presente Decreto, la persona titular de la Fiscalía General podrá designar a los Vicefiscales, Fiscales Especializados y demás servidores públicos que establece el presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+A los treinta días de la entrada en vigor del presente Decreto, deberá instalarse el Consejo de Fiscales previsto en el artículo 125 de la Constitución del Estado.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+A la entrada en vigor del presente Decreto, las y los servidores públicos que se encuentren en ejercicio de cualquier cargo o comisión diverso al de su área de adscripción o dependencia de origen, permanecerán en sus puestos hasta en tanto se emita el Reglamento o la persona titular de la Fiscalía General instruya cualquier cambio de adscripción.
+
+Lo dispuesto en el párrafo anterior, será aplicable al personal del Órgano Interno de Control de la Procuraduría General de Justicia del Estado, hasta que se haga la designación en los términos de lo dispuesto en el artículo 56 de esta ley.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El titular del Poder Ejecutivo estatal, en un plazo no mayor a noventa días de la entrada en vigor de este Decreto, remitirá al Congreso del Estado Libre y Soberano de Tamaulipas, la propuesta de integración del Consejo de Participación Ciudadana.
+
+Por única ocasión, los integrantes del Consejo de Participación Ciudadana que se nombren, durarán en su encargo respectivamente, el primero de los nombrados un año, el segundo dos años, el tercero tres años, el cuarto cuatro años y el quinto cinco años improrrogables, periodos que empezarán a contar a partir de sus respectivos nombramientos.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+A la entrada en vigor de este Decreto, se iniciará el procedimiento de transferencia de los recursos materiales y financieros de la Procuraduría General de Justicia del Estado de Tamaulipas que formarán parte del patrimonio de la Fiscalía General. El personal de la Procuraduría General de Justicia del Estado, conservará los derechos que haya adquirido en virtud de su relación laboral con independencia de la denominación que corresponda a sus funciones.
+
+Las relaciones laborales o administrativas existentes, estarán sujetas al plan de certificación, control de confianza y capacitación que determine la Unidad Técnica de conformidad con la Ley General del Sistema Nacional de Seguridad Pública y la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas. El Gobierno del Estado mantendrá las relaciones laborales y el cumplimiento de las obligaciones correspondientes que de estas se deriven, hasta en tanto se transfieran a la Fiscalía General en los términos del Plan de Transición los recursos humanos y financieros que establezca la Unidad Técnica.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La Fiscalía General de Justicia del Estado de Tamaulipas, la Contraloría Gubernamental, la Secretaría de Finanzas y la Secretaría de Administración, realizarán las adecuaciones y transferencias presupuestales, financieras y de recursos humanos y materiales, a efecto de dar pleno cumplimiento a la autonomía constitucional, técnica y presupuestal de la Fiscalía General.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+El Poder Ejecutivo del Estado y el Congreso del Estado Libre y Soberano de Tamaulipas respectivamente, deberán asignar todos los recursos financieros y administrativos necesarios a fin de garantizar la suficiencia presupuestal del Plan de Transición de la Fiscalía General.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Todas las menciones a la Procuraduría General de Justicia del Estado de Tamaulipas, en la legislación y normatividad, se entenderán referidas a la Fiscalía General, siempre y cuando no se contrapongan a su naturaleza, al decreto de reforma constitucional que le dio origen y a la presente Ley.
+
+Asimismo, todos los convenios y actos jurídicos celebrados por la Procuraduría General de Justicia o por el Gobierno del Estado en beneficio de la Procuraduría, se entenderán como vigentes y suscritos por la Fiscalía General, en sus términos.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+Los expedientes ministeriales que se encuentren en trámite a la entrada en vigor del presente decreto serán resueltos en las unidades en las que estén radicados, conforme a las normas vigentes al momento de su inicio; lo anterior, sin perjuicio de que se radiquen a nuevas unidades de investigación.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+En tanto no se emita la normatividad indispensable para el funcionamiento de la Fiscalía General, se seguirán aplicando las disposiciones legales y administrativas vigentes de la Procuraduría General de Justicia del Estado al momento de la entrada en vigor de la presente Ley, en lo que no se opongan a la misma.
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+Los procedimientos de responsabilidad administrativa, de separación y remoción de cargo, iniciados con antelación a la entrada en vigor de la presente Ley, sustanciados por la Procuraduría General de Justicia del Estado o su Órgano Interno de Control serán resueltos en términos de las disposiciones legales con los que se les dio inicio.
+
+###### ARTÍCULO VIGÉSIMO.
+
+De conformidad con la Ley General de Contabilidad Gubernamental; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; así como los lineamientos emitidos por el Consejo Nacional de Armonización Contable (CONAC), deberá establecerse la creación e implementación de las áreas y de los sistemas informáticos en los que se registrarán las operaciones financieras, presupuestales y programáticas de la Fiscalía General como ente autónomo, a más tardar en un año a partir de la entrada en vigor de esta Ley, estableciendo los procesos administrativos para la creación de dichas operaciones, con el fin de que la planeación para el ejercicio presupuestal del año 2021 cumpla en su totalidad con las normas establecidas.
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+El Plan de Transición deberá contemplar la extinción de la Procuraduría General de Justicia del Estado, incluyendo la transición institucional, la atención de casos entrantes del sistema acusatorio durante el proceso de instalación de la Fiscalía General, la depuración y liquidación de las causas del sistema inquisitivo mixto de acuerdo a la materia, el cumplimiento de recomendaciones de la Comisión Nacional de Derechos Humanos, la Comisión de Derechos Humanos del Estado y Organismos Internacionales por violaciones graves a derechos humanos; así como las resoluciones de tribunales locales y federales.
+
+El Plan de Transición no podrá exceder de doce meses. Al concluir la implementación de dicho Plan, la persona titular de la Fiscalía General dará aviso al Congreso, a fin de que éste emita la declaratoria de extinción de la Procuraduría General de Justicia del Estado.
+
+Durante este plazo se llevarán a cabo todos los ajustes administrativos para la operación de la Fiscalía General como un organismo constitucional autónomo. Para ello la Unidad Técnica deberá proponer un Plan de Transición administrativa que deberá incluir, de forma no limitativa, la incorporación de nuevas responsabilidades en cuanto al personal, al sistema contable y presupuestario y al manejo de activos.
+
+La Unidad Técnica deberá sistematizar los casos pendientes de resolución al momento de la extinción de la Procuraduría General de Justicia del Estado.
+
+###### ARTÍCULO VIGÉSIMO SEGUNDO.
+
+La Fiscalía Especializada en Combate a la Corrupción del Estado mantendrá su estructura, plazas, nombramientos, presupuestos y demás recursos con los que cuenta hasta antes de la entrada en vigor del presente Decreto.
