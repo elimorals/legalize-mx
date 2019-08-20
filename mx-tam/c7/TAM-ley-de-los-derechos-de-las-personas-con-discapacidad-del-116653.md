@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-con-discapacidad-del-116653
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-27"
-last_updated: "2018-10-30"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Número 115 del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -49,13 +49,17 @@ LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS
 
 ### CAPÍTULO I. DEL OBJETO Y PRINCIPIOS GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, interés social y observancia general en el Estado de Tamaulipas y tiene por objeto normar las medidas y acciones, bajo el modelo social, que contribuyan a lograr la igualdad de oportunidades para la plena integración al desarrollo de las personas con discapacidad en un plano de igualdad al resto de los habitantes del Estado de Tamaulipas, así como la de promover, proteger y garantizar el pleno goce y ejercicio de los derechos y libertades fundamentales que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Tamaulipas, la presente Ley, la Ley General para la Inclusión de las Personas con Discapacidad y los tratados internacionales firmados y ratificados por el Estado Mexicano otorgan a las personas con discapacidad; por lo que corresponde a la Administración Pública del Estado velar en todo momento por el debido cumplimiento de la presente Ley.
+La presente Ley es de orden público, interés social y observancia general en el Estado de Tamaulipas y tiene por objeto normar las medidas y acciones, bajo el modelo social, que contribuyan a lograr la igualdad de oportunidades para la plena inclusión al desarrollo de las personas con discapacidad en un plano de igualdad al resto de los habitantes del Estado de Tamaulipas, así como la de promover, proteger y garantizar el pleno goce y ejercicio de los derechos y libertades fundamentales que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Tamaulipas, la presente Ley, la Ley General para la Inclusión de las Personas con Discapacidad y los tratados internacionales firmados y ratificados por el Estado Mexicano otorgan a las personas con discapacidad; por lo que corresponde a la Administración Pública del Estado velar en todo momento por el debido cumplimiento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 2.
 
-La creación de las condiciones adecuadas para la plena integración al desarrollo de las personas con discapacidad es una causa de interés público y por consecuencia además de la Administración Pública del Estado de Tamaulipas, todos los sectores de la sociedad deberán participar activamente en el cumplimiento de la presente Ley, la cual establecerá las obligaciones y derechos que les corresponden.
+La creación de las condiciones adecuadas para la plena inclusión al desarrollo de las personas con discapacidad es una causa de interés público y por consecuencia además de la Administración Pública del Estado de Tamaulipas, todos los sectores de la sociedad deberán participar activamente en el cumplimiento de la presente Ley, la cual establecerá las obligaciones y derechos que les corresponden.
 
 ###### ARTÍCULO 3.
 
@@ -78,6 +82,10 @@ VII.- Barreras Arquitectónicas: Todos aquellos elementos de construcción del s
 VIII.- Barreras Sociales y Culturales: Las actitudes de rechazo, indiferencia o discriminación hacia las personas con discapacidad, debido a los prejuicios por parte de los integrantes de la sociedad, que impiden su inclusión y participación en la comunidad, desconociendo sus derechos y libertades fundamentales;
 
 IX.- Comunicación: Se entenderá el lenguaje escrito, oral y la lengua de señas mexicana, la visualización de textos, sistema braille, la comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+IX BIS.- Consejo Consultivo Ciudadano: Órgano asesor de análisis y opinión de participación ciudadana;
 
 X.- Convención: Convención sobre los Derechos de las Personas con Discapacidad en la resolución 61/106 de la Asamblea General de la Organización de las Naciones
 
@@ -125,13 +133,15 @@ XXIX.- Política Pública: Son todos aquellos planes, programas o acciones de go
 
 XXX.- Programa Anual: Constituye un marco de referencia en torno al cual debe desarrollarse la estrategia de atención integral a favor de las personas con discapacidad. Representa la expresión lógica de la planeación y tiene como propósito establecer anticipada, racional y ordenadamente los proyectos y acciones a realizar en beneficio de la población objetivo.
 
-XXXI.- Programa Estatal: El Programa Estatal para la Implementación y Protección de los Derechos de las Personas con Discapacidad del Estado de Tamaulipas. Este programa establecerá las directrices a las que las dependencias del sistema intersectorial responderán con programas y acciones específicas con el propósito de dar cumplimiento a lo establecido en esta Ley;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+XXXI.- Programa Estatal: El Programa Estatal para la Inclusión al Desarrollo de las Personas con Discapacidad del Estado de Tamaulipas. Este programa establecerá las directrices a las que las dependencias del sistema intersectorial responderán con programas y acciones específicas con el propósito de dar cumplimiento a lo establecido en esta Ley;
 
 XXXII.- Programas de Potencial Humano: Iniciativa de intervención pública y social sobre la base de adopción de un Método interactivo y presencial que consiste en acompañar, instruir y capacitar a una persona o a un grupo de ellas, con el objetivo de conseguir alguna meta o de desarrollar habilidades específicas para responder de un modo más eficiente a las circunstancias, los retos y las metas de sus vidas;
 
 XXXIII.- Progresividad: Principio inherente a la obligación que tienen autoridades y, en su caso, particulares, para realizar todas aquellas acciones previstas y emanadas en la presente Ley, tratados internacionales y demás disposiciones jurídicas aplicables, el cual consiste en adoptar medidas hasta el máximo de sus recursos disponibles, a efecto de que se llegue a cumplir cabalmente con tales obligaciones;
 
-XXXIV.- RED: Red de Seguimiento de los Derechos de las Personas con Discapacidad;
+XXXIV.- (DEROGADA, P.O. 20 DE AGOSTO DE 2019)
 
 XXXV.- Registro Estatal de Personas con Discapacidad: Registro sociodemográfico que permite conocer la cantidad, condición, ubicación, entorno, tipo de discapacidad y edad de la población de personas con discapacidad y sus familiares. Constituye la unidad básica programable de toda la intervención pública, privada y social en favor de este sector de la sociedad tamaulipeca;
 
@@ -173,7 +183,9 @@ XII.- Los demás que resulten aplicables.
 
 ###### ARTÍCULO 5.
 
-Son acciones prioritarias para la integración al desarrollo de personas con discapacidad, las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Son acciones prioritarias para la inclusión al desarrollo de personas con discapacidad, las siguientes:
 
 I.- Las acciones que promuevan y garanticen, en el marco del modelo social, su participación activa, plena y constante en la sociedad;
 
@@ -259,9 +271,11 @@ V.- Considerar en sus proyectos de Presupuesto anuales, los fondos necesarios pa
 
 VI.- Las demás que contribuyan en potencializar la promoción, implementación y protección de los derechos de las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 9.
 
-Todas las Autoridades de la Administración Pública del Estado de Tamaulipas, en el ámbito de sus respectivas competencias, están obligadas a programar y ejecutar acciones específicas, así como incorporar dentro de su estructura orgánica un área especializada de atención encargada de la formulación de protocolos de atención en base al modelo social, a favor de la implementación, promoción y protección de los derechos de las personas con discapacidad, previendo en todo momento el costo de tales acciones, el cual deberá ser previsto e integrado en sus respectivos presupuestos de egresos de cada año.
+Todas las Autoridades de la Administración Pública del Estado de Tamaulipas, en el ámbito de sus respectivas competencias, están obligadas a programar y ejecutar acciones específicas, así como incorporar dentro de su estructura orgánica un área especializada de atención encargada de la formulación de protocolos de atención con base al modelo social, a favor de la promoción y protección de los derechos de las personas con discapacidad, previendo en todo momento el costo de tales acciones, el cual deberá ser previsto e integrado en sus respectivos presupuestos de egresos de cada año.
 
 ### CAPÍTULO II. DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
@@ -473,7 +487,9 @@ VII.- Adquirir y dotar a los centros de salud, clínicas y hospitales del Gobier
 
 Estado de Tamaulipas, de las instalaciones y mobiliario adecuado para la atención, revisión y consulta de las personas con discapacidad;
 
-VIII.- Promover a través de convenios con universidades y centros de investigación la implementación de estudios especializados que permitan conocer el perfil de las realidades sociales de las personas con discapacidad, así como mejorar su calidad de vida a partir de la incorporación de los avances científicos y tecnológicos en el tratamiento de su condición específica para la integración al desarrollo;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+VIII.- Promover a través de convenios con universidades y centros de investigación la implementación de estudios especializados que permitan conocer el perfil de las realidades sociales de las personas con discapacidad, así como mejorar su calidad de vida a partir de la incorporación de los avances científicos y tecnológicos en el tratamiento de su condición específica para la inclusión al desarrollo;
 
 IX.- Crear bancos de prótesis, órtesis, ayudas técnicas y medicinas de uso restringido, que sean accesibles a la población con discapacidad;
 
@@ -595,6 +611,18 @@ III.- Incluir la preparación respecto a la atención de las personas con algún
 
 IV.- Gestionar y establecer los mecanismos necesarios para que los deportistas con discapacidad, sin discriminación alguna, gocen de los mismos reconocimientos y estímulos que otorgue el gobierno estatal a los deportistas convencionales.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 42 BIS.
+
+La Secretaría de Turismo promoverá el derecho de las personas con discapacidad para acceder a los servicios turísticos, recreativos o de esparcimiento. Para tales efectos, realizará las siguientes acciones:
+
+I.- Establecer programas y normas a fin de que la infraestructura destinada a brindar servicios turísticos en el territorio estatal cuente con facilidades de accesibilidad universal;
+
+II.- Establecer programas para la promoción turística de las personas con discapacidad; y
+
+III.- Las demás que dispongan otros ordenamientos.
+
 ## TÍTULO SEGUNDO. DEL SISTEMA INTERSECTORIAL DE PROTECCIÓN Y GESTIÓN INTEGRAL DE DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
 ### CAPÍTULO ÚNICO
@@ -621,7 +649,9 @@ VII.- La definición de un sistema de indicadores, que permitan la correcta impl
 
 2. El Sistema Intersectorial se integrará de la siguiente manera:
 
-I.- El Gobernador del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+I.- Ejecutivo del Estado;
 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -649,11 +679,19 @@ IX.- Secretaría de Obras Públicas;
 
 X.- Secretaría del Trabajo;
 
-XI.- Comisión Estatal de los Derechos Humanos;
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-XII.- La Dirección General del Sistema DIF Estatal; y
+XI.- Secretaría de Turismo;
 
-XIII.- Representantes de la Sociedad Civil que serán nombrados por el propio Sistema Intersectorial dentro de los representantes sectoriales de niñas, niños, adolescentes, mujeres y adultos mayores de las Organizaciones de la Sociedad Civil.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+XII.- Comisión de Derechos Humanos del Estado de Tamaulipas;
+
+XIII.- La Dirección General del Sistema DIF Estatal; y
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+XIV.- Presidente del Consejo Consultivo Ciudadano.
 
 3. A invitación del Sistema Intersectorial, podrán asistir las dependencias federales que implementan programas en beneficio de las personas con discapacidad.
 
@@ -711,7 +749,9 @@ Son funciones del Sistema Intersectorial:
 
 I.- La estricta observancia de objetivos, estrategias y directrices de la política estatal, la adecuada implementación de los programas y proyectos contenidos en el programa estatal de atención a personas con discapacidad en el Estado;
 
-II.- Elaborar un Programa anual de actividades, bajo claros y sustentados criterios de prioridad, que tengan como objetivo impulsar la implementación de todos los derechos establecidos en la presente Ley y las acciones y lineamientos expuestos dentro del reglamento respectivo de esta misma Ley;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+II.- Elaborar un Programa anual de actividades, bajo claros y sustentados criterios de prioridad, que tengan como objetivo impulsar la promoción de todos los derechos establecidos en la presente Ley y las acciones y lineamientos expuestos dentro del reglamento respectivo de esta misma Ley;
 
 III.- Implementar convenios de colaboración y coordinación entre las instancias públicas y privadas nacionales e internacionales para el cumplimiento de la presente Ley;
 
@@ -741,57 +781,113 @@ XI.- Celebrar los acuerdos o resoluciones para garantizar el cumplimiento de los
 
 XII.- Las demás que señale el reglamento, los lineamientos o normatividad aplicable.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ## TÍTULO TERCERO. DE LA RED DE SEGUIMIENTO DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
 ### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 46.
 
-La presente Ley reconoce que la RED representa el mecanismo a través del cual las personas con discapacidad, ejercerán su amplia y decidida participación en todo el proceso que implica la concepción, desarrollo e implementación de las políticas a su favor.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2019)
 
 ###### ARTÍCULO 47.
 
-El Gobierno Estatal promoverá la conformación de la RED y le garantizará el acceso a la información pública con las reservas que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, para el cumplimiento de sus funciones.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2019)
 
 ###### ARTÍCULO 48.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
-
-1. La RED deberá tener representación en todos los municipios y estará integrada principalmente por personas con discapacidad, sus familiares y organizaciones de la sociedad civil que den atención, servicios o apoyo a la comunidad con discapacidad.
-
-2. La RED contará con una coordinación estatal, que se integrará por la representación de 5 redes regionales que serán conformadas por las redes municipales.
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
-
-3. El reglamento de esta Ley regulará la constitución y operación de la RED.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2019)
 
 ###### ARTÍCULO 49.
 
-Son funciones de la RED:
-
-I.- Contribuir con la Secretaría Ejecutiva en la elaboración del Registro Estatal de personas con discapacidad;
-
-II.- Participar en el diseño que las instancias del sector público realicen en materias de programas, proyectos y estrategias de atención;
-
-III.- Elaborar recomendaciones al Sistema Intersectorial que contribuyan al fortalecimiento del marco de los derechos de las personas con discapacidad;
-
-IV.- Vigilar el ejercicio de los recursos públicos y la aplicación de los programas dirigidos a las personas con discapacidad conforme a la Ley y a las reglas de operación;
-
-V.- Elaborar informes sobre el desempeño de los programas y ejecución de los recursos públicos para ser presentados ante el Sistema Intersectorial; y
-
-VI.- Capacitarse en programas de potencial humano y derechos humanos, para alcanzar un dominio amplio y solvente en promoción, protección y defensa de sus derechos.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2019)
 
 ###### ARTÍCULO 50.
+
+(DEROGADO, P.O. 20 DE AGOSTO DE 2019)
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE AGOSTO DE 2019)</small>
+
+## TÍTULO TERCERO BIS. DEL CONSEJO CONSULTIVO CIUDADANO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE AGOSTO DE 2019)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 50 BIS.
+
+1. El Consejo Consultivo Ciudadano es un órgano asesor de análisis y opinión de participación ciudadana, auxiliar del Sistema Intersectorial de carácter incluyente, plural y honorífico, integrado equitativamente por representantes de los sectores social y privado.
+
+2. El Consejo Consultivo Ciudadano, tendrá por objeto analizar y proponer programas y acciones que incidan en el desarrollo de las personas con discapacidad de conformidad con esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 50 TER.
+
+El Consejo Consultivo Ciudadano tendrá las siguientes atribuciones:
+
+I.- Atender las consultas y formular las opiniones que les sean solicitadas por el Sistema lntersectorial;
+
+II.- Emitir opiniones y formular propuestas sobre la aplicación y orientación de la Política Pública para el Desarrollo y la Inclusión de las personas con discapacidad;
+
+III.- Impulsar la participación ciudadana y de las organizaciones de y para personas con discapacidad en el seguimiento, operación y evaluación del Programa Estatal;
+
+IV.- Apoyar al Sistema lntersectorial en la promoción y cumplimiento del Programa Estatal;
+
+V.- Proponer al Sistema lntersectorial los temas que por su importancia ameriten ser sometidos a consulta pública;
+
+VI.- Promover y propiciar la colaboración de organismos públicos y privados, Estatales y Nacionales en el desarrollo e inclusión de las personas con discapacidad;
+
+VII.- Promover la realización de estudios e investigaciones en la materia;
+
+VIII.- Promover la celebración de convenios con dependencias del Ejecutivo Federal, entidades federativas, municipios y organizaciones, para la instrumentación de los programas relacionados con el desarrollo y la inclusión social de las personas con discapacidad;
+
+IX.- Integrar las comisiones y grupos de trabajo que sean necesarios para el ejercicio de sus atribuciones;
+
+X.- Nombrar al representante, que formará parte en las sesiones del Sistema lntersectorial; y
+
+XI.- Las demás que dispongan otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 50 QUÁTER.
+
+1. El Consejo Consultivo Ciudadano estará integrado por:
+
+I.- Tres representantes de organizaciones estatales de y para personas con discapacidad, electos por Convocatoria Pública realizada en los términos del Reglamento de la Ley;
+
+II.- Dos personas que serán expertos, académicos o investigadores, electos en los términos de la fracción anterior;
+
+III.- El Consejo Consultivo Ciudadano será presidido por un representante electo de entre sus miembros el cual representará al Consejo en las sesiones del Sistema lntersectorial, además de contar con representación de todo el Estado; y
+
+IV.- Las y los integrantes del Consejo Consultivo Ciudadano tendrán el carácter de honorifico, por lo cual no percibirán retribución, emolumento o compensación alguna por su desempeño, durarán en su cargo 2 años pudiendo ser ratificados por un periodo igual, en términos de lo dispuesto en el Reglamento de la Ley.
+
+2. Se podrá invitar a la sesiones a otras dependencias y entidades de la Administración Pública Federal, de los Gobiernos Estatales y Municipales, de organizaciones civiles y de particulares cuando se aborde un tema relacionado con sus funciones y participarán con voz pero sin voto
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 20 DE AGOSTO DE 2019)</small>
+
+## TÍTULO TERCERO TER. ÓRGANO DE VIGILANCIA
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 50 QUINQUIES.
 
 El encargado de la vigilancia y monitoreo de los derechos de las personas con discapacidad será la Comisión de Derechos Humanos del Estado de Tamaulipas, la cual tendrá las siguientes funciones:
 
 I.- Vigilar el cumplimiento de los derechos de las personas con discapacidad;
 
-II.- Apoyar en la capacitación de la RED;
+II.- Apoyar en la capacitación del Consejo Consultivo Ciudadano;
 
 III.- Intervenir y dar seguimiento a las violaciones de los derechos de las personas con discapacidad;
 
-IV.- Apoyar con orientación y asesoría en el diseño y desarrollo de políticas públicas transversales e incluyentes en las entidades públicas, especialmente las que atiendan necesidades de las Personas con Discapacidad y supervisar su cumplimiento;
+IV.- Apoyar con orientación y asesoría en el diseño y desarrollo de políticas públicas transversales e incluyentes en las entidades públicas, especialmente las que atiendan necesidades de las personas con discapacidad y supervisar su cumplimiento;
 
 V.- Colaborar con las organizaciones de personas con discapacidad en la elaboración de iniciativas de mejora continua de procesos de atención; y
 
@@ -799,15 +895,15 @@ VI.- Orientar a las personas con discapacidad respecto a la exigibilidad del cum
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-## TÍTULO CUARTO. DEL RECURSO
-
 ### CAPÍTULO ÚNICO
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-## TÍTULO QUINTO. DE LAS RESPONSABILIDADES Y SANCIONES
+## TÍTULO CUARTO. DEL RECURSO
 
 ### CAPÍTULO ÚNICO
+
+## TÍTULO QUINTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
 ###### ARTÍCULO 51.
 
@@ -823,9 +919,11 @@ El recurso se interpondrá de acuerdo a lo previsto en la Ley de Procedimiento A
 
 Las personas que incumplan las previsiones contenidas en esta Ley, serán sancionadas por las autoridades correspondientes, en la forma y términos que establezcan las disposiciones legales y reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 54.
 
-El incumplimiento a lo dispuesto en esta Ley por parte de las autoridades estatales y municipales, generará responsabilidad y será sancionado conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas.
+El incumplimiento a lo dispuesto en esta Ley por parte de las autoridades estatales y municipales, generará responsabilidad y será sancionado conforme a la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 T R A N S I T O R I O S
 
@@ -886,6 +984,34 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 30 DE OCTUBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-518 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS; LA LEY DEL FOMENTO Y USO DE LA BICICLETA EN EL ESTADO DE TAMAULIPAS; LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS; LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y A LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-811 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá las adecuaciones al Reglamento de la Ley de los Derechos de las Personas con Discapacidad acorde a la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+Treinta días naturales antes de que los representantes de la Sociedad Civil que forman parte del Sistema lntersectorial concluyan su periodo como integrantes del mismo; la Secretaría Ejecutiva emitirá la Convocatoria Pública para la designación de los representantes de organizaciones estatales de y para personas con discapacidad del Consejo Consultivo Ciudadano, quedando a salvo los derechos de los representantes actuales para reelegirse.
+
+###### ARTÍCULO CUARTO.
+
+Ante la eventual renuncia de alguno de los representantes de la sociedad civil que formarán parte del Consejo Consultivo Ciudadano, el Secretario Ejecutivo del Sistema lntersectorial de Protección y Gestión Integral de derechos de las Personas con Discapacidad, emitirá Convocatoria para la designación de dicha vacante.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
 
 ###### ARTÍCULO ÚNICO.
 
