@@ -4,7 +4,7 @@ identifier: "TAM-ley-que-regula-el-aseguramiento-administracion-enajenacion-1036
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2016-07-14"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY QUE REGULA EL ASEGURAMIENTO, ADMINISTRACIÓN, ENAJENACIÓN Y DISPOSICIÓN FINAL DE VEHÍCULOS AUTOMOTORES, ACCESORIOS O COMPONENTES ABANDONADOS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de noviembre de 2014.
 
@@ -305,9 +305,11 @@ VIII. Las demás que por cualquier causa se encuentren impedidas para ello por d
 
 Cualquier procedimiento de enajenación o acto que se realice en contra de lo dispuesto en esta Ley, será nulo de pleno derecho.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 33.
 
-Los servidores públicos que participen en la realización de los procedimientos de enajenación previstos en este ordenamiento, serán responsables por la inobservancia de las disposiciones establecidas en la misma, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, sin perjuicio de la responsabilidad penal que corresponda conforme a las leyes.
+Los servidores públicos que participen en la realización de los procedimientos de enajenación previstos en este ordenamiento, serán responsables por la inobservancia de las disposiciones establecidas en la misma, en términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, sin perjuicio de la responsabilidad penal que corresponda conforme a las leyes.
 
 T R A N S I T O R I O S
 
@@ -340,3 +342,11 @@ P.O. 14 DE JULIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor 90 días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
