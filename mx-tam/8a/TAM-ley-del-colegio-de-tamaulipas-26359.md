@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-colegio-de-tamaulipas-26359"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-16"
-last_updated: "2006-11-30"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EL COLEGIO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 16 octubre del 2002.
 
@@ -225,9 +225,9 @@ IV. Formular el plan general de la institución, así como el programa anual de 
 
 V. Formular anualmente el informe general de actividades junto con el informe financiero y contable del ejercicio respectivo y someterlo a la aprobación de la Junta de Gobierno;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-VI. Designar o remover a los servidores públicos de El Colegio que prevea esta Ley y el Estatuto Orgánico, asimismo conocer aquellos casos en que se incurra en faltas de responsabilidad, proveyendo a su atención conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado;
+VI. Designar o remover a los servidores públicos de El Colegio que prevea esta ley y el Estatuto Orgánico, asimismo conocer aquellos casos en que se incurra en faltas de responsabilidad, proveyendo a su atención conforme a lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas;
 
 VII. Suscribir convenios de intercambio y de colaboración, con todas aquellas instituciones u organismos que por su naturaleza guarden relación con el objeto de El Colegio;
 
@@ -496,3 +496,11 @@ Los miembros de la junta de Gobierno de El Colegio de Tamaulipas que se encuentr
 ###### ARTÍCULO CUARTO.
 
 Los derechos laborales que hubiere adquirido el personal administrativo y académico de El Colegio de Tamaulipas no se afectarán con motivo de la expedición del presente Decreto, sin demérito de la sujeción al orden jurídico estatal en términos de la fracción VI del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-817".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
