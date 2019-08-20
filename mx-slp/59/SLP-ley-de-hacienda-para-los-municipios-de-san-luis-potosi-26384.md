@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-de-san-luis-potosi-26384"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-06"
-last_updated: "2018-10-02"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 6 de noviembre de 2001.
 
@@ -73,6 +73,14 @@ VI. Los ingresos derivados de financiamiento, y
 
 VII. Los bienes y derechos que formen su patrimonio.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### ARTICULO 5º.
+
+Además de esta Ley, la hacienda municipal se regirá por la Constitución Política del Estado, la Ley Orgánica del Municipio Libre, las respectivas leyes de ingresos aprobadas por la Legislatura Estatal, por los respectivos presupuestos de ingresos y egresos de vigencia anual aprobados por los propios ayuntamientos; así como por la Ley de Coordinación Fiscal del Estado, la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí, la Ley del Registro Público de la Propiedad y del Catastro para el Estado y Municipios de San Luis Potosí, la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí, la Ley para la Administración de las Aportaciones Transferidas al Estado y Municipios de San Luis Potosí, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y los reglamentos municipales respectivos y aplicables; y por los convenios de coordinación y colaboración suscritos o que se suscriban con el Gobierno del Estado. El Código Fiscal del Estado se aplicará en forma supletoria de estas disposiciones. Sólo en ausencia de norma fiscal estatal se aplicarán las reglas del derecho fiscal y del derecho común.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2014)</small>
+
 ###### ARTICULO 6°.
 
 Los municipios, por conducto de sus ayuntamientos, someterán anualmente ante el Congreso del Estado su correspondiente iniciativa de Ley de Ingresos, en la que se especificarán las fuentes de sus ingresos, sean ordinarios o extraordinarios, desagregando el monto de cada una, incluyendo los recursos federales que se estime serán transferidos por la Federación, a través de los fondos de participaciones y aportaciones federales, subsidios y convenios de reasignación; así como los ingresos recaudados con base en las disposiciones locales. Asimismo, se establecerán las tasas y tarifas que deben aplicarse a las contribuciones respectivas, sin modificar los demás elementos de las contribuciones, como sujetos, objeto, bases y períodos de pago.
@@ -81,7 +89,9 @@ Los municipios, por conducto de sus ayuntamientos, someterán anualmente ante el
 
 Dicha iniciativa debe incluir también las obligaciones de garantía o pago causante de deuda pública u otros pasivos de cualquier naturaleza con contrapartes, proveedores, contratistas y acreedores, incluyendo la disposición de bienes o expectativa de derechos sobre éstos, contraídos directamente o, a través de cualquier instrumento jurídico considerado o no dentro de la estructura orgánica de la administración pública correspondiente, y la celebración de actos jurídicos análogos a los anteriores y sin perjuicio de que dichas obligaciones tengan como propósito el canje o refinanciamiento de otras, o de que sea considerado o no como deuda pública en los ordenamientos aplicables. Además, la composición de dichas obligaciones y el destino de los recursos obtenidos.
 
-De conformidad con la Ley de Catastro del Estado y Municipios de San Luis Potosí, someterán asimismo a la Legislatura estatal, la aprobación de las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+De conformidad con la Ley del Registro Público de la Propiedad y del Catastro para el Estado y Municipios de San Luis Potosí, someterán asimismo a la Legislatura estatal, la aprobación de las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
 ###### ARTICULO 5°.
 
@@ -181,9 +191,11 @@ VIII. Los fideicomitentes mientras el fiduciario no transmita la propiedad del p
 
 Están exentos de este impuesto los predios propiedad de la Federación, el Estado y los municipios, así como los de organismos descentralizados de éstos, siempre que los bienes inmuebles sean de dominio público y estén destinados a la prestación de servicios públicos; no así los destinados a uso particular, administrativo, de servicio o cualquier otro fin distinto al de su objeto público, por los que sí deberá cubrirse el impuesto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 19.
 
-El impuesto se causará sobre el valor catastral del inmueble determinado de acuerdo a lo establecido en la Ley de Catastro del Estado y Municipios de San Luis Potosí; y la tasa del impuesto será la que se determine anualmente en la Ley de Ingresos de cada Municipio para cada tipo de predio, a saber:
+El impuesto se causará sobre el valor catastral del inmueble determinado de acuerdo a lo establecido en la Ley del Registro Público de la Propiedad y del Catastro para el Estado y Municipios de San Luis Potosí; y la tasa del impuesto será la que se determine anualmente en la Ley de Ingresos de cada Municipio para cada tipo de predio, a saber:
 
 a). Urbanos y suburbanos habitacionales;
 
@@ -303,9 +315,9 @@ La base del impuesto es el que resulte mayor entre el precio pactado o valor dec
 
 Para efecto de determinar la base del impuesto, deberá obtenerse un avalúo catastral con una antigüedad no mayor de seis meses a partir de la fecha en que se formalice la operación.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
-La certificación de avalúo a que se refiere el articulo 6 fracción I de la Ley de Catastro del Estado y Municipios de San Luis Potosí, previo el pago de derechos, podrá solicitarse y obtenerse directamente en las oficinas o módulos que la Autoridad tenga habilitados para tal fin, o bien, de manera electrónica a través de las páginas en la red de comunicación internet, cuyo dominio tengan los H. Ayuntamientos y que contengan, de oficio, la base de datos del padrón catastral, de cada inmueble, en forma completa y actualizada, en términos de las Leyes de Catastro y de Transparencia y Acceso a la Información Pública del estado de San Luis Potosí.
+La certificación de avalúo a que se refiere el artículo 4º fracción II de la Ley del Registro Público de la Propiedad y del Catastro para el Estado y Municipios de San Luis Potosí, previo el pago de derechos, podrá solicitarse y obtenerse directamente en las oficinas o módulos que la Autoridad tenga habilitados para tal fin, o bien, de manera electrónica a través de las páginas en la red de comunicación internet, cuyo dominio tengan los H. Ayuntamientos y que contengan, de oficio, la base de datos del padrón catastral, de cada inmueble, en forma completa y actualizada, en términos de las Leyes del, Registro Público de la Propiedad y del Catastro para el Estado y Municipios de San Luis Potosí,; (sic) y de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2012)</small>
 
@@ -1014,3 +1026,11 @@ P.O. 2 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0239.- SE REFORMAN LOS ARTÍCULOS 5°, 6°, 19 Y 30 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
