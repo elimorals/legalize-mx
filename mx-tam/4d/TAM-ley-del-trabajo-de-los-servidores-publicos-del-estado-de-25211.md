@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2018-09-28"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -567,7 +567,9 @@ X.- Por falta de cumplimiento al contrato de trabajo o al nombramiento o por pri
 
 XI.- Cuando rehúse o se niegue sin causa justificada a la práctica del examen para detección de consumo ilícito de drogas, o, habiéndosele practicado, se le detecte en su organismo la existencia de narcóticos, sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares prohibidas por la ley, sin que obre para ello prescripción médica; y
 
-XII.- Cuando haya sido sancionado por el órgano de control mediante resolución ejecutoriada con la destitución del cargo con fundamento en la Ley de Responsabilidades de los Servidores Públicos.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+XII.- Cuando haya sido sancionado por el órgano de control mediante resolución ejecutoriada con la destitución del cargo con fundamento en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1524,3 +1526,11 @@ P.O. 28 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-460 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 32 BIS, FRACCIONES VI Y VII; Y 33, FRACCIÓN XVII; Y SE ADICIONAN LA FRACCIÓN VIII AL ARTÍCULO 32 BIS; Y LA FRACCIÓN XVIII, RECORRIÉNDOSE A LA ACTUAL PARA SER XIX AL ARTÍCULO 33, DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS".]
 
 ARTÍCULO PRIMERO (SIC). El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
