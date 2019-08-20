@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-adquisiciones-para-la-administracion-publica-del-78424"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-29"
-last_updated: "2016-12-21"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2010.
 
@@ -61,7 +61,9 @@ V. Arrendamientos financieros.
 
 2. Los contratos de proyectos para la prestación de servicios se regirán por la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado de Tamaulipas. Dichas operaciones no constituyen adquisiciones o contrataciones de servicios en los términos de las fracciones I y IV del párrafo anterior.
 
-3. Los contratos que se celebren entre entes de la administración pública estatal, o bien los que se lleven a cabo entre éstos y alguna dependencia o entidad de la administración pública federal, o con los Ayuntamientos de la entidad, no estarán dentro del ámbito de aplicación de esta ley; no obstante, dichos actos quedarán sujetos a este ordenamiento, cuando la dependencia o entidad obligada a entregar el bien o prestar el servicio, no tenga capacidad para hacerlo por sí misma y contrate a un tercero para su realización.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+3. Los contratos que se celebren entre entes de la administración pública estatal, o bien los que se lleven a cabo entre éstos y alguna dependencia o entidad de la administración pública federal, o con los Ayuntamientos de la entidad, no estarán dentro del ámbito de aplicación de esta ley; no obstante, dichos actos quedarán sujetos a este ordenamiento, cuando la dependencia o entidad obligada a entregar el bien o prestar el servicio, no tenga capacidad para hacerlo por sí misma y contrate a un tercero para su realización. En este último supuesto, el titular de la dependencia contratante deberá suscribir los contratos correspondientes y será responsable de vigilar el cumplimiento de los términos que se formalicen al amparo de este artículo.
 
 4. Los titulares de los entes de la administración pública estatal emitirán bajo su responsabilidad y de conformidad con este ordenamiento, las políticas, bases y lineamientos para las materias a que se refiere este artículo.
 
@@ -381,7 +383,9 @@ No podrán presentar propuestas ni celebrar contrato alguno sobre las operacione
 
 I. Los proveedores que por causas imputables a ellos mismos se encuentren en situaciones de mora, respecto al cumplimiento de otros pedidos o servicios y que hayan afectado con ello los intereses del Gobierno Estatal o, en su caso, del Ayuntamiento;
 
-II. Las empresas en las cuales participen como accionistas, administradores, gerentes, apoderados o empleados, los servidores públicos a que se refiere el artículo 47, fracción XIII, de la Ley de Responsabilidades de los Servidores Públicos del Estado;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+II. Las empresas en las cuales participen como accionistas, administradores, gerentes, apoderados o empleados, los servidores públicos en los términos aplicables de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas;
 
 III. Aquellas que hayan sido declaradas sujetas a concurso mercantil o a alguna figura análoga; y
 
@@ -1073,9 +1077,11 @@ III. Los daños o perjuicios que se hubieren producido o puedan producirse por e
 
 IV. La reincidencia, si la hubiere.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 103.
 
-A los servidores públicos que infrinjan las disposiciones de esta ley o los lineamientos emitidos al respecto por las autoridades competentes, les serán aplicadas las sanciones que procedan conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado.
+A los servidores públicos que infrinjan las disposiciones de esta ley o los lineamientos emitidos al respecto por las autoridades competentes, les serán aplicadas las sanciones que procedan conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### ARTICULO 104.
 
@@ -1097,7 +1103,9 @@ III. La resolución será debidamente fundada y motivada y se comunicará por es
 
 1. Los servidores públicos de las dependencias o entidades que en el ejercicio de su función tengan conocimiento de infracciones a esta ley o a las normas que de ella se deriven, deberán comunicarlo a las autoridades que resulten competentes conforme a la misma.
 
-2. La omisión a lo dispuesto en el párrafo anterior, será sancionada administrativamente, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+2. La omisión a lo dispuesto en el párrafo anterior, será sancionada administrativamente, en los términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### ARTICULO 107.
 
@@ -1208,3 +1216,19 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-794 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 1 DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-817”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
