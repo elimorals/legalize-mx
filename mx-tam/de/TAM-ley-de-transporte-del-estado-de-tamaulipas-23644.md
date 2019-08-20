@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transporte-del-estado-de-tamaulipas-23644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-12"
-last_updated: "2017-12-18"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de febrero de 2002.
 
@@ -1245,13 +1245,19 @@ XXVIII.- Incorporar a la seguridad social prevista en el artículo 123 apartado 
 
 XXIX.- Evitar que los vehículos destinados al servicio público de transporte y los servicios auxiliares de arrastre o traslado y salvamento, sean conducidos por personas en estado de ebriedad o bajo el influjo de drogas, medicamentos, estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares;
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-XXX.- Cobrar a los usuarios la tarifa autorizada; y
+XXX.- Cobrar a los usuarios la tarifa autorizada;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+XXXI.- Destinar lugares para el uso preferente de personas con discapacidad, adultos mayores y mujeres embarazadas. Plasmar la rotulación y leyendas que identifiquen los cuatro primeros asientos próximos a la entrada, destinadas a este grupo de personas.
+
+Lo anterior aplicará para el transporte público que cuente con más de doce asientos destinados para pasaje; y
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-XXXI.- Las demás que establezcan esta ley, sus reglamentos, otras disposiciones legales aplicables y las que determine, en el ámbito de su competencia, la autoridad correspondiente.
+XXXII.- Las demás que establezcan esta ley, sus reglamentos, otras disposiciones legales aplicables y las que determine, en el ámbito de su competencia, la autoridad correspondiente.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
@@ -2564,3 +2570,11 @@ Se derogan las disposiciones que se opongan a lo previsto en este Decreto.
 ###### ARTÍCULO TERCERO.
 
 El titular del Ejecutivo Estatal deberá expedir el Reglamento que regule los servicios auxiliares del transporte público del Estado de Tamaulipas en un plazo no mayor de 90 días, a partir de la entrada en vigor del presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-802 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXX, Y SE ADICIONA LA FRACCIÓN XXXI; AL ARTÍCULO 60; RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE FRACCIÓN; DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
