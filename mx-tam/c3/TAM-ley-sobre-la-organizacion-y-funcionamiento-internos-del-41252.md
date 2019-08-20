@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2019-05-14"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -1401,9 +1401,9 @@ i) Acatar las determinaciones de quien presida el Pleno, los órganos directivos
 
 j) Preservar la dignidad de la representación popular que tienen conferida con motivo de su actuación en el Congreso y los órganos del mismo, así como en su desempeño en todo acto de carácter público;
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
-k) Emitir su voto salvo que exista excusa legal, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado;
+k) Emitir su voto salvo que exista excusa legal, en términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
 
@@ -2383,9 +2383,13 @@ Cuando el Pleno apruebe dictámenes relacionados con el nombramiento de servidor
 
 ###### ARTICULO 136.
 
-1. Corresponde a la Junta de Coordinación Política, por conducto de la Contraloría Interna investigar y determinar las responsabilidades administrativas de los servidores públicos del Congreso del Estado, así como aplicar las sanciones que para tal efecto establece el artículo 53 de la Ley de Responsabilidades de los Servidores Públicos, en la forma y términos de esta Sección.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
-2. Incurren en responsabilidad administrativa los servidores públicos del Congreso del Estado que no cumplan con las obligaciones establecidas en el artículo 47 de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+1. Corresponde a la Junta de Coordinación Política, por conducto de la Contraloría Interna investigar y determinar las responsabilidades administrativas de los servidores públicos del Congreso del Estado, así como aplicar las sanciones que para tal efecto establece la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, en la forma y términos de esta Sección.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+2. Incurren en responsabilidad administrativa los servidores públicos del Congreso del Estado que no cumplan con las obligaciones establecidas en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### ARTICULO 137.
 
@@ -2399,15 +2403,21 @@ c) La Auditoría Superior del Estado, si se trata de alguno de los integrantes d
 
 2. Las autoridades señaladas en el artículo anterior, resolverán sobre la procedencia de la denuncia y su competencia para conocer de la misma.
 
-3. Ante las denuncias de responsabilidad administrativa previstas en este artículo, se aplicará en lo conducente el procedimiento previsto en la Ley de Responsabilidades de lo (sic) Servidores Públicos del Estado.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+3. Ante las denuncias de responsabilidad administrativa previstas en este artículo, se aplicará en lo conducente el procedimiento previsto en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### ARTICULO 138.
 
-1. En caso de responsabilidad administrativa de los diputados, la Junta de Coordinación Política podrá imponer las sanciones a que se refieren las fracciones I, II y V del artículo 53 de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+1. En caso de responsabilidad administrativa de los diputados, la Junta de Coordinación Política podrá imponer las sanciones conducentes con base en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 2. El Congreso del Estado está facultado para aplicar cualquiera de las sanciones administrativas a sus servidores públicos.
 
-3. Las sanciones previstas en el artículo 53 de la Ley de Responsabilidades de los Servidores Públicos son aplicables a los servidores públicos del Poder Legislativo y de la Auditoría Superior del Estado, correspondiendo su imposición al titular de la dependencia del servidor público sancionado, una vez substanciado el procedimiento correspondiente.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+3. Las sanciones previstas en términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas son aplicables a los servidores públicos del Poder Legislativo y de la Auditoría Superior del Estado, correspondiendo su imposición al titular de la dependencia del servidor público sancionado, una vez substanciado el procedimiento correspondiente.
 
 ###### ARTICULO 139.
 
@@ -2419,15 +2429,17 @@ c) La Auditoría Superior del Estado, si se trata de alguno de los integrantes d
 
 1. Para la atención de las denuncias de responsabilidad administrativa de los miembros de los Ayuntamientos del Estado, el presidente de la Mesa Directiva o de la Diputación Permanente en los recesos, se cerciorará del cumplimiento de lo dispuesto por el párrafo cuarto del artículo 150 de la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
-2. En caso afirmativo, turnarán la denuncia al conocimiento de los presidentes de las comisiones de Gobernación, de Puntos Constitucionales, y de Justicia, con objeto de que integren el expediente y substancien el procedimiento. Al efecto, se aplicarán en lo conducente las disposiciones en la materia de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+2. En caso afirmativo, turnarán la denuncia al conocimiento de los presidentes de las comisiones de Gobernación, de Puntos Constitucionales, y de Justicia, con objeto de que integren el expediente y substancien el procedimiento. Al efecto, se aplicarán en lo conducente las disposiciones en la materia de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 3. Los presidentes de las comisiones referidas en el párrafo anterior presentarán al Pleno sus conclusiones, elucidándose la naturaleza de la denuncia, el denunciante, los elementos probatorios hechos llegar, las pruebas y alegatos del denunciado en ejercicio de la garantía de audiencia y el proyecto de resolución que consideren procedente, debidamente motivado y fundado en derecho.
 
 4. Dicho proyecto de resolución será puesto a discusión, previa decisión del presidente de la Mesa Directiva sobre si el Pleno debe ser consultado en cuanto al tratamiento reservado del caso.
 
-5. La determinación que adopte el Pleno será notificada personalmente al denunciado y al denunciante. En caso de resolverse la procedencia de la responsabilidad administrativa, se establecerá la sanción aplicable, conforme a lo señalado por el artículo 53 de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+5. La determinación que adopte el Pleno será notificada personalmente al denunciado y al denunciante. En caso de resolverse la procedencia de la responsabilidad administrativa, se establecerá la sanción aplicable, conforme a lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### ARTICULO 141.
 
@@ -3288,3 +3300,11 @@ P.O. 14 DE MAYO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
