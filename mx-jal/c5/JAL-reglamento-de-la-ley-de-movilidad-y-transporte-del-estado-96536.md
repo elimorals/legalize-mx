@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-movilidad-y-transporte-del-estado-96536
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-09"
-last_updated: "2017-10-31"
+last_updated: "2019-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2013.
 
@@ -229,13 +229,13 @@ XLVI. Ejecutivo: El Titular del Poder Ejecutivo del Estado;
 
 XLVII. Elementos Inherentes a la Movilidad: Son todos aquellos objetos o elementos que forman parte especifica de la vialidad;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-XLVIII. El Secretario: Titular de la Secretaría de Movilidad del Estado;
+XLVIII. Secretario: La persona titular de la Secretaría del Transporte del Estado;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-XLIX. El Comisario: Titular de la Comisaría General de Vialidad del Estado;
+XLIX. Comisario: La persona titular de la Comisaría de la Secretaría de Seguridad del Estado que tenga a su cargo a la Policía Vial;
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -273,9 +273,9 @@ b) Estudio de integración a la vialidad: Es un estudio cuyo objeto será el reg
 
 LVII. Faja separadora o isleta: Superficie pintada en el piso o a diferente nivel que sirve para refugio de peatones y para separar las trayectorias del tránsito;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-LVIII. Fiscalía: Fiscalía General del Estado de Jalisco;
+LVIII. Fiscalía: Fiscalía del Estado de Jalisco;
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -437,9 +437,7 @@ XCVII. Región metropolitana: Es la delimitación geográfica integrada por un �
 
 XCVIII. Registro Público Vehicular: Es un registro de información a nivel nacional que tiene como propósito otorgar seguridad pública y jurídica a los actos que se realicen con vehículos que circulen en territorio nacional, mediante la identificación y control vehicular; además de brindar servicios de información al público, en los términos de la Ley del Registro Público Vehicular;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
-
-XCIX. Reglamento específico: Reglamento de la Ley de Movilidad y Transporte específico para regularizar la cobertura y distribución del servicio de transporte público, colectivo, masivo, de taxi y radiotaxi, de conformidad con el Programa General de Transporte para el Estado de Jalisco;
+XCIX. (DEROGADA, P.O. 20 DE AGOSTO DE 2019)
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -453,9 +451,13 @@ CI. Retorno o despacho: Estación temporal para el ajuste de la frecuencia de pa
 
 CII. Reversa: Movimiento que se da en retroceso al de la circulación normal de un vehículo;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-CIII. Secretaría: La Secretaría de Movilidad del Estado;
+CII Bis. Revista Mecánica: es la inspección física de los vehículos, equipamiento auxiliar o infraestructura de los servicios de transporte público, a fin de comprobar el cumplimiento de las disposiciones en materia de instalaciones, equipo, aditamentos, sistemas y en general, las condiciones de operación y especificaciones técnicas para la óptima prestación del servicio;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+CIII. Secretaría: Secretaría del Transporte del Estado;
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -476,6 +478,10 @@ CVII. Señal: Son los dispositivos o elementos oficiales que se instalan previo 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
 CVIII. Señalización Vial: Conjunto de elementos y objetos visuales de contenido informativo, indicativo, restrictivo, preventivo, prohibitivo o de cualquier otro carácter que se colocan en la vialidad, con el objeto de brindar mayor seguridad a todos los sujetos de la movilidad;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+CVIII Bis. Servicios: los Servicios Masivo, Colectivo y de Taxi con Sitio y Radiotaxi, considerados conjunta o genéricamente.
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -516,6 +522,10 @@ CXVII. Tarifa: Es la contraprestación que pagan los usuarios en general por el 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
 CXVIII. Taxi: Transporte público individual que se presta en vehículos definidos por la norma técnica correspondiente, solicitado a petición de un usuario y con derecho a percibir el pago de un precio con tarifa determinada mediante el uso de un dispositivo electrónico o mecánico o por zona de acuerdo a la tarifa autorizada;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+CXVIII Bis. Taxi con sitio y radio taxi: los empleados para el transporte de personas sin sujeción a itinerarios fijos, mediante el pago de un precio que se determinará según la tarifa de taxímetro o zona correspondiente, y autorizados en sitios o asignados a centros de control, y con vehículos de acuerdo a la norma técnica vigente;
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -771,9 +781,17 @@ I. El Consejo Consultivo;
 
 II. La Comisión Metropolitana de Movilidad y Transporte;
 
-III. Las Comisiones Intermunicipales; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-IV. Las asociaciones de vecinos, conforme a las disposiciones de la legislación municipal.
+III. Las Comisiones Intermunicipales;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+IV. Las asociaciones de vecinos, conforme a las disposiciones de la legislación municipal; y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+V. El Observatorio Ciudadano.
 
 ###### Artículo 31.
 
@@ -781,9 +799,17 @@ Las opiniones que puedan emitir los organismos señalados, deberán sujetarse a 
 
 I. El Consejo Consultivo, es un organismo auxiliar de participación social y de consulta en materia de movilidad y transporte, con la obligación de coadyuvar a la solución de problemas, proponer y emitir opiniones respecto a las atribuciones que le confiere la Ley. Sus opiniones deberán ser presentadas a la Secretaría para su evaluación, en virtud de que las mismas no son vinculantes, así mismo y cuando el caso lo requiera el Consejo Consultivo podrá, solicitar opiniones a las organizaciones civiles y sociales, cuando se atiendan o discutan programas y proyectos que se refieran o afecten a alguna de dichas organizaciones, siempre y cuando demuestren su interés o afectación;
 
-II. La Comisión y las Comisiones Intermunicipales participaran en las acciones en materia de movilidad y transporte, como instancias de coordinación metropolitana, derivadas del convenio de los ayuntamientos de los municipios de un área o región metropolitana, donde se coordinan con la Secretaría, respecto a las atribuciones reservadas a esos municipios por la Ley; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-III. Las asociaciones de vecinos, podrán ser tomadas en consideración, por lo que las mismas no son vinculatorias, respecto de los actos que impliquen afectación en materia de movilidad en el ámbito municipal al que pertenezcan.
+II. La Comisión y las Comisiones Intermunicipales participarán en las acciones en materia de movilidad y transporte, como instancias de coordinación metropolitana, derivadas del convenio de los ayuntamientos de los municipios de un área o región metropolitana, donde se coordinan con la Secretaría, respecto a las atribuciones reservadas a esos municipios por la Ley;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+III. Las asociaciones de vecinos, podrán ser tomadas en consideración, por lo que las mismas no son vinculatorias, respecto de los actos que impliquen afectación en materia de movilidad en el ámbito municipal al que pertenezcan; y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+IV. El Observatorio Ciudadano será conformado por representantes de organismos académicos y sociales, con facultades para opinar y emitir recomendaciones técnicas en materia de transporte público de pasajeros; proponer medidas para que en la prestación de dicho servicio se cumplan los objetivos de calidad, modernización, seguridad, higiene, eficiencia, comodidad, trato digno y capacitación; así como vigilar que se respeten los derechos de los usuarios y de la sociedad. Las autoridades tendrán la obligación de atender dichas propuestas y recomendaciones; en los casos en los que no se puedan implementar éstas, la autoridad deberá sustentar las causas que lo impidan.
 
 ### CAPÍTULO III. DE LOS ORGANISMOS AUXILIARES
 
@@ -2029,6 +2055,10 @@ c) Constancia de inscripción en el Registro Público Vehicular; y
 
 d) Tratándose de vehículos con los cuales se preste el servicio de transporte público en cualquiera de sus modalidades, deberá además contar con el documento vigente como concesión, permiso, contrato de subrogación o autorización según sea el caso, revista mecánica vigente, número económico, de ruta, empresa, o en su caso sitio al que pertenece y todos los demás que le obligue la Ley, el presente Reglamento y la norma técnica correspondiente, así como cualquier otro medio de identificación que les sea obligatorio.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Para verificar que los vehículos autorizados a la prestación de los Servicios cumplan con las normas técnicas y las resoluciones que les sean aplicables, la Secretaría realizará la Revista Mecánica por lo menos una vez cada doce meses, sin perjuicio de lo establecido en el artículo 205 de la Ley. Los prestadores de los Servicios deberán recibir las aprobaciones de revista para que las autorizaciones de sus vehículos se mantengan vigentes.
+
 ###### Artículo 107.
 
 Para efectos de la Ley y el presente Reglamento, se entenderá que un conductor y el vehículo cuentan y portan sus documentos en regla cuando cumple con lo dispuesto por el artículo anterior.
@@ -3217,39 +3247,239 @@ La violación a lo dispuesto en este artículo por un conductor sólo deberá sa
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 210.
 
-El servicio de transporte público en todas y cada una de las modalidades contempladas en la Ley, es de utilidad pública e interés general y social. La prestación del servicio de transporte en cualquiera de sus modalidades, se regirá por las disposiciones de la Ley, el presente Reglamento, el Reglamento específico, las normas técnicas correspondientes y cualquier otra disposición que regule la prestación del servicio y sus características.
+El servicio de transporte público en todas y cada una de las modalidades contempladas en la Ley, es de utilidad pública e interés general y social. La prestación del servicio de transporte en cualquiera de sus modalidades, se regirá por las disposiciones de la Ley, el presente Reglamento, las normas técnicas correspondientes y cualquier otra disposición que regule la prestación del servicio y sus características.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 9 DE AGOSTO DE 2016)</small>
-
-El otorgamiento de los títulos para la prestación de alguno de los servicios señalados en la Ley se realizará en los términos de los reglamentos que de ella emanen.
-
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+El otorgamiento de las Concesiones, Permisos o Autorizaciones para la prestación de alguno de los servicios señalados en la Ley se realizará en los términos de los reglamentos que de ella emanen.
 
 Las tarifas de todas las modalidades del servicio público de transporte serán definidas por la Comisión respectiva en los términos de la Ley y el Reglamento aplicable, a excepción del transporte de pasajeros bajo demanda mediante aplicaciones móviles, mismo que se regirá según lo dispuesto por los artículos 150 y 154 de la Ley.
 
-Para los efectos del artículo 67 fracción V de la Ley, cuando se sorprenda a un conductor, operador o chofer del servicio de transporte público, excediendo en el cobro de la tarifa autorizada, se procederá a cancelar la licencia correspondiente al servicio que presta, independientemente de lo anterior, se iniciará el procedimiento correspondiente de revocación de la concesión a que hace alusión el Reglamento respectivo en materia de transporte público.
+Para los efectos del artículo 67 fracción V de la Ley, cuando se sorprenda a un conductor, operador o chofer del servicio de transporte público, excediendo en el cobro de la tarifa autorizada, se procederá a cancelar la licencia correspondiente al servicio que presta, independientemente de lo anterior, se iniciará el procedimiento correspondiente de revocación de la concesión a que hace alusión el presente Reglamento.
 
-Para prestar servicio de transporte público en cualquiera de sus modalidades se deberá cumplir con las normas y disposiciones relativas a la protección del medio ambiente, de seguridad y protección civil, así como las normas técnicas especificas, normas oficiales mexicanas o internacionales concurrentes de acuerdo al tipo de vehículos utilizados o al servicio prestado, en los términos del artículo 97 de la Ley.
+Además de satisfacer las normas técnicas correspondientes, la Secretaría deberá autorizar las características de los modelos de los vehículos destinados a cualquiera de los Servicios, así como del equipo adicional y software relacionado correspondiente.
 
-Para prestar el servicio de trasporte público en cualquiera de sus modalidades, se deberá realizar en los vehículos que señale la norma técnica correspondiente, cumpliendo en todo momento con los requisitos y disposiciones de la Ley y de sus Reglamentos, será causa de sanción el incumplimiento con lo establecido en los artículos 174 y 192 de la Ley
+La autorización referida en el párrafo anterior se deberá publicar en el Periódico Oficial "El Estado de Jalisco" y quedar asentada en la constancia del título correspondiente. En este último supuesto, la autorización deberá ser anotada en el Registro Estatal de Movilidad y Transporte. El incumplimiento de lo establecido en este artículo impedirá la expedición de las autorizaciones para los vehículos correspondientes.
 
-Para efecto de que se analice la posibilidad por parte de la Secretaría de otorgar prórroga, renovación del título para prestar el servicio que corresponda, tomando en consideración el cumplimiento en la calidad del servicio, o incurra de forma reiterada y sistemática en infracciones consideradas graves y por violaciones sustanciales a la Ley o a los Reglamentos que contravenga las disposiciones enunciadas en el párrafo anterior, para lo cual deberá cumplir con los requisitos enunciados en el artículo 105 de la Ley, para tal efecto la Secretaría a través de la Unidad Administrativa correspondiente deberá revisar el expediente y emitir la resolución respectiva.
+Para prestar servicio de transporte público en cualquiera de sus modalidades se deberá cumplir con las normas y disposiciones relativas a la protección del medio ambiente, de seguridad y protección civil, así como las normas técnicas específicas, normas oficiales mexicanas o internacionales concurrentes de acuerdo al tipo de vehículos utilizados o al servicio prestado, en los términos del artículo 97 de la Ley.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+Para prestar el servicio de trasporte público en cualquiera de sus modalidades, se deberá realizar en los vehículos que señale la norma técnica correspondiente, cumpliendo en todo momento con los requisitos y disposiciones de la Ley y de sus Reglamentos, será causa de sanción el incumplimiento con lo establecido en los artículos 174 y 192 de la Ley.
 
-Para llevar a cabo las transmisiones, gravamen, enajenación o sustitución de cualquiera de las modalidades de transporte público, la Secretaría previamente deberá aprobar cualquier cambio de situación legal de los títulos o permisos correspondientes en los términos del artículo 146 de la Ley, cuando no se trate de servicio de transporte bajo demanda mediante aplicaciones móviles en cuyo caso las autorizaciones otorgadas y los derechos que de las mismas se deriven no serán susceptibles de transmisión o sucesión alguna; por lo que al sujeto de la autorización le queda estrictamente prohibida toda transmisión o cesión de los derechos que la misma le conceda; cualquier estipulación o pacto de voluntades en contrario, quedará sin efectos con independencia de las responsabilidades a que diera lugar.
+Para efecto de que se analice la posibilidad por parte de la Secretaría de otorgar prórroga, renovación de las Concesiones, Permisos o Autorizaciones título para prestar el servicio que corresponda, tomando en consideración el cumplimiento en la calidad del servicio, o incurra de forma reiterada y sistemática en infracciones consideradas graves y por violaciones sustanciales a la Ley o a los Reglamentos que contravenga (sic) las disposiciones enunciadas en el párrafo anterior, para lo cual deberá cumplir con los requisitos enunciados en el artículo 105 de la Ley, para tal efecto la Secretaría a través de la Unidad Administrativa correspondiente deberá revisar el expediente y emitir la resolución respectiva.
 
-Para los efectos del artículo 191 fracción VII de la Ley se entenderá que se aplican condiciones diferentes a las autorizadas en la prestación del servicio cualquier incumplimiento o contravención a lo dispuesto por la Ley y el presente Reglamento y el Reglamento específico en materia de transporte público.
+Para llevar a cabo las transmisiones, gravamen, enajenación o sustitución de cualquiera de las modalidades de transporte público, la Secretaría previamente deberá aprobar cualquier cambio de situación legal de los títulos o permisos correspondientes en los términos del artículo 146 de la Ley; cuando no se trate de servicio de transporte bajo demanda mediante aplicaciones móviles en cuyo caso las autorizaciones otorgadas y los derechos que de las mismas se deriven no serán susceptibles de transmisión o sucesión alguna; por lo que al sujeto de la autorización le queda estrictamente prohibida toda transmisión o cesión de los derechos que la misma le conceda; cualquier estipulación o pacto de voluntades en contrario, quedará sin efectos con independencia de las responsabilidades a que diera lugar.
 
-Los vehículos con los cuales deban de prestarse en las diferentes modalidades de servicios de transporte público que contempla la Ley, deberán cumplir con la norma técnica correspondiente e ingresar o sustituirse en los términos del Reglamento específico.
+Para los efectos del artículo 191 fracción VII de la Ley se entenderá que se aplican condiciones diferentes a las autorizadas en la prestación del servicio, cualquier incumplimiento o contravención a lo dispuesto por la Ley y en el presente Reglamento.
+
+Los vehículos con los cuales deba prestarse el servicio público de transporte en las diferentes modalidades que contempla la Ley, deberán cumplir con la norma técnica correspondiente al ingresar o sustituirse en los términos del presente Reglamento.
+
+Las autorizaciones para los vehículos que prestan el servicio de transporte público, serán expedidas a razón de una por cada vehículo, aun cuando las concesiones otorgadas comprendan varios vehículos.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 210 Bis.
+
+Los vehículos del transporte público colectivo de pasajeros urbano, conurbado o Metropolitano que se encuentren en servicio, deberán tener una antigüedad máxima de diez años a partir de su fabricación, y serán sustituidos por el concesionario o permisionario, cuando se cumpla este período; en el caso de los vehículos del transporte Masivo de Pasajeros y los del transporte Colectivo de pasajeros, estos últimos que utilicen gas natural, sean vehículos eléctricos o híbridos, se podrá prorrogar la sustitución por un periodo de hasta cinco años más, como beneficio por la eficiencia energética y ambiental, previo dictamen técnico sobre contaminantes a la atmósfera emitido por la Secretaría de Medio Ambiente y Desarrollo Territorial conforme a la Normas Oficial Mexicanas (sic); además de la revista mecánica por parte de la Secretaría del Transporte.
+
+Para efectos del artículo 126 de la Ley, la Secretaría detallará en las resoluciones establecedoras de las rutas para el Servicio Masivo o el Servicio Colectivo el número de vehículos necesarios para cumplir con los porcentajes determinados en dicho artículo, pudiendo implantar un porcentaje mayor, en cuyo caso se evitará afectar las relativas rentabilidades razonables en términos del artículo 114 de la Ley. Tanto la Secretaría como los concesionarios deberán publicitar los horarios de servicio de los vehículos que cuenten con adaptaciones para personas con discapacidad.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE AGOSTO DE 2019)</small>
+
+#### SECCIÓN PRIMERA. DE LOS CONCURSOS
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 210 Ter.
+
+Los concursos para el otorgamiento de concesiones, para cualquiera de los servicios se llevarán a cabo conforme a las bases y el procedimiento que establezca la Secretaría.
+
+Los concursos se realizarán en primer término de manera específica, en donde participarán los prestadores del servicio que se encuentren operando la ruta con título vigente; en caso de que se declare desierta, se emitirá una nueva convocatoria de manera abierta.
+
+Para el caso de otorgamiento de permisos de taxi se estará a lo establecido en los artículos 116 y 117 de la Ley de Movilidad y Transporte del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 210 Quater.
+
+Las bases de las convocatorias deberán contener, entre otros:
+
+I. La descripción de las concesiones concursadas en forma detallada que permita inequívocamente conocer su objeto y alcance;
+
+II. Los requisitos que deberán cumplir los interesados para poder participar;
+
+III. El mecanismo para la presentación de las solicitudes y propuestas;
+
+IV. El mecanismo para que los concursantes acrediten su existencia legal y personalidad jurídica, para efectos de la suscripción de las solicitudes y propuestas;
+
+V. Los criterios de evaluación que la Secretaría utilizará para la asignación de los puntos y porcentajes de las solicitudes y propuestas.
+
+VI. Las causas de desechamiento; y
+
+VII. Así como el otorgamiento de las concesiones.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 210 Quinquies.
+
+En los concursos para el otorgamiento de concesiones para cualquiera de los Servicios, los concursantes deberán presentar sus solicitudes y propuestas por escrito.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 210 Sexies.
+
+En los concursos para el otorgamiento de concesiones para cualquiera de los servicios, para la evaluación de solicitudes y propuestas, la Secretaría utilizará los criterios que haya indicado en las convocatorias.
+
+En todos los casos, la Secretaría deberá verificar que las solicitudes y propuestas cumplan con los requisitos solicitados en la convocatoria.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 210 Septies.
+
+En los concursos de las convocatorias de manera abierta, los desempates se llevarán a cabo a través de los criterios de evaluación que haya establecido la Secretaría en las bases de la ruta a concursar.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 210 Octies.
+
+Los fallos de los concursos se darán a conocer mediante publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Artículo 210 Novies. La Secretaría declarará desiertos los concursos para el otorgamiento de concesiones para cualquiera de los Servicios cuyas solicitudes y propuestas no hayan reunido los requisitos establecidos en la convocatoria.
+
+En los fallos de los concursos que se declaren desiertos, la Secretaría deberá fundar y motivar las razones por las cuales se da la determinación.
+
+Cuando se haya declarado desierto el concurso en primera convocatoria y persista la necesidad de los Servicios, la Secretaría emitirá una segunda convocatoria de manera abierta para los interesados que pudieran participar, en los cuales los prestadores del servicio de la ruta a concursar no gozarán su derecho de preferencia.
+
+La Secretaría podrá cancelar total o parcialmente los concursos por caso fortuito o fuerza mayor mediante resolución que deberá ser publicada en el Periódico Oficial “El Estado de Jalisco”, en la que se precise los hechos motivo de esa decisión.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 210 Decies.
+
+Los concursantes en ningún caso tendrán derecho a solicitar el reembolso de los gastos en que respectivamente hayan incurrido con motivo de los mismos concursos para el otorgamiento de concesiones para cualquiera de los Servicios.
 
 ###### Artículo 211.
 
 Para garantizar los derechos de los usuarios, la Secretaría mediante la Unidad Administrativa que designe, realizará operativos aleatorios, permanentes, itinerantes y discrecionales, para verificar que los concesionarios, subrogatarios y permisionarios del transporte público de pasajeros, de carga y especializados en cualquiera de las modalidades contempladas en la Ley, cumplan con las disposiciones de la Ley, los Reglamentos emanados de ella, y las normas técnicas correspondientes, así como que se garantice la seguridad, comodidad, higiene y eficiencia para los usuarios del Transporte Público.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 211 Bis.
+
+Para los efectos de lo establecido en los artículos 145 y 146 de la Ley, el procedimiento de revocación se iniciará de oficio o a petición de parte, mediante escrito que deberá presentarse ante la Secretaría. La Dirección General Jurídica de la Secretaría, será la instancia para instruir dicho procedimiento.
+
+El procedimiento se inicia con el auto de radicación, que deeá (sic) dictarse en un plazo no mayor de cinco días hábiles contados a partir de la fecha en que se presente la solicitud, o se ordene el inicio de dicho procedimiento por parte del Secretario.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 211 Ter.
+
+El inicio del procedimiento de revocación, será notificado a la persona física o jurídica titular de la concesión, permiso, autorización o contrato de subrogación, con el objeto de que manifieste lo que a su derecho convenga y ofrezca pruebas dentro de los cinco días contados a partir de que surta efectos la notificación de dicho auto.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 211 Quáter.
+
+Transcurrido este último plazo si comparece el interesado se abrirá el periodo de desahogo de pruebas por cinco días hábiles. En caso de que no comparezca el interesado se tendrá por perdido el derecho para ofrecer pruebas, salvo pruebas supervinientes, mismas que se podrán ofrecer hasta antes de que se dicte resolución dentro del procedimiento administrativo.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 211 Quinquies.
+
+Concluido el periodo para el desahogo de las pruebas se pondrá el expediente a la vista de las partes para que en un plazo de tres días hábiles manifiesten lo que a su derecho convenga. Al término de este plazo, comparezcan o no los interesados, la autoridad emitirá la resolución del expediente dentro del plazo de quince días hábiles siempre y cuando el mismo no exceda de 100 fojas; si la cantidad de éstas es mayor será de 30 días hábiles.
+
+Las resoluciones en donde se determine la aplicación de una sanción serán suscritas por el Secretario.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 211 Sexies.
+
+En este procedimiento se aplicará supletoriamente la Ley del Procedimiento Administrativo del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 211 Septies.
+
+Sin perjuicio de las demás disposiciones de la Ley y del Reglamento que establezcan supuestos que causen la revocación de las concesiones, para efectos del artículo 146 fracción IX de la Ley, las siguientes irregularidades serán consideradas graves:
+
+I. El incumplimiento de la oferta realizada para obtener la concesión correspondiente;
+
+II. La presentación de documentos falsos en las promociones o trámites ante la Secretaría;
+
+III. El cumplimiento engañoso de las normas técnicas aplicables;
+
+IV. El incumplimiento reiterado de las normas técnicas aplicables;
+
+V. El incumplimiento de las obligaciones derivadas de los sistemas aplicables que haya establecido la Secretaría;
+
+VI. La explotación de los títulos con vehículos que no correspondan a los autorizados;
+
+VII. La conducción de los vehículos destinados a la prestación del transporte público en cualquiera de sus modalidades por personas físicas que no cuenten con la licencia correspondiente a la prestación del servicio, así como sus respectivos gafetes;
+
+VIII. El incumplimiento reiterado de las disposiciones de tránsito aplicables relativas a velocidad o señalizaciones en la operación o conducción de los vehículos destinados a la prestación del servicio público en cualquiera de sus modalidades;
+
+IX. La existencia de quejas reiteradas relativas a la prestación del servicio o a negativas injustificadas a prestar aquél; y
+
+X. No entregar la información que haya precisado la Secretaría en los tiempos aplicables y conforme al procedimiento correspondiente.
+
+En el caso del resto de las concesiones y autorizaciones de las modalidades de transporte público, tales como taxis, carga con grúa, transporte especializado:
+
+I. Tomar pasaje en la vía pública cuando las concesiones correspondientes no sean bajo la modalidad con parada libre;
+
+II. Prestar el servicio fuera de las zonas geográficas correspondientes en supuestos distintos a los expresamente previstos por las disposiciones legales y reglamentarias; y
+
+III. La existencia de quejas reiteradas de incumplimiento en la calidad de la prestación del servicio correspondiente a cada modalidad.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE AGOSTO DE 2019)</small>
+
+#### SECCIÓN SEGUNDA. DE LA REVERSIÓN
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 211 Octies.
+
+En los casos en que el Ejecutivo del Estado ejerza el derecho de reversión previsto en el artículo 148 de la Ley, la Secretaría deberá emitir la declaración de utilidad pública de las concesiones que se pretenden revertir, así como establecer la causa de interés público prevista en el artículo 146 fracción XII de la Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Artículo 211 Novies. Son causas de utilidad pública e interés público:
+
+I. Prestar el servicio público de transporte de forma regular, continua, permanente e ininterrumpida;
+
+II. Garantizar el derecho de movilidad de las personas;
+
+III. Suministrar el servicio en la forma y términos que se establecen en la Ley, reglamentos, normas técnicas y demás disposiciones aplicables;
+
+IV. Proporcionar el servicio en condiciones de seguridad que eviten accidentes que provoquen daños patrimoniales, lesiones graves o causen la muerte de las personas;
+
+V. Garantizar el cumplimiento de las resoluciones de la Comisión de Tarifas o del Ejecutivo del Estado, según corresponda;
+
+VI. Asegurar el libre tránsito en las vías públicas en forma permanente, evitando que éste se vea interrumpido por causas inherentes a los prestadores del servicio;
+
+VII. Atender emergencias que se produzcan como consecuencia de calamidades públicas o perturbación grave del orden público; y
+
+VIII. Proteger los intereses de la población para que el servicio público de transporte se preste en condiciones de eficiencia, seguridad y calidad.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 211 Decies.
+
+Para efectos de la declaratoria correspondiente, la Secretaría acreditará, en un dictamen técnico que emita, las causas de utilidad pública e interés público.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Artículo 211 Undecies. Con base en dicha declaratoria, el Gobernador expedirá el Acuerdo mediante el cual, en ejercicio de la facultad de reversión, extingue las concesiones que corresponda. Ese Acuerdo deberá publicarse en el Periódico Oficial "El Estado de Jalisco" y surtirá efectos legales como notificación a los afectados.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Artículo 211 Duodecies. El Poder Ejecutivo definirá y ejecutará las medidas emergentes para garantizar la prestación del servicio en las rutas afectadas por las concesiones objeto de la reversión.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Artículo 211 Terdecies. En los casos en que el Ejecutivo del Estado ejerza el derecho de reversión previsto en el artículo 148 de la Ley, el procedimiento se sujetará a lo dispuesto en el presente reglamento.
 
 ###### Artículo 212.
 
@@ -3257,19 +3487,197 @@ El transporte público comprende las modalidades descritas en el artículo 85 de
 
 ### CAPÍTULO II. TRANSPORTE PÚBLICO DE PASAJEROS, MASIVO, COLECTIVO, TAXI CON SITIO Y RADIOTAXIS
 
-###### Artículo 213.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
-Las disposiciones no contenidas en el presente Reglamento, respecto de las diferentes modalidades del servicio público de transporte, se remitirán a las reglas de operación y trámites señalados en el Reglamento específico.
+###### Artículo 213.
 
 Los conductores que presten el servicio en cualquier modalidad de transporte público deberán cursar y acreditar la capacitación que la Unidad Administrativa de la Secretaría implemente para cada caso y cumplir con las disposiciones de la Ley, el presente Reglamento y las normas técnicas correspondientes.
 
 El transporte público en todas sus modalidades tiene la obligación de registrar cualquier trámite, solicitud, o cambio de titular y en general todo proceso inherente a la prestación del servicio en los términos del Reglamento del Registro Estatal.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE AGOSTO DE 2019)</small>
+
+#### SECCIÓN PRIMERA. DE LAS RUTAS
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 213 Bis.
+
+Para el otorgamiento de las concesiones y subrogaciones, la Secretaría determinará y establecerá previamente las rutas necesarias para otorgar el Servicio.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 213 Ter.
+
+Por ruta del Servicio Colectivo o Servicio Masivo se entenderá el camino entre dos puntos específicos localizados en un centro de población del Estado, que recorre vías públicas, que tiene trayecto de ida y regreso respecto de cada uno de los puntos referidos, que a su largo tiene paradas específicas por la cuales los vehículos tienen que pasar o detenerse con una frecuencia específica y conexa con los horarios o sub horarios de operación predeterminados relativos.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 213 Quater.
+
+Las rutas del Servicio Colectivo podrán ser de una de las siguientes categorías:
+
+I. Alimentadoras: cuando los itinerarios correspondientes comprendan la totalidad o tramos de vías públicas que usualmente tengan por lo menos dos carriles en cada sentido y comúnmente sean utilizadas por los usuarios de la red de vías públicas para tomar vías públicas mayoritariamente se correspondan con rutas troncales;
+
+II. Complementarias: son rutas que tiene (sic) la función de enlazar itinerarios con condiciones de dependencia al sistema troncal, el cual favorece al traslado de los usuarios del servicio sin que se incremente (sic) substancialmente los costos generales del viaje;
+
+III. Corredores: son rutas troncales o conjuntos de rutas que comprendan cuando menos una ruta troncal, cuyos Servicios Colectivo o Masivo se preste sobre carriles exclusivos o preferentes y, en el caso de los conjuntos de rutas, de forma coordinada;
+
+IV. Cuenca de servicio: son conjuntos de rutas que se encuentran dentro de la misma área de un polígono cuyos límites coinciden con rutas troncales o alimentadoras en todas o algunas de las cuales afluyen;
+
+V. Troncales: cuando los itinerarios correspondientes comprendan la totalidad o tramos de vías públicas cuyos respectivos anchos en cada sentido de circulación, volúmenes de tráfico y continuidades hagan recurrente la transportación de cuando menos mil pasajeros en cada sentido en horas pico.
+
+Se entenderá por carril exclusivo aquél sobre el cual sólo puedan transitar vehículos destinados al Servicio Masivo, en el cual estén prohibidas todas o la mayoría de las vueltas físicamente posibles para otros vehículos, y en relación con el cual exista señalización para priorizar el paso de los vehículos destinados al Servicio Masivo, donde aplique.
+
+Asimismo, se entenderá que carril preferente es aquél sobre el cual, por regla general, solo puedan transitar vehículos destinados al Servicio Masivo o al Servicio Colectivo, y excepcionalmente los vehículos de emergencia que se encuentren atendiendo alguna incidencia, a través del cual estén prohibidas la mitad o algunas de las vueltas físicamente posibles para otros vehículos, y en relación con el cual exista señalización para priorizar el paso de los vehículos destinados al Servicio Masivo o al Servicio Colectivo, donde aplique.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 213 Quinquies.
+
+Las rutas del Servicio Colectivo podrán ser:
+
+I. Diurnas, cuando el horario de operación respectivo sea entre las 6 y las 22 horas;
+
+II. Nocturnas, cuando el horario de operación respectivo sea entre las 22 y las 6 horas; o
+
+III. Permanentes, cuando el horario de operación respectivo sea de 24 horas.
+
+Las rutas del Servicio Masivo podrán ser permanentes conforme a la fracción III anterior.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 213 Sexies.
+
+Las rutas nocturnas podrán tener derroteros diferentes a los de las rutas diurnas. Las rutas diurnas o nocturnas no podrán tener derroteros idénticos a los de rutas permanentes. No obstante, podrán concurrir con ellas en los términos del artículo 99 fracción III de la Ley. La Secretaría resolverá lo necesario para que los concesionarios para rutas permanentes ofrezcan el servicio correspondiente entre las 22 y las 6 horas.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 213 Septies.
+
+Solo los centros de población con más de cincuenta mil habitantes podrán tener corredores en términos del artículo 213 Quáter de este Reglamento. El establecimiento de corredores o cuencas de servicio referidas en dicho artículo 213 Quáter del presente Reglamento será considerado de interés público, para efectos del artículo 146 fracción XII de la Ley. Las rutas que formen parte de los mismos corredores o cuencas de servicio serán simultáneamente establecidas mediante una sola resolución.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 213 Octies.
+
+Los corredores que sean conjuntos de rutas podrán comprender rutas tanto del Servicio Masivo como del Servicio Colectivo.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Artículo 213 Novies. Sólo podrán concurrir con rutas del Servicio Masivo por tramos con paradas específicas, las rutas del Servicio Colectivo que formen parte de los mismos corredores que aquéllas, o que sean funcionalmente alimentadoras de dichas rutas del Servicio Masivo. Las concesiones para rutas integradas en Corredores de transporte o cuencas de servicio serán asignadas, preferentemente a la misma persona jurídica.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 213 Decies.
+
+Cuando la Secretaría armonice dos o más rutas para el Servicio Masivo o el Servicio Colectivo en términos del artículo 99 fracción III de la Ley, publicará la resolución correspondiente y dará aviso de la misma al Registro Estatal de Movilidad y Transporte, a efecto de que éste realice las anotaciones. Dicha resolución detallará los itinerarios, las frecuencias para cada una de las paradas respectivas y los horarios correspondientes.
+
+La Secretaría reexpedirá los títulos correspondientes a las rutas afectadas por una armonización de conformidad con el artículo 99 fracción III de la Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Artículo 213 Undecies. El Servicio de características especiales se distinguirá por las especificaciones de las Normas Técnicas relativas a elementos que directamente repercutan en un mayor confort de los usuarios.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Artículo 213 Duodecies. Sólo se establecerán rutas para el Servicio de características especiales en los centros de población con más de cincuenta mil habitantes.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Artículo 213 Terdecies. El criterio económico en la armonización de rutas a que se refiere el artículo 99 fracción III de la Ley, no aplicará cuando solo una de las rutas a armonizar pertenezca al Servicio de características especiales.
+
+Lo anterior será sin perjuicio de la armonización de rutas respecto de paradas, horarios y frecuencia que resulte necesaria para el orden deseable en la prestación del Servicio; y cuando se prevea el establecimiento o modificación de rutas de Servicio de características especiales que concurran parcial o totalmente con alguna de las demás modalidades del Servicio.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE AGOSTO DE 2019)</small>
+
+#### SECCIÓN SEGUNDA. DEL SERVICIO DE TRANSPORTE PÚBLICO DE TAXI CON SITIO Y RADIO TAXI
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Artículo 213 Quaterdecies. Las concesiones para el Servicio de Taxi podrán cambiar de modalidad sujeto a la autorización de la Secretaría, la cual, entre otros, requerirá lo siguiente:
+
+I. Cuando el cambio sea de la modalidad de sitio a la de radiotaxi, los concesionarios deberán presentar la solicitud también firmada por los titulares de las matrices centrales de radiocomunicación en cuestión; y
+
+II. Cuando el cambio sea de la modalidad de radiotaxi a la de sitio, los concesionarios deberán presentar la solicitud también firmada por los titulares del sitio o la matriz en cuestión.
+
+Las concesiones del Servicio de Taxi que no tengan autorización para realizar paradas libres, no podrán cambiar de modalidad para tenerla.
+
+Solo podrán ser titulares de una autorización para sitio, matriz de control o matriz central de radiocomunicación las personas jurídicas que formen concesionarios del servicio de taxi con la misma modalidad, los cuales tendrán que ser por lo menos veinte.
+
+No podrán ser titulares de la autorización referida las personas físicas o jurídicas que hayan estado involucradas en la prestación ilegal de servicios de transporte de pasajeros a cambio de una tarifa.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Artículo 213 Quindecies. Cuando veinte o más concesionarios para el Servicio de Taxi en la modalidad de radiotaxi se integren a personas jurídicas que tengan autorización para una matriz de control de sitios, dicha matriz podrá ser además central de radiocomunicación. Lo anterior es sin perjuicio de la obligación de dichas personas jurídicas de obtener las autorizaciones relativas y satisfacer todos los demás requisitos aplicables.
+
+Los titulares de autorizaciones para sitios o matrices centrales de radiocomunicación podrán cobrar cuotas a los concesionarios cuyos vehículos tengan su base en dichos sitios o estén adscritos a dichas centrales de radiocomunicación.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Artículo 213 Sedecies. Los vehículos destinados al servicio de taxi con la modalidad de sitio podrán hacer base en cualquiera de los sitios que estén adscritos a su matriz de control.
+
+Los sitios del Servicio de Taxi que sean derivaciones tendrán una denominación distinta, pero tendrán la misma clave que stas (sic).
+
+La Secretaría establecerá paraderos públicos, para que en ellos puedan hacer base y tomar pasajeros:
+
+I. Los vehículos destinados al Servicio de Taxi con la modalidad de sitio, cuando estén a más de dos kilómetros de sus respectivos sitios; y
+
+II. Los vehículos destinados al Servicio de Taxi con la modalidad de radiotaxi.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Artículo 213 Septiesdecies. Los vehículos destinados al servicio de taxi podrán cambiar de los sitios a que estén adscritos, por medio de solicitud presentada a la Secretaría acompañada de la documentación correspondiente, y firmada por los concesionarios y titulares de las autorizaciones de sitio.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Artículo 213 Duodevicies. Las autorizaciones para sitios, matrices de control o matrices centrales de radiocomunicación deberán ser renovadas anualmente debiendo anotarse dicha renovación en el Registro Estatal de Movilidad y Transporte. La constancia de las renovaciones deberá ser visiblemente expuesta en los sitios o matrices centrales de radiocomunicación relativas.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Artículo 213 Undevicies. Las autorizaciones para sitio, matrices de control o matrices centrales de radiocomunicación podrán ser transmitidas previa autorización de la Secretaría. Para que dichas transmisiones surtan efectos, deberán ser anotadas en el Registro Estatal de Movilidad y Transporte.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Artículo 213 Vicies. Los vehículos destinados al Servicio de Taxi podrán cambiar de los sitios que sean su base o de las matrices centrales de radiocomunicación a que estén adscritos, por medio de solicitud presentada a la Secretaría, acompañada de la documentación correspondiente, y firmada por los concesionarios y titulares de las autorizaciones de sitio, matrices de control o matrices de radiocomunicación.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Artículo 213 Vicies Semel. Causará la revocación de las autorizaciones para sitios, matrices de control o matrices centrales de radiocomunicación:
+
+I. El incumplimiento de las obligaciones de pago de derechos municipales y estatales;
+
+II. El incumplimiento de las normas técnicas aplicables, salvo por lo que las mismas autorizaciones precisen como excepción;
+
+III. La revocación dentro de un período de trescientos sesenta días de las concesiones para el quince por ciento de los vehículos correspondientes; y
+
+IV. La disolución de la persona jurídica que sea la titular de la concesión.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE AGOSTO DE 2019)</small>
+
+#### SECCIÓN TERCERA. DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Artículo 213 Vicies Bis. El objeto de los contratos referidos en el artículo 161 de la Ley será otorgar las concesiones correspondientes a organismos públicos descentralizados cuyo objeto sea la prestación del Servicio Colectivo, de forma tal que pasen a formar parte del patrimonio de éstos. Consecuentemente, dichos organismos serán concesionarios para las rutas que deban brindar el Servicio Colectivo, y les serán aplicables las disposiciones legales y reglamentarias relativas a los concesionarios correspondientes.
+
+Los convenios referidos en el artículo 161 de la Ley no durarán más de diez años. Las solicitudes de prórrogas correspondientes se regirán conforme a las disposiciones legales y reglamentarias relativas a las prórrogas para Concesiones.
+
+Toda vez que las subrogaciones serán accesorias a las concesiones de los organismos públicos descentralizados correspondientes, las disposiciones referidas en el primer párrafo también serán aplicables a los subrogatarios relativos, salvo aquellas que sean específicas para ellos.
+
+El cumplimiento de las obligaciones para los subrogatarios derivadas de la Ley o el Reglamento deberá incluirse como objeto de las subrogaciones.
+
+La contraprestación de los subrogatarios será una cantidad fija mensual.
+
+Los ingresos por la prestación del Servicio Colectivo prestado por un organismo público descentralizado pertenecerán y serán administrados por el mismo organismo.
+
 ### CAPÍTULO III. DE LAS PRÓRROGAS PARA LOS TÍTULOS CON LOS QUE SE PRESTA EL SERVICIO DE TRANSPORTE PÚBLICO EN TODAS LAS MODALIDADES
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 214.
 
-Para obtener, prorrogar o transmitir una concesión, permiso, subrogación y autorización para operar y prestar el servicio de transporte público en las modalidades dispuestas por la Ley, deberá presentarse una solicitud en los términos de la convocatoria correspondiente o cumplir con los requisitos especiales contenidos en la Ley, el presente Reglamento y en el Reglamento específico.
+Para obtener, prorrogar o transmitir una concesión, permiso, subrogación y autorización para operar y prestar el servicio de transporte público en las modalidades dispuestas por la Ley, deberá presentarse una solicitud en los términos de la convocatoria correspondiente o cumplir con los requisitos especiales contenidos en la Ley y el presente Reglamento.
 
 ### CAPÍTULO IV. DE LAS OBLIGACIONES DE LOS PRESTADORES DEL SERVICIO DE TRANSPORTE PÚBLICO
 
@@ -3737,7 +4145,9 @@ Las características de los vehículos de autos de arrendamiento serán las sigu
 
 I. Se podrán utilizar vehículos de cinco y hasta quince plazas con equipo y diseño original de fábrica;
 
-II. Se podrán utilizar autos modificados que cumplan con los requisitos y normas de seguridad que señala la Ley, el presente Reglamento y los Reglamentos específicos, que serán validados y aprobados por la Secretaría;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+II. Se podrán utilizar autos modificados que cumplan con los requisitos y normas de seguridad que señala la Ley y el presente Reglamento, que serán validados y aprobados por la Secretaría;
 
 III. Bajo ninguna circunstancia podrán utilizarse vehículos de taxi o radio taxi que ya cuenten con título de concesión o portar los colores autorizados con los que se presta el servicio de transporte público antes señalado;
 
@@ -4129,6 +4539,8 @@ La maquinaria agrícola al transitar por las vías de jurisdicción estatal debe
 
 ### CAPÍTULO XXII. DE LOS GAFETES PARA LOS CONDUCTORES Y OPERADORES DE TRANSPORTE PÚBLICO
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 296.
 
 Todos los conductores u operadores de transporte público en todas las modalidades que dispone la Ley deberán contar con gafete, mismo que anualmente expedirá y validará la Secretaría al prestador del servicio, conductor u operador, quienes realizarán el trámite aportando los siguientes documentos:
@@ -4145,29 +4557,83 @@ IV. Presentar la carta de autorización que la Secretaría determinará y pondr�
 
 V. Pago de los derechos correspondientes según sea el caso;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-VI. Tratándose del servicio de taxi en todas sus modalidades, el gafete será entregado al chofer acompañado del concesionario del vehículo;
+VI. Aprobación del examen de conocimientos que la Secretaría determine, el cual, entre otros se referirá a:
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+a) Normas técnicas aplicables;
 
-VII. Los conductores del servicio de trasporte de pasajeros bajo demanda mediante aplicaciones móviles, deberán exhibir la acreditación emitida por la empresa de redes de transporte a la cual se encuentran afiliados o registrados.
+b) Manejo del equipo complementario correspondiente;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+c) En el caso del Servicio de Taxi, comprobar el conocimiento de las vías públicas, las líneas perimetrales y los caminos más cortos entre dos puntos de las zonas geográficas correspondientes;
 
-VIII. Tratándose del servicio subrogado otorgado por los organismos públicos descentralizados, deberán exhibir en copia debidamente certificada del contrato de subrogación correspondiente y del formato a que hace referencia la fracción IV del presente artículo, para los empleados que son conductores de estos organismos deberán acompañar la carta firmada por el titular del mismo;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+VII. Aprobación de los exámenes médicos, de acuerdo con el artículo 69 fracción XX del presente Reglamento;
 
-IX. Constancia de aprobación del curso de capacitación para conductor de vehículos de transporte público de pasajeros expedido por la Secretaría o el centro autorizado para tal fin, este requisito es indispensable para todas las modalidades del transporte público.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-El trámite se realizará ante la Unidad Administrativa que la Secretaría determine, la temporalidad del gafete será de un año y para su expedición se realizara en el primer semestre del año de que se trate, cuando por alguna causa su expedición sea posterior a éste término, el gafete será expedido en cualquier época del año y su vigencia culminará con el año fiscal.
+VIII. Inscripción de la licencia en el Registro;
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+IX. Tratándose del servicio de taxi en todas sus modalidades, el gafete será entregado al chofer acompañado del concesionario del vehículo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE AGOSTO DE 2019)</small>
+
+X. Los conductores del servicio de trasporte de pasajeros bajo demanda mediante aplicaciones móviles, deberán exhibir la acreditación emitida por la empresa de redes de transporte a la cual se encuentran afiliados o registrados.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE AGOSTO DE 2019)</small>
+
+XI. Tratándose del servicio subrogado otorgado por los organismos públicos descentralizados, deberán exhibir en copia debidamente certificada del contrato de subrogación correspondiente y del formato a que hace referencia la fracción IV del presente artículo, para los empleados que son conductores de estos organismos deberán acompañar la carta firmada por el titular de este;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE AGOSTO DE 2019)</small>
+
+XII. Constancia de aprobación del curso de capacitación para conductor de vehículos de transporte público de pasajeros expedido por la Secretaría o el centro autorizado para tal fin, este requisito es indispensable para todas las modalidades del transporte público.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+El trámite se realizará ante la Unidad Administrativa que la Secretaría determine, la temporalidad del gafete será de un año y para su expedición se realizará en el primer semestre del año de que se trate, cuando por alguna causa su expedición sea posterior a este término, el gafete será expedido en cualquier época del año y su vigencia culminará con el año fiscal.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 20 DE AGOSTO DE 2019)</small>
 
 En el caso de que el chofer, conductor u operador deje de laborar para la fuente de trabajo, deberá entregar a la Secretaría el gafete, para darlo de baja en el sistema correspondiente, caso contrario no podrá expedirse otro nuevo en tanto no sea entregado el anterior o la denuncia ratificada de robo o extravío.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 20 DE AGOSTO DE 2019)</small>
+
 El gafete se suspenderá o cancelará en los casos y con el procedimiento dispuesto en la Ley y el presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE AGOSTO DE 2019)</small>
+
+Para efectos del artículo 65 párrafo segundo de la Ley, si los concesionarios correspondientes son personas jurídicas, sus representantes requerirán poder general para administrar bienes en términos del Código Civil del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 296 Bis.
+
+Sin perjuicio de los demás requisitos, para que los titulares de licencia de conductor del servicio de transporte público puedan obtener sus gafetes, los prestadores del servicio deberán solicitar y obtener del Registro Estatal de Movilidad y Transporte, la anotación de la información contenida en la forma oficial aplicable. Dicha forma deberá ir acompañada de:
+
+I. Copia de los contratos de trabajo, cuando el operador no sea titular de la concesión, los cuales deberán precisar inequívocamente tanto los horarios como los mecanismos para el control de asistencia aplicables;
+
+II. Copia de las constancias de inscripción en el Registro Federal de Contribuyentes de dichos titulares de licencia; y
+
+III. Copia de las constancias de la inscripción y alta de dichos titulares de licencia ante el Instituto Mexicano del Seguro Social.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 296 Ter.
+
+Los concesionarios de cualquiera de los Servicios deberán dar aviso al Registro Estatal de Movilidad y Transporte cuando dejen de prestarles servicios (sic) conductores con gafete, en cuyo caso los gafetes correspondientes perderán vigencia desde la fecha de los avisos.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 296 Quater.
+
+Los conductores de los vehículos destinados a cualquiera de los Servicios deberán observar lo dispuesto en la Ley, sus Reglamentos y los manuales que expida la Secretaría.
+
+Para efectos del artículo 101 fracción XII de la Ley, los conductores de servicio de transporte público podrán ser asignados al conjunto de los vehículos relativos a las concesiones en cuestión, de forma tal que podrán conducir cualquiera de ellos.
+
+Los gafetes no podrán expedirse en tanto no se haya presentado el padrón a que se refiere el presente Reglamento.
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -4385,6 +4851,12 @@ Artículo 307 quinquies. Los sistemas electrónicos de las empresas de redes de 
 
 Se entenderá por publicidad los anuncios que promuevan de forma visual o auditiva el consumo de productos o servicios, ya sean de una marca, establecimiento, propaganda de institutos, fijos o movibles, en el caso de publicidad visual con material adhesivo, plástico, luminoso, de sistemas electrónicos o cualquier tipo de rótulo, logotipo, imagotipo y eslogan; y para la publicidad auditiva, perifoneo, spot publicitarios, jingle y eslogan.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 308 Bis.
+
+Es inherente a las concesiones para cualquiera de los Servicios y a las autorizaciones de sitio, matriz de control o matriz central de radiocomunicación la autorización para que los vehículos, los paradores o los sitios correspondientes porten publicidad, la cual sólo podrá utilizarse previa autorización o permiso de la Secretaría, sin perjuicio de las licencias, permisos o autorizaciones municipales correspondientes, en su caso.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 309.
@@ -4453,7 +4925,19 @@ IV. La obstrucción de transito con las unidades publicitarias, ya sea porque se
 
 V. Queda prohibida la utilización de vehículos, que no cumplan con los requisitos necesarios para circular o en el caso de vehículos de transporte público que además no cumplan con lo establecido en las normas técnicas correspondientes.
 
-La circulación de vehículos destinados al perifoneo deben tramitar su permiso en la Secretaría y sujetarse a las condiciones que se les fijen en cuanto a las vías y a las velocidades a que deben circular.
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+VI. La publicidad no podrá violar ninguna disposición normativa federal, estatal o de los municipios correspondientes; ni ser contraria a la moral o las buenas costumbres; ni causar desagrado o aversión, ni afear el paisaje urbano.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+El incumplimiento de lo establecido en estas disposiciones dará lugar a una amonestación por parte de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 316 Bis.
+
+Será causa de revocación de las concesiones o autorizaciones, la contravención de lo establecido en el artículo anterior.
 
 ###### Artículo 317.
 
@@ -4579,29 +5063,39 @@ IV. Tratándose de las infracciones contenidas en las fracciones I y II de éste
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 330.
 
-El Registro Estatal de Movilidad y Transporte es una Unidad Administrativa de la Secretaría donde tienen lugar los asientos, inscripciones e información registrable, por lo que dicha información se considera de carácter público, y sólo contará con las restricciones que en materia de información pública señale la legislación del Estado.
+El Registro Estatal de Movilidad y Transporte es una Unidad Administrativa de la Secretaría donde tienen lugar los asientos, inscripciones e información registrable, en relación a las licencias de conducir, gafete, permisos, concesiones, autorizaciones, contratos de subrogación, empresas de redes de transporte, registro de vehículo del servicio particular y del servicio público del Estado de Jalisco; en la que toda persona física o jurídica podrá obtener información o certificaciones respecto a sus asientos e inscripciones que se resguardan en la base de datos mediante solicitud por escrito, respetando para tal efecto los lineamientos estipulados en la Ley en materia de transparencia y acceso a la información vigente, así como la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado.
 
-La inscripción de los vehículos en el Estado de Jalisco se tendrá por realizada cuando conste así en la base de datos de la Secretaría en materia de finanzas. Esta información será utilizada por el Registro a efecto de poder llevar a cabo sus atribuciones en los términos de su propio Reglamento.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+La inscripción de los vehículos en el Estado de Jalisco se tendrá por realizada cuando conste así en la base de datos de la Secretaría en materia de finanzas. No podrá existir doble inscripción de un vehículo en el Registro Estatal de Movilidad y Transporte, cuando un vehículo cambie su situación para destinarse a la prestación del Servicio de Transporte Público en cualquiera de sus modalidades, deberá cancelar su inscripción previa en el citado Registro Estatal. Esta información será utilizada por el Registro a efecto de poder llevar a cabo sus atribuciones en los términos de su propio Reglamento.
 
 En los casos de los vehículos con los cuales se preste algún tipo (sic) servicio de transporte público en cualquiera de sus modalidades, además, se cumplirá con los requisitos que señala la Ley y el presente Reglamento así como el Reglamento del Registro Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 331.
 
-Para cualquier trámite relativo a la prestación del servicio de transporte público y relacionado con los servicios del Registro Estatal de Movilidad, los interesados deberán suscribir y presentar la solicitud respectiva, acompañando en todos los casos lo establecido por el Reglamento del Registro Estatal.
+Los prestadores del Servicio Público en cualquiera de sus modalidades ya sean personas Físicas o Jurídicas, deberán estar inscritos en el Registro Estatal de Movilidad y Transporte, de conformidad a lo establecido en el Reglamento del citado Registro Estatal y mantener actualizada su inscripción, para continuar prestando el servicio público de transporte relativo.
 
 No obstante lo anterior, no se suple la obligación de los Organismos Públicos Descentralizados prestadores del servicio de transporte público, en cuanto a inscribir la información y documentos con los cuales se otorgue el derecho de prestar el servicio en determinada ruta, los contratos de subrogación y demás documentos relativos a la prestación del servicio incluyendo sus modificaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 332.
 
-Serán materia de inscripción todos los actos y sus modificaciones contemplados en la Ley, los cuales deberán cumplir con lo establecido en el Reglamento del Registro.
+Serán materia de inscripción todos los actos concernientes a las personas físicas o jurídicas que cuenten con una concesión, contrato de subrogación, permiso o autorización, para la prestación del servicio público en cualquiera de sus modalidades; los titulares de autorizaciones para sitios, matrices de control o matrices centrales de radiocomunicación, y los conductores de los vehículos destinados a cualquiera de los Servicios, deberán proporcionar al Registro Estatal de Movilidad y Transporte, el domicilio, número telefónico y dirección de correo electrónico donde serán localizables, los cuales deberán cumplir con lo establecido en el Reglamento del citado Registro.
 
 Las inscripciones de cualquier trámite deberán realizarse en un término no mayor de 30 treinta días hábiles a partir de que se generen los actos.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 333.
 
-Para efectos del artículo 167 fracción VII y artículo 102 fracción II y III de la Ley, se sujetará a lo referente a la lista de sucesiones contenido en el Reglamento del Registro Estatal.
+Para efectos del artículo 102 fracción II y III y 167 fracción VII de la Ley, se sujetará a lo referente a la lista de sucesiones contenido en el Reglamento del Registro Estatal.
 
 ###### Artículo 334.
 
@@ -4617,13 +5111,17 @@ A efecto de constatar y verificar que los datos asentados en el Registro Estatal
 
 Para la inscripción de personas jurídicas se deberán reunir los requisitos establecidos en el Reglamento del Registro.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 337.
 
-Para el registro de representantes, mediante carta poder se deberá cumplir con lo establecido en el Reglamento del Registro Estatal.
+Para el registro de representantes, deberá cumplir con lo establecido en el Reglamento del Registro Estatal.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 338.
 
-Los Organismos Públicos Descentralizados del Ejecutivo del Estado cuyo objeto sea la prestación del servicio público colectivo, remitirán al Registro Estatal de manera electrónica y digital los expedientes relativos a la celebración de los contratos de subrogación con particulares.
+Los Organismos Públicos Descentralizados del Ejecutivo del Estado cuyo objeto sea la prestación del servicio público colectivo, remitirán al Registro Estatal de manera digital y física los expedientes relativos a la celebración de los contratos de subrogación con particulares.
 
 ###### Artículo 339.
 
@@ -4633,15 +5131,17 @@ Los Contratos de Subrogación que celebren los particulares con los Organismos P
 
 Los Subrogatarios podrán designar libremente a quien deba sucederlos por fallecimiento en sus derechos, única y exclusivamente sobre los derechos derivados del contrato en lo que respecta a la figura jurídica de subrogatario de acuerdo a lo establecido en el Reglamento del Registro.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 341.
 
-Los vehículos pertenecientes a empresas cuya actividad sea específicamente el arrendamiento de vehículos se sujetará a lo dispuesto por el Reglamento del Registro Estatal de Movilidad y Transporte.
+Los vehículos pertenecientes al transporte público en todas sus modalidades, deberán inscribirse y mantener actualizado su registro, sujetándose a lo dispuesto por el Reglamento del Registro Estatal de Movilidad y Transporte.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 342.
 
-Tratándose de infracciones y de las reincidencias a los supuestos contenidos en la Ley, en las que incurran los conductores, el área correspondiente deberá remitir al Registro Estatal la información de forma oportuna, permanente y actualizada, para su debido registro.
+Tratándose de infracciones contenidas en los supuestos de reincidencia contenidos en la Ley, y en el Reglamento del Registro Estatal, el área correspondiente deberá remitir al Registro Estatal la información de forma oportuna, permanente y actualizada, para su debido registro.
 
 ###### Artículo 343.
 
@@ -4655,9 +5155,11 @@ El propietario de los vehículos destinados a la prestación del servicio públi
 
 Tratándose de vehículos particulares y de transporte público que porten publicidad, se sujetarán a lo dispuesto por la Ley y el presente Reglamento. Las autorizaciones y permisos que de ésta se deriven serán sujetas de inscripción en el Registro Estatal.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 346.
 
-Las unidades administrativas de la Secretaría, remitirán de manera electrónica y digital la información relativa a los procesos y trámites que generen y que sean objeto de inscripción en el Registro Estatal.
+Las diversas áreas administrativas de la Secretaría, remitirán de manera digital y física la información relativa a los procesos y trámites que generen y que sean objeto de inscripción en el Registro Estatal.
 
 ###### Artículo 347.
 
@@ -4677,7 +5179,9 @@ El Registro Estatal, realizará las modificaciones y anotaciones al Padrón de L
 
 Las disposiciones del presente Reglamento así como la Ley son de orden público e interés general, debiéndose aplicar supletoriamente en lo conducente y no previsto, las disposiciones de la Ley que regule el procedimiento administrativo del Estado de Jalisco.
 
-Lo dispuesto por éste título será llevado a cabo en todas sus partes por las unidades administrativas que el titular de la Secretaría designe, asimismo y lo referente a los procedimientos administrativos que en materia de transporte público se generen serán desahogados en los términos de los Reglamentos específicos.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Lo dispuesto por este título será llevado a cabo en todas sus partes por las unidades administrativas que el titular de la Secretaría designe, asimismo y lo referente a los procedimientos administrativos que en materia de transporte público se generen serán desahogados en los términos del presente Reglamento.
 
 Los procedimientos administrativos que la Secretaría realice, ya sea por queja o que inicie de oficio cuando se trate de deficiencias en la calidad del servicio de transporte público, se deberá sujetar al procedimiento que señala la Ley, así como los Reglamentos emanados de ella, y a la Ley que regula el Procedimiento Administrativo en el Estado de Jalisco.
 
@@ -4741,7 +5245,9 @@ II. Emisión, suspensión y cancelación de gafetes de identificación de operad
 
 III. Queja en contra de la prestación del servicio de transporte público en cualquiera de sus modalidades, de oficio o a petición de parte; y
 
-IV. Otorgamiento, revocación, modificación, extinción o declaración de vacante de concesiones, permisos, autorizaciones y subrogaciones para la prestación del servicio de transporte público en las modalidades descritas por la Ley y en los Reglamentos específicos.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+IV. Otorgamiento, revocación, modificación, extinción o declaración de vacante de concesiones, permisos, autorizaciones y subrogaciones para la prestación del servicio de transporte público en las modalidades descritas por la Ley y el presente Reglamento.
 
 ###### Artículo 353.
 
@@ -4769,7 +5275,9 @@ IV. La petición o argumentos que se formulen;
 
 V. La descripción cronológica, clara y sucinta de los hechos y razones en los que se apoye la petición;
 
-VI. Los requisitos que señale la Ley y el presente Reglamento o los Reglamentos específicos, ofreciendo, en su caso, las pruebas cuando sean necesarias, para acreditar los hechos argumentados y la naturaleza del acto que así lo exija;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+VI. Los requisitos que señale la Ley y en el presente Reglamento, ofreciendo, en su caso, las pruebas cuando sean necesarias, para acreditar los hechos argumentados y la naturaleza del acto que así lo exija;
 
 VII. Nombre y domicilio de terceros en el caso de existir; y
 
@@ -4991,6 +5499,12 @@ El procedimiento para aplicar una medida de seguridad se llevará a cabo cumplie
 
 La Policía Vial Estatal o Policía de Tránsito Municipal, en el ejercicio de sus actividades deberá actuar siempre en apego estricto a la Ley y al Reglamento respectivo, cuidando que los hechos o actos que se le imputen al infractor estén plenamente acreditados.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+###### Artículo 381 Bis.
+
+Para efectos de lo establecido en los artículos 73 y 169 fracción III de la Ley, podrán ser retirados de la circulación en las vías públicas los vehículos destinados a cualquiera de los Servicios que no cumplan con las normas técnicas aplicables.
+
 ### CAPÍTULO II. DE LAS SANCIONES A CONDUCTORES BAJO El INFLUJO DEL ALCOHOL, DROGAS, ESTUPEFACIENTES O PSICOTRÓPICOS
 
 ###### Artículo 382.
@@ -5198,3 +5712,13 @@ P.O. 31 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DIGELAG ACU 040/2017 DEL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE JALISCO, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO".]
 
 ÚNICO.- Este Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DIELAG ACU/062/2019 DEL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE JALISCO, MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL REGLAMENTO DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se abroga el Acuerdo DIGELAG ACU 012/2014 del Ciudadano Gobernador Constitucional del Estado de Jalisco, mediante el cual se expide (sic) Reglamento para Regular el Servicio de Transporte Público Colectivo, Masivo, de Taxi y Radiotaxi en el Estado de Jalisco publicado el día 15 de Marzo del 2014, en el Periódico Oficial “El Estado de Jalisco”.
+
+TERCERO. Durante el periodo de la migración a la nueva política de transporte, la Secretaría permitirá, a las personas jurídicas que obtenga (sic) la Concesión, continúen prestando el servicio de transporte público colectivo de pasajeros con unidades de 10 años o más, siempre y cuando el concesionario entregue a la Secretaría, el documento fehaciente donde conste la orden de compra o carta de pedimento del fabricante, para la renovación de la flota.
