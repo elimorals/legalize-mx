@@ -4,7 +4,7 @@ identifier: "TAM-ley-electoral-del-estado-de-tamaulipas-108584"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-13"
-last_updated: "2019-03-06"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108584&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ELECTORAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Anexo Extraordinario Número 4 del Periódico Oficial del Estado de Tamaulipas, el sábado 13 de junio de 2015.
 
@@ -3711,7 +3711,9 @@ VIII. Cuando el IETAM conozca del incumplimiento por parte de los notarios públ
 
 IX. Cuando el IETAM tenga conocimiento de la comisión de una infracción por parte de los ministros de culto, asociaciones religiosas, iglesias o agrupaciones de cualquier religión, informará a la Secretaría de Gobernación para los efectos legales conducentes; y
 
-X. Respecto de las autoridades o los servidores públicos de los poderes públicos, órganos autónomos, órganos de gobierno municipales y cualquier otro ente público del Estado, en términos de los artículos 151 de la Constitución Política del Estado de Tamaulipas; 53 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas y demás relativos aplicables de los mismos ordenamientos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE AGOSTO DE 2019)</small>
+
+X. Respecto de las autoridades o los servidores públicos de los poderes públicos, órganos autónomos, órganos de gobierno municipales y cualquier otro ente público del Estado, en términos del artículo 151 de la Constitución Política del Estado de Tamaulipas; de las disposiciones establecidas en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas y demás relativos aplicables de los mismos ordenamientos:
 
 a) Apercibimiento privado o público;
 
@@ -4001,6 +4003,8 @@ En el desahogo de los puntos de la orden del día en que el Consejo deba resolve
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 342.
 
 Durante los procesos electorales, la Secretaría Ejecutiva instruirá el procedimiento especial establecido por el presente capítulo, cuando se denuncie la comisión de conductas que:
@@ -4091,7 +4095,7 @@ En la sesión respectiva el Consejo General conocerá y resolverá sobre el proy
 
 ###### Artículo 352.
 
-A falta de disposición expresa en el presente capítulo, serán de aplicación supletoria, en lo conducente, las reglas de sustanciación y resolución del procedimiento establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas.
+A falta de disposición expresa en el presente capítulo, serán de aplicación supletoria, en lo conducente, las reglas de sustanciación y resolución del procedimiento establecidas en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
@@ -4226,6 +4230,14 @@ Se derogan las disposiciones que se opongan a lo previsto en este Decreto.
 P.O. 6 DE MARZO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-774 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES III Y IV; Y SE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 115, DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS".]
 
 ###### ARTÍCULO ÚNICO.
 
