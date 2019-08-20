@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2018-12-11"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -4109,7 +4109,13 @@ Cuando por motivo del tránsito de vehículos se cometa un delito culposo, se se
 
 I.- Si se cometiere por conductores en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares, la sanción será de tres a ocho años de prisión, si del hecho resulta la muerte de una o más personas; de dos a seis años de prisión si del hecho resultan lesiones, y de dos a cuatro años de prisión si sólo se causa daño en propiedad ajena;
 
-II.- Si se cometiere por conductores de transporte de servicio público o escolar, a consecuencia de conducir con exceso de velocidad, o de acciones u omisiones graves, la sanción será de dos a ocho años de prisión, si del hecho resultan la muerte de una o más personas; de dos a seis años de prisión si del hecho resultan lesiones y de dos a cuatro años de prisión si sólo se causa daño en propiedad ajena.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+II.- Si se cometiere por conductores de transporte de servicio público o escolar, a consecuencia de conducir con exceso de velocidad, o de acciones u omisiones graves, la sanción será de dos a ocho años de prisión si del hecho resultan la muerte de una o más personas; de dos a seis años de prisión si del hecho resultan lesiones; y, de dos a cuatro años de prisión si sólo se causa daño en propiedad ajena;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+III.- Si se cometiere por conductores que utilizaban al momento de conducir un vehículo automotriz, cualquier equipo de telefonía celular, sistemas de comunicación electrónica, de radiocomunicación o tecnología, excepto que se emplee con tecnología de manos libres conectada al vehículo automotriz, la sanción será de dos a ocho años de prisión si del hecho resultan la muerte de una o más personas; de dos a seis años de prisión si del hecho resultan lesiones; y, de dos a cuatro años de prisión si sólo se causa daño en propiedad ajena.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -6732,3 +6738,11 @@ P.O. 11 DE DICIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-793 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II Y ADICIONA UNA FRACCIÓN III, AL ARTÍCULO 318 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
