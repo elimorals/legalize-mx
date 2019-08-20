@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-116656"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-09-27"
-last_updated: "2018-12-06"
+last_updated: "2019-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -261,7 +261,9 @@ XIV. Coadyuvar con la Secretaría de Finanzas, en la formulación de los proyect
 
 XV. Recabar periódicamente el informe de los órganos de administración o decisión de los fondos y fideicomisos en que participa el Estado, dando cuenta de ello al titular del Ejecutivo;
 
-XVI. Contribuir al cumplimiento y aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado, en coordinación con la Contraloría Gubernamental;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+XVI. Contribuir al cumplimiento y aplicación de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, en coordinación con la Contraloría Gubernamental;
 
 XVII. Formular y proponer al Gobernador políticas públicas, planes, programas y acciones generales o para cada ramo o en las dependencias;
 
@@ -1163,7 +1165,9 @@ I. Velar por el respeto y la exacta observancia de los derechos humanos en la es
 
 II. Opinar y participar en los proyectos de iniciativas de ley o de reformas legislativas para la exacta observancia de la Constitución Política de los Estados Unidos Mexicanos y que estén vinculadas con las materias de su competencia;
 
-III. Contribuir al cumplimiento y aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado, en coordinación con la Contraloría Gubernamental;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+III. Contribuir al cumplimiento y aplicación de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, en coordinación con la Contraloría Gubernamental;
 
 IV. Prestar al Poder Judicial el auxilio necesario para el debido ejercicio de sus funciones;
 
@@ -1812,3 +1816,11 @@ Las adecuaciones reglamentarias a que se refiere el artículo anterior y que al 
 ###### ARTÍCULO DÉCIMO TERCERO.
 
 El área a que se refieren los artículos décimo y décimo primero transitorios del presente Decreto, iniciará sus funciones al momento de entrar en vigor las adecuaciones al Reglamento Interior de la Comisión de Derechos Humanos del Estado de Tamaulipas, con los recursos y la estructura que al efecto disponga ésta, de acuerdo con su presupuesto en vigor; sin perjuicio de las ampliaciones presupuestales que se propongan en términos de la Ley de la Comisión de Derechos Humanos del Estado de Tamaulipas, para los ejercicios fiscales subsecuentes y se aprueben en términos de la legislación aplicable.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-817".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
