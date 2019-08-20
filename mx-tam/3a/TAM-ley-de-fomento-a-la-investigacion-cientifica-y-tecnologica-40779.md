@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-la-investigacion-cientifica-y-tecnologica-4077
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-19"
-last_updated: "2018-09-28"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 19 de agosto de 2004.
 
@@ -563,7 +563,9 @@ II.- Los términos y requisitos para la incorporación y participación del pers
 
 Asimismo, los órganos de gobierno de las instituciones, centros y entidades podrán establecer apoyos y criterios conforme a los cuales el personal de los mismos pueda realizar la incubación de empresas tecnológicas de innovación en coordinación con la propia institución, centro o entidad, según corresponda y, en su caso, con terceros.
 
-Los términos, requisitos y criterios a que se refiere la fracción II y el párrafo anterior serán establecidos por los órganos de gobierno o equivalente de las instituciones, centros y entidades mediante normas generales que deberán expedir al efecto y que consistirán en medidas de carácter preventivo orientadas a evitar que su personal incurra en el conflicto de intereses al que hace referencia el artículo 47 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas. Previo a su expedición, estas normas deberán contar con la opinión favorable emitida por el respectivo órgano interno de control.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Los términos, requisitos y criterios a que se refiere la fracción II y el párrafo anterior serán establecidos por los órganos de gobierno o equivalente de las instituciones, centros y entidades mediante normas generales que deberán expedir al efecto y que consistirán en medidas de carácter preventivo orientadas a evitar que su personal incurra en el conflicto de intereses al que hace referencia la Ley de Responsabilidades Administrativas del Estado de Tamaulipas. Previo a su expedición, estas normas deberán contar con la opinión favorable emitida por el respectivo órgano interno de control.
 
 Los órganos de gobierno o equivalente también determinarán lo relativo a los derechos de propiedad intelectual y los beneficios que correspondan a instituciones, centros y entidades en relación a lo dispuesto en este artículo.
 
@@ -682,6 +684,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 28 DE SEPTIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-467 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES X Y XI, Y SE ADICIONA LA FRACCIÓN XII, AL ARTÍCULO 6, DE LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-817".]
 
 ###### ARTÍCULO ÚNICO.
 
