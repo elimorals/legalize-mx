@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidad-patrimonial-del-estado-y-municipios-4376
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2018-12-24"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de Diciembre de 2004.
 
@@ -197,9 +197,11 @@ Concluido el periodo probatorio el titular de la entidad pondrá el expediente a
 
 La resolución que emita la entidad deberá contener por lo menos los elementos a que se refiere el artículo 28 de la presente Ley.
 
-###### ARTICULO 24.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
-El procedimiento de responsabilidad patrimonial del estado por la vía contenciosa, se substanciará de conformidad con lo dispuesto por la Ley de Justicia Administrativa del Estado de San Luis Potosí.
+###### ARTÍCULO 24.
+
+El procedimiento de responsabilidad patrimonial del Estado por la vía contenciosa, se substanciará de conformidad con lo dispuesto por el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ###### ARTICULO 25.
 
@@ -223,9 +225,11 @@ En los casos de que la lesión patrimonial derive de omisiones imputables a las 
 
 Las resoluciones administrativas que se dicten con motivo de los reclamos que prevé la presente Ley, deberán contener, entre otros elementos, el relativo a la existencia o no de la relación de causalidad entre el funcionamiento del servicio público o actividad administrativa de la entidad y la lesión producida. De igual manera, deberá contener, en su caso, la valoración del daño ocasionado, así como el monto en dinero o en especie de la indemnización; explicando los criterios o medios de prueba utilizados para su cuantificación.
 
-###### ARTICULO 29.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
-Las resoluciones de la autoridad administrativa que nieguen la indemnización, o que no satisfagan al interesado, podrán impugnarse ante el Tribunal de lo Contencioso Administrativo del Estado, en los términos de la Ley de Justicia Administrativa del Estado de San Luis Potosí.
+###### ARTÍCULO 29.
+
+Las resoluciones de la autoridad administrativa que nieguen la indemnización, o que no satisfagan al interesado, podrán impugnarse ante el Tribunal de lo Contencioso Administrativo del Estado, en los términos del Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ###### ARTICULO 30.
 
@@ -374,3 +378,11 @@ P.O. 24 DE DICIEMBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0234.- SE REFORMAN LOS ARTÍCULOS 24 Y 29, DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
