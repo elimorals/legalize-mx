@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-comision-de-derechos-humanos-del-estado-de-17061"
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-05"
-last_updated: "2018-12-06"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 5 de febrero de 1994.
 
@@ -605,9 +605,11 @@ A las autoridades y servidores públicos estatales que se les solicite informaci
 
 Las autoridades y servidores públicos serán responsables penal y administrativamente por los actos u omisiones en que incurran durante y con motivo de la tramitación de quejas y denuncias ante la Comisión, de acuerdo con las disposiciones constitucionales y legales aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 61.
 
-Las autoridades y servidores públicos que no proporcionen la información veraz y oportuna o la documentación que les fuera solicitada por la Comisión, o que impidan la práctica de visitas e inspecciones a los funcionarios de la Comisión, serán sancionados con la responsabilidad administrativa que señalan el Código Municipal y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Las autoridades y servidores públicos que no proporcionen la información veraz y oportuna o la documentación que les fuera solicitada por la Comisión, o que impidan la práctica de visitas e inspecciones a los funcionarios de la Comisión, serán sancionados con la responsabilidad administrativa que señalan el Código Municipal y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### ARTICULO 62.
 
@@ -860,3 +862,11 @@ Las adecuaciones reglamentarias a que se refiere el artículo anterior y que al 
 ###### ARTÍCULO DÉCIMO TERCERO.
 
 El área a que se refieren los artículos décimo y décimo primero transitorios del presente Decreto, iniciará sus funciones al momento de entrar en vigor las adecuaciones al Reglamento Interior de la Comisión de Derechos Humanos del Estado de Tamaulipas, con los recursos y la estructura que al efecto disponga ésta, de acuerdo con su presupuesto en vigor; sin perjuicio de las ampliaciones presupuestales que se propongan en términos de la Ley de la Comisión de Derechos Humanos del Estado de Tamaulipas, para los ejercicios fiscales subsecuentes y se aprueben en términos de la legislación aplicable.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-817”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
