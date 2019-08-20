@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ciencia-y-tecnologia-del-estado-de-san-luis-potosi-34229
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-30"
-last_updated: "2019-08-05"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de agosto de 2003.
 
@@ -57,7 +57,7 @@ I. Establecer los mecanismos e instrumentos conforme a los cuales el gobierno de
 
 II. Fortalecer el Sistema de Ciencia, Tecnología e Innovación del Estado de San Luis Potosí, mediante el establecimiento de mecanismos de concertación y participación de la comunidad científica y académica, para la generación y formulación de políticas de promoción, difusión, desarrollo y aplicación de la ciencia y la tecnología; así como para la formación y capacitación de recursos humanos de alto nivel académico en el Estado;
 
-III. Fortalecer el sistema estatal de ciencia y tecnología, mediante el establecimiento de mecanismos de concertación y participación de la comunidad científica y académica, para la generación y formulación de políticas de promoción, difusión, desarrollo y aplicación de la ciencia y la tecnología; así como para la formación y capacitación de recursos humanos de alto nivel académico en el Estado;
+III. (DEROGADA, P.O. 20 DE AGOSTO DE 2019)
 
 IV. Disponer los instrumentos de promoción del desarrollo sustentable, la competitividad económica y la mejoría de la calidad de vida, vinculando la investigación científica y tecnológica con la educación;
 
@@ -686,5 +686,13 @@ P.O. 5 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0216.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 51, DE LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 236.- SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 2° DE (SIC) LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
