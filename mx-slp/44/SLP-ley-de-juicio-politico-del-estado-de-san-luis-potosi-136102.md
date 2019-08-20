@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-juicio-politico-del-estado-de-san-luis-potosi-136102"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-16"
-last_updated: "2019-04-16"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUICIO POLÍTICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de abril de 2019.
 
@@ -35,7 +35,7 @@ La Sexagésima Segunda Legislatura Constitucional del Estado Libre y Soberano de
 
 EXPOSICIÓN DE MOTIVOS
 
-El treinta de octubre de dos mil diecisiete se publicó en el Periódico Oficial del Estado “Plan de San Luis”, el Decreto Legislativo número 708, que reformó los artículos, 57, 124, 127 y 128; y derogó de los artículos, 127 sus párrafos, primero, segundo, cuarto y sexto, y 128 sus fracciones, I, y II, y párrafo último, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí; asimismo, derogó el artículo 54, de la Ley Orgánica del Poder Legislativo del Estado. En el Decreto citado se lee en un extracto de la exposición de motivos: … “con esta modificación se elimina de la Carta Magna del Estado, el privilegio procesal conocido como fuero constitucional, respecto a la inmunidad de todos los servidores públicos, y no solamente respecto de los diputados, que no era otra cosa más que la protección de carácter procesal en materia penal que los eximía de ser detenidos, procesados o juzgados, por su probable responsabilidad en la comisión de un delito (acción u omisión típica, antijurídica y punible), previsto en la ley; dejando a salvo la inviolabilidad de los diputados respecto de las manifestaciones que hagan en el desempeño de su encargo”.
+El treinta de octubre de dos mil diecisiete se publicó en el Periódico Oficial del Estado "Plan de San Luis", el Decreto Legislativo número 708, que reformó los artículos, 57, 124, 127 y 128; y derogó de los artículos, 127 sus párrafos, primero, segundo, cuarto y sexto, y 128 sus fracciones, I, y II, y párrafo último, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí; asimismo, derogó el artículo 54, de la Ley Orgánica del Poder Legislativo del Estado. En el Decreto citado se lee en un extracto de la exposición de motivos: ... "con esta modificación se elimina de la Carta Magna del Estado, el privilegio procesal conocido como fuero constitucional, respecto a la inmunidad de todos los servidores públicos, y no solamente respecto de los diputados, que no era otra cosa más que la protección de carácter procesal en materia penal que los eximía de ser detenidos, procesados o juzgados, por su probable responsabilidad en la comisión de un delito (acción u omisión típica, antijurídica y punible), previsto en la ley; dejando a salvo la inviolabilidad de los diputados respecto de las manifestaciones que hagan en el desempeño de su encargo".
 
 Por lo que al no existir la protección constitucional, resulta obsoleto contar con un ordenamiento que establece un procedimiento inaplicable, por lo que es conveniente que la ley sólo regule el procedimiento de juicio político.
 
@@ -131,9 +131,11 @@ IV. Por el manejo indebido de fondos y recursos públicos.
 
 Lo anterior, sin perjuicio de la responsabilidad política que se consigna en los términos del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos; en este caso, recibidas las constancias que el Congreso Federal remita al Congreso del Estado, se impondrán las sanciones correspondientes aprobadas por el voto de cuando menos las dos terceras partes de la Legislatura del Estado, aplicando para ello las disposiciones conducentes de la Ley Federal de Responsabilidades de los Servidores Públicos.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 9°.
 
-Es procedente el juicio político cuando los actos u omisiones de los servidores públicos a que se refieren las fracciones II a IX del artículo 7° de esta Ley, redunden en perjuicio de los intereses públicos fundamentales, o de su buen despacho.
+Es procedente el juicio político cuando los actos u omisiones de los servidores públicos a que se refieren las fracciones II a X del artículo 7º de esta Ley, redunden en perjuicio de los intereses públicos fundamentales, o de su buen despacho.
 
 ###### ARTÍCULO 10.
 
@@ -480,3 +482,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0238.- SE REFORMA EL ARTÍCULO 9º DE LA LEY DE JUICIO POLÍTICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
