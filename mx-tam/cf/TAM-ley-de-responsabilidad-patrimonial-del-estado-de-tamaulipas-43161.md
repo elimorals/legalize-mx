@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidad-patrimonial-del-estado-de-tamaulipas-431
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-11"
-last_updated: "2016-12-21"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el martes 11 de enero de 2005.
 
@@ -341,21 +341,29 @@ En caso de que en la causa de daños y perjuicios intervengan dos o más entes p
 
 1. El Estado deberá exigir a los servidores públicos responsables el resarcimiento del importe de la indemnización cubierta a los afectados por concepto de la reparación de los daños y perjuicios en los términos de la presente ley.
 
-2. Para efectos del párrafo anterior, deberá sustanciarse previamente el procedimiento administrativo previsto por la Ley de Responsabilidades de Servidores Públicos del Estado de Tamaulipas, determinarse la responsabilidad del servidor público que causó el daño, y establecer que medió culpa grave o dolo de su parte y no una causa derivada de los propios riesgos del funcionamiento regular del servicio público o deficiencias del mismo.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+2. Para efectos del párrafo anterior, deberá sustanciarse previamente el procedimiento administrativo previsto por la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, determinarse la responsabilidad del servidor público que causó el daño, y establecer que medió culpa grave o dolo de su parte y no una causa derivada de los propios riesgos del funcionamiento regular del servicio público o deficiencias del mismo.
 
 3. El monto que se obtuviese por concepto del resarcimiento a que se refiere este artículo, formará parte de la sanción económica que se le aplique.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 29.
 
-La calificación de la falta cometida por el servidor público deberá valorarse en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, debiéndose contemplar su relación con la producción del hecho dañoso, el dolo o ausencia del mismo en la conducta externada que dio origen a la lesión patrimonial, los niveles promedio del desempeño de servidores públicos que detenten puestos análogos en la administración, así como las condiciones laborales en las que se presta el servicio o se desarrolla la función.
+La calificación de la falta cometida por el servidor público deberá valorarse en términos de lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, debiéndose contemplar su relación con la producción del hecho dañoso, el dolo o ausencia del mismo en la conducta externada que dio origen a la lesión patrimonial, los niveles promedio del desempeño de servidores públicos que detenten puestos análogos en la administración, así como las condiciones laborales en las que se presta el servicio o se desarrolla la función.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 30.
 
-Los servidores públicos podrán impugnar las resoluciones administrativas que les impongan la obligación de resarcir el monto correspondiente de los daños y perjuicios que haya erogado el Estado, por medio de los recursos previstos por la Ley de Responsabilidades de Servidores Públicos del Estado de Tamaulipas, o cualquier otro ordenamiento jurídico.
+Los servidores públicos podrán impugnar las resoluciones administrativas que les impongan la obligación de resarcir el monto correspondiente de los daños y perjuicios que haya erogado el Estado, por medio de los recursos previstos por la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, o cualquier otro ordenamiento jurídico.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 31.
 
-La presentación de reclamaciones por responsabilidad patrimonial del Estado suspenderá los plazos de prescripción que la Ley de Responsabilidades de Servidores Públicos del Estado de Tamaulipas determina para iniciar el procedimiento administrativo a los servidores públicos, mismos que se reanudarán cuando quede firme la sentencia definitiva que al efecto se dicte en los procedimientos mencionados.
+La presentación de reclamaciones por responsabilidad patrimonial del Estado suspenderá los plazos de prescripción que la Ley de Responsabilidades Administrativas del Estado de Tamaulipas determina para iniciar el procedimiento administrativo a los servidores públicos, mismos que se reanudarán cuando quede firme la sentencia definitiva que al efecto se dicte en los procedimientos mencionados
 
 T R A N S I T O R I O S
 
@@ -426,3 +434,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
