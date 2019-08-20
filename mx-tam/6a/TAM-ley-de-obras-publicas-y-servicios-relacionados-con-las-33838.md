@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-obras-publicas-y-servicios-relacionados-con-las-33838"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-21"
-last_updated: "2019-01-09"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 21 de agosto de 2003.
 
@@ -31,13 +31,13 @@ TOMAS YARRINGTON RUVALCABA, Gobernador Constitucional del Estado Libre y Soberan
 
 Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
 
-Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.-Poder Legislativo.
+Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+LA QUINCUAGÉSIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 58 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-DECRETO No. 352
+D E C R E T O No. 352
 
-LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS.
+LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS.
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -1317,7 +1317,9 @@ El contratista que no reintegre el saldo por amortizar en el plazo señalado cub
 
 La Comisión o los Ayuntamientos, se abstendrán de recibir propuestas o celebrar contrato alguno en las materias a que se refiere esta ley, con las personas siguientes:
 
-I. Aquellas con quienes los servidores públicos que intervengan en cualquier etapa del procedimiento de contratación tengan interés personal, familiar o de negocios, incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que los servidores públicos o las personas antes referidas formen o hayan formado parte, conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+I. Aquellas con quienes los servidores públicos que intervengan en cualquier etapa del procedimiento de contratación tengan interés personal, familiar o de negocios, incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que los servidores públicos o las personas antes referidas formen o hayan formado parte, conforme a lo establecido en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas;
 
 II. Aquellos contratistas que, por causas imputables a ellos mismos, la dependencia, entidad o Ayuntamiento convocante les hubiere rescindido administrativamente un contrato dentro de un lapso de un año de calendario contado a partir de la notificación de la rescisión. Dicho impedimento prevalecerá ante la propia dependencia, entidad o Ayuntamiento convocante durante un año calendario contado a partir de la notificación de la rescisión;
 
@@ -1731,7 +1733,7 @@ De toda diligencia deberá levantarse acta circunstanciada en la que consten los
 
 En el supuesto de que las partes lleguen a una conciliación, el convenio respectivo obligará a las mismas, y su cumplimiento podrá ser demandado por la vía judicial. En caso contrario, quedarán a salvo sus derechos, para que los hagan valer ante los tribunales competentes.
 
-## TRANSITORIOS
+T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1862,6 +1864,14 @@ Se derogan todas las disposiciones normativas que se opongan al presente Decreto
 P.O. 9 DE ENERO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-717 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS".]
 
 ###### ARTÍCULO ÚNICO.
 
