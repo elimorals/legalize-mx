@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12904
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2019-06-04"
+last_updated: "2019-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de junio de 2018.
 
@@ -385,7 +385,9 @@ En el caso de despachos o profesionales independientes, previamente a su contrat
 
 Asimismo, los servidores públicos de la Auditoría Superior del Estado y los despachos o profesionales independientes tendrán la obligación de abstenerse de conocer asuntos referidos a las entidades fiscalizadas en las que hubiesen prestado servicios, de cualquier índole o naturaleza, o con los que hubieran mantenido cualquier clase de relación contractual durante el periodo que abarque la revisión de que se trate, o en los casos en que tengan conflicto de interés en los términos previstos en la Ley de Responsabilidades.
 
-No se podrán contratar trabajos de auditoría externos o cualquier otro servicio relacionado con actividades de fiscalización de manera externa, cuando exista parentesco por consanguinidad o afinidad hasta el cuarto grado, o parientes civiles, entre el titular de la Auditoría Superior del Estado o cualquier mando superior de la Auditoría y los prestadores de servicios externos.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+No se podrán contratar trabajos de auditoría externos o cualquier otro servicio relacionado con actividades de fiscalización de manera externa, cuando exista parentesco por consanguinidad o afinidad hasta el cuarto grado, entre los prestadores de servicios externos y, el titular de la Auditoría Superior del Estado, cualquier mando superior de la Auditoría Superior del Estado, o las diputadas y los diputados integrantes de la Comisión.
 
 ###### ARTÍCULO 26.
 
@@ -1097,9 +1099,9 @@ Dichas opiniones, solicitudes o denuncias podrán presentarse por medios electr�
 
 T R A N S I T O R I O S
 
-PRIMERO. Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+PRIMERO. Esta Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
-SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí publicada como Decreto Legislativo No. 602 en el Periódico Oficial del Gobierno del Estado “Plan de San Luis” el 1 de abril de 2017.
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí publicada como Decreto Legislativo No. 602 en el Periódico Oficial del Gobierno del Estado "Plan de San Luis" el 1 de abril de 2017.
 
 TERCERO. Se abroga el Decreto Legislativo No. 639 de fecha 23 de mayo de 2017. En consecuencia, la persona electa mediante dicho Decreto Legislativo, pasa a formar parte de la estructura de la Unidad de Evaluación y Control. Los procedimientos administrativos, así como los asuntos en trámite iniciados por la contraloría interna, con anterioridad a la entrada en vigor de la presente Ley, continuarán tramitándose hasta su resolución final, conforme a las disposiciones aplicables vigentes a su inicio. En un plazo no mayor de treinta días hábiles aquellos que no lo fueren así, la Unidad de Evaluación y Control de la Comisión de Vigilancia, continuará con el trámite de los mismos de conformidad con lo establecido en esta Ley y su reglamento.
 
@@ -1117,7 +1119,7 @@ En lo relativo a la presentación de los informes generales e individuales prese
 
 Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
 
-D A D O en el salón de sesiones “Ponciano Arriaga Leija” del Honorable Congreso del Estado, el siete de junio de dos mil dieciocho.
+D A D O en el salón de sesiones "Ponciano Arriaga Leija" del Honorable Congreso del Estado, el siete de junio de dos mil dieciocho.
 
 Por la Directiva. Presidente, Legislador Fernando Chávez Méndez; Segunda Prosecretaria, Legisladora Martha Orta Rodríguez; Segundo Secretario, Legislador Jorge Luis Miranda Torres (rúbricas).
 
@@ -1160,5 +1162,13 @@ P.O. 4 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0172.- SE REFORMA EL ARTÍCULO 69 EN SU FRACCIÓN XVI, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0231.- SE REFORMA EL ARTÍCULO 25 EN SU PÁRRAFO CUARTO, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
