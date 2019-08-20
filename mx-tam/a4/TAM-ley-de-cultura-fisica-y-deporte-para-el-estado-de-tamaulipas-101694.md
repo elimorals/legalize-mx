@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cultura-fisica-y-deporte-para-el-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2019-01-09"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 2 de julio de 2014.
 
@@ -113,9 +113,9 @@ III. La creación, conservación, mejoramiento, protección, difusión, promoci�
 
 IV. La preservación de la salud y prevención de enfermedades;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-V. Ser un medio importante en la prevención del delito y otras actividades ilegales, para lograr un ambiente de paz y bienestar social;
+V. Ser un medio importante en la prevención del delito, adicciones y del uso indebido de substancias psicoactivas, y otras actividades ilegales, para lograr un ambiente de paz y bienestar social;
 
 VI. La promoción de medidas necesarias para erradicar la violencia y reducir los riesgos de afectación en la práctica de actividades físicas, recreativas o deportivas, así como para prevenir y erradicar el uso de sustancias y métodos no reglamentarios que pudieran derivarse del doping;
 
@@ -1187,9 +1187,11 @@ La inscripción en este padrón será considerada información confidencial y ú
 
 La aplicación de sanciones administrativas por infracciones a esta ley, su reglamento y demás disposiciones que de ella emanen, corresponde a las autoridades deportivas del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 104.
 
-1. Las sanciones administrativas se aplicarán de acuerdo a lo previsto en la Ley General, la presente ley y su reglamento, y en el caso de los servidores públicos la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas.
+1. Las sanciones administrativas se aplicarán de acuerdo a lo previsto en la Ley General, la presente ley y su reglamento, y en el caso de los servidores públicos la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 2. El procedimiento para la aplicación de las sanciones a que se refiere la presente ley se establecerá en su reglamento.
 
@@ -1442,6 +1444,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 9 DE ENERO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-537 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-818 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 4, FRACCIÓN V, DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
