@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-27"
-last_updated: "2017-06-02"
+last_updated: "2019-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 27 de abril de 2016.
 
@@ -2451,7 +2451,9 @@ Las conductas a que se refiere el artículo anterior serán sancionadas por el O
 
 1. Las responsabilidades que resulten de los procedimientos administrativos correspondientes, derivados de la violación a lo dispuesto por el artículo 187 de esta Ley, son independientes de las del orden civil, penal o de cualquier otro tipo que se puedan derivar de los mismos hechos.
 
-2. Dichas responsabilidades se determinarán, en forma autónoma, a través del procedimiento administrativo de responsabilidad previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado, y las sanciones que, en su caso, se impongan por las autoridades competentes, también se ejecutarán de manera independiente.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+2. Dichas responsabilidades se determinarán, en forma autónoma, a través del procedimiento administrativo de responsabilidad previsto en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, y las sanciones que, en su caso, se impongan por las autoridades competentes, también se ejecutarán de manera independiente.
 
 3. Para tales efectos, el Organismo garante podrá denunciar ante las autoridades competentes cualquier acto u omisión violatorios de esta Ley y aportar las pruebas que consideren pertinentes, en los términos de las leyes aplicables.
 
@@ -2604,3 +2606,11 @@ La Convocatoria para designar a los titulares de los órganos internos de contro
 ###### ARTÍCULO TERCERO.
 
 Comuníquese el presente Decreto a la Universidad Autónoma de Tamaulipas, solicitando con pleno respeto a su autonomía institucional que, a la brevedad, tenga a bien homologar sus ordenamientos jurídicos internos en lo concerniente al Órgano Interno de Control y su titular, tomando en consideración las reformas planteadas en el presente Decreto, para así armonizar sus disposiciones a que haya lugar, en materia de combate a la corrupción.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIII-817”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
