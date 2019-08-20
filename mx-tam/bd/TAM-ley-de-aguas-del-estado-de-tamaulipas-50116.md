@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2018-03-20"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -427,7 +427,7 @@ XIII. Las demás que le otorgue esta ley u otros ordenamientos jurídicos.
 
 2. La Comisión tendrá su residencia en la capital del Estado, sin detrimento de constituir unidades administrativas dentro del territorio del Estado.
 
-###### Articulo 6.
+###### Artículo 6.
 
 Son atribuciones de la Comisión:
 
@@ -995,7 +995,7 @@ XVII. Las demás que le asigne la presente Ley, su decreto de creación, la legi
 
 2. Los organismos operadores descentralizados podrán contratar los empréstitos o los créditos ordinarios o extraordinarios que requieran, respondiendo de sus adeudos con su propio patrimonio y con los ingresos que perciban, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la presente ley y la Ley de Deuda Pública Estatal y Municipal.
 
-###### Articulo 26.
+###### Artículo 26.
 
 1. El patrimonio de los organismos operadores estará constituido por:
 
@@ -1569,7 +1569,7 @@ Las controversias que se susciten con motivo de la interpretación y aplicación
 
 ### CAPITULO II. DE LA ADMINISTRACION DE LAS AGUAS ESTATALES
 
-###### Articulo 67.
+###### Artículo 67.
 
 1. Son aguas estatales todas las existentes dentro del territorio del Estado, siempre que no estén comprendidas en alguno de los casos de jurisdicción nacional o de propiedad particular, que se señalan en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -1917,7 +1917,9 @@ Se promoverá la realización de convenios entre la Comisión y los ayuntamiento
 
 ###### Artículo 96.
 
-1. La falta de cumplimiento y seguimiento de los programas a que se refiere esta ley, será causa de responsabilidad administrativa de los servidores públicos estatales y municipales a quienes se les encomienden dichas labores. Esta falta será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+1. La falta de cumplimiento y seguimiento de los programas a que se refiere esta ley, será causa de responsabilidad administrativa de los servidores públicos estatales y municipales a quienes se les encomienden dichas labores. Esta falta será sancionada en los términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 2. Sin perjuicio de lo establecido en el párrafo anterior, la falta de cumplimiento y seguimiento de los programas encomendados por la presente ley a la Comisión o a los organismos operadores, será directamente imputable al Director General o a los gerentes generales y, previa audiencia, será causa suficiente para su inmediata remoción.
 
@@ -3128,6 +3130,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE MARZO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-388 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, Y EL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS".]
 
 ###### ARTÍCULO ÚNICO.
 
