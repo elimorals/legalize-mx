@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-economico-competitividad-e-49288"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-24"
-last_updated: "2018-09-28"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 24 de noviembre de 2005.
 
@@ -1167,7 +1167,9 @@ I. Apercibimiento; o,
 
 II. Multa.
 
-Los servidores públicos que incurran en el incumplimiento de las obligaciones derivadas de este ordenamiento serán objeto del procedimiento administrativo sancionatorio previsto por la Ley de Responsabilidades de los Servidores Públicos del Estado.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Los servidores públicos que incurran en el incumplimiento de las obligaciones derivadas de este ordenamiento serán objeto del procedimiento administrativo sancionatorio previsto por la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### ARTICULO 38.
 
@@ -1338,6 +1340,14 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 P.O. 28 DE SEPTIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-466 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4° FRACCIONES XV Y XX; 5° FRACCIÓN V; Y 7°, FRACCIÓN XIII, DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-817”.]
 
 ###### ARTÍCULO ÚNICO.
 
