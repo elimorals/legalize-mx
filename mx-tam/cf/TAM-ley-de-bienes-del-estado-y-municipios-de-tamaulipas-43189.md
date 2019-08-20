@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-bienes-del-estado-y-municipios-de-tamaulipas-43189"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-11"
-last_updated: "2019-01-09"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 11 de enero de 2005.
 
@@ -371,7 +371,9 @@ Los bienes del dominio público del Estado y de los Municipios estarán sujetos 
 
 1. Serán nulos de pleno derecho los actos por los que se constituyan o inscriban gravámenes sobre bienes de dominio público.
 
-2. La infracción a lo dispuesto en este artículo será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+2. La infracción a lo dispuesto en este artículo será sancionada en términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### Artículo 26.
 
@@ -824,6 +826,14 @@ Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, a
 P.O. 9 DE ENERO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-722 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS Y LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
 
 ###### ARTÍCULO ÚNICO.
 
