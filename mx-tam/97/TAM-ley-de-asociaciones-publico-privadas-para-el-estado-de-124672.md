@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asociaciones-publico-privadas-para-el-estado-de-124672"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-01"
-last_updated: "2017-12-05"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P. O. EL 5 DE DICIEMBRE DE 2017 NO APLICA AL ARTICULADO DEL DECRETO LXIII-312 PUBLICADO EN EL P.O. DE 1 DE DICIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 > <small>(F. DE E., P.O. DE 5 DE DICIEMBRE DE 2017)</small>
 
@@ -1313,9 +1311,11 @@ Sin perjuicio de lo señalado en el párrafo anterior, las Entidades Contratante
 
 #### Sección Segunda. De las Infracciones y Sanciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 105.
 
-El incumplimiento a las disposiciones de la presente Ley por parte de los servidores públicos, será sancionado conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas y demás disposiciones federales y estatales que resulten aplicables.
+El incumplimiento a las disposiciones de la presente Ley por parte de los servidores públicos, será sancionado conforme a la Ley de Responsabilidades Administrativas del Estado de Tamaulipas y demás disposiciones federales y estatales que resulten aplicables.
 
 La Auditoría Superior del Estado ejercerá sus atribuciones de auditoría y fiscalización en los términos que las disposiciones constitucionales y legales le señalen.
 
@@ -1406,3 +1406,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los dieciséis días del mes de noviembre del año dos mil diecisiete.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIII-817”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
