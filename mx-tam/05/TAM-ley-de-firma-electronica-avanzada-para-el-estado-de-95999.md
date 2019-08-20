@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-firma-electronica-avanzada-para-el-estado-de-95999"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-17"
-last_updated: "2013-09-17"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95999&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 17 de septiembre de 2013.
 
@@ -649,7 +649,9 @@ IV. Actualizar los datos contenidos en el certificado de firma electrónica.
 
 ###### ARTÍCULO 47.
 
-1. Las conductas de los servidores públicos que impliquen el incumplimiento a los preceptos establecidos en la presente Ley, dará lugar al procedimiento y a las sanciones que correspondan en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+1. Las conductas de los servidores públicos que impliquen el incumplimiento a los preceptos establecidos en la presente Ley, dará lugar al procedimiento y a las sanciones que correspondan en términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 2. Cuando las infracciones a la presente Ley impliquen la posible comisión de una conducta sancionada en los términos de la legislación civil, penal o de cualquier otra naturaleza, el servidor público que conozca de ellos en los Poderes del Estado, los organismos autónomos, los ayuntamientos y las dependencias y entidades estatales y municipales lo hará del conocimiento de las autoridades competentes.
 
@@ -698,3 +700,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintiocho días del mes de agosto del año dos mil trece.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-817".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
