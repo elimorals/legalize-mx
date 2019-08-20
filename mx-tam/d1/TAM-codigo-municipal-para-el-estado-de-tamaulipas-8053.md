@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2019-03-06"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -89,7 +89,7 @@ El Gobernador del Estado tendrá el mando de la fuerza pública en los Municipio
 
 ###### ARTICULO 7o.
 
-Para el desarrollo armónico de las funciones públicas encomendadas al Gobierno del Estado y a los Ayuntamientos, podrán éstos recurrir, en caso de ser necesario, al conducto del Ejecutivo cuando se efectúen gestiones de cualquier índole ante la federación o los poderes Legislativo y Judicial del Estado.
+Para el desarrollo armónico de las funciones públicas encomendadas al Gobierno del Estado y a los Ayuntamientos, podrán éstos recurrir, en caso de ser necesario, al conducto del Ejecutivo cuando se efectúen gestiones de cualquier índole ante la Federación o los Poderes Legislativo y Judicial del Estado.
 
 ###### ARTICULO 8o.
 
@@ -445,9 +445,11 @@ Los Consejos Municipales estarán integrados con el mismo número de miembros y 
 
 Para resolver los asuntos de su competencia, los Ayuntamientos sesionarán por lo menos una vez por mes en los municipios que cuenten con menos de cien mil habitantes; por lo menos dos veces por mes en los municipios que cuenten con más de cien mil y hasta doscientos mil habitantes; y, por lo menos tres veces por mes en los municipios que cuenten con más de doscientos mil habitantes. En todo caso, cuando existan asuntos de urgente resolución o a petición de la tercera parte de sus miembros, sesionarán cuantas veces sea necesario. Asimismo, podrán declararse en sesión permanente, cuando la importancia del asunto así lo amerite.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 43.
 
-Las sesiones de los Ayuntamientos se convocarán con 24 horas de anticipación, serán públicas salvo que exista motivo que justifique que éstas sean privadas; las causas serán calificadas previamente por el Ayuntamiento.
+Las sesiones de los Ayuntamientos se convocarán con un mínimo de 24 horas de anticipación a la hora señalada para su inicio, las cuales serán públicas salvo que exista motivo que justifique que éstas sean privadas; las causas serán calificadas previamente por el Ayuntamiento.
 
 Las sesiones de los Ayuntamientos se celebrarán en la Sala de Cabildos, o cuando la necesidad del acto lo requiera, en el recinto previamente declarado oficial para tal objeto.
 
@@ -593,9 +595,9 @@ XXXI.- Celebrar convenios y acuerdos con las autoridades, dependencias, organism
 
 XXXII.- Celebrar convenios con la Federación y otros Municipios, con sujeción a la Ley, previa aprobación del Congreso.
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-XXXIII.- Aplicar la Ley de Responsabilidades de Servidores Públicos del Estado de Tamaulipas en la esfera de su competencia, en los términos del Capítulo XIV del presente Título.
+XXXIII.- Aplicar la Ley de Responsabilidades Administrativas del Estado de Tamaulipas en la esfera de su competencia, en los términos del Capítulo XIV del presente Título.
 
 XXXIV.- Someter a consulta pública las cuestiones que afecten a la comunidad, conforme a las Leyes y sus reglamentos.
 
@@ -777,7 +779,7 @@ II.- Presidir las sesiones del Ayuntamiento con voz y voto en las deliberaciones
 
 III.- Citar a sesiones extraordinarias cuando lo estime conveniente o lo solicite la tercera parte de los miembros del Ayuntamiento.
 
-IV.- Ejecutar los acuerdos del Ayuntamiento, aplicando, sí fuere necesario, las sanciones que establece el presente Código, e informándolo oportunamente.
+IV.- Ejecutar los acuerdos del Ayuntamiento, aplicando, si fuere necesario, las sanciones que establece el presente Código, e informándolo oportunamente.
 
 V.- Dar publicidad a las leyes, reglamentos y demás disposiciones de observancia general, concernientes al Municipio, bien sea que procedan de la Federación, del Estado o del Ayuntamiento respectivo.
 
@@ -1163,7 +1165,9 @@ ARTICULO 72 TER.- Para ser Contralor Municipal se requiere reunir los requisitos
 
 ARTICULO 72 QUATER.- Son facultades y obligaciones del Contralor Municipal:
 
-I.- Vigilar el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, así como conocer e investigar los actos, omisiones o conductas de los servidores públicos municipales, que puedan implicar responsabilidad administrativa.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+I.- Vigilar el cumplimiento de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, así como conocer e investigar los actos, omisiones o conductas de los servidores públicos municipales, que puedan implicar responsabilidad administrativa.
 
 II.- Fiscalizar la distribución y aplicación de los recursos ejercidos por la administración municipal, pudiendo para este fin, realizar auditorías, inspecciones y evaluaciones a los departamentos que integren dicha administración.
 
@@ -1439,9 +1443,9 @@ La organización, dirección y funcionamiento de las Comisiones Consultivas de D
 
 Son servidores públicos de los Municipios los miembros de los Ayuntamientos, así como toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública municipal o paramunicipal, o bien maneje o aplique recursos económicos de los Municipios.
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
-La Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas será aplicable, en lo conducente, a los servidores públicos de los Municipios, conforme a las prevenciones que se señalen en los artículos siguientes.
+La Ley de Responsabilidades Administrativas del Estado de Tamaulipas será aplicable, en lo conducente, a los servidores públicos de los Municipios, conforme a las prevenciones que se señalen en los artículos siguientes
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1455,17 +1459,17 @@ El juicio político es competencia exclusiva de los órganos que establece la Le
 
 En lo que respecta a la responsabilidad administrativa, las funciones propias del Órgano de Control Estatal, así como de las Contralorías internas y del superior jerárquico que se menciona en la propia Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, serán desempeñadas por el Ayuntamiento, a través de su Presidente Municipal en lo relativo a servidores municipales. Las responsabilidades administrativas de los miembros de los Ayuntamientos es competencia exclusiva del Congreso del Estado, estando facultado para identificar, investigar y determinar dichas responsabilidades, así como para aplicar las sanciones respectivas.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 90.
 
-Los Ayuntamientos recibirán las denuncias y quejas a que se refiere el artículo 49 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, por conducto de la Secretaría o de la Contraloría.
+Los Ayuntamientos recibirán las denuncias y quejas en términos de lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, por conducto de la Secretaría o de la Contraloría.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 91.
 
-Los servidores públicos municipales que mediante el procedimiento establecido en el artículo 64 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas fueren sancionados por los Ayuntamientos podrán impugnar las resoluciones respectivas mediante el juicio de nulidad establecido en el artículo 70 de la propia Ley.
+Los servidores públicos municipales que mediante el procedimiento establecido en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas fueren sancionados por los Ayuntamientos podrán impugnar las resoluciones respectivas en base a lo establecido en la propia Ley.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
@@ -1657,7 +1661,9 @@ Se exime del pago de este impuesto, los espectáculos por los que se cause el Im
 
 No serán sujetos de este impuesto, las personas que realicen las actividades gravadas, cuyos ingresos se destinen a obras de asistencia social y servicios, obras públicas o instituciones que impartan educación gratuita.
 
-IMPUESTO SOBRE LA PROPIEDAD URBANA, SUBURBANA Y RUSTICA DEL OBJETO
+IMPUESTO SOBRE LA PROPIEDAD URBANA, SUBURBANA Y RUSTICA.
+
+DEL OBJETO.
 
 ###### ARTICULO 104.
 
@@ -3153,9 +3159,9 @@ XIV.- Por falta comprobada en el cumplimiento de las obligaciones de trabajo o p
 
 XV.- Por muerte del trabajador.
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-XVI.- Por resolución dictada en los términos de la Ley de Responsabilidades de Servidores Públicos del Estado de Tamaulipas. En los supuestos de las fracciones IV y VI de este artículo, el trabajador será indemnizado con el importe de tres meses de salario y con la prima de antigüedad consistente en 12 días de salario por cada año de servicio.
+XVI.- Por resolución dictada en los términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas. En los supuestos de las fracciones IV y VI de este artículo, el trabajador será indemnizado con el importe de tres meses de salario y con la prima de antigüedad consistente en 12 días de salario por cada año de servicio.
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -3595,7 +3601,7 @@ Estos documentos serán considerados bienes del dominio público y son parte del
 
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-Toda la información del acervo documental del Archivo General del Municipio que no esté considerada expresamente como de oficio por la Ley de Información Pública del Estado, estará sujeta a la clasificación que se determine de acuerdo a su naturaleza y con base en las disposiciones legales y reglamentarias aplicables.
+Toda la información del acervo documental del Archivo General del Municipio que no esté considerada expresamente como de oficio por la Ley de Información Pública del Estado, estará sujeta a la clasificación que se determine de acuerdo a su naturaleza y con base en las disposiciones legales y reglamentarías aplicables.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2004)</small>
 
@@ -3965,7 +3971,9 @@ VIII.- No ejercer ningún otro cargo público durante el periodo en que funja co
 
 El Juez del Tribunal será nombrado por un período de cuatro años, los que se computarán a partir de la fecha de su nombramiento. Cuatro meses antes de la conclusión del cargo, previa evaluación objetiva y del desempeño, podrá ser ratificado por el Ayuntamiento.
 
-Hecha la ratificación por parte del Ayuntamiento, el Juez no podrá ser removido de su cargo sino únicamente por las causas señaladas en el siguiente artículo o las señaladas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
+Hecha la ratificación por parte del Ayuntamiento, el Juez no podrá ser removido de su cargo sino únicamente por las causas señaladas en el siguiente artículo o las señaladas en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 En caso que el Ayuntamiento decida no ratificarlo en el cargo, se seguirá el procedimiento señalado en el artículo 330 de este Código y el Juez que no fue ratificado podrá de nueva cuenta presentar su candidatura al cargo.
 
@@ -6218,3 +6226,19 @@ P.O. 6 DE MARZO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-817".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-820 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 43, PÁRRAFO PRIMERO, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
