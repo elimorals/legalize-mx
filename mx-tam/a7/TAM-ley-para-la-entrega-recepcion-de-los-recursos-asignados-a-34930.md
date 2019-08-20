@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-entrega-recepcion-de-los-recursos-asignados-a-34930
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-06"
-last_updated: "2018-07-31"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 6 de noviembre de 2003.
 
@@ -579,9 +579,11 @@ Los servidores públicos que entregan, estarán obligados a proporcionar a las a
 
 ### CAPITULO SEXTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 32.
 
-El incumplimiento a las disposiciones de la presente ley, será sancionado en los términos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado, sin perjuicio de lo que señalen otros ordenamientos jurídicos. Asimismo, el incumplimiento a las disposiciones de esta ley por parte de los miembros integrantes del Comité de Enlace, será puesto en conocimiento de la autoridad competente.
+El incumplimiento a las disposiciones de la presente ley, será sancionado en los términos que establece la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, sin perjuicio de lo que señalen otros ordenamientos jurídicos. Asimismo, el incumplimiento a las disposiciones de esta ley por parte de los miembros integrantes del Comité de Enlace, será puesto en conocimiento de la autoridad competente.
 
 ###### Artículo 33.
 
@@ -656,3 +658,11 @@ P.O. 31 DE JULIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de las reformas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas que en éste se establecen, cuya vigencia surtirá efectos a partir de su expedición, con base en el artículo 3, párrafo 3 de la citada Ley.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
