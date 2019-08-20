@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2018-03-20"
+last_updated: "2019-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -171,9 +171,9 @@ Será el Pleno del Consejo de la Judicatura del Poder Judicial del Estado, el ó
 
 Las listas se harán llegar oportunamente a las Salas del Supremo Tribunal de Justicia del Estado y a los Jueces, debiendo ser publicadas en los estrados de cada oficina, donde permanecerán a la vista del público durante todo el año. De igual forma deberán ser publicadas en los distintos órganos de difusión del Poder Judicial del Estado.
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
-La autoridad judicial que no tome en cuenta las listas de auxiliares o no respete el orden de las mismas, al hacer la designación correspondiente, incurrirá en falta administrativa que será sancionada en términos de la Ley Orgánica del Poder Judicial y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+La autoridad judicial que no tome en cuenta las listas de auxiliares o no respete el orden de las mismas, al hacer la designación correspondiente, incurrirá en falta administrativa que será sancionada en términos de la Ley Orgánica del Poder Judicial y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### ARTICULO 7º.
 
@@ -657,9 +657,9 @@ XXII.- (DEROGADA, P.O. 26 DE MAYO DE 2010)
 
 XXIII.- Representar al Poder Judicial ante las autoridades de impartición de justicia laboral, cuando se instauren procedimientos de esa materia;
 
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-XXIV.- Delegar funciones de representación ante los tribunales del trabajo o administrativos, así como en procedimientos administrativos previstos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas; y
+XXIV.- Delegar funciones de representación ante los tribunales del trabajo o administrativos, así como en procedimientos administrativos previstos en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas; y
 
 > <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -4233,7 +4233,7 @@ Para el Sistema de Justicia Penal Tradicional y el Sistema de Justicia Penal Acu
 
 P.O. 20 DE MARZO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-389 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS, EN MATERIA DE INTEGRACIÓN DE LAS SALAS COLEGIADAS DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-389 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS, EN MATERIA DE INTEGRACIÓN DE LAS SALAS COLEGIADAS DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4242,3 +4242,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los asuntos que estuvieren en trámite de apelación al momento de la iniciación de la vigencia del presente Decreto se resolverán conforme al mismo.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
