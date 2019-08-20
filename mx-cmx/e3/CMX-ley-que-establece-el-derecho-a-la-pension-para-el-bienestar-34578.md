@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-establece-el-derecho-a-la-pension-para-el-bienestar-345
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-18"
-last_updated: "2018-03-28"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34578&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "2003-11-13"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY QUE ESTABLECE EL DERECHO A LA PENSIÓN ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN LA CIUDAD DE MÉXICO
+LEY QUE ESTABLECE EL DERECHO A LA PENSIÓN PARA EL BIENESTAR DE LAS PERSONAS MAYORES, RESIDENTES EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 20 DE AGOSTO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 18 de noviembre de 2003.
 
@@ -44,67 +44,67 @@ III LEGISLATURA
 
 D E C R E T A :
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 20 DE AGOSTO DE 2019)</small>
 
-LEY QUE ESTABLECE EL DERECHO A LA PENSIÓN ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN LA CIUDAD DE MÉXICO
+Ley que establece el Derecho a la Pensión para el Bienestar de las Personas Mayores, Residentes en la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 1.
 
-Los adultos mayores de sesenta y ocho años, residentes en la Ciudad de México tienen derecho a recibir una pensión diaria no menor a la mitad de una Unidad de Cuenta de la Ciudad de México vigente.
+Las personas mayores, de 68 años o más edad, residentes en la Ciudad de México tienen derecho a recibir una pensión diaria no menor a la mitad de una Unidad de Cuenta de la Ciudad de México vigente.
 
-> <small>(REFORMADO, G.O. 28 DE MARZO DE 2018)</small>
+La pensión a que se refiere el párrafo anterior se encuentra dentro del marco del Sistema Nacional de Desarrollo Social, conforme a los instrumentos de coordinación y colaboración que establezca la Federación y el Gobierno de la Ciudad de México, por lo que ésta podrá otorgarse con recursos públicos locales o federales.
+
+Cuando la pensión sea entregada con recursos del Gobierno de la Ciudad, se observará el procedimiento establecido en la presente Ley.
+
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 2.
 
-La persona Titular de la Jefatura de Gobierno de la Ciudad de México deberá incluir en el Proyecto de Presupuesto de Egresos de la Ciudad de México, la asignación que garantice, efectivamente, el derecho a la pensión alimentaria a todos los adultos mayores de sesenta y ocho años, residentes en la Ciudad de México.
+La persona titular de la Jefatura de Gobierno de la Ciudad de México, conforme a los instrumentos de coordinación y colaboración que se celebren entre el Gobierno Federal y el de esta Ciudad, deberá incluir en el Proyecto de Presupuesto de Egresos de la Ciudad de México, la asignación que garantice, efectivamente el derecho a recibir, de forma inmediata y satisfechos los requisitos de ley, la pensión para el bienestar a todas las personas mayores, de 68 años o más edad, residentes en la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 3.
 
-El Congreso de la Ciudad de México deberá aprobar, en el Decreto de Presupuesto anual, el monto suficiente para hacer efectivo el derecho a la pensión alimentaria.
+El Congreso de la Ciudad de México deberá aprobar, conforme a los instrumentos de coordinación y colaboración que se celebren entre el Gobierno Federal y el de la Ciudad de México, en el Decreto de Presupuesto anual, el monto suficiente para hacer efectivo el derecho a la pensión para el bienestar.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 4.
 
-La forma como se hará valer la pensión alimentaria, será a través de una tarjeta electrónica, que será expedida por el Gobierno de la Ciudad de México, y la cual podrá ser utilizada en los principales centros comerciales autorizados y/o en los mercados públicos de la Ciudad de México.
+La forma como se hará entrega y recepción de la Pensión para el Bienestar de las Personas Mayores, será a través de la modalidad más adecuada que garantice la eficacia en el proceso de dispersión, así como la reducción de costos en los gastos de su operación.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 28 DE MARZO DE 2018)</small>
-
-> <small>(ADICIONADO, G.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 5.
 
-Los adultos mayores de sesenta y ocho años residentes en la Ciudad de México, podrán realizar su solicitud de Pensión ante el Instituto para la Atención de los Adultos Mayores de la Ciudad de México, mismo que realizará visita domiciliaria para verificar que cumpla con los requisitos correspondientes.
+Las personas mayores, de 68 años o más edad, residentes en la Ciudad de México, podrán realizar su solicitud de Pensión ante el Instituto para el Envejecimiento Digno de la Ciudad de México, cuando el Gobierno de la Ciudad otorgue la pensión a que se refiere la presente ley.
 
-La verificación de la residencia, la elaboración y actualización permanente del padrón de beneficiarios y demás requisitos y procedimientos necesarios para el ejercicio del derecho establecido en esta Ley, se fijarán en el reglamento correspondiente.
-
-> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 6.
 
-Los servidores públicos, responsables de la ejecución de esta Ley, que no cumplan con la obligación de actuar con apego a los principios de igualdad e imparcialidad, incurrirán en falta grave y serán sancionados conforme a los ordenamientos legales aplicables.
+Las personas servidoras públicas, responsables de la ejecución de esta Ley, que no cumplan con la obligación de actuar con apego a los principios de igualdad e imparcialidad, incurrirán en falta grave y serán sancionadas conforme a los ordenamientos legales aplicables.
 
-> <small>(REFORMADO G.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 7.
 
-El Instituto para la Atención de los Adultos Mayores de la Ciudad de México deberá mantener actualizado el padrón de beneficiarios para consulta directa y en la sección de transparencia en su página electrónica.
+Cuando el Gobierno de la Ciudad otorgue la pensión a que se refiere la presente ley, el Instituto para el Envejecimiento Digno de la Ciudad de México deberá mantener actualizado su padrón de personas beneficiarias para consulta directa y en la sección de transparencia en su página electrónica, conforme a los instrumentos de coordinación y colaboración que establezca la Federación y el Gobierno de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 8.
 
-El titular del Registro Civil de la Ciudad de México informará al Instituto para la Atención de los Adultos Mayores de la Ciudad de México, dentro del plazo de diez días hábiles del mes calendario siguiente, la relación mensual de las actas de defunción de personas de 68 años de edad y mayores expedidas por dicho Registro o alguno de los juzgados dependientes de éste.
+La persona titular del Registro Civil y la persona titular de la Secretaría de Salud, ambos de la Ciudad de México, informarán al Instituto para el Envejecimiento Digno de esta Ciudad, dentro del plazo de diez días hábiles del mes calendario siguiente, la relación mensual de las actas de defunción y certificados de defunción, respectivamente de las personas mayores, de 68 años o más edad, expedidas por dicho Registro, alguno de los juzgados dependientes de éste, o la Secretaría de Salud, según corresponda.
 
-> <small>(ADICIONADO, G.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 9.
 
-La entrega de la pensión alimentaria a adultos mayores, bajo ninguna circunstancia podrá suspenderse, incluso en periodo electoral; la entrega de esta pensión no podrá estar sujeta a condición alguna, siempre que reúna los requisitos señalados en el reglamento.
+La entrega de la pensión para el bienestar a las personas mayores, de 68 años o más edad, bajo ninguna circunstancia podrá suspenderse, incluso en periodo electoral; la entrega de esta pensión no podrá estar sujeta a condición alguna, siempre que reúna los requisitos señalados en el reglamento.
 
 ## TRANSITORIOS
 
@@ -161,3 +161,19 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
 
 TERCERO.- Todas las disposiciones legales que contravengan esta reforma, se entienden como derogadas.
+
+G.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMAN LA DENOMINACIÓN Y LOS ARTÍCULOS 1°, 2°, 3°, 4°, 5°, 6°, 7°, 8° Y 9° DE LA LEY QUE ESTABLECE EL DERECHO A LA PENSIÓN ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS, RESIDENTES EN EL DISTRITO FEDERAL”.]
+
+PRIMERO.- En caso de que la federación otorgue la pensión para el bienestar para las personas mayores, de 68 años o más edad, a los residentes en la Ciudad de México, el Gobierno de la Ciudad de México únicamente coadyuvará en la operación administrativa del programa de conformidad con los ordenamientos jurídicos correspondientes.
+
+SEGUNDO.- Cuando el Gobierno de la Ciudad otorgue la pensión a que se refiere el presente Decreto, publicará las Reglas de Operación correspondientes e informará con oportunidad a los beneficiarios los ajustes razonables al programa.
+
+Para los meses de junio, julio, agosto, septiembre, octubre, noviembre y diciembre de dos mil diecinueve, la pensión a que se refiere la presente ley se otorgará de conformidad a las “Reglas de Operación de la Pensión para el Bienestar de las Personas Adultas Mayores, para el ejercicio fiscal 2019”.
+
+TERCERO.- En caso de que la federación no otorgue los recursos para la entrega de la pensión para el bienestar para las personas mayores, de 68 años o más edad, a los residentes en la Ciudad de México, el Gobierno de la Ciudad de México garantizará el cumplimiento de la pensión para el bienestar a que se refiere esta ley de acuerdo a la disponibilidad presupuestal en el ejercicio correspondiente.
+
+CUARTO.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+QUINTO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
