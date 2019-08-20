@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2018-12-11"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -717,9 +717,15 @@ e) establecer programas regenerativos para quienes ejerzan actos de violencia co
 
 f) coadyuvar en la adopción y consolidación del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-g) celebrar convenios de colaboración coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
 
-h) las demás que le confieran esta ley u otros ordenamientos aplicables.
+g) celebrar convenios de colaboración coordinación y concertación en la materia;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+h) enfatizar la sensibilización en favor de las mujeres indígenas y del campo, las víctimas de violencia, con alguna discapacidad y migrantes; e
+
+i) las demás que le confieran esta ley u otros ordenamientos aplicables.
 
 ###### Artículo 19.
 
@@ -1058,3 +1064,11 @@ P.O. 11 DE DICIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-806 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 18, PÁRRAFO 1, INCISO G) Y SE ADICIONA EL INCISO H), RECORRIÉNDOSE EL ACTUAL PARA SER I), DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
