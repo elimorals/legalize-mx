@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-infraestructura-fisica-educativa-para-el-estado-de-73180
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-07"
-last_updated: "2015-05-26"
+last_updated: "2019-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 7 de julio de 2009.
 
@@ -499,7 +499,9 @@ II. Tener experiencia profesional, administrativa u operativa en el ámbito de l
 
 III. No haber sido objeto de condena por delito intencional alguno, o inhabilitación para ocupar algún cargo público, durante el tiempo señalado por esta última sanción; y
 
-IV. No encontrarse bajo impedimento para el servicio público en términos de lo establecido por la Ley de Responsabilidades de los, Servidores Públicos del Estado.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
+
+IV. No encontrarse bajo impedimento para el servicio público en términos de lo establecido por la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### Artículo 37.
 
@@ -692,6 +694,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 Los asuntos indicados con las disposiciones que mediante el presente Decreto fueron reformadas, adicionadas o derogadas, deberán concluirse con la normatividad y conforme al procedimiento mediante las cuales fueron iniciados.
 
 P.O. 26 DE MAYO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
 
 ###### ARTÍCULO ÚNICO.
 
