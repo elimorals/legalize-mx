@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2019-05-22"
+last_updated: "2019-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MOR"
 ---
 # CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE NOVIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -531,9 +529,7 @@ PARENTESCO POR CONSANGUINIDAD. El parentesco de consanguinidad es el que existe 
 
 PARENTESCO DE AFINIDAD. El parentesco de afinidad es el que se contrae por el matrimonio, es decir, entre un cónyuge y los parientes consanguíneos del otro.
 
-###### ARTÍCULO 28 Bis.
-
-(DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
+ARTÍCULO 28 BIS.- (DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
 ###### ARTÍCULO 29.
 
@@ -1239,7 +1235,7 @@ DOMINIO Y ADMINISTRACIÓN EN LA SEPARACIÓN DE BIENES. En el régimen de separac
 
 Serán también propios de cada uno de los consortes los salarios, sueldos, emolumentos y ganancias que obtuviere por servicio personal, por el desempeño de un empleo o el ejercicio de una profesión, comercio o industria.
 
-### CAPÍTULO IX. DE LAS REGLAS COMUNES A LOS REGÍMENES ECONÓMICOS CONYUGALES
+### CAPÍTULO IX. DE LAS REGLAS COMUNES A LOS REGÍMENES ECONOMICOS CONYUGALES
 
 ###### ARTÍCULO 121.
 
@@ -2025,7 +2021,7 @@ PROHIBICIÓN DEL SUJETO A PATRIA POTESTAD PARA ABANDONAR EL DOMICILIO FAMILIAR. 
 
 ###### ARTÍCULO 229.
 
-INTERVENCIÓN DEL MINISTERIO PÚBLICO Y DE OTRAS AUTORIDADES PARA EXIGIR EL CUMPLIMIENTO DE LA PATRIA POTESTAD. Cuando llegue al conocimiento del Ministerio Público o de los Consejos Locales de Tutela, siempre con vista al primero, que las personas en ejercicio de la patria potestad no cumplen con las obligaciones consignadas en este Capítulo, lo informarán al Juzgado de lo Familiar para que se provea a la designación de un tutor especial.
+INTERVENCIÓN DEL MINISTERIO PUBLICO Y DE OTRAS AUTORIDADES PARA EXIGIR EL CUMPLIMIENTO DE LA PATRIA POTESTAD. Cuando llegue al conocimiento del Ministerio Público o de los Consejos Locales de Tutela, siempre con vista al primero, que las personas en ejercicio de la patria potestad no cumplen con las obligaciones consignadas en este Capítulo, lo informarán al Juzgado de lo Familiar para que se provea a la designación de un tutor especial.
 
 ###### ARTÍCULO 230.
 
@@ -2041,7 +2037,7 @@ INCAPACIDAD DEL SUJETO A PATRIA POTESTAD PARA OBLIGARSE Y COMPARECER EN JUICIO. 
 
 ###### ARTÍCULO 232.
 
-REPRESENTACIÓN Y ADMINISTRACIÓN DE LOS QUE EJERCEN LA PATRIA POTESTAD. Los que ejercen la patria potestad son legítimos representantes de los que están bajo ella, y tienen la administración legal de los bienes que les pertenecen.
+REPRESENTACION Y ADMINISTRACIÓN DE LOS QUE EJERCEN LA PATRIA POTESTAD. Los que ejercen la patria potestad son legítimos representantes de los que están bajo ella, y tienen la administración legal de los bienes que les pertenecen.
 
 ###### ARTÍCULO 233.
 
@@ -2443,7 +2439,7 @@ XV.- Los demás a quienes lo prohíbe la Ley.
 
 ###### ARTÍCULO 288.
 
-PROHIBICIÓN PARA SER TUTOR DEL SUJETO A INTERDICCIÓN O INHABILITACIÓN. No pueden ser tutores del interdicto o inhabilitado los que hayan sido causa de su interdicción o inhabilitación o hubieren fomentado directa o indirectamente dicha causa.
+PROHIBICIÓN PARA SER TUTOR DEL SUJETO A INTERDICCIÓN O INHABILITACION. No pueden ser tutores del interdicto o inhabilitado los que hayan sido causa de su interdicción o inhabilitación o hubieren fomentado directa o indirectamente dicha causa.
 
 ### CAPÍTULO VII. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
 
@@ -2639,7 +2635,7 @@ PROHIBICIÓN DE ENAJENAR O GRAVAR POR EL TUTOR BIENES DEL INCAPAZ. Los bienes in
 
 ###### ARTÍCULO 318.
 
-PLAZO JUDICIAL PARA LA INVERSIÓN PERMITIDA AL TUTOR. Cuando la enajenación se haya permitido para cubrir con su producto algún objeto determinado, el Juez señalará al tutor un plazo dentro del cual deberá acreditar que el producto de la enajenación se invirtió en ese objeto. Mientras que no se haga la inversión se observará lo dispuesto en la parte final del artículo 242 de este Código.
+PLAZO JUDICIAL PARA LA INVERSION PERMITIDA AL TUTOR. Cuando la enajenación se haya permitido para cubrir con su producto algún objeto determinado, el Juez señalará al tutor un plazo dentro del cual deberá acreditar que el producto de la enajenación se invirtió en ese objeto. Mientras que no se haga la inversión se observará lo dispuesto en la parte final del artículo 242 de este Código.
 
 ###### ARTÍCULO 319.
 
@@ -2663,7 +2659,7 @@ Para que el tutor transija, cuando el objeto de la reclamación consista en bien
 
 ###### ARTÍCULO 323.
 
-CLÁUSULA COMPROMISORIA O COMPROMISO EN ÁRBITROS CELEBRADOS POR EL TUTOR. Será necesaria licencia judicial para que el tutor pueda comprometer en árbitros los negocios del incapacitado.
+CLÁUSULA COMPROMISORIA O COMPROMISO EN ARBITROS CELEBRADOS POR EL TUTOR. Será necesaria licencia judicial para que el tutor pueda comprometer en árbitros los negocios del incapacitado.
 
 El compromiso en árbitros que celebre respecto de bienes inmuebles, sin dicha licencia, será inexistente.
 
@@ -3083,7 +3079,7 @@ El representante y los poseedores provisionales y definitivos, en sus respectivo
 
 ###### ARTÍCULO 384.
 
-APLICACIÓN DE LAS NORMAS CONDUCENTES DE LA TUTELA A LA CONDICIÓN JURÍDICA DEL REPRESENTANTE DEL DESAPARECIDO. Al representante del desaparecido e ignorado le serán aplicables las reglas sobre retribución, impedimentos, excusas y remoción de los tutores.
+APLICACIÓN DE LAS NORMAS CONDUCENTES DE LA TUTELA A LA CONDICIÓN JURIDICA DEL REPRESENTANTE DEL DESAPARECIDO. Al representante del desaparecido e ignorado le serán aplicables las reglas sobre retribución, impedimentos, excusas y remoción de los tutores.
 
 ###### ARTÍCULO 385.
 
@@ -3141,7 +3137,7 @@ DECLARACIÓN DE AUSENCIA Y EFECTOS SEGÚN HAYA O NO TESTAMENTO. Declarada la aus
 
 ###### ARTÍCULO 393.
 
-PLURALIDAD DE HEREDEROS Y DIVISIÓN DE BIENES. Si son varios los herederos y los bienes admiten cómoda división, cada uno administrará la parte respectiva; en este caso, cada heredero dará la garantía que corresponda a la parte de bienes que administre, salvo los casos previstos en la fracción I del artículo 399 de este Código.
+PLURALIDAD DE HEREDEROS Y DIVISION DE BIENES. Si son varios los herederos y los bienes admiten cómoda división, cada uno administrará la parte respectiva; en este caso, cada heredero dará la garantía que corresponda a la parte de bienes que administre, salvo los casos previstos en la fracción I del artículo 399 de este Código.
 
 Si una parte de los bienes fuere cómodamente divisible y otra no, respecto de ésta se nombrará el administrador general.
 
@@ -3153,7 +3149,7 @@ NOMBRAMIENTO DE INTERVENTOR POR HEREDEROS NO ADMINISTRADORES. Los herederos que 
 
 ###### ARTÍCULO 395.
 
-SITUACIÓN LEGAL DE LOS POSEEDORES PROVISIONALES. El que entre en la posesión provisional tendrá, respecto de los bienes, las mismas obligaciones, facultades y restricciones que los tutores.
+SITUACION LEGAL DE LOS POSEEDORES PROVISIONALES. El que entre en la posesión provisional tendrá, respecto de los bienes, las mismas obligaciones, facultades y restricciones que los tutores.
 
 ###### ARTÍCULO 396.
 
@@ -3171,7 +3167,7 @@ Mientras no se dé la expresada garantía, no cesará la administración del rep
 
 ###### ARTÍCULO 399.
 
-QUIÉNES NO ESTÁN OBLIGADOS A PRESTAR GARANTÍA. No están obligados a dar garantías:
+QUIENES NO ESTAN OBLIGADOS A PRESTAR GARANTÍA. No están obligados a dar garantías:
 
 I.- El cónyuge, los descendientes y los ascendientes que como herederos entren en la posesión de los bienes del ausente, por la parte que en ellos les corresponda;
 
@@ -3327,6 +3323,10 @@ El Registro Civil podrá emitir constancias parciales que contengan extractos de
 
 La Dirección General del Registro Civil establecerá con el Registro Nacional de Población las normas y procedimientos técnicos para convalidar recíprocamente la información que se derive del estado civil de las personas a fin de otorgarle plena validez y seguridad jurídica a la información generada por la utilización de instrumentos y mecanismos técnicos automatizados.
 
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 423 BIS.- Las constancias parciales expedidas por las Oficialías del Registro Civil del Estado de Morelos que contengan extractos de las actas registrales emitidas a partir del año 2003, y que se encuentren en buen estado, sin alteraciones y legibles tendrán vigencia indefinida y validez en todo el territorio Morelense y constituirán prueba plena ante cualquier instancia, salvo las relativas al matrimonio y a las constancias de inexistencia, que tendrán una vigencia no mayor a seis meses.
+
 ###### ARTÍCULO 424.
 
 LIBROS DEL REGISTRO CIVIL. Todos los libros del Registro Civil serán visados en su primera y última hoja por el Director General y autorizados por el mismo con su rúbrica en las demás, y se renovarán cada año.
@@ -3361,7 +3361,7 @@ Las declaraciones de los comparecientes hechas en cumplimiento de lo mandado por
 
 ###### ARTÍCULO 430.
 
-PRUEBA SUCEDÁNEA EN CASO DE INEXISTENCIA, PÉRDIDA O DETERIORO DE ACTAS. Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren hojas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumentos o testigos, pero si uno solo de los libros se ha inutilizado y existe el otro ejemplar, de éste deberá tomarse la prueba, sin admitirla de otra clase.
+PRUEBA SUCEDANEA EN CASO DE INEXISTENCIA, PÉRDIDA O DETERIORO DE ACTAS. Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren hojas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumentos o testigos, pero si uno solo de los libros se ha inutilizado y existe el otro ejemplar, de éste deberá tomarse la prueba, sin admitirla de otra clase.
 
 ###### ARTÍCULO 431.
 
@@ -3369,7 +3369,7 @@ PETICIÓN DE TRASLADO DEL OFICIAL DEL REGISTRO CIVIL O COMPARECENCIA POR MANDATA
 
 ###### ARTÍCULO 432.
 
-ALEGACIÓN DE NULIDAD O DE FALSEDAD DE ACTAS DEL REGISTRO CIVIL. La nulidad del acto inscrito y la falsedad de las actas del Registro Civil sólo podrán probarse judicialmente.
+ALEGACION DE NULIDAD O DE FALSEDAD DE ACTAS DEL REGISTRO CIVIL. La nulidad del acto inscrito y la falsedad de las actas del Registro Civil sólo podrán probarse judicialmente.
 
 ###### ARTÍCULO 433
 
@@ -3473,7 +3473,7 @@ ACTAS DE NACIMIENTO EN CASO DE PARTO MÚLTIPLE. Cuando se trate de parto múltip
 
 ###### ARTÍCULO 450.
 
-ACTAS DE NACIMIENTO Y DE DEFUNCIÓN DEL RECIEN NACIDO. Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento atento lo dispuesto por el artículo 3 de este Código y otra de defunción.
+ACTAS DE NACIMIENTO Y DE DEFUNCION DEL RECIEN NACIDO. Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento atento lo dispuesto por el artículo 3 de este Código y otra de defunción.
 
 ### CAPÍTULO IV. DE LAS ACTAS DE MATRIMONIO
 
@@ -3557,7 +3557,7 @@ Las denuncias anónimas o hechas por cualquier otro medio, si no se presentare p
 
 ###### ARTÍCULO 459.
 
-NOTIFICACIÓN PREVIA A LOS PRETENDIENTES AL ENVÍO DE LA DENUNCIA DEL POSIBLE IMPEDIMENTO MATRIMONIAL AL JUZGADO DE LO FAMILIAR. El Oficial del Registro Civil antes de remitir el acta al Juzgado de lo Familiar hará saber a los pretendientes el impedimento denunciado aunque sea relativo solamente a uno de ellos, absteniéndose de tramitar todo procedimiento ulterior hasta que la sentencia cause ejecutoria.
+NOTIFICACIÓN PREVIA A LOS PRETENDIENTES AL ENVIO DE LA DENUNCIA DEL POSIBLE IMPEDIMENTO MATRIMONIAL AL JUZGADO DE LO FAMILIAR. El Oficial del Registro Civil antes de remitir el acta al Juzgado de lo Familiar hará saber a los pretendientes el impedimento denunciado aunque sea relativo solamente a uno de ellos, absteniéndose de tramitar todo procedimiento ulterior hasta que la sentencia cause ejecutoria.
 
 Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare la inexistencia o se obtenga dispensa de él.
 
@@ -3633,7 +3633,7 @@ ANOTACIÓN DEL ACTA DE MATRIMONIO EN OTRAS ACTAS. Extendida el acta de matrimoni
 
 ###### ARTÍCULO 468.
 
-LEVANTAMIENTO Y ENVÍO DEL ACTA DE DIVORCIO. Ejecutoriada la sentencia de divorcio, el Juez que la hubiere decretado remitirá copia certificada de ella al Oficial del Registro Civil que corresponda, para que levante el acta respectiva, la que contendrá los requisitos especificados en el artículo 469 de este Código.
+LEVANTAMIENTO Y ENVIO DEL ACTA DE DIVORCIO. Ejecutoriada la sentencia de divorcio, el Juez que la hubiere decretado remitirá copia certificada de ella al Oficial del Registro Civil que corresponda, para que levante el acta respectiva, la que contendrá los requisitos especificados en el artículo 469 de este Código.
 
 ###### ARTÍCULO 469.
 
@@ -3681,11 +3681,11 @@ El registro extemporáneo de defunción podrá ser tramitado ante el Oficial del
 
 ###### ARTÍCULO 474.
 
-AUXILIO DE LA AUTORIDAD MUNICIPAL EN AUSENCIA DE OFICIALÍA DEL REGISTRO CIVIL. Si el fallecimiento ocurriere en un lugar o población en que no haya Oficialía del Registro Civil, la autoridad Municipal extenderá la constancia respectiva, que remitirá al Oficial del Registro Civil que corresponda, para que asiente el Acta.
+AUXILIO DE LA AUTORIDAD MUNICIPAL EN AUSENCIA DE OFICIALIA DEL REGISTRO CIVIL. Si el fallecimiento ocurriere en un lugar o población en que no haya Oficialía del Registro Civil, la autoridad Municipal extenderá la constancia respectiva, que remitirá al Oficial del Registro Civil que corresponda, para que asiente el Acta.
 
 ###### ARTÍCULO 475.
 
-LEVANTAMIENTO DE ACTA DE DEFUNCIÓN POR MUERTE VIOLENTA O PERSONA DESCONOCIDA. Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta dará parte al Ministerio Público, comunicándole todos los informes que tenga para que proceda a la averiguación conforme a derecho. Cuando el Ministerio Público averigüe la causa del fallecimiento dará parte al Oficial del Registro Civil para que éste asiente el acta respectiva. Si se ignora el nombre del fallecido, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Oficial del Registro Civil para que los anote.
+LEVANTAMIENTO DE ACTA DE DEFUNCION POR MUERTE VIOLENTA O PERSONA DESCONOCIDA. Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta dará parte al Ministerio Público, comunicándole todos los informes que tenga para que proceda a la averiguación conforme a derecho. Cuando el Ministerio Público averigüe la causa del fallecimiento dará parte al Oficial del Registro Civil para que éste asiente el acta respectiva. Si se ignora el nombre del fallecido, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Oficial del Registro Civil para que los anote.
 
 En los casos de explosión, inundación, naufragio, incendio o cualquier otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que ministren los que lo encontraron, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos y objetos que traía consigo.
 
@@ -3703,9 +3703,9 @@ En el caso de traslado de cadáveres, el acta de defunción deberá levantarse p
 
 ###### ARTÍCULO 477.
 
-PROHIBICIÓN DE INSCRIBIR CIRCUNSTANCIAS PERJUDICIALES EN EL ACTA DE DEFUNCIÓN. En los casos de muerte en los establecimientos de reclusión, no se hará en los registros mención de esta circunstancia y las actas solamente contendrán los demás requisitos que prescribe el artículo 472, fracciones I y II de este Código.
+PROHIBICIÓN DE INSCRIBIR CIRCUNSTANCIAS PERJUDICIALES EN EL ACTA DE DEFUNCION. En los casos de muerte en los establecimientos de reclusión, no se hará en los registros mención de esta circunstancia y las actas solamente contendrán los demás requisitos que prescribe el artículo 472, fracciones I y II de este Código.
 
-## TÍTULO SEGUNDO. DE LA INSCRIPCIÓN, RECTIFICACIÓN Y ACLARACIÓN DE LAS ACTAS DEL REGISTRO CIVIL
+## TÍTULO SEGUNDO. DE LA INSCRIPCIÓN, RECTIFICACION Y ACLARACIÓN DE LAS ACTAS DEL REGISTRO CIVIL
 
 ### CAPÍTULO II. INSCRIPCIÓN EN ACTAS SOBRE EJECUTORIAS QUE DECLAREN LA TUTELA
 
@@ -3749,7 +3749,7 @@ NOTIFICACIÓN DE LA RECUPERACIÓN DE LA CAPACIDAD LEGAL DEL PUPILO AL OFICIAL DE
 
 ###### ARTÍCULO 484.
 
-PLAZO COMÚN PARA REMITIR AL OFICIAL DEL REGISTRO CIVIL COPIA CERTIFICADA DE LA SENTENCIA EJECUTORIADA. Las autoridades judiciales que declaren la incapacidad legal de alguna persona para administrar bienes o su persona, la ausencia o la presunción de muerte, dentro del plazo de quince días remitirán al Oficial del Registro Civil que corresponda, copia certificada de la resolución ejecutoriada respectiva.
+PLAZO COMUN PARA REMITIR AL OFICIAL DEL REGISTRO CIVIL COPIA CERTIFICADA DE LA SENTENCIA EJECUTORIADA. Las autoridades judiciales que declaren la incapacidad legal de alguna persona para administrar bienes o su persona, la ausencia o la presunción de muerte, dentro del plazo de quince días remitirán al Oficial del Registro Civil que corresponda, copia certificada de la resolución ejecutoriada respectiva.
 
 ###### ARTÍCULO 485.
 
@@ -3801,11 +3801,11 @@ Cuando toda la herencia se distribuya en legados, los legatarios serán consider
 
 ###### ARTÍCULO 493.
 
-INCERTIDUMBRE CRONOLÓGICA EN LA MUERTE DEL AUTOR DE LA HERENCIA O SUS LEGATARIOS. Si el autor de la herencia y sus herederos o legatarios perecieron sin que pudiera averiguarse con certeza quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
+INCERTIDUMBRE CRONOLOGICA EN LA MUERTE DEL AUTOR DE LA HERENCIA O SUS LEGATARIOS. Si el autor de la herencia y sus herederos o legatarios perecieron sin que pudiera averiguarse con certeza quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
 
 ###### ARTÍCULO 494.
 
-DERECHOS DE LOS HEREDEROS PREVIOS A LA DIVISIÓN. A la muerte del autor de la sucesión, los herederos adquieren derecho a la masa hereditaria sobre un patrimonio común, mientras no se haga la división.
+DERECHOS DE LOS HEREDEROS PREVIOS A LA DIVISION. A la muerte del autor de la sucesión, los herederos adquieren derecho a la masa hereditaria sobre un patrimonio común, mientras no se haga la división.
 
 ###### ARTÍCULO 495.
 
@@ -3877,7 +3877,7 @@ VALIDEZ DE DISPOSICIONES TESTAMENTARIAS. Será válida la disposición hecha en 
 
 ###### ARTÍCULO 506.
 
-INCAPACIDAD PARA HEREDAR POR LA COMISIÓN DE UN DELITO O ACTO ILÍCITO. Por razón de delito son incapaces de adquirir por testamento:
+INCAPACIDAD PARA HEREDAR POR LA COMISION DE UN DELITO O ACTO ILICITO. Por razón de delito son incapaces de adquirir por testamento:
 
 I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge, o hermanos de ella;
 
@@ -3915,13 +3915,13 @@ CAPACIDAD PARA HEREDAR EN CASO DE INTESTADO. En los casos de intestado, los desc
 
 ###### ARTÍCULO 510.
 
-INCAPACIDAD POR PRESUNCIÓN DE INFLUENCIA O PRESIÓN CONTRARIA A LA LIBERTAD DEL TESTADOR O INTEGRIDAD DEL TESTAMENTO. Por presunción de influencia o presión contraria a la libertad del autor de la herencia, son incapaces de adquirir por testamento del menor, los tutores y curadores, a no ser que sean instituidos antes de ser nombrados para el cargo o después de la mayor edad de aquél, estando ya aprobadas las cuentas de la tutela.
+INCAPACIDAD POR PRESUNCIÓN DE INFLUENCIA O PRESION CONTRARIA A LA LIBERTAD DEL TESTADOR O INTEGRIDAD DEL TESTAMENTO. Por presunción de influencia o presión contraria a la libertad del autor de la herencia, son incapaces de adquirir por testamento del menor, los tutores y curadores, a no ser que sean instituidos antes de ser nombrados para el cargo o después de la mayor edad de aquél, estando ya aprobadas las cuentas de la tutela.
 
 La incapacidad a que se refiere el párrafo anterior no comprende a los ascendientes ni hermanos del menor, observándose en su caso lo dispuesto en la fracción IX del artículo 506 de este Código.
 
 ###### ARTÍCULO 511.
 
-INCAPACIDAD PARA HEREDAR POR TESTAMENTO DE LOS MÉDICOS Y SUS FAMILIARES. Por presunción contraria a la libertad del testador, son incapaces de heredar por testamento, el médico que haya asistido a aquél durante su última enfermedad, si entonces hizo su disposición testamentaria, así como el cónyuge, ascendientes, descendientes y hermanos del facultativo, a no ser que los herederos instituidos sean también herederos legítimos.
+INCAPACIDAD PARA HEREDAR POR TESTAMENTO DE LOS MEDICOS Y SUS FAMILIARES. Por presunción contraria a la libertad del testador, son incapaces de heredar por testamento, el médico que haya asistido a aquél durante su última enfermedad, si entonces hizo su disposición testamentaria, así como el cónyuge, ascendientes, descendientes y hermanos del facultativo, a no ser que los herederos instituidos sean también herederos legítimos.
 
 ###### ARTÍCULO 512.
 
@@ -3987,11 +3987,11 @@ CARGAS Y CONDICIONES DEL HEREDERO SUBSTITUTO. El que hereda en lugar del excluid
 
 ###### ARTÍCULO 525.
 
-IMPROCEDENCIA DE LA CONTRAPRETENSIÓN DE INCAPACIDAD A LOS DEUDORES HEREDITARIOS. Los deudores hereditarios que fueren demandados y que no tengan el carácter de herederos, no podrán oponer, al que esté en posesión del derecho de heredero o legatario, la defensa de incapacidad.
+IMPROCEDENCIA DE LA CONTRAPRETENSION DE INCAPACIDAD A LOS DEUDORES HEREDITARIOS. Los deudores hereditarios que fueren demandados y que no tengan el carácter de herederos, no podrán oponer, al que esté en posesión del derecho de heredero o legatario, la defensa de incapacidad.
 
 ###### ARTÍCULO 526.
 
-CASOS EN QUE SE PRIVA TAMBIÉN DE LOS ALIMENTOS AL HEREDERO. A excepción de los casos comprendidos en las fracciones X y XI del artículo 506 de este Código, la incapacidad para heredar a que se refiere ese numeral, priva también de los alimentos que correspondan por Ley.
+CASOS EN QUE SE PRIVA TAMBIEN DE LOS ALIMENTOS AL HEREDERO. A excepción de los casos comprendidos en las fracciones X y XI del artículo 506 de este Código, la incapacidad para heredar a que se refiere ese numeral, priva también de los alimentos que correspondan por Ley.
 
 ###### ARTÍCULO 527.
 
@@ -4057,7 +4057,7 @@ La disposición que autoriza el párrafo anterior, será nula cuando la transmis
 
 ###### ARTÍCULO 536.
 
-CONDICIONES TESTAMENTARIAS IMPOSIBLES E ILÍCITAS. La condición física o legalmente imposible de dar o de hacer, impuesta al heredero o legatario, se tiene por no puesta, pero si sólo en razón a la condición se hizo la institución de heredero o legatario, la institución misma será nula.
+CONDICIONES TESTAMENTARIAS IMPOSIBLES E ILICITAS. La condición física o legalmente imposible de dar o de hacer, impuesta al heredero o legatario, se tiene por no puesta, pero si sólo en razón a la condición se hizo la institución de heredero o legatario, la institución misma será nula.
 
 Las condiciones ilícitas, las prohibidas por la Ley o contrarias a las buenas costumbres, se tienen por no puestas, o anulan la institución.
 
@@ -4143,7 +4143,7 @@ REQUISITOS PARA RECIBIR PENSIÓN ALIMENTICIA DEL TESTADOR. Para tener derecho a 
 
 ###### ARTÍCULO 548.
 
-PROHIBICIÓN DE RENUNCIA O TRANSACCIÓN A LA PENSIÓN ALIMENTICIA. El derecho de percibir alimentos no es renunciable ni puede ser objeto de transacción. La pensión alimenticia se fijará y asegurará conforme a lo dispuesto en los artículos 43 y 44 de este Código, y por ningún motivo excederá de los productos de la porción que en caso de sucesión intestada corresponderían al que tenga derecho a dicha pensión, ni bajará de la mitad de dichos productos. Si el testador hubiere fijado la pensión alimenticia, subsistirá su designación, cualquiera que sea, siempre que no baje de lo antes establecido. Con excepción de los artículos citados en el presente Capítulo, no son aplicables a los alimentos debidos por sucesión, las disposiciones del Capítulo III, Título Único, Libro Segundo de este Código.
+PROHIBICIÓN DE RENUNCIA O TRANSACCION A LA PENSIÓN ALIMENTICIA. El derecho de percibir alimentos no es renunciable ni puede ser objeto de transacción. La pensión alimenticia se fijará y asegurará conforme a lo dispuesto en los artículos 43 y 44 de este Código, y por ningún motivo excederá de los productos de la porción que en caso de sucesión intestada corresponderían al que tenga derecho a dicha pensión, ni bajará de la mitad de dichos productos. Si el testador hubiere fijado la pensión alimenticia, subsistirá su designación, cualquiera que sea, siempre que no baje de lo antes establecido. Con excepción de los artículos citados en el presente Capítulo, no son aplicables a los alimentos debidos por sucesión, las disposiciones del Capítulo III, Título Único, Libro Segundo de este Código.
 
 ###### ARTÍCULO 549.
 
@@ -4239,7 +4239,7 @@ FALTA DE EFECTOS DEL LEGADO. No produce efecto el legado si por acto del testado
 
 ###### ARTÍCULO 566.
 
-IMPOSICIÓN DE GRAVÁMENES POR LEGADOS. Por virtud del legado, el testador puede imponer obligaciones a cargo de la herencia o de un heredero. También puede gravar con legados de dar o de hacer no sólo a los herederos sino a los mismos legatarios.
+IMPOSICIÓN DE GRAVAMENES POR LEGADOS. Por virtud del legado, el testador puede imponer obligaciones a cargo de la herencia o de un heredero. También puede gravar con legados de dar o de hacer no sólo a los herederos sino a los mismos legatarios.
 
 ###### ARTÍCULO 567.
 
@@ -4295,11 +4295,11 @@ En caso de omisión atribuible al albacea, los legatarios podrán exigir la entr
 
 ###### ARTÍCULO 577.
 
-RETENCIÓN DE LA COSA LEGADA. Si la cosa legada estuviese en poder del legatario, podrá éste retenerla, sin perjuicio de devolver en caso de reducción lo que corresponda conforme a derecho.
+RETENCION DE LA COSA LEGADA. Si la cosa legada estuviese en poder del legatario, podrá éste retenerla, sin perjuicio de devolver en caso de reducción lo que corresponda conforme a derecho.
 
 ###### ARTÍCULO 578.
 
-DEDUCCIÓN DE LAS CONTRIBUCIONES DEL LEGADO. El importe de las contribuciones correspondientes al legado, se deducirá del valor de éste, a no ser que el testador disponga otra cosa.
+DEDUCCION DE LAS CONTRIBUCIONES DEL LEGADO. El importe de las contribuciones correspondientes al legado, se deducirá del valor de éste, a no ser que el testador disponga otra cosa.
 
 ###### ARTÍCULO 579.
 
@@ -4411,7 +4411,7 @@ Lo dispuesto en el párrafo que precede se observará también en el legado de u
 
 ###### ARTÍCULO 599.
 
-DESEMPEÑO O REDENCIÓN DE LA PRENDA O HIPOTECA SOBRE LA COSA LEGADA. Si la cosa legada está dada en prenda o hipotecada, o lo fuere después de otorgado el testamento, el desempeño o la redención serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa.
+DESEMPEÑO O REDENCION DE LA PRENDA O HIPOTECA SOBRE LA COSA LEGADA. Si la cosa legada está dada en prenda o hipotecada, o lo fuere después de otorgado el testamento, el desempeño o la redención serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa.
 
 Si por no pagar el obligado, conforme al párrafo anterior, lo hiciere el legatario, quedará éste subrogado en el lugar y derechos del acreedor para reclamar contra aquél.
 
@@ -4437,19 +4437,19 @@ LEGADO PARA MEJORAMIENTO DE LA CONDICIÓN DEL DEUDOR. Por medio de un legado, pu
 
 ###### ARTÍCULO 604.
 
-LEGADO DE CRÉDITO. El legado hecho a un tercero, de un crédito a favor del testador, sólo produce efecto en la parte del crédito que esté insoluto al tiempo de abrirse la sucesión.
+LEGADO DE CREDITO. El legado hecho a un tercero, de un crédito a favor del testador, sólo produce efecto en la parte del crédito que esté insoluto al tiempo de abrirse la sucesión.
 
 En el caso del párrafo anterior, el que debe cumplir el legado entregará al legatario el título del crédito y le cederá todas las pretensiones que en virtud de él correspondan al testador, por lo que, el que debe pagar el legado queda enteramente libre de la obligación de saneamiento y de cualquiera otra responsabilidad, ya provenga ésta del mismo título, ya de insolvencia del deudor o de sus fiadores, ya de otra causa.
 
 ###### ARTÍCULO 605.
 
-SUBSISTENCIA DE LOS INTERESES EN LOS LEGADOS DE DEUDA Y CRÉDITO. Los legados de que hablan los artículos 600 y 604 de este Ordenamiento, comprenden los intereses que por el crédito o deuda se deban a la muerte del testador.
+SUBSISTENCIA DE LOS INTERESES EN LOS LEGADOS DE DEUDA Y CREDITO. Los legados de que hablan los artículos 600 y 604 de este Ordenamiento, comprenden los intereses que por el crédito o deuda se deban a la muerte del testador.
 
 Dichos legados subsistirán aunque el testador haya demandado judicialmente al deudor, si el pago no se ha realizado.
 
 ###### ARTÍCULO 606.
 
-LEGADO DE LIBERACIÓN DE DEUDAS. El legado genérico de liberación o perdón de las deudas, comprende sólo las existentes al tiempo de otorgar el testamento y no las posteriores.
+LEGADO DE LIBERACION DE DEUDAS. El legado genérico de liberación o perdón de las deudas, comprende sólo las existentes al tiempo de otorgar el testamento y no las posteriores.
 
 ###### ARTÍCULO 607.
 
@@ -4467,7 +4467,7 @@ LEGADO SOBRE BIEN INMUEBLE INDETERMINADO. Si el bien indeterminado fuere inmuebl
 
 ###### ARTÍCULO 610.
 
-EVICCIÓN EN LEGADOS DE BIENES INDETERMINADOS. El obligado a la entrega del legado responderá en caso de evicción, si el bien fuere indeterminado y se señalase solamente por género o especie.
+EVICCION EN LEGADOS DE BIENES INDETERMINADOS. El obligado a la entrega del legado responderá en caso de evicción, si el bien fuere indeterminado y se señalase solamente por género o especie.
 
 ###### ARTÍCULO 611.
 
@@ -4491,7 +4491,7 @@ Si el testador acostumbró en vida dar al legatario cierta cantidad de dinero po
 
 ###### ARTÍCULO 615.
 
-DURACIÓN Y TERMINACIÓN DEL LEGADO DE EDUCACIÓN. El legado de educación dura hasta que el legatario sale de la menor edad.
+DURACIÓN Y TERMINACIÓN DEL LEGADO DE EDUCACION. El legado de educación dura hasta que el legatario sale de la menor edad.
 
 Cesa también el legado de educación, si el legatario, durante la menor edad obtiene profesión u oficio con qué poder subsistir, o si contrae matrimonio.
 
@@ -4501,7 +4501,7 @@ LEGADO DE PENSIÓN. El legado de pensión, sea cual fuere la cantidad, el objeto
 
 ###### ARTÍCULO 617.
 
-DURACIÓN Y TERMINACIÓN DE LOS LEGADOS DE USO, USUFRUCTO, HABITACIÓN Y DE SERVIDUMBRE. Los legados de usufructo, uso, habitación o servidumbre, subsistirán mientras viva el legatario, a no ser que el testador dispusiere que duren menos.
+DURACIÓN Y TERMINACIÓN DE LOS LEGADOS DE USO, USUFRUCTO, HABITACION Y DE SERVIDUMBRE. Los legados de usufructo, uso, habitación o servidumbre, subsistirán mientras viva el legatario, a no ser que el testador dispusiere que duren menos.
 
 Duran veinte años los legados de que trata el párrafo anterior, si fueren dejados a alguna corporación que tuviere capacidad de adquirirlos.
 
@@ -4515,7 +4515,7 @@ Si no se hubiere señalado tiempo para el cumplimiento de la carga, ni ésta por
 
 ###### ARTÍCULO 619.
 
-LEGADO DE PRESTACIÓN PERIÓDICA. Si el legado fuere de prestación periódica que deba concluir en un día que es inseguro si llegará o no, llegado el día, el legatario habrá hecho suyas todas las prestaciones que correspondan hasta aquel día; asimismo hará suyas todas las cantidades vencidas hasta el día señalado.
+LEGADO DE PRESTACION PERIODICA. Si el legado fuere de prestación periódica que deba concluir en un día que es inseguro si llegará o no, llegado el día, el legatario habrá hecho suyas todas las prestaciones que correspondan hasta aquel día; asimismo hará suyas todas las cantidades vencidas hasta el día señalado.
 
 ###### ARTÍCULO 620.
 
@@ -4557,7 +4557,7 @@ Si los herederos instituidos en partes desiguales fueren substituidos recíproca
 
 ###### ARTÍCULO 626.
 
-OBLIGACIÓN HEREDITARIA DE INVERTIR EN OBRAS BENÉFICAS. La obligación que se impone al heredero de invertir ciertas cantidades en obras benéficas, como pensiones para estudiantes, para los pobres o para cualquier establecimiento de beneficencia, no está comprendida en la prohibición del artículo 623 de este Código.
+OBLIGACIÓN HEREDITARIA DE INVERTIR EN OBRAS BENEFICAS. La obligación que se impone al heredero de invertir ciertas cantidades en obras benéficas, como pensiones para estudiantes, para los pobres o para cualquier establecimiento de beneficencia, no está comprendida en la prohibición del artículo 623 de este Código.
 
 Si la carga se impusiere sobre bienes inmuebles y fuere temporal, el heredero o herederos podrán disponer de la finca gravada, sin que cese el gravamen mientras que la inscripción de éste no se cancele.
 
@@ -4695,7 +4695,7 @@ En el caso del párrafo que precede, no tendrá validez el testamento mientras n
 
 ###### ARTÍCULO 644.
 
-PROHIBICIÓN EN LA REDACCIÓN DE TESTAMENTO. Se prohíbe a los Notarios y a cualesquiera otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos días de salario mínimo general vigente en la región en caso de su infracción a los notarios y de la mitad a los que no lo fueren.
+PROHIBICIÓN EN LA REDACCION DE TESTAMENTO. Se prohíbe a los Notarios y a cualesquiera otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos días de salario mínimo general vigente en la región en caso de su infracción a los notarios y de la mitad a los que no lo fueren.
 
 ###### ARTÍCULO 645.
 
@@ -4707,9 +4707,7 @@ Si los interesados están ausentes o son desconocidos, la noticia se dará al Ju
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2016)</small>
 
-###### ARTICULO 645 Bis.
-
-En todos los casos en que se otorgue un testamento conforme a lo dispuesto en este Código, el Notario que dé fe o la autoridad competente que lo reciba, deberá formular un aviso de testamento por vía electrónica al Archivo General de Notarías con los datos conducentes señalados en la legislación aplicable y su reglamento.
+ARTÍCULO 645 BIS.- En todos los casos en que se otorgue un testamento conforme a lo dispuesto en este Código, el Notario que dé fe o la autoridad competente que lo reciba, deberá formular un aviso de testamento por vía electrónica al Archivo General de Notarías con los datos conducentes señalados en la legislación aplicable y su reglamento.
 
 Cuando el Archivo General de Notarías del Estado reciba una solicitud de informe acerca de la existencia o inexistencia de disposición testamentaria, para emitir su informe, deberá consultar la base de datos del Registro Nacional de Avisos de Testamento a fin de proporcionar al solicitante el reporte de búsqueda nacional, que se obtenga de su consulta.
 
@@ -4843,7 +4841,7 @@ EFECTOS DE LA ALTERACIÓN DEL TESTAMENTO PÚBLICO CERRADO. El testamento cerrado
 
 ###### ARTÍCULO 668.
 
-SANCIONES POR FALTA DE PRESENTACIÓN O POR SUSTRACCIÓN DEL TESTAMENTO PÚBLICO CERRADO. Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en el artículo 645 de este Código, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
+SANCIONES POR FALTA DE PRESENTACION O POR SUSTRACCION DEL TESTAMENTO PÚBLICO CERRADO. Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en el artículo 645 de este Código, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
 
 ### CAPÍTULO V. DEL TESTAMENTO PRIVADO
 
@@ -4991,7 +4989,7 @@ Sabiéndose el lugar donde se hallan los testigos, serán examinados por exhorto
 
 ###### ARTÍCULO 689.
 
-MUERTE O AUSENCIA DE ALGÚN TESTIGO. Si después de la muerte del testador muriese alguno de los testigos, se hará la declaración con los restantes, con tal de que no sean menos de tres, manifiestamente capaces y contestes.
+MUERTE O AUSENCIA DE ALGUN TESTIGO. Si después de la muerte del testador muriese alguno de los testigos, se hará la declaración con los restantes, con tal de que no sean menos de tres, manifiestamente capaces y contestes.
 
 Lo dispuesto en el párrafo anterior se observará también en el caso de ausencia de alguno o algunos de los testigos, siempre que en la falta de comparecencia del testigo no hubiere dolo.
 
@@ -5009,7 +5007,7 @@ ENTREGA DEL TESTAMENTO MILITAR. Los testamentos otorgados por escrito, conforme 
 
 ###### ARTÍCULO 692.
 
-TESTAMENTO MILITAR ORAL. Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de él desde luego al jefe de la corporación, quien dará parte en el acto a la Secretaría de la Defensa Nacional, y ésta a la autoridad judicial competente, a fin de que proceda, teniendo en cuenta lo dispuesto en los artículos 685 al 689 de este Código.
+TESTAMENTO MILITAR ORAL. Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de él desde luego al jefe de la corporación, quien dará parte en el acto a la Secretaria de la Defensa Nacional, y ésta a la autoridad judicial competente, a fin de que proceda, teniendo en cuenta lo dispuesto en los artículos 685 al 689 de este Código.
 
 ### CAPÍTULO VIII. DEL TESTAMENTO HECHO EN PAÍS EXTRANJERO O FUERA DEL ESTADO
 
@@ -5029,7 +5027,7 @@ TESTAMENTO MARÍTIMO DEL CAPITÁN. Si el capitán hiciere su testamento, desempe
 
 ###### ARTÍCULO 696.
 
-DEPÓSITO POR EL CAPITÁN DEL TESTAMENTO MARÍTIMO ANTE AGENTES DIPLOMÁTICOS O CONSULARES. Si el buque arribare a un puerto en que haya agente diplomático, cónsul o vicecónsul mexicano, el capitán depositará en su poder uno de los ejemplares del testamento, fechado y sellado, con una copia de la nota que debe constar en el diario de la embarcación.
+DEPÓSITO POR EL CAPITÁN DEL TESTAMENTO MARÍTIMO ANTE AGENTES DIPLOMATICOS O CONSULARES. Si el buque arribare a un puerto en que haya agente diplomático, cónsul o vicecónsul mexicano, el capitán depositará en su poder uno de los ejemplares del testamento, fechado y sellado, con una copia de la nota que debe constar en el diario de la embarcación.
 
 Si el testador desembarca en un lugar donde no haya agente diplomático o consular, y no se sabe si ha muerto, ni la fecha del fallecimiento, se procederá conforme a lo dispuesto en el Libro quinto de este código.
 
@@ -5053,11 +5051,11 @@ SUPUESTOS PARA QUE PRODUZCA EFECTOS EL TESTAMENTO MARÍTIMO. El testamento marí
 
 ###### ARTÍCULO 701.
 
-REQUISITOS PARA QUE SURTAN EFECTOS LOS TESTAMENTOS REALIZADOS EN PAÍS EXTRANJERO O FUERA DEL ESTADO DE MORELOS. Los testamentos hechos en país extranjero o fuera del Estado de Morelos, producirán efecto en éste cuando hayan sido formulados de acuerdo con las leyes del país en que se otorgaron.
+REQUISITOS PARA QUE SURTAN EFECTOS LOS TESTAMENTOS REALIZADOS EN PAIS EXTRANJERO O FUERA DEL ESTADO DE MORELOS. Los testamentos hechos en país extranjero o fuera del Estado de Morelos, producirán efecto en éste cuando hayan sido formulados de acuerdo con las leyes del país en que se otorgaron.
 
 ###### ARTÍCULO 702.
 
-FUNCIONES NOTARIALES DE LOS AGENTES DIPLOMÁTICOS Y CONSULARES EN EL OTORGAMIENTO DE TESTAMENTOS DE MORELENSES EN EL EXTRANJERO. Los secretarios de legación, los cónsules y los vicecónsules mexicanos podrán hacer las veces de notarios o de encargados del Registro, en el otorgamiento de los testamentos de los morelenses en el extranjero, en los casos en que las disposiciones testamentarias deban tener su ejecución en el Estado de Morelos.
+FUNCIONES NOTARIALES DE LOS AGENTES DIPLOMATICOS Y CONSULARES EN EL OTORGAMIENTO DE TESTAMENTOS DE MORELENSES EN EL EXTRANJERO. Los secretarios de legación, los cónsules y los vicecónsules mexicanos podrán hacer las veces de notarios o de encargados del Registro, en el otorgamiento de los testamentos de los morelenses en el extranjero, en los casos en que las disposiciones testamentarias deban tener su ejecución en el Estado de Morelos.
 
 Los funcionarios mencionados remitirán copia autorizada de los testamentos que ante ellos se hubieren otorgado, a la Secretaría de Relaciones Exteriores, para los efectos prevenidos en el Código Civil para el Distrito Federal.
 
@@ -5115,7 +5113,7 @@ IMPOSIBILIDAD DE HEREDAR POR PARENTESCO DE AFINIDAD. El parentesco de afinidad n
 
 ###### ARTÍCULO 710.
 
-EXCLUSIÓN DE PARIENTES REMOTOS POR LOS PRÓXIMOS. Los parientes más próximos excluyen a los más remotos en todos los casos de sucesión de descendientes, ascendientes, y colaterales, exceptuándose únicamente los casos de concurrencia expresamente señalados por la Ley y los comprendidos en los artículos 715 y 734 de este Código.
+EXCLUSIÓN DE PARIENTES REMOTOS POR LOS PROXIMOS. Los parientes más próximos excluyen a los más remotos en todos los casos de sucesión de descendientes, ascendientes, y colaterales, exceptuándose únicamente los casos de concurrencia expresamente señalados por la Ley y los comprendidos en los artículos 715 y 734 de este Código.
 
 ###### ARTÍCULO 711.
 
@@ -5173,7 +5171,7 @@ SUCESIÓN DE ASCENDIENTES POR AUSENCIA DE PADRES. A falta de padre y madre suced
 
 ###### ARTÍCULO 722.
 
-CONCURRENCIA DE ASCENDIENTES POR UNA O AMBAS LÍNEAS. Si hubiere ascendientes por ambas líneas, la herencia se dividirá en dos partes iguales, y se aplicará una a los ascendientes de la línea paterna y otra a la de la materna.
+CONCURRENCIA DE ASCENDIENTES POR UNA O AMBAS LINEAS. Si hubiere ascendientes por ambas líneas, la herencia se dividirá en dos partes iguales, y se aplicará una a los ascendientes de la línea paterna y otra a la de la materna.
 
 Los miembros de cada línea dividirán entre sí, por partes iguales, la porción que les corresponda.
 
@@ -5245,7 +5243,7 @@ SUCESIÓN DE LOS HIJOS DE LOS HERMANOS A FALTA DE ESTOS. A falta de hermanos, su
 
 ###### ARTÍCULO 736.
 
-SUCESIÓN DE LOS PARIENTES MAS PRÓXIMOS POR AUSENCIA DE TODOS LOS ANTERIORES. A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos dentro del cuarto grado, sin distinción de línea, ni consideración al doble vínculo, y heredarán por partes iguales.
+SUCESIÓN DE LOS PARIENTES MAS PROXIMOS POR AUSENCIA DE TODOS LOS ANTERIORES. A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos dentro del cuarto grado, sin distinción de línea, ni consideración al doble vínculo, y heredarán por partes iguales.
 
 ### CAPÍTULO VII. DE LA SUCESIÓN DEL ESTADO
 
@@ -5271,7 +5269,7 @@ CONOCIMIENTO JUDICIAL DE LA PREÑEZ DE LA VIUDA. Cuando a la muerte del marido l
 
 ###### ARTÍCULO 740.
 
-SOLICITUD AL JUEZ PARA EVITAR SUPOSICIÓN DE PARTE, DE INFANTE O DE VIABILIDAD. Los interesados a que se refiere el precedente artículo pueden pedir al Juez que dicte las providencias convenientes para evitar la suposición del parto, la substitución del infante o que se haga pasar por viable la criatura que no lo es.
+SOLICITUD AL JUEZ PARA EVITAR SUPOSICION DE PARTE, DE INFANTE O DE VIABILIDAD. Los interesados a que se refiere el precedente artículo pueden pedir al Juez que dicte las providencias convenientes para evitar la suposición del parto, la substitución del infante o que se haga pasar por viable la criatura que no lo es.
 
 Cuidará el Juez de que las medidas que dicte no ataquen al pudor ni a la libertad de la viuda.
 
@@ -5309,7 +5307,7 @@ NOTIFICACIÓN DE DILIGENCIAS JUDICIALES A LA VIUDA. Para cualquiera de las dilig
 
 ###### ARTÍCULO 749.
 
-SUSPENSIÓN DE LA DIVISIÓN DE LA HERENCIA. La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez, mas los acreedores podrán ser pagados por mandato judicial.
+SUSPENSIÓN DE LA DIVISION DE LA HERENCIA. La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez, mas los acreedores podrán ser pagados por mandato judicial.
 
 ### CAPÍTULO III. DE LOS ALBACEAS
 
@@ -5583,7 +5581,7 @@ El Juez, en una sola audiencia que deberá citar dentro del tercer día de prese
 
 ###### ARTÍCULO 797.
 
-OBLIGACIÓN DEL ALBACEA A PRESENTACIÓN MENSUAL DE LA DISTRIBUCIÓN PROVISIONAL. El albacea que no presente cada mes la distribución provisional de los productos obtenidos en igual periodo, a partir de la aceptación de su encargo, o que no entregue a los herederos y legatarios los productos que les corresponden, dentro de los diez días siguientes, trátese de productos obtenidos cada mes o al término de otros lapsos anteriores, será inmediatamente destituido de su encargo, a petición de cualquier interesado o del Ministerio Público, debiendo el Juez resolver de plano su destitución, en una audiencia a la que citará dentro del tercer día.
+OBLIGACIÓN DEL ALBACEA A PRESENTACION MENSUAL DE LA DISTRIBUCIÓN PROVISIONAL. El albacea que no presente cada mes la distribución provisional de los productos obtenidos en igual periodo, a partir de la aceptación de su encargo, o que no entregue a los herederos y legatarios los productos que les corresponden, dentro de los diez días siguientes, trátese de productos obtenidos cada mes o al término de otros lapsos anteriores, será inmediatamente destituido de su encargo, a petición de cualquier interesado o del Ministerio Público, debiendo el Juez resolver de plano su destitución, en una audiencia a la que citará dentro del tercer día.
 
 ###### ARTÍCULO 798.
 
@@ -5615,7 +5613,7 @@ TERMINO AL ALBACEA PARA FORMULAR INVENTARIO. El albacea debe formar un inventari
 
 ###### ARTÍCULO 803.
 
-OBLIGACIÓN DEL ALBACEA DE IMPEDIR EXTRACCIÓN DE BIENES HEREDITARIOS. El albacea, antes de formar el inventario, no permitirá la extracción de bien alguno, si no es que conste la propiedad ajena por el mismo testamento, por instrumento público o por los libros llevados en debida forma, si el autor de la herencia hubiere sido comerciante.
+OBLIGACIÓN DEL ALBACEA DE IMPEDIR EXTRACCION DE BIENES HEREDITARIOS. El albacea, antes de formar el inventario, no permitirá la extracción de bien alguno, si no es que conste la propiedad ajena por el mismo testamento, por instrumento público o por los libros llevados en debida forma, si el autor de la herencia hubiere sido comerciante.
 
 Cuando la propiedad del bien ajeno conste por medios diversos de los enumerados en el párrafo que precede, al albacea se limitará a poner al margen de las partidas respectivas una nota que indique la pertenencia del bien para que la propiedad se discuta en el juicio correspondiente.
 
@@ -5881,11 +5879,11 @@ PRESUPUESTO PARA QUE EL HEREDERO TRANSMITA SUS DERECHOS A SUS HEREDEROS. El here
 
 ###### ARTÍCULO 855.
 
-PRETENSIÓN DE PETICIÓN DE HERENCIA. El heredero tiene pretensión para reclamar los bienes de la herencia que se encuentren en poder de quien los tenga a título de sucesor del causante, sin derecho suficiente, aunque no hubiere sido judicialmente declarado. Procede la pretensión, en el mismo caso, contra el heredero que rehúsa reconocer al demandante como coheredero, o contra quien pretende serlo en concurrencia con él.
+PRETENSIÓN DE PETICIÓN DE HERENCIA. El heredero tiene pretensión para reclamar los bienes de la herencia que se encuentren en poder de quien los tenga a título de sucesor del causante, sin derecho suficiente, aunque no hubiere sido judicialmente declarado. Procede la pretensión, en el mismo caso, contra el heredero que rehusa reconocer al demandante como coheredero, o contra quien pretende serlo en concurrencia con él.
 
 Esta pretensión se denomina de petición de herencia.
 
-###### ARTÍCULO 856
+###### ARTÍCULO 856.
 
 PERSONAS QUE PUEDEN DEDUCIR LA PRETENSIÓN DE PETICIÓN DE HERENCIA. La petición de herencia se deducirá por el heredero testamentario o por intestado, o por el que haga sus veces en la disposición testamentaria; y se da además contra el albacea o contra el poseedor de las cosas hereditarias con el carácter de heredero, o cesionario de éste y contra el que no alega título ninguno de posesión del bien hereditario, o dolosamente dejó de poseerlo.
 
@@ -5929,7 +5927,7 @@ CONCURRENCIA DE HEREDEROS POR POSIBLE FRAUDE O PERJUICIO DE ACREEDORES POR PARTE
 
 ###### ARTÍCULO 865.
 
-OPOSICIÓN DE ACREEDORES HEREDITARIOS AL PAGO DE UN HEREDERO CON BIENES DE LA HERENCIA PARA DEUDAS PERSONALES. Los acreedores de la herencia pueden oponerse válidamente al pago que pretendiere hacer o que hubiere hecho un heredero, con los bienes de la masa, para solventar sus deudas personales. Si al efecto pidiere que se citare a audiencia en los términos del artículo anterior y el pago no estuviere hecho, el Juez negará de plano la autorización para ejecutarlo. Si el pago se hubiere efectuado, a petición de cualquier acreedor o de un legatario que resulte perjudicado, se declarará, previo el incidente respectivo, la nulidad del mismo. El citado incidente se tramitará ante el Juez de la sucesión y en relación con el juicio hereditario.
+OPOSICIÓN DE ACREEDORES HEREDITARIOS AL PAGO DE UN HEREDERO CON BIENES DE LA HERENCIA PARA DEUDAS PERSONALES. Los acreedores de la herencia pueden oponerse válidamente al pago que pretendiere hacer o que hubiere hecho un heredero, con los bienes de la masa, para solventar sus deudas personales. Si al efecto pidiere que se citare a audiencia en los términos del articulo anterior y el pago no estuviere hecho, el Juez negará de plano la autorización para ejecutarlo. Si el pago se hubiere efectuado, a petición de cualquier acreedor o de un legatario que resulte perjudicado, se declarará, previo el incidente respectivo, la nulidad del mismo. El citado incidente se tramitará ante el Juez de la sucesión y en relación con el juicio hereditario.
 
 ###### ARTÍCULO 866.
 
@@ -5973,7 +5971,7 @@ ABONOS RECÍPROCOS DE RENTAS Y FRUTOS ENTRE COHEREDEROS. Los coherederos deben a
 
 ###### ARTÍCULO 874.
 
-PAGO DE PENSIONES DERIVADAS DE LA HERENCIA. Si el testador hubiere legado alguna pensión o renta vitalicia, sin gravar con ella en particular a algún heredero o legatario, se capitalizará al nueve por ciento anual, y se separará un capital o fondo de igual valor, que se entregará a la persona que deba percibir la pensión o renta, quien tendrá todas las obligaciones de mero usufructuario. Lo mismo se observará cuando se trate de las pensiones alimenticias a que se refiere el artículo 545 de este Código.
+PAGO DE PENSIONES DERIVADAS DE LA HERENCIA. Si el testador hubiere legado alguna pensión o renta vitalicia, sin gravar con ella en particular a algún heredero o legatario, se capitalizará al nueve por ciento anual, y se separará un capital o fondo de igual valor, que se entregará a la persona que deba percibir la pensión o renta, quien tendrá todas las obligaciones de mero usufructuario. Lo mismo se observará cuando se trate de las pensiones alimenticias a que se refiere el articulo 545 de este Código.
 
 En el proyecto de partición se expresará la parte que del capital o fondo afecto a la pensión, corresponda a cada uno de los herederos luego que aquélla se extinga.
 
@@ -6043,7 +6041,7 @@ Los que pagaren por el insolvente, conservarán su pretensión contra él, para 
 
 ###### ARTÍCULO 884.
 
-EFECTOS DE LA ADJUDICACIÓN DE CRÉDITOS COBRABLES. Si se adjudica como cobrable un crédito, los coherederos no responden de la insolvencia posterior del deudor hereditario, y sólo son responsables de su solvencia al tiempo de hacerse la partición.
+EFECTOS DE LA ADJUDICACION DE CRÉDITOS COBRABLES. Si se adjudica como cobrable un crédito, los coherederos no responden de la insolvencia posterior del deudor hereditario, y sólo son responsables de su solvencia al tiempo de hacerse la partición.
 
 ###### ARTÍCULO 885.
 
@@ -6051,7 +6049,7 @@ FALTA DE RESPONSABILIDAD POR CRÉDITOS INCOBRABLES. Por los créditos incobrable
 
 ###### ARTÍCULO 886.
 
-POSIBILIDAD DEL HEREDERO PARA SOLICITAR A LOS DEMÁS LA PRESTACIÓN DE CAUCIÓN. El heredero cuyos bienes hereditarios fueren embargados, o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que puede resultarles y, en caso contrario, que se les prohíba enajenar los bienes que recibieron.
+POSIBILIDAD DEL HEREDERO PARA SOLICITAR A LOS DEMAS LA PRESTACION DE CAUCIÓN. El heredero cuyos bienes hereditarios fueren embargados, o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que puede resultarles y, en caso contrario, que se les prohíba enajenar los bienes que recibieron.
 
 ###### ARTÍCULO 887.
 
@@ -6219,11 +6217,11 @@ P.O. 1 DE FEBRERO DE 2012.
 
 DECRETO No. 1635 POR EL QUE SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 38 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
 Aprobado el presente, remítase para su publicación en el Periódico Oficial Tierra y Libertad, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -6279,11 +6277,11 @@ SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de 
 
 P.O. 8 DE OCTUBRE DE 2014.
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, y la fracción XVII, inciso a) del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO SEGUNDO.
 
 Este Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
 
@@ -6644,3 +6642,13 @@ DÉCIMA. En un plazo no mayor de 90 días hábiles, contados a partir de la vige
 DÉCIMA PRIMERA. En un plazo no mayor de 90 días hábiles, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados.
 
 DÉCIMA SEGUNDA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto, en caso de que se hubiere realizado la entrega - recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial "Tierra y Libertad" 5611.
+
+P.O. 21 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SETENTA Y CUATRO POR EL CUAL SE ADICIONA UN ARTÍCULO 423 BIS AL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango normativo jerárquico que contravengan lo dispuesto por la presente reforma constitucional local.
