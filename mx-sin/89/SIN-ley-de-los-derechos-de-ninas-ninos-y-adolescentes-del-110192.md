@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-110192"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2018-02-09"
+last_updated: "2019-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2015.
 
@@ -945,7 +945,9 @@ VI. Fomentarles el respeto a todas las personas, así como el cuidado de los bie
 
 VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación;
 
-VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de su patria potestad, tutela o guarda y custodia no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2019)</small>
+
+VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral; así como de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal. El ejercicio de su patria potestad, tutela o guarda y custodia no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
 
 IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre ellos, y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia;
 
@@ -1752,3 +1754,9 @@ P.O. 9 DE FEBRERO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 SEGUNDO. Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto deberán hacerse las modificaciones respectivas al Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa, y quedan derogadas las demás disposiciones que contravengan al presente Decreto.
+
+P.O. 21 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 296 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 83 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
