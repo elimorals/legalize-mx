@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transparencia-acceso-a-la-informacion-publica-y-115044"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-18"
-last_updated: "2018-07-23"
+last_updated: "2019-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el miércoles 18 de mayo de 2016.
 
@@ -389,7 +389,9 @@ VII. El directorio de todos los Servidores Públicos, a partir del nivel de jefe
 
 El directorio deberá incluir, al menos el nombre, cargo o nombramiento asignado, nivel del puesto en la estructura orgánica, fecha de alta en el cargo, número telefónico, domicilio para recibir correspondencia y dirección de correo electrónico oficiales;
 
-VIII. La remuneración bruta y neta de todos los Servidores Públicos de base o de confianza, de todas las percepciones, incluyendo sueldos, prestaciones, gratificaciones, primas, comisiones, dietas, bonos, estímulos, ingresos y sistemas de compensación, señalando la periodicidad de dicha remuneración;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2019)</small>
+
+VIII. La remuneración bruta y neta de todos los Servidores Públicos de base o de confianza, de todas las percepciones, incluyendo sueldos, prestaciones, gratificaciones, primas, comisiones, dietas, bonos, estímulos, ingresos y sistemas de compensación, señalando la periodicidad de dicha remuneración. Esta información, deberá ser transparentada en sus portales de Internet, de forma permanentemente y actualizada, señalando la periodicidad de dicha remuneración, así como el sexo y cargo de la persona que lo percibe, ello atendiendo al principio de igualdad y no discriminación;
 
 IX. Los gastos de representación y viáticos, así como el objeto e informe de comisión correspondiente;
 
@@ -2322,3 +2324,11 @@ SEGUNDO. El Consejo General de (sic) Instituto Electoral de Michoacán; el Pleno
 El Pleno del Consejo del Poder Judicial del Estado de Michoacán, contará con sesenta días naturales a partir de la entrada en vigor del presente Decreto, para remitir al Congreso el nombramiento, acompañado del expediente debidamente foliado y pormenorizado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso haga la ratificación del titular del Órgano Interno de Control.
 
 TERCERO. El Poder Judicial del Estado de Michoacán, el Instituto Electoral de Michoacán; el Tribunal Electoral del Estado de Michoacán; el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales y la Comisión Estatal de Derechos Humanos, contará con un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto para adecuar su normativa interna.
+
+P.O. 22 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 150 POR EL QUE "SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 35 DE LA LEY DE TRASPARENCIA (SIC), ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Las autoridades, entidades, órganos y organismos de los poderes Legislativo, Ejecutivo y Judicial o de los municipios, órganos autónomos, partidos políticos y demás autoridades, contempladas en el presente Decreto, tendrán un plazo de ciento ochenta días hábiles para publicar las remuneraciones brutas y netas, por medios impresos y electrónicos, donde de entre otros desgloses, se adicione un apartado por sexo y cargo desempeñado, ateniendo al principio de igualdad y no discriminación.
