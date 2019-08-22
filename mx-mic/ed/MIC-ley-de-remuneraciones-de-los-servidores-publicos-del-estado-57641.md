@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-remuneraciones-de-los-servidores-publicos-del-estado-576
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2007-11-21"
+last_updated: "2019-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE REMUNERACIONES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE REMUNERACIONES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el miércoles 21 de noviembre de 2007.
 
@@ -37,7 +37,7 @@ EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA:
 
 NÚMERO 247
 
-LEY DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MICHOACÁN DE OCAMPO
+LEY DE REMUNERACIONES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ## Título Primero
 
@@ -62,6 +62,10 @@ Además de los principios de legalidad, honradez, lealtad, imparcialidad y efici
 I. Principio de igualdad: La remuneración de los servidores públicos se determinará sin discriminación motivada por sexo, edad, etnia, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra la dignidad humana; y,
 
 II. Principio de equidad: La remuneración de cada función pública deberá ser proporcional a la responsabilidad que derive del cargo y al presupuesto designado para el órgano de la autoridad en cuyo tabulador se incluya.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2019)</small>
+
+Para atender los principios anteriormente citados, los sujetos obligados, deberán incluir en los tabuladores la remuneración bruta y neta de todos los Servidores Públicos de base o de confianza, de todas las percepciones, incluyendo sueldos, prestaciones, gratificaciones, primas, comisiones, dietas, bonos, estímulos, ingresos y sistemas de compensación, señalando la periodicidad de dicha remuneración, así como el sexo y cargo de la persona que lo percibe.
 
 ###### Artículo 5.
 
@@ -193,6 +197,8 @@ Los ayuntamientos podrán tomar como base las recomendaciones que emita la Comis
 
 La remuneración que perciban los servidores públicos del Estado, por concepto de viáticos, gastos de representación o cualquier otro de naturaleza similar, sólo será pagada una vez que se haya justificado plenamente la comisión y no podrán formar parte de la remuneración integrada mensual de los servidores públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 22 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 22.
 
 Los sujetos de la Ley, en el ejercicio de sus presupuestos por concepto de servicios personales, deberán observar lo siguiente:
@@ -201,9 +207,17 @@ I. Apegarse estrictamente a los niveles establecidos en los tabuladores, cuotas,
 
 II. Abstenerse de contratar trabajadores temporales, a menos que las contrataciones se encuentren previstas en su presupuesto;
 
-III. Abstenerse de otorgar retribuciones de cualquier naturaleza por la asistencia o representación en órganos de gobierno, juntas directivas, consejos, comités técnicos y otros; y,
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2019)</small>
 
-IV. Efectuar remuneraciones solamente cuando sean autorizadas y se encuentren previstas en sus respectivos presupuestos.
+III. Abstenerse de otorgar retribuciones de cualquier naturaleza por la asistencia o representación en órganos de gobierno, juntas directivas, consejos, comités técnicos y otros;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2019)</small>
+
+IV. Efectuar remuneraciones solamente cuando sean autorizadas y se encuentren previstas en sus respectivos presupuestos; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2019)</small>
+
+V. Elaborar el tabulador de remuneraciones bruta y neta de todos los servidores públicos en donde se indique un desglose por sexo y cargo desempeñado.
 
 ###### Artículo 23.
 
@@ -243,6 +257,14 @@ PRESIDENTE.- DIP. GUSTAVO ARIAS GARDUÑO.- PRIMER SECRETARIO.- DIP. MARTÍN SAMA
 
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 02 dos días del mes de octubre del año 2007 dos mil siete.
 
-SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ
+SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados)
 
-MARTÍNEZ. (Firmados)
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 150 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 4 Y 22 DE LA LEY DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Las autoridades, entidades, órganos y organismos de los poderes Legislativo, Ejecutivo y Judicial o de los municipios, órganos autónomos, partidos políticos y demás autoridades, contempladas en el presente Decreto, tendrán un plazo de ciento ochenta días hábiles para publicar las remuneraciones brutas y netas, por medios impresos y electrónicos, donde de entre otros desgloses, se adicione un apartado por sexo y cargo desempeñado, ateniendo al principio de igualdad y no discriminación.
