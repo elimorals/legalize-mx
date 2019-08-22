@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-planeacion-hacendaria-presupuesto-gasto-publico-y-99750"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-20"
-last_updated: "2018-12-31"
+last_updated: "2019-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 20 de marzo de 2014.
 
@@ -447,7 +447,9 @@ Los presupuestos por concepto de servicios personales, se sustentarán en las pl
 
 Tratándose de los Poderes Legislativo, Judicial; y Organismos Autónomos, se basarán en las plantillas y tabuladores que aprueben sus órganos competentes.
 
-En los proyectos de presupuesto que presenten los Poderes Legislativo, Ejecutivo y Judicial, las Dependencias, Entidades y Organismos Autónomos, se adjuntarán los tabuladores y las plantillas autorizadas por la autoridad competente.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2019)</small>
+
+En los proyectos de presupuesto que presenten los Poderes Legislativo, Ejecutivo y Judicial, las Dependencias, Entidades y Organismos Autónomos, se adjuntarán los tabuladores y las plantillas autorizadas por la autoridad competente, atendiendo al principio de igualdad y no discriminación, señalando el sexo o género y cargo de la persona que lo percibe.
 
 Los mandos medios y superiores desde el nivel de jefe de departamento o equivalente, de los Poderes Ejecutivo, Legislativo y Judicial, del sector paraestatal sea cual fuere la figura jurídica y denominación que adopten sus Entidades y de los Organismos Autónomos, así como del ámbito municipal y paramunicipal, con independencia de su régimen laboral, mecanismo o forma de pago, lugar de adscripción, puesto, plaza o remuneración que devenguen; no podrán recibir ni otorgar por sus servicios personales, de manera excepcional, permanente o periódica, por conclusión de sexenio, trienio o cualquier periodo de trabajo; ingresos adicionales por concepto de bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie asociada o no al sistema de remuneraciones y prestaciones, que no estén expresamente establecidos y justificados para ese propósito en la ley, los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas.
 
@@ -1606,3 +1608,11 @@ P.O. 31 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 119, POR EL QUE “SE REFORMAN LOS ARTÍCULOS 8 FRACCIÓN II INCISO B), 13 PÁRRAFOS PRIMERO Y SEGUNDO; 15; 17 PÁRRAFO PRIMERO, 20, 37 PÁRRAFO CUARTO FRACCIONES I, II Y III; 39, 44 PÁRRAFOS PRIMERO Y SEGUNDO Y 103; Y, SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 2º, TODOS DE LA LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ARTÍCULO PRIMERO (SIC). El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 22 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 150 POR EL QUE “SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 18 DE LA LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Las autoridades, entidades, órganos y organismos de los poderes Legislativo, Ejecutivo y Judicial o de los municipios, órganos autónomos, partidos políticos y demás autoridades, contempladas en el presente Decreto, tendrán un plazo de ciento ochenta días hábiles para publicar las remuneraciones brutas y netas, por medios impresos y electrónicos, donde de entre otros desgloses, se adicione un apartado por sexo y cargo desempeñado, ateniendo al principio de igualdad y no discriminación.
