@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2018-10-30"
+last_updated: "2019-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -762,6 +762,10 @@ XX. Autorizar, de acuerdo a lo establecido en esta Ley y demás disposiciones ap
 > <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
 XX bis. Autorizar y establecer, a partir de la propuesta que las áreas técnicas, administrativas y financieras formulen, y con base en las leyes respectivas y las recomendaciones o lineamientos que expida el Congreso del Estado, directamente o por conducto de la Auditoría Superior de Michoacán, la política salarial del municipio, que deberá guardar congruencia en la estructura orgánica autorizada y observar los principios de austeridad, racionalidad, disciplina presupuestal, equidad, certeza, motivación y proporcionalidad;
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2019)</small>
+
+Los tabuladores de remuneraciones económicas de forma desglosada señalando la remuneración bruta y neta de todos los Servidores Públicos de base o de confianza, de todas las percepciones, incluyendo sueldos, prestaciones, gratificaciones, primas, comisiones, dietas, bonos, estímulos, ingresos y sistemas de compensación, señalando la periodicidad de dicha remuneración, así como el sexo y cargo de la persona que lo percibe, deberá (sic) ser publicada (sic) en el portal de transparencia, atendiendo al principio de igualdad y no discriminación.
 
 XXI. Resolver previo concurso, en los términos convenientes para la comunidad y de conformidad con las disposiciones aplicables, los casos de concesión de servicios públicos de su competencia; y,
 
@@ -3268,3 +3272,11 @@ P.O. 30 DE OCTUBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 597 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 49 FRACCIÓN XVI, 92 Y SE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 93 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 22 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 150 POR EL QUE "SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XX BIS, DEL INCISO B), DEL ARTÍCULO 32, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Las autoridades, entidades, órganos y organismos de los poderes Legislativo, Ejecutivo y Judicial o de los municipios, órganos autónomos, partidos políticos y demás autoridades, contempladas en el presente Decreto, tendrán un plazo de ciento ochenta días hábiles para publicar las remuneraciones brutas y netas, por medios impresos y electrónicos, donde de (sic) entre otros desgloses, se adicione un apartado por sexo y cargo desempeñado, ateniendo al principio de igualdad y no discriminación.
