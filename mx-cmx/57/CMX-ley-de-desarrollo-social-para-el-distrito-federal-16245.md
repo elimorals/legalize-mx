@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-social-para-el-distrito-federal-16245"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2018-02-21"
+last_updated: "2019-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16245&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-04-24"
 
 LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE AGOSTO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
@@ -158,7 +158,9 @@ En todo lo no previsto por esta Ley, será de aplicación supletoria la Ley de P
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Acción para el Desarrollo Social: Acciones de gobierno coordinadas entre una o varias instituciones públicas de uno o diferentes niveles de gobierno, destinadas a atender y/o resolver demandas o problemáticas identificadas de cobertura geográfica focalizada y/o carácter especial, temporal o emergente, que no se encuentran sujetas a Reglas de Operación de programa social alguno, y que requiere para su instrumentación presupuestaria y ejecución de la autorización expresa del Secretario de Desarrollo Social.
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2019)</small>
+
+I. Acción Social: Conjunto de actividades institucionales de desarrollo social y de bienestar normadas por Lineamientos de Operación y que tienen carácter contingente, temporal, emergente o casuístico.
 
 II. Administración: La Administración Pública de la Ciudad de México;
 
@@ -196,7 +198,7 @@ XVIII. Organizaciones Civiles: Aquellas que agrupan a ciudadanos, constituidas c
 
 XIII (SIC). Organizaciones Sociales: Aquellas que agrupan a habitantes del Distrito Federal para la defensa, promoción y realización de sus derechos, así como para el mejoramiento de las condiciones de vida de sus integrantes;
 
-XX. Padrón: Relación oficial de beneficiarios que incluye a las personas atendidas por los programas de Desarrollo Social cuyo perfil socioeconómico se establece en la normatividad correspondiente.
+XX (SIC). Padrón: Relación oficial de beneficiarios que incluye a las personas atendidas por los programas de Desarrollo Social cuyo perfil socioeconómico se establece en la normatividad correspondiente.
 
 XXI. Pobreza: La incapacidad de un individuo o un hogar de satisfacer de manera digna y suficiente sus necesidades básicas en materia de alimentación, salud, educación, vivienda, transporte, recreación, servicios y tiempo libre;
 
@@ -244,9 +246,9 @@ XI. TRANSPARENCIA: La información surgida en todas las etapas del ciclo de las 
 
 XII. EFECTIVIDAD: Obligación de la autoridad de ejecutar los programas sociales de manera austera, con el menor costo administrativo, la mayor celeridad, los mejores resultados e impacto, y con una actitud republicana de vocación de servicio, respeto y reconocimiento de los derechos que profundice el proceso de construcción de ciudadanía de todos los habitantes.
 
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2019)</small>
 
-XIII. PROTECCIÓN DE DATOS PERSONALES: Es obligación de la autoridad de resguardar, tratar y proteger los datos personales proporcionados por la población para acceder a los programas y acciones de desarrollo social, en términos de la normatividad en la materia.
+XIII. PROTECCIÓN DE DATOS PERSONALES: Es obligación de la autoridad de resguardar, tratar y proteger los datos personales proporcionados por la población para acceder a los programas y acciones sociales, en términos de la normatividad en la materia.
 
 Los principios de esta ley constituyen el marco en el cual deberán planearse, ejecutarse y evaluarse el conjunto de las políticas y programas en materia de desarrollo social de la Administración Pública del Distrito Federal.
 
@@ -262,11 +264,11 @@ La política de Desarrollo Social como acción pública y con base en los princi
 
 La aplicación de la presente ley corresponde a los órganos que integran la Administración Pública del Distrito Federal en el ámbito de su competencia.
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 7.
 
-Está prohibida toda práctica discriminatoria en el otorgamiento de subsidios y beneficios que se otorguen como parte de los programas sociales.
+Está prohibida toda práctica discriminatoria en el otorgamiento de subsidios y beneficios que se otorguen como parte de los programas sociales. El uso de programas sociales y acciones sociales con fines electorales será sancionado de conformidad con la legislación aplicable.
 
 > <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2016)</small>
 
@@ -882,11 +884,13 @@ El Instituto de las Mujeres, la Procuraduría General de Justicia, el Sistema pa
 
 ### CAPÍTULO OCTAVO. DE LA PARTICIPACIÓN SOCIAL
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 39.
 
-La sociedad podrá participar activamente en la planeación, programación, implementación y evaluación de los programas y acciones de Desarrollo Social, de acuerdo a lo establecido por la ley y la Ley de Participación Ciudadana del Distrito Federal.
+La sociedad podrá participar activamente en la planeación, programación, implementación y evaluación de los programas y acciones sociales, de acuerdo a lo establecido por la ley y la Ley de Participación Ciudadana del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
 Las organizaciones civiles y sociales, las instituciones académicas, las organizaciones empresariales y todas aquellas cuyos objetivos se comprendan en el concepto de Desarrollo Social, podrán participar con el Gobierno en la ejecución de políticas de Desarrollo Social, sin perjuicio de las obligaciones que la ley impone a la Administración, así como generar iniciativas de proyectos y programas que serán presentadas a la Secretaría.
 
@@ -1014,7 +1018,9 @@ Artículo 42 B.- El Consejo de Evaluación del Desarrollo Social del Distrito Fe
 
 Artículo 42 C.- El Consejo de Evaluación tiene las siguientes atribuciones:
 
-I. Organizar, definir y realizar anualmente por cuenta propia o a través de terceros la evaluación externa de la política y los programas sociales, y dar seguimiento a las recomendaciones que emita;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2019)</small>
+
+I. Organizar, definir y realizar anualmente por cuenta propia o a través de terceros la evaluación externa de la política, los programas y las acciones sociales, y dar seguimiento a las recomendaciones que emita;
 
 II. Definir y medir bianualmente la desigualdad y la pobreza en el Distrito Federal, conforme a la metodología que el mismo defina;
 
@@ -1044,9 +1050,19 @@ XIV. Instrumentar el procedimiento de seguimiento para el cumplimiento de las re
 
 XV. Emitir convocatorias y definir los lineamientos generales a los que deberán apegarse las evaluaciones externas cuando este organismo las realice a través de terceros;
 
-XVI. Elaborar e informar al Jefe de Gobierno sobre la evaluación global de la política social y la evaluación específica externa de cada programa social, y
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2019)</small>
 
-XVII. Las demás necesarias para el cumplimiento de sus funciones.
+XVI. Elaborar e informar al Jefe de Gobierno sobre la evaluación global de la política social y la evaluación específica externa de cada programa social;
+
+> <small>(ADICIONADA, G.O. 22 DE AGOSTO DE 2019)</small>
+
+XVII. Emitir los criterios para la elaboración de Reglas de Operación de Programas Sociales, así como de Lineamientos Generales de Operación de Acciones Sociales.
+
+> <small>(ADICIONADA, G.O. 22 DE AGOSTO DE 2019)</small>
+
+XVIII. Analizar, valorar y, en su caso, aprobar la implementación de Acciones Sociales de todas las Dependencias, Órganos Desconcentrados, y Entidades de la Administración Pública de la Ciudad de México y las Alcaldías, y
+
+XIX. Las demás necesarias para el cumplimiento de sus funciones.
 
 Los resultados de las evaluaciones, investigaciones, informes y mediciones que realice el Consejo de Evaluación deberán publicarse en la Gaceta Oficial del Distrito Federal, en el Sistema de Información del Desarrollo Social, en la página electrónica del Consejo de Evaluación y en los demás medios de difusión con que cuente el Gobierno de la Ciudad.
 
@@ -1357,3 +1373,19 @@ Se derogan todas aquellas disposiciones que contravengan el contenido del presen
 ###### ARTÍCULO TERCERO.
 
 En el momento en que entren en funciones las Alcaldías, las atribuciones, facultades y obligaciones atribuidas a las Delegaciones se entenderán atribuidas a las Alcaldías.
+
+G.O. 22 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, FRACCIÓN I; 4, FRACCIÓN XIII; 7; 39; 42 C, FRACCIÓN I Y XVI; SE ADICIONAN LAS FRACCIONES XVII Y XVIII, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 42 C DE LA LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL; Y SE REFORMA EL ARTÍCULO 128 Y SE ADICIONAN LOS PÁRRAFOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO SEGUNDO AL ARTÍCULO 129 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México para su debida Observancia y aplicación.
+
+TERCERO. Para los efectos correspondientes en tanto no se lleve a cabo una armonización total del contenido de las Leyes cuyos artículos se reforman en el presente decreto y de conformidad con el artículo Décimo Cuarto Transitorio del “Decreto por el que se declaran Reformadas y Derogadas Diversas Disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de la Reforma Política de la Ciudad de México”, en todas las referencias que se hagan respecto del Distrito Federal, deberán entenderse hechas a la Ciudad de México; así como aquellas referencias de la Secretaría de Desarrollo Social se entenderá ahora por Secretaría de Inclusión y Bienestar Social y en donde se Indique Delegaciones se entenderá por Alcaldías.
+
+CUARTO. El Consejo de Evaluación de Desarrollo Social de la Ciudad de México contará con un plazo de treinta días naturales a partir de la publicación del presente Decreto para emitir los lineamientos para la elaboración de acciones sociales a desarrollar por parte de todas las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México y por las Alcaldías.
+
+QUINTO. A partir de la publicación de los lineamientos a que se refiere el transitorio que antecede las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México y las Alcaldías contarán con un plazo de treinta días naturales para notificar al Consejo de Evaluación de Desarrollo Social de la Ciudad de México, todas las acciones sociales, en las que se incluyan las actividades institucionales conforme a la definición contenida en el artículo 3, fracción I del presente decreto de reformas a la Ley de Desarrollo Social para el Distrito Federal, que se encuentren realizando con el propósito de que se realice la evaluación correspondiente.
+
+Los lineamientos preverán mecanismos, procesos y plazos para que las acciones sociales que se encuentren en desarrollo se ajusten a estos.
