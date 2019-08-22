@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-la-universidad-tecnologica-de-138059"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-02"
-last_updated: "2019-08-02"
+last_updated: "2019-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLOGICA DE NEZAHUALCOYOTL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE AGOSTO DE 2019 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA DE NEZAHUALCÓYOTL DEL ESTADO DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 22 DE AGOSTO DE 2019.]</small>
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 2 de agosto de 2019.
 
@@ -591,13 +591,17 @@ SEGUNDO. El presente Acuerdo entrará en vigor al día hábil siguiente de su pu
 
 TERCERO. Se abroga el Código de Conducta para los Servidores Públicos de la Universidad Tecnológica de Nezahualcóyotl emitido el 17 de septiembre de 2018, así como las disposiciones legales de igual o menor jerarquía que contravengan lo estipulado en el presente acuerdo.
 
-Nezahualcóyotl, Estado de México, a los 28 días del mes junio de dos mil diecinueve.
+> <small>(F. DE E., G.G. 22 DE AGOSTO DE 2019)</small>
+
+Nezahualcóyotl, Estado de México, a los 15 días del mes julio de dos mil diecinueve.
 
 Mtra. Ivette Topete García, Rectora de la Universidad Tecnológica de Nezahualcóyotl (Rúbrica).
 
+> <small>(F. DE E., G.G. 22 DE AGOSTO DE 2019)</small>
+
 Mtra. Ivette Topete García
 
-Rectora y Presidenta del Comité de Ética y de Prevención de Conflicto de Intereses de la Universidad Tecnológica de Nezahualcóyotl
+Rectora y Presidenta del Comité de Ética de la Universidad Tecnológica de Nezahualcóyotl
 
 (Rúbrica).
 
@@ -607,7 +611,9 @@ La (El) que suscribe Mtra. Ivette Topete García, Rectora y Presidenta del Comit
 
 Derivado de lo anterior, me comprometo a desempeñar el empleo, cargo o comisión que me ha sido encomendado en el servicio público cumpliendo el Código de Conducta, el Código de Ética de los Servidores Públicos del Poder Ejecutivo del Gobierno del Estado de México y sus Organismos Auxiliares y los Principios, Valores y Reglas de Integridad contenidos en éste, con el objeto de fortalecer la ética en el servicio público, en beneficio de la sociedad.
 
-Ciudad Nezahualcóyotl, Estado de México, a los 28 días del mes de junio del año 2019.
+> <small>(F. DE E., G.G. 22 DE AGOSTO DE 2019)</small>
+
+Ciudad Nezahualcóyotl, Estado de México, a los 15 días del mes de julio del año 2019.
 
 PROTESTO LO NECESARIO
 
@@ -617,7 +623,9 @@ RECTORA Y PRESIDENTA DEL COMITÉ
 
 (RÚBRICA).
 
-Ciudad Nezahualcóyotl, Estado de México a 28 de junio de 2019
+> <small>(F. DE E., G.G. 22 DE AGOSTO DE 2019)</small>
+
+Ciudad Nezahualcóyotl, Estado de México a 15 de julio de 2019
 
 PERSONAS SERVIDORAS PÚBLICAS DE LA UNIVERSIDAD TECNOLÓGICA DE NEZAHUALCÓYOTL
 
@@ -635,7 +643,9 @@ MTRA. IVETTE TOPETE GARCÍA
 
 Firmas de Adhesión al Código de Conducta y Reglas de Integridad por parte del Comité
 
-Una vez que se ha concluido con la revisión de los puntos estipulados en el Código de Conducta y Reglas de Integridad, y levantada la minuta correspondiente, se da por concluida la Sesión del Comité de Ética y de Prevención de Conflicto de Intereses, donde se aprueba para su difusión y conocimiento el Código de Conducta y Reglas de Integridad de la Universidad Tecnológica de Nezahualcóyotl, elaborado en Nezahualcóyotl, Estado de México, a las 10:00 horas con 00 minutos del día 26 de junio de 2019, firmando todos los miembros que en ella intervinieron al margen y calce de todas y cada una de las fojas que integran la presente acta para su debida constancia.
+> <small>(F. DE E., G.G. 22 DE AGOSTO DE 2019)</small>
+
+Una vez que se ha concluido con la revisión de los puntos estipulados en el Código de Conducta y Reglas de Integridad, y levantada la minuta correspondiente, se da por concluida la Sesión del Comité de Ética y de Prevención de Conflicto de Intereses, donde se aprueba para su difusión y conocimiento el Código de Conducta y Reglas de Integridad de la Universidad Tecnológica de Nezahualcóyotl, elaborado en Nezahualcóyotl, Estado de México, a las 10:00 horas con 00 minutos del día 15 de julio de 2019, firmando todos los miembros que en ella intervinieron al margen y calce de todas y cada una de las fojas que integran la presente acta para su debida constancia.
 
 NOMBRE/CARGO FIRMA
 
