@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-austeridad-transparencia-en-remuneraciones-132087"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2019-02-25"
+last_updated: "2019-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132087&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2018-12-28"
 
 LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
-
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DEL 25 DE FEBRERO DE 2019].
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE AGOSTO DE 2019.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 31 de diciembre de 2018.
 
@@ -1430,21 +1428,13 @@ IV. Si existe compromiso recíproco de los particulares y de la Ciudad de Méxic
 
 Los recursos aportados mantienen su naturaleza jurídica de recursos públicos, para efectos de su fiscalización y transparencia.
 
-> <small>(F. DE E., G.O. 25 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 128.
 
-Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades podrán otorgar donativos, apoyos y ayudas para atender contingencias, emergencias, resolver demandas, problemáticas identificadas de carácter especial, temporal y emergente, así como para la realización de actividades que contribuyan al beneficio social o interés público o general, a personas físicas o morales sin fines de carácter político, siempre que cuenten con suficiencia presupuestal y se cumplan con los requisitos que señale el Reglamento.
+Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades podrán otorgar donativos, apoyos y ayudas para atender contingencias, emergencias, resolver demandas, problemáticas identificadas de carácter especial, temporal y emergente, así como para la realización de actividades que contribuyan al beneficio social o interés público o general, a personas físicas o morales sin fines de carácter político, siempre que cuenten con suficiencia presupuestal y se cumplan con los requisitos que establece el artículo 129 y las disposiciones que señale el Reglamento.
 
-Los apoyos, ayudas y los donativos deberán ser autorizados expresamente por el titular de la Dependencia, Alcaldía y Órgano Desconcentrado. Tratándose de Entidades la autorización la otorgará su órgano de gobierno. La facultad para otorgar la autorización será indelegable.
-
-> <small>(F. DE E., G.O. 25 DE FEBRERO DE 2019)</small>
-
-Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades deberán elaborar los lineamientos con base en los criterios establecidos en esta Ley así como en la Ley de Desarrollo Social para el Distrito Federal. Tratándose de la atención de contingencias, emergencias, resolución de demandas, problemáticas identificadas de carácter especial, temporal y emergente, deberán publicarse en la Gaceta Oficial en un lapso que no excederá de 10 días hábiles posteriores al otorgamiento de los donativos, apoyos y ayudas; para el caso de la realización de actividades que contribuyan al beneficio social, la publicación deberá realizarse 10 días hábiles anteriores al otorgamiento.
-
-> <small>(F. DE E., G.O. 25 DE FEBRERO DE 2019)</small>
-
-Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades deberán elaborar el padrón de personas beneficiarias de los donativos, apoyos y ayudas, con base en las características a que hace referencia la Ley de Desarrollo Social para el Distrito Federal, mismo que serán publicados en términos de lo establecido en la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
+Los apoyos, ayudas y los donativos deberán ser autorizados expresamente por el titular de la Dependencia, Alcaldía y Órgano Desconcentrado. Tratándose de Entidades la autorización la otorgará su órgano de gobierno. La facultad para otorgar la autorización será indelegable. Los lineamientos de operación de las acciones sociales serán remitidos al consejo de evaluación del desarrollo social para su valoración y en su caso aprobación para los efectos señalados en el artículo 129.
 
 ###### Artículo 129.
 
@@ -1461,6 +1451,30 @@ Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, a través de
 Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades deberán elaborar las reglas de operación de sus programas de conformidad con los lineamientos que emita el Consejo de Evaluación, mismos que deberán apegarse a lo dispuesto en la Ley de Desarrollo Social vigente para la Ciudad de México y publicarse en el Órgano de difusión local En el caso de que el Comité de Planeación del Desarrollo no apruebe la creación y operación de programas de desarrollo social las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, deberán reasignar el gasto conforme a las disposiciones aplicables.
 
 La Secretaría de la Contraloría en el ámbito de su competencia verificará que el gasto a que se refiere este artículo guarde congruencia con lo dispuesto en esta Ley y en el Presupuesto de Egresos para la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2019)</small>
+
+De igual forma, el Consejo de Evaluación del Desarrollo Social de la Ciudad de México, emitirá anualmente los lineamientos para la elaboración de acciones sociales a desarrollar por parte de todas las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México y por las Alcaldías.
+
+> <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2019)</small>
+
+Las acciones sociales deberán presentarse al Consejo de Evaluación del Desarrollo Social de la Ciudad de México para su aprobación. El Consejo de Evaluación del Desarrollo Social de la Ciudad de México resolverá, de manera fundada sobre la acción social en un plazo máximo de 15 días hábiles desde la recepción del proyecto.
+
+> <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2019)</small>
+
+Las Dependencias, Órganos Desconcentrados, Entidades de la Administración Pública de la Ciudad de México y las Alcaldías podrán articular acciones sociales de manera inmediata para atender las contingencias o emergencias y tendrán un plazo de 15 días hábiles para remitir sus lineamientos de operación al Consejo de Evaluación del Desarrollo de la Ciudad de México, en caso de requerir que tales acciones se prolonguen hasta superar la contingencia o emergencia.
+
+> <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2019)</small>
+
+Las acciones sociales destinadas a atender de manera inmediata contingencias o emergencias, deberán publicarse en la Gaceta Oficial de la Ciudad de México, en un lapso que no excederá de 10 días hábiles posteriores a su otorgamiento, en el caso de la realización de acciones que contribuyan al beneficio social, su publicación deberá realizarse 10 días hábiles anteriores al otorgamiento, Las Dependencias, Órganos Desconcentrados, Entidades de la Administración Pública de la Ciudad de México y las Alcaldías, en la realización de estas acciones deberán observar lo señalado en el artículo 67 de la Ley General de Contabilidad Gubernamental.
+
+> <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2019)</small>
+
+Las acciones sociales no derivadas de una contingencia o emergencia y que tengan índole social, académica, artística, deportiva, cultural o de otra naturaleza que contribuyen al desarrollo social y al bienestar de la población, no podrán iniciarse durante los seis meses previos a la jornada electoral de cualquier cargo de elección popular. El uso de acciones sociales con fines electorales será sancionado de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2019)</small>
+
+En el caso de que el Comité de Planeación del Desarrollo de la Ciudad de México, no apruebe la creación y operación de programas sociales las Dependencias, Órganos Desconcentrados, y Entidades de la Administración Pública de la Ciudad de México y las Alcaldías, deberán reasignar el gasto conforme a las disposiciones aplicables. La Secretaría de la Contraloría General, en el ámbito de su competencia verificará que el gasto a que se refiere este artículo guarde congruencia con lo dispuesto en la presente Ley y en el Presupuesto de Egresos para la Ciudad de México, vigente.
 
 ###### Artículo 130.
 
@@ -1974,7 +1988,9 @@ SEGUNDO. Las Dependencias, Alcaldías, Órganos Desconcentrados, Entidades, Órg
 
 TERCERO. Las remuneraciones de las y los Magistrados del Tribunal de Justicia Administrativa, Magistrados y Jueces del Tribunal Superior de Justicia, Integrantes del Consejo de la Judicatura, Titulares de Organismos Autónomos y Organismos Descentralizados, cuyo desempeño del cargo esté sujeto a un plazo determinado previsto expresamente en la normatividad aplicable, y que a la fecha de la entrada en vigor de este Decreto ya se encuentren en funciones, no podrán ser disminuidas, pudiendo concluir su encargo con las remuneraciones que actualmente perciben, surtiendo efectos la presente Ley hasta que una diversa persona sea nombrada en el cargo de que se trate.
 
-CUARTO. Aquellos servidores públicos que, a la entrada en vigor de la presente Ley, perciban remuneración salarial igual o mayor a la o el Titular de la Jefatura de Gobierno de la Ciudad de México, seguirán percibiendo la misma remuneración hasta que termine su mandato o encargo.
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2019)</small>
+
+CUARTO. Aquellos servidores públicos que, a la entrada en vigor de la presente Ley, perciban remuneración o retribución de las enunciadas en la fracción LXIX del artículo 2 de esta Ley, que sea igual o mayor a la persona Titular de la Jefatura de Gobierno de la Ciudad de México, seguirán percibiendo las mismas remuneraciones o retribuciones hasta que termine su mandato o encargo.
 
 QUINTO. Los procedimientos de responsabilidad administrativa que al momento de entrar en vigor la presente Ley se encuentren en procedimiento, se substanciaran con las leyes y normas vigentes al momento del inicio de los mismos.
 
@@ -1987,3 +2003,27 @@ OCTAVO. Se derogan las normas jurídicas que se opongan al presente Decreto.
 Palacio Legislativo del Congreso de la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil dieciocho.- POR LA MESA DIRECTIVA.- DIPUTADO JOSÉ DE JESÚS MARTÍN DEL CAMPO CASTAÑEDA, PRESIDENTE.- DIPUTADA ISABELA ROSALES HERRERA, SECRETARIA.- DIPUTADA ANA PATRICIA BAEZ GUERRERO, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2° fracciones XVII y XVIII, 6°, 9° fracción I, 18 y 20 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil dieciocho.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE PROTECCIÓN CIVIL Y DE LA GESTIÓN INTEGRAL DE RIESGOS, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, ROSAURA RUÍZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, LARISA ORTÍZ QUINTERO.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, JOSÉ LUIS BEATO GONZÁLEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.-FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.- EL SECRETARIO DE CULTURA, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, JESÚS ORTA MARTÍNEZ.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 22 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, FRACCIÓN I; 4, FRACCIÓN XIII; 7; 39; 42 C, FRACCIÓN I Y XVI; SE ADICIONAN LAS FRACCIONES XVII Y XVIII, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 42 C DE LA LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL; Y SE REFORMA EL ARTÍCULO 128 Y SE ADICIONAN LOS PÁRRAFOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO SEGUNDO AL ARTÍCULO 129 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Publíquese en la Gaceta Oficial de la Ciudad de México para su debida Observancia y aplicación.
+
+TERCERO. Para los efectos correspondientes en tanto no se lleve a cabo una armonización total del contenido de las Leyes cuyos artículos se reforman en el presente decreto y de conformidad con el artículo Décimo Cuarto Transitorio del “Decreto por el que se declaran Reformadas y Derogadas Diversas Disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de la Reforma Política de la Ciudad de México”, en todas las referencias que se hagan respecto del Distrito Federal, deberán entenderse hechas a la Ciudad de México; así como aquellas referencias de la Secretaría de Desarrollo Social se entenderá ahora por Secretaría de Inclusión y Bienestar Social y en donde se Indique Delegaciones se entenderá por Alcaldías.
+
+CUARTO. El Consejo de Evaluación de Desarrollo Social de la Ciudad de México contará con un plazo de treinta días naturales a partir de la publicación del presente Decreto para emitir los lineamientos para la elaboración de acciones sociales a desarrollar por parte de todas las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México y por las Alcaldías.
+
+QUINTO. A partir de la publicación de los lineamientos a que se refiere el transitorio que antecede las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México y las Alcaldías contarán con un plazo de treinta días naturales para notificar al Consejo de Evaluación de Desarrollo Social de la Ciudad de México, todas las acciones sociales, en las que se incluyan las actividades institucionales conforme a la definición contenida en el artículo 3, fracción I del presente decreto de reformas a la Ley de Desarrollo Social para el Distrito Federal, que se encuentren realizando con el propósito de que se realice la evaluación correspondiente.
+
+Los lineamientos preverán mecanismos, procesos y plazos para que las acciones sociales que se encuentren en desarrollo se ajusten a estos.
+
+G.O. 22 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
