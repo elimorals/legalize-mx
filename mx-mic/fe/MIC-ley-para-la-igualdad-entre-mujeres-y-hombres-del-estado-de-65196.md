@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6519
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-01"
-last_updated: "2009-01-01"
+last_updated: "2019-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el jueves 1 de enero de 2009.
 
@@ -85,9 +85,11 @@ XIII. Transversalidad: Es el proceso que permite garantizar la incorporación de
 
 La Ley se sustenta en el reconocimiento de los derechos fundamentales establecidos en la Constitución Política de los Estados Unidos Mexicanos, en los instrumentos internacionales y en la Constitución del Estado.
 
-###### Artículo 4°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2019)</small>
 
-Los derechos que establece esta Ley, protegen a las mujeres y a los hombres que se encuentren en el territorio del Estado, que por razón de su sexo, edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, opinión, discapacidad, entre otros se encuentren con algún tipo de desventaja ante la violación del principio de igualdad.
+###### Artículo 4º.
+
+Los derechos que establece esta Ley, protegen a las mujeres y a los hombres que se encuentren en el territorio del Estado, que por razón de su sexo, edad, estado civil, profesión, cultura, remuneración económica, origen étnico o nacional, condición social, salud, religión, opinión, discapacidad, entre otros se encuentren con algún tipo de desventaja ante la violación del principio de igualdad.
 
 La trasgresión a los principios y programas que la misma prevé, será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado, o en su caso, por las leyes aplicables en la materia.
 
@@ -155,6 +157,10 @@ V. Promover y garantizar la igualdad de oportunidades para mujeres y hombres, me
 
 VI. Celebrar acuerdos de coordinación, cooperación y concertación en materia de igualdad de género;
 
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2019)</small>
+
+VI Bis. Solicitar a través de la Secretaría de Finanzas y Administración, incluyéndola, así como a las demás dependencias a su cargo, el tabulador de la remuneración económica, de forma desglosada a efecto de que se señale la remuneración bruta y neta de todos los Servidores Públicos de base o de confianza, de todas las percepciones, incluyendo sueldos, prestaciones, gratificaciones, primas, comisiones, dietas, bonos, estímulos, ingresos y sistemas de compensación, señalando la periodicidad de dicha remuneración, así como el sexo y cargo de la persona que lo percibe, la cual deberá ser publicada en el portal de internet de los sujetos obligados, atendiendo al principio de igualdad y no discriminación;
+
 VII. Incorporar en el Presupuesto de Egresos del Estado la asignación de recursos necesarios para el cumplimiento de la Política Estatal en materia de Igualdad; y,
 
 VIII. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
@@ -179,9 +185,11 @@ VII. Fomentar la participación de la sociedad civil en la igualdad entre mujere
 
 VIII. Las demás que se requieran para el cumplimiento de los objetivos de esta Ley, del Sistema Estatal y las que determinen las disposiciones generales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 15.
 
-Corresponde a los titulares de las dependencias de la Administración Pública Estatal Centralizada, en el ejercicio de sus atribuciones y para el cumplimiento de la Ley, lo siguiente:
+Corresponde a los titulares de las dependencias de la Administración Pública Estatal Centralizada y organismos autónomos, así como todo aquel que administre recursos públicos, en el ejercicio de sus atribuciones y para el cumplimiento de la Ley, lo siguiente:
 
 I. Conducir, garantizar y fomentar, en el ámbito de sus atribuciones y competencias, la política pública a favor de la igualdad sustantiva entre mujeres y hombres;
 
@@ -192,6 +200,10 @@ III. Determinar, en el ámbito de sus competencias y en función de lo que estab
 IV. Elaborar y presentar al Gobernador del Estado y a la Secretaría de Finanzas y Administración, los requerimientos presupuestales para las políticas públicas, acciones, programas y objetivos del programa estatal, en el marco del Presupuesto de Egresos del Estado;
 
 V. Coadyuvar entre las distintas dependencias y entidades de la Administración Pública Estatal, para la elaboración del programa estatal;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2019)</small>
+
+V Bis. Publicar en el portal de internet del sujeto obligado, de forma permanente y actualizada, los tabuladores de remuneraciones económicas de forma desglosada señalando la remuneración bruta y neta de todos los Servidores Públicos de base o de confianza, de todas las percepciones, incluyendo sueldos, prestaciones, gratificaciones, primas, comisiones, dietas, bonos, estímulos, ingresos y sistemas de compensación, señalando la periodicidad de dicha remuneración, así como el sexo y cargo de la persona que lo percibe, atendiendo al principio de igualdad y no discriminación;
 
 VI. Garantizar la difusión de la Ley en los lengua (sic) de las etnias del Estado y promover la igualdad sustantiva entre sus habitantes; y,
 
@@ -208,6 +220,10 @@ I. Desarrollar la política pública municipal en materia de igualdad entre muje
 II. Coadyuvar con el Gobierno Federal y el Gobierno Estatal, en la consolidación de los programas que promuevan la igualdad entre mujeres y hombres;
 
 III. Proponer convenios de colaboración al Poder Ejecutivo del Estado, para atender sus necesidades presupuestarias en la ejecución de los programas de igualdad;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2019)</small>
+
+III Bis. Publicar en el portal del sujeto obligado, de forma permanente y actualizada, los tabuladores de remuneraciones económicas de forma desglosada señalando la remuneración bruta y neta de todos los Servidores Públicos de base o de confianza, de todas las percepciones, incluyendo sueldos, prestaciones, gratificaciones, primas, comisiones, dietas, bonos, estímulos, ingresos y sistemas de compensación, señalando la periodicidad de dicha remuneración, así como el sexo y cargo de la persona que lo percibe, atendiendo al principio de igualdad y no discriminación;
 
 IV. Diseñar, formular y promover campañas de concientización, así como programas de desarrollo, de acuerdo a las regiones del Estado; y,
 
@@ -516,3 +532,13 @@ DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de O
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 24 veinticuatro días del mes de Diciembre del año 2008 dos mil ocho.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 150 POR EL QUE “SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4°; Y SE ADICIONA LA FRACCIÓN VI BIS AL ARTÍCULO 13, LA FRACCIÓN V BIS AL ARTÍCULO 15 Y LA FRACCIÓN III BIS AL ARTÍCULO 16, DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Las autoridades, entidades, órganos y organismos de los poderes Legislativo, Ejecutivo y Judicial o de los municipios, órganos autónomos, partidos políticos y demás autoridades, contempladas en el presente Decreto, tendrán un plazo de ciento ochenta días hábiles para publicar las remuneraciones brutas y netas, por medios impresos y electrónicos, donde de entre otros desgloses, se adicione un apartado por sexo y cargo desempeñado, ateniendo al principio de igualdad y no discriminación.
