@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "2019-04-09"
+last_updated: "2019-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -287,7 +287,7 @@ VII.- Resolver, en única instancia, las demandas que por responsabilidad civil 
 
 VIII.- Ejercer la jurisdicción disciplinaria que le corresponde por faltas administrativas, excepto la que sea competencia del Consejo de la Judicatura, en los términos del capítulo IV del título décimo de esta ley;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 1999)</small>
 
 IX.- Fijar jurisprudencia por reiteración o por contradicción en los términos que establezca esta ley.
 
@@ -560,10 +560,6 @@ I.- Instruir los asuntos de la competencia de la Sala hasta ponerlos en estado d
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 Las providencias y acuerdos del Presidente podrán ser impugnadas ante el Pleno de la Sala, mediante los recursos que establezca la ley de la materia;
-
-Dicha reclamación se resolverá de plano.
-
-En caso de que la Presidencia estime dudoso o trascendental algún trámite, lo someterá a la consideración de la Sala, para que provea lo que corresponda.
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -1537,7 +1533,7 @@ IV.- Preparar anualmente el anteproyecto del Presupuesto de Egresos del Poder Ju
 
 > <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
-V.- Manejar y administrar la Revista de información judicial;
+V.- Manejar y administrar la revista de información judicial;
 
 VI.- Llevar el control de la información estadística de todas las dependencias del Poder Judicial; y
 
@@ -2203,7 +2199,7 @@ Ningún servidor público de la administración de justicia, podrá tener ocupac
 
 Se exceptúan de este precepto las actividades docentes y honoríficas, siempre que no se afecte la prestación regular de la función judicial.
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+> <small>(F. DE E., 15 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 98.
 
@@ -2339,9 +2335,11 @@ IV.- Guardar reserva sobre las decisiones que se proponga dictar en el proceso; 
 
 V.- Dictar las resoluciones que procedan dentro de los términos legales;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2019)</small>
 
-VI.- Ejercer la supervisión y control sobre todos los servidores de su adscripción, e instruir, en su caso, los procedimientos de responsabilidad administrativa, imponiendo las sanciones disciplinarias conducentes.
+VI.- Emitir acuerdos y sentencias con perspectiva de género, en los términos previstos por la Constitución Federal y los Tratados Internacionales de los que el Estado Mexicano sea parte.
+
+VII.- Ejercer la supervisión y control sobre todos los servidores de su adscripción, e instruir, en su caso, los procedimientos de responsabilidad administrativa, imponiendo las sanciones disciplinarias conducentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -2371,7 +2369,7 @@ Los Secretarios de Acuerdos, deberán llevar, bajo su control y vigilancia, los 
 
 I.- Libro de registro, en el que se asentará el registro de entradas y salidas en forma progresiva y por numeración consecutiva de los expedientes;
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+> <small>(F. DE E. P.O. 15 DE ENERO DE 1991)</small>
 
 II.- De registro de valores, independiente de los legajos que con aquéllos se formen por riguroso orden numérico, conforme a la fecha de su presentación;
 
@@ -2605,15 +2603,11 @@ En caso de que los jueces civiles estuvieren impedidos, pasará al conocimiento 
 
 IV.- Cuando se trate de jueces penales, los asuntos que dejaren de conocer pasarán al juzgado de la misma materia en el propio distrito judicial, atendiendo a su número ordinal.
 
+Si todos los jueces penales de un distrito dejaren de conocer, el asunto pasará al Juez Primero de Primera Instancia en materia civil del mismo distrito; en caso de que estuviere impedido, pasará al siguiente Juez de la misma instancia y materia en el propio distrito, si lo hubiere.
+
+En caso de que los jueces civiles estuvieren impedidos pasará al conocimiento del Juez Primero de Primera Instancia en materia mercantil en el mismo distrito; y en caso de impedimento de éste, pasará al siguiente juez mercantil en el propio distrito, si lo hubiere. Si todos los jueces mercantiles estuvieren impedidos, el asunto se remitirá al Juez Primero de Primera Instancia en Materia Familiar, en caso de que estuviere impedido, pasará al siguiente Juez de la misma instancia y materia en el propio distrito, si lo hubiere. Si todos los jueces familiares estuvieren impedidos, pasará al Juez de Primera Instancia en Materia Penal del distrito judicial más próximo, quien, en su caso, atenderá a las reglas señaladas en este artículo.
+
 V.- (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2015)
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
-
-Si todos los jueces en materia de narcomenudeo de un distrito dejaren de conocer o estuvieren impedidos, pasará al Juez de Primera Instancia en Materia de Narcomenudeo del distrito judicial más próximo.
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
-
-En caso de que todos los jueces de todos los distritos del Estado en materia de narcomenudeo estuvieren impedidos para conocer, el asunto se remitirá al Juez Primero de Primera Instancia en Materia Penal del Distrito originario, quien, en su caso, atenderá a las reglas señaladas en este artículo.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -3999,9 +3993,7 @@ La jurisprudencia por reiteración o por contradicción que emane del Pleno y de
 
 I.- Tratándose del Pleno, la interrupción se apruebe por lo menos por las dos terceras partes de los magistrados y existan dos resoluciones subsecuentes en contrario que se dicten de manera ininterrumpida por parte del Pleno.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-Si se trata del Tribunal Electoral o del Tribunal de lo Contencioso-Administrativo, que la interrupción se apruebe por lo menos por dos Magistrados y existan dos resoluciones subsecuentes en contrario que se dicten de manera ininterrumpida por parte del Pleno de esos Tribunales.
+Si se trata de una jurisprudencia por reiteración de una de las Salas, es necesario que existan tres resoluciones subsecuentes en contrario que se dicten de manera ininterrumpida.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
 
@@ -4878,3 +4870,9 @@ P.O. 9 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 222.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 10 Y SE REFORMA EL ARTÍCULO 17 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor a los 12 meses contados a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 333.- SE ADICIONA UN NUEVO CONTENIDO A LA FRACCIÓN VI, RECORRIENDO EL ACTUAL A LA FRACCIÓN VII, QUE SE CREA, DEL ARTÍCULO 112 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
