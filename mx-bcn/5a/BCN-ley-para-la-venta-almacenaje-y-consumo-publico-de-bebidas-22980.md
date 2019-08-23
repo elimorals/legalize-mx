@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-22980
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2019-02-22"
+last_updated: "2019-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -197,13 +197,13 @@ d).- Establecimientos susceptibles de ser autorizados para la venta para consumo
 
 10).- Sala de degustación para la venta exclusiva de cerveza artesanal.- Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de cerveza artesanal hecha en México con o sin alimentos y que cuente con música grabada o en vivo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2019)</small>
 
-e).- Establecimiento susceptible de ser autorizado para almacenaje, distribución y venta para el consumo de cerveza artesanal en envase abierto y cerrado, con o sin alimentos:
+e).- Establecimiento susceptible de ser autorizado para almacenaje, distribución y venta para el consumo de cerveza artesanal, bebidas alcohólicas de producción artesanal local y vinos de producción local en envase abierto y cerrado, con o sin alimentos:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2019)</small>
 
-1.- Microcervecería.- Se entiende aquel establecimiento independiente donde se produce y almacena para su distribución y venta, cerveza artesanal, de producción propia así como un diverso productor de cerveza artesanal, y cuenta con sala de degustación con música en vivo o grabada, área en el interior o exterior para dar servicio, autorizado en los términos de la normatividad aplicable.
+1.- Microcervecería.- Se entiende aquel establecimiento independiente donde se produce y almacena para su distribución y venta, cerveza artesanal y bebidas alcohólicas, de producción propia, así como un diverso productor de cerveza artesanal, y cuenta con sala de degustación con música en vivo o grabada, área en el interior o exterior para dar servicio, autorizado en los términos de la normatividad aplicable.
 
 X.- Permiso.- La autorización por escrito que expide la autoridad competente para realizar la actividad de venta, almacenaje para su venta o venta para consumo de bebidas con graduación alcohólica;
 
@@ -235,13 +235,15 @@ IV.- Proponer políticas para la autorización de permisos y horarios extraordin
 
 V.- Proponer un Plan Anual de Vigilancia para que en lo relativo a la comercialización al público de bebidas alcohólicas en envase abierto, para consumo directo en los establecimientos o giros autorizados para ello, no se establezcan costos que alienten a la población al consumo inmoderado y evitar de manera preventiva accidentes provocados por conductores en estado de ebriedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 8.
 
-De la integración del consejo consultivo.- La integración del consejo consultivo será mayoritariamente ciudadano, con la participación de organismos no gubernamentales legalmente constituidos, cuyo objeto social esté relacionado con la problemática del consumo inmoderado de bebidas alcohólicas, con representantes de organismos que agrupen a permisionarios y un representante de la autoridad municipal correspondiente. Su conformación se realizará mediante convocatoria pública que emita el Ayuntamiento y el nombramiento de consejero tendrá el carácter de honorífico, debiendo durar en el cargo un período no mayor que el del ayuntamiento de que se trate.
+De la integración del consejo consultivo.- La integración del consejo consultivo será mayoritariamente ciudadano, con la participación de organismos no gubernamentales legalmente constituidos, cuyo objeto social esté relacionado con la problemática del consumo inmoderado de bebidas alcohólicas, con representantes de organismos que agrupen a permisionarios de diversos giros y un representante de la autoridad municipal correspondiente. Su conformación se realizará mediante convocatoria pública que emita el Ayuntamiento y el nombramiento de consejero tendrá el carácter de honorífico, debiendo durar en el cargo un período no mayor que el del ayuntamiento de que se trate.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2019)</small>
 
-Los Ayuntamientos convocarán e integrarán el Consejo Consultivo dentro de un plazo que no excederá de ciento veinte días a partir de la fecha de inicio del ejercicio constitucional para el cual resultaren elegidos.
+Los Ayuntamientos convocarán e integrarán el Consejo Consultivo dentro de un plazo que no excederá de ciento veinte días a partir de la fecha de inicio del ejercicio constitucional para el cual resultaren elegidos. Durante el tiempo que medie entre el inicio Constitucional de los Ayuntamientos y la convocatoria, el Consejo instalado en la administración municipal próxima anterior, seguirá en funciones en tanto se instala el nuevo.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
@@ -273,9 +275,13 @@ La expedición de los permisos y la autorización de servicios adicionales, así
 
 La actividad se autorizará en los establecimientos que reúnan los requisitos de uso de suelo, de impacto social, de salud, de presentación, de seguridad y de construcción, previstos en las leyes y reglamentos respectivos, así como en esta ley y la reglamentación municipal de la materia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2019)</small>
 
-A fin de impulsar el desarrollo económico generado por el sector de la cerveza artesanal de Baja California, se procurará el otorgamiento de permisos a precio preferencial para “Microcervecería” “Sala de degustación para la venta exclusiva de cerveza artesanal” y “boutique de cerveza artesanal”, con base a lo dispuesto en las leyes y reglamentos municipales.
+A fin de impulsar el desarrollo económico generado por el sector de la cerveza artesanal de Baja California, se garantizará el otorgamiento de permisos a precio preferencial para “Microcervecería”, “Sala de degustación para la venta exclusiva de cerveza artesanal” y “boutique de cerveza artesanal”, con base a lo dispuesto en las leyes y reglamentos municipales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2019)</small>
+
+Además, de lo anterior, el permiso concedido a dichos giros tendrá la posibilidad de comerciar, sin costo adicional o procedimiento administrativo alguno, vinos de mesa producidos y con registro fiscal establecido en territorio estatal. Este permiso deberá ser resuelto por la autoridad dentro de los 60 días naturales siguientes a su presentación, y se entenderá que este ha sido otorgado al interesado, si la autoridad competente no ha resuelto y no media notificación personal por escrito alguna referente al estado que guarda el trámite solicitado dentro del término señalado.
 
 ###### ARTÍCULO 11.
 
@@ -712,3 +718,11 @@ Los Consejos Consultivos Municipales ya instalados a la fecha de publicación de
 ###### ARTÍCULO CUARTO.
 
 Las autoridades Estatales y Municipales, en el ámbito de su competencia, tendrán la obligación de brindar la atención y dar continuidad al Plan anual de Vigilancia propuesto por los Consejos Consultivos Municipales.
+
+P.O. 23 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 350 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 8 Y 10 ÚLTIMO PÁRRAFO DE LA LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de un plazo que no exceda de 30 días naturales siguiente (sic) a la entrada en vigor del presente decreto, y por única ocasión, los Ayuntamientos del Estado deberán emitir la convocatoria que den (sic) cumplimiento a la reforma al artículo 8 permita la inclusión de los representantes de los distintos giros y establecimientos de la localidad.
