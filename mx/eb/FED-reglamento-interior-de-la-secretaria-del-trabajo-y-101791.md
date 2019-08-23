@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-del-trabajo-y-101791"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-07-30"
-last_updated: "2014-07-30"
+last_updated: "2019-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101791&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-07-25"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL, PUBLICADO EN EL D.O.F. DE 23 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE AGOSTO DE 2019 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 30 de julio de 2014.
 
@@ -1272,3 +1274,27 @@ QUINTO. Los servidores públicos de la Secretaría, que en virtud de lo dispuest
 SEXTO. La Oficialía Mayor realizará las acciones necesarias para que los recursos humanos, financieros y materiales con que cuentan las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos del presente Reglamento y de conformidad con las normas aplicables.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticinco de julio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 23 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría del Trabajo y Previsión Social, publicado el 30 de julio de 2014 en el Diario Oficial de la Federación.
+
+TERCERO. Las disposiciones administrativas que se encuentren en vigor al momento de la publicación del presente ordenamiento, y derivan del Reglamento Interior que se abroga, continuarán vigentes en lo que no se opongan a las disposiciones del presente Reglamento que se expide.
+
+CUARTO. Las referencias y atribuciones que se hagan y se otorguen respectivamente en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a las unidades administrativas que desaparezcan o cambien de denominación por virtud del presente Reglamento, se entenderán hechas o conferidas, en su caso, a las unidades administrativas competentes de conformidad con este ordenamiento.
+
+QUINTO. Los servidores públicos de la Secretaría del Trabajo y Previsión Social que, en virtud de lo dispuesto en el presente Reglamento, sean adscritos de una unidad administrativa a otra, se les respetarán sus derechos laborales conforme a la ley. El Titular de la Unidad de Administración y Finanzas de la Secretaría del Trabajo y Previsión Social deberá tramitar y, en su caso, emitir los nombramientos acordes con las nuevas denominaciones de las unidades administrativas que correspondan conforme a este ordenamiento.
+
+SEXTO. El Titular de la Unidad de Administración y Finanzas de la Secretaría del Trabajo y Previsión Social realizará las acciones necesarias para que los recursos humanos, financieros y materiales con que cuentan las unidades administrativas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos del presente Reglamento y de conformidad con las disposiciones jurídicas aplicables.
+
+SÉPTIMO. Los asuntos que a la entrada en vigor del presente ordenamiento se encuentren en trámite o pendientes de resolución, deberán ser atendidos por las unidades administrativas competentes de conformidad con este Reglamento.
+
+OCTAVO. Los artículos 5, fracción VII, 11 y 18, fracción XXIX del presente Reglamento, estarán vigentes hasta en tanto no entren en operaciones los entes públicos a que se refieren los Artículos Transitorios Tercero, Sexto, Séptimo, Octavo, Décimo Primero y Vigésimo Séptimo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva publicado el 1 de mayo de 2019 en el Diario Oficial de la Federación.
+
+NOVENO. Las atribuciones establecidas en el artículo 19 del presente Reglamento, estarán vigentes hasta en tanto no entren en operaciones los entes públicos a que se refieren los Artículos Transitorios Tercero, Sexto, Séptimo, Octavo, Décimo Primero y Vigésimo Séptimo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva publicado el 1 de mayo de 2019 en el Diario Oficial de la Federación, con excepción de las señaladas en las fracciones VI, VII, VIII, IX respecto de las Sociedades de Solidaridad Social y X del citado artículo, mismas que subsistirán para ser ejercidas por la Secretaría del Trabajo y Previsión Social.
