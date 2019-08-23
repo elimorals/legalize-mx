@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-de-la-escuela-superior-de-artes-de-yucatan-12
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-03-06"
-last_updated: "2018-03-06"
+last_updated: "2019-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DE LA ESCUELA SUPERIOR DE ARTES DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE AGOSTO DE 2019.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el martes 6 de marzo de 2018
 
@@ -337,7 +337,9 @@ XII. Examinar y suscribir los documentos que les corresponda, así como certific
 
 XIII. Resolver los asuntos o conflictos que se susciten en la unidad administrativa a su cargo y requieran de su intervención.
 
-XIV. Las demás que le confiera este estatuto orgánico y otras disposiciones legales y normativas aplicables, así como las que le asigne el rector.
+> <small>(REFORMADA, D.O. 23 DE AGOSTO DE 2019)</small>
+
+XIV. Las demás que le confiera este estatuto orgánico y otras disposiciones legales y normativas aplicables, así como las que le asigne el director general.
 
 ###### Artículo 27.
 
@@ -391,7 +393,9 @@ Requisitos para ser director de Administración y Finanzas
 
 Para ser director de Administración y Finanzas se deberá cumplir con los siguientes requisitos:
 
-I. Contar con título de licenciatura en administración, contaduría o carrera afín con una antigüedad no menor a diez años.
+> <small>(REFORMADA, D.O. 23 DE AGOSTO DE 2019)</small>
+
+I. Contar con título de licenciatura en administración, contaduría o carrera afín con una antigüedad no menor a cinco años.
 
 II. Ser persona honorable y de reconocido prestigio y competencia profesional.
 
@@ -547,6 +551,10 @@ VII. El jefe del Departamento de Recursos Humanos.
 
 VIII. El jefe del Departamento de Finanzas.
 
+> <small>(ADICIONADA, D.O. 23 DE AGOSTO DE 2019)</small>
+
+IX. El jefe de la Unidad Jurídica.
+
 ###### Artículo 41.
 
 Reglamento interno
@@ -579,13 +587,21 @@ Las relaciones laborales entre la escuela y sus trabajadores, independientemente
 
 ### Capítulo VII. Suplencias
 
+> <small>(REFORMADO, D.O. 23 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 45.
 
-Suplencias del director general El director general será suplido por quien determine o por los titulares de las unidades administrativas señaladas en el artículo 4, fracción II, en ese mismo orden, cuando sus ausencias no excedan de quince días, y por la persona nombrada por la junta de gobierno, cuando se exceda de dicho término.
+Suplencias del director general
+
+El director general será suplido por quien determine o por los titulares de las unidades administrativas señaladas en el artículo 4, fracción II, en ese mismo orden, cuando sus ausencias no excedan de veinte días, y por la persona nombrada por la junta de gobierno, cuando se exceda de dicho término.
+
+> <small>(REFORMADO, D.O. 23 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 46.
 
-Suplencias de los titulares de las unidades administrativas Los titulares de las unidades administrativas serán suplidos por los titulares de la jerarquía inmediata inferior que ellos designen, cuando sus ausencias no excedan de quince días, y por la persona nombrada por el director general, cuando se exceda de dicho término.
+Suplencias de los titulares de las unidades administrativas
+
+Los titulares de las unidades administrativas serán suplidos por los titulares de la jerarquía inmediata inferior que ellos designen cuando sus ausencias no excedan de veinte días hábiles, cuando se exceda de dicho término será designado por el director general.
 
 ## Artículos transitorios
 
@@ -604,3 +620,17 @@ Aprobado por la Junta de Gobierno de la Escuela Superior de Artes de Yucatán, e
 Mtro. Enrique José Martín Briceño
 
 Director General de la Escuela Superior de Artes de Yucatán
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 23 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO ESAY 01/2018 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DE LA ESCUELA SUPERIOR DE ARTES DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general de la Escuela Superior de Artes de Yucatán deberá realizar la inscripción de la modificación de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo.
