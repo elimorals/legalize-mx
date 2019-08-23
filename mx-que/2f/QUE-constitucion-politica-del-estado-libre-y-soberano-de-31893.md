@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2018-08-15"
+last_updated: "2019-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO -- ANTES CONSTITUCION POLITICA DEL ESTADO DE QUERETARO -- ANTES CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO --
 
-CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2019.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -31,9 +31,9 @@ ERNESTO PERUSQUIA, Gobernador Constitucional del Estado Libre y Soberano de Quer
 
 EL CONGRESO CONSTITUYENTE DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, acatando lo dispuesto por el decreto de 22 de marzo del corriente año, y acuerdo de 26 del mismo, dados por el C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, y en cumplimiento del artículo 13 del Decreto de 27 de marzo del propio año, que expidió el Gobernador Provisional del Estado, ha tenido a bien decretar la siguiente:
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 2019)</small>
 
-CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO
 
 > <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
 
@@ -43,11 +43,11 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
 ### Capítulo Único. De los Derechos Humanos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 1.
 
-El Estado de Querétaro es parte integrante de la Federación Mexicana, es libre y autónomo en lo que se refiere a su régimen interno y sólo delega sus facultades en los Poderes Federales, en todo aquello que fije expresamente la Constitución Política de los Estados Unidos Mexicanos.
+El Estado Libre y Soberano de Querétaro es parte integrante de la Federación Mexicana, es libre y autónomo en lo que se refiere a su régimen interno y sólo delega sus facultades en los Poderes Federales, en todo aquello que fije expresamente la Constitución Política de los Estados Unidos Mexicanos.
 
 Son ley suprema en la entidad, las disposiciones que establezcan la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales.
 
@@ -57,9 +57,9 @@ Son ley suprema en la entidad, las disposiciones que establezcan la Constitució
 
 En el Estado de Querétaro, toda persona gozará de los Derechos Humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado Mexicano sea parte, las leyes federales, esta Constitución y las leyes que de ella emanen, así como de las garantías para su protección. Las normas relativas a los Derechos Humanos se interpretarán de conformidad con los ordenamientos antes citados, favoreciendo en todo tiempo a las personas la protección más amplia.
 
-> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2019)</small>
 
-La mujer y el hombre son iguales ante la Ley y gozan de los mismos derechos. En consecuencia, queda prohibida todo tipo de discriminación por origen étnico, lugar de nacimiento, género, edad, identidad cultural, condición social, discapacidad, religión, opiniones, preferencias políticas o sexuales, estado civil, estado de gravidez o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas. El Estado promoverá normas, políticas y acciones para alcanzar equidad entre hombre y mujer, en todos los ámbitos; además incorporará la perspectiva de género y derechos humanos en planes y programas y capacitará a los servidores públicos para su obligatoria aplicación en todas las instancias gubernamentales.
+La mujer y el hombre son iguales ante la Ley y gozan de los mismos derechos. En consecuencia, queda prohibida todo tipo de discriminación por origen étnico, lugar de nacimiento, género, edad, identidad cultural, condición social, discapacidad, religión, opiniones, preferencias políticas o sexuales, estado civil, estado de gravidez o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas. El Estado promoverá normas, políticas y acciones para alcanzar la igualdad entre hombre y mujer, en todos los ámbitos; además, incorporará la perspectiva de género y derechos humanos en planes y programas, y capacitará a los servidores públicos para su obligatoria aplicación en todas las instancias gubernamentales. Las leyes y las autoridades locales deben disponer las medidas necesarias para prevenir, atender, erradicar y sancionar en el ámbito administrativo y penal, los hechos, las conductas y las omisiones de cualquier persona o ente del orden público o privado, que tengan por finalidad o consecuencia limitar, condicionar, obstaculizar o anular el ejercicio de derechos políticos-electorales de las mujeres en razón de género, así como de las atribuciones y prerrogativas inherentes a sus cargos en el poder público.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
 
@@ -765,9 +765,9 @@ El Auditor Superior del Estado durará en su encargo siete años y podrá ser ra
 
 El Instituto Electoral del Estado de Querétaro, es el organismo público local en materia electoral en la Entidad, en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ambas emanan. Gozará de autonomía en su funcionamiento e independencia en sus decisiones y contará con un órgano de dirección superior integrado conforme a las leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, P.O. 26 DE JUNIO DE 2014.</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2019)</small>
 
-El Tribunal Electoral del Estado de Querétaro es la autoridad jurisdiccional local especializada en materia electoral del Estado. Dicho órgano gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones. Estará integrado por cinco Magistrados, de los cuales tres serán propietarios y dos supernumerarios, quienes serán designados por el Senado.
+El Tribunal Electoral del Estado de Querétaro es la autoridad jurisdiccional local especializada en materia electoral del Estado. Dicho órgano gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones. El Pleno del Tribunal se conformará por tres magistrados.
 
 El Instituto y el Tribunal previstos en este artículo, cumplirán sus funciones bajo los principios de certeza, imparcialidad, independencia, máxima publicidad, objetividad, legalidad y probidad.
 
@@ -887,9 +887,13 @@ Las faltas temporales y absolutas del Presidente Municipal, serán suplidas por 
 
 Los cargos de los integrantes del Ayuntamiento son renunciables por causa grave y justificada que calificará y resolverá el mismo Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2019)</small>
 
-Cuando el Ayuntamiento haya desaparecido o por falta absoluta de la mayoría de sus integrantes, la Legislatura del Estado nombrará un Concejo Municipal que fungirá hasta terminar el período municipal.
+Cuando el Ayuntamiento haya desaparecido o por falta absoluta de la mayoría de sus integrantes originada por cualquier causa, la Legislatura del Estado nombrará un Concejo Municipal que fungirá hasta terminar el periodo municipal o hasta que la Legislatura así lo determine, lo que suceda primero.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2019)</small>
+
+El Concejo Municipal deberá integrarse de forma paritaria, cumpliendo además con los requisitos que la Ley determine para el caso concreto.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -1860,3 +1864,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. El informe sobre el estado que guarda la administración de justicia durante el periodo 2017 - 2018, se presentará en el mes de septiembre del año 2018.
 
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 23 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Las referencias que en la presente Ley y en las demás que de ella derivan en los que se refiera a la nomenclatura “Estado de Querétaro”, se entenderán como “Estado Libre y Soberano de Querétaro” hasta en tanto se realizan las adecuaciones pertinentes.
+
+Artículo Tercero. Los Magistrados Supernumerarios designados con anterioridad al inicio de la vigencia del presente Decreto, finalizarán su gestión y periodo para el que fueron nombrados, de conformidad con las disposiciones vigentes al momento de su designación.
