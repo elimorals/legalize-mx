@@ -4,7 +4,7 @@ identifier: "COA-ley-de-turismo-para-el-estado-de-coahuila-de-zaragoza-68148"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-10"
-last_updated: "2017-12-26"
+last_updated: "2019-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 10 de febrero de 2009.
 
@@ -191,7 +191,7 @@ IV. Otorgar las licencias, permisos y demás autorizaciones de carácter municip
 
 V. Promover la realización de obras de infraestructura y urbanización para los centros turísticos, con la participación que corresponda del Estado y la Federación, así como de los particulares;
 
-VI. Llevar a acabo, con la colaboración de las autoridades competentes, la señalización que sea necesaria en los centros y zonas turísticas;
+VI. Llevar a acabo (sic), con la colaboración de las autoridades competentes, la señalización que sea necesaria en los centros y zonas turísticas;
 
 VII. Contribuir en la orientación, información y auxilio a los turistas, en coordinación con las autoridades competentes;
 
@@ -279,11 +279,15 @@ El turismo de naturaleza sustentable se integra por:
 
 I. Ecoturismo. Se basa en que la motivación principal del turista sea la observación, el conocimiento, interacción y apreciación de la naturaleza, y de las manifestaciones culturales y tradicionales de los habitantes de las zonas rurales, lo que implica tomar conciencia con respecto al aprovechamiento, conservación y restauración de los recursos naturales y las formas de producir el menor impacto negativo sobre el ambiente y el entorno sociocultural de las comunidades, que les genera beneficios económicos ofreciendo oportunidades y alternativas de empleo;
 
-II. Turismo de aventura. En ella se incluyen diferentes actividades deportivas y recreativas en armonía con el medio ambiente, respetando el patrimonio natural, cultural, turístico e histórico;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE AGOSTO DE 2019)</small>
 
-III. Turismo rural. En esta categoría se promueve la participación del turista que participa en actividades propias de las comunidades, los ejidos y los pueblos indígenas con fines culturales, educativos y recreativos, promoviendo con ello la generación de ingresos adicionales a la economía rural y a la preservación de los ecosistemas en los que habitan, y
+II. Enoturismo. Comprende el desarrollo de actividades turísticas y culturales orientadas al conocimiento de la elaboración del vino, desde la siembra de la semilla de la vid, hasta su embotellado.
 
-IV. Turismo alternativo. Es aquel que tiene como fin realizar actividades recreativas en contacto con la naturaleza y las expresiones culturales, con una actitud y compromiso de conocer, respetar, disfrutar y participar de la preservación de los elementos y recursos naturales y culturales.
+III. Turismo de aventura. En ella se incluyen diferentes actividades deportivas y recreativas en armonía con el medio ambiente, respetando el patrimonio natural, cultural, turístico e histórico;
+
+IV. Turismo rural. En esta categoría se promueve la participación del turista que participa en actividades propias de las comunidades, los ejidos y los pueblos indígenas con fines culturales, educativos y recreativos, promoviendo con ello la generación de ingresos adicionales a la economía rural y a la preservación de los ecosistemas en los que habitan, y
+
+V. Turismo alternativo. Es aquel que tiene como fin realizar actividades recreativas en contacto con la naturaleza y las expresiones culturales, con una actitud y compromiso de conocer, respetar, disfrutar y participar de la preservación de los elementos y recursos naturales y culturales.
 
 ###### Artículo 17.
 
@@ -744,3 +748,9 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 23 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 321.- SE MODIFICA LA FRACCIÓN II, RECORRIENDO EL CONTENIDO Y AGREGANDO LA FRACCIÓN V AL ARTÍCULO 16, DE LA LEY DE TURISMO DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
