@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2019-07-12"
+last_updated: "2019-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2019.
 
 Código publicado en la Tercera Sección al Número 86 del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -1511,9 +1511,11 @@ A excepción expresa de este código y otras leyes, así como de los delitos de 
 
 Cuando se trate de un delito único, o de delitos conexos o derivados unos de otros, o cometidos en concurso real, continuado, ideal o complejo de delitos, ya sea imputados en un mismo proceso o en procesos distintos, sin que ninguno de los delitos sea de los calificados como graves en esta fracción, la duración de la pena total unificada de prisión por todos ellos no podrá exceder de veinticinco años.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2019)</small>
+
 2) (Pena total unificada de prisión en delito único, delitos conexos o en concurso de delitos, en los que haya un delito grave)
 
-Cuando se trate de un delito único, o de delitos conexos o derivados unos de otros, o cometidos en concurso real, ideal o complejo de delitos, ya sea que fueron imputados en un mismo proceso o en procesos distintos, y de ellos haya un delito calificado como grave en el párrafo siguiente, la duración de la pena total unificada de prisión por todos ellos nunca podrá exceder de cuarenta años, salvo cuando concurra un homicidio cometido con alguna de las calificativas previstas en las fracciones VIII, XIII, XIV, XV o XVI del artículo 184 de este código, caso en el que la duración total unificada de la pena de prisión, podrá llegar hasta cuarenta y cinco años.
+Cuando se trate de un delito único, o de delitos conexos o derivados unos de otros, o cometidos en concurso real, ideal o complejo de delitos, ya sea que fueron imputados en un mismo proceso o en procesos distintos, y de ellos haya un delito calificado como grave en el párrafo siguiente, la duración de la pena total unificada de prisión por todos ellos nunca podrá exceder de cuarenta años, salvo cuando concurra un homicidio cometido con alguna de las calificativas previstas en las fracciones VIII, XIII, XIV, XV, XVI o XVII del artículo 184 de este código, caso en el que la duración total unificada de la pena de prisión, podrá llegar hasta cuarenta y cinco años.
 
 Se consideran como delitos graves a efecto de determinar el tiempo máximo de duración de la pena de prisión que deba sufrir la persona sentenciada, respecto de un delito único, o de delitos conexos o derivados unos de otros, o cometidos en concurso real, ideal o complejo de delitos, ya sea que fueron imputados en un mismo proceso o en procesos distintos: el homicidio simple doloso, el homicidio calificado, el homicidio en riña con carácter de provocador, el feminicidio, el parricidio, el matricidio, el filicidio, el homicidio con acuerdo previo e indeterminación del autor o cometido en corresponsabilidad de delito emergente; la violación o violación equiparada, la violación impropia; el robo con violencia que haya causado lesiones leves o de mayor gravedad, o cuando el robo con violencia haya causado lesiones de cualquier gravedad disparando un arma de fuego, o haya intervenido en el robo uno o más miembros de las instituciones de seguridad pública; o se haya cometido homicidio y/o robo contra una o más personas que viajaban en vehículo que era conducido en tramos despoblados o desprotegidos, por caminos o carreteras federales, estatales o municipales; la asociación delictuosa, con o sin agravantes; la extorsión simple, o cometida con una o más modalidades agravantes; la simulación de retenes oficiales y las operaciones con recursos de procedencia ilícita.
 
@@ -3002,6 +3004,12 @@ Cuando el agente cometa el homicidio con motivo de los delitos de terrorismo, vi
 XVI. (Homicidio con asalto con motivo de la conducción de vehículos en tramos despoblados o desprotegidos de caminos o carreteras)
 
 Cuando el agente cometa el homicidio contra el conductor, ocupante u ocupantes de un vehículo que era conducido en un tramo despoblado o desprotegido, de un camino o carretera federal, estatal o municipal, con independencia de que el conductor, ocupante u ocupantes se encuentren dentro o fuera del vehículo.
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2019)</small>
+
+XVII. (Contra servidores públicos en ejercicio de sus funciones)
+
+Cuando el agente cometa el homicidio en contra de servidores públicos que desempeñen funciones de seguridad pública, de investigación de delitos, de procuración o administración de justicia en materia penal o de ejecución de penas, de su cónyuge o de sus parientes en línea recta o colateral hasta el cuarto grado o con quien viva en concubinato o compañero o compañera civil.
 
 A quien cometa homicidio calificado se le impondrá de dieciocho a treinta y cinco años de prisión y multa, si es que concretó hasta tres circunstancias calificativas de las previstas en este artículo, pero si concretó más de tres de esas circunstancias calificativas, se le impondrá de veinticinco a cuarenta años de prisión y multa.
 
@@ -7752,3 +7760,11 @@ P.O. 12 DE JULIO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 332.- SE MODIFICA EL ARTÍCULO 90 EN SU INCISO 2) Y AL 184 SE LE ADICIONA LA FRACCIÓN XVII, DEL CÓDIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
