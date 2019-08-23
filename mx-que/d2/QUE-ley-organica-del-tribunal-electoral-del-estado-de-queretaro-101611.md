@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-tribunal-electoral-del-estado-de-queretaro-101
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-06-29"
-last_updated: "2017-06-01"
+last_updated: "2019-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el domingo 29 de junio de 2014.
 
@@ -101,11 +101,13 @@ Asimismo, tendrán carácter de auxiliares de la administración de justicia ele
 
 El Tribunal es la autoridad jurisdiccional especializada en materia electoral, funcionará en forma permanente y está dotado de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones. Gozará de plena jurisdicción y deberá cumplir sus funciones bajo los principios de certeza, imparcialidad, independencia, máxima publicidad, objetividad y legalidad.
 
-El Tribunal se compone de cinco magistrados; se integra por tres propietarios y dos supernumerarios, que actuarán de forma colegiada y serán electos en forma escalonada para un periodo de siete años, por la Cámara de Senadores del Congreso de la Unión, en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia, procurando el equilibrio de géneros, tanto en propietarios como en supernumerarios.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2019)</small>
+
+El Pleno del Tribunal se conformará por tres magistrados que actuarán de forma colegiada y serán electos en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia, procurando el equilibrio de géneros.
 
 ###### Artículo 7.
 
-Los Magistrados Supernumerarios, mientras no estén en funciones, podrán tener otro empleo, cargo o comisión y desempeñar libremente su profesión conforme a las Leyes aplicables.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2019)
 
 ###### Artículo 8.
 
@@ -123,9 +125,19 @@ Para el personal del Tribunal serán hábiles todos los días del año, excepci�
 
 Durante los procesos electorales, todos los días y horas son hábiles para la presentación, sustanciación y resolución de los medios de impugnación, en los términos que establezca la ley de la materia y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 11.
 
-En caso de vacancia, ausencia o excusa de alguno de los Magistrados será suplido por el Magistrado Supernumerario, para conocer mientras dure la ausencia o de los asuntos en que se hubiere excusado. Cuando la vacante sea definitiva se informará de inmediato a la Cámara de Senadores del Congreso de la Unión, a efecto de que proceda a la elección de un nuevo Magistrado que ocupe la vacante.
+Las ausencias de los magistrados serán suplidas conforme a las reglas siguientes:
+
+I. Aquellas de hasta diez días no será necesario suplirlas en los periodos no electorales, siempre y cuando no afecten el funcionamiento del Tribunal.
+
+II. Tratándose de ausencias mayores a diez días, pero que no excedan de tres meses o aquellas que siendo menores a diez días afecten el funcionamiento del Tribunal, serán cubiertas por el Secretario de ponencia que proponga el Magistrado ausente.
+
+III. Cuando sean definitivas, la presidencia del Tribunal lo informará de inmediato a la Cámara de Senadores, a efecto de que provea el procedimiento de sustitución.
+
+En tanto se lleve a cabo el procedimiento y siempre que existan asuntos de urgente resolución, la vacante será cubierta por el Secretario de ponencia con mayor antigüedad en el cargo.
 
 ###### Artículo 12.
 
@@ -249,9 +261,11 @@ IX. Hacer promesas que impliquen parcialidad a favor o en contra de alguno de lo
 
 X. Cualquier otra análoga a las anteriores.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 17.
 
-Los magistrados propietarios, aun cuando gocen de licencia, no podrán ejercer su profesión de abogados ni patrocinar negocios ante los tribunales, salvo que se trate de negocios propios.
+Los magistrados, aun cuando gocen de licencia, no podrán ejercer su profesión de abogados ni patrocinar negocios ante los tribunales, salvo que se trate de negocios propios.
 
 ###### Artículo 18.
 
@@ -265,11 +279,13 @@ Deberá hacerse por escrito dirigido al Presidente, aportando los elementos de p
 
 Las excusas y recusaciones que se presenten serán calificadas por el Pleno del Tribunal.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 19.
 
-Si un magistrado del Tribunal dejare de tramitar algún asunto correspondiente al Pleno, por impedimento, excusa o recusación, será suplido en turno por un magistrado supernumerario, para conocer del asunto o asuntos en que se hubiere excusado; asimismo, cuando se trata de una vacante temporal o definitiva y para conocer de los asuntos que se desahoguen durante la ausencia, de conformidad al siguiente procedimiento:
+Si un Magistrado del Tribunal estuviere impedido para conocer de un asunto por excusa o recusación, será suplido por el Secretario que designe el Pleno.
 
-Calificada de procedente la excusa o la recusación o declarada la vacante temporal o definitiva, el Presidente convocará al Magistrado supernumerario que corresponde de acuerdo al turno que se le hubiere asignado por sorteo celebrado por el Pleno de manera semestral en las fechas que resulten pertinentes. El Magistrado supernumerario deberá presentarse de inmediato y rendir la protesta de ley, para asumir, de inmediato, el encargo. Rendida la protesta de ley, el Presidente emitirá comunicado a los Poderes del Estado y lo notificará a las partes de los asuntos que conocerá el nuevo Magistrado. Asimismo, lo notificará a la Oficialía Mayor del Tribunal para los efectos administrativos y el pago de las remuneraciones a que tenga derecho el nuevo Magistrado. Para todos los efectos legales, durante su desempeño el nuevo Magistrado tendrá carácter de propietario, con las atribuciones que la presente Ley y demás ordenamientos legales le conceden. Cuando la vacante sea definitiva, el Pleno del Tribunal acordará informarlo de inmediato a la Legislatura del Estado a efecto de que proceda a solicitar la sustitución del Magistrado que causó la vacante.
+El Secretario que supla temporalmente la ausencia de (sic) Magistrado, deberá presentarse de inmediato y rendir la protesta de ley ante el Presidente para asumir el encargo. Rendida la protesta de Ley, el Presidente notificará a las partes de los asuntos que conocerá el Secretario en funciones de Magistrado.
 
 ### CAPÍTULO IV. DE LA ADMINISTRACIÓN
 
@@ -397,9 +413,11 @@ Los Secretarios de Acuerdos y los Actuarios tendrán fe pública, en todo lo rel
 
 ### CAPÍTULO I. DEL PLENO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 31.
 
-El Pleno del Tribunal se integra con tres Magistrados propietarios. Tendrá las facultades que la Constitución Federal, la Constitución del Estado y la presente Ley le conceden al Tribunal.
+El Pleno del Tribunal se integra con tres Magistrados. Tendrá las facultades que la Constitución Federal, la Constitución del Estado y la presente Ley le conceden al Tribunal.
 
 A. Son atribuciones administrativas del Pleno, las siguientes:
 
@@ -467,17 +485,19 @@ XIII. Resolver sobre la interpretación que de la presente Ley se suscite al mom
 
 XIV. Resolver los incidentes de recuento;
 
-> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2019)</small>
 
-XV. Designar de entre las magistradas y magistrados a quien cubrirá temporalmente la presidencia del Tribunal en sus ausencias; y
+XV. Designar de entre las magistradas y magistrados a quien cubrirá temporalmente la presidencia del Tribunal en casos de ausencia temporal, vacancia o impedimento; y
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
 XVI. Las demás que le conceda la Ley y las disposiciones normativas aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 32.
 
-El Pleno, para sesionar válidamente, requerirá la presencia de por lo menos dos de sus integrantes, entre los cuales deberá encontrarse el Presidente. El magistrado supernumerario formará parte del Pleno con carácter de propietario cuando sustituya a un magistrado propietario y desempeñará las funciones que les señala esta Ley.
+Para sesionar válidamente, el Pleno requerirá la presencia de por lo menos dos de sus integrantes, entre los cuales deberá encontrarse el Presidente.
 
 ###### Artículo 33.
 
@@ -509,11 +529,11 @@ Los criterios del Tribunal dejarán de ser obligatorios cuando existan razones j
 
 ### CAPÍTULO II. DEL PRESIDENTE
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 36.
 
-La persona titular de la presidencia del Tribunal durará en su cargo un año, no pudiendo ser reelecta para el periodo inmediato posterior y será designada de entre los magistrados propietarios, por el voto de la mayoría absoluta en la sesión que para tal efecto se convoque durante el mes de diciembre de cada año, cuya sesión no podrá suspenderse hasta darse la designación. La presidencia será rotatoria.
+La persona titular de la presidencia del Tribunal durará en su cargo un año, no pudiendo ser reelecta para el periodo inmediato posterior y será designada de entre los magistrados, por el voto de la mayoría absoluta en la sesión que para tal efecto se convoque durante el mes de diciembre de cada año, cuya sesión no podrá suspenderse hasta darse la designación. La presidencia será rotatoria.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -642,3 +662,13 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 Artículo Tercero. El titular de la Oficialía Mayor del Tribunal Electoral del Estado de Querétaro, que se encuentre en funciones, cumplirá el periodo para el que fue electo, pudiendo ser reelecto por una ocasión.
 
 Artículo Cuarto. Remítase la Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 23 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Las referencias que en la presente Ley y en las demás que de ella derivan en los que se refiera a la nomenclatura "Estado de Querétaro", se entenderán como "Estado Libre y Soberano de Querétaro" hasta en tanto se realizan las adecuaciones pertinentes.
+
+Artículo Tercero. Los Magistrados Supernumerarios designados con anterioridad al inicio de la vigencia del presente Decreto, finalizarán su gestión y periodo para el que fueron nombrados, de conformidad con las disposiciones vigentes al momento de su designación.
