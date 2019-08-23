@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-y-proteccion-de-derechos-del-87792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-27"
-last_updated: "2019-07-12"
+last_updated: "2019-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de abril de 2012.
 
@@ -973,7 +973,9 @@ I. Una Junta de Gobierno, que será presidida por quien sea el presidente munici
 
 II. Una Dirección General, cuyo titular será designado por la Junta de Gobierno respectiva.
 
-La Junta de Gobierno podrá designar un Presidente Honorario que no formará parte de la misma para los efectos de las atribuciones y obligaciones que las disposiciones legales le asignen, pero podrá participar en las sesiones y eventos especiales que se verifiquen, con voz pero sin voto.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2019)</small>
+
+La Junta de Gobierno podrá designar un Presidente Honorario que no formará parte de la misma para los efectos de las atribuciones y obligaciones que las disposiciones legales le asignen, el cual no percibirá remuneración alguna, pero podrá participar en las sesiones y eventos especiales que se verifiquen, con voz pero sin voto.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2014)</small>
 
@@ -1430,3 +1432,11 @@ P.O. 12 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 317.- SE REFORMA EL ARTÍCULO 1º Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 3 DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 331.- SE MODIFICA EL ARTÍCULO 49, ÚLTIMO PÁRRAFO, DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- Entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+SEGUNDO.- La presente reforma será aplicable a los nombramientos que se presenten con posterioridad a la entrada en vigor del Presente Decreto.
