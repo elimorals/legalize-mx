@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-atencion-y-proteccion-a-personas-con-la-109569"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-19"
-last_updated: "2017-12-05"
+last_updated: "2019-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 19 de agosto de 2015.
 
@@ -101,9 +101,25 @@ XX. Transversalidad: Diversas formas de coordinación no jerárquica utilizadas 
 
 Corresponde al Estado asegurar el respeto y ejercicio de los derechos que les asisten a las personas con la condición del espectro autista.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 5.
 
-Las autoridades estatales y municipales en el ámbito de su competencia del Estado de México, con el objeto de dar cumplimiento a la presente Ley, deberán implementar de manera progresiva las políticas y acciones correspondientes conforme a los programas aplicables.
+Las autoridades estatales y municipales en el ámbito de su competencia, y con el objeto de dar cumplimiento a la presente Ley, deberán implementar de manera progresiva las políticas y acciones correspondientes, conforme a los programas aplicables.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.G. 23 DE AGOSTO DE 2019)</small>
+
+Las autoridades competentes deberán establecer e instrumentar políticas y acciones orientadas preferentemente a:
+
+I. Coadyuvar a la actualización de los datos de las personas con la condición del espectro autista en el sistema nacional y estatal de información en salud;
+
+II. Diseñar, difundir, instrumentar e implementar campañas de información y concientización sobre la condición del espectro autista;
+
+III. Estimular la realización de estudios e investigaciones para el diagnóstico y tratamiento de las personas con la condición del espectro autista;
+
+IV. Impulsar la celebración de convenios de colaboración con los sectores privado y social para realizar acciones tendientes a la investigación, y tratamiento de las personas con la condición del espectro autista, y
+
+V. Procurar, en la medida de sus posibilidades presupuestales, que en los Sistemas Municipales para el Desarrollo Integral de la Familia existan especialistas en el tratamiento de la condición del espectro autista.
 
 ###### Artículo 6.
 
@@ -442,3 +458,11 @@ G.G. 5 DE DICIEMBRE DE 2017.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 23 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 78.- POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 5 DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
