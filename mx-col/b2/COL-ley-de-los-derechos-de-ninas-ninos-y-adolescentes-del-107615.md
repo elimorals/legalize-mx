@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107615"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-18"
-last_updated: "2018-10-20"
+last_updated: "2019-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 18 de abril de 2015.
 
@@ -955,9 +955,13 @@ IX. Implementar mecanismos para la atención, canalización y seguimiento de los
 
 X. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
-XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-XII. Se elaboren protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
+XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso, violencia sexual o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite y/o detecte en los centros educativos;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+XII. Se elaboren protocolos de actuación sobre situaciones de acoso, violencia escolar y violencia sexual que afecte a niñas, niños y adolescentes, para guiar la actuación del personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
 
 XIII. Garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del Sistema Educativo Estatal, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado;
 
@@ -1389,7 +1393,9 @@ I. Proporcionarles una vida digna basada en el buen ejemplo;
 
 II. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
 
-Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación. Las leyes reglamentarias del Estado deberán prever los procedimientos y la orientación jurídica necesaria así como las medidas de apoyo para asegurar el cumplimiento del deber de garantizar los derechos alimentarios;
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación, en términos del Código Civil para el Estado de Colima. Las leyes reglamentarias del Estado deberán prever los procedimientos y la orientación jurídica necesaria, así como las medidas de apoyo para asegurar el cumplimiento del deber de garantizar los derechos alimentarios;
 
 III. Registrarlos dentro de los primeros sesenta días de vida;
 
@@ -3028,3 +3034,17 @@ SÉPTIMO. Los Ayuntamientos contarán con un plazo de 90 días naturales para em
 OCTAVO. Los procedimientos vigentes ante la Procuraduría de Protección con anterioridad a la entrada en vigor del presente Decreto, se solventarán y resolverán de conformidad con la legislación vigente al momento de su inicio.
 
 NOVENO. La Procuraduría de Protección de Niñas, Niños y Adolescentes deberá continuar observando las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor del presente Decreto, y que no se opongan a lo previsto por el mismo, en tanto entran en vigor sus propias disposiciones reglamentarias.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 121 POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN II DEL ARTÍCULO 102, DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 122 POR EL QUE SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 58, DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, deberán elaborar o adecuar, según consideren conveniente, sus reglamentos, mecanismos y protocolos de actuación a que se refiere el presente Decreto, dentro de los 180 días naturales siguientes a la entrada en vigor del mismo.
