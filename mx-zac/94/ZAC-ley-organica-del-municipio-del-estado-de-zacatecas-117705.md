@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-del-estado-de-zacatecas-117705"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-03"
-last_updated: "2018-07-04"
+last_updated: "2019-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de diciembre de 2016.
 
@@ -71,23 +71,27 @@ V. Constitución Federal: Constitución Política de los Estados Unidos Mexicano
 
 VI. Constitución Política del Estado: la Constitución Política del Estado Libre y Soberano de Zacatecas;
 
-VII. Gaceta Municipal: Órgano Oficial de publicación y difusión del Municipio, de carácter permanente, cuya función consiste en dar publicidad a las disposiciones normativas, reglamentos, planes, programas, acuerdos, circulares, avisos y demás disposiciones de observancia general, para su validez y consecuente cumplimiento. Se editará tanto en forma impresa como electrónica y distribuirá en el territorio del Municipio;
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-VIII. Ley: Ley Orgánica del Municipio del Estado de Zacatecas;
+VII. Cuenta pública: documento a que se refiere la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, la Ley de Fiscalización y Rendición de Cuentas del Estado y otras disposiciones aplicables;
 
-IX. Ley de Disciplina Financiera: Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+VIII. Gaceta Municipal: Órgano Oficial de publicación y difusión del Municipio, de carácter permanente, cuya función consiste en dar publicidad a las disposiciones normativas, reglamentos, planes, programas, acuerdos, circulares, avisos y demás disposiciones de observancia general, para su validez y consecuente cumplimiento. Se editará tanto en forma impresa como electrónica y distribuirá en el territorio del Municipio;
 
-X. Presidente Municipal: a la presidenta o presidente integrante del Ayuntamiento, responsable de la ejecución de las determinaciones, disposiciones y acuerdos del Ayuntamiento y quien tiene la representación administrativa y en algunos casos la jurídica;
+IX. Ley: Ley Orgánica del Municipio del Estado de Zacatecas;
 
-XI. Regidores: a las regidoras o regidores integrantes del Ayuntamiento encargados de acordar las decisiones para la buena marcha de los intereses del Municipio;
+X. Ley de Disciplina Financiera: Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-XII. Servicios públicos: son toda actividad destinada a satisfacer las necesidades básicas de la población en distintos rubros, a través de la prestación de un servicio de la autoridad pública, de particulares o de ambos;
+XI. Presidente Municipal: a la presidenta o presidente integrante del Ayuntamiento, responsable de la ejecución de las determinaciones, disposiciones y acuerdos del Ayuntamiento y quien tiene la representación administrativa y en algunos casos la jurídica;
 
-XIII. Síndico Municipal: a la síndica o síndico integrante del Ayuntamiento encargado de vigilar los aspectos financiero y jurídico;
+XII. Regidores: a las regidoras o regidores integrantes del Ayuntamiento encargados de acordar las decisiones para la buena marcha de los intereses del Municipio;
 
-XIV. Sistema municipal DIF: Sistema Municipal para el Desarrollo Integral de la Familia; y
+XIII. Servicios públicos: son toda actividad destinada a satisfacer las necesidades básicas de la población en distintos rubros, a través de la prestación de un servicio de la autoridad pública, de particulares o de ambos;
 
-XV. Zona metropolitana: la que se integra por los municipios de Zacatecas, Guadalupe, Calera, General Enrique Estrada, Morelos y Fresnillo.
+XIV. Síndico Municipal: a la síndica o síndico integrante del Ayuntamiento encargado de vigilar los aspectos financiero y jurídico;
+
+XV. Sistema municipal DIF: Sistema Municipal para el Desarrollo Integral de la Familia; y
+
+XVI. Zona metropolitana: la que se integra por los municipios de Zacatecas, Guadalupe, Calera, General Enrique Estrada, Morelos y Fresnillo.
 
 Municipio Libre
 
@@ -747,9 +751,13 @@ c) Aprobar sus presupuestos de egresos, a más tardar el treinta y uno de diciem
 
 d) Realizar la planeación, programación, presupuestación, control y evaluación del gasto público municipal, así como su operación;
 
-e) Enviar a la Auditoría Superior del Estado los informes mensual y trimestral de avance de gestión financiera sobre los resultados físicos y financieros de los programas a su cargo, que contenga, además, una relación detallada del ejercicio presupuestal que se lleve a la fecha, especificando los convenios celebrados que impliquen una modificación a lo presupuestado;
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
-f) Rendir a la Legislatura del Estado, a más tardar el quince de febrero siguiente a la conclusión del año fiscal, la cuenta pública pormenorizada de su manejo hacendario, para su revisión y fiscalización;
+e) Vigilar que se envíe a la Auditoría Superior del Estado, por conducto de los servidores públicos obligados de acuerdo con la presente Ley, los informes a que se refiere la Ley General de Contabilidad Gubernamental, la Ley de Fiscalización y Rendición de Cuentas del Estado y otras disposiciones aplicables;
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+f) Aprobar la cuenta pública correspondiente y vigilar que se presente a la Legislatura, por conducto de los servidores públicos obligados de acuerdo con la presente Ley, a más tardar el treinta de abril siguiente a la conclusión del año fiscal para su revisión y fiscalización;
 
 g) Remitir oportunamente la documentación e informes que les sean requeridos por la Auditoría Superior del Estado;
 
@@ -825,11 +833,15 @@ d) Representar y mantener la coordinación del Ayuntamiento con la Comisión de 
 
 e) Promover el respeto a los derechos humanos por parte de los servidores públicos del Ayuntamiento.
 
-IX. En materia de contabilidad gubernamental:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE AGOSTO DE 2019)</small>
+
+IX. En materia de contabilidad gubernamental, disciplina financiera y responsabilidad hacendaria:
 
 a) Participar, en coordinación con el órgano estatal en materia de armonización contable, con el fin de mejorar la implementación de las prácticas en materia de contabilidad gubernamental; y
 
-b) Establecer las medidas necesarias para dar estricto cumplimiento a lo establecido en la Ley General de Contabilidad Gubernamental y en las normas emitidas por el órgano nacional en materia de armonización contable, en materia de registros contables, emisión de información financiera, de valoración, valuación y registro del patrimonio.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+b) Establecer las medidas necesarias para dar estricto cumplimiento a lo establecido en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios y en las normas emitidas por el órgano nacional y estatal en materia de armonización contable, en materia de registros contables, emisión de información financiera, de valoración, valuación y registro del patrimonio.
 
 Facultades concurrentes
 
@@ -1119,7 +1131,9 @@ VI. Vigilar que se integren y funcionen los Comités de Participación Social, c
 
 VII. Vigilar que la recaudación en todos los ramos de la Hacienda Pública Municipal, se realice con apego a las leyes respectivas;
 
-VIII. Vigilar que el ejercicio de los recursos públicos municipales se efectúe con estricto apego al Presupuesto de Egresos, así como a sus modificaciones aprobadas por el Cabildo;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+VIII. Vigilar que el ejercicio de los recursos públicos municipales se efectúe con estricto apego al Presupuesto de Egresos, así como a sus modificaciones aprobadas por el Cabildo y presentar la cuenta pública aprobada por el Ayuntamiento ante la Legislatura del Estado, en los términos y formalidades que establezcan las leyes en la materia;
 
 IX. Celebrar, a nombre del Ayuntamiento y por acuerdo de éste, y en los casos que ameriten, con la autorización de la Legislatura del Estado, todos los actos y contratos necesarios para el desempeño de los negocios administrativos y la eficaz prestación de los servicios públicos municipales;
 
@@ -1241,7 +1255,17 @@ V. Autorizar los cortes de caja de la Tesorería Municipal;
 
 VI. Tener a su cargo el patrimonio mueble e inmueble municipal, en términos de esta ley, la Ley General de Contabilidad Gubernamental, la Ley del Patrimonio del Estado y Municipios, y demás disposiciones aplicables;
 
-VII. Vigilar que la cuenta pública municipal se integre en la forma y términos previstos en la Ley General de Contabilidad Gubernamental y en las demás disposiciones legales aplicables. Asimismo, se entregue en término legal a la Legislatura, por conducto de la Auditoría Superior del Estado;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE AGOSTO DE 2019)</small>
+
+VII. Vigilar que la cuenta pública municipal se integre en la forma y términos previstos en la Ley General de Contabilidad Gubernamental, la Ley de Fiscalización y Rendición de Cuentas del Estado y en las demás disposiciones legales aplicables. Asimismo, se entregue en término legal a la Legislatura.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Para estos efectos, la Comisión de Hacienda y Vigilancia que presidirá, deberá conjuntamente con el titular de la Tesorería, presentar ante el Ayuntamiento el dictamen de cuenta pública correspondiente al ejercicio fiscal anterior, para su aprobación, en su caso.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Asimismo, deberá vigilar que los informes a que se refiere el inciso e), de la fracción III del artículo 60 de la presente Ley, una vez que sean aprobados por el Ayuntamiento, sean presentados en los términos y formalidades que establezcan las leyes en la materia;
 
 VIII. Vigilar que los servidores públicos del Municipio presenten sus declaraciones de situación patrimonial en términos de ley;
 
@@ -1589,7 +1613,9 @@ XVI. Proponer al Ayuntamiento las medidas o disposiciones que tiendan a mejorar 
 
 XVII. Dar cumplimiento a los acuerdos, órdenes o disposiciones que por escrito le dé el Ayuntamiento;
 
-XVIII. Remitir a la Auditoría Superior del Estado, acompañada del acta de autorización del Cabildo, las cuentas, informes contables y financieros mensuales, dentro de los plazos y términos previstos en la Ley de Fiscalización Superior del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+XVIII. Presentar ante la Legislatura del Estado, acompañada del acta de autorización del Cabildo, la cuenta pública en los términos y formalidades que establezcan las leyes en la materia, así como remitir a la Auditoría Superior del Estado los informes contables y financieros, dentro de los plazos y términos previstos;
 
 XIX. Notificar al Cabildo lo relativo a las faltas oficiales y deficiencias en que incurran los trabajadores de su dependencia;
 
@@ -1603,7 +1629,9 @@ XXIII. Informar al Ayuntamiento, con la periodicidad que éste determine, sobre 
 
 XXIV. Incoar el procedimiento económico coactivo;
 
-XXV. Formular la Cuenta Pública correspondiente al ejercicio fiscal anterior, conjuntamente con el Síndico y la Comisión de Hacienda; y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+XXV. Formular la Cuenta Pública correspondiente al ejercicio fiscal anterior, conjuntamente con el Síndico y la Comisión de Hacienda y Vigilancia y presentarla al Ayuntamiento, para su aprobación, en su caso; y
 
 XXVI. Las demás que le asigne el Ayuntamiento.
 
@@ -2783,7 +2811,9 @@ Informes
 
 Los organismos descentralizados deberán rendir informes trimestrales al Ayuntamiento, sobre el ejercicio de sus funciones. Sin perjuicio de lo anterior, el Ayuntamiento podrá solicitar información en cualquier tiempo.
 
-En materia de información financiera y cuenta pública se estará a lo dispuesto en la Ley General de Contabilidad Gubernamental, Ley de Fiscalización Superior del Estado de Zacatecas, y demás normatividad aplicable.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+En materia de información financiera y cuenta pública se estará a lo dispuesto en la Ley General de Contabilidad Gubernamental, Ley de Fiscalización y Rendición de Cuentas del Estado de Zacatecas, y demás normatividad aplicable.
 
 Tarifas
 
@@ -3011,19 +3041,23 @@ Visitas de verificación
 
 La Auditoría Superior del Estado podrá practicar visitas a las unidades administrativas integrantes de la administración municipal y paramunicipal, a fin de verificar el cumplimiento de las normas aplicables, y en su caso, el correcto destino de los fondos públicos que éstas manejen.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
 Revisión de informes
 
 ###### Artículo 196.
 
-Sin perjuicio de la revisión de los informes de avance de gestión financiera que los ayuntamientos de la Entidad deberán remitir a la Legislatura del Estado, por conducto de la Auditoría Superior, dentro de los plazos que establece la Ley de Fiscalización Superior del Estado de Zacatecas, presentarán además, la cuenta pública y la glosa mensual, los informes contable financieros, de obras y servicios públicos, así como aquéllos derivados de la administración, manejo y aplicación de recursos federales a su cargo.
+Sin perjuicio de la revisión de los informes de avance de gestión financiera que los ayuntamientos de la Entidad deberán remitir a la Legislatura del Estado, por conducto de la Auditoría Superior, dentro de los plazos que establece la Ley de Fiscalización y Rendición de Cuentas del Estado de Zacatecas, presentarán además, la cuenta pública y la glosa mensual, los informes contable financieros, de obras y servicios públicos, así como aquéllos derivados de la administración, manejo y aplicación de recursos federales a su cargo.
 
-La revisión por la Legislatura del Estado, de las cuentas públicas y demás informes de los ayuntamientos, debe relacionarse con la ejecución del Plan Municipal de Desarrollo y sus programas operativos anuales a fin de vincular el destino de los recursos con los objetivos y prioridades del Plan. A los informes anteriores se les incorporará el desempeño cumplido del Plan Municipal de Desarrollo y de los Programas Operativos Anuales en los términos que señala la Ley de Fiscalización Superior del Estado de Zacatecas.
+La revisión por la Legislatura del Estado, de las cuentas públicas y demás informes de los ayuntamientos, debe relacionarse con la ejecución del Plan Municipal de Desarrollo y sus programas operativos anuales a fin de vincular el destino de los recursos con los objetivos y prioridades del Plan. A los informes anteriores se les incorporará el desempeño cumplido del Plan Municipal de Desarrollo y de los Programas Operativos Anuales en los términos que señala la Ley de Fiscalización y Rendición de Cuentas del Estado de Zacatecas.
 
 Remisión de información
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 197.
 
-Con el propósito de que la Auditoría Superior del Estado esté en posibilidad de efectuar sus funciones, los ayuntamientos deberán remitirle los planes municipales de desarrollo, los programas operativos anuales, los programas de obras y servicios públicos, presupuestos de ingresos y egresos. Asimismo, Ley de Ingresos, Presupuesto de Egresos y copia certificada de la totalidad de las actas de Cabildo, en los términos y plazos que señala la Ley de Fiscalización Superior del Estado de Zacatecas.
+Con el propósito de que la Auditoría Superior del Estado esté en posibilidad de efectuar sus funciones, los ayuntamientos deberán remitirle los planes municipales de desarrollo, los programas operativos anuales, los programas de obras y servicios públicos, presupuestos de ingresos y egresos. Asimismo, Ley de Ingresos, Presupuesto de Egresos y copia certificada de la totalidad de las actas de Cabildo, en los términos y plazos que señala la Ley de Fiscalización y Rendición de Cuentas del Estado de Zacatecas.
 
 La falta de presentación oportuna de la documentación e informes a que se refieren los artículos anteriores, así como de aquellos que solicite la Legislatura del Estado o la propia Auditoría Superior del Estado dará lugar a la imposición de las sanciones correspondientes.
 
@@ -3241,17 +3275,25 @@ Presentación de cuentas públicas
 
 Para efectos de la revisión de las cuentas públicas municipales, los ayuntamientos informarán a la Legislatura del Estado, durante la primera quincena del mes de enero o durante el mes siguiente a su implantación o modificación, sobre las normas, procedimientos y sistemas de control interno que en materia contable determinen y apliquen.
 
-Asimismo, deberán rendir a la Legislatura del Estado, a más tardar el quince de febrero siguiente a la conclusión del año fiscal, la cuenta pública pormenorizada de su manejo hacendario, para su revisión y fiscalización.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
-La cuenta pública de los Municipios deberá cumplir los requisitos establecidos en la Ley General de Contabilidad Gubernamental, estar acorde con los acuerdos y lineamientos que emita el órgano nacional en materia de armonización contable y bajo los términos establecidos en la Ley de Fiscalización Superior del Estado de Zacatecas.
+Asimismo, deberán rendir a la Legislatura del Estado, por conducto de los servidores públicos obligados de acuerdo con la presente Ley, a más tardar el treinta de abril siguiente a la conclusión del año fiscal, la cuenta pública para su revisión y fiscalización.
 
-La no presentación de la cuenta pública en el plazo señalado será causal de responsabilidad administrativa y, en consecuencia, la Legislatura del Estado podrá ordenar la revisión del ejercicio presupuestal y, en su caso, la aplicación de las responsabilidades y sanciones que correspondan.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+La cuenta pública de los Municipios deberá cumplir los requisitos establecidos en la Ley General de Contabilidad Gubernamental, estar acorde con los acuerdos y lineamientos que emita el órgano nacional en materia de armonización contable y bajo los términos establecidos en la Ley de Fiscalización y Rendición de Cuentas del Estado de Zacatecas.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Por la no presentación de la cuenta pública se estará a lo dispuesto en la Ley General de Contabilidad Gubernamental, la Ley de Fiscalización y Rendición de Cuentas y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
 Informes de avance de la gestión financiera
 
 ###### Artículo 221.
 
-Los ayuntamientos, de conformidad con lo establecido en la Ley de Fiscalización Superior del Estado de Zacatecas, deberán remitir a la Legislatura del Estado, como parte de la cuenta pública del ejercicio, durante los primeros veinte días de cada trimestre vencido, los informes de avance de la gestión financiera que contengan la información relativa al manejo administrativo y presupuestal del Municipio para que los revise en términos de ley.
+Los ayuntamientos, de conformidad con lo establecido en la Ley de Fiscalización y Rendición de Cuentas del Estado de Zacatecas, deberán remitir a la Legislatura del Estado, como parte de la cuenta pública del ejercicio, durante los primeros veinte días de cada trimestre vencido, los informes de avance de la gestión financiera que contengan la información relativa al manejo administrativo y presupuestal del Municipio para que los revise en términos de ley.
 
 ## TÍTULO NOVENO. PLANEACIÓN PARA EL DESARROLLO MUNICIPAL
 
@@ -3755,11 +3797,13 @@ Sanciones y medidas de seguridad
 
 Si las circunstancias así lo ameritan, podrán imponerse al infractor simultáneamente las sanciones y medidas de seguridad que establezcan las leyes, sin perjuicio de la responsabilidad civil o penal en que incurriere.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
 No presentación de cuenta pública
 
 ###### Artículo 249.
 
-El Municipio, sus organismos paramunicipales y los servidores públicos que incumplan con la presentación de la cuenta pública dentro de los plazos que establece la ley, se harán acreedores a las medidas de apremio y sanciones establecidas en la Ley de Fiscalización Superior del Estado de Zacatecas y la legislación en materia de responsabilidades administrativas.
+El Municipio, sus organismos paramunicipales y los servidores públicos que incumplan con la presentación de la cuenta pública dentro de los plazos que establece la ley, estarán a lo dispuesto en la Ley General de Contabilidad Gubernamental, la Ley de Fiscalización y Rendición de Cuentas y demás disposiciones aplicables.
 
 Responsabilidades Administrativas
 
@@ -4098,3 +4142,11 @@ P.O. 4 DE JULIO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 151.- POR EL CUAL SE REFORMA Y ADICIONA LA LEY ORGÁNICA DEL MUNICIPIO DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
