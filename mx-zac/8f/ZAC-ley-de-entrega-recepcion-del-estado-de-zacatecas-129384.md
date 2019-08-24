@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-entrega-recepcion-del-estado-de-zacatecas-129384"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-16"
-last_updated: "2018-06-16"
+last_updated: "2019-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE ENTREGA-RECEPCIÓN DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 16 de junio de 2018.
 
@@ -1145,6 +1145,10 @@ Artículo 69
 
 La etapa de Verificación y Validación física deberá llevarse a cabo por el o los servidores públicos que reciben o por quien éstos designen, en un plazo no mayor de treinta días hábiles siguientes a la firma del Acta Administrativa del Acto Protocolario.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+El plazo a que se refiere el párrafo anterior podrá ampliarse hasta por 10 días naturales más, siempre que el Presidente Municipal correspondiente, o bien, el titular del Ente Público o Secretaría, lo soliciten por escrito y, por lo menos, con 5 días hábiles anteriores a que termine el plazo establecido en el párrafo que precede.
+
 Derivado de esta etapa, se levantará el Acta de Verificación y Validación en presencia del Órgano Interno de Control y de dos testigos, misma que, en su caso, contendrá los actos u omisiones que no hayan sido aclarados.
 
 Aclaraciones
@@ -1390,3 +1394,13 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Segunda Legislatura del 
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 DADO en el Despacho del Poder Ejecutivo del Estado, a los quince días del mes de junio de dos mil dieciocho. GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 162.- POR EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 69 DE LA LEY DE ENTREGA-RECEPCIÓN DEL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
