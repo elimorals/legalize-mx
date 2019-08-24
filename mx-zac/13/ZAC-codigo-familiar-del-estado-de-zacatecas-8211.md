@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2018-06-23"
+last_updated: "2019-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -257,7 +257,7 @@ Los Oficiales del Registro Civil serán suplidos en sus faltas temporales por lo
 
 ###### ARTICULO 29.
 
-Para acreditar el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se inscriban en cualquiera oficina del Registro Civil de la República, conforme a las leyes del lugar en que se efectúe tal registro, y a lo dispuesto por el último párrafo del artículo 283 del Código de Procedimientos Civiles vigente en el Estado.
+Para acreditar el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se inscriban en cualquier oficina del Registro Civil de la República, conforme a las leyes del lugar en que se efectúe tal registro, y a lo dispuesto por el último párrafo del artículo 283 del Código de Procedimientos Civiles vigente en el Estado.
 
 ###### ARTICULO 30.
 
@@ -312,6 +312,10 @@ El acta de nacimiento contendrá la hora, dia, mes, año y lugar en que ocurrió
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2018)</small>
 
 El Oficial del Registro Civil orientará a quien presente al menor para que el nombre propio con el que se pretende registrar no sea peyorativo, discriminatorio, infamante, denigrante, carente de significado, o que constituya un signo, símbolo o siglas, o bien, que exponga al registrado a ser motivo de burla, con el objeto de que el mismo contribuya, adecuadamente, al desarrollo de su identidad.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Las copias certificadas de las actas de nacimiento expedidas por el Oficial del Registro Civil no perderán vigencia, por lo que se podrán utilizar en la realización de trámites ante cualquier ente público o privado, siempre que se encuentren legibles y no presenten alteraciones, tachaduras o enmendaduras visibles en su contenido.
 
 ###### ARTICULO 38.
 
@@ -1429,17 +1433,17 @@ III. Por nulidad.
 
 El divorcio disuelve el vínculo del matrimonio y deja a los ex-cónyuges en aptitud de contraer otro, con las restricciones establecidas por esta ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 214.
 
-Hay cuatro formas de divorcio:
+Las formas de divorcio son:
 
-I. Por mutuo consentimiento;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
+I. Voluntario;
 
-II. Por alguna de las causas señaladas en esta ley;
+II. (DEROGADA, P.O. 24 DE AGOSTO DE 2019)
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1491,7 +1495,7 @@ En los procedimientos de divorcio el Juez, de oficio, deberá tomar las medidas 
 
 Ejecutoriada una sentencia de divorcio, el Juez que lo decretó remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución durante quince días, en las tablas destinadas a este efecto.
 
-### CAPITULO DECIMO TERCERO. DEL DIVORCIO NECESARIO
+### CAPITULO DECIMO TERCERO. REGLAS GENERALES APLICABLES AL DIVORCIO
 
 #### SECCION PRIMERA. DEL DIVORCIO VOLUNTARIO
 
@@ -1547,6 +1551,8 @@ El Juez presidirá personalmente las juntas de avenimiento en los divorcios volu
 
 Si el convenio no fuere aprobado, no podrá decretarse el divorcio.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2019)</small>
+
 ### CAPITULO DECIMO TERCERO BIS. DIVORCIO INCAUSADO
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
@@ -1577,77 +1583,15 @@ ARTICULO 240 QUATER.- El Juez está obligado a suplir la deficiencia de las part
 
 ###### ARTICULO 231.
 
-Son causas de divorcio:
-
-I. El adulterio de alguno de los cónyuges;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-II. El hecho de que alguno de los cónyuges durante el matrimonio tenga un hijo y que judicialmente se declare que no es del cónyuge;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-III. La propuesta de un cónyuge para prostituir al otro;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-IV. La incitación o la violencia hecha por un cónyuge a otro para cometer algún delito;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-V. La conducta de alguno de los cónyuges con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-VI. Padecer cualquier enfermedad crónica o incurable, que sea, además, contagiosa o hereditaria, y la impotencia incurable o la esterilidad de alguno de los cónyuges que sobrevengan después de celebrado el matrimonio;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-VII. Padecer enfermedad mental incurable, previa declaración de interdicción. El divorcio por esta causa sólo puede demandarse después de dos años de haberse manifestado la enfermedad;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-VIII. El abandono del domicilio conyugal por cualquiera de los cónyuges por más de seis meses consecutivos;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-IX. La separación de los cónyuges si se prolonga por más de un año, independientemente del motivo que la haya originado, la cual podrá ser invocada por cualquiera de ellos;
-
-X. La declaración de ausencia legalmente hecha o la presunción de muerte, en los casos de excepción en que no se necesite para que se haga que preceda la declaración de ausencia;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-XI. La violencia familiar, recurrente o no, cometida por un cónyuge contra otro, o hacia los hijos de ambos, o de alguno de ellos. Para los efectos de este artículo se entiende por violencia familiar lo dispuesto en el artículo 283 Bis de este Código;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-XII. La negativa injustificada de los cónyuges a colaborar en las actividades domésticas, o a no cumplir con las obligaciones relativas a la contribución económica para el sostenimiento del hogar o la alimentación de los hijos, o el incumplimiento injustificado de la sentencia que condene al pago de tal obligación;
-
-XIII. La acusación calumniosa hecha por un cónyuge contra el otro por delito que merezca pena mayor de dos años de prisión;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-XIV. Cometer, uno de los cónyuges, un delito intencional por el cual haya sido condenado, por sentencia ejecutoriada;
-
-XV. Los hábitos de juego, de embriaguez o de uso indebido persistente, no terapéutico, de enervantes, estupefacientes o psicotrópicos, o de cualquiera otra substancia que altere la conducta del individuo y produzca farmacodependencia, y esta situación amenace con causar la ruina o desintegración de la familia, o constituya un continuo motivo de desavenencia conyugal;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-XVI. Cometer un cónyuge contra la persona o los bienes del otro o de los hijos, un acto que sea punible, siempre que tal acto tenga señalada en la ley una pena;
-
-XVII. (DEROGADA, P.O. 3 DE OCTUBRE DE 2007)
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-XVIII. El incumplimiento injustificado de los convenios celebrados ante las unidades de atención a la violencia familiar o resoluciones o determinaciones de las autoridades judiciales o administrativas que se hayan ordenado, tendientes a corregir los actos de violencia familiar.
+(DEROGADO, P.O. 24 DE AGOSTO DE 2019)
 
 ###### ARTICULO 232.
 
-Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio que no haya justificado, o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio, pero no puede hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante estos tres meses, los cónyuges no están obligados a vivir juntos.
+(DEROGADO, P.O. 24 DE AGOSTO DE 2019)
 
 ###### ARTICULO 233.
 
-El cónyuge ofendido por una causal de divorcio necesario deberá ejercitar la acción correspondiente dentro del término de un año contado a partir de la fecha en que tuvo conocimiento del hecho, o causa que lo motiva, salvo las excepciones señaladas por esta ley.
+(DEROGADO, P.O. 24 DE AGOSTO DE 2019)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -1717,9 +1661,7 @@ En virtud del divorcio los cónyuges recobrarán su entera capacidad para contra
 
 ###### ARTICULO 240.
 
-El cónyuge que haya dado causa al divorcio, no podrá volver a casarse, sino después de un año a contar desde que se decretó el divorcio.
-
-Para que los cónyuges que se divorcien voluntariamente puedan volver a contraer matrimonio, es indispensable que hayan transcurrido seis meses después que obtuvieron el divorcio.
+(DEROGADO, P.O. 24 DE AGOSTO DE 2019)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1731,7 +1673,9 @@ ARTICULO 240 QUINQUIES.- Se entiende por divorcio administrativo, cuando ambos c
 
 I. Sean mayores de edad;
 
-II. No tengan hijos;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+II. No tengan hijos, o teniéndolos sean mayores de edad, salvo que se encuentren en estado de interdicción;
 
 III. La mujer demuestre que no está embarazada, y
 
@@ -1801,7 +1745,7 @@ La Ley no reconoce más parentesco que los de consanguinidad, afinidad y civil.
 
 El parentesco de consanguinidad es el vinculo que existe entre personas que descienden de un tronco común.
 
-También se considera parentesco por consanguinidad, el vínculo existente entre el hijo producto de la reproducción asistida y los cónyuges o concubinos que hubieren procurado el nacimiento.
+También se considera parentesco por consanguinidad, el vinculo existente entre el hijo producto de la reproducción asistida y los cónyuges o concubinos que hubieren procurado el nacimiento.
 
 > <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
 
@@ -2715,7 +2659,7 @@ En igualdad de circunstancias se dará preferencia en la adopción a mexicanos r
 
 ###### ARTICULO 369 Quáter.
 
-Las adopciones internacionales promovidas por ciudadanos originarios de los países que son parte de la Convención Sobre Protección de Menores y Cooperación en Materia de Adopción Internacional, tendrán lugar cuando el Sistema Estatal para el desarrollo Integral de la Familia, en su carácter de autoridad central, verifique y determine:
+Las adopciones internacionales promovidas por ciudadanos originarios de los países que son parte de la Convención Sobre Protección de Menores y Cooperación en Materia de Adopción Internacional, tendrán lugar cuando el Sistema Estatal para el Desarrollo Integral de la Familia, en su carácter de autoridad central, verifique y determine:
 
 I. Que el menor es adoptable;
 
@@ -4499,7 +4443,7 @@ I. Que es mayor de edad o que está emancipado;
 
 II.- Que está domiciliado en el lugar donde se quiere constituir el patrimonio;
 
-III. La existencia de la familia a cuyo favor se va a constituír el patrimonio. La comprobación de los vínculos familiares se hace con las copias certificadas del Registro Civil;
+III. La existencia de la familia a cuyo favor se va a constituir el patrimonio. La comprobación de los vínculos familiares se hace con las copias certificadas del Registro Civil;
 
 IV. Que son propiedad del constituyente los bienes destinados al patrimonio y que no reportan gravámenes;
 
@@ -5086,3 +5030,15 @@ P.O. 23 DE JUNIO DE 2018.
 Artículo primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO 154.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES LEGALES DEL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. La Secretaría de Educación instruirá a las autoridades escolares para que en el ciclo escolar 2019-2020, y los subsecuentes, no exijan actas de nacimiento con una temporalidad específica para la realización de los trámites de inscripción.
+
+Artículo tercero. Se derogan las disposiciones que contravengan el presente Decreto.
+
+Artículo cuarto. Los juicios de divorcio necesario que se encuentren en trámite a la entrada en vigor del presente decreto, seguirán substanciándose hasta su conclusión, de conformidad con las disposiciones en la materia que se derogan.
