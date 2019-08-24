@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-social-para-el-estado-y-municipios-de-66530"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2019-06-26"
+last_updated: "2019-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -55,15 +55,23 @@ La presente Ley es de orden público, interés social y de observancia general e
 
 Esta Ley tiene por objeto:
 
-I. Cumplir con la responsabilidad social del Estado y Municipios, asumiendo plenamente las obligaciones constitucionales en materia de desarrollo social, para que la población pueda gozar de sus derechos sociales universales;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-II. Garantizar el derecho igualitario e incondicional de toda la población al desarrollo social y el acceso a sus programas;
+I. Cumplir con la responsabilidad social del Estado y Municipios, asumiendo plenamente las obligaciones constitucionales en materia de desarrollo social y humano, para que la población pueda gozar de sus derechos sociales universales;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+II. Garantizar el acceso igualitario a todas las personas al desarrollo social en el marco de sus derechos humanos y a beneficiarse de los programas que se construyan para ese fin, incluyendo las medidas especiales de carácter temporal o compensatorias;
 
 III. Combatir con eficiencia la pobreza, la marginación y la exclusión social;
 
-IV. Implementar acciones que busquen la plena equidad social para los grupos excluidos, en condiciones de subordinación o discriminación por razones de su condición socioeconómica, edad, sexo, pertenencia étnica o racial, características físicas, preferencia sexual, origen nacional, práctica religiosa o cualquier otra;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-V. Establecer las bases para un desarrollo social integral, garantizando la evaluación del impacto de los programas de desarrollo social;
+IV. Implementar acciones a favor de la igualdad de oportunidades promoviendo la equidad social para las personas que se encuentren en situación de vulnerabilidad, exclusión social, discriminación motivada por el origen étnico, nacional, el sexo, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, la orientación sexual, el estado civil, el trabajo desempeñado, la raza, las opiniones políticas o creencias religiosas, la migración o cualquier otra que atente contra la dignidad humana;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+V. Establecer las bases para un desarrollo social y humano integral, garantizando la evaluación del impacto de los programas de desarrollo social;
 
 VI. Garantizar la inclusión social y determinar las bases para la promoción y participación social y para su vinculación con los programas, estrategias y recursos gubernamentales para el desarrollo social, y
 
@@ -149,15 +157,21 @@ XIV. Unidad: La Unidad de Planeación del Titular del Poder Ejecutivo.
 
 La política de desarrollo social se sujetará a los siguientes principios:
 
-I. Universalidad: El reconocimiento de todas las personas como titulares de los derechos sociales y sujetos del desarrollo social;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+I. Universalidad: El reconocimiento de todas las personas como titulares de los derechos humanos y al desarrollo social y humano;
 
 II. Libertad: Es la capacidad de las personas para elegir los medios para su desarrollo personal, así como para participar en el desarrollo social;
 
-III. Justicia distributiva: Garantiza que toda persona reciba de manera equitativa los beneficios del desarrollo conforme a sus méritos, sus necesidades, sus posibilidades y las de las demás personas;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+III. Justicia distributiva: Garantiza que toda persona reciba de manera equitativa los beneficios del desarrollo conforme a sus necesidades con especial atención a los grupos en situación de vulnerabilidad;
 
 IV. Solidaridad: Es la colaboración entre personas, grupos sociales y órdenes de gobierno, de manera corresponsable para el mejoramiento de la calidad de vida de la sociedad;
 
-V. Integralidad: Es la articulación y complementariedad de programas y acciones que conjunten los diferentes beneficios sociales, en el marco de la política estatal de desarrollo social;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+V. Integralidad: Es la articulación y complementariedad de programas y acciones de gobierno que conjunten los diferentes beneficios sociales para favorecer el desarrollo social y humano de manera integral;
 
 VI. Participación social: Es el derecho de las personas y organizaciones a intervenir e integrarse, individual o colectivamente, en la formulación, ejecución y evaluación de las políticas, programas y acciones del desarrollo social;
 
@@ -169,17 +183,23 @@ IX. Subsidiariedad: Es el reconocimiento de los derechos y obligaciones que perm
 
 X. Exigibilidad: Es el derecho de las personas a que, a través de un conjunto de normas y procedimientos, los derechos sociales sean progresivamente exigibles de acuerdo a la disposición presupuestal;
 
-XI. Diversidad: Es el reconocimiento en términos de origen étnico, género, edad, discapacidades, condición social, condiciones de salud, religión, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias, y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-XII. Transparencia: La información relativa al desarrollo social deberá ser pública en los términos de las leyes en la materia. Las autoridades garantizarán que la información gubernamental sea objetiva, oportuna, sistemática y veraz.
+XI. Diversidad: Es el reconocimiento de todas las personas como sujetos de derechos sin importar su origen étnico, sexo, género, edad, discapacidades, condición social, condiciones de salud, religión, orientación sexual, opinión política, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad, y
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+XII. Transparencia: La información relativa al desarrollo social y los recursos públicos que se apliquen en este rubro es pública en los términos de las leyes en la materia. Las autoridades garantizarán que la información gubernamental sea objetiva, oportuna, sistemática y veraz.
 
 > <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2019)</small>
 
 XIII. Interés Superior de la Niñez: De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley General de Desarrollo Social, los tratados internacionales aplicables de los que el Estado Mexicano sea parte y la Constitución Política del Estado Libre y Soberano de Zacatecas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 8.
 
-Para efectos administrativos, en caso de duda sobre la interpretación de la presente Ley y su Reglamento, se estará a lo que resuelva el Poder Ejecutivo por conducto de la Secretaría.
+Para efectos administrativos, en caso de duda sobre la interpretación y aplicación de la presente Ley y su Reglamento, se estará a lo que resuelva el Poder Ejecutivo por conducto de la Secretaría.
 
 En el ámbito municipal y para los mismos efectos, se estará a lo que determine el Ayuntamiento.
 
@@ -199,15 +219,33 @@ III. La alimentación y nutrición adecuada;
 
 IV. La vivienda;
 
-V. Un ambiente sano;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+V. Un medio ambiente sano;
 
 VI. La no discriminación;
 
 VII. El trabajo y la seguridad social;
 
-VIII. El acceso al agua, y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-IX. La equidad.
+VIII. El acceso al agua y servicios públicos;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+IX. La igualdad;
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+X. A una familia;
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+XI. A la recreación y la cultura, y
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+XII. A una vida libre de violencia.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS SUJETOS DEL DESARROLLO SOCIAL
 
@@ -289,9 +327,9 @@ Corresponde al Poder Ejecutivo del Estado, por conducto de la Secretaría:
 
 I. Establecer, coordinar y operar el Sistema;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-II. Proyectar la planeación estatal del desarrollo social;
+II. Proyectar la planeación estatal del desarrollo social con una perspectiva de derechos humanos y de género;
 
 III. Formular y vigilar la ejecución del Programa, en coordinación con las dependencias y entidades de la administración pública estatal relacionadas con la materia;
 
@@ -381,17 +419,21 @@ XX. Las demás que le confiera la presente Ley, los reglamentos municipales en l
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 21.
 
-La Política Estatal de Desarrollo Social, comprende el Programa, las acciones, directrices, líneas de acción contenidos en el mismo y los convenios que celebre el Poder Ejecutivo del Estado con otras instancias, encaminados a impulsar el desarrollo social.
+La Política Estatal de Desarrollo Social, comprende el Programa, las acciones, las medidas especiales de carácter temporal o compensatorias, directrices, líneas de acción contenidos en el mismo y los convenios que celebre el Poder Ejecutivo del Estado con otras instancias, encaminados a impulsar el desarrollo social.
 
-La política municipal de desarrollo social, comprende los programas municipales de desarrollo social, las acciones, directrices, líneas de acción contenidos en el mismo y los convenios que celebre el gobierno municipal respectivo con otras autoridades.
+La política municipal de desarrollo social, comprende los programas municipales de desarrollo social, las acciones, las medidas especiales de carácter temporal o compensatorias, directrices, líneas de acción contenidos en el mismo y los convenios que celebre el gobierno municipal respectivo con otras autoridades.
 
 ###### Artículo 22.
 
 La política estatal y municipal de desarrollo social, tiene los siguientes objetivos:
 
-I. Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, garantizando el acceso a los programas de desarrollo social y la igualdad de oportunidades, así como la superación de la marginación, discriminación, vulnerabilidad, pobreza y la exclusión social;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+I. Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, garantizando el acceso a los programas de desarrollo social, la igualdad de oportunidades, a las medidas especiales de carácter temporal o compensatorias, encaminadas a erradicar la marginación, discriminación, vulnerabilidad, pobreza y la exclusión social;
 
 II. Generar oportunidades de desarrollo integral, con equidad y procurando las mejores condiciones de vida para los habitantes del Estado;
 
@@ -977,7 +1019,9 @@ I. Cumplimiento de los objetivos;
 
 II. Cumplimiento de los principios de la política estatal de desarrollo social;
 
-III. Cobertura y número de beneficiarios;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+III. Cobertura y número de beneficiarios, clasificando mujeres en situación de vulnerabilidad;
 
 IV. Procedimientos debidamente documentados;
 
@@ -1148,5 +1192,13 @@ P.O. 26 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 132.- POR EL CUAL SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 7 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS”.]
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de (sic) Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 163.- MEDIANTE EL CUAL SE REFORMA, ADICIONA Y DEROGO DIVERSAS DISPOSICIONES DEL (SIC) LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
 
 Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
