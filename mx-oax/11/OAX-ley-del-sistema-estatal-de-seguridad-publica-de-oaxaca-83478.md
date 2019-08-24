@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2018-11-10"
+last_updated: "2019-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -899,15 +899,19 @@ XXVII. Organizar y operar la Unidad de Medidas Cautelares, en términos de lo di
 
 XXVIII. Ordenar y administrar a las instituciones policiales de la Secretaria, para que proporcionen servicios a la autoridad judicial y ministerial correspondiente, cuando éstas los soliciten, en las diversas etapas del procedimiento penal acusatorio, de conformidad con la normatividad aplicable
 
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+XXIX.- Requerir de los Ayuntamientos, copia para conocimiento del presupuesto anual de egresos en la parte correspondiente a lo presupuestado en materia de seguridad pública municipal.
+
 > <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XXIX. Prevenir y sancionar las faltas administrativas que determinen las leyes, reglamentos y demás disposiciones normativas aplicables;
+XXX. Prevenir y sancionar las faltas administrativas que determinen las leyes, reglamentos y demás disposiciones normativas aplicables;
 
 > <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XXX. Ejecutar y supervisar que la planeación, programación; acciones, proyectos y políticas públicas de la Secretaría sean con perspectiva de género, y
+XXXI. Ejecutar y supervisar que la planeación, programación; acciones, proyectos y políticas públicas de la Secretaría sean con perspectiva de género, y
 
-XXXI. Las demás que con ése carácter le confieran otras disposiciones aplicables o le encomiende el Gobernador del Estado.
+XXXII. Las demás que con este carácter le confieran otras disposiciones aplicables o le encomiende el Gobernador del Estado.
 
 El Secretario podrá delegar las facultades necesarias, con excepción de las enumeradas en las fracciones I a V, de la VIII a la XVI, XIX y XXIV, a favor de los servidores públicos correspondientes; asimismo, podrá adscribir orgánicamente las unidades administrativas y órganos administrativos desconcentrados que se establezcan en su reglamento, a través de los acuerdos correspondientes, que deberán publicarse en el Periódico Oficial del Estado.
 
@@ -3434,3 +3438,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Comisión del Servicio Profesional de Carrera, y Comisión de Honor y Justicia, deberá instalarse a más tardar dentro de los sesenta días naturales, contados a partir de la entrada en vigor de las reformas a la Ley del Sistema Estatal de Seguridad Pública de Oaxaca. Los asuntos iniciados ante el Consejo Estatal de Desarrollo Policial, previo a la entrada en vigor de las reformas y adiciones a la Ley del Sistema Estatal de Seguridad Pública de Oaxaca, deberán culminarse con las disposiciones normativas vigentes hasta la entrada en vigor.
 
 TERCERO. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a lo establecido en el presente Decreto.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 715.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
