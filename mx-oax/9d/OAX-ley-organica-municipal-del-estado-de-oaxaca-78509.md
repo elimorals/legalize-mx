@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2019-08-03"
+last_updated: "2019-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -505,6 +505,10 @@ XXII. Presentar por conducto del Presidente Municipal al Órgano Superior de Fis
 
 XXIII.- Elaborar y aprobar su Presupuesto Anual de Egresos de conformidad con los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, remitiendo copia al Congreso del Estado a través del Órgano Superior de Fiscalización del Estado de Oaxaca, para su conocimiento y fiscalización;
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+En ese orden se deberá especificar el uso y destino de los recursos económicos asignados para seguridad pública municipal, de la parte correspondiente se remitirá para conocimiento copia a la Secretaría de Seguridad Pública del Estado de Oaxaca.
+
 XXIV.- Dotar a la cabecera municipal, agencias, colonias y comunidades de su Municipio de obras y servicios públicos básicos como son: agua potable, drenaje, o cualquier obra supletoria que sea de saneamiento ambiental o ecológico, alcantarillado, tratamiento y disposición de aguas residuales; alumbrado público, limpia, recolección, traslado, tratamiento y disposición final de residuos; y los demás que señala el artículo 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca, velando siempre por la preservación del equilibrio ecológico;
 
 XXV.- Coadyuvar en la ejecución de los planes y programas federales y estatales en el Municipio;
@@ -539,7 +543,13 @@ XXXIX.- Rendir a la ciudadanía por conducto del Presidente Municipal, un inform
 
 XL.- Constituir el Concejo de Protección Civil Municipal, y llevar a cabo las medidas y acciones que promuevan los sistemas nacional y estatal de protección civil, para garantizar la seguridad de la población en caso de emergencias o de siniestros;
 
-XLI.- Promover la organización y preservación de los archivos municipales conforme a la Ley de Archivos del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+XLI.- Constituir los Consejos Municipales de Seguridad Pública, que tendrán como función primordial establecer criterios y acciones para la prevención del delito, a fin de salvaguardar la integridad y derechos humanos, preservando las libertades, el orden y la paz pública, en sus respectivas demarcaciones y realizar las acciones y medidas que promuevan los sistemas nacional y estatal de seguridad pública.
+
+Los Presidentes Municipales inmediatamente después de tomar posesión de su cargo, deberán constituir su cuerpo de Policía Preventiva Municipal en términos del artículo 21 de la Constitución Política de los Estado (sic) Unidos Mexicanos, 21 y 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca y la Ley del Sistema Estatal de Seguridad Pública de Oaxaca.
+
+Para tal fin los Presidentes Municipales, realizaran todas las acciones correspondientes para la creación y funcionamiento de su Policía Preventiva Municipal, la cual tendrá las facultades previstas en el artículo 55 de esta ley.
 
 XLII.- Nombrar al Cronista Municipal o al Concejo de Cronistas, el cargo será honorífico;
 
@@ -709,13 +719,21 @@ LXXXIII.- Hacer del conocimiento por escrito al Órgano Superior de Fiscalizaci�
 
 LXXXIV.- Hacer pública la información del padrón a que hace referencia la fracción anterior, dando a conocer a los asesores que mejor han cumplido con las obligaciones contraídas con los municipios, así como de aquellos que no han observado un adecuado cumplimiento;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-LXXXV.- Impulsar acciones y programas en favor de niñas, niños, personas con discapacidad, mujeres y personas adultas mayores, así como llevar a cabo campañas de sensibilización sobre los efectos de la violencia hacia estos grupos y cultura de la denuncia de la población para fomentar el respeto hacia los mismos, y;
+LXXXV.- Promover la organización y preservación de los archivos municipales conforme a la Ley de Archivos del Estado de Oaxaca;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE AGOSTO DE 2019)</small>
 
-LXXXVI.- Las demás que les señalen las leyes y reglamentos municipales.
+LXXXVI. En los municipios donde se encuentren asentados pueblos indígenas, los ayuntamientos promoverán, en el marco de las prácticas tradicionales de las Comunidades y Pueblos Indígenas, el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Particular del Estado y la Ley de los Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca.
+
+Para el fortalecimiento de la cultura indígena del Estado de Oaxaca, los municipios y las agencias municipales podrán crear y organizar el Instituto Comunitario Municipal de la Lengua Indígena que corresponda a su particular comunidad, para la preservación, enseñanza, hablada y escrita de sus lenguas originarias o nativas.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 716, PUBLICADO EN EL P.O. DE 24 DE AGOSTO DE 2017, PÁGINA 6.]</small>
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 24 DE AGOSTO DE 2019)</small>
+
+LXXXVI (SIC). Las demás que les señalen las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
@@ -2535,9 +2553,11 @@ La Comisión Permanente de Gobernación y Asuntos Agrarios dará cuenta del resu
 
 ### CAPÍTULO VII. DE LA SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL MUNICIPALES
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 159.
 
-La Seguridad Pública Municipal se regirá y prestará conforme a la Ley de Seguridad Pública para el Estado de Oaxaca.
+La Seguridad Pública Municipal se regirá y prestará conforme a la Ley del Sistema Estatal de Seguridad Pública de Oaxaca.
 
 ###### ARTÍCULO 160.
 
@@ -3370,3 +3390,21 @@ P.O. 3 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 714: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 712.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial de (sic) Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas normas de igual o menor jerarquía que se opongan al presente Decreto, aunque no estén expresamente derogadas.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 715.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
