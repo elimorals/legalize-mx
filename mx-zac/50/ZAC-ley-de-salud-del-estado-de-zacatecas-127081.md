@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-127081"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-07"
-last_updated: "2018-08-18"
+last_updated: "2019-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 7 de marzo de 2018.
 
@@ -1463,6 +1463,10 @@ Están obligados a mantener los locales libres de fauna nociva.
 
 Si se trata de expendio de alimentos se sujetarán a las especificaciones sanitarias que se contemplan en la Ley General, su Reglamento en materia de Productos y Servicios y las Normas Oficiales Mexicanas aplicables.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+La Secretaría procurará que todos los establecimientos de servicios de alimentos o bebidas, publiquen en sus menús y sitios visibles el valor nutricional de todos los productos alimenticios que ofrecen, expresado en calorías, de forma clara y legible, y que, además cuenten con oferta de bebidas sin calorías o de bajo contenido calórico.
+
 ### CAPÍTULO V. Transporte de residuos sólidos
 
 ###### ARTÍCULO 145.
@@ -2366,3 +2370,11 @@ P.O. 18 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 410.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE ZACATECAS”.]
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 164.- POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 144 DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO.- La presente disposición entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan a la presente.
