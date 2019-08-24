@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-la-juventud-del-estado-de-zacatecas-100875"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-03"
-last_updated: "2019-02-09"
+last_updated: "2019-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de mayo de 2014.
 
@@ -779,6 +779,10 @@ XVII. Los lineamientos necesarios para el diseño e implementación de política
 
 XVIII. El diseño y aplicación de indicadores adecuados para la evaluación objetiva de los planes, programas y acciones en materia de juventud.
 
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+XIX. Diseñar, implementar y promover proyectos productivos agrícolas sustentables en beneficio del desarrollo integral de la juventud de las comunidades rurales, con la coordinación del Instituto de la Juventud del Estado de Zacatecas, dependencias de la Administración Pública y los municipios.
+
 ###### Artículo 61.
 
 El Programa Estatal de Juventud deberá ser publicado en el Periódico Oficial, Órgano de Gobierno del Estado.
@@ -1198,3 +1202,11 @@ P.O. 9 DE FEBRERO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 152.- MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XIX AL ARTÍCULO 60 DE LA LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
