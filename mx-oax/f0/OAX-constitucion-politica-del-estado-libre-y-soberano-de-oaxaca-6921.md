@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2019-08-17"
+last_updated: "2019-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -491,9 +491,21 @@ El Estado promoverá lo necesario para que la población tenga acceso a una vivi
 
 Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios culturales. El Estado garantizará su cumplimiento y promoverá el derecho a la creación y formación artística; la diversidad cultural de los individuos, comunidades y pueblos; la vinculación entre cultura y desarrollo sustentable; y la difusión y protección del patrimonio cultural, fomentando la participación social.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
-Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible.
+Toda persona tiene derecho al acceso, a la disposición y saneamiento de agua potable suficiente, salubre, segura, asequible, accesible y de calidad para el uso personal y doméstico de una forma adecuada a la dignidad, la vida y la salud; así como a solicitar, recibir y difundir información sobre las cuestiones del agua.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+El Estado de Oaxaca y los Municipios, garantizarán la cobertura universal del agua, su acceso continuo, equitativo y sustentable. Se incentivará la captación del agua pluvial.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+El agua es un bien público, social y cultural. Es inalienable, inembargable, irrenunciable y esencial para la vida. La gestión del agua será pública y sin fines de lucro.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+El Estado de Oaxaca y los Municipios garantizarán que los desfavorecidos y marginados, en particular las mujeres, tengan un acceso equitativo al agua y a los sistemas de gestión del agua, incluidas las técnicas sostenibles de recogida del agua de lluvia y de irrigación.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
@@ -510,6 +522,26 @@ Las autoridades adoptarán las medidas necesarias para asegurar el ejercicio de 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 Toda persona dentro del territorio del Estado, tiene derecho a vivir en un medio ambiente sano para su desarrollo, salud y bienestar. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por las leyes.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 24 DE AGOSTO DE 2019)</small>
+
+A.- Esta Constitución reconoce a los animales como seres sintientes y, en consecuencia, deben recibir trato digno.
+
+En el Estado de Oaxaca toda persona tiene un deber ético y obligación jurídica de respetar la vida y la integridad de los animales; éstos, por su naturaleza son sujetos de consideración moral. Su tutela es de responsabilidad común.
+
+Las autoridades de los órdenes Estatal y Municipal garantizarán la protección, bienestar, así como el trato digno y respetuoso a los animales y fomentarán una cultura de cuidado y tutela responsable. Así mismo, realizarán acciones para la atención de animales en abandono o que hayan sido objeto a que hayan sido objeto (sic) de maltrato.
+
+La ley determinará lo siguiente:
+
+a) Las actividades, de acuerdo a su naturaleza, características y vínculos con la persona;
+
+b) Las conductas prohibidas con objeto de proteger a los animales y las sanciones aplicables por los actos de maltrato y crueldad;
+
+c) Las bases para promover la conservación, así como prevenir y evitar maltratos en la crianza y el aprovechamiento de animales de consumo;
+
+d) Las medidas necesarias para atender el control de plagas y riesgos sanitarios, y;
+
+e) Las facilidades para quienes busquen dar albergue y resguardo a animales en estado de abandono y los que hayan sido objeto de maltrato.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -3187,7 +3219,11 @@ El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde
 
 VIII.- La administración de justicia de cada Municipio estará a cargo de uno o más servidores públicos que se llamarán Alcaldes, por cada Alcalde Propietario habrá dos Suplentes que llevarán su respectivo número de orden, durarán en su cargo un año, y serán designados por la mayoría de los integrantes del Ayuntamiento.
 
-Para ser Alcalde se requiere haber cumplido veinticinco años antes del día de su designación y cubrir los mismos requisitos que se exigen para ser miembro de un Ayuntamiento.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE AGOSTO DE 2019)</small>
+
+Para ser Alcalde se requiere haber cumplido dieciocho años antes del día de su designación y cubrir los mismos requisitos, cualidades y principios constitucionales que se exigen para ser miembro de un Ayuntamiento.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 24 DE AGOSTO DE 2019)</small>
 
 Los Alcaldes son auxiliares de los Jueces y Tribunales del Estado, la Ley Orgánica respectiva establecerá el número que deba haber en cada Municipio, las funciones y atribuciones que les correspondan.
 
@@ -5316,3 +5352,25 @@ P.O. 17 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 675.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 652.- MEDIANTE EL CUAL SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 708.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. El Congreso del Estado dentro de los 120 días naturales siguientes a la entrada en vigor de este Decreto, expedirá la Ley de protección a los Animales del Estado de Oaxaca y hará las adecuaciones legales conducentes.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N.DE E. TRANSITORIO DEL “DECRETO NÚM. 710.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado. Publíquese.
