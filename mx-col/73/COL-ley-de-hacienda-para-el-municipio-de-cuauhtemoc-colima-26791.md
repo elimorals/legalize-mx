@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-cuauhtemoc-colima-26791"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2019-06-01"
+last_updated: "2019-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTÉMOC DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -465,13 +465,21 @@ IX. La prescripción positiva;
 
 X. La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del por ciento que le correspondía al copropietario o cónyuge;
 
-XI. La afectación de bienes inmuebles o derechos reales en fideicomiso que no implique traslación de dominio en favor de la institución fiduciaria pero que, debido a la realización de cualquier hecho, acto, resolución o contrato, la fiduciaria deba transmitir la propiedad de los bienes o derechos afectados a los fideicomitentes;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-XII. La afectación de bienes inmuebles o derechos reales mediante fideicomiso que transmitiendo su dominio en favor de la institución fiduciaria ésta a su vez, en cumplimiento del fideicomiso, traslade la propiedad de los bienes o derechos al o los fideicomisarios originalmente designados;
+XI. La afectación de bienes inmuebles o derechos reales que se realice a través del fideicomiso, en los siguientes casos.
 
-XIII. La transmisión de dominio que por cualquier hecho, acto, resolución o contrato haga el fideicomitente sobre sus derechos fideicomitidos en favor de quien lo sustituya como fideicomitente. También es objeto de este impuesto la consolidación de los derechos fideicomitidos en un solo fideicomitente, cuando éstos fueren varios;
+a) En el acto en el que el fideicomitente designe o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir del fiduciario los bienes.
 
-XIV. La transmisión de dominio que por cualquier hecho, acto, resolución o contrato haga el fideicomisario sobre los derechos fideicomitidos, en favor de quien o quienes lo sustituyan como fideicomisario. También será objeto de este impuesto la consolidación de los derechos fideicomitidos en un solo fideicomisario, cuando éstos fueren varios;
+b) En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
+
+Cuando el fideicomitente reciba certificados de participación por los bienes inmuebles que afecte en fideicomiso, se considera realizada la transmisión o adquisición de la propiedad de dichos bienes inmuebles al momento en que el fideicomitente reciba los certificados, salvo que se trate de acciones.
+
+XII. (DEROGADA, P.O. 24 DE AGOSTO DE 2019)
+
+XIII. (DEROGADA, P.O. 24 DE AGOSTO DE 2019)
+
+XIV. (DEROGADA, P.O. 24 DE AGOSTO DE 2019)
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2019)</small>
 
@@ -623,7 +631,7 @@ Si el pago del impuesto se refiere a la afectación de bienes en el tipo de fide
 
 ###### ARTICULO 30.
 
-En los fideicomisos a que se refiere la fracción XII del artículo 21 de esta Ley, el impuesto deberá pagarse tanto por la transmisión de la propiedad a la institución fiduciaria como por la que ésta realice al fideicomisario.
+(DEROGADO, P.O. 24 DE AGOSTO DE 2019)
 
 ###### ARTICULO 31.
 
@@ -4228,3 +4236,9 @@ P.O. 1 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 83 POR EL QUE SE REFORMAN LOS ARTÍCULOS 3º FRACCIÓN I, 7 SEGUNDO PÁRRAFO, 9 FRACCIÓN I Y SEGUNDO PÁRRAFO, 20, 21 FRACCIÓN XV Y XVI, 25 SEGUNDO PÁRRAFO, 33 SEGUNDO PÁRRAFO 81, PUNTO 3 INCISO F), INCISO G), TODOS DE LA FRACCIÓN I DEL ARTÍCULO 83, 85, 87 FRACCIONES I A IX, 109 FRACCIONES I Y II; SE ADICIONA UN TERCER PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 10, FRACCIÓN XVII AL ARTÍCULO 21, FRACCIÓN IV ARTÍCULO 32, 81 BIS, 81 TER, 81 QUÁTER, FRACCIONES VII A IX AL ARTÍCULO 84, INCISO N) DE LA FRACCIÓN I, INCISO E) Y F) DE LA FRACCIÓN II, INCISOS E), F) Y G) DE LA FRACCIÓN III, INCISO F) A LA FRACCIÓN IV TODOS DEL ARTÍCULO 83, INCISO B) A LA FRACCIÓN IV, FRACCIONES VII Y VIII TODOS DEL ARTÍCULO 84, FRACCIONES V Y VI AL ARTÍCULO 86 BIS, FRACCIONES X Y XI AL ARTÍCULO 87; Y SE DEROGA EL ARTÍCULO 41, NUMERALES 8 Y 9 DE LA FRACCIÓN I DEL ARTÍCULO 46, TODOS DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTÉMOC, COLIMA."]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 123 POR EL QUE SE REFORMA LA FRACCIÓN XI, DEL ARTÍCULO 21; Y SE DEROGAN LAS FRACCIONES XII, XIII Y XIV, DEL ARTÍCULO 21, Y EL ARTÍCULO 30, TODOS DE LA LEY DE HACIENDA PARA CADA MUNICIPIO: ARMERÍA, COLIMA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MANZANILLO, MINATITLÁN, TECOMÁN Y VILLA DE ÁLVAREZ.”]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
