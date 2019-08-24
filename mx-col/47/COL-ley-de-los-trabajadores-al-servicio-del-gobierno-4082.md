@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2019-07-20"
+last_updated: "2019-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -468,6 +468,12 @@ En los trabajos que requieran una labor continua, se fijarán los días en que l
 ###### ARTICULO 49.
 
 Serán considerados como días de descanso obligatorio, los que señala el Calendario Oficial, así como los días en que se verifiquen elecciones federales y locales. También podrán ser días de descanso los que convengan los Titulares de las Entidades con los trabajadores.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+ARTICULO 49 BIS.- A las trabajadoras que laboren en el Gobierno, Ayuntamientos y Organismos Descentralizados del Estado se les asignará un día por año con goce de sueldo para realizarse exámenes de detección de cáncer de mama y cervicouterino. Los trabajadores podrán solicitar este beneficio para la realización de exámenes prostáticos.
+
+Para tal efecto, la persona trabajadora entregará a la oficina de Recursos Humanos de la dependencia en que labora el documento emitido por la institución o clínica que acredite la realización de dichos exámenes, con el fin de que obre en su expediente laboral.
 
 ###### ARTICULO 50.
 
@@ -1826,3 +1832,9 @@ P.O. 20 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 103 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 54 BIS, Y SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 54 BIS Y EL ARTÍCULO 54 TER, TODOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 125 POR EL QUE SE ADICIONA EL ARTÍCULO 49 BIS, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día 01 de enero de 2020 y deberá publicarse en el Periódico Oficial "El Estado de Colima".
