@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-impuesto-de-produccion-de-aguardientes-mezcales-y-10691
 country: "mx"
 rank: "ley"
 publication_date: "1941-08-09"
-last_updated: "1941-08-09"
+last_updated: "2019-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DEL IMPUESTO DE PRODUCCION DE AGUARDIENTES, MEZCALES Y SIMILARES
 
-LEY DEL IMPUESTO DE PRODUCCION DE AGUARDIENTES, MEZCALES Y SIMILARES
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 746, PUBLICADO EN EL P.O. DE 24 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY DEL IMPUESTO DE PRODUCCIÓN DE AGUARDIENTES, MEZCALES Y SIMILARES
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 9 de agosto de 1941.
 
@@ -112,3 +114,21 @@ Y lo comunico a usted para su conocimiento y fines consiguientes.
 Sufragio Efectivo. No Reelección.- Oaxaca de Juárez, a 26 de Julio de 1941.- El Secretario Gral. del Despacho, Lic. Jorge Rafael Woolrich.- Rúbrica.
 
 Al C..
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE AGOSTO DE 2019.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO DEL "DECRETO NÚM. 746.- MEDIANTE EL CUAL ABROGA LA LEY DEL IMPUESTO SOBRE PRODUCCIÓN DE AGUARDIENTES, MEZCALES Y SIMILARES" QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+La Sexagésima Cuarta Legislatura Constitucional del Honorable Congreso del Estado de Oaxaca, con las facultades que le confiere el artículo 59 de la Constitución Política del Estado Libre y Soberano de Oaxaca, abroga la Ley del Impuesto de Producción de Aguardientes, Mezcales y Similares.
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
