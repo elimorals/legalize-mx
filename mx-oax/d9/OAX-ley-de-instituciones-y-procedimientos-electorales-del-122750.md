@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2019-08-03"
+last_updated: "2019-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "OAX"
 ---
 # LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-[N DE E. DE CONFORMIDAD CON LO ORDENADO POR EL ARTÍCULO 53 FRACCIÓN VI, PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECE QUE SI SE APRUEBAN POR EL CONGRESO DEL ESTADO LAS PARTES OBSERVADAS POR EL PODER EJECUTIVO, SE PROCEDERÁ A SU PROMULGACIÓN Y PUBLICACIÓN, EN CONSECUENCIA SE PUBLICA EL DECRETO NÚMERO 650 EN EL P.O. 23 DE JUNIO DE 2017.]
-
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -381,7 +379,9 @@ Artículo 21
 
 I.- Estar inscritos en el Registro Federal de Electores y contar con credencial para votar con fotografía;
 
-II.- No ser magistrado del Tribunal Superior de Justicia, Secretaria o Secretario General de Gobierno, secretaria o secretario de los diferentes ramos de la Administración Pública Estatal, Subsecretarias o Subsecretarios de Gobierno, la o el Fiscal General del estado de Oaxaca, así como los Fiscales Especiales, las o los Presidentes Municipales, militares en servicio activo y cualquier otro servidor público de la Federación, del Estado o de los municipios con facultades ejecutivas, a menos que se separen de sus cargos con noventa días de anticipación a la fecha de su elección. Los diputados, síndicos, y regidores no requerirán separarse de sus cargos;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+II.- No ser magistrado del Tribunal Superior de Justicia, Secretaria o Secretario General de Gobierno, secretaria o secretario de los diferentes ramos de la Administración Pública Estatal, Subsecretarias o Subsecretarios de Gobierno, la o el Fiscal General del Estado de Oaxaca, así como los Fiscales Especiales, las o los Presidentes Municipales, militares en servicio activo y cualquier otro servidor público de la Federación, del Estado o de los Municipios con facultades ejecutivas, a menos que se separen de sus cargos con setenta días de anticipación a la fecha de su elección. Los diputados, síndicos, y regidores no requerirán separarse de sus cargos;
 
 III.- No pertenecer al personal profesional de organismos electorales, federales o estatales, salvo que se separe del cargo dos años antes de la fecha de la elección de que se trate.
 
@@ -5592,3 +5592,9 @@ P.O. 3 DE AGOSTO DE 2019.
 PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 706.-: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
