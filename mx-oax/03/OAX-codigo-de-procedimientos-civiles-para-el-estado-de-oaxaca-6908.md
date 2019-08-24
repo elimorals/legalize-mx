@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2019-08-17"
+last_updated: "2019-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -6733,11 +6733,11 @@ Cuando la solicitud se fundamenta en la existencia de violencia familiar, o para
 
 Contra las medidas provisionales y urgentes que tome el Juez en los casos anteriores, no se admite más recurso que el de responsabilidad.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 963.
 
-El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, personas adultas mayores, personas con discapacidad, alimentos y de violencia familiar, decretando las medidas precautorias que tiendan a preservar la familia y proteger a sus miembros. Para estos casos el Juez deberá decretar las providencias inmediatas y eficaces para que cese la situación irregular, el plazo máximo para dictarlos será de cinco días.
+El Juez de lo Familiar estará facultado para intervenir de oficio y para suplir la deficiencia de la queja, en los asuntos que afecten a la familia, especialmente tratándose de niños, niñas y adolescentes, de alimentos y de violencia familiar, decretando las medidas precautorias que tiendan a preservar la familia y proteger a sus miembros. Para estos casos el juez deberá decretar las providencias inmediatas y eficaces para que cese la situación irregular, el plazo máximo para dictarlos será de cinco días.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
@@ -6746,6 +6746,10 @@ En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2018)</small>
 
 En los procesos familiares donde participen niñas, niños y adolescentes la autoridad judicial deberá prohibir a las personas que presencien las audiencias que difundan los datos personales, audios, videos o imágenes referidas a los mismos. En caso de que las personas incumplan con lo antes señalado, se aplicarán las sanciones de conformidad con la normatividad aplicable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE AGOSTO DE 2019)</small>
+
+En la formalización del convenio a que se refiere el segundo párrafo de este precepto, el Juez Familiar exhortará al deudor alimentario a que cumpla a cabalidad y hará saber a éste que el incumplimiento de su obligación de dar alimentos a las personas que tienen derecho a recibirlos, puede constituir un delito que merece pena de prisión conforme a lo establecido por el Código Penal para el Estado Libre y Soberano de Oaxaca, por lo que en caso de que esto suceda, a petición de la parte afectada se dará vista al Ministerio Público; sin que ello impida u obstaculice el derecho del acreedor alimentario de ocurrir ante la autoridad ministerial por sí mismo.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -7208,3 +7212,11 @@ Primero. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Tercero. Se derogan todas aquellas normas que se opongan al presente Decreto.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 648.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
