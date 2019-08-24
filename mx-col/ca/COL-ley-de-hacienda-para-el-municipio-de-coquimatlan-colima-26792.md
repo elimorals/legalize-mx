@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-coquimatlan-colima-26792"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2019-03-20"
+last_updated: "2019-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COQUIMATLÁN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -37,7 +37,7 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 33 FRACCION IV Y 39, DE LA CONSTITUCION POLITICA LOCAL, Y
 
-...
+[...]
 
 Por lo anteriormente expuesto se expide el siguiente
 
@@ -357,13 +357,21 @@ IX. La prescripción positiva;
 
 X. La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del por ciento que le correspondía al copropietario o cónyuge;
 
-XI. La afectación de bienes inmuebles o derechos reales en fideicomiso que no implique traslación de dominio en favor de la institución fiduciaria pero que, debido a la realización de cualquier hecho, acto, resolución o contrato, la fiduciaria deba transmitir la propiedad de los bienes o derechos afectados a los fideicomitentes;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 24 DE AGOSTO DE 2019)</small>
 
-XII. La afectación de bienes inmuebles o derechos reales mediante fideicomiso que transmitiendo su dominio en favor de la institución fiduciaria ésta a su vez, en cumplimiento del fideicomiso, traslade la propiedad de los bienes o derechos al o los fideicomisarios originalmente designados;
+XI. La afectación de bienes inmuebles o derechos reales que se realice a través del fideicomiso, en los siguientes casos.
 
-XIII. La transmisión de dominio que por cualquier hecho, acto, resolución o contrato haga el fideicomitente sobre sus derechos fideicomitidos en favor de quien lo sustituya como fideicomitente. También es objeto de este impuesto la consolidación de los derechos fideicomitidos en un solo fideicomitente, cuando éstos fueren varios;
+a) En el acto en el que el fideicomitente designe o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir del fiduciario los bienes.
 
-XIV. La transmisión de dominio que por cualquier hecho, acto, resolución o contrato haga el fideicomisario sobre los derechos fideicomitidos, en favor de quien o quienes lo sustituyan como fideicomisario. También será objeto de este impuesto la consolidación de los derechos fideicomitidos en un solo fideicomisario, cuando éstos fueren varios;
+b) En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
+
+Cuando el fideicomitente reciba certificados de participación por los bienes inmuebles que afecte en fideicomiso, se considera realizada la transmisión o adquisición de la propiedad de dichos bienes inmuebles al momento en que el fideicomitente reciba los certificados, salvo que se trate de acciones.
+
+XII. (DEROGADA, P.O. 24 DE AGOSTO DE 2019)
+
+XIII. (DEROGADA, P.O. 24 DE AGOSTO DE 2019)
+
+XIV. (DEROGADA, P.O. 24 DE AGOSTO DE 2019)
 
 XV. La permuta en la que se considerará que se efectúan dos adquisiciones; y
 
@@ -479,7 +487,7 @@ Si el pago del impuesto se refiere a la afectación de bienes en el tipo de fide
 
 ###### ARTICULO 30.
 
-En los fideicomisos a que se refiere la fracción XII del artículo 21 de esta Ley, el impuesto deberá pagarse tanto por la transmisión de la propiedad a la institución fiduciaria como por la que ésta realice al fideicomisario.
+(DEROGADO, P.O. 24 DE AGOSTO DE 2019)
 
 ###### ARTICULO 31.
 
@@ -3434,3 +3442,9 @@ P.O. 20 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 56 POR EL QUE SE REFORMA EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE ARMERÍA, COLIMA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MINATITLÁN, TECOMÁN Y VILLA DE ÁLVAREZ, ASÍ COMO EL ARTÍCULO NOVENO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO Y EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima” y estará vigente hasta el 31 de marzo de 2019.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 123 POR EL QUE SE REFORMA LA FRACCIÓN XI, DEL ARTÍCULO 21; Y SE DEROGAN LAS FRACCIONES XII, XIII Y XIV, DEL ARTÍCULO 21, Y EL ARTÍCULO 30, TODOS DE LA LEY DE HACIENDA PARA CADA MUNICIPIO: ARMERÍA, COLIMA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MANZANILLO, MINATITLÁN, TECOMÁN Y VILLA DE ÁLVAREZ".]
+
+ÙNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
