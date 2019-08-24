@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-11"
-last_updated: "2019-08-17"
+last_updated: "2019-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 11 de marzo de 2016.
 
@@ -173,49 +173,53 @@ XX. Información pública: Todo archivo, registro o dato contenido en cualquier 
 
 XXI. Información Reservada: La información pública que por razones de interés público sea excepcionalmente restringido el acceso de manera temporal, de conformidad con el Título Tercero, Capítulo I de la presente Ley;
 
-XXII. Instituto: El Instituto de Acceso a la Información Pública y Protección de Datos Personales (IAIP);
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-XXIII. Instituto Nacional: Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+XXII. Información socialmente útil o focalizada: la información que sirve para que los particulares tomen decisiones mejor informadas respecto a bienes y servicios públicos o privados, privilegiando el uso de datos estadísticos y/o comparativos; o bien, a la información que contribuye a que los sujetos obligados rindan cuentas entorno a uno o más temas específicos.
 
-XXIV. Instituciones de Beneficencia: Toda institución, asociación, fundación o ente económico que realice actos de beneficencia, en términos de la ley de la materia;
+XXIII. Instituto: El Instituto de Acceso a la Información Pública y Protección de Datos Personales (IAIP);
+
+XXIV. Instituto Nacional: Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+XXV. Instituciones de Beneficencia: Toda institución, asociación, fundación o ente económico que realice actos de beneficencia, en términos de la ley de la materia;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2016)</small>
 
-XXV. Ley: La Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca;
+XXVI. Ley: La Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca;
 
-XXVI. Ley Federal: Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+XXVII. Ley Federal: Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
-XXVII. Ley General: Ley General de Transparencia y Acceso a la Información Pública;
+XXVIII. Ley General: Ley General de Transparencia y Acceso a la Información Pública;
 
-XXVIII. Medio Electrónico: Sistema electrónico de comunicación abierta, que permite almacenar, difundir o transmitir documentos, datos o información;
+XXIX. Medio Electrónico: Sistema electrónico de comunicación abierta, que permite almacenar, difundir o transmitir documentos, datos o información;
 
-XXIX. Obligaciones comunes y específicas de transparencia: La información que los sujetos obligados deben difundir, actualizar y poner a disposición del público en medios electrónicos de manera proactiva, sin que medie solicitud de por medio;
+XXX. Obligaciones comunes y específicas de transparencia: La información que los sujetos obligados deben difundir, actualizar y poner a disposición del público en medios electrónicos de manera proactiva, sin que medie solicitud de por medio;
 
-XXX. Organizaciones de la Sociedad Civil: Asociaciones o Sociedades Civiles legalmente constituidas;
+XXXI. Organizaciones de la Sociedad Civil: Asociaciones o Sociedades Civiles legalmente constituidas;
 
-XXXI. Persona que realiza actos de autoridad: Es toda aquella que, con independencia de su naturaleza formal, dicta, ordena, ejecuta o trata de ejecutar el acto que crea, modifique o extinga situaciones jurídicas en forma unilateral y obligatoria; u omita el acto que de realizarse crearía, modificaría o extinguiría dichas situaciones jurídicas;
+XXXII. Persona que realiza actos de autoridad: Es toda aquella que, con independencia de su naturaleza formal, dicta, ordena, ejecuta o trata de ejecutar el acto que crea, modifique o extinga situaciones jurídicas en forma unilateral y obligatoria; u omita el acto que de realizarse crearía, modificaría o extinguiría dichas situaciones jurídicas;
 
-XXXII. Plataforma Nacional: La Plataforma Nacional de Transparencia, referida en el artículo 49, de la Ley General;
+XXXIII. Plataforma Nacional: La Plataforma Nacional de Transparencia, referida en el artículo 49, de la Ley General;
 
-XXXIII. Protección de Datos Personales: La garantía que tutela la privacidad de datos personales en poder de los sujetos obligados, de conformidad con la ley de la materia;
+XXXIV. Protección de Datos Personales: La garantía que tutela la privacidad de datos personales en poder de los sujetos obligados, de conformidad con la ley de la materia;
 
-XXXIV. Prueba de daño: Carga de los sujetos obligados de demostrar que la divulgación de información lesiona el interés jurídicamente protegido y que el daño que puede producirse con la publicidad de la información es mayor que el interés de conocerla, de conformidad con las disposiciones normativas aplicables;
+XXXV. Prueba de daño: Carga de los sujetos obligados de demostrar que la divulgación de información lesiona el interés jurídicamente protegido y que el daño que puede producirse con la publicidad de la información es mayor que el interés de conocerla, de conformidad con las disposiciones normativas aplicables;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-XXXV. Reglamento: Reglamento Interno del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca;
+XXXVI. Reglamento: Reglamento de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca;
 
-XXXVI. Servidor público: Los señalados en el artículo 115 de la Constitución Política del Estado Libre y Soberano de Oaxaca y en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
+XXXVII. Servidor público: Los señalados en el artículo 115 de la Constitución Política del Estado Libre y Soberano de Oaxaca y en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
 
-XXXVII. Sistema de Datos Personales: El conjunto organizado de datos personales, que están en posesión de los sujetos obligados, contenidos en archivos, registros, ficheros, bases o bancos de datos, cualquiera que fuere la modalidad de su creación, almacenamiento, organización o acceso;
+XXXVIII. Sistema de Datos Personales: El conjunto organizado de datos personales, que están en posesión de los sujetos obligados, contenidos en archivos, registros, ficheros, bases o bancos de datos, cualquiera que fuere la modalidad de su creación, almacenamiento, organización o acceso;
 
-XXXVIII. Sistema de Solicitudes de Acceso a la Información: Aquél que forma parte de la Plataforma Nacional de Transparencia, de conformidad con el artículo 50 fracción I de la Ley General;
+XXXIX. Sistema de Solicitudes de Acceso a la Información: Aquél que forma parte de la Plataforma Nacional de Transparencia, de conformidad con el artículo 50 fracción I de la Ley General;
 
-XXXIX. Sistema Nacional: Al Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+XL. Sistema Nacional: Al Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-XL. Sujetos obligados: Cualquier autoridad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como, cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en los ámbitos Estatal y municipal, y
+XLI. Sujetos obligados: Cualquier autoridad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como, cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en los ámbitos Estatal y municipal, y
 
-XLI. Unidades de transparencia: Instancia a la que hace referencia el artículo 63 de esta Ley.
+XLII. Unidades de transparencia: Instancia a la que hace referencia el artículo 63 de esta Ley.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -315,7 +319,11 @@ XVII. Constituir el Comité de Transparencia y las Unidades de Transparencia, da
 
 XVIII. Designar a los titulares de las Unidades de Transparencia, quienes dependerán directamente del titular del sujeto obligado, y
 
-XIX. Las demás que le señalen las disposiciones normativas aplicables.
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+XIX. Generar la información socialmente útil o focalizadora que sirve para que los particulares tomen decisiones mejor informadas respecto a bienes y servicios públicos o privados, privilegiando el uso de datos estadísticos y/o comparativos; o bien, a la información que contribuye a que los sujetos obligados rindan cuentas entorno a uno o más temas específicos, y
+
+XX. Las demás que le señalen las disposiciones normativas aplicables.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -391,6 +399,10 @@ El Instituto, verificará el cumplimiento que los sujetos obligados den a las di
 
 Las páginas electrónicas utilizadas por los sujetos obligados para la difusión de información pública, deberán atender lo dispuesto por la Ley General y los Lineamientos Técnicos Generales que emita el Instituto Nacional para la publicación y verificación de las obligaciones de transparencia.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Para el caso de las Obligaciones que deben publicar los sujetos obligados del Estado, se atenderán los lineamientos que emita el órgano garante local, siempre y cuando los haya expedido el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 17.
@@ -417,7 +429,9 @@ Los sujetos obligados, deberán poner a disposición del público y mantener act
 
 Además se procurará la publicación en los medios alternativos que resulten de más fácil acceso y comprensión.
 
-Los sujetos obligados deberán informar al Instituto, cuáles son los rubros que no les sean aplicables a sus páginas de Internet, con el objeto de que éste último verifique de forma fundada y motivada la relación de fracciones aplicables a cada sujeto obligado.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Los sujetos obligados deberán informar al Instituto, cuáles son los rubros que no les sean aplicables a sus páginas de Internet, con el objeto de que éste último verifique de forma fundada y motivada la relación de fracciones aplicables a cada sujeto obligado, además deberán difundir información socialmente útil o focalizada, amigable y asequible para los interesados, con el objetivo de divulgar el quehacer público conforme a la legislación aplicable.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -451,6 +465,10 @@ VII. Las disposiciones administrativas, directamente o a través de la autoridad
 
 VIII. Las demás que le señalen esta Ley y demás disposiciones normativas aplicables.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Para el caso de las Obligaciones que debe publicar el Poder Ejecutivo, se atenderán los lineamientos que emita el órgano garante local, siempre y cuando los haya expedido el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 22.
@@ -478,6 +496,10 @@ IX. Los contratos de servicios personales señalando el nombre del prestador del
 X. Los resultados de los estudios o investigaciones de naturaleza económica, política y social que realicen los centros de estudio o investigación legislativa, y
 
 XI. Las que le señalen esta Ley y demás disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Para el caso de las Obligaciones que debe publicar el Poder Legislativo, se atenderán los lineamientos que emita el órgano garante local, siempre y cuando los haya expedido el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -507,6 +529,10 @@ X. La lista de acuerdos que diariamente se publiquen.
 
 El Consejo de la Judicatura emitirá criterios y procedimientos institucionales, para proporcionar a los particulares acceso a la información, para la supresión de datos personales y protección de la privacidad e intimidad, de conformidad con lo previsto por la Ley General y la presente Ley y en las demás disposiciones normativas aplicables en la materia.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Para el caso de las Obligaciones que debe publicar el Poder Judicial, se atenderán los lineamientos que emita el órgano garante local, siempre y cuando los haya expedido el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 24.
@@ -525,6 +551,10 @@ V. Publicar los lineamientos y criterios para la implementación de los planes d
 
 VI. Las demás que le señalen esta Ley y disposiciones normativas aplicables.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Para el caso de las Obligaciones que debe publicar la Fiscalía General del Estado de Oaxaca, se atenderán los lineamientos que emita el órgano garante local, siempre y cuando los haya expedido el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 25.
@@ -538,6 +568,10 @@ II. Los acuerdos del Pleno;
 III. En su caso, las versiones estenográficas de las sesiones públicas, y
 
 IV. Las demás que le señalen las disposiciones normativas electorales aplicables a la materia.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Para el caso de las Obligaciones que debe publicar el Tribunal Electoral del Estado de Oaxaca, se atenderán los lineamientos que emita el órgano garante local, siempre y cuando los haya expedido el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -569,6 +603,10 @@ XI. Las auditorías concluidas a los partidos políticos, y
 
 XII. Los informes sobre sus demás actividades.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Para el caso de las Obligaciones que debe publicar el Instituto Estatal Electoral y de Participación Ciudadana del Estado de Oaxaca, se atenderán los lineamientos que emita el órgano garante local, siempre y cuando los haya expedido el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 27.
@@ -587,6 +625,10 @@ V. Los recursos de queja e impugnación concluidos, así como, el concepto por e
 
 La Defensoría de los Derechos Humanos del Pueblo de Oaxaca, deberá en todo momento cuidar estrictamente por no revelar, información confidencial o reservada contenida dentro de las obligaciones anteriores.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Para el caso de las Obligaciones que debe publicar la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, se atenderán los lineamientos que emita el órgano garante local, siempre y cuando los haya expedido el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 28.
@@ -604,6 +646,10 @@ IV. Los indicadores de resultados en las evaluaciones al desempeño de la planta
 V. El número de estudiantes que egresan por ciclo escolar, por escuela o facultad;
 
 VI. El calendario del ciclo escolar.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Para el caso de las Obligaciones que deben publicar las universidades públicas e Instituciones de educación superior pública, se atenderán los lineamientos que emita el órgano garante local, siempre y cuando los haya expedido el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -630,6 +676,10 @@ VIII. Los resultados de la evaluación al cumplimiento de la ley por parte de lo
 IX. El informe sobre las acciones de promoción de la cultura de transparencia, y
 
 X. Las demás que resulten aplicables en términos de las disposiciones legales de la materia.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Para el caso de las Obligaciones que debe publicar el Instituto, se atenderán los lineamientos que expida el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en caso contrario, el Instituto deberá emitir los mismos.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -661,6 +711,10 @@ XI. El atlas municipal de riesgos.
 
 Todos los Municipios podrán solicitar al Instituto, que de manera subsidiaria divulgue vía electrónica la información pública de oficio que señala este capítulo. Para ello, el Congreso del Estado deberá hacer las previsiones presupuestales que se requieran para la integración y publicación en línea de la información obligatoria en medios electrónicos.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Para el caso de las Obligaciones que deben publicar los Municipios, se atenderán los lineamientos que emita el órgano garante local, siempre y cuando los haya expedido el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 31.
@@ -673,6 +727,10 @@ II. Los informes anuales o parciales, de ingresos y gastos, tanto ordinarios com
 
 III. Las demás que señalen las disposiciones normativas aplicables en materia electoral.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Para el caso de las Obligaciones que deben publicar los Partidos Políticos, se atenderán los lineamientos que emita el órgano garante local, siempre y cuando los haya expedido el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 32.
@@ -684,6 +742,10 @@ I. Monto total de remanentes de un ejercicio fiscal a otro;
 II. Las reglas de operación que los regulan, y
 
 III. Las demás que señalen las disposiciones normativas en la materia.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Para el caso de las Obligaciones que deben publicar los fideicomisos, fondos públicos, mandatos o cualquier otro contrato análogo, se atenderán los lineamientos que emita el órgano garante local, siempre y cuando los haya expedido el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -723,6 +785,10 @@ XV. Los informes de ingresos y gastos realizados, y
 
 XVI. Los contratos colectivos de trabajo de sus agremiados.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Para el caso de las Obligaciones que deben publicar los sindicatos, se atenderán los lineamientos que emita el órgano garante local, siempre y cuando los haya expedido el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 34.
@@ -752,6 +818,10 @@ X. Acta constitutiva;
 XI. El acta de la asamblea en que se hubiese elegido la directiva, y
 
 XII. Los informes de ingresos y gastos realizados.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Para el caso de las Obligaciones que deben publicar las personas físicas y organizaciones de la sociedad civil, se atenderán los lineamientos que emita el órgano garante local, siempre y cuando los haya expedido el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -1085,9 +1155,27 @@ V. Cuando exista orden judicial, y
 
 VI. Por razones de salubridad, salud o para proteger los derechos de terceros.
 
-(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-#### SECCIÓN PRIMERA. DEL CONSEJO GENERAL
+#### SECCIÓN TERCERA. DE LA INFORMACIÓN SOCIALMENTE ÚTIL O FOCALIZADA
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+###### Artículo 62 Bis.
+
+Los sujetos obligados como parte de la rendición de cuentas a la ciudadanía, tomando en consideración sus particularidades, deberán identificar y difundir a través de su portal electrónico, aquella información socialmente útil o focalizada que se genere, procese y sintetice la que deberá cumplir con alguna de las siguientes características:
+
+I. Mejorar el acceso a trámites, bienes y/o servicios, con la mayor conveniencia y oportunidad, con el propósito de evitar posibles contratiempos para los usuarios;
+
+II. Propiciar el conocimiento en los gobernados de diversos temas de interés general, tales como: comunicaciones y transportes, salud, educación, empleo, seguridad, vivienda, desarrollo y seguridad social, turismo, medio ambiente y/o energía, con el fin de que éstos, puedan tomar decisiones informadas sobre asuntos y/o problemas públicos específicos y con ello, contribuir a la disminución de riesgos en su persona y familia;
+
+III. Contener elementos que promuevan la competitividad económica e inversión, eliminando las asimetrías de información, y;
+
+IV. Fortalecer la transparencia en lo relativo al uso, destino y ejercicio de los recursos públicos con el propósito de prevenir y combatir la corrupción.
+
+La información relacionada con cualquiera de las fracciones anteriormente señaladas, deberá establecer una fuente de información confiable, sustentada en documentos, acciones y/o resultados relacionados con el ámbito de sus atribuciones que, en su caso, le corresponda a las dependencias y entidades.
+
+Así mismo, para la identificación y publicación de información socialmente útil o focalizada, se deberán tomar en cuenta las buenas prácticas en la materia, así como las necesidades de información de audiencias específicas, considerando entre éstas a los particulares y a las organizaciones de la Sociedad Civil.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -1152,6 +1240,10 @@ XIV. Certificar los instrumentos que en materia de transparencia, sean necesario
 XV. Dar cuenta, en su caso, al Comité de Transparencia del Sujeto Obligado en el ámbito de su competencia, y
 
 XVI. Hacer del conocimiento del Instituto y de los órganos de control interno, la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley General, Ley Federal y la presente ley.
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+XVII. Verificar que los Sujetos Obligados, divulguen de manera proactiva, información socialmente útil o focalizada en los portales electrónicos.
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -1319,9 +1411,9 @@ El instituto creará las unidades administrativas, técnicas y de vigilancia que
 
 (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
-#### SECCIÓN SEGUNDA. LA PRESIDENCIA DEL CONSEJO GENERAL
+#### SECCIÓN PRIMERA. DEL CONSEJO GENERAL
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 82.
 
@@ -1577,9 +1669,9 @@ V. Ser Licenciado en Derecho, preferentemente.
 
 (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
-#### SECCIÓN TERCERA. DEL CONTRALOR GENERAL
+#### SECCIÓN SEGUNDA. LA PRESIDENCIA DEL CONSEJO GENERAL
 
-(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
 
 ###### Artículo 91.
 
@@ -1671,9 +1763,9 @@ XVII. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
 (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
-#### SECCIÓN CUARTA. DEL CONSEJO CONSULTIVO CIUDADANO
+#### SECCIÓN TERCERA. DEL CONTRALOR GENERAL
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 94.
 
@@ -1749,9 +1841,9 @@ XIX.- Las demás que le otorgue esta Ley, la Ley de responsabilidades de los Ser
 
 (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
-#### SECCIÓN PRIMERA. PROCEDENCIA DEL RECURSO DE REVISIÓN
+#### SECCIÓN CUARTA. DEL CONSEJO CONSULTIVO CIUDADANO
 
-(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 98.
 
@@ -2069,7 +2161,7 @@ En todo caso se facilitará su copia simple o certificada, así como su reproduc
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
-#### SECCIÓN SEGUNDA. REQUISITOS PARA LA INTERPOSICIÓN DEL RECURSO DE REVISIÓN
+#### SECCIÓN PRIMERA. PROCEDENCIA DEL RECURSO DE REVISIÓN
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
@@ -2129,9 +2221,9 @@ II. El vencimiento del plazo para la entrega de la respuesta de la solicitud de 
 
 (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
-#### SECCIÓN TERCERA. LA SUBSTANCIACIÓN DEL RECURSO DE REVISIÓN
+#### SECCIÓN SEGUNDA. REQUISITOS PARA LA INTERPOSICIÓN DEL RECURSO DE REVISIÓN
 
-(REFORMADO, P.O. 16 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 131.
 
@@ -2169,9 +2261,9 @@ En ningún caso será necesario que el particular ratifique el recurso de revisi
 
 (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
 
-#### SECCIÓN CUARTA. LA RESOLUCIÓN DEL RECURSO DE REVISIÓN
+#### SECCIÓN TERCERA. LA SUBSTANCIACIÓN DEL RECURSO DE REVISIÓN
 
-(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
+(REFORMADO, P.O. 16 DE MARZO DE 2016) (REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 134.
 
@@ -2254,6 +2346,10 @@ Salvo prueba en contrario, la falta de contestación del sujeto obligado al recu
 Interpuesto el recurso por falta de respuesta, a más tardar al día siguiente de que se recibió el recurso, el comisionado ponente dará vista al sujeto obligado para que alegue lo que a su derecho convenga en un plazo no mayor a cinco días. Recibida su contestación, el Comisionado ponente deberá emitir su resolución en un plazo no mayor a cinco días, requiriéndole al sujeto obligado que entregue la información solicitada, siempre y cuando ésta no sea reservada o confidencial, en un plazo no mayor a diez días cubriendo los costos de reproducción del material que en su caso se pudieran generar.
 
 (REPUBLICADA, P.O. 2 DE MAYO DE 2016)
+
+#### SECCIÓN CUARTA. LA RESOLUCIÓN DEL RECURSO DE REVISIÓN
+
+(REPUBLICADO, P.O. 2 DE MAYO DE 2016)
 
 ###### Artículo 143.
 
@@ -2730,3 +2826,21 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
 
 CUARTO. Las solicitudes de información que se encuentren en trámite, seguirán su curso hasta antes de la entrada en vigor del presente Decreto.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 727.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 728.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente Decreto, aun cuando no estén expresamente derogadas.
