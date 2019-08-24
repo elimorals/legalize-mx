@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ordenamiento-territorial-y-desarrollo-urbano-para-el-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-17"
-last_updated: "2017-10-31"
+last_updated: "2019-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 17 de octubre de 2016.
 
@@ -465,7 +465,9 @@ XIV. Otorgar o negar las autorizaciones y licencias de construcción, condominio
 
 XV. Intervenir en la atención, prevención y solución de los asentamientos humanos irregulares de conformidad con los programas de desarrollo urbano y de zonas metropolitanas y conurbaciones, en el marco de los derechos humanos, en los términos de la presente Ley y demás ordenamientos aplicables;
 
-XVI. Participar en la creación, manejo y administración de sus reservas territoriales para el Desarrollo urbano y la vivienda, y de sus zonas de reserva ecológica, de conformidad con lo previsto por la presente Ley, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley del Equilibrio Ecológico del Estado de Oaxaca, la Ley de Vivienda para el Estado de Oaxaca, los reglamentos y Programas de ordenamiento territorial y de desarrollo urbano vigentes;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+XVI. Participar en la creación, manejo y administración de sus reservas territoriales para el Desarrollo urbano y la vivienda, y de sus zonas de reserva ecológica, de conformidad con lo previsto por la presente Ley, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca, la Ley de Vivienda para el Estado de Oaxaca, los reglamentos y Programas de ordenamiento territorial y de desarrollo urbano vigentes;
 
 XVII. Promover ante la autoridad federal competente la expropiación de los bienes privados, ejidales o comunales; el uso y Destino de inmuebles de propiedad federal que fueren necesarios para la realización de acciones de Ordenamiento territorial y de Desarrollo urbano;
 
@@ -611,11 +613,11 @@ IV. Se tenderá a que los programas, proyectos, obras, acciones e inversiones se
 
 V. Se promoverá que los programas, acciones e inversiones que promuevan el desarrollo de proyectos a cargo de los sectores privado y social, se ubiquen en las zonas adecuadas del territorio estatal y con las prioridades que señale el Programa Estatal de Ordenamiento Territorial. Para el cumplimiento de este artículo, la Secretaría resolverá lo conducente, y en su caso, solicitará la opinión del Consejo Estatal sobre las consultas que le sean presentadas.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 15.
 
-En el caso del ordenamiento ecológico a que se refiere la Ley del Equilibrio Ecológico del Estado de Oaxaca, la Secretaría del Medio Ambiente, podrá coordinarse con la Secretaría a efecto de integrar en los Programas de ordenamiento territorial y desarrollo urbano los criterios generales de regulación ecológica de los asentamientos humanos y lo previsto en las normas oficiales mexicanas en materia ecológica.
+En el caso del ordenamiento ecológico a que se refiere la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca, la Secretaría del Medio Ambiente, podrá coordinarse con la Secretaría a efecto de integrar en los Programas de ordenamiento territorial y desarrollo urbano los criterios generales de regulación ecológica de los asentamientos humanos y lo previsto en las normas oficiales mexicanas en materia ecológica.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -1577,9 +1579,11 @@ La posesión, el derecho de propiedad o cualquier otro derecho derivado de la te
 
 Los notarios públicos y demás fedatarios sólo podrán autorizar escrituras de actos, convenios y contratos a que se refiere el artículo anterior, previa comprobación de la existencia de las constancias, autorizaciones, permisos o licencias que las autoridades competentes expidan en relación a la utilización o disposición de áreas o predios, de conformidad con lo previsto en la Ley General de Asentamientos Humanos, esta Ley y sus disposiciones reglamentarias, así como los programas de ordenamiento territorial y de desarrollo urbano, mismas que deberán ser señaladas o insertadas en los instrumentos públicos respectivos.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 74.
 
-El ejercicio de los derechos de propiedad a que se refiere la Ley Agraria, en lo relacionado con el aprovechamiento urbano y el equilibrio ecológico, se ajustará, de conformidad con la misma, a lo dispuesto por la Ley General de Asentamientos Humanos, la Ley del Equilibrio Ecológico del Estado, la presente Ley y las demás disposiciones aplicables.
+El ejercicio de los derechos de propiedad a que se refiere la Ley Agraria, en lo relacionado con el aprovechamiento urbano y el equilibrio ecológico, se ajustará, de conformidad con la misma, a lo dispuesto por la Ley General de Asentamientos Humanos, la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca, la presente Ley y las demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -1619,11 +1623,11 @@ Para constituir, ampliar y delimitar la zona de urbanización ejidal o comunal y
 
 El Estado promoverá la coordinación necesaria con el Gobierno Federal para asegurar el ejercicio de las atribuciones locales de regulación y control urbano en la constitución de las zonas de urbanización ejidal, así como en los procesos de privatización y extinción del régimen ejidal o comunal que contempla la Ley Agraria.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 82.
 
-Queda prohibida la urbanización de tierras cualquiera que sea su régimen jurídico, que se ubiquen en áreas naturales protegidas, incluyendo las zonas de preservación ecológica establecidas en los programas de ordenamiento territorial y de desarrollo urbano y aquellas previstas en la Ley del Equilibrio Ecológico del Estado. Exceptuándose cuando se requiera la reubicación de los asentamientos humanos existentes, en zonas de riesgo y/o vulnerabilidad, o por fenómenos naturales, previa declaratoria.
+Queda prohibida la urbanización de tierras cualquiera que sea su régimen jurídico, que se ubiquen en áreas naturales protegidas, incluyendo las zonas de preservación ecológica establecidas en los programas de ordenamiento territorial y de desarrollo urbano y aquellas previstas en la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca. Exceptuándose cuando se requiera la reubicación de los asentamientos humanos existentes, en zonas de riesgo y/o vulnerabilidad, o por fenómenos naturales, previa declaratoria.
 
 Las violaciones a la prohibición que establece este artículo serán sancionadas según su gravedad de manera penal o administrativa, conforme a la ley aplicable en la materia y a lo previsto por la presente Ley.
 
@@ -1927,7 +1931,9 @@ IV. Las densidad de población y de construcción; y
 
 V. Los demás de conformidad con lo que establece la presente Ley y sus reglamentos.
 
-En la determinación de los usos del suelo, se especificarán las zonas en las que no sea permitido el establecimiento de industrias, comercios o servicios clasificados como riesgosos, de conformidad con lo establecido por la Ley del Equilibrio Ecológico del Estado y demás disposiciones relativas en la materia.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+En la determinación de los usos del suelo, se especificarán las zonas en las que no sea permitido el establecimiento de industrias, comercios o servicios clasificados como riesgosos, de conformidad con lo establecido por la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca y demás disposiciones relativas en la materia.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -2827,13 +2833,17 @@ Las autoridades municipales otorgarán o negarán, según el caso, las licencias
 
 En el caso de que los municipios no cuenten con el programa correspondiente, las autorizaciones a que alude el párrafo anterior, serán otorgadas o negadas por el municipio respectivo; la Secretaría emitirá su opinión cuando estos así lo soliciten.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 185.
 
-Para el otorgamiento de licencia de uso de suelo y de licencia de construcción u operación, las autoridades municipales respectivas, exigirán la presentación de la resolución de impacto ambiental, en las obras o actividades a que se refiere la Ley del Equilibrio Ecológico del Estado de Oaxaca.
+Para el otorgamiento de licencia de uso de suelo y de licencia de construcción u operación, las autoridades municipales respectivas, exigirán la presentación de la resolución de impacto ambiental, en las obras o actividades a que se refiere la Ley del Equilibrio Ecológico y Protección al Ambiente para el Estado de Oaxaca.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 Además, deberán solicitar un estudio de prevención de riesgo que identifique que se realizaron las medidas de mitigación adecuadas, en los términos de las disposiciones de esta Ley, la Ley General de Protección Civil y las normas oficiales mexicanas que se expidan.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 En ningún caso podrán asignarse usos o aprovechamientos urbanos o asentamientos humanos en zonas de alto riesgo que no hubieran tomado medidas de mitigación previas. En tales zonas está estrictamente prohibido realizar cualquier obra o edificación de carácter permanente.
 
@@ -3312,3 +3322,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Ejecutivo Estatal deberá expedir el reglamento de la presente Ley a más tardar antes de concluir el siguiente período legislativo de la Sexagésima Tercera Legislatura del Estado Libre y Soberano de Oaxaca.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 732.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA".]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
