@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-obras-publicas-y-servicios-relacionados-del-estado-24656
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-11"
-last_updated: "2018-11-10"
+last_updated: "2019-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de septiembre del 2001.
 
@@ -77,19 +77,21 @@ I.- Dependencias: Las que conforman el sector central de la administración púb
 
 II.- Entidades: Las definidas paraestatales en la Ley de Entidades Paraestatales del Estado de Oaxaca;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-III.- Secretaría: La Secretaría de Obras Públicas;
+III.- Secretaría: La Secretaría de las Infraestructuras y del Ordenamiento Territorial Sustentable;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-IV.- Contraloría: La Secretaría de la Contraloría del Poder Ejecutivo del Estado;
+IV.- Contraloría: La Secretaría de la Contraloría y Transparencia Gubernamental;
 
 V.- COPLADE: Comité Estatal de Planeación para el Desarrollo de Oaxaca;
 
 VI.- Organo de Control Interno: Contralores internos en los gobiernos municipales;
 
-VII.- Contaduría Mayor: Contaduría Mayor de Hacienda de la Cámara de Diputados;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+VII.- OSFE: Órgano Superior de Fiscalización del Estado de Oaxaca;
 
 VIII.- Ayuntamientos: De los Municipios del Estado de Oaxaca;
 
@@ -153,6 +155,10 @@ II.- El catálogo y archivo de los estudios y proyectos relacionados con la obra
 
 III.- La relación de la plantilla del personal técnico y administrativo relacionado con la obra pública.
 
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2019)</small>
+
+IV.- Los precios de mercado de insumos, mismos que servirán de base para el caso de que se ejecute o contrate obra pública;
+
 Así mismo, mantendrán asegurados la maquinaría y el equipo de construcción a su cargo, previo estudio de factibilidad económica.
 
 ###### Artículo 9.
@@ -213,13 +219,11 @@ Las atribuciones conferidas a la Contraloría en esta Ley, serán ejercidas por 
 
 Las controversias que se susciten con motivo de la interpretación y aplicación de esta Ley o de los contratos celebrados, serán resueltas por el Honorable Tribunal Superior de Justicia del Estado, en los términos de la Ley Orgánica del Poder Judicial del Estado de Oaxaca. Para la resolución de las controversias se aplicará el procedimiento sumario contemplado en el Código de Procedimientos Civiles del Estado, en lo que no se oponga a la naturaleza de las disposiciones de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 16.
 
-Se crea la Comisión Estatal Consultiva de la Obra Pública, como órgano normativo, de asesoría, consulta técnica para la realización de la obra pública; integrándose bajo la siguiente estructura: Un Presidente, que será el Titular del Poder Ejecutivo; un Secretario Técnico del Gobierno, que será el Secretario de Obras Públicas; contará además con representantes permanentes del COPLADE, de las Secretarías de Administración, de Finanzas, y de la Contraloría, Instituto Estatal de Ecología, y de las Cámaras y Colegios respectivos. La Comisión convocará a sus sesiones a representantes de otras Dependencias y Entidades, del sector social y privado organizados en asociaciones que tengan personalidad legal, cuando por la naturaleza de los asuntos que se deban tratar se justifique su participación. Para la validez y eficacia de las sesiones deberá encontrarse presente el titular de la Secretaría de la Contraloría.
-
-El titular del Ejecutivo emitirá las bases para la organización, funcionamiento y atribuciones de la Comisión, debiendo publicarse en el Periódico Oficial para su validez y observancia.
+Se crea la Comisión Estatal Consultiva de la Obra Pública, como órgano normativo, de asesoría, consulta técnica para la realización de la obra pública; integrándose bajo la siguiente estructura: Un Presidente, que será el Titular del Poder Ejecutivo; un Secretario Técnico del Gobierno, que será el Secretario de las Infraestructuras y del Ordenamiento Territorial Sustentable; contará además con representantes permanentes del COPLADE, de las Secretarías de Administración, Finanzas y de la Contraloría, Instituto Estatal de Ecología, y de las Cámaras y Colegios respectivos. La Comisión convocará a sus sesiones a representantes de otras Dependencias y Entidades, del sector social y privado organizados en asociaciones que tengan personalidad legal, cuando por la naturaleza de los asuntos que se deban tratar se justifique su participación. Para la validez y eficacia de las sesiones deberá encontrarse presente el titular de la Secretaría de la Contraloría.
 
 ## TITULO SEGUNDO. DE LAS (SIC) PLANEACION, PROGRAMACION Y PRESUPUESTACION DE LA OBRA
 
@@ -807,7 +811,9 @@ Para los efectos de la aplicación de los artículos 43 y 45 de esta Ley, la Dep
 
 La suma de los montos de la obra pública contratada mediante el procedimiento de adjudicación directa y de invitación restringida a cuando menos tres contratistas, no deberá exceder del treinta por ciento de los recursos asignados para el ejercicio de la Dependencia, Entidad o Ayuntamiento de que se trate; adicionalmente se preferirá la modalidad de licitación pública sobre cualquier techo financiero, aun cuando el monto de la obra pública no exceda del consignado como máximo en el Presupuesto de Egresos del Estado.
 
-En casos excepcionales, el Titular de la Dependencia o Entidad, o en su caso el Presidente Municipal del Ayuntamiento de que se trate, bajo su responsabilidad y mediante acuerdo debidamente fundado y motivado podrá fijar un rango de aplicación superior al indicado en el Presupuesto de Egresos, debiéndolo hacer del conocimiento de la Contraloría para el caso de las Dependencias o Entidades y de sus órganos internos de control, y de la Contaduría Mayor del Congreso, para el caso de los Ayuntamientos.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+En casos excepcionales, el Titular de la Dependencia o Entidad, o en su caso el Presidente Municipal del Ayuntamiento de que se trate, bajo su responsabilidad y mediante acuerdo debidamente fundado y motivado podrá fijar un rango de aplicación superior al indicado en el Presupuesto de Egresos, debiéndolo hacer del conocimiento de la Contraloría para el caso de las Dependencias o Entidades y de sus órganos internos de control, y del OSFE, para el caso de los Ayuntamientos.
 
 ## TITULO CUARTO. DE LA FORMALIZACION DEL CONTRATO
 
@@ -889,9 +895,11 @@ Excepcionalmente podrán exceder el porcentaje indicado, siempre y cuando las ne
 
 De las modificaciones a los contratos de obra pública mediante convenios, se dará conocimiento a la Contraloría, dentro de los diez días hábiles siguientes a su celebración.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 53.
 
-La entrega de anticipos para la iniciación de los trabajos se hará de acuerdo a lo pactado en el contrato de obra pública, pero su importe máximo no rebasará el 30% de la asignación aprobada para el contrato en el primer ejercicio fiscal de que se trate, y del 20% en los ejercicios subsecuentes del propio contrato, en caso de que se trate de una obra que se ejecute en más de un ejercicio presupuestal. Cuando por las características especiales y condiciones particulares de la realización de la obra sea necesario otorgar un anticipo mayor, deberán asentarse por escrito dichas características y condiciones, remitiendo el documento según el caso a la Contraloría o Contaduría Mayor, dentro de los cinco días hábiles siguientes al de la entrega del anticipo. La cantidad que reciba el contratista por ese concepto deberá aplicarse exclusivamente para la ejecución de los trabajos y nunca excederá del 50%, en el cual deberá estipularse su destino específico.
+La entrega de anticipos para la iniciación de los trabajos se hará de acuerdo a lo pactado en el contrato de obra pública, pero su importe máximo no rebasará el 30% de la asignación aprobada para el contrato en el primer ejercicio fiscal de que se trate, y del 20% en los ejercicios subsecuentes del propio contrato, en caso de que se trate de una obra que se ejecute en más de un ejercicio presupuestal. Cuando por las características especiales y condiciones particulares de la realización de la obra sea necesario otorgar un anticipo mayor, deberán asentarse por escrito dichas características y condiciones, remitiendo el documento según el caso a la Contraloría o el OSFE, dentro de los cinco días hábiles siguientes al de la entrega del anticipo. La cantidad que reciba el contratista por ese concepto deberá aplicarse exclusivamente para la ejecución de los trabajos y nunca excederá del 50%, en el cual deberá estipularse su destino específico.
 
 ### CAPITULO II. EJECUCION, AJUSTE DE COSTOS, PRECIOS UNITARIOS Y SU PROCEDIMIENTO
 
@@ -927,7 +935,7 @@ I.- El contratista deberá entregar a la residencia de supervisión previamente 
 
 II.- Para el caso de que derivado de la revisión hecha por la residencia de supervisión resultaren diferencias numéricas o técnicas, las partes tendrán tres días hábiles contados a partir del vencimiento del plazo señalado para la revisión y conciliación de dichas diferencias a efecto de proceder a la autorización de la estimación correspondiente, en caso contrario que no se llegue a la conciliación de algún trabajo, quedará pendiente y se seguirá conciliando a efecto de llegar al acuerdo y cobrarlo en la siguiente estimación;
 
-III.- Una vez cumplidos los requisitos señalados en las fracciones que anteceden, presentada la documentación requerida por la Dependencia, Entidad o Ayuntamiento para el cobro de las estimaciones, éstas serán pagadas dentro de los veinte días hábiles siguientes a su recepción; y (sic)
+III.- Una vez cumplidos los requisitos señalados en las fracciones que anteceden, presentada la documentación requerida por la Dependencia, Entidad o Ayuntamiento para el cobro de las estimaciones, éstas serán pagadas dentro de los veinte días hábiles siguientes a su recepción; y
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -965,9 +973,9 @@ II.- En caso de rescisión del contrato por causas imputables al contratista, la
 
 III.- Cuando por caso fortuito o fuerza mayor se imposibilite la continuación de los trabajos, el contratista podrá suspender la obra. En este supuesto, si opta por la terminación anticipada del contrato, deberá presentar su solicitud a la Dependencia, Entidad o Ayuntamiento, quien resolverá dentro de los veinte días naturales siguientes a la recepción de la misma; en caso de negativa será necesario que el contratista obtenga de la autoridad judicial la declaratoria correspondiente.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
-En los casos de las fracciones anteriores los titulares de las Dependencias y Entidades o el Presidente Municipal, en el caso de los Ayuntamientos, mediante acuerdo debidamente fundado y motivado resolverán lo procedente; dicho acuerdo deberá ser notificado al contratista, informando del mismo a la Secretaría y a la Contraloría en el caso de las Dependencias y Entidades; los Ayuntamientos lo harán del conocimiento del Órgano de Control Interno y de la Contaduría Mayor.
+En los casos de las fracciones anteriores los titulares de las Dependencias y Entidades o el Presidente Municipal, en el caso de los Ayuntamientos, mediante acuerdo debidamente fundado y motivado resolverán lo procedente; dicho acuerdo deberá ser notificado al contratista, informando del mismo a la Secretaría y a la Contraloría en el caso de las Dependencias y Entidades; los Ayuntamientos lo harán del conocimiento del Órgano de Control Interno y del OSFE.
 
 ## TITULO QUINTO. DE LA EJECUCION DE LA OBRA
 
@@ -993,9 +1001,9 @@ Cuando la supervisión sea realizada por contrato, la aprobación de las estimac
 
 Las Dependencias, Entidades o los Ayuntamientos, bajo su responsabilidad podrán ejecutar obra pública por administración directa, siempre que posean capacidad técnica, administrativa, operativa y elementos necesarios para ello, consistentes en maquinaria, equipo de construcción y personal técnico que se requiera para el desarrollo de los trabajos respectivos.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
-Previo a la ejecución de la obra el titular de la ejecutora, emitirá el acuerdo respectivo haciéndolo del conocimiento de la Contraloría, la Secretaría, o Contaduría Mayor según corresponda, así mismo, les comunicará periódicamente sobre el inicio, avance físico, gastos efectuados y terminación de la obra.
+Previo a la ejecución de la obra el titular de la ejecutora, emitirá el acuerdo respectivo haciéndolo del conocimiento de la Contraloría, la Secretaría, o al OSFE, según corresponda, así mismo, les comunicará periódicamente sobre el inicio, avance físico, gastos efectuados y terminación de la obra.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
@@ -1075,11 +1083,11 @@ No quedan comprendidos dentro de los servicios a que se refiere el artículo 68 
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 71.
 
-Las Dependencias, Entidades o los Ayuntamientos contratantes, deberán remitir por escrito a la Secretaría, a la Contraloría y a la Contaduría Mayor según corresponda, la información relativa a las obras y servicios relacionados con las mismas que se realicen o contraten.
+Las Dependencias, Entidades o los Ayuntamientos contratantes, deberán remitir por escrito a la Secretaría, a la Contraloría y al OSFE según corresponda, la información relativa a las obras y servicios relacionados con las mismas que se realicen o contraten.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
 
@@ -1199,27 +1207,33 @@ Los contratistas que se encuentren en los supuestos de las fracciones VI, VII, V
 
 ### CAPÍTULO I. DE LA INCONFORMIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 87.
 
-Las personas interesadas podrán inconformarse por escrito ante la Contraloría o ante la Contaduría Mayor, por los actos que contravengan las disposiciones contenidas en esta Ley, dentro de los diez días hábiles siguientes a aquel en que estos ocurran o se notifiquen al inconforme del acto impugnado.
+Las personas interesadas podrán inconformarse por escrito ante la Contraloría o ante el OSFE, por los actos que contravengan las disposiciones contenidas en esta Ley, dentro de los diez días hábiles siguientes a aquel en que estos ocurran o se notifiquen al inconforme del acto impugnado.
 
 Lo anterior sin perjuicio de que las personas interesadas previamente manifiesten a las Delegaciones de la Contraloría o a los Órganos de Control Interno según corresponda, las irregularidades que a su juicio se hayan cometido en el procedimiento de contratación, a fin de que dichas irregularidades se corrijan.
 
-Transcurrido el plazo establecido en éste artículo, precluye para los interesados el derecho a inconformarse, sin perjuicio de que la Contraloría o la Contaduría Mayor, puedan actuar en cualquier tiempo en los términos de esta Ley.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
+Transcurrido el plazo establecido en éste artículo, precluye para los interesados el derecho a inconformarse, sin perjuicio de que la Contraloría o el OSFE, puedan actuar en cualquier tiempo en los términos de esta Ley.
 
 La manifestación de hechos falsos se sancionará conforme a las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 88.
 
-La Contraloría o la Contaduría Mayor, realizarán las investigaciones que de la propia inconformidad se deriven, dentro de un plazo que no excederá de 45 días naturales, contados a partir de la fecha en que se inicien, bajo las prescripciones siguientes:
+La Contraloría o el OSFE, realizarán las investigaciones que de la propia inconformidad se deriven, dentro de un plazo que no excederá de 45 días naturales, contados a partir de la fecha en que se inicien, bajo las prescripciones siguientes:
 
-I.- Citará al inconforme para que ratifique su promoción; en caso de que no sea ratificada, se archivará el expediente respectivo. Lo anterior sin perjuicio de que la Contraloría o la Contaduría Mayor, puedan darle seguimiento de oficio al asunto correspondiente;
+I.- Citará al inconforme para que ratifique su promoción; en caso de que no sea ratificada, se archivará el expediente respectivo. Lo anterior sin perjuicio de que la Contraloría o el OSFE, puedan darle seguimiento de oficio al asunto correspondiente;
 
-II.- La Contraloría o Contaduría Mayor, al admitir la inconformidad notificarán a los terceros perjudicados, la iniciación del procedimiento, para que dentro del término de cinco días naturales manifiesten lo que a su derecho convenga. Transcurrido el plazo anterior, se les tendrá por perdido su derecho; y,
+II- La Contraloría o el OSFE, al admitir la inconformidad notificarán a los terceros perjudicados, la iniciación del procedimiento, para que dentro del término de cinco días naturales manifiesten lo que a su derecho convenga. Transcurrido el plazo anterior, se les tendrá por perdido su derecho; y
 
-III.- La Contraloría y la Contaduría Mayor en el ámbito de su competencia, practicarán las diligencias que estimen necesarias, a fin de contar con los elementos suficientes para la mejor substanciación de la inconformidad que se investiga.
+III.- La Contraloría y el OSFE en el ámbito de su competencia, practicarán las diligencias que estimen necesarias, a fin de contar con los elementos suficientes para la mejor substanciación de la inconformidad que se investiga.
 
-La convocante de que se trate proporcionará a la Contraloría o a la Contaduría Mayor según corresponda, la información requerida para la investigación de los hechos, dentro de los doce días naturales siguientes, contados a partir de que se efectué el requerimiento.
+La convocante de que se trate proporcionará a la Contraloría o el OSFE, según corresponda, la información requerida para la investigación de los hechos, dentro de los doce días naturales siguientes, contados a partir de que se efectué el requerimiento.
 
 ###### Artículo 89.
 
@@ -1235,9 +1249,11 @@ Cuando el inconforme solicite la suspensión de los efectos del acto reclamado d
 
 Solo se otorgará la suspensión de los actos recurridos cuando la inconformidad haya sido admitida y no se cause perjuicio al interés público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 91.
 
-Concluidas las investigaciones correspondientes, la Contraloría y la Contaduría Mayor según corresponda, emitirán su resolución, la que sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos y contratistas que hayan intervenido, tendrá por consecuencia:
+Concluidas las investigaciones correspondientes, la Contraloría y el OSFE, según corresponda, emitirán su resolución, la que sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos y contratistas que hayan intervenido, tendrá por consecuencia:
 
 I.- Declarar la nulidad total o parcial del procedimiento, a partir del acto o actos irregulares, estableciendo las directrices necesarias para que el mismo se realice conforme a la ley; y
 
@@ -1249,11 +1265,11 @@ La resolución que ponga fin al procedimiento de inconformidad, se notificará p
 
 ### CAPITULO II. DEL RECURSO DE REVOCACION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 93.
 
-En contra de las resoluciones que dicte la Secretaría, la Contraloría y la Contaduría Mayor en los términos de esta Ley, el agraviado podrá interponer el recurso de revocación ante la que hubiese emitido dicha resolución, dentro del término de diez días naturales, contados a partir del día siguiente al de la notificación de la resolución, el que se tramitará conforme a las normas siguientes:
+En contra de las resoluciones que dicte la Secretaría, la Contraloría y el OSFE, en los términos de esta Ley, el agraviado podrá interponer el recurso de revocación ante la que hubiese emitido dicha resolución, dentro del término de diez días naturales, contados a partir del día siguiente al de la notificación de la resolución, el que se tramitará conforme a las normas siguientes:
 
 I.- Se interpondrá bajo protesta de decir verdad por el recurrente, mediante escrito en el que se expresarán los agravios que la resolución impugnada le cause, acreditará su personalidad, ofrecerá las pruebas que se proponga rendir y acompañará copia de la resolución impugnada o constancia de la notificación de esta última, excepto si la notificación se hizo por correo;
 
@@ -1263,9 +1279,9 @@ III.- Si dentro del trámite que haya dado origen a la resolución recurrida, el
 
 IV.- Se tendrán por no ofrecidas las pruebas documentales, si estas no se acompañan al escrito en que se interponga el recurso y en ningún caso serán recabadas por la autoridad, salvo que obren en el expediente en que se haya originado la resolución recurrida;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
 
-V.- La Secretaría, la Contraloría y la Contaduría Mayor según el caso, acordarán lo que proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiese ofrecido, que deberán ser pertinentes e idóneas para clarificar las cuestiones controvertidas; ordenándose el desahogo de las mismas, dentro del plazo de quince días hábiles, el que será improrrogable;
+V.- La Secretaría, la Contraloría y el OSFE, según el caso, acordarán lo que proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiese ofrecido, que deberán ser pertinentes e idóneas para clarificar las cuestiones controvertidas; ordenándose el desahogo de las mismas, dentro del plazo de quince días hábiles, el que será improrrogable;
 
 VI.- La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por el recurrente. De no presentarse el dictamen dentro del plazo de Ley, la prueba será declarada desierta; y,
 
@@ -1516,3 +1532,11 @@ P.O. 10 DE NOVIEMBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 726.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA".]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
