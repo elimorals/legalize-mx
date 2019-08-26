@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-rincon-de-romos-aguascalientes-101809"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-28"
-last_updated: "2019-01-28"
+last_updated: "2019-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE RINCÓN DE ROMOS, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 28 de julio de 2014.
 
@@ -6788,6 +6788,10 @@ X. De las 9:00 a las 01:00 horas del día siguiente: salones de fiestas y banque
 ###### ARTÍCULO 697.
 
 Todos los comerciantes, industriales y prestadores de servicios, deberán mantener aseados sus negociaciones, locales y lugares adyacentes donde efectúen sus actividades.
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2019)</small>
+
+Fracción I.- Se prohíbe a todos los comerciantes y prestadores de servicio en general se entregue al consumidor final, ya sea a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, bolsas de plástico, popotes, unicel, cucharas y tenedores de plástico y/o productos de un solo uso no biodegradables, se exceptúan de esta prohibición las bolsas de plástico que constituyan el envase o empaque primario de alimentos, que sea necesario por razones higiénicas o porque su uso ayude a conservar los mismos. El órgano rector será la Dirección de Ecología y Protección al Medio Ambiente de este Municipio misma que tendrá las facultades de aplicar dos apercibimientos y posteriormente la sanción económica de 10 a 20 VUMA.
 
 ###### ARTÍCULO 698.
 
@@ -17484,3 +17488,7 @@ Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opo
 ###### ARTÍCULO TERCERO.
 
 Para la Protesta de Ley, el H. Ayuntamiento Constitucional del Municipio de Rincón de Romos, Aguascalientes, deberá ajustarse al periodo constitucional correspondiente.
+
+P.O. 26 DE AGOSTO DE 2019.
+
+> <small>[N. DE E. LA ADICIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.]</small>
