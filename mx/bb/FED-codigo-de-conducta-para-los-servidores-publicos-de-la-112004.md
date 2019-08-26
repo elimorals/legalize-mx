@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-conducta-para-los-servidores-publicos-de-la-112004"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-01-26"
-last_updated: "2016-01-26"
+last_updated: "2019-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112004&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-12-22"
 ---
 # CODIGO DE CONDUCTA PARA LOS SERVIDORES PUBLICOS DE LA SECRETARIA DE EDUCACION PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO NÚMERO 16/08/19 POR EL QUE SE EXPIDE EL CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA, PUBLICADO EN EL D.O.F. DE 26 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA PARA LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE AGOSTO DE 2019 (ABROGADO).
 
 Código publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 26 de enero de 2016.
 
@@ -304,3 +306,15 @@ V
 Valores universales: Son el conjunto de normas de convivencia válidas en un tiempo y época determinada.
 
 El presente Código de Conducta de la Secretaría de Educación Pública fue aprobado por el Comité de Ética y Prevención de Conflictos de Interés, en la sesión celebrada el día 3 de diciembre de 2015.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NÚMERO 16/08/19 POR EL QUE SE EXPIDE EL CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Acuerdo número 26/12/15 por el que se expide el Código de Conducta para los Servidores Públicos de la Secretaría de Educación Pública, publicado en el Diario Oficial de la Federación el 26 de enero de 2016.
+
+TERCERO.- Las denuncias en proceso de atención por parte del Comité de Ética y de Prevención de Conflictos de Interés de la Secretaría de Educación Pública, presentadas con anterioridad a la entrada en vigor del presente Acuerdo, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
