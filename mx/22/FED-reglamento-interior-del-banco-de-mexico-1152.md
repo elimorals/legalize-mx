@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2019-06-14"
+last_updated: "2019-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE AGOSTO DE 2019.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -35,9 +35,9 @@ REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
 El ejercicio de las atribuciones que las leyes y las disposiciones reglamentarias confieran al Banco, así como el de las que su propia Ley otorga a la Junta de Gobierno, al Gobernador, o a la Comisión de Responsabilidades, se sujetará a lo dispuesto en este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 26 DE AGOSTO DE 2019)</small>
 
-El domicilio del Banco, para todos los efectos legales, incluyendo la práctica de cualquier clase de notificaciones, interpelaciones, citaciones, requerimientos, emplazamientos, actos de ejecución y solicitudes de información, por parte de autoridades aun de carácter judicial, es el de Avenida 5 de Mayo número 2, colonia Centro, código postal 06000, Delegación Cuauhtémoc, Ciudad de México. Sin perjuicio de lo anterior, el Banco a través de los funcionarios autorizados y apoderados, podrá designar lugares donde se encuentren oficinas del Banco para la realización de determinados actos y eventos.
+El domicilio del Banco, para todos los efectos legales, incluyendo la práctica de cualquier clase de notificaciones, interpelaciones, citaciones, requerimientos, emplazamientos, actos de ejecución y solicitudes de información, por parte de autoridades aun de carácter judicial, es el de Avenida 5 de Mayo número 2, colonia Centro, código postal 06000, Demarcación Territorial Cuauhtémoc, Ciudad de México. Sin perjuicio de lo anterior, el Banco a través de los funcionarios autorizados y apoderados, podrá designar lugares donde se encuentren oficinas del Banco para la realización de determinados actos y eventos.
 
 ###### ARTICULO 2o.
 
@@ -225,9 +225,9 @@ La creación y extinción de los comités deberá hacerse del conocimiento de la
 
 En el caso de que el Gobernador acuerde la creación de un comité, podrá invitar a sus sesiones a un miembro de la Junta de Gobierno, quien participará únicamente con voz.
 
-> <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 26 DE AGOSTO DE 2019)</small>
 
-El Banco contará con un Comité de Transparencia para los efectos de la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Archivos y demás disposiciones aplicables al Banco en esas materias. Dicho Comité tendrá las atribuciones que señala el artículo 31 del presente Reglamento y estará integrado por el titular de la Unidad de Transparencia, el Director de Seguridad y Organización de la Información y el Director Jurídico. Serán suplentes de los integrantes mencionados los funcionarios que designen los titulares de las Unidades Administrativas a las que estén adscritos los miembros propietarios, excepto por el suplente del titular de la Unidad de Transparencia, quien será designado por el Gobernador.
+El Banco contará con un Comité de Transparencia para los efectos de la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables al Banco en esa materia. Dicho Comité tendrá las atribuciones que señala el artículo 31 del presente Reglamento y estará integrado por las personas titulares de la Unidad de Transparencia, de la Dirección de Seguridad y Organización de la Información y de la Dirección Jurídica. Serán suplentes de los integrantes mencionados los funcionarios que designen las personas titulares de las Unidades Administrativas a las que estén adscritos los miembros propietarios, excepto por el suplente del titular de la Unidad de Transparencia, quien será designado por el Gobernador.
 
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2018)</small>
 
@@ -250,6 +250,22 @@ El Comité a que se refiere el párrafo anterior, deberá resolver por mayoría 
 > <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2018)</small>
 
 Las Coordinaciones del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo tendrán adscritas las unidades administrativas que señala el presente Reglamento y se auxiliarán, en el cumplimiento de sus funciones de los Subcoordinadores, Titulares de Unidad, Subgerentes y los demás empleados, previstos en la estructura correspondiente, conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
+
+> <small>(ADICIONADO, D.O.F. 26 DE AGOSTO DE 2019)</small>
+
+El Banco contará con un Grupo Interdisciplinario para los efectos de la Ley General de Archivos y demás disposiciones aplicables al Banco en esta materia, el cual estará integrado por las personas titulares de la Secretaría de la Junta de Gobierno, las Direcciones Generales, las Direcciones directamente adscritas al Gobernador o a la Junta de Gobierno, las Unidades de Auditoría y Transparencia, así como las Coordinaciones del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo. La Dirección General de Contraloría y Administración de Riesgos participará en los términos que correspondan al Órgano Interno de Control para los efectos de dicho Grupo. Los integrantes del Grupo Interdisciplinario podrán designar suplentes de conformidad con las Reglas de Operación que al efecto emita ese órgano colegiado.
+
+> <small>(ADICIONADO, D.O.F. 26 DE AGOSTO DE 2019)</small>
+
+El Grupo Interdisciplinario contará con una Secretaría, a cargo de la persona titular de la Dirección de Seguridad y Organización de la Información, y con una Prosecretaría, cuyo titular será designado de conformidad con lo establecido en las Reglas de Operación del propio Grupo.
+
+> <small>(ADICIONADO, D.O.F. 26 DE AGOSTO DE 2019)</small>
+
+El Grupo Interdisciplinario tendrá, además de las señaladas en el presente Reglamento, las atribuciones que señala la propia normatividad en materia de archivos, incluyendo la aprobación del Programa Anual de Desarrollo Archivístico que le presente la Dirección de Seguridad y Organización de la Información, en términos de la normatividad aplicable.
+
+> <small>(ADICIONADO, D.O.F. 26 DE AGOSTO DE 2019)</small>
+
+El Grupo Interdisciplinario deberá resolver por mayoría de votos y será presidido por la persona titular de la Dirección General de Tecnologías de la Información, quien tendrá voto de calidad. El Grupo deberá rendir a la Junta de Gobierno un informe anual sobre el ejercicio de sus funciones y la implementación del Programa Anual de Desarrollo Archivístico.
 
 > <small>(ADICIONADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
 
@@ -338,6 +354,10 @@ Para los mismos efectos de los párrafos anteriores, se entenderá por entidades
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
 
 Con independencia de lo dispuesto en los tres párrafos anteriores, para los efectos del presente Reglamento, se entenderá por Fondo Mexicano del Petróleo al fideicomiso público del Estado a que se refiere el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
+
+> <small>(ADICIONADO, D.O.F. 26 DE AGOSTO DE 2019)</small>
+
+Cada Unidad Administrativa contará con personal que lleve a cabo funciones de correspondencia y archivo de trámite, a fin de dar cumplimiento a las obligaciones que la normatividad en materia de archivos establece.
 
 > <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
 
@@ -719,9 +739,7 @@ I. Promover la generación segura, eficiente y eficaz de la información en las 
 
 II. Evaluar, coordinar y opinar sobre la contribución de las diferentes áreas del Banco a los sistemas de información.
 
-> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
-
-III. Elaborar y someter a autorización del Comité de Transparencia los procedimientos y métodos para administrar y mejorar el funcionamiento y operación de los archivos del Banco; los criterios específicos en materia de organización y conservación de archivos, datos personales y expedientes que contengan información y documentación clasificada como reservada y confidencial, así como los criterios específicos y mecanismos para la gestión, control y cumplimiento de los plazos aplicables para el bloqueo y supresión de datos personales, de conformidad con lo dispuesto por la legislación aplicable en dichas materias.
+III. (DEROGADA, D.O.F. 26 DE AGOSTO DE 2019)
 
 > <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
@@ -737,33 +755,33 @@ VI. Presentar al Comité de Tecnologías y Seguridad de la Información propuest
 
 VII. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2010)
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2019)</small>
 
-VIII. Administrar los archivos de concentración e históricos del Banco.
+VIII. Administrar los archivos de concentración e históricos del Banco, para lo cual contará con las atribuciones que la normatividad en materia de archivos les confiere.
 
 > <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
 
 IX. Proporcionar a los órganos colegiados, a sus miembros y a las unidades del Banco, los servicios de apoyo para la organización y administración de la información.
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2019)</small>
 
-X. Elaborar, en coordinación con los responsables de los archivos de trámite, de concentración y, en su caso, histórico, el cuadro general de clasificación archivística, el catálogo de disposición documental, el inventario general, así como los demás instrumentos descriptivos y de control archivístico.
+X. Elaborar, con la colaboración de los responsables de los archivos de trámite, los instrumentos de control archivístico a que se refiere la normatividad en materia de archivos.
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2019)</small>
 
-XI. Coordinar normativa y operativamente las acciones de los archivos de trámite, concentración y, en su caso, histórico.
+XI. Fungir como área coordinadora de archivos con las atribuciones que la normatividad en materia de archivos le confiere, así como encargarse de la preservación íntegra de los documentos de archivo, y de la organización, conservación y el buen funcionamiento del Sistema Institucional de Archivos.
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2019)</small>
 
-XII. Establecer y desarrollar un programa de capacitación y asesoría archivística para el Banco.
+XII. Ejecutar el Programa Anual de Desarrollo Archivístico, incluyendo la capacitación en gestión documental y administración de archivos.
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2019)</small>
 
-XIII. Elaborar y presentar al Comité de Transparencia el Plan Anual de Desarrollo Archivístico, en el que se contemplen las acciones a emprender a escala institucional para la modernización y mejoramiento continuo de los servicios documentales y archivísticos, de conformidad con la Ley Federal de Archivos y demás normatividad en la materia.
+XIII. Elaborar y presentar el Programa Anual de Desarrollo Archivístico a que se refiere la normatividad en materia de archivos, al Grupo Interdisciplinario a que se refiere el artículo 4o. del presente Reglamento.
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2019)</small>
 
-XIV. Coordinar los procedimientos de valoración y destino final de la documentación, con base en la normatividad aplicable.
+XIV. Coordinar los procedimientos de valoración y disposición documental, con base en la normatividad aplicable.
 
 > <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
@@ -1735,9 +1753,9 @@ VIII. Recabar y enviar al Instituto Nacional de Transparencia, Acceso a la Infor
 
 IX. Solicitar y autorizar la ampliación del plazo de reserva de la información en términos de la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública y demás normatividad aplicable.
 
-> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2019)</small>
 
-X. Establecer, a propuesta de la Dirección de Seguridad y Organización de la Información, los procedimientos y métodos para administrar y mejorar el funcionamiento y operación de los archivos del Banco; los criterios específicos en materia de organización y conservación de archivos, datos personales y expedientes que contengan información y documentación clasificada como reservada y confidencial, así como los criterios específicos y mecanismos para la gestión, control y cumplimiento de los plazos aplicables para el bloqueo y supresión de datos personales, de conformidad con lo dispuesto por la legislación federal en materia de archivos, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, y cualquier otra normatividad aplicable en dichas materias.
+X. Establecer los criterios específicos en materia de datos personales y expedientes que contengan información y documentación clasificada como reservada y confidencial, así como los criterios específicos y mecanismos para la gestión, control y cumplimiento de los plazos aplicables para el bloqueo y supresión de datos personales, de conformidad con lo dispuesto por la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, y cualquier otra normatividad aplicable en dicha materia.
 
 XI. Aprobar los formatos de solicitudes de acceso a la información y para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales que, en su caso, elabore la Unidad de Transparencia.
 
@@ -1757,7 +1775,9 @@ XVIII. Por conducto de la Unidad de Transparencia, dar vista al órgano de inves
 
 XIX. Aprobar el formato de clausulado que, en su caso, será incluido en los contratos o instrumentos jurídicos que se pretenda celebrar, con la finalidad de formalizar la transferencia de datos personales y la relación con terceros encargados de tratarlos.
 
-XX. Las demás que deriven de la Ley General de Transparencia y Acceso a la Información Pública, de la Ley Federal de Transparencia y Acceso a la Información Pública, de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y de la legislación federal relativa a archivos, así como de cualquier otra normatividad aplicable a las materias referidas.
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2019)</small>
+
+XX. Las demás que deriven de la Ley General de Transparencia y Acceso a la Información Pública, de la Ley Federal de Transparencia y Acceso a la Información Pública, de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, así como de cualquier otra normatividad aplicable a las materias referidas.
 
 Las unidades administrativas deberán dar cumplimiento a las disposiciones y resoluciones que emita el Comité de Transparencia, en el ámbito de su competencia.
 
@@ -2934,3 +2954,17 @@ SEGUNDO. Todas las referencias a las Unidades Administrativas que en virtud de l
 TERCERO. Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor de estas modificaciones y que, conforme a las mismas, correspondan ser atendidos por una Unidad Administrativa diversa a la que haya estado a cargo de ellos hasta dicha entrada en vigor, continuarán su trámite y serán resueltos por aquella o aquellas Unidades Administrativas a las que se les atribuya la competencia en este ordenamiento.
 
 CUARTO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+D.O.F. 26 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LAS “MODIFICACIONES AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO”.]
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Todas las referencias a las Unidades Administrativas que en virtud de la entrada en vigor de las presentes modificaciones hayan desaparecido, cambiado de denominación o de adscripción, y que se encuentren contenidas en cualquier otro acto jurídico, deberán entenderse hechas a las Unidades Administrativas que las sustituyan o cuenten con las atribuciones respectivas.
+
+TERCERO. Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor de estas modificaciones y que, conforme a las mismas, correspondan ser atendidos por una Unidad Administrativa diversa a la que haya estado a cargo de ellos hasta dicha entrada en vigor, continuarán su trámite y serán resueltos por aquella o aquellas Unidades Administrativas a las que se les atribuya la competencia en este ordenamiento.
+
+CUARTO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+Las presentes modificaciones al Reglamento Interior del Banco de México, fueron aprobadas por su Junta de Gobierno, con fundamento en lo dispuesto por el artículo 46, fracción XVI, de la Ley del Banco de México, en sesión del 21 de junio de 2019.
