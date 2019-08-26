@@ -4,7 +4,7 @@ identifier: "FED-condiciones-generales-de-trabajo-de-la-suprema-corte-de-116161"
 country: "mx"
 rank: "otro"
 publication_date: "2016-06-17"
-last_updated: "2016-06-17"
+last_updated: "2019-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116161&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-05-17"
 ---
 # CONDICIONES GENERALES DE TRABAJO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LAS CONDICIONES GENERALES DE TRABAJO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, AUTORIZADAS EL 26 DE AGOSTO DE 2019 Y PUBLICADAS EN EL S.J.F. Y G. DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CONDICIONES GENERALES DE TRABAJO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y SU GACETA: SEPTIEMBRE DE 2019 (DEROGADO POR LAS CONDICIONES GENERALES DE TRABAJO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN AUTORIZADAS EL 26 DE AGOSTO DE 2019).
 
 Condiciones publicadas en la Gaceta del Semanario Judicial de la Federación, Décima Época, Libro 31, Tomo V, Junio de 2016, de la página 3043 a la 3083.
 
@@ -814,3 +816,15 @@ EL OFICIAL MAYOR
 LIC. RODOLFO HÉCTOR LARA PONTE
 
 Nota: El Acuerdo General de Administración 1/2016, del seis de mayo de dos mil dieciséis, del presidente de la Suprema Corte de Justicia de la Nación, por el que se modifican, adicionan y derogan diversas disposiciones del reglamento orgánico en materia de administración de la Suprema Corte de Justicia de la Nación, de quince de mayo de dos mil quince, y se modifican y derogan otras del Acuerdo General de Administración Número 03/2015, de seis de mayo de dos mil quince; el Acuerdo General de Administración V/2008, del doce de junio de dos mil ocho, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se establecen los requisitos y los procedimientos para la creación de plazas, el otorgamiento de nombramientos y de licencias, así como para la comisión, la readscripción, la suspensión y la remoción de los servidores públicos de este Alto Tribunal, salvo los de sus Salas; y, las Condiciones Generales de Trabajo de la Suprema Corte de Justicia de la Nación citados, aparecen publicados en la Gaceta del Semanario Judicial de la Federación, Décima Época, Libro 30, Tomo IV, mayo de 2016, página 2961; Semanario Judicial de la Federación y su Gaceta, Novena Época, Tomo XXXII, agosto de 2010, página 2483; y, Semanario Judicial de la Federación y su Gaceta, Décima Época, Libro XVI, Tomo 3, enero de 2013, página 2305, respectivamente.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+S.J.F. Y G. 26 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LAS “CONDICIONES GENERALES DE TRABAJO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. Las presentes Condiciones Generales entrarán en vigor el día hábil siguiente al de su depósito ante la Comisión Substanciadora Única del Poder Judicial de la Federación.
+
+SEGUNDO. Se derogan las Condiciones Generales de Trabajo vigentes desde el diecisiete de junio de dos mil dieciséis.
+
+TERCERO. Una vez que estas Condiciones Generales se depositen ante la Comisión Substanciadora, publíquense en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, difúndanse en medios electrónicos de consulta pública.
