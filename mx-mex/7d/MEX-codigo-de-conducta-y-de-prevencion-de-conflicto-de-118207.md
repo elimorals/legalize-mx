@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-y-de-prevencion-de-conflicto-de-118207"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-12-20"
-last_updated: "2016-12-20"
+last_updated: "2019-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "MEX"
 
 CÓDIGO DE CONDUCTA Y DE PREVENCIÓN DE CONFLICTO DE INTERESES DEL INSTITUTO MEXIQUENSE DE SEGURIDAD Y JUSTICIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 27 DE AGOSTO DE 2019 (ABROGADO).
 
 Código publicado en la Sección Segunda del Periódico Oficial Gaceta del Gobierno del Estado de México, el martes 20 de diciembre de 2016.
 
@@ -593,3 +593,15 @@ Responsable del Área Jurídica; y
 Asesor
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 27 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD MEXIQUENSE DE SEGURIDAD”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga el Código de Conducta y de Prevención de Conflicto de Intereses del Instituto Mexiquense de Seguridad y Justicia, publicado en fecha 20 de diciembre del año 2016, en el Periódico Oficial “Gaceta del Gobierno”, así como las disposiciones legales de igual o menor jerarquía que contravengan lo estipulado en el presente Acuerdo.
