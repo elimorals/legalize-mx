@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-16-2011-del-pleno-del-consejo-de-la-81610"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-06-09"
-last_updated: "2011-06-09"
+last_updated: "2019-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81610&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-06-01"
 ---
 # ACUERDO GENERAL 16/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA LA INTEGRACION DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITOS ANTE LOS ORGANOS DEL PODER JUDICIAL DE LA FEDERACION]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITOS ANTE LOS ÓRGANOS DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 27 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL 16/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACION DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITOS ANTE LOS ORGANOS DEL PODER JUDICIAL DE LA FEDERACION
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE AGOSTO DE 2019. (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 9 de junio de 2011.
 
@@ -502,3 +504,25 @@ SEXTO.- En tanto inicia el funcionamiento del sistema de control de peritos, los
 SEPTIMO.- La Lista de personas que pueden fungir como peritos, publicada en el Diario Oficial de la Federación el veintinueve de noviembre de dos mil diez, tendrá vigencia hasta el treinta y uno de diciembre de dos mil once.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 16/2011, del Pleno del Consejo de la Judicatura Federal, que regula la integración de la lista de personas que pueden fungir como peritos ante los órganos del Poder Judicial de la Federación, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de dieciocho de mayo de dos mil once, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a uno de junio de dos mil once.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITOS ANTE LOS ÓRGANOS DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Se abroga el Acuerdo General 16/2011 del Pleno del Consejo de la Judicatura Federal, que regula la integración de la lista de personas que pueden fungir como peritos ante los órganos del Poder Judicial de la Federación.
+
+CUARTO. Se abroga el Acuerdo General 55/2014 del Pleno del Consejo de la Judicatura Federal, que regula la integración de la lista de personas que pueden fungir como peritos ante el Instituto Federal de Defensoría Pública.
+
+QUINTO. Los procedimientos que se encuentren en trámite antes de la entrada en vigor del presente Acuerdo, concluirán conforme a las disposiciones con las que fueron iniciados.
+
+SEXTO. El pago de honorarios a que se refiere este Acuerdo entrará en vigor una vez aprobado el Arancel por la Comisión de Administración.
+
+SÉPTIMO. Las unidades administrativas competentes, llevarán a cabo las acciones necesarias para implementar el uso del Sistema Integral de Seguimiento de Expedientes, en los procedimientos materia del presente Acuerdo.
+
+OCTAVO. La Dirección General de Asuntos Jurídicos deberá realizar dentro de los 30 días siguientes a la entrada en vigor del presente Acuerdo, las adecuaciones necesarias para armonizar la normativa del Consejo.
