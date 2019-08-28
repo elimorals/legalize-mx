@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2019-07-10"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -195,7 +195,7 @@ Cuando se trate de delitos cuya persecución pueda cesar mediante perdón del of
 
 Es posible que un inculpado que se considere inocente del delito que se le atribuye, prefiera que su inocencia quede acreditada formalmente en una sentencia, y opte por rechazar el perdón que se le ofrece. En tal virtud es razonable que el beneficiario potencial del perdón asuma la decisión que juzgue conveniente (artículo 94). Esta solución sirve mejor a la justicia que la simple imposición del sobreseimiento como efecto del perdón.
 
-En materia de indulto, se consideran diversas posibilidades. Desde luego, subsiste el indulto por delitos políticos, que son los así calificados por el propio Código Penal. Asímismo, se permite al Ejecutivo conceder el indulto en el supuesto de delitos comunes, con la salvedad de algunos supuestos muy graves, cuando el reo hubiese prestado importantes servicios a la Nación o al Estado, o bien, cuando hubiese delinquido por motivos políticos o sociales y existan datos que revelen efectiva readaptación social (artículo 95). En opinión de algunos y al amparo de diversas leyes de amnistía, estos móviles determinan el carácter político o social de los delitos. Es útil precisar que la readaptación social no debe entenderse como "conversión" del reo o supresión o abandono de las ideas que profesa.
+En materia de indulto, se consideran diversas posibilidades. Desde luego, subsiste el indulto por delitos políticos, que son los así calificados por el propio Código Penal. Asimismo, se permite al Ejecutivo conceder el indulto en el supuesto de delitos comunes, con la salvedad de algunos supuestos muy graves, cuando el reo hubiese prestado importantes servicios a la Nación o al Estado, o bien, cuando hubiese delinquido por motivos políticos o sociales y existan datos que revelen efectiva readaptación social (artículo 95). En opinión de algunos y al amparo de diversas leyes de amnistía, estos móviles determinan el carácter político o social de los delitos. Es útil precisar que la readaptación social no debe entenderse como "conversión" del reo o supresión o abandono de las ideas que profesa.
 
 El tratamiento de un inimputable sujeto que, en rigor, no incurre en delito, dado que la inimputabilidad constituye una causa de exclusión de éste, sólo tiene sentido en la medida en que subsista la incapacidad de entender o de querer que determinó la imposición de la medida. Si el sujeto vuelve a ser capaz, la medida carece de materia. Esto explica la solución adoptada en este Código. (artículo 96).
 
@@ -1565,7 +1565,9 @@ II. De tres a ocho años de prisión y de cuarenta a cuatrocientos días-multa, 
 
 III. De seis a ocho años de prisión si mediare violencia física o moral.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE ABRIL DE 2019)</small>
+> <small>[N. DE E. DEL ANÁLISIS SE DESPRENDE QUE LA PUBLICACIÓN DEL CONTENIDO DEL PRESENTE PÁRRAFO SE REALIZÓ EN EL P.O. DE 10 DE ABRIL DE 2019.]</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 Los médicos que realicen injustificadamente el aborto serán sancionados de acuerdo a la fracción II de este artículo, y si a ello se dedicaren, se les aplicará la prevista en la fracción III de esta disposición; en ambos casos serán inhabilitados para ejercer la profesión hasta por las dos terceras partes de la pena impuesta; en caso de la fracción III se le condenará a la cancelación de su cédula profesional. Quienes no siendo médicos, realicen o practiquen el aborto, serán sancionados conforme a la fracción III del presente artículo.
 
@@ -1699,9 +1701,9 @@ b) El inculpado es superior por las armas que emplea, por su mayor destreza en e
 
 c) El activo se vale de algún medio que debilita la defensa del ofendido;
 
-> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-d) El activo sea un hombre superior en fuerza física y el pasivo una mujer o persona menor de dieciocho años, o
+d) El activo sea un hombre superior en fuerza física y el pasivo una mujer, persona mayor de 60 o menor de dieciocho años, o
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2017)</small>
 
@@ -2797,7 +2799,7 @@ No serán consideradas discriminatorias todas aquellas medidas tendientes a la p
 
 Este delito se perseguirá por querella.
 
-> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO III DEL TÍTULO DÉCIMO SEGUNDO, P.O. 10 DE ABRIL DE 2019)</small>
+(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO III DEL TÍTULO DÉCIMO SEGUNDO, P.O. 10 DE ABRIL DE 2019) (REPUBLICADO, P.O. 28 DE AGOSTO DE 2019)
 
 ###### ARTICULO 208.
 
@@ -5093,10 +5095,32 @@ TERCERA. Se derogan todas las disposiciones legales que se opongan a lo establec
 
 P.O. 10 DE JULIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO DOSCIENTOS CATORCE.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 106, 107, 108, 146, 176 Y 176 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO DOSCIENTOS CATORCE.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 106, 107, 108, 146, 176 Y 176 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
 
 PRIMERA. Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan a lo previsto en el presente Decreto.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CUATROCIENTOS SESENTA Y SEIS POR EL QUE SE REFORMA EL INCISO D) DE LA FRACCIÓN II DEL ARTÍCULO 126 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a) del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico OficiaI "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por la presente reforma constitucional local.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CUATROCIENTOS SETENTA.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES ESTATALES; Y SE DEROGAN Y REFORMAN DIVERSOS ARTÍCULOS DISPOSITIVOS DEL "DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Las reformas realizadas por virtud del DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, publicado en el Periódico Oficial "Tierra y Libertad", número 5695 alcance, el 10 de abril de 2019, que no han sido objeto de derogación por virtud del presente instrumento; continuarán surtiendo sus efectos a partir de la vigencia del citado Decreto.
+
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
