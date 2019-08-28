@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-sistema-estatal-de-seguridad-publica-de-michoacan-10395
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-11"
-last_updated: "2018-08-14"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de diciembre de 2014.
 
@@ -105,7 +105,9 @@ XVII. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
 
 XVIII. Instituciones de Procuración de Justicia: Las Instituciones del Estado que integran al Ministerio Público, los servicios periciales y demás auxiliares de aquél;
 
-XIX. Instituciones de Seguridad Pública: La Procuraduría, la Secretaría, los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general, todas las dependencias encargadas de la Seguridad Pública del Estado y sus municipios, que realicen funciones similares;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XIX. Instituciones de Seguridad Pública: La Fiscalía General del Estado, la Secretaría, los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general, todas las dependencias encargadas de la Seguridad Pública del Estado y sus municipios, que realicen funciones similares;
 
 XX. Institutos: Los órganos de las instituciones de Seguridad Pública del Estado encargados de la formación de aspirantes y servidores públicos de las funciones ministerial, pericial y de la policía;
 
@@ -117,7 +119,9 @@ XXIII. Presidente: El Presidente del Consejo;
 
 XXIV. Prestadores de servicio: Las personas físicas o jurídicas, que habiendo obtenido autorización, presten el servicio de seguridad privada;
 
-XXV. Procuraduría: La Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XXV. Fiscalía: La Fiscalía General del Estado;
 
 XXVI. Programa Rector: El conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las instituciones de Seguridad Pública e instituciones de procuración de justicia, respectivamente;
 
@@ -209,7 +213,9 @@ Son autoridades estatales en materia de Seguridad Pública:
 
 I. El Titular del Poder Ejecutivo;
 
-II. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+II. El Fiscal General del Estado;
 
 III. El Secretario de Seguridad Pública;
 
@@ -217,9 +223,11 @@ IV. Presidentes municipales; y,
 
 V. Titulares de las instancias de seguridad pública municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 15.
 
-El Procurador General de Justicia del Estado tendrá las atribuciones siguientes:
+El Fiscal General del Estado tendrá las atribuciones siguientes:
 
 I. Formar parte del Consejo;
 
@@ -239,9 +247,13 @@ VIII. Coadyuvar en los operativos de seguridad implementados por otras instituci
 
 IX. Implementar los mecanismos para el establecimiento del informe policial homologado, que se señala en la Ley;
 
-X. Implementar las políticas y los programas rectores para la capacitación y profesionalización del personal de la Procuraduría;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
-XI. Atender quejas y denuncias de la ciudadanía en contra del personal de la Procuraduría por presuntas infracciones a la Ley, a través de las unidades administrativas competentes; y,
+X. Implementar las políticas y los programas rectores para la capacitación y profesionalización del personal de la Fiscalía General del Estado;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XI. Atender quejas y denuncias de la ciudadanía en contra del personal de la Fiscalía General del Estado por presuntas infracciones a la Ley, a través de las unidades administrativas competentes; y,
 
 XII. Las demás que se señalen en otras disposiciones normativas aplicables.
 
@@ -305,7 +317,9 @@ I. El Titular del Poder Ejecutivo, quien lo preside;
 
 II. El Secretario de Seguridad Pública;
 
-III. El Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+III. El Fiscal General del Estado;
 
 IV. El Secretario de Gobierno;
 
@@ -461,7 +475,9 @@ V. Proponer al Consejo las políticas, lineamientos, manuales, protocolos, accio
 
 VI. Promover, por conducto de las instituciones de Seguridad Pública, la realización de acciones conjuntas, conforme a las bases y reglas que emita el Consejo y sin menoscabo de otras que realicen las autoridades competentes;
 
-VII. Elaborar y presentar al Presidente el proyecto del Programa, en coordinación con el Secretario de Seguridad Pública y el Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+VII. Elaborar y presentar al Presidente el proyecto del Programa, en coordinación con el Secretario de Seguridad Pública y el Fiscal General del Estado;
 
 VIII. Analizar y proponer al Consejo, proyectos y reformas de leyes, decretos, reglamentos y demás ordenamientos jurídicos en materia de Seguridad Pública;
 
@@ -605,7 +621,9 @@ El Secretario Ejecutivo deberá coordinarse con las instituciones de Seguridad P
 
 Las Instituciones de Seguridad Pública sistematizarán, intercambiarán y actualizarán diariamente, la información que sobre la materia se genere, utilizando los instrumentos tecnológicos necesarios para su resguardo.
 
-La Procuraduría tendrá acceso a la información contenida en el Registro Estatal de Seguridad Pública y Privada, en el ámbito de su función de investigación y persecución de los delitos.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+La Fiscalía General del Estado tendrá acceso a la información contenida en el Registro Estatal de Seguridad Pública y Privada, en el ámbito de su función de investigación y persecución de los delitos.
 
 La información sobre administración de justicia, podrá ser integrada al Registro Estatal de Seguridad Pública y Privada, a través de convenios con el Poder Judicial del Estado, y con estricto apego a las disposiciones legales aplicables.
 
@@ -925,7 +943,9 @@ II. El Secretario de Gobierno;
 
 III. El Secretario de Seguridad Pública;
 
-IV. El Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+IV. El Fiscal General del Estado;
 
 V. El Secretario de Finanzas y Administración;
 
@@ -1229,7 +1249,9 @@ IV. Un Secretario Ejecutivo designado por los presidentes municipales del Consej
 
 Podrán ser invitados a formar parte del Consejo Intermunicipal, si los hubiere:
 
-I. Los Agentes del Ministerio Público designados por el Procurador;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+I. Los Agentes del Ministerio Público designados por el Fiscal General del Estado;
 
 II. Los elementos con la mayor jerarquía de la Policía Ministerial del Estado con residencia en la región;
 
@@ -1907,9 +1929,11 @@ El Presidente podrá ser suplido en sus ausencias por el funcionario que designe
 
 El titular de asuntos jurídicos de la Secretaría fungirá como Secretario Técnico de la Comisión de Honor y Justicia y tendrá sólo derecho a voz.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 154.
 
-En la Procuraduría se integrará una instancia equivalente en términos de su ley orgánica.
+En la Fiscalía General del Estado se integrará una instancia equivalente en términos de su ley orgánica.
 
 ### CAPÍTULO NOVENO. EVALUACIÓN Y CERTIFICACIÓN
 
@@ -2218,3 +2242,9 @@ P.O. 14 DE AGOSTO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO VIGÉSIMO TERCERO.- SE REFORMAN LAS FRACCIONES XIX Y XXV DEL ARTÍCULO 5, LA FRACCIÓN II DEL ARTÍCULO 14, EL PRIMER PÁRRAFO Y LAS FRACCIONES X Y XI DEL ARTÍCULO 15, LA FRACCIÓN III DEL ARTÍCULO 18, LA FRACCIÓN VII DEL ARTÍCULO 28, EL PÁRRAFO TERCERO DEL ARTÍCULO 37, LA FRACCIÓN IV DEL ARTÍCULO 70, LA FRACCIÓN I DEL ARTÍCULO 97 Y EL ARTÍCULO 154 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
