@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11019
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2019-05-22"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MOR"
 ---
 # LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE NOVIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de octubre de 2015.
 
@@ -715,6 +713,10 @@ XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecno
 
 XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo.
 
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XXII. Instaurar acciones encaminadas al fortalecimiento del núcleo familiar, a fin de que todas las niñas, niños y adolescentes logren un adecuado desarrollo integral.
+
 Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
 ###### Artículo 54.
@@ -740,6 +742,10 @@ VIII. Promover la educación sexual integral conforme a su edad, el desarrollo e
 IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos, y
 
 X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos.
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XI. Impulsar en niñas, niños y adolescentes la importancia del fortalecimiento e Integración del núcleo familiar.
 
 ###### Artículo 55.
 
@@ -1680,3 +1686,15 @@ DÉCIMA. En un plazo no mayor de 90 días hábiles, contados a partir de la vige
 DÉCIMA PRIMERA. En un plazo no mayor de 90 días hábiles, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados.
 
 DÉCIMA SEGUNDA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto, en caso de que se hubiere realizado la entrega - recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial "Tierra y Libertad" 5611.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SESENTA Y TRES POR EL QUE SE ADICIONA LA FRACCIÓN XXII DEL ARTÍCULO 53 Y LA FRACCIÓN XI DEL ARTÍCULO 54 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la gaceta Legislativa y remítase para su divulgación al Periódico “Tierra y libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”.
