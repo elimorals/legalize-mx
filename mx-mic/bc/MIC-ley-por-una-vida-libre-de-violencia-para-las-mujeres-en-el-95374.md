@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2018-08-14"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -331,7 +331,9 @@ VI. Secretaría de Desarrollo Social y Humano;
 
 VII. La Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas;
 
-VIII. La Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+VIII. La Fiscalía General del Estado;
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2017)</small>
 
@@ -577,9 +579,11 @@ XII. Proporcionar la asistencia y protección social a las mujeres víctimas de 
 
 XIII. Integrar, organizar y sistematizar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 36.
 
-Corresponde a la Procuraduría General de Justicia del Estado desempeñar las siguientes facultades:
+Corresponde a la Fiscalía General del Estado desempeñar las siguientes facultades:
 
 I. Participar en el diseño de la política en materia de procuración de justicia para prevenir, atender y combatir la violencia contra las mujeres por razones de género en el marco del Programa Estatal;
 
@@ -1068,3 +1072,9 @@ P.O. 14 DE AGOSTO DE 2018.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Artículo Segundo. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales procedentes.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO TRIGÉSIMO TERCERO.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 20 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 36 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
