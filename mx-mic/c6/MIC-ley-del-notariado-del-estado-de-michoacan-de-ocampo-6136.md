@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-notariado-del-estado-de-michoacan-de-ocampo-6136"
 country: "mx"
 rank: "ley"
 publication_date: "1980-02-21"
-last_updated: "2018-09-12"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL NOTARIADO DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 21 de febrero de 1980.
 
@@ -273,11 +273,13 @@ Si ninguno de los aspirantes obtuviera calificación mayor a ocho, el concurso s
 
 k. El resultado de este proceso y el nombramiento otorgado por el Titular del Poder Ejecutivo, será publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y en los tres periódicos de mayor circulación en el Estado, por tres días consecutivos.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### ARTICULO 22.
 
 Los requisitos anteriores se acreditarán, en su orden, con:
 
-Copia certificada del acta de nacimiento; acta expedida por la autoridad competente; constancia de la autoridad política del lugar; certificado de residencia otorgado por la autoridad municipal, título debidamente registrado o copia certificada del mismo; certificado emitido por dos médicos oficiales; y, constancia de la Procuraduría General de Justicia del Estado.
+Copia certificada del acta de nacimiento; acta expedida por la autoridad competente; constancia de la autoridad política del lugar; certificado de residencia otorgado por la autoridad municipal, título debidamente registrado o copia certificada del mismo; certificado emitido por dos médicos oficiales; y, constancia de la Fiscalía General del Estado.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2018)</small>
 
@@ -325,11 +327,11 @@ La garantía a que se refiere la fracción I del artículo anterior, podrá cons
 
 El depósito se hará en la Secretaría de Finanzas y Administración, la hipoteca se constituirá con intervención de Notario Público y la fianza se otorgará ante el Secretario de Gobierno.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 27.
 
-El Notario al iniciar el ejercicio de sus funciones dará aviso a la Secretaría de Gobierno, Supremo Tribunal de Justicia, Procuraduría General de Justicia, Secretaría de Hacienda y Crédito Público, Dirección del Registro Público de la Propiedad, Dirección del Notariado y Archivo General de Notarías, Dirección de Gobernación y al Consejo de Notarios de Michoacán.
+El Notario al iniciar el ejercicio de sus funciones dará aviso a la Secretaría de Gobierno, Supremo Tribunal de Justicia, Fiscalía General del Estado, Secretaría de Hacienda y Crédito Público, Dirección del Registro Público de la Propiedad, Dirección del Notariado y Archivo General de Notarías, Dirección de Gobernación y al Consejo de Notarios de Michoacán.
 
 > <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
@@ -451,11 +453,11 @@ El notario no puede ejercer sus funciones mientras lo sustituyen o se encuentre 
 
 Los volúmenes del protocolo y demás documentos del archivo del Notario sólo se mostrarán a quienes acrediten interés jurídico. Las escrituras, en particular, sólo podrán leerse a quienes hubieren intervenido en ellas o justifiquen sus derechos. Cuando se trate de disposiciones testamentarias el Notario podrá informar a los herederos, legatarios y albacea, únicamente después de la muerte del testador, en los casos que proceda legalmente.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 45.
 
-La clausura del protocolo se efectuará siempre con asistencia de un interventor que nombrará el Secretario de Gobierno y con la de un Agente del Ministerio Público designado por el Procurador General de Justicia, funcionarios que deberán también suscribir las razones asentadas por el Director del Notariado y Archivo General de Notarías, levantándose por triplicado un inventario pormenorizado de los libros o volúmenes, apéndices y demás documentos pertenecientes a la notaría, para enviar un ejemplar a la Secretaría de Gobierno, otro a la Dirección del Notariado y Archivo General de Notarías y el último, al Notario que estuvo encargado del oficio.
+La clausura del protocolo se efectuará siempre con asistencia de un interventor que nombrará el Secretario de Gobierno y con la de un Agente del Ministerio Público designado por el Fiscal General del Estado, funcionarios que deberán también suscribir las razones asentadas por el Director del Notariado y Archivo General de Notarías, levantándose por triplicado un inventario pormenorizado de los libros o volúmenes, apéndices y demás documentos pertenecientes a la notaría, para enviar un ejemplar a la Secretaría de Gobierno, otro a la Dirección del Notariado y Archivo General de Notarías y el último, al Notario que estuvo encargado del oficio.
 
 > <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
@@ -1526,3 +1528,9 @@ P.O. 12 DE SEPTIEMBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. En un plazo de sesenta días el Consejo del Colegio de Notarios deberá realizar las acciones necesarias para la implementación del sistema de verificación de datos y medidas de seguridad en documentos oficiales.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO VIGÉSIMO PRIMERO.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22 Y LOS ARTÍCULOS 27 Y 45 DE LA LEY DEL NOTARIADO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
