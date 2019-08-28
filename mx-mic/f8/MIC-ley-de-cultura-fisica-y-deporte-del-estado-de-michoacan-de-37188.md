@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-cultura-fisica-y-deporte-del-estado-de-michoacan-de-3718
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-16"
-last_updated: "2019-06-14"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley Publicada en Periódico Oficial del Estado de Michoacán, el lunes 16 de febrero del 2004.
 
@@ -343,7 +343,9 @@ VII. Secretaría de Comunicaciones y Obras Públicas;
 
 VIII. Secretaría de Salud;
 
-IX. Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+IX. Fiscalía General del Estado;
 
 X. Secretaría de Turismo; y,
 
@@ -1698,3 +1700,9 @@ PRIMERO. La Comisión Estatal de Cultura Física y Deporte elaborará el padrón
 SEGUNDO. A partir del Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo del año 2020, el Titular del Poder Ejecutivo del Estado, deberá garantizar para la Comisión Estatal de Cultura Física y Deporte, los recursos necesarios para la operación y cumplimiento del presente Decreto.
 
 TERCERO. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO CUARTO.- SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 18 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
