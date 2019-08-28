@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-proteccion-de-personas-intervinientes-en-el-103175"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-15"
-last_updated: "2014-10-15"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103175&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA PROTECCIÓN DE PERSONAS INTERVINIENTES EN EL PROCESO PENAL DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de octubre de 2014.
 
@@ -79,9 +79,13 @@ También se consideran personas sujetas de protección, las personas con parente
 
 XII. Proceso Penal: Procesos penales y de justicia integral para adolescentes;
 
-XIII. Procurador: Titular de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
-XIV. Procuraduría: Procuraduría General de Justicia del Estado;
+XIII. Fiscal: Titular de la Fiscalía General del Estado;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XIV. Fiscalía: Fiscalía General del Estado;
 
 XV. Programa: Programa de protección a personas en situación de riesgo o peligro, por su participación en un proceso penal o como resultado del mismo;
 
@@ -91,15 +95,19 @@ XVII. Unidad: Unidad de Protección de Personas del Centro Estatal de Protecció
 
 XVIII. Vínculo afectivo: Relación que existe o ha existido entre las personas intervinientes en el proceso penal con aquéllas que tienen una íntima amistad o relación sentimental actual o pasada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 3.
 
-La Procuraduría, a través del Centro Estatal de Protección, es el órgano responsable de garantizar la protección y atención de personas protegidas.
+La Fiscalía, a través del Centro Estatal de Protección, es el órgano responsable de garantizar la protección y atención de personas protegidas.
 
 La administración y ejecución de las medidas de protección, serán independientes del desarrollo del proceso penal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 4.
 
-Las dependencias y entidades de la administración pública estatal y de las municipales, en el ámbito de su competencia, están obligadas a prestar la colaboración que les requiera la Procuraduría, por conducto del Centro Estatal de Protección, para la aplicación de las medidas de protección previstas en esta ley.
+Las dependencias y entidades de la administración pública estatal y de las municipales, en el ámbito de su competencia, están obligadas a prestar la colaboración que les requiera la Fiscalía, por conducto del Centro Estatal de Protección, para la aplicación de las medidas de protección previstas en esta Ley.
 
 Las instancias mencionadas están obligadas a mantener en reserva y estricta confidencialidad, toda la información que adquieren en virtud de su participación en las actividades de colaboración que ordena esta Ley.
 
@@ -133,13 +141,17 @@ VI. Voluntariedad: La persona sujeta de protección, expresará por escrito su v
 
 ### CAPÍTULO TERCERO. CENTRO ESTATAL DE PROTECCIÓN
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 8.
 
-El Centro Estatal de Protección es el órgano especializado de la Procuraduría, con autonomía técnica y operativa para la aplicación de las medidas de protección.
+El Centro Estatal de Protección es el órgano especializado de la Fiscalía, con autonomía técnica y operativa para la aplicación de las medidas de protección.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 9.
 
-El Centro Estatal de Protección estará a cargo de un Director, nombrado por el Procurador, que deberá reunir los siguientes requisitos:
+El Centro Estatal de Protección estará a cargo de un Director, nombrado por el Fiscal, que deberá reunir los siguientes requisitos:
 
 I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
@@ -149,19 +161,29 @@ III. Contar con experiencia laboral en materia penal o afín; y,
 
 IV. No haber sido condenado por delito doloso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 10.
 
 El Director, para el cumplimiento de la presente ley, contará con las siguientes atribuciones:
 
-I. Proponer al Procurador los instrumentos reglamentarios, manuales e instructivos de procedimientos administrativos y operativos necesarios para el funcionamiento del Centro Estatal de Protección y la operación del programa;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+I. Proponer al Fiscal los instrumentos reglamentarios, manuales e instructivos de procedimientos administrativos y operativos necesarios para el funcionamiento del Centro Estatal de Protección y la operación del programa;
 
 II. Elaborar el plan de trabajo que contenga las políticas, estrategias y acciones para la implementación de las medidas de protección y asistencia a las personas protegidas;
 
-III. Elaborar y proponer al Procurador, el Programa de Protección, de acuerdo con lo dispuesto en esta Ley;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
-IV. Proponer al Procurador los protocolos de evaluación para la determinación del grado de riesgo y la necesidad de la aplicación de medidas de protección;
+III. Elaborar y proponer al Fiscal, el Programa de Protección, de acuerdo con lo dispuesto en esta Ley;
 
-V. Integrar y proponer al Procurador el presupuesto anual para la operación del programa y del Centro Estatal de Protección;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+IV. Proponer al Fiscal los protocolos de evaluación para la determinación del grado de riesgo y la necesidad de la aplicación de medidas de protección;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+V. Integrar y proponer al Fiscal el presupuesto anual para la operación del programa y del Centro Estatal de Protección;
 
 VI. Administrar los recursos económicos y humanos del Centro Estatal de Protección y del programa;
 
@@ -423,7 +445,9 @@ El estudio técnico incluirá también exámenes psicológicos y clínicos, así
 
 Una vez concluido el estudio técnico, el Director decidirá incorporar a la persona al programa de protección y establecer las medidas de protección que se le aplicarán, o bien, no incorporarla.
 
-La decisión del Director sobre la incorporación o no de una persona al programa de protección, podrá ser reconsiderada por el Procurador, previa solicitud que realice el interesado por cualquier medio, dentro de las veinticuatro horas siguientes a la notificación que deberá hacer la Dirección. La resolución se emitirá a más tardar al día siguiente.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+La decisión del Director sobre la incorporación o no de una persona al programa de protección, podrá ser reconsiderada por el Fiscal, previa solicitud que realice el interesado por cualquier medio, dentro de las veinticuatro horas siguientes a la notificación que deberá hacer la Dirección. La resolución se emitirá a más tardar al día siguiente.
 
 ###### Artículo 34.
 
@@ -577,7 +601,9 @@ VI. Cuando por causas que le son imputables, su estancia sea un factor que afect
 
 La resolución en todo caso será notificada por escrito a la persona protegida y en caso de que se desconozca su ubicación, se levantará constancia de dicha circunstancia y se acordará la baja correspondiente.
 
-Las resoluciones correspondientes, podrán ser reconsideradas por el Procurador, previa solicitud por escrito del interesado y presentación de elementos probatorios para combatir la misma, dentro de los tres días naturales posteriores a la notificación. El Procurador dictará su resolución dentro de las veinticuatro horas siguientes a la presentación del escrito de reconsideración. La solicitud de reconsideración, suspenderá la resolución revocatoria.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+Las resoluciones correspondientes, podrán ser reconsideradas por el Fiscal, previa solicitud por escrito del interesado y presentación de elementos probatorios para combatir la misma, dentro de los tres días naturales posteriores a la notificación. El Fiscal dictará su resolución dentro de las veinticuatro horas siguientes a la presentación del escrito de reconsideración. La solicitud de reconsideración, suspenderá la resolución revocatoria.
 
 ###### Artículo 48.
 
@@ -585,15 +611,19 @@ No será causa de responsabilidad civil, penal o administrativa, para los servid
 
 ### CAPÍTULO DÉCIMO TERCERO. TRANSPARENCIA DEL PROGRAMA DE PROTECCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 49.
 
-El Director por conducto del Procurador presentará por escrito al Congreso un informe anual sobre el resultado del programa de protección.
+El Director por conducto del Fiscal presentará por escrito al Congreso un informe anual sobre el resultado del programa de protección.
 
 Dicho informe se elaborará de modo que se ofrezca la relación estadística más detallada posible, sin que bajo ninguna circunstancia se asienten datos que pongan en riesgo la integridad de las personas protegidas.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 50.
 
-El órgano interno de control en la Procuraduría y la Auditoría Superior del Estado, podrán realizar todas las actividades de auditoría al programa de protección; su personal debe estar habilitado y suscribirá una carta compromiso en donde se establezca su obligación de confidencialidad, respecto a la operación del programa de protección, incluso una vez que se hubiese separado de su empleo, cargo o comisión.
+El órgano interno de control en la Fiscalía y la Auditoría Superior del Estado, podrán realizar todas las actividades de auditoría al programa de protección; su personal debe estar habilitado y suscribirá una carta compromiso en donde se establezca su obligación de confidencialidad, respecto a la operación del programa de protección, incluso una vez que se hubiese separado de su empleo, cargo o comisión.
 
 ### CAPÍTULO DÉCIMO CUARTO. DELITOS
 
@@ -626,3 +656,11 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 22 días del mes de septiembre del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO, DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO, MTRO. JAIME DARÍO OSEGUERA MÉNDEZ. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO VIGÉSIMO SÉPTIMO. SE REFORMAN LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 2; EL PÁRRAFO PRIMERO DEL ARTÍCULO 3; EL PÁRRAFO PRIMERO DEL ARTÍCULO 4, EL ARTÍCULO 8, EL PÁRRAFO PRIMERO DEL ARTÍCULO 9, EL PÁRRAFO PRIMERO Y LAS FRACCIONES I, III, IV Y V DEL ARTÍCULO 10, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 33, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 47, EL PRIMER PÁRRAFO DEL ARTÍCULO 49 Y EL ARTÍCULO 50 DE LA LEY PARA LA PROTECCIÓN DE PERSONAS INTERVINIENTES EN EL PROCESO PENAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
