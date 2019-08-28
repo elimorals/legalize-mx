@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-prevenir-y-eliminar-la-discriminacion-y-la-65198"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-02"
-last_updated: "2017-07-21"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 2 de enero de 2009.
 
@@ -419,9 +419,11 @@ Ante la discriminación y violencia, el Estado deberá resarcir el daño conform
 
 Las órdenes de protección son de carácter emergente y preventivo, prohíben la realización de determinadas conductas y su aplicación está en función del interés superior de las víctimas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 20.
 
-Las órdenes de protección serán emitidas y ejecutadas por la Procuraduría General de Justicia del Estado a través del Ministerio Público, con el auxilio de las autoridades policiales competentes.
+Las órdenes de protección serán emitidas y ejecutadas por la Fiscalía General del Estado a través del Ministerio Público, con el auxilio de las autoridades policiales competentes.
 
 En virtud de la notoria urgencia, en los municipios en donde no exista Agencia del Ministerio Público, la emisión y aplicación de las órdenes de protección le corresponden al Síndico Municipal o a la autoridad municipal facultada para este fin, quien dará aviso en un plazo no mayor a setenta y dos horas a la autoridad que corresponda.
 
@@ -499,7 +501,9 @@ b) Secretaria de Finanzas y Administración;
 
 e) Coordinación de Planeación para el Desarrollo;
 
-d) Procuraduría General de Justicia del Estado; y,
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+d) Fiscalía General del Estado; y,
 
 e) Coordinación de Contraloría
 
@@ -854,3 +858,9 @@ P.O. 21 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 371 POR EL QUE “SE REFORMA EL ARTÍCULO 15 Y SE ADICIONA EL ARTÍCULO 16 BIS A LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO.”]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO TRIGÉSIMO PRIMERO.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 20 Y EL INCISO D) DE LA FRACCIÓN II DEL ARTÍCULO 26 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
