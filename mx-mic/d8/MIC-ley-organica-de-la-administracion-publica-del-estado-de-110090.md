@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-110090"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-29"
-last_updated: "2019-02-19"
+last_updated: "2019-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Michoacán, el martes 29 de septiembre de 2015.
 
@@ -709,7 +709,9 @@ XIV. Establecer y operar el Sistema de Información sobre Seguridad Pública, me
 
 XV. Aplicar las normas, políticas y programas que deriven del Sistema Nacional de Seguridad Pública;
 
-XVI. Controlar en coordinación con la Procuraduría General de Justicia del Estado, la portación de armas, de acuerdo a las leyes de la materia y los convenios celebrados con las dependencias federales;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XVI. Controlar en coordinación con la Fiscalía General del Estado, la portación de armas, de acuerdo a las leyes de la materia y los convenios celebrados con las dependencias federales;
 
 XVII. Dirigir y controlar el tránsito en las carreteras y caminos de jurisdicción estatal, así como proveer los servicios de policía y vigilancia que se requieran;
 
@@ -1173,7 +1175,9 @@ III. Coordinar los programas y servicios de salud de toda dependencia o entidad 
 
 IV. Emitir la política pública y coordinar el régimen de protección social de salud, así como coordinar y vigilar los servicios de salud en el Estado;
 
-V. Coadyuvar con la Procuraduría General de Justicia en todos los casos de violencia que se detecten por el personal del sector salud;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+V. Coadyuvar con la Fiscalía General del Estado en todos los casos de violencia que se detecten por el personal del sector salud;
 
 VI. Asegurar en beneficio de la población:
 
@@ -1726,3 +1730,9 @@ DÉCIMO TERCERO. Se abroga la Ley del Instituto Michoacano de Investigación For
 DÉCIMO CUARTO. Se deroga la fracción XVIII del artículo 17 y el artículo 35 de la Ley Orgánica de la Administración Pública del Estado de Michoacán.
 
 DÉCIMO QUINTO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO VIGÉSIMO CUARTO. SE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 21 Y LA FRACCIÓN V DEL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
