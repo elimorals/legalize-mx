@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-6681
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "2019-04-10"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1995.
 
@@ -117,33 +117,21 @@ XXII. Sistema de Evaluación del Desempeño, al conjunto de elementos metodológ
 
 Cualquier otro término que no se integre en el presente articulado se deberá entender en los términos del glosario de la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y, en su caso, del Presupuesto de Egresos del Gobierno del Estado del ejercicio fiscal que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2019)</small>
-
-###### Artículo 3.
-
-La programación, presupuestación y ejercicio del Gasto Público estatal y municipal se basará en las directrices, lineamientos y políticas que establezcan los Planes Estatal y Municipales de Desarrollo y en los programas que de éstos se deriven atendiendo a los principios de equidad y perspectiva de género.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO NÚMERO CUATROCIENTOS SETENTA, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2019, SE DEROGA EL ARTÍCULO DÉCIMO SEXTO DEL DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019.]</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
+###### Artículo 3.
+
+La programación, presupuestación, aprobación, ejercicio y control del Gasto Público del Estado y los Municipios por conducto de sus Dependencias y Entidades Paraestatales y Paramunicipales, se basará en las directrices, lineamientos y políticas que establezcan sus respectivos Planes Estatal y Municipal de Desarrollo y en los programas que de éstos se deriven.
+
 La interpretación de la presente Ley, para efectos administrativos y exclusivamente en el ámbito de competencia del Poder Ejecutivo Estatal, corresponde a la Secretaría y a la Contraloría, en el ámbito de sus respectivas atribuciones y competencias legales; del mismo modo, la Secretaría contará con facultades para emitir los criterios, reglas y lineamientos necesarios, para dar cumplimiento a la presente Ley, y demás normativa aplicable.
 
-> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO NÚMERO CUATROCIENTOS SETENTA, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2019, SE DEROGA EL ARTÍCULO DÉCIMO SEXTO DEL DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019.]</small>
 
 ###### Artículo 3 Bis.
 
-Los presupuestos con perspectiva de género son aquellos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la igualdad e integración transversal de la política de género en planes, programas y acciones gubernamentales.
-
-Para efectos de la presente Ley los principios de equidad y perspectiva de género en el presupuesto implican, de manera enunciativa, lo siguiente:
-
-I. Su transversalización en las etapas de planificación, elaboración, ejecución y evaluación del presupuesto público;
-
-II. Análisis de la situación actual de mujeres y niñas;
-
-III. Sensibilidad de género de las políticas públicas;
-
-IV. Análisis de las asignaciones de gasto, gastos específicamente enfocados a mujeres y niñas y resto del gasto público que no está específicamente destinado a mujeres pero que puede tener un impacto sobre sus (sic) condición; y,
-
-V. Evaluación de resultados y generación de indicadores.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -169,13 +157,13 @@ VIII. Cualquier otro ente del Estado o Municipio, con independencia de su natura
 
 Los ejecutores del gasto administrarán sus recursos con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas e igualdad de género, y están obligados a rendir cuentas por la administración de los recursos públicos en los términos de este ordenamiento y demás normativa aplicable.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 14 PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019, SE ADVIERTE LA REFORMA AL PÁRRAFO SEGUNDO DEL ARTÍCULO 5, A SABER: “Lo anterior atendiendo al principio de equidad y perspectiva de género a través de acciones afirmativas, así como la concordancia de estas actividades con los principios y directrices del Plan Estatal de Desarrollo”. PARA CONSULTAR EL CONTENIDO DEL ARTÍCULO COMPLETO, VÉASE EL TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 29 DE JULIO DE 2015 Y REFORMADO EL 22 DE DICIEMBRE DE 2016.]</small>
-
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 5.
 
 El Poder Ejecutivo, a través de la Secretaría y los Municipios, a través de las Tesorerías Municipales, coordinarán, conforme lo establece la presente Ley, las actividades de planeación, programación, presupuestación, control, seguimiento y evaluación del Gasto Público.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO NÚMERO CUATROCIENTOS SETENTA, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2019, SE DEROGA EL ARTÍCULO DÉCIMO SEXTO DEL DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019.]</small>
 
 Las facultades que la presente Ley concede a las Tesorerías Municipales no excluyen aquellas que la Ley Orgánica Municipal del Estado de Morelos otorga a las Comisiones de Regidores encargadas del ramo de Hacienda.
 
@@ -301,7 +289,7 @@ El incumplimiento a dichas disposiciones se sancionará en términos de la norma
 
 Las Dependencias y Entidades Paraestatales y Paramunicipales, que con motivo de sus actividades o funciones generen ingresos que con base a la legislación estatal o municipal, se consideren ingresos fiscales, deberán coordinarse con la Secretaría en el primer caso y con las Tesorerías Municipales en el segundo para que dichos ingresos se incorporen en la Ley de Ingresos para el ejercicio fiscal que corresponda.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 14 PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019, SE ADVIERTE LA REFORMA AL PÁRRAFO SEGUNDO DEL ARTÍCULO 19, A SABER: "Los anteproyectos de presupuesto de egresos se elaborarán con base en los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas, equidad y perspectiva de género". PARA CONSULTAR EL CONTENIDO DEL ARTÍCULO COMPLETO, VÉASE EL TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 29 DE JULIO DE 2015 Y REFORMADO EL 22 DE DICIEMBRE DE 2016.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO NÚMERO CUATROCIENTOS SETENTA, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2019, SE DEROGA EL ARTÍCULO DÉCIMO SEXTO DEL DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019.]</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -309,7 +297,7 @@ Las Dependencias y Entidades Paraestatales y Paramunicipales, que con motivo de 
 
 El proyecto de Ley de Ingresos del Gobierno del Estado incluirá, además de otros requisitos señalados en esta Ley, la expectativa de entradas de efectivo por ingresos fiscales y las Entidades Paraestatales y Paramunicipales, los ingresos que generen con relación directa al cumplimiento de su objeto social, los que serán objeto de revisión por el Congreso del Estado, a través de la Entidad Superior de Auditoría y Fiscalización.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 14 PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019, SE ADVIERTE LA REFORMA A LA FRACCIÓN I DEL ARTÍCULO 20, A SABER: "I.- Los anteproyectos de presupuesto de egresos se elaborarán con base en los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género. La Secretaría de Hacienda y las Tesorerías Municipales enviarán programadas (sic), con base en los principios de equidad y perspectiva de género y lineamientos que señala el Plan Estatal de Desarrollo." PARA CONSULTAR EL CONTENIDO DEL ARTÍCULO COMPLETO, VÉASE EL TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 29 DE JULIO DE 2015 Y REFORMADO EL 22 DE DICIEMBRE DE 2016.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO NÚMERO CUATROCIENTOS SETENTA, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2019, SE DEROGA EL ARTÍCULO DÉCIMO SEXTO DEL DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019.]</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -875,6 +863,8 @@ Las referencias al Registro de Obligaciones y Empréstitos del Estado de Morelos
 
 SÉPTIMA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO NÚMERO CUATROCIENTOS SETENTA, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2019, SE DEROGA EL ARTÍCULO DÉCIMO SEXTO DEL DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019.]</small>
+
 P.O. 10 DE ABRIL DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CATORCE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO”.]
@@ -894,3 +884,15 @@ SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deb
 SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
 
 OCTAVO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SETENTA POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES ESTATALES; Y SE DEROGAN Y REFORMAN DIVERSOS ARTÍCULOS DISPOSITIVOS DEL “DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Las reformas realizadas por virtud del DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, publicado en el Periódico Oficial “Tierra y Libertad”, número 5695 alcance, el 10 de abril de 2019, que no han sido objeto de derogación por virtud del presente instrumento; continuarán surtiendo sus efectos a partir de la vigencia del citado Decreto.
+
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
