@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-administracion-de-bienes-asegurados-y-103944"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-11"
-last_updated: "2014-12-11"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MIC"
 
 LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS Y DECOMISADOS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
-Ley publicada en la Décima Tercera Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de diciembre de 2014.
+Ley publicada en la Décima Tercera Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el jueves 11 de diciembre de 2014.
 
 SALVADOR JARA GUERRERO, Gobernador del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
 
@@ -67,7 +67,9 @@ VI. Ley: la Ley para la Administración de Bienes Asegurados y Decomisados del E
 
 VII. Ley de Extinción de Dominio: la Ley de Extinción de Dominio del Estado de Michoacán de Ocampo;
 
-VIII. Procuraduría: la Procuraduría General de Justicia del Estado de Michoacán; y,
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+VIII. Fiscalía: la Fiscalía General del Estado de Michoacán; y,
 
 IX. Servicio de Administración de Bienes: el órgano desconcentrado denominado Servicio de Administración de Bienes Asegurados y Decomisados del Estado de Michoacán de Ocampo, dependiente de la Secretaría de Finanzas y Administración del Estado, encargado de la administración de los bienes asegurados y decomisados, conforme a lo previsto por esta Ley.
 
@@ -129,9 +131,13 @@ Los bienes perecederos podrán ser vendidos a precio de mercado.
 
 El producto que se obtenga de la enajenación de los bienes a que se refiere esta Ley se enterará a la Secretaría de Finanzas y Administración del Estado para su depósito en el fondo que al efecto constituya, hasta en tanto se determine su devolución o se declare su abandono.
 
-El numerario decomisado y los recursos que se obtengan por la enajenación de los bienes decomisados, una vez satisfecha la reparación a la víctima, serán entregados en partes iguales al Poder Judicial del Estado a través del Fondo Auxiliar para la Administración de Justicia, a la Procuraduría General de Justicia del Estado, a la Secretaría de Salud y al fondo previsto en la legislación aplicable en materia de víctimas.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-Los bienes a los que se hubieren sido declarados abandonados en los términos del artículo 231 del Código Nacional de Procedimientos Penales, serán destinados a la Procuraduría, previa enajenación y liquidación.
+El numerario decomisado y los recursos que se obtengan por la enajenación de los bienes decomisados, una vez satisfecha la reparación a la víctima, serán entregados en partes iguales al Poder Judicial del Estado a través del Fondo Auxiliar para la Administración de Justicia, a la Fiscalía General del Estado, a la Secretaría de Salud y al fondo previsto en la legislación aplicable en materia de víctimas.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+Los bienes a los que se hubieren sido declarados abandonados en los términos del artículo 231 del Código Nacional de Procedimientos Penales, serán destinados a la Fiscalía General del Estado, previa enajenación y liquidación.
 
 En el caso de la aplicación del producto de la enajenación de los bienes afectos a la acción de extinción de dominio, se estará a lo dispuesto en los artículos 4, quinto párrafo y 11, último párrafo, de la Ley de Extinción de Dominio del Estado de Michoacán de Ocampo.
 
@@ -163,9 +169,11 @@ III. Señalar si los bienes se entregan para su administración, venta, donació
 
 IV. Poner los bienes a disposición del Servicio de Administración de Bienes, en la fecha y lugares que previamente se acuerden con éste.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 14.
 
-El Servicio de Administración de Bienes integrará una base de datos con el registro de los bienes, que podrá ser consultada por la autoridad judicial, la Procuraduría, las dependencias y entidades de la Administración Pública Estatal, así como por las personas que acrediten un interés legítimo para ello.
+El Servicio de Administración de Bienes integrará una base de datos con el registro de los bienes, que podrá ser consultada por la autoridad judicial, la Fiscalía General del Estado, las dependencias y entidades de la Administración Pública Estatal, así como por las personas que acrediten un interés legítimo para ello.
 
 En todos los casos se respetarán las reservas previstas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo.
 
@@ -247,7 +255,9 @@ La Junta de Gobierno podrá autorizar a los depositarios, administradores o inte
 
 La Junta de Gobierno fijará el monto de la contraprestación que los depositarios, administradores o interventores deban cubrir por el uso que se otorgue de acuerdo con el párrafo anterior. Dicha contraprestación se considerará como fruto de los bienes.
 
-El Servicio de Administración de Bienes podrá destinar, previa autorización de la Junta de Gobierno, el uso de los bienes asegurados a los poderes Legislativo y Judicial, así como a las dependencias, entidades paraestatales, a la Procuraduría y a los órganos autónomos del Estado, cuando así lo solicite por escrito el titular de dichas instancias, o el servidor público en quien se delegue esta función, y, en su caso, les autorizará mediante acuerdo de destino la utilización de dichos bienes para el desarrollo de sus funciones.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+El Servicio de Administración de Bienes podrá destinar, previa autorización de la Junta de Gobierno, el uso de los bienes asegurados a los poderes Legislativo y Judicial, así como a las dependencias, entidades paraestatales, a la Fiscalía General del Estado y a los órganos autónomos del Estado, cuando así lo solicite por escrito el titular de dichas instancias, o el servidor público en quien se delegue esta función, y, en su caso, les autorizará mediante acuerdo de destino la utilización de dichos bienes para el desarrollo de sus funciones.
 
 ###### Artículo 29.
 
@@ -681,7 +691,9 @@ II. El Presidente del Poder Judicial del Estado de Michoacán de Ocampo;
 
 III. El Secretario de Gobierno;
 
-IV. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+IV. El Fiscal General del Estado;
 
 V. El Secretario de Desarrollo Económico; y,
 
@@ -808,3 +820,11 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".-PRESIDENTE DE LA MESA DIRECTI
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la Residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a 10 diez días del mes de diciembre del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARÍO OSEGUERA MÉNDEZ.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO VIGÉSIMO QUINTO. SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 2, LOS PÁRRAFOS CUARTO Y QUINTO DEL ARTÍCULO 11, EL PRIMER PÁRRAFO DEL ARTÍCULO 14, EL TERCER PÁRRAFO DEL ARTÍCULO 28 Y LA FRACCIÓN IV DEL ARTÍCULO 75 DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS Y DECOMISADOS DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
