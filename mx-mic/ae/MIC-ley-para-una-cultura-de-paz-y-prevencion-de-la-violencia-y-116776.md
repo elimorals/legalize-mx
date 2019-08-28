@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-una-cultura-de-paz-y-prevencion-de-la-violencia-y-1167
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-26"
-last_updated: "2016-09-26"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY PARA UNA CULTURA DE PAZ Y PREVENCION DE LA VIOLENCIA Y LA DELINCUENCIA EN MICHOACAN
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA 1 DE ENERO DE 2017, PREVIA PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY PARA UNA CULTURA DE PAZ Y PREVENCIÓN DE LA VIOLENCIA Y LA DELINCUENCIA EN MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Novena Sección al número 63 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 26 de septiembre de 2016.
 
@@ -143,7 +143,9 @@ II. De participación ciudadana e inclusión social, por parte del Secretariado 
 
 En caso de que otras autoridades y personas de la sociedad civil quisieran colaborar en estas acciones, podrán coordinarse con las instancias responsables;
 
-III. De solución de conflictos y medios alternativos de solución de controversias, por parte del Poder Judicial del Estado, la Procuraduría General de Justicia del Estado y los ayuntamientos; y,
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+III. De solución de conflictos y medios alternativos de solución de controversias, por parte del Poder Judicial del Estado, la Fiscalía General del Estado y los ayuntamientos; y,
 
 IV. De educación, para promover la cultura de paz, tolerancia, dialogo, legalidad, prevención del delito y atención de la violencia escolar en el sistema educativo del Estado.
 
@@ -416,3 +418,11 @@ ATENTAMENTE.- “SUFRAGIO EFECTIVO. NO REELECCIÓN”.- PRESIDENTE DE LA MESA DI
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 26 veintiséis días del mes de Septiembre del año 2016 dos mil dieciséis.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- LIC. ADRIÁN LÓPEZ SOLÍS.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO VIGÉSIMO OCTAVO.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 9 DE LA LEY PARA UNA CULTURA DE PAZ Y PREVENCIÓN DE LA VIOLENCIA Y LA DELINCUENCIA EN MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
