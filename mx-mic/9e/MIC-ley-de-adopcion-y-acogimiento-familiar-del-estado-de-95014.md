@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-adopcion-y-acogimiento-familiar-del-estado-de-95014"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-01"
-last_updated: "2016-12-29"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el lunes 1 de julio de 2013.
 
@@ -45,9 +45,13 @@ LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-ARTÍCULO l. Esta Ley es de orden público e interés social, de observancia general y obligatoria en el Estado de Michoacán, y tiene como objeto garantizar el interés superior de las niñas, niños y adolescentes en materia de adopción.
+###### ARTÍCULO 1.
 
-Su aplicación y vigilancia corresponde al Poder Ejecutivo del Estado a través del Sistema de Desarrollo Integral de la Familia, del Consejo Técnico de Adopción, de la Procuraduría de la Defensa del Menor y la Familia, de la Procuraduría General de Justicia del Estado, así como al Poder Judicial del Estado.
+Esta Ley es de orden público e interés social, de observancia general y obligatoria en el Estado de Michoacán, y tiene como objeto garantizar el interés superior de las niñas, niños y adolescentes en materia de adopción.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+Su aplicación y vigilancia corresponde al Poder Ejecutivo del Estado a través del Sistema de Desarrollo Integral de la Familia, del Consejo Técnico de Adopción, de la Procuraduría de la Defensa del Menor y la Familia, de la Fiscalía General del Estado, así como al Poder Judicial del Estado.
 
 ###### ARTÍCULO 2.
 
@@ -537,7 +541,7 @@ Se autoriza al Titular del Ejecutivo realizar las adecuaciones presupuestales es
 
 ###### ARTÍCULO CUARTO.
 
-Se derogan del Libro Primero los capítulos IV «De las Actas de Adopción» contenido en el Titulo Segundo «Del Registro Civil», V «De la Adopción» contenido en el Titulo Octavo «De la Paternidad y la filiación», y del Libro Segundo el Capítulo X «De la Adopción» contenido en el Titulo Décimo Primero «De la Jurisdicción Voluntaria Familiar», todos del Código Familiar para el Estado de Michoacán de Ocampo.
+Se derogan del Libro Primero los capítulos IV «De las Actas de Adopción» contenido en el Título Segundo «Del Registro Civil», V «De la Adopción» contenido en el Título Octavo «De la Paternidad y la filiación», y del Libro Segundo el Capítulo X «De la Adopción» contenido en el Título Décimo Primero «De la Jurisdicción Voluntaria Familiar», todos del Código Familiar para el Estado de Michoacán de Ocampo.
 
 El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
@@ -576,3 +580,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO PRIMERO. SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 1 DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
