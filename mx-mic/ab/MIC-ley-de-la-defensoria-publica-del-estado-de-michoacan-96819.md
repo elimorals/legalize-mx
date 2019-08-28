@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-defensoria-publica-del-estado-de-michoacan-96819"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-28"
-last_updated: "2016-12-29"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el jueves 28 de noviembre de 2013.
 
@@ -207,7 +207,9 @@ Los miembros de la Junta desde su instalación nombrarán un suplente que los re
 
 El Director del Instituto actuará como secretario técnico de la Junta, elaborando las actas de acuerdos. Tendrá derecho a voz, pero no a voto.
 
-El Procurador General de Justicia del Estado no podrá representar al Gobernador del Estado en la Junta.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+El Fiscal General del Estado no podrá representar al Gobernador del Estado en la Junta.
 
 Las sesiones ordinarias se llevarán a cabo cada cuatro meses, sin perjuicio de que puedan convocarse a sesiones extraordinarias a solicitud de alguno de sus miembros, si existieren razones que lo justifiquen.
 
@@ -672,3 +674,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO DÉCIMO CUARTO.- SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 15 DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
