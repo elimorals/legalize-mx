@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-comision-estatal-de-los-derechos-humanos-de-103774"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-21"
-last_updated: "2018-07-23"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 21 de noviembre de 2014.
 
@@ -305,7 +305,9 @@ VI. No haber sido inhabilitado para ejercer el comercio, empleo, profesión o pa
 
 VII. Haberse conducido en el ejercicio de su profesión con un constante respeto por la observancia de los Derechos Humanos;
 
-VIII. No desempeñar ni haber desempeñado cargo de Gobernador, Procurador General de Justicia del Estado, titular de las dependencias básicas del Ejecutivo, Diputado, ni haber sido dirigente o candidato de partido político alguno, en el año anterior a su elección;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+VIII. No desempeñar ni haber desempeñado cargo de Gobernador, Fiscal General del Estado, titular de las dependencias básicas del Ejecutivo, Diputado, ni haber sido dirigente o candidato de partido político alguno, en el año anterior a su elección;
 
 IX. No ser ministro de ningún culto religioso o miembro activo de las fuerzas armadas del país; y,
 
@@ -1562,3 +1564,9 @@ SEGUNDO. El Consejo General de (sic) Instituto Electoral de Michoacán; el Pleno
 El Pleno del Consejo del Poder Judicial del Estado de Michoacán, contará con sesenta días naturales a partir de la entrada en vigor del presente Decreto, para remitir al Congreso el nombramiento, acompañado del expediente debidamente foliado y pormenorizado, en el que se incluirá la documentación que acredita el cumplimiento de los requisitos constitucionales, el examen practicado y su resultado, para que el Congreso haga la ratificación del titular del Órgano Interno de Control.
 
 TERCERO. El Poder Judicial del Estado de Michoacán; el Instituto Electoral de Michoacán; el Tribunal Electoral del Estado de Michoacán; el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales y la Comisión Estatal de Derechos Humanos, contará con un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto para adecuar su normativa interna.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO DÉCIMO TERCERO.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 20 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
