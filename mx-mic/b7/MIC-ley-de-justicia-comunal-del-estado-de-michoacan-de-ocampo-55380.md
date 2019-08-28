@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-justicia-comunal-del-estado-de-michoacan-de-ocampo-55380
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-08"
-last_updated: "2016-12-29"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55380&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE JUSTICIA COMUNAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el martes 8 de mayo de 2007.
 
@@ -139,9 +139,11 @@ Cuando la autoridad administrativa tenga conocimiento de las faltas administrati
 
 Los agentes del Ministerio Público ejercitarán acción penal ante los jueces comunales, por la comisión de los delitos previstos por este ordenamiento, siempre que el ofendido y el indiciado sean miembros de las comunidades de su jurisdicción y que el ofendido opte por someterse a la justicia comunal.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 19.
 
-La Procuraduría General de Justicia del Estado en el área de su competencia, dictará las medidas correspondientes, a fin de que las agencias del Ministerio Público con jurisdicción en las comunidades en las que tenga competencia un Juez Comunal, coadyuven con éste en la vigilancia y cumplimiento de los objetivos de esta Ley.
+La Fiscalía General del Estado en el área de su competencia, dictará las medidas correspondientes, a fin de que las agencias del Ministerio Público con jurisdicción en las comunidades en las que tenga competencia un Juez Comunal, coadyuven con éste en la vigilancia y cumplimiento de los objetivos de esta Ley.
 
 ### CAPÍTULO VII. DEL PROCEDIMIENTO ANTE LOS JUECES COMUNALES
 
@@ -212,3 +214,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO DÉCIMO SEGUNDO.- SE REFORMA EL ARTÍCULO 19 DE LA LEY DE JUSTICIA COMUNAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
