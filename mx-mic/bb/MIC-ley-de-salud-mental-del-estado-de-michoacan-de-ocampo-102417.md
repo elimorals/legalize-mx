@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-mental-del-estado-de-michoacan-de-ocampo-102417"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2017-12-26"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -63,7 +63,9 @@ La salud mental, se define como un estado de bienestar que una persona experimen
 
 Toda persona que habite o transite en el Estado de Michoacán, independientemente de su edad, género, condición social, condiciones de salud, religión, condición fisiológica, ideológica, creencia, origen, identidad étnica, orientación sexual o estatus político tiene derecho a la salud mental.
 
-El Gobierno, las dependencias e instituciones públicas, sociales y privadas, en el ámbito de sus respectivas competencias, tienen la obligación de garantizar el cumplimiento de este derecho, con estricto respeto a los derechos humanos.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+El Gobierno, las dependencias e instituciones públicas, sociales y privadas, deben garantizar el pleno cumplimiento del derecho a la salud mental atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes.
 
 ###### Artículo 4°.
 
@@ -812,3 +814,11 @@ P.O. 26 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 423 POR EL QUE "SE ADICIONAN LAS FRACCIONES X BIS Y XXI BIS AL ARTÍCULO 4°, UNA FRACCIÓN IV BIS AL ARTÍCULO 10, UNA FRACCIÓN IV BIS AL ARTÍCULO 16, UN SEGUNDO PÁRRAFO AL ARTÍCULO 17, UNA FRACCIÓN VII BIS AL ARTÍCULO 43, UN SEGUNDO PÁRRAFO AL ARTÍCULO 56, UN SEGUNDO PÁRRAFO AL ARTÍCULO 57; Y SE REFORMA EL ARTÍCULO 39 DE LA LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 154 POR EL QUE “SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 3° DE LA LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
