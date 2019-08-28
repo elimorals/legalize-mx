@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-y-prevencion-de-la-violencia-familiar-2433
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-11"
-last_updated: "2016-12-29"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2002.
 
@@ -89,9 +89,11 @@ Los Ayuntamientos en el ámbito de su competencia promoverán la creación de un
 
 ### CAPÍTULO ÚNICO. DE LA COORDINACIÓN Y CONCERTACIÓN
 
-###### Artículo 7º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-Se crea el Consejo Estatal para la Asistencia, Atención y Prevención de la Violencia Familiar como órgano normativo, de apoyo, coordinación y evaluación de las acciones en la materia, Será presidido por el Gobernador del Estado, y lo integrarán los titulares de la Secretaría General de Gobierno, la Procuraduría General de Justicia del Estado, la Secretaría de Educación Estatal, la Secretaría de Salud Estatal, la Coordinación de Gestión Social, el Sistema para el Desarrollo Integral de la Familia Michoacana y un representante del Poder Legislativo del Estado nombrado por el Pleno.
+###### Artículo 7°.
+
+Se crea el Consejo Estatal para la Asistencia, Atención y Prevención de la Violencia Familiar como órgano normativo, de apoyo, coordinación y evaluación de las acciones en la materia, será presidido por el Gobernador del Estado, y lo integrarán los titulares de la Secretaría General de Gobierno, la Fiscalía General del Estado, la Secretaría de Educación Estatal, la Secretaría de Salud Estatal, la Coordinación de Gestión Social, el Sistema para el Desarrollo Integral de la Familia Michoacana y un representante del Poder Legislativo del Estado nombrado por el Pleno.
 
 Cuando se aborden asuntos de carácter regional, deberán de integrarse al Consejo los Presidentes Municipales de los municipios involucrados con derecho a voz y voto.
 
@@ -187,7 +189,9 @@ VI. Emitir opiniones o dictámenes que se le requieran por las autoridades juris
 
 VII. Poner del conocimiento del juez de primera instancia en materia familiar y en su caso civil, o al ministerio público para que intervengan en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de cuestiones relacionadas con la violencia familiar, para que se dicten las medidas precautorias que correspondan; y,
 
-VIII. De igual forma, podrá solicitar a la Procuraduría General de Justicia del Estado, le sean remitidos todos aquellos receptores y presuntos generadores de violencia familiar, a efecto de intervenir conforme a las atribuciones que le confiere la ley, cuando no exista ilícito penal; o bien para auxiliar valorando el daño psicoemocional generado con motivo de la exposición a dicha violencia.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+VIII. De igual forma, podrá solicitar a la Fiscalía General del Estado, le sean remitidos todos aquellos receptores y presuntos generadores de violencia familiar, a efecto de intervenir conforme a las atribuciones que le confiere la ley, cuando no exista ilícito penal; o bien para auxiliar valorando el daño psicoemocional generado con motivo de la exposición a dicha violencia.
 
 ## TÍTULO CUARTO
 
@@ -326,3 +330,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO VIGÉSIMO SEXTO. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 7 Y LA FRACCIÓN VIII DEL ARTÍCULO 16 DE LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
